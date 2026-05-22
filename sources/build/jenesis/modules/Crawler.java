@@ -23,7 +23,10 @@ public final class Crawler implements AutoCloseable {
                                 Duration budget,
                                 int concurrency,
                                 int tailSize,
-                                long checkpointEvery) {
+                                long checkpointEvery,
+                                long smallJarThreshold) {
+
+        public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
 
         public static Configuration defaults() {
             return new Configuration(
@@ -31,9 +34,10 @@ public final class Crawler implements AutoCloseable {
                     DEFAULT_ARTIFACT_BASE,
                     Path.of("data"),
                     Duration.ofMinutes(160L),
-                    128,
+                    256,
                     Scanner.DEFAULT_TAIL_SIZE,
-                    2000L
+                    2000L,
+                    DEFAULT_SMALL_JAR_THRESHOLD
             );
         }
     }
@@ -146,8 +150,9 @@ public final class Crawler implements AutoCloseable {
     private Result runFromFile(Worklist worklist, State state, Path statePath) throws IOException {
         System.out.println("Resuming existing worklist: position " + state.worklistPosition()
                 + "/" + state.worklistRecords() + " records");
+        long pinnedRecords = state.worklistRecords();
         try (FileBatchSource source = new FileBatchSource(worklist, state.worklistPosition(), configuration.concurrency())) {
-            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition());
+            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition(), () -> pinnedRecords);
         } catch (InterruptedException interrupted) {
             Thread.currentThread().interrupt();
             throw new IOException("Interrupted", interrupted);
@@ -168,7 +173,7 @@ public final class Crawler implements AutoCloseable {
         try (WorklistStream stream = new WorklistStream(tempFile, fetcher, Crawler::isInteresting)) {
             stream.start(indexUris);
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
-                Result result = process(source, streamingState, statePath, mode, 0L);
+                Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced);
                 stream.close();
                 if (stream.error() != null) {
                     throw stream.error();
@@ -211,7 +216,8 @@ public final class Crawler implements AutoCloseable {
                            State state,
                            Path statePath,
                            SyncMode syncMode,
-                           long startPosition) throws IOException, InterruptedException {
+                           long startPosition,
+                           LongSupplier knownTotal) throws IOException, InterruptedException {
         Instant deadline = Instant.now().plus(configuration.budget());
         long processed = 0L;
         long modular = 0L;
@@ -247,11 +253,11 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, modular, failed, syncMode);
+                    state = checkpoint(state, statePath, position, processed, modular, failed, syncMode, knownTotal);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, position, processed, modular, failed, syncMode);
+            state = checkpoint(state, statePath, position, processed, modular, failed, syncMode, knownTotal);
         }
         return new Result(processed, modular, failed, state.worklistComplete(), syncMode);
     }
@@ -274,13 +280,18 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, SyncMode syncMode) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, SyncMode syncMode, LongSupplier knownTotal) throws IOException {
         synchronized (store) {
             store.flush();
         }
+        long total = knownTotal.getAsLong();
         State updated = state.withPosition(position);
+        if (total >= 0L) {
+            updated = updated.withRecords(total);
+        }
         updated.save(statePath);
-        System.out.println("checkpoint processed=" + processed + " modular=" + modular + " failed=" + failed + " position=" + position);
+        System.out.println("checkpoint processed=" + processed + " modular=" + modular + " failed=" + failed
+                + " position=" + position + "/" + updated.worklistRecords());
         checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
         return updated;
     }
@@ -288,11 +299,22 @@ public final class Crawler implements AutoCloseable {
     private ScanOutcome scanOne(Coordinate coordinate) {
         try {
             URI uri = configuration.artifactBaseUri().resolve(coordinate.mavenPath());
-            ByteSource source = fetcher.sourceWithCachedTail(uri, configuration.tailSize());
+            ByteSource source = fetchSource(coordinate, uri);
             Optional<ScannedModule> module = scanner.scan(source);
             return new ScanOutcome(coordinate, module, null);
         } catch (Throwable error) {
             return new ScanOutcome(coordinate, Optional.empty(), error);
         }
+    }
+
+    private ByteSource fetchSource(Coordinate coordinate, URI uri) throws IOException {
+        long size = coordinate.size();
+        if (size > 0L && size <= configuration.smallJarThreshold()) {
+            byte[] bytes = fetcher.range(uri, 0L, (int) size);
+            if (bytes.length == size) {
+                return ByteSource.ofBytes(bytes);
+            }
+        }
+        return fetcher.sourceWithCachedTail(uri, configuration.tailSize());
     }
 }

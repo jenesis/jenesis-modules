@@ -6,7 +6,7 @@ public final class IndexReader implements Closeable {
 
     public static final int FORMAT_VERSION = 1;
 
-    private static final int FLAG_COMPRESSED = 0x04;
+    private static final int FLAG_COMPRESSED = 0x08;
 
     private final DataInputStream input;
     private final int version;

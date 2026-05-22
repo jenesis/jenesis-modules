@@ -10,8 +10,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class IndexReaderTest {
 
-    private static final int FLAG_STORED = 0x02;
-    private static final int FLAG_COMPRESSED = 0x04;
+    private static final int FLAG_STORED = 0x04;
+    private static final int FLAG_COMPRESSED = 0x08;
 
     @Test
     public void reads_header_and_returns_null_at_eof() throws IOException {

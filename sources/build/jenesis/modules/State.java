@@ -26,6 +26,10 @@ public record State(long worklistPosition,
         return new State(0L, records, indexChunkLastApplied, indexTimestamp, indexChainId, startedAt);
     }
 
+    public State withRecords(long records) {
+        return new State(worklistPosition, records, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
+    }
+
     public State withIndex(long chunk, long timestamp, String chainId) {
         return new State(worklistPosition, worklistRecords, chunk, timestamp, chainId, sweepStartedAt);
     }
