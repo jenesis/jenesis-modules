@@ -18,7 +18,7 @@ public class ModuleStoreTest {
     Path root;
 
     @Test
-    public void writes_entries_newest_first_under_first_letter_shard() throws IOException {
+    public void writes_entries_newest_first_under_dotted_directory_path() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("com.example.lib", ModuleType.NAMED, coordinate("com.example", "lib", "1.0", null));
         store.record("com.example.lib", ModuleType.NAMED, coordinate("com.example", "lib", "2.0", null));
@@ -26,13 +26,29 @@ public class ModuleStoreTest {
 
         store.flush();
 
-        Path file = root.resolve("c").resolve("com.example.lib");
+        Path file = root.resolve("com").resolve("example").resolve("lib").resolve("versions.tsv");
         assertThat(file).exists();
         List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
         assertThat(lines).containsExactly(
                 "2.0\tnamed\tcom.example:lib",
                 "1.0\tnamed\tcom.example:lib",
                 "0.9\tautomatic\tcom.example:lib");
+    }
+
+    @Test
+    public void prefix_module_and_child_module_coexist_without_path_conflict() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("jakarta.servlet", ModuleType.NAMED, coordinate("jakarta.servlet", "jakarta.servlet-api", "5.0", null));
+        store.record("jakarta.servlet.api", ModuleType.NAMED, coordinate("jakarta.servlet", "jakarta.servlet-api", "6.0", null));
+        store.flush();
+
+        Path prefix = root.resolve("jakarta").resolve("servlet").resolve("versions.tsv");
+        Path child = root.resolve("jakarta").resolve("servlet").resolve("api").resolve("versions.tsv");
+
+        assertThat(prefix).exists();
+        assertThat(child).exists();
+        assertThat(Files.readAllLines(prefix)).containsExactly("5.0\tnamed\tjakarta.servlet:jakarta.servlet-api");
+        assertThat(Files.readAllLines(child)).containsExactly("6.0\tnamed\tjakarta.servlet:jakarta.servlet-api");
     }
 
     @Test
@@ -45,19 +61,19 @@ public class ModuleStoreTest {
         second.record("alpha.module", ModuleType.NAMED, coordinate("a", "alpha", "2.0", null));
         second.flush();
 
-        List<String> lines = Files.readAllLines(root.resolve("a").resolve("alpha.module"), StandardCharsets.UTF_8);
+        List<String> lines = Files.readAllLines(root.resolve("alpha").resolve("module").resolve("versions.tsv"));
         assertThat(lines).containsExactly(
                 "2.0\tnamed\ta:alpha",
                 "1.0\tnamed\ta:alpha");
     }
 
     @Test
-    public void classifier_is_appended_to_file_name() throws IOException {
+    public void classifier_is_appended_to_leaf_file_name() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("widget.core", ModuleType.NAMED, coordinate("org.widget", "core", "1.0", "jakarta"));
         store.flush();
 
-        Path file = root.resolve("w").resolve("widget.core-jakarta");
+        Path file = root.resolve("widget").resolve("core").resolve("versions-jakarta.tsv");
         assertThat(file).exists();
         assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\torg.widget:core");
     }
@@ -84,7 +100,7 @@ public class ModuleStoreTest {
         store.record("shared.name", ModuleType.NAMED, coordinate("a.example", "lib", "1.0", null));
         store.flush();
 
-        List<String> lines = Files.readAllLines(root.resolve("s").resolve("shared.name"), StandardCharsets.UTF_8);
+        List<String> lines = Files.readAllLines(root.resolve("shared").resolve("name").resolve("versions.tsv"), StandardCharsets.UTF_8);
 
         assertThat(lines).containsExactly(
                 "1.0\tnamed\ta.example:lib",
@@ -96,6 +112,13 @@ public class ModuleStoreTest {
         assertThatThrownBy(() -> new ModuleStore.StoreKey("not-allowed", null))
                 .isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("dash");
+    }
+
+    @Test
+    public void rejects_module_name_with_empty_segment() {
+        assertThatThrownBy(() -> new ModuleStore.StoreKey("foo..bar", null))
+                .isInstanceOf(IllegalArgumentException.class)
+                .hasMessageContaining("empty dot-separated segments");
     }
 
     private static Coordinate coordinate(String groupId, String artifactId, String version, String classifier) {

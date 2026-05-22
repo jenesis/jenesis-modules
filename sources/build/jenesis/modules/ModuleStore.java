@@ -12,6 +12,9 @@ public final class ModuleStore {
         this.dirty = new HashMap<>();
     }
 
+    public static final String LEAF_FILE_BASE = "versions";
+    public static final String LEAF_FILE_EXTENSION = ".tsv";
+
     public record StoreKey(String moduleName, String classifier) {
 
         public StoreKey {
@@ -22,17 +25,27 @@ public final class ModuleStore {
             if (moduleName.indexOf('-') >= 0) {
                 throw new IllegalArgumentException("moduleName must not contain a dash: " + moduleName);
             }
+            if (moduleName.indexOf('/') >= 0 || moduleName.indexOf('\\') >= 0) {
+                throw new IllegalArgumentException("moduleName must not contain a path separator: " + moduleName);
+            }
+            for (String segment : moduleName.split("\\.", -1)) {
+                if (segment.isEmpty()) {
+                    throw new IllegalArgumentException("moduleName must not contain empty dot-separated segments: " + moduleName);
+                }
+            }
             if (classifier != null && classifier.isEmpty()) {
                 throw new IllegalArgumentException("classifier must be null or non-empty");
             }
         }
 
-        public String fileName() {
-            return classifier == null ? moduleName : moduleName + '-' + classifier;
+        public String[] segments() {
+            return moduleName.split("\\.", -1);
         }
 
-        public String shard() {
-            return String.valueOf(moduleName.charAt(0));
+        public String fileName() {
+            return classifier == null
+                    ? LEAF_FILE_BASE + LEAF_FILE_EXTENSION
+                    : LEAF_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
         }
     }
 
@@ -54,7 +67,11 @@ public final class ModuleStore {
     }
 
     public Path pathFor(StoreKey key) {
-        return root.resolve(key.shard()).resolve(key.fileName());
+        Path path = root;
+        for (String segment : key.segments()) {
+            path = path.resolve(segment);
+        }
+        return path.resolve(key.fileName());
     }
 
     public NavigableSet<ModuleEntry> read(String moduleName, String classifier) throws IOException {

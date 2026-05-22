@@ -297,24 +297,28 @@ public final class Crawler implements AutoCloseable {
     }
 
     private ScanOutcome scanOne(Coordinate coordinate) {
+        URI uri;
         try {
-            URI uri = configuration.artifactBaseUri().resolve(coordinate.mavenPath());
-            ByteSource source = fetchSource(coordinate, uri);
+            uri = configuration.artifactBaseUri().resolve(coordinate.mavenPath());
+        } catch (Throwable error) {
+            return new ScanOutcome(coordinate, Optional.empty(), error);
+        }
+        long size = coordinate.size();
+        if (size > 0L && size <= configuration.smallJarThreshold()) {
+            try {
+                byte[] bytes = fetcher.range(uri, 0L, (int) size);
+                Optional<ScannedModule> module = scanner.scan(ByteSource.ofBytes(bytes));
+                return new ScanOutcome(coordinate, module, null);
+            } catch (IOException | IllegalArgumentException smallJarFailure) {
+                // Likely a size mismatch with the index; fall back to the cached-tail path.
+            }
+        }
+        try {
+            ByteSource source = fetcher.sourceWithCachedTail(uri, configuration.tailSize());
             Optional<ScannedModule> module = scanner.scan(source);
             return new ScanOutcome(coordinate, module, null);
         } catch (Throwable error) {
             return new ScanOutcome(coordinate, Optional.empty(), error);
         }
-    }
-
-    private ByteSource fetchSource(Coordinate coordinate, URI uri) throws IOException {
-        long size = coordinate.size();
-        if (size > 0L && size <= configuration.smallJarThreshold()) {
-            byte[] bytes = fetcher.range(uri, 0L, (int) size);
-            if (bytes.length == size) {
-                return ByteSource.ofBytes(bytes);
-            }
-        }
-        return fetcher.sourceWithCachedTail(uri, configuration.tailSize());
     }
 }

@@ -69,6 +69,9 @@ public final class Fetcher implements AutoCloseable {
         }
         byte[] body = response.body();
         if (status == 200 && body.length != length) {
+            if (offset == 0L) {
+                return body;
+            }
             return Arrays.copyOfRange(body, (int) offset, (int) Math.min(offset + length, body.length));
         }
         return body;
