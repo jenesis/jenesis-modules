@@ -34,7 +34,7 @@ public final class Crawler implements AutoCloseable {
                     DEFAULT_ARTIFACT_BASE,
                     Path.of("data"),
                     Duration.ofMinutes(160L),
-                    256,
+                    96,
                     Scanner.DEFAULT_TAIL_SIZE,
                     2000L,
                     DEFAULT_SMALL_JAR_THRESHOLD
@@ -92,23 +92,65 @@ public final class Crawler implements AutoCloseable {
         String key = categorize(error);
         FailureBucket bucket = failures.computeIfAbsent(key, ignored -> new FailureBucket());
         if (bucket.count.incrementAndGet() == 1L) {
-            String message = error.getMessage();
-            bucket.sample = message == null
-                    ? error.getClass().getName()
-                    : message.length() > 240 ? message.substring(0, 240) + "..." : message;
+            bucket.sample = sampleOf(error);
         }
     }
 
     private static String categorize(Throwable error) {
-        String className = error.getClass().getSimpleName();
-        String message = error.getMessage();
-        if (message != null) {
-            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+        String topName = error.getClass().getSimpleName();
+        String topMessage = error.getMessage();
+        if (topMessage != null) {
+            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(topMessage);
             if (matcher.find()) {
-                return className + " status=" + matcher.group(1);
+                return topName + " status=" + matcher.group(1);
             }
         }
-        return className;
+        Throwable root = rootCause(error);
+        if (root == error) {
+            return topName;
+        }
+        String rootName = root.getClass().getSimpleName();
+        String rootMessage = root.getMessage();
+        if (rootMessage != null) {
+            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(rootMessage);
+            if (matcher.find()) {
+                return rootName + " status=" + matcher.group(1);
+            }
+        }
+        return topName + " <- " + rootName;
+    }
+
+    private static String sampleOf(Throwable error) {
+        StringBuilder builder = new StringBuilder();
+        appendThrowableLine(builder, error);
+        Throwable cause = error.getCause();
+        Set<Throwable> seen = new HashSet<>();
+        seen.add(error);
+        while (cause != null && seen.add(cause)) {
+            builder.append(" | cause=");
+            appendThrowableLine(builder, cause);
+            cause = cause.getCause();
+        }
+        String text = builder.toString();
+        return text.length() > 360 ? text.substring(0, 360) + "..." : text;
+    }
+
+    private static void appendThrowableLine(StringBuilder builder, Throwable error) {
+        builder.append(error.getClass().getSimpleName());
+        String message = error.getMessage();
+        if (message != null && !message.isEmpty()) {
+            builder.append(": ").append(message);
+        }
+    }
+
+    private static Throwable rootCause(Throwable error) {
+        Throwable current = error;
+        Set<Throwable> seen = new HashSet<>();
+        seen.add(current);
+        while (current.getCause() != null && seen.add(current.getCause())) {
+            current = current.getCause();
+        }
+        return current;
     }
 
     private Map<String, FailureBreakdown> snapshotFailures() {

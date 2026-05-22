@@ -58,7 +58,7 @@ Common flags:
 |---|---|---|
 | `--data <dir>` | `data` | Where state, worklist, and module files live. |
 | `--budget-minutes <n>` | 160 | Wall-clock budget for this run. |
-| `--concurrency <n>` | 256 | Maximum in-flight artifact fetches. |
+| `--concurrency <n>` | 96 | Maximum in-flight artifact fetches; kept under the HTTP/2 stream limit per connection. |
 | `--tail-size <n>` | 65536 | Bytes range-fetched from the end of each JAR. |
 | `--small-jar-threshold <n>` | 262144 | JAR size at or below which we fetch the whole file in one request. |
 | `--checkpoint-every <n>` | 2000 | Coordinates between on-disk checkpoints. |

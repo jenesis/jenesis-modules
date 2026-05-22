@@ -53,7 +53,7 @@ jobs:
       - name: Run crawler with incremental commits
         env:
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
-          CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '256' }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '96' }}
           INDEX_BASE: ${{ vars.INDEX_BASE }}
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
