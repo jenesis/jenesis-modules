@@ -12,13 +12,19 @@ data/
 ├── STATUS.md                     # live progress snapshot, rewritten every checkpoint
 ├── state.properties              # crawler resume point (index chain, position, etc.)
 ├── worklist.tsv                  # current sweep's pending coordinates (if any)
-└── modules/
-    ├── com/fasterxml/jackson/core/versions.tsv
-    ├── com/fasterxml/jackson/core/versions-no_aopalliance.tsv
-    ├── org/slf4j/versions.tsv
-    ├── org/slf4j/api/versions.tsv
+├── modules/                      # per-module version history (what consumers care about)
+│   ├── com/fasterxml/jackson/core/versions.tsv
+│   ├── com/fasterxml/jackson/core/versions-no_aopalliance.tsv
+│   ├── org/slf4j/versions.tsv
+│   ├── org/slf4j/api/versions.tsv
+│   └── ...
+└── scanned/                      # per-group "we have already looked at these JARs" index
+    ├── com/fasterxml/jackson/scanned.tsv
+    ├── org/slf4j/scanned.tsv
     └── ...
 ```
+
+### `data/modules/<dotted/path>/versions[-<classifier>].tsv`
 
 Each module's directory path mirrors the dot-separated module name. The leaf file is always `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant), three tab-separated columns, sorted by Maven version descending then by group:artifact:
 
@@ -29,12 +35,16 @@ Each module's directory path mirrors the dot-separated module name. The leaf fil
 ```
 
 - Column 1: version as published.
-- Column 2: `named` (the JAR contains `module-info.class`) or `automatic` (the JAR's manifest has `Automatic-Module-Name`). Non-modular JARs are not recorded.
+- Column 2: `named` (the JAR contains `module-info.class`, either at the root or at the highest `META-INF/versions/<N>/module-info.class` of a multi-release JAR) or `automatic` (the JAR's manifest sets `Automatic-Module-Name`). Non-modular JARs are not recorded.
 - Column 3: `groupId:artifactId`. Combined with column 1 this gives the full Maven coordinate.
 
 The hierarchical layout means a module whose name is a prefix of another module name coexists without conflict: `org.slf4j` and `org.slf4j.api` live at `org/slf4j/versions.tsv` and `org/slf4j/api/versions.tsv` respectively. The directory `org/slf4j` holds both its own `versions.tsv` and the `api/` subtree.
 
 Lookup math (no parsing required): `data/modules/<segments-joined-by-slash>/versions[-<classifier>].tsv`.
+
+### `data/scanned/<dotted/path>/scanned.tsv`
+
+For every groupId we have ever scanned an artifact under, a `scanned.tsv` file lists every `(artifactId, version, classifier)` we have looked at. Three tab-separated columns: `artifactId`, `version`, `classifier-or-empty`. Used internally by the crawler to skip coordinates on subsequent runs - Maven Central is immutable per GAV, so once a JAR has been scanned we never need to look at it again.
 
 ## Running the crawler
 
@@ -50,17 +60,17 @@ For a quick local smoke run with a tiny budget:
 java --source 25 sources/build/jenesis/modules/Main.java --data smoke-data --budget-minutes 3
 ```
 
-On a first run the crawler streams the full Maven Central index while the scanner is already consuming coordinates from the queue, so artifact scanning starts within the first second or two. The 3-minute budget governs wall-clock time spent in the scan loop; when it expires the crawler exits cleanly, leaving `data/modules/`, `data/state.properties`, and `data/STATUS.md` in a consistent state.
+On a first run the crawler streams the full Maven Central index while the scanner is already consuming coordinates from the queue, so artifact scanning starts within the first second or two. The 3-minute budget governs wall-clock time spent in the scan loop; when it expires the crawler exits cleanly, leaving everything under `data/` in a consistent state.
 
 Common flags:
 
 | Flag | Default | Purpose |
 |---|---|---|
-| `--data <dir>` | `data` | Where state, worklist, and module files live. |
+| `--data <dir>` | `data` | Where state, worklist, module files, and the scanned-index live. |
 | `--budget-minutes <n>` | 160 | Wall-clock budget for this run. |
 | `--concurrency <n>` | 96 | Maximum in-flight artifact fetches; kept under the HTTP/2 stream limit per connection. |
 | `--tail-size <n>` | 65536 | Bytes range-fetched from the end of each JAR. |
-| `--small-jar-threshold <n>` | 262144 | JAR size at or below which we fetch the whole file in one request. |
+| `--small-jar-threshold <n>` | 262144 | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |
 | `--checkpoint-every <n>` | 2000 | Coordinates between on-disk checkpoints. |
 | `--index-base <uri>` | Maven Central index | Base URI of the index. |
 | `--artifact-base <uri>` | GCS mirror | Base URI used to range-fetch JARs. |
@@ -74,11 +84,18 @@ All flags can also be set via matching environment variables (`BUDGET_MINUTES`, 
    - **Full**: first run, or the chain id has rotated. Stream the full Lucene index.
    - **Incremental**: chain id unchanged and there are new chunks. Stream only the new incremental chunks.
    - **Up to date**: nothing new published. Exit immediately.
-3. Producer reads the index and pushes filtered coordinates onto a bounded queue while writing them to `worklist.tsv.streaming` on disk. The scanner consumes from the queue concurrently, range-fetches each JAR's tail (or the whole JAR for small ones), parses `module-info.class` or `META-INF/MANIFEST.MF`, and records the result.
-4. Checkpoint every 2000 coordinates: flush module entries to disk, save `state.properties`, rewrite `STATUS.md`, and (optionally) commit + push to git.
-5. On clean sync completion `worklist.tsv.streaming` is renamed to `worklist.tsv` and the index chain watermark advances. On budget-truncated sync the streaming file is discarded and the next run re-syncs - module entries that were scanned during the partial run are preserved.
+3. The producer reads the index and emits filtered coordinates onto a bounded queue while writing them to `worklist.tsv.streaming` on disk. Two filters run at the producer:
+   - **Extension**: only `jar` artifacts, dropping `sources`, `javadoc`, `tests`, etc. classifiers.
+   - **Already scanned**: the in-memory `ScannedStore` (loaded from `data/scanned/`) rejects coordinates we've seen before, so those JARs are never fetched again.
+4. The scanner consumes from the queue concurrently. For each coordinate it either fetches the whole small JAR in one ranged GET, or fetches the central-directory tail and then ranges the specific entry it needs. Detection order:
+   1. `module-info.class` at the JAR root → `named`.
+   2. Highest-version `META-INF/versions/<N>/module-info.class` (multi-release JARs) → `named`.
+   3. `META-INF/MANIFEST.MF` with `Automatic-Module-Name` → `automatic`.
+   4. Otherwise no record is written.
+5. On every checkpoint (default every 2000 coordinates): flush module entries, update the scanned-coordinate index, save `state.properties`, rewrite `STATUS.md`, and (when `GIT_PUBLISH=1`) commit + push.
+6. On clean sync completion `worklist.tsv.streaming` is renamed to `worklist.tsv` and the index chain watermark advances. On budget-truncated sync the streaming file is discarded and the next run re-syncs - module entries already recorded and the scanned-coordinate index are preserved.
 
-A run stops when its wall-clock budget expires or the worklist is exhausted. The next run resumes from the recorded position.
+A run stops when its wall-clock budget expires or the worklist is exhausted. The next run picks up by either resuming the existing `worklist.tsv` (sync had completed), or re-syncing the index but skipping every coordinate already in `data/scanned/`.
 
 ## Building and testing with Jenesis
 
@@ -90,11 +107,11 @@ java build/jenesis/Project.java                 # build + run tests
 java build/jenesis/Project.java stage           # build + stage a clean modular jar under target/stage/
 ```
 
-The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.modules/0-SNAPSHOT/build.jenesis.modules-0-SNAPSHOT.jar` and is a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
+The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.modules/0-SNAPSHOT/build.jenesis.modules-0-SNAPSHOT.jar`, a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
 
 ## Continuous crawling via GitHub Actions
 
-`.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90 minute Java budget inside a 100 minute job timeout. With `GIT_PUBLISH=1` the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step pushes anything not yet committed.
+`.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. With `GIT_PUBLISH=1` the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
 
 `build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI.
 
@@ -119,14 +136,15 @@ Unset variables keep the built-in defaults.
 
 - **`data/STATUS.md`**: rewritten at every checkpoint. Position, percentage, throughput, ETA, sync mode, index chain id. Visible in the GitHub web UI without clicking into any tabs.
 - **Commit log**: each checkpoint produces a commit whose message contains `position=<n>/<total> processed=<n> modular=<n>`. `git log --since="3 hours ago" --pretty=format:'%ar %s' data/` gives a trajectory.
-- **Actions step summary**: each completed run renders a "Crawl run summary" table on its Actions page.
+- **Actions step summary**: each completed run renders a "Crawl run summary" table on its Actions page, including a per-category failure breakdown (exception class + HTTP status code when present, plus a sample message).
 - **Badges**: the README badges at the top reflect the most recent build and crawl outcomes.
 
 ## Limitations to be aware of
 
-- **First sweep size**: the initial worklist is ~8 million coordinates. Even at full GCS throughput this takes hours of crawl time, split across however many scheduled runs it takes.
-- **Index chain rotation**: if Maven Central republishes its index from scratch (rare, but happens) the chain id changes and a full sweep is triggered automatically. Existing per-module files are preserved and merged.
+- **First sweep size**: the initial worklist is ~8 million coordinates. Even at full GCS throughput this takes hours of crawl time, split across however many scheduled runs it takes. The scanned-coordinate index makes successive runs additive rather than repetitive.
+- **Index chain rotation**: if Maven Central republishes its index from scratch (rare, but happens) the chain id changes and a full sweep is triggered automatically. Existing module files and the scanned-coordinate index are preserved across the rotation, so already-scanned coordinates are still skipped.
 - **Deleted artifacts**: incremental chunks can contain deletion markers. They are ignored. A coordinate that was modular and is later deleted from Central remains in the module files.
+- **Transient scan failures**: a coordinate that fails due to a network blip or HTTP/2 stream burst is left unmarked in `data/scanned/`, so the next run retries it. Genuinely broken artifacts (malformed ZIP, etc.) will keep failing every run.
 
 ## Project layout
 
