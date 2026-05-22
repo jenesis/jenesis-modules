@@ -5,6 +5,7 @@ import module java.base;
 public final class GitPublisher implements CheckpointListener {
 
     public static final int DEFAULT_PUSH_EVERY = 1;
+    public static final int DEFAULT_PUSH_ATTEMPTS = 3;
     public static final Duration COMMAND_TIMEOUT = Duration.ofMinutes(5L);
 
     private final Path workingDirectory;
@@ -64,7 +65,23 @@ public final class GitPublisher implements CheckpointListener {
     }
 
     private void push() throws IOException {
-        run(List.of("git", "push"), true);
+        IOException lastError = null;
+        for (int attempt = 0; attempt < DEFAULT_PUSH_ATTEMPTS; attempt++) {
+            try {
+                run(List.of("git", "push"), true);
+                return;
+            } catch (IOException pushFailed) {
+                lastError = pushFailed;
+                if (attempt < DEFAULT_PUSH_ATTEMPTS - 1) {
+                    try {
+                        run(List.of("git", "pull", "--rebase"), false);
+                    } catch (IOException rebaseFailed) {
+                        System.err.println("git publisher rebase failed, will retry push anyway: " + rebaseFailed.getMessage());
+                    }
+                }
+            }
+        }
+        throw lastError;
     }
 
     private static String buildMessage(State state, Statistics statistics) {
