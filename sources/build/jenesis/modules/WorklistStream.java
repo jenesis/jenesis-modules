@@ -5,6 +5,8 @@ import module java.base;
 public final class WorklistStream implements AutoCloseable {
 
     public static final int DEFAULT_QUEUE_CAPACITY = 4096;
+    public static final int DEFAULT_STREAM_ATTEMPTS = 4;
+    public static final Duration DEFAULT_INITIAL_BACKOFF = Duration.ofSeconds(1L);
     public static final Duration JOIN_TIMEOUT = Duration.ofSeconds(5L);
 
     public record QueueItem(Coordinate coordinate, long sequence) {
@@ -98,9 +100,48 @@ public final class WorklistStream implements AutoCloseable {
     }
 
     private void streamIndex(URI uri, BufferedWriter writer) throws IOException, InterruptedException {
+        IOException lastError = null;
+        long backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
+        int consecutiveFailures = 0;
+        while (consecutiveFailures < DEFAULT_STREAM_ATTEMPTS) {
+            long skipTarget = recordsProduced.get();
+            long beforeAttempt = recordsProduced.get();
+            try {
+                streamIndexOnce(uri, writer, skipTarget);
+                return;
+            } catch (IOException io) {
+                lastError = io;
+                long progressed = recordsProduced.get() - beforeAttempt;
+                if (progressed > 0L) {
+                    System.err.println("Producer stream failed after " + progressed + " records emitted: "
+                            + io.getClass().getSimpleName() + ": " + io.getMessage()
+                            + ". Resetting backoff and retrying in " + DEFAULT_INITIAL_BACKOFF.toMillis() + " ms.");
+                    backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
+                    consecutiveFailures = 0;
+                } else {
+                    consecutiveFailures++;
+                    if (consecutiveFailures >= DEFAULT_STREAM_ATTEMPTS) {
+                        break;
+                    }
+                    System.err.println("Producer stream failed without progress (attempt " + consecutiveFailures
+                            + "/" + DEFAULT_STREAM_ATTEMPTS + ") for " + uri + " ("
+                            + io.getClass().getSimpleName() + ": " + io.getMessage()
+                            + "). Retrying in " + backoffMillis + " ms.");
+                }
+                Thread.sleep(backoffMillis);
+                if (progressed == 0L) {
+                    backoffMillis *= 2L;
+                }
+            }
+        }
+        throw lastError;
+    }
+
+    private void streamIndexOnce(URI uri, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
         try (InputStream raw = fetcher.get(uri);
              GZIPInputStream gzipped = new GZIPInputStream(raw);
              IndexReader reader = new IndexReader(gzipped)) {
+            long passed = 0L;
             Map<String, String> record;
             while ((record = reader.nextRecord()) != null) {
                 if (Thread.currentThread().isInterrupted()) {
@@ -114,11 +155,16 @@ public final class WorklistStream implements AutoCloseable {
                 if (!filter.test(candidate)) {
                     continue;
                 }
+                if (passed < skipTarget) {
+                    passed++;
+                    continue;
+                }
                 String line = Worklist.format(candidate);
                 writer.write(line);
                 writer.write('\n');
                 long sequence = recordsProduced.incrementAndGet();
                 queue.put(new QueueItem(candidate, sequence));
+                passed++;
             }
         }
     }

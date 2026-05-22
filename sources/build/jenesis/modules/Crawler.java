@@ -266,7 +266,12 @@ public final class Crawler implements AutoCloseable {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced);
                 stream.close();
                 if (stream.error() != null) {
-                    throw stream.error();
+                    System.err.println("Producer aborted mid-stream: "
+                            + stream.error().getClass().getSimpleName()
+                            + ": " + stream.error().getMessage()
+                            + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
+                    Files.deleteIfExists(tempFile);
+                    return result;
                 }
                 if (stream.completed()) {
                     finalizeStreamedWorklist(worklist, tempFile, statePath, stream, remote);
