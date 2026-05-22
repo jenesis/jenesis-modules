@@ -42,8 +42,13 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    public record Result(long processed, long modular, long failed, boolean worklistComplete, SyncMode syncMode) {
+    public record Result(long processed, long modular, long failed, boolean worklistComplete, SyncMode syncMode, Map<String, FailureBreakdown> failureBreakdown) {
     }
+
+    public record FailureBreakdown(long count, String sampleMessage) {
+    }
+
+    private static final Pattern STATUS_PATTERN = Pattern.compile("returned status (\\d+)");
 
     public record ScanOutcome(Coordinate coordinate, Optional<ScannedModule> module, Throwable error) {
     }
@@ -53,6 +58,7 @@ public final class Crawler implements AutoCloseable {
     private final Scanner scanner;
     private final ModuleStore store;
     private final boolean ownsFetcher;
+    private final ConcurrentMap<String, FailureBucket> failures;
     private CheckpointListener checkpointListener;
 
     public Crawler(Configuration configuration) {
@@ -73,7 +79,45 @@ public final class Crawler implements AutoCloseable {
         this.scanner = Objects.requireNonNull(scanner, "scanner");
         this.store = Objects.requireNonNull(store, "store");
         this.ownsFetcher = ownsFetcher;
+        this.failures = new ConcurrentHashMap<>();
         this.checkpointListener = CheckpointListener.NOOP;
+    }
+
+    private static final class FailureBucket {
+        final AtomicLong count = new AtomicLong();
+        volatile String sample;
+    }
+
+    private void recordFailure(Throwable error) {
+        String key = categorize(error);
+        FailureBucket bucket = failures.computeIfAbsent(key, ignored -> new FailureBucket());
+        if (bucket.count.incrementAndGet() == 1L) {
+            String message = error.getMessage();
+            bucket.sample = message == null
+                    ? error.getClass().getName()
+                    : message.length() > 240 ? message.substring(0, 240) + "..." : message;
+        }
+    }
+
+    private static String categorize(Throwable error) {
+        String className = error.getClass().getSimpleName();
+        String message = error.getMessage();
+        if (message != null) {
+            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+            if (matcher.find()) {
+                return className + " status=" + matcher.group(1);
+            }
+        }
+        return className;
+    }
+
+    private Map<String, FailureBreakdown> snapshotFailures() {
+        return failures.entrySet().stream()
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        entry -> new FailureBreakdown(entry.getValue().count.get(), entry.getValue().sample),
+                        (a, b) -> a,
+                        LinkedHashMap::new));
     }
 
     public Crawler withCheckpointListener(CheckpointListener listener) {
@@ -109,7 +153,7 @@ public final class Crawler implements AutoCloseable {
                 && state.indexChunkLastApplied() >= remote.lastIncremental()) {
             System.out.println("Index already up to date (chain=" + remote.chainId()
                     + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
-            return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE);
+            return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE, Map.of());
         }
         boolean incremental = state.hasIndexBaseline()
                 && Objects.equals(state.indexChainId(), remote.chainId());
@@ -242,6 +286,7 @@ public final class Crawler implements AutoCloseable {
                     ScanOutcome outcome = await(future);
                     if (outcome.error() != null) {
                         failed++;
+                        recordFailure(outcome.error());
                     } else if (outcome.module().isPresent()) {
                         ScannedModule module = outcome.module().get();
                         synchronized (store) {
@@ -259,7 +304,7 @@ public final class Crawler implements AutoCloseable {
             }
             state = checkpoint(state, statePath, position, processed, modular, failed, syncMode, knownTotal);
         }
-        return new Result(processed, modular, failed, state.worklistComplete(), syncMode);
+        return new Result(processed, modular, failed, state.worklistComplete(), syncMode, snapshotFailures());
     }
 
     private static ScanOutcome await(Future<ScanOutcome> future) throws IOException {

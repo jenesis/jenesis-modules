@@ -38,7 +38,21 @@ public final class Main {
         if (!result.worklistComplete()) {
             System.out.println("Worklist still has remaining entries: resume with another run.");
         }
+        printFailureBreakdown(result);
         writeStepSummary(result);
+    }
+
+    private static void printFailureBreakdown(Crawler.Result result) {
+        if (result.failureBreakdown().isEmpty()) {
+            return;
+        }
+        System.out.println("Failure breakdown (" + result.failed() + " total):");
+        result.failureBreakdown().entrySet().stream()
+                .sorted((a, b) -> Long.compare(b.getValue().count(), a.getValue().count()))
+                .forEach(entry -> {
+                    System.out.println("  " + entry.getKey() + ": " + entry.getValue().count());
+                    System.out.println("    sample: " + entry.getValue().sampleMessage());
+                });
     }
 
     private static Crawler.Configuration parse(String[] arguments) {
@@ -174,6 +188,16 @@ public final class Main {
         summary.append("| Modular artifacts recorded | ").append(result.modular()).append(" |\n");
         summary.append("| Failed fetches | ").append(result.failed()).append(" |\n");
         summary.append("| Worklist complete | ").append(result.worklistComplete() ? "yes" : "no, resume next run").append(" |\n");
+        if (!result.failureBreakdown().isEmpty()) {
+            summary.append("\n### Failure breakdown\n\n");
+            summary.append("| Category | Count | Sample |\n");
+            summary.append("|---|---|---|\n");
+            result.failureBreakdown().entrySet().stream()
+                    .sorted((a, b) -> Long.compare(b.getValue().count(), a.getValue().count()))
+                    .forEach(entry -> summary.append("| ").append(entry.getKey())
+                            .append(" | ").append(entry.getValue().count())
+                            .append(" | `").append(entry.getValue().sampleMessage().replace("|", "\\|")).append("` |\n"));
+        }
         try {
             Files.writeString(Path.of(path), summary.toString(), StandardCharsets.UTF_8,
                     StandardOpenOption.CREATE, StandardOpenOption.APPEND);
