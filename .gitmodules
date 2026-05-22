@@ -1,0 +1,4 @@
+[submodule ".jenesis"]
+	path = .jenesis
+	url = https://github.com/raphw/jenesis.git
+	ignore = dirty

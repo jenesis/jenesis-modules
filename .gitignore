@@ -1,5 +1,5 @@
 target/
-.jenesis/
+.jenesis/cache/
 
 ### IntelliJ IDEA ###
 .idea/*

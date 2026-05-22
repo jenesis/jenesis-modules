@@ -24,9 +24,11 @@ public final class Main {
         System.out.println("  indexBase=" + configuration.indexBaseUri());
         System.out.println("  artifactBase=" + configuration.artifactBaseUri());
 
-        Crawler crawler = new Crawler(configuration);
-        configureListener(crawler, configuration);
-        Crawler.Result result = crawler.run();
+        Crawler.Result result;
+        try (Crawler crawler = new Crawler(configuration)) {
+            configureListener(crawler, configuration);
+            result = crawler.run();
+        }
         System.out.println("syncMode=" + result.syncMode()
                 + " processed=" + result.processed()
                 + " modular=" + result.modular()
@@ -59,6 +61,22 @@ public final class Main {
         String envDataDir = System.getenv("DATA_DIR");
         if (envDataDir != null && !envDataDir.isBlank()) {
             dataDir = Path.of(envDataDir.trim());
+        }
+        String envIndexBase = System.getenv("INDEX_BASE");
+        if (envIndexBase != null && !envIndexBase.isBlank()) {
+            indexBase = URI.create(envIndexBase.trim());
+        }
+        String envArtifactBase = System.getenv("ARTIFACT_BASE");
+        if (envArtifactBase != null && !envArtifactBase.isBlank()) {
+            artifactBase = URI.create(envArtifactBase.trim());
+        }
+        String envTailSize = System.getenv("TAIL_SIZE");
+        if (envTailSize != null && !envTailSize.isBlank()) {
+            tailSize = Integer.parseInt(envTailSize.trim());
+        }
+        String envCheckpointEvery = System.getenv("CHECKPOINT_EVERY");
+        if (envCheckpointEvery != null && !envCheckpointEvery.isBlank()) {
+            checkpointEvery = Long.parseLong(envCheckpointEvery.trim());
         }
 
         for (int index = 0; index < arguments.length; index++) {
@@ -166,7 +184,8 @@ public final class Main {
         System.out.println("  --tail-size <n>          Bytes to fetch from each JAR tail");
         System.out.println("  --checkpoint-every <n>   Coordinates between state checkpoints");
         System.out.println();
-        System.out.println("Environment overrides: BUDGET_MINUTES, CONCURRENCY, DATA_DIR");
+        System.out.println("Environment overrides: BUDGET_MINUTES, CONCURRENCY, DATA_DIR,");
+        System.out.println("  INDEX_BASE, ARTIFACT_BASE, TAIL_SIZE, CHECKPOINT_EVERY.");
         System.out.println("Incremental publishing: GIT_PUBLISH=1 to enable; GIT_WORK_DIR (default '.');");
         System.out.println("  GIT_PUSH_EVERY=<n> to push every n checkpoints (default 1).");
     }

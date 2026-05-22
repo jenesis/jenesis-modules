@@ -2,7 +2,7 @@ package build.jenesis.modules;
 
 import module java.base;
 
-public final class Crawler {
+public final class Crawler implements AutoCloseable {
 
     public static final String INDEX_FILE = "nexus-maven-repository-index.gz";
     public static final String INDEX_PROPERTIES_FILE = "nexus-maven-repository-index.properties";
@@ -47,23 +47,40 @@ public final class Crawler {
     private final Fetcher fetcher;
     private final Scanner scanner;
     private final ModuleStore store;
+    private final boolean ownsFetcher;
     private CheckpointListener checkpointListener;
 
     public Crawler(Configuration configuration) {
-        this(configuration, new Fetcher(), new Scanner(configuration.tailSize()), new ModuleStore(configuration.dataDir().resolve("modules")));
+        this(configuration,
+                new Fetcher(),
+                new Scanner(configuration.tailSize()),
+                new ModuleStore(configuration.dataDir().resolve("modules")),
+                true);
     }
 
     public Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store) {
+        this(configuration, fetcher, scanner, store, false);
+    }
+
+    private Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, boolean ownsFetcher) {
         this.configuration = Objects.requireNonNull(configuration, "configuration");
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.scanner = Objects.requireNonNull(scanner, "scanner");
         this.store = Objects.requireNonNull(store, "store");
+        this.ownsFetcher = ownsFetcher;
         this.checkpointListener = CheckpointListener.NOOP;
     }
 
     public Crawler withCheckpointListener(CheckpointListener listener) {
         this.checkpointListener = Objects.requireNonNull(listener, "listener");
         return this;
+    }
+
+    @Override
+    public void close() {
+        if (ownsFetcher) {
+            fetcher.close();
+        }
     }
 
     public Result run() throws IOException {

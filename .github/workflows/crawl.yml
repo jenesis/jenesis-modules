@@ -62,11 +62,15 @@ jobs:
 
       - name: Run crawler with incremental commits
         env:
-          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || '90' }}
-          CONCURRENCY: ${{ github.event.inputs.concurrency || '128' }}
+          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '128' }}
+          INDEX_BASE: ${{ vars.INDEX_BASE }}
+          ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE }}
+          TAIL_SIZE: ${{ vars.TAIL_SIZE }}
+          CHECKPOINT_EVERY: ${{ vars.CHECKPOINT_EVERY }}
           GIT_PUBLISH: '1'
           GIT_WORK_DIR: ${{ github.workspace }}
-          GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || '1' }}
+          GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
         run: |
           set -euo pipefail
           jar="$(ls target/build.jenesis.modules-*.jar | head -n1)"

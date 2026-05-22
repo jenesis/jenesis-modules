@@ -3,7 +3,7 @@ package build.jenesis.modules;
 import module java.base;
 import module java.net.http;
 
-public final class Fetcher {
+public final class Fetcher implements AutoCloseable {
 
     public static final Duration DEFAULT_TIMEOUT = Duration.ofMinutes(2);
     public static final Duration CONNECT_TIMEOUT = Duration.ofSeconds(15);
@@ -175,5 +175,10 @@ public final class Fetcher {
             }
         }
         throw new IOException("Exhausted " + retries + " retries for " + request.uri(), lastError);
+    }
+
+    @Override
+    public void close() {
+        client.close();
     }
 }
