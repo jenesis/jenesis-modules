@@ -1,0 +1,97 @@
+package build.jenesis.modules;
+
+import module java.base;
+
+public final class ModuleStore {
+
+    private final Path root;
+    private final Map<StoreKey, NavigableSet<ModuleEntry>> dirty;
+
+    public ModuleStore(Path root) {
+        this.root = Objects.requireNonNull(root, "root");
+        this.dirty = new HashMap<>();
+    }
+
+    public record StoreKey(String moduleName, String classifier) {
+
+        public StoreKey {
+            Objects.requireNonNull(moduleName, "moduleName");
+            if (moduleName.isEmpty()) {
+                throw new IllegalArgumentException("moduleName must not be empty");
+            }
+            if (moduleName.indexOf('-') >= 0) {
+                throw new IllegalArgumentException("moduleName must not contain a dash: " + moduleName);
+            }
+            if (classifier != null && classifier.isEmpty()) {
+                throw new IllegalArgumentException("classifier must be null or non-empty");
+            }
+        }
+
+        public String fileName() {
+            return classifier == null ? moduleName : moduleName + '-' + classifier;
+        }
+
+        public String shard() {
+            return String.valueOf(moduleName.charAt(0));
+        }
+    }
+
+    public void record(String moduleName, ModuleType type, Coordinate coordinate) {
+        StoreKey key = new StoreKey(moduleName, coordinate.classifier());
+        NavigableSet<ModuleEntry> entries = dirty.computeIfAbsent(key, this::loadOrEmpty);
+        entries.add(new ModuleEntry(new Version(coordinate.version()), type, coordinate.groupArtifact()));
+    }
+
+    public int pendingFiles() {
+        return dirty.size();
+    }
+
+    public void flush() throws IOException {
+        for (Map.Entry<StoreKey, NavigableSet<ModuleEntry>> entry : dirty.entrySet()) {
+            write(entry.getKey(), entry.getValue());
+        }
+        dirty.clear();
+    }
+
+    public Path pathFor(StoreKey key) {
+        return root.resolve(key.shard()).resolve(key.fileName());
+    }
+
+    public NavigableSet<ModuleEntry> read(String moduleName, String classifier) throws IOException {
+        return loadOrEmpty(new StoreKey(moduleName, classifier));
+    }
+
+    private NavigableSet<ModuleEntry> loadOrEmpty(StoreKey key) {
+        Path file = pathFor(key);
+        NavigableSet<ModuleEntry> entries = new TreeSet<>(ModuleEntry.NEWEST_FIRST);
+        if (!Files.exists(file)) {
+            return entries;
+        }
+        try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
+            lines.filter(line -> !line.isEmpty()).map(ModuleEntry::parse).forEach(entries::add);
+        } catch (IOException e) {
+            throw new UncheckedIOException("Failed to read " + file, e);
+        }
+        return entries;
+    }
+
+    private void write(StoreKey key, NavigableSet<ModuleEntry> entries) throws IOException {
+        Path file = pathFor(key);
+        Path parent = file.getParent();
+        if (parent != null) {
+            Files.createDirectories(parent);
+        }
+        Path temp = file.resolveSibling(file.getFileName() + ".tmp");
+        try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
+            for (ModuleEntry entry : entries) {
+                writer.write(entry.format());
+                writer.newLine();
+            }
+        }
+        try {
+            Files.move(temp, file, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
+        } catch (AtomicMoveNotSupportedException atomicNotSupported) {
+            Files.move(temp, file, StandardCopyOption.REPLACE_EXISTING);
+        }
+    }
+}

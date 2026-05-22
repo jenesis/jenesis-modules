@@ -1,0 +1,95 @@
+name: crawl
+
+on:
+  schedule:
+    - cron: '7 */8 * * *'
+  workflow_dispatch:
+    inputs:
+      budget_minutes:
+        description: Wall-clock budget in minutes
+        required: false
+        default: '90'
+      concurrency:
+        description: Concurrent artifact fetches
+        required: false
+        default: '128'
+      push_every:
+        description: Number of checkpoints between git pushes
+        required: false
+        default: '1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Set up JDK 25
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '25'
+
+      - name: Cache Maven repository
+        uses: actions/cache@v4
+        with:
+          path: ~/.m2/repository
+          key: m2-${{ hashFiles('pom.xml') }}
+          restore-keys: m2-
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+          mkdir -p data
+
+      - name: Build modular jar
+        run: mvn -B -ntp -DskipTests package
+
+      - name: Run crawler with incremental commits
+        env:
+          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || '90' }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || '128' }}
+          GIT_PUBLISH: '1'
+          GIT_WORK_DIR: ${{ github.workspace }}
+          GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || '1' }}
+        run: |
+          set -euo pipefail
+          jar="$(ls target/build.jenesis.modules-*.jar | head -n1)"
+          java -p "$jar" \
+               -m build.jenesis.modules/build.jenesis.modules.Main \
+               --data "$GITHUB_WORKSPACE/data"
+
+      - name: Commit any uncommitted progress
+        if: ${{ !cancelled() }}
+        run: |
+          set -euo pipefail
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing left to commit; the crawler pushed everything inline."
+            exit 0
+          fi
+          stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git commit -m "crawl: tail flush $stamp"
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase || true
+          done
+          echo "Final push failed after 3 attempts" >&2
+          exit 1
