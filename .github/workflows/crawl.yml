@@ -12,7 +12,7 @@ on:
       concurrency:
         description: Concurrent artifact fetches
         required: false
-        default: '128'
+        default: '96'
       push_every:
         description: Number of checkpoints between git pushes
         required: false
