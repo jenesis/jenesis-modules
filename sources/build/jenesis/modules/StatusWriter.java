@@ -25,9 +25,9 @@ public final class StatusWriter implements CheckpointListener {
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, now).toSeconds());
         long deltaPosition = state.worklistPosition() - startPosition.get();
         double rate = deltaPosition > 0 ? (double) deltaPosition / (double) elapsedSeconds : 0d;
-        long remaining = Math.max(0L, state.worklistTotal() - state.worklistPosition());
-        double percentage = state.worklistTotal() > 0L
-                ? 100d * state.worklistPosition() / state.worklistTotal()
+        long remaining = Math.max(0L, state.worklistRecords() - state.worklistPosition());
+        double percentage = state.worklistRecords() > 0L
+                ? 100d * state.worklistPosition() / state.worklistRecords()
                 : 0d;
         Duration eta = rate > 0d ? Duration.ofSeconds((long) (remaining / rate)) : null;
 
@@ -36,7 +36,7 @@ public final class StatusWriter implements CheckpointListener {
         builder.append("- Updated: ").append(now).append('\n');
         builder.append("- Sync mode: ").append(statistics.syncMode()).append('\n');
         builder.append("- Position: ").append(state.worklistPosition())
-                .append(" / ").append(state.worklistTotal())
+                .append(" / ").append(state.worklistRecords())
                 .append(String.format(Locale.ROOT, " (%.2f%%)", percentage)).append('\n');
         builder.append("- This run: processed=").append(statistics.processed())
                 .append(", modular=").append(statistics.modular())

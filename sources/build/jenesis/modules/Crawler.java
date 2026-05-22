@@ -8,6 +8,7 @@ public final class Crawler implements AutoCloseable {
     public static final String INDEX_PROPERTIES_FILE = "nexus-maven-repository-index.properties";
     public static final String INCREMENTAL_PREFIX = "nexus-maven-repository-index.";
     public static final String INCREMENTAL_SUFFIX = ".gz";
+    public static final String STREAMING_SUFFIX = ".streaming";
 
     public static final Set<String> SKIPPED_CLASSIFIERS = Set.of(
             "sources", "javadoc", "tests", "test-sources", "cyclonedx"
@@ -88,32 +89,36 @@ public final class Crawler implements AutoCloseable {
         State state = State.load(statePath);
         Worklist worklist = new Worklist(configuration.dataDir().resolve("worklist.tsv"));
 
-        SyncMode syncMode = SyncMode.SKIPPED;
-        if (!worklist.exists() || state.worklistComplete()) {
-            IndexProperties remote = fetchIndexProperties();
-            if (state.hasIndexBaseline()
-                    && Objects.equals(state.indexChainId(), remote.chainId())
-                    && state.indexChunkLastApplied() >= remote.lastIncremental()) {
-                System.out.println("Index already up to date (chain=" + remote.chainId()
-                        + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
-                return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE);
-            }
-            boolean incremental = state.hasIndexBaseline()
-                    && Objects.equals(state.indexChainId(), remote.chainId());
-            if (incremental) {
-                state = generateIncrementalWorklist(worklist, state, remote);
-                syncMode = SyncMode.INCREMENTAL;
-            } else {
-                if (state.indexChainId() != null && !state.indexChainId().equals(remote.chainId())) {
-                    System.out.println("Index chain rotated from " + state.indexChainId()
-                            + " to " + remote.chainId() + ": performing full sync.");
-                }
-                state = generateFullWorklist(worklist, state, remote);
-                syncMode = SyncMode.FULL;
-            }
-            state.save(statePath);
+        if (worklist.exists() && state.worklistRecords() > 0L && !state.worklistComplete()) {
+            return runFromFile(worklist, state, statePath);
         }
-        return process(worklist, state, statePath, syncMode);
+        if (worklist.exists() && state.worklistRecords() == 0L) {
+            try {
+                Files.delete(worklist.path());
+            } catch (IOException ignored) {
+            }
+        }
+
+        IndexProperties remote = fetchIndexProperties();
+        if (state.hasIndexBaseline()
+                && Objects.equals(state.indexChainId(), remote.chainId())
+                && state.indexChunkLastApplied() >= remote.lastIncremental()) {
+            System.out.println("Index already up to date (chain=" + remote.chainId()
+                    + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
+            return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE);
+        }
+        boolean incremental = state.hasIndexBaseline()
+                && Objects.equals(state.indexChainId(), remote.chainId());
+        if (!incremental && state.indexChainId() != null && !state.indexChainId().equals(remote.chainId())) {
+            System.out.println("Index chain rotated from " + state.indexChainId()
+                    + " to " + remote.chainId() + ": performing full sync.");
+        }
+        SyncMode mode = incremental ? SyncMode.INCREMENTAL : SyncMode.FULL;
+        List<URI> indexUris = incremental
+                ? incrementalChunkUris(state.indexChunkLastApplied() + 1L, remote.lastIncremental())
+                : List.of(configuration.indexBaseUri().resolve(INDEX_FILE));
+
+        return runStreaming(worklist, state, statePath, indexUris, remote, mode);
     }
 
     public IndexProperties fetchIndexProperties() throws IOException {
@@ -123,75 +128,6 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State generateFullWorklist(Worklist worklist, State state, IndexProperties remote) throws IOException {
-        URI indexUri = configuration.indexBaseUri().resolve(INDEX_FILE);
-        System.out.println("Downloading full Maven Central index from " + indexUri);
-        long count = writeWorklist(worklist, target -> appendIndex(target, indexUri));
-        System.out.println("Full worklist generated: " + count + " coordinates");
-        return state.withWorklist(count, Instant.now())
-                .withIndex(remote.lastIncremental(), remote.timestamp(), remote.chainId());
-    }
-
-    private State generateIncrementalWorklist(Worklist worklist, State state, IndexProperties remote) throws IOException {
-        long from = state.indexChunkLastApplied() + 1L;
-        long to = remote.lastIncremental();
-        System.out.println("Fetching incremental index chunks " + from + ".." + to);
-        long count = writeWorklist(worklist, target -> {
-            long total = 0L;
-            for (long chunk = from; chunk <= to; chunk++) {
-                URI chunkUri = configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + chunk + INCREMENTAL_SUFFIX);
-                total += appendIndex(target, chunkUri);
-            }
-            return total;
-        });
-        System.out.println("Incremental worklist generated: " + count + " coordinates across " + (to - from + 1L) + " chunks");
-        return state.withWorklist(count, Instant.now())
-                .withIndex(to, remote.timestamp(), remote.chainId());
-    }
-
-    private long writeWorklist(Worklist worklist, WriteOperation operation) throws IOException {
-        Path target = worklist.path();
-        Path parent = target.getParent();
-        if (parent != null) {
-            Files.createDirectories(parent);
-        }
-        Path temp = target.resolveSibling(target.getFileName() + ".tmp");
-        long count;
-        try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
-            count = operation.execute(writer);
-        }
-        Files.move(temp, target, StandardCopyOption.REPLACE_EXISTING);
-        return count;
-    }
-
-    @FunctionalInterface
-    private interface WriteOperation {
-        long execute(BufferedWriter writer) throws IOException;
-    }
-
-    private long appendIndex(BufferedWriter writer, URI uri) throws IOException {
-        long count = 0L;
-        try (InputStream raw = fetcher.get(uri);
-             GZIPInputStream gzipped = new GZIPInputStream(raw);
-             IndexReader reader = new IndexReader(gzipped)) {
-            Map<String, String> record;
-            while ((record = reader.nextRecord()) != null) {
-                Optional<Coordinate> coordinate = Coordinate.from(record);
-                if (coordinate.isEmpty()) {
-                    continue;
-                }
-                Coordinate candidate = coordinate.get();
-                if (!isInteresting(candidate)) {
-                    continue;
-                }
-                writer.write(Worklist.format(candidate));
-                writer.newLine();
-                count++;
-            }
-        }
-        return count;
-    }
-
     public static boolean isInteresting(Coordinate coordinate) {
         if (!"jar".equals(coordinate.extension())) {
             return false;
@@ -199,21 +135,101 @@ public final class Crawler implements AutoCloseable {
         return coordinate.classifier() == null || !SKIPPED_CLASSIFIERS.contains(coordinate.classifier());
     }
 
-    private Result process(Worklist worklist, State state, Path statePath, SyncMode syncMode) throws IOException {
+    private List<URI> incrementalChunkUris(long from, long to) {
+        List<URI> uris = new ArrayList<>();
+        for (long chunk = from; chunk <= to; chunk++) {
+            uris.add(configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + chunk + INCREMENTAL_SUFFIX));
+        }
+        return uris;
+    }
+
+    private Result runFromFile(Worklist worklist, State state, Path statePath) throws IOException {
+        System.out.println("Resuming existing worklist: position " + state.worklistPosition()
+                + "/" + state.worklistRecords() + " records");
+        try (FileBatchSource source = new FileBatchSource(worklist, state.worklistPosition(), configuration.concurrency())) {
+            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition());
+        } catch (InterruptedException interrupted) {
+            Thread.currentThread().interrupt();
+            throw new IOException("Interrupted", interrupted);
+        }
+    }
+
+    private Result runStreaming(Worklist worklist,
+                                State state,
+                                Path statePath,
+                                List<URI> indexUris,
+                                IndexProperties remote,
+                                SyncMode mode) throws IOException {
+        System.out.println("Streaming " + mode + " sync from " + indexUris.size() + " index source(s)");
+        Path tempFile = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
+        State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
+        streamingState.save(statePath);
+
+        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, Crawler::isInteresting)) {
+            stream.start(indexUris);
+            try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
+                Result result = process(source, streamingState, statePath, mode, 0L);
+                stream.close();
+                if (stream.error() != null) {
+                    throw stream.error();
+                }
+                if (stream.completed()) {
+                    finalizeStreamedWorklist(worklist, tempFile, statePath, stream, remote);
+                    return result;
+                }
+                Files.deleteIfExists(tempFile);
+                System.out.println("Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
+                return result;
+            }
+        } catch (InterruptedException interrupted) {
+            Thread.currentThread().interrupt();
+            throw new IOException("Interrupted while streaming", interrupted);
+        }
+    }
+
+    private void finalizeStreamedWorklist(Worklist worklist,
+                                          Path tempFile,
+                                          Path statePath,
+                                          WorklistStream stream,
+                                          IndexProperties remote) throws IOException {
+        Path target = worklist.path();
+        try {
+            Files.move(tempFile, target, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
+        } catch (AtomicMoveNotSupportedException atomicNotSupported) {
+            Files.move(tempFile, target, StandardCopyOption.REPLACE_EXISTING);
+        }
+        State state = State.load(statePath);
+        State updated = state
+                .withWorklist(stream.recordsProduced(), state.sweepStartedAt())
+                .withPosition(state.worklistPosition())
+                .withIndex(remote.lastIncremental(), remote.timestamp(), remote.chainId());
+        updated.save(statePath);
+        System.out.println("Sync complete: " + stream.recordsProduced() + " records at " + target);
+    }
+
+    private Result process(BatchSource source,
+                           State state,
+                           Path statePath,
+                           SyncMode syncMode,
+                           long startPosition) throws IOException, InterruptedException {
         Instant deadline = Instant.now().plus(configuration.budget());
         long processed = 0L;
         long modular = 0L;
         long failed = 0L;
         long sinceCheckpoint = 0L;
-        try (Worklist.Reader reader = worklist.open(state.worklistPosition());
-             ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor()) {
-            while (Instant.now().isBefore(deadline)) {
-                List<Coordinate> batch = nextBatch(reader);
+        long position = startPosition;
+        boolean exhausted = false;
+        try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor()) {
+            while (Instant.now().isBefore(deadline) && !exhausted) {
+                BatchSource.Batch batch = source.next();
+                position = batch.endPosition() >= 0L ? batch.endPosition() : position;
+                exhausted = batch.exhausted();
                 if (batch.isEmpty()) {
-                    break;
+                    continue;
                 }
-                List<Future<ScanOutcome>> futures = new ArrayList<>(batch.size());
-                for (Coordinate coordinate : batch) {
+
+                List<Future<ScanOutcome>> futures = new ArrayList<>(batch.coordinates().size());
+                for (Coordinate coordinate : batch.coordinates()) {
                     futures.add(executor.submit(() -> scanOne(coordinate)));
                 }
                 for (Future<ScanOutcome> future : futures) {
@@ -228,31 +244,16 @@ public final class Crawler implements AutoCloseable {
                         modular++;
                     }
                 }
-                processed += batch.size();
-                sinceCheckpoint += batch.size();
+                processed += batch.coordinates().size();
+                sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, reader, processed, modular, failed, syncMode);
+                    state = checkpoint(state, statePath, position, processed, modular, failed, syncMode);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, reader, processed, modular, failed, syncMode);
+            state = checkpoint(state, statePath, position, processed, modular, failed, syncMode);
         }
         return new Result(processed, modular, failed, state.worklistComplete(), syncMode);
-    }
-
-    private List<Coordinate> nextBatch(Worklist.Reader reader) throws IOException {
-        List<Coordinate> batch = new ArrayList<>(configuration.concurrency());
-        for (int i = 0; i < configuration.concurrency(); i++) {
-            String line = reader.nextLine();
-            if (line == null) {
-                break;
-            }
-            if (line.isEmpty()) {
-                continue;
-            }
-            batch.add(Worklist.parse(line));
-        }
-        return batch;
     }
 
     private static ScanOutcome await(Future<ScanOutcome> future) throws IOException {
@@ -273,13 +274,13 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, Worklist.Reader reader, long processed, long modular, long failed, SyncMode syncMode) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, SyncMode syncMode) throws IOException {
         synchronized (store) {
             store.flush();
         }
-        State updated = state.withPosition(reader.position());
+        State updated = state.withPosition(position);
         updated.save(statePath);
-        System.out.println("checkpoint processed=" + processed + " modular=" + modular + " failed=" + failed + " position=" + reader.position());
+        System.out.println("checkpoint processed=" + processed + " modular=" + modular + " failed=" + failed + " position=" + position);
         checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
         return updated;
     }

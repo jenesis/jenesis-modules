@@ -3,7 +3,7 @@ package build.jenesis.modules;
 import module java.base;
 
 public record State(long worklistPosition,
-                    long worklistTotal,
+                    long worklistRecords,
                     long indexChunkLastApplied,
                     long indexTimestamp,
                     String indexChainId,
@@ -12,26 +12,30 @@ public record State(long worklistPosition,
     public static final State EMPTY = new State(0L, 0L, -1L, 0L, null, null);
 
     private static final String KEY_POSITION = "worklist.position";
-    private static final String KEY_TOTAL = "worklist.total";
+    private static final String KEY_RECORDS = "worklist.records";
     private static final String KEY_INDEX_CHUNK = "index.lastAppliedChunk";
     private static final String KEY_INDEX_TIMESTAMP = "index.timestamp";
     private static final String KEY_INDEX_CHAIN_ID = "index.chainId";
     private static final String KEY_SWEEP_STARTED = "sweep.startedAt";
 
     public State withPosition(long newPosition) {
-        return new State(newPosition, worklistTotal, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
+        return new State(newPosition, worklistRecords, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
     }
 
-    public State withWorklist(long total, Instant startedAt) {
-        return new State(0L, total, indexChunkLastApplied, indexTimestamp, indexChainId, startedAt);
+    public State withWorklist(long records, Instant startedAt) {
+        return new State(0L, records, indexChunkLastApplied, indexTimestamp, indexChainId, startedAt);
     }
 
     public State withIndex(long chunk, long timestamp, String chainId) {
-        return new State(worklistPosition, worklistTotal, chunk, timestamp, chainId, sweepStartedAt);
+        return new State(worklistPosition, worklistRecords, chunk, timestamp, chainId, sweepStartedAt);
+    }
+
+    public State clearedWorklist() {
+        return new State(0L, 0L, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
     }
 
     public boolean worklistComplete() {
-        return worklistTotal > 0 && worklistPosition >= worklistTotal;
+        return worklistRecords > 0L && worklistPosition >= worklistRecords;
     }
 
     public boolean hasIndexBaseline() {
@@ -47,19 +51,19 @@ public record State(long worklistPosition,
             properties.load(reader);
         }
         long position = parseLong(properties, KEY_POSITION, 0L);
-        long total = parseLong(properties, KEY_TOTAL, 0L);
+        long records = parseLong(properties, KEY_RECORDS, 0L);
         long chunk = parseLong(properties, KEY_INDEX_CHUNK, -1L);
         long timestamp = parseLong(properties, KEY_INDEX_TIMESTAMP, 0L);
         String chainId = trimOrNull(properties.getProperty(KEY_INDEX_CHAIN_ID));
         String startedRaw = properties.getProperty(KEY_SWEEP_STARTED);
         Instant startedAt = startedRaw == null || startedRaw.isEmpty() ? null : Instant.parse(startedRaw);
-        return new State(position, total, chunk, timestamp, chainId, startedAt);
+        return new State(position, records, chunk, timestamp, chainId, startedAt);
     }
 
     public void save(Path path) throws IOException {
         Properties properties = new Properties();
         properties.setProperty(KEY_POSITION, Long.toString(worklistPosition));
-        properties.setProperty(KEY_TOTAL, Long.toString(worklistTotal));
+        properties.setProperty(KEY_RECORDS, Long.toString(worklistRecords));
         properties.setProperty(KEY_INDEX_CHUNK, Long.toString(indexChunkLastApplied));
         properties.setProperty(KEY_INDEX_TIMESTAMP, Long.toString(indexTimestamp));
         if (indexChainId != null) {

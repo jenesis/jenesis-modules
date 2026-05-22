@@ -36,7 +36,7 @@ public final class Worklist {
             Iterator<Coordinate> iterator = stream.iterator();
             while (iterator.hasNext()) {
                 writer.write(format(iterator.next()));
-                writer.newLine();
+                writer.write('\n');
                 count++;
             }
         }
@@ -44,10 +44,17 @@ public final class Worklist {
         return count;
     }
 
-    public Reader open(long startPosition) throws IOException {
-        FileChannel channel = FileChannel.open(path, StandardOpenOption.READ);
-        channel.position(startPosition);
-        return new Reader(channel, startPosition);
+    public Reader open(long startRecord) throws IOException {
+        BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_8);
+        long skipped = 0L;
+        while (skipped < startRecord) {
+            String line = reader.readLine();
+            if (line == null) {
+                break;
+            }
+            skipped++;
+        }
+        return new Reader(reader, skipped);
     }
 
     public static String format(Coordinate coordinate) {
@@ -79,37 +86,21 @@ public final class Worklist {
 
     public static final class Reader implements Closeable {
 
-        private final FileChannel channel;
-        private final ByteBuffer buffer;
+        private final BufferedReader delegate;
         private long position;
 
-        private Reader(FileChannel channel, long position) {
-            this.channel = channel;
-            this.buffer = ByteBuffer.allocate(64 * 1024);
-            this.buffer.limit(0);
-            this.position = position;
+        private Reader(BufferedReader delegate, long initialPosition) {
+            this.delegate = delegate;
+            this.position = initialPosition;
         }
 
         public String nextLine() throws IOException {
-            ByteArrayOutputStream line = new ByteArrayOutputStream();
-            while (true) {
-                if (!buffer.hasRemaining()) {
-                    buffer.clear();
-                    int read = channel.read(buffer);
-                    if (read < 0) {
-                        return line.size() == 0 ? null : line.toString(StandardCharsets.UTF_8);
-                    }
-                    buffer.flip();
-                }
-                byte octet = buffer.get();
-                position++;
-                if (octet == '\n') {
-                    return line.toString(StandardCharsets.UTF_8);
-                }
-                if (octet != '\r') {
-                    line.write(octet);
-                }
+            String line = delegate.readLine();
+            if (line == null) {
+                return null;
             }
+            position++;
+            return line;
         }
 
         public long position() {
@@ -118,7 +109,7 @@ public final class Worklist {
 
         @Override
         public void close() throws IOException {
-            channel.close();
+            delegate.close();
         }
     }
 }

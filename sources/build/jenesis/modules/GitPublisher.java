@@ -69,11 +69,11 @@ public final class GitPublisher implements CheckpointListener {
 
     private static String buildMessage(State state, Statistics statistics) {
         StringBuilder builder = new StringBuilder("crawl checkpoint");
-        if (state.worklistTotal() > 0L) {
+        if (state.worklistRecords() > 0L) {
             builder.append(" position=")
                     .append(state.worklistPosition())
                     .append('/')
-                    .append(state.worklistTotal());
+                    .append(state.worklistRecords());
         }
         builder.append(" processed=").append(statistics.processed());
         builder.append(" modular=").append(statistics.modular());
