@@ -30,6 +30,50 @@ public final class Jars {
         return buffer.toByteArray();
     }
 
+    public static byte[] multiReleaseModularJar(String moduleName, int javaVersion) throws IOException {
+        ByteArrayOutputStream buffer = new ByteArrayOutputStream();
+        Manifest manifest = baseManifest(Map.of("Multi-Release", "true"));
+        try (JarOutputStream jar = new JarOutputStream(buffer, manifest)) {
+            jar.putNextEntry(new ZipEntry("com/example/Placeholder.txt"));
+            jar.write("placeholder".getBytes(StandardCharsets.UTF_8));
+            jar.closeEntry();
+            jar.putNextEntry(new ZipEntry("META-INF/versions/" + javaVersion + "/module-info.class"));
+            jar.write(buildModuleInfo(moduleName));
+            jar.closeEntry();
+        }
+        return buffer.toByteArray();
+    }
+
+    public static byte[] multiReleaseModularJar(String moduleName, int... javaVersions) throws IOException {
+        ByteArrayOutputStream buffer = new ByteArrayOutputStream();
+        Manifest manifest = baseManifest(Map.of("Multi-Release", "true"));
+        try (JarOutputStream jar = new JarOutputStream(buffer, manifest)) {
+            jar.putNextEntry(new ZipEntry("com/example/Placeholder.txt"));
+            jar.write("placeholder".getBytes(StandardCharsets.UTF_8));
+            jar.closeEntry();
+            for (int version : javaVersions) {
+                jar.putNextEntry(new ZipEntry("META-INF/versions/" + version + "/module-info.class"));
+                jar.write(buildModuleInfo(moduleName));
+                jar.closeEntry();
+            }
+        }
+        return buffer.toByteArray();
+    }
+
+    public static byte[] rootAndVersionedModularJar(String rootModuleName, String versionedModuleName, int javaVersion) throws IOException {
+        ByteArrayOutputStream buffer = new ByteArrayOutputStream();
+        Manifest manifest = baseManifest(Map.of("Multi-Release", "true"));
+        try (JarOutputStream jar = new JarOutputStream(buffer, manifest)) {
+            jar.putNextEntry(new ZipEntry("module-info.class"));
+            jar.write(buildModuleInfo(rootModuleName));
+            jar.closeEntry();
+            jar.putNextEntry(new ZipEntry("META-INF/versions/" + javaVersion + "/module-info.class"));
+            jar.write(buildModuleInfo(versionedModuleName));
+            jar.closeEntry();
+        }
+        return buffer.toByteArray();
+    }
+
     public static byte[] automaticJar(String automaticModuleName) throws IOException {
         ByteArrayOutputStream buffer = new ByteArrayOutputStream();
         Manifest manifest = baseManifest(Map.of("Automatic-Module-Name", automaticModuleName));

@@ -7,6 +7,8 @@ public final class Scanner {
     public static final String MODULE_INFO_NAME = "module-info.class";
     public static final String MANIFEST_NAME = "META-INF/MANIFEST.MF";
     public static final String AUTOMATIC_MODULE_ATTRIBUTE = "Automatic-Module-Name";
+    public static final String VERSIONED_PREFIX = "META-INF/versions/";
+    public static final String VERSIONED_SUFFIX = "/module-info.class";
 
     public static final int DEFAULT_TAIL_SIZE = 65536;
     public static final int LOCAL_HEADER_SLACK = 4096;
@@ -34,6 +36,9 @@ public final class Scanner {
         Map<String, CentralDirectory.Entry> entries = CentralDirectory.parse(centralDirectoryBytes, position.entryCount());
 
         CentralDirectory.Entry moduleInfoEntry = entries.get(MODULE_INFO_NAME);
+        if (moduleInfoEntry == null) {
+            moduleInfoEntry = highestVersionedModuleInfo(entries);
+        }
         if (moduleInfoEntry != null) {
             byte[] bytes = readEntry(source, moduleInfoEntry);
             String name = ModuleDescriptor.read(new ByteArrayInputStream(bytes)).name();
@@ -49,6 +54,37 @@ public final class Scanner {
             }
         }
         return Optional.empty();
+    }
+
+    private static CentralDirectory.Entry highestVersionedModuleInfo(Map<String, CentralDirectory.Entry> entries) {
+        CentralDirectory.Entry best = null;
+        int bestVersion = -1;
+        for (Map.Entry<String, CentralDirectory.Entry> entry : entries.entrySet()) {
+            String name = entry.getKey();
+            if (!name.startsWith(VERSIONED_PREFIX) || !name.endsWith(VERSIONED_SUFFIX)) {
+                continue;
+            }
+            int versionStart = VERSIONED_PREFIX.length();
+            int versionEnd = name.length() - VERSIONED_SUFFIX.length();
+            if (versionEnd <= versionStart) {
+                continue;
+            }
+            String versionText = name.substring(versionStart, versionEnd);
+            if (versionText.indexOf('/') >= 0) {
+                continue;
+            }
+            int version;
+            try {
+                version = Integer.parseInt(versionText);
+            } catch (NumberFormatException invalid) {
+                continue;
+            }
+            if (version > bestVersion) {
+                best = entry.getValue();
+                bestVersion = version;
+            }
+        }
+        return best;
     }
 
     private static byte[] fetchCentralDirectory(ByteSource source,

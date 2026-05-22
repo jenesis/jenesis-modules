@@ -60,6 +60,33 @@ public class ScannerTest {
     }
 
     @Test
+    public void picks_up_module_info_from_versioned_path_when_root_is_absent() throws IOException {
+        byte[] jar = Jars.multiReleaseModularJar("modular.mrjar", 9);
+
+        Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("modular.mrjar", ModuleType.NAMED));
+    }
+
+    @Test
+    public void uses_highest_versioned_module_info_when_multiple_present() throws IOException {
+        byte[] jar = Jars.multiReleaseModularJar("modular.mrjar.high", 9, 11, 17);
+
+        Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("modular.mrjar.high", ModuleType.NAMED));
+    }
+
+    @Test
+    public void prefers_root_module_info_over_versioned() throws IOException {
+        byte[] jar = Jars.rootAndVersionedModularJar("root.module", "versioned.module", 11);
+
+        Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("root.module", ModuleType.NAMED));
+    }
+
+    @Test
     public void handles_tail_size_smaller_than_full_archive() throws IOException {
         byte[] jar = Jars.modularJar("compact.module");
         Scanner narrowScanner = new Scanner(256);
