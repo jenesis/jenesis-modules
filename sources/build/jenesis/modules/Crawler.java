@@ -57,6 +57,7 @@ public final class Crawler implements AutoCloseable {
     private final Fetcher fetcher;
     private final Scanner scanner;
     private final ModuleStore store;
+    private final ScannedStore scannedStore;
     private final boolean ownsFetcher;
     private final ConcurrentMap<String, FailureBucket> failures;
     private CheckpointListener checkpointListener;
@@ -66,18 +67,20 @@ public final class Crawler implements AutoCloseable {
                 new Fetcher(),
                 new Scanner(configuration.tailSize()),
                 new ModuleStore(configuration.dataDir().resolve("modules")),
+                new ScannedStore(configuration.dataDir().resolve("scanned")),
                 true);
     }
 
-    public Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store) {
-        this(configuration, fetcher, scanner, store, false);
+    public Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, ScannedStore scannedStore) {
+        this(configuration, fetcher, scanner, store, scannedStore, false);
     }
 
-    private Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, boolean ownsFetcher) {
+    private Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, ScannedStore scannedStore, boolean ownsFetcher) {
         this.configuration = Objects.requireNonNull(configuration, "configuration");
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.scanner = Objects.requireNonNull(scanner, "scanner");
         this.store = Objects.requireNonNull(store, "store");
+        this.scannedStore = Objects.requireNonNull(scannedStore, "scannedStore");
         this.ownsFetcher = ownsFetcher;
         this.failures = new ConcurrentHashMap<>();
         this.checkpointListener = CheckpointListener.NOOP;
@@ -256,7 +259,8 @@ public final class Crawler implements AutoCloseable {
         State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
         streamingState.save(statePath);
 
-        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, Crawler::isInteresting)) {
+        Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
+        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter)) {
             stream.start(indexUris);
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced);
@@ -322,6 +326,9 @@ public final class Crawler implements AutoCloseable {
 
                 List<Future<ScanOutcome>> futures = new ArrayList<>(batch.coordinates().size());
                 for (Coordinate coordinate : batch.coordinates()) {
+                    if (scannedStore.contains(coordinate)) {
+                        continue;
+                    }
                     futures.add(executor.submit(() -> scanOne(coordinate)));
                 }
                 for (Future<ScanOutcome> future : futures) {
@@ -329,12 +336,15 @@ public final class Crawler implements AutoCloseable {
                     if (outcome.error() != null) {
                         failed++;
                         recordFailure(outcome.error());
-                    } else if (outcome.module().isPresent()) {
-                        ScannedModule module = outcome.module().get();
-                        synchronized (store) {
-                            store.record(module.name(), module.type(), outcome.coordinate());
+                    } else {
+                        scannedStore.mark(outcome.coordinate());
+                        if (outcome.module().isPresent()) {
+                            ScannedModule module = outcome.module().get();
+                            synchronized (store) {
+                                store.record(module.name(), module.type(), outcome.coordinate());
+                            }
+                            modular++;
                         }
-                        modular++;
                     }
                 }
                 processed += batch.coordinates().size();
@@ -371,6 +381,7 @@ public final class Crawler implements AutoCloseable {
         synchronized (store) {
             store.flush();
         }
+        scannedStore.flush();
         long total = knownTotal.getAsLong();
         State updated = state.withPosition(position);
         if (total >= 0L) {
