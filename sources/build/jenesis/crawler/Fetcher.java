@@ -73,34 +73,94 @@ public final class Fetcher implements AutoCloseable {
         return new ResumableInputStream(uri, opener);
     }
 
+    /**
+     * Opens the resumable index-streaming GET via {@link java.net.HttpURLConnection} rather than
+     * the JDK's async {@link java.net.http.HttpClient}.
+     *
+     * <p>Why not HttpClient? The JDK's {@code HttpClient} runs an internal
+     * {@code SelectorManager} thread that reads bytes from the socket as fast as the OS delivers
+     * them, into a {@code Deque<ByteBuffer>} owned by the response body subscriber. Whatever
+     * backpressure the subscriber claims to apply (the body handlers we care about - {@code
+     * ofByteArray} calls {@code subscription.request(Long.MAX_VALUE)}, and {@code ofInputStream}
+     * does request only {@code MAX_BUFFERS_IN_QUEUE = 1} but the underlying protocol decoder
+     * still buffers eagerly), the practical end-to-end limit on receive buffering is the network
+     * delivery rate, not our consumption rate. For the 3 GB GZIP index stream, where the producer
+     * decompresses at ~13 MB/s and the network delivers at ~100 MB/s, that mismatch accumulated
+     * 4 GB of 4-16 KB {@code byte[]} in the heap dumps - producing the OOMs we kept chasing.
+     *
+     * <p>{@code HttpURLConnection} is synchronous: socket reads happen on the application's
+     * thread when it calls {@code InputStream.read()}. If the producer is slow, the socket sits
+     * unread, the kernel TCP receive window shrinks, and the server backs off at the TCP layer.
+     * Total in-flight bytes are bounded by {@code SO_RCVBUF} (typically 64-256 KB) instead of
+     * "however much the server can push between now and OOM."
+     *
+     * <p>Trade-offs we accept: no HTTP/2, no async connection pool, no multiplexing. For one
+     * big-body GET they're free; for the small per-jar fetches we keep {@code HttpClient}.
+     */
     private OpenedRange openRangeStream(URI uri, long offset, String expectedEtag) throws IOException {
-        HttpRequest.Builder reqBuilder = builder(uri).GET();
+        HttpURLConnection connection = (HttpURLConnection) uri.toURL().openConnection();
+        connection.setRequestMethod("GET");
+        connection.setConnectTimeout((int) CONNECT_TIMEOUT.toMillis());
+        connection.setReadTimeout((int) timeout.toMillis());
+        connection.setInstanceFollowRedirects(true);
+        connection.setRequestProperty("User-Agent", USER_AGENT);
         if (offset > 0L) {
-            reqBuilder.header("Range", "bytes=" + offset + "-");
+            connection.setRequestProperty("Range", "bytes=" + offset + "-");
             if (expectedEtag != null) {
-                reqBuilder.header("If-Range", expectedEtag);
+                connection.setRequestProperty("If-Range", expectedEtag);
             }
         }
-        HttpResponse<InputStream> response = send(reqBuilder.build(), HttpResponse.BodyHandlers.ofInputStream());
-        int status = response.statusCode();
-        String etag = response.headers().firstValue("etag").orElse(null);
+        int status;
+        String etag;
+        try {
+            status = connection.getResponseCode();
+            etag = connection.getHeaderField("ETag");
+        } catch (IOException headerFailure) {
+            connection.disconnect();
+            throw headerFailure;
+        }
         if (status == 206) {
             if (expectedEtag != null && etag != null && !expectedEtag.equals(etag)) {
-                response.body().close();
+                drainAndDisconnect(connection);
                 throw new ResourceChangedException("Resource " + uri + " ETag changed during streaming ("
                         + expectedEtag + " -> " + etag + ")");
             }
-            return new OpenedRange(response.body(), etag != null ? etag : expectedEtag);
+            return new OpenedRange(closingInputStream(connection, connection.getInputStream()),
+                    etag != null ? etag : expectedEtag);
         }
         if (status == 200 && offset == 0L) {
-            return new OpenedRange(response.body(), etag);
+            return new OpenedRange(closingInputStream(connection, connection.getInputStream()), etag);
         }
-        response.body().close();
+        drainAndDisconnect(connection);
         if (status == 200 && expectedEtag != null) {
             throw new ResourceChangedException("Resource " + uri + " changed during streaming"
                     + " (server returned 200 to a Range request with If-Range)");
         }
         throw new IOException("Resumable GET of " + uri + " at position " + offset + " returned status " + status);
+    }
+
+    private static InputStream closingInputStream(HttpURLConnection connection, InputStream body) {
+        return new FilterInputStream(body) {
+            @Override
+            public void close() throws IOException {
+                try {
+                    super.close();
+                } finally {
+                    connection.disconnect();
+                }
+            }
+        };
+    }
+
+    private static void drainAndDisconnect(HttpURLConnection connection) {
+        try (InputStream errorBody = connection.getErrorStream()) {
+            if (errorBody != null) {
+                errorBody.transferTo(OutputStream.nullOutputStream());
+            }
+        } catch (IOException _) {
+            // best-effort drain; falling through to disconnect below
+        }
+        connection.disconnect();
     }
 
     @FunctionalInterface
