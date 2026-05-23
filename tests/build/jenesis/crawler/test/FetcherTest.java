@@ -49,11 +49,13 @@ public class FetcherTest {
     public void resumable_get_recovers_from_mid_stream_failure_via_range() throws Exception {
         byte[] payload = deterministicPayload(8192);
         AtomicInteger remainingFailures = new AtomicInteger(1);
-        Fetcher.RangeStreamOpener opener = (uri, offset) -> {
+        Fetcher.RangeStreamOpener opener = (uri, offset, expectedEtag) -> {
             if (offset == 0L && remainingFailures.getAndDecrement() > 0) {
-                return new FailingInputStream(payload, 0, payload.length / 2);
+                return new Fetcher.OpenedRange(new FailingInputStream(payload, 0, payload.length / 2), "etag-1");
             }
-            return new ByteArrayInputStream(payload, (int) offset, payload.length - (int) offset);
+            return new Fetcher.OpenedRange(
+                    new ByteArrayInputStream(payload, (int) offset, payload.length - (int) offset),
+                    "etag-1");
         };
         try (InputStream resumable = Fetcher.resumable(URI.create("test://payload"), opener)) {
             byte[] read = resumable.readAllBytes();
@@ -65,9 +67,9 @@ public class FetcherTest {
     public void resumable_get_stops_after_max_reconnects_when_no_progress_is_made() throws Exception {
         byte[] payload = deterministicPayload(4096);
         AtomicInteger openCalls = new AtomicInteger(0);
-        Fetcher.RangeStreamOpener opener = (uri, offset) -> {
+        Fetcher.RangeStreamOpener opener = (uri, offset, expectedEtag) -> {
             openCalls.incrementAndGet();
-            return new FailingInputStream(payload, (int) offset, 0);
+            return new Fetcher.OpenedRange(new FailingInputStream(payload, (int) offset, 0), "etag-1");
         };
         try (InputStream resumable = Fetcher.resumable(URI.create("test://payload"), opener)) {
             assertThatThrownBy(() -> resumable.readAllBytes())
@@ -75,6 +77,26 @@ public class FetcherTest {
                     .hasMessageContaining("simulated mid-stream failure");
         }
         assertThat(openCalls.get()).isLessThanOrEqualTo(10);
+    }
+
+    @Test
+    public void resumable_get_aborts_with_resource_changed_when_etag_diverges_on_reconnect() throws Exception {
+        byte[] payload = deterministicPayload(8192);
+        AtomicInteger openCalls = new AtomicInteger(0);
+        Fetcher.RangeStreamOpener opener = (uri, offset, expectedEtag) -> {
+            int call = openCalls.incrementAndGet();
+            if (call == 1) {
+                return new Fetcher.OpenedRange(new FailingInputStream(payload, 0, payload.length / 2), "etag-original");
+            }
+            assertThat(expectedEtag).isEqualTo("etag-original");
+            throw new Fetcher.ResourceChangedException("simulated regeneration; etag now etag-new");
+        };
+        try (InputStream resumable = Fetcher.resumable(URI.create("test://payload"), opener)) {
+            assertThatThrownBy(() -> resumable.readAllBytes())
+                    .isInstanceOf(Fetcher.ResourceChangedException.class)
+                    .hasMessageContaining("simulated regeneration");
+        }
+        assertThat(openCalls.get()).isEqualTo(2);
     }
 
     private static URI uriOf(HttpServer server) {

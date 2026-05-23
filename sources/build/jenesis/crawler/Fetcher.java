@@ -63,41 +63,49 @@ public final class Fetcher implements AutoCloseable {
         return new ResumableInputStream(uri, opener);
     }
 
-    private InputStream openRangeStream(URI uri, long offset) throws IOException {
+    private OpenedRange openRangeStream(URI uri, long offset, String expectedEtag) throws IOException {
         HttpRequest.Builder reqBuilder = builder(uri).GET();
         if (offset > 0L) {
             reqBuilder.header("Range", "bytes=" + offset + "-");
+            if (expectedEtag != null) {
+                reqBuilder.header("If-Range", expectedEtag);
+            }
         }
         HttpResponse<InputStream> response = send(reqBuilder.build(), HttpResponse.BodyHandlers.ofInputStream());
         int status = response.statusCode();
-        if (status == 206 || (status == 200 && offset == 0L)) {
-            return response.body();
-        }
-        if (status == 200 && offset > 0L) {
-            InputStream body = response.body();
-            long toSkip = offset;
-            while (toSkip > 0L) {
-                long skipped = body.skip(toSkip);
-                if (skipped > 0L) {
-                    toSkip -= skipped;
-                    continue;
-                }
-                int b = body.read();
-                if (b < 0) {
-                    body.close();
-                    throw new IOException("Resumable GET of " + uri + " could not resync to position " + offset);
-                }
-                toSkip--;
+        String etag = response.headers().firstValue("etag").orElse(null);
+        if (status == 206) {
+            if (expectedEtag != null && etag != null && !expectedEtag.equals(etag)) {
+                response.body().close();
+                throw new ResourceChangedException("Resource " + uri + " ETag changed during streaming ("
+                        + expectedEtag + " -> " + etag + ")");
             }
-            return body;
+            return new OpenedRange(response.body(), etag != null ? etag : expectedEtag);
+        }
+        if (status == 200 && offset == 0L) {
+            return new OpenedRange(response.body(), etag);
         }
         response.body().close();
+        if (status == 200 && expectedEtag != null) {
+            throw new ResourceChangedException("Resource " + uri + " changed during streaming"
+                    + " (server returned 200 to a Range request with If-Range)");
+        }
         throw new IOException("Resumable GET of " + uri + " at position " + offset + " returned status " + status);
     }
 
     @FunctionalInterface
     public interface RangeStreamOpener {
-        InputStream open(URI uri, long offset) throws IOException;
+        OpenedRange open(URI uri, long offset, String expectedEtag) throws IOException;
+    }
+
+    public record OpenedRange(InputStream stream, String etag) {
+    }
+
+    public static final class ResourceChangedException extends IOException {
+
+        public ResourceChangedException(String message) {
+            super(message);
+        }
     }
 
     public long size(URI uri) throws IOException {
@@ -321,6 +329,7 @@ public final class Fetcher implements AutoCloseable {
         private final URI uri;
         private final RangeStreamOpener opener;
         private InputStream current;
+        private String etag;
         private long position;
         private int reconnects;
 
@@ -329,7 +338,9 @@ public final class Fetcher implements AutoCloseable {
             this.opener = opener;
             this.position = 0L;
             this.reconnects = 0;
-            this.current = opener.open(uri, 0L);
+            OpenedRange opened = opener.open(uri, 0L, null);
+            this.current = opened.stream();
+            this.etag = opened.etag();
         }
 
         @Override
@@ -349,6 +360,8 @@ public final class Fetcher implements AutoCloseable {
                         reconnects = 0;
                     }
                     return read;
+                } catch (ResourceChangedException fatal) {
+                    throw fatal;
                 } catch (IOException failure) {
                     if (++reconnects > MAX_RECONNECTS) {
                         throw failure;
@@ -359,7 +372,11 @@ public final class Fetcher implements AutoCloseable {
                             + ". Re-issuing Range request.");
                     closeQuietly(current);
                     sleepBackoff();
-                    current = opener.open(uri, position);
+                    OpenedRange opened = opener.open(uri, position, etag);
+                    current = opened.stream();
+                    if (opened.etag() != null) {
+                        etag = opened.etag();
+                    }
                 }
             }
         }
