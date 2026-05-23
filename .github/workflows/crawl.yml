@@ -118,12 +118,15 @@ jobs:
           [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")
           [ -n "$CHECKPOINT_EVERY" ]    && props+=("-Djenesis.crawler.checkpoint.every=$CHECKPOINT_EVERY")
-          # Heap is intentionally capped well below the runner's RAM so an OOM
-          # bug produces a small, upload-friendly dump (a 4 GB dump can't be
-          # uploaded as a workflow artifact in reasonable time). Raise once the
-          # crawler is known to be memory-stable across a full sweep.
-          java -Xmx512m \
-               -XX:+ExitOnOutOfMemoryError \
+          # Heap left at the JVM ergonomic default (~25% of runner RAM, i.e. ~4 GB
+          # on ubuntu-latest). The earlier 512 MB cap was a debugging measure -
+          # the heap-dump analysis confirmed the "leak" was actually one legitimate
+          # ~175 MB allocation by the software.amazon.awssdk group (470 K scanned
+          # entries) tripping the cap. The ScannedStore now emits a [scanned-store]
+          # WARNING on first load of any group above LARGE_GROUP_WARN_THRESHOLD so
+          # the next OOM-prone group becomes visible in the logs without needing a
+          # heap dump.
+          java -XX:+ExitOnOutOfMemoryError \
                -XX:+HeapDumpOnOutOfMemoryError \
                -XX:HeapDumpPath="$GITHUB_WORKSPACE/crawl.hprof" \
                "${props[@]}" sources/build/jenesis/crawler/Crawl.java \

@@ -22,6 +22,19 @@ public final class ScannedStore {
     // barrier, a writer holding the old reference could lose updates that the post-eviction
     // disk file no longer contains.
     private final ReadWriteLock cacheLock;
+    // Groups for which we have already emitted the large-group warning during this JVM lifetime.
+    // We only want one log line per problematic group per run; subsequent loads stay quiet.
+    private final Set<String> warnedLargeGroups;
+
+    // Loading a single group's scanned.tsv past this many entries is suspicious - the current
+    // design holds the whole group as a NavigableSet in memory whenever contains()/markOk()
+    // runs (for the floor() lookup), so a group of this size is a single allocation that can
+    // tip a constrained heap into OOM. The actual threshold is ~150 bytes per entry of
+    // resident memory; at 100 K entries that's ~15 MB, which is fine on its own but combined
+    // with concurrent loads and other allocations is the kind of spike that historically caused
+    // OOMs. The warning is purely informational: nothing about correctness changes when it fires.
+    public static final int LARGE_GROUP_WARN_THRESHOLD = 100_000;
+    public static final long APPROX_BYTES_PER_ENTRY = 150L;
 
     public ScannedStore(Path root) {
         this(root, false);
@@ -33,6 +46,7 @@ public final class ScannedStore {
         this.entries = new ConcurrentHashMap<>();
         this.dirty = ConcurrentHashMap.newKeySet();
         this.cacheLock = new ReentrantReadWriteLock();
+        this.warnedLargeGroups = ConcurrentHashMap.newKeySet();
     }
 
     public boolean contains(Coordinate coordinate) {
@@ -177,6 +191,24 @@ public final class ScannedStore {
             lines.filter(line -> !line.isEmpty()).map(ScannedEntry::parse).forEach(set::add);
         } catch (IOException e) {
             throw new UncheckedIOException("Failed to read " + file, e);
+        }
+        if (set.size() >= LARGE_GROUP_WARN_THRESHOLD && warnedLargeGroups.add(groupId)) {
+            long approxMb = ((long) set.size() * APPROX_BYTES_PER_ENTRY) / (1024L * 1024L);
+            System.err.println("[scanned-store] WARNING: group '" + groupId + "' already contains "
+                    + set.size() + " scanned entries (estimated ~" + approxMb
+                    + " MB resident when loaded). Every contains() and markOk() call on this group"
+                    + " loads the full scanned.tsv into a NavigableSet (the floor() lookup that"
+                    + " backs the existing-coordinate dedup requires the whole set in memory),"
+                    + " so a single touch of this group allocates that much at once. Under a heap"
+                    + " cap, that single allocation - combined with concurrent loads of other"
+                    + " groups and the usual HTTP/parse working set - is the most plausible cause"
+                    + " of an OutOfMemoryError. If you see a subsequent OOM whose heap dump is"
+                    + " dominated by ScannedEntry / String / ConcurrentSkipListMap.Node, this"
+                    + " group is the prime suspect. Mitigation today: raise the JVM heap (-Xmx)."
+                    + " Long-term fix: replace the per-group cache with an append-only file plus"
+                    + " a per-group bloom filter so contains()/markOk() no longer need the full"
+                    + " set in memory. Threshold for this warning: "
+                    + LARGE_GROUP_WARN_THRESHOLD + " entries.");
         }
         return set;
     }
