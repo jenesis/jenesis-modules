@@ -25,8 +25,18 @@ public final class Fetcher implements AutoCloseable {
     public Fetcher(Duration timeout, int retries) {
         this.timeout = Objects.requireNonNull(timeout, "timeout");
         this.retries = retries;
+        // HTTP/1.1 across the board. HTTP/2's per-stream flow-control window (16 MB
+        // default in JDK HttpClient, plus connection-level windows) lets the server
+        // push gigabytes of DATA frames into the body subscriber's internal byte[]
+        // deque before our reader / ofByteArray drains them - which produced 4 GB
+        // heap dumps dominated by 16-64 KB byte[] in both the index-stream path and
+        // the consumer's jar-fetch burst. HTTP/1.1 streams a single body over TCP
+        // with kernel-level back-pressure: read() blocks the socket and the JDK
+        // doesn't accumulate frame buffers. We lose multiplexing across the 96
+        // concurrent jar fetches, but with virtual threads the cost of 96 idle
+        // sockets is negligible, and the JDK's connection pool keeps reuse cheap.
         this.client = HttpClient.newBuilder()
-                .version(HttpClient.Version.HTTP_2)
+                .version(HttpClient.Version.HTTP_1_1)
                 .followRedirects(HttpClient.Redirect.NORMAL)
                 .connectTimeout(CONNECT_TIMEOUT)
                 .build();
@@ -64,20 +74,7 @@ public final class Fetcher implements AutoCloseable {
     }
 
     private OpenedRange openRangeStream(URI uri, long offset, String expectedEtag) throws IOException {
-        // Force HTTP/1.1 for the body-streaming GET. The JDK HttpClient's HTTP/2
-        // receive pipeline buffers DATA frames per-stream up to the flow-control
-        // window (default 16 MB per stream, larger at connection level), and that
-        // buffering ignores how slowly the application drains the InputStream.
-        // For a 3 GB GZIP body read at ~4 MB/s by a single producer thread, the
-        // result was ~4 GB of live 16-64 KB byte[] receive buffers (confirmed via
-        // heap dump - 241 K live arrays totalling 4.03 GB) before OOM. HTTP/1.1's
-        // body is a single TCP stream with kernel-level back-pressure, so read()
-        // blocks the socket and the JDK doesn't accumulate frame buffers.
-        // The jar-fetch range requests (which use the client's HTTP/2 default)
-        // are small and finish quickly, so they don't have the same problem.
-        HttpRequest.Builder reqBuilder = builder(uri)
-                .GET()
-                .version(HttpClient.Version.HTTP_1_1);
+        HttpRequest.Builder reqBuilder = builder(uri).GET();
         if (offset > 0L) {
             reqBuilder.header("Range", "bytes=" + offset + "-");
             if (expectedEtag != null) {
