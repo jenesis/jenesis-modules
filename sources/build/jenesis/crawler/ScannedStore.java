@@ -118,6 +118,27 @@ public final class ScannedStore {
         }
     }
 
+    /**
+     * Drop cached group entries that have no pending writes. The producer side calls this
+     * periodically because its {@link #contains} check loads groups into the cache much faster
+     * than the consumer's flush rate can evict them; without an explicit cleanup, an all-skipped
+     * pass through a large index (~770 K records) accumulates the cache to the point of OOM
+     * before any checkpoint fires. Dirty groups are kept because evicting them would lose writes
+     * that have not yet reached disk.
+     */
+    public void evictIdle() {
+        cacheLock.writeLock().lock();
+        try {
+            for (String groupId : List.copyOf(entries.keySet())) {
+                if (!dirty.contains(groupId)) {
+                    entries.remove(groupId);
+                }
+            }
+        } finally {
+            cacheLock.writeLock().unlock();
+        }
+    }
+
     public Path pathFor(String groupId) {
         Path path = root;
         for (String segment : groupId.split("\\.", -1)) {

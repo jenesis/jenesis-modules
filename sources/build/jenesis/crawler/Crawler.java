@@ -498,7 +498,11 @@ public final class Crawler implements AutoCloseable {
         streamingState.save(statePath);
 
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
-        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter)) {
+        // The producer's contains() check loads each touched group into the ScannedStore
+        // cache; without periodic eviction, an all-skipped pass through ~770 K records can
+        // exhaust the heap before the consumer fires any checkpoint. Tick every 10 K records.
+        LongConsumer onProgressTick = _ -> scannedStore.evictIdle();
+        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter, onProgressTick)) {
             stream.start(List.of(indexUri));
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);

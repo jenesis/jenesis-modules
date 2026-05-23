@@ -293,6 +293,24 @@ The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine rebo
 
 What the design does **not** protect against: a power loss that loses OS-buffered writes (the crawler does not call `fsync`, relying on atomic rename for process-crash semantics). And: an interruption during stage 2 followed by an edit to `versions.tsv` from outside the crawler would, of course, produce a different `current.tsv` on the next regenerate - by design.
 
+### Bounding heap usage on long runs
+
+The two on-heap structures that grow during a sweep are `ModuleStore.dirty` (per-module buffer waiting to be appended to `versions.tsv`) and `ScannedStore.entries` (read-through cache of `scanned.tsv` files keyed by group id). Both need bounding for the crawler to survive a multi-hour run inside a runner with a fixed heap.
+
+- `ModuleStore.dirty` is cleared at every consumer checkpoint (every `jenesis.crawler.checkpoint.every` records, default 2000) inside `store.flush()`. Retention is `O(checkpoint window)`, not `O(run lifetime)`.
+- `ScannedStore.entries` is more subtle. Both sides of the pipeline read it: the consumer calls `markOk`/`markFailed`, and the **producer** calls `contains` for every record it sees in order to decide whether to enqueue it. The producer is much faster than the consumer (a single thread iterating decompressed records), so during an all-skipped pass through Maven Central's ~770 K-record index the producer can touch tens of thousands of groups in seconds, each load pulling that group's whole `scanned.tsv` into memory. We measured this on a real run: 2 K consumer records into a fresh run on top of an existing `data/scanned/`, the JVM hit `OutOfMemoryError` and dumped a 4.2 GB heap.
+
+The fix is two-layered, both gated by a `ReadWriteLock` so eviction never races a live writer:
+
+1. **`ScannedStore.flush()`** (write lock) writes every dirty group and then removes it from the in-memory cache. Run from the consumer at each checkpoint.
+2. **`ScannedStore.evictIdle()`** (write lock) drops every cache entry that isn't currently dirty. Run from the producer once every `WorklistStream.DEFAULT_TICK_EVERY` records (10 000 by default) via a `LongConsumer` tick callback passed to `WorklistStream`. This is what bounds retention during an all-skipped pass where no consumer-side checkpoint fires.
+
+`scannedStore.contains` and `scannedStore.markOk`/`markFailed` take the **read** lock, so the eviction barrier doesn't serialise the 96 concurrent scan workers - it only blocks during the brief flush window.
+
+If the read-through cache itself ever becomes the bottleneck (CPU cost of reloading touched groups within a single checkpoint window, or memory pressure within that window because a single window touches a huge number of large groups), the next step is to swap the cache for a coordinate-keyed bloom filter for the `contains` fast path, with an append-only on-disk log and periodic compaction. That removes the requirement to hold any group's full set in memory at all. The relevant marker comment lives next to the `entries` field in `ScannedStore.java`.
+
+The workflow runs with `-XX:+ExitOnOutOfMemoryError -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/tmp/crawl.hprof` and a follow-up step that uploads the dump as a workflow artifact on failure, so any regression here is debuggable without needing to reproduce locally.
+
 ## Building and testing with Jenesis
 
 The crawler does not need to be built to run, but tests are run via [Jenesis](https://github.com/raphw/jenesis), which is vendored as a git submodule under `.jenesis` and surfaced via the symlink `build/jenesis`.
