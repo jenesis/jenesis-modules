@@ -380,7 +380,7 @@ public final class Crawler implements AutoCloseable {
                 + "/" + state.worklistRecords() + " records");
         long pinnedRecords = state.worklistRecords();
         try (FileBatchSource source = new FileBatchSource(worklist, state.worklistPosition(), configuration.concurrency())) {
-            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition(), () -> pinnedRecords);
+            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition(), () -> pinnedRecords, () -> true);
         } catch (InterruptedException interrupted) {
             Thread.currentThread().interrupt();
             throw new IOException("Interrupted", interrupted);
@@ -402,7 +402,7 @@ public final class Crawler implements AutoCloseable {
         try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter)) {
             stream.start(indexUris);
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
-                Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced);
+                Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
                 stream.close();
                 if (stream.error() != null) {
                     System.err.println("Producer aborted mid-stream: "
@@ -451,11 +451,13 @@ public final class Crawler implements AutoCloseable {
                            Path statePath,
                            SyncMode syncMode,
                            long startPosition,
-                           LongSupplier knownTotal) throws IOException, InterruptedException {
+                           LongSupplier knownTotal,
+                           BooleanSupplier totalFinal) throws IOException, InterruptedException {
         Instant deadline = Instant.now().plus(configuration.budget());
         long processed = 0L;
         long modular = 0L;
         long failed = 0L;
+        long skipped = 0L;
         long sinceCheckpoint = 0L;
         long position = startPosition;
         boolean exhausted = false;
@@ -471,6 +473,7 @@ public final class Crawler implements AutoCloseable {
                 List<Future<ScanOutcome>> futures = new ArrayList<>(batch.coordinates().size());
                 for (Coordinate coordinate : batch.coordinates()) {
                     if (scannedStore.contains(coordinate)) {
+                        skipped++;
                         continue;
                     }
                     futures.add(executor.submit(() -> scanOne(coordinate)));
@@ -512,11 +515,11 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, modular, failed, syncMode, knownTotal);
+                    state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, position, processed, modular, failed, syncMode, knownTotal);
+            state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal);
         }
         return new Result(processed, modular, failed, state.worklistComplete(), syncMode, snapshotFailures());
     }
@@ -539,7 +542,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, SyncMode syncMode, LongSupplier knownTotal) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, long skipped, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal) throws IOException {
         synchronized (store) {
             store.flush();
         }
@@ -550,8 +553,10 @@ public final class Crawler implements AutoCloseable {
             updated = updated.withRecords(total);
         }
         updated.save(statePath);
+        String totalRendering = updated.worklistRecords() + (totalFinal.getAsBoolean() ? "" : "+");
         System.out.println("checkpoint processed=" + processed + " modular=" + modular + " failed=" + failed
-                + " position=" + position + "/" + updated.worklistRecords());
+                + " skipped=" + skipped
+                + " position=" + position + "/" + totalRendering);
         checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
         return updated;
     }
