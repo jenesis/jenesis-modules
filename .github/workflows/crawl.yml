@@ -16,7 +16,7 @@ on:
       push_every:
         description: Number of checkpoints between git pushes
         required: false
-        default: '1'
+        default: '10'
       resume:
         description: Resume in-flight worklist (false discards state + worklist)
         required: false
@@ -71,13 +71,13 @@ jobs:
     needs: guard
     if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 110
 
     steps:
       - name: Check out repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
-          fetch-depth: 1
+          fetch-depth: 50
           persist-credentials: true
 
       - name: Set up JDK 25
@@ -103,7 +103,7 @@ jobs:
           SMALL_JAR_THRESHOLD: ${{ vars.SMALL_JAR_THRESHOLD }}
           CHECKPOINT_EVERY: ${{ vars.CHECKPOINT_EVERY }}
           RESUME: ${{ github.event.inputs.resume || 'true' }}
-          PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
+          PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '10' }}
         run: |
           set -euo pipefail
           props=(

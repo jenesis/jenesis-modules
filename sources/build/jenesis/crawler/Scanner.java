@@ -31,9 +31,20 @@ public final class Scanner {
         int actualTailSize = (int) Math.min(size, tailSize);
         byte[] tail = source.read(size - actualTailSize, actualTailSize);
 
-        CentralDirectory.Position position = CentralDirectory.locate(tail, size);
+        CentralDirectory.Position position;
+        try {
+            position = CentralDirectory.locate(tail, size);
+        } catch (IllegalArgumentException tailTooSmall) {
+            int retryTailSize = (int) Math.min(size, Math.min((long) tailSize * 4, Integer.MAX_VALUE));
+            if (retryTailSize <= actualTailSize) {
+                throw tailTooSmall;
+            }
+            actualTailSize = retryTailSize;
+            tail = source.read(size - actualTailSize, actualTailSize);
+            position = CentralDirectory.locate(tail, size);
+        }
         byte[] centralDirectoryBytes = fetchCentralDirectory(source, tail, position, size, actualTailSize);
-        Map<String, CentralDirectory.Entry> entries = CentralDirectory.parse(centralDirectoryBytes, position.entryCount());
+        Map<String, CentralDirectory.Entry> entries = CentralDirectory.parse(centralDirectoryBytes, position.entryCount(), position.shift());
 
         CentralDirectory.Entry moduleInfoEntry = entries.get(MODULE_INFO_NAME);
         if (moduleInfoEntry == null) {

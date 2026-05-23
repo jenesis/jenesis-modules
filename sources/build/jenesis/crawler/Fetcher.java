@@ -42,6 +42,64 @@ public final class Fetcher implements AutoCloseable {
         return response.body();
     }
 
+    public boolean probeRangeSupport(URI uri) {
+        HttpRequest request = builder(uri)
+                .GET()
+                .header("Range", "bytes=0-0")
+                .build();
+        try {
+            HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
+            return response.statusCode() == 206;
+        } catch (IOException probeFailed) {
+            return false;
+        }
+    }
+
+    public InputStream resumableGet(URI uri) throws IOException {
+        return new ResumableInputStream(uri, this::openRangeStream);
+    }
+
+    public static InputStream resumable(URI uri, RangeStreamOpener opener) throws IOException {
+        return new ResumableInputStream(uri, opener);
+    }
+
+    private InputStream openRangeStream(URI uri, long offset) throws IOException {
+        HttpRequest.Builder reqBuilder = builder(uri).GET();
+        if (offset > 0L) {
+            reqBuilder.header("Range", "bytes=" + offset + "-");
+        }
+        HttpResponse<InputStream> response = send(reqBuilder.build(), HttpResponse.BodyHandlers.ofInputStream());
+        int status = response.statusCode();
+        if (status == 206 || (status == 200 && offset == 0L)) {
+            return response.body();
+        }
+        if (status == 200 && offset > 0L) {
+            InputStream body = response.body();
+            long toSkip = offset;
+            while (toSkip > 0L) {
+                long skipped = body.skip(toSkip);
+                if (skipped > 0L) {
+                    toSkip -= skipped;
+                    continue;
+                }
+                int b = body.read();
+                if (b < 0) {
+                    body.close();
+                    throw new IOException("Resumable GET of " + uri + " could not resync to position " + offset);
+                }
+                toSkip--;
+            }
+            return body;
+        }
+        response.body().close();
+        throw new IOException("Resumable GET of " + uri + " at position " + offset + " returned status " + status);
+    }
+
+    @FunctionalInterface
+    public interface RangeStreamOpener {
+        InputStream open(URI uri, long offset) throws IOException;
+    }
+
     public long size(URI uri) throws IOException {
         HttpRequest request = builder(uri)
                 .method("HEAD", HttpRequest.BodyPublishers.noBody())
@@ -253,5 +311,83 @@ public final class Fetcher implements AutoCloseable {
     @Override
     public void close() {
         client.close();
+    }
+
+    private static final class ResumableInputStream extends InputStream {
+
+        private static final int MAX_RECONNECTS = 5;
+        private static final Duration INITIAL_BACKOFF = Duration.ofMillis(100L);
+
+        private final URI uri;
+        private final RangeStreamOpener opener;
+        private InputStream current;
+        private long position;
+        private int reconnects;
+
+        ResumableInputStream(URI uri, RangeStreamOpener opener) throws IOException {
+            this.uri = uri;
+            this.opener = opener;
+            this.position = 0L;
+            this.reconnects = 0;
+            this.current = opener.open(uri, 0L);
+        }
+
+        @Override
+        public int read() throws IOException {
+            byte[] one = new byte[1];
+            int read = read(one, 0, 1);
+            return read < 0 ? -1 : one[0] & 0xFF;
+        }
+
+        @Override
+        public int read(byte[] b, int off, int len) throws IOException {
+            for (;;) {
+                try {
+                    int read = current.read(b, off, len);
+                    if (read > 0) {
+                        position += read;
+                        reconnects = 0;
+                    }
+                    return read;
+                } catch (IOException failure) {
+                    if (++reconnects > MAX_RECONNECTS) {
+                        throw failure;
+                    }
+                    System.err.println("Resumable read of " + uri + " failed at byte " + position
+                            + " (attempt " + reconnects + "/" + MAX_RECONNECTS
+                            + "): " + failure.getClass().getSimpleName() + ": " + failure.getMessage()
+                            + ". Re-issuing Range request.");
+                    closeQuietly(current);
+                    sleepBackoff();
+                    current = opener.open(uri, position);
+                }
+            }
+        }
+
+        private void sleepBackoff() throws IOException {
+            long shift = Math.min(reconnects - 1, 4);
+            long millis = INITIAL_BACKOFF.toMillis() << shift;
+            try {
+                Thread.sleep(millis);
+            } catch (InterruptedException interrupted) {
+                Thread.currentThread().interrupt();
+                throw new IOException("Interrupted during resumable read backoff", interrupted);
+            }
+        }
+
+        @Override
+        public void close() throws IOException {
+            closeQuietly(current);
+        }
+
+        private static void closeQuietly(InputStream stream) {
+            if (stream == null) {
+                return;
+            }
+            try {
+                stream.close();
+            } catch (IOException _) {
+            }
+        }
     }
 }

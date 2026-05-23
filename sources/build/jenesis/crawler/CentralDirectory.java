@@ -14,7 +14,7 @@ public final class CentralDirectory {
     public static final int LOCAL_HEADER_SIZE = 30;
     public static final int ZIP64_LOCATOR_SIZE = 20;
 
-    public record Position(long centralDirectoryOffset, long centralDirectorySize, long entryCount) {
+    public record Position(long centralDirectoryOffset, long centralDirectorySize, long entryCount, long shift) {
     }
 
     public record Entry(String name, int compressionMethod, long compressedSize, long uncompressedSize, long localHeaderOffset) {
@@ -42,7 +42,12 @@ public final class CentralDirectory {
                 || centralDirectorySize == 0xFFFFFFFFL
                 || centralDirectoryOffset == 0xFFFFFFFFL;
         if (!zip64) {
-            return new Position(centralDirectoryOffset, centralDirectorySize, totalEntries);
+            long actualCdStart = (tailStart + eocdOffset) - centralDirectorySize;
+            long shift = actualCdStart - centralDirectoryOffset;
+            if (shift < 0L || actualCdStart < 0L) {
+                shift = 0L;
+            }
+            return new Position(centralDirectoryOffset + shift, centralDirectorySize, totalEntries, shift);
         }
         int locatorOffset = eocdOffset - ZIP64_LOCATOR_SIZE;
         if (locatorOffset < 0) {
@@ -73,10 +78,14 @@ public final class CentralDirectory {
         long totalEntries64 = buffer.getLong();
         long centralDirectorySize64 = buffer.getLong();
         long centralDirectoryOffset64 = buffer.getLong();
-        return new Position(centralDirectoryOffset64, centralDirectorySize64, totalEntries64);
+        return new Position(centralDirectoryOffset64, centralDirectorySize64, totalEntries64, 0L);
     }
 
     public static Map<String, Entry> parse(byte[] bytes, long entryCount) {
+        return parse(bytes, entryCount, 0L);
+    }
+
+    public static Map<String, Entry> parse(byte[] bytes, long entryCount, long localHeaderShift) {
         ByteBuffer buffer = ByteBuffer.wrap(bytes).order(ByteOrder.LITTLE_ENDIAN);
         Map<String, Entry> entries = new LinkedHashMap<>(Math.max(16, (int) Math.min(entryCount * 2, Integer.MAX_VALUE)));
         for (long index = 0; index < entryCount; index++) {
@@ -132,7 +141,7 @@ public final class CentralDirectory {
             }
             buffer.position(extraStart + extraLength + commentLength);
 
-            entries.put(name, new Entry(name, compressionMethod, compressedSize, uncompressedSize, localHeaderOffset));
+            entries.put(name, new Entry(name, compressionMethod, compressedSize, uncompressedSize, localHeaderOffset + localHeaderShift));
         }
         return entries;
     }

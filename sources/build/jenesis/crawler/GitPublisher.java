@@ -66,13 +66,15 @@ public final class GitPublisher implements CheckpointListener {
 
     private void push() throws IOException {
         IOException lastError = null;
-        for (int attempt = 0; attempt < DEFAULT_PUSH_ATTEMPTS; attempt++) {
+        for (int attempt = 1; attempt <= DEFAULT_PUSH_ATTEMPTS; attempt++) {
             try {
                 run(List.of("git", "push"), true);
                 return;
             } catch (IOException pushFailed) {
                 lastError = pushFailed;
-                if (attempt < DEFAULT_PUSH_ATTEMPTS - 1) {
+                if (attempt < DEFAULT_PUSH_ATTEMPTS) {
+                    System.err.println("git publisher push attempt " + attempt + "/" + DEFAULT_PUSH_ATTEMPTS
+                            + " failed; rebasing and retrying. Details:\n" + pushFailed.getMessage());
                     try {
                         run(List.of("git", "pull", "--rebase"), false);
                     } catch (IOException rebaseFailed) {

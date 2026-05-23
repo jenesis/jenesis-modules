@@ -100,6 +100,17 @@ public final class WorklistStream implements AutoCloseable {
     }
 
     private void streamIndex(URI uri, BufferedWriter writer) throws IOException, InterruptedException {
+        boolean rangeSupported = fetcher.probeRangeSupport(uri);
+        System.out.println("Index source " + uri + " HTTP Range support: "
+                + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
+        if (rangeSupported) {
+            try (InputStream raw = fetcher.resumableGet(uri);
+                 GZIPInputStream gzipped = new GZIPInputStream(raw);
+                 IndexReader reader = new IndexReader(gzipped)) {
+                streamRecords(reader, writer, 0L);
+            }
+            return;
+        }
         IOException lastError = null;
         long backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
         int consecutiveFailures = 0;
@@ -141,31 +152,35 @@ public final class WorklistStream implements AutoCloseable {
         try (InputStream raw = fetcher.get(uri);
              GZIPInputStream gzipped = new GZIPInputStream(raw);
              IndexReader reader = new IndexReader(gzipped)) {
-            long passed = 0L;
-            Map<String, String> record;
-            while ((record = reader.nextRecord()) != null) {
-                if (Thread.currentThread().isInterrupted()) {
-                    throw new InterruptedException("Producer interrupted");
-                }
-                Optional<Coordinate> coordinate = Coordinate.from(record);
-                if (coordinate.isEmpty()) {
-                    continue;
-                }
-                Coordinate candidate = coordinate.get();
-                if (!filter.test(candidate)) {
-                    continue;
-                }
-                if (passed < skipTarget) {
-                    passed++;
-                    continue;
-                }
-                String line = Worklist.format(candidate);
-                writer.write(line);
-                writer.write('\n');
-                long sequence = recordsProduced.incrementAndGet();
-                queue.put(new QueueItem(candidate, sequence));
-                passed++;
+            streamRecords(reader, writer, skipTarget);
+        }
+    }
+
+    private void streamRecords(IndexReader reader, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
+        long passed = 0L;
+        Map<String, String> record;
+        while ((record = reader.nextRecord()) != null) {
+            if (Thread.currentThread().isInterrupted()) {
+                throw new InterruptedException("Producer interrupted");
             }
+            Optional<Coordinate> coordinate = Coordinate.from(record);
+            if (coordinate.isEmpty()) {
+                continue;
+            }
+            Coordinate candidate = coordinate.get();
+            if (!filter.test(candidate)) {
+                continue;
+            }
+            if (passed < skipTarget) {
+                passed++;
+                continue;
+            }
+            String line = Worklist.format(candidate);
+            writer.write(line);
+            writer.write('\n');
+            long sequence = recordsProduced.incrementAndGet();
+            queue.put(new QueueItem(candidate, sequence));
+            passed++;
         }
     }
 

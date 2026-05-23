@@ -85,6 +85,50 @@ public final class Jars {
         return buffer.toByteArray();
     }
 
+    public static byte[] selfExtractingModularJar(String moduleName, int prefixSize) throws IOException {
+        byte[] jar = modularJar(moduleName);
+        byte[] combined = new byte[prefixSize + jar.length];
+        for (int index = 0; index < prefixSize; index++) {
+            combined[index] = (byte) (index & 0xFF);
+        }
+        System.arraycopy(jar, 0, combined, prefixSize, jar.length);
+        return combined;
+    }
+
+    public static byte[] jarWithLongArchiveComment(String moduleName, int commentLength) throws IOException {
+        byte[] jar = modularJar(moduleName);
+        if (commentLength < 0 || commentLength > 0xFFFF) {
+            throw new IllegalArgumentException("commentLength must fit in unsigned short: " + commentLength);
+        }
+        int eocdOffset = findEocd(jar);
+        if (eocdOffset < 0) {
+            throw new IllegalStateException("EOCD not found in synthesized jar");
+        }
+        int commentLengthOffset = eocdOffset + 20;
+        if (jar[commentLengthOffset] != 0 || jar[commentLengthOffset + 1] != 0) {
+            throw new IllegalStateException("Synthesized jar already has an archive comment");
+        }
+        byte[] extended = Arrays.copyOf(jar, jar.length + commentLength);
+        extended[commentLengthOffset] = (byte) (commentLength & 0xFF);
+        extended[commentLengthOffset + 1] = (byte) ((commentLength >>> 8) & 0xFF);
+        for (int index = 0; index < commentLength; index++) {
+            extended[jar.length + index] = (byte) ('#');
+        }
+        return extended;
+    }
+
+    private static int findEocd(byte[] bytes) {
+        for (int candidate = bytes.length - 22; candidate >= 0; candidate--) {
+            if (bytes[candidate] == 0x50
+                    && bytes[candidate + 1] == 0x4b
+                    && bytes[candidate + 2] == 0x05
+                    && bytes[candidate + 3] == 0x06) {
+                return candidate;
+            }
+        }
+        return -1;
+    }
+
     public static byte[] plainJar() throws IOException {
         ByteArrayOutputStream buffer = new ByteArrayOutputStream();
         Manifest manifest = baseManifest(Map.of());

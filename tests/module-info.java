@@ -15,6 +15,7 @@
 open module build.jenesis.crawler.test {
 
     requires build.jenesis.crawler;
+    requires jdk.httpserver;
     requires org.junit.jupiter;
     requires org.assertj.core;
 }

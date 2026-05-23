@@ -104,4 +104,23 @@ public class ScannerTest {
 
         assertThat(scanned).contains(new ScannedModule("compact.module", ModuleType.NAMED));
     }
+
+    @Test
+    public void reads_self_extracting_jar_with_launcher_prefix() throws IOException {
+        byte[] jar = Jars.selfExtractingModularJar("fat.jar.module", 4096);
+
+        Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("fat.jar.module", ModuleType.NAMED));
+    }
+
+    @Test
+    public void retries_with_larger_tail_when_initial_buffer_misses_eocd() throws IOException {
+        byte[] jar = Jars.jarWithLongArchiveComment("buried.eocd.module", 3000);
+        Scanner narrowScanner = new Scanner(1024);
+
+        Optional<ScannedModule> scanned = narrowScanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("buried.eocd.module", ModuleType.NAMED));
+    }
 }
