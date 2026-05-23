@@ -30,9 +30,9 @@ public class ModuleStoreTest {
         assertThat(file).exists();
         List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
         assertThat(lines).containsExactly(
-                "2.0\tnamed\tcom.example:lib",
-                "1.0\tnamed\tcom.example:lib",
-                "0.9\tautomatic\tcom.example:lib");
+                "2.0\tnamed\tcom.example\tlib",
+                "1.0\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib");
     }
 
     @Test
@@ -47,8 +47,8 @@ public class ModuleStoreTest {
 
         assertThat(prefix).exists();
         assertThat(child).exists();
-        assertThat(Files.readAllLines(prefix)).containsExactly("5.0\tnamed\tjakarta.servlet:jakarta.servlet-api");
-        assertThat(Files.readAllLines(child)).containsExactly("6.0\tnamed\tjakarta.servlet:jakarta.servlet-api");
+        assertThat(Files.readAllLines(prefix)).containsExactly("5.0\tnamed\tjakarta.servlet\tjakarta.servlet-api");
+        assertThat(Files.readAllLines(child)).containsExactly("6.0\tnamed\tjakarta.servlet\tjakarta.servlet-api");
     }
 
     @Test
@@ -63,8 +63,8 @@ public class ModuleStoreTest {
 
         List<String> lines = Files.readAllLines(root.resolve("alpha").resolve("module").resolve("versions.tsv"));
         assertThat(lines).containsExactly(
-                "2.0\tnamed\ta:alpha",
-                "1.0\tnamed\ta:alpha");
+                "2.0\tnamed\ta\talpha",
+                "1.0\tnamed\ta\talpha");
     }
 
     @Test
@@ -75,7 +75,7 @@ public class ModuleStoreTest {
 
         Path file = root.resolve("widget").resolve("core").resolve("versions-jakarta.tsv");
         assertThat(file).exists();
-        assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\torg.widget:core");
+        assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\torg.widget\tcore");
     }
 
     @Test
@@ -103,8 +103,8 @@ public class ModuleStoreTest {
         List<String> lines = Files.readAllLines(root.resolve("shared").resolve("name").resolve("versions.tsv"), StandardCharsets.UTF_8);
 
         assertThat(lines).containsExactly(
-                "1.0\tnamed\ta.example:lib",
-                "1.0\tnamed\tz.example:lib");
+                "1.0\tnamed\ta.example\tlib",
+                "1.0\tnamed\tz.example\tlib");
     }
 
     @Test

@@ -26,21 +26,40 @@ data/
 
 ### `data/modules/<dotted/path>/versions[-<classifier>].tsv`
 
-Each module's directory path mirrors the dot-separated module name. The leaf file is always `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant), three tab-separated columns, sorted by Maven version descending then by group:artifact:
+Each module's directory path mirrors the dot-separated module name. The leaf file is always `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant), four tab-separated columns, sorted by Maven version descending then by groupId, then artifactId:
 
 ```
-2.0.10  named      org.slf4j:slf4j-api
-2.0.9   named      org.slf4j:slf4j-api
-1.7.36  automatic  org.slf4j:slf4j-api
+2.0.10  named      org.slf4j  slf4j-api
+2.0.9   named      org.slf4j  slf4j-api
+1.7.36  automatic  org.slf4j  slf4j-api
 ```
 
 - Column 1: version as published.
 - Column 2: `named` (the JAR contains `module-info.class`, either at the root or at the highest `META-INF/versions/<N>/module-info.class` of a multi-release JAR) or `automatic` (the JAR's manifest sets `Automatic-Module-Name`). Non-modular JARs are not recorded.
-- Column 3: `groupId:artifactId`. Combined with column 1 this gives the full Maven coordinate.
+- Column 3: `groupId`.
+- Column 4: `artifactId`. Combined with columns 1 and 3 this gives the full Maven coordinate.
 
 The hierarchical layout means a module whose name is a prefix of another module name coexists without conflict: `org.slf4j` and `org.slf4j.api` live at `org/slf4j/versions.tsv` and `org/slf4j/api/versions.tsv` respectively. The directory `org/slf4j` holds both its own `versions.tsv` and the `api/` subtree.
 
 Lookup math (no parsing required): `data/modules/<segments-joined-by-slash>/versions[-<classifier>].tsv`.
+
+#### Module-name collisions and module injection
+
+A Java module name is **not** namespaced and **not** a stable identifier on Maven Central - it is just a string a JAR's `module-info.class` (or `Automatic-Module-Name` header) carries. Nothing prevents two unrelated artifacts from declaring the same module name, and in the live index that happens routinely. The most common cause is shading: a downstream artifact bundles a third-party library and forgets to relocate the bundled `module-info` along with its classes, so the parent JAR ends up exporting somebody else's module name.
+
+Concrete example from the current crawl - the directory `data/modules/com/fasterxml/jackson/core/versions.tsv` holds **487 rows** declaring the module `com.fasterxml.jackson.core`. The canonical row is the actual Jackson JAR (`com.fasterxml.jackson.core:jackson-core`); the long tail is a mix of repackaged or shaded artifacts from unrelated groups (`software.amazon.awssdk:third-party-jackson-core`, several `software.amazon.glue:*`, `tech.powerjob:powerjob-shade-vertx`, and many more) that all advertise the same module name.
+
+Most collisions in the wild are accidental, but the same mechanism is a **supply-chain attack surface**:
+
+> **Module injection.** Anyone can publish a Maven artifact under their own `groupId` and have its `module-info.class` declare a popular module name (`org.slf4j`, `com.google.gson`, `org.hibernate.orm`, ...). A tool that resolves "which artifact provides module `X`?" by looking up `X` in this index and trusting the first or only row it finds can be steered toward a hostile JAR. The index faithfully records who declared what; it does **not** decide who is allowed to declare a given module name.
+
+Consumers of `data/modules/` **must not** treat a module name as authoritative on its own. Recommended practice:
+
+- Pin the expected `(groupId, artifactId)` for every module name your project depends on, and reject any row whose `(groupId, artifactId)` does not match.
+- Where multiple rows exist for a wanted module name, do not auto-pick - either fail loudly or require explicit allowlisting.
+- Treat newly appearing `(groupId, artifactId)` pairs for an already-known module name as a signal worth reviewing (it may be a legitimate fork, a typo-squat, or an attempted injection).
+
+The index is a *catalog of declarations*, not a *trust statement*. Use it to discover and audit, not to dispatch.
 
 ### `data/scanned/<dotted/path>/scanned.tsv`
 

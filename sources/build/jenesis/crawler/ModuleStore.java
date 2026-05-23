@@ -53,7 +53,7 @@ public final class ModuleStore {
     public void record(String moduleName, ModuleType type, Coordinate coordinate) {
         StoreKey key = new StoreKey(moduleName, coordinate.classifier());
         NavigableSet<ModuleEntry> entries = dirty.computeIfAbsent(key, this::loadOrEmpty);
-        entries.add(new ModuleEntry(new Version(coordinate.version()), type, coordinate.groupArtifact()));
+        entries.add(new ModuleEntry(new Version(coordinate.version()), type, coordinate.groupId(), coordinate.artifactId()));
     }
 
     public int pendingFiles() {
