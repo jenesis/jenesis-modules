@@ -1,4 +1,4 @@
-name: crawl
+name: Crawl Maven Central for Java Modules
 
 on:
   schedule:
@@ -17,16 +17,67 @@ on:
         description: Number of checkpoints between git pushes
         required: false
         default: '1'
+      resume:
+        description: Resume in-flight worklist (false discards state + worklist)
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      index_base:
+        description: Override base URI for the Maven index (leave blank for default / repo var)
+        required: false
+        default: ''
+      artifact_base:
+        description: Override base URI for artifact downloads (leave blank for default / repo var)
+        required: false
+        default: ''
 
 permissions:
   contents: write
+  actions: read
 
+# Manual dispatches share the `crawl` group so a double-click on "Run workflow"
+# queues rather than overlaps. Scheduled triggers use a unique per-run group so
+# they start immediately and let the guard job below decide whether to skip --
+# this is what prevents a long manual crawl from being followed by a queued
+# scheduled run that fires the moment the manual one ends.
 concurrency:
-  group: crawl
+  group: ${{ github.event_name == 'schedule' && format('crawl-schedule-{0}', github.run_id) || 'crawl' }}
   cancel-in-progress: false
 
 jobs:
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - name: Skip scheduled trigger if another crawl is in flight
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Manual trigger; proceeding regardless of other runs."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          OTHERS=$(gh api \
+            "/repos/${{ github.repository }}/actions/workflows/crawl.yml/runs?status=in_progress&per_page=100" \
+            -q "[.workflow_runs[] | select(.id != ${{ github.run_id }})] | length")
+          if [ "$OTHERS" -gt 0 ]; then
+            echo "::notice::Skipping scheduled crawl: ${OTHERS} other crawl run(s) already in flight."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No other crawl in flight; proceeding."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
   crawl:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 100
 
@@ -54,17 +105,18 @@ jobs:
         env:
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '96' }}
-          INDEX_BASE: ${{ vars.INDEX_BASE }}
-          ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE }}
+          INDEX_BASE: ${{ github.event.inputs.index_base || vars.INDEX_BASE }}
+          ARTIFACT_BASE: ${{ github.event.inputs.artifact_base || vars.ARTIFACT_BASE }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
           SMALL_JAR_THRESHOLD: ${{ vars.SMALL_JAR_THRESHOLD }}
           CHECKPOINT_EVERY: ${{ vars.CHECKPOINT_EVERY }}
+          RESUME: ${{ github.event.inputs.resume || 'true' }}
           GIT_PUBLISH: '1'
           GIT_WORK_DIR: ${{ github.workspace }}
           GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
         run: |
           set -euo pipefail
-          java --source 25 sources/build/jenesis/crawler/Main.java \
+          java sources/build/jenesis/crawler/Main.java \
                --data "$GITHUB_WORKSPACE/data"
 
       - name: Commit any uncommitted progress

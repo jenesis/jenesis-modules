@@ -24,7 +24,8 @@ public final class Crawler implements AutoCloseable {
                                 int concurrency,
                                 int tailSize,
                                 long checkpointEvery,
-                                long smallJarThreshold) {
+                                long smallJarThreshold,
+                                boolean resume) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
 
@@ -37,7 +38,8 @@ public final class Crawler implements AutoCloseable {
                     96,
                     Scanner.DEFAULT_TAIL_SIZE,
                     2000L,
-                    DEFAULT_SMALL_JAR_THRESHOLD
+                    DEFAULT_SMALL_JAR_THRESHOLD,
+                    true
             );
         }
     }
@@ -188,8 +190,11 @@ public final class Crawler implements AutoCloseable {
     public Result run() throws IOException {
         verifyRobotsTxt();
         Path statePath = configuration.dataDir().resolve("state.properties");
-        State state = State.load(statePath);
         Worklist worklist = new Worklist(configuration.dataDir().resolve("worklist.tsv"));
+        if (!configuration.resume()) {
+            discardInflight(statePath, worklist);
+        }
+        State state = State.load(statePath);
 
         if (worklist.exists() && state.worklistRecords() > 0L && !state.worklistComplete()) {
             return runFromFile(worklist, state, statePath);
@@ -221,6 +226,19 @@ public final class Crawler implements AutoCloseable {
                 : List.of(configuration.indexBaseUri().resolve(INDEX_FILE));
 
         return runStreaming(worklist, state, statePath, indexUris, remote, mode);
+    }
+
+    private void discardInflight(Path statePath, Worklist worklist) throws IOException {
+        Path streamingWorklist = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
+        boolean removedAnything = false;
+        for (Path path : List.of(statePath, worklist.path(), streamingWorklist)) {
+            if (Files.deleteIfExists(path)) {
+                removedAnything = true;
+            }
+        }
+        System.out.println(removedAnything
+                ? "Resume disabled: discarded existing state and worklist; starting fresh."
+                : "Resume disabled: no existing state to discard.");
     }
 
     private void verifyRobotsTxt() throws IOException {

@@ -74,8 +74,9 @@ Common flags:
 | `--checkpoint-every <n>` | 2000 | Coordinates between on-disk checkpoints. |
 | `--index-base <uri>` | Maven Central index | Base URI of the index. |
 | `--artifact-base <uri>` | GCS mirror | Base URI used to range-fetch JARs. |
+| `--resume <true\|false>` | `true` | When `false`, deletes `state.properties` and any `worklist.tsv[.streaming]` before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
 
-All flags can also be set via matching environment variables (`BUDGET_MINUTES`, `CONCURRENCY`, `DATA_DIR`, `TAIL_SIZE`, `SMALL_JAR_THRESHOLD`, `CHECKPOINT_EVERY`, `INDEX_BASE`, `ARTIFACT_BASE`). Flags take precedence over environment variables.
+All flags can also be set via matching environment variables (`BUDGET_MINUTES`, `CONCURRENCY`, `DATA_DIR`, `TAIL_SIZE`, `SMALL_JAR_THRESHOLD`, `CHECKPOINT_EVERY`, `INDEX_BASE`, `ARTIFACT_BASE`, `RESUME`). Flags take precedence over environment variables.
 
 ## How the crawl works
 
@@ -113,6 +114,11 @@ The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler
 
 `.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. With `GIT_PUBLISH=1` the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
 
+Scheduled and manual triggers coexist:
+- A guard job runs first and, on **scheduled** triggers only, checks whether another crawl is already in flight. If so, the scheduled run exits without doing any work, so a long manual crawl (e.g. 10 hours) is never followed by a freshly-queued 90-minute scheduled run when it ends.
+- Manual dispatches (`workflow_dispatch`) always proceed. They share a `crawl` concurrency group so a double-click on "Run workflow" queues rather than overlaps.
+- The manual dispatch form exposes a `resume` choice (default `true`). Set to `false` to discard `state.properties` and any in-flight worklist before starting; `data/scanned/` and `data/modules/` are preserved so already-scanned coordinates remain skipped.
+
 `build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI.
 
 ## Adapting in a fork without editing YAML
@@ -131,6 +137,8 @@ The workflow reads optional GitHub repository variables (Settings → Secrets an
 | `GIT_PUSH_EVERY` | Throttle pushes (commits stay per-checkpoint). |
 
 Unset variables keep the built-in defaults.
+
+The manual `workflow_dispatch` form also exposes per-run overrides for the most commonly tweaked settings (`budget_minutes`, `concurrency`, `push_every`, `resume`, `index_base`, `artifact_base`). Precedence: dispatch input → repository variable → built-in default. Use the `index_base` / `artifact_base` inputs for one-off test runs against a mirror without changing repo variables.
 
 ## Monitoring
 

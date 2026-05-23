@@ -12,6 +12,7 @@ public final class Main {
     private static final String FLAG_TAIL_SIZE = "--tail-size";
     private static final String FLAG_CHECKPOINT_EVERY = "--checkpoint-every";
     private static final String FLAG_SMALL_JAR_THRESHOLD = "--small-jar-threshold";
+    private static final String FLAG_RESUME = "--resume";
 
     private Main() {
     }
@@ -24,6 +25,7 @@ public final class Main {
         System.out.println("  concurrency=" + configuration.concurrency());
         System.out.println("  indexBase=" + configuration.indexBaseUri());
         System.out.println("  artifactBase=" + configuration.artifactBaseUri());
+        System.out.println("  resume=" + configuration.resume());
 
         Crawler.Result result;
         try (Crawler crawler = new Crawler(configuration)) {
@@ -65,6 +67,7 @@ public final class Main {
         int tailSize = base.tailSize();
         long checkpointEvery = base.checkpointEvery();
         long smallJarThreshold = base.smallJarThreshold();
+        boolean resume = base.resume();
 
         String envBudget = System.getenv("BUDGET_MINUTES");
         if (envBudget != null && !envBudget.isBlank()) {
@@ -97,6 +100,10 @@ public final class Main {
         String envSmallJarThreshold = System.getenv("SMALL_JAR_THRESHOLD");
         if (envSmallJarThreshold != null && !envSmallJarThreshold.isBlank()) {
             smallJarThreshold = Long.parseLong(envSmallJarThreshold.trim());
+        }
+        String envResume = System.getenv("RESUME");
+        if (envResume != null && !envResume.isBlank()) {
+            resume = parseBoolean(envResume.trim(), "RESUME");
         }
 
         for (int index = 0; index < arguments.length; index++) {
@@ -135,6 +142,10 @@ public final class Main {
                     smallJarThreshold = Long.parseLong(require(value, FLAG_SMALL_JAR_THRESHOLD));
                     index++;
                 }
+                case FLAG_RESUME -> {
+                    resume = parseBoolean(require(value, FLAG_RESUME), FLAG_RESUME);
+                    index++;
+                }
                 case "--help", "-h" -> {
                     printUsage();
                     System.exit(0);
@@ -142,7 +153,7 @@ public final class Main {
                 default -> throw new IllegalArgumentException("Unknown argument: " + argument);
             }
         }
-        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold);
+        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume);
     }
 
     private static String require(String value, String flag) {
@@ -150,6 +161,14 @@ public final class Main {
             throw new IllegalArgumentException("Missing value for " + flag);
         }
         return value;
+    }
+
+    private static boolean parseBoolean(String value, String source) {
+        return switch (value.toLowerCase(Locale.ROOT)) {
+            case "true", "1", "yes" -> true;
+            case "false", "0", "no" -> false;
+            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
+        };
     }
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {
@@ -218,9 +237,10 @@ public final class Main {
         System.out.println("  --tail-size <n>          Bytes to fetch from each JAR tail");
         System.out.println("  --checkpoint-every <n>   Coordinates between state checkpoints");
         System.out.println("  --small-jar-threshold <n> JAR size below which we fetch the whole file in one request");
+        System.out.println("  --resume <true|false>    Resume in-flight worklist (default true); false discards state + worklist");
         System.out.println();
         System.out.println("Environment overrides: BUDGET_MINUTES, CONCURRENCY, DATA_DIR,");
-        System.out.println("  INDEX_BASE, ARTIFACT_BASE, TAIL_SIZE, CHECKPOINT_EVERY, SMALL_JAR_THRESHOLD.");
+        System.out.println("  INDEX_BASE, ARTIFACT_BASE, TAIL_SIZE, CHECKPOINT_EVERY, SMALL_JAR_THRESHOLD, RESUME.");
         System.out.println("Incremental publishing: GIT_PUBLISH=1 to enable; GIT_WORK_DIR (default '.');");
         System.out.println("  GIT_PUSH_EVERY=<n> to push every n checkpoints (default 1).");
     }

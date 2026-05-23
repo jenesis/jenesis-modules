@@ -1,4 +1,4 @@
-name: Release Jenesis Modules
+name: Release Jenesis Crawler
 
 on:
   workflow_run:
