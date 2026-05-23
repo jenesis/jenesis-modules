@@ -64,7 +64,20 @@ public final class Fetcher implements AutoCloseable {
     }
 
     private OpenedRange openRangeStream(URI uri, long offset, String expectedEtag) throws IOException {
-        HttpRequest.Builder reqBuilder = builder(uri).GET();
+        // Force HTTP/1.1 for the body-streaming GET. The JDK HttpClient's HTTP/2
+        // receive pipeline buffers DATA frames per-stream up to the flow-control
+        // window (default 16 MB per stream, larger at connection level), and that
+        // buffering ignores how slowly the application drains the InputStream.
+        // For a 3 GB GZIP body read at ~4 MB/s by a single producer thread, the
+        // result was ~4 GB of live 16-64 KB byte[] receive buffers (confirmed via
+        // heap dump - 241 K live arrays totalling 4.03 GB) before OOM. HTTP/1.1's
+        // body is a single TCP stream with kernel-level back-pressure, so read()
+        // blocks the socket and the JDK doesn't accumulate frame buffers.
+        // The jar-fetch range requests (which use the client's HTTP/2 default)
+        // are small and finish quickly, so they don't have the same problem.
+        HttpRequest.Builder reqBuilder = builder(uri)
+                .GET()
+                .version(HttpClient.Version.HTTP_1_1);
         if (offset > 0L) {
             reqBuilder.header("Range", "bytes=" + offset + "-");
             if (expectedEtag != null) {
