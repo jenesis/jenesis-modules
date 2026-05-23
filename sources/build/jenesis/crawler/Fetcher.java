@@ -379,7 +379,7 @@ public final class Fetcher implements AutoCloseable {
                     if (++reconnects > MAX_RECONNECTS) {
                         throw failure;
                     }
-                    System.err.println("Resumable read of " + uri + " failed at byte " + position
+                    System.err.println("[fetcher] resumable read of " + uri + " failed at byte " + position
                             + " (attempt " + reconnects + "/" + MAX_RECONNECTS
                             + "): " + failure.getClass().getSimpleName() + ": " + failure.getMessage()
                             + ". Re-issuing Range request.");

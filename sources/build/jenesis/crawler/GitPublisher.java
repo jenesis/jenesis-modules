@@ -41,7 +41,7 @@ public final class GitPublisher implements CheckpointListener {
                 commitsSincePush = 0;
             }
         } catch (IOException error) {
-            System.err.println("git publisher failed: " + error.getMessage()
+            System.err.println("[git] publisher failed: " + error.getMessage()
                     + " (continuing crawl; on-disk state is still consistent)");
             commitsSincePush = 0;
         }
@@ -73,12 +73,12 @@ public final class GitPublisher implements CheckpointListener {
             } catch (IOException pushFailed) {
                 lastError = pushFailed;
                 if (attempt < DEFAULT_PUSH_ATTEMPTS) {
-                    System.err.println("git publisher push attempt " + attempt + "/" + DEFAULT_PUSH_ATTEMPTS
+                    System.err.println("[git] publisher push attempt " + attempt + "/" + DEFAULT_PUSH_ATTEMPTS
                             + " failed; rebasing and retrying. Details:\n" + pushFailed.getMessage());
                     try {
                         run(List.of("git", "pull", "--rebase"), false);
                     } catch (IOException rebaseFailed) {
-                        System.err.println("git publisher rebase failed, will retry push anyway: " + rebaseFailed.getMessage());
+                        System.err.println("[git] publisher rebase failed, will retry push anyway: " + rebaseFailed.getMessage());
                     }
                 }
             }

@@ -113,7 +113,7 @@ public final class WorklistStream implements AutoCloseable {
 
     private void streamIndex(URI uri, BufferedWriter writer) throws IOException, InterruptedException {
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
-        System.out.println("Index source " + uri + " HTTP Range support: "
+        System.out.println("[index-producer] Index source " + uri + " HTTP Range support: "
                 + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
         if (rangeSupported) {
             try (InputStream raw = fetcher.resumableGet(uri);
@@ -136,7 +136,7 @@ public final class WorklistStream implements AutoCloseable {
                 lastError = e;
                 long progressed = recordsProduced.get() - beforeAttempt;
                 if (progressed > 0L) {
-                    System.err.println("Producer stream failed after " + progressed + " records emitted: "
+                    System.err.println("[index-producer] stream failed after " + progressed + " records emitted: "
                             + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + ". Resetting backoff and retrying in " + DEFAULT_INITIAL_BACKOFF.toMillis() + " ms.");
                     backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
@@ -146,7 +146,7 @@ public final class WorklistStream implements AutoCloseable {
                     if (consecutiveFailures >= DEFAULT_STREAM_ATTEMPTS) {
                         break;
                     }
-                    System.err.println("Producer stream failed without progress (attempt " + consecutiveFailures
+                    System.err.println("[index-producer] stream failed without progress (attempt " + consecutiveFailures
                             + "/" + DEFAULT_STREAM_ATTEMPTS + ") for " + uri + " ("
                             + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + "). Retrying in " + backoffMillis + " ms.");

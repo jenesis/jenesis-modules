@@ -34,26 +34,26 @@ public final class Crawl {
         URI indexBase = arguments.length == 2 ? URI.create(arguments[1]) : artifactBase;
 
         Crawler.Configuration configuration = buildConfiguration(artifactBase, indexBase);
-        System.out.println("Configuration:");
-        System.out.println("  dataDir=" + configuration.dataDir().toAbsolutePath());
-        System.out.println("  budget=" + configuration.budget());
-        System.out.println("  concurrency=" + configuration.concurrency());
-        System.out.println("  indexBase=" + configuration.indexBaseUri());
-        System.out.println("  artifactBase=" + configuration.artifactBaseUri());
-        System.out.println("  resume=" + configuration.resume());
+        System.out.println("[crawler] Configuration:");
+        System.out.println("[crawler]   dataDir=" + configuration.dataDir().toAbsolutePath());
+        System.out.println("[crawler]   budget=" + configuration.budget());
+        System.out.println("[crawler]   concurrency=" + configuration.concurrency());
+        System.out.println("[crawler]   indexBase=" + configuration.indexBaseUri());
+        System.out.println("[crawler]   artifactBase=" + configuration.artifactBaseUri());
+        System.out.println("[crawler]   resume=" + configuration.resume());
 
         Crawler.Result result;
         try (Crawler crawler = new Crawler(configuration)) {
             configureListener(crawler, configuration);
             result = crawler.run();
         }
-        System.out.println("syncMode=" + result.syncMode()
+        System.out.println("[crawler] syncMode=" + result.syncMode()
                 + " processed=" + result.processed()
                 + " modular=" + result.modular()
                 + " failed=" + result.failed()
                 + " worklistComplete=" + result.worklistComplete());
         if (!result.worklistComplete()) {
-            System.out.println("Worklist still has remaining entries: resume with another run.");
+            System.out.println("[crawler] Worklist still has remaining entries: resume with another run.");
         }
         printFailureBreakdown(result);
         writeStepSummary(result);
@@ -89,12 +89,12 @@ public final class Crawl {
         if (result.failureBreakdown().isEmpty()) {
             return;
         }
-        System.out.println("Failure breakdown (" + result.failed() + " total):");
+        System.out.println("[crawler] Failure breakdown (" + result.failed() + " total):");
         result.failureBreakdown().entrySet().stream()
                 .sorted((a, b) -> Long.compare(b.getValue().count(), a.getValue().count()))
                 .forEach(entry -> {
-                    System.out.println("  " + entry.getKey() + ": " + entry.getValue().count());
-                    System.out.println("    sample: " + entry.getValue().sampleMessage());
+                    System.out.println("[crawler]   " + entry.getKey() + ": " + entry.getValue().count());
+                    System.out.println("[crawler]     sample: " + entry.getValue().sampleMessage());
                 });
     }
 
@@ -108,7 +108,7 @@ public final class Crawl {
             Path workingAbsolute = workingDirectory.toAbsolutePath();
             Path relative = workingAbsolute.relativize(dataDir);
             listener = listener.andThen(new GitPublisher(workingAbsolute, List.of(relative.toString()), pushEvery));
-            System.out.println("Publishing checkpoints via git in " + workingAbsolute + " (pushEvery=" + pushEvery + ")");
+            System.out.println("[crawler] Publishing checkpoints via git in " + workingAbsolute + " (pushEvery=" + pushEvery + ")");
         }
         crawler.withCheckpointListener(listener);
     }
@@ -141,7 +141,7 @@ public final class Crawl {
             Files.writeString(Path.of(path), summary.toString(), StandardCharsets.UTF_8,
                     StandardOpenOption.CREATE, StandardOpenOption.APPEND);
         } catch (IOException e) {
-            System.err.println("Failed to write step summary: " + e.getMessage());
+            System.err.println("[crawler] Failed to write step summary: " + e.getMessage());
         }
     }
 
