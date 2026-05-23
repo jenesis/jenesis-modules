@@ -7,6 +7,7 @@ public final class WorklistStream implements AutoCloseable {
     public static final int DEFAULT_QUEUE_CAPACITY = 4096;
     public static final int DEFAULT_STREAM_ATTEMPTS = 4;
     public static final long DEFAULT_TICK_EVERY = 10_000L;
+    public static final long DEFAULT_LOG_EVERY = 50_000L;
     public static final Duration DEFAULT_INITIAL_BACKOFF = Duration.ofSeconds(1L);
     public static final Duration JOIN_TIMEOUT = Duration.ofSeconds(5L);
 
@@ -170,6 +171,7 @@ public final class WorklistStream implements AutoCloseable {
     private void streamRecords(IndexReader reader, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
         long passed = 0L;
         long recordsSeen = 0L;
+        long startNanos = System.nanoTime();
         Map<String, String> record;
         while ((record = reader.nextRecord()) != null) {
             if (Thread.currentThread().isInterrupted()) {
@@ -177,6 +179,13 @@ public final class WorklistStream implements AutoCloseable {
             }
             if (++recordsSeen % DEFAULT_TICK_EVERY == 0L) {
                 onProgressTick.accept(recordsSeen);
+            }
+            if (recordsSeen % DEFAULT_LOG_EVERY == 0L) {
+                long elapsedSeconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNanos);
+                long produced = recordsProduced.get();
+                long rate = elapsedSeconds > 0L ? recordsSeen / elapsedSeconds : recordsSeen;
+                System.out.println("[index-producer] seen=" + recordsSeen + " queued=" + produced
+                        + " inQueue=" + queue.size() + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s");
             }
             Optional<Coordinate> coordinate = Coordinate.from(record);
             if (coordinate.isEmpty()) {

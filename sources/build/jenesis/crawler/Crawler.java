@@ -501,7 +501,22 @@ public final class Crawler implements AutoCloseable {
         // The producer's contains() check loads each touched group into the ScannedStore
         // cache; without periodic eviction, an all-skipped pass through ~770 K records can
         // exhaust the heap before the consumer fires any checkpoint. Tick every 10 K records.
-        LongConsumer onProgressTick = _ -> scannedStore.evictIdle();
+        // Every fifth tick (50 K records) also emit a diagnostic line so a hung run is
+        // visible without attaching jcmd or pulling a heap dump.
+        LongConsumer onProgressTick = recordsSeen -> {
+            scannedStore.evictIdle();
+            if (recordsSeen % 50_000L == 0L) {
+                Runtime rt = Runtime.getRuntime();
+                long heapUsedMB = (rt.totalMemory() - rt.freeMemory()) / (1024L * 1024L);
+                long heapMaxMB = rt.maxMemory() / (1024L * 1024L);
+                System.out.println("[diag] heapUsedMB=" + heapUsedMB + "/" + heapMaxMB
+                        + " scannedCached=" + scannedStore.cachedGroups()
+                        + " scannedEntries=" + scannedStore.cachedEntries()
+                        + " scannedDirty=" + scannedStore.pendingGroups()
+                        + " moduleDirty=" + store.pendingFiles()
+                        + " dirtyModules=" + dirtyModules.size());
+            }
+        };
         try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter, onProgressTick)) {
             stream.start(List.of(indexUri));
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {

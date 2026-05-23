@@ -98,6 +98,18 @@ public final class ScannedStore {
         }
     }
 
+    public int cachedGroups() {
+        return entries.size();
+    }
+
+    public int cachedEntries() {
+        int total = 0;
+        for (NavigableSet<ScannedEntry> set : entries.values()) {
+            total += set.size();
+        }
+        return total;
+    }
+
     public int pendingGroups() {
         return dirty.size();
     }
