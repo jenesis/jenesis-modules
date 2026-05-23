@@ -30,9 +30,9 @@ public class ModuleStoreTest {
         assertThat(file).exists();
         List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
         assertThat(lines).containsExactly(
-                "2.0\tnamed\tcom.example\tlib",
-                "1.0\tnamed\tcom.example\tlib",
-                "0.9\tautomatic\tcom.example\tlib");
+                "2.0\tnamed\tcom.example\tlib\t1970-01-01T00:00:00Z",
+                "1.0\tnamed\tcom.example\tlib\t1970-01-01T00:00:00Z",
+                "0.9\tautomatic\tcom.example\tlib\t1970-01-01T00:00:00Z");
     }
 
     @Test
@@ -47,8 +47,8 @@ public class ModuleStoreTest {
 
         assertThat(prefix).exists();
         assertThat(child).exists();
-        assertThat(Files.readAllLines(prefix)).containsExactly("5.0\tnamed\tjakarta.servlet\tjakarta.servlet-api");
-        assertThat(Files.readAllLines(child)).containsExactly("6.0\tnamed\tjakarta.servlet\tjakarta.servlet-api");
+        assertThat(Files.readAllLines(prefix)).containsExactly("5.0\tnamed\tjakarta.servlet\tjakarta.servlet-api\t1970-01-01T00:00:00Z");
+        assertThat(Files.readAllLines(child)).containsExactly("6.0\tnamed\tjakarta.servlet\tjakarta.servlet-api\t1970-01-01T00:00:00Z");
     }
 
     @Test
@@ -63,8 +63,8 @@ public class ModuleStoreTest {
 
         List<String> lines = Files.readAllLines(root.resolve("alpha").resolve("module").resolve("versions.tsv"));
         assertThat(lines).containsExactly(
-                "2.0\tnamed\ta\talpha",
-                "1.0\tnamed\ta\talpha");
+                "2.0\tnamed\ta\talpha\t1970-01-01T00:00:00Z",
+                "1.0\tnamed\ta\talpha\t1970-01-01T00:00:00Z");
     }
 
     @Test
@@ -75,7 +75,7 @@ public class ModuleStoreTest {
 
         Path file = root.resolve("widget").resolve("core").resolve("versions-jakarta.tsv");
         assertThat(file).exists();
-        assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\torg.widget\tcore");
+        assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\torg.widget\tcore\t1970-01-01T00:00:00Z");
     }
 
     @Test
@@ -103,8 +103,80 @@ public class ModuleStoreTest {
         List<String> lines = Files.readAllLines(root.resolve("shared").resolve("name").resolve("versions.tsv"), StandardCharsets.UTF_8);
 
         assertThat(lines).containsExactly(
-                "1.0\tnamed\ta.example\tlib",
-                "1.0\tnamed\tz.example\tlib");
+                "1.0\tnamed\ta.example\tlib\t1970-01-01T00:00:00Z",
+                "1.0\tnamed\tz.example\tlib\t1970-01-01T00:00:00Z");
+    }
+
+    @Test
+    public void records_publication_timestamp_from_coordinate() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("com.example.timed", ModuleType.NAMED,
+                new Coordinate("com.example", "timed", "1.0", null, "jar", 0L, 1692704520000L));
+        store.flush();
+
+        Path file = root.resolve("com").resolve("example").resolve("timed").resolve("versions.tsv");
+        assertThat(Files.readAllLines(file)).containsExactly("1.0\tnamed\tcom.example\ttimed\t2023-08-22T11:42:00Z");
+    }
+
+    @Test
+    public void records_when_no_owners_file_exists() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        boolean recorded = store.record("open.module", ModuleType.NAMED, coordinate("any.group", "any-artifact", "1.0", null));
+
+        assertThat(recorded).isTrue();
+        store.flush();
+        assertThat(root.resolve("open").resolve("module").resolve("versions.tsv")).exists();
+    }
+
+    @Test
+    public void owners_with_group_only_line_allows_any_artifact_in_group() throws IOException {
+        Path dir = Files.createDirectories(root.resolve("guarded").resolve("module"));
+        Files.writeString(dir.resolve("owners.tsv"), "trusted.group\n");
+
+        ModuleStore store = new ModuleStore(root);
+        boolean allowed = store.record("guarded.module", ModuleType.NAMED, coordinate("trusted.group", "anything", "1.0", null));
+        boolean rejected = store.record("guarded.module", ModuleType.NAMED, coordinate("other.group", "anything", "1.0", null));
+
+        assertThat(allowed).isTrue();
+        assertThat(rejected).isFalse();
+        store.flush();
+        assertThat(Files.readAllLines(dir.resolve("versions.tsv")))
+                .containsExactly("1.0\tnamed\ttrusted.group\tanything\t1970-01-01T00:00:00Z");
+    }
+
+    @Test
+    public void owners_with_exact_pair_line_rejects_other_artifacts_in_same_group() throws IOException {
+        Path dir = Files.createDirectories(root.resolve("guarded").resolve("module"));
+        Files.writeString(dir.resolve("owners.tsv"), "trusted.group\tknown-artifact\n");
+
+        ModuleStore store = new ModuleStore(root);
+        boolean allowed = store.record("guarded.module", ModuleType.NAMED, coordinate("trusted.group", "known-artifact", "1.0", null));
+        boolean rejected = store.record("guarded.module", ModuleType.NAMED, coordinate("trusted.group", "other-artifact", "1.0", null));
+
+        assertThat(allowed).isTrue();
+        assertThat(rejected).isFalse();
+        store.flush();
+        assertThat(Files.readAllLines(dir.resolve("versions.tsv")))
+                .containsExactly("1.0\tnamed\ttrusted.group\tknown-artifact\t1970-01-01T00:00:00Z");
+    }
+
+    @Test
+    public void owners_ignores_comments_and_blank_lines() throws IOException {
+        Path dir = Files.createDirectories(root.resolve("guarded").resolve("module"));
+        Files.writeString(dir.resolve("owners.tsv"), """
+                # canonical maintainers
+                trusted.group
+
+                # vendored repackagings explicitly allowed:
+                vendor.group\tvendor-artifact
+                """);
+
+        ModuleStore store = new ModuleStore(root);
+
+        assertThat(store.record("guarded.module", ModuleType.NAMED, coordinate("trusted.group", "x", "1.0", null))).isTrue();
+        assertThat(store.record("guarded.module", ModuleType.NAMED, coordinate("vendor.group", "vendor-artifact", "1.0", null))).isTrue();
+        assertThat(store.record("guarded.module", ModuleType.NAMED, coordinate("vendor.group", "other", "1.0", null))).isFalse();
+        assertThat(store.record("guarded.module", ModuleType.NAMED, coordinate("hostile.group", "x", "1.0", null))).isFalse();
     }
 
     @Test

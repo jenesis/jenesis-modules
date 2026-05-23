@@ -26,18 +26,19 @@ data/
 
 ### `data/modules/<dotted/path>/versions[-<classifier>].tsv`
 
-Each module's directory path mirrors the dot-separated module name. The leaf file is always `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant), four tab-separated columns, sorted by Maven version descending then by groupId, then artifactId:
+Each module's directory path mirrors the dot-separated module name. The leaf file is always `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant), five tab-separated columns, sorted by Maven version descending then by groupId, then artifactId:
 
 ```
-2.0.10  named      org.slf4j  slf4j-api
-2.0.9   named      org.slf4j  slf4j-api
-1.7.36  automatic  org.slf4j  slf4j-api
+2.0.10  named      org.slf4j  slf4j-api  2023-08-22T11:42:00Z
+2.0.9   named      org.slf4j  slf4j-api  2023-08-21T09:15:00Z
+1.7.36  automatic  org.slf4j  slf4j-api  2021-11-15T14:02:00Z
 ```
 
 - Column 1: version as published.
 - Column 2: `named` (the JAR contains `module-info.class`, either at the root or at the highest `META-INF/versions/<N>/module-info.class` of a multi-release JAR) or `automatic` (the JAR's manifest sets `Automatic-Module-Name`). Non-modular JARs are not recorded.
 - Column 3: `groupId`.
 - Column 4: `artifactId`. Combined with columns 1 and 3 this gives the full Maven coordinate.
+- Column 5: publication timestamp on Maven Central, UTC ISO-8601 with seconds precision (`yyyy-MM-dd'T'HH:mm:ss'Z'`). Sourced from the index's authoritative per-artifact timestamp; fixed-width so lexicographic and chronological sort agree. `1970-01-01T00:00:00Z` is used as a sentinel when the index did not carry a timestamp.
 
 The hierarchical layout means a module whose name is a prefix of another module name coexists without conflict: `org.slf4j` and `org.slf4j.api` live at `org/slf4j/versions.tsv` and `org/slf4j/api/versions.tsv` respectively. The directory `org/slf4j` holds both its own `versions.tsv` and the `api/` subtree.
 
@@ -58,8 +59,80 @@ Consumers of `data/modules/` **must not** treat a module name as authoritative o
 - Pin the expected `(groupId, artifactId)` for every module name your project depends on, and reject any row whose `(groupId, artifactId)` does not match.
 - Where multiple rows exist for a wanted module name, do not auto-pick - either fail loudly or require explicit allowlisting.
 - Treat newly appearing `(groupId, artifactId)` pairs for an already-known module name as a signal worth reviewing (it may be a legitimate fork, a typo-squat, or an attempted injection).
+- Use the column-5 timestamp to identify the **first owner** of a module name: sort all rows for a given module name ascending by the publication timestamp; the earliest `(groupId, artifactId)` is the one that first declared it on Maven Central. Module names produced later by an unrelated coordinate are by definition "newcomers" and warrant scrutiny. The first-owner heuristic is not a guarantee of legitimacy (an attacker could in principle race to publish a generic-sounding name first) but it does flip the default from "trust the first row your tool happens to return" to "trust the row that has the longest unchallenged history under that name."
+- Drop an **`owners.tsv`** allowlist next to the module's `versions.tsv` (see below) and the crawler will refuse to record any row whose `(groupId, artifactId)` is not on it. This is the operator-level escape hatch for known collision-prone modules.
 
 The index is a *catalog of declarations*, not a *trust statement*. Use it to discover and audit, not to dispatch.
+
+#### `data/modules/<dotted/path>/owners.tsv` (optional allowlist)
+
+If a module's directory contains an `owners.tsv` file, the crawler treats it as an allowlist for that module name and silently discards any incoming `(groupId, artifactId)` that does not match. With no `owners.tsv` present, the module is unrestricted (the default behavior). Coordinates that get filtered out still go into `data/scanned/` so they are not re-fetched on subsequent runs.
+
+Line format - one entry per line, tab-separated:
+
+- `<groupId>` (no tab) — any artifactId under this groupId is allowed. Useful when you trust the entire publishing organisation.
+- `<groupId>\t<artifactId>` — only this exact coordinate is allowed. Useful when you want to explicitly admit a single repackaged or vendored artifact alongside the canonical one.
+
+Lines starting with `#` and blank lines are ignored.
+
+Example - guard `com.fasterxml.jackson.core` so only the canonical artifact plus the AWS third-party repackaging are recorded:
+
+```
+# canonical
+com.fasterxml.jackson.core	jackson-core
+
+# AWS bundles their own; we want to track it but not anyone else's
+software.amazon.awssdk	third-party-jackson-core
+```
+
+The file is read once per module the first time the crawler is asked to record into it, and cached in memory for the rest of the run. To change the policy, edit the file and start the next run - existing rows in `versions.tsv` are not retroactively pruned, only future records are filtered. To rewrite existing rows against a new policy in one shot, use the `SetOwners` entry point described below.
+
+#### Bulk-applying an allowlist with `SetOwners`
+
+`build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` and rewrites the corresponding `versions.tsv` (plus every `versions-<classifier>.tsv`) to keep only rows whose `(groupId, artifactId)` matches the new allowlist. Versions files that end up empty are deleted.
+
+```
+java sources/build/jenesis/crawler/SetOwners.java [--data <dir>] <policy.properties> [<policy.properties> ...]
+```
+
+Properties syntax — one entry per line, `<module-name>=<comma-separated owners>`:
+
+```
+# canonical Jackson plus a known repackaging
+com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core
+
+# trust everything from this group
+org.junit.jupiter=org.junit.jupiter
+
+# clear the module: empty owners.tsv, drop all version rows
+com.example.deprecated=
+```
+
+Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<artifactId>` (exact pair). When the same module appears in more than one file, the union of owners is applied. An empty value clears the module: an empty `owners.tsv` is written and every existing version row is dropped.
+
+#### Generating a starter properties file with `ListOwners`
+
+The companion `build.jenesis.crawler.ListOwners` entry point emits a SetOwners-compatible properties file listing the *current* owners (from `owners.tsv` when present, otherwise derived from `versions[-<classifier>].tsv`) for every module whose dotted name matches one of the supplied globs.
+
+```
+java sources/build/jenesis/crawler/ListOwners.java [--data <dir>] [--output <file>] <glob> [<glob> ...]
+```
+
+Glob semantics mirror module-name structure: `*` matches one segment, `**` matches across dots. `net.bytebuddy.*` matches `net.bytebuddy.agent` but not `net.bytebuddy.agent.builder`; use `net.bytebuddy.**` for the latter. Without `--output` the file is written to stdout.
+
+Typical workflow:
+
+```
+# 1. snapshot the current owners for a family
+java sources/build/jenesis/crawler/ListOwners.java --output policy.properties net.bytebuddy.**
+
+# 2. edit policy.properties to remove unwanted (groupId, artifactId) pairs
+
+# 3. apply the curated policy
+java sources/build/jenesis/crawler/SetOwners.java policy.properties
+```
+
+Owners in the emitted file are always `<groupId>:<artifactId>` when derived from version rows; when they come from `owners.tsv`, the original `<groupId>` group-only form is preserved (the file's tab is rendered as a `:` in the properties value).
 
 ### `data/scanned/<dotted/path>/scanned.tsv`
 
@@ -70,13 +143,13 @@ For every groupId we have ever scanned an artifact under, a `scanned.tsv` file l
 Requires Java 25 or newer. The crawler is launched with the JDK's multi-file source-code mode. No build step is required - the JDK compiles the sources on demand:
 
 ```
-java sources/build/jenesis/crawler/Main.java [options]
+java sources/build/jenesis/crawler/Crawl.java [options]
 ```
 
 For a quick local smoke run with a tiny budget:
 
 ```
-java sources/build/jenesis/crawler/Main.java --data smoke-data --budget-minutes 3
+java sources/build/jenesis/crawler/Crawl.java --data smoke-data --budget-minutes 3
 ```
 
 On a first run the crawler streams the full Maven Central index while the scanner is already consuming coordinates from the queue, so artifact scanning starts within the first second or two. The 3-minute budget governs wall-clock time spent in the scan loop; when it expires the crawler exits cleanly, leaving everything under `data/` in a consistent state.

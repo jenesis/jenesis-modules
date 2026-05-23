@@ -400,10 +400,13 @@ public final class Crawler implements AutoCloseable {
                     try {
                         if (outcome.module().isPresent()) {
                             ScannedModule module = outcome.module().get();
+                            boolean recorded;
                             synchronized (store) {
-                                store.record(module.name(), module.type(), coordinate);
+                                recorded = store.record(module.name(), module.type(), coordinate);
                             }
-                            modular++;
+                            if (recorded) {
+                                modular++;
+                            }
                         }
                         scannedStore.mark(coordinate);
                     } catch (RuntimeException unexpected) {

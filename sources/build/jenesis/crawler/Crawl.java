@@ -2,7 +2,7 @@ package build.jenesis.crawler;
 
 import module java.base;
 
-public final class Main {
+public final class Crawl {
 
     private static final String FLAG_DATA = "--data";
     private static final String FLAG_BUDGET = "--budget-minutes";
@@ -14,7 +14,7 @@ public final class Main {
     private static final String FLAG_SMALL_JAR_THRESHOLD = "--small-jar-threshold";
     private static final String FLAG_RESUME = "--resume";
 
-    private Main() {
+    private Crawl() {
     }
 
     public static void main(String[] arguments) throws IOException {
@@ -226,7 +226,7 @@ public final class Main {
     }
 
     private static void printUsage() {
-        System.out.println("Usage: java build.jenesis.crawler.Main [options]");
+        System.out.println("Usage: java build.jenesis.crawler.Crawl [options]");
         System.out.println();
         System.out.println("Options:");
         System.out.println("  --data <dir>             Data directory (state, worklist, modules)");

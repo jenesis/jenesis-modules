@@ -5,7 +5,7 @@
  * modularised artifact, in a form that supports lookup by module name then version.
  *
  * @jenesis.release 25
- * @jenesis.main build.jenesis.crawler.Main
+ * @jenesis.main build.jenesis.crawler.Crawl
  */
 module build.jenesis.crawler {
 

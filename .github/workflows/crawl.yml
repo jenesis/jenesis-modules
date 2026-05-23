@@ -116,7 +116,7 @@ jobs:
           GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
         run: |
           set -euo pipefail
-          java sources/build/jenesis/crawler/Main.java \
+          java sources/build/jenesis/crawler/Crawl.java \
                --data "$GITHUB_WORKSPACE/data"
 
       - name: Commit any uncommitted progress
