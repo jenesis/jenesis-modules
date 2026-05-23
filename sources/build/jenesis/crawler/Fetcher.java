@@ -197,23 +197,13 @@ public final class Fetcher implements AutoCloseable {
         if (length <= 0) {
             return new byte[0];
         }
-        HttpRequest request = builder(uri)
-                .GET()
-                .header("Range", "bytes=" + offset + "-" + (offset + length - 1))
-                .build();
-        HttpResponse<byte[]> response = send(request, HttpResponse.BodyHandlers.ofByteArray());
-        int status = response.statusCode();
-        if (status != 206 && status != 200) {
-            throw new IOException("Range " + offset + ".." + (offset + length - 1) + " on " + uri + " returned status " + status);
-        }
-        byte[] body = response.body();
-        if (status == 200 && body.length != length) {
-            if (offset == 0L) {
-                return body;
-            }
-            return Arrays.copyOfRange(body, (int) offset, (int) Math.min(offset + length, body.length));
-        }
-        return body;
+        // Synchronous fetch via HttpURLConnection rather than HttpClient.ofByteArray. Same
+        // rationale as openRangeStream: ofByteArray calls subscription.request(Long.MAX_VALUE),
+        // which under high concurrency (96 jar fetches in a burst) accumulates per-frame
+        // ByteBuffer/byte[] until each body assembles - producing the gigabyte-scale receive
+        // buffer leaks we saw in the heap dumps. HttpURLConnection reads the body on this
+        // thread with kernel-level back-pressure; in-flight bytes are bounded by SO_RCVBUF.
+        return urlConnectionRange(uri, offset, length);
     }
 
     public ByteSource source(URI uri) throws IOException {
@@ -233,21 +223,102 @@ public final class Fetcher implements AutoCloseable {
     }
 
     public Tail tail(URI uri, int suffixLength) throws IOException {
-        HttpRequest request = builder(uri)
-                .GET()
-                .header("Range", "bytes=-" + suffixLength)
-                .build();
-        HttpResponse<byte[]> response = send(request, HttpResponse.BodyHandlers.ofByteArray());
-        int status = response.statusCode();
-        if (status != 206 && status != 200) {
-            throw new IOException("Tail request on " + uri + " returned status " + status);
+        return urlConnectionTail(uri, suffixLength);
+    }
+
+    private byte[] urlConnectionRange(URI uri, long offset, int length) throws IOException {
+        HttpURLConnection connection = openSyncConnection(uri,
+                conn -> conn.setRequestProperty("Range", "bytes=" + offset + "-" + (offset + length - 1)));
+        try {
+            int status = connection.getResponseCode();
+            if (status != 206 && status != 200) {
+                drainAndDisconnect(connection);
+                throw new IOException("Range " + offset + ".." + (offset + length - 1)
+                        + " on " + uri + " returned status " + status);
+            }
+            byte[] body = readBoundedBody(connection, length, status == 200);
+            if (status == 200 && body.length != length) {
+                if (offset == 0L) {
+                    return body;
+                }
+                return Arrays.copyOfRange(body, (int) offset, (int) Math.min(offset + length, body.length));
+            }
+            return body;
+        } finally {
+            connection.disconnect();
         }
-        byte[] body = response.body();
-        long total = response.headers()
-                .firstValue("content-range")
-                .map(Fetcher::parseTotalFromContentRange)
-                .orElseGet(() -> response.headers().firstValueAsLong("content-length").orElse(body.length));
-        return new Tail(body, total);
+    }
+
+    private Tail urlConnectionTail(URI uri, int suffixLength) throws IOException {
+        HttpURLConnection connection = openSyncConnection(uri,
+                conn -> conn.setRequestProperty("Range", "bytes=-" + suffixLength));
+        try {
+            int status = connection.getResponseCode();
+            if (status != 206 && status != 200) {
+                drainAndDisconnect(connection);
+                throw new IOException("Tail request on " + uri + " returned status " + status);
+            }
+            byte[] body = readBoundedBody(connection, suffixLength, status == 200);
+            long total = parseTotalFromContentRange(connection.getHeaderField("Content-Range"));
+            if (total < 0L) {
+                long contentLength = connection.getContentLengthLong();
+                total = contentLength >= 0L ? contentLength : body.length;
+            }
+            return new Tail(body, total);
+        } finally {
+            connection.disconnect();
+        }
+    }
+
+    private HttpURLConnection openSyncConnection(URI uri, Consumer<HttpURLConnection> configurator) throws IOException {
+        HttpURLConnection connection = (HttpURLConnection) uri.toURL().openConnection();
+        connection.setRequestMethod("GET");
+        connection.setConnectTimeout((int) CONNECT_TIMEOUT.toMillis());
+        connection.setReadTimeout((int) timeout.toMillis());
+        connection.setInstanceFollowRedirects(true);
+        connection.setRequestProperty("User-Agent", USER_AGENT);
+        configurator.accept(connection);
+        return connection;
+    }
+
+    private static byte[] readBoundedBody(HttpURLConnection connection, int expected, boolean wholeBody) throws IOException {
+        try (InputStream body = connection.getInputStream()) {
+            if (wholeBody) {
+                return body.readAllBytes();
+            }
+            // 206 response is exactly the bytes we asked for - read up to expected, fall back
+            // to readAllBytes if the server delivers fewer than declared.
+            byte[] buffer = new byte[expected];
+            int read = 0;
+            while (read < expected) {
+                int n = body.read(buffer, read, expected - read);
+                if (n < 0) break;
+                read += n;
+            }
+            if (read == expected) {
+                return buffer;
+            }
+            return Arrays.copyOf(buffer, read);
+        }
+    }
+
+    private static long parseTotalFromContentRange(String header) {
+        if (header == null) {
+            return -1L;
+        }
+        int slash = header.lastIndexOf('/');
+        if (slash < 0 || slash == header.length() - 1) {
+            return -1L;
+        }
+        String suffix = header.substring(slash + 1).trim();
+        if (suffix.equals("*")) {
+            return -1L;
+        }
+        try {
+            return Long.parseLong(suffix);
+        } catch (NumberFormatException invalid) {
+            return -1L;
+        }
     }
 
     public ByteSource sourceWithCachedTail(URI uri, int suffixLength) throws IOException {
@@ -293,22 +364,6 @@ public final class Fetcher implements AutoCloseable {
         return HttpRequest.newBuilder(uri)
                 .timeout(timeout)
                 .header("User-Agent", USER_AGENT);
-    }
-
-    private static long parseTotalFromContentRange(String header) {
-        int slash = header.lastIndexOf('/');
-        if (slash < 0 || slash == header.length() - 1) {
-            return -1L;
-        }
-        String suffix = header.substring(slash + 1).trim();
-        if (suffix.equals("*")) {
-            return -1L;
-        }
-        try {
-            return Long.parseLong(suffix);
-        } catch (NumberFormatException invalid) {
-            return -1L;
-        }
     }
 
     private <T> HttpResponse<T> send(HttpRequest request, HttpResponse.BodyHandler<T> handler) throws IOException {

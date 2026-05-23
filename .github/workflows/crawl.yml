@@ -12,7 +12,7 @@ on:
       concurrency:
         description: Concurrent artifact fetches
         required: false
-        default: '96'
+        default: '16'
       push_every:
         description: Number of checkpoints between git pushes
         required: false
@@ -98,7 +98,7 @@ jobs:
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
           INDEX_BASE: ${{ vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
-          CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '96' }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '16' }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
           SMALL_JAR_THRESHOLD: ${{ vars.SMALL_JAR_THRESHOLD }}
           CHECKPOINT_EVERY: ${{ vars.CHECKPOINT_EVERY }}
