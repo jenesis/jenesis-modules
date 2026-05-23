@@ -4,43 +4,35 @@ import module java.base;
 
 public final class ListOwners {
 
-    private static final String FLAG_DATA = "--data";
-    private static final String FLAG_OUTPUT = "--output";
+    public static final String PROP_DATA = "jenesis.crawler.data";
+    public static final String PROP_GROUP_ONLY = "jenesis.crawler.list.group.only";
+    public static final String PROP_ONLY_MISSING_OWNERS = "jenesis.crawler.list.only.missing.owners";
+    public static final String PROP_ONLY_AMBIGUOUS = "jenesis.crawler.list.only.ambiguous";
     private static final String DEFAULT_DATA_DIR = "data";
 
     private ListOwners() {
     }
 
     public static void main(String[] arguments) throws IOException {
-        Path dataDir = Path.of(DEFAULT_DATA_DIR);
-        Path output = null;
         List<String> globs = new ArrayList<>();
-        for (int i = 0; i < arguments.length; i++) {
-            String argument = arguments[i];
-            switch (argument) {
-                case FLAG_DATA -> {
-                    if (i + 1 >= arguments.length) {
-                        throw new IllegalArgumentException("Missing value for " + FLAG_DATA);
-                    }
-                    dataDir = Path.of(arguments[++i]);
-                }
-                case FLAG_OUTPUT -> {
-                    if (i + 1 >= arguments.length) {
-                        throw new IllegalArgumentException("Missing value for " + FLAG_OUTPUT);
-                    }
-                    output = Path.of(arguments[++i]);
-                }
-                case "--help", "-h" -> {
-                    printUsage();
-                    return;
-                }
-                default -> globs.add(argument);
+        for (String argument : arguments) {
+            if (argument.equals("--help") || argument.equals("-h")) {
+                printUsage();
+                return;
             }
+            globs.add(argument);
         }
         if (globs.isEmpty()) {
             printUsage();
             throw new IllegalArgumentException("No globs specified");
         }
+        String configuredDataDir = System.getProperty(PROP_DATA);
+        Path dataDir = configuredDataDir == null || configuredDataDir.isBlank()
+                ? Path.of(DEFAULT_DATA_DIR)
+                : Path.of(configuredDataDir.trim());
+        boolean groupOnly = booleanProperty(PROP_GROUP_ONLY, true);
+        boolean onlyMissingOwners = booleanProperty(PROP_ONLY_MISSING_OWNERS, false);
+        boolean onlyAmbiguous = booleanProperty(PROP_ONLY_AMBIGUOUS, false);
         Path modulesRoot = dataDir.resolve("modules");
         if (!Files.isDirectory(modulesRoot)) {
             throw new IOException("No modules directory at " + modulesRoot);
@@ -58,12 +50,35 @@ public final class ListOwners {
                 if (matchers.stream().noneMatch(matcher -> matcher.matches(relative))) {
                     continue;
                 }
+                Path ownersFile = moduleDir.resolve(ModuleStore.OWNERS_FILE);
+                boolean hasOwners = Files.exists(ownersFile);
+                if (onlyMissingOwners && hasOwners) {
+                    continue;
+                }
                 String moduleName = dottedName(relative);
-                ownersByModule.put(moduleName, collectOwners(moduleDir));
+                List<String> owners = hasOwners
+                        ? ownersFromOwnersFile(ownersFile)
+                        : ownersFromVersions(moduleDir, groupOnly);
+                if (onlyAmbiguous && owners.size() < 2) {
+                    continue;
+                }
+                ownersByModule.put(moduleName, owners);
             }
         }
-        emit(ownersByModule, output);
+        emit(ownersByModule);
         System.err.println(ownersByModule.size() + " module(s) listed.");
+    }
+
+    private static boolean booleanProperty(String name, boolean defaultValue) {
+        String value = System.getProperty(name);
+        if (value == null || value.isBlank()) {
+            return defaultValue;
+        }
+        return switch (value.trim().toLowerCase(Locale.ROOT)) {
+            case "true", "1", "yes" -> true;
+            case "false", "0", "no" -> false;
+            default -> throw new IllegalArgumentException("Expected true/false for " + name + ", got: " + value);
+        };
     }
 
     private static String dottedName(Path relative) {
@@ -109,14 +124,6 @@ public final class ListOwners {
         return matchers;
     }
 
-    private static List<String> collectOwners(Path moduleDir) throws IOException {
-        Path ownersFile = moduleDir.resolve(ModuleStore.OWNERS_FILE);
-        if (Files.exists(ownersFile)) {
-            return ownersFromOwnersFile(ownersFile);
-        }
-        return ownersFromVersions(moduleDir);
-    }
-
     private static List<String> ownersFromOwnersFile(Path file) throws IOException {
         SortedSet<String> entries = new TreeSet<>();
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
@@ -131,8 +138,8 @@ public final class ListOwners {
         return new ArrayList<>(entries);
     }
 
-    private static List<String> ownersFromVersions(Path moduleDir) throws IOException {
-        SortedSet<String> pairs = new TreeSet<>();
+    private static List<String> ownersFromVersions(Path moduleDir, boolean groupOnly) throws IOException {
+        SortedSet<String> owners = new TreeSet<>();
         try (DirectoryStream<Path> entries = Files.newDirectoryStream(moduleDir)) {
             for (Path entry : entries) {
                 if (!Files.isRegularFile(entry)) {
@@ -147,46 +154,27 @@ public final class ListOwners {
                             return;
                         }
                         ModuleEntry parsed = ModuleEntry.parse(line);
-                        pairs.add(parsed.groupId() + ':' + parsed.artifactId());
+                        owners.add(groupOnly
+                                ? parsed.groupId()
+                                : parsed.groupId() + ':' + parsed.artifactId());
                     });
                 }
             }
         }
-        return new ArrayList<>(pairs);
+        return new ArrayList<>(owners);
     }
 
-    private static void emit(SortedMap<String, List<String>> ownersByModule, Path output) throws IOException {
-        if (output == null) {
-            for (Map.Entry<String, List<String>> entry : ownersByModule.entrySet()) {
-                System.out.println(entry.getKey() + '=' + String.join(",", entry.getValue()));
-            }
-            return;
-        }
-        Path parent = output.getParent();
-        if (parent != null) {
-            Files.createDirectories(parent);
-        }
-        Path temp = output.resolveSibling(output.getFileName() + ".tmp");
-        try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
-            for (Map.Entry<String, List<String>> entry : ownersByModule.entrySet()) {
-                writer.write(entry.getKey());
-                writer.write('=');
-                writer.write(String.join(",", entry.getValue()));
-                writer.newLine();
-            }
-        }
-        try {
-            Files.move(temp, output, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
-        } catch (AtomicMoveNotSupportedException atomicNotSupported) {
-            Files.move(temp, output, StandardCopyOption.REPLACE_EXISTING);
+    private static void emit(SortedMap<String, List<String>> ownersByModule) {
+        for (Map.Entry<String, List<String>> entry : ownersByModule.entrySet()) {
+            System.out.println(entry.getKey() + '=' + String.join(",", entry.getValue()));
         }
     }
 
     private static void printUsage() {
-        System.out.println("Usage: java build.jenesis.crawler.ListOwners [--data <dir>] [--output <file>] <glob> [<glob> ...]");
+        System.out.println("Usage: java build.jenesis.crawler.ListOwners <glob> [<glob> ...]");
         System.out.println();
-        System.out.println("Emits a SetOwners-compatible properties file listing the current owners");
-        System.out.println("for every module under data/modules/ whose dotted name matches any of the globs.");
+        System.out.println("Writes a SetOwners-compatible properties stream to stdout, listing the current");
+        System.out.println("owners of every module under data/modules/ whose dotted name matches any glob.");
         System.out.println();
         System.out.println("Glob semantics mirror the module-name structure: '*' matches one segment,");
         System.out.println("'**' matches across dots. Example: 'net.bytebuddy.*' matches");
@@ -195,6 +183,18 @@ public final class ListOwners {
         System.out.println("Per module, owners are sourced from owners.tsv when it exists; otherwise from");
         System.out.println("the (groupId, artifactId) pairs found in versions[-<classifier>].tsv.");
         System.out.println();
-        System.out.println("With no --output, the properties file is written to stdout.");
+        System.out.println("Optional system properties:");
+        System.out.println("  -D" + PROP_DATA + "=<dir>");
+        System.out.println("        Data directory (default 'data').");
+        System.out.println("  -D" + PROP_GROUP_ONLY + "=<true|false>");
+        System.out.println("        For modules without an owners.tsv, emit only groupIds (default true).");
+        System.out.println("        Set to false to emit groupId:artifactId pairs derived from versions.tsv.");
+        System.out.println("  -D" + PROP_ONLY_MISSING_OWNERS + "=<true|false>");
+        System.out.println("        Skip modules that already have an owners.tsv (default false).");
+        System.out.println("  -D" + PROP_ONLY_AMBIGUOUS + "=<true|false>");
+        System.out.println("        Keep only modules whose computed owners list has more than one entry");
+        System.out.println("        (default false). Counted after the group-only dedup.");
+        System.out.println();
+        System.out.println("Pipe stdout to a file (or to SetOwners) as needed.");
     }
 }

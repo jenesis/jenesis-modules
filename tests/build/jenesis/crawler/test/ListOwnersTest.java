@@ -14,25 +14,111 @@ public class ListOwnersTest {
 
     private Path dataDir;
     private Path modulesRoot;
+    private PrintStream originalOut;
+    private ByteArrayOutputStream captured;
 
     @BeforeEach
     void setUp() throws IOException {
         dataDir = root.resolve("data");
         modulesRoot = Files.createDirectories(dataDir.resolve("modules"));
+        System.setProperty(ListOwners.PROP_DATA, dataDir.toString());
+        originalOut = System.out;
+        captured = new ByteArrayOutputStream();
+        System.setOut(new PrintStream(captured, true, StandardCharsets.UTF_8));
+    }
+
+    @AfterEach
+    void tearDown() {
+        System.setOut(originalOut);
+        System.clearProperty(ListOwners.PROP_DATA);
+        System.clearProperty(ListOwners.PROP_GROUP_ONLY);
+        System.clearProperty(ListOwners.PROP_ONLY_MISSING_OWNERS);
+        System.clearProperty(ListOwners.PROP_ONLY_AMBIGUOUS);
+    }
+
+    private List<String> capturedLines() {
+        return captured.toString(StandardCharsets.UTF_8)
+                .lines()
+                .toList();
     }
 
     @Test
-    public void derives_owners_from_versions_when_no_owners_file() throws IOException {
+    public void derives_group_ids_only_from_versions_by_default() throws IOException {
         writeVersions("com.example.lib", null, """
                 1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z
                 0.9\tnamed\thostile.group\timposter\t2024-06-01T00:00:00Z
                 """);
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "com.example.*"});
+        ListOwners.main(new String[]{"com.example.*"});
 
-        assertThat(Files.readAllLines(output))
+        assertThat(capturedLines())
+                .containsExactly("com.example.lib=com.example,hostile.group");
+    }
+
+    @Test
+    public void includes_artifact_ids_when_group_only_disabled() throws IOException {
+        System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
+        writeVersions("com.example.lib", null, """
+                1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z
+                0.9\tnamed\thostile.group\timposter\t2024-06-01T00:00:00Z
+                """);
+
+        ListOwners.main(new String[]{"com.example.*"});
+
+        assertThat(capturedLines())
                 .containsExactly("com.example.lib=com.example:lib,hostile.group:imposter");
+    }
+
+    @Test
+    public void only_ambiguous_keeps_modules_with_more_than_one_owner() throws IOException {
+        System.setProperty(ListOwners.PROP_ONLY_AMBIGUOUS, "true");
+        // Single-owner module - filtered out under default group-only.
+        writeVersions("solo.module", null, "1.0\tnamed\tsolo.example\tlib\t2024-01-01T00:00:00Z\n");
+        // Two distinct groupIds - kept.
+        writeVersions("contested.module", null, """
+                1.0\tnamed\tcanonical.org\tcontested\t2024-01-01T00:00:00Z
+                1.0\tnamed\thostile.org\tcontested\t2024-06-01T00:00:00Z
+                """);
+
+        ListOwners.main(new String[]{"**"});
+
+        assertThat(capturedLines())
+                .containsExactly("contested.module=canonical.org,hostile.org");
+    }
+
+    @Test
+    public void only_ambiguous_respects_group_only_dedup() throws IOException {
+        System.setProperty(ListOwners.PROP_ONLY_AMBIGUOUS, "true");
+        // Two artifacts under the same group - dedupes to one entry under group-only, filtered out.
+        writeVersions("monogroup.module", null, """
+                1.0\tnamed\tone.org\tartifact-a\t2024-01-01T00:00:00Z
+                1.0\tnamed\tone.org\tartifact-b\t2024-01-01T00:00:00Z
+                """);
+
+        ListOwners.main(new String[]{"**"});
+
+        assertThat(capturedLines()).isEmpty();
+
+        captured.reset();
+        // Same data, but now we DO want artifact-level granularity.
+        System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
+        ListOwners.main(new String[]{"**"});
+
+        assertThat(capturedLines())
+                .containsExactly("monogroup.module=one.org:artifact-a,one.org:artifact-b");
+    }
+
+    @Test
+    public void skips_modules_with_owners_tsv_when_only_missing_set() throws IOException {
+        System.setProperty(ListOwners.PROP_ONLY_MISSING_OWNERS, "true");
+        Path withOwners = writeVersions("com.example.has", null, "1.0\tnamed\tcom.example\thas\t2024-01-01T00:00:00Z\n");
+        Files.writeString(withOwners.resolve("owners.tsv"), "com.example\thas\n");
+        writeVersions("com.example.lacks", null, "1.0\tnamed\tcom.example\tlacks\t2024-01-01T00:00:00Z\n");
+
+        ListOwners.main(new String[]{"com.example.*"});
+
+        assertThat(capturedLines())
+                .containsExactly("com.example.lacks=com.example");
     }
 
     @Test
@@ -46,10 +132,9 @@ public class ListOwnersTest {
                 trusted.group
                 """);
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "com.example.*"});
+        ListOwners.main(new String[]{"com.example.*"});
 
-        assertThat(Files.readAllLines(output))
+        assertThat(capturedLines())
                 .containsExactly("com.example.lib=com.example:lib,trusted.group");
     }
 
@@ -58,27 +143,26 @@ public class ListOwnersTest {
         writeVersions("net.bytebuddy.agent", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\t2024-01-01T00:00:00Z\n");
         writeVersions("net.bytebuddy.agent.builder", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\t2024-01-01T00:00:00Z\n");
 
-        Path shallow = root.resolve("shallow.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", shallow.toString(), "net.bytebuddy.*"});
-        assertThat(Files.readAllLines(shallow))
-                .containsExactly("net.bytebuddy.agent=net.bytebuddy:byte-buddy-agent");
+        ListOwners.main(new String[]{"net.bytebuddy.*"});
+        assertThat(capturedLines())
+                .containsExactly("net.bytebuddy.agent=net.bytebuddy");
 
-        Path deep = root.resolve("deep.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", deep.toString(), "net.bytebuddy.**"});
-        assertThat(Files.readAllLines(deep)).containsExactly(
-                "net.bytebuddy.agent=net.bytebuddy:byte-buddy-agent",
-                "net.bytebuddy.agent.builder=net.bytebuddy:byte-buddy-agent");
+        captured.reset();
+        ListOwners.main(new String[]{"net.bytebuddy.**"});
+        assertThat(capturedLines()).containsExactly(
+                "net.bytebuddy.agent=net.bytebuddy",
+                "net.bytebuddy.agent.builder=net.bytebuddy");
     }
 
     @Test
     public void merges_owners_across_classifier_variants() throws IOException {
+        System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
         writeVersions("classy.module", null, "1.0\tnamed\torg.canonical\tlib\t2024-01-01T00:00:00Z\n");
         writeVersions("classy.module", "jakarta", "1.0\tnamed\torg.canonical\tlib-jakarta\t2024-01-01T00:00:00Z\n");
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "classy.*"});
+        ListOwners.main(new String[]{"classy.*"});
 
-        assertThat(Files.readAllLines(output))
+        assertThat(capturedLines())
                 .containsExactly("classy.module=org.canonical:lib,org.canonical:lib-jakarta");
     }
 
@@ -87,10 +171,9 @@ public class ListOwnersTest {
         Path moduleDir = writeVersions("com.example.cleared", null, "1.0\tnamed\tcom.example\tcleared\t2024-01-01T00:00:00Z\n");
         Files.writeString(moduleDir.resolve("owners.tsv"), "");
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "com.example.*"});
+        ListOwners.main(new String[]{"com.example.*"});
 
-        assertThat(Files.readAllLines(output))
+        assertThat(capturedLines())
                 .containsExactly("com.example.cleared=");
     }
 
@@ -100,13 +183,12 @@ public class ListOwnersTest {
         writeVersions("a.alpha", null, "1.0\tnamed\ta.example\tlib\t2024-01-01T00:00:00Z\n");
         writeVersions("m.alpha", null, "1.0\tnamed\tm.example\tlib\t2024-01-01T00:00:00Z\n");
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "*.alpha"});
+        ListOwners.main(new String[]{"*.alpha"});
 
-        assertThat(Files.readAllLines(output)).containsExactly(
-                "a.alpha=a.example:lib",
-                "m.alpha=m.example:lib",
-                "z.alpha=z.example:lib");
+        assertThat(capturedLines()).containsExactly(
+                "a.alpha=a.example",
+                "m.alpha=m.example",
+                "z.alpha=z.example");
     }
 
     @Test
@@ -114,11 +196,10 @@ public class ListOwnersTest {
         writeVersions("included.lib", null, "1.0\tnamed\ti.example\tlib\t2024-01-01T00:00:00Z\n");
         writeVersions("excluded.lib", null, "1.0\tnamed\te.example\tlib\t2024-01-01T00:00:00Z\n");
 
-        Path output = root.resolve("out.properties");
-        ListOwners.main(new String[]{"--data", dataDir.toString(), "--output", output.toString(), "included.*"});
+        ListOwners.main(new String[]{"included.*"});
 
-        assertThat(Files.readAllLines(output))
-                .containsExactly("included.lib=i.example:lib");
+        assertThat(capturedLines())
+                .containsExactly("included.lib=i.example");
     }
 
     private Path writeVersions(String moduleName, String classifier, String content) throws IOException {

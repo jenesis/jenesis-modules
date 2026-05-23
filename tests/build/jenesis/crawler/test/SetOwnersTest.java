@@ -13,6 +13,16 @@ public class SetOwnersTest {
     @TempDir
     Path root;
 
+    @BeforeEach
+    void setUp() {
+        System.setProperty(SetOwners.PROP_DATA, root.resolve("data").toString());
+    }
+
+    @AfterEach
+    void tearDown() {
+        System.clearProperty(SetOwners.PROP_DATA);
+    }
+
     @Test
     public void writes_owners_file_and_filters_versions_in_place() throws IOException {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
@@ -25,7 +35,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "com.example.lib=com.example:lib\n");
 
-        SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()});
+        SetOwners.main(new String[]{props.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
                 .containsExactly("com.example\tlib");
@@ -46,7 +56,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "trusted.module=trusted.org\n");
 
-        SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()});
+        SetOwners.main(new String[]{props.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
                 .containsExactly("trusted.org");
@@ -64,7 +74,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "com.example.gone=\n");
 
-        SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()});
+        SetOwners.main(new String[]{props.toString()});
 
         assertThat(moduleDir.resolve("owners.tsv")).exists();
         assertThat(Files.size(moduleDir.resolve("owners.tsv"))).isZero();
@@ -85,9 +95,7 @@ public class SetOwnersTest {
         Files.writeString(first, "multi.module=a.example\n");
         Files.writeString(second, "multi.module=b.example:core\n");
 
-        SetOwners.main(new String[]{
-                "--data", root.resolve("data").toString(),
-                first.toString(), second.toString()});
+        SetOwners.main(new String[]{first.toString(), second.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
                 .containsExactly("a.example", "b.example\tcore");
@@ -109,7 +117,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "classy.module=keeper\n");
 
-        SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()});
+        SetOwners.main(new String[]{props.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("versions.tsv")))
                 .containsExactly("1.0\tnamed\tkeeper\tcore\t2024-01-01T00:00:00Z");
@@ -122,7 +130,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "future.module=plan.org:lib\n");
 
-        SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()});
+        SetOwners.main(new String[]{props.toString()});
 
         Path ownersFile = root.resolve("data").resolve("modules").resolve("future").resolve("module").resolve("owners.tsv");
         assertThat(Files.readAllLines(ownersFile)).containsExactly("plan.org\tlib");
@@ -133,7 +141,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "not-a-valid-module=anything\n");
 
-        assertThatThrownBy(() -> SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()}))
+        assertThatThrownBy(() -> SetOwners.main(new String[]{props.toString()}))
                 .isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("Invalid module name");
     }
@@ -143,7 +151,7 @@ public class SetOwnersTest {
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "good.module=foo:bar:baz\n");
 
-        assertThatThrownBy(() -> SetOwners.main(new String[]{"--data", root.resolve("data").toString(), props.toString()}))
+        assertThatThrownBy(() -> SetOwners.main(new String[]{props.toString()}))
                 .isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("more than one colon");
     }

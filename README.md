@@ -92,8 +92,10 @@ The file is read once per module the first time the crawler is asked to record i
 `build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` and rewrites the corresponding `versions.tsv` (plus every `versions-<classifier>.tsv`) to keep only rows whose `(groupId, artifactId)` matches the new allowlist. Versions files that end up empty are deleted.
 
 ```
-java sources/build/jenesis/crawler/SetOwners.java [--data <dir>] <policy.properties> [<policy.properties> ...]
+java sources/build/jenesis/crawler/SetOwners.java <policy.properties> [<policy.properties> ...]
 ```
+
+Optional system property: `-Djenesis.crawler.data=<dir>` (default `data`).
 
 Properties syntax — one entry per line, `<module-name>=<comma-separated owners>`:
 
@@ -115,24 +117,38 @@ Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<art
 The companion `build.jenesis.crawler.ListOwners` entry point emits a SetOwners-compatible properties file listing the *current* owners (from `owners.tsv` when present, otherwise derived from `versions[-<classifier>].tsv`) for every module whose dotted name matches one of the supplied globs.
 
 ```
-java sources/build/jenesis/crawler/ListOwners.java [--data <dir>] [--output <file>] <glob> [<glob> ...]
+java sources/build/jenesis/crawler/ListOwners.java <glob> [<glob> ...]
 ```
 
-Glob semantics mirror module-name structure: `*` matches one segment, `**` matches across dots. `net.bytebuddy.*` matches `net.bytebuddy.agent` but not `net.bytebuddy.agent.builder`; use `net.bytebuddy.**` for the latter. Without `--output` the file is written to stdout.
+Glob semantics mirror module-name structure: `*` matches one segment, `**` matches across dots. `net.bytebuddy.*` matches `net.bytebuddy.agent` but not `net.bytebuddy.agent.builder`; use `net.bytebuddy.**` for the latter. Output is always written to stdout - redirect or pipe as needed.
+
+Optional system properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.crawler.data` | `data` | Data directory to read from. |
+| `jenesis.crawler.list.group.only` | `true` | When deriving owners from `versions.tsv` (no `owners.tsv`), emit groupIds only. Set to `false` to emit `groupId:artifactId` pairs. |
+| `jenesis.crawler.list.only.missing.owners` | `false` | Skip modules that already have an `owners.tsv`. Useful to focus on modules that still need a policy. |
+| `jenesis.crawler.list.only.ambiguous` | `false` | Keep only modules whose computed owners list has more than one entry. Counted after the `group.only` dedup, so the granularity matches the configured output. Handy for surfacing collisions. |
 
 Typical workflow:
 
 ```
-# 1. snapshot the current owners for a family
-java sources/build/jenesis/crawler/ListOwners.java --output policy.properties net.bytebuddy.**
+# 1. snapshot the current owners for a family (group-level by default)
+java sources/build/jenesis/crawler/ListOwners.java 'net.bytebuddy.**' > policy.properties
 
-# 2. edit policy.properties to remove unwanted (groupId, artifactId) pairs
+# 2. edit policy.properties to remove unwanted entries
 
 # 3. apply the curated policy
 java sources/build/jenesis/crawler/SetOwners.java policy.properties
+
+# Audit-only: only modules where ownership is ambiguous, with full granularity
+java -Djenesis.crawler.list.group.only=false \
+     -Djenesis.crawler.list.only.ambiguous=true \
+     sources/build/jenesis/crawler/ListOwners.java '**'
 ```
 
-Owners in the emitted file are always `<groupId>:<artifactId>` when derived from version rows; when they come from `owners.tsv`, the original `<groupId>` group-only form is preserved (the file's tab is rendered as a `:` in the properties value).
+When owners are read from `owners.tsv`, lines are emitted verbatim (the file's tab is rendered as `:`); the `group.only` flag only affects values derived from `versions.tsv`.
 
 ### `data/scanned/<dotted/path>/scanned.tsv`
 
@@ -143,32 +159,45 @@ For every groupId we have ever scanned an artifact under, a `scanned.tsv` file l
 Requires Java 25 or newer. The crawler is launched with the JDK's multi-file source-code mode. No build step is required - the JDK compiles the sources on demand:
 
 ```
-java sources/build/jenesis/crawler/Crawl.java [options]
+java sources/build/jenesis/crawler/Crawl.java <artifact-base-uri> [<index-base-uri>]
 ```
+
+Both URIs are required input - the tool itself has no built-in default. When `<index-base-uri>` is omitted, the same URI is used for both the JAR fetches and the Lucene index. For Maven Central, the typical pairing is:
+
+```
+java sources/build/jenesis/crawler/Crawl.java \
+     https://maven-central.storage-download.googleapis.com/maven2/ \
+     https://repo.maven.apache.org/maven2/.index/
+```
+
+The artifact URI points at a fast range-supporting mirror (the GCS bucket above), while the index URI points at the canonical Lucene index location. Keeping both as caller-supplied means the same code drives both production crawls and tests against a local mock.
 
 For a quick local smoke run with a tiny budget:
 
 ```
-java sources/build/jenesis/crawler/Crawl.java --data smoke-data --budget-minutes 3
+java -Djenesis.crawler.data=smoke-data \
+     -Djenesis.crawler.budget=3 \
+     sources/build/jenesis/crawler/Crawl.java \
+     https://maven-central.storage-download.googleapis.com/maven2/ \
+     https://repo.maven.apache.org/maven2/.index/
 ```
 
 On a first run the crawler streams the full Maven Central index while the scanner is already consuming coordinates from the queue, so artifact scanning starts within the first second or two. The 3-minute budget governs wall-clock time spent in the scan loop; when it expires the crawler exits cleanly, leaving everything under `data/` in a consistent state.
 
-Common flags:
+Optional system properties:
 
-| Flag | Default | Purpose |
+| Property | Default | Effect |
 |---|---|---|
-| `--data <dir>` | `data` | Where state, worklist, module files, and the scanned-index live. |
-| `--budget-minutes <n>` | 160 | Wall-clock budget for this run. |
-| `--concurrency <n>` | 96 | Maximum in-flight artifact fetches; kept under the HTTP/2 stream limit per connection. |
-| `--tail-size <n>` | 65536 | Bytes range-fetched from the end of each JAR. |
-| `--small-jar-threshold <n>` | 262144 | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |
-| `--checkpoint-every <n>` | 2000 | Coordinates between on-disk checkpoints. |
-| `--index-base <uri>` | Maven Central index | Base URI of the index. |
-| `--artifact-base <uri>` | GCS mirror | Base URI used to range-fetch JARs. |
-| `--resume <true\|false>` | `true` | When `false`, deletes `state.properties` and any `worklist.tsv[.streaming]` before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
-
-All flags can also be set via matching environment variables (`BUDGET_MINUTES`, `CONCURRENCY`, `DATA_DIR`, `TAIL_SIZE`, `SMALL_JAR_THRESHOLD`, `CHECKPOINT_EVERY`, `INDEX_BASE`, `ARTIFACT_BASE`, `RESUME`). Flags take precedence over environment variables.
+| `jenesis.crawler.data` | `data` | Where state, worklist, module files, and the scanned-index live. |
+| `jenesis.crawler.budget` | `160` | Wall-clock budget for this run, in minutes. |
+| `jenesis.crawler.concurrency` | `96` | Maximum in-flight artifact fetches; kept under the HTTP/2 stream limit per connection. |
+| `jenesis.crawler.tail.size` | `65536` | Bytes range-fetched from the end of each JAR. |
+| `jenesis.crawler.small.jar.threshold` | `262144` | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |
+| `jenesis.crawler.checkpoint.every` | `2000` | Coordinates between on-disk checkpoints. |
+| `jenesis.crawler.resume` | `true` | When `false`, deletes `state.properties` and any `worklist.tsv[.streaming]` before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
+| `jenesis.crawler.git.publish` | `false` | When `true`, commit + push checkpoints inline. |
+| `jenesis.crawler.git.work.dir` | `.` | Working tree for the publishing commits. |
+| `jenesis.crawler.git.push.every` | `1` | Push every N checkpoints. |
 
 ## How the crawl works
 
@@ -185,7 +214,7 @@ All flags can also be set via matching environment variables (`BUDGET_MINUTES`, 
    2. Highest-version `META-INF/versions/<N>/module-info.class` (multi-release JARs) → `named`.
    3. `META-INF/MANIFEST.MF` with `Automatic-Module-Name` → `automatic`.
    4. Otherwise no record is written.
-5. On every checkpoint (default every 2000 coordinates): flush module entries, update the scanned-coordinate index, save `state.properties`, rewrite `STATUS.md`, and (when `GIT_PUBLISH=1`) commit + push.
+5. On every checkpoint (default every 2000 coordinates): flush module entries, update the scanned-coordinate index, save `state.properties`, rewrite `STATUS.md`, and (when `-Djenesis.crawler.git.publish=true`) commit + push.
 6. On clean sync completion `worklist.tsv.streaming` is renamed to `worklist.tsv` and the index chain watermark advances. On budget-truncated sync the streaming file is discarded and the next run re-syncs - module entries already recorded and the scanned-coordinate index are preserved.
 
 A run stops when its wall-clock budget expires or the worklist is exhausted. The next run picks up by either resuming the existing `worklist.tsv` (sync had completed), or re-syncing the index but skipping every coordinate already in `data/scanned/`.
@@ -204,7 +233,7 @@ The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler
 
 ## Continuous crawling via GitHub Actions
 
-`.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. With `GIT_PUBLISH=1` the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
+`.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. The workflow owns the default URIs for Maven Central and the GCS artifact mirror (the crawler itself has no hardcoded defaults); they can be overridden per-run via `workflow_dispatch` inputs or per-fork via repo variables (see below). With `-Djenesis.crawler.git.publish=true` (the workflow sets this) the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
 
 Scheduled and manual triggers coexist:
 - A guard job runs first and, on **scheduled** triggers only, checks whether another crawl is already in flight. If so, the scheduled run exits without doing any work, so a long manual crawl (e.g. 10 hours) is never followed by a freshly-queued 90-minute scheduled run when it ends.

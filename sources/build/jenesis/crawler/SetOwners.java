@@ -4,35 +4,29 @@ import module java.base;
 
 public final class SetOwners {
 
-    private static final String FLAG_DATA = "--data";
+    public static final String PROP_DATA = "jenesis.crawler.data";
     private static final String DEFAULT_DATA_DIR = "data";
 
     private SetOwners() {
     }
 
     public static void main(String[] arguments) throws IOException {
-        Path dataDir = Path.of(DEFAULT_DATA_DIR);
         List<Path> propertyFiles = new ArrayList<>();
-        for (int i = 0; i < arguments.length; i++) {
-            String argument = arguments[i];
-            switch (argument) {
-                case FLAG_DATA -> {
-                    if (i + 1 >= arguments.length) {
-                        throw new IllegalArgumentException("Missing value for " + FLAG_DATA);
-                    }
-                    dataDir = Path.of(arguments[++i]);
-                }
-                case "--help", "-h" -> {
-                    printUsage();
-                    return;
-                }
-                default -> propertyFiles.add(Path.of(argument));
+        for (String argument : arguments) {
+            if (argument.equals("--help") || argument.equals("-h")) {
+                printUsage();
+                return;
             }
+            propertyFiles.add(Path.of(argument));
         }
         if (propertyFiles.isEmpty()) {
             printUsage();
             throw new IllegalArgumentException("No property files specified");
         }
+        String configuredDataDir = System.getProperty(PROP_DATA);
+        Path dataDir = configuredDataDir == null || configuredDataDir.isBlank()
+                ? Path.of(DEFAULT_DATA_DIR)
+                : Path.of(configuredDataDir.trim());
         Path modulesRoot = dataDir.resolve("modules");
         Map<String, Set<String>> groupsByModule = new LinkedHashMap<>();
         Map<String, Set<String>> pairsByModule = new LinkedHashMap<>();
@@ -199,17 +193,19 @@ public final class SetOwners {
     }
 
     private static void printUsage() {
-        System.out.println("Usage: java build.jenesis.crawler.SetOwners [--data <dir>] <file.properties> [<file.properties> ...]");
+        System.out.println("Usage: java build.jenesis.crawler.SetOwners <file.properties> [<file.properties> ...]");
         System.out.println();
         System.out.println("Each properties file maps a module name to a comma-separated list of owners.");
         System.out.println("An owner is either '<groupId>' (any artifact in that group) or '<groupId>:<artifactId>'.");
         System.out.println("An empty value clears the module's owners (writes an empty owners.tsv and drops all versions).");
         System.out.println();
-        System.out.println("Example:");
+        System.out.println("Example properties content:");
         System.out.println("  com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core");
         System.out.println("  org.junit.jupiter=org.junit.jupiter");
         System.out.println("  com.example.removed=");
         System.out.println();
         System.out.println("Multiple files: entries for the same module name are merged (union of owners).");
+        System.out.println();
+        System.out.println("Optional system property: -D" + PROP_DATA + "=<dir> (default 'data').");
     }
 }

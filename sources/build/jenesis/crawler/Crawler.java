@@ -14,9 +14,6 @@ public final class Crawler implements AutoCloseable {
             "sources", "javadoc", "tests", "test-sources", "cyclonedx"
     );
 
-    public static final URI DEFAULT_INDEX_BASE = URI.create("https://repo.maven.apache.org/maven2/.index/");
-    public static final URI DEFAULT_ARTIFACT_BASE = URI.create("https://maven-central.storage-download.googleapis.com/maven2/");
-
     public record Configuration(URI indexBaseUri,
                                 URI artifactBaseUri,
                                 Path dataDir,
@@ -28,18 +25,23 @@ public final class Crawler implements AutoCloseable {
                                 boolean resume) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
+        public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(160L);
+        public static final int DEFAULT_CONCURRENCY = 96;
+        public static final long DEFAULT_CHECKPOINT_EVERY = 2000L;
+        public static final Path DEFAULT_DATA_DIR = Path.of("data");
+        public static final boolean DEFAULT_RESUME = true;
 
-        public static Configuration defaults() {
+        public static Configuration defaults(URI artifactBaseUri, URI indexBaseUri) {
             return new Configuration(
-                    DEFAULT_INDEX_BASE,
-                    DEFAULT_ARTIFACT_BASE,
-                    Path.of("data"),
-                    Duration.ofMinutes(160L),
-                    96,
+                    Objects.requireNonNull(indexBaseUri, "indexBaseUri"),
+                    Objects.requireNonNull(artifactBaseUri, "artifactBaseUri"),
+                    DEFAULT_DATA_DIR,
+                    DEFAULT_BUDGET,
+                    DEFAULT_CONCURRENCY,
                     Scanner.DEFAULT_TAIL_SIZE,
-                    2000L,
+                    DEFAULT_CHECKPOINT_EVERY,
                     DEFAULT_SMALL_JAR_THRESHOLD,
-                    true
+                    DEFAULT_RESUME
             );
         }
     }

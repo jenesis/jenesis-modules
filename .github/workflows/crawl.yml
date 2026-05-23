@@ -103,21 +103,31 @@ jobs:
 
       - name: Run crawler with incremental commits
         env:
+          ARTIFACT_BASE: ${{ github.event.inputs.artifact_base || vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
+          INDEX_BASE: ${{ github.event.inputs.index_base || vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '96' }}
-          INDEX_BASE: ${{ github.event.inputs.index_base || vars.INDEX_BASE }}
-          ARTIFACT_BASE: ${{ github.event.inputs.artifact_base || vars.ARTIFACT_BASE }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
           SMALL_JAR_THRESHOLD: ${{ vars.SMALL_JAR_THRESHOLD }}
           CHECKPOINT_EVERY: ${{ vars.CHECKPOINT_EVERY }}
           RESUME: ${{ github.event.inputs.resume || 'true' }}
-          GIT_PUBLISH: '1'
-          GIT_WORK_DIR: ${{ github.workspace }}
-          GIT_PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
+          PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '1' }}
         run: |
           set -euo pipefail
-          java sources/build/jenesis/crawler/Crawl.java \
-               --data "$GITHUB_WORKSPACE/data"
+          props=(
+            "-Djenesis.crawler.data=$GITHUB_WORKSPACE/data"
+            "-Djenesis.crawler.budget=$BUDGET_MINUTES"
+            "-Djenesis.crawler.concurrency=$CONCURRENCY"
+            "-Djenesis.crawler.resume=$RESUME"
+            "-Djenesis.crawler.git.publish=true"
+            "-Djenesis.crawler.git.work.dir=$GITHUB_WORKSPACE"
+            "-Djenesis.crawler.git.push.every=$PUSH_EVERY"
+          )
+          [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
+          [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")
+          [ -n "$CHECKPOINT_EVERY" ]    && props+=("-Djenesis.crawler.checkpoint.every=$CHECKPOINT_EVERY")
+          java "${props[@]}" sources/build/jenesis/crawler/Crawl.java \
+               "$ARTIFACT_BASE" "$INDEX_BASE"
 
       - name: Commit any uncommitted progress
         if: ${{ !cancelled() }}

@@ -4,21 +4,35 @@ import module java.base;
 
 public final class Crawl {
 
-    private static final String FLAG_DATA = "--data";
-    private static final String FLAG_BUDGET = "--budget-minutes";
-    private static final String FLAG_CONCURRENCY = "--concurrency";
-    private static final String FLAG_INDEX_BASE = "--index-base";
-    private static final String FLAG_ARTIFACT_BASE = "--artifact-base";
-    private static final String FLAG_TAIL_SIZE = "--tail-size";
-    private static final String FLAG_CHECKPOINT_EVERY = "--checkpoint-every";
-    private static final String FLAG_SMALL_JAR_THRESHOLD = "--small-jar-threshold";
-    private static final String FLAG_RESUME = "--resume";
+    public static final String PROP_DATA = "jenesis.crawler.data";
+    public static final String PROP_BUDGET_MINUTES = "jenesis.crawler.budget";
+    public static final String PROP_CONCURRENCY = "jenesis.crawler.concurrency";
+    public static final String PROP_TAIL_SIZE = "jenesis.crawler.tail.size";
+    public static final String PROP_CHECKPOINT_EVERY = "jenesis.crawler.checkpoint.every";
+    public static final String PROP_SMALL_JAR_THRESHOLD = "jenesis.crawler.small.jar.threshold";
+    public static final String PROP_RESUME = "jenesis.crawler.resume";
+    public static final String PROP_GIT_PUBLISH = "jenesis.crawler.git.publish";
+    public static final String PROP_GIT_WORK_DIR = "jenesis.crawler.git.work.dir";
+    public static final String PROP_GIT_PUSH_EVERY = "jenesis.crawler.git.push.every";
 
     private Crawl() {
     }
 
     public static void main(String[] arguments) throws IOException {
-        Crawler.Configuration configuration = parse(arguments);
+        if (arguments.length == 0 || arguments[0].equals("--help") || arguments[0].equals("-h")) {
+            printUsage();
+            if (arguments.length == 0) {
+                throw new IllegalArgumentException("Missing required <artifact-base-uri> positional argument");
+            }
+            return;
+        }
+        if (arguments.length > 2) {
+            throw new IllegalArgumentException("Expected at most 2 positional arguments (artifact-base [index-base]); got " + arguments.length);
+        }
+        URI artifactBase = URI.create(arguments[0]);
+        URI indexBase = arguments.length == 2 ? URI.create(arguments[1]) : artifactBase;
+
+        Crawler.Configuration configuration = buildConfiguration(artifactBase, indexBase);
         System.out.println("Configuration:");
         System.out.println("  dataDir=" + configuration.dataDir().toAbsolutePath());
         System.out.println("  budget=" + configuration.budget());
@@ -44,6 +58,31 @@ public final class Crawl {
         writeStepSummary(result);
     }
 
+    private static Crawler.Configuration buildConfiguration(URI artifactBase, URI indexBase) {
+        Crawler.Configuration base = Crawler.Configuration.defaults(artifactBase, indexBase);
+        Path dataDir = property(PROP_DATA).map(Path::of).orElse(base.dataDir());
+        Duration budget = property(PROP_BUDGET_MINUTES).map(Long::parseLong).map(Duration::ofMinutes).orElse(base.budget());
+        int concurrency = property(PROP_CONCURRENCY).map(Integer::parseInt).orElse(base.concurrency());
+        int tailSize = property(PROP_TAIL_SIZE).map(Integer::parseInt).orElse(base.tailSize());
+        long checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Long::parseLong).orElse(base.checkpointEvery());
+        long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
+        boolean resume = property(PROP_RESUME).map(value -> parseBoolean(value, PROP_RESUME)).orElse(base.resume());
+        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume);
+    }
+
+    private static Optional<String> property(String name) {
+        String value = System.getProperty(name);
+        return value == null || value.isBlank() ? Optional.empty() : Optional.of(value.trim());
+    }
+
+    private static boolean parseBoolean(String value, String source) {
+        return switch (value.toLowerCase(Locale.ROOT)) {
+            case "true", "1", "yes" -> true;
+            case "false", "0", "no" -> false;
+            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
+        };
+    }
+
     private static void printFailureBreakdown(Crawler.Result result) {
         if (result.failureBreakdown().isEmpty()) {
             return;
@@ -57,133 +96,12 @@ public final class Crawl {
                 });
     }
 
-    private static Crawler.Configuration parse(String[] arguments) {
-        Crawler.Configuration base = Crawler.Configuration.defaults();
-        URI indexBase = base.indexBaseUri();
-        URI artifactBase = base.artifactBaseUri();
-        Path dataDir = base.dataDir();
-        Duration budget = base.budget();
-        int concurrency = base.concurrency();
-        int tailSize = base.tailSize();
-        long checkpointEvery = base.checkpointEvery();
-        long smallJarThreshold = base.smallJarThreshold();
-        boolean resume = base.resume();
-
-        String envBudget = System.getenv("BUDGET_MINUTES");
-        if (envBudget != null && !envBudget.isBlank()) {
-            budget = Duration.ofMinutes(Long.parseLong(envBudget.trim()));
-        }
-        String envConcurrency = System.getenv("CONCURRENCY");
-        if (envConcurrency != null && !envConcurrency.isBlank()) {
-            concurrency = Integer.parseInt(envConcurrency.trim());
-        }
-        String envDataDir = System.getenv("DATA_DIR");
-        if (envDataDir != null && !envDataDir.isBlank()) {
-            dataDir = Path.of(envDataDir.trim());
-        }
-        String envIndexBase = System.getenv("INDEX_BASE");
-        if (envIndexBase != null && !envIndexBase.isBlank()) {
-            indexBase = URI.create(envIndexBase.trim());
-        }
-        String envArtifactBase = System.getenv("ARTIFACT_BASE");
-        if (envArtifactBase != null && !envArtifactBase.isBlank()) {
-            artifactBase = URI.create(envArtifactBase.trim());
-        }
-        String envTailSize = System.getenv("TAIL_SIZE");
-        if (envTailSize != null && !envTailSize.isBlank()) {
-            tailSize = Integer.parseInt(envTailSize.trim());
-        }
-        String envCheckpointEvery = System.getenv("CHECKPOINT_EVERY");
-        if (envCheckpointEvery != null && !envCheckpointEvery.isBlank()) {
-            checkpointEvery = Long.parseLong(envCheckpointEvery.trim());
-        }
-        String envSmallJarThreshold = System.getenv("SMALL_JAR_THRESHOLD");
-        if (envSmallJarThreshold != null && !envSmallJarThreshold.isBlank()) {
-            smallJarThreshold = Long.parseLong(envSmallJarThreshold.trim());
-        }
-        String envResume = System.getenv("RESUME");
-        if (envResume != null && !envResume.isBlank()) {
-            resume = parseBoolean(envResume.trim(), "RESUME");
-        }
-
-        for (int index = 0; index < arguments.length; index++) {
-            String argument = arguments[index];
-            String value = index + 1 < arguments.length ? arguments[index + 1] : null;
-            switch (argument) {
-                case FLAG_DATA -> {
-                    dataDir = Path.of(require(value, FLAG_DATA));
-                    index++;
-                }
-                case FLAG_BUDGET -> {
-                    budget = Duration.ofMinutes(Long.parseLong(require(value, FLAG_BUDGET)));
-                    index++;
-                }
-                case FLAG_CONCURRENCY -> {
-                    concurrency = Integer.parseInt(require(value, FLAG_CONCURRENCY));
-                    index++;
-                }
-                case FLAG_INDEX_BASE -> {
-                    indexBase = URI.create(require(value, FLAG_INDEX_BASE));
-                    index++;
-                }
-                case FLAG_ARTIFACT_BASE -> {
-                    artifactBase = URI.create(require(value, FLAG_ARTIFACT_BASE));
-                    index++;
-                }
-                case FLAG_TAIL_SIZE -> {
-                    tailSize = Integer.parseInt(require(value, FLAG_TAIL_SIZE));
-                    index++;
-                }
-                case FLAG_CHECKPOINT_EVERY -> {
-                    checkpointEvery = Long.parseLong(require(value, FLAG_CHECKPOINT_EVERY));
-                    index++;
-                }
-                case FLAG_SMALL_JAR_THRESHOLD -> {
-                    smallJarThreshold = Long.parseLong(require(value, FLAG_SMALL_JAR_THRESHOLD));
-                    index++;
-                }
-                case FLAG_RESUME -> {
-                    resume = parseBoolean(require(value, FLAG_RESUME), FLAG_RESUME);
-                    index++;
-                }
-                case "--help", "-h" -> {
-                    printUsage();
-                    System.exit(0);
-                }
-                default -> throw new IllegalArgumentException("Unknown argument: " + argument);
-            }
-        }
-        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume);
-    }
-
-    private static String require(String value, String flag) {
-        if (value == null) {
-            throw new IllegalArgumentException("Missing value for " + flag);
-        }
-        return value;
-    }
-
-    private static boolean parseBoolean(String value, String source) {
-        return switch (value.toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
-        };
-    }
-
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {
         CheckpointListener listener = new StatusWriter(configuration.dataDir().resolve("STATUS.md"));
-
-        String publish = System.getenv("GIT_PUBLISH");
-        if (publish != null && "1".equals(publish.trim())) {
-            String workingDirectoryRaw = System.getenv("GIT_WORK_DIR");
-            Path workingDirectory = workingDirectoryRaw == null || workingDirectoryRaw.isBlank()
-                    ? Path.of(".")
-                    : Path.of(workingDirectoryRaw.trim());
-            String pushEveryRaw = System.getenv("GIT_PUSH_EVERY");
-            int pushEvery = pushEveryRaw == null || pushEveryRaw.isBlank()
-                    ? GitPublisher.DEFAULT_PUSH_EVERY
-                    : Integer.parseInt(pushEveryRaw.trim());
+        boolean publish = property(PROP_GIT_PUBLISH).map(value -> parseBoolean(value, PROP_GIT_PUBLISH)).orElse(false);
+        if (publish) {
+            Path workingDirectory = property(PROP_GIT_WORK_DIR).map(Path::of).orElse(Path.of("."));
+            int pushEvery = property(PROP_GIT_PUSH_EVERY).map(Integer::parseInt).orElse(GitPublisher.DEFAULT_PUSH_EVERY);
             Path dataDir = configuration.dataDir().toAbsolutePath();
             Path workingAbsolute = workingDirectory.toAbsolutePath();
             Path relative = workingAbsolute.relativize(dataDir);
@@ -226,22 +144,22 @@ public final class Crawl {
     }
 
     private static void printUsage() {
-        System.out.println("Usage: java build.jenesis.crawler.Crawl [options]");
+        System.out.println("Usage: java build.jenesis.crawler.Crawl <artifact-base-uri> [<index-base-uri>]");
         System.out.println();
-        System.out.println("Options:");
-        System.out.println("  --data <dir>             Data directory (state, worklist, modules)");
-        System.out.println("  --budget-minutes <n>     Wall-clock time budget in minutes");
-        System.out.println("  --concurrency <n>        Number of in-flight artifact fetches");
-        System.out.println("  --index-base <uri>       Base URI for the Maven Central index");
-        System.out.println("  --artifact-base <uri>    Base URI for artifact downloads");
-        System.out.println("  --tail-size <n>          Bytes to fetch from each JAR tail");
-        System.out.println("  --checkpoint-every <n>   Coordinates between state checkpoints");
-        System.out.println("  --small-jar-threshold <n> JAR size below which we fetch the whole file in one request");
-        System.out.println("  --resume <true|false>    Resume in-flight worklist (default true); false discards state + worklist");
+        System.out.println("The artifact-base URI is where JARs are range-fetched from. If <index-base-uri> is");
+        System.out.println("omitted, the same URI is used for the Lucene index too. There are no built-in");
+        System.out.println("defaults - the caller picks what to crawl.");
         System.out.println();
-        System.out.println("Environment overrides: BUDGET_MINUTES, CONCURRENCY, DATA_DIR,");
-        System.out.println("  INDEX_BASE, ARTIFACT_BASE, TAIL_SIZE, CHECKPOINT_EVERY, SMALL_JAR_THRESHOLD, RESUME.");
-        System.out.println("Incremental publishing: GIT_PUBLISH=1 to enable; GIT_WORK_DIR (default '.');");
-        System.out.println("  GIT_PUSH_EVERY=<n> to push every n checkpoints (default 1).");
+        System.out.println("Optional configuration is taken from system properties (-D...):");
+        System.out.println("  -D" + PROP_DATA + "=<dir>                       Data directory (default 'data')");
+        System.out.println("  -D" + PROP_BUDGET_MINUTES + "=<n>                     Wall-clock budget in minutes (default 160)");
+        System.out.println("  -D" + PROP_CONCURRENCY + "=<n>                Concurrent artifact fetches (default 96)");
+        System.out.println("  -D" + PROP_TAIL_SIZE + "=<n>                Bytes range-fetched from each JAR tail");
+        System.out.println("  -D" + PROP_CHECKPOINT_EVERY + "=<n>        Coordinates between checkpoints");
+        System.out.println("  -D" + PROP_SMALL_JAR_THRESHOLD + "=<n>  JAR size cap for one-shot fetch");
+        System.out.println("  -D" + PROP_RESUME + "=<true|false>             Resume in-flight worklist (default true)");
+        System.out.println("  -D" + PROP_GIT_PUBLISH + "=<true|false>       Commit + push checkpoints via git (default false)");
+        System.out.println("  -D" + PROP_GIT_WORK_DIR + "=<dir>             Git working tree (default '.')");
+        System.out.println("  -D" + PROP_GIT_PUSH_EVERY + "=<n>            Push every n checkpoints (default 1)");
     }
 }
