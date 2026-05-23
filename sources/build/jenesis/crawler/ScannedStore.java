@@ -8,8 +8,20 @@ public final class ScannedStore {
 
     private final Path root;
     private final boolean reprocessFailed;
+    // Cache of group->entries loaded from disk on first touch. Evicted in flush() so retained
+    // memory stays bounded by what's been touched since the last checkpoint, not by the lifetime
+    // of the JVM. If this read-through cache ever becomes the bottleneck (CPU for the reloads,
+    // or memory pressure within a single checkpoint window because a checkpoint touches a huge
+    // number of large groups), the next step is to swap it for a coordinate-keyed bloom filter
+    // for contains()/markOk fast-path lookups, with an append-only on-disk log and periodic
+    // compaction. That removes the requirement to hold any group's full set in memory at all.
     private final ConcurrentMap<String, NavigableSet<ScannedEntry>> entries;
     private final Set<String> dirty;
+    // Reads (contains/markOk/markFailed) take the read lock; flush() takes the write lock so
+    // that no live caller holds an evicted set when entries.remove(groupId) runs. Without this
+    // barrier, a writer holding the old reference could lose updates that the post-eviction
+    // disk file no longer contains.
+    private final ReadWriteLock cacheLock;
 
     public ScannedStore(Path root) {
         this(root, false);
@@ -20,6 +32,7 @@ public final class ScannedStore {
         this.reprocessFailed = reprocessFailed;
         this.entries = new ConcurrentHashMap<>();
         this.dirty = ConcurrentHashMap.newKeySet();
+        this.cacheLock = new ReentrantReadWriteLock();
     }
 
     public boolean contains(Coordinate coordinate) {
@@ -27,19 +40,24 @@ public final class ScannedStore {
     }
 
     public boolean contains(String groupId, String artifactId, String version, String classifier) {
-        NavigableSet<ScannedEntry> groupEntries = entriesFor(groupId);
-        ScannedEntry probe = ScannedEntry.ok(artifactId, version, classifier);
-        // COMPARATOR ignores errorMessage, so floor() finds any entry matching the coordinate.
-        ScannedEntry found = groupEntries.floor(probe);
-        if (found == null || ScannedEntry.COMPARATOR.compare(found, probe) != 0) {
-            return false;
+        cacheLock.readLock().lock();
+        try {
+            NavigableSet<ScannedEntry> groupEntries = entriesFor(groupId);
+            ScannedEntry probe = ScannedEntry.ok(artifactId, version, classifier);
+            // COMPARATOR ignores errorMessage, so floor() finds any entry matching the coordinate.
+            ScannedEntry found = groupEntries.floor(probe);
+            if (found == null || ScannedEntry.COMPARATOR.compare(found, probe) != 0) {
+                return false;
+            }
+            if (!found.isFailed()) {
+                return true;
+            }
+            // Failed entries skip future fetches unless reprocessFailed=true, in which case
+            // the producer treats them as un-scanned and the coordinate is queued again.
+            return !reprocessFailed;
+        } finally {
+            cacheLock.readLock().unlock();
         }
-        if (!found.isFailed()) {
-            return true;
-        }
-        // Failed entries skip future fetches unless reprocessFailed=true, in which case
-        // the producer treats them as un-scanned and the coordinate is queued again.
-        return !reprocessFailed;
     }
 
     /** Records that a coordinate was scanned successfully. */
@@ -58,20 +76,25 @@ public final class ScannedStore {
     }
 
     private void replaceEntry(Coordinate coordinate, ScannedEntry newEntry) {
-        NavigableSet<ScannedEntry> groupEntries = entriesFor(coordinate.groupId());
-        boolean changed;
-        synchronized (groupEntries) {
-            ScannedEntry existing = groupEntries.floor(newEntry);
-            if (existing != null && ScannedEntry.COMPARATOR.compare(existing, newEntry) == 0) {
-                if (existing.equals(newEntry)) {
-                    return;
+        cacheLock.readLock().lock();
+        try {
+            NavigableSet<ScannedEntry> groupEntries = entriesFor(coordinate.groupId());
+            boolean changed;
+            synchronized (groupEntries) {
+                ScannedEntry existing = groupEntries.floor(newEntry);
+                if (existing != null && ScannedEntry.COMPARATOR.compare(existing, newEntry) == 0) {
+                    if (existing.equals(newEntry)) {
+                        return;
+                    }
+                    groupEntries.remove(existing);
                 }
-                groupEntries.remove(existing);
+                changed = groupEntries.add(newEntry);
             }
-            changed = groupEntries.add(newEntry);
-        }
-        if (changed) {
-            dirty.add(coordinate.groupId());
+            if (changed) {
+                dirty.add(coordinate.groupId());
+            }
+        } finally {
+            cacheLock.readLock().unlock();
         }
     }
 
@@ -80,9 +103,18 @@ public final class ScannedStore {
     }
 
     public void flush() throws IOException {
-        for (String groupId : List.copyOf(dirty)) {
-            writeGroup(groupId);
-            dirty.remove(groupId);
+        cacheLock.writeLock().lock();
+        try {
+            for (String groupId : List.copyOf(dirty)) {
+                writeGroup(groupId);
+                dirty.remove(groupId);
+                // Drop the cached set so retained memory doesn't grow without bound across a
+                // long run. Next access reloads from the freshly-written file. The write lock
+                // above guarantees no live reader/writer holds a reference at this point.
+                entries.remove(groupId);
+            }
+        } finally {
+            cacheLock.writeLock().unlock();
         }
     }
 

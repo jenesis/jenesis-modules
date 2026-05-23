@@ -248,46 +248,153 @@ public final class Crawler implements AutoCloseable {
             drainDirtyIfPending();
         }
 
-        Result result;
+        Instant deadline = Instant.now().plus(configuration.budget());
+        Aggregator aggregator = new Aggregator();
+
         if (inFlightWorklist) {
-            result = runFromFile(worklist, state, statePath);
-        } else {
-            if (worklist.exists() && state.worklistRecords() == 0L) {
-                try {
-                    Files.delete(worklist.path());
-                } catch (IOException _) {
-                }
+            Result resumed = runFromFile(worklist, state, statePath);
+            aggregator.add(resumed);
+            if (!resumed.worklistComplete()) {
+                System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
+                        + dirtyModules.size() + " module(s) pending).");
+                return aggregator.finish(state.worklistComplete());
             }
-
-            IndexProperties remote = fetchIndexProperties();
-            if (state.hasIndexBaseline()
-                    && Objects.equals(state.indexChainId(), remote.chainId())
-                    && state.indexChunkLastApplied() >= remote.lastIncremental()) {
-                System.out.println("Index already up to date (chain=" + remote.chainId()
-                        + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
-                return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE, Map.of());
-            }
-            boolean incremental = state.hasIndexBaseline()
-                    && Objects.equals(state.indexChainId(), remote.chainId());
-            if (!incremental && state.indexChainId() != null && !state.indexChainId().equals(remote.chainId())) {
-                System.out.println("Index chain rotated from " + state.indexChainId()
-                        + " to " + remote.chainId() + ": performing full sync.");
-            }
-            SyncMode mode = incremental ? SyncMode.INCREMENTAL : SyncMode.FULL;
-            List<URI> indexUris = incremental
-                    ? incrementalChunkUris(state.indexChunkLastApplied() + 1L, remote.lastIncremental())
-                    : List.of(configuration.indexBaseUri().resolve(INDEX_FILE));
-
-            result = runStreaming(worklist, state, statePath, indexUris, remote, mode);
-        }
-
-        if (result.worklistComplete()) {
+            state = advanceChainAfterChunkCompletion(statePath, state, /* refreshRemoteForIncremental */ true);
             drainDirty();
-        } else {
-            System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
-                    + dirtyModules.size() + " module(s) pending).");
+        } else if (worklist.exists() && state.worklistRecords() == 0L) {
+            try {
+                Files.delete(worklist.path());
+            } catch (IOException _) {
+            }
         }
-        return result;
+
+        while (Instant.now().isBefore(deadline)) {
+            IndexProperties remote = fetchIndexProperties();
+            if (state.indexChainId() != null && !Objects.equals(state.indexChainId(), remote.chainId())) {
+                System.out.println("Index chain rotated from " + state.indexChainId()
+                        + " to " + remote.chainId() + ": resetting baseline and performing full sync.");
+                state = state.withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
+                state.save(statePath);
+            }
+
+            ChunkPlan plan = decideNextChunk(state, remote);
+            if (plan == null) {
+                System.out.println("Index already up to date (chain=" + remote.chainId()
+                        + ", lastIncremental=" + remote.lastIncremental() + ").");
+                break;
+            }
+
+            if (plan.mode() == SyncMode.FULL) {
+                long pending = state.hasPendingFullScan()
+                        ? Math.max(state.indexChunkPending(), remote.lastIncremental())
+                        : remote.lastIncremental();
+                state = state.withIndexChunkPending(pending);
+                state.save(statePath);
+            }
+
+            Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
+            aggregator.add(chunkResult);
+            if (!chunkResult.worklistComplete()) {
+                System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
+                        + dirtyModules.size() + " module(s) pending).");
+                return aggregator.finish(false);
+            }
+
+            long chunkApplied = (plan.mode() == SyncMode.FULL)
+                    ? State.load(statePath).indexChunkPending()
+                    : plan.incrementalNumber();
+            state = State.load(statePath)
+                    .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
+            if (plan.mode() == SyncMode.FULL) {
+                state = state.withIndexChunkPending(-1L);
+            }
+            state.save(statePath);
+            drainDirty();
+            System.out.println("Chain advanced: chainId=" + remote.chainId()
+                    + ", lastApplied=" + chunkApplied
+                    + " (mode=" + plan.mode() + ")");
+        }
+
+        return aggregator.finish(true);
+    }
+
+    private record ChunkPlan(SyncMode mode, URI uri, long incrementalNumber) {
+    }
+
+    private ChunkPlan decideNextChunk(State state, IndexProperties remote) {
+        if (state.hasPendingFullScan()) {
+            return new ChunkPlan(SyncMode.FULL,
+                    configuration.indexBaseUri().resolve(INDEX_FILE),
+                    -1L);
+        }
+        if (!state.hasIndexBaseline() || state.indexChainId() == null) {
+            return new ChunkPlan(SyncMode.FULL,
+                    configuration.indexBaseUri().resolve(INDEX_FILE),
+                    -1L);
+        }
+        long next = state.indexChunkLastApplied() + 1L;
+        if (next > remote.lastIncremental()) {
+            return null;
+        }
+        return new ChunkPlan(SyncMode.INCREMENTAL,
+                configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + next + INCREMENTAL_SUFFIX),
+                next);
+    }
+
+    private State advanceChainAfterChunkCompletion(Path statePath, State state, boolean refreshRemoteForIncremental) throws IOException {
+        long chunkApplied;
+        long timestamp;
+        String chainId;
+        if (state.hasPendingFullScan()) {
+            chunkApplied = state.indexChunkPending();
+            timestamp = state.indexTimestamp();
+            chainId = state.indexChainId();
+            if (chainId == null || timestamp == 0L || refreshRemoteForIncremental) {
+                IndexProperties remote = fetchIndexProperties();
+                timestamp = remote.timestamp();
+                chainId = remote.chainId();
+            }
+            state = State.load(statePath)
+                    .withIndex(chunkApplied, timestamp, chainId)
+                    .withIndexChunkPending(-1L);
+        } else {
+            chunkApplied = state.indexChunkLastApplied() + 1L;
+            IndexProperties remote = fetchIndexProperties();
+            if (state.indexChainId() != null && !Objects.equals(state.indexChainId(), remote.chainId())) {
+                System.err.println("Chain rotated during in-flight resume; cannot promote chunk "
+                        + chunkApplied + " into new chain " + remote.chainId() + ". Resetting.");
+                state = State.load(statePath).withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
+                state.save(statePath);
+                return state;
+            }
+            state = State.load(statePath)
+                    .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
+        }
+        state.save(statePath);
+        System.out.println("Chain advanced (resume): chainId=" + state.indexChainId()
+                + ", lastApplied=" + state.indexChunkLastApplied());
+        return state;
+    }
+
+    private final class Aggregator {
+
+        private long processed;
+        private long modular;
+        private long failed;
+        private SyncMode lastMode = SyncMode.UP_TO_DATE;
+
+        void add(Result r) {
+            processed += r.processed();
+            modular += r.modular();
+            failed += r.failed();
+            if (r.syncMode() != SyncMode.UP_TO_DATE) {
+                lastMode = r.syncMode();
+            }
+        }
+
+        Result finish(boolean worklistComplete) {
+            return new Result(processed, modular, failed, worklistComplete, lastMode, snapshotFailures());
+        }
     }
 
     private void drainDirtyIfPending() throws IOException {
@@ -367,14 +474,6 @@ public final class Crawler implements AutoCloseable {
         return coordinate.classifier() == null || !SKIPPED_CLASSIFIERS.contains(coordinate.classifier());
     }
 
-    private List<URI> incrementalChunkUris(long from, long to) {
-        List<URI> uris = new ArrayList<>();
-        for (long chunk = from; chunk <= to; chunk++) {
-            uris.add(configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + chunk + INCREMENTAL_SUFFIX));
-        }
-        return uris;
-    }
-
     private Result runFromFile(Worklist worklist, State state, Path statePath) throws IOException {
         System.out.println("Resuming existing worklist: position " + state.worklistPosition()
                 + "/" + state.worklistRecords() + " records");
@@ -387,20 +486,20 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private Result runStreaming(Worklist worklist,
-                                State state,
-                                Path statePath,
-                                List<URI> indexUris,
-                                IndexProperties remote,
-                                SyncMode mode) throws IOException {
-        System.out.println("Streaming " + mode + " sync from " + indexUris.size() + " index source(s)");
+    private Result runStreamingSingle(Worklist worklist,
+                                      State state,
+                                      Path statePath,
+                                      URI indexUri,
+                                      IndexProperties remote,
+                                      SyncMode mode) throws IOException {
+        System.out.println("Streaming " + mode + " sync from " + indexUri);
         Path tempFile = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
         State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
         streamingState.save(statePath);
 
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
         try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter)) {
-            stream.start(indexUris);
+            stream.start(List.of(indexUri));
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
                 stream.close();
@@ -413,8 +512,9 @@ public final class Crawler implements AutoCloseable {
                     return result;
                 }
                 if (stream.completed()) {
-                    finalizeStreamedWorklist(worklist, tempFile, statePath, stream, remote);
-                    return result;
+                    finalizeStreamedWorklist(worklist, tempFile, statePath, stream);
+                    return new Result(result.processed(), result.modular(), result.failed(),
+                            State.load(statePath).worklistComplete(), mode, result.failureBreakdown());
                 }
                 Files.deleteIfExists(tempFile);
                 System.out.println("Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
@@ -429,8 +529,7 @@ public final class Crawler implements AutoCloseable {
     private void finalizeStreamedWorklist(Worklist worklist,
                                           Path tempFile,
                                           Path statePath,
-                                          WorklistStream stream,
-                                          IndexProperties remote) throws IOException {
+                                          WorklistStream stream) throws IOException {
         Path target = worklist.path();
         try {
             Files.move(tempFile, target, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
@@ -440,8 +539,7 @@ public final class Crawler implements AutoCloseable {
         State state = State.load(statePath);
         State updated = state
                 .withWorklist(stream.recordsProduced(), state.sweepStartedAt())
-                .withPosition(state.worklistPosition())
-                .withIndex(remote.lastIncremental(), remote.timestamp(), remote.chainId());
+                .withPosition(state.worklistPosition());
         updated.save(statePath);
         System.out.println("Sync complete: " + stream.recordsProduced() + " records at " + target);
     }

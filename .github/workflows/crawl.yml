@@ -118,8 +118,20 @@ jobs:
           [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")
           [ -n "$CHECKPOINT_EVERY" ]    && props+=("-Djenesis.crawler.checkpoint.every=$CHECKPOINT_EVERY")
-          java "${props[@]}" sources/build/jenesis/crawler/Crawl.java \
+          java -XX:+ExitOnOutOfMemoryError \
+               -XX:+HeapDumpOnOutOfMemoryError \
+               -XX:HeapDumpPath=/tmp/crawl.hprof \
+               "${props[@]}" sources/build/jenesis/crawler/Crawl.java \
                "$ARTIFACT_BASE" "$INDEX_BASE"
+
+      - name: Upload heap dump on failure
+        if: ${{ failure() && hashFiles('/tmp/crawl.hprof') != '' }}
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: crawl-heap-dump-${{ github.run_id }}
+          path: /tmp/crawl.hprof
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Commit any uncommitted progress
         if: ${{ !cancelled() }}

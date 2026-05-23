@@ -5,37 +5,47 @@ import module java.base;
 public record State(long worklistPosition,
                     long worklistRecords,
                     long indexChunkLastApplied,
+                    long indexChunkPending,
                     long indexTimestamp,
                     String indexChainId,
                     Instant sweepStartedAt) {
 
-    public static final State EMPTY = new State(0L, 0L, -1L, 0L, null, null);
+    public static final State EMPTY = new State(0L, 0L, -1L, -1L, 0L, null, null);
 
     private static final String KEY_POSITION = "worklist.position";
     private static final String KEY_RECORDS = "worklist.records";
     private static final String KEY_INDEX_CHUNK = "index.lastAppliedChunk";
+    private static final String KEY_INDEX_PENDING = "index.pendingChunk";
     private static final String KEY_INDEX_TIMESTAMP = "index.timestamp";
     private static final String KEY_INDEX_CHAIN_ID = "index.chainId";
     private static final String KEY_SWEEP_STARTED = "sweep.startedAt";
 
     public State withPosition(long newPosition) {
-        return new State(newPosition, worklistRecords, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
+        return new State(newPosition, worklistRecords, indexChunkLastApplied, indexChunkPending, indexTimestamp, indexChainId, sweepStartedAt);
     }
 
     public State withWorklist(long records, Instant startedAt) {
-        return new State(0L, records, indexChunkLastApplied, indexTimestamp, indexChainId, startedAt);
+        return new State(0L, records, indexChunkLastApplied, indexChunkPending, indexTimestamp, indexChainId, startedAt);
     }
 
     public State withRecords(long records) {
-        return new State(worklistPosition, records, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
+        return new State(worklistPosition, records, indexChunkLastApplied, indexChunkPending, indexTimestamp, indexChainId, sweepStartedAt);
     }
 
     public State withIndex(long chunk, long timestamp, String chainId) {
-        return new State(worklistPosition, worklistRecords, chunk, timestamp, chainId, sweepStartedAt);
+        return new State(worklistPosition, worklistRecords, chunk, indexChunkPending, timestamp, chainId, sweepStartedAt);
+    }
+
+    public State withIndexChunkPending(long pending) {
+        return new State(worklistPosition, worklistRecords, indexChunkLastApplied, pending, indexTimestamp, indexChainId, sweepStartedAt);
     }
 
     public State clearedWorklist() {
-        return new State(0L, 0L, indexChunkLastApplied, indexTimestamp, indexChainId, sweepStartedAt);
+        return new State(0L, 0L, indexChunkLastApplied, indexChunkPending, indexTimestamp, indexChainId, sweepStartedAt);
+    }
+
+    public boolean hasPendingFullScan() {
+        return indexChunkPending >= 0L;
     }
 
     public boolean worklistComplete() {
@@ -57,11 +67,12 @@ public record State(long worklistPosition,
         long position = parseLong(properties, KEY_POSITION, 0L);
         long records = parseLong(properties, KEY_RECORDS, 0L);
         long chunk = parseLong(properties, KEY_INDEX_CHUNK, -1L);
+        long pending = parseLong(properties, KEY_INDEX_PENDING, -1L);
         long timestamp = parseLong(properties, KEY_INDEX_TIMESTAMP, 0L);
         String chainId = trimOrNull(properties.getProperty(KEY_INDEX_CHAIN_ID));
         String startedRaw = properties.getProperty(KEY_SWEEP_STARTED);
         Instant startedAt = startedRaw == null || startedRaw.isEmpty() ? null : Instant.parse(startedRaw);
-        return new State(position, records, chunk, timestamp, chainId, startedAt);
+        return new State(position, records, chunk, pending, timestamp, chainId, startedAt);
     }
 
     public void save(Path path) throws IOException {
@@ -69,6 +80,7 @@ public record State(long worklistPosition,
         properties.setProperty(KEY_POSITION, Long.toString(worklistPosition));
         properties.setProperty(KEY_RECORDS, Long.toString(worklistRecords));
         properties.setProperty(KEY_INDEX_CHUNK, Long.toString(indexChunkLastApplied));
+        properties.setProperty(KEY_INDEX_PENDING, Long.toString(indexChunkPending));
         properties.setProperty(KEY_INDEX_TIMESTAMP, Long.toString(indexTimestamp));
         if (indexChainId != null) {
             properties.setProperty(KEY_INDEX_CHAIN_ID, indexChainId);
