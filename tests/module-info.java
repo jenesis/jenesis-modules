@@ -1,6 +1,6 @@
 /**
  * @release 25
- * @test build.jenesis.modules
+ * @test build.jenesis.crawler
  * @pin org.junit.jupiter 5.11.3 SHA-256/ac7578efed162367c3ddc006338e07d4571510fd9866642ea93d5b9e4ed2f665
  * @pin org.junit.jupiter.api 5.11.3 SHA-256/5d8147a60f49453973e250ed68701b7ff055964fe2462fc2cb1ec1d6d44889ba
  * @pin org.junit.jupiter.params 5.11.3 SHA-256/0f798ebec744c4e6605fd4f2072f41a8e989e2d469e21db5aa67cf799c0b51ec
@@ -12,9 +12,9 @@
  * @pin org.apiguardian.api 1.1.2 SHA-256/b509448ac506d607319f182537f0b35d71007582ec741832a1f111e5b5b70b38
  * @pin org.assertj.core 3.27.0 SHA-256/0b4d14008475fb362c2db090bc89c41b864d870216ccf8e8188fb60eb112ad68
  */
-open module build.jenesis.modules.test {
+open module build.jenesis.crawler.test {
 
-    requires build.jenesis.modules;
+    requires build.jenesis.crawler;
     requires org.junit.jupiter;
     requires org.assertj.core;
 }

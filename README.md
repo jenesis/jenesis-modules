@@ -48,16 +48,16 @@ For every groupId we have ever scanned an artifact under, a `scanned.tsv` file l
 
 ## Running the crawler
 
-The crawler is launched with the JDK's multi-file source-code mode. No build step is required - the JDK compiles the sources on demand:
+Requires Java 25 or newer. The crawler is launched with the JDK's multi-file source-code mode. No build step is required - the JDK compiles the sources on demand:
 
 ```
-java --source 25 sources/build/jenesis/modules/Main.java [options]
+java sources/build/jenesis/crawler/Main.java [options]
 ```
 
 For a quick local smoke run with a tiny budget:
 
 ```
-java --source 25 sources/build/jenesis/modules/Main.java --data smoke-data --budget-minutes 3
+java sources/build/jenesis/crawler/Main.java --data smoke-data --budget-minutes 3
 ```
 
 On a first run the crawler streams the full Maven Central index while the scanner is already consuming coordinates from the queue, so artifact scanning starts within the first second or two. The 3-minute budget governs wall-clock time spent in the scan loop; when it expires the crawler exits cleanly, leaving everything under `data/` in a consistent state.
@@ -107,7 +107,7 @@ java build/jenesis/Project.java                 # build + run tests
 java build/jenesis/Project.java stage           # build + stage a clean modular jar under target/stage/
 ```
 
-The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.modules/0-SNAPSHOT/build.jenesis.modules-0-SNAPSHOT.jar`, a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
+The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar`, a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
 
 ## Continuous crawling via GitHub Actions
 
@@ -149,7 +149,7 @@ Unset variables keep the built-in defaults.
 ## Project layout
 
 ```
-sources/                 production code (one module: build.jenesis.modules)
+sources/                 production code (one module: build.jenesis.crawler)
 tests/                   tests (JUnit Jupiter + AssertJ)
 build/jenesis            symlink into the Jenesis submodule (the launcher)
 .jenesis/                Jenesis submodule (sources + runtime cache under cache/)

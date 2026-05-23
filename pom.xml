@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>build.jenesis</groupId>
-    <artifactId>build.jenesis.modules</artifactId>
+    <artifactId>build.jenesis.crawler</artifactId>
     <version>0-SNAPSHOT</version>
 
     <name>Jenesis Modules</name>
@@ -21,7 +21,7 @@
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <mainClass>build.jenesis.modules.Main</mainClass>
+        <mainClass>build.jenesis.crawler.Main</mainClass>
     </properties>
 
     <dependencies>
