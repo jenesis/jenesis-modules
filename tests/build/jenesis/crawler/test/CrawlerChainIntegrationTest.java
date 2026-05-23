@@ -141,18 +141,17 @@ public class CrawlerChainIntegrationTest {
         for (String segment : groupId.split("\\.", -1)) {
             scannedFile = scannedFile.resolve(segment);
         }
-        scannedFile = scannedFile.resolve("scanned.tsv");
-        assertThat(scannedFile).as("scanned.tsv for " + groupId).exists();
+        scannedFile = scannedFile.resolve(artifactId + ".tsv");
+        assertThat(scannedFile).as(artifactId + ".tsv for " + groupId).exists();
         String body = Files.readString(scannedFile, StandardCharsets.UTF_8);
         boolean found = body.lines().anyMatch(line -> {
             String[] parts = line.split("\t", -1);
-            return parts.length == 4
-                    && parts[0].equals(artifactId)
-                    && parts[1].equals(version)
-                    && !parts[3].isEmpty();
+            return parts.length == 3
+                    && parts[0].equals(version)
+                    && !parts[2].isEmpty();
         });
-        assertThat(found).as("scanned.tsv contains a non-empty error column for "
-                + artifactId + ":" + version + " (body=" + body + ")").isTrue();
+        assertThat(found).as(artifactId + ".tsv contains a non-empty error column for version "
+                + version + " (body=" + body + ")").isTrue();
     }
 
     private static Path moduleDirRelative(String moduleName) {

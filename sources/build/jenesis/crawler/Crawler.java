@@ -498,21 +498,16 @@ public final class Crawler implements AutoCloseable {
         streamingState.save(statePath);
 
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
-        // The producer's contains() check loads each touched group into the ScannedStore
-        // cache; without periodic eviction, an all-skipped pass through ~770 K records can
-        // exhaust the heap before the consumer fires any checkpoint. Tick every 10 K records.
-        // Every fifth tick (50 K records) also emit a diagnostic line so a hung run is
-        // visible without attaching jcmd or pulling a heap dump.
+        // Periodic diagnostic so a hung or slow run is visible without attaching jcmd. The
+        // ticker fires on the producer thread once per WorklistStream.DEFAULT_LOG_EVERY-aligned
+        // window; we emit a [diag] line every fifth tick.
         LongConsumer onProgressTick = recordsSeen -> {
-            scannedStore.evictIdle();
             if (recordsSeen % 50_000L == 0L) {
                 Runtime rt = Runtime.getRuntime();
                 long heapUsedMB = (rt.totalMemory() - rt.freeMemory()) / (1024L * 1024L);
                 long heapMaxMB = rt.maxMemory() / (1024L * 1024L);
                 System.out.println("[diag] heapUsedMB=" + heapUsedMB + "/" + heapMaxMB
-                        + " scannedCached=" + scannedStore.cachedGroups()
-                        + " scannedEntries=" + scannedStore.cachedEntries()
-                        + " scannedDirty=" + scannedStore.pendingGroups()
+                        + " scannedDirty=" + scannedStore.pendingArtifacts()
                         + " moduleDirty=" + store.pendingFiles()
                         + " dirtyModules=" + dirtyModules.size());
             }
@@ -631,18 +626,6 @@ public final class Crawler implements AutoCloseable {
                 }
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
-                // Flush per batch (not just per checkpoint) so the ScannedStore cache
-                // doesn't accumulate every group touched between checkpoints. With a
-                // 2000-record checkpoint window and bursty scans (one batch can touch
-                // ~96 unique groups, each loading its full scanned.tsv into memory),
-                // a single 1682-record burst was loading 470 K ScannedEntry objects
-                // and OOMing at 512 MB. Per-batch flush bounds the cache to one
-                // batch's worth of groups (~96), at the cost of writing the same
-                // disk bytes the checkpoint would have written - just sooner.
-                synchronized (store) {
-                    store.flush();
-                }
-                scannedStore.flush();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
                     state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal);
                     sinceCheckpoint = 0L;

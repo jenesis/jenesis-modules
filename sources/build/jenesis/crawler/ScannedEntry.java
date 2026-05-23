@@ -3,27 +3,23 @@ package build.jenesis.crawler;
 import module java.base;
 
 /**
- * Row of {@code data/scanned/<groupId-path>/scanned.tsv}.
+ * Row of {@code data/scanned/<groupId-path>/<artifactId>.tsv}.
  *
- * Four tab-separated columns: {@code artifactId}, {@code version}, {@code classifier-or-empty},
- * {@code errorMessage-or-empty}. The fourth column carries the recorded failure text (sanitised
- * so it stays on one line) when scanning the coordinate threw a permanent error; an empty fourth
- * column means the scan succeeded.
+ * Three tab-separated columns: {@code version}, {@code classifier-or-empty},
+ * {@code errorMessage-or-empty}. The {@code artifactId} that this row belongs to lives in the
+ * file name; storing it again on every row would be redundant. The third column carries the
+ * recorded failure text (sanitised so it stays on one line) when scanning the coordinate threw
+ * a permanent error; an empty third column means the scan succeeded.
  */
-public record ScannedEntry(String artifactId, String version, String classifier, String errorMessage) {
+public record ScannedEntry(String version, String classifier, String errorMessage) {
 
     public static final Comparator<ScannedEntry> COMPARATOR = Comparator
-            .comparing(ScannedEntry::artifactId)
-            .thenComparing(ScannedEntry::version)
+            .comparing(ScannedEntry::version)
             .thenComparing(entry -> entry.classifier() == null ? "" : entry.classifier());
 
     public ScannedEntry {
-        Objects.requireNonNull(artifactId, "artifactId");
         Objects.requireNonNull(version, "version");
         Objects.requireNonNull(errorMessage, "errorMessage");
-        if (artifactId.isEmpty()) {
-            throw new IllegalArgumentException("artifactId must not be empty");
-        }
         if (version.isEmpty()) {
             throw new IllegalArgumentException("version must not be empty");
         }
@@ -35,12 +31,12 @@ public record ScannedEntry(String artifactId, String version, String classifier,
         }
     }
 
-    public static ScannedEntry ok(String artifactId, String version, String classifier) {
-        return new ScannedEntry(artifactId, version, classifier, "");
+    public static ScannedEntry ok(String version, String classifier) {
+        return new ScannedEntry(version, classifier, "");
     }
 
-    public static ScannedEntry failed(String artifactId, String version, String classifier, String errorMessage) {
-        return new ScannedEntry(artifactId, version, classifier, sanitize(errorMessage));
+    public static ScannedEntry failed(String version, String classifier, String errorMessage) {
+        return new ScannedEntry(version, classifier, sanitize(errorMessage));
     }
 
     public boolean isFailed() {
@@ -48,19 +44,18 @@ public record ScannedEntry(String artifactId, String version, String classifier,
     }
 
     public String format() {
-        return artifactId + '\t' + version + '\t' + (classifier == null ? "" : classifier) + '\t' + errorMessage;
+        return version + '\t' + (classifier == null ? "" : classifier) + '\t' + errorMessage;
     }
 
     public static ScannedEntry parse(String line) {
         String[] parts = line.split("\t", -1);
-        if (parts.length != 4) {
-            throw new IllegalArgumentException("Expected 4 tab-separated fields in scanned entry: " + line);
+        if (parts.length != 3) {
+            throw new IllegalArgumentException("Expected 3 tab-separated fields in scanned entry: " + line);
         }
         return new ScannedEntry(
                 parts[0],
-                parts[1],
-                parts[2].isEmpty() ? null : parts[2],
-                parts[3]);
+                parts[1].isEmpty() ? null : parts[1],
+                parts[2]);
     }
 
     /** Replace tabs and newlines so the message fits on one TSV line. */

@@ -15,7 +15,7 @@ public class ScannedStoreTest {
     Path root;
 
     @Test
-    public void marks_and_persists_ok_entries_under_group_path() throws IOException {
+    public void marks_and_persists_ok_entries_under_per_artifact_path() throws IOException {
         ScannedStore store = new ScannedStore(root);
         store.markOk(coordinate("com.example", "alpha", "1.0", null));
         store.markOk(coordinate("com.example", "alpha", "1.1", null));
@@ -23,26 +23,26 @@ public class ScannedStoreTest {
 
         store.flush();
 
-        Path file = root.resolve("com").resolve("example").resolve("scanned.tsv");
-        assertThat(file).exists();
-        List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
-        // Empty 4th column = ok.
-        assertThat(lines).containsExactly(
-                "alpha\t1.0\t\t",
-                "alpha\t1.1\t\t",
-                "beta\t2.0\tjakarta\t");
+        Path alpha = root.resolve("com").resolve("example").resolve("alpha.tsv");
+        Path beta = root.resolve("com").resolve("example").resolve("beta.tsv");
+        assertThat(alpha).exists();
+        assertThat(beta).exists();
+        assertThat(Files.readAllLines(alpha, StandardCharsets.UTF_8))
+                .containsExactly("1.0\t\t", "1.1\t\t");
+        assertThat(Files.readAllLines(beta, StandardCharsets.UTF_8))
+                .containsExactly("2.0\tjakarta\t");
     }
 
     @Test
-    public void markFailed_writes_error_message_in_fourth_column() throws IOException {
+    public void markFailed_writes_error_message_in_third_column() throws IOException {
         ScannedStore store = new ScannedStore(root);
         store.markFailed(coordinate("com.example", "broken", "1.0", null),
                 "IllegalArgumentException: Expected central file header signature at offset 0");
         store.flush();
 
-        Path file = root.resolve("com").resolve("example").resolve("scanned.tsv");
+        Path file = root.resolve("com").resolve("example").resolve("broken.tsv");
         assertThat(Files.readAllLines(file)).containsExactly(
-                "broken\t1.0\t\tIllegalArgumentException: Expected central file header signature at offset 0");
+                "1.0\t\tIllegalArgumentException: Expected central file header signature at offset 0");
     }
 
     @Test
@@ -51,8 +51,8 @@ public class ScannedStoreTest {
         store.markFailed(coordinate("g", "a", "1.0", null), "first line\nsecond\ttab");
         store.flush();
 
-        assertThat(Files.readAllLines(root.resolve("g").resolve("scanned.tsv")))
-                .containsExactly("a\t1.0\t\tfirst line second tab");
+        assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
+                .containsExactly("1.0\t\tfirst line second tab");
     }
 
     @Test
@@ -96,9 +96,8 @@ public class ScannedStoreTest {
         store.markOk(coordinate("g", "a", "1.0", null));
         store.flush();
 
-        List<String> lines = Files.readAllLines(root.resolve("g").resolve("scanned.tsv"));
-        assertThat(lines).containsExactly("a\t1.0\t\t");
-        // and the reprocess view also sees it as scanned now
+        assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
+                .containsExactly("1.0\t\t");
         assertThat(new ScannedStore(root, true).contains(coordinate("g", "a", "1.0", null))).isTrue();
     }
 
@@ -114,7 +113,7 @@ public class ScannedStoreTest {
     }
 
     @Test
-    public void no_disk_writes_when_no_groups_marked() throws IOException {
+    public void no_disk_writes_when_no_artifact_marked() throws IOException {
         ScannedStore store = new ScannedStore(root);
         store.flush();
         assertThat(root.toFile().list()).isEmpty();
@@ -127,15 +126,15 @@ public class ScannedStoreTest {
         store.markOk(coordinate("a", "b", "1.0", null));
         store.flush();
 
-        assertThat(Files.readAllLines(root.resolve("a").resolve("scanned.tsv")))
-                .containsExactly("b\t1.0\t\t");
+        assertThat(Files.readAllLines(root.resolve("a").resolve("b.tsv")))
+                .containsExactly("1.0\t\t");
     }
 
     @Test
     public void parses_and_formats_entries_symmetrically() {
-        ScannedEntry plain = ScannedEntry.ok("artifact", "1.0", null);
-        ScannedEntry classified = ScannedEntry.ok("artifact", "1.0", "jakarta");
-        ScannedEntry failed = ScannedEntry.failed("artifact", "1.0", null, "bad zip");
+        ScannedEntry plain = ScannedEntry.ok("1.0", null);
+        ScannedEntry classified = ScannedEntry.ok("1.0", "jakarta");
+        ScannedEntry failed = ScannedEntry.failed("1.0", null, "bad zip");
 
         assertThat(ScannedEntry.parse(plain.format())).isEqualTo(plain);
         assertThat(ScannedEntry.parse(classified.format())).isEqualTo(classified);

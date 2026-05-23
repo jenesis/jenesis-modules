@@ -18,9 +18,10 @@ data/
 │   ├── org/slf4j/versions.tsv
 │   ├── org/slf4j/api/versions.tsv
 │   └── ...
-└── scanned/                      # per-group "we have already looked at these JARs" index
-    ├── com/fasterxml/jackson/scanned.tsv
-    ├── org/slf4j/scanned.tsv
+└── scanned/                      # per-artifact "we have already looked at these JARs" index
+    ├── com/fasterxml/jackson/core/jackson-core.tsv
+    ├── com/fasterxml/jackson/core/jackson-databind.tsv
+    ├── org/slf4j/slf4j-api.tsv
     └── ...
 ```
 
@@ -202,11 +203,13 @@ java -Djenesis.crawler.list.group.only=false \
 
 When owners are read from `owners.tsv`, lines are emitted verbatim (the file's tab is rendered as `:`); the `group.only` flag only affects values derived from `versions.tsv`.
 
-### `data/scanned/<dotted/path>/scanned.tsv`
+### `data/scanned/<dotted/path>/<artifactId>.tsv`
 
-For every groupId we have ever fetched an artifact under, a `scanned.tsv` file lists every `(artifactId, version, classifier)` the crawler has looked at. Four tab-separated columns: `artifactId`, `version`, `classifier-or-empty`, `errorMessage-or-empty`. Used internally to skip coordinates on subsequent runs - Maven Central is immutable per GAV, so once a JAR has been scanned we never need to look at it again.
+For every artifact we have ever fetched, an `<artifactId>.tsv` file under the artifact's group path lists every `(version, classifier)` the crawler has looked at. Three tab-separated columns: `version`, `classifier-or-empty`, `errorMessage-or-empty`. The artifactId is in the file name and not repeated on every row. Used internally to skip coordinates on subsequent runs - Maven Central is immutable per GAV, so once a JAR has been scanned we never need to look at it again.
 
-The fourth column distinguishes two kinds of completion:
+This layout is per-artifact rather than per-group so that loading "the set of already-scanned coordinates for the artifact I'm about to scan" reads at most a few thousand rows (one artifact's release history) instead of "everything in this Maven group ever," which on prolific groups like `software.amazon.awssdk` (~470 K coordinates) used to pull 175 MB into the heap on every `contains` lookup. Per-artifact files keep each lookup at a few hundred KB.
+
+The third column distinguishes two kinds of completion:
 
 - **Empty** — the scan succeeded (the artifact either yielded a module declaration that landed in `versions.tsv`, or carried no module name at all and is intentionally not in the modules index).
 - **Non-empty** — the scan failed *permanently* (the JAR is malformed, or the artifact returned HTTP 404/410). The text is the recorded error message, sanitised so it stays on a single TSV line. Future runs skip these coordinates by default, exactly as they skip successful ones; the artifact is not refetched. To retry every recorded permanent failure on the next run, set `-Djenesis.crawler.reprocess.failed=true` (default `false`). Transient failures (network timeouts, HTTP 5xx, etc.) are *not* recorded here - they remain unmarked, so the next run retries them as a matter of course.
@@ -295,21 +298,14 @@ What the design does **not** protect against: a power loss that loses OS-buffere
 
 ### Bounding heap usage on long runs
 
-The two on-heap structures that grow during a sweep are `ModuleStore.dirty` (per-module buffer waiting to be appended to `versions.tsv`) and `ScannedStore.entries` (read-through cache of `scanned.tsv` files keyed by group id). Both need bounding for the crawler to survive a multi-hour run inside a runner with a fixed heap.
+The two on-heap structures that grow during a sweep are `ModuleStore.dirty` (per-module buffer waiting to be appended to `versions.tsv`) and `ScannedStore.entries` (read-through cache of `<artifactId>.tsv` files keyed by `(groupId, artifactId)`). Both are naturally bounded by the per-artifact layout:
 
 - `ModuleStore.dirty` is cleared at every consumer checkpoint (every `jenesis.crawler.checkpoint.every` records, default 2000) inside `store.flush()`. Retention is `O(checkpoint window)`, not `O(run lifetime)`.
-- `ScannedStore.entries` is more subtle. Both sides of the pipeline read it: the consumer calls `markOk`/`markFailed`, and the **producer** calls `contains` for every record it sees in order to decide whether to enqueue it. The producer is much faster than the consumer (a single thread iterating decompressed records), so during an all-skipped pass through Maven Central's ~770 K-record index the producer can touch tens of thousands of groups in seconds, each load pulling that group's whole `scanned.tsv` into memory. We measured this on a real run: 2 K consumer records into a fresh run on top of an existing `data/scanned/`, the JVM hit `OutOfMemoryError` and dumped a 4.2 GB heap.
+- `ScannedStore.entries` grows monotonically as touched artifacts are loaded. Each artifact's set is small — the largest single artifact in current data is `software.amazon.awssdk:bundle-sdk` with ~2000 versions = ~30 KB on disk, ~750 KB resident. Even an all-Maven-Central sweep that touches every artifact stays comfortably under a few hundred MB, so there is no eviction logic — the cache just stays loaded.
 
-The fix is two-layered, both gated by a `ReadWriteLock` so eviction never races a live writer:
+Earlier revisions of this code used a per-group cache (one `NavigableSet` per Maven group, all artifacts in that group inside it). On `software.amazon.awssdk` — 470 K coordinates across 445 artifacts — a single `contains` call pulled ~175 MB into the heap, and the producer's repeated touches of that group drove load/evict/reload cycles that OOMed the JVM regardless of heap size. The per-artifact split fixed both the per-call allocation size and the churn; no eviction was needed once the per-call cost dropped.
 
-1. **`ScannedStore.flush()`** (write lock) writes every dirty group and then removes it from the in-memory cache. Run from the consumer at each checkpoint.
-2. **`ScannedStore.evictIdle()`** (write lock) drops every cache entry that isn't currently dirty. Run from the producer once every `WorklistStream.DEFAULT_TICK_EVERY` records (10 000 by default) via a `LongConsumer` tick callback passed to `WorklistStream`. This is what bounds retention during an all-skipped pass where no consumer-side checkpoint fires.
-
-`scannedStore.contains` and `scannedStore.markOk`/`markFailed` take the **read** lock, so the eviction barrier doesn't serialise the 96 concurrent scan workers - it only blocks during the brief flush window.
-
-If the read-through cache itself ever becomes the bottleneck (CPU cost of reloading touched groups within a single checkpoint window, or memory pressure within that window because a single window touches a huge number of large groups), the next step is to swap the cache for a coordinate-keyed bloom filter for the `contains` fast path, with an append-only on-disk log and periodic compaction. That removes the requirement to hold any group's full set in memory at all. The relevant marker comment lives next to the `entries` field in `ScannedStore.java`.
-
-The workflow runs with `-XX:+ExitOnOutOfMemoryError -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/tmp/crawl.hprof` and a follow-up step that uploads the dump as a workflow artifact on failure, so any regression here is debuggable without needing to reproduce locally.
+The workflow runs with `-XX:+ExitOnOutOfMemoryError -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=$GITHUB_WORKSPACE/crawl.hprof` and a follow-up step that uploads the dump as a workflow artifact on failure, so any regression here is debuggable without needing to reproduce locally.
 
 ## Building and testing with Jenesis
 
