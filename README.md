@@ -314,7 +314,9 @@ Scheduled and manual triggers coexist:
 - Manual dispatches (`workflow_dispatch`) always proceed. They share a `crawl` concurrency group so a double-click on "Run workflow" queues rather than overlaps.
 - The manual dispatch form exposes a `resume` choice (default `true`). Set to `false` to discard `state.properties` and any in-flight worklist before starting; `data/scanned/` and `data/modules/` are preserved so already-scanned coordinates remain skipped.
 
-`build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI.
+`build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI. `build.yml` additionally skips its own job for commits whose message starts with `[release]` - those are routed exclusively through `release.yml`, which runs the same Jenesis build + test as part of staging.
+
+`release.yml` triggers directly on push to `main` (not via a chain off `build.yml`) and runs whenever the commit message starts with `[release]` or `[release X.Y.Z]`. This makes release commits independent of `paths-ignore` - even an empty `[release]` commit fires the release flow. With no explicit version inside the brackets, the workflow auto-bumps the minor digit from the latest `v*` tag (`0.0.1` if no tag exists yet). The release job's "Build and stage artifacts" step invokes Jenesis with strict pinning, sources, and documentation enabled, then JReleaser publishes to Maven Central and tags `v<version>`.
 
 ## Adapting in a fork without editing YAML
 
