@@ -146,7 +146,7 @@ public final class Crawler implements AutoCloseable {
     }
 
     private static void logFailure(Coordinate coordinate, Throwable error) {
-        StringBuilder builder = new StringBuilder("scan failed: ")
+        StringBuilder builder = new StringBuilder("[scan] failed: ")
                 .append(coordinate.mavenPath())
                 .append(" :: ");
         appendThrowableLine(builder, error);
@@ -255,7 +255,7 @@ public final class Crawler implements AutoCloseable {
             Result resumed = runFromFile(worklist, state, statePath);
             aggregator.add(resumed);
             if (!resumed.worklistComplete()) {
-                System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[crawler] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(state.worklistComplete());
             }
@@ -295,7 +295,7 @@ public final class Crawler implements AutoCloseable {
             Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
             aggregator.add(chunkResult);
             if (!chunkResult.worklistComplete()) {
-                System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[crawler] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
             }
