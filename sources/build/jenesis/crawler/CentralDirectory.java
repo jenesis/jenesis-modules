@@ -14,6 +14,12 @@ public final class CentralDirectory {
     public static final int LOCAL_HEADER_SIZE = 30;
     public static final int ZIP64_LOCATOR_SIZE = 20;
 
+    // Sanity cap on the entry count we will pre-size collections for. Maven Central jars
+    // realistically have at most low-thousands of entries; a malformed jar that declares
+    // a multi-billion entry count would otherwise allocate a multi-GB Object[] inside
+    // LinkedHashMap and OOM the JVM before we can report the malformed file.
+    public static final int MAX_ENTRY_COUNT = 1024 * 1024;
+
     public record Position(long centralDirectoryOffset, long centralDirectorySize, long entryCount, long shift) {
     }
 
@@ -86,8 +92,12 @@ public final class CentralDirectory {
     }
 
     public static Map<String, Entry> parse(byte[] bytes, long entryCount, long localHeaderShift) {
+        if (entryCount < 0L || entryCount > MAX_ENTRY_COUNT) {
+            throw new IllegalArgumentException("Implausible central directory entry count " + entryCount
+                    + " (cap is " + MAX_ENTRY_COUNT + "); archive likely malformed");
+        }
         ByteBuffer buffer = ByteBuffer.wrap(bytes).order(ByteOrder.LITTLE_ENDIAN);
-        Map<String, Entry> entries = new LinkedHashMap<>(Math.max(16, (int) Math.min(entryCount * 2, Integer.MAX_VALUE)));
+        Map<String, Entry> entries = new LinkedHashMap<>(Math.max(16, (int) Math.min(entryCount * 2L, Integer.MAX_VALUE)));
         for (long index = 0; index < entryCount; index++) {
             int signature = buffer.getInt();
             if (signature != CENTRAL_FILE_HEADER_SIGNATURE) {

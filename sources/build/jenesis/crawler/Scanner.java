@@ -12,6 +12,11 @@ public final class Scanner {
 
     public static final int DEFAULT_TAIL_SIZE = 65536;
     public static final int LOCAL_HEADER_SLACK = 4096;
+    // Sanity caps on sizes pulled from a jar's own metadata. Real module-info.class and
+    // central directories are at most a few MB; these caps stop a malformed jar from
+    // forcing a multi-GB byte[] allocation that would OOM the worker.
+    public static final int MAX_CENTRAL_DIRECTORY_SIZE = 64 * 1024 * 1024;
+    public static final int MAX_ENTRY_SIZE = 64 * 1024 * 1024;
 
     private final int tailSize;
 
@@ -109,23 +114,37 @@ public final class Scanner {
                                                 CentralDirectory.Position position,
                                                 long size,
                                                 int actualTailSize) throws IOException {
+        long cdSize = position.centralDirectorySize();
+        if (cdSize < 0L || cdSize > MAX_CENTRAL_DIRECTORY_SIZE) {
+            throw new IllegalArgumentException("Implausible central directory size " + cdSize
+                    + " (cap is " + MAX_CENTRAL_DIRECTORY_SIZE + "); archive likely malformed");
+        }
         long tailStart = size - actualTailSize;
-        long centralDirectoryEnd = position.centralDirectoryOffset() + position.centralDirectorySize();
+        long centralDirectoryEnd = position.centralDirectoryOffset() + cdSize;
         if (position.centralDirectoryOffset() >= tailStart && centralDirectoryEnd <= size) {
             int offsetInTail = (int) (position.centralDirectoryOffset() - tailStart);
-            return Arrays.copyOfRange(tail, offsetInTail, offsetInTail + (int) position.centralDirectorySize());
+            return Arrays.copyOfRange(tail, offsetInTail, offsetInTail + (int) cdSize);
         }
-        return source.read(position.centralDirectoryOffset(), (int) position.centralDirectorySize());
+        return source.read(position.centralDirectoryOffset(), (int) cdSize);
     }
 
     private static byte[] readEntry(ByteSource source, CentralDirectory.Entry entry) throws IOException {
+        long compressedSize = entry.compressedSize();
+        if (compressedSize < 0L || compressedSize > MAX_ENTRY_SIZE) {
+            throw new IllegalArgumentException("Implausible entry compressed size " + compressedSize
+                    + " for " + entry.name() + " (cap is " + MAX_ENTRY_SIZE + "); archive likely malformed");
+        }
+        long uncompressedSize = entry.uncompressedSize();
+        if (uncompressedSize < 0L || uncompressedSize > MAX_ENTRY_SIZE) {
+            throw new IllegalArgumentException("Implausible entry uncompressed size " + uncompressedSize
+                    + " for " + entry.name() + " (cap is " + MAX_ENTRY_SIZE + "); archive likely malformed");
+        }
         long sourceSize = source.size();
-        long fetchEnd = Math.min(entry.localHeaderOffset() + CentralDirectory.LOCAL_HEADER_SIZE + LOCAL_HEADER_SLACK + entry.compressedSize(), sourceSize);
+        long fetchEnd = Math.min(entry.localHeaderOffset() + CentralDirectory.LOCAL_HEADER_SIZE + LOCAL_HEADER_SLACK + compressedSize, sourceSize);
         int fetchLength = (int) (fetchEnd - entry.localHeaderOffset());
         byte[] block = source.read(entry.localHeaderOffset(), fetchLength);
 
         int dataOffset = CentralDirectory.localHeaderDataOffset(block, 0);
-        long compressedSize = entry.compressedSize();
         if (dataOffset + compressedSize > block.length) {
             int neededLength = dataOffset + (int) compressedSize;
             block = source.read(entry.localHeaderOffset(), neededLength);

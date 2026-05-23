@@ -118,7 +118,12 @@ jobs:
           [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")
           [ -n "$CHECKPOINT_EVERY" ]    && props+=("-Djenesis.crawler.checkpoint.every=$CHECKPOINT_EVERY")
-          java -XX:+ExitOnOutOfMemoryError \
+          # Heap is intentionally capped well below the runner's RAM so an OOM
+          # bug produces a small, upload-friendly dump (a 4 GB dump can't be
+          # uploaded as a workflow artifact in reasonable time). Raise once the
+          # crawler is known to be memory-stable across a full sweep.
+          java -Xmx512m \
+               -XX:+ExitOnOutOfMemoryError \
                -XX:+HeapDumpOnOutOfMemoryError \
                -XX:HeapDumpPath="$GITHUB_WORKSPACE/crawl.hprof" \
                "${props[@]}" sources/build/jenesis/crawler/Crawl.java \
