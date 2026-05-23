@@ -33,7 +33,7 @@ public record IndexProperties(String chainId, long timestamp, int lastIncrementa
         }
         try {
             return OffsetDateTime.parse(raw.trim(), TIMESTAMP_FORMAT).toInstant().toEpochMilli();
-        } catch (DateTimeParseException ignored) {
+        } catch (DateTimeParseException _) {
             try {
                 return LocalDateTime.parse(raw.trim(), TIMESTAMP_FORMAT)
                         .toInstant(ZoneOffset.UTC).toEpochMilli();

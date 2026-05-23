@@ -76,13 +76,13 @@ public record Coordinate(String groupId,
             if (iparts.length > 1) {
                 try {
                     lastModified = Long.parseLong(iparts[1]);
-                } catch (NumberFormatException ignored) {
+                } catch (NumberFormatException _) {
                 }
             }
             if (iparts.length > 2) {
                 try {
                     size = Long.parseLong(iparts[2]);
-                } catch (NumberFormatException ignored) {
+                } catch (NumberFormatException _) {
                 }
             }
             if (iparts.length > 6 && !NOT_AVAILABLE.equals(iparts[6])) {

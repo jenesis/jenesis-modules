@@ -83,8 +83,8 @@ public final class WorklistStream implements AutoCloseable {
             }
             writer.flush();
             completed.set(true);
-        } catch (IOException io) {
-            producerError.set(io);
+        } catch (IOException e) {
+            producerError.set(e);
         } catch (InterruptedException interrupted) {
             Thread.currentThread().interrupt();
         } finally {
@@ -109,12 +109,12 @@ public final class WorklistStream implements AutoCloseable {
             try {
                 streamIndexOnce(uri, writer, skipTarget);
                 return;
-            } catch (IOException io) {
-                lastError = io;
+            } catch (IOException e) {
+                lastError = e;
                 long progressed = recordsProduced.get() - beforeAttempt;
                 if (progressed > 0L) {
                     System.err.println("Producer stream failed after " + progressed + " records emitted: "
-                            + io.getClass().getSimpleName() + ": " + io.getMessage()
+                            + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + ". Resetting backoff and retrying in " + DEFAULT_INITIAL_BACKOFF.toMillis() + " ms.");
                     backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
                     consecutiveFailures = 0;
@@ -125,7 +125,7 @@ public final class WorklistStream implements AutoCloseable {
                     }
                     System.err.println("Producer stream failed without progress (attempt " + consecutiveFailures
                             + "/" + DEFAULT_STREAM_ATTEMPTS + ") for " + uri + " ("
-                            + io.getClass().getSimpleName() + ": " + io.getMessage()
+                            + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + "). Retrying in " + backoffMillis + " ms.");
                 }
                 Thread.sleep(backoffMillis);

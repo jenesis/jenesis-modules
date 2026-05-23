@@ -29,8 +29,8 @@ public final class DirtyModules {
         }
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
             lines.map(String::strip).filter(line -> !line.isEmpty()).forEach(pending::add);
-        } catch (IOException io) {
-            throw new UncheckedIOException("Failed to read " + file, io);
+        } catch (IOException e) {
+            throw new UncheckedIOException("Failed to read " + file, e);
         }
     }
 

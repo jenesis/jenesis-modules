@@ -110,8 +110,8 @@ public final class ScannedStore {
         }
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
             lines.filter(line -> !line.isEmpty()).map(ScannedEntry::parse).forEach(set::add);
-        } catch (IOException io) {
-            throw new UncheckedIOException("Failed to read " + file, io);
+        } catch (IOException e) {
+            throw new UncheckedIOException("Failed to read " + file, e);
         }
         return set;
     }

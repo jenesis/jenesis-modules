@@ -30,7 +30,7 @@ public final class IndexReader implements Closeable {
         int fieldCount;
         try {
             fieldCount = input.readInt();
-        } catch (EOFException eof) {
+        } catch (EOFException _) {
             return null;
         }
         Map<String, String> record = new HashMap<>(Math.max(8, fieldCount * 2));
@@ -56,8 +56,8 @@ public final class IndexReader implements Closeable {
     }
 
     private static String decompress(byte[] bytes) throws IOException {
-        try (GZIPInputStream gz = new GZIPInputStream(new ByteArrayInputStream(bytes))) {
-            return new String(gz.readAllBytes(), StandardCharsets.UTF_8);
+        try (GZIPInputStream input = new GZIPInputStream(new ByteArrayInputStream(bytes))) {
+            return new String(input.readAllBytes(), StandardCharsets.UTF_8);
         }
     }
 }

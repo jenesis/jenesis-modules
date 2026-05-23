@@ -190,8 +190,8 @@ public final class Fetcher implements AutoCloseable {
                 return response;
             } catch (HttpTimeoutException timeout) {
                 lastError = timeout;
-            } catch (IOException io) {
-                lastError = io;
+            } catch (IOException e) {
+                lastError = e;
             } catch (InterruptedException interrupted) {
                 Thread.currentThread().interrupt();
                 throw new IOException("Interrupted while sending " + request.uri(), interrupted);
@@ -245,7 +245,7 @@ public final class Fetcher implements AutoCloseable {
         if (body instanceof AutoCloseable closeable) {
             try {
                 closeable.close();
-            } catch (Exception ignored) {
+            } catch (Exception _) {
             }
         }
     }

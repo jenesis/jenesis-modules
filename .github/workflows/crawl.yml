@@ -2,7 +2,7 @@ name: Crawl Maven Central for Java Modules
 
 on:
   schedule:
-    - cron: '7 */8 * * *'
+    - cron: '7 */12 * * *'
   workflow_dispatch:
     inputs:
       budget_minutes:
@@ -25,14 +25,6 @@ on:
         options:
           - 'true'
           - 'false'
-      index_base:
-        description: Override base URI for the Maven index (leave blank for default / repo var)
-        required: false
-        default: ''
-      artifact_base:
-        description: Override base URI for artifact downloads (leave blank for default / repo var)
-        required: false
-        default: ''
 
 permissions:
   contents: write
@@ -103,8 +95,8 @@ jobs:
 
       - name: Run crawler with incremental commits
         env:
-          ARTIFACT_BASE: ${{ github.event.inputs.artifact_base || vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
-          INDEX_BASE: ${{ github.event.inputs.index_base || vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
+          ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
+          INDEX_BASE: ${{ vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '96' }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}

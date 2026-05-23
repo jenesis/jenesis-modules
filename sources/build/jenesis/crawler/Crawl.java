@@ -140,8 +140,8 @@ public final class Crawl {
         try {
             Files.writeString(Path.of(path), summary.toString(), StandardCharsets.UTF_8,
                     StandardOpenOption.CREATE, StandardOpenOption.APPEND);
-        } catch (IOException io) {
-            System.err.println("Failed to write step summary: " + io.getMessage());
+        } catch (IOException e) {
+            System.err.println("Failed to write step summary: " + e.getMessage());
         }
     }
 

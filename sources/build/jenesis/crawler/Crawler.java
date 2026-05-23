@@ -103,7 +103,7 @@ public final class Crawler implements AutoCloseable {
 
     private void recordFailure(Throwable error) {
         String key = categorize(error);
-        FailureBucket bucket = failures.computeIfAbsent(key, ignored -> new FailureBucket());
+        FailureBucket bucket = failures.computeIfAbsent(key, _ -> new FailureBucket());
         if (bucket.count.incrementAndGet() == 1L) {
             bucket.sample = sampleOf(error);
         }
@@ -255,7 +255,7 @@ public final class Crawler implements AutoCloseable {
             if (worklist.exists() && state.worklistRecords() == 0L) {
                 try {
                     Files.delete(worklist.path());
-                } catch (IOException ignored) {
+                } catch (IOException _) {
                 }
             }
 
@@ -338,8 +338,8 @@ public final class Crawler implements AutoCloseable {
             RobotsTxt.Rules rules;
             try {
                 rules = RobotsTxt.fetch(fetcher, baseUri);
-            } catch (IOException io) {
-                System.err.println("robots.txt fetch failed for " + authority + " (" + io.getMessage() + "); continuing without restrictions");
+            } catch (IOException e) {
+                System.err.println("robots.txt fetch failed for " + authority + " (" + e.getMessage() + "); continuing without restrictions");
                 continue;
             }
             String path = baseUri.getRawPath();

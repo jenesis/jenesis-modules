@@ -307,7 +307,7 @@ The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler
 
 ## Continuous crawling via GitHub Actions
 
-`.github/workflows/crawl.yml` runs three times per day (every 8 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. The workflow owns the default URIs for Maven Central and the GCS artifact mirror (the crawler itself has no hardcoded defaults); they can be overridden per-run via `workflow_dispatch` inputs or per-fork via repo variables (see below). With `-Djenesis.crawler.git.publish=true` (the workflow sets this) the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
+`.github/workflows/crawl.yml` runs twice per day (every 12 hours, at minute 7), each run with a 90-minute Java budget inside a 100-minute job timeout. The workflow ships the canonical Maven Central index and GCS download-mirror URIs as defaults; a fork that wants a different catalogue sets the `INDEX_BASE` / `ARTIFACT_BASE` repository variables once and every subsequent run picks them up. These URIs are intentionally **not** exposed as `workflow_dispatch` inputs - changing them per-run would point the crawler at a different catalogue mid-flight, leaving `data/scanned/` inconsistent with the new source and corrupting resumes. Repo variables, by contrast, are set once at fork time and remain stable across runs, so the in-flight invariant holds. With `-Djenesis.crawler.git.publish=true` (the workflow sets this) the crawler commits and pushes after every checkpoint, so a 90-minute run typically produces dozens of small incremental commits rather than one large terminal commit. A tail step at the end of the workflow pushes anything not yet committed, with a 3-attempt rebase-retry loop.
 
 Scheduled and manual triggers coexist:
 - A guard job runs first and, on **scheduled** triggers only, checks whether another crawl is already in flight. If so, the scheduled run exits without doing any work, so a long manual crawl (e.g. 10 hours) is never followed by a freshly-queued 90-minute scheduled run when it ends.
@@ -333,7 +333,7 @@ The workflow reads optional GitHub repository variables (Settings → Secrets an
 
 Unset variables keep the built-in defaults.
 
-The manual `workflow_dispatch` form also exposes per-run overrides for the most commonly tweaked settings (`budget_minutes`, `concurrency`, `push_every`, `resume`, `index_base`, `artifact_base`). Precedence: dispatch input → repository variable → built-in default. Use the `index_base` / `artifact_base` inputs for one-off test runs against a mirror without changing repo variables.
+The manual `workflow_dispatch` form also exposes per-run overrides for the most commonly tweaked **per-run** settings (`budget_minutes`, `concurrency`, `push_every`, `resume`). Precedence: dispatch input → repository variable → built-in default. The artifact and index URIs are deliberately **not** in this list - they belong to the fork's identity, not to a single run, and can only be changed by setting the `ARTIFACT_BASE` / `INDEX_BASE` repository variables (which apply uniformly to every subsequent run and keep the existing `data/scanned/` index consistent).
 
 ## Monitoring
 

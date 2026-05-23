@@ -99,8 +99,8 @@ public final class ListOwners {
                     return true;
                 }
             }
-        } catch (IOException io) {
-            throw new UncheckedIOException("Failed to inspect " + dir, io);
+        } catch (IOException e) {
+            throw new UncheckedIOException("Failed to inspect " + dir, e);
         }
         return false;
     }
