@@ -204,7 +204,12 @@ When owners are read from `owners.tsv`, lines are emitted verbatim (the file's t
 
 ### `data/scanned/<dotted/path>/scanned.tsv`
 
-For every groupId we have ever scanned an artifact under, a `scanned.tsv` file lists every `(artifactId, version, classifier)` we have looked at. Three tab-separated columns: `artifactId`, `version`, `classifier-or-empty`. Used internally by the crawler to skip coordinates on subsequent runs - Maven Central is immutable per GAV, so once a JAR has been scanned we never need to look at it again.
+For every groupId we have ever fetched an artifact under, a `scanned.tsv` file lists every `(artifactId, version, classifier)` the crawler has looked at. Four tab-separated columns: `artifactId`, `version`, `classifier-or-empty`, `errorMessage-or-empty`. Used internally to skip coordinates on subsequent runs - Maven Central is immutable per GAV, so once a JAR has been scanned we never need to look at it again.
+
+The fourth column distinguishes two kinds of completion:
+
+- **Empty** — the scan succeeded (the artifact either yielded a module declaration that landed in `versions.tsv`, or carried no module name at all and is intentionally not in the modules index).
+- **Non-empty** — the scan failed *permanently* (the JAR is malformed, or the artifact returned HTTP 404/410). The text is the recorded error message, sanitised so it stays on a single TSV line. Future runs skip these coordinates by default, exactly as they skip successful ones; the artifact is not refetched. To retry every recorded permanent failure on the next run, set `-Djenesis.crawler.reprocess.failed=true` (default `false`). Transient failures (network timeouts, HTTP 5xx, etc.) are *not* recorded here - they remain unmarked, so the next run retries them as a matter of course.
 
 ## Running the crawler
 
@@ -247,6 +252,7 @@ Optional system properties:
 | `jenesis.crawler.small.jar.threshold` | `262144` | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |
 | `jenesis.crawler.checkpoint.every` | `2000` | Coordinates between on-disk checkpoints. |
 | `jenesis.crawler.resume` | `true` | When `false`, deletes `state.properties` and any `worklist.tsv[.streaming]` before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
+| `jenesis.crawler.reprocess.failed` | `false` | When `true`, coordinates whose previous scan ended in a permanent failure (malformed JAR, HTTP 404/410) are treated as un-scanned and re-fetched on this run. Useful after a scanner bug fix; leave at `false` for normal operation so chronically broken artifacts are not refetched on every run. |
 | `jenesis.crawler.git.publish` | `false` | When `true`, commit + push checkpoints inline. |
 | `jenesis.crawler.git.work.dir` | `.` | Working tree for the publishing commits. |
 | `jenesis.crawler.git.push.every` | `1` | Push every N checkpoints. |

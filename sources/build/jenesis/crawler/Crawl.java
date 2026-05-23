@@ -11,6 +11,7 @@ public final class Crawl {
     public static final String PROP_CHECKPOINT_EVERY = "jenesis.crawler.checkpoint.every";
     public static final String PROP_SMALL_JAR_THRESHOLD = "jenesis.crawler.small.jar.threshold";
     public static final String PROP_RESUME = "jenesis.crawler.resume";
+    public static final String PROP_REPROCESS_FAILED = "jenesis.crawler.reprocess.failed";
     public static final String PROP_GIT_PUBLISH = "jenesis.crawler.git.publish";
     public static final String PROP_GIT_WORK_DIR = "jenesis.crawler.git.work.dir";
     public static final String PROP_GIT_PUSH_EVERY = "jenesis.crawler.git.push.every";
@@ -67,7 +68,8 @@ public final class Crawl {
         long checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Long::parseLong).orElse(base.checkpointEvery());
         long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
         boolean resume = property(PROP_RESUME).map(value -> parseBoolean(value, PROP_RESUME)).orElse(base.resume());
-        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume);
+        boolean reprocessFailed = property(PROP_REPROCESS_FAILED).map(value -> parseBoolean(value, PROP_REPROCESS_FAILED)).orElse(base.reprocessFailed());
+        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume, reprocessFailed);
     }
 
     private static Optional<String> property(String name) {
@@ -158,6 +160,8 @@ public final class Crawl {
         System.out.println("  -D" + PROP_CHECKPOINT_EVERY + "=<n>        Coordinates between checkpoints");
         System.out.println("  -D" + PROP_SMALL_JAR_THRESHOLD + "=<n>  JAR size cap for one-shot fetch");
         System.out.println("  -D" + PROP_RESUME + "=<true|false>             Resume in-flight worklist (default true)");
+        System.out.println("  -D" + PROP_REPROCESS_FAILED + "=<true|false>    Re-scan coordinates whose previous scan recorded a permanent");
+        System.out.println("                                                  failure (default false; recovers from scanner bugs).");
         System.out.println("  -D" + PROP_GIT_PUBLISH + "=<true|false>       Commit + push checkpoints via git (default false)");
         System.out.println("  -D" + PROP_GIT_WORK_DIR + "=<dir>             Git working tree (default '.')");
         System.out.println("  -D" + PROP_GIT_PUSH_EVERY + "=<n>            Push every n checkpoints (default 1)");

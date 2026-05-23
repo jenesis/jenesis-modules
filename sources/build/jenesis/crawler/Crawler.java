@@ -22,7 +22,8 @@ public final class Crawler implements AutoCloseable {
                                 int tailSize,
                                 long checkpointEvery,
                                 long smallJarThreshold,
-                                boolean resume) {
+                                boolean resume,
+                                boolean reprocessFailed) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
         public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(160L);
@@ -30,6 +31,7 @@ public final class Crawler implements AutoCloseable {
         public static final long DEFAULT_CHECKPOINT_EVERY = 2000L;
         public static final Path DEFAULT_DATA_DIR = Path.of("data");
         public static final boolean DEFAULT_RESUME = true;
+        public static final boolean DEFAULT_REPROCESS_FAILED = false;
 
         public static Configuration defaults(URI artifactBaseUri, URI indexBaseUri) {
             return new Configuration(
@@ -41,7 +43,8 @@ public final class Crawler implements AutoCloseable {
                     Scanner.DEFAULT_TAIL_SIZE,
                     DEFAULT_CHECKPOINT_EVERY,
                     DEFAULT_SMALL_JAR_THRESHOLD,
-                    DEFAULT_RESUME
+                    DEFAULT_RESUME,
+                    DEFAULT_REPROCESS_FAILED
             );
         }
     }
@@ -72,7 +75,7 @@ public final class Crawler implements AutoCloseable {
                 new Fetcher(),
                 new Scanner(configuration.tailSize()),
                 new ModuleStore(configuration.dataDir().resolve("modules")),
-                new ScannedStore(configuration.dataDir().resolve("scanned")),
+                new ScannedStore(configuration.dataDir().resolve("scanned"), configuration.reprocessFailed()),
                 new DirtyModules(configuration.dataDir()),
                 true);
     }
@@ -104,6 +107,42 @@ public final class Crawler implements AutoCloseable {
         if (bucket.count.incrementAndGet() == 1L) {
             bucket.sample = sampleOf(error);
         }
+    }
+
+    /**
+     * Distinguishes failures that are intrinsic to the artifact (and thus permanent under
+     * the same input) from transient failures (network, server, timeout) that may succeed
+     * on a later run.
+     *
+     * Permanent: any {@link IllegalArgumentException} in the cause chain (the scanner
+     * raises these for malformed ZIPs and invalid module-info contents), or HTTP 404/410
+     * (the artifact is not / no longer present at the URL we computed). Everything else
+     * - including HTTP 5xx, timeouts, and generic IOException - is treated as transient.
+     */
+    private static boolean isPermanentFailure(Throwable error) {
+        Throwable current = error;
+        Set<Throwable> seen = new HashSet<>();
+        while (current != null && seen.add(current)) {
+            if (current instanceof IllegalArgumentException) {
+                return true;
+            }
+            current = current.getCause();
+        }
+        String message = error.getMessage();
+        if (message != null) {
+            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+            if (matcher.find()) {
+                int status = Integer.parseInt(matcher.group(1));
+                return status == 404 || status == 410;
+            }
+        }
+        return false;
+    }
+
+    private static String failureMessage(Throwable error) {
+        StringBuilder builder = new StringBuilder();
+        appendThrowableLine(builder, error);
+        return ScannedEntry.sanitize(builder.toString());
     }
 
     private static void logFailure(Coordinate coordinate, Throwable error) {
@@ -443,6 +482,9 @@ public final class Crawler implements AutoCloseable {
                         failed++;
                         logFailure(coordinate, outcome.error());
                         recordFailure(outcome.error());
+                        if (isPermanentFailure(outcome.error())) {
+                            scannedStore.markFailed(coordinate, failureMessage(outcome.error()));
+                        }
                         continue;
                     }
                     try {
@@ -457,11 +499,14 @@ public final class Crawler implements AutoCloseable {
                                 dirtyModules.add(module.name());
                             }
                         }
-                        scannedStore.mark(coordinate);
+                        scannedStore.markOk(coordinate);
                     } catch (RuntimeException unexpected) {
                         failed++;
                         logFailure(coordinate, unexpected);
                         recordFailure(unexpected);
+                        if (isPermanentFailure(unexpected)) {
+                            scannedStore.markFailed(coordinate, failureMessage(unexpected));
+                        }
                     }
                 }
                 processed += batch.coordinates().size();
