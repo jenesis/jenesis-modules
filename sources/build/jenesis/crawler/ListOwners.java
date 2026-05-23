@@ -43,26 +43,25 @@ public final class ListOwners {
             List<Path> moduleDirs = stream
                     .filter(Files::isDirectory)
                     .filter(dir -> !dir.equals(modulesRoot))
-                    .filter(ListOwners::hasVersionsFile)
+                    .filter(ListOwners::looksLikeModuleDir)
                     .toList();
             for (Path moduleDir : moduleDirs) {
                 Path relative = modulesRoot.relativize(moduleDir);
                 if (matchers.stream().noneMatch(matcher -> matcher.matches(relative))) {
                     continue;
                 }
-                Path ownersFile = moduleDir.resolve(ModuleStore.OWNERS_FILE);
-                boolean hasOwners = Files.exists(ownersFile);
+                boolean hasOwners = Files.exists(moduleDir.resolve(ModuleStore.OWNERS_FILE));
                 if (onlyMissingOwners && hasOwners) {
                     continue;
                 }
-                String moduleName = dottedName(relative);
-                List<String> owners = hasOwners
-                        ? ownersFromOwnersFile(ownersFile)
-                        : ownersFromVersions(moduleDir, groupOnly);
+                List<String> owners = ownersFromCurrent(moduleDir, groupOnly);
+                if (owners.isEmpty()) {
+                    continue;
+                }
                 if (onlyAmbiguous && owners.size() < 2) {
                     continue;
                 }
-                ownersByModule.put(moduleName, owners);
+                ownersByModule.put(dottedName(relative), owners);
             }
         }
         emit(ownersByModule);
@@ -89,13 +88,14 @@ public final class ListOwners {
         return joiner.toString();
     }
 
-    private static boolean hasVersionsFile(Path dir) {
+    private static boolean looksLikeModuleDir(Path dir) {
         try (DirectoryStream<Path> entries = Files.newDirectoryStream(dir)) {
             for (Path entry : entries) {
                 if (!Files.isRegularFile(entry)) {
                     continue;
                 }
-                if (isVersionsFile(entry.getFileName().toString())) {
+                String name = entry.getFileName().toString();
+                if (isVersionsFile(name) || isCurrentFile(name)) {
                     return true;
                 }
             }
@@ -114,6 +114,15 @@ public final class ListOwners {
                 || stem.startsWith(ModuleStore.LEAF_FILE_BASE + '-');
     }
 
+    private static boolean isCurrentFile(String name) {
+        if (!name.endsWith(ModuleStore.LEAF_FILE_EXTENSION)) {
+            return false;
+        }
+        String stem = name.substring(0, name.length() - ModuleStore.LEAF_FILE_EXTENSION.length());
+        return stem.equals(ModuleStore.CURRENT_FILE_BASE)
+                || stem.startsWith(ModuleStore.CURRENT_FILE_BASE + '-');
+    }
+
     private static List<PathMatcher> compileGlobs(List<String> globs) {
         FileSystem fs = FileSystems.getDefault();
         List<PathMatcher> matchers = new ArrayList<>(globs.size());
@@ -124,28 +133,14 @@ public final class ListOwners {
         return matchers;
     }
 
-    private static List<String> ownersFromOwnersFile(Path file) throws IOException {
-        SortedSet<String> entries = new TreeSet<>();
-        try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
-            lines.forEach(rawLine -> {
-                String line = rawLine.stripTrailing();
-                if (line.isBlank() || line.startsWith("#")) {
-                    return;
-                }
-                entries.add(line.replace('\t', ':'));
-            });
-        }
-        return new ArrayList<>(entries);
-    }
-
-    private static List<String> ownersFromVersions(Path moduleDir, boolean groupOnly) throws IOException {
+    private static List<String> ownersFromCurrent(Path moduleDir, boolean groupOnly) throws IOException {
         SortedSet<String> owners = new TreeSet<>();
         try (DirectoryStream<Path> entries = Files.newDirectoryStream(moduleDir)) {
             for (Path entry : entries) {
                 if (!Files.isRegularFile(entry)) {
                     continue;
                 }
-                if (!isVersionsFile(entry.getFileName().toString())) {
+                if (!isCurrentFile(entry.getFileName().toString())) {
                     continue;
                 }
                 try (Stream<String> lines = Files.lines(entry, StandardCharsets.UTF_8)) {
@@ -153,7 +148,7 @@ public final class ListOwners {
                         if (line.isEmpty()) {
                             return;
                         }
-                        ModuleEntry parsed = ModuleEntry.parse(line);
+                        CurrentEntry parsed = CurrentEntry.parse(line);
                         owners.add(groupOnly
                                 ? parsed.groupId()
                                 : parsed.groupId() + ':' + parsed.artifactId());
@@ -175,20 +170,18 @@ public final class ListOwners {
         System.out.println();
         System.out.println("Writes a SetOwners-compatible properties stream to stdout, listing the current");
         System.out.println("owners of every module under data/modules/ whose dotted name matches any glob.");
+        System.out.println("Owners are read from current.tsv (the resolved view); modules whose current.tsv");
+        System.out.println("is missing or empty are skipped.");
         System.out.println();
         System.out.println("Glob semantics mirror the module-name structure: '*' matches one segment,");
         System.out.println("'**' matches across dots. Example: 'net.bytebuddy.*' matches");
         System.out.println("'net.bytebuddy.agent' but not 'net.bytebuddy.agent.builder'.");
         System.out.println();
-        System.out.println("Per module, owners are sourced from owners.tsv when it exists; otherwise from");
-        System.out.println("the (groupId, artifactId) pairs found in versions[-<classifier>].tsv.");
-        System.out.println();
         System.out.println("Optional system properties:");
         System.out.println("  -D" + PROP_DATA + "=<dir>");
         System.out.println("        Data directory (default 'data').");
         System.out.println("  -D" + PROP_GROUP_ONLY + "=<true|false>");
-        System.out.println("        For modules without an owners.tsv, emit only groupIds (default true).");
-        System.out.println("        Set to false to emit groupId:artifactId pairs derived from versions.tsv.");
+        System.out.println("        Emit only groupIds (default true). Set to false to emit groupId:artifactId pairs.");
         System.out.println("  -D" + PROP_ONLY_MISSING_OWNERS + "=<true|false>");
         System.out.println("        Skip modules that already have an owners.tsv (default false).");
         System.out.println("  -D" + PROP_ONLY_AMBIGUOUS + "=<true|false>");

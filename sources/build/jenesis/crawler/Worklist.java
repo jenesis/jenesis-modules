@@ -40,7 +40,11 @@ public final class Worklist {
                 count++;
             }
         }
-        Files.move(temp, path, StandardCopyOption.REPLACE_EXISTING);
+        try {
+            Files.move(temp, path, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
+        } catch (AtomicMoveNotSupportedException atomicNotSupported) {
+            Files.move(temp, path, StandardCopyOption.REPLACE_EXISTING);
+        }
         return count;
     }
 

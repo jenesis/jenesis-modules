@@ -33,29 +33,24 @@ public final class SetOwners {
         for (Path file : propertyFiles) {
             mergeFrom(file, groupsByModule, pairsByModule);
         }
+        ModuleStore store = new ModuleStore(modulesRoot);
         int cleared = 0;
         int populated = 0;
-        long rowsKept = 0L;
-        long rowsDropped = 0L;
         for (String moduleName : groupsByModule.keySet()) {
             Set<String> groups = groupsByModule.getOrDefault(moduleName, Set.of());
             Set<String> pairs = pairsByModule.getOrDefault(moduleName, Set.of());
-            ApplyResult result = applyOwners(modulesRoot, moduleName, groups, pairs);
+            applyOwners(store, moduleName, groups, pairs);
             if (groups.isEmpty() && pairs.isEmpty()) {
                 cleared++;
             } else {
                 populated++;
             }
-            rowsKept += result.kept();
-            rowsDropped += result.dropped();
             System.out.println(moduleName + ": owners=" + (groups.size() + pairs.size())
-                    + " versions kept=" + result.kept() + " dropped=" + result.dropped());
+                    + " current.tsv regenerated");
         }
         System.out.println("Done. modules touched=" + groupsByModule.size()
                 + " populated=" + populated
-                + " cleared=" + cleared
-                + " rows kept=" + rowsKept
-                + " rows dropped=" + rowsDropped);
+                + " cleared=" + cleared);
     }
 
     private static void mergeFrom(Path file,
@@ -98,86 +93,20 @@ public final class SetOwners {
         }
     }
 
-    private record ApplyResult(long kept, long dropped) {
-    }
-
-    private static ApplyResult applyOwners(Path modulesRoot,
-                                           String moduleName,
-                                           Set<String> groups,
-                                           Set<String> pairs) throws IOException {
-        Path moduleDir = modulesRoot;
-        for (String segment : moduleName.split("\\.", -1)) {
-            moduleDir = moduleDir.resolve(segment);
-        }
-        Files.createDirectories(moduleDir);
-        writeOwners(moduleDir.resolve(ModuleStore.OWNERS_FILE), groups, pairs);
-        long kept = 0L;
-        long dropped = 0L;
-        try (DirectoryStream<Path> entries = Files.newDirectoryStream(moduleDir)) {
-            for (Path entry : entries) {
-                if (!Files.isRegularFile(entry)) {
-                    continue;
-                }
-                String name = entry.getFileName().toString();
-                if (!isVersionsFile(name)) {
-                    continue;
-                }
-                FilterResult result = filterVersions(entry, groups, pairs);
-                kept += result.kept();
-                dropped += result.dropped();
-            }
-        }
-        return new ApplyResult(kept, dropped);
-    }
-
-    private static boolean isVersionsFile(String name) {
-        if (!name.endsWith(ModuleStore.LEAF_FILE_EXTENSION)) {
-            return false;
-        }
-        String stem = name.substring(0, name.length() - ModuleStore.LEAF_FILE_EXTENSION.length());
-        return stem.equals(ModuleStore.LEAF_FILE_BASE)
-                || stem.startsWith(ModuleStore.LEAF_FILE_BASE + '-');
-    }
-
-    private record FilterResult(long kept, long dropped) {
-    }
-
-    private static FilterResult filterVersions(Path file, Set<String> groups, Set<String> pairs) throws IOException {
-        List<String> kept = new ArrayList<>();
-        long dropped = 0L;
-        try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
-            for (String line : (Iterable<String>) lines::iterator) {
-                if (line.isEmpty()) {
-                    continue;
-                }
-                ModuleEntry parsed = ModuleEntry.parse(line);
-                if (groups.contains(parsed.groupId()) || pairs.contains(parsed.groupId() + '\t' + parsed.artifactId())) {
-                    kept.add(line);
-                } else {
-                    dropped++;
-                }
-            }
-        }
-        if (kept.isEmpty()) {
-            Files.deleteIfExists(file);
-        } else {
-            writeAtomic(file, kept);
-        }
-        return new FilterResult(kept.size(), dropped);
+    private static void applyOwners(ModuleStore store, String moduleName, Set<String> groups, Set<String> pairs) throws IOException {
+        Path ownersFile = store.ownersPathFor(moduleName);
+        writeOwners(ownersFile, groups, pairs);
+        store.regenerate(moduleName);
     }
 
     private static void writeOwners(Path file, Set<String> groups, Set<String> pairs) throws IOException {
-        List<String> lines = new ArrayList<>(groups.size() + pairs.size());
-        groups.stream().sorted().forEach(lines::add);
-        pairs.stream().sorted().forEach(lines::add);
-        writeAtomic(file, lines);
-    }
-
-    private static void writeAtomic(Path file, List<String> lines) throws IOException {
         Path parent = file.getParent();
         if (parent != null) {
             Files.createDirectories(parent);
         }
+        List<String> lines = new ArrayList<>(groups.size() + pairs.size());
+        groups.stream().sorted().forEach(lines::add);
+        pairs.stream().sorted().forEach(lines::add);
         Path temp = file.resolveSibling(file.getFileName() + ".tmp");
         try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
             for (String line : lines) {
@@ -197,7 +126,11 @@ public final class SetOwners {
         System.out.println();
         System.out.println("Each properties file maps a module name to a comma-separated list of owners.");
         System.out.println("An owner is either '<groupId>' (any artifact in that group) or '<groupId>:<artifactId>'.");
-        System.out.println("An empty value clears the module's owners (writes an empty owners.tsv and drops all versions).");
+        System.out.println("An empty value clears the module's owners (writes an empty owners.tsv).");
+        System.out.println();
+        System.out.println("For each mentioned module the tool writes owners.tsv and regenerates current.tsv");
+        System.out.println("from the existing versions.tsv. The audit log in versions.tsv is never mutated -");
+        System.out.println("re-running with a different policy is non-destructive.");
         System.out.println();
         System.out.println("Example properties content:");
         System.out.println("  com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core");

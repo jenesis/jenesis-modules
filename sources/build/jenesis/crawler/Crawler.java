@@ -62,6 +62,7 @@ public final class Crawler implements AutoCloseable {
     private final Scanner scanner;
     private final ModuleStore store;
     private final ScannedStore scannedStore;
+    private final DirtyModules dirtyModules;
     private final boolean ownsFetcher;
     private final ConcurrentMap<String, FailureBucket> failures;
     private CheckpointListener checkpointListener;
@@ -72,19 +73,21 @@ public final class Crawler implements AutoCloseable {
                 new Scanner(configuration.tailSize()),
                 new ModuleStore(configuration.dataDir().resolve("modules")),
                 new ScannedStore(configuration.dataDir().resolve("scanned")),
+                new DirtyModules(configuration.dataDir()),
                 true);
     }
 
     public Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, ScannedStore scannedStore) {
-        this(configuration, fetcher, scanner, store, scannedStore, false);
+        this(configuration, fetcher, scanner, store, scannedStore, new DirtyModules(configuration.dataDir()), false);
     }
 
-    private Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, ScannedStore scannedStore, boolean ownsFetcher) {
+    private Crawler(Configuration configuration, Fetcher fetcher, Scanner scanner, ModuleStore store, ScannedStore scannedStore, DirtyModules dirtyModules, boolean ownsFetcher) {
         this.configuration = Objects.requireNonNull(configuration, "configuration");
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.scanner = Objects.requireNonNull(scanner, "scanner");
         this.store = Objects.requireNonNull(store, "store");
         this.scannedStore = Objects.requireNonNull(scannedStore, "scannedStore");
+        this.dirtyModules = Objects.requireNonNull(dirtyModules, "dirtyModules");
         this.ownsFetcher = ownsFetcher;
         this.failures = new ConcurrentHashMap<>();
         this.checkpointListener = CheckpointListener.NOOP;
@@ -198,39 +201,82 @@ public final class Crawler implements AutoCloseable {
         }
         State state = State.load(statePath);
 
-        if (worklist.exists() && state.worklistRecords() > 0L && !state.worklistComplete()) {
-            return runFromFile(worklist, state, statePath);
+        // Only drain leftover dirty entries when no worklist is in flight - otherwise
+        // we'd regenerate current.tsv from partial versions.tsv data, breaking the
+        // "defer publishing until the whole worklist is processed" guarantee.
+        boolean inFlightWorklist = worklist.exists() && state.worklistRecords() > 0L && !state.worklistComplete();
+        if (!inFlightWorklist) {
+            drainDirtyIfPending();
         }
-        if (worklist.exists() && state.worklistRecords() == 0L) {
-            try {
-                Files.delete(worklist.path());
-            } catch (IOException ignored) {
+
+        Result result;
+        if (inFlightWorklist) {
+            result = runFromFile(worklist, state, statePath);
+        } else {
+            if (worklist.exists() && state.worklistRecords() == 0L) {
+                try {
+                    Files.delete(worklist.path());
+                } catch (IOException ignored) {
+                }
             }
+
+            IndexProperties remote = fetchIndexProperties();
+            if (state.hasIndexBaseline()
+                    && Objects.equals(state.indexChainId(), remote.chainId())
+                    && state.indexChunkLastApplied() >= remote.lastIncremental()) {
+                System.out.println("Index already up to date (chain=" + remote.chainId()
+                        + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
+                return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE, Map.of());
+            }
+            boolean incremental = state.hasIndexBaseline()
+                    && Objects.equals(state.indexChainId(), remote.chainId());
+            if (!incremental && state.indexChainId() != null && !state.indexChainId().equals(remote.chainId())) {
+                System.out.println("Index chain rotated from " + state.indexChainId()
+                        + " to " + remote.chainId() + ": performing full sync.");
+            }
+            SyncMode mode = incremental ? SyncMode.INCREMENTAL : SyncMode.FULL;
+            List<URI> indexUris = incremental
+                    ? incrementalChunkUris(state.indexChunkLastApplied() + 1L, remote.lastIncremental())
+                    : List.of(configuration.indexBaseUri().resolve(INDEX_FILE));
+
+            result = runStreaming(worklist, state, statePath, indexUris, remote, mode);
         }
 
-        IndexProperties remote = fetchIndexProperties();
-        if (state.hasIndexBaseline()
-                && Objects.equals(state.indexChainId(), remote.chainId())
-                && state.indexChunkLastApplied() >= remote.lastIncremental()) {
-            System.out.println("Index already up to date (chain=" + remote.chainId()
-                    + ", lastIncremental=" + remote.lastIncremental() + "). Nothing to crawl.");
-            return new Result(0L, 0L, 0L, true, SyncMode.UP_TO_DATE, Map.of());
+        if (result.worklistComplete()) {
+            drainDirty();
+        } else {
+            System.out.println("Worklist not yet complete; deferring current.tsv regeneration ("
+                    + dirtyModules.size() + " module(s) pending).");
         }
-        boolean incremental = state.hasIndexBaseline()
-                && Objects.equals(state.indexChainId(), remote.chainId());
-        if (!incremental && state.indexChainId() != null && !state.indexChainId().equals(remote.chainId())) {
-            System.out.println("Index chain rotated from " + state.indexChainId()
-                    + " to " + remote.chainId() + ": performing full sync.");
-        }
-        SyncMode mode = incremental ? SyncMode.INCREMENTAL : SyncMode.FULL;
-        List<URI> indexUris = incremental
-                ? incrementalChunkUris(state.indexChunkLastApplied() + 1L, remote.lastIncremental())
-                : List.of(configuration.indexBaseUri().resolve(INDEX_FILE));
+        return result;
+    }
 
-        return runStreaming(worklist, state, statePath, indexUris, remote, mode);
+    private void drainDirtyIfPending() throws IOException {
+        if (dirtyModules.isEmpty()) {
+            return;
+        }
+        System.out.println("Resuming current.tsv regeneration from previous run ("
+                + dirtyModules.size() + " module(s) pending).");
+        drainDirty();
+    }
+
+    private void drainDirty() throws IOException {
+        if (dirtyModules.isEmpty()) {
+            return;
+        }
+        int total = dirtyModules.size();
+        System.out.println("Regenerating current.tsv for " + total + " module(s)...");
+        long progress = 0L;
+        for (String moduleName : dirtyModules.snapshot()) {
+            store.regenerate(moduleName);
+            dirtyModules.remove(moduleName);
+            progress++;
+        }
+        System.out.println("current.tsv regeneration complete: " + progress + " module(s).");
     }
 
     private void discardInflight(Path statePath, Worklist worklist) throws IOException {
+        dirtyModules.clear();
         Path streamingWorklist = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
         boolean removedAnything = false;
         for (Path path : List.of(statePath, worklist.path(), streamingWorklist)) {
@@ -408,6 +454,7 @@ public final class Crawler implements AutoCloseable {
                             }
                             if (recorded) {
                                 modular++;
+                                dirtyModules.add(module.name());
                             }
                         }
                         scannedStore.mark(coordinate);

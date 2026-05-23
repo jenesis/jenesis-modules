@@ -43,10 +43,11 @@ public class ListOwnersTest {
     }
 
     @Test
-    public void derives_group_ids_only_from_versions_by_default() throws IOException {
-        writeVersions("com.example.lib", null, """
-                1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z
-                0.9\tnamed\thostile.group\timposter\t2024-06-01T00:00:00Z
+    public void emits_group_ids_only_from_current_tsv_by_default() throws IOException {
+        // current.tsv has multiple groupIds (because owners.tsv allowed several); listing collapses to groupIds.
+        writeCurrent("com.example.lib", null, """
+                1.0\tnamed\tcom.example\tlib
+                0.9\tnamed\thostile.group\timposter
                 """);
 
         ListOwners.main(new String[]{"com.example.*"});
@@ -58,9 +59,9 @@ public class ListOwnersTest {
     @Test
     public void includes_artifact_ids_when_group_only_disabled() throws IOException {
         System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
-        writeVersions("com.example.lib", null, """
-                1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z
-                0.9\tnamed\thostile.group\timposter\t2024-06-01T00:00:00Z
+        writeCurrent("com.example.lib", null, """
+                1.0\tnamed\tcom.example\tlib
+                0.9\tnamed\thostile.group\timposter
                 """);
 
         ListOwners.main(new String[]{"com.example.*"});
@@ -70,14 +71,25 @@ public class ListOwnersTest {
     }
 
     @Test
+    public void skips_modules_with_owners_tsv_when_only_missing_set() throws IOException {
+        System.setProperty(ListOwners.PROP_ONLY_MISSING_OWNERS, "true");
+        Path withOwners = writeCurrent("com.example.has", null, "1.0\tnamed\tcom.example\thas\n");
+        Files.writeString(withOwners.resolve("owners.tsv"), "com.example\thas\n");
+        writeCurrent("com.example.lacks", null, "1.0\tnamed\tcom.example\tlacks\n");
+
+        ListOwners.main(new String[]{"com.example.*"});
+
+        assertThat(capturedLines())
+                .containsExactly("com.example.lacks=com.example");
+    }
+
+    @Test
     public void only_ambiguous_keeps_modules_with_more_than_one_owner() throws IOException {
         System.setProperty(ListOwners.PROP_ONLY_AMBIGUOUS, "true");
-        // Single-owner module - filtered out under default group-only.
-        writeVersions("solo.module", null, "1.0\tnamed\tsolo.example\tlib\t2024-01-01T00:00:00Z\n");
-        // Two distinct groupIds - kept.
-        writeVersions("contested.module", null, """
-                1.0\tnamed\tcanonical.org\tcontested\t2024-01-01T00:00:00Z
-                1.0\tnamed\thostile.org\tcontested\t2024-06-01T00:00:00Z
+        writeCurrent("solo.module", null, "1.0\tnamed\tsolo.example\tlib\n");
+        writeCurrent("contested.module", null, """
+                1.0\tnamed\tcanonical.org\tcontested
+                1.0\tnamed\thostile.org\tcontested
                 """);
 
         ListOwners.main(new String[]{"**"});
@@ -87,61 +99,9 @@ public class ListOwnersTest {
     }
 
     @Test
-    public void only_ambiguous_respects_group_only_dedup() throws IOException {
-        System.setProperty(ListOwners.PROP_ONLY_AMBIGUOUS, "true");
-        // Two artifacts under the same group - dedupes to one entry under group-only, filtered out.
-        writeVersions("monogroup.module", null, """
-                1.0\tnamed\tone.org\tartifact-a\t2024-01-01T00:00:00Z
-                1.0\tnamed\tone.org\tartifact-b\t2024-01-01T00:00:00Z
-                """);
-
-        ListOwners.main(new String[]{"**"});
-
-        assertThat(capturedLines()).isEmpty();
-
-        captured.reset();
-        // Same data, but now we DO want artifact-level granularity.
-        System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
-        ListOwners.main(new String[]{"**"});
-
-        assertThat(capturedLines())
-                .containsExactly("monogroup.module=one.org:artifact-a,one.org:artifact-b");
-    }
-
-    @Test
-    public void skips_modules_with_owners_tsv_when_only_missing_set() throws IOException {
-        System.setProperty(ListOwners.PROP_ONLY_MISSING_OWNERS, "true");
-        Path withOwners = writeVersions("com.example.has", null, "1.0\tnamed\tcom.example\thas\t2024-01-01T00:00:00Z\n");
-        Files.writeString(withOwners.resolve("owners.tsv"), "com.example\thas\n");
-        writeVersions("com.example.lacks", null, "1.0\tnamed\tcom.example\tlacks\t2024-01-01T00:00:00Z\n");
-
-        ListOwners.main(new String[]{"com.example.*"});
-
-        assertThat(capturedLines())
-                .containsExactly("com.example.lacks=com.example");
-    }
-
-    @Test
-    public void prefers_owners_file_when_present_using_colon_separator() throws IOException {
-        Path moduleDir = writeVersions("com.example.lib", null, """
-                1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z
-                1.0\tnamed\thostile.group\timposter\t2024-06-01T00:00:00Z
-                """);
-        Files.writeString(moduleDir.resolve("owners.tsv"), """
-                com.example\tlib
-                trusted.group
-                """);
-
-        ListOwners.main(new String[]{"com.example.*"});
-
-        assertThat(capturedLines())
-                .containsExactly("com.example.lib=com.example:lib,trusted.group");
-    }
-
-    @Test
     public void single_star_does_not_cross_dots_but_double_star_does() throws IOException {
-        writeVersions("net.bytebuddy.agent", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\t2024-01-01T00:00:00Z\n");
-        writeVersions("net.bytebuddy.agent.builder", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\t2024-01-01T00:00:00Z\n");
+        writeCurrent("net.bytebuddy.agent", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
+        writeCurrent("net.bytebuddy.agent.builder", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
 
         ListOwners.main(new String[]{"net.bytebuddy.*"});
         assertThat(capturedLines())
@@ -157,8 +117,8 @@ public class ListOwnersTest {
     @Test
     public void merges_owners_across_classifier_variants() throws IOException {
         System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
-        writeVersions("classy.module", null, "1.0\tnamed\torg.canonical\tlib\t2024-01-01T00:00:00Z\n");
-        writeVersions("classy.module", "jakarta", "1.0\tnamed\torg.canonical\tlib-jakarta\t2024-01-01T00:00:00Z\n");
+        writeCurrent("classy.module", null, "1.0\tnamed\torg.canonical\tlib\n");
+        writeCurrent("classy.module", "jakarta", "1.0\tnamed\torg.canonical\tlib-jakarta\n");
 
         ListOwners.main(new String[]{"classy.*"});
 
@@ -167,21 +127,10 @@ public class ListOwnersTest {
     }
 
     @Test
-    public void empty_owners_file_emits_empty_value() throws IOException {
-        Path moduleDir = writeVersions("com.example.cleared", null, "1.0\tnamed\tcom.example\tcleared\t2024-01-01T00:00:00Z\n");
-        Files.writeString(moduleDir.resolve("owners.tsv"), "");
-
-        ListOwners.main(new String[]{"com.example.*"});
-
-        assertThat(capturedLines())
-                .containsExactly("com.example.cleared=");
-    }
-
-    @Test
     public void output_is_alphabetised_by_module_name() throws IOException {
-        writeVersions("z.alpha", null, "1.0\tnamed\tz.example\tlib\t2024-01-01T00:00:00Z\n");
-        writeVersions("a.alpha", null, "1.0\tnamed\ta.example\tlib\t2024-01-01T00:00:00Z\n");
-        writeVersions("m.alpha", null, "1.0\tnamed\tm.example\tlib\t2024-01-01T00:00:00Z\n");
+        writeCurrent("z.alpha", null, "1.0\tnamed\tz.example\tlib\n");
+        writeCurrent("a.alpha", null, "1.0\tnamed\ta.example\tlib\n");
+        writeCurrent("m.alpha", null, "1.0\tnamed\tm.example\tlib\n");
 
         ListOwners.main(new String[]{"*.alpha"});
 
@@ -193,8 +142,8 @@ public class ListOwnersTest {
 
     @Test
     public void skips_modules_outside_glob() throws IOException {
-        writeVersions("included.lib", null, "1.0\tnamed\ti.example\tlib\t2024-01-01T00:00:00Z\n");
-        writeVersions("excluded.lib", null, "1.0\tnamed\te.example\tlib\t2024-01-01T00:00:00Z\n");
+        writeCurrent("included.lib", null, "1.0\tnamed\ti.example\tlib\n");
+        writeCurrent("excluded.lib", null, "1.0\tnamed\te.example\tlib\n");
 
         ListOwners.main(new String[]{"included.*"});
 
@@ -202,15 +151,27 @@ public class ListOwnersTest {
                 .containsExactly("included.lib=i.example");
     }
 
-    private Path writeVersions(String moduleName, String classifier, String content) throws IOException {
+    @Test
+    public void skips_modules_with_no_current_tsv() throws IOException {
+        // versions.tsv exists but current.tsv is missing (e.g. stage 2 hasn't run yet).
+        Path dir = modulesRoot.resolve("pending").resolve("module");
+        Files.createDirectories(dir);
+        Files.writeString(dir.resolve("versions.tsv"), "1.0\tnamed\tx.org\tlib\t2024-01-01T00:00:00Z\n");
+
+        ListOwners.main(new String[]{"pending.*"});
+
+        assertThat(capturedLines()).isEmpty();
+    }
+
+    private Path writeCurrent(String moduleName, String classifier, String content) throws IOException {
         Path dir = modulesRoot;
         for (String segment : moduleName.split("\\.", -1)) {
             dir = dir.resolve(segment);
         }
         Files.createDirectories(dir);
         String file = classifier == null
-                ? "versions.tsv"
-                : "versions-" + classifier + ".tsv";
+                ? "current.tsv"
+                : "current-" + classifier + ".tsv";
         Files.writeString(dir.resolve(file), content);
         return dir;
     }
