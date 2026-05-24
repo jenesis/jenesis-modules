@@ -116,10 +116,13 @@ public final class Crawler implements AutoCloseable {
      * the same input) from transient failures (network, server, timeout) that may succeed
      * on a later run.
      *
-     * Permanent: any {@link IllegalArgumentException} in the cause chain (the scanner
-     * raises these for malformed ZIPs and invalid module-info contents), or HTTP 404/410
-     * (the artifact is not / no longer present at the URL we computed). Everything else
-     * - including HTTP 5xx, timeouts, and generic IOException - is treated as transient.
+     * Permanent: any {@link IllegalArgumentException}, {@link InvalidModuleDescriptorException},
+     * or {@link java.util.zip.ZipException} in the cause chain (the scanner raises these for
+     * malformed ZIPs and invalid module-info contents); HTTP 404/410 (the artifact is not /
+     * no longer present at the URL we computed); or any cause whose message contains one of
+     * {@link #PERMANENT_MESSAGE_FRAGMENTS} (intrinsic JAR-parsing errors that the JDK surfaces
+     * as plain {@link IOException}). Everything else - including HTTP 5xx, timeouts, and
+     * generic IOException without a known intrinsic-message fragment - is treated as transient.
      */
     private static boolean isNotFound(Throwable error) {
         String message = error == null ? null : error.getMessage();
@@ -134,12 +137,34 @@ public final class Crawler implements AutoCloseable {
         return false;
     }
 
+    /**
+     * Message fragments that, when found anywhere in a failure's cause chain, classify the
+     * failure as intrinsic to the artifact (permanent). Used when the JDK surfaces an
+     * intrinsic JAR-parsing problem as a plain {@link IOException} instead of a more specific
+     * exception type. Grown from observation: add new fragments here as future runs surface
+     * recurring intrinsic-failure messages that aren't already covered by the type checks.
+     */
+    private static final List<String> PERMANENT_MESSAGE_FRAGMENTS = List.of(
+            // java.util.jar.Manifest.parse() chokes on malformed MANIFEST.MF content
+            "invalid header field"
+    );
+
     private static boolean isPermanentFailure(Throwable error) {
         Throwable current = error;
         Set<Throwable> seen = new HashSet<>();
         while (current != null && seen.add(current)) {
-            if (current instanceof IllegalArgumentException) {
+            if (current instanceof IllegalArgumentException
+                    || current instanceof InvalidModuleDescriptorException
+                    || current instanceof java.util.zip.ZipException) {
                 return true;
+            }
+            String currentMessage = current.getMessage();
+            if (currentMessage != null) {
+                for (String fragment : PERMANENT_MESSAGE_FRAGMENTS) {
+                    if (currentMessage.contains(fragment)) {
+                        return true;
+                    }
+                }
             }
             current = current.getCause();
         }
