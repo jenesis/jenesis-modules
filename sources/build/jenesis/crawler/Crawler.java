@@ -27,7 +27,7 @@ public final class Crawler implements AutoCloseable {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
         public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(160L);
-        public static final int DEFAULT_CONCURRENCY = 32;
+        public static final int DEFAULT_CONCURRENCY = 64;
         public static final long DEFAULT_CHECKPOINT_EVERY = 2000L;
         public static final Path DEFAULT_DATA_DIR = Path.of("data");
         public static final boolean DEFAULT_RESUME = true;
@@ -500,13 +500,13 @@ public final class Crawler implements AutoCloseable {
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
         // Periodic diagnostic so a hung or slow run is visible without attaching jcmd. The
         // ticker fires on the producer thread once per WorklistStream.DEFAULT_LOG_EVERY-aligned
-        // window; we emit a [diag] line every fifth tick.
+        // window; we emit a [status] line every fifth tick.
         LongConsumer onProgressTick = recordsSeen -> {
             if (recordsSeen % 50_000L == 0L) {
                 Runtime rt = Runtime.getRuntime();
                 long heapUsedMB = (rt.totalMemory() - rt.freeMemory()) / (1024L * 1024L);
                 long heapMaxMB = rt.maxMemory() / (1024L * 1024L);
-                System.out.println("[diag] heapUsedMB=" + heapUsedMB + "/" + heapMaxMB
+                System.out.println("[status] heapUsedMB=" + heapUsedMB + "/" + heapMaxMB
                         + " scannedDirty=" + scannedStore.pendingArtifacts()
                         + " moduleDirty=" + store.pendingFiles()
                         + " dirtyModules=" + dirtyModules.size());

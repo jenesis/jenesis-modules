@@ -113,7 +113,7 @@ public final class WorklistStream implements AutoCloseable {
 
     private void streamIndex(URI uri, BufferedWriter writer) throws IOException, InterruptedException {
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
-        System.out.println("[index-producer] Index source " + uri + " HTTP Range support: "
+        System.out.println("[index] Index source " + uri + " HTTP Range support: "
                 + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
         if (rangeSupported) {
             try (InputStream raw = fetcher.resumableGet(uri);
@@ -136,7 +136,7 @@ public final class WorklistStream implements AutoCloseable {
                 lastError = e;
                 long progressed = recordsProduced.get() - beforeAttempt;
                 if (progressed > 0L) {
-                    System.err.println("[index-producer] stream failed after " + progressed + " records emitted: "
+                    System.err.println("[index] stream failed after " + progressed + " records emitted: "
                             + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + ". Resetting backoff and retrying in " + DEFAULT_INITIAL_BACKOFF.toMillis() + " ms.");
                     backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
@@ -146,7 +146,7 @@ public final class WorklistStream implements AutoCloseable {
                     if (consecutiveFailures >= DEFAULT_STREAM_ATTEMPTS) {
                         break;
                     }
-                    System.err.println("[index-producer] stream failed without progress (attempt " + consecutiveFailures
+                    System.err.println("[index] stream failed without progress (attempt " + consecutiveFailures
                             + "/" + DEFAULT_STREAM_ATTEMPTS + ") for " + uri + " ("
                             + e.getClass().getSimpleName() + ": " + e.getMessage()
                             + "). Retrying in " + backoffMillis + " ms.");
@@ -171,6 +171,9 @@ public final class WorklistStream implements AutoCloseable {
     private void streamRecords(IndexReader reader, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
         long passed = 0L;
         long recordsSeen = 0L;
+        long unparseable = 0L;
+        long filtered = 0L;
+        long behind = 0L;
         long startNanos = System.nanoTime();
         Map<String, String> record;
         while ((record = reader.nextRecord()) != null) {
@@ -184,18 +187,23 @@ public final class WorklistStream implements AutoCloseable {
                 long elapsedSeconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNanos);
                 long produced = recordsProduced.get();
                 long rate = elapsedSeconds > 0L ? recordsSeen / elapsedSeconds : recordsSeen;
-                System.out.println("[index-producer] seen=" + recordsSeen + " queued=" + produced
-                        + " inQueue=" + queue.size() + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s");
+                System.out.println("[index] seen=" + recordsSeen + " queued=" + produced
+                        + " inQueue=" + queue.size()
+                        + " unparseable=" + unparseable + " filtered=" + filtered + " behind=" + behind
+                        + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s");
             }
             Optional<Coordinate> coordinate = Coordinate.from(record);
             if (coordinate.isEmpty()) {
+                unparseable++;
                 continue;
             }
             Coordinate candidate = coordinate.get();
             if (!filter.test(candidate)) {
+                filtered++;
                 continue;
             }
             if (passed < skipTarget) {
+                behind++;
                 passed++;
                 continue;
             }
