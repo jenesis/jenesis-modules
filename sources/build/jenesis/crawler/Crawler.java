@@ -27,7 +27,7 @@ public final class Crawler implements AutoCloseable {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
         public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(160L);
-        public static final int DEFAULT_CONCURRENCY = 16;
+        public static final int DEFAULT_CONCURRENCY = 32;
         public static final long DEFAULT_CHECKPOINT_EVERY = 2000L;
         public static final Path DEFAULT_DATA_DIR = Path.of("data");
         public static final boolean DEFAULT_RESUME = true;
