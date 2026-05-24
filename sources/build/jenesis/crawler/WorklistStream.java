@@ -20,7 +20,7 @@ public final class WorklistStream implements AutoCloseable {
         }
     }
 
-    private final Path tempFile;
+    private final Worklist worklist;
     private final BlockingQueue<QueueItem> queue;
     private final Fetcher fetcher;
     private final Predicate<Coordinate> filter;
@@ -28,22 +28,23 @@ public final class WorklistStream implements AutoCloseable {
     private final AtomicReference<IOException> producerError;
     private final AtomicLong recordsProduced;
     private final AtomicBoolean completed;
+    private volatile Worklist.ShardedWriter writer;
     private volatile Thread producer;
 
-    public WorklistStream(Path tempFile, Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(tempFile, DEFAULT_QUEUE_CAPACITY, fetcher, filter, _ -> {});
+    public WorklistStream(Worklist worklist, Fetcher fetcher, Predicate<Coordinate> filter) {
+        this(worklist, DEFAULT_QUEUE_CAPACITY, fetcher, filter, _ -> {});
     }
 
-    public WorklistStream(Path tempFile, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this(tempFile, DEFAULT_QUEUE_CAPACITY, fetcher, filter, onProgressTick);
+    public WorklistStream(Worklist worklist, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
+        this(worklist, DEFAULT_QUEUE_CAPACITY, fetcher, filter, onProgressTick);
     }
 
-    public WorklistStream(Path tempFile, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(tempFile, queueCapacity, fetcher, filter, _ -> {});
+    public WorklistStream(Worklist worklist, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter) {
+        this(worklist, queueCapacity, fetcher, filter, _ -> {});
     }
 
-    public WorklistStream(Path tempFile, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this.tempFile = Objects.requireNonNull(tempFile, "tempFile");
+    public WorklistStream(Worklist worklist, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
+        this.worklist = Objects.requireNonNull(worklist, "worklist");
         this.queue = new ArrayBlockingQueue<>(queueCapacity);
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.filter = Objects.requireNonNull(filter, "filter");
@@ -53,8 +54,8 @@ public final class WorklistStream implements AutoCloseable {
         this.completed = new AtomicBoolean(false);
     }
 
-    public Path tempFile() {
-        return tempFile;
+    public Worklist worklist() {
+        return worklist;
     }
 
     public BlockingQueue<QueueItem> queue() {
@@ -73,27 +74,25 @@ public final class WorklistStream implements AutoCloseable {
         return recordsProduced.get();
     }
 
+    public List<Worklist.Shard> shards() {
+        Worklist.ShardedWriter w = writer;
+        return w == null ? List.of() : w.shards();
+    }
+
     public void start(List<URI> indexUris) throws IOException {
-        Path parent = tempFile.getParent();
-        if (parent != null) {
-            Files.createDirectories(parent);
-        }
-        Files.deleteIfExists(tempFile);
+        worklist.clear();
         producer = Thread.ofVirtual()
                 .name("worklist-stream-producer")
                 .start(() -> producerLoop(List.copyOf(indexUris)));
     }
 
     private void producerLoop(List<URI> indexUris) {
-        try (BufferedWriter writer = Files.newBufferedWriter(tempFile,
-                StandardCharsets.UTF_8,
-                StandardOpenOption.CREATE,
-                StandardOpenOption.TRUNCATE_EXISTING,
-                StandardOpenOption.WRITE)) {
+        try (Worklist.ShardedWriter shardedWriter = worklist.openWriter()) {
+            this.writer = shardedWriter;
             for (URI uri : indexUris) {
-                streamIndex(uri, writer);
+                streamIndex(uri, shardedWriter);
             }
-            writer.flush();
+            shardedWriter.flush();
             completed.set(true);
         } catch (IOException e) {
             producerError.set(e);
@@ -111,7 +110,7 @@ public final class WorklistStream implements AutoCloseable {
         }
     }
 
-    private void streamIndex(URI uri, BufferedWriter writer) throws IOException, InterruptedException {
+    private void streamIndex(URI uri, Worklist.ShardedWriter writer) throws IOException, InterruptedException {
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
         System.out.println("[discovery] Index source " + uri + " HTTP Range support: "
                 + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
@@ -160,7 +159,7 @@ public final class WorklistStream implements AutoCloseable {
         throw lastError;
     }
 
-    private void streamIndexOnce(URI uri, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
+    private void streamIndexOnce(URI uri, Worklist.ShardedWriter writer, long skipTarget) throws IOException, InterruptedException {
         try (InputStream raw = fetcher.get(uri);
              GZIPInputStream gzipped = new GZIPInputStream(raw);
              IndexReader reader = new IndexReader(gzipped)) {
@@ -168,7 +167,7 @@ public final class WorklistStream implements AutoCloseable {
         }
     }
 
-    private void streamRecords(IndexReader reader, BufferedWriter writer, long skipTarget) throws IOException, InterruptedException {
+    private void streamRecords(IndexReader reader, Worklist.ShardedWriter writer, long skipTarget) throws IOException, InterruptedException {
         long passed = 0L;
         long recordsSeen = 0L;
         long unparseable = 0L;
@@ -208,8 +207,7 @@ public final class WorklistStream implements AutoCloseable {
                 continue;
             }
             String line = Worklist.format(candidate);
-            writer.write(line);
-            writer.write('\n');
+            writer.writeLine(line);
             long sequence = recordsProduced.incrementAndGet();
             queue.put(new QueueItem(candidate, sequence));
             passed++;

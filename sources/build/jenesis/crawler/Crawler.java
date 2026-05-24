@@ -8,7 +8,8 @@ public final class Crawler implements AutoCloseable {
     public static final String INDEX_PROPERTIES_FILE = "nexus-maven-repository-index.properties";
     public static final String INCREMENTAL_PREFIX = "nexus-maven-repository-index.";
     public static final String INCREMENTAL_SUFFIX = ".gz";
-    public static final String STREAMING_SUFFIX = ".streaming";
+    private static final String LEGACY_WORKLIST_FILE = "worklist.tsv";
+    private static final String LEGACY_WORKLIST_STREAMING_FILE = "worklist.tsv.streaming";
 
     public static final Set<String> SKIPPED_CLASSIFIERS = Set.of(
             "sources", "javadoc", "tests", "test-sources", "cyclonedx"
@@ -250,7 +251,8 @@ public final class Crawler implements AutoCloseable {
     public Result run() throws IOException {
         verifyRobotsTxt();
         Path statePath = configuration.dataDir().resolve("state.properties");
-        Worklist worklist = new Worklist(configuration.dataDir().resolve("worklist.tsv"));
+        Worklist worklist = new Worklist(configuration.dataDir().resolve("worklist"));
+        cleanupLegacyWorklistFiles();
         if (!configuration.resume()) {
             discardInflight(statePath, worklist);
         }
@@ -286,7 +288,7 @@ public final class Crawler implements AutoCloseable {
             drainDirty();
         } else if (worklist.exists() && state.worklistRecords() == 0L) {
             try {
-                Files.delete(worklist.path());
+                worklist.clear();
             } catch (IOException _) {
             }
         }
@@ -503,16 +505,24 @@ public final class Crawler implements AutoCloseable {
 
     private void discardInflight(Path statePath, Worklist worklist) throws IOException {
         dirtyModules.clear();
-        Path streamingWorklist = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
-        boolean removedAnything = false;
-        for (Path path : List.of(statePath, worklist.path(), streamingWorklist)) {
-            if (Files.deleteIfExists(path)) {
-                removedAnything = true;
+        boolean removedAnything = Files.deleteIfExists(statePath);
+        if (worklist.exists() || Files.exists(worklist.dir())) {
+            worklist.clear();
+            try {
+                Files.deleteIfExists(worklist.dir());
+            } catch (DirectoryNotEmptyException _) {
             }
+            removedAnything = true;
         }
         System.out.println(removedAnything
                 ? "[info] Resume disabled: discarded existing state and worklist; starting fresh."
                 : "[info] Resume disabled: no existing state to discard.");
+    }
+
+    private void cleanupLegacyWorklistFiles() throws IOException {
+        Path dataDir = configuration.dataDir();
+        Files.deleteIfExists(dataDir.resolve(LEGACY_WORKLIST_FILE));
+        Files.deleteIfExists(dataDir.resolve(LEGACY_WORKLIST_STREAMING_FILE));
     }
 
     private void verifyRobotsTxt() throws IOException {
@@ -573,7 +583,6 @@ public final class Crawler implements AutoCloseable {
                                       IndexProperties remote,
                                       SyncMode mode) throws IOException {
         System.out.println("[info] Streaming " + mode + " sync from " + indexUri);
-        Path tempFile = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
         State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
         streamingState.save(statePath);
 
@@ -592,7 +601,7 @@ public final class Crawler implements AutoCloseable {
                         + " dirtyModules=" + dirtyModules.size());
             }
         };
-        try (WorklistStream stream = new WorklistStream(tempFile, fetcher, producerFilter, onProgressTick)) {
+        try (WorklistStream stream = new WorklistStream(worklist, fetcher, producerFilter, onProgressTick)) {
             stream.start(List.of(indexUri));
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
@@ -607,15 +616,15 @@ public final class Crawler implements AutoCloseable {
                                 + ": " + error.getMessage()
                                 + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
                     }
-                    Files.deleteIfExists(tempFile);
+                    worklist.clear();
                     return result;
                 }
                 if (stream.completed()) {
-                    finalizeStreamedWorklist(worklist, tempFile, statePath, stream);
+                    finalizeStreamedWorklist(worklist, statePath, stream);
                     return new Result(result.processed(), result.named(), result.automatic(), result.failed(),
                             State.load(statePath).worklistComplete(), mode, result.failureBreakdown());
                 }
-                Files.deleteIfExists(tempFile);
+                worklist.clear();
                 System.out.println("[info] Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
                 return result;
             }
@@ -626,21 +635,16 @@ public final class Crawler implements AutoCloseable {
     }
 
     private void finalizeStreamedWorklist(Worklist worklist,
-                                          Path tempFile,
                                           Path statePath,
                                           WorklistStream stream) throws IOException {
-        Path target = worklist.path();
-        try {
-            Files.move(tempFile, target, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
-        } catch (AtomicMoveNotSupportedException atomicNotSupported) {
-            Files.move(tempFile, target, StandardCopyOption.REPLACE_EXISTING);
-        }
+        worklist.writeManifest(stream.shards());
         State state = State.load(statePath);
         State updated = state
                 .withWorklist(stream.recordsProduced(), state.sweepStartedAt())
                 .withPosition(state.worklistPosition());
         updated.save(statePath);
-        System.out.println("[info] Sync complete: " + stream.recordsProduced() + " records at " + target);
+        System.out.println("[info] Sync complete: " + stream.recordsProduced() + " records across "
+                + stream.shards().size() + " shard(s) at " + worklist.dir());
     }
 
     private Result process(BatchSource source,

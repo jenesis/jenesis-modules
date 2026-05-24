@@ -11,7 +11,11 @@ A modular Java program that crawls Maven Central and records the Java module nam
 data/
 ├── STATUS.md                     # live progress snapshot, rewritten every checkpoint
 ├── state.properties              # crawler resume point (index chain, position, etc.)
-├── worklist.tsv                  # current sweep's pending coordinates (if any)
+├── worklist/                     # current sweep's pending coordinates, sharded (if any)
+│   ├── manifest.tsv              #   - commit marker; written atomically when sync finishes
+│   ├── 000000.tsv                #   - shard 0 (up to 100,000 records)
+│   ├── 000001.tsv
+│   └── ...
 ├── modules/                      # per-module version history (what consumers care about)
 │   ├── com/fasterxml/jackson/core/versions.tsv
 │   ├── com/fasterxml/jackson/core/versions-no_aopalliance.tsv
@@ -254,7 +258,7 @@ Optional system properties:
 | `jenesis.crawler.tail.size` | `65536` | Bytes range-fetched from the end of each JAR. |
 | `jenesis.crawler.small.jar.threshold` | `262144` | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |
 | `jenesis.crawler.checkpoint.every` | `2000` | Coordinates between on-disk checkpoints. |
-| `jenesis.crawler.resume` | `true` | When `false`, deletes `state.properties` and any `worklist.tsv[.streaming]` before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
+| `jenesis.crawler.resume` | `true` | When `false`, deletes `state.properties` and the `data/worklist/` directory before starting, so the next run begins a fresh streaming sync. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
 | `jenesis.crawler.reprocess.failed` | `false` | When `true`, coordinates whose previous scan ended in a permanent failure (malformed JAR, HTTP 404/410) are treated as un-scanned and re-fetched on this run. Useful after a scanner bug fix; leave at `false` for normal operation so chronically broken artifacts are not refetched on every run. |
 | `jenesis.crawler.allow.rebaseline` | `false` | When the crawler falls behind Central's incremental retention window (~30 entries) the next incremental fetch 404s. By default the crawler fails fast and points at this property. Set `true` to reset the index baseline and re-FULL on the next iteration; `data/` is preserved, and `ScannedStore` short-circuits every already-scanned coordinate, so the recovery sweep is fast. |
 | `jenesis.crawler.git.publish` | `false` | When `true`, commit + push checkpoints inline. |
@@ -268,7 +272,7 @@ Optional system properties:
    - **Full**: first run, or the chain id has rotated. Stream the full Lucene index.
    - **Incremental**: chain id unchanged and there are new chunks. Stream only the new incremental chunks.
    - **Up to date**: nothing new published. Exit immediately.
-3. The producer reads the index and emits filtered coordinates onto a bounded queue while writing them to `worklist.tsv.streaming` on disk. Two filters run at the producer:
+3. The producer reads the index and emits filtered coordinates onto a bounded queue while writing them to sharded files under `data/worklist/` on disk (rotating every 100,000 records to keep each shard well under GitHub's 100 MB file limit). Two filters run at the producer:
    - **Extension**: only `jar` artifacts, dropping `sources`, `javadoc`, `tests`, etc. classifiers.
    - **Already scanned**: the in-memory `ScannedStore` (loaded from `data/scanned/`) rejects coordinates we've seen before, so those JARs are never fetched again.
 4. The scanner consumes from the queue concurrently. For each coordinate it either fetches the whole small JAR in one ranged GET, or fetches the central-directory tail and then ranges the specific entry it needs. Detection order:
@@ -277,7 +281,7 @@ Optional system properties:
    3. `META-INF/MANIFEST.MF` with `Automatic-Module-Name` → `automatic`.
    4. Otherwise no record is written.
 5. On every checkpoint (default every 2000 coordinates): flush module entries into the `versions.tsv` audit log, update the scanned-coordinate index, save `state.properties`, rewrite `STATUS.md`, and (when `-Djenesis.crawler.git.publish=true`) commit + push. **After the first FULL pass has completed and a baseline exists** (`state.indexChunkLastApplied >= 0`), each module whose `versions.tsv` was touched in this sweep is also recorded in `data/dirty-modules.tsv` so stage 2 below knows what to regenerate. During the first FULL pass itself the dirty list is suppressed — a first sweep touches ~every module in Maven Central, so writing a per-module marker would balloon the file for no benefit (stage 2 handles the first pass wholesale, below).
-6. On clean sync completion `worklist.tsv.streaming` is renamed to `worklist.tsv` and the index chain watermark advances. On budget-truncated sync the streaming file is discarded and the next run re-syncs - module entries already recorded and the scanned-coordinate index are preserved.
+6. On clean sync completion `data/worklist/manifest.tsv` is written atomically — its presence is the "this sweep is committed" marker that lets stage 2 proceed. On budget-truncated sync the shard files are discarded (no manifest is written) and the next run re-syncs - module entries already recorded and the scanned-coordinate index are preserved.
 
 **Stage 2 (resolve).** Only after the worklist is fully processed does the crawler regenerate `current.tsv`. Deferring this avoids publishing a freshly-seen `(groupId, artifactId)` as the implicit owner of a module name when an *older* publisher of the same name might still be queued in the worklist (a real concern on first-pass full syncs). Two flows:
 
@@ -286,19 +290,19 @@ Optional system properties:
 
 A crash mid-stage-1 leaves stage 2 pending, but the next run notices the worklist is still in flight and continues stage 1 first - so `current.tsv` is never built from partial data.
 
-A run stops when its wall-clock budget expires or the worklist is exhausted. The next run picks up by either resuming the existing `worklist.tsv` (sync had completed), or re-syncing the index but skipping every coordinate already in `data/scanned/`.
+A run stops when its wall-clock budget expires or the worklist is exhausted. The next run picks up by either resuming the existing `data/worklist/` (if its `manifest.tsv` is present, meaning sync had completed), or re-syncing the index but skipping every coordinate already in `data/scanned/`.
 
 ### Crash safety
 
 The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine reboot) at any moment leaves on-disk state such that the next run resumes correctly and never loses a recorded artifact. The properties that make this work:
 
-1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `current[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `worklist.tsv`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write.
+1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `current[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `data/worklist/manifest.tsv`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write. The individual shard files under `data/worklist/` are append-only during streaming and become "live" only once the manifest is committed.
 2. **`versions.tsv` is flushed before `scanned.tsv` at every checkpoint.** This is the load-bearing invariant: every coordinate marked as "scanned" on disk has, by construction, already had its module declaration committed to the audit log. After any crash, re-scanning a coordinate is a no-op (the audit-log entry is idempotent via the in-memory `TreeSet`), but losing a coordinate is impossible.
 3. **`state.properties` is saved last in a checkpoint**, after both the audit log and the scanned index. If we crash after saving the audit log/scanned marks but before saving state, the next run starts from an older position - it will reprocess the same coordinates and end up with the same data, because the producer filter skips anything in `scanned/`.
 4. **`dirty-modules.tsv` (only maintained after the first baseline) is persisted at the moment a row is added.** It can therefore be *ahead* of `versions.tsv` (one record-then-flush window). That is intentional: if we crash with a dirty name whose audit-log entry isn't yet on disk, the next run re-scans the coordinate, the entry lands in `versions.tsv` on the next flush, and stage 2 regenerates correctly. The dirty list is only drained when the worklist is *not* in flight, so stage 2 never builds `current.tsv` from a partial audit log. During the very first FULL pass the dirty list is suppressed entirely — first-pass stage 2 uses a tree walk (existence of `current*.tsv` is the resumption marker) instead of a dirty list, so the same "no partial publish" guarantee holds via a different mechanism.
 5. **Stage 2 (`regenerate(moduleName)`) is idempotent.** It reads `versions.tsv` and `owners.tsv` and atomically rewrites `current.tsv`. In the post-baseline (dirty-list) flow, the dirty entry is removed only *after* the new `current.tsv` is committed: a crash either leaves the old `current.tsv` + dirty entry (next run redoes, same result) or the new `current.tsv` + dirty entry (next run redoes with the same input, same output, then removes the entry). In the first-pass (tree-walk) flow, idempotence falls out of the skip-if-exists check: a directory that already has a `current.tsv` is left alone.
-6. **The streaming worklist (`worklist.tsv.streaming`) is treated as transient.** A crash during streaming discards it and the next run re-streams the index. No artifact is lost because the producer skips anything already in `scanned/`, so the not-yet-streamed tail of the index is the only thing that gets re-processed.
-7. **The `--resume false` switch is the only way to deliberately drop in-flight state.** It clears `state.properties`, both worklist files, and `dirty-modules.tsv` in one shot so the next run starts from a clean baseline. `data/scanned/` and `data/modules/` are preserved - already-scanned coordinates remain skipped, the audit log remains intact.
+6. **Shard files written before the manifest is committed are treated as transient.** A crash during streaming leaves shards on disk but no `manifest.tsv`. On the next run the absence of a manifest tells the crawler the previous sync was incomplete: the shards are cleared and the index is re-streamed. No artifact is lost because the producer skips anything already in `scanned/`, so the not-yet-streamed tail of the index is the only thing that gets re-processed.
+7. **The `--resume false` switch is the only way to deliberately drop in-flight state.** It clears `state.properties`, the entire `data/worklist/` directory, and `dirty-modules.tsv` in one shot so the next run starts from a clean baseline. `data/scanned/` and `data/modules/` are preserved - already-scanned coordinates remain skipped, the audit log remains intact.
 
 What the design does **not** protect against: a power loss that loses OS-buffered writes (the crawler does not call `fsync`, relying on atomic rename for process-crash semantics). And: an interruption during stage 2 followed by an edit to `versions.tsv` from outside the crawler would, of course, produce a different `current.tsv` on the next regenerate - by design.
 
@@ -332,7 +336,7 @@ The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler
 Scheduled and manual triggers coexist:
 - A guard job runs first and, on **scheduled** triggers only, checks whether another crawl is already in flight. If so, the scheduled run exits without doing any work, so a long manual crawl (e.g. 10 hours) is never followed by a freshly-queued 90-minute scheduled run when it ends.
 - Manual dispatches (`workflow_dispatch`) always proceed. They share a `crawl` concurrency group so a double-click on "Run workflow" queues rather than overlaps.
-- The manual dispatch form exposes a `resume` choice (default `true`). Set to `false` to discard `state.properties` and any in-flight worklist before starting; `data/scanned/` and `data/modules/` are preserved so already-scanned coordinates remain skipped.
+- The manual dispatch form exposes a `resume` choice (default `true`). Set to `false` to discard `state.properties` and the `data/worklist/` directory before starting; `data/scanned/` and `data/modules/` are preserved so already-scanned coordinates remain skipped.
 
 `build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI. `build.yml` additionally skips its own job for commits whose message starts with `[release]` - those are routed exclusively through `release.yml`, which runs the same Jenesis build + test as part of staging.
 
