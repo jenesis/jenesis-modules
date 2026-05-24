@@ -255,7 +255,7 @@ public final class Crawler implements AutoCloseable {
             Result resumed = runFromFile(worklist, state, statePath);
             aggregator.add(resumed);
             if (!resumed.worklistComplete()) {
-                System.out.println("[crawler] Worklist not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(state.worklistComplete());
             }
@@ -271,7 +271,7 @@ public final class Crawler implements AutoCloseable {
         while (Instant.now().isBefore(deadline)) {
             IndexProperties remote = fetchIndexProperties();
             if (state.indexChainId() != null && !Objects.equals(state.indexChainId(), remote.chainId())) {
-                System.out.println("[crawler] Index chain rotated from " + state.indexChainId()
+                System.out.println("[info] Index chain rotated from " + state.indexChainId()
                         + " to " + remote.chainId() + ": resetting baseline and performing full sync.");
                 state = state.withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
                 state.save(statePath);
@@ -279,7 +279,7 @@ public final class Crawler implements AutoCloseable {
 
             ChunkPlan plan = decideNextChunk(state, remote);
             if (plan == null) {
-                System.out.println("[crawler] Index already up to date (chain=" + remote.chainId()
+                System.out.println("[info] Index already up to date (chain=" + remote.chainId()
                         + ", lastIncremental=" + remote.lastIncremental() + ").");
                 break;
             }
@@ -295,7 +295,7 @@ public final class Crawler implements AutoCloseable {
             Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
             aggregator.add(chunkResult);
             if (!chunkResult.worklistComplete()) {
-                System.out.println("[crawler] Worklist not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
             }
@@ -310,7 +310,7 @@ public final class Crawler implements AutoCloseable {
             }
             state.save(statePath);
             drainDirty();
-            System.out.println("[crawler] Chain advanced: chainId=" + remote.chainId()
+            System.out.println("[info] Chain advanced: chainId=" + remote.chainId()
                     + ", lastApplied=" + chunkApplied
                     + " (mode=" + plan.mode() + ")");
         }
@@ -361,7 +361,7 @@ public final class Crawler implements AutoCloseable {
             chunkApplied = state.indexChunkLastApplied() + 1L;
             IndexProperties remote = fetchIndexProperties();
             if (state.indexChainId() != null && !Objects.equals(state.indexChainId(), remote.chainId())) {
-                System.err.println("[crawler] Chain rotated during in-flight resume; cannot promote chunk "
+                System.err.println("[info] Chain rotated during in-flight resume; cannot promote chunk "
                         + chunkApplied + " into new chain " + remote.chainId() + ". Resetting.");
                 state = State.load(statePath).withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
                 state.save(statePath);
@@ -371,7 +371,7 @@ public final class Crawler implements AutoCloseable {
                     .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
         }
         state.save(statePath);
-        System.out.println("[crawler] Chain advanced (resume): chainId=" + state.indexChainId()
+        System.out.println("[info] Chain advanced (resume): chainId=" + state.indexChainId()
                 + ", lastApplied=" + state.indexChunkLastApplied());
         return state;
     }
@@ -401,7 +401,7 @@ public final class Crawler implements AutoCloseable {
         if (dirtyModules.isEmpty()) {
             return;
         }
-        System.out.println("[crawler] Resuming current.tsv regeneration from previous run ("
+        System.out.println("[info] Resuming current.tsv regeneration from previous run ("
                 + dirtyModules.size() + " module(s) pending).");
         drainDirty();
     }
@@ -411,14 +411,14 @@ public final class Crawler implements AutoCloseable {
             return;
         }
         int total = dirtyModules.size();
-        System.out.println("[crawler] Regenerating current.tsv for " + total + " module(s)...");
+        System.out.println("[info] Regenerating current.tsv for " + total + " module(s)...");
         long progress = 0L;
         for (String moduleName : dirtyModules.snapshot()) {
             store.regenerate(moduleName);
             dirtyModules.remove(moduleName);
             progress++;
         }
-        System.out.println("[crawler] current.tsv regeneration complete: " + progress + " module(s).");
+        System.out.println("[info] current.tsv regeneration complete: " + progress + " module(s).");
     }
 
     private void discardInflight(Path statePath, Worklist worklist) throws IOException {
@@ -431,8 +431,8 @@ public final class Crawler implements AutoCloseable {
             }
         }
         System.out.println(removedAnything
-                ? "[crawler] Resume disabled: discarded existing state and worklist; starting fresh."
-                : "[crawler] Resume disabled: no existing state to discard.");
+                ? "[info] Resume disabled: discarded existing state and worklist; starting fresh."
+                : "[info] Resume disabled: no existing state to discard.");
     }
 
     private void verifyRobotsTxt() throws IOException {
@@ -446,7 +446,7 @@ public final class Crawler implements AutoCloseable {
             try {
                 rules = RobotsTxt.fetch(fetcher, baseUri);
             } catch (IOException e) {
-                System.err.println("[crawler] robots.txt fetch failed for " + authority + " (" + e.getMessage() + "); continuing without restrictions");
+                System.err.println("[info] robots.txt fetch failed for " + authority + " (" + e.getMessage() + "); continuing without restrictions");
                 continue;
             }
             String path = baseUri.getRawPath();
@@ -456,7 +456,7 @@ public final class Crawler implements AutoCloseable {
             if (!rules.allows(path)) {
                 throw new IOException("robots.txt for " + authority + " disallows " + path + " for " + RobotsTxt.agentToken(Fetcher.USER_AGENT));
             }
-            System.out.println("[crawler] robots.txt for " + authority + " permits " + path);
+            System.out.println("[info] robots.txt for " + authority + " permits " + path);
         }
     }
 
@@ -475,7 +475,7 @@ public final class Crawler implements AutoCloseable {
     }
 
     private Result runFromFile(Worklist worklist, State state, Path statePath) throws IOException {
-        System.out.println("[crawler] Resuming existing worklist: position " + state.worklistPosition()
+        System.out.println("[info] Resuming existing worklist: position " + state.worklistPosition()
                 + "/" + state.worklistRecords() + " records");
         long pinnedRecords = state.worklistRecords();
         try (FileBatchSource source = new FileBatchSource(worklist, state.worklistPosition(), configuration.concurrency())) {
@@ -492,7 +492,7 @@ public final class Crawler implements AutoCloseable {
                                       URI indexUri,
                                       IndexProperties remote,
                                       SyncMode mode) throws IOException {
-        System.out.println("[crawler] Streaming " + mode + " sync from " + indexUri);
+        System.out.println("[info] Streaming " + mode + " sync from " + indexUri);
         Path tempFile = worklist.path().resolveSibling(worklist.path().getFileName() + STREAMING_SUFFIX);
         State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
         streamingState.save(statePath);
@@ -518,7 +518,7 @@ public final class Crawler implements AutoCloseable {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
                 stream.close();
                 if (stream.error() != null) {
-                    System.err.println("[crawler] Producer aborted mid-stream: "
+                    System.err.println("[info] Producer aborted mid-stream: "
                             + stream.error().getClass().getSimpleName()
                             + ": " + stream.error().getMessage()
                             + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
@@ -531,7 +531,7 @@ public final class Crawler implements AutoCloseable {
                             State.load(statePath).worklistComplete(), mode, result.failureBreakdown());
                 }
                 Files.deleteIfExists(tempFile);
-                System.out.println("[crawler] Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
+                System.out.println("[info] Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
                 return result;
             }
         } catch (InterruptedException interrupted) {
@@ -555,7 +555,7 @@ public final class Crawler implements AutoCloseable {
                 .withWorklist(stream.recordsProduced(), state.sweepStartedAt())
                 .withPosition(state.worklistPosition());
         updated.save(statePath);
-        System.out.println("[crawler] Sync complete: " + stream.recordsProduced() + " records at " + target);
+        System.out.println("[info] Sync complete: " + stream.recordsProduced() + " records at " + target);
     }
 
     private Result process(BatchSource source,
@@ -565,7 +565,8 @@ public final class Crawler implements AutoCloseable {
                            long startPosition,
                            LongSupplier knownTotal,
                            BooleanSupplier totalFinal) throws IOException, InterruptedException {
-        Instant deadline = Instant.now().plus(configuration.budget());
+        Instant runStart = Instant.now();
+        Instant deadline = runStart.plus(configuration.budget());
         long processed = 0L;
         long modular = 0L;
         long failed = 0L;
@@ -627,7 +628,7 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal);
+                    state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal, runStart);
                     sinceCheckpoint = 0L;
                 }
             }
@@ -654,7 +655,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, long skipped, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, long skipped, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
         synchronized (store) {
             store.flush();
         }
@@ -666,9 +667,12 @@ public final class Crawler implements AutoCloseable {
         }
         updated.save(statePath);
         String totalRendering = updated.worklistRecords() + (totalFinal.getAsBoolean() ? "" : "+");
-        System.out.println("[checkpoint] processed=" + processed + " modular=" + modular + " failed=" + failed
+        long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
+        long rate = processed / elapsedSeconds;
+        System.out.println("[artifacts] processed=" + processed + " modular=" + modular + " failed=" + failed
                 + " skipped=" + skipped
-                + " position=" + position + "/" + totalRendering);
+                + " position=" + position + "/" + totalRendering
+                + " rate=" + rate + "/s");
         checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
         return updated;
     }
