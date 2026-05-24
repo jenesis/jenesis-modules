@@ -240,24 +240,31 @@ public final class Crawler implements AutoCloseable {
         }
         State state = State.load(statePath);
 
-        // Only drain leftover dirty entries when no worklist is in flight - otherwise
-        // we'd regenerate current.tsv from partial versions.tsv data, breaking the
-        // "defer publishing until the whole worklist is processed" guarantee.
-        boolean inFlightWorklist = worklist.exists() && state.worklistRecords() > 0L && !state.worklistComplete();
-        if (!inFlightWorklist) {
+        // During the first full sweep, per-module dirty tracking is suppressed
+        // (a full pass touches ~every module in Maven Central, so dirty-modules.tsv
+        // would balloon for no benefit). At first-pass completion we walk the
+        // modules tree and regenerate current.tsv for any directory that doesn't
+        // already have one - the file's existence is the progress marker, so a
+        // crashed regeneration resumes naturally on the next run.
+        boolean priorSweepInFlight = state.worklistRecords() > 0L && !state.worklistComplete();
+        boolean firstPass = !state.hasIndexBaseline();
+        if (!firstPass && !priorSweepInFlight) {
             drainDirtyIfPending();
         }
 
         Instant deadline = Instant.now().plus(configuration.budget());
         Aggregator aggregator = new Aggregator();
 
-        if (inFlightWorklist) {
+        if (priorSweepInFlight && worklist.exists()) {
             Result resumed = runFromFile(worklist, state, statePath);
             aggregator.add(resumed);
             if (!resumed.worklistComplete()) {
                 System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(state.worklistComplete());
+            }
+            if (firstPass) {
+                regenerateMissingForFirstPass();
             }
             state = advanceChainAfterChunkCompletion(statePath, state, /* refreshRemoteForIncremental */ true);
             drainDirty();
@@ -292,12 +299,17 @@ public final class Crawler implements AutoCloseable {
                 state.save(statePath);
             }
 
+            boolean chunkFirstPass = !state.hasIndexBaseline();
             Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
             aggregator.add(chunkResult);
             if (!chunkResult.worklistComplete()) {
                 System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
+            }
+
+            if (chunkFirstPass) {
+                regenerateMissingForFirstPass();
             }
 
             long chunkApplied = (plan.mode() == SyncMode.FULL)
@@ -419,6 +431,22 @@ public final class Crawler implements AutoCloseable {
             progress++;
         }
         System.out.println("[info] current.tsv regeneration complete: " + progress + " module(s).");
+    }
+
+    /**
+     * Regenerates current.tsv for every module under the store that doesn't
+     * already have one. Called once at first-pass completion (when dirty
+     * tracking was suppressed during the sweep), before the index baseline is
+     * updated. The existence of a current*.tsv per directory acts as the
+     * progress marker: a mid-regeneration crash leaves baseline unset, the
+     * next run re-enters the first-pass branch, the sweep re-runs quickly
+     * (scannedStore skips every already-scanned coordinate), and regeneration
+     * resumes from the directories still missing a current.tsv.
+     */
+    private void regenerateMissingForFirstPass() throws IOException {
+        System.out.println("[info] First pass complete: regenerating missing current.tsv files...");
+        long count = store.regenerateMissing();
+        System.out.println("[info] First-pass regeneration complete: " + count + " module(s) written.");
     }
 
     private void discardInflight(Path statePath, Worklist worklist) throws IOException {
@@ -567,6 +595,10 @@ public final class Crawler implements AutoCloseable {
                            BooleanSupplier totalFinal) throws IOException, InterruptedException {
         Instant runStart = Instant.now();
         Instant deadline = runStart.plus(configuration.budget());
+        // Captured for the lifetime of this chunk: the baseline only flips
+        // after the chunk completes (back in run()), so the value is stable
+        // here even though `state` is reassigned by checkpoint().
+        boolean trackDirty = state.hasIndexBaseline();
         long processed = 0L;
         long modular = 0L;
         long nonmodular = 0L;
@@ -611,7 +643,9 @@ public final class Crawler implements AutoCloseable {
                             }
                             if (recorded) {
                                 modular++;
-                                dirtyModules.add(module.name());
+                                if (trackDirty) {
+                                    dirtyModules.add(module.name());
+                                }
                             }
                         } else {
                             nonmodular++;

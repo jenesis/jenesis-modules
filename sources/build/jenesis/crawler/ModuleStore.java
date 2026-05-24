@@ -118,6 +118,74 @@ public final class ModuleStore {
     }
 
     /**
+     * Walks the modules tree and regenerates current.tsv for every module
+     * that doesn't already have one. The existence of a current*.tsv acts as
+     * the progress marker for an interrupted first-pass regeneration: if the
+     * walk crashes, the next invocation skips directories that finished and
+     * resumes from where it left off, without holding the module list in
+     * memory or needing a separate state flag. Returns the number of modules
+     * actually regenerated (excluding skipped ones).
+     */
+    public long regenerateMissing() throws IOException {
+        if (!Files.isDirectory(root)) {
+            return 0L;
+        }
+        long count = 0L;
+        try (Stream<Path> stream = Files.walk(root)) {
+            for (Path dir : (Iterable<Path>) stream::iterator) {
+                if (dir.equals(root) || !Files.isDirectory(dir) || !hasVersionsFile(dir) || hasCurrentFile(dir)) {
+                    continue;
+                }
+                String moduleName = pathToModuleName(dir);
+                if (isValidModuleName(moduleName)) {
+                    regenerate(moduleName);
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+
+private static boolean hasVersionsFile(Path dir) throws IOException {
+        return hasFileMatching(dir, LEAF_FILE_BASE);
+    }
+
+    private static boolean hasCurrentFile(Path dir) throws IOException {
+        return hasFileMatching(dir, CURRENT_FILE_BASE);
+    }
+
+    private static boolean hasFileMatching(Path dir, String stemBase) throws IOException {
+        try (DirectoryStream<Path> entries = Files.newDirectoryStream(dir)) {
+            for (Path entry : entries) {
+                if (!Files.isRegularFile(entry)) {
+                    continue;
+                }
+                String name = entry.getFileName().toString();
+                if (!name.endsWith(LEAF_FILE_EXTENSION)) {
+                    continue;
+                }
+                String stem = name.substring(0, name.length() - LEAF_FILE_EXTENSION.length());
+                if (stem.equals(stemBase) || stem.startsWith(stemBase + '-')) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private String pathToModuleName(Path dir) {
+        Path relative = root.relativize(dir);
+        StringBuilder builder = new StringBuilder();
+        for (Path part : relative) {
+            if (builder.length() > 0) {
+                builder.append('.');
+            }
+            builder.append(part.toString());
+        }
+        return builder.toString();
+    }
+
+    /**
      * Rebuilds current[-classifier].tsv files for the given module from its
      * versions.tsv contents intersected with owners.tsv (when present) or the
      * implicit-owner rule (when absent). Existing current.tsv files for the
