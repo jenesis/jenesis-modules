@@ -96,6 +96,7 @@ public class CrawlerChainIntegrationTest {
                 100L,
                 262144L,
                 true,
+                false,
                 false
         );
         try (Crawler crawler = new Crawler(configuration)) {

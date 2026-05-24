@@ -95,7 +95,8 @@ public final class GitPublisher implements CheckpointListener {
                     .append(state.worklistRecords());
         }
         builder.append(" processed=").append(statistics.processed());
-        builder.append(" modular=").append(statistics.modular());
+        builder.append(" named=").append(statistics.named());
+        builder.append(" automatic=").append(statistics.automatic());
         if (statistics.failed() > 0L) {
             builder.append(" failed=").append(statistics.failed());
         }

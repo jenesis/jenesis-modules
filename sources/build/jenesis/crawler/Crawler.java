@@ -23,7 +23,8 @@ public final class Crawler implements AutoCloseable {
                                 long checkpointEvery,
                                 long smallJarThreshold,
                                 boolean resume,
-                                boolean reprocessFailed) {
+                                boolean reprocessFailed,
+                                boolean allowRebaseline) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
         public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(180L);
@@ -32,6 +33,7 @@ public final class Crawler implements AutoCloseable {
         public static final Path DEFAULT_DATA_DIR = Path.of("data");
         public static final boolean DEFAULT_RESUME = true;
         public static final boolean DEFAULT_REPROCESS_FAILED = false;
+        public static final boolean DEFAULT_ALLOW_REBASELINE = false;
 
         public static Configuration defaults(URI artifactBaseUri, URI indexBaseUri) {
             return new Configuration(
@@ -44,12 +46,13 @@ public final class Crawler implements AutoCloseable {
                     DEFAULT_CHECKPOINT_EVERY,
                     DEFAULT_SMALL_JAR_THRESHOLD,
                     DEFAULT_RESUME,
-                    DEFAULT_REPROCESS_FAILED
+                    DEFAULT_REPROCESS_FAILED,
+                    DEFAULT_ALLOW_REBASELINE
             );
         }
     }
 
-    public record Result(long processed, long modular, long failed, boolean worklistComplete, SyncMode syncMode, Map<String, FailureBreakdown> failureBreakdown) {
+    public record Result(long processed, long named, long automatic, long failed, boolean worklistComplete, SyncMode syncMode, Map<String, FailureBreakdown> failureBreakdown) {
     }
 
     public record FailureBreakdown(long count, String sampleMessage) {
@@ -119,6 +122,19 @@ public final class Crawler implements AutoCloseable {
      * (the artifact is not / no longer present at the URL we computed). Everything else
      * - including HTTP 5xx, timeouts, and generic IOException - is treated as transient.
      */
+    private static boolean isNotFound(Throwable error) {
+        String message = error == null ? null : error.getMessage();
+        if (message == null) {
+            return false;
+        }
+        java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+        if (matcher.find()) {
+            int status = Integer.parseInt(matcher.group(1));
+            return status == 404 || status == 410;
+        }
+        return false;
+    }
+
     private static boolean isPermanentFailure(Throwable error) {
         Throwable current = error;
         Set<Throwable> seen = new HashSet<>();
@@ -303,6 +319,14 @@ public final class Crawler implements AutoCloseable {
             Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
             aggregator.add(chunkResult);
             if (!chunkResult.worklistComplete()) {
+                // If runStreamingSingle reset the baseline (incremental 404 with
+                // allow-rebaseline=true), the next iteration's decideNextChunk
+                // will pick FULL; loop instead of bailing out.
+                State reloaded = State.load(statePath);
+                if (!chunkFirstPass && !reloaded.hasIndexBaseline()) {
+                    state = reloaded;
+                    continue;
+                }
                 System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
@@ -391,13 +415,15 @@ public final class Crawler implements AutoCloseable {
     private final class Aggregator {
 
         private long processed;
-        private long modular;
+        private long named;
+        private long automatic;
         private long failed;
         private SyncMode lastMode = SyncMode.UP_TO_DATE;
 
         void add(Result r) {
             processed += r.processed();
-            modular += r.modular();
+            named += r.named();
+            automatic += r.automatic();
             failed += r.failed();
             if (r.syncMode() != SyncMode.UP_TO_DATE) {
                 lastMode = r.syncMode();
@@ -405,7 +431,7 @@ public final class Crawler implements AutoCloseable {
         }
 
         Result finish(boolean worklistComplete) {
-            return new Result(processed, modular, failed, worklistComplete, lastMode, snapshotFailures());
+            return new Result(processed, named, automatic, failed, worklistComplete, lastMode, snapshotFailures());
         }
     }
 
@@ -431,6 +457,32 @@ public final class Crawler implements AutoCloseable {
             progress++;
         }
         System.out.println("[info] current.tsv regeneration complete: " + progress + " module(s).");
+    }
+
+    /**
+     * Handles a 404/410 on an incremental fetch: we've fallen off the index
+     * retention window (Central keeps only the last ~30 incrementals). The
+     * data/ tree remains valid - we just need to re-baseline against the
+     * current main index. When {@code allowRebaseline} is enabled the state's
+     * baseline is reset so the outer loop picks FULL on the next iteration;
+     * otherwise we fail loudly and point at the property.
+     */
+    private void handleIncrementalNotFound(Path statePath, URI indexUri, Throwable error) throws IOException {
+        if (!configuration.allowRebaseline()) {
+            System.err.println("[error] Incremental " + indexUri + " returned " + error.getMessage());
+            System.err.println("[error] The crawler has fallen behind the Central index retention window.");
+            System.err.println("[error] Recovery requires a fresh FULL re-baseline of the index.");
+            System.err.println("[error] Enable this by setting -Djenesis.crawler.allow.rebaseline=true.");
+            System.err.println("[error] Existing data/ contents remain valid; scannedStore short-circuits already-scanned coordinates.");
+            return;
+        }
+        System.err.println("[WARN] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.err.println("[WARN] FELL OFF THE INDEX RETENTION WINDOW: " + indexUri + " -> " + error.getMessage());
+        System.err.println("[WARN] RESETTING INDEX BASELINE; THE NEXT ITERATION WILL FETCH A FRESH FULL.");
+        System.err.println("[WARN] data/ CONTENTS REMAIN VALID; scannedStore SKIPS ALREADY-SCANNED COORDINATES.");
+        System.err.println("[WARN] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        State reset = State.load(statePath).withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
+        reset.save(statePath);
     }
 
     /**
@@ -546,16 +598,21 @@ public final class Crawler implements AutoCloseable {
                 Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
                 stream.close();
                 if (stream.error() != null) {
-                    System.err.println("[info] Producer aborted mid-stream: "
-                            + stream.error().getClass().getSimpleName()
-                            + ": " + stream.error().getMessage()
-                            + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
+                    Throwable error = stream.error();
+                    if (mode == SyncMode.INCREMENTAL && isNotFound(error)) {
+                        handleIncrementalNotFound(statePath, indexUri, error);
+                    } else {
+                        System.err.println("[info] Producer aborted mid-stream: "
+                                + error.getClass().getSimpleName()
+                                + ": " + error.getMessage()
+                                + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
+                    }
                     Files.deleteIfExists(tempFile);
                     return result;
                 }
                 if (stream.completed()) {
                     finalizeStreamedWorklist(worklist, tempFile, statePath, stream);
-                    return new Result(result.processed(), result.modular(), result.failed(),
+                    return new Result(result.processed(), result.named(), result.automatic(), result.failed(),
                             State.load(statePath).worklistComplete(), mode, result.failureBreakdown());
                 }
                 Files.deleteIfExists(tempFile);
@@ -600,7 +657,8 @@ public final class Crawler implements AutoCloseable {
         // here even though `state` is reassigned by checkpoint().
         boolean trackDirty = state.hasIndexBaseline();
         long processed = 0L;
-        long modular = 0L;
+        long named = 0L;
+        long automatic = 0L;
         long nonmodular = 0L;
         long failed = 0L;
         long sinceCheckpoint = 0L;
@@ -642,7 +700,11 @@ public final class Crawler implements AutoCloseable {
                                 recorded = store.record(module.name(), module.type(), coordinate);
                             }
                             if (recorded) {
-                                modular++;
+                                if (module.type() == ModuleType.NAMED) {
+                                    named++;
+                                } else {
+                                    automatic++;
+                                }
                                 if (trackDirty) {
                                     dirtyModules.add(module.name());
                                 }
@@ -663,13 +725,13 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, modular, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
+                    state = checkpoint(state, statePath, position, processed, named, automatic, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, position, processed, modular, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
+            state = checkpoint(state, statePath, position, processed, named, automatic, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
         }
-        return new Result(processed, modular, failed, state.worklistComplete(), syncMode, snapshotFailures());
+        return new Result(processed, named, automatic, failed, state.worklistComplete(), syncMode, snapshotFailures());
     }
 
     private static ScanOutcome await(Future<ScanOutcome> future) throws IOException {
@@ -690,7 +752,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long nonmodular, long failed, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long named, long automatic, long nonmodular, long failed, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
         synchronized (store) {
             store.flush();
         }
@@ -704,11 +766,11 @@ public final class Crawler implements AutoCloseable {
         String totalRendering = updated.worklistRecords() + (totalFinal.getAsBoolean() ? "" : "+");
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
         long rate = processed / elapsedSeconds;
-        System.out.println("[artifacts] processed=" + processed + " modular=" + modular
+        System.out.println("[artifacts] processed=" + processed + " named=" + named + " automatic=" + automatic
                 + " nonmodular=" + nonmodular + " failed=" + failed
                 + " position=" + position + "/" + totalRendering
                 + " rate=" + rate + "/s");
-        checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
+        checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, named, automatic, failed, syncMode));
         return updated;
     }
 

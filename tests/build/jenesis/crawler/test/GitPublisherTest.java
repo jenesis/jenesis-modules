@@ -34,10 +34,10 @@ public class GitPublisherTest {
         GitPublisher publisher = new GitPublisher(repo, List.of("data"), Integer.MAX_VALUE);
 
         Files.writeString(repo.resolve("data").resolve("first"), "alpha\n", StandardCharsets.UTF_8);
-        publisher.onCheckpoint(stateAt(10L), stats(50L, 5L, 0L));
+        publisher.onCheckpoint(stateAt(10L), stats(50L, 4L, 1L, 0L));
 
         Files.writeString(repo.resolve("data").resolve("second"), "beta\n", StandardCharsets.UTF_8);
-        publisher.onCheckpoint(stateAt(20L), stats(100L, 10L, 1L));
+        publisher.onCheckpoint(stateAt(20L), stats(100L, 8L, 2L, 1L));
 
         String log = capture("git", "log", "--oneline");
         long commitCount = log.lines().count();
@@ -51,9 +51,9 @@ public class GitPublisherTest {
     public void skips_commit_when_nothing_changed_under_managed_paths() throws IOException, InterruptedException {
         GitPublisher publisher = new GitPublisher(repo, List.of("data"), Integer.MAX_VALUE);
 
-        publisher.onCheckpoint(stateAt(0L), stats(0L, 0L, 0L));
+        publisher.onCheckpoint(stateAt(0L), stats(0L, 0L, 0L, 0L));
         Files.writeString(repo.resolve("unrelated.txt"), "ignored\n", StandardCharsets.UTF_8);
-        publisher.onCheckpoint(stateAt(0L), stats(0L, 0L, 0L));
+        publisher.onCheckpoint(stateAt(0L), stats(0L, 0L, 0L, 0L));
 
         long commitCount = capture("git", "log", "--oneline").lines().count();
         assertThat(commitCount).isEqualTo(1L);
@@ -63,8 +63,8 @@ public class GitPublisherTest {
         return State.EMPTY.withWorklist(100L, Instant.parse("2026-05-22T10:00:00Z")).withPosition(position);
     }
 
-    private CheckpointListener.Statistics stats(long processed, long modular, long failed) {
-        return new CheckpointListener.Statistics(processed, modular, failed, SyncMode.FULL);
+    private CheckpointListener.Statistics stats(long processed, long named, long automatic, long failed) {
+        return new CheckpointListener.Statistics(processed, named, automatic, failed, SyncMode.FULL);
     }
 
     private static boolean isGitAvailable() {

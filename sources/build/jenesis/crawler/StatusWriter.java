@@ -39,7 +39,8 @@ public final class StatusWriter implements CheckpointListener {
                 .append(" / ").append(state.worklistRecords())
                 .append(String.format(Locale.ROOT, " (%.2f%%)", percentage)).append('\n');
         builder.append("- This run: processed=").append(statistics.processed())
-                .append(", modular=").append(statistics.modular())
+                .append(", named=").append(statistics.named())
+                .append(", automatic=").append(statistics.automatic())
                 .append(", failed=").append(statistics.failed()).append('\n');
         builder.append("- Throughput: ").append(String.format(Locale.ROOT, "%.0f", rate)).append(" coordinates/sec\n");
         if (eta != null) {

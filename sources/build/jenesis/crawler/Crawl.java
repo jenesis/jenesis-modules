@@ -12,6 +12,7 @@ public final class Crawl {
     public static final String PROP_SMALL_JAR_THRESHOLD = "jenesis.crawler.small.jar.threshold";
     public static final String PROP_RESUME = "jenesis.crawler.resume";
     public static final String PROP_REPROCESS_FAILED = "jenesis.crawler.reprocess.failed";
+    public static final String PROP_ALLOW_REBASELINE = "jenesis.crawler.allow.rebaseline";
     public static final String PROP_GIT_PUBLISH = "jenesis.crawler.git.publish";
     public static final String PROP_GIT_WORK_DIR = "jenesis.crawler.git.work.dir";
     public static final String PROP_GIT_PUSH_EVERY = "jenesis.crawler.git.push.every";
@@ -49,7 +50,8 @@ public final class Crawl {
         }
         System.out.println("[info] syncMode=" + result.syncMode()
                 + " processed=" + result.processed()
-                + " modular=" + result.modular()
+                + " named=" + result.named()
+                + " automatic=" + result.automatic()
                 + " failed=" + result.failed()
                 + " worklistComplete=" + result.worklistComplete());
         if (!result.worklistComplete()) {
@@ -69,7 +71,8 @@ public final class Crawl {
         long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
         boolean resume = property(PROP_RESUME).map(value -> parseBoolean(value, PROP_RESUME)).orElse(base.resume());
         boolean reprocessFailed = property(PROP_REPROCESS_FAILED).map(value -> parseBoolean(value, PROP_REPROCESS_FAILED)).orElse(base.reprocessFailed());
-        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume, reprocessFailed);
+        boolean allowRebaseline = property(PROP_ALLOW_REBASELINE).map(value -> parseBoolean(value, PROP_ALLOW_REBASELINE)).orElse(base.allowRebaseline());
+        return new Crawler.Configuration(indexBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume, reprocessFailed, allowRebaseline);
     }
 
     private static Optional<String> property(String name) {
@@ -124,7 +127,8 @@ public final class Crawl {
         summary.append("|---|---|\n");
         summary.append("| Sync mode | `").append(result.syncMode()).append("` |\n");
         summary.append("| Coordinates processed this run | ").append(result.processed()).append(" |\n");
-        summary.append("| Modular artifacts recorded | ").append(result.modular()).append(" |\n");
+        summary.append("| Named modules recorded | ").append(result.named()).append(" |\n");
+        summary.append("| Automatic modules recorded | ").append(result.automatic()).append(" |\n");
         summary.append("| Failed fetches | ").append(result.failed()).append(" |\n");
         summary.append("| Worklist complete | ").append(result.worklistComplete() ? "yes" : "no, resume next run").append(" |\n");
         if (!result.failureBreakdown().isEmpty()) {
@@ -162,6 +166,9 @@ public final class Crawl {
         System.out.println("  -D" + PROP_RESUME + "=<true|false>             Resume in-flight worklist (default true)");
         System.out.println("  -D" + PROP_REPROCESS_FAILED + "=<true|false>    Re-scan coordinates whose previous scan recorded a permanent");
         System.out.println("                                                  failure (default false; recovers from scanner bugs).");
+        System.out.println("  -D" + PROP_ALLOW_REBASELINE + "=<true|false>   Allow recovery when an incremental 404s because we fell off the");
+        System.out.println("                                                  Central retention window: reset the baseline and re-FULL on the");
+        System.out.println("                                                  next iteration (default false; without this the crawler fails fast).");
         System.out.println("  -D" + PROP_GIT_PUBLISH + "=<true|false>       Commit + push checkpoints via git (default false)");
         System.out.println("  -D" + PROP_GIT_WORK_DIR + "=<dir>             Git working tree (default '.')");
         System.out.println("  -D" + PROP_GIT_PUSH_EVERY + "=<n>            Push every n checkpoints (default 1)");

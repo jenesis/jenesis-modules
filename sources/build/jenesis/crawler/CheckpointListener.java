@@ -18,7 +18,7 @@ public interface CheckpointListener {
         };
     }
 
-    record Statistics(long processed, long modular, long failed, SyncMode syncMode) {
+    record Statistics(long processed, long named, long automatic, long failed, SyncMode syncMode) {
 
         public Statistics {
             Objects.requireNonNull(syncMode, "syncMode");
