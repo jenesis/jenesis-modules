@@ -8,8 +8,10 @@ public final class Crawler implements AutoCloseable {
     public static final String INDEX_PROPERTIES_FILE = "nexus-maven-repository-index.properties";
     public static final String INCREMENTAL_PREFIX = "nexus-maven-repository-index.";
     public static final String INCREMENTAL_SUFFIX = ".gz";
-    private static final String LEGACY_WORKLIST_FILE = "worklist.tsv";
-    private static final String LEGACY_WORKLIST_STREAMING_FILE = "worklist.tsv.streaming";
+    private static final List<String> LEGACY_WORKLIST_PATHS = List.of(
+            "worklist.tsv",
+            "worklist.tsv.streaming",
+            "worklist");
 
     public static final Set<String> SKIPPED_CLASSIFIERS = Set.of(
             "sources", "javadoc", "tests", "test-sources", "cyclonedx"
@@ -53,7 +55,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    public record Result(long processed, long named, long automatic, long failed, boolean worklistComplete, SyncMode syncMode, Map<String, FailureBreakdown> failureBreakdown) {
+    public record Result(long processed, long named, long automatic, long failed, boolean chunkComplete, SyncMode syncMode, Map<String, FailureBreakdown> failureBreakdown) {
     }
 
     public record FailureBreakdown(long count, String sampleMessage) {
@@ -251,10 +253,9 @@ public final class Crawler implements AutoCloseable {
     public Result run() throws IOException {
         verifyRobotsTxt();
         Path statePath = configuration.dataDir().resolve("state.properties");
-        Worklist worklist = new Worklist(configuration.dataDir().resolve("worklist"));
         cleanupLegacyWorklistFiles();
         if (!configuration.resume()) {
-            discardInflight(statePath, worklist);
+            discardInflight(statePath);
         }
         State state = State.load(statePath);
 
@@ -264,34 +265,13 @@ public final class Crawler implements AutoCloseable {
         // modules tree and regenerate current.tsv for any directory that doesn't
         // already have one - the file's existence is the progress marker, so a
         // crashed regeneration resumes naturally on the next run.
-        boolean priorSweepInFlight = state.worklistRecords() > 0L && !state.worklistComplete();
         boolean firstPass = !state.hasIndexBaseline();
-        if (!firstPass && !priorSweepInFlight) {
+        if (!firstPass) {
             drainDirtyIfPending();
         }
 
         Instant deadline = Instant.now().plus(configuration.budget());
         Aggregator aggregator = new Aggregator();
-
-        if (priorSweepInFlight && worklist.exists()) {
-            Result resumed = runFromFile(worklist, state, statePath);
-            aggregator.add(resumed);
-            if (!resumed.worklistComplete()) {
-                System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
-                        + dirtyModules.size() + " module(s) pending).");
-                return aggregator.finish(state.worklistComplete());
-            }
-            if (firstPass) {
-                regenerateMissingForFirstPass();
-            }
-            state = advanceChainAfterChunkCompletion(statePath, state, /* refreshRemoteForIncremental */ true);
-            drainDirty();
-        } else if (worklist.exists() && state.worklistRecords() == 0L) {
-            try {
-                worklist.clear();
-            } catch (IOException _) {
-            }
-        }
 
         while (Instant.now().isBefore(deadline)) {
             IndexProperties remote = fetchIndexProperties();
@@ -318,10 +298,10 @@ public final class Crawler implements AutoCloseable {
             }
 
             boolean chunkFirstPass = !state.hasIndexBaseline();
-            Result chunkResult = runStreamingSingle(worklist, state, statePath, plan.uri(), remote, plan.mode());
+            Result chunkResult = runStreamingChunk(state, statePath, plan.uri(), remote, plan.mode());
             aggregator.add(chunkResult);
-            if (!chunkResult.worklistComplete()) {
-                // If runStreamingSingle reset the baseline (incremental 404 with
+            if (!chunkResult.chunkComplete()) {
+                // If runStreamingChunk reset the baseline (incremental 404 with
                 // allow-rebaseline=true), the next iteration's decideNextChunk
                 // will pick FULL; loop instead of bailing out.
                 State reloaded = State.load(statePath);
@@ -329,7 +309,7 @@ public final class Crawler implements AutoCloseable {
                     state = reloaded;
                     continue;
                 }
-                System.out.println("[info] Worklist not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[info] Chunk not yet complete; deferring current.tsv regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
             }
@@ -379,41 +359,6 @@ public final class Crawler implements AutoCloseable {
                 next);
     }
 
-    private State advanceChainAfterChunkCompletion(Path statePath, State state, boolean refreshRemoteForIncremental) throws IOException {
-        long chunkApplied;
-        long timestamp;
-        String chainId;
-        if (state.hasPendingFullScan()) {
-            chunkApplied = state.indexChunkPending();
-            timestamp = state.indexTimestamp();
-            chainId = state.indexChainId();
-            if (chainId == null || timestamp == 0L || refreshRemoteForIncremental) {
-                IndexProperties remote = fetchIndexProperties();
-                timestamp = remote.timestamp();
-                chainId = remote.chainId();
-            }
-            state = State.load(statePath)
-                    .withIndex(chunkApplied, timestamp, chainId)
-                    .withIndexChunkPending(-1L);
-        } else {
-            chunkApplied = state.indexChunkLastApplied() + 1L;
-            IndexProperties remote = fetchIndexProperties();
-            if (state.indexChainId() != null && !Objects.equals(state.indexChainId(), remote.chainId())) {
-                System.err.println("[info] Chain rotated during in-flight resume; cannot promote chunk "
-                        + chunkApplied + " into new chain " + remote.chainId() + ". Resetting.");
-                state = State.load(statePath).withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
-                state.save(statePath);
-                return state;
-            }
-            state = State.load(statePath)
-                    .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
-        }
-        state.save(statePath);
-        System.out.println("[info] Chain advanced (resume): chainId=" + state.indexChainId()
-                + ", lastApplied=" + state.indexChunkLastApplied());
-        return state;
-    }
-
     private final class Aggregator {
 
         private long processed;
@@ -432,8 +377,8 @@ public final class Crawler implements AutoCloseable {
             }
         }
 
-        Result finish(boolean worklistComplete) {
-            return new Result(processed, named, automatic, failed, worklistComplete, lastMode, snapshotFailures());
+        Result finish(boolean chunkComplete) {
+            return new Result(processed, named, automatic, failed, chunkComplete, lastMode, snapshotFailures());
         }
     }
 
@@ -503,26 +448,32 @@ public final class Crawler implements AutoCloseable {
         System.out.println("[info] First-pass regeneration complete: " + count + " module(s) written.");
     }
 
-    private void discardInflight(Path statePath, Worklist worklist) throws IOException {
+    private void discardInflight(Path statePath) throws IOException {
         dirtyModules.clear();
         boolean removedAnything = Files.deleteIfExists(statePath);
-        if (worklist.exists() || Files.exists(worklist.dir())) {
-            worklist.clear();
-            try {
-                Files.deleteIfExists(worklist.dir());
-            } catch (DirectoryNotEmptyException _) {
-            }
-            removedAnything = true;
-        }
         System.out.println(removedAnything
-                ? "[info] Resume disabled: discarded existing state and worklist; starting fresh."
+                ? "[info] Resume disabled: discarded existing state; starting fresh."
                 : "[info] Resume disabled: no existing state to discard.");
     }
 
     private void cleanupLegacyWorklistFiles() throws IOException {
         Path dataDir = configuration.dataDir();
-        Files.deleteIfExists(dataDir.resolve(LEGACY_WORKLIST_FILE));
-        Files.deleteIfExists(dataDir.resolve(LEGACY_WORKLIST_STREAMING_FILE));
+        for (String name : LEGACY_WORKLIST_PATHS) {
+            Path path = dataDir.resolve(name);
+            if (!Files.exists(path)) {
+                continue;
+            }
+            if (Files.isDirectory(path)) {
+                try (Stream<Path> entries = Files.list(path)) {
+                    for (Path entry : (Iterable<Path>) entries::iterator) {
+                        Files.deleteIfExists(entry);
+                    }
+                }
+                Files.deleteIfExists(path);
+            } else {
+                Files.deleteIfExists(path);
+            }
+        }
     }
 
     private void verifyRobotsTxt() throws IOException {
@@ -564,31 +515,18 @@ public final class Crawler implements AutoCloseable {
         return coordinate.classifier() == null || !SKIPPED_CLASSIFIERS.contains(coordinate.classifier());
     }
 
-    private Result runFromFile(Worklist worklist, State state, Path statePath) throws IOException {
-        System.out.println("[info] Resuming existing worklist: position " + state.worklistPosition()
-                + "/" + state.worklistRecords() + " records");
-        long pinnedRecords = state.worklistRecords();
-        try (FileBatchSource source = new FileBatchSource(worklist, state.worklistPosition(), configuration.concurrency())) {
-            return process(source, state, statePath, SyncMode.SKIPPED, state.worklistPosition(), () -> pinnedRecords, () -> true);
-        } catch (InterruptedException interrupted) {
-            Thread.currentThread().interrupt();
-            throw new IOException("Interrupted", interrupted);
-        }
-    }
-
-    private Result runStreamingSingle(Worklist worklist,
-                                      State state,
-                                      Path statePath,
-                                      URI indexUri,
-                                      IndexProperties remote,
-                                      SyncMode mode) throws IOException {
+    private Result runStreamingChunk(State state,
+                                     Path statePath,
+                                     URI indexUri,
+                                     IndexProperties remote,
+                                     SyncMode mode) throws IOException {
         System.out.println("[info] Streaming " + mode + " sync from " + indexUri);
-        State streamingState = state.clearedWorklist().withWorklist(0L, Instant.now());
+        State streamingState = state.withSweepStartedAt(Instant.now());
         streamingState.save(statePath);
 
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
         // Periodic diagnostic so a hung or slow run is visible without attaching jcmd. The
-        // ticker fires on the producer thread once per WorklistStream.DEFAULT_LOG_EVERY-aligned
+        // ticker fires on the producer thread once per IndexStream.DEFAULT_LOG_EVERY-aligned
         // window; we emit a [status] line every fifth tick.
         LongConsumer onProgressTick = recordsSeen -> {
             if (recordsSeen % 50_000L == 0L) {
@@ -601,10 +539,10 @@ public final class Crawler implements AutoCloseable {
                         + " dirtyModules=" + dirtyModules.size());
             }
         };
-        try (WorklistStream stream = new WorklistStream(worklist, fetcher, producerFilter, onProgressTick)) {
+        try (IndexStream stream = new IndexStream(fetcher, producerFilter, onProgressTick)) {
             stream.start(List.of(indexUri));
             try (StreamingBatchSource source = new StreamingBatchSource(stream, configuration.concurrency())) {
-                Result result = process(source, streamingState, statePath, mode, 0L, stream::recordsProduced, stream::completed);
+                Result result = process(source, streamingState, statePath, mode, stream::recordsProduced);
                 stream.close();
                 if (stream.error() != null) {
                     Throwable error = stream.error();
@@ -616,16 +554,9 @@ public final class Crawler implements AutoCloseable {
                                 + ": " + error.getMessage()
                                 + " (on-disk state through last checkpoint is consistent; next run will re-sync)");
                     }
-                    worklist.clear();
-                    return result;
-                }
-                if (stream.completed()) {
-                    finalizeStreamedWorklist(worklist, statePath, stream);
                     return new Result(result.processed(), result.named(), result.automatic(), result.failed(),
-                            State.load(statePath).worklistComplete(), mode, result.failureBreakdown());
+                            false, mode, result.failureBreakdown());
                 }
-                worklist.clear();
-                System.out.println("[info] Streaming sync did not finish within budget; worklist discarded, next run will re-sync.");
                 return result;
             }
         } catch (InterruptedException interrupted) {
@@ -634,26 +565,11 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private void finalizeStreamedWorklist(Worklist worklist,
-                                          Path statePath,
-                                          WorklistStream stream) throws IOException {
-        worklist.writeManifest(stream.shards());
-        State state = State.load(statePath);
-        State updated = state
-                .withWorklist(stream.recordsProduced(), state.sweepStartedAt())
-                .withPosition(state.worklistPosition());
-        updated.save(statePath);
-        System.out.println("[info] Sync complete: " + stream.recordsProduced() + " records across "
-                + stream.shards().size() + " shard(s) at " + worklist.dir());
-    }
-
     private Result process(BatchSource source,
                            State state,
                            Path statePath,
                            SyncMode syncMode,
-                           long startPosition,
-                           LongSupplier knownTotal,
-                           BooleanSupplier totalFinal) throws IOException, InterruptedException {
+                           LongSupplier emittedSoFar) throws IOException, InterruptedException {
         Instant runStart = Instant.now();
         Instant deadline = runStart.plus(configuration.budget());
         // Captured for the lifetime of this chunk: the baseline only flips
@@ -666,12 +582,10 @@ public final class Crawler implements AutoCloseable {
         long nonmodular = 0L;
         long failed = 0L;
         long sinceCheckpoint = 0L;
-        long position = startPosition;
         boolean exhausted = false;
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor()) {
             while (Instant.now().isBefore(deadline) && !exhausted) {
                 BatchSource.Batch batch = source.next();
-                position = batch.endPosition() >= 0L ? batch.endPosition() : position;
                 exhausted = batch.exhausted();
                 if (batch.isEmpty()) {
                     continue;
@@ -729,13 +643,13 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, named, automatic, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
+                    state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, syncMode, emittedSoFar.getAsLong(), runStart);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, position, processed, named, automatic, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
+            state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, syncMode, emittedSoFar.getAsLong(), runStart);
         }
-        return new Result(processed, named, automatic, failed, state.worklistComplete(), syncMode, snapshotFailures());
+        return new Result(processed, named, automatic, failed, exhausted, syncMode, snapshotFailures());
     }
 
     private static ScanOutcome await(Future<ScanOutcome> future) throws IOException {
@@ -756,26 +670,20 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long named, long automatic, long nonmodular, long failed, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
+    private State checkpoint(State state, Path statePath, long processed, long named, long automatic, long nonmodular, long failed, SyncMode syncMode, long emitted, Instant runStart) throws IOException {
         synchronized (store) {
             store.flush();
         }
         scannedStore.flush();
-        long total = knownTotal.getAsLong();
-        State updated = state.withPosition(position);
-        if (total >= 0L) {
-            updated = updated.withRecords(total);
-        }
-        updated.save(statePath);
-        String totalRendering = updated.worklistRecords() + (totalFinal.getAsBoolean() ? "" : "+");
+        state.save(statePath);
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
         long rate = processed / elapsedSeconds;
         System.out.println("[artifacts] processed=" + processed + " named=" + named + " automatic=" + automatic
                 + " nonmodular=" + nonmodular + " failed=" + failed
-                + " position=" + position + "/" + totalRendering
+                + " emitted=" + emitted
                 + " rate=" + rate + "/s");
-        checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, named, automatic, failed, syncMode));
-        return updated;
+        checkpointListener.onCheckpoint(state, new CheckpointListener.Statistics(processed, named, automatic, failed, syncMode));
+        return state;
     }
 
     private ScanOutcome scanOne(Coordinate coordinate) {

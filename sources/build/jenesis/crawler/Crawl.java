@@ -53,9 +53,9 @@ public final class Crawl {
                 + " named=" + result.named()
                 + " automatic=" + result.automatic()
                 + " failed=" + result.failed()
-                + " worklistComplete=" + result.worklistComplete());
-        if (!result.worklistComplete()) {
-            System.out.println("[info] Worklist still has remaining entries: resume with another run.");
+                + " chunkComplete=" + result.chunkComplete());
+        if (!result.chunkComplete()) {
+            System.out.println("[info] Current index chunk did not finish within budget; resume with another run.");
         }
         printFailureBreakdown(result);
         writeStepSummary(result);
@@ -130,7 +130,7 @@ public final class Crawl {
         summary.append("| Named modules recorded | ").append(result.named()).append(" |\n");
         summary.append("| Automatic modules recorded | ").append(result.automatic()).append(" |\n");
         summary.append("| Failed fetches | ").append(result.failed()).append(" |\n");
-        summary.append("| Worklist complete | ").append(result.worklistComplete() ? "yes" : "no, resume next run").append(" |\n");
+        summary.append("| Chunk complete | ").append(result.chunkComplete() ? "yes" : "no, resume next run").append(" |\n");
         if (!result.failureBreakdown().isEmpty()) {
             summary.append("\n### Failure breakdown\n\n");
             summary.append("| Category | Count | Sample |\n");

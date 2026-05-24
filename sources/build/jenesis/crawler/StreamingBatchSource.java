@@ -6,17 +6,17 @@ public final class StreamingBatchSource implements BatchSource {
 
     public static final Duration DEFAULT_POLL_TIMEOUT = Duration.ofSeconds(1L);
 
-    private final BlockingQueue<WorklistStream.QueueItem> queue;
+    private final BlockingQueue<IndexStream.QueueItem> queue;
     private final int batchSize;
     private final Duration pollTimeout;
     private boolean exhausted;
     private long lastSequence;
 
-    public StreamingBatchSource(WorklistStream stream, int batchSize) {
+    public StreamingBatchSource(IndexStream stream, int batchSize) {
         this(stream.queue(), batchSize, DEFAULT_POLL_TIMEOUT);
     }
 
-    public StreamingBatchSource(BlockingQueue<WorklistStream.QueueItem> queue, int batchSize, Duration pollTimeout) {
+    public StreamingBatchSource(BlockingQueue<IndexStream.QueueItem> queue, int batchSize, Duration pollTimeout) {
         if (batchSize < 1) {
             throw new IllegalArgumentException("batchSize must be >= 1, got " + batchSize);
         }
@@ -30,7 +30,7 @@ public final class StreamingBatchSource implements BatchSource {
         if (exhausted) {
             return new Batch(List.of(), lastSequence, true);
         }
-        WorklistStream.QueueItem first = queue.poll(pollTimeout.toMillis(), TimeUnit.MILLISECONDS);
+        IndexStream.QueueItem first = queue.poll(pollTimeout.toMillis(), TimeUnit.MILLISECONDS);
         if (first == null) {
             return new Batch(List.of(), lastSequence, false);
         }
@@ -43,9 +43,9 @@ public final class StreamingBatchSource implements BatchSource {
         coordinates.add(first.coordinate());
         lastSequence = first.sequence();
 
-        List<WorklistStream.QueueItem> drained = new ArrayList<>(batchSize - 1);
+        List<IndexStream.QueueItem> drained = new ArrayList<>(batchSize - 1);
         queue.drainTo(drained, batchSize - 1);
-        for (WorklistStream.QueueItem item : drained) {
+        for (IndexStream.QueueItem item : drained) {
             if (item.isPoison()) {
                 exhausted = true;
                 break;

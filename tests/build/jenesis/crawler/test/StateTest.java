@@ -25,8 +25,7 @@ public class StateTest {
         Path path = tempDir.resolve("state.properties");
         State original = State.EMPTY
                 .withIndex(42L, 1700000000000L, "chain-uuid")
-                .withWorklist(500L, Instant.parse("2026-05-22T10:00:00Z"))
-                .withPosition(123L);
+                .withSweepStartedAt(Instant.parse("2026-05-22T10:00:00Z"));
 
         original.save(path);
         State loaded = State.load(path);
@@ -34,14 +33,13 @@ public class StateTest {
         assertThat(loaded).isEqualTo(original);
         assertThat(loaded.hasIndexBaseline()).isTrue();
         assertThat(loaded.indexChainId()).isEqualTo("chain-uuid");
+        assertThat(loaded.sweepStartedAt()).isEqualTo(Instant.parse("2026-05-22T10:00:00Z"));
     }
 
     @Test
-    public void worklist_completion_detected_only_when_total_set() {
-        assertThat(State.EMPTY.worklistComplete()).isFalse();
-        State done = State.EMPTY.withWorklist(100L, Instant.now()).withPosition(100L);
-        assertThat(done.worklistComplete()).isTrue();
-        State partial = State.EMPTY.withWorklist(100L, Instant.now()).withPosition(50L);
-        assertThat(partial.worklistComplete()).isFalse();
+    public void pending_full_scan_detected_only_when_set() {
+        assertThat(State.EMPTY.hasPendingFullScan()).isFalse();
+        State pending = State.EMPTY.withIndexChunkPending(7L);
+        assertThat(pending.hasPendingFullScan()).isTrue();
     }
 }

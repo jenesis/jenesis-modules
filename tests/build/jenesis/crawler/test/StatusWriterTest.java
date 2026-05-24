@@ -16,25 +16,24 @@ public class StatusWriterTest {
     Path tempDir;
 
     @Test
-    public void writes_position_percentage_and_throughput() throws IOException {
+    public void writes_run_stats_and_chunk_metadata() throws IOException {
         Path file = tempDir.resolve("STATUS.md");
         StatusWriter writer = new StatusWriter(file, Instant.now().minusSeconds(60L));
         State state = State.EMPTY
                 .withIndex(42L, 1700000000000L, "chain-42")
-                .withWorklist(1000L, Instant.parse("2026-05-22T10:00:00Z"))
-                .withPosition(250L);
+                .withSweepStartedAt(Instant.parse("2026-05-22T10:00:00Z"));
 
         writer.onCheckpoint(state, new CheckpointListener.Statistics(250L, 20L, 10L, 1L, SyncMode.FULL));
 
         String content = Files.readString(file, StandardCharsets.UTF_8);
         assertThat(content).contains("Sync mode: FULL");
-        assertThat(content).contains("Position: 250 / 1000 (25.00%)");
         assertThat(content).contains("processed=250");
         assertThat(content).contains("named=20");
         assertThat(content).contains("automatic=10");
         assertThat(content).contains("failed=1");
         assertThat(content).contains("Last applied index chunk: 42");
         assertThat(content).contains("chain-42");
+        assertThat(content).contains("Current chunk started: 2026-05-22T10:00:00Z");
         assertThat(content).containsPattern("Throughput: \\d+ coordinates/sec");
     }
 
@@ -42,17 +41,19 @@ public class StatusWriterTest {
     public void rewrites_file_on_each_checkpoint() throws IOException {
         Path file = tempDir.resolve("STATUS.md");
         StatusWriter writer = new StatusWriter(file);
-        State firstState = State.EMPTY.withWorklist(100L, Instant.now()).withPosition(10L);
-        State secondState = State.EMPTY.withWorklist(100L, Instant.now()).withPosition(75L);
+        State firstState = State.EMPTY.withIndex(10L, 0L, "chain-A");
+        State secondState = State.EMPTY.withIndex(11L, 0L, "chain-A");
 
         writer.onCheckpoint(firstState, new CheckpointListener.Statistics(10L, 1L, 0L, 0L, SyncMode.FULL));
         String first = Files.readString(file);
         writer.onCheckpoint(secondState, new CheckpointListener.Statistics(75L, 7L, 2L, 2L, SyncMode.FULL));
         String second = Files.readString(file);
 
-        assertThat(first).contains("Position: 10 / 100");
-        assertThat(second).contains("Position: 75 / 100");
-        assertThat(second).doesNotContain("Position: 10 / 100");
+        assertThat(first).contains("Last applied index chunk: 10");
+        assertThat(first).contains("processed=10");
+        assertThat(second).contains("Last applied index chunk: 11");
+        assertThat(second).contains("processed=75");
+        assertThat(second).doesNotContain("Last applied index chunk: 10");
     }
 
     @Test

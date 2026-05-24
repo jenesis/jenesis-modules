@@ -2,7 +2,7 @@ package build.jenesis.crawler;
 
 import module java.base;
 
-public final class WorklistStream implements AutoCloseable {
+public final class IndexStream implements AutoCloseable {
 
     public static final int DEFAULT_QUEUE_CAPACITY = 4096;
     public static final int DEFAULT_STREAM_ATTEMPTS = 4;
@@ -20,7 +20,6 @@ public final class WorklistStream implements AutoCloseable {
         }
     }
 
-    private final Worklist worklist;
     private final BlockingQueue<QueueItem> queue;
     private final Fetcher fetcher;
     private final Predicate<Coordinate> filter;
@@ -28,23 +27,21 @@ public final class WorklistStream implements AutoCloseable {
     private final AtomicReference<IOException> producerError;
     private final AtomicLong recordsProduced;
     private final AtomicBoolean completed;
-    private volatile Worklist.ShardedWriter writer;
     private volatile Thread producer;
 
-    public WorklistStream(Worklist worklist, Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(worklist, DEFAULT_QUEUE_CAPACITY, fetcher, filter, _ -> {});
+    public IndexStream(Fetcher fetcher, Predicate<Coordinate> filter) {
+        this(DEFAULT_QUEUE_CAPACITY, fetcher, filter, _ -> {});
     }
 
-    public WorklistStream(Worklist worklist, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this(worklist, DEFAULT_QUEUE_CAPACITY, fetcher, filter, onProgressTick);
+    public IndexStream(Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
+        this(DEFAULT_QUEUE_CAPACITY, fetcher, filter, onProgressTick);
     }
 
-    public WorklistStream(Worklist worklist, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(worklist, queueCapacity, fetcher, filter, _ -> {});
+    public IndexStream(int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter) {
+        this(queueCapacity, fetcher, filter, _ -> {});
     }
 
-    public WorklistStream(Worklist worklist, int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this.worklist = Objects.requireNonNull(worklist, "worklist");
+    public IndexStream(int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
         this.queue = new ArrayBlockingQueue<>(queueCapacity);
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.filter = Objects.requireNonNull(filter, "filter");
@@ -52,10 +49,6 @@ public final class WorklistStream implements AutoCloseable {
         this.producerError = new AtomicReference<>();
         this.recordsProduced = new AtomicLong(0L);
         this.completed = new AtomicBoolean(false);
-    }
-
-    public Worklist worklist() {
-        return worklist;
     }
 
     public BlockingQueue<QueueItem> queue() {
@@ -74,25 +67,17 @@ public final class WorklistStream implements AutoCloseable {
         return recordsProduced.get();
     }
 
-    public List<Worklist.Shard> shards() {
-        Worklist.ShardedWriter w = writer;
-        return w == null ? List.of() : w.shards();
-    }
-
-    public void start(List<URI> indexUris) throws IOException {
-        worklist.clear();
+    public void start(List<URI> indexUris) {
         producer = Thread.ofVirtual()
-                .name("worklist-stream-producer")
+                .name("index-stream-producer")
                 .start(() -> producerLoop(List.copyOf(indexUris)));
     }
 
     private void producerLoop(List<URI> indexUris) {
-        try (Worklist.ShardedWriter shardedWriter = worklist.openWriter()) {
-            this.writer = shardedWriter;
+        try {
             for (URI uri : indexUris) {
-                streamIndex(uri, shardedWriter);
+                streamIndex(uri);
             }
-            shardedWriter.flush();
             completed.set(true);
         } catch (IOException e) {
             producerError.set(e);
@@ -110,7 +95,7 @@ public final class WorklistStream implements AutoCloseable {
         }
     }
 
-    private void streamIndex(URI uri, Worklist.ShardedWriter writer) throws IOException, InterruptedException {
+    private void streamIndex(URI uri) throws IOException, InterruptedException {
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
         System.out.println("[discovery] Index source " + uri + " HTTP Range support: "
                 + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
@@ -118,7 +103,7 @@ public final class WorklistStream implements AutoCloseable {
             try (InputStream raw = fetcher.resumableGet(uri);
                  GZIPInputStream gzipped = new GZIPInputStream(raw);
                  IndexReader reader = new IndexReader(gzipped)) {
-                streamRecords(reader, writer, 0L);
+                streamRecords(reader, 0L);
             }
             return;
         }
@@ -129,7 +114,7 @@ public final class WorklistStream implements AutoCloseable {
             long skipTarget = recordsProduced.get();
             long beforeAttempt = recordsProduced.get();
             try {
-                streamIndexOnce(uri, writer, skipTarget);
+                streamIndexOnce(uri, skipTarget);
                 return;
             } catch (IOException e) {
                 lastError = e;
@@ -159,15 +144,15 @@ public final class WorklistStream implements AutoCloseable {
         throw lastError;
     }
 
-    private void streamIndexOnce(URI uri, Worklist.ShardedWriter writer, long skipTarget) throws IOException, InterruptedException {
+    private void streamIndexOnce(URI uri, long skipTarget) throws IOException, InterruptedException {
         try (InputStream raw = fetcher.get(uri);
              GZIPInputStream gzipped = new GZIPInputStream(raw);
              IndexReader reader = new IndexReader(gzipped)) {
-            streamRecords(reader, writer, skipTarget);
+            streamRecords(reader, skipTarget);
         }
     }
 
-    private void streamRecords(IndexReader reader, Worklist.ShardedWriter writer, long skipTarget) throws IOException, InterruptedException {
+    private void streamRecords(IndexReader reader, long skipTarget) throws IOException, InterruptedException {
         long passed = 0L;
         long recordsSeen = 0L;
         long unparseable = 0L;
@@ -206,8 +191,6 @@ public final class WorklistStream implements AutoCloseable {
                 passed++;
                 continue;
             }
-            String line = Worklist.format(candidate);
-            writer.writeLine(line);
             long sequence = recordsProduced.incrementAndGet();
             queue.put(new QueueItem(candidate, sequence));
             passed++;

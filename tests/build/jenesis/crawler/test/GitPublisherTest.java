@@ -42,8 +42,8 @@ public class GitPublisherTest {
         String log = capture("git", "log", "--oneline");
         long commitCount = log.lines().count();
         assertThat(commitCount).isEqualTo(3L);
-        assertThat(log).contains("position=10");
-        assertThat(log).contains("position=20");
+        assertThat(log).contains("chunk=10");
+        assertThat(log).contains("chunk=20");
         assertThat(log).contains("failed=1");
     }
 
@@ -59,8 +59,10 @@ public class GitPublisherTest {
         assertThat(commitCount).isEqualTo(1L);
     }
 
-    private State stateAt(long position) {
-        return State.EMPTY.withWorklist(100L, Instant.parse("2026-05-22T10:00:00Z")).withPosition(position);
+    private State stateAt(long chunk) {
+        return State.EMPTY
+                .withIndex(chunk, 1700000000000L, "chain-uuid")
+                .withSweepStartedAt(Instant.parse("2026-05-22T10:00:00Z"));
     }
 
     private CheckpointListener.Statistics stats(long processed, long named, long automatic, long failed) {
