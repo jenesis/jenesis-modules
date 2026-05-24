@@ -287,7 +287,7 @@ Optional system properties:
 
 A crash mid-stage-1 leaves stage 2 pending, but the next run picks the same chunk (the chain watermark hasn't advanced) and re-streams it before running stage 2 - so `current.tsv` is never built from partial data.
 
-A run stops when its wall-clock budget expires or the chunk's queue drains cleanly. On the next run the producer re-streams the index from scratch; the scanned-coordinate filter skips every coordinate already processed, so only the unscanned tail is enqueued for scanning. Re-reading the gzipped index from Central is roughly 12-15 minutes of CPU-bound parsing for the ~60 M-record main index; on incremental chunks it's seconds.
+A run stops when its wall-clock budget expires or the chunk's queue drains cleanly. On the next run the producer re-streams the index from scratch; the scanned-coordinate filter skips every coordinate already processed, so only the unscanned tail is enqueued for scanning. Re-reading the full ~3 GB gzipped main index is roughly 24 minutes of CPU-bound gzip + Lucene-record parsing at ~70 K records/sec for ~101 M records (measured against `repo.maven.apache.org` from a workstation); incremental chunks are orders of magnitude smaller and stream in seconds.
 
 ### Crash safety
 
