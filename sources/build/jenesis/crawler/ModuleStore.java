@@ -118,13 +118,15 @@ public final class ModuleStore {
     }
 
     /**
-     * Walks the modules tree and regenerates current.tsv for every module
-     * that doesn't already have one. The existence of a current*.tsv acts as
-     * the progress marker for an interrupted first-pass regeneration: if the
-     * walk crashes, the next invocation skips directories that finished and
-     * resumes from where it left off, without holding the module list in
-     * memory or needing a separate state flag. Returns the number of modules
-     * actually regenerated (excluding skipped ones).
+     * Walks the modules tree and regenerates current[-classifier].tsv for every
+     * versions[-classifier].tsv file that doesn't already have a matching current
+     * file. The unit of progress is the (module, classifier) pair: each missing
+     * current file is independently regenerated, and a crash during the walk
+     * leaves the partially-finished module in a fully-recoverable state - the
+     * next invocation skips classifier files that finished and resumes from
+     * exactly the ones still missing. No in-memory module list or separate
+     * progress flag is needed. Returns the number of files actually written
+     * (excluding skipped ones and those that resolved to an empty owner set).
      */
     public long regenerateMissing() throws IOException {
         if (!Files.isDirectory(root)) {
@@ -133,44 +135,41 @@ public final class ModuleStore {
         long count = 0L;
         try (Stream<Path> stream = Files.walk(root)) {
             for (Path dir : (Iterable<Path>) stream::iterator) {
-                if (dir.equals(root) || !Files.isDirectory(dir) || !hasVersionsFile(dir) || hasCurrentFile(dir)) {
+                if (dir.equals(root) || !Files.isDirectory(dir)) {
+                    continue;
+                }
+                List<ClassifierFile> versionFiles = listVersionFiles(dir);
+                if (versionFiles.isEmpty()) {
                     continue;
                 }
                 String moduleName = pathToModuleName(dir);
-                if (isValidModuleName(moduleName)) {
-                    regenerate(moduleName);
+                if (!isValidModuleName(moduleName)) {
+                    continue;
+                }
+                Optional<Owners> owners = null;
+                for (ClassifierFile classifierFile : versionFiles) {
+                    Path currentFile = dir.resolve(currentFileName(classifierFile.classifier()));
+                    if (Files.exists(currentFile)) {
+                        continue;
+                    }
+                    if (owners == null) {
+                        owners = loadOwners(moduleName);
+                    }
+                    List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
+                    List<CurrentEntry> resolved = resolve(versions, owners);
+                    if (resolved.isEmpty()) {
+                        // Empty result is the correct steady state (no current file). Don't
+                        // create one just to satisfy the marker - the absent-current-on-empty
+                        // case re-resolves to the same empty result next run, so it stays
+                        // self-consistent without on-disk state.
+                        continue;
+                    }
+                    writeCurrent(currentFile, resolved);
                     count++;
                 }
             }
         }
         return count;
-    }
-
-private static boolean hasVersionsFile(Path dir) throws IOException {
-        return hasFileMatching(dir, LEAF_FILE_BASE);
-    }
-
-    private static boolean hasCurrentFile(Path dir) throws IOException {
-        return hasFileMatching(dir, CURRENT_FILE_BASE);
-    }
-
-    private static boolean hasFileMatching(Path dir, String stemBase) throws IOException {
-        try (DirectoryStream<Path> entries = Files.newDirectoryStream(dir)) {
-            for (Path entry : entries) {
-                if (!Files.isRegularFile(entry)) {
-                    continue;
-                }
-                String name = entry.getFileName().toString();
-                if (!name.endsWith(LEAF_FILE_EXTENSION)) {
-                    continue;
-                }
-                String stem = name.substring(0, name.length() - LEAF_FILE_EXTENSION.length());
-                if (stem.equals(stemBase) || stem.startsWith(stemBase + '-')) {
-                    return true;
-                }
-            }
-        }
-        return false;
     }
 
     private String pathToModuleName(Path dir) {
