@@ -287,7 +287,26 @@ Optional system properties:
 
 A crash mid-stage-1 leaves stage 2 pending, but the next run picks the same chunk (the chain watermark hasn't advanced) and re-streams it before running stage 2 - so `current.tsv` is never built from partial data.
 
-A run stops when its wall-clock budget expires or the chunk's queue drains cleanly. On the next run the producer re-streams the index from scratch; the scanned-coordinate filter skips every coordinate already processed, so only the unscanned tail is enqueued for scanning. Re-reading the full ~3 GB gzipped main index is roughly 24 minutes of CPU-bound gzip + Lucene-record parsing at ~70 K records/sec for ~101 M records (measured against `repo.maven.apache.org` from a workstation); incremental chunks are orders of magnitude smaller and stream in seconds.
+A run stops when its wall-clock budget expires or the chunk's queue drains cleanly. On the next run the producer re-streams the index from scratch; the scanned-coordinate filter skips every coordinate already processed, so only the unscanned tail is enqueued for scanning. Re-reading the full main index is roughly 24 minutes of CPU-bound gzip + Lucene-record parsing (see the table below); incremental chunks are orders of magnitude smaller and stream in seconds.
+
+### Maven Central main-index characteristics (measured)
+
+Measured against `https://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.gz` from a workstation on 2026-05-24, with a reject-all filter (i.e. read + parse only, no emit, no scan):
+
+| Field | Value |
+|---|---|
+| Compressed size on the wire | 3,020,924,008 bytes (≈ 2.81 GiB) |
+| Content-Type | `application/x-gzip` |
+| Raw record count (all entries, pre-filter) | ~101,072,558 |
+| Wall-clock to fully read + parse | ~24 min 15 sec (≈ 1,455 s) |
+| Sustained records-per-second | ~70,000 (CPU-bound on gzip + Lucene record parse) |
+| Sustained compressed throughput | ~2.1 MB/s |
+| Records reaching the producer's filter | a few million (only `.jar` artifacts in non-skipped classifiers) |
+
+Practical consequences:
+- During the initial FULL sweep, every resumed run pays ~24 minutes of producer warmup before any new scanning happens — about 27% of a 90-minute budget. The producer can't be made faster without changing the index format (gzip + Lucene parsing is the floor).
+- Once the FULL completes (`state.indexChunkLastApplied >= 0`), subsequent runs pick INCREMENTAL chunks of typically thousands of records each, which stream in seconds. The warmup essentially disappears.
+- The full re-stream cost reappears only when the index `chainId` rotates upstream, or when the crawler falls off Central's ~30-chunk incremental retention window and rebaselines.
 
 ### Crash safety
 
@@ -367,7 +386,7 @@ The manual `workflow_dispatch` form also exposes per-run overrides for the most 
 
 ## Limitations to be aware of
 
-- **First sweep size**: the main index contains ~60 million records, of which a few million pass the `jar` + classifier filter and become work for the scanner. Even at full GCS throughput a fresh first pass takes many hours of crawl time, split across however many scheduled runs it takes. Each resumed run pays a ~12-15 minute "re-stream the index, filter against `data/scanned/`" overhead before doing any new scanning work; that's the price of the producer being purely in-memory, and is small compared to the per-run 90-minute scan budget.
+- **First sweep size**: the main index contains ~101 million records, of which a few million pass the `jar` + classifier filter and become work for the scanner. Even at full GCS throughput a fresh first pass takes many hours of crawl time, split across however many scheduled runs it takes. Each resumed run pays roughly 24 minutes of "re-stream the index, filter against `data/scanned/`" overhead before doing any new scanning work — about 27% of a 90-minute budget. See the "Maven Central main-index characteristics (measured)" table above for the underlying numbers.
 - **Index chain rotation**: if Maven Central republishes its index from scratch (rare, but happens) the chain id changes and a full sweep is triggered automatically. Existing module files and the scanned-coordinate index are preserved across the rotation, so already-scanned coordinates are still skipped.
 - **Incremental retention window**: Central keeps only the ~30 most recent incremental index files on the mirror. A crawler that goes longer than that without running will, on its next attempt, request an incremental that no longer exists (HTTP 404/410). The default behaviour is to fail fast with a `[error]` block naming `jenesis.crawler.allow.rebaseline`; setting that property to `true` makes the crawler reset its index baseline and re-FULL on the next iteration. `data/` is preserved either way — `ScannedStore` short-circuits every already-scanned coordinate, so the recovery sweep mostly streams the index without re-fetching JARs.
 - **Deleted artifacts**: incremental chunks can contain deletion markers. They are ignored. A coordinate that was modular and is later deleted from Central remains in the module files.
