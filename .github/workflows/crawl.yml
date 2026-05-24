@@ -8,7 +8,7 @@ on:
       budget_minutes:
         description: Wall-clock budget in minutes
         required: false
-        default: '90'
+        default: '180'
       concurrency:
         description: Concurrent artifact fetches
         required: false
@@ -71,7 +71,7 @@ jobs:
     needs: guard
     if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 110
+    timeout-minutes: 200
 
     steps:
       - name: Check out repository
@@ -97,7 +97,7 @@ jobs:
         env:
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
           INDEX_BASE: ${{ vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
-          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '90' }}
+          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '180' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '64' }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
           SMALL_JAR_THRESHOLD: ${{ vars.SMALL_JAR_THRESHOLD }}

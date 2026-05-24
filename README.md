@@ -249,7 +249,7 @@ Optional system properties:
 | Property | Default | Effect |
 |---|---|---|
 | `jenesis.crawler.data` | `data` | Where state, worklist, module files, and the scanned-index live. |
-| `jenesis.crawler.budget` | `160` | Wall-clock budget for this run, in minutes. |
+| `jenesis.crawler.budget` | `180` | Wall-clock budget for this run, in minutes. |
 | `jenesis.crawler.concurrency` | `64` | Maximum in-flight artifact fetches. Each in-flight scan can pull a multi-MB jar through the synchronous `HttpURLConnection` path, so the cap on simultaneous fetches directly bounds peak receive-buffer memory. 64 was settled on after a full sweep at 32 stayed near ~450 MB of a 4 GB heap, leaving comfortable headroom. The historical 96 default put the heap close to the worst-case ceiling when uberjars clustered in a batch, so step further (e.g. 96, 128) only with continued heap monitoring. |
 | `jenesis.crawler.tail.size` | `65536` | Bytes range-fetched from the end of each JAR. |
 | `jenesis.crawler.small.jar.threshold` | `262144` | JAR size at or below which we fetch the whole file in one request, falling back to the cached-tail path on any failure. |

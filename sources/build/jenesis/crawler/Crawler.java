@@ -26,7 +26,7 @@ public final class Crawler implements AutoCloseable {
                                 boolean reprocessFailed) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
-        public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(160L);
+        public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(180L);
         public static final int DEFAULT_CONCURRENCY = 64;
         public static final long DEFAULT_CHECKPOINT_EVERY = 2000L;
         public static final Path DEFAULT_DATA_DIR = Path.of("data");
@@ -569,8 +569,8 @@ public final class Crawler implements AutoCloseable {
         Instant deadline = runStart.plus(configuration.budget());
         long processed = 0L;
         long modular = 0L;
+        long nonmodular = 0L;
         long failed = 0L;
-        long skipped = 0L;
         long sinceCheckpoint = 0L;
         long position = startPosition;
         boolean exhausted = false;
@@ -586,7 +586,6 @@ public final class Crawler implements AutoCloseable {
                 List<Future<ScanOutcome>> futures = new ArrayList<>(batch.coordinates().size());
                 for (Coordinate coordinate : batch.coordinates()) {
                     if (scannedStore.contains(coordinate)) {
-                        skipped++;
                         continue;
                     }
                     futures.add(executor.submit(() -> scanOne(coordinate)));
@@ -614,6 +613,8 @@ public final class Crawler implements AutoCloseable {
                                 modular++;
                                 dirtyModules.add(module.name());
                             }
+                        } else {
+                            nonmodular++;
                         }
                         scannedStore.markOk(coordinate);
                     } catch (RuntimeException unexpected) {
@@ -628,11 +629,11 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal, runStart);
+                    state = checkpoint(state, statePath, position, processed, modular, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, position, processed, modular, failed, skipped, syncMode, knownTotal, totalFinal);
+            state = checkpoint(state, statePath, position, processed, modular, nonmodular, failed, syncMode, knownTotal, totalFinal, runStart);
         }
         return new Result(processed, modular, failed, state.worklistComplete(), syncMode, snapshotFailures());
     }
@@ -655,7 +656,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long failed, long skipped, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
+    private State checkpoint(State state, Path statePath, long position, long processed, long modular, long nonmodular, long failed, SyncMode syncMode, LongSupplier knownTotal, BooleanSupplier totalFinal, Instant runStart) throws IOException {
         synchronized (store) {
             store.flush();
         }
@@ -669,8 +670,8 @@ public final class Crawler implements AutoCloseable {
         String totalRendering = updated.worklistRecords() + (totalFinal.getAsBoolean() ? "" : "+");
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
         long rate = processed / elapsedSeconds;
-        System.out.println("[artifacts] processed=" + processed + " modular=" + modular + " failed=" + failed
-                + " skipped=" + skipped
+        System.out.println("[artifacts] processed=" + processed + " modular=" + modular
+                + " nonmodular=" + nonmodular + " failed=" + failed
                 + " position=" + position + "/" + totalRendering
                 + " rate=" + rate + "/s");
         checkpointListener.onCheckpoint(updated, new CheckpointListener.Statistics(processed, modular, failed, syncMode));
