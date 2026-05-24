@@ -686,6 +686,10 @@ public final class Crawler implements AutoCloseable {
                 byte[] bytes = fetcher.range(uri, 0L, (int) size);
                 Optional<ScannedModule> module = scanner.scan(ByteSource.ofBytes(bytes));
                 return new ScanOutcome(coordinate, module, null);
+            } catch (InvalidModuleDescriptorException malformed) {
+                // Malformed module-info: re-reading via the cached-tail path will fail
+                // the same way, so surface it directly instead of falling through.
+                return new ScanOutcome(coordinate, Optional.empty(), malformed);
             } catch (IOException | IllegalArgumentException smallJarFailure) {
                 // Likely a size mismatch with the index; fall back to the cached-tail path.
             }
