@@ -686,6 +686,35 @@ public final class Crawler implements AutoCloseable {
         return state;
     }
 
+    /**
+     * Cap on the retry-with-larger-tail fetch when the default tail couldn't contain the
+     * ZIP central directory. 4 MB accommodates archives with tens of thousands of entries
+     * (a typical CD entry is ~50-100 bytes including filename), which covers every
+     * shaded uberjar we've seen on Central. We never retry larger than this even for
+     * very big JARs - if 4 MB isn't enough, the artifact is genuinely malformed.
+     */
+    static final int EXPANDED_TAIL_RETRY_BYTES = 4 * 1024 * 1024;
+
+    /**
+     * Two manifestations of "the central directory didn't fit in the supplied tail":
+     *   (1) "...supplied tail buffer"  — emitted by {@link CentralDirectory#locate} when the
+     *       EOCD record / ZIP64 locator / ZIP64 EOCD record can't be located in the tail.
+     *   (2) "Expected central file header signature at offset 0" — emitted by
+     *       {@link CentralDirectory#parse} when the byte slice handed in is supposed to be
+     *       the start of the CD but the tail's first byte is past the CD start, so the
+     *       initial 4-byte read isn't the {@code PK\1\2} signature. The {@code offset 0}
+     *       qualifier distinguishes this from a mid-CD corruption (which wouldn't be
+     *       recoverable by a larger tail).
+     */
+    private static boolean isTailBufferTooSmall(Throwable error) {
+        String message = error.getMessage();
+        if (message == null) {
+            return false;
+        }
+        return message.contains("supplied tail buffer")
+                || message.equals("Expected central file header signature at offset 0");
+    }
+
     private ScanOutcome scanOne(Coordinate coordinate) {
         URI uri;
         try {
@@ -711,6 +740,19 @@ public final class Crawler implements AutoCloseable {
             ByteSource source = fetcher.sourceWithCachedTail(uri, configuration.tailSize());
             Optional<ScannedModule> module = scanner.scan(source);
             return new ScanOutcome(coordinate, module, null);
+        } catch (IllegalArgumentException error) {
+            if (!isTailBufferTooSmall(error)) {
+                return new ScanOutcome(coordinate, Optional.empty(), error);
+            }
+            // Central directory didn't fit in the default tail (typical for shaded uberjars
+            // with thousands of entries). Retry once with a much larger tail before giving up.
+            try {
+                ByteSource source = fetcher.sourceWithCachedTail(uri, EXPANDED_TAIL_RETRY_BYTES);
+                Optional<ScannedModule> module = scanner.scan(source);
+                return new ScanOutcome(coordinate, module, null);
+            } catch (Throwable retryError) {
+                return new ScanOutcome(coordinate, Optional.empty(), retryError);
+            }
         } catch (Throwable error) {
             return new ScanOutcome(coordinate, Optional.empty(), error);
         }
