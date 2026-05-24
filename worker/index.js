@@ -116,6 +116,9 @@ async function handleRequest(request, env) {
         headers: {
             Location: jarUrl,
             "Cache-Control": `public, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
+            "X-Jenesis-GroupId": row.groupId,
+            "X-Jenesis-ArtifactId": row.artifactId,
+            "X-Jenesis-Module": row.type,
         },
     });
 }

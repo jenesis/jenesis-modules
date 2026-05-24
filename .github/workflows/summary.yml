@@ -1,0 +1,65 @@
+name: Update module summary
+
+on:
+  schedule:
+    # 06:07 UTC daily, halfway between the 00:07 and 12:07 crawl runs.
+    - cron: '7 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 5
+          persist-credentials: true
+
+      - name: Set up JDK 25
+        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
+        with:
+          distribution: temurin
+          java-version: '25'
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+
+      - name: Build staged jar
+        run: java build/jenesis/Project.java stage
+
+      - name: Regenerate SUMMARY.md
+        run: |
+          set -euo pipefail
+          jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
+          java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
+               -cp "$jar" build.jenesis.crawler.ModuleSummary
+
+      - name: Commit and push if SUMMARY.md changed
+        run: |
+          set -euo pipefail
+          git add data/SUMMARY.md
+          if git diff --cached --quiet; then
+            echo "SUMMARY.md unchanged; nothing to commit."
+            exit 0
+          fi
+          stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git commit -m "summary: regenerate $stamp"
+          # The daily summary may race with the 12-hourly crawl's commits; rebase-retry
+          # handles the common case where a crawl checkpoint landed since checkout.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase || true
+          done
+          echo "Final push failed after 3 attempts" >&2
+          exit 1

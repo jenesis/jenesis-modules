@@ -3,6 +3,9 @@
 ![build](https://github.com/raphw/jenesis-modules/actions/workflows/build.yml/badge.svg)
 ![crawl](https://github.com/raphw/jenesis-modules/actions/workflows/crawl.yml/badge.svg)
 
+> ### Powered by [Jenesis](https://github.com/raphw/jenesis)
+> _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
+
 A modular Java program that crawls Maven Central and records the Java module name produced by every modularised artifact. For each module, every published version is recorded with the Maven coordinates that produced it. The intended lookup pattern is: given a module name (and optional classifier) plus a version, find the Maven coordinates that publish it.
 
 ## Output layout
