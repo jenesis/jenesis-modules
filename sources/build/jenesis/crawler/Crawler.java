@@ -8,10 +8,6 @@ public final class Crawler implements AutoCloseable {
     public static final String INDEX_PROPERTIES_FILE = "nexus-maven-repository-index.properties";
     public static final String INCREMENTAL_PREFIX = "nexus-maven-repository-index.";
     public static final String INCREMENTAL_SUFFIX = ".gz";
-    private static final List<String> LEGACY_WORKLIST_PATHS = List.of(
-            "worklist.tsv",
-            "worklist.tsv.streaming",
-            "worklist");
 
     public static final Set<String> SKIPPED_CLASSIFIERS = Set.of(
             "sources", "javadoc", "tests", "test-sources", "cyclonedx"
@@ -253,7 +249,6 @@ public final class Crawler implements AutoCloseable {
     public Result run() throws IOException {
         verifyRobotsTxt();
         Path statePath = configuration.dataDir().resolve("state.properties");
-        cleanupLegacyWorklistFiles();
         if (!configuration.resume()) {
             discardInflight(statePath);
         }
@@ -454,26 +449,6 @@ public final class Crawler implements AutoCloseable {
         System.out.println(removedAnything
                 ? "[info] Resume disabled: discarded existing state; starting fresh."
                 : "[info] Resume disabled: no existing state to discard.");
-    }
-
-    private void cleanupLegacyWorklistFiles() throws IOException {
-        Path dataDir = configuration.dataDir();
-        for (String name : LEGACY_WORKLIST_PATHS) {
-            Path path = dataDir.resolve(name);
-            if (!Files.exists(path)) {
-                continue;
-            }
-            if (Files.isDirectory(path)) {
-                try (Stream<Path> entries = Files.list(path)) {
-                    for (Path entry : (Iterable<Path>) entries::iterator) {
-                        Files.deleteIfExists(entry);
-                    }
-                }
-                Files.deleteIfExists(path);
-            } else {
-                Files.deleteIfExists(path);
-            }
-        }
     }
 
     private void verifyRobotsTxt() throws IOException {

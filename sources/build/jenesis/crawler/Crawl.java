@@ -163,7 +163,7 @@ public final class Crawl {
         System.out.println("  -D" + PROP_TAIL_SIZE + "=<n>                Bytes range-fetched from each JAR tail");
         System.out.println("  -D" + PROP_CHECKPOINT_EVERY + "=<n>        Coordinates between checkpoints");
         System.out.println("  -D" + PROP_SMALL_JAR_THRESHOLD + "=<n>  JAR size cap for one-shot fetch");
-        System.out.println("  -D" + PROP_RESUME + "=<true|false>             Resume in-flight worklist (default true)");
+        System.out.println("  -D" + PROP_RESUME + "=<true|false>             Keep existing state.properties on startup (default true; false discards it)");
         System.out.println("  -D" + PROP_REPROCESS_FAILED + "=<true|false>    Re-scan coordinates whose previous scan recorded a permanent");
         System.out.println("                                                  failure (default false; recovers from scanner bugs).");
         System.out.println("  -D" + PROP_ALLOW_REBASELINE + "=<true|false>   Allow recovery when an incremental 404s because we fell off the");
