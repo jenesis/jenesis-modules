@@ -14,6 +14,24 @@ public record Coordinate(String groupId,
     private static final String UINFO_FIELD = "u";
     private static final String INFO_FIELD = "i";
 
+    /**
+     * Extensions that the Nexus indexer occasionally writes for what should be a main JAR
+     * record (i.e. {@code classifier == null}). The Maven Indexer is documented not to index
+     * checksum, signature, or Gradle-module files, so a no-classifier record with one of these
+     * extensions is necessarily a mis-categorised JAR - the underlying bug behind the byte-buddy
+     * gap that motivated {@code ReconcileMetadata}. {@code Coordinate.from(...)} rewrites the
+     * extension back to {@code jar} so downstream code (Crawler.isInteresting, Scanner, the
+     * scanned-store filter) treats it like any other main-JAR coordinate. Side artifacts keep
+     * their classifier and are unaffected. References: OSSRH-60950 and the windup
+     * nexus-repository-indexer project, which performs the same rewrite on a downloaded index.
+     */
+    private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of(
+            "module",
+            "pom.sha256",
+            "pom.sha512",
+            "pom.asc.sha256",
+            "pom.asc.sha512");
+
     public Coordinate {
         Objects.requireNonNull(groupId, "groupId");
         Objects.requireNonNull(artifactId, "artifactId");
@@ -80,6 +98,9 @@ public record Coordinate(String groupId,
         String extension = extensionFromUinfo != null
                 ? extensionFromUinfo
                 : extensionFromInfo != null ? extensionFromInfo : packaging != null ? packaging : "jar";
+        if (classifier == null && MISCATEGORISED_JAR_EXTENSIONS.contains(extension)) {
+            extension = "jar";
+        }
 
         return Optional.of(new Coordinate(groupId, artifactId, version, classifier, extension, size, lastModified));
     }

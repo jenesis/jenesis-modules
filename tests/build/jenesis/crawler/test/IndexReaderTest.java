@@ -101,6 +101,41 @@ public class IndexReaderTest {
     }
 
     @Test
+    public void coordinate_extraction_rewrites_miscategorised_no_classifier_extensions_to_jar() {
+        // Nexus indexer bug: main-jar records sometimes get stamped with the extension of a
+        // sidecar file (Gradle .module, POM checksums, GPG-signature checksums). Rewriting
+        // to "jar" is what the windup nexus-repository-indexer fix does on the published
+        // index; we do the same at parse time so the rest of the pipeline stays vanilla.
+        for (String miscategorised : new String[]{
+                "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512"}) {
+            Map<String, String> record = Map.of(
+                    "u", "net.bytebuddy|byte-buddy|1.10.0|NA|" + miscategorised,
+                    "i", miscategorised + "|0|0|0|0|0|" + miscategorised
+            );
+            Coordinate coordinate = Coordinate.from(record).orElseThrow();
+            assertThat(coordinate.extension())
+                    .as("extension=%s with no classifier should be rewritten to jar", miscategorised)
+                    .isEqualTo("jar");
+            assertThat(coordinate.classifier()).isNull();
+        }
+    }
+
+    @Test
+    public void coordinate_extraction_keeps_classifier_records_with_unusual_extensions() {
+        // Sidecar artifacts (sources/javadoc) with checksum-style extensions are NOT mis-
+        // categorised - they're independent records the indexer emits in addition to the .jar
+        // record for that same classifier. Crawler.SKIPPED_CLASSIFIERS filters them out
+        // downstream; the parser must leave them untouched so that filter still sees them.
+        Map<String, String> record = Map.of(
+                "u", "net.bytebuddy|byte-buddy|1.10.0|javadoc|jar.asc.sha512",
+                "i", "jar.asc.sha512|0|0|0|0|0|jar.asc.sha512"
+        );
+        Coordinate coordinate = Coordinate.from(record).orElseThrow();
+        assertThat(coordinate.classifier()).isEqualTo("javadoc");
+        assertThat(coordinate.extension()).isEqualTo("jar.asc.sha512");
+    }
+
+    @Test
     public void coordinate_extraction_builds_maven_path() {
         Coordinate coordinate = new Coordinate("org.example", "widget", "2.1", null, "jar", 0L, 0L);
 
