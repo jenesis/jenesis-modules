@@ -209,11 +209,34 @@ public final class Crawler implements AutoCloseable {
     }
 
     private static void logFailure(Coordinate coordinate, Throwable error) {
+        // 404s are expected at scale: the Coordinate rewrite forwards every Nexus-indexer-
+        // mis-stamped no-classifier record (module / pom.sha512 / pom.asc.sha512 / ...) as a
+        // .jar fetch, and pom-only artifacts then 404 legitimately. They still land in
+        // scanned.tsv via recordFailure/markFailed (so future runs skip them and the summary
+        // tallies them), we just don't echo each one to stderr because the volume would drown
+        // out everything else.
+        if (is404(error)) {
+            return;
+        }
         StringBuilder builder = new StringBuilder("[scan] failed: ")
                 .append(coordinate.mavenPath())
                 .append(" :: ");
         appendThrowableLine(builder, error);
         System.err.println(builder);
+    }
+
+    private static boolean is404(Throwable error) {
+        for (Throwable cursor = error; cursor != null; cursor = cursor.getCause()) {
+            String message = cursor.getMessage();
+            if (message == null) {
+                continue;
+            }
+            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+            if (matcher.find() && "404".equals(matcher.group(1))) {
+                return true;
+            }
+        }
+        return false;
     }
 
     private static String categorize(Throwable error) {
