@@ -28,9 +28,9 @@ public class SetOwnersTest {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("com").resolve("example").resolve("lib"));
         Files.writeString(moduleDir.resolve("versions.tsv"), """
-                2.0\tnamed\tcom.example\tlib\t2024-01-15T10:00:00Z
-                1.0\tnamed\tcom.example\tlib\t2023-01-15T10:00:00Z
-                0.5\tnamed\thostile.group\timposter\t2025-06-01T12:00:00Z
+                2.0\tnamed\tcom.example\tlib\t2024-01-15T10:00:00Z\t
+                1.0\tnamed\tcom.example\tlib\t2023-01-15T10:00:00Z\t
+                0.5\tnamed\thostile.group\timposter\t2025-06-01T12:00:00Z\t
                 """);
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "com.example.lib=com.example:lib\n");
@@ -52,9 +52,9 @@ public class SetOwnersTest {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("trusted").resolve("module"));
         Files.writeString(moduleDir.resolve("versions.tsv"), """
-                1.0\tnamed\ttrusted.org\tcore\t2024-01-01T00:00:00Z
-                2.0\tnamed\ttrusted.org\textras\t2024-02-01T00:00:00Z
-                3.0\tnamed\tother.org\twhatever\t2024-03-01T00:00:00Z
+                1.0\tnamed\ttrusted.org\tcore\t2024-01-01T00:00:00Z\t
+                2.0\tnamed\ttrusted.org\textras\t2024-02-01T00:00:00Z\t
+                3.0\tnamed\tother.org\twhatever\t2024-03-01T00:00:00Z\t
                 """);
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "trusted.module=trusted.org\n");
@@ -73,7 +73,7 @@ public class SetOwnersTest {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("com").resolve("example").resolve("gone"));
         Files.writeString(moduleDir.resolve("versions.tsv"),
-                "1.0\tnamed\tcom.example\tgone\t2024-01-01T00:00:00Z\n");
+                "1.0\tnamed\tcom.example\tgone\t2024-01-01T00:00:00Z\t\n");
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "com.example.gone=\n");
 
@@ -92,9 +92,9 @@ public class SetOwnersTest {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("multi").resolve("module"));
         Files.writeString(moduleDir.resolve("versions.tsv"), """
-                1.0\tnamed\ta.example\tcore\t2024-01-01T00:00:00Z
-                2.0\tnamed\tb.example\tcore\t2024-02-01T00:00:00Z
-                3.0\tnamed\tc.example\tcore\t2024-03-01T00:00:00Z
+                1.0\tnamed\ta.example\tcore\t2024-01-01T00:00:00Z\t
+                2.0\tnamed\tb.example\tcore\t2024-02-01T00:00:00Z\t
+                3.0\tnamed\tc.example\tcore\t2024-03-01T00:00:00Z\t
                 """);
         Path first = root.resolve("first.properties");
         Path second = root.resolve("second.properties");
@@ -115,10 +115,10 @@ public class SetOwnersTest {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("classy").resolve("module"));
         Files.writeString(moduleDir.resolve("versions.tsv"),
-                "1.0\tnamed\tkeeper\tcore\t2024-01-01T00:00:00Z\n");
+                "1.0\tnamed\tkeeper\tcore\t2024-01-01T00:00:00Z\t\n");
         Files.writeString(moduleDir.resolve("versions-jakarta.tsv"), """
-                1.0\tnamed\tkeeper\tcore\t2024-01-01T00:00:00Z
-                1.0\tnamed\tdropper\tcore\t2024-02-01T00:00:00Z
+                1.0\tnamed\tkeeper\tcore\t2024-01-01T00:00:00Z\t
+                1.0\tnamed\tdropper\tcore\t2024-02-01T00:00:00Z\t
                 """);
         Path props = root.resolve("policy.properties");
         Files.writeString(props, "classy.module=keeper\n");

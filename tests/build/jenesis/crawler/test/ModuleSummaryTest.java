@@ -21,15 +21,13 @@ public class ModuleSummaryTest {
                 "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t9.9",
                 "1.2\tnamed\tcom.example\tlib\t2024-03-01T00:00:00Z\t",
                 "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
-                "0.8\tnamed\tcom.example\tlib\t2023-11-01T00:00:00Z",
-                "0.7\tautomatic\tcom.example\tlib\t2023-10-01T00:00:00Z"
+                "0.7\tautomatic\tcom.example\tlib\t2023-10-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
         writeCurrentMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib",
                 "1.2\tnamed\tcom.example\tlib",
                 "0.9\tautomatic\tcom.example\tlib",
-                "0.8\tnamed\tcom.example\tlib",
                 "0.7\tautomatic\tcom.example\tlib");
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
@@ -40,7 +38,6 @@ public class ModuleSummaryTest {
         assertThat(coverage.explicit()).isEqualTo(1L);     // 1.0: module-info "1.0" matches maven "1.0"
         assertThat(coverage.mismatching()).isEqualTo(1L);  // 1.1: module-info "9.9" differs from maven "1.1"
         assertThat(coverage.absent()).isEqualTo(1L);       // 1.2: named, module-info had no version
-        assertThat(coverage.untracked()).isEqualTo(1L);    // 0.8: named, pre-feature 5-column row
     }
 
     @Test
@@ -51,7 +48,6 @@ public class ModuleSummaryTest {
         assertThat(coverage.explicit()).isZero();
         assertThat(coverage.mismatching()).isZero();
         assertThat(coverage.absent()).isZero();
-        assertThat(coverage.untracked()).isZero();
     }
 
     @Test
@@ -79,7 +75,7 @@ public class ModuleSummaryTest {
         assertThat(content).contains("| With explicit module version | 1 |");
         assertThat(content).contains("| With mismatching module version | 1 |");
         assertThat(content).contains("| Without module version | 0 |");
-        assertThat(content).contains("| Untracked | 0 |");
+        assertThat(content).doesNotContain("Untracked");
     }
 
     @Test

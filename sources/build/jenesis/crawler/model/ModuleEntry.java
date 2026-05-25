@@ -3,20 +3,10 @@ package build.jenesis.crawler.model;
 import module java.base;
 
 /**
- * A row of versions.tsv. {@code mavenVersion} is the version from the Maven
- * coordinate that the row belongs to; {@code moduleVersion} is the raw, unparsed
- * version string from the JAR's module-info.
- *
- * <p>{@code moduleVersion} is tri-state:
- * <ul>
- *   <li>{@code null}: the row was written before module-info version extraction
- *       existed (legacy 5-column row on disk; no trailing column);</li>
- *   <li>empty string: the row was scanned after the feature was added, but the
- *       module-info declared no version (6-column row whose trailing column is
- *       empty);</li>
- *   <li>non-empty string: the raw module-info version actually extracted from
- *       the JAR (6-column row whose trailing column carries the value).</li>
- * </ul>
+ * A row of versions.tsv. {@code mavenVersion} is the version from the Maven coordinate that
+ * the row belongs to; {@code moduleVersion} is the raw, unparsed version string from the JAR's
+ * {@code module-info}. An empty {@code moduleVersion} means the JAR was scanned and its
+ * {@code module-info} carried no version attribute; a non-empty value is the literal string.
  */
 public record ModuleEntry(Version mavenVersion, ModuleType type, String groupId, String artifactId, long publishedAt, String moduleVersion) {
 
@@ -34,13 +24,10 @@ public record ModuleEntry(Version mavenVersion, ModuleType type, String groupId,
         Objects.requireNonNull(type, "type");
         Objects.requireNonNull(groupId, "groupId");
         Objects.requireNonNull(artifactId, "artifactId");
+        Objects.requireNonNull(moduleVersion, "moduleVersion");
         if (publishedAt < 0L) {
             throw new IllegalArgumentException("publishedAt must be >= 0, got: " + publishedAt);
         }
-    }
-
-    public ModuleEntry(Version mavenVersion, ModuleType type, String groupId, String artifactId, long publishedAt) {
-        this(mavenVersion, type, groupId, artifactId, publishedAt, null);
     }
 
     public String publishedAtIso() {
@@ -48,8 +35,8 @@ public record ModuleEntry(Version mavenVersion, ModuleType type, String groupId,
     }
 
     public String format() {
-        String prefix = mavenVersion.raw() + '\t' + type.label() + '\t' + groupId + '\t' + artifactId + '\t' + publishedAtIso();
-        return moduleVersion == null ? prefix : prefix + '\t' + moduleVersion;
+        return mavenVersion.raw() + '\t' + type.label() + '\t' + groupId + '\t' + artifactId
+                + '\t' + publishedAtIso() + '\t' + moduleVersion;
     }
 
     public static ModuleEntry parse(String line) {
@@ -70,27 +57,18 @@ public record ModuleEntry(Version mavenVersion, ModuleType type, String groupId,
             throw new IllegalArgumentException("Missing fourth tab in line: " + line);
         }
         int fifthTab = line.indexOf('\t', fourthTab + 1);
-        // A fifth tab marks a row written after module-info version extraction was added.
-        // The trailing column is the raw module-info version (possibly empty when module-info
-        // had no version attribute). Rows without a fifth tab are pre-feature legacy rows
-        // whose module-info version was never read and must stay distinguishable from rows
-        // that were read and found absent.
-        String rawPublishedAt;
-        String moduleVersion;
         if (fifthTab < 0) {
-            rawPublishedAt = line.substring(fourthTab + 1);
-            moduleVersion = null;
-        } else {
-            if (line.indexOf('\t', fifthTab + 1) >= 0) {
-                throw new IllegalArgumentException("Unexpected extra tab in line: " + line);
-            }
-            rawPublishedAt = line.substring(fourthTab + 1, fifthTab);
-            moduleVersion = line.substring(fifthTab + 1);
+            throw new IllegalArgumentException("Missing fifth tab in line: " + line);
+        }
+        if (line.indexOf('\t', fifthTab + 1) >= 0) {
+            throw new IllegalArgumentException("Unexpected extra tab in line: " + line);
         }
         String rawMavenVersion = line.substring(0, firstTab);
         String typeLabel = line.substring(firstTab + 1, secondTab);
         String groupId = line.substring(secondTab + 1, thirdTab);
         String artifactId = line.substring(thirdTab + 1, fourthTab);
+        String rawPublishedAt = line.substring(fourthTab + 1, fifthTab);
+        String moduleVersion = line.substring(fifthTab + 1);
         long publishedAt;
         try {
             publishedAt = Instant.from(ISO_UTC_SECONDS.parse(rawPublishedAt)).toEpochMilli();

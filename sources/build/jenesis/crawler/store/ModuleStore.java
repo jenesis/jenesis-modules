@@ -82,8 +82,7 @@ public final class ModuleStore {
      * at all, as with automatic modules). The caller has scanned the artifact,
      * so the resulting row is always written in the post-feature format: a
      * {@code null} {@code moduleVersion} produces a row whose trailing column
-     * exists but is empty, distinguishing it from legacy rows (no trailing
-     * column at all) that predate this feature.
+     * exists but is empty.
      */
     public boolean record(String moduleName, ModuleType type, String moduleVersion, Coordinate coordinate) {
         if (coordinate.lastModified() <= 0L) {

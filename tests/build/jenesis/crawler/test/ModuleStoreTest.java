@@ -26,32 +26,13 @@ public class ModuleStoreTest {
 
         Path file = root.resolve("com").resolve("example").resolve("lib").resolve("versions.tsv");
         List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
-        // Both rows are in the new 6-column format; the null moduleVersion becomes an empty
-        // trailing column to distinguish "scanned, module-info had no version" from legacy
-        // rows that predate version extraction.
+        // Both rows are in the 6-column format. A null moduleVersion becomes an empty trailing
+        // column ("scanned, module-info had no version") while a non-empty one is written
+        // verbatim.
         assertThat(lines).hasSize(2);
         assertThat(lines.get(0)).endsWith("\t4.2.0");
         assertThat(lines.get(1)).endsWith("\t");
         assertThat(lines.get(1).chars().filter(c -> c == '\t').count()).isEqualTo(5L);
-    }
-
-    @Test
-    public void preserves_legacy_five_column_rows_when_appending_new_row() throws IOException {
-        Path moduleDir = Files.createDirectories(root.resolve("legacy").resolve("module"));
-        // Hand-write a pre-feature versions.tsv row that ends at the publishedAt column.
-        Files.writeString(moduleDir.resolve("versions.tsv"),
-                "0.9\tnamed\tg\ta\t2023-01-01T00:00:00Z\n",
-                StandardCharsets.UTF_8);
-
-        ModuleStore store = new ModuleStore(root);
-        store.record("legacy.module", ModuleType.NAMED, "x.y", ts("g", "a", "1.0", null, 1_700_000_000_000L));
-        store.flush();
-
-        List<String> lines = Files.readAllLines(moduleDir.resolve("versions.tsv"), StandardCharsets.UTF_8);
-        assertThat(lines).hasSize(2);
-        // Legacy row stays in its original 5-column form; the new row gets the trailing module version column.
-        assertThat(lines.get(0)).isEqualTo("0.9\tnamed\tg\ta\t2023-01-01T00:00:00Z");
-        assertThat(lines.get(1)).endsWith("\tx.y");
     }
 
     @Test

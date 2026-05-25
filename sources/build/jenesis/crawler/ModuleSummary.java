@@ -109,10 +109,9 @@ public final class ModuleSummary {
      *   <li>{@code explicit}: module-info declared a version and it equals the Maven coordinate version.</li>
      *   <li>{@code mismatching}: module-info declared a non-empty version that differs from the Maven coordinate version.</li>
      *   <li>{@code absent}: the JAR was scanned but module-info declared no version.</li>
-     *   <li>{@code untracked}: legacy row written before the module-info-version column existed; still to be backfilled by {@code PatchModuleVersion}.</li>
      * </ul>
      */
-    public record ModuleVersionCoverage(long explicit, long mismatching, long absent, long untracked) {
+    public record ModuleVersionCoverage(long explicit, long mismatching, long absent) {
     }
 
     /**
@@ -122,7 +121,7 @@ public final class ModuleSummary {
      * publisher's release process didn't fully strip a SNAPSHOT marker, a repackager appended a
      * coordinate suffix, etc.); {@code substantive} is the catch-all for everything that looks
      * like a genuinely different version. Counted only over rows where both versions are
-     * non-empty - {@code explicit}/{@code absent}/{@code untracked} don't reach here.
+     * non-empty - {@code explicit} and {@code absent} don't reach here.
      *
      * <ul>
      *   <li>{@code snapshotSuffix}: module-info version is exactly {@code <maven>-SNAPSHOT}.
@@ -327,12 +326,11 @@ public final class ModuleSummary {
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
         builder.append("## Module-info version coverage\n\n");
-        builder.append("Counted over named-module rows (automatic modules are excluded since they have no `module-info` to declare a version), filtered to rows in `current.tsv`. \"Explicit\" means the row's `module-info` declared a version that equals the Maven coordinate version; \"mismatching\" means a non-empty `module-info` version that differs from the Maven version; \"without\" means the JAR was scanned but `module-info` declared no version; \"untracked\" means a legacy row written before the column existed and not yet backfilled by `PatchModuleVersion`.\n\n");
+        builder.append("Counted over named-module rows (automatic modules are excluded since they have no `module-info` to declare a version), filtered to rows in `current.tsv`. \"Explicit\" means the row's `module-info` declared a version that equals the Maven coordinate version; \"mismatching\" means a non-empty `module-info` version that differs from the Maven version; \"without\" means the JAR was scanned but `module-info` declared no version.\n\n");
         builder.append("| Category | Rows |\n|---|---:|\n");
         builder.append("| With explicit module version | ").append(fmt(coverage.explicit())).append(" |\n");
         builder.append("| With mismatching module version | ").append(fmt(coverage.mismatching())).append(" |\n");
-        builder.append("| Without module version | ").append(fmt(coverage.absent())).append(" |\n");
-        builder.append("| Untracked | ").append(fmt(coverage.untracked())).append(" |\n\n");
+        builder.append("| Without module version | ").append(fmt(coverage.absent())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -567,7 +565,6 @@ public final class ModuleSummary {
         private long moduleVersionExplicit;
         private long moduleVersionMismatching;
         private long moduleVersionAbsent;
-        private long moduleVersionUntracked;
         private long mismatchSnapshotSuffix;
         private long mismatchOtherSuffixAdded;
         private long mismatchSuffixDropped;
@@ -717,9 +714,7 @@ public final class ModuleSummary {
                 if (entry.type() == ModuleType.NAMED) {
                     totalNamedVersionRows++;
                     String moduleVersion = entry.moduleVersion();
-                    if (moduleVersion == null) {
-                        moduleVersionUntracked++;
-                    } else if (moduleVersion.isEmpty()) {
+                    if (moduleVersion.isEmpty()) {
                         moduleVersionAbsent++;
                     } else {
                         // Within the explicit/mismatching split, semantic Version equality
@@ -911,8 +906,7 @@ public final class ModuleSummary {
             ModuleVersionCoverage coverage = new ModuleVersionCoverage(
                     moduleVersionExplicit,
                     moduleVersionMismatching,
-                    moduleVersionAbsent,
-                    moduleVersionUntracked);
+                    moduleVersionAbsent);
             MismatchPatterns mismatchPatterns = new MismatchPatterns(
                     mismatchSnapshotSuffix,
                     mismatchOtherSuffixAdded,
