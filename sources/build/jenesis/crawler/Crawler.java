@@ -688,6 +688,7 @@ public final class Crawler implements AutoCloseable {
         long automatic = 0L;
         long nonmodular = 0L;
         long failed = 0L;
+        long notFound = 0L;
         long sinceCheckpoint = 0L;
         boolean exhausted = false;
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor()) {
@@ -709,7 +710,11 @@ public final class Crawler implements AutoCloseable {
                     ScanOutcome outcome = await(future);
                     Coordinate coordinate = outcome.coordinate();
                     if (outcome.error() != null) {
-                        failed++;
+                        if (is404(outcome.error())) {
+                            notFound++;
+                        } else {
+                            failed++;
+                        }
                         logFailure(coordinate, outcome.error());
                         recordFailure(outcome.error());
                         if (isPermanentFailure(outcome.error())) {
@@ -739,7 +744,11 @@ public final class Crawler implements AutoCloseable {
                         }
                         scannedStore.markOk(coordinate);
                     } catch (RuntimeException unexpected) {
-                        failed++;
+                        if (is404(unexpected)) {
+                            notFound++;
+                        } else {
+                            failed++;
+                        }
                         logFailure(coordinate, unexpected);
                         recordFailure(unexpected);
                         if (isPermanentFailure(unexpected)) {
@@ -750,11 +759,11 @@ public final class Crawler implements AutoCloseable {
                 processed += batch.coordinates().size();
                 sinceCheckpoint += batch.coordinates().size();
                 if (sinceCheckpoint >= configuration.checkpointEvery()) {
-                    state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, syncMode, emittedSoFar.getAsLong(), runStart);
+                    state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, notFound, syncMode, emittedSoFar.getAsLong(), runStart);
                     sinceCheckpoint = 0L;
                 }
             }
-            state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, syncMode, emittedSoFar.getAsLong(), runStart);
+            state = checkpoint(state, statePath, processed, named, automatic, nonmodular, failed, notFound, syncMode, emittedSoFar.getAsLong(), runStart);
         }
         return new Result(processed, named, automatic, failed, exhausted, syncMode, snapshotFailures());
     }
@@ -777,7 +786,7 @@ public final class Crawler implements AutoCloseable {
         }
     }
 
-    private State checkpoint(State state, Path statePath, long processed, long named, long automatic, long nonmodular, long failed, SyncMode syncMode, long emitted, Instant runStart) throws IOException {
+    private State checkpoint(State state, Path statePath, long processed, long named, long automatic, long nonmodular, long failed, long notFound, SyncMode syncMode, long emitted, Instant runStart) throws IOException {
         synchronized (store) {
             store.flush();
         }
@@ -786,7 +795,7 @@ public final class Crawler implements AutoCloseable {
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
         long rate = processed / elapsedSeconds;
         System.out.println("[artifacts] processed=" + processed + " named=" + named + " automatic=" + automatic
-                + " nonmodular=" + nonmodular + " failed=" + failed
+                + " nonmodular=" + nonmodular + " failed=" + failed + " notFound=" + notFound
                 + " emitted=" + emitted
                 + " rate=" + rate + "/s");
         checkpointListener.onCheckpoint(state, new CheckpointListener.Statistics(processed, named, automatic, failed, syncMode));
