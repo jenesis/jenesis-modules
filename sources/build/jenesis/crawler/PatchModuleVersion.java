@@ -149,7 +149,7 @@ public final class PatchModuleVersion {
         Stats stats = new Stats();
         long lastCheckpointedAt = 0L;
         long lastProgressLoggedAt = 0L;
-        long progressEvery = 500L;
+        long progressEvery = 100L;
         Semaphore inflight = new Semaphore(concurrency);
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor();
              Stream<Path> stream = Files.walk(modulesRoot)) {
@@ -164,11 +164,14 @@ public final class PatchModuleVersion {
                 patchFile(versionsFile.get(), fetcher, scanner, artifactBase, executor, inflight, tailSize, stats);
                 // Most files already carry the trailing column and patch in microseconds without
                 // emitting their own log line, so without a heartbeat the walker can appear hung
-                // for many minutes. Tick every {@code progressEvery} files scanned regardless of
-                // whether any were patched.
+                // for many minutes. Tick every {@code progressEvery} files visited regardless of
+                // whether any were patched. {@code ignored} = scanned - patched is the count of
+                // files that had no legacy rows left to backfill, which is the common case.
                 if (stats.filesScanned >= lastProgressLoggedAt + progressEvery) {
+                    long ignored = stats.filesScanned - stats.filesPatched;
                     System.out.println("[patch] scanned=" + stats.filesScanned
                             + " patched=" + stats.filesPatched
+                            + " ignored=" + ignored
                             + " rows[patched]=" + stats.rowsPatched
                             + " rows[automatic]=" + stats.rowsAutomatic
                             + " rows[failed]=" + stats.rowsFailed);
