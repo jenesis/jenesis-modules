@@ -118,8 +118,8 @@ public final class ModuleSummary {
                          long versionRows,
                          long namedVersionRows,
                          long automaticVersionRows,
-                         long explicitModuleVersionRows,
-                         int distinctModulesWithExplicitModuleVersion,
+                         long namedVersionRowsWithModuleVersion,
+                         int distinctModulesWithModuleVersion,
                          long scannedArtifacts,
                          long nonModuleArtifacts,
                          long distinctMavenArtifacts,
@@ -250,19 +250,19 @@ public final class ModuleSummary {
 
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
-        builder.append("Catalogue-wide counts. \"Artifacts\" counts JARs (one row per groupId/artifactId/version/classifier coordinate); \"modules\" counts the named or automatic-module identities those JARs expose. Distinct counts deduplicate by name. \"With module-info version\" means the module declared a version in its `module-info` that semantically matches the Maven coordinate version.\n\n");
+        builder.append("Catalogue-wide counts. \"Artifacts\" counts JARs (one row per groupId/artifactId/version/classifier coordinate); \"modules\" counts the named or automatic-module identities those JARs expose. Distinct counts deduplicate by name. \"With module-info version\" means the module declared a non-empty version in its `module-info`, whether or not it matches the Maven coordinate version. The Module-info version coverage table further splits that group into explicit (semantic match) and mismatching.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
         builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
         builder.append("| Modular artifacts | ").append(fmt(totals.versionRows())).append(" |\n");
         builder.append("| Total automatic modules | ").append(fmt(totals.automaticVersionRows())).append(" |\n");
         builder.append("| Total named modules | ").append(fmt(totals.namedVersionRows())).append(" |\n");
-        builder.append("| Total named modules with module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
+        builder.append("| Total named modules with module-info version | ").append(fmt(totals.namedVersionRowsWithModuleVersion())).append(" |\n");
         builder.append("| Distinct Maven artifacts | ").append(fmt(totals.distinctMavenArtifacts())).append(" |\n");
         builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
         builder.append("| Distinct automatic modules | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n");
         builder.append("| Distinct named modules | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
-        builder.append("| Distinct named modules with module-info version | ").append(fmt(totals.distinctModulesWithExplicitModuleVersion())).append(" |\n");
+        builder.append("| Distinct named modules with module-info version | ").append(fmt(totals.distinctModulesWithModuleVersion())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent tracked publication | ")
                 .append(totals.latestPublishedAt().map(HUMAN_UTC_TIMESTAMP::format).orElse("(none)"))
@@ -476,7 +476,7 @@ public final class ModuleSummary {
         private long processingErrorTotal;
         private long scannedArtifactTotal;
         private long distinctMavenArtifactTotal;
-        private final Set<String> moduleKeysWithExplicitModuleVersion = new HashSet<>();
+        private final Set<String> moduleKeysWithModuleVersion = new HashSet<>();
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
         private final Map<YearMonth, long[]> monthlyTypeCounts = new HashMap<>();
 
@@ -570,14 +570,18 @@ public final class ModuleSummary {
                         moduleVersionUntracked++;
                     } else if (moduleVersion.isEmpty()) {
                         moduleVersionAbsent++;
-                    } else if (new Version(moduleVersion).equals(entry.mavenVersion())) {
-                        // Semantic equality: "1.0" and "1.0.0" are both treated as explicit
-                        // matches. Without this, trailing zero variants and qualifier aliases
-                        // (ga, final, release) would land in mismatching and inflate that bucket.
-                        moduleVersionExplicit++;
-                        moduleKeysWithExplicitModuleVersion.add(moduleKey);
                     } else {
-                        moduleVersionMismatching++;
+                        // A non-empty module-info version: the row counts toward the
+                        // "has a module-info version" tally regardless of whether it matches
+                        // the Maven coordinate. Within that, the explicit/mismatching split
+                        // uses semantic Version equality so trailing-zero and qualifier-alias
+                        // variants ("1.0" vs "1.0.0", "1.0-ga" vs "1.0") aggregate as matches.
+                        moduleKeysWithModuleVersion.add(moduleKey);
+                        if (new Version(moduleVersion).equals(entry.mavenVersion())) {
+                            moduleVersionExplicit++;
+                        } else {
+                            moduleVersionMismatching++;
+                        }
                     }
                 }
             }
@@ -682,8 +686,8 @@ public final class ModuleSummary {
                     totalVersionRows,
                     totalNamedVersionRows,
                     totalAutomaticVersionRows,
-                    moduleVersionExplicit,
-                    moduleKeysWithExplicitModuleVersion.size(),
+                    moduleVersionExplicit + moduleVersionMismatching,
+                    moduleKeysWithModuleVersion.size(),
                     scannedArtifactTotal,
                     nonModuleArtifacts,
                     distinctMavenArtifactTotal,

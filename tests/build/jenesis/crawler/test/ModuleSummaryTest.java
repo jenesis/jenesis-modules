@@ -211,12 +211,12 @@ public class ModuleSummaryTest {
     }
 
     @Test
-    public void totals_include_named_and_explicit_module_version_rows() throws IOException {
+    public void totals_include_named_and_module_version_rows() throws IOException {
         Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
         Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
-                "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0",
-                "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1",
-                "1.2\tnamed\tcom.example\tlib\t2024-03-01T00:00:00Z\t",
+                "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0",       // explicit
+                "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t9.9",       // mismatching
+                "1.2\tnamed\tcom.example\tlib\t2024-03-01T00:00:00Z\t",          // absent
                 "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
                 "0.8\tautomatic\tcom.example\tlib\t2023-11-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
@@ -225,7 +225,9 @@ public class ModuleSummaryTest {
 
         assertThat(stats.totals().namedVersionRows()).isEqualTo(3L);
         assertThat(stats.totals().automaticVersionRows()).isEqualTo(2L);
-        assertThat(stats.totals().explicitModuleVersionRows()).isEqualTo(2L);
+        // Rows with any non-empty module-info version (explicit + mismatching).
+        assertThat(stats.totals().namedVersionRowsWithModuleVersion()).isEqualTo(2L);
+        assertThat(stats.totals().distinctModulesWithModuleVersion()).isEqualTo(1);
     }
 
     @Test
