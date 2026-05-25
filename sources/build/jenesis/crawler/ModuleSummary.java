@@ -90,6 +90,7 @@ public final class ModuleSummary {
                         TypeBreakdown named,
                         TypeBreakdown automatic,
                         ModuleVersionCoverage moduleVersionCoverage,
+                        MismatchPatterns mismatchPatterns,
                         Transitions transitions,
                         RecentActivity recent,
                         List<MonthlyPublication> monthlyPublications,
@@ -112,6 +113,51 @@ public final class ModuleSummary {
      * </ul>
      */
     public record ModuleVersionCoverage(long explicit, long mismatching, long absent, long untracked) {
+    }
+
+    /**
+     * Pattern breakdown of the rows in {@link ModuleVersionCoverage#mismatching}. Each row in
+     * the mismatching bucket falls into exactly one of these classes, so the fields sum to the
+     * mismatching total. Categories closer to the top of the list are formatting drift (the
+     * publisher's release process didn't fully strip a SNAPSHOT marker, a repackager appended a
+     * coordinate suffix, etc.); {@code substantive} is the catch-all for everything that looks
+     * like a genuinely different version. Counted only over rows where both versions are
+     * non-empty - {@code explicit}/{@code absent}/{@code untracked} don't reach here.
+     *
+     * <ul>
+     *   <li>{@code snapshotSuffix}: module-info version is exactly {@code <maven>-SNAPSHOT}.
+     *       Typical of releases that forgot to drop the SNAPSHOT qualifier when promoting.</li>
+     *   <li>{@code otherSuffixAdded}: module-info version is {@code <maven>-<suffix>} for some
+     *       non-SNAPSHOT suffix (build labels, patch tags, etc.).</li>
+     *   <li>{@code suffixDropped}: Maven version is {@code <module>-<suffix>}. Typical of
+     *       repackagers that append an {@code -r<N>} suffix to the Maven coordinate while the
+     *       module-info keeps the upstream version unchanged.</li>
+     *   <li>{@code segmentAdded}: module-info version is {@code <maven>.<segment>} - the module
+     *       carries an extra dot-segment past where the Maven version ends.</li>
+     *   <li>{@code segmentDropped}: Maven version is {@code <module>.<segment>} - the Maven
+     *       coordinate carries an extra dot-segment past the module version. Both segment
+     *       categories slip past {@link build.jenesis.crawler.model.Version#equals(Object)}
+     *       only when the trailing segment is non-numeric or non-trivial.</li>
+     *   <li>{@code substantive}: everything else - module-info declares a meaningfully
+     *       different version than the Maven coordinate.</li>
+     * </ul>
+     */
+    public record MismatchPatterns(long snapshotSuffix,
+                                   long otherSuffixAdded,
+                                   long suffixDropped,
+                                   long segmentAdded,
+                                   long segmentDropped,
+                                   long plusMetadataAdded,
+                                   long plusMetadataDropped,
+                                   long unresolvedPlaceholder,
+                                   long differentMajor,
+                                   long substantive) {
+
+        public long total() {
+            return snapshotSuffix + otherSuffixAdded + suffixDropped + segmentAdded + segmentDropped
+                    + plusMetadataAdded + plusMetadataDropped + unresolvedPlaceholder
+                    + differentMajor + substantive;
+        }
     }
 
     public record Totals(int modules,
@@ -283,6 +329,8 @@ public final class ModuleSummary {
         builder.append("| Without module version | ").append(fmt(coverage.absent())).append(" |\n");
         builder.append("| Untracked | ").append(fmt(coverage.untracked())).append(" |\n\n");
 
+        renderMismatchPatterns(builder, stats.mismatchPatterns());
+
         builder.append("## Type transitions (from current.tsv history)\n\n");
         builder.append("Counted from each module's resolved view: if the latest-version row is one type and at least one older-version row is the other type, the module is counted in the appropriate direction. Cross-publisher type swings that exist in the audit log but were filtered out by owners.tsv are intentionally excluded.\n\n");
         builder.append("| Direction | Modules |\n|---|---:|\n");
@@ -397,6 +445,42 @@ public final class ModuleSummary {
      * automatic by eye. Markdown doesn't render real graphs, so the table-with-bars approach
      * keeps the section readable in any renderer (GitHub, plain text, IDE preview).
      */
+    /**
+     * Renders the per-pattern split of mismatching rows with absolute counts AND share-of-total
+     * percentages. The percentages help the reader see at a glance how much of the mismatching
+     * bucket is benign formatting drift vs genuinely different versions - the bulk is almost
+     * always {@code substantive}, but the formatting buckets are concentrated in a few prolific
+     * publishers and worth surfacing separately.
+     */
+    private static void renderMismatchPatterns(StringBuilder builder, MismatchPatterns patterns) {
+        long total = patterns.total();
+        builder.append("## Mismatching module-info version patterns\n\n");
+        builder.append("Breaks down the **mismatching** rows by *why* the `module-info` version differs from the Maven coordinate. **Restricted to rows that appear in `current.tsv`** so historical/audit-only collisions (publishers owners.tsv has since deprioritised) don't skew the picture: these patterns reflect what consumers will actually see when they resolve a module name today. The first several rows are formatting drift (publisher forgot to drop a `-SNAPSHOT`, a repackager's coordinate suffix, build-metadata `+` labels, extra dot-segments); `Unresolved placeholder` is a build-time `${...}` substitution that leaked through; `Different major segment` is a strong proxy for shaded/bundled artifacts whose `module-info` comes from a different versioning lineage; `Substantively different` is the remainder where the versions share a first segment but otherwise differ. Percentages are share of this filtered total.\n\n");
+        builder.append("| Pattern | Rows | Share |\n|---|---:|---:|\n");
+        appendMismatchRow(builder, "Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT)", patterns.snapshotSuffix(), total);
+        appendMismatchRow(builder, "Module = Maven + `-<other suffix>` (build label, patch tag)", patterns.otherSuffixAdded(), total);
+        appendMismatchRow(builder, "Maven = Module + `-<suffix>` (repackager appended a coordinate suffix)", patterns.suffixDropped(), total);
+        appendMismatchRow(builder, "Module = Maven + `.<segment>` (extra dot-segment in module-info)", patterns.segmentAdded(), total);
+        appendMismatchRow(builder, "Maven = Module + `.<segment>` (extra dot-segment in coordinate)", patterns.segmentDropped(), total);
+        appendMismatchRow(builder, "Module = Maven + `+<metadata>` (build metadata in module-info)", patterns.plusMetadataAdded(), total);
+        appendMismatchRow(builder, "Maven = Module + `+<metadata>` (build metadata in coordinate)", patterns.plusMetadataDropped(), total);
+        appendMismatchRow(builder, "Unresolved `${...}` placeholder in either version", patterns.unresolvedPlaceholder(), total);
+        appendMismatchRow(builder, "Different major segment (likely shaded/bundled artifact)", patterns.differentMajor(), total);
+        appendMismatchRow(builder, "Substantively different (same major, different version)", patterns.substantive(), total);
+        builder.append('\n');
+    }
+
+    private static void appendMismatchRow(StringBuilder builder, String label, long count, long total) {
+        builder.append("| ").append(label).append(" | ").append(fmt(count)).append(" | ");
+        if (total > 0L) {
+            double percent = count * 100.0 / (double) total;
+            builder.append(String.format(Locale.ROOT, "%.1f", percent)).append('%');
+        } else {
+            builder.append('-');
+        }
+        builder.append(" |\n");
+    }
+
     private static void renderMonthlyPublications(StringBuilder builder, List<MonthlyPublication> monthly) {
         builder.append("## Monthly publications by type (last 12 months)\n\n");
         builder.append("Counted from `versions.tsv` by the row's `publishedAt` timestamp (UTC) and type. Bars are scaled to the maximum count across either type so the two columns are directly comparable.\n\n");
@@ -465,6 +549,16 @@ public final class ModuleSummary {
         private long moduleVersionMismatching;
         private long moduleVersionAbsent;
         private long moduleVersionUntracked;
+        private long mismatchSnapshotSuffix;
+        private long mismatchOtherSuffixAdded;
+        private long mismatchSuffixDropped;
+        private long mismatchSegmentAdded;
+        private long mismatchSegmentDropped;
+        private long mismatchPlusMetadataAdded;
+        private long mismatchPlusMetadataDropped;
+        private long mismatchUnresolvedPlaceholder;
+        private long mismatchDifferentMajor;
+        private long mismatchSubstantive;
 
         private final Set<Path> dirsWithClassifier = new HashSet<>();
         private final Set<String> distinctGroupIds = new HashSet<>();
@@ -529,6 +623,12 @@ public final class ModuleSummary {
             if (classifier == null) {
                 versionsCountByModule.put(moduleName, versions.size());
             }
+            // Pre-read the current.tsv keys so the mismatch-pattern categoriser can filter to
+            // rows that survive owners-based resolution. Mismatches in historical/audit-only
+            // rows (collisions that owners.tsv weeded out) shouldn't drive the formatting-drift
+            // narrative; they belong to publishers we no longer treat as authoritative for the
+            // module name.
+            Set<String> currentKeys = currentFile == null ? Set.of() : readCurrentKeys(currentFile);
 
             Set<String> groupsHere = new HashSet<>();
             boolean recent = false;
@@ -581,6 +681,9 @@ public final class ModuleSummary {
                             moduleVersionExplicit++;
                         } else {
                             moduleVersionMismatching++;
+                            if (currentKeys.contains(currentKey(entry))) {
+                                categoriseMismatch(moduleVersion, entry.mavenVersion().raw());
+                            }
                         }
                     }
                 }
@@ -751,6 +854,17 @@ public final class ModuleSummary {
                     moduleVersionMismatching,
                     moduleVersionAbsent,
                     moduleVersionUntracked);
+            MismatchPatterns mismatchPatterns = new MismatchPatterns(
+                    mismatchSnapshotSuffix,
+                    mismatchOtherSuffixAdded,
+                    mismatchSuffixDropped,
+                    mismatchSegmentAdded,
+                    mismatchSegmentDropped,
+                    mismatchPlusMetadataAdded,
+                    mismatchPlusMetadataDropped,
+                    mismatchUnresolvedPlaceholder,
+                    mismatchDifferentMajor,
+                    mismatchSubstantive);
             YearMonth currentMonth = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC));
             List<MonthlyPublication> monthly = new ArrayList<>(12);
             for (int i = 11; i >= 0; i--) {
@@ -758,7 +872,69 @@ public final class ModuleSummary {
                 long[] counts = monthlyTypeCounts.getOrDefault(month, new long[2]);
                 monthly.add(new MonthlyPublication(month, counts[0], counts[1]));
             }
-            return new Stats(generatedAt, state, totals, named, automatic, coverage, transitions, recent, monthly, naming, errors, top);
+            return new Stats(generatedAt, state, totals, named, automatic, coverage, mismatchPatterns,
+                    transitions, recent, monthly, naming, errors, top);
+        }
+
+        /**
+         * Classifies a single mismatching row into the pattern buckets exposed by
+         * {@link MismatchPatterns}. The first matching rule wins, so e.g.
+         * {@code module = maven + "-SNAPSHOT"} is counted separately from the broader
+         * {@code module = maven + "-<other suffix>"} category.
+         */
+        private void categoriseMismatch(String moduleVersion, String mavenRaw) {
+            if (moduleVersion.equals(mavenRaw + "-SNAPSHOT")) {
+                mismatchSnapshotSuffix++;
+            } else if (moduleVersion.startsWith(mavenRaw + "-")) {
+                mismatchOtherSuffixAdded++;
+            } else if (mavenRaw.startsWith(moduleVersion + "-")) {
+                mismatchSuffixDropped++;
+            } else if (moduleVersion.startsWith(mavenRaw + ".")) {
+                mismatchSegmentAdded++;
+            } else if (mavenRaw.startsWith(moduleVersion + ".")) {
+                mismatchSegmentDropped++;
+            } else if (moduleVersion.startsWith(mavenRaw + "+")) {
+                mismatchPlusMetadataAdded++;
+            } else if (mavenRaw.startsWith(moduleVersion + "+")) {
+                mismatchPlusMetadataDropped++;
+            } else if (moduleVersion.contains("${") || mavenRaw.contains("${")) {
+                // Unresolved Maven property placeholder leaked into a published artifact - rare
+                // but real (a build-time substitution failed and the version literal ${...} got
+                // baked into either module-info or the coordinate).
+                mismatchUnresolvedPlaceholder++;
+            } else if (!firstDotSegment(moduleVersion).equals(firstDotSegment(mavenRaw))) {
+                // First dot-segment differs. Most often this is a shaded/bundled artifact whose
+                // module-info comes from a completely different versioning lineage than the host
+                // Maven coordinate (e.g. jackson-jr-all 2.15.1 declaring module-info for the
+                // bundled fastdoubleparser 0.9.0). Separating it from the same-major drift gives
+                // a usable proxy for "how much of the catalogue is shaded JARs vs real drift".
+                mismatchDifferentMajor++;
+            } else {
+                mismatchSubstantive++;
+            }
+        }
+
+        private static String firstDotSegment(String version) {
+            int dot = version.indexOf('.');
+            return dot < 0 ? version : version.substring(0, dot);
+        }
+
+        private static Set<String> readCurrentKeys(Path file) throws IOException {
+            Set<String> keys = new HashSet<>();
+            try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
+                lines.filter(line -> !line.isEmpty())
+                        .map(CurrentEntry::parse)
+                        .forEach(entry -> keys.add(currentKey(entry.version().raw(), entry.groupId(), entry.artifactId())));
+            }
+            return keys;
+        }
+
+        private static String currentKey(ModuleEntry entry) {
+            return currentKey(entry.mavenVersion().raw(), entry.groupId(), entry.artifactId());
+        }
+
+        private static String currentKey(String version, String groupId, String artifactId) {
+            return version + '|' + groupId + '|' + artifactId;
         }
     }
 
