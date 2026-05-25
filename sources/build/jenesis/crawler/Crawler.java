@@ -382,9 +382,31 @@ public final class Crawler implements AutoCloseable {
                 regenerateMissingForFirstPass();
             }
 
-            long chunkApplied = (plan.mode() == SyncMode.FULL)
-                    ? State.load(statePath).indexChunkPending()
-                    : plan.incrementalNumber();
+            // After a FULL pass, the watermark needs to reflect where the FULL actually ends -
+            // NOT remote.lastIncremental(). Maven Central's nexus-maven-repository-index.gz is
+            // regenerated periodically (weekly per the Apache docs) and lags behind the most
+            // recent incremental chunk; chunks published between the FULL's regeneration and now
+            // contain records that are NOT in the FULL file (we verified this for byte-buddy
+            // 1.18.x: published months ago but only present in chunks 913-924). Setting the
+            // watermark to remote.lastIncremental() would skip those chunks entirely. Instead,
+            // park the watermark just before the oldest retained incremental so the next run
+            // applies every chunk Sonatype still serves - the scanned-store filter dedupes any
+            // overlap with what the FULL already covered.
+            long chunkApplied;
+            if (plan.mode() == SyncMode.FULL) {
+                int firstRetained = remote.firstRetainedIncremental();
+                int lastIncremental = (int) State.load(statePath).indexChunkPending();
+                // If the .properties file lists strictly older retained chunks (the production
+                // case: last-incremental=928 with incremental-29=899 through incremental-0=928),
+                // park before the oldest so the next run sweeps every retained chunk. If there's
+                // no retention window (the in-memory test case publishes only last-incremental),
+                // the FULL is self-contained and we mark it applied directly.
+                chunkApplied = firstRetained < lastIncremental
+                        ? (long) firstRetained - 1L
+                        : lastIncremental;
+            } else {
+                chunkApplied = plan.incrementalNumber();
+            }
             state = State.load(statePath)
                     .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
             if (plan.mode() == SyncMode.FULL) {

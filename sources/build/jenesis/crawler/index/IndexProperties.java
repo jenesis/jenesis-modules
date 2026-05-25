@@ -2,11 +2,12 @@ package build.jenesis.crawler.index;
 
 import module java.base;
 
-public record IndexProperties(String chainId, long timestamp, int lastIncremental) {
+public record IndexProperties(String chainId, long timestamp, int lastIncremental, int firstRetainedIncremental) {
 
     public static final String KEY_CHAIN_ID = "nexus.index.chain-id";
     public static final String KEY_TIMESTAMP = "nexus.index.timestamp";
     public static final String KEY_LAST_INCREMENTAL = "nexus.index.last-incremental";
+    public static final String KEY_INCREMENTAL_PREFIX = "nexus.index.incremental-";
 
     public static final DateTimeFormatter TIMESTAMP_FORMAT = new DateTimeFormatterBuilder()
             .appendPattern("yyyyMMddHHmmss")
@@ -20,7 +21,23 @@ public record IndexProperties(String chainId, long timestamp, int lastIncrementa
         String chainId = properties.getProperty(KEY_CHAIN_ID);
         long timestamp = parseTimestamp(properties.getProperty(KEY_TIMESTAMP));
         int lastIncremental = parseInt(properties.getProperty(KEY_LAST_INCREMENTAL), -1);
-        return new IndexProperties(chainId, timestamp, lastIncremental);
+        // The .properties file lists every retained chunk as nexus.index.incremental-<offset>=<N>,
+        // typically 30 entries. We need the smallest N so that after a FULL we know which chunks
+        // still need to be applied incrementally - the FULL is generated periodically and lags
+        // behind the latest incremental, so chunks newer than the FULL's snapshot point are NOT
+        // in the FULL even though the .properties file says "last-incremental=<latest>".
+        int firstRetained = lastIncremental;
+        for (Map.Entry<Object, Object> entry : properties.entrySet()) {
+            String key = entry.getKey().toString();
+            if (!key.startsWith(KEY_INCREMENTAL_PREFIX)) {
+                continue;
+            }
+            int value = parseInt(entry.getValue().toString(), Integer.MAX_VALUE);
+            if (value < firstRetained) {
+                firstRetained = value;
+            }
+        }
+        return new IndexProperties(chainId, timestamp, lastIncremental, firstRetained);
     }
 
     public boolean hasIncrementals() {

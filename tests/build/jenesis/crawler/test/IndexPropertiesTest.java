@@ -55,6 +55,43 @@ public class IndexPropertiesTest {
     }
 
     @Test
+    public void picks_oldest_retained_incremental_from_listed_chunks() throws IOException {
+        // Live Maven Central .properties carries 30 entries naming the retained chunks; we need
+        // the smallest one so the post-FULL watermark sits before every chunk Sonatype still
+        // serves. Without this the FULL was treated as covering through last-incremental, which
+        // skipped real deltas (the byte-buddy 1.18.x gap we found in chunks 913-924).
+        String content = """
+                nexus.index.chain-id=1318453614498
+                nexus.index.timestamp=20260520234056.644 +0000
+                nexus.index.last-incremental=928
+                nexus.index.incremental-0=928
+                nexus.index.incremental-1=927
+                nexus.index.incremental-15=913
+                nexus.index.incremental-29=899
+                """;
+
+        IndexProperties properties = IndexProperties.read(new ByteArrayInputStream(content.getBytes(StandardCharsets.UTF_8)));
+
+        assertThat(properties.lastIncremental()).isEqualTo(928);
+        assertThat(properties.firstRetainedIncremental()).isEqualTo(899);
+    }
+
+    @Test
+    public void first_retained_falls_back_to_last_incremental_without_retention_listing() throws IOException {
+        // The fake test server (FakeMavenCentral) emits only last-incremental, no per-chunk
+        // listing. In that case the FULL is self-contained and firstRetained should equal
+        // lastIncremental so the watermark advances to the FULL's chunk number directly.
+        String content = """
+                nexus.index.chain-id=x
+                nexus.index.last-incremental=5
+                """;
+
+        IndexProperties properties = IndexProperties.read(new ByteArrayInputStream(content.getBytes(StandardCharsets.UTF_8)));
+
+        assertThat(properties.firstRetainedIncremental()).isEqualTo(5);
+    }
+
+    @Test
     public void tolerates_unparseable_timestamp() throws IOException {
         String content = """
                 nexus.index.chain-id=x
