@@ -42,7 +42,11 @@ public final class ModuleSummary {
      */
     static final List<ModuleFold> MODULE_FOLDS = List.of(
             new ModuleFold("software.amazon.awssdk.*",
-                    name -> name.startsWith("software.amazon.awssdk.")));
+                    name -> name.startsWith("software.amazon.awssdk.")),
+            new ModuleFold("org.scala.lang.scala3.*",
+                    name -> name.startsWith("org.scala.lang.scala3.")),
+            new ModuleFold("com.fasterxml.jackson.*",
+                    name -> name.startsWith("com.fasterxml.jackson.")));
 
     public record ModuleFold(String displayKey, Predicate<String> matches) {
     }
@@ -150,16 +154,21 @@ public final class ModuleSummary {
      * rendered for a single-module row. When a row represents a {@link ModuleFold} (e.g.
      * {@code software.amazon.awssdk.*}), {@code min} carries the lowest count among the folded
      * modules and {@code count} carries the highest; the renderer emits {@code [min, count]}
-     * to convey the spread. For non-folded rows {@code min == count} and only {@code count}
-     * is rendered.
+     * to convey the spread, plus a trailing {@code (N modules)} hint built from {@code members}.
+     * For non-folded rows {@code min == count} and {@code members == 0} (the sentinel meaning
+     * "this is a single module, not a fold"); only {@code count} is rendered.
      */
-    public record TopEntry(String key, long count, long min) {
+    public record TopEntry(String key, long count, long min, int members) {
         public TopEntry(String key, long count) {
-            this(key, count, count);
+            this(key, count, count, 0);
         }
 
         public boolean isRange() {
             return min != count;
+        }
+
+        public boolean isFold() {
+            return members > 0;
         }
     }
 
@@ -289,13 +298,16 @@ public final class ModuleSummary {
         }
 
         builder.append("## Top ").append(topN).append(" modules by version count\n\n");
-        builder.append("Counted from the canonical `versions.tsv` only (per-classifier counts like `-jar-with-dependencies` are excluded). Module families that would otherwise occupy many adjacent slots are folded into a single `<prefix>.*` row; when the absorbed modules have different counts the cell is rendered as `[min, max]`.\n\n");
+        builder.append("Counted from the canonical `versions.tsv` only (per-classifier counts like `-jar-with-dependencies` are excluded). Module families that would otherwise occupy many adjacent slots are folded into a single `<prefix>.*` row; the cell is rendered as `[min, max]` when the absorbed modules have different counts, and a trailing `(N modules)` notes how many were absorbed.\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
         for (TopEntry entry : stats.top().modulesByVersionCount()) {
+            String key = entry.isFold()
+                    ? entry.key() + " (" + entry.members() + " modules)"
+                    : entry.key();
             String count = entry.isRange()
                     ? "[" + fmt(entry.min()) + ", " + fmt(entry.count()) + "]"
                     : fmt(entry.count());
-            builder.append("| `").append(entry.key()).append("` | ").append(count).append(" |\n");
+            builder.append("| `").append(key).append("` | ").append(count).append(" |\n");
         }
         builder.append('\n');
 
@@ -715,17 +727,14 @@ public final class ModuleSummary {
                     Pattern.compile("Unsupported major\\.minor version \\d+\\.\\d+"),
                     "Unsupported major.minor version <VERSION>"),
             new ErrorNormalizer(
-                    Pattern.compile("CONSTANT_\\w+ at entry \\d+ has illegal character: '[^']*'"),
-                    "CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'"),
+                    Pattern.compile("(CONSTANT_\\w+ at entry )\\d+( has illegal character: '[^']*')"),
+                    "$1<ENTRY>$2"),
             new ErrorNormalizer(
-                    Pattern.compile("CONSTANT_\\w+ expected at entry: \\d+"),
-                    "CONSTANT_<KIND> expected at entry: <ENTRY>"),
+                    Pattern.compile("(CONSTANT_\\w+ expected at entry: )\\d+"),
+                    "$1<ENTRY>"),
             new ErrorNormalizer(
                     Pattern.compile("invalid header field \\(line \\d+\\)"),
                     "invalid header field (line <LINE>)"),
-            new ErrorNormalizer(
-                    Pattern.compile("Tail request on <URL> returned status \\d+"),
-                    "Tail request on <URL> returned status <STATUS>"),
             new ErrorNormalizer(
                     Pattern.compile("Expected central file header signature at offset \\d+"),
                     "Expected central file header signature at offset <OFFSET>"),
@@ -758,7 +767,7 @@ public final class ModuleSummary {
     public static String normalizeErrorMessage(String message) {
         String result = message;
         for (ErrorNormalizer normalizer : ERROR_NORMALIZERS) {
-            result = normalizer.pattern().matcher(result).replaceAll(Matcher.quoteReplacement(normalizer.replacement()));
+            result = normalizer.pattern().matcher(result).replaceAll(normalizer.replacement());
         }
         return result;
     }
@@ -834,7 +843,7 @@ public final class ModuleSummary {
         for (ModuleFold fold : MODULE_FOLDS) {
             long min = Long.MAX_VALUE;
             long max = Long.MIN_VALUE;
-            boolean matched = false;
+            int members = 0;
             Iterator<Map.Entry<String, Integer>> iterator = remaining.entrySet().iterator();
             while (iterator.hasNext()) {
                 Map.Entry<String, Integer> entry = iterator.next();
@@ -842,18 +851,18 @@ public final class ModuleSummary {
                     long count = entry.getValue();
                     min = Math.min(min, count);
                     max = Math.max(max, count);
-                    matched = true;
+                    members++;
                     iterator.remove();
                 }
             }
-            if (matched) {
-                folded.put(fold.displayKey(), new long[]{min, max});
+            if (members > 0) {
+                folded.put(fold.displayKey(), new long[]{min, max, members});
             }
         }
         Stream<TopEntry> single = remaining.entrySet().stream()
                 .map(entry -> new TopEntry(entry.getKey(), entry.getValue()));
         Stream<TopEntry> ranges = folded.entrySet().stream()
-                .map(entry -> new TopEntry(entry.getKey(), entry.getValue()[1], entry.getValue()[0]));
+                .map(entry -> new TopEntry(entry.getKey(), entry.getValue()[1], entry.getValue()[0], (int) entry.getValue()[2]));
         return Stream.concat(single, ranges)
                 .sorted((a, b) -> {
                     int cmp = Long.compare(b.count(), a.count());

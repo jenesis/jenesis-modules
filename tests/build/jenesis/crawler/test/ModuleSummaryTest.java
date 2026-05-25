@@ -89,18 +89,24 @@ public class ModuleSummaryTest {
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: ClassPathScannerFactory: is not a qualified name of a Java class in a named package"))
                 .isEqualTo("InvalidModuleDescriptorException: <CLASS>: is not a qualified name of a Java class in a named package");
+        // Only the entry index is normalized; kind and character are retained so distinct
+        // illegal-character classes stay distinct.
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: CONSTANT_Package at entry 13 has illegal character: '.'"))
-                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'");
+                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: '.'");
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: CONSTANT_Class at entry 38 has illegal character: ';'"))
-                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'");
+                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_Class at entry <ENTRY> has illegal character: ';'");
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "IOException: invalid header field (line 9)"))
                 .isEqualTo("IOException: invalid header field (line <LINE>)");
+        // Status code is retained: a 404 and a 500 are different signals and should not collapse.
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "IOException: Tail request on https://repo1.maven.org/foo/bar.jar returned status 404"))
-                .isEqualTo("IOException: Tail request on <URL> returned status <STATUS>");
+                .isEqualTo("IOException: Tail request on <URL> returned status 404");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "IOException: Tail request on https://repo1.maven.org/foo/bar.jar returned status 500"))
+                .isEqualTo("IOException: Tail request on <URL> returned status 500");
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "IllegalArgumentException: Illegal character in path at index 26: com/trendyol/kediatr-core/\"3.1.0\"/kediatr-core-\"3.1.0\".jar"))
                 .isEqualTo("IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>");
@@ -150,7 +156,9 @@ public class ModuleSummaryTest {
                 .orElseThrow();
         assertThat(awsRow.count()).isEqualTo(10L);
         assertThat(awsRow.min()).isEqualTo(7L);
+        assertThat(awsRow.members()).isEqualTo(3);
         assertThat(awsRow.isRange()).isTrue();
+        assertThat(awsRow.isFold()).isTrue();
         assertThat(top).extracting(ModuleSummary.TopEntry::key)
                 .doesNotContain("software.amazon.awssdk.annotations",
                         "software.amazon.awssdk.auth",
@@ -172,7 +180,7 @@ public class ModuleSummaryTest {
         }
 
         String content = Files.readString(output, StandardCharsets.UTF_8);
-        assertThat(content).contains("| `software.amazon.awssdk.*` | 5 |");
+        assertThat(content).contains("| `software.amazon.awssdk.* (2 modules)` | 5 |");
         assertThat(content).doesNotContain("[5, 5]");
     }
 
