@@ -60,7 +60,6 @@ public final class Crawl {
         if (!result.chunkComplete()) {
             System.out.println("[info] Current index chunk did not finish within budget; resume with another run.");
         }
-        printFailureBreakdown(result);
         writeStepSummary(result);
     }
 
@@ -89,19 +88,6 @@ public final class Crawl {
             case "false", "0", "no" -> false;
             default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
         };
-    }
-
-    private static void printFailureBreakdown(Crawler.Result result) {
-        if (result.failureBreakdown().isEmpty()) {
-            return;
-        }
-        System.out.println("[info] Failure breakdown (" + result.failed() + " total):");
-        result.failureBreakdown().entrySet().stream()
-                .sorted((a, b) -> Long.compare(b.getValue().count(), a.getValue().count()))
-                .forEach(entry -> {
-                    System.out.println("[info]   " + entry.getKey() + ": " + entry.getValue().count());
-                    System.out.println("[info]     sample: " + entry.getValue().sampleMessage());
-                });
     }
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {

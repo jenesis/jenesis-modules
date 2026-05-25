@@ -80,13 +80,16 @@ public final class IndexStream implements AutoCloseable {
 
     private void streamIndex(URI uri) throws IOException, InterruptedException {
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
+        OptionalLong totalBytes = fetcher.probeContentLength(uri);
         System.out.println("[discovery] Index source " + uri + " HTTP Range support: "
-                + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)"));
+                + (rangeSupported ? "yes (using resumable stream)" : "no (will redownload on failure)")
+                + (totalBytes.isPresent() ? "; size " + totalBytes.getAsLong() + " bytes" : ""));
         if (rangeSupported) {
             try (InputStream raw = fetcher.resumableGet(uri);
-                 GZIPInputStream gzipped = new GZIPInputStream(raw);
+                 CountingInputStream counted = new CountingInputStream(raw);
+                 GZIPInputStream gzipped = new GZIPInputStream(counted);
                  IndexReader reader = new IndexReader(gzipped)) {
-                streamRecords(reader, 0L);
+                streamRecords(reader, 0L, counted, totalBytes);
             }
             return;
         }
@@ -128,14 +131,19 @@ public final class IndexStream implements AutoCloseable {
     }
 
     private void streamIndexOnce(URI uri, long skipTarget) throws IOException, InterruptedException {
+        OptionalLong totalBytes = fetcher.probeContentLength(uri);
         try (InputStream raw = fetcher.get(uri);
-             GZIPInputStream gzipped = new GZIPInputStream(raw);
+             CountingInputStream counted = new CountingInputStream(raw);
+             GZIPInputStream gzipped = new GZIPInputStream(counted);
              IndexReader reader = new IndexReader(gzipped)) {
-            streamRecords(reader, skipTarget);
+            streamRecords(reader, skipTarget, counted, totalBytes);
         }
     }
 
-    private void streamRecords(IndexReader reader, long skipTarget) throws IOException, InterruptedException {
+    private void streamRecords(IndexReader reader,
+                               long skipTarget,
+                               CountingInputStream counted,
+                               OptionalLong totalBytes) throws IOException, InterruptedException {
         long passed = 0L;
         long recordsSeen = 0L;
         long unparseable = 0L;
@@ -157,7 +165,8 @@ public final class IndexStream implements AutoCloseable {
                 System.out.println("[discovery] seen=" + recordsSeen + " emitted=" + produced
                         + " inQueue=" + queue.size()
                         + " unparseable=" + unparseable + " filtered=" + filtered + " behind=" + behind
-                        + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s");
+                        + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s"
+                        + byteProgress(counted.bytesRead(), totalBytes));
             }
             Optional<Coordinate> coordinate = Coordinate.from(record);
             if (coordinate.isEmpty()) {
@@ -200,6 +209,71 @@ public final class IndexStream implements AutoCloseable {
             current.join(JOIN_TIMEOUT.toMillis());
         } catch (InterruptedException interrupted) {
             Thread.currentThread().interrupt();
+        }
+    }
+
+    /**
+     * Bytes-of-the-compressed-index progress suffix for the discovery log line. The percentage is
+     * computed against the gzip {@code Content-Length}, so it tracks I/O progress rather than
+     * record-count progress. Incremental chunks come without a length or with a very small length,
+     * so this is gated: only shown when the server declared a length and it's at least one MiB,
+     * keeping the line clean when the index is a few kilobytes of incremental delta.
+     */
+    private static String byteProgress(long bytesRead, OptionalLong totalBytes) {
+        if (totalBytes.isEmpty()) {
+            return "";
+        }
+        long total = totalBytes.getAsLong();
+        if (total < 1L << 20) {
+            return "";
+        }
+        double percent = bytesRead * 100.0 / (double) total;
+        return " bytes=" + bytesRead + "/" + total
+                + " (" + String.format(Locale.ROOT, "%.1f", percent) + "%)";
+    }
+
+    /**
+     * Counts bytes pulled from the wrapped stream. Used to derive a compressed-bytes percentage
+     * for the discovery log; sits above the GZIP layer so the count matches {@code Content-Length}.
+     * Reads are intentionally not synchronised: the producer thread is the only reader.
+     */
+    static final class CountingInputStream extends FilterInputStream {
+
+        private long bytesRead;
+
+        CountingInputStream(InputStream in) {
+            super(in);
+        }
+
+        long bytesRead() {
+            return bytesRead;
+        }
+
+        @Override
+        public int read() throws IOException {
+            int next = in.read();
+            if (next >= 0) {
+                bytesRead++;
+            }
+            return next;
+        }
+
+        @Override
+        public int read(byte[] buffer, int offset, int length) throws IOException {
+            int read = in.read(buffer, offset, length);
+            if (read > 0) {
+                bytesRead += read;
+            }
+            return read;
+        }
+
+        @Override
+        public long skip(long n) throws IOException {
+            long skipped = in.skip(n);
+            if (skipped > 0L) {
+                bytesRead += skipped;
+            }
+            return skipped;
         }
     }
 }

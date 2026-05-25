@@ -66,6 +66,29 @@ public final class Fetcher implements AutoCloseable {
         }
     }
 
+    /**
+     * Returns the resource's {@code Content-Length} via a HEAD request, or empty if the request
+     * fails or the server doesn't declare a length. Used to seed byte-level progress reporting on
+     * long-running streams (notably the Maven Central index gzip); the one extra round-trip is
+     * insignificant against a multi-minute body. Failures here must not abort the stream that
+     * follows, so any exception collapses to {@link OptionalLong#empty()} - callers degrade to
+     * record-count progress.
+     */
+    public OptionalLong probeContentLength(URI uri) {
+        HttpRequest request = builder(uri)
+                .method("HEAD", HttpRequest.BodyPublishers.noBody())
+                .build();
+        try {
+            HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
+            if (response.statusCode() / 100 != 2) {
+                return OptionalLong.empty();
+            }
+            return response.headers().firstValueAsLong("content-length");
+        } catch (IOException probeFailed) {
+            return OptionalLong.empty();
+        }
+    }
+
     public InputStream resumableGet(URI uri) throws IOException {
         return new ResumableInputStream(uri, this::openRangeStream);
     }

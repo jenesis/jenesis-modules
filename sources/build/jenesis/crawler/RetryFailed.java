@@ -88,7 +88,6 @@ public final class RetryFailed {
                 + " automatic=" + result.automatic()
                 + " failed=" + result.failed()
                 + " chunkComplete=" + result.chunkComplete());
-        printFailureBreakdown(result);
     }
 
     private static Crawler.Configuration buildConfiguration(URI artifactBase) {
@@ -132,19 +131,6 @@ public final class RetryFailed {
             case "false", "0", "no" -> false;
             default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
         };
-    }
-
-    private static void printFailureBreakdown(Crawler.Result result) {
-        if (result.failureBreakdown().isEmpty()) {
-            return;
-        }
-        System.out.println("[info] Failure breakdown (" + result.failed() + " total):");
-        result.failureBreakdown().entrySet().stream()
-                .sorted((a, b) -> Long.compare(b.getValue().count(), a.getValue().count()))
-                .forEach(entry -> {
-                    System.out.println("[info]   " + entry.getKey() + ": " + entry.getValue().count());
-                    System.out.println("[info]     sample: " + entry.getValue().sampleMessage());
-                });
     }
 
     private static void printUsage() {
