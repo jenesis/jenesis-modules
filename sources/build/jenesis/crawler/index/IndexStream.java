@@ -228,8 +228,8 @@ public final class IndexStream implements AutoCloseable {
             return "";
         }
         double percent = bytesRead * 100.0 / (double) total;
-        return " bytes=" + bytesRead + "/" + total
-                + " (" + String.format(Locale.ROOT, "%.1f", percent) + "%)";
+        return " bytesRead=" + bytesRead + " bytesTotal=" + total
+                + " percentage=" + String.format(Locale.ROOT, "%.1f", percent) + "%";
     }
 
     /**
