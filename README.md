@@ -31,12 +31,12 @@ data/
 
 Each module's directory path mirrors the dot-separated module name. `versions.tsv` (or `versions-<classifier>.tsv` for a classified variant) is the **full audit log**: every `(groupId, artifactId, version)` that has ever declared this module name on Maven Central, append-only, in chronological order by `publishedAt`. The audit log is never pruned - even claims that have been excluded by an `owners.tsv` policy remain here, so collisions and module-injection attempts stay visible and the policy can be reverted without losing data.
 
-Five tab-separated columns:
+Six tab-separated columns:
 
 ```
 1.7.36  automatic  org.slf4j  slf4j-api  2021-11-15T14:02:00Z
-2.0.9   named      org.slf4j  slf4j-api  2023-08-21T09:15:00Z
-2.0.10  named      org.slf4j  slf4j-api  2023-08-22T11:42:00Z
+2.0.9   named      org.slf4j  slf4j-api  2023-08-21T09:15:00Z  2.0.9
+2.0.10  named      org.slf4j  slf4j-api  2023-08-22T11:42:00Z  2.0.10
 ```
 
 - Column 1: version as published.
@@ -44,6 +44,7 @@ Five tab-separated columns:
 - Column 3: `groupId`.
 - Column 4: `artifactId`. Combined with columns 1 and 3 this gives the full Maven coordinate.
 - Column 5: publication timestamp on Maven Central, UTC ISO-8601 with seconds precision (`yyyy-MM-dd'T'HH:mm:ss'Z'`). Sourced from the index's authoritative per-artifact timestamp; fixed-width so lexicographic and chronological sort agree. Rows are only recorded when the index carries a real timestamp - coordinates whose timestamp is missing or zero are dropped at write time and never appear here, so consumers do not have to filter sentinels.
+- Column 6: raw `module-info` version (the literal string declared by `ModuleDescriptor.rawVersion()`). Empty for `automatic` rows (no `module-info` exists) and for `named` rows whose `module-info` declared no version attribute - the column is present but the field is empty. A non-empty value is the verbatim string the publisher embedded. The parser rejects rows missing this column outright; the legacy 5-column format is no longer supported.
 
 Use this file for auditing - "who has ever claimed this name?" - not for resolution. For resolution, read the sibling `current.tsv` (next section).
 
@@ -265,21 +266,23 @@ Optional system properties:
 
 ## Companion tools
 
-Two standalone main classes share the crawler's scanner pipeline but skip the index streamer; both are useful operational utilities.
+Three standalone main classes share the crawler's scanner pipeline but skip the index streamer; each is a useful operational utility.
 
 ### `build.jenesis.crawler.RetryFailed`
 
-Re-scans every coordinate currently recorded as a permanent failure in `data/scanned/`, optionally narrowed by a regex match against the recorded error message. Reuses the regular crawler's `Scanner`, `ModuleStore` flush invariant, checkpointing, and git-publisher pipeline; index chain state in `state.properties` is not touched, and no 24-minute producer warmup is incurred.
+Re-scans coordinates currently recorded as a permanent failure in `data/scanned/`, optionally narrowed by a regex match against the recorded error message. Reuses the regular crawler's `Scanner`, `ModuleStore` flush invariant, checkpointing, and git-publisher pipeline; index chain state in `state.properties` is not touched, and no 24-minute producer warmup is incurred.
 
 ```
 java -cp <jar> build.jenesis.crawler.RetryFailed <artifact-base-uri>
 ```
 
+By default the tool **skips entries whose error message contains `returned status 404`**. The Coordinate rewrite (see "How the crawl works" below) produces an unavoidable long tail of 404s for pom-only artifacts whose `pom.sha512`-style record was speculatively treated as a main JAR; retrying those just re-fetches and re-records the same 404. Set `jenesis.retry.error.pattern` to bypass the default skip and target a specific class (the pattern wins, including a pattern that matches the 404 message itself).
+
 Properties:
 
 | Property | Default | Effect |
 |---|---|---|
-| `jenesis.retry.error.pattern` | (unset, retry every failure) | Regex matched against recorded error messages via `Matcher.find()`. Substring match, no anchoring needed. |
+| `jenesis.retry.error.pattern` | (unset, retry every non-404 failure) | Regex matched against recorded error messages via `Matcher.find()`. Substring match, no anchoring needed. Setting this property bypasses the default 404 skip. |
 | `jenesis.crawler.data` | `data` | Crawler data directory. |
 | `jenesis.crawler.budget`, `concurrency`, `tail.size`, `small.jar.threshold`, `checkpoint.every`, `git.publish`, `git.work.dir`, `git.push.every` | see crawler defaults | All share the keys used by `Crawl`. |
 
@@ -292,11 +295,34 @@ Use cases:
        -cp <jar> build.jenesis.crawler.RetryFailed \
        https://maven-central.storage-download.googleapis.com/maven2/
   ```
-- One-shot full retry after a long quiet period:
+- One-shot retry of every non-404 failure after a long quiet period:
   ```
   java -cp <jar> build.jenesis.crawler.RetryFailed \
        https://maven-central.storage-download.googleapis.com/maven2/
   ```
+
+### `build.jenesis.crawler.ReconcileMetadata`
+
+Recovers versions that are missing from the Maven Central Nexus index entirely. Walks `data/scanned/`, downloads `maven-metadata.xml` for each `(groupId, artifactId)` pair, diffs the version list against locally-scanned main-jar versions, and pipes the missing versions through the regular scanner pipeline. Uses the same `Scanner` / `ModuleStore` / checkpointing / `GitPublisher` machinery as the crawler; index chain state is not touched.
+
+```
+java -cp <jar> build.jenesis.crawler.ReconcileMetadata <artifact-base-uri>
+```
+
+The crawler-with-fixes already recovers most of the upstream-indexer bugs (Gradle-`.module` mis-stamps, POM-checksum mis-stamps), but two cases still fall through:
+
+- **Versions absent from the index entirely.** Maven Central's `nexus-maven-repository-index.gz` is regenerated periodically; brand-new releases and certain mis-published artifacts can be missing for days or longer. `maven-metadata.xml`, by contrast, is authoritative immediately.
+- **Cases the rewrite skips on purpose.** The crawler only rewrites `<none>/module` to `<none>/jar`; it doesn't touch `<none>/pom.sha*` records to keep the 404 noise bounded. `ReconcileMetadata` is the path that recovers them when you want completeness.
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.reconcile.metadata.concurrency` | `32` | Concurrent `maven-metadata.xml` HEAD fetches. The XML files are small; raising this is cheap until the mirror starts throttling. |
+| `jenesis.reconcile.batch.size` | `256` | Coordinates per scanner batch. Higher means longer checkpoint intervals. |
+| `jenesis.crawler.data`, `budget`, `concurrency`, `tail.size`, `small.jar.threshold`, `checkpoint.every`, `git.publish`, `git.work.dir`, `git.push.every` | see crawler defaults | All share the keys used by `Crawl`. |
+
+The corresponding `reconcile-metadata.yml` workflow exposes the same knobs as manual `workflow_dispatch` inputs. It shares the `crawl` concurrency group so a manual reconcile queues behind a manual crawl rather than fighting for the same `versions.tsv` files; scheduled crawls use a per-run group so they may run concurrently, with `GitPublisher`'s rebase-retry handling any collision.
 
 ### `build.jenesis.crawler.ModuleSummary`
 
@@ -306,15 +332,20 @@ Walks `data/modules/` (`versions.tsv` + `current.tsv`) and `data/scanned/` (for 
 java -cp <jar> build.jenesis.crawler.ModuleSummary
 ```
 
+**Most row-level metrics in the summary are filtered to rows that appear in `current.tsv`** (the resolved view after `owners.tsv` policy), so shading-injected audit rows don't inflate the picture. The exceptions are explicitly labelled as "audit" or "history" tables (collisions, distinct-groupIds-per-module, naming-patterns histogram). The header text at the top of the Totals section spells out the convention.
+
 The summary covers:
 
-- Totals: modules tracked, total version records, distinct groupIds, most recent publication date.
-- Type breakdown (named / automatic) — unique modules and total rows from each `current[-<classifier>].tsv`.
-- Type transitions (automatic → named, named → automatic) computed from each module's resolved view, so cross-publisher swings filtered out by `owners.tsv` are intentionally excluded.
-- Recent activity (modules with a publication in the last 7 days).
-- Naming patterns: classifier counts, modules with multiple competing groupIds, and a histogram of how many leading dot-segments each module shares with its canonical groupId.
-- Processing errors: total failed coordinates plus the top-N most common recorded error messages (URLs normalised to `<URL>` so 404s aggregate).
-- Top-N modules by version count, top-N groupIds by module count, top-N modules with most colliding groupIds, top-N latest updates, top-N groupIds by average versions per module (filtered to groups with ≥ 3 modules).
+- **Totals**: total artifacts scanned, non-module artifacts, modular artifacts, total named modules, total automatic modules, total named modules with module-info version, distinct Maven artifacts, distinct module names, distinct named/automatic modules (latest-type from `current.tsv`), distinct named modules with module-info version, distinct groupIds, most recent tracked publication.
+- **Type breakdown** (named / automatic): unique modules + total rows from each `current[-<classifier>].tsv`.
+- **Module-info version coverage**: explicit (`module-info` version semantically matches the Maven coordinate version), mismatching (non-empty `module-info` version that differs), without (`module-info` declared no version).
+- **Mismatching module-info version patterns**: breakdown of the mismatching bucket by *why* the versions differ — `-SNAPSHOT` left on release, repackager `-<suffix>`, segment-count drift, `+<metadata>` build labels, unresolved `${...}` placeholders, different first dot-segment (likely shaded/bundled), substantively different. Each row carries a percent share.
+- **Type transitions** (automatic → named, named → automatic) computed from each module's resolved view.
+- **Recent activity (last 7 days)**: modules with a publication + new version rows, each split into total / named / automatic columns.
+- **Monthly publications by type (last 12 months)**: per-month named vs automatic counts with inline ASCII bars scaled to the maximum.
+- **Naming patterns**: classifier-variant counts, modules with multiple competing groupIds across the audit log, histogram of leading dot-segments shared with the canonical groupId.
+- **Processing errors**: total failed coordinates plus the top-N most common recorded error messages. The normaliser collapses well-known variants — URLs, package names, classfile entry indexes, line numbers, file paths — into placeholders like `<URL>`, `<PACKAGE>`, `<CLASS>` so they aggregate into a single row per error class.
+- **Top-N tables**: modules by version count (with module-family folds like `software.amazon.awssdk.*` / `org.scala.lang.scala3.*` / `com.fasterxml.jackson.*` collapsed into a single row when they otherwise dominate), groupIds by module count, modules with most colliding groupIds (audit), modules updated in the last 7 days, groupIds by average versions per module (filtered to groups with ≥ 3 modules).
 
 Properties:
 
@@ -324,7 +355,7 @@ Properties:
 | `jenesis.summary.output` | `<data>/SUMMARY.md` | Output file path. |
 | `jenesis.summary.top.n` | `25` | Row count for every top-N table and the error-message list. Must be ≥ 1. |
 
-All integer counts in the markdown output are rendered with regular ASCII space as the thousands separator (e.g. `1 118 706`).
+All integer counts in the markdown output are rendered with regular ASCII space as the thousands separator (e.g. `1 118 706`). Timestamps render as `yyyy-MM-dd HH:mm:ss UTC` (no `T` separator) for readability.
 
 ## How the crawl works
 
@@ -333,8 +364,9 @@ All integer counts in the markdown output are rendered with regular ASCII space 
    - **Full**: first run, or the chain id has rotated. Stream the full Lucene index.
    - **Incremental**: chain id unchanged and there are new chunks. Stream only the new incremental chunks.
    - **Up to date**: nothing new published. Exit immediately.
-3. The producer reads the index and emits filtered coordinates onto a bounded queue. Two filters run at the producer:
-   - **Extension**: only `jar` artifacts, dropping `sources`, `javadoc`, `tests`, etc. classifiers.
+3. The producer reads the index and emits filtered coordinates onto a bounded queue. Two filters run at the producer, plus one parse-time rewrite:
+   - **Coordinate rewrite** (`Coordinate.from`): the Nexus indexer (OSSRH-60950) occasionally writes main-jar records with the extension of a sidecar file (`module`, `pom.sha256`, `pom.sha512`, `pom.asc.sha256`, `pom.asc.sha512`). When `classifier == null` and the extension matches one of these, we rewrite it to `jar` so the rest of the pipeline treats the record as the main JAR it was supposed to be. The trade-off: for legitimate pom-only artifacts (BOMs, parent POMs) the rewritten record points at a non-existent JAR and the fetch 404s. Those 404s land in `scanned.tsv` as permanent failures (so `ScannedStore` dedupes on future runs), get counted in the `[artifacts]` log under `notFound=N` separately from real `failed=N`, and don't generate per-coordinate stderr noise. The cost is bounded; the upside is that no mis-stamped main JAR is silently dropped. Once Sonatype rotates to a healthy index the rewrite triggers on zero records and the noise vanishes.
+   - **Extension**: only `jar` artifacts (post-rewrite), dropping `sources`, `javadoc`, `tests`, etc. classifiers.
    - **Already scanned**: the in-memory `ScannedStore` (loaded from `data/scanned/`) rejects coordinates we've seen before, so those JARs are never fetched again.
 
    The queue is purely in-memory. The producer blocks on `queue.put` whenever the queue is full, so it can never outrun the scanner. Nothing about the producer's state is written to disk - the only durable record of "which coordinates have been processed" is `data/scanned/`.
@@ -345,6 +377,8 @@ All integer counts in the markdown output are rendered with regular ASCII space 
    4. Otherwise no record is written.
 5. On every checkpoint (default every 2000 coordinates): flush module entries into the `versions.tsv` audit log, update the scanned-coordinate index, save `state.properties`, rewrite `STATUS.md`, and (when `-Djenesis.crawler.git.publish=true`) commit + push. **After the first FULL pass has completed and a baseline exists** (`state.indexChunkLastApplied >= 0`), each module whose `versions.tsv` was touched in this sweep is also recorded in `data/dirty-modules.tsv` so stage 2 below knows what to regenerate. During the first FULL pass itself the dirty list is suppressed — a first sweep touches ~every module in Maven Central, so writing a per-module marker would balloon the file for no benefit (stage 2 handles the first pass wholesale, below).
 6. When the producer reaches end-of-stream and the queue has fully drained, the chunk is considered complete and the index chain watermark advances. On budget-truncated runs the watermark does *not* advance; the next run re-streams the same chunk from scratch and the scanned-coordinate filter discards everything already processed, so only the unscanned tail does real work.
+
+   **Post-FULL watermark.** After a successful FULL pass, the watermark is *not* set to `remote.lastIncremental()` directly — that would skip the retained incremental chunks Sonatype publishes between FULL regenerations. Maven Central's `nexus-maven-repository-index.gz` lags behind the most recent incremental: chunks newer than the FULL snapshot point contain records that aren't yet in the FULL file. Instead, the watermark parks at `firstRetained - 1` (the oldest retained incremental, taken from the `.properties` file's `incremental-N` keys), so the next run sweeps every chunk Sonatype still serves. `ScannedStore` dedupes the overlap with what the FULL already covered, so the cost is mostly index streaming with little re-fetching. The fake test server publishes only `last-incremental` (no retention listing), so in that path `firstRetained == lastIncremental` and the watermark advances directly.
 
 **Stage 2 (resolve).** Only after the chunk's queue has fully drained in a run does the crawler regenerate `current.tsv`. Deferring this avoids publishing a freshly-seen `(groupId, artifactId)` as the implicit owner of a module name when an *older* publisher of the same name might still be queued in the producer's in-flight set (a real concern on first-pass full syncs). Two flows:
 
@@ -496,13 +530,14 @@ The manual `workflow_dispatch` form also exposes per-run overrides for the most 
 
 ```
 sources/build/jenesis/crawler/        main classes (Crawl, Crawler, ListOwners, SetOwners,
-                                      ModuleSummary, RetryFailed) + State, SyncMode
+                                      ModuleSummary, ReconcileMetadata, RetryFailed)
+                                      + State, SyncMode
 sources/build/jenesis/crawler/fetch/  HTTP + JAR-byte access: Fetcher, ByteSource,
                                       RobotsTxt, CentralDirectory, Scanner
 sources/build/jenesis/crawler/index/  Maven Central index format + batch sources:
                                       IndexReader, IndexProperties, IndexStream,
-                                      BatchSource, StreamingBatchSource,
-                                      FailedScannedBatchSource
+                                      MetadataReconcileStream, BatchSource,
+                                      StreamingBatchSource, FailedScannedBatchSource
 sources/build/jenesis/crawler/store/  on-disk stores: ModuleStore, ScannedStore,
                                       DirtyModules
 sources/build/jenesis/crawler/model/  domain records: Coordinate, Version, ModuleType,
@@ -513,6 +548,8 @@ sources/build/jenesis/crawler/publish/ checkpoint sinks: CheckpointListener,
 tests/                   tests (JUnit Jupiter + AssertJ), single test package
 build/jenesis            symlink into the Jenesis submodule (the launcher)
 .jenesis/                Jenesis submodule (sources + runtime cache under cache/)
-.github/workflows/       build (push/PR), crawl (scheduled), and summary (scheduled) workflows
+.github/workflows/       build (push/PR), crawl (scheduled), summary (scheduled),
+                         release (push to main with [release] prefix), and
+                         reconcile-metadata (manual) workflows
 data/                    output (created by the crawler)
 ```
