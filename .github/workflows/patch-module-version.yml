@@ -12,7 +12,7 @@ on:
       concurrency:
         description: Concurrent JAR fetches (Scanner pool)
         required: false
-        default: '32'
+        default: '96'
       tail_size:
         description: Tail-range bytes per JAR (blank = scanner default)
         required: false
