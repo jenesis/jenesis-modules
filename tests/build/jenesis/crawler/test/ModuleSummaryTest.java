@@ -71,4 +71,137 @@ public class ModuleSummaryTest {
         assertThat(content).contains("| Without module version | 0 |");
         assertThat(content).contains("| Untracked | 0 |");
     }
+
+    @Test
+    public void normalizes_well_known_error_variants_into_single_buckets() {
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: Package org.agrona.shadow.net.bytebuddy.build missing from ModulePackages class file attribute"))
+                .isEqualTo("InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute"))
+                .isEqualTo("InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: Unsupported major.minor version 59.65535"))
+                .isEqualTo("InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: AutoTuneServiceProvider: unnamed package"))
+                .isEqualTo("InvalidModuleDescriptorException: <CLASS>: unnamed package");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: ClassPathScannerFactory: is not a qualified name of a Java class in a named package"))
+                .isEqualTo("InvalidModuleDescriptorException: <CLASS>: is not a qualified name of a Java class in a named package");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: CONSTANT_Package at entry 13 has illegal character: '.'"))
+                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: CONSTANT_Class at entry 38 has illegal character: ';'"))
+                .isEqualTo("InvalidModuleDescriptorException: CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "IOException: invalid header field (line 9)"))
+                .isEqualTo("IOException: invalid header field (line <LINE>)");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "IOException: Tail request on https://repo1.maven.org/foo/bar.jar returned status 404"))
+                .isEqualTo("IOException: Tail request on <URL> returned status <STATUS>");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "IllegalArgumentException: Illegal character in path at index 26: com/trendyol/kediatr-core/\"3.1.0\"/kediatr-core-\"3.1.0\".jar"))
+                .isEqualTo("IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: this_class should be module-info"))
+                .isEqualTo("InvalidModuleDescriptorException: this_class should be module-info");
+    }
+
+    @Test
+    public void top_modules_excludes_classifier_variants_from_canonical_count() throws IOException {
+        Path libDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
+        Files.writeString(libDir.resolve("versions.tsv"),
+                "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1\n",
+                StandardCharsets.UTF_8);
+        Files.writeString(libDir.resolve("versions-jar-with-dependencies.tsv"),
+                ("a\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "b\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "c\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "d\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "e\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"),
+                StandardCharsets.UTF_8);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
+
+        // The top list reports the canonical 2 versions, not the inflated 5 from the
+        // jar-with-dependencies classifier.
+        List<ModuleSummary.TopEntry> top = stats.top().modulesByVersionCount();
+        assertThat(top).hasSize(1);
+        assertThat(top.get(0).key()).isEqualTo("com.example.lib");
+        assertThat(top.get(0).count()).isEqualTo(2L);
+    }
+
+    @Test
+    public void top_modules_folds_awssdk_family_into_single_row() throws IOException {
+        writeVersions("software.amazon.awssdk.annotations", 10);
+        writeVersions("software.amazon.awssdk.auth", 10);
+        writeVersions("software.amazon.awssdk.http", 7);
+        writeVersions("com.example.unrelated", 20);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
+
+        List<ModuleSummary.TopEntry> top = stats.top().modulesByVersionCount();
+        ModuleSummary.TopEntry awsRow = top.stream()
+                .filter(e -> e.key().equals("software.amazon.awssdk.*"))
+                .findFirst()
+                .orElseThrow();
+        assertThat(awsRow.count()).isEqualTo(10L);
+        assertThat(awsRow.min()).isEqualTo(7L);
+        assertThat(awsRow.isRange()).isTrue();
+        assertThat(top).extracting(ModuleSummary.TopEntry::key)
+                .doesNotContain("software.amazon.awssdk.annotations",
+                        "software.amazon.awssdk.auth",
+                        "software.amazon.awssdk.http");
+    }
+
+    @Test
+    public void top_modules_fold_renders_single_count_when_all_equal() throws IOException {
+        writeVersions("software.amazon.awssdk.a", 5);
+        writeVersions("software.amazon.awssdk.b", 5);
+        System.setProperty(ModuleSummary.PROP_DATA, dataDir.toString());
+        Path output = dataDir.resolve("SUMMARY.md");
+        System.setProperty(ModuleSummary.PROP_OUTPUT, output.toString());
+        try {
+            ModuleSummary.main(new String[0]);
+        } finally {
+            System.clearProperty(ModuleSummary.PROP_DATA);
+            System.clearProperty(ModuleSummary.PROP_OUTPUT);
+        }
+
+        String content = Files.readString(output, StandardCharsets.UTF_8);
+        assertThat(content).contains("| `software.amazon.awssdk.*` | 5 |");
+        assertThat(content).doesNotContain("[5, 5]");
+    }
+
+    @Test
+    public void totals_include_named_and_explicit_module_version_rows() throws IOException {
+        Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
+        Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
+                "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0",
+                "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1",
+                "1.2\tnamed\tcom.example\tlib\t2024-03-01T00:00:00Z\t",
+                "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
+
+        assertThat(stats.totals().namedVersionRows()).isEqualTo(3L);
+        assertThat(stats.totals().explicitModuleVersionRows()).isEqualTo(2L);
+    }
+
+    private void writeVersions(String moduleName, int count) throws IOException {
+        Path dir = dataDir.resolve("modules");
+        for (String segment : moduleName.split("\\.")) {
+            dir = dir.resolve(segment);
+        }
+        Files.createDirectories(dir);
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i < count; i++) {
+            builder.append(i).append(".0\tnamed\tcom.example\t").append(moduleName).append("\t2024-01-01T00:00:00Z\t").append(i).append(".0\n");
+        }
+        Files.writeString(dir.resolve("versions.tsv"), builder.toString(), StandardCharsets.UTF_8);
+    }
 }

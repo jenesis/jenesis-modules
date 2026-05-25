@@ -33,6 +33,20 @@ public final class ModuleSummary {
             .ofPattern("yyyy-MM-dd'T'HH:mm:ss'Z'")
             .withZone(ZoneOffset.UTC);
 
+    /**
+     * Folds applied to the "Top N modules by version count" table so that families of closely
+     * related modules don't crowd out everyone else by occupying many adjacent slots with the
+     * same value. Each fold defines a display key (e.g. {@code software.amazon.awssdk.*}) and a
+     * predicate over module names. Every match collapses into a single row whose count is the
+     * highest in the family and (when they differ) is rendered as {@code [min, max]}.
+     */
+    static final List<ModuleFold> MODULE_FOLDS = List.of(
+            new ModuleFold("software.amazon.awssdk.*",
+                    name -> name.startsWith("software.amazon.awssdk.")));
+
+    public record ModuleFold(String displayKey, Predicate<String> matches) {
+    }
+
     private ModuleSummary() {
     }
 
@@ -96,6 +110,8 @@ public final class ModuleSummary {
 
     public record Totals(int modules,
                          long versionRows,
+                         long namedVersionRows,
+                         long explicitModuleVersionRows,
                          int distinctGroupIds,
                          Optional<Instant> latestPublishedAt) {
     }
@@ -129,7 +145,22 @@ public final class ModuleSummary {
                            List<TopAvgEntry> groupsByAverageVersions) {
     }
 
-    public record TopEntry(String key, long count) {
+    /**
+     * A row in a top-N table. {@code count} is the value used for ranking and is what gets
+     * rendered for a single-module row. When a row represents a {@link ModuleFold} (e.g.
+     * {@code software.amazon.awssdk.*}), {@code min} carries the lowest count among the folded
+     * modules and {@code count} carries the highest; the renderer emits {@code [min, count]}
+     * to convey the spread. For non-folded rows {@code min == count} and only {@code count}
+     * is rendered.
+     */
+    public record TopEntry(String key, long count, long min) {
+        public TopEntry(String key, long count) {
+            this(key, count, count);
+        }
+
+        public boolean isRange() {
+            return min != count;
+        }
     }
 
     public record TopLatestEntry(String key, Instant publishedAt) {
@@ -195,10 +226,12 @@ public final class ModuleSummary {
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Modules tracked | ").append(fmt(totals.modules())).append(" |\n");
+        builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
         builder.append("| Total version records | ").append(fmt(totals.versionRows())).append(" |\n");
+        builder.append("| Total named versions | ").append(fmt(totals.namedVersionRows())).append(" |\n");
+        builder.append("| Total versions with explicit module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
-        builder.append("| Most recent publication | ")
+        builder.append("| Most recent tracked publication | ")
                 .append(totals.latestPublishedAt().map(ISO_UTC_SECONDS::format).orElse("(none)"))
                 .append(" |\n\n");
 
@@ -243,7 +276,7 @@ public final class ModuleSummary {
 
         ProcessingErrors errors = stats.errors();
         builder.append("## Processing errors (from `data/scanned/`)\n\n");
-        builder.append("Recorded permanent failures across every scanned coordinate. URLs in messages are normalised to `<URL>` so 404s against different paths aggregate into a single row.\n\n");
+        builder.append("Recorded permanent failures across every scanned coordinate. Variable bits of well-known error classes (URLs, shaded package names, classfile entry indexes, HTTP status codes, line numbers, class identifiers) are replaced with placeholders like `<URL>`, `<PACKAGE>`, `<CLASS>` so messages that differ only in those bits aggregate into one row.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n\n");
         if (!errors.topMessages().isEmpty()) {
@@ -256,9 +289,13 @@ public final class ModuleSummary {
         }
 
         builder.append("## Top ").append(topN).append(" modules by version count\n\n");
+        builder.append("Counted from the canonical `versions.tsv` only (per-classifier counts like `-jar-with-dependencies` are excluded). Module families that would otherwise occupy many adjacent slots are folded into a single `<prefix>.*` row; when the absorbed modules have different counts the cell is rendered as `[min, max]`.\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
         for (TopEntry entry : stats.top().modulesByVersionCount()) {
-            builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
+            String count = entry.isRange()
+                    ? "[" + fmt(entry.min()) + ", " + fmt(entry.count()) + "]"
+                    : fmt(entry.count());
+            builder.append("| `").append(entry.key()).append("` | ").append(count).append(" |\n");
         }
         builder.append('\n');
 
@@ -329,6 +366,7 @@ public final class ModuleSummary {
 
         private int totalModules;
         private long totalVersionRows;
+        private long totalNamedVersionRows;
         private int namedUniqueModules;
         private int automaticUniqueModules;
         private long namedRows;
@@ -399,7 +437,12 @@ public final class ModuleSummary {
 
             List<ModuleEntry> versions = readVersionsFile(versionsFile);
             totalVersionRows += versions.size();
-            versionsCountByModule.put(moduleKey, versions.size());
+            // The top-modules-by-version-count table is limited to the canonical versions.tsv:
+            // classifier variants like -jar-with-dependencies otherwise dominate the list with
+            // bundled-dependency version counts that aren't really about the module itself.
+            if (classifier == null) {
+                versionsCountByModule.put(moduleName, versions.size());
+            }
 
             Set<String> groupsHere = new HashSet<>();
             boolean recent = false;
@@ -423,6 +466,7 @@ public final class ModuleSummary {
                 // always land in the "absent" bucket and dilute the signal. Skip them so the
                 // breakdown reflects only the population where the question is meaningful.
                 if (entry.type() == ModuleType.NAMED) {
+                    totalNamedVersionRows++;
                     String moduleVersion = entry.moduleVersion();
                     if (moduleVersion == null) {
                         moduleVersionUntracked++;
@@ -523,6 +567,8 @@ public final class ModuleSummary {
             Totals totals = new Totals(
                     totalModules,
                     totalVersionRows,
+                    totalNamedVersionRows,
+                    moduleVersionExplicit,
                     distinctGroupIds.size(),
                     latestPublishedMillis > 0L ? Optional.of(Instant.ofEpochMilli(latestPublishedMillis)) : Optional.empty());
             TypeBreakdown named = new TypeBreakdown(namedUniqueModules, namedRows);
@@ -561,7 +607,7 @@ public final class ModuleSummary {
                     .limit(topN)
                     .toList();
             TopLists top = new TopLists(
-                    topByValue(versionsCountByModule, topN),
+                    topModulesByVersionCount(versionsCountByModule, topN),
                     topByValue(modulesByGroup.entrySet().stream()
                             .collect(Collectors.toMap(Map.Entry::getKey, e -> e.getValue().size())), topN),
                     topByValue(distinctGroupsCountByModule.entrySet().stream()
@@ -649,20 +695,72 @@ public final class ModuleSummary {
     }
 
     /**
-     * Returns the number of leading dot-separated segments that {@code moduleName} and
-     * {@code groupId} share. Examples:
-     *   {@code a.b.c}, {@code a.b.d}   →  2
-     *   {@code org.slf4j}, {@code org.slf4j.api}  →  2
-     *   {@code com.example}, {@code org.something}  →  0
+     * Ordered list of normalisation rules applied to scanner error messages so similar failures
+     * aggregate cleanly. Each rule is a regex that matches a single error class (typically anchored
+     * by enough surrounding text to be unambiguous) and a replacement that fills the variable
+     * bits with placeholders like {@code <PACKAGE>}, {@code <CLASS>}, etc. Without this, every
+     * shaded-package or every HTTP-404 path lands in its own bucket and crowds out the more
+     * interesting patterns. Rules are applied in declaration order; the URL rule runs first so
+     * subsequent rules can match against {@code <URL>} rather than a real URL.
      */
+    private static final List<ErrorNormalizer> ERROR_NORMALIZERS = List.of(
+            new ErrorNormalizer(Pattern.compile("https?://\\S+"), "<URL>"),
+            new ErrorNormalizer(
+                    Pattern.compile("Package \\S+ missing from ModulePackages class file attribute"),
+                    "Package <PACKAGE> missing from ModulePackages class file attribute"),
+            new ErrorNormalizer(
+                    Pattern.compile("Exported package \\S+ already declared"),
+                    "Exported package <PACKAGE> already declared"),
+            new ErrorNormalizer(
+                    Pattern.compile("Unsupported major\\.minor version \\d+\\.\\d+"),
+                    "Unsupported major.minor version <VERSION>"),
+            new ErrorNormalizer(
+                    Pattern.compile("CONSTANT_\\w+ at entry \\d+ has illegal character: '[^']*'"),
+                    "CONSTANT_<KIND> at entry <ENTRY> has illegal character: '<CHAR>'"),
+            new ErrorNormalizer(
+                    Pattern.compile("CONSTANT_\\w+ expected at entry: \\d+"),
+                    "CONSTANT_<KIND> expected at entry: <ENTRY>"),
+            new ErrorNormalizer(
+                    Pattern.compile("invalid header field \\(line \\d+\\)"),
+                    "invalid header field (line <LINE>)"),
+            new ErrorNormalizer(
+                    Pattern.compile("Tail request on <URL> returned status \\d+"),
+                    "Tail request on <URL> returned status <STATUS>"),
+            new ErrorNormalizer(
+                    Pattern.compile("Expected central file header signature at offset \\d+"),
+                    "Expected central file header signature at offset <OFFSET>"),
+            new ErrorNormalizer(
+                    Pattern.compile("Expected ZIP64 end of central directory signature at offset \\d+"),
+                    "Expected ZIP64 end of central directory signature at offset <OFFSET>"),
+            new ErrorNormalizer(
+                    Pattern.compile("Illegal character in path at index \\d+: .+$"),
+                    "Illegal character in path at index <INDEX>: <PATH>"),
+            new ErrorNormalizer(
+                    Pattern.compile("\\S+: Invalid service type name: '[^']*' is not a Java identifier"),
+                    "<CLASS>: Invalid service type name: '<NAME>' is not a Java identifier"),
+            new ErrorNormalizer(
+                    Pattern.compile("\\S+: is not a qualified name of a Java class in a named package"),
+                    "<CLASS>: is not a qualified name of a Java class in a named package"),
+            new ErrorNormalizer(
+                    Pattern.compile("\\S+: unnamed package"),
+                    "<CLASS>: unnamed package"));
+
+    private record ErrorNormalizer(Pattern pattern, String replacement) {
+    }
+
     /**
-     * Normalises a recorded scanner error message so similar failures aggregate cleanly.
-     * Replaces full URLs with {@code <URL>}; everything else is kept verbatim so distinct
-     * error classes stay distinct. Without this, every HTTP 404 against a different URL
-     * would land in its own bucket and crowd out the more interesting patterns.
+     * Normalises a recorded scanner error message so similar failures aggregate cleanly. The
+     * variable parts of well-known error classes (URLs, shaded package names, classfile entry
+     * indexes, HTTP status codes, line numbers, etc.) are replaced with stable placeholders so
+     * messages that differ only in those bits collapse into one bucket. Anything that doesn't
+     * match a known pattern is left verbatim so genuinely distinct error classes stay distinct.
      */
-    static String normalizeErrorMessage(String message) {
-        return message.replaceAll("https?://\\S+", "<URL>");
+    public static String normalizeErrorMessage(String message) {
+        String result = message;
+        for (ErrorNormalizer normalizer : ERROR_NORMALIZERS) {
+            result = normalizer.pattern().matcher(result).replaceAll(Matcher.quoteReplacement(normalizer.replacement()));
+        }
+        return result;
     }
 
     /** Escapes the pipe character so embedded `|` doesn't break a markdown table row. */
@@ -670,6 +768,13 @@ public final class ModuleSummary {
         return value.indexOf('|') < 0 ? value : value.replace("|", "\\|");
     }
 
+    /**
+     * Returns the number of leading dot-separated segments that {@code moduleName} and
+     * {@code groupId} share. Examples:
+     *   {@code a.b.c}, {@code a.b.d}   →  2
+     *   {@code org.slf4j}, {@code org.slf4j.api}  →  2
+     *   {@code com.example}, {@code org.something}  →  0
+     */
     static int sharedLeadingSegments(String moduleName, String groupId) {
         String[] moduleSegments = moduleName.split("\\.", -1);
         String[] groupSegments = groupId.split("\\.", -1);
@@ -712,6 +817,49 @@ public final class ModuleSummary {
                 })
                 .limit(limit)
                 .map(entry -> new TopEntry(entry.getKey(), entry.getValue()))
+                .toList();
+    }
+
+    /**
+     * Builds the top-N module list with {@link #MODULE_FOLDS} applied: every module whose name
+     * matches a fold's predicate is removed and a single synthetic row per fold is inserted
+     * carrying the {@code min}/{@code max} of the absorbed counts. The synthetic row is ranked
+     * by {@code max}, so the fold lands roughly where its highest-count member would have. With
+     * the awssdk family, this turns ~7 adjacent identical rows into one and frees those slots
+     * for other modules.
+     */
+    static List<TopEntry> topModulesByVersionCount(Map<String, Integer> source, int limit) {
+        Map<String, long[]> folded = new LinkedHashMap<>();
+        Map<String, Integer> remaining = new HashMap<>(source);
+        for (ModuleFold fold : MODULE_FOLDS) {
+            long min = Long.MAX_VALUE;
+            long max = Long.MIN_VALUE;
+            boolean matched = false;
+            Iterator<Map.Entry<String, Integer>> iterator = remaining.entrySet().iterator();
+            while (iterator.hasNext()) {
+                Map.Entry<String, Integer> entry = iterator.next();
+                if (fold.matches().test(entry.getKey())) {
+                    long count = entry.getValue();
+                    min = Math.min(min, count);
+                    max = Math.max(max, count);
+                    matched = true;
+                    iterator.remove();
+                }
+            }
+            if (matched) {
+                folded.put(fold.displayKey(), new long[]{min, max});
+            }
+        }
+        Stream<TopEntry> single = remaining.entrySet().stream()
+                .map(entry -> new TopEntry(entry.getKey(), entry.getValue()));
+        Stream<TopEntry> ranges = folded.entrySet().stream()
+                .map(entry -> new TopEntry(entry.getKey(), entry.getValue()[1], entry.getValue()[0]));
+        return Stream.concat(single, ranges)
+                .sorted((a, b) -> {
+                    int cmp = Long.compare(b.count(), a.count());
+                    return cmp != 0 ? cmp : a.key().compareTo(b.key());
+                })
+                .limit(limit)
                 .toList();
     }
 }
