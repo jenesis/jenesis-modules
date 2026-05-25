@@ -21,9 +21,10 @@ public final class ModuleSummary {
 
     public static final String PROP_DATA = "jenesis.crawler.data";
     public static final String PROP_OUTPUT = "jenesis.summary.output";
+    public static final String PROP_TOP_N = "jenesis.summary.top.n";
     public static final String DEFAULT_OUTPUT = "SUMMARY.md";
     public static final Duration RECENT_WINDOW = Duration.ofDays(7L);
-    public static final int TOP_N = 25;
+    public static final int DEFAULT_TOP_N = 25;
 
     private static final String VERSIONS_STEM = "versions";
     private static final String CURRENT_STEM = "current";
@@ -38,12 +39,30 @@ public final class ModuleSummary {
     public static void main(String[] arguments) throws IOException {
         Path dataDir = Path.of(System.getProperty(PROP_DATA, "data"));
         Path output = Path.of(System.getProperty(PROP_OUTPUT, dataDir.resolve(DEFAULT_OUTPUT).toString()));
+        int topN = parseTopN(System.getProperty(PROP_TOP_N));
         Instant generatedAt = Instant.now();
-        Stats stats = compute(dataDir, generatedAt);
-        atomicWrite(output, render(stats));
+        Stats stats = compute(dataDir, generatedAt, topN);
+        atomicWrite(output, render(stats, topN));
         System.out.println("[summary] Wrote " + output
                 + " (modules=" + stats.totals().modules()
-                + ", versionRows=" + stats.totals().versionRows() + ")");
+                + ", versionRows=" + stats.totals().versionRows()
+                + ", topN=" + topN + ")");
+    }
+
+    private static int parseTopN(String value) {
+        if (value == null || value.isBlank()) {
+            return DEFAULT_TOP_N;
+        }
+        int parsed;
+        try {
+            parsed = Integer.parseInt(value.trim());
+        } catch (NumberFormatException invalid) {
+            throw new IllegalArgumentException("Expected integer for " + PROP_TOP_N + ", got: " + value);
+        }
+        if (parsed < 1) {
+            throw new IllegalArgumentException(PROP_TOP_N + " must be >= 1, got: " + parsed);
+        }
+        return parsed;
     }
 
     public record Stats(Instant generatedAt,
@@ -102,12 +121,12 @@ public final class ModuleSummary {
     public record TopAvgEntry(String key, int modules, long totalVersions, double average) {
     }
 
-    public static Stats compute(Path dataDir, Instant generatedAt) throws IOException {
+    public static Stats compute(Path dataDir, Instant generatedAt, int topN) throws IOException {
         Path statePath = dataDir.resolve("state.properties");
         Path modulesRoot = dataDir.resolve("modules");
         Path scannedRoot = dataDir.resolve("scanned");
         State state = State.load(statePath);
-        Aggregator aggregator = new Aggregator(generatedAt);
+        Aggregator aggregator = new Aggregator(generatedAt, topN);
         if (Files.isDirectory(modulesRoot)) {
             try (Stream<Path> stream = Files.walk(modulesRoot)) {
                 Iterator<Path> iterator = stream.iterator();
@@ -135,7 +154,7 @@ public final class ModuleSummary {
         return aggregator.toStats(state);
     }
 
-    private static String render(Stats stats) {
+    private static String render(Stats stats, int topN) {
         StringBuilder builder = new StringBuilder();
         builder.append("# Module summary\n\n");
         builder.append("> ### Powered by [Jenesis](https://github.com/raphw/jenesis)\n");
@@ -202,7 +221,7 @@ public final class ModuleSummary {
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n\n");
         if (!errors.topMessages().isEmpty()) {
-            builder.append("### Top ").append(TOP_N).append(" error messages\n\n");
+            builder.append("### Top ").append(topN).append(" error messages\n\n");
             builder.append("| Error message | Count |\n|---|---:|\n");
             for (TopEntry entry : errors.topMessages()) {
                 builder.append("| `").append(escapePipes(entry.key())).append("` | ").append(fmt(entry.count())).append(" |\n");
@@ -210,28 +229,28 @@ public final class ModuleSummary {
             builder.append('\n');
         }
 
-        builder.append("## Top ").append(TOP_N).append(" modules by version count\n\n");
+        builder.append("## Top ").append(topN).append(" modules by version count\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
         for (TopEntry entry : stats.top().modulesByVersionCount()) {
             builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
-        builder.append("## Top ").append(TOP_N).append(" groupIds by module count\n\n");
+        builder.append("## Top ").append(topN).append(" groupIds by module count\n\n");
         builder.append("| groupId | Modules published |\n|---|---:|\n");
         for (TopEntry entry : stats.top().groupsByModuleCount()) {
             builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
-        builder.append("## Top ").append(TOP_N).append(" modules with most colliding groupIds\n\n");
+        builder.append("## Top ").append(topN).append(" modules with most colliding groupIds\n\n");
         builder.append("| Module | Distinct groupIds |\n|---|---:|\n");
         for (TopEntry entry : stats.top().collisionsByDistinctGroups()) {
             builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
-        builder.append("## Top ").append(TOP_N).append(" modules updated in the last 7 days\n\n");
+        builder.append("## Top ").append(topN).append(" modules updated in the last 7 days\n\n");
         if (stats.top().latestModuleUpdates().isEmpty()) {
             builder.append("_(none — no publications recorded within the last week)_\n\n");
         } else {
@@ -243,7 +262,7 @@ public final class ModuleSummary {
             builder.append('\n');
         }
 
-        builder.append("## Top ").append(TOP_N).append(" groupIds by average versions per module\n\n");
+        builder.append("## Top ").append(topN).append(" groupIds by average versions per module\n\n");
         builder.append("Restricted to groupIds publishing at least 3 modules so the average isn't dominated by single-module outliers.\n\n");
         if (stats.top().groupsByAverageVersions().isEmpty()) {
             builder.append("_(none — no groupId yet publishes 3 or more modules)_\n\n");
@@ -280,6 +299,7 @@ public final class ModuleSummary {
 
         private final Instant generatedAt;
         private final long recentCutoffMillis;
+        private final int topN;
 
         private int totalModules;
         private long totalVersionRows;
@@ -306,9 +326,13 @@ public final class ModuleSummary {
         private long processingErrorTotal;
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
 
-        Aggregator(Instant generatedAt) {
+        Aggregator(Instant generatedAt, int topN) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
             this.recentCutoffMillis = generatedAt.minus(RECENT_WINDOW).toEpochMilli();
+            if (topN < 1) {
+                throw new IllegalArgumentException("topN must be >= 1, got " + topN);
+            }
+            this.topN = topN;
         }
 
         void acceptDirectory(Path modulesRoot, Path dir) throws IOException {
@@ -471,7 +495,7 @@ public final class ModuleSummary {
                         int cmp = Long.compare(b.getValue(), a.getValue());
                         return cmp != 0 ? cmp : a.getKey().compareTo(b.getKey());
                     })
-                    .limit(TOP_N)
+                    .limit(topN)
                     .map(e -> new TopLatestEntry(e.getKey(), Instant.ofEpochMilli(e.getValue())))
                     .toList();
             List<TopAvgEntry> groupAverages = modulesByGroup.entrySet().stream()
@@ -489,15 +513,15 @@ public final class ModuleSummary {
                         int cmp = Double.compare(b.average(), a.average());
                         return cmp != 0 ? cmp : a.key().compareTo(b.key());
                     })
-                    .limit(TOP_N)
+                    .limit(topN)
                     .toList();
             TopLists top = new TopLists(
-                    topByValue(versionsCountByModule, TOP_N),
+                    topByValue(versionsCountByModule, topN),
                     topByValue(modulesByGroup.entrySet().stream()
-                            .collect(Collectors.toMap(Map.Entry::getKey, e -> e.getValue().size())), TOP_N),
+                            .collect(Collectors.toMap(Map.Entry::getKey, e -> e.getValue().size())), topN),
                     topByValue(distinctGroupsCountByModule.entrySet().stream()
                             .filter(e -> e.getValue() > 1)
-                            .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)), TOP_N),
+                            .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)), topN),
                     latestUpdates,
                     groupAverages);
             List<TopEntry> topErrorMessages = errorMessageCounts.entrySet().stream()
@@ -505,7 +529,7 @@ public final class ModuleSummary {
                         int cmp = Long.compare(b.getValue(), a.getValue());
                         return cmp != 0 ? cmp : a.getKey().compareTo(b.getKey());
                     })
-                    .limit(TOP_N)
+                    .limit(topN)
                     .map(entry -> new TopEntry(entry.getKey(), entry.getValue()))
                     .toList();
             ProcessingErrors errors = new ProcessingErrors(processingErrorTotal, topErrorMessages);

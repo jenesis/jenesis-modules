@@ -263,6 +263,69 @@ Optional system properties:
 | `jenesis.crawler.git.work.dir` | `.` | Working tree for the publishing commits. |
 | `jenesis.crawler.git.push.every` | `1` | Push every N checkpoints. |
 
+## Companion tools
+
+Two standalone main classes share the crawler's scanner pipeline but skip the index streamer; both are useful operational utilities.
+
+### `build.jenesis.crawler.RetryFailed`
+
+Re-scans every coordinate currently recorded as a permanent failure in `data/scanned/`, optionally narrowed by a regex match against the recorded error message. Reuses the regular crawler's `Scanner`, `ModuleStore` flush invariant, checkpointing, and git-publisher pipeline; index chain state in `state.properties` is not touched, and no 24-minute producer warmup is incurred.
+
+```
+java -cp <jar> build.jenesis.crawler.RetryFailed <artifact-base-uri>
+```
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.retry.error.pattern` | (unset, retry every failure) | Regex matched against recorded error messages via `Matcher.find()`. Substring match, no anchoring needed. |
+| `jenesis.crawler.data` | `data` | Crawler data directory. |
+| `jenesis.crawler.budget`, `concurrency`, `tail.size`, `small.jar.threshold`, `checkpoint.every`, `git.publish`, `git.work.dir`, `git.push.every` | see crawler defaults | All share the keys used by `Crawl`. |
+
+The crawler's `reprocessFailed` flag is forced to `true` internally so an existing failure record doesn't block its own re-scan via the consumer-side `scannedStore.contains` check.
+
+Use cases:
+- After a scanner-side fix (e.g. broadening the permanent-failure classifier or adding a new tail-size fallback), retry the affected category to recover JARs that were previously marked failed:
+  ```
+  java -Djenesis.retry.error.pattern='supplied tail buffer' \
+       -cp <jar> build.jenesis.crawler.RetryFailed \
+       https://maven-central.storage-download.googleapis.com/maven2/
+  ```
+- One-shot full retry after a long quiet period:
+  ```
+  java -cp <jar> build.jenesis.crawler.RetryFailed \
+       https://maven-central.storage-download.googleapis.com/maven2/
+  ```
+
+### `build.jenesis.crawler.ModuleSummary`
+
+Walks `data/modules/` (`versions.tsv` + `current.tsv`) and `data/scanned/` (for failure stats) and writes a human-readable markdown summary atomically to `data/SUMMARY.md`. Regenerated on every invocation; the previous file is overwritten.
+
+```
+java -cp <jar> build.jenesis.crawler.ModuleSummary
+```
+
+The summary covers:
+
+- Totals: modules tracked, total version records, distinct groupIds, most recent publication date.
+- Type breakdown (named / automatic) — unique modules and total rows from each `current[-<classifier>].tsv`.
+- Type transitions (automatic → named, named → automatic) computed from each module's resolved view, so cross-publisher swings filtered out by `owners.tsv` are intentionally excluded.
+- Recent activity (modules with a publication in the last 7 days).
+- Naming patterns: classifier counts, modules with multiple competing groupIds, and a histogram of how many leading dot-segments each module shares with its canonical groupId.
+- Processing errors: total failed coordinates plus the top-N most common recorded error messages (URLs normalised to `<URL>` so 404s aggregate).
+- Top-N modules by version count, top-N groupIds by module count, top-N modules with most colliding groupIds, top-N latest updates, top-N groupIds by average versions per module (filtered to groups with ≥ 3 modules).
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.crawler.data` | `data` | Crawler data directory. |
+| `jenesis.summary.output` | `<data>/SUMMARY.md` | Output file path. |
+| `jenesis.summary.top.n` | `25` | Row count for every top-N table and the error-message list. Must be ≥ 1. |
+
+All integer counts in the markdown output are rendered with regular ASCII space as the thousands separator (e.g. `1 118 706`).
+
 ## How the crawl works
 
 1. Fetch `nexus-maven-repository-index.properties` from Maven Central to learn the current chain id and last incremental chunk number.
@@ -329,15 +392,29 @@ Practical consequences:
 - The scanner is HTTP-latency-bound, not bandwidth-bound: most of the per-worker time is round-trip to Central, not byte-pushing. Raising `concurrency` past 64 buys more throughput up to roughly the runner's bandwidth ceiling; we found 64 a comfortable safe-default that fits inside the 4 GB heap on the standard Actions runner even when a large uberjar batch clusters.
 - Stage 2 (`regenerateMissingForFirstPass()` after the very first FULL sweep completes) walks the modules tree and writes a `current[-<classifier>].tsv` per (module, classifier) pair: at ~170K modules with ~10ms per write on persistent disk, it's typically 10-30 minutes. Incremental drainage of `dirty-modules.tsv` in subsequent runs is seconds.
 
+### Failure classification
+
+When `scanOne` returns an error, `Crawler.isPermanentFailure` decides whether to write a row into `data/scanned/` (preventing re-scan on every future run) or leave the coordinate unmarked (next run retries). Permanent triggers:
+
+- Any `IllegalArgumentException` in the cause chain — the scanner raises this for ZIP central-directory corruption it can't recover from.
+- Any `java.lang.module.InvalidModuleDescriptorException` in the cause chain — `module-info.class` is malformed (a common shaded-uberjar bug: the bundled module-info wasn't relocated along with its classes).
+- Any `java.util.zip.ZipException` in the cause chain — the JAR itself is malformed.
+- HTTP status `404` or `410` from the artifact fetch — Central's index references an artifact that isn't actually present (snapshot/alpha coordinates, unresolved `${revision}` placeholders, etc.).
+- A message-substring match against any entry in `Crawler.PERMANENT_MESSAGE_FRAGMENTS`. This list is grown from observation as new recurring intrinsic-failure messages are found that the JDK surfaces as plain `IOException`. The seeded entry is `"invalid header field"` (`java.util.jar.Manifest.parse` choking on a malformed `MANIFEST.MF`).
+
+Everything else (HTTP 5xx, timeouts, generic `IOException` without a known fragment) stays transient and is retried automatically on the next run.
+
+**Tail-too-small recovery.** When the central directory is bigger than the default `jenesis.crawler.tail.size = 65 536 bytes` (typical for shaded uberjars with thousands of entries), the CD parser throws `IllegalArgumentException` with a message containing `"supplied tail buffer"` or `"Expected central file header signature at offset 0"`. Before recording such a coordinate as permanent, `scanOne` retries once with `EXPANDED_TAIL_RETRY_BYTES = 4 MB` so JARs with up to ~80 000 entries succeed on the second try. JARs that fail both attempts are recorded as permanent and surfaced under the same `IllegalArgumentException` classification above.
+
 ### Crash safety
 
 The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine reboot) at any moment leaves on-disk state such that the next run resumes correctly and never loses a recorded artifact. The properties that make this work:
 
-1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `current[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write.
+1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `current[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write. `state.properties` writes additionally short-circuit when the in-memory content equals the last-saved snapshot (via `Crawler.saveStateIfChanged`), so within a chunk the file is touched only at chunk start and chunk completion — not on every checkpoint flush — even though `checkpointListener` continues to fire normally.
 2. **`versions.tsv` is flushed before `scanned.tsv` at every checkpoint.** This is the load-bearing invariant: every coordinate marked as "scanned" on disk has, by construction, already had its module declaration committed to the audit log. After any crash, re-scanning a coordinate is a no-op (the audit-log entry is idempotent via the in-memory `TreeSet`), but losing a coordinate is impossible.
 3. **`state.properties` is saved last in a checkpoint**, after both the audit log and the scanned index. If we crash after saving the audit log/scanned marks but before saving state, the next run re-attempts the same index chunk - it will reprocess the same coordinates and end up with the same data, because the producer filter skips anything in `scanned/`.
 4. **`dirty-modules.tsv` (only maintained after the first baseline) is persisted at the moment a row is added.** It can therefore be *ahead* of `versions.tsv` (one record-then-flush window). That is intentional: if we crash with a dirty name whose audit-log entry isn't yet on disk, the next run re-scans the coordinate, the entry lands in `versions.tsv` on the next flush, and stage 2 regenerates correctly. The dirty list is only drained after a chunk's queue has been fully exhausted in the current run, so stage 2 never builds `current.tsv` from a partial audit log. During the very first FULL pass the dirty list is suppressed entirely — first-pass stage 2 uses a tree walk (existence of `current*.tsv` is the resumption marker) instead of a dirty list, so the same "no partial publish" guarantee holds via a different mechanism.
-5. **Stage 2 (`regenerate(moduleName)`) is idempotent.** It reads `versions.tsv` and `owners.tsv` and atomically rewrites `current.tsv`. In the post-baseline (dirty-list) flow, the dirty entry is removed only *after* the new `current.tsv` is committed: a crash either leaves the old `current.tsv` + dirty entry (next run redoes, same result) or the new `current.tsv` + dirty entry (next run redoes with the same input, same output, then removes the entry). In the first-pass (tree-walk) flow, idempotence falls out of the skip-if-exists check: a directory that already has a `current.tsv` is left alone.
+5. **Stage 2 (`regenerate(moduleName)`) is idempotent.** It reads `versions.tsv` and `owners.tsv` and atomically rewrites `current.tsv`. In the post-baseline (dirty-list) flow, the dirty entry is removed only *after* the new `current.tsv` is committed: a crash either leaves the old `current.tsv` + dirty entry (next run redoes, same result) or the new `current.tsv` + dirty entry (next run redoes with the same input, same output, then removes the entry). In the first-pass (tree-walk) flow, idempotence falls out of the per-(module, classifier) skip-if-exists check: `regenerateMissing()` iterates `versions[-<classifier>].tsv` files individually and writes only the classifier files whose matching `current[-<classifier>].tsv` is missing. So a crash mid-`regenerate` of a multi-classifier module leaves only the in-progress classifier unfinished; the next run picks it up without re-doing the classifiers that already succeeded.
 6. **The producer holds nothing durable.** Its in-flight set lives only in the bounded queue plus per-scanner state. A crash anywhere mid-stream simply loses both, and the next run re-streams the same index chunk; coordinates that had already been scanned and marked are skipped by the `scanned/` filter, coordinates that had been in flight at crash time are re-emitted and re-scanned (idempotent against the audit log).
 7. **The `--resume false` switch is the only way to deliberately drop in-flight state.** It clears `state.properties` and `dirty-modules.tsv` in one shot so the next run starts from a clean baseline. `data/scanned/` and `data/modules/` are preserved - already-scanned coordinates remain skipped, the audit log remains intact.
 
@@ -376,6 +453,8 @@ Scheduled and manual triggers coexist:
 - The manual dispatch form exposes a `resume` choice (default `true`). Set to `false` to discard `state.properties` before starting; `data/scanned/` and `data/modules/` are preserved so already-scanned coordinates remain skipped.
 
 `build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI. `build.yml` additionally skips its own job for commits whose message starts with `[release]` - those are routed exclusively through `release.yml`, which runs the same Jenesis build + test as part of staging.
+
+`.github/workflows/summary.yml` runs once a day at 06:07 UTC — deliberately picked to fall halfway between the two scheduled `crawl.yml` runs at 00:07 and 12:07. It stages the runtime jar, runs `build.jenesis.crawler.ModuleSummary` against `data/`, and commits `data/SUMMARY.md` only when it differs from `HEAD` (a content-identical regeneration is a no-op). Concurrent crawls don't block it: the summary job has no concurrency group, and a 3-attempt `git pull --rebase` retry handles the rare race where a checkpoint commit lands between this job's checkout and its push. Both the `data/**` and `**/*.md` `paths-ignore` rules in `build.yml` already exclude this commit from triggering CI rebuilds, and the `summary:` commit-message prefix doesn't match the `[release]` gate, so `release.yml` stays inert as well.
 
 `release.yml` triggers directly on push to `main` (not via a chain off `build.yml`) and runs whenever the commit message starts with `[release]` or `[release X.Y.Z]`. This makes release commits independent of `paths-ignore` - even an empty `[release]` commit fires the release flow. With no explicit version inside the brackets, the workflow auto-bumps the minor digit from the latest `v*` tag (`0.0.1` if no tag exists yet). The release job's "Build and stage artifacts" step invokes Jenesis with strict pinning, sources, and documentation enabled, then JReleaser publishes to Maven Central and tags `v<version>`.
 
@@ -416,10 +495,24 @@ The manual `workflow_dispatch` form also exposes per-run overrides for the most 
 ## Project layout
 
 ```
-sources/                 production code (one module: build.jenesis.crawler)
-tests/                   tests (JUnit Jupiter + AssertJ)
+sources/build/jenesis/crawler/        main classes (Crawl, Crawler, ListOwners, SetOwners,
+                                      ModuleSummary, RetryFailed) + State, SyncMode
+sources/build/jenesis/crawler/fetch/  HTTP + JAR-byte access: Fetcher, ByteSource,
+                                      RobotsTxt, CentralDirectory, Scanner
+sources/build/jenesis/crawler/index/  Maven Central index format + batch sources:
+                                      IndexReader, IndexProperties, IndexStream,
+                                      BatchSource, StreamingBatchSource,
+                                      FailedScannedBatchSource
+sources/build/jenesis/crawler/store/  on-disk stores: ModuleStore, ScannedStore,
+                                      DirtyModules
+sources/build/jenesis/crawler/model/  domain records: Coordinate, Version, ModuleType,
+                                      ModuleEntry, CurrentEntry, ScannedEntry,
+                                      ScannedModule
+sources/build/jenesis/crawler/publish/ checkpoint sinks: CheckpointListener,
+                                      StatusWriter, GitPublisher
+tests/                   tests (JUnit Jupiter + AssertJ), single test package
 build/jenesis            symlink into the Jenesis submodule (the launcher)
 .jenesis/                Jenesis submodule (sources + runtime cache under cache/)
-.github/workflows/       build (push/PR) and crawl (scheduled) workflows
+.github/workflows/       build (push/PR), crawl (scheduled), and summary (scheduled) workflows
 data/                    output (created by the crawler)
 ```
