@@ -228,6 +228,41 @@ public class ModuleSummaryTest {
         assertThat(stats.totals().explicitModuleVersionRows()).isEqualTo(2L);
     }
 
+    @Test
+    public void monthly_publications_cover_last_twelve_months_including_empty_buckets() throws IOException {
+        Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
+        Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
+                // March 2026: 2 named, 1 automatic
+                "1.0\tnamed\tcom.example\tlib\t2026-03-05T00:00:00Z\t1.0",
+                "1.1\tnamed\tcom.example\tlib\t2026-03-20T00:00:00Z\t1.1",
+                "0.9\tautomatic\tcom.example\tlib\t2026-03-10T00:00:00Z\t",
+                // February 2026: 1 named
+                "0.8\tnamed\tcom.example\tlib\t2026-02-15T00:00:00Z\t",
+                // Way out of window: should be ignored
+                "0.1\tnamed\tcom.example\tlib\t2020-01-01T00:00:00Z\t"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-05-25T00:00:00Z"), 25);
+
+        List<ModuleSummary.MonthlyPublication> monthly = stats.monthlyPublications();
+        assertThat(monthly).hasSize(12);
+        assertThat(monthly.get(0).month()).isEqualTo(YearMonth.of(2025, 6));
+        assertThat(monthly.get(11).month()).isEqualTo(YearMonth.of(2026, 5));
+        // Find the buckets we wrote data into.
+        ModuleSummary.MonthlyPublication march = monthly.stream()
+                .filter(m -> m.month().equals(YearMonth.of(2026, 3)))
+                .findFirst().orElseThrow();
+        assertThat(march.named()).isEqualTo(2L);
+        assertThat(march.automatic()).isEqualTo(1L);
+        ModuleSummary.MonthlyPublication february = monthly.stream()
+                .filter(m -> m.month().equals(YearMonth.of(2026, 2)))
+                .findFirst().orElseThrow();
+        assertThat(february.named()).isEqualTo(1L);
+        assertThat(february.automatic()).isZero();
+        // 2020 row outside the 12-month window is not visible here, but it counted in totals.
+        assertThat(stats.totals().namedVersionRows()).isEqualTo(4L);
+    }
+
     private void writeVersions(String moduleName, int count) throws IOException {
         Path dir = dataDir.resolve("modules");
         for (String segment : moduleName.split("\\.")) {

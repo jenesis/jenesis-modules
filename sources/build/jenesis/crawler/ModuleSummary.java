@@ -91,6 +91,7 @@ public final class ModuleSummary {
                         ModuleVersionCoverage moduleVersionCoverage,
                         Transitions transitions,
                         RecentActivity recent,
+                        List<MonthlyPublication> monthlyPublications,
                         NamingPatterns naming,
                         ProcessingErrors errors,
                         TopLists top) {
@@ -130,6 +131,15 @@ public final class ModuleSummary {
     }
 
     public record RecentActivity(int modules, long versions) {
+    }
+
+    /**
+     * One row of the per-month publication breakdown. {@code month} is the calendar month in UTC;
+     * {@code named} and {@code automatic} count {@code versions.tsv} rows of that type whose
+     * {@code publishedAt} falls in the month. The renderer keeps the most recent 12 calendar
+     * months (including the current one) so growth trends are visible at a glance.
+     */
+    public record MonthlyPublication(YearMonth month, long named, long automatic) {
     }
 
     public record NamingPatterns(int collidingModules,
@@ -278,6 +288,8 @@ public final class ModuleSummary {
         builder.append("| Modules with a publication | ").append(fmt(stats.recent().modules())).append(" |\n");
         builder.append("| New version rows | ").append(fmt(stats.recent().versions())).append(" |\n\n");
 
+        renderMonthlyPublications(builder, stats.monthlyPublications());
+
         builder.append("## Naming patterns\n\n");
         builder.append("| Pattern | Modules |\n|---|---:|\n");
         builder.append("| Has classifier variants | ").append(fmt(stats.naming().modulesWithClassifier())).append(" |\n");
@@ -364,6 +376,44 @@ public final class ModuleSummary {
         return builder.toString();
     }
 
+    private static final int MONTHLY_BAR_WIDTH = 24;
+    private static final DateTimeFormatter MONTH_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM");
+
+    /**
+     * Renders the last 12 months of named/automatic publications as a markdown table with
+     * inline ASCII bars. Bar lengths are scaled to the highest count across all 12 months and
+     * both types so the two columns share the same visual scale and you can compare named vs
+     * automatic by eye. Markdown doesn't render real graphs, so the table-with-bars approach
+     * keeps the section readable in any renderer (GitHub, plain text, IDE preview).
+     */
+    private static void renderMonthlyPublications(StringBuilder builder, List<MonthlyPublication> monthly) {
+        builder.append("## Monthly publications by type (last 12 months)\n\n");
+        builder.append("Counted from `versions.tsv` by the row's `publishedAt` timestamp (UTC) and type. Bars are scaled to the maximum count across either type so the two columns are directly comparable.\n\n");
+        long maxCount = 0L;
+        for (MonthlyPublication entry : monthly) {
+            maxCount = Math.max(maxCount, Math.max(entry.named(), entry.automatic()));
+        }
+        builder.append("| Month | Named modules | Automatic modules |\n|---|---|---|\n");
+        for (MonthlyPublication entry : monthly) {
+            builder.append("| ").append(MONTH_FORMAT.format(entry.month()))
+                    .append(" | ").append(monthlyCell(entry.named(), maxCount))
+                    .append(" | ").append(monthlyCell(entry.automatic(), maxCount))
+                    .append(" |\n");
+        }
+        builder.append('\n');
+    }
+
+    private static String monthlyCell(long count, long maxCount) {
+        if (count == 0L || maxCount <= 0L) {
+            return fmt(count);
+        }
+        int bars = (int) Math.round((double) count * MONTHLY_BAR_WIDTH / (double) maxCount);
+        if (bars == 0) {
+            bars = 1;
+        }
+        return "`" + "▓".repeat(bars) + "`&nbsp;" + fmt(count);
+    }
+
     private static void atomicWrite(Path output, String content) throws IOException {
         Path parent = output.getParent();
         if (parent != null) {
@@ -415,6 +465,7 @@ public final class ModuleSummary {
         private long processingErrorTotal;
         private long scannedArtifactTotal;
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
+        private final Map<YearMonth, long[]> monthlyTypeCounts = new HashMap<>();
 
         Aggregator(Instant generatedAt, int topN) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
@@ -486,6 +537,15 @@ public final class ModuleSummary {
                 }
                 if (entry.type() == ModuleType.AUTOMATIC) {
                     totalAutomaticVersionRows++;
+                }
+                if (entry.publishedAt() > 0L && entry.type() != null) {
+                    YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(entry.publishedAt()).atZone(ZoneOffset.UTC));
+                    long[] counts = monthlyTypeCounts.computeIfAbsent(bucket, _ -> new long[2]);
+                    if (entry.type() == ModuleType.NAMED) {
+                        counts[0]++;
+                    } else if (entry.type() == ModuleType.AUTOMATIC) {
+                        counts[1]++;
+                    }
                 }
                 // Automatic modules have no module-info to declare a version, so they would
                 // always land in the "absent" bucket and dilute the signal. Skip them so the
@@ -664,7 +724,14 @@ public final class ModuleSummary {
                     moduleVersionMismatching,
                     moduleVersionAbsent,
                     moduleVersionUntracked);
-            return new Stats(generatedAt, state, totals, named, automatic, coverage, transitions, recent, naming, errors, top);
+            YearMonth currentMonth = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC));
+            List<MonthlyPublication> monthly = new ArrayList<>(12);
+            for (int i = 11; i >= 0; i--) {
+                YearMonth month = currentMonth.minusMonths(i);
+                long[] counts = monthlyTypeCounts.getOrDefault(month, new long[2]);
+                monthly.add(new MonthlyPublication(month, counts[0], counts[1]));
+            }
+            return new Stats(generatedAt, state, totals, named, automatic, coverage, transitions, recent, monthly, naming, errors, top);
         }
     }
 
