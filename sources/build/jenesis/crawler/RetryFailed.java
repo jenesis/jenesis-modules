@@ -10,19 +10,19 @@ import build.jenesis.crawler.store.ModuleStore;
 
 /**
  * Standalone tool that re-scans the coordinates currently recorded as permanent failures
- * in {@code data/scanned/}, optionally filtered by regex match against the recorded error
- * message. Reuses the regular crawler scanner pipeline (same {@link Scanner}, same
+ * in {@code data/scanned/}, optionally filtered by a regex match against the recorded
+ * error message. Reuses the regular crawler scanner pipeline (same {@link Scanner}, same
  * {@link ModuleStore} flush invariant, same checkpointing, same git publisher), but
  * bypasses the index streamer - no {@code nexus-maven-repository-index.gz} fetch, no
  * 24-minute producer warmup. Index chain state in {@code state.properties} is not modified.
  *
  * Usage:
- *   RetryFailed &lt;artifact-base-uri&gt; &lt;error-regex&gt; [&lt;error-regex&gt; ...]
+ *   RetryFailed &lt;artifact-base-uri&gt;
  *
- * Each regex is matched against the failure message with {@link Matcher#find()} (so
- * substring matches work without anchoring). A coordinate is queued for re-scan if its
- * message matches at least one of the supplied regexes. Pass {@code .*} to retry every
- * failure.
+ * Without {@link #PROP_ERROR_PATTERN} set, every recorded permanent failure is re-scanned.
+ * Setting that system property to a regex narrows the run to failures whose recorded
+ * error message matches the pattern via {@link Matcher#find()} (substring match, no
+ * need to anchor with {@code ^...$}).
  *
  * The crawler's {@code reprocessFailed} configuration flag is set to {@code true} for the
  * scope of this tool's run so that an existing failure record doesn't block the re-scan
@@ -39,6 +39,7 @@ public final class RetryFailed {
     public static final String PROP_GIT_PUBLISH = Crawl.PROP_GIT_PUBLISH;
     public static final String PROP_GIT_WORK_DIR = Crawl.PROP_GIT_WORK_DIR;
     public static final String PROP_GIT_PUSH_EVERY = Crawl.PROP_GIT_PUSH_EVERY;
+    public static final String PROP_ERROR_PATTERN = "jenesis.retry.error.pattern";
 
     private RetryFailed() {
     }
@@ -51,27 +52,27 @@ public final class RetryFailed {
             }
             return;
         }
-        if (arguments.length < 2) {
+        if (arguments.length > 1) {
             printUsage();
-            throw new IllegalArgumentException("Missing required <error-regex> argument(s)");
+            throw new IllegalArgumentException("Expected exactly 1 positional argument (<artifact-base-uri>); got "
+                    + arguments.length + ". To filter by error message, use -D" + PROP_ERROR_PATTERN + "=<regex>.");
         }
         URI artifactBase = URI.create(arguments[0]);
-        List<Pattern> patterns = new ArrayList<>(arguments.length - 1);
-        for (int i = 1; i < arguments.length; i++) {
-            patterns.add(Pattern.compile(arguments[i]));
-        }
+        Optional<Pattern> errorPattern = property(PROP_ERROR_PATTERN).map(Pattern::compile);
+        List<Pattern> patterns = errorPattern.map(List::of).orElse(List.of());
 
-        Crawler.Configuration configuration = buildConfiguration(artifactBase, patterns);
+        Crawler.Configuration configuration = buildConfiguration(artifactBase);
         System.out.println("[info] Configuration:");
         System.out.println("[info]   dataDir=" + configuration.dataDir().toAbsolutePath());
         System.out.println("[info]   budget=" + configuration.budget());
         System.out.println("[info]   concurrency=" + configuration.concurrency());
         System.out.println("[info]   artifactBase=" + configuration.artifactBaseUri());
-        System.out.println("[info]   regexes=" + patterns);
+        System.out.println("[info]   errorPattern=" + errorPattern.map(Pattern::pattern).orElse("(none, retrying all failures)"));
 
         Path scannedRoot = configuration.dataDir().resolve("scanned");
         FailedScannedBatchSource source = FailedScannedBatchSource.from(scannedRoot, patterns, configuration.concurrency());
-        System.out.println("[info] Found " + source.total() + " failed coordinate(s) matching the supplied regex(es)");
+        System.out.println("[info] Found " + source.total() + " failed coordinate(s)"
+                + (errorPattern.isPresent() ? " matching the supplied error pattern" : ""));
         if (source.total() == 0) {
             System.out.println("[info] Nothing to re-scan; exiting.");
             return;
@@ -90,7 +91,7 @@ public final class RetryFailed {
         printFailureBreakdown(result);
     }
 
-    private static Crawler.Configuration buildConfiguration(URI artifactBase, List<Pattern> patterns) {
+    private static Crawler.Configuration buildConfiguration(URI artifactBase) {
         Crawler.Configuration base = Crawler.Configuration.defaults(artifactBase, artifactBase);
         Path dataDir = property(PROP_DATA).map(Path::of).orElse(base.dataDir());
         Duration budget = property(PROP_BUDGET_MINUTES).map(Long::parseLong).map(Duration::ofMinutes).orElse(base.budget());
@@ -147,12 +148,14 @@ public final class RetryFailed {
     }
 
     private static void printUsage() {
-        System.out.println("Usage: RetryFailed <artifact-base-uri> <error-regex> [<error-regex> ...]");
+        System.out.println("Usage: RetryFailed <artifact-base-uri>");
         System.out.println();
-        System.out.println("Re-scans every coordinate currently marked as permanently failed in <dataDir>/scanned/");
-        System.out.println("whose recorded error message matches at least one of the supplied regexes.");
+        System.out.println("Re-scans every coordinate currently marked as permanently failed in <dataDir>/scanned/.");
+        System.out.println("With no error-pattern property set, every recorded failure is retried; setting");
+        System.out.println("-D" + PROP_ERROR_PATTERN + "=<regex> narrows the run to failures whose message matches.");
         System.out.println();
-        System.out.println("System properties (all share the keys used by Crawl):");
+        System.out.println("System properties:");
+        System.out.println("  -D" + PROP_ERROR_PATTERN + "=<regex>  Filter failures by error message (default: retry all)");
         System.out.println("  -D" + PROP_DATA + "=<dir>                 Data directory (default: 'data')");
         System.out.println("  -D" + PROP_BUDGET_MINUTES + "=<minutes>   Wall-clock budget (default: 180)");
         System.out.println("  -D" + PROP_CONCURRENCY + "=<n>            Concurrent fetches (default: 64)");

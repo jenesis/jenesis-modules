@@ -4,6 +4,7 @@ import module java.base;
 import build.jenesis.crawler.model.CurrentEntry;
 import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.ScannedEntry;
 
 /**
  * Reads {@code data/modules/} (versions.tsv + current.tsv) and writes a markdown
@@ -22,7 +23,7 @@ public final class ModuleSummary {
     public static final String PROP_OUTPUT = "jenesis.summary.output";
     public static final String DEFAULT_OUTPUT = "SUMMARY.md";
     public static final Duration RECENT_WINDOW = Duration.ofDays(7L);
-    public static final int TOP_N = 10;
+    public static final int TOP_N = 25;
 
     private static final String VERSIONS_STEM = "versions";
     private static final String CURRENT_STEM = "current";
@@ -53,6 +54,7 @@ public final class ModuleSummary {
                         Transitions transitions,
                         RecentActivity recent,
                         NamingPatterns naming,
+                        ProcessingErrors errors,
                         TopLists top) {
     }
 
@@ -81,6 +83,9 @@ public final class ModuleSummary {
         }
     }
 
+    public record ProcessingErrors(long total, List<TopEntry> topMessages) {
+    }
+
     public record TopLists(List<TopEntry> modulesByVersionCount,
                            List<TopEntry> groupsByModuleCount,
                            List<TopEntry> collisionsByDistinctGroups,
@@ -100,6 +105,7 @@ public final class ModuleSummary {
     public static Stats compute(Path dataDir, Instant generatedAt) throws IOException {
         Path statePath = dataDir.resolve("state.properties");
         Path modulesRoot = dataDir.resolve("modules");
+        Path scannedRoot = dataDir.resolve("scanned");
         State state = State.load(statePath);
         Aggregator aggregator = new Aggregator(generatedAt);
         if (Files.isDirectory(modulesRoot)) {
@@ -111,6 +117,18 @@ public final class ModuleSummary {
                         continue;
                     }
                     aggregator.acceptDirectory(modulesRoot, dir);
+                }
+            }
+        }
+        if (Files.isDirectory(scannedRoot)) {
+            try (Stream<Path> stream = Files.walk(scannedRoot)) {
+                Iterator<Path> iterator = stream.iterator();
+                while (iterator.hasNext()) {
+                    Path file = iterator.next();
+                    if (!Files.isRegularFile(file) || !file.getFileName().toString().endsWith(TSV_EXTENSION)) {
+                        continue;
+                    }
+                    aggregator.acceptScannedFile(file);
                 }
             }
         }
@@ -177,6 +195,20 @@ public final class ModuleSummary {
             builder.append("| Shared leading dot-segments with canonical groupId: ").append(i).append(" | ").append(fmt(count)).append(" |\n");
         }
         builder.append('\n');
+
+        ProcessingErrors errors = stats.errors();
+        builder.append("## Processing errors (from `data/scanned/`)\n\n");
+        builder.append("Recorded permanent failures across every scanned coordinate. URLs in messages are normalised to `<URL>` so 404s against different paths aggregate into a single row.\n\n");
+        builder.append("| Metric | Value |\n|---|---:|\n");
+        builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n\n");
+        if (!errors.topMessages().isEmpty()) {
+            builder.append("### Top ").append(TOP_N).append(" error messages\n\n");
+            builder.append("| Error message | Count |\n|---|---:|\n");
+            for (TopEntry entry : errors.topMessages()) {
+                builder.append("| `").append(escapePipes(entry.key())).append("` | ").append(fmt(entry.count())).append(" |\n");
+            }
+            builder.append('\n');
+        }
 
         builder.append("## Top ").append(TOP_N).append(" modules by version count\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
@@ -271,6 +303,8 @@ public final class ModuleSummary {
         private final Map<String, Set<String>> modulesByGroup = new HashMap<>();
         private final Map<String, Long> versionsByGroup = new HashMap<>();
         private final Map<String, Long> latestPublishedByModule = new HashMap<>();
+        private long processingErrorTotal;
+        private final Map<String, Long> errorMessageCounts = new HashMap<>();
 
         Aggregator(Instant generatedAt) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
@@ -392,6 +426,30 @@ public final class ModuleSummary {
             }
         }
 
+        void acceptScannedFile(Path file) throws IOException {
+            try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
+                Iterator<String> iterator = lines.iterator();
+                while (iterator.hasNext()) {
+                    String line = iterator.next();
+                    if (line.isEmpty()) {
+                        continue;
+                    }
+                    ScannedEntry entry;
+                    try {
+                        entry = ScannedEntry.parse(line);
+                    } catch (IllegalArgumentException malformed) {
+                        continue;
+                    }
+                    if (!entry.isFailed()) {
+                        continue;
+                    }
+                    processingErrorTotal++;
+                    String normalized = normalizeErrorMessage(entry.errorMessage());
+                    errorMessageCounts.merge(normalized, 1L, Long::sum);
+                }
+            }
+        }
+
         Stats toStats(State state) {
             Totals totals = new Totals(
                     totalModules,
@@ -442,7 +500,16 @@ public final class ModuleSummary {
                             .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)), TOP_N),
                     latestUpdates,
                     groupAverages);
-            return new Stats(generatedAt, state, totals, named, automatic, transitions, recent, naming, top);
+            List<TopEntry> topErrorMessages = errorMessageCounts.entrySet().stream()
+                    .sorted((a, b) -> {
+                        int cmp = Long.compare(b.getValue(), a.getValue());
+                        return cmp != 0 ? cmp : a.getKey().compareTo(b.getKey());
+                    })
+                    .limit(TOP_N)
+                    .map(entry -> new TopEntry(entry.getKey(), entry.getValue()))
+                    .toList();
+            ProcessingErrors errors = new ProcessingErrors(processingErrorTotal, topErrorMessages);
+            return new Stats(generatedAt, state, totals, named, automatic, transitions, recent, naming, errors, top);
         }
     }
 
@@ -514,6 +581,21 @@ public final class ModuleSummary {
      *   {@code org.slf4j}, {@code org.slf4j.api}  →  2
      *   {@code com.example}, {@code org.something}  →  0
      */
+    /**
+     * Normalises a recorded scanner error message so similar failures aggregate cleanly.
+     * Replaces full URLs with {@code <URL>}; everything else is kept verbatim so distinct
+     * error classes stay distinct. Without this, every HTTP 404 against a different URL
+     * would land in its own bucket and crowd out the more interesting patterns.
+     */
+    static String normalizeErrorMessage(String message) {
+        return message.replaceAll("https?://\\S+", "<URL>");
+    }
+
+    /** Escapes the pipe character so embedded `|` doesn't break a markdown table row. */
+    private static String escapePipes(String value) {
+        return value.indexOf('|') < 0 ? value : value.replace("|", "\\|");
+    }
+
     static int sharedLeadingSegments(String moduleName, String groupId) {
         String[] moduleSegments = moduleName.split("\\.", -1);
         String[] groupSegments = groupId.split("\\.", -1);

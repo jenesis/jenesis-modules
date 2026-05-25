@@ -89,6 +89,11 @@ public final class Crawler implements AutoCloseable {
     private final boolean ownsFetcher;
     private final ConcurrentMap<String, FailureBucket> failures;
     private CheckpointListener checkpointListener;
+    // Tracks the last state.properties content we (or someone else) wrote to disk so
+    // {@link #saveStateIfChanged} can short-circuit the temp-file + atomic-rename dance
+    // when the in-memory state is byte-equal to what's already on disk. Lazily
+    // initialised from disk on the first save attempt.
+    private State lastSavedState;
 
     public Crawler(Configuration configuration) {
         this(configuration,
@@ -301,7 +306,7 @@ public final class Crawler implements AutoCloseable {
     public Result scan(BatchSource source) throws IOException {
         Path statePath = configuration.dataDir().resolve("state.properties");
         State state = State.load(statePath).withSweepStartedAt(Instant.now());
-        state.save(statePath);
+        saveStateIfChanged(state, statePath);
         try {
             return process(source, state, statePath, SyncMode.SKIPPED, () -> 0L);
         } catch (InterruptedException interrupted) {
@@ -338,7 +343,7 @@ public final class Crawler implements AutoCloseable {
                 System.out.println("[info] Index chain rotated from " + state.indexChainId()
                         + " to " + remote.chainId() + ": resetting baseline and performing full sync.");
                 state = state.withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
-                state.save(statePath);
+                saveStateIfChanged(state, statePath);
             }
 
             ChunkPlan plan = decideNextChunk(state, remote);
@@ -353,7 +358,7 @@ public final class Crawler implements AutoCloseable {
                         ? Math.max(state.indexChunkPending(), remote.lastIncremental())
                         : remote.lastIncremental();
                 state = state.withIndexChunkPending(pending);
-                state.save(statePath);
+                saveStateIfChanged(state, statePath);
             }
 
             boolean chunkFirstPass = !state.hasIndexBaseline();
@@ -385,7 +390,7 @@ public final class Crawler implements AutoCloseable {
             if (plan.mode() == SyncMode.FULL) {
                 state = state.withIndexChunkPending(-1L);
             }
-            state.save(statePath);
+            saveStateIfChanged(state, statePath);
             drainDirty();
             System.out.println("[info] Chain advanced: chainId=" + remote.chainId()
                     + ", lastApplied=" + chunkApplied
@@ -488,7 +493,7 @@ public final class Crawler implements AutoCloseable {
         System.err.println("[WARN] data/ CONTENTS REMAIN VALID; scannedStore SKIPS ALREADY-SCANNED COORDINATES.");
         System.err.println("[WARN] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
         State reset = State.load(statePath).withIndex(-1L, 0L, null).withIndexChunkPending(-1L);
-        reset.save(statePath);
+        saveStateIfChanged(reset, statePath);
     }
 
     /**
@@ -510,9 +515,27 @@ public final class Crawler implements AutoCloseable {
     private void discardInflight(Path statePath) throws IOException {
         dirtyModules.clear();
         boolean removedAnything = Files.deleteIfExists(statePath);
+        lastSavedState = null;
         System.out.println(removedAnything
                 ? "[info] Resume disabled: discarded existing state; starting fresh."
                 : "[info] Resume disabled: no existing state to discard.");
+    }
+
+    /**
+     * Writes {@code candidate} to {@code statePath} only if it differs from the last state
+     * we observed on disk. Lazily seeds {@link #lastSavedState} from the file on first call.
+     * No-ops when the in-memory state is byte-equal to what's already persisted, which is
+     * the common case during a chunk where the chain fields don't change between checkpoints.
+     */
+    private void saveStateIfChanged(State candidate, Path statePath) throws IOException {
+        if (lastSavedState == null) {
+            lastSavedState = State.load(statePath);
+        }
+        if (candidate.equals(lastSavedState)) {
+            return;
+        }
+        candidate.save(statePath);
+        lastSavedState = candidate;
     }
 
     private void verifyRobotsTxt() throws IOException {
@@ -561,7 +584,7 @@ public final class Crawler implements AutoCloseable {
                                      SyncMode mode) throws IOException {
         System.out.println("[info] Streaming " + mode + " sync from " + indexUri);
         State streamingState = state.withSweepStartedAt(Instant.now());
-        streamingState.save(statePath);
+        saveStateIfChanged(streamingState, statePath);
 
         Predicate<Coordinate> producerFilter = candidate -> isInteresting(candidate) && !scannedStore.contains(candidate);
         // Periodic diagnostic so a hung or slow run is visible without attaching jcmd. The
@@ -714,7 +737,7 @@ public final class Crawler implements AutoCloseable {
             store.flush();
         }
         scannedStore.flush();
-        state.save(statePath);
+        saveStateIfChanged(state, statePath);
         long elapsedSeconds = Math.max(1L, Duration.between(runStart, Instant.now()).toSeconds());
         long rate = processed / elapsedSeconds;
         System.out.println("[artifacts] processed=" + processed + " named=" + named + " automatic=" + automatic
