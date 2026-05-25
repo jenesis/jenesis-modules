@@ -14,10 +14,6 @@ public final class GitPublisher implements CheckpointListener {
     private final int pushEvery;
     private int commitsSincePush;
 
-    public GitPublisher(Path workingDirectory, List<String> paths) {
-        this(workingDirectory, paths, DEFAULT_PUSH_EVERY);
-    }
-
     public GitPublisher(Path workingDirectory, List<String> paths, int pushEvery) {
         this.workingDirectory = Objects.requireNonNull(workingDirectory, "workingDirectory");
         this.paths = List.copyOf(Objects.requireNonNull(paths, "paths"));

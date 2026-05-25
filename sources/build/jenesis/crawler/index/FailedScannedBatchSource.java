@@ -50,10 +50,6 @@ public final class FailedScannedBatchSource implements BatchSource {
         return coordinates.size();
     }
 
-    public int emitted() {
-        return index;
-    }
-
     @Override
     public Batch next() {
         if (index >= coordinates.size()) {

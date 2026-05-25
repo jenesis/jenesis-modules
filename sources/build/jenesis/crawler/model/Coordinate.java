@@ -21,19 +21,6 @@ public record Coordinate(String groupId,
         Objects.requireNonNull(extension, "extension");
     }
 
-    public String groupArtifact() {
-        return groupId + ":" + artifactId;
-    }
-
-    public String coordinate() {
-        StringBuilder builder = new StringBuilder();
-        builder.append(groupId).append(':').append(artifactId).append(':').append(version);
-        if (classifier != null) {
-            builder.append(':').append(classifier);
-        }
-        return builder.toString();
-    }
-
     public String mavenPath() {
         StringBuilder builder = new StringBuilder();
         builder.append(groupId.replace('.', '/')).append('/');

@@ -70,11 +70,28 @@ public final class ModuleSummary {
                         Totals totals,
                         TypeBreakdown named,
                         TypeBreakdown automatic,
+                        ModuleVersionCoverage moduleVersionCoverage,
                         Transitions transitions,
                         RecentActivity recent,
                         NamingPatterns naming,
                         ProcessingErrors errors,
                         TopLists top) {
+    }
+
+    /**
+     * Row-level breakdown of how the module-info version column in {@code versions.tsv}
+     * relates to the Maven coordinate version for the same row. Counted over named-module
+     * rows only; automatic modules have no module-info to declare a version, so they are
+     * excluded so they don't dilute the absent bucket.
+     *
+     * <ul>
+     *   <li>{@code explicit}: module-info declared a version and it equals the Maven coordinate version.</li>
+     *   <li>{@code mismatching}: module-info declared a non-empty version that differs from the Maven coordinate version.</li>
+     *   <li>{@code absent}: the JAR was scanned but module-info declared no version.</li>
+     *   <li>{@code untracked}: legacy row written before the module-info-version column existed; still to be backfilled by {@code PatchModuleVersion}.</li>
+     * </ul>
+     */
+    public record ModuleVersionCoverage(long explicit, long mismatching, long absent, long untracked) {
     }
 
     public record Totals(int modules,
@@ -190,6 +207,15 @@ public final class ModuleSummary {
         builder.append("| Type | Unique modules | Published rows |\n|---|---:|---:|\n");
         builder.append("| Named | ").append(fmt(stats.named().uniqueModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
         builder.append("| Automatic | ").append(fmt(stats.automatic().uniqueModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
+
+        ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
+        builder.append("## Module-info version coverage\n\n");
+        builder.append("Counted over named-module rows in `versions.tsv` (automatic modules are excluded since they have no `module-info` to declare a version). \"Explicit\" means the row's `module-info` declared a version that equals the Maven coordinate version; \"mismatching\" means a non-empty `module-info` version that differs from the Maven version; \"without\" means the JAR was scanned but `module-info` declared no version; \"untracked\" means a legacy row written before the column existed and not yet backfilled by `PatchModuleVersion`.\n\n");
+        builder.append("| Category | Rows |\n|---|---:|\n");
+        builder.append("| With explicit module version | ").append(fmt(coverage.explicit())).append(" |\n");
+        builder.append("| With mismatching module version | ").append(fmt(coverage.mismatching())).append(" |\n");
+        builder.append("| Without module version | ").append(fmt(coverage.absent())).append(" |\n");
+        builder.append("| Untracked | ").append(fmt(coverage.untracked())).append(" |\n\n");
 
         builder.append("## Type transitions (from current.tsv history)\n\n");
         builder.append("Counted from each module's resolved view: if the latest-version row is one type and at least one older-version row is the other type, the module is counted in the appropriate direction. Cross-publisher type swings that exist in the audit log but were filtered out by owners.tsv are intentionally excluded.\n\n");
@@ -315,6 +341,10 @@ public final class ModuleSummary {
         private int classifierVariants;
         private final SortedMap<Integer, Integer> sharedSegmentHistogram = new TreeMap<>();
         private long latestPublishedMillis;
+        private long moduleVersionExplicit;
+        private long moduleVersionMismatching;
+        private long moduleVersionAbsent;
+        private long moduleVersionUntracked;
 
         private final Set<Path> dirsWithClassifier = new HashSet<>();
         private final Set<String> distinctGroupIds = new HashSet<>();
@@ -388,6 +418,21 @@ public final class ModuleSummary {
                 if (entry.publishedAt() >= recentCutoffMillis) {
                     recent = true;
                     recentRows++;
+                }
+                // Automatic modules have no module-info to declare a version, so they would
+                // always land in the "absent" bucket and dilute the signal. Skip them so the
+                // breakdown reflects only the population where the question is meaningful.
+                if (entry.type() == ModuleType.NAMED) {
+                    String moduleVersion = entry.moduleVersion();
+                    if (moduleVersion == null) {
+                        moduleVersionUntracked++;
+                    } else if (moduleVersion.isEmpty()) {
+                        moduleVersionAbsent++;
+                    } else if (moduleVersion.equals(entry.mavenVersion().raw())) {
+                        moduleVersionExplicit++;
+                    } else {
+                        moduleVersionMismatching++;
+                    }
                 }
             }
             if (moduleLatestMillis > 0L) {
@@ -533,7 +578,12 @@ public final class ModuleSummary {
                     .map(entry -> new TopEntry(entry.getKey(), entry.getValue()))
                     .toList();
             ProcessingErrors errors = new ProcessingErrors(processingErrorTotal, topErrorMessages);
-            return new Stats(generatedAt, state, totals, named, automatic, transitions, recent, naming, errors, top);
+            ModuleVersionCoverage coverage = new ModuleVersionCoverage(
+                    moduleVersionExplicit,
+                    moduleVersionMismatching,
+                    moduleVersionAbsent,
+                    moduleVersionUntracked);
+            return new Stats(generatedAt, state, totals, named, automatic, coverage, transitions, recent, naming, errors, top);
         }
     }
 

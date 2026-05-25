@@ -26,7 +26,7 @@ public final class ModuleStore {
             .comparingLong(ModuleEntry::publishedAt)
             .thenComparing(ModuleEntry::groupId)
             .thenComparing(ModuleEntry::artifactId)
-            .thenComparing(ModuleEntry::version, Comparator.reverseOrder());
+            .thenComparing(ModuleEntry::mavenVersion, Comparator.reverseOrder());
 
     public static boolean isValidModuleName(String moduleName) {
         if (moduleName == null || moduleName.isEmpty()) {
@@ -75,27 +75,29 @@ public final class ModuleStore {
      * (missing) publish timestamps, which are dropped. The owners.tsv allowlist
      * is NOT consulted here - it only governs current.tsv generation. Coordinates
      * that fail policy still land in versions.tsv as part of the audit log.
+     *
+     * <p>The {@code moduleVersion} parameter carries the raw version string from
+     * the JAR's module-info ({@code ModuleDescriptor.rawVersion()}), or
+     * {@code null} when module-info declared no version (or no module-info exists
+     * at all, as with automatic modules). The caller has scanned the artifact,
+     * so the resulting row is always written in the post-feature format: a
+     * {@code null} {@code moduleVersion} produces a row whose trailing column
+     * exists but is empty, distinguishing it from legacy rows (no trailing
+     * column at all) that predate this feature.
      */
-    public boolean record(String moduleName, ModuleType type, Coordinate coordinate) {
+    public boolean record(String moduleName, ModuleType type, String moduleVersion, Coordinate coordinate) {
         if (coordinate.lastModified() <= 0L) {
             return false;
         }
         StoreKey key = new StoreKey(moduleName, coordinate.classifier());
         NavigableSet<ModuleEntry> entries = dirty.computeIfAbsent(key, this::loadOrEmpty);
-        entries.add(new ModuleEntry(new Version(coordinate.version()), type, coordinate.groupId(), coordinate.artifactId(), coordinate.lastModified()));
+        String moduleVersionField = moduleVersion == null ? "" : moduleVersion;
+        entries.add(new ModuleEntry(new Version(coordinate.version()), type, coordinate.groupId(), coordinate.artifactId(), coordinate.lastModified(), moduleVersionField));
         return true;
     }
 
     public int pendingFiles() {
         return dirty.size();
-    }
-
-    public Set<String> pendingModuleNames() {
-        Set<String> names = new LinkedHashSet<>();
-        for (StoreKey key : dirty.keySet()) {
-            names.add(key.moduleName());
-        }
-        return names;
     }
 
     /** Flushes the in-memory buffer to versions.tsv files. Does NOT touch current.tsv. */
@@ -108,10 +110,6 @@ public final class ModuleStore {
 
     public Path pathFor(StoreKey key) {
         return moduleDir(key.moduleName()).resolve(key.versionsFileName());
-    }
-
-    public Path currentPathFor(StoreKey key) {
-        return moduleDir(key.moduleName()).resolve(key.currentFileName());
     }
 
     public Path ownersPathFor(String moduleName) {
@@ -296,7 +294,7 @@ public final class ModuleStore {
                 .thenComparing(ModuleEntry::groupId)
                 .thenComparing(ModuleEntry::artifactId);
         for (ModuleEntry entry : allowed) {
-            bestByVersion.merge(entry.version().raw(), entry,
+            bestByVersion.merge(entry.mavenVersion().raw(), entry,
                     (existing, candidate) -> pickOrder.compare(candidate, existing) < 0 ? candidate : existing);
         }
         List<CurrentEntry> result = bestByVersion.values().stream()

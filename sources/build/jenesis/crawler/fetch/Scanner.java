@@ -60,9 +60,11 @@ public final class Scanner {
         }
         if (moduleInfoEntry != null) {
             byte[] bytes = readEntry(source, moduleInfoEntry);
-            String name = ModuleDescriptor.read(new ByteArrayInputStream(bytes)).name();
+            ModuleDescriptor descriptor = ModuleDescriptor.read(new ByteArrayInputStream(bytes));
+            String name = descriptor.name();
             if (ModuleStore.isValidModuleName(name)) {
-                return Optional.of(new ScannedModule(name, ModuleType.NAMED));
+                String moduleVersion = descriptor.rawVersion().orElse(null);
+                return Optional.of(new ScannedModule(name, ModuleType.NAMED, moduleVersion));
             }
             return Optional.empty();
         }

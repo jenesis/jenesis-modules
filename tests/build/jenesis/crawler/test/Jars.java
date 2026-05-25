@@ -17,11 +17,19 @@ public final class Jars {
     }
 
     public static byte[] modularJar(String moduleName, Map<String, String> manifestEntries) throws IOException {
+        return modularJar(moduleName, null, manifestEntries);
+    }
+
+    public static byte[] modularJarWithVersion(String moduleName, String moduleVersion) throws IOException {
+        return modularJar(moduleName, moduleVersion, Map.of());
+    }
+
+    public static byte[] modularJar(String moduleName, String moduleVersion, Map<String, String> manifestEntries) throws IOException {
         ByteArrayOutputStream buffer = new ByteArrayOutputStream();
         Manifest manifest = baseManifest(manifestEntries);
         try (JarOutputStream jar = new JarOutputStream(buffer, manifest)) {
             jar.putNextEntry(new ZipEntry("module-info.class"));
-            jar.write(buildModuleInfo(moduleName));
+            jar.write(buildModuleInfo(moduleName, moduleVersion));
             jar.closeEntry();
             jar.putNextEntry(new ZipEntry("META-INF/dummy.txt"));
             jar.write("padding\n".getBytes(StandardCharsets.UTF_8));
@@ -141,9 +149,18 @@ public final class Jars {
     }
 
     public static byte[] buildModuleInfo(String moduleName) {
+        return buildModuleInfo(moduleName, null);
+    }
+
+    public static byte[] buildModuleInfo(String moduleName, String moduleVersion) {
         return ClassFile.of().buildModule(ModuleAttribute.of(
                 ModuleDesc.of(moduleName),
-                builder -> builder.requires(ModuleRequireInfo.of(ModuleDesc.of("java.base"), 0, null))));
+                builder -> {
+                    builder.requires(ModuleRequireInfo.of(ModuleDesc.of("java.base"), 0, null));
+                    if (moduleVersion != null) {
+                        builder.moduleVersion(moduleVersion);
+                    }
+                }));
     }
 
     private static Manifest baseManifest(Map<String, String> additional) {

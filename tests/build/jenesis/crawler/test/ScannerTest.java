@@ -20,7 +20,16 @@ public class ScannerTest {
 
         Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
 
-        assertThat(scanned).contains(new ScannedModule("com.example.lib", ModuleType.NAMED));
+        assertThat(scanned).contains(new ScannedModule("com.example.lib", ModuleType.NAMED, null));
+    }
+
+    @Test
+    public void extracts_module_info_raw_version_when_set() throws IOException {
+        byte[] jar = Jars.modularJarWithVersion("com.example.lib", "1.2.3-SNAPSHOT");
+
+        Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
+
+        assertThat(scanned).contains(new ScannedModule("com.example.lib", ModuleType.NAMED, "1.2.3-SNAPSHOT"));
     }
 
     @Test
@@ -29,7 +38,7 @@ public class ScannerTest {
 
         Optional<ScannedModule> scanned = scanner.scan(ByteSource.ofBytes(jar));
 
-        assertThat(scanned).contains(new ScannedModule("com.example.auto", ModuleType.AUTOMATIC));
+        assertThat(scanned).contains(new ScannedModule("com.example.auto", ModuleType.AUTOMATIC, null));
     }
 
     @Test

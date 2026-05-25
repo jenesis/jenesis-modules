@@ -28,27 +28,4 @@ public interface ByteSource {
         };
     }
 
-    static ByteSource ofFile(Path path) {
-        return new ByteSource() {
-
-            @Override
-            public long size() throws IOException {
-                return Files.size(path);
-            }
-
-            @Override
-            public byte[] read(long offset, int length) throws IOException {
-                try (SeekableByteChannel channel = Files.newByteChannel(path, StandardOpenOption.READ)) {
-                    channel.position(offset);
-                    ByteBuffer buffer = ByteBuffer.allocate(length);
-                    while (buffer.hasRemaining()) {
-                        if (channel.read(buffer) < 0) {
-                            throw new EOFException("Unexpected end of file at offset " + (offset + buffer.position()));
-                        }
-                    }
-                    return buffer.array();
-                }
-            }
-        };
-    }
 }

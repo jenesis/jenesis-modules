@@ -17,7 +17,7 @@ public record CurrentEntry(Version version, ModuleType type, String groupId, Str
     }
 
     public static CurrentEntry of(ModuleEntry entry) {
-        return new CurrentEntry(entry.version(), entry.type(), entry.groupId(), entry.artifactId());
+        return new CurrentEntry(entry.mavenVersion(), entry.type(), entry.groupId(), entry.artifactId());
     }
 
     public String format() {

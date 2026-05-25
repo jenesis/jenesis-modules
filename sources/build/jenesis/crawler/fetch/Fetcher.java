@@ -179,21 +179,6 @@ public final class Fetcher implements AutoCloseable {
         }
     }
 
-    public long size(URI uri) throws IOException {
-        HttpRequest request = builder(uri)
-                .method("HEAD", HttpRequest.BodyPublishers.noBody())
-                .build();
-        HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
-        if (response.statusCode() / 100 != 2) {
-            throw new IOException("HEAD " + uri + " returned status " + response.statusCode());
-        }
-        OptionalLong length = response.headers().firstValueAsLong("content-length");
-        if (length.isEmpty()) {
-            throw new IOException("Missing Content-Length for " + uri);
-        }
-        return length.getAsLong();
-    }
-
     public byte[] range(URI uri, long offset, int length) throws IOException {
         if (length <= 0) {
             return new byte[0];
@@ -205,22 +190,6 @@ public final class Fetcher implements AutoCloseable {
         // buffer leaks we saw in the heap dumps. HttpURLConnection reads the body on this
         // thread with kernel-level back-pressure; in-flight bytes are bounded by SO_RCVBUF.
         return urlConnectionRange(uri, offset, length);
-    }
-
-    public ByteSource source(URI uri) throws IOException {
-        long total = size(uri);
-        return new ByteSource() {
-
-            @Override
-            public long size() {
-                return total;
-            }
-
-            @Override
-            public byte[] read(long offset, int length) throws IOException {
-                return range(uri, offset, length);
-            }
-        };
     }
 
     public Tail tail(URI uri, int suffixLength) throws IOException {

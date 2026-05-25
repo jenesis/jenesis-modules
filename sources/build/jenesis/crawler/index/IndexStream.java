@@ -28,37 +28,19 @@ public final class IndexStream implements AutoCloseable {
     private final LongConsumer onProgressTick;
     private final AtomicReference<IOException> producerError;
     private final AtomicLong recordsProduced;
-    private final AtomicBoolean completed;
     private volatile Thread producer;
 
-    public IndexStream(Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(DEFAULT_QUEUE_CAPACITY, fetcher, filter, _ -> {});
-    }
-
     public IndexStream(Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this(DEFAULT_QUEUE_CAPACITY, fetcher, filter, onProgressTick);
-    }
-
-    public IndexStream(int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter) {
-        this(queueCapacity, fetcher, filter, _ -> {});
-    }
-
-    public IndexStream(int queueCapacity, Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
-        this.queue = new ArrayBlockingQueue<>(queueCapacity);
+        this.queue = new ArrayBlockingQueue<>(DEFAULT_QUEUE_CAPACITY);
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.filter = Objects.requireNonNull(filter, "filter");
         this.onProgressTick = Objects.requireNonNull(onProgressTick, "onProgressTick");
         this.producerError = new AtomicReference<>();
         this.recordsProduced = new AtomicLong(0L);
-        this.completed = new AtomicBoolean(false);
     }
 
     public BlockingQueue<QueueItem> queue() {
         return queue;
-    }
-
-    public boolean completed() {
-        return completed.get();
     }
 
     public IOException error() {
@@ -80,7 +62,6 @@ public final class IndexStream implements AutoCloseable {
             for (URI uri : indexUris) {
                 streamIndex(uri);
             }
-            completed.set(true);
         } catch (IOException e) {
             producerError.set(e);
         } catch (InterruptedException interrupted) {

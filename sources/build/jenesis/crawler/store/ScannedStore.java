@@ -122,10 +122,6 @@ public final class ScannedStore {
         return path.resolve(artifactId + LEAF_FILE_EXTENSION);
     }
 
-    public NavigableSet<ScannedEntry> read(String groupId, String artifactId) {
-        return load(new CacheKey(groupId, artifactId));
-    }
-
     private Path groupDir(String groupId) {
         Path path = root;
         for (String segment : groupId.split("\\.", -1)) {
