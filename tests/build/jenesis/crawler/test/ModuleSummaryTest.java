@@ -217,12 +217,14 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0",
                 "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1",
                 "1.2\tnamed\tcom.example\tlib\t2024-03-01T00:00:00Z\t",
-                "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t"
+                "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
+                "0.8\tautomatic\tcom.example\tlib\t2023-11-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
 
         assertThat(stats.totals().namedVersionRows()).isEqualTo(3L);
+        assertThat(stats.totals().automaticVersionRows()).isEqualTo(2L);
         assertThat(stats.totals().explicitModuleVersionRows()).isEqualTo(2L);
     }
 

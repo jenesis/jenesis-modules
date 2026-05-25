@@ -115,6 +115,7 @@ public final class ModuleSummary {
     public record Totals(int modules,
                          long versionRows,
                          long namedVersionRows,
+                         long automaticVersionRows,
                          long explicitModuleVersionRows,
                          long scannedArtifacts,
                          long nonModuleArtifacts,
@@ -240,8 +241,9 @@ public final class ModuleSummary {
         builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
         builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
         builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
-        builder.append("| Total version records | ").append(fmt(totals.versionRows())).append(" |\n");
-        builder.append("| Total named versions | ").append(fmt(totals.namedVersionRows())).append(" |\n");
+        builder.append("| Modular artifacts | ").append(fmt(totals.versionRows())).append(" |\n");
+        builder.append("| Total named modules | ").append(fmt(totals.namedVersionRows())).append(" |\n");
+        builder.append("| Total automatic modules | ").append(fmt(totals.automaticVersionRows())).append(" |\n");
         builder.append("| Total versions with explicit module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent tracked publication | ")
@@ -383,6 +385,7 @@ public final class ModuleSummary {
         private int totalModules;
         private long totalVersionRows;
         private long totalNamedVersionRows;
+        private long totalAutomaticVersionRows;
         private int namedUniqueModules;
         private int automaticUniqueModules;
         private long namedRows;
@@ -478,6 +481,9 @@ public final class ModuleSummary {
                 if (entry.publishedAt() >= recentCutoffMillis) {
                     recent = true;
                     recentRows++;
+                }
+                if (entry.type() == ModuleType.AUTOMATIC) {
+                    totalAutomaticVersionRows++;
                 }
                 // Automatic modules have no module-info to declare a version, so they would
                 // always land in the "absent" bucket and dilute the signal. Skip them so the
@@ -592,6 +598,7 @@ public final class ModuleSummary {
                     totalModules,
                     totalVersionRows,
                     totalNamedVersionRows,
+                    totalAutomaticVersionRows,
                     moduleVersionExplicit,
                     scannedArtifactTotal,
                     nonModuleArtifacts,
