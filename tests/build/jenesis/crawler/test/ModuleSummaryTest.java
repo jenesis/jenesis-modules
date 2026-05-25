@@ -185,6 +185,32 @@ public class ModuleSummaryTest {
     }
 
     @Test
+    public void totals_include_scanned_and_non_module_artifact_counts() throws IOException {
+        // Two module rows (one named, one automatic) so total version records = 2.
+        Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
+        Files.writeString(moduleDir.resolve("versions.tsv"),
+                "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
+                        + "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t\n",
+                StandardCharsets.UTF_8);
+        // 5 scanned rows: 2 successes that produced modules (covered by versions.tsv above),
+        // 2 successes that didn't yield a module, 1 failure. Expected:
+        //   scannedArtifacts = 5, nonModuleArtifacts = (5 - 1) - 2 = 2.
+        Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("com.example"));
+        Files.writeString(scannedDir.resolve("lib.tsv"), String.join("\n",
+                "1.0\t\t",
+                "0.9\t\t",
+                "0.8\t\t",
+                "0.7\tsources\t",
+                "0.6\t\tIOException: boom"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
+
+        assertThat(stats.totals().scannedArtifacts()).isEqualTo(5L);
+        assertThat(stats.totals().nonModuleArtifacts()).isEqualTo(2L);
+    }
+
+    @Test
     public void totals_include_named_and_explicit_module_version_rows() throws IOException {
         Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
         Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",

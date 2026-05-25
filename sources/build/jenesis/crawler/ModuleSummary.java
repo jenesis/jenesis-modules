@@ -116,6 +116,8 @@ public final class ModuleSummary {
                          long versionRows,
                          long namedVersionRows,
                          long explicitModuleVersionRows,
+                         long scannedArtifacts,
+                         long nonModuleArtifacts,
                          int distinctGroupIds,
                          Optional<Instant> latestPublishedAt) {
     }
@@ -236,6 +238,8 @@ public final class ModuleSummary {
         builder.append("## Totals\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
+        builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
+        builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
         builder.append("| Total version records | ").append(fmt(totals.versionRows())).append(" |\n");
         builder.append("| Total named versions | ").append(fmt(totals.namedVersionRows())).append(" |\n");
         builder.append("| Total versions with explicit module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
@@ -404,6 +408,7 @@ public final class ModuleSummary {
         private final Map<String, Long> versionsByGroup = new HashMap<>();
         private final Map<String, Long> latestPublishedByModule = new HashMap<>();
         private long processingErrorTotal;
+        private long scannedArtifactTotal;
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
 
         Aggregator(Instant generatedAt, int topN) {
@@ -565,6 +570,7 @@ public final class ModuleSummary {
                     } catch (IllegalArgumentException malformed) {
                         continue;
                     }
+                    scannedArtifactTotal++;
                     if (!entry.isFailed()) {
                         continue;
                     }
@@ -576,11 +582,19 @@ public final class ModuleSummary {
         }
 
         Stats toStats(State state) {
+            // Non-module artifacts = JARs that scanned successfully but contained no module
+            // identity (no module-info, no Automatic-Module-Name), so they didn't land in
+            // any versions.tsv. Computed as (scanned - failed) - module rows. Clamped to 0 in
+            // case scanned data temporarily lags versions data mid-crawl.
+            long successfullyScanned = scannedArtifactTotal - processingErrorTotal;
+            long nonModuleArtifacts = Math.max(0L, successfullyScanned - totalVersionRows);
             Totals totals = new Totals(
                     totalModules,
                     totalVersionRows,
                     totalNamedVersionRows,
                     moduleVersionExplicit,
+                    scannedArtifactTotal,
+                    nonModuleArtifacts,
                     distinctGroupIds.size(),
                     latestPublishedMillis > 0L ? Optional.of(Instant.ofEpochMilli(latestPublishedMillis)) : Optional.empty());
             TypeBreakdown named = new TypeBreakdown(namedUniqueModules, namedRows);
