@@ -1,6 +1,7 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.index;
 
 import module java.base;
+import build.jenesis.crawler.model.Coordinate;
 
 public final class StreamingBatchSource implements BatchSource {
 

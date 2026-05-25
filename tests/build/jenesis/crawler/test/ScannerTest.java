@@ -1,12 +1,12 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.fetch.ByteSource;
+import build.jenesis.crawler.fetch.Scanner;
+import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.ScannedModule;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.ByteSource;
-import build.jenesis.crawler.ModuleType;
-import build.jenesis.crawler.ScannedModule;
-import build.jenesis.crawler.Scanner;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

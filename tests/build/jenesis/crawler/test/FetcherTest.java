@@ -1,10 +1,10 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.fetch.Fetcher;
 import module jdk.httpserver;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.Fetcher;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;

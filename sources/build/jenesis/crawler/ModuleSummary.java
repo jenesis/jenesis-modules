@@ -1,6 +1,9 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.model.CurrentEntry;
+import build.jenesis.crawler.model.ModuleEntry;
+import build.jenesis.crawler.model.ModuleType;
 
 /**
  * Reads {@code data/modules/} (versions.tsv + current.tsv) and writes a markdown
@@ -69,9 +72,13 @@ public final class ModuleSummary {
     }
 
     public record NamingPatterns(int collidingModules,
-                                 int startsWithGroupId,
+                                 SortedMap<Integer, Integer> sharedSegmentHistogram,
                                  int modulesWithClassifier,
                                  int classifierVariants) {
+
+        public NamingPatterns {
+            sharedSegmentHistogram = Collections.unmodifiableSortedMap(new TreeMap<>(sharedSegmentHistogram));
+        }
     }
 
     public record TopLists(List<TopEntry> modulesByVersionCount,
@@ -134,9 +141,9 @@ public final class ModuleSummary {
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Modules tracked | ").append(totals.modules()).append(" |\n");
-        builder.append("| Total version records | ").append(totals.versionRows()).append(" |\n");
-        builder.append("| Distinct groupIds publishing modules | ").append(totals.distinctGroupIds()).append(" |\n");
+        builder.append("| Modules tracked | ").append(fmt(totals.modules())).append(" |\n");
+        builder.append("| Total version records | ").append(fmt(totals.versionRows())).append(" |\n");
+        builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent publication | ")
                 .append(totals.latestPublishedAt().map(ISO_UTC_SECONDS::format).orElse("(none)"))
                 .append(" |\n\n");
@@ -144,44 +151,51 @@ public final class ModuleSummary {
         builder.append("## Type breakdown\n\n");
         builder.append("Computed over the canonical (`current.tsv`) view. Unique-module counts use the **latest** version's type, so a module that started automatic and is currently named counts as named. Rows are the total per-type entries across every `current[-<classifier>].tsv`.\n\n");
         builder.append("| Type | Unique modules | Published rows |\n|---|---:|---:|\n");
-        builder.append("| Named | ").append(stats.named().uniqueModules()).append(" | ").append(stats.named().rows()).append(" |\n");
-        builder.append("| Automatic | ").append(stats.automatic().uniqueModules()).append(" | ").append(stats.automatic().rows()).append(" |\n\n");
+        builder.append("| Named | ").append(fmt(stats.named().uniqueModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
+        builder.append("| Automatic | ").append(fmt(stats.automatic().uniqueModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
 
-        builder.append("## Type transitions (from versions.tsv history)\n\n");
+        builder.append("## Type transitions (from current.tsv history)\n\n");
+        builder.append("Counted from each module's resolved view: if the latest-version row is one type and at least one older-version row is the other type, the module is counted in the appropriate direction. Cross-publisher type swings that exist in the audit log but were filtered out by owners.tsv are intentionally excluded.\n\n");
         builder.append("| Direction | Modules |\n|---|---:|\n");
-        builder.append("| Automatic → Named | ").append(stats.transitions().autoToNamed()).append(" |\n");
-        builder.append("| Named → Automatic | ").append(stats.transitions().namedToAuto()).append(" |\n\n");
+        builder.append("| Automatic → Named | ").append(fmt(stats.transitions().autoToNamed())).append(" |\n");
+        builder.append("| Named → Automatic | ").append(fmt(stats.transitions().namedToAuto())).append(" |\n\n");
 
         builder.append("## Recent activity (last 7 days)\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Modules with a publication | ").append(stats.recent().modules()).append(" |\n");
-        builder.append("| New version rows | ").append(stats.recent().versions()).append(" |\n\n");
+        builder.append("| Modules with a publication | ").append(fmt(stats.recent().modules())).append(" |\n");
+        builder.append("| New version rows | ").append(fmt(stats.recent().versions())).append(" |\n\n");
 
         builder.append("## Naming patterns\n\n");
         builder.append("| Pattern | Modules |\n|---|---:|\n");
-        builder.append("| Module name starts with its (canonical) groupId | ").append(stats.naming().startsWithGroupId()).append(" |\n");
-        builder.append("| Has classifier variants | ").append(stats.naming().modulesWithClassifier()).append(" |\n");
-        builder.append("| Total classifier variants (across all modules) | ").append(stats.naming().classifierVariants()).append(" |\n");
-        builder.append("| Multiple competing groupIds in audit history | ").append(stats.naming().collidingModules()).append(" |\n\n");
+        builder.append("| Has classifier variants | ").append(fmt(stats.naming().modulesWithClassifier())).append(" |\n");
+        builder.append("| Total classifier variants (across all modules) | ").append(fmt(stats.naming().classifierVariants())).append(" |\n");
+        builder.append("| Multiple competing groupIds in audit history | ").append(fmt(stats.naming().collidingModules())).append(" |\n");
+        SortedMap<Integer, Integer> histogram = stats.naming().sharedSegmentHistogram();
+        int maxShared = histogram.isEmpty() ? 0 : histogram.lastKey();
+        for (int i = 0; i <= maxShared; i++) {
+            int count = histogram.getOrDefault(i, 0);
+            builder.append("| Shared leading dot-segments with canonical groupId: ").append(i).append(" | ").append(fmt(count)).append(" |\n");
+        }
+        builder.append('\n');
 
         builder.append("## Top ").append(TOP_N).append(" modules by version count\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
         for (TopEntry entry : stats.top().modulesByVersionCount()) {
-            builder.append("| `").append(entry.key()).append("` | ").append(entry.count()).append(" |\n");
+            builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
         builder.append("## Top ").append(TOP_N).append(" groupIds by module count\n\n");
         builder.append("| groupId | Modules published |\n|---|---:|\n");
         for (TopEntry entry : stats.top().groupsByModuleCount()) {
-            builder.append("| `").append(entry.key()).append("` | ").append(entry.count()).append(" |\n");
+            builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
         builder.append("## Top ").append(TOP_N).append(" modules with most colliding groupIds\n\n");
         builder.append("| Module | Distinct groupIds |\n|---|---:|\n");
         for (TopEntry entry : stats.top().collisionsByDistinctGroups()) {
-            builder.append("| `").append(entry.key()).append("` | ").append(entry.count()).append(" |\n");
+            builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
         }
         builder.append('\n');
 
@@ -205,8 +219,8 @@ public final class ModuleSummary {
             builder.append("| groupId | Modules | Total versions | Avg versions / module |\n|---|---:|---:|---:|\n");
             for (TopAvgEntry entry : stats.top().groupsByAverageVersions()) {
                 builder.append("| `").append(entry.key()).append("` | ")
-                        .append(entry.modules()).append(" | ")
-                        .append(entry.totalVersions()).append(" | ")
+                        .append(fmt(entry.modules())).append(" | ")
+                        .append(fmt(entry.totalVersions())).append(" | ")
                         .append(String.format(Locale.ROOT, "%.1f", entry.average())).append(" |\n");
             }
             builder.append('\n');
@@ -246,8 +260,8 @@ public final class ModuleSummary {
         private int modulesPublishedLastWeek;
         private long versionsPublishedLastWeek;
         private int collidingModules;
-        private int startsWithGroupId;
         private int classifierVariants;
+        private final SortedMap<Integer, Integer> sharedSegmentHistogram = new TreeMap<>();
         private long latestPublishedMillis;
 
         private final Set<Path> dirsWithClassifier = new HashSet<>();
@@ -303,9 +317,6 @@ public final class ModuleSummary {
             boolean recent = false;
             long recentRows = 0L;
             long moduleLatestMillis = 0L;
-            ModuleType prev = null;
-            boolean a2n = false;
-            boolean n2a = false;
             for (ModuleEntry entry : versions) {
                 distinctGroupIds.add(entry.groupId());
                 groupsHere.add(entry.groupId());
@@ -320,14 +331,6 @@ public final class ModuleSummary {
                     recent = true;
                     recentRows++;
                 }
-                if (prev != null && prev != entry.type()) {
-                    if (prev == ModuleType.AUTOMATIC && entry.type() == ModuleType.NAMED) {
-                        a2n = true;
-                    } else if (prev == ModuleType.NAMED && entry.type() == ModuleType.AUTOMATIC) {
-                        n2a = true;
-                    }
-                }
-                prev = entry.type();
             }
             if (moduleLatestMillis > 0L) {
                 latestPublishedByModule.put(moduleKey, moduleLatestMillis);
@@ -338,12 +341,6 @@ public final class ModuleSummary {
             }
             for (String group : groupsHere) {
                 modulesByGroup.computeIfAbsent(group, _ -> new HashSet<>()).add(moduleKey);
-            }
-            if (a2n) {
-                autoToNamed++;
-            }
-            if (n2a) {
-                namedToAuto++;
             }
             if (recent) {
                 modulesPublishedLastWeek++;
@@ -359,10 +356,31 @@ public final class ModuleSummary {
                     } else if (latest.type() == ModuleType.AUTOMATIC) {
                         automaticUniqueModules++;
                     }
-                    String groupId = latest.groupId();
-                    if (moduleName.equals(groupId) || moduleName.startsWith(groupId + ".")) {
-                        startsWithGroupId++;
+                    // Transitions are detected purely from the resolved view: if the latest
+                    // version is one type and any older version (further down current.tsv,
+                    // which is sorted version-descending) is the other type, that's a
+                    // transition. This avoids counting cross-publisher type changes that
+                    // appear in versions.tsv's collision history but were owners-filtered
+                    // out of the resolved view.
+                    boolean hasNamed = false;
+                    boolean hasAutomatic = false;
+                    for (CurrentEntry entry : current) {
+                        if (entry.type() == ModuleType.NAMED) {
+                            hasNamed = true;
+                        } else if (entry.type() == ModuleType.AUTOMATIC) {
+                            hasAutomatic = true;
+                        }
                     }
+                    if (hasNamed && hasAutomatic) {
+                        if (latest.type() == ModuleType.NAMED) {
+                            autoToNamed++;
+                        } else if (latest.type() == ModuleType.AUTOMATIC) {
+                            namedToAuto++;
+                        }
+                    }
+                    String groupId = latest.groupId();
+                    int sharedSegments = sharedLeadingSegments(moduleName, groupId);
+                    sharedSegmentHistogram.merge(sharedSegments, 1, Integer::sum);
                     for (CurrentEntry entry : current) {
                         if (entry.type() == ModuleType.NAMED) {
                             namedRows++;
@@ -386,7 +404,7 @@ public final class ModuleSummary {
             RecentActivity recent = new RecentActivity(modulesPublishedLastWeek, versionsPublishedLastWeek);
             NamingPatterns naming = new NamingPatterns(
                     collidingModules,
-                    startsWithGroupId,
+                    sharedSegmentHistogram,
                     dirsWithClassifier.size(),
                     classifierVariants);
             List<TopLatestEntry> latestUpdates = latestPublishedByModule.entrySet().stream()
@@ -487,6 +505,47 @@ public final class ModuleSummary {
 
     private static String nullToEmpty(String value) {
         return value == null ? "" : value;
+    }
+
+    /**
+     * Returns the number of leading dot-separated segments that {@code moduleName} and
+     * {@code groupId} share. Examples:
+     *   {@code a.b.c}, {@code a.b.d}   →  2
+     *   {@code org.slf4j}, {@code org.slf4j.api}  →  2
+     *   {@code com.example}, {@code org.something}  →  0
+     */
+    static int sharedLeadingSegments(String moduleName, String groupId) {
+        String[] moduleSegments = moduleName.split("\\.", -1);
+        String[] groupSegments = groupId.split("\\.", -1);
+        int max = Math.min(moduleSegments.length, groupSegments.length);
+        int shared = 0;
+        while (shared < max && moduleSegments[shared].equals(groupSegments[shared])) {
+            shared++;
+        }
+        return shared;
+    }
+
+    /** Formats a non-negative integer with a regular space after every three digits from the right. */
+    private static String fmt(long value) {
+        String digits = Long.toString(value);
+        int negative = digits.startsWith("-") ? 1 : 0;
+        int len = digits.length() - negative;
+        if (len <= 3) {
+            return digits;
+        }
+        StringBuilder builder = new StringBuilder(digits.length() + len / 3);
+        if (negative > 0) {
+            builder.append('-');
+        }
+        int firstGroup = len % 3;
+        if (firstGroup == 0) {
+            firstGroup = 3;
+        }
+        builder.append(digits, negative, negative + firstGroup);
+        for (int i = negative + firstGroup; i < digits.length(); i += 3) {
+            builder.append(' ').append(digits, i, i + 3);
+        }
+        return builder.toString();
     }
 
     private static List<TopEntry> topByValue(Map<String, Integer> source, int limit) {

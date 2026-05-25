@@ -1,6 +1,9 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.fetch;
 
 import module java.base;
+import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.ScannedModule;
+import build.jenesis.crawler.store.ModuleStore;
 
 public final class Scanner {
 

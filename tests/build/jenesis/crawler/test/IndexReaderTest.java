@@ -1,10 +1,10 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.index.IndexReader;
+import build.jenesis.crawler.model.Coordinate;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.Coordinate;
-import build.jenesis.crawler.IndexReader;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

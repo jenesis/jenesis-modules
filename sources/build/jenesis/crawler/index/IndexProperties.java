@@ -1,4 +1,4 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.index;
 
 import module java.base;
 

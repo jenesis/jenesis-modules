@@ -1,6 +1,8 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.publish;
 
 import module java.base;
+import build.jenesis.crawler.State;
+import build.jenesis.crawler.SyncMode;
 
 @FunctionalInterface
 public interface CheckpointListener {

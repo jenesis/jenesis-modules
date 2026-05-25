@@ -1,9 +1,9 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.model.Version;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.Version;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

@@ -1,6 +1,8 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.index;
 
 import module java.base;
+import build.jenesis.crawler.fetch.Fetcher;
+import build.jenesis.crawler.model.Coordinate;
 
 public final class IndexStream implements AutoCloseable {
 
@@ -171,7 +173,7 @@ public final class IndexStream implements AutoCloseable {
                 long elapsedSeconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNanos);
                 long produced = recordsProduced.get();
                 long rate = elapsedSeconds > 0L ? recordsSeen / elapsedSeconds : recordsSeen;
-                System.out.println("[discovery] seen=" + recordsSeen + " queued=" + produced
+                System.out.println("[discovery] seen=" + recordsSeen + " emitted=" + produced
                         + " inQueue=" + queue.size()
                         + " unparseable=" + unparseable + " filtered=" + filtered + " behind=" + behind
                         + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s");

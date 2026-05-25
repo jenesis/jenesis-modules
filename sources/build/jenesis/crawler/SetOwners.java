@@ -1,6 +1,7 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.store.ModuleStore;
 
 public final class SetOwners {
 

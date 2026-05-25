@@ -1,6 +1,24 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.fetch.ByteSource;
+import build.jenesis.crawler.fetch.CentralDirectory;
+import build.jenesis.crawler.fetch.Fetcher;
+import build.jenesis.crawler.fetch.RobotsTxt;
+import build.jenesis.crawler.fetch.Scanner;
+import build.jenesis.crawler.index.BatchSource;
+import build.jenesis.crawler.index.IndexProperties;
+import build.jenesis.crawler.index.IndexStream;
+import build.jenesis.crawler.index.StreamingBatchSource;
+import build.jenesis.crawler.model.Coordinate;
+import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.ScannedEntry;
+import build.jenesis.crawler.model.ScannedModule;
+import build.jenesis.crawler.publish.CheckpointListener;
+import build.jenesis.crawler.publish.GitPublisher;
+import build.jenesis.crawler.store.DirtyModules;
+import build.jenesis.crawler.store.ModuleStore;
+import build.jenesis.crawler.store.ScannedStore;
 
 public final class Crawler implements AutoCloseable {
 
@@ -268,6 +286,27 @@ public final class Crawler implements AutoCloseable {
     public void close() {
         if (ownsFetcher) {
             fetcher.close();
+        }
+    }
+
+    /**
+     * Runs the scanner over a caller-supplied batch source until exhausted or the budget
+     * expires. Bypasses the index-streaming producer entirely: useful for retry tools that
+     * derive their coordinate list from existing on-disk state (e.g. failed entries in
+     * {@code data/scanned/}). Persistent side-effects mirror a regular run -
+     * {@code versions.tsv}, {@code scanned.tsv}, {@code state.properties}, {@code STATUS.md},
+     * and the GitPublisher's commit/push pipeline all fire at every checkpoint - but the
+     * index chain watermark is not touched, since no chunk is being applied.
+     */
+    public Result scan(BatchSource source) throws IOException {
+        Path statePath = configuration.dataDir().resolve("state.properties");
+        State state = State.load(statePath).withSweepStartedAt(Instant.now());
+        state.save(statePath);
+        try {
+            return process(source, state, statePath, SyncMode.SKIPPED, () -> 0L);
+        } catch (InterruptedException interrupted) {
+            Thread.currentThread().interrupt();
+            throw new IOException("Interrupted while scanning batches", interrupted);
         }
     }
 

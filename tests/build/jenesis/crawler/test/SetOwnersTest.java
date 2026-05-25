@@ -1,9 +1,9 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.SetOwners;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.SetOwners;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;

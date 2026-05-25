@@ -1,4 +1,4 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.model;
 
 public enum ModuleType {
 

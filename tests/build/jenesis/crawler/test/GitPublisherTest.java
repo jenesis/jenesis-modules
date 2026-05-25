@@ -1,12 +1,12 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
-import module org.junit.jupiter.api;
-
-import build.jenesis.crawler.CheckpointListener;
-import build.jenesis.crawler.GitPublisher;
+import build.jenesis.crawler.publish.CheckpointListener;
+import build.jenesis.crawler.publish.GitPublisher;
 import build.jenesis.crawler.State;
 import build.jenesis.crawler.SyncMode;
+import module org.junit.jupiter.api;
+
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;

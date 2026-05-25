@@ -1,6 +1,7 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.fetch;
 
 import module java.base;
+import build.jenesis.crawler.model.Version;
 import module java.net.http;
 
 public final class Fetcher implements AutoCloseable {

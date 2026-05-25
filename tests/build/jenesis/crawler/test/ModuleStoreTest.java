@@ -1,13 +1,13 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.model.Coordinate;
+import build.jenesis.crawler.model.ModuleEntry;
+import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.Version;
+import build.jenesis.crawler.store.ModuleStore;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.Coordinate;
-import build.jenesis.crawler.ModuleEntry;
-import build.jenesis.crawler.ModuleStore;
-import build.jenesis.crawler.ModuleType;
-import build.jenesis.crawler.Version;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;

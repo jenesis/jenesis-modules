@@ -1,6 +1,11 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.store;
 
 import module java.base;
+import build.jenesis.crawler.model.Coordinate;
+import build.jenesis.crawler.model.CurrentEntry;
+import build.jenesis.crawler.model.ModuleEntry;
+import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.Version;
 
 public final class ModuleStore {
 

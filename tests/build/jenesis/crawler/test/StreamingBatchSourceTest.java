@@ -1,12 +1,12 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.index.BatchSource;
+import build.jenesis.crawler.index.IndexStream;
+import build.jenesis.crawler.index.StreamingBatchSource;
+import build.jenesis.crawler.model.Coordinate;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.BatchSource;
-import build.jenesis.crawler.Coordinate;
-import build.jenesis.crawler.StreamingBatchSource;
-import build.jenesis.crawler.IndexStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

@@ -1,6 +1,8 @@
-package build.jenesis.crawler;
+package build.jenesis.crawler.store;
 
 import module java.base;
+import build.jenesis.crawler.model.Coordinate;
+import build.jenesis.crawler.model.ScannedEntry;
 
 /**
  * Tracks every coordinate the crawler has ever scanned (whether successfully or with a

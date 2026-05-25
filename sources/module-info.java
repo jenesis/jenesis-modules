@@ -12,4 +12,9 @@ module build.jenesis.crawler {
     requires java.net.http;
 
     exports build.jenesis.crawler;
+    exports build.jenesis.crawler.fetch;
+    exports build.jenesis.crawler.index;
+    exports build.jenesis.crawler.store;
+    exports build.jenesis.crawler.model;
+    exports build.jenesis.crawler.publish;
 }

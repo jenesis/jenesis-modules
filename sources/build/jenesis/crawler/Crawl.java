@@ -1,6 +1,9 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.publish.CheckpointListener;
+import build.jenesis.crawler.publish.GitPublisher;
+import build.jenesis.crawler.publish.StatusWriter;
 
 public final class Crawl {
 

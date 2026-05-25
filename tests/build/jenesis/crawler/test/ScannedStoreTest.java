@@ -1,11 +1,11 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.model.Coordinate;
+import build.jenesis.crawler.model.ScannedEntry;
+import build.jenesis.crawler.store.ScannedStore;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.Coordinate;
-import build.jenesis.crawler.ScannedEntry;
-import build.jenesis.crawler.ScannedStore;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

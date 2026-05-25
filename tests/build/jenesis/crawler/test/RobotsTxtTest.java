@@ -1,9 +1,9 @@
 package build.jenesis.crawler.test;
 
 import module java.base;
+import build.jenesis.crawler.fetch.RobotsTxt;
 import module org.junit.jupiter.api;
 
-import build.jenesis.crawler.RobotsTxt;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

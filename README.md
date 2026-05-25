@@ -311,6 +311,24 @@ Practical consequences:
 - Once the FULL completes (`state.indexChunkLastApplied >= 0`), subsequent runs pick INCREMENTAL chunks of typically thousands of records each, which stream in seconds. The warmup essentially disappears.
 - The full re-stream cost reappears only when the index `chainId` rotates upstream, or when the crawler falls off Central's ~30-chunk incremental retention window and rebaselines.
 
+### Scanner throughput (measured)
+
+Producer warmup is bounded and well-known. The actual long pole of a sweep is the scanner: range-fetching each JAR's central-directory tail, parsing it, and (for modular JARs) ranging the `module-info.class` entry. Numbers observed on a `ubuntu-latest` GitHub Actions runner against the GCS download mirror, `concurrency=64`:
+
+| Field | Value |
+|---|---|
+| Sustained scanner throughput | ~70 coordinates/sec |
+| Per-worker throughput | ~1.1 coordinates/sec |
+| Median HTTP requests per coordinate | 1 (cached tail) to 2-3 (large JAR with separate `module-info.class` range fetch) |
+| Heap envelope | sawtooth between ~20 MB post-GC and ~1.2 GB pre-GC, of 4 GB available |
+| Permanent-failure rate (intrinsic to the artifact: malformed ZIP, invalid `module-info`, HTTP 404 on phantom snapshots) | well under 0.1% of scanned coordinates |
+
+Practical consequences:
+- For a fresh first sweep (~1.5M unscanned coordinates) the scanner needs roughly `1.5M / 70 / 3600 ≈ 6 hours` of pure wall clock to drain, split across however many runs the 90-minute budget per scheduled run lets you fit. Producer warmup is paid once per run on top of that.
+- Steady-state (post-baseline) runs only scan whatever appeared in the incremental chunks: typically thousands of JARs, finishing in minutes.
+- The scanner is HTTP-latency-bound, not bandwidth-bound: most of the per-worker time is round-trip to Central, not byte-pushing. Raising `concurrency` past 64 buys more throughput up to roughly the runner's bandwidth ceiling; we found 64 a comfortable safe-default that fits inside the 4 GB heap on the standard Actions runner even when a large uberjar batch clusters.
+- Stage 2 (`regenerateMissingForFirstPass()` after the very first FULL sweep completes) walks the modules tree and writes a `current[-<classifier>].tsv` per (module, classifier) pair: at ~170K modules with ~10ms per write on persistent disk, it's typically 10-30 minutes. Incremental drainage of `dirty-modules.tsv` in subsequent runs is seconds.
+
 ### Crash safety
 
 The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine reboot) at any moment leaves on-disk state such that the next run resumes correctly and never loses a recorded artifact. The properties that make this work:
