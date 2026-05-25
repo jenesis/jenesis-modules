@@ -1,0 +1,95 @@
+name: Patch missing module-info versions
+
+# Backfills the trailing module-info-version column on legacy rows in every
+# versions[-<classifier>].tsv under data/modules/. The tool is idempotent and
+# restartable, so re-running just retries any rows that failed last time. Manual
+# only - the user should pick a moment when a scheduled crawl is not in flight,
+# since both would write the same versions files.
+
+on:
+  workflow_dispatch:
+    inputs:
+      concurrency:
+        description: Concurrent JAR fetches (Scanner pool)
+        required: false
+        default: '32'
+      tail_size:
+        description: Tail-range bytes per JAR (blank = scanner default)
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+# Same group as the manual-crawl path so a patch run queues behind a manual
+# crawl rather than fighting it for the same versions files. Scheduled crawls
+# use a per-run group and would still run concurrently; the rebase-retry on
+# commit below handles that case.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 50
+          persist-credentials: true
+          submodules: recursive
+
+      - name: Set up JDK 25
+        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
+        with:
+          distribution: temurin
+          java-version: '25'
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+
+      - name: Build staged jar
+        run: java build/jenesis/Project.java stage
+
+      - name: Run PatchModuleVersion
+        env:
+          ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || '32' }}
+          TAIL_SIZE: ${{ github.event.inputs.tail_size }}
+        run: |
+          set -euo pipefail
+          jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
+          props=(
+            "-Djenesis.crawler.data=$GITHUB_WORKSPACE/data"
+            "-Djenesis.crawler.concurrency=$CONCURRENCY"
+          )
+          [ -n "$TAIL_SIZE" ] && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
+          java "${props[@]}" -cp "$jar" build.jenesis.crawler.PatchModuleVersion "$ARTIFACT_BASE"
+
+      - name: Commit and push patched rows
+        if: ${{ !cancelled() }}
+        run: |
+          set -euo pipefail
+          git add data
+          if git diff --cached --quiet; then
+            echo "No patched rows to commit."
+            exit 0
+          fi
+          stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git commit -m "patch: backfill module-info versions $stamp"
+          # A concurrent crawl checkpoint may have landed on origin while we ran;
+          # rebase-retry handles that.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase || true
+          done
+          echo "Final push failed after 3 attempts" >&2
+          exit 1
