@@ -24,6 +24,13 @@ public class ModuleSummaryTest {
                 "0.8\tnamed\tcom.example\tlib\t2023-11-01T00:00:00Z",
                 "0.7\tautomatic\tcom.example\tlib\t2023-10-01T00:00:00Z"
         ) + "\n", StandardCharsets.UTF_8);
+        writeCurrentMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "1.1\tnamed\tcom.example\tlib",
+                "1.2\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib",
+                "0.8\tnamed\tcom.example\tlib",
+                "0.7\tautomatic\tcom.example\tlib");
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
 
@@ -54,6 +61,9 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t9.9\n",
                 StandardCharsets.UTF_8);
+        writeCurrentMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "1.1\tnamed\tcom.example\tlib");
         System.setProperty(ModuleSummary.PROP_DATA, dataDir.toString());
         Path output = dataDir.resolve("SUMMARY.md");
         System.setProperty(ModuleSummary.PROP_OUTPUT, output.toString());
@@ -122,12 +132,22 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1\n",
                 StandardCharsets.UTF_8);
+        writeCurrentMirror(libDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "1.1\tnamed\tcom.example\tlib");
         Files.writeString(libDir.resolve("versions-jar-with-dependencies.tsv"),
                 ("a\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "b\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "c\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "d\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "e\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"),
+                StandardCharsets.UTF_8);
+        Files.writeString(libDir.resolve("current-jar-with-dependencies.tsv"),
+                ("a\tnamed\tcom.example\tlib\n"
+                        + "b\tnamed\tcom.example\tlib\n"
+                        + "c\tnamed\tcom.example\tlib\n"
+                        + "d\tnamed\tcom.example\tlib\n"
+                        + "e\tnamed\tcom.example\tlib\n"),
                 StandardCharsets.UTF_8);
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
@@ -192,6 +212,9 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t\n",
                 StandardCharsets.UTF_8);
+        writeCurrentMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib");
         // 5 scanned rows: 2 successes that produced modules (covered by versions.tsv above),
         // 2 successes that didn't yield a module, 1 failure. Expected:
         //   scannedArtifacts = 5, nonModuleArtifacts = (5 - 1) - 2 = 2.
@@ -220,6 +243,12 @@ public class ModuleSummaryTest {
                 "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
                 "0.8\tautomatic\tcom.example\tlib\t2023-11-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
+        writeCurrentMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "1.1\tnamed\tcom.example\tlib",
+                "1.2\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib",
+                "0.8\tautomatic\tcom.example\tlib");
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
 
@@ -243,6 +272,12 @@ public class ModuleSummaryTest {
                 // Way out of window: should be ignored
                 "0.1\tnamed\tcom.example\tlib\t2020-01-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
+        writeCurrentMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "1.1\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib",
+                "0.8\tnamed\tcom.example\tlib",
+                "0.1\tnamed\tcom.example\tlib");
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-05-25T00:00:00Z"), 25);
 
@@ -271,10 +306,17 @@ public class ModuleSummaryTest {
             dir = dir.resolve(segment);
         }
         Files.createDirectories(dir);
-        StringBuilder builder = new StringBuilder();
+        StringBuilder versions = new StringBuilder();
+        StringBuilder current = new StringBuilder();
         for (int i = 0; i < count; i++) {
-            builder.append(i).append(".0\tnamed\tcom.example\t").append(moduleName).append("\t2024-01-01T00:00:00Z\t").append(i).append(".0\n");
+            versions.append(i).append(".0\tnamed\tcom.example\t").append(moduleName).append("\t2024-01-01T00:00:00Z\t").append(i).append(".0\n");
+            current.append(i).append(".0\tnamed\tcom.example\t").append(moduleName).append('\n');
         }
-        Files.writeString(dir.resolve("versions.tsv"), builder.toString(), StandardCharsets.UTF_8);
+        Files.writeString(dir.resolve("versions.tsv"), versions.toString(), StandardCharsets.UTF_8);
+        Files.writeString(dir.resolve("current.tsv"), current.toString(), StandardCharsets.UTF_8);
+    }
+
+    private static void writeCurrentMirror(Path moduleDir, String... entries) throws IOException {
+        Files.writeString(moduleDir.resolve("current.tsv"), String.join("\n", entries) + "\n", StandardCharsets.UTF_8);
     }
 }

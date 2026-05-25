@@ -296,7 +296,7 @@ public final class ModuleSummary {
 
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
-        builder.append("Catalogue-wide counts. \"Artifacts\" counts JARs (one row per groupId/artifactId/version/classifier coordinate); \"modules\" counts the named or automatic-module identities those JARs expose. Distinct counts deduplicate by name. \"With module-info version\" means the module declared a non-empty version in its `module-info`, whether or not it matches the Maven coordinate version. The Module-info version coverage table further splits that group into explicit (semantic match) and mismatching.\n\n");
+        builder.append("Catalogue-wide counts. **All row-level counts in this section, and in every section below except where explicitly noted as \"audit\" or \"history\", are filtered to rows that appear in `current.tsv`** - the authoritative resolved view after `owners.tsv` filtering. This excludes the historical/audit rows that come from shaded JARs declaring someone else's module name, so the numbers reflect what consumers actually see when resolving today. \"Artifacts\" counts JARs (one row per groupId/artifactId/version/classifier coordinate); \"modules\" counts the named or automatic-module identities those JARs expose. Distinct counts deduplicate by name. \"With module-info version\" means the module declared a non-empty version in its `module-info`, whether or not it matches the Maven coordinate version. The Module-info version coverage table further splits that group into explicit (semantic match) and mismatching.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
         builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
@@ -322,7 +322,7 @@ public final class ModuleSummary {
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
         builder.append("## Module-info version coverage\n\n");
-        builder.append("Counted over named-module rows in `versions.tsv` (automatic modules are excluded since they have no `module-info` to declare a version). \"Explicit\" means the row's `module-info` declared a version that equals the Maven coordinate version; \"mismatching\" means a non-empty `module-info` version that differs from the Maven version; \"without\" means the JAR was scanned but `module-info` declared no version; \"untracked\" means a legacy row written before the column existed and not yet backfilled by `PatchModuleVersion`.\n\n");
+        builder.append("Counted over named-module rows (automatic modules are excluded since they have no `module-info` to declare a version), filtered to rows in `current.tsv`. \"Explicit\" means the row's `module-info` declared a version that equals the Maven coordinate version; \"mismatching\" means a non-empty `module-info` version that differs from the Maven version; \"without\" means the JAR was scanned but `module-info` declared no version; \"untracked\" means a legacy row written before the column existed and not yet backfilled by `PatchModuleVersion`.\n\n");
         builder.append("| Category | Rows |\n|---|---:|\n");
         builder.append("| With explicit module version | ").append(fmt(coverage.explicit())).append(" |\n");
         builder.append("| With mismatching module version | ").append(fmt(coverage.mismatching())).append(" |\n");
@@ -374,7 +374,7 @@ public final class ModuleSummary {
         }
 
         builder.append("## Top ").append(topN).append(" modules by version count\n\n");
-        builder.append("Counted from the canonical `versions.tsv` only (per-classifier counts like `-jar-with-dependencies` are excluded). Module families that would otherwise occupy many adjacent slots are folded into a single `<prefix>.*` row; the cell is rendered as `[min, max]` when the absorbed modules have different counts, and a trailing `(N modules)` notes how many were absorbed.\n\n");
+        builder.append("Counted from the canonical `versions.tsv` only (per-classifier counts like `-jar-with-dependencies` are excluded), filtered to rows in `current.tsv`. Module families that would otherwise occupy many adjacent slots are folded into a single `<prefix>.*` row; the cell is rendered as `[min, max]` when the absorbed modules have different counts, and a trailing `(N modules)` notes how many were absorbed.\n\n");
         builder.append("| Module | Versions |\n|---|---:|\n");
         for (TopEntry entry : stats.top().modulesByVersionCount()) {
             String key = entry.isFold()
@@ -455,7 +455,7 @@ public final class ModuleSummary {
     private static void renderMismatchPatterns(StringBuilder builder, MismatchPatterns patterns) {
         long total = patterns.total();
         builder.append("## Mismatching module-info version patterns\n\n");
-        builder.append("Breaks down the **mismatching** rows by *why* the `module-info` version differs from the Maven coordinate. **Restricted to rows that appear in `current.tsv`** so historical/audit-only collisions (publishers owners.tsv has since deprioritised) don't skew the picture: these patterns reflect what consumers will actually see when they resolve a module name today. The first several rows are formatting drift (publisher forgot to drop a `-SNAPSHOT`, a repackager's coordinate suffix, build-metadata `+` labels, extra dot-segments); `Unresolved placeholder` is a build-time `${...}` substitution that leaked through; `Different major segment` is a strong proxy for shaded/bundled artifacts whose `module-info` comes from a different versioning lineage; `Substantively different` is the remainder where the versions share a first segment but otherwise differ. Percentages are share of this filtered total.\n\n");
+        builder.append("Breaks down the **mismatching** row in the coverage table above by *why* the `module-info` version differs from the Maven coordinate. The first several rows are formatting drift (publisher forgot to drop a `-SNAPSHOT`, a repackager's coordinate suffix, build-metadata `+` labels, extra dot-segments); `Unresolved placeholder` is a build-time `${...}` substitution that leaked through; `Different major segment` is a strong proxy for shaded/bundled artifacts whose `module-info` comes from a different versioning lineage; `Substantively different` is the remainder where the versions share a first segment but otherwise differ. Percentages are share of the mismatching bucket.\n\n");
         builder.append("| Pattern | Rows | Share |\n|---|---:|---:|\n");
         appendMismatchRow(builder, "Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT)", patterns.snapshotSuffix(), total);
         appendMismatchRow(builder, "Module = Maven + `-<other suffix>` (build label, patch tag)", patterns.otherSuffixAdded(), total);
@@ -483,7 +483,7 @@ public final class ModuleSummary {
 
     private static void renderMonthlyPublications(StringBuilder builder, List<MonthlyPublication> monthly) {
         builder.append("## Monthly publications by type (last 12 months)\n\n");
-        builder.append("Counted from `versions.tsv` by the row's `publishedAt` timestamp (UTC) and type. Bars are scaled to the maximum count across either type so the two columns are directly comparable.\n\n");
+        builder.append("Counted by the row's `publishedAt` timestamp (UTC) and type, filtered to rows in `current.tsv`. Bars are scaled to the maximum count across either type so the two columns are directly comparable.\n\n");
         long maxCount = 0L;
         for (MonthlyPublication entry : monthly) {
             maxCount = Math.max(maxCount, Math.max(entry.named(), entry.automatic()));
@@ -531,6 +531,10 @@ public final class ModuleSummary {
 
         private int totalModules;
         private long totalVersionRows;
+        // Same as totalVersionRows but unfiltered: counts every row in every versions(-classifier).tsv.
+        // Only used to compute "Non-module artifacts" (= successful scans minus *physical* modular
+        // JARs); the rest of the summary uses totalVersionRows, which is filtered to current.tsv.
+        private long totalVersionRowsAll;
         private long totalNamedVersionRows;
         private long totalAutomaticVersionRows;
         private int namedUniqueModules;
@@ -616,27 +620,52 @@ public final class ModuleSummary {
             String moduleKey = displayKey(moduleName, classifier);
 
             List<ModuleEntry> versions = readVersionsFile(versionsFile);
-            totalVersionRows += versions.size();
-            // The top-modules-by-version-count table is limited to the canonical versions.tsv:
-            // classifier variants like -jar-with-dependencies otherwise dominate the list with
-            // bundled-dependency version counts that aren't really about the module itself.
-            if (classifier == null) {
-                versionsCountByModule.put(moduleName, versions.size());
-            }
-            // Pre-read the current.tsv keys so the mismatch-pattern categoriser can filter to
-            // rows that survive owners-based resolution. Mismatches in historical/audit-only
-            // rows (collisions that owners.tsv weeded out) shouldn't drive the formatting-drift
-            // narrative; they belong to publishers we no longer treat as authoritative for the
-            // module name.
-            Set<String> currentKeys = currentFile == null ? Set.of() : readCurrentKeys(currentFile);
+            // Unfiltered physical-rows tally - needed so the "Non-module artifacts" metric in
+            // Totals (= successful scans minus physical modular JARs) doesn't count audit rows
+            // as if they had no module info. The rest of the aggregation uses currentVersions.
+            totalVersionRowsAll += versions.size();
 
-            Set<String> groupsHere = new HashSet<>();
+            // Read current.tsv once. The keys are used as a row-level filter for the ecosystem
+            // metrics (so shading-injected audit rows don't pollute the picture). The full list
+            // also feeds the type-breakdown / transitions / shared-segment logic.
+            List<CurrentEntry> current = currentFile == null ? List.of() : readCurrentFile(currentFile);
+            Set<String> currentKeys = new HashSet<>(current.size());
+            for (CurrentEntry entry : current) {
+                currentKeys.add(currentKey(entry.version().raw(), entry.groupId(), entry.artifactId()));
+            }
+            List<ModuleEntry> currentVersions = currentKeys.isEmpty()
+                    ? List.of()
+                    : versions.stream().filter(entry -> currentKeys.contains(currentKey(entry))).toList();
+
+            // === Audit metrics (use ALL versions.tsv rows, including shaded/historical) ===
+            // Collisions and the per-module distinct-groupId count are intentionally cross-history:
+            // they describe what publishers have ever claimed this module name, not what consumers
+            // currently see. Filtering would defeat their purpose.
+            Set<String> auditGroupsHere = new HashSet<>();
+            for (ModuleEntry entry : versions) {
+                auditGroupsHere.add(entry.groupId());
+            }
+            distinctGroupsCountByModule.put(moduleKey, auditGroupsHere.size());
+            if (auditGroupsHere.size() > 1) {
+                collidingModules++;
+            }
+
+            // === Ecosystem metrics (use only the rows that survived owners-based resolution) ===
+            // Everything below operates on currentVersions only. Modules whose current.tsv is
+            // empty or missing contribute nothing here - they're not currently authoritative for
+            // anything, so their rows shouldn't show up in any "what's the catalogue look like"
+            // figure.
+            if (classifier == null) {
+                versionsCountByModule.put(moduleName, currentVersions.size());
+            }
+            Set<String> currentGroupsHere = new HashSet<>();
             boolean recent = false;
             long recentRows = 0L;
             long moduleLatestMillis = 0L;
-            for (ModuleEntry entry : versions) {
+            for (ModuleEntry entry : currentVersions) {
+                totalVersionRows++;
                 distinctGroupIds.add(entry.groupId());
-                groupsHere.add(entry.groupId());
+                currentGroupsHere.add(entry.groupId());
                 versionsByGroup.merge(entry.groupId(), 1L, Long::sum);
                 if (entry.publishedAt() > latestPublishedMillis) {
                     latestPublishedMillis = entry.publishedAt();
@@ -671,19 +700,15 @@ public final class ModuleSummary {
                     } else if (moduleVersion.isEmpty()) {
                         moduleVersionAbsent++;
                     } else {
-                        // A non-empty module-info version: the row counts toward the
-                        // "has a module-info version" tally regardless of whether it matches
-                        // the Maven coordinate. Within that, the explicit/mismatching split
-                        // uses semantic Version equality so trailing-zero and qualifier-alias
-                        // variants ("1.0" vs "1.0.0", "1.0-ga" vs "1.0") aggregate as matches.
+                        // Within the explicit/mismatching split, semantic Version equality
+                        // folds trailing-zero variants ("1.0" vs "1.0.0") and qualifier
+                        // aliases ("1.0-ga" vs "1.0") into the explicit bucket.
                         moduleKeysWithModuleVersion.add(moduleKey);
                         if (new Version(moduleVersion).equals(entry.mavenVersion())) {
                             moduleVersionExplicit++;
                         } else {
                             moduleVersionMismatching++;
-                            if (currentKeys.contains(currentKey(entry))) {
-                                categoriseMismatch(moduleVersion, entry.mavenVersion().raw());
-                            }
+                            categoriseMismatch(moduleVersion, entry.mavenVersion().raw());
                         }
                     }
                 }
@@ -691,11 +716,7 @@ public final class ModuleSummary {
             if (moduleLatestMillis > 0L) {
                 latestPublishedByModule.put(moduleKey, moduleLatestMillis);
             }
-            distinctGroupsCountByModule.put(moduleKey, groupsHere.size());
-            if (groupsHere.size() > 1) {
-                collidingModules++;
-            }
-            for (String group : groupsHere) {
+            for (String group : currentGroupsHere) {
                 modulesByGroup.computeIfAbsent(group, _ -> new HashSet<>()).add(moduleKey);
             }
             if (recent) {
@@ -703,46 +724,43 @@ public final class ModuleSummary {
                 versionsPublishedLastWeek += recentRows;
             }
 
-            if (currentFile != null) {
-                List<CurrentEntry> current = readCurrentFile(currentFile);
-                if (!current.isEmpty()) {
-                    CurrentEntry latest = current.get(0);
+            // === Type breakdown, transitions, shared-segment histogram (current.tsv inherent) ===
+            if (!current.isEmpty()) {
+                CurrentEntry latest = current.get(0);
+                if (latest.type() == ModuleType.NAMED) {
+                    namedUniqueModules++;
+                } else if (latest.type() == ModuleType.AUTOMATIC) {
+                    automaticUniqueModules++;
+                }
+                // Transitions are detected purely from the resolved view: if the latest version
+                // is one type and any older version (further down current.tsv, which is sorted
+                // version-descending) is the other type, that's a transition. This avoids
+                // counting cross-publisher type changes that appear in versions.tsv's collision
+                // history but were owners-filtered out of the resolved view.
+                boolean hasNamed = false;
+                boolean hasAutomatic = false;
+                for (CurrentEntry entry : current) {
+                    if (entry.type() == ModuleType.NAMED) {
+                        hasNamed = true;
+                    } else if (entry.type() == ModuleType.AUTOMATIC) {
+                        hasAutomatic = true;
+                    }
+                }
+                if (hasNamed && hasAutomatic) {
                     if (latest.type() == ModuleType.NAMED) {
-                        namedUniqueModules++;
+                        autoToNamed++;
                     } else if (latest.type() == ModuleType.AUTOMATIC) {
-                        automaticUniqueModules++;
+                        namedToAuto++;
                     }
-                    // Transitions are detected purely from the resolved view: if the latest
-                    // version is one type and any older version (further down current.tsv,
-                    // which is sorted version-descending) is the other type, that's a
-                    // transition. This avoids counting cross-publisher type changes that
-                    // appear in versions.tsv's collision history but were owners-filtered
-                    // out of the resolved view.
-                    boolean hasNamed = false;
-                    boolean hasAutomatic = false;
-                    for (CurrentEntry entry : current) {
-                        if (entry.type() == ModuleType.NAMED) {
-                            hasNamed = true;
-                        } else if (entry.type() == ModuleType.AUTOMATIC) {
-                            hasAutomatic = true;
-                        }
-                    }
-                    if (hasNamed && hasAutomatic) {
-                        if (latest.type() == ModuleType.NAMED) {
-                            autoToNamed++;
-                        } else if (latest.type() == ModuleType.AUTOMATIC) {
-                            namedToAuto++;
-                        }
-                    }
-                    String groupId = latest.groupId();
-                    int sharedSegments = sharedLeadingSegments(moduleName, groupId);
-                    sharedSegmentHistogram.merge(sharedSegments, 1, Integer::sum);
-                    for (CurrentEntry entry : current) {
-                        if (entry.type() == ModuleType.NAMED) {
-                            namedRows++;
-                        } else if (entry.type() == ModuleType.AUTOMATIC) {
-                            automaticRows++;
-                        }
+                }
+                String groupId = latest.groupId();
+                int sharedSegments = sharedLeadingSegments(moduleName, groupId);
+                sharedSegmentHistogram.merge(sharedSegments, 1, Integer::sum);
+                for (CurrentEntry entry : current) {
+                    if (entry.type() == ModuleType.NAMED) {
+                        namedRows++;
+                    } else if (entry.type() == ModuleType.AUTOMATIC) {
+                        automaticRows++;
                     }
                 }
             }
@@ -780,10 +798,13 @@ public final class ModuleSummary {
         Stats toStats(State state) {
             // Non-module artifacts = JARs that scanned successfully but contained no module
             // identity (no module-info, no Automatic-Module-Name), so they didn't land in
-            // any versions.tsv. Computed as (scanned - failed) - module rows. Clamped to 0 in
-            // case scanned data temporarily lags versions data mid-crawl.
+            // any versions.tsv. Computed as (scanned - failed) - PHYSICAL module rows; using
+            // totalVersionRowsAll (not the current-filtered totalVersionRows) so audit rows
+            // for shaded JARs still count as "modular" - they did declare a module, just not
+            // an authoritative one. Clamped to 0 in case scanned data temporarily lags
+            // versions data mid-crawl.
             long successfullyScanned = scannedArtifactTotal - processingErrorTotal;
-            long nonModuleArtifacts = Math.max(0L, successfullyScanned - totalVersionRows);
+            long nonModuleArtifacts = Math.max(0L, successfullyScanned - totalVersionRowsAll);
             Totals totals = new Totals(
                     totalModules,
                     totalVersionRows,
@@ -917,16 +938,6 @@ public final class ModuleSummary {
         private static String firstDotSegment(String version) {
             int dot = version.indexOf('.');
             return dot < 0 ? version : version.substring(0, dot);
-        }
-
-        private static Set<String> readCurrentKeys(Path file) throws IOException {
-            Set<String> keys = new HashSet<>();
-            try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
-                lines.filter(line -> !line.isEmpty())
-                        .map(CurrentEntry::parse)
-                        .forEach(entry -> keys.add(currentKey(entry.version().raw(), entry.groupId(), entry.artifactId())));
-            }
-            return keys;
         }
 
         private static String currentKey(ModuleEntry entry) {
