@@ -5,6 +5,7 @@ import build.jenesis.crawler.model.CurrentEntry;
 import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
 import build.jenesis.crawler.model.ScannedEntry;
+import build.jenesis.crawler.model.Version;
 
 /**
  * Reads {@code data/modules/} (versions.tsv + current.tsv) and writes a markdown
@@ -29,8 +30,8 @@ public final class ModuleSummary {
     private static final String VERSIONS_STEM = "versions";
     private static final String CURRENT_STEM = "current";
     private static final String TSV_EXTENSION = ".tsv";
-    private static final DateTimeFormatter ISO_UTC_SECONDS = DateTimeFormatter
-            .ofPattern("yyyy-MM-dd'T'HH:mm:ss'Z'")
+    private static final DateTimeFormatter HUMAN_UTC_TIMESTAMP = DateTimeFormatter
+            .ofPattern("yyyy-MM-dd HH:mm:ss 'UTC'")
             .withZone(ZoneOffset.UTC);
 
     /**
@@ -118,8 +119,10 @@ public final class ModuleSummary {
                          long namedVersionRows,
                          long automaticVersionRows,
                          long explicitModuleVersionRows,
+                         int distinctModulesWithExplicitModuleVersion,
                          long scannedArtifacts,
                          long nonModuleArtifacts,
+                         long distinctMavenArtifacts,
                          int distinctGroupIds,
                          Optional<Instant> latestPublishedAt) {
     }
@@ -229,13 +232,13 @@ public final class ModuleSummary {
         builder.append("# Module summary\n\n");
         builder.append("> ### Powered by [Jenesis](https://github.com/raphw/jenesis)\n");
         builder.append("> _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._\n\n");
-        builder.append("_Generated: ").append(ISO_UTC_SECONDS.format(stats.generatedAt())).append("_  \n");
+        builder.append("_Generated: ").append(HUMAN_UTC_TIMESTAMP.format(stats.generatedAt())).append("_  \n");
         State state = stats.state();
         if (state.indexTimestamp() > 0L) {
-            builder.append("_Index timestamp: ").append(ISO_UTC_SECONDS.format(Instant.ofEpochMilli(state.indexTimestamp()))).append("_  \n");
+            builder.append("_Index timestamp: ").append(HUMAN_UTC_TIMESTAMP.format(Instant.ofEpochMilli(state.indexTimestamp()))).append("_  \n");
         }
         if (state.sweepStartedAt() != null) {
-            builder.append("_Current chunk started: ").append(ISO_UTC_SECONDS.format(state.sweepStartedAt())).append("_  \n");
+            builder.append("_Current chunk started: ").append(HUMAN_UTC_TIMESTAMP.format(state.sweepStartedAt())).append("_  \n");
         }
         if (state.indexChainId() != null) {
             builder.append("_Index chain id: `").append(state.indexChainId()).append("`_  \n");
@@ -247,6 +250,7 @@ public final class ModuleSummary {
 
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
+        builder.append("Catalogue-wide counts. \"Artifacts\" counts JARs (one row per groupId/artifactId/version/classifier coordinate); \"modules\" counts the named or automatic-module identities those JARs expose. Distinct counts deduplicate by name. \"With module-info version\" means the module declared a version in its `module-info` that semantically matches the Maven coordinate version.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
         builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
@@ -254,12 +258,14 @@ public final class ModuleSummary {
         builder.append("| Total automatic modules | ").append(fmt(totals.automaticVersionRows())).append(" |\n");
         builder.append("| Total named modules | ").append(fmt(totals.namedVersionRows())).append(" |\n");
         builder.append("| Total named modules with module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
+        builder.append("| Distinct Maven artifacts | ").append(fmt(totals.distinctMavenArtifacts())).append(" |\n");
         builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
-        builder.append("| Distinct named modules | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
         builder.append("| Distinct automatic modules | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n");
+        builder.append("| Distinct named modules | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
+        builder.append("| Distinct named modules with module-info version | ").append(fmt(totals.distinctModulesWithExplicitModuleVersion())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent tracked publication | ")
-                .append(totals.latestPublishedAt().map(ISO_UTC_SECONDS::format).orElse("(none)"))
+                .append(totals.latestPublishedAt().map(HUMAN_UTC_TIMESTAMP::format).orElse("(none)"))
                 .append(" |\n\n");
 
         builder.append("## Type breakdown\n\n");
@@ -284,6 +290,7 @@ public final class ModuleSummary {
         builder.append("| Named → Automatic | ").append(fmt(stats.transitions().namedToAuto())).append(" |\n\n");
 
         builder.append("## Recent activity (last 7 days)\n\n");
+        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version row; \"new version rows\" is the total count of those rows.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Modules with a publication | ").append(fmt(stats.recent().modules())).append(" |\n");
         builder.append("| New version rows | ").append(fmt(stats.recent().versions())).append(" |\n\n");
@@ -291,6 +298,7 @@ public final class ModuleSummary {
         renderMonthlyPublications(builder, stats.monthlyPublications());
 
         builder.append("## Naming patterns\n\n");
+        builder.append("How module names relate to their publishing groupId and to classifier-bundled JARs. \"Classifier variants\" are non-main artifacts like `-jar-with-dependencies` or `-uber` that also produce a module; \"competing groupIds\" means the same module name was published under more than one groupId across history (collision, before owners.tsv resolved it). The shared-dot-segments histogram shows how closely module names follow the convention of starting with their groupId.\n\n");
         builder.append("| Pattern | Modules |\n|---|---:|\n");
         builder.append("| Has classifier variants | ").append(fmt(stats.naming().modulesWithClassifier())).append(" |\n");
         builder.append("| Total classifier variants (across all modules) | ").append(fmt(stats.naming().classifierVariants())).append(" |\n");
@@ -332,6 +340,7 @@ public final class ModuleSummary {
         builder.append('\n');
 
         builder.append("## Top ").append(topN).append(" groupIds by module count\n\n");
+        builder.append("GroupIds that publish the most distinct module names, sorted by module count. Each `(groupId, moduleName)` pair counts once regardless of how many versions or classifier variants exist.\n\n");
         builder.append("| groupId | Modules published |\n|---|---:|\n");
         for (TopEntry entry : stats.top().groupsByModuleCount()) {
             builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
@@ -339,6 +348,7 @@ public final class ModuleSummary {
         builder.append('\n');
 
         builder.append("## Top ").append(topN).append(" modules with most colliding groupIds\n\n");
+        builder.append("Module names that have been published under the most different groupIds across history. A high count indicates name reuse: forks, rebranded artifacts, or coordinate moves that left old groupIds in the audit log even after owners.tsv picked a canonical publisher.\n\n");
         builder.append("| Module | Distinct groupIds |\n|---|---:|\n");
         for (TopEntry entry : stats.top().collisionsByDistinctGroups()) {
             builder.append("| `").append(entry.key()).append("` | ").append(fmt(entry.count())).append(" |\n");
@@ -346,13 +356,14 @@ public final class ModuleSummary {
         builder.append('\n');
 
         builder.append("## Top ").append(topN).append(" modules updated in the last 7 days\n\n");
+        builder.append("Modules whose most recent publication landed in the 7-day window, sorted newest first. Use this as a recency view; the count above (`Recent activity`) gives the totals while this table names which modules they were.\n\n");
         if (stats.top().latestModuleUpdates().isEmpty()) {
             builder.append("_(none — no publications recorded within the last week)_\n\n");
         } else {
             builder.append("| Module | Last publication |\n|---|---|\n");
             for (TopLatestEntry entry : stats.top().latestModuleUpdates()) {
                 builder.append("| `").append(entry.key()).append("` | ")
-                        .append(ISO_UTC_SECONDS.format(entry.publishedAt())).append(" |\n");
+                        .append(HUMAN_UTC_TIMESTAMP.format(entry.publishedAt())).append(" |\n");
             }
             builder.append('\n');
         }
@@ -464,6 +475,8 @@ public final class ModuleSummary {
         private final Map<String, Long> latestPublishedByModule = new HashMap<>();
         private long processingErrorTotal;
         private long scannedArtifactTotal;
+        private long distinctMavenArtifactTotal;
+        private final Set<String> moduleKeysWithExplicitModuleVersion = new HashSet<>();
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
         private final Map<YearMonth, long[]> monthlyTypeCounts = new HashMap<>();
 
@@ -557,8 +570,12 @@ public final class ModuleSummary {
                         moduleVersionUntracked++;
                     } else if (moduleVersion.isEmpty()) {
                         moduleVersionAbsent++;
-                    } else if (moduleVersion.equals(entry.mavenVersion().raw())) {
+                    } else if (new Version(moduleVersion).equals(entry.mavenVersion())) {
+                        // Semantic equality: "1.0" and "1.0.0" are both treated as explicit
+                        // matches. Without this, trailing zero variants and qualifier aliases
+                        // (ga, final, release) would land in mismatching and inflate that bucket.
                         moduleVersionExplicit++;
+                        moduleKeysWithExplicitModuleVersion.add(moduleKey);
                     } else {
                         moduleVersionMismatching++;
                     }
@@ -625,6 +642,10 @@ public final class ModuleSummary {
         }
 
         void acceptScannedFile(Path file) throws IOException {
+            // Each scanned tsv file corresponds to a single (groupId, artifactId) Maven coordinate,
+            // regardless of how many versions or classifiers it contains. Counting files therefore
+            // gives the number of distinct Maven artifacts the crawler has touched.
+            distinctMavenArtifactTotal++;
             try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
                 Iterator<String> iterator = lines.iterator();
                 while (iterator.hasNext()) {
@@ -662,8 +683,10 @@ public final class ModuleSummary {
                     totalNamedVersionRows,
                     totalAutomaticVersionRows,
                     moduleVersionExplicit,
+                    moduleKeysWithExplicitModuleVersion.size(),
                     scannedArtifactTotal,
                     nonModuleArtifacts,
+                    distinctMavenArtifactTotal,
                     distinctGroupIds.size(),
                     latestPublishedMillis > 0L ? Optional.of(Instant.ofEpochMilli(latestPublishedMillis)) : Optional.empty());
             TypeBreakdown named = new TypeBreakdown(namedUniqueModules, namedRows);
