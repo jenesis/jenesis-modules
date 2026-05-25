@@ -179,7 +179,12 @@ public final class ModuleSummary {
     public record Transitions(int autoToNamed, int namedToAuto) {
     }
 
-    public record RecentActivity(int modules, long versions) {
+    public record RecentActivity(int modules,
+                                 int namedModules,
+                                 int automaticModules,
+                                 long versions,
+                                 long namedVersions,
+                                 long automaticVersions) {
     }
 
     /**
@@ -338,10 +343,16 @@ public final class ModuleSummary {
         builder.append("| Named → Automatic | ").append(fmt(stats.transitions().namedToAuto())).append(" |\n\n");
 
         builder.append("## Recent activity (last 7 days)\n\n");
-        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version row; \"new version rows\" is the total count of those rows.\n\n");
-        builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Modules with a publication | ").append(fmt(stats.recent().modules())).append(" |\n");
-        builder.append("| New version rows | ").append(fmt(stats.recent().versions())).append(" |\n\n");
+        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version row; \"new version rows\" is the total count of those rows. Per-row counts split by the row's own type; per-module counts split by the module's currently-authoritative type (taken from `current.tsv`'s latest entry), so a module that switched named↔automatic is attributed to whatever it is now.\n\n");
+        builder.append("| Metric | Total | Named | Automatic |\n|---|---:|---:|---:|\n");
+        builder.append("| Modules with a publication | ")
+                .append(fmt(stats.recent().modules())).append(" | ")
+                .append(fmt(stats.recent().namedModules())).append(" | ")
+                .append(fmt(stats.recent().automaticModules())).append(" |\n");
+        builder.append("| New version rows | ")
+                .append(fmt(stats.recent().versions())).append(" | ")
+                .append(fmt(stats.recent().namedVersions())).append(" | ")
+                .append(fmt(stats.recent().automaticVersions())).append(" |\n\n");
 
         renderMonthlyPublications(builder, stats.monthlyPublications());
 
@@ -544,7 +555,11 @@ public final class ModuleSummary {
         private int autoToNamed;
         private int namedToAuto;
         private int modulesPublishedLastWeek;
+        private int namedModulesPublishedLastWeek;
+        private int automaticModulesPublishedLastWeek;
         private long versionsPublishedLastWeek;
+        private long namedVersionsPublishedLastWeek;
+        private long automaticVersionsPublishedLastWeek;
         private int collidingModules;
         private int classifierVariants;
         private final SortedMap<Integer, Integer> sharedSegmentHistogram = new TreeMap<>();
@@ -661,6 +676,8 @@ public final class ModuleSummary {
             Set<String> currentGroupsHere = new HashSet<>();
             boolean recent = false;
             long recentRows = 0L;
+            long recentRowsNamed = 0L;
+            long recentRowsAutomatic = 0L;
             long moduleLatestMillis = 0L;
             for (ModuleEntry entry : currentVersions) {
                 totalVersionRows++;
@@ -676,6 +693,11 @@ public final class ModuleSummary {
                 if (entry.publishedAt() >= recentCutoffMillis) {
                     recent = true;
                     recentRows++;
+                    if (entry.type() == ModuleType.NAMED) {
+                        recentRowsNamed++;
+                    } else if (entry.type() == ModuleType.AUTOMATIC) {
+                        recentRowsAutomatic++;
+                    }
                 }
                 if (entry.type() == ModuleType.AUTOMATIC) {
                     totalAutomaticVersionRows++;
@@ -722,6 +744,10 @@ public final class ModuleSummary {
             if (recent) {
                 modulesPublishedLastWeek++;
                 versionsPublishedLastWeek += recentRows;
+                namedVersionsPublishedLastWeek += recentRowsNamed;
+                automaticVersionsPublishedLastWeek += recentRowsAutomatic;
+                // Per-module named/automatic accounting is decided by the module's resolved
+                // latest type below; recording it here would be premature.
             }
 
             // === Type breakdown, transitions, shared-segment histogram (current.tsv inherent) ===
@@ -729,8 +755,14 @@ public final class ModuleSummary {
                 CurrentEntry latest = current.get(0);
                 if (latest.type() == ModuleType.NAMED) {
                     namedUniqueModules++;
+                    if (recent) {
+                        namedModulesPublishedLastWeek++;
+                    }
                 } else if (latest.type() == ModuleType.AUTOMATIC) {
                     automaticUniqueModules++;
+                    if (recent) {
+                        automaticModulesPublishedLastWeek++;
+                    }
                 }
                 // Transitions are detected purely from the resolved view: if the latest version
                 // is one type and any older version (further down current.tsv, which is sorted
@@ -820,7 +852,13 @@ public final class ModuleSummary {
             TypeBreakdown named = new TypeBreakdown(namedUniqueModules, namedRows);
             TypeBreakdown automatic = new TypeBreakdown(automaticUniqueModules, automaticRows);
             Transitions transitions = new Transitions(autoToNamed, namedToAuto);
-            RecentActivity recent = new RecentActivity(modulesPublishedLastWeek, versionsPublishedLastWeek);
+            RecentActivity recent = new RecentActivity(
+                    modulesPublishedLastWeek,
+                    namedModulesPublishedLastWeek,
+                    automaticModulesPublishedLastWeek,
+                    versionsPublishedLastWeek,
+                    namedVersionsPublishedLastWeek,
+                    automaticVersionsPublishedLastWeek);
             NamingPatterns naming = new NamingPatterns(
                     collidingModules,
                     sharedSegmentHistogram,
