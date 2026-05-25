@@ -238,13 +238,15 @@ public final class ModuleSummary {
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
         builder.append("| Total artifacts scanned | ").append(fmt(totals.scannedArtifacts())).append(" |\n");
         builder.append("| Non-module artifacts | ").append(fmt(totals.nonModuleArtifacts())).append(" |\n");
         builder.append("| Modular artifacts | ").append(fmt(totals.versionRows())).append(" |\n");
         builder.append("| Total automatic modules | ").append(fmt(totals.automaticVersionRows())).append(" |\n");
         builder.append("| Total named modules | ").append(fmt(totals.namedVersionRows())).append(" |\n");
         builder.append("| Total named modules with module-info version | ").append(fmt(totals.explicitModuleVersionRows())).append(" |\n");
+        builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
+        builder.append("| Distinct named modules | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
+        builder.append("| Distinct automatic modules | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent tracked publication | ")
                 .append(totals.latestPublishedAt().map(ISO_UTC_SECONDS::format).orElse("(none)"))
