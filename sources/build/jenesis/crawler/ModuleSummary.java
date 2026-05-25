@@ -371,6 +371,7 @@ public final class ModuleSummary {
         ProcessingErrors errors = stats.errors();
         builder.append("## Processing errors (from `data/scanned/`)\n\n");
         builder.append("Recorded permanent failures across every scanned coordinate. Variable bits of well-known error classes (URLs, shaded package names, classfile entry indexes, HTTP status codes, line numbers, class identifiers) are replaced with placeholders like `<URL>`, `<PACKAGE>`, `<CLASS>` so messages that differ only in those bits aggregate into one row.\n\n");
+        builder.append("The vast majority of `returned status 404` entries are an artefact of working around the upstream Nexus indexer bug (OSSRH-60950): the crawler optimistically rewrites `<none>/pom.sha512` and similar mis-stamped no-classifier records to `<none>/jar`, and for genuinely pom-only artifacts (BOMs, parent POMs) the resulting fetch 404s once and is then deduped forever by `ScannedStore`. These 404 rows do not contribute to the `Total artifacts scanned` and `Modular artifacts` totals above, which count only successful scans.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
         builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n\n");
         if (!errors.topMessages().isEmpty()) {
@@ -839,7 +840,7 @@ public final class ModuleSummary {
                     totalAutomaticVersionRows,
                     moduleVersionExplicit + moduleVersionMismatching,
                     moduleKeysWithModuleVersion.size(),
-                    scannedArtifactTotal,
+                    successfullyScanned,
                     nonModuleArtifacts,
                     distinctMavenArtifactTotal,
                     distinctGroupIds.size(),

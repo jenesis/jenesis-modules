@@ -213,7 +213,7 @@ public class ModuleSummaryTest {
                 "0.9\tautomatic\tcom.example\tlib");
         // 5 scanned rows: 2 successes that produced modules (covered by versions.tsv above),
         // 2 successes that didn't yield a module, 1 failure. Expected:
-        //   scannedArtifacts = 5, nonModuleArtifacts = (5 - 1) - 2 = 2.
+        //   scannedArtifacts = 4 (5 rows minus the 1 failure), nonModuleArtifacts = 4 - 2 = 2.
         Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("com.example"));
         Files.writeString(scannedDir.resolve("lib.tsv"), String.join("\n",
                 "1.0\t\t",
@@ -225,7 +225,7 @@ public class ModuleSummaryTest {
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);
 
-        assertThat(stats.totals().scannedArtifacts()).isEqualTo(5L);
+        assertThat(stats.totals().scannedArtifacts()).isEqualTo(4L);
         assertThat(stats.totals().nonModuleArtifacts()).isEqualTo(2L);
     }
 
