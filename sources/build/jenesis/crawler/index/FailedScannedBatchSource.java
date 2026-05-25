@@ -117,7 +117,17 @@ public final class FailedScannedBatchSource implements BatchSource {
                 if (!entry.isFailed()) {
                     continue;
                 }
-                if (!matchesAny(entry.errorMessage(), patterns)) {
+                String message = entry.errorMessage();
+                if (patterns.isEmpty()) {
+                    // Default behaviour: retry every failure EXCEPT 404s. The Coordinate rewrite
+                    // produces a long tail of 404s for pom-only artifacts whose pom.sha512-style
+                    // record was speculatively treated as a main JAR; retrying those just repeats
+                    // the same fetch and re-records the same 404. Callers who explicitly want to
+                    // retry 404s can set -Djenesis.retry.error.pattern to a regex that matches.
+                    if (isNotFoundError(message)) {
+                        continue;
+                    }
+                } else if (!matchesAny(message, patterns)) {
                     continue;
                 }
                 sink.add(new Coordinate(groupId, artifactId, entry.version(), entry.classifier(), JAR_EXTENSION, 0L, 0L));
@@ -125,10 +135,13 @@ public final class FailedScannedBatchSource implements BatchSource {
         }
     }
 
+    private static boolean isNotFoundError(String message) {
+        return message != null && STATUS_404_PATTERN.matcher(message).find();
+    }
+
+    private static final Pattern STATUS_404_PATTERN = Pattern.compile("returned status 404");
+
     private static boolean matchesAny(String message, List<Pattern> patterns) {
-        if (patterns.isEmpty()) {
-            return true;
-        }
         for (Pattern pattern : patterns) {
             if (pattern.matcher(message).find()) {
                 return true;

@@ -19,10 +19,15 @@ import build.jenesis.crawler.store.ModuleStore;
  * Usage:
  *   RetryFailed &lt;artifact-base-uri&gt;
  *
- * Without {@link #PROP_ERROR_PATTERN} set, every recorded permanent failure is re-scanned.
- * Setting that system property to a regex narrows the run to failures whose recorded
- * error message matches the pattern via {@link Matcher#find()} (substring match, no
- * need to anchor with {@code ^...$}).
+ * Without {@link #PROP_ERROR_PATTERN} set, every recorded permanent failure is re-scanned
+ * EXCEPT entries whose error message contains {@code returned status 404}. The Coordinate
+ * rewrite produces an inflated long tail of 404s for pom-only artifacts, and a default retry
+ * would just re-fetch every one of them with the same outcome. Set the property to a regex
+ * (e.g. {@code .*returned status 404.*}) to opt back in to retrying 404s.
+ *
+ * <p>Setting {@link #PROP_ERROR_PATTERN} narrows the run to failures whose recorded error
+ * message matches the pattern via {@link Matcher#find()} (substring match, no need to anchor
+ * with {@code ^...$}). The 404 default skip is bypassed when a pattern is set.
  *
  * The crawler's {@code reprocessFailed} configuration flag is set to {@code true} for the
  * scope of this tool's run so that an existing failure record doesn't block the re-scan
@@ -136,12 +141,14 @@ public final class RetryFailed {
     private static void printUsage() {
         System.out.println("Usage: RetryFailed <artifact-base-uri>");
         System.out.println();
-        System.out.println("Re-scans every coordinate currently marked as permanently failed in <dataDir>/scanned/.");
-        System.out.println("With no error-pattern property set, every recorded failure is retried; setting");
-        System.out.println("-D" + PROP_ERROR_PATTERN + "=<regex> narrows the run to failures whose message matches.");
+        System.out.println("Re-scans every coordinate currently marked as permanently failed in <dataDir>/scanned/,");
+        System.out.println("EXCEPT 404 fetch errors (those are the long tail of pom-only artifacts speculatively");
+        System.out.println("rewritten to .jar by Coordinate.from; retrying them re-fetches and re-404s).");
+        System.out.println("Setting -D" + PROP_ERROR_PATTERN + "=<regex> bypasses the 404 skip and narrows the run to");
+        System.out.println("failures whose message matches.");
         System.out.println();
         System.out.println("System properties:");
-        System.out.println("  -D" + PROP_ERROR_PATTERN + "=<regex>  Filter failures by error message (default: retry all)");
+        System.out.println("  -D" + PROP_ERROR_PATTERN + "=<regex>  Filter failures by error message (default: retry all non-404)");
         System.out.println("  -D" + PROP_DATA + "=<dir>                 Data directory (default: 'data')");
         System.out.println("  -D" + PROP_BUDGET_MINUTES + "=<minutes>   Wall-clock budget (default: 180)");
         System.out.println("  -D" + PROP_CONCURRENCY + "=<n>            Concurrent fetches (default: 64)");
