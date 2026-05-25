@@ -17,6 +17,10 @@ on:
         description: Tail-range bytes per JAR (blank = scanner default)
         required: false
         default: ''
+      checkpoint_every:
+        description: Commit + push every N patched files
+        required: false
+        default: '30'
 
 permissions:
   contents: write
@@ -62,12 +66,16 @@ jobs:
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || '32' }}
           TAIL_SIZE: ${{ github.event.inputs.tail_size }}
+          CHECKPOINT_EVERY: ${{ github.event.inputs.checkpoint_every || '30' }}
         run: |
           set -euo pipefail
           jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
           props=(
             "-Djenesis.crawler.data=$GITHUB_WORKSPACE/data"
             "-Djenesis.crawler.concurrency=$CONCURRENCY"
+            "-Djenesis.patch.checkpoint.every=$CHECKPOINT_EVERY"
+            "-Djenesis.crawler.git.publish=true"
+            "-Djenesis.crawler.git.work.dir=$GITHUB_WORKSPACE"
           )
           [ -n "$TAIL_SIZE" ] && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           java "${props[@]}" -cp "$jar" build.jenesis.crawler.PatchModuleVersion "$ARTIFACT_BASE"

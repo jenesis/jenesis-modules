@@ -36,11 +36,17 @@ public final class PatchModuleVersion {
     public static final String PROP_DATA = "jenesis.crawler.data";
     public static final String PROP_CONCURRENCY = "jenesis.crawler.concurrency";
     public static final String PROP_TAIL_SIZE = "jenesis.crawler.tail.size";
+    public static final String PROP_CHECKPOINT_EVERY = "jenesis.patch.checkpoint.every";
+    public static final String PROP_GIT_PUBLISH = "jenesis.crawler.git.publish";
+    public static final String PROP_GIT_WORK_DIR = "jenesis.crawler.git.work.dir";
 
     public static final int DEFAULT_CONCURRENCY = 32;
     public static final int DEFAULT_TAIL_SIZE = Scanner.DEFAULT_TAIL_SIZE;
+    public static final int DEFAULT_CHECKPOINT_EVERY = 30;
     private static final String DEFAULT_DATA_DIR = "data";
     private static final String JAR_EXTENSION = "jar";
+    private static final Duration GIT_COMMAND_TIMEOUT = Duration.ofMinutes(5L);
+    private static final int GIT_PUSH_ATTEMPTS = 3;
 
     private PatchModuleVersion() {
     }
@@ -61,6 +67,9 @@ public final class PatchModuleVersion {
         Path dataDir = property(PROP_DATA).map(Path::of).orElse(Path.of(DEFAULT_DATA_DIR));
         int concurrency = property(PROP_CONCURRENCY).map(Integer::parseInt).orElse(DEFAULT_CONCURRENCY);
         int tailSize = property(PROP_TAIL_SIZE).map(Integer::parseInt).orElse(DEFAULT_TAIL_SIZE);
+        int checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Integer::parseInt).orElse(DEFAULT_CHECKPOINT_EVERY);
+        boolean gitPublish = property(PROP_GIT_PUBLISH).map(value -> parseBoolean(value, PROP_GIT_PUBLISH)).orElse(false);
+        Path workingDirectory = property(PROP_GIT_WORK_DIR).map(Path::of).orElseGet(() -> Path.of("."));
         Path modulesRoot = dataDir.resolve("modules");
 
         System.out.println("[info] Configuration:");
@@ -69,13 +78,22 @@ public final class PatchModuleVersion {
         System.out.println("[info]   artifactBase=" + artifactBase);
         System.out.println("[info]   concurrency=" + concurrency);
         System.out.println("[info]   tailSize=" + tailSize);
+        System.out.println("[info]   checkpointEvery=" + checkpointEvery);
+        System.out.println("[info]   gitPublish=" + gitPublish);
+        if (gitPublish) {
+            System.out.println("[info]   gitWorkDir=" + workingDirectory.toAbsolutePath());
+        }
 
         if (!Files.isDirectory(modulesRoot)) {
             System.out.println("[info] No modules root at " + modulesRoot + "; nothing to patch.");
             return;
         }
+        Consumer<Stats> checkpoint = gitPublish
+                ? stats -> commitCheckpoint(workingDirectory, stats)
+                : stats -> {};
         try (Fetcher fetcher = new Fetcher()) {
-            Stats stats = patch(modulesRoot, fetcher, new Scanner(tailSize), artifactBase, concurrency, tailSize);
+            Stats stats = patch(modulesRoot, fetcher, new Scanner(tailSize), artifactBase,
+                    concurrency, tailSize, checkpointEvery, checkpoint);
             System.out.println("[info] Done. files=" + stats.filesScanned
                     + " filesPatched=" + stats.filesPatched
                     + " rows[total]=" + stats.rowsTotal
@@ -84,6 +102,14 @@ public final class PatchModuleVersion {
                     + " rows[automatic]=" + stats.rowsAutomatic
                     + " rows[failed]=" + stats.rowsFailed);
         }
+    }
+
+    private static boolean parseBoolean(String value, String source) {
+        return switch (value.toLowerCase(Locale.ROOT)) {
+            case "true", "1", "yes" -> true;
+            case "false", "0", "no" -> false;
+            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
+        };
     }
 
     /**
@@ -97,10 +123,33 @@ public final class PatchModuleVersion {
                               URI artifactBase,
                               int concurrency,
                               int tailSize) throws IOException {
+        return patch(modulesRoot, fetcher, scanner, artifactBase, concurrency, tailSize, 0, _ -> {});
+    }
+
+    /**
+     * Walks every versions file under {@code modulesRoot}, patches legacy rows, and invokes
+     * {@code onCheckpoint} every {@code checkpointEvery} files actually patched. The crawler runs
+     * for hours on a fresh dataset; without periodic checkpoints, a workflow timeout or crash
+     * loses all in-progress patch work. {@code checkpointEvery <= 0} disables checkpoints, in
+     * which case the listener is never invoked. The listener is called from the walker thread,
+     * after the file write has flushed, so it can safely git-add data without racing the next
+     * patch write.
+     */
+    public static Stats patch(Path modulesRoot,
+                              Fetcher fetcher,
+                              Scanner scanner,
+                              URI artifactBase,
+                              int concurrency,
+                              int tailSize,
+                              int checkpointEvery,
+                              Consumer<Stats> onCheckpoint) throws IOException {
         if (concurrency <= 0) {
             throw new IllegalArgumentException("concurrency must be > 0; got " + concurrency);
         }
         Stats stats = new Stats();
+        long lastCheckpointedAt = 0L;
+        long lastProgressLoggedAt = 0L;
+        long progressEvery = 500L;
         Semaphore inflight = new Semaphore(concurrency);
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor();
              Stream<Path> stream = Files.walk(modulesRoot)) {
@@ -113,6 +162,23 @@ public final class PatchModuleVersion {
                     continue;
                 }
                 patchFile(versionsFile.get(), fetcher, scanner, artifactBase, executor, inflight, tailSize, stats);
+                // Most files already carry the trailing column and patch in microseconds without
+                // emitting their own log line, so without a heartbeat the walker can appear hung
+                // for many minutes. Tick every {@code progressEvery} files scanned regardless of
+                // whether any were patched.
+                if (stats.filesScanned >= lastProgressLoggedAt + progressEvery) {
+                    System.out.println("[patch] scanned=" + stats.filesScanned
+                            + " patched=" + stats.filesPatched
+                            + " rows[patched]=" + stats.rowsPatched
+                            + " rows[automatic]=" + stats.rowsAutomatic
+                            + " rows[failed]=" + stats.rowsFailed);
+                    lastProgressLoggedAt = stats.filesScanned;
+                }
+                if (checkpointEvery > 0
+                        && stats.filesPatched >= lastCheckpointedAt + checkpointEvery) {
+                    onCheckpoint.accept(stats);
+                    lastCheckpointedAt = stats.filesPatched;
+                }
             }
         }
         return stats;
@@ -206,6 +272,84 @@ public final class PatchModuleVersion {
                 inflight.release();
             }
         });
+    }
+
+    /**
+     * Stages the {@code data/} directory and commits + pushes the patched rows. Used as the
+     * default checkpoint listener when {@code jenesis.crawler.git.publish=true}, so a long patch
+     * run lands progress at the configured cadence rather than risking it all if the workflow
+     * times out. Failures here are logged but never thrown - a transient git error must not abort
+     * the patch loop because the on-disk state is already consistent.
+     */
+    private static void commitCheckpoint(Path workingDirectory, Stats stats) {
+        try {
+            runGit(workingDirectory, List.of("git", "add", "--", "data"), true);
+            if (runGit(workingDirectory, List.of("git", "diff", "--cached", "--quiet"), false) == 0) {
+                return;
+            }
+            String message = "patch checkpoint files=" + stats.filesPatched
+                    + " rows=" + stats.rowsPatched
+                    + " automatic=" + stats.rowsAutomatic
+                    + (stats.rowsFailed > 0 ? " failed=" + stats.rowsFailed : "");
+            runGit(workingDirectory, List.of("git", "commit", "-m", message), true);
+            pushWithRebase(workingDirectory);
+            System.out.println("[patch] checkpoint pushed: " + message);
+        } catch (IOException gitFailure) {
+            System.err.println("[patch] git checkpoint failed: " + gitFailure.getMessage()
+                    + " (continuing; the next checkpoint will retry)");
+        }
+    }
+
+    private static void pushWithRebase(Path workingDirectory) throws IOException {
+        IOException lastError = null;
+        for (int attempt = 1; attempt <= GIT_PUSH_ATTEMPTS; attempt++) {
+            try {
+                runGit(workingDirectory, List.of("git", "push"), true);
+                return;
+            } catch (IOException pushFailed) {
+                lastError = pushFailed;
+                if (attempt < GIT_PUSH_ATTEMPTS) {
+                    System.err.println("[patch] push attempt " + attempt + "/" + GIT_PUSH_ATTEMPTS
+                            + " failed; rebasing and retrying. Details:\n" + pushFailed.getMessage());
+                    try {
+                        runGit(workingDirectory, List.of("git", "pull", "--rebase"), false);
+                    } catch (IOException rebaseFailed) {
+                        System.err.println("[patch] rebase failed, will retry push anyway: " + rebaseFailed.getMessage());
+                    }
+                }
+            }
+        }
+        throw lastError;
+    }
+
+    private static int runGit(Path workingDirectory, List<String> command, boolean requireSuccess) throws IOException {
+        ProcessBuilder builder = new ProcessBuilder(command);
+        builder.directory(workingDirectory.toFile());
+        builder.redirectErrorStream(true);
+        Process process = builder.start();
+        StringBuilder output = new StringBuilder();
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream(), StandardCharsets.UTF_8))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                output.append(line).append('\n');
+            }
+        }
+        try {
+            if (!process.waitFor(GIT_COMMAND_TIMEOUT.toSeconds(), TimeUnit.SECONDS)) {
+                process.destroyForcibly();
+                throw new IOException("git command timed out: " + String.join(" ", command));
+            }
+        } catch (InterruptedException interrupted) {
+            Thread.currentThread().interrupt();
+            process.destroyForcibly();
+            throw new IOException("Interrupted while running: " + String.join(" ", command), interrupted);
+        }
+        int exit = process.exitValue();
+        if (requireSuccess && exit != 0) {
+            throw new IOException("git command failed (exit " + exit + "): "
+                    + String.join(" ", command) + "\n" + output);
+        }
+        return exit;
     }
 
     private static ModuleEntry withModuleVersion(ModuleEntry entry, String moduleVersion) {
