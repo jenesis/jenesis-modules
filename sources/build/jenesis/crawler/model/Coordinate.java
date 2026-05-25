@@ -15,23 +15,29 @@ public record Coordinate(String groupId,
     private static final String INFO_FIELD = "i";
 
     /**
-     * Extensions that the Nexus indexer occasionally writes for what should be a main JAR record
-     * (i.e. {@code classifier == null}) - rewriting them back to {@code jar} at parse time lets
-     * downstream code (Crawler.isInteresting, Scanner, the scanned-store filter) treat them like
-     * normal main-JAR coordinates.
+     * Extensions that the Nexus indexer occasionally writes for what should be a main JAR
+     * record (i.e. {@code classifier == null}). The Maven Indexer is documented not to index
+     * checksum, signature, or Gradle-module files, so a no-classifier record with one of these
+     * extensions is necessarily a mis-categorised JAR - the underlying bug behind the byte-buddy
+     * gap that motivated {@code ReconcileMetadata}. {@code Coordinate.from(...)} rewrites the
+     * extension back to {@code jar} so downstream code (Crawler.isInteresting, Scanner, the
+     * scanned-store filter) treats it like any other main-JAR coordinate. Side artifacts keep
+     * their classifier and are unaffected. References: OSSRH-60950 and the windup
+     * nexus-repository-indexer project, which performs the same rewrite on a downloaded index.
      *
-     * <p>Only Gradle's {@code .module} extension is here. The Maven Indexer is documented not to
-     * index {@code .module} files, so any such record is necessarily a mis-categorised main JAR.
-     * The {@code pom.sha*} and {@code pom.asc.sha*} variants used to be in this set too (the same
-     * rewrite the windup nexus-repository-indexer project applies), but those extensions exist
-     * legitimately as sidecar records for pom-only artifacts (BOMs, parent POMs) - rewriting them
-     * would then make the crawler fetch a non-existent {@code .jar} and bloat scanned.tsv with
-     * 404 failures. The byte-buddy-style "main-jar record mis-stamped as pom.sha512" case is left
-     * to {@link build.jenesis.crawler.ReconcileMetadata}, which uses {@code maven-metadata.xml}
-     * as the authoritative version list and doesn't have the ambiguity. References: OSSRH-60950
-     * and the windup nexus-repository-indexer project.
+     * <p>The trade-off: for pom-only artifacts (BOMs, parent POMs), the {@code pom.sha*} and
+     * {@code pom.asc.sha*} variants are legitimate sidecar records and the rewrite makes the
+     * scanner fetch a non-existent {@code .jar}. Those 404s land as permanent failures in
+     * {@code scanned.tsv} and inflate "Top error messages" in the summary, but the cost is
+     * one-time per coordinate (the scanned-store filter dedupes thereafter) and the upside is
+     * that no mis-stamped main JAR is silently dropped. Completeness wins.
      */
-    private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of("module");
+    private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of(
+            "module",
+            "pom.sha256",
+            "pom.sha512",
+            "pom.asc.sha256",
+            "pom.asc.sha512");
 
     public Coordinate {
         Objects.requireNonNull(groupId, "groupId");

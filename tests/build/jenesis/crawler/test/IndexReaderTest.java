@@ -101,36 +101,25 @@ public class IndexReaderTest {
     }
 
     @Test
-    public void coordinate_extraction_rewrites_no_classifier_module_extension_to_jar() {
-        // Nexus indexer bug: main-jar records sometimes get stamped with extension=module
-        // (Gradle's metadata file extension, which the indexer is documented NOT to index).
-        // We rewrite at parse time so the rest of the pipeline treats the record as the
-        // main JAR it should have been. POM checksum/signature variants (pom.sha512 etc.) are
-        // intentionally NOT rewritten - they legitimately exist as sidecar records for
-        // pom-only artifacts (BOMs, parent POMs), and rewriting them would 404-flood the
-        // scanner. ReconcileMetadata handles those via maven-metadata.xml instead.
-        Map<String, String> record = Map.of(
-                "u", "net.bytebuddy|byte-buddy|1.10.0|NA|module",
-                "i", "module|0|0|0|0|0|module"
-        );
-        Coordinate coordinate = Coordinate.from(record).orElseThrow();
-        assertThat(coordinate.extension()).isEqualTo("jar");
-        assertThat(coordinate.classifier()).isNull();
-    }
-
-    @Test
-    public void coordinate_extraction_leaves_pom_checksum_extensions_alone() {
-        // Legitimate sidecar records for pom-only artifacts - must not be rewritten or the
-        // crawler would 404-spam fetching non-existent JARs.
-        for (String extension : new String[]{"pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512"}) {
+    public void coordinate_extraction_rewrites_miscategorised_no_classifier_extensions_to_jar() {
+        // Nexus indexer bug: main-jar records sometimes get stamped with the extension of a
+        // sidecar file (Gradle .module, POM checksums, GPG-signature checksums). Rewriting
+        // to "jar" is what the windup nexus-repository-indexer fix does on the published
+        // index; we do the same at parse time so the rest of the pipeline stays vanilla.
+        // For pom-only artifacts the pom.* records are legitimate and the resulting fetch
+        // 404s, but that's a one-time scanned.tsv entry per coordinate and we prefer that
+        // cost over silently missing a mis-stamped main JAR.
+        for (String miscategorised : new String[]{
+                "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512"}) {
             Map<String, String> record = Map.of(
-                    "u", "org.example|parent-pom|1.0|NA|" + extension,
-                    "i", extension + "|0|0|0|0|0|" + extension
+                    "u", "net.bytebuddy|byte-buddy|1.10.0|NA|" + miscategorised,
+                    "i", miscategorised + "|0|0|0|0|0|" + miscategorised
             );
             Coordinate coordinate = Coordinate.from(record).orElseThrow();
             assertThat(coordinate.extension())
-                    .as("extension=%s with no classifier should NOT be rewritten", extension)
-                    .isEqualTo(extension);
+                    .as("extension=%s with no classifier should be rewritten to jar", miscategorised)
+                    .isEqualTo("jar");
+            assertThat(coordinate.classifier()).isNull();
         }
     }
 
