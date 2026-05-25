@@ -1,0 +1,114 @@
+name: Reconcile missing versions from maven-metadata.xml
+
+# Walks data/scanned/, downloads maven-metadata.xml for each artifact, diffs against the
+# locally scanned main-jar versions, and re-scans whichever versions are missing through the
+# regular scanner pipeline. Recovers versions whose main-jar record is absent from the Nexus
+# index (e.g. the byte-buddy gap). Manual only - schedule a moment when no crawl is running,
+# both write the same versions.tsv files.
+
+on:
+  workflow_dispatch:
+    inputs:
+      budget_minutes:
+        description: Wall-clock budget in minutes
+        required: false
+        default: '180'
+      scanner_concurrency:
+        description: Concurrent JAR fetches (Scanner pool)
+        required: false
+        default: '96'
+      metadata_concurrency:
+        description: Concurrent maven-metadata.xml fetches
+        required: false
+        default: '32'
+      push_every:
+        description: Number of checkpoints between git pushes
+        required: false
+        default: '10'
+
+permissions:
+  contents: write
+
+# Share the crawl concurrency group so a manual reconcile queues behind a manual crawl rather
+# than fighting it for the same on-disk files. Scheduled crawls use a per-run group and would
+# still run concurrently; the rebase-retry in GitPublisher handles that.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 50
+          persist-credentials: true
+          submodules: recursive
+
+      - name: Set up JDK 25
+        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
+        with:
+          distribution: temurin
+          java-version: '25'
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+
+      - name: Run ReconcileMetadata
+        env:
+          ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
+          BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || '180' }}
+          CONCURRENCY: ${{ github.event.inputs.scanner_concurrency || '96' }}
+          METADATA_CONCURRENCY: ${{ github.event.inputs.metadata_concurrency || '32' }}
+          PUSH_EVERY: ${{ github.event.inputs.push_every || '10' }}
+        run: |
+          set -euo pipefail
+          java -XX:+ExitOnOutOfMemoryError \
+               -XX:+HeapDumpOnOutOfMemoryError \
+               -XX:HeapDumpPath="$GITHUB_WORKSPACE/reconcile.hprof" \
+               -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
+               -Djenesis.crawler.budget="$BUDGET_MINUTES" \
+               -Djenesis.crawler.concurrency="$CONCURRENCY" \
+               -Djenesis.reconcile.metadata.concurrency="$METADATA_CONCURRENCY" \
+               -Djenesis.crawler.git.publish=true \
+               -Djenesis.crawler.git.work.dir="$GITHUB_WORKSPACE" \
+               -Djenesis.crawler.git.push.every="$PUSH_EVERY" \
+               sources/build/jenesis/crawler/ReconcileMetadata.java \
+               "$ARTIFACT_BASE"
+
+      - name: Upload heap dump on failure
+        if: ${{ failure() }}
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: reconcile-heap-dump-${{ github.run_id }}
+          path: reconcile.hprof
+          if-no-files-found: ignore
+          retention-days: 7
+          compression-level: 9
+
+      - name: Commit any uncommitted progress
+        if: ${{ !cancelled() }}
+        run: |
+          set -euo pipefail
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing left to commit; reconcile pushed everything inline."
+            exit 0
+          fi
+          stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git commit -m "reconcile: tail flush $stamp"
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase || true
+          done
+          echo "Final push failed after 3 attempts" >&2
+          exit 1
