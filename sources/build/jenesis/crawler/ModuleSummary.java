@@ -133,6 +133,8 @@ public final class ModuleSummary {
      * impact of a "reject Maven-vs-module-info version mismatches" policy.
      *
      * <ul>
+     *   <li>{@code total}: distinct module names that have at least one named row.
+     *       Equals {@code clean + partial + fullyLost}.</li>
      *   <li>{@code clean}: at least one named row exists, and none are mismatching. Untouched.</li>
      *   <li>{@code partial}: at least one mismatching row exists, but at least one
      *       non-mismatching row survives across the module's variants. The module loses some
@@ -140,9 +142,12 @@ public final class ModuleSummary {
      *   <li>{@code fullyLost}: every named row across every classifier variant is
      *       mismatching. The module has no surviving row after the drop and disappears from
      *       the module-version lookup space entirely.</li>
+     *   <li>{@code losingLatest}: at least one classifier variant's latest named row is
+     *       mismatching. After the drop, the module's "latest" shifts to an older version
+     *       (or vanishes entirely, if also in {@code fullyLost}).</li>
      * </ul>
      */
-    public record MismatchImpact(int clean, int partial, int fullyLost) {
+    public record MismatchImpact(int total, int clean, int partial, int fullyLost, int losingLatest) {
     }
 
     /**
@@ -379,9 +384,11 @@ public final class ModuleSummary {
         MismatchImpact impact = stats.mismatchImpact();
         builder.append("Sizes the impact of a hypothetical \"drop every mismatching row\" policy, counted once per **distinct module name** (collapsing classifier variants). Modules with no named row are excluded.\n\n");
         builder.append("| Drop-mismatching impact | Module names |\n|---|---:|\n");
+        builder.append("| Total module names with at least one named row | ").append(fmt(impact.total())).append(" |\n");
         builder.append("| Untouched (no mismatching row anywhere) | ").append(fmt(impact.clean())).append(" |\n");
         builder.append("| Partially affected (loses some versions, at least one non-mismatching row survives) | ").append(fmt(impact.partial())).append(" |\n");
-        builder.append("| Fully lost (every named row is mismatching, no surviving row after the drop) | ").append(fmt(impact.fullyLost())).append(" |\n\n");
+        builder.append("| Fully lost (every named row is mismatching, no surviving row after the drop) | ").append(fmt(impact.fullyLost())).append(" |\n");
+        builder.append("| Modules whose latest named row would be dropped (in at least one variant) | ").append(fmt(impact.losingLatest())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -842,6 +849,8 @@ public final class ModuleSummary {
                                 latestModuleVersionExplicit++;
                             } else {
                                 latestModuleVersionMismatching++;
+                                int[] mismatchFlags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
+                                mismatchFlags[0] |= 4;  // some variant's latest row is mismatching
                             }
                             break;
                         }
@@ -1007,10 +1016,12 @@ public final class ModuleSummary {
             int impactClean = 0;
             int impactPartial = 0;
             int impactFullyLost = 0;
+            int impactLosingLatest = 0;
             for (int[] flagBox : moduleNameMismatchFlags.values()) {
                 int flags = flagBox[0];
                 boolean hasMismatch = (flags & 1) != 0;
                 boolean hasNonMismatch = (flags & 2) != 0;
+                boolean latestMismatch = (flags & 4) != 0;
                 if (!hasMismatch) {
                     impactClean++;
                 } else if (hasNonMismatch) {
@@ -1018,8 +1029,13 @@ public final class ModuleSummary {
                 } else {
                     impactFullyLost++;
                 }
+                if (latestMismatch) {
+                    impactLosingLatest++;
+                }
             }
-            MismatchImpact mismatchImpact = new MismatchImpact(impactClean, impactPartial, impactFullyLost);
+            int impactTotal = impactClean + impactPartial + impactFullyLost;
+            MismatchImpact mismatchImpact = new MismatchImpact(
+                    impactTotal, impactClean, impactPartial, impactFullyLost, impactLosingLatest);
             MismatchPatterns mismatchPatterns = new MismatchPatterns(
                     mismatchSnapshotSuffix,
                     mismatchOtherSuffixAdded,
