@@ -5,6 +5,7 @@ import build.jenesis.crawler.model.Coordinate;
 import build.jenesis.crawler.model.CurrentEntry;
 import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
+import build.jenesis.crawler.model.ModuleVersionEntry;
 import build.jenesis.crawler.model.Version;
 
 public final class ModuleStore {
@@ -18,9 +19,12 @@ public final class ModuleStore {
     }
 
     public static final String LEAF_FILE_BASE = "versions";
-    public static final String CURRENT_FILE_BASE = "current";
+    public static final String ARTIFACTS_FILE_BASE = "artifacts";
+    public static final String MODULES_FILE_BASE = "modules";
     public static final String LEAF_FILE_EXTENSION = ".tsv";
     public static final String OWNERS_FILE = "owners.tsv";
+    /** Legacy file base from before the split; deleted on regeneration. */
+    public static final String LEGACY_CURRENT_FILE_BASE = "current";
 
     public static final Comparator<ModuleEntry> CHRONOLOGICAL = Comparator
             .comparingLong(ModuleEntry::publishedAt)
@@ -62,10 +66,22 @@ public final class ModuleStore {
                     : LEAF_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
         }
 
-        public String currentFileName() {
+        public String artifactsFileName() {
             return classifier == null
-                    ? CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
-                    : CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+                    ? ARTIFACTS_FILE_BASE + LEAF_FILE_EXTENSION
+                    : ARTIFACTS_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+        }
+
+        public String modulesFileName() {
+            return classifier == null
+                    ? MODULES_FILE_BASE + LEAF_FILE_EXTENSION
+                    : MODULES_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+        }
+
+        public String legacyCurrentFileName() {
+            return classifier == null
+                    ? LEGACY_CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
+                    : LEGACY_CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
         }
     }
 
@@ -120,15 +136,17 @@ public final class ModuleStore {
     }
 
     /**
-     * Walks the modules tree and regenerates current[-classifier].tsv for every
-     * versions[-classifier].tsv file that doesn't already have a matching current
-     * file. The unit of progress is the (module, classifier) pair: each missing
-     * current file is independently regenerated, and a crash during the walk
-     * leaves the partially-finished module in a fully-recoverable state - the
-     * next invocation skips classifier files that finished and resumes from
-     * exactly the ones still missing. No in-memory module list or separate
-     * progress flag is needed. Returns the number of files actually written
-     * (excluding skipped ones and those that resolved to an empty owner set).
+     * Walks the modules tree and regenerates {@code artifacts[-classifier].tsv} and
+     * {@code modules[-classifier].tsv} for every {@code versions[-classifier].tsv} file
+     * that doesn't already have both companions. The unit of progress is the
+     * (module, classifier) pair: a crash during the walk leaves the partially-finished
+     * module in a fully-recoverable state - the next invocation skips classifier files
+     * that finished and resumes from exactly the ones still missing.
+     *
+     * <p>A module is considered "missing" when EITHER of the two output files is absent,
+     * so existing datasets that only have {@code artifacts.tsv} (or the legacy
+     * {@code current.tsv}) trigger regeneration of both. Returns the number of times
+     * {@link #regenerate(String)} was invoked.
      */
     public long regenerateMissing() throws IOException {
         if (!Files.isDirectory(root)) {
@@ -148,27 +166,23 @@ public final class ModuleStore {
                 if (!isValidModuleName(moduleName)) {
                     continue;
                 }
-                Optional<Owners> owners = null;
+                boolean anyMissing = false;
                 for (ClassifierFile classifierFile : versionFiles) {
-                    Path currentFile = dir.resolve(currentFileName(classifierFile.classifier()));
-                    if (Files.exists(currentFile)) {
-                        continue;
+                    String classifier = classifierFile.classifier();
+                    Path artifactsFile = dir.resolve(artifactsFileName(classifier));
+                    Path modulesFile = dir.resolve(modulesFileName(classifier));
+                    Path legacyCurrentFile = dir.resolve(legacyCurrentFileName(classifier));
+                    if (!Files.exists(artifactsFile) || !Files.exists(modulesFile)
+                            || Files.exists(legacyCurrentFile)) {
+                        anyMissing = true;
+                        break;
                     }
-                    if (owners == null) {
-                        owners = loadOwners(moduleName);
-                    }
-                    List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
-                    List<CurrentEntry> resolved = resolve(versions, owners);
-                    if (resolved.isEmpty()) {
-                        // Empty result is the correct steady state (no current file). Don't
-                        // create one just to satisfy the marker - the absent-current-on-empty
-                        // case re-resolves to the same empty result next run, so it stays
-                        // self-consistent without on-disk state.
-                        continue;
-                    }
-                    writeCurrent(currentFile, resolved);
-                    count++;
                 }
+                if (!anyMissing) {
+                    continue;
+                }
+                regenerate(moduleName);
+                count++;
             }
         }
         return count;
@@ -187,10 +201,21 @@ public final class ModuleStore {
     }
 
     /**
-     * Rebuilds current[-classifier].tsv files for the given module from its
-     * versions.tsv contents intersected with owners.tsv (when present) or the
-     * implicit-owner rule (when absent). Existing current.tsv files for the
-     * module that no longer have content are deleted.
+     * Rebuilds {@code artifacts[-classifier].tsv} and {@code modules[-classifier].tsv} files
+     * for the given module from its {@code versions.tsv} contents intersected with
+     * {@code owners.tsv} (when present) or the implicit-owner rule (when absent). Existing
+     * output files that no longer have content are deleted. Stale {@code current[-classifier].tsv}
+     * files from the pre-split era are deleted unconditionally so a renamed-on-disk dataset
+     * doesn't carry the old name forward.
+     *
+     * <p>{@code artifacts.tsv} carries the per-Maven-version resolution (one row per Maven
+     * version that survives the owners filter). {@code modules.tsv} carries the per-module-version
+     * resolution (one row per declared {@code module-info} version, falling back to the Maven
+     * version when {@code module-info} declared none), with oldest-{@code publishedAt} winning
+     * any module-version collision so the mapping is stable across runs even though Maven
+     * doesn't require module versions to be unique. Only named-module rows feed {@code modules.tsv}:
+     * if the resolved owner publishes only automatic modules, no {@code modules.tsv} is written
+     * (and any existing one is removed).
      */
     public void regenerate(String moduleName) throws IOException {
         if (!isValidModuleName(moduleName)) {
@@ -203,12 +228,40 @@ public final class ModuleStore {
         Optional<Owners> owners = loadOwners(moduleName);
         for (ClassifierFile classifierFile : listVersionFiles(dir)) {
             List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
-            List<CurrentEntry> resolved = resolve(versions, owners);
-            Path currentFile = dir.resolve(currentFileName(classifierFile.classifier()));
-            if (resolved.isEmpty()) {
-                Files.deleteIfExists(currentFile);
+            String classifier = classifierFile.classifier();
+            List<CurrentEntry> artifacts = resolve(versions, owners);
+            Path artifactsFile = dir.resolve(artifactsFileName(classifier));
+            if (artifacts.isEmpty()) {
+                Files.deleteIfExists(artifactsFile);
             } else {
-                writeCurrent(currentFile, resolved);
+                writeCurrent(artifactsFile, artifacts);
+            }
+            List<ModuleVersionEntry> modules = resolveModules(versions, owners);
+            Path modulesFile = dir.resolve(modulesFileName(classifier));
+            if (modules.isEmpty()) {
+                Files.deleteIfExists(modulesFile);
+            } else {
+                writeModules(modulesFile, modules);
+            }
+        }
+        // Sweep any pre-split current[-classifier].tsv files in this module directory. We
+        // can't key the sweep off classifier files because a classifier may exist in the
+        // legacy data without a matching versions file (the resolver might have written one
+        // before its source got cleaned up). A directory-level scan catches all of them.
+        try (DirectoryStream<Path> entries = Files.newDirectoryStream(dir)) {
+            for (Path entry : entries) {
+                if (!Files.isRegularFile(entry)) {
+                    continue;
+                }
+                String name = entry.getFileName().toString();
+                if (!name.endsWith(LEAF_FILE_EXTENSION)) {
+                    continue;
+                }
+                String stem = name.substring(0, name.length() - LEAF_FILE_EXTENSION.length());
+                if (stem.equals(LEGACY_CURRENT_FILE_BASE)
+                        || stem.startsWith(LEGACY_CURRENT_FILE_BASE + '-')) {
+                    Files.deleteIfExists(entry);
+                }
             }
         }
     }
@@ -221,10 +274,22 @@ public final class ModuleStore {
         return path;
     }
 
-    private static String currentFileName(String classifier) {
+    private static String artifactsFileName(String classifier) {
         return classifier == null
-                ? CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
-                : CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+                ? ARTIFACTS_FILE_BASE + LEAF_FILE_EXTENSION
+                : ARTIFACTS_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+    }
+
+    private static String modulesFileName(String classifier) {
+        return classifier == null
+                ? MODULES_FILE_BASE + LEAF_FILE_EXTENSION
+                : MODULES_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
+    }
+
+    private static String legacyCurrentFileName(String classifier) {
+        return classifier == null
+                ? LEGACY_CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
+                : LEGACY_CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
     }
 
     private record ClassifierFile(String classifier, Path path) {
@@ -261,29 +326,53 @@ public final class ModuleStore {
     }
 
     /**
+     * Apply the resolution rule for {@code modules.tsv}: same owner filtering as
+     * {@link #resolve}, but the grouping key is the module-info version (or the Maven
+     * coordinate version when {@code module-info} declared no version), only named-module
+     * rows count (automatic modules have no {@code module-info} version to key on), and
+     * for each distinct module version the row with the oldest {@code publishedAt} wins.
+     * Returns an empty list when the resolved owner has no named rows, which the caller
+     * uses to delete any existing {@code modules.tsv}.
+     */
+    private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<Owners> owners) {
+        if (versions.isEmpty()) {
+            return List.of();
+        }
+        List<ModuleEntry> allowed = applyOwners(versions, owners);
+        if (allowed.isEmpty()) {
+            return List.of();
+        }
+        Comparator<ModuleEntry> pickOrder = Comparator
+                .comparingLong(ModuleEntry::publishedAt)
+                .thenComparing(ModuleEntry::groupId)
+                .thenComparing(ModuleEntry::artifactId);
+        Map<String, ModuleEntry> bestByModuleVersion = new LinkedHashMap<>();
+        for (ModuleEntry entry : allowed) {
+            if (entry.type() != ModuleType.NAMED) {
+                continue;
+            }
+            String moduleVersionKey = entry.moduleVersion().isEmpty()
+                    ? entry.mavenVersion().raw()
+                    : entry.moduleVersion();
+            bestByModuleVersion.merge(moduleVersionKey, entry,
+                    (existing, candidate) -> pickOrder.compare(candidate, existing) < 0 ? candidate : existing);
+        }
+        return bestByModuleVersion.values().stream()
+                .map(ModuleVersionEntry::of)
+                .sorted(ModuleVersionEntry.NEWEST_FIRST)
+                .collect(Collectors.toCollection(ArrayList::new));
+    }
+
+    /**
      * Apply the resolution rule: filter by owners (or implicit-owner rule), then
-     * for each (version) pick the row with the oldest publishedAt - that becomes
-     * the canonical current.tsv row.
+     * for each (Maven version) pick the row with the oldest publishedAt - that becomes
+     * the canonical {@code artifacts.tsv} row.
      */
     private static List<CurrentEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners) {
         if (versions.isEmpty()) {
             return List.of();
         }
-        List<ModuleEntry> allowed;
-        if (owners.isPresent()) {
-            Owners policy = owners.get();
-            allowed = versions.stream()
-                    .filter(entry -> policy.allows(entry.groupId(), entry.artifactId()))
-                    .toList();
-        } else {
-            String implicitOwner = versions.stream()
-                    .min(Comparator.comparingLong(ModuleEntry::publishedAt).thenComparing(ModuleEntry::groupId))
-                    .map(ModuleEntry::groupId)
-                    .orElseThrow();
-            allowed = versions.stream()
-                    .filter(entry -> entry.groupId().equals(implicitOwner))
-                    .toList();
-        }
+        List<ModuleEntry> allowed = applyOwners(versions, owners);
         if (allowed.isEmpty()) {
             return List.of();
         }
@@ -301,6 +390,28 @@ public final class ModuleStore {
                 .sorted(CurrentEntry.NEWEST_FIRST)
                 .collect(Collectors.toCollection(ArrayList::new));
         return result;
+    }
+
+    /**
+     * Filter {@code versions} down to the rows allowed by the policy: when {@code owners}
+     * is present, only rows whose {@code (groupId, artifactId)} the policy admits; when
+     * absent, the implicit-owner rule applies - the {@code groupId} that first published
+     * the module wins, and only its rows are kept.
+     */
+    private static List<ModuleEntry> applyOwners(List<ModuleEntry> versions, Optional<Owners> owners) {
+        if (owners.isPresent()) {
+            Owners policy = owners.get();
+            return versions.stream()
+                    .filter(entry -> policy.allows(entry.groupId(), entry.artifactId()))
+                    .toList();
+        }
+        String implicitOwner = versions.stream()
+                .min(Comparator.comparingLong(ModuleEntry::publishedAt).thenComparing(ModuleEntry::groupId))
+                .map(ModuleEntry::groupId)
+                .orElseThrow();
+        return versions.stream()
+                .filter(entry -> entry.groupId().equals(implicitOwner))
+                .toList();
     }
 
     private Optional<Owners> loadOwners(String moduleName) throws IOException {
@@ -361,6 +472,18 @@ public final class ModuleStore {
         Path temp = file.resolveSibling(file.getFileName() + ".tmp");
         try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
             for (CurrentEntry entry : entries) {
+                writer.write(entry.format());
+                writer.newLine();
+            }
+        }
+        atomicMove(temp, file);
+    }
+
+    private static void writeModules(Path file, List<ModuleVersionEntry> entries) throws IOException {
+        ensureParent(file);
+        Path temp = file.resolveSibling(file.getFileName() + ".tmp");
+        try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
+            for (ModuleVersionEntry entry : entries) {
                 writer.write(entry.format());
                 writer.newLine();
             }

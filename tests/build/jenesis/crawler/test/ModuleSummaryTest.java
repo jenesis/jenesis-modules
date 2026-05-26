@@ -23,7 +23,7 @@ public class ModuleSummaryTest {
                 "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
                 "0.7\tautomatic\tcom.example\tlib\t2023-10-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
-        writeCurrentMirror(moduleDir,
+        writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib",
                 "1.2\tnamed\tcom.example\tlib",
@@ -57,7 +57,7 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t9.9\n",
                 StandardCharsets.UTF_8);
-        writeCurrentMirror(moduleDir,
+        writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib");
         System.setProperty(ModuleSummary.PROP_DATA, dataDir.toString());
@@ -128,7 +128,7 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "1.1\tnamed\tcom.example\tlib\t2024-02-01T00:00:00Z\t1.1\n",
                 StandardCharsets.UTF_8);
-        writeCurrentMirror(libDir,
+        writeArtifactsMirror(libDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib");
         Files.writeString(libDir.resolve("versions-jar-with-dependencies.tsv"),
@@ -208,7 +208,7 @@ public class ModuleSummaryTest {
                 "1.0\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t\n",
                 StandardCharsets.UTF_8);
-        writeCurrentMirror(moduleDir,
+        writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "0.9\tautomatic\tcom.example\tlib");
         // 5 scanned rows: 2 successes that produced modules (covered by versions.tsv above),
@@ -239,7 +239,7 @@ public class ModuleSummaryTest {
                 "0.9\tautomatic\tcom.example\tlib\t2023-12-01T00:00:00Z\t",
                 "0.8\tautomatic\tcom.example\tlib\t2023-11-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
-        writeCurrentMirror(moduleDir,
+        writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib",
                 "1.2\tnamed\tcom.example\tlib",
@@ -268,7 +268,7 @@ public class ModuleSummaryTest {
                 // Way out of window: should be ignored
                 "0.1\tnamed\tcom.example\tlib\t2020-01-01T00:00:00Z\t"
         ) + "\n", StandardCharsets.UTF_8);
-        writeCurrentMirror(moduleDir,
+        writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "1.1\tnamed\tcom.example\tlib",
                 "0.9\tautomatic\tcom.example\tlib",
@@ -309,10 +309,10 @@ public class ModuleSummaryTest {
             current.append(i).append(".0\tnamed\tcom.example\t").append(moduleName).append('\n');
         }
         Files.writeString(dir.resolve("versions.tsv"), versions.toString(), StandardCharsets.UTF_8);
-        Files.writeString(dir.resolve("current.tsv"), current.toString(), StandardCharsets.UTF_8);
+        Files.writeString(dir.resolve("artifacts.tsv"), current.toString(), StandardCharsets.UTF_8);
     }
 
-    private static void writeCurrentMirror(Path moduleDir, String... entries) throws IOException {
-        Files.writeString(moduleDir.resolve("current.tsv"), String.join("\n", entries) + "\n", StandardCharsets.UTF_8);
+    private static void writeArtifactsMirror(Path moduleDir, String... entries) throws IOException {
+        Files.writeString(moduleDir.resolve("artifacts.tsv"), String.join("\n", entries) + "\n", StandardCharsets.UTF_8);
     }
 }

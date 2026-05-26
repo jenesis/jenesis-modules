@@ -41,7 +41,7 @@ public class CrawlerChainIntegrationTest {
             assertThat(afterFull.indexChunkLastApplied()).isEqualTo(0L);
             assertThat(afterFull.hasPendingFullScan()).isFalse();
 
-            // Modules from full sync are recorded and current.tsv is materialised
+            // Modules from full sync are recorded and artifacts.tsv is materialised
             // (drainDirty is invoked at chunk boundary).
             assertModulePresent(dataDir, "com.example.named.mod", "1.0");
             assertModulePresent(dataDir, "com.example.auto.mod", "1.0");

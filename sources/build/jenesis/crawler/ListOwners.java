@@ -56,7 +56,7 @@ public final class ListOwners {
                 if (onlyMissingOwners && hasOwners) {
                     continue;
                 }
-                List<String> owners = ownersFromCurrent(moduleDir, groupOnly);
+                List<String> owners = ownersFromArtifacts(moduleDir, groupOnly);
                 if (owners.isEmpty()) {
                     continue;
                 }
@@ -97,7 +97,7 @@ public final class ListOwners {
                     continue;
                 }
                 String name = entry.getFileName().toString();
-                if (isVersionsFile(name) || isCurrentFile(name)) {
+                if (isVersionsFile(name) || isArtifactsFile(name)) {
                     return true;
                 }
             }
@@ -116,13 +116,13 @@ public final class ListOwners {
                 || stem.startsWith(ModuleStore.LEAF_FILE_BASE + '-');
     }
 
-    private static boolean isCurrentFile(String name) {
+    private static boolean isArtifactsFile(String name) {
         if (!name.endsWith(ModuleStore.LEAF_FILE_EXTENSION)) {
             return false;
         }
         String stem = name.substring(0, name.length() - ModuleStore.LEAF_FILE_EXTENSION.length());
-        return stem.equals(ModuleStore.CURRENT_FILE_BASE)
-                || stem.startsWith(ModuleStore.CURRENT_FILE_BASE + '-');
+        return stem.equals(ModuleStore.ARTIFACTS_FILE_BASE)
+                || stem.startsWith(ModuleStore.ARTIFACTS_FILE_BASE + '-');
     }
 
     private static List<PathMatcher> compileGlobs(List<String> globs) {
@@ -135,14 +135,14 @@ public final class ListOwners {
         return matchers;
     }
 
-    private static List<String> ownersFromCurrent(Path moduleDir, boolean groupOnly) throws IOException {
+    private static List<String> ownersFromArtifacts(Path moduleDir, boolean groupOnly) throws IOException {
         SortedSet<String> owners = new TreeSet<>();
         try (DirectoryStream<Path> entries = Files.newDirectoryStream(moduleDir)) {
             for (Path entry : entries) {
                 if (!Files.isRegularFile(entry)) {
                     continue;
                 }
-                if (!isCurrentFile(entry.getFileName().toString())) {
+                if (!isArtifactsFile(entry.getFileName().toString())) {
                     continue;
                 }
                 try (Stream<String> lines = Files.lines(entry, StandardCharsets.UTF_8)) {

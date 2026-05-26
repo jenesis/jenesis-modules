@@ -43,8 +43,8 @@ public class ListOwnersTest {
     }
 
     @Test
-    public void emits_group_ids_only_from_current_tsv_by_default() throws IOException {
-        // current.tsv has multiple groupIds (because owners.tsv allowed several); listing collapses to groupIds.
+    public void emits_group_ids_only_from_artifacts_tsv_by_default() throws IOException {
+        // artifacts.tsv has multiple groupIds (because owners.tsv allowed several); listing collapses to groupIds.
         writeCurrent("com.example.lib", null, """
                 1.0\tnamed\tcom.example\tlib
                 0.9\tnamed\thostile.group\timposter
@@ -153,7 +153,7 @@ public class ListOwnersTest {
 
     @Test
     public void skips_modules_with_no_current_tsv() throws IOException {
-        // versions.tsv exists but current.tsv is missing (e.g. stage 2 hasn't run yet).
+        // versions.tsv exists but artifacts.tsv is missing (e.g. stage 2 hasn't run yet).
         Path dir = modulesRoot.resolve("pending").resolve("module");
         Files.createDirectories(dir);
         Files.writeString(dir.resolve("versions.tsv"), "1.0\tnamed\tx.org\tlib\t2024-01-01T00:00:00Z\n");
@@ -170,8 +170,8 @@ public class ListOwnersTest {
         }
         Files.createDirectories(dir);
         String file = classifier == null
-                ? "current.tsv"
-                : "current-" + classifier + ".tsv";
+                ? "artifacts.tsv"
+                : "artifacts-" + classifier + ".tsv";
         Files.writeString(dir.resolve(file), content);
         return dir;
     }

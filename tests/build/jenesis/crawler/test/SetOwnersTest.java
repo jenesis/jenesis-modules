@@ -24,7 +24,7 @@ public class SetOwnersTest {
     }
 
     @Test
-    public void writes_owners_file_and_regenerates_current_tsv_leaving_versions_intact() throws IOException {
+    public void writes_owners_file_and_regenerates_artifacts_tsv_leaving_versions_intact() throws IOException {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("com").resolve("example").resolve("lib"));
         Files.writeString(moduleDir.resolve("versions.tsv"), """
@@ -41,8 +41,8 @@ public class SetOwnersTest {
                 .containsExactly("com.example\tlib");
         // versions.tsv is the audit log - untouched, all three rows still present.
         assertThat(Files.readAllLines(moduleDir.resolve("versions.tsv"))).hasSize(3);
-        // current.tsv reflects the policy: only com.example:lib rows, no timestamp column.
-        assertThat(Files.readAllLines(moduleDir.resolve("current.tsv"))).containsExactly(
+        // artifacts.tsv reflects the policy: only com.example:lib rows, no timestamp column.
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv"))).containsExactly(
                 "2.0\tnamed\tcom.example\tlib",
                 "1.0\tnamed\tcom.example\tlib");
     }
@@ -63,13 +63,13 @@ public class SetOwnersTest {
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
                 .containsExactly("trusted.org");
-        assertThat(Files.readAllLines(moduleDir.resolve("current.tsv"))).containsExactly(
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv"))).containsExactly(
                 "2.0\tnamed\ttrusted.org\textras",
                 "1.0\tnamed\ttrusted.org\tcore");
     }
 
     @Test
-    public void empty_value_clears_owners_and_deletes_current_tsv() throws IOException {
+    public void empty_value_clears_owners_and_deletes_artifacts_tsv() throws IOException {
         Path moduleDir = Files.createDirectories(root.resolve("data").resolve("modules")
                 .resolve("com").resolve("example").resolve("gone"));
         Files.writeString(moduleDir.resolve("versions.tsv"),
@@ -83,8 +83,8 @@ public class SetOwnersTest {
         assertThat(Files.size(moduleDir.resolve("owners.tsv"))).isZero();
         // Audit log preserved.
         assertThat(moduleDir.resolve("versions.tsv")).exists();
-        // Empty allowlist -> empty resolved view -> current.tsv removed.
-        assertThat(moduleDir.resolve("current.tsv")).doesNotExist();
+        // Empty allowlist -> empty resolved view -> artifacts.tsv removed.
+        assertThat(moduleDir.resolve("artifacts.tsv")).doesNotExist();
     }
 
     @Test
@@ -105,7 +105,7 @@ public class SetOwnersTest {
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
                 .containsExactly("a.example", "b.example\tcore");
-        assertThat(Files.readAllLines(moduleDir.resolve("current.tsv"))).containsExactly(
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv"))).containsExactly(
                 "2.0\tnamed\tb.example\tcore",
                 "1.0\tnamed\ta.example\tcore");
     }
@@ -125,9 +125,9 @@ public class SetOwnersTest {
 
         SetOwners.main(new String[]{props.toString()});
 
-        assertThat(Files.readAllLines(moduleDir.resolve("current.tsv")))
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv")))
                 .containsExactly("1.0\tnamed\tkeeper\tcore");
-        assertThat(Files.readAllLines(moduleDir.resolve("current-jakarta.tsv")))
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts-jakarta.tsv")))
                 .containsExactly("1.0\tnamed\tkeeper\tcore");
         // versions.tsv untouched.
         assertThat(Files.readAllLines(moduleDir.resolve("versions-jakarta.tsv"))).hasSize(2);

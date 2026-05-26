@@ -122,7 +122,7 @@ public class ModuleStoreTest {
     }
 
     @Test
-    public void regenerate_writes_current_tsv_using_implicit_owner_when_no_owners_file() throws IOException {
+    public void regenerate_writes_artifacts_tsv_using_implicit_owner_when_no_owners_file() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("contested.module", ModuleType.NAMED, null, ts("canonical.org", "lib", "1.0", null, 1_700_000_000_000L));
         store.record("contested.module", ModuleType.NAMED, null, ts("canonical.org", "lib", "3.0", null, 1_710_000_000_000L));
@@ -131,16 +131,16 @@ public class ModuleStoreTest {
 
         store.regenerate("contested.module");
 
-        Path current = root.resolve("contested").resolve("module").resolve("current.tsv");
+        Path current = root.resolve("contested").resolve("module").resolve("artifacts.tsv");
         List<String> lines = Files.readAllLines(current, StandardCharsets.UTF_8);
-        // current.tsv has only the implicit owner's rows (canonical.org), sorted version desc, 4 columns (no timestamp).
+        // artifacts.tsv has only the implicit owner's rows (canonical.org), sorted version desc, 4 columns (no timestamp).
         assertThat(lines).containsExactly(
                 "3.0\tnamed\tcanonical.org\tlib",
                 "1.0\tnamed\tcanonical.org\tlib");
     }
 
     @Test
-    public void regenerate_writes_current_tsv_constrained_by_owners_file() throws IOException {
+    public void regenerate_writes_artifacts_tsv_constrained_by_owners_file() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("guarded.module", ModuleType.NAMED, null, ts("a.org", "lib", "1.0", null, 1_700_000_000_000L));
         store.record("guarded.module", ModuleType.NAMED, null, ts("b.org", "lib", "2.0", null, 1_710_000_000_000L));
@@ -152,7 +152,7 @@ public class ModuleStoreTest {
 
         store.regenerate("guarded.module");
 
-        List<String> lines = Files.readAllLines(moduleDir.resolve("current.tsv"));
+        List<String> lines = Files.readAllLines(moduleDir.resolve("artifacts.tsv"));
         // c.org is filtered out by owners.tsv; a.org and b.org both pass; sorted version desc.
         assertThat(lines).containsExactly(
                 "2.0\tnamed\tb.org\tlib",
@@ -173,12 +173,12 @@ public class ModuleStoreTest {
         store.regenerate("shared.module");
 
         // For the shared version 1.0, the row with the oldest publishedAt wins.
-        assertThat(Files.readAllLines(moduleDir.resolve("current.tsv")))
+        assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv")))
                 .containsExactly("1.0\tnamed\tcanonical.org\tlib");
     }
 
     @Test
-    public void regenerate_deletes_current_tsv_when_policy_filters_out_everything() throws IOException {
+    public void regenerate_deletes_artifacts_tsv_when_policy_filters_out_everything() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("blocked.module", ModuleType.NAMED, null, ts("a.org", "lib", "1.0", null, 1L));
         store.flush();
@@ -188,7 +188,7 @@ public class ModuleStoreTest {
 
         store.regenerate("blocked.module");
 
-        assertThat(moduleDir.resolve("current.tsv")).doesNotExist();
+        assertThat(moduleDir.resolve("artifacts.tsv")).doesNotExist();
         // versions.tsv stays as the audit log
         assertThat(moduleDir.resolve("versions.tsv")).exists();
     }
@@ -203,10 +203,68 @@ public class ModuleStoreTest {
         store.regenerate("classy.module");
 
         Path dir = root.resolve("classy").resolve("module");
-        assertThat(Files.readAllLines(dir.resolve("current.tsv")))
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv")))
                 .containsExactly("1.0\tnamed\tcanon.org\tlib");
-        assertThat(Files.readAllLines(dir.resolve("current-jakarta.tsv")))
+        assertThat(Files.readAllLines(dir.resolve("artifacts-jakarta.tsv")))
                 .containsExactly("1.0\tnamed\tcanon.org\tlib");
+    }
+
+    @Test
+    public void regenerate_writes_modules_tsv_keyed_by_module_info_version() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // Two Maven versions declare module-info version "1.0" - first publish wins for modules.tsv.
+        store.record("repeat.module", ModuleType.NAMED, "1.0", ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("repeat.module", ModuleType.NAMED, "1.0", ts("canon.org", "lib", "1.0.0.1", null, 1_710_000_000_000L));
+        // Distinct module-info version - gets its own row.
+        store.record("repeat.module", ModuleType.NAMED, "2.0", ts("canon.org", "lib", "2.0", null, 1_720_000_000_000L));
+        // Empty module-info version - falls back to the Maven version.
+        store.record("repeat.module", ModuleType.NAMED, "", ts("canon.org", "lib", "3.0", null, 1_730_000_000_000L));
+        store.flush();
+
+        store.regenerate("repeat.module");
+
+        Path modules = root.resolve("repeat").resolve("module").resolve("modules.tsv");
+        // Sorted by moduleVersion desc, 4 cols: moduleVersion, groupId, artifactId, mavenVersion.
+        // module-version 1.0 maps to the OLDER Maven coordinate (1.0), not 1.0.0.1.
+        assertThat(Files.readAllLines(modules)).containsExactly(
+                "3.0\tcanon.org\tlib\t3.0",
+                "2.0\tcanon.org\tlib\t2.0",
+                "1.0\tcanon.org\tlib\t1.0");
+    }
+
+    @Test
+    public void regenerate_omits_modules_tsv_when_owner_publishes_only_automatic() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("automatic.only", ModuleType.AUTOMATIC, "", ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("automatic.only", ModuleType.AUTOMATIC, "", ts("canon.org", "lib", "2.0", null, 1_710_000_000_000L));
+        store.flush();
+
+        store.regenerate("automatic.only");
+
+        Path dir = root.resolve("automatic").resolve("only");
+        // artifacts.tsv still gets written - automatic rows belong there.
+        assertThat(dir.resolve("artifacts.tsv")).exists();
+        // modules.tsv is intentionally absent - automatic modules have no module-info version.
+        assertThat(dir.resolve("modules.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void regenerate_deletes_stale_legacy_current_tsv() throws IOException {
+        Path moduleDir = Files.createDirectories(root.resolve("legacy").resolve("module"));
+        // Hand-write a pre-rename current.tsv so we can verify it gets swept.
+        Files.writeString(moduleDir.resolve("current.tsv"), "0.9\tnamed\tg\ta\n",
+                StandardCharsets.UTF_8);
+        Files.writeString(moduleDir.resolve("current-jakarta.tsv"), "0.9\tnamed\tg\ta\n",
+                StandardCharsets.UTF_8);
+
+        ModuleStore store = new ModuleStore(root);
+        store.record("legacy.module", ModuleType.NAMED, null, ts("g", "a", "1.0", null, 1_700_000_000_000L));
+        store.flush();
+        store.regenerate("legacy.module");
+
+        assertThat(moduleDir.resolve("current.tsv")).doesNotExist();
+        assertThat(moduleDir.resolve("current-jakarta.tsv")).doesNotExist();
+        assertThat(moduleDir.resolve("artifacts.tsv")).exists();
     }
 
     @Test
