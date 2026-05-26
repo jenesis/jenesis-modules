@@ -3,32 +3,40 @@
  * artifact URLs by consulting this repository's published `data/modules/<dotted/path>/`
  * directories and returning a 302 redirect.
  *
- * Two resolution modes:
+ * Four resolution modes:
  *
- *  - `/artifact/<moduleName>/[<version>/]<filename>.jar`
- *    Resolves through `artifacts[-<classifier>].tsv`. The version segment is the **Maven
- *    coordinate version**. This is the historical lookup: many Maven versions of the same
- *    module name may exist (one row per Maven version), so the version space is dense.
+ *  - `/artifact/<moduleName>/[<version>/]<filename>`
+ *    Transparent Maven proxy keyed by module name. Resolves the canonical Maven coordinate
+ *    via `artifacts[-<classifier>].tsv` and translates the request filename to the
+ *    corresponding Maven filename verbatim. Anything after `<moduleName>` (or after
+ *    `<moduleName>-<classifier>`) passes through unchanged. Examples:
+ *      `<moduleName>.jar`              → `<artifactId>-<version>.jar`
+ *      `<moduleName>.pom`              → `<artifactId>-<version>.pom`
+ *      `<moduleName>.pom.sha256`       → `<artifactId>-<version>.pom.sha256`
+ *      `<moduleName>.module`           → `<artifactId>-<version>.module`
+ *      `<moduleName>-<c>.jar`          → `<artifactId>-<version>-<c>.jar`
+ *      `<moduleName>-<c>.pom.sha512`   → `<artifactId>-<version>-<c>.pom.sha512`
+ *    The version segment is the **Maven coordinate version**. The classifier `<c>` flips
+ *    the lookup from `artifacts.tsv` to `artifacts-<c>.tsv` and becomes a standard Maven
+ *    classifier on the resulting filename.
  *
  *  - `/module/<moduleName>/[<version>/]<filename>.jar`
  *    Resolves through `modules[-<classifier>].tsv`. The version segment is the
  *    **module-info version** (the publisher's declared module version, falling back to the
  *    Maven version when no module-info version was declared). Each module-version maps to
  *    exactly one Maven coordinate - the oldest Maven publish wins, so the mapping is
- *    stable even though Maven doesn't enforce unique module versions.
+ *    stable even though Maven doesn't enforce unique module versions. Filename is
+ *    `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; only `.jar` is supported on
+ *    this route.
  *
  *  - `/sources/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    `/documentation/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    Companion sources / javadoc JARs. The version segment is the **module-info version**;
  *    these routes resolve through `modules.tsv` and synthesise the `-sources` / `-javadoc`
- *    URL from the row's Maven coordinate. (Maven Central doesn't separately index sources
- *    or javadoc artifacts; we trust the publisher attached them to the same coordinate.)
+ *    URL from the row's Maven coordinate.
  *
- * In all four cases the version segment is optional - leaving it out picks the first row
- * in the TSV (highest version, since both files are sorted descending). `<filename>` is
- * `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; a classifier flips the lookup
- * from `<base>.tsv` to `<base>-<classifier>.tsv` (where `<base>` is `artifacts` or
- * `modules`).
+ * In every mode the version segment is optional - leaving it out picks the first row in
+ * the TSV (highest version, since both files are sorted descending).
  *
  * The worker is indifferent to any path segments preceding the mode marker - only the
  * trailing three or four segments are inspected - so it can be deployed behind any
@@ -56,14 +64,16 @@ const STALE_WHILE_REVALIDATE = 86400;
 // `<moduleName>-<classifier>` basename at the first hyphen.
 const MODULE_SEGMENT = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
 
-// Resolution modes. The "tsv" property is the TSV file base name; "filenameSuffix" is the
-// Maven-side filename decoration ("-sources" / "-javadoc") added before ".jar" when
-// building the redirect target.
+// Resolution modes. `tsv` is the TSV file base name. `filenameSuffix` is the Maven-side
+// filename decoration ("-sources" / "-javadoc") spliced before the extension when building
+// the redirect target. `extension` constrains the request filename: `null` means the
+// request extension passes through verbatim to the Maven URL (transparent proxy);
+// otherwise the request must end in `.<extension>` and that's also what the Maven URL gets.
 const MODES = {
-    artifact: { tsv: "artifacts", filenameSuffix: "" },
-    module: { tsv: "modules", filenameSuffix: "" },
-    sources: { tsv: "modules", filenameSuffix: "-sources" },
-    documentation: { tsv: "modules", filenameSuffix: "-javadoc" },
+    artifact: { tsv: "artifacts", filenameSuffix: "", extension: null },
+    module: { tsv: "modules", filenameSuffix: "", extension: "jar" },
+    sources: { tsv: "modules", filenameSuffix: "-sources", extension: "jar" },
+    documentation: { tsv: "modules", filenameSuffix: "-javadoc", extension: "jar" },
 };
 
 export default {
@@ -92,7 +102,7 @@ async function handleRequest(request, env) {
     if (!parsed) {
         return textResponse(404, "Not Found\n");
     }
-    const { moduleName, version, classifier, mode } = parsed;
+    const { moduleName, version, classifier, extension, mode } = parsed;
     const config = MODES[mode];
 
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
@@ -129,11 +139,11 @@ async function handleRequest(request, env) {
         );
     }
 
-    const jarUrl = artifactUrl(artifactBase, row, classifier, config.filenameSuffix);
+    const target = artifactUrl(artifactBase, row, classifier, extension, config.filenameSuffix);
     return new Response(null, {
         status: 302,
         headers: {
-            Location: jarUrl,
+            Location: target,
             "Cache-Control": `public, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
             "X-Jenesis-GroupId": row.groupId,
             "X-Jenesis-ArtifactId": row.artifactId,
@@ -144,12 +154,18 @@ async function handleRequest(request, env) {
 }
 
 /**
- * Parse a request path into `{ moduleName, version, classifier, mode }` or return `null`
- * if the path doesn't fit a supported shape. Only the trailing 3-4 segments are inspected.
+ * Parse a request path into `{ moduleName, version, classifier, extension, mode }` or
+ * return `null` if the path doesn't fit a supported shape. Only the trailing 3-4 segments
+ * are inspected.
  *
  * `mode` is one of `artifact`, `module`, `sources`, `documentation` - see {@link MODES}.
+ * For `artifact`, `extension` is whatever follows the module-name (or
+ * `-<classifier>`) suffix in the filename - any string the Maven layer might serve. For the
+ * other modes the extension is constrained to `jar`.
  *
- * `<filename>` is `<moduleName>.jar` or `<moduleName>-<classifier>.jar`.
+ * The module-name path segment must match the filename prefix; the rest of the filename
+ * begins with `.` (no classifier) or `-` (classifier). After the classifier a `.` is
+ * mandatory and the rest is the extension.
  */
 function parsePath(pathname) {
     const parts = pathname.split("/").filter((p) => p.length > 0);
@@ -157,49 +173,95 @@ function parsePath(pathname) {
         return null;
     }
     const filename = parts[parts.length - 1];
-    if (!filename.endsWith(".jar")) {
-        return null;
-    }
-    const basename = filename.slice(0, -".jar".length);
-    if (basename.length === 0) {
-        return null;
-    }
 
-    const hyphen = basename.indexOf("-");
-    const fileModule = hyphen < 0 ? basename : basename.slice(0, hyphen);
-    const classifier = hyphen < 0 ? null : basename.slice(hyphen + 1);
-
-    if (!isModuleName(fileModule) || (classifier && classifier.length === 0)) {
-        return null;
+    // Locate the module-name path segment: prefer the versioned shape
+    // (.../mode/module/version/filename) and fall back to the unversioned shape
+    // (.../mode/module/filename). The path segment must be both a valid module name and a
+    // prefix of the filename followed by `.` or `-`.
+    let moduleStart = -1;
+    let version = null;
+    let moduleName = null;
+    let suffix = null;
+    if (parts.length >= 4) {
+        const candidate = parts[parts.length - 3];
+        const tail = matchModuleSegment(candidate, filename);
+        if (tail !== null) {
+            moduleStart = parts.length - 3;
+            version = parts[parts.length - 2];
+            moduleName = candidate;
+            suffix = tail;
+        }
     }
-
-    // Locate the start of the module section: either parts[length-2] (latest) or
-    // parts[length-3] (versioned). Prefer the versioned interpretation when both could
-    // match, so a path like /<prefix>/<mode>/<moduleName>/<version>/<filename>.jar with
-    // `<prefix>` being any mount prefix still resolves correctly.
-    const dir = parts[parts.length - 2];
-    let moduleStart;
-    let version;
-    if (parts.length >= 4 && parts[parts.length - 3] === fileModule) {
-        moduleStart = parts.length - 3;
-        version = dir;
-    } else if (dir === fileModule) {
+    if (moduleName === null) {
+        const candidate = parts[parts.length - 2];
+        const tail = matchModuleSegment(candidate, filename);
+        if (tail === null) {
+            return null;
+        }
         moduleStart = parts.length - 2;
         version = null;
-    } else {
-        return null;
+        moduleName = candidate;
+        suffix = tail;
     }
 
     // Mode marker is mandatory: segment immediately before the module section.
     if (moduleStart < 1) {
         return null;
     }
-    const before = parts[moduleStart - 1];
-    if (!Object.hasOwn(MODES, before)) {
+    const mode = parts[moduleStart - 1];
+    if (!Object.hasOwn(MODES, mode)) {
         return null;
     }
 
-    return { moduleName: fileModule, version, classifier, mode: before };
+    // Split `suffix` (starts with `.` or `-`) into optional classifier + extension.
+    let classifier;
+    let extension;
+    if (suffix.startsWith(".")) {
+        classifier = null;
+        extension = suffix.slice(1);
+    } else {
+        const dot = suffix.indexOf(".");
+        if (dot < 0) {
+            return null;
+        }
+        classifier = suffix.slice(1, dot);
+        extension = suffix.slice(dot + 1);
+        if (classifier.length === 0) {
+            return null;
+        }
+    }
+    if (extension.length === 0) {
+        return null;
+    }
+
+    const required = MODES[mode].extension;
+    if (required !== null && extension !== required) {
+        return null;
+    }
+
+    return { moduleName, version, classifier, extension, mode };
+}
+
+/**
+ * Returns the filename suffix (starting with `.` or `-`) when `segment` is a valid module
+ * name and `filename` is `<segment>.<...>` or `<segment>-<...>`. Returns `null` otherwise.
+ */
+function matchModuleSegment(segment, filename) {
+    if (!isModuleName(segment)) {
+        return null;
+    }
+    if (!filename.startsWith(segment)) {
+        return null;
+    }
+    const tail = filename.slice(segment.length);
+    if (tail.length === 0) {
+        return null;
+    }
+    const first = tail.charAt(0);
+    if (first !== "." && first !== "-") {
+        return null;
+    }
+    return tail;
 }
 
 function isModuleName(text) {
@@ -256,10 +318,10 @@ function pickRow(tsv, version, mode) {
     return null;
 }
 
-function artifactUrl(base, row, classifier, filenameSuffix) {
+function artifactUrl(base, row, classifier, extension, filenameSuffix) {
     const groupPath = row.groupId.replaceAll(".", "/");
     const classifierSuffix = classifier ? `-${classifier}` : "";
-    return `${base}${groupPath}/${row.artifactId}/${row.mavenVersion}/${row.artifactId}-${row.mavenVersion}${classifierSuffix}${filenameSuffix}.jar`;
+    return `${base}${groupPath}/${row.artifactId}/${row.mavenVersion}/${row.artifactId}-${row.mavenVersion}${classifierSuffix}${filenameSuffix}.${extension}`;
 }
 
 function textResponse(status, body) {

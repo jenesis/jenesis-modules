@@ -9,7 +9,7 @@ import module java.base;
  * version.
  *
  * <p>Four tab-separated columns: {@code moduleVersion}, {@code groupId}, {@code artifactId},
- * {@code mavenVersion}. The {@code type} column from {@link CurrentEntry} is intentionally
+ * {@code mavenVersion}. The {@code type} column from {@link ArtifactsEntry} is intentionally
  * absent: {@code modules.tsv} only covers named modules (automatic modules have no
  * {@code module-info} and therefore no declared module version - they're filtered out at
  * resolution time), so the column would always be the same value.

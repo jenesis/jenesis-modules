@@ -3,9 +3,9 @@ package build.jenesis.crawler.store;
 import module java.base;
 
 /**
- * Tracks module names whose current.tsv needs to be regenerated. Persisted to
- * disk so crash recovery between stage 1 (record) and stage 2 (resolve) of a
- * crawl picks up where it left off.
+ * Tracks module names whose resolved views (artifacts.tsv + modules.tsv) need to be
+ * regenerated. Persisted to disk so crash recovery between stage 1 (record) and stage 2
+ * (resolve) of a crawl picks up where it left off.
  *
  * Append-only on add; the underlying file is rewritten on remove/clear so the
  * on-disk set stays unique and bounded.

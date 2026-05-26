@@ -47,7 +47,7 @@ public final class SetOwners {
                 populated++;
             }
             System.out.println(moduleName + ": owners=" + (groups.size() + pairs.size())
-                    + " current.tsv regenerated");
+                    + " resolved views regenerated");
         }
         System.out.println("Done. modules touched=" + groupsByModule.size()
                 + " populated=" + populated
@@ -129,9 +129,10 @@ public final class SetOwners {
         System.out.println("An owner is either '<groupId>' (any artifact in that group) or '<groupId>:<artifactId>'.");
         System.out.println("An empty value clears the module's owners (writes an empty owners.tsv).");
         System.out.println();
-        System.out.println("For each mentioned module the tool writes owners.tsv and regenerates current.tsv");
-        System.out.println("from the existing versions.tsv. The audit log in versions.tsv is never mutated -");
-        System.out.println("re-running with a different policy is non-destructive.");
+        System.out.println("For each mentioned module the tool writes owners.tsv and regenerates the resolved");
+        System.out.println("views (artifacts.tsv + modules.tsv) from the existing versions.tsv. The audit log");
+        System.out.println("in versions.tsv is never mutated - re-running with a different policy is");
+        System.out.println("non-destructive.");
         System.out.println();
         System.out.println("Example properties content:");
         System.out.println("  com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core");

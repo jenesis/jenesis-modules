@@ -138,7 +138,7 @@ public class ModuleSummaryTest {
                         + "d\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"
                         + "e\tnamed\tcom.example\tlib\t2024-01-01T00:00:00Z\t1.0\n"),
                 StandardCharsets.UTF_8);
-        Files.writeString(libDir.resolve("current-jar-with-dependencies.tsv"),
+        Files.writeString(libDir.resolve("artifacts-jar-with-dependencies.tsv"),
                 ("a\tnamed\tcom.example\tlib\n"
                         + "b\tnamed\tcom.example\tlib\n"
                         + "c\tnamed\tcom.example\tlib\n"

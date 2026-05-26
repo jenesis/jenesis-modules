@@ -249,25 +249,6 @@ public class ModuleStoreTest {
     }
 
     @Test
-    public void regenerate_deletes_stale_legacy_current_tsv() throws IOException {
-        Path moduleDir = Files.createDirectories(root.resolve("legacy").resolve("module"));
-        // Hand-write a pre-rename current.tsv so we can verify it gets swept.
-        Files.writeString(moduleDir.resolve("current.tsv"), "0.9\tnamed\tg\ta\n",
-                StandardCharsets.UTF_8);
-        Files.writeString(moduleDir.resolve("current-jakarta.tsv"), "0.9\tnamed\tg\ta\n",
-                StandardCharsets.UTF_8);
-
-        ModuleStore store = new ModuleStore(root);
-        store.record("legacy.module", ModuleType.NAMED, null, ts("g", "a", "1.0", null, 1_700_000_000_000L));
-        store.flush();
-        store.regenerate("legacy.module");
-
-        assertThat(moduleDir.resolve("current.tsv")).doesNotExist();
-        assertThat(moduleDir.resolve("current-jakarta.tsv")).doesNotExist();
-        assertThat(moduleDir.resolve("artifacts.tsv")).exists();
-    }
-
-    @Test
     public void read_returns_in_chronological_order() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("rt.module", ModuleType.NAMED, null, ts("g", "a", "1.0", null, 1_700_000_000_000L));

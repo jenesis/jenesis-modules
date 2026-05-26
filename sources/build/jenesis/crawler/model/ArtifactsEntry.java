@@ -2,29 +2,36 @@ package build.jenesis.crawler.model;
 
 import module java.base;
 
-public record CurrentEntry(Version version, ModuleType type, String groupId, String artifactId) {
+/**
+ * A row of {@code artifacts.tsv}: the canonical resolution from a Maven coordinate version
+ * to its publisher, after the owners-allowlist (or implicit-owner) filter has been applied.
+ *
+ * <p>Four tab-separated columns: {@code version}, {@code type}, {@code groupId},
+ * {@code artifactId}.
+ */
+public record ArtifactsEntry(Version version, ModuleType type, String groupId, String artifactId) {
 
-    public static final Comparator<CurrentEntry> NEWEST_FIRST = Comparator
-            .comparing(CurrentEntry::version, Comparator.reverseOrder())
-            .thenComparing(CurrentEntry::groupId)
-            .thenComparing(CurrentEntry::artifactId);
+    public static final Comparator<ArtifactsEntry> NEWEST_FIRST = Comparator
+            .comparing(ArtifactsEntry::version, Comparator.reverseOrder())
+            .thenComparing(ArtifactsEntry::groupId)
+            .thenComparing(ArtifactsEntry::artifactId);
 
-    public CurrentEntry {
+    public ArtifactsEntry {
         Objects.requireNonNull(version, "version");
         Objects.requireNonNull(type, "type");
         Objects.requireNonNull(groupId, "groupId");
         Objects.requireNonNull(artifactId, "artifactId");
     }
 
-    public static CurrentEntry of(ModuleEntry entry) {
-        return new CurrentEntry(entry.mavenVersion(), entry.type(), entry.groupId(), entry.artifactId());
+    public static ArtifactsEntry of(ModuleEntry entry) {
+        return new ArtifactsEntry(entry.mavenVersion(), entry.type(), entry.groupId(), entry.artifactId());
     }
 
     public String format() {
         return version.raw() + '\t' + type.label() + '\t' + groupId + '\t' + artifactId;
     }
 
-    public static CurrentEntry parse(String line) {
+    public static ArtifactsEntry parse(String line) {
         int firstTab = line.indexOf('\t');
         if (firstTab < 0) {
             throw new IllegalArgumentException("Missing first tab in line: " + line);
@@ -44,6 +51,6 @@ public record CurrentEntry(Version version, ModuleType type, String groupId, Str
         String typeLabel = line.substring(firstTab + 1, secondTab);
         String groupId = line.substring(secondTab + 1, thirdTab);
         String artifactId = line.substring(thirdTab + 1);
-        return new CurrentEntry(new Version(rawVersion), ModuleType.fromLabel(typeLabel), groupId, artifactId);
+        return new ArtifactsEntry(new Version(rawVersion), ModuleType.fromLabel(typeLabel), groupId, artifactId);
     }
 }

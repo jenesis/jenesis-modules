@@ -15,9 +15,15 @@ data/
 ├── STATUS.md                     # live progress snapshot, rewritten every checkpoint
 ├── state.properties              # crawler resume point (index chain, last applied chunk, sweep start)
 ├── modules/                      # per-module version history (what consumers care about)
-│   ├── com/fasterxml/jackson/core/versions.tsv
+│   ├── com/fasterxml/jackson/core/versions.tsv     # full audit log (every claim ever seen)
+│   ├── com/fasterxml/jackson/core/artifacts.tsv    # resolved view, keyed by Maven version
+│   ├── com/fasterxml/jackson/core/modules.tsv      # resolved view, keyed by module-info version
 │   ├── com/fasterxml/jackson/core/versions-no_aopalliance.tsv
+│   ├── com/fasterxml/jackson/core/artifacts-no_aopalliance.tsv
+│   ├── com/fasterxml/jackson/core/modules-no_aopalliance.tsv
 │   ├── org/slf4j/versions.tsv
+│   ├── org/slf4j/artifacts.tsv
+│   ├── org/slf4j/modules.tsv
 │   ├── org/slf4j/api/versions.tsv
 │   └── ...
 └── scanned/                      # per-artifact "we have already looked at these JARs" index
@@ -46,15 +52,15 @@ Six tab-separated columns:
 - Column 5: publication timestamp on Maven Central, UTC ISO-8601 with seconds precision (`yyyy-MM-dd'T'HH:mm:ss'Z'`). Sourced from the index's authoritative per-artifact timestamp; fixed-width so lexicographic and chronological sort agree. Rows are only recorded when the index carries a real timestamp - coordinates whose timestamp is missing or zero are dropped at write time and never appear here, so consumers do not have to filter sentinels.
 - Column 6: raw `module-info` version (the literal string declared by `ModuleDescriptor.rawVersion()`). Empty for `automatic` rows (no `module-info` exists) and for `named` rows whose `module-info` declared no version attribute - the column is present but the field is empty. A non-empty value is the verbatim string the publisher embedded. The parser rejects rows missing this column outright; the legacy 5-column format is no longer supported.
 
-Use this file for auditing - "who has ever claimed this name?" - not for resolution. For resolution, read the sibling `current.tsv` (next section).
+Use this file for auditing - "who has ever claimed this name?" - not for resolution. For resolution, read the sibling `artifacts.tsv` (Maven-version-keyed) or `modules.tsv` (module-info-version-keyed) described in the next two sections.
 
 The hierarchical layout means a module whose name is a prefix of another module name coexists without conflict: `org.slf4j` and `org.slf4j.api` live at `org/slf4j/versions.tsv` and `org/slf4j/api/versions.tsv` respectively. The directory `org/slf4j` holds both its own `versions.tsv` and the `api/` subtree.
 
 Lookup math (no parsing required): `data/modules/<segments-joined-by-slash>/versions[-<classifier>].tsv`.
 
-### `data/modules/<dotted/path>/current[-<classifier>].tsv` (resolved view)
+### `data/modules/<dotted/path>/artifacts[-<classifier>].tsv` (resolved view, keyed by Maven version)
 
-`current.tsv` is the **resolved view** of the module: the rows the crawler currently considers authoritative, after applying `owners.tsv` (if present) or the implicit-owner rule (if absent). Consumers wanting "give me module M at version V" read this file - no filtering, no sorting required.
+`artifacts.tsv` is the **resolved view keyed by the Maven coordinate version**: the rows the crawler currently considers authoritative, after applying `owners.tsv` (if present) or the implicit-owner rule (if absent). Consumers wanting "give me module M at Maven version V" read this file - no filtering, no sorting required.
 
 Four tab-separated columns (no timestamp - the resolution has already been made):
 
@@ -65,10 +71,31 @@ Four tab-separated columns (no timestamp - the resolution has already been made)
 ```
 
 - Columns mirror `versions.tsv`'s columns 1-4. Column 5 (timestamp) is omitted; it's no longer needed once the resolution has been made.
-- Rows are sorted by version descending. There is at most one row per version - if the policy permits multiple `(groupId, artifactId)` for the same module name and version, the one with the oldest `publishedAt` wins (lexicographic `groupId` ascending breaks same-second ties).
-- The file may be absent when the policy filters out every claim (e.g. an empty `owners.tsv`) or when stage 2 has not yet run for this module after a fresh crawl. Either way: no `current.tsv` means no resolved owner.
+- Rows are sorted by version descending. There is at most one row per Maven version - if the policy permits multiple `(groupId, artifactId)` for the same module name and version, the one with the oldest `publishedAt` wins (lexicographic `groupId` ascending breaks same-second ties).
+- The file may be absent when the policy filters out every claim (e.g. an empty `owners.tsv`) or when stage 2 has not yet run for this module after a fresh crawl. Either way: no `artifacts.tsv` means no resolved owner.
 
-`current.tsv` is regenerated from `versions.tsv` whenever the policy changes (via `SetOwners`) or new audit-log rows arrive (by the crawler's stage 2, see "How the crawl works").
+### `data/modules/<dotted/path>/modules[-<classifier>].tsv` (resolved view, keyed by module-info version)
+
+`modules.tsv` is the **resolved view keyed by the publisher-declared module version** (the literal string in `module-info.class`, falling back to the Maven coordinate version when `module-info` declared none). It exists so consumers can ask "give me module M at module version X" and get the canonical Maven artifact back, even when the publisher's module-version space differs from the Maven-version space.
+
+Four tab-separated columns:
+
+```
+2.0.10  org.slf4j  slf4j-api  2.0.10
+2.0.9   org.slf4j  slf4j-api  2.0.9
+1.7.36  org.slf4j  slf4j-api  1.7.36
+```
+
+- Column 1: `moduleVersion`. The literal `module-info` version (`ModuleDescriptor.rawVersion()`), or the Maven coordinate version when none was declared. This is the lookup key.
+- Column 2: `groupId`.
+- Column 3: `artifactId`.
+- Column 4: `mavenVersion`. The Maven coordinate version that first published this `moduleVersion`. The pair `(groupId, artifactId, mavenVersion)` is the actual artifact to fetch.
+- Rows are sorted by `moduleVersion` descending (groupId then artifactId as deterministic tiebreakers).
+- Only `named` rows participate - `automatic` modules have no `module-info` and therefore no declared module version. The `type` column from `artifacts.tsv` is omitted because every row is `named` by construction.
+- **Stability guarantee.** Each `moduleVersion` resolves to exactly one Maven coordinate: the one with the *oldest* `publishedAt`. Once a `moduleVersion` has been mapped, future publishers that happen to declare the same `moduleVersion` are visible in the audit log but do not override the mapping. The promise is "module M at version X always means the same JAR." Maven does not enforce unique module versions; this resolution gives consumers a stable view despite that.
+- The file is absent when the module has no `named` rows for the resolved owner (e.g. the owner only ever shipped `automatic` JARs, or `owners.tsv` filtered out every `named` claim). The crawler also deletes a stale `modules.tsv` when a regeneration ends with zero qualifying rows.
+
+Both resolved views are regenerated from `versions.tsv` whenever the policy changes (via `SetOwners`) or new audit-log rows arrive (by the crawler's stage 2, see "How the crawl works").
 
 #### Module-name collisions and module injection
 
@@ -86,33 +113,35 @@ Consumers of `data/modules/` **must not** treat a module name as authoritative o
 - Where multiple rows exist for a wanted module name, do not auto-pick - either fail loudly or require explicit allowlisting.
 - Treat newly appearing `(groupId, artifactId)` pairs for an already-known module name as a signal worth reviewing (it may be a legitimate fork, a typo-squat, or an attempted injection).
 - Use the column-5 timestamp to identify the **first owner** of a module name: sort all rows for a given module name ascending by the publication timestamp; the earliest `(groupId, artifactId)` is the one that first declared it on Maven Central. Module names produced later by an unrelated coordinate are by definition "newcomers" and warrant scrutiny. The first-owner heuristic is not a guarantee of legitimacy (an attacker could in principle race to publish a generic-sounding name first) but it does flip the default from "trust the first row your tool happens to return" to "trust the row that has the longest unchallenged history under that name."
-- Drop an **`owners.tsv`** allowlist next to the module's `versions.tsv` (see below) and the crawler narrows `current.tsv` to rows whose `(groupId, artifactId)` is on the list. `versions.tsv` itself stays untouched as the full audit log of every claim that has ever been seen.
+- Drop an **`owners.tsv`** allowlist next to the module's `versions.tsv` (see below) and the crawler narrows `artifacts.tsv` and `modules.tsv` to rows whose `(groupId, artifactId)` is on the list. `versions.tsv` itself stays untouched as the full audit log of every claim that has ever been seen.
 
-The index distinguishes two layers: `versions.tsv` is a *catalog of declarations* — every party that has ever published the module name on Maven Central, kept forever for audit. `current.tsv` is the *resolved view* — the rows the crawler considers authoritative right now, generated from `versions.tsv` by the resolution algorithm below. Consumers read `current.tsv` for resolution; they read `versions.tsv` to audit collisions.
+The index distinguishes two layers: `versions.tsv` is a *catalog of declarations* (every party that has ever published the module name on Maven Central, kept forever for audit). `artifacts.tsv` and `modules.tsv` are *resolved views* (the rows the crawler considers authoritative right now, generated from `versions.tsv` by the resolution algorithm below). Consumers read the resolved views for resolution; they read `versions.tsv` to audit collisions.
 
 #### Resolution algorithm
 
-The crawler implements the rule below. Its output is `data/modules/<path>/current.tsv` (4 columns: `version`, `type`, `groupId`, `artifactId`, no timestamp). Consumers do not have to re-derive anything — they read `current.tsv` directly.
+The crawler implements the rule below. Its outputs are `data/modules/<path>/artifacts.tsv` (Maven-version-keyed, 4 columns: `version`, `type`, `groupId`, `artifactId`) and `data/modules/<path>/modules.tsv` (module-info-version-keyed, 4 columns: `moduleVersion`, `groupId`, `artifactId`, `mavenVersion`). Consumers do not have to re-derive anything: they read whichever resolved view fits their lookup.
 
 For each module:
 
 1. **If `owners.tsv` exists** next to the module's `versions.tsv`, treat it as the authoritative allowlist:
    - From `versions.tsv` (and each `versions-<classifier>.tsv`), keep only rows whose `(groupId, artifactId)` is permitted (group-only line → any artifact in that group; pair line → that exact pair).
-   - Group the surviving rows by `version`. For each version, the row with the **oldest** `publishedAt` timestamp wins (lexicographic `groupId` ascending breaks any same-second tie). That row is the canonical resolution for that version.
+   - For `artifacts.tsv`: group the surviving rows by `version` (the Maven coordinate version). For each version, the row with the **oldest** `publishedAt` timestamp wins (lexicographic `groupId` ascending breaks any same-second tie). That row is the canonical resolution for that Maven version.
+   - For `modules.tsv`: drop `automatic` rows, then group the remaining rows by their `moduleVersion` (the `module-info` version, falling back to the Maven version when none was declared). For each `moduleVersion`, the row with the **oldest** `publishedAt` wins, with the same tiebreakers. That row maps the `moduleVersion` to its canonical Maven coordinate.
 
 2. **If no `owners.tsv` exists**, apply *first come, first served*:
    - Find the **implicit owner**: the `groupId` of the row in `versions.tsv` with the smallest `publishedAt` (lexicographic `groupId` ascending breaks ties).
-   - Filter `versions.tsv` to rows whose `groupId` equals the implicit owner. The result is `current.tsv`.
+   - Filter `versions.tsv` to rows whose `groupId` equals the implicit owner, then apply the per-view grouping above.
 
-In both branches, `current.tsv` is sorted version descending and contains no `publishedAt` column - it has no need to: the resolution has already been made. Resolving "I need module `M` at version `V`" reduces to "read `current.tsv` and find the row whose `version` column equals `V`." When the file is missing or empty, the module has no resolved owner (either nothing has been crawled yet, or the policy filters out every claim).
+In both branches, `artifacts.tsv` is sorted version descending and `modules.tsv` is sorted `moduleVersion` descending; neither carries a `publishedAt` column (the resolution has already been made). Resolving "I need module `M` at Maven version `V`" reduces to "read `artifacts.tsv` and find the row whose first column equals `V`"; resolving "I need module `M` at module version `X`" reduces to "read `modules.tsv` and find the row whose first column equals `X`, then fetch the artifact from its `mavenVersion` column." When a file is missing or empty, the module has no resolved owner in that view (either nothing has been crawled yet, the policy filters out every claim, or, for `modules.tsv`, the resolved owner publishes only `automatic` modules).
 
-The rule in one sentence: *the first party to publish a module name on Maven Central owns it until an operator says otherwise.*
+The rule in one sentence: *the first party to publish a module name on Maven Central owns it until an operator says otherwise; the first publisher of a given module-info version owns that version forever.*
 
 Why this is the right default:
 
-- **Defends against module injection.** An attacker who registers a popular module name after the fact has, by construction, a later `publishedAt` than the canonical publisher and is excluded from `current.tsv` automatically.
-- **Filters shaded redeclarations for free.** When `software.amazon.awssdk:third-party-jackson-core` ships a vendored copy of Jackson, its `publishedAt` is later than `com.fasterxml.jackson.core:jackson-core`'s. The shaded row never makes it into `current.tsv`; you do not have to maintain an exclusion list by hand.
-- **Composable with explicit policy.** Where the heuristic is wrong — legitimate ownership transfers (`org.jboss.netty` → `io.netty`), umbrella distributions that should coexist, internal forks — drop an `owners.tsv` next to the module and the explicit branch above takes over. The historical `versions.tsv` data stays intact, so loosening or reverting the policy later is a pure regeneration operation; no re-crawl needed.
+- **Defends against module injection.** An attacker who registers a popular module name after the fact has, by construction, a later `publishedAt` than the canonical publisher and is excluded from both resolved views automatically.
+- **Filters shaded redeclarations for free.** When `software.amazon.awssdk:third-party-jackson-core` ships a vendored copy of Jackson, its `publishedAt` is later than `com.fasterxml.jackson.core:jackson-core`'s. The shaded row never makes it into the resolved views; you do not have to maintain an exclusion list by hand.
+- **Stable module-version mapping despite Maven not enforcing it.** Two unrelated Maven coordinates can both publish `module-info` with `version 2.0.10`. The oldest-publish-wins rule in `modules.tsv` pins the mapping to whichever coordinate landed first, so "module M at version X" keeps resolving to the same JAR across rebuilds.
+- **Composable with explicit policy.** Where the heuristic is wrong (legitimate ownership transfers like `org.jboss.netty` → `io.netty`, umbrella distributions that should coexist, internal forks), drop an `owners.tsv` next to the module and the explicit branch above takes over. The historical `versions.tsv` data stays intact, so loosening or reverting the policy later is a pure regeneration operation; no re-crawl needed.
 
 Caveats to internalise:
 
@@ -122,7 +151,7 @@ Caveats to internalise:
 
 #### `data/modules/<dotted/path>/owners.tsv` (optional allowlist)
 
-If a module's directory contains an `owners.tsv` file, the resolver uses it as the authoritative allowlist when generating `current.tsv` for that module. `versions.tsv` itself is **not** filtered - it remains the full audit log of every claim that has ever been seen, including ones the policy now excludes. With no `owners.tsv` present, the implicit-owner rule (oldest publisher wins) is used instead. Either way, `current.tsv` is the resolved view.
+If a module's directory contains an `owners.tsv` file, the resolver uses it as the authoritative allowlist when generating `artifacts.tsv` and `modules.tsv` for that module. `versions.tsv` itself is **not** filtered - it remains the full audit log of every claim that has ever been seen, including ones the policy now excludes. With no `owners.tsv` present, the implicit-owner rule (oldest publisher wins) is used instead. Either way, `artifacts.tsv` and `modules.tsv` are the resolved views consumers read.
 
 Line format - one entry per line, tab-separated:
 
@@ -131,7 +160,7 @@ Line format - one entry per line, tab-separated:
 
 Lines starting with `#` and blank lines are ignored.
 
-Example - guard `com.fasterxml.jackson.core` so `current.tsv` only resolves to the canonical artifact plus the AWS third-party repackaging:
+Example - guard `com.fasterxml.jackson.core` so the resolved views only carry the canonical artifact plus the AWS third-party repackaging:
 
 ```
 # canonical
@@ -141,7 +170,7 @@ com.fasterxml.jackson.core	jackson-core
 software.amazon.awssdk	third-party-jackson-core
 ```
 
-Changing the policy is non-destructive: edit `owners.tsv` and either let the next crawl regenerate the affected modules' `current.tsv` files, or run `SetOwners` (below) for an immediate refresh. The `versions.tsv` audit log is never touched, so loosening or reverting the policy later is a pure regeneration.
+Changing the policy is non-destructive: edit `owners.tsv` and either let the next crawl regenerate the affected modules' resolved views, or run `SetOwners` (below) for an immediate refresh. The `versions.tsv` audit log is never touched, so loosening or reverting the policy later is a pure regeneration.
 
 #### Bulk-applying an allowlist with `SetOwners`
 
@@ -170,7 +199,7 @@ Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<art
 
 #### Generating a starter properties file with `ListOwners`
 
-The companion `build.jenesis.crawler.ListOwners` entry point emits a SetOwners-compatible properties file listing the *current* owners (from `owners.tsv` when present, otherwise derived from `versions[-<classifier>].tsv`) for every module whose dotted name matches one of the supplied globs.
+The companion `build.jenesis.crawler.ListOwners` entry point emits a SetOwners-compatible properties file listing the *current* owners (from `owners.tsv` when present, otherwise derived from `artifacts[-<classifier>].tsv`) for every module whose dotted name matches one of the supplied globs.
 
 ```
 java sources/build/jenesis/crawler/ListOwners.java <glob> [<glob> ...]
@@ -183,7 +212,7 @@ Optional system properties:
 | Property | Default | Effect |
 |---|---|---|
 | `jenesis.crawler.data` | `data` | Data directory to read from. |
-| `jenesis.crawler.list.group.only` | `true` | When deriving owners from `versions.tsv` (no `owners.tsv`), emit groupIds only. Set to `false` to emit `groupId:artifactId` pairs. |
+| `jenesis.crawler.list.group.only` | `true` | When deriving owners from `artifacts.tsv` (no `owners.tsv`), emit groupIds only. Set to `false` to emit `groupId:artifactId` pairs. |
 | `jenesis.crawler.list.only.missing.owners` | `false` | Skip modules that already have an `owners.tsv`. Useful to focus on modules that still need a policy. |
 | `jenesis.crawler.list.only.ambiguous` | `false` | Keep only modules whose computed owners list has more than one entry. Counted after the `group.only` dedup, so the granularity matches the configured output. Handy for surfacing collisions. |
 
@@ -204,7 +233,7 @@ java -Djenesis.crawler.list.group.only=false \
      sources/build/jenesis/crawler/ListOwners.java '**'
 ```
 
-When owners are read from `owners.tsv`, lines are emitted verbatim (the file's tab is rendered as `:`); the `group.only` flag only affects values derived from `versions.tsv`.
+When owners are read from `owners.tsv`, lines are emitted verbatim (the file's tab is rendered as `:`); the `group.only` flag only affects values derived from `artifacts.tsv`.
 
 ### `data/scanned/<dotted/path>/<artifactId>.tsv`
 
@@ -216,6 +245,104 @@ The third column distinguishes two kinds of completion:
 
 - **Empty** — the scan succeeded (the artifact either yielded a module declaration that landed in `versions.tsv`, or carried no module name at all and is intentionally not in the modules index).
 - **Non-empty** — the scan failed *permanently* (the JAR is malformed, or the artifact returned HTTP 404/410). The text is the recorded error message, sanitised so it stays on a single TSV line. Future runs skip these coordinates by default, exactly as they skip successful ones; the artifact is not refetched. To retry every recorded permanent failure on the next run, set `-Djenesis.crawler.reprocess.failed=true` (default `false`). Transient failures (network timeouts, HTTP 5xx, etc.) are *not* recorded here - they remain unmarked, so the next run retries them as a matter of course.
+
+## Jenesis Module Repository
+
+The contents of `data/modules/` are published as the **Jenesis Module Repository**: an HTTP service that resolves Java module names (plus an optional version and classifier) to the underlying Maven Central JAR via a 302 redirect. The repository's contract is a small, stable set of URL shapes: anything that can `curl -L` is a client. The reference implementation lives in `worker/index.js` (a Cloudflare Worker), but the contract itself is just "read the right TSV from `data/modules/`, pick a row, redirect."
+
+The repository is intentionally a thin wrapper over the resolved views: every redirect target is derivable from a single row of `artifacts.tsv` or `modules.tsv`. Consumers that prefer to do their own lookup can read the TSVs directly via `raw.githubusercontent.com` (or any mirror); the worker exists so a Maven-style `<repository>` URL can be plugged in without writing a resolver.
+
+### URL shapes
+
+Four modes, distinguished by the path segment immediately before the module name:
+
+| Mode | URL shape | TSV consulted | Version segment is... |
+|---|---|---|---|
+| `artifact` | `/artifact/<moduleName>[/<mavenVersion>]/<filename>` | `artifacts[-<classifier>].tsv` | The **Maven coordinate version**. Transparent Maven proxy: the request extension passes through verbatim. |
+| `module` | `/module/<moduleName>[/<moduleVersion>]/<filename>.jar` | `modules[-<classifier>].tsv` | The **module-info version** (publisher-declared, falls back to the Maven version when none was declared). |
+| `sources` | `/sources/<moduleName>[/<moduleVersion>]/<filename>.jar` | `modules[-<classifier>].tsv` | The **module-info version**. The redirect target appends `-sources` to the Maven filename. |
+| `documentation` | `/documentation/<moduleName>[/<moduleVersion>]/<filename>.jar` | `modules[-<classifier>].tsv` | The **module-info version**. The redirect target appends `-javadoc` to the Maven filename. |
+
+The version segment is optional in every mode: omitting it picks the first row of the TSV, which (because both files are sorted descending) is the highest version. With the segment present, the worker returns the row whose first column equals the segment exactly (no semantic-version range matching, no normalisation).
+
+`<filename>` is the trailing path segment. The module-name segment immediately before the filename must equal the module-name prefix inside the filename; anything that follows (after a `.` or after `-<classifier>.`) is the extension. The classifier (everything between the first hyphen and the next dot) flips the lookup to the matching classifier-scoped TSV: `<base>-<classifier>.tsv` where `<base>` is `artifacts` or `modules`, and it also becomes the standard Maven classifier on the resulting filename.
+
+In `artifact` mode the extension is opaque: whatever the client puts after the module name (and optional `-<classifier>`) becomes the suffix of the Maven filename. So `<moduleName>.jar`, `<moduleName>.pom`, `<moduleName>.pom.sha256`, `<moduleName>.module`, `<moduleName>-<c>.jar`, `<moduleName>-<c>.pom.sha512`, and so on all translate to the corresponding Maven file by appending the same suffix to `<artifactId>-<version>[-<classifier>]`. This makes the `/artifact/` route a drop-in Maven repository URL.
+
+The `/module/`, `/sources/`, and `/documentation/` routes only accept `.jar` filenames.
+
+Any number of path segments before the mode marker are ignored, so the same worker can be deployed under `/`, `/mod/`, `/jenesis/v1/`, or any other mount prefix without configuration.
+
+### Examples
+
+```
+# Latest Maven version of org.slf4j (the Maven-version view)
+GET /artifact/org.slf4j/org.slf4j.jar
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar
+
+# POM of a specific Maven version, transparent passthrough
+GET /artifact/org.slf4j/2.0.9/org.slf4j.pom
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.pom
+
+# Checksum and signature files follow the same pattern
+GET /artifact/org.slf4j/2.0.9/org.slf4j.pom.sha256
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.pom.sha256
+
+# Gradle module metadata if the publisher provides it
+GET /artifact/org.slf4j/2.0.9/org.slf4j.module
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.module
+
+# Resolved by module-info version (the same artifact in this case, but the lookup key is different)
+GET /module/org.slf4j/2.0.9/org.slf4j.jar
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar
+
+# Sources and javadoc JARs for a module-info version
+GET /sources/org.slf4j/2.0.9/org.slf4j.jar
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9-sources.jar
+GET /documentation/org.slf4j/2.0.9/org.slf4j.jar
+→ 302 https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9-javadoc.jar
+
+# Classifier flips the lookup to the matching classifier-scoped TSV and survives the extension passthrough
+GET /artifact/com.fasterxml.jackson.core/com.fasterxml.jackson.core-no_aopalliance.pom
+→ reads artifacts-no_aopalliance.tsv, redirects to <artifactId>-<version>-no_aopalliance.pom
+```
+
+Successful responses are HTTP `302` with `Location` pointing at the Maven URL and `Cache-Control: public, max-age=<REDIRECT_TTL>, stale-while-revalidate=86400`. The body is empty.
+
+### Response headers
+
+Every redirect carries the resolved coordinate as response headers so a client can record what it actually fetched without parsing the `Location`:
+
+| Header | Always present | Value |
+|---|---|---|
+| `X-Jenesis-GroupId` | yes | Maven `groupId` of the resolved row. |
+| `X-Jenesis-ArtifactId` | yes | Maven `artifactId`. |
+| `X-Jenesis-MavenVersion` | yes | Maven coordinate version. |
+| `X-Jenesis-ModuleVersion` | only on `/module/`, `/sources/`, `/documentation/` | The publisher-declared `module-info` version (column 1 of `modules.tsv`). Omitted in `artifact` mode where the lookup key is the Maven version itself. |
+
+### Failure modes
+
+| Status | When |
+|---|---|
+| `404` | The path doesn't fit a supported shape (unknown mode marker, module-name segment doesn't match the filename prefix, filename has no extension after `<moduleName>` or `<moduleName>-<classifier>`, `.jar`-only mode received a non-`.jar` extension, version segment present but the TSV row doesn't exist, or the TSV itself is absent because the module has no resolved owner in the requested view). The response body names the missing module / version. |
+| `405` | The request is not `GET` or `HEAD`. |
+| `502` | The upstream TSV fetch returned a non-200 status other than 404 (e.g. the data origin is temporarily unhealthy). |
+
+### Stability guarantee
+
+The repository's promise is that **`(moduleName, moduleVersion)` always resolves to the same Maven artifact**. The promise rests on the resolution algorithm's first-publish-wins rule for `modules.tsv`: once a `moduleVersion` has been mapped to a Maven coordinate, a future publisher who happens to declare the same `moduleVersion` is recorded in the audit log but does not displace the existing row. This lets consumers pin a module-version in their build and trust that subsequent rebuilds resolve identically, even though Maven itself doesn't enforce unique module versions.
+
+The `(moduleName, mavenVersion)` lookup in `/artifact/` is similarly stable because Maven coordinates themselves are immutable on Central; the only way the resolution shifts is if an operator changes `owners.tsv` to admit a different publisher for the same `(name, mavenVersion)` pair.
+
+### Configuration
+
+The worker reads three optional environment variables; defaults shown:
+
+| Variable | Default | Purpose |
+|---|---|---|
+| `DATA_BASE` | `https://raw.githubusercontent.com/raphw/jenesis-modules/main/data/modules/` | Base URL the worker fetches `artifacts[-<classifier>].tsv` and `modules[-<classifier>].tsv` from. Point this at a fork or a mirror to serve a different catalogue. |
+| `ARTIFACT_BASE` | `https://repo.maven.apache.org/maven2/` | Base URL the 302 redirects target. Point this at a Maven mirror or proxy. |
+| `REDIRECT_TTL` | `3600` (seconds) | `Cache-Control: max-age` on the 302 response. Cloudflare's edge cache also caches the upstream TSV fetches at the same TTL. |
 
 ## Running the crawler
 
@@ -326,18 +453,18 @@ The corresponding `reconcile-metadata.yml` workflow exposes the same knobs as ma
 
 ### `build.jenesis.crawler.ModuleSummary`
 
-Walks `data/modules/` (`versions.tsv` + `current.tsv`) and `data/scanned/` (for failure stats) and writes a human-readable markdown summary atomically to `data/SUMMARY.md`. Regenerated on every invocation; the previous file is overwritten.
+Walks `data/modules/` (`versions.tsv` + `artifacts.tsv`) and `data/scanned/` (for failure stats) and writes a human-readable markdown summary atomically to `data/SUMMARY.md`. Regenerated on every invocation; the previous file is overwritten.
 
 ```
 java -cp <jar> build.jenesis.crawler.ModuleSummary
 ```
 
-**Most row-level metrics in the summary are filtered to rows that appear in `current.tsv`** (the resolved view after `owners.tsv` policy), so shading-injected audit rows don't inflate the picture. The exceptions are explicitly labelled as "audit" or "history" tables (collisions, distinct-groupIds-per-module, naming-patterns histogram). The header text at the top of the Totals section spells out the convention.
+**Most row-level metrics in the summary are filtered to rows that appear in `artifacts.tsv`** (the resolved view after `owners.tsv` policy), so shading-injected audit rows don't inflate the picture. The exceptions are explicitly labelled as "audit" or "history" tables (collisions, distinct-groupIds-per-module, naming-patterns histogram). The header text at the top of the Totals section spells out the convention.
 
 The summary covers:
 
-- **Totals**: total artifacts scanned, non-module artifacts, modular artifacts, total named modules, total automatic modules, total named modules with module-info version, distinct Maven artifacts, distinct module names, distinct named/automatic modules (latest-type from `current.tsv`), distinct named modules with module-info version, distinct groupIds, most recent tracked publication.
-- **Type breakdown** (named / automatic): unique modules + total rows from each `current[-<classifier>].tsv`.
+- **Totals**: total artifacts scanned, non-module artifacts, modular artifacts, total named modules, total automatic modules, total named modules with module-info version, distinct Maven artifacts, distinct module names, distinct named/automatic modules (latest-type from `artifacts.tsv`), distinct named modules with module-info version, distinct groupIds, most recent tracked publication.
+- **Type breakdown** (named / automatic): unique modules + total rows from each `artifacts[-<classifier>].tsv`.
 - **Module-info version coverage**: explicit (`module-info` version semantically matches the Maven coordinate version), mismatching (non-empty `module-info` version that differs), without (`module-info` declared no version).
 - **Mismatching module-info version patterns**: breakdown of the mismatching bucket by *why* the versions differ — `-SNAPSHOT` left on release, repackager `-<suffix>`, segment-count drift, `+<metadata>` build labels, unresolved `${...}` placeholders, different first dot-segment (likely shaded/bundled), substantively different. Each row carries a percent share.
 - **Type transitions** (automatic → named, named → automatic) computed from each module's resolved view.
@@ -380,12 +507,12 @@ All integer counts in the markdown output are rendered with regular ASCII space 
 
    **Post-FULL watermark.** After a successful FULL pass, the watermark is *not* set to `remote.lastIncremental()` directly — that would skip the retained incremental chunks Sonatype publishes between FULL regenerations. Maven Central's `nexus-maven-repository-index.gz` lags behind the most recent incremental: chunks newer than the FULL snapshot point contain records that aren't yet in the FULL file. Instead, the watermark parks at `firstRetained - 1` (the oldest retained incremental, taken from the `.properties` file's `incremental-N` keys), so the next run sweeps every chunk Sonatype still serves. `ScannedStore` dedupes the overlap with what the FULL already covered, so the cost is mostly index streaming with little re-fetching. The fake test server publishes only `last-incremental` (no retention listing), so in that path `firstRetained == lastIncremental` and the watermark advances directly.
 
-**Stage 2 (resolve).** Only after the chunk's queue has fully drained in a run does the crawler regenerate `current.tsv`. Deferring this avoids publishing a freshly-seen `(groupId, artifactId)` as the implicit owner of a module name when an *older* publisher of the same name might still be queued in the producer's in-flight set (a real concern on first-pass full syncs). Two flows:
+**Stage 2 (resolve).** Only after the chunk's queue has fully drained in a run does the crawler regenerate the resolved views (`artifacts.tsv` and `modules.tsv`). Deferring this avoids publishing a freshly-seen `(groupId, artifactId)` as the implicit owner of a module name when an *older* publisher of the same name might still be queued in the producer's in-flight set (a real concern on first-pass full syncs). Two flows:
 
-- **First pass** (no baseline yet, so dirty tracking was suppressed during stage 1): the crawler walks the modules tree and calls `regenerate(moduleName)` for every directory that doesn't already have a `current*.tsv` file. The file's existence is the per-module progress marker — a crash mid-walk leaves baseline unset, the next run re-enters the first-pass branch, the sweep re-runs quickly (`ScannedStore` short-circuits every already-scanned coordinate), and the walk resumes from the directories still missing a `current.tsv`. After the walk finishes the baseline is saved.
-- **Subsequent passes** (baseline established, sweeps small): regenerate `current.tsv` for each module in `data/dirty-modules.tsv`. Each `regenerate(moduleName)` reads `versions.tsv` (and any `versions-<classifier>.tsv`) plus the optional `owners.tsv`, writes the resolved `current.tsv` atomically, then drops the module from `data/dirty-modules.tsv`. A crash mid-drain simply leaves remaining entries in the dirty list; the next run drains them before doing anything else.
+- **First pass** (no baseline yet, so dirty tracking was suppressed during stage 1): the crawler walks the modules tree and calls `regenerate(moduleName)` for every directory that doesn't already have an `artifacts*.tsv` file. Each `regenerate` writes both `artifacts.tsv` and, when the resolved owner has any `named` rows, `modules.tsv`. The presence of `artifacts.tsv` is the per-module progress marker; a crash mid-walk leaves baseline unset, the next run re-enters the first-pass branch, the sweep re-runs quickly (`ScannedStore` short-circuits every already-scanned coordinate), and the walk resumes from the directories still missing an `artifacts.tsv`. After the walk finishes the baseline is saved.
+- **Subsequent passes** (baseline established, sweeps small): regenerate both resolved views for each module in `data/dirty-modules.tsv`. Each `regenerate(moduleName)` reads `versions.tsv` (and any `versions-<classifier>.tsv`) plus the optional `owners.tsv`, writes `artifacts.tsv` (and `modules.tsv` when applicable) atomically, then drops the module from `data/dirty-modules.tsv`. A crash mid-drain simply leaves remaining entries in the dirty list; the next run drains them before doing anything else.
 
-A crash mid-stage-1 leaves stage 2 pending, but the next run picks the same chunk (the chain watermark hasn't advanced) and re-streams it before running stage 2 - so `current.tsv` is never built from partial data.
+A crash mid-stage-1 leaves stage 2 pending, but the next run picks the same chunk (the chain watermark hasn't advanced) and re-streams it before running stage 2 - so the resolved views are never built from partial data.
 
 A run stops when its wall-clock budget expires or the chunk's queue drains cleanly. On the next run the producer re-streams the index from scratch; the scanned-coordinate filter skips every coordinate already processed, so only the unscanned tail is enqueued for scanning. Re-reading the full main index is roughly 24 minutes of CPU-bound gzip + Lucene-record parsing (see the table below); incremental chunks are orders of magnitude smaller and stream in seconds.
 
@@ -424,7 +551,7 @@ Practical consequences:
 - For a fresh first sweep (~1.5M unscanned coordinates) the scanner needs roughly `1.5M / 70 / 3600 ≈ 6 hours` of pure wall clock to drain, split across however many runs the 90-minute budget per scheduled run lets you fit. Producer warmup is paid once per run on top of that.
 - Steady-state (post-baseline) runs only scan whatever appeared in the incremental chunks: typically thousands of JARs, finishing in minutes.
 - The scanner is HTTP-latency-bound, not bandwidth-bound: most of the per-worker time is round-trip to Central, not byte-pushing. Raising `concurrency` past 64 buys more throughput up to roughly the runner's bandwidth ceiling; we found 64 a comfortable safe-default that fits inside the 4 GB heap on the standard Actions runner even when a large uberjar batch clusters.
-- Stage 2 (`regenerateMissingForFirstPass()` after the very first FULL sweep completes) walks the modules tree and writes a `current[-<classifier>].tsv` per (module, classifier) pair: at ~170K modules with ~10ms per write on persistent disk, it's typically 10-30 minutes. Incremental drainage of `dirty-modules.tsv` in subsequent runs is seconds.
+- Stage 2 (`regenerateMissingForFirstPass()` after the very first FULL sweep completes) walks the modules tree and writes both resolved views per module (`artifacts[-<classifier>].tsv` plus `modules[-<classifier>].tsv` when any `named` row survives): at ~170K modules with ~10ms per write on persistent disk, it's typically 10-30 minutes. Incremental drainage of `dirty-modules.tsv` in subsequent runs is seconds.
 
 ### Failure classification
 
@@ -444,15 +571,15 @@ Everything else (HTTP 5xx, timeouts, generic `IOException` without a known fragm
 
 The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine reboot) at any moment leaves on-disk state such that the next run resumes correctly and never loses a recorded artifact. The properties that make this work:
 
-1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `current[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write. `state.properties` writes additionally short-circuit when the in-memory content equals the last-saved snapshot (via `Crawler.saveStateIfChanged`), so within a chunk the file is touched only at chunk start and chunk completion — not on every checkpoint flush — even though `checkpointListener` continues to fire normally.
+1. **Every file the crawler owns is written via temp-file + atomic rename.** `versions[-<classifier>].tsv`, `artifacts[-<classifier>].tsv`, `modules[-<classifier>].tsv`, `owners.tsv`, `scanned.tsv`, `state.properties`, `dirty-modules.tsv`, and `STATUS.md` all go through `write-to-<file>.tmp` followed by `Files.move(..., ATOMIC_MOVE, REPLACE_EXISTING)` (with a non-atomic fallback only when the filesystem refuses the atomic flag). So readers always see either the previous fully-written version or the next fully-written version, never a torn write. `state.properties` writes additionally short-circuit when the in-memory content equals the last-saved snapshot (via `Crawler.saveStateIfChanged`), so within a chunk the file is touched only at chunk start and chunk completion (not on every checkpoint flush) even though `checkpointListener` continues to fire normally.
 2. **`versions.tsv` is flushed before `scanned.tsv` at every checkpoint.** This is the load-bearing invariant: every coordinate marked as "scanned" on disk has, by construction, already had its module declaration committed to the audit log. After any crash, re-scanning a coordinate is a no-op (the audit-log entry is idempotent via the in-memory `TreeSet`), but losing a coordinate is impossible.
 3. **`state.properties` is saved last in a checkpoint**, after both the audit log and the scanned index. If we crash after saving the audit log/scanned marks but before saving state, the next run re-attempts the same index chunk - it will reprocess the same coordinates and end up with the same data, because the producer filter skips anything in `scanned/`.
-4. **`dirty-modules.tsv` (only maintained after the first baseline) is persisted at the moment a row is added.** It can therefore be *ahead* of `versions.tsv` (one record-then-flush window). That is intentional: if we crash with a dirty name whose audit-log entry isn't yet on disk, the next run re-scans the coordinate, the entry lands in `versions.tsv` on the next flush, and stage 2 regenerates correctly. The dirty list is only drained after a chunk's queue has been fully exhausted in the current run, so stage 2 never builds `current.tsv` from a partial audit log. During the very first FULL pass the dirty list is suppressed entirely — first-pass stage 2 uses a tree walk (existence of `current*.tsv` is the resumption marker) instead of a dirty list, so the same "no partial publish" guarantee holds via a different mechanism.
-5. **Stage 2 (`regenerate(moduleName)`) is idempotent.** It reads `versions.tsv` and `owners.tsv` and atomically rewrites `current.tsv`. In the post-baseline (dirty-list) flow, the dirty entry is removed only *after* the new `current.tsv` is committed: a crash either leaves the old `current.tsv` + dirty entry (next run redoes, same result) or the new `current.tsv` + dirty entry (next run redoes with the same input, same output, then removes the entry). In the first-pass (tree-walk) flow, idempotence falls out of the per-(module, classifier) skip-if-exists check: `regenerateMissing()` iterates `versions[-<classifier>].tsv` files individually and writes only the classifier files whose matching `current[-<classifier>].tsv` is missing. So a crash mid-`regenerate` of a multi-classifier module leaves only the in-progress classifier unfinished; the next run picks it up without re-doing the classifiers that already succeeded.
+4. **`dirty-modules.tsv` (only maintained after the first baseline) is persisted at the moment a row is added.** It can therefore be *ahead* of `versions.tsv` (one record-then-flush window). That is intentional: if we crash with a dirty name whose audit-log entry isn't yet on disk, the next run re-scans the coordinate, the entry lands in `versions.tsv` on the next flush, and stage 2 regenerates correctly. The dirty list is only drained after a chunk's queue has been fully exhausted in the current run, so stage 2 never builds the resolved views from a partial audit log. During the very first FULL pass the dirty list is suppressed entirely (first-pass stage 2 uses a tree walk where the presence of `artifacts*.tsv` is the resumption marker) instead of a dirty list, so the same "no partial publish" guarantee holds via a different mechanism.
+5. **Stage 2 (`regenerate(moduleName)`) is idempotent.** It reads `versions.tsv` and `owners.tsv` and atomically rewrites both `artifacts.tsv` and `modules.tsv` (the latter is also removed when no qualifying `named` row survives, so the absence of `modules.tsv` is itself a valid resolved state). In the post-baseline (dirty-list) flow, the dirty entry is removed only *after* the new files are committed: a crash either leaves the old files + dirty entry (next run redoes, same result) or the new files + dirty entry (next run redoes with the same input, same output, then removes the entry). In the first-pass (tree-walk) flow, idempotence falls out of the per-module skip-if-exists check: `regenerateMissing()` regenerates only modules whose `artifacts.tsv` is missing, so a crash mid-walk leaves only the in-progress module to redo; modules already completed are skipped on the next run.
 6. **The producer holds nothing durable.** Its in-flight set lives only in the bounded queue plus per-scanner state. A crash anywhere mid-stream simply loses both, and the next run re-streams the same index chunk; coordinates that had already been scanned and marked are skipped by the `scanned/` filter, coordinates that had been in flight at crash time are re-emitted and re-scanned (idempotent against the audit log).
 7. **The `--resume false` switch is the only way to deliberately drop in-flight state.** It clears `state.properties` and `dirty-modules.tsv` in one shot so the next run starts from a clean baseline. `data/scanned/` and `data/modules/` are preserved - already-scanned coordinates remain skipped, the audit log remains intact.
 
-What the design does **not** protect against: a power loss that loses OS-buffered writes (the crawler does not call `fsync`, relying on atomic rename for process-crash semantics). And: an interruption during stage 2 followed by an edit to `versions.tsv` from outside the crawler would, of course, produce a different `current.tsv` on the next regenerate - by design.
+What the design does **not** protect against: a power loss that loses OS-buffered writes (the crawler does not call `fsync`, relying on atomic rename for process-crash semantics). And: an interruption during stage 2 followed by an edit to `versions.tsv` from outside the crawler would, of course, produce different resolved views on the next regenerate (by design).
 
 ### Bounding heap usage on long runs
 
@@ -541,11 +668,13 @@ sources/build/jenesis/crawler/index/  Maven Central index format + batch sources
 sources/build/jenesis/crawler/store/  on-disk stores: ModuleStore, ScannedStore,
                                       DirtyModules
 sources/build/jenesis/crawler/model/  domain records: Coordinate, Version, ModuleType,
-                                      ModuleEntry, CurrentEntry, ScannedEntry,
-                                      ScannedModule
+                                      ModuleEntry, ArtifactsEntry, ModuleVersionEntry,
+                                      ScannedEntry, ScannedModule
 sources/build/jenesis/crawler/publish/ checkpoint sinks: CheckpointListener,
                                       StatusWriter, GitPublisher
 tests/                   tests (JUnit Jupiter + AssertJ), single test package
+worker/                  Cloudflare Worker (index.js) that serves the Jenesis Module
+                         Repository contract over data/modules/
 build/jenesis            symlink into the Jenesis submodule (the launcher)
 .jenesis/                Jenesis submodule (sources + runtime cache under cache/)
 .github/workflows/       build (push/PR), crawl (scheduled), summary (scheduled),

@@ -349,9 +349,9 @@ public final class Crawler implements AutoCloseable {
         // During the first full sweep, per-module dirty tracking is suppressed
         // (a full pass touches ~every module in Maven Central, so dirty-modules.tsv
         // would balloon for no benefit). At first-pass completion we walk the
-        // modules tree and regenerate current.tsv for any directory that doesn't
-        // already have one - the file's existence is the progress marker, so a
-        // crashed regeneration resumes naturally on the next run.
+        // modules tree and regenerate the resolved views for any directory whose
+        // artifacts.tsv is missing - that file's existence is the progress marker,
+        // so a crashed regeneration resumes naturally on the next run.
         boolean firstPass = !state.hasIndexBaseline();
         if (!firstPass) {
             drainDirtyIfPending();
@@ -396,7 +396,7 @@ public final class Crawler implements AutoCloseable {
                     state = reloaded;
                     continue;
                 }
-                System.out.println("[info] Chunk not yet complete; deferring current.tsv regeneration ("
+                System.out.println("[info] Chunk not yet complete; deferring resolved-view regeneration ("
                         + dirtyModules.size() + " module(s) pending).");
                 return aggregator.finish(false);
             }
@@ -495,7 +495,7 @@ public final class Crawler implements AutoCloseable {
         if (dirtyModules.isEmpty()) {
             return;
         }
-        System.out.println("[info] Resuming current.tsv regeneration from previous run ("
+        System.out.println("[info] Resuming resolved-view regeneration from previous run ("
                 + dirtyModules.size() + " module(s) pending).");
         drainDirty();
     }
@@ -505,14 +505,14 @@ public final class Crawler implements AutoCloseable {
             return;
         }
         int total = dirtyModules.size();
-        System.out.println("[info] Regenerating current.tsv for " + total + " module(s)...");
+        System.out.println("[info] Regenerating resolved views for " + total + " module(s)...");
         long progress = 0L;
         for (String moduleName : dirtyModules.snapshot()) {
             store.regenerate(moduleName);
             dirtyModules.remove(moduleName);
             progress++;
         }
-        System.out.println("[info] current.tsv regeneration complete: " + progress + " module(s).");
+        System.out.println("[info] Resolved-view regeneration complete: " + progress + " module(s).");
     }
 
     /**
@@ -542,17 +542,17 @@ public final class Crawler implements AutoCloseable {
     }
 
     /**
-     * Regenerates current.tsv for every module under the store that doesn't
-     * already have one. Called once at first-pass completion (when dirty
-     * tracking was suppressed during the sweep), before the index baseline is
-     * updated. The existence of a current*.tsv per directory acts as the
-     * progress marker: a mid-regeneration crash leaves baseline unset, the
-     * next run re-enters the first-pass branch, the sweep re-runs quickly
-     * (scannedStore skips every already-scanned coordinate), and regeneration
-     * resumes from the directories still missing a current.tsv.
+     * Regenerates resolved views ({@code artifacts.tsv} + {@code modules.tsv}) for every
+     * module under the store that doesn't already have an {@code artifacts.tsv}. Called
+     * once at first-pass completion (when dirty tracking was suppressed during the sweep),
+     * before the index baseline is updated. The existence of {@code artifacts.tsv} per
+     * directory acts as the progress marker: a mid-regeneration crash leaves the baseline
+     * unset, the next run re-enters the first-pass branch, the sweep re-runs quickly
+     * (scannedStore skips every already-scanned coordinate), and regeneration resumes from
+     * the directories still missing an {@code artifacts.tsv}.
      */
     private void regenerateMissingForFirstPass() throws IOException {
-        System.out.println("[info] First pass complete: regenerating missing current.tsv files...");
+        System.out.println("[info] First pass complete: regenerating missing resolved-view files...");
         long count = store.regenerateMissing();
         System.out.println("[info] First-pass regeneration complete: " + count + " module(s) written.");
     }

@@ -1,7 +1,7 @@
 package build.jenesis.crawler;
 
 import module java.base;
-import build.jenesis.crawler.model.CurrentEntry;
+import build.jenesis.crawler.model.ArtifactsEntry;
 import build.jenesis.crawler.store.ModuleStore;
 
 public final class ListOwners {
@@ -150,7 +150,7 @@ public final class ListOwners {
                         if (line.isEmpty()) {
                             return;
                         }
-                        CurrentEntry parsed = CurrentEntry.parse(line);
+                        ArtifactsEntry parsed = ArtifactsEntry.parse(line);
                         owners.add(groupOnly
                                 ? parsed.groupId()
                                 : parsed.groupId() + ':' + parsed.artifactId());
@@ -172,7 +172,7 @@ public final class ListOwners {
         System.out.println();
         System.out.println("Writes a SetOwners-compatible properties stream to stdout, listing the current");
         System.out.println("owners of every module under data/modules/ whose dotted name matches any glob.");
-        System.out.println("Owners are read from current.tsv (the resolved view); modules whose current.tsv");
+        System.out.println("Owners are read from artifacts.tsv (the resolved view); modules whose artifacts.tsv");
         System.out.println("is missing or empty are skipped.");
         System.out.println();
         System.out.println("Glob semantics mirror the module-name structure: '*' matches one segment,");

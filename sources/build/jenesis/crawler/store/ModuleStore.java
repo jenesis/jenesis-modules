@@ -2,7 +2,7 @@ package build.jenesis.crawler.store;
 
 import module java.base;
 import build.jenesis.crawler.model.Coordinate;
-import build.jenesis.crawler.model.CurrentEntry;
+import build.jenesis.crawler.model.ArtifactsEntry;
 import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
 import build.jenesis.crawler.model.ModuleVersionEntry;
@@ -23,8 +23,6 @@ public final class ModuleStore {
     public static final String MODULES_FILE_BASE = "modules";
     public static final String LEAF_FILE_EXTENSION = ".tsv";
     public static final String OWNERS_FILE = "owners.tsv";
-    /** Legacy file base from before the split; deleted on regeneration. */
-    public static final String LEGACY_CURRENT_FILE_BASE = "current";
 
     public static final Comparator<ModuleEntry> CHRONOLOGICAL = Comparator
             .comparingLong(ModuleEntry::publishedAt)
@@ -77,19 +75,13 @@ public final class ModuleStore {
                     ? MODULES_FILE_BASE + LEAF_FILE_EXTENSION
                     : MODULES_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
         }
-
-        public String legacyCurrentFileName() {
-            return classifier == null
-                    ? LEGACY_CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
-                    : LEGACY_CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
-        }
     }
 
     /**
      * Appends a module declaration to the in-memory buffer for the next flush.
      * Returns true when the entry will be persisted; false only for sentinel
      * (missing) publish timestamps, which are dropped. The owners.tsv allowlist
-     * is NOT consulted here - it only governs current.tsv generation. Coordinates
+     * is NOT consulted here - it only governs resolved-view generation. Coordinates
      * that fail policy still land in versions.tsv as part of the audit log.
      *
      * <p>The {@code moduleVersion} parameter carries the raw version string from
@@ -115,7 +107,7 @@ public final class ModuleStore {
         return dirty.size();
     }
 
-    /** Flushes the in-memory buffer to versions.tsv files. Does NOT touch current.tsv. */
+    /** Flushes the in-memory buffer to versions.tsv files. Does NOT touch the resolved views. */
     public void flush() throws IOException {
         for (Map.Entry<StoreKey, NavigableSet<ModuleEntry>> entry : dirty.entrySet()) {
             writeVersions(entry.getKey(), entry.getValue());
@@ -138,15 +130,10 @@ public final class ModuleStore {
     /**
      * Walks the modules tree and regenerates {@code artifacts[-classifier].tsv} and
      * {@code modules[-classifier].tsv} for every {@code versions[-classifier].tsv} file
-     * that doesn't already have both companions. The unit of progress is the
-     * (module, classifier) pair: a crash during the walk leaves the partially-finished
-     * module in a fully-recoverable state - the next invocation skips classifier files
-     * that finished and resumes from exactly the ones still missing.
-     *
-     * <p>A module is considered "missing" when EITHER of the two output files is absent,
-     * so existing datasets that only have {@code artifacts.tsv} (or the legacy
-     * {@code current.tsv}) trigger regeneration of both. Returns the number of times
-     * {@link #regenerate(String)} was invoked.
+     * whose {@code artifacts.tsv} sibling is missing. The unit of progress is the module:
+     * a crash during the walk leaves the partially-finished module in a fully-recoverable
+     * state, since the next invocation skips modules whose {@code artifacts.tsv} already
+     * exists. Returns the number of times {@link #regenerate(String)} was invoked.
      */
     public long regenerateMissing() throws IOException {
         if (!Files.isDirectory(root)) {
@@ -170,10 +157,7 @@ public final class ModuleStore {
                 for (ClassifierFile classifierFile : versionFiles) {
                     String classifier = classifierFile.classifier();
                     Path artifactsFile = dir.resolve(artifactsFileName(classifier));
-                    Path modulesFile = dir.resolve(modulesFileName(classifier));
-                    Path legacyCurrentFile = dir.resolve(legacyCurrentFileName(classifier));
-                    if (!Files.exists(artifactsFile) || !Files.exists(modulesFile)
-                            || Files.exists(legacyCurrentFile)) {
+                    if (!Files.exists(artifactsFile)) {
                         anyMissing = true;
                         break;
                     }
@@ -204,9 +188,7 @@ public final class ModuleStore {
      * Rebuilds {@code artifacts[-classifier].tsv} and {@code modules[-classifier].tsv} files
      * for the given module from its {@code versions.tsv} contents intersected with
      * {@code owners.tsv} (when present) or the implicit-owner rule (when absent). Existing
-     * output files that no longer have content are deleted. Stale {@code current[-classifier].tsv}
-     * files from the pre-split era are deleted unconditionally so a renamed-on-disk dataset
-     * doesn't carry the old name forward.
+     * output files that no longer have content are deleted.
      *
      * <p>{@code artifacts.tsv} carries the per-Maven-version resolution (one row per Maven
      * version that survives the owners filter). {@code modules.tsv} carries the per-module-version
@@ -229,12 +211,12 @@ public final class ModuleStore {
         for (ClassifierFile classifierFile : listVersionFiles(dir)) {
             List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
             String classifier = classifierFile.classifier();
-            List<CurrentEntry> artifacts = resolve(versions, owners);
+            List<ArtifactsEntry> artifacts = resolve(versions, owners);
             Path artifactsFile = dir.resolve(artifactsFileName(classifier));
             if (artifacts.isEmpty()) {
                 Files.deleteIfExists(artifactsFile);
             } else {
-                writeCurrent(artifactsFile, artifacts);
+                writeArtifacts(artifactsFile, artifacts);
             }
             List<ModuleVersionEntry> modules = resolveModules(versions, owners);
             Path modulesFile = dir.resolve(modulesFileName(classifier));
@@ -242,26 +224,6 @@ public final class ModuleStore {
                 Files.deleteIfExists(modulesFile);
             } else {
                 writeModules(modulesFile, modules);
-            }
-        }
-        // Sweep any pre-split current[-classifier].tsv files in this module directory. We
-        // can't key the sweep off classifier files because a classifier may exist in the
-        // legacy data without a matching versions file (the resolver might have written one
-        // before its source got cleaned up). A directory-level scan catches all of them.
-        try (DirectoryStream<Path> entries = Files.newDirectoryStream(dir)) {
-            for (Path entry : entries) {
-                if (!Files.isRegularFile(entry)) {
-                    continue;
-                }
-                String name = entry.getFileName().toString();
-                if (!name.endsWith(LEAF_FILE_EXTENSION)) {
-                    continue;
-                }
-                String stem = name.substring(0, name.length() - LEAF_FILE_EXTENSION.length());
-                if (stem.equals(LEGACY_CURRENT_FILE_BASE)
-                        || stem.startsWith(LEGACY_CURRENT_FILE_BASE + '-')) {
-                    Files.deleteIfExists(entry);
-                }
             }
         }
     }
@@ -284,12 +246,6 @@ public final class ModuleStore {
         return classifier == null
                 ? MODULES_FILE_BASE + LEAF_FILE_EXTENSION
                 : MODULES_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
-    }
-
-    private static String legacyCurrentFileName(String classifier) {
-        return classifier == null
-                ? LEGACY_CURRENT_FILE_BASE + LEAF_FILE_EXTENSION
-                : LEGACY_CURRENT_FILE_BASE + '-' + classifier + LEAF_FILE_EXTENSION;
     }
 
     private record ClassifierFile(String classifier, Path path) {
@@ -368,7 +324,7 @@ public final class ModuleStore {
      * for each (Maven version) pick the row with the oldest publishedAt - that becomes
      * the canonical {@code artifacts.tsv} row.
      */
-    private static List<CurrentEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners) {
+    private static List<ArtifactsEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners) {
         if (versions.isEmpty()) {
             return List.of();
         }
@@ -385,9 +341,9 @@ public final class ModuleStore {
             bestByVersion.merge(entry.mavenVersion().raw(), entry,
                     (existing, candidate) -> pickOrder.compare(candidate, existing) < 0 ? candidate : existing);
         }
-        List<CurrentEntry> result = bestByVersion.values().stream()
-                .map(CurrentEntry::of)
-                .sorted(CurrentEntry.NEWEST_FIRST)
+        List<ArtifactsEntry> result = bestByVersion.values().stream()
+                .map(ArtifactsEntry::of)
+                .sorted(ArtifactsEntry.NEWEST_FIRST)
                 .collect(Collectors.toCollection(ArrayList::new));
         return result;
     }
@@ -467,11 +423,11 @@ public final class ModuleStore {
         atomicMove(temp, file);
     }
 
-    private static void writeCurrent(Path file, List<CurrentEntry> entries) throws IOException {
+    private static void writeArtifacts(Path file, List<ArtifactsEntry> entries) throws IOException {
         ensureParent(file);
         Path temp = file.resolveSibling(file.getFileName() + ".tmp");
         try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
-            for (CurrentEntry entry : entries) {
+            for (ArtifactsEntry entry : entries) {
                 writer.write(entry.format());
                 writer.newLine();
             }

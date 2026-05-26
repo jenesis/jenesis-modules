@@ -45,7 +45,7 @@ public class ListOwnersTest {
     @Test
     public void emits_group_ids_only_from_artifacts_tsv_by_default() throws IOException {
         // artifacts.tsv has multiple groupIds (because owners.tsv allowed several); listing collapses to groupIds.
-        writeCurrent("com.example.lib", null, """
+        writeArtifacts("com.example.lib", null, """
                 1.0\tnamed\tcom.example\tlib
                 0.9\tnamed\thostile.group\timposter
                 """);
@@ -59,7 +59,7 @@ public class ListOwnersTest {
     @Test
     public void includes_artifact_ids_when_group_only_disabled() throws IOException {
         System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
-        writeCurrent("com.example.lib", null, """
+        writeArtifacts("com.example.lib", null, """
                 1.0\tnamed\tcom.example\tlib
                 0.9\tnamed\thostile.group\timposter
                 """);
@@ -73,9 +73,9 @@ public class ListOwnersTest {
     @Test
     public void skips_modules_with_owners_tsv_when_only_missing_set() throws IOException {
         System.setProperty(ListOwners.PROP_ONLY_MISSING_OWNERS, "true");
-        Path withOwners = writeCurrent("com.example.has", null, "1.0\tnamed\tcom.example\thas\n");
+        Path withOwners = writeArtifacts("com.example.has", null, "1.0\tnamed\tcom.example\thas\n");
         Files.writeString(withOwners.resolve("owners.tsv"), "com.example\thas\n");
-        writeCurrent("com.example.lacks", null, "1.0\tnamed\tcom.example\tlacks\n");
+        writeArtifacts("com.example.lacks", null, "1.0\tnamed\tcom.example\tlacks\n");
 
         ListOwners.main(new String[]{"com.example.*"});
 
@@ -86,8 +86,8 @@ public class ListOwnersTest {
     @Test
     public void only_ambiguous_keeps_modules_with_more_than_one_owner() throws IOException {
         System.setProperty(ListOwners.PROP_ONLY_AMBIGUOUS, "true");
-        writeCurrent("solo.module", null, "1.0\tnamed\tsolo.example\tlib\n");
-        writeCurrent("contested.module", null, """
+        writeArtifacts("solo.module", null, "1.0\tnamed\tsolo.example\tlib\n");
+        writeArtifacts("contested.module", null, """
                 1.0\tnamed\tcanonical.org\tcontested
                 1.0\tnamed\thostile.org\tcontested
                 """);
@@ -100,8 +100,8 @@ public class ListOwnersTest {
 
     @Test
     public void single_star_does_not_cross_dots_but_double_star_does() throws IOException {
-        writeCurrent("net.bytebuddy.agent", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
-        writeCurrent("net.bytebuddy.agent.builder", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
+        writeArtifacts("net.bytebuddy.agent", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
+        writeArtifacts("net.bytebuddy.agent.builder", null, "1.0\tnamed\tnet.bytebuddy\tbyte-buddy-agent\n");
 
         ListOwners.main(new String[]{"net.bytebuddy.*"});
         assertThat(capturedLines())
@@ -117,8 +117,8 @@ public class ListOwnersTest {
     @Test
     public void merges_owners_across_classifier_variants() throws IOException {
         System.setProperty(ListOwners.PROP_GROUP_ONLY, "false");
-        writeCurrent("classy.module", null, "1.0\tnamed\torg.canonical\tlib\n");
-        writeCurrent("classy.module", "jakarta", "1.0\tnamed\torg.canonical\tlib-jakarta\n");
+        writeArtifacts("classy.module", null, "1.0\tnamed\torg.canonical\tlib\n");
+        writeArtifacts("classy.module", "jakarta", "1.0\tnamed\torg.canonical\tlib-jakarta\n");
 
         ListOwners.main(new String[]{"classy.*"});
 
@@ -128,9 +128,9 @@ public class ListOwnersTest {
 
     @Test
     public void output_is_alphabetised_by_module_name() throws IOException {
-        writeCurrent("z.alpha", null, "1.0\tnamed\tz.example\tlib\n");
-        writeCurrent("a.alpha", null, "1.0\tnamed\ta.example\tlib\n");
-        writeCurrent("m.alpha", null, "1.0\tnamed\tm.example\tlib\n");
+        writeArtifacts("z.alpha", null, "1.0\tnamed\tz.example\tlib\n");
+        writeArtifacts("a.alpha", null, "1.0\tnamed\ta.example\tlib\n");
+        writeArtifacts("m.alpha", null, "1.0\tnamed\tm.example\tlib\n");
 
         ListOwners.main(new String[]{"*.alpha"});
 
@@ -142,8 +142,8 @@ public class ListOwnersTest {
 
     @Test
     public void skips_modules_outside_glob() throws IOException {
-        writeCurrent("included.lib", null, "1.0\tnamed\ti.example\tlib\n");
-        writeCurrent("excluded.lib", null, "1.0\tnamed\te.example\tlib\n");
+        writeArtifacts("included.lib", null, "1.0\tnamed\ti.example\tlib\n");
+        writeArtifacts("excluded.lib", null, "1.0\tnamed\te.example\tlib\n");
 
         ListOwners.main(new String[]{"included.*"});
 
@@ -152,7 +152,7 @@ public class ListOwnersTest {
     }
 
     @Test
-    public void skips_modules_with_no_current_tsv() throws IOException {
+    public void skips_modules_with_no_artifacts_tsv() throws IOException {
         // versions.tsv exists but artifacts.tsv is missing (e.g. stage 2 hasn't run yet).
         Path dir = modulesRoot.resolve("pending").resolve("module");
         Files.createDirectories(dir);
@@ -163,7 +163,7 @@ public class ListOwnersTest {
         assertThat(capturedLines()).isEmpty();
     }
 
-    private Path writeCurrent(String moduleName, String classifier, String content) throws IOException {
+    private Path writeArtifacts(String moduleName, String classifier, String content) throws IOException {
         Path dir = modulesRoot;
         for (String segment : moduleName.split("\\.", -1)) {
             dir = dir.resolve(segment);
