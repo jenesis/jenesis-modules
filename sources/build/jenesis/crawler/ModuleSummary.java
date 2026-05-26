@@ -90,8 +90,8 @@ public final class ModuleSummary {
                         Totals totals,
                         TypeBreakdown named,
                         TypeBreakdown automatic,
-                        ModuleVersionResolution moduleVersionResolution,
                         ModuleVersionCoverage moduleVersionCoverage,
+                        LatestModuleVersionCoverage latestModuleVersionCoverage,
                         MismatchPatterns mismatchPatterns,
                         Transitions transitions,
                         RecentActivity recent,
@@ -114,6 +114,16 @@ public final class ModuleSummary {
      * </ul>
      */
     public record ModuleVersionCoverage(long explicit, long mismatching, long absent) {
+    }
+
+    /**
+     * Same breakdown as {@link ModuleVersionCoverage} but counted once per module, against
+     * the highest-versioned named row in the resolved view (the row a consumer fetching the
+     * "latest" of a module would land on). Modules with no named row contribute to none of
+     * the buckets. Where {@link ModuleVersionCoverage} answers "how do publishers fill the
+     * field across all releases", this answers "where is each module today".
+     */
+    public record LatestModuleVersionCoverage(long explicit, long mismatching, long absent) {
     }
 
     /**
@@ -173,15 +183,6 @@ public final class ModuleSummary {
                          long distinctMavenArtifacts,
                          int distinctGroupIds,
                          Optional<Instant> latestPublishedAt) {
-    }
-
-    /**
-     * Distinct module names split by whether their resolved owner publishes any named module
-     * (and therefore the module is reachable by module-version-keyed lookup) or only automatic
-     * modules (no module-version space). Sums to the total number of modules whose resolved
-     * owner exists at all; modules with no resolved owner contribute to neither.
-     */
-    public record ModuleVersionResolution(int withResolution, int automaticOnly) {
     }
 
     public record TypeBreakdown(int uniqueModules, long rows) {
@@ -337,20 +338,25 @@ public final class ModuleSummary {
         builder.append("| Named | ").append(fmt(stats.named().uniqueModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
         builder.append("| Automatic | ").append(fmt(stats.automatic().uniqueModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
 
-        ModuleVersionResolution resolution = stats.moduleVersionResolution();
         builder.append("## Lookup by module-info version\n\n");
-        builder.append("Counts **distinct modules** by whether they can be addressed by the version declared inside their `module-info` (a value the publisher embeds when compiling the module), as opposed to only by the Maven coordinate version. A module supports `module-info` lookup when its canonical publisher has shipped at least one named JAR (each named JAR carries a `module-info` whose declared version, or the Maven version when none is declared, becomes the lookup key). Modules whose canonical publisher has only ever shipped automatic JARs (no `module-info` at all) have no such lookup key and can only be addressed by their Maven coordinate.\n\n");
+        builder.append("Counts **distinct modules** by whether they can be addressed by the version declared inside their `module-info`, judged against the **latest** resolved version of each module. A module is addressable by `module-info` version when its latest published row is a named JAR: the `module-info` it carries (with declared version, or the Maven version as fallback when `module-info` declared none) becomes the lookup key. When the latest row is automatic the module has no `module-info` to consult, so it can only be addressed by its Maven coordinate.\n\n");
         builder.append("| Module addressability | Modules |\n|---|---:|\n");
-        builder.append("| Addressable by `module-info` version | ").append(fmt(resolution.withResolution())).append(" |\n");
-        builder.append("| Addressable only by Maven coordinate (automatic-only canonical publisher) | ").append(fmt(resolution.automaticOnly())).append(" |\n\n");
+        builder.append("| Addressable by `module-info` version (latest row is named) | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
+        builder.append("| Addressable only by Maven coordinate (latest row is automatic) | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n\n");
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
+        LatestModuleVersionCoverage latestCoverage = stats.latestModuleVersionCoverage();
         builder.append("## `module-info` version field across named publications\n\n");
         builder.append("Counts **named publications** (one count per published JAR, not per distinct module) by how the JAR's `module-info` fills its optional version attribute. Automatic JARs are excluded; they carry no `module-info`. The three rows are mutually exclusive and cover every named publication in the catalogue. The breakdown table below classifies the `mismatching` bucket by *why* the two versions differ.\n\n");
         builder.append("| Publication category | Publications |\n|---|---:|\n");
         builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(coverage.explicit())).append(" |\n");
         builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(coverage.mismatching())).append(" |\n");
         builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(coverage.absent())).append(" |\n\n");
+        builder.append("Same breakdown but counted once per **module**, against the latest named row in the resolved view (the row a consumer fetching the \"latest\" of a module would land on). Modules whose latest row is automatic are excluded.\n\n");
+        builder.append("| Module category (by latest named row) | Modules |\n|---|---:|\n");
+        builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(latestCoverage.explicit())).append(" |\n");
+        builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(latestCoverage.mismatching())).append(" |\n");
+        builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(latestCoverage.absent())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -589,6 +595,9 @@ public final class ModuleSummary {
         private long moduleVersionExplicit;
         private long moduleVersionMismatching;
         private long moduleVersionAbsent;
+        private long latestModuleVersionExplicit;
+        private long latestModuleVersionMismatching;
+        private long latestModuleVersionAbsent;
         private long mismatchSnapshotSuffix;
         private long mismatchOtherSuffixAdded;
         private long mismatchSuffixDropped;
@@ -614,8 +623,6 @@ public final class ModuleSummary {
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
         private final Map<YearMonth, long[]> monthlyTypeCounts = new HashMap<>();
         private long resolvedModuleVersions;
-        private int modulesWithModuleVersionResolution;
-        private int modulesAutomaticOnly;
 
         Aggregator(Instant generatedAt, int topN) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
@@ -652,22 +659,10 @@ public final class ModuleSummary {
             if (dirHasClassifier) {
                 dirsWithClassifier.add(dir);
             }
-            // Module-version resolution: count rows from every modules[-classifier].tsv in this
-            // directory, and classify the module as either reachable by module-version-keyed
-            // lookup (any non-empty modules.tsv) or automatic-only (artifacts.tsv exists but no
-            // modules.tsv anywhere).
-            boolean dirHasModulesRows = false;
+            // Sum rows across every modules[-classifier].tsv in this directory for the Totals
+            // "Distinct module versions in resolved catalogue" tally.
             for (ClassifierFile entry : listTsv(dir, MODULES_STEM)) {
-                long rows = countTsvRows(entry.path());
-                resolvedModuleVersions += rows;
-                if (rows > 0L) {
-                    dirHasModulesRows = true;
-                }
-            }
-            if (dirHasModulesRows) {
-                modulesWithModuleVersionResolution++;
-            } else if (!artifactsByClassifier.isEmpty()) {
-                modulesAutomaticOnly++;
+                resolvedModuleVersions += countTsvRows(entry.path());
             }
         }
 
@@ -795,6 +790,27 @@ public final class ModuleSummary {
                     namedUniqueModules++;
                     if (recent) {
                         namedModulesPublishedLastWeek++;
+                    }
+                    // Latest-version module-info coverage: classify the canonical row matching
+                    // the latest artifacts.tsv entry. The lookup keys are (mavenVersion.raw,
+                    // groupId, artifactId), which uniquely identify a single resolved row.
+                    String latestVersionRaw = latest.version().raw();
+                    String latestGroupId = latest.groupId();
+                    String latestArtifactId = latest.artifactId();
+                    for (ModuleEntry candidate : resolvedVersions) {
+                        if (candidate.mavenVersion().raw().equals(latestVersionRaw)
+                                && candidate.groupId().equals(latestGroupId)
+                                && candidate.artifactId().equals(latestArtifactId)) {
+                            String latestModuleVersion = candidate.moduleVersion();
+                            if (latestModuleVersion.isEmpty()) {
+                                latestModuleVersionAbsent++;
+                            } else if (new Version(latestModuleVersion).equals(candidate.mavenVersion())) {
+                                latestModuleVersionExplicit++;
+                            } else {
+                                latestModuleVersionMismatching++;
+                            }
+                            break;
+                        }
                     }
                 } else if (latest.type() == ModuleType.AUTOMATIC) {
                     automaticUniqueModules++;
@@ -950,6 +966,10 @@ public final class ModuleSummary {
                     moduleVersionExplicit,
                     moduleVersionMismatching,
                     moduleVersionAbsent);
+            LatestModuleVersionCoverage latestCoverage = new LatestModuleVersionCoverage(
+                    latestModuleVersionExplicit,
+                    latestModuleVersionMismatching,
+                    latestModuleVersionAbsent);
             MismatchPatterns mismatchPatterns = new MismatchPatterns(
                     mismatchSnapshotSuffix,
                     mismatchOtherSuffixAdded,
@@ -968,11 +988,8 @@ public final class ModuleSummary {
                 long[] counts = monthlyTypeCounts.getOrDefault(month, new long[2]);
                 monthly.add(new MonthlyPublication(month, counts[0], counts[1]));
             }
-            ModuleVersionResolution resolution = new ModuleVersionResolution(
-                    modulesWithModuleVersionResolution,
-                    modulesAutomaticOnly);
-            return new Stats(generatedAt, state, totals, named, automatic, resolution, coverage, mismatchPatterns,
-                    transitions, recent, monthly, naming, errors, top);
+            return new Stats(generatedAt, state, totals, named, automatic, coverage, latestCoverage,
+                    mismatchPatterns, transitions, recent, monthly, naming, errors, top);
         }
 
         /**
