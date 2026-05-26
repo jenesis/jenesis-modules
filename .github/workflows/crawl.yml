@@ -1,12 +1,8 @@
 name: Crawl Maven Central for Java Modules
 
 on:
-  # Scheduled trigger temporarily disabled while the PatchTimestamp backfill runs - the two
-  # workflows share data/modules/ and must not overlap (PatchTimestamp rewrites versions.tsv;
-  # an in-flight crawl can append rows or regenerate resolved views on top of the rewrite).
-  # Re-add the entry below to resume the twice-daily schedule:
-  #   schedule:
-  #     - cron: '7 */12 * * *'
+  schedule:
+    - cron: '7 */12 * * *'
   workflow_dispatch:
     inputs:
       budget_minutes:
