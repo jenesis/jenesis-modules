@@ -915,9 +915,11 @@ public final class ModuleSummary {
 
         void acceptScannedFile(Path file) throws IOException {
             // Each scanned tsv file corresponds to a single (groupId, artifactId) Maven coordinate,
-            // regardless of how many versions or classifiers it contains. Counting files therefore
-            // gives the number of distinct Maven artifacts the crawler has touched.
-            distinctMavenArtifactTotal++;
+            // regardless of how many versions or classifiers it contains. We count the file toward
+            // the distinct-artifact tally only when at least one row in it is a successful scan;
+            // a coordinate whose every version is a permanent failure never actually delivered an
+            // artifact and shouldn't inflate the catalogue size.
+            boolean anySuccess = false;
             try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
                 Iterator<String> iterator = lines.iterator();
                 while (iterator.hasNext()) {
@@ -933,12 +935,16 @@ public final class ModuleSummary {
                     }
                     scannedArtifactTotal++;
                     if (!entry.isFailed()) {
+                        anySuccess = true;
                         continue;
                     }
                     processingErrorTotal++;
                     String normalized = normalizeErrorMessage(entry.errorMessage());
                     errorMessageCounts.merge(normalized, 1L, Long::sum);
                 }
+            }
+            if (anySuccess) {
+                distinctMavenArtifactTotal++;
             }
         }
 
