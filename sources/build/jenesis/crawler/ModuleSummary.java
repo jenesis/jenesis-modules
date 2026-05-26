@@ -118,33 +118,34 @@ public final class ModuleSummary {
     }
 
     /**
-     * Same breakdown as {@link ModuleVersionCoverage} but counted once per module, against
-     * the highest-versioned named row in the resolved view (the row a consumer fetching the
-     * "latest" of a module would land on). Modules with no named row contribute to none of
-     * the buckets. Where {@link ModuleVersionCoverage} answers "how do publishers fill the
-     * field across all releases", this answers "where is each module today".
+     * Same breakdown as {@link ModuleVersionCoverage} but counted once per canonical module,
+     * against the highest-versioned named row in its no-classifier resolved view (the row a
+     * consumer fetching the "latest" of a module would land on). Classifier variants and
+     * modules with no canonical named row contribute to none of the buckets. Where
+     * {@link ModuleVersionCoverage} answers "how do publishers fill the field across all
+     * canonical releases", this answers "where is each canonical module today".
      */
     public record LatestModuleVersionCoverage(long explicit, long mismatching, long absent) {
     }
 
     /**
-     * Per distinct module name (collapsing classifier variants), what happens if every row
-     * with a mismatching {@code module-info} version is dropped. Useful for sizing the
-     * impact of a "reject Maven-vs-module-info version mismatches" policy.
+     * Per canonical module (no-classifier view), what happens if every row with a mismatching
+     * {@code module-info} version is dropped. Useful for sizing the impact of a "reject
+     * Maven-vs-module-info version mismatches" policy. Classifier-keyed rows are out of scope
+     * (they would otherwise inflate the picture with fat-jar / shaded variants whose bundled
+     * {@code module-info} version is expected to contradict the bundling Maven version).
      *
      * <ul>
-     *   <li>{@code total}: distinct module names that have at least one named row.
+     *   <li>{@code total}: canonical module names that have at least one named row.
      *       Equals {@code clean + partial + fullyLost}.</li>
      *   <li>{@code clean}: at least one named row exists, and none are mismatching. Untouched.</li>
      *   <li>{@code partial}: at least one mismatching row exists, but at least one
-     *       non-mismatching row survives across the module's variants. The module loses some
-     *       versions but keeps a path forward.</li>
-     *   <li>{@code fullyLost}: every named row across every classifier variant is
-     *       mismatching. The module has no surviving row after the drop and disappears from
-     *       the module-version lookup space entirely.</li>
-     *   <li>{@code losingLatest}: at least one classifier variant's latest named row is
-     *       mismatching. After the drop, the module's "latest" shifts to an older version
-     *       (or vanishes entirely, if also in {@code fullyLost}).</li>
+     *       non-mismatching row survives. The module loses some versions but keeps a path forward.</li>
+     *   <li>{@code fullyLost}: every named row is mismatching. The module has no surviving row
+     *       after the drop and disappears from the module-version lookup space entirely.</li>
+     *   <li>{@code losingLatest}: the canonical latest named row is mismatching. After the drop,
+     *       the module's "latest" shifts to an older version (or vanishes entirely, if also in
+     *       {@code fullyLost}).</li>
      * </ul>
      */
     public record MismatchImpact(int total, int clean, int partial, int fullyLost, int losingLatest) {
@@ -209,7 +210,7 @@ public final class ModuleSummary {
                          Optional<Instant> latestPublishedAt) {
     }
 
-    public record TypeBreakdown(int uniqueModules, long rows) {
+    public record TypeBreakdown(int distinctModules, long rows) {
     }
 
     public record Transitions(int autoToNamed, int namedToAuto) {
@@ -347,48 +348,47 @@ public final class ModuleSummary {
         builder.append("| Total named modules with module-info version | ").append(fmt(totals.namedVersionRowsWithModuleVersion())).append(" |\n");
         builder.append("| Distinct Maven artifacts | ").append(fmt(totals.distinctMavenArtifacts())).append(" |\n");
         builder.append("| Distinct module names | ").append(fmt(totals.modules())).append(" |\n");
-        builder.append("| Distinct automatic modules | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n");
-        builder.append("| Distinct named modules | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
+        builder.append("| Distinct automatic modules | ").append(fmt(stats.automatic().distinctModules())).append(" |\n");
+        builder.append("| Distinct named modules | ").append(fmt(stats.named().distinctModules())).append(" |\n");
         builder.append("| Distinct named modules with module-info version | ").append(fmt(totals.distinctModulesWithModuleVersion())).append(" |\n");
-        builder.append("| Distinct module versions in resolved catalogue | ").append(fmt(totals.resolvedModuleVersions())).append(" |\n");
         builder.append("| Distinct groupIds publishing modules | ").append(fmt(totals.distinctGroupIds())).append(" |\n");
         builder.append("| Most recent tracked publication | ")
                 .append(totals.latestPublishedAt().map(HUMAN_UTC_TIMESTAMP::format).orElse("(none)"))
                 .append(" |\n\n");
 
-        builder.append("## Type breakdown\n\n");
-        builder.append("Named vs automatic counts. Unique-module counts use the **latest** version's type, so a module that started automatic and is currently named counts as named. Row counts include every classifier variant.\n\n");
-        builder.append("| Type | Unique modules | Published rows |\n|---|---:|---:|\n");
-        builder.append("| Named | ").append(fmt(stats.named().uniqueModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
-        builder.append("| Automatic | ").append(fmt(stats.automatic().uniqueModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
+        builder.append("## Resolved catalogue size\n\n");
+        builder.append("Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **")
+                .append(fmt(totals.resolvedModuleVersions()))
+                .append("** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.\n\n");
 
-        builder.append("## Lookup by module-info version\n\n");
-        builder.append("Counts **distinct modules** by whether they can be addressed by the version declared inside their `module-info`, judged against the **latest** resolved version of each module. A module is addressable by `module-info` version when its latest published row is a named JAR: the `module-info` it carries (with declared version, or the Maven version as fallback when `module-info` declared none) becomes the lookup key. When the latest row is automatic the module has no `module-info` to consult, so it can only be addressed by its Maven coordinate.\n\n");
-        builder.append("| Module addressability | Modules |\n|---|---:|\n");
-        builder.append("| Addressable by `module-info` version (latest row is named) | ").append(fmt(stats.named().uniqueModules())).append(" |\n");
-        builder.append("| Addressable only by Maven coordinate (latest row is automatic) | ").append(fmt(stats.automatic().uniqueModules())).append(" |\n\n");
+        builder.append("## Type breakdown\n\n");
+        builder.append("Named vs automatic counts. Distinct-module counts use the **latest** version's type, so a module that started automatic and is currently named counts as named. Row counts include every classifier variant.\n\n");
+        builder.append("| Type | Distinct modules | Published rows |\n|---|---:|---:|\n");
+        builder.append("| Named | ").append(fmt(stats.named().distinctModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
+        builder.append("| Automatic | ").append(fmt(stats.automatic().distinctModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
         LatestModuleVersionCoverage latestCoverage = stats.latestModuleVersionCoverage();
         builder.append("## `module-info` version field across named publications\n\n");
-        builder.append("Counts **named publications** (one count per published JAR, not per distinct module) by how the JAR's `module-info` fills its optional version attribute. Automatic JARs are excluded; they carry no `module-info`. The three rows are mutually exclusive and cover every named publication in the catalogue. The breakdown table below classifies the `mismatching` bucket by *why* the two versions differ.\n\n");
+        builder.append("Every table in this section is scoped to **canonical (no-classifier) named publications**. Classifier-keyed rows (mostly fat-jar / shaded variants that bundle another module under their own Maven coordinate) are excluded, because the bundled module's `module-info` version is expected to contradict the bundling Maven version, which would otherwise overwhelm the signal here.\n\n");
+        builder.append("Counts canonical **named publications** (one count per published JAR, not per distinct module) by how the JAR's `module-info` fills its optional version attribute. Automatic JARs are excluded; they carry no `module-info`. The three rows are mutually exclusive and cover every canonical named publication in the catalogue. The breakdown table below classifies the `mismatching` bucket by *why* the two versions differ.\n\n");
         builder.append("| Publication category | Publications |\n|---|---:|\n");
         builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(coverage.explicit())).append(" |\n");
         builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(coverage.mismatching())).append(" |\n");
         builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(coverage.absent())).append(" |\n\n");
-        builder.append("Same breakdown but counted once per **module**, against the latest named row in the resolved view (the row a consumer fetching the \"latest\" of a module would land on). Modules whose latest row is automatic are excluded.\n\n");
-        builder.append("| Module category (by latest named row) | Modules |\n|---|---:|\n");
+        builder.append("Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the \"latest\" of a module would land on). Modules whose latest row is automatic are excluded.\n\n");
+        builder.append("| Module category (by latest canonical named row) | Modules |\n|---|---:|\n");
         builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(latestCoverage.explicit())).append(" |\n");
         builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(latestCoverage.mismatching())).append(" |\n");
         builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(latestCoverage.absent())).append(" |\n\n");
         MismatchImpact impact = stats.mismatchImpact();
-        builder.append("Sizes the impact of a hypothetical \"drop every mismatching row\" policy, counted once per **distinct module name** (collapsing classifier variants). Modules with no named row are excluded.\n\n");
-        builder.append("| Drop-mismatching impact | Module names |\n|---|---:|\n");
-        builder.append("| Total module names with at least one named row | ").append(fmt(impact.total())).append(" |\n");
-        builder.append("| Untouched (no mismatching row anywhere) | ").append(fmt(impact.clean())).append(" |\n");
-        builder.append("| Partially affected (loses some versions, at least one non-mismatching row survives) | ").append(fmt(impact.partial())).append(" |\n");
-        builder.append("| Fully lost (every named row is mismatching, no surviving row after the drop) | ").append(fmt(impact.fullyLost())).append(" |\n");
-        builder.append("| Modules whose latest named row would be dropped (in at least one variant) | ").append(fmt(impact.losingLatest())).append(" |\n\n");
+        builder.append("Each row describes what the **version-mismatch filter** (drop every named row whose `module-info` version semantically contradicts its Maven coordinate version) leaves behind in the module's `modules.tsv`, counted once per **canonical module** (no-classifier view). Modules with no canonical named row are out of scope. The first row is the in-scope total; rows two through four are mutually exclusive and sum to it; the fifth row overlaps with rows three and four (it's the subset whose head-of-`modules.tsv` is the one the filter removes).\n\n");
+        builder.append("| Module version filtering impact | Module names |\n|---|---:|\n");
+        builder.append("| Canonical modules with at least one named row (in scope) | ").append(fmt(impact.total())).append(" |\n");
+        builder.append("| Filter keeps every named row: `modules.tsv` is unchanged | ").append(fmt(impact.clean())).append(" |\n");
+        builder.append("| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | ").append(fmt(impact.partial())).append(" |\n");
+        builder.append("| Filter drops every named row: `modules.tsv` is removed entirely | ").append(fmt(impact.fullyLost())).append(" |\n");
+        builder.append("| Filter drops the module's current top row: \"latest\" shifts to an older Maven version (or vanishes if fully lost) | ").append(fmt(impact.losingLatest())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -413,19 +413,20 @@ public final class ModuleSummary {
         renderMonthlyPublications(builder, stats.monthlyPublications());
 
         builder.append("## Naming patterns\n\n");
-        builder.append("How module names relate to their publishing groupId and to classifier-bundled JARs. \"Classifier variants\" are non-main artifacts like `-jar-with-dependencies` or `-uber` that also produce a module; \"competing groupIds\" counts modules whose name has been published under more than one groupId across history (i.e. collisions). The shared-dot-segments histogram shows how closely module names follow the convention of starting with their groupId.\n\n");
+        builder.append("How module names relate to their publishing groupId and to classifier-bundled JARs. \"Classifier variants\" are non-main artifacts like `-jar-with-dependencies` or `-uber` that also produce a module; \"competing groupIds\" counts modules whose name has been published under more than one groupId across history (i.e. collisions).\n\n");
         builder.append("| Pattern | Modules |\n|---|---:|\n");
         builder.append("| Has classifier variants | ").append(fmt(stats.naming().modulesWithClassifier())).append(" |\n");
         builder.append("| Total classifier variants (across all modules) | ").append(fmt(stats.naming().classifierVariants())).append(" |\n");
-        builder.append("| Multiple competing groupIds in audit history | ").append(fmt(stats.naming().collidingModules())).append(" |\n");
+        builder.append("| Multiple competing groupIds in audit history | ").append(fmt(stats.naming().collidingModules())).append(" |\n\n");
+
+        builder.append("### Leading dot-segments shared with the owning groupId\n\n");
+        builder.append("For each canonical (no-classifier) module that resolved to an owner (implicit or explicit), counts how many leading dot-segments its module name shares with the owner's groupId. A high share is the textbook JPMS pattern (e.g. module `com.example.foo` published by groupId `com.example.foo`); zero indicates a module name that diverges entirely from its publisher's groupId. Classifier variants are out of scope because they share the canonical's groupId by construction.\n\n");
         SortedMap<Integer, Integer> histogram = stats.naming().sharedSegmentHistogram();
         int maxShared = histogram.isEmpty() ? 0 : histogram.lastKey();
+        builder.append("| Shared leading dot-segments | Canonical modules |\n|---:|---:|\n");
         for (int i = 0; i <= maxShared; i++) {
             int count = histogram.getOrDefault(i, 0);
-            String label = i == 0
-                    ? "Module name shares no leading dot-segments with the canonical groupId"
-                    : "Module name shares " + i + " leading dot-segment" + (i == 1 ? "" : "s") + " with the canonical groupId";
-            builder.append("| ").append(label).append(" | ").append(fmt(count)).append(" |\n");
+            builder.append("| ").append(i).append(" | ").append(count == 0 ? "none" : fmt(count)).append(" |\n");
         }
         builder.append('\n');
 
@@ -608,8 +609,8 @@ public final class ModuleSummary {
         private long totalVersionRowsAll;
         private long totalNamedVersionRows;
         private long totalAutomaticVersionRows;
-        private int namedUniqueModules;
-        private int automaticUniqueModules;
+        private int namedDistinctModules;
+        private int automaticDistinctModules;
         private long namedRows;
         private long automaticRows;
         private int autoToNamed;
@@ -789,16 +790,25 @@ public final class ModuleSummary {
                 if (entry.type() == ModuleType.NAMED) {
                     totalNamedVersionRows++;
                     String moduleVersion = entry.moduleVersion();
-                    int[] flags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
-                    if (moduleVersion.isEmpty()) {
-                        moduleVersionAbsent++;
-                        flags[0] |= 2;  // non-mismatching survives
-                    } else {
-                        // Within the explicit/mismatching split, semantic Version equality
-                        // folds trailing-zero variants ("1.0" vs "1.0.0") and qualifier
-                        // aliases ("1.0-ga" vs "1.0") into the explicit bucket.
+                    if (!moduleVersion.isEmpty()) {
                         moduleKeysWithModuleVersion.add(moduleKey);
-                        if (new Version(moduleVersion).equals(entry.mavenVersion())) {
+                    }
+                    // The "module-info version field across named publications" section is
+                    // restricted to canonical (no-classifier) publications. Classifier-keyed
+                    // rows (mostly fat-jar / shaded variants that bundle a module under their
+                    // own Maven coordinate) overwhelm the signal here: the bundled module's
+                    // module-info version is *expected* to contradict the bundling Maven
+                    // version, so counting those would describe fat-jar mechanics rather than
+                    // the canonical publication's coverage.
+                    if (classifier == null) {
+                        int[] flags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
+                        if (moduleVersion.isEmpty()) {
+                            moduleVersionAbsent++;
+                            flags[0] |= 2;  // non-mismatching survives
+                        } else if (new Version(moduleVersion).equals(entry.mavenVersion())) {
+                            // Semantic Version equality folds trailing-zero variants ("1.0" vs
+                            // "1.0.0") and qualifier aliases ("1.0-ga" vs "1.0") into the
+                            // explicit bucket.
                             moduleVersionExplicit++;
                             flags[0] |= 2;  // non-mismatching survives
                         } else {
@@ -828,35 +838,39 @@ public final class ModuleSummary {
             if (!artifacts.isEmpty()) {
                 ArtifactsEntry latest = artifacts.get(0);
                 if (latest.type() == ModuleType.NAMED) {
-                    namedUniqueModules++;
+                    namedDistinctModules++;
                     if (recent) {
                         namedModulesPublishedLastWeek++;
                     }
                     // Latest-version module-info coverage: classify the canonical row matching
-                    // the latest artifacts.tsv entry. The lookup keys are (mavenVersion.raw,
-                    // groupId, artifactId), which uniquely identify a single resolved row.
-                    String latestVersionRaw = latest.version().raw();
-                    String latestGroupId = latest.groupId();
-                    String latestArtifactId = latest.artifactId();
-                    for (ModuleEntry candidate : resolvedVersions) {
-                        if (candidate.mavenVersion().raw().equals(latestVersionRaw)
-                                && candidate.groupId().equals(latestGroupId)
-                                && candidate.artifactId().equals(latestArtifactId)) {
-                            String latestModuleVersion = candidate.moduleVersion();
-                            if (latestModuleVersion.isEmpty()) {
-                                latestModuleVersionAbsent++;
-                            } else if (new Version(latestModuleVersion).equals(candidate.mavenVersion())) {
-                                latestModuleVersionExplicit++;
-                            } else {
-                                latestModuleVersionMismatching++;
-                                int[] mismatchFlags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
-                                mismatchFlags[0] |= 4;  // some variant's latest row is mismatching
+                    // the latest artifacts.tsv entry. Restricted to canonical (no-classifier)
+                    // publications for the same reason as the per-row block above. The lookup
+                    // keys are (mavenVersion.raw, groupId, artifactId), which uniquely identify
+                    // a single resolved row.
+                    if (classifier == null) {
+                        String latestVersionRaw = latest.version().raw();
+                        String latestGroupId = latest.groupId();
+                        String latestArtifactId = latest.artifactId();
+                        for (ModuleEntry candidate : resolvedVersions) {
+                            if (candidate.mavenVersion().raw().equals(latestVersionRaw)
+                                    && candidate.groupId().equals(latestGroupId)
+                                    && candidate.artifactId().equals(latestArtifactId)) {
+                                String latestModuleVersion = candidate.moduleVersion();
+                                if (latestModuleVersion.isEmpty()) {
+                                    latestModuleVersionAbsent++;
+                                } else if (new Version(latestModuleVersion).equals(candidate.mavenVersion())) {
+                                    latestModuleVersionExplicit++;
+                                } else {
+                                    latestModuleVersionMismatching++;
+                                    int[] mismatchFlags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
+                                    mismatchFlags[0] |= 4;  // canonical latest row is mismatching
+                                }
+                                break;
                             }
-                            break;
                         }
                     }
                 } else if (latest.type() == ModuleType.AUTOMATIC) {
-                    automaticUniqueModules++;
+                    automaticDistinctModules++;
                     if (recent) {
                         automaticModulesPublishedLastWeek++;
                     }
@@ -881,9 +895,14 @@ public final class ModuleSummary {
                         namedToAuto++;
                     }
                 }
-                String groupId = latest.groupId();
-                int sharedSegments = sharedLeadingSegments(moduleName, groupId);
-                sharedSegmentHistogram.merge(sharedSegments, 1, Integer::sum);
+                // Shared-segment histogram is canonical-only: a module's classifier variants share
+                // the canonical's groupId by construction, so counting each variant would just
+                // multiply the same bucket without adding signal.
+                if (classifier == null) {
+                    String groupId = latest.groupId();
+                    int sharedSegments = sharedLeadingSegments(moduleName, groupId);
+                    sharedSegmentHistogram.merge(sharedSegments, 1, Integer::sum);
+                }
                 for (ArtifactsEntry entry : artifacts) {
                     if (entry.type() == ModuleType.NAMED) {
                         namedRows++;
@@ -946,8 +965,8 @@ public final class ModuleSummary {
                     distinctMavenArtifactTotal,
                     distinctGroupIds.size(),
                     latestPublishedMillis > 0L ? Optional.of(Instant.ofEpochMilli(latestPublishedMillis)) : Optional.empty());
-            TypeBreakdown named = new TypeBreakdown(namedUniqueModules, namedRows);
-            TypeBreakdown automatic = new TypeBreakdown(automaticUniqueModules, automaticRows);
+            TypeBreakdown named = new TypeBreakdown(namedDistinctModules, namedRows);
+            TypeBreakdown automatic = new TypeBreakdown(automaticDistinctModules, automaticRows);
             Transitions transitions = new Transitions(autoToNamed, namedToAuto);
             RecentActivity recent = new RecentActivity(
                     modulesPublishedLastWeek,

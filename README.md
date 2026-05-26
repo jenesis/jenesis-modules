@@ -465,7 +465,7 @@ java -cp <jar> build.jenesis.crawler.ModuleSummary
 The summary covers:
 
 - **Totals**: total artifacts scanned, non-module artifacts, modular artifacts, total named modules, total automatic modules, total named modules with module-info version, distinct Maven artifacts, distinct module names, distinct named/automatic modules (latest-type from `artifacts.tsv`), distinct named modules with module-info version, distinct groupIds, most recent tracked publication.
-- **Type breakdown** (named / automatic): unique modules + total rows from each `artifacts[-<classifier>].tsv`.
+- **Type breakdown** (named / automatic): distinct modules + total rows from each `artifacts[-<classifier>].tsv`.
 - **Module-info version coverage**: explicit (`module-info` version semantically matches the Maven coordinate version), mismatching (non-empty `module-info` version that differs), without (`module-info` declared no version).
 - **Mismatching module-info version patterns**: breakdown of the mismatching bucket by *why* the versions differ — `-SNAPSHOT` left on release, repackager `-<suffix>`, segment-count drift, `+<metadata>` build labels, unresolved `${...}` placeholders, different first dot-segment (likely shaded/bundled), substantively different. Each row carries a percent share.
 - **Type transitions** (automatic → named, named → automatic) computed from each module's resolved view.
