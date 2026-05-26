@@ -338,19 +338,19 @@ public final class ModuleSummary {
         builder.append("| Automatic | ").append(fmt(stats.automatic().uniqueModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
 
         ModuleVersionResolution resolution = stats.moduleVersionResolution();
-        builder.append("## Module-version resolution\n\n");
-        builder.append("Splits modules by whether they can be resolved by module-version-keyed lookup. \"With module-version resolution\" means the resolved owner publishes at least one named module; \"automatic-only resolved owner\" means the owner has only automatic modules, which carry no `module-info` and therefore no module-version space.\n\n");
-        builder.append("| Resolution | Modules |\n|---|---:|\n");
-        builder.append("| With module-version resolution | ").append(fmt(resolution.withResolution())).append(" |\n");
-        builder.append("| Automatic-only resolved owner | ").append(fmt(resolution.automaticOnly())).append(" |\n\n");
+        builder.append("## Lookup by module-info version\n\n");
+        builder.append("Counts **distinct modules** by whether they can be addressed by the version declared inside their `module-info` (a value the publisher embeds when compiling the module), as opposed to only by the Maven coordinate version. A module supports `module-info` lookup when its canonical publisher has shipped at least one named JAR (each named JAR carries a `module-info` whose declared version, or the Maven version when none is declared, becomes the lookup key). Modules whose canonical publisher has only ever shipped automatic JARs (no `module-info` at all) have no such lookup key and can only be addressed by their Maven coordinate.\n\n");
+        builder.append("| Module addressability | Modules |\n|---|---:|\n");
+        builder.append("| Addressable by `module-info` version | ").append(fmt(resolution.withResolution())).append(" |\n");
+        builder.append("| Addressable only by Maven coordinate (automatic-only canonical publisher) | ").append(fmt(resolution.automaticOnly())).append(" |\n\n");
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
-        builder.append("## Module-info version coverage\n\n");
-        builder.append("How often a named module's `module-info` declares a version, and whether it matches the Maven coordinate. Automatic modules are excluded since they have no `module-info`. \"Explicit\" means the `module-info` version semantically equals the Maven version; \"mismatching\" means it's non-empty but differs; \"without\" means `module-info` declared no version at all.\n\n");
-        builder.append("| Category | Rows |\n|---|---:|\n");
-        builder.append("| With explicit module version | ").append(fmt(coverage.explicit())).append(" |\n");
-        builder.append("| With mismatching module version | ").append(fmt(coverage.mismatching())).append(" |\n");
-        builder.append("| Without module version | ").append(fmt(coverage.absent())).append(" |\n\n");
+        builder.append("## `module-info` version field across named publications\n\n");
+        builder.append("Counts **named publications** (one count per published JAR, not per distinct module) by how the JAR's `module-info` fills its optional version attribute. Automatic JARs are excluded; they carry no `module-info`. The three rows are mutually exclusive and cover every named publication in the catalogue. The breakdown table below classifies the `mismatching` bucket by *why* the two versions differ.\n\n");
+        builder.append("| Publication category | Publications |\n|---|---:|\n");
+        builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(coverage.explicit())).append(" |\n");
+        builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(coverage.mismatching())).append(" |\n");
+        builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(coverage.absent())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -384,7 +384,10 @@ public final class ModuleSummary {
         int maxShared = histogram.isEmpty() ? 0 : histogram.lastKey();
         for (int i = 0; i <= maxShared; i++) {
             int count = histogram.getOrDefault(i, 0);
-            builder.append("| Shared leading dot-segments with canonical groupId: ").append(i).append(" | ").append(fmt(count)).append(" |\n");
+            String label = i == 0
+                    ? "Module name shares no leading dot-segments with the canonical groupId"
+                    : "Module name shares " + i + " leading dot-segment" + (i == 1 ? "" : "s") + " with the canonical groupId";
+            builder.append("| ").append(label).append(" | ").append(fmt(count)).append(" |\n");
         }
         builder.append('\n');
 
@@ -485,7 +488,7 @@ public final class ModuleSummary {
     private static void renderMismatchPatterns(StringBuilder builder, MismatchPatterns patterns) {
         long total = patterns.total();
         builder.append("## Mismatching module-info version patterns\n\n");
-        builder.append("Breaks down the **mismatching** row in the coverage table above by *why* the `module-info` version differs from the Maven coordinate. The first several rows are formatting drift (publisher forgot to drop a `-SNAPSHOT`, a repackager's coordinate suffix, build-metadata `+` labels, extra dot-segments); `Unresolved placeholder` is a build-time `${...}` substitution that leaked through; `Different major segment` is a strong proxy for shaded/bundled artifacts whose `module-info` comes from a different versioning lineage; `Substantively different` is the remainder where the versions share a first segment but otherwise differ. Percentages are share of the mismatching bucket.\n\n");
+        builder.append("Breaks down the publications whose `module-info` version differs from the Maven coordinate version (the middle row of the previous table) by *why* they differ. The first several rows are formatting drift (publisher forgot to drop a `-SNAPSHOT`, a repackager's coordinate suffix, build-metadata `+` labels, extra dot-segments); `Unresolved placeholder` is a build-time `${...}` substitution that leaked through; `Different major segment` is a strong proxy for shaded/bundled artifacts whose `module-info` comes from a different versioning lineage; `Substantively different` is the remainder where the versions share a first segment but otherwise differ. Percentages are share of the differing-version bucket.\n\n");
         builder.append("| Pattern | Rows | Share |\n|---|---:|---:|\n");
         appendMismatchRow(builder, "Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT)", patterns.snapshotSuffix(), total);
         appendMismatchRow(builder, "Module = Maven + `-<other suffix>` (build label, patch tag)", patterns.otherSuffixAdded(), total);
