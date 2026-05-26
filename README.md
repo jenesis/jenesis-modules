@@ -76,7 +76,7 @@ Four tab-separated columns (no timestamp - the resolution has already been made)
 
 ### `data/modules/<dotted/path>/modules[-<classifier>].tsv` (resolved view, keyed by module-info version)
 
-`modules.tsv` is the **resolved view keyed by the publisher-declared module version** (the literal string in `module-info.class`, falling back to the Maven coordinate version when `module-info` declared none). It exists so consumers can ask "give me module M at module version X" and get the canonical Maven artifact back, even when the publisher's module-version space differs from the Maven-version space.
+`modules.tsv` is the **resolved view keyed by the publisher-declared module version** (the literal string in `module-info.class`, falling back to the Maven coordinate version when `module-info` declared none). It exists so consumers can ask "give me module M at module version X" and get the canonical Maven artifact back. The resolution policy keeps the module-version space and the Maven-version space in lockstep: any row whose `module-info` version semantically disagrees with its Maven coordinate version is filtered out (see "Resolution algorithm" below), so a `moduleVersion` lookup never lands on a JAR whose Maven coordinate is a different number.
 
 Four tab-separated columns:
 
@@ -92,8 +92,9 @@ Four tab-separated columns:
 - Column 4: `mavenVersion`. The Maven coordinate version that first published this `moduleVersion`. The pair `(groupId, artifactId, mavenVersion)` is the actual artifact to fetch.
 - Rows are sorted by `moduleVersion` descending (groupId then artifactId as deterministic tiebreakers).
 - Only `named` rows participate - `automatic` modules have no `module-info` and therefore no declared module version. The `type` column from `artifacts.tsv` is omitted because every row is `named` by construction.
-- **Stability guarantee.** Each `moduleVersion` resolves to exactly one Maven coordinate: the one with the *oldest* `publishedAt`. Once a `moduleVersion` has been mapped, future publishers that happen to declare the same `moduleVersion` are visible in the audit log but do not override the mapping. The promise is "module M at version X always means the same JAR." Maven does not enforce unique module versions; this resolution gives consumers a stable view despite that.
-- The file is absent when the module has no `named` rows for the resolved owner (e.g. the owner only ever shipped `automatic` JARs, or `owners.tsv` filtered out every `named` claim). The crawler also deletes a stale `modules.tsv` when a regeneration ends with zero qualifying rows.
+- Of the named rows, only those whose `module-info` either declared no version or declared one that semantically agrees with the Maven coordinate version survive. Rows where `module-info` advertises a different number are excluded from `modules.tsv`; they remain in `versions.tsv` as part of the audit log.
+- **Stability guarantee.** Each `moduleVersion` resolves to exactly one Maven coordinate: the one with the *oldest* `publishedAt` among surviving rows. Once a `moduleVersion` has been mapped, future publishers that happen to declare the same `moduleVersion` are visible in the audit log but do not override the mapping. Combined with the version-equality filter above, the promise is "module M at version X always means the same JAR, and that JAR's Maven coordinate version is also X." Maven does not enforce unique module versions; this resolution gives consumers a stable view despite that.
+- The file is absent when the module has no `named` rows for the resolved owner (e.g. the owner only ever shipped `automatic` JARs, `owners.tsv` filtered out every `named` claim, or every named row failed the version-equality filter). The crawler also deletes a stale `modules.tsv` when a regeneration ends with zero qualifying rows.
 
 Both resolved views are regenerated from `versions.tsv` whenever the policy changes (via `SetOwners`) or new audit-log rows arrive (by the crawler's stage 2, see "How the crawl works").
 
@@ -126,7 +127,7 @@ For each module:
 1. **If `owners.tsv` exists** next to the module's `versions.tsv`, treat it as the authoritative allowlist:
    - From `versions.tsv` (and each `versions-<classifier>.tsv`), keep only rows whose `(groupId, artifactId)` is permitted (group-only line → any artifact in that group; pair line → that exact pair).
    - For `artifacts.tsv`: group the surviving rows by `version` (the Maven coordinate version). For each version, the row with the **oldest** `publishedAt` timestamp wins (lexicographic `groupId` ascending breaks any same-second tie). That row is the canonical resolution for that Maven version.
-   - For `modules.tsv`: drop `automatic` rows, then group the remaining rows by their `moduleVersion` (the `module-info` version, falling back to the Maven version when none was declared). For each `moduleVersion`, the row with the **oldest** `publishedAt` wins, with the same tiebreakers. That row maps the `moduleVersion` to its canonical Maven coordinate.
+   - For `modules.tsv`: drop `automatic` rows (no `module-info` to consult), then drop every named row whose `module-info` version is non-empty AND semantically contradicts its Maven coordinate version. Semantic equality means `1.0` and `1.0-ga` are treated as equal (`Version.equals` performs the Maven version comparison, folding qualifier aliases and trailing-zero variants). The survivors are exactly the named rows where `module-info` either declared no version or declared one that agrees with its Maven coordinate. Group those by `moduleVersion` (the `module-info` version, falling back to the Maven version when none was declared) and, for each `moduleVersion`, keep the row with the **oldest** `publishedAt` (lexicographic `groupId` ascending breaks ties). Consequence: every `modules.tsv` row's `moduleVersion` agrees with its `mavenVersion` (modulo cosmetic Version aliases), so a lookup by either column lands on the same row.
 
 2. **If no `owners.tsv` exists**, apply *first come, first served*:
    - Find the **implicit owner**: the `groupId` of the row in `versions.tsv` with the smallest `publishedAt` (lexicographic `groupId` ascending breaks ties).
@@ -141,6 +142,7 @@ Why this is the right default:
 - **Defends against module injection.** An attacker who registers a popular module name after the fact has, by construction, a later `publishedAt` than the canonical publisher and is excluded from both resolved views automatically.
 - **Filters shaded redeclarations for free.** When `software.amazon.awssdk:third-party-jackson-core` ships a vendored copy of Jackson, its `publishedAt` is later than `com.fasterxml.jackson.core:jackson-core`'s. The shaded row never makes it into the resolved views; you do not have to maintain an exclusion list by hand.
 - **Stable module-version mapping despite Maven not enforcing it.** Two unrelated Maven coordinates can both publish `module-info` with `version 2.0.10`. The oldest-publish-wins rule in `modules.tsv` pins the mapping to whichever coordinate landed first, so "module M at version X" keeps resolving to the same JAR across rebuilds.
+- **Refuses self-contradicting rows.** A JAR published as Maven coordinate `2.0` while its `module-info` advertises `1.0` would otherwise let a consumer ask for module M at "1.0" and receive a JAR whose Maven coordinate disagrees. Such rows are filtered out of `modules.tsv` (the audit log keeps them). The filter runs *after* owner resolution, so an owner whose only rows are mismatching loses its `modules.tsv` entirely rather than silently handing the module to a runner-up groupId.
 - **Composable with explicit policy.** Where the heuristic is wrong (legitimate ownership transfers like `org.jboss.netty` → `io.netty`, umbrella distributions that should coexist, internal forks), drop an `owners.tsv` next to the module and the explicit branch above takes over. The historical `versions.tsv` data stays intact, so loosening or reverting the policy later is a pure regeneration operation; no re-crawl needed.
 
 Caveats to internalise:
@@ -248,7 +250,7 @@ The third column distinguishes two kinds of completion:
 
 ## Jenesis Module Repository
 
-The contents of `data/modules/` are published as the **Jenesis Module Repository**: an HTTP service that resolves Java module names (plus an optional version and classifier) to the underlying Maven Central JAR via a 302 redirect. The repository's contract is a small, stable set of URL shapes: anything that can `curl -L` is a client. The reference implementation lives in `worker/index.js` (a Cloudflare Worker), but the contract itself is just "read the right TSV from `data/modules/`, pick a row, redirect."
+The contents of `data/modules/` are published as the **Jenesis Module Repository**: an HTTP service that resolves Java module names (plus an optional version and classifier) to the underlying Maven Central JAR via a 302 redirect. The repository's contract is a small, stable set of URL shapes: anything that can `curl -L` is a client. The reference implementation lives in `worker/index.js` (a Cloudflare Worker), and the canonical deployment is at <https://repo.jenesis.build/>. The contract itself is just "read the right TSV from `data/modules/`, pick a row, redirect."
 
 The repository is intentionally a thin wrapper over the resolved views: every redirect target is derivable from a single row of `artifacts.tsv` or `modules.tsv`. Consumers that prefer to do their own lookup can read the TSVs directly via `raw.githubusercontent.com` (or any mirror); the worker exists so a Maven-style `<repository>` URL can be plugged in without writing a resolver.
 
@@ -330,7 +332,7 @@ Every redirect carries the resolved coordinate as response headers so a client c
 
 ### Stability guarantee
 
-The repository's promise is that **`(moduleName, moduleVersion)` always resolves to the same Maven artifact**. The promise rests on the resolution algorithm's first-publish-wins rule for `modules.tsv`: once a `moduleVersion` has been mapped to a Maven coordinate, a future publisher who happens to declare the same `moduleVersion` is recorded in the audit log but does not displace the existing row. This lets consumers pin a module-version in their build and trust that subsequent rebuilds resolve identically, even though Maven itself doesn't enforce unique module versions.
+The repository's promise is that **`(moduleName, moduleVersion)` always resolves to the same Maven artifact, and that artifact's Maven version is the same number as the `moduleVersion`**. The promise rests on two pieces of the resolution algorithm: (1) rows whose `module-info` version contradicts the delivering Maven coordinate are filtered out of `modules.tsv` entirely; (2) of the survivors, the row with the oldest `publishedAt` wins each `moduleVersion` bucket, so a future publisher who happens to declare the same `moduleVersion` is recorded in the audit log but does not displace the existing row. Consumers can pin a module-version in their build and trust that subsequent rebuilds resolve to the same JAR with a matching Maven coordinate, even though Maven itself doesn't enforce unique module versions.
 
 The `(moduleName, mavenVersion)` lookup in `/artifact/` is similarly stable because Maven coordinates themselves are immutable on Central; the only way the resolution shifts is if an operator changes `owners.tsv` to admit a different publisher for the same `(name, mavenVersion)` pair.
 
@@ -394,7 +396,7 @@ Optional system properties:
 
 ## Companion tools
 
-Three standalone main classes share the crawler's scanner pipeline but skip the index streamer; each is a useful operational utility.
+Four standalone main classes complement the crawler. The first three share its scanner pipeline (skipping the index streamer); the fourth, `Regenerate`, only touches the resolved TSVs and needs no scanner at all.
 
 ### `build.jenesis.crawler.RetryFailed`
 
@@ -465,13 +467,14 @@ java -cp <jar> build.jenesis.crawler.ModuleSummary
 The summary covers:
 
 - **Totals**: total artifacts scanned, non-module artifacts, modular artifacts, total named modules, total automatic modules, total named modules with module-info version, distinct Maven artifacts, distinct module names, distinct named/automatic modules (latest-type from `artifacts.tsv`), distinct named modules with module-info version, distinct groupIds, most recent tracked publication.
+- **Resolved catalogue size**: total rows across every `modules[-<classifier>].tsv` (the size of the module-version view after owner resolution and the version-mismatch filter).
 - **Type breakdown** (named / automatic): distinct modules + total rows from each `artifacts[-<classifier>].tsv`.
-- **Module-info version coverage**: explicit (`module-info` version semantically matches the Maven coordinate version), mismatching (non-empty `module-info` version that differs), without (`module-info` declared no version).
+- **`module-info` version field across named publications** (canonical, no-classifier rows only — classifier-keyed fat-jar / shaded rows are excluded because their bundled `module-info` is expected to disagree with the bundling Maven coordinate): three tables. (a) Canonical named publications by whether `module-info` matched / mismatched / was absent. (b) The same breakdown counted once per canonical module against its latest named row. (c) **Module version filtering impact**: how many canonical modules the version-mismatch filter leaves untouched, shrinks, removes entirely, or shifts to an older "latest".
 - **Mismatching module-info version patterns**: breakdown of the mismatching bucket by *why* the versions differ — `-SNAPSHOT` left on release, repackager `-<suffix>`, segment-count drift, `+<metadata>` build labels, unresolved `${...}` placeholders, different first dot-segment (likely shaded/bundled), substantively different. Each row carries a percent share.
 - **Type transitions** (automatic → named, named → automatic) computed from each module's resolved view.
 - **Recent activity (last 7 days)**: modules with a publication + new version rows, each split into total / named / automatic columns.
 - **Monthly publications by type (last 12 months)**: per-month named vs automatic counts with inline ASCII bars scaled to the maximum.
-- **Naming patterns**: classifier-variant counts, modules with multiple competing groupIds across the audit log, histogram of leading dot-segments shared with the canonical groupId.
+- **Naming patterns**: classifier-variant counts and modules with multiple competing groupIds across the audit log, plus a subsection (`Leading dot-segments shared with the owning groupId`) that distributes canonical modules across how many leading dot-segments their name shares with the owning groupId (empty buckets render as `none`).
 - **Processing errors**: total failed coordinates plus the top-N most common recorded error messages. The normaliser collapses well-known variants — URLs, package names, classfile entry indexes, line numbers, file paths — into placeholders like `<URL>`, `<PACKAGE>`, `<CLASS>` so they aggregate into a single row per error class.
 - **Top-N tables**: modules by version count (with module-family folds like `software.amazon.awssdk.*` / `org.scala.lang.scala3.*` / `com.fasterxml.jackson.*` collapsed into a single row when they otherwise dominate), groupIds by module count, modules with most colliding groupIds (audit), modules updated in the last 7 days, groupIds by average versions per module (filtered to groups with ≥ 3 modules).
 
@@ -484,6 +487,26 @@ Properties:
 | `jenesis.summary.top.n` | `25` | Row count for every top-N table and the error-message list. Must be ≥ 1. |
 
 All integer counts in the markdown output are rendered with regular ASCII space as the thousands separator (e.g. `1 118 706`). Timestamps render as `yyyy-MM-dd HH:mm:ss UTC` (no `T` separator) for readability.
+
+### `build.jenesis.crawler.Regenerate`
+
+Walks `data/modules/` and rebuilds `artifacts[-<classifier>].tsv` and/or `modules[-<classifier>].tsv` for matching modules from their `versions[-<classifier>].tsv` contents. Intended for rolling an algorithm change (e.g. the version-mismatch filter described under "Resolution algorithm") across the existing catalogue without re-fetching any JARs. Owners (implicit via oldest `publishedAt`, or explicit via `owners.tsv`) are recomputed from `versions.tsv` on every run.
+
+```
+java -cp <jar> build.jenesis.crawler.Regenerate [<glob> ...]
+```
+
+Globs follow the same module-name structure as `ListOwners`: `*` matches one segment, `**` matches across dots. Omit globs to regenerate every module.
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.crawler.data` | `data` | Crawler data directory. |
+| `jenesis.crawler.regenerate.scope` | `both` | `both`, `artifacts`, or `modules`. The omitted family is left exactly as it was on disk (no read, no write, no delete). |
+| `jenesis.crawler.regenerate.dry.run` | `false` | When `true`, print the module names that would be regenerated to stdout and exit without writing. Counts also go to stderr. |
+
+The unit of progress is the module: each one is regenerated atomically (temp-file + rename), so a crash leaves the catalogue in a fully recoverable state.
 
 ## How the crawl works
 
@@ -680,8 +703,8 @@ The manual `workflow_dispatch` form also exposes per-run overrides for the most 
 ## Project layout
 
 ```
-sources/build/jenesis/crawler/        main classes (Crawl, Crawler, ListOwners, SetOwners,
-                                      ModuleSummary, ReconcileMetadata, RetryFailed)
+sources/build/jenesis/crawler/        main classes (Crawl, Crawler, ListOwners, ModuleSummary,
+                                      ReconcileMetadata, Regenerate, RetryFailed, SetOwners)
                                       + State, SyncMode
 sources/build/jenesis/crawler/fetch/  HTTP + JAR-byte access: Fetcher, ByteSource,
                                       RobotsTxt, CentralDirectory, Scanner
