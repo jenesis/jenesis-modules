@@ -40,16 +40,16 @@ Each module's directory path mirrors the dot-separated module name. `versions.ts
 Six tab-separated columns:
 
 ```
-1.7.36  automatic  org.slf4j  slf4j-api  2021-11-15T14:02:00Z
-2.0.9   named      org.slf4j  slf4j-api  2023-08-21T09:15:00Z  2.0.9
-2.0.10  named      org.slf4j  slf4j-api  2023-08-22T11:42:00Z  2.0.10
+1.7.36  automatic  org.slf4j  slf4j-api  2022-02-08T13:33:50Z
+2.0.9   named      org.slf4j  slf4j-api  2023-09-03T16:14:32Z  2.0.9
+2.0.10  named      org.slf4j  slf4j-api  2023-12-28T20:50:38Z  2.0.10
 ```
 
 - Column 1: version as published.
 - Column 2: `named` (the JAR contains `module-info.class`, either at the root or at the highest `META-INF/versions/<N>/module-info.class` of a multi-release JAR) or `automatic` (the JAR's manifest sets `Automatic-Module-Name`). Non-modular JARs are not recorded.
 - Column 3: `groupId`.
 - Column 4: `artifactId`. Combined with columns 1 and 3 this gives the full Maven coordinate.
-- Column 5: publication timestamp on Maven Central, UTC ISO-8601 with seconds precision (`yyyy-MM-dd'T'HH:mm:ss'Z'`). Sourced from the index's authoritative per-artifact timestamp; fixed-width so lexicographic and chronological sort agree. Rows are only recorded when the index carries a real timestamp - coordinates whose timestamp is missing or zero are dropped at write time and never appear here, so consumers do not have to filter sentinels.
+- Column 5: publication timestamp on Maven Central, UTC ISO-8601 with seconds precision (`yyyy-MM-dd'T'HH:mm:ss'Z'`). Sourced from the artifact storage layer's `Last-Modified`, not from the Nexus index, because the index occasionally re-stamps records during republishing events (see [Sourcing `publishedAt`](#sourcing-publishedat) below for the details). Fixed-width so lexicographic and chronological sort agree. Rows are only recorded when a real timestamp is available - coordinates whose timestamp is missing or zero are dropped at write time and never appear here, so consumers do not have to filter sentinels.
 - Column 6: raw `module-info` version (the literal string declared by `ModuleDescriptor.rawVersion()`). Empty for `automatic` rows (no `module-info` exists) and for `named` rows whose `module-info` declared no version attribute - the column is present but the field is empty. A non-empty value is the verbatim string the publisher embedded. The parser rejects rows missing this column outright; the legacy 5-column format is no longer supported.
 
 Use this file for auditing - "who has ever claimed this name?" - not for resolution. For resolution, read the sibling `artifacts.tsv` (Maven-version-keyed) or `modules.tsv` (module-info-version-keyed) described in the next two sections.
@@ -387,6 +387,7 @@ Optional system properties:
 | `jenesis.crawler.resume` | `true` | When `false`, deletes `state.properties` before starting, so the next run begins a fresh streaming sync of the full index. `data/scanned/` and `data/modules/` are preserved, so already-scanned coordinates are still skipped. |
 | `jenesis.crawler.reprocess.failed` | `false` | When `true`, coordinates whose previous scan ended in a permanent failure (malformed JAR, HTTP 404/410) are treated as un-scanned and re-fetched on this run. Useful after a scanner bug fix; leave at `false` for normal operation so chronically broken artifacts are not refetched on every run. |
 | `jenesis.crawler.allow.rebaseline` | `false` | When the crawler falls behind Central's incremental retention window (~30 entries) the next incremental fetch 404s. By default the crawler fails fast and points at this property. Set `true` to reset the index baseline and re-FULL on the next iteration; `data/` is preserved, and `ScannedStore` short-circuits every already-scanned coordinate, so the recovery sweep is fast. |
+| `jenesis.crawler.canonical.timestamp.uri` | same as `<artifact-base-uri>` | Maven-repo base used to HEAD the canonical `Last-Modified` when the primary artifact fetch comes from a mirror that rewrites mtimes. Defaults to the primary artifact source (which disables the fallback because the upgrade pass short-circuits when the two URIs match). The scheduled workflow sets this to `https://repo.maven.apache.org/maven2/` so the GCS mirror's pre-2019 bulk-import timestamps are upgraded to canonical values. See [Sourcing `publishedAt`](#sourcing-publishedat) below. |
 | `jenesis.crawler.git.publish` | `false` | When `true`, commit + push checkpoints inline. |
 | `jenesis.crawler.git.work.dir` | `.` | Working tree for the publishing commits. |
 | `jenesis.crawler.git.push.every` | `1` | Push every N checkpoints. |
@@ -567,6 +568,28 @@ Everything else (HTTP 5xx, timeouts, generic `IOException` without a known fragm
 
 **Tail-too-small recovery.** When the central directory is bigger than the default `jenesis.crawler.tail.size = 65 536 bytes` (typical for shaded uberjars with thousands of entries), the CD parser throws `IllegalArgumentException` with a message containing `"supplied tail buffer"` or `"Expected central file header signature at offset 0"`. Before recording such a coordinate as permanent, `scanOne` retries once with `EXPANDED_TAIL_RETRY_BYTES = 4 MB` so JARs with up to ~80 000 entries succeed on the second try. JARs that fail both attempts are recorded as permanent and surfaced under the same `IllegalArgumentException` classification above.
 
+### Sourcing `publishedAt`
+
+The `publishedAt` column in `versions.tsv` (column 5) is the load-bearing field for the implicit-owner rule: whichever publisher claimed a module name first wins. That makes the timestamp's accuracy a correctness concern, not a cosmetic one. The Nexus index would be the most direct source, but it occasionally re-stamps records during republishing events. The motivating example is Byte Buddy: every `net.bytebuddy:byte-buddy` row at `1.9.5`, `1.10.9`, `1.10.13`, etc. carries an identical index timestamp of `2021-12-15 17:52:51 UTC`, even though those artifacts were genuinely published in 2015-2020. With that timestamp, the implicit-owner heuristic awards the `net.bytebuddy` module name to `nl.jqno.equalsverifier:equalsverifier` 3.0.1 (published 2018-10-29 with `module-info` accidentally declaring `net.bytebuddy`, a classic shaded-uberjar mistake), because the EqualsVerifier row pre-dates Byte Buddy's re-stamped 2021 dates.
+
+So the crawler ignores the index timestamp entirely and sources `publishedAt` from the artifact storage layer's HTTP `Last-Modified`, which preserves the original upload time across the index's re-stamping events. There are three sources in play:
+
+| Source | Header | Notes |
+|---|---|---|
+| **`repo.maven.apache.org/maven2/`** (canonical Sonatype repo) | `Last-Modified` | Always the original publish moment. The ground truth. |
+| **`maven-central.storage-download.googleapis.com/maven2/`** (GCS mirror) | `x-goog-meta-last-modified` | Sonatype-set custom metadata that mirrors `repo.maven.apache.org`'s `Last-Modified` verbatim. Empirically identical to the canonical value in **541 / 541 sampled coordinates** where both were present (zero mismatches). Set only for artifacts published after the GCS bootstrap (~2019-01-19). |
+| **GCS mirror** (fallback) | `Last-Modified` | Bucket-landing time. Lags the canonical value by ~50-120 minutes for post-bootstrap artifacts; for **pre-2019 artifacts** it collapses to the bulk-import epoch (`~July 2019`), losing the original publish date entirely. |
+
+The fetcher's strategy:
+
+1. **Read `x-goog-meta-last-modified` first.** Where present, this is canonical by Sonatype's own contract. Single-fetch cost.
+2. **Fall back to the standard `Last-Modified`** when goog-meta is absent. For non-mirror responses (Maven Central direct, internal mirrors that don't rewrite mtimes, test fixtures) this is canonical too; the fetcher detects "this response is from the GCS mirror" by checking whether any `x-goog-*` header is present and flags the timestamp non-canonical only in that case.
+3. **For non-canonical timestamps** (the pre-2019 GCS bulk-import subset), the scanner issues a follow-up HEAD against the configured canonical-timestamp base (`-Djenesis.crawler.canonical.timestamp.uri`, default same as `<artifact-base-uri>`). When the primary is the GCS mirror and this property points at `repo.maven.apache.org/maven2/`, the HEAD returns the actual publish time and the row is recorded with that. The HEAD runs on the same per-coordinate executor task as the primary scan, so the extra round-trip is fanned out across the concurrent worker pool, not serialised through the consumer loop.
+
+The fallback HEAD is opt-in by configuration: when `<artifact-base-uri>` equals `jenesis.crawler.canonical.timestamp.uri` (the default for any single-source CLI invocation) the upgrade pass short-circuits and no extra requests are issued. The scheduled `crawl.yml` workflow sets the property to `repo.maven.apache.org/maven2/` so the production crawl picks up canonical timestamps for the back catalogue.
+
+Reach of the fallback (measured on a 800-coordinate sample across all eras): ~32 % of post-bootstrap coordinates are pre-2019 and trigger one extra HEAD; the remaining ~68 % see no extra requests. Failure modes (HEAD 404, timeout, network error) silently degrade to whatever the primary returned and ultimately to `coordinate.lastModified()` (the index value) so the row is still recorded.
+
 ### Crash safety
 
 The crawler is designed so that a hard kill (SIGTERM, SIGKILL, OOM, machine reboot) at any moment leaves on-disk state such that the next run resumes correctly and never loses a recorded artifact. The properties that make this work:
@@ -627,6 +650,7 @@ The workflow reads optional GitHub repository variables (Settings → Secrets an
 |---|---|
 | `INDEX_BASE` | Point the index download at an internal mirror. |
 | `ARTIFACT_BASE` | Point JAR range-fetches at a different mirror or proxy. |
+| `CANONICAL_TIMESTAMP_BASE` | Canonical-`Last-Modified` HEAD target, used to upgrade timestamps for pre-2019 GCS-mirrored artifacts. Defaults to `repo.maven.apache.org/maven2/`. Set to the same URL as `ARTIFACT_BASE` (or any single source) to disable the upgrade pass entirely. See [Sourcing `publishedAt`](#sourcing-publishedat). |
 | `BUDGET_MINUTES` | Override the per-run wall-clock budget. |
 | `CONCURRENCY` | Override the in-flight fetch count. |
 | `TAIL_SIZE` | Override how many bytes are pulled from each JAR tail. |

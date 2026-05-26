@@ -46,6 +46,10 @@ public record Coordinate(String groupId,
         Objects.requireNonNull(extension, "extension");
     }
 
+    public Coordinate withLastModified(long lastModified) {
+        return new Coordinate(groupId, artifactId, version, classifier, extension, size, lastModified);
+    }
+
     public String mavenPath() {
         StringBuilder builder = new StringBuilder();
         builder.append(groupId.replace('.', '/')).append('/');

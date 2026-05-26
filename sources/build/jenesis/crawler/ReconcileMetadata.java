@@ -36,6 +36,7 @@ public final class ReconcileMetadata {
     public static final String PROP_GIT_PUBLISH = Crawl.PROP_GIT_PUBLISH;
     public static final String PROP_GIT_WORK_DIR = Crawl.PROP_GIT_WORK_DIR;
     public static final String PROP_GIT_PUSH_EVERY = Crawl.PROP_GIT_PUSH_EVERY;
+    public static final String PROP_CANONICAL_TIMESTAMP_URI = Crawl.PROP_CANONICAL_TIMESTAMP_URI;
     public static final String PROP_METADATA_CONCURRENCY = "jenesis.reconcile.metadata.concurrency";
     public static final String PROP_BATCH_SIZE = "jenesis.reconcile.batch.size";
 
@@ -110,8 +111,12 @@ public final class ReconcileMetadata {
         int tailSize = property(PROP_TAIL_SIZE).map(Integer::parseInt).orElse(base.tailSize());
         long checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Long::parseLong).orElse(base.checkpointEvery());
         long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
+        URI canonicalTimestampBase = property(PROP_CANONICAL_TIMESTAMP_URI)
+                .map(URI::create)
+                .orElse(base.canonicalTimestampBaseUri());
         return new Crawler.Configuration(
-                artifactBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
+                artifactBase, artifactBase, canonicalTimestampBase,
+                dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
                 /* resume */ true,
                 /* reprocessFailed */ false,
                 /* allowRebaseline */ false);

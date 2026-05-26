@@ -89,6 +89,7 @@ public class CrawlerChainIntegrationTest {
         Crawler.Configuration configuration = new Crawler.Configuration(
                 central.indexBaseUri(),
                 central.artifactBaseUri(),
+                /* canonicalTimestampBaseUri */ null,
                 dataDir,
                 Duration.ofSeconds(60L),
                 4,

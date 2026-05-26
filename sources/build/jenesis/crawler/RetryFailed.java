@@ -44,6 +44,7 @@ public final class RetryFailed {
     public static final String PROP_GIT_PUBLISH = Crawl.PROP_GIT_PUBLISH;
     public static final String PROP_GIT_WORK_DIR = Crawl.PROP_GIT_WORK_DIR;
     public static final String PROP_GIT_PUSH_EVERY = Crawl.PROP_GIT_PUSH_EVERY;
+    public static final String PROP_CANONICAL_TIMESTAMP_URI = Crawl.PROP_CANONICAL_TIMESTAMP_URI;
     public static final String PROP_ERROR_PATTERN = "jenesis.retry.error.pattern";
 
     private RetryFailed() {
@@ -103,8 +104,12 @@ public final class RetryFailed {
         int tailSize = property(PROP_TAIL_SIZE).map(Integer::parseInt).orElse(base.tailSize());
         long checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Long::parseLong).orElse(base.checkpointEvery());
         long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
+        URI canonicalTimestampBase = property(PROP_CANONICAL_TIMESTAMP_URI)
+                .map(URI::create)
+                .orElse(base.canonicalTimestampBaseUri());
         return new Crawler.Configuration(
-                artifactBase, artifactBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
+                artifactBase, artifactBase, canonicalTimestampBase,
+                dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
                 /* resume */ true,
                 /* reprocessFailed */ true,
                 /* allowRebaseline */ false);

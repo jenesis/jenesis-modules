@@ -212,6 +212,19 @@ public final class Fetcher implements AutoCloseable {
         // ByteBuffer/byte[] until each body assembles - producing the gigabyte-scale receive
         // buffer leaks we saw in the heap dumps. HttpURLConnection reads the body on this
         // thread with kernel-level back-pressure; in-flight bytes are bounded by SO_RCVBUF.
+        return urlConnectionRange(uri, offset, length).bytes();
+    }
+
+    /**
+     * Same as {@link #range(URI, long, int)} but also returns the response's
+     * {@code Last-Modified} (epoch millis, or {@code 0L} when the header is absent or
+     * unparseable). Used by the scanner's small-jar fast path so the storage layer's
+     * mtime can be persisted as the authoritative publication timestamp.
+     */
+    public RangedBody rangeWithLastModified(URI uri, long offset, int length) throws IOException {
+        if (length <= 0) {
+            return new RangedBody(new byte[0], 0L, false);
+        }
         return urlConnectionRange(uri, offset, length);
     }
 
@@ -219,7 +232,7 @@ public final class Fetcher implements AutoCloseable {
         return urlConnectionTail(uri, suffixLength);
     }
 
-    private byte[] urlConnectionRange(URI uri, long offset, int length) throws IOException {
+    private RangedBody urlConnectionRange(URI uri, long offset, int length) throws IOException {
         HttpURLConnection connection = openSyncConnection(uri,
                 conn -> conn.setRequestProperty("Range", "bytes=" + offset + "-" + (offset + length - 1)));
         try {
@@ -230,13 +243,14 @@ public final class Fetcher implements AutoCloseable {
                         + " on " + uri + " returned status " + status);
             }
             byte[] body = readBoundedBody(connection, length, status == 200);
+            LastModified stamp = preferredLastModified(connection);
             if (status == 200 && body.length != length) {
-                if (offset == 0L) {
-                    return body;
-                }
-                return Arrays.copyOfRange(body, (int) offset, (int) Math.min(offset + length, body.length));
+                byte[] sliced = offset == 0L
+                        ? body
+                        : Arrays.copyOfRange(body, (int) offset, (int) Math.min(offset + length, body.length));
+                return new RangedBody(sliced, stamp.millis(), stamp.canonical());
             }
-            return body;
+            return new RangedBody(body, stamp.millis(), stamp.canonical());
         } finally {
             connection.disconnect();
         }
@@ -257,7 +271,92 @@ public final class Fetcher implements AutoCloseable {
                 long contentLength = connection.getContentLengthLong();
                 total = contentLength >= 0L ? contentLength : body.length;
             }
-            return new Tail(body, total);
+            LastModified stamp = preferredLastModified(connection);
+            return new Tail(body, total, stamp.millis(), stamp.canonical());
+        } finally {
+            connection.disconnect();
+        }
+    }
+
+    /**
+     * Pair of "best Last-Modified the response can provide" and a flag indicating whether
+     * that value came from a header known to preserve the original publication time
+     * (the GCS mirror's {@code x-goog-meta-last-modified}). When {@code canonical} is
+     * {@code false}, the {@code millis} value is the plain HTTP {@code Last-Modified}: still
+     * useful, but on the GCS mirror it can reflect the bucket-landing time rather than the
+     * publish time (notably for pre-2019 bulk-imported artifacts).
+     */
+    private record LastModified(long millis, boolean canonical) {
+
+        static final LastModified NONE = new LastModified(0L, false);
+    }
+
+    private static LastModified preferredLastModified(HttpURLConnection connection) {
+        String googMeta = connection.getHeaderField("x-goog-meta-last-modified");
+        if (googMeta != null) {
+            long parsed = parseHttpDate(googMeta);
+            if (parsed > 0L) {
+                return new LastModified(parsed, true);
+            }
+        }
+        long standard = connection.getLastModified();
+        if (standard <= 0L) {
+            return LastModified.NONE;
+        }
+        // Mark non-canonical only when the response is from a mirror known to rewrite
+        // mtimes. Sonatype's GCS mirror tags every response with x-goog-* headers, so the
+        // absence of any such header means we're talking to a source that preserves the
+        // upstream Last-Modified (Maven Central direct, an internal mirror, or a test
+        // fixture); trust it.
+        boolean fromGcs = connection.getHeaderFields().keySet().stream()
+                .filter(name -> name != null)
+                .anyMatch(name -> name.regionMatches(true, 0, "x-goog-", 0, 7));
+        return new LastModified(standard, !fromGcs);
+    }
+
+    // Sonatype's GCS bucket sometimes records x-goog-meta-last-modified with a single-digit
+    // hour (e.g. "Mon, 31 Mar 2025 6:21:43 GMT") which RFC_1123_DATE_TIME rejects. Zero-pad
+    // the hour before parsing.
+    private static final Pattern SINGLE_DIGIT_HOUR = Pattern.compile(" (\\d):(\\d{2}):");
+
+    private static long parseHttpDate(String value) {
+        String normalised = SINGLE_DIGIT_HOUR.matcher(value).replaceFirst(" 0$1:$2:");
+        try {
+            return ZonedDateTime.parse(normalised, DateTimeFormatter.RFC_1123_DATE_TIME)
+                    .toInstant().toEpochMilli();
+        } catch (DateTimeParseException invalid) {
+            return 0L;
+        }
+    }
+
+    /**
+     * One-shot HEAD against {@code uri}, returning the response's authoritative publication
+     * timestamp (millis, or {@code 0L} when the response carries none). Used by the crawler
+     * as a fallback when the primary fetch is served from a mirror whose plain
+     * {@code Last-Modified} doesn't reflect the original publish time (e.g. pre-2019 GCS
+     * bulk-imports). Returns {@code 0L} on any network or HTTP error so the caller can
+     * gracefully fall back.
+     */
+    public long headLastModified(URI uri) {
+        HttpURLConnection connection;
+        try {
+            connection = (HttpURLConnection) uri.toURL().openConnection();
+        } catch (IOException unable) {
+            return 0L;
+        }
+        try {
+            connection.setRequestMethod("HEAD");
+            connection.setConnectTimeout((int) CONNECT_TIMEOUT.toMillis());
+            connection.setReadTimeout((int) timeout.toMillis());
+            connection.setInstanceFollowRedirects(true);
+            connection.setRequestProperty("User-Agent", USER_AGENT);
+            int status = connection.getResponseCode();
+            if (status / 100 != 2) {
+                return 0L;
+            }
+            return preferredLastModified(connection).millis();
+        } catch (IOException error) {
+            return 0L;
         } finally {
             connection.disconnect();
         }
@@ -319,6 +418,8 @@ public final class Fetcher implements AutoCloseable {
         long total = tail.totalSize();
         long tailStart = total - tail.bytes().length;
         byte[] bytes = tail.bytes();
+        long lastModified = tail.lastModifiedMillis();
+        boolean canonical = tail.lastModifiedCanonical();
         return new ByteSource() {
 
             @Override
@@ -333,6 +434,16 @@ public final class Fetcher implements AutoCloseable {
                     return Arrays.copyOfRange(bytes, positionInTail, positionInTail + length);
                 }
                 return range(uri, offset, length);
+            }
+
+            @Override
+            public long lastModifiedMillis() {
+                return lastModified;
+            }
+
+            @Override
+            public boolean lastModifiedCanonical() {
+                return canonical;
             }
         };
     }
@@ -350,7 +461,20 @@ public final class Fetcher implements AutoCloseable {
         return Optional.of(response.body());
     }
 
-    public record Tail(byte[] bytes, long totalSize) {
+    public record Tail(byte[] bytes, long totalSize, long lastModifiedMillis, boolean lastModifiedCanonical) {
+    }
+
+    /**
+     * Body of a successful range fetch, paired with the best {@code Last-Modified} the
+     * response could provide (epoch millis, or {@code 0L} when both
+     * {@code x-goog-meta-last-modified} and {@code Last-Modified} are absent or unparseable).
+     * {@code lastModifiedCanonical} is {@code true} when the value came from
+     * {@code x-goog-meta-last-modified} (the upstream Maven Central {@code Last-Modified}
+     * preserved on GCS bucket objects), {@code false} when it's the plain {@code Last-Modified}
+     * (which on GCS can reflect bucket-landing time rather than publish time for pre-2019
+     * bulk-imported artifacts).
+     */
+    public record RangedBody(byte[] bytes, long lastModifiedMillis, boolean lastModifiedCanonical) {
     }
 
     private HttpRequest.Builder builder(URI uri) {

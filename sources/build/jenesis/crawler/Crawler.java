@@ -33,6 +33,7 @@ public final class Crawler implements AutoCloseable {
 
     public record Configuration(URI indexBaseUri,
                                 URI artifactBaseUri,
+                                URI canonicalTimestampBaseUri,
                                 Path dataDir,
                                 Duration budget,
                                 int concurrency,
@@ -52,10 +53,25 @@ public final class Crawler implements AutoCloseable {
         public static final boolean DEFAULT_REPROCESS_FAILED = false;
         public static final boolean DEFAULT_ALLOW_REBASELINE = false;
 
+        /**
+         * Builds a configuration whose {@code canonicalTimestampBaseUri} equals
+         * {@code artifactBaseUri}: the same server is the authority for both artifact bytes
+         * and the canonical {@code Last-Modified}. This is the right default for any setup
+         * that points the crawler at a single Maven repository (CLI runs against
+         * {@code repo.maven.apache.org/maven2/}, against an internal mirror, or against a
+         * test fixture): the upgrade-via-HEAD pass in the scanner short-circuits when the
+         * fallback URI matches the primary, so no extra requests are issued.
+         *
+         * <p>To enable the upgrade pass (typically when the primary is the GCS mirror, whose
+         * plain {@code Last-Modified} reflects bucket-landing time for pre-2019 imports),
+         * construct the {@code Configuration} record directly with a different
+         * {@code canonicalTimestampBaseUri} (e.g. {@code https://repo.maven.apache.org/maven2/}).
+         */
         public static Configuration defaults(URI artifactBaseUri, URI indexBaseUri) {
             return new Configuration(
                     Objects.requireNonNull(indexBaseUri, "indexBaseUri"),
                     Objects.requireNonNull(artifactBaseUri, "artifactBaseUri"),
+                    artifactBaseUri,
                     DEFAULT_DATA_DIR,
                     DEFAULT_BUDGET,
                     DEFAULT_CONCURRENCY,
@@ -77,7 +93,25 @@ public final class Crawler implements AutoCloseable {
 
     private static final Pattern STATUS_PATTERN = Pattern.compile("returned status (\\d+)");
 
-    public record ScanOutcome(Coordinate coordinate, Optional<ScannedModule> module, Throwable error) {
+    /**
+     * Result of scanning one coordinate. {@code lastModifiedMillis} is the best storage-layer
+     * timestamp the JAR fetch could provide (epoch millis, or {@code 0L} when the transport
+     * didn't surface one). {@code lastModifiedCanonical} is {@code true} when that value is
+     * known to preserve the original publication time (came from GCS's
+     * {@code x-goog-meta-last-modified}, or from a direct Maven Central response); it is
+     * {@code false} when the value is a plain HTTP {@code Last-Modified} from a mirror that
+     * may rewrite mtimes, in which case the consumer-side code may probe a configured
+     * canonical timestamp source for a better value. The crawler prefers any of these over
+     * the coordinate's index-derived timestamp because the Nexus index re-stamps records
+     * during republishing events while the artifact storage layer preserves the original
+     * mtime across those events.
+     */
+    public record ScanOutcome(Coordinate coordinate, Optional<ScannedModule> module, Throwable error,
+                              long lastModifiedMillis, boolean lastModifiedCanonical) {
+
+        public ScanOutcome(Coordinate coordinate, Optional<ScannedModule> module, Throwable error) {
+            this(coordinate, module, error, 0L, false);
+        }
     }
 
     private final Configuration configuration;
@@ -152,7 +186,7 @@ public final class Crawler implements AutoCloseable {
         if (message == null) {
             return false;
         }
-        java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+        Matcher matcher = STATUS_PATTERN.matcher(message);
         if (matcher.find()) {
             int status = Integer.parseInt(matcher.group(1));
             return status == 404 || status == 410;
@@ -193,7 +227,7 @@ public final class Crawler implements AutoCloseable {
         }
         String message = error.getMessage();
         if (message != null) {
-            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+            Matcher matcher = STATUS_PATTERN.matcher(message);
             if (matcher.find()) {
                 int status = Integer.parseInt(matcher.group(1));
                 return status == 404 || status == 410;
@@ -231,7 +265,7 @@ public final class Crawler implements AutoCloseable {
             if (message == null) {
                 continue;
             }
-            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(message);
+            Matcher matcher = STATUS_PATTERN.matcher(message);
             if (matcher.find() && "404".equals(matcher.group(1))) {
                 return true;
             }
@@ -243,7 +277,7 @@ public final class Crawler implements AutoCloseable {
         String topName = error.getClass().getSimpleName();
         String topMessage = error.getMessage();
         if (topMessage != null) {
-            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(topMessage);
+            Matcher matcher = STATUS_PATTERN.matcher(topMessage);
             if (matcher.find()) {
                 return topName + " status=" + matcher.group(1);
             }
@@ -255,7 +289,7 @@ public final class Crawler implements AutoCloseable {
         String rootName = root.getClass().getSimpleName();
         String rootMessage = root.getMessage();
         if (rootMessage != null) {
-            java.util.regex.Matcher matcher = STATUS_PATTERN.matcher(rootMessage);
+            Matcher matcher = STATUS_PATTERN.matcher(rootMessage);
             if (matcher.find()) {
                 return rootName + " status=" + matcher.group(1);
             }
@@ -725,9 +759,18 @@ public final class Crawler implements AutoCloseable {
                     try {
                         if (outcome.module().isPresent()) {
                             ScannedModule module = outcome.module().get();
+                            // Prefer the storage-layer Last-Modified over the index's lastModified -
+                            // the index can re-stamp records during republishing events (the byte-buddy
+                            // 2021-12-15 batch is the motivating case), while the artifact storage
+                            // layer preserves the original upload mtime across those events. Fall
+                            // back to the index value when the transport didn't surface one (rare,
+                            // mostly relevant to in-memory test fixtures).
+                            Coordinate effective = outcome.lastModifiedMillis() > 0L
+                                    ? coordinate.withLastModified(outcome.lastModifiedMillis())
+                                    : coordinate;
                             boolean recorded;
                             synchronized (store) {
-                                recorded = store.record(module.name(), module.type(), module.moduleVersion(), coordinate);
+                                recorded = store.record(module.name(), module.type(), module.moduleVersion(), effective);
                             }
                             if (recorded) {
                                 if (module.type() == ModuleType.NAMED) {
@@ -838,12 +881,17 @@ public final class Crawler implements AutoCloseable {
         } catch (Throwable error) {
             return new ScanOutcome(coordinate, Optional.empty(), error);
         }
+        ScanOutcome outcome = scanCoordinate(coordinate, uri);
+        return upgradeTimestamp(outcome);
+    }
+
+    private ScanOutcome scanCoordinate(Coordinate coordinate, URI uri) {
         long size = coordinate.size();
         if (size > 0L && size <= configuration.smallJarThreshold()) {
             try {
-                byte[] bytes = fetcher.range(uri, 0L, (int) size);
-                Optional<ScannedModule> module = scanner.scan(ByteSource.ofBytes(bytes));
-                return new ScanOutcome(coordinate, module, null);
+                Fetcher.RangedBody body = fetcher.rangeWithLastModified(uri, 0L, (int) size);
+                Optional<ScannedModule> module = scanner.scan(ByteSource.ofBytes(body.bytes()));
+                return new ScanOutcome(coordinate, module, null, body.lastModifiedMillis(), body.lastModifiedCanonical());
             } catch (InvalidModuleDescriptorException malformed) {
                 // Malformed module-info: re-reading via the cached-tail path will fail
                 // the same way, so surface it directly instead of falling through.
@@ -855,7 +903,7 @@ public final class Crawler implements AutoCloseable {
         try {
             ByteSource source = fetcher.sourceWithCachedTail(uri, configuration.tailSize());
             Optional<ScannedModule> module = scanner.scan(source);
-            return new ScanOutcome(coordinate, module, null);
+            return new ScanOutcome(coordinate, module, null, source.lastModifiedMillis(), source.lastModifiedCanonical());
         } catch (IllegalArgumentException error) {
             if (!isTailBufferTooSmall(error)) {
                 return new ScanOutcome(coordinate, Optional.empty(), error);
@@ -865,12 +913,40 @@ public final class Crawler implements AutoCloseable {
             try {
                 ByteSource source = fetcher.sourceWithCachedTail(uri, EXPANDED_TAIL_RETRY_BYTES);
                 Optional<ScannedModule> module = scanner.scan(source);
-                return new ScanOutcome(coordinate, module, null);
+                return new ScanOutcome(coordinate, module, null, source.lastModifiedMillis(), source.lastModifiedCanonical());
             } catch (Throwable retryError) {
                 return new ScanOutcome(coordinate, Optional.empty(), retryError);
             }
         } catch (Throwable error) {
             return new ScanOutcome(coordinate, Optional.empty(), error);
         }
+    }
+
+    /**
+     * When the primary fetch returned a non-canonical Last-Modified (e.g. GCS's
+     * bucket-landing time for a pre-2019 bulk-imported artifact), probe the configured
+     * canonical timestamp source for the upstream {@code Last-Modified}. Runs on the same
+     * executor task as the primary scan so the extra HEAD is fanned out, not serialised.
+     * Skips when there's nothing to upgrade (failed scans, non-modular artifacts, already
+     * canonical, no fallback configured, or fallback equals the primary source).
+     */
+    private ScanOutcome upgradeTimestamp(ScanOutcome outcome) {
+        if (outcome.error() != null || outcome.module().isEmpty() || outcome.lastModifiedCanonical()) {
+            return outcome;
+        }
+        URI fallback = configuration.canonicalTimestampBaseUri();
+        if (fallback == null || fallback.equals(configuration.artifactBaseUri())) {
+            return outcome;
+        }
+        long canonical;
+        try {
+            canonical = fetcher.headLastModified(fallback.resolve(outcome.coordinate().mavenPath()));
+        } catch (Throwable headFailure) {
+            return outcome;
+        }
+        if (canonical <= 0L) {
+            return outcome;
+        }
+        return new ScanOutcome(outcome.coordinate(), outcome.module(), null, canonical, true);
     }
 }
