@@ -92,6 +92,7 @@ public final class ModuleSummary {
                         TypeBreakdown automatic,
                         ModuleVersionCoverage moduleVersionCoverage,
                         LatestModuleVersionCoverage latestModuleVersionCoverage,
+                        MismatchImpact mismatchImpact,
                         MismatchPatterns mismatchPatterns,
                         Transitions transitions,
                         RecentActivity recent,
@@ -124,6 +125,24 @@ public final class ModuleSummary {
      * field across all releases", this answers "where is each module today".
      */
     public record LatestModuleVersionCoverage(long explicit, long mismatching, long absent) {
+    }
+
+    /**
+     * Per distinct module name (collapsing classifier variants), what happens if every row
+     * with a mismatching {@code module-info} version is dropped. Useful for sizing the
+     * impact of a "reject Maven-vs-module-info version mismatches" policy.
+     *
+     * <ul>
+     *   <li>{@code clean}: at least one named row exists, and none are mismatching. Untouched.</li>
+     *   <li>{@code partial}: at least one mismatching row exists, but at least one
+     *       non-mismatching row survives across the module's variants. The module loses some
+     *       versions but keeps a path forward.</li>
+     *   <li>{@code fullyLost}: every named row across every classifier variant is
+     *       mismatching. The module has no surviving row after the drop and disappears from
+     *       the module-version lookup space entirely.</li>
+     * </ul>
+     */
+    public record MismatchImpact(int clean, int partial, int fullyLost) {
     }
 
     /**
@@ -357,6 +376,12 @@ public final class ModuleSummary {
         builder.append("| `module-info` version matches the Maven coordinate version | ").append(fmt(latestCoverage.explicit())).append(" |\n");
         builder.append("| `module-info` version is non-empty but differs from the Maven coordinate version | ").append(fmt(latestCoverage.mismatching())).append(" |\n");
         builder.append("| `module-info` declared no version (Maven coordinate version is the only reference) | ").append(fmt(latestCoverage.absent())).append(" |\n\n");
+        MismatchImpact impact = stats.mismatchImpact();
+        builder.append("Sizes the impact of a hypothetical \"drop every mismatching row\" policy, counted once per **distinct module name** (collapsing classifier variants). Modules with no named row are excluded.\n\n");
+        builder.append("| Drop-mismatching impact | Module names |\n|---|---:|\n");
+        builder.append("| Untouched (no mismatching row anywhere) | ").append(fmt(impact.clean())).append(" |\n");
+        builder.append("| Partially affected (loses some versions, at least one non-mismatching row survives) | ").append(fmt(impact.partial())).append(" |\n");
+        builder.append("| Fully lost (every named row is mismatching, no surviving row after the drop) | ").append(fmt(impact.fullyLost())).append(" |\n\n");
 
         renderMismatchPatterns(builder, stats.mismatchPatterns());
 
@@ -598,6 +623,11 @@ public final class ModuleSummary {
         private long latestModuleVersionExplicit;
         private long latestModuleVersionMismatching;
         private long latestModuleVersionAbsent;
+        // Per distinct module name (key = dotted module name): two flags packed into a byte.
+        //   bit 0 set when any named row across any classifier variant is mismatching;
+        //   bit 1 set when any named row is non-mismatching (explicit or absent).
+        // Used to size the "drop every mismatching row" impact aggregated to module names.
+        private final Map<String, int[]> moduleNameMismatchFlags = new HashMap<>();
         private long mismatchSnapshotSuffix;
         private long mismatchOtherSuffixAdded;
         private long mismatchSuffixDropped;
@@ -752,8 +782,10 @@ public final class ModuleSummary {
                 if (entry.type() == ModuleType.NAMED) {
                     totalNamedVersionRows++;
                     String moduleVersion = entry.moduleVersion();
+                    int[] flags = moduleNameMismatchFlags.computeIfAbsent(moduleName, _ -> new int[1]);
                     if (moduleVersion.isEmpty()) {
                         moduleVersionAbsent++;
+                        flags[0] |= 2;  // non-mismatching survives
                     } else {
                         // Within the explicit/mismatching split, semantic Version equality
                         // folds trailing-zero variants ("1.0" vs "1.0.0") and qualifier
@@ -761,9 +793,11 @@ public final class ModuleSummary {
                         moduleKeysWithModuleVersion.add(moduleKey);
                         if (new Version(moduleVersion).equals(entry.mavenVersion())) {
                             moduleVersionExplicit++;
+                            flags[0] |= 2;  // non-mismatching survives
                         } else {
                             moduleVersionMismatching++;
                             categoriseMismatch(moduleVersion, entry.mavenVersion().raw());
+                            flags[0] |= 1;  // mismatching row present
                         }
                     }
                 }
@@ -970,6 +1004,22 @@ public final class ModuleSummary {
                     latestModuleVersionExplicit,
                     latestModuleVersionMismatching,
                     latestModuleVersionAbsent);
+            int impactClean = 0;
+            int impactPartial = 0;
+            int impactFullyLost = 0;
+            for (int[] flagBox : moduleNameMismatchFlags.values()) {
+                int flags = flagBox[0];
+                boolean hasMismatch = (flags & 1) != 0;
+                boolean hasNonMismatch = (flags & 2) != 0;
+                if (!hasMismatch) {
+                    impactClean++;
+                } else if (hasNonMismatch) {
+                    impactPartial++;
+                } else {
+                    impactFullyLost++;
+                }
+            }
+            MismatchImpact mismatchImpact = new MismatchImpact(impactClean, impactPartial, impactFullyLost);
             MismatchPatterns mismatchPatterns = new MismatchPatterns(
                     mismatchSnapshotSuffix,
                     mismatchOtherSuffixAdded,
@@ -989,7 +1039,7 @@ public final class ModuleSummary {
                 monthly.add(new MonthlyPublication(month, counts[0], counts[1]));
             }
             return new Stats(generatedAt, state, totals, named, automatic, coverage, latestCoverage,
-                    mismatchPatterns, transitions, recent, monthly, naming, errors, top);
+                    mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top);
         }
 
         /**
