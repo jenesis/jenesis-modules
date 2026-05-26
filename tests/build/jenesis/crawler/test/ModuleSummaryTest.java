@@ -71,10 +71,10 @@ public class ModuleSummaryTest {
         }
 
         String content = Files.readString(output, StandardCharsets.UTF_8);
-        assertThat(content).contains("## Module-info version coverage");
-        assertThat(content).contains("| With explicit module version | 1 |");
-        assertThat(content).contains("| With mismatching module version | 1 |");
-        assertThat(content).contains("| Without module version | 0 |");
+        assertThat(content).contains("## `module-info` version field across named publications");
+        assertThat(content).contains("| `module-info` version matches the Maven coordinate version | 1 |");
+        assertThat(content).contains("| `module-info` version is non-empty but differs from the Maven coordinate version | 1 |");
+        assertThat(content).contains("| `module-info` declared no version (Maven coordinate version is the only reference) | 0 |");
         assertThat(content).doesNotContain("Untracked");
     }
 
