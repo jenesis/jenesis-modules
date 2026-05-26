@@ -12,15 +12,27 @@ public final class GitPublisher implements CheckpointListener {
     private final Path workingDirectory;
     private final List<String> paths;
     private final int pushEvery;
+    private final boolean pushEnabled;
     private int commitsSincePush;
 
     public GitPublisher(Path workingDirectory, List<String> paths, int pushEvery) {
+        this(workingDirectory, paths, pushEvery, true);
+    }
+
+    /**
+     * @param pushEnabled when {@code false}, commits accumulate in the local clone but
+     *                    {@code git push} is never invoked. Useful for offline / suspended-
+     *                    account scenarios where the user wants to keep making local progress
+     *                    and push everything at the end.
+     */
+    public GitPublisher(Path workingDirectory, List<String> paths, int pushEvery, boolean pushEnabled) {
         this.workingDirectory = Objects.requireNonNull(workingDirectory, "workingDirectory");
         this.paths = List.copyOf(Objects.requireNonNull(paths, "paths"));
         if (pushEvery < 1) {
             throw new IllegalArgumentException("pushEvery must be at least 1, got " + pushEvery);
         }
         this.pushEvery = pushEvery;
+        this.pushEnabled = pushEnabled;
     }
 
     @Override
@@ -44,7 +56,7 @@ public final class GitPublisher implements CheckpointListener {
             }
             commit(message);
             commitsSincePush++;
-            if (commitsSincePush >= pushEvery) {
+            if (pushEnabled && commitsSincePush >= pushEvery) {
                 push();
                 commitsSincePush = 0;
             }
@@ -62,7 +74,7 @@ public final class GitPublisher implements CheckpointListener {
      * delivers everything it committed.
      */
     public synchronized void flush() {
-        if (commitsSincePush == 0) {
+        if (commitsSincePush == 0 || !pushEnabled) {
             return;
         }
         try {

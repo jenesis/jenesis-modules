@@ -39,6 +39,7 @@ public final class PatchTimestamp {
     public static final String PROP_GIT_PUBLISH = Crawl.PROP_GIT_PUBLISH;
     public static final String PROP_GIT_WORK_DIR = Crawl.PROP_GIT_WORK_DIR;
     public static final String PROP_GIT_PUSH_EVERY = Crawl.PROP_GIT_PUSH_EVERY;
+    public static final String PROP_GIT_PUSH_ENABLED = "jenesis.crawler.git.push.enabled";
     public static final String PROP_COMMIT_EVERY = "jenesis.patch.commit.every";
 
     private static final int DEFAULT_CONCURRENCY = 64;
@@ -93,12 +94,13 @@ public final class PatchTimestamp {
         if (commitEvery < 1) {
             throw new IllegalArgumentException("commitEvery must be >= 1, got " + commitEvery);
         }
+        boolean pushEnabled = property(PROP_GIT_PUSH_ENABLED).map(value -> Crawl.parseBoolean(value, PROP_GIT_PUSH_ENABLED)).orElse(true);
         GitPublisher publisher = null;
         if (gitPublish) {
             Path dataAbs = dataDir.toAbsolutePath();
             Path workingAbs = workingDirectory.toAbsolutePath();
             Path relativeData = workingAbs.relativize(dataAbs);
-            publisher = new GitPublisher(workingAbs, List.of(relativeData.toString()), pushEvery);
+            publisher = new GitPublisher(workingAbs, List.of(relativeData.toString()), pushEvery, pushEnabled);
         }
 
         System.out.println("[info] Configuration:");
@@ -107,7 +109,7 @@ public final class PatchTimestamp {
         System.out.println("[info]   canonicalTimestampBase=" + canonicalBase);
         System.out.println("[info]   concurrency=" + concurrency);
         System.out.println("[info]   gitPublish=" + gitPublish
-                + (gitPublish ? " (commitEvery=" + commitEvery + " modules, pushEvery=" + pushEvery + " commits)" : ""));
+                + (gitPublish ? " (commitEvery=" + commitEvery + " modules, pushEvery=" + pushEvery + " commits, push=" + (pushEnabled ? "enabled" : "DISABLED") + ")" : ""));
 
         List<Path> moduleDirs = collectModuleDirs(modulesRoot);
         long alreadyPatched = moduleDirs.stream()
@@ -123,6 +125,7 @@ public final class PatchTimestamp {
         long startMillis = System.currentTimeMillis();
         long totalRows = 0L;
         long updatedRows = 0L;
+        long removedRows = 0L;
         long headFailures = 0L;
         long touchedFiles = 0L;
         long regeneratedModules = 0L;
@@ -151,9 +154,14 @@ public final class PatchTimestamp {
                     totalRows += oldEntries.size();
                     PatchResult result = patchEntries(executor, fetcher, canonicalBase, oldEntries, classifier);
                     updatedRows += result.updated();
+                    removedRows += result.removed();
                     headFailures += result.failures();
-                    if (result.updated() > 0L) {
-                        writeEntries(versionsFile, result.entries());
+                    if (result.updated() > 0L || result.removed() > 0L) {
+                        if (result.entries().isEmpty()) {
+                            Files.deleteIfExists(versionsFile);
+                        } else {
+                            writeEntries(versionsFile, result.entries());
+                        }
                         touchedFiles++;
                         dirChanged = true;
                     }
@@ -171,6 +179,7 @@ public final class PatchTimestamp {
                     System.out.println("[patch] modules=" + completed + "/" + moduleDirs.size()
                             + " rows=" + totalRows
                             + " updated=" + updatedRows
+                            + " removed=" + removedRows
                             + " headFailures=" + headFailures
                             + " touchedFiles=" + touchedFiles
                             + " regeneratedModules=" + regeneratedModules
@@ -179,6 +188,7 @@ public final class PatchTimestamp {
                 if (publisher != null && (completed % commitEvery == 0 || lastModule)) {
                     publisher.checkpoint("patch: progress modules=" + completed + "/" + moduleDirs.size()
                             + " updated=" + updatedRows
+                            + " removed=" + removedRows
                             + " touchedFiles=" + touchedFiles);
                 }
             }
@@ -200,14 +210,25 @@ public final class PatchTimestamp {
                 + " modules=" + moduleDirs.size()
                 + " rows=" + totalRows
                 + " updated=" + updatedRows
+                + " removed=" + removedRows
                 + " headFailures=" + headFailures
                 + " touchedFiles=" + touchedFiles
                 + " regeneratedModules=" + regeneratedModules
                 + " elapsedSec=" + elapsedSec);
     }
 
-    private record PatchResult(List<ModuleEntry> entries, long updated, long failures) {
+    private record PatchResult(List<ModuleEntry> entries, long updated, long removed, long failures) {
     }
+
+    /**
+     * Sentinel returned by {@link #probe} when the row should be dropped from
+     * {@code versions.tsv} entirely (the upstream artifact returned 404 - it has been
+     * withdrawn from Maven Central, so a record pointing at it is no longer accurate).
+     */
+    private static final ModuleEntry REMOVED = new ModuleEntry(
+            new build.jenesis.crawler.model.Version("0"),
+            build.jenesis.crawler.model.ModuleType.NAMED,
+            "removed", "removed", 1L, "");
 
     private static PatchResult patchEntries(ExecutorService executor,
                                             Fetcher fetcher,
@@ -215,23 +236,27 @@ public final class PatchTimestamp {
                                             List<ModuleEntry> oldEntries,
                                             String classifier) {
         List<Future<ModuleEntry>> futures = new ArrayList<>(oldEntries.size());
-        long[] counters = new long[2];
+        long[] counters = new long[3];
         for (ModuleEntry entry : oldEntries) {
             URI uri = canonicalBase.resolve(mavenJarPath(entry, classifier));
             futures.add(executor.submit(() -> probe(fetcher, uri, entry, counters)));
         }
         List<ModuleEntry> updated = new ArrayList<>(oldEntries.size());
         for (Future<ModuleEntry> future : futures) {
+            ModuleEntry result;
             try {
-                updated.add(future.get());
+                result = future.get();
             } catch (InterruptedException interrupted) {
                 Thread.currentThread().interrupt();
                 throw new RuntimeException("Interrupted while awaiting HEAD result", interrupted);
             } catch (ExecutionException e) {
                 throw new RuntimeException("HEAD task threw", e.getCause());
             }
+            if (result != REMOVED) {
+                updated.add(result);
+            }
         }
-        return new PatchResult(updated, counters[0], counters[1]);
+        return new PatchResult(updated, counters[0], counters[1], counters[2]);
     }
 
     private static ModuleEntry probe(Fetcher fetcher, URI uri, ModuleEntry entry, long[] counters) {
@@ -241,14 +266,23 @@ public final class PatchTimestamp {
         } catch (Throwable error) {
             logHeadFailure(uri, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
             synchronized (counters) {
-                counters[1]++;
+                counters[2]++;
             }
             return entry;
+        }
+        if (head.status() == 404) {
+            // Artifact withdrawn from Maven Central. Drop the row from versions.tsv -
+            // keeping it would leave the resolved view pointing at a 404 URL.
+            logHeadFailure(uri, 404, head.error());
+            synchronized (counters) {
+                counters[1]++;
+            }
+            return REMOVED;
         }
         if (!head.ok()) {
             logHeadFailure(uri, head.status(), head.error());
             synchronized (counters) {
-                counters[1]++;
+                counters[2]++;
             }
             return entry;
         }
