@@ -18,7 +18,7 @@ on:
         required: false
         default: '10'
       resume:
-        description: Resume in-flight worklist (false discards state + worklist)
+        description: Resume in-flight state (false discards state.properties + dirty-modules.tsv)
         required: false
         default: 'true'
         type: choice
