@@ -24,6 +24,24 @@ public final class ModuleStore {
     public static final String LEAF_FILE_EXTENSION = ".tsv";
     public static final String OWNERS_FILE = "owners.tsv";
 
+    /**
+     * Selects which resolved-view files {@link #regenerate(String, Scope)} touches.
+     * {@code BOTH} is the default for full re-runs; {@code ARTIFACTS} or {@code MODULES}
+     * lets a caller (e.g. the {@code Regenerate} CLI) rebuild one family at a time.
+     * Whichever file the scope excludes is left exactly as it was on disk.
+     */
+    public enum Scope {
+        ARTIFACTS, MODULES, BOTH;
+
+        public boolean writesArtifacts() {
+            return this != MODULES;
+        }
+
+        public boolean writesModules() {
+            return this != ARTIFACTS;
+        }
+    }
+
     public static final Comparator<ModuleEntry> CHRONOLOGICAL = Comparator
             .comparingLong(ModuleEntry::publishedAt)
             .thenComparing(ModuleEntry::groupId)
@@ -200,9 +218,20 @@ public final class ModuleStore {
      * (and any existing one is removed).
      */
     public void regenerate(String moduleName) throws IOException {
+        regenerate(moduleName, Scope.BOTH);
+    }
+
+    /**
+     * Same as {@link #regenerate(String)}, but only writes the resolved views selected by
+     * {@code scope}. The other family is left untouched on disk (no read, no delete, no
+     * temp-file write), which lets the {@code Regenerate} CLI rebuild one side of the
+     * catalogue without disturbing the other.
+     */
+    public void regenerate(String moduleName, Scope scope) throws IOException {
         if (!isValidModuleName(moduleName)) {
             throw new IllegalArgumentException("Invalid module name: " + moduleName);
         }
+        Objects.requireNonNull(scope, "scope");
         Path dir = moduleDir(moduleName);
         if (!Files.isDirectory(dir)) {
             return;
@@ -211,19 +240,23 @@ public final class ModuleStore {
         for (ClassifierFile classifierFile : listVersionFiles(dir)) {
             List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
             String classifier = classifierFile.classifier();
-            List<ArtifactsEntry> artifacts = resolve(versions, owners);
-            Path artifactsFile = dir.resolve(artifactsFileName(classifier));
-            if (artifacts.isEmpty()) {
-                Files.deleteIfExists(artifactsFile);
-            } else {
-                writeArtifacts(artifactsFile, artifacts);
+            if (scope.writesArtifacts()) {
+                List<ArtifactsEntry> artifacts = resolve(versions, owners);
+                Path artifactsFile = dir.resolve(artifactsFileName(classifier));
+                if (artifacts.isEmpty()) {
+                    Files.deleteIfExists(artifactsFile);
+                } else {
+                    writeArtifacts(artifactsFile, artifacts);
+                }
             }
-            List<ModuleVersionEntry> modules = resolveModules(versions, owners);
-            Path modulesFile = dir.resolve(modulesFileName(classifier));
-            if (modules.isEmpty()) {
-                Files.deleteIfExists(modulesFile);
-            } else {
-                writeModules(modulesFile, modules);
+            if (scope.writesModules()) {
+                List<ModuleVersionEntry> modules = resolveModules(versions, owners);
+                Path modulesFile = dir.resolve(modulesFileName(classifier));
+                if (modules.isEmpty()) {
+                    Files.deleteIfExists(modulesFile);
+                } else {
+                    writeModules(modulesFile, modules);
+                }
             }
         }
     }
@@ -283,12 +316,18 @@ public final class ModuleStore {
 
     /**
      * Apply the resolution rule for {@code modules.tsv}: same owner filtering as
-     * {@link #resolve}, but the grouping key is the module-info version (or the Maven
-     * coordinate version when {@code module-info} declared no version), only named-module
-     * rows count (automatic modules have no {@code module-info} version to key on), and
-     * for each distinct module version the row with the oldest {@code publishedAt} wins.
-     * Returns an empty list when the resolved owner has no named rows, which the caller
-     * uses to delete any existing {@code modules.tsv}.
+     * {@link #resolve}, then drop any named row whose {@code module-info} version is
+     * non-empty AND semantically differs from the Maven coordinate version (so consumers
+     * never see a module version that contradicts the Maven version that delivered it).
+     * Of the survivors, only named-module rows count (automatic modules carry no
+     * {@code module-info} version to key on), and for each distinct module version the
+     * row with the oldest {@code publishedAt} wins. Returns an empty list when no named
+     * rows survive, which the caller uses to delete any existing {@code modules.tsv}.
+     *
+     * <p>The mismatch filter runs <em>after</em> owner resolution (implicit or
+     * {@code owners.tsv}-driven) so a module whose implicit-owner candidate publishes
+     * only mismatching rows still loses its {@code modules.tsv} rather than silently
+     * handing ownership to a runner-up groupId.
      */
     private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<Owners> owners) {
         if (versions.isEmpty()) {
@@ -307,9 +346,13 @@ public final class ModuleStore {
             if (entry.type() != ModuleType.NAMED) {
                 continue;
             }
-            String moduleVersionKey = entry.moduleVersion().isEmpty()
+            String moduleVersion = entry.moduleVersion();
+            if (!moduleVersion.isEmpty() && !new Version(moduleVersion).equals(entry.mavenVersion())) {
+                continue;
+            }
+            String moduleVersionKey = moduleVersion.isEmpty()
                     ? entry.mavenVersion().raw()
-                    : entry.moduleVersion();
+                    : moduleVersion;
             bestByModuleVersion.merge(moduleVersionKey, entry,
                     (existing, candidate) -> pickOrder.compare(candidate, existing) < 0 ? candidate : existing);
         }

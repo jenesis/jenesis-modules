@@ -233,6 +233,109 @@ public class ModuleStoreTest {
     }
 
     @Test
+    public void regenerate_drops_mismatching_module_info_rows_from_modules_tsv() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // Maven 1.0 publishes module-info version "1.0" - matches, kept.
+        store.record("filter.module", ModuleType.NAMED, "1.0", ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
+        // Maven 1.0.0.1 publishes module-info version "1.0" - the JAR's module-info contradicts
+        // the Maven coordinate, so it must not show up in modules.tsv (it's the case the new
+        // policy targets: consumers shouldn't see module version "1.0" mapped to Maven 1.0.0.1).
+        store.record("filter.module", ModuleType.NAMED, "1.0", ts("canon.org", "lib", "1.0.0.1", null, 1_710_000_000_000L));
+        // Maven 2.0 publishes empty module-info version (the "absent" case), still kept because
+        // the row carries no contradictory version - the Maven coordinate is the only reference.
+        store.record("filter.module", ModuleType.NAMED, "", ts("canon.org", "lib", "2.0", null, 1_720_000_000_000L));
+        // Maven 3.0 publishes a contradictory module-info version "9.9" - dropped.
+        store.record("filter.module", ModuleType.NAMED, "9.9", ts("canon.org", "lib", "3.0", null, 1_730_000_000_000L));
+        store.flush();
+
+        store.regenerate("filter.module");
+
+        Path dir = root.resolve("filter").resolve("module");
+        // artifacts.tsv keeps every Maven version - the policy doesn't touch the artifact view.
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv"))).containsExactly(
+                "3.0\tnamed\tcanon.org\tlib",
+                "2.0\tnamed\tcanon.org\tlib",
+                "1.0.0.1\tnamed\tcanon.org\tlib",
+                "1.0\tnamed\tcanon.org\tlib");
+        // modules.tsv keeps only matching-or-absent rows.
+        assertThat(Files.readAllLines(dir.resolve("modules.tsv"))).containsExactly(
+                "2.0\tcanon.org\tlib\t2.0",
+                "1.0\tcanon.org\tlib\t1.0");
+    }
+
+    @Test
+    public void regenerate_deletes_modules_tsv_when_every_named_row_mismatches() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("allmismatch.module", ModuleType.NAMED, "9.9", ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("allmismatch.module", ModuleType.NAMED, "9.9", ts("canon.org", "lib", "2.0", null, 1_710_000_000_000L));
+        store.flush();
+
+        store.regenerate("allmismatch.module");
+
+        Path dir = root.resolve("allmismatch").resolve("module");
+        // The Maven view still resolves.
+        assertThat(dir.resolve("artifacts.tsv")).exists();
+        // No defensible modules.tsv: every row would mis-represent the Maven version.
+        assertThat(dir.resolve("modules.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void regenerate_mismatch_filter_does_not_shift_implicit_owner() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // First publisher wins implicit ownership by oldest publishedAt - even though every one
+        // of its rows is mismatching (and so won't survive into modules.tsv), it must still hold
+        // the module: ownership decisions read the full versions.tsv, the mismatch filter only
+        // gates which of the owner's rows reach the resolved view.
+        store.record("owned.module", ModuleType.NAMED, "9.9", ts("first.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("owned.module", ModuleType.NAMED, "1.0", ts("second.org", "lib", "1.0", null, 1_710_000_000_000L));
+        store.flush();
+
+        store.regenerate("owned.module");
+
+        Path dir = root.resolve("owned").resolve("module");
+        // first.org owns the module; its single mismatching row lands in artifacts.tsv.
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv"))).containsExactly(
+                "1.0\tnamed\tfirst.org\tlib");
+        // second.org's matching row is filtered out because it lost ownership, not because of
+        // the mismatch policy. modules.tsv is absent because first.org's only row is mismatching.
+        assertThat(dir.resolve("modules.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void regenerate_scope_artifacts_leaves_existing_modules_tsv_untouched() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("scope.module", ModuleType.NAMED, "1.0", ts("g", "a", "1.0", null, 1_700_000_000_000L));
+        store.flush();
+        Path dir = root.resolve("scope").resolve("module");
+        // Seed a placeholder modules.tsv that the policy would normally overwrite. Scope.ARTIFACTS
+        // must leave it alone so a caller that only wants to recompute artifacts.tsv can do so.
+        Files.writeString(dir.resolve("modules.tsv"), "placeholder content\n", StandardCharsets.UTF_8);
+
+        store.regenerate("scope.module", ModuleStore.Scope.ARTIFACTS);
+
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv"))).containsExactly(
+                "1.0\tnamed\tg\ta");
+        assertThat(Files.readString(dir.resolve("modules.tsv"), StandardCharsets.UTF_8))
+                .isEqualTo("placeholder content\n");
+    }
+
+    @Test
+    public void regenerate_scope_modules_leaves_existing_artifacts_tsv_untouched() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("scope.module", ModuleType.NAMED, "1.0", ts("g", "a", "1.0", null, 1_700_000_000_000L));
+        store.flush();
+        Path dir = root.resolve("scope").resolve("module");
+        Files.writeString(dir.resolve("artifacts.tsv"), "placeholder content\n", StandardCharsets.UTF_8);
+
+        store.regenerate("scope.module", ModuleStore.Scope.MODULES);
+
+        assertThat(Files.readString(dir.resolve("artifacts.tsv"), StandardCharsets.UTF_8))
+                .isEqualTo("placeholder content\n");
+        assertThat(Files.readAllLines(dir.resolve("modules.tsv"))).containsExactly(
+                "1.0\tg\ta\t1.0");
+    }
+
+    @Test
     public void regenerate_omits_modules_tsv_when_owner_publishes_only_automatic() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("automatic.only", ModuleType.AUTOMATIC, "", ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
