@@ -1,35 +1,43 @@
 /**
  * Cloudflare Worker that resolves Java module names + versions to Maven Central
- * artifact URLs by consulting the published `data/modules/<dotted/path>/current[-<classifier>].tsv`
- * files from this repository and returning a 302 redirect.
+ * artifact URLs by consulting this repository's published `data/modules/<dotted/path>/`
+ * directories and returning a 302 redirect.
  *
- * For `sources` and `documentation` requests the same `current.tsv` (or
- * `current-<classifier>.tsv` if the URL filename specifies a classifier) is consulted to
- * resolve the module's groupId / artifactId / version, and the companion JAR URL is
- * synthesised by appending Maven's `-sources` / `-javadoc` filename convention. The
- * crawler does not separately track sources or javadoc JARs — they're assumed to follow
- * the convention if the upstream publisher attached them to the same coordinate.
+ * Two resolution modes:
  *
- * Request URL shapes (mirroring `build.jenesis.module.JenesisModuleRepository`):
+ *  - `/artifact/<moduleName>/[<version>/]<filename>.jar`
+ *    Resolves through `artifacts[-<classifier>].tsv`. The version segment is the **Maven
+ *    coordinate version**. This is the historical lookup: many Maven versions of the same
+ *    module name may exist (one row per Maven version), so the version space is dense.
  *
- *     GET /<kind>/<moduleName>/<filename>.jar                    → latest
- *     GET /<kind>/<moduleName>/<version>/<filename>.jar          → versioned
+ *  - `/module/<moduleName>/[<version>/]<filename>.jar`
+ *    Resolves through `modules[-<classifier>].tsv`. The version segment is the
+ *    **module-info version** (the publisher's declared module version, falling back to the
+ *    Maven version when no module-info version was declared). Each module-version maps to
+ *    exactly one Maven coordinate - the oldest Maven publish wins, so the mapping is
+ *    stable even though Maven doesn't enforce unique module versions.
  *
- * where `<kind>` is one of:
- *     module          main artifact (alias of `modules`, matching this repo's data path)
- *     modules         main artifact
- *     sources         Maven `-sources` companion JAR
- *     documentation   Maven `-javadoc` companion JAR
+ *  - `/sources/<moduleName>/[<moduleVersion>/]<filename>.jar`
+ *    `/documentation/<moduleName>/[<moduleVersion>/]<filename>.jar`
+ *    Companion sources / javadoc JARs. The version segment is the **module-info version**;
+ *    these routes resolve through `modules.tsv` and synthesise the `-sources` / `-javadoc`
+ *    URL from the row's Maven coordinate. (Maven Central doesn't separately index sources
+ *    or javadoc artifacts; we trust the publisher attached them to the same coordinate.)
  *
- * and `<filename>` is `<moduleName>` or `<moduleName>-<classifier>`.
+ * In all four cases the version segment is optional - leaving it out picks the first row
+ * in the TSV (highest version, since both files are sorted descending). `<filename>` is
+ * `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; a classifier flips the lookup
+ * from `<base>.tsv` to `<base>-<classifier>.tsv` (where `<base>` is `artifacts` or
+ * `modules`).
  *
- * The worker is indifferent to any path segments preceding the kind marker — only the
- * trailing three or four segments are inspected — so it can be deployed behind any
+ * The worker is indifferent to any path segments preceding the mode marker - only the
+ * trailing three or four segments are inspected - so it can be deployed behind any
  * additional route prefix without configuration.
  *
  * Environment bindings (all optional):
- *   DATA_BASE         Base URL for fetching `current[-<classifier>].tsv`. Defaults to
- *                     this repo's `main` branch on raw.githubusercontent.com.
+ *   DATA_BASE         Base URL for fetching `artifacts[-<classifier>].tsv` and
+ *                     `modules[-<classifier>].tsv`. Defaults to this repo's `main`
+ *                     branch on raw.githubusercontent.com.
  *   ARTIFACT_BASE     Base URL of the Maven repository to redirect to. Defaults to
  *                     repo.maven.apache.org/maven2/.
  *   REDIRECT_TTL      Cache-Control max-age (seconds) on the 302 response. Defaults
@@ -47,6 +55,16 @@ const STALE_WHILE_REVALIDATE = 86400;
 // We use this both to validate URL-supplied module names and to split a
 // `<moduleName>-<classifier>` basename at the first hyphen.
 const MODULE_SEGMENT = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
+
+// Resolution modes. The "tsv" property is the TSV file base name; "filenameSuffix" is the
+// Maven-side filename decoration ("-sources" / "-javadoc") added before ".jar" when
+// building the redirect target.
+const MODES = {
+    artifact: { tsv: "artifacts", filenameSuffix: "" },
+    module: { tsv: "modules", filenameSuffix: "" },
+    sources: { tsv: "modules", filenameSuffix: "-sources" },
+    documentation: { tsv: "modules", filenameSuffix: "-javadoc" },
+};
 
 export default {
     async fetch(request, env) {
@@ -74,16 +92,17 @@ async function handleRequest(request, env) {
     if (!parsed) {
         return textResponse(404, "Not Found\n");
     }
-    const { moduleName, version, classifier, kind } = parsed;
+    const { moduleName, version, classifier, mode } = parsed;
+    const config = MODES[mode];
 
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
     const artifactBase = (env && env.ARTIFACT_BASE) || DEFAULT_ARTIFACT_BASE;
     const redirectTtl = Number((env && env.REDIRECT_TTL) || DEFAULT_REDIRECT_TTL);
 
-    const tsvPath =
-        moduleName.replaceAll(".", "/") +
-        "/" +
-        (classifier ? `current-${classifier}.tsv` : "current.tsv");
+    const tsvName = classifier
+        ? `${config.tsv}-${classifier}.tsv`
+        : `${config.tsv}.tsv`;
+    const tsvPath = moduleName.replaceAll(".", "/") + "/" + tsvName;
 
     const tsvResponse = await fetch(dataBase + tsvPath, {
         cf: { cacheTtl: redirectTtl, cacheEverything: true },
@@ -91,7 +110,7 @@ async function handleRequest(request, env) {
     if (tsvResponse.status === 404) {
         return textResponse(
             404,
-            `Not Found: module ${moduleName}${classifier ? `-${classifier}` : ""}\n`,
+            `Not Found: module ${moduleName}${classifier ? `-${classifier}` : ""} (${config.tsv}.tsv)\n`,
         );
     }
     if (!tsvResponse.ok) {
@@ -102,15 +121,15 @@ async function handleRequest(request, env) {
     }
 
     const tsv = await tsvResponse.text();
-    const row = pickRow(tsv, version);
+    const row = pickRow(tsv, version, mode);
     if (!row) {
         return textResponse(
             404,
-            `Not Found: version ${version ?? "latest"} for module ${moduleName}\n`,
+            `Not Found: version ${version ?? "latest"} for module ${moduleName} (${config.tsv}.tsv)\n`,
         );
     }
 
-    const jarUrl = artifactUrl(artifactBase, row, classifier, kind);
+    const jarUrl = artifactUrl(artifactBase, row, classifier, config.filenameSuffix);
     return new Response(null, {
         status: 302,
         headers: {
@@ -118,19 +137,17 @@ async function handleRequest(request, env) {
             "Cache-Control": `public, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
             "X-Jenesis-GroupId": row.groupId,
             "X-Jenesis-ArtifactId": row.artifactId,
-            "X-Jenesis-Module": row.type,
+            "X-Jenesis-MavenVersion": row.mavenVersion,
+            ...(row.moduleVersion ? { "X-Jenesis-ModuleVersion": row.moduleVersion } : {}),
         },
     });
 }
 
 /**
- * Parse a request path into `{ moduleName, version, classifier, kind }` or return `null`
+ * Parse a request path into `{ moduleName, version, classifier, mode }` or return `null`
  * if the path doesn't fit a supported shape. Only the trailing 3-4 segments are inspected.
  *
- * `kind` is one of:
- *   "main"    — preceded by `module/` or `modules/`
- *   "sources" — preceded by `sources/` (maps to Maven's `-sources` classifier)
- *   "javadoc" — preceded by `documentation/` (maps to Maven's `-javadoc` classifier)
+ * `mode` is one of `artifact`, `module`, `sources`, `documentation` - see {@link MODES}.
  *
  * `<filename>` is `<moduleName>.jar` or `<moduleName>-<classifier>.jar`.
  */
@@ -158,7 +175,7 @@ function parsePath(pathname) {
 
     // Locate the start of the module section: either parts[length-2] (latest) or
     // parts[length-3] (versioned). Prefer the versioned interpretation when both could
-    // match, so a path like /<prefix>/<kind>/<moduleName>/<version>/<filename>.jar with
+    // match, so a path like /<prefix>/<mode>/<moduleName>/<version>/<filename>.jar with
     // `<prefix>` being any mount prefix still resolves correctly.
     const dir = parts[parts.length - 2];
     let moduleStart;
@@ -173,23 +190,16 @@ function parsePath(pathname) {
         return null;
     }
 
-    // Kind marker is mandatory: segment immediately before the module section.
+    // Mode marker is mandatory: segment immediately before the module section.
     if (moduleStart < 1) {
         return null;
     }
     const before = parts[moduleStart - 1];
-    let kind;
-    if (before === "module" || before === "modules") {
-        kind = "main";
-    } else if (before === "sources") {
-        kind = "sources";
-    } else if (before === "documentation") {
-        kind = "javadoc";
-    } else {
+    if (!Object.hasOwn(MODES, before)) {
         return null;
     }
 
-    return { moduleName: fileModule, version, classifier, kind };
+    return { moduleName: fileModule, version, classifier, mode: before };
 }
 
 function isModuleName(text) {
@@ -205,15 +215,18 @@ function isModuleName(text) {
 }
 
 /**
- * Pick a row from a `current.tsv` payload.
+ * Pick a row from a TSV payload. `mode` tells the parser which shape to expect:
  *
- * If `version` is `null`, returns the first row (highest version — `current.tsv` is
- * sorted version-descending). Otherwise returns the first row whose first column matches
- * `version` exactly, or `null` if not found.
+ *   artifact mode  → artifacts.tsv: 4 cols  `version, type, groupId, artifactId`
+ *   module/sources/documentation modes → modules.tsv: 4 cols
+ *                                       `moduleVersion, groupId, artifactId, mavenVersion`
  *
- * Each row has four tab-separated columns: version, type, groupId, artifactId.
+ * Returns a normalised `{ groupId, artifactId, mavenVersion, moduleVersion? }` row, or
+ * `null` when no row matches. If `version` is `null`, returns the first row (highest
+ * version - both files are sorted descending). Otherwise returns the first row whose
+ * first column matches `version` exactly.
  */
-function pickRow(tsv, version) {
+function pickRow(tsv, version, mode) {
     for (const line of tsv.split("\n")) {
         if (line.length === 0) {
             continue;
@@ -222,24 +235,31 @@ function pickRow(tsv, version) {
         if (cols.length < 4) {
             continue;
         }
-        if (version === null || cols[0] === version) {
+        if (version !== null && cols[0] !== version) {
+            continue;
+        }
+        if (mode === "artifact") {
             return {
-                version: cols[0],
-                type: cols[1],
                 groupId: cols[2],
                 artifactId: cols[3],
+                mavenVersion: cols[0],
+                moduleVersion: null,
             };
         }
+        return {
+            groupId: cols[1],
+            artifactId: cols[2],
+            mavenVersion: cols[3],
+            moduleVersion: cols[0],
+        };
     }
     return null;
 }
 
-function artifactUrl(base, row, classifier, kind) {
+function artifactUrl(base, row, classifier, filenameSuffix) {
     const groupPath = row.groupId.replaceAll(".", "/");
     const classifierSuffix = classifier ? `-${classifier}` : "";
-    const kindSuffix =
-        kind === "sources" ? "-sources" : kind === "javadoc" ? "-javadoc" : "";
-    return `${base}${groupPath}/${row.artifactId}/${row.version}/${row.artifactId}-${row.version}${classifierSuffix}${kindSuffix}.jar`;
+    return `${base}${groupPath}/${row.artifactId}/${row.mavenVersion}/${row.artifactId}-${row.mavenVersion}${classifierSuffix}${filenameSuffix}.jar`;
 }
 
 function textResponse(status, body) {
