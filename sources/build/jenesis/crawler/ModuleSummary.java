@@ -420,13 +420,13 @@ public final class ModuleSummary {
         builder.append("| Multiple competing groupIds in audit history | ").append(fmt(stats.naming().collidingModules())).append(" |\n\n");
 
         builder.append("### Leading dot-segments shared with the owning groupId\n\n");
-        builder.append("For each canonical (no-classifier) module that resolved to an owner (implicit or explicit), counts how many leading dot-segments its module name shares with the owner's groupId. A high share is the textbook JPMS pattern (e.g. module `com.example.foo` published by groupId `com.example.foo`); zero indicates a module name that diverges entirely from its publisher's groupId. Classifier variants are out of scope because they share the canonical's groupId by construction.\n\n");
+        builder.append("For each canonical (no-classifier) module that resolved to an owner (implicit or explicit), counts how many leading dot-segments its module name shares with the owner's groupId. A high share is the textbook JPMS pattern (e.g. module `com.example.foo` published by groupId `com.example.foo`); zero indicates a module name that diverges entirely from its publisher's groupId. Classifier variants are out of scope because they share the canonical's groupId by construction. Empty buckets render as `-`.\n\n");
         SortedMap<Integer, Integer> histogram = stats.naming().sharedSegmentHistogram();
         int maxShared = histogram.isEmpty() ? 0 : histogram.lastKey();
         builder.append("| Shared leading dot-segments | Canonical modules |\n|---:|---:|\n");
         for (int i = 0; i <= maxShared; i++) {
             int count = histogram.getOrDefault(i, 0);
-            builder.append("| ").append(i).append(" | ").append(count == 0 ? "none" : fmt(count)).append(" |\n");
+            builder.append("| ").append(i).append(" | ").append(count == 0 ? "-" : fmt(count)).append(" |\n");
         }
         builder.append('\n');
 
