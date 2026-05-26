@@ -1,8 +1,12 @@
 name: Crawl Maven Central for Java Modules
 
 on:
-  schedule:
-    - cron: '7 */12 * * *'
+  # Scheduled trigger temporarily disabled while the PatchTimestamp backfill runs - the two
+  # workflows share data/modules/ and must not overlap (PatchTimestamp rewrites versions.tsv;
+  # an in-flight crawl can append rows or regenerate resolved views on top of the rewrite).
+  # Re-add the entry below to resume the twice-daily schedule:
+  #   schedule:
+  #     - cron: '7 */12 * * *'
   workflow_dispatch:
     inputs:
       budget_minutes:
@@ -97,6 +101,11 @@ jobs:
         env:
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
           INDEX_BASE: ${{ vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
+          # HEAD target for the canonical Last-Modified when ARTIFACT_BASE is a mirror that
+          # rewrites mtimes (the GCS mirror serves pre-2019 imports with bucket-landing
+          # times rather than publish times). Falls back to ARTIFACT_BASE when unset, which
+          # disables the upgrade pass for forks that point everything at a single source.
+          CANONICAL_TIMESTAMP_BASE: ${{ vars.CANONICAL_TIMESTAMP_BASE || 'https://repo.maven.apache.org/maven2/' }}
           BUDGET_MINUTES: ${{ github.event.inputs.budget_minutes || vars.BUDGET_MINUTES || '180' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || vars.CONCURRENCY || '64' }}
           TAIL_SIZE: ${{ vars.TAIL_SIZE }}
@@ -114,6 +123,7 @@ jobs:
             "-Djenesis.crawler.git.publish=true"
             "-Djenesis.crawler.git.work.dir=$GITHUB_WORKSPACE"
             "-Djenesis.crawler.git.push.every=$PUSH_EVERY"
+            "-Djenesis.crawler.canonical.timestamp.uri=$CANONICAL_TIMESTAMP_BASE"
           )
           [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")
