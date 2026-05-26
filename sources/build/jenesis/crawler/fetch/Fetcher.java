@@ -330,19 +330,30 @@ public final class Fetcher implements AutoCloseable {
     }
 
     /**
-     * One-shot HEAD against {@code uri}, returning the response's authoritative publication
-     * timestamp (millis, or {@code 0L} when the response carries none). Used by the crawler
-     * as a fallback when the primary fetch is served from a mirror whose plain
-     * {@code Last-Modified} doesn't reflect the original publish time (e.g. pre-2019 GCS
-     * bulk-imports). Returns {@code 0L} on any network or HTTP error so the caller can
-     * gracefully fall back.
+     * Outcome of a {@link #headLastModifiedProbe} call. {@code lastModifiedMillis} is the
+     * timestamp we could extract from the response (or {@code 0L} when nothing usable came
+     * back); {@code status} is the HTTP status code ({@code 0} when the request never made
+     * it that far); {@code error} is a short human-readable string when an exception was
+     * raised (or {@code null} on a normal response, even a 4xx).
      */
-    public long headLastModified(URI uri) {
+    public record HeadProbe(long lastModifiedMillis, int status, String error) {
+
+        public boolean ok() {
+            return lastModifiedMillis > 0L;
+        }
+    }
+
+    /**
+     * One-shot HEAD against {@code uri}. Returns the canonical publication timestamp along
+     * with the HTTP status and any error string for diagnostics. Never throws: network or
+     * HTTP failures are encoded in the returned {@link HeadProbe}.
+     */
+    public HeadProbe headLastModifiedProbe(URI uri) {
         HttpURLConnection connection;
         try {
             connection = (HttpURLConnection) uri.toURL().openConnection();
         } catch (IOException unable) {
-            return 0L;
+            return new HeadProbe(0L, 0, unable.getClass().getSimpleName() + ": " + unable.getMessage());
         }
         try {
             connection.setRequestMethod("HEAD");
@@ -352,14 +363,23 @@ public final class Fetcher implements AutoCloseable {
             connection.setRequestProperty("User-Agent", USER_AGENT);
             int status = connection.getResponseCode();
             if (status / 100 != 2) {
-                return 0L;
+                return new HeadProbe(0L, status, null);
             }
-            return preferredLastModified(connection).millis();
+            long millis = preferredLastModified(connection).millis();
+            return new HeadProbe(millis, status, millis > 0L ? null : "no Last-Modified header");
         } catch (IOException error) {
-            return 0L;
+            return new HeadProbe(0L, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
         } finally {
             connection.disconnect();
         }
+    }
+
+    /**
+     * Thin wrapper around {@link #headLastModifiedProbe} for callers that only need the
+     * timestamp value. Returns {@code 0L} on any failure.
+     */
+    public long headLastModified(URI uri) {
+        return headLastModifiedProbe(uri).lastModifiedMillis();
     }
 
     private HttpURLConnection openSyncConnection(URI uri, Consumer<HttpURLConnection> configurator) throws IOException {

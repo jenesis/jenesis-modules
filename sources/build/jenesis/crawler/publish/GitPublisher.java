@@ -25,12 +25,23 @@ public final class GitPublisher implements CheckpointListener {
 
     @Override
     public synchronized void onCheckpoint(State state, Statistics statistics) {
+        checkpoint(buildMessage(state, statistics));
+    }
+
+    /**
+     * Stages every configured path, commits with {@code message} when there are staged
+     * changes, and pushes once {@code pushEvery} commits have accumulated. Safe to call
+     * from any caller that produces incremental work and wants durable checkpoints (the
+     * crawler's checkpoint listener, the timestamp backfill, etc.). Errors are logged
+     * and swallowed: the on-disk state is always consistent, so the next checkpoint
+     * just tries again.
+     */
+    public synchronized void checkpoint(String message) {
         try {
             stage();
             if (!hasStagedChanges()) {
                 return;
             }
-            String message = buildMessage(state, statistics);
             commit(message);
             commitsSincePush++;
             if (commitsSincePush >= pushEvery) {
@@ -39,8 +50,27 @@ public final class GitPublisher implements CheckpointListener {
             }
         } catch (IOException error) {
             System.err.println("[git] publisher failed: " + error.getMessage()
-                    + " (continuing crawl; on-disk state is still consistent)");
+                    + " (continuing; on-disk state is still consistent)");
             commitsSincePush = 0;
+        }
+    }
+
+    /**
+     * Pushes any commits that have accumulated since the last push. Intended to be called
+     * once at the end of a long-running operation, after the last {@link #checkpoint} call,
+     * so a partial run that wouldn't otherwise hit the {@code pushEvery} threshold still
+     * delivers everything it committed.
+     */
+    public synchronized void flush() {
+        if (commitsSincePush == 0) {
+            return;
+        }
+        try {
+            push();
+            commitsSincePush = 0;
+        } catch (IOException error) {
+            System.err.println("[git] publisher final push failed: " + error.getMessage()
+                    + " (commits remain in the local clone)");
         }
     }
 

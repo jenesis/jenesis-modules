@@ -86,7 +86,7 @@ public final class Crawl {
         return value == null || value.isBlank() ? Optional.empty() : Optional.of(value.trim());
     }
 
-    private static boolean parseBoolean(String value, String source) {
+    static boolean parseBoolean(String value, String source) {
         return switch (value.toLowerCase(Locale.ROOT)) {
             case "true", "1", "yes" -> true;
             case "false", "0", "no" -> false;

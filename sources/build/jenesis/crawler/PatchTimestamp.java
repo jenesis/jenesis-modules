@@ -3,6 +3,7 @@ package build.jenesis.crawler;
 import module java.base;
 import build.jenesis.crawler.fetch.Fetcher;
 import build.jenesis.crawler.model.ModuleEntry;
+import build.jenesis.crawler.publish.GitPublisher;
 import build.jenesis.crawler.store.ModuleStore;
 
 /**
@@ -35,8 +36,23 @@ public final class PatchTimestamp {
     public static final String PROP_DATA = Crawl.PROP_DATA;
     public static final String PROP_CONCURRENCY = Crawl.PROP_CONCURRENCY;
     public static final String PROP_CANONICAL_TIMESTAMP_URI = Crawl.PROP_CANONICAL_TIMESTAMP_URI;
+    public static final String PROP_GIT_PUBLISH = Crawl.PROP_GIT_PUBLISH;
+    public static final String PROP_GIT_WORK_DIR = Crawl.PROP_GIT_WORK_DIR;
+    public static final String PROP_GIT_PUSH_EVERY = Crawl.PROP_GIT_PUSH_EVERY;
+    public static final String PROP_COMMIT_EVERY = "jenesis.patch.commit.every";
 
     private static final int DEFAULT_CONCURRENCY = 64;
+    private static final int DEFAULT_COMMIT_EVERY = 100;
+    /**
+     * Per-module resume marker. An empty file placed inside a module directory once that
+     * module's patch has been committed. A re-run skips any module whose directory already
+     * contains this file: zero HEADs, zero regeneration. Committed alongside the catalogue
+     * updates so a workflow restart picks up exactly where the killed run left off. Swept
+     * away on clean completion of the run so the repo doesn't permanently carry one of
+     * these per module. Size: 0 bytes per marker; bounded total since git deduplicates the
+     * empty blob across every tree entry.
+     */
+    private static final String MARKER_FILE = ".timestampUpdate";
 
     private PatchTimestamp() {
     }
@@ -70,14 +86,39 @@ public final class PatchTimestamp {
             throw new IOException("No modules directory at " + modulesRoot);
         }
 
+        boolean gitPublish = property(PROP_GIT_PUBLISH).map(value -> Crawl.parseBoolean(value, PROP_GIT_PUBLISH)).orElse(false);
+        Path workingDirectory = property(PROP_GIT_WORK_DIR).map(Path::of).orElse(Path.of("."));
+        int pushEvery = property(PROP_GIT_PUSH_EVERY).map(Integer::parseInt).orElse(GitPublisher.DEFAULT_PUSH_EVERY);
+        int commitEvery = property(PROP_COMMIT_EVERY).map(Integer::parseInt).orElse(DEFAULT_COMMIT_EVERY);
+        if (commitEvery < 1) {
+            throw new IllegalArgumentException("commitEvery must be >= 1, got " + commitEvery);
+        }
+        GitPublisher publisher = null;
+        if (gitPublish) {
+            Path dataAbs = dataDir.toAbsolutePath();
+            Path workingAbs = workingDirectory.toAbsolutePath();
+            Path relativeData = workingAbs.relativize(dataAbs);
+            publisher = new GitPublisher(workingAbs, List.of(relativeData.toString()), pushEvery);
+        }
+
         System.out.println("[info] Configuration:");
         System.out.println("[info]   dataDir=" + dataDir.toAbsolutePath());
         System.out.println("[info]   artifactBase=" + artifactBase);
         System.out.println("[info]   canonicalTimestampBase=" + canonicalBase);
         System.out.println("[info]   concurrency=" + concurrency);
+        System.out.println("[info]   gitPublish=" + gitPublish
+                + (gitPublish ? " (commitEvery=" + commitEvery + " modules, pushEvery=" + pushEvery + " commits)" : ""));
 
         List<Path> moduleDirs = collectModuleDirs(modulesRoot);
+        long alreadyPatched = moduleDirs.stream()
+                .filter(dir -> Files.exists(dir.resolve(MARKER_FILE)))
+                .count();
         System.out.println("[info] Found " + moduleDirs.size() + " module directory/ies to patch.");
+        if (alreadyPatched > 0L) {
+            System.out.println("[info] Resuming: " + alreadyPatched
+                    + " module(s) carry a '" + MARKER_FILE
+                    + "' marker from a previous run and will be skipped.");
+        }
 
         long startMillis = System.currentTimeMillis();
         long totalRows = 0L;
@@ -94,6 +135,10 @@ public final class PatchTimestamp {
                 Path moduleDir = moduleDirs.get(i);
                 String moduleName = moduleNameFor(modulesRoot, moduleDir);
                 if (!ModuleStore.isValidModuleName(moduleName)) {
+                    continue;
+                }
+                Path marker = moduleDir.resolve(MARKER_FILE);
+                if (Files.exists(marker)) {
                     continue;
                 }
                 boolean dirChanged = false;
@@ -117,10 +162,13 @@ public final class PatchTimestamp {
                     store.regenerate(moduleName);
                     regeneratedModules++;
                 }
+                Files.writeString(marker, "", StandardCharsets.UTF_8);
 
-                if (((i + 1) % 200 == 0) || i == moduleDirs.size() - 1) {
+                int completed = i + 1;
+                boolean lastModule = i == moduleDirs.size() - 1;
+                if ((completed % 200 == 0) || lastModule) {
                     long elapsedSec = Math.max(1L, (System.currentTimeMillis() - startMillis) / 1000L);
-                    System.out.println("[patch] modules=" + (i + 1) + "/" + moduleDirs.size()
+                    System.out.println("[patch] modules=" + completed + "/" + moduleDirs.size()
                             + " rows=" + totalRows
                             + " updated=" + updatedRows
                             + " headFailures=" + headFailures
@@ -128,7 +176,23 @@ public final class PatchTimestamp {
                             + " regeneratedModules=" + regeneratedModules
                             + " elapsedSec=" + elapsedSec);
                 }
+                if (publisher != null && (completed % commitEvery == 0 || lastModule)) {
+                    publisher.checkpoint("patch: progress modules=" + completed + "/" + moduleDirs.size()
+                            + " updated=" + updatedRows
+                            + " touchedFiles=" + touchedFiles);
+                }
             }
+        }
+
+        long sweptMarkers = sweepMarkers(moduleDirs);
+        if (sweptMarkers > 0L) {
+            System.out.println("[patch] Swept " + sweptMarkers + " resume marker(s) on completion.");
+            if (publisher != null) {
+                publisher.checkpoint("patch: clear resume markers (" + sweptMarkers + ")");
+            }
+        }
+        if (publisher != null) {
+            publisher.flush();
         }
 
         long elapsedSec = Math.max(1L, (System.currentTimeMillis() - startMillis) / 1000L);
@@ -171,29 +235,43 @@ public final class PatchTimestamp {
     }
 
     private static ModuleEntry probe(Fetcher fetcher, URI uri, ModuleEntry entry, long[] counters) {
-        long head;
+        Fetcher.HeadProbe head;
         try {
-            head = fetcher.headLastModified(uri);
+            head = fetcher.headLastModifiedProbe(uri);
         } catch (Throwable error) {
+            logHeadFailure(uri, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
             synchronized (counters) {
                 counters[1]++;
             }
             return entry;
         }
-        if (head <= 0L) {
+        if (!head.ok()) {
+            logHeadFailure(uri, head.status(), head.error());
             synchronized (counters) {
                 counters[1]++;
             }
             return entry;
         }
-        if (head == entry.publishedAt()) {
+        long millis = head.lastModifiedMillis();
+        if (millis == entry.publishedAt()) {
             return entry;
         }
         synchronized (counters) {
             counters[0]++;
         }
         return new ModuleEntry(entry.mavenVersion(), entry.type(), entry.groupId(), entry.artifactId(),
-                head, entry.moduleVersion());
+                millis, entry.moduleVersion());
+    }
+
+    private static void logHeadFailure(URI uri, int status, String error) {
+        StringBuilder line = new StringBuilder("[patch] HEAD failure uri=").append(uri);
+        if (status > 0) {
+            line.append(" status=").append(status);
+        }
+        if (error != null && !error.isEmpty()) {
+            line.append(" error=\"").append(error).append('"');
+        }
+        System.err.println(line);
     }
 
     private static String mavenJarPath(ModuleEntry entry, String classifier) {
@@ -277,6 +355,17 @@ public final class PatchTimestamp {
             return null;
         }
         return stem.substring(ModuleStore.LEAF_FILE_BASE.length() + 1);
+    }
+
+    private static long sweepMarkers(List<Path> moduleDirs) throws IOException {
+        long swept = 0L;
+        for (Path moduleDir : moduleDirs) {
+            Path marker = moduleDir.resolve(MARKER_FILE);
+            if (Files.deleteIfExists(marker)) {
+                swept++;
+            }
+        }
+        return swept;
     }
 
     private static String moduleNameFor(Path modulesRoot, Path moduleDir) {

@@ -17,6 +17,14 @@ on:
         description: Concurrent HEAD fetches (default 64)
         required: false
         default: '64'
+      commit_every:
+        description: Modules between checkpoint commits (default 100)
+        required: false
+        default: '100'
+      push_every:
+        description: Checkpoint commits between pushes (default 5)
+        required: false
+        default: '5'
 
 permissions:
   contents: write
@@ -61,6 +69,8 @@ jobs:
           # original publication time. Same property as the crawler.
           CANONICAL_TIMESTAMP_BASE: ${{ vars.CANONICAL_TIMESTAMP_BASE || 'https://repo.maven.apache.org/maven2/' }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || '64' }}
+          PUSH_EVERY: ${{ github.event.inputs.push_every || vars.GIT_PUSH_EVERY || '5' }}
+          COMMIT_EVERY: ${{ github.event.inputs.commit_every || '100' }}
         run: |
           set -euo pipefail
           java -XX:+ExitOnOutOfMemoryError \
@@ -69,6 +79,10 @@ jobs:
                -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                -Djenesis.crawler.concurrency="$CONCURRENCY" \
                -Djenesis.crawler.canonical.timestamp.uri="$CANONICAL_TIMESTAMP_BASE" \
+               -Djenesis.crawler.git.publish=true \
+               -Djenesis.crawler.git.work.dir="$GITHUB_WORKSPACE" \
+               -Djenesis.crawler.git.push.every="$PUSH_EVERY" \
+               -Djenesis.patch.commit.every="$COMMIT_EVERY" \
                sources/build/jenesis/crawler/PatchTimestamp.java \
                "$ARTIFACT_BASE"
 
