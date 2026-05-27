@@ -336,7 +336,7 @@ public final class Fetcher implements AutoCloseable {
      * it that far); {@code error} is a short human-readable string when an exception was
      * raised (or {@code null} on a normal response, even a 4xx).
      */
-    public record HeadProbe(long lastModifiedMillis, int status, String error) {
+    public record HeadProbe(long lastModifiedMillis, boolean canonical, int status, String error) {
 
         public boolean ok() {
             return lastModifiedMillis > 0L;
@@ -353,7 +353,7 @@ public final class Fetcher implements AutoCloseable {
         try {
             connection = (HttpURLConnection) uri.toURL().openConnection();
         } catch (IOException unable) {
-            return new HeadProbe(0L, 0, unable.getClass().getSimpleName() + ": " + unable.getMessage());
+            return new HeadProbe(0L, false, 0, unable.getClass().getSimpleName() + ": " + unable.getMessage());
         }
         try {
             connection.setRequestMethod("HEAD");
@@ -363,12 +363,13 @@ public final class Fetcher implements AutoCloseable {
             connection.setRequestProperty("User-Agent", USER_AGENT);
             int status = connection.getResponseCode();
             if (status / 100 != 2) {
-                return new HeadProbe(0L, status, null);
+                return new HeadProbe(0L, false, status, null);
             }
-            long millis = preferredLastModified(connection).millis();
-            return new HeadProbe(millis, status, millis > 0L ? null : "no Last-Modified header");
+            LastModified stamp = preferredLastModified(connection);
+            return new HeadProbe(stamp.millis(), stamp.canonical(), status,
+                    stamp.millis() > 0L ? null : "no Last-Modified header");
         } catch (IOException error) {
-            return new HeadProbe(0L, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
+            return new HeadProbe(0L, false, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
         } finally {
             connection.disconnect();
         }
