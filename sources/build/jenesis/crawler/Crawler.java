@@ -443,7 +443,7 @@ public final class Crawler implements AutoCloseable {
                     System.out.println("[info] FULL chunk not complete; regenerating resolved views before exit ("
                             + dirtyModules.size() + " dirty module(s) tracked).");
                     if (chunkFirstPass) {
-                        regenerateMissingForFirstPass();
+                        regenerateAllForFirstPass();
                     }
                     drainDirty();
                 } else {
@@ -454,7 +454,7 @@ public final class Crawler implements AutoCloseable {
             }
 
             if (chunkFirstPass) {
-                regenerateMissingForFirstPass();
+                regenerateAllForFirstPass();
             }
 
             // After a FULL pass, the watermark needs to reflect where the FULL actually ends -
@@ -595,17 +595,18 @@ public final class Crawler implements AutoCloseable {
 
     /**
      * Regenerates resolved views ({@code artifacts.tsv} + {@code modules.tsv}) for every
-     * module under the store that doesn't already have an {@code artifacts.tsv}. Called
-     * once at first-pass completion (when dirty tracking was suppressed during the sweep),
-     * before the index baseline is updated. The existence of {@code artifacts.tsv} per
-     * directory acts as the progress marker: a mid-regeneration crash leaves the baseline
-     * unset, the next run re-enters the first-pass branch, the sweep re-runs quickly
-     * (scannedStore skips every already-scanned coordinate), and regeneration resumes from
-     * the directories still missing an {@code artifacts.tsv}.
+     * module under the store. Called at first-pass FULL exit (whether the chunk completed
+     * or budget-tripped early) because dirty tracking is suppressed during the sweep, so
+     * existing modules that gained {@code versions.tsv} rows would otherwise keep stale
+     * {@code artifacts.tsv}/{@code modules.tsv} until another full mechanism finally runs.
+     * Idempotent: a crash mid-walk leaves the baseline unset (so the next run re-enters
+     * the first-pass branch), the producer's scanned-store filter short-circuits the
+     * already-marked coordinates, and the walk re-produces the same outputs for the
+     * partially-regenerated modules.
      */
-    private void regenerateMissingForFirstPass() throws IOException {
-        System.out.println("[info] First pass complete: regenerating missing resolved-view files...");
-        long count = store.regenerateMissing();
+    private void regenerateAllForFirstPass() throws IOException {
+        System.out.println("[info] First pass: regenerating resolved-view files for every module...");
+        long count = store.regenerateAll();
         System.out.println("[info] First-pass regeneration complete: " + count + " module(s) written.");
     }
 

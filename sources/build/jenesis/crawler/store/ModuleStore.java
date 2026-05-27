@@ -147,13 +147,16 @@ public final class ModuleStore {
 
     /**
      * Walks the modules tree and regenerates {@code artifacts[-classifier].tsv} and
-     * {@code modules[-classifier].tsv} for every {@code versions[-classifier].tsv} file
-     * whose {@code artifacts.tsv} sibling is missing. The unit of progress is the module:
-     * a crash during the walk leaves the partially-finished module in a fully-recoverable
-     * state, since the next invocation skips modules whose {@code artifacts.tsv} already
-     * exists. Returns the number of times {@link #regenerate(String)} was invoked.
+     * {@code modules[-classifier].tsv} for every module that has a {@code versions.tsv}.
+     * Called at the end of a first-pass FULL crawl so existing modules whose audit log
+     * gained rows during the pass have their resolved views refreshed, not just the
+     * brand-new modules whose {@code artifacts.tsv} is missing. The unit of progress is
+     * the module: each {@code regenerate} writes atomically (temp-file + rename) and is
+     * idempotent, so a crash mid-walk just causes the next run to re-walk and the same
+     * outputs to be re-produced. Returns the number of {@link #regenerate(String)}
+     * invocations.
      */
-    public long regenerateMissing() throws IOException {
+    public long regenerateAll() throws IOException {
         if (!Files.isDirectory(root)) {
             return 0L;
         }
@@ -169,18 +172,6 @@ public final class ModuleStore {
                 }
                 String moduleName = pathToModuleName(dir);
                 if (!isValidModuleName(moduleName)) {
-                    continue;
-                }
-                boolean anyMissing = false;
-                for (ClassifierFile classifierFile : versionFiles) {
-                    String classifier = classifierFile.classifier();
-                    Path artifactsFile = dir.resolve(artifactsFileName(classifier));
-                    if (!Files.exists(artifactsFile)) {
-                        anyMissing = true;
-                        break;
-                    }
-                }
-                if (!anyMissing) {
                     continue;
                 }
                 regenerate(moduleName);
