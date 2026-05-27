@@ -743,7 +743,7 @@ public final class ModuleSummary {
             // Everything below operates on resolvedVersions only. Modules whose resolved view
             // is empty contribute nothing here: they're not currently authoritative for anything,
             // so their rows shouldn't show up in any "what's the catalogue look like" figure.
-            if (classifier == null) {
+            if (classifier == null && !resolvedVersions.isEmpty()) {
                 versionsCountByModule.put(moduleName, resolvedVersions.size());
             }
             Set<String> resolvedGroupsHere = new HashSet<>();
