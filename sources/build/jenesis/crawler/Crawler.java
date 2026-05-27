@@ -430,8 +430,26 @@ public final class Crawler implements AutoCloseable {
                     state = reloaded;
                     continue;
                 }
-                System.out.println("[info] Chunk not yet complete; deferring resolved-view regeneration ("
-                        + dirtyModules.size() + " module(s) pending).");
+                if (plan.mode() == SyncMode.FULL) {
+                    // A FULL chunk that didn't finish within budget would otherwise leave
+                    // the resolved views stale until a subsequent run finally streams the
+                    // whole 3 GB end-to-end. On a multi-day partial-FULL that means the
+                    // catalogue's artifacts.tsv / modules.tsv keep lagging versions.tsv
+                    // for every module we touched. Drain what we have so consumers see
+                    // resolved views consistent with the audit log; the chunk watermark
+                    // stays un-advanced so the next run re-streams the index, and the
+                    // scanned-store filter plus regenerate(moduleName)'s idempotence make
+                    // the partial publication safe.
+                    System.out.println("[info] FULL chunk not complete; regenerating resolved views before exit ("
+                            + dirtyModules.size() + " dirty module(s) tracked).");
+                    if (chunkFirstPass) {
+                        regenerateMissingForFirstPass();
+                    }
+                    drainDirty();
+                } else {
+                    System.out.println("[info] Chunk not yet complete; deferring resolved-view regeneration ("
+                            + dirtyModules.size() + " module(s) pending).");
+                }
                 return aggregator.finish(false);
             }
 
