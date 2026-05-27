@@ -5,13 +5,26 @@ import module java.base;
 /**
  * Row of {@code data/scanned/<groupId-path>/<artifactId>.tsv}.
  *
- * Three tab-separated columns: {@code version}, {@code classifier-or-empty},
- * {@code errorMessage-or-empty}. The {@code artifactId} that this row belongs to lives in the
- * file name; storing it again on every row would be redundant. The third column carries the
- * recorded failure text (sanitised so it stays on one line) when scanning the coordinate threw
- * a permanent error; an empty third column means the scan succeeded.
+ * <p>Four tab-separated columns: {@code version}, {@code classifier-or-empty},
+ * {@code publishedAt-iso-or-empty}, {@code errorMessage-or-empty}. The {@code artifactId} that
+ * this row belongs to lives in the file name; storing it again on every row would be redundant.
+ *
+ * <p>{@code publishedAt} carries the artifact's publish timestamp (epoch ms) as it was known
+ * to the scanner that recorded the row, formatted as ISO 8601 UTC seconds for readability.
+ * It's the third column so non-modular publications can be bucketed by publish month
+ * downstream, without having to cross-reference {@code versions.tsv}. Older rows produced
+ * before this column existed are missing it entirely (three-column format); {@link #parse}
+ * accepts both shapes and treats a missing or empty timestamp as zero.
+ *
+ * <p>The fourth column carries the recorded failure text (sanitised so it stays on one line)
+ * when scanning the coordinate threw a permanent error; an empty fourth column means the scan
+ * succeeded.
  */
-public record ScannedEntry(String version, String classifier, String errorMessage) {
+public record ScannedEntry(String version, String classifier, long publishedAt, String errorMessage) {
+
+    private static final DateTimeFormatter ISO_UTC_SECONDS = DateTimeFormatter
+            .ofPattern("yyyy-MM-dd'T'HH:mm:ss'Z'")
+            .withZone(ZoneOffset.UTC);
 
     public static final Comparator<ScannedEntry> COMPARATOR = Comparator
             .comparing(ScannedEntry::version)
@@ -26,17 +39,30 @@ public record ScannedEntry(String version, String classifier, String errorMessag
         if (classifier != null && classifier.isEmpty()) {
             throw new IllegalArgumentException("classifier must be null or non-empty");
         }
+        if (publishedAt < 0L) {
+            throw new IllegalArgumentException("publishedAt must be >= 0, got: " + publishedAt);
+        }
         if (errorMessage.indexOf('\t') >= 0 || errorMessage.indexOf('\n') >= 0 || errorMessage.indexOf('\r') >= 0) {
             throw new IllegalArgumentException("errorMessage must not contain tab or newline characters; call sanitize() first");
         }
     }
 
+    /** Convenience: probe-shaped entry whose timestamp is unknown (zero). */
     public static ScannedEntry ok(String version, String classifier) {
-        return new ScannedEntry(version, classifier, "");
+        return ok(version, classifier, 0L);
     }
 
+    public static ScannedEntry ok(String version, String classifier, long publishedAt) {
+        return new ScannedEntry(version, classifier, publishedAt, "");
+    }
+
+    /** Convenience: probe-shaped entry whose timestamp is unknown (zero). */
     public static ScannedEntry failed(String version, String classifier, String errorMessage) {
-        return new ScannedEntry(version, classifier, sanitize(errorMessage));
+        return failed(version, classifier, 0L, errorMessage);
+    }
+
+    public static ScannedEntry failed(String version, String classifier, long publishedAt, String errorMessage) {
+        return new ScannedEntry(version, classifier, publishedAt, sanitize(errorMessage));
     }
 
     public boolean isFailed() {
@@ -44,18 +70,38 @@ public record ScannedEntry(String version, String classifier, String errorMessag
     }
 
     public String format() {
-        return version + '\t' + (classifier == null ? "" : classifier) + '\t' + errorMessage;
+        return version + '\t'
+                + (classifier == null ? "" : classifier) + '\t'
+                + (publishedAt > 0L ? ISO_UTC_SECONDS.format(Instant.ofEpochMilli(publishedAt)) : "") + '\t'
+                + errorMessage;
     }
 
+    /**
+     * Parses a TSV line in either the current four-column shape
+     * ({@code version, classifier, publishedAt, errorMessage}) or the historical three-column
+     * shape ({@code version, classifier, errorMessage}). Three-column rows yield a
+     * {@code publishedAt} of {@code 0}.
+     */
     public static ScannedEntry parse(String line) {
         String[] parts = line.split("\t", -1);
-        if (parts.length != 3) {
-            throw new IllegalArgumentException("Expected 3 tab-separated fields in scanned entry: " + line);
+        if (parts.length == 3) {
+            return new ScannedEntry(
+                    parts[0],
+                    parts[1].isEmpty() ? null : parts[1],
+                    0L,
+                    parts[2]);
         }
-        return new ScannedEntry(
-                parts[0],
-                parts[1].isEmpty() ? null : parts[1],
-                parts[2]);
+        if (parts.length == 4) {
+            long publishedAt = parts[2].isEmpty()
+                    ? 0L
+                    : Instant.from(ISO_UTC_SECONDS.parse(parts[2])).toEpochMilli();
+            return new ScannedEntry(
+                    parts[0],
+                    parts[1].isEmpty() ? null : parts[1],
+                    publishedAt,
+                    parts[3]);
+        }
+        throw new IllegalArgumentException("Expected 3 or 4 tab-separated fields in scanned entry: " + line);
     }
 
     /** Replace tabs and newlines so the message fits on one TSV line. */

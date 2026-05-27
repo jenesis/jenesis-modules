@@ -28,9 +28,9 @@ public class ScannedStoreTest {
         assertThat(alpha).exists();
         assertThat(beta).exists();
         assertThat(Files.readAllLines(alpha, StandardCharsets.UTF_8))
-                .containsExactly("1.0\t\t", "1.1\t\t");
+                .containsExactly("1.0\t\t\t", "1.1\t\t\t");
         assertThat(Files.readAllLines(beta, StandardCharsets.UTF_8))
-                .containsExactly("2.0\tjakarta\t");
+                .containsExactly("2.0\tjakarta\t\t");
     }
 
     @Test
@@ -42,7 +42,7 @@ public class ScannedStoreTest {
 
         Path file = root.resolve("com").resolve("example").resolve("broken.tsv");
         assertThat(Files.readAllLines(file)).containsExactly(
-                "1.0\t\tIllegalArgumentException: Expected central file header signature at offset 0");
+                "1.0\t\t\tIllegalArgumentException: Expected central file header signature at offset 0");
     }
 
     @Test
@@ -52,7 +52,7 @@ public class ScannedStoreTest {
         store.flush();
 
         assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
-                .containsExactly("1.0\t\tfirst line second tab");
+                .containsExactly("1.0\t\t\tfirst line second tab");
     }
 
     @Test
@@ -97,7 +97,7 @@ public class ScannedStoreTest {
         store.flush();
 
         assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
-                .containsExactly("1.0\t\t");
+                .containsExactly("1.0\t\t\t");
         assertThat(new ScannedStore(root, true).contains(coordinate("g", "a", "1.0", null))).isTrue();
     }
 
@@ -127,7 +127,7 @@ public class ScannedStoreTest {
         store.flush();
 
         assertThat(Files.readAllLines(root.resolve("a").resolve("b.tsv")))
-                .containsExactly("1.0\t\t");
+                .containsExactly("1.0\t\t\t");
     }
 
     @Test
@@ -182,9 +182,53 @@ public class ScannedStoreTest {
         store.flush();
 
         // Every dirty mark survived to disk despite cap=1.
-        assertThat(Files.readAllLines(root.resolve("g").resolve("alpha.tsv"))).containsExactly("1.0\t\t");
-        assertThat(Files.readAllLines(root.resolve("g").resolve("beta.tsv"))).containsExactly("1.0\t\t");
-        assertThat(Files.readAllLines(root.resolve("g").resolve("gamma.tsv"))).containsExactly("1.0\t\t");
+        assertThat(Files.readAllLines(root.resolve("g").resolve("alpha.tsv"))).containsExactly("1.0\t\t\t");
+        assertThat(Files.readAllLines(root.resolve("g").resolve("beta.tsv"))).containsExactly("1.0\t\t\t");
+        assertThat(Files.readAllLines(root.resolve("g").resolve("gamma.tsv"))).containsExactly("1.0\t\t\t");
+    }
+
+    @Test
+    public void markOk_writes_coordinate_publishedAt_as_third_column() throws IOException {
+        // Real publishedAt should land on disk as an ISO 8601 UTC timestamp in column 3.
+        long publishedAt = 1700000000000L;  // 2023-11-14T22:13:20Z
+        ScannedStore store = new ScannedStore(root);
+        store.markOk(new Coordinate("g", "a", "1.0", null, "jar", 0L, publishedAt));
+        store.flush();
+
+        assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
+                .containsExactly("1.0\t\t2023-11-14T22:13:20Z\t");
+    }
+
+    @Test
+    public void parse_accepts_legacy_three_column_rows() throws IOException {
+        // Seed the file with the historical three-column shape (no publishedAt column at all).
+        Path file = root.resolve("g").resolve("legacy.tsv");
+        Files.createDirectories(file.getParent());
+        Files.writeString(file, "1.0\t\t\n2.0\t\told scan failure\n", StandardCharsets.UTF_8);
+
+        ScannedStore reader = new ScannedStore(root, true);
+        // Three-column rows are parsed with publishedAt=0 and remain queryable.
+        assertThat(reader.contains(new Coordinate("g", "legacy", "1.0", null, "jar", 0L, 0L))).isTrue();
+        // Failed row is treated as not-yet-seen when reprocessFailed=true.
+        assertThat(reader.contains(new Coordinate("g", "legacy", "2.0", null, "jar", 0L, 0L))).isFalse();
+    }
+
+    @Test
+    public void rewriting_a_legacy_file_upgrades_it_to_the_four_column_format() throws IOException {
+        // Seed legacy file, then mark a new coordinate so the whole file is rewritten.
+        Path file = root.resolve("g").resolve("upgrade.tsv");
+        Files.createDirectories(file.getParent());
+        Files.writeString(file, "1.0\t\t\n", StandardCharsets.UTF_8);
+
+        ScannedStore store = new ScannedStore(root);
+        store.markOk(new Coordinate("g", "upgrade", "2.0", null, "jar", 0L, 1700000000000L));
+        store.flush();
+
+        // The legacy 1.0 row keeps its empty publishedAt slot; the new 2.0 row carries the
+        // timestamp. Whole file is now in four-column format.
+        assertThat(Files.readAllLines(file)).containsExactly(
+                "1.0\t\t\t",
+                "2.0\t\t2023-11-14T22:13:20Z\t");
     }
 
     private static Coordinate coordinate(String groupId, String artifactId, String version, String classifier) {

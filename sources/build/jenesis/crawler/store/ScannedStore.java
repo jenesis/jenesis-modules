@@ -124,7 +124,7 @@ public final class ScannedStore {
 
     /** Records that a coordinate was scanned successfully. */
     public void markOk(Coordinate coordinate) {
-        replaceEntry(coordinate, ScannedEntry.ok(coordinate.version(), coordinate.classifier()));
+        replaceEntry(coordinate, ScannedEntry.ok(coordinate.version(), coordinate.classifier(), coordinate.lastModified()));
     }
 
     /**
@@ -134,7 +134,7 @@ public final class ScannedStore {
      * reprocess-failed flag is set.
      */
     public void markFailed(Coordinate coordinate, String errorMessage) {
-        replaceEntry(coordinate, ScannedEntry.failed(coordinate.version(), coordinate.classifier(), errorMessage));
+        replaceEntry(coordinate, ScannedEntry.failed(coordinate.version(), coordinate.classifier(), coordinate.lastModified(), errorMessage));
     }
 
     private void replaceEntry(Coordinate coordinate, ScannedEntry newEntry) {
