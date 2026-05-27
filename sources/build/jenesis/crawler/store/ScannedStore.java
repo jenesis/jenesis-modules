@@ -9,17 +9,30 @@ import build.jenesis.crawler.model.ScannedEntry;
  * permanent failure) so the producer's filter can skip it on subsequent runs.
  *
  * Files are laid out one per artifact: {@code data/scanned/<groupId-path>/<artifactId>.tsv}.
- * The earlier per-group {@code scanned.tsv} layout collapsed the whole group into a single
- * file, which on prolific groups (notably {@code software.amazon.awssdk} - 470 K coordinates
- * across 445 artifacts) meant that any single {@link #contains}/{@link #markOk} call had to
- * pull a 175 MB {@code NavigableSet} into the heap, repeatedly, every time the producer or
- * a worker thread touched the group. {@link #load} on the per-artifact layout reads a few
- * thousand rows at worst (the biggest individual artifact, {@code bundle-sdk}, has ~2000
- * versions = ~30 KB on disk, ~750 KB resident).
+ *
+ * <p><b>Cache shape.</b> The producer streams ~90 M Maven Central index records per crawl
+ * and calls {@link #contains} for every coordinate that passes {@code isInteresting}. The
+ * cache below is a bounded LRU keyed by {@code (groupId, artifactId)}. The Maven Central
+ * index has locality: a release batch publishes many artifacts of the same group together,
+ * and adjacent index chunks publish adjacent versions of the same artifact, so a cache of
+ * a few thousand slots covers the producer's working set without thrashing. Without
+ * eviction (the earlier shape), the map grew to ~600 K entries holding ~16 M
+ * {@link ScannedEntry}s and ~2 GB of skip-list overhead, which combined with String content
+ * pushed the long-tail of a full sweep over the 4 GB heap cap on GitHub Actions. Eviction
+ * is gated on the {@link #dirty} set: an entry with unflushed marks is never evicted, so
+ * the in-memory state always survives until {@link #flush} writes it to disk.
  */
 public final class ScannedStore {
 
     public static final String LEAF_FILE_EXTENSION = ".tsv";
+    public static final String PROP_CACHE_SIZE = "jenesis.crawler.scanned.cache.size";
+    /**
+     * Default cache capacity: tuned to comfortably cover the largest plausible release-batch
+     * width plus enough headroom that scanner-thread interleaving doesn't immediately evict
+     * an artifact the producer is still iterating. At ~30 entries average size, the cache
+     * costs a few MB resident, far below the per-run heap budget.
+     */
+    public static final int DEFAULT_CACHE_SIZE = 4096;
 
     public record CacheKey(String groupId, String artifactId) {
         public CacheKey {
@@ -31,25 +44,62 @@ public final class ScannedStore {
         }
     }
 
+    private record CacheEntry(NavigableSet<ScannedEntry> set, AtomicLong lastAccess) {
+        static CacheEntry create(NavigableSet<ScannedEntry> set, long tick) {
+            return new CacheEntry(set, new AtomicLong(tick));
+        }
+    }
+
     private final Path root;
     private final boolean reprocessFailed;
-    // Cache of (group, artifact) -> entries loaded from disk on first touch. The cache grows
-    // monotonically over a run. With per-artifact files the natural ceiling is small:
-    // ~50 bytes/entry * total touched coordinates. For a full Maven Central sweep this is at
-    // most a few hundred MB - well under any sane heap. Eviction is therefore unnecessary;
-    // the earlier eviction logic caused load/evict/reload churn that drove OOMs and is gone.
-    private final ConcurrentMap<CacheKey, NavigableSet<ScannedEntry>> entries;
+    private final int cacheSize;
+    /**
+     * Soft cap: when {@link #entries} grows beyond this watermark, {@link #evict} runs and
+     * brings it back down to {@link #cacheSize}. Picking the trigger a bit above the target
+     * amortises the eviction sort cost across many puts.
+     */
+    private final int evictionTrigger;
+    private final ConcurrentMap<CacheKey, CacheEntry> entries;
     private final Set<CacheKey> dirty;
+    private final AtomicLong tick;
+    private final Object evictionLock = new Object();
 
     public ScannedStore(Path root) {
         this(root, false);
     }
 
     public ScannedStore(Path root, boolean reprocessFailed) {
+        this(root, reprocessFailed, parseCacheSize());
+    }
+
+    public ScannedStore(Path root, boolean reprocessFailed, int cacheSize) {
+        if (cacheSize < 1) {
+            throw new IllegalArgumentException("cacheSize must be >= 1, got " + cacheSize);
+        }
         this.root = Objects.requireNonNull(root, "root");
         this.reprocessFailed = reprocessFailed;
+        this.cacheSize = cacheSize;
+        this.evictionTrigger = cacheSize + Math.max(64, cacheSize / 4);
         this.entries = new ConcurrentHashMap<>();
         this.dirty = ConcurrentHashMap.newKeySet();
+        this.tick = new AtomicLong();
+    }
+
+    private static int parseCacheSize() {
+        String raw = System.getProperty(PROP_CACHE_SIZE);
+        if (raw == null || raw.isBlank()) {
+            return DEFAULT_CACHE_SIZE;
+        }
+        try {
+            int parsed = Integer.parseInt(raw.trim());
+            if (parsed < 1) {
+                throw new NumberFormatException();
+            }
+            return parsed;
+        } catch (NumberFormatException invalid) {
+            throw new IllegalArgumentException(
+                    "Expected a positive integer for " + PROP_CACHE_SIZE + ", got: " + raw);
+        }
     }
 
     public boolean contains(Coordinate coordinate) {
@@ -135,7 +185,39 @@ public final class ScannedStore {
     }
 
     private NavigableSet<ScannedEntry> entriesFor(CacheKey key) {
-        return entries.computeIfAbsent(key, this::load);
+        CacheEntry entry = entries.computeIfAbsent(key,
+                k -> CacheEntry.create(load(k), tick.incrementAndGet()));
+        entry.lastAccess().set(tick.incrementAndGet());
+        if (entries.size() > evictionTrigger) {
+            evict();
+        }
+        return entry.set();
+    }
+
+    /**
+     * Trim the cache back to {@link #cacheSize} by removing the least-recently-accessed
+     * clean entries. Dirty entries (those with unflushed {@code markOk}/{@code markFailed})
+     * are skipped so {@link #flush} always finds their in-memory state. The lock serialises
+     * evictions so concurrent triggers don't all sort + scan simultaneously; threads that
+     * lose the race fall through to the early-out on the next iteration.
+     */
+    private void evict() {
+        synchronized (evictionLock) {
+            if (entries.size() <= cacheSize) {
+                return;
+            }
+            List<Map.Entry<CacheKey, CacheEntry>> snapshot = new ArrayList<>(entries.entrySet());
+            snapshot.sort(Comparator.comparingLong(e -> e.getValue().lastAccess().get()));
+            for (Map.Entry<CacheKey, CacheEntry> e : snapshot) {
+                if (entries.size() <= cacheSize) {
+                    return;
+                }
+                if (dirty.contains(e.getKey())) {
+                    continue;
+                }
+                entries.remove(e.getKey(), e.getValue());
+            }
+        }
     }
 
     private NavigableSet<ScannedEntry> load(CacheKey key) {
@@ -158,10 +240,11 @@ public final class ScannedStore {
         if (parent != null) {
             Files.createDirectories(parent);
         }
-        NavigableSet<ScannedEntry> artifactEntries = entries.get(key);
-        if (artifactEntries == null) {
+        CacheEntry cacheEntry = entries.get(key);
+        if (cacheEntry == null) {
             return;
         }
+        NavigableSet<ScannedEntry> artifactEntries = cacheEntry.set();
         Path temp = file.resolveSibling(file.getFileName() + ".tmp");
         try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
             synchronized (artifactEntries) {
