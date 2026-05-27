@@ -246,10 +246,17 @@ public final class PatchScanTimestamp {
         }
         long rowsPatched = 0L;
         long headFailures = 0L;
-        boolean changed = false;
         for (int i = 0; i < entries.size(); i++) {
             ScannedEntry existing = entries.get(i);
             if (existing.publishedAt() > 0L) {
+                continue;
+            }
+            if (existing.isFailed()) {
+                // Failed scans are permanent: the artifact 404'd (or its JAR was malformed)
+                // when we first looked. Issuing a HEAD now would just 404 again. Leave the
+                // publishedAt slot empty so the rewrite below promotes the row from the
+                // three-column legacy shape to the four-column shape with an empty timestamp,
+                // matching the column count of patched rows for easier downstream parsing.
                 continue;
             }
             long stamp = fetchTimestamp(fetcher, artifactBase, canonicalSource,
@@ -261,11 +268,11 @@ public final class PatchScanTimestamp {
             ScannedEntry patched = new ScannedEntry(existing.version(), existing.classifier(), stamp, existing.errorMessage());
             entries.set(i, patched);
             rowsPatched++;
-            changed = true;
         }
-        if (!changed) {
-            return new FileResult(0L, headFailures);
-        }
+        // Always rewrite the file: the pre-filter established the file has legacy
+        // three-column rows, so even with zero HEAD-derived patches the rewrite upgrades
+        // every row to the four-column shape (with empty publishedAt slots where we
+        // couldn't or didn't try to fetch).
         try {
             writeAtomic(patch.file(), entries);
         } catch (IOException writeFailure) {
@@ -278,12 +285,18 @@ public final class PatchScanTimestamp {
     private static long fetchTimestamp(Fetcher fetcher, URI artifactBase, URI canonicalSource,
                                        String groupId, String artifactId, String version, String classifier) {
         String relative = mavenJarPath(groupId, artifactId, version, classifier);
+        // Mirror-first, canonical-fallback: same shape as the crawler's upgradeTimestamp.
+        // The mirror's x-goog-meta-last-modified is canonical for post-2019 uploads (one
+        // round trip, fast path), and a non-canonical mirror response (typically pre-2019
+        // GCS bulk imports) is upgraded by a follow-up HEAD against the canonical source.
+        // When the mirror 404s but the canonical source still has the artifact, we still
+        // try the canonical HEAD before giving up.
         URI primaryUri = artifactBase.resolve(relative);
         Fetcher.HeadProbe primary = fetcher.headLastModifiedProbe(primaryUri);
         if (primary.ok() && primary.canonical()) {
             return primary.lastModifiedMillis();
         }
-        if (!canonicalSource.equals(artifactBase)) {
+        if (canonicalSource != null && !canonicalSource.equals(artifactBase)) {
             Fetcher.HeadProbe canonical = fetcher.headLastModifiedProbe(canonicalSource.resolve(relative));
             if (canonical.ok()) {
                 return canonical.lastModifiedMillis();

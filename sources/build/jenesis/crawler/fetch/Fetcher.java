@@ -349,30 +349,47 @@ public final class Fetcher implements AutoCloseable {
      * HTTP failures are encoded in the returned {@link HeadProbe}.
      */
     public HeadProbe headLastModifiedProbe(URI uri) {
-        HttpURLConnection connection;
+        HttpRequest request = builder(uri)
+                .method("HEAD", HttpRequest.BodyPublishers.noBody())
+                .build();
         try {
-            connection = (HttpURLConnection) uri.toURL().openConnection();
-        } catch (IOException unable) {
-            return new HeadProbe(0L, false, 0, unable.getClass().getSimpleName() + ": " + unable.getMessage());
-        }
-        try {
-            connection.setRequestMethod("HEAD");
-            connection.setConnectTimeout((int) CONNECT_TIMEOUT.toMillis());
-            connection.setReadTimeout((int) timeout.toMillis());
-            connection.setInstanceFollowRedirects(true);
-            connection.setRequestProperty("User-Agent", USER_AGENT);
-            int status = connection.getResponseCode();
+            HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
+            int status = response.statusCode();
             if (status / 100 != 2) {
                 return new HeadProbe(0L, false, status, null);
             }
-            LastModified stamp = preferredLastModified(connection);
+            LastModified stamp = preferredLastModifiedFromHeaders(response.headers());
             return new HeadProbe(stamp.millis(), stamp.canonical(), status,
                     stamp.millis() > 0L ? null : "no Last-Modified header");
         } catch (IOException error) {
             return new HeadProbe(0L, false, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
-        } finally {
-            connection.disconnect();
         }
+    }
+
+    /**
+     * HttpClient-side equivalent of {@link #preferredLastModified(HttpURLConnection)}.
+     * Reuses the same goog-meta-vs-Last-Modified preference so the canonical-flag semantics
+     * match across the two HEAD/GET paths.
+     */
+    private static LastModified preferredLastModifiedFromHeaders(HttpHeaders headers) {
+        Optional<String> googMeta = headers.firstValue("x-goog-meta-last-modified");
+        if (googMeta.isPresent()) {
+            long parsed = parseHttpDate(googMeta.get());
+            if (parsed > 0L) {
+                return new LastModified(parsed, true);
+            }
+        }
+        Optional<String> standard = headers.firstValue("last-modified");
+        if (standard.isEmpty()) {
+            return LastModified.NONE;
+        }
+        long parsedStandard = parseHttpDate(standard.get());
+        if (parsedStandard <= 0L) {
+            return LastModified.NONE;
+        }
+        boolean fromGcs = headers.map().keySet().stream()
+                .anyMatch(name -> name.regionMatches(true, 0, "x-goog-", 0, 7));
+        return new LastModified(parsedStandard, !fromGcs);
     }
 
     /**
