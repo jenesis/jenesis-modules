@@ -296,6 +296,43 @@ public class ModuleSummaryTest {
         assertThat(stats.totals().namedVersionRows()).isEqualTo(4L);
     }
 
+    @Test
+    public void monthly_and_recent_non_modular_is_scanned_minus_modular() throws IOException {
+        Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
+        // Two modular publications in 2026-05 (one named, one automatic).
+        Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
+                "1.0\tnamed\tcom.example\tlib\t2026-05-20T00:00:00Z\t1.0",
+                "0.9\tautomatic\tcom.example\tlib\t2026-05-21T00:00:00Z\t"
+        ) + "\n", StandardCharsets.UTF_8);
+        writeArtifactsMirror(moduleDir,
+                "1.0\tnamed\tcom.example\tlib",
+                "0.9\tautomatic\tcom.example\tlib");
+        // scanned.tsv: 5 successful rows in 2026-05 (the 2 modular + 3 non-modular) plus 1 failure
+        // that must not count. The failure and the modular rows are subtracted out, leaving 3.
+        Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("com.example"));
+        Files.writeString(scannedDir.resolve("lib.tsv"), String.join("\n",
+                "1.0\t\t2026-05-20T00:00:00Z\t",
+                "0.9\t\t2026-05-21T00:00:00Z\t",
+                "0.8\t\t2026-05-22T00:00:00Z\t",
+                "0.7\t\t2026-05-23T00:00:00Z\t",
+                "0.6\t\t2026-05-24T00:00:00Z\t",
+                "0.5\t\t2026-05-19T00:00:00Z\tIOException: boom"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        // Generated 2026-05-25: the whole 2026-05 activity is inside the 7-day recent window.
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-05-25T00:00:00Z"), 25);
+
+        ModuleSummary.MonthlyPublication may = stats.monthlyPublications().stream()
+                .filter(m -> m.month().equals(YearMonth.of(2026, 5)))
+                .findFirst().orElseThrow();
+        assertThat(may.named()).isEqualTo(1L);
+        assertThat(may.automatic()).isEqualTo(1L);
+        // 5 successful scanned rows minus 2 modular versions rows = 3 non-modular.
+        assertThat(may.nonModular()).isEqualTo(3L);
+        // Same subtraction over the 7-day window.
+        assertThat(stats.recent().nonModularArtifacts()).isEqualTo(3L);
+    }
+
     private void writeVersions(String moduleName, int count) throws IOException {
         Path dir = dataDir.resolve("modules");
         for (String segment : moduleName.split("\\.")) {
