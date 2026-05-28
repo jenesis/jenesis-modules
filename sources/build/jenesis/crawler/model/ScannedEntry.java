@@ -12,9 +12,9 @@ import module java.base;
  * <p>{@code publishedAt} carries the artifact's publish timestamp (epoch ms) as it was known
  * to the scanner that recorded the row, formatted as ISO 8601 UTC seconds for readability.
  * It's the third column so non-modular publications can be bucketed by publish month
- * downstream, without having to cross-reference {@code versions.tsv}. Older rows produced
- * before this column existed are missing it entirely (three-column format); {@link #parse}
- * accepts both shapes and treats a missing or empty timestamp as zero.
+ * downstream, without having to cross-reference {@code versions.tsv}. An empty timestamp slot
+ * parses as zero (used for rows whose publish time could not be resolved, e.g. permanent
+ * failures).
  *
  * <p>The fourth column carries the recorded failure text (sanitised so it stays on one line)
  * when scanning the coordinate threw a permanent error; an empty fourth column means the scan
@@ -77,31 +77,23 @@ public record ScannedEntry(String version, String classifier, long publishedAt, 
     }
 
     /**
-     * Parses a TSV line in either the current four-column shape
-     * ({@code version, classifier, publishedAt, errorMessage}) or the historical three-column
-     * shape ({@code version, classifier, errorMessage}). Three-column rows yield a
-     * {@code publishedAt} of {@code 0}.
+     * Parses a TSV line in the four-column shape
+     * ({@code version, classifier, publishedAt, errorMessage}). An empty {@code publishedAt}
+     * column yields {@code 0}.
      */
     public static ScannedEntry parse(String line) {
         String[] parts = line.split("\t", -1);
-        if (parts.length == 3) {
-            return new ScannedEntry(
-                    parts[0],
-                    parts[1].isEmpty() ? null : parts[1],
-                    0L,
-                    parts[2]);
+        if (parts.length != 4) {
+            throw new IllegalArgumentException("Expected 4 tab-separated fields in scanned entry: " + line);
         }
-        if (parts.length == 4) {
-            long publishedAt = parts[2].isEmpty()
-                    ? 0L
-                    : Instant.from(ISO_UTC_SECONDS.parse(parts[2])).toEpochMilli();
-            return new ScannedEntry(
-                    parts[0],
-                    parts[1].isEmpty() ? null : parts[1],
-                    publishedAt,
-                    parts[3]);
-        }
-        throw new IllegalArgumentException("Expected 3 or 4 tab-separated fields in scanned entry: " + line);
+        long publishedAt = parts[2].isEmpty()
+                ? 0L
+                : Instant.from(ISO_UTC_SECONDS.parse(parts[2])).toEpochMilli();
+        return new ScannedEntry(
+                parts[0],
+                parts[1].isEmpty() ? null : parts[1],
+                publishedAt,
+                parts[3]);
     }
 
     /** Replace tabs and newlines so the message fits on one TSV line. */

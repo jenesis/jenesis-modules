@@ -216,11 +216,11 @@ public class ModuleSummaryTest {
         //   scannedArtifacts = 4 (5 rows minus the 1 failure), nonModuleArtifacts = 4 - 2 = 2.
         Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("com.example"));
         Files.writeString(scannedDir.resolve("lib.tsv"), String.join("\n",
-                "1.0\t\t",
-                "0.9\t\t",
-                "0.8\t\t",
-                "0.7\tsources\t",
-                "0.6\t\tIOException: boom"
+                "1.0\t\t\t",
+                "0.9\t\t\t",
+                "0.8\t\t\t",
+                "0.7\tsources\t\t",
+                "0.6\t\t\tIOException: boom"
         ) + "\n", StandardCharsets.UTF_8);
 
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2024-04-01T00:00:00Z"), 25);

@@ -8,6 +8,7 @@ import module org.junit.jupiter.api;
 
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 public class ScannedStoreTest {
 
@@ -142,6 +143,13 @@ public class ScannedStoreTest {
     }
 
     @Test
+    public void parse_rejects_legacy_three_column_rows() {
+        assertThatThrownBy(() -> ScannedEntry.parse("1.0\t\t"))
+                .isInstanceOf(IllegalArgumentException.class)
+                .hasMessageContaining("Expected 4 tab-separated fields");
+    }
+
+    @Test
     public void lru_cache_evicts_oldest_clean_entry_when_over_cap() throws IOException {
         // Seed three artifacts on disk so the second store can lazy-load them.
         ScannedStore writer = new ScannedStore(root);
@@ -197,38 +205,6 @@ public class ScannedStoreTest {
 
         assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv")))
                 .containsExactly("1.0\t\t2023-11-14T22:13:20Z\t");
-    }
-
-    @Test
-    public void parse_accepts_legacy_three_column_rows() throws IOException {
-        // Seed the file with the historical three-column shape (no publishedAt column at all).
-        Path file = root.resolve("g").resolve("legacy.tsv");
-        Files.createDirectories(file.getParent());
-        Files.writeString(file, "1.0\t\t\n2.0\t\told scan failure\n", StandardCharsets.UTF_8);
-
-        ScannedStore reader = new ScannedStore(root, true);
-        // Three-column rows are parsed with publishedAt=0 and remain queryable.
-        assertThat(reader.contains(new Coordinate("g", "legacy", "1.0", null, "jar", 0L, 0L))).isTrue();
-        // Failed row is treated as not-yet-seen when reprocessFailed=true.
-        assertThat(reader.contains(new Coordinate("g", "legacy", "2.0", null, "jar", 0L, 0L))).isFalse();
-    }
-
-    @Test
-    public void rewriting_a_legacy_file_upgrades_it_to_the_four_column_format() throws IOException {
-        // Seed legacy file, then mark a new coordinate so the whole file is rewritten.
-        Path file = root.resolve("g").resolve("upgrade.tsv");
-        Files.createDirectories(file.getParent());
-        Files.writeString(file, "1.0\t\t\n", StandardCharsets.UTF_8);
-
-        ScannedStore store = new ScannedStore(root);
-        store.markOk(new Coordinate("g", "upgrade", "2.0", null, "jar", 0L, 1700000000000L));
-        store.flush();
-
-        // The legacy 1.0 row keeps its empty publishedAt slot; the new 2.0 row carries the
-        // timestamp. Whole file is now in four-column format.
-        assertThat(Files.readAllLines(file)).containsExactly(
-                "1.0\t\t\t",
-                "2.0\t\t2023-11-14T22:13:20Z\t");
     }
 
     private static Coordinate coordinate(String groupId, String artifactId, String version, String classifier) {

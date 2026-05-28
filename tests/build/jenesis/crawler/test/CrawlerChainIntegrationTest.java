@@ -148,12 +148,10 @@ public class CrawlerChainIntegrationTest {
         String body = Files.readString(scannedFile, StandardCharsets.UTF_8);
         boolean found = body.lines().anyMatch(line -> {
             String[] parts = line.split("\t", -1);
-            // Accept both the historical three-column shape and the current four-column
-            // shape (version, classifier, publishedAt, errorMessage). The error column is
-            // always the trailing one.
-            return (parts.length == 3 || parts.length == 4)
+            // Four-column shape: version, classifier, publishedAt, errorMessage.
+            return parts.length == 4
                     && parts[0].equals(version)
-                    && !parts[parts.length - 1].isEmpty();
+                    && !parts[3].isEmpty();
         });
         assertThat(found).as(artifactId + ".tsv contains a non-empty error column for version "
                 + version + " (body=" + body + ")").isTrue();

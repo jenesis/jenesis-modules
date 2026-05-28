@@ -336,7 +336,7 @@ public final class Fetcher implements AutoCloseable {
      * it that far); {@code error} is a short human-readable string when an exception was
      * raised (or {@code null} on a normal response, even a 4xx).
      */
-    public record HeadProbe(long lastModifiedMillis, boolean canonical, int status, String error) {
+    public record HeadProbe(long lastModifiedMillis, int status, String error) {
 
         public boolean ok() {
             return lastModifiedMillis > 0L;
@@ -344,9 +344,9 @@ public final class Fetcher implements AutoCloseable {
     }
 
     /**
-     * One-shot HEAD against {@code uri}. Returns the canonical publication timestamp along
-     * with the HTTP status and any error string for diagnostics. Never throws: network or
-     * HTTP failures are encoded in the returned {@link HeadProbe}.
+     * One-shot HEAD against {@code uri}. Returns the publication timestamp along with the HTTP
+     * status and any error string for diagnostics. Never throws: network or HTTP failures are
+     * encoded in the returned {@link HeadProbe}.
      */
     public HeadProbe headLastModifiedProbe(URI uri) {
         HttpRequest request = builder(uri)
@@ -356,20 +356,18 @@ public final class Fetcher implements AutoCloseable {
             HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
             int status = response.statusCode();
             if (status / 100 != 2) {
-                return new HeadProbe(0L, false, status, null);
+                return new HeadProbe(0L, status, null);
             }
-            LastModified stamp = preferredLastModifiedFromHeaders(response.headers());
-            return new HeadProbe(stamp.millis(), stamp.canonical(), status,
-                    stamp.millis() > 0L ? null : "no Last-Modified header");
+            long millis = preferredLastModifiedFromHeaders(response.headers()).millis();
+            return new HeadProbe(millis, status, millis > 0L ? null : "no Last-Modified header");
         } catch (IOException error) {
-            return new HeadProbe(0L, false, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
+            return new HeadProbe(0L, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
         }
     }
 
     /**
      * HttpClient-side equivalent of {@link #preferredLastModified(HttpURLConnection)}.
-     * Reuses the same goog-meta-vs-Last-Modified preference so the canonical-flag semantics
-     * match across the two HEAD/GET paths.
+     * Reuses the same goog-meta-vs-Last-Modified preference for parity across the HEAD/GET paths.
      */
     private static LastModified preferredLastModifiedFromHeaders(HttpHeaders headers) {
         Optional<String> googMeta = headers.firstValue("x-goog-meta-last-modified");
