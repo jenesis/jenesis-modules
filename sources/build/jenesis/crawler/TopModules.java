@@ -48,6 +48,7 @@ import build.jenesis.crawler.store.ModuleStore;
 public final class TopModules {
 
     public static final String PROP_DATA = "jenesis.crawler.data";
+    public static final String PROP_BLEEDING = "jenesis.crawler.top.bleeding";
     private static final String DEFAULT_DATA_DIR = "data";
     private static final String VERSIONS_FILE = ModuleStore.LEAF_FILE_BASE + ModuleStore.LEAF_FILE_EXTENSION;
 
@@ -181,23 +182,61 @@ public final class TopModules {
 
         Map<Artifact, List<Hit>> index = indexModules(modulesRoot, allTargets);
 
+        if (booleanProperty(PROP_BLEEDING)) {
+            // Bleeding edge: take the most recent list we have, but don't crop the data to that
+            // year - assess those artifacts against the current state (cutoff = now), so the table
+            // reflects their latest versions and recent activity rather than a frozen year end.
+            Path latestFile = topFiles.stream().max(Comparator.comparingInt(years::get)).orElseThrow();
+            int listYear = years.get(latestFile);
+            Instant now = Instant.now();
+            int windowYear = now.atZone(ZoneOffset.UTC).getYear();
+            long yearStart = LocalDate.of(windowYear, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
+            long threeYearStart = LocalDate.of(windowYear - 2, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
+            long cutoff = now.toEpochMilli();
+            String asOf = ISO_DATE.format(now);
+            List<Row> rows = buildRows(targetsByFile.get(latestFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
+            Path output = latestFile.resolveSibling("bleeding.md");
+            Files.writeString(output, render(windowYear, "bleeding edge", asOf, true, listYear, rows), StandardCharsets.UTF_8);
+            long withModule = rows.stream().filter(Row::modular).count();
+            System.err.println("[top-modules] " + output + " (bleeding edge from " + listYear + " list, "
+                    + rows.size() + " artifacts, " + withModule + " modular as of " + asOf + ")");
+            return;
+        }
+
         for (Path topFile : topFiles) {
             int year = years.get(topFile);
             long yearStart = LocalDate.of(year, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             long threeYearStart = LocalDate.of(year - 2, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             long cutoff = LocalDate.of(year + 1, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
-            List<Artifact> targets = targetsByFile.get(topFile);
-            List<Row> rows = new ArrayList<>(targets.size());
-            for (int rank = 0; rank < targets.size(); rank++) {
-                Artifact target = targets.get(rank);
-                rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()), yearStart, threeYearStart, cutoff, scannedRoot));
-            }
+            List<Row> rows = buildRows(targetsByFile.get(topFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
             Path output = topFile.resolveSibling(stem(topFile) + ".md");
-            Files.writeString(output, render(year, rows), StandardCharsets.UTF_8);
+            Files.writeString(output, render(year, Integer.toString(year), year + "-12-31", false, year, rows), StandardCharsets.UTF_8);
             long withModule = rows.stream().filter(Row::modular).count();
             System.err.println("[top-modules] " + output + " (" + rows.size() + " artifacts, "
                     + withModule + " with a module by " + year + ")");
         }
+    }
+
+    private static List<Row> buildRows(List<Artifact> targets, Map<Artifact, List<Hit>> index,
+                                       long yearStart, long threeYearStart, long cutoff, Path scannedRoot) throws IOException {
+        List<Row> rows = new ArrayList<>(targets.size());
+        for (int rank = 0; rank < targets.size(); rank++) {
+            Artifact target = targets.get(rank);
+            rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()), yearStart, threeYearStart, cutoff, scannedRoot));
+        }
+        return rows;
+    }
+
+    private static boolean booleanProperty(String name) {
+        String value = System.getProperty(name);
+        if (value == null || value.isBlank()) {
+            return false;
+        }
+        return switch (value.trim().toLowerCase(Locale.ROOT)) {
+            case "true", "1", "yes" -> true;
+            case "false", "0", "no" -> false;
+            default -> throw new IllegalArgumentException("Expected true/false for " + name + ", got: " + value);
+        };
     }
 
     private static List<Artifact> readTargets(Path topFile) throws IOException {
@@ -458,7 +497,7 @@ public final class TopModules {
         return dot < 0 ? name : name.substring(0, dot);
     }
 
-    private static String render(int year, List<Row> rows) {
+    private static String render(int year, String titleLabel, String asOf, boolean bleeding, int listYear, List<Row> rows) {
         int total = rows.size();
         long mavenRows = rows.stream().filter(Row::mavenRelated).count();
         long pomRows = rows.stream().filter(row -> row.pomAggregator() && !row.mavenRelated()).count();
@@ -471,7 +510,12 @@ public final class TopModules {
         GroupStats maintainedGroups = groupStats(rows.stream().filter(row -> !row.excluded() && row.maintained()).toList());
 
         StringBuilder builder = new StringBuilder();
-        builder.append("# Maven Central most downloaded artifacts vs. modules (").append(year).append(")\n\n");
+        builder.append("# Maven Central most downloaded artifacts vs. modules (").append(titleLabel).append(")\n\n");
+        if (bleeding) {
+            builder.append("_Bleeding edge: the ").append(listYear)
+                    .append(" top-artifact list assessed against current data, as of ").append(asOf)
+                    .append("; nothing is cropped to a year end._\n\n");
+        }
 
         builder.append("**By artifact**\n\n");
         builder.append("| Category | All listed | Libraries | Maintained |\n");
@@ -508,14 +552,14 @@ public final class TopModules {
                 .append(totalLibraries).append(". \"Maintained\" further drops library artifacts with no release during ")
                 .append(year).append(" (the ").append(DORMANT_EMOJI).append(" / ").append(STALE_EMOJI)
                 .append(" flagged ones), leaving ").append(totalMaintained).append(". Everything is as of ")
-                .append(year).append("-12-31. Artifact shares are of ")
+                .append(asOf).append(". Artifact shares are of ")
                 .append("total artifacts; group shares are of total groups. \"Partial modularized groups\" have at ")
                 .append("least one artifact whose latest version carries a module; \"full modularization\" is the ")
                 .append("subset where every artifact does; the named/automatic/version rows classify groups whose ")
                 .append("modules are exclusively of that kind.\n\n");
 
-        builder.append("Every figure is as of ").append(year)
-                .append("-12-31, and each artifact is judged by its latest version on or before that date: the ")
+        builder.append("Every figure is as of ").append(asOf)
+                .append(", and each artifact is judged by its latest version on or before that date: the ")
                 .append("module columns describe that version's module and are blank when the latest version ")
                 .append("carries none, even if an earlier version did. Its name, type (")
                 .append(AUTOMATIC_EMOJI).append(" automatic, ").append(NAMED_EMOJI).append(" named, ")
@@ -648,5 +692,10 @@ public final class TopModules {
         System.out.println("Optional system properties:");
         System.out.println("  -D" + PROP_DATA + "=<dir>");
         System.out.println("        Data directory holding modules/ and scanned/ (default 'data').");
+        System.out.println("  -D" + PROP_BLEEDING + "=true");
+        System.out.println("        Bleeding-edge mode: take the latest input list and assess it against current");
+        System.out.println("        data (cutoff = now, nothing cropped to a year end), writing a single");
+        System.out.println("        'bleeding.md' beside it. Windows (year, three-year, maintained) are relative");
+        System.out.println("        to the current year.");
     }
 }

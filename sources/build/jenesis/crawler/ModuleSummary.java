@@ -110,7 +110,8 @@ public final class ModuleSummary {
                         NamingPatterns naming,
                         ProcessingErrors errors,
                         TopLists top,
-                        List<String> topYears) {
+                        List<String> topYears,
+                        boolean hasBleeding) {
     }
 
     /**
@@ -330,6 +331,7 @@ public final class ModuleSummary {
                 ? Instant.ofEpochMilli(state.indexTimestamp())
                 : generatedAt;
         List<String> topYears = findTopYears(dataDir.resolve("top"));
+        boolean hasBleeding = Files.isRegularFile(dataDir.resolve("top").resolve("bleeding.md"));
         Aggregator aggregator = new Aggregator(generatedAt, monthlyAnchor, topN, latestPublishedMillis);
         if (Files.isDirectory(modulesRoot)) {
             try (Stream<Path> stream = Files.walk(modulesRoot)) {
@@ -355,7 +357,7 @@ public final class ModuleSummary {
                 }
             }
         }
-        return aggregator.toStats(state, topYears);
+        return aggregator.toStats(state, topYears, hasBleeding);
     }
 
     /**
@@ -435,17 +437,24 @@ public final class ModuleSummary {
         }
         builder.append('\n');
 
-        if (!stats.topYears().isEmpty()) {
+        if (!stats.topYears().isEmpty() || stats.hasBleeding()) {
             builder.append("## Top artifacts by year\n\n");
             builder.append("Real-world Java projects lean on a fairly small set of widely-shared libraries, while the ")
                     .append("catalogue as a whole carries a very long tail of artifacts that almost nothing depends on. ")
                     .append("Adoption measured across that whole tail understates what most projects actually encounter. ")
-                    .append("The per-year reports below instead rank the most depended-on artifacts and show how many of ")
-                    .append("them ship a module, which gives a clearer view of module adoption where it matters and how it ")
-                    .append("has moved over time.\n\n");
+                    .append("The reports below instead rank the most depended-on artifacts and show how many of them ship ")
+                    .append("a module, which gives a clearer view of module adoption where it matters and how it has moved ")
+                    .append("over time.");
+            if (stats.hasBleeding()) {
+                builder.append(" The bleeding-edge report assesses the latest list against current data, uncropped.");
+            }
+            builder.append("\n\n");
             StringJoiner links = new StringJoiner(" · ");
             for (String year : stats.topYears()) {
                 links.add("[" + year + "](top/" + year + ".md)");
+            }
+            if (stats.hasBleeding()) {
+                links.add("[bleeding edge](top/bleeding.md)");
             }
             builder.append(links).append("\n\n");
         }
@@ -1156,7 +1165,7 @@ public final class ModuleSummary {
             }
         }
 
-        Stats toStats(State state, List<String> topYears) {
+        Stats toStats(State state, List<String> topYears, boolean hasBleeding) {
             // Non-module artifacts = JARs that scanned successfully but contained no module
             // identity (no module-info, no Automatic-Module-Name), so they didn't land in
             // any versions.tsv. Computed as (scanned - failed) - PHYSICAL module rows; using
@@ -1299,7 +1308,7 @@ public final class ModuleSummary {
                 monthly.add(new MonthlyPublication(month, namedNames, automaticNames, nonModular));
             }
             return new Stats(generatedAt, state, totals, named, automatic, coverage, latestCoverage,
-                    mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top, topYears);
+                    mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top, topYears, hasBleeding);
         }
 
         /**
