@@ -117,6 +117,9 @@ public class ModuleSummaryTest {
                 "IllegalArgumentException: Illegal character in path at index 26: com/trendyol/kediatr-core/\"3.1.0\"/kediatr-core-\"3.1.0\".jar"))
                 .isEqualTo("IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>");
         assertThat(ModuleSummary.normalizeErrorMessage(
+                "IllegalArgumentException: Illegal character in fragment at index 45: de/svenkubiak/simple-http/#2.0.2/simple-http-#2.0.2.jar"))
+                .isEqualTo("IllegalArgumentException: Illegal character in fragment at index <INDEX>: <PATH>");
+        assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: this_class should be module-info"))
                 .isEqualTo("InvalidModuleDescriptorException: this_class should be module-info");
     }

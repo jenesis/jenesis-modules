@@ -52,7 +52,11 @@ public final class ModuleSummary {
             new ModuleFold("com.google.api.services.*",
                     name -> name.startsWith("com.google.api.services.")),
             new ModuleFold("com.guicedee.*",
-                    name -> name.startsWith("com.guicedee.")));
+                    name -> name.startsWith("com.guicedee.")),
+            new ModuleFold("jakarta.enterprise.*",
+                    name -> name.startsWith("jakarta.enterprise.")),
+            new ModuleFold("undertow.*",
+                    name -> name.startsWith("undertow.")));
 
     public record ModuleFold(String displayKey, Predicate<String> matches) {
     }
@@ -1407,6 +1411,9 @@ public final class ModuleSummary {
             new ErrorNormalizer(
                     Pattern.compile("Illegal character in path at index \\d+: .+$"),
                     "Illegal character in path at index <INDEX>: <PATH>"),
+            new ErrorNormalizer(
+                    Pattern.compile("Illegal character in fragment at index \\d+: .+$"),
+                    "Illegal character in fragment at index <INDEX>: <PATH>"),
             new ErrorNormalizer(
                     Pattern.compile("\\S+: Invalid service type name: '[^']*' is not a Java identifier"),
                     "<CLASS>: Invalid service type name: '<NAME>' is not a Java identifier"),
