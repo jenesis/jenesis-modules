@@ -190,8 +190,11 @@ public final class TopModules {
             int listYear = years.get(latestFile);
             Instant now = Instant.now();
             int windowYear = now.atZone(ZoneOffset.UTC).getYear();
-            long yearStart = LocalDate.of(windowYear, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
-            long threeYearStart = LocalDate.of(windowYear - 2, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
+            // Rolling windows, not calendar boundaries: the current calendar year may be only weeks
+            // old, which would wrongly mark almost everything stale. "Maintained" = released in the
+            // last 12 months; deserted = no release in the last 36 months.
+            long yearStart = now.atZone(ZoneOffset.UTC).minusMonths(12).toInstant().toEpochMilli();
+            long threeYearStart = now.atZone(ZoneOffset.UTC).minusMonths(36).toInstant().toEpochMilli();
             long cutoff = now.toEpochMilli();
             String asOf = ISO_DATE.format(now);
             List<Row> rows = buildRows(targetsByFile.get(latestFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
@@ -514,7 +517,8 @@ public final class TopModules {
         if (bleeding) {
             builder.append("_Bleeding edge: the ").append(listYear)
                     .append(" top-artifact list assessed against current data, as of ").append(asOf)
-                    .append("; nothing is cropped to a year end._\n\n");
+                    .append("; nothing is cropped to a year end, and the ").append(DORMANT_EMOJI).append(" / ")
+                    .append(STALE_EMOJI).append(" flags use rolling 12- and 36-month windows._\n\n");
         }
 
         builder.append("**By artifact**\n\n");
@@ -550,7 +554,7 @@ public final class TopModules {
                 .append(" POM-only parents/BOMs/dependencies, ").append(plural(ignoredRows, "placeholder artifact"))
                 .append(") and is over the remaining ")
                 .append(totalLibraries).append(". \"Maintained\" further drops library artifacts with no release during ")
-                .append(year).append(" (the ").append(DORMANT_EMOJI).append(" / ").append(STALE_EMOJI)
+                .append(bleeding ? "the last 12 months" : Integer.toString(year)).append(" (the ").append(DORMANT_EMOJI).append(" / ").append(STALE_EMOJI)
                 .append(" flagged ones), leaving ").append(totalMaintained).append(". Everything is as of ")
                 .append(asOf).append(". Artifact shares are of ")
                 .append("total artifacts; group shares are of total groups. \"Partial modularized groups\" have at ")
@@ -566,7 +570,8 @@ public final class TopModules {
                 .append(VERSIONED_EMOJI).append(" named with a module-info version) and version come from that ")
                 .append("latest version; the last-publication date and latest artifact version are from the latest ")
                 .append("scanned publication on or before it. A ").append(DORMANT_EMOJI)
-                .append(" marks an artifact with no release during the year, a ").append(STALE_EMOJI)
+                .append(" marks an artifact with no release during ").append(bleeding ? "the last 12 months" : "the year")
+                .append(", a ").append(STALE_EMOJI)
                 .append(" one that looks deserted (no release in the last three years). ")
                 .append("Ages are in years (comma-decimal) measured to that date: ")
                 .append("artifact age from the artifact's first publication, module age from its first module ")
@@ -579,8 +584,14 @@ public final class TopModules {
                 .append(": parents, BOMs and dependency imports, which ship no JAR), and hand-listed placeholder ")
                 .append("artifacts (").append(plural(ignoredRows, "row")).append(").\n\n");
 
-        builder.append("| ").append(String.join(" | ", HEADERS)).append(" |\n");
-        builder.append("|").append("---|".repeat(HEADERS.size())).append('\n');
+        List<String> headers = HEADERS;
+        if (bleeding) {
+            headers = new ArrayList<>(HEADERS);
+            headers.set(headers.indexOf("Artifacts released in year"), "Artifacts released in last 12 months");
+            headers.set(headers.indexOf("Modules released in year"), "Modules released in last 12 months");
+        }
+        builder.append("| ").append(String.join(" | ", headers)).append(" |\n");
+        builder.append("|").append("---|".repeat(headers.size())).append('\n');
         for (Row row : rows) {
             builder.append('|');
             for (String cell : row.cells()) {
