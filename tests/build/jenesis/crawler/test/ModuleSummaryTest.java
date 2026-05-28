@@ -343,6 +343,45 @@ public class ModuleSummaryTest {
         assertThat(stats.recent().nonModularArtifacts()).isEqualTo(2L);
     }
 
+    @Test
+    public void recent_window_anchors_to_last_tracked_publication_not_wall_clock() throws IOException {
+        Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("g").resolve("a"));
+        Files.writeString(moduleDir.resolve("versions.tsv"),
+                "1.0\tnamed\tg\ta\t2026-05-20T00:00:00Z\t1.0\n", StandardCharsets.UTF_8);
+        writeArtifactsMirror(moduleDir, "1.0\tnamed\tg\ta");
+
+        // Generated months after the last publication: a wall-clock-relative 7-day window would
+        // be empty, but the window anchored to the freshest publication (2026-05-20) still counts
+        // it.
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-09-01T00:00:00Z"), 25);
+
+        assertThat(stats.recent().modules()).isEqualTo(1);
+        assertThat(stats.recent().namedModules()).isEqualTo(1);
+        assertThat(stats.recent().versions()).isEqualTo(1L);
+    }
+
+    @Test
+    public void processing_errors_split_incorrectly_indexed_from_genuine() throws IOException {
+        Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("g"));
+        Files.writeString(scannedDir.resolve("a.tsv"), String.join("\n",
+                "1.0\t\t2026-01-01T00:00:00Z\tIOException: Tail request on https://repo/g/a/1.0/a-1.0.jar returned status 404",
+                "1.1\t\t2026-01-02T00:00:00Z\tIOException: Tail request on https://repo/g/a/1.1/a-1.1.jar returned status 404",
+                "1.2\t\t2026-01-03T00:00:00Z\tIllegalArgumentException: End of central directory record not found in supplied tail buffer"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-05-25T00:00:00Z"), 25);
+
+        assertThat(stats.errors().total()).isEqualTo(3L);
+        // The two mis-stamped 404s normalise to the incorrectly-indexed class; the third is genuine.
+        assertThat(stats.errors().incorrectlyIndexed()).isEqualTo(2L);
+        assertThat(stats.errors().genuineErrors()).isEqualTo(1L);
+        // The 404 class is filtered out of the top-N genuine error list.
+        assertThat(stats.errors().topMessages())
+                .extracting(ModuleSummary.TopEntry::key)
+                .doesNotContain(ModuleSummary.INCORRECTLY_INDEXED_ERROR)
+                .contains("IllegalArgumentException: End of central directory record not found in supplied tail buffer");
+    }
+
     private void writeVersions(String moduleName, int count) throws IOException {
         Path dir = dataDir.resolve("modules");
         for (String segment : moduleName.split("\\.")) {

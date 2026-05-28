@@ -48,7 +48,11 @@ public final class ModuleSummary {
             new ModuleFold("org.scala.lang.scala3.*",
                     name -> name.startsWith("org.scala.lang.scala3.")),
             new ModuleFold("com.fasterxml.jackson.*",
-                    name -> name.startsWith("com.fasterxml.jackson.")));
+                    name -> name.startsWith("com.fasterxml.jackson.")),
+            new ModuleFold("com.google.api.services.*",
+                    name -> name.startsWith("com.google.api.services.")),
+            new ModuleFold("com.guicedee.*",
+                    name -> name.startsWith("com.guicedee.")));
 
     public record ModuleFold(String displayKey, Predicate<String> matches) {
     }
@@ -249,7 +253,21 @@ public final class ModuleSummary {
         }
     }
 
-    public record ProcessingErrors(long total, List<TopEntry> topMessages) {
+    /**
+     * The normalized error message for the dominant "incorrectly indexed" failure class:
+     * coordinates the upstream Nexus index mis-stamps as having a main JAR when only a POM was
+     * ever published (BOMs, parent POMs). The crawler probes once, the fetch 404s, and the row is
+     * recorded permanently. These are an upstream-data artifact, not a problem with the artifact
+     * itself, so the summary breaks them out from genuine artifact errors.
+     */
+    public static final String INCORRECTLY_INDEXED_ERROR = "IOException: Tail request on <URL> returned status 404";
+
+    public record ProcessingErrors(long total, long incorrectlyIndexed, List<TopEntry> topMessages) {
+
+        /** Failures that reflect a real problem with the artifact (total minus mis-stamped 404s). */
+        public long genuineErrors() {
+            return Math.max(0L, total - incorrectlyIndexed);
+        }
     }
 
     public record TopLists(List<TopEntry> modulesByVersionCount,
@@ -293,7 +311,12 @@ public final class ModuleSummary {
         Path modulesRoot = dataDir.resolve("modules");
         Path scannedRoot = dataDir.resolve("scanned");
         State state = State.load(statePath);
-        Aggregator aggregator = new Aggregator(generatedAt, topN);
+        // The recent-activity window is anchored to the freshest tracked publication, not the
+        // wall clock: Maven Central's index lags real time by up to a week, so "last 7 days from
+        // now" is frequently empty even when we're fully caught up. A cheap pre-pass finds the
+        // max publishedAt before the main walk (the recent counters need the cutoff up front).
+        long latestPublishedMillis = findLatestPublishedMillis(modulesRoot);
+        Aggregator aggregator = new Aggregator(generatedAt, topN, latestPublishedMillis);
         if (Files.isDirectory(modulesRoot)) {
             try (Stream<Path> stream = Files.walk(modulesRoot)) {
                 Iterator<Path> iterator = stream.iterator();
@@ -319,6 +342,41 @@ public final class ModuleSummary {
             }
         }
         return aggregator.toStats(state);
+    }
+
+    /**
+     * Finds the maximum {@code publishedAt} across every {@code versions[-classifier].tsv} in the
+     * modules tree. Used to anchor the recent-activity window to the freshest tracked publication.
+     * Each {@code versions.tsv} is written in chronological (publishedAt-ascending) order, so the
+     * last non-empty line carries that file's maximum - one parse per file rather than per row.
+     * Returns 0 when there is no data.
+     */
+    private static long findLatestPublishedMillis(Path modulesRoot) throws IOException {
+        if (!Files.isDirectory(modulesRoot)) {
+            return 0L;
+        }
+        long max = 0L;
+        try (Stream<Path> stream = Files.walk(modulesRoot)) {
+            for (Path file : (Iterable<Path>) stream::iterator) {
+                if (!Files.isRegularFile(file)) {
+                    continue;
+                }
+                String name = file.getFileName().toString();
+                if (!name.startsWith(VERSIONS_STEM) || !name.endsWith(TSV_EXTENSION)) {
+                    continue;
+                }
+                List<String> lines = Files.readAllLines(file, StandardCharsets.UTF_8);
+                for (int i = lines.size() - 1; i >= 0; i--) {
+                    String line = lines.get(i);
+                    if (line.isEmpty()) {
+                        continue;
+                    }
+                    max = Math.max(max, ModuleEntry.parse(line).publishedAt());
+                    break;
+                }
+            }
+        }
+        return max;
     }
 
     private static String render(Stats stats, int topN) {
@@ -405,7 +463,7 @@ public final class ModuleSummary {
         builder.append("| Named → Automatic | ").append(fmt(stats.transitions().namedToAuto())).append(" |\n\n");
 
         builder.append("## Recent activity (last 7 days)\n\n");
-        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version; \"new version rows\" is the total count of those publications. Per-row counts split by the publication's own type; per-module counts attribute each module to whichever type it has at its latest version, so a module that switched named↔automatic shows up under its current type. The `Named`/`Automatic` columns are canonical (owner-resolved); the trailing `Non-modular artifacts` row counts distinct `(groupId, artifactId)` that published a coordinate with no module identity (distinct scanned artifacts minus distinct modular artifacts in the window), so it stands apart from the modular rows rather than summing into them.\n\n");
+        builder.append("Activity in the 7-day window ending at the **most recent tracked publication** (shown in Totals), not at this file's generation time. Maven Central's index typically lags real time by up to a week, so a now-relative window is usually empty even when the crawl is fully caught up; anchoring to the freshest publication keeps the window meaningful. \"Modules with a publication\" counts distinct module names that received at least one new version; \"new version rows\" is the total count of those publications. Per-row counts split by the publication's own type; per-module counts attribute each module to whichever type it has at its latest version, so a module that switched named↔automatic shows up under its current type. The `Named`/`Automatic` columns are canonical (owner-resolved); the trailing `Non-modular artifacts` row counts distinct `(groupId, artifactId)` that published a coordinate with no module identity (distinct scanned artifacts minus distinct modular artifacts in the window), so it stands apart from the modular rows rather than summing into them.\n\n");
         builder.append("| Metric | Total | Named | Automatic |\n|---|---:|---:|---:|\n");
         builder.append("| Modules with a publication | ")
                 .append(fmt(stats.recent().modules())).append(" | ")
@@ -441,11 +499,14 @@ public final class ModuleSummary {
         ProcessingErrors errors = stats.errors();
         builder.append("## Processing errors\n\n");
         builder.append("Recorded permanent failures across every scanned coordinate. Variable bits of well-known error classes (URLs, shaded package names, classfile entry indexes, HTTP status codes, line numbers, class identifiers) are replaced with placeholders like `<URL>`, `<PACKAGE>`, `<CLASS>` so messages that differ only in those bits aggregate into one row.\n\n");
-        builder.append("The bulk of `returned status 404` rows come from coordinates that the upstream index mis-stamps as having a main JAR but in fact only ever publish a POM (BOMs, parent POMs, etc.); the crawler probes once, records the 404 as permanent, and never re-fetches. They are excluded from the `Total artifacts scanned` and `Modular artifacts` totals above, which count successful scans only.\n\n");
+        builder.append("`Incorrectly indexed` is the dominant failure class: coordinates the upstream Nexus index mis-stamps as having a main JAR when only a POM was ever published (BOMs, parent POMs). The crawler probes once, the fetch 404s, and the row is recorded permanently; these are an upstream-data artifact, not a problem with the JAR, and are excluded from the `Total artifacts scanned` and `Modular artifacts` totals above. `Genuine artifact errors` is the remainder - malformed JARs, unparseable `module-info`, and the like - and is broken out in the top-N table below.\n\n");
         builder.append("| Metric | Value |\n|---|---:|\n");
-        builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n\n");
+        builder.append("| Total failed coordinates | ").append(fmt(errors.total())).append(" |\n");
+        builder.append("| Incorrectly indexed (mis-stamped 404s) | ").append(fmt(errors.incorrectlyIndexed())).append(" |\n");
+        builder.append("| Genuine artifact errors | ").append(fmt(errors.genuineErrors())).append(" |\n\n");
         if (!errors.topMessages().isEmpty()) {
-            builder.append("### Top ").append(topN).append(" error messages\n\n");
+            builder.append("### Top ").append(topN).append(" genuine error messages\n\n");
+            builder.append("Excludes the mis-stamped-404 class broken out above, so the genuine artifact errors are visible rather than buried beneath it.\n\n");
             builder.append("| Error message | Count |\n|---|---:|\n");
             for (TopEntry entry : errors.topMessages()) {
                 builder.append("| `").append(escapePipes(entry.key())).append("` | ").append(fmt(entry.count())).append(" |\n");
@@ -484,7 +545,7 @@ public final class ModuleSummary {
         builder.append('\n');
 
         builder.append("## Top ").append(topN).append(" modules updated in the last 7 days\n\n");
-        builder.append("Modules whose most recent publication landed in the 7-day window, sorted newest first. Use this as a recency view; the count above (`Recent activity`) gives the totals while this table names which modules they were.\n\n");
+        builder.append("Modules whose most recent publication landed in the 7-day window ending at the most recent tracked publication (same window as `Recent activity`, anchored to the freshest publication rather than now since the index lags up to a week), sorted newest first. Use this as a recency view; the count above (`Recent activity`) gives the totals while this table names which modules they were.\n\n");
         if (stats.top().latestModuleUpdates().isEmpty()) {
             builder.append("_(none — no publications recorded within the last week)_\n\n");
         } else {
@@ -700,15 +761,18 @@ public final class ModuleSummary {
         private final YearMonth monthlyWindowStart;
         private long resolvedModuleVersions;
 
-        Aggregator(Instant generatedAt, int topN) {
+        Aggregator(Instant generatedAt, int topN, long latestPublishedMillis) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
-            this.recentCutoffMillis = generatedAt.minus(RECENT_WINDOW).toEpochMilli();
             if (topN < 1) {
                 throw new IllegalArgumentException("topN must be >= 1, got " + topN);
             }
             this.topN = topN;
-            // Earliest month the renderer shows (current month minus 11). Distinct tracking is
-            // skipped for anything older to keep the per-month sets small.
+            // Anchor the recent window to the freshest tracked publication (max publishedAt), not
+            // wall-clock now. The upstream index lags real time by up to a week, so a now-relative
+            // window is usually empty. Fall back to generatedAt when there is no data at all.
+            long anchor = latestPublishedMillis > 0L ? latestPublishedMillis : generatedAt.toEpochMilli();
+            this.recentCutoffMillis = anchor - RECENT_WINDOW.toMillis();
+            // Months are still bucketed against the wall clock so the 12-month axis is stable.
             this.monthlyWindowStart = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC)).minusMonths(11);
         }
 
@@ -1115,7 +1179,12 @@ public final class ModuleSummary {
                             .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue)), topN),
                     latestUpdates,
                     groupAverages);
+            long incorrectlyIndexed = errorMessageCounts.getOrDefault(INCORRECTLY_INDEXED_ERROR, 0L);
+            // The mis-stamped-404 class is broken out into the summary table, so drop it from the
+            // top-N message list to surface the genuine artifact errors that would otherwise be
+            // buried beneath its ~2 M count.
             List<TopEntry> topErrorMessages = errorMessageCounts.entrySet().stream()
+                    .filter(entry -> !entry.getKey().equals(INCORRECTLY_INDEXED_ERROR))
                     .sorted((a, b) -> {
                         int cmp = Long.compare(b.getValue(), a.getValue());
                         return cmp != 0 ? cmp : a.getKey().compareTo(b.getKey());
@@ -1123,7 +1192,7 @@ public final class ModuleSummary {
                     .limit(topN)
                     .map(entry -> new TopEntry(entry.getKey(), entry.getValue()))
                     .toList();
-            ProcessingErrors errors = new ProcessingErrors(processingErrorTotal, topErrorMessages);
+            ProcessingErrors errors = new ProcessingErrors(processingErrorTotal, incorrectlyIndexed, topErrorMessages);
             ModuleVersionCoverage coverage = new ModuleVersionCoverage(
                     moduleVersionExplicit,
                     moduleVersionMismatching,
