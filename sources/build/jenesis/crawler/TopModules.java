@@ -61,6 +61,7 @@ public final class TopModules {
     private static final String NAMED_EMOJI = "🏷️"; // label tag
     private static final String AUTOMATIC_EMOJI = "⚙️";   // gear
     private static final String VERSIONED_EMOJI = "🔖"; // module-info declares a version
+    private static final String STALE_EMOJI = "🚩"; // declares a module-info version but no release in three years
 
     /**
      * GroupId prefixes for Maven's own build tooling: Maven itself (core, plugins, shared,
@@ -175,12 +176,13 @@ public final class TopModules {
         for (Path topFile : topFiles) {
             int year = years.get(topFile);
             long yearStart = LocalDate.of(year, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
+            long threeYearStart = LocalDate.of(year - 2, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             long cutoff = LocalDate.of(year + 1, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             List<Artifact> targets = targetsByFile.get(topFile);
             List<Row> rows = new ArrayList<>(targets.size());
             for (int rank = 0; rank < targets.size(); rank++) {
                 Artifact target = targets.get(rank);
-                rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()), yearStart, cutoff, scannedRoot));
+                rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()), yearStart, threeYearStart, cutoff, scannedRoot));
             }
             Path output = topFile.resolveSibling(stem(topFile) + ".md");
             Files.writeString(output, render(year, rows), StandardCharsets.UTF_8);
@@ -267,7 +269,7 @@ public final class TopModules {
         return new Artifact(line.substring(second + 1, third), line.substring(third + 1, fourth));
     }
 
-    private static Row buildRow(int rank, Artifact target, List<Hit> hits, long yearStart, long cutoff, Path scannedRoot) throws IOException {
+    private static Row buildRow(int rank, Artifact target, List<Hit> hits, long yearStart, long threeYearStart, long cutoff, Path scannedRoot) throws IOException {
         List<Hit> qualifying = hits.stream().filter(hit -> hit.entry().publishedAt() < cutoff).toList();
         ScanStats scanned = scanStats(scannedRoot, target, yearStart, cutoff);
 
@@ -314,9 +316,13 @@ public final class TopModules {
                 ? ISO_DATE.format(Instant.ofEpochMilli(scanned.lastPublished()))
                 : "";
         String artifactAge = scanned.firstPublished() > 0L ? ageYears(cutoff - scanned.firstPublished()) : "";
+        boolean stale = declaresModuleVersion
+                && scanned.lastPublished() > 0L
+                && scanned.lastPublished() < threeYearStart;
+        String artifactCell = stale ? target + " " + STALE_EMOJI : target.toString();
         String[] cells = {
                 Integer.toString(rank),
-                target.toString(),
+                artifactCell,
                 module,
                 lastPublication,
                 artifactAge,
@@ -485,7 +491,9 @@ public final class TopModules {
                 .append(NAMED_EMOJI).append(" named / ").append(AUTOMATIC_EMOJI).append(" automatic, plus ")
                 .append(VERSIONED_EMOJI).append(" when module-info declares a version) and version come from that ")
                 .append("latest version; the last-publication date and latest artifact version are from the latest ")
-                .append("scanned publication on or before it. Ages are in years (comma-decimal) measured to that date: ")
+                .append("scanned publication on or before it. A ").append(STALE_EMOJI)
+                .append(" flags a module that declares a module-info version but has had no release in the last ")
+                .append("three years. Ages are in years (comma-decimal) measured to that date: ")
                 .append("artifact age from the artifact's first publication, module age from its first module ")
                 .append("publication. The trailing counts are distinct versions: the \"released\" totals cover ")
                 .append("everything up to the year end, \"in year\" only the report year, and the module counts ")
