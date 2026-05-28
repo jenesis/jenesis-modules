@@ -16,9 +16,8 @@ import build.jenesis.crawler.store.ModuleStore;
  *   <li><b>Top</b> - the 1-based rank (line number) within the input file;</li>
  *   <li><b>Artifact</b> - the {@code groupId:artifactId};</li>
  *   <li><b>Module</b> - the module carried by the artifact's latest version on or before the year
- *       end (blank if that version carries none), suffixed with an emoji for its type ({@code named}
- *       or {@code automatic}) and a second emoji when the module declares a version in
- *       {@code module-info};</li>
+ *       end (blank if that version carries none), suffixed with a single emoji for its kind:
+ *       automatic, named, or named with a declared {@code module-info} version;</li>
  *   <li><b>Last publication</b> - the most recent publish date in {@code data/scanned} on or before
  *       the year end;</li>
  *   <li><b>Artifact age</b> - years (comma-decimal) from the artifact's first publication to the
@@ -60,8 +59,9 @@ public final class TopModules {
     private static final double MILLIS_PER_YEAR = 365.2425d * 86_400_000d;
     private static final String NAMED_EMOJI = "🏷️"; // label tag
     private static final String AUTOMATIC_EMOJI = "⚙️";   // gear
-    private static final String VERSIONED_EMOJI = "✅"; // module-info declares a version
-    private static final String STALE_EMOJI = "🚩"; // declares a module-info version but no release in three years
+    private static final String VERSIONED_EMOJI = "✳️"; // named module that declares a module-info version
+    private static final String DORMANT_EMOJI = "⚠️"; // released within three years but not during the report year
+    private static final String STALE_EMOJI = "🚩"; // popular artifact that looks deserted: no release in three years
 
     /**
      * GroupId prefixes for Maven's own build tooling: Maven itself (core, plugins, shared,
@@ -309,8 +309,9 @@ public final class TopModules {
             long first = qualifying.stream().mapToLong(hit -> hit.entry().publishedAt()).min().orElseThrow();
             type = latest.entry().type();
             declaresModuleVersion = !latest.entry().moduleVersion().isEmpty();
-            module = latest.moduleName() + ' ' + (type == ModuleType.NAMED ? NAMED_EMOJI : AUTOMATIC_EMOJI)
-                    + (declaresModuleVersion ? ' ' + VERSIONED_EMOJI : "");
+            String typeEmoji = type == ModuleType.AUTOMATIC ? AUTOMATIC_EMOJI
+                    : declaresModuleVersion ? VERSIONED_EMOJI : NAMED_EMOJI;
+            module = latest.moduleName() + ' ' + typeEmoji;
             moduleVersion = declaresModuleVersion
                     ? latest.entry().moduleVersion()
                     : latest.entry().mavenVersion().raw();
@@ -324,10 +325,16 @@ public final class TopModules {
                 ? ISO_DATE.format(Instant.ofEpochMilli(scanned.lastPublished()))
                 : "";
         String artifactAge = scanned.firstPublished() > 0L ? ageYears(cutoff - scanned.firstPublished()) : "";
-        boolean stale = declaresModuleVersion
-                && scanned.lastPublished() > 0L
-                && scanned.lastPublished() < threeYearStart;
-        String artifactCell = stale ? target + " " + STALE_EMOJI : target.toString();
+        long lastPublished = scanned.lastPublished();
+        String activity;
+        if (lastPublished <= 0L || lastPublished >= yearStart) {
+            activity = "";
+        } else if (lastPublished < threeYearStart) {
+            activity = " " + STALE_EMOJI;
+        } else {
+            activity = " " + DORMANT_EMOJI;
+        }
+        String artifactCell = target + activity;
         String[] cells = {
                 Integer.toString(rank),
                 artifactCell,
@@ -504,12 +511,13 @@ public final class TopModules {
                 .append("-12-31, and each artifact is judged by its latest version on or before that date: the ")
                 .append("module columns describe that version's module and are blank when the latest version ")
                 .append("carries none, even if an earlier version did. Its name, type (")
-                .append(NAMED_EMOJI).append(" named / ").append(AUTOMATIC_EMOJI).append(" automatic, plus ")
-                .append(VERSIONED_EMOJI).append(" when module-info declares a version) and version come from that ")
+                .append(AUTOMATIC_EMOJI).append(" automatic, ").append(NAMED_EMOJI).append(" named, ")
+                .append(VERSIONED_EMOJI).append(" named with a module-info version) and version come from that ")
                 .append("latest version; the last-publication date and latest artifact version are from the latest ")
-                .append("scanned publication on or before it. A ").append(STALE_EMOJI)
-                .append(" flags a module that declares a module-info version but has had no release in the last ")
-                .append("three years. Ages are in years (comma-decimal) measured to that date: ")
+                .append("scanned publication on or before it. A ").append(DORMANT_EMOJI)
+                .append(" marks an artifact with no release during the year, a ").append(STALE_EMOJI)
+                .append(" one that looks deserted (no release in the last three years). ")
+                .append("Ages are in years (comma-decimal) measured to that date: ")
                 .append("artifact age from the artifact's first publication, module age from its first module ")
                 .append("publication. The trailing counts are distinct versions: the \"released\" totals cover ")
                 .append("everything up to the year end, \"in year\" only the report year, and the module counts ")
@@ -615,8 +623,8 @@ public final class TopModules {
         System.out.println("writes a sibling 'YYYY.md' table cross-referencing the listed artifacts against the");
         System.out.println("module catalogue (data/modules/**/versions.tsv) and the scan log (data/scanned/).");
         System.out.println();
-        System.out.println("Columns: Top (rank), Artifact, Module (latest name + named/automatic emoji, plus an");
-        System.out.println("emoji when module-info declares a version), Last publication, Artifact age and Module");
+        System.out.println("Columns: Top (rank), Artifact, Module (latest name + a single emoji: automatic, named,");
+        System.out.println("or named-with-module-info-version), Last publication, Artifact age and Module");
         System.out.println("age (years, comma-decimal, to the year end), Latest artifact version, Latest module");
         System.out.println("version, Total released artifacts and modules (distinct versions to the year end), and");
         System.out.println("Artifacts and Modules released in year. Every figure is bound to the year end; artifacts");
