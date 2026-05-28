@@ -8,6 +8,9 @@
 
 A modular Java program that crawls Maven Central and records the Java module name produced by every modularised artifact. For each module, every published version is recorded with the Maven coordinates that produced it. The intended lookup pattern is: given a module name (and optional classifier) plus a version, find the Maven coordinates that publish it.
 
+> ## [Read the module summary](data/SUMMARY.md)
+> Module adoption across all of Maven Central: catalogue-wide counts, named vs automatic adoption, and per-year reports on the most depended-on artifacts.
+
 ## Output layout
 
 ```

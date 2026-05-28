@@ -47,6 +47,8 @@ public final class ModuleSummary {
                     name -> name.startsWith("software.amazon.awssdk.")),
             new ModuleFold("org.scala.lang.scala3.*",
                     name -> name.startsWith("org.scala.lang.scala3.")),
+            new ModuleFold("org.scala.lang.* (excl. scala3)",
+                    name -> name.startsWith("org.scala.lang.") && !name.startsWith("org.scala.lang.scala3.")),
             new ModuleFold("com.fasterxml.jackson.*",
                     name -> name.startsWith("com.fasterxml.jackson.")),
             new ModuleFold("com.google.api.services.*",
@@ -107,7 +109,8 @@ public final class ModuleSummary {
                         List<MonthlyPublication> monthlyPublications,
                         NamingPatterns naming,
                         ProcessingErrors errors,
-                        TopLists top) {
+                        TopLists top,
+                        List<String> topYears) {
     }
 
     /**
@@ -320,7 +323,14 @@ public final class ModuleSummary {
         // now" is frequently empty even when we're fully caught up. A cheap pre-pass finds the
         // max publishedAt before the main walk (the recent counters need the cutoff up front).
         long latestPublishedMillis = findLatestPublishedMillis(modulesRoot);
-        Aggregator aggregator = new Aggregator(generatedAt, topN, latestPublishedMillis);
+        // Anchor the 12-month axis to the crawler's index timestamp so the summary depends only on
+        // the crawler state it was built from, not on when it was rendered. Fall back to the passed
+        // instant only when there is no recorded state (e.g. tests with no state.properties).
+        Instant monthlyAnchor = state.indexTimestamp() > 0L
+                ? Instant.ofEpochMilli(state.indexTimestamp())
+                : generatedAt;
+        List<String> topYears = findTopYears(dataDir.resolve("top"));
+        Aggregator aggregator = new Aggregator(generatedAt, monthlyAnchor, topN, latestPublishedMillis);
         if (Files.isDirectory(modulesRoot)) {
             try (Stream<Path> stream = Files.walk(modulesRoot)) {
                 Iterator<Path> iterator = stream.iterator();
@@ -345,7 +355,29 @@ public final class ModuleSummary {
                 }
             }
         }
-        return aggregator.toStats(state);
+        return aggregator.toStats(state, topYears);
+    }
+
+    /**
+     * Year stems of the {@code <data>/top/<year>.md} reports, sorted ascending. Empty when the
+     * {@code top} directory is absent or has no four-digit {@code .md} files.
+     */
+    private static List<String> findTopYears(Path topDir) throws IOException {
+        if (!Files.isDirectory(topDir)) {
+            return List.of();
+        }
+        List<String> years = new ArrayList<>();
+        try (DirectoryStream<Path> entries = Files.newDirectoryStream(topDir, "*.md")) {
+            for (Path entry : entries) {
+                String name = entry.getFileName().toString();
+                String stem = name.substring(0, name.length() - ".md".length());
+                if (stem.length() == 4 && stem.chars().allMatch(Character::isDigit)) {
+                    years.add(stem);
+                }
+            }
+        }
+        Collections.sort(years);
+        return List.copyOf(years);
     }
 
     /**
@@ -388,7 +420,6 @@ public final class ModuleSummary {
         builder.append("# Module summary\n\n");
         builder.append("> ### Powered by [Jenesis](https://github.com/raphw/jenesis)\n");
         builder.append("> _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._\n\n");
-        builder.append("_Generated: ").append(HUMAN_UTC_TIMESTAMP.format(stats.generatedAt())).append("_  \n");
         State state = stats.state();
         if (state.indexTimestamp() > 0L) {
             builder.append("_Index timestamp: ").append(HUMAN_UTC_TIMESTAMP.format(Instant.ofEpochMilli(state.indexTimestamp()))).append("_  \n");
@@ -403,6 +434,21 @@ public final class ModuleSummary {
             builder.append("_Last applied index chunk: ").append(state.indexChunkLastApplied()).append("_  \n");
         }
         builder.append('\n');
+
+        if (!stats.topYears().isEmpty()) {
+            builder.append("## Top artifacts by year\n\n");
+            builder.append("Real-world Java projects lean on a fairly small set of widely-shared libraries, while the ")
+                    .append("catalogue as a whole carries a very long tail of artifacts that almost nothing depends on. ")
+                    .append("Adoption measured across that whole tail understates what most projects actually encounter. ")
+                    .append("The per-year reports below instead rank the most depended-on artifacts and show how many of ")
+                    .append("them ship a module, which gives a clearer view of module adoption where it matters and how it ")
+                    .append("has moved over time.\n\n");
+            StringJoiner links = new StringJoiner(" · ");
+            for (String year : stats.topYears()) {
+                links.add("[" + year + "](top/" + year + ".md)");
+            }
+            builder.append(links).append("\n\n");
+        }
 
         Totals totals = stats.totals();
         builder.append("## Totals\n\n");
@@ -765,8 +811,9 @@ public final class ModuleSummary {
         private final YearMonth monthlyWindowStart;
         private long resolvedModuleVersions;
 
-        Aggregator(Instant generatedAt, int topN, long latestPublishedMillis) {
+        Aggregator(Instant generatedAt, Instant monthlyAnchor, int topN, long latestPublishedMillis) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
+            Objects.requireNonNull(monthlyAnchor, "monthlyAnchor");
             if (topN < 1) {
                 throw new IllegalArgumentException("topN must be >= 1, got " + topN);
             }
@@ -776,8 +823,9 @@ public final class ModuleSummary {
             // window is usually empty. Fall back to generatedAt when there is no data at all.
             long anchor = latestPublishedMillis > 0L ? latestPublishedMillis : generatedAt.toEpochMilli();
             this.recentCutoffMillis = anchor - RECENT_WINDOW.toMillis();
-            // Months are still bucketed against the wall clock so the 12-month axis is stable.
-            this.monthlyWindowStart = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC)).minusMonths(11);
+            // The 12-month axis ends at the crawler-state anchor (index timestamp), so the summary
+            // is a pure function of the data it was built from rather than the render wall clock.
+            this.monthlyWindowStart = YearMonth.from(monthlyAnchor.atZone(ZoneOffset.UTC)).minusMonths(11);
         }
 
         void acceptDirectory(Path modulesRoot, Path dir) throws IOException {
@@ -1108,7 +1156,7 @@ public final class ModuleSummary {
             }
         }
 
-        Stats toStats(State state) {
+        Stats toStats(State state, List<String> topYears) {
             // Non-module artifacts = JARs that scanned successfully but contained no module
             // identity (no module-info, no Automatic-Module-Name), so they didn't land in
             // any versions.tsv. Computed as (scanned - failed) - PHYSICAL module rows; using
@@ -1239,7 +1287,7 @@ public final class ModuleSummary {
                     mismatchUnresolvedPlaceholder,
                     mismatchDifferentMajor,
                     mismatchSubstantive);
-            YearMonth currentMonth = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC));
+            YearMonth currentMonth = monthlyWindowStart.plusMonths(11);
             List<MonthlyPublication> monthly = new ArrayList<>(12);
             for (int i = 11; i >= 0; i--) {
                 YearMonth month = currentMonth.minusMonths(i);
@@ -1251,7 +1299,7 @@ public final class ModuleSummary {
                 monthly.add(new MonthlyPublication(month, namedNames, automaticNames, nonModular));
             }
             return new Stats(generatedAt, state, totals, named, automatic, coverage, latestCoverage,
-                    mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top);
+                    mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top, topYears);
         }
 
         /**
