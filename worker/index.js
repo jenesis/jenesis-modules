@@ -48,6 +48,8 @@
  *                     branch on raw.githubusercontent.com.
  *   ARTIFACT_BASE     Base URL of the Maven repository to redirect to. Defaults to
  *                     repo.maven.apache.org/maven2/.
+ *   HOME_REDIRECT     URL the root path (`/`) redirects to. Defaults to this repo's
+ *                     GitHub page.
  *   REDIRECT_TTL      Cache-Control max-age (seconds) on the 302 response. Defaults
  *                     to 3600 (1 hour). The Cloudflare edge cache also caches the
  *                     upstream `.tsv` fetches at the same TTL.
@@ -56,6 +58,7 @@
 const DEFAULT_DATA_BASE =
     "https://raw.githubusercontent.com/raphw/jenesis-modules/main/data/modules/";
 const DEFAULT_ARTIFACT_BASE = "https://repo.maven.apache.org/maven2/";
+const DEFAULT_HOME_REDIRECT = "https://github.com/raphw/jenesis-modules";
 const DEFAULT_REDIRECT_TTL = 3600;
 const STALE_WHILE_REVALIDATE = 86400;
 
@@ -98,7 +101,19 @@ async function handleRequest(request, env) {
         });
     }
 
-    const parsed = parsePath(new URL(request.url).pathname);
+    const pathname = new URL(request.url).pathname;
+    if (pathname === "/" || pathname === "") {
+        const home = (env && env.HOME_REDIRECT) || DEFAULT_HOME_REDIRECT;
+        return new Response(null, {
+            status: 302,
+            headers: {
+                Location: home,
+                "Cache-Control": "public, max-age=3600",
+            },
+        });
+    }
+
+    const parsed = parsePath(pathname);
     if (!parsed) {
         return textResponse(404, "Not Found\n");
     }
