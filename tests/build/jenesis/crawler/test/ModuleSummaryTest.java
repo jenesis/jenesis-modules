@@ -259,7 +259,8 @@ public class ModuleSummaryTest {
     public void monthly_publications_cover_last_twelve_months_including_empty_buckets() throws IOException {
         Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
         Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
-                // March 2026: 2 named, 1 automatic
+                // March 2026: 2 named versions + 1 automatic, all of the single module com.example.lib
+                // -> distinct named names = 1, distinct automatic names = 1.
                 "1.0\tnamed\tcom.example\tlib\t2026-03-05T00:00:00Z\t1.0",
                 "1.1\tnamed\tcom.example\tlib\t2026-03-20T00:00:00Z\t1.1",
                 "0.9\tautomatic\tcom.example\tlib\t2026-03-10T00:00:00Z\t",
@@ -285,7 +286,8 @@ public class ModuleSummaryTest {
         ModuleSummary.MonthlyPublication march = monthly.stream()
                 .filter(m -> m.month().equals(YearMonth.of(2026, 3)))
                 .findFirst().orElseThrow();
-        assertThat(march.named()).isEqualTo(2L);
+        // Distinct module names, not publication rows: the two named versions collapse to one name.
+        assertThat(march.named()).isEqualTo(1L);
         assertThat(march.automatic()).isEqualTo(1L);
         ModuleSummary.MonthlyPublication february = monthly.stream()
                 .filter(m -> m.month().equals(YearMonth.of(2026, 2)))
@@ -297,9 +299,10 @@ public class ModuleSummaryTest {
     }
 
     @Test
-    public void monthly_and_recent_non_modular_is_scanned_minus_modular() throws IOException {
+    public void monthly_and_recent_non_modular_counts_distinct_artifacts() throws IOException {
+        // One modular artifact (com.example:lib) that publishes a named and an automatic version
+        // in 2026-05 - distinct named name = 1, distinct automatic name = 1, both the same module.
         Path moduleDir = Files.createDirectories(dataDir.resolve("modules").resolve("com").resolve("example").resolve("lib"));
-        // Two modular publications in 2026-05 (one named, one automatic).
         Files.writeString(moduleDir.resolve("versions.tsv"), String.join("\n",
                 "1.0\tnamed\tcom.example\tlib\t2026-05-20T00:00:00Z\t1.0",
                 "0.9\tautomatic\tcom.example\tlib\t2026-05-21T00:00:00Z\t"
@@ -307,17 +310,24 @@ public class ModuleSummaryTest {
         writeArtifactsMirror(moduleDir,
                 "1.0\tnamed\tcom.example\tlib",
                 "0.9\tautomatic\tcom.example\tlib");
-        // scanned.tsv: 5 successful rows in 2026-05 (the 2 modular + 3 non-modular) plus 1 failure
-        // that must not count. The failure and the modular rows are subtracted out, leaving 3.
-        Path scannedDir = Files.createDirectories(dataDir.resolve("scanned").resolve("com.example"));
-        Files.writeString(scannedDir.resolve("lib.tsv"), String.join("\n",
+        // Three distinct scanned artifacts published in 2026-05. com.example:lib is the modular
+        // one (multiple successful rows + a failure that must not count); org.foo:bar and
+        // org.baz:qux are non-modular (no versions.tsv). Distinct scanned = 3, distinct modular
+        // = 1, so non-modular = 2.
+        Path scannedLib = Files.createDirectories(dataDir.resolve("scanned").resolve("com").resolve("example"));
+        Files.writeString(scannedLib.resolve("lib.tsv"), String.join("\n",
                 "1.0\t\t2026-05-20T00:00:00Z\t",
                 "0.9\t\t2026-05-21T00:00:00Z\t",
-                "0.8\t\t2026-05-22T00:00:00Z\t",
-                "0.7\t\t2026-05-23T00:00:00Z\t",
-                "0.6\t\t2026-05-24T00:00:00Z\t",
                 "0.5\t\t2026-05-19T00:00:00Z\tIOException: boom"
         ) + "\n", StandardCharsets.UTF_8);
+        Path scannedFoo = Files.createDirectories(dataDir.resolve("scanned").resolve("org").resolve("foo"));
+        Files.writeString(scannedFoo.resolve("bar.tsv"), String.join("\n",
+                "2.0\t\t2026-05-22T00:00:00Z\t",
+                "2.1\t\t2026-05-23T00:00:00Z\t"
+        ) + "\n", StandardCharsets.UTF_8);
+        Path scannedBaz = Files.createDirectories(dataDir.resolve("scanned").resolve("org").resolve("baz"));
+        Files.writeString(scannedBaz.resolve("qux.tsv"),
+                "3.0\t\t2026-05-24T00:00:00Z\t\n", StandardCharsets.UTF_8);
 
         // Generated 2026-05-25: the whole 2026-05 activity is inside the 7-day recent window.
         ModuleSummary.Stats stats = ModuleSummary.compute(dataDir, Instant.parse("2026-05-25T00:00:00Z"), 25);
@@ -327,10 +337,10 @@ public class ModuleSummaryTest {
                 .findFirst().orElseThrow();
         assertThat(may.named()).isEqualTo(1L);
         assertThat(may.automatic()).isEqualTo(1L);
-        // 5 successful scanned rows minus 2 modular versions rows = 3 non-modular.
-        assertThat(may.nonModular()).isEqualTo(3L);
-        // Same subtraction over the 7-day window.
-        assertThat(stats.recent().nonModularArtifacts()).isEqualTo(3L);
+        // 3 distinct scanned artifacts minus 1 distinct modular artifact = 2 non-modular.
+        assertThat(may.nonModular()).isEqualTo(2L);
+        // Same distinct-artifact subtraction over the 7-day window.
+        assertThat(stats.recent().nonModularArtifacts()).isEqualTo(2L);
     }
 
     private void writeVersions(String moduleName, int count) throws IOException {

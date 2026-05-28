@@ -226,14 +226,15 @@ public final class ModuleSummary {
     }
 
     /**
-     * One row of the per-month publication breakdown. {@code month} is the calendar month in UTC.
-     * {@code named} and {@code automatic} count canonical (owner-resolved) {@code versions.tsv}
-     * rows of that type whose {@code publishedAt} falls in the month. {@code nonModular} counts
-     * successfully-scanned coordinates that carried no module identity, derived as
-     * (successful {@code scanned.tsv} rows in the month) minus (all {@code versions.tsv} rows in
-     * the month) - the same scanned-minus-modular definition the Totals section uses for
-     * "Non-module artifacts". The renderer keeps the most recent 12 calendar months (including
-     * the current one) so growth trends are visible at a glance.
+     * One row of the per-month publication breakdown, counting DISTINCT entities (not publication
+     * rows) so the three columns stay within one order of magnitude and share a bar scale.
+     * {@code month} is the calendar month in UTC. {@code named} and {@code automatic} count
+     * distinct canonical (owner-resolved) module <em>names</em> that published a version of that
+     * type in the month. {@code nonModular} counts distinct {@code (groupId, artifactId)} that
+     * published a non-modular coordinate, derived as (distinct scanned artifacts in the month)
+     * minus (distinct modular artifacts in the month) - the artifact-level analogue of the
+     * Totals "Non-module artifacts" subtraction. The renderer keeps the most recent 12 calendar
+     * months (including the current one) so growth trends are visible at a glance.
      */
     public record MonthlyPublication(YearMonth month, long named, long automatic, long nonModular) {
     }
@@ -404,7 +405,7 @@ public final class ModuleSummary {
         builder.append("| Named → Automatic | ").append(fmt(stats.transitions().namedToAuto())).append(" |\n\n");
 
         builder.append("## Recent activity (last 7 days)\n\n");
-        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version; \"new version rows\" is the total count of those publications. Per-row counts split by the publication's own type; per-module counts attribute each module to whichever type it has at its latest version, so a module that switched named↔automatic shows up under its current type. The `Named`/`Automatic` columns are canonical (owner-resolved); the trailing `New non-modular artifacts` row counts successfully-scanned JARs in the window that carried no module identity (scanned rows minus all modular rows), so it stands apart from the modular `Total` rather than summing into it.\n\n");
+        builder.append("Activity in the 7-day window leading up to the generation timestamp at the top of this file. \"Modules with a publication\" counts distinct module names that received at least one new version; \"new version rows\" is the total count of those publications. Per-row counts split by the publication's own type; per-module counts attribute each module to whichever type it has at its latest version, so a module that switched named↔automatic shows up under its current type. The `Named`/`Automatic` columns are canonical (owner-resolved); the trailing `Non-modular artifacts` row counts distinct `(groupId, artifactId)` that published a coordinate with no module identity (distinct scanned artifacts minus distinct modular artifacts in the window), so it stands apart from the modular rows rather than summing into them.\n\n");
         builder.append("| Metric | Total | Named | Automatic |\n|---|---:|---:|---:|\n");
         builder.append("| Modules with a publication | ")
                 .append(fmt(stats.recent().modules())).append(" | ")
@@ -414,7 +415,7 @@ public final class ModuleSummary {
                 .append(fmt(stats.recent().versions())).append(" | ")
                 .append(fmt(stats.recent().namedVersions())).append(" | ")
                 .append(fmt(stats.recent().automaticVersions())).append(" |\n");
-        builder.append("| New non-modular artifacts | ")
+        builder.append("| Non-modular artifacts | ")
                 .append(fmt(stats.recent().nonModularArtifacts())).append(" | - | - |\n\n");
 
         renderMonthlyPublications(builder, stats.monthlyPublications());
@@ -562,33 +563,43 @@ public final class ModuleSummary {
 
     private static void renderMonthlyPublications(StringBuilder builder, List<MonthlyPublication> monthly) {
         builder.append("## Monthly publications by type (last 12 months)\n\n");
-        builder.append("Per-month publication counts split by named, automatic, and non-modular. `Named`/`Automatic` are canonical (owner-resolved) `versions.tsv` rows; `Non-modular artifacts` is successfully-scanned coordinates with no module identity (scanned rows minus all modular rows in the month), typically an order of magnitude larger. The modular columns share one bar scale; the non-modular column is scaled independently (noted in its header) so the modular trend isn't flattened.\n\n");
-        long maxModular = 0L;
-        long maxNonModular = 0L;
+        builder.append("Per-month counts of **distinct entities** that published in the month. `Named`/`Automatic` count distinct canonical (owner-resolved) module names by type; `Non-modular artifacts` counts distinct `(groupId, artifactId)` that published a coordinate carrying no module identity (distinct scanned artifacts minus distinct modular artifacts in the month). All three share one bar scale. Non-modular artifacts outnumber modules roughly 10:1, so the columns use different shades to stay legible at a glance: `█` named, `▓` automatic, `░` non-modular. The `(x%)` after each count is that type's share of the month's total (named + automatic + non-modular), so a row's three percentages sum to ~100%.\n\n");
+        long maxCount = 0L;
         for (MonthlyPublication entry : monthly) {
-            maxModular = Math.max(maxModular, Math.max(entry.named(), entry.automatic()));
-            maxNonModular = Math.max(maxNonModular, entry.nonModular());
+            maxCount = Math.max(maxCount, Math.max(Math.max(entry.named(), entry.automatic()), entry.nonModular()));
         }
-        builder.append("| Month | Named modules | Automatic modules | Non-modular artifacts (own scale) |\n|---|---|---|---|\n");
+        builder.append("| Month | Named modules | Automatic modules | Non-modular artifacts |\n|---|---|---|---|\n");
         for (MonthlyPublication entry : monthly) {
+            long rowTotal = entry.named() + entry.automatic() + entry.nonModular();
             builder.append("| ").append(MONTH_FORMAT.format(entry.month()))
-                    .append(" | ").append(monthlyCell(entry.named(), maxModular))
-                    .append(" | ").append(monthlyCell(entry.automatic(), maxModular))
-                    .append(" | ").append(monthlyCell(entry.nonModular(), maxNonModular))
+                    .append(" | ").append(monthlyCell(entry.named(), maxCount, '█', rowTotal))
+                    .append(" | ").append(monthlyCell(entry.automatic(), maxCount, '▓', rowTotal))
+                    .append(" | ").append(monthlyCell(entry.nonModular(), maxCount, '░', rowTotal))
                     .append(" |\n");
         }
         builder.append('\n');
     }
 
-    private static String monthlyCell(long count, long maxCount) {
+    /**
+     * Renders one bar cell. {@code glyph} differentiates the columns by shade (a stand-in for
+     * colour in monospace markdown): the short modular bars use solid/dark glyphs so they stay
+     * legible on the shared scale, while the much longer non-modular bar uses a light shade so it
+     * reads as background rather than swamping the row. The trailing {@code (x%)} is the cell's
+     * share of {@code rowTotal} (the month's named + automatic + non-modular sum), so the three
+     * percentages in a row add up to ~100%.
+     */
+    private static String monthlyCell(long count, long maxCount, char glyph, long rowTotal) {
+        String share = rowTotal > 0L
+                ? String.format(Locale.ROOT, " (%.1f%%)", 100.0 * (double) count / (double) rowTotal)
+                : "";
         if (count == 0L || maxCount <= 0L) {
-            return fmt(count);
+            return fmt(count) + share;
         }
         int bars = (int) Math.round((double) count * MONTHLY_BAR_WIDTH / (double) maxCount);
         if (bars == 0) {
             bars = 1;
         }
-        return "`" + "▓".repeat(bars) + "`&nbsp;" + fmt(count);
+        return "`" + String.valueOf(glyph).repeat(bars) + "`&nbsp;" + fmt(count) + share;
     }
 
     private static void atomicWrite(Path output, String content) throws IOException {
@@ -669,15 +680,24 @@ public final class ModuleSummary {
         private long distinctMavenArtifactTotal;
         private final Set<String> moduleKeysWithModuleVersion = new HashSet<>();
         private final Map<String, Long> errorMessageCounts = new HashMap<>();
-        private final Map<YearMonth, long[]> monthlyTypeCounts = new HashMap<>();
-        // Per-month tallies that back the "Non-modular artifacts" column: successful scanned
-        // rows minus all (raw) versions.tsv rows, bucketed by publishedAt month. The same
-        // subtraction the Totals section applies catalogue-wide, sliced per month / per recent
-        // window. Single-element long[] used as a mutable accumulator inside the map.
-        private final Map<YearMonth, long[]> monthlyScannedSuccessful = new HashMap<>();
-        private final Map<YearMonth, long[]> monthlyModularRaw = new HashMap<>();
-        private long recentScannedSuccessful;
-        private long recentModularRaw;
+        // The monthly chart counts DISTINCT entities per calendar month, not publication rows:
+        // distinct canonical module names (split by the row's type) for the modular columns, and
+        // distinct (groupId, artifactId) for the non-modular column. Counting distinct entities
+        // keeps the three columns within one order of magnitude so they share a single bar scale.
+        // All four maps are bounded to the rendered 12-month window (see monthlyWindowStart) so
+        // they don't accumulate sets for the entire ~20-year history.
+        private final Map<YearMonth, Set<String>> monthlyNamedNames = new HashMap<>();
+        private final Map<YearMonth, Set<String>> monthlyAutomaticNames = new HashMap<>();
+        // Distinct scanned (groupId, artifactId) per month is just a count: each scanned.tsv file
+        // is exactly one artifact, so counting files that published in a month counts distinct
+        // artifacts. Modular artifacts need a set because one (groupId, artifactId) can appear
+        // under several module-name directories (a JAR that renamed its module across versions).
+        private final Map<YearMonth, long[]> monthlyScannedArtifactCount = new HashMap<>();
+        private final Map<YearMonth, Set<String>> monthlyModularArtifacts = new HashMap<>();
+        // Recent-window (7-day) equivalents.
+        private long recentScannedArtifactCount;
+        private final Set<String> recentModularArtifacts = new HashSet<>();
+        private final YearMonth monthlyWindowStart;
         private long resolvedModuleVersions;
 
         Aggregator(Instant generatedAt, int topN) {
@@ -687,6 +707,9 @@ public final class ModuleSummary {
                 throw new IllegalArgumentException("topN must be >= 1, got " + topN);
             }
             this.topN = topN;
+            // Earliest month the renderer shows (current month minus 11). Distinct tracking is
+            // skipped for anything older to keep the per-month sets small.
+            this.monthlyWindowStart = YearMonth.from(generatedAt.atZone(ZoneOffset.UTC)).minusMonths(11);
         }
 
         void acceptDirectory(Path modulesRoot, Path dir) throws IOException {
@@ -731,17 +754,26 @@ public final class ModuleSummary {
             // Totals (= successful scans minus physical modular JARs) doesn't count audit rows
             // as if they had no module info. The rest of the aggregation uses resolvedVersions.
             totalVersionRowsAll += versions.size();
-            // Per-month / recent raw-modular tally, paired with the scanned-row tally in
-            // acceptScannedFile to derive non-modular publications per bucket. Raw (all rows,
-            // every groupId and classifier) to match the catalogue-wide Totals subtraction.
+            // Distinct modular (groupId, artifactId) per window month and per recent window. Raw
+            // (all rows, every groupId and classifier) so the scanned-minus-modular subtraction
+            // that yields the non-modular count matches the catalogue-wide Totals definition.
             for (ModuleEntry entry : versions) {
-                if (entry.publishedAt() <= 0L) {
+                long pub = entry.publishedAt();
+                if (pub <= 0L) {
                     continue;
                 }
-                YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(entry.publishedAt()).atZone(ZoneOffset.UTC));
-                monthlyModularRaw.computeIfAbsent(bucket, _ -> new long[1])[0]++;
-                if (entry.publishedAt() >= recentCutoffMillis) {
-                    recentModularRaw++;
+                YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(pub).atZone(ZoneOffset.UTC));
+                boolean inWindow = !bucket.isBefore(monthlyWindowStart);
+                boolean inRecent = pub >= recentCutoffMillis;
+                if (!inWindow && !inRecent) {
+                    continue;
+                }
+                String artifactKey = entry.groupId() + '\t' + entry.artifactId();
+                if (inWindow) {
+                    monthlyModularArtifacts.computeIfAbsent(bucket, _ -> new HashSet<>()).add(artifactKey);
+                }
+                if (inRecent) {
+                    recentModularArtifacts.add(artifactKey);
                 }
             }
 
@@ -808,11 +840,14 @@ public final class ModuleSummary {
                 }
                 if (entry.publishedAt() > 0L && entry.type() != null) {
                     YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(entry.publishedAt()).atZone(ZoneOffset.UTC));
-                    long[] counts = monthlyTypeCounts.computeIfAbsent(bucket, _ -> new long[2]);
-                    if (entry.type() == ModuleType.NAMED) {
-                        counts[0]++;
-                    } else if (entry.type() == ModuleType.AUTOMATIC) {
-                        counts[1]++;
+                    if (!bucket.isBefore(monthlyWindowStart)) {
+                        // Distinct module names per month (deduped across versions and classifier
+                        // variants, since the chart counts modules by name, not publication rows).
+                        if (entry.type() == ModuleType.NAMED) {
+                            monthlyNamedNames.computeIfAbsent(bucket, _ -> new HashSet<>()).add(moduleName);
+                        } else if (entry.type() == ModuleType.AUTOMATIC) {
+                            monthlyAutomaticNames.computeIfAbsent(bucket, _ -> new HashSet<>()).add(moduleName);
+                        }
                     }
                 }
                 // Automatic modules have no module-info to declare a version, so they would
@@ -951,6 +986,11 @@ public final class ModuleSummary {
             // a coordinate whose every version is a permanent failure never actually delivered an
             // artifact and shouldn't inflate the catalogue size.
             boolean anySuccess = false;
+            // This file is exactly one (groupId, artifactId); record which window months and the
+            // recent window it published a successful scan in, then bump the per-month distinct-
+            // artifact counts once each (deduping multiple versions in the same month).
+            Set<YearMonth> scannedMonths = null;
+            boolean scannedRecent = false;
             try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
                 Iterator<String> iterator = lines.iterator();
                 while (iterator.hasNext()) {
@@ -967,11 +1007,17 @@ public final class ModuleSummary {
                     scannedArtifactTotal++;
                     if (!entry.isFailed()) {
                         anySuccess = true;
-                        if (entry.publishedAt() > 0L) {
-                            YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(entry.publishedAt()).atZone(ZoneOffset.UTC));
-                            monthlyScannedSuccessful.computeIfAbsent(bucket, _ -> new long[1])[0]++;
-                            if (entry.publishedAt() >= recentCutoffMillis) {
-                                recentScannedSuccessful++;
+                        long pub = entry.publishedAt();
+                        if (pub > 0L) {
+                            YearMonth bucket = YearMonth.from(Instant.ofEpochMilli(pub).atZone(ZoneOffset.UTC));
+                            if (!bucket.isBefore(monthlyWindowStart)) {
+                                if (scannedMonths == null) {
+                                    scannedMonths = new HashSet<>();
+                                }
+                                scannedMonths.add(bucket);
+                            }
+                            if (pub >= recentCutoffMillis) {
+                                scannedRecent = true;
                             }
                         }
                         continue;
@@ -983,6 +1029,14 @@ public final class ModuleSummary {
             }
             if (anySuccess) {
                 distinctMavenArtifactTotal++;
+            }
+            if (scannedMonths != null) {
+                for (YearMonth month : scannedMonths) {
+                    monthlyScannedArtifactCount.computeIfAbsent(month, _ -> new long[1])[0]++;
+                }
+            }
+            if (scannedRecent) {
+                recentScannedArtifactCount++;
             }
         }
 
@@ -1012,7 +1066,7 @@ public final class ModuleSummary {
             TypeBreakdown named = new TypeBreakdown(namedDistinctModules, namedRows);
             TypeBreakdown automatic = new TypeBreakdown(automaticDistinctModules, automaticRows);
             Transitions transitions = new Transitions(autoToNamed, namedToAuto);
-            long recentNonModular = Math.max(0L, recentScannedSuccessful - recentModularRaw);
+            long recentNonModular = Math.max(0L, recentScannedArtifactCount - recentModularArtifacts.size());
             RecentActivity recent = new RecentActivity(
                     modulesPublishedLastWeek,
                     namedModulesPublishedLastWeek,
@@ -1116,11 +1170,12 @@ public final class ModuleSummary {
             List<MonthlyPublication> monthly = new ArrayList<>(12);
             for (int i = 11; i >= 0; i--) {
                 YearMonth month = currentMonth.minusMonths(i);
-                long[] counts = monthlyTypeCounts.getOrDefault(month, new long[2]);
-                long scanned = monthlyScannedSuccessful.getOrDefault(month, new long[1])[0];
-                long modularRaw = monthlyModularRaw.getOrDefault(month, new long[1])[0];
-                long nonModular = Math.max(0L, scanned - modularRaw);
-                monthly.add(new MonthlyPublication(month, counts[0], counts[1], nonModular));
+                long namedNames = monthlyNamedNames.getOrDefault(month, Set.of()).size();
+                long automaticNames = monthlyAutomaticNames.getOrDefault(month, Set.of()).size();
+                long scannedArtifacts = monthlyScannedArtifactCount.getOrDefault(month, new long[1])[0];
+                long modularArtifacts = monthlyModularArtifacts.getOrDefault(month, Set.of()).size();
+                long nonModular = Math.max(0L, scannedArtifacts - modularArtifacts);
+                monthly.add(new MonthlyPublication(month, namedNames, automaticNames, nonModular));
             }
             return new Stats(generatedAt, state, totals, named, automatic, coverage, latestCoverage,
                     mismatchImpact, mismatchPatterns, transitions, recent, monthly, naming, errors, top);
