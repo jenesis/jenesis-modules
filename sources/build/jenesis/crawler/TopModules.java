@@ -127,7 +127,7 @@ public final class TopModules {
 
     /** A rendered detail row plus the classification the summary table aggregates over. */
     private record Row(String[] cells, boolean modular, ModuleType type, boolean declaresModuleVersion,
-                       boolean mavenRelated, boolean pomAggregator, boolean ignored, String groupId) {
+                       boolean mavenRelated, boolean pomAggregator, boolean ignored, boolean maintained, String groupId) {
 
         /** Excluded from the library figures: structurally cannot reflect module adoption. */
         boolean excluded() {
@@ -349,6 +349,7 @@ public final class TopModules {
                 Integer.toString(scanned.versionsInYear()),
                 Long.toString(modulesInYear),
         };
+        boolean maintained = lastPublished >= yearStart;
         boolean mavenRelated = isMavenRelated(target);
         boolean pomAggregator = isPomAggregator(target);
         boolean ignored = isIgnored(target);
@@ -357,7 +358,7 @@ public final class TopModules {
                 cells[index] = "~~" + (cells[index].isEmpty() ? "-" : cells[index]) + "~~";
             }
         }
-        return new Row(cells, modular, type, declaresModuleVersion, mavenRelated, pomAggregator, ignored, target.groupId());
+        return new Row(cells, modular, type, declaresModuleVersion, mavenRelated, pomAggregator, ignored, maintained, target.groupId());
     }
 
     /** True for Maven's own build tooling, whose rows are struck through as ranking noise. */
@@ -464,35 +465,38 @@ public final class TopModules {
         long ignoredRows = rows.stream().filter(row -> row.ignored() && !row.mavenRelated() && !row.pomAggregator()).count();
         long excluded = rows.stream().filter(Row::excluded).count();
         int totalLibraries = total - (int) excluded;
+        int totalMaintained = (int) rows.stream().filter(row -> !row.excluded() && row.maintained()).count();
         GroupStats allGroups = groupStats(rows);
         GroupStats libGroups = groupStats(rows.stream().filter(row -> !row.excluded()).toList());
+        GroupStats maintainedGroups = groupStats(rows.stream().filter(row -> !row.excluded() && row.maintained()).toList());
 
         StringBuilder builder = new StringBuilder();
         builder.append("# Maven Central most downloaded artifacts vs. modules (").append(year).append(")\n\n");
 
         builder.append("**By artifact**\n\n");
-        builder.append("| Category | All listed | Libraries |\n");
-        builder.append("|---|---|---|\n");
-        appendMetric(builder, "Total artifacts", rows, _ -> true, total, totalLibraries);
-        appendMetric(builder, "Modular artifacts", rows, Row::modular, total, totalLibraries);
-        appendMetric(builder, "Automatic modules", rows, row -> row.type() == ModuleType.AUTOMATIC, total, totalLibraries);
-        appendMetric(builder, "Named modules", rows, row -> row.type() == ModuleType.NAMED, total, totalLibraries);
-        appendMetric(builder, "Named modules with declared version", rows, Row::declaresModuleVersion, total, totalLibraries);
-        appendMetric(builder, "Non-modular artifacts", rows, row -> !row.modular(), total, totalLibraries);
+        builder.append("| Category | All listed | Libraries | Maintained |\n");
+        builder.append("|---|---|---|---|\n");
+        appendMetric(builder, "Total artifacts", rows, _ -> true, total, totalLibraries, totalMaintained);
+        appendMetric(builder, "Modular artifacts", rows, Row::modular, total, totalLibraries, totalMaintained);
+        appendMetric(builder, "Automatic modules", rows, row -> row.type() == ModuleType.AUTOMATIC, total, totalLibraries, totalMaintained);
+        appendMetric(builder, "Named modules", rows, row -> row.type() == ModuleType.NAMED, total, totalLibraries, totalMaintained);
+        appendMetric(builder, "Named modules with declared version", rows, Row::declaresModuleVersion, total, totalLibraries, totalMaintained);
+        appendMetric(builder, "Non-modular artifacts", rows, row -> !row.modular(), total, totalLibraries, totalMaintained);
         builder.append('\n');
 
         builder.append("**By groupId**\n\n");
-        builder.append("| Category | All listed | Libraries |\n");
-        builder.append("|---|---|---|\n");
+        builder.append("| Category | All listed | Libraries | Maintained |\n");
+        builder.append("|---|---|---|---|\n");
         long allTotal = allGroups.total();
         long libTotal = libGroups.total();
-        appendGroupMetric(builder, "Total groups", allGroups.total(), allTotal, libGroups.total(), libTotal);
-        appendGroupMetric(builder, "Groups without modules", allGroups.without(), allTotal, libGroups.without(), libTotal);
-        appendGroupMetric(builder, "Partial modularized groups", allGroups.withModules(), allTotal, libGroups.withModules(), libTotal);
-        appendGroupMetric(builder, "Groups with full modularization", allGroups.fully(), allTotal, libGroups.fully(), libTotal);
-        appendGroupMetric(builder, "Groups with named modules only", allGroups.namedOnly(), allTotal, libGroups.namedOnly(), libTotal);
-        appendGroupMetric(builder, "Groups with automatic modules only", allGroups.automaticOnly(), allTotal, libGroups.automaticOnly(), libTotal);
-        appendGroupMetric(builder, "Groups with modules and version info only", allGroups.versionOnly(), allTotal, libGroups.versionOnly(), libTotal);
+        long maintTotal = maintainedGroups.total();
+        appendGroupMetric(builder, "Total groups", allGroups.total(), allTotal, libGroups.total(), libTotal, maintainedGroups.total(), maintTotal);
+        appendGroupMetric(builder, "Groups without modules", allGroups.without(), allTotal, libGroups.without(), libTotal, maintainedGroups.without(), maintTotal);
+        appendGroupMetric(builder, "Partial modularized groups", allGroups.withModules(), allTotal, libGroups.withModules(), libTotal, maintainedGroups.withModules(), maintTotal);
+        appendGroupMetric(builder, "Groups with full modularization", allGroups.fully(), allTotal, libGroups.fully(), libTotal, maintainedGroups.fully(), maintTotal);
+        appendGroupMetric(builder, "Groups with named modules only", allGroups.namedOnly(), allTotal, libGroups.namedOnly(), libTotal, maintainedGroups.namedOnly(), maintTotal);
+        appendGroupMetric(builder, "Groups with automatic modules only", allGroups.automaticOnly(), allTotal, libGroups.automaticOnly(), libTotal, maintainedGroups.automaticOnly(), maintTotal);
+        appendGroupMetric(builder, "Groups with modules and version info only", allGroups.versionOnly(), allTotal, libGroups.versionOnly(), libTotal, maintainedGroups.versionOnly(), maintTotal);
         builder.append('\n');
 
         builder.append("Counts are absolute with the share in parentheses. \"All listed\" covers all ")
@@ -501,7 +505,10 @@ public final class TopModules {
                 .append(" Maven build-tooling, ").append(pomRows)
                 .append(" POM-only parents/BOMs/dependencies, ").append(plural(ignoredRows, "placeholder artifact"))
                 .append(") and is over the remaining ")
-                .append(totalLibraries).append(", as of ").append(year).append("-12-31. Artifact shares are of ")
+                .append(totalLibraries).append(". \"Maintained\" further drops library artifacts with no release during ")
+                .append(year).append(" (the ").append(DORMANT_EMOJI).append(" / ").append(STALE_EMOJI)
+                .append(" flagged ones), leaving ").append(totalMaintained).append(". Everything is as of ")
+                .append(year).append("-12-31. Artifact shares are of ")
                 .append("total artifacts; group shares are of total groups. \"Partial modularized groups\" have at ")
                 .append("least one artifact whose latest version carries a module; \"full modularization\" is the ")
                 .append("subset where every artifact does; the named/automatic/version rows classify groups whose ")
@@ -541,12 +548,14 @@ public final class TopModules {
     }
 
     private static void appendMetric(StringBuilder builder, String label, List<Row> rows,
-                                     Predicate<Row> predicate, int total, int totalLibraries) {
+                                     Predicate<Row> predicate, int total, int totalLibraries, int totalMaintained) {
         long all = rows.stream().filter(predicate).count();
         long libraries = rows.stream().filter(row -> !row.excluded()).filter(predicate).count();
+        long maintained = rows.stream().filter(row -> !row.excluded() && row.maintained()).filter(predicate).count();
         builder.append("| ").append(label)
                 .append(" | ").append(metricCell(all, total))
                 .append(" | ").append(metricCell(libraries, totalLibraries))
+                .append(" | ").append(metricCell(maintained, totalMaintained))
                 .append(" |\n");
     }
 
@@ -597,10 +606,12 @@ public final class TopModules {
     }
 
     private static void appendGroupMetric(StringBuilder builder, String label,
-                                          long allCount, long allTotal, long libCount, long libTotal) {
+                                          long allCount, long allTotal, long libCount, long libTotal,
+                                          long maintCount, long maintTotal) {
         builder.append("| ").append(label)
                 .append(" | ").append(metricCell(allCount, (int) allTotal))
                 .append(" | ").append(metricCell(libCount, (int) libTotal))
+                .append(" | ").append(metricCell(maintCount, (int) maintTotal))
                 .append(" |\n");
     }
 
