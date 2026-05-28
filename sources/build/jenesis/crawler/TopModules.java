@@ -60,7 +60,7 @@ public final class TopModules {
     private static final double MILLIS_PER_YEAR = 365.2425d * 86_400_000d;
     private static final String NAMED_EMOJI = "🏷️"; // label tag
     private static final String AUTOMATIC_EMOJI = "⚙️";   // gear
-    private static final String VERSIONED_EMOJI = "🔖"; // module-info declares a version
+    private static final String VERSIONED_EMOJI = "✅"; // module-info declares a version
     private static final String STALE_EMOJI = "🚩"; // declares a module-info version but no release in three years
 
     /**
@@ -84,6 +84,14 @@ public final class TopModules {
      * excluded from the library figures, like Maven tooling.
      */
     private static final List<String> POM_AGGREGATOR_SUFFIXES = List.of("-parent", "-bom", "-dependencies");
+
+    /**
+     * Hand-listed coordinates excluded as ranking noise: known placeholder or fake artifacts that
+     * crowd the lists without being a real, modularisable library. {@code com.google.guava:listenablefuture}
+     * is Guava's empty {@code 9999.0-empty-to-avoid-conflict-with-guava} stub, published only to
+     * resolve a dependency-graph conflict. Struck through and excluded from the library figures.
+     */
+    private static final Set<String> IGNORED_COORDINATES = Set.of("com.google.guava:listenablefuture");
 
     private static final List<String> HEADERS = List.of(
             "Top",
@@ -119,11 +127,11 @@ public final class TopModules {
 
     /** A rendered detail row plus the classification the summary table aggregates over. */
     private record Row(String[] cells, boolean modular, ModuleType type, boolean declaresModuleVersion,
-                       boolean mavenRelated, boolean pomAggregator, String groupId) {
+                       boolean mavenRelated, boolean pomAggregator, boolean ignored, String groupId) {
 
         /** Excluded from the library figures: structurally cannot reflect module adoption. */
         boolean excluded() {
-            return mavenRelated || pomAggregator;
+            return mavenRelated || pomAggregator || ignored;
         }
     }
 
@@ -336,12 +344,13 @@ public final class TopModules {
         };
         boolean mavenRelated = isMavenRelated(target);
         boolean pomAggregator = isPomAggregator(target);
-        if (mavenRelated || pomAggregator) {
+        boolean ignored = isIgnored(target);
+        if (mavenRelated || pomAggregator || ignored) {
             for (int index = 0; index < cells.length; index++) {
                 cells[index] = "~~" + (cells[index].isEmpty() ? "-" : cells[index]) + "~~";
             }
         }
-        return new Row(cells, modular, type, declaresModuleVersion, mavenRelated, pomAggregator, target.groupId());
+        return new Row(cells, modular, type, declaresModuleVersion, mavenRelated, pomAggregator, ignored, target.groupId());
     }
 
     /** True for Maven's own build tooling, whose rows are struck through as ranking noise. */
@@ -364,6 +373,11 @@ public final class TopModules {
             }
         }
         return false;
+    }
+
+    /** True for hand-listed placeholder/fake coordinates, struck as ranking noise. */
+    private static boolean isIgnored(Artifact artifact) {
+        return IGNORED_COORDINATES.contains(artifact.toString());
     }
 
     /** Whole-and-fractional years for a duration in millis, comma-decimal (e.g. "14,3"). */
@@ -440,13 +454,14 @@ public final class TopModules {
         int total = rows.size();
         long mavenRows = rows.stream().filter(Row::mavenRelated).count();
         long pomRows = rows.stream().filter(row -> row.pomAggregator() && !row.mavenRelated()).count();
+        long ignoredRows = rows.stream().filter(row -> row.ignored() && !row.mavenRelated() && !row.pomAggregator()).count();
         long excluded = rows.stream().filter(Row::excluded).count();
         int totalLibraries = total - (int) excluded;
         GroupStats allGroups = groupStats(rows);
         GroupStats libGroups = groupStats(rows.stream().filter(row -> !row.excluded()).toList());
 
         StringBuilder builder = new StringBuilder();
-        builder.append("# Top artifacts vs. registered modules (").append(year).append(")\n\n");
+        builder.append("# Maven Central most downloaded artifacts vs. modules (").append(year).append(")\n\n");
 
         builder.append("**By artifact**\n\n");
         builder.append("| Category | All listed | Libraries |\n");
@@ -477,7 +492,8 @@ public final class TopModules {
                 .append(total).append(" artifacts; \"Libraries\" excludes the ").append(excluded)
                 .append(" struck rows that cannot reflect module adoption (").append(mavenRows)
                 .append(" Maven build-tooling, ").append(pomRows)
-                .append(" POM-only parents/BOMs/dependencies) and is over the remaining ")
+                .append(" POM-only parents/BOMs/dependencies, ").append(plural(ignoredRows, "placeholder artifact"))
+                .append(") and is over the remaining ")
                 .append(totalLibraries).append(", as of ").append(year).append("-12-31. Artifact shares are of ")
                 .append("total artifacts; group shares are of total groups. \"Partial modularized groups\" have at ")
                 .append("least one artifact whose latest version carries a module; \"full modularization\" is the ")
@@ -497,11 +513,12 @@ public final class TopModules {
                 .append("artifact age from the artifact's first publication, module age from its first module ")
                 .append("publication. The trailing counts are distinct versions: the \"released\" totals cover ")
                 .append("everything up to the year end, \"in year\" only the report year, and the module counts ")
-                .append("only versions that carried a Java module. Two kinds of row are shown struck through and ")
-                .append("excluded from the Libraries column, as they top these rankings for reasons unrelated to ")
-                .append("module adoption and can never carry a module: Maven's own build tooling (").append(mavenRows)
-                .append(" rows: Maven, Plexus, Sonatype/Sisu/Aether) and POM-only aggregators (").append(pomRows)
-                .append(" rows: parents, BOMs and dependency imports, which ship no JAR).\n\n");
+                .append("only versions that carried a Java module. Three kinds of row are shown struck through and ")
+                .append("excluded from the Libraries column, as they crowd these rankings for reasons unrelated to ")
+                .append("module adoption: Maven's own build tooling (").append(plural(mavenRows, "row"))
+                .append(": Maven, Plexus, Sonatype/Sisu/Aether), POM-only aggregators (").append(plural(pomRows, "row"))
+                .append(": parents, BOMs and dependency imports, which ship no JAR), and hand-listed placeholder ")
+                .append("artifacts (").append(plural(ignoredRows, "row")).append(").\n\n");
 
         builder.append("| ").append(String.join(" | ", HEADERS)).append(" |\n");
         builder.append("|").append("---|".repeat(HEADERS.size())).append('\n');
@@ -585,6 +602,10 @@ public final class TopModules {
 
     private static String percent(long count, int total) {
         return total == 0 ? "0,0%" : String.format(Locale.GERMANY, "%.1f%%", 100.0d * count / total);
+    }
+
+    private static String plural(long count, String noun) {
+        return count + " " + noun + (count == 1L ? "" : "s");
     }
 
     private static void printUsage() {
