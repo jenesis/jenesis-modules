@@ -1,0 +1,49 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/5.0.0/views-markup-5.0.0.jar returned status 404
+5.0.0	plain	2023-12-29T02:18:38Z	
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/5.0.1/views-markup-5.0.1.jar returned status 404
+5.0.1	plain	2024-01-17T14:54:22Z	
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/5.0.2/views-markup-5.0.2.jar returned status 404
+5.0.2	plain	2024-01-22T06:30:07Z	
+5.1.0		2024-01-26T10:11:34Z	
+5.1.1		2024-02-23T14:57:38Z	
+5.1.2		2024-02-25T15:35:12Z	
+5.1.3		2024-03-09T03:04:00Z	
+5.1.4		2024-04-01T05:40:19Z	
+5.2.0		2024-03-04T12:24:51Z	
+5.2.1		2024-03-10T12:08:28Z	
+5.2.2		2024-03-20T09:41:59Z	
+5.2.3		2024-03-25T08:02:14Z	
+5.2.4		2024-04-03T09:23:10Z	
+5.2.5		2024-06-06T01:59:22Z	
+5.2.6		2024-06-19T01:10:18Z	
+5.2.7		2024-08-15T09:54:04Z	
+5.2.8		2024-11-16T03:05:29Z	
+6.0.0		2024-08-20T20:12:49Z	
+6.0.0-M1		2024-03-12T12:32:40Z	
+6.0.0-M2		2024-03-16T12:42:10Z	
+6.0.0-M3		2024-05-16T16:53:12Z	
+6.0.0-M4		2024-06-11T07:53:43Z	
+6.0.0-RC1		2024-08-06T09:26:38Z	
+6.0.1		2024-09-06T22:21:05Z	
+6.0.2		2024-10-25T01:02:39Z	
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.1.0/views-markup-6.1.0.jar returned status 404
+6.1.0	plugin	2024-11-20T07:56:58Z	
+6.1.0-M1		2024-10-01T01:18:26Z	
+6.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.1.0-M2/views-markup-6.1.0-M2.jar returned status 404
+6.1.0-M2	plugin	2024-10-16T08:32:42Z	
+6.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.1.0-M3/views-markup-6.1.0-M3.jar returned status 404
+6.1.0-M3	plugin	2024-11-04T14:13:41Z	
+6.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.1.0-RC1/views-markup-6.1.0-RC1.jar returned status 404
+6.1.0-RC1	plugin	2024-11-15T06:45:04Z	
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.2.0/views-markup-6.2.0.jar returned status 404
+6.2.0	plugin	2025-01-06T11:41:42Z	
+6.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.2.0-M1/views-markup-6.2.0-M1.jar returned status 404
+6.2.0-M1	plugin	2024-12-23T01:46:40Z	
+6.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.2.0-RC1/views-markup-6.2.0-RC1.jar returned status 404
+6.2.0-RC1	plugin	2025-01-01T21:23:04Z	
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.3.0/views-markup-6.3.0.jar returned status 404
+6.3.0	plugin	2025-06-12T12:31:21Z	
+6.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.3.0-M1/views-markup-6.3.0-M1.jar returned status 404
+6.3.0-M1	plugin	2025-04-02T01:45:31Z	
+6.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/views-markup/6.3.0-RC1/views-markup-6.3.0-RC1.jar returned status 404
+6.3.0-RC1	plugin	2025-04-29T01:19:09Z	

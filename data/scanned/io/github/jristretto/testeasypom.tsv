@@ -1,0 +1,18 @@
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/17.0.0/testeasypom-17.0.0.jar returned status 404
+17.0.0	jar-with-dependencies	2025-05-03T11:57:42Z	
+17.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/17.0.1/testeasypom-17.0.1.jar returned status 404
+17.0.1	jar-with-dependencies	2025-05-04T08:01:48Z	
+17.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/17.0.2/testeasypom-17.0.2.jar returned status 404
+17.0.2	jar-with-dependencies	2025-05-08T13:40:30Z	
+21.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/21.0.2/testeasypom-21.0.2.jar returned status 404
+21.0.2	jar-with-dependencies	2025-05-17T12:50:17Z	
+24.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/24.0.2/testeasypom-24.0.2.jar returned status 404
+24.0.2	jar-with-dependencies	2025-05-17T13:08:08Z	
+25.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/25.0.1/testeasypom-25.0.1.jar returned status 404
+25.0.1	jar-with-dependencies	2025-10-02T13:04:16Z	
+25.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/25.0.2/testeasypom-25.0.2.jar returned status 404
+25.0.2	jar-with-dependencies	2026-02-18T13:56:36Z	
+25.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/25.0.3/testeasypom-25.0.3.jar returned status 404
+25.0.3	jar-with-dependencies	2026-02-20T10:23:31Z	
+25.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jristretto/testeasypom/25.0.4/testeasypom-25.0.4.jar returned status 404
+25.0.4	jar-with-dependencies	2026-02-22T16:07:39Z	

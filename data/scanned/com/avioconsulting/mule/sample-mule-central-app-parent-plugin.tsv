@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/sample-mule-central-app-parent-plugin/1.0.0/sample-mule-central-app-parent-plugin-1.0.0.jar returned status 404
+1.0.0	mule-plugin	2025-07-24T03:29:29Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/sample-mule-central-app-parent-plugin/1.0.1/sample-mule-central-app-parent-plugin-1.0.1.jar returned status 404
+1.0.1	mule-plugin	2025-07-24T05:43:13Z	

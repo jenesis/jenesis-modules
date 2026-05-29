@@ -1,0 +1,114 @@
+0.10.2		2020-06-13T08:44:09Z	
+0.11.0		2020-07-02T09:42:27Z	
+0.11.1		2020-07-07T14:42:50Z	
+0.11.2		2020-08-31T17:06:30Z	
+0.11.3		2020-09-10T14:36:34Z	
+0.11.4		2020-09-11T19:10:27Z	
+0.11.5		2020-09-11T21:31:44Z	
+0.12.0		2020-09-16T17:02:29Z	
+0.12.1		2020-09-17T09:56:37Z	
+0.13.0		2020-09-24T15:24:31Z	
+0.14.11		2020-10-27T20:13:35Z	
+0.15.0		2020-12-07T14:28:00Z	
+0.15.2		2020-12-17T17:51:03Z	
+0.16.0		2021-01-17T18:52:02Z	
+0.16.1		2021-01-19T15:40:42Z	
+0.16.1-dev4o+a2fea905		2021-03-13T17:05:17Z	
+0.16.1-dev4u+b2f05e44		2021-03-13T18:24:38Z	
+0.16.1-dev4z+7e0f0041		2021-03-14T15:02:26Z	
+0.17.0		2021-03-14T16:47:14Z	
+0.17.1		2021-03-15T09:01:32Z	
+0.17.1-dev03+67bb5e23		2021-04-01T15:24:22Z	
+0.17.1-dev0v+25724c0c		2021-04-19T14:43:08Z	
+0.17.1-dev0w+54dd0dd0		2021-04-19T18:50:09Z	
+0.17.1-dev0z+70805b63		2021-04-20T15:45:49Z	
+0.17.1-dev18+089dd410		2021-04-22T08:31:43Z	
+0.17.1-dev1o+35e72985		2021-05-15T10:44:40Z	
+0.17.2		2021-05-15T11:22:08Z	
+0.17.2-dev03+43981b51		2021-05-17T06:47:09Z	
+0.17.3		2021-05-18T08:25:52Z	
+0.17.3-dev08+7cca0c42		2021-06-15T08:28:50Z	
+0.17.3-dev0a+b6708d58		2021-06-15T08:33:06Z	
+0.17.4		2021-05-18T08:28:06Z	
+0.17.4-dev09+485a46b2		2021-06-15T20:49:00Z	
+0.17.4-dev0j+7e9a6f28		2021-06-16T14:19:34Z	
+0.17.4-dev1d+a1160f82		2021-06-21T17:28:56Z	
+0.17.4-dev1q+a89f03d9		2021-06-25T15:45:06Z	
+0.18.0		2021-06-28T07:42:42Z	
+0.18.1		2021-06-28T13:27:30Z	
+0.18.1-dev05+178b1e2d		2021-07-14T16:34:19Z	
+0.18.2		2021-07-15T08:42:16Z	
+0.18.2-dev0z+13957e4e		2021-08-06T16:39:14Z	
+0.18.2-dev11+a1bd2a91		2021-08-09T16:03:02Z	
+0.19.0		2021-08-09T17:19:28Z	
+0.19.0-dev2h+f6956cce		2021-08-27T18:25:00Z	
+0.20.0		2021-08-30T07:30:20Z	
+0.20.1		2021-09-06T15:55:11Z	
+0.20.2		2021-10-18T09:33:48Z	
+0.20.2-dev07+51892bb0		2021-11-05T15:20:33Z	
+0.20.3		2021-11-05T17:54:51Z	
+0.20.4		2021-11-06T12:28:34Z	
+0.20.7		2022-06-02T15:37:34Z	
+0.20.9		2022-06-14T17:28:56Z	
+0.20.9-dev01+ada92962		2022-06-16T17:03:51Z	
+0.20.9-dev02+01edbfee		2022-06-19T23:29:54Z	
+0.20.9-dev03+3250bb16		2022-06-20T17:27:51Z	
+0.20.9-dev0a+8e9a240b		2022-06-22T16:48:17Z	
+0.20.9-dev0c+bc6d9512		2022-07-06T11:50:05Z	
+0.20.9-dev0g+63540268		2022-07-06T16:14:01Z	
+0.30.0		2022-09-23T08:29:37Z	
+0.30.0-dev01+725eae35		2022-09-26T03:57:51Z	
+0.30.1		2022-09-26T08:13:40Z	
+0.30.2		2022-09-26T15:24:00Z	
+0.30.2-dev08+5b060658		2022-10-12T14:22:00Z	
+0.30.2-dev0f+259d7b5b		2022-10-12T20:37:19Z	
+0.30.3		2022-10-12T21:35:27Z	
+0.30.3-dev0a+69949374d		2022-11-20T07:39:18Z	
+0.30.4		2022-11-20T19:14:58Z	
+0.30.5		2023-02-01T10:43:10Z	
+0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.0/dsl-unify-js-0.31.0.jar returned status 404
+0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.1/dsl-unify-js-0.31.1.jar returned status 404
+0.31.1-dev01+f8b39929b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.1-dev01+f8b39929b/dsl-unify-js-0.31.1-dev01+f8b39929b.jar returned status 404
+0.31.1-dev02+0cd8a1ae6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.1-dev02+0cd8a1ae6/dsl-unify-js-0.31.1-dev02+0cd8a1ae6.jar returned status 404
+0.31.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.10/dsl-unify-js-0.31.10.jar returned status 404
+0.31.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.11/dsl-unify-js-0.31.11.jar returned status 404
+0.31.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.12/dsl-unify-js-0.31.12.jar returned status 404
+0.31.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.13/dsl-unify-js-0.31.13.jar returned status 404
+0.31.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.14/dsl-unify-js-0.31.14.jar returned status 404
+0.31.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.15/dsl-unify-js-0.31.15.jar returned status 404
+0.31.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.16/dsl-unify-js-0.31.16.jar returned status 404
+0.31.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.17/dsl-unify-js-0.31.17.jar returned status 404
+0.31.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.18/dsl-unify-js-0.31.18.jar returned status 404
+0.31.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.19/dsl-unify-js-0.31.19.jar returned status 404
+0.31.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.2/dsl-unify-js-0.31.2.jar returned status 404
+0.31.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.20/dsl-unify-js-0.31.20.jar returned status 404
+0.31.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.21/dsl-unify-js-0.31.21.jar returned status 404
+0.31.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.3/dsl-unify-js-0.31.3.jar returned status 404
+0.31.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.4/dsl-unify-js-0.31.4.jar returned status 404
+0.31.4-dev01+3caf83203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.4-dev01+3caf83203/dsl-unify-js-0.31.4-dev01+3caf83203.jar returned status 404
+0.31.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5/dsl-unify-js-0.31.5.jar returned status 404
+0.31.5-dev01+75e0f28ea			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5-dev01+75e0f28ea/dsl-unify-js-0.31.5-dev01+75e0f28ea.jar returned status 404
+0.31.5-dev02+b65f8712e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5-dev02+b65f8712e/dsl-unify-js-0.31.5-dev02+b65f8712e.jar returned status 404
+0.31.5-dev0c+d53549ad7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5-dev0c+d53549ad7/dsl-unify-js-0.31.5-dev0c+d53549ad7.jar returned status 404
+0.31.5-dev0f+5a2ad7593			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5-dev0f+5a2ad7593/dsl-unify-js-0.31.5-dev0f+5a2ad7593.jar returned status 404
+0.31.5-dev0m+0c07eb350			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.5-dev0m+0c07eb350/dsl-unify-js-0.31.5-dev0m+0c07eb350.jar returned status 404
+0.31.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.7/dsl-unify-js-0.31.7.jar returned status 404
+0.31.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.8/dsl-unify-js-0.31.8.jar returned status 404
+0.31.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.31.9/dsl-unify-js-0.31.9.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.0/dsl-unify-js-0.32.0.jar returned status 404
+0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.1/dsl-unify-js-0.32.1.jar returned status 404
+0.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.2/dsl-unify-js-0.32.2.jar returned status 404
+0.32.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.3/dsl-unify-js-0.32.3.jar returned status 404
+0.32.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.4/dsl-unify-js-0.32.4.jar returned status 404
+0.32.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/0.32.5/dsl-unify-js-0.32.5.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.0.0/dsl-unify-js-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.0.1/dsl-unify-js-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.0.2/dsl-unify-js-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.0.3/dsl-unify-js-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.0.4/dsl-unify-js-1.0.4.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.0/dsl-unify-js-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.1/dsl-unify-js-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.2/dsl-unify-js-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.3/dsl-unify-js-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.4/dsl-unify-js-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/dsl-unify-js/1.1.5/dsl-unify-js-1.1.5.jar returned status 404

@@ -1,0 +1,3 @@
+0.0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/gustavkarlsson/slapshot/slapshot-bom/0.0.0.10/slapshot-bom-0.0.0.10.jar returned status 404
+0.0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/gustavkarlsson/slapshot/slapshot-bom/0.0.0.11/slapshot-bom-0.0.0.11.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/gustavkarlsson/slapshot/slapshot-bom/1.0.0/slapshot-bom-1.0.0.jar returned status 404

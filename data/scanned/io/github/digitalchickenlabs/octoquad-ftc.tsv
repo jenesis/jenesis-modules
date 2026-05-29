@@ -1,0 +1,4 @@
+1.0-A			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/digitalchickenlabs/octoquad-ftc/1.0-A/octoquad-ftc-1.0-A.jar returned status 404
+1.0-B			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/digitalchickenlabs/octoquad-ftc/1.0-B/octoquad-ftc-1.0-B.jar returned status 404
+1.0-C			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/digitalchickenlabs/octoquad-ftc/1.0-C/octoquad-ftc-1.0-C.jar returned status 404
+2.0-A			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/digitalchickenlabs/octoquad-ftc/2.0-A/octoquad-ftc-2.0-A.jar returned status 404

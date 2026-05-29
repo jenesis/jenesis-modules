@@ -1,0 +1,2 @@
+5.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-tck-dist/5.0.0.Alpha2/jakarta.cdi-tck-dist-5.0.0.Alpha2.jar returned status 404
+5.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-tck-dist/5.0.0.Alpha5/jakarta.cdi-tck-dist-5.0.0.Alpha5.jar returned status 404

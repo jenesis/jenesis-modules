@@ -1,0 +1,14 @@
+0.0.1	named	com.google.tsunami	tsunami-main	2020-06-08T22:49:26Z	2.8.6
+0.0.1	named	com.google.tsunami	tcs-main	2022-02-03T18:27:14Z	2.8.6
+5.0.0-RC1	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-08-19T20:38:55Z	2.9.0
+5.0.0-RC1	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-08-19T20:41:10Z	2.9.0
+5.0.0-RC2	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-08-29T18:57:17Z	2.9.1
+5.0.0-RC2	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-08-29T18:58:12Z	2.9.1
+5.0.0	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-09-15T16:50:45Z	2.9.1
+5.0.0	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-09-15T16:51:00Z	2.9.1
+5.1.0	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-11-11T17:40:55Z	2.9.1
+5.1.0	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-11-11T17:43:25Z	2.9.1
+1.1.0	named	de.julielab	julielab-bioportal-ontology-tools	2022-12-03T15:49:41Z	2.10
+1.1.1	named	de.julielab	julielab-bioportal-ontology-tools	2022-12-03T19:16:26Z	2.10
+5.1.1	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-12-15T19:44:30Z	2.10
+5.1.1	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-12-15T19:44:45Z	2.10

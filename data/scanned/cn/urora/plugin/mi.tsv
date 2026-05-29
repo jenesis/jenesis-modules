@@ -1,0 +1,3 @@
+15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/mi/15.0.0/mi-15.0.0.jar returned status 404
+15.0.0-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/mi/15.0.0-debug/mi-15.0.0-debug.jar returned status 404
+15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/mi/15.0.1/mi-15.0.1.jar returned status 404

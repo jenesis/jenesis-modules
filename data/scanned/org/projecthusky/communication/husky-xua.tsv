@@ -1,0 +1,5 @@
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projecthusky/communication/husky-xua/2.5.4/husky-xua-2.5.4.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projecthusky/communication/husky-xua/3.1.0/husky-xua-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projecthusky/communication/husky-xua/3.2.0/husky-xua-3.2.0.jar returned status 404
+3.2.1-OS4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projecthusky/communication/husky-xua/3.2.1-OS4/husky-xua-3.2.1-OS4.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projecthusky/communication/husky-xua/3.3.0/husky-xua-3.3.0.jar returned status 404

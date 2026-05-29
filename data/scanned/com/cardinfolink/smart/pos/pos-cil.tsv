@@ -1,0 +1,32 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/1.0/pos-cil-1.0.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.0/pos-cil-2.0.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.2/pos-cil-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.3/pos-cil-2.3.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.6.5/pos-cil-2.6.5.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.7.0/pos-cil-2.7.0.jar returned status 404
+2.7.0	debug-javadoc	2025-02-10T09:41:59Z	
+2.7.0	debug-sources	2025-02-10T09:42:35Z	
+2.7.0	externaldebug-javadoc	2025-02-10T09:41:00Z	
+2.7.0	externaldebug-sources	2025-02-10T09:42:29Z	
+2.7.0	internaldebug-javadoc	2025-02-10T09:40:51Z	
+2.7.0	internaldebug-sources	2025-02-10T09:40:55Z	
+2.7.0	release-javadoc	2025-02-10T09:42:21Z	
+2.7.0	release-sources	2025-02-10T09:42:38Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.7.1/pos-cil-2.7.1.jar returned status 404
+2.7.1	debug-javadoc	2025-02-11T02:30:13Z	
+2.7.1	debug-sources	2025-02-11T02:30:59Z	
+2.7.1	externaldebug-javadoc	2025-02-11T02:30:38Z	
+2.7.1	externaldebug-sources	2025-02-11T02:30:41Z	
+2.7.1	internaldebug-javadoc	2025-02-11T02:30:44Z	
+2.7.1	internaldebug-sources	2025-02-11T02:30:54Z	
+2.7.1	release-javadoc	2025-02-11T02:31:21Z	
+2.7.1	release-sources	2025-02-11T02:30:50Z	
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cardinfolink/smart/pos/pos-cil/2.7.2/pos-cil-2.7.2.jar returned status 404
+2.7.2	debug-javadoc	2025-03-19T06:25:06Z	
+2.7.2	debug-sources	2025-03-19T06:25:17Z	
+2.7.2	externaldebug-javadoc	2025-03-19T06:23:52Z	
+2.7.2	externaldebug-sources	2025-03-19T06:25:11Z	
+2.7.2	internaldebug-javadoc	2025-03-19T06:25:19Z	
+2.7.2	internaldebug-sources	2025-03-19T06:25:01Z	
+2.7.2	release-javadoc	2025-03-19T06:25:03Z	
+2.7.2	release-sources	2025-03-19T06:24:37Z	

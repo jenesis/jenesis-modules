@@ -1,0 +1,7 @@
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.0/hasher-10.1.0.jar returned status 404
+10.1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.0-rc1/hasher-10.1.0-rc1.jar returned status 404
+10.1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.0-rc2/hasher-10.1.0-rc2.jar returned status 404
+10.1.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.0-rc4/hasher-10.1.0-rc4.jar returned status 404
+10.1.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.0-rc5/hasher-10.1.0-rc5.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.1/hasher-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/schibsted/spt/tracking/hasher/10.1.2/hasher-10.1.2.jar returned status 404

@@ -1,0 +1,62 @@
+3.0.0-M1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2020-04-30T12:37:09Z	
+3.0.0-M2	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2020-11-12T07:25:46Z	
+3.0.0-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2020-11-13T13:24:47Z	
+3.0.0-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2020-12-07T10:58:00Z	
+3.0.0	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2020-12-08T10:14:07Z	
+3.0.1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-04-07T07:28:16Z	
+3.0.2-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-06-07T11:14:27Z	
+3.0.2-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-07-12T09:29:11Z	
+3.0.2	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-07-16T09:39:31Z	
+3.1.0-M1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-08-08T09:13:15Z	3.1.0-M1
+4.0.0-M1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2021-12-17T09:41:44Z	4.0.0-M1
+4.0.0-M2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-03-07T10:27:55Z	4.0.0-M2
+4.0.0-M3	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-03-11T12:19:58Z	4.0.0-M3
+3.0.3-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-04-13T06:19:17Z	
+3.0.3-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-04-23T19:09:44Z	
+3.0.3	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-08-19T11:41:24Z	
+4.0.0-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-09-01T08:10:04Z	4.0.0-RC1
+4.0.0-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-09-09T11:29:06Z	4.0.0-RC2
+4.0.0	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2022-10-05T19:38:53Z	4.0.0
+4.0.1-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-02-07T09:05:25Z	4.0.1-RC1
+4.0.1-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-02-22T11:50:59Z	4.0.1-RC2
+4.0.1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-02-24T11:34:12Z	4.0.1
+4.0.2-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-06-12T19:32:24Z	4.0.2-RC1
+4.0.2-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-06-15T07:20:58Z	4.0.2-RC2
+4.0.2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-06-16T12:23:35Z	4.0.2
+3.0.4-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-10-23T12:10:38Z	
+3.0.4	automatic	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2023-10-25T07:45:08Z	
+5.0.0-B01	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-03-01T13:28:19Z	5.0.0-B01
+5.0.0-B02	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-04-11T17:53:42Z	5.0.0-B02
+4.0.3-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-05-03T18:44:42Z	4.0.3-RC1
+4.0.3-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-05-17T07:57:20Z	4.0.3-RC2
+4.0.3	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-05-22T07:04:42Z	4.0.3
+4.0.4-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-07-15T11:11:59Z	4.0.4-RC1
+4.0.4	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-07-19T07:54:26Z	4.0.4
+5.0.0-B03	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-09-12T10:30:08Z	5.0.0-B03
+5.0.0-B04	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-11-19T18:23:58Z	5.0.0-B04
+5.0.0-B05	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-12-16T18:42:50Z	5.0.0-B05
+4.0.5-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-12-19T08:10:29Z	4.0.5-RC1
+4.0.5-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-12-20T10:15:50Z	4.0.5-RC2
+4.0.5-RC3	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-12-22T17:24:32Z	4.0.5-RC3
+4.0.5	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2024-12-23T11:43:25Z	4.0.5
+5.0.0-B06	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-02-01T10:30:17Z	5.0.0-B06
+5.0.0-B07	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-03-06T10:45:30Z	5.0.0-B07
+4.0.6-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-04-04T09:24:42Z	4.0.6-RC1
+4.0.6	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-04-09T08:15:41Z	4.0.6
+5.0.0-B08	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-05-28T09:54:46Z	5.0.0-B08
+4.0.7-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-06-12T12:01:19Z	4.0.7-RC1
+4.0.7-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-06-18T07:13:50Z	4.0.7-RC2
+4.0.7	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-06-24T08:05:22Z	4.0.7
+5.0.0-B09	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-07-11T11:59:27Z	5.0.0-B09
+5.0.0-B10	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-08-25T07:39:37Z	5.0.0-B10
+4.0.8-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-09-23T18:40:40Z	4.0.8-RC1
+4.0.8	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-09-25T07:59:16Z	4.0.8
+5.0.0-B11	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-10-06T14:06:06Z	5.0.0-B11
+5.0.0-B12	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-12-10T09:38:55Z	5.0.0-B12
+5.0.0-B13	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-12-11T14:55:14Z	5.0.0-B13
+4.0.9-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2025-12-22T07:46:02Z	4.0.9-RC1
+4.0.9	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2026-01-02T11:57:32Z	4.0.9
+5.0.0-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2026-03-10T07:21:29Z	5.0.0-RC1
+5.0.0-RC2	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2026-03-19T08:42:00Z	5.0.0-RC2
+5.0.0	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2026-03-23T09:32:10Z	5.0.0
+5.0.1-RC1	named	org.eclipse.persistence	org.eclipse.persistence.jpa.jpql	2026-05-11T10:05:18Z	5.0.1-RC1

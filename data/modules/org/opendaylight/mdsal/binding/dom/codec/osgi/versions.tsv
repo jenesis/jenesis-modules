@@ -1,0 +1,54 @@
+9.0.2	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-04-14T08:13:30Z	
+9.0.3	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-05-11T12:43:20Z	
+9.0.4	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-05-25T18:55:04Z	
+10.0.0	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-06-27T09:28:54Z	10.0.0
+10.0.1	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-08-18T08:44:30Z	10.0.1
+9.0.5	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-08-20T14:24:17Z	
+10.0.2	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-09-14T13:06:28Z	10.0.2
+9.0.6	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-10-28T18:32:29Z	
+10.0.3	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-11-04T20:37:36Z	10.0.3
+11.0.0	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-11-25T17:21:55Z	11.0.0
+10.0.4	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-11-28T19:10:49Z	10.0.4
+11.0.1	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-11-28T18:24:18Z	11.0.1
+10.0.5	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-12-03T18:36:49Z	10.0.5
+9.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-11-28T19:12:31Z	
+11.0.2	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-12-04T16:34:41Z	11.0.2
+11.0.3	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2022-12-18T10:50:18Z	11.0.3
+10.0.6	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-01-01T15:54:10Z	10.0.6
+11.0.4	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-01-19T18:05:05Z	11.0.4
+11.0.5	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-02-01T13:36:28Z	11.0.5
+11.0.6	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-02-05T11:12:40Z	11.0.6
+11.0.7	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-02-23T10:30:45Z	11.0.7
+9.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-03-16T13:14:56Z	
+10.0.7	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-04-11T22:57:37Z	10.0.7
+11.0.9	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-04-20T15:39:22Z	11.0.9
+11.0.8	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-04-17T09:36:00Z	11.0.8
+11.0.10	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-05-27T11:46:00Z	11.0.10
+10.0.8	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-05-29T21:12:35Z	10.0.8
+11.0.11	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-06-07T15:25:50Z	11.0.11
+12.0.0	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-06-29T23:01:47Z	12.0.0
+11.0.12	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-07-26T15:25:30Z	11.0.12
+12.0.1	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-08-30T15:19:30Z	12.0.1
+12.0.2	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-09-17T09:48:03Z	12.0.2
+11.0.13	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-10-09T21:51:47Z	11.0.13
+11.0.14	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-10-23T10:50:47Z	11.0.14
+11.0.15	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-10-25T00:56:00Z	11.0.15
+12.0.3	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-10-30T18:29:18Z	12.0.3
+10.0.9	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-10-30T14:16:31Z	10.0.9
+12.0.4	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2023-12-28T12:12:25Z	12.0.4
+13.0.0	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-01-20T13:53:08Z	13.0.0
+13.0.1	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-03-14T06:24:04Z	13.0.1
+12.0.5	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-03-19T08:48:58Z	12.0.5
+13.0.2	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-04-16T10:22:34Z	13.0.2
+11.0.16	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-04-24T15:42:00Z	11.0.16
+13.0.3	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-05-05T04:13:13Z	13.0.3
+13.0.4	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-06-03T16:21:46Z	13.0.4
+12.0.6	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-06-03T22:33:48Z	12.0.6
+13.0.6	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-08-30T15:52:11Z	13.0.6
+13.0.5	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-08-25T16:32:38Z	13.0.5
+12.0.7	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-10-08T13:48:26Z	12.0.7
+12.0.8	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-10-18T08:39:07Z	12.0.8
+13.0.7	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2024-11-11T13:58:09Z	13.0.7
+13.0.8	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2025-01-28T19:38:09Z	13.0.8
+13.0.9	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2025-07-13T17:16:31Z	13.0.9
+13.0.10	named	org.opendaylight.mdsal	mdsal-binding-dom-codec-osgi	2025-07-14T20:07:04Z	13.0.10

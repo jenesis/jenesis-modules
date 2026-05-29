@@ -1,0 +1,19 @@
+4.2.0		2014-07-01T12:23:39Z	
+4.2.0	with-dependencies	2014-07-01T12:23:57Z	
+4.2.1		2014-07-14T10:55:31Z	
+4.2.1	with-dependencies	2014-07-14T10:55:52Z	
+4.2.2		2014-07-14T17:55:26Z	
+4.2.2	with-dependencies	2014-07-14T17:55:53Z	
+5.0.0		2020-10-05T10:20:27Z	
+5.0.0	with-dependencies	2020-10-05T10:20:29Z	
+5.0.1		2021-12-10T17:58:18Z	
+5.0.1	with-dependencies	2021-12-10T17:58:20Z	
+5.1.0		2021-12-11T13:23:29Z	
+5.1.0	with-dependencies	2021-12-11T13:23:31Z	
+5.1.1		2021-12-14T23:19:41Z	
+5.1.1	with-dependencies	2021-12-14T23:19:43Z	
+5.1.2		2021-12-30T09:29:56Z	
+5.1.2	with-dependencies	2021-12-30T09:29:59Z	
+5.2.0		2022-07-03T15:16:02Z	
+5.2.0	with-dependencies	2022-07-03T15:16:06Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/ac/cam/ch/wwmm/oscar/oscar4-all/5.3.0/oscar4-all-5.3.0.jar returned status 404

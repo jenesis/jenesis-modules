@@ -1,0 +1,5 @@
+1.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/arim/dazzleconf/dazzleconf-parent/1.3.0-RC1/dazzleconf-parent-1.3.0-RC1.jar returned status 404
+1.4.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/arim/dazzleconf/dazzleconf-parent/1.4.0-M1/dazzleconf-parent-1.4.0-M1.jar returned status 404
+1.4.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/arim/dazzleconf/dazzleconf-parent/1.4.0-M2/dazzleconf-parent-1.4.0-M2.jar returned status 404
+2.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/arim/dazzleconf/dazzleconf-parent/2.0.0-M1/dazzleconf-parent-2.0.0-M1.jar returned status 404
+2.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/arim/dazzleconf/dazzleconf-parent/2.0.0-M2/dazzleconf-parent-2.0.0-M2.jar returned status 404

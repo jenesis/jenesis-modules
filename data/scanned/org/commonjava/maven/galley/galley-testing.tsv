@@ -1,0 +1,2 @@
+1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonjava/maven/galley/galley-testing/1.21/galley-testing-1.21.jar returned status 404
+1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonjava/maven/galley/galley-testing/1.22/galley-testing-1.22.jar returned status 404

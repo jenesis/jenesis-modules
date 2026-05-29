@@ -1,0 +1,5 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pichsy/xbase/3.0.0/xbase-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pichsy/xbase/3.1.0/xbase-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pichsy/xbase/3.1.1/xbase-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pichsy/xbase/3.1.2/xbase-3.1.2.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pichsy/xbase/3.2.0/xbase-3.2.0.jar returned status 404

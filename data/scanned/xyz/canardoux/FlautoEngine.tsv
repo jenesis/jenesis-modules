@@ -1,0 +1,8 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.1/FlautoEngine-0.0.1.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.2/FlautoEngine-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.3/FlautoEngine-0.0.3.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.5/FlautoEngine-0.0.5.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.6/FlautoEngine-0.0.6.jar returned status 404
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/0.0.7/FlautoEngine-0.0.7.jar returned status 404
+release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/release/FlautoEngine-release.jar returned status 404
+toto			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/canardoux/FlautoEngine/toto/FlautoEngine-toto.jar returned status 404

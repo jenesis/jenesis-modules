@@ -1,0 +1,6 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/4.0.0/evomaster-4.0.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/5.0.0/evomaster-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/5.0.1/evomaster-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/5.0.2/evomaster-5.0.2.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/5.1.0/evomaster-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/evomaster/evomaster/5.2.0/evomaster-5.2.0.jar returned status 404

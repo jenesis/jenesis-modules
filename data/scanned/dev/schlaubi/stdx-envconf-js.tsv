@@ -1,0 +1,6 @@
+1.0.0		2022-03-29T16:27:41Z	
+1.0.1		2022-03-29T19:10:44Z	
+1.1.0		2022-04-06T18:22:17Z	
+1.2.1		2022-07-10T16:22:43Z	
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schlaubi/stdx-envconf-js/1.3.0/stdx-envconf-js-1.3.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schlaubi/stdx-envconf-js/2.0.0/stdx-envconf-js-2.0.0.jar returned status 404

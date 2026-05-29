@@ -1,0 +1,10 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0/updater-1.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0.0/updater-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0.1/updater-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0.2/updater-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0.3/updater-1.0.3.jar returned status 404
+1.0.3	debug-javadoc	2022-06-09T10:05:38Z	
+1.0.3	debug-sources	2022-06-09T10:05:43Z	
+1.0.3	release-javadoc	2022-06-09T10:05:46Z	
+1.0.3	release-sources	2022-06-09T10:05:45Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/legato/libraries/updater/1.0.4/updater-1.0.4.jar returned status 404

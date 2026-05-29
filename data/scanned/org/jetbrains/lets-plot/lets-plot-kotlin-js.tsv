@@ -1,0 +1,40 @@
+3.0.0		2021-06-04T16:25:54Z	
+3.0.1		2021-06-09T21:38:47Z	
+3.0.2		2021-08-16T22:39:39Z	
+3.0.3-alpha1		2021-08-23T17:42:04Z	
+3.1.0		2021-11-05T19:43:49Z	
+3.1.1		2021-12-13T21:52:41Z	
+3.2.0		2022-03-29T18:30:39Z	
+3.3.0		2022-06-27T20:39:15Z	
+4.0.0		2022-07-25T17:14:02Z	
+4.1.0		2022-09-30T19:41:59Z	
+4.1.1		2022-11-08T21:23:40Z	
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.10.0/lets-plot-kotlin-js-4.10.0.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.0/lets-plot-kotlin-js-4.11.0.jar returned status 404
+4.11.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.0-rc1/lets-plot-kotlin-js-4.11.0-rc1.jar returned status 404
+4.11.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.0-rc2/lets-plot-kotlin-js-4.11.0-rc2.jar returned status 404
+4.11.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.0-rc3/lets-plot-kotlin-js-4.11.0-rc3.jar returned status 404
+4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.1/lets-plot-kotlin-js-4.11.1.jar returned status 404
+4.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.11.2/lets-plot-kotlin-js-4.11.2.jar returned status 404
+4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.12.0/lets-plot-kotlin-js-4.12.0.jar returned status 404
+4.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.12.1/lets-plot-kotlin-js-4.12.1.jar returned status 404
+4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.13.0/lets-plot-kotlin-js-4.13.0.jar returned status 404
+4.14.0-dev1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.14.0-dev1/lets-plot-kotlin-js-4.14.0-dev1.jar returned status 404
+4.2.0		2022-12-30T01:18:48Z	
+4.3.0		2023-03-10T00:42:20Z	
+4.4.0		2023-05-10T19:33:27Z	
+4.4.1		2023-05-11T20:27:42Z	
+4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.4.2/lets-plot-kotlin-js-4.4.2.jar returned status 404
+4.4.2-alpha1		2023-08-01T19:40:11Z	
+4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.4.3/lets-plot-kotlin-js-4.4.3.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.5.0/lets-plot-kotlin-js-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.6.0/lets-plot-kotlin-js-4.6.0.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.7.0/lets-plot-kotlin-js-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.7.1/lets-plot-kotlin-js-4.7.1.jar returned status 404
+4.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.7.2/lets-plot-kotlin-js-4.7.2.jar returned status 404
+4.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.7.3/lets-plot-kotlin-js-4.7.3.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.8.0/lets-plot-kotlin-js-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.9.0/lets-plot-kotlin-js-4.9.0.jar returned status 404
+4.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.9.1/lets-plot-kotlin-js-4.9.1.jar returned status 404
+4.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.9.2/lets-plot-kotlin-js-4.9.2.jar returned status 404
+4.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-js/4.9.3/lets-plot-kotlin-js-4.9.3.jar returned status 404

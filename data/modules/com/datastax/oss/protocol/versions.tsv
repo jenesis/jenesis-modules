@@ -1,0 +1,12 @@
+1.4.10	automatic	com.datastax.oss	native-protocol	2020-04-27T18:41:56Z	
+1.4.11-yb-3	automatic	com.yugabyte	native-protocol	2020-07-10T22:12:16Z	
+1.4.11	automatic	com.datastax.oss	native-protocol	2020-07-27T22:31:51Z	
+1.4.12	automatic	com.datastax.oss	native-protocol	2021-01-12T14:08:23Z	
+1.5.0	automatic	com.datastax.oss	native-protocol	2021-03-24T13:21:53Z	
+1.5.1-yb-1	automatic	com.yugabyte	native-protocol	2021-09-01T09:21:38Z	
+1.5.1	automatic	com.datastax.oss	native-protocol	2022-02-15T20:34:03Z	
+1.5.1-yb-2	automatic	com.yugabyte	native-protocol	2023-08-09T05:26:30Z	
+1.5.2	automatic	com.datastax.oss	native-protocol	2025-03-12T22:25:22Z	
+1.5.2.0	automatic	com.scylladb	native-protocol	2025-09-17T18:10:42Z	
+1.5.2.1	automatic	com.scylladb	native-protocol	2025-11-06T18:16:20Z	
+1.5.2.2	automatic	com.scylladb	native-protocol	2026-02-18T10:58:47Z	

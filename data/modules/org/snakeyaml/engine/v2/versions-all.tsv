@@ -1,0 +1,14 @@
+1.23.7	named	io.gitlab.arturbosch.detekt	detekt-cli	2024-09-08T14:00:37Z	2.7
+1.23.7	named	io.github.detekt	detekt-compiler-plugin	2024-09-08T14:01:25Z	2.7
+1.23.7	named	io.gitlab.arturbosch.detekt	detekt-generator	2024-09-08T14:01:58Z	2.7
+1.0.0-beta0	named	com.zmkn	service-kotlin	2025-01-09T07:28:42Z	2.9-SNAPSHOT
+1.0.0-beta0	named	com.zmkn	module-kotlin	2025-01-09T08:07:11Z	2.9-SNAPSHOT
+1.0.0-beta0	named	com.zmkn	public-kotlin	2025-01-09T12:17:21Z	2.9-SNAPSHOT
+1.0.7	named	eu.koboo	yml-config	2025-02-08T10:47:59Z	2.9
+1.23.8	named	io.gitlab.arturbosch.detekt	detekt-cli	2025-02-21T11:58:35Z	2.7
+1.23.8	named	io.github.detekt	detekt-compiler-plugin	2025-02-21T11:58:51Z	2.7
+1.23.8	named	io.gitlab.arturbosch.detekt	detekt-generator	2025-02-21T11:59:15Z	2.7
+1.0.8	named	eu.koboo	yml-config	2025-02-23T20:32:43Z	2.9
+1.0.11	named	eu.koboo	yml-config	2026-03-05T14:49:57Z	2.10
+0.2.0	named	io.github.phompang	danger-kotlin-android-lint-plugin	2026-03-06T07:59:10Z	2.10
+0.2.1	named	io.github.phompang	danger-kotlin-android-lint-plugin	2026-03-06T10:19:18Z	2.10

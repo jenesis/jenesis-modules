@@ -1,0 +1,13 @@
+"2.3.1"			IllegalArgumentException: Illegal character in path at index 14: io/kronor/api/"2.3.1"/api-"2.3.1".jar
+"2.3.4"			IllegalArgumentException: Illegal character in path at index 14: io/kronor/api/"2.3.4"/api-"2.3.4".jar
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/1.1/api-1.1.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.0/api-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.1/api-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.2/api-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3/api-2.3.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3.1/api-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3.2/api-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3.3/api-2.3.3.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3.4/api-2.3.4.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/3.0.1/api-3.0.1.jar returned status 404
+v2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/v2.3.1/api-v2.3.1.jar returned status 404

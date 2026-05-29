@@ -1,0 +1,1594 @@
+1.7.0	automatic	net.bytebuddy	byte-buddy	2017-05-14T20:59:57Z	
+1.7.1	automatic	net.bytebuddy	byte-buddy	2017-06-15T19:52:33Z	
+1.7.2	automatic	net.bytebuddy	byte-buddy	2017-08-04T22:02:37Z	
+1.7.3	automatic	net.bytebuddy	byte-buddy	2017-08-13T09:29:09Z	
+1.7.4	automatic	net.bytebuddy	byte-buddy	2017-08-30T20:43:11Z	
+1.7.5	automatic	net.bytebuddy	byte-buddy	2017-08-31T19:22:32Z	
+1.7.6	automatic	net.bytebuddy	byte-buddy	2017-10-08T12:22:32Z	
+1.7.7	automatic	net.bytebuddy	byte-buddy	2017-10-22T13:58:25Z	
+1.7.8	automatic	net.bytebuddy	byte-buddy	2017-10-23T22:38:15Z	
+1.7.9	automatic	net.bytebuddy	byte-buddy	2017-11-06T22:04:59Z	
+1.7.10	automatic	net.bytebuddy	byte-buddy	2018-02-01T20:31:37Z	
+1.7.11	automatic	net.bytebuddy	byte-buddy	2018-03-02T17:46:19Z	
+1.8.0	automatic	net.bytebuddy	byte-buddy	2018-03-13T18:42:52Z	
+1.8.1	automatic	net.bytebuddy	byte-buddy	2018-03-28T08:42:58Z	
+1.8.2	automatic	net.bytebuddy	byte-buddy	2018-03-31T07:40:19Z	
+1.8.3	automatic	net.bytebuddy	byte-buddy	2018-03-31T15:37:25Z	
+1.8.4	automatic	net.bytebuddy	byte-buddy	2018-04-15T18:26:09Z	
+1.8.5	automatic	net.bytebuddy	byte-buddy	2018-04-15T20:09:23Z	
+1.8.6	automatic	net.bytebuddy	byte-buddy	2018-04-18T20:03:56Z	
+1.8.7	automatic	net.bytebuddy	byte-buddy	2018-04-19T20:59:41Z	
+1.8.8	automatic	net.bytebuddy	byte-buddy	2018-04-20T13:09:21Z	
+1.8.9	automatic	net.bytebuddy	byte-buddy	2018-04-27T16:12:16Z	
+1.8.10	automatic	net.bytebuddy	byte-buddy	2018-04-28T08:40:04Z	
+1.8.11	automatic	net.bytebuddy	byte-buddy	2018-05-04T18:03:52Z	
+1.8.12	automatic	net.bytebuddy	byte-buddy	2018-05-25T19:46:01Z	
+1.8.13	automatic	net.bytebuddy	byte-buddy	2018-07-05T21:04:14Z	
+1.8.14	automatic	net.bytebuddy	byte-buddy	2018-07-23T21:50:31Z	
+1.8.15	automatic	net.bytebuddy	byte-buddy	2018-07-26T21:49:26Z	
+1.8.16	automatic	net.bytebuddy	byte-buddy	2018-08-03T17:09:17Z	
+1.8.17	automatic	net.bytebuddy	byte-buddy	2018-08-06T19:27:10Z	
+1.8.18	automatic	net.bytebuddy	byte-buddy	2018-08-27T19:34:31Z	
+1.8.19	automatic	net.bytebuddy	byte-buddy	2018-08-28T20:45:20Z	
+1.8.20	automatic	net.bytebuddy	byte-buddy	2018-08-29T21:51:20Z	
+1.8.21	automatic	net.bytebuddy	byte-buddy	2018-09-02T21:18:14Z	
+1.8.22	automatic	net.bytebuddy	byte-buddy	2018-09-08T19:13:08Z	
+1.9.0	named	net.bytebuddy	byte-buddy	2018-09-29T19:53:19Z	
+1.9.1	named	net.bytebuddy	byte-buddy	2018-10-05T17:30:43Z	
+1.9.2	named	net.bytebuddy	byte-buddy	2018-10-15T20:37:36Z	
+1.9.3	named	net.bytebuddy	byte-buddy	2018-10-28T18:05:14Z	
+3.0.1	named	nl.jqno.equalsverifier	equalsverifier	2018-10-29T17:59:02Z	
+3.0.2	named	nl.jqno.equalsverifier	equalsverifier	2018-10-31T15:22:54Z	
+6.0.0-alpha	named	org.apache.skywalking	apm-agent	2018-11-04T14:43:40Z	
+1.0.0.RC1	named	co.elastic.apm	elastic-apm-agent	2018-11-06T09:16:32Z	
+1.0.0	named	com.criteo.java	garmadon-agent	2018-11-12T13:56:31Z	
+1.9.4	named	net.bytebuddy	byte-buddy	2018-11-13T21:51:23Z	
+1.0.0	named	co.elastic.apm	elastic-apm-agent	2018-11-14T14:46:28Z	
+1.0.1	named	co.elastic.apm	elastic-apm-agent	2018-11-15T16:22:35Z	
+1.1.0	named	com.criteo.java	garmadon-agent	2018-11-22T09:47:13Z	
+1.9.5	named	net.bytebuddy	byte-buddy	2018-11-22T17:30:52Z	
+1.12.0	named	io.aeron	aeron-all	2018-11-25T16:19:53Z	
+1.1.0	named	co.elastic.apm	elastic-apm-agent	2018-11-27T13:55:43Z	
+1.94	named	com.proofpoint.platform	jaxrs	2018-11-28T23:03:30Z	
+1.95	named	com.proofpoint.platform	jaxrs	2018-12-04T20:06:28Z	
+2.9.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2018-12-06T06:44:35Z	
+2.9.0	named	org.apache.beam	beam-runners-reference-job-server	2018-12-06T06:47:57Z	
+2.9.0	named	org.apache.beam	beam-sdks-java-core	2018-12-06T06:49:55Z	
+2.9.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2018-12-06T06:54:52Z	
+2.9.0	named	org.apache.beam	beam-sdks-java-harness	2018-12-06T06:56:26Z	
+1.2.0	named	com.criteo.java	garmadon-agent	2018-12-12T17:19:55Z	
+4.10.0	named	org.choco-solver	choco-solver	2018-12-13T15:18:14Z	
+1.9.6	named	net.bytebuddy	byte-buddy	2018-12-13T21:26:27Z	
+6.0.0-beta	named	org.apache.skywalking	apm-agent	2018-12-14T10:25:15Z	
+1.13.0	named	io.aeron	aeron-all	2018-12-16T18:14:09Z	
+1.1.0-alpha	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2018-12-18T20:43:42Z	
+1.1.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2018-12-21T16:09:37Z	
+1.96	named	com.proofpoint.platform	jaxrs	2019-01-03T00:12:46Z	
+1.14.0	named	io.aeron	aeron-all	2019-01-06T18:44:51Z	
+1.9.7	named	net.bytebuddy	byte-buddy	2019-01-10T22:25:16Z	
+1.3.0	named	com.criteo.java	garmadon-agent	2019-01-15T10:53:45Z	
+1.97	named	com.proofpoint.platform	jaxrs	2019-01-17T22:45:59Z	
+6.0.0-GA	named	org.apache.skywalking	apm-agent	2019-01-21T04:01:14Z	
+2.15.1	named	org.redisson	redisson-all	2019-01-21T08:09:50Z	
+3.10.1	named	org.redisson	redisson-all	2019-01-21T08:21:07Z	
+1.15.0	named	io.aeron	aeron-all	2019-01-21T19:10:12Z	
+1.1.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-01-24T14:33:23Z	
+1.9.8	named	net.bytebuddy	byte-buddy	2019-01-24T19:54:08Z	
+1.15.1	named	io.aeron	aeron-all	2019-01-30T20:45:13Z	
+1.9.9	named	net.bytebuddy	byte-buddy	2019-02-04T00:14:57Z	
+1.15.2	named	io.aeron	aeron-all	2019-02-05T20:47:03Z	
+2.10.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-02-06T19:28:48Z	
+2.10.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-02-06T19:29:44Z	
+2.10.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-02-06T19:30:02Z	
+2.10.0	named	org.apache.beam	beam-runners-reference-job-server	2019-02-06T19:30:45Z	
+2.10.0	named	org.apache.beam	beam-sdks-java-core	2019-02-06T19:31:40Z	
+2.10.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-02-06T19:33:46Z	
+2.10.0	named	org.apache.beam	beam-sdks-java-harness	2019-02-06T19:34:27Z	
+1.9.10	named	net.bytebuddy	byte-buddy	2019-02-11T18:13:13Z	
+3.12.0	named	org.assertj	assertj-core	2019-02-14T10:06:27Z	
+1.98	named	com.proofpoint.platform	jaxrs	2019-02-15T20:19:14Z	
+1.99	named	com.proofpoint.platform	jaxrs	2019-02-16T00:45:50Z	
+1.15.3	named	io.aeron	aeron-all	2019-02-16T17:48:58Z	
+2.00	named	com.proofpoint.platform	jaxrs	2019-02-20T23:45:39Z	
+2.01	named	com.proofpoint.platform	jaxrs	2019-02-25T18:31:27Z	
+2.11.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-02-26T09:05:08Z	
+2.11.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-02-26T09:07:47Z	
+2.11.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-02-26T09:10:25Z	
+2.11.0	named	org.apache.beam	beam-runners-reference-job-server	2019-02-26T09:11:21Z	
+2.11.0	named	org.apache.beam	beam-sdks-java-core	2019-02-26T09:14:36Z	
+2.11.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-02-26T09:15:53Z	
+2.11.0	named	org.apache.beam	beam-sdks-java-harness	2019-02-26T09:16:57Z	
+0.9.0	named	io.opentracing.contrib.specialagent	opentracing-specialagent	2019-02-28T16:17:28Z	
+1.1.1-eap13	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-03-05T12:57:21Z	
+1.16.0	named	io.aeron	aeron-all	2019-03-10T18:53:16Z	
+1.9.11	named	net.bytebuddy	byte-buddy	2019-03-21T20:23:20Z	
+1.2.0-alpha	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-03-26T17:45:18Z	
+1.9.12	named	net.bytebuddy	byte-buddy	2019-03-26T22:13:14Z	
+1.17.0	named	io.aeron	aeron-all	2019-03-28T15:58:16Z	
+1.0.1	named	io.opentracing.contrib.specialagent	opentracing-specialagent	2019-03-29T13:27:32Z	
+1.2.0-alpha-2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-04-04T13:03:44Z	
+1.0.2	named	io.opentracing.contrib.specialagent	opentracing-specialagent	2019-04-05T10:07:32Z	
+1.3.1	named	com.criteo.java	garmadon-agent	2019-04-08T14:39:13Z	
+2.02	named	com.proofpoint.platform	jaxrs	2019-04-08T17:17:48Z	
+1.2.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-04-12T18:21:45Z	
+2.12.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-04-15T21:36:58Z	
+2.12.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-04-15T21:39:49Z	
+2.12.0	named	org.apache.beam	beam-runners-reference-job-server	2019-04-15T21:42:12Z	
+2.12.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-04-15T21:43:19Z	
+2.12.0	named	org.apache.beam	beam-sdks-java-core	2019-04-15T21:44:42Z	
+2.12.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-04-15T21:47:26Z	
+2.12.0	named	org.apache.beam	beam-sdks-java-harness	2019-04-15T21:48:58Z	
+2.03	named	com.proofpoint.platform	jaxrs	2019-04-16T22:57:14Z	
+2.04	named	com.proofpoint.platform	jaxrs	2019-04-23T18:29:42Z	
+0.1.0-beta1	named	com.undefinedlabs.scope	scope-agent	2019-04-24T09:37:48Z	
+0.1.0	named	com.undefinedlabs.scope	scope-agent	2019-04-24T14:23:53Z	
+1.0.0-M1	named	io.kamon	kanela-agent	2019-04-25T00:56:17Z	
+1.2.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-04-26T08:29:45Z	
+0.1.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-04-29T06:49:34Z	
+0.1.1-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-04-30T14:35:55Z	
+1.18.0	named	io.aeron	aeron-all	2019-05-03T17:06:02Z	
+0.1.1-rc.1	named	com.undefinedlabs.scope	scope-agent	2019-05-07T07:01:46Z	
+0.1.1	named	com.undefinedlabs.scope	scope-agent	2019-05-07T09:23:50Z	
+0.1.2-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-05-08T07:39:37Z	
+4.0.1	named	org.opendaylight.mdsal	mdsal-binding-dom-codec	2019-05-09T06:38:21Z	
+0.1.2-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-05-09T06:52:07Z	
+0.1.2-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-05-09T14:38:40Z	
+0.1.2-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-05-14T07:41:42Z	
+0.1.2	named	com.undefinedlabs.scope	scope-agent	2019-05-14T09:48:51Z	
+0.1.3-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-05-17T14:22:03Z	
+1.0.0-M2	named	io.kamon	kanela-agent	2019-05-23T00:58:51Z	
+2.05	named	com.proofpoint.platform	jaxrs	2019-05-24T18:12:40Z	
+1.9.13	named	net.bytebuddy	byte-buddy	2019-05-24T22:59:19Z	
+1.19.0	named	io.aeron	aeron-all	2019-05-25T17:15:09Z	
+1.19.1	named	io.aeron	aeron-all	2019-05-26T17:35:26Z	
+1.0.0-M3	named	io.kamon	kanela-agent	2019-05-28T22:40:33Z	
+2.13.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-05-30T00:23:02Z	
+2.13.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-05-30T00:23:52Z	
+2.13.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2019-05-30T00:24:27Z	
+2.13.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-05-30T00:25:07Z	
+2.13.0	named	org.apache.beam	beam-runners-reference-job-server	2019-05-30T00:26:25Z	
+2.13.0	named	org.apache.beam	beam-sdks-java-core	2019-05-30T00:27:11Z	
+2.13.0	named	org.apache.beam	beam-runners-samza-job-server	2019-05-30T00:27:40Z	
+2.13.0	named	org.apache.beam	beam-runners-spark-job-server	2019-05-30T00:28:03Z	
+2.13.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-05-30T00:30:44Z	
+2.13.0	named	org.apache.beam	beam-sdks-java-harness	2019-05-30T00:31:54Z	
+0.1.3-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-05-30T11:23:39Z	
+0.1.3	named	com.undefinedlabs.scope	scope-agent	2019-05-30T14:20:57Z	
+4.0.2	named	org.opendaylight.mdsal	mdsal-binding-dom-codec	2019-05-31T14:49:36Z	
+0.1.4-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-06-03T15:13:46Z	
+0.1.4-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-06-04T07:59:59Z	
+0.1.4-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-06-04T09:22:08Z	
+0.1.4-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-06-04T14:09:44Z	
+0.1.4-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-06-05T15:48:46Z	
+0.1.4-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-06-06T11:22:16Z	
+1.3.0-M1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-06-06T21:11:10Z	
+0.1.4-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-06-07T10:21:59Z	
+0.1.4-beta.8	named	com.undefinedlabs.scope	scope-agent	2019-06-07T16:53:23Z	
+0.1.4-beta.9	named	com.undefinedlabs.scope	scope-agent	2019-06-10T09:03:22Z	
+0.1.4	named	com.undefinedlabs.scope	scope-agent	2019-06-10T10:04:26Z	
+0.1.5-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-06-14T08:27:48Z	
+1.0.0-RC1	named	io.kamon	kanela-agent	2019-06-18T14:44:55Z	
+1.2.2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-06-18T21:21:10Z	
+0.1.5-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-06-19T08:26:16Z	
+2.06	named	com.proofpoint.platform	jaxrs	2019-06-20T23:36:33Z	
+0.1.5-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-06-21T08:10:21Z	
+1.0.0-RC2	named	io.kamon	kanela-agent	2019-06-21T13:21:03Z	
+0.1.5-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-06-26T07:17:19Z	
+1.3.0-M2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-06-26T15:23:23Z	
+1.4.0-rc2	named	cloud.orbit	orbit-redis-cluster	2019-06-26T19:23:34Z	
+0.1.5-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-06-27T06:57:34Z	
+0.1.5	named	com.undefinedlabs.scope	scope-agent	2019-06-27T07:12:32Z	
+0.1.6-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-06-27T16:27:12Z	
+0.1.6	named	com.undefinedlabs.scope	scope-agent	2019-06-28T07:15:45Z	
+1.0.0-RC3	named	io.kamon	kanela-agent	2019-06-29T22:35:09Z	
+0.1.7-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-07-03T06:59:38Z	
+1.4.0	named	com.criteo.java	garmadon-agent	2019-07-03T16:03:16Z	
+0.1.7-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-07-04T08:16:46Z	
+4.10.1	named	org.choco-solver	choco-solver	2019-07-08T12:28:45Z	
+0.1.7-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-07-08T15:39:03Z	
+1.9.14	named	net.bytebuddy	byte-buddy	2019-07-08T18:38:42Z	
+0.1.7-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-07-09T09:32:38Z	
+0.1.7-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-07-09T13:19:47Z	
+0.1.7-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-07-09T15:13:11Z	
+0.1.7-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-07-10T08:28:06Z	
+0.1.7-beta.8	named	com.undefinedlabs.scope	scope-agent	2019-07-10T13:07:03Z	
+0.1.7-beta.9	named	com.undefinedlabs.scope	scope-agent	2019-07-11T12:26:44Z	
+0.1.7-beta.10	named	com.undefinedlabs.scope	scope-agent	2019-07-11T15:37:07Z	
+2.07	named	com.proofpoint.platform	jaxrs	2019-07-11T23:15:11Z	
+0.1	named	org.apache.beam	beam-vendor-bytebuddy-1_9_3	2019-07-12T03:16:58Z	
+0.1.7-beta.11	named	com.undefinedlabs.scope	scope-agent	2019-07-12T07:46:44Z	
+0.1.7	named	com.undefinedlabs.scope	scope-agent	2019-07-12T14:20:42Z	
+1.20.0	named	io.aeron	aeron-all	2019-07-12T16:08:04Z	
+1.0.0-RC4	named	io.kamon	kanela-agent	2019-07-12T16:12:34Z	
+0.1.8-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-07-16T12:58:54Z	
+0.1.8-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-07-18T09:57:01Z	
+0.1.8-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-07-18T13:49:00Z	
+0.1.8-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-07-19T10:40:26Z	
+1.3.0-RC	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-07-19T15:50:12Z	
+2.08	named	com.proofpoint.platform	jaxrs	2019-07-20T00:06:20Z	
+1.9.15	named	net.bytebuddy	byte-buddy	2019-07-21T11:41:06Z	
+1.0.0	named	io.kamon	kanela-agent	2019-07-24T12:56:45Z	
+2.14.0	named	org.apache.beam	beam-runners-samza-job-server	2019-07-24T22:10:39Z	
+2.14.0	named	org.apache.beam	beam-runners-spark-job-server	2019-07-24T22:11:01Z	
+2.14.0	named	org.apache.beam	beam-sdks-java-core	2019-07-24T22:11:47Z	
+2.14.0	named	org.apache.beam	beam-sdks-java-harness	2019-07-24T22:12:01Z	
+2.14.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-07-24T22:12:47Z	
+2.14.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2019-07-24T22:13:05Z	
+2.14.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-07-24T22:13:23Z	
+2.14.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-07-24T22:13:41Z	
+2.14.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-07-24T22:22:53Z	
+0.1.8-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-07-26T06:46:27Z	
+0.1.8-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-07-26T14:21:50Z	
+1.9.16	named	net.bytebuddy	byte-buddy	2019-07-27T11:40:52Z	
+0.1.8-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-07-29T10:18:21Z	
+4.0.3	named	org.opendaylight.mdsal	mdsal-binding-dom-codec	2019-07-30T00:21:36Z	
+1.5.0	named	cloud.orbit	orbit-redis-cluster	2019-07-31T21:56:45Z	
+0.1.8-beta.8	named	com.undefinedlabs.scope	scope-agent	2019-08-01T06:52:19Z	
+1.21.0	named	io.aeron	aeron-all	2019-08-02T16:57:21Z	
+1.10.0	named	net.bytebuddy	byte-buddy	2019-08-03T19:16:06Z	
+1.5.1	named	cloud.orbit	orbit-redis-cluster	2019-08-07T17:47:56Z	
+0.1.8	named	com.undefinedlabs.scope	scope-agent	2019-08-09T06:23:09Z	
+0.1.9-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-08-09T15:55:05Z	
+1.10.1	named	net.bytebuddy	byte-buddy	2019-08-09T17:57:35Z	
+1.3.0-RC2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-08-09T18:20:26Z	
+2.09	named	com.proofpoint.platform	jaxrs	2019-08-09T18:49:05Z	
+2.10	named	com.proofpoint.platform	jaxrs	2019-08-12T03:43:12Z	
+1.0.1	named	io.kamon	kanela-agent	2019-08-13T14:23:32Z	
+1.21.1	named	io.aeron	aeron-all	2019-08-14T19:01:05Z	
+4.0.4	named	org.opendaylight.mdsal	mdsal-binding-dom-codec	2019-08-14T22:42:00Z	
+2.15.0	named	org.apache.beam	beam-sdks-java-core	2019-08-15T00:18:03Z	
+2.15.0	named	org.apache.beam	beam-runners-samza-job-server	2019-08-15T00:18:18Z	
+2.15.0	named	org.apache.beam	beam-runners-spark-job-server	2019-08-15T00:18:40Z	
+2.15.0	named	org.apache.beam	beam-sdks-java-harness	2019-08-15T00:19:16Z	
+2.15.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-08-15T00:20:38Z	
+2.15.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-08-15T00:20:56Z	
+2.15.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-08-15T00:21:16Z	
+2.15.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2019-08-15T00:21:34Z	
+2.15.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-08-15T00:30:12Z	
+1.21.2	named	io.aeron	aeron-all	2019-08-19T16:03:37Z	
+0.1.9-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-08-20T16:08:34Z	
+0.1.9-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-08-21T16:55:17Z	
+2.11	named	com.proofpoint.platform	jaxrs	2019-08-21T18:32:39Z	
+1.3.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-08-23T12:52:50Z	
+0.1.9-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-09-02T12:29:11Z	
+0.1.9-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-09-03T09:50:33Z	
+0.1.9-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-09-03T15:37:45Z	
+1.3.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-09-04T21:10:19Z	
+0.1.9-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-09-05T10:10:24Z	
+0.1.9	named	com.undefinedlabs.scope	scope-agent	2019-09-10T07:42:22Z	
+0.1.10-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-09-16T12:18:47Z	
+0.1.10-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-09-17T08:17:44Z	
+0.1.10-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-09-17T12:55:59Z	
+2.12	named	com.proofpoint.platform	jaxrs	2019-09-17T18:03:44Z	
+0.1.10-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-09-23T09:49:34Z	
+2.13	named	com.proofpoint.platform	jaxrs	2019-09-25T00:04:28Z	
+0.1.10-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-09-25T10:16:40Z	
+1.3.2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-09-25T16:04:27Z	
+2.16.0	named	org.apache.beam	beam-runners-samza-job-server	2019-09-30T22:17:45Z	
+2.16.0	named	org.apache.beam	beam-runners-spark-job-server	2019-09-30T22:19:06Z	
+2.16.0	named	org.apache.beam	beam-sdks-java-harness	2019-09-30T22:21:12Z	
+2.16.0	named	org.apache.beam	beam-runners-flink_2.11-job-server	2019-09-30T22:21:35Z	
+2.16.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-09-30T22:22:23Z	
+2.16.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2019-09-30T22:22:43Z	
+2.16.0	named	org.apache.beam	beam-runners-flink-1.6-job-server	2019-09-30T22:23:02Z	
+2.16.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-09-30T22:33:42Z	
+0.1.10-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-10-02T07:53:04Z	
+0.1.10-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-10-02T14:38:03Z	
+0.1.10-beta.8	named	com.undefinedlabs.scope	scope-agent	2019-10-02T15:54:15Z	
+0.2.0	named	com.undefinedlabs.scope	scope-agent	2019-10-03T06:34:55Z	
+2.14	named	com.proofpoint.platform	jaxrs	2019-10-04T19:20:30Z	
+01.00.01-RPM	named	org.rapidpm.vaadin	nano-vaadin-undertow	2019-10-07T18:50:41Z	
+0.2.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-10-08T12:04:11Z	
+1.22.0	named	io.aeron	aeron-all	2019-10-08T23:27:43Z	
+1.22.1	named	io.aeron	aeron-all	2019-10-11T21:02:40Z	
+0.2.1-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-10-14T06:56:26Z	
+01.00.02-RPM	named	org.rapidpm.vaadin	nano-vaadin-undertow	2019-10-14T11:16:49Z	
+0.2.1-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-10-14T14:09:07Z	
+4.10.2	named	org.choco-solver	choco-solver	2019-10-15T09:23:31Z	
+1.10.2	named	net.bytebuddy	byte-buddy	2019-10-16T22:05:12Z	
+0.2.1-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-10-17T13:54:20Z	
+8.5.47.2	named	com.github.jsimone	webapp-runner	2019-10-20T17:49:59Z	
+9.0.27.1	named	com.github.jsimone	webapp-runner	2019-10-20T17:54:17Z	
+4.5.6	named	com.yahoo.elide	elide-blog-example	2019-10-22T15:05:37Z	
+0.2.1-beta.5	named	com.undefinedlabs.scope	scope-agent	2019-10-25T12:52:47Z	
+1.23.0	named	io.aeron	aeron-all	2019-10-26T22:25:41Z	
+1.0.2	named	io.kamon	kanela-agent	2019-10-28T18:28:52Z	
+0.2.1-beta.6	named	com.undefinedlabs.scope	scope-agent	2019-10-29T09:15:27Z	
+2.15	named	com.proofpoint.platform	jaxrs	2019-10-30T23:09:05Z	
+2.16	named	com.proofpoint.platform	jaxrs	2019-10-31T01:14:34Z	
+0.2.1-beta.7	named	com.undefinedlabs.scope	scope-agent	2019-11-04T07:38:49Z	
+0.2.1	named	com.undefinedlabs.scope	scope-agent	2019-11-04T09:11:18Z	
+2.17	named	com.proofpoint.platform	jaxrs	2019-11-05T05:32:32Z	
+0.2.2-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-11-05T14:28:52Z	
+0.2.2-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-11-06T07:45:00Z	
+1.23.1	named	io.aeron	aeron-all	2019-11-06T17:30:09Z	
+1.10.3	named	net.bytebuddy	byte-buddy	2019-11-09T00:46:01Z	
+1.0.3	named	io.kamon	kanela-agent	2019-11-10T20:26:41Z	
+0.2.2-beta.3	named	com.undefinedlabs.scope	scope-agent	2019-11-13T08:21:07Z	
+0.2.2-beta.4	named	com.undefinedlabs.scope	scope-agent	2019-11-14T09:13:00Z	
+2.18	named	com.proofpoint.platform	jaxrs	2019-11-15T00:44:35Z	
+0.2.2	named	com.undefinedlabs.scope	scope-agent	2019-11-18T07:43:12Z	
+4.5.7	named	com.yahoo.elide	elide-blog-example	2019-11-18T19:17:05Z	
+0.2.3-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-11-28T11:24:56Z	
+1.10.4	named	net.bytebuddy	byte-buddy	2019-11-28T20:28:39Z	
+0.2.3	named	com.undefinedlabs.scope	scope-agent	2019-11-29T09:00:22Z	
+1.0.4	named	io.kamon	kanela-agent	2019-12-05T16:15:26Z	
+1.2.0.Final	named	org.infinispan.doclets	infinispan-doclets-java11	2019-12-06T12:32:41Z	
+1.2.1.Final	named	org.infinispan.doclets	infinispan-doclets-java11	2019-12-06T12:39:21Z	
+4.5.8	named	com.yahoo.elide	elide-blog-example	2019-12-07T01:20:15Z	
+01.00.03-RPM	named	org.rapidpm.vaadin	nano-vaadin-undertow	2019-12-09T10:01:42Z	
+0.2.4-beta.1	named	com.undefinedlabs.scope	scope-agent	2019-12-10T08:26:17Z	
+1.3.2-1.3.60	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-12-10T09:54:07Z	
+1.10.5	named	net.bytebuddy	byte-buddy	2019-12-11T19:31:29Z	
+0.2.4-beta.2	named	com.undefinedlabs.scope	scope-agent	2019-12-13T12:50:18Z	
+1.3.3	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2019-12-13T12:52:31Z	
+0.2.4	named	com.undefinedlabs.scope	scope-agent	2019-12-13T14:00:21Z	
+2.19	named	com.proofpoint.platform	jaxrs	2019-12-16T19:53:30Z	
+2.17.0	named	org.apache.beam	beam-runners-spark-job-server	2019-12-17T05:02:17Z	
+2.17.0	named	org.apache.beam	beam-runners-samza-job-server	2019-12-17T05:02:57Z	
+2.17.0	named	org.apache.beam	beam-sdks-java-harness	2019-12-17T05:03:53Z	
+2.17.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2019-12-17T05:04:18Z	
+2.17.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2019-12-17T05:04:52Z	
+2.17.0	named	org.apache.beam	beam-runners-flink-1.9-job-server	2019-12-17T05:06:25Z	
+2.17.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2019-12-17T05:16:20Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-sdks-java-extensions-kryo	2019-12-17T11:06:56Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-runners-direct-java	2019-12-17T11:07:17Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-sdks-java-io-kafka	2019-12-17T11:07:37Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-sdks-java-core	2019-12-17T11:08:05Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-runners-flink-1.8	2019-12-17T11:09:25Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-sdks-java-extensions-euphoria	2019-12-17T11:10:24Z	
+0.3.0-rc1	named	cz.o2.proxima.beam	beam-sdks-java-io-google-cloud-platform	2019-12-17T11:11:54Z	
+1.10.6	named	net.bytebuddy	byte-buddy	2019-12-19T13:32:37Z	
+4.5.9	named	com.yahoo.elide	elide-blog-example	2019-12-19T17:07:10Z	
+2.20	named	com.proofpoint.platform	jaxrs	2019-12-31T00:54:49Z	
+8.5.50.0	named	com.heroku	webapp-runner	2020-01-07T08:50:40Z	
+9.0.30.0	named	com.heroku	webapp-runner	2020-01-07T08:53:37Z	
+2.22	named	com.proofpoint.platform	jaxrs	2020-01-10T20:13:21Z	
+2.18.0	named	org.apache.beam	beam-runners-samza-job-server	2020-01-10T22:26:17Z	
+2.18.0	named	org.apache.beam	beam-runners-spark-job-server	2020-01-10T22:27:16Z	
+2.18.0	named	org.apache.beam	beam-sdks-java-harness	2020-01-10T22:28:13Z	
+2.18.0	named	org.apache.beam	beam-runners-flink-1.7-job-server	2020-01-10T22:28:40Z	
+2.18.0	named	org.apache.beam	beam-runners-flink-1.8-job-server	2020-01-10T22:30:20Z	
+2.18.0	named	org.apache.beam	beam-runners-flink-1.9-job-server	2020-01-10T22:30:57Z	
+2.18.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2020-01-10T22:40:13Z	
+1.2.0	named	com.github.roskart.dropwizard-jaxws	dropwizard-jaxws-example	2020-01-12T19:30:46Z	
+0.2.5-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-01-13T16:14:01Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-runners-direct-java	2020-01-15T10:06:14Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-runners-flink-1.9	2020-01-15T10:07:31Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-sdks-java-core	2020-01-15T10:08:23Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-sdks-java-extensions-euphoria	2020-01-15T10:09:03Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-sdks-java-io-google-cloud-platform	2020-01-15T10:10:06Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-sdks-java-extensions-kryo	2020-01-15T10:11:08Z	
+0.3.0-rc1-ab3f0b	named	cz.o2.proxima.beam	beam-sdks-java-io-kafka	2020-01-15T10:12:15Z	
+0.2.5-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-01-15T14:06:17Z	
+0.2.5-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-01-17T08:32:17Z	
+1.10.7	named	net.bytebuddy	byte-buddy	2020-01-20T23:55:16Z	
+0.2.5-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-01-21T09:06:12Z	
+0.2.5-beta.5	named	com.undefinedlabs.scope	scope-agent	2020-01-23T09:08:46Z	
+2.19.0	named	org.apache.beam	beam-runners-samza-job-server	2020-01-27T21:53:30Z	
+2.19.0	named	org.apache.beam	beam-runners-spark-job-server	2020-01-27T21:54:13Z	
+2.19.0	named	org.apache.beam	beam-sdks-java-harness	2020-01-27T21:55:15Z	
+2.19.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2020-01-27T22:08:43Z	
+0.2.5-beta.6	named	com.undefinedlabs.scope	scope-agent	2020-02-04T13:52:02Z	
+0.2.5-beta.7	named	com.undefinedlabs.scope	scope-agent	2020-02-04T15:39:41Z	
+0.2.5-beta.8	named	com.undefinedlabs.scope	scope-agent	2020-02-05T11:53:22Z	
+0.2.5-beta.9	named	com.undefinedlabs.scope	scope-agent	2020-02-05T17:21:24Z	
+0.2.5-beta.10	named	com.undefinedlabs.scope	scope-agent	2020-02-06T11:32:07Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-sdks-java-extensions-kryo	2020-02-06T15:44:40Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-runners-flink-1.9	2020-02-06T15:46:40Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-sdks-java-extensions-euphoria	2020-02-06T15:47:18Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-sdks-java-io-google-cloud-platform	2020-02-06T15:49:25Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-runners-direct-java	2020-02-06T15:50:37Z	
+0.3-b91560	named	cz.o2.proxima.beam	beam-sdks-java-core	2020-02-06T15:51:50Z	
+1.0.5	named	io.kamon	kanela-agent	2020-02-07T06:55:47Z	
+0.2.5-beta.11	named	com.undefinedlabs.scope	scope-agent	2020-02-07T09:47:33Z	
+1.10.0	named	org.apache.flink	flink-python_2.11	2020-02-07T20:14:36Z	
+1.10.0	named	org.apache.flink	flink-python_2.12	2020-02-07T21:15:52Z	
+0.2.5-beta.12	named	com.undefinedlabs.scope	scope-agent	2020-02-12T09:16:12Z	
+8.5.51.0	named	com.heroku	webapp-runner	2020-02-12T13:52:48Z	
+9.0.31.0	named	com.heroku	webapp-runner	2020-02-12T14:01:31Z	
+2.23	named	com.proofpoint.platform	jaxrs	2020-02-12T22:58:03Z	
+0.3-1d562f	named	cz.o2.proxima.beam	beam-runners-flink-1.9	2020-02-15T12:12:40Z	
+0.3-1d562f	named	cz.o2.proxima.beam	beam-sdks-java-extensions-kryo	2020-02-15T12:13:14Z	
+0.3-1d562f	named	cz.o2.proxima.beam	beam-runners-direct-java	2020-02-15T12:13:48Z	
+0.3-1d562f	named	cz.o2.proxima.beam	beam-sdks-java-extensions-euphoria	2020-02-15T12:14:22Z	
+0.3-1d562f	named	cz.o2.proxima.beam	beam-sdks-java-core	2020-02-15T12:15:00Z	
+1.10.8	named	net.bytebuddy	byte-buddy	2020-02-16T19:23:22Z	
+0.2.5-beta.13	named	com.undefinedlabs.scope	scope-agent	2020-02-19T16:21:29Z	
+0.3.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-02-20T11:13:23Z	
+0.3.0	named	com.undefinedlabs.scope	scope-agent	2020-02-20T13:24:29Z	
+2.24	named	com.proofpoint.platform	jaxrs	2020-02-21T02:06:23Z	
+0.3.1	named	com.undefinedlabs.scope	scope-agent	2020-02-21T09:34:05Z	
+1.4.0	named	org.agrona	agrona-agent	2020-02-26T15:30:15Z	
+1.0.0	named	com.alipay.sdk	alipay-easysdk	2020-02-28T07:06:32Z	
+0.3.2	named	com.undefinedlabs.scope	scope-agent	2020-02-28T11:52:31Z	
+1.0.1	named	com.alipay.sdk	alipay-easysdk	2020-02-29T05:41:07Z	
+0.3.3-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-03-02T17:13:28Z	
+0.3.3-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-03-03T12:13:28Z	
+0.3.3-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-03-03T16:46:40Z	
+0.3.3-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-03-04T10:33:44Z	
+0.4.0	named	com.undefinedlabs.scope	scope-agent	2020-03-04T14:21:01Z	
+0.5.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-03-04T16:36:03Z	
+1.26.0	named	io.aeron	aeron-agent	2020-03-04T22:16:34Z	
+0.5.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-03-05T08:32:56Z	
+0.5.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-03-05T13:51:41Z	
+0.5.0-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-03-05T15:54:22Z	
+0.5.0	named	com.undefinedlabs.scope	scope-agent	2020-03-06T07:48:52Z	
+1.3.4	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-03-06T11:20:08Z	
+0.5.1	named	com.undefinedlabs.scope	scope-agent	2020-03-09T09:31:25Z	
+1.3.3	named	com.nordstrom.ui-tools	local-grid-utility	2020-03-11T23:37:16Z	
+0.5.2-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-03-12T16:09:54Z	
+0.5.2	named	com.undefinedlabs.scope	scope-agent	2020-03-12T16:43:01Z	
+2.25	named	com.proofpoint.platform	jaxrs	2020-03-14T00:58:12Z	
+1.3.5	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-03-17T15:19:04Z	
+0.6.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-03-19T09:53:02Z	
+0.6.0	named	com.undefinedlabs.scope	scope-agent	2020-03-19T11:20:59Z	
+0.6.1	named	com.undefinedlabs.scope	scope-agent	2020-03-19T14:42:58Z	
+0.6.2	named	com.undefinedlabs.scope	scope-agent	2020-03-20T09:03:07Z	
+2.26	named	com.proofpoint.platform	jaxrs	2020-03-20T20:53:45Z	
+1.3.5-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-03-24T17:08:25Z	
+0.6.3	named	com.undefinedlabs.scope	scope-agent	2020-03-26T15:19:45Z	
+2.27	named	com.proofpoint.platform	jaxrs	2020-03-27T22:34:38Z	
+1.4.1	named	org.agrona	agrona-agent	2020-03-27T22:38:34Z	
+1.10.9	named	net.bytebuddy	byte-buddy	2020-03-28T22:58:52Z	
+1.3.5-native-mt-1.4-M1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-03-30T12:02:23Z	
+0.7.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-03-30T15:21:57Z	
+1.27.0	named	io.aeron	aeron-agent	2020-04-01T19:01:34Z	
+0.7.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-04-02T15:10:53Z	
+0.7.0	named	com.undefinedlabs.scope	scope-agent	2020-04-03T08:05:46Z	
+1.3.5-2-native-mt-1.4-M1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-04-08T14:51:34Z	
+0.7.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-14T11:08:47Z	
+0.8.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-14T13:24:48Z	
+0.8.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-04-14T14:13:46Z	
+0.8.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-04-17T13:29:01Z	
+0.8.0-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-04-17T16:02:38Z	
+0.8.0-beta.5	named	com.undefinedlabs.scope	scope-agent	2020-04-20T07:33:34Z	
+0.8.0	named	com.undefinedlabs.scope	scope-agent	2020-04-20T11:10:57Z	
+0.8.1	named	com.undefinedlabs.scope	scope-agent	2020-04-20T12:03:24Z	
+0.8.2-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-20T14:26:16Z	
+0.9.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-20T15:18:38Z	
+0.9.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-04-21T14:13:48Z	
+0.9.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-04-22T10:03:04Z	
+2.28	named	com.proofpoint.platform	jaxrs	2020-04-22T18:31:32Z	
+0.9.0-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-04-23T12:44:43Z	
+0.9.0	named	com.undefinedlabs.scope	scope-agent	2020-04-23T13:55:42Z	
+0.10.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-23T15:17:08Z	
+0.10.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-04-24T07:37:06Z	
+0.10.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-04-24T08:39:35Z	
+0.10.0	named	com.undefinedlabs.scope	scope-agent	2020-04-24T11:08:29Z	
+0.10.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-24T14:35:11Z	
+0.10.1-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-04-27T12:15:32Z	
+1.3.0	named	org.infinispan.doclets	infinispan-doclets-java11	2020-04-27T12:21:56Z	
+0.10.1-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-04-27T13:44:25Z	
+0.10.1-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-04-27T15:44:50Z	
+0.10.1-beta.5	named	com.undefinedlabs.scope	scope-agent	2020-04-28T11:15:19Z	
+0.11.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-04-29T08:44:19Z	
+1.10.10	named	net.bytebuddy	byte-buddy	2020-04-29T18:44:13Z	
+0.11.0	named	com.undefinedlabs.scope	scope-agent	2020-04-30T08:05:54Z	
+0.11.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-05-04T12:50:57Z	
+2.29	named	com.proofpoint.platform	jaxrs	2020-05-04T23:44:25Z	
+0.11.1-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-05-05T07:33:35Z	
+0.12.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-05-05T11:09:42Z	
+0.12.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-05-06T07:10:51Z	
+0.12.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-05-06T14:57:12Z	
+1.10.1	named	org.apache.flink	flink-python_2.11	2020-05-07T07:29:31Z	
+1.10.1	named	org.apache.flink	flink-python_2.12	2020-05-07T09:15:22Z	
+0.12.0	named	com.undefinedlabs.scope	scope-agent	2020-05-07T09:41:17Z	
+1.3.6	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-05-08T17:34:18Z	
+1.2.1	named	com.github.roskart.dropwizard-jaxws	dropwizard-jaxws-example	2020-05-10T14:21:42Z	
+0.13.0	named	com.undefinedlabs.scope	scope-agent	2020-05-13T07:56:59Z	
+0.14.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-05-19T07:56:28Z	
+1.3.7	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2020-05-19T12:30:50Z	
+1.5.0	named	org.agrona	agrona-agent	2020-05-21T14:46:57Z	
+1.28.0	named	io.aeron	aeron-agent	2020-05-25T17:25:24Z	
+0.14.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-05-26T13:53:06Z	
+2.30	named	com.proofpoint.platform	jaxrs	2020-05-26T21:55:54Z	
+0.14.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-05-27T10:15:09Z	
+1.5.1	named	org.agrona	agrona-agent	2020-05-27T13:26:18Z	
+1.28.1	named	io.aeron	aeron-agent	2020-05-27T15:53:44Z	
+0.14.0-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-05-28T08:17:35Z	
+0.14.0-beta.5	named	com.undefinedlabs.scope	scope-agent	2020-05-28T14:09:48Z	
+0.14.0-beta.6	named	com.undefinedlabs.scope	scope-agent	2020-05-28T15:34:04Z	
+1.28.2	named	io.aeron	aeron-agent	2020-05-28T19:26:55Z	
+0.14.0-beta.7	named	com.undefinedlabs.scope	scope-agent	2020-05-29T08:53:07Z	
+0.14.0	named	com.undefinedlabs.scope	scope-agent	2020-06-01T14:36:59Z	
+0.15.0-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-06-01T15:09:57Z	
+1.10.11	named	net.bytebuddy	byte-buddy	2020-06-04T19:32:51Z	
+0.15.0-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-06-05T13:20:56Z	
+0.15.0-beta.3	named	com.undefinedlabs.scope	scope-agent	2020-06-09T10:09:01Z	
+2.32	named	com.proofpoint.platform	jaxrs	2020-06-09T18:10:01Z	
+0.15.0-beta.4	named	com.undefinedlabs.scope	scope-agent	2020-06-11T07:05:57Z	
+0.15.0-beta.5	named	com.undefinedlabs.scope	scope-agent	2020-06-12T08:10:52Z	
+1.10.1	named	com.qcloud.oceanus	flink-python_2.11	2020-06-14T17:19:49Z	
+0.15.0-beta.6	named	com.undefinedlabs.scope	scope-agent	2020-06-16T10:52:32Z	
+0.15.0-beta.7	named	com.undefinedlabs.scope	scope-agent	2020-06-18T09:43:30Z	
+1.10.12	named	net.bytebuddy	byte-buddy	2020-06-18T12:53:47Z	
+0.15.0-beta.8	named	com.undefinedlabs.scope	scope-agent	2020-06-18T15:13:02Z	
+0.15.0-beta.9	named	com.undefinedlabs.scope	scope-agent	2020-06-19T11:45:59Z	
+0.15.0	named	com.undefinedlabs.scope	scope-agent	2020-06-22T07:13:27Z	
+0.15.1-beta.1	named	com.undefinedlabs.scope	scope-agent	2020-06-22T11:16:21Z	
+0.15.1-beta.2	named	com.undefinedlabs.scope	scope-agent	2020-06-24T14:49:13Z	
+1.10.13	named	net.bytebuddy	byte-buddy	2020-06-27T21:10:58Z	
+2.33	named	com.proofpoint.platform	jaxrs	2020-06-29T16:47:06Z	
+1.11.0	named	org.apache.flink	flink-python_2.11	2020-06-30T03:08:17Z	
+1.11.0	named	org.apache.flink	flink-python_2.12	2020-06-30T04:59:12Z	
+9.0.36.1	named	com.heroku	webapp-runner	2020-07-02T17:11:29Z	
+8.5.56.0	named	com.heroku	webapp-runner	2020-07-03T15:53:44Z	
+8.5.57.0	named	com.heroku	webapp-runner	2020-07-06T14:14:45Z	
+3.3.0	named	org.apache.hadoop	hadoop-client-minicluster	2020-07-06T19:50:09Z	
+1.6.0	named	org.agrona	agrona-agent	2020-07-07T18:39:35Z	
+2.34	named	com.proofpoint.platform	jaxrs	2020-07-13T18:24:36Z	
+1.11.1	named	org.apache.flink	flink-python_2.11	2020-07-15T06:06:48Z	
+1.11.1	named	org.apache.flink	flink-python_2.12	2020-07-15T07:15:12Z	
+1.29.0	named	io.aeron	aeron-agent	2020-07-21T15:53:40Z	
+2.35	named	com.proofpoint.platform	jaxrs	2020-07-21T22:28:09Z	
+1.10.14	named	net.bytebuddy	byte-buddy	2020-07-31T15:37:02Z	
+1.10.2	named	org.apache.flink	flink-python_2.11	2020-08-17T08:03:22Z	
+1.10.2	named	org.apache.flink	flink-python_2.12	2020-08-17T08:53:36Z	
+2.36	named	com.proofpoint.platform	jaxrs	2020-08-25T22:49:23Z	
+1.7.0	named	org.agrona	agrona-agent	2020-08-28T15:55:04Z	
+1.7.1	named	org.agrona	agrona-agent	2020-09-06T15:08:50Z	
+1.11.2	named	org.apache.flink	flink-python_2.11	2020-09-09T17:29:05Z	
+1.11.2	named	org.apache.flink	flink-python_2.12	2020-09-09T18:23:08Z	
+1.7.2	named	org.agrona	agrona-agent	2020-09-18T15:38:17Z	
+1.10.15	named	net.bytebuddy	byte-buddy	2020-09-18T22:22:23Z	
+1.30.0	named	io.aeron	aeron-agent	2020-09-20T15:01:46Z	
+1.10.16	named	net.bytebuddy	byte-buddy	2020-09-22T23:55:14Z	
+0.2.0	named	com.exasol	virtual-schema-common-document-files	2020-10-01T14:03:44Z	
+2.37	named	com.proofpoint.platform	jaxrs	2020-10-06T22:13:10Z	
+1.10.17	named	net.bytebuddy	byte-buddy	2020-10-07T10:13:30Z	
+1.8.0	named	org.agrona	agrona-agent	2020-10-07T15:49:56Z	
+1.0.0	named	com.instaclustr	ttl-remover-byte-buddy	2020-10-07T17:58:17Z	
+1.31.0	named	io.aeron	aeron-agent	2020-10-14T15:54:31Z	
+1.10.18	named	net.bytebuddy	byte-buddy	2020-11-01T07:54:40Z	
+1.31.1	named	io.aeron	aeron-agent	2020-11-02T16:47:25Z	
+2.38	named	com.proofpoint.platform	jaxrs	2020-11-10T00:33:17Z	
+1.0.1	named	com.instaclustr	ttl-remover-byte-buddy	2020-11-11T14:06:56Z	
+1.0.0	named	com.exasol	virtual-schema-common-document-files	2020-11-18T16:23:52Z	
+2.39	named	com.proofpoint.platform	jaxrs	2020-11-24T02:29:08Z	
+2.40	named	com.proofpoint.platform	jaxrs	2020-12-10T23:23:20Z	
+8.5.61.0	named	com.heroku	webapp-runner	2020-12-15T10:38:36Z	
+1.10.19	named	net.bytebuddy	byte-buddy	2020-12-20T22:23:57Z	
+1.9.0	named	org.agrona	agrona-agent	2020-12-21T17:20:31Z	
+2.41	named	com.proofpoint.platform	jaxrs	2021-01-04T22:36:31Z	
+1.10.3	named	org.apache.flink	flink-python_2.11	2021-01-20T16:01:30Z	
+1.10.3	named	org.apache.flink	flink-python_2.12	2021-01-20T18:34:15Z	
+1.32.0	named	io.aeron	aeron-agent	2021-01-26T19:18:11Z	
+1.10.20	named	net.bytebuddy	byte-buddy	2021-02-03T08:05:41Z	
+2.42	named	com.proofpoint.platform	jaxrs	2021-02-13T02:04:45Z	
+1.31.2	named	io.aeron	aeron-agent	2021-02-13T18:59:24Z	
+2.3.26	named	net.serenity-bdd	serenity-cli	2021-02-21T10:17:47Z	
+2.3.30	named	net.serenity-bdd	serenity-cli	2021-02-21T16:25:53Z	
+1.10.21	named	net.bytebuddy	byte-buddy	2021-02-21T22:33:45Z	
+2.3.31	named	net.serenity-bdd	serenity-cli	2021-02-22T11:21:01Z	
+1.4.3	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-03-03T09:50:24Z	
+1.4.3-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-03-03T15:17:00Z	
+2.43	named	com.proofpoint.platform	jaxrs	2021-03-09T01:14:34Z	
+0.0.1-SNAPSHOTS	named	io.openk9	io.openk9.reactor.agent	2021-03-09T10:27:50Z	
+1.10.22	named	net.bytebuddy	byte-buddy	2021-03-09T15:39:32Z	
+2.44	named	com.proofpoint.platform	jaxrs	2021-03-12T01:52:41Z	
+0.0.1-alpha-1	named	io.openk9	io.openk9.reactor.agent	2021-03-26T17:38:02Z	
+2.3.32	named	net.serenity-bdd	serenity-cli	2021-03-27T18:42:09Z	
+2.3.33	named	net.serenity-bdd	serenity-cli	2021-03-28T10:08:01Z	
+2.4.0	named	net.serenity-bdd	serenity-cli	2021-03-28T13:51:24Z	
+2.4.1	named	net.serenity-bdd	serenity-cli	2021-03-28T21:20:16Z	
+2.46	named	com.proofpoint.platform	jaxrs	2021-04-01T18:49:26Z	
+2.4.2	named	net.serenity-bdd	serenity-cli	2021-04-11T17:58:37Z	
+2.4.3	named	net.serenity-bdd	serenity-cli	2021-04-12T20:46:46Z	
+2.4.4	named	net.serenity-bdd	serenity-cli	2021-04-13T12:15:37Z	
+2.47	named	com.proofpoint.platform	jaxrs	2021-04-14T21:18:18Z	
+1.10.0	named	org.agrona	agrona-agent	2021-04-15T16:47:09Z	
+2.48	named	com.proofpoint.platform	jaxrs	2021-04-17T20:02:21Z	
+1.11.0	named	net.bytebuddy	byte-buddy	2021-04-18T23:01:08Z	
+2.4.5	named	net.serenity-bdd	serenity-cli	2021-04-25T13:08:03Z	
+2.4.15	named	net.serenity-bdd	serenity-cli	2021-04-26T11:44:39Z	
+2.4.20	named	net.serenity-bdd	serenity-cli	2021-04-26T16:19:59Z	
+1.5.0-RC	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-04-26T19:50:00Z	
+2.4.21	named	net.serenity-bdd	serenity-cli	2021-04-28T22:24:56Z	
+1.5.0-RC-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-04-30T16:48:01Z	
+2.49	named	com.proofpoint.platform	jaxrs	2021-05-01T00:38:37Z	
+2.4.24	named	net.serenity-bdd	serenity-cli	2021-05-01T07:52:51Z	
+1.33.0	named	io.aeron	aeron-agent	2021-05-10T20:24:07Z	
+2.51	named	com.proofpoint.platform	jaxrs	2021-05-13T19:34:22Z	
+1.5.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-05-14T14:30:24Z	
+1.33.1	named	io.aeron	aeron-agent	2021-05-14T20:29:57Z	
+1.0.0-rc1	named	io.github.jas34	scheduledwf-server	2021-05-15T02:43:13Z	
+1.0.0	named	io.github.jas34	scheduledwf-server	2021-05-15T08:22:51Z	
+1.5.0-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-05-16T13:10:17Z	
+3.3.1	named	org.apache.hadoop	hadoop-client-minicluster	2021-06-01T09:33:59Z	
+1.11.1	named	net.bytebuddy	byte-buddy	2021-06-01T19:21:47Z	
+2.4.34	named	net.serenity-bdd	serenity-cli	2021-06-04T09:06:20Z	
+1.11.2	named	net.bytebuddy	byte-buddy	2021-06-10T22:51:34Z	
+1.11.0	named	org.agrona	agrona-agent	2021-06-11T21:19:47Z	
+5.0.0-beta	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2021-06-13T02:40:55Z	
+1.34.0	named	io.aeron	aeron-agent	2021-06-16T15:43:51Z	
+1.11.3	named	net.bytebuddy	byte-buddy	2021-06-18T07:52:52Z	
+1.11.4	named	net.bytebuddy	byte-buddy	2021-06-19T21:34:46Z	
+1.11.5	named	net.bytebuddy	byte-buddy	2021-06-19T22:03:19Z	
+1.1.0	named	io.github.jas34	scheduledwf-server	2021-06-24T16:38:07Z	
+1.1.1	named	io.github.jas34	scheduledwf-server	2021-06-28T16:07:06Z	
+2.4.35	named	net.serenity-bdd	serenity-cli	2021-06-30T20:17:14Z	
+2.4.42	named	net.serenity-bdd	serenity-cli	2021-07-01T10:23:22Z	
+2.4.44	named	net.serenity-bdd	serenity-cli	2021-07-01T12:04:02Z	
+1.11.6	named	net.bytebuddy	byte-buddy	2021-07-02T21:13:34Z	
+2.4.47	named	net.serenity-bdd	serenity-cli	2021-07-04T08:41:16Z	
+1.5.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-07-09T09:50:02Z	
+2.4.48	named	net.serenity-bdd	serenity-cli	2021-07-10T07:38:20Z	
+1.2.0	named	io.github.jas34	scheduledwf-server	2021-07-11T05:36:39Z	
+1.2.2	named	io.github.jas34	scheduledwf-server	2021-07-12T05:36:46Z	
+1.5.1-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-07-12T14:24:46Z	
+2.53	named	com.proofpoint.platform	jaxrs	2021-07-12T17:01:31Z	
+1.11.7	named	net.bytebuddy	byte-buddy	2021-07-14T19:35:50Z	1.11.7
+1.11.8	named	net.bytebuddy	byte-buddy	2021-07-15T20:29:57Z	1.11.8
+2.4.49	named	net.serenity-bdd	serenity-cli	2021-07-20T22:17:44Z	
+2.4.50	named	net.serenity-bdd	serenity-cli	2021-07-21T21:48:28Z	
+2.4.51	named	net.serenity-bdd	serenity-cli	2021-07-22T19:57:11Z	
+1.11.9	named	net.bytebuddy	byte-buddy	2021-07-27T19:02:08Z	1.11.9
+1.0.3	named	com.instaclustr	ttl-remover-byte-buddy	2021-07-29T13:24:47Z	
+0.4.0	named	org.thepavel	jpql-builder	2021-08-01T17:09:18Z	1.11.8
+1.11.10	named	net.bytebuddy	byte-buddy	2021-08-04T19:33:08Z	1.11.10
+1.12.0	named	org.agrona	agrona-agent	2021-08-04T19:43:28Z	1.11.9
+2.5.0	named	net.serenity-bdd	serenity-cli	2021-08-05T07:45:15Z	
+2.54	named	com.proofpoint.platform	jaxrs	2021-08-05T18:51:15Z	
+1.11.11	named	net.bytebuddy	byte-buddy	2021-08-05T19:20:01Z	1.11.11
+1.11.12	named	net.bytebuddy	byte-buddy	2021-08-05T22:27:04Z	1.11.12
+2.5.1	named	net.serenity-bdd	serenity-cli	2021-08-07T08:43:48Z	
+2.5.2	named	net.serenity-bdd	serenity-cli	2021-08-07T19:28:14Z	
+2.5.4	named	net.serenity-bdd	serenity-cli	2021-08-07T21:19:07Z	
+2.5.5	named	net.serenity-bdd	serenity-cli	2021-08-08T16:08:34Z	
+2.5.6	named	net.serenity-bdd	serenity-cli	2021-08-09T06:13:12Z	
+1.35.0	named	io.aeron	aeron-agent	2021-08-09T15:39:56Z	1.11.9
+2.5.7	named	net.serenity-bdd	serenity-cli	2021-08-09T17:18:32Z	
+1.2.0.0-jre16	named	com.guicedee.services	byte-buddy	2021-08-10T03:35:47Z	1.2.0.0-jre16
+2.5.8	named	net.serenity-bdd	serenity-cli	2021-08-11T14:17:41Z	
+1.2.2	named	com.github.roskart.dropwizard-jaxws	dropwizard-jaxws-example	2021-08-15T20:27:58Z	
+1.11.13	named	net.bytebuddy	byte-buddy	2021-08-18T18:55:24Z	1.11.13
+2.5.10	named	net.serenity-bdd	serenity-cli	2021-08-22T14:37:44Z	
+2.55	named	com.proofpoint.platform	jaxrs	2021-08-24T23:09:23Z	
+8.5.68.0	named	com.heroku	webapp-runner	2021-08-25T09:25:52Z	
+2.56	named	com.proofpoint.platform	jaxrs	2021-08-25T21:43:26Z	
+2.6.0	named	net.serenity-bdd	serenity-cli	2021-08-29T20:40:06Z	
+1.2.0.1-jre16	named	com.guicedee.services	byte-buddy	2021-08-30T09:54:12Z	1.2.0.1-jre16
+1.2.0.1-jre15	named	com.guicedee.services	byte-buddy	2021-08-30T14:36:51Z	1.2.0.1-jre15
+1.2.0.1-jre11	named	com.guicedee.services	byte-buddy	2021-08-31T09:38:51Z	1.2.0.1-jre11
+1.11.14	named	net.bytebuddy	byte-buddy	2021-08-31T10:46:26Z	1.11.14
+1.5.2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-09-01T13:09:12Z	
+1.11.15	named	net.bytebuddy	byte-buddy	2021-09-02T08:24:53Z	1.11.15
+1.5.2-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-09-02T11:53:04Z	
+2.57	named	com.proofpoint.platform	jaxrs	2021-09-03T22:34:19Z	
+1.35.1	named	io.aeron	aeron-agent	2021-09-06T16:30:25Z	1.11.9
+1.2.0.2-jre16	named	com.guicedee.services	byte-buddy	2021-09-08T10:06:07Z	1.2.0.2-jre16
+2.58	named	com.proofpoint.platform	jaxrs	2021-09-10T18:05:24Z	
+2.59	named	com.proofpoint.platform	jaxrs	2021-09-15T17:48:15Z	
+1.2.0.3-jre17-rc1	named	com.guicedee.services	byte-buddy	2021-09-17T01:32:52Z	1.2.0.3-jre17-rc1
+1.11.16	named	net.bytebuddy	byte-buddy	2021-09-17T09:36:10Z	1.11.16
+1.11.17	named	net.bytebuddy	byte-buddy	2021-09-22T18:18:04Z	1.11.17
+1.11.18	named	net.bytebuddy	byte-buddy	2021-09-22T22:15:13Z	1.11.18
+2.60	named	com.proofpoint.platform	jaxrs	2021-09-27T19:39:51Z	
+1.11.19	named	net.bytebuddy	byte-buddy	2021-10-05T12:40:37Z	1.11.19
+1.11.20	named	net.bytebuddy	byte-buddy	2021-10-11T07:24:30Z	1.11.20
+1.11.21	named	net.bytebuddy	byte-buddy	2021-10-18T08:39:53Z	1.11.21
+3.0.0	named	net.serenity-bdd	serenity-cli	2021-10-25T20:06:58Z	1.11.20
+1.11.22	named	net.bytebuddy	byte-buddy	2021-10-29T12:28:13Z	1.11.22
+3.0.1	named	net.serenity-bdd	serenity-cli	2021-10-31T19:41:07Z	1.11.20
+5.0.0	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2021-11-01T16:20:23Z	1.11.18
+4.2-javax	named	pl.morgwai.base	servlet-scopes	2021-11-04T14:47:22Z	1.11.22
+4.2-jakarta-experimental	named	pl.morgwai.base	servlet-scopes	2021-11-04T14:49:50Z	1.11.22
+3.0.2	named	net.serenity-bdd	serenity-cli	2021-11-04T19:48:32Z	1.11.22
+3.0.3	named	net.serenity-bdd	serenity-cli	2021-11-05T13:56:13Z	1.11.22
+1.12.0	named	net.bytebuddy	byte-buddy	2021-11-05T21:11:27Z	1.12.0
+3.0.4	named	net.serenity-bdd	serenity-cli	2021-11-07T08:54:32Z	1.11.22
+3.0.5	named	net.serenity-bdd	serenity-cli	2021-11-07T09:49:00Z	1.11.22
+5.0-jakarta-experimental	named	pl.morgwai.base	servlet-scopes	2021-11-08T10:26:23Z	1.11.22
+5.0-javax	named	pl.morgwai.base	servlet-scopes	2021-11-08T10:31:44Z	1.11.22
+6.0-javax	named	pl.morgwai.base	servlet-scopes	2021-11-09T09:53:05Z	1.11.22
+6.0-jakarta-experimental	named	pl.morgwai.base	servlet-scopes	2021-11-09T09:57:45Z	1.11.22
+1.12.1	named	net.bytebuddy	byte-buddy	2021-11-09T20:49:14Z	1.12.1
+1.2.1.1-jre17	named	com.guicedee.services	byte-buddy	2021-11-11T14:41:54Z	1.2.1.1-jre17
+2.61	named	com.proofpoint.platform	jaxrs	2021-11-12T22:04:45Z	
+6.1-javax	named	pl.morgwai.base	servlet-scopes	2021-11-12T22:17:22Z	1.11.22
+6.1-jakarta-experimental	named	pl.morgwai.base	servlet-scopes	2021-11-12T22:19:48Z	1.11.22
+1.2.1.2-jre17	named	com.guicedee.services	byte-buddy	2021-11-16T02:18:25Z	1.2.1.2-jre17
+1.13.0	named	org.agrona	agrona-agent	2021-11-16T19:08:44Z	1.12.1
+1.36.0	named	io.aeron	aeron-agent	2021-11-19T15:49:11Z	1.12.1
+1.13.1	named	org.agrona	agrona-agent	2021-11-20T22:33:24Z	1.12.1
+1.6.0-RC	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-11-22T09:44:38Z	
+1.12.2	named	net.bytebuddy	byte-buddy	2021-11-22T21:40:00Z	1.12.2
+1.14.0	named	org.agrona	agrona-agent	2021-11-23T16:28:27Z	1.12.2
+3.1.0	named	net.serenity-bdd	serenity-cli	2021-11-25T11:32:35Z	1.11.22
+1.37.0	named	io.aeron	aeron-agent	2021-11-26T17:35:32Z	1.12.2
+3.1.1	named	net.serenity-bdd	serenity-cli	2021-11-28T20:56:54Z	1.11.22
+3.1.2	named	net.serenity-bdd	serenity-cli	2021-11-30T20:59:40Z	1.11.22
+3.1.3	named	net.serenity-bdd	serenity-cli	2021-12-01T12:58:16Z	1.11.22
+3.1.4	named	net.serenity-bdd	serenity-cli	2021-12-02T07:25:33Z	1.11.22
+3.1.5	named	net.serenity-bdd	serenity-cli	2021-12-02T16:07:06Z	1.11.22
+1.12.3	named	net.bytebuddy	byte-buddy	2021-12-02T21:18:19Z	1.12.3
+3.1.10	named	net.serenity-bdd	serenity-cli	2021-12-06T12:06:01Z	1.12.3
+8.5.68.1	named	com.heroku	webapp-runner	2021-12-10T11:40:24Z	
+1.6.0-RC2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-12-10T15:41:43Z	
+1.12.4	named	net.bytebuddy	byte-buddy	2021-12-15T21:32:49Z	1.12.4
+1.6.0-RC3	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-12-16T11:13:11Z	
+1.12.5	named	net.bytebuddy	byte-buddy	2021-12-16T20:53:13Z	1.12.5
+3.1.11	named	net.serenity-bdd	serenity-cli	2021-12-17T10:50:26Z	1.12.3
+1.12.6	named	net.bytebuddy	byte-buddy	2021-12-20T10:34:46Z	1.12.6
+3.1.13	named	net.serenity-bdd	serenity-cli	2021-12-20T14:08:41Z	1.12.3
+3.1.15	named	net.serenity-bdd	serenity-cli	2021-12-20T19:45:24Z	1.12.3
+1.6.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-12-22T09:04:22Z	
+1.6.0-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2021-12-22T10:23:02Z	
+1.12.7	named	net.bytebuddy	byte-buddy	2022-01-15T09:22:47Z	1.12.7
+3.1.16	named	net.serenity-bdd	serenity-cli	2022-01-23T09:49:31Z	1.12.3
+5.1.0	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-02-09T10:45:14Z	1.11.18
+1.2.2.1	named	com.guicedee.services	byte-buddy	2022-02-09T23:19:41Z	1.2.2.1
+1.2.2.1-jre17	named	com.guicedee.services	byte-buddy	2022-02-10T15:59:48Z	1.2.2.1-jre17
+1.12.8	named	net.bytebuddy	byte-buddy	2022-02-10T19:29:50Z	1.12.8
+3.3.2	named	org.apache.hadoop	hadoop-client-minicluster	2022-02-21T20:40:29Z	
+2.65	named	com.proofpoint.platform	jaxrs	2022-03-02T01:02:33Z	
+0.2.44-alpha	named	io.castled	container	2022-03-05T14:03:49Z	
+0.2.45-alpha	named	io.castled	container	2022-03-05T16:41:40Z	
+0.2.46-alpha	named	io.castled	container	2022-03-05T18:50:56Z	
+0.2.47-alpha	named	io.castled	container	2022-03-05T19:36:00Z	
+0.2.48-alpha	named	io.castled	container	2022-03-08T22:33:32Z	
+0.2.49-alpha	named	io.castled	container	2022-03-09T04:27:23Z	
+0.2.50-alpha	named	io.castled	container	2022-03-09T05:24:55Z	
+0.2.51-alpha	named	io.castled	container	2022-03-14T15:39:37Z	
+0.2.52-alpha	named	io.castled	container	2022-03-15T09:43:05Z	
+0.2.53-alpha	named	io.castled	container	2022-03-15T16:58:43Z	
+1.15.0	named	org.agrona	agrona-agent	2022-03-15T17:46:56Z	1.12.7
+0.2.54-alpha	named	io.castled	container	2022-03-16T02:47:16Z	
+0.2.55-alpha	named	io.castled	container	2022-03-18T11:42:52Z	
+0.2.56-alpha	named	io.castled	container	2022-03-18T12:03:41Z	
+0.2.57-alpha	named	io.castled	container	2022-03-18T12:21:40Z	
+0.2.58-alpha	named	io.castled	container	2022-03-18T16:13:23Z	
+0.2.59-alpha	named	io.castled	container	2022-03-18T16:32:49Z	
+0.2.60-alpha	named	io.castled	container	2022-03-19T11:08:52Z	
+0.2.61-alpha	named	io.castled	container	2022-03-19T11:43:52Z	
+0.2.62-alpha	named	io.castled	container	2022-03-19T12:29:56Z	
+0.2.63-alpha	named	io.castled	container	2022-03-19T13:02:04Z	
+0.2.64-alpha	named	io.castled	container	2022-03-20T04:27:09Z	
+0.2.65-alpha	named	io.castled	container	2022-03-20T04:42:05Z	
+0.2.66-alpha	named	io.castled	container	2022-03-20T06:09:25Z	
+0.2.67-alpha	named	io.castled	container	2022-03-20T07:03:14Z	
+0.2.68-alpha	named	io.castled	container	2022-03-20T08:03:04Z	
+0.2.69-alpha	named	io.castled	container	2022-03-20T08:32:12Z	
+0.2.70-alpha	named	io.castled	container	2022-03-20T21:05:50Z	
+0.2.71-alpha	named	io.castled	container	2022-03-21T15:36:25Z	
+0.2.72-alpha	named	io.castled	container	2022-03-22T06:27:22Z	
+0.2.73-alpha	named	io.castled	container	2022-03-22T07:45:48Z	
+0.2.74-alpha	named	io.castled	container	2022-03-22T11:23:11Z	
+0.2.75-alpha	named	io.castled	container	2022-03-22T12:10:22Z	
+0.2.76-alpha	named	io.castled	container	2022-03-22T14:13:55Z	
+0.2.77-alpha	named	io.castled	container	2022-03-22T14:39:18Z	
+0.2.78-alpha	named	io.castled	container	2022-03-22T15:13:53Z	
+0.2.79-alpha	named	io.castled	container	2022-03-22T15:36:18Z	
+0.2.80-alpha	named	io.castled	container	2022-03-23T02:56:47Z	
+0.2.81-alpha	named	io.castled	container	2022-03-23T10:27:34Z	
+0.2.82-alpha	named	io.castled	container	2022-03-23T10:56:04Z	
+0.2.83-alpha	named	io.castled	container	2022-03-23T11:07:24Z	
+0.2.84-alpha	named	io.castled	container	2022-03-23T12:01:44Z	
+0.2.85-alpha	named	io.castled	container	2022-03-23T13:01:49Z	
+0.2.86-alpha	named	io.castled	container	2022-03-23T20:21:58Z	
+0.2.87-alpha	named	io.castled	container	2022-03-24T13:18:26Z	
+0.2.88-alpha	named	io.castled	container	2022-03-28T10:15:18Z	
+0.2.89-alpha	named	io.castled	container	2022-03-28T10:43:23Z	
+2.66	named	com.proofpoint.platform	jaxrs	2022-03-28T23:18:25Z	
+202203291	named	org.treblereel.gwt.gwtproject.resources	gwt-resources-processor	2022-03-30T05:11:24Z	
+0.2.90-alpha	named	io.castled	container	2022-04-04T09:53:34Z	
+1.6.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-04-04T13:09:48Z	
+1.6.1-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-04-05T13:08:52Z	
+1.12.9	named	net.bytebuddy	byte-buddy	2022-04-07T13:05:59Z	1.12.9
+5.1.1	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-04-08T08:57:27Z	1.11.18
+1.38.0	named	io.aeron	aeron-agent	2022-04-14T15:34:52Z	1.12.9
+1.15.1	named	org.agrona	agrona-agent	2022-04-14T16:57:07Z	1.12.9
+1.38.1	named	io.aeron	aeron-agent	2022-04-14T18:00:49Z	1.12.9
+0.0.2	named	com.github.jiayaoguang	gameserver-example	2022-04-16T09:54:54Z	
+1.2.3	named	com.github.roskart.dropwizard-jaxws	dropwizard-jaxws-example	2022-04-18T20:49:55Z	1.12.8
+0.2.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-04-20T02:12:37Z	
+0.2.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-04-24T10:48:38Z	
+1.12.10	named	net.bytebuddy	byte-buddy	2022-05-01T07:52:12Z	1.12.10
+2.67	named	com.proofpoint.platform	jaxrs	2022-05-06T18:16:01Z	
+3.3.3	named	org.apache.hadoop	hadoop-client-minicluster	2022-05-09T17:44:16Z	
+1.15.2	named	org.agrona	agrona-agent	2022-05-16T17:35:13Z	1.12.9
+0.2.2	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-05-20T02:05:16Z	
+0.3.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-05-21T03:23:00Z	
+1.4.0.Final	named	org.infinispan.doclets	infinispan-doclets-java11	2022-05-23T07:10:21Z	1.12.10
+0.2.3	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-05-25T08:57:08Z	
+0.3.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-05-26T07:01:41Z	
+1.6.2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-05-27T16:02:54Z	
+0.3.2	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-05-30T11:15:45Z	
+2.68	named	com.proofpoint.platform	jaxrs	2022-06-01T23:19:35Z	1.12.9
+5.1.2	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-06-13T14:45:25Z	1.12.10
+0.3.3	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-15T07:50:39Z	
+2.69	named	com.proofpoint.platform	jaxrs	2022-06-17T18:12:17Z	1.12.9
+1.6.3	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-06-20T11:21:34Z	
+1.12.11	named	net.bytebuddy	byte-buddy	2022-06-22T14:21:44Z	1.12.11
+1.6.3-native-mt	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-06-22T20:44:35Z	
+0.3.4	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-23T11:01:44Z	
+0.3.5	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-24T17:07:48Z	
+0.3.6	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-25T11:08:13Z	
+1.12.12	named	net.bytebuddy	byte-buddy	2022-06-25T20:15:11Z	1.12.12
+0.3.7	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-27T13:32:21Z	
+1.16.0	named	org.agrona	agrona-agent	2022-06-27T15:24:46Z	1.12.10
+0.2.5	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-29T03:02:24Z	
+0.3.8	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-06-29T03:25:18Z	
+1.6.4	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2022-07-13T10:23:51Z	
+1.39.0	named	io.aeron	aeron-agent	2022-07-14T11:42:15Z	1.12.10
+0.4.0-RELEASE	named	org.sheinbergon	needle-agent	2022-07-19T17:12:44Z	1.12.12
+3.3.4	named	org.apache.hadoop	hadoop-client-minicluster	2022-07-29T13:43:16Z	
+1.12.13	named	net.bytebuddy	byte-buddy	2022-08-01T18:42:50Z	1.12.13
+0.4.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-08-02T03:01:34Z	
+1.6.4	named	org.danbrough.kotlinx	kotlinx-coroutines-debug	2022-08-15T22:51:27Z	
+1.12.14	named	net.bytebuddy	byte-buddy	2022-08-22T11:42:41Z	1.12.14
+0.5.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-08-29T03:11:15Z	
+0.5.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-09-02T08:57:44Z	
+5.2.0	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-09-05T09:24:47Z	1.12.10
+1.12.16	named	net.bytebuddy	byte-buddy	2022-09-08T14:45:03Z	1.12.16
+0.5.2	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-09-13T11:19:20Z	
+1.17.0	named	org.agrona	agrona-agent	2022-09-14T14:53:25Z	1.12.16
+1.17.1	named	org.agrona	agrona-agent	2022-09-14T17:41:22Z	1.12.16
+1.12.17	named	net.bytebuddy	byte-buddy	2022-09-20T22:30:59Z	1.12.17
+1.6.3-native-mt	named	org.danbrough.kotlinx	kotlinx-coroutines-debug	2022-09-30T03:01:47Z	
+0.6.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-10-08T10:32:36Z	
+1.12.18	named	net.bytebuddy	byte-buddy	2022-10-11T10:58:44Z	1.12.18
+5.0.0	named	org.easymock	easymock	2022-10-15T02:03:57Z	1.12.18
+5.2.1	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-10-15T04:30:33Z	1.12.10
+0.6.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-10-17T03:11:50Z	
+0.6.2	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-10-19T11:52:57Z	
+0.6.2	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-10-19T11:53:12Z	
+1.40.0	named	io.aeron	aeron-agent	2022-10-21T17:28:17Z	1.12.18
+5.0.1	named	org.easymock	easymock	2022-10-24T03:56:16Z	1.12.18
+2.70	named	com.proofpoint.platform	jaxrs	2022-10-26T23:22:16Z	1.12.9
+1.8	named	io.github.rysefoxx.hologram.plugin	MineQuestHologram-Plugin	2022-10-29T13:12:42Z	
+1.4	named	io.github.rysefoxx.npc.plugin	MineQuestNPC-Plugin	2022-10-29T13:16:20Z	
+1.4.1	named	io.github.rysefoxx.npc.plugin	MineQuestNPC-Plugin	2022-10-29T13:34:41Z	
+2.71	named	com.proofpoint.platform	jaxrs	2022-10-31T22:57:34Z	1.12.9
+2.72	named	com.proofpoint.platform	jaxrs	2022-11-02T22:20:30Z	1.12.9
+0.6.3	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-11-04T06:58:21Z	
+0.6.3	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-11-04T06:58:35Z	
+2.73	named	com.proofpoint.platform	jaxrs	2022-11-04T16:40:33Z	1.12.9
+0.7.0	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-11-11T08:49:24Z	
+0.7.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-11-11T08:49:39Z	
+0.6.4	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-11-14T07:30:19Z	
+0.6.4	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-11-14T07:30:39Z	
+4.1.0	named	org.duracloud.mill	manifest-cleaner	2022-11-17T20:00:01Z	
+4.1.0	named	org.duracloud.mill	storage-reporter	2022-11-17T20:00:15Z	
+1.12.19	named	net.bytebuddy	byte-buddy	2022-11-17T21:43:23Z	1.12.19
+2.74	named	com.proofpoint.platform	jaxrs	2022-11-18T23:16:06Z	1.12.9
+2.75	named	com.proofpoint.platform	jaxrs	2022-11-28T17:42:29Z	1.12.9
+0.8.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-11-30T09:53:46Z	
+0.8.0	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-11-30T09:53:47Z	
+5.3.0	named	org.apache.shardingsphere	shardingsphere-agent-bootstrap	2022-12-06T08:23:45Z	1.12.12
+2.76	named	com.proofpoint.platform	jaxrs	2022-12-08T17:13:02Z	1.12.9
+0.9.0	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-12-14T13:22:53Z	
+0.9.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-12-14T13:22:55Z	
+1.12.20	named	net.bytebuddy	byte-buddy	2022-12-15T07:53:00Z	1.12.20
+2.0	named	org.devocative.artemis	artemis-cli	2022-12-16T17:20:55Z	1.12.16
+2.77	named	com.proofpoint.platform	jaxrs	2022-12-22T20:21:45Z	1.12.9
+1.0.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2022-12-27T08:00:11Z	
+1.0.0	named	com.huaweicloud.sermant	sermant-agentcore-implement	2022-12-27T08:00:17Z	
+5.3.1.1	named	io.github.greycode	shardingsphere-agent-bootstrap	2022-12-29T09:22:00Z	1.12.12
+5.3.1.1	named	io.github.greycode	shardingsphere-agent-metrics-core	2022-12-29T09:41:32Z	1.12.12
+5.3.1.1	named	io.github.greycode	shardingsphere-agent-plugin-core	2022-12-29T09:43:02Z	1.12.12
+5.1.0	named	org.easymock	easymock	2022-12-30T20:44:38Z	1.12.20
+5.3.1.2	named	io.github.greycode	shardingsphere-agent-core	2023-01-02T04:51:53Z	1.12.12
+1.12.21	named	net.bytebuddy	byte-buddy	2023-01-04T22:47:32Z	1.12.21
+5.3.1	named	org.apache.shardingsphere	shardingsphere-agent-core	2023-01-06T16:49:22Z	1.12.12
+5.3.1.3	named	io.github.greycode	shardingsphere-agent-core	2023-01-08T14:06:54Z	1.12.12
+1.12.22	named	net.bytebuddy	byte-buddy	2023-01-12T15:05:19Z	1.12.22
+1.1.0	named	io.github.freedy001	expression	2023-01-18T15:10:55Z	1.12.16
+2.78	named	com.proofpoint.platform	jaxrs	2023-01-20T06:06:43Z	1.12.9
+2.83	named	com.proofpoint.platform	jaxrs	2023-01-28T00:30:31Z	1.12.9
+0.0.5-RELEASE	named	io.gitee.dqcer	mcdull-framework-agent	2023-01-29T10:24:44Z	1.12.11
+1.12.23	named	net.bytebuddy	byte-buddy	2023-02-05T09:55:07Z	1.12.23
+1.0.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-02-08T06:30:37Z	
+1.0.1	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-02-08T06:30:38Z	
+1.0.0	named	com.navercorp.scavenger	scavenger-agent-java	2023-02-08T12:04:31Z	1.12.6
+1.13.0	named	net.bytebuddy	byte-buddy	2023-02-10T17:53:26Z	1.13.0
+1.0.0	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-02-14T16:51:17Z	1.12.22
+2.84	named	com.proofpoint.platform	jaxrs	2023-02-16T22:24:50Z	1.12.9
+1.14.0	named	net.bytebuddy	byte-buddy	2023-02-18T23:01:34Z	1.14.0
+1.2.7	named	io.keploy	agent	2023-02-22T08:22:38Z	1.12.14
+1.0.3	named	com.navercorp.scavenger	scavenger-agent-java	2023-02-23T05:41:07Z	1.12.6
+1.2.8	named	io.keploy	agent	2023-02-23T18:09:23Z	1.12.14
+5.3.2.1	named	io.github.greycode	shardingsphere-agent-core	2023-02-24T05:22:30Z	1.12.12
+1.0.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-02-27T15:50:03Z	1.12.22
+5.3.2.2	named	io.github.greycode	shardingsphere-agent-core	2023-03-04T10:37:18Z	1.12.12
+1.14.1	named	net.bytebuddy	byte-buddy	2023-03-07T07:35:59Z	1.14.1
+1.7.0-Beta	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-03-08T16:26:40Z	
+5.3.2.4	named	io.github.greycode	shardingsphere-agent-core	2023-03-09T15:10:11Z	1.12.12
+1.14.2	named	net.bytebuddy	byte-buddy	2023-03-13T11:13:27Z	1.14.2
+debug.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-13T15:01:48Z	1.12.22
+1.0.4	named	com.navercorp.scavenger	scavenger-agent-java	2023-03-14T03:17:48Z	1.12.23
+3.3.5	named	org.apache.hadoop	hadoop-client-minicluster	2023-03-15T16:58:14Z	
+1.0.2	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-16T09:02:10Z	1.12.22
+1.0.3	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-17T11:38:04Z	1.12.22
+1.0.4	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-23T09:45:32Z	1.12.22
+1.0.5	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-23T13:30:55Z	1.12.22
+5.3.2	named	org.apache.shardingsphere	shardingsphere-agent-core	2023-03-26T15:27:42Z	1.12.12
+1.0.6	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-26T19:24:13Z	1.12.22
+1.14.3	named	net.bytebuddy	byte-buddy	2023-03-28T07:09:14Z	1.14.3
+1.18.0	named	org.agrona	agrona-agent	2023-03-29T09:00:16Z	1.14.3
+1.0.2	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-03-31T08:10:29Z	
+1.0.2	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-03-31T08:10:30Z	
+0.0.3	named	com.github.jiayaoguang	gameserver-example	2023-04-01T00:41:30Z	
+2.85	named	com.proofpoint.platform	jaxrs	2023-04-05T16:54:17Z	1.12.9
+1.14.4	named	net.bytebuddy	byte-buddy	2023-04-05T22:29:37Z	1.14.4
+1.41.0	named	io.aeron	aeron-agent	2023-04-14T13:23:35Z	1.14.3
+1.18.1	named	org.agrona	agrona-agent	2023-04-16T22:47:10Z	1.14.3
+1.41.1	named	io.aeron	aeron-agent	2023-04-17T08:39:55Z	1.14.3
+1.0.7	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-04-17T11:16:15Z	1.12.22
+1.7.0-RC	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-04-19T12:46:56Z	
+1.41.2	named	io.aeron	aeron-agent	2023-04-20T08:34:33Z	1.14.4
+1.2.9	named	io.keploy	agent	2023-04-22T19:29:13Z	1.12.14
+1.0.3	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-04-27T12:10:58Z	
+1.0.3	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-04-27T12:10:59Z	
+1.7.0	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-05-05T14:13:16Z	
+2.86	named	com.proofpoint.platform	jaxrs	2023-05-05T15:56:33Z	1.12.9
+2.87	named	com.proofpoint.platform	jaxrs	2023-05-08T21:58:43Z	1.12.9
+2.88	named	com.proofpoint.platform	jaxrs	2023-05-09T20:32:42Z	1.12.9
+1.7.1	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-05-12T15:25:51Z	
+1.41.3	named	io.aeron	aeron-agent	2023-05-16T02:35:51Z	1.14.4
+2.89	named	com.proofpoint.platform	jaxrs	2023-05-17T18:45:23Z	1.12.9
+2.90	named	com.proofpoint.platform	jaxrs	2023-05-18T16:10:20Z	1.12.9
+4.1.1	named	org.duracloud.mill	manifest-cleaner	2023-05-18T19:29:14Z	
+4.1.1	named	org.duracloud.mill	storage-reporter	2023-05-18T19:29:29Z	
+5.3.3.1	named	io.github.greycode	shardingsphere-agent-core	2023-05-20T16:09:15Z	1.14.4
+2.93	named	com.proofpoint.platform	jaxrs	2023-05-22T22:34:21Z	1.12.9
+1.14.5	named	net.bytebuddy	byte-buddy	2023-06-01T22:34:17Z	1.14.5
+1.18.2	named	org.agrona	agrona-agent	2023-06-08T14:38:49Z	1.14.4
+1.17.2	named	org.agrona	agrona-agent	2023-06-08T15:09:23Z	1.12.16
+2.94	named	com.proofpoint.platform	jaxrs	2023-06-12T21:16:23Z	1.12.9
+1.41.4	named	io.aeron	aeron-agent	2023-06-13T22:19:47Z	1.14.5
+1.1.0	named	com.navercorp.scavenger	scavenger-agent-java	2023-06-14T03:27:06Z	1.12.23
+1.11	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-06-15T12:24:13Z	1.14.4
+1.13	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-06-15T14:44:02Z	1.14.4
+1.15	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-06-15T14:53:47Z	1.14.4
+3.3.6	named	org.apache.hadoop	hadoop-client-minicluster	2023-06-18T09:07:51Z	
+1.7.2	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-06-29T12:14:16Z	
+1.1.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-06-30T09:49:07Z	
+1.1.0	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-06-30T09:49:07Z	
+1.0.1	named	io.github.kylin-hunter	k-agent-invoke-analysis	2023-06-30T16:10:37Z	1.14.0
+5.4.0	named	org.apache.shardingsphere	shardingsphere-agent-core	2023-07-04T12:27:58Z	1.14.4
+1.27	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-07-04T22:04:06Z	1.14.4
+1.29	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-07-04T22:23:19Z	1.14.4
+1.19.0	named	org.agrona	agrona-agent	2023-07-17T04:48:03Z	1.14.5
+1.7.3	named	org.jetbrains.kotlinx	kotlinx-coroutines-debug	2023-07-25T13:24:21Z	
+1.0.4	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-07-31T12:25:48Z	
+1.0.4	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-07-31T12:25:50Z	
+1.19.1	named	org.agrona	agrona-agent	2023-08-09T15:51:42Z	1.14.5
+1.0.5	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-08-12T10:40:05Z	
+1.0.5	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-08-12T10:40:13Z	
+1.14.6	named	net.bytebuddy	byte-buddy	2023-08-14T19:43:01Z	1.14.6
+2.95	named	com.proofpoint.platform	jaxrs	2023-08-14T22:43:40Z	1.12.9
+1.42.0	named	io.aeron	aeron-agent	2023-08-20T23:29:20Z	1.14.6
+2.96	named	com.proofpoint.platform	jaxrs	2023-08-25T15:48:45Z	1.12.9
+2.97	named	com.proofpoint.platform	jaxrs	2023-08-25T22:10:41Z	1.12.9
+1.14.7	named	net.bytebuddy	byte-buddy	2023-08-27T22:22:54Z	1.14.7
+5.2.0	named	org.easymock	easymock	2023-08-30T03:37:13Z	1.14.7
+1.1.1	named	com.navercorp.scavenger	scavenger-agent-java	2023-08-30T10:31:16Z	1.12.23
+2.98	named	com.proofpoint.platform	jaxrs	2023-08-31T20:47:26Z	1.12.9
+1.19.2	named	org.agrona	agrona-agent	2023-09-01T14:48:51Z	1.14.7
+1.42.1	named	io.aeron	aeron-agent	2023-09-01T16:55:29Z	1.14.7
+4.2.0	named	org.duracloud.mill	storage-reporter	2023-09-11T22:26:53Z	
+4.2.0	named	org.duracloud.mill	manifest-cleaner	2023-09-11T22:26:59Z	
+1.14.8	named	net.bytebuddy	byte-buddy	2023-09-14T14:00:24Z	1.14.8
+2.99	named	com.proofpoint.platform	jaxrs	2023-09-14T19:46:00Z	1.12.9
+3.00	named	com.proofpoint.platform	jaxrs	2023-09-18T17:02:35Z	1.12.9
+1.0.6	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-09-22T07:28:52Z	
+1.0.6	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-09-22T07:28:54Z	
+3.01	named	com.proofpoint.platform	jaxrs	2023-09-25T23:55:39Z	1.12.9
+3.02	named	com.proofpoint.platform	jaxrs	2023-09-28T17:37:17Z	1.12.9
+1.2.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-10-07T12:16:20Z	1.12.19
+1.14.9	named	net.bytebuddy	byte-buddy	2023-10-09T11:07:27Z	1.14.9
+3.03	named	com.proofpoint.platform	jaxrs	2023-10-11T19:10:33Z	1.12.9
+1.31	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-10-12T16:13:11Z	1.14.4
+1.32	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-10-12T16:19:35Z	1.14.4
+3.04	named	com.proofpoint.platform	jaxrs	2023-10-13T18:26:18Z	1.12.9
+1.33	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-10-15T11:29:24Z	1.14.4
+1.35	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2023-10-17T09:40:42Z	1.14.4
+5.4.1	named	org.apache.shardingsphere	shardingsphere-agent-core	2023-10-17T13:21:15Z	1.14.8
+1.1	named	io.github.rr9-cn	pro-agent	2023-10-25T14:54:26Z	1.12.6
+3.06	named	com.proofpoint.platform	jaxrs	2023-10-30T18:21:20Z	1.12.9
+1.20.0	named	org.agrona	agrona-agent	2023-11-02T09:59:09Z	1.14.9
+3.07	named	com.proofpoint.platform	jaxrs	2023-11-08T19:48:03Z	1.12.9
+1.2.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-11-09T06:33:35Z	1.12.19
+1.41.5	named	io.aeron	aeron-agent	2023-11-09T08:53:02Z	1.14.5
+1.0.0	named	au.com.integradev.delphi	sonar-delphi-plugin	2023-11-13T22:34:09Z	1.14.9
+5.0.0	named	org.duracloud.mill	storage-reporter	2023-11-15T21:03:16Z	1.11.12
+5.0.0	named	org.duracloud.mill	manifest-cleaner	2023-11-15T21:03:20Z	1.11.12
+1.14.10	named	net.bytebuddy	byte-buddy	2023-11-20T09:33:14Z	1.14.10
+3.08	named	com.proofpoint.platform	jaxrs	2023-11-30T17:42:47Z	1.12.9
+0.1	named	io.atlasgo	hibernate-provider-maven-plugin	2023-12-07T11:55:57Z	1.12.18
+1.3.0	named	io.keploy	agent	2023-12-11T18:26:47Z	1.12.14
+0.3.7	named	io.atlasgo	hibernate-provider-maven-plugin	2023-12-12T12:44:07Z	1.12.18
+0.3.8	named	io.atlasgo	hibernate-provider-maven-plugin	2023-12-12T13:51:29Z	1.12.18
+1.43.0	named	io.aeron	aeron-agent	2023-12-19T00:17:50Z	1.14.10
+1.0.7	named	com.huaweicloud.sermant	sermant-agentcore-implement	2023-12-19T12:21:21Z	
+1.0.7	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-12-19T12:21:22Z	
+1.14.11	named	net.bytebuddy	byte-buddy	2023-12-20T23:29:27Z	1.14.11
+1.3.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2023-12-29T07:22:11Z	1.12.19
+1.1.0	named	au.com.integradev.delphi	sonar-delphi-plugin	2024-01-02T07:58:50Z	1.14.9
+1.41.6	named	io.aeron	aeron-agent	2024-01-05T09:20:19Z	1.14.5
+1.1.2	named	com.navercorp.scavenger	scavenger-agent-java	2024-01-10T07:07:59Z	1.14.3
+1.3.1	named	io.keploy	agent	2024-01-10T13:24:13Z	1.12.14
+1.3.3	named	io.keploy	agent	2024-01-11T10:44:49Z	1.12.14
+1.26.0	named	com.appland	appmap-agent	2024-01-11T12:32:53Z	1.14.10
+1.26.1	named	com.appland	appmap-agent	2024-01-16T22:37:56Z	1.14.10
+1.3.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2024-01-17T13:05:50Z	1.12.19
+3.09	named	com.proofpoint.platform	jaxrs	2024-01-29T04:40:49Z	1.12.9
+1.26.2	named	com.appland	appmap-agent	2024-01-31T10:12:07Z	1.14.10
+3.12	named	com.proofpoint.platform	jaxrs	2024-01-31T22:12:28Z	1.12.9
+1.26.3	named	com.appland	appmap-agent	2024-02-02T20:41:17Z	1.14.10
+1.14.12	named	net.bytebuddy	byte-buddy	2024-02-16T13:07:52Z	1.14.12
+1.26.4	named	com.appland	appmap-agent	2024-02-16T17:30:54Z	1.14.10
+1.3.4	named	io.keploy	agent	2024-02-21T08:34:40Z	1.12.14
+1.3.6	named	io.keploy	agent	2024-02-22T11:51:41Z	1.12.14
+3.13	named	com.proofpoint.platform	jaxrs	2024-02-26T19:19:47Z	1.12.9
+3.14	named	com.proofpoint.platform	jaxrs	2024-02-26T20:45:25Z	1.12.9
+3.15	named	com.proofpoint.platform	jaxrs	2024-03-01T03:05:25Z	1.12.9
+4.0.0	named	org.duracloud.snapshot	snapshot-service-impl	2024-03-02T00:56:14Z	1.11.12
+1.36	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2024-03-04T04:13:41Z	1.14.4
+1.37	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2024-03-04T12:06:06Z	1.14.4
+1.37.1	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2024-03-04T13:05:07Z	1.14.4
+3.16	named	com.proofpoint.platform	jaxrs	2024-03-04T19:17:07Z	1.12.9
+1.3.7	named	io.keploy	agent	2024-03-05T09:45:36Z	1.12.14
+1.37.2	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2024-03-05T11:15:39Z	1.14.4
+1.39	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2024-03-06T11:11:54Z	1.14.4
+3.17	named	com.proofpoint.platform	jaxrs	2024-03-07T01:56:49Z	1.12.9
+0.0.0-2024-03-08T01-10-09-4912feb	named	com.graphql-java	graphql-java-agent	2024-03-08T01:10:38Z	1.14.11
+0.0.0-2024-03-08T02-18-46-4307b3f	named	com.graphql-java	graphql-java-agent	2024-03-08T02:19:16Z	1.14.11
+0.0.0-2024-03-08T02-19-23-4d817c2	named	com.graphql-java	graphql-java-agent	2024-03-08T02:20:00Z	1.14.11
+3.18	named	com.proofpoint.platform	jaxrs	2024-03-08T18:56:48Z	1.12.9
+0.0.0-2024-03-10T00-08-47-768e507	named	com.graphql-java	graphql-java-agent	2024-03-10T00:09:24Z	1.14.11
+0.0.0-2024-03-10T00-31-25-78d3278	named	com.graphql-java	graphql-java-agent	2024-03-10T00:31:58Z	1.14.11
+0.0.0-2024-03-11T10-31-43-0bc2fd5	named	com.graphql-java	graphql-java-agent	2024-03-11T10:32:21Z	1.14.11
+3.20	named	com.proofpoint.platform	jaxrs	2024-03-11T18:52:00Z	1.12.9
+0.0.0-2024-03-12T02-53-56-52cc796	named	com.graphql-java	graphql-java-agent	2024-03-12T02:54:32Z	1.14.11
+0.0.0-2024-03-12T02-54-27-de3d33c	named	com.graphql-java	graphql-java-agent	2024-03-12T02:55:07Z	1.14.11
+0.0.0-2024-03-12T03-11-43-dc4b2a1	named	com.graphql-java	graphql-java-agent	2024-03-12T03:12:12Z	1.14.12
+0.0.0-2024-03-12T03-11-59-cc24040	named	com.graphql-java	graphql-java-agent	2024-03-12T03:12:36Z	1.14.12
+1.21.0	named	org.agrona	agrona-agent	2024-03-14T10:00:31Z	1.14.12
+0.0.0-2024-03-18T03-40-43-c92d0f2	named	com.graphql-java	graphql-java-agent	2024-03-18T03:41:20Z	1.14.12
+0.0.0-2024-03-18T04-01-28-776de2f	named	com.graphql-java	graphql-java-agent	2024-03-18T04:02:01Z	1.14.12
+0.0.0-2024-03-18T06-52-39-189a570	named	com.graphql-java	graphql-java-agent	2024-03-18T06:53:30Z	1.14.12
+0.0.0-2024-03-20T00-25-33-974c165	named	com.graphql-java	graphql-java-agent	2024-03-20T00:26:02Z	1.14.12
+0.0.0-2024-03-21T02-41-16-1ce00ca	named	com.graphql-java	graphql-java-agent	2024-03-21T02:41:46Z	1.14.12
+1.26.5	named	com.appland	appmap-agent	2024-03-21T15:43:01Z	1.14.10
+0.0.0-2024-03-22T04-18-12-97743bc	named	com.graphql-java	graphql-java-agent	2024-03-22T04:18:44Z	1.14.12
+7.6.0	named	com.arangodb	arangodb-java-driver-shaded	2024-03-22T09:56:20Z	1.14.11
+0.0.0-2024-03-22T23-15-21-17f5840	named	com.graphql-java	graphql-java-agent	2024-03-22T23:15:56Z	1.14.12
+0.0.0-2024-03-22T23-17-16-eabd2cf	named	com.graphql-java	graphql-java-agent	2024-03-22T23:17:47Z	1.14.12
+0.0.0-2024-03-22T23-18-46-1eb245d	named	com.graphql-java	graphql-java-agent	2024-03-22T23:19:25Z	1.14.12
+0.0.0-2024-03-25T06-15-15-d5eb160	named	com.graphql-java	graphql-java-agent	2024-03-25T06:15:46Z	1.14.12
+0.0.0-2024-03-26T04-28-10-2496fa1	named	com.graphql-java	graphql-java-agent	2024-03-26T04:28:44Z	1.14.12
+0.0.0-2024-03-26T04-32-31-9d270bc	named	com.graphql-java	graphql-java-agent	2024-03-26T04:33:10Z	1.14.12
+0.0.0-2024-03-26T04-33-32-aa9e10d	named	com.graphql-java	graphql-java-agent	2024-03-26T04:34:08Z	1.14.12
+0.0.0-2024-03-26T04-33-59-3e565cb	named	com.graphql-java	graphql-java-agent	2024-03-26T04:34:52Z	1.14.12
+0.0.0-2024-03-26T04-34-50-108910e	named	com.graphql-java	graphql-java-agent	2024-03-26T04:35:30Z	1.14.12
+0.0.0-2024-03-26T04-36-13-43149e0	named	com.graphql-java	graphql-java-agent	2024-03-26T04:37:02Z	1.14.12
+0.0.0-2024-03-26T04-37-38-da0ca46	named	com.graphql-java	graphql-java-agent	2024-03-26T04:38:15Z	1.14.12
+0.0.0-2024-03-26T04-38-10-bf10252	named	com.graphql-java	graphql-java-agent	2024-03-26T04:38:54Z	1.14.12
+0.0.0-2024-03-26T04-38-57-f4d49c6	named	com.graphql-java	graphql-java-agent	2024-03-26T04:39:41Z	1.14.12
+0.0.0-2024-03-26T05-52-58-fa748b4	named	com.graphql-java	graphql-java-agent	2024-03-26T05:53:31Z	1.14.12
+0.0.0-2024-03-26T07-23-38-76b0d0b	named	com.graphql-java	graphql-java-agent	2024-03-26T07:24:31Z	1.14.12
+0.0.0-2024-03-26T08-33-02-91fe1d5	named	com.graphql-java	graphql-java-agent	2024-03-26T08:33:37Z	1.14.12
+0.0.0-2024-03-27T05-18-34-a25d11d	named	com.graphql-java	graphql-java-agent	2024-03-27T05:19:05Z	1.14.12
+0.0.0-2024-03-27T05-32-30-79c2d64	named	com.graphql-java	graphql-java-agent	2024-03-27T05:33:06Z	1.14.12
+0.0.0-2024-03-28T10-27-26-41c9ba2	named	com.graphql-java	graphql-java-agent	2024-03-28T10:27:58Z	1.14.12
+1.3.8	named	io.keploy	agent	2024-03-28T19:29:09Z	1.12.14
+1.14.13	named	net.bytebuddy	byte-buddy	2024-03-28T20:24:52Z	1.14.13
+1.4.0	named	com.huaweicloud.sermant	sermant-agentcore-core	2024-03-30T09:16:30Z	1.12.19
+0.0.0-2024-04-02T02-04-45-fe3ab3d	named	com.graphql-java	graphql-java-agent	2024-04-02T02:05:21Z	1.14.13
+0.0.0-2024-04-02T05-38-25-6eb188b	named	com.graphql-java	graphql-java-agent	2024-04-02T05:38:56Z	1.14.13
+1.3.9	named	io.keploy	agent	2024-04-02T17:01:01Z	1.12.14
+0.0.0-2024-04-02T22-37-12-c49da41	named	com.graphql-java	graphql-java-agent	2024-04-02T22:37:43Z	1.14.13
+22.0-rc1	named	com.graphql-java	graphql-java-agent	2024-04-03T03:32:09Z	1.14.13
+0.0.0-2024-04-05T04-13-31-4f26a5e	named	com.graphql-java	graphql-java-agent	2024-04-05T04:14:04Z	1.14.13
+3.21	named	com.proofpoint.platform	jaxrs	2024-04-08T22:47:18Z	1.12.9
+0.0.0-2024-04-08T23-49-55-e01013f	named	com.graphql-java	graphql-java-agent	2024-04-08T23:50:32Z	1.14.13
+1.4.0	named	io.keploy	agent	2024-04-10T06:14:19Z	1.12.14
+1.26.6	named	com.appland	appmap-agent	2024-04-10T23:34:59Z	1.14.10
+0.0.0-2024-04-11T03-38-06-0dee00c	named	com.graphql-java	graphql-java-agent	2024-04-11T03:38:37Z	1.14.13
+1.4.1	named	io.keploy	agent	2024-04-13T07:30:16Z	1.12.14
+0.0.0-2024-04-14T23-40-21-7f13678	named	com.graphql-java	graphql-java-agent	2024-04-14T23:40:57Z	1.14.13
+1.26.7	named	com.appland	appmap-agent	2024-04-15T20:25:00Z	1.14.10
+0.0.0-2024-04-15T23-49-51-1d78326	named	com.graphql-java	graphql-java-agent	2024-04-15T23:50:24Z	1.14.13
+0.0.0-2024-04-15T23-57-45-2cf3cc0	named	com.graphql-java	graphql-java-agent	2024-04-15T23:58:21Z	1.14.13
+0.0.0-2024-04-15T23-58-51-c4df085	named	com.graphql-java	graphql-java-agent	2024-04-15T23:59:25Z	1.14.13
+0.0.0-2024-04-16T00-43-59-0eec91e	named	com.graphql-java	graphql-java-agent	2024-04-16T00:44:37Z	1.14.13
+22.0	named	com.graphql-java	graphql-java-agent	2024-04-16T05:09:55Z	1.14.13
+0.0.0-2024-04-16T05-09-56-321c7d8	named	com.graphql-java	graphql-java-agent	2024-04-16T05:10:27Z	1.14.13
+1.0.15	named	com.github.nomou	nougat-lang	2024-04-16T15:50:34Z	
+1.4.2	named	io.keploy	agent	2024-04-18T21:46:37Z	1.12.14
+3.22	named	com.proofpoint.platform	jaxrs	2024-04-22T18:46:34Z	1.12.9
+0.0.0-2024-04-23-expedia-branch-1	named	com.graphql-java	graphql-java-agent	2024-04-23T05:57:20Z	1.14.13
+1.14.14	named	net.bytebuddy	byte-buddy	2024-04-23T20:37:17Z	1.14.14
+0.0.0-2024-04-29T03-39-25-5f1edaf	named	com.graphql-java	graphql-java-agent	2024-04-29T03:39:57Z	1.14.13
+0.0.0-2024-04-29T06-36-25-f4de87c	named	com.graphql-java	graphql-java-agent	2024-04-29T06:36:56Z	1.14.13
+0.0.0-2024-04-30T01-25-21-2f5ff3c	named	com.graphql-java	graphql-java-agent	2024-04-30T01:25:55Z	1.14.14
+0.0.0-2024-05-07T06-02-21-c8f08df	named	com.graphql-java	graphql-java-agent	2024-05-07T06:02:52Z	1.14.14
+1.14.15	named	net.bytebuddy	byte-buddy	2024-05-08T07:40:23Z	1.14.15
+0.0.0-2024-05-14T01-35-00-17783d6	named	com.graphql-java	graphql-java-agent	2024-05-14T01:35:31Z	1.14.14
+0.0.0-2024-05-14T01-38-26-f20b6f8	named	com.graphql-java	graphql-java-agent	2024-05-14T01:38:57Z	1.14.15
+0.2.2	named	de.kontext-e.jqassistant.plugin	jqassistant.plugin.csharp	2024-05-14T09:54:58Z	1.14.9
+0.0.0-2024-05-14T21-58-54-2285351	named	com.graphql-java	graphql-java-agent	2024-05-14T21:59:31Z	1.14.15
+1.26.8	named	com.appland	appmap-agent	2024-05-16T15:24:00Z	1.14.10
+0.0.0-2024-05-17T11-01-26-11e9788	named	com.graphql-java	graphql-java-agent	2024-05-17T11:02:01Z	1.14.15
+0.0.0-2024-05-19T21-57-37-a9e47b1	named	com.graphql-java	graphql-java-agent	2024-05-19T21:58:07Z	1.14.15
+0.0.0-2024-05-20T23-29-12-6ba529f	named	com.graphql-java	graphql-java-agent	2024-05-20T23:29:44Z	1.14.15
+0.0.0-2024-05-20T23-29-25-647e098	named	com.graphql-java	graphql-java-agent	2024-05-20T23:30:05Z	1.14.15
+0.0.0-2024-05-20T23-32-55-58f82d2	named	com.graphql-java	graphql-java-agent	2024-05-20T23:33:28Z	1.14.15
+0.0.0-2024-05-21T05-15-20-f3253b4	named	com.graphql-java	graphql-java-agent	2024-05-21T05:16:04Z	1.14.15
+0.0.0-2024-05-21T05-16-23-53f22c5	named	com.graphql-java	graphql-java-agent	2024-05-21T05:17:02Z	1.14.15
+0.0.0-2024-05-21T05-18-55-f93fdac	named	com.graphql-java	graphql-java-agent	2024-05-21T05:19:26Z	1.14.15
+22.1	named	com.graphql-java	graphql-java-agent	2024-05-21T05:55:26Z	1.14.15
+0.2.3	named	de.kontext-e.jqassistant.plugin	jqassistant.plugin.csharp	2024-05-21T15:18:40Z	1.14.9
+1.14.16	named	net.bytebuddy	byte-buddy	2024-05-22T11:37:20Z	1.14.16
+3.23	named	com.proofpoint.platform	jaxrs	2024-05-24T16:00:27Z	1.12.9
+5.1.0	named	org.duracloud.mill	manifest-cleaner	2024-05-28T18:06:13Z	1.11.12
+5.1.0	named	org.duracloud.mill	storage-reporter	2024-05-28T18:06:17Z	1.11.12
+0.0.0-2024-05-29T00-26-42-d6cd3a4	named	com.graphql-java	graphql-java-agent	2024-05-29T00:27:15Z	1.14.16
+0.0.0-2024-05-29T00-26-53-a93342d	named	com.graphql-java	graphql-java-agent	2024-05-29T00:27:26Z	1.14.16
+1.14.17	named	net.bytebuddy	byte-buddy	2024-05-29T18:34:59Z	1.14.17
+0.1.1-RELEASE	named	io.gitee.dqcer	mcdull-framework-agent	2024-05-31T10:20:14Z	1.12.11
+0.0.0-2024-06-01T06-32-14-7eb7d90	named	com.graphql-java	graphql-java-agent	2024-06-01T06:33:04Z	1.14.16
+0.0.0-2024-06-01T06-46-55-4b27080	named	com.graphql-java	graphql-java-agent	2024-06-01T06:47:57Z	1.14.16
+0.0.0-2024-06-01T07-58-38-481854e	named	com.graphql-java	graphql-java-agent	2024-06-01T07:59:24Z	1.14.16
+0.0.0-2024-06-02T08-24-17-1ebf1a9	named	com.graphql-java	graphql-java-agent	2024-06-02T08:24:49Z	1.14.16
+0.0.0-2024-06-03T21-39-01-5772848	named	com.graphql-java	graphql-java-agent	2024-06-03T21:39:36Z	1.14.17
+0.0.0-2024-06-04T04-57-11-4e106d6	named	com.graphql-java	graphql-java-agent	2024-06-04T04:57:43Z	1.14.17
+0.0.0-2024-06-04T07-21-20-391bccb	named	com.graphql-java	graphql-java-agent	2024-06-04T07:21:52Z	1.14.17
+0.1.2-RELEASE	named	io.gitee.dqcer	mcdull-framework-agent	2024-06-05T01:42:14Z	1.12.11
+1.4.1	named	com.huaweicloud.sermant	sermant-agentcore-core	2024-06-06T01:06:46Z	1.12.19
+0.0.0-2024-06-07T06-04-45-b38dbd9	named	com.graphql-java	graphql-java-agent	2024-06-07T06:05:34Z	1.14.17
+0.0.0-2024-06-08T11-31-25-cfd5baa	named	com.graphql-java	graphql-java-agent	2024-06-08T11:32:41Z	1.14.17
+0.0.0-2024-06-11T21-45-52-5ff0027	named	com.graphql-java	graphql-java-agent	2024-06-11T21:46:24Z	1.14.17
+0.0.0-2024-06-12T11-31-37-4512e5b	named	com.graphql-java	graphql-java-agent	2024-06-12T11:32:12Z	1.14.17
+3.8.1	named	io.atlasgo	hibernate-provider-maven-plugin	2024-06-13T10:42:54Z	1.12.18
+0.0.0-2024-06-19T04-50-24-285d2c0	named	com.graphql-java	graphql-java-agent	2024-06-19T04:51:01Z	1.14.17
+0.0.0-2024-06-20T02-34-07-985e9c8	named	com.graphql-java	graphql-java-agent	2024-06-20T02:34:39Z	1.14.17
+0.0.0-2024-06-24T06-32-59-c0fc047	named	com.graphql-java	graphql-java-agent	2024-06-24T06:33:45Z	1.14.17
+0.0.0-2024-06-24T23-52-48-0f1eb5c	named	com.graphql-java	graphql-java-agent	2024-06-24T23:53:22Z	1.14.17
+1.4.5	named	io.keploy	agent	2024-06-25T07:47:58Z	1.12.14
+1.0.0	named	com.jd.live	joylive-bytekit-bytebuddy	2024-06-26T02:10:08Z	1.14.10
+3.8.2	named	io.atlasgo	hibernate-provider-maven-plugin	2024-06-27T13:27:49Z	1.12.18
+0.0.0-2024-06-28T04-37-51-99ec596	named	com.graphql-java	graphql-java-agent	2024-06-28T04:38:21Z	1.14.17
+2.0.0	named	io.sermant	sermant-agentcore-core	2024-07-01T08:31:29Z	1.12.19
+0.0.0-2024-07-03T06-43-14-2c9aabb	named	com.graphql-java	graphql-java-agent	2024-07-03T06:43:58Z	1.14.17
+0.0.0-2024-07-03T07-03-29-f5c340a	named	com.graphql-java	graphql-java-agent	2024-07-03T07:04:00Z	1.14.17
+0.0.0-2024-07-04T05-22-59-ce9904c	named	com.graphql-java	graphql-java-agent	2024-07-04T05:23:31Z	1.14.17
+0.0.0-2024-07-04T06-11-19-1b76500	named	com.graphql-java	graphql-java-agent	2024-07-04T06:12:01Z	1.14.17
+0.0.0-2024-07-04T06-13-12-8c10ed0	named	com.graphql-java	graphql-java-agent	2024-07-04T06:14:00Z	1.14.17
+1.26.9	named	com.appland	appmap-agent	2024-07-05T14:41:06Z	1.14.10
+1.14.18	named	net.bytebuddy	byte-buddy	2024-07-08T19:06:16Z	1.14.18
+0.0.0-2024-07-08T21-39-39-e7db6c7	named	com.graphql-java	graphql-java-agent	2024-07-08T21:40:11Z	1.14.17
+0.0.0-2024-07-08T23-38-55-ee32161	named	com.graphql-java	graphql-java-agent	2024-07-08T23:39:30Z	1.14.17
+0.0.0-2024-07-16T05-43-36-df050c2	named	com.graphql-java	graphql-java-agent	2024-07-16T05:44:07Z	1.14.17
+0.0.0-2024-07-16T05-44-29-68f3083	named	com.graphql-java	graphql-java-agent	2024-07-16T05:45:13Z	1.14.18
+1.1.0	named	com.jd.live	joylive-bytekit-bytebuddy	2024-07-17T06:26:46Z	1.14.10
+0.0.0-2024-07-25T03-39-18-579c174	named	com.graphql-java	graphql-java-agent	2024-07-25T03:40:18Z	1.14.18
+1.4.6	named	io.keploy	agent	2024-07-26T10:37:08Z	1.12.14
+1.4.7	named	io.keploy	agent	2024-07-26T10:51:53Z	1.12.14
+0.0.0-2024-07-29T06-38-57-20f51e3	named	com.graphql-java	graphql-java-agent	2024-07-29T06:39:33Z	1.14.18
+0.0.0-2024-07-29T08-14-44-5d10c1a	named	com.graphql-java	graphql-java-agent	2024-07-29T08:15:21Z	1.14.18
+0.0.0-2024-07-30T03-29-50-2ae1479	named	com.graphql-java	graphql-java-agent	2024-07-30T03:30:22Z	1.14.18
+0.0.0-2024-08-01T04-59-13-9cc3538	named	com.graphql-java	graphql-java-agent	2024-08-01T04:59:43Z	1.14.18
+22.2	named	com.graphql-java	graphql-java-agent	2024-08-12T00:22:15Z	1.14.18
+0.0.0-2024-08-13T05-20-33-96cadf7	named	com.graphql-java	graphql-java-agent	2024-08-13T05:21:14Z	1.14.18
+1.14.19	named	net.bytebuddy	byte-buddy	2024-08-15T23:03:58Z	1.14.19
+1.3	named	io.github.rxue	dictionary-jpa	2024-08-20T17:18:16Z	1.14.7
+1.26.10	named	com.appland	appmap-agent	2024-08-21T13:34:14Z	1.14.10
+1.15.0	named	net.bytebuddy	byte-buddy	2024-08-23T06:01:59Z	1.15.0
+3.2.4	named	de.gematik.test	tiger-java-agent	2024-08-23T07:23:23Z	1.14.18
+1.2.0	named	com.jd.live	joylive-bytekit-bytebuddy	2024-08-26T04:15:45Z	1.14.10
+0.0.0-2024-08-26T05-18-23-435de80	named	com.graphql-java	graphql-java-agent	2024-08-26T05:18:58Z	1.14.18
+3.2.5	named	de.gematik.test	tiger-java-agent	2024-08-26T08:42:08Z	1.14.18
+3.2.7	named	de.gematik.test	tiger-java-agent	2024-08-26T12:18:24Z	1.14.18
+1.27.0	named	com.appland	appmap-agent	2024-08-27T20:46:46Z	1.14.10
+1.15.1	named	net.bytebuddy	byte-buddy	2024-08-29T16:34:15Z	1.15.1
+0.0.0-2024-08-29T23-44-11-fde25db	named	com.graphql-java	graphql-java-agent	2024-08-29T23:44:59Z	1.14.18
+1.27.1	named	com.appland	appmap-agent	2024-09-02T17:47:15Z	1.14.10
+0.0.0-2024-09-03T03-22-00-b4faf3d	named	com.graphql-java	graphql-java-agent	2024-09-03T03:22:32Z	1.15.1
+0.0.0-2024-09-03T03-22-32-197dd6e	named	com.graphql-java	graphql-java-agent	2024-09-03T03:23:18Z	1.15.1
+0.0.0-2024-09-03T03-22-40-acbed23	named	com.graphql-java	graphql-java-agent	2024-09-03T03:23:29Z	1.15.1
+0.0.0-2024-09-03T03-36-42-d6dbf61	named	com.graphql-java	graphql-java-agent	2024-09-03T03:37:25Z	1.15.1
+22.3	named	com.graphql-java	graphql-java-agent	2024-09-05T03:18:29Z	1.15.1
+3.3.0	named	de.gematik.test	tiger-java-agent	2024-09-05T12:54:48Z	1.14.18
+0.1.3-RELEASE	named	io.gitee.dqcer	mcdull-framework-agent	2024-09-13T05:33:34Z	1.12.11
+1.3.0	named	com.jd.live	joylive-bytekit-bytebuddy	2024-09-24T10:16:22Z	1.14.10
+1.15.2	named	net.bytebuddy	byte-buddy	2024-09-25T07:41:16Z	1.15.2
+1.15.3	named	net.bytebuddy	byte-buddy	2024-09-26T22:15:16Z	1.15.3
+1.3.1	named	com.jd.live	joylive-bytekit-bytebuddy	2024-09-30T06:31:10Z	1.14.10
+2.1.0	named	io.sermant	sermant-agentcore-core	2024-09-30T08:46:53Z	1.12.19
+3.4.2	named	de.gematik.test	tiger-java-agent	2024-10-08T12:08:43Z	1.15.1
+1.15.4	named	net.bytebuddy	byte-buddy	2024-10-09T19:58:23Z	1.15.4
+1.3.2	named	com.jd.live	joylive-bytekit-bytebuddy	2024-10-10T06:24:23Z	1.14.10
+1.3.3	named	com.jd.live	joylive-bytekit-bytebuddy	2024-10-12T06:50:53Z	1.14.10
+1.15.5	named	net.bytebuddy	byte-buddy	2024-10-17T09:47:17Z	1.15.5
+0.0.0-2024-10-22T03-36-13-f551469	named	com.graphql-java	graphql-java-agent	2024-10-22T03:36:51Z	1.15.5
+0.0.0-2024-10-22T03-36-26-b920e68	named	com.graphql-java	graphql-java-agent	2024-10-22T03:37:01Z	1.15.5
+0.0.0-2024-10-22T03-36-43-ebd676b	named	com.graphql-java	graphql-java-agent	2024-10-22T03:37:36Z	1.15.5
+0.0.0-2024-10-22T03-37-44-7a9fa54	named	com.graphql-java	graphql-java-agent	2024-10-22T03:38:44Z	1.15.5
+1.15.7	named	net.bytebuddy	byte-buddy	2024-10-23T07:29:16Z	1.15.7
+0.0.0-2024-10-27T06-35-31-6a1ab69	named	com.graphql-java	graphql-java-agent	2024-10-27T06:36:03Z	1.15.5
+0.0.0-2024-10-29T02-55-40-18f9d82	named	com.graphql-java	graphql-java-agent	2024-10-29T02:57:33Z	1.15.7
+0.0.0-2024-10-29T02-56-11-06f9f1d	named	com.graphql-java	graphql-java-agent	2024-10-29T02:58:03Z	1.15.7
+0.0.0-2024-10-29T03-10-07-2884d6f	named	com.graphql-java	graphql-java-agent	2024-10-29T03:10:42Z	1.15.7
+3.4.3	named	de.gematik.test	tiger-java-agent	2024-10-29T07:59:18Z	1.15.3
+1.15.8	named	net.bytebuddy	byte-buddy	2024-11-01T17:38:38Z	1.15.8
+1.15.9	named	net.bytebuddy	byte-buddy	2024-11-02T16:45:04Z	1.15.9
+1.15.10	named	net.bytebuddy	byte-buddy	2024-11-03T23:33:41Z	1.15.10
+2.1.1	named	io.sermant	sermant-agentcore-core	2024-11-07T06:57:19Z	1.12.19
+3.4.4	named	de.gematik.test	tiger-java-agent	2024-11-08T07:49:27Z	1.15.3
+0.0.0-2024-11-13T21-43-20-5978ff1	named	com.graphql-java	graphql-java-agent	2024-11-13T21:44:04Z	1.15.10
+3.4.5	named	de.gematik.test	tiger-java-agent	2024-11-15T14:28:59Z	1.15.3
+0.0.0-2024-11-16T23-29-14-1491db6	named	com.graphql-java	graphql-java-agent	2024-11-16T23:29:46Z	1.15.10
+0.0.0-2024-11-16T23-41-20-4703692	named	com.graphql-java	graphql-java-agent	2024-11-16T23:41:52Z	1.15.10
+0.0.0-2024-11-19T21-46-31-605c428	named	com.graphql-java	graphql-java-agent	2024-11-19T21:47:10Z	1.15.10
+0.0.0-2024-11-20T04-02-26-f83ba25	named	com.graphql-java	graphql-java-agent	2024-11-20T04:02:56Z	1.15.10
+0.0.0-2024-11-26T00-13-58-7af39a9	named	com.graphql-java	graphql-java-agent	2024-11-26T00:14:30Z	1.15.10
+0.0.0-2024-11-26T02-06-27-ab3e767	named	com.graphql-java	graphql-java-agent	2024-11-26T02:07:02Z	1.15.10
+0.0.0-2024-11-26T02-16-06-488aa0a	named	com.graphql-java	graphql-java-agent	2024-11-26T02:16:39Z	1.15.10
+0.0.0-2024-11-26T03-22-10-56130cc	named	com.graphql-java	graphql-java-agent	2024-11-26T03:22:39Z	1.15.10
+0.0.0-2024-11-26T03-33-52-45aab4e	named	com.graphql-java	graphql-java-agent	2024-11-26T03:34:23Z	1.15.10
+0.0.0-2024-11-26T06-01-06-1098c53	named	com.graphql-java	graphql-java-agent	2024-11-26T06:01:44Z	1.15.10
+0.0.0-2024-11-26T22-33-45-19d128c	named	com.graphql-java	graphql-java-agent	2024-11-26T22:34:15Z	1.15.10
+0.0.0-2024-11-27T11-49-21-3488331	named	com.graphql-java	graphql-java-agent	2024-11-27T11:49:51Z	1.15.10
+0.0.0-2024-11-27T11-52-06-fa52b0f	named	com.graphql-java	graphql-java-agent	2024-11-27T11:52:37Z	1.15.10
+0.0.0-2024-11-27T12-54-46-540d229	named	com.graphql-java	graphql-java-agent	2024-11-27T12:55:28Z	1.15.10
+0.0.0-2024-11-27T22-58-21-1598445	named	com.graphql-java	graphql-java-agent	2024-11-27T22:58:57Z	1.15.10
+0.0.0-2024-11-27T23-01-29-91e6efa	named	com.graphql-java	graphql-java-agent	2024-11-27T23:02:02Z	1.15.10
+0.0.0-2024-11-27T23-03-35-08f1c89	named	com.graphql-java	graphql-java-agent	2024-11-27T23:04:06Z	1.15.10
+0.0.0-2024-11-27T23-04-10-2f7e724	named	com.graphql-java	graphql-java-agent	2024-11-27T23:04:45Z	1.15.10
+0.0.0-2024-11-27T23-54-49-af4d15a	named	com.graphql-java	graphql-java-agent	2024-11-27T23:55:19Z	1.15.10
+0.0.0-2024-11-28T00-32-32-8a7a525	named	com.graphql-java	graphql-java-agent	2024-11-28T00:33:16Z	1.15.10
+0.0.0-2024-11-28T00-42-33-7fe1826	named	com.graphql-java	graphql-java-agent	2024-11-28T00:43:12Z	1.15.10
+0.0.0-2024-11-28T00-43-06-d854425	named	com.graphql-java	graphql-java-agent	2024-11-28T00:43:43Z	1.15.10
+0.0.0-2024-11-28T01-42-04-d7c47f9	named	com.graphql-java	graphql-java-agent	2024-11-28T01:43:17Z	1.15.10
+0.0.0-2024-11-28T03-45-06-a3fcfcb	named	com.graphql-java	graphql-java-agent	2024-11-28T03:45:41Z	1.15.10
+2.1.2	named	io.sermant	sermant-agentcore-core	2024-11-30T09:38:17Z	1.12.19
+0.0.0-2024-12-03T00-59-55-9d6e31e	named	com.graphql-java	graphql-java-agent	2024-12-03T01:00:26Z	1.15.10
+0.0.0-2024-12-03T01-05-07-5a1b9a3	named	com.graphql-java	graphql-java-agent	2024-12-03T01:05:37Z	1.15.10
+0.0.0-2024-12-03T02-25-02-dfe16bd	named	com.graphql-java	graphql-java-agent	2024-12-03T02:25:36Z	1.15.10
+0.0.0-2024-12-04T02-21-29-3e5c77b	named	com.graphql-java	graphql-java-agent	2024-12-04T02:22:00Z	1.15.10
+0.0.0-2024-12-04T02-36-27-7e5987e	named	com.graphql-java	graphql-java-agent	2024-12-04T02:37:06Z	1.15.10
+9.7.0	named	dev.jorel	commandapi-bukkit-test-toolkit	2024-12-04T19:56:30Z	1.15.4
+0.0.0-2024-12-05T21-44-28-08cf170	named	com.graphql-java	graphql-java-agent	2024-12-05T21:44:59Z	1.15.10
+0.0.0-2024-12-08T08-06-38-3888fe8	named	com.graphql-java	graphql-java-agent	2024-12-08T08:07:09Z	1.15.10
+0.0.0-2024-12-08T08-07-22-3d46b37	named	com.graphql-java	graphql-java-agent	2024-12-08T08:08:01Z	1.15.10
+0.0.0-2024-12-08T22-42-35-46c0323	named	com.graphql-java	graphql-java-agent	2024-12-08T22:43:07Z	1.15.10
+0.0.0-2024-12-09T02-33-24-35760dc	named	com.graphql-java	graphql-java-agent	2024-12-09T02:33:57Z	1.15.10
+3.4.6	named	de.gematik.test	tiger-java-agent	2024-12-09T11:17:00Z	1.15.3
+5.1.1	named	org.duracloud.mill	taskproducertool	2024-12-13T23:03:08Z	1.11.12
+5.1.1	named	org.duracloud.mill	looping-storagestats-taskproducer	2024-12-13T23:03:38Z	1.11.12
+5.1.1	named	org.duracloud.mill	loopingduptaskproducer	2024-12-13T23:03:42Z	1.11.12
+5.1.1	named	org.duracloud.mill	loopingbittaskproducer	2024-12-13T23:03:55Z	1.11.12
+1.15.11	named	net.bytebuddy	byte-buddy	2024-12-15T09:09:28Z	1.15.11
+2.4.2412161033	named	com.leanxcale	lxjdbcdriver	2024-12-16T09:35:07Z	1.14.7
+0.0.0-2024-12-17T02-50-18-86a423e	named	com.graphql-java	graphql-java-agent	2024-12-17T02:50:48Z	1.15.10
+0.0.0-2024-12-17T02-50-42-437534c	named	com.graphql-java	graphql-java-agent	2024-12-17T02:51:22Z	1.15.11
+0.0.0-2024-12-17T02-50-50-9de9f06	named	com.graphql-java	graphql-java-agent	2024-12-17T02:51:28Z	1.15.11
+0.1.2	named	org.exploit	signalix-objects	2024-12-20T16:07:58Z	1.15.10
+0.1.3	named	org.exploit	signalix-objects	2024-12-20T16:44:27Z	1.15.10
+0.0.0-2024-12-26T02-36-35-d4b3b07	named	com.graphql-java	graphql-java-agent	2024-12-26T02:37:04Z	1.15.11
+1.6.1-jdk21	named	run.mone	buddy-common	2024-12-30T03:34:17Z	1.11.8
+0.0.0-2025-01-03T22-53-27-cb61222	named	com.graphql-java	graphql-java-agent	2025-01-03T22:54:11Z	1.15.11
+0.0.0-2025-01-03T22-53-54-cd19d8f	named	com.graphql-java	graphql-java-agent	2025-01-03T22:54:29Z	1.15.11
+0.0.0-2025-01-03T22-55-29-74c62b6	named	com.graphql-java	graphql-java-agent	2025-01-03T22:56:17Z	1.15.11
+3.4.7	named	de.gematik.test	tiger-java-agent	2025-01-06T12:53:41Z	1.15.3
+0.1.13	named	com.hiddenlayer	hiddenlayer-sdk	2025-01-06T16:43:10Z	1.14.9
+0.0.0-2025-01-06T22-39-13-9b4739e	named	com.graphql-java	graphql-java-agent	2025-01-06T22:39:47Z	1.15.11
+0.0.0-2025-01-06T23-09-24-e0f6b66	named	com.graphql-java	graphql-java-agent	2025-01-06T23:09:57Z	1.15.11
+3.5.0	named	de.gematik.test	tiger-java-agent	2025-01-08T14:29:36Z	1.15.3
+2.2.0	named	io.sermant	sermant-agentcore-core	2025-01-09T03:39:01Z	1.12.19
+3.6.0	named	de.gematik.test	tiger-java-agent	2025-01-15T11:16:59Z	1.15.11
+1.16.0	named	net.bytebuddy	byte-buddy	2025-01-17T22:51:41Z	1.16.0
+1.16.1	named	net.bytebuddy	byte-buddy	2025-01-19T07:40:23Z	1.16.1
+0.0.0-2025-01-21T21-32-50-0246a32	named	com.graphql-java	graphql-java-agent	2025-01-21T21:33:25Z	1.16.1
+0.0.0-2025-01-21T21-33-08-1c9edf8	named	com.graphql-java	graphql-java-agent	2025-01-21T21:33:49Z	1.16.1
+0.0.0-2025-01-21T21-33-09-4deb002	named	com.graphql-java	graphql-java-agent	2025-01-21T21:33:54Z	1.16.1
+0.0.0-2025-01-23T23-43-25-2551254	named	com.graphql-java	graphql-java-agent	2025-01-23T23:43:54Z	1.16.1
+0.0.0-2025-01-27T22-10-45-f93b062	named	com.graphql-java	graphql-java-agent	2025-01-27T22:11:15Z	1.16.1
+0.0.0-2025-01-27T22-11-58-97381d6	named	com.graphql-java	graphql-java-agent	2025-01-27T22:12:43Z	1.16.1
+0.0.0-2025-01-27T22-13-18-a66c24b	named	com.graphql-java	graphql-java-agent	2025-01-27T22:14:00Z	1.16.1
+0.0.0-2025-01-27T22-31-31-db35370	named	com.graphql-java	graphql-java-agent	2025-01-27T22:32:01Z	1.16.1
+0.0.0-2025-01-27T22-32-33-b65ac41	named	com.graphql-java	graphql-java-agent	2025-01-27T22:33:23Z	1.15.11
+0.0.0-2025-01-28T22-50-42-bb863b9	named	com.graphql-java	graphql-java-agent	2025-01-28T22:51:27Z	1.15.11
+0.0.0-2025-01-28T22-52-22-ece8f57	named	com.graphql-java	graphql-java-agent	2025-01-28T22:52:59Z	1.15.11
+1.17.0	named	net.bytebuddy	byte-buddy	2025-01-29T22:06:52Z	1.17.0
+0.0.0-2025-02-02T22-20-48-559cbac	named	com.graphql-java	graphql-java-agent	2025-02-02T22:21:22Z	1.16.1
+0.0.0-2025-02-03T23-07-28-ee73828	named	com.graphql-java	graphql-java-agent	2025-02-03T23:08:03Z	1.16.1
+0.0.0-2025-02-04T22-06-22-83fb2f9	named	com.graphql-java	graphql-java-agent	2025-02-04T22:06:51Z	1.17.0
+0.0.0-2025-02-05T03-19-06-43f8ace	named	com.graphql-java	graphql-java-agent	2025-02-05T03:19:36Z	1.17.0
+0.0.0-2025-02-06T03-13-02-b0546d7	named	com.graphql-java	graphql-java-agent	2025-02-06T03:13:36Z	1.17.0
+0.0.0-2025-02-06T03-42-09-3710e68	named	com.graphql-java	graphql-java-agent	2025-02-06T03:42:44Z	1.17.0
+3.26	named	com.proofpoint.platform	jaxrs	2025-02-10T05:41:44Z	1.12.9
+3.6.1	named	de.gematik.test	tiger-java-agent	2025-02-11T15:16:35Z	1.17.0
+1.17.1	named	net.bytebuddy	byte-buddy	2025-02-14T10:35:10Z	1.17.1
+0.0.0-2025-02-15T06-08-20-2d740aa	named	com.graphql-java	graphql-java-agent	2025-02-15T06:08:53Z	1.17.0
+0.0.0-2025-02-16T03-26-12-fc9c133	named	com.graphql-java	graphql-java-agent	2025-02-16T03:26:58Z	1.17.0
+0.0.0-2025-02-17T20-22-06-1c40027	named	com.graphql-java	graphql-java-agent	2025-02-17T20:22:37Z	1.17.1
+0.0.0-2025-02-17T22-13-01-6669c20	named	com.graphql-java	graphql-java-agent	2025-02-17T22:13:50Z	1.17.1
+0.0.0-2025-02-18T20-48-39-a38c75c	named	com.graphql-java	graphql-java-agent	2025-02-18T20:49:12Z	1.17.1
+0.0.0-2025-02-23T22-23-46-422035b	named	com.graphql-java	graphql-java-agent	2025-02-23T22:24:16Z	1.17.1
+0.0.0-2025-02-23T23-25-41-3006f20	named	com.graphql-java	graphql-java-agent	2025-02-23T23:26:12Z	1.17.1
+0.0.0-2025-02-23T23-29-57-8d5eef4	named	com.graphql-java	graphql-java-agent	2025-02-23T23:30:31Z	1.17.1
+0.0.0-2025-02-24T01-04-04-53fa9b5	named	com.graphql-java	graphql-java-agent	2025-02-24T01:04:36Z	1.17.1
+0.0.0-2025-02-24T09-22-09-d229276	named	com.graphql-java	graphql-java-agent	2025-02-24T09:22:46Z	1.17.1
+0.0.0-2025-02-26T20-42-55-6f33577	named	com.graphql-java	graphql-java-agent	2025-02-26T20:43:40Z	1.17.1
+0.0.0-2025-02-27T01-06-37-a72048b	named	com.graphql-java	graphql-java-agent	2025-02-27T01:07:12Z	1.17.1
+0.0.0-2025-02-27T01-06-42-6f83033	named	com.graphql-java	graphql-java-agent	2025-02-27T01:07:13Z	1.17.1
+0.0.0-2025-02-27T01-07-00-20cbff1	named	com.graphql-java	graphql-java-agent	2025-02-27T01:07:43Z	1.17.1
+0.0.0-2025-02-27T19-15-16-11211e1	named	com.graphql-java	graphql-java-agent	2025-02-27T19:16:09Z	1.17.1
+0.0.0-2025-02-27T23-24-45-c0366ce	named	com.graphql-java	graphql-java-agent	2025-02-27T23:25:20Z	1.17.1
+0.0.0-2025-02-28T00-43-50-233fcc4	named	com.graphql-java	graphql-java-agent	2025-02-28T00:44:23Z	1.17.1
+0.0.0-2025-02-28T04-33-08-77adc96	named	com.graphql-java	graphql-java-agent	2025-02-28T04:33:39Z	1.17.1
+0.0.0-2025-03-02T20-56-04-c046e6f	named	com.graphql-java	graphql-java-agent	2025-03-02T20:56:43Z	1.17.1
+1.17.2	named	net.bytebuddy	byte-buddy	2025-03-03T07:27:49Z	1.17.2
+0.0.0-2025-03-03T22-40-27-78d2848	named	com.graphql-java	graphql-java-agent	2025-03-03T22:41:13Z	1.17.1
+0.0.0-2025-03-03T22-40-43-80a8740	named	com.graphql-java	graphql-java-agent	2025-03-03T22:41:15Z	1.17.1
+0.0.0-2025-03-03T22-43-13-b35307f	named	com.graphql-java	graphql-java-agent	2025-03-03T22:43:45Z	1.17.1
+0.0.0-2025-03-03T22-43-29-1289fd0	named	com.graphql-java	graphql-java-agent	2025-03-03T22:44:11Z	1.17.2
+0.0.0-2025-03-06T05-34-30-2e1e0eb	named	com.graphql-java	graphql-java-agent	2025-03-06T05:34:59Z	1.17.2
+3.7.0	named	de.gematik.test	tiger-java-agent	2025-03-07T08:18:54Z	1.17.0
+0.0.0-2025-03-12T01-02-02-11a2be5	named	com.graphql-java	graphql-java-agent	2025-03-12T01:02:31Z	1.17.2
+3.7.1	named	de.gematik.test	tiger-java-agent	2025-03-12T12:49:51Z	1.17.0
+0.0.0-2025-03-13T00-37-08-753555f	named	com.graphql-java	graphql-java-agent	2025-03-13T00:37:39Z	1.17.2
+0.0.0-2025-03-18T22-55-56-3d7dce5	named	com.graphql-java	graphql-java-agent	2025-03-18T22:56:33Z	1.17.2
+0.0.0-2025-03-20T03-38-16-472bb92	named	com.graphql-java	graphql-java-agent	2025-03-20T03:38:56Z	1.17.2
+0.0.0-2025-03-20T03-38-51-18133bf	named	com.graphql-java	graphql-java-agent	2025-03-20T03:39:51Z	1.17.2
+0.0.0-2025-03-20T03-41-09-86724a4	named	com.graphql-java	graphql-java-agent	2025-03-20T03:42:06Z	1.17.2
+0.0.0-2025-03-20T03-41-45-9a931ba	named	com.graphql-java	graphql-java-agent	2025-03-20T03:42:47Z	1.17.2
+1.17.3	named	net.bytebuddy	byte-buddy	2025-03-21T20:12:29Z	1.17.3
+1.17.4	named	net.bytebuddy	byte-buddy	2025-03-23T22:06:51Z	1.17.4
+0.0.0-2025-03-23T23-36-21-c46c07a	named	com.graphql-java	graphql-java-agent	2025-03-23T23:36:54Z	1.17.2
+1.27.2	named	com.appland	appmap-agent	2025-03-24T19:33:18Z	1.14.10
+1.28.0	named	com.appland	appmap-agent	2025-03-25T01:37:05Z	1.14.10
+1.17.5	named	net.bytebuddy	byte-buddy	2025-03-31T06:21:43Z	1.17.5
+2.2.1	named	io.sermant	sermant-agentcore-core	2025-03-31T09:31:46Z	1.12.19
+0.0.0-2025-03-31T22-34-42-cd99d17	named	com.graphql-java	graphql-java-agent	2025-03-31T22:35:17Z	1.17.2
+0.0.0-2025-04-01T20-47-25-12273f4	named	com.graphql-java	graphql-java-agent	2025-04-01T20:48:03Z	1.17.2
+0.0.0-2025-04-01T21-38-17-dff69a4	named	com.graphql-java	graphql-java-agent	2025-04-01T21:38:50Z	1.17.2
+10.0.0	named	dev.jorel	commandapi-bukkit-test-toolkit	2025-04-01T22:18:42Z	1.15.4
+0.0.0-2025-04-02T00-08-49-14343b2	named	com.graphql-java	graphql-java-agent	2025-04-02T00:09:39Z	1.17.2
+3.7.4	named	de.gematik.test	tiger-java-agent	2025-04-02T09:56:21Z	1.17.2
+0.0.0-2025-04-02T22-21-14-5a03541	named	com.graphql-java	graphql-java-agent	2025-04-02T22:22:00Z	1.17.2
+0.0.0-2025-04-03T02-05-38-aa5afea	named	com.graphql-java	graphql-java-agent	2025-04-03T02:06:09Z	1.17.2
+0.0.0-2025-04-03T02-06-31-045c15a	named	com.graphql-java	graphql-java-agent	2025-04-03T02:07:15Z	1.17.5
+0.0.0-2025-04-03T02-07-08-e98ca21	named	com.graphql-java	graphql-java-agent	2025-04-03T02:08:03Z	1.17.5
+0.0.0-2025-04-03T02-35-14-9099f7a	named	com.graphql-java	graphql-java-agent	2025-04-03T02:35:48Z	1.17.5
+0.0.0-2025-04-03T03-32-31-8b665ef	named	com.graphql-java	graphql-java-agent	2025-04-03T03:33:07Z	1.17.5
+0.0.0-2025-04-03T03-33-21-aa6d3be	named	com.graphql-java	graphql-java-agent	2025-04-03T03:33:54Z	1.17.5
+0.0.0-2025-04-03T03-33-54-1771863	named	com.graphql-java	graphql-java-agent	2025-04-03T03:34:44Z	1.17.5
+0.0.0-2025-04-03T03-34-35-ef35e07	named	com.graphql-java	graphql-java-agent	2025-04-03T03:35:47Z	1.17.5
+0.0.0-2025-04-03T03-34-48-bfd7b46	named	com.graphql-java	graphql-java-agent	2025-04-03T03:36:06Z	1.17.5
+0.0.0-2025-04-03T03-50-58-064de5f	named	com.graphql-java	graphql-java-agent	2025-04-03T03:51:28Z	1.17.5
+0.0.0-2025-04-03T04-02-27-10f30ca	named	com.graphql-java	graphql-java-agent	2025-04-03T04:03:01Z	1.17.5
+3.7.5	named	de.gematik.test	tiger-java-agent	2025-04-03T09:18:19Z	1.17.2
+0.0.0-2025-04-04T00-05-14-9574227	named	com.graphql-java	graphql-java-agent	2025-04-04T00:05:51Z	1.17.5
+0.0.0-2025-04-04T04-41-39-6eb2616	named	com.graphql-java	graphql-java-agent	2025-04-04T04:42:10Z	1.17.5
+0.0.0-2025-04-06T03-35-08-31b5f1b	named	com.graphql-java	graphql-java-agent	2025-04-06T03:35:42Z	1.17.5
+0.0.0-2025-04-06T10-46-44-14c9136	named	com.graphql-java	graphql-java-agent	2025-04-06T10:47:15Z	1.17.5
+0.0.0-2025-04-07T00-41-09-154bb89	named	com.graphql-java	graphql-java-agent	2025-04-07T00:42:01Z	1.17.5
+0.0.0-2025-04-07T01-36-32-27b9def	named	com.graphql-java	graphql-java-agent	2025-04-07T01:37:02Z	1.17.5
+23.0	named	com.graphql-java	graphql-java-agent	2025-04-07T01:50:08Z	1.17.5
+0.0.0-2025-04-07T23-53-56-12c944f	named	com.graphql-java	graphql-java-agent	2025-04-07T23:54:27Z	1.17.5
+0.0.0-2025-04-08T01-13-44-6afaab5	named	com.graphql-java	graphql-java-agent	2025-04-08T01:14:15Z	1.17.5
+0.0.0-2025-04-09T23-56-11-d0970d1	named	com.graphql-java	graphql-java-agent	2025-04-09T23:56:49Z	1.17.5
+0.0.0-2025-04-09T23-57-13-1318a24	named	com.graphql-java	graphql-java-agent	2025-04-09T23:57:46Z	1.17.5
+0.0.0-2025-04-11T01-56-52-5a3f64d	named	com.graphql-java	graphql-java-agent	2025-04-11T01:57:24Z	1.17.5
+3.7.6	named	de.gematik.test	tiger-java-agent	2025-04-11T09:49:30Z	1.17.5
+0.0.0-2025-04-14T04-00-25-04a359a	named	com.graphql-java	graphql-java-agent	2025-04-14T04:00:56Z	1.17.5
+0.0.0-2025-04-15T02-27-05-0998a74	named	com.graphql-java	graphql-java-agent	2025-04-15T02:27:38Z	1.17.5
+0.0.0-2025-04-15T06-59-11-14d7411	named	com.graphql-java	graphql-java-agent	2025-04-15T07:04:03Z	1.17.5
+23.1	named	com.graphql-java	graphql-java-agent	2025-04-15T10:39:27Z	1.17.5
+1.1.3	named	com.navercorp.scavenger	scavenger-agent-java	2025-04-16T06:32:40Z	1.14.3
+0.0.0-2025-04-19T04-46-18-b322809	named	com.graphql-java	graphql-java-agent	2025-04-19T04:46:50Z	1.17.5
+0.0.0-2025-04-19T04-46-47-083fac7	named	com.graphql-java	graphql-java-agent	2025-04-19T04:47:28Z	1.17.5
+0.0.0-2025-04-22T03-39-44-0c9e454	named	com.graphql-java	graphql-java-agent	2025-04-22T03:40:27Z	1.17.5
+0.0.0-2025-04-22T03-42-29-272f8fa	named	com.graphql-java	graphql-java-agent	2025-04-22T03:43:05Z	1.17.5
+1.0.0-beta	named	ai.superstream	superstream-clients-java	2025-04-22T07:02:16Z	1.14.9
+1.0.1-beta	named	ai.superstream	superstream-clients-java	2025-04-22T07:32:47Z	1.14.9
+1.0.0-beta	named	ai.superstream	superstream-clients	2025-04-22T10:13:51Z	1.14.9
+1.0.0	named	ai.superstream	superstream-clients	2025-04-22T13:13:25Z	1.14.9
+1.0.1-beta	named	ai.superstream	superstream-clients	2025-04-23T07:47:18Z	1.14.9
+1.0.2-beta	named	ai.superstream	superstream-clients	2025-04-23T08:18:48Z	1.14.9
+1.0.2	named	ai.superstream	superstream-clients	2025-04-23T08:33:54Z	1.14.9
+1.0.3	named	ai.superstream	superstream-clients	2025-04-23T15:06:30Z	1.14.9
+1.0.4	named	ai.superstream	superstream-clients	2025-04-23T22:29:33Z	1.14.9
+0.0.0-2025-04-27T00-53-34-5e7ce82	named	com.graphql-java	graphql-java-agent	2025-04-27T00:54:10Z	1.17.5
+0.0.0-2025-04-27T00-54-00-262ff2f	named	com.graphql-java	graphql-java-agent	2025-04-27T00:54:47Z	1.17.5
+0.0.0-2025-04-27T06-37-05-bfd567e	named	com.graphql-java	graphql-java-agent	2025-04-27T06:37:41Z	1.17.5
+0.0.0-2025-04-29T00-36-47-193b4bc	named	com.graphql-java	graphql-java-agent	2025-04-29T00:37:41Z	1.17.5
+0.0.0-2025-04-29T00-37-06-abff4a3	named	com.graphql-java	graphql-java-agent	2025-04-29T00:37:47Z	1.17.5
+3.7.7	named	de.gematik.test	tiger-java-agent	2025-04-29T09:18:52Z	1.17.5
+1.0.5	named	ai.superstream	superstream-clients	2025-04-29T10:24:24Z	1.14.9
+1.40	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2025-04-29T12:30:52Z	1.14.4
+0.0.0-2025-04-30T01-12-35-ea9104d	named	com.graphql-java	graphql-java-agent	2025-04-30T01:13:12Z	1.17.5
+0.0.0-2025-05-01T10-29-09-5853d24	named	com.graphql-java	graphql-java-agent	2025-05-01T10:29:52Z	1.17.5
+0.0.0-2025-05-01T11-06-11-876c9ae	named	com.graphql-java	graphql-java-agent	2025-05-01T11:06:43Z	1.17.5
+1.0.6	named	ai.superstream	superstream-clients	2025-05-01T22:41:12Z	1.14.9
+0.0.0-2025-05-01T23-52-34-24b955a	named	com.graphql-java	graphql-java-agent	2025-05-01T23:53:24Z	1.17.5
+1.0.0	named	io.github.hugo1307	landguard-api	2025-05-02T20:00:13Z	1.14.15
+1.0.7	named	ai.superstream	superstream-clients	2025-05-03T12:31:33Z	1.14.9
+1.0.1	named	io.github.hugo1307	landguard-api	2025-05-04T12:31:27Z	1.14.15
+1.0.8	named	ai.superstream	superstream-clients	2025-05-05T11:06:20Z	1.14.9
+1.41	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2025-05-05T15:08:18Z	1.14.4
+0.0.0-2025-05-06T06-21-24-a272575	named	com.graphql-java	graphql-java-agent	2025-05-06T06:21:57Z	1.17.5
+0.0.0-2025-05-06T06-21-54-5f07138	named	com.graphql-java	graphql-java-agent	2025-05-06T06:22:31Z	1.17.5
+2.2.2	named	io.sermant	sermant-agentcore-core	2025-05-06T07:52:15Z	1.12.19
+10.0.1	named	dev.jorel	commandapi-bukkit-test-toolkit	2025-05-06T21:51:10Z	1.17.5
+1.0.10	named	ai.superstream	superstream-clients	2025-05-08T08:28:18Z	1.14.9
+1.0.11	named	ai.superstream	superstream-clients	2025-05-08T12:47:13Z	1.14.9
+0.0.0-2025-05-11T03-39-52-7d9516a	named	com.graphql-java	graphql-java-agent	2025-05-11T03:40:24Z	1.17.5
+1.42	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2025-05-12T11:53:39Z	1.14.4
+0.0.0-2025-05-13T01-07-16-65e27d9	named	com.graphql-java	graphql-java-agent	2025-05-13T01:07:49Z	1.17.5
+22.4	named	com.graphql-java	graphql-java-agent	2025-05-13T09:13:41Z	1.15.1
+0.0.0-2025-05-14T07-22-50-d5b6498	named	com.graphql-java	graphql-java-agent	2025-05-14T07:23:23Z	1.17.5
+0.0.0-2025-05-14T07-31-14-1a760d7	named	com.graphql-java	graphql-java-agent	2025-05-14T07:32:04Z	1.17.5
+0.0.0-2025-05-14T07-40-58-6fcb381	named	com.graphql-java	graphql-java-agent	2025-05-14T07:41:31Z	1.17.5
+0.0.0-2025-05-14T22-40-58-97de42f	named	com.graphql-java	graphql-java-agent	2025-05-14T22:41:33Z	1.17.5
+0.0.0-2025-05-15T01-42-28-06377ea	named	com.graphql-java	graphql-java-agent	2025-05-15T01:43:00Z	1.17.5
+0.0.0-2025-05-15T04-47-55-397c050	named	com.graphql-java	graphql-java-agent	2025-05-15T04:48:29Z	1.17.5
+0.0.0-2025-05-15T06-13-01-b376b80	named	com.graphql-java	graphql-java-agent	2025-05-15T06:13:41Z	1.17.5
+0.0.0-2025-05-15T06-13-40-abb2cdd	named	com.graphql-java	graphql-java-agent	2025-05-15T06:14:24Z	1.17.5
+3.7.8	named	de.gematik.test	tiger-java-agent	2025-05-15T12:49:13Z	1.17.5
+0.0.0-2025-05-16T03-16-05-c16cf96	named	com.graphql-java	graphql-java-agent	2025-05-16T03:16:38Z	1.17.5
+24.0	named	com.graphql-java	graphql-java-agent	2025-05-16T03:39:24Z	1.17.5
+0.0.0-2025-05-16T03-48-16-444af98	named	com.graphql-java	graphql-java-agent	2025-05-16T03:49:00Z	1.17.5
+3.7.9	named	de.gematik.test	tiger-java-agent	2025-05-16T10:21:50Z	1.17.5
+0.0.0-2025-05-16T22-44-53-d5fdf3a	named	com.graphql-java	graphql-java-agent	2025-05-16T22:45:26Z	1.17.5
+0.0.0-2025-05-19T11-58-06-f1a512c	named	com.graphql-java	graphql-java-agent	2025-05-19T11:58:53Z	1.17.5
+1.0.12	named	ai.superstream	superstream-clients	2025-05-21T15:46:50Z	1.14.9
+1.0.13	named	ai.superstream	superstream-clients	2025-05-21T22:37:38Z	1.14.9
+1.0.14	named	ai.superstream	superstream-clients	2025-05-22T10:24:34Z	1.14.9
+0.0.0-2025-05-22T21-27-55-9ac3e63	named	com.graphql-java	graphql-java-agent	2025-05-22T21:28:32Z	1.17.5
+0.0.0-2025-05-23T07-52-27-ed6c2fb	named	com.graphql-java	graphql-java-agent	2025-05-23T07:53:01Z	1.17.5
+1.42-testcentral	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2025-05-23T13:30:59Z	1.14.4
+1.0.15	named	ai.superstream	superstream-clients	2025-05-25T12:56:19Z	1.14.9
+1.0.16	named	ai.superstream	superstream-clients	2025-05-25T14:51:57Z	1.14.9
+0.0.0-2025-05-26T00-03-13-4b1f231	named	com.graphql-java	graphql-java-agent	2025-05-26T00:03:46Z	1.17.5
+0.0.0-2025-05-26T03-04-22-6e9e023	named	com.graphql-java	graphql-java-agent	2025-05-26T03:05:04Z	1.17.5
+1.0.17	named	ai.superstream	superstream-clients	2025-05-26T22:47:26Z	1.14.9
+0.0.0-2025-05-27T08-10-37-30d642e	named	com.graphql-java	graphql-java-agent	2025-05-27T08:11:13Z	1.17.5
+0.0.0-2025-05-27T08-11-18-27a71b2	named	com.graphql-java	graphql-java-agent	2025-05-27T08:11:55Z	1.17.5
+1.0.18	named	ai.superstream	superstream-clients	2025-05-27T17:42:35Z	1.14.9
+0.0.0-2025-05-27T23-55-35-801762c	named	com.graphql-java	graphql-java-agent	2025-05-27T23:56:05Z	1.15.1
+1.0.19	named	ai.superstream	superstream-clients	2025-05-29T22:41:33Z	1.14.9
+24.1	named	com.graphql-java	graphql-java-agent	2025-05-30T04:32:28Z	1.17.5
+0.0.0-2025-06-01T23-16-01-19387ff	named	com.graphql-java	graphql-java-agent	2025-06-01T23:16:34Z	1.17.5
+0.0.0-2025-06-02T11-23-36-589b33d	named	com.graphql-java	graphql-java-agent	2025-06-02T11:25:29Z	1.17.5
+1.0.200	named	ai.superstream	superstream-clients	2025-06-03T18:10:14Z	1.14.9
+1.0.201	named	ai.superstream	superstream-clients	2025-06-03T21:39:02Z	1.14.9
+0.0.0-2025-06-05T02-31-55-4373db5	named	com.graphql-java	graphql-java-agent	2025-06-05T02:32:38Z	1.17.5
+0.0.0-2025-06-05T07-00-04-58d9a6e	named	com.graphql-java	graphql-java-agent	2025-06-05T07:00:48Z	1.17.5
+0.0.0-2025-06-05T07-00-04-2b26495	named	com.graphql-java	graphql-java-agent	2025-06-05T07:00:50Z	1.17.5
+0.0.0-2025-06-05T07-58-42-8218dd0	named	com.graphql-java	graphql-java-agent	2025-06-05T07:59:43Z	1.17.5
+0.0.0-2025-06-05T07-59-11-fa22b82	named	com.graphql-java	graphql-java-agent	2025-06-05T08:00:16Z	1.17.5
+0.0.0-2025-06-05T09-30-15-9c358d3	named	com.graphql-java	graphql-java-agent	2025-06-05T09:30:49Z	1.17.5
+0.0.0-2025-06-06T00-23-46-b96a9ea	named	com.graphql-java	graphql-java-agent	2025-06-06T00:24:18Z	1.17.5
+0.0.0-2025-06-06T04-08-36-52eefcd	named	com.graphql-java	graphql-java-agent	2025-06-06T04:09:09Z	1.17.5
+0.0.0-2025-06-08T02-44-52-8950aa3	named	com.graphql-java	graphql-java-agent	2025-06-08T02:45:27Z	1.17.5
+1.0.202	named	ai.superstream	superstream-clients	2025-06-08T16:15:53Z	1.14.9
+1.0.203	named	ai.superstream	superstream-clients	2025-06-11T10:45:59Z	1.14.9
+1.82.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2025-06-11T14:17:53Z	1.12.14
+1.0.204	named	ai.superstream	superstream-clients	2025-06-15T12:52:00Z	1.14.9
+0.0.0-2025-06-15T23-39-12-2dc43f7	named	com.graphql-java	graphql-java-agent	2025-06-15T23:39:57Z	1.17.5
+1.43	named	io.github.natural-intelligence	openlineage-openmetadata-transporter	2025-06-16T11:34:23Z	1.14.4
+1.17.6	named	net.bytebuddy	byte-buddy	2025-06-16T12:14:29Z	1.17.6
+0.0.0-2025-06-17T09-52-59-5b7d12b	named	com.graphql-java	graphql-java-agent	2025-06-17T09:53:43Z	1.17.5
+1.0.205	named	ai.superstream	superstream-clients	2025-06-17T13:14:18Z	1.14.9
+0.0.0-2025-06-18T02-14-38-20cfa7d	named	com.graphql-java	graphql-java-agent	2025-06-18T02:15:33Z	1.17.6
+0.0.0-2025-06-18T02-15-11-aea2d60	named	com.graphql-java	graphql-java-agent	2025-06-18T02:16:06Z	1.17.6
+0.0.0-2025-06-18T02-15-23-1553e83	named	com.graphql-java	graphql-java-agent	2025-06-18T02:16:11Z	1.17.6
+0.0.0-2025-06-18T02-15-21-b87836e	named	com.graphql-java	graphql-java-agent	2025-06-18T02:16:16Z	1.17.6
+0.0.0-2025-06-18T02-16-00-aef8032	named	com.graphql-java	graphql-java-agent	2025-06-18T02:16:48Z	1.17.6
+10.1.0	named	dev.jorel	commandapi-bukkit-test-toolkit	2025-06-23T21:32:54Z	1.17.5
+1.2.4	named	com.github.roskart.dropwizard-jaxws	dropwizard-jaxws-example	2025-06-26T15:53:13Z	1.12.8
+4.0.6	named	de.gematik.test	tiger-java-agent	2025-06-27T06:57:47Z	1.17.5
+1.0.206	named	ai.superstream	superstream-clients	2025-06-29T09:47:10Z	1.14.9
+2.3.0	named	io.sermant	sermant-agentcore-core	2025-06-30T12:25:55Z	1.12.19
+0.0.0-2025-06-30T20-57-23-15b3281	named	com.graphql-java	graphql-java-agent	2025-06-30T20:58:10Z	1.17.6
+0.0.0-2025-06-30T20-57-33-b1e7203	named	com.graphql-java	graphql-java-agent	2025-06-30T20:58:28Z	1.17.6
+0.0.0-2025-06-30T20-57-55-6357515	named	com.graphql-java	graphql-java-agent	2025-06-30T20:58:50Z	1.17.6
+0.0.0-2025-06-30T20-58-25-64f3a9d	named	com.graphql-java	graphql-java-agent	2025-06-30T20:59:13Z	1.17.6
+0.0.0-2025-07-01T10-13-15-338ffdd	named	com.graphql-java	graphql-java-agent	2025-07-01T10:14:09Z	1.17.6
+0.0.0-2025-07-01T10-13-50-30eef2e	named	com.graphql-java	graphql-java-agent	2025-07-01T10:14:44Z	1.17.6
+0.0.0-2025-07-01T10-14-05-44b1194	named	com.graphql-java	graphql-java-agent	2025-07-01T10:14:58Z	1.17.6
+0.0.0-2025-07-01T10-14-28-700fcf0	named	com.graphql-java	graphql-java-agent	2025-07-01T10:15:26Z	1.17.6
+0.0.0-2025-07-01T10-16-41-1f92241	named	com.graphql-java	graphql-java-agent	2025-07-01T10:17:37Z	1.17.6
+4.0.7	named	de.gematik.test	tiger-java-agent	2025-07-01T14:20:04Z	1.17.5
+10.1.1	named	dev.jorel	commandapi-bukkit-test-toolkit	2025-07-02T09:35:37Z	1.17.5
+0.0.0-2025-07-03T23-03-41-268bdd6	named	com.graphql-java	graphql-java-agent	2025-07-03T23:04:58Z	1.17.6
+0.0.0-2025-07-04T05-23-42-2af8d37	named	com.graphql-java	graphql-java-agent	2025-07-04T05:25:05Z	1.17.6
+0.0.0-2025-07-04T05-24-01-aecbb36	named	com.graphql-java	graphql-java-agent	2025-07-04T05:25:29Z	1.17.6
+0.0.0-2025-07-04T05-24-22-52bdcf1	named	com.graphql-java	graphql-java-agent	2025-07-04T05:25:47Z	1.17.6
+0.0.0-2025-07-04T05-59-14-f3c1a49	named	com.graphql-java	graphql-java-agent	2025-07-04T06:00:13Z	1.17.6
+0.0.0-2025-07-04T06-00-24-309fa9d	named	com.graphql-java	graphql-java-agent	2025-07-04T06:01:27Z	1.17.6
+0.0.0-2025-07-04T05-59-43-2e4f56e	named	com.graphql-java	graphql-java-agent	2025-07-04T06:02:51Z	1.17.6
+0.0.0-2025-07-05T00-11-27-28197a8	named	com.graphql-java	graphql-java-agent	2025-07-05T00:12:18Z	1.17.6
+0.0.0-2025-07-05T00-12-31-38aab2d	named	com.graphql-java	graphql-java-agent	2025-07-05T00:13:28Z	1.17.6
+0.0.0-2025-07-05T00-13-20-7c8a020	named	com.graphql-java	graphql-java-agent	2025-07-05T00:14:15Z	1.17.6
+1.0.207	named	ai.superstream	superstream-clients	2025-07-06T13:01:55Z	1.14.9
+0.0.0-2025-07-07T22-07-42-8137f46	named	com.graphql-java	graphql-java-agent	2025-07-07T22:08:39Z	1.17.6
+0.0.0-2025-07-07T22-08-15-d9ef509	named	com.graphql-java	graphql-java-agent	2025-07-07T22:09:17Z	1.17.6
+25.0.beta-1	named	com.graphql-java	graphql-java-agent	2025-07-07T22:42:44Z	1.17.6
+0.0.0-2025-07-08T02-10-47-48f469d	named	com.graphql-java	graphql-java-agent	2025-07-08T02:11:48Z	1.17.6
+3.9.0	named	io.atlasgo	hibernate-provider-maven-plugin	2025-07-09T14:07:35Z	1.12.18
+0.0.0-2025-07-10T00-50-12-ecd84a1	named	com.graphql-java	graphql-java-agent	2025-07-10T00:51:40Z	1.17.6
+0.0.0-2025-07-10T00-53-58-ecaebb1	named	com.graphql-java	graphql-java-agent	2025-07-10T00:55:22Z	1.17.6
+0.0.0-2025-07-10T00-57-15-49a68f9	named	com.graphql-java	graphql-java-agent	2025-07-10T00:59:10Z	1.17.6
+0.0.0-2025-07-10T01-03-46-cc11107	named	com.graphql-java	graphql-java-agent	2025-07-10T01:05:46Z	1.17.6
+25.0.beta-2	named	com.graphql-java	graphql-java-agent	2025-07-10T03:11:29Z	1.17.6
+4.0.8	named	de.gematik.test	tiger-java-agent	2025-07-10T07:48:07Z	1.17.5
+0.0.0-2025-07-14T21-27-09-d600332	named	com.graphql-java	graphql-java-agent	2025-07-14T21:28:07Z	1.17.6
+1.83.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2025-07-16T05:05:27Z	1.12.14
+1.0.208	named	ai.superstream	superstream-clients	2025-07-20T07:48:04Z	1.14.9
+0.0.0-2025-07-21T04-38-32-ff857a6	named	com.graphql-java	graphql-java-agent	2025-07-21T04:39:25Z	1.17.6
+25.0.beta-3	named	com.graphql-java	graphql-java-agent	2025-07-21T04:57:35Z	1.17.6
+0.0.0-2025-07-21T05-14-40-b26c7f7	named	com.graphql-java	graphql-java-agent	2025-07-21T05:15:30Z	1.17.6
+0.0.0-2025-07-21T08-32-22-43a54fc	named	com.graphql-java	graphql-java-agent	2025-07-21T08:33:14Z	1.17.6
+10.1.2	named	dev.jorel	commandapi-bukkit-test-toolkit	2025-07-21T19:47:10Z	1.17.5
+0.0.0-2025-07-23T06-58-24-e8028d9	named	com.graphql-java	graphql-java-agent	2025-07-23T06:59:10Z	1.17.6
+0.0.0-2025-07-25T00-00-39-378eb2b	named	com.graphql-java	graphql-java-agent	2025-07-25T00:01:29Z	1.17.6
+25.0.beta-4	named	com.graphql-java	graphql-java-agent	2025-07-25T00:52:27Z	1.17.6
+0.0.0-2025-07-27T08-51-40-b09381d	named	com.graphql-java	graphql-java-agent	2025-07-27T08:52:33Z	1.17.6
+24.2	named	com.graphql-java	graphql-java-agent	2025-07-28T04:02:46Z	1.17.5
+1.17.7	named	net.bytebuddy	byte-buddy	2025-08-16T22:25:27Z	1.17.7
+4.0.9	named	de.gematik.test	tiger-java-agent	2025-08-25T12:49:13Z	1.17.5
+1.0.3	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-09-13T02:33:17Z	1.12.23
+1.0.4	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-09-14T09:30:11Z	1.12.23
+1.1.0	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-09-18T16:16:13Z	1.12.23
+1.2.0	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-09-23T07:56:46Z	1.12.23
+1.2.1	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-09-23T08:18:07Z	1.12.23
+24.3	named	com.graphql-java	graphql-java-agent	2025-09-24T01:29:49Z	1.17.5
+11.0.0	named	dev.jorel	commandapi-paper-test-toolkit	2025-10-04T14:29:55Z	1.17.7
+11.0.0	named	dev.jorel	commandapi-spigot-test-toolkit	2025-10-04T14:29:56Z	1.17.7
+1.3.0	named	io.github.quiethappiness	jy-wrench-starter-dynamic-config-center	2025-10-05T12:17:46Z	1.12.23
+1.17.8	named	net.bytebuddy	byte-buddy	2025-10-08T22:33:23Z	1.17.8
+4.1.0	named	de.gematik.test	tiger-java-agent	2025-10-13T08:03:10Z	1.17.5
+1.0.1	named	io.github.jlapugot.chronoguard	chronoguard-agent	2025-10-17T00:32:05Z	1.14.10
+1.1.0	named	io.github.jlapugot.chronoguard	chronoguard-agent	2025-10-17T01:08:34Z	1.14.10
+1.1.1	named	io.github.jlapugot.chronoguard	chronoguard-agent	2025-10-17T02:53:46Z	1.14.10
+1.1.2	named	io.github.jlapugot.chronoguard	chronoguard-agent	2025-10-17T06:18:17Z	1.14.10
+1.1.3	named	io.github.jlapugot.chronoguard	chronoguard-agent	2025-10-17T09:09:55Z	1.14.10
+4.1.1	named	de.gematik.test	tiger-java-agent	2025-10-30T11:10:31Z	1.17.5
+1.28.1	named	com.appland	appmap-agent	2025-11-11T00:02:40Z	1.14.10
+1.18.0	named	net.bytebuddy	byte-buddy	2025-11-11T07:30:15Z	1.18.0
+1.18.1	named	net.bytebuddy	byte-buddy	2025-11-12T16:06:51Z	1.18.1
+2.0.0	named	ai.superstream	superstream-clients	2025-11-19T09:40:26Z	1.14.9
+4.1.7	named	de.gematik.test	tiger-java-agent	2025-11-20T14:59:02Z	1.17.8
+2.0.1	named	ai.superstream	superstream-clients	2025-11-24T13:09:34Z	1.14.9
+4.1.10	named	de.gematik.test	tiger-java-agent	2025-11-26T16:21:32Z	1.17.8
+1.18.2	named	net.bytebuddy	byte-buddy	2025-11-26T21:32:01Z	1.18.2
+2.0.1-beta	named	ai.superstream	superstream-clients	2025-11-27T10:44:15Z	1.14.9
+4.1.11	named	de.gematik.test	tiger-java-agent	2025-12-08T13:44:07Z	1.17.8
+11.1.0	named	dev.jorel	commandapi-paper-test-toolkit	2025-12-16T16:13:18Z	1.17.7
+11.1.0	named	dev.jorel	commandapi-spigot-test-toolkit	2025-12-16T16:13:18Z	1.17.7
+2.0.2-beta	named	ai.superstream	superstream-clients	2025-12-17T09:00:50Z	1.14.9
+2.0.2	named	ai.superstream	superstream-clients	2025-12-17T09:04:25Z	1.14.9
+4.1.12	named	de.gematik.test	tiger-java-agent	2025-12-19T08:58:22Z	1.17.8
+1.18.3	named	net.bytebuddy	byte-buddy	2025-12-19T15:05:52Z	1.18.3
+4.1.13	named	de.gematik.test	tiger-java-agent	2026-01-06T08:38:50Z	1.17.8
+4.1.14	named	de.gematik.test	tiger-java-agent	2026-01-08T13:44:40Z	1.17.8
+4.1.15	named	de.gematik.test	tiger-java-agent	2026-01-09T10:17:02Z	1.17.8
+1.18.4	named	net.bytebuddy	byte-buddy	2026-01-15T23:04:32Z	1.18.4
+4.1.16	named	de.gematik.test	tiger-java-agent	2026-01-21T14:00:33Z	1.17.8
+4.1.17	named	de.gematik.test	tiger-java-agent	2026-02-06T14:14:23Z	1.18.4
+1.18.5	named	net.bytebuddy	byte-buddy	2026-02-14T07:36:10Z	1.18.5
+4.2.1	named	de.gematik.test	tiger-java-agent	2026-02-25T13:22:48Z	1.18.4
+1.18.6-jdk5	named	net.bytebuddy	byte-buddy	2026-02-27T23:34:38Z	1.18.6-jdk5
+1.18.6-jdk6-jdk5	named	net.bytebuddy	byte-buddy	2026-02-28T00:34:37Z	1.18.6-jdk6-jdk5
+1.18.7	named	net.bytebuddy	byte-buddy	2026-03-01T08:14:41Z	1.18.7
+1.18.7-jdk5	named	net.bytebuddy	byte-buddy	2026-03-01T08:16:31Z	1.18.7-jdk5
+1.3.0	named	io.github.smallfast	precise-profiler	2026-03-02T12:16:11Z	1.18.5
+4.2.2	named	de.gematik.test	tiger-java-agent	2026-03-04T09:31:46Z	1.18.4
+4.2.4	named	de.gematik.test	tiger-java-agent	2026-03-17T16:17:10Z	1.18.4
+4.2.5	named	de.gematik.test	tiger-java-agent	2026-03-18T14:58:15Z	1.18.4
+1.0.6	named	io.github.rocketbunny727	swiftmapper	2026-03-28T12:03:40Z	1.14.11
+1.18.8-jdk5	named	net.bytebuddy	byte-buddy	2026-03-31T22:59:44Z	1.18.8-jdk5
+1.18.8	named	net.bytebuddy	byte-buddy	2026-03-31T23:01:30Z	1.18.8
+11.2.0	named	dev.jorel	commandapi-spigot-test-toolkit	2026-04-01T22:47:54Z	1.17.7
+11.2.0	named	dev.jorel	commandapi-paper-test-toolkit	2026-04-01T22:47:55Z	1.17.7
+4.2.6	named	de.gematik.test	tiger-java-agent	2026-04-15T13:56:35Z	1.18.4
+5.6.15.15-RC	named	org.lucee	hibernate-extension	2026-04-23T13:55:48Z	1.12.18
+4.2.7	named	de.gematik.test	tiger-java-agent	2026-05-11T08:07:40Z	1.18.4

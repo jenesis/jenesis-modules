@@ -1,0 +1,258 @@
+1.8.0-alpha0	named	org.slf4j	slf4j-simple	2017-04-07T09:46:27Z	
+1.8.0-alpha1	named	org.slf4j	slf4j-simple	2017-04-13T13:43:57Z	
+1.8.0-alpha2	named	org.slf4j	slf4j-simple	2017-04-25T22:12:13Z	
+1.8.0-beta0	named	org.slf4j	slf4j-simple	2017-10-20T12:58:57Z	
+1.8.0-beta1	named	org.slf4j	slf4j-simple	2018-01-30T12:23:28Z	
+1.8.0-beta2	named	org.slf4j	slf4j-simple	2018-03-21T22:01:52Z	
+1.4.8	named	com.expleague	jmll	2019-01-15T16:54:36Z	
+1.8.0-beta4	named	org.slf4j	slf4j-simple	2019-02-19T17:30:07Z	
+1.53	named	se.bjurr.gitchangelog	git-changelog-command-line	2019-05-30T13:43:03Z	
+1.54	named	se.bjurr.gitchangelog	git-changelog-command-line	2019-06-11T16:32:05Z	
+1.55	named	se.bjurr.gitchangelog	git-changelog-command-line	2019-06-11T17:00:47Z	
+2.0.0-alpha0	named	org.slf4j	slf4j-simple	2019-06-12T23:18:56Z	
+1.7.27	automatic	org.slf4j	slf4j-simple	2019-08-06T09:18:27Z	
+1.7.28	automatic	org.slf4j	slf4j-simple	2019-08-10T08:27:32Z	
+2.0.0-alpha1	named	org.slf4j	slf4j-simple	2019-10-01T19:09:41Z	
+1.7.29	automatic	org.slf4j	slf4j-simple	2019-10-31T12:24:52Z	
+1.7.30	automatic	org.slf4j	slf4j-simple	2019-12-16T21:03:46Z	
+1.5	named	se.bjurr.violations	violations-command-line	2020-01-03T07:00:58Z	
+1.11	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2020-01-03T07:14:59Z	
+1.9	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2020-01-03T07:19:41Z	
+1.9	named	se.bjurr.violations	violation-comments-to-github-command-line	2020-01-03T07:23:17Z	
+1.11	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2020-01-03T07:35:08Z	
+1.13	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2020-02-03T16:23:52Z	
+1.10	named	se.bjurr.violations	violation-comments-to-github-command-line	2020-02-03T16:30:36Z	
+1.0.32	named	de.quantummaid.tutorials.basic-tutorial	step4	2020-06-30T17:44:18Z	
+1.0.34	named	de.quantummaid.tutorials.basic-tutorial	step4	2020-07-03T14:09:44Z	
+1.7	named	se.bjurr.violations	violations-command-line	2020-07-05T14:51:59Z	
+1.0.37	named	de.quantummaid.tutorials.basic-tutorial	step4	2020-08-20T06:20:22Z	
+1.0.38	named	de.quantummaid.tutorials.basic-tutorial	step4	2020-08-28T06:21:56Z	
+1.17	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2020-09-18T10:25:18Z	
+0.0	named	se.bjurr.openapitowiremock	openapi-to-wiremock	2020-10-11T17:49:44Z	
+1.58	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-01-19T06:24:04Z	
+1.59	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-03-29T15:39:58Z	
+1.60.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-04-04T16:01:28Z	
+1.22.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T16:38:18Z	
+1.23.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T16:49:23Z	
+1.61.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-04-04T16:58:33Z	
+1.23.1	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T18:18:17Z	
+1.24.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T18:21:02Z	
+1.25.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T18:27:48Z	
+1.26.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-04-04T18:31:26Z	
+1.62.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-04-04T18:34:22Z	
+1.63.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-04-04T18:53:53Z	
+1.23.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-04-05T11:28:59Z	
+1.15.0	named	se.bjurr.violations	violations-command-line	2021-04-05T11:53:38Z	
+1.19.0	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-04-05T11:59:28Z	
+1.34.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-04-05T12:05:27Z	
+1.35.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-04-05T12:07:53Z	
+1.36.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-04-05T15:54:37Z	
+1.64.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T16:45:32Z	
+1.65.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T16:54:05Z	
+1.66.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T17:01:16Z	
+1.67.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T17:18:08Z	
+1.68.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T19:02:26Z	
+1.69.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-23T19:05:44Z	
+1.72.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T14:11:58Z	
+1.73.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T15:51:53Z	
+1.74.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T16:04:36Z	
+1.75.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T16:30:00Z	
+1.76.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T18:28:45Z	
+1.76.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T18:44:48Z	
+1.77.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-25T18:49:48Z	
+1.78.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-26T20:09:08Z	
+1.80.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-27T15:09:10Z	
+1.81.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-05-27T17:01:27Z	
+1.82.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-02T19:13:00Z	
+1.83.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-03T17:51:32Z	
+1.84.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-09T14:37:53Z	
+1.85.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-09T15:58:29Z	
+1.85.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-09T17:09:06Z	
+1.85.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-11T18:15:41Z	
+1.27.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-06-16T16:46:26Z	
+1.28.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-06-16T16:51:36Z	
+1.37.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-06-16T16:56:36Z	
+1.20.0	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-06-16T17:01:57Z	
+1.24.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-06-16T17:07:03Z	
+1.16.0	named	se.bjurr.violations	violations-command-line	2021-06-16T17:18:04Z	
+1.86.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-17T16:04:16Z	
+1.87.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-17T16:32:26Z	
+1.88.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-06-17T20:06:08Z	
+1.7.31	automatic	org.slf4j	slf4j-simple	2021-06-17T21:35:28Z	
+1.17.0	named	se.bjurr.violations	violations-command-line	2021-07-01T17:35:23Z	
+2.0.0-alpha2	named	org.slf4j	slf4j-simple	2021-07-02T14:57:26Z	2.0.0-alpha2
+1.25.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-07-03T15:38:36Z	
+1.26.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-07-06T05:07:39Z	
+1.18.0	named	se.bjurr.violations	violations-command-line	2021-07-12T20:42:16Z	
+1.89.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-07-15T06:29:16Z	
+1.7.32	automatic	org.slf4j	slf4j-simple	2021-07-20T11:57:11Z	
+1.18.1	named	se.bjurr.violations	violations-command-line	2021-08-05T12:48:54Z	
+1.26.1	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-08-05T13:22:46Z	
+1.27.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-08-05T13:26:53Z	
+2.0.0-alpha3	named	org.slf4j	slf4j-simple	2021-08-10T13:59:44Z	2.0.0-alpha3
+2.0.0-alpha4	named	org.slf4j	slf4j-simple	2021-08-12T21:31:51Z	2.0.0-alpha4
+2.0.0-alpha5	named	org.slf4j	slf4j-simple	2021-08-30T16:05:34Z	2.0.0-alpha5
+1.19.0	named	se.bjurr.violations	violations-command-line	2021-09-11T07:21:46Z	
+1.28.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-09-11T07:28:16Z	
+1.90.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-10-17T15:44:55Z	
+1.91.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-10-17T15:52:09Z	
+1.92.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-10-17T15:56:33Z	
+1.93.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-10-17T16:05:30Z	
+1.94.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-16T17:06:22Z	
+1.95.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T12:17:00Z	
+1.96.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T13:12:42Z	
+1.96.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:24:52Z	
+1.96.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:29:18Z	
+1.96.3	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:38:40Z	
+1.96.4	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:44:14Z	
+1.96.5	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:51:23Z	
+1.96.6	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-20T17:54:19Z	
+1.29.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-11-20T18:19:54Z	
+1.21.0	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-11-20T18:25:33Z	
+1.97.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-21T09:41:27Z	
+1.97.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-21T18:37:00Z	
+1.29.1	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-11-21T19:04:02Z	
+1.21.1	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-11-21T19:07:03Z	
+1.97.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-21T20:02:08Z	
+1.97.3	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-11-21T20:03:51Z	
+1.29.2	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-11-21T20:09:26Z	
+1.21.2	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-11-21T20:15:12Z	
+1.21.3	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-11-21T20:23:10Z	
+1.21.4	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-11-21T20:35:16Z	
+1.98.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-12-03T17:25:07Z	
+1.20.4	named	se.bjurr.violations	violations-command-line	2021-12-07T04:37:39Z	
+1.21.5	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-12-07T04:50:03Z	
+1.20.5	named	se.bjurr.violations	violations-command-line	2021-12-07T15:45:14Z	
+1.21.6	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-12-07T15:48:37Z	
+1.29.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-12-07T15:54:59Z	
+1.30.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-12-07T16:00:14Z	
+1.38.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-12-07T16:03:48Z	
+1.20.6	named	se.bjurr.violations	violations-command-line	2021-12-09T19:29:55Z	
+1.30.1	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2021-12-09T19:33:08Z	
+1.38.1	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2021-12-09T19:37:01Z	
+1.21.7	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-12-09T19:39:48Z	
+1.29.1	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2021-12-09T19:48:59Z	
+1.22.0	named	se.bjurr.violations	violation-comments-to-github-command-line	2021-12-11T16:47:26Z	
+1.21.0	named	se.bjurr.violations	violations-command-line	2021-12-11T17:23:49Z	
+1.99.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-12-12T16:03:25Z	
+1.99.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-12-22T17:47:32Z	
+1.99.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2021-12-23T17:23:14Z	
+1.99.3	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-01-05T14:43:34Z	
+1.7.33	automatic	org.slf4j	slf4j-simple	2022-01-13T14:36:43Z	
+2.0.0-alpha6	named	org.slf4j	slf4j-simple	2022-01-13T15:40:17Z	2.0.0-alpha6
+1.99.4	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-01-16T09:15:06Z	
+1.99.5	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-01-16T17:15:28Z	
+1.99.6	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-01-17T15:40:49Z	
+1.99.7	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-01-20T15:16:14Z	
+1.7.34	automatic	org.slf4j	slf4j-simple	2022-01-25T08:10:38Z	
+1.7.35	automatic	org.slf4j	slf4j-simple	2022-01-25T10:39:33Z	
+1.7.36	automatic	org.slf4j	slf4j-simple	2022-02-08T13:34:01Z	
+1.99.8	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-02-15T16:41:54Z	
+1.21.1	named	se.bjurr.gradle	violations-command-line	2022-03-16T17:24:17Z	
+2.0.0-alpha7	named	org.slf4j	slf4j-simple	2022-03-17T18:37:09Z	2.0.0-alpha7
+1.21.2	named	se.bjurr.violations	violations-command-line	2022-03-17T18:53:19Z	
+1.100.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-03-17T19:33:44Z	
+1.100.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-03-18T20:06:26Z	
+1.21.3	named	se.bjurr.violations	violations-command-line	2022-03-19T06:13:52Z	
+1.31.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2022-03-27T06:40:11Z	
+1.39.0	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2022-03-27T06:44:36Z	
+1.23.0	named	se.bjurr.violations	violation-comments-to-github-command-line	2022-03-27T06:48:43Z	
+1.30.0	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2022-03-27T07:03:40Z	
+1.100.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-05-01T16:53:51Z	
+1.21.4	named	se.bjurr.violations	violations-command-line	2022-05-04T16:20:59Z	
+1.30.1	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2022-05-08T15:44:03Z	
+1.23.1	named	se.bjurr.violations	violation-comments-to-github-command-line	2022-05-08T15:49:06Z	
+1.39.1	named	se.bjurr.violations	violation-comments-to-bitbucket-server-command-line	2022-05-08T15:51:24Z	
+1.21.5	named	se.bjurr.violations	violations-command-line	2022-05-22T09:29:19Z	
+1.30.2	named	se.bjurr.violations	violation-comments-to-gitlab-command-line	2022-05-22T09:32:28Z	
+1.23.2	named	se.bjurr.violations	violation-comments-to-github-command-line	2022-05-22T09:43:00Z	
+1.21.6	named	se.bjurr.violations	violations-command-line	2022-06-13T15:54:20Z	
+1.101.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-08-01T14:23:39Z	
+1.101.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2022-08-02T13:48:37Z	
+2.0.0-beta0	named	org.slf4j	slf4j-simple	2022-08-05T20:51:39Z	2.0.0-beta0
+2.0.0-beta1	named	org.slf4j	slf4j-simple	2022-08-06T21:34:45Z	2.0.0-beta1
+2.0.0	named	org.slf4j	slf4j-simple	2022-08-20T19:09:08Z	2.0.0
+2.0.1	named	org.slf4j	slf4j-simple	2022-09-14T14:30:50Z	2.0.1
+2.0.2	named	org.slf4j	slf4j-simple	2022-09-20T19:40:22Z	2.0.2
+2.0.3	named	org.slf4j	slf4j-simple	2022-09-28T10:18:20Z	2.0.3
+1.19.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2022-10-14T03:19:20Z	2.0.3
+1.19.1-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2022-10-16T21:52:18Z	2.0.3
+1.1.0	named	com.github.kwart.kerberos	kerberos-server	2022-10-23T14:49:00Z	2.0.3
+2.0.4	named	org.slf4j	slf4j-simple	2022-11-17T20:26:51Z	2.0.4
+1.20.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2022-11-17T21:22:10Z	2.0.3
+1.20.1-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2022-11-22T17:07:45Z	2.0.3
+2.0.5	named	org.slf4j	slf4j-simple	2022-11-25T11:43:11Z	2.0.4
+2.0.6	named	org.slf4j	slf4j-simple	2022-12-12T19:14:01Z	2.0.6
+1.21.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2022-12-15T20:20:54Z	2.0.6
+1.22.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-01-17T03:48:56Z	2.0.6
+1.23.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-02-22T20:36:46Z	2.0.6
+2.0.7	named	org.slf4j	slf4j-simple	2023-03-17T19:37:12Z	2.0.7
+1.24.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-04-03T16:59:26Z	2.0.7
+1.25.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-04-18T19:13:26Z	2.0.7
+1.25.1-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-04-21T18:56:11Z	2.0.7
+1.6.8	named	org.meyvn	meyvn	2023-05-12T00:15:08Z	2.0.6
+1.6.9	named	org.meyvn	meyvn	2023-05-15T10:46:21Z	2.0.6
+1.26.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-05-17T16:07:54Z	2.0.7
+1.27.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-06-16T20:09:43Z	2.0.7
+0.12.0	named	cz.o2.proxima	proxima-compiler-java-cli	2023-07-03T15:40:12Z	2.0.7
+1.28.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-07-14T20:48:00Z	2.0.7
+2.0.0	named	io.goodforgod	slf4j-simple-logger	2023-08-18T21:38:25Z	
+1.0.2	named	io.github.huaweicloud	lts-flink-connector	2023-08-23T11:58:56Z	2.0.7
+1.29.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-08-23T17:18:14Z	2.0.7
+2.0.8	named	org.slf4j	slf4j-simple	2023-09-03T15:23:52Z	2.0.8
+2.0.9	named	org.slf4j	slf4j-simple	2023-09-03T16:14:47Z	2.0.9
+1.0.3.1	named	io.github.huaweicloud	lts-flink-connector	2023-09-11T13:12:31Z	2.0.7
+1.30.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-09-18T16:02:06Z	2.0.9
+1.31.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-10-18T17:11:00Z	2.0.9
+1.0.3.2	named	io.github.huaweicloud	lts-flink-connector	2023-11-17T09:25:11Z	2.0.7
+1.32.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2023-11-27T18:59:12Z	2.0.9
+1.0.3.3	named	io.github.huaweicloud	lts-flink-connector	2023-12-01T11:05:55Z	2.0.7
+0.13.0	named	cz.o2.proxima	proxima-compiler-java-cli	2023-12-04T10:31:26Z	2.0.7
+2.1.0-alpha0	named	org.slf4j	slf4j-simple	2023-12-28T19:41:58Z	2.1.0-alpha0
+2.0.10	named	org.slf4j	slf4j-simple	2023-12-28T20:50:53Z	2.0.10
+2.1.0-alpha1	named	org.slf4j	slf4j-simple	2024-01-02T19:24:48Z	2.1.0-alpha1
+2.0.11	named	org.slf4j	slf4j-simple	2024-01-08T18:02:09Z	2.0.11
+1.0.3.4	named	io.github.huaweicloud	lts-flink-connector	2024-01-23T09:51:26Z	2.0.7
+2.0.12	named	org.slf4j	slf4j-simple	2024-02-05T21:33:23Z	2.0.12
+1.33.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2024-02-21T21:08:59Z	2.0.12
+2.2.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-02-25T18:52:12Z	2.0.6
+1.34.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2024-03-27T15:04:27Z	2.0.12
+2.2.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-04-01T10:37:24Z	2.0.6
+0.14.0	named	cz.o2.proxima	proxima-compiler-java-cli	2024-04-09T12:05:51Z	2.0.7
+2.0.13	named	org.slf4j	slf4j-simple	2024-04-12T14:24:16Z	2.0.13
+1.35.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2024-04-16T21:29:19Z	2.0.13
+1.0	named	io.github.lizhi404	zeus-manifest	2024-06-05T06:05:41Z	2.0.12
+2.2.3	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-07-06T07:16:16Z	2.0.6
+2.3.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-07-07T06:02:07Z	2.0.6
+1.0.3	named	io.github.huaweicloud	lts-flink-connector	2024-07-18T12:17:41Z	2.0.7
+2.0.14	named	org.slf4j	slf4j-simple	2024-08-06T20:33:50Z	2.0.14
+2.0.15	named	org.slf4j	slf4j-simple	2024-08-08T12:59:58Z	2.0.15
+2.0.16	named	org.slf4j	slf4j-simple	2024-08-10T09:15:21Z	2.0.16
+1.0.4	named	io.github.huaweicloud	lts-flink-connector	2024-09-24T08:27:55Z	2.0.7
+2.4.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-10-03T19:11:56Z	2.0.16
+2.4.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-10-03T19:22:41Z	2.0.16
+2.5.0	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-10-16T19:36:34Z	2.0.16
+2.5.1	named	se.bjurr.gitchangelog	git-changelog-command-line	2024-10-16T20:33:03Z	2.0.16
+1.0.5	named	io.github.huaweicloud	lts-flink-connector	2024-12-02T01:16:28Z	2.0.7
+2.5.2	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-01-18T07:19:42Z	2.0.16
+2.5.3	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-01-26T10:28:49Z	2.0.16
+1.0.6	named	io.github.huaweicloud	lts-flink-connector	2025-02-10T03:23:47Z	2.0.7
+1.0.7	named	io.github.huaweicloud	lts-flink-connector	2025-02-20T05:57:35Z	2.0.7
+1.0.8	named	io.github.huaweicloud	lts-flink-connector	2025-02-24T14:20:02Z	2.0.7
+2.0.17	named	org.slf4j	slf4j-simple	2025-02-25T16:43:30Z	2.0.17
+1.0.9	named	io.github.huaweicloud	lts-flink-connector	2025-02-25T17:02:08Z	2.0.7
+1.1.0	named	io.github.huaweicloud	lts-flink-connector	2025-03-05T11:53:03Z	2.0.7
+2.5.4	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-03-16T07:08:52Z	2.0.17
+2.5.5	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-03-16T15:14:35Z	2.0.17
+1.1.1	named	io.github.huaweicloud	lts-flink-connector	2025-03-28T14:20:37Z	2.0.7
+1.1.2	named	io.github.huaweicloud	lts-flink-connector	2025-03-30T04:54:57Z	2.0.7
+2.5.6	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-04-07T14:54:13Z	2.0.17
+0.15.0	named	cz.o2.proxima	proxima-compiler-java-cli	2025-04-14T08:46:06Z	2.0.7
+1.1.3	named	io.github.huaweicloud	lts-flink-connector	2025-04-15T01:06:04Z	2.0.7
+0.1.0	named	io.github.eschizoid	kpipe	2025-04-19T23:23:24Z	2.0.9
+1.1.4	named	io.github.huaweicloud	lts-flink-connector	2025-04-22T00:45:18Z	2.0.7
+1.1.5	named	io.github.huaweicloud	lts-flink-connector	2025-04-25T13:40:21Z	2.0.7
+1.1.6	named	io.github.huaweicloud	lts-flink-connector	2025-06-10T09:17:43Z	2.0.7
+2.5.7	named	se.bjurr.gitchangelog	git-changelog-command-line	2025-07-29T06:10:38Z	2.0.17
+1.1.7	named	io.github.huaweicloud	lts-flink-connector	2025-08-26T08:59:11Z	2.0.7
+2.0.18	named	org.slf4j	slf4j-simple	2026-05-12T18:34:09Z	2.0.18

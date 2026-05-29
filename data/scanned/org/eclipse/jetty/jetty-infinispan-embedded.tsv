@@ -1,0 +1,90 @@
+12.0.0	config	2023-08-07T17:19:49Z	
+12.0.0.alpha0	config	2022-08-22T04:38:27Z	
+12.0.0.alpha1	config	2022-09-15T01:35:38Z	
+12.0.0.alpha2	config	2022-10-18T01:19:40Z	
+12.0.0.alpha3	config	2022-12-07T22:17:34Z	
+12.0.0.beta0	config	2023-02-23T00:33:56Z	
+12.0.0.beta1	config	2023-05-02T18:15:10Z	
+12.0.0.beta2	config	2023-06-16T05:47:08Z	
+12.0.0.beta3	config	2023-07-03T21:13:39Z	
+12.0.0.beta4	config	2023-07-26T22:31:19Z	
+12.0.1	config	2023-08-29T22:48:05Z	
+12.0.10	config	2024-05-30T04:58:49Z	
+12.0.11	config	2024-06-27T23:53:29Z	
+12.0.12	config	2024-07-25T22:06:38Z	
+12.0.13	config	2024-09-03T03:17:38Z	
+12.0.14	config	2024-09-30T14:37:27Z	
+12.0.15	config	2024-11-05T19:56:28Z	
+12.0.16	config	2024-12-09T21:13:50Z	
+12.0.17	config	2025-03-03T13:25:32Z	
+12.0.18	config	2025-03-13T00:56:30Z	
+12.0.19	config	2025-04-01T13:39:51Z	
+12.0.2	config	2023-10-10T02:04:06Z	
+12.0.20	config	2025-04-29T18:10:48Z	
+12.0.21	config	2025-05-09T00:41:44Z	
+12.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.22/jetty-infinispan-embedded-12.0.22.jar returned status 404
+12.0.22	config	2025-06-02T15:36:35Z	
+12.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.23/jetty-infinispan-embedded-12.0.23.jar returned status 404
+12.0.23	config	2025-07-02T14:15:51Z	
+12.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.24/jetty-infinispan-embedded-12.0.24.jar returned status 404
+12.0.24	config	2025-08-04T23:58:16Z	
+12.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.25/jetty-infinispan-embedded-12.0.25.jar returned status 404
+12.0.25	config	2025-08-12T00:02:03Z	
+12.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.26/jetty-infinispan-embedded-12.0.26.jar returned status 404
+12.0.26	config	2025-09-04T00:28:20Z	
+12.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.27/jetty-infinispan-embedded-12.0.27.jar returned status 404
+12.0.27	config	2025-09-11T00:05:35Z	
+12.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.28/jetty-infinispan-embedded-12.0.28.jar returned status 404
+12.0.28	config	2025-10-03T16:21:49Z	
+12.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.29/jetty-infinispan-embedded-12.0.29.jar returned status 404
+12.0.29	config	2025-10-16T15:27:18Z	
+12.0.3	config	2023-10-27T03:32:52Z	
+12.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.30/jetty-infinispan-embedded-12.0.30.jar returned status 404
+12.0.30	config	2025-11-10T17:08:49Z	
+12.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.31/jetty-infinispan-embedded-12.0.31.jar returned status 404
+12.0.31	config	2025-12-03T21:48:38Z	
+12.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.32/jetty-infinispan-embedded-12.0.32.jar returned status 404
+12.0.32	config	2026-01-27T19:16:56Z	
+12.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.33/jetty-infinispan-embedded-12.0.33.jar returned status 404
+12.0.33	config	2026-03-04T02:31:22Z	
+12.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.34/jetty-infinispan-embedded-12.0.34.jar returned status 404
+12.0.34	config	2026-04-01T05:54:44Z	
+12.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.0.35/jetty-infinispan-embedded-12.0.35.jar returned status 404
+12.0.35	config	2026-05-01T05:52:32Z	
+12.0.4	config	2023-11-30T19:21:36Z	
+12.0.5	config	2023-12-18T14:13:53Z	
+12.0.6	config	2024-01-30T02:50:35Z	
+12.0.7	config	2024-02-29T21:28:21Z	
+12.0.8	config	2024-03-29T20:05:21Z	
+12.0.9	config	2024-05-03T13:12:12Z	
+12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.0/jetty-infinispan-embedded-12.1.0.jar returned status 404
+12.1.0	config	2025-08-15T05:13:16Z	
+12.1.0.alpha0	config	2024-11-05T20:23:17Z	
+12.1.0.alpha1	config	2024-12-23T18:19:53Z	
+12.1.0.alpha2	config	2025-03-18T16:01:50Z	
+12.1.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.0.beta0/jetty-infinispan-embedded-12.1.0.beta0.jar returned status 404
+12.1.0.beta0	config	2025-05-18T23:48:19Z	
+12.1.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.0.beta1/jetty-infinispan-embedded-12.1.0.beta1.jar returned status 404
+12.1.0.beta1	config	2025-06-19T18:54:10Z	
+12.1.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.0.beta2/jetty-infinispan-embedded-12.1.0.beta2.jar returned status 404
+12.1.0.beta2	config	2025-07-18T19:53:29Z	
+12.1.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.0.beta3/jetty-infinispan-embedded-12.1.0.beta3.jar returned status 404
+12.1.0.beta3	config	2025-08-12T00:51:32Z	
+12.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.1/jetty-infinispan-embedded-12.1.1.jar returned status 404
+12.1.1	config	2025-09-08T04:46:35Z	
+12.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.2/jetty-infinispan-embedded-12.1.2.jar returned status 404
+12.1.2	config	2025-10-07T23:34:35Z	
+12.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.3/jetty-infinispan-embedded-12.1.3.jar returned status 404
+12.1.3	config	2025-10-16T14:25:43Z	
+12.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.4/jetty-infinispan-embedded-12.1.4.jar returned status 404
+12.1.4	config	2025-11-10T17:57:04Z	
+12.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.5/jetty-infinispan-embedded-12.1.5.jar returned status 404
+12.1.5	config	2025-12-03T22:32:33Z	
+12.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.6/jetty-infinispan-embedded-12.1.6.jar returned status 404
+12.1.6	config	2026-01-27T19:01:39Z	
+12.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.7/jetty-infinispan-embedded-12.1.7.jar returned status 404
+12.1.7	config	2026-03-04T00:49:05Z	
+12.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.8/jetty-infinispan-embedded-12.1.8.jar returned status 404
+12.1.8	config	2026-04-01T01:22:20Z	
+12.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-infinispan-embedded/12.1.9/jetty-infinispan-embedded-12.1.9.jar returned status 404
+12.1.9	config	2026-05-01T03:47:14Z	

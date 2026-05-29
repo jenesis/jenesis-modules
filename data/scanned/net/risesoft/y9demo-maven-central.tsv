@@ -1,0 +1,11 @@
+1.0		2024-07-05T00:45:51Z	
+1.0.1		2024-07-05T03:27:21Z	
+1.0.2		2024-07-06T00:32:48Z	
+1.0.3		2024-07-08T01:45:55Z	
+1.0.4		2024-07-08T02:54:34Z	
+1.1		2024-08-02T10:06:19Z	
+1.2		2024-11-10T12:16:19Z	
+1.2.1		2024-11-11T09:15:37Z	
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/risesoft/y9demo-maven-central/1.2.3/y9demo-maven-central-1.2.3.jar returned status 404
+1.2.3-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/risesoft/y9demo-maven-central/1.2.3-1/y9demo-maven-central-1.2.3-1.jar returned status 404
+1.2.3-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/risesoft/y9demo-maven-central/1.2.3-2/y9demo-maven-central-1.2.3-2.jar returned status 404

@@ -1,0 +1,14 @@
+2.6.1	named	org.komamitsu	fluency-aws-s3	2022-01-15T12:05:50Z	2.13.1
+2.6.2	named	org.komamitsu	fluency-aws-s3	2022-01-25T12:16:31Z	2.13.1
+2.6.3	named	org.komamitsu	fluency-aws-s3	2022-02-03T13:07:36Z	2.13.1
+2.6.4	named	org.komamitsu	fluency-aws-s3	2022-04-24T14:41:38Z	2.13.2
+2.6.5	named	org.komamitsu	fluency-aws-s3	2022-07-03T07:44:39Z	2.13.2
+0.2	named	io.github.ferozed.kafka.connect	mask-json-field-transform	2023-04-09T20:20:50Z	2.14.1
+0.3	named	io.github.ferozed.kafka.connect	mask-json-field-transform	2023-04-22T20:49:38Z	2.14.1
+1.1	named	io.github.ferozed.kafka.connect	mask-json-field-transform	2023-10-09T18:02:11Z	2.14.1
+1.24.0	named	org.apache.calcite.avatica	avatica	2023-11-29T00:18:27Z	2.15.2
+1.24.0	named	org.apache.calcite.avatica	avatica-standalone-server	2023-11-29T00:18:51Z	2.15.2
+1.25.0	named	org.apache.calcite.avatica	avatica	2024-04-02T03:19:47Z	2.15.2
+1.25.0	named	org.apache.calcite.avatica	avatica-standalone-server	2024-04-02T03:20:13Z	2.15.2
+1.26.0	named	org.apache.calcite.avatica	avatica	2025-02-18T23:00:55Z	2.15.4
+1.26.0	named	org.apache.calcite.avatica	avatica-standalone-server	2025-02-18T23:00:57Z	2.15.4

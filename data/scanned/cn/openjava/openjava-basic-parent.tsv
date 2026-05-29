@@ -1,0 +1,2 @@
+2.0.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openjava/openjava-basic-parent/2.0.0.1-alpha/openjava-basic-parent-2.0.0.1-alpha.jar returned status 404
+3.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openjava/openjava-basic-parent/3.0.0.1/openjava-basic-parent-3.0.0.1.jar returned status 404

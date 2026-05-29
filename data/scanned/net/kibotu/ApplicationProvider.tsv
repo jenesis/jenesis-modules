@@ -1,0 +1,4 @@
+2.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/ApplicationProvider/2.0.18/ApplicationProvider-2.0.18.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/ApplicationProvider/2.1.0/ApplicationProvider-2.1.0.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/ApplicationProvider/2.1.2/ApplicationProvider-2.1.2.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/ApplicationProvider/2.1.5/ApplicationProvider-2.1.5.jar returned status 404

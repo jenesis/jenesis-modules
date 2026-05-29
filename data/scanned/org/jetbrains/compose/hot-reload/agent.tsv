@@ -1,0 +1,23 @@
+1.0.0-alpha-01		2025-03-03T17:31:45Z	
+1.0.0-alpha-01	standalone	2025-03-03T17:31:47Z	
+1.0.0-alpha01		2025-03-03T18:19:28Z	
+1.0.0-alpha01	standalone	2025-03-03T18:19:27Z	
+1.0.0-alpha02		2025-03-17T10:02:17Z	
+1.0.0-alpha02	standalone	2025-03-17T10:02:15Z	
+1.0.0-alpha03		2025-03-21T11:09:19Z	
+1.0.0-alpha03	standalone	2025-03-21T11:09:15Z	
+1.0.0-alpha04		2025-04-03T08:06:29Z	
+1.0.0-alpha04	standalone	2025-04-03T08:06:32Z	
+1.0.0-alpha05		2025-04-14T07:08:21Z	
+1.0.0-alpha05	dev	2025-04-14T07:08:27Z	
+1.0.0-alpha05	standalone	2025-04-14T07:08:23Z	
+1.0.0-alpha06		2025-04-24T06:52:31Z	
+1.0.0-alpha06	standalone	2025-04-24T06:52:30Z	
+1.0.0-alpha07		2025-04-24T12:39:11Z	
+1.0.0-alpha07	standalone	2025-04-24T12:39:11Z	
+1.0.0-alpha08		2025-04-24T17:28:14Z	
+1.0.0-alpha08	standalone	2025-04-24T17:28:11Z	
+1.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/hot-reload/agent/1.0.0-alpha09/agent-1.0.0-alpha09.jar returned status 404
+1.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/hot-reload/agent/1.0.0-alpha10/agent-1.0.0-alpha10.jar returned status 404
+1.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/hot-reload/agent/1.0.0-alpha11/agent-1.0.0-alpha11.jar returned status 404
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/hot-reload/agent/1.0.0-beta01/agent-1.0.0-beta01.jar returned status 404

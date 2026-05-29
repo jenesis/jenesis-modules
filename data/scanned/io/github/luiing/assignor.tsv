@@ -1,0 +1,4 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/luiing/assignor/0.0.1/assignor-0.0.1.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/luiing/assignor/0.0.2/assignor-0.0.2.jar returned status 404
+0.0.2-cr			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/luiing/assignor/0.0.2-cr/assignor-0.0.2-cr.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/luiing/assignor/1.0.0/assignor-1.0.0.jar returned status 404

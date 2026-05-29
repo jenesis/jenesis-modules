@@ -1,0 +1,22 @@
+"1.0.0-alpha.4"			IllegalArgumentException: Illegal character in path at index 38: io/openfeedback/openfeedback-iosarm64/"1.0.0-alpha.4"/openfeedback-iosarm64-"1.0.0-alpha.4".jar
+"1.0.0-alpha.4"	metadata		IllegalArgumentException: Illegal character in path at index 38: io/openfeedback/openfeedback-iosarm64/"1.0.0-alpha.4"/openfeedback-iosarm64-"1.0.0-alpha.4"-metadata.jar
+"1.0.0-alpha.5"			IllegalArgumentException: Illegal character in path at index 38: io/openfeedback/openfeedback-iosarm64/"1.0.0-alpha.5"/openfeedback-iosarm64-"1.0.0-alpha.5".jar
+"1.0.0-alpha.5"	metadata		IllegalArgumentException: Illegal character in path at index 38: io/openfeedback/openfeedback-iosarm64/"1.0.0-alpha.5"/openfeedback-iosarm64-"1.0.0-alpha.5"-metadata.jar
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/0.2.0/openfeedback-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2024-03-25T21:48:05Z	
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/0.2.1/openfeedback-iosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2024-03-27T15:24:12Z	
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/0.2.2/openfeedback-iosarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2024-04-05T09:01:17Z	
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/0.2.3/openfeedback-iosarm64-0.2.3.jar returned status 404
+0.2.3	metadata	2024-04-28T15:44:52Z	
+1.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/1.0.0-alpha.1/openfeedback-iosarm64-1.0.0-alpha.1.jar returned status 404
+1.0.0-alpha.1	metadata	2024-07-13T00:11:25Z	
+1.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/1.0.0-alpha.2/openfeedback-iosarm64-1.0.0-alpha.2.jar returned status 404
+1.0.0-alpha.2	metadata	2024-07-15T08:09:24Z	
+1.0.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/1.0.0-alpha.3/openfeedback-iosarm64-1.0.0-alpha.3.jar returned status 404
+1.0.0-alpha.3	metadata	2024-07-16T19:46:06Z	
+1.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/1.0.0-alpha.4/openfeedback-iosarm64-1.0.0-alpha.4.jar returned status 404
+1.0.0-alpha.4	metadata	2025-03-11T00:02:53Z	
+1.0.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-iosarm64/1.0.0-alpha.6/openfeedback-iosarm64-1.0.0-alpha.6.jar returned status 404
+1.0.0-alpha.6	metadata	2025-03-11T08:29:30Z	

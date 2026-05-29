@@ -1,0 +1,8 @@
+1.0		2022-12-24T18:30:15Z	
+1.0.1		2022-12-24T19:24:57Z	
+1.0.2		2023-02-10T07:11:19Z	
+1.0.3		2023-02-19T16:42:51Z	
+2.0.0		2025-04-30T13:09:47Z	
+2.0.1		2025-04-30T14:02:29Z	
+2.0.2		2025-05-09T19:55:22Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yeamy/httpclient-apt-gson/2.0.3/httpclient-apt-gson-2.0.3.jar returned status 404

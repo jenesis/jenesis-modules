@@ -1,0 +1,8 @@
+1.0.1		2021-08-24T10:09:23Z	
+2.0.2		2021-05-11T03:10:56Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/2.1.0/oppo-push-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/3.0.0/oppo-push-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/3.1.0/oppo-push-3.1.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/3.4.0/oppo-push-3.4.0.jar returned status 404
+3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/3.5.3/oppo-push-3.5.3.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/oppo-push/3.7.1/oppo-push-3.7.1.jar returned status 404

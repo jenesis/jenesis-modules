@@ -1,0 +1,10 @@
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.14.0/ngtcp2-1.14.0.jar returned status 404
+1.14.0-preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.14.0-preview.1/ngtcp2-1.14.0-preview.1.jar returned status 404
+1.14.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.14.0.0.1/ngtcp2-1.14.0.0.1.jar returned status 404
+1.14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.14.0.1/ngtcp2-1.14.0.1.jar returned status 404
+1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.15.0/ngtcp2-1.15.0.jar returned status 404
+1.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.15.1/ngtcp2-1.15.1.jar returned status 404
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.16.0/ngtcp2-1.16.0.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.17.0/ngtcp2-1.17.0.jar returned status 404
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.18.0/ngtcp2-1.18.0.jar returned status 404
+1.18.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/ngtcp2/1.18.0.1/ngtcp2-1.18.0.1.jar returned status 404

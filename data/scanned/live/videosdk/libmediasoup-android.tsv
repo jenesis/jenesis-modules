@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/videosdk/libmediasoup-android/1.0/libmediasoup-android-1.0.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/videosdk/libmediasoup-android/2.0/libmediasoup-android-2.0.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/videosdk/libmediasoup-android/3.0/libmediasoup-android-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/videosdk/libmediasoup-android/3.1/libmediasoup-android-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/videosdk/libmediasoup-android/3.2/libmediasoup-android-3.2.jar returned status 404

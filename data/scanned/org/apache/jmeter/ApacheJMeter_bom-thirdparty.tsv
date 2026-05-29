@@ -1,0 +1,4 @@
+5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jmeter/ApacheJMeter_bom-thirdparty/5.6/ApacheJMeter_bom-thirdparty-5.6.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jmeter/ApacheJMeter_bom-thirdparty/5.6.1/ApacheJMeter_bom-thirdparty-5.6.1.jar returned status 404
+5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jmeter/ApacheJMeter_bom-thirdparty/5.6.2/ApacheJMeter_bom-thirdparty-5.6.2.jar returned status 404
+5.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jmeter/ApacheJMeter_bom-thirdparty/5.6.3/ApacheJMeter_bom-thirdparty-5.6.3.jar returned status 404

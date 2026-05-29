@@ -1,0 +1,4 @@
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sinhy/nacos-datasource-plugin-ext/3.0.3/nacos-datasource-plugin-ext-3.0.3.jar returned status 404
+3.0.3_patch_01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sinhy/nacos-datasource-plugin-ext/3.0.3_patch_01/nacos-datasource-plugin-ext-3.0.3_patch_01.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sinhy/nacos-datasource-plugin-ext/3.1.0/nacos-datasource-plugin-ext-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sinhy/nacos-datasource-plugin-ext/3.1.1/nacos-datasource-plugin-ext-3.1.1.jar returned status 404

@@ -1,0 +1,35 @@
+1.3.10-RELEASE		2022-04-09T11:05:16Z	
+1.3.11-RELEASE		2022-04-16T13:21:03Z	
+1.3.12-RELEASE		2022-04-18T09:47:41Z	
+1.3.13-RELEASE		2022-06-12T09:48:32Z	
+1.3.4-RELEASE		2021-12-21T11:21:14Z	
+1.3.5-RELEASE		2021-12-22T11:44:37Z	
+1.3.6-RELEASE		2022-01-21T08:15:27Z	
+1.3.7-RELEASE		2022-02-13T12:38:18Z	
+1.3.8-RELEASE		2022-02-13T13:43:06Z	
+1.3.9-RELEASE		2022-03-09T08:02:19Z	
+1.4.0-RELEASE		2022-07-31T11:03:24Z	
+1.4.1-RELEASE		2022-08-09T06:48:01Z	
+1.4.2-RELEASE		2022-08-29T05:06:49Z	
+1.5.0-RELEASE		2022-09-04T10:01:48Z	
+1.6.0-RELEASE		2022-09-17T14:56:27Z	
+1.7.0-RELEASE		2022-10-01T09:19:51Z	
+1.7.1-RELEASE		2022-11-06T11:43:22Z	
+1.7.2-RELEASE		2022-11-12T11:50:43Z	
+1.8.0-RELEASE		2022-12-30T12:43:47Z	
+1.9.0-RELEASE		2023-01-05T07:47:45Z	
+1.9.1-RELEASE		2023-01-11T11:03:14Z	
+2.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/perit/spvitamin/spvitamin-spring-cloud-eureka/2.0.0-RELEASE/spvitamin-spring-cloud-eureka-2.0.0-RELEASE.jar returned status 404
+2.0.0-RELEASE	plain	2023-01-14T08:28:40Z	
+2.0.1-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/perit/spvitamin/spvitamin-spring-cloud-eureka/2.0.1-RELEASE/spvitamin-spring-cloud-eureka-2.0.1-RELEASE.jar returned status 404
+2.0.1-RELEASE	plain	2023-01-14T11:35:44Z	
+2.0.2-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/perit/spvitamin/spvitamin-spring-cloud-eureka/2.0.2-RELEASE/spvitamin-spring-cloud-eureka-2.0.2-RELEASE.jar returned status 404
+2.0.2-RELEASE	plain	2023-01-14T13:40:27Z	
+3.0.4-1-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/perit/spvitamin/spvitamin-spring-cloud-eureka/3.0.4-1-RELEASE/spvitamin-spring-cloud-eureka-3.0.4-1-RELEASE.jar returned status 404
+3.0.4-1-RELEASE	plain	2023-03-19T07:55:43Z	
+3.0.4-2-RELEASE		2023-05-13T13:52:36Z	
+3.0.4-3-RELEASE		2023-10-07T07:56:56Z	
+3.0.4-4-RELEASE		2023-11-01T04:55:13Z	
+3.0.4-5-RELEASE		2023-11-19T05:30:30Z	
+3.1.5-1-RELEASE		2023-12-13T10:01:40Z	
+3.1.5-2-RELEASE		2024-01-27T06:40:33Z	

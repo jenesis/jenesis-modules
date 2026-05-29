@@ -1,0 +1,14 @@
+10.0.0		2022-04-21T18:20:51Z	
+10.0.1		2022-10-02T12:18:30Z	
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-reflect-js/10.0.2/yass2-reflect-js-10.0.2.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-reflect-js/11.0.0/yass2-reflect-js-11.0.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-reflect-js/12.0.0/yass2-reflect-js-12.0.0.jar returned status 404
+12.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-reflect-js/12.0.0-RC/yass2-reflect-js-12.0.0-RC.jar returned status 404
+6.0.0		2020-08-23T14:30:50Z	
+6.1.0		2020-09-13T13:28:48Z	
+7.0.0		2020-10-16T19:13:37Z	
+7.0.1		2020-11-28T16:08:59Z	
+7.0.2		2021-02-12T19:55:14Z	
+7.1.0		2021-04-17T12:54:35Z	
+8.0.0		2021-06-28T15:59:14Z	
+8.0.1		2021-07-21T19:03:37Z	

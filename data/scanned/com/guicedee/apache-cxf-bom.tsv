@@ -1,0 +1,3 @@
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/guicedee/apache-cxf-bom/2.0.0-RC2/apache-cxf-bom-2.0.0-RC2.jar returned status 404
+2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/guicedee/apache-cxf-bom/2.0.0-RC3/apache-cxf-bom-2.0.0-RC3.jar returned status 404
+2.0.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/guicedee/apache-cxf-bom/2.0.0-RC7/apache-cxf-bom-2.0.0-RC7.jar returned status 404

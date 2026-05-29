@@ -1,0 +1,4 @@
+201906101921		2019-06-10T20:43:27Z	
+201909101509			IllegalArgumentException: Expected central file header signature at offset 0
+202003061350			IllegalArgumentException: Expected central file header signature at offset 0
+202006160102			IllegalArgumentException: Expected central file header signature at offset 0

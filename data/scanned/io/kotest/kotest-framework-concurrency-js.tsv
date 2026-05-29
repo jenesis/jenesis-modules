@@ -1,0 +1,42 @@
+4.6.0		2021-05-18T21:28:09Z	
+4.6.1		2021-07-12T14:59:35Z	
+4.6.2		2021-08-24T02:12:34Z	
+4.6.3		2021-09-17T03:44:14Z	
+4.6.4		2021-11-28T03:46:12Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0/kotest-framework-concurrency-js-5.0.0.jar returned status 404
+5.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.M1/kotest-framework-concurrency-js-5.0.0.M1.jar returned status 404
+5.0.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.M2/kotest-framework-concurrency-js-5.0.0.M2.jar returned status 404
+5.0.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.M3/kotest-framework-concurrency-js-5.0.0.M3.jar returned status 404
+5.0.0.M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.M4/kotest-framework-concurrency-js-5.0.0.M4.jar returned status 404
+5.0.0.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.RC/kotest-framework-concurrency-js-5.0.0.RC.jar returned status 404
+5.0.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.0.RC2/kotest-framework-concurrency-js-5.0.0.RC2.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.1/kotest-framework-concurrency-js-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.2/kotest-framework-concurrency-js-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.0.3/kotest-framework-concurrency-js-5.0.3.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.1.0/kotest-framework-concurrency-js-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.2.0/kotest-framework-concurrency-js-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.2.1/kotest-framework-concurrency-js-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.2.2/kotest-framework-concurrency-js-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.2.3/kotest-framework-concurrency-js-5.2.3.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.3.0/kotest-framework-concurrency-js-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.3.1/kotest-framework-concurrency-js-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.3.2/kotest-framework-concurrency-js-5.3.2.jar returned status 404
+5.4.0		2022-07-24T06:37:25Z	
+5.4.1		2022-07-28T08:17:14Z	
+5.4.2		2022-08-10T10:26:57Z	
+5.5.0		2022-10-03T04:21:01Z	
+5.5.1		2022-10-09T17:38:05Z	
+5.5.2		2022-10-23T18:02:21Z	
+5.5.3		2022-10-27T23:36:17Z	
+5.5.4		2022-11-03T19:27:16Z	
+5.5.5		2023-02-05T15:46:02Z	
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.6.0/kotest-framework-concurrency-js-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.6.1/kotest-framework-concurrency-js-5.6.1.jar returned status 404
+5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.6.2/kotest-framework-concurrency-js-5.6.2.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.7.0/kotest-framework-concurrency-js-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.7.1/kotest-framework-concurrency-js-5.7.1.jar returned status 404
+5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.7.2/kotest-framework-concurrency-js-5.7.2.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.8.0/kotest-framework-concurrency-js-5.8.0.jar returned status 404
+5.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.8.1/kotest-framework-concurrency-js-5.8.1.jar returned status 404
+5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.9.0/kotest-framework-concurrency-js-5.9.0.jar returned status 404
+5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-concurrency-js/5.9.1/kotest-framework-concurrency-js-5.9.1.jar returned status 404

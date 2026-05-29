@@ -1,0 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vip-test/test-demo/1.0.0/test-demo-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vip-test/test-demo/1.0.1/test-demo-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vip-test/test-demo/1.0.2/test-demo-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vip-test/test-demo/1.0.3/test-demo-1.0.3.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vip-test/test-demo/2.0.0/test-demo-2.0.0.jar returned status 404

@@ -1,0 +1,4 @@
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arcadefire/lettuce-android/0.2/lettuce-android-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arcadefire/lettuce-android/0.3/lettuce-android-0.3.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arcadefire/lettuce-android/0.3.1/lettuce-android-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arcadefire/lettuce-android/0.3.2/lettuce-android-0.3.2.jar returned status 404

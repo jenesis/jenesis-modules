@@ -1,0 +1,3 @@
+beta-v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ysknsid25/iolite/iolite-js/beta-v4/iolite-js-beta-v4.jar returned status 404
+beta-v5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ysknsid25/iolite/iolite-js/beta-v5/iolite-js-beta-v5.jar returned status 404
+v1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ysknsid25/iolite/iolite-js/v1.0.0/iolite-js-v1.0.0.jar returned status 404

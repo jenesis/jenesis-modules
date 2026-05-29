@@ -1,0 +1,6 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.0/androidstandard-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.0.1/androidstandard-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.0.2/androidstandard-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.1.0/androidstandard-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.1.1/androidstandard-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spiwer/androidstandard/1.1.2/androidstandard-1.1.2.jar returned status 404

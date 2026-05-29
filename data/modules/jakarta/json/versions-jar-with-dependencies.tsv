@@ -1,0 +1,11 @@
+1.0.4	named	org.spdx	tools-java	2021-12-26T21:29:21Z	2.0.1
+2.1.4	named	com.atomgraph.etl.csv	csv2rdf	2022-02-10T20:41:46Z	2.0.1
+2.1.7	named	com.atomgraph.etl.csv	csv2rdf	2022-05-10T08:25:37Z	2.0.1
+1.0.1	named	io.github.changebooks	changebook-elasticsearch	2023-03-15T15:34:13Z	2.0.1
+1.9.0	named	com.arangodb	arangodb-spark-datasource-3.5_2.12	2026-01-09T20:54:30Z	2.1.3
+1.9.0	named	com.arangodb	arangodb-spark-datasource-3.4_2.13	2026-01-09T20:54:33Z	2.1.3
+1.9.0	named	com.arangodb	arangodb-spark-datasource-4.1_2.13	2026-01-09T20:54:37Z	2.1.3
+1.9.0	named	com.arangodb	arangodb-spark-datasource-3.5_2.13	2026-01-09T20:54:41Z	2.1.3
+1.9.0	named	com.arangodb	arangodb-spark-datasource-4.0_2.13	2026-01-09T20:54:43Z	2.1.3
+1.9.0	named	com.arangodb	arangodb-spark-datasource-3.4_2.12	2026-01-09T20:54:49Z	2.1.3
+7.2.0	named	io.github.qudtlib	qudtlib-main-rdf	2026-02-11T08:50:58Z	2.0.1

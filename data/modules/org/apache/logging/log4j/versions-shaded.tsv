@@ -1,0 +1,409 @@
+2.9.7	named	com.whirvis	jraknet	2018-06-11T21:27:27Z	
+2.9.8	named	com.whirvis	jraknet	2018-06-16T00:31:52Z	
+2.0.2	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-03T10:35:19Z	
+2.0.2	named	io.scalecube	scalecube-gateway-examples-runner	2018-07-03T10:35:26Z	
+2.0.4	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-05T14:52:09Z	
+2.0.4	named	io.scalecube	scalecube-gateway-examples-runner	2018-07-05T14:52:12Z	
+2.0.5	named	io.scalecube	scalecube-gateway-examples-runner	2018-07-05T15:20:43Z	
+2.0.5	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-05T15:20:49Z	
+3.5.3	named	com.lucidworks.spark	spark-solr	2018-07-06T21:32:22Z	
+2.0.6	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-09T10:09:42Z	
+2.0.6	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-09T10:09:50Z	
+2.0.6	named	io.scalecube	scalecube-gateway-examples-runner	2018-07-09T10:09:56Z	
+2.0.7	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-09T11:10:53Z	
+2.0.7	named	io.scalecube	scalecube-gateway-examples-runner	2018-07-09T11:11:04Z	
+2.0.7	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-09T11:11:06Z	
+2.0.8	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-10T16:00:00Z	
+2.0.8	named	io.scalecube	scalecube-gateway-examples	2018-07-10T16:00:04Z	
+2.0.8	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-10T16:00:10Z	
+2.0.9	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-10T16:29:53Z	
+2.0.9	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-10T16:29:55Z	
+2.0.9	named	io.scalecube	scalecube-gateway-examples	2018-07-10T16:30:29Z	
+3.5.4	named	com.lucidworks.spark	spark-solr	2018-07-11T03:53:19Z	
+2.0.10	named	io.scalecube	scalecube-gateway-examples	2018-07-16T13:35:38Z	
+2.0.10	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-16T13:35:42Z	
+2.0.10	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-16T13:35:44Z	
+2.0.11	named	io.scalecube	scalecube-gateway-examples	2018-07-25T13:01:05Z	
+2.0.11	named	io.scalecube	scalecube-gateway-rsocket-websocket-runner	2018-07-25T13:01:10Z	
+2.0.11	named	io.scalecube	scalecube-gateway-websocket-runner	2018-07-25T13:01:13Z	
+2.10.0	named	com.whirvis	jraknet	2018-08-03T08:07:26Z	
+3.5.5	named	com.lucidworks.spark	spark-solr	2018-08-09T18:28:34Z	
+2.10.2	named	com.whirvis	jraknet	2018-09-02T01:44:47Z	
+2.10.3	named	com.whirvis	jraknet	2018-09-12T19:53:45Z	
+3.0.0-alpha.2	named	org.graylog2	graylog2-server	2018-09-14T16:59:03Z	
+3.5.6	named	com.lucidworks.spark	spark-solr	2018-09-19T21:08:20Z	
+2.10.4	named	com.whirvis	jraknet	2018-09-25T00:07:18Z	
+3.5.7	named	com.lucidworks.spark	spark-solr	2018-09-27T19:07:27Z	
+2.10.5	named	com.whirvis	jraknet	2018-09-29T18:07:35Z	
+1.5.1	named	eu.fthevenet	binjr	2018-10-03T17:13:13Z	
+1.5.2	named	eu.fthevenet	binjr	2018-10-05T12:35:03Z	
+1.31.0	named	com.erudika	para-search-elasticsearch	2018-10-05T12:37:05Z	
+1.31.0	named	com.erudika	para-search-elasticsearch-v5	2018-10-05T12:45:45Z	
+2.10.6	named	com.whirvis	jraknet	2018-10-05T22:17:53Z	
+1.5.3	named	eu.fthevenet	binjr	2018-10-11T16:09:25Z	
+0.3.0	named	org.dataconservancy.pass	pass-authz-core	2018-10-11T19:39:35Z	
+1.3.7	named	org.openimaj.tools	SequenceFileTool	2018-10-14T22:46:14Z	
+1.3.7	named	org.openimaj	core-video-capture	2018-10-14T23:13:15Z	
+1.3.8	named	org.openimaj.tools	SequenceFileTool	2018-10-16T08:46:23Z	
+1.3.8	named	org.openimaj	core-video-capture	2018-10-16T08:49:44Z	
+0.3.1	named	org.dataconservancy.pass	pass-authz-core	2018-10-17T17:21:15Z	
+1.6.0	named	eu.fthevenet	binjr	2018-10-31T16:53:59Z	
+3.0.0-alpha.3	named	org.graylog2	graylog2-server	2018-11-01T16:20:14Z	
+0.4.0	named	org.dataconservancy.pass	pass-authz-core	2018-11-02T02:13:55Z	
+3.5.8	named	com.lucidworks.spark	spark-solr	2018-11-03T17:42:00Z	
+1.1	named	uk.gov.nca.graph	mapper	2018-11-07T08:18:26Z	
+1.1	named	uk.gov.nca.graph	validator	2018-11-07T09:21:11Z	
+1.1	named	uk.gov.nca.graph	transform	2018-11-07T10:05:13Z	
+0.4.1	named	org.dataconservancy.pass	pass-authz-core	2018-11-14T14:07:09Z	
+3.0.0-alpha.4	named	org.graylog2	graylog2-server	2018-11-14T17:55:57Z	
+1.0.303	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T06:05:41Z	
+1.0.308	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T06:34:40Z	
+1.0.309	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T06:43:11Z	
+1.0.310	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T06:47:44Z	
+1.0.312	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T06:56:13Z	
+1.0.313	named	com.github.tornaia	aott-desktop-client-core	2018-11-20T07:10:57Z	
+3.6.0	named	com.lucidworks.spark	spark-solr	2018-11-21T01:59:41Z	
+1.0.314	named	com.github.tornaia	aott-desktop-client-core	2018-11-22T19:48:07Z	
+1.0.315	named	com.github.tornaia	aott-desktop-client-core	2018-11-22T19:52:04Z	
+1.0.316	named	com.github.tornaia	aott-desktop-client-core	2018-11-22T20:20:26Z	
+1.0.317	named	com.github.tornaia	aott-desktop-client-core	2018-11-22T20:58:39Z	
+1.0.318	named	com.github.tornaia	aott-desktop-client-core	2018-11-22T21:17:09Z	
+1.0.320	named	com.github.tornaia	aott-desktop-client-core	2018-11-23T09:29:20Z	
+1.0.322	named	com.github.tornaia	aott-desktop-client-core	2018-11-23T17:31:06Z	
+1.0.323	named	com.github.tornaia	aott-desktop-client-core	2018-11-23T18:11:56Z	
+1.0.324	named	com.github.tornaia	aott-desktop-client-core	2018-11-23T19:27:37Z	
+1.0.325	named	com.github.tornaia	aott-desktop-client-core	2018-11-24T10:04:03Z	
+1.0.326	named	com.github.tornaia	aott-desktop-client-core	2018-11-25T11:46:52Z	
+0.4.2	named	org.dataconservancy.pass	pass-authz-core	2018-11-26T20:38:57Z	
+1.0.327	named	com.github.tornaia	aott-desktop-client-core	2018-12-03T17:01:18Z	
+1.0.328	named	com.github.tornaia	aott-desktop-client-core	2018-12-03T18:36:02Z	
+3.5.9	named	com.lucidworks.spark	spark-solr	2018-12-04T01:43:42Z	
+1.0.329	named	com.github.tornaia	aott-desktop-client-core	2018-12-09T21:33:03Z	
+3.0.0-alpha.5	named	org.graylog2	graylog2-server	2018-12-10T15:57:00Z	
+1.0.330	named	com.github.tornaia	aott-desktop-client-core	2018-12-11T08:29:08Z	
+1.0.331	named	com.github.tornaia	aott-desktop-client-core	2018-12-16T18:01:09Z	
+1.0.332	named	com.github.tornaia	aott-desktop-client-core	2018-12-22T17:16:05Z	
+1.0.333	named	com.github.tornaia	aott-desktop-client-core	2018-12-23T12:24:32Z	
+1.0.334	named	com.github.tornaia	aott-desktop-client-core	2018-12-23T13:30:34Z	
+1.0.335	named	com.github.tornaia	aott-desktop-client-core	2018-12-23T16:39:11Z	
+1.0.336	named	com.github.tornaia	aott-desktop-client-core	2018-12-25T16:32:18Z	
+1.0.337	named	com.github.tornaia	aott-desktop-client-core	2018-12-29T23:20:43Z	
+1.0.338	named	com.github.tornaia	aott-desktop-client-core	2018-12-31T17:39:01Z	
+1.0.339	named	com.github.tornaia	aott-desktop-client-core	2019-01-01T16:15:28Z	
+3.5.10	named	com.lucidworks.spark	spark-solr	2019-01-03T05:01:33Z	
+3.0.0-beta.1	named	org.graylog2	graylog2-server	2019-01-03T18:09:50Z	
+3.5.5-fusion-4.1.x-1	named	com.lucidworks.spark	spark-solr	2019-01-04T00:15:12Z	
+3.5.5-fusion-4.1.x-2	named	com.lucidworks.spark	spark-solr	2019-01-04T00:52:33Z	
+3.0.0-beta.2	named	org.graylog2	graylog2-server	2019-01-10T17:19:15Z	
+0.87.0	named	org.finra.herd	herd-spark-2.1-data-catalog	2019-01-14T19:55:38Z	
+0.87.0	named	org.finra.herd	herd-spark-2.2-data-catalog	2019-01-14T19:55:58Z	
+0.87.0	named	org.finra.herd	herd-spark-data-catalog	2019-01-14T19:57:15Z	
+3.0.0-beta.3	named	org.graylog2	graylog2-server	2019-01-17T23:36:04Z	
+1.31.1	named	com.erudika	para-search-elasticsearch-v5	2019-01-22T12:33:41Z	
+1.31.1	named	com.erudika	para-search-elasticsearch	2019-01-22T13:46:01Z	
+3.0.0-beta.4	named	org.graylog2	graylog2-server	2019-01-24T21:37:56Z	
+3.0.0-rc.1	named	org.graylog2	graylog2-server	2019-01-29T16:57:51Z	
+0.88.0	named	org.finra.herd	herd-spark-data-catalog	2019-01-29T19:15:26Z	
+0.88.0	named	org.finra.herd	herd-spark-2.1-data-catalog	2019-01-29T19:16:53Z	
+0.88.0	named	org.finra.herd	herd-spark-2.2-data-catalog	2019-01-29T19:17:44Z	
+3.5.11	named	com.lucidworks.spark	spark-solr	2019-01-29T21:35:35Z	
+2.10.7	named	com.whirvis	jraknet	2019-01-31T01:21:02Z	
+3.5.12	named	com.lucidworks.spark	spark-solr	2019-02-05T06:14:15Z	
+3.0.0-rc.2	named	org.graylog2	graylog2-server	2019-02-05T17:04:11Z	
+0.89.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-02-08T20:39:45Z	
+0.89.0	named	org.finra.herd	herd-spark-data-source	2019-02-08T20:41:28Z	
+0.89.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-02-08T20:41:34Z	
+3.0.0	named	org.graylog2	graylog2-server	2019-02-11T13:38:09Z	
+3.5.13	named	com.lucidworks.spark	spark-solr	2019-02-11T19:44:32Z	
+3.5.14	named	com.lucidworks.spark	spark-solr	2019-02-14T22:13:39Z	
+0.4.3	named	org.dataconservancy.pass	pass-authz-core	2019-02-25T17:45:53Z	
+0.90.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-02-26T16:19:03Z	
+0.90.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-02-26T16:21:39Z	
+0.90.0	named	org.finra.herd	herd-spark-data-source	2019-02-26T16:23:28Z	
+3.6.1	named	com.lucidworks.spark	spark-solr	2019-03-07T18:58:05Z	
+0.91.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-03-08T22:00:49Z	
+0.91.0	named	org.finra.herd	herd-spark-data-source	2019-03-08T22:00:59Z	
+0.91.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-03-08T22:02:12Z	
+3.6.2	named	com.lucidworks.spark	spark-solr	2019-03-20T23:41:29Z	
+3.5.15	named	com.lucidworks.spark	spark-solr	2019-03-22T14:21:13Z	
+0.92.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-03-25T17:20:45Z	
+0.92.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-03-25T17:23:03Z	
+0.92.0	named	org.finra.herd	herd-spark-data-source	2019-03-25T17:26:16Z	
+3.0.1	named	org.graylog2	graylog2-server	2019-04-01T16:12:38Z	
+2.11.0	named	com.whirvis	jraknet	2019-04-01T17:36:00Z	
+2.11.1	named	com.whirvis	jraknet	2019-04-01T18:28:07Z	
+3.5.16	named	com.lucidworks.spark	spark-solr	2019-04-01T23:35:30Z	
+3.6.3	named	com.lucidworks.spark	spark-solr	2019-04-02T00:57:27Z	
+0.93.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-04-05T20:13:39Z	
+0.93.0	named	org.finra.herd	herd-spark-data-source	2019-04-05T20:13:52Z	
+0.93.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-04-05T20:16:15Z	
+0.94.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-04-19T16:20:27Z	
+0.94.0	named	org.finra.herd	herd-spark-data-catalog	2019-04-19T16:22:01Z	
+0.94.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-04-19T16:22:11Z	
+0.94.0	named	org.finra.herd	herd-spark-data-source	2019-04-19T16:23:49Z	
+1.31.2	named	com.erudika	para-search-elasticsearch	2019-04-29T13:51:39Z	
+1.31.3	named	com.erudika	para-search-elasticsearch	2019-05-01T13:26:53Z	
+1.3.1	named	org.dataconservancy.pass	nihms-data-transform-load-cli	2019-05-01T14:32:52Z	
+1.31.2	named	com.erudika	para-search-elasticsearch-v5	2019-05-01T17:15:35Z	
+3.0.2	named	org.graylog2	graylog2-server	2019-05-03T15:22:52Z	
+3.5.17	named	com.lucidworks.spark	spark-solr	2019-05-07T16:43:06Z	
+0.4.4	named	org.dataconservancy.pass	pass-authz-core	2019-05-08T19:35:08Z	
+3.6.4	named	com.lucidworks.spark	spark-solr	2019-05-15T15:56:54Z	
+0.96.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-05-20T20:24:51Z	
+0.96.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-05-20T20:28:21Z	
+0.96.0	named	org.finra.herd	herd-spark-data-catalog	2019-05-20T20:29:42Z	
+0.96.0	named	org.finra.herd	herd-spark-data-source	2019-05-20T20:31:09Z	
+0.97.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-05-31T19:39:53Z	
+0.97.0	named	org.finra.herd	herd-spark-data-source	2019-05-31T19:41:54Z	
+0.97.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-05-31T19:43:50Z	
+0.97.0	named	org.finra.herd	herd-spark-data-catalog	2019-05-31T19:44:00Z	
+1.31.4	named	com.erudika	para-search-elasticsearch	2019-06-06T10:38:42Z	
+1.31.3	named	com.erudika	para-search-elasticsearch-v5	2019-06-06T10:43:05Z	
+3.5.18	named	com.lucidworks.spark	spark-solr	2019-06-12T16:27:32Z	
+0.4.5	named	org.dataconservancy.pass	pass-authz-core	2019-06-14T20:12:44Z	
+0.98.0	named	org.finra.herd	herd-spark-data-source	2019-06-17T16:53:34Z	
+0.98.0	named	org.finra.herd	herd-spark-data-catalog	2019-06-17T16:53:44Z	
+0.98.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-06-17T16:53:50Z	
+0.98.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-06-17T16:56:47Z	
+3.6.5	named	com.lucidworks.spark	spark-solr	2019-06-20T00:51:11Z	
+0.99.0	named	org.finra.herd	herd-spark-data-catalog	2019-06-27T18:37:20Z	
+0.99.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-06-27T18:37:33Z	
+0.99.0	named	org.finra.herd	herd-spark-data-source	2019-06-27T18:40:02Z	
+0.99.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-06-27T18:42:24Z	
+1.32.0	named	com.erudika	para-search-elasticsearch	2019-06-27T22:03:25Z	
+1.32.0	named	com.erudika	para-search-elasticsearch-v5	2019-06-27T23:06:18Z	
+0.100.0	named	org.finra.herd	herd-spark-data-source	2019-07-11T21:04:05Z	
+0.100.0	named	org.finra.herd	herd-spark-2.1-data-source	2019-07-11T21:04:14Z	
+0.100.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-07-11T21:06:50Z	
+0.100.0	named	org.finra.herd	herd-spark-data-catalog	2019-07-11T21:07:05Z	
+3.1.0-beta.2	named	org.graylog2	graylog2-server	2019-07-18T17:47:59Z	
+3.1.0-beta.3	named	org.graylog2	graylog2-server	2019-07-26T15:49:58Z	
+2.11.5	named	com.whirvis	jraknet	2019-08-02T01:59:25Z	
+3.1.0-rc.1	named	org.graylog2	graylog2-server	2019-08-02T18:30:58Z	
+1.4.0	named	org.dataconservancy.pass	nihms-data-transform-load-cli	2019-08-05T12:38:34Z	
+2.11.6	named	com.whirvis	jraknet	2019-08-08T02:20:07Z	2.12.0
+3.1.0-rc.2	named	org.graylog2	graylog2-server	2019-08-09T16:08:47Z	
+0.102.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-08-12T19:47:45Z	
+0.102.0	named	org.finra.herd	herd-spark-data-source	2019-08-12T19:52:04Z	
+0.102.0	named	org.finra.herd	herd-spark-data-catalog	2019-08-12T19:52:20Z	
+0.101.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-08-12T21:20:09Z	
+0.101.0	named	org.finra.herd	herd-spark-data-source	2019-08-12T21:20:20Z	
+0.101.0	named	org.finra.herd	herd-spark-data-catalog	2019-08-12T21:22:29Z	
+3.1.0	named	org.graylog2	graylog2-server	2019-08-15T14:57:49Z	
+2.11.7	named	com.whirvis	jraknet	2019-08-15T20:32:05Z	2.12.0
+2.11.8	named	com.whirvis	jraknet	2019-08-15T21:51:06Z	2.12.0
+0.103.0	named	org.finra.herd	herd-spark-data-catalog	2019-08-23T23:39:48Z	
+0.103.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-08-23T23:40:59Z	
+0.103.0	named	org.finra.herd	herd-spark-data-source	2019-08-23T23:46:22Z	
+3.6.6	named	com.lucidworks.spark	spark-solr	2019-08-26T11:32:55Z	
+0.5.0	named	org.dataconservancy.pass	pass-authz-core	2019-08-27T15:20:31Z	
+3.1.1	named	org.graylog2	graylog2-server	2019-09-03T17:12:07Z	
+1.33.0	named	com.erudika	para-search-elasticsearch	2019-09-04T19:20:46Z	2.12.1
+3.1.2	named	org.graylog2	graylog2-server	2019-09-14T09:34:42Z	
+0.104.0	named	org.finra.herd	herd-spark-data-source	2019-09-24T17:46:39Z	
+0.104.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-09-24T17:46:46Z	
+0.104.0	named	org.finra.herd	herd-spark-data-catalog	2019-09-24T17:47:10Z	
+1.3.9	named	org.openimaj	core-video-capture	2019-09-29T18:23:34Z	
+1.3.9	named	org.openimaj.tools	SequenceFileTool	2019-09-29T18:37:37Z	
+1.33.0	named	com.erudika	para-search-elasticsearch-v5	2019-10-01T14:29:40Z	
+1.34.0	named	com.erudika	para-search-elasticsearch	2019-10-01T14:35:59Z	2.12.1
+0.106.0	named	org.finra.herd	herd-spark-data-catalog	2019-10-07T21:32:40Z	
+0.106.0	named	org.finra.herd	herd-spark-data-source	2019-10-07T21:33:01Z	
+0.106.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-10-07T21:36:51Z	
+0.107.0	named	org.finra.herd	herd-spark-data-catalog	2019-10-16T21:00:48Z	
+0.107.0	named	org.finra.herd	herd-spark-data-source	2019-10-16T21:00:58Z	
+0.107.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-10-16T21:01:05Z	
+0.108.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-11-01T15:35:56Z	
+0.108.0	named	org.finra.herd	herd-spark-data-catalog	2019-11-01T15:36:12Z	
+0.108.0	named	org.finra.herd	herd-spark-data-source	2019-11-01T15:36:22Z	
+3.1.3	named	org.graylog2	graylog2-server	2019-11-06T11:43:36Z	
+0.2.0	named	org.apache.pinot	pinot-common	2019-11-11T22:19:22Z	
+2.12.0	named	com.whirvis	jraknet	2019-11-12T01:10:17Z	2.12.0
+3.5.19	named	com.lucidworks.spark	spark-solr	2019-11-19T18:49:27Z	
+3.7.0	named	com.lucidworks.spark	spark-solr	2019-11-19T21:10:33Z	
+0.109.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-11-20T20:22:36Z	
+0.109.0	named	org.finra.herd	herd-spark-data-catalog	2019-11-20T20:25:51Z	
+0.109.0	named	org.finra.herd	herd-spark-data-source	2019-11-20T20:26:30Z	
+0.110.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-12-06T21:05:00Z	
+0.110.0	named	org.finra.herd	herd-spark-data-source	2019-12-06T21:06:45Z	
+0.110.0	named	org.finra.herd	herd-spark-data-catalog	2019-12-06T21:08:39Z	
+0.111.0	named	org.finra.herd	herd-spark-data-catalog	2019-12-18T03:57:55Z	
+0.111.0	named	org.finra.herd	herd-spark-data-source	2019-12-18T04:00:48Z	
+0.111.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-12-18T04:01:27Z	
+0.112.0	named	org.finra.herd	herd-spark-data-catalog	2019-12-27T21:16:05Z	
+0.112.0	named	org.finra.herd	herd-spark-2.2-data-source	2019-12-27T21:21:09Z	
+0.112.0	named	org.finra.herd	herd-spark-data-source	2019-12-27T21:21:16Z	
+3.1.4	named	org.graylog2	graylog2-server	2020-01-14T15:08:03Z	
+1.34.1	named	com.erudika	para-search-elasticsearch	2020-01-25T14:02:24Z	2.12.1
+1.34.0	named	com.erudika	para-search-elasticsearch-v5	2020-01-25T14:08:07Z	
+3.2.0	named	org.graylog2	graylog2-server	2020-01-31T14:26:34Z	
+3.7.1	named	com.lucidworks.spark	spark-solr	2020-02-03T18:12:21Z	
+3.2.1	named	org.graylog2	graylog2-server	2020-02-04T17:54:58Z	
+3.7.2	named	com.lucidworks.spark	spark-solr	2020-02-07T18:15:25Z	
+1.3.10	named	org.openimaj.tools	SequenceFileTool	2020-02-09T15:07:02Z	
+1.3.10	named	org.openimaj	core-video-capture	2020-02-09T15:11:02Z	
+3.7.3	named	com.lucidworks.spark	spark-solr	2020-02-11T21:30:19Z	
+3.2.2	named	org.graylog2	graylog2-server	2020-02-20T18:34:38Z	
+2.12.2	named	com.whirvis	jraknet	2020-02-23T20:11:39Z	2.12.0
+3.2.3	named	org.graylog2	graylog2-server	2020-03-11T22:16:45Z	
+0.3.0	named	org.apache.pinot	pinot-common	2020-03-16T06:48:12Z	
+0.3.0	named	org.apache.pinot	pinot-hadoop	2020-03-16T07:41:45Z	
+0.3.0	named	org.apache.pinot	pinot-spark	2020-03-16T07:44:51Z	
+0.3.0	named	org.apache.pinot	pinot-distribution	2020-03-16T07:48:37Z	
+3.2.4	named	org.graylog2	graylog2-server	2020-03-19T18:11:42Z	
+3.7.6	named	com.lucidworks.spark	spark-solr	2020-04-30T14:33:42Z	
+0.1.1	named	org.opennms.nephron	flink-runner	2020-05-01T21:12:39Z	2.13.1
+5.1.0	named	com.urbanairship	java-client	2020-05-08T23:17:43Z	2.13.2
+3.2.5	named	org.graylog2	graylog2-server	2020-05-19T15:50:47Z	
+3.8.0	named	com.lucidworks.spark	spark-solr	2020-05-20T18:36:10Z	
+1.34.1	named	com.erudika	para-search-elasticsearch-v5	2020-05-31T09:18:17Z	
+0.4.0	named	org.apache.pinot	pinot-common	2020-06-02T04:42:33Z	
+0.4.0	named	org.apache.pinot	pinot-s3	2020-06-02T05:15:56Z	
+0.4.0	named	org.apache.pinot	pinot-hadoop	2020-06-02T05:20:41Z	
+0.4.0	named	org.apache.pinot	pinot-spark	2020-06-02T05:23:33Z	
+0.4.0	named	org.apache.pinot	pinot-distribution	2020-06-02T06:05:43Z	
+5.1.1	named	com.urbanairship	java-client	2020-06-11T22:10:04Z	2.13.2
+0.5.0	named	org.apache.pinot	pinot-common	2020-09-03T01:14:22Z	
+0.5.0	named	org.apache.pinot	pinot-s3	2020-09-03T01:27:48Z	
+0.5.0	named	org.apache.pinot	pinot-hadoop	2020-09-03T01:31:34Z	
+0.5.0	named	org.apache.pinot	pinot-spark	2020-09-03T01:33:36Z	
+0.5.0	named	org.apache.pinot	pinot-distribution	2020-09-03T01:44:19Z	
+6.0.0	named	com.urbanairship	java-client	2020-09-10T23:03:00Z	2.13.2
+6.4.0-1	named	com.github.harbby	es-client	2020-09-17T06:10:35Z	
+6.1.0	named	com.urbanairship	java-client	2020-10-09T20:35:59Z	2.13.2
+1.35.0	named	com.erudika	para-search-elasticsearch	2020-10-28T16:25:39Z	2.13.3
+1.35.0	named	com.erudika	para-search-elasticsearch-v5	2020-10-28T16:43:08Z	2.13.3
+2.5.1	named	es.bsc.dataclay	dataclay	2020-11-05T20:42:27Z	2.13.3
+0.6.0	named	org.apache.pinot	pinot-common	2020-11-05T22:03:26Z	
+0.6.0	named	org.apache.pinot	pinot-s3	2020-11-05T22:17:14Z	
+0.6.0	named	org.apache.pinot	pinot-hadoop	2020-11-05T22:21:33Z	
+0.6.0	named	org.apache.pinot	pinot-spark	2020-11-05T22:25:23Z	
+0.6.0	named	org.apache.pinot	pinot-distribution	2020-11-05T22:40:36Z	
+1.36.0	named	com.erudika	para-search-elasticsearch-v5	2020-11-27T17:35:44Z	2.13.3
+1.36.0	named	com.erudika	para-search-elasticsearch	2020-11-28T20:38:38Z	2.13.3
+2.12.3	named	com.whirvis	jraknet	2020-11-29T22:35:49Z	2.12.0
+1.1.4	named	io.daos	daos-java	2021-01-25T02:24:52Z	2.13.3
+1.36.1	named	com.erudika	para-search-elasticsearch	2021-02-27T13:19:25Z	2.13.3
+0.7.0	named	org.apache.pinot	pinot-common	2021-03-10T17:36:39Z	
+0.7.0	named	org.apache.pinot	pinot-s3	2021-03-10T19:02:44Z	
+0.7.0	named	org.apache.pinot	pinot-hadoop	2021-03-10T19:23:31Z	
+0.7.0	named	org.apache.pinot	pinot-spark	2021-03-10T19:47:29Z	
+0.7.0	named	org.apache.pinot	pinot-distribution	2021-03-10T21:34:04Z	
+6.2.0	named	com.urbanairship	java-client	2021-04-02T17:02:33Z	2.13.2
+0.7.1	named	org.apache.pinot	pinot-common	2021-04-07T18:01:51Z	
+0.7.1	named	org.apache.pinot	pinot-s3	2021-04-07T18:33:36Z	
+0.7.1	named	org.apache.pinot	pinot-hadoop	2021-04-07T18:42:15Z	
+0.7.1	named	org.apache.pinot	pinot-spark	2021-04-07T18:52:56Z	
+0.7.1	named	org.apache.pinot	pinot-distribution	2021-04-07T19:39:34Z	
+1.4.1	named	org.dataconservancy.pass	nihms-data-transform-load-cli	2021-04-15T17:11:45Z	2.14.1
+6.3.0	named	com.urbanairship	java-client	2021-04-16T18:00:13Z	2.13.2
+1.2.1	named	io.daos	daos-java	2021-05-06T08:50:47Z	2.13.3
+1.2.1	named	io.daos	hadoop-daos	2021-05-06T09:03:18Z	2.13.3
+0.2.0	named	org.opennms.nephron	flink-runner	2021-05-12T17:55:49Z	2.13.3
+0.2.1	named	org.opennms.nephron	flink-runner	2021-05-12T18:12:24Z	2.13.3
+3.9.0	named	com.lucidworks.spark	spark-solr	2021-05-13T17:23:32Z	2.13.2
+2.6.1	named	es.bsc.dataclay	dataclay	2021-06-29T10:20:38Z	2.13.3
+6.4.0	named	com.urbanairship	java-client	2021-07-09T14:59:12Z	2.13.2
+0.8.0	named	org.apache.pinot	pinot-yammer	2021-08-10T20:10:45Z	
+0.8.0	named	org.apache.pinot	pinot-common	2021-08-10T20:11:49Z	
+0.8.0	named	org.apache.pinot	pinot-s3	2021-08-10T20:24:00Z	
+0.8.0	named	org.apache.pinot	pinot-hadoop	2021-08-10T20:26:43Z	
+0.8.0	named	org.apache.pinot	pinot-spark	2021-08-10T20:28:06Z	
+0.8.0	named	org.apache.pinot	pinot-pulsar	2021-08-10T20:30:40Z	
+0.8.0	named	org.apache.pinot	pinot-azure	2021-08-10T20:32:22Z	
+0.8.0	named	org.apache.pinot	pinot-distribution	2021-08-10T20:36:37Z	
+6.4.1	named	com.urbanairship	java-client	2021-08-16T19:35:42Z	2.13.2
+3.10.0	named	com.lucidworks.spark	spark-solr	2021-09-13T13:59:37Z	2.13.2
+4.0.0	named	com.lucidworks.spark	spark-solr	2021-09-13T19:38:20Z	2.13.2
+6.4.2	named	com.urbanairship	java-client	2021-09-29T17:31:26Z	2.13.2
+1.37.0	named	com.erudika	para-search-elasticsearch	2021-10-07T16:02:56Z	2.13.3
+0.3.0	named	org.opennms.nephron	flink-runner	2021-10-22T20:16:31Z	2.13.3
+0.9.0	named	org.apache.pinot	pinot-yammer	2021-11-12T09:16:23Z	
+0.9.0	named	org.apache.pinot	pinot-s3	2021-11-12T09:31:14Z	
+0.9.0	named	org.apache.pinot	pinot-hadoop	2021-11-12T09:34:50Z	
+0.9.0	named	org.apache.pinot	pinot-spark	2021-11-12T09:37:01Z	
+0.9.0	named	org.apache.pinot	pinot-pulsar	2021-11-12T09:41:15Z	
+0.9.0	named	org.apache.pinot	pinot-dropwizard	2021-11-12T09:42:57Z	
+0.9.0	named	org.apache.pinot	pinot-azure	2021-11-12T09:44:19Z	
+0.9.0	named	org.apache.pinot	pinot-distribution	2021-11-12T09:55:30Z	
+0.9.1	named	org.apache.pinot	pinot-yammer	2021-12-12T04:27:19Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-s3	2021-12-12T04:41:38Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-hadoop	2021-12-12T04:44:45Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-spark	2021-12-12T04:47:06Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-pulsar	2021-12-12T04:51:51Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-dropwizard	2021-12-12T04:53:33Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-azure	2021-12-12T04:54:55Z	2.15.0
+0.9.1	named	org.apache.pinot	pinot-distribution	2021-12-12T05:08:21Z	2.15.0
+4.0.1	named	com.lucidworks.spark	spark-solr	2021-12-13T21:31:03Z	2.15.0
+3.8.1	named	com.lucidworks.spark	spark-solr	2021-12-13T22:03:44Z	2.15.0
+1.26.1	named	com.google.cloud.bigtable	bigtable-beam-import	2021-12-14T22:56:26Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-yammer	2021-12-15T04:03:54Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-s3	2021-12-15T04:17:40Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-hadoop	2021-12-15T04:20:39Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-spark	2021-12-15T04:22:44Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-pulsar	2021-12-15T04:27:09Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-dropwizard	2021-12-15T04:28:55Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-azure	2021-12-15T04:30:17Z	2.16.0
+0.9.2	named	org.apache.pinot	pinot-distribution	2021-12-15T04:41:49Z	2.16.0
+4.0.2	named	com.lucidworks.spark	spark-solr	2021-12-16T02:25:42Z	2.16.0
+3.8.2	named	com.lucidworks.spark	spark-solr	2021-12-16T03:13:53Z	2.16.0
+0.3.1	named	org.opennms.nephron	flink-runner	2021-12-21T18:59:59Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-yammer	2021-12-24T07:37:43Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-s3	2021-12-24T07:57:46Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-hadoop	2021-12-24T08:02:14Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-spark	2021-12-24T08:04:52Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-pulsar	2021-12-24T08:11:24Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-dropwizard	2021-12-24T08:13:55Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-azure	2021-12-24T08:16:52Z	2.17.0
+0.9.3	named	org.apache.pinot	pinot-distribution	2021-12-24T08:32:48Z	2.17.0
+1.26.2	named	com.google.cloud.bigtable	bigtable-beam-import	2022-01-05T21:25:37Z	2.17.1
+1.26.3	named	com.google.cloud.bigtable	bigtable-beam-import	2022-01-19T17:47:25Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-yammer	2022-03-18T23:23:33Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-common	2022-03-18T23:24:47Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-s3	2022-03-18T23:37:54Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-hadoop	2022-03-18T23:40:51Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-spark	2022-03-18T23:42:14Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-pulsar	2022-03-18T23:45:05Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-dropwizard	2022-03-18T23:46:07Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-azure	2022-03-18T23:47:17Z	2.17.1
+0.10.0	named	org.apache.pinot	pinot-distribution	2022-03-18T23:53:15Z	2.17.1
+2.7	named	es.bsc.dataclay	dataclay	2022-06-28T10:33:31Z	2.17.1
+1.27.0	named	com.google.cloud.bigtable	bigtable-beam-import	2022-07-11T14:47:49Z	2.17.1
+1.27.1	named	com.google.cloud.bigtable	bigtable-beam-import	2022-08-01T18:55:40Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-yammer	2022-09-04T14:52:47Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-common	2022-09-04T14:54:32Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-jdbc-client	2022-09-04T15:03:52Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-s3	2022-09-04T15:09:11Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-hadoop	2022-09-04T15:13:09Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-spark	2022-09-04T15:14:29Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-dropwizard	2022-09-04T15:18:10Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-azure	2022-09-04T15:19:29Z	2.17.1
+0.11.0	named	org.apache.pinot	pinot-spark-connector	2022-09-04T15:27:16Z	2.17.1
+1.28.0	named	com.google.cloud.bigtable	bigtable-beam-import	2022-11-30T16:24:14Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-yammer	2022-12-29T03:12:05Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-common	2022-12-29T03:14:01Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-jdbc-client	2022-12-29T03:25:56Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-s3	2022-12-29T03:34:58Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-hadoop	2022-12-29T03:39:39Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-spark	2022-12-29T03:42:00Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-dropwizard	2022-12-29T03:48:43Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-azure	2022-12-29T03:50:18Z	2.17.1
+0.12.0	named	org.apache.pinot	pinot-spark-connector	2022-12-29T04:05:14Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-yammer	2023-02-28T05:11:13Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-common	2023-02-28T05:12:55Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-jdbc-client	2023-02-28T05:23:29Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-s3	2023-02-28T05:31:58Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-hadoop	2023-02-28T05:35:53Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-spark	2023-02-28T05:37:40Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-dropwizard	2023-02-28T05:43:32Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-azure	2023-02-28T05:44:51Z	2.17.1
+0.12.1	named	org.apache.pinot	pinot-spark-connector	2023-02-28T05:58:43Z	2.17.1
+1.29.0	named	com.google.cloud.bigtable	bigtable-beam-import	2023-03-21T21:21:44Z	2.17.1
+1.29.1	named	com.google.cloud.bigtable	bigtable-beam-import	2023-03-24T19:22:33Z	2.17.1
+1.29.2	named	com.google.cloud.bigtable	bigtable-beam-import	2023-03-27T16:10:39Z	2.17.1
+4.0.3	named	com.lucidworks.spark	spark-solr	2023-05-08T14:32:18Z	2.16.0
+1.0.0	named	org.apache.pinot	pinot-yammer	2023-09-12T08:26:12Z	2.17.1
+1.0.0	named	org.apache.pinot	pinot-clp-log	2023-09-12T08:44:15Z	2.17.1
+1.0.0	named	org.apache.pinot	pinot-s3	2023-09-12T08:51:54Z	2.17.1
+1.0.0	named	org.apache.pinot	pinot-dropwizard	2023-09-12T08:58:39Z	2.17.1
+1.0.0	named	org.apache.pinot	pinot-azure	2023-09-12T09:00:11Z	2.17.1

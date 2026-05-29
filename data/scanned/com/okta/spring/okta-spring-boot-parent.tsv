@@ -1,0 +1,4 @@
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/okta/spring/okta-spring-boot-parent/3.0.10/okta-spring-boot-parent-3.0.10.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/okta/spring/okta-spring-boot-parent/3.0.8/okta-spring-boot-parent-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/okta/spring/okta-spring-boot-parent/3.0.9/okta-spring-boot-parent-3.0.9.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/okta/spring/okta-spring-boot-parent/3.1.0/okta-spring-boot-parent-3.1.0.jar returned status 404

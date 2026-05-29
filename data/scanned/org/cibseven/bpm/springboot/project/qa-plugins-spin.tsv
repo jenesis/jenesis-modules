@@ -1,0 +1,4 @@
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/bpm/springboot/project/qa-plugins-spin/1.1.0/qa-plugins-spin-1.1.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/bpm/springboot/project/qa-plugins-spin/2.0.0/qa-plugins-spin-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/bpm/springboot/project/qa-plugins-spin/2.1.0/qa-plugins-spin-2.1.0.jar returned status 404
+2.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/bpm/springboot/project/qa-plugins-spin/2.1.0-alpha/qa-plugins-spin-2.1.0-alpha.jar returned status 404

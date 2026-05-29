@@ -1,0 +1,13 @@
+1.0.0	named	org.apache.pinot	pinot-perf	2023-09-12T09:06:39Z	2.2.0
+1.0.0	named	org.apache.pinot	pinot-distribution	2023-09-12T09:08:31Z	2.2.0
+1.0.0	named	org.apache.pinot	pinot-spark-2-connector	2023-09-12T09:11:51Z	2.2.0
+1.0.0	named	org.apache.pinot	pinot-spark-3-connector	2023-09-12T09:14:01Z	2.2.0
+1.0.0-hotfix	named	org.apache.pinot	pinot-jdbc-client	2023-09-17T04:33:47Z	2.2.0
+1.1.0	named	org.apache.pinot	pinot-perf	2024-03-06T19:15:13Z	2.2.0
+1.1.0	named	org.apache.pinot	pinot-distribution	2024-03-06T19:16:50Z	2.2.0
+1.1.0	named	org.apache.pinot	pinot-spark-2-connector	2024-03-06T19:19:37Z	2.2.0
+1.1.0	named	org.apache.pinot	pinot-spark-3-connector	2024-03-06T19:21:21Z	2.2.0
+1.3.0	named	org.apache.pinot	pinot-distribution	2025-02-02T02:48:38Z	3.0.2
+4.1.0	named	io.github.pl-buiquang	spark-solr	2025-07-29T12:21:01Z	2.1.0
+1.4.0	named	org.apache.pinot	pinot-perf	2025-09-11T18:36:19Z	3.0.2
+1.5.0	named	org.apache.pinot	pinot-perf	2026-04-09T22:28:00Z	3.0.2

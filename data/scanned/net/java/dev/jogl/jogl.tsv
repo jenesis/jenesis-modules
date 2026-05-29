@@ -1,0 +1,2 @@
+${parent.version}			IllegalArgumentException: Illegal character in path at index 24: net/java/dev/jogl/jogl/${parent.version}/jogl-${parent.version}.jar
+1.1.1-rc6		2010-05-20T08:43:02Z	

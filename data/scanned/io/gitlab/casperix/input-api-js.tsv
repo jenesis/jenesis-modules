@@ -1,0 +1,6 @@
+1.5.0		2022-12-25T10:32:14Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/input-api-js/1.6.0/input-api-js-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/input-api-js/1.7.0/input-api-js-1.7.0.jar returned status 404
+1.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/input-api-js/1.7.8/input-api-js-1.7.8.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/input-api-js/1.8.0/input-api-js-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/input-api-js/1.8.1/input-api-js-1.8.1.jar returned status 404

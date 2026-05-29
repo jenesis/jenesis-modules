@@ -1,0 +1,4 @@
+1.0.1		2024-12-03T09:35:47Z	
+1.0.2		2024-12-04T07:46:20Z	
+1.0.3		2024-12-04T07:47:16Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mikeiansky/mikeiansky-utils/1.0.6/mikeiansky-utils-1.0.6.jar returned status 404

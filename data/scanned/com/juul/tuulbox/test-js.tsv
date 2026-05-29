@@ -1,0 +1,35 @@
+3.0.0		2020-12-15T18:49:08Z	
+3.1.0		2021-01-29T22:20:51Z	
+3.1.1		2021-03-11T00:16:47Z	
+3.2.0		2021-03-16T17:52:42Z	
+4.0.0		2021-04-20T19:09:55Z	
+4.0.1		2021-04-22T06:49:15Z	
+4.1.0		2021-05-03T20:47:16Z	
+4.2.0		2021-06-30T19:25:40Z	
+4.3.0		2021-08-20T18:14:25Z	
+4.4.0		2021-09-07T23:20:38Z	
+4.5.0		2021-09-17T19:59:22Z	
+4.5.2		2021-09-20T20:02:23Z	
+4.6.0		2021-09-30T00:07:28Z	
+4.7.0		2021-10-11T06:23:23Z	
+4.8.0		2021-10-20T19:45:40Z	
+5.0.0		2021-12-20T20:15:38Z	
+5.1.0		2022-01-13T07:20:12Z	
+6.0.0		2022-02-25T20:05:56Z	
+6.0.1		2022-03-11T00:14:47Z	
+6.1.0		2022-03-15T23:14:58Z	
+6.2.0		2022-03-29T19:43:14Z	
+6.2.1		2022-07-05T18:58:49Z	
+6.3.0		2022-07-12T21:02:19Z	
+6.4.0		2022-11-15T18:50:43Z	
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/6.4.1/test-js-6.4.1.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/6.5.0/test-js-6.5.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/7.0.0/test-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/7.0.1/test-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/7.1.0/test-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/7.2.0/test-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/7.3.0/test-js-7.3.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/8.0.0/test-js-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/8.0.1/test-js-8.0.1.jar returned status 404
+8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/8.0.3/test-js-8.0.3.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/test-js/8.1.0/test-js-8.1.0.jar returned status 404

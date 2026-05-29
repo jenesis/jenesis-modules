@@ -1,0 +1,20 @@
+0.1.0		2025-10-28T08:01:11Z	
+0.10.0		2025-11-30T22:25:03Z	
+0.10.1		2025-12-13T18:52:09Z	
+0.10.2		2025-12-15T10:34:03Z	
+0.2.0		2025-10-29T07:37:57Z	
+0.3.0		2025-10-30T07:19:15Z	
+0.4.0		2025-10-31T15:01:48Z	
+0.5.0		2025-11-01T09:43:31Z	
+0.5.1		2025-11-01T18:56:22Z	
+0.6.0		2025-11-02T13:10:50Z	
+0.7.0		2025-11-16T20:44:05Z	
+0.8.0		2025-11-19T21:01:25Z	
+0.8.1		2025-11-21T21:10:17Z	
+0.9.0		2025-11-23T21:49:22Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.0.0/playfair-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.1.0/playfair-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.2.0/playfair-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.2.1/playfair-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.2.2/playfair-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schegge/playfair/1.2.3/playfair-1.2.3.jar returned status 404

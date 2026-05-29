@@ -1,0 +1,10 @@
+4.3.1		2020-01-14T04:17:04Z	
+5.0.0		2020-01-22T17:00:41Z	
+5.0.1		2020-03-23T20:06:48Z	
+5.1.0		2020-06-01T20:55:18Z	
+5.1.1		2020-06-17T12:28:51Z	
+5.1.2		2020-07-21T17:43:44Z	
+5.2.0		2020-10-15T15:07:40Z	
+5.3.0		2021-02-22T19:08:57Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/aQute/bnd/workspace/biz.aQute.bnd.workspace.gradle.plugin/6.0.0/biz.aQute.bnd.workspace.gradle.plugin-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/aQute/bnd/workspace/biz.aQute.bnd.workspace.gradle.plugin/6.1.0/biz.aQute.bnd.workspace.gradle.plugin-6.1.0.jar returned status 404

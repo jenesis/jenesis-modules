@@ -1,0 +1,4 @@
+23.1.1-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/comp/geoair-apidoc/23.1.1-M1/geoair-apidoc-23.1.1-M1.jar returned status 404
+23.1.2-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/comp/geoair-apidoc/23.1.2-M1/geoair-apidoc-23.1.2-M1.jar returned status 404
+23.1.2-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/comp/geoair-apidoc/23.1.2-M2/geoair-apidoc-23.1.2-M2.jar returned status 404
+23.1.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/comp/geoair-apidoc/23.1.2-RC2/geoair-apidoc-23.1.2-RC2.jar returned status 404

@@ -1,0 +1,9 @@
+12.12.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/12.12.12/archetypes-12.12.12.jar returned status 404
+12.12.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/12.12.13/archetypes-12.12.13.jar returned status 404
+12.12.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/12.12.14/archetypes-12.12.14.jar returned status 404
+3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/3.5.7/archetypes-3.5.7.jar returned status 404
+3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/3.6.2/archetypes-3.6.2.jar returned status 404
+9.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/9.9.10/archetypes-9.9.10.jar returned status 404
+9.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/9.9.11/archetypes-9.9.11.jar returned status 404
+9.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/9.9.12/archetypes-9.9.12.jar returned status 404
+9.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/archetypes/9.9.9/archetypes-9.9.9.jar returned status 404

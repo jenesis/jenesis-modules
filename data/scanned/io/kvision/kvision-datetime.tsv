@@ -1,0 +1,65 @@
+5.15.0		2022-09-12T13:17:39Z	
+5.15.1		2022-09-14T08:41:57Z	
+5.15.2		2022-09-17T06:56:58Z	
+5.15.3		2022-09-21T08:58:28Z	
+5.16.0		2022-10-05T11:53:38Z	
+5.16.1		2022-10-10T09:40:17Z	
+5.16.2		2022-10-23T09:02:12Z	
+5.17.0		2022-11-01T16:10:29Z	
+5.18.0		2022-11-26T07:21:16Z	
+5.18.1		2022-12-01T15:14:26Z	
+5.18.2		2023-03-31T16:19:28Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.0/kvision-datetime-6.0.0.jar returned status 404
+6.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.0-Beta/kvision-datetime-6.0.0-Beta.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.1/kvision-datetime-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.2/kvision-datetime-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.3/kvision-datetime-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.4/kvision-datetime-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.5/kvision-datetime-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.0.6/kvision-datetime-6.0.6.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.1.0/kvision-datetime-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.1.1/kvision-datetime-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.1.2/kvision-datetime-6.1.2.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.2.0/kvision-datetime-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.2.1/kvision-datetime-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.2.2/kvision-datetime-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.2.3/kvision-datetime-6.2.3.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.3.0/kvision-datetime-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.3.1/kvision-datetime-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.3.2/kvision-datetime-6.3.2.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.4.0/kvision-datetime-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.5.0/kvision-datetime-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.5.1/kvision-datetime-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.5.2/kvision-datetime-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-datetime/6.6.0/kvision-datetime-6.6.0.jar returned status 404
+7.0.0		2023-08-16T17:36:37Z	
+7.0.1		2023-09-18T14:32:23Z	
+7.1.0		2023-11-04T21:33:38Z	
+7.2.0		2023-11-23T16:34:54Z	
+7.3.0		2024-01-06T13:55:28Z	
+7.3.1		2024-01-09T12:22:03Z	
+7.4.0		2024-02-13T17:32:55Z	
+7.4.1		2024-02-24T19:27:21Z	
+7.4.2		2024-03-02T14:44:13Z	
+7.4.3		2024-03-17T14:20:19Z	
+7.4.4		2024-04-01T12:37:43Z	
+7.4.5		2024-04-20T08:59:33Z	
+7.5.0		2024-05-25T13:12:17Z	
+7.5.1		2024-05-30T10:04:31Z	
+8.0.0		2024-09-06T18:39:26Z	
+8.0.0-RC		2024-08-06T16:39:00Z	
+8.0.1		2024-10-16T19:43:21Z	
+8.1.0		2024-12-03T15:01:06Z	
+8.1.1		2025-01-18T15:28:37Z	
+8.2.0		2025-02-07T17:37:38Z	
+9.0.0		2025-04-14T13:21:16Z	
+9.0.1		2025-04-19T19:44:25Z	
+9.1.0		2025-05-27T05:02:06Z	
+9.1.1		2025-07-14T15:32:56Z	
+9.2.0		2025-10-28T05:10:39Z	
+9.2.1		2025-10-29T14:49:30Z	
+9.2.2		2025-11-29T16:33:50Z	
+9.3.0		2026-01-06T12:51:51Z	
+9.3.1		2026-02-07T15:27:48Z	
+9.4.0		2026-02-22T15:18:09Z	
+9.5.0		2026-03-28T16:04:28Z	

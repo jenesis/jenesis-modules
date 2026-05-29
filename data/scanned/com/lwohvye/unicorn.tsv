@@ -1,0 +1,50 @@
+4.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lwohvye/unicorn/4.0.0-alpha/unicorn-4.0.0-alpha.jar returned status 404
+4.0.0-alpha	plain	2023-02-14T02:11:59Z	
+4.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lwohvye/unicorn/4.0.0-beta/unicorn-4.0.0-beta.jar returned status 404
+4.0.0-beta	plain	2023-02-25T00:25:47Z	
+4.0.0-delta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lwohvye/unicorn/4.0.0-delta/unicorn-4.0.0-delta.jar returned status 404
+4.0.0-delta	plain	2023-04-05T07:01:41Z	
+4.0.0-epsilon		2023-04-15T11:04:21Z	
+4.0.0-eta		2023-05-19T23:36:24Z	
+4.0.0-gamma			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lwohvye/unicorn/4.0.0-gamma/unicorn-4.0.0-gamma.jar returned status 404
+4.0.0-gamma	plain	2023-03-18T02:42:26Z	
+4.0.0-kappa		2023-06-15T00:53:16Z	
+4.0.0-theta		2023-06-06T03:30:19Z	
+4.0.0-zeta		2023-05-13T10:49:19Z	
+4.0.1-lambda		2023-06-22T00:23:33Z	
+4.0.1-mu		2023-07-07T00:37:09Z	
+4.0.1-nu		2023-08-22T00:08:53Z	
+4.0.2-xi		2023-08-24T14:46:12Z	
+4.1.0-omicron-20-RC1		2023-08-31T23:19:36Z	
+4.2.0-pi		2023-11-30T01:35:14Z	
+4.2.0-pi-Beta		2023-09-11T16:04:09Z	
+4.2.0-pi-RC1		2023-09-21T14:23:00Z	
+4.2.0-pi-RC2		2023-10-20T14:40:03Z	
+4.2.0-pi-RC3		2023-11-03T04:24:34Z	
+4.3.0-rho		2024-02-18T14:34:40Z	
+4.4.0-sigma		2024-06-18T00:04:20Z	
+4.4.0-sigma-Beta		2024-04-03T00:13:38Z	
+4.4.0-sigma-Beta2		2024-05-14T23:34:43Z	
+4.4.0-sigma-RC		2024-05-25T00:27:12Z	
+4.4.0-sigma-RC2		2024-06-06T22:20:50Z	
+4.4.0-sigma-RC3		2024-06-11T23:57:25Z	
+4.5.0-tau		2024-11-07T13:01:38Z	
+4.5.0-tau-Beta		2024-07-22T11:32:27Z	
+4.5.0-tau-Beta2		2024-09-15T00:28:11Z	
+4.5.0-tau-RC		2024-10-22T00:14:27Z	
+4.5.0-tau-RC2		2024-11-01T00:14:05Z	
+4.6.0-upsilon		2025-02-05T11:43:17Z	
+4.6.0-upsilon-Beta		2024-11-28T01:09:09Z	
+4.6.0-upsilon-Beta2		2025-01-12T07:05:05Z	
+4.6.0-upsilon-RC		2025-01-29T00:22:54Z	
+4.7.0-phi		2025-06-27T12:12:07Z	
+4.7.0-phi-Beta		2025-03-16T09:12:02Z	
+4.7.0-phi-Beta2		2025-04-26T01:33:24Z	
+4.7.0-phi-RC		2025-05-29T10:06:43Z	
+4.8.0-chi		2025-12-22T14:49:30Z	
+4.8.0-chi-Beta		2025-08-24T13:51:05Z	
+4.8.0-chi-Beta2		2025-09-19T11:38:50Z	
+4.8.0-chi-RC		2025-11-21T23:56:16Z	
+4.8.0-chi-RC2		2025-12-17T15:58:26Z	
+4.8.1-chi		2026-01-23T14:39:21Z	
+4.8.2-chi		2026-04-04T01:26:23Z	

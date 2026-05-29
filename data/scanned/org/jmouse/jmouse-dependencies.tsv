@@ -1,0 +1,3 @@
+1.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Beta/jmouse-dependencies-1.0.0-Beta.jar returned status 404
+1.0.0-Release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Release/jmouse-dependencies-1.0.0-Release.jar returned status 404
+1.0.0-Release_Fixed			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Release_Fixed/jmouse-dependencies-1.0.0-Release_Fixed.jar returned status 404

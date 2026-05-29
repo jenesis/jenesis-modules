@@ -1,0 +1,14 @@
+4.0.1	automatic	org.eclipse.jetty.toolchain	jetty-servlet-api	2019-02-04T17:11:37Z	
+4.0.2	automatic	org.eclipse.jetty.toolchain	jetty-servlet-api	2019-02-04T21:16:53Z	
+4.0.3	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2019-12-18T16:18:18Z	4.0.3
+5.0.0	named	org.eclipse.jetty.toolchain	jetty-jakarta-servlet-api	2020-05-11T07:49:32Z	5.0.0
+5.0.1	named	org.eclipse.jetty.toolchain	jetty-jakarta-servlet-api	2020-09-01T06:02:23Z	5.0.1
+4.0.4	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2020-09-03T03:51:35Z	4.0.4
+4.0.5	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2020-11-26T17:01:37Z	4.0.5
+4.0.6	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2021-01-26T14:04:29Z	4.0.6
+5.0.2	named	org.eclipse.jetty.toolchain	jetty-jakarta-servlet-api	2021-01-26T14:51:24Z	5.0.2
+1.7.1	named	org.cip4.tools.jdfutility	JDFUtility	2022-01-27T16:21:12Z	4.0.6
+4.0.6	named	ch.reportingsoft.birt	eclipse-jetty-servlet-api	2025-04-11T09:23:12Z	4.0.6
+4.0.7	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-14T18:56:02Z	4.0.7
+4.0.8	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-14T20:18:00Z	4.0.8
+4.0.9	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-19T15:35:55Z	4.0.9

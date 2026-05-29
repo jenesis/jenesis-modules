@@ -1,0 +1,39 @@
+0.0.3		2019-10-24T12:25:23Z	
+0.0.4		2019-10-25T15:56:01Z	
+0.0.5		2019-10-29T14:10:04Z	
+1.0.0		2019-10-31T09:38:40Z	
+1.0.1		2019-11-05T14:26:17Z	
+2.0.0		2020-01-08T17:22:40Z	
+3.1.0		2020-01-15T10:20:59Z	
+4.0.0		2020-01-15T17:46:01Z	
+4.1.0		2020-01-22T20:13:35Z	
+5.0.0		2020-01-23T21:55:55Z	
+6.0.0		2020-01-31T20:47:54Z	
+6.1.0		2020-02-01T22:47:01Z	
+6.1.1		2020-02-03T07:51:35Z	
+7.0.0		2020-02-10T07:38:37Z	
+7.1.0		2020-02-11T13:12:00Z	
+7.2.0		2020-02-14T21:13:18Z	
+7.3.0		2020-02-14T23:35:37Z	
+7.5.0		2020-02-20T23:04:02Z	
+7.5.1		2020-03-10T14:43:51Z	
+7.6.2		2020-06-10T13:07:17Z	
+7.6.4		2020-06-10T21:07:57Z	
+7.6.5		2020-06-12T08:43:13Z	
+7.6.6		2020-06-14T07:49:19Z	
+8.0.0		2020-09-04T19:53:30Z	
+8.0.1		2020-09-04T21:09:35Z	
+8.1.0		2020-10-12T16:12:14Z	
+8.2.1		2020-11-28T20:59:32Z	
+8.2.2		2020-12-02T15:05:48Z	
+8.2.3		2020-12-04T21:58:01Z	
+8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-spring/8.3.0/status-machina-spring-8.3.0.jar returned status 404
+8.3.0	plain	2022-04-21T14:26:28Z	
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-spring/8.3.1/status-machina-spring-8.3.1.jar returned status 404
+8.3.1	plain	2023-06-05T21:06:25Z	
+8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-spring/8.4.0/status-machina-spring-8.4.0.jar returned status 404
+8.4.0	plain	2024-05-10T22:37:16Z	
+8.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-spring/8.4.1/status-machina-spring-8.4.1.jar returned status 404
+8.4.1	plain	2024-09-12T20:47:16Z	
+8.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-spring/8.4.2/status-machina-spring-8.4.2.jar returned status 404
+8.4.2	plain	2024-09-15T15:11:49Z	

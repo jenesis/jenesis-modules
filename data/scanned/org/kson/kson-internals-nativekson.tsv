@@ -1,0 +1,8 @@
+x.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kson/kson-internals-nativekson/x.1/kson-internals-nativekson-x.1.jar returned status 404
+x.1	metadata	2025-09-17T12:05:34Z	
+x.1-test1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kson/kson-internals-nativekson/x.1-test1/kson-internals-nativekson-x.1-test1.jar returned status 404
+x.1-test1	metadata	2025-09-17T07:44:30Z	
+x.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kson/kson-internals-nativekson/x.2/kson-internals-nativekson-x.2.jar returned status 404
+x.2	metadata	2025-09-17T13:57:05Z	
+x.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kson/kson-internals-nativekson/x.3/kson-internals-nativekson-x.3.jar returned status 404
+x.3	metadata	2025-11-25T13:38:53Z	

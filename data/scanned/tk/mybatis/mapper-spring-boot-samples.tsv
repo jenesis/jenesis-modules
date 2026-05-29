@@ -1,0 +1,4 @@
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tk/mybatis/mapper-spring-boot-samples/4.3.1/mapper-spring-boot-samples-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tk/mybatis/mapper-spring-boot-samples/4.3.2/mapper-spring-boot-samples-4.3.2.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tk/mybatis/mapper-spring-boot-samples/5.0.2/mapper-spring-boot-samples-5.0.2.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tk/mybatis/mapper-spring-boot-samples/6.0.0/mapper-spring-boot-samples-6.0.0.jar returned status 404

@@ -1,0 +1,19 @@
+0.0.1		2022-10-06T19:28:01Z	
+0.0.1-alpha26		2022-07-21T06:32:53Z	
+0.0.1-alpha27		2022-07-22T02:42:33Z	
+0.0.1-alpha29		2022-07-24T19:32:26Z	
+0.0.1-alpha30		2022-07-28T01:33:10Z	
+0.0.1-alpha32		2022-07-30T05:48:24Z	
+0.0.1-beta01		2022-08-04T19:58:44Z	
+0.0.1-beta02		2022-08-09T20:05:04Z	
+0.0.1-beta04		2022-08-16T21:00:18Z	
+0.0.1-beta05		2022-08-21T22:38:16Z	
+0.0.1-beta06		2022-08-23T20:03:16Z	
+0.0.1-beta07		2022-09-07T20:34:42Z	
+0.0.1-beta08		2022-10-02T22:17:09Z	
+0.0.2-beta01		2022-11-08T22:11:05Z	
+0.0.2-beta02		2022-12-17T23:45:02Z	
+0.0.2-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/klog-js/0.0.2-beta03/klog-js-0.0.2-beta03.jar returned status 404
+0.0.2-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/klog-js/0.0.2-beta04/klog-js-0.0.2-beta04.jar returned status 404
+0.0.2-beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/klog-js/0.0.2-beta05/klog-js-0.0.2-beta05.jar returned status 404
+0.0.2-beta06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/klog-js/0.0.2-beta06/klog-js-0.0.2-beta06.jar returned status 404

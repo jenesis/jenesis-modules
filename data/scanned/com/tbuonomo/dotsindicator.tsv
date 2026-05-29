@@ -1,0 +1,12 @@
+4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tbuonomo/dotsindicator/4.2/dotsindicator-4.2.jar returned status 404
+4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tbuonomo/dotsindicator/4.3/dotsindicator-4.3.jar returned status 404
+4.3	debug-javadoc	2022-04-30T17:32:53Z	
+4.3	debug-sources	2022-04-30T17:32:55Z	
+4.3	release-javadoc	2022-04-30T17:32:55Z	
+4.3	release-sources	2022-04-30T17:33:00Z	
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tbuonomo/dotsindicator/5.0/dotsindicator-5.0.jar returned status 404
+5.0	debug-javadoc	2023-05-18T15:52:23Z	
+5.0	debug-sources	2023-05-18T15:52:28Z	
+5.0	release-javadoc	2023-05-18T15:52:19Z	
+5.0	release-sources	2023-05-18T15:52:20Z	
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tbuonomo/dotsindicator/5.1.0/dotsindicator-5.1.0.jar returned status 404

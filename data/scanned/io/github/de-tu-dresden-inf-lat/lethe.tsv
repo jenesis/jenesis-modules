@@ -1,0 +1,4 @@
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-tu-dresden-inf-lat/lethe/0.8/lethe-0.8.jar returned status 404
+0.8	test-resources	2026-02-06T12:53:03Z	
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-tu-dresden-inf-lat/lethe/0.8.1/lethe-0.8.1.jar returned status 404
+0.8.1	test-resources	2026-04-15T14:33:38Z	

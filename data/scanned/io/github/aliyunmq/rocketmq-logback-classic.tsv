@@ -1,0 +1,2 @@
+1.0.0			InvalidModuleDescriptorException: Package org.apache.rocketmq.logging.ch.qos.logback.classic.util missing from ModulePackages class file attribute
+1.0.1			InvalidModuleDescriptorException: Package org.apache.rocketmq.logging.ch.qos.logback.classic.util missing from ModulePackages class file attribute

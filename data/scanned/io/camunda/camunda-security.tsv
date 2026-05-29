@@ -1,0 +1,4 @@
+8.8.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-security/8.8.0-alpha6/camunda-security-8.8.0-alpha6.jar returned status 404
+8.8.0-alpha6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-security/8.8.0-alpha6-rc1/camunda-security-8.8.0-alpha6-rc1.jar returned status 404
+8.8.0-alpha6-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-security/8.8.0-alpha6-rc2/camunda-security-8.8.0-alpha6-rc2.jar returned status 404
+8.8.0-alpha6-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-security/8.8.0-alpha6-rc3/camunda-security-8.8.0-alpha6-rc3.jar returned status 404

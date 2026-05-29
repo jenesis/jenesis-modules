@@ -1,0 +1,4 @@
+0.5.0-1.0.0-wasm			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shreyaspatil/generativeai/common-wasm-js/0.5.0-1.0.0-wasm/common-wasm-js-0.5.0-1.0.0-wasm.jar returned status 404
+0.9.0-1.0.0-wasm			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shreyaspatil/generativeai/common-wasm-js/0.9.0-1.0.0-wasm/common-wasm-js-0.9.0-1.0.0-wasm.jar returned status 404
+0.9.0-1.0.1-wasm			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shreyaspatil/generativeai/common-wasm-js/0.9.0-1.0.1-wasm/common-wasm-js-0.9.0-1.0.1-wasm.jar returned status 404
+0.9.0-1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shreyaspatil/generativeai/common-wasm-js/0.9.0-1.1.0/common-wasm-js-0.9.0-1.1.0.jar returned status 404

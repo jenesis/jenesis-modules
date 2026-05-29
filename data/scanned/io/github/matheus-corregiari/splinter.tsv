@@ -1,0 +1,30 @@
+1.10.0		2025-03-11T09:35:04Z	
+1.10.1		2025-05-02T18:35:43Z	
+1.11.0		2025-06-12T20:17:59Z	
+1.12.1		2025-07-17T13:48:54Z	
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.4.0/splinter-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.4.1/splinter-1.4.1.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.5.0/splinter-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.5.1/splinter-1.5.1.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.6.0/splinter-1.6.0.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.6.1/splinter-1.6.1.jar returned status 404
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.6.2/splinter-1.6.2.jar returned status 404
+1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.6.3/splinter-1.6.3.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.7.0/splinter-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.8.0/splinter-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.8.1/splinter-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.8.2/splinter-1.8.2.jar returned status 404
+1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/splinter/1.8.3/splinter-1.8.3.jar returned status 404
+1.9.1		2025-01-28T02:08:26Z	
+2.0.0-rc01		2025-09-08T02:21:46Z	
+2.0.0-rc03		2025-09-19T22:53:12Z	
+2.0.0-rc04		2025-10-24T17:16:36Z	
+2.0.0-rc05		2025-10-28T02:18:02Z	
+2.0.0-rc06		2025-10-29T01:00:09Z	
+2.0.0-rc08		2025-12-13T02:47:41Z	
+2.0.0-rc09		2025-12-17T12:32:18Z	
+2.0.0-rc10		2026-01-30T19:21:11Z	
+2.0.0-rc11		2026-02-06T21:12:51Z	
+2.0.0-rc12		2026-02-24T01:22:43Z	
+2.0.0-rc13		2026-02-24T02:02:48Z	
+2.0.0-rc14		2026-05-08T23:20:21Z	

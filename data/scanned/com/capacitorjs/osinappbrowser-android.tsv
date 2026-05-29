@@ -1,0 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/osinappbrowser-android/1.0.0/osinappbrowser-android-1.0.0.jar returned status 404
+1.1.0-tst			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/osinappbrowser-android/1.1.0-tst/osinappbrowser-android-1.1.0-tst.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/osinappbrowser-android/1.2.0/osinappbrowser-android-1.2.0.jar returned status 404
+1.2.0-dev2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/osinappbrowser-android/1.2.0-dev2/osinappbrowser-android-1.2.0-dev2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/osinappbrowser-android/1.2.1/osinappbrowser-android-1.2.1.jar returned status 404

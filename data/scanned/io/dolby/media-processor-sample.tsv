@@ -1,0 +1,5 @@
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dolby/media-processor-sample/3.10.0/media-processor-sample-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dolby/media-processor-sample/3.10.1/media-processor-sample-3.10.1.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dolby/media-processor-sample/3.11.0/media-processor-sample-3.11.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dolby/media-processor-sample/3.9.0/media-processor-sample-3.9.0.jar returned status 404
+3.9.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dolby/media-processor-sample/3.9.0-beta.1/media-processor-sample-3.9.0-beta.1.jar returned status 404

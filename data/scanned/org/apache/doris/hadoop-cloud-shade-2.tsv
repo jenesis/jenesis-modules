@@ -1,0 +1,5 @@
+1.0.1		2023-06-13T01:54:35Z	
+1.0.2		2023-09-28T07:03:44Z	
+1.0.3		2023-12-30T13:46:17Z	
+1.0.4		2024-02-06T04:17:19Z	
+1.0.5			InvalidModuleDescriptorException: Package com.qcloud.cos.thirdparty.org.bouncycastle.jce.provider missing from ModulePackages class file attribute

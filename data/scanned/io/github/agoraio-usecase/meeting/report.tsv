@@ -1,0 +1,5 @@
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agoraio-usecase/meeting/report/1.1.2/report-1.1.2.jar returned status 404
+1.1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agoraio-usecase/meeting/report/1.1.2.1/report-1.1.2.1.jar returned status 404
+1.1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agoraio-usecase/meeting/report/1.1.2.2/report-1.1.2.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agoraio-usecase/meeting/report/1.1.3/report-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agoraio-usecase/meeting/report/1.1.4/report-1.1.4.jar returned status 404

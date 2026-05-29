@@ -1,0 +1,13 @@
+1.0.4	named	org.jboss.pnc.kafkastore	kafkastore	2021-02-17T22:31:29Z	2.12.1
+0.6.1	named	org.projectnessie	nessie-quarkus	2021-05-25T16:20:00Z	2.12.3
+1.7.0.Final	named	org.kie.kogito	jobs-service-common	2021-06-04T13:43:26Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	jobs-service-infinispan	2021-06-04T13:43:26Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	jobs-service-postgresql	2021-06-04T13:43:27Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	explainability-service-rest	2021-06-04T13:44:01Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	trusty-service-infinispan	2021-06-04T13:44:05Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	trusty-service-redis	2021-06-04T13:44:05Z	2.12.1
+1.7.0.Final	named	org.kie.kogito	jitexecutor-runner	2021-06-04T13:44:12Z	2.12.1
+0.7.0	named	org.projectnessie	nessie-quarkus	2021-06-15T14:06:31Z	2.12.3
+1.0.5	named	org.jboss.pnc.kafkastore	kafkastore	2021-06-30T15:37:15Z	2.12.3
+2.1.0	named	org.jboss.pnc.cleaner	cleaner	2021-07-02T10:49:45Z	2.12.3
+1.0.0	named	org.jboss.pnc	environment-driver	2021-11-17T18:55:02Z	2.12.1

@@ -1,0 +1,20 @@
+1.5.2		2021-09-18T15:55:19Z	
+1.5.2	shaded	2021-09-18T15:55:00Z	
+1.5.3		2022-01-02T19:42:01Z	
+1.5.3	shaded	2022-01-02T19:41:43Z	
+1.5.4		2022-01-10T21:27:22Z	
+1.5.4	shaded	2022-01-10T21:27:23Z	
+1.5.6		2022-05-03T16:52:29Z	
+1.5.6	shaded	2022-05-03T16:51:19Z	
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/3.6.0/cql-ls-3.6.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/3.7.0/cql-ls-3.7.0.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/3.8.0/cql-ls-3.8.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.0.0/cql-ls-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.1.0/cql-ls-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.1.1/cql-ls-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.1.2/cql-ls-4.1.2.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.2.0/cql-ls-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.3.0/cql-ls-4.3.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.4.1/cql-ls-4.4.1.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.5.0/cql-ls-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/cql/ls/cql-ls/4.6.0/cql-ls-4.6.0.jar returned status 404

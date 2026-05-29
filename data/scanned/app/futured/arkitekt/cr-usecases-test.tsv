@@ -1,0 +1,9 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/5.0.0/cr-usecases-test-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/5.1.0/cr-usecases-test-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/5.2.0/cr-usecases-test-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/5.2.1/cr-usecases-test-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/5.2.2/cr-usecases-test-5.2.2.jar returned status 404
+6.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/6.0.0-beta01/cr-usecases-test-6.0.0-beta01.jar returned status 404
+6.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/6.0.0-beta02/cr-usecases-test-6.0.0-beta02.jar returned status 404
+6.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/6.0.0-beta03/cr-usecases-test-6.0.0-beta03.jar returned status 404
+6.0.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-test/6.0.0-beta04/cr-usecases-test-6.0.0-beta04.jar returned status 404

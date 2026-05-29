@@ -1,0 +1,93 @@
+16.0.1		2020-06-26T14:14:28Z	
+17.0.0		2020-07-16T07:57:39Z	
+18.0.0		2020-08-28T13:00:00Z	
+19.0.0		2020-09-09T05:17:36Z	
+20.0.0		2020-09-10T09:08:17Z	
+21.0.0		2021-02-23T14:03:29Z	
+21.1.0		2021-03-24T08:04:56Z	
+21.2.0		2021-04-08T08:38:08Z	
+21.2.1		2021-04-21T15:07:53Z	
+21.3.0		2021-04-29T15:32:12Z	
+21.4.0		2021-05-05T07:17:45Z	
+21.5.0		2021-05-19T17:34:50Z	
+21.6.0		2021-06-09T16:20:19Z	
+21.6.1		2021-07-05T10:02:43Z	
+21.8.0		2021-10-01T08:10:35Z	
+21.9.0		2021-10-28T12:00:32Z	
+22.0.0		2021-11-17T13:57:47Z	
+22.1.0		2022-01-27T10:26:30Z	
+22.2.0		2022-02-18T13:48:59Z	
+23.0.0		2022-03-23T07:57:57Z	
+23.1.0		2022-04-04T11:53:24Z	
+23.1.1		2022-04-05T11:34:23Z	
+24.0.0		2022-05-23T12:58:00Z	
+24.0.1		2022-05-24T07:35:22Z	
+24.1.1		2022-07-04T08:17:16Z	
+25.0.0		2022-07-28T11:15:51Z	
+26.0.0		2022-08-24T07:05:43Z	
+26.0.1		2022-09-05T08:31:48Z	
+26.0.2		2022-10-06T10:00:33Z	
+27.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+27.0.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+28.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+29.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+29.1.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+29.1.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+29.1.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+29.1.3		2023-02-28T09:35:03Z	
+30.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+30.0.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+30.0.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+30.1.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+30.1.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+31.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.1.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.2.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.3.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.4.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.4.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.4.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.5.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.6.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.6.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.6.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+32.6.3			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.1.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.1.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.1.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.2.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.3.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.3.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.3.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+33.3.3			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.0.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.0.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.1.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.1.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.3			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.4			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.5			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+34.2.6			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.0.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.0.1			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.0.2			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.0.3			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.1.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.2.0			InvalidModuleDescriptorException: Package shadow.ch.qos.logback.classic.spi missing from ModulePackages class file attribute
+35.2.1		2025-06-05T12:17:59Z	
+35.2.2		2025-08-06T15:46:04Z	
+36.0.0		2025-09-16T15:22:59Z	
+36.1.0		2025-10-14T08:57:41Z	
+36.2.0		2025-12-01T19:54:43Z	
+36.3.0		2026-01-30T10:07:39Z	
+36.4.0		2026-02-24T14:50:33Z	
+36.4.1		2026-04-16T05:53:22Z	
+36.5.0		2026-04-27T07:51:00Z	
+36.5.1		2026-04-27T09:00:16Z	
+36.5.2		2026-04-27T13:52:10Z	

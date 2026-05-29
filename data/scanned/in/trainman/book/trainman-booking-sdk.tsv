@@ -1,0 +1,10 @@
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/trainman/book/trainman-booking-sdk/0.0.2/trainman-booking-sdk-0.0.2.jar returned status 404
+1		2023-05-24T17:40:31Z	
+1.0.0		2023-05-24T17:58:08Z	
+2		2023-05-24T18:14:24Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/trainman/book/trainman-booking-sdk/2.0.0/trainman-booking-sdk-2.0.0.jar returned status 404
+testing-1		2023-05-24T17:53:00Z	
+testing-2		2023-05-24T18:23:08Z	
+testing-3		2023-05-25T04:01:55Z	
+testing-4		2023-05-25T05:33:16Z	
+testing-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/trainman/book/trainman-booking-sdk/testing-5/trainman-booking-sdk-testing-5.jar returned status 404

@@ -1,0 +1,9 @@
+1.71		2022-04-06T01:25:36Z	
+1.72		2022-09-28T23:14:47Z	
+1.73		2023-04-12T02:53:04Z	
+1.74		2023-06-15T04:50:16Z	
+1.75		2023-06-21T04:40:27Z	
+1.76		2023-07-31T01:03:26Z	
+1.77		2023-11-15T04:42:55Z	
+1.78		2024-04-06T07:48:12Z	
+1.78.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bouncycastle/bcprov-ext-jdk18on/1.78.1/bcprov-ext-jdk18on-1.78.1.jar returned status 404

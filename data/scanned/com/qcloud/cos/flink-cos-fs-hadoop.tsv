@@ -1,0 +1,2 @@
+1.10.0-0.1.10			InvalidModuleDescriptorException: Package org.apache.flink.fs.coshadoop.shaded.com.qcloud.cos.thirdparty.org.bouncycastle.pqc.jcajce.provider missing from ModulePackages class file attribute
+1.10.0-0.2.3		2025-02-07T07:36:26Z	

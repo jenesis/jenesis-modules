@@ -1,0 +1,4 @@
+0.1.1		2021-06-03T04:40:58Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dellisd/spatialk/geojson-js/0.2.0/geojson-js-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dellisd/spatialk/geojson-js/0.2.1/geojson-js-0.2.1.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dellisd/spatialk/geojson-js/0.3.0/geojson-js-0.3.0.jar returned status 404

@@ -1,0 +1,8 @@
+5.3.1a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/5.3.1a/tls-scanner-5.3.1a.jar returned status 404
+5.3.1b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/5.3.1b/tls-scanner-5.3.1b.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.1.0/tls-scanner-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.1.1/tls-scanner-7.1.1.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.2.0/tls-scanner-7.2.0.jar returned status 404
+7.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.2.2/tls-scanner-7.2.2.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.3.1/tls-scanner-7.3.1.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/scanner/tls-scanner/7.4.0/tls-scanner-7.4.0.jar returned status 404

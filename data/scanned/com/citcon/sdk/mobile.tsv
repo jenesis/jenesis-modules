@@ -1,0 +1,17 @@
+1.0.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/1.0.2-alpha/mobile-1.0.2-alpha.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.4.1/mobile-2.4.1.jar returned status 404
+2.4.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.4.1-alpha/mobile-2.4.1-alpha.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.1/mobile-2.5.1.jar returned status 404
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.2/mobile-2.5.2.jar returned status 404
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.3/mobile-2.5.3.jar returned status 404
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.4/mobile-2.5.4.jar returned status 404
+2.5.4 alpha			IllegalArgumentException: Illegal character in path at index 27: com/citcon/sdk/mobile/2.5.4 alpha/mobile-2.5.4 alpha.jar
+2.5.4-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.4-beta/mobile-2.5.4-beta.jar returned status 404
+2.5.4-gamma			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.4-gamma/mobile-2.5.4-gamma.jar returned status 404
+2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.5/mobile-2.5.5.jar returned status 404
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.6/mobile-2.5.6.jar returned status 404
+2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.7/mobile-2.5.7.jar returned status 404
+2.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.5.8/mobile-2.5.8.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.6.0/mobile-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.7.0/mobile-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/mobile/2.8.0/mobile-2.8.0.jar returned status 404

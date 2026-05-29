@@ -1,0 +1,3 @@
+21.16.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tentackle/tentackle-parent/21.16.3.0/tentackle-parent-21.16.3.0.jar returned status 404
+25.17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tentackle/tentackle-parent/25.17.0.0/tentackle-parent-25.17.0.0.jar returned status 404
+25.18.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tentackle/tentackle-parent/25.18.0.0/tentackle-parent-25.18.0.0.jar returned status 404

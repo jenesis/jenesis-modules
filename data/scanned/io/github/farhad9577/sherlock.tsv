@@ -1,0 +1,21 @@
+${commonVersion}			IllegalArgumentException: Illegal character in path at index 31: io/github/farhad9577/sherlock/${commonVersion}/sherlock-${commonVersion}.jar
+${customVersion}			IllegalArgumentException: Illegal character in path at index 31: io/github/farhad9577/sherlock/${customVersion}/sherlock-${customVersion}.jar
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/1.0.0/sherlock-1.0.0.jar returned status 404
+1.0.1		2023-08-01T10:44:36Z	
+1.0.3		2023-08-01T11:17:26Z	
+1.0.4		2023-08-01T11:50:07Z	
+1.0.5		2023-08-01T12:33:52Z	
+1.0.6		2023-08-01T12:48:07Z	
+1.0.7		2023-08-01T12:55:07Z	
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/1.1.2/sherlock-1.1.2.jar returned status 404
+1.1.4		2023-08-03T00:47:27Z	
+1.1.8		2023-08-03T12:21:26Z	
+3.0.1		2023-08-05T09:45:37Z	
+3.0.2		2023-08-05T09:50:34Z	
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/3.0.5/sherlock-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/3.0.6/sherlock-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/3.0.7/sherlock-3.0.7.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/3.0.9/sherlock-3.0.9.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/3.1.0/sherlock-3.1.0.jar returned status 404
+4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/4.1.5/sherlock-4.1.5.jar returned status 404
+9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farhad9577/sherlock/9.0.4/sherlock-9.0.4.jar returned status 404

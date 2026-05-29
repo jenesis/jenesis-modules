@@ -1,0 +1,61 @@
+2.3.10		2024-04-08T06:37:02Z	
+2.3.10	kdoc	2024-04-08T06:37:00Z	
+2.3.11		2024-05-08T06:47:33Z	
+2.3.11	kdoc	2024-05-08T06:47:27Z	
+2.3.12		2024-06-20T10:24:31Z	
+2.3.12	kdoc	2024-06-20T10:24:34Z	
+2.3.13		2024-11-19T12:46:41Z	
+2.3.13	kdoc	2024-11-19T12:46:41Z	
+2.3.3		2023-08-01T12:36:11Z	
+2.3.3	kdoc	2023-08-01T12:36:07Z	
+2.3.4		2023-08-31T12:44:46Z	
+2.3.4	kdoc	2023-08-31T12:44:44Z	
+2.3.5		2023-10-05T08:20:22Z	
+2.3.5	kdoc	2023-10-05T08:20:23Z	
+2.3.6		2023-11-06T16:10:47Z	
+2.3.6	kdoc	2023-11-06T16:10:48Z	
+2.3.7		2023-12-07T07:22:06Z	
+2.3.7	kdoc	2023-12-07T07:22:08Z	
+2.3.8		2024-01-31T07:28:28Z	
+2.3.8	kdoc	2024-01-31T07:28:27Z	
+2.3.9		2024-03-04T07:40:25Z	
+2.3.9	kdoc	2024-03-04T07:40:25Z	
+3.0.0		2024-10-09T09:09:01Z	
+3.0.0	kdoc	2024-10-09T09:09:04Z	
+3.0.0-beta-1		2023-11-23T13:44:57Z	
+3.0.0-beta-1	kdoc	2023-11-23T13:44:55Z	
+3.0.0-beta-2		2024-07-15T11:43:38Z	
+3.0.0-beta-2	kdoc	2024-07-15T11:43:40Z	
+3.0.0-rc-1		2024-09-09T09:38:06Z	
+3.0.0-rc-1	kdoc	2024-09-09T09:38:07Z	
+3.0.0-rc-2		2024-10-02T17:59:20Z	
+3.0.0-rc-2	kdoc	2024-10-02T17:59:23Z	
+3.0.1		2024-10-29T14:01:05Z	
+3.0.1	kdoc	2024-10-29T14:01:06Z	
+3.0.2		2024-12-03T15:49:27Z	
+3.0.2	kdoc	2024-12-03T15:49:29Z	
+3.0.3		2024-12-18T19:21:08Z	
+3.0.3	kdoc	2024-12-18T19:21:06Z	
+3.1.0		2025-02-11T13:07:46Z	
+3.1.0	kdoc	2025-02-11T13:07:47Z	
+3.1.1		2025-02-24T11:56:26Z	
+3.1.1	kdoc	2025-02-24T11:56:23Z	
+3.1.2		2025-03-27T07:16:20Z	
+3.1.2	kdoc	2025-03-27T07:16:18Z	
+3.1.3		2025-05-05T07:27:13Z	
+3.1.3	kdoc	2025-05-05T07:27:09Z	
+3.2.0		2025-06-12T12:22:32Z	
+3.2.0	kdoc	2025-06-12T12:22:29Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.2.1/ktor-server-auto-head-response-linuxarm64-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.2.2/ktor-server-auto-head-response-linuxarm64-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.2.3/ktor-server-auto-head-response-linuxarm64-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.2.4/ktor-server-auto-head-response-linuxarm64-3.2.4.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.3.0/ktor-server-auto-head-response-linuxarm64-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.3.1/ktor-server-auto-head-response-linuxarm64-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.3.2/ktor-server-auto-head-response-linuxarm64-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.3.3/ktor-server-auto-head-response-linuxarm64-3.3.3.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.4.0/ktor-server-auto-head-response-linuxarm64-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.4.1/ktor-server-auto-head-response-linuxarm64-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.4.2/ktor-server-auto-head-response-linuxarm64-3.4.2.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.4.3/ktor-server-auto-head-response-linuxarm64-3.4.3.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-linuxarm64/3.5.0/ktor-server-auto-head-response-linuxarm64-3.5.0.jar returned status 404

@@ -1,0 +1,159 @@
+0.4		2014-01-10T19:13:43Z	
+0.4	ConnectedComponents	2014-01-10T19:14:17Z	
+0.4	DanglingPageRank	2014-01-10T19:14:21Z	
+0.4	EnumTrianglesOnEdgesWithDegrees	2014-01-10T19:14:39Z	
+0.4	EnumTrianglesRdfFoaf	2014-01-10T19:14:49Z	
+0.4	EnumTrianglesWithDegrees	2014-01-10T19:14:44Z	
+0.4	KMeansIterative	2014-01-10T19:14:30Z	
+0.4	KMeansSingleStep	2014-01-10T19:14:25Z	
+0.4	PairwiseSP	2014-01-10T19:14:34Z	
+0.4	TPCHQuery3	2014-01-10T19:14:53Z	
+0.4	TeraSort	2014-01-10T19:15:07Z	
+0.4	WebLogAnalysis	2014-01-10T19:14:58Z	
+0.4	WordCount	2014-01-10T19:15:03Z	
+0.4-hadoop2		2014-01-10T20:07:45Z	
+0.4-hadoop2	ConnectedComponents	2014-01-10T20:08:07Z	
+0.4-hadoop2	DanglingPageRank	2014-01-10T20:08:10Z	
+0.4-hadoop2	EnumTrianglesOnEdgesWithDegrees	2014-01-10T20:08:21Z	
+0.4-hadoop2	EnumTrianglesRdfFoaf	2014-01-10T20:08:26Z	
+0.4-hadoop2	EnumTrianglesWithDegrees	2014-01-10T20:08:23Z	
+0.4-hadoop2	KMeansIterative	2014-01-10T20:08:15Z	
+0.4-hadoop2	KMeansSingleStep	2014-01-10T20:08:12Z	
+0.4-hadoop2	PairwiseSP	2014-01-10T20:08:18Z	
+0.4-hadoop2	TPCHQuery3	2014-01-10T20:08:28Z	
+0.4-hadoop2	TeraSort	2014-01-10T20:08:36Z	
+0.4-hadoop2	WebLogAnalysis	2014-01-10T20:08:31Z	
+0.4-hadoop2	WordCount	2014-01-10T20:08:34Z	
+0.4-rc1		2013-12-20T09:25:16Z	
+0.4-rc1	ConnectedComponents	2013-12-20T09:25:43Z	
+0.4-rc1	DanglingPageRank	2013-12-20T09:25:46Z	
+0.4-rc1	EnumTrianglesOnEdgesWithDegrees	2013-12-20T09:25:58Z	
+0.4-rc1	EnumTrianglesRdfFoaf	2013-12-20T09:26:04Z	
+0.4-rc1	EnumTrianglesWithDegrees	2013-12-20T09:26:01Z	
+0.4-rc1	KMeansIterative	2013-12-20T09:25:52Z	
+0.4-rc1	KMeansSingleStep	2013-12-20T09:25:49Z	
+0.4-rc1	PairwiseSP	2013-12-20T09:25:55Z	
+0.4-rc1	TPCHQuery3	2013-12-20T09:26:07Z	
+0.4-rc1	TeraSort	2013-12-20T09:26:16Z	
+0.4-rc1	WebLogAnalysis	2013-12-20T09:26:10Z	
+0.4-rc1	WordCount	2013-12-20T09:26:13Z	
+0.5		2014-05-29T12:38:18Z	
+0.5	ConnectedComponents	2014-05-29T12:38:23Z	
+0.5	EnumTrianglesBasic	2014-05-29T12:38:23Z	
+0.5	EnumTrianglesOpt	2014-05-29T12:38:24Z	
+0.5	KMeans	2014-05-29T12:38:22Z	
+0.5	PageRankBasic	2014-05-29T12:38:25Z	
+0.5	TPCHQuery10	2014-05-29T12:38:26Z	
+0.5	TPCHQuery3	2014-05-29T12:38:27Z	
+0.5	WebLogAnalysis	2014-05-29T12:38:28Z	
+0.5	WordCount	2014-05-29T12:38:29Z	
+0.5-hadoop2		2014-05-29T12:52:45Z	
+0.5-hadoop2	ConnectedComponents	2014-05-29T12:52:49Z	
+0.5-hadoop2	EnumTrianglesBasic	2014-05-29T12:52:50Z	
+0.5-hadoop2	EnumTrianglesOpt	2014-05-29T12:52:51Z	
+0.5-hadoop2	KMeans	2014-05-29T12:52:48Z	
+0.5-hadoop2	PageRankBasic	2014-05-29T12:52:52Z	
+0.5-hadoop2	TPCHQuery10	2014-05-29T12:52:52Z	
+0.5-hadoop2	TPCHQuery3	2014-05-29T12:52:53Z	
+0.5-hadoop2	WebLogAnalysis	2014-05-29T12:52:56Z	
+0.5-hadoop2	WordCount	2014-05-29T12:52:56Z	
+0.5-rc1		2014-05-17T21:02:01Z	
+0.5-rc1	ConnectedComponents	2014-05-17T21:02:05Z	
+0.5-rc1	EnumTrianglesBasic	2014-05-17T21:02:06Z	
+0.5-rc1	EnumTrianglesOpt	2014-05-17T21:02:07Z	
+0.5-rc1	KMeans	2014-05-17T21:02:04Z	
+0.5-rc1	PageRankBasic	2014-05-17T21:02:08Z	
+0.5-rc1	TPCHQuery10	2014-05-17T21:02:08Z	
+0.5-rc1	TPCHQuery3	2014-05-17T21:02:09Z	
+0.5-rc1	WebLogAnalysis	2014-05-17T21:02:10Z	
+0.5-rc1	WordCount	2014-05-17T21:02:11Z	
+0.5-rc1-hadoop2		2014-05-17T21:24:37Z	
+0.5-rc1-hadoop2	ConnectedComponents	2014-05-17T21:24:41Z	
+0.5-rc1-hadoop2	EnumTrianglesBasic	2014-05-17T21:24:42Z	
+0.5-rc1-hadoop2	EnumTrianglesOpt	2014-05-17T21:24:43Z	
+0.5-rc1-hadoop2	KMeans	2014-05-17T21:24:40Z	
+0.5-rc1-hadoop2	PageRankBasic	2014-05-17T21:24:43Z	
+0.5-rc1-hadoop2	TPCHQuery10	2014-05-17T21:24:44Z	
+0.5-rc1-hadoop2	TPCHQuery3	2014-05-17T21:24:45Z	
+0.5-rc1-hadoop2	WebLogAnalysis	2014-05-17T21:24:46Z	
+0.5-rc1-hadoop2	WordCount	2014-05-17T21:24:47Z	
+0.5-rc2		2014-05-23T15:03:57Z	
+0.5-rc2	ConnectedComponents	2014-05-23T15:04:00Z	
+0.5-rc2	EnumTrianglesBasic	2014-05-23T15:04:00Z	
+0.5-rc2	EnumTrianglesOpt	2014-05-23T15:04:01Z	
+0.5-rc2	KMeans	2014-05-23T15:03:59Z	
+0.5-rc2	PageRankBasic	2014-05-23T15:04:01Z	
+0.5-rc2	TPCHQuery10	2014-05-23T15:04:02Z	
+0.5-rc2	TPCHQuery3	2014-05-23T15:04:02Z	
+0.5-rc2	WebLogAnalysis	2014-05-23T15:04:03Z	
+0.5-rc2	WordCount	2014-05-23T15:04:03Z	
+0.5-rc2-hadoop2		2014-05-23T15:33:43Z	
+0.5-rc2-hadoop2	ConnectedComponents	2014-05-23T15:33:46Z	
+0.5-rc2-hadoop2	EnumTrianglesBasic	2014-05-23T15:33:46Z	
+0.5-rc2-hadoop2	EnumTrianglesOpt	2014-05-23T15:33:47Z	
+0.5-rc2-hadoop2	KMeans	2014-05-23T15:33:45Z	
+0.5-rc2-hadoop2	PageRankBasic	2014-05-23T15:33:47Z	
+0.5-rc2-hadoop2	TPCHQuery10	2014-05-23T15:33:48Z	
+0.5-rc2-hadoop2	TPCHQuery3	2014-05-23T15:33:48Z	
+0.5-rc2-hadoop2	WebLogAnalysis	2014-05-23T15:33:49Z	
+0.5-rc2-hadoop2	WordCount	2014-05-23T15:33:49Z	
+0.5-rc3		2014-05-28T07:51:26Z	
+0.5-rc3	ConnectedComponents	2014-05-28T07:51:29Z	
+0.5-rc3	EnumTrianglesBasic	2014-05-28T07:51:29Z	
+0.5-rc3	EnumTrianglesOpt	2014-05-28T07:51:30Z	
+0.5-rc3	KMeans	2014-05-28T07:51:28Z	
+0.5-rc3	PageRankBasic	2014-05-28T07:51:30Z	
+0.5-rc3	TPCHQuery10	2014-05-28T07:51:31Z	
+0.5-rc3	TPCHQuery3	2014-05-28T07:51:31Z	
+0.5-rc3	WebLogAnalysis	2014-05-28T07:51:32Z	
+0.5-rc3	WordCount	2014-05-28T07:51:33Z	
+0.5-rc3-hadoop2		2014-05-28T08:50:48Z	
+0.5-rc3-hadoop2	ConnectedComponents	2014-05-28T08:50:50Z	
+0.5-rc3-hadoop2	EnumTrianglesBasic	2014-05-28T08:50:51Z	
+0.5-rc3-hadoop2	EnumTrianglesOpt	2014-05-28T08:50:51Z	
+0.5-rc3-hadoop2	KMeans	2014-05-28T08:50:50Z	
+0.5-rc3-hadoop2	PageRankBasic	2014-05-28T08:50:52Z	
+0.5-rc3-hadoop2	TPCHQuery10	2014-05-28T08:50:52Z	
+0.5-rc3-hadoop2	TPCHQuery3	2014-05-28T08:50:53Z	
+0.5-rc3-hadoop2	WebLogAnalysis	2014-05-28T08:50:53Z	
+0.5-rc3-hadoop2	WordCount	2014-05-28T08:50:54Z	
+0.5.1		2014-06-12T19:49:18Z	
+0.5.1	ConnectedComponents	2014-06-12T19:49:23Z	
+0.5.1	EnumTrianglesBasic	2014-06-12T19:49:24Z	
+0.5.1	EnumTrianglesOpt	2014-06-12T19:49:24Z	
+0.5.1	KMeans	2014-06-12T19:49:22Z	
+0.5.1	PageRankBasic	2014-06-12T19:49:25Z	
+0.5.1	TPCHQuery10	2014-06-12T19:49:26Z	
+0.5.1	TPCHQuery3	2014-06-12T19:49:27Z	
+0.5.1	WebLogAnalysis	2014-06-12T19:49:28Z	
+0.5.1	WordCount	2014-06-12T19:49:29Z	
+0.5.1-hadoop2		2014-06-12T20:00:33Z	
+0.5.1-hadoop2	ConnectedComponents	2014-06-12T20:00:36Z	
+0.5.1-hadoop2	EnumTrianglesBasic	2014-06-12T20:00:37Z	
+0.5.1-hadoop2	EnumTrianglesOpt	2014-06-12T20:00:37Z	
+0.5.1-hadoop2	KMeans	2014-06-12T20:00:35Z	
+0.5.1-hadoop2	PageRankBasic	2014-06-12T20:00:38Z	
+0.5.1-hadoop2	TPCHQuery10	2014-06-12T20:00:39Z	
+0.5.1-hadoop2	TPCHQuery3	2014-06-12T20:00:39Z	
+0.5.1-hadoop2	WebLogAnalysis	2014-06-12T20:00:40Z	
+0.5.1-hadoop2	WordCount	2014-06-12T20:00:41Z	
+0.5.2		2014-07-15T14:52:17Z	
+0.5.2	ConnectedComponents	2014-07-15T14:52:42Z	
+0.5.2	EnumTrianglesBasic	2014-07-15T14:52:50Z	
+0.5.2	EnumTrianglesOpt	2014-07-15T14:52:58Z	
+0.5.2	KMeans	2014-07-15T14:52:39Z	
+0.5.2	PageRankBasic	2014-07-15T14:52:59Z	
+0.5.2	TPCHQuery10	2014-07-15T14:53:45Z	
+0.5.2	TPCHQuery3	2014-07-15T14:53:57Z	
+0.5.2	WebLogAnalysis	2014-07-15T14:54:18Z	
+0.5.2	WordCount	2014-07-15T14:54:27Z	
+0.5.2-hadoop2		2014-07-15T16:44:00Z	
+0.5.2-hadoop2	ConnectedComponents	2014-07-15T16:44:41Z	
+0.5.2-hadoop2	EnumTrianglesBasic	2014-07-15T16:44:50Z	
+0.5.2-hadoop2	EnumTrianglesOpt	2014-07-15T16:44:54Z	
+0.5.2-hadoop2	KMeans	2014-07-15T16:44:31Z	
+0.5.2-hadoop2	PageRankBasic	2014-07-15T16:44:55Z	
+0.5.2-hadoop2	TPCHQuery10	2014-07-15T16:45:00Z	
+0.5.2-hadoop2	TPCHQuery3	2014-07-15T16:45:04Z	
+0.5.2-hadoop2	WebLogAnalysis	2014-07-15T16:45:08Z	
+0.5.2-hadoop2	WordCount	2014-07-15T16:45:11Z	

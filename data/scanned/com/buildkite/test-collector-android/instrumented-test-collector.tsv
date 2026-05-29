@@ -1,0 +1,8 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buildkite/test-collector-android/instrumented-test-collector/0.1.0/instrumented-test-collector-0.1.0.jar returned status 404
+0.1.0	debug-javadoc	2022-08-02T08:53:22Z	
+0.1.0	debug-sources	2022-08-02T08:53:27Z	
+0.1.0	release-javadoc	2022-08-02T08:53:26Z	
+0.1.0	release-sources	2022-08-02T08:53:25Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buildkite/test-collector-android/instrumented-test-collector/0.2.0/instrumented-test-collector-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buildkite/test-collector-android/instrumented-test-collector/0.3.0/instrumented-test-collector-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buildkite/test-collector-android/instrumented-test-collector/0.4.0/instrumented-test-collector-0.4.0.jar returned status 404

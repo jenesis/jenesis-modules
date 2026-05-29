@@ -1,0 +1,114 @@
+3.13.0.v20180226-1711	automatic	org.eclipse.tycho	org.eclipse.osgi	2018-05-29T13:10:05Z	
+3.13.0	automatic	org.eclipse.platform	org.eclipse.osgi	2018-06-16T13:05:48Z	
+3.13.0.LIFERAY-PATCHED-1	automatic	com.liferay	org.eclipse.osgi	2018-08-31T02:15:44Z	
+4.8.0	automatic	com.innoventsolutions.birt.runtime	org.eclipse.osgi_3.13.0.v20180409-1500	2018-08-31T16:43:15Z	
+3.13.0.LIFERAY-PATCHED-2	automatic	com.liferay	org.eclipse.osgi	2018-09-08T03:08:35Z	
+3.13.0.LIFERAY-PATCHED-3	automatic	com.liferay	org.eclipse.osgi	2018-09-21T02:22:48Z	
+3.13.100	automatic	org.eclipse.platform	org.eclipse.osgi	2018-09-25T05:24:44Z	
+3.13.0.LIFERAY-PATCHED-4	automatic	com.liferay	org.eclipse.osgi	2018-10-17T17:37:58Z	
+3.13.200	automatic	org.eclipse.platform	org.eclipse.osgi	2018-12-19T09:38:22Z	
+3.13.300	automatic	org.eclipse.platform	org.eclipse.osgi	2019-03-16T17:30:08Z	
+3.13.0.LIFERAY-PATCHED-5	automatic	com.liferay	org.eclipse.osgi	2019-05-20T20:51:02Z	
+3.14.0	automatic	org.eclipse.platform	org.eclipse.osgi	2019-06-17T05:44:45Z	
+3.13.0.LIFERAY-PATCHED-6	automatic	com.liferay	org.eclipse.osgi	2019-06-17T18:23:35Z	
+3.13.0.LIFERAY-PATCHED-7	automatic	com.liferay	org.eclipse.osgi	2019-07-18T22:37:53Z	
+3.13.0.LIFERAY-PATCHED-8	automatic	com.liferay	org.eclipse.osgi	2019-08-01T02:32:37Z	
+3.15.0	automatic	org.eclipse.platform	org.eclipse.osgi	2019-09-17T18:04:58Z	
+3.15.100	automatic	org.eclipse.platform	org.eclipse.osgi	2019-12-17T11:39:08Z	
+3.15.200	automatic	org.eclipse.platform	org.eclipse.osgi	2020-03-27T05:26:20Z	
+3.15.300	automatic	org.eclipse.platform	org.eclipse.osgi	2020-06-15T10:41:32Z	
+3.16.0	automatic	org.eclipse.platform	org.eclipse.osgi	2020-09-14T07:05:46Z	
+3.13.0.LIFERAY-PATCHED-9	automatic	com.liferay	org.eclipse.osgi	2020-11-04T15:20:49Z	
+3.13.0.LIFERAY-PATCHED-10	automatic	com.liferay	org.eclipse.osgi	2020-11-11T03:12:09Z	
+3.13.0.LIFERAY-PATCHED-11	automatic	com.liferay	org.eclipse.osgi	2020-11-12T18:20:46Z	
+3.16.100	automatic	org.eclipse.platform	org.eclipse.osgi	2020-12-15T12:57:05Z	
+3.16.200	named	org.eclipse.platform	org.eclipse.osgi	2021-03-12T09:53:58Z	3.16.200-SNAPSHOT
+3.0.7-03	named	org.codehaus.groovy	groovy-eclipse-batch	2021-03-17T16:28:52Z	3.16.200-SNAPSHOT
+2.4.1	named	io.github.phillima	asniffer	2021-04-02T22:57:37Z	3.16.200-SNAPSHOT
+2.4.2	named	io.github.phillima	asniffer	2021-04-04T15:49:08Z	3.16.200-SNAPSHOT
+3.0.8-01	named	org.codehaus.groovy	groovy-eclipse-batch	2021-04-19T21:31:28Z	3.16.200-SNAPSHOT
+2.4.3	named	io.github.phillima	asniffer	2021-06-10T03:44:08Z	3.16.200-SNAPSHOT
+3.16.300	named	org.eclipse.platform	org.eclipse.osgi	2021-06-14T17:01:30Z	3.16.300-SNAPSHOT
+2.4.4	named	io.github.phillima	asniffer	2021-07-05T13:54:31Z	3.16.300-SNAPSHOT
+5.2.0.Alpha1	named	org.jboss.windup.jdt	windup-eclipse-jdt	2021-07-21T07:13:11Z	3.16.200-SNAPSHOT
+5.2.0.Final	named	org.jboss.windup.jdt	windup-eclipse-jdt	2021-08-05T08:06:24Z	3.16.200-SNAPSHOT
+3.17.0	named	org.eclipse.platform	org.eclipse.osgi	2021-09-15T03:41:33Z	3.17.0-SNAPSHOT
+2021.7.3-java-8-b	named	org.nasdanika.core	exec-bundle	2021-09-21T12:56:49Z	3.17.0-SNAPSHOT
+5.2.1.Alpha1	named	org.jboss.windup.jdt	windup-eclipse-jdt	2021-12-06T11:27:37Z	3.16.200-SNAPSHOT
+3.17.100	named	org.eclipse.platform	org.eclipse.osgi	2021-12-08T07:51:59Z	3.17.100-SNAPSHOT
+5.2.1.Final	named	org.jboss.windup.jdt	windup-eclipse-jdt	2021-12-14T09:19:53Z	3.16.200-SNAPSHOT
+5.3.0.Alpha1	named	org.jboss.windup.jdt	windup-eclipse-jdt	2022-01-26T10:14:10Z	3.16.200-SNAPSHOT
+0.10.0-3c97afeac	automatic	com.vertispan.j2cl.external	org.eclipse.osgi	2022-03-09T19:54:59Z	
+3.17.200	named	org.eclipse.platform	org.eclipse.osgi	2022-03-15T15:02:26Z	3.17.200-SNAPSHOT
+5.3.0.Alpha2	named	org.jboss.windup.jdt	windup-eclipse-jdt	2022-03-15T15:07:15Z	3.16.200-SNAPSHOT
+5.3.0.Alpha3	named	org.jboss.windup.jdt	windup-eclipse-jdt	2022-04-12T09:40:00Z	3.16.200-SNAPSHOT
+5.3.0.Final	named	org.jboss.windup.jdt	windup-eclipse-jdt	2022-04-26T08:13:39Z	3.16.200-SNAPSHOT
+1.0.0	named	de.funfried.libraries	jsdt-core	2022-05-16T20:40:49Z	3.18.0-SNAPSHOT
+3.18.0	named	org.eclipse.platform	org.eclipse.osgi	2022-06-14T05:57:42Z	3.18.0-SNAPSHOT
+1.0.1	named	de.funfried.libraries	jsdt-core	2022-07-11T21:04:37Z	3.18.0-SNAPSHOT
+3.13.0.LIFERAY-PATCHED-12	automatic	com.liferay	org.eclipse.osgi	2022-07-29T22:05:39Z	
+3.18.100	named	org.eclipse.platform	org.eclipse.osgi	2022-09-11T20:33:03Z	3.18.100
+9.8.0	named	org.tango-controls	Pogo	2022-09-29T14:36:30Z	3.18.100
+1.0.2	named	de.funfried.libraries	jsdt-core	2022-10-01T21:35:07Z	3.18.100
+1.0.3	named	de.funfried.libraries	jsdt-core	2022-10-17T22:02:00Z	3.18.100
+0.11.0-9336533b6	automatic	com.vertispan.j2cl.external	org.eclipse.osgi	2022-11-07T14:34:25Z	
+3.18.200	named	org.eclipse.platform	org.eclipse.osgi	2022-12-06T17:15:32Z	3.18.200
+3.13.0.LIFERAY-PATCHED-13	automatic	com.liferay	org.eclipse.osgi	2023-01-17T21:53:40Z	
+3.3.0	named	net.revelc.code.formatter	jsdt-core	2023-02-02T23:44:06Z	3.18.200
+3.18.300	named	org.eclipse.platform	org.eclipse.osgi	2023-03-13T10:49:42Z	3.18.300
+3.13.0.LIFERAY-PATCHED-14	automatic	com.liferay	org.eclipse.osgi	2023-06-03T07:15:52Z	
+3.13.0.LIFERAY-PATCHED-15	automatic	com.liferay	org.eclipse.osgi	2023-06-07T04:27:02Z	
+3.13.0.LIFERAY-PATCHED-16	automatic	com.liferay	org.eclipse.osgi	2023-06-09T02:49:16Z	
+3.18.400	named	org.eclipse.platform	org.eclipse.osgi	2023-06-09T14:55:51Z	3.18.400
+3.13.0.LIFERAY-PATCHED-17	automatic	com.liferay	org.eclipse.osgi	2023-06-13T04:31:41Z	
+3.13.0.LIFERAY-PATCHED-18	automatic	com.liferay	org.eclipse.osgi	2023-06-15T02:47:33Z	
+3.13.0.LIFERAY-PATCHED-19	automatic	com.liferay	org.eclipse.osgi	2023-06-21T02:17:08Z	
+1.0.4	named	de.funfried.libraries	jsdt-core	2023-08-10T09:35:15Z	3.18.500
+1.0.5	named	de.funfried.libraries	jsdt-core	2023-08-10T10:41:23Z	3.18.500
+3.18.500	named	org.eclipse.platform	org.eclipse.osgi	2023-09-08T07:25:26Z	3.18.500
+3.13.0.LIFERAY-PATCHED-20	automatic	com.liferay	org.eclipse.osgi	2023-10-13T10:57:03Z	
+3.13.0.LIFERAY-PATCHED-21	automatic	com.liferay	org.eclipse.osgi	2023-10-16T16:25:52Z	
+v20230718-1	automatic	com.vertispan.j2cl.external	org.eclipse.osgi	2023-11-04T20:09:34Z	
+3.13.0.LIFERAY-PATCHED-22	automatic	com.liferay	org.eclipse.osgi	2023-11-17T01:41:18Z	
+3.18.600	named	org.eclipse.platform	org.eclipse.osgi	2023-12-03T03:14:56Z	3.18.600
+1.0.6	named	de.funfried.libraries	jsdt-core	2024-01-19T21:48:43Z	3.18.700
+1.0.7	named	de.funfried.libraries	jsdt-core	2024-02-08T21:23:55Z	3.19.0
+3.19.0	named	org.eclipse.platform	org.eclipse.osgi	2024-03-08T19:50:50Z	3.19.0
+3.13.0.LIFERAY-PATCHED-23	automatic	com.liferay	org.eclipse.osgi	2024-03-18T04:02:11Z	
+3.13.0.LIFERAY-PATCHED-24	automatic	com.liferay	org.eclipse.osgi	2024-03-28T01:11:09Z	
+3.4.4	named	net.revelc.code.formatter	jsdt-core	2024-04-09T01:15:29Z	3.19.0
+9.9.0	named	org.tango-controls	Pogo	2024-04-10T13:13:52Z	3.18.300
+3.13.0.LIFERAY-PATCHED-25	automatic	com.liferay	org.eclipse.osgi	2024-04-24T18:44:03Z	
+3.13.0.LIFERAY-PATCHED-26	automatic	com.liferay	org.eclipse.osgi	2024-04-25T22:04:55Z	
+3.13.0.LIFERAY-PATCHED-27	automatic	com.liferay	org.eclipse.osgi	2024-04-30T16:53:13Z	
+9.9.1	named	org.tango-controls	Pogo	2024-06-06T10:55:36Z	3.18.300
+3.20.0	named	org.eclipse.platform	org.eclipse.osgi	2024-06-07T16:27:57Z	3.20.0
+v20240622-2	automatic	org.kie.j2cl.tools.external	org.eclipse.osgi	2024-07-03T05:58:05Z	
+1.0.8	named	de.funfried.libraries	jsdt-core	2024-08-03T22:03:56Z	3.21.0
+1.0.9	named	de.funfried.libraries	jsdt-core	2024-08-26T20:10:04Z	3.21.0
+3.21.0	named	org.eclipse.platform	org.eclipse.osgi	2024-09-06T13:44:33Z	3.21.0
+1.0.10	named	de.funfried.libraries	jsdt-core	2024-09-29T14:53:00Z	3.21.0
+v20241110-1	automatic	org.kie.j2cl.tools.external	org.eclipse.osgi	2024-11-19T18:23:52Z	
+3.22.0	named	org.eclipse.platform	org.eclipse.osgi	2024-12-01T15:50:00Z	3.22.0
+3.5.0	named	net.revelc.code.formatter	jsdt-core	2025-01-20T02:42:44Z	3.22.0
+1.0.11	named	de.funfried.libraries	jsdt-core	2025-01-20T11:51:23Z	3.23.0
+1.26.0	named	io.joynr.tools.generator	joynr-generator-standalone	2025-01-24T10:46:15Z	3.18.100
+3.13.0.LIFERAY-PATCHED-28	automatic	com.liferay	org.eclipse.osgi	2025-02-22T11:30:24Z	
+3.23.0	named	org.eclipse.platform	org.eclipse.osgi	2025-03-08T08:30:03Z	3.23.0
+3.22.0	named	ch.reportingsoft.birt	eclipse-osgi	2025-04-11T09:23:38Z	3.22.0
+3.23.0	named	ch.reportingsoft.birt	eclipse-osgi	2025-05-09T12:44:36Z	3.23.0
+3.23.100	named	org.eclipse.platform	org.eclipse.osgi	2025-06-07T14:20:46Z	3.23.100
+1.26.1	named	io.joynr.tools.generator	joynr-generator-standalone	2025-06-17T09:58:30Z	3.18.100
+9.10.2	named	org.tango-controls.pogo	Pogo	2025-07-19T20:26:37Z	3.18.300
+9.10.3	named	org.tango-controls.pogo	Pogo	2025-07-23T08:22:27Z	3.18.300
+9.10.4	named	org.tango-controls	Pogo	2025-07-23T09:22:58Z	3.18.300
+9.10.5	named	org.tango-controls	Pogo	2025-08-28T20:50:20Z	3.18.300
+3.23.200	named	org.eclipse.platform	org.eclipse.osgi	2025-09-05T20:31:52Z	3.23.200
+1.0.12	named	de.funfried.libraries	jsdt-core	2025-10-27T16:48:52Z	3.23.300
+3.24.0	named	org.eclipse.platform	org.eclipse.osgi	2025-12-05T06:35:21Z	3.24.0
+9.10.6	named	org.tango-controls	Pogo	2025-12-18T09:05:13Z	3.18.300
+1.26.3	named	io.joynr.tools.generator	joynr-generator-standalone	2026-01-13T08:43:03Z	3.18.100
+1.26.4	named	io.joynr.tools.generator	joynr-generator-standalone	2026-01-14T13:37:53Z	3.18.100
+3.24.100	named	org.eclipse.platform	org.eclipse.osgi	2026-03-06T05:15:45Z	3.24.100
+1.0.13	named	de.funfried.libraries	jsdt-core	2026-03-16T21:28:40Z	3.24.100
+1.26.5	named	io.joynr.tools.generator	joynr-generator-standalone	2026-05-12T05:40:13Z	3.18.100

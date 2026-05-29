@@ -1,0 +1,9 @@
+0.0.1		2021-10-26T07:47:57Z	
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dynsxyc/baselib/0.0.2/baselib-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dynsxyc/baselib/0.0.3/baselib-0.0.3.jar returned status 404
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dynsxyc/baselib/0.0.4/baselib-0.0.4.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dynsxyc/baselib/1.0.0/baselib-1.0.0.jar returned status 404
+1.0.0	debug-javadoc	2023-11-07T15:11:11Z	
+1.0.0	debug-sources	2023-11-07T15:10:32Z	
+1.0.0	release-javadoc	2023-11-07T15:11:03Z	
+1.0.0	release-sources	2023-11-07T15:10:56Z	

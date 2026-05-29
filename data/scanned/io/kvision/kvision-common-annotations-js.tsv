@@ -1,0 +1,105 @@
+4.0.0		2021-02-13T22:30:58Z	
+4.1.0		2021-02-24T11:14:02Z	
+4.1.1		2021-03-06T18:45:47Z	
+4.2.0		2021-03-10T15:36:45Z	
+4.2.1		2021-03-16T18:23:12Z	
+4.2.2		2021-03-27T01:02:12Z	
+4.2.3		2021-03-27T21:51:10Z	
+4.3.0		2021-04-03T22:14:22Z	
+4.4.0		2021-04-19T00:13:15Z	
+4.5.0		2021-05-10T14:03:34Z	
+4.5.1		2021-05-13T21:53:07Z	
+4.6.0		2021-05-22T17:04:31Z	
+4.7.0		2021-05-25T19:04:55Z	
+4.7.1		2021-05-27T14:07:13Z	
+4.8.0		2021-05-31T16:52:54Z	
+4.8.1		2021-06-02T23:03:15Z	
+4.8.2		2021-07-05T09:56:30Z	
+4.8.3		2021-07-05T20:49:05Z	
+5.0.0		2021-08-19T21:51:38Z	
+5.0.0-RC1		2021-08-09T21:46:45Z	
+5.0.0-RC2		2021-08-12T21:55:47Z	
+5.0.0-RC3		2021-08-19T05:58:01Z	
+5.0.1		2021-08-24T05:33:37Z	
+5.1.0		2021-08-27T16:06:05Z	
+5.1.1		2021-08-28T22:38:04Z	
+5.10.0		2022-05-08T05:43:52Z	
+5.10.1		2022-06-04T05:37:29Z	
+5.11.0		2022-06-19T07:48:06Z	
+5.12.0		2022-06-30T19:11:12Z	
+5.13.0		2022-07-11T17:22:44Z	
+5.13.1		2022-07-15T05:39:47Z	
+5.14.0		2022-08-10T08:50:56Z	
+5.15.0		2022-09-12T13:16:52Z	
+5.15.1		2022-09-14T08:41:20Z	
+5.15.2		2022-09-17T06:56:00Z	
+5.15.3		2022-09-21T08:57:26Z	
+5.16.0		2022-10-05T11:52:57Z	
+5.16.1		2022-10-10T09:39:53Z	
+5.16.2		2022-10-23T09:00:35Z	
+5.17.0		2022-11-01T16:09:40Z	
+5.18.0		2022-11-26T07:20:45Z	
+5.18.1		2022-12-01T15:13:59Z	
+5.18.2		2023-03-31T16:18:49Z	
+5.2.0		2021-09-25T06:24:45Z	
+5.2.1		2021-09-29T15:40:25Z	
+5.3.0		2021-10-07T21:39:44Z	
+5.4.0		2021-10-17T11:34:36Z	
+5.4.1		2021-10-21T07:41:48Z	
+5.4.2		2021-10-25T08:02:19Z	
+5.4.3		2021-10-28T03:58:33Z	
+5.5.0		2021-11-04T12:48:05Z	
+5.5.1		2021-11-09T13:53:36Z	
+5.6.0		2021-11-29T14:55:25Z	
+5.6.1		2021-12-02T12:09:48Z	
+5.7.0		2022-01-06T12:52:15Z	
+5.7.1		2022-01-06T15:50:19Z	
+5.7.2		2022-01-16T10:19:45Z	
+5.8.0		2022-01-30T09:49:31Z	
+5.8.1		2022-02-06T10:42:13Z	
+5.8.2		2022-02-28T05:38:24Z	
+5.8.3		2022-04-01T13:05:00Z	
+5.9.0		2022-04-14T14:34:12Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.0/kvision-common-annotations-js-6.0.0.jar returned status 404
+6.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.0-Beta/kvision-common-annotations-js-6.0.0-Beta.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.1/kvision-common-annotations-js-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.2/kvision-common-annotations-js-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.3/kvision-common-annotations-js-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.4/kvision-common-annotations-js-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.5/kvision-common-annotations-js-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.0.6/kvision-common-annotations-js-6.0.6.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.1.0/kvision-common-annotations-js-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.1.1/kvision-common-annotations-js-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.1.2/kvision-common-annotations-js-6.1.2.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.2.0/kvision-common-annotations-js-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.2.1/kvision-common-annotations-js-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.2.2/kvision-common-annotations-js-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.2.3/kvision-common-annotations-js-6.2.3.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.3.0/kvision-common-annotations-js-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.3.1/kvision-common-annotations-js-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.3.2/kvision-common-annotations-js-6.3.2.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.4.0/kvision-common-annotations-js-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.5.0/kvision-common-annotations-js-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.5.1/kvision-common-annotations-js-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.5.2/kvision-common-annotations-js-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/6.6.0/kvision-common-annotations-js-6.6.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.0.0/kvision-common-annotations-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.0.1/kvision-common-annotations-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.1.0/kvision-common-annotations-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.2.0/kvision-common-annotations-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.3.0/kvision-common-annotations-js-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.3.1/kvision-common-annotations-js-7.3.1.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.0/kvision-common-annotations-js-7.4.0.jar returned status 404
+7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.1/kvision-common-annotations-js-7.4.1.jar returned status 404
+7.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.2/kvision-common-annotations-js-7.4.2.jar returned status 404
+7.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.3/kvision-common-annotations-js-7.4.3.jar returned status 404
+7.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.4/kvision-common-annotations-js-7.4.4.jar returned status 404
+7.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.4.5/kvision-common-annotations-js-7.4.5.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.5.0/kvision-common-annotations-js-7.5.0.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/7.5.1/kvision-common-annotations-js-7.5.1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.0.0/kvision-common-annotations-js-8.0.0.jar returned status 404
+8.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.0.0-RC/kvision-common-annotations-js-8.0.0-RC.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.0.1/kvision-common-annotations-js-8.0.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.1.0/kvision-common-annotations-js-8.1.0.jar returned status 404
+8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.1.1/kvision-common-annotations-js-8.1.1.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-common-annotations-js/8.2.0/kvision-common-annotations-js-8.2.0.jar returned status 404

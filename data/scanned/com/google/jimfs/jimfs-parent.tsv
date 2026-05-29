@@ -1,0 +1,5 @@
+1.0	site	2014-06-16T20:59:15Z	
+1.0-rc1	site	2014-02-25T23:29:03Z	
+1.0-rc2	site	2014-05-23T20:22:53Z	
+1.0-rc3	site	2014-06-10T14:38:11Z	
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/jimfs/jimfs-parent/1.3.1/jimfs-parent-1.3.1.jar returned status 404

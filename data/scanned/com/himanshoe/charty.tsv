@@ -1,0 +1,23 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.0.0/charty-1.0.0.jar returned status 404
+1.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.0.0-alpha01/charty-1.0.0-alpha01.jar returned status 404
+1.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.0.0-alpha03/charty-1.0.0-alpha03.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.0.1/charty-1.0.1.jar returned status 404
+1.1.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.0-alpha02/charty-1.1.0-alpha02.jar returned status 404
+1.1.1-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.1-alpha02/charty-1.1.1-alpha02.jar returned status 404
+1.1.2-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.2-alpha02/charty-1.1.2-alpha02.jar returned status 404
+1.1.3-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.3-alpha02/charty-1.1.3-alpha02.jar returned status 404
+1.1.3-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.3-alpha03/charty-1.1.3-alpha03.jar returned status 404
+1.1.3-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.3-alpha04/charty-1.1.3-alpha04.jar returned status 404
+1.1.3-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/1.1.3-alpha05/charty-1.1.3-alpha05.jar returned status 404
+2.0.0-SNASPHOT		2025-02-03T21:56:12Z	
+2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/himanshoe/charty/2.0.0-alpha01/charty-2.0.0-alpha01.jar returned status 404
+2.0.1		2025-02-03T22:23:23Z	
+2.1.0-beta01		2025-02-08T23:01:54Z	
+2.1.0-beta02		2025-02-09T13:41:56Z	
+2.1.0-beta03		2025-02-13T19:08:33Z	
+2.1.0-beta03.1		2025-02-13T20:19:43Z	
+2.1.0-beta03.2		2025-03-13T21:35:06Z	
+2.1.0-beta03.3		2025-05-01T05:27:51Z	
+2.1.0-beta03.4		2025-05-01T05:46:55Z	
+3.0.0-rc01		2025-12-03T21:35:09Z	
+3.0.0-test		2025-12-03T20:50:41Z	

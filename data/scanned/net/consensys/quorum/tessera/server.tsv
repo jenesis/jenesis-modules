@@ -1,0 +1,31 @@
+0.0.4		2021-05-08T19:37:56Z	
+0.0.5		2021-05-10T07:39:28Z	
+0.0.6		2021-06-25T15:00:14Z	
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/0.11.0/server-0.11.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/1.0.0/server-1.0.0.jar returned status 404
+20.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/20.10.0/server-20.10.0.jar returned status 404
+20.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/20.10.1/server-20.10.1.jar returned status 404
+20.10.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/20.10.1-RC1/server-20.10.1-RC1.jar returned status 404
+21.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/21.1.0/server-21.1.0.jar returned status 404
+21.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/consensys/quorum/tessera/server/21.1.1/server-21.1.1.jar returned status 404
+21.10.0		2021-10-12T12:00:22Z	
+21.4.0		2021-05-17T09:43:01Z	
+21.4.1		2021-05-18T12:33:19Z	
+21.7.0		2021-07-12T10:22:51Z	
+21.7.1		2021-07-20T12:57:02Z	
+21.7.2		2021-08-05T09:06:05Z	
+21.7.3		2021-12-17T08:39:43Z	
+22.1.0		2022-01-13T09:34:30Z	
+22.1.1		2022-04-06T07:15:00Z	
+22.1.2		2022-05-17T01:41:52Z	
+22.1.3		2022-06-01T01:25:59Z	
+22.1.4		2022-07-02T02:15:27Z	
+22.1.5		2022-07-11T04:13:19Z	
+22.1.6		2022-08-23T00:14:43Z	
+22.1.7		2022-08-24T22:55:04Z	
+22.10.0		2022-11-14T10:33:43Z	
+22.10.1		2023-01-11T11:42:23Z	
+23.4.0		2023-03-28T15:28:24Z	
+24.4.0		2024-05-07T13:57:14Z	
+24.4.1		2024-05-10T12:26:26Z	
+24.4.2		2024-06-12T08:26:09Z	

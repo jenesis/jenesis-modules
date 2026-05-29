@@ -1,0 +1,6 @@
+0.1.0-dev.7.uncommitted+9991a4e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mfataka/locks-starter-api/0.1.0-dev.7.uncommitted+9991a4e/locks-starter-api-0.1.0-dev.7.uncommitted+9991a4e.jar returned status 404
+0.1.0-dev.7.uncommitted+9991a4e	plain	2025-09-03T09:03:10Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mfataka/locks-starter-api/1.0.0/locks-starter-api-1.0.0.jar returned status 404
+1.0.0	plain	2025-09-03T10:06:34Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mfataka/locks-starter-api/1.0.1/locks-starter-api-1.0.1.jar returned status 404
+1.0.1	plain	2026-03-26T16:10:48Z	

@@ -1,0 +1,4 @@
+1.12.0-25-g2290520			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/rokubun/jason/sdk/1.12.0-25-g2290520/sdk-1.12.0-25-g2290520.jar returned status 404
+1.12.0-26-gf8a391c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/rokubun/jason/sdk/1.12.0-26-gf8a391c/sdk-1.12.0-26-gf8a391c.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/rokubun/jason/sdk/1.7.0/sdk-1.7.0.jar returned status 404
+1.7.0-1-g89c9bce			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/rokubun/jason/sdk/1.7.0-1-g89c9bce/sdk-1.7.0-1-g89c9bce.jar returned status 404

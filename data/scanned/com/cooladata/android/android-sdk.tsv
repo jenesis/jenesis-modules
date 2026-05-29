@@ -1,0 +1,5 @@
+2.2.3		2015-11-23T19:28:59Z	
+2.2.3	dependecies	2015-11-23T19:29:03Z	
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cooladata/android/android-sdk/2.4/android-sdk-2.4.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cooladata/android/android-sdk/2.4.1/android-sdk-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cooladata/android/android-sdk/2.4.2/android-sdk-2.4.2.jar returned status 404

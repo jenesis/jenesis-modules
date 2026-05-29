@@ -1,0 +1,202 @@
+2.1.9	automatic	dnsjava	dnsjava	2019-05-25T14:14:48Z	
+3.0.0-next.1	automatic	dnsjava	dnsjava	2020-01-19T12:49:52Z	
+3.0.0	automatic	dnsjava	dnsjava	2020-02-15T12:32:23Z	
+3.0.1	automatic	dnsjava	dnsjava	2020-02-23T13:31:43Z	
+3.0.2	automatic	dnsjava	dnsjava	2020-03-19T12:54:25Z	
+3.1.0	automatic	dnsjava	dnsjava	2020-05-15T19:13:53Z	
+3.2.0	automatic	dnsjava	dnsjava	2020-06-22T14:36:21Z	
+3.2.1	automatic	dnsjava	dnsjava	2020-06-22T14:49:07Z	
+3.2.2	automatic	dnsjava	dnsjava	2020-07-11T12:17:47Z	
+3.3.0	automatic	dnsjava	dnsjava	2020-09-27T10:35:57Z	
+3.3.1	automatic	dnsjava	dnsjava	2020-10-28T21:24:07Z	
+3.4.0	automatic	dnsjava	dnsjava	2021-06-09T18:09:55Z	
+3.4.1	automatic	dnsjava	dnsjava	2021-07-30T09:43:07Z	
+3.4.2	automatic	dnsjava	dnsjava	2021-09-19T16:07:22Z	
+3.4.3	automatic	dnsjava	dnsjava	2021-12-05T15:29:32Z	
+3.5.0	automatic	dnsjava	dnsjava	2022-02-05T18:44:24Z	
+3.5.1	automatic	dnsjava	dnsjava	2022-05-15T15:07:50Z	
+3.5.2	automatic	dnsjava	dnsjava	2022-11-16T10:15:13Z	
+3.5.3	automatic	dnsjava	dnsjava	2023-11-11T10:46:58Z	
+3.6.0	named	dnsjava	dnsjava	2024-07-21T13:11:56Z	3.6.0
+3.6.1	named	dnsjava	dnsjava	2024-07-28T15:56:42Z	3.6.1
+0.1.5.1	named	dev.redcoke	mcserverping	2024-07-30T03:06:40Z	3.6.0
+3.6.2	named	dnsjava	dnsjava	2024-09-21T08:00:26Z	3.6.2
+0.100.0	named	org.projectnessie.nessie-integrations	nessie-gc-tool	2024-11-12T11:42:03Z	3.6.1
+2.7.1	named	org.apache.storm	blobstore-migrator	2024-11-18T17:04:35Z	3.6.1
+2.7.1	named	org.apache.storm	flux-examples	2024-11-18T17:09:36Z	3.6.1
+2.7.1	named	org.apache.storm	storm-starter	2024-11-18T17:13:28Z	3.6.1
+2.7.1	named	org.apache.storm	storm-hdfs-examples	2024-11-18T17:17:51Z	3.6.1
+2.7.1	named	org.apache.storm	storm-hive-examples	2024-11-18T17:21:07Z	3.6.1
+2.7.1	named	org.apache.storm	storm-perf	2024-11-18T17:24:26Z	3.6.1
+0.100.1	named	org.projectnessie.nessie-integrations	nessie-gc-tool	2024-11-19T21:13:19Z	3.6.1
+0.20.0	named	io.kestra.plugin	plugin-serdes	2024-12-03T12:45:15Z	3.6.1
+2.62.0	named	org.apache.beam	beam-examples-multi-language	2025-01-10T20:19:38Z	3.6.1
+2.62.0	named	org.apache.beam	beam-runners-samza-job-server	2025-01-10T20:46:59Z	3.6.1
+2.62.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-01-10T21:06:53Z	3.6.1
+2.62.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-01-10T21:14:57Z	3.6.1
+2.62.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-01-10T21:22:24Z	3.6.1
+2.62.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-01-10T21:52:44Z	3.6.1
+2.62.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-01-10T22:17:14Z	3.6.1
+2.62.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-01-10T22:23:07Z	3.6.1
+3.6.3	named	dnsjava	dnsjava	2025-01-26T14:13:28Z	3.6.3
+1.3.12	named	de.m3y.hadoop.hdfs.hfsa	hfsa-fsimage-generator	2025-02-03T22:06:44Z	3.6.1
+0.21.0	named	io.kestra.plugin	plugin-googleworkspace	2025-02-04T14:05:57Z	3.6.1
+0.21.0	named	io.kestra.plugin	plugin-serdes	2025-02-04T14:26:53Z	3.6.1
+2.63.0	named	org.apache.beam	beam-examples-multi-language	2025-02-11T21:40:16Z	3.6.1
+2.63.0	named	org.apache.beam	beam-runners-samza-job-server	2025-02-11T22:05:32Z	3.6.1
+2.63.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-02-11T22:19:16Z	3.6.1
+2.63.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-02-11T22:25:27Z	3.6.1
+2.63.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-02-11T22:31:03Z	3.6.1
+2.63.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-02-11T22:51:15Z	3.6.1
+2.63.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-02-11T23:08:26Z	3.6.1
+2.63.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-02-11T23:12:21Z	3.6.1
+2.6.2-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-02-14T16:25:24Z	3.6.1
+2.6.2-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-02-14T16:26:59Z	3.6.1
+2.5.11-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-02-18T02:19:55Z	3.6.1
+2.5.11-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-02-18T02:29:06Z	3.6.1
+0.21.1	named	io.kestra.plugin	plugin-googleworkspace	2025-02-21T13:40:53Z	3.6.1
+2.64.0	named	org.apache.beam	beam-examples-multi-language	2025-03-24T18:16:55Z	3.6.1
+2.64.0	named	org.apache.beam	beam-runners-samza-job-server	2025-03-24T18:42:06Z	3.6.1
+2.64.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-03-24T18:58:49Z	3.6.1
+2.64.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-03-24T19:05:41Z	3.6.1
+2.64.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-03-24T19:12:11Z	3.6.1
+2.64.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-03-24T19:38:19Z	3.6.1
+2.64.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-03-24T19:59:49Z	3.6.1
+2.64.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-03-24T20:05:05Z	3.6.1
+0.22.0	named	io.kestra.plugin	plugin-googleworkspace	2025-04-01T10:17:12Z	3.6.1
+0.22.0	named	io.kestra.plugin	plugin-serdes	2025-04-01T11:16:04Z	3.6.1
+0.22.1	named	io.kestra.plugin	plugin-serdes	2025-04-22T15:29:07Z	3.6.1
+0.22.2	named	io.kestra.plugin	plugin-serdes	2025-04-23T09:49:40Z	3.6.1
+2.65.0	named	org.apache.beam	beam-examples-multi-language	2025-05-06T20:46:55Z	3.6.1
+2.65.0	named	org.apache.beam	beam-runners-samza-job-server	2025-05-06T21:18:52Z	3.6.1
+2.65.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-05-06T21:34:00Z	3.6.1
+2.65.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-05-06T21:40:14Z	3.6.1
+2.65.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-05-06T21:46:19Z	3.6.1
+2.65.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-05-06T22:12:53Z	3.6.1
+2.65.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-05-06T22:33:56Z	3.6.1
+2.65.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-05-06T22:38:27Z	3.6.1
+2.2.4	named	com.alibaba.polardbx	polardbx-connector-java	2025-05-16T02:05:35Z	3.6.3
+2.2.5	named	com.alibaba.polardbx	polardbx-connector-java	2025-06-05T12:04:31Z	3.6.3
+0.23.0	named	io.kestra.plugin	plugin-googleworkspace	2025-06-17T12:19:18Z	3.6.1
+0.23.0	named	io.kestra.plugin	plugin-serdes	2025-06-17T13:35:59Z	3.6.1
+2.66.0	named	org.apache.beam	beam-examples-multi-language	2025-06-23T20:38:51Z	3.6.1
+2.66.0	named	org.apache.beam	beam-runners-samza-job-server	2025-06-23T21:05:46Z	3.6.1
+2.66.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-06-23T21:20:51Z	3.6.1
+2.66.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-06-23T21:27:51Z	3.6.1
+2.66.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-06-23T21:34:36Z	3.6.1
+2.66.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-06-23T21:58:38Z	3.6.1
+2.66.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-06-23T22:17:46Z	3.6.1
+2.66.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-06-23T22:22:55Z	3.6.1
+0.23.1	named	io.kestra.plugin	plugin-serdes	2025-06-25T15:37:57Z	3.6.1
+1.18.0	named	org.apache.kudu	kudu-backup-tools	2025-06-25T23:38:27Z	3.6.1
+1.18.0	named	org.apache.kudu	kudu-subprocess	2025-06-25T23:42:06Z	3.6.1
+0.23.2	named	io.kestra.plugin	plugin-serdes	2025-06-30T09:20:53Z	3.6.1
+2.6.3-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-07-10T16:38:58Z	3.6.1
+2.6.3-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-07-10T16:53:15Z	3.6.1
+2.5.12-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-07-18T21:12:53Z	3.6.1
+2.5.12-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-07-18T21:16:00Z	3.6.1
+2.2.6	named	com.alibaba.polardbx	polardbx-connector-java	2025-07-21T01:37:08Z	3.6.3
+2.2.7	named	com.alibaba.polardbx	polardbx-connector-java	2025-08-01T09:12:25Z	3.6.3
+0.24.0	named	io.kestra.plugin	plugin-serdes	2025-08-05T18:43:54Z	3.6.1
+0.24.0	named	io.kestra.plugin	plugin-googleworkspace	2025-08-05T18:44:56Z	3.6.1
+2.2.8	named	com.alibaba.polardbx	polardbx-connector-java	2025-08-06T09:49:53Z	3.6.3
+2.67.0	named	org.apache.beam	beam-examples-multi-language	2025-08-06T20:50:02Z	3.6.1
+2.67.0	named	org.apache.beam	beam-runners-samza-job-server	2025-08-06T21:19:02Z	3.6.1
+2.67.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-08-06T21:34:16Z	3.6.1
+2.67.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-08-06T21:40:44Z	3.6.1
+2.67.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-08-06T21:47:36Z	3.6.1
+2.67.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-08-06T22:09:08Z	3.6.1
+2.67.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-08-06T22:26:36Z	3.6.1
+2.67.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-08-06T22:32:05Z	3.6.1
+2.2.9	named	com.alibaba.polardbx	polardbx-connector-java	2025-09-02T01:46:59Z	3.6.3
+1.12.1	named	org.apache.avro	avro-tools	2025-09-05T20:07:34Z	3.6.1
+2.68.0	named	org.apache.beam	beam-examples-multi-language	2025-09-12T15:49:38Z	3.6.1
+2.68.0	named	org.apache.beam	beam-runners-samza-job-server	2025-09-12T16:28:27Z	3.6.1
+2.68.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-09-12T16:46:09Z	3.6.1
+2.68.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-09-12T16:49:35Z	3.6.1
+2.68.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-09-12T16:53:32Z	3.6.1
+2.68.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-09-12T17:19:08Z	3.6.1
+2.68.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-09-12T17:42:22Z	3.6.1
+2.68.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-09-12T17:46:16Z	3.6.1
+5.3.0	named	org.apache.phoenix	phoenix-client-embedded-hbase-2.5	2025-09-14T07:17:06Z	3.6.1
+5.3.0	named	org.apache.phoenix	phoenix-client-lite-hbase-2.5	2025-09-14T07:26:35Z	3.6.1
+5.3.0	named	org.apache.phoenix	phoenix-client-embedded-hbase-2.6	2025-09-14T07:50:46Z	3.6.1
+5.3.0	named	org.apache.phoenix	phoenix-client-lite-hbase-2.6	2025-09-14T08:00:34Z	3.6.1
+2.2.10	named	com.alibaba.polardbx	polardbx-connector-java	2025-09-16T03:00:12Z	3.6.3
+0.1.6	named	dev.redcoke	mcserverping	2025-10-18T15:36:53Z	3.6.0
+2.69.0	named	org.apache.beam	beam-examples-multi-language	2025-10-21T14:46:30Z	3.6.1
+2.69.0	named	org.apache.beam	beam-runners-samza-job-server	2025-10-21T15:09:06Z	3.6.1
+2.69.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-10-21T15:17:43Z	3.6.1
+2.69.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-10-21T15:20:03Z	3.6.1
+2.69.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-10-21T15:22:40Z	3.6.1
+2.69.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-10-21T15:46:07Z	3.6.1
+2.69.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-10-21T16:07:06Z	3.6.1
+2.69.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-10-21T16:11:06Z	3.6.1
+2.2.11	named	com.alibaba.polardbx	polardbx-connector-java	2025-10-28T03:28:08Z	3.6.3
+2.2.12	named	com.alibaba.polardbx	polardbx-connector-java	2025-10-28T15:13:44Z	3.6.3
+2.5.13-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-11-04T02:52:14Z	3.6.1
+2.5.13-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-11-04T02:55:48Z	3.6.1
+2.6.4-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2025-11-04T04:56:17Z	3.6.1
+2.6.4-hadoop3	named	org.apache.hbase	hbase-shaded-client	2025-11-04T04:58:58Z	3.6.1
+1.18.1	named	org.apache.kudu	kudu-backup-tools	2025-12-08T23:23:22Z	3.6.1
+1.18.1	named	org.apache.kudu	kudu-subprocess	2025-12-08T23:26:42Z	3.6.1
+2.70.0	named	org.apache.beam	beam-examples-multi-language	2025-12-11T16:53:47Z	3.6.1
+2.70.0	named	org.apache.beam	beam-runners-samza-job-server	2025-12-11T17:19:49Z	3.6.1
+2.70.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2025-12-11T17:29:52Z	3.6.1
+2.70.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2025-12-11T17:32:36Z	3.6.1
+2.70.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2025-12-11T17:35:00Z	3.6.1
+2.70.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2025-12-11T17:37:22Z	3.6.1
+2.70.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2025-12-11T17:57:16Z	3.6.1
+2.70.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2025-12-11T18:13:59Z	3.6.1
+2.70.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2025-12-11T18:17:41Z	3.6.1
+0.14.0	named	com.foilen	foilen-acilia	2025-12-19T16:17:04Z	3.6.3
+2.71.0	named	org.apache.beam	beam-examples-multi-language	2026-01-16T20:07:47Z	3.6.1
+2.71.0	named	org.apache.beam	beam-runners-samza-job-server	2026-01-16T20:52:40Z	3.6.1
+2.71.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2026-01-16T21:04:42Z	3.6.1
+2.71.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2026-01-16T21:08:26Z	3.6.1
+2.71.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2026-01-16T21:10:55Z	3.6.1
+2.71.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2026-01-16T21:13:37Z	3.6.1
+2.71.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-01-16T21:35:37Z	3.6.1
+2.71.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2026-01-16T21:55:14Z	3.6.1
+2.71.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2026-01-16T21:59:36Z	3.6.1
+3.6.4	named	dnsjava	dnsjava	2026-01-18T16:55:16Z	3.6.4
+1.2.13	named	com.clickzetta	clickzetta-java	2026-03-16T13:05:08Z	3.6.0
+3.0.28	named	com.clickzetta	clickzetta-igs	2026-03-20T07:47:41Z	3.6.0
+3.0.28	named	com.clickzetta	clickzetta-java	2026-03-20T07:47:41Z	3.6.0
+3.0.28	named	com.clickzetta	clickzetta-pipe	2026-03-20T07:47:41Z	3.6.0
+2.6.5-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-03-20T18:49:16Z	3.6.1
+2.6.5-hadoop3	named	org.apache.hbase	hbase-shaded-client	2026-03-20T18:58:14Z	3.6.1
+2.5.14-hadoop3	named	org.apache.hbase	hbase-shaded-client	2026-03-20T20:57:13Z	3.6.1
+2.5.14-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-03-20T21:02:49Z	3.6.1
+2.72.0	named	org.apache.beam	beam-examples-multi-language	2026-03-24T19:16:22Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-samza-job-server	2026-03-24T19:45:20Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2026-03-24T19:57:04Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2026-03-24T19:59:37Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2026-03-24T20:02:05Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2026-03-24T20:04:27Z	3.6.1
+2.72.0	named	org.apache.beam	beam-runners-flink-2.0-job-server	2026-03-24T20:06:56Z	3.6.1
+2.72.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-03-24T20:27:43Z	3.6.1
+2.72.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2026-03-24T20:45:27Z	3.6.1
+2.72.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2026-03-24T20:49:11Z	3.6.1
+2.2.13	named	com.alibaba.polardbx	polardbx-connector-java	2026-04-01T07:36:59Z	3.6.3
+2.2.14	named	com.alibaba.polardbx	polardbx-connector-java	2026-04-14T06:46:01Z	3.6.3
+1.2.14	named	com.clickzetta	clickzetta-java	2026-04-14T08:11:40Z	3.6.0
+3.0.29	named	com.clickzetta	clickzetta-igs	2026-04-16T10:32:33Z	3.6.0
+3.0.29	named	com.clickzetta	clickzetta-java	2026-04-16T10:32:33Z	3.6.0
+3.0.29	named	com.clickzetta	clickzetta-pipe	2026-04-16T10:32:33Z	3.6.0
+1.4.1	named	org.apache.paimon	paimon-s3-impl	2026-04-19T08:17:26Z	3.6.1
+1.4.1	named	org.apache.paimon	paimon-s3	2026-04-19T08:18:30Z	3.6.1
+1.4.1	named	org.apache.paimon	paimon-azure-impl	2026-04-19T08:21:02Z	3.6.1
+1.4.1	named	org.apache.paimon	paimon-azure	2026-04-19T08:21:32Z	3.6.1
+2.73.0	named	org.apache.beam	beam-examples-multi-language	2026-04-23T15:08:06Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-samza-job-server	2026-04-23T15:42:07Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-flink-1.17-job-server	2026-04-23T15:52:19Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-flink-1.18-job-server	2026-04-23T15:54:25Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2026-04-23T15:56:27Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2026-04-23T15:58:22Z	3.6.1
+2.73.0	named	org.apache.beam	beam-runners-flink-2.0-job-server	2026-04-23T16:00:07Z	3.6.1
+2.73.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-04-23T16:18:47Z	3.6.1
+2.73.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2026-04-23T16:35:07Z	3.6.1
+2.73.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2026-04-23T16:38:26Z	3.6.1
+2.5.0	named	org.apache.atlas	hbase-shaded-client-fixed	2026-04-30T10:29:22Z	3.6.1
+1.4.0	named	de.m3y.hadoop.hdfs.hfsa	hfsa-fsimage-generator	2026-05-15T21:59:26Z	3.6.1

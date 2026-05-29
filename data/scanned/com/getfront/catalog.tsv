@@ -1,0 +1,8 @@
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-beta01/catalog-1.0.0-beta01.jar returned status 404
+1.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-beta02/catalog-1.0.0-beta02.jar returned status 404
+1.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-beta03/catalog-1.0.0-beta03.jar returned status 404
+1.0.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-beta04/catalog-1.0.0-beta04.jar returned status 404
+1.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-rc01/catalog-1.0.0-rc01.jar returned status 404
+1.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.0-rc02/catalog-1.0.0-rc02.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.1/catalog-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfront/catalog/1.0.2/catalog-1.0.2.jar returned status 404

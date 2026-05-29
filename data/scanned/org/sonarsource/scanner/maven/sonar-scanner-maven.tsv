@@ -1,0 +1,6 @@
+5.1.0.4751			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.1.0.4751/sonar-scanner-maven-5.1.0.4751.jar returned status 404
+5.2.0.4988			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.2.0.4988/sonar-scanner-maven-5.2.0.4988.jar returned status 404
+5.3.0.6276			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.3.0.6276/sonar-scanner-maven-5.3.0.6276.jar returned status 404
+5.4.0.6343			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.4.0.6343/sonar-scanner-maven-5.4.0.6343.jar returned status 404
+5.5.0.6356			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.5.0.6356/sonar-scanner-maven-5.5.0.6356.jar returned status 404
+5.6.0.6792			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scanner/maven/sonar-scanner-maven/5.6.0.6792/sonar-scanner-maven-5.6.0.6792.jar returned status 404

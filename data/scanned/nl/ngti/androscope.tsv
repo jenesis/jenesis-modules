@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/ngti/androscope/1.0/androscope-1.0.jar returned status 404
+1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/ngti/androscope/1.0-RC2/androscope-1.0-RC2.jar returned status 404
+1.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/ngti/androscope/1.0-RC3/androscope-1.0-RC3.jar returned status 404
+1.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/ngti/androscope/1.0-RC4/androscope-1.0-RC4.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/ngti/androscope/1.1/androscope-1.1.jar returned status 404

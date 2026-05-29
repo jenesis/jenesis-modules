@@ -1,0 +1,54 @@
+5.15.0		2022-09-12T13:16:50Z	
+5.15.1		2022-09-14T08:41:23Z	
+5.15.2		2022-09-17T06:56:01Z	
+5.15.3		2022-09-21T08:57:27Z	
+5.16.0		2022-10-05T11:53:05Z	
+5.16.1		2022-10-10T09:39:52Z	
+5.16.2		2022-10-23T09:04:31Z	
+5.17.0		2022-11-01T16:09:32Z	
+5.18.0		2022-11-26T07:20:49Z	
+5.18.1		2022-12-01T15:14:01Z	
+5.18.2		2023-03-31T16:18:51Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.0/kvision-server-ktor-koin-js-6.0.0.jar returned status 404
+6.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.0-Beta/kvision-server-ktor-koin-js-6.0.0-Beta.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.1/kvision-server-ktor-koin-js-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.2/kvision-server-ktor-koin-js-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.3/kvision-server-ktor-koin-js-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.4/kvision-server-ktor-koin-js-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.5/kvision-server-ktor-koin-js-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.0.6/kvision-server-ktor-koin-js-6.0.6.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.1.0/kvision-server-ktor-koin-js-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.1.1/kvision-server-ktor-koin-js-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.1.2/kvision-server-ktor-koin-js-6.1.2.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.2.0/kvision-server-ktor-koin-js-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.2.1/kvision-server-ktor-koin-js-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.2.2/kvision-server-ktor-koin-js-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.2.3/kvision-server-ktor-koin-js-6.2.3.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.3.0/kvision-server-ktor-koin-js-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.3.1/kvision-server-ktor-koin-js-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.3.2/kvision-server-ktor-koin-js-6.3.2.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.4.0/kvision-server-ktor-koin-js-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.5.0/kvision-server-ktor-koin-js-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.5.1/kvision-server-ktor-koin-js-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.5.2/kvision-server-ktor-koin-js-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/6.6.0/kvision-server-ktor-koin-js-6.6.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.0.0/kvision-server-ktor-koin-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.0.1/kvision-server-ktor-koin-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.1.0/kvision-server-ktor-koin-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.2.0/kvision-server-ktor-koin-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.3.0/kvision-server-ktor-koin-js-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.3.1/kvision-server-ktor-koin-js-7.3.1.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.0/kvision-server-ktor-koin-js-7.4.0.jar returned status 404
+7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.1/kvision-server-ktor-koin-js-7.4.1.jar returned status 404
+7.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.2/kvision-server-ktor-koin-js-7.4.2.jar returned status 404
+7.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.3/kvision-server-ktor-koin-js-7.4.3.jar returned status 404
+7.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.4/kvision-server-ktor-koin-js-7.4.4.jar returned status 404
+7.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.4.5/kvision-server-ktor-koin-js-7.4.5.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.5.0/kvision-server-ktor-koin-js-7.5.0.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/7.5.1/kvision-server-ktor-koin-js-7.5.1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.0.0/kvision-server-ktor-koin-js-8.0.0.jar returned status 404
+8.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.0.0-RC/kvision-server-ktor-koin-js-8.0.0-RC.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.0.1/kvision-server-ktor-koin-js-8.0.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.1.0/kvision-server-ktor-koin-js-8.1.0.jar returned status 404
+8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.1.1/kvision-server-ktor-koin-js-8.1.1.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-ktor-koin-js/8.2.0/kvision-server-ktor-koin-js-8.2.0.jar returned status 404

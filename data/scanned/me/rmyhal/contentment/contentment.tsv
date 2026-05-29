@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/rmyhal/contentment/contentment/1.0.0/contentment-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/rmyhal/contentment/contentment/2.0.0/contentment-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/rmyhal/contentment/contentment/2.0.1/contentment-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/rmyhal/contentment/contentment/2.0.2/contentment-2.0.2.jar returned status 404

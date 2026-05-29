@@ -1,0 +1,4 @@
+1.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/qbittorrent-client-mingwx64/1.0.0-rc01/qbittorrent-client-mingwx64-1.0.0-rc01.jar returned status 404
+1.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/qbittorrent-client-mingwx64/1.0.0-rc02/qbittorrent-client-mingwx64-1.0.0-rc02.jar returned status 404
+1.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/qbittorrent-client-mingwx64/1.1.0-alpha01/qbittorrent-client-mingwx64-1.1.0-alpha01.jar returned status 404
+1.1.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/qbittorrent-client-mingwx64/1.1.0-alpha02/qbittorrent-client-mingwx64-1.1.0-alpha02.jar returned status 404

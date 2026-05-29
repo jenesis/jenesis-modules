@@ -1,0 +1,5 @@
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/eqoty/secretk/client-wasm-js/7.0.0/client-wasm-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/eqoty/secretk/client-wasm-js/7.0.1/client-wasm-js-7.0.1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/eqoty/secretk/client-wasm-js/7.0.2/client-wasm-js-7.0.2.jar returned status 404
+7.0.2-2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/eqoty/secretk/client-wasm-js/7.0.2-2.3.10/client-wasm-js-7.0.2-2.3.10.jar returned status 404
+7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/eqoty/secretk/client-wasm-js/7.0.3/client-wasm-js-7.0.3.jar returned status 404

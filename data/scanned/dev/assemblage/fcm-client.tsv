@@ -1,0 +1,8 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/1.0.0/fcm-client-1.0.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/2.2.0/fcm-client-2.2.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/3.0.0/fcm-client-3.0.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/4.0.0/fcm-client-4.0.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/5.0.0/fcm-client-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/5.1.0/fcm-client-5.1.0.jar returned status 404
+5.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/5.2.0-beta/fcm-client-5.2.0-beta.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/assemblage/fcm-client/5.2.1/fcm-client-5.2.1.jar returned status 404

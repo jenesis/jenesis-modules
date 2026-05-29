@@ -1,0 +1,5 @@
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/instancio/instancio-parent/5.5.0/instancio-parent-5.5.0.jar returned status 404
+5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/instancio/instancio-parent/5.5.1/instancio-parent-5.5.1.jar returned status 404
+6.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/instancio/instancio-parent/6.0.0-RC1/instancio-parent-6.0.0-RC1.jar returned status 404
+6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/instancio/instancio-parent/6.0.0-RC2/instancio-parent-6.0.0-RC2.jar returned status 404
+6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/instancio/instancio-parent/6.0.0-RC3/instancio-parent-6.0.0-RC3.jar returned status 404

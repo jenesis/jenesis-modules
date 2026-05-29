@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kh/com/ipay88/sdk/ipay88-android-sdk/1.0.0/ipay88-android-sdk-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kh/com/ipay88/sdk/ipay88-android-sdk/1.0.1/ipay88-android-sdk-1.0.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kh/com/ipay88/sdk/ipay88-android-sdk/2.0.0/ipay88-android-sdk-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kh/com/ipay88/sdk/ipay88-android-sdk/2.0.1/ipay88-android-sdk-2.0.1.jar returned status 404

@@ -1,0 +1,56 @@
+0.0.1	named	io.github.noobdogcloud	SDK	2022-07-05T05:01:06Z	
+0.12.0	named	org.odftoolkit	odfdom-java	2023-12-21T16:37:28Z	
+0.12.0	named	org.odftoolkit	xslt-runner	2023-12-21T16:40:20Z	
+0.12.0	named	org.odftoolkit	odfvalidator	2023-12-21T16:43:04Z	
+0.52.0	named	com.gitlab.cdc-java.office	cdc-office-tools	2024-01-01T17:55:03Z	
+0.53.0	named	com.gitlab.cdc-java.office	cdc-office-tools	2024-01-21T14:12:53Z	
+0.54.0	named	com.gitlab.cdc-java.office	cdc-office-tools	2024-03-10T16:35:23Z	
+0.55.0	named	com.gitlab.cdc-java.office	cdc-office-tools	2024-05-18T20:48:10Z	
+0.55.1	named	com.gitlab.cdc-java.office	cdc-office-tools	2024-05-25T10:38:33Z	
+2.2.0	named	org.openprovenance.prov	prov-sparql-query	2024-10-04T14:11:49Z	
+2.2.1	named	org.openprovenance.prov	prov-sparql-query	2024-10-22T13:36:27Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-rml-adapter	2024-12-19T10:32:10Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-version-materialiser	2024-12-19T10:32:35Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-console-out	2024-12-19T10:32:41Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-skolemisation-transformer	2024-12-19T10:32:47Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-json-to-ld-adapter	2024-12-19T10:32:48Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-rdf-adapter	2024-12-19T10:32:49Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-version-object-creator	2024-12-19T10:33:01Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-connectors	2024-12-19T10:33:02Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-archive-file-in	2024-12-19T10:33:07Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-file-out	2024-12-19T10:33:11Z	
+2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-noop-out	2024-12-19T10:33:12Z	
+1.0.4	named	io.zeebe.redis	zeebe-redis-exporter	2025-05-21T10:01:31Z	
+1.0.5	named	io.zeebe.redis	zeebe-redis-exporter	2025-05-22T15:01:48Z	
+1.0.6	named	io.zeebe.redis	zeebe-redis-exporter	2025-05-23T12:27:08Z	
+1.0.7	named	io.zeebe.redis	zeebe-redis-exporter	2025-05-23T13:41:13Z	
+1.0.8	named	io.zeebe.redis	zeebe-redis-exporter	2025-05-28T06:26:14Z	
+3.1.0	named	org.igniterealtime.whack	sample.weather	2025-06-10T20:18:41Z	3.2.0
+3.1.0	named	org.igniterealtime.whack	sample.weatherabstract	2025-06-10T20:18:41Z	3.2.0
+2.0.1	named	nl.goodbytes.xmpp.xep	httpfileuploadcomponent	2025-06-10T20:34:02Z	3.2.0
+1.0.9-rc1	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-11T12:53:42Z	
+1.0.9-rc2	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-11T14:03:50Z	
+1.0.9-rc3	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-11T14:08:20Z	
+1.0.9-rc4	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-12T07:58:12Z	
+1.0.9-rc5	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-12T09:15:38Z	
+1.0.9-rc6	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-12T14:59:12Z	
+1.0.9-rc7	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-13T09:02:31Z	
+1.1.0	named	io.zeebe.redis	zeebe-redis-exporter	2025-06-13T11:08:39Z	
+2.0.0	named	io.zeebe.redis	zeebe-redis-exporter	2025-07-15T08:08:14Z	
+1.0-M0	named	io.tileverse.pmtiles	tileverse-cli	2025-07-25T04:21:36Z	3.2.1
+2.0.1	named	io.zeebe.redis	zeebe-redis-exporter	2025-08-14T12:05:54Z	
+2.1.0	named	io.zeebe.redis	zeebe-redis-exporter	2025-08-22T12:33:20Z	
+3.0.0	named	io.zeebe.redis	zeebe-redis-exporter	2025-10-23T14:08:08Z	3.2.2
+4.1.0	named	io.pebbletemplates	pebble	2025-12-11T20:04:19Z	3.2.3
+2.2.2	named	org.openprovenance.prov	prov-sparql-query	2025-12-15T13:21:26Z	
+0.13.0	named	org.odftoolkit	odfdom-java	2026-01-23T17:42:43Z	
+0.13.0	named	org.odftoolkit	odfvalidator	2026-01-23T17:42:43Z	
+0.13.0	named	org.odftoolkit	xslt-runner	2026-01-23T17:42:43Z	
+3.0.1	named	io.zeebe.redis	zeebe-redis-exporter	2026-02-04T12:12:58Z	3.2.3
+4.1.1	named	io.pebbletemplates	pebble	2026-02-04T14:39:37Z	3.2.3
+1.4.4	named	net.wirelabs	jmaps-example	2026-02-21T09:49:36Z	
+2.2.3	named	org.openprovenance.prov	prov-sparql-query	2026-03-16T11:14:04Z	
+1.0.0	named	com.janeluo	luban-rds-bin	2026-03-16T13:42:20Z	3.2.3
+1.0.1	named	com.janeluo	luban-rds-bin	2026-03-27T06:57:49Z	3.2.3
+4.0.0-beta.2	named	org.apache.tinkerpop	gremlin-test	2026-04-02T21:04:34Z	3.2.3
+1.4.5	named	net.wirelabs	jmaps-example	2026-04-08T12:35:28Z	

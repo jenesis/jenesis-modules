@@ -1,0 +1,4 @@
+0.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/specformula/specformula/0.0.1-beta/specformula-0.0.1-beta.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/specformula/specformula/0.0.2/specformula-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/specformula/specformula/0.0.3/specformula-0.0.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/specformula/specformula/1.0.0/specformula-1.0.0.jar returned status 404

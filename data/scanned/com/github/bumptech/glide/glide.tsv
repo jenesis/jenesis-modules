@@ -1,0 +1,38 @@
+3.3.0		2014-09-02T00:11:46Z	
+3.3.1		2014-09-14T22:53:42Z	
+3.4.0		2014-11-07T16:23:35Z	
+3.5.0		2015-01-25T22:04:23Z	
+3.5.1		2015-01-30T02:41:11Z	
+3.5.2		2015-02-22T17:39:56Z	
+3.6.0		2015-05-01T18:49:05Z	
+3.6.1		2015-06-28T20:51:36Z	
+3.7.0		2016-01-24T21:39:23Z	
+3.8.0		2017-05-03T14:33:20Z	
+4.0.0		2017-08-01T15:35:54Z	
+4.0.0-RC0		2017-05-18T04:15:21Z	
+4.0.0-RC1		2017-06-21T14:27:20Z	
+4.1.0		2017-09-01T14:13:57Z	
+4.1.1		2017-09-05T14:19:20Z	
+4.10.0		2019-09-18T17:48:34Z	
+4.11.0		2020-01-08T21:03:06Z	
+4.12.0		2021-01-29T23:25:40Z	
+4.13.0		2022-02-08T00:35:03Z	
+4.13.1		2022-02-23T19:01:45Z	
+4.13.2		2022-05-04T20:51:41Z	
+4.14.0		2022-09-28T17:40:26Z	
+4.14.1		2022-09-29T23:51:10Z	
+4.14.2		2022-10-07T19:25:03Z	
+4.15.0		2023-02-24T18:24:48Z	
+4.15.1		2023-03-13T18:55:40Z	
+4.16.0		2023-08-21T05:18:44Z	
+4.2.0		2017-10-03T14:43:07Z	
+4.3.0		2017-10-31T14:40:47Z	
+4.3.1		2017-11-06T19:57:47Z	
+4.4.0		2017-12-04T16:39:13Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.0/glide-5.0.0.jar returned status 404
+5.0.0-rc01		2023-09-26T16:50:29Z	
+5.0.0-rc05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.0-rc05/glide-5.0.0-rc05.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.3/glide-5.0.3.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.4/glide-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.5/glide-5.0.5.jar returned status 404
+5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.7/glide-5.0.7.jar returned status 404

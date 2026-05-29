@@ -1,0 +1,3 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/baac/cloud/bom-base/1.0/bom-base-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/baac/cloud/bom-base/1.1/bom-base-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/baac/cloud/bom-base/1.2/bom-base-1.2.jar returned status 404

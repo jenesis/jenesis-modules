@@ -1,0 +1,13 @@
+$VERSION_INFIX.$VERSION_FIX			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/$VERSION_INFIX.$VERSION_FIX/lib_widget-$VERSION_INFIX.$VERSION_FIX.jar returned status 404
+${VERSION_FUll}			IllegalArgumentException: Illegal character in path at index 31: io/github/dango-dx/lib_widget/${VERSION_FUll}/lib_widget-${VERSION_FUll}.jar
+${VERSION_INFIX}.${VERSION_FIX}			IllegalArgumentException: Illegal character in path at index 31: io/github/dango-dx/lib_widget/${VERSION_INFIX}.${VERSION_FIX}/lib_widget-${VERSION_INFIX}.${VERSION_FIX}.jar
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.0.0/lib_widget-1.0.0.jar returned status 404
+1.0.0.0004			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.0.0.0004/lib_widget-1.0.0.0004.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.0.1/lib_widget-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.0.2/lib_widget-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.0/lib_widget-1.1.0.jar returned status 404
+1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.11/lib_widget-1.1.11.jar returned status 404
+1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.12/lib_widget-1.1.12.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.4/lib_widget-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.5/lib_widget-1.1.5.jar returned status 404
+1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dango-dx/lib_widget/1.1.9/lib_widget-1.1.9.jar returned status 404

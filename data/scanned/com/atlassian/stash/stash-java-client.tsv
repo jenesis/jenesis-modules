@@ -1,0 +1,4 @@
+2.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/stash/stash-java-client/2.3.11/stash-java-client-2.3.11.jar returned status 404
+2.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/stash/stash-java-client/2.3.12/stash-java-client-2.3.12.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/stash/stash-java-client/3.0.0/stash-java-client-3.0.0.jar returned status 404
+3.0.0-60876ce			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/stash/stash-java-client/3.0.0-60876ce/stash-java-client-3.0.0-60876ce.jar returned status 404

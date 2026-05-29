@@ -1,0 +1,44 @@
+0.1.0-prerelease.0.87+20210909T051037Z			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.1.0-prerelease.0.87+20210909T051037Z/client-macosx64-0.1.0-prerelease.0.87+20210909T051037Z.jar returned status 404
+0.1.0-prerelease.0.87+20210909T051037Z	metadata	2021-09-09T05:11:47Z	
+0.1.0-prerelease.0.87+20210909T051757Z			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.1.0-prerelease.0.87+20210909T051757Z/client-macosx64-0.1.0-prerelease.0.87+20210909T051757Z.jar returned status 404
+0.1.0-prerelease.0.87+20210909T051757Z	metadata	2021-09-09T05:19:22Z	
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.1.2/client-macosx64-0.1.2.jar returned status 404
+0.1.2	metadata	2021-09-11T08:16:18Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.2.0/client-macosx64-0.2.0.jar returned status 404
+0.2.0	metadata	2022-07-26T00:45:00Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.3.0/client-macosx64-0.3.0.jar returned status 404
+0.3.0	metadata	2022-07-26T08:57:17Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.4.0/client-macosx64-0.4.0.jar returned status 404
+0.4.0	metadata	2022-07-26T10:46:17Z	
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.4.1/client-macosx64-0.4.1.jar returned status 404
+0.4.1	metadata	2022-08-09T02:23:08Z	
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.4.2/client-macosx64-0.4.2.jar returned status 404
+0.4.2	metadata	2022-08-09T03:39:49Z	
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.5.0/client-macosx64-0.5.0.jar returned status 404
+0.5.0	metadata	2022-08-09T06:18:26Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.6.0/client-macosx64-0.6.0.jar returned status 404
+0.6.0	metadata	2022-08-18T11:51:14Z	
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.6.1/client-macosx64-0.6.1.jar returned status 404
+0.6.1	metadata	2022-09-02T06:06:51Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.7.0/client-macosx64-0.7.0.jar returned status 404
+0.7.0	metadata	2022-09-05T04:30:21Z	
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.7.1/client-macosx64-0.7.1.jar returned status 404
+0.7.1	metadata	2022-09-06T04:19:51Z	
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.1/client-macosx64-0.8.1.jar returned status 404
+0.8.1	metadata	2022-09-21T06:46:40Z	
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.2/client-macosx64-0.8.2.jar returned status 404
+0.8.2	metadata	2022-11-27T02:24:49Z	
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.3/client-macosx64-0.8.3.jar returned status 404
+0.8.3	metadata	2022-12-17T07:19:45Z	
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.4/client-macosx64-0.8.4.jar returned status 404
+0.8.4	metadata	2023-01-29T10:32:58Z	
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.5/client-macosx64-0.8.5.jar returned status 404
+0.8.5	metadata	2023-02-25T23:20:37Z	
+0.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.6/client-macosx64-0.8.6.jar returned status 404
+0.8.6	metadata	2023-03-12T05:02:22Z	
+0.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.8/client-macosx64-0.8.8.jar returned status 404
+0.8.8	metadata	2023-06-04T21:40:13Z	
+0.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/0.8.9/client-macosx64-0.8.9.jar returned status 404
+0.8.9	metadata	2023-06-13T00:17:28Z	
+unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/batect/docker/client-macosx64/unspecified/client-macosx64-unspecified.jar returned status 404
+unspecified	metadata	2023-06-04T08:00:14Z	

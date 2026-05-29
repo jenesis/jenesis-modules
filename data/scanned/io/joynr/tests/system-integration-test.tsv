@@ -1,0 +1,14 @@
+0.17.0		2016-04-27T15:24:08Z	
+0.17.1		2016-04-28T15:21:58Z	
+0.17.2		2016-05-02T10:49:08Z	
+0.18.0		2016-06-03T07:37:33Z	
+0.18.1		2016-06-03T09:16:58Z	
+0.18.2		2016-06-07T15:22:38Z	
+0.18.3		2016-06-21T14:27:25Z	
+0.18.4		2016-06-30T09:03:48Z	
+0.18.5		2016-07-18T10:42:20Z	
+1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/1.24.6/system-integration-test-1.24.6.jar returned status 404
+1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/1.24.7/system-integration-test-1.24.7.jar returned status 404
+1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/1.26.3/system-integration-test-1.26.3.jar returned status 404
+1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/1.26.4/system-integration-test-1.26.4.jar returned status 404
+1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/1.26.5/system-integration-test-1.26.5.jar returned status 404

@@ -1,0 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.0.0/nostr-java-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.0.1/nostr-java-1.0.1.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.2.1/nostr-java-1.2.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.0/nostr-java-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.1/nostr-java-2.0.1.jar returned status 404

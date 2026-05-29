@@ -1,0 +1,6 @@
+2.0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.0.3.0/s3-extension-2.0.3.0.jar returned status 404
+2.0.3.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.0.3.0-RC/s3-extension-2.0.3.0-RC.jar returned status 404
+2.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.0.3.1/s3-extension-2.0.3.1.jar returned status 404
+2.1.0.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.1.0.0-BETA/s3-extension-2.1.0.0-BETA.jar returned status 404
+2.1.0.1-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.1.0.1-BETA/s3-extension-2.1.0.1-BETA.jar returned status 404
+2.1.0.2-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/s3-extension/2.1.0.2-BETA/s3-extension-2.1.0.2-BETA.jar returned status 404

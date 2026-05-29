@@ -1,0 +1,13 @@
+2.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/2.0.39/parent-2.0.39.jar returned status 404
+2.0.39-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/2.0.39-beta/parent-2.0.39-beta.jar returned status 404
+3.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/3.0.0-beta/parent-3.0.0-beta.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/3.0.1/parent-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/3.0.2/parent-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/3.0.3/parent-3.0.3.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/4.0.0/parent-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/4.0.1/parent-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/4.0.2/parent-4.0.2.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/5.0.0/parent-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/5.0.1/parent-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/5.0.2/parent-5.0.2.jar returned status 404
+5.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/parent/5.0.3-beta/parent-5.0.3-beta.jar returned status 404

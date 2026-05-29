@@ -1,0 +1,8 @@
+3.0.0		2016-02-02T14:34:16Z	
+3.1.0		2017-11-06T10:45:49Z	
+3.1.0-RC		2017-09-16T14:09:06Z	
+3.1.1		2017-11-06T14:10:18Z	
+3.1.2-RC		2020-02-03T16:36:22Z	
+3.2.0		2020-02-04T16:11:56Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/greenrobot/eventbus/3.3.0/eventbus-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/greenrobot/eventbus/3.3.1/eventbus-3.3.1.jar returned status 404

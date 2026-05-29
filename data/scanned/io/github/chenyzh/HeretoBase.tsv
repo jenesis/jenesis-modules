@@ -1,0 +1,3 @@
+1.1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenyzh/HeretoBase/1.1.0.2/HeretoBase-1.1.0.2.jar returned status 404
+1.1.0.2-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenyzh/HeretoBase/1.1.0.2-snapshot/HeretoBase-1.1.0.2-snapshot.jar returned status 404
+1.1.0.3-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenyzh/HeretoBase/1.1.0.3-snapshot/HeretoBase-1.1.0.3-snapshot.jar returned status 404

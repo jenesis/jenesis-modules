@@ -1,0 +1,5 @@
+1.0.9-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/1.0.9-rc4/root-1.0.9-rc4.jar returned status 404
+1.0.9-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/1.0.9-rc5/root-1.0.9-rc5.jar returned status 404
+1.0.9-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/1.0.9-rc6/root-1.0.9-rc6.jar returned status 404
+1.0.9-rc7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/1.0.9-rc7/root-1.0.9-rc7.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/1.1.0/root-1.1.0.jar returned status 404

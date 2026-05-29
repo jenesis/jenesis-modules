@@ -1,0 +1,5 @@
+0.0.34-beta		2025-06-12T21:31:03Z	
+0.0.35-beta		2025-06-19T18:21:49Z	
+0.0.36-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flamingock/flamingock-ce-bom/0.0.36-beta/flamingock-ce-bom-0.0.36-beta.jar returned status 404
+0.0.37-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flamingock/flamingock-ce-bom/0.0.37-beta/flamingock-ce-bom-0.0.37-beta.jar returned status 404
+0.0.38-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flamingock/flamingock-ce-bom/0.0.38-beta/flamingock-ce-bom-0.0.38-beta.jar returned status 404

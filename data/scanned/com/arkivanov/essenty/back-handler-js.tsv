@@ -1,0 +1,54 @@
+0.10.0		2023-01-21T18:23:02Z	
+0.5.0		2022-08-02T23:05:53Z	
+0.5.1		2022-08-03T21:08:12Z	
+0.5.2		2022-08-04T21:38:18Z	
+0.6.0		2022-08-20T20:02:40Z	
+0.7.0		2022-12-15T21:45:19Z	
+0.7.1		2022-12-25T15:41:57Z	
+0.8.0		2023-01-01T16:54:39Z	
+0.9.0		2023-01-13T19:03:22Z	
+1.0.0		2023-02-02T09:56:58Z	
+1.1.0		2023-04-13T20:54:30Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.2.0/back-handler-js-1.2.0.jar returned status 404
+1.2.0-alpha-01		2023-05-28T15:50:57Z	
+1.2.0-alpha-02		2023-06-08T21:10:44Z	
+1.2.0-alpha-03		2023-06-30T21:11:31Z	
+1.2.0-alpha-04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.2.0-alpha-04/back-handler-js-1.2.0-alpha-04.jar returned status 404
+1.2.0-alpha-05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.2.0-alpha-05/back-handler-js-1.2.0-alpha-05.jar returned status 404
+1.2.0-alpha-06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.2.0-alpha-06/back-handler-js-1.2.0-alpha-06.jar returned status 404
+1.2.0-beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.2.0-beta-01/back-handler-js-1.2.0-beta-01.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0/back-handler-js-1.3.0.jar returned status 404
+1.3.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-alpha01/back-handler-js-1.3.0-alpha01.jar returned status 404
+1.3.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-alpha02/back-handler-js-1.3.0-alpha02.jar returned status 404
+1.3.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-alpha03/back-handler-js-1.3.0-alpha03.jar returned status 404
+1.3.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-alpha04/back-handler-js-1.3.0-alpha04.jar returned status 404
+1.3.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-beta01/back-handler-js-1.3.0-beta01.jar returned status 404
+1.3.0-dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-dev01/back-handler-js-1.3.0-dev01.jar returned status 404
+1.3.0-dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/1.3.0-dev02/back-handler-js-1.3.0-dev02.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0/back-handler-js-2.0.0.jar returned status 404
+2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha01/back-handler-js-2.0.0-alpha01.jar returned status 404
+2.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha02/back-handler-js-2.0.0-alpha02.jar returned status 404
+2.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha03/back-handler-js-2.0.0-alpha03.jar returned status 404
+2.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha04/back-handler-js-2.0.0-alpha04.jar returned status 404
+2.0.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha05/back-handler-js-2.0.0-alpha05.jar returned status 404
+2.0.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha06/back-handler-js-2.0.0-alpha06.jar returned status 404
+2.0.0-alpha07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-alpha07/back-handler-js-2.0.0-alpha07.jar returned status 404
+2.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-beta01/back-handler-js-2.0.0-beta01.jar returned status 404
+2.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-beta02/back-handler-js-2.0.0-beta02.jar returned status 404
+2.0.0-dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-dev01/back-handler-js-2.0.0-dev01.jar returned status 404
+2.0.0-dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-dev02/back-handler-js-2.0.0-dev02.jar returned status 404
+2.0.0-dev03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-dev03/back-handler-js-2.0.0-dev03.jar returned status 404
+2.0.0-dev04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.0.0-dev04/back-handler-js-2.0.0-dev04.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.1.0/back-handler-js-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0/back-handler-js-2.2.0.jar returned status 404
+2.2.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0-alpha01/back-handler-js-2.2.0-alpha01.jar returned status 404
+2.2.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0-alpha02/back-handler-js-2.2.0-alpha02.jar returned status 404
+2.2.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0-alpha03/back-handler-js-2.2.0-alpha03.jar returned status 404
+2.2.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0-alpha04/back-handler-js-2.2.0-alpha04.jar returned status 404
+2.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.0-beta01/back-handler-js-2.2.0-beta01.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.2.1/back-handler-js-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.3.0/back-handler-js-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.4.0/back-handler-js-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.5.0/back-handler-js-2.5.0.jar returned status 404
+2.5.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.5.0-alpha01/back-handler-js-2.5.0-alpha01.jar returned status 404
+2.5.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/essenty/back-handler-js/2.5.0-beta01/back-handler-js-2.5.0-beta01.jar returned status 404

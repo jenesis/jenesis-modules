@@ -1,0 +1,10 @@
+0.12.0		2020-05-26T10:33:09Z	
+0.13.0		2020-08-27T07:53:54Z	
+0.14.0		2020-11-14T13:03:45Z	
+0.14.0.RC1		2020-10-30T09:26:48Z	
+0.15.0		2020-12-23T15:33:58Z	
+0.16.0		2021-03-30T17:33:46Z	
+0.17.0		2021-10-26T19:55:18Z	
+0.17.0-RC1		2021-07-13T19:47:19Z	
+0.18.0		2022-04-25T19:39:07Z	
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/atrium/atrium-infix-en_GB/1.0.0-RC1/atrium-infix-en_GB-1.0.0-RC1.jar returned status 404

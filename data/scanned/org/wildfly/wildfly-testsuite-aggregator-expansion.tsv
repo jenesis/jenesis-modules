@@ -1,0 +1,4 @@
+37.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-testsuite-aggregator-expansion/37.0.0.Beta1/wildfly-testsuite-aggregator-expansion-37.0.0.Beta1.jar returned status 404
+37.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-testsuite-aggregator-expansion/37.0.0.Final/wildfly-testsuite-aggregator-expansion-37.0.0.Final.jar returned status 404
+37.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-testsuite-aggregator-expansion/37.0.1.Final/wildfly-testsuite-aggregator-expansion-37.0.1.Final.jar returned status 404
+38.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-testsuite-aggregator-expansion/38.0.0.Beta1/wildfly-testsuite-aggregator-expansion-38.0.0.Beta1.jar returned status 404

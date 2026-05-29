@@ -1,0 +1,4 @@
+1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/netgrid/bauer/1.1.13/bauer-1.1.13.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/netgrid/bauer/1.2.0/bauer-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/netgrid/bauer/1.2.1/bauer-1.2.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/netgrid/bauer/2.0.0/bauer-2.0.0.jar returned status 404

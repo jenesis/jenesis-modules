@@ -1,0 +1,42 @@
+1.6.0-5-api		2023-01-25T17:08:48Z	
+1.6.0-5-api	all	2023-01-25T17:08:49Z	
+1.6.0-api		2023-01-21T17:42:37Z	
+1.6.0-api	all	2023-01-21T17:43:14Z	
+1.6.0-beta-11-api		2023-01-23T20:14:05Z	
+1.6.0-beta-11-api	all	2023-01-23T20:14:08Z	
+1.6.0-dev-6-api		2023-01-22T17:40:55Z	
+1.6.0-dev-6-api	all	2023-01-22T17:40:56Z	
+1.6.4-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/skillw/pouvoir/Pouvoir/1.6.4-6/Pouvoir-1.6.4-6.jar returned status 404
+1.6.4-6	api	2023-08-09T23:22:00Z	
+1.6.4-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/skillw/pouvoir/Pouvoir/1.6.4-7/Pouvoir-1.6.4-7.jar returned status 404
+1.6.4-7	api	2023-08-10T10:08:24Z	
+1.6.4-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/skillw/pouvoir/Pouvoir/1.6.4-8/Pouvoir-1.6.4-8.jar returned status 404
+1.6.4-8	api	2023-08-10T14:34:50Z	
+1.6.5-4		2023-08-20T15:47:51Z	
+1.6.5-4	all	2023-08-20T15:47:57Z	
+1.6.5-alpha-2		2023-08-14T16:19:27Z	
+1.6.5-alpha-2	all	2023-08-14T16:19:32Z	
+1.6.5-alpha-3		2023-08-16T16:48:38Z	
+1.6.5-alpha-3	all	2023-08-16T16:48:39Z	
+1.6.6-gamma-11		2024-02-05T00:21:14Z	
+1.6.6-gamma-11	all	2024-02-05T00:21:15Z	
+1.6.6-gamma-17		2024-02-05T01:47:47Z	
+1.6.6-gamma-17	all	2024-02-05T01:47:51Z	
+1.6.6-gamma-18		2024-02-05T01:57:15Z	
+1.6.6-gamma-18	all	2024-02-05T01:57:16Z	
+1.6.6-gamma-19		2024-02-05T02:00:39Z	
+1.6.6-gamma-19	all	2024-02-05T02:00:43Z	
+1.6.6-gamma-20		2024-02-11T17:23:20Z	
+1.6.6-gamma-20	all	2024-02-11T17:23:22Z	
+1.6.7-beta-1		2024-03-08T16:53:46Z	
+1.6.7-beta-1	all	2024-03-08T16:53:48Z	
+1.6.7-beta-2		2024-03-30T02:16:17Z	
+1.6.7-beta-2	all	2024-03-30T02:16:18Z	
+1.6.7-beta-3		2024-04-04T07:58:03Z	
+1.6.7-beta-3	all	2024-04-04T07:58:07Z	
+1.6.7-beta-4		2024-04-20T14:12:34Z	
+1.6.7-beta-4	all	2024-04-20T14:12:35Z	
+1.6.7-beta-5		2024-05-04T10:42:36Z	
+1.6.7-beta-5	all	2024-05-04T10:42:37Z	
+1.6.7-beta-6		2024-05-04T22:54:17Z	
+1.6.7-beta-6	all	2024-05-04T22:54:19Z	

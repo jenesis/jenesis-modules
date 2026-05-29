@@ -1,0 +1,81 @@
+10.0.0-1-M7		2020-09-09T03:16:18Z	
+10.0.0-M10		2020-11-23T17:59:05Z	
+10.0.0-M5		2020-05-28T08:41:36Z	
+10.0.0-M7		2020-09-02T05:48:49Z	
+10.0.10		2021-08-30T02:16:17Z	
+10.0.14		2021-12-09T05:02:14Z	
+10.0.2		2021-02-17T16:09:52Z	
+10.0.27		2023-12-12T02:04:06Z	
+10.0.27.1		2025-08-26T04:58:22Z	
+10.0.27.2		2025-09-02T10:16:58Z	
+10.0.7		2021-06-18T04:45:40Z	
+10.1.0-M16		2022-06-16T07:02:44Z	
+10.1.1		2022-10-20T05:20:12Z	
+10.1.16		2023-12-12T02:09:54Z	
+10.1.25		2024-06-26T22:20:56Z	
+10.1.31		2024-10-15T01:42:00Z	
+10.1.41		2025-05-28T16:15:09Z	
+10.1.43		2025-07-15T04:04:45Z	
+10.1.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/10.1.44/apache-jsp-10.1.44.jar returned status 404
+10.1.44.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/10.1.44.1/apache-jsp-10.1.44.1.jar returned status 404
+10.1.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/10.1.48/apache-jsp-10.1.48.jar returned status 404
+10.1.5		2023-02-07T06:15:55Z	
+10.1.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/10.1.55/apache-jsp-10.1.55.jar returned status 404
+10.1.7		2023-04-03T13:59:53Z	
+11.0.0		2024-10-10T01:07:03Z	
+11.0.0-M19		2024-05-06T17:11:15Z	
+11.0.0-M20		2024-05-27T02:59:25Z	
+11.0.0-M21		2024-06-26T22:14:14Z	
+11.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/11.0.10/apache-jsp-11.0.10.jar returned status 404
+11.0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/11.0.10.1/apache-jsp-11.0.10.1.jar returned status 404
+11.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/11.0.18/apache-jsp-11.0.18.jar returned status 404
+11.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/11.0.22/apache-jsp-11.0.22.jar returned status 404
+11.0.4		2025-02-26T15:06:44Z	
+11.0.7		2025-05-28T16:22:31Z	
+11.0.9		2025-07-15T04:17:21Z	
+8.0.20.M0		2015-03-13T04:07:56Z	
+8.0.23.M0		2015-07-02T02:10:57Z	
+8.0.23.M1		2015-07-03T01:45:02Z	
+8.0.27		2015-10-12T20:11:59Z	
+8.0.3.v20140313		2014-03-12T21:45:57Z	
+8.0.33		2016-03-31T05:59:35Z	
+8.0.9.M0		2014-08-08T09:25:16Z	
+8.0.9.M1		2014-08-13T05:19:18Z	
+8.0.9.M2		2014-08-27T00:12:17Z	
+8.0.9.M3		2014-09-03T12:12:43Z	
+8.5.100		2024-06-27T00:31:04Z	
+8.5.20		2017-09-19T02:14:02Z	
+8.5.23		2017-10-19T03:49:38Z	
+8.5.24		2018-01-04T14:29:15Z	
+8.5.24.1		2018-01-17T10:52:33Z	
+8.5.24.2		2018-02-28T06:42:53Z	
+8.5.33		2018-08-30T00:32:46Z	
+8.5.33.1		2018-11-14T10:42:10Z	
+8.5.35		2018-11-29T11:30:56Z	
+8.5.35.1		2018-12-12T00:08:08Z	
+8.5.4		2016-08-12T00:48:09Z	
+8.5.40		2019-04-17T00:30:37Z	
+8.5.49		2019-11-26T05:32:53Z	
+8.5.5		2016-10-27T05:03:37Z	
+8.5.54		2020-04-29T16:53:35Z	
+8.5.68		2021-06-18T01:41:37Z	
+8.5.70		2021-08-27T02:15:55Z	
+8.5.9		2017-01-11T01:02:30Z	
+8.5.9.1		2017-01-18T22:17:42Z	
+9.0.102		2025-04-01T23:23:24Z	
+9.0.105		2025-05-28T16:03:56Z	
+9.0.107		2025-07-15T01:36:21Z	
+9.0.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/9.0.108/apache-jsp-9.0.108.jar returned status 404
+9.0.108.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/9.0.108.1/apache-jsp-9.0.108.1.jar returned status 404
+9.0.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/9.0.111/apache-jsp-9.0.111.jar returned status 404
+9.0.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-jsp/9.0.118/apache-jsp-9.0.118.jar returned status 404
+9.0.14		2019-01-15T03:18:28Z	
+9.0.14.1		2019-01-30T00:55:53Z	
+9.0.19		2019-04-17T01:46:19Z	
+9.0.29		2019-11-26T06:38:41Z	
+9.0.48		2021-06-18T02:43:42Z	
+9.0.52		2021-08-28T02:17:01Z	
+9.0.83		2023-12-12T01:33:55Z	
+9.0.83.1		2023-12-14T00:42:55Z	
+9.0.90		2024-06-26T22:26:51Z	
+9.0.96		2024-10-15T04:26:57Z	

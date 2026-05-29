@@ -1,0 +1,63 @@
+2.4.1		2020-08-26T16:14:39Z	
+4.2.0		2020-08-20T03:15:35Z	
+4.2.0.RC3		2020-08-19T20:20:03Z	
+4.2.2		2020-08-27T05:32:19Z	
+4.2.3		2020-09-01T11:23:04Z	
+4.2.4		2020-09-09T06:19:15Z	
+4.2.5		2020-09-12T18:33:21Z	
+4.2.6		2020-10-05T10:14:41Z	
+4.3.0		2020-10-11T18:55:01Z	
+4.3.1		2020-10-31T12:29:01Z	
+4.3.2		2020-12-13T17:07:16Z	
+4.4.0		2021-02-02T03:36:00Z	
+4.4.0.RC1		2021-01-07T03:40:48Z	
+4.4.0.RC2		2021-01-17T19:40:31Z	
+4.4.0.RC3		2021-01-28T20:00:29Z	
+4.4.1		2021-02-09T02:19:18Z	
+4.4.2		2021-03-06T02:11:50Z	
+4.4.3		2021-03-07T21:22:09Z	
+4.5.0		2021-05-05T08:43:18Z	
+4.5.0.RC1		2021-04-25T03:12:45Z	
+4.6.0		2021-05-18T21:28:01Z	
+4.6.1		2021-07-12T14:59:26Z	
+4.6.2		2021-08-24T02:12:23Z	
+4.6.3		2021-09-17T03:43:59Z	
+4.6.4		2021-11-28T03:45:59Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0/kotest-framework-api-js-5.0.0.jar returned status 404
+5.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.M1/kotest-framework-api-js-5.0.0.M1.jar returned status 404
+5.0.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.M2/kotest-framework-api-js-5.0.0.M2.jar returned status 404
+5.0.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.M3/kotest-framework-api-js-5.0.0.M3.jar returned status 404
+5.0.0.M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.M4/kotest-framework-api-js-5.0.0.M4.jar returned status 404
+5.0.0.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.RC/kotest-framework-api-js-5.0.0.RC.jar returned status 404
+5.0.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.0.RC2/kotest-framework-api-js-5.0.0.RC2.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.1/kotest-framework-api-js-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.2/kotest-framework-api-js-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.0.3/kotest-framework-api-js-5.0.3.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.1.0/kotest-framework-api-js-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.2.0/kotest-framework-api-js-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.2.1/kotest-framework-api-js-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.2.2/kotest-framework-api-js-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.2.3/kotest-framework-api-js-5.2.3.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.3.0/kotest-framework-api-js-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.3.1/kotest-framework-api-js-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.3.2/kotest-framework-api-js-5.3.2.jar returned status 404
+5.4.0		2022-07-24T06:37:12Z	
+5.4.1		2022-07-28T08:17:04Z	
+5.4.2		2022-08-10T10:26:47Z	
+5.5.0		2022-10-03T04:20:54Z	
+5.5.1		2022-10-09T17:37:53Z	
+5.5.2		2022-10-23T18:02:08Z	
+5.5.3		2022-10-27T23:36:11Z	
+5.5.4		2022-11-03T19:27:08Z	
+5.5.5		2023-02-05T15:45:56Z	
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.6.0/kotest-framework-api-js-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.6.1/kotest-framework-api-js-5.6.1.jar returned status 404
+5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.6.2/kotest-framework-api-js-5.6.2.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.7.0/kotest-framework-api-js-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.7.1/kotest-framework-api-js-5.7.1.jar returned status 404
+5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.7.2/kotest-framework-api-js-5.7.2.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.8.0/kotest-framework-api-js-5.8.0.jar returned status 404
+5.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.8.1/kotest-framework-api-js-5.8.1.jar returned status 404
+5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.9.0/kotest-framework-api-js-5.9.0.jar returned status 404
+5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/5.9.1/kotest-framework-api-js-5.9.1.jar returned status 404
+6.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api-js/6.0.0.M1/kotest-framework-api-js-6.0.0.M1.jar returned status 404

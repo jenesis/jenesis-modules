@@ -1,0 +1,103 @@
+3.2.3		2019-09-01T15:42:08Z	
+3.2.3	natives-linux	2019-09-01T15:43:01Z	
+3.2.3	natives-linux-arm32	2019-09-01T15:42:16Z	
+3.2.3	natives-linux-arm64	2019-09-01T15:42:30Z	
+3.2.3	natives-macos	2019-09-01T15:42:37Z	
+3.2.3	natives-windows	2019-09-01T15:42:43Z	
+3.2.3	natives-windows-x86	2019-09-01T15:42:22Z	
+3.3.0		2021-11-15T17:20:18Z	
+3.3.0	natives-linux	2021-11-15T17:21:03Z	
+3.3.0	natives-linux-arm32	2021-11-15T17:20:36Z	
+3.3.0	natives-linux-arm64	2021-11-15T17:20:26Z	
+3.3.0	natives-macos	2021-11-15T17:20:21Z	
+3.3.0	natives-macos-arm64	2021-11-15T17:20:55Z	
+3.3.0	natives-windows	2021-11-15T17:20:51Z	
+3.3.0	natives-windows-arm64	2021-11-15T17:20:44Z	
+3.3.0	natives-windows-x86	2021-11-15T17:21:16Z	
+3.3.1		2022-02-21T18:54:19Z	
+3.3.1	natives-linux	2022-02-21T18:55:10Z	
+3.3.1	natives-linux-arm32	2022-02-21T18:55:02Z	
+3.3.1	natives-linux-arm64	2022-02-21T18:54:25Z	
+3.3.1	natives-macos	2022-02-21T18:54:47Z	
+3.3.1	natives-macos-arm64	2022-02-21T18:54:32Z	
+3.3.1	natives-windows	2022-02-21T18:54:37Z	
+3.3.1	natives-windows-arm64	2022-02-21T18:54:21Z	
+3.3.1	natives-windows-x86	2022-02-21T18:54:57Z	
+3.3.2		2023-04-01T16:00:54Z	
+3.3.2	natives-linux	2023-04-01T16:01:05Z	
+3.3.2	natives-linux-arm32	2023-04-01T16:01:39Z	
+3.3.2	natives-linux-arm64	2023-04-01T16:01:28Z	
+3.3.2	natives-macos	2023-04-01T16:00:56Z	
+3.3.2	natives-macos-arm64	2023-04-01T16:01:01Z	
+3.3.2	natives-windows	2023-04-01T16:01:34Z	
+3.3.2	natives-windows-arm64	2023-04-01T16:01:25Z	
+3.3.2	natives-windows-x86	2023-04-01T16:01:16Z	
+3.3.3		2023-09-16T15:09:21Z	
+3.3.3	natives-linux	2023-09-16T15:10:18Z	
+3.3.3	natives-linux-arm32	2023-09-16T15:09:37Z	
+3.3.3	natives-linux-arm64	2023-09-16T15:09:46Z	
+3.3.3	natives-macos	2023-09-16T15:09:24Z	
+3.3.3	natives-macos-arm64	2023-09-16T15:10:00Z	
+3.3.3	natives-windows	2023-09-16T15:09:54Z	
+3.3.3	natives-windows-arm64	2023-09-16T15:10:10Z	
+3.3.3	natives-windows-x86	2023-09-16T15:09:30Z	
+3.3.4		2024-07-17T21:38:10Z	
+3.3.4	natives-freebsd	2024-07-17T21:38:25Z	
+3.3.4	natives-linux	2024-07-17T21:38:20Z	
+3.3.4	natives-linux-arm32	2024-07-17T21:38:39Z	
+3.3.4	natives-linux-arm64	2024-07-17T21:38:40Z	
+3.3.4	natives-linux-ppc64le	2024-07-17T21:38:29Z	
+3.3.4	natives-linux-riscv64	2024-07-17T21:38:35Z	
+3.3.4	natives-macos	2024-07-17T21:38:12Z	
+3.3.4	natives-macos-arm64	2024-07-17T21:38:24Z	
+3.3.4	natives-windows	2024-07-17T21:38:30Z	
+3.3.4	natives-windows-arm64	2024-07-17T21:38:21Z	
+3.3.4	natives-windows-x86	2024-07-17T21:38:19Z	
+3.3.5		2024-12-15T22:14:16Z	
+3.3.5	natives-freebsd	2024-12-15T22:14:28Z	
+3.3.5	natives-linux	2024-12-15T22:14:22Z	
+3.3.5	natives-linux-arm32	2024-12-15T22:14:18Z	
+3.3.5	natives-linux-arm64	2024-12-15T22:14:25Z	
+3.3.5	natives-linux-ppc64le	2024-12-15T22:14:23Z	
+3.3.5	natives-linux-riscv64	2024-12-15T22:14:26Z	
+3.3.5	natives-macos	2024-12-15T22:14:20Z	
+3.3.5	natives-macos-arm64	2024-12-15T22:14:19Z	
+3.3.5	natives-windows	2024-12-15T22:14:24Z	
+3.3.5	natives-windows-arm64	2024-12-15T22:14:18Z	
+3.3.5	natives-windows-x86	2024-12-15T22:14:17Z	
+3.3.6		2025-01-04T20:11:55Z	
+3.3.6	natives-freebsd	2025-01-04T20:12:08Z	
+3.3.6	natives-linux	2025-01-04T20:12:10Z	
+3.3.6	natives-linux-arm32	2025-01-04T20:11:59Z	
+3.3.6	natives-linux-arm64	2025-01-04T20:12:04Z	
+3.3.6	natives-linux-ppc64le	2025-01-04T20:12:07Z	
+3.3.6	natives-linux-riscv64	2025-01-04T20:12:08Z	
+3.3.6	natives-macos	2025-01-04T20:12:00Z	
+3.3.6	natives-macos-arm64	2025-01-04T20:12:11Z	
+3.3.6	natives-windows	2025-01-04T20:11:57Z	
+3.3.6	natives-windows-arm64	2025-01-04T20:12:11Z	
+3.3.6	natives-windows-x86	2025-01-04T20:12:06Z	
+3.4.0		2026-01-18T12:45:47Z	
+3.4.0	natives-freebsd	2026-01-18T12:45:49Z	
+3.4.0	natives-linux	2026-01-18T12:45:47Z	
+3.4.0	natives-linux-arm32	2026-01-18T12:45:48Z	
+3.4.0	natives-linux-arm64	2026-01-18T12:45:47Z	
+3.4.0	natives-linux-ppc64le	2026-01-18T12:45:51Z	
+3.4.0	natives-linux-riscv64	2026-01-18T12:45:51Z	
+3.4.0	natives-macos	2026-01-18T12:45:47Z	
+3.4.0	natives-macos-arm64	2026-01-18T12:45:49Z	
+3.4.0	natives-windows	2026-01-18T12:45:47Z	
+3.4.0	natives-windows-arm64	2026-01-18T12:45:51Z	
+3.4.0	natives-windows-x86	2026-01-18T12:45:51Z	
+3.4.1		2026-02-03T23:13:38Z	
+3.4.1	natives-freebsd	2026-02-03T23:13:39Z	
+3.4.1	natives-linux	2026-02-03T23:13:37Z	
+3.4.1	natives-linux-arm32	2026-02-03T23:13:40Z	
+3.4.1	natives-linux-arm64	2026-02-03T23:13:37Z	
+3.4.1	natives-linux-ppc64le	2026-02-03T23:13:34Z	
+3.4.1	natives-linux-riscv64	2026-02-03T23:13:38Z	
+3.4.1	natives-macos	2026-02-03T23:13:40Z	
+3.4.1	natives-macos-arm64	2026-02-03T23:13:35Z	
+3.4.1	natives-windows	2026-02-03T23:13:40Z	
+3.4.1	natives-windows-arm64	2026-02-03T23:13:40Z	
+3.4.1	natives-windows-x86	2026-02-03T23:13:39Z	

@@ -1,0 +1,81 @@
+10.0.0		2024-12-16T07:47:23Z	
+10.0.0-M1		2024-04-02T07:26:07Z	
+10.0.0-M2		2024-07-16T07:51:25Z	
+10.0.0-M3		2024-10-05T15:24:09Z	
+10.0.1		2025-03-20T13:17:55Z	
+10.1.0		2025-06-10T14:23:22Z	
+10.1.1		2025-08-16T12:18:27Z	
+10.1.2		2025-09-16T13:06:03Z	
+10.1.3		2025-12-07T15:26:15Z	
+10.1.4		2026-01-29T20:33:16Z	
+10.1.5		2026-04-26T06:47:27Z	
+7.0.0		2016-05-17T21:42:19Z	
+7.0.0-M1		2015-12-05T23:54:42Z	
+7.0.0-M2		2016-02-23T09:37:10Z	
+7.0.0-M3		2016-03-03T15:48:32Z	
+7.0.1		2016-06-22T22:28:58Z	
+7.0.2		2016-11-06T18:40:24Z	
+7.0.3		2017-03-07T21:24:51Z	
+7.0.4		2017-09-26T19:20:23Z	
+7.0.5		2018-07-10T11:42:11Z	
+7.0.6		2019-06-06T09:11:58Z	
+7.0.7		2020-01-07T13:23:28Z	
+7.0.8		2020-05-19T13:26:06Z	
+7.0.9		2020-08-05T15:45:19Z	
+7.1.0		2018-09-02T21:00:31Z	
+7.1.1		2019-06-05T21:26:19Z	
+7.1.2		2020-01-07T12:05:40Z	
+7.1.3		2020-05-19T11:51:59Z	
+7.1.4		2020-08-05T15:06:45Z	
+8.0.0		2019-09-13T11:31:51Z	
+8.0.0-M1		2018-10-13T23:56:23Z	
+8.0.0-M2		2019-01-25T22:34:35Z	
+8.0.0-M3		2019-05-23T07:24:54Z	
+8.0.1		2020-01-07T14:54:30Z	
+8.0.10		2022-02-10T14:54:43Z	
+8.0.10	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.10	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.10	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.10	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.11		2022-04-13T15:06:56Z	
+8.0.11	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.11	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.11	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.11	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.12		2022-06-07T08:11:00Z	
+8.0.13		2022-10-11T11:14:07Z	
+8.0.14		2023-01-17T12:54:32Z	
+8.0.15		2023-05-08T12:36:23Z	
+8.0.16		2023-10-29T17:28:07Z	
+8.0.2		2020-05-14T11:01:01Z	
+8.0.3		2020-06-19T10:58:19Z	
+8.0.4		2020-07-22T11:28:09Z	
+8.0.5		2020-11-17T20:23:37Z	
+8.0.6		2021-01-14T14:31:58Z	
+8.0.7		2021-05-03T12:28:05Z	
+8.0.7	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.7	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.7	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.7	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.8		2021-08-31T14:51:08Z	
+8.0.8	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.8	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.8	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.8	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.9		2021-12-23T11:46:34Z	
+8.0.9	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.9	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.9	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+8.0.9	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+9.0.0		2023-01-03T08:44:48Z	
+9.0.0-M7		2021-05-03T14:44:25Z	
+9.0.0-M7	microprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+9.0.0-M7	plume		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+9.0.0-M7	plus		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+9.0.0-M7	webprofile		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+9.0.0-M8		2022-06-28T08:06:22Z	
+9.0.0.RC1		2022-10-31T09:16:57Z	
+9.1.0		2023-06-06T10:03:47Z	
+9.1.1		2023-10-12T11:17:00Z	
+9.1.2		2023-12-12T16:13:47Z	
+9.1.3		2024-04-08T09:18:19Z	

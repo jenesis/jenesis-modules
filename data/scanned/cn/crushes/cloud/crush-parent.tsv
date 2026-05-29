@@ -1,0 +1,4 @@
+2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/crushes/cloud/crush-parent/2.4.5/crush-parent-2.4.5.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/crushes/cloud/crush-parent/2.5.0/crush-parent-2.5.0.jar returned status 404
+2.5.0-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/crushes/cloud/crush-parent/2.5.0-GA/crush-parent-2.5.0-GA.jar returned status 404
+2.5.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/crushes/cloud/crush-parent/2.5.0-RELEASE/crush-parent-2.5.0-RELEASE.jar returned status 404

@@ -1,0 +1,2 @@
+1.26.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openpreservation/jhove/modules/jhove-modules/1.26.0-RC2/jhove-modules-1.26.0-RC2.jar returned status 404
+1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openpreservation/jhove/modules/jhove-modules/1.34.0/jhove-modules-1.34.0.jar returned status 404

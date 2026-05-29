@@ -1,0 +1,6 @@
+10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/10.0/pouch-10.0.jar returned status 404
+10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/10.1/pouch-10.1.jar returned status 404
+10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/10.2/pouch-10.2.jar returned status 404
+10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/10.3/pouch-10.3.jar returned status 404
+9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/9.0/pouch-9.0.jar returned status 404
+9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cowwoc/pouch/pouch/9.1/pouch-9.1.jar returned status 404

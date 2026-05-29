@@ -1,0 +1,27 @@
+3.0.0	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2020-08-30T18:46:09Z	
+4.0.0.Alpha1	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-06-03T08:24:30Z	
+4.0.0.Alpha2	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-08-04T11:08:19Z	
+4.0.0.Alpha3	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-09-23T11:25:56Z	
+4.0.0.Beta1	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-10-27T08:59:32Z	
+4.0.0.Beta2	automatic	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-11-23T12:45:43Z	
+4.0.0.Beta3	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2021-12-08T15:03:24Z	4.0.0.Beta3
+4.0.0-RC2	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-01-19T01:47:03Z	4.0.0-RC2
+4.0.0-RC3	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-01-24T14:38:48Z	4.0.0-RC3
+3.0.1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-01-25T07:19:15Z	3.0.1
+4.0.0-RC4	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-02-01T04:46:26Z	4.0.0-RC4
+4.0.0-RC5	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-02-07T19:22:41Z	4.0.0-RC5
+4.0.0	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-03-28T23:24:01Z	4.0.0
+4.0.1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2022-05-18T14:50:30Z	4.0.1
+4.1.0.Alpha1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2023-10-13T11:11:41Z	4.1.0.Alpha1
+4.1.0-M1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2023-11-30T18:10:24Z	4.1.0-M1
+4.1.0.Beta1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2024-02-15T15:36:10Z	4.1.0.Beta1
+4.1.0.Beta2	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2024-02-26T23:15:51Z	4.1.0.Beta2
+4.1.0.RC1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2024-02-29T23:46:47Z	4.1.0.RC1
+4.1.0	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2024-03-07T18:02:37Z	4.1.0
+5.0.0.Alpha1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2025-03-20T09:07:40Z	5.0.0.Alpha1
+5.0.0-M1	named	jakarta.enterprise	jakarta.enterprise.cdi-api	2025-10-15T17:37:31Z	5.0.0-M1
+5.0.0.Alpha2	named	jakarta.cdi	jakarta.cdi-api	2025-11-26T15:26:20Z	5.0.0.Alpha2
+5.0.0.Alpha3	named	jakarta.cdi	jakarta.cdi-api	2025-11-26T16:40:37Z	5.0.0.Alpha3
+5.0.0.Alpha4	named	jakarta.cdi	jakarta.cdi-api	2026-04-07T23:36:48Z	5.0.0.Alpha4
+5.0.0.Alpha5	named	jakarta.cdi	jakarta.cdi-api	2026-04-15T15:23:02Z	5.0.0.Alpha5
+5.0.0.Alpha6	named	jakarta.cdi	jakarta.cdi-api	2026-05-03T18:21:04Z	5.0.0.Alpha6

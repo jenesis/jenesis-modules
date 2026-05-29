@@ -1,0 +1,7 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/1/axians-1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/2/axians-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/3/axians-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/4/axians-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/5/axians-5.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/7/axians-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/axians/axians/8/axians-8.jar returned status 404

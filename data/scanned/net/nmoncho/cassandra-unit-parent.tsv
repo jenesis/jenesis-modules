@@ -1,0 +1,11 @@
+3.11.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/3.11.19.0/cassandra-unit-parent-3.11.19.0.jar returned status 404
+3.11.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/3.11.19.1/cassandra-unit-parent-3.11.19.1.jar returned status 404
+3.11.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/3.11.19.2/cassandra-unit-parent-3.11.19.2.jar returned status 404
+4.0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.0.18.0/cassandra-unit-parent-4.0.18.0.jar returned status 404
+4.0.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.0.18.1/cassandra-unit-parent-4.0.18.1.jar returned status 404
+4.0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.0.19.0/cassandra-unit-parent-4.0.19.0.jar returned status 404
+4.1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.1.10.0/cassandra-unit-parent-4.1.10.0.jar returned status 404
+4.1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.1.9.0/cassandra-unit-parent-4.1.9.0.jar returned status 404
+4.1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/4.1.9.1/cassandra-unit-parent-4.1.9.1.jar returned status 404
+5.0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/5.0.4.0/cassandra-unit-parent-5.0.4.0.jar returned status 404
+5.0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/cassandra-unit-parent/5.0.6.0/cassandra-unit-parent-5.0.6.0.jar returned status 404

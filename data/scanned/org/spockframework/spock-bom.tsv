@@ -1,0 +1,63 @@
+1.2-RC1-groovy-2.4		2018-08-16T20:34:21Z	
+1.2-RC1-groovy-2.5		2018-08-16T20:36:33Z	
+1.2-RC2-groovy-2.4		2018-09-04T21:52:52Z	
+1.2-RC2-groovy-2.5		2018-09-04T21:53:48Z	
+1.2-RC3-groovy-2.4		2018-09-16T19:31:08Z	
+1.2-RC3-groovy-2.5		2018-09-16T19:34:05Z	
+1.2-groovy-2.4		2018-09-23T17:50:43Z	
+1.2-groovy-2.5		2018-09-23T17:52:01Z	
+2.0-M3-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M3-groovy-2.5/spock-bom-2.0-M3-groovy-2.5.jar returned status 404
+2.0-M3-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M3-groovy-3.0/spock-bom-2.0-M3-groovy-3.0.jar returned status 404
+2.0-M4-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M4-groovy-2.5/spock-bom-2.0-M4-groovy-2.5.jar returned status 404
+2.0-M4-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M4-groovy-3.0/spock-bom-2.0-M4-groovy-3.0.jar returned status 404
+2.0-M5-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M5-groovy-2.5/spock-bom-2.0-M5-groovy-2.5.jar returned status 404
+2.0-M5-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-M5-groovy-3.0/spock-bom-2.0-M5-groovy-3.0.jar returned status 404
+2.0-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-groovy-2.5/spock-bom-2.0-groovy-2.5.jar returned status 404
+2.0-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.0-groovy-3.0/spock-bom-2.0-groovy-3.0.jar returned status 404
+2.1-M1-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-M1-groovy-2.5/spock-bom-2.1-M1-groovy-2.5.jar returned status 404
+2.1-M1-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-M1-groovy-3.0/spock-bom-2.1-M1-groovy-3.0.jar returned status 404
+2.1-M2-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-M2-groovy-2.5/spock-bom-2.1-M2-groovy-2.5.jar returned status 404
+2.1-M2-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-M2-groovy-3.0/spock-bom-2.1-M2-groovy-3.0.jar returned status 404
+2.1-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-groovy-2.5/spock-bom-2.1-groovy-2.5.jar returned status 404
+2.1-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.1-groovy-3.0/spock-bom-2.1-groovy-3.0.jar returned status 404
+2.2-M1-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M1-groovy-2.5/spock-bom-2.2-M1-groovy-2.5.jar returned status 404
+2.2-M1-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M1-groovy-3.0/spock-bom-2.2-M1-groovy-3.0.jar returned status 404
+2.2-M1-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M1-groovy-4.0/spock-bom-2.2-M1-groovy-4.0.jar returned status 404
+2.2-M2-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M2-groovy-2.5/spock-bom-2.2-M2-groovy-2.5.jar returned status 404
+2.2-M2-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M2-groovy-3.0/spock-bom-2.2-M2-groovy-3.0.jar returned status 404
+2.2-M2-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M2-groovy-4.0/spock-bom-2.2-M2-groovy-4.0.jar returned status 404
+2.2-M3-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M3-groovy-2.5/spock-bom-2.2-M3-groovy-2.5.jar returned status 404
+2.2-M3-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M3-groovy-3.0/spock-bom-2.2-M3-groovy-3.0.jar returned status 404
+2.2-M3-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-M3-groovy-4.0/spock-bom-2.2-M3-groovy-4.0.jar returned status 404
+2.2-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-groovy-2.5/spock-bom-2.2-groovy-2.5.jar returned status 404
+2.2-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-groovy-3.0/spock-bom-2.2-groovy-3.0.jar returned status 404
+2.2-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.2-groovy-4.0/spock-bom-2.2-groovy-4.0.jar returned status 404
+2.3-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.3-groovy-2.5/spock-bom-2.3-groovy-2.5.jar returned status 404
+2.3-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.3-groovy-3.0/spock-bom-2.3-groovy-3.0.jar returned status 404
+2.3-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.3-groovy-4.0/spock-bom-2.3-groovy-4.0.jar returned status 404
+2.4-M1-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M1-groovy-2.5/spock-bom-2.4-M1-groovy-2.5.jar returned status 404
+2.4-M1-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M1-groovy-3.0/spock-bom-2.4-M1-groovy-3.0.jar returned status 404
+2.4-M1-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M1-groovy-4.0/spock-bom-2.4-M1-groovy-4.0.jar returned status 404
+2.4-M2-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M2-groovy-2.5/spock-bom-2.4-M2-groovy-2.5.jar returned status 404
+2.4-M2-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M2-groovy-3.0/spock-bom-2.4-M2-groovy-3.0.jar returned status 404
+2.4-M2-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M2-groovy-4.0/spock-bom-2.4-M2-groovy-4.0.jar returned status 404
+2.4-M3-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M3-groovy-2.5/spock-bom-2.4-M3-groovy-2.5.jar returned status 404
+2.4-M3-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M3-groovy-3.0/spock-bom-2.4-M3-groovy-3.0.jar returned status 404
+2.4-M3-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M3-groovy-4.0/spock-bom-2.4-M3-groovy-4.0.jar returned status 404
+2.4-M4-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M4-groovy-2.5/spock-bom-2.4-M4-groovy-2.5.jar returned status 404
+2.4-M4-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M4-groovy-3.0/spock-bom-2.4-M4-groovy-3.0.jar returned status 404
+2.4-M4-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M4-groovy-4.0/spock-bom-2.4-M4-groovy-4.0.jar returned status 404
+2.4-M5-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M5-groovy-2.5/spock-bom-2.4-M5-groovy-2.5.jar returned status 404
+2.4-M5-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M5-groovy-3.0/spock-bom-2.4-M5-groovy-3.0.jar returned status 404
+2.4-M5-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M5-groovy-4.0/spock-bom-2.4-M5-groovy-4.0.jar returned status 404
+2.4-M6-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M6-groovy-2.5/spock-bom-2.4-M6-groovy-2.5.jar returned status 404
+2.4-M6-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M6-groovy-3.0/spock-bom-2.4-M6-groovy-3.0.jar returned status 404
+2.4-M6-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M6-groovy-4.0/spock-bom-2.4-M6-groovy-4.0.jar returned status 404
+2.4-M7-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M7-groovy-2.5/spock-bom-2.4-M7-groovy-2.5.jar returned status 404
+2.4-M7-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M7-groovy-3.0/spock-bom-2.4-M7-groovy-3.0.jar returned status 404
+2.4-M7-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M7-groovy-4.0/spock-bom-2.4-M7-groovy-4.0.jar returned status 404
+2.4-M7-groovy-5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-M7-groovy-5.0/spock-bom-2.4-M7-groovy-5.0.jar returned status 404
+2.4-groovy-2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-groovy-2.5/spock-bom-2.4-groovy-2.5.jar returned status 404
+2.4-groovy-3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-groovy-3.0/spock-bom-2.4-groovy-3.0.jar returned status 404
+2.4-groovy-4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-groovy-4.0/spock-bom-2.4-groovy-4.0.jar returned status 404
+2.4-groovy-5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spockframework/spock-bom/2.4-groovy-5.0/spock-bom-2.4-groovy-5.0.jar returned status 404

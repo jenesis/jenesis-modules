@@ -1,0 +1,54 @@
+1.0.1		2021-10-24T20:36:27Z	
+1.0.11		2022-08-09T05:29:57Z	
+1.0.13		2021-11-08T21:23:25Z	
+1.0.14		2021-11-08T21:43:00Z	
+1.0.2		2021-10-25T01:14:24Z	
+1.0.22		2021-12-25T23:06:04Z	
+1.0.27		2021-12-27T01:23:17Z	
+1.0.29		2022-01-05T00:05:54Z	
+1.0.3		2021-10-30T07:02:56Z	
+1.0.31		2022-01-05T08:30:29Z	
+1.0.32		2022-01-09T01:00:01Z	
+1.0.33		2022-01-10T03:14:30Z	
+1.0.34		2022-01-19T01:13:21Z	
+1.0.35		2022-01-19T02:39:25Z	
+1.0.36		2022-01-30T18:57:32Z	
+1.0.37		2022-02-27T17:54:31Z	
+1.0.4		2021-10-30T22:54:07Z	
+1.0.42		2022-06-12T02:48:46Z	
+1.0.43		2022-06-12T07:40:03Z	
+1.0.44		2022-06-14T00:06:53Z	
+1.0.45		2022-06-15T01:38:59Z	
+1.0.5		2022-06-27T02:48:37Z	
+1.0.57		2022-08-09T05:42:37Z	
+1.0.59		2022-08-20T20:45:44Z	
+1.0.6		2022-06-27T03:29:48Z	
+1.0.60		2022-08-27T18:53:11Z	
+1.0.61		2022-11-15T21:39:30Z	
+1.0.7		2021-10-31T06:15:06Z	
+1.0.8		2021-11-01T01:45:42Z	
+1.1.11		2023-02-18T03:01:21Z	
+1.1.12		2023-03-04T07:13:00Z	
+1.1.14		2023-04-01T18:45:39Z	
+1.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.16/socket-js-1.1.16.jar returned status 404
+1.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.17/socket-js-1.1.17.jar returned status 404
+1.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.18/socket-js-1.1.18.jar returned status 404
+1.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.19/socket-js-1.1.19.jar returned status 404
+1.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.20/socket-js-1.1.20.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.5/socket-js-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.1.6/socket-js-1.1.6.jar returned status 404
+1.1.7		2023-01-20T08:41:48Z	
+1.1.9		2023-02-11T06:33:08Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.0/socket-js-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.1/socket-js-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.2/socket-js-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.3/socket-js-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.4/socket-js-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/1.2.5/socket-js-1.2.5.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.0.0/socket-js-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.0.1/socket-js-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.0.2/socket-js-2.0.2.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.1.0/socket-js-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.1.1/socket-js-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/2.1.2/socket-js-2.1.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-js/3.0.0/socket-js-3.0.0.jar returned status 404

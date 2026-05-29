@@ -1,0 +1,3 @@
+${x509-provider-version}			IllegalArgumentException: Illegal character in path at index 73: com/microsoft/azure/sdk/iot/provisioning/security/x509-provider-preview/${x509-provider-version}/x509-provider-preview-${x509-provider-version}.jar
+1.0.0		2019-11-21T22:26:21Z	
+1.0.1		2019-12-03T04:05:48Z	

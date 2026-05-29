@@ -1,0 +1,25 @@
+10.0.0		2022-04-21T18:20:34Z	
+10.0.1		2022-10-02T12:18:07Z	
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/10.0.2/yass2-generate-js-10.0.2.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/11.0.0/yass2-generate-js-11.0.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/12.0.0/yass2-generate-js-12.0.0.jar returned status 404
+12.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/12.0.0-RC/yass2-generate-js-12.0.0-RC.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/13.0.0/yass2-generate-js-13.0.0.jar returned status 404
+13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/13.1.0/yass2-generate-js-13.1.0.jar returned status 404
+13.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/13.1.1/yass2-generate-js-13.1.1.jar returned status 404
+26.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/26.0.0/yass2-generate-js-26.0.0.jar returned status 404
+26.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/26.0.1/yass2-generate-js-26.0.1.jar returned status 404
+26.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/26.0.2/yass2-generate-js-26.0.2.jar returned status 404
+26.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/26.0.3/yass2-generate-js-26.0.3.jar returned status 404
+27.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/27.0.0/yass2-generate-js-27.0.0.jar returned status 404
+28.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/yass2/yass2-generate-js/28.0.0/yass2-generate-js-28.0.0.jar returned status 404
+6.0.0		2020-08-23T14:30:14Z	
+6.1.0		2020-09-13T13:27:49Z	
+7.0.0		2020-10-16T19:12:47Z	
+7.0.1		2020-11-28T16:07:24Z	
+7.0.2		2021-02-12T19:54:49Z	
+7.1.0		2021-04-17T12:54:06Z	
+8.0.0		2021-06-28T15:58:59Z	
+8.0.1		2021-07-21T19:03:20Z	
+9.0.0		2021-12-22T16:44:01Z	
+9.0.0-RC		2021-12-20T17:16:27Z	

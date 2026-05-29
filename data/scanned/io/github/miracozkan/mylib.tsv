@@ -1,0 +1,11 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/1.0.0/mylib-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/2.0.0/mylib-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/2.0.1/mylib-2.0.1.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/3.0.1/mylib-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/3.0.2/mylib-3.0.2.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/4.0.2/mylib-4.0.2.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/5.0.4/mylib-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/5.0.5/mylib-5.0.5.jar returned status 404
+5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/5.0.6/mylib-5.0.6.jar returned status 404
+5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/5.0.7/mylib-5.0.7.jar returned status 404
+5.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/miracozkan/mylib/5.0.8/mylib-5.0.8.jar returned status 404

@@ -1,0 +1,19 @@
+1.20		2018-12-23T22:31:33Z	
+1.27.47		2019-01-21T22:57:44Z	
+1.28.56		2019-01-22T06:48:45Z	
+1.29.60		2019-01-26T18:31:59Z	
+1.30.70		2019-01-30T04:14:44Z	
+1.31.76		2019-02-07T13:45:40Z	
+1.32.92		2019-04-05T12:52:07Z	
+1.33.97		2019-05-07T19:01:34Z	
+1.34.109		2019-11-22T15:44:05Z	
+1.35.72		2021-02-16T03:05:53Z	
+1.36.77		2022-03-05T23:53:12Z	
+1.37.80		2022-03-06T19:48:46Z	
+1.38.81		2022-12-17T15:18:33Z	
+1.39.83		2022-12-19T17:14:36Z	
+1.39.84		2022-12-19T17:29:49Z	
+1.40.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ToxicBakery/logging/arbor-js/1.40.86/arbor-js-1.40.86.jar returned status 404
+2.0.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ToxicBakery/logging/arbor-js/2.0.102/arbor-js-2.0.102.jar returned status 404
+2.0.103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ToxicBakery/logging/arbor-js/2.0.103/arbor-js-2.0.103.jar returned status 404
+2.0.105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ToxicBakery/logging/arbor-js/2.0.105/arbor-js-2.0.105.jar returned status 404

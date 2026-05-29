@@ -1,0 +1,28 @@
+2.1.0	named	com.kohlschutter.junixsocket	junixsocket-core	2018-12-27T03:49:25Z	
+2.1.1	named	com.kohlschutter.junixsocket	junixsocket-core	2018-12-27T05:12:59Z	
+2.1.2	named	com.kohlschutter.junixsocket	junixsocket-core	2018-12-30T05:22:11Z	
+2.2.0	named	com.kohlschutter.junixsocket	junixsocket-core	2019-02-17T20:04:58Z	
+2.2.1	named	com.kohlschutter.junixsocket	junixsocket-core	2019-11-14T07:00:02Z	
+2.3.0	named	com.kohlschutter.junixsocket	junixsocket-core	2019-12-27T00:34:53Z	2.3.0
+2.3.1	named	com.kohlschutter.junixsocket	junixsocket-core	2020-01-17T06:01:57Z	2.3.1
+2.3.2	named	com.kohlschutter.junixsocket	junixsocket-core	2020-03-09T04:27:54Z	2.3.2
+2.2.0	named	org.apache.flink	statefun-flink-datastream	2020-09-23T08:17:57Z	2.3.2
+2.2.1	named	org.apache.flink	statefun-flink-datastream	2020-11-04T08:38:05Z	2.3.2
+2.2.2	named	org.apache.flink	statefun-flink-datastream	2020-12-23T05:48:44Z	2.3.2
+3.0.0	named	org.apache.flink	statefun-flink-datastream	2021-03-30T09:58:00Z	2.3.2
+2.3.3	named	com.kohlschutter.junixsocket	junixsocket-core	2021-04-16T03:43:17Z	2.3.3
+2.3.4	named	com.kohlschutter.junixsocket	junixsocket-core	2021-05-31T05:24:53Z	2.3.4
+3.1.0	named	org.apache.flink	statefun-flink-datastream	2021-08-24T12:38:45Z	2.3.2
+3.1.1	named	org.apache.flink	statefun-flink-datastream	2021-12-20T08:09:48Z	2.3.2
+3.2.0	named	org.apache.flink	statefun-flink-datastream	2022-01-26T12:35:29Z	2.3.2
+3.3.0	named	org.apache.flink	statefun-flink-datastream	2023-09-12T10:13:53Z	2.3.2
+3.4.0	named	com.sbbsystems.flink	statefun-flink-datastream	2026-01-25T18:07:54Z	2.3.2
+3.4.0-KZM-1.0-RC20	named	io.github.kzmlabs	statefun-flink-datastream	2026-02-14T11:50:55Z	2.3.2
+3.4.0-KZM-2.0-RC1	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-14T16:40:36Z	2.3.2
+3.4.1	named	com.sbbsystems.flink	statefun-flink-datastream	2026-02-16T19:01:59Z	2.3.2
+3.4.0-KZM-2.0-RC2	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-24T17:31:15Z	2.3.2
+3.4.0-KZM-2.0-RC3	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-24T21:01:57Z	2.3.2
+3.4.0-KZM-2.0-RC4	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-25T08:12:10Z	2.3.2
+3.4.0-KZM-2.0-RC5	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-25T14:39:14Z	2.3.2
+3.4.2	named	com.sbbsystems.flink	statefun-flink-datastream	2026-03-01T11:44:00Z	2.3.2
+3.4.3	named	com.sbbsystems.flink	statefun-flink-datastream	2026-05-17T12:13:55Z	2.3.2

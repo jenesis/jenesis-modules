@@ -1,0 +1,14 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/10.0.0/antwerkz-parent-10.0.0.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/11/antwerkz-parent-11.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/13.0.0/antwerkz-parent-13.0.0.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/14/antwerkz-parent-14.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/16/antwerkz-parent-16.jar returned status 404
+18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/18/antwerkz-parent-18.jar returned status 404
+54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/54/antwerkz-parent-54.jar returned status 404
+63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/63/antwerkz-parent-63.jar returned status 404
+68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/68/antwerkz-parent-68.jar returned status 404
+69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/69/antwerkz-parent-69.jar returned status 404
+70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/70/antwerkz-parent-70.jar returned status 404
+71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/71/antwerkz-parent-71.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/8.0.0/antwerkz-parent-8.0.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/antwerkz/antwerkz-parent/9.0.0/antwerkz-parent-9.0.0.jar returned status 404

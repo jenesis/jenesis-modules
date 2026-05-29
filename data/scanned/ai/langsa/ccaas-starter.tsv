@@ -1,0 +1,10 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.1/ccaas-starter-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.2/ccaas-starter-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.3/ccaas-starter-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.4/ccaas-starter-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.5/ccaas-starter-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/0.6/ccaas-starter-0.6.jar returned status 404
+cloud-0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/cloud-0.1/ccaas-starter-cloud-0.1.jar returned status 404
+cloud-0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/cloud-0.2/ccaas-starter-cloud-0.2.jar returned status 404
+cloud-0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/cloud-0.2.1/ccaas-starter-cloud-0.2.1.jar returned status 404
+cloud-0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/langsa/ccaas-starter/cloud-0.3/ccaas-starter-cloud-0.3.jar returned status 404

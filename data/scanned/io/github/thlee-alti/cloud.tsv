@@ -1,0 +1,4 @@
+1.22-tvgRelease			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thlee-alti/cloud/1.22-tvgRelease/cloud-1.22-tvgRelease.jar returned status 404
+1.22-uhdRelease			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thlee-alti/cloud/1.22-uhdRelease/cloud-1.22-uhdRelease.jar returned status 404
+1.24-tvgRelease			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thlee-alti/cloud/1.24-tvgRelease/cloud-1.24-tvgRelease.jar returned status 404
+1.24-uhdRelease			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thlee-alti/cloud/1.24-uhdRelease/cloud-1.24-uhdRelease.jar returned status 404

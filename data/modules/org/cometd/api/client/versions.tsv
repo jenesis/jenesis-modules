@@ -1,0 +1,83 @@
+5.0.0-BETA0	automatic	org.cometd.java	cometd-java-api-client	2019-11-05T18:18:46Z	
+5.0.0-BETA1	automatic	org.cometd.java	cometd-java-api-client	2019-12-23T16:48:02Z	
+5.0.0	automatic	org.cometd.java	cometd-java-api-client	2020-04-16T11:03:00Z	
+5.0.1	automatic	org.cometd.java	cometd-java-api-client	2020-07-15T15:51:55Z	
+5.0.2	automatic	org.cometd.java	cometd-java-api-client	2020-10-27T17:23:33Z	
+5.0.3	automatic	org.cometd.java	cometd-java-api-client	2020-12-21T16:03:36Z	
+6.0.0	named	org.cometd.java	cometd-java-api-client	2020-12-21T17:39:52Z	6.0.0
+7.0.0	named	org.cometd.java	cometd-java-api-client	2020-12-21T18:53:57Z	7.0.0
+5.0.4	automatic	org.cometd.java	cometd-java-api-client	2021-01-21T17:39:51Z	
+5.0.5	automatic	org.cometd.java	cometd-java-api-client	2021-03-02T09:25:04Z	
+6.0.1	named	org.cometd.java	cometd-java-api-client	2021-03-02T13:20:17Z	6.0.1
+7.0.1	named	org.cometd.java	cometd-java-api-client	2021-03-02T14:39:49Z	7.0.1
+5.0.6	automatic	org.cometd.java	cometd-java-api-client	2021-03-29T15:04:36Z	
+6.0.2	named	org.cometd.java	cometd-java-api-client	2021-03-29T15:29:31Z	6.0.2
+7.0.2	named	org.cometd.java	cometd-java-api-client	2021-03-29T21:09:47Z	7.0.2
+5.0.7	automatic	org.cometd.java	cometd-java-api-client	2021-04-29T10:25:23Z	
+5.0.8	automatic	org.cometd.java	cometd-java-api-client	2021-06-09T14:06:37Z	
+6.0.3	named	org.cometd.java	cometd-java-api-client	2021-06-09T14:23:41Z	6.0.3
+7.0.3	named	org.cometd.java	cometd-java-api-client	2021-06-09T14:55:57Z	7.0.3
+5.0.9	automatic	org.cometd.java	cometd-java-api-client	2021-07-12T15:50:24Z	
+6.0.4	named	org.cometd.java	cometd-java-api-client	2021-07-12T16:18:08Z	6.0.4
+7.0.4	named	org.cometd.java	cometd-java-api-client	2021-07-12T16:36:42Z	7.0.4
+5.0.10	automatic	org.cometd.java	cometd-java-api-client	2021-11-25T19:07:23Z	
+6.0.5	named	org.cometd.java	cometd-java-api-client	2021-11-25T21:30:23Z	6.0.5
+7.0.5	named	org.cometd.java	cometd-java-api-client	2021-11-25T21:43:32Z	7.0.5
+5.0.11	automatic	org.cometd.java	cometd-java-api-client	2022-02-25T13:27:01Z	
+6.0.6	named	org.cometd.java	cometd-java-api-client	2022-02-25T16:58:15Z	6.0.6
+7.0.6	named	org.cometd.java	cometd-java-api-client	2022-02-25T17:07:36Z	7.0.6
+5.0.12	automatic	org.cometd.java	cometd-java-api-client	2022-06-23T07:10:16Z	
+6.0.7	named	org.cometd.java	cometd-java-api-client	2022-06-23T07:51:56Z	6.0.7
+7.0.7	named	org.cometd.java	cometd-java-api-client	2022-06-23T08:53:30Z	7.0.7
+5.0.13	automatic	org.cometd.java	cometd-java-api-client	2022-07-28T15:37:58Z	
+6.0.8	named	org.cometd.java	cometd-java-api-client	2022-07-28T15:59:15Z	6.0.8
+7.0.8	named	org.cometd.java	cometd-java-api-client	2022-07-28T16:13:04Z	7.0.8
+5.0.14	automatic	org.cometd.java	cometd-java-api-client	2022-10-13T16:00:25Z	
+6.0.9	named	org.cometd.java	cometd-java-api-client	2022-10-13T17:31:08Z	6.0.9
+7.0.9	named	org.cometd.java	cometd-java-api-client	2022-10-13T17:49:45Z	7.0.9
+5.0.15	automatic	org.cometd.java	cometd-java-api-client	2023-03-20T15:10:20Z	
+6.0.10	named	org.cometd.java	cometd-java-api-client	2023-03-20T15:32:33Z	6.0.10
+7.0.10	named	org.cometd.java	cometd-java-api-client	2023-03-20T15:46:10Z	7.0.10
+5.0.16	automatic	org.cometd.java	cometd-java-api-client	2023-10-30T21:42:09Z	
+6.0.11	named	org.cometd.java	cometd-java-api-client	2023-10-30T23:54:37Z	6.0.11
+7.0.11	named	org.cometd.java	cometd-java-api-client	2023-10-31T10:01:26Z	7.0.11
+8.0.0.beta0	named	org.cometd.java	cometd-java-api-client	2023-10-31T18:13:40Z	8.0.0.beta0
+8.0.0.beta1	named	org.cometd.java	cometd-java-api-client	2023-12-20T10:26:02Z	8.0.0.beta1
+6.0.12	named	org.cometd.java	cometd-java-api-client	2024-02-07T18:51:56Z	6.0.12
+7.0.12	named	org.cometd.java	cometd-java-api-client	2024-02-07T20:56:02Z	7.0.12
+8.0.0.beta2	named	org.cometd.java	cometd-java-api-client	2024-02-07T21:18:11Z	8.0.0.beta2
+5.0.17	automatic	org.cometd.java	cometd-java-api-client	2024-02-14T16:31:54Z	
+5.0.18	automatic	org.cometd.java	cometd-java-api-client	2024-04-19T08:15:20Z	
+6.0.13	named	org.cometd.java	cometd-java-api-client	2024-04-19T13:34:47Z	6.0.13
+7.0.13	named	org.cometd.java	cometd-java-api-client	2024-04-19T15:24:57Z	7.0.13
+8.0.0.beta3	named	org.cometd.java	cometd-java-api-client	2024-04-19T16:32:58Z	8.0.0.beta3
+6.0.14	named	org.cometd.java	cometd-java-api-client	2024-05-16T14:24:15Z	6.0.14
+7.0.14	named	org.cometd.java	cometd-java-api-client	2024-05-16T14:53:56Z	7.0.14
+8.0.0	named	org.cometd.java	cometd-java-api-client	2024-05-16T15:53:21Z	8.0.0
+8.0.1	named	org.cometd.java	cometd-java-api-client	2024-05-21T14:40:58Z	8.0.1
+5.0.19	automatic	org.cometd.java	cometd-java-api-client	2024-06-03T08:42:09Z	
+6.0.15	named	org.cometd.java	cometd-java-api-client	2024-06-03T14:29:01Z	6.0.15
+7.0.15	named	org.cometd.java	cometd-java-api-client	2024-06-03T15:00:44Z	7.0.15
+8.0.2	named	org.cometd.java	cometd-java-api-client	2024-06-03T15:20:29Z	8.0.2
+5.0.20	automatic	org.cometd.java	cometd-java-api-client	2024-07-30T07:08:14Z	
+6.0.16	named	org.cometd.java	cometd-java-api-client	2024-07-30T08:18:34Z	6.0.16
+7.0.16	named	org.cometd.java	cometd-java-api-client	2024-07-30T08:39:45Z	7.0.16
+8.0.3	named	org.cometd.java	cometd-java-api-client	2024-07-30T10:21:14Z	8.0.3
+8.0.4	named	org.cometd.java	cometd-java-api-client	2024-08-13T14:21:20Z	8.0.4
+5.0.21	automatic	org.cometd.java	cometd-java-api-client	2024-09-09T08:23:47Z	
+6.0.17	named	org.cometd.java	cometd-java-api-client	2024-09-09T08:48:43Z	6.0.17
+7.0.17	named	org.cometd.java	cometd-java-api-client	2024-09-09T09:08:23Z	7.0.17
+8.0.5	named	org.cometd.java	cometd-java-api-client	2024-09-09T09:21:34Z	8.0.5
+8.0.6	named	org.cometd.java	cometd-java-api-client	2024-10-01T20:49:10Z	8.0.6
+8.0.7	named	org.cometd.java	cometd-java-api-client	2025-03-06T11:02:52Z	8.0.7
+8.0.8	named	org.cometd.java	cometd-java-api-client	2025-05-13T09:41:48Z	8.0.8
+8.0.9	named	org.cometd.java	cometd-java-api-client	2025-07-08T17:56:52Z	8.0.9
+5.0.22	automatic	org.cometd.java	cometd-java-api-client	2025-08-14T13:40:59Z	
+6.0.18	named	org.cometd.java	cometd-java-api-client	2025-08-15T14:34:45Z	6.0.18
+7.0.18	named	org.cometd.java	cometd-java-api-client	2025-08-15T15:16:00Z	7.0.18
+8.0.10	named	org.cometd.java	cometd-java-api-client	2025-08-15T16:45:03Z	8.0.10
+6.0.19	named	org.cometd.java	cometd-java-api-client	2025-08-19T13:59:24Z	6.0.19
+7.0.19	named	org.cometd.java	cometd-java-api-client	2025-08-19T14:10:57Z	7.0.19
+5.0.23	automatic	org.cometd.java	cometd-java-api-client	2025-08-19T17:18:30Z	
+8.0.11	named	org.cometd.java	cometd-java-api-client	2025-10-09T13:39:10Z	8.0.11
+9.0.0	named	org.cometd.java	cometd-java-api-client	2025-10-10T09:26:46Z	9.0.0

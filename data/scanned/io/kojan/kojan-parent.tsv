@@ -1,0 +1,3 @@
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kojan/kojan-parent/7/kojan-parent-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kojan/kojan-parent/8/kojan-parent-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kojan/kojan-parent/9/kojan-parent-9.jar returned status 404

@@ -1,0 +1,54 @@
+0.20.0-sfx0-beta1	unbundled	2019-01-03T18:39:44Z	
+0.20.0-sfx0-beta2	unbundled	2019-01-18T18:26:20Z	
+0.20.0-sfx0-beta3	unbundled	2019-01-23T21:31:44Z	
+0.20.0-sfx0-beta4	unbundled	2019-01-25T20:47:20Z	
+0.24.0-sfx0	unbundled	2019-03-14T20:44:56Z	
+0.24.0-sfx1	unbundled	2019-03-26T14:31:31Z	
+0.24.0-sfx10	unbundled	2019-06-03T20:52:16Z	
+0.24.0-sfx11	unbundled	2019-06-13T16:32:19Z	
+0.24.0-sfx2	unbundled	2019-04-02T15:52:34Z	
+0.24.0-sfx3	unbundled	2019-04-10T14:12:40Z	
+0.24.0-sfx4	unbundled	2019-04-11T14:54:46Z	
+0.24.0-sfx5	unbundled	2019-04-17T17:47:11Z	
+0.24.0-sfx6	unbundled	2019-04-22T18:30:30Z	
+0.24.0-sfx7	unbundled	2019-04-24T13:27:25Z	
+0.24.0-sfx8	unbundled	2019-05-09T14:25:17Z	
+0.24.0-sfx9	unbundled	2019-05-22T15:38:50Z	
+0.28.0-sfx0	unbundled	2019-06-18T22:07:19Z	
+0.28.0-sfx1	unbundled	2019-07-24T19:12:34Z	
+0.28.0-sfx2	unbundled	2019-07-31T16:00:49Z	
+0.28.0-sfx3	unbundled	2019-08-23T14:52:42Z	
+0.28.0-sfx4	unbundled	2019-08-30T20:28:02Z	
+0.28.0-sfx5	unbundled	2019-10-11T19:47:19Z	
+0.28.0-sfx6	unbundled	2019-11-21T16:06:17Z	
+0.28.0-sfx7	unbundled	2019-12-20T12:06:00Z	
+0.36.0-sfx0	unbundled	2020-01-21T21:56:35Z	
+0.36.0-sfx1	unbundled	2020-01-22T14:48:23Z	
+0.36.0-sfx10	unbundled	2020-05-28T20:21:25Z	
+0.36.0-sfx11	unbundled	2020-06-08T18:50:03Z	
+0.36.0-sfx2	unbundled	2020-02-07T21:37:55Z	
+0.36.0-sfx3	unbundled	2020-02-20T19:35:36Z	
+0.36.0-sfx4	unbundled	2020-03-06T21:48:34Z	
+0.36.0-sfx5	unbundled	2020-04-10T13:53:54Z	
+0.36.0-sfx6	unbundled	2020-04-15T19:10:40Z	
+0.36.0-sfx7	unbundled	2020-04-30T16:54:41Z	
+0.36.0-sfx8	unbundled	2020-05-06T19:21:46Z	
+0.36.0-sfx9	unbundled	2020-05-13T17:39:29Z	
+0.48.0-sfx0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx0/signalfx-java-agent-0.48.0-sfx0.jar returned status 404
+0.48.0-sfx0	unbundled	2020-06-18T13:30:40Z	
+0.48.0-sfx1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx1/signalfx-java-agent-0.48.0-sfx1.jar returned status 404
+0.48.0-sfx1	unbundled	2020-07-22T13:50:02Z	
+0.48.0-sfx2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx2/signalfx-java-agent-0.48.0-sfx2.jar returned status 404
+0.48.0-sfx2	unbundled	2020-10-05T18:48:25Z	
+0.48.0-sfx3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx3/signalfx-java-agent-0.48.0-sfx3.jar returned status 404
+0.48.0-sfx3	unbundled	2020-11-12T18:43:10Z	
+0.48.0-sfx4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx4/signalfx-java-agent-0.48.0-sfx4.jar returned status 404
+0.48.0-sfx4	unbundled	2020-12-21T19:15:59Z	
+0.48.0-sfx5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx5/signalfx-java-agent-0.48.0-sfx5.jar returned status 404
+0.48.0-sfx5	unbundled	2020-12-23T14:11:22Z	
+0.48.0-sfx6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx6/signalfx-java-agent-0.48.0-sfx6.jar returned status 404
+0.48.0-sfx6	unbundled	2021-03-03T17:22:05Z	
+0.48.0-sfx7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx7/signalfx-java-agent-0.48.0-sfx7.jar returned status 404
+0.48.0-sfx7	unbundled	2022-03-29T20:05:26Z	
+0.48.0-sfx8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-java-agent/0.48.0-sfx8/signalfx-java-agent-0.48.0-sfx8.jar returned status 404
+0.48.0-sfx8	unbundled	2022-08-18T17:46:18Z	

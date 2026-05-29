@@ -1,0 +1,37 @@
+1.1.0		2015-07-01T18:32:15Z	
+1.10.0		2017-03-09T03:23:52Z	
+1.11.0		2017-07-24T14:48:25Z	
+1.12.0		2017-12-10T14:48:48Z	
+1.13.0		2018-03-13T08:25:06Z	
+1.14.0		2018-08-01T00:32:17Z	
+1.15.0		2018-12-24T18:41:49Z	
+1.16.0		2019-04-26T07:36:54Z	
+1.16.0	jar	2019-04-26T07:40:22Z	
+1.17.0		2019-12-22T16:06:48Z	
+1.17.0	jar	2019-12-22T16:07:11Z	
+1.18.0		2020-08-30T17:36:21Z	
+1.18.0	jar	2020-08-30T17:37:36Z	
+1.19.0		2021-06-05T06:23:02Z	
+1.19.0	jar	2021-06-05T06:23:21Z	
+1.2.0		2015-10-12T05:21:15Z	
+1.20.0		2022-02-22T18:32:19Z	
+1.20.0	jar	2022-02-22T18:33:21Z	
+1.20.0-hadoop2		2022-02-23T05:19:16Z	
+1.20.0-hadoop2	jar	2022-02-23T05:19:37Z	
+1.20.2		2022-08-01T09:37:03Z	
+1.20.2	jar	2022-08-01T09:37:34Z	
+1.21.0			InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.21.0	jar		InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.21.1			InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.21.1	jar		InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.21.2			InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.21.2	jar		InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.22.0			InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.22.0	jar		InvalidModuleDescriptorException: Package com.fasterxml.jackson.core.format missing from ModulePackages class file attribute
+1.3.0		2015-11-18T06:10:10Z	
+1.4.0		2015-12-08T09:35:37Z	
+1.5.0		2016-02-09T23:53:22Z	
+1.6.0		2016-03-11T02:02:22Z	
+1.7.0		2016-06-23T20:06:21Z	
+1.8.0		2016-08-25T06:20:28Z	
+1.9.0		2016-11-18T20:32:16Z	

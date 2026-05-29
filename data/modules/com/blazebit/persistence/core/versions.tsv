@@ -1,0 +1,69 @@
+1.2.0-Alpha5	automatic	com.blazebit	blaze-persistence-core-api	2018-03-15T20:09:46Z	
+1.2.0-Alpha6	automatic	com.blazebit	blaze-persistence-core-api	2018-03-17T11:52:19Z	
+1.2.0-RC1	automatic	com.blazebit	blaze-persistence-core-api	2018-05-03T23:30:31Z	
+1.2.0	automatic	com.blazebit	blaze-persistence-core-api	2018-05-08T05:51:57Z	
+1.2.1	automatic	com.blazebit	blaze-persistence-core-api	2018-07-04T21:08:21Z	
+1.3.0-Alpha1	automatic	com.blazebit	blaze-persistence-core-api	2018-07-05T09:01:29Z	
+1.3.0-Alpha2	automatic	com.blazebit	blaze-persistence-core-api	2018-07-20T13:45:20Z	
+1.3.0-Alpha3	automatic	com.blazebit	blaze-persistence-core-api	2018-09-06T18:42:00Z	
+1.3.0	automatic	com.blazebit	blaze-persistence-core-api	2018-11-23T18:24:36Z	
+1.3.1	automatic	com.blazebit	blaze-persistence-core-api	2019-01-15T12:59:52Z	
+1.3.2	automatic	com.blazebit	blaze-persistence-core-api	2019-02-26T07:52:15Z	
+1.4.0-Alpha1	automatic	com.blazebit	blaze-persistence-core-api	2019-05-29T18:38:34Z	
+1.4.0-Alpha2	named	com.blazebit	blaze-persistence-core-api	2019-09-16T23:59:50Z	1.4.0-Alpha2
+1.4.0-Alpha3	named	com.blazebit	blaze-persistence-core-api	2019-10-26T07:42:25Z	1.4.0-Alpha3
+1.4.0-Alpha4	named	com.blazebit	blaze-persistence-core-api	2019-12-29T17:09:18Z	1.4.0-Alpha4
+1.4.0	named	com.blazebit	blaze-persistence-core-api	2020-01-04T11:54:37Z	1.4.0
+1.4.1	named	com.blazebit	blaze-persistence-core-api	2020-01-28T14:43:38Z	1.4.1
+1.5.0-Alpha1	named	com.blazebit	blaze-persistence-core-api	2020-03-18T10:24:57Z	1.5.0-Alpha1
+1.5.0-Alpha2	named	com.blazebit	blaze-persistence-core-api	2020-05-14T08:25:38Z	1.5.0-Alpha2
+1.5.0-Alpha3	named	com.blazebit	blaze-persistence-core-api	2020-05-24T14:34:43Z	1.5.0-Alpha3
+1.5.0-Alpha4	named	com.blazebit	blaze-persistence-core-api	2020-05-29T16:44:32Z	1.5.0-Alpha4
+1.5.0-Alpha5	named	com.blazebit	blaze-persistence-core-api	2020-06-08T19:44:57Z	1.5.0-Alpha5
+1.5.0	named	com.blazebit	blaze-persistence-core-api	2020-09-03T11:57:33Z	1.5.0
+1.5.1	named	com.blazebit	blaze-persistence-core-api	2020-09-14T13:13:18Z	1.5.1
+1.6.0-Alpha1	named	com.blazebit	blaze-persistence-core-api	2020-10-21T21:55:40Z	1.6.0-Alpha1
+1.6.0-Alpha2	named	com.blazebit	blaze-persistence-core-api	2021-01-17T22:48:00Z	1.6.0-Alpha2
+1.6.0	named	com.blazebit	blaze-persistence-core-api	2021-04-24T17:24:29Z	1.6.0
+1.6.1	named	com.blazebit	blaze-persistence-core-api	2021-07-08T06:44:58Z	1.6.1
+1.6.2	named	com.blazebit	blaze-persistence-core-api	2021-09-05T16:47:18Z	1.6.2
+1.6.3	named	com.blazebit	blaze-persistence-core-api	2021-10-10T06:45:48Z	1.6.3
+1.6.4	named	com.blazebit	blaze-persistence-core-api	2021-12-27T10:41:40Z	1.6.4
+1.6.4	named	com.blazebit	blaze-persistence-core-api-jakarta	2021-12-27T10:44:44Z	1.6.4
+1.6.5	named	com.blazebit	blaze-persistence-core-api	2022-01-19T10:01:29Z	1.6.5
+1.6.5	named	com.blazebit	blaze-persistence-core-api-jakarta	2022-01-19T10:04:49Z	1.6.5
+1.6.6	named	com.blazebit	blaze-persistence-core-api	2022-01-29T09:46:50Z	1.6.6
+1.6.6	named	com.blazebit	blaze-persistence-core-api-jakarta	2022-01-29T09:49:50Z	1.6.6
+1.6.7	named	com.blazebit	blaze-persistence-core-api	2022-08-04T14:48:00Z	1.6.7
+1.6.7	named	com.blazebit	blaze-persistence-core-api-jakarta	2022-08-04T14:51:58Z	1.6.7
+1.6.8	named	com.blazebit	blaze-persistence-core-api	2022-11-21T12:20:56Z	1.6.8
+1.6.8	named	com.blazebit	blaze-persistence-core-api-jakarta	2022-11-21T12:23:48Z	1.6.8
+1.6.9	named	com.blazebit	blaze-persistence-core-api	2023-06-15T17:03:14Z	1.6.9
+1.6.9	named	com.blazebit	blaze-persistence-core-api-jakarta	2023-06-15T17:06:06Z	1.6.9
+1.6.10	named	com.blazebit	blaze-persistence-core-api	2023-11-12T20:50:16Z	1.6.10
+1.6.10	automatic	com.blazebit	blaze-persistence-core-api-jar	2023-11-12T20:52:54Z	
+1.6.10	named	com.blazebit	blaze-persistence-core-api-jakarta	2023-11-12T20:53:28Z	1.6.10
+1.6.11	named	com.blazebit	blaze-persistence-core-api	2024-01-10T21:33:07Z	1.6.11
+1.6.11	automatic	com.blazebit	blaze-persistence-core-api-jar	2024-01-10T21:35:06Z	
+1.6.11	named	com.blazebit	blaze-persistence-core-api-jakarta	2024-01-10T21:35:33Z	1.6.11
+1.6.12	named	com.blazebit	blaze-persistence-core-api	2024-08-02T17:36:20Z	1.6.12
+1.6.12	automatic	com.blazebit	blaze-persistence-core-api-jar	2024-08-02T17:38:37Z	
+1.6.12	named	com.blazebit	blaze-persistence-core-api-jakarta	2024-08-02T17:39:03Z	1.6.12
+1.6.13	named	com.blazebit	blaze-persistence-core-api	2024-11-04T15:26:39Z	1.6.13
+1.6.13	automatic	com.blazebit	blaze-persistence-core-api-jar	2024-11-04T15:29:18Z	
+1.6.13	named	com.blazebit	blaze-persistence-core-api-jakarta	2024-11-04T15:29:51Z	1.6.13
+1.6.14	named	com.blazebit	blaze-persistence-core-api	2024-11-06T12:37:04Z	1.6.14
+1.6.14	automatic	com.blazebit	blaze-persistence-core-api-jar	2024-11-06T12:39:47Z	
+1.6.14	named	com.blazebit	blaze-persistence-core-api-jakarta	2024-11-06T12:40:30Z	1.6.14
+1.6.15	named	com.blazebit	blaze-persistence-core-api	2025-03-27T16:42:14Z	1.6.15
+1.6.15	automatic	com.blazebit	blaze-persistence-core-api-jar	2025-03-27T16:45:15Z	
+1.6.15	named	com.blazebit	blaze-persistence-core-api-jakarta	2025-03-27T16:46:11Z	1.6.15
+1.6.16	named	com.blazebit	blaze-persistence-core-api	2025-07-10T21:10:24Z	1.6.16
+1.6.16	named	com.blazebit	blaze-persistence-core-api-jakarta	2025-07-10T21:10:28Z	1.6.16
+1.6.16	automatic	com.blazebit	blaze-persistence-core-api-jar	2025-07-10T21:10:28Z	
+1.6.17	named	com.blazebit	blaze-persistence-core-api	2025-09-03T11:43:35Z	1.6.17
+1.6.17	automatic	com.blazebit	blaze-persistence-core-api-jar	2025-09-03T11:43:35Z	
+1.6.17	named	com.blazebit	blaze-persistence-core-api-jakarta	2025-09-03T11:43:37Z	1.6.17
+1.6.18	named	com.blazebit	blaze-persistence-core-api	2026-02-01T21:02:46Z	1.6.18
+1.6.18	named	com.blazebit	blaze-persistence-core-api-jakarta	2026-02-01T21:02:47Z	1.6.18
+1.6.18	automatic	com.blazebit	blaze-persistence-core-api-jar	2026-02-01T21:02:47Z	

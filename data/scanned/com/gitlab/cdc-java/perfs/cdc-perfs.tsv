@@ -1,0 +1,4 @@
+0.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/perfs/cdc-perfs/0.53.0/cdc-perfs-0.53.0.jar returned status 404
+0.53.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/perfs/cdc-perfs/0.53.1/cdc-perfs-0.53.1.jar returned status 404
+0.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/perfs/cdc-perfs/0.54.0/cdc-perfs-0.54.0.jar returned status 404
+0.54.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/perfs/cdc-perfs/0.54.1/cdc-perfs-0.54.1.jar returned status 404

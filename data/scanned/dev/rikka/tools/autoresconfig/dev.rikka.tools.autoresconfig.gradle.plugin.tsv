@@ -1,0 +1,7 @@
+1.0.0		2022-03-08T16:38:08Z	
+1.0.1		2022-03-09T02:19:15Z	
+1.1.0		2022-03-09T06:34:05Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/tools/autoresconfig/dev.rikka.tools.autoresconfig.gradle.plugin/1.1.1/dev.rikka.tools.autoresconfig.gradle.plugin-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/tools/autoresconfig/dev.rikka.tools.autoresconfig.gradle.plugin/1.2.0/dev.rikka.tools.autoresconfig.gradle.plugin-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/tools/autoresconfig/dev.rikka.tools.autoresconfig.gradle.plugin/1.2.1/dev.rikka.tools.autoresconfig.gradle.plugin-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/tools/autoresconfig/dev.rikka.tools.autoresconfig.gradle.plugin/1.2.2/dev.rikka.tools.autoresconfig.gradle.plugin-1.2.2.jar returned status 404

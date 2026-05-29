@@ -1,0 +1,140 @@
+4.12.0-M5	automatic	org.junit.vintage	junit-vintage-engine	2017-07-04T16:42:41Z	
+4.12.0-M6	automatic	org.junit.vintage	junit-vintage-engine	2017-07-18T19:41:51Z	
+4.12.0-RC1	automatic	org.junit.vintage	junit-vintage-engine	2017-07-30T19:16:44Z	
+4.12.0-RC2	automatic	org.junit.vintage	junit-vintage-engine	2017-07-30T20:40:56Z	
+4.12.0-RC3	automatic	org.junit.vintage	junit-vintage-engine	2017-08-23T18:45:51Z	
+4.12.0	automatic	org.junit.vintage	junit-vintage-engine	2017-09-10T18:14:20Z	
+4.12.1	automatic	org.junit.vintage	junit-vintage-engine	2017-10-03T12:31:35Z	
+4.12.2	automatic	org.junit.vintage	junit-vintage-engine	2017-11-12T14:06:35Z	
+5.1.0-M1	automatic	org.junit.vintage	junit-vintage-engine	2017-11-19T15:59:19Z	
+4.12.3	automatic	org.junit.vintage	junit-vintage-engine	2018-01-15T19:08:50Z	
+5.1.0-M2	automatic	org.junit.vintage	junit-vintage-engine	2018-01-28T19:41:16Z	
+5.1.0-RC1	automatic	org.junit.vintage	junit-vintage-engine	2018-02-04T18:57:40Z	
+5.1.0	automatic	org.junit.vintage	junit-vintage-engine	2018-02-18T19:48:29Z	
+5.1.1	automatic	org.junit.vintage	junit-vintage-engine	2018-04-08T19:06:23Z	
+5.2.0-M1	automatic	org.junit.vintage	junit-vintage-engine	2018-04-15T17:38:32Z	
+5.2.0-RC1	automatic	org.junit.vintage	junit-vintage-engine	2018-04-22T19:22:51Z	
+5.2.0	automatic	org.junit.vintage	junit-vintage-engine	2018-04-29T18:33:46Z	
+5.3.0-M1	automatic	org.junit.vintage	junit-vintage-engine	2018-06-24T19:58:28Z	
+5.3.0-RC1	automatic	org.junit.vintage	junit-vintage-engine	2018-08-13T18:55:55Z	
+5.3.0	automatic	org.junit.vintage	junit-vintage-engine	2018-09-03T19:24:23Z	
+5.3.1	automatic	org.junit.vintage	junit-vintage-engine	2018-09-11T04:50:48Z	
+5.3.2	automatic	org.junit.vintage	junit-vintage-engine	2018-11-25T19:12:31Z	
+5.4.0-M1	automatic	org.junit.vintage	junit-vintage-engine	2018-12-23T18:25:57Z	
+5.4.0-RC1	automatic	org.junit.vintage	junit-vintage-engine	2019-01-24T19:44:37Z	
+5.4.0-RC2	automatic	org.junit.vintage	junit-vintage-engine	2019-01-31T19:33:09Z	
+5.4.0	automatic	org.junit.vintage	junit-vintage-engine	2019-02-07T20:16:27Z	
+5.4.1	automatic	org.junit.vintage	junit-vintage-engine	2019-03-17T19:12:39Z	
+5.5.0-M1	automatic	org.junit.vintage	junit-vintage-engine	2019-03-19T16:12:57Z	
+5.4.2	automatic	org.junit.vintage	junit-vintage-engine	2019-04-07T17:31:55Z	
+5.5.0-RC1	named	org.junit.vintage	junit-vintage-engine	2019-06-06T20:40:38Z	5.5.0-RC1
+5.5.0-RC2	named	org.junit.vintage	junit-vintage-engine	2019-06-20T09:29:09Z	5.5.0-RC2
+5.5.0	named	org.junit.vintage	junit-vintage-engine	2019-06-30T19:49:16Z	5.5.0
+5.5.1	named	org.junit.vintage	junit-vintage-engine	2019-07-20T14:41:00Z	5.5.1
+5.5.2	named	org.junit.vintage	junit-vintage-engine	2019-09-08T18:34:48Z	5.5.2
+5.6.0-M1	named	org.junit.vintage	junit-vintage-engine	2019-10-21T19:10:22Z	5.6.0-M1
+5.6.0-RC1	named	org.junit.vintage	junit-vintage-engine	2020-01-06T15:59:21Z	5.6.0-RC1
+5.6.0	named	org.junit.vintage	junit-vintage-engine	2020-01-20T20:04:43Z	5.6.0
+5.6.1	named	org.junit.vintage	junit-vintage-engine	2020-03-22T18:55:18Z	5.6.1
+5.6.2	named	org.junit.vintage	junit-vintage-engine	2020-04-10T14:19:55Z	5.6.2
+1.7.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2020-04-17T14:45:13Z	5.5.1
+1.7.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit56	2020-04-17T14:45:24Z	5.6.0
+5.7.0-M1	named	org.junit.vintage	junit-vintage-engine	2020-04-19T18:29:59Z	5.7.0-M1
+2.0.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2020-08-03T07:29:22Z	5.5.1
+5.7.0-RC1	named	org.junit.vintage	junit-vintage-engine	2020-08-16T16:29:37Z	5.7.0-RC1
+5.7.0	named	org.junit.vintage	junit-vintage-engine	2020-09-13T13:15:20Z	5.7.0
+2.1.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2020-10-21T11:47:09Z	5.5.1
+5.6.3	named	org.junit.vintage	junit-vintage-engine	2020-10-26T20:39:49Z	5.6.3
+2.2.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2021-01-11T10:51:44Z	5.5.1
+5.7.1	named	org.junit.vintage	junit-vintage-engine	2021-02-04T19:48:33Z	5.7.1
+5.8.0-M1	named	org.junit.vintage	junit-vintage-engine	2021-02-11T18:58:56Z	5.8.0-M1
+2.3.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2021-03-24T20:09:06Z	5.5.1
+5.7.2	named	org.junit.vintage	junit-vintage-engine	2021-05-15T12:16:11Z	5.7.2
+2.4.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2021-07-19T16:49:39Z	5.5.1
+5.8.0-RC1	named	org.junit.vintage	junit-vintage-engine	2021-08-17T17:34:37Z	5.8.0-RC1
+5.8.0	named	org.junit.vintage	junit-vintage-engine	2021-09-12T18:46:29Z	5.8.0
+5.8.1	named	org.junit.vintage	junit-vintage-engine	2021-09-22T18:56:28Z	5.8.1
+2.5.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2021-09-29T08:26:09Z	5.5.1
+5.8.2	named	org.junit.vintage	junit-vintage-engine	2021-11-28T15:39:55Z	5.8.2
+2.6.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-01-21T07:38:04Z	5.5.1
+2.7.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-02-28T06:38:27Z	5.5.1
+2.7.1	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-04-10T05:56:11Z	5.5.1
+2.7.2	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-05-02T05:54:57Z	5.5.1
+2.7.3	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-05-09T14:25:38Z	5.5.1
+5.9.0-M1	named	org.junit.vintage	junit-vintage-engine	2022-05-15T18:38:14Z	5.9.0-M1
+2.7.4	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-07-04T11:39:37Z	5.5.1
+5.9.0-RC1	named	org.junit.vintage	junit-vintage-engine	2022-07-04T19:41:36Z	5.9.0-RC1
+5.9.0	named	org.junit.vintage	junit-vintage-engine	2022-07-26T19:09:23Z	5.9.0
+2.7.5	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-09-05T09:14:36Z	5.5.1
+5.9.1	named	org.junit.vintage	junit-vintage-engine	2022-09-20T18:34:44Z	5.9.1
+3.0.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-09-30T07:42:26Z	5.5.1
+3.0.1	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2022-12-07T14:13:16Z	5.5.1
+5.9.2	named	org.junit.vintage	junit-vintage-engine	2023-01-10T11:02:04Z	5.9.2
+3.0.2	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-02-13T09:15:12Z	5.5.1
+3.0.3	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-02-17T16:51:09Z	5.5.1
+3.0.4	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-03-18T06:18:15Z	5.5.1
+5.9.3	named	org.junit.vintage	junit-vintage-engine	2023-04-26T06:28:12Z	5.9.3
+5.10.0-M1	named	org.junit.vintage	junit-vintage-engine	2023-05-13T12:45:52Z	5.10.0-M1
+3.0.5	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-06-23T06:48:13Z	5.5.1
+4.0.0	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-07-01T11:47:56Z	5.5.1
+5.10.0-RC1	named	org.junit.vintage	junit-vintage-engine	2023-07-06T13:12:47Z	5.10.0-RC1
+5.10.0-RC2	named	org.junit.vintage	junit-vintage-engine	2023-07-19T13:48:48Z	5.10.0-RC2
+5.10.0	named	org.junit.vintage	junit-vintage-engine	2023-07-23T12:52:48Z	5.10.0
+4.0.1	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-07-30T06:10:46Z	5.5.1
+4.0.2	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-08-21T11:55:31Z	5.5.1
+4.0.3	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-09-30T07:26:58Z	5.5.1
+5.10.1	named	org.junit.vintage	junit-vintage-engine	2023-11-05T16:50:03Z	5.10.1
+4.0.4	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2023-11-08T06:14:07Z	5.5.1
+4.0.5	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-01-29T09:18:56Z	5.5.1
+5.10.2	named	org.junit.vintage	junit-vintage-engine	2024-02-04T08:35:27Z	5.10.2
+4.0.6	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-02-17T17:13:14Z	5.5.1
+4.0.7	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-03-27T14:32:46Z	5.5.1
+5.11.0-M1	named	org.junit.vintage	junit-vintage-engine	2024-04-23T12:48:38Z	5.11.0-M1
+5.11.0-M2	named	org.junit.vintage	junit-vintage-engine	2024-05-17T14:52:35Z	5.11.0-M2
+4.0.8	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-05-24T14:52:32Z	5.5.1
+5.10.3	named	org.junit.vintage	junit-vintage-engine	2024-06-27T14:07:47Z	5.10.3
+5.11.0-RC1	named	org.junit.vintage	junit-vintage-engine	2024-07-31T11:06:17Z	5.11.0-RC1
+5.11.0	named	org.junit.vintage	junit-vintage-engine	2024-08-14T09:21:45Z	5.11.0
+4.0.9	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-09-19T08:16:41Z	5.5.1
+5.10.4	named	org.junit.vintage	junit-vintage-engine	2024-09-24T12:17:20Z	5.10.4
+5.11.1	named	org.junit.vintage	junit-vintage-engine	2024-09-25T06:59:57Z	5.11.1
+5.10.5	named	org.junit.vintage	junit-vintage-engine	2024-10-04T12:34:33Z	5.10.5
+5.11.2	named	org.junit.vintage	junit-vintage-engine	2024-10-04T12:56:59Z	5.11.2
+5.11.3	named	org.junit.vintage	junit-vintage-engine	2024-10-21T13:48:43Z	5.11.3
+4.0.10	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2024-11-13T08:03:16Z	5.5.1
+5.11.4	named	org.junit.vintage	junit-vintage-engine	2024-12-16T13:08:27Z	5.11.4
+5.12.0-M1	named	org.junit.vintage	junit-vintage-engine	2025-01-31T16:14:17Z	5.12.0-M1
+4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2025-02-05T08:04:25Z	5.5.1
+5.12.0-RC1	named	org.junit.vintage	junit-vintage-engine	2025-02-07T14:45:35Z	5.12.0-RC1
+5.12.0-RC2	named	org.junit.vintage	junit-vintage-engine	2025-02-12T11:23:52Z	5.12.0-RC2
+5.12.0	named	org.junit.vintage	junit-vintage-engine	2025-02-21T13:26:10Z	5.12.0
+4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2025-02-25T10:42:03Z	5.5.1
+5.12.1	named	org.junit.vintage	junit-vintage-engine	2025-03-14T13:09:18Z	5.12.1
+5.13.0-M1	named	org.junit.vintage	junit-vintage-engine	2025-03-21T13:27:10Z	5.13.0-M1
+5.13.0-M2	named	org.junit.vintage	junit-vintage-engine	2025-03-24T06:42:31Z	5.13.0-M2
+5.12.2	named	org.junit.vintage	junit-vintage-engine	2025-04-11T14:10:56Z	5.12.2
+5.13.0-M3	named	org.junit.vintage	junit-vintage-engine	2025-05-02T11:34:07Z	5.13.0-M3
+5.13.0-RC1	named	org.junit.vintage	junit-vintage-engine	2025-05-16T17:42:44Z	5.13.0-RC1
+4.0.13	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit55	2025-05-24T04:05:38Z	5.5.1
+5.13.0	named	org.junit.vintage	junit-vintage-engine	2025-05-30T10:02:27Z	5.13.0
+5.13.1	named	org.junit.vintage	junit-vintage-engine	2025-06-07T07:50:17Z	5.13.1
+5.13.2	named	org.junit.vintage	junit-vintage-engine	2025-06-24T12:27:31Z	5.13.2
+6.0.0-M1	named	org.junit.vintage	junit-vintage-engine	2025-06-27T14:32:15Z	6.0.0-M1
+5.13.3	named	org.junit.vintage	junit-vintage-engine	2025-07-04T12:11:55Z	5.13.3
+5.13.4	named	org.junit.vintage	junit-vintage-engine	2025-07-21T06:59:19Z	5.13.4
+6.0.0-M2	named	org.junit.vintage	junit-vintage-engine	2025-07-22T08:28:51Z	6.0.0-M2
+6.0.0-RC1	named	org.junit.vintage	junit-vintage-engine	2025-08-20T07:48:14Z	6.0.0-RC1
+6.0.0-RC2	named	org.junit.vintage	junit-vintage-engine	2025-08-25T15:28:57Z	6.0.0-RC2
+6.0.0-RC3	named	org.junit.vintage	junit-vintage-engine	2025-09-14T12:08:01Z	6.0.0-RC3
+5.14.0-RC1	named	org.junit.vintage	junit-vintage-engine	2025-09-23T14:12:08Z	5.14.0-RC1
+5.14.0	named	org.junit.vintage	junit-vintage-engine	2025-09-30T07:16:20Z	5.14.0
+6.0.0	named	org.junit.vintage	junit-vintage-engine	2025-09-30T08:00:15Z	6.0.0
+5.14.1	named	org.junit.vintage	junit-vintage-engine	2025-10-31T14:30:44Z	5.14.1
+6.0.1	named	org.junit.vintage	junit-vintage-engine	2025-10-31T17:41:10Z	6.0.1
+6.1.0-M1	named	org.junit.vintage	junit-vintage-engine	2025-11-17T17:15:50Z	6.1.0-M1
+5.14.2	named	org.junit.vintage	junit-vintage-engine	2026-01-06T15:02:31Z	5.14.2
+6.0.2	named	org.junit.vintage	junit-vintage-engine	2026-01-06T15:53:25Z	6.0.2
+5.14.3	named	org.junit.vintage	junit-vintage-engine	2026-02-15T12:49:17Z	5.14.3
+6.0.3	named	org.junit.vintage	junit-vintage-engine	2026-02-15T13:34:05Z	6.0.3
+6.1.0-RC1	named	org.junit.vintage	junit-vintage-engine	2026-04-25T11:55:04Z	6.1.0-RC1
+5.14.4	named	org.junit.vintage	junit-vintage-engine	2026-04-26T11:20:52Z	5.14.4

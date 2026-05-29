@@ -1,0 +1,5 @@
+1.0.0		2021-05-22T17:29:48Z	
+1.0.1		2021-05-22T20:27:56Z	
+1.0.2		2021-05-23T01:36:24Z	
+1.0.3		2021-05-24T15:41:23Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chauvin/kotlin-dice-tray-js/2.0.0/kotlin-dice-tray-js-2.0.0.jar returned status 404

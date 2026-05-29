@@ -1,0 +1,10 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/1/oss-maven-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/10/oss-maven-10.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/2/oss-maven-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/3/oss-maven-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/4/oss-maven-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/5/oss-maven-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/6/oss-maven-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/7/oss-maven-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/8/oss-maven-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/metaschema/oss-maven/9/oss-maven-9.jar returned status 404

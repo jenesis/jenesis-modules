@@ -1,0 +1,2 @@
+12.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ikm/test-env/parent-test/12.50.0/parent-test-12.50.0.jar returned status 404
+12.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ikm/test-env/parent-test/12.54.0/parent-test-12.54.0.jar returned status 404

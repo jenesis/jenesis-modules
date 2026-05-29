@@ -1,0 +1,163 @@
+4.0.3	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-07-30T00:21:22Z	
+4.0.4	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-08-14T22:41:32Z	
+4.0.5	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-09-13T16:54:19Z	
+4.0.6	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-09-22T03:48:31Z	
+5.0.0	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-10-02T00:36:29Z	
+5.0.1	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-10-02T14:18:12Z	
+5.0.2	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-10-09T07:40:33Z	
+5.0.3	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-10-11T13:58:44Z	
+4.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-10-19T16:05:50Z	
+5.0.4	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-11-04T10:54:02Z	
+5.0.5	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-12-11T13:23:14Z	
+4.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-12-11T23:41:39Z	
+5.0.6	automatic	org.opendaylight.mdsal	mdsal-binding-api	2019-12-12T23:26:15Z	
+4.0.9	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-15T11:08:30Z	
+5.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-15T14:06:10Z	
+4.0.10	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-16T16:35:37Z	
+5.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-16T18:17:57Z	
+4.0.11	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-17T10:43:06Z	
+5.0.9	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-01-17T12:06:26Z	
+4.0.12	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-03-06T21:41:33Z	
+4.0.13	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-03-07T10:05:40Z	
+5.0.10	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-04-21T10:04:02Z	
+6.0.0	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-04-26T16:15:43Z	
+4.0.14	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-05-14T20:25:49Z	
+6.0.1	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-05-30T14:29:48Z	
+5.0.11	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-06-02T19:44:38Z	
+6.0.2	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-06-10T16:13:10Z	
+4.0.15	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-06-22T11:35:55Z	
+5.0.12	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-09T20:01:37Z	
+4.0.16	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-17T14:38:25Z	
+5.0.13	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-17T14:49:28Z	
+6.0.3	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-17T21:09:00Z	
+5.0.14	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-22T18:37:24Z	
+6.0.4	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-22T18:54:14Z	
+4.0.17	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-07-24T12:37:12Z	
+6.0.5	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-09-22T06:55:24Z	
+7.0.0	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-10-09T15:30:11Z	
+6.0.6	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-10-12T08:41:38Z	
+8.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2021-08-23T20:23:19Z	8.0.3
+7.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2021-01-08T12:22:59Z	7.0.4
+8.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2021-08-24T14:30:05Z	8.0.4
+7.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2021-07-07T12:36:06Z	7.0.8
+7.0.1	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-10-19T11:22:38Z	
+5.0.17	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-04-19T07:05:09Z	
+6.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-10-22T11:49:50Z	
+7.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2021-05-06T09:19:08Z	7.0.7
+7.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2021-01-25T15:55:42Z	7.0.5
+5.0.16	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-11-13T07:15:57Z	
+6.0.10	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-05-18T08:15:22Z	
+7.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2020-11-15T09:59:49Z	7.0.2
+8.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2021-07-24T21:38:32Z	8.0.1
+5.0.15	automatic	org.opendaylight.mdsal	mdsal-binding-api	2020-11-11T17:42:16Z	
+8.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2021-06-25T16:37:15Z	8.0.0
+7.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2020-12-19T13:48:21Z	7.0.3
+7.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2021-08-11T14:20:59Z	7.0.9
+7.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2021-02-24T20:20:05Z	7.0.6
+6.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-01-08T18:01:37Z	
+6.0.11	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-08-12T22:32:48Z	
+6.0.9	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-03-01T12:27:11Z	
+8.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2021-08-20T10:00:36Z	8.0.2
+8.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2021-09-12T10:06:34Z	8.0.5
+6.0.12	automatic	org.opendaylight.mdsal	mdsal-binding-api	2021-10-19T22:06:41Z	
+8.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2021-10-20T22:34:31Z	8.0.6
+7.0.10	named	org.opendaylight.mdsal	mdsal-binding-api	2021-10-20T12:30:39Z	7.0.10
+8.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2021-10-26T21:01:58Z	8.0.7
+7.0.11	named	org.opendaylight.mdsal	mdsal-binding-api	2021-12-24T13:01:57Z	7.0.11
+8.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2021-12-24T23:01:14Z	8.0.8
+7.0.12	named	org.opendaylight.mdsal	mdsal-binding-api	2022-01-09T08:19:13Z	7.0.12
+8.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2022-01-10T12:04:57Z	8.0.9
+8.0.10	named	org.opendaylight.mdsal	mdsal-binding-api	2022-01-19T09:41:47Z	8.0.10
+7.0.13	named	org.opendaylight.mdsal	mdsal-binding-api	2022-01-19T09:24:50Z	7.0.13
+7.0.14	named	org.opendaylight.mdsal	mdsal-binding-api	2022-01-26T13:15:50Z	7.0.14
+8.0.12	named	org.opendaylight.mdsal	mdsal-binding-api	2022-02-18T09:03:46Z	8.0.12
+8.0.11	named	org.opendaylight.mdsal	mdsal-binding-api	2022-02-14T01:04:27Z	8.0.11
+8.0.13	named	org.opendaylight.mdsal	mdsal-binding-api	2022-03-13T09:37:46Z	8.0.13
+9.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2022-03-20T12:33:04Z	9.0.0
+9.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2022-03-25T11:00:47Z	9.0.1
+9.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2022-04-14T08:13:27Z	9.0.2
+9.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2022-05-11T12:43:17Z	9.0.3
+8.0.14	named	org.opendaylight.mdsal	mdsal-binding-api	2022-05-14T10:12:04Z	8.0.14
+8.0.15	named	org.opendaylight.mdsal	mdsal-binding-api	2022-05-18T19:56:33Z	8.0.15
+9.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2022-05-25T18:55:01Z	9.0.4
+10.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2022-06-27T09:28:51Z	10.0.0
+9.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2022-08-20T14:24:14Z	9.0.5
+10.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2022-08-18T08:44:27Z	10.0.1
+10.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2022-09-14T13:06:25Z	10.0.2
+8.0.16	named	org.opendaylight.mdsal	mdsal-binding-api	2022-10-28T18:23:26Z	8.0.16
+9.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2022-10-28T18:32:26Z	9.0.6
+10.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2022-11-04T20:37:33Z	10.0.3
+11.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2022-11-25T17:21:52Z	11.0.0
+11.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2022-11-28T18:24:16Z	11.0.1
+10.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2022-11-28T19:10:47Z	10.0.4
+9.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2022-11-28T19:12:28Z	9.0.7
+10.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2022-12-03T18:36:46Z	10.0.5
+11.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2022-12-04T16:34:39Z	11.0.2
+11.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2022-12-18T10:50:15Z	11.0.3
+10.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2023-01-01T15:54:06Z	10.0.6
+11.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2023-01-19T18:05:02Z	11.0.4
+11.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2023-02-01T13:36:25Z	11.0.5
+11.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2023-02-05T11:12:37Z	11.0.6
+11.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2023-02-23T10:30:42Z	11.0.7
+9.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2023-03-16T13:14:53Z	9.0.8
+10.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2023-04-11T22:57:33Z	10.0.7
+11.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2023-04-20T15:39:19Z	11.0.9
+11.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2023-04-17T09:35:57Z	11.0.8
+11.0.10	named	org.opendaylight.mdsal	mdsal-binding-api	2023-05-27T11:45:57Z	11.0.10
+10.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2023-05-29T21:12:32Z	10.0.8
+11.0.11	named	org.opendaylight.mdsal	mdsal-binding-api	2023-06-07T15:25:47Z	11.0.11
+12.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2023-06-29T23:01:45Z	12.0.0
+11.0.12	named	org.opendaylight.mdsal	mdsal-binding-api	2023-07-26T15:25:27Z	11.0.12
+12.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2023-08-30T15:19:27Z	12.0.1
+12.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2023-09-17T09:48:00Z	12.0.2
+11.0.13	named	org.opendaylight.mdsal	mdsal-binding-api	2023-10-09T21:51:44Z	11.0.13
+11.0.14	named	org.opendaylight.mdsal	mdsal-binding-api	2023-10-23T10:50:43Z	11.0.14
+11.0.15	named	org.opendaylight.mdsal	mdsal-binding-api	2023-10-25T00:55:56Z	11.0.15
+12.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2023-10-30T18:29:15Z	12.0.3
+10.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2023-10-30T14:16:28Z	10.0.9
+12.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2023-12-28T12:12:22Z	12.0.4
+13.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2024-01-20T13:53:05Z	13.0.0
+13.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2024-03-14T06:24:02Z	13.0.1
+12.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2024-03-19T08:48:55Z	12.0.5
+13.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2024-04-16T10:22:31Z	13.0.2
+11.0.16	named	org.opendaylight.mdsal	mdsal-binding-api	2024-04-24T15:41:57Z	11.0.16
+13.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2024-05-05T04:13:11Z	13.0.3
+13.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2024-06-03T16:21:44Z	13.0.4
+12.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2024-06-03T22:33:45Z	12.0.6
+14.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2024-07-26T08:16:56Z	14.0.0
+14.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2024-07-28T15:16:30Z	14.0.1
+13.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2024-08-30T15:52:10Z	13.0.6
+13.0.5	named	org.opendaylight.mdsal	mdsal-binding-api	2024-08-25T16:32:36Z	13.0.5
+14.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2024-09-02T13:24:10Z	14.0.2
+12.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2024-10-08T13:48:24Z	12.0.7
+14.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2024-10-11T13:24:18Z	14.0.3
+12.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2024-10-18T08:39:05Z	12.0.8
+14.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2024-10-21T07:45:56Z	14.0.4
+13.0.7	named	org.opendaylight.mdsal	mdsal-binding-api	2024-11-11T13:58:07Z	13.0.7
+14.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2024-11-30T08:16:13Z	14.0.6
+14.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2025-01-28T13:46:31Z	14.0.8
+13.0.8	named	org.opendaylight.mdsal	mdsal-binding-api	2025-01-28T19:38:05Z	13.0.8
+14.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2025-02-08T21:07:02Z	14.0.9
+14.0.10	named	org.opendaylight.mdsal	mdsal-binding-api	2025-02-25T21:06:12Z	14.0.10
+14.0.11	named	org.opendaylight.mdsal	mdsal-binding-api	2025-03-08T07:11:31Z	14.0.11
+14.0.12	named	org.opendaylight.mdsal	mdsal-binding-api	2025-04-19T16:15:36Z	14.0.12
+14.0.13	named	org.opendaylight.mdsal	mdsal-binding-api	2025-06-10T16:30:39Z	14.0.13
+13.0.10	named	org.opendaylight.mdsal	mdsal-binding-api	2025-07-14T20:06:54Z	13.0.10
+13.0.9	named	org.opendaylight.mdsal	mdsal-binding-api	2025-07-13T17:16:21Z	13.0.9
+14.0.14	named	org.opendaylight.mdsal	mdsal-binding-api	2025-08-07T23:35:00Z	14.0.14
+14.0.15	named	org.opendaylight.mdsal	mdsal-binding-api	2025-08-13T14:37:49Z	14.0.15
+14.0.16	named	org.opendaylight.mdsal	mdsal-binding-api	2025-09-04T12:31:43Z	14.0.16
+14.0.17	named	org.opendaylight.mdsal	mdsal-binding-api	2025-09-09T22:25:51Z	14.0.17
+15.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2025-09-20T11:00:28Z	15.0.0
+14.0.18	named	org.opendaylight.mdsal	mdsal-binding-api	2025-09-16T17:43:59Z	14.0.18
+15.0.1	named	org.opendaylight.mdsal	mdsal-binding-api	2025-10-15T19:06:08Z	15.0.1
+14.0.19	named	org.opendaylight.mdsal	mdsal-binding-api	2025-10-15T19:28:35Z	14.0.19
+15.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2025-11-02T13:18:12Z	15.0.2
+14.0.20	named	org.opendaylight.mdsal	mdsal-binding-api	2025-12-05T17:44:17Z	14.0.20
+15.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2026-01-15T08:47:53Z	15.0.3
+14.0.21	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-12T01:58:29Z	14.0.21
+15.0.4	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-12T10:12:05Z	15.0.4
+16.0.0	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-12T20:49:30Z	16.0.0
+16.0.2	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-20T12:29:41Z	16.0.2
+15.0.6	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-20T12:31:28Z	15.0.6
+16.0.3	named	org.opendaylight.mdsal	mdsal-binding-api	2026-03-25T17:04:16Z	16.0.3

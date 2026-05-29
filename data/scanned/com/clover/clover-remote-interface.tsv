@@ -1,0 +1,6 @@
+290.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/290.3/clover-remote-interface-290.3.jar returned status 404
+290.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/290.8/clover-remote-interface-290.8.jar returned status 404
+315			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/315/clover-remote-interface-315.jar returned status 404
+356			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/356/clover-remote-interface-356.jar returned status 404
+360			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/360/clover-remote-interface-360.jar returned status 404
+361			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clover/clover-remote-interface/361/clover-remote-interface-361.jar returned status 404

@@ -1,0 +1,4 @@
+4.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thing4/openhab/runtime/4.3.4/runtime-4.3.4.jar returned status 404
+4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thing4/openhab/runtime/4.3.5/runtime-4.3.5.jar returned status 404
+4.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thing4/openhab/runtime/4.3.6/runtime-4.3.6.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thing4/openhab/runtime/5.0.0/runtime-5.0.0.jar returned status 404

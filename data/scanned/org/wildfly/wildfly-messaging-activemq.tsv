@@ -1,0 +1,68 @@
+10.0.0.Alpha4		2015-06-27T02:50:51Z	
+10.0.0.Alpha5		2015-07-11T21:34:09Z	
+10.0.0.Alpha6		2015-07-27T01:17:35Z	
+10.0.0.Beta1		2015-08-09T17:34:07Z	
+10.0.0.Beta2		2015-08-23T14:07:43Z	
+10.0.0.CR1		2015-09-17T03:48:01Z	
+10.0.0.CR2		2015-09-25T03:08:27Z	
+10.0.0.CR3		2015-10-20T04:13:49Z	
+10.0.0.CR4		2015-10-23T18:54:01Z	
+10.0.0.CR5		2015-12-23T06:52:01Z	
+10.0.0.Final		2016-01-29T22:10:20Z	
+10.1.0.CR1		2016-07-28T05:59:03Z	
+10.1.0.Final		2016-08-19T00:10:16Z	
+11.0.0.Alpha1		2017-03-27T16:57:57Z	
+11.0.0.Beta1		2017-08-04T04:24:05Z	
+11.0.0.CR1		2017-08-26T01:16:53Z	
+11.0.0.Final		2017-10-24T03:27:58Z	
+12.0.0.Beta1		2018-02-15T16:02:50Z	
+12.0.0.CR1		2018-02-27T02:22:41Z	
+12.0.0.Final		2018-03-01T06:26:07Z	
+13.0.0.Beta1		2018-05-17T22:07:03Z	
+13.0.0.Final		2018-05-31T02:25:40Z	
+14.0.0.Beta1		2018-07-25T08:20:28Z	
+14.0.0.Beta2		2018-08-15T23:07:29Z	
+14.0.0.Final		2018-08-30T22:03:25Z	
+14.0.1.Final		2018-09-06T00:31:31Z	
+15.0.0.Beta1		2018-11-15T02:10:26Z	
+15.0.0.Final		2018-11-30T22:59:33Z	
+15.0.1.Final		2019-01-05T19:00:41Z	
+16.0.0.Beta1		2019-02-13T23:33:13Z	
+16.0.0.Final		2019-02-28T00:46:09Z	
+17.0.0.Alpha1		2019-05-16T03:11:05Z	
+17.0.0.Beta1		2019-05-24T17:40:25Z	
+17.0.0.Final		2019-06-07T17:35:42Z	
+17.0.1.Final		2019-07-03T01:56:38Z	
+18.0.0.Beta1		2019-09-04T23:59:16Z	
+18.0.0.Final		2019-10-03T16:35:23Z	
+18.0.1.Final		2019-11-15T01:34:56Z	
+19.0.0.Beta1		2020-01-17T18:50:30Z	
+19.0.0.Beta2		2020-02-10T18:11:34Z	
+19.0.0.Beta3		2020-03-05T23:13:30Z	
+19.0.0.Final		2020-03-17T22:55:33Z	
+19.1.0.Final		2020-05-04T01:45:43Z	
+20.0.0.Beta1		2020-05-20T22:53:24Z	
+20.0.0.Final		2020-06-07T20:38:49Z	
+20.0.1.Final		2020-07-07T23:33:31Z	
+21.0.0.Beta1		2020-09-18T19:06:20Z	
+21.0.0.Final		2020-10-12T22:05:03Z	
+21.0.1.Final		2020-11-19T22:27:30Z	
+21.0.2.Final		2020-12-16T03:16:45Z	
+22.0.0.Alpha1		2020-11-13T02:29:17Z	
+22.0.0.Beta1		2020-12-16T20:35:11Z	
+22.0.0.Final		2021-01-13T04:54:45Z	
+22.0.1.Final		2021-02-11T17:46:09Z	
+23.0.0.Beta1		2021-02-25T01:23:06Z	
+23.0.0.Final		2021-03-10T21:41:04Z	
+23.0.1.Final		2021-04-13T01:30:11Z	
+23.0.2.Final		2021-04-27T12:15:32Z	
+37.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/37.0.0.Beta1/wildfly-messaging-activemq-37.0.0.Beta1.jar returned status 404
+37.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/37.0.0.Final/wildfly-messaging-activemq-37.0.0.Final.jar returned status 404
+37.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/37.0.1.Final/wildfly-messaging-activemq-37.0.1.Final.jar returned status 404
+38.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/38.0.0.Beta1/wildfly-messaging-activemq-38.0.0.Beta1.jar returned status 404
+38.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/38.0.0.Final/wildfly-messaging-activemq-38.0.0.Final.jar returned status 404
+38.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/38.0.1.Final/wildfly-messaging-activemq-38.0.1.Final.jar returned status 404
+39.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/39.0.0.Beta1/wildfly-messaging-activemq-39.0.0.Beta1.jar returned status 404
+39.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/39.0.0.Final/wildfly-messaging-activemq-39.0.0.Final.jar returned status 404
+39.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/39.0.1.Final/wildfly-messaging-activemq-39.0.1.Final.jar returned status 404
+40.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-messaging-activemq/40.0.0.Beta1/wildfly-messaging-activemq-40.0.0.Beta1.jar returned status 404

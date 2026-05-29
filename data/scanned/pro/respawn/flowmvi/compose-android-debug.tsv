@@ -1,0 +1,4 @@
+2.2.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/respawn/flowmvi/compose-android-debug/2.2.0-rc/compose-android-debug-2.2.0-rc.jar returned status 404
+2.2.1-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/respawn/flowmvi/compose-android-debug/2.2.1-rc/compose-android-debug-2.2.1-rc.jar returned status 404
+2.2.2-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/respawn/flowmvi/compose-android-debug/2.2.2-rc/compose-android-debug-2.2.2-rc.jar returned status 404
+2.3.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/respawn/flowmvi/compose-android-debug/2.3.0-rc/compose-android-debug-2.3.0-rc.jar returned status 404

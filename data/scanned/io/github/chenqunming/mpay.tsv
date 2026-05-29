@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenqunming/mpay/1.0.0/mpay-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenqunming/mpay/1.0.1/mpay-1.0.1.jar returned status 404
+SNAPSHOT-1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenqunming/mpay/SNAPSHOT-1.0.0/mpay-SNAPSHOT-1.0.0.jar returned status 404
+SNAPSHOT-1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenqunming/mpay/SNAPSHOT-1.0.1/mpay-SNAPSHOT-1.0.1.jar returned status 404

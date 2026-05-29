@@ -1,0 +1,173 @@
+9.4.13.v20181111	automatic	org.eclipse.jetty	jetty-deploy	2018-11-12T02:34:31Z	
+9.4.14.v20181114	automatic	org.eclipse.jetty	jetty-deploy	2018-11-14T21:49:28Z	
+9.4.15.v20190215	automatic	org.eclipse.jetty	jetty-deploy	2019-02-15T17:09:46Z	
+9.4.16.v20190411	automatic	org.eclipse.jetty	jetty-deploy	2019-04-11T15:43:17Z	
+9.4.17.v20190418	automatic	org.eclipse.jetty	jetty-deploy	2019-04-18T20:03:07Z	
+9.4.18.v20190429	automatic	org.eclipse.jetty	jetty-deploy	2019-04-29T20:59:52Z	
+9.4.19.v20190610	automatic	org.eclipse.jetty	jetty-deploy	2019-06-10T17:19:34Z	
+10.0.0-alpha0	named	org.eclipse.jetty	jetty-deploy	2019-07-11T11:42:43Z	10.0.0-alpha0
+9.4.20.v20190813	automatic	org.eclipse.jetty	jetty-deploy	2019-08-13T21:49:28Z	
+9.4.21.v20190926	automatic	org.eclipse.jetty	jetty-deploy	2019-09-26T22:53:31Z	
+9.4.22.v20191022	automatic	org.eclipse.jetty	jetty-deploy	2019-10-22T13:59:02Z	
+9.4.23.v20191118	automatic	org.eclipse.jetty	jetty-deploy	2019-11-18T19:35:56Z	
+9.4.24.v20191120	automatic	org.eclipse.jetty	jetty-deploy	2019-11-20T21:48:27Z	
+10.0.0.alpha1	named	org.eclipse.jetty	jetty-deploy	2019-11-26T23:03:23Z	10.0.0.alpha1
+9.4.25.v20191220	automatic	org.eclipse.jetty	jetty-deploy	2019-12-20T17:11:35Z	
+9.4.26.v20200117	automatic	org.eclipse.jetty	jetty-deploy	2020-01-17T12:48:12Z	
+9.4.27.v20200227	automatic	org.eclipse.jetty	jetty-deploy	2020-02-27T18:49:57Z	
+10.0.0.alpha2	named	org.eclipse.jetty	jetty-deploy	2020-03-23T15:55:00Z	10.0.0.alpha2
+9.4.28.v20200408	automatic	org.eclipse.jetty	jetty-deploy	2020-04-08T18:00:44Z	
+9.4.29.v20200521	automatic	org.eclipse.jetty	jetty-deploy	2020-05-21T17:39:59Z	
+10.0.0.beta0	named	org.eclipse.jetty	jetty-deploy	2020-05-27T22:47:12Z	10.0.0.beta0
+11.0.0-alpha0	named	org.eclipse.jetty	jetty-deploy	2020-05-30T07:49:25Z	11.0.0-alpha0
+9.4.30.v20200611	automatic	org.eclipse.jetty	jetty-deploy	2020-06-11T12:46:34Z	
+10.0.0.beta1	named	org.eclipse.jetty	jetty-deploy	2020-07-10T05:41:32Z	10.0.0.beta1
+11.0.0.beta1	named	org.eclipse.jetty	jetty-deploy	2020-07-10T08:34:11Z	11.0.0.beta1
+9.4.31.v20200723	automatic	org.eclipse.jetty	jetty-deploy	2020-07-23T18:31:14Z	
+9.4.32.v20200930	automatic	org.eclipse.jetty	jetty-deploy	2020-09-30T16:25:40Z	
+10.0.0.beta2	named	org.eclipse.jetty	jetty-deploy	2020-10-02T20:02:26Z	10.0.0.beta2
+11.0.0.beta2	named	org.eclipse.jetty	jetty-deploy	2020-10-02T21:28:57Z	11.0.0.beta2
+9.4.33.v20201020	automatic	org.eclipse.jetty	jetty-deploy	2020-10-20T23:47:34Z	
+10.0.0.beta3	named	org.eclipse.jetty	jetty-deploy	2020-10-21T20:51:14Z	10.0.0.beta3
+11.0.0.beta3	named	org.eclipse.jetty	jetty-deploy	2020-10-21T21:15:34Z	11.0.0.beta3
+9.4.34.v20201102	automatic	org.eclipse.jetty	jetty-deploy	2020-11-02T14:32:43Z	
+9.4.35.v20201120	automatic	org.eclipse.jetty	jetty-deploy	2020-11-20T21:28:08Z	
+10.0.0	named	org.eclipse.jetty	jetty-deploy	2020-12-02T21:15:04Z	10.0.0
+11.0.0	named	org.eclipse.jetty	jetty-deploy	2020-12-02T21:45:38Z	11.0.0
+9.4.36.v20210114	automatic	org.eclipse.jetty	jetty-deploy	2021-01-14T16:56:36Z	
+9.4.37.v20210219	automatic	org.eclipse.jetty	jetty-deploy	2021-02-19T15:27:14Z	
+10.0.1	named	org.eclipse.jetty	jetty-deploy	2021-02-19T18:53:40Z	10.0.1
+11.0.1	named	org.eclipse.jetty	jetty-deploy	2021-02-19T22:09:50Z	11.0.1
+9.4.38.v20210224	automatic	org.eclipse.jetty	jetty-deploy	2021-02-24T20:38:50Z	
+9.4.39.v20210325	automatic	org.eclipse.jetty	jetty-deploy	2021-03-25T14:50:53Z	
+10.0.2	named	org.eclipse.jetty	jetty-deploy	2021-03-26T06:21:15Z	10.0.2
+11.0.2	named	org.eclipse.jetty	jetty-deploy	2021-03-26T06:48:13Z	11.0.2
+9.4.40.v20210413	automatic	org.eclipse.jetty	jetty-deploy	2021-04-13T20:51:16Z	
+9.4.41.v20210516	automatic	org.eclipse.jetty	jetty-deploy	2021-05-17T00:02:43Z	
+10.0.3	named	org.eclipse.jetty	jetty-deploy	2021-05-20T21:20:03Z	10.0.3
+11.0.3	named	org.eclipse.jetty	jetty-deploy	2021-05-20T21:59:44Z	11.0.3
+9.4.42.v20210604	automatic	org.eclipse.jetty	jetty-deploy	2021-06-04T17:40:40Z	
+10.0.4	named	org.eclipse.jetty	jetty-deploy	2021-06-04T18:16:53Z	10.0.4
+11.0.4	named	org.eclipse.jetty	jetty-deploy	2021-06-04T18:42:55Z	11.0.4
+10.0.5	named	org.eclipse.jetty	jetty-deploy	2021-06-11T14:25:44Z	10.0.5
+11.0.5	named	org.eclipse.jetty	jetty-deploy	2021-06-11T15:00:40Z	11.0.5
+10.0.6	named	org.eclipse.jetty	jetty-deploy	2021-06-29T15:35:57Z	10.0.6
+11.0.6	named	org.eclipse.jetty	jetty-deploy	2021-06-29T16:23:03Z	11.0.6
+9.4.43.v20210629	automatic	org.eclipse.jetty	jetty-deploy	2021-06-30T11:15:04Z	
+9.4.44.v20210927	automatic	org.eclipse.jetty	jetty-deploy	2021-09-27T23:10:07Z	
+10.0.7	named	org.eclipse.jetty	jetty-deploy	2021-10-06T19:41:10Z	10.0.7
+11.0.7	named	org.eclipse.jetty	jetty-deploy	2021-10-06T20:05:52Z	11.0.7
+9.4.45.v20220203	automatic	org.eclipse.jetty	jetty-deploy	2022-02-03T09:21:30Z	
+10.0.8	named	org.eclipse.jetty	jetty-deploy	2022-02-07T10:41:21Z	10.0.8
+11.0.8	named	org.eclipse.jetty	jetty-deploy	2022-02-07T11:18:22Z	11.0.8
+10.0.9	named	org.eclipse.jetty	jetty-deploy	2022-03-30T16:52:40Z	10.0.9
+11.0.9	named	org.eclipse.jetty	jetty-deploy	2022-03-30T17:51:08Z	11.0.9
+9.4.46.v20220331	automatic	org.eclipse.jetty	jetty-deploy	2022-03-31T16:45:53Z	
+9.4.47.v20220610	automatic	org.eclipse.jetty	jetty-deploy	2022-06-10T15:10:35Z	
+10.0.10	named	org.eclipse.jetty	jetty-deploy	2022-06-16T19:53:07Z	10.0.10
+11.0.10	named	org.eclipse.jetty	jetty-deploy	2022-06-16T20:46:51Z	11.0.10
+9.4.48.v20220622	automatic	org.eclipse.jetty	jetty-deploy	2022-06-21T20:49:20Z	
+10.0.11	named	org.eclipse.jetty	jetty-deploy	2022-06-21T21:17:34Z	10.0.11
+11.0.11	named	org.eclipse.jetty	jetty-deploy	2022-06-21T21:48:07Z	11.0.11
+12.0.0.alpha0	named	org.eclipse.jetty	jetty-deploy	2022-08-22T04:35:46Z	12.0.0.alpha0
+9.4.49.v20220914	automatic	org.eclipse.jetty	jetty-deploy	2022-09-14T01:13:02Z	
+10.0.12	named	org.eclipse.jetty	jetty-deploy	2022-09-14T01:59:28Z	10.0.12
+11.0.12	named	org.eclipse.jetty	jetty-deploy	2022-09-14T02:43:14Z	11.0.12
+12.0.0.alpha1	named	org.eclipse.jetty	jetty-deploy	2022-09-15T01:32:57Z	12.0.0.alpha1
+12.0.0.alpha2	named	org.eclipse.jetty	jetty-deploy	2022-10-18T01:16:31Z	12.0.0.alpha2
+9.4.50.v20221201	automatic	org.eclipse.jetty	jetty-deploy	2022-12-01T22:13:51Z	
+10.0.13	named	org.eclipse.jetty	jetty-deploy	2022-12-07T20:18:42Z	10.0.13
+11.0.13	named	org.eclipse.jetty	jetty-deploy	2022-12-07T20:53:28Z	11.0.13
+12.0.0.alpha3	named	org.eclipse.jetty	jetty-deploy	2022-12-07T22:13:19Z	12.0.0.alpha3
+9.4.51.v20230217	automatic	org.eclipse.jetty	jetty-deploy	2023-02-17T08:25:03Z	
+10.0.14	named	org.eclipse.jetty	jetty-deploy	2023-02-22T23:17:28Z	10.0.14
+11.0.14	named	org.eclipse.jetty	jetty-deploy	2023-02-22T23:47:23Z	11.0.14
+12.0.0.beta0	named	org.eclipse.jetty	jetty-deploy	2023-02-23T00:29:51Z	12.0.0.beta0
+10.0.15	named	org.eclipse.jetty	jetty-deploy	2023-04-11T17:30:03Z	10.0.15
+11.0.15	named	org.eclipse.jetty	jetty-deploy	2023-04-11T18:43:13Z	11.0.15
+12.0.0.beta1	named	org.eclipse.jetty	jetty-deploy	2023-05-02T18:12:02Z	12.0.0.beta1
+12.0.0.beta2	named	org.eclipse.jetty	jetty-deploy	2023-06-16T05:44:34Z	12.0.0.beta2
+12.0.0.beta3	named	org.eclipse.jetty	jetty-deploy	2023-07-03T21:10:12Z	12.0.0.beta3
+12.0.0.beta4	named	org.eclipse.jetty	jetty-deploy	2023-07-26T22:28:03Z	12.0.0.beta4
+12.0.0	named	org.eclipse.jetty	jetty-deploy	2023-08-07T17:16:37Z	12.0.0
+9.4.52.v20230823	automatic	org.eclipse.jetty	jetty-deploy	2023-08-23T19:33:18Z	
+10.0.16	named	org.eclipse.jetty	jetty-deploy	2023-08-25T19:19:06Z	10.0.16
+11.0.16	named	org.eclipse.jetty	jetty-deploy	2023-08-25T19:46:53Z	11.0.16
+12.0.1	named	org.eclipse.jetty	jetty-deploy	2023-08-29T22:45:49Z	12.0.1
+9.4.53.v20231009	automatic	org.eclipse.jetty	jetty-deploy	2023-10-09T12:33:39Z	
+10.0.17	named	org.eclipse.jetty	jetty-deploy	2023-10-09T18:26:07Z	10.0.17
+11.0.17	named	org.eclipse.jetty	jetty-deploy	2023-10-09T18:43:28Z	11.0.17
+12.0.2	named	org.eclipse.jetty	jetty-deploy	2023-10-10T02:01:43Z	12.0.2
+10.0.18	named	org.eclipse.jetty	jetty-deploy	2023-10-27T02:03:37Z	10.0.18
+11.0.18	named	org.eclipse.jetty	jetty-deploy	2023-10-27T02:18:32Z	11.0.18
+12.0.3	named	org.eclipse.jetty	jetty-deploy	2023-10-27T03:27:36Z	12.0.3
+12.0.4	named	org.eclipse.jetty	jetty-deploy	2023-11-30T19:16:56Z	12.0.4
+10.0.19	named	org.eclipse.jetty	jetty-deploy	2023-12-15T20:42:11Z	10.0.19
+11.0.19	named	org.eclipse.jetty	jetty-deploy	2023-12-15T20:58:03Z	11.0.19
+12.0.5	named	org.eclipse.jetty	jetty-deploy	2023-12-18T14:08:55Z	12.0.5
+10.0.20	named	org.eclipse.jetty	jetty-deploy	2024-01-29T20:51:21Z	10.0.20
+11.0.20	named	org.eclipse.jetty	jetty-deploy	2024-01-29T21:08:40Z	11.0.20
+12.0.6	named	org.eclipse.jetty	jetty-deploy	2024-01-30T02:45:30Z	12.0.6
+9.4.54.v20240208	automatic	org.eclipse.jetty	jetty-deploy	2024-02-08T19:46:22Z	
+12.0.7	named	org.eclipse.jetty	jetty-deploy	2024-02-29T21:22:19Z	12.0.7
+12.0.8	named	org.eclipse.jetty	jetty-deploy	2024-03-29T20:00:23Z	12.0.8
+12.0.9	named	org.eclipse.jetty	jetty-deploy	2024-05-03T13:05:52Z	12.0.9
+10.0.21	named	org.eclipse.jetty	jetty-deploy	2024-05-14T02:35:00Z	10.0.21
+11.0.21	named	org.eclipse.jetty	jetty-deploy	2024-05-14T03:29:09Z	11.0.21
+12.0.10	named	org.eclipse.jetty	jetty-deploy	2024-05-30T04:45:38Z	12.0.10
+9.4.55.v20240627	automatic	org.eclipse.jetty	jetty-deploy	2024-06-27T15:11:00Z	
+10.0.22	named	org.eclipse.jetty	jetty-deploy	2024-06-27T16:09:26Z	10.0.22
+11.0.22	named	org.eclipse.jetty	jetty-deploy	2024-06-27T16:31:41Z	11.0.22
+12.0.11	named	org.eclipse.jetty	jetty-deploy	2024-06-27T23:45:17Z	12.0.11
+12.0.12	named	org.eclipse.jetty	jetty-deploy	2024-07-25T22:00:48Z	12.0.12
+10.0.23	named	org.eclipse.jetty	jetty-deploy	2024-08-14T01:19:31Z	10.0.23
+11.0.23	named	org.eclipse.jetty	jetty-deploy	2024-08-14T01:44:21Z	11.0.23
+9.4.56.v20240826	automatic	org.eclipse.jetty	jetty-deploy	2024-08-26T17:18:45Z	
+10.0.24	named	org.eclipse.jetty	jetty-deploy	2024-08-26T18:02:14Z	10.0.24
+11.0.24	named	org.eclipse.jetty	jetty-deploy	2024-08-26T18:15:01Z	11.0.24
+12.0.13	named	org.eclipse.jetty	jetty-deploy	2024-09-03T03:14:02Z	12.0.13
+12.0.14	named	org.eclipse.jetty	jetty-deploy	2024-09-30T14:36:46Z	12.0.14
+12.0.15	named	org.eclipse.jetty	jetty-deploy	2024-11-05T19:55:28Z	12.0.15
+12.1.0.alpha0	named	org.eclipse.jetty	jetty-deploy	2024-11-05T20:17:46Z	12.1.0.alpha0
+12.0.16	named	org.eclipse.jetty	jetty-deploy	2024-12-09T21:13:13Z	12.0.16
+12.1.0.alpha1	named	org.eclipse.jetty	jetty-deploy	2024-12-23T18:14:11Z	12.1.0.alpha1
+9.4.57.v20241219	automatic	org.eclipse.jetty	jetty-deploy	2025-01-08T21:28:02Z	
+12.0.17	named	org.eclipse.jetty	jetty-deploy	2025-03-03T13:24:55Z	12.0.17
+10.0.25	named	org.eclipse.jetty	jetty-deploy	2025-03-13T00:06:21Z	10.0.25
+11.0.25	named	org.eclipse.jetty	jetty-deploy	2025-03-13T00:19:34Z	11.0.25
+12.0.18	named	org.eclipse.jetty	jetty-deploy	2025-03-13T00:55:53Z	12.0.18
+12.1.0.alpha2	named	org.eclipse.jetty	jetty-deploy	2025-03-18T15:53:55Z	12.1.0.alpha2
+12.0.19	named	org.eclipse.jetty	jetty-deploy	2025-04-01T13:39:12Z	12.0.19
+12.0.20	named	org.eclipse.jetty	jetty-deploy	2025-04-29T18:10:11Z	12.0.20
+12.0.21	named	org.eclipse.jetty	jetty-deploy	2025-05-09T00:38:25Z	12.0.21
+12.1.0.beta0	named	org.eclipse.jetty	jetty-deploy	2025-05-18T23:48:03Z	12.1.0.beta0
+12.0.22	named	org.eclipse.jetty	jetty-deploy	2025-06-02T15:36:48Z	12.0.22
+12.1.0.beta1	named	org.eclipse.jetty	jetty-deploy	2025-06-19T18:54:22Z	12.1.0.beta1
+12.0.23	named	org.eclipse.jetty	jetty-deploy	2025-07-02T14:15:55Z	12.0.23
+12.1.0.beta2	named	org.eclipse.jetty	jetty-deploy	2025-07-18T19:53:35Z	12.1.0.beta2
+12.0.24	named	org.eclipse.jetty	jetty-deploy	2025-08-04T23:58:15Z	12.0.24
+12.0.25	named	org.eclipse.jetty	jetty-deploy	2025-08-12T00:02:05Z	12.0.25
+12.1.0.beta3	named	org.eclipse.jetty	jetty-deploy	2025-08-12T00:51:28Z	12.1.0.beta3
+9.4.58.v20250814	automatic	org.eclipse.jetty	jetty-deploy	2025-08-14T02:32:22Z	
+10.0.26	named	org.eclipse.jetty	jetty-deploy	2025-08-14T16:05:12Z	10.0.26
+11.0.26	named	org.eclipse.jetty	jetty-deploy	2025-08-14T18:11:27Z	11.0.26
+12.1.0	named	org.eclipse.jetty	jetty-deploy	2025-08-15T05:13:20Z	12.1.0
+12.0.26	named	org.eclipse.jetty	jetty-deploy	2025-09-04T00:28:24Z	12.0.26
+12.1.1	named	org.eclipse.jetty	jetty-deploy	2025-09-08T04:46:34Z	12.1.1
+12.0.27	named	org.eclipse.jetty	jetty-deploy	2025-09-11T00:05:41Z	12.0.27
+12.0.28	named	org.eclipse.jetty	jetty-deploy	2025-10-03T16:21:48Z	12.0.28
+12.1.2	named	org.eclipse.jetty	jetty-deploy	2025-10-07T23:34:29Z	12.1.2
+12.1.3	named	org.eclipse.jetty	jetty-deploy	2025-10-16T14:25:50Z	12.1.3
+12.0.29	named	org.eclipse.jetty	jetty-deploy	2025-10-16T15:27:22Z	12.0.29
+12.0.30	named	org.eclipse.jetty	jetty-deploy	2025-11-10T17:08:49Z	12.0.30
+12.1.4	named	org.eclipse.jetty	jetty-deploy	2025-11-10T17:57:04Z	12.1.4
+12.0.31	named	org.eclipse.jetty	jetty-deploy	2025-12-03T21:48:34Z	12.0.31
+12.1.5	named	org.eclipse.jetty	jetty-deploy	2025-12-03T22:32:37Z	12.1.5
+12.1.6	named	org.eclipse.jetty	jetty-deploy	2026-01-27T19:01:42Z	12.1.6
+12.0.32	named	org.eclipse.jetty	jetty-deploy	2026-01-27T19:16:58Z	12.0.32
+12.1.7	named	org.eclipse.jetty	jetty-deploy	2026-03-04T00:49:10Z	12.1.7
+12.0.33	named	org.eclipse.jetty	jetty-deploy	2026-03-04T02:31:19Z	12.0.33
+12.1.8	named	org.eclipse.jetty	jetty-deploy	2026-04-01T01:22:24Z	12.1.8
+12.0.34	named	org.eclipse.jetty	jetty-deploy	2026-04-01T05:54:39Z	12.0.34
+12.1.9	named	org.eclipse.jetty	jetty-deploy	2026-05-01T03:47:16Z	12.1.9
+12.0.35	named	org.eclipse.jetty	jetty-deploy	2026-05-01T05:52:28Z	12.0.35

@@ -1,0 +1,176 @@
+0.2.0	named	org.jspecify	jspecify	2021-07-21T18:13:18Z	0.2.0
+v20220803	named	com.google.javascript	closure-compiler	2022-08-09T12:55:42Z	0.2.0
+v20220803	named	com.google.javascript	closure-compiler-unshaded	2022-08-09T12:58:34Z	0.2.0
+v20220905	named	com.google.javascript	closure-compiler	2022-09-06T23:09:36Z	0.2.0
+v20220905	named	com.google.javascript	closure-compiler-unshaded	2022-09-06T23:10:03Z	0.2.0
+v20221004	named	com.google.javascript	closure-compiler	2022-10-07T15:48:09Z	0.2.0
+v20221004	named	com.google.javascript	closure-compiler-unshaded	2022-10-07T15:53:03Z	0.2.0
+0.3.0-alpha-1	named	org.jspecify	jspecify	2022-10-07T22:11:20Z	
+v20221102	named	com.google.javascript	closure-compiler	2022-11-03T11:34:21Z	0.2.0
+0.3.0-alpha-2	named	org.jspecify	jspecify	2022-11-28T19:45:57Z	
+0.3.0-alpha-3	named	org.jspecify	jspecify	2022-12-01T18:39:02Z	
+0.3.0	named	org.jspecify	jspecify	2022-12-13T17:34:57Z	
+v20230103	named	com.google.javascript	closure-compiler	2023-01-05T00:36:12Z	0.2.0
+v20230206	named	com.google.javascript	closure-compiler	2023-02-09T23:47:17Z	0.2.0
+v20230228	named	com.google.javascript	closure-compiler	2023-03-02T09:07:52Z	0.2.0
+v20230411	named	com.google.javascript	closure-compiler	2023-04-13T00:32:29Z	0.2.0
+v20230502	named	com.google.javascript	closure-compiler	2023-05-04T21:02:23Z	0.2.0
+v20230802	named	com.google.javascript	closure-compiler	2023-08-03T12:03:26Z	0.2.0
+v20231112	named	com.google.javascript	closure-compiler	2023-11-13T19:26:04Z	0.2.0
+v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.0
+1.0.0	named	org.jspecify	jspecify	2024-07-16T21:00:10Z	
+0.1.0	named	io.github.kapimc	kapi	2024-09-07T14:36:13Z	
+0.2.0	named	io.github.kapimc	kapi	2024-09-19T17:49:36Z	
+0.2.1	named	io.github.kapimc	kapi	2024-10-14T15:55:46Z	
+3.0-beta-1	named	com.dua3.cabe	cabe-processor-all	2024-10-23T09:18:48Z	
+3.0-beta-2	named	com.dua3.cabe	cabe-processor-all	2024-10-24T16:19:24Z	
+3.0-beta-3	named	com.dua3.cabe	cabe-processor-all	2024-10-25T02:02:50Z	
+3.0-beta-4	named	com.dua3.cabe	cabe-processor-all	2024-10-25T05:09:28Z	
+3.0-beta-7	named	com.dua3.cabe	cabe-processor-all	2024-10-26T10:20:00Z	
+3.0-beta-8	named	com.dua3.cabe	cabe-processor-all	2024-11-01T13:52:03Z	
+3.0-beta-9	named	com.dua3.cabe	cabe-processor-all	2024-11-02T10:43:15Z	
+3.0-beta-10	named	com.dua3.cabe	cabe-processor-all	2024-11-11T02:44:51Z	
+3.0-beta-11	named	com.dua3.cabe	cabe-processor-all	2024-11-15T11:25:59Z	
+3.0-rc	named	com.dua3.cabe	cabe-processor-all	2024-11-17T09:05:21Z	
+0.8.0	named	org.kie.j2cl.tools.processors	processors	2024-11-20T06:26:28Z	
+3.0.0	named	com.dua3.cabe	cabe-processor-all	2024-11-22T11:14:27Z	
+0.8	named	org.treblereel.j2cl.processors	processors	2024-11-28T08:18:07Z	
+3.0.1	named	com.dua3.cabe	cabe-processor-all	2024-11-29T11:59:37Z	
+3.0.2	named	com.dua3.cabe	cabe-processor-all	2025-01-06T07:46:01Z	
+0.8.1	named	org.kie.j2cl.tools.processors	processors	2025-01-11T04:09:18Z	
+0.0.0-b0	named	io.aleph0	rapier-example-cli	2025-01-17T03:17:20Z	
+0.0.0-b0	named	io.aleph0	rapier-example-server	2025-01-17T03:17:20Z	
+0.0.0-b1	named	io.aleph0	rapier-example-cli	2025-01-20T02:06:46Z	
+0.0.0-b1	named	io.aleph0	rapier-example-server	2025-01-20T02:06:46Z	
+1.1.0	named	at.hugob.plugin.library	command	2025-01-31T20:44:52Z	
+0.8.2	named	org.wiremock.extensions	wiremock-state-extension-standalone	2025-02-16T21:49:44Z	
+1.1	named	com.coedotzmagic.qatools	CoedotzMagic-QATools	2025-02-18T00:58:08Z	
+1.1.1	named	com.coedotzmagic.qatools	CoedotzMagic-QATools	2025-02-18T04:02:47Z	
+1.1.2	named	com.coedotzmagic.qatools	CoedotzMagic-QATools	2025-02-19T11:41:26Z	
+1.2	named	com.coedotzmagic.qatools	CoedotzMagic-QATools	2025-02-20T19:59:25Z	
+2.2.5	named	io.nrbtech.rxandroidble	dagger-library-shadow	2025-03-13T11:25:41Z	
+2.0.34	named	com.google.appengine	runtime-impl-jetty12	2025-04-08T18:52:20Z	
+2.0.35	named	com.google.appengine	runtime-impl-jetty12	2025-04-24T16:58:47Z	
+2.0.36	named	com.google.appengine	runtime-impl-jetty12	2025-05-06T00:00:18Z	
+0.9.3	named	io.telicent.jena.graphql	graphql-server	2025-05-13T17:30:50Z	
+0.10.0	named	io.telicent.jena.graphql	graphql-server	2025-05-15T12:28:57Z	
+3.1.0	named	com.dua3.cabe	cabe-processor-all	2025-06-08T16:47:33Z	
+2.0.37	named	com.google.appengine	runtime-impl-jetty12	2025-06-17T16:08:24Z	
+2.0.38	named	com.google.appengine	runtime-impl-jetty12	2025-06-26T10:36:04Z	
+3.3.0	named	com.dua3.cabe	cabe-processor-all	2025-07-24T11:46:12Z	
+1.5.1	named	io.dropwizard.logback	logback-throttling-appender	2025-08-20T20:11:12Z	
+1.3.3	named	io.dropwizard.logback	logback-throttling-appender	2025-08-20T20:21:43Z	
+1.5.2	named	io.dropwizard.logback	logback-throttling-appender	2025-08-28T19:52:38Z	
+1.3.4	named	io.dropwizard.logback	logback-throttling-appender	2025-08-28T19:53:55Z	
+2.0.39-beta	named	com.google.appengine	runtime-impl-jetty12	2025-08-29T06:04:09Z	
+0.9.3	named	org.wiremock.extensions	wiremock-state-extension-standalone	2025-09-02T05:08:05Z	
+2.0.39	named	com.google.appengine	runtime-impl-jetty12	2025-09-09T12:31:22Z	
+3.0.0-beta	named	com.google.appengine	runtime-impl-jetty121	2025-09-19T06:23:50Z	
+3.0.0-beta	named	com.google.appengine	runtime-impl-jetty12	2025-09-19T06:23:51Z	
+0.9	named	org.treblereel.j2cl.processors	processors	2025-10-13T20:55:59Z	
+0.7	named	org.treblereel.gwt.json.mapper	processor	2025-10-14T03:25:31Z	
+0.10	named	org.treblereel.gwt.xml.mapper	processor	2025-10-14T03:35:39Z	
+0.7	named	org.treblereel.gwt.yaml.mapper	processor	2025-10-14T04:02:14Z	
+0.9	named	io.crysknife	crysknife-processor	2025-10-14T04:16:13Z	
+0.9	named	io.crysknife.ui	crysknife-ui-generator	2025-10-14T04:16:13Z	
+2.3.0	named	org.jboss.elemento	elemento-router-processor	2025-10-21T15:23:28Z	
+2.3.0	named	org.jboss.elemento	elemento-router-processor-cdi	2025-10-21T15:23:28Z	
+3.0.1	named	com.google.appengine	runtime-impl-jetty12	2025-10-23T17:19:27Z	
+3.0.1	named	com.google.appengine	runtime-impl-jetty121	2025-10-23T17:19:28Z	
+2.3.1	named	org.jboss.elemento	elemento-router-processor	2025-10-30T13:09:54Z	
+2.3.1	named	org.jboss.elemento	elemento-router-processor-cdi	2025-10-30T13:09:54Z	
+2.3.2	named	org.jboss.elemento	elemento-router-processor	2025-10-31T17:59:29Z	
+2.3.2	named	org.jboss.elemento	elemento-router-processor-cdi	2025-10-31T17:59:29Z	
+0.7	named	org.kie.j2cl.tools.yaml.mapper	processor	2025-11-07T00:15:11Z	
+2.2.6	named	io.nrbtech.rxandroidble	dagger-library-shadow	2025-11-07T17:20:49Z	
+0.7	named	org.kie.j2cl.tools.json.mapper	processor	2025-11-08T00:15:10Z	
+0.10	named	org.kie.j2cl.tools.xml.mapper	processor	2025-11-08T00:15:10Z	
+0.9	named	org.kie.j2cl.tools.di	processor	2025-11-13T09:02:55Z	
+0.9	named	org.kie.j2cl.tools.di.ui	generator	2025-11-13T09:02:55Z	
+0.9	named	org.kie.j2cl.tools.processors	processors	2025-11-13T09:02:55Z	
+2.4.0	named	org.jboss.elemento	elemento-router-processor	2025-11-13T15:23:15Z	
+2.4.0	named	org.jboss.elemento	elemento-router-processor-cdi	2025-11-13T15:23:15Z	
+3.0.2	named	com.google.appengine	runtime-impl-jetty12	2025-11-13T19:49:58Z	
+3.0.2	named	com.google.appengine	runtime-impl-jetty121	2025-11-13T19:49:59Z	
+0.9.4	named	org.wiremock.extensions	wiremock-state-extension-standalone	2025-11-19T18:58:29Z	
+0.9.5	named	org.wiremock.extensions	wiremock-state-extension-standalone	2025-11-19T20:24:45Z	
+2.4.1	named	org.jboss.elemento	elemento-router-processor	2025-11-20T06:26:45Z	
+2.4.1	named	org.jboss.elemento	elemento-router-processor-cdi	2025-11-20T06:26:45Z	
+0.10.0	named	org.wiremock.extensions	wiremock-state-extension-standalone	2025-11-21T13:07:12Z	
+3.0.3	named	com.google.appengine	runtime-impl-jetty12	2025-12-11T09:49:04Z	
+3.0.3	named	com.google.appengine	runtime-impl-jetty121	2025-12-11T09:49:04Z	
+4.0.0	named	com.google.appengine	runtime-impl-jetty12	2025-12-30T16:55:58Z	
+4.0.0	named	com.google.appengine	runtime-impl-jetty121	2025-12-30T16:55:59Z	
+2.4.2	named	org.jboss.elemento	elemento-router-processor	2026-01-15T09:28:48Z	
+2.4.2	named	org.jboss.elemento	elemento-router-processor-cdi	2026-01-15T09:28:48Z	
+2.4.3	named	org.jboss.elemento	elemento-router-processor	2026-01-15T09:56:22Z	
+2.4.3	named	org.jboss.elemento	elemento-router-processor-cdi	2026-01-15T09:56:22Z	
+2.4.4	named	org.jboss.elemento	elemento-router-processor	2026-01-15T10:51:33Z	
+2.4.4	named	org.jboss.elemento	elemento-router-processor-cdi	2026-01-15T10:51:33Z	
+2.4.5	named	org.jboss.elemento	elemento-router-processor	2026-01-20T15:23:36Z	
+2.4.5	named	org.jboss.elemento	elemento-router-processor-cdi	2026-01-20T15:23:36Z	
+2.4.6	named	org.jboss.elemento	elemento-router-processor	2026-01-20T17:41:41Z	
+2.4.6	named	org.jboss.elemento	elemento-router-processor-cdi	2026-01-20T17:41:41Z	
+0.10.1	named	dev.zacsweers.metro	compiler	2026-01-23T22:09:53Z	
+4-beta	named	com.dua3.cabe	cabe-processor-all	2026-01-25T09:38:50Z	
+4-beta2	named	com.dua3.cabe	cabe-processor-all	2026-01-25T16:50:35Z	
+4	named	com.dua3.cabe	cabe-processor-all	2026-01-25T18:14:15Z	
+4.0.1	named	com.dua3.cabe	cabe-processor-all	2026-01-26T01:07:08Z	
+4.0.2	named	com.dua3.cabe	cabe-processor-all	2026-01-26T03:42:36Z	
+4.0.3	named	com.dua3.cabe	cabe-processor-all	2026-01-26T16:10:23Z	
+4.1	named	com.dua3.cabe	cabe-processor-all	2026-01-27T03:11:56Z	
+0.10.2	named	dev.zacsweers.metro	compiler	2026-01-28T22:07:41Z	
+2.4.7	named	org.jboss.elemento	elemento-router-processor	2026-02-03T10:45:09Z	
+2.4.7	named	org.jboss.elemento	elemento-router-processor-cdi	2026-02-03T10:45:09Z	
+2.4.8	named	org.jboss.elemento	elemento-router-processor	2026-02-05T08:27:27Z	
+2.4.8	named	org.jboss.elemento	elemento-router-processor-cdi	2026-02-05T08:27:27Z	
+4.0.1	named	com.google.appengine	runtime-impl-jetty121	2026-02-05T23:27:19Z	
+4.0.1	named	com.google.appengine	runtime-impl-jetty12	2026-02-05T23:27:20Z	
+0.10.3	named	dev.zacsweers.metro	compiler	2026-02-10T01:11:48Z	
+4.0.2	named	com.google.appengine	runtime-impl-jetty121	2026-02-13T16:44:54Z	
+4.0.2	named	com.google.appengine	runtime-impl-jetty12	2026-02-13T16:44:55Z	
+0.10.4	named	dev.zacsweers.metro	compiler	2026-02-13T23:51:55Z	
+2.4.9	named	org.jboss.elemento	elemento-router-processor	2026-02-19T08:51:39Z	
+2.4.9	named	org.jboss.elemento	elemento-router-processor-cdi	2026-02-19T08:51:39Z	
+0.11.0	named	dev.zacsweers.metro	compiler	2026-02-25T05:03:26Z	
+0.11.1	named	dev.zacsweers.metro	compiler	2026-02-26T04:48:56Z	
+5.0.0	named	com.google.appengine	runtime-impl-jetty121	2026-02-28T00:35:37Z	
+5.0.0	named	com.google.appengine	runtime-impl-jetty12	2026-02-28T00:35:39Z	
+1.0.1	named	io.github.jonasrutishauser.liberty	liberty-micrometer-dependencies	2026-03-01T20:58:16Z	
+0.11.2	named	dev.zacsweers.metro	compiler	2026-03-02T05:54:43Z	
+4.2.0-rc	named	com.dua3.cabe	cabe-processor-all	2026-03-07T03:52:24Z	
+4.2.0-rc2	named	com.dua3.cabe	cabe-processor-all	2026-03-07T09:35:25Z	
+4.2.0-rc3	named	com.dua3.cabe	cabe-processor-all	2026-03-07T11:38:43Z	
+4.2.0-rc4	named	com.dua3.cabe	cabe-processor-all	2026-03-07T14:28:50Z	
+4.2.0	named	com.dua3.cabe	cabe-processor-all	2026-03-08T07:49:23Z	
+1.2.0	named	org.eximeebpms.bpm	eximeebpms-engine	2026-03-10T15:55:54Z	
+1.2.0	named	org.eximeebpms.bpm.qa	eximeebpms-qa-performance-tests-engine	2026-03-10T15:55:54Z	
+0.11.3	named	dev.zacsweers.metro	compiler	2026-03-16T19:51:52Z	
+0.11.4	named	dev.zacsweers.metro	compiler	2026-03-17T05:58:50Z	
+1.1.0	named	com.couchbase.client	couchbase-jdbc-driver	2026-03-17T20:44:53Z	
+1.1.1	named	com.couchbase.client	couchbase-jdbc-driver	2026-03-20T07:57:27Z	
+0.12.0	named	dev.zacsweers.metro	compiler	2026-03-24T21:27:20Z	
+2.5.1.1	named	io.github.qhsword.nacosplugins	nacosplugin-all	2026-03-25T10:47:20Z	
+2.4.10	named	org.jboss.elemento	elemento-router-processor	2026-03-26T07:39:17Z	
+2.4.10	named	org.jboss.elemento	elemento-router-processor-cdi	2026-03-26T07:39:17Z	
+2.4.11	named	org.jboss.elemento	elemento-router-processor	2026-03-30T15:32:08Z	
+2.4.11	named	org.jboss.elemento	elemento-router-processor-cdi	2026-03-30T15:32:08Z	
+0.12.1	named	dev.zacsweers.metro	compiler	2026-03-30T19:31:27Z	
+0.13.0	named	dev.zacsweers.metro	compiler	2026-04-05T03:56:13Z	
+0.13.1	named	dev.zacsweers.metro	compiler	2026-04-06T06:05:53Z	
+0.13.2	named	dev.zacsweers.metro	compiler	2026-04-06T18:45:58Z	
+1.0.0-RC1	named	dev.zacsweers.metro	compiler	2026-04-13T18:20:23Z	
+0.10.1	named	org.wiremock.extensions	wiremock-state-extension-standalone	2026-04-14T20:27:54Z	
+1.0.0-RC2	named	dev.zacsweers.metro	compiler	2026-04-15T05:02:52Z	
+1.0.0-RC3	named	dev.zacsweers.metro	compiler	2026-04-23T04:44:28Z	
+5.0.1	named	com.google.appengine	runtime-impl-jetty121	2026-04-23T22:13:08Z	
+5.0.1	named	com.google.appengine	runtime-impl-jetty12	2026-04-23T22:13:09Z	
+1.0.0-RC4	named	dev.zacsweers.metro	compiler	2026-04-24T22:14:18Z	
+1.0.0	named	dev.zacsweers.metro	compiler	2026-04-27T21:11:14Z	
+5.0.2	named	com.google.appengine	runtime-impl-jetty121	2026-05-13T20:15:01Z	
+5.0.2	named	com.google.appengine	runtime-impl-jetty12	2026-05-13T20:15:03Z	
+1.0.1	named	dev.zacsweers.metro	compiler	2026-05-13T22:03:11Z	
+1.1.0	named	dev.zacsweers.metro	compiler	2026-05-13T22:16:44Z	
+1.1.1	named	dev.zacsweers.metro	compiler	2026-05-14T04:16:24Z	
+5.0.3-beta	named	com.google.appengine	runtime-impl-jetty121	2026-05-19T16:10:56Z	
+5.0.3-beta	named	com.google.appengine	runtime-impl-jetty12	2026-05-19T16:10:58Z	

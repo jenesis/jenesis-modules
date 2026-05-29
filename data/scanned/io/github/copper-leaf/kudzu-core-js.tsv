@@ -1,0 +1,18 @@
+1.0.0		2021-04-13T23:35:11Z	
+2.0.0		2021-04-21T19:28:42Z	
+2.1.0		2021-04-24T03:58:18Z	
+2.2.0		2021-04-26T20:54:25Z	
+2.3.0		2021-04-27T16:24:22Z	
+2.4.0		2021-05-06T16:53:55Z	
+2.5.0		2021-05-12T23:04:25Z	
+2.6.0		2021-07-15T19:25:56Z	
+3.0.0		2022-03-02T23:32:38Z	
+3.1.0		2022-03-03T17:22:11Z	
+4.0.0		2022-10-05T23:53:53Z	
+4.0.1		2023-02-21T20:44:18Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/5.0.0/kudzu-core-js-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/5.1.0/kudzu-core-js-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/5.2.0/kudzu-core-js-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/5.3.0/kudzu-core-js-5.3.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/6.0.0/kudzu-core-js-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-js/6.1.0/kudzu-core-js-6.1.0.jar returned status 404

@@ -1,0 +1,5 @@
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexkamanin/mockcept/1.0.2/mockcept-1.0.2.jar returned status 404
+1.0.2-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexkamanin/mockcept/1.0.2-alpha01/mockcept-1.0.2-alpha01.jar returned status 404
+1.0.2-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexkamanin/mockcept/1.0.2-alpha02/mockcept-1.0.2-alpha02.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexkamanin/mockcept/1.0.3/mockcept-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexkamanin/mockcept/1.0.4/mockcept-1.0.4.jar returned status 404

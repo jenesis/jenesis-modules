@@ -1,0 +1,6 @@
+0.13.0		2021-07-04T16:33:01Z	
+0.13.1		2021-07-05T07:40:17Z	
+0.14.3		2021-12-16T09:24:55Z	
+0.15.4		2022-04-14T08:40:24Z	
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rsocket/kotlin/rsocket-transport-local-js/0.16.0/rsocket-transport-local-js-0.16.0.jar returned status 404
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rsocket/kotlin/rsocket-transport-local-js/0.20.0/rsocket-transport-local-js-0.20.0.jar returned status 404

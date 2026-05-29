@@ -1,0 +1,14 @@
+0.10.0		2015-11-10T16:15:15Z	
+0.10.0-hadoop1		2015-11-10T17:36:06Z	
+0.10.1		2015-11-23T09:54:20Z	
+0.10.1-hadoop1		2015-11-23T11:07:20Z	
+0.10.2		2016-02-08T15:51:03Z	
+0.10.2-hadoop1		2016-02-08T16:41:31Z	
+0.9.0		2015-06-18T11:03:47Z	
+0.9.0-hadoop1		2015-06-18T11:28:25Z	
+0.9.0-milestone-1		2015-04-08T15:37:02Z	
+0.9.0-milestone-1-hadoop1		2015-04-08T16:21:22Z	
+0.9.1		2015-08-28T09:56:25Z	
+0.9.1-hadoop1		2015-08-28T10:35:49Z	
+1.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-table/1.11.5/flink-table-1.11.5.jar returned status 404
+1.12.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-table/1.12.6/flink-table-1.12.6.jar returned status 404

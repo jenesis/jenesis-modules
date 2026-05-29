@@ -1,0 +1,8 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unitbean/basketservice/1.0.0/basketservice-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unitbean/basketservice/1.1.0/basketservice-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unitbean/basketservice/1.2.0/basketservice-1.2.0.jar returned status 404
+1.2.0	debug-javadoc	2022-03-18T10:38:20Z	
+1.2.0	debug-sources	2022-03-18T10:38:22Z	
+1.2.0	release-javadoc	2022-03-18T10:38:24Z	
+1.2.0	release-sources	2022-03-18T10:38:18Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unitbean/basketservice/1.2.1/basketservice-1.2.1.jar returned status 404

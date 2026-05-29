@@ -1,0 +1,4 @@
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/clinmanc/summer-boot-starter-parent/1.1.1/summer-boot-starter-parent-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/clinmanc/summer-boot-starter-parent/1.1.2/summer-boot-starter-parent-1.1.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/clinmanc/summer-boot-starter-parent/2.0.0/summer-boot-starter-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/clinmanc/summer-boot-starter-parent/2.0.1/summer-boot-starter-parent-2.0.1.jar returned status 404

@@ -1,0 +1,15 @@
+1		2021-01-08T23:17:59Z	
+1.1		2021-01-08T23:54:53Z	
+1.2		2021-01-09T00:09:27Z	
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.3/mqttcontroller-1.3.jar returned status 404
+1.3	plain	2021-03-24T05:56:46Z	
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.4/mqttcontroller-1.4.jar returned status 404
+1.4	plain	2021-03-24T06:43:30Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.5/mqttcontroller-1.5.jar returned status 404
+1.5	plain	2021-03-24T07:32:55Z	
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.6/mqttcontroller-1.6.jar returned status 404
+1.6	plain	2021-07-21T02:47:28Z	
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.7/mqttcontroller-1.7.jar returned status 404
+1.7	plain	2021-07-21T15:43:13Z	
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/said1296/mqttcontroller/1.8/mqttcontroller-1.8.jar returned status 404
+1.8	plain	2021-07-27T02:21:51Z	

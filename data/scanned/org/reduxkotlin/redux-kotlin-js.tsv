@@ -1,0 +1,18 @@
+0.2.1		2019-06-05T20:27:33Z	
+0.2.2		2019-06-06T01:53:42Z	
+0.2.3		2019-07-24T00:01:20Z	
+0.2.4		2019-07-24T00:13:28Z	
+0.2.5		2019-08-05T02:03:40Z	
+0.2.6		2019-08-05T14:11:42Z	
+0.2.8		2019-11-24T01:07:27Z	
+0.2.9		2019-11-25T02:42:26Z	
+0.3.0		2019-12-16T13:35:33Z	
+0.3.1		2019-12-17T02:27:16Z	
+0.3.2		2020-02-23T01:25:21Z	
+0.4.0		2020-03-20T01:30:23Z	
+0.5.0		2020-06-12T19:05:21Z	
+0.5.1		2020-06-12T20:35:10Z	
+0.5.3		2020-07-06T00:26:13Z	
+0.5.5		2020-08-15T23:07:00Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-js/0.6.0/redux-kotlin-js-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-js/0.6.1/redux-kotlin-js-0.6.1.jar returned status 404

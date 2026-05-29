@@ -1,0 +1,4 @@
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiane/driver-Ssd1306/0.5/driver-Ssd1306-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiane/driver-Ssd1306/0.6/driver-Ssd1306-0.6.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiane/driver-Ssd1306/0.6.1/driver-Ssd1306-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiane/driver-Ssd1306/0.6.2/driver-Ssd1306-0.6.2.jar returned status 404

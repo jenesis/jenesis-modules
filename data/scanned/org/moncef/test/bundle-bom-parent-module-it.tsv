@@ -1,0 +1,3 @@
+1.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/moncef/test/bundle-bom-parent-module-it/1.0.0-SNAPSHOT/bundle-bom-parent-module-it-1.0.0-SNAPSHOT.jar returned status 404
+1.0.1-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/moncef/test/bundle-bom-parent-module-it/1.0.1-SNAPSHOT/bundle-bom-parent-module-it-1.0.1-SNAPSHOT.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/moncef/test/bundle-bom-parent-module-it/1.0.2/bundle-bom-parent-module-it-1.0.2.jar returned status 404

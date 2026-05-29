@@ -1,0 +1,6 @@
+0.0.1		2022-10-29T12:51:20Z	
+0.0.2		2022-11-03T21:36:54Z	
+0.0.3		2022-11-19T13:46:48Z	
+0.0.4		2022-11-23T20:06:04Z	
+0.0.5		2022-12-19T10:47:36Z	
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/konfork/konfork-core-js/0.0.6/konfork-core-js-0.0.6.jar returned status 404

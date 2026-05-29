@@ -1,0 +1,4 @@
+0.0.1-test1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/retrofit-adapter/0.0.1-test1/retrofit-adapter-0.0.1-test1.jar returned status 404
+0.0.1-test2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/retrofit-adapter/0.0.1-test2/retrofit-adapter-0.0.1-test2.jar returned status 404
+0.0.1-test3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/retrofit-adapter/0.0.1-test3/retrofit-adapter-0.0.1-test3.jar returned status 404
+0.0.1-test4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/retrofit-adapter/0.0.1-test4/retrofit-adapter-0.0.1-test4.jar returned status 404

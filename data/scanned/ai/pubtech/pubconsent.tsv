@@ -1,0 +1,8 @@
+0.1.0-TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/0.1.0-TEST/pubconsent-0.1.0-TEST.jar returned status 404
+0.1.1-TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/0.1.1-TEST/pubconsent-0.1.1-TEST.jar returned status 404
+0.1.2-TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/0.1.2-TEST/pubconsent-0.1.2-TEST.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/1.0.0/pubconsent-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/1.1.0/pubconsent-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/1.2.0/pubconsent-1.2.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/2.0.0/pubconsent-2.0.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pubtech/pubconsent/3.0.0/pubconsent-3.0.0.jar returned status 404

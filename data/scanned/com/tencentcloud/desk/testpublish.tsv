@@ -1,0 +1,5 @@
+1.0.0		2024-08-22T11:16:13Z	
+1.0.1		2024-08-23T01:39:35Z	
+1.0.2		2024-08-23T01:54:53Z	
+1.0.3		2024-08-23T01:59:20Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencentcloud/desk/testpublish/2.0.0/testpublish-2.0.0.jar returned status 404

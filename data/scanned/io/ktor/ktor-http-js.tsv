@@ -1,0 +1,142 @@
+1.0.0		2018-11-19T17:24:18Z	
+1.0.0-rc		2018-11-15T18:58:33Z	
+1.0.1		2018-12-04T17:01:52Z	
+1.1.0		2018-12-24T18:30:27Z	
+1.1.0	kdoc	2018-12-24T18:30:28Z	
+1.1.1		2018-12-26T16:35:51Z	
+1.1.1	kdoc	2018-12-26T16:35:50Z	
+1.1.2		2019-01-24T21:02:07Z	
+1.1.2	kdoc	2019-01-24T21:02:04Z	
+1.1.3		2019-02-21T15:30:14Z	
+1.1.3	kdoc	2019-02-21T15:19:55Z	
+1.1.4		2019-04-15T16:01:53Z	
+1.1.4	kdoc	2019-04-15T15:58:57Z	
+1.2.0		2019-05-14T11:35:14Z	
+1.2.0	kdoc	2019-05-14T12:29:48Z	
+1.2.0-rc		2019-04-30T21:33:43Z	
+1.2.0-rc	kdoc	2019-04-30T21:33:39Z	
+1.2.0-rc2		2019-05-08T21:31:19Z	
+1.2.0-rc2	kdoc	2019-05-08T22:39:30Z	
+1.2.1		2019-05-27T17:25:57Z	
+1.2.1	kdoc	2019-05-27T17:25:54Z	
+1.2.2		2019-06-20T06:18:16Z	
+1.2.2	kdoc	2019-06-20T06:19:04Z	
+1.2.3		2019-08-01T16:36:11Z	
+1.2.3	kdoc	2019-08-01T16:36:06Z	
+1.2.3-rc		2019-07-23T23:45:44Z	
+1.2.3-rc	kdoc	2019-07-23T23:45:40Z	
+1.2.4		2019-09-02T18:26:54Z	
+1.2.4	kdoc	2019-09-02T18:26:49Z	
+1.2.5		2019-10-23T16:17:24Z	
+1.2.5	kdoc	2019-10-23T16:17:37Z	
+1.2.6		2019-11-21T23:50:24Z	
+1.2.6	kdoc	2019-11-21T23:50:29Z	
+1.3.0		2020-01-14T20:32:47Z	
+1.3.0	kdoc	2020-01-14T20:40:10Z	
+1.3.0-rc		2019-12-19T01:46:16Z	
+1.3.0-rc	kdoc	2019-12-19T01:46:21Z	
+1.3.0-rc2		2019-12-28T20:55:32Z	
+1.3.0-rc2	kdoc	2019-12-28T20:55:29Z	
+1.3.1		2020-02-26T13:00:33Z	
+1.3.1	kdoc	2020-02-26T12:47:40Z	
+1.3.2-1.4.0-rc		2020-08-10T11:26:06Z	
+1.4.0		2020-08-18T17:09:05Z	
+1.4.1		2020-09-24T17:19:42Z	
+1.4.2		2020-11-10T08:28:11Z	
+1.4.3		2020-12-01T12:36:37Z	
+1.5.0		2020-12-21T15:19:02Z	
+1.5.1		2021-01-27T19:28:17Z	
+1.5.2		2021-02-25T21:21:47Z	
+1.5.3		2021-04-02T09:16:16Z	
+1.5.4		2021-04-29T18:28:57Z	
+1.6.0		2021-05-27T13:53:26Z	
+1.6.1		2021-06-30T14:31:10Z	
+1.6.2		2021-07-28T19:21:17Z	
+1.6.3		2021-08-25T14:10:29Z	
+1.6.4		2021-09-30T16:01:03Z	
+1.6.5		2021-11-01T21:09:15Z	
+1.6.6		2021-11-26T10:43:40Z	
+1.6.7		2021-12-07T15:18:26Z	
+1.6.8		2022-03-14T14:12:08Z	
+2.0.0		2022-04-08T07:07:57Z	
+2.0.0-beta-1		2021-12-22T12:07:00Z	
+2.0.0-rc-1		2022-04-04T14:03:39Z	
+2.0.1		2022-04-28T12:50:19Z	
+2.0.2		2022-05-27T11:47:44Z	
+2.0.3		2022-06-28T10:15:35Z	
+2.1.0		2022-08-10T18:52:09Z	
+2.1.1		2022-09-06T09:50:19Z	
+2.1.2		2022-09-29T10:55:58Z	
+2.1.3		2022-10-28T08:59:39Z	
+2.2.0		2022-12-07T12:30:59Z	
+2.2.1		2022-12-07T19:43:07Z	
+2.2.2		2023-01-03T10:53:22Z	
+2.2.3		2023-01-31T09:35:37Z	
+2.2.4		2023-02-28T08:48:48Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.0/ktor-http-js-2.3.0.jar returned status 404
+2.3.0	kdoc	2023-04-19T07:03:46Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.1/ktor-http-js-2.3.1.jar returned status 404
+2.3.1	kdoc	2023-05-31T08:49:49Z	
+2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.10/ktor-http-js-2.3.10.jar returned status 404
+2.3.10	kdoc	2024-04-08T06:31:40Z	
+2.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.11/ktor-http-js-2.3.11.jar returned status 404
+2.3.11	kdoc	2024-05-08T06:42:15Z	
+2.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.12/ktor-http-js-2.3.12.jar returned status 404
+2.3.12	kdoc	2024-06-20T10:17:45Z	
+2.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.13/ktor-http-js-2.3.13.jar returned status 404
+2.3.13	kdoc	2024-11-19T12:41:38Z	
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.2/ktor-http-js-2.3.2.jar returned status 404
+2.3.2	kdoc	2023-06-28T08:58:26Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.3/ktor-http-js-2.3.3.jar returned status 404
+2.3.3	kdoc	2023-08-01T12:32:01Z	
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.4/ktor-http-js-2.3.4.jar returned status 404
+2.3.4	kdoc	2023-08-31T12:41:07Z	
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.5/ktor-http-js-2.3.5.jar returned status 404
+2.3.5	kdoc	2023-10-04T13:39:47Z	
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.6/ktor-http-js-2.3.6.jar returned status 404
+2.3.6	kdoc	2023-11-06T16:06:24Z	
+2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.7/ktor-http-js-2.3.7.jar returned status 404
+2.3.7	kdoc	2023-12-07T07:18:21Z	
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.8/ktor-http-js-2.3.8.jar returned status 404
+2.3.8	kdoc	2024-01-31T07:24:07Z	
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/2.3.9/ktor-http-js-2.3.9.jar returned status 404
+2.3.9	kdoc	2024-03-04T07:35:36Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.0/ktor-http-js-3.0.0.jar returned status 404
+3.0.0	kdoc	2024-10-09T09:03:07Z	
+3.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.0-beta-1/ktor-http-js-3.0.0-beta-1.jar returned status 404
+3.0.0-beta-1	kdoc	2023-11-23T13:40:40Z	
+3.0.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.0-beta-2/ktor-http-js-3.0.0-beta-2.jar returned status 404
+3.0.0-beta-2	kdoc	2024-07-15T11:36:45Z	
+3.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.0-rc-1/ktor-http-js-3.0.0-rc-1.jar returned status 404
+3.0.0-rc-1	kdoc	2024-09-09T09:32:48Z	
+3.0.0-rc-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.0-rc-2/ktor-http-js-3.0.0-rc-2.jar returned status 404
+3.0.0-rc-2	kdoc	2024-10-02T17:54:20Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.1/ktor-http-js-3.0.1.jar returned status 404
+3.0.1	kdoc	2024-10-29T13:55:14Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.2/ktor-http-js-3.0.2.jar returned status 404
+3.0.2	kdoc	2024-12-03T15:45:56Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.0.3/ktor-http-js-3.0.3.jar returned status 404
+3.0.3	kdoc	2024-12-18T19:06:38Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.1.0/ktor-http-js-3.1.0.jar returned status 404
+3.1.0	kdoc	2025-02-11T13:02:18Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.1.1/ktor-http-js-3.1.1.jar returned status 404
+3.1.1	kdoc	2025-02-24T11:51:13Z	
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.1.2/ktor-http-js-3.1.2.jar returned status 404
+3.1.2	kdoc	2025-03-27T07:13:45Z	
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.1.3/ktor-http-js-3.1.3.jar returned status 404
+3.1.3	kdoc	2025-05-05T07:24:11Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.2.0/ktor-http-js-3.2.0.jar returned status 404
+3.2.0	kdoc	2025-06-12T12:20:27Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.2.1/ktor-http-js-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.2.2/ktor-http-js-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.2.3/ktor-http-js-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.2.4/ktor-http-js-3.2.4.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.3.0/ktor-http-js-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.3.1/ktor-http-js-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.3.2/ktor-http-js-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.3.3/ktor-http-js-3.3.3.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.4.0/ktor-http-js-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.4.1/ktor-http-js-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.4.2/ktor-http-js-3.4.2.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.4.3/ktor-http-js-3.4.3.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-http-js/3.5.0/ktor-http-js-3.5.0.jar returned status 404

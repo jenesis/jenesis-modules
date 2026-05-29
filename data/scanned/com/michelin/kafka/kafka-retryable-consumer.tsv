@@ -1,0 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.0.0/kafka-retryable-consumer-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.0.1/kafka-retryable-consumer-1.0.1.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.1.0/kafka-retryable-consumer-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.2.0/kafka-retryable-consumer-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.2.1/kafka-retryable-consumer-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/1.2.2/kafka-retryable-consumer-1.2.2.jar returned status 404
+v1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michelin/kafka/kafka-retryable-consumer/v1.0.1/kafka-retryable-consumer-v1.0.1.jar returned status 404

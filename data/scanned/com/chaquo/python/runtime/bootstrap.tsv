@@ -1,0 +1,6 @@
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/12.0.1/bootstrap-12.0.1.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/13.0.0/bootstrap-13.0.0.jar returned status 404
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/14.0.2/bootstrap-14.0.2.jar returned status 404
+15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/15.0.1/bootstrap-15.0.1.jar returned status 404
+16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/16.0.0/bootstrap-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/runtime/bootstrap/16.1.0/bootstrap-16.1.0.jar returned status 404

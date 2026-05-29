@@ -1,0 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.0.0/executorch-android-vulkan-1.0.0.jar returned status 404
+1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.0.0-rc2/executorch-android-vulkan-1.0.0-rc2.jar returned status 404
+1.0.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.0.0-rc5/executorch-android-vulkan-1.0.0-rc5.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.0.1/executorch-android-vulkan-1.0.1.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.1.0/executorch-android-vulkan-1.1.0.jar returned status 404
+1.1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.1.0-rc2/executorch-android-vulkan-1.1.0-rc2.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pytorch/executorch-android-vulkan/1.2.0/executorch-android-vulkan-1.2.0.jar returned status 404

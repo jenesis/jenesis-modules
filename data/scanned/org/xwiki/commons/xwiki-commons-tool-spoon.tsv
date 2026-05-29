@@ -1,0 +1,148 @@
+10.0		2018-01-29T11:09:55Z	
+10.1		2018-02-26T13:17:10Z	
+10.1-rc-1		2018-02-19T14:07:50Z	
+10.10		2018-11-28T12:50:42Z	
+10.10-rc-1		2018-11-21T09:38:23Z	
+10.11		2018-12-26T17:22:10Z	
+10.11-rc-1		2018-12-18T17:11:41Z	
+10.11.1		2019-01-14T17:21:07Z	
+10.11.10		2019-11-13T09:48:32Z	
+10.11.11		2020-01-07T15:04:32Z	
+10.11.2		2019-01-29T09:04:52Z	
+10.11.3		2019-02-21T11:40:11Z	
+10.11.4		2019-03-28T13:58:29Z	
+10.11.5		2019-04-08T13:30:07Z	
+10.11.6		2019-04-12T12:26:01Z	
+10.11.7		2019-04-23T12:58:12Z	
+10.11.8		2019-05-07T15:59:44Z	
+10.11.9		2019-07-18T14:15:28Z	
+10.2		2018-03-26T11:39:19Z	
+10.3		2018-04-23T12:28:00Z	
+10.4		2018-05-21T08:08:16Z	
+10.4-rc-1		2018-05-14T14:41:13Z	
+10.5		2018-06-19T16:29:06Z	
+10.5-rc-1		2018-06-11T09:10:06Z	
+10.6		2018-07-20T11:20:27Z	
+10.6-rc-1		2018-07-13T11:26:56Z	
+10.6.1		2018-07-22T08:01:26Z	
+10.7		2018-08-27T14:39:13Z	
+10.7-rc-1		2018-08-21T08:45:52Z	
+10.7.1		2018-09-21T16:11:31Z	
+10.8		2018-09-24T14:59:13Z	
+10.8-rc-1		2018-09-18T10:24:48Z	
+10.8.1		2018-10-15T17:26:23Z	
+10.8.2		2018-11-30T09:27:52Z	
+10.8.3		2018-12-21T07:12:16Z	
+10.9		2018-10-29T12:20:08Z	
+11.0		2019-01-28T12:09:30Z	
+11.0.1		2019-01-30T10:54:35Z	
+11.0.2		2019-01-30T14:14:21Z	
+11.0.3		2019-01-30T17:25:25Z	
+11.1		2019-02-25T13:25:14Z	
+11.1-rc-1		2019-02-19T08:57:34Z	
+11.10		2019-11-25T10:01:37Z	
+11.10.1		2019-12-11T17:51:27Z	
+11.10.10		2020-08-18T07:24:24Z	
+11.10.11		2020-11-03T14:00:09Z	
+11.10.12		2020-11-17T16:51:17Z	
+11.10.13		2020-12-31T09:19:19Z	
+11.10.2		2019-12-30T12:46:12Z	
+11.10.3		2020-02-05T15:03:20Z	
+11.10.4		2020-03-30T12:35:29Z	
+11.10.5		2020-05-15T13:12:19Z	
+11.10.6		2020-07-10T12:45:04Z	
+11.10.7		2020-07-13T16:44:04Z	
+11.10.8		2020-07-16T08:11:48Z	
+11.2		2019-03-25T09:10:28Z	
+11.2-rc-1		2019-03-19T11:21:56Z	
+11.3		2019-04-30T07:09:10Z	
+11.3-rc-1		2019-04-23T09:02:13Z	
+11.3.1		2019-06-07T14:44:34Z	
+11.3.2		2019-07-26T09:45:35Z	
+11.3.3		2019-08-20T12:49:48Z	
+11.3.4		2019-09-02T12:49:42Z	
+11.3.5		2019-09-30T13:33:55Z	
+11.3.6		2019-11-07T10:38:13Z	
+11.3.7		2020-01-28T14:06:30Z	
+11.4		2019-05-27T12:04:33Z	
+11.4-rc-1		2019-05-20T13:21:12Z	
+11.5		2019-06-25T08:41:01Z	
+11.5-rc-1		2019-06-18T15:36:13Z	
+11.6		2019-07-31T08:23:20Z	
+11.6-rc-1		2019-07-23T09:29:16Z	
+11.6.1		2019-08-08T14:45:43Z	
+11.7		2019-08-26T15:02:50Z	
+11.7-rc-1		2019-08-20T08:11:15Z	
+11.8		2019-09-30T09:58:11Z	
+11.8-rc-1		2019-09-23T15:06:04Z	
+11.8.1		2019-10-07T16:43:44Z	
+11.9		2019-10-28T12:10:06Z	
+12.0		2020-01-29T10:25:47Z	
+12.0-rc-1		2020-01-22T16:59:20Z	
+12.1		2020-02-24T15:03:07Z	
+12.1-rc-1		2020-02-19T15:12:51Z	
+16.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.10/xwiki-commons-tool-spoon-16.10.10.jar returned status 404
+16.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.11/xwiki-commons-tool-spoon-16.10.11.jar returned status 404
+16.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.12/xwiki-commons-tool-spoon-16.10.12.jar returned status 404
+16.10.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.13/xwiki-commons-tool-spoon-16.10.13.jar returned status 404
+16.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.14/xwiki-commons-tool-spoon-16.10.14.jar returned status 404
+16.10.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.15/xwiki-commons-tool-spoon-16.10.15.jar returned status 404
+16.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.16/xwiki-commons-tool-spoon-16.10.16.jar returned status 404
+16.10.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.17/xwiki-commons-tool-spoon-16.10.17.jar returned status 404
+16.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/16.10.9/xwiki-commons-tool-spoon-16.10.9.jar returned status 404
+17.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.0/xwiki-commons-tool-spoon-17.10.0.jar returned status 404
+17.10.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.0-rc-1/xwiki-commons-tool-spoon-17.10.0-rc-1.jar returned status 404
+17.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.1/xwiki-commons-tool-spoon-17.10.1.jar returned status 404
+17.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.2/xwiki-commons-tool-spoon-17.10.2.jar returned status 404
+17.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.3/xwiki-commons-tool-spoon-17.10.3.jar returned status 404
+17.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.4/xwiki-commons-tool-spoon-17.10.4.jar returned status 404
+17.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.5/xwiki-commons-tool-spoon-17.10.5.jar returned status 404
+17.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.6/xwiki-commons-tool-spoon-17.10.6.jar returned status 404
+17.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.7/xwiki-commons-tool-spoon-17.10.7.jar returned status 404
+17.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.10.8/xwiki-commons-tool-spoon-17.10.8.jar returned status 404
+17.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.1/xwiki-commons-tool-spoon-17.4.1.jar returned status 404
+17.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.10/xwiki-commons-tool-spoon-17.4.10.jar returned status 404
+17.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.2/xwiki-commons-tool-spoon-17.4.2.jar returned status 404
+17.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.3/xwiki-commons-tool-spoon-17.4.3.jar returned status 404
+17.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.4/xwiki-commons-tool-spoon-17.4.4.jar returned status 404
+17.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.5/xwiki-commons-tool-spoon-17.4.5.jar returned status 404
+17.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.6/xwiki-commons-tool-spoon-17.4.6.jar returned status 404
+17.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.7/xwiki-commons-tool-spoon-17.4.7.jar returned status 404
+17.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.8/xwiki-commons-tool-spoon-17.4.8.jar returned status 404
+17.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.4.9/xwiki-commons-tool-spoon-17.4.9.jar returned status 404
+17.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.5.0/xwiki-commons-tool-spoon-17.5.0.jar returned status 404
+17.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.6.0/xwiki-commons-tool-spoon-17.6.0.jar returned status 404
+17.6.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.6.0-rc-1/xwiki-commons-tool-spoon-17.6.0-rc-1.jar returned status 404
+17.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.7.0/xwiki-commons-tool-spoon-17.7.0.jar returned status 404
+17.7.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.7.0-rc-1/xwiki-commons-tool-spoon-17.7.0-rc-1.jar returned status 404
+17.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.8.0/xwiki-commons-tool-spoon-17.8.0.jar returned status 404
+17.8.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.8.0-rc-1/xwiki-commons-tool-spoon-17.8.0-rc-1.jar returned status 404
+17.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.9.0/xwiki-commons-tool-spoon-17.9.0.jar returned status 404
+17.9.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/17.9.0-rc-1/xwiki-commons-tool-spoon-17.9.0-rc-1.jar returned status 404
+18.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.0.0/xwiki-commons-tool-spoon-18.0.0.jar returned status 404
+18.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.0.0-rc-1/xwiki-commons-tool-spoon-18.0.0-rc-1.jar returned status 404
+18.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.0.1/xwiki-commons-tool-spoon-18.0.1.jar returned status 404
+18.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.1.0/xwiki-commons-tool-spoon-18.1.0.jar returned status 404
+18.1.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.1.0-rc-1/xwiki-commons-tool-spoon-18.1.0-rc-1.jar returned status 404
+18.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.2.0/xwiki-commons-tool-spoon-18.2.0.jar returned status 404
+18.2.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.2.0-rc-1/xwiki-commons-tool-spoon-18.2.0-rc-1.jar returned status 404
+18.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.2.1/xwiki-commons-tool-spoon-18.2.1.jar returned status 404
+18.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.3.0/xwiki-commons-tool-spoon-18.3.0.jar returned status 404
+18.3.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.3.0-rc-1/xwiki-commons-tool-spoon-18.3.0-rc-1.jar returned status 404
+9.10		2017-11-20T15:33:43Z	
+9.10-rc-1		2017-11-13T14:54:10Z	
+9.10.1		2017-11-29T17:49:12Z	
+9.11		2017-12-18T18:00:45Z	
+9.11-rc-1		2017-12-12T11:58:03Z	
+9.11.1		2018-01-08T14:29:32Z	
+9.11.2		2018-01-31T09:36:54Z	
+9.11.3		2018-02-27T20:57:29Z	
+9.11.4		2018-03-27T07:54:43Z	
+9.11.5		2018-05-29T10:06:27Z	
+9.11.6		2018-06-21T11:08:51Z	
+9.11.7		2018-06-28T12:47:11Z	
+9.11.8		2018-10-17T10:04:15Z	
+9.11.9		2019-01-29T14:00:59Z	
+9.9		2017-10-24T09:22:56Z	
+9.9-rc-1		2017-10-17T09:51:20Z	
+9.9-rc-2		2017-10-17T13:15:54Z	

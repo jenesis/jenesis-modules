@@ -1,0 +1,5 @@
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spectralogic/ds3/ds3-bom/5.6.0/ds3-bom-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spectralogic/ds3/ds3-bom/5.6.1/ds3-bom-5.6.1.jar returned status 404
+5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spectralogic/ds3/ds3-bom/5.6.2/ds3-bom-5.6.2.jar returned status 404
+5.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spectralogic/ds3/ds3-bom/5.6.3/ds3-bom-5.6.3.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spectralogic/ds3/ds3-bom/5.8.0/ds3-bom-5.8.0.jar returned status 404

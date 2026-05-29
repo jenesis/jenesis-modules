@@ -1,0 +1,5 @@
+0.1.0-beta.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-trino-root/0.1.0-beta.7/lance-trino-root-0.1.0-beta.7.jar returned status 404
+0.1.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-trino-root/0.1.1-beta.1/lance-trino-root-0.1.1-beta.1.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-trino-root/0.2.1/lance-trino-root-0.2.1.jar returned status 404
+0.2.2-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-trino-root/0.2.2-beta.1/lance-trino-root-0.2.2-beta.1.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-trino-root/0.3.0/lance-trino-root-0.3.0.jar returned status 404

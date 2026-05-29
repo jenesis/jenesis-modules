@@ -1,0 +1,8 @@
+0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adokky/equals-tester-macosarm64/0.13/equals-tester-macosarm64-0.13.jar returned status 404
+0.13	metadata	2025-06-30T06:02:38Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adokky/equals-tester-macosarm64/0.2/equals-tester-macosarm64-0.2.jar returned status 404
+0.2	metadata	2025-11-20T12:57:07Z	
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adokky/equals-tester-macosarm64/1.0/equals-tester-macosarm64-1.0.jar returned status 404
+1.0	metadata	2025-11-20T13:08:21Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adokky/equals-tester-macosarm64/1.1.0/equals-tester-macosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2025-11-21T02:57:02Z	

@@ -1,0 +1,8 @@
+10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/10.0-rc1/modules-10.0-rc1.jar returned status 404
+7.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/7.6.4/modules-7.6.4.jar returned status 404
+7.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/7.6.5/modules-7.6.5.jar returned status 404
+7.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/7.6.6/modules-7.6.6.jar returned status 404
+8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/8.2/modules-8.2.jar returned status 404
+8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/8.3/modules-8.3.jar returned status 404
+9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/9.1/modules-9.1.jar returned status 404
+9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/9.2/modules-9.2.jar returned status 404

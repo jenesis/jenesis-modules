@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenfd99/mybatis-pagination-parent/1.0/mybatis-pagination-parent-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenfd99/mybatis-pagination-parent/1.1/mybatis-pagination-parent-1.1.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenfd99/mybatis-pagination-parent/1.3/mybatis-pagination-parent-1.3.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenfd99/mybatis-pagination-parent/1.4/mybatis-pagination-parent-1.4.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chenfd99/mybatis-pagination-parent/1.5/mybatis-pagination-parent-1.5.jar returned status 404

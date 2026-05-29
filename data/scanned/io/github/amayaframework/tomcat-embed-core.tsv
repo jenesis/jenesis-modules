@@ -1,0 +1,8 @@
+10.1.44			InvalidModuleDescriptorException: The requires table must have an entry for java.base
+10.1.44-1			InvalidModuleDescriptorException: CONSTANT_Package at entry 40 has illegal character: '.'
+10.1.44-2			InvalidModuleDescriptorException: CONSTANT_Package at entry 40 has illegal character: '.'
+10.1.44-3			InvalidModuleDescriptorException: CONSTANT_Package at entry 42 has illegal character: '.'
+10.1.44-4			InvalidModuleDescriptorException: CONSTANT_Package at entry 42 has illegal character: '.'
+10.1.45			InvalidModuleDescriptorException: CONSTANT_Package at entry 42 has illegal character: '.'
+10.1.46			InvalidModuleDescriptorException: CONSTANT_Package at entry 42 has illegal character: '.'
+10.1.49			InvalidModuleDescriptorException: CONSTANT_Package at entry 42 has illegal character: '.'

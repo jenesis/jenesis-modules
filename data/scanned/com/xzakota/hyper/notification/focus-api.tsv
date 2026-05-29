@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xzakota/hyper/notification/focus-api/1.0/focus-api-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xzakota/hyper/notification/focus-api/1.1/focus-api-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xzakota/hyper/notification/focus-api/1.2/focus-api-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xzakota/hyper/notification/focus-api/1.3/focus-api-1.3.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xzakota/hyper/notification/focus-api/1.4/focus-api-1.4.jar returned status 404

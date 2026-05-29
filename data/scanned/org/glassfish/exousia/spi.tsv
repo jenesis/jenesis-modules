@@ -1,0 +1,6 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/1.0.0/spi-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/1.0.1/spi-1.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/2.1.0/spi-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/3.0.0/spi-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/3.0.1/spi-3.0.1.jar returned status 404
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/exousia/spi/4.0.0-M1/spi-4.0.0-M1.jar returned status 404

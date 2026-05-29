@@ -1,0 +1,4 @@
+0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adyen/issuing/provisioning/provisioning-sdk/0.3.4/provisioning-sdk-0.3.4.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adyen/issuing/provisioning/provisioning-sdk/0.4.0/provisioning-sdk-0.4.0.jar returned status 404
+0.4.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adyen/issuing/provisioning/provisioning-sdk/0.4.0-alpha01/provisioning-sdk-0.4.0-alpha01.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adyen/issuing/provisioning/provisioning-sdk/0.4.1/provisioning-sdk-0.4.1.jar returned status 404

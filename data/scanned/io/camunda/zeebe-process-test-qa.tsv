@@ -1,0 +1,78 @@
+1.4.0-alpha2		2022-03-02T09:55:04Z	
+8.0.0		2022-04-06T15:19:40Z	
+8.0.0-rc1		2022-03-29T14:05:42Z	
+8.0.1		2022-04-21T13:36:16Z	
+8.0.11		2023-02-09T11:27:53Z	
+8.0.12		2023-03-07T13:27:49Z	
+8.0.13		2023-04-05T19:09:17Z	
+8.0.14		2023-05-03T13:09:31Z	
+8.0.16		2023-06-07T15:37:13Z	
+8.0.17		2023-06-13T13:17:26Z	
+8.0.18		2023-07-05T17:19:32Z	
+8.0.19		2023-08-02T11:37:17Z	
+8.0.2		2022-05-03T15:22:17Z	
+8.0.20		2023-09-06T19:29:28Z	
+8.0.21		2023-09-07T21:31:29Z	
+8.0.3		2022-06-01T16:29:25Z	
+8.0.4		2022-07-04T10:11:44Z	
+8.0.5		2022-08-01T14:00:05Z	
+8.0.6		2022-09-01T13:17:09Z	
+8.0.7		2022-10-04T10:00:05Z	
+8.0.8		2022-11-02T15:12:32Z	
+8.0.9		2022-12-06T16:29:25Z	
+8.4.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.4.21/zeebe-process-test-qa-8.4.21.jar returned status 404
+8.5.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.20/zeebe-process-test-qa-8.5.20.jar returned status 404
+8.5.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.21/zeebe-process-test-qa-8.5.21.jar returned status 404
+8.5.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.22/zeebe-process-test-qa-8.5.22.jar returned status 404
+8.5.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.23/zeebe-process-test-qa-8.5.23.jar returned status 404
+8.5.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.24/zeebe-process-test-qa-8.5.24.jar returned status 404
+8.5.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.5.25/zeebe-process-test-qa-8.5.25.jar returned status 404
+8.6.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.20/zeebe-process-test-qa-8.6.20.jar returned status 404
+8.6.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.21/zeebe-process-test-qa-8.6.21.jar returned status 404
+8.6.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.22/zeebe-process-test-qa-8.6.22.jar returned status 404
+8.6.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.23/zeebe-process-test-qa-8.6.23.jar returned status 404
+8.6.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.24/zeebe-process-test-qa-8.6.24.jar returned status 404
+8.6.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.25/zeebe-process-test-qa-8.6.25.jar returned status 404
+8.6.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.26/zeebe-process-test-qa-8.6.26.jar returned status 404
+8.6.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.27/zeebe-process-test-qa-8.6.27.jar returned status 404
+8.6.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.28/zeebe-process-test-qa-8.6.28.jar returned status 404
+8.6.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.29/zeebe-process-test-qa-8.6.29.jar returned status 404
+8.6.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.30/zeebe-process-test-qa-8.6.30.jar returned status 404
+8.6.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.31/zeebe-process-test-qa-8.6.31.jar returned status 404
+8.6.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.32/zeebe-process-test-qa-8.6.32.jar returned status 404
+8.6.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.33/zeebe-process-test-qa-8.6.33.jar returned status 404
+8.6.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.34/zeebe-process-test-qa-8.6.34.jar returned status 404
+8.6.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.35/zeebe-process-test-qa-8.6.35.jar returned status 404
+8.6.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.36/zeebe-process-test-qa-8.6.36.jar returned status 404
+8.6.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.37/zeebe-process-test-qa-8.6.37.jar returned status 404
+8.6.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.38/zeebe-process-test-qa-8.6.38.jar returned status 404
+8.6.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.6.39/zeebe-process-test-qa-8.6.39.jar returned status 404
+8.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.10/zeebe-process-test-qa-8.7.10.jar returned status 404
+8.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.11/zeebe-process-test-qa-8.7.11.jar returned status 404
+8.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.12/zeebe-process-test-qa-8.7.12.jar returned status 404
+8.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.13/zeebe-process-test-qa-8.7.13.jar returned status 404
+8.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.14/zeebe-process-test-qa-8.7.14.jar returned status 404
+8.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.15/zeebe-process-test-qa-8.7.15.jar returned status 404
+8.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.16/zeebe-process-test-qa-8.7.16.jar returned status 404
+8.7.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.17/zeebe-process-test-qa-8.7.17.jar returned status 404
+8.7.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.18/zeebe-process-test-qa-8.7.18.jar returned status 404
+8.7.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.19/zeebe-process-test-qa-8.7.19.jar returned status 404
+8.7.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.20/zeebe-process-test-qa-8.7.20.jar returned status 404
+8.7.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.21/zeebe-process-test-qa-8.7.21.jar returned status 404
+8.7.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.22/zeebe-process-test-qa-8.7.22.jar returned status 404
+8.7.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.23/zeebe-process-test-qa-8.7.23.jar returned status 404
+8.7.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.24/zeebe-process-test-qa-8.7.24.jar returned status 404
+8.7.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.25/zeebe-process-test-qa-8.7.25.jar returned status 404
+8.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.26/zeebe-process-test-qa-8.7.26.jar returned status 404
+8.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.27/zeebe-process-test-qa-8.7.27.jar returned status 404
+8.7.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.28/zeebe-process-test-qa-8.7.28.jar returned status 404
+8.7.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.29/zeebe-process-test-qa-8.7.29.jar returned status 404
+8.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.7/zeebe-process-test-qa-8.7.7.jar returned status 404
+8.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.8/zeebe-process-test-qa-8.7.8.jar returned status 404
+8.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.7.9/zeebe-process-test-qa-8.7.9.jar returned status 404
+8.8.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha6/zeebe-process-test-qa-8.8.0-alpha6.jar returned status 404
+8.8.0-alpha6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha6-rc1/zeebe-process-test-qa-8.8.0-alpha6-rc1.jar returned status 404
+8.8.0-alpha6-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha6-rc2/zeebe-process-test-qa-8.8.0-alpha6-rc2.jar returned status 404
+8.8.0-alpha6-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha6-rc3/zeebe-process-test-qa-8.8.0-alpha6-rc3.jar returned status 404
+8.8.0-alpha7-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha7-rc1/zeebe-process-test-qa-8.8.0-alpha7-rc1.jar returned status 404
+8.8.0-alpha7-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-process-test-qa/8.8.0-alpha7-rc2/zeebe-process-test-qa-8.8.0-alpha7-rc2.jar returned status 404

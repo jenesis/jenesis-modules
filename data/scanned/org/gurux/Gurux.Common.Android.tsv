@@ -1,0 +1,6 @@
+1.0.0		2017-01-13T13:06:23Z	
+1.0.1		2017-01-14T16:55:24Z	
+1.0.3		2017-01-16T09:28:27Z	
+1.0.4		2017-01-17T08:19:25Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gurux/Gurux.Common.Android/2.0.1/Gurux.Common.Android-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gurux/Gurux.Common.Android/2.0.2/Gurux.Common.Android-2.0.2.jar returned status 404

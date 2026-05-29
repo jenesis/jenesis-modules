@@ -1,0 +1,4 @@
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/model/opentmf-v4-models/1.0.4/opentmf-v4-models-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/model/opentmf-v4-models/1.0.5/opentmf-v4-models-1.0.5.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/model/opentmf-v4-models/4.1.0/opentmf-v4-models-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/model/opentmf-v4-models/4.1.1/opentmf-v4-models-4.1.1.jar returned status 404

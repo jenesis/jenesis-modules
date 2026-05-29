@@ -1,0 +1,8 @@
+0.0.1		2025-01-15T11:44:20Z	
+0.0.1-alpha01		2024-12-23T12:08:58Z	
+0.0.1-alpha02		2024-12-24T13:03:15Z	
+0.0.1-alpha03		2024-12-24T15:52:24Z	
+0.0.1-test1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/test-point-compiler/0.0.1-test1/test-point-compiler-0.0.1-test1.jar returned status 404
+0.0.1-test2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/test-point-compiler/0.0.1-test2/test-point-compiler-0.0.1-test2.jar returned status 404
+0.0.1-test3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrq1060/test-point-compiler/0.0.1-test3/test-point-compiler-0.0.1-test3.jar returned status 404
+0.0.1-test4		2024-04-16T03:08:09Z	

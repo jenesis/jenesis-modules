@@ -1,0 +1,13 @@
+0.10.0	java8	2018-05-11T07:31:52Z	
+0.4.0	java8	2014-06-23T21:29:48Z	
+0.4.5	java8	2014-10-27T10:26:18Z	
+0.4.6	java8	2015-02-27T11:15:05Z	
+0.5.0	java8	2015-04-13T17:47:32Z	
+0.6.0	java8	2015-10-09T04:30:41Z	
+0.6.1	java8	2016-01-11T19:39:22Z	
+0.7.0	java8	2016-10-05T19:19:09Z	
+0.8.0	java8	2017-03-19T19:26:31Z	
+0.8.1	java8	2017-04-04T14:24:15Z	
+0.9.0	java8	2018-04-05T12:22:43Z	
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/xo/xo.parent/2.6.5/xo.parent-2.6.5.jar returned status 404
+2.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/xo/xo.parent/2.6.6/xo.parent-2.6.6.jar returned status 404

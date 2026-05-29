@@ -1,0 +1,4 @@
+0.1.0		2024-01-10T10:26:44Z	
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/altibbi/telehealth/AltibbiTelehealth/0.1.1/AltibbiTelehealth-0.1.1.jar returned status 404
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/altibbi/telehealth/AltibbiTelehealth/0.1.3/AltibbiTelehealth-0.1.3.jar returned status 404
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/altibbi/telehealth/AltibbiTelehealth/0.1.4/AltibbiTelehealth-0.1.4.jar returned status 404

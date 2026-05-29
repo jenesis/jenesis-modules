@@ -1,0 +1,8 @@
+0.1.0	jar	2019-06-24T13:09:31Z	
+0.1.1	jar	2019-08-22T18:37:22Z	
+0.1.2	jar	2019-10-23T07:19:36Z	
+0.2.0	jar	2020-07-01T06:23:47Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/adapter/mopub-mobileads/0.4.0/mopub-mobileads-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/adapter/mopub-mobileads/0.5.0/mopub-mobileads-0.5.0.jar returned status 404
+4.4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/adapter/mopub-mobileads/4.4.0.0/mopub-mobileads-4.4.0.0.jar returned status 404
+5.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/adapter/mopub-mobileads/5.0.0.0/mopub-mobileads-5.0.0.0.jar returned status 404

@@ -1,0 +1,7 @@
+1.0.0.0-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.0-ALPHA/dynamodb-extension-1.0.0.0-ALPHA.jar returned status 404
+1.0.0.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.0-BETA/dynamodb-extension-1.0.0.0-BETA.jar returned status 404
+1.0.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.0-RC/dynamodb-extension-1.0.0.0-RC.jar returned status 404
+1.0.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.1-RC/dynamodb-extension-1.0.0.1-RC.jar returned status 404
+1.0.0.2-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.2-RC/dynamodb-extension-1.0.0.2-RC.jar returned status 404
+1.0.0.7-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.7-RC/dynamodb-extension-1.0.0.7-RC.jar returned status 404
+1.0.0.8-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/dynamodb-extension/1.0.0.8-RC/dynamodb-extension-1.0.0.8-RC.jar returned status 404

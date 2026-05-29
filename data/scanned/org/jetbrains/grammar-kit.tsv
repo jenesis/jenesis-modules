@@ -1,0 +1,10 @@
+2021.1.2		2021-11-10T20:20:46Z	
+2022.3		2022-11-17T17:42:08Z	
+2022.3.1		2023-02-23T09:10:40Z	
+2022.3.2		2023-09-18T12:13:28Z	
+2023.1		2022-11-17T06:48:39Z	
+2023.3		2025-01-16T20:57:00Z	
+2023.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/grammar-kit/2023.3.1/grammar-kit-2023.3.1.jar returned status 404
+2023.3.1	base	2026-03-02T16:09:52Z	
+2023.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/grammar-kit/2023.3.2/grammar-kit-2023.3.2.jar returned status 404
+2023.3.2	base	2026-04-29T16:52:31Z	

@@ -1,0 +1,4 @@
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/mvvm-test-android-debug/0.10.0/mvvm-test-android-debug-0.10.0.jar returned status 404
+0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/mvvm-test-android-debug/0.10.1/mvvm-test-android-debug-0.10.1.jar returned status 404
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/mvvm-test-android-debug/0.11.0/mvvm-test-android-debug-0.11.0.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/mvvm-test-android-debug/0.9.2/mvvm-test-android-debug-0.9.2.jar returned status 404

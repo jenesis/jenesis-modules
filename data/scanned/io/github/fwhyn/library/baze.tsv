@@ -1,0 +1,6 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.0.0/baze-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.1.0/baze-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.2.0/baze-1.2.0.jar returned status 404
+1.2.0-SDK34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.2.0-SDK34/baze-1.2.0-SDK34.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.3.0/baze-1.3.0.jar returned status 404
+1.3.0-SDK34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fwhyn/library/baze/1.3.0-SDK34/baze-1.3.0-SDK34.jar returned status 404

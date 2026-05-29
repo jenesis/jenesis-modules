@@ -1,0 +1,4 @@
+5.7.1.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/terasoluna/batch/terasoluna-batch-build/5.7.1.RC1/terasoluna-batch-build-5.7.1.RC1.jar returned status 404
+5.7.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/terasoluna/batch/terasoluna-batch-build/5.7.1.RELEASE/terasoluna-batch-build-5.7.1.RELEASE.jar returned status 404
+5.8.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/terasoluna/batch/terasoluna-batch-build/5.8.0.RC1/terasoluna-batch-build-5.8.0.RC1.jar returned status 404
+5.8.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/terasoluna/batch/terasoluna-batch-build/5.8.0.RELEASE/terasoluna-batch-build-5.8.0.RELEASE.jar returned status 404

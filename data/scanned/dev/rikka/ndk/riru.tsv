@@ -1,0 +1,6 @@
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/10/riru-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/11/riru-11.jar returned status 404
+24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/24.0.0/riru-24.0.0.jar returned status 404
+25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/25.0.0/riru-25.0.0.jar returned status 404
+25.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/25.0.1/riru-25.0.1.jar returned status 404
+26.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/ndk/riru/26.0.0/riru-26.0.0.jar returned status 404

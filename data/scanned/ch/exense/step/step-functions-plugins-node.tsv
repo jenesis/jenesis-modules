@@ -1,0 +1,85 @@
+3.11.0		2019-09-13T09:47:17Z	
+3.11.1		2019-10-17T10:26:55Z	
+3.12.0		2019-12-05T15:24:05Z	
+3.12.1		2019-12-30T18:05:48Z	
+3.12.2		2020-01-06T14:50:08Z	
+3.12.3		2020-02-19T17:18:29Z	
+3.13.0		2020-04-07T08:30:06Z	
+3.13.1		2020-04-23T14:48:29Z	
+3.13.2		2020-05-21T12:59:38Z	
+3.13.3		2020-06-19T08:01:13Z	
+3.13.4		2020-07-02T14:53:59Z	
+3.13.5		2020-07-06T07:13:54Z	
+3.13.6		2020-08-11T10:09:26Z	
+3.14.0		2020-10-08T13:57:46Z	
+3.14.1		2020-10-23T08:08:24Z	
+3.14.2		2020-12-03T13:20:23Z	
+3.15.0		2020-12-17T10:08:10Z	
+3.15.1		2021-01-22T07:18:57Z	
+3.15.2		2021-01-27T16:12:37Z	
+3.15.3		2021-02-26T17:37:47Z	
+3.15.4		2021-03-02T18:44:53Z	
+3.15.5		2021-03-10T11:47:26Z	
+3.15.6		2021-04-08T12:21:17Z	
+3.15.7		2021-04-15T11:42:43Z	
+3.16.0		2021-04-01T11:19:26Z	
+3.16.1		2021-04-15T14:23:41Z	
+3.16.2		2021-05-28T07:14:33Z	
+3.16.3		2021-07-23T11:28:22Z	
+3.17.0		2021-07-05T13:16:00Z	
+3.17.1		2021-08-19T14:57:34Z	
+3.17.2		2021-10-07T13:28:59Z	
+3.18.0		2021-12-17T08:21:08Z	
+3.18.1		2022-02-04T08:18:08Z	
+3.18.2		2022-03-10T16:25:53Z	
+3.18.3		2022-04-14T15:52:16Z	
+3.18.4		2022-06-01T11:37:33Z	
+3.18.5		2022-06-14T11:26:00Z	
+3.19.0		2022-05-02T08:52:12Z	
+3.20.0		2022-10-14T10:43:37Z	
+3.20.1		2022-11-04T11:23:19Z	
+3.20.2		2022-12-15T15:19:07Z	
+3.21.0		2023-02-13T16:50:53Z	
+3.21.1		2023-02-24T15:22:36Z	
+3.21.2		2023-03-27T14:48:20Z	
+3.21.3		2023-04-27T13:54:18Z	
+3.21.4		2023-06-15T13:07:02Z	
+3.21.5		2023-08-18T07:16:30Z	
+3.21.6		2023-09-11T07:30:41Z	
+3.22.0		2023-06-05T11:20:09Z	
+3.22.1		2023-07-14T12:16:24Z	
+3.22.2		2023-08-04T12:35:33Z	
+3.22.3		2023-08-18T11:40:01Z	
+3.22.4		2023-10-10T09:33:18Z	
+3.22.5		2023-11-03T14:38:50Z	
+3.23.0		2023-10-13T08:31:01Z	
+3.23.1		2023-11-10T12:32:01Z	
+3.23.2		2023-12-11T10:44:10Z	
+3.23.3		2024-01-19T17:38:06Z	
+3.24.0		2023-10-13T07:56:38Z	
+3.24.1		2024-01-31T13:58:15Z	
+3.24.2		2024-02-23T06:39:39Z	
+3.24.3		2024-03-05T20:00:56Z	
+3.24.4		2024-03-11T09:55:08Z	
+3.24.5		2024-04-05T08:50:44Z	
+3.24.6		2024-06-05T14:24:29Z	
+3.25.0		2024-05-16T15:43:37Z	
+3.25.1		2024-06-10T14:56:16Z	
+3.25.2		2024-06-20T13:46:59Z	
+3.25.3		2024-07-18T16:50:11Z	
+3.25.4		2024-08-15T12:42:27Z	
+3.25.5		2024-09-13T07:26:28Z	
+3.27.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.6/step-functions-plugins-node-3.27.6.jar returned status 404
+3.27.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.7/step-functions-plugins-node-3.27.7.jar returned status 404
+3.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.0/step-functions-plugins-node-3.28.0.jar returned status 404
+3.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.1/step-functions-plugins-node-3.28.1.jar returned status 404
+3.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.2/step-functions-plugins-node-3.28.2.jar returned status 404
+3.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.3/step-functions-plugins-node-3.28.3.jar returned status 404
+3.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.4/step-functions-plugins-node-3.28.4.jar returned status 404
+3.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.0/step-functions-plugins-node-3.29.0.jar returned status 404
+3.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.1/step-functions-plugins-node-3.29.1.jar returned status 404
+3.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.2/step-functions-plugins-node-3.29.2.jar returned status 404
+3.29.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.3/step-functions-plugins-node-3.29.3.jar returned status 404
+3.29.3-customJava25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.3-customJava25/step-functions-plugins-node-3.29.3-customJava25.jar returned status 404
+3.29.3-customJava25v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.3-customJava25v2/step-functions-plugins-node-3.29.3-customJava25v2.jar returned status 404
+3.29.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.29.4/step-functions-plugins-node-3.29.4.jar returned status 404

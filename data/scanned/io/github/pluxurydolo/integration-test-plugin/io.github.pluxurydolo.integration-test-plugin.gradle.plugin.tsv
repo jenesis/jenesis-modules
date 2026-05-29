@@ -1,0 +1,4 @@
+1.0.0		2026-01-05T22:30:47Z	
+1.1.0		2026-03-16T18:05:34Z	
+2.0.1		2026-03-22T01:27:48Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/integration-test-plugin/io.github.pluxurydolo.integration-test-plugin.gradle.plugin/2.1.0/io.github.pluxurydolo.integration-test-plugin.gradle.plugin-2.1.0.jar returned status 404

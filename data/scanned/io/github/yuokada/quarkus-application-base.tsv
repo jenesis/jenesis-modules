@@ -1,0 +1,6 @@
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/10/quarkus-application-base-10.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/12/quarkus-application-base-12.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/6/quarkus-application-base-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/7/quarkus-application-base-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/8/quarkus-application-base-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuokada/quarkus-application-base/9/quarkus-application-base-9.jar returned status 404

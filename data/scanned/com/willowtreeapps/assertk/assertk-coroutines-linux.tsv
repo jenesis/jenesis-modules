@@ -1,0 +1,3 @@
+0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/willowtreeapps/assertk/assertk-coroutines-linux/0.23/assertk-coroutines-linux-0.23.jar returned status 404
+0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/willowtreeapps/assertk/assertk-coroutines-linux/0.23.1/assertk-coroutines-linux-0.23.1.jar returned status 404
+0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/willowtreeapps/assertk/assertk-coroutines-linux/0.24/assertk-coroutines-linux-0.24.jar returned status 404

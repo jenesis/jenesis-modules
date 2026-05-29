@@ -1,0 +1,8 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.0/anrspy-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.1/anrspy-1.1.jar returned status 404
+1.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.1-beta/anrspy-1.1-beta.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.2/anrspy-1.2.jar returned status 404
+1.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.2-beta/anrspy-1.2-beta.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/1.3/anrspy-1.3.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/2.0/anrspy-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/farimarwat/anrspy/2.1/anrspy-2.1.jar returned status 404

@@ -1,0 +1,14 @@
+${revision}			IllegalArgumentException: Illegal character in path at index 19: tech/mgl/mgl-boot/${revision}/mgl-boot-${revision}.jar
+2024.10.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2024.10.26/mgl-boot-2024.10.26.jar returned status 404
+2025.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2025.1.0/mgl-boot-2025.1.0.jar returned status 404
+2025.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2025.1.1/mgl-boot-2025.1.1.jar returned status 404
+2025.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2025.12.1/mgl-boot-2025.12.1.jar returned status 404
+2025.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2025.5.1/mgl-boot-2025.5.1.jar returned status 404
+2026.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.2/mgl-boot-2026.1.2.jar returned status 404
+2026.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.5/mgl-boot-2026.1.5.jar returned status 404
+2026.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.6/mgl-boot-2026.1.6.jar returned status 404
+2026.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.7/mgl-boot-2026.1.7.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/3.0.1/mgl-boot-3.0.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/3.1.2/mgl-boot-3.1.2.jar returned status 404
+3.1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/3.1.2.1/mgl-boot-3.1.2.1.jar returned status 404
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/3.1.3/mgl-boot-3.1.3.jar returned status 404

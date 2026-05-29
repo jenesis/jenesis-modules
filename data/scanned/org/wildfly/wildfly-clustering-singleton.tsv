@@ -1,0 +1,36 @@
+10.0.0.Alpha1		2015-05-18T01:22:04Z	
+10.0.0.Alpha2		2015-05-29T21:56:54Z	
+10.0.0.Alpha3		2015-06-13T02:25:22Z	
+10.0.0.Alpha4		2015-06-27T02:49:40Z	
+10.0.0.Alpha5		2015-07-11T21:32:47Z	
+10.0.0.Alpha6		2015-07-27T01:16:37Z	
+37.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/37.0.0.Beta1/wildfly-clustering-singleton-37.0.0.Beta1.jar returned status 404
+37.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/37.0.0.Final/wildfly-clustering-singleton-37.0.0.Final.jar returned status 404
+37.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/37.0.1.Final/wildfly-clustering-singleton-37.0.1.Final.jar returned status 404
+38.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/38.0.0.Beta1/wildfly-clustering-singleton-38.0.0.Beta1.jar returned status 404
+38.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/38.0.0.Final/wildfly-clustering-singleton-38.0.0.Final.jar returned status 404
+38.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/38.0.1.Final/wildfly-clustering-singleton-38.0.1.Final.jar returned status 404
+39.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/39.0.0.Beta1/wildfly-clustering-singleton-39.0.0.Beta1.jar returned status 404
+39.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/39.0.0.Final/wildfly-clustering-singleton-39.0.0.Final.jar returned status 404
+39.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/39.0.1.Final/wildfly-clustering-singleton-39.0.1.Final.jar returned status 404
+40.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-singleton/40.0.0.Beta1/wildfly-clustering-singleton-40.0.0.Beta1.jar returned status 404
+8.0.0.Alpha1		2013-05-18T01:58:29Z	
+8.0.0.Alpha2		2013-06-22T02:53:28Z	
+8.0.0.Alpha3		2013-07-18T05:20:36Z	
+8.0.0.Alpha4		2013-08-13T01:19:33Z	
+8.0.0.Beta1		2013-10-04T19:59:05Z	
+8.0.0.CR1		2013-12-22T06:08:33Z	
+8.0.0.Final		2014-02-12T04:39:10Z	
+8.1.0.CR1		2014-04-13T03:12:31Z	
+8.1.0.CR2		2014-05-12T18:00:08Z	
+8.1.0.Final		2014-05-31T02:50:43Z	
+8.2.0.Final		2014-11-21T04:38:59Z	
+8.2.1.Final		2015-07-24T00:24:33Z	
+9.0.0.Alpha1		2014-09-15T19:04:08Z	
+9.0.0.Beta1		2015-03-26T20:55:10Z	
+9.0.0.Beta2		2015-03-27T17:54:51Z	
+9.0.0.CR1		2015-05-01T18:45:58Z	
+9.0.0.CR2		2015-06-11T01:43:21Z	
+9.0.0.Final		2015-07-02T17:21:54Z	
+9.0.1.Final		2015-07-24T01:58:27Z	
+9.0.2.Final		2015-10-26T22:11:26Z	

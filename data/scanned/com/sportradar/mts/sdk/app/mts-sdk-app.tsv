@@ -1,0 +1,30 @@
+2.3.6.0		2021-04-01T08:15:04Z	
+2.3.6.0	fatjar	2021-04-01T08:15:02Z	
+2.3.6.0	fatjar-shaded	2021-04-01T08:14:57Z	
+2.3.6.0	fatjar-shaded-ticketversion-ticket22	2021-04-01T08:15:01Z	
+2.3.6.0	tinyjar	2021-04-01T08:14:59Z	
+2.3.6.0-1		2021-04-03T09:19:44Z	
+2.3.6.0-1	fatjar	2021-04-03T09:19:37Z	
+2.3.6.0-1	fatjar-shaded	2021-04-03T09:19:39Z	
+2.3.6.0-1	fatjar-shaded-ticketversion-ticket23	2021-04-03T09:19:46Z	
+2.3.6.0-1	tinyjar	2021-04-03T09:19:47Z	
+2.4.1.1		2022-11-08T08:57:22Z	
+2.4.1.1	fatjar	2022-11-08T08:57:24Z	
+2.4.1.1	fatjar-shaded	2022-11-08T08:57:02Z	
+2.4.1.1	fatjar-shaded-ticketversion-ticket24	2022-11-08T08:57:17Z	
+2.4.1.1	tinyjar	2022-11-08T08:57:20Z	
+2.4.1.2		2023-12-05T09:17:02Z	
+2.4.1.2	fatjar	2023-12-05T09:17:11Z	
+2.4.1.2	fatjar-shaded	2023-12-05T09:17:21Z	
+2.4.1.2	fatjar-shaded-ticketversion-ticket24	2023-12-05T09:17:17Z	
+2.4.1.2	tinyjar	2023-12-05T09:17:15Z	
+2.4.2.0-17		2025-07-21T10:49:06Z	
+2.4.2.0-17	fatjar	2025-07-21T10:49:06Z	
+2.4.2.0-17	fatjar-shaded	2025-07-21T10:49:06Z	
+2.4.2.0-17	fatjar-shaded-ticketversion-ticket24-17		InvalidModuleDescriptorException: com.sportradar.ticket24-17.shaded.fasterxml.jackson.core.ObjectCodec: Invalid service type name: 'ticket24-17' is not a Java identifier
+2.4.2.0-17	tinyjar	2025-07-21T10:49:06Z	
+2.4.2.1-17		2025-10-20T12:14:21Z	
+2.4.2.1-17	fatjar	2025-10-20T12:14:21Z	
+2.4.2.1-17	fatjar-shaded	2025-10-20T12:14:21Z	
+2.4.2.1-17	fatjar-shaded-ticketversion-ticket24-17		InvalidModuleDescriptorException: com.sportradar.ticket24-17.shaded.fasterxml.jackson.core.ObjectCodec: Invalid service type name: 'ticket24-17' is not a Java identifier
+2.4.2.1-17	tinyjar	2025-10-20T12:14:21Z	

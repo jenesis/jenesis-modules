@@ -1,0 +1,4 @@
+21.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/sonar-plugin/21.0.10/sonar-plugin-21.0.10.jar returned status 404
+21.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/sonar-plugin/21.0.11/sonar-plugin-21.0.11.jar returned status 404
+21.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/sonar-plugin/21.0.8/sonar-plugin-21.0.8.jar returned status 404
+21.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/sonar-plugin/21.0.9/sonar-plugin-21.0.9.jar returned status 404

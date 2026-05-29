@@ -1,0 +1,15 @@
+3.0.0-RC1		2016-01-21T22:07:58Z	
+3.0.1		2016-03-07T21:43:28Z	
+3.1.0		2016-03-08T23:02:19Z	
+3.2.0		2016-04-13T18:51:41Z	
+3.2.1		2016-04-14T16:47:34Z	
+8.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.13.0/recommendations-8.13.0.jar returned status 404
+8.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.14.0/recommendations-8.14.0.jar returned status 404
+8.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.15.0/recommendations-8.15.0.jar returned status 404
+8.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.16.0/recommendations-8.16.0.jar returned status 404
+8.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.17.0/recommendations-8.17.0.jar returned status 404
+8.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.18.0/recommendations-8.18.0.jar returned status 404
+8.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.19.0/recommendations-8.19.0.jar returned status 404
+8.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.20.0/recommendations-8.20.0.jar returned status 404
+8.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.21.0/recommendations-8.21.0.jar returned status 404
+8.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/recommendations/8.22.0/recommendations-8.22.0.jar returned status 404

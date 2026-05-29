@@ -1,0 +1,3 @@
+2.2.20-RC-0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gradleup/kctf/kdoc/2.2.20-RC-0.0.0/kdoc-2.2.20-RC-0.0.0.jar returned status 404
+2.2.20-RC-0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gradleup/kctf/kdoc/2.2.20-RC-0.0.1/kdoc-2.2.20-RC-0.0.1.jar returned status 404
+2.3.10-0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gradleup/kctf/kdoc/2.3.10-0.0.2/kdoc-2.3.10-0.0.2.jar returned status 404

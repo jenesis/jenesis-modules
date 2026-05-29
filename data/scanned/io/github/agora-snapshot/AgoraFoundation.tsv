@@ -1,0 +1,4 @@
+3.3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-snapshot/AgoraFoundation/3.3.3.1/AgoraFoundation-3.3.3.1.jar returned status 404
+3.3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-snapshot/AgoraFoundation/3.3.3.2/AgoraFoundation-3.3.3.2.jar returned status 404
+3.3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-snapshot/AgoraFoundation/3.3.3.3/AgoraFoundation-3.3.3.3.jar returned status 404
+3.4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-snapshot/AgoraFoundation/3.4.0.5/AgoraFoundation-3.4.0.5.jar returned status 404

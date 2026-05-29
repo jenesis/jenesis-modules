@@ -1,0 +1,4 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fededri/arch/shared-ios/0.1/shared-ios-0.1.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fededri/arch/shared-ios/0.3/shared-ios-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fededri/arch/shared-ios/0.4/shared-ios-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fededri/arch/shared-ios/0.5/shared-ios-0.5.jar returned status 404

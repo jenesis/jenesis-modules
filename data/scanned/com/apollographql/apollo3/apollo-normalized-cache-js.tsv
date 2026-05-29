@@ -1,0 +1,55 @@
+3.0.0		2021-12-15T15:31:19Z	
+3.0.0-beta01		2021-10-22T17:03:20Z	
+3.0.0-beta02		2021-11-03T10:56:52Z	
+3.0.0-beta03		2021-11-05T20:51:41Z	
+3.0.0-beta04		2021-11-24T12:16:40Z	
+3.0.0-beta05		2021-12-03T19:15:22Z	
+3.0.0-dev10		2021-05-12T10:13:12Z	
+3.0.0-dev11		2021-05-26T10:05:08Z	
+3.0.0-dev12		2021-06-10T09:56:48Z	
+3.0.0-dev13		2021-06-21T09:40:51Z	
+3.0.0-dev3		2021-03-03T12:34:48Z	
+3.0.0-dev4		2021-03-05T20:40:07Z	
+3.0.0-dev5		2021-03-15T14:17:08Z	
+3.0.0-dev6		2021-03-22T12:29:24Z	
+3.0.0-dev7		2021-04-21T20:00:30Z	
+3.0.0-dev8		2021-04-23T18:21:09Z	
+3.0.0-dev9		2021-04-30T12:11:25Z	
+3.0.0-rc01		2021-12-07T15:22:59Z	
+3.0.0-rc02		2021-12-10T20:00:06Z	
+3.0.0-rc03		2021-12-13T21:03:40Z	
+3.1.0		2022-02-07T16:56:12Z	
+3.2.0		2022-03-29T09:07:53Z	
+3.2.1		2022-04-05T13:18:10Z	
+3.2.2		2022-04-11T14:20:48Z	
+3.3.0		2022-05-04T15:37:30Z	
+3.3.1		2022-06-13T13:36:30Z	
+3.3.2		2022-06-17T10:32:09Z	
+3.4.0		2022-07-11T15:51:00Z	
+3.5.0		2022-08-01T16:51:22Z	
+3.6.0		2022-09-08T16:08:08Z	
+3.6.1		2022-10-03T14:52:25Z	
+3.6.2		2022-10-05T13:32:32Z	
+3.7.0		2022-11-08T17:08:19Z	
+3.7.1		2022-11-18T10:42:24Z	
+3.7.2		2022-12-05T13:41:02Z	
+3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.7.3/apollo-normalized-cache-js-3.7.3.jar returned status 404
+3.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.7.4/apollo-normalized-cache-js-3.7.4.jar returned status 404
+3.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.7.5/apollo-normalized-cache-js-3.7.5.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.0/apollo-normalized-cache-js-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.1/apollo-normalized-cache-js-3.8.1.jar returned status 404
+3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.2/apollo-normalized-cache-js-3.8.2.jar returned status 404
+3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.3/apollo-normalized-cache-js-3.8.3.jar returned status 404
+3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.4/apollo-normalized-cache-js-3.8.4.jar returned status 404
+3.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.5/apollo-normalized-cache-js-3.8.5.jar returned status 404
+3.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/3.8.6/apollo-normalized-cache-js-3.8.6.jar returned status 404
+4.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-alpha.1/apollo-normalized-cache-js-4.0.0-alpha.1.jar returned status 404
+4.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-alpha.2/apollo-normalized-cache-js-4.0.0-alpha.2.jar returned status 404
+4.0.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-alpha.3/apollo-normalized-cache-js-4.0.0-alpha.3.jar returned status 404
+4.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.1/apollo-normalized-cache-js-4.0.0-beta.1.jar returned status 404
+4.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.2/apollo-normalized-cache-js-4.0.0-beta.2.jar returned status 404
+4.0.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.3/apollo-normalized-cache-js-4.0.0-beta.3.jar returned status 404
+4.0.0-beta.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.4/apollo-normalized-cache-js-4.0.0-beta.4.jar returned status 404
+4.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.5/apollo-normalized-cache-js-4.0.0-beta.5.jar returned status 404
+4.0.0-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.6/apollo-normalized-cache-js-4.0.0-beta.6.jar returned status 404
+4.0.0-beta.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-normalized-cache-js/4.0.0-beta.7/apollo-normalized-cache-js-4.0.0-beta.7.jar returned status 404

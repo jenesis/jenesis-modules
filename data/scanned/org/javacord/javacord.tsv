@@ -1,0 +1,6 @@
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javacord/javacord/3.5.0/javacord-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javacord/javacord/3.6.0/javacord-3.6.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javacord/javacord/3.7.0/javacord-3.7.0.jar returned status 404
+3.7.0	shaded	2022-11-13T15:33:14Z	
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javacord/javacord/3.8.0/javacord-3.8.0.jar returned status 404
+3.8.0	shaded	2023-03-22T16:58:56Z	

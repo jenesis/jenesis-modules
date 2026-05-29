@@ -1,0 +1,7 @@
+0.1.0		2022-07-16T09:39:13Z	
+0.1.1		2022-07-18T16:13:11Z	
+0.1.2		2022-09-12T05:38:46Z	
+0.1.3		2022-10-05T07:56:16Z	
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/diglol/crypto/random-js/0.1.4/random-js-0.1.4.jar returned status 404
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/diglol/crypto/random-js/0.1.5/random-js-0.1.5.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/diglol/crypto/random-js/0.2.0/random-js-0.2.0.jar returned status 404

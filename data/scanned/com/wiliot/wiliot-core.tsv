@@ -1,0 +1,5 @@
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wiliot/wiliot-core/3.5.0/wiliot-core-3.5.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wiliot/wiliot-core/3.7.0/wiliot-core-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wiliot/wiliot-core/3.7.1/wiliot-core-3.7.1.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wiliot/wiliot-core/3.8.0/wiliot-core-3.8.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wiliot/wiliot-core/3.9.0/wiliot-core-3.9.0.jar returned status 404

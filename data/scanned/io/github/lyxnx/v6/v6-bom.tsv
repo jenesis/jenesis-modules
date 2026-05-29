@@ -1,0 +1,5 @@
+2023.09.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/v6/v6-bom/2023.09.15/v6-bom-2023.09.15.jar returned status 404
+2023.09.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/v6/v6-bom/2023.09.21/v6-bom-2023.09.21.jar returned status 404
+2023.09.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/v6/v6-bom/2023.09.23/v6-bom-2023.09.23.jar returned status 404
+2023.09.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/v6/v6-bom/2023.09.25/v6-bom-2023.09.25.jar returned status 404
+2023.10.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/v6/v6-bom/2023.10.06/v6-bom-2023.10.06.jar returned status 404

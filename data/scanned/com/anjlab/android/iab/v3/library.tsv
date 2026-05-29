@@ -1,0 +1,48 @@
+1.0.10		2014-09-09T13:07:45Z	
+1.0.11		2014-09-09T18:40:08Z	
+1.0.12		2014-09-09T20:10:03Z	
+1.0.13		2014-09-16T19:12:14Z	
+1.0.14		2014-09-23T18:07:55Z	
+1.0.15		2014-10-16T05:02:03Z	
+1.0.16		2014-10-24T07:06:18Z	
+1.0.17		2014-10-29T21:00:54Z	
+1.0.18		2014-12-08T19:40:11Z	
+1.0.19		2014-12-18T14:14:28Z	
+1.0.20		2015-02-08T07:03:01Z	
+1.0.21		2015-02-25T18:20:44Z	
+1.0.22		2015-03-03T06:15:15Z	
+1.0.23		2015-03-12T07:12:27Z	
+1.0.24		2015-04-13T07:30:17Z	
+1.0.25		2015-06-02T19:53:10Z	
+1.0.26		2015-06-10T19:28:01Z	
+1.0.27		2015-08-29T07:26:18Z	
+1.0.28		2015-09-16T09:43:54Z	
+1.0.29		2015-12-05T10:12:35Z	
+1.0.30		2015-12-11T15:42:07Z	
+1.0.31		2016-01-24T20:35:08Z	
+1.0.32		2016-06-04T06:16:00Z	
+1.0.33		2016-10-25T06:45:23Z	
+1.0.34		2016-11-11T05:49:20Z	
+1.0.35		2016-11-19T18:11:16Z	
+1.0.36		2016-11-22T05:48:07Z	
+1.0.37		2016-12-24T08:08:49Z	
+1.0.38		2017-01-01T09:22:59Z	
+1.0.39		2017-04-03T09:18:51Z	
+1.0.40		2017-06-03T07:35:46Z	
+1.0.41		2017-07-02T16:59:10Z	
+1.0.42		2017-07-07T06:23:01Z	
+1.0.43		2017-07-24T08:06:59Z	
+1.0.44		2017-08-07T15:13:31Z	
+1.0.45		2019-07-16T08:33:59Z	
+1.0.8		2014-05-05T12:23:33Z	
+1.0.9		2014-09-04T09:15:50Z	
+1.1.0		2019-07-23T11:22:55Z	
+2.0.0		2021-10-29T18:56:43Z	
+2.0.0-t1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.0-t1/library-2.0.0-t1.jar returned status 404
+2.0.0-t2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.0-t2/library-2.0.0-t2.jar returned status 404
+2.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.0.1/library-2.0.0.1.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.1/library-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.2/library-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.0.3/library-2.0.3.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.1.0/library-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anjlab/android/iab/v3/library/2.2.0/library-2.2.0.jar returned status 404

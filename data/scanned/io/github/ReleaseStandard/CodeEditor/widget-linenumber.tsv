@@ -1,0 +1,4 @@
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/widget-linenumber/2/widget-linenumber-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/widget-linenumber/3/widget-linenumber-3.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/widget-linenumber/3.4.0/widget-linenumber-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/widget-linenumber/3.5.0/widget-linenumber-3.5.0.jar returned status 404

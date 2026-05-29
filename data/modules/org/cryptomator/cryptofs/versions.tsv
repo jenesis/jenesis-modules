@@ -1,0 +1,67 @@
+1.9.14	automatic	org.cryptomator	cryptofs	2021-02-09T09:45:38Z	
+2.0.0-beta4	automatic	org.cryptomator	cryptofs	2021-03-05T14:16:50Z	
+2.0.0-beta5	automatic	org.cryptomator	cryptofs	2021-03-17T11:32:05Z	
+2.1.0-beta1	automatic	org.cryptomator	cryptofs	2021-04-01T15:23:56Z	
+2.1.0-beta2	automatic	org.cryptomator	cryptofs	2021-04-09T11:10:51Z	
+2.1.0-beta3	automatic	org.cryptomator	cryptofs	2021-04-13T10:55:40Z	
+2.0.0-beta6	automatic	org.cryptomator	cryptofs	2021-04-19T08:03:58Z	
+2.0.0-beta7	automatic	org.cryptomator	cryptofs	2021-04-20T15:20:48Z	
+2.0.0-beta8	automatic	org.cryptomator	cryptofs	2021-04-23T06:53:24Z	
+2.1.0-beta4	automatic	org.cryptomator	cryptofs	2021-05-03T09:10:35Z	
+2.0.0-rc1	automatic	org.cryptomator	cryptofs	2021-05-04T11:39:01Z	
+2.0.0-rc2	automatic	org.cryptomator	cryptofs	2021-05-05T14:20:57Z	
+2.1.0-beta5	automatic	org.cryptomator	cryptofs	2021-05-07T10:43:51Z	
+2.1.0-beta6	named	org.cryptomator	cryptofs	2021-05-21T19:30:58Z	2.1.0-beta6
+2.0.0-rc3	named	org.cryptomator	cryptofs	2021-05-21T19:38:55Z	2.0.0-rc3
+2.1.0-beta7	named	org.cryptomator	cryptofs	2021-06-26T11:51:23Z	2.1.0-beta7
+2.1.0-beta8	named	org.cryptomator	cryptofs	2021-06-28T15:28:11Z	2.1.0-beta8
+2.0.0-rc5	named	org.cryptomator	cryptofs	2021-07-19T11:29:07Z	2.0.0-rc5
+2.0.0	named	org.cryptomator	cryptofs	2021-07-19T13:10:09Z	2.0.0
+2.1.0-beta9	named	org.cryptomator	cryptofs	2021-07-19T13:14:50Z	2.1.0-beta9
+2.1.0-beta10	named	org.cryptomator	cryptofs	2021-08-12T14:29:26Z	2.1.0-beta10
+2.1.0-beta11	named	org.cryptomator	cryptofs	2021-08-13T17:35:26Z	2.1.0-beta11
+2.1.0-beta12	named	org.cryptomator	cryptofs	2021-08-20T13:44:38Z	2.1.0-beta12
+2.0.1	named	org.cryptomator	cryptofs	2021-09-02T09:31:42Z	2.0.1
+1.9.15	automatic	org.cryptomator	cryptofs	2021-09-02T10:32:54Z	
+2.1.0-beta13	named	org.cryptomator	cryptofs	2021-09-22T10:42:22Z	2.1.0-beta13
+2.1.0-rc1	named	org.cryptomator	cryptofs	2021-10-18T09:49:18Z	2.1.0-rc1
+2.0.2	named	org.cryptomator	cryptofs	2021-10-18T10:57:06Z	2.0.2
+2.1.0-rc2	named	org.cryptomator	cryptofs	2021-10-18T11:09:34Z	2.1.0-rc2
+2.1.0	named	org.cryptomator	cryptofs	2021-10-19T10:17:34Z	2.1.0
+2.1.1	named	org.cryptomator	cryptofs	2021-10-20T10:29:25Z	2.1.1
+2.2.0	named	org.cryptomator	cryptofs	2021-11-09T09:59:07Z	2.2.0
+2.3.0	named	org.cryptomator	cryptofs	2021-11-29T16:27:13Z	2.3.0
+2.3.1	named	org.cryptomator	cryptofs	2021-12-16T12:20:06Z	2.3.1
+2.4.0	named	org.cryptomator	cryptofs	2022-03-30T14:01:22Z	2.4.0
+2.4.1	named	org.cryptomator	cryptofs	2022-04-26T15:11:57Z	2.4.1
+2.4.2	named	org.cryptomator	cryptofs	2022-05-13T09:44:49Z	2.4.2
+2.4.3	named	org.cryptomator	cryptofs	2022-10-06T13:08:51Z	2.4.3
+2.4.4	named	org.cryptomator	cryptofs	2022-10-06T15:25:24Z	2.4.4
+2.4.5	named	org.cryptomator	cryptofs	2022-10-26T07:06:57Z	2.4.5
+2.5.0	named	org.cryptomator	cryptofs	2022-11-25T10:46:32Z	2.5.0
+2.5.1	named	org.cryptomator	cryptofs	2022-11-25T15:47:23Z	2.5.1
+2.5.2	named	org.cryptomator	cryptofs	2022-12-05T10:30:31Z	2.5.2
+2.5.3	named	org.cryptomator	cryptofs	2022-12-06T13:26:36Z	2.5.3
+2.6.0	named	org.cryptomator	cryptofs	2023-01-04T13:02:05Z	2.6.0
+2.6.1	named	org.cryptomator	cryptofs	2023-01-05T10:42:41Z	2.6.1
+2.6.2	named	org.cryptomator	cryptofs	2023-03-15T11:47:34Z	2.6.2
+2.6.3	named	org.cryptomator	cryptofs	2023-04-04T11:36:36Z	2.6.3
+2.6.4	named	org.cryptomator	cryptofs	2023-04-17T09:55:11Z	2.6.4
+2.6.5	named	org.cryptomator	cryptofs	2023-06-07T10:36:03Z	2.6.5
+2.6.6	named	org.cryptomator	cryptofs	2023-07-18T11:47:35Z	2.6.6
+2.6.7	named	org.cryptomator	cryptofs	2023-08-09T15:35:02Z	2.6.7
+2.6.8	named	org.cryptomator	cryptofs	2023-11-28T09:37:45Z	2.6.8
+2.6.9	named	org.cryptomator	cryptofs	2024-02-16T17:25:01Z	2.6.9
+2.7.0-beta1	named	org.cryptomator	cryptofs	2024-08-09T16:08:22Z	2.7.0-beta1
+2.7.0	named	org.cryptomator	cryptofs	2024-09-16T13:12:51Z	2.7.0
+2.7.1-beta1	named	org.cryptomator	cryptofs	2024-10-30T12:22:21Z	2.7.1-beta1
+2.7.1	named	org.cryptomator	cryptofs	2024-11-18T15:30:21Z	2.7.1
+2.7.2	named	org.cryptomator	cryptofs	2025-01-16T15:51:50Z	2.7.2
+2.8.0	named	org.cryptomator	cryptofs	2025-01-17T15:52:24Z	2.8.0
+2.9.0-beta1	named	org.cryptomator	cryptofs	2025-03-11T15:56:04Z	2.9.0-beta1
+2.9.0-beta2	named	org.cryptomator	cryptofs	2025-03-14T14:54:11Z	2.9.0-beta2
+2.9.0	named	org.cryptomator	cryptofs	2025-04-28T10:02:13Z	2.9.0
+2.10.0-beta1	named	org.cryptomator	cryptofs	2025-12-09T11:53:00Z	2.10.0-beta1
+2.10.0-beta2	named	org.cryptomator	cryptofs	2025-12-11T13:12:47Z	2.10.0-beta2
+2.10.0-beta3	named	org.cryptomator	cryptofs	2026-02-17T12:26:53Z	2.10.0-beta3
+2.10.0	named	org.cryptomator	cryptofs	2026-03-05T16:18:02Z	2.10.0

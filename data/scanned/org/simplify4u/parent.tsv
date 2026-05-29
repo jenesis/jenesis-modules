@@ -1,0 +1,33 @@
+2.10.0	resources	2021-01-02T13:36:08Z	
+2.11.0	resources	2021-02-28T21:21:35Z	
+2.11.1	resources	2021-04-05T20:43:27Z	
+2.12.0	resources	2021-04-24T11:41:33Z	
+2.12.1	resources	2021-05-15T12:27:08Z	
+2.13.0	resources	2021-06-28T15:13:03Z	
+2.14.0	resources	2021-08-29T08:48:36Z	
+2.15.0	resources	2021-10-10T13:29:32Z	
+2.16.0	resources	2022-04-16T11:39:36Z	
+2.17.0	resources	2022-09-24T09:05:51Z	
+2.18.0	resources	2023-01-09T18:02:18Z	
+2.19.0	resources	2023-06-09T12:27:11Z	
+2.20.0	resources	2023-12-10T09:27:17Z	
+2.20.1	resources	2024-02-20T17:48:05Z	
+2.21.0	resources	2024-04-02T16:50:00Z	
+2.21.1	resources	2024-05-25T20:52:41Z	
+2.22.0	resources	2024-10-31T20:47:47Z	
+2.22.1	resources	2025-03-02T09:23:17Z	
+2.4.1	resources	2019-07-13T15:24:30Z	
+2.4.2	resources	2019-11-07T20:04:58Z	
+2.4.3	resources	2019-11-26T20:50:06Z	
+2.4.4	resources	2020-02-06T08:45:34Z	
+2.5.0	resources	2020-03-30T21:18:26Z	
+2.6.0	resources	2020-06-18T17:20:59Z	
+2.6.1	resources	2020-10-25T09:06:07Z	
+2.7.0	resources	2020-11-10T20:58:59Z	
+2.7.1	resources	2020-11-12T17:08:21Z	
+2.8.0	resources	2020-12-26T08:37:18Z	
+2.9.0	resources	2020-12-28T12:26:31Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplify4u/parent/3.0.0/parent-3.0.0.jar returned status 404
+3.0.0	resources	2025-10-05T09:42:34Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplify4u/parent/3.0.1/parent-3.0.1.jar returned status 404
+3.0.1	resources	2025-12-29T22:37:05Z	

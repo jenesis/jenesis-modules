@@ -1,0 +1,16 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/1/build-configuration-tvosarm64-1.jar returned status 404
+1	metadata	2021-10-31T18:26:17Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/2.0.0/build-configuration-tvosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2022-01-15T02:01:02Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.0/build-configuration-tvosarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2022-02-25T00:10:26Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.1/build-configuration-tvosarm64-3.0.1.jar returned status 404
+3.0.1	metadata	2022-05-08T10:37:55Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.2/build-configuration-tvosarm64-3.0.2.jar returned status 404
+3.0.2	metadata	2022-05-14T11:38:50Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.3/build-configuration-tvosarm64-3.0.3.jar returned status 404
+3.0.3	metadata	2022-06-25T00:55:24Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.4/build-configuration-tvosarm64-3.0.4.jar returned status 404
+3.0.4	metadata	2023-01-07T14:00:31Z	
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-tvosarm64/3.0.5/build-configuration-tvosarm64-3.0.5.jar returned status 404
+3.0.5	metadata	2023-01-09T10:24:23Z	

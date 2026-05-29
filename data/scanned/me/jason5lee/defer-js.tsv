@@ -1,0 +1,3 @@
+1.0.0		2022-05-16T09:30:08Z	
+1.0.1		2022-05-22T03:02:53Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/jason5lee/defer-js/2.0.0/defer-js-2.0.0.jar returned status 404

@@ -1,0 +1,291 @@
+5.3.0.Beta1	automatic	org.hibernate	hibernate-ehcache	2018-01-18T16:35:19Z	
+5.3.0.Beta2	automatic	org.hibernate	hibernate-ehcache	2018-02-01T19:43:52Z	
+5.3.0.CR1	automatic	org.hibernate	hibernate-ehcache	2018-02-15T17:35:12Z	
+5.3.0.CR2	automatic	org.hibernate	hibernate-ehcache	2018-04-27T17:08:38Z	
+5.3.0.Final	automatic	org.hibernate	hibernate-ehcache	2018-05-14T21:59:47Z	
+5.3.1.Final	automatic	org.hibernate	hibernate-ehcache	2018-05-25T22:45:38Z	
+5.3.2.Final	automatic	org.hibernate	hibernate-ehcache	2018-07-05T13:57:38Z	
+5.3.3.Final	automatic	org.hibernate	hibernate-ehcache	2018-07-20T14:19:58Z	
+5.3.4.Final	automatic	org.hibernate	hibernate-ehcache	2018-08-02T18:20:20Z	
+5.3.5.Final	automatic	org.hibernate	hibernate-ehcache	2018-08-14T13:20:27Z	
+5.3.6.Final	automatic	org.hibernate	hibernate-ehcache	2018-08-28T17:26:32Z	
+5.3.7.Final	automatic	org.hibernate	hibernate-ehcache	2018-10-17T00:15:43Z	
+5.4.0.CR1	automatic	org.hibernate	hibernate-ehcache	2018-11-15T14:25:16Z	
+5.4.0.CR2	automatic	org.hibernate	hibernate-ehcache	2018-11-29T17:03:11Z	
+5.4.0.Final	automatic	org.hibernate	hibernate-ehcache	2018-12-12T22:17:25Z	
+5.4.1.Final	automatic	org.hibernate	hibernate-ehcache	2019-01-19T19:25:25Z	
+5.3.8.Final	automatic	org.hibernate	hibernate-ehcache	2019-02-19T11:16:53Z	
+5.3.9.Final	automatic	org.hibernate	hibernate-ehcache	2019-02-25T22:52:06Z	
+5.4.2.Final	automatic	org.hibernate	hibernate-ehcache	2019-03-21T18:38:17Z	
+5.3.10.Final	automatic	org.hibernate	hibernate-ehcache	2019-04-19T21:33:58Z	
+5.4.3.Final	automatic	org.hibernate	hibernate-ehcache	2019-05-30T15:23:10Z	
+5.4.4.Final	automatic	org.hibernate	hibernate-ehcache	2019-07-30T07:57:24Z	
+5.3.11.Final	automatic	org.hibernate	hibernate-ehcache	2019-08-15T21:27:24Z	
+5.3.12.Final	automatic	org.hibernate	hibernate-ehcache	2019-09-12T06:09:39Z	
+5.4.5.Final	automatic	org.hibernate	hibernate-ehcache	2019-09-17T14:42:15Z	
+5.4.6.Final	automatic	org.hibernate	hibernate-ehcache	2019-09-30T12:30:27Z	
+5.3.13.Final	automatic	org.hibernate	hibernate-ehcache	2019-10-08T12:00:56Z	
+5.4.7.Final	automatic	org.hibernate	hibernate-ehcache	2019-10-21T16:30:46Z	
+5.4.8.Final	automatic	org.hibernate	hibernate-ehcache	2019-10-28T19:01:18Z	
+5.3.14.Final	automatic	org.hibernate	hibernate-ehcache	2019-11-08T12:12:32Z	
+5.4.9.Final	automatic	org.hibernate	hibernate-ehcache	2019-11-14T16:19:25Z	
+6.0.0.Alpha3	automatic	org.hibernate.orm	hibernate-ehcache	2019-11-23T15:46:46Z	
+5.4.10.Final	automatic	org.hibernate	hibernate-ehcache	2019-12-05T17:15:43Z	
+6.0.0.Alpha4	automatic	org.hibernate.orm	hibernate-ehcache	2019-12-20T13:51:34Z	
+5.3.15.Final	automatic	org.hibernate	hibernate-ehcache	2020-01-08T04:34:16Z	
+5.4.11.Final	automatic	org.hibernate	hibernate-ehcache	2020-02-07T17:59:44Z	
+5.4.12.Final	automatic	org.hibernate	hibernate-ehcache	2020-02-13T18:24:30Z	
+5.4.13.Final	automatic	org.hibernate	hibernate-ehcache	2020-03-27T16:27:14Z	
+5.3.16.Final	automatic	org.hibernate	hibernate-ehcache	2020-03-31T12:24:03Z	
+5.4.14.Final	automatic	org.hibernate	hibernate-ehcache	2020-04-06T17:42:11Z	
+6.0.0.Alpha5	automatic	org.hibernate.orm	hibernate-ehcache	2020-04-24T19:13:04Z	
+5.3.17.Final	automatic	org.hibernate	hibernate-ehcache	2020-04-30T21:37:41Z	
+5.4.15.Final	automatic	org.hibernate	hibernate-ehcache	2020-04-30T21:39:38Z	
+5.4.16.Final	automatic	org.hibernate	hibernate-ehcache	2020-05-18T15:14:06Z	
+5.4.17.Final	automatic	org.hibernate	hibernate-ehcache	2020-05-29T10:24:33Z	
+5.4.18.Final	automatic	org.hibernate	hibernate-ehcache	2020-06-22T16:51:46Z	
+1.0.14.0-RC1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-07-18T18:44:43Z	1.0.14.0-RC1-jre14
+1.0.14.0-RC1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-18T21:10:14Z	1.0.14.0-RC1-jre8
+1.0.14.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-07-19T02:25:16Z	1.0.14.1-jre14
+1.0.14.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-19T14:20:29Z	1.0.14.1-jre8
+1.0.14.1	named	com.guicedee.services	hibernate-ehcache	2020-07-20T00:14:50Z	1.0.14.1
+1.0.14.1-jre12	named	com.guicedee.services	hibernate-ehcache	2020-07-20T02:33:09Z	1.0.14.1-jre12
+1.0.14.1-jre13	named	com.guicedee.services	hibernate-ehcache	2020-07-21T23:39:36Z	1.0.14.1-jre13
+1.0.14.3-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-24T00:41:55Z	1.0.14.3-jre8
+1.0.14.4-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-24T01:58:09Z	1.0.14.4-jre8
+1.0.14.4-jre14	named	com.guicedee.services	hibernate-ehcache	2020-07-24T02:42:00Z	1.0.14.4-jre14
+1.0.15.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-07-26T10:05:57Z	1.0.15.1-jre14
+1.0.15.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-26T11:08:01Z	1.0.15.1-jre8
+1.0.15.1	named	com.guicedee.services	hibernate-ehcache	2020-07-26T12:35:19Z	1.0.15.1
+1.0.15.1-jre12	named	com.guicedee.services	hibernate-ehcache	2020-07-26T13:26:21Z	1.0.15.1-jre12
+1.0.15.1-jre13	named	com.guicedee.services	hibernate-ehcache	2020-07-26T16:35:41Z	1.0.15.1-jre13
+5.4.19.Final	automatic	org.hibernate	hibernate-ehcache	2020-07-27T15:30:28Z	
+1.0.15.2-jre14	named	com.guicedee.services	hibernate-ehcache	2020-07-31T00:27:18Z	1.0.15.2-jre14
+1.0.15.2-jre8	named	com.guicedee.services	hibernate-ehcache	2020-07-31T01:35:07Z	1.0.15.2-jre8
+1.0.15.2	named	com.guicedee.services	hibernate-ehcache	2020-07-31T02:31:53Z	1.0.15.2
+1.0.15.2-jre12	named	com.guicedee.services	hibernate-ehcache	2020-07-31T03:57:42Z	1.0.15.2-jre12
+1.0.15.3-jre8	named	com.guicedee.services	hibernate-ehcache	2020-08-01T00:50:25Z	1.0.15.3-jre8
+1.0.15.3-jre14	named	com.guicedee.services	hibernate-ehcache	2020-08-01T01:49:26Z	1.0.15.3-jre14
+1.0.15.4-jre8	named	com.guicedee.services	hibernate-ehcache	2020-08-01T04:05:50Z	1.0.15.4-jre8
+1.0.15.4-jre14	named	com.guicedee.services	hibernate-ehcache	2020-08-01T04:53:40Z	1.0.15.4-jre14
+1.0.15.4	named	com.guicedee.services	hibernate-ehcache	2020-08-01T10:42:19Z	1.0.15.4
+5.3.18.Final	automatic	org.hibernate	hibernate-ehcache	2020-08-05T22:34:37Z	
+1.0.15.5-jre8	named	com.guicedee.services	hibernate-ehcache	2020-08-06T00:02:28Z	1.0.15.5-jre8
+1.0.15.5-jre14	named	com.guicedee.services	hibernate-ehcache	2020-08-06T01:04:07Z	1.0.15.5-jre14
+1.0.15.5	named	com.guicedee.services	hibernate-ehcache	2020-08-08T09:19:09Z	1.0.15.5
+5.4.20.Final	automatic	org.hibernate	hibernate-ehcache	2020-08-10T15:54:22Z	
+1.0.16.0-jre14	named	com.guicedee.services	hibernate-ehcache	2020-08-12T09:13:38Z	1.0.16.0-jre14
+1.0.16.0-jre8	named	com.guicedee.services	hibernate-ehcache	2020-08-13T00:51:26Z	1.0.16.0-jre8
+1.0.16.0	named	com.guicedee.services	hibernate-ehcache	2020-08-13T05:34:50Z	1.0.16.0
+6.0.0.Alpha6	automatic	org.hibernate.orm	hibernate-ehcache	2020-08-20T20:50:35Z	
+5.4.21.Final	automatic	org.hibernate	hibernate-ehcache	2020-08-27T11:00:43Z	
+1.0.17.0-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-07T08:21:53Z	1.0.17.0-jre14
+1.0.17.0	named	com.guicedee.services	hibernate-ehcache	2020-09-07T21:00:11Z	1.0.17.0
+1.0.17.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-11T23:49:36Z	1.0.17.1-jre14
+1.0.17.1	named	com.guicedee.services	hibernate-ehcache	2020-09-12T01:10:59Z	1.0.17.1
+1.0.17.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-09-12T03:54:49Z	1.0.17.1-jre8
+1.0.18.0-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-20T19:58:58Z	1.0.18.0-jre14
+1.0.18.0-jre15	named	com.guicedee.services	hibernate-ehcache	2020-09-20T20:44:34Z	1.0.18.0-jre15
+1.0.18.0-jre8	named	com.guicedee.services	hibernate-ehcache	2020-09-21T00:11:22Z	1.0.18.0-jre8
+1.0.18.0	named	com.guicedee.services	hibernate-ehcache	2020-09-21T01:09:35Z	1.0.18.0
+1.0.18.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-21T03:34:42Z	1.0.18.1-jre14
+1.0.18.1-jre15	named	com.guicedee.services	hibernate-ehcache	2020-09-21T04:18:39Z	1.0.18.1-jre15
+1.0.18.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-09-21T05:11:23Z	1.0.18.1-jre8
+1.0.18.1	named	com.guicedee.services	hibernate-ehcache	2020-09-21T06:15:28Z	1.0.18.1
+1.0.19.0-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-22T12:25:45Z	1.0.19.0-jre14
+1.0.19.0-jre15	named	com.guicedee.services	hibernate-ehcache	2020-09-22T23:23:27Z	1.0.19.0-jre15
+1.0.19.0	named	com.guicedee.services	hibernate-ehcache	2020-09-23T00:08:00Z	1.0.19.0
+1.0.19.1-jre15	named	com.guicedee.services	hibernate-ehcache	2020-09-29T00:26:19Z	1.0.19.1-jre15
+1.0.19.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-29T02:27:22Z	1.0.19.1-jre14
+1.0.19.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-09-29T04:26:33Z	1.0.19.1-jre8
+1.0.19.1	named	com.guicedee.services	hibernate-ehcache	2020-09-29T06:34:07Z	1.0.19.1
+1.0.19.1-jre13	named	com.guicedee.services	hibernate-ehcache	2020-09-29T11:52:10Z	1.0.19.1-jre13
+1.0.19.1-jre12	named	com.guicedee.services	hibernate-ehcache	2020-09-30T01:37:22Z	1.0.19.1-jre12
+1.0.19.2-jre14	named	com.guicedee.services	hibernate-ehcache	2020-09-30T06:43:17Z	1.0.19.2-jre14
+1.0.19.2-jre15	named	com.guicedee.services	hibernate-ehcache	2020-09-30T08:49:43Z	1.0.19.2-jre15
+1.0.19.2-jre8	named	com.guicedee.services	hibernate-ehcache	2020-09-30T11:42:07Z	1.0.19.2-jre8
+1.0.19.2	named	com.guicedee.services	hibernate-ehcache	2020-09-30T12:54:38Z	1.0.19.2
+1.0.19.2-jre13	named	com.guicedee.services	hibernate-ehcache	2020-09-30T13:51:23Z	1.0.19.2-jre13
+5.4.22.Final	automatic	org.hibernate	hibernate-ehcache	2020-09-30T18:31:15Z	
+1.0.19.3-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-03T09:26:21Z	1.0.19.3-jre14
+1.0.19.3-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-03T10:29:06Z	1.0.19.3-jre15
+1.0.19.3	named	com.guicedee.services	hibernate-ehcache	2020-10-03T14:12:44Z	1.0.19.3
+1.0.19.3-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-03T15:57:16Z	1.0.19.3-jre8
+1.0.19.3-jre13	named	com.guicedee.services	hibernate-ehcache	2020-10-03T17:19:54Z	1.0.19.3-jre13
+1.0.19.4-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-04T09:52:07Z	1.0.19.4-jre14
+1.0.19.4	named	com.guicedee.services	hibernate-ehcache	2020-10-04T11:14:17Z	1.0.19.4
+1.0.19.4-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-04T12:17:06Z	1.0.19.4-jre8
+1.0.19.4-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-04T13:39:16Z	1.0.19.4-jre15
+1.0.19.5-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-05T10:37:26Z	1.0.19.5-jre14
+1.0.19.5-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-05T12:05:58Z	1.0.19.5-jre8
+1.0.19.5	named	com.guicedee.services	hibernate-ehcache	2020-10-05T16:59:37Z	1.0.19.5
+1.0.19.5-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-05T21:42:41Z	1.0.19.5-jre15
+1.0.19.6-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-07T15:26:00Z	1.0.19.6-jre8
+1.0.19.6-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-07T16:51:51Z	1.0.19.6-jre14
+1.0.19.6	named	com.guicedee.services	hibernate-ehcache	2020-10-07T19:57:45Z	1.0.19.6
+1.0.19.7-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-08T01:57:29Z	1.0.19.7-jre8
+1.0.19.7-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-08T02:59:24Z	1.0.19.7-jre14
+1.0.19.8-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-08T10:30:23Z	1.0.19.8-jre8
+1.0.19.9-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-10T22:27:38Z	1.0.19.9-jre8
+1.0.19.9-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-10T23:17:20Z	1.0.19.9-jre14
+1.0.19.9	named	com.guicedee.services	hibernate-ehcache	2020-10-11T10:13:24Z	1.0.19.9
+1.0.19.9-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-11T13:23:34Z	1.0.19.9-jre15
+1.0.19.9-jre13	named	com.guicedee.services	hibernate-ehcache	2020-10-12T22:35:26Z	1.0.19.9-jre13
+1.0.19.10-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-21T00:26:27Z	1.0.19.10-jre8
+1.0.19.10-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-21T01:14:52Z	1.0.19.10-jre14
+1.0.19.10	named	com.guicedee.services	hibernate-ehcache	2020-10-21T03:20:44Z	1.0.19.10
+1.0.19.10-jre12	named	com.guicedee.services	hibernate-ehcache	2020-10-21T10:24:07Z	1.0.19.10-jre12
+1.0.19.10-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-23T11:43:44Z	1.0.19.10-jre15
+1.0.19.11-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-25T23:32:23Z	1.0.19.11-jre8
+1.0.19.11	named	com.guicedee.services	hibernate-ehcache	2020-10-26T00:39:22Z	1.0.19.11
+1.0.19.11-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-26T19:37:02Z	1.0.19.11-jre14
+1.0.19.12-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-26T20:18:41Z	1.0.19.12-jre8
+1.0.19.12-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-26T22:35:46Z	1.0.19.12-jre14
+1.0.19.13-jre8	named	com.guicedee.services	hibernate-ehcache	2020-10-26T23:36:41Z	1.0.19.13-jre8
+1.0.19.13-jre14	named	com.guicedee.services	hibernate-ehcache	2020-10-26T23:59:28Z	1.0.19.13-jre14
+1.0.19.13	named	com.guicedee.services	hibernate-ehcache	2020-10-27T01:04:20Z	1.0.19.13
+1.0.19.13-jre15	named	com.guicedee.services	hibernate-ehcache	2020-10-27T09:27:24Z	1.0.19.13-jre15
+5.4.23.Final	automatic	org.hibernate	hibernate-ehcache	2020-11-01T22:54:45Z	
+1.0.20.0-jre8	named	com.guicedee.services	hibernate-ehcache	2020-11-02T01:49:08Z	1.0.20.0-jre8
+1.0.20.0-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-02T03:19:22Z	1.0.20.0-jre14
+1.0.20.0-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-02T11:08:24Z	1.0.20.0-jre15
+1.0.20.0	named	com.guicedee.services	hibernate-ehcache	2020-11-03T00:31:49Z	1.0.20.0
+1.0.20.1-jre8	named	com.guicedee.services	hibernate-ehcache	2020-11-05T23:32:32Z	1.0.20.1-jre8
+1.0.20.1	named	com.guicedee.services	hibernate-ehcache	2020-11-06T00:00:25Z	1.0.20.1
+1.0.20.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-06T00:17:37Z	1.0.20.1-jre14
+1.0.20.1-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-06T01:11:58Z	1.0.20.1-jre15
+1.0.20.2-jre8	named	com.guicedee.services	hibernate-ehcache	2020-11-10T01:11:39Z	1.0.20.2-jre8
+1.0.20.2-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-10T04:12:51Z	1.0.20.2-jre14
+1.0.20.2	named	com.guicedee.services	hibernate-ehcache	2020-11-10T05:02:50Z	1.0.20.2
+1.0.20.2-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-10T07:20:32Z	1.0.20.2-jre15
+5.3.19.Final	automatic	org.hibernate	hibernate-ehcache	2020-11-10T21:36:59Z	
+1.1.0.0-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-13T14:03:32Z	1.1.0.0-jre15
+1.1.0.1-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-13T16:39:25Z	1.1.0.1-jre14
+1.1.0.1	named	com.guicedee.services	hibernate-ehcache	2020-11-13T18:12:24Z	1.1.0.1
+1.1.0.1-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-14T00:18:07Z	1.1.0.1-jre15
+1.1.0.2-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-15T22:24:57Z	1.1.0.2-jre15
+1.1.0.2	named	com.guicedee.services	hibernate-ehcache	2020-11-15T23:38:35Z	1.1.0.2
+1.1.0.2-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-16T04:26:13Z	1.1.0.2-jre14
+5.3.20.Final	automatic	org.hibernate	hibernate-ehcache	2020-11-16T17:52:19Z	
+1.1.0.3-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-16T21:35:32Z	1.1.0.3-jre15
+1.1.0.3	named	com.guicedee.services	hibernate-ehcache	2020-11-17T04:10:02Z	1.1.0.3
+1.1.0.3-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-17T06:09:05Z	1.1.0.3-jre14
+1.1.0.3-jre8	named	com.guicedee.services	hibernate-ehcache	2020-11-17T12:35:04Z	1.1.0.3-jre8
+1.1.0.4-jre8	named	com.guicedee.services	hibernate-ehcache	2020-11-17T19:39:46Z	1.1.0.4-jre8
+5.4.24.Final	automatic	org.hibernate	hibernate-ehcache	2020-11-17T21:42:43Z	
+1.1.0.4-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-18T00:30:05Z	1.1.0.4-jre14
+1.1.0.4-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-18T02:06:28Z	1.1.0.4-jre15
+1.1.0.5-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-18T04:23:35Z	1.1.0.5-jre14
+1.1.0.5-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-18T05:59:18Z	1.1.0.5-jre15
+1.1.0.6-jre14	named	com.guicedee.services	hibernate-ehcache	2020-11-24T18:11:59Z	1.1.0.6-jre14
+1.1.0.6-jre15	named	com.guicedee.services	hibernate-ehcache	2020-11-26T09:37:42Z	1.1.0.6-jre15
+1.1.0.6	named	com.guicedee.services	hibernate-ehcache	2020-11-26T12:48:33Z	1.1.0.6
+5.4.25.Final	automatic	org.hibernate	hibernate-ehcache	2020-12-01T15:38:36Z	
+5.4.26.Final	automatic	org.hibernate	hibernate-ehcache	2020-12-14T17:08:14Z	
+5.4.27.Final	automatic	org.hibernate	hibernate-ehcache	2020-12-22T20:13:05Z	
+1.1.0.7-jre15	named	com.guicedee.services	hibernate-ehcache	2020-12-30T21:31:47Z	1.1.0.7-jre15
+1.1.0.7-jre14	named	com.guicedee.services	hibernate-ehcache	2020-12-31T14:04:08Z	1.1.0.7-jre14
+1.1.0.7-jre8	named	com.guicedee.services	hibernate-ehcache	2020-12-31T23:17:43Z	1.1.0.7-jre8
+1.1.0.7	named	com.guicedee.services	hibernate-ehcache	2021-01-01T02:12:24Z	1.1.0.7
+1.1.0.8-SNAPSHOT-jre14	named	com.guicedee.services	hibernate-ehcache	2021-01-27T23:47:01Z	1.1.0.8-SNAPSHOT-jre14
+5.4.27.SP1	automatic	org.hibernate	hibernate-ehcache	2021-02-08T14:59:37Z	
+5.4.28.Final	automatic	org.hibernate	hibernate-ehcache	2021-02-09T13:43:56Z	
+1.1.1.0-SNAPSHOT-jre15	named	com.guicedee.services	hibernate-ehcache	2021-02-12T17:17:35Z	1.1.1.0-SNAPSHOT-jre15
+1.1.1.0-SNAPSHOT-jre14	named	com.guicedee.services	hibernate-ehcache	2021-02-12T21:23:35Z	1.1.1.0-SNAPSHOT-jre14
+1.1.1.0-SNAPSHOT-jre8	named	com.guicedee.services	hibernate-ehcache	2021-02-13T06:02:32Z	1.1.1.0-SNAPSHOT-jre8
+1.1.1.0-jre15	named	com.guicedee.services	hibernate-ehcache	2021-02-25T22:15:52Z	1.1.1.0-jre15
+1.1.1.0	named	com.guicedee.services	hibernate-ehcache	2021-02-26T00:02:51Z	1.1.1.0
+1.1.1.0-jre14	named	com.guicedee.services	hibernate-ehcache	2021-02-26T04:05:39Z	1.1.1.0-jre14
+1.1.1.0-jre8	named	com.guicedee.services	hibernate-ehcache	2021-02-26T09:47:10Z	1.1.1.0-jre8
+5.4.29.Final	automatic	org.hibernate	hibernate-ehcache	2021-03-03T11:59:34Z	
+1.1.1.1-jre15-SP1	named	com.guicedee.services	hibernate-ehcache	2021-03-12T02:29:31Z	1.1.1.1-jre15-SP1
+1.1.1.1-SP1	named	com.guicedee.services	hibernate-ehcache	2021-03-12T07:08:41Z	1.1.1.1-SP1
+1.1.1.1-jre14-SP1	named	com.guicedee.services	hibernate-ehcache	2021-03-12T10:55:36Z	1.1.1.1-jre14-SP1
+6.0.0.Alpha7	automatic	org.hibernate.orm	hibernate-ehcache	2021-03-18T21:20:06Z	
+5.4.30.Final	automatic	org.hibernate	hibernate-ehcache	2021-03-19T07:53:48Z	
+1.1.1.2-jre15	named	com.guicedee.services	hibernate-ehcache	2021-03-21T20:28:44Z	1.1.1.2-jre15
+1.1.1.2-jre14	named	com.guicedee.services	hibernate-ehcache	2021-03-22T00:18:16Z	1.1.1.2-jre14
+1.1.1.2	named	com.guicedee.services	hibernate-ehcache	2021-03-22T05:15:21Z	1.1.1.2
+1.1.1.3-jre15	named	com.guicedee.services	hibernate-ehcache	2021-03-22T19:56:57Z	1.1.1.3-jre15
+1.1.1.3-jre14	named	com.guicedee.services	hibernate-ehcache	2021-03-22T21:38:48Z	1.1.1.3-jre14
+1.1.1.3	named	com.guicedee.services	hibernate-ehcache	2021-03-22T23:11:43Z	1.1.1.3
+1.1.1.3-jre16	named	com.guicedee.services	hibernate-ehcache	2021-03-24T01:38:02Z	1.1.1.3-jre16
+1.1.1.3-jre8	named	com.guicedee.services	hibernate-ehcache	2021-03-24T02:48:40Z	1.1.1.3-jre8
+1.1.1.4-jre15	named	com.guicedee.services	hibernate-ehcache	2021-03-29T04:45:12Z	1.1.1.4-jre15
+1.1.1.4	named	com.guicedee.services	hibernate-ehcache	2021-03-29T06:28:51Z	1.1.1.4
+1.1.1.4-jre16	named	com.guicedee.services	hibernate-ehcache	2021-03-29T08:12:56Z	1.1.1.4-jre16
+1.1.1.4-jre8	named	com.guicedee.services	hibernate-ehcache	2021-03-29T23:29:02Z	1.1.1.4-jre8
+1.1.1.4-jre14	named	com.guicedee.services	hibernate-ehcache	2021-03-30T00:54:48Z	1.1.1.4-jre14
+1.1.1.5-jre15	named	com.guicedee.services	hibernate-ehcache	2021-03-30T03:23:01Z	1.1.1.5-jre15
+1.1.1.7-jre15	named	com.guicedee.services	hibernate-ehcache	2021-04-08T01:55:23Z	1.1.1.7-jre15
+1.1.1.7	named	com.guicedee.services	hibernate-ehcache	2021-04-08T07:52:17Z	1.1.1.7
+1.1.1.7-jre16	named	com.guicedee.services	hibernate-ehcache	2021-04-08T14:56:41Z	1.1.1.7-jre16
+1.1.1.7-jre8	named	com.guicedee.services	hibernate-ehcache	2021-04-09T09:30:13Z	1.1.1.7-jre8
+1.1.1.8-jre16	named	com.guicedee.services	hibernate-ehcache	2021-04-18T12:03:22Z	1.1.1.8-jre16
+1.1.1.8-jre15	named	com.guicedee.services	hibernate-ehcache	2021-04-18T14:00:36Z	1.1.1.8-jre15
+5.4.31.Final	automatic	org.hibernate	hibernate-ehcache	2021-04-29T18:27:03Z	
+5.5.0.Alpha1	automatic	org.hibernate	hibernate-ehcache	2021-04-30T12:26:39Z	
+5.5.0.Beta1	automatic	org.hibernate	hibernate-ehcache	2021-05-12T15:59:10Z	
+5.5.0.CR1	automatic	org.hibernate	hibernate-ehcache	2021-05-24T11:27:01Z	
+5.4.32.Final	automatic	org.hibernate	hibernate-ehcache	2021-05-24T12:02:06Z	
+5.5.0.Final	automatic	org.hibernate	hibernate-ehcache	2021-06-01T14:58:49Z	
+1.1.1.9-jre16	named	com.guicedee.services	hibernate-ehcache	2021-06-03T08:40:26Z	1.1.1.9-jre16
+1.1.1.9-jre15	named	com.guicedee.services	hibernate-ehcache	2021-06-03T10:19:14Z	1.1.1.9-jre15
+5.5.2.Final	automatic	org.hibernate	hibernate-ehcache	2021-06-14T15:42:40Z	
+5.5.3.Final	automatic	org.hibernate	hibernate-ehcache	2021-06-22T15:41:04Z	
+5.3.21.Final	automatic	org.hibernate	hibernate-ehcache	2021-07-16T16:15:59Z	
+5.5.4.Final	automatic	org.hibernate	hibernate-ehcache	2021-07-19T09:31:20Z	
+5.5.5.Final	automatic	org.hibernate	hibernate-ehcache	2021-07-29T14:16:10Z	
+5.5.6	automatic	org.hibernate	hibernate-ehcache	2021-08-04T13:48:50Z	
+5.5.6.Final	automatic	org.hibernate	hibernate-ehcache	2021-08-04T20:20:55Z	
+1.2.0.0-jre16	named	com.guicedee.services	hibernate-ehcache	2021-08-10T03:37:09Z	1.2.0.0-jre16
+5.3.22.Final	automatic	org.hibernate	hibernate-ehcache	2021-08-20T16:03:42Z	
+5.5.7.Final	automatic	org.hibernate	hibernate-ehcache	2021-08-25T14:05:09Z	
+5.6.0.Beta1	automatic	org.hibernate	hibernate-ehcache	2021-08-27T09:37:08Z	
+1.2.0.1-jre16	named	com.guicedee.services	hibernate-ehcache	2021-08-30T09:52:31Z	1.2.0.1-jre16
+1.2.0.1-jre15	named	com.guicedee.services	hibernate-ehcache	2021-08-30T14:35:45Z	1.2.0.1-jre15
+1.2.0.1-jre11	named	com.guicedee.services	hibernate-ehcache	2021-08-31T09:43:11Z	1.2.0.1-jre11
+1.2.0.2-jre16	named	com.guicedee.services	hibernate-ehcache	2021-09-08T10:14:36Z	1.2.0.2-jre16
+1.2.0.3-jre17-rc1	named	com.guicedee.services	hibernate-ehcache	2021-09-17T01:32:59Z	1.2.0.3-jre17-rc1
+5.6.0.Beta2	automatic	org.hibernate	hibernate-ehcache	2021-09-20T22:42:41Z	
+5.6.0.CR1	automatic	org.hibernate	hibernate-ehcache	2021-09-29T13:48:56Z	
+5.3.23.Final	automatic	org.hibernate	hibernate-ehcache	2021-09-29T21:41:00Z	
+5.6.0.Final	automatic	org.hibernate	hibernate-ehcache	2021-10-11T21:21:20Z	
+5.5.8.Final	automatic	org.hibernate	hibernate-ehcache	2021-10-13T15:06:29Z	
+5.6.1.Final	automatic	org.hibernate	hibernate-ehcache	2021-10-27T11:10:27Z	
+1.2.1.1-jre17	named	com.guicedee.services	hibernate-ehcache	2021-11-11T14:50:18Z	1.2.1.1-jre17
+1.2.1.2-jre17	named	com.guicedee.services	hibernate-ehcache	2021-11-16T04:51:58Z	1.2.1.2-jre17
+5.3.24.Final	automatic	org.hibernate	hibernate-ehcache	2021-11-16T21:00:00Z	
+5.6.2.Final	automatic	org.hibernate	hibernate-ehcache	2021-12-08T13:05:08Z	
+5.3.25.Final	automatic	org.hibernate	hibernate-ehcache	2021-12-15T13:15:38Z	
+5.6.3.Final	automatic	org.hibernate	hibernate-ehcache	2021-12-15T22:24:43Z	
+5.5.9.Final	automatic	org.hibernate	hibernate-ehcache	2021-12-16T08:36:03Z	
+5.4.33	automatic	org.hibernate	hibernate-ehcache	2021-12-16T10:51:38Z	
+5.4.33.Final	automatic	org.hibernate	hibernate-ehcache	2022-01-10T16:35:54Z	
+5.6.4.Final	automatic	org.hibernate	hibernate-ehcache	2022-01-19T08:11:03Z	
+5.6.5.Final	automatic	org.hibernate	hibernate-ehcache	2022-01-25T15:42:27Z	
+1.2.2.1	named	com.guicedee.services	hibernate-ehcache	2022-02-09T23:56:03Z	1.2.2.1
+1.2.2.1-jre17	named	com.guicedee.services	hibernate-ehcache	2022-02-10T16:42:52Z	1.2.2.1-jre17
+5.6.6.Final	automatic	org.hibernate	hibernate-ehcache	2022-03-15T13:50:58Z	
+5.6.7.Final	automatic	org.hibernate	hibernate-ehcache	2022-03-16T17:23:09Z	
+5.3.26.Final	automatic	org.hibernate	hibernate-ehcache	2022-04-08T09:04:51Z	
+5.6.8.Final	automatic	org.hibernate	hibernate-ehcache	2022-04-13T15:24:06Z	
+5.6.9.Final	automatic	org.hibernate	hibernate-ehcache	2022-05-14T22:49:28Z	
+5.3.27.Final	automatic	org.hibernate	hibernate-ehcache	2022-06-13T11:22:54Z	
+5.6.10.Final	automatic	org.hibernate	hibernate-ehcache	2022-07-07T08:23:51Z	
+5.3.28.Final	automatic	org.hibernate	hibernate-ehcache	2022-08-15T07:18:35Z	
+5.6.11.Final	automatic	org.hibernate	hibernate-ehcache	2022-08-30T14:57:42Z	
+5.6.12.Final	automatic	org.hibernate	hibernate-ehcache	2022-09-27T12:27:06Z	
+5.6.13.Final	automatic	org.hibernate	hibernate-ehcache	2022-11-03T20:13:43Z	
+5.6.14.Final	automatic	org.hibernate	hibernate-ehcache	2022-11-04T10:05:16Z	
+5.6.15.Final	automatic	org.hibernate	hibernate-ehcache	2023-02-06T10:57:45Z	
+5.3.29.Final	automatic	org.hibernate	hibernate-ehcache	2023-03-29T13:10:37Z	
+5.3.30.Final	automatic	org.hibernate	hibernate-ehcache	2023-06-01T11:56:52Z	
+5.3.31.Final	automatic	org.hibernate	hibernate-ehcache	2023-08-07T15:24:28Z	
+5.3.32.Final	automatic	org.hibernate	hibernate-ehcache	2023-09-27T11:54:33Z	
+5.3.33.Final	automatic	org.hibernate	hibernate-ehcache	2023-12-01T11:40:49Z	
+5.3.34.Final	automatic	org.hibernate	hibernate-ehcache	2023-12-08T12:31:33Z	
+5.3.35.Final	automatic	org.hibernate	hibernate-ehcache	2024-01-22T10:03:35Z	
+5.3.36.Final	automatic	org.hibernate	hibernate-ehcache	2024-02-08T10:32:38Z	
+5.3.37.Final	automatic	org.hibernate	hibernate-ehcache	2024-12-05T11:13:50Z	
+5.3.38.Final	automatic	org.hibernate	hibernate-ehcache	2026-01-19T18:35:11Z	

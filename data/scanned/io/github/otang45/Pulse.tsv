@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otang45/Pulse/1.0/Pulse-1.0.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otang45/Pulse/2.0/Pulse-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otang45/Pulse/2.1/Pulse-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otang45/Pulse/2.2/Pulse-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otang45/Pulse/2.3/Pulse-2.3.jar returned status 404

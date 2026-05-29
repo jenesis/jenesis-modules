@@ -1,0 +1,58 @@
+0.1.1		2020-03-28T01:11:23Z	
+0.1.2		2020-06-17T21:47:47Z	
+0.1.3-20200811-2e41939		2020-08-11T21:54:09Z	
+0.1.3-20210127.1838-76ab4fc		2021-01-27T18:40:57Z	
+0.1.3-20210127.1838-76ab4fc	unshaded	2021-01-27T18:41:03Z	
+0.1.3-20210805.0116-93702c4		2021-08-05T01:21:01Z	
+0.1.3-20210805.0116-93702c4	unshaded	2021-08-05T01:21:17Z	
+0.1.3-20210805.0207-0d08d2b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.3-20210805.0207-0d08d2b/service-lib-0.1.3-20210805.0207-0d08d2b.jar returned status 404
+0.1.3-20210805.0207-0d08d2b	shaded	2021-08-05T02:11:10Z	
+0.1.3-20210805.0207-0d08d2b	unshaded	2021-08-05T02:11:15Z	
+0.1.4-20210806.0204-5341f38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20210806.0204-5341f38/service-lib-0.1.4-20210806.0204-5341f38.jar returned status 404
+0.1.4-20210806.0204-5341f38	shaded	2021-08-06T02:09:21Z	
+0.1.4-20210806.0204-5341f38	unshaded	2021-08-06T02:09:28Z	
+0.1.4-20211109.2053-a41370d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20211109.2053-a41370d/service-lib-0.1.4-20211109.2053-a41370d.jar returned status 404
+0.1.4-20211109.2053-a41370d	shaded	2021-11-09T21:00:12Z	
+0.1.4-20211109.2053-a41370d	unshaded	2021-11-09T21:00:17Z	
+0.1.4-20220406.2256-c2ad520			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20220406.2256-c2ad520/service-lib-0.1.4-20220406.2256-c2ad520.jar returned status 404
+0.1.4-20220406.2256-c2ad520	shaded	2022-04-06T23:02:17Z	
+0.1.4-20220406.2256-c2ad520	unshaded	2022-04-06T23:02:21Z	
+0.1.4-20220531.0237-565a015			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20220531.0237-565a015/service-lib-0.1.4-20220531.0237-565a015.jar returned status 404
+0.1.4-20220531.0237-565a015	shaded	2022-05-31T02:44:56Z	
+0.1.4-20220531.0237-565a015	unshaded	2022-05-31T02:45:06Z	
+0.1.4-20220602.2218-06f967d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20220602.2218-06f967d/service-lib-0.1.4-20220602.2218-06f967d.jar returned status 404
+0.1.4-20220602.2218-06f967d	shaded	2022-06-02T22:24:06Z	
+0.1.4-20220602.2218-06f967d	unshaded	2022-06-02T22:24:05Z	
+0.1.4-20220614.0152-5ae0eef			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20220614.0152-5ae0eef/service-lib-0.1.4-20220614.0152-5ae0eef.jar returned status 404
+0.1.4-20220614.0152-5ae0eef	shaded	2022-06-14T01:59:07Z	
+0.1.4-20220614.0152-5ae0eef	unshaded	2022-06-14T01:59:06Z	
+0.1.4-20220831.1526-6563c7b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20220831.1526-6563c7b/service-lib-0.1.4-20220831.1526-6563c7b.jar returned status 404
+0.1.4-20220831.1526-6563c7b	shaded	2022-08-31T15:33:55Z	
+0.1.4-20220831.1526-6563c7b	unshaded	2022-08-31T15:34:01Z	
+0.1.4-20221123.1739-38b4eb9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20221123.1739-38b4eb9/service-lib-0.1.4-20221123.1739-38b4eb9.jar returned status 404
+0.1.4-20221123.1739-38b4eb9	shaded	2022-11-23T17:46:11Z	
+0.1.4-20221123.1739-38b4eb9	unshaded	2022-11-23T17:46:08Z	
+0.1.4-20221128.2102-bdd85b6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20221128.2102-bdd85b6/service-lib-0.1.4-20221128.2102-bdd85b6.jar returned status 404
+0.1.4-20221128.2102-bdd85b6	shaded	2022-11-28T21:09:51Z	
+0.1.4-20221128.2102-bdd85b6	unshaded	2022-11-28T21:09:58Z	
+0.1.4-20221221.1702-8b7db03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20221221.1702-8b7db03/service-lib-0.1.4-20221221.1702-8b7db03.jar returned status 404
+0.1.4-20221221.1702-8b7db03	shaded	2022-12-21T17:08:41Z	
+0.1.4-20221221.1702-8b7db03	unshaded	2022-12-21T17:08:40Z	
+0.1.4-20230111.1620-df59b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230111.1620-df59b21/service-lib-0.1.4-20230111.1620-df59b21.jar returned status 404
+0.1.4-20230111.1620-df59b21	shaded	2023-01-11T16:27:19Z	
+0.1.4-20230111.1620-df59b21	unshaded	2023-01-11T16:27:25Z	
+0.1.4-20230206.1555-5b19c8a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230206.1555-5b19c8a/service-lib-0.1.4-20230206.1555-5b19c8a.jar returned status 404
+0.1.4-20230206.1555-5b19c8a	shaded	2023-02-06T16:02:18Z	
+0.1.4-20230206.1555-5b19c8a	unshaded	2023-02-06T16:02:17Z	
+0.1.4-20230315.1913-cb86ff2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230315.1913-cb86ff2/service-lib-0.1.4-20230315.1913-cb86ff2.jar returned status 404
+0.1.4-20230315.1913-cb86ff2	shaded	2023-03-15T19:19:20Z	
+0.1.4-20230315.1913-cb86ff2	unshaded	2023-03-15T19:19:19Z	
+0.1.4-20230331.1736-f73858c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230331.1736-f73858c/service-lib-0.1.4-20230331.1736-f73858c.jar returned status 404
+0.1.4-20230331.1736-f73858c	shaded	2023-03-31T17:41:32Z	
+0.1.4-20230331.1736-f73858c	unshaded	2023-03-31T17:41:30Z	
+0.1.4-20230408.1645-0d67483			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230408.1645-0d67483/service-lib-0.1.4-20230408.1645-0d67483.jar returned status 404
+0.1.4-20230408.1645-0d67483	shaded	2023-04-08T16:51:50Z	
+0.1.4-20230408.1645-0d67483	unshaded	2023-04-08T16:51:49Z	
+0.1.4-20230428.1859-83eb314			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/backfila/service-lib/0.1.4-20230428.1859-83eb314/service-lib-0.1.4-20230428.1859-83eb314.jar returned status 404
+0.1.4-20230428.1859-83eb314	shaded	2023-04-28T19:07:06Z	
+0.1.4-20230428.1859-83eb314	unshaded	2023-04-28T19:07:05Z	

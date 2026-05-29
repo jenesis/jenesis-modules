@@ -1,0 +1,5 @@
+1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/joynr-hivemq-shared-subscriptions/test-apps/1.24.6/test-apps-1.24.6.jar returned status 404
+1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/joynr-hivemq-shared-subscriptions/test-apps/1.24.7/test-apps-1.24.7.jar returned status 404
+1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/joynr-hivemq-shared-subscriptions/test-apps/1.26.3/test-apps-1.26.3.jar returned status 404
+1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/joynr-hivemq-shared-subscriptions/test-apps/1.26.4/test-apps-1.26.4.jar returned status 404
+1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/joynr-hivemq-shared-subscriptions/test-apps/1.26.5/test-apps-1.26.5.jar returned status 404

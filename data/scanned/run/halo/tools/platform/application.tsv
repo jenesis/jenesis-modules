@@ -1,0 +1,11 @@
+2.20.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.20.11/application-2.20.11.jar returned status 404
+2.20.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.20.20/application-2.20.20.jar returned status 404
+2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.21.0/application-2.21.0.jar returned status 404
+2.21.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.21.0-alpha.1/application-2.21.0-alpha.1.jar returned status 404
+2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.22.0/application-2.22.0.jar returned status 404
+2.22.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.22.0-alpha.1/application-2.22.0-alpha.1.jar returned status 404
+2.22.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.22.11/application-2.22.11.jar returned status 404
+2.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.22.5/application-2.22.5.jar returned status 404
+2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.23.0/application-2.23.0.jar returned status 404
+2.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.23.1/application-2.23.1.jar returned status 404
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.24.0/application-2.24.0.jar returned status 404

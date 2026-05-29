@@ -1,0 +1,24 @@
+4.0.0		2022-03-31T02:41:08Z	
+4.0.1		2022-03-31T08:35:45Z	
+4.0.10		2024-05-07T11:09:05Z	
+4.0.11		2024-05-07T12:02:48Z	
+4.0.12		2024-05-11T07:13:34Z	
+4.0.13		2024-05-15T09:14:31Z	
+4.0.14		2024-05-15T09:35:08Z	
+4.0.2		2022-06-11T07:48:56Z	
+4.0.3		2022-06-21T07:24:24Z	
+4.0.4		2022-06-22T03:17:40Z	
+4.0.5		2022-09-15T03:45:38Z	
+4.0.6		2022-09-15T07:12:47Z	
+4.0.7		2022-10-18T12:26:06Z	
+4.0.8		2022-11-09T13:32:08Z	
+4.0.9		2022-12-13T15:40:29Z	
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/4.2.1/raven-serializer-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/4.2.2/raven-serializer-4.2.2.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.0/raven-serializer-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.1/raven-serializer-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.2/raven-serializer-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.3/raven-serializer-5.0.3.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.4/raven-serializer-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.0.5/raven-serializer-5.0.5.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-serializer/5.1.0/raven-serializer-5.1.0.jar returned status 404

@@ -1,0 +1,40 @@
+10.0	site	2011-09-28T16:03:33Z	
+10.0-rc1	site	2011-09-09T13:12:33Z	
+10.0-rc2	site	2011-09-19T17:31:28Z	
+10.0-rc3	site	2011-09-23T17:53:21Z	
+10.0.1	site	2011-10-10T14:44:09Z	
+11.0	site	2011-12-18T21:02:32Z	
+11.0-rc1	site	2011-12-14T19:52:31Z	
+11.0.1	site	2012-01-09T18:31:20Z	
+11.0.2	site	2012-02-22T14:01:18Z	
+12.0	site	2012-04-30T18:41:05Z	
+12.0-rc1	site	2012-03-30T14:15:53Z	
+12.0-rc2	site	2012-04-17T12:49:35Z	
+13.0	site	2012-08-02T20:28:40Z	
+13.0-final	site	2012-08-01T20:50:27Z	
+13.0-rc1	site	2012-06-26T20:42:53Z	
+13.0-rc2	site	2012-07-20T19:41:58Z	
+13.0.1	site	2012-08-28T15:26:50Z	
+14.0	site	2013-02-25T18:55:24Z	
+14.0-rc1	site	2012-12-14T20:26:12Z	
+14.0-rc2	site	2013-01-17T19:56:23Z	
+14.0-rc3	site	2013-02-13T21:10:11Z	
+14.0.1	site	2013-03-14T23:56:48Z	
+15.0	site	2013-09-06T19:52:20Z	
+15.0-rc1	site	2013-08-26T18:42:37Z	
+16.0	site	2014-01-17T21:44:21Z	
+16.0-rc1	site	2013-12-19T23:25:45Z	
+16.0.1	site	2014-02-03T22:44:57Z	
+17.0	site	2014-04-22T20:47:19Z	
+17.0-rc1	site	2014-04-08T19:29:41Z	
+17.0-rc2	site	2014-04-10T20:38:34Z	
+18.0	site	2014-08-25T18:48:06Z	
+18.0-rc1	site	2014-08-05T19:16:17Z	
+18.0-rc2	site	2014-08-18T20:37:35Z	
+19.0-rc1	site	2015-07-23T20:26:17Z	
+19.0-rc2	site	2015-09-17T17:54:33Z	
+33.5.0-android			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.5.0-android/guava-parent-33.5.0-android.jar returned status 404
+33.5.0-jre			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.5.0-jre/guava-parent-33.5.0-jre.jar returned status 404
+33.6.0-android			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.6.0-android/guava-parent-33.6.0-android.jar returned status 404
+33.6.0-jre			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.6.0-jre/guava-parent-33.6.0-jre.jar returned status 404
+r03	site	2010-04-26T13:04:39Z	

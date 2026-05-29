@@ -1,0 +1,6 @@
+2023.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/mongodb/2023.3.0/mongodb-2023.3.0.jar returned status 404
+2023.3.0	plugin	2025-06-20T13:36:18Z	
+2023.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/mongodb/2023.3.0-M1/mongodb-2023.3.0-M1.jar returned status 404
+2023.3.0-M1	plugin	2025-04-07T02:03:40Z	
+2023.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/mongodb/2023.3.0-RC1/mongodb-2023.3.0-RC1.jar returned status 404
+2023.3.0-RC1	plugin	2025-04-29T01:35:48Z	

@@ -1,0 +1,77 @@
+0.10.0		2018-06-07T12:40:26Z	
+0.10.1		2018-06-11T08:39:56Z	
+0.10.2		2018-06-15T08:34:33Z	
+0.10.3		2018-06-15T09:25:47Z	
+0.11.0		2018-07-24T16:36:05Z	
+0.11.1		2018-08-10T08:27:25Z	
+0.11.1-native-mt		2018-08-10T08:38:43Z	
+0.11.10		2018-10-02T13:11:53Z	
+0.11.10-eap13		2018-10-02T13:14:50Z	
+0.11.11		2018-10-18T15:22:18Z	
+0.11.12		2018-10-24T08:24:04Z	
+0.11.2		2018-08-23T09:54:28Z	
+0.11.3		2018-08-23T10:56:45Z	
+0.11.4		2018-08-31T12:04:20Z	
+0.11.5		2018-09-04T14:54:47Z	
+0.11.6		2018-09-04T21:30:29Z	
+0.11.7		2018-09-14T13:02:14Z	
+0.11.7-eap13		2018-09-25T10:04:28Z	
+0.11.9		2018-09-29T08:24:30Z	
+0.11.9-eap13		2018-09-29T13:21:31Z	
+0.12.1		2019-02-16T16:02:09Z	
+0.12.10		2019-08-22T17:40:16Z	
+0.12.11		2019-08-23T13:02:19Z	
+0.12.11-gradle561		2019-09-02T13:57:00Z	
+0.12.2		2019-02-19T11:55:27Z	
+0.12.2-eap13		2019-03-05T11:25:08Z	
+0.12.3		2019-04-13T07:46:12Z	
+0.12.4		2019-04-19T16:09:17Z	
+0.12.5		2019-04-22T17:59:03Z	
+0.12.6		2019-04-23T16:29:37Z	
+0.12.7		2019-05-06T23:09:43Z	
+0.12.8		2019-06-06T13:45:57Z	
+0.12.9		2019-06-18T17:06:38Z	
+0.13.0		2019-09-04T21:25:27Z	
+0.13.1		2019-09-25T16:06:57Z	
+0.14.1		2019-12-21T19:29:01Z	
+0.14.2		2020-03-04T08:14:38Z	
+0.14.3		2020-03-24T15:45:00Z	
+0.14.3-1.4-M1		2020-03-30T09:08:08Z	
+0.15.1		2020-12-30T23:32:36Z	
+0.15.2		2021-03-19T12:59:46Z	
+0.16.0		2021-04-26T12:52:41Z	
+0.16.1		2021-04-26T14:38:47Z	
+0.16.2		2021-07-06T14:55:47Z	
+0.16.3		2021-08-25T14:57:34Z	
+0.17.0		2021-11-16T20:59:38Z	
+0.17.1		2022-02-07T14:06:08Z	
+0.17.2		2022-04-14T13:20:48Z	
+0.17.3		2022-05-30T12:25:29Z	
+0.18.0		2022-06-15T18:36:09Z	
+0.18.1		2022-06-30T09:00:30Z	
+0.18.2		2022-06-30T15:24:31Z	
+0.18.3		2022-07-21T17:51:56Z	
+0.18.4		2022-10-07T08:30:57Z	
+0.18.5		2022-10-25T12:38:48Z	
+0.19.0		2023-01-03T09:42:10Z	
+0.20.0		2023-02-21T13:04:56Z	
+0.20.1		2023-03-24T16:43:21Z	
+0.20.2		2023-04-06T10:42:46Z	
+0.21.0		2023-06-23T16:46:44Z	
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.22.0/atomicfu-js-0.22.0.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.23.0/atomicfu-js-0.23.0.jar returned status 404
+0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.23.1/atomicfu-js-0.23.1.jar returned status 404
+0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.23.2/atomicfu-js-0.23.2.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.24.0/atomicfu-js-0.24.0.jar returned status 404
+0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.25.0/atomicfu-js-0.25.0.jar returned status 404
+0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.26.0/atomicfu-js-0.26.0.jar returned status 404
+0.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.26.1/atomicfu-js-0.26.1.jar returned status 404
+0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.27.0/atomicfu-js-0.27.0.jar returned status 404
+0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.28.0/atomicfu-js-0.28.0.jar returned status 404
+0.28.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.28.0-beta/atomicfu-js-0.28.0-beta.jar returned status 404
+0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.29.0/atomicfu-js-0.29.0.jar returned status 404
+0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.30.0/atomicfu-js-0.30.0.jar returned status 404
+0.30.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.30.0-beta/atomicfu-js-0.30.0-beta.jar returned status 404
+0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.31.0/atomicfu-js-0.31.0.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.32.0/atomicfu-js-0.32.0.jar returned status 404
+0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-js/0.32.1/atomicfu-js-0.32.1.jar returned status 404

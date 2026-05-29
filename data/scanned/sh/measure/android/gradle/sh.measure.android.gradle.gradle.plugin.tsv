@@ -1,0 +1,7 @@
+0.3.0		2024-07-16T11:44:59Z	
+0.4.0		2024-08-06T06:13:10Z	
+0.5.0		2024-08-19T12:15:55Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/measure/android/gradle/sh.measure.android.gradle.gradle.plugin/0.6.0/sh.measure.android.gradle.gradle.plugin-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/measure/android/gradle/sh.measure.android.gradle.gradle.plugin/0.6.1/sh.measure.android.gradle.gradle.plugin-0.6.1.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/measure/android/gradle/sh.measure.android.gradle.gradle.plugin/0.7.0/sh.measure.android.gradle.gradle.plugin-0.7.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/measure/android/gradle/sh.measure.android.gradle.gradle.plugin/0.8.0/sh.measure.android.gradle.gradle.plugin-0.8.0.jar returned status 404

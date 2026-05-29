@@ -1,0 +1,14 @@
+12.12.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/12.12.12/services-12.12.12.jar returned status 404
+12.12.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/12.12.13/services-12.12.13.jar returned status 404
+12.12.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/12.12.14/services-12.12.14.jar returned status 404
+3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.5.7/services-3.5.7.jar returned status 404
+3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.5.9/services-3.5.9.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.6.0/services-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.6.1/services-3.6.1.jar returned status 404
+3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.6.2/services-3.6.2.jar returned status 404
+3.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.6.3/services-3.6.3.jar returned status 404
+3.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/3.6.4/services-3.6.4.jar returned status 404
+9.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/9.9.10/services-9.9.10.jar returned status 404
+9.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/9.9.11/services-9.9.11.jar returned status 404
+9.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/9.9.12/services-9.9.12.jar returned status 404
+9.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/services/9.9.9/services-9.9.9.jar returned status 404

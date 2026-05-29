@@ -1,0 +1,12 @@
+0.0.1		2024-02-03T15:11:42Z	
+0.1.0		2024-06-04T18:11:28Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/admin/0.2.0/admin-0.2.0.jar returned status 404
+0.2.0	plugin	2024-08-10T18:00:28Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/admin/1.0.0/admin-1.0.0.jar returned status 404
+1.0.0	plugin	2026-01-30T12:53:31Z	
+1.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/admin/1.0.0-M1/admin-1.0.0-M1.jar returned status 404
+1.0.0-M1	plugin	2024-08-22T18:45:49Z	
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/admin/1.0.0-RC1/admin-1.0.0-RC1.jar returned status 404
+1.0.0-RC1	plugin	2025-05-16T16:08:18Z	
+1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/admin/1.0.0-RC2/admin-1.0.0-RC2.jar returned status 404
+1.0.0-RC2	plugin	2025-07-02T23:14:22Z	

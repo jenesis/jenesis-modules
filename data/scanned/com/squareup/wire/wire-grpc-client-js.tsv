@@ -1,0 +1,99 @@
+3.2.0		2020-04-24T00:32:03Z	
+3.2.1		2020-05-02T23:57:12Z	
+3.2.2		2020-05-15T14:55:33Z	
+3.3.0		2020-09-14T13:56:46Z	
+3.3.0-alpha1		2020-08-19T15:45:22Z	
+3.4.0		2020-09-24T15:08:30Z	
+3.5.0		2020-10-27T15:27:54Z	
+3.6.0		2021-02-08T20:19:58Z	
+3.6.1		2021-03-09T18:34:46Z	
+3.7.0		2021-03-25T21:35:07Z	
+3.7.1		2021-11-07T00:13:08Z	
+4.0.0		2021-12-03T20:34:59Z	
+4.0.0-alpha.1		2021-05-04T02:41:07Z	
+4.0.0-alpha.10		2021-09-03T14:05:11Z	
+4.0.0-alpha.11		2021-09-04T01:05:06Z	
+4.0.0-alpha.12		2021-09-28T15:17:40Z	
+4.0.0-alpha.15		2021-10-21T18:39:53Z	
+4.0.0-alpha.16		2021-11-09T18:58:31Z	
+4.0.0-alpha.17		2021-11-11T13:34:48Z	
+4.0.0-alpha.18		2021-11-22T18:13:07Z	
+4.0.0-alpha.19		2021-11-24T02:34:29Z	
+4.0.0-alpha.2		2021-05-11T19:16:19Z	
+4.0.0-alpha.20		2021-11-25T23:17:49Z	
+4.0.0-alpha.3		2021-06-03T18:18:56Z	
+4.0.0-alpha.4		2021-06-15T22:36:26Z	
+4.0.0-alpha.5		2021-06-25T02:21:03Z	
+4.0.0-alpha.6		2021-08-03T12:30:33Z	
+4.0.0-alpha.7		2021-08-09T15:52:46Z	
+4.0.0-alpha.8		2021-08-30T23:45:20Z	
+4.0.0-alpha.9		2021-09-02T21:27:47Z	
+4.0.1		2021-12-07T18:57:50Z	
+4.1.0		2022-01-28T22:08:24Z	
+4.1.1		2022-02-15T16:27:13Z	
+4.2.0		2022-02-17T18:45:35Z	
+4.3.0		2022-03-24T20:23:19Z	
+4.4.0		2022-06-07T14:47:11Z	
+4.4.1		2022-08-05T20:22:04Z	
+4.4.2		2022-10-06T19:05:55Z	
+4.4.3		2022-10-26T14:33:04Z	
+4.5.0		2023-02-02T10:36:04Z	
+4.5.1		2023-02-11T09:53:39Z	
+4.5.2		2023-03-06T20:00:22Z	
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.5.3/wire-grpc-client-js-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.5.4/wire-grpc-client-js-4.5.4.jar returned status 404
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.5.5/wire-grpc-client-js-4.5.5.jar returned status 404
+4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.5.6/wire-grpc-client-js-4.5.6.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.6.0/wire-grpc-client-js-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.6.1/wire-grpc-client-js-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.6.2/wire-grpc-client-js-4.6.2.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.7.0/wire-grpc-client-js-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.7.1/wire-grpc-client-js-4.7.1.jar returned status 404
+4.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.7.2/wire-grpc-client-js-4.7.2.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.8.0/wire-grpc-client-js-4.8.0.jar returned status 404
+4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.8.1/wire-grpc-client-js-4.8.1.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.0/wire-grpc-client-js-4.9.0.jar returned status 404
+4.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.1/wire-grpc-client-js-4.9.1.jar returned status 404
+4.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.11/wire-grpc-client-js-4.9.11.jar returned status 404
+4.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.2/wire-grpc-client-js-4.9.2.jar returned status 404
+4.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.3/wire-grpc-client-js-4.9.3.jar returned status 404
+4.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.4/wire-grpc-client-js-4.9.4.jar returned status 404
+4.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.5/wire-grpc-client-js-4.9.5.jar returned status 404
+4.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.6/wire-grpc-client-js-4.9.6.jar returned status 404
+4.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.7/wire-grpc-client-js-4.9.7.jar returned status 404
+4.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.8/wire-grpc-client-js-4.9.8.jar returned status 404
+4.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/4.9.9/wire-grpc-client-js-4.9.9.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.0.0/wire-grpc-client-js-5.0.0.jar returned status 404
+5.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.0.0-alpha01/wire-grpc-client-js-5.0.0-alpha01.jar returned status 404
+5.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.0.0-alpha02/wire-grpc-client-js-5.0.0-alpha02.jar returned status 404
+5.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.0.0-alpha03/wire-grpc-client-js-5.0.0-alpha03.jar returned status 404
+5.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.0.0-alpha04/wire-grpc-client-js-5.0.0-alpha04.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.1.0/wire-grpc-client-js-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.2.0/wire-grpc-client-js-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.2.1/wire-grpc-client-js-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.0/wire-grpc-client-js-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.1/wire-grpc-client-js-5.3.1.jar returned status 404
+5.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.10/wire-grpc-client-js-5.3.10.jar returned status 404
+5.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.11/wire-grpc-client-js-5.3.11.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.2/wire-grpc-client-js-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.3/wire-grpc-client-js-5.3.3.jar returned status 404
+5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.4/wire-grpc-client-js-5.3.4.jar returned status 404
+5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.5/wire-grpc-client-js-5.3.5.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.6/wire-grpc-client-js-5.3.6.jar returned status 404
+5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.7/wire-grpc-client-js-5.3.7.jar returned status 404
+5.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.8/wire-grpc-client-js-5.3.8.jar returned status 404
+5.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.3.9/wire-grpc-client-js-5.3.9.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.4.0/wire-grpc-client-js-5.4.0.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.5.0/wire-grpc-client-js-5.5.0.jar returned status 404
+5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/5.5.1/wire-grpc-client-js-5.5.1.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.0.0/wire-grpc-client-js-6.0.0.jar returned status 404
+6.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.0.0-alpha01/wire-grpc-client-js-6.0.0-alpha01.jar returned status 404
+6.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.0.0-alpha02/wire-grpc-client-js-6.0.0-alpha02.jar returned status 404
+6.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.0.0-alpha03/wire-grpc-client-js-6.0.0-alpha03.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.1.0/wire-grpc-client-js-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.2.0/wire-grpc-client-js-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.3.0/wire-grpc-client-js-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/6.4.0/wire-grpc-client-js-6.4.0.jar returned status 404
+7.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/7.0.0-alpha01/wire-grpc-client-js-7.0.0-alpha01.jar returned status 404
+7.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/7.0.0-alpha02/wire-grpc-client-js-7.0.0-alpha02.jar returned status 404
+7.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-js/7.0.0-alpha03/wire-grpc-client-js-7.0.0-alpha03.jar returned status 404

@@ -1,0 +1,6 @@
+1.20-vvr-11.4.1-jdk11	named	com.alibaba.ververica	ververica-connector-odps
+1.20-vvr-11.4.0-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps
+1.20-vvr-11.3.1-1-jdk11	named	com.alibaba.ververica	ververica-connector-odps
+1.20-vvr-11.3.1-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps
+1.20-vvr-11.2.1-jdk11	named	com.alibaba.ververica	ververica-connector-odps
+1.20-vvr-11.1.4-jdk11	named	com.alibaba.ververica	ververica-connector-odps

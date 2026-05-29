@@ -1,0 +1,4 @@
+0.8		2023-10-08T14:08:34Z	
+0.8.1		2023-11-04T12:31:51Z	
+0.8.2		2023-11-05T17:30:12Z	
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/luminis/networking/kwik/0.8.3/kwik-0.8.3.jar returned status 404

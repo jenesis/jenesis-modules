@@ -1,0 +1,12 @@
+1.0.0	jar-with-dependencies	2018-03-10T08:54:49Z	
+1.0.1	jar-with-dependencies	2018-03-13T20:57:01Z	
+1.0.2	assembly	2018-04-23T14:39:03Z	
+1.0.3	assembly	2018-10-16T18:14:16Z	
+1.0.4	assembly	2018-11-09T14:18:43Z	
+1.0.6	assembly	2018-12-28T17:54:05Z	
+1.0.7	assembly	2019-02-13T14:20:19Z	
+1.0.8	assembly	2019-09-30T05:17:37Z	
+1.0.9	assembly	2019-10-04T16:06:25Z	
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/yildiz-games/parent-application/3.0.10/parent-application-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/yildiz-games/parent-application/3.0.11/parent-application-3.0.11.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/yildiz-games/parent-application/3.0.9/parent-application-3.0.9.jar returned status 404

@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gaoshq7/parent/1.0.0/parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gaoshq7/parent/1.0.1/parent-1.0.1.jar returned status 404
+1.0.1-jdk1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gaoshq7/parent/1.0.1-jdk1.8/parent-1.0.1-jdk1.8.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gaoshq7/parent/1.0.2/parent-1.0.2.jar returned status 404

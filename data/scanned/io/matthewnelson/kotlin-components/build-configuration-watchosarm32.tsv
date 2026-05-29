@@ -1,0 +1,16 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/1/build-configuration-watchosarm32-1.jar returned status 404
+1	metadata	2021-10-31T18:27:20Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/2.0.0/build-configuration-watchosarm32-2.0.0.jar returned status 404
+2.0.0	metadata	2022-01-15T02:01:43Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.0/build-configuration-watchosarm32-3.0.0.jar returned status 404
+3.0.0	metadata	2022-02-25T00:12:22Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.1/build-configuration-watchosarm32-3.0.1.jar returned status 404
+3.0.1	metadata	2022-05-08T10:38:34Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.2/build-configuration-watchosarm32-3.0.2.jar returned status 404
+3.0.2	metadata	2022-05-14T11:39:51Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.3/build-configuration-watchosarm32-3.0.3.jar returned status 404
+3.0.3	metadata	2022-06-25T00:56:25Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.4/build-configuration-watchosarm32-3.0.4.jar returned status 404
+3.0.4	metadata	2023-01-07T14:01:24Z	
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/matthewnelson/kotlin-components/build-configuration-watchosarm32/3.0.5/build-configuration-watchosarm32-3.0.5.jar returned status 404
+3.0.5	metadata	2023-01-09T10:25:23Z	

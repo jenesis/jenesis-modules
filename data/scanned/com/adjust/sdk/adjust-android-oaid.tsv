@@ -1,0 +1,70 @@
+4.18.2		2019-10-07T11:17:46Z	
+4.18.3		2019-10-09T12:02:12Z	
+4.18.4		2019-11-15T10:50:49Z	
+4.19.0		2019-12-09T12:05:52Z	
+4.19.1		2019-12-13T14:13:27Z	
+4.21.0		2020-03-19T13:34:08Z	
+4.21.1		2020-04-08T13:20:32Z	
+4.21.2		2020-05-15T11:19:51Z	
+4.22.0		2020-05-29T11:51:51Z	
+4.23.0		2020-07-24T11:09:12Z	
+4.24.0		2020-08-19T09:39:01Z	
+4.24.1		2020-09-10T12:28:58Z	
+4.25.0		2020-12-09T20:32:55Z	
+4.26.0		2021-01-15T23:36:44Z	
+4.26.1		2021-01-27T13:48:43Z	
+4.26.2		2021-02-01T14:09:43Z	
+4.27.0		2021-03-18T01:24:03Z	
+4.28.0		2021-04-26T17:13:03Z	
+4.28.1		2021-05-12T13:24:49Z	
+4.28.2		2021-06-11T20:58:42Z	
+4.28.3		2021-07-20T22:02:12Z	
+4.28.4		2021-08-09T12:43:01Z	
+4.28.5		2021-09-22T09:06:53Z	
+4.28.6		2021-10-19T14:09:06Z	
+4.28.7		2021-11-15T13:50:16Z	
+4.28.8		2021-12-06T14:25:07Z	
+4.28.9		2022-01-15T10:37:57Z	
+4.29.0		2022-02-08T09:27:56Z	
+4.29.1		2022-02-08T20:47:59Z	
+4.30.0		2022-04-11T13:43:58Z	
+4.30.1		2022-05-17T12:29:46Z	
+4.31.0		2022-07-28T13:44:59Z	
+4.31.1		2022-08-18T12:06:42Z	
+4.32.0		2022-09-07T08:40:18Z	
+4.33.0		2022-10-19T08:44:27Z	
+4.33.1		2022-11-25T12:42:15Z	
+4.33.2		2022-12-07T08:58:45Z	
+4.33.3		2023-02-16T11:43:31Z	
+4.33.4		2023-04-26T19:17:19Z	
+4.33.5		2023-07-05T08:15:51Z	
+4.34.0		2023-08-17T17:33:29Z	
+4.35.0		2023-09-12T09:59:27Z	
+4.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.35.1/adjust-android-oaid-4.35.1.jar returned status 404
+4.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.36.0/adjust-android-oaid-4.36.0.jar returned status 404
+4.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.37.0/adjust-android-oaid-4.37.0.jar returned status 404
+4.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.37.1/adjust-android-oaid-4.37.1.jar returned status 404
+4.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.0/adjust-android-oaid-4.38.0.jar returned status 404
+4.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.1/adjust-android-oaid-4.38.1.jar returned status 404
+4.38.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.2/adjust-android-oaid-4.38.2.jar returned status 404
+4.38.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.3/adjust-android-oaid-4.38.3.jar returned status 404
+4.38.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.4/adjust-android-oaid-4.38.4.jar returned status 404
+4.38.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/4.38.5/adjust-android-oaid-4.38.5.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.0.0/adjust-android-oaid-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.0.1/adjust-android-oaid-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.0.2/adjust-android-oaid-5.0.2.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.1.0/adjust-android-oaid-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.2.0/adjust-android-oaid-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.3.0/adjust-android-oaid-5.3.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.0/adjust-android-oaid-5.4.0.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.1/adjust-android-oaid-5.4.1.jar returned status 404
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.2/adjust-android-oaid-5.4.2.jar returned status 404
+5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.3/adjust-android-oaid-5.4.3.jar returned status 404
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.4/adjust-android-oaid-5.4.4.jar returned status 404
+5.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.5/adjust-android-oaid-5.4.5.jar returned status 404
+5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.4.6/adjust-android-oaid-5.4.6.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.5.0/adjust-android-oaid-5.5.0.jar returned status 404
+5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.5.1/adjust-android-oaid-5.5.1.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.6.0/adjust-android-oaid-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.6.1/adjust-android-oaid-5.6.1.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-oaid/5.7.0/adjust-android-oaid-5.7.0.jar returned status 404

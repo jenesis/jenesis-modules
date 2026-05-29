@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quadible/librarian/1.0.0/librarian-1.0.0.jar returned status 404
+1.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quadible/librarian/1.0.0-beta/librarian-1.0.0-beta.jar returned status 404
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quadible/librarian/1.0.0-beta01/librarian-1.0.0-beta01.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quadible/librarian/1.0.1/librarian-1.0.1.jar returned status 404

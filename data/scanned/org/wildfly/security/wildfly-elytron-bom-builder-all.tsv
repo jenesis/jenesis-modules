@@ -1,0 +1,4 @@
+2.9.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/security/wildfly-elytron-bom-builder-all/2.9.0.CR1/wildfly-elytron-bom-builder-all-2.9.0.CR1.jar returned status 404
+2.9.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/security/wildfly-elytron-bom-builder-all/2.9.0.CR2/wildfly-elytron-bom-builder-all-2.9.0.CR2.jar returned status 404
+2.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/security/wildfly-elytron-bom-builder-all/2.9.0.Final/wildfly-elytron-bom-builder-all-2.9.0.Final.jar returned status 404
+2.9.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/security/wildfly-elytron-bom-builder-all/2.9.1.Final/wildfly-elytron-bom-builder-all-2.9.1.Final.jar returned status 404

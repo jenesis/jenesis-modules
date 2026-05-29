@@ -1,0 +1,5 @@
+1.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adamglin/compose-shadow-wasm-js/1.1.0-beta01/compose-shadow-wasm-js-1.1.0-beta01.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adamglin/compose-shadow-wasm-js/2.0.0/compose-shadow-wasm-js-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adamglin/compose-shadow-wasm-js/2.0.1/compose-shadow-wasm-js-2.0.1.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adamglin/compose-shadow-wasm-js/2.0.3/compose-shadow-wasm-js-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adamglin/compose-shadow-wasm-js/2.0.4/compose-shadow-wasm-js-2.0.4.jar returned status 404

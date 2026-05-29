@@ -1,0 +1,34 @@
+3.1.0		2021-01-29T22:19:15Z	
+3.1.1		2021-03-11T00:15:49Z	
+3.2.0		2021-03-16T17:51:21Z	
+4.0.0		2021-04-20T19:07:42Z	
+4.0.1		2021-04-22T06:48:00Z	
+4.1.0		2021-05-03T20:46:04Z	
+4.2.0		2021-06-30T19:24:33Z	
+4.3.0		2021-08-20T18:13:24Z	
+4.4.0		2021-09-07T23:19:31Z	
+4.5.0		2021-09-17T19:58:01Z	
+4.5.2		2021-09-20T20:01:24Z	
+4.6.0		2021-09-30T00:06:26Z	
+4.7.0		2021-10-11T06:21:52Z	
+4.8.0		2021-10-20T19:44:39Z	
+5.0.0		2021-12-20T20:14:13Z	
+5.1.0		2022-01-13T07:18:51Z	
+6.0.0		2022-02-25T20:04:49Z	
+6.0.1		2022-03-11T00:13:48Z	
+6.1.0		2022-03-15T23:13:42Z	
+6.2.0		2022-03-29T19:41:57Z	
+6.2.1		2022-07-05T18:57:02Z	
+6.3.0		2022-07-12T21:00:26Z	
+6.4.0		2022-11-15T18:49:44Z	
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/6.4.1/temporal-js-6.4.1.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/6.5.0/temporal-js-6.5.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/7.0.0/temporal-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/7.0.1/temporal-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/7.1.0/temporal-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/7.2.0/temporal-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/7.3.0/temporal-js-7.3.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/8.0.0/temporal-js-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/8.0.1/temporal-js-8.0.1.jar returned status 404
+8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/8.0.3/temporal-js-8.0.3.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/temporal-js/8.1.0/temporal-js-8.1.0.jar returned status 404

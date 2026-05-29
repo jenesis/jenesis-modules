@@ -1,0 +1,23 @@
+37.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/37.0.0.Beta1/wildfly-clustering-infinispan-37.0.0.Beta1.jar returned status 404
+37.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/37.0.0.Final/wildfly-clustering-infinispan-37.0.0.Final.jar returned status 404
+37.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/37.0.1.Final/wildfly-clustering-infinispan-37.0.1.Final.jar returned status 404
+38.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/38.0.0.Beta1/wildfly-clustering-infinispan-38.0.0.Beta1.jar returned status 404
+38.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/38.0.0.Final/wildfly-clustering-infinispan-38.0.0.Final.jar returned status 404
+38.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/38.0.1.Final/wildfly-clustering-infinispan-38.0.1.Final.jar returned status 404
+39.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/39.0.0.Beta1/wildfly-clustering-infinispan-39.0.0.Beta1.jar returned status 404
+39.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/39.0.0.Final/wildfly-clustering-infinispan-39.0.0.Final.jar returned status 404
+39.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/39.0.1.Final/wildfly-clustering-infinispan-39.0.1.Final.jar returned status 404
+40.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-clustering-infinispan/40.0.0.Beta1/wildfly-clustering-infinispan-40.0.0.Beta1.jar returned status 404
+8.0.0.Alpha1		2013-05-18T01:56:13Z	
+8.0.0.Alpha2		2013-06-22T02:51:35Z	
+8.0.0.Alpha3		2013-07-18T05:18:40Z	
+8.0.0.Alpha4		2013-08-13T01:17:45Z	
+8.0.0.Beta1		2013-10-04T19:57:32Z	
+8.0.0.CR1		2013-12-22T06:04:53Z	
+8.0.0.Final		2014-02-12T04:37:40Z	
+8.1.0.CR1		2014-04-13T03:10:24Z	
+8.1.0.CR2		2014-05-12T17:58:03Z	
+8.1.0.Final		2014-05-31T02:49:01Z	
+8.2.0.Final		2014-11-21T04:37:18Z	
+8.2.1.Final		2015-07-24T00:23:25Z	
+9.0.0.Alpha1		2014-09-15T19:01:43Z	

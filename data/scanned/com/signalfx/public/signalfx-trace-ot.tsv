@@ -1,0 +1,54 @@
+0.20.0-sfx0-beta1		2019-01-03T18:39:51Z	
+0.20.0-sfx0-beta2		2019-01-18T18:26:26Z	
+0.20.0-sfx0-beta3		2019-01-23T21:31:50Z	
+0.20.0-sfx0-beta4		2019-01-25T20:47:26Z	
+0.24.0-sfx0		2019-03-14T20:45:56Z	
+0.24.0-sfx1		2019-03-26T14:31:39Z	
+0.24.0-sfx10		2019-06-03T20:52:22Z	
+0.24.0-sfx11		2019-06-13T16:32:27Z	
+0.24.0-sfx2		2019-04-02T15:52:48Z	
+0.24.0-sfx3		2019-04-10T17:15:45Z	
+0.24.0-sfx4		2019-04-11T14:56:16Z	
+0.24.0-sfx5		2019-04-17T17:48:24Z	
+0.24.0-sfx6		2019-04-22T18:30:48Z	
+0.24.0-sfx7		2019-04-24T13:33:51Z	
+0.24.0-sfx8		2019-05-09T14:27:43Z	
+0.24.0-sfx9		2019-05-22T15:39:02Z	
+0.28.0-sfx0		2019-06-18T22:08:54Z	
+0.28.0-sfx1		2019-07-24T19:13:06Z	
+0.28.0-sfx2		2019-07-31T16:03:45Z	
+0.28.0-sfx3		2019-08-23T14:57:08Z	
+0.28.0-sfx4		2019-08-30T20:28:14Z	
+0.28.0-sfx5		2019-10-11T19:47:32Z	
+0.28.0-sfx6		2019-11-21T16:06:48Z	
+0.28.0-sfx7		2019-12-20T12:06:50Z	
+0.36.0-sfx0		2020-01-21T21:56:53Z	
+0.36.0-sfx1		2020-01-22T14:48:40Z	
+0.36.0-sfx10		2020-05-28T20:21:44Z	
+0.36.0-sfx11		2020-06-08T18:50:24Z	
+0.36.0-sfx2		2020-02-07T21:38:20Z	
+0.36.0-sfx3		2020-02-20T19:35:49Z	
+0.36.0-sfx4		2020-03-06T21:48:54Z	
+0.36.0-sfx5		2020-04-10T13:54:19Z	
+0.36.0-sfx6		2020-04-15T19:10:46Z	
+0.36.0-sfx7		2020-04-30T16:54:47Z	
+0.36.0-sfx8		2020-05-06T19:21:51Z	
+0.36.0-sfx9		2020-05-13T17:39:36Z	
+0.48.0-sfx0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx0/signalfx-trace-ot-0.48.0-sfx0.jar returned status 404
+0.48.0-sfx0	unbundled	2020-06-18T13:31:48Z	
+0.48.0-sfx1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx1/signalfx-trace-ot-0.48.0-sfx1.jar returned status 404
+0.48.0-sfx1	unbundled	2020-07-22T13:50:44Z	
+0.48.0-sfx2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx2/signalfx-trace-ot-0.48.0-sfx2.jar returned status 404
+0.48.0-sfx2	unbundled	2020-10-05T18:49:57Z	
+0.48.0-sfx3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx3/signalfx-trace-ot-0.48.0-sfx3.jar returned status 404
+0.48.0-sfx3	unbundled	2020-11-12T18:43:54Z	
+0.48.0-sfx4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx4/signalfx-trace-ot-0.48.0-sfx4.jar returned status 404
+0.48.0-sfx4	unbundled	2020-12-21T19:16:38Z	
+0.48.0-sfx5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx5/signalfx-trace-ot-0.48.0-sfx5.jar returned status 404
+0.48.0-sfx5	unbundled	2020-12-23T14:12:26Z	
+0.48.0-sfx6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx6/signalfx-trace-ot-0.48.0-sfx6.jar returned status 404
+0.48.0-sfx6	unbundled	2021-03-03T17:22:46Z	
+0.48.0-sfx7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx7/signalfx-trace-ot-0.48.0-sfx7.jar returned status 404
+0.48.0-sfx7	unbundled	2022-03-29T20:05:47Z	
+0.48.0-sfx8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/signalfx/public/signalfx-trace-ot/0.48.0-sfx8/signalfx-trace-ot-0.48.0-sfx8.jar returned status 404
+0.48.0-sfx8	unbundled	2022-08-18T17:46:41Z	

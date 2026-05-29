@@ -1,0 +1,9 @@
+1.0		2022-08-25T13:20:51Z	
+1.1		2022-08-30T07:49:28Z	
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/1.9/testsdk-maven-1.9.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.2/testsdk-maven-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.3/testsdk-maven-2.3.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.5/testsdk-maven-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.6/testsdk-maven-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.7/testsdk-maven-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/khatri7yash/testsdk-maven/2.8/testsdk-maven-2.8.jar returned status 404

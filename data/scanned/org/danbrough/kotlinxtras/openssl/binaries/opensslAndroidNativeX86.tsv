@@ -1,0 +1,2 @@
+1_1_1r			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/kotlinxtras/openssl/binaries/opensslAndroidNativeX86/1_1_1r/opensslAndroidNativeX86-1_1_1r.jar returned status 404
+1_1_1s			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/kotlinxtras/openssl/binaries/opensslAndroidNativeX86/1_1_1s/opensslAndroidNativeX86-1_1_1s.jar returned status 404

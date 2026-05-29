@@ -1,0 +1,6 @@
+5.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/5.1.6.Final/weld-core-bom-5.1.6.Final.jar returned status 404
+5.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/5.1.7.Final/weld-core-bom-5.1.7.Final.jar returned status 404
+6.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/6.0.3.Final/weld-core-bom-6.0.3.Final.jar returned status 404
+6.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/6.0.4.Final/weld-core-bom-6.0.4.Final.jar returned status 404
+7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/7.0.0.Alpha1/weld-core-bom-7.0.0.Alpha1.jar returned status 404
+7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-core-bom/7.0.0.Alpha2/weld-core-bom-7.0.0.Alpha2.jar returned status 404

@@ -1,0 +1,5 @@
+2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/goodies/goodies/2.3.10/goodies-2.3.10.jar returned status 404
+2.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/goodies/goodies/2.3.11/goodies-2.3.11.jar returned status 404
+2.3.2-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/goodies/goodies/2.3.2-01/goodies-2.3.2-01.jar returned status 404
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/goodies/goodies/2.3.9/goodies-2.3.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/goodies/goodies/3.0.0/goodies-3.0.0.jar returned status 404

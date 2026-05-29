@@ -1,0 +1,4 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kazumasa-kusaba/SlideshowBackground/1.0/SlideshowBackground-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kazumasa-kusaba/SlideshowBackground/1.1/SlideshowBackground-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kazumasa-kusaba/SlideshowBackground/1.2/SlideshowBackground-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kazumasa-kusaba/SlideshowBackground/1.3/SlideshowBackground-1.3.jar returned status 404

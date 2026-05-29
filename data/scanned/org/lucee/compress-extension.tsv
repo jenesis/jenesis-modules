@@ -1,0 +1,5 @@
+2.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/compress-extension/2.0.0.3/compress-extension-2.0.0.3.jar returned status 404
+2.0.0.3-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/compress-extension/2.0.0.3-RC/compress-extension-2.0.0.3-RC.jar returned status 404
+2.1.0.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/compress-extension/2.1.0.0-BETA/compress-extension-2.1.0.0-BETA.jar returned status 404
+2.1.0.1-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/compress-extension/2.1.0.1-BETA/compress-extension-2.1.0.1-BETA.jar returned status 404
+2.1.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/compress-extension/2.1.0.1-RC/compress-extension-2.1.0.1-RC.jar returned status 404

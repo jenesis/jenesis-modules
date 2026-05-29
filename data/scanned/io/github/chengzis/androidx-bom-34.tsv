@@ -1,0 +1,4 @@
+0.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengzis/androidx-bom-34/0.0.1-beta/androidx-bom-34-0.0.1-beta.jar returned status 404
+0.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengzis/androidx-bom-34/0.0.2-beta/androidx-bom-34-0.0.2-beta.jar returned status 404
+0.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengzis/androidx-bom-34/0.0.3-beta/androidx-bom-34-0.0.3-beta.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengzis/androidx-bom-34/1.0.0/androidx-bom-34-1.0.0.jar returned status 404

@@ -1,0 +1,6 @@
+2.0.0		2020-09-05T06:56:11Z	
+2.1.0		2021-01-19T17:43:50Z	
+2.1.1		2021-02-25T18:21:01Z	
+2.2.0		2021-12-09T10:56:41Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/popkorn/popkorn-js/2.3.0/popkorn-js-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/popkorn/popkorn-js/2.3.1/popkorn-js-2.3.1.jar returned status 404

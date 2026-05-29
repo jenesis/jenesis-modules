@@ -1,0 +1,10 @@
+1.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.0-alpha/arviewer-android-1.0.0-alpha.jar returned status 404
+1.0.0-alpha-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.0-alpha-alpha/arviewer-android-1.0.0-alpha-alpha.jar returned status 404
+1.0.0-alpha-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.0-alpha-beta/arviewer-android-1.0.0-alpha-beta.jar returned status 404
+1.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.0-beta/arviewer-android-1.0.0-beta.jar returned status 404
+1.0.0-snapshot-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.0-snapshot-alpha/arviewer-android-1.0.0-snapshot-alpha.jar returned status 404
+1.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.1-alpha/arviewer-android-1.0.1-alpha.jar returned status 404
+1.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.1-beta/arviewer-android-1.0.1-beta.jar returned status 404
+1.0.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.2-alpha/arviewer-android-1.0.2-alpha.jar returned status 404
+1.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.2-beta/arviewer-android-1.0.2-beta.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ubapp/arviewer-android/1.0.3/arviewer-android-1.0.3.jar returned status 404

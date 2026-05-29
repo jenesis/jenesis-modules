@@ -1,0 +1,10 @@
+4.1.83.Final	automatic	io.netty	netty-resolver-dns-native-macos	2022-10-11T21:13:16Z	
+4.1.96.Final	automatic	io.netty	netty-resolver-dns-native-macos	2023-07-27T13:38:25Z	
+4.1.103.Final	automatic	io.netty	netty-resolver-dns-native-macos	2023-12-13T10:02:30Z	
+1.16.0-M2	named	io.micrometer	micrometer-registry-statsd	2025-08-12T08:17:14Z	4.2.3.Final
+1.16.0-M3	named	io.micrometer	micrometer-registry-statsd	2025-09-09T06:43:00Z	4.2.6.Final
+1.16.0-RC1	named	io.micrometer	micrometer-registry-statsd	2025-10-14T05:01:55Z	4.2.6.Final
+1.16.0	named	io.micrometer	micrometer-registry-statsd	2025-11-06T18:12:47Z	4.2.7.Final
+1.16.1	named	io.micrometer	micrometer-registry-statsd	2025-12-08T20:37:45Z	4.2.7.Final
+1.16.2	named	io.micrometer	micrometer-registry-statsd	2026-01-12T20:24:24Z	4.2.9.Final
+1.17.0-M1	named	io.micrometer	micrometer-registry-statsd	2026-01-13T01:32:57Z	4.2.9.Final

@@ -1,0 +1,11 @@
+"2.3.1"			IllegalArgumentException: Illegal character in path at index 29: io/kronor/component/fallback/"2.3.1"/fallback-"2.3.1".jar
+"2.3.4"			IllegalArgumentException: Illegal character in path at index 29: io/kronor/component/fallback/"2.3.4"/fallback-"2.3.4".jar
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.1/fallback-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.2/fallback-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.3/fallback-2.3.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.3.1/fallback-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.3.2/fallback-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.3.3/fallback-2.3.3.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/2.3.4/fallback-2.3.4.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/3.0.1/fallback-3.0.1.jar returned status 404
+v2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/component/fallback/v2.3.1/fallback-v2.3.1.jar returned status 404

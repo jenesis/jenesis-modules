@@ -1,0 +1,16 @@
+2.3.20-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/2.3.20-RC/core-test-iosarm64-2.3.20-RC.jar returned status 404
+2.3.20-RC	metadata	2026-03-03T07:48:10Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.0/core-test-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-03-23T12:45:19Z	
+4.0.0-alpha16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.0-alpha16/core-test-iosarm64-4.0.0-alpha16.jar returned status 404
+4.0.0-alpha16	metadata	2026-02-27T11:34:52Z	
+4.0.0-alpha16-mpp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.0-alpha16-mpp/core-test-iosarm64-4.0.0-alpha16-mpp.jar returned status 404
+4.0.0-alpha16-mpp	metadata	2026-03-03T10:09:48Z	
+4.0.0-alpha16-mpp2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.0-alpha16-mpp2/core-test-iosarm64-4.0.0-alpha16-mpp2.jar returned status 404
+4.0.0-alpha16-mpp2	metadata	2026-03-03T15:44:22Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.1/core-test-iosarm64-4.0.1.jar returned status 404
+4.0.1	metadata	2026-03-27T07:14:51Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.2/core-test-iosarm64-4.0.2.jar returned status 404
+4.0.2	metadata	2026-04-14T11:38:13Z	
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/core-test-iosarm64/4.0.3/core-test-iosarm64-4.0.3.jar returned status 404
+4.0.3	metadata	2026-04-24T06:46:29Z	

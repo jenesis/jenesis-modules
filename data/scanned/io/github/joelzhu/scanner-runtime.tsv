@@ -1,0 +1,10 @@
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.1/scanner-runtime-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.2/scanner-runtime-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.3/scanner-runtime-1.3.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.4/scanner-runtime-1.4.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.5/scanner-runtime-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.6/scanner-runtime-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.7/scanner-runtime-1.7.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/1.8.0/scanner-runtime-1.8.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/2.0.0/scanner-runtime-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joelzhu/scanner-runtime/2.1.0/scanner-runtime-2.1.0.jar returned status 404

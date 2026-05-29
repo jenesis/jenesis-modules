@@ -1,0 +1,4 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/prabhu3084/test/1.0/test-1.0.jar returned status 404
+1.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/prabhu3084/test/1.0.0-RELEASE/test-1.0.0-RELEASE.jar returned status 404
+2.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/prabhu3084/test/2.0.0-RELEASE/test-2.0.0-RELEASE.jar returned status 404
+2.2.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/prabhu3084/test/2.2.0-RELEASE/test-2.2.0-RELEASE.jar returned status 404

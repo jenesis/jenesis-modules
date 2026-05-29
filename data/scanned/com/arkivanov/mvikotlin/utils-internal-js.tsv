@@ -1,0 +1,15 @@
+2.0.2		2021-04-15T20:42:14Z	
+2.0.3		2021-05-05T20:52:13Z	
+2.0.4		2021-06-15T09:10:32Z	
+3.0.0		2022-07-13T20:52:58Z	
+3.0.0-alpha01		2021-08-02T00:09:58Z	
+3.0.0-alpha02		2021-10-19T00:32:57Z	
+3.0.0-alpha03		2021-12-28T00:08:22Z	
+3.0.0-beta01		2022-02-10T10:47:55Z	
+3.0.0-beta02		2022-04-30T21:59:10Z	
+3.0.1		2022-07-18T14:56:05Z	
+3.0.2		2022-08-18T23:24:48Z	
+3.1.0		2023-01-20T19:05:56Z	
+3.2.0		2023-03-17T21:18:59Z	
+3.2.1		2023-05-09T08:47:06Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/utils-internal-js/3.3.0/utils-internal-js-3.3.0.jar returned status 404

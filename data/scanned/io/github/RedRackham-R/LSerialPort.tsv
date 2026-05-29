@@ -1,0 +1,9 @@
+1.0.0-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/1.0.0-debug/LSerialPort-1.0.0-debug.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.0/LSerialPort-2.0.0.jar returned status 404
+2.0.0-beta-test-push-source-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.0-beta-test-push-source-debug/LSerialPort-2.0.0-beta-test-push-source-debug.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.1/LSerialPort-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.2/LSerialPort-2.0.2.jar returned status 404
+2.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.3-beta/LSerialPort-2.0.3-beta.jar returned status 404
+2.0.3-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/2.0.3-beta2/LSerialPort-2.0.3-beta2.jar returned status 404
+20230504-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/20230504-debug/LSerialPort-20230504-debug.jar returned status 404
+20230505-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/RedRackham-R/LSerialPort/20230505-debug/LSerialPort-20230505-debug.jar returned status 404

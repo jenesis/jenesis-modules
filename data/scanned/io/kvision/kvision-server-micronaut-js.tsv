@@ -1,0 +1,105 @@
+4.0.0		2021-02-13T22:41:34Z	
+4.1.0		2021-02-24T11:24:18Z	
+4.1.1		2021-03-06T18:56:00Z	
+4.2.0		2021-03-10T15:46:52Z	
+4.2.1		2021-03-16T18:34:17Z	
+4.2.2		2021-03-27T01:13:05Z	
+4.2.3		2021-03-27T22:01:27Z	
+4.3.0		2021-04-03T22:23:34Z	
+4.4.0		2021-04-19T00:23:13Z	
+4.5.0		2021-05-10T14:15:04Z	
+4.5.1		2021-05-13T22:02:20Z	
+4.6.0		2021-05-22T17:13:20Z	
+4.7.0		2021-05-25T19:13:34Z	
+4.7.1		2021-05-27T14:16:11Z	
+4.8.0		2021-05-31T17:02:50Z	
+4.8.1		2021-06-02T23:12:04Z	
+4.8.2		2021-07-05T10:06:16Z	
+4.8.3		2021-07-05T20:57:51Z	
+5.0.0		2021-08-19T22:00:54Z	
+5.0.0-RC1		2021-08-09T21:57:15Z	
+5.0.0-RC2		2021-08-12T22:05:40Z	
+5.0.0-RC3		2021-08-19T06:07:38Z	
+5.0.1		2021-08-24T05:42:29Z	
+5.1.0		2021-08-27T16:15:18Z	
+5.1.1		2021-08-28T22:47:28Z	
+5.10.0		2022-05-08T05:52:19Z	
+5.10.1		2022-06-04T05:45:43Z	
+5.11.0		2022-06-19T07:48:17Z	
+5.12.0		2022-06-30T19:11:12Z	
+5.13.0		2022-07-11T17:22:42Z	
+5.13.1		2022-07-15T05:39:44Z	
+5.14.0		2022-08-10T08:50:58Z	
+5.15.0		2022-09-12T13:16:51Z	
+5.15.1		2022-09-14T08:41:20Z	
+5.15.2		2022-09-17T06:55:58Z	
+5.15.3		2022-09-21T08:57:27Z	
+5.16.0		2022-10-05T11:53:03Z	
+5.16.1		2022-10-10T09:39:54Z	
+5.16.2		2022-10-23T09:04:33Z	
+5.17.0		2022-11-01T16:09:33Z	
+5.18.0		2022-11-26T07:20:47Z	
+5.18.1		2022-12-01T15:14:01Z	
+5.18.2		2023-03-31T16:18:50Z	
+5.2.0		2021-09-25T06:33:30Z	
+5.2.1		2021-09-29T15:49:37Z	
+5.3.0		2021-10-07T21:49:34Z	
+5.4.0		2021-10-17T11:43:58Z	
+5.4.1		2021-10-21T07:52:26Z	
+5.4.2		2021-10-25T08:11:39Z	
+5.4.3		2021-10-28T04:07:17Z	
+5.5.0		2021-11-04T12:57:03Z	
+5.5.1		2021-11-09T14:02:24Z	
+5.6.0		2021-11-29T15:04:24Z	
+5.6.1		2021-12-02T12:18:42Z	
+5.7.0		2022-01-06T13:01:32Z	
+5.7.1		2022-01-06T15:59:43Z	
+5.7.2		2022-01-16T10:28:10Z	
+5.8.0		2022-01-30T09:57:54Z	
+5.8.1		2022-02-06T10:50:50Z	
+5.8.2		2022-02-28T05:46:48Z	
+5.8.3		2022-04-01T13:14:44Z	
+5.9.0		2022-04-14T14:43:11Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.0/kvision-server-micronaut-js-6.0.0.jar returned status 404
+6.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.0-Beta/kvision-server-micronaut-js-6.0.0-Beta.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.1/kvision-server-micronaut-js-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.2/kvision-server-micronaut-js-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.3/kvision-server-micronaut-js-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.4/kvision-server-micronaut-js-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.5/kvision-server-micronaut-js-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.0.6/kvision-server-micronaut-js-6.0.6.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.1.0/kvision-server-micronaut-js-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.1.1/kvision-server-micronaut-js-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.1.2/kvision-server-micronaut-js-6.1.2.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.2.0/kvision-server-micronaut-js-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.2.1/kvision-server-micronaut-js-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.2.2/kvision-server-micronaut-js-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.2.3/kvision-server-micronaut-js-6.2.3.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.3.0/kvision-server-micronaut-js-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.3.1/kvision-server-micronaut-js-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.3.2/kvision-server-micronaut-js-6.3.2.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.4.0/kvision-server-micronaut-js-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.5.0/kvision-server-micronaut-js-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.5.1/kvision-server-micronaut-js-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.5.2/kvision-server-micronaut-js-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/6.6.0/kvision-server-micronaut-js-6.6.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.0.0/kvision-server-micronaut-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.0.1/kvision-server-micronaut-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.1.0/kvision-server-micronaut-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.2.0/kvision-server-micronaut-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.3.0/kvision-server-micronaut-js-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.3.1/kvision-server-micronaut-js-7.3.1.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.0/kvision-server-micronaut-js-7.4.0.jar returned status 404
+7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.1/kvision-server-micronaut-js-7.4.1.jar returned status 404
+7.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.2/kvision-server-micronaut-js-7.4.2.jar returned status 404
+7.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.3/kvision-server-micronaut-js-7.4.3.jar returned status 404
+7.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.4/kvision-server-micronaut-js-7.4.4.jar returned status 404
+7.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.4.5/kvision-server-micronaut-js-7.4.5.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.5.0/kvision-server-micronaut-js-7.5.0.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/7.5.1/kvision-server-micronaut-js-7.5.1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.0.0/kvision-server-micronaut-js-8.0.0.jar returned status 404
+8.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.0.0-RC/kvision-server-micronaut-js-8.0.0-RC.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.0.1/kvision-server-micronaut-js-8.0.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.1.0/kvision-server-micronaut-js-8.1.0.jar returned status 404
+8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.1.1/kvision-server-micronaut-js-8.1.1.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-server-micronaut-js/8.2.0/kvision-server-micronaut-js-8.2.0.jar returned status 404

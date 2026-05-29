@@ -1,0 +1,92 @@
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/2.4.1/kotest-framework-api-2.4.1.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.0/kotest-framework-api-4.2.0.jar returned status 404
+4.2.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.0.RC3/kotest-framework-api-4.2.0.RC3.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.2/kotest-framework-api-4.2.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.3/kotest-framework-api-4.2.3.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.4/kotest-framework-api-4.2.4.jar returned status 404
+4.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.5/kotest-framework-api-4.2.5.jar returned status 404
+4.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.2.6/kotest-framework-api-4.2.6.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.3.0/kotest-framework-api-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.3.1/kotest-framework-api-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-api/4.3.2/kotest-framework-api-4.3.2.jar returned status 404
+4.4.0		2021-02-02T03:26:05Z	
+4.4.0	all	2021-02-02T03:26:07Z	
+4.4.0.RC1		2021-01-07T03:29:21Z	
+4.4.0.RC1	all	2021-01-07T03:29:21Z	
+4.4.0.RC2		2021-01-17T19:32:49Z	
+4.4.0.RC2	all	2021-01-17T19:32:51Z	
+4.4.0.RC3		2021-01-28T19:52:20Z	
+4.4.0.RC3	all	2021-01-28T19:52:20Z	
+4.4.1		2021-02-09T02:11:20Z	
+4.4.1	all	2021-02-09T02:11:21Z	
+4.4.2		2021-03-06T02:03:06Z	
+4.4.2	all	2021-03-06T02:03:07Z	
+4.4.3		2021-03-07T21:13:28Z	
+4.4.3	all	2021-03-07T21:13:29Z	
+4.5.0		2021-05-05T08:34:34Z	
+4.5.0	all	2021-05-05T08:34:37Z	
+4.5.0.RC1		2021-04-25T03:03:00Z	
+4.5.0.RC1	all	2021-04-25T03:03:01Z	
+4.6.0		2021-05-18T21:20:33Z	
+4.6.0	all	2021-05-18T21:20:35Z	
+4.6.1		2021-07-12T14:52:41Z	
+4.6.1	all	2021-07-12T14:52:44Z	
+4.6.2		2021-08-24T02:03:42Z	
+4.6.2	all	2021-08-24T02:03:43Z	
+4.6.3		2021-09-17T03:34:33Z	
+4.6.3	all	2021-09-17T03:34:35Z	
+4.6.4		2021-11-28T03:37:49Z	
+4.6.4	all	2021-11-28T03:37:52Z	
+5.0.0		2021-11-24T17:02:56Z	
+5.0.0	all	2021-11-24T17:02:57Z	
+5.0.0.M1		2021-09-09T14:18:58Z	
+5.0.0.M1	all	2021-09-09T14:19:01Z	
+5.0.0.M2		2021-09-20T23:11:36Z	
+5.0.0.M2	all	2021-09-20T23:11:38Z	
+5.0.0.M3		2021-10-18T04:23:27Z	
+5.0.0.M3	all	2021-10-18T04:23:28Z	
+5.0.0.M4		2021-11-11T21:06:23Z	
+5.0.0.M4	all	2021-11-11T21:06:24Z	
+5.0.0.RC		2021-11-17T03:26:34Z	
+5.0.0.RC	all	2021-11-17T03:26:35Z	
+5.0.0.RC2		2021-11-23T16:50:42Z	
+5.0.0.RC2	all	2021-11-23T16:50:42Z	
+5.0.1		2021-11-29T23:27:48Z	
+5.0.1	all	2021-11-29T23:27:48Z	
+5.0.2		2021-12-10T10:17:31Z	
+5.0.2	all	2021-12-10T10:17:36Z	
+5.0.3		2021-12-18T17:31:44Z	
+5.0.3	all	2021-12-18T17:31:45Z	
+5.1.0		2022-01-16T20:45:33Z	
+5.1.0	all	2022-01-16T20:45:36Z	
+5.2.0		2022-03-13T15:29:08Z	
+5.2.0	all	2022-03-13T15:29:10Z	
+5.2.1		2022-03-13T20:37:22Z	
+5.2.1	all	2022-03-13T20:37:24Z	
+5.2.2		2022-03-28T01:01:46Z	
+5.2.2	all	2022-03-28T01:01:47Z	
+5.2.3		2022-04-09T15:48:59Z	
+5.2.3	all	2022-04-09T15:49:00Z	
+5.3.0		2022-05-02T13:43:39Z	
+5.3.1		2022-06-13T14:19:23Z	
+5.3.2		2022-06-24T09:02:10Z	
+5.4.0		2022-07-24T06:30:34Z	
+5.4.1		2022-07-28T08:10:30Z	
+5.4.2		2022-08-10T10:19:39Z	
+5.5.0		2022-10-03T04:15:48Z	
+5.5.1		2022-10-09T17:31:20Z	
+5.5.2		2022-10-23T17:56:05Z	
+5.5.3		2022-10-27T23:31:38Z	
+5.5.4		2022-11-03T19:20:55Z	
+5.5.5		2023-02-05T15:40:35Z	
+5.6.0		2023-04-17T00:39:53Z	
+5.6.1		2023-04-17T21:44:58Z	
+5.6.2		2023-05-10T17:33:54Z	
+5.7.0		2023-09-01T15:12:49Z	
+5.7.1		2023-09-03T00:09:06Z	
+5.7.2		2023-09-05T16:50:46Z	
+5.8.0		2023-11-03T16:57:29Z	
+5.8.1		2024-03-11T03:42:21Z	
+5.9.0		2024-05-09T17:55:52Z	
+5.9.1		2024-06-06T10:26:18Z	
+6.0.0.M1		2024-09-30T04:30:35Z	

@@ -1,0 +1,36 @@
+0.2.0		2025-01-05T11:35:42Z	
+0.2.0	aarch64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.0	x86_64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.0	x86_64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.0	x86_64-windows		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.1		2025-01-05T23:11:13Z	
+0.2.1	aarch64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.1	x86_64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.1	x86_64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.1	x86_64-windows		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.2		2025-01-16T21:29:22Z	
+0.2.2	aarch64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.2	aarch64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.2	x86_64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.2	x86_64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.2	x86_64-windows		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.3		2025-02-01T14:44:10Z	
+0.2.3	aarch64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.3	aarch64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.3	x86_64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.3	x86_64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.3	x86_64-windows		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.4		2025-06-28T09:03:46Z	
+0.2.4	aarch64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.4	aarch64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.4	x86_64-linux		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.4	x86_64-osx		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.2.4	x86_64-windows		IllegalArgumentException: End of central directory record not found in supplied tail buffer
+0.3.0		2025-11-21T11:24:15Z	
+0.3.1		2025-11-21T14:57:17Z	
+0.4.0		2026-03-11T12:55:56Z	
+0.4.0-RC1		2026-03-11T10:24:55Z	
+0.4.1		2026-03-12T18:46:10Z	
+0.4.2		2026-03-18T11:57:35Z	
+0.4.3		2026-03-31T21:38:36Z	
+0.4.4		2026-04-28T08:00:39Z	

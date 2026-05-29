@@ -1,0 +1,4 @@
+21.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/project/21.0.10/project-21.0.10.jar returned status 404
+21.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/project/21.0.11/project-21.0.11.jar returned status 404
+21.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/project/21.0.8/project-21.0.8.jar returned status 404
+21.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/project/21.0.9/project-21.0.9.jar returned status 404

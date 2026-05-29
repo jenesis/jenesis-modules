@@ -1,0 +1,12 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/plugins/grails-redis/3.0.0/grails-redis-3.0.0.jar returned status 404
+3.0.0	plain	2023-02-17T11:52:00Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/plugins/grails-redis/3.0.1/grails-redis-3.0.1.jar returned status 404
+3.0.1	plain	2023-10-05T07:39:05Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/plugins/grails-redis/3.1.0/grails-redis-3.1.0.jar returned status 404
+3.1.0	plain	2023-10-25T21:35:23Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/plugins/grails-redis/4.0.0/grails-redis-4.0.0.jar returned status 404
+4.0.0	plain	2023-11-26T19:12:19Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/plugins/grails-redis/4.0.1/grails-redis-4.0.1.jar returned status 404
+4.0.1	plain	2023-12-20T15:54:38Z	
+5.0.0-M1		2024-12-23T23:43:54Z	
+5.0.0-M3		2025-03-05T20:50:17Z	

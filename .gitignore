@@ -25,3 +25,7 @@ target/
 
 ### Agent specification ###
 .claude/
+
+### Generated data scratch (never commit) ###
+data/worklist.tsv.streaming
+data/**/worklist.tsv.streaming

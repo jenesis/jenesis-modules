@@ -1,0 +1,34 @@
+3.8.0		2022-06-11T10:03:13Z	
+4.0.0		2022-06-20T22:17:06Z	
+4.0.1		2022-06-21T13:30:25Z	
+4.0.2		2022-06-24T16:14:04Z	
+4.0.3		2022-07-04T01:23:28Z	
+4.1.0		2022-07-22T10:20:11Z	
+4.2.0		2022-10-18T23:37:29Z	
+4.3.0		2022-10-24T21:36:15Z	
+4.4.0		2022-10-29T17:55:48Z	
+4.5.0		2022-11-26T14:53:51Z	
+5.0.0		2023-01-16T19:18:15Z	
+5.1.0		2023-03-05T01:38:50Z	
+5.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.10.0/krossbow-stomp-kxserialization-json-js-5.10.0.jar returned status 404
+5.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.11.0/krossbow-stomp-kxserialization-json-js-5.11.0.jar returned status 404
+5.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.12.0/krossbow-stomp-kxserialization-json-js-5.12.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.2.0/krossbow-stomp-kxserialization-json-js-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.3.0/krossbow-stomp-kxserialization-json-js-5.3.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.4.0/krossbow-stomp-kxserialization-json-js-5.4.0.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.5.0/krossbow-stomp-kxserialization-json-js-5.5.0.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.6.0/krossbow-stomp-kxserialization-json-js-5.6.0.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.7.0/krossbow-stomp-kxserialization-json-js-5.7.0.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/5.8.0/krossbow-stomp-kxserialization-json-js-5.8.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/6.0.0/krossbow-stomp-kxserialization-json-js-6.0.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/7.0.0/krossbow-stomp-kxserialization-json-js-7.0.0.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/7.1.0/krossbow-stomp-kxserialization-json-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/7.2.0/krossbow-stomp-kxserialization-json-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/7.3.0/krossbow-stomp-kxserialization-json-js-7.3.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/8.0.0/krossbow-stomp-kxserialization-json-js-8.0.0.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/8.1.0/krossbow-stomp-kxserialization-json-js-8.1.0.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/8.2.0/krossbow-stomp-kxserialization-json-js-8.2.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/9.0.0/krossbow-stomp-kxserialization-json-js-9.0.0.jar returned status 404
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/9.1.0/krossbow-stomp-kxserialization-json-js-9.1.0.jar returned status 404
+9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/9.2.0/krossbow-stomp-kxserialization-json-js-9.2.0.jar returned status 404
+9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-stomp-kxserialization-json-js/9.3.0/krossbow-stomp-kxserialization-json-js-9.3.0.jar returned status 404

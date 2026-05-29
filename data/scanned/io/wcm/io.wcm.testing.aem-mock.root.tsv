@@ -1,0 +1,5 @@
+5.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/io.wcm.testing.aem-mock.root/5.6.12/io.wcm.testing.aem-mock.root-5.6.12.jar returned status 404
+5.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/io.wcm.testing.aem-mock.root/5.6.14/io.wcm.testing.aem-mock.root-5.6.14.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/io.wcm.testing.aem-mock.root/5.7.0/io.wcm.testing.aem-mock.root-5.7.0.jar returned status 404
+5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/io.wcm.testing.aem-mock.root/5.7.2/io.wcm.testing.aem-mock.root-5.7.2.jar returned status 404
+5.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/io.wcm.testing.aem-mock.root/5.7.4/io.wcm.testing.aem-mock.root-5.7.4.jar returned status 404

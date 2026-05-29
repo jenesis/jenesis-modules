@@ -1,0 +1,8 @@
+0.0.1		2016-09-14T06:32:26Z	
+0.0.2		2016-09-17T13:11:36Z	
+0.0.3		2016-09-19T15:26:57Z	
+0.0.4		2016-10-22T04:47:25Z	
+0.0.5		2016-10-30T15:51:34Z	
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.7.1/MyBatisX-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.7.2/MyBatisX-1.7.2.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.2.2/MyBatisX-2.2.2.jar returned status 404

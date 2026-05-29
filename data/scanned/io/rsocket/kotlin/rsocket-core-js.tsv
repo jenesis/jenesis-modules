@@ -1,0 +1,6 @@
+0.13.0		2021-07-04T16:33:11Z	
+0.13.1		2021-07-05T07:40:22Z	
+0.14.3		2021-12-16T09:20:32Z	
+0.15.4		2022-04-14T08:39:17Z	
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rsocket/kotlin/rsocket-core-js/0.16.0/rsocket-core-js-0.16.0.jar returned status 404
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rsocket/kotlin/rsocket-core-js/0.20.0/rsocket-core-js-0.20.0.jar returned status 404

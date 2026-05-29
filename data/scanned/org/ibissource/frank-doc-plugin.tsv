@@ -1,0 +1,4 @@
+0.1		2022-01-26T13:01:19Z	
+0.2		2023-07-28T11:12:32Z	
+0.3		2023-11-23T19:18:35Z	
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/frank-doc-plugin/0.4/frank-doc-plugin-0.4.jar returned status 404

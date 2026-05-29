@@ -1,0 +1,14 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/10.0.0/bpm-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/10.1.0/bpm-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/10.2.0/bpm-10.2.0.jar returned status 404
+7.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.11.0/bpm-7.11.0.jar returned status 404
+7.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.11.1/bpm-7.11.1.jar returned status 404
+7.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.11.2/bpm-7.11.2.jar returned status 404
+7.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.11.3/bpm-7.11.3.jar returned status 404
+7.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.11.4/bpm-7.11.4.jar returned status 404
+7.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.12.1/bpm-7.12.1.jar returned status 404
+7.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.13.0/bpm-7.13.0.jar returned status 404
+7.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.14.0/bpm-7.14.0.jar returned status 404
+7.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/7.15.0/bpm-7.15.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/8.0.0/bpm-8.0.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/engine/bpm/9.0.0/bpm-9.0.0.jar returned status 404

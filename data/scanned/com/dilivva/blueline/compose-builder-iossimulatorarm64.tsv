@@ -1,0 +1,8 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dilivva/blueline/compose-builder-iossimulatorarm64/2.0.0/compose-builder-iossimulatorarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2025-06-08T18:43:55Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dilivva/blueline/compose-builder-iossimulatorarm64/2.0.1/compose-builder-iossimulatorarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2025-06-10T10:36:08Z	
+unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dilivva/blueline/compose-builder-iossimulatorarm64/unspecified/compose-builder-iossimulatorarm64-unspecified.jar returned status 404
+unspecified	metadata	2025-06-10T09:29:46Z	
+v2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dilivva/blueline/compose-builder-iossimulatorarm64/v2.0.1/compose-builder-iossimulatorarm64-v2.0.1.jar returned status 404
+v2.0.1	metadata	2025-06-10T10:17:07Z	

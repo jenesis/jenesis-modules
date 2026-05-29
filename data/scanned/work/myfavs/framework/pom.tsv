@@ -1,0 +1,4 @@
+1.0.0-260114-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/work/myfavs/framework/pom/1.0.0-260114-2/pom-1.0.0-260114-2.jar returned status 404
+1.0.0-260116-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/work/myfavs/framework/pom/1.0.0-260116-1/pom-1.0.0-260116-1.jar returned status 404
+1.0.0-260226-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/work/myfavs/framework/pom/1.0.0-260226-1/pom-1.0.0-260226-1.jar returned status 404
+1.0.0-260408-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/work/myfavs/framework/pom/1.0.0-260408-1/pom-1.0.0-260408-1.jar returned status 404

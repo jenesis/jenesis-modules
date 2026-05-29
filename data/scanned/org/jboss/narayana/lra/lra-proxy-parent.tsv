@@ -1,0 +1,4 @@
+1.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/lra/lra-proxy-parent/1.0.2.Final/lra-proxy-parent-1.0.2.Final.jar returned status 404
+1.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/lra/lra-proxy-parent/1.0.3.Final/lra-proxy-parent-1.0.3.Final.jar returned status 404
+1.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/lra/lra-proxy-parent/1.1.0.Final/lra-proxy-parent-1.1.0.Final.jar returned status 404
+1.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/lra/lra-proxy-parent/1.2.0.Final/lra-proxy-parent-1.2.0.Final.jar returned status 404

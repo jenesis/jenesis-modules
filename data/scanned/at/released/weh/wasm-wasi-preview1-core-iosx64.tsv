@@ -1,0 +1,12 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.1/wasm-wasi-preview1-core-iosx64-0.1.jar returned status 404
+0.1	metadata	2025-01-09T06:10:13Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.2/wasm-wasi-preview1-core-iosx64-0.2.jar returned status 404
+0.2	metadata	2025-01-13T18:25:36Z	
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.3/wasm-wasi-preview1-core-iosx64-0.3.jar returned status 404
+0.3	metadata	2025-02-23T12:46:44Z	
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.4/wasm-wasi-preview1-core-iosx64-0.4.jar returned status 404
+0.4	metadata	2025-03-13T06:27:27Z	
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.5/wasm-wasi-preview1-core-iosx64-0.5.jar returned status 404
+0.5	metadata	2025-04-11T05:40:22Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/released/weh/wasm-wasi-preview1-core-iosx64/0.6.0/wasm-wasi-preview1-core-iosx64-0.6.0.jar returned status 404
+0.6.0	metadata	2025-08-13T11:23:46Z	

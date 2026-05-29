@@ -1,0 +1,16 @@
+1.0.4	named	io.github.gvergine	qnx.buildfile.lang.cli	2025-12-13T14:13:54Z	33.4.8-jre
+1.0.5	named	io.github.gvergine	qnx.buildfile.lang.cli	2025-12-22T19:14:17Z	33.5.0-jre
+1.0.6	named	io.github.gvergine	qnx.buildfile.lang.cli	2025-12-22T20:56:12Z	33.5.0-jre
+1.0.7	named	io.github.gvergine	qnx.buildfile.lang.cli	2026-01-09T11:42:07Z	33.5.0-jre
+1.0.8	named	io.github.gvergine	qnx.buildfile.lang.cli	2026-02-10T16:38:21Z	33.5.0-jre
+1.1.0	named	com.google.cloud.flink	flink-1.17-connector-bigquery	2026-02-11T19:44:39Z	33.4.8-jre
+1.1.0	named	com.google.cloud.flink	flink-2.1-connector-bigquery	2026-02-11T19:44:39Z	33.4.8-jre
+3.3.5	named	org.jboss.shrinkwrap.resolver	shrinkwrap-resolver-impl-maven	2026-02-13T09:51:28Z	33.5.0-jre
+1.1.0	named	io.github.gvergine	qnx.buildfile.lang.cli	2026-02-18T17:34:30Z	33.5.0-jre
+0.3.0	named	dev.snowdrop.openrewrite	service	2026-03-13T13:28:17Z	33.5.0-jre
+0.3.1	named	dev.snowdrop.openrewrite	service	2026-03-13T14:22:05Z	33.5.0-jre
+0.3.2	named	dev.snowdrop.openrewrite	service	2026-03-13T17:40:22Z	33.5.0-jre
+0.3.3	named	dev.snowdrop.openrewrite	service	2026-03-16T11:43:57Z	33.5.0-jre
+1.5.0	named	org.apache.pinot	pinot-timeseries-m3ql	2026-04-09T22:21:19Z	33.5.0-jre
+3.3.6	named	org.jboss.shrinkwrap.resolver	shrinkwrap-resolver-impl-maven	2026-04-27T18:45:32Z	33.5.0-jre
+1.0.0	named	io.yki.sapply	sapply-cli	2026-05-11T09:45:57Z	33.4.8-jre

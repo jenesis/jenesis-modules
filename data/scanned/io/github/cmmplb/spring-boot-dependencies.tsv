@@ -1,0 +1,11 @@
+1.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/1.0-beta-1/spring-boot-dependencies-1.0-beta-1.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/1.0.0/spring-boot-dependencies-1.0.0.jar returned status 404
+2.3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.3.12.0/spring-boot-dependencies-2.3.12.0.jar returned status 404
+2.5.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.5.15.0/spring-boot-dependencies-2.5.15.0.jar returned status 404
+2.5.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.5.15.2/spring-boot-dependencies-2.5.15.2.jar returned status 404
+2.5.15.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.5.15.5/spring-boot-dependencies-2.5.15.5.jar returned status 404
+2.5.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.5.15.6/spring-boot-dependencies-2.5.15.6.jar returned status 404
+2.7.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.7.18.0/spring-boot-dependencies-2.7.18.0.jar returned status 404
+2.7.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/2.7.18.1/spring-boot-dependencies-2.7.18.1.jar returned status 404
+3.1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/3.1.12.0/spring-boot-dependencies-3.1.12.0.jar returned status 404
+3.3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmmplb/spring-boot-dependencies/3.3.4.0/spring-boot-dependencies-3.3.4.0.jar returned status 404

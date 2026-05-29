@@ -1,0 +1,4 @@
+14-ea+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/14-ea+4/javafx-14-ea+4.jar returned status 404
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/14.0.2/javafx-14.0.2.jar returned status 404
+14.0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/14.0.2.1/javafx-14.0.2.1.jar returned status 404
+25-ea+22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/25-ea+22/javafx-25-ea+22.jar returned status 404

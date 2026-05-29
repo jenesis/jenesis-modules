@@ -1,0 +1,105 @@
+5.0.0-M5	automatic	org.junit.jupiter	junit-jupiter-params	2017-07-04T16:39:51Z	
+5.0.0-M6	automatic	org.junit.jupiter	junit-jupiter-params	2017-07-18T19:29:01Z	
+5.0.0-RC1	automatic	org.junit.jupiter	junit-jupiter-params	2017-07-30T19:13:42Z	
+5.0.0-RC2	automatic	org.junit.jupiter	junit-jupiter-params	2017-07-30T20:37:38Z	
+5.0.0-RC3	automatic	org.junit.jupiter	junit-jupiter-params	2017-08-23T18:42:05Z	
+5.0.0	automatic	org.junit.jupiter	junit-jupiter-params	2017-09-10T18:10:20Z	
+5.0.1	automatic	org.junit.jupiter	junit-jupiter-params	2017-10-03T12:28:28Z	
+5.0.2	automatic	org.junit.jupiter	junit-jupiter-params	2017-11-12T14:03:16Z	
+5.1.0-M1	automatic	org.junit.jupiter	junit-jupiter-params	2017-11-19T15:55:00Z	
+5.0.3	automatic	org.junit.jupiter	junit-jupiter-params	2018-01-15T19:04:05Z	
+5.1.0-M2	automatic	org.junit.jupiter	junit-jupiter-params	2018-01-28T19:36:33Z	
+5.1.0-RC1	automatic	org.junit.jupiter	junit-jupiter-params	2018-02-04T18:52:35Z	
+5.1.0	automatic	org.junit.jupiter	junit-jupiter-params	2018-02-18T19:41:45Z	
+5.1.1	automatic	org.junit.jupiter	junit-jupiter-params	2018-04-08T18:58:35Z	
+5.2.0-M1	automatic	org.junit.jupiter	junit-jupiter-params	2018-04-15T17:33:14Z	
+5.2.0-RC1	automatic	org.junit.jupiter	junit-jupiter-params	2018-04-22T19:17:06Z	
+5.2.0	automatic	org.junit.jupiter	junit-jupiter-params	2018-04-29T18:25:01Z	
+5.3.0-M1	automatic	org.junit.jupiter	junit-jupiter-params	2018-06-24T19:56:26Z	
+5.3.0-RC1	automatic	org.junit.jupiter	junit-jupiter-params	2018-08-13T18:54:21Z	
+5.3.0	automatic	org.junit.jupiter	junit-jupiter-params	2018-09-03T19:22:56Z	
+5.3.1	automatic	org.junit.jupiter	junit-jupiter-params	2018-09-11T04:49:13Z	
+5.3.2	automatic	org.junit.jupiter	junit-jupiter-params	2018-11-25T19:11:15Z	
+5.4.0-M1	automatic	org.junit.jupiter	junit-jupiter-params	2018-12-23T18:23:55Z	
+5.4.0-RC1	automatic	org.junit.jupiter	junit-jupiter-params	2019-01-24T19:42:32Z	
+5.4.0-RC2	automatic	org.junit.jupiter	junit-jupiter-params	2019-01-31T19:31:21Z	
+5.4.0	automatic	org.junit.jupiter	junit-jupiter-params	2019-02-07T20:14:17Z	
+5.4.1	automatic	org.junit.jupiter	junit-jupiter-params	2019-03-17T19:10:51Z	
+5.5.0-M1	automatic	org.junit.jupiter	junit-jupiter-params	2019-03-19T16:10:55Z	
+5.4.2	automatic	org.junit.jupiter	junit-jupiter-params	2019-04-07T17:30:19Z	
+5.5.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2019-06-06T20:39:54Z	5.5.0-RC1
+5.5.0-RC2	named	org.junit.jupiter	junit-jupiter-params	2019-06-20T09:27:41Z	5.5.0-RC2
+5.5.0	named	org.junit.jupiter	junit-jupiter-params	2019-06-30T19:47:44Z	5.5.0
+5.5.1	named	org.junit.jupiter	junit-jupiter-params	2019-07-20T14:39:36Z	5.5.1
+5.5.2	named	org.junit.jupiter	junit-jupiter-params	2019-09-08T18:34:03Z	5.5.2
+5.6.0-M1	named	org.junit.jupiter	junit-jupiter-params	2019-10-21T19:09:51Z	5.6.0-M1
+5.6.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2020-01-06T15:59:14Z	5.6.0-RC1
+5.6.0	named	org.junit.jupiter	junit-jupiter-params	2020-01-20T20:04:42Z	5.6.0
+5.6.1	named	org.junit.jupiter	junit-jupiter-params	2020-03-22T18:57:01Z	5.6.1
+5.6.2	named	org.junit.jupiter	junit-jupiter-params	2020-04-10T14:19:23Z	5.6.2
+5.7.0-M1	named	org.junit.jupiter	junit-jupiter-params	2020-04-19T18:28:29Z	5.7.0-M1
+5.7.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2020-08-16T16:28:24Z	5.7.0-RC1
+5.7.0	named	org.junit.jupiter	junit-jupiter-params	2020-09-13T13:15:12Z	5.7.0
+5.6.3	named	org.junit.jupiter	junit-jupiter-params	2020-10-26T20:39:14Z	5.6.3
+5.7.1	named	org.junit.jupiter	junit-jupiter-params	2021-02-04T19:47:30Z	5.7.1
+5.8.0-M1	named	org.junit.jupiter	junit-jupiter-params	2021-02-11T18:58:30Z	5.8.0-M1
+5.7.2	named	org.junit.jupiter	junit-jupiter-params	2021-05-15T12:15:50Z	5.7.2
+5.8.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2021-08-17T17:34:13Z	5.8.0-RC1
+5.8.0	named	org.junit.jupiter	junit-jupiter-params	2021-09-12T18:46:08Z	5.8.0
+5.8.1	named	org.junit.jupiter	junit-jupiter-params	2021-09-22T18:56:03Z	5.8.1
+5.8.2	named	org.junit.jupiter	junit-jupiter-params	2021-11-28T15:39:26Z	5.8.2
+5.9.0-M1	named	org.junit.jupiter	junit-jupiter-params	2022-05-15T18:38:01Z	5.9.0-M1
+5.9.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2022-07-04T19:41:22Z	5.9.0-RC1
+5.9.0	named	org.junit.jupiter	junit-jupiter-params	2022-07-26T19:09:08Z	5.9.0
+5.9.1	named	org.junit.jupiter	junit-jupiter-params	2022-09-20T18:34:30Z	5.9.1
+5.9.2	named	org.junit.jupiter	junit-jupiter-params	2023-01-10T11:01:41Z	5.9.2
+5.9.3	named	org.junit.jupiter	junit-jupiter-params	2023-04-26T06:27:58Z	5.9.3
+5.10.0-M1	named	org.junit.jupiter	junit-jupiter-params	2023-05-13T12:45:24Z	5.10.0-M1
+5.10.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2023-07-06T13:12:32Z	5.10.0-RC1
+5.10.0-RC2	named	org.junit.jupiter	junit-jupiter-params	2023-07-19T13:48:37Z	5.10.0-RC2
+5.10.0	named	org.junit.jupiter	junit-jupiter-params	2023-07-23T12:52:34Z	5.10.0
+5.10.1	named	org.junit.jupiter	junit-jupiter-params	2023-11-05T16:50:00Z	5.10.1
+5.10.2	named	org.junit.jupiter	junit-jupiter-params	2024-02-04T08:35:25Z	5.10.2
+5.11.0-M1	named	org.junit.jupiter	junit-jupiter-params	2024-04-23T12:48:41Z	5.11.0-M1
+5.11.0-M2	named	org.junit.jupiter	junit-jupiter-params	2024-05-17T14:52:47Z	5.11.0-M2
+5.10.3	named	org.junit.jupiter	junit-jupiter-params	2024-06-27T14:08:00Z	5.10.3
+5.11.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2024-07-31T11:06:17Z	5.11.0-RC1
+5.11.0	named	org.junit.jupiter	junit-jupiter-params	2024-08-14T09:21:46Z	5.11.0
+5.10.4	named	org.junit.jupiter	junit-jupiter-params	2024-09-24T12:17:42Z	5.10.4
+5.11.1	named	org.junit.jupiter	junit-jupiter-params	2024-09-25T06:59:38Z	5.11.1
+5.10.5	named	org.junit.jupiter	junit-jupiter-params	2024-10-04T12:34:55Z	5.10.5
+5.11.2	named	org.junit.jupiter	junit-jupiter-params	2024-10-04T12:57:01Z	5.11.2
+5.11.3	named	org.junit.jupiter	junit-jupiter-params	2024-10-21T13:48:42Z	5.11.3
+5.11.4	named	org.junit.jupiter	junit-jupiter-params	2024-12-16T13:08:26Z	5.11.4
+5.12.0-M1	named	org.junit.jupiter	junit-jupiter-params	2025-01-31T16:14:28Z	5.12.0-M1
+5.12.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2025-02-07T14:45:35Z	5.12.0-RC1
+5.12.0-RC2	named	org.junit.jupiter	junit-jupiter-params	2025-02-12T11:23:48Z	5.12.0-RC2
+5.12.0	named	org.junit.jupiter	junit-jupiter-params	2025-02-21T13:25:59Z	5.12.0
+5.12.1	named	org.junit.jupiter	junit-jupiter-params	2025-03-14T13:09:16Z	5.12.1
+5.13.0-M1	named	org.junit.jupiter	junit-jupiter-params	2025-03-21T13:26:41Z	5.13.0-M1
+5.13.0-M2	named	org.junit.jupiter	junit-jupiter-params	2025-03-24T06:42:20Z	5.13.0-M2
+5.12.2	named	org.junit.jupiter	junit-jupiter-params	2025-04-11T14:10:51Z	5.12.2
+5.13.0-M3	named	org.junit.jupiter	junit-jupiter-params	2025-05-02T11:34:06Z	5.13.0-M3
+5.13.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2025-05-16T17:42:46Z	5.13.0-RC1
+5.13.0	named	org.junit.jupiter	junit-jupiter-params	2025-05-30T10:02:27Z	5.13.0
+5.13.1	named	org.junit.jupiter	junit-jupiter-params	2025-06-07T07:50:13Z	5.13.1
+5.13.2	named	org.junit.jupiter	junit-jupiter-params	2025-06-24T12:27:30Z	5.13.2
+6.0.0-M1	named	org.junit.jupiter	junit-jupiter-params	2025-06-27T14:32:15Z	6.0.0-M1
+5.13.3	named	org.junit.jupiter	junit-jupiter-params	2025-07-04T12:11:54Z	5.13.3
+5.13.4	named	org.junit.jupiter	junit-jupiter-params	2025-07-21T06:59:19Z	5.13.4
+6.0.0-M2	named	org.junit.jupiter	junit-jupiter-params	2025-07-22T08:28:51Z	6.0.0-M2
+6.0.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2025-08-20T07:48:14Z	6.0.0-RC1
+6.0.0-RC2	named	org.junit.jupiter	junit-jupiter-params	2025-08-25T15:28:57Z	6.0.0-RC2
+6.0.0-RC3	named	org.junit.jupiter	junit-jupiter-params	2025-09-14T12:08:01Z	6.0.0-RC3
+5.14.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2025-09-23T14:12:08Z	5.14.0-RC1
+5.14.0	named	org.junit.jupiter	junit-jupiter-params	2025-09-30T07:16:20Z	5.14.0
+6.0.0	named	org.junit.jupiter	junit-jupiter-params	2025-09-30T08:00:14Z	6.0.0
+5.14.1	named	org.junit.jupiter	junit-jupiter-params	2025-10-31T14:30:44Z	5.14.1
+6.0.1	named	org.junit.jupiter	junit-jupiter-params	2025-10-31T17:41:10Z	6.0.1
+6.1.0-M1	named	org.junit.jupiter	junit-jupiter-params	2025-11-17T17:15:50Z	6.1.0-M1
+5.14.2	named	org.junit.jupiter	junit-jupiter-params	2026-01-06T15:02:31Z	5.14.2
+6.0.2	named	org.junit.jupiter	junit-jupiter-params	2026-01-06T15:53:25Z	6.0.2
+5.14.3	named	org.junit.jupiter	junit-jupiter-params	2026-02-15T12:49:17Z	5.14.3
+6.0.3	named	org.junit.jupiter	junit-jupiter-params	2026-02-15T13:34:05Z	6.0.3
+6.1.0-RC1	named	org.junit.jupiter	junit-jupiter-params	2026-04-25T11:55:04Z	6.1.0-RC1
+5.14.4	named	org.junit.jupiter	junit-jupiter-params	2026-04-26T11:20:52Z	5.14.4

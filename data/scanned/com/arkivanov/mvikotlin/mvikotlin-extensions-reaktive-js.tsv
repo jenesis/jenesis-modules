@@ -1,0 +1,23 @@
+2.0.2		2021-04-15T20:39:00Z	
+2.0.3		2021-05-05T20:48:52Z	
+2.0.4		2021-06-15T09:06:06Z	
+3.0.0		2022-07-13T20:46:09Z	
+3.0.0-alpha01		2021-08-02T00:07:08Z	
+3.0.0-alpha02		2021-10-19T00:30:36Z	
+3.0.0-alpha03		2021-12-28T00:06:28Z	
+3.0.0-beta01		2022-02-10T10:46:00Z	
+3.0.0-beta02		2022-04-30T21:57:10Z	
+3.0.1		2022-07-18T14:49:51Z	
+3.0.2		2022-08-18T23:17:34Z	
+3.1.0		2023-01-20T18:56:47Z	
+3.2.0		2023-03-17T21:10:53Z	
+3.2.1		2023-05-09T08:38:38Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/3.3.0/mvikotlin-extensions-reaktive-js-3.3.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.0.0/mvikotlin-extensions-reaktive-js-4.0.0.jar returned status 404
+4.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.0.0-alpha01/mvikotlin-extensions-reaktive-js-4.0.0-alpha01.jar returned status 404
+4.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.0.0-alpha02/mvikotlin-extensions-reaktive-js-4.0.0-alpha02.jar returned status 404
+4.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.0.0-beta01/mvikotlin-extensions-reaktive-js-4.0.0-beta01.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.1.0/mvikotlin-extensions-reaktive-js-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.2.0/mvikotlin-extensions-reaktive-js-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.3.0/mvikotlin-extensions-reaktive-js-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/mvikotlin/mvikotlin-extensions-reaktive-js/4.4.0/mvikotlin-extensions-reaktive-js-4.4.0.jar returned status 404

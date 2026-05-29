@@ -1,0 +1,14 @@
+0.14.1		2019-11-24T13:00:37Z	
+0.14.3		2020-02-04T19:12:39Z	
+0.15.1		2020-07-06T20:47:03Z	
+0.16.0		2021-10-23T20:59:15Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/1.0.0/kbox-js-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/1.1.0/kbox-js-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/1.2.0/kbox-js-1.2.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/2.0.0/kbox-js-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/2.1.0/kbox-js-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/2.2.0/kbox-js-2.2.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/3.0.0/kbox-js-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/3.1.0/kbox-js-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/3.2.0/kbox-js-3.2.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/tutteli/kbox/kbox-js/3.3.0/kbox-js-3.3.0.jar returned status 404

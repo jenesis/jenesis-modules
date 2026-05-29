@@ -1,0 +1,18 @@
+1.1.${buildNumber}			IllegalArgumentException: Illegal character in path at index 37: com/sysunite/coinsweb/coins-api/1.1.${buildNumber}/coins-api-1.1.${buildNumber}.jar
+1.1.${buildNumber}	jar-with-dependencies		IllegalArgumentException: Illegal character in path at index 37: com/sysunite/coinsweb/coins-api/1.1.${buildNumber}/coins-api-1.1.${buildNumber}-jar-with-dependencies.jar
+1.1.499		2016-10-31T14:39:54Z	
+1.1.499	jar-with-dependencies	2016-10-31T14:39:46Z	
+1.1.500		2016-10-31T16:25:01Z	
+1.1.500	jar-with-dependencies	2016-10-31T16:25:28Z	
+1.1.501		2016-11-01T11:07:52Z	
+1.1.501	jar-with-dependencies	2016-11-01T11:08:22Z	
+1.1.502		2016-11-14T16:01:02Z	
+1.1.502	jar-with-dependencies	2016-11-14T16:01:17Z	
+1.1.503		2016-11-18T09:31:55Z	
+1.1.503	jar-with-dependencies	2016-11-18T09:32:10Z	
+1.1.603		2016-11-29T13:05:14Z	
+1.1.603	jar-with-dependencies	2016-11-29T13:05:08Z	
+1.1.604		2017-02-17T12:51:02Z	
+1.1.604	jar-with-dependencies	2017-02-17T12:51:01Z	
+1.1.606		2017-03-23T12:26:08Z	
+1.1.606	jar-with-dependencies	2017-03-23T12:26:06Z	

@@ -1,0 +1,2 @@
+1.6.3-native-mt			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/kotlinx/kotlinx-coroutines-core-androidnativearm32/1.6.3-native-mt/kotlinx-coroutines-core-androidnativearm32-1.6.3-native-mt.jar returned status 404
+1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danbrough/kotlinx/kotlinx-coroutines-core-androidnativearm32/1.6.4/kotlinx-coroutines-core-androidnativearm32-1.6.4.jar returned status 404

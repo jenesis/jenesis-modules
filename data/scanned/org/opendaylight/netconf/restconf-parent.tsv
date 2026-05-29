@@ -1,0 +1,17 @@
+1.10.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.10.4.1/restconf-parent-1.10.4.1.jar returned status 404
+1.10.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.10.4.2/restconf-parent-1.10.4.2.jar returned status 404
+1.10.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.10.4.3/restconf-parent-1.10.4.3.jar returned status 404
+1.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.11.3/restconf-parent-1.11.3.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.12.1/restconf-parent-1.12.1.jar returned status 404
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.12.2/restconf-parent-1.12.2.jar returned status 404
+1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.12.3/restconf-parent-1.12.3.jar returned status 404
+1.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.12.4/restconf-parent-1.12.4.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.0/restconf-parent-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.1/restconf-parent-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.2/restconf-parent-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.3/restconf-parent-1.13.3.jar returned status 404
+1.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.4/restconf-parent-1.13.4.jar returned status 404
+1.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.5/restconf-parent-1.13.5.jar returned status 404
+1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.6/restconf-parent-1.13.6.jar returned status 404
+1.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.7/restconf-parent-1.13.7.jar returned status 404
+1.13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/restconf-parent/1.13.8/restconf-parent-1.13.8.jar returned status 404

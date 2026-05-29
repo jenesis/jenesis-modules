@@ -1,0 +1,4 @@
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset/6.10.0/asset-6.10.0.jar returned status 404
+6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset/6.10.1/asset-6.10.1.jar returned status 404
+6.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset/6.10.2/asset-6.10.2.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset/6.9.0/asset-6.9.0.jar returned status 404

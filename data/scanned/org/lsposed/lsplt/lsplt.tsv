@@ -1,0 +1,8 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lsposed/lsplt/lsplt/1.0/lsplt-1.0.jar returned status 404
+1.0	symbols	2022-12-19T08:30:17Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lsposed/lsplt/lsplt/1.1/lsplt-1.1.jar returned status 404
+1.1	symbols	2023-01-12T13:33:09Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lsposed/lsplt/lsplt/2.0/lsplt-2.0.jar returned status 404
+2.0	symbols	2023-02-06T03:46:03Z	
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lsposed/lsplt/lsplt/2.1/lsplt-2.1.jar returned status 404
+2.1	symbols	2023-03-23T14:02:44Z	

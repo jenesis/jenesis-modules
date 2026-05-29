@@ -1,0 +1,4 @@
+4.0.0.1-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/google-material-typeface-sharp/4.0.0.1-kotlin/google-material-typeface-sharp-4.0.0.1-kotlin.jar returned status 404
+4.0.0.2-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/google-material-typeface-sharp/4.0.0.2-kotlin/google-material-typeface-sharp-4.0.0.2-kotlin.jar returned status 404
+4.0.0.3-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/google-material-typeface-sharp/4.0.0.3-kotlin/google-material-typeface-sharp-4.0.0.3-kotlin.jar returned status 404
+unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/google-material-typeface-sharp/unspecified/google-material-typeface-sharp-unspecified.jar returned status 404

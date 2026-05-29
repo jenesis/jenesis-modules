@@ -1,0 +1,5 @@
+0.1.0		2023-04-07T14:32:08Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/endians/endians-js/0.2.0/endians-js-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/endians/endians-js/0.3.0/endians-js-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/endians/endians-js/0.3.1/endians-js-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/endians/endians-js/0.3.2/endians-js-0.3.2.jar returned status 404

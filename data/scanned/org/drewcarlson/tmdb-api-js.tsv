@@ -1,0 +1,5 @@
+0.7.0		2022-02-21T21:19:38Z	
+0.7.1		2022-02-25T22:23:25Z	
+0.7.3		2022-04-01T21:26:25Z	
+0.7.5		2022-04-11T18:57:37Z	
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/tmdb-api-js/1.2.2/tmdb-api-js-1.2.2.jar returned status 404

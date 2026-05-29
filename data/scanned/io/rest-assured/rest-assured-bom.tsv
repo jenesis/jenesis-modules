@@ -1,0 +1,4 @@
+5.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/rest-assured-bom/5.5.5/rest-assured-bom-5.5.5.jar returned status 404
+5.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/rest-assured-bom/5.5.6/rest-assured-bom-5.5.6.jar returned status 404
+5.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/rest-assured-bom/5.5.7/rest-assured-bom-5.5.7.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/rest-assured-bom/6.0.0/rest-assured-bom-6.0.0.jar returned status 404

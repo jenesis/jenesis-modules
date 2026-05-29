@@ -1,0 +1,47 @@
+1.11.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.11.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.11.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.11.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.11.5			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.11.6			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.12.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.12.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.12.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.12.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.12.4			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.10			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.11			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.4			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.5			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.6			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.7			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.8			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.13.9			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.14.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.14.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.14.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.14.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-jvm-clients/1.14.4/couchbase-jvm-clients-1.14.4.jar returned status 404
+1.15.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.15.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.15.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.15.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-jvm-clients/1.15.4/couchbase-jvm-clients-1.15.4.jar returned status 404
+1.16.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.2			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.3			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.4			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.5			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.6			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.7			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.8			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.16.9			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.17.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.17.1			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-jvm-clients/1.17.2/couchbase-jvm-clients-1.17.2.jar returned status 404
+1.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-jvm-clients/1.17.3/couchbase-jvm-clients-1.17.3.jar returned status 404

@@ -1,0 +1,9 @@
+3.4.3.stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.4.3.stable/godot-3.4.3.stable.jar returned status 404
+3.4.4.rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.4.4.rc2/godot-3.4.4.rc2.jar returned status 404
+3.4.4.stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.4.4.stable/godot-3.4.4.stable.jar returned status 404
+3.5.0.beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.5.0.beta/godot-3.5.0.beta.jar returned status 404
+3.5.1.stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.5.1.stable/godot-3.5.1.stable.jar returned status 404
+3.6.0.stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/3.6.0.stable/godot-3.6.0.stable.jar returned status 404
+4.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/4.0.0.beta3/godot-4.0.0.beta3.jar returned status 404
+4.5.0.beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/4.5.0.beta/godot-4.5.0.beta.jar returned status 404
+4.5.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/m4gr3d/godot/4.5.0.beta3/godot-4.5.0.beta3.jar returned status 404

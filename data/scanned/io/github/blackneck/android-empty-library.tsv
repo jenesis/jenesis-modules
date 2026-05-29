@@ -1,0 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackneck/android-empty-library/1.0.0/android-empty-library-1.0.0.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackneck/android-empty-library/1.0.10/android-empty-library-1.0.10.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackneck/android-empty-library/1.0.9/android-empty-library-1.0.9.jar returned status 404
+1.0.9-patch			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackneck/android-empty-library/1.0.9-patch/android-empty-library-1.0.9-patch.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackneck/android-empty-library/1.1.0/android-empty-library-1.1.0.jar returned status 404

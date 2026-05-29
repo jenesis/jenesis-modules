@@ -1,0 +1,8 @@
+1.0		2022-12-24T18:29:51Z	
+1.0.1		2022-12-24T19:24:50Z	
+1.0.2		2023-02-10T07:11:53Z	
+1.0.3		2023-02-19T16:43:12Z	
+2.0.0		2025-04-30T13:10:13Z	
+2.0.1		2025-04-30T14:02:37Z	
+2.0.2		2025-05-09T19:55:34Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yeamy/httpclient-apt-jackson/2.0.3/httpclient-apt-jackson-2.0.3.jar returned status 404

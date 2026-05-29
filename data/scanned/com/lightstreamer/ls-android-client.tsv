@@ -1,0 +1,23 @@
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.2/ls-android-client-4.2.2.jar returned status 404
+4.2.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.2-alpha/ls-android-client-4.2.2-alpha.jar returned status 404
+4.2.2-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.2-alpha.1/ls-android-client-4.2.2-alpha.1.jar returned status 404
+4.2.2-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.2-alpha.2/ls-android-client-4.2.2-alpha.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.3/ls-android-client-4.2.3.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.4/ls-android-client-4.2.4.jar returned status 404
+4.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.5/ls-android-client-4.2.5.jar returned status 404
+4.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.6/ls-android-client-4.2.6.jar returned status 404
+4.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.7/ls-android-client-4.2.7.jar returned status 404
+4.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightstreamer/ls-android-client/4.2.8/ls-android-client-4.2.8.jar returned status 404
+5.0.0		2023-07-11T08:47:10Z	
+5.0.0-beta.1		2023-03-16T09:41:16Z	
+5.0.0-beta.2		2023-04-05T09:28:57Z	
+5.0.0-beta.3		2023-06-22T07:27:14Z	
+5.1.0		2023-12-19T08:02:34Z	
+5.1.1		2024-01-31T13:23:28Z	
+5.1.1-a.1		2023-12-21T07:40:37Z	
+5.2.0		2024-08-27T07:52:01Z	
+5.2.1		2024-10-29T13:29:57Z	
+5.2.2		2025-02-25T09:59:13Z	
+5.3.0		2026-03-10T13:40:02Z	
+5.3.0-alpha.1		2026-02-09T09:39:00Z	
+5.3.1		2026-03-26T13:40:29Z	

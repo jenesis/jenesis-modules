@@ -1,0 +1,4 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/ehsannarmani/compose-plus/extensions-wasm-js/0.0.1/extensions-wasm-js-0.0.1.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/ehsannarmani/compose-plus/extensions-wasm-js/0.0.2/extensions-wasm-js-0.0.2.jar returned status 404
+0.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/ehsannarmani/compose-plus/extensions-wasm-js/0.0.2-beta/extensions-wasm-js-0.0.2-beta.jar returned status 404
+0.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/ehsannarmani/compose-plus/extensions-wasm-js/0.0.3-beta/extensions-wasm-js-0.0.3-beta.jar returned status 404

@@ -1,0 +1,6 @@
+1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/1.25.0/editor-1.25.0.jar returned status 404
+22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/22/editor-22.jar returned status 404
+23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/23/editor-23.jar returned status 404
+23.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/23.25.0/editor-23.25.0.jar returned status 404
+23.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/23.27.0/editor-23.27.0.jar returned status 404
+23.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ReleaseStandard/CodeEditor/editor/editor/23.28.0/editor-23.28.0.jar returned status 404

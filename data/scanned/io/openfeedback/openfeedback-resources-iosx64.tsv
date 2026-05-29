@@ -1,0 +1,14 @@
+"1.0.0-alpha.4"			IllegalArgumentException: Illegal character in path at index 46: io/openfeedback/openfeedback-resources-iosx64/"1.0.0-alpha.4"/openfeedback-resources-iosx64-"1.0.0-alpha.4".jar
+"1.0.0-alpha.4"	metadata		IllegalArgumentException: Illegal character in path at index 46: io/openfeedback/openfeedback-resources-iosx64/"1.0.0-alpha.4"/openfeedback-resources-iosx64-"1.0.0-alpha.4"-metadata.jar
+"1.0.0-alpha.5"			IllegalArgumentException: Illegal character in path at index 46: io/openfeedback/openfeedback-resources-iosx64/"1.0.0-alpha.5"/openfeedback-resources-iosx64-"1.0.0-alpha.5".jar
+"1.0.0-alpha.5"	metadata		IllegalArgumentException: Illegal character in path at index 46: io/openfeedback/openfeedback-resources-iosx64/"1.0.0-alpha.5"/openfeedback-resources-iosx64-"1.0.0-alpha.5"-metadata.jar
+1.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-resources-iosx64/1.0.0-alpha.1/openfeedback-resources-iosx64-1.0.0-alpha.1.jar returned status 404
+1.0.0-alpha.1	metadata	2024-07-13T00:12:05Z	
+1.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-resources-iosx64/1.0.0-alpha.2/openfeedback-resources-iosx64-1.0.0-alpha.2.jar returned status 404
+1.0.0-alpha.2	metadata	2024-07-15T08:09:51Z	
+1.0.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-resources-iosx64/1.0.0-alpha.3/openfeedback-resources-iosx64-1.0.0-alpha.3.jar returned status 404
+1.0.0-alpha.3	metadata	2024-07-16T19:46:31Z	
+1.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-resources-iosx64/1.0.0-alpha.4/openfeedback-resources-iosx64-1.0.0-alpha.4.jar returned status 404
+1.0.0-alpha.4	metadata	2025-03-11T00:03:17Z	
+1.0.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-resources-iosx64/1.0.0-alpha.6/openfeedback-resources-iosx64-1.0.0-alpha.6.jar returned status 404
+1.0.0-alpha.6	metadata	2025-03-11T08:30:14Z	

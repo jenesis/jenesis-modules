@@ -1,0 +1,4 @@
+1.0.0		2024-05-06T18:36:08Z	
+2.0.0		2024-05-13T15:03:13Z	
+2.1.0		2024-05-16T16:15:41Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/jsonpath/2.2.0/jsonpath-2.2.0.jar returned status 404

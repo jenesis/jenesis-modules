@@ -1,0 +1,31 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/1.0.0/stub-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.0.0/stub-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.1.0/stub-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.2.0/stub-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.3.0/stub-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.3.1/stub-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/2.3.2/stub-2.3.2.jar returned status 404
+2.3.2	debug-javadoc	2022-07-10T03:31:25Z	
+2.3.2	debug-sources	2022-07-10T03:31:30Z	
+2.3.2	release-javadoc	2022-07-10T03:31:40Z	
+2.3.2	release-sources	2022-07-10T03:31:38Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.0.0/stub-3.0.0.jar returned status 404
+3.0.0	debug-javadoc	2022-07-10T08:49:45Z	
+3.0.0	debug-sources	2022-07-10T08:49:38Z	
+3.0.0	release-javadoc	2022-07-10T08:49:43Z	
+3.0.0	release-sources	2022-07-10T08:49:37Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.1.0/stub-3.1.0.jar returned status 404
+3.1.0	debug-javadoc	2022-07-12T09:38:21Z	
+3.1.0	debug-sources	2022-07-12T09:38:33Z	
+3.1.0	release-javadoc	2022-07-12T09:38:28Z	
+3.1.0	release-sources	2022-07-12T09:38:23Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.2.0/stub-3.2.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.4.0/stub-3.4.0.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.4.2/stub-3.4.2.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/3.4.3/stub-3.4.3.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.1.0/stub-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.2.0/stub-4.2.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.3.1/stub-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.3.2/stub-4.3.2.jar returned status 404
+4.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.3.3/stub-4.3.3.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rikka/hidden/stub/4.4.0/stub-4.4.0.jar returned status 404

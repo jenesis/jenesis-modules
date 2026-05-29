@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroger/telemetry/context-aware/1.0.0/context-aware-1.0.0.jar returned status 404
+1.0.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroger/telemetry/context-aware/1.0.0-alpha.7/context-aware-1.0.0-alpha.7.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroger/telemetry/context-aware/1.1.0/context-aware-1.1.0.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroger/telemetry/context-aware/1.2.2/context-aware-1.2.2.jar returned status 404

@@ -1,0 +1,62 @@
+3.0.0-M1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2020-04-30T12:37:11Z	
+3.0.0-M2	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2020-11-12T07:25:12Z	
+3.0.0-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2020-11-13T13:25:18Z	
+3.0.0-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2020-12-07T10:57:39Z	
+3.0.0	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2020-12-08T10:14:03Z	
+3.0.1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2021-04-07T07:28:24Z	
+3.0.2-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2021-06-07T11:14:28Z	
+3.0.2-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2021-07-12T09:29:04Z	
+3.0.2	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2021-07-16T09:39:48Z	
+3.1.0-M1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2021-08-08T09:13:29Z	3.1.0-M1
+4.0.0-M1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2021-12-17T09:41:25Z	4.0.0-M1
+4.0.0-M2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2022-03-07T10:27:53Z	4.0.0-M2
+4.0.0-M3	named	org.eclipse.persistence	org.eclipse.persistence.corba	2022-03-11T12:20:18Z	4.0.0-M3
+3.0.3-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2022-04-13T06:19:29Z	
+3.0.3-RC2	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2022-04-23T19:09:33Z	
+3.0.3	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2022-08-19T11:41:08Z	
+4.0.0-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2022-09-01T08:09:50Z	4.0.0-RC1
+4.0.0-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2022-09-09T11:29:11Z	4.0.0-RC2
+4.0.0	named	org.eclipse.persistence	org.eclipse.persistence.corba	2022-10-05T19:38:59Z	4.0.0
+4.0.1-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-02-07T09:05:27Z	4.0.1-RC1
+4.0.1-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-02-22T11:50:56Z	4.0.1-RC2
+4.0.1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-02-24T11:34:21Z	4.0.1
+4.0.2-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-06-12T19:32:22Z	4.0.2-RC1
+4.0.2-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-06-15T07:20:40Z	4.0.2-RC2
+4.0.2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2023-06-16T12:23:37Z	4.0.2
+3.0.4-RC1	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2023-10-23T12:10:35Z	
+3.0.4	automatic	org.eclipse.persistence	org.eclipse.persistence.corba	2023-10-25T07:44:52Z	
+5.0.0-B01	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-03-01T13:28:13Z	5.0.0-B01
+5.0.0-B02	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-04-11T17:53:46Z	5.0.0-B02
+4.0.3-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-05-03T18:44:26Z	4.0.3-RC1
+4.0.3-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-05-17T07:57:02Z	4.0.3-RC2
+4.0.3	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-05-22T07:04:50Z	4.0.3
+4.0.4-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-07-15T11:12:30Z	4.0.4-RC1
+4.0.4	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-07-19T07:54:55Z	4.0.4
+5.0.0-B03	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-09-12T10:30:04Z	5.0.0-B03
+5.0.0-B04	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-11-19T18:25:16Z	5.0.0-B04
+5.0.0-B05	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-12-16T18:42:43Z	5.0.0-B05
+4.0.5-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-12-19T08:09:04Z	4.0.5-RC1
+4.0.5-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-12-20T10:16:35Z	4.0.5-RC2
+4.0.5-RC3	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-12-22T17:24:28Z	4.0.5-RC3
+4.0.5	named	org.eclipse.persistence	org.eclipse.persistence.corba	2024-12-23T11:43:09Z	4.0.5
+5.0.0-B06	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-02-01T10:30:07Z	5.0.0-B06
+5.0.0-B07	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-03-06T10:45:31Z	5.0.0-B07
+4.0.6-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-04-04T09:25:07Z	4.0.6-RC1
+4.0.6	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-04-09T08:15:12Z	4.0.6
+5.0.0-B08	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-05-28T09:55:08Z	5.0.0-B08
+4.0.7-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-06-12T12:01:38Z	4.0.7-RC1
+4.0.7-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-06-18T07:13:28Z	4.0.7-RC2
+4.0.7	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-06-24T08:05:05Z	4.0.7
+5.0.0-B09	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-07-11T11:59:38Z	5.0.0-B09
+5.0.0-B10	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-08-25T07:39:04Z	5.0.0-B10
+4.0.8-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-09-23T18:39:57Z	4.0.8-RC1
+4.0.8	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-09-25T07:58:43Z	4.0.8
+5.0.0-B11	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-10-06T14:06:07Z	5.0.0-B11
+5.0.0-B12	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-12-10T09:38:55Z	5.0.0-B12
+5.0.0-B13	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-12-11T14:55:13Z	5.0.0-B13
+4.0.9-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2025-12-22T07:46:02Z	4.0.9-RC1
+4.0.9	named	org.eclipse.persistence	org.eclipse.persistence.corba	2026-01-02T11:57:32Z	4.0.9
+5.0.0-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2026-03-10T07:21:28Z	5.0.0-RC1
+5.0.0-RC2	named	org.eclipse.persistence	org.eclipse.persistence.corba	2026-03-19T08:42:00Z	5.0.0-RC2
+5.0.0	named	org.eclipse.persistence	org.eclipse.persistence.corba	2026-03-23T09:32:11Z	5.0.0
+5.0.1-RC1	named	org.eclipse.persistence	org.eclipse.persistence.corba	2026-05-11T10:05:19Z	5.0.1-RC1

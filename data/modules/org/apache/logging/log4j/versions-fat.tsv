@@ -1,0 +1,16 @@
+0.1	named	org.jzenith	jzenith-example-mysql	2018-10-23T12:27:45Z	
+0.1	named	org.jzenith	jzenith-example-postgres	2018-10-23T12:28:33Z	
+0.1	named	org.jzenith	jzenith-example-postgres-plugin	2018-10-23T12:29:30Z	
+0.1	named	org.jzenith	jzenith-example-redis	2018-10-23T12:30:44Z	
+0.1	named	org.jzenith	jzenith-example-mongodb	2018-10-23T12:31:23Z	
+1.5.3.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2019-11-11T19:13:36Z	2.12.0
+1.5.4.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2019-11-14T16:34:25Z	2.12.0
+1.5.5.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2020-01-22T13:44:50Z	2.12.0
+0.1.0	named	de.klg71.keycloakmigration	keycloakmigration	2020-02-02T13:34:12Z	
+0.1.6	named	de.klg71.keycloakmigration	keycloakmigration	2020-03-11T09:47:33Z	
+0.1.15	named	de.klg71.keycloakmigration	keycloakmigration	2020-03-12T12:45:58Z	
+0.1.16	named	de.klg71.keycloakmigration	keycloakmigration	2020-03-13T09:50:47Z	
+2.0.0.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2020-10-13T18:19:23Z	2.12.0
+1.5.7.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2020-11-02T13:37:50Z	2.12.0
+1.5.6.Final	named	io.apiman	apiman-gateway-platforms-vertx3	2020-11-02T17:13:16Z	2.12.0
+1.3.2	named	com.yahoo.bullet	bullet-storm	2022-01-11T23:56:59Z	2.17.1

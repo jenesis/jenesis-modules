@@ -1,0 +1,3 @@
+2.10.1	automatic	ai.djl.tensorflow	tensorflow-native-cpu
+2.7.4	automatic	ai.djl.tensorflow	tensorflow-native-cu113
+2.7.0	automatic	ai.djl.tensorflow	tensorflow-native-cu113

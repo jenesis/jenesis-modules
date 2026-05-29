@@ -1,0 +1,5 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/enmy/meaning/0.1.0/meaning-0.1.0.jar returned status 404
+0.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/enmy/meaning/0.1.0-alpha01/meaning-0.1.0-alpha01.jar returned status 404
+0.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/enmy/meaning/0.1.0-beta01/meaning-0.1.0-beta01.jar returned status 404
+0.1.0-canary01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/enmy/meaning/0.1.0-canary01/meaning-0.1.0-canary01.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/enmy/meaning/0.1.1/meaning-0.1.1.jar returned status 404

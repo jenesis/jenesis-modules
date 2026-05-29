@@ -1,0 +1,5 @@
+22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fryske-akademy/CrudApi/22.0/CrudApi-22.0.jar returned status 404
+22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fryske-akademy/CrudApi/22.1/CrudApi-22.1.jar returned status 404
+22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fryske-akademy/CrudApi/22.2/CrudApi-22.2.jar returned status 404
+23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fryske-akademy/CrudApi/23.0/CrudApi-23.0.jar returned status 404
+23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fryske-akademy/CrudApi/23.1/CrudApi-23.1.jar returned status 404

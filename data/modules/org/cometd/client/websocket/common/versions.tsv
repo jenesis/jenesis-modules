@@ -1,0 +1,82 @@
+5.0.0-BETA0	automatic	org.cometd.java	cometd-java-client-websocket-common	2019-11-05T18:20:33Z	
+5.0.0-BETA1	automatic	org.cometd.java	cometd-java-client-websocket-common	2019-12-23T16:50:18Z	
+5.0.0	automatic	org.cometd.java	cometd-java-client-websocket-common	2020-04-16T11:05:50Z	
+5.0.1	automatic	org.cometd.java	cometd-java-client-websocket-common	2020-07-15T15:54:11Z	
+5.0.2	automatic	org.cometd.java	cometd-java-client-websocket-common	2020-10-27T17:25:20Z	
+5.0.3	automatic	org.cometd.java	cometd-java-client-websocket-common	2020-12-21T16:05:08Z	
+6.0.0	named	org.cometd.java	cometd-java-client-websocket-common	2020-12-21T17:41:23Z	6.0.0
+7.0.0	named	org.cometd.java	cometd-java-client-websocket-common	2020-12-21T18:55:47Z	7.0.0
+5.0.4	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-01-21T17:41:33Z	
+5.0.5	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-03-02T09:27:30Z	
+6.0.1	named	org.cometd.java	cometd-java-client-websocket-common	2021-03-02T13:21:56Z	6.0.1
+7.0.1	named	org.cometd.java	cometd-java-client-websocket-common	2021-03-02T14:41:17Z	7.0.1
+5.0.6	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-03-29T15:06:31Z	
+6.0.2	named	org.cometd.java	cometd-java-client-websocket-common	2021-03-29T15:31:22Z	6.0.2
+7.0.2	named	org.cometd.java	cometd-java-client-websocket-common	2021-03-29T21:11:34Z	7.0.2
+5.0.7	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-04-29T10:27:04Z	
+5.0.8	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-06-09T14:08:08Z	
+6.0.3	named	org.cometd.java	cometd-java-client-websocket-common	2021-06-09T14:25:20Z	6.0.3
+7.0.3	named	org.cometd.java	cometd-java-client-websocket-common	2021-06-09T14:58:05Z	7.0.3
+5.0.9	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-07-12T15:52:57Z	
+6.0.4	named	org.cometd.java	cometd-java-client-websocket-common	2021-07-12T16:20:10Z	6.0.4
+5.0.10	automatic	org.cometd.java	cometd-java-client-websocket-common	2021-11-25T19:08:46Z	
+6.0.5	named	org.cometd.java	cometd-java-client-websocket-common	2021-11-25T21:31:47Z	6.0.5
+7.0.5	named	org.cometd.java	cometd-java-client-websocket-common	2021-11-25T21:44:51Z	7.0.5
+5.0.11	automatic	org.cometd.java	cometd-java-client-websocket-common	2022-02-25T13:29:03Z	
+6.0.6	named	org.cometd.java	cometd-java-client-websocket-common	2022-02-25T16:59:30Z	6.0.6
+7.0.6	named	org.cometd.java	cometd-java-client-websocket-common	2022-02-25T17:08:52Z	7.0.6
+5.0.12	automatic	org.cometd.java	cometd-java-client-websocket-common	2022-06-23T07:11:38Z	
+6.0.7	named	org.cometd.java	cometd-java-client-websocket-common	2022-06-23T07:53:10Z	6.0.7
+7.0.7	named	org.cometd.java	cometd-java-client-websocket-common	2022-06-23T08:54:44Z	7.0.7
+5.0.13	automatic	org.cometd.java	cometd-java-client-websocket-common	2022-07-28T15:39:46Z	
+6.0.8	named	org.cometd.java	cometd-java-client-websocket-common	2022-07-28T16:00:59Z	6.0.8
+7.0.8	named	org.cometd.java	cometd-java-client-websocket-common	2022-07-28T16:15:32Z	7.0.8
+5.0.14	automatic	org.cometd.java	cometd-java-client-websocket-common	2022-10-13T16:01:52Z	
+6.0.9	named	org.cometd.java	cometd-java-client-websocket-common	2022-10-13T17:32:22Z	6.0.9
+7.0.9	named	org.cometd.java	cometd-java-client-websocket-common	2022-10-13T17:51:35Z	7.0.9
+5.0.15	automatic	org.cometd.java	cometd-java-client-websocket-common	2023-03-20T15:11:47Z	
+6.0.10	named	org.cometd.java	cometd-java-client-websocket-common	2023-03-20T15:33:57Z	6.0.10
+7.0.10	named	org.cometd.java	cometd-java-client-websocket-common	2023-03-20T15:47:22Z	7.0.10
+5.0.16	automatic	org.cometd.java	cometd-java-client-websocket-common	2023-10-30T21:42:57Z	
+6.0.11	named	org.cometd.java	cometd-java-client-websocket-common	2023-10-30T23:55:40Z	6.0.11
+7.0.11	named	org.cometd.java	cometd-java-client-websocket-common	2023-10-31T10:02:43Z	7.0.11
+8.0.0.beta0	named	org.cometd.java	cometd-java-client-websocket-common	2023-10-31T18:14:31Z	8.0.0.beta0
+8.0.0.beta1	named	org.cometd.java	cometd-java-client-websocket-common	2023-12-20T10:27:02Z	8.0.0.beta1
+6.0.12	named	org.cometd.java	cometd-java-client-websocket-common	2024-02-07T18:52:56Z	6.0.12
+7.0.12	named	org.cometd.java	cometd-java-client-websocket-common	2024-02-07T20:56:51Z	7.0.12
+8.0.0.beta2	named	org.cometd.java	cometd-java-client-websocket-common	2024-02-07T21:19:08Z	8.0.0.beta2
+5.0.17	automatic	org.cometd.java	cometd-java-client-websocket-common	2024-02-14T16:33:14Z	
+5.0.18	automatic	org.cometd.java	cometd-java-client-websocket-common	2024-04-19T08:16:28Z	
+6.0.13	named	org.cometd.java	cometd-java-client-websocket-common	2024-04-19T13:35:50Z	6.0.13
+7.0.13	named	org.cometd.java	cometd-java-client-websocket-common	2024-04-19T15:25:42Z	7.0.13
+8.0.0.beta3	named	org.cometd.java	cometd-java-client-websocket-common	2024-04-19T16:33:52Z	8.0.0.beta3
+6.0.14	named	org.cometd.java	cometd-java-client-websocket-common	2024-05-16T14:25:00Z	6.0.14
+7.0.14	named	org.cometd.java	cometd-java-client-websocket-common	2024-05-16T14:54:44Z	7.0.14
+8.0.0	named	org.cometd.java	cometd-java-client-websocket-common	2024-05-16T15:54:13Z	8.0.0
+8.0.1	named	org.cometd.java	cometd-java-client-websocket-common	2024-05-21T14:42:03Z	8.0.1
+5.0.19	automatic	org.cometd.java	cometd-java-client-websocket-common	2024-06-03T08:43:15Z	
+6.0.15	named	org.cometd.java	cometd-java-client-websocket-common	2024-06-03T14:30:07Z	6.0.15
+7.0.15	named	org.cometd.java	cometd-java-client-websocket-common	2024-06-03T15:01:37Z	7.0.15
+8.0.2	named	org.cometd.java	cometd-java-client-websocket-common	2024-06-03T15:21:39Z	8.0.2
+5.0.20	automatic	org.cometd.java	cometd-java-client-websocket-common	2024-07-30T07:10:17Z	
+6.0.16	named	org.cometd.java	cometd-java-client-websocket-common	2024-07-30T08:21:06Z	6.0.16
+7.0.16	named	org.cometd.java	cometd-java-client-websocket-common	2024-07-30T08:41:11Z	7.0.16
+8.0.3	named	org.cometd.java	cometd-java-client-websocket-common	2024-07-30T10:23:48Z	8.0.3
+8.0.4	named	org.cometd.java	cometd-java-client-websocket-common	2024-08-13T14:22:54Z	8.0.4
+5.0.21	automatic	org.cometd.java	cometd-java-client-websocket-common	2024-09-09T08:24:38Z	
+6.0.17	named	org.cometd.java	cometd-java-client-websocket-common	2024-09-09T08:49:30Z	6.0.17
+7.0.17	named	org.cometd.java	cometd-java-client-websocket-common	2024-09-09T09:09:09Z	7.0.17
+8.0.5	named	org.cometd.java	cometd-java-client-websocket-common	2024-09-09T09:22:28Z	8.0.5
+8.0.6	named	org.cometd.java	cometd-java-client-websocket-common	2024-10-01T20:50:06Z	8.0.6
+8.0.7	named	org.cometd.java	cometd-java-client-websocket-common	2025-03-06T11:03:44Z	8.0.7
+8.0.8	named	org.cometd.java	cometd-java-client-websocket-common	2025-05-13T09:41:49Z	8.0.8
+8.0.9	named	org.cometd.java	cometd-java-client-websocket-common	2025-07-08T17:56:52Z	8.0.9
+5.0.22	automatic	org.cometd.java	cometd-java-client-websocket-common	2025-08-14T13:40:59Z	
+6.0.18	named	org.cometd.java	cometd-java-client-websocket-common	2025-08-15T14:34:45Z	6.0.18
+7.0.18	named	org.cometd.java	cometd-java-client-websocket-common	2025-08-15T15:16:00Z	7.0.18
+8.0.10	named	org.cometd.java	cometd-java-client-websocket-common	2025-08-15T16:45:04Z	8.0.10
+6.0.19	named	org.cometd.java	cometd-java-client-websocket-common	2025-08-19T13:59:24Z	6.0.19
+7.0.19	named	org.cometd.java	cometd-java-client-websocket-common	2025-08-19T14:10:58Z	7.0.19
+5.0.23	automatic	org.cometd.java	cometd-java-client-websocket-common	2025-08-19T17:18:29Z	
+8.0.11	named	org.cometd.java	cometd-java-client-websocket-common	2025-10-09T13:39:09Z	8.0.11
+9.0.0	named	org.cometd.java	cometd-java-client-websocket-common	2025-10-10T09:26:47Z	9.0.0

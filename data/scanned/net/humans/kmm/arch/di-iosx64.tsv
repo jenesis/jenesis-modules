@@ -1,0 +1,4 @@
+2023.07.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/humans/kmm/arch/di-iosx64/2023.07.08/di-iosx64-2023.07.08.jar returned status 404
+2023.07.08	metadata	2023-07-07T22:45:30Z	
+2023.07.08-TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/humans/kmm/arch/di-iosx64/2023.07.08-TEST/di-iosx64-2023.07.08-TEST.jar returned status 404
+2023.07.08-TEST	metadata	2023-07-07T22:03:56Z	

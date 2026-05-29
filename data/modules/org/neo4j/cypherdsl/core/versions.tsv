@@ -1,0 +1,113 @@
+2020.0.0	automatic	org.neo4j	neo4j-cypher-dsl	2020-07-01T11:11:49Z	
+2020.0.1	automatic	org.neo4j	neo4j-cypher-dsl	2020-07-27T11:58:57Z	
+2020.1.0	automatic	org.neo4j	neo4j-cypher-dsl	2020-09-14T08:11:34Z	
+2020.1.1	automatic	org.neo4j	neo4j-cypher-dsl	2020-10-01T07:08:40Z	
+2020.1.2	automatic	org.neo4j	neo4j-cypher-dsl	2020-11-19T15:28:02Z	
+2020.1.3	automatic	org.neo4j	neo4j-cypher-dsl	2020-12-02T15:14:32Z	
+2020.1.4	automatic	org.neo4j	neo4j-cypher-dsl	2021-01-11T15:59:35Z	
+2020.1.6	automatic	org.neo4j	neo4j-cypher-dsl	2021-01-25T09:59:43Z	
+2021.0.0	automatic	org.neo4j	neo4j-cypher-dsl	2021-02-15T10:10:34Z	
+2021.0.1	automatic	org.neo4j	neo4j-cypher-dsl	2021-02-18T12:32:33Z	
+2021.0.2	automatic	org.neo4j	neo4j-cypher-dsl	2021-03-09T11:52:27Z	
+2021.1.0	automatic	org.neo4j	neo4j-cypher-dsl	2021-03-15T16:33:22Z	
+2021.1.1	automatic	org.neo4j	neo4j-cypher-dsl	2021-03-15T18:09:03Z	
+2021.1.2	automatic	org.neo4j	neo4j-cypher-dsl	2021-04-09T13:22:55Z	
+2021.2.0	named	org.neo4j	neo4j-cypher-dsl	2021-04-13T12:02:51Z	2021.2.0
+2021.2.1	named	org.neo4j	neo4j-cypher-dsl	2021-05-10T08:54:13Z	2021.2.1
+2021.2.2	named	org.neo4j	neo4j-cypher-dsl	2021-06-11T10:22:30Z	2021.2.2
+2021.2.3	named	org.neo4j	neo4j-cypher-dsl	2021-07-05T12:10:22Z	2021.2.3
+2021.3.0	named	org.neo4j	neo4j-cypher-dsl	2021-07-08T13:31:00Z	2021.3.0
+2021.3.1	named	org.neo4j	neo4j-cypher-dsl	2021-07-29T09:22:23Z	2021.3.1
+2021.3.2	named	org.neo4j	neo4j-cypher-dsl	2021-09-24T12:50:50Z	2021.3.2
+2021.2.4	named	org.neo4j	neo4j-cypher-dsl	2021-09-28T09:05:02Z	2021.2.4
+2021.3.3	named	org.neo4j	neo4j-cypher-dsl	2021-10-27T10:12:57Z	2021.3.3
+2021.4.0	named	org.neo4j	neo4j-cypher-dsl	2021-10-27T10:44:34Z	2021.4.0
+2021.4.1	named	org.neo4j	neo4j-cypher-dsl	2021-11-11T10:57:01Z	2021.4.1
+2021.3.4	named	org.neo4j	neo4j-cypher-dsl	2021-11-16T09:34:49Z	2021.3.4
+2021.4.2	named	org.neo4j	neo4j-cypher-dsl	2021-11-16T09:59:28Z	2021.4.2
+2022.0.0	named	org.neo4j	neo4j-cypher-dsl	2021-12-20T11:15:32Z	2022.0.0
+2022.1.0	named	org.neo4j	neo4j-cypher-dsl	2022-01-31T09:26:41Z	2022.1.0
+2022.2.0	named	org.neo4j	neo4j-cypher-dsl	2022-02-25T07:49:31Z	2022.2.0
+2022.2.1	named	org.neo4j	neo4j-cypher-dsl	2022-03-28T08:02:09Z	2022.2.1
+2022.3.0	named	org.neo4j	neo4j-cypher-dsl	2022-04-11T09:05:48Z	2022.3.0
+2022.4.0	named	org.neo4j	neo4j-cypher-dsl	2022-05-09T14:18:39Z	2022.4.0
+2022.5.0	named	org.neo4j	neo4j-cypher-dsl	2022-06-27T11:08:30Z	2022.5.0
+2022.6.0	named	org.neo4j	neo4j-cypher-dsl	2022-07-11T08:59:11Z	2022.6.0
+2022.6.1	named	org.neo4j	neo4j-cypher-dsl	2022-07-29T09:10:19Z	2022.6.1
+2022.7.0	named	org.neo4j	neo4j-cypher-dsl	2022-08-08T08:59:04Z	2022.7.0
+2022.7.1	named	org.neo4j	neo4j-cypher-dsl	2022-08-22T08:45:15Z	2022.7.1
+2022.7.2	named	org.neo4j	neo4j-cypher-dsl	2022-09-08T18:45:16Z	2022.7.2
+2022.7.3	named	org.neo4j	neo4j-cypher-dsl	2022-10-17T08:57:40Z	2022.7.3
+2022.8.0	named	org.neo4j	neo4j-cypher-dsl	2022-11-21T10:05:20Z	2022.8.0
+2022.8.1	named	org.neo4j	neo4j-cypher-dsl	2022-12-08T12:36:24Z	2022.8.1
+2022.8.2	named	org.neo4j	neo4j-cypher-dsl	2022-12-19T12:40:02Z	2022.8.2
+2022.8.3	named	org.neo4j	neo4j-cypher-dsl	2023-01-10T08:50:12Z	2022.8.3
+2023.0.0	named	org.neo4j	neo4j-cypher-dsl	2023-01-10T09:51:55Z	2023.0.0
+2023.0.1	named	org.neo4j	neo4j-cypher-dsl	2023-01-19T17:18:41Z	2023.0.1
+2023.0.2	named	org.neo4j	neo4j-cypher-dsl	2023-01-24T10:26:46Z	2023.0.2
+2022.8.4	named	org.neo4j	neo4j-cypher-dsl	2023-02-07T09:08:52Z	2022.8.4
+2023.0.3	named	org.neo4j	neo4j-cypher-dsl	2023-02-07T12:22:56Z	2023.0.3
+2022.8.5	named	org.neo4j	neo4j-cypher-dsl	2023-02-27T14:47:23Z	2022.8.5
+2023.0.4	named	org.neo4j	neo4j-cypher-dsl	2023-02-27T15:19:01Z	2023.0.4
+2023.1.0	named	org.neo4j	neo4j-cypher-dsl	2023-02-27T18:26:11Z	2023.1.0
+2023.2.0	named	org.neo4j	neo4j-cypher-dsl	2023-03-20T10:02:56Z	2023.2.0
+2023.2.1	named	org.neo4j	neo4j-cypher-dsl	2023-03-27T10:05:47Z	2023.2.1
+2023.3.0	named	org.neo4j	neo4j-cypher-dsl	2023-04-17T07:22:28Z	2023.3.0
+2023.3.1	named	org.neo4j	neo4j-cypher-dsl	2023-05-08T09:09:23Z	2023.3.1
+2023.3.2	named	org.neo4j	neo4j-cypher-dsl	2023-05-31T14:04:45Z	2023.3.2
+2023.4.0	named	org.neo4j	neo4j-cypher-dsl	2023-06-20T07:38:27Z	2023.4.0
+2023.5.0	named	org.neo4j	neo4j-cypher-dsl	2023-07-03T12:42:20Z	2023.5.0
+2022.9.0	named	org.neo4j	neo4j-cypher-dsl	2023-07-24T11:43:40Z	2022.9.0
+2023.6.0	named	org.neo4j	neo4j-cypher-dsl	2023-08-07T10:01:21Z	2023.6.0
+2023.6.1	named	org.neo4j	neo4j-cypher-dsl	2023-09-04T10:31:12Z	2023.6.1
+2023.7.0	named	org.neo4j	neo4j-cypher-dsl	2023-09-06T18:22:34Z	2023.7.0
+2022.9.1	named	org.neo4j	neo4j-cypher-dsl	2023-10-16T12:06:13Z	2022.9.1
+2023.0.5	named	org.neo4j	neo4j-cypher-dsl	2023-10-16T12:14:33Z	2023.0.5
+2023.7.1	named	org.neo4j	neo4j-cypher-dsl	2023-10-16T12:23:45Z	2023.7.1
+2023.8.0	named	org.neo4j	neo4j-cypher-dsl	2023-10-31T10:46:52Z	2023.8.0
+2023.8.1	named	org.neo4j	neo4j-cypher-dsl	2023-11-06T10:49:24Z	2023.8.1
+2023.9.0	named	org.neo4j	neo4j-cypher-dsl	2023-11-24T08:55:36Z	2023.9.0
+2023.9.1	named	org.neo4j	neo4j-cypher-dsl	2023-12-18T10:18:37Z	2023.9.1
+2023.9.2	named	org.neo4j	neo4j-cypher-dsl	2024-01-15T09:32:33Z	2023.9.2
+2023.9.3	named	org.neo4j	neo4j-cypher-dsl	2024-01-29T09:49:48Z	2023.9.3
+2023.9.4	named	org.neo4j	neo4j-cypher-dsl	2024-02-26T12:02:55Z	2023.9.4
+2023.9.5	named	org.neo4j	neo4j-cypher-dsl	2024-03-18T14:03:57Z	2023.9.5
+2022.9.2	named	org.neo4j	neo4j-cypher-dsl	2024-04-10T10:35:07Z	2022.9.2
+2023.9.6	named	org.neo4j	neo4j-cypher-dsl	2024-04-12T13:27:00Z	2023.9.6
+2023.9.7	named	org.neo4j	neo4j-cypher-dsl	2024-04-29T07:57:28Z	2023.9.7
+2024.0.0	named	org.neo4j	neo4j-cypher-dsl	2024-06-10T08:16:50Z	2024.0.0
+2024.0.1	named	org.neo4j	neo4j-cypher-dsl	2024-06-17T13:45:12Z	2024.0.1
+2023.9.8	named	org.neo4j	neo4j-cypher-dsl	2024-06-25T04:52:23Z	2023.9.8
+2024.0.2	named	org.neo4j	neo4j-cypher-dsl	2024-07-09T13:33:45Z	2024.0.2
+2024.0.3	named	org.neo4j	neo4j-cypher-dsl	2024-08-19T11:40:16Z	2024.0.3
+2022.10.0	named	org.neo4j	neo4j-cypher-dsl	2024-09-06T10:16:11Z	2022.10.0
+2024.1.0	named	org.neo4j	neo4j-cypher-dsl	2024-09-09T08:51:21Z	2024.1.0
+2022.11.0	named	org.neo4j	neo4j-cypher-dsl	2024-09-13T14:16:49Z	2022.11.0
+2024.2.0	named	org.neo4j	neo4j-cypher-dsl	2024-09-30T08:07:16Z	2024.2.0
+2024.3.0	named	org.neo4j	neo4j-cypher-dsl	2024-12-09T14:31:49Z	2024.3.0
+2024.3.1	named	org.neo4j	neo4j-cypher-dsl	2024-12-12T15:02:38Z	2024.3.1
+2024.3.2	named	org.neo4j	neo4j-cypher-dsl	2024-12-16T09:47:29Z	2024.3.2
+2024.4.0	named	org.neo4j	neo4j-cypher-dsl	2024-12-20T11:09:38Z	2024.4.0
+2024.4.1	named	org.neo4j	neo4j-cypher-dsl	2025-02-13T15:05:22Z	2024.4.1
+2024.5.0	named	org.neo4j	neo4j-cypher-dsl	2025-02-25T13:49:22Z	2024.5.0
+2024.5.1	named	org.neo4j	neo4j-cypher-dsl	2025-03-19T09:33:50Z	2024.5.1
+2024.6.0	named	org.neo4j	neo4j-cypher-dsl	2025-05-05T12:54:35Z	2024.6.0
+2024.6.1	named	org.neo4j	neo4j-cypher-dsl	2025-05-12T09:11:29Z	2024.6.1
+2024.7.0	named	org.neo4j	neo4j-cypher-dsl	2025-05-26T07:22:54Z	2024.7.0
+2024.7.1	named	org.neo4j	neo4j-cypher-dsl	2025-06-26T19:06:17Z	2024.7.1
+2024.7.2	named	org.neo4j	neo4j-cypher-dsl	2025-07-31T13:13:47Z	2024.7.2
+2024.7.3	named	org.neo4j	neo4j-cypher-dsl	2025-08-22T09:50:07Z	2024.7.3
+2025.0.0	named	org.neo4j	neo4j-cypher-dsl	2025-08-22T10:35:17Z	2025.0.0
+2025.0.1	named	org.neo4j	neo4j-cypher-dsl	2025-09-01T09:44:36Z	2025.0.1
+2025.0.2	named	org.neo4j	neo4j-cypher-dsl	2025-09-17T08:20:26Z	2025.0.2
+2024.7.4	named	org.neo4j	neo4j-cypher-dsl	2025-09-25T11:14:11Z	2024.7.4
+2025.0.3	named	org.neo4j	neo4j-cypher-dsl	2025-09-25T11:22:39Z	2025.0.3
+2025.1.0	named	org.neo4j	neo4j-cypher-dsl	2025-10-13T10:36:04Z	2025.1.0
+2025.2.0	named	org.neo4j	neo4j-cypher-dsl	2025-10-31T08:59:52Z	2025.2.0
+2025.2.1	named	org.neo4j	neo4j-cypher-dsl	2025-12-03T09:17:22Z	2025.2.1
+2025.2.2	named	org.neo4j	neo4j-cypher-dsl	2025-12-18T10:37:47Z	2025.2.2
+2025.2.3	named	org.neo4j	neo4j-cypher-dsl	2026-01-16T11:47:34Z	2025.2.3
+2025.2.4	named	org.neo4j	neo4j-cypher-dsl	2026-02-17T09:17:40Z	2025.2.4
+2025.2.5	named	org.neo4j	neo4j-cypher-dsl	2026-03-19T10:14:28Z	2025.2.5
+2025.2.6	named	org.neo4j	neo4j-cypher-dsl	2026-04-02T14:00:22Z	2025.2.6
+2025.2.7	named	org.neo4j	neo4j-cypher-dsl	2026-05-04T09:16:00Z	2025.2.7

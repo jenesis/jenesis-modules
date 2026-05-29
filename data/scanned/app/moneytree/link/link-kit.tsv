@@ -1,0 +1,40 @@
+6.0.2-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.0.2-alpha02/link-kit-6.0.2-alpha02.jar returned status 404
+6.0.2-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.0.2-alpha03/link-kit-6.0.2-alpha03.jar returned status 404
+6.0.2-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.0.2-alpha04/link-kit-6.0.2-alpha04.jar returned status 404
+6.0.2-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.0.2-beta01/link-kit-6.0.2-beta01.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.0/link-kit-6.1.0.jar returned status 404
+6.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.0-beta01/link-kit-6.1.0-beta01.jar returned status 404
+6.1.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.0-beta02/link-kit-6.1.0-beta02.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.1/link-kit-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.2/link-kit-6.1.2.jar returned status 404
+6.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.3/link-kit-6.1.3.jar returned status 404
+6.1.3	debug-javadoc	2022-03-14T10:11:44Z	
+6.1.3	debug-sources	2022-03-14T10:11:43Z	
+6.1.3	release-javadoc	2022-03-14T10:11:44Z	
+6.1.3	release-sources	2022-03-14T10:11:43Z	
+6.1.3-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.3-beta02/link-kit-6.1.3-beta02.jar returned status 404
+6.1.3-beta02	debug-javadoc	2022-03-04T08:28:49Z	
+6.1.3-beta02	debug-sources	2022-03-04T08:28:50Z	
+6.1.3-beta02	release-javadoc	2022-03-04T08:28:49Z	
+6.1.3-beta02	release-sources	2022-03-04T08:28:50Z	
+6.1.3-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.1.3-beta03/link-kit-6.1.3-beta03.jar returned status 404
+6.1.3-beta03	debug-javadoc	2022-03-08T03:09:02Z	
+6.1.3-beta03	debug-sources	2022-03-08T03:09:04Z	
+6.1.3-beta03	release-javadoc	2022-03-08T03:09:02Z	
+6.1.3-beta03	release-sources	2022-03-08T03:09:02Z	
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.2.0/link-kit-6.2.0.jar returned status 404
+6.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.2.0-beta01/link-kit-6.2.0-beta01.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.2.1/link-kit-6.2.1.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.3.0/link-kit-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.4.0/link-kit-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.5.0/link-kit-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.5.1/link-kit-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.5.2/link-kit-6.5.2.jar returned status 404
+6.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.5.3/link-kit-6.5.3.jar returned status 404
+6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.5.4/link-kit-6.5.4.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.6.0/link-kit-6.6.0.jar returned status 404
+6.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.6.1/link-kit-6.6.1.jar returned status 404
+6.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.6.2/link-kit-6.6.2.jar returned status 404
+6.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.6.3/link-kit-6.6.3.jar returned status 404
+6.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.6.4/link-kit-6.6.4.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/link-kit/6.7.0/link-kit-6.7.0.jar returned status 404

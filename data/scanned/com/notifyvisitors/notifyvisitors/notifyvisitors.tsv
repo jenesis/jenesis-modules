@@ -1,0 +1,43 @@
+v5.4.0		2023-09-25T08:20:56Z	
+v5.4.1		2023-09-28T12:10:42Z	
+v5.4.1.0		2023-09-28T13:05:45Z	
+v5.4.10		2024-04-16T06:57:13Z	
+v5.4.10.1		2024-04-16T09:19:34Z	
+v5.4.10.2		2024-04-23T04:48:28Z	
+v5.4.10.3		2024-04-23T12:39:32Z	
+v5.4.10.4		2024-06-14T13:47:53Z	
+v5.4.10.5		2024-07-16T11:01:37Z	
+v5.4.10.6		2024-11-08T06:13:01Z	
+v5.4.11		2025-01-15T07:36:59Z	
+v5.4.12		2025-04-22T06:37:31Z	
+v5.4.2		2023-10-18T10:30:34Z	
+v5.4.3		2023-10-27T06:41:25Z	
+v5.4.4		2023-11-29T12:21:17Z	
+v5.4.5		2023-12-15T09:55:15Z	
+v5.4.6		2023-12-29T13:31:33Z	
+v5.4.7		2024-01-08T09:48:08Z	
+v5.4.7.1		2024-01-18T06:39:11Z	
+v5.4.8		2024-02-22T08:04:47Z	
+v5.4.9		2024-03-22T06:37:54Z	
+v5.4.9.1		2024-04-16T05:47:17Z	
+v5.4.9.2		2024-04-16T09:36:05Z	
+v5.4.9.3		2024-06-14T07:55:11Z	
+v5.4.9.4		2024-07-19T06:01:36Z	
+v5.5.0		2025-05-05T13:45:13Z	
+v5.5.1		2025-05-19T14:32:06Z	
+v5.5.1.1		2025-05-21T14:37:24Z	
+v5.5.2		2025-06-12T04:43:23Z	
+v5.5.3		2025-06-16T12:16:47Z	
+v5.5.3.1		2025-06-24T06:30:01Z	
+v5.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.5.4/notifyvisitors-v5.5.4.jar returned status 404
+v5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.6.0/notifyvisitors-v5.6.0.jar returned status 404
+v5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.6.1/notifyvisitors-v5.6.1.jar returned status 404
+v5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.6.2/notifyvisitors-v5.6.2.jar returned status 404
+v5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.7.0/notifyvisitors-v5.7.0.jar returned status 404
+v5.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.7.0.1/notifyvisitors-v5.7.0.1.jar returned status 404
+v5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.7.1/notifyvisitors-v5.7.1.jar returned status 404
+v5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.7.2/notifyvisitors-v5.7.2.jar returned status 404
+v5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.8.0/notifyvisitors-v5.8.0.jar returned status 404
+v5.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.8.1/notifyvisitors-v5.8.1.jar returned status 404
+v5.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.8.2/notifyvisitors-v5.8.2.jar returned status 404
+v5.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/notifyvisitors/notifyvisitors/notifyvisitors/v5.8.3/notifyvisitors-v5.8.3.jar returned status 404

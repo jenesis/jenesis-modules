@@ -1,0 +1,3 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/openfeature/split-openfeature-android/1.0.0/split-openfeature-android-1.0.0.jar returned status 404
+1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/openfeature/split-openfeature-android/1.0.0-rc1/split-openfeature-android-1.0.0-rc1.jar returned status 404
+1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/openfeature/split-openfeature-android/1.0.0-rc2/split-openfeature-android-1.0.0-rc2.jar returned status 404

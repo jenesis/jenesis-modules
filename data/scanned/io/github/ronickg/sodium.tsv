@@ -1,0 +1,4 @@
+1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/sodium/1.0.19/sodium-1.0.19.jar returned status 404
+1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/sodium/1.0.20/sodium-1.0.20.jar returned status 404
+1.0.20-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/sodium/1.0.20-1/sodium-1.0.20-1.jar returned status 404
+1.0.22-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/sodium/1.0.22-1/sodium-1.0.22-1.jar returned status 404

@@ -1,0 +1,4 @@
+5.12.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/rtc_lib/5.12.0.50/rtc_lib-5.12.0.50.jar returned status 404
+5.2.1.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/rtc_lib/5.2.1.52/rtc_lib-5.2.1.52.jar returned status 404
+5.2.1.52_fix_1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/rtc_lib/5.2.1.52_fix_1/rtc_lib-5.2.1.52_fix_1.jar returned status 404
+5.6.2.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/rtc_lib/5.6.2.50/rtc_lib-5.6.2.50.jar returned status 404

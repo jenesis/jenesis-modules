@@ -1,0 +1,6 @@
+24.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sschr15/annotations/jb-annotations-kmp-iosarm64/24.0.1/jb-annotations-kmp-iosarm64-24.0.1.jar returned status 404
+24.0.1	metadata	2023-10-05T02:21:06Z	
+24.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sschr15/annotations/jb-annotations-kmp-iosarm64/24.1.0/jb-annotations-kmp-iosarm64-24.1.0.jar returned status 404
+24.1.0	metadata	2023-12-11T20:11:10Z	
+24.1.0+apple			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sschr15/annotations/jb-annotations-kmp-iosarm64/24.1.0+apple/jb-annotations-kmp-iosarm64-24.1.0+apple.jar returned status 404
+24.1.0+apple	metadata	2024-09-20T00:31:00Z	

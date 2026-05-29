@@ -1,0 +1,6 @@
+0.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fhilgers/testing/sqlitenity-interop-iosx64/0.0.0.1/sqlitenity-interop-iosx64-0.0.0.1.jar returned status 404
+0.0.0.1	metadata	2026-01-21T14:20:05Z	
+0.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fhilgers/testing/sqlitenity-interop-iosx64/0.0.0.2/sqlitenity-interop-iosx64-0.0.0.2.jar returned status 404
+0.0.0.2	metadata	2026-01-21T14:48:08Z	
+0.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fhilgers/testing/sqlitenity-interop-iosx64/0.0.0.3/sqlitenity-interop-iosx64-0.0.0.3.jar returned status 404
+0.0.0.3	metadata	2026-01-21T15:52:54Z	

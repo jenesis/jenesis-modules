@@ -1,0 +1,4 @@
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/maven-manipulator/pom-manipulation-parent/5.0/pom-manipulation-parent-5.0.jar returned status 404
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/maven-manipulator/pom-manipulation-parent/5.1/pom-manipulation-parent-5.1.jar returned status 404
+5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/maven-manipulator/pom-manipulation-parent/5.2/pom-manipulation-parent-5.2.jar returned status 404
+5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/maven-manipulator/pom-manipulation-parent/5.3/pom-manipulation-parent-5.3.jar returned status 404

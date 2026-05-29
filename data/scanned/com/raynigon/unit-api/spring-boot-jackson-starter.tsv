@@ -1,0 +1,15 @@
+2.0.0		2022-04-03T19:50:31Z	
+2.0.1		2022-05-20T08:45:45Z	
+3.0.0		2022-12-13T13:16:01Z	
+3.0.1		2023-03-09T10:26:37Z	
+3.0.3		2023-05-22T07:10:39Z	
+3.0.4		2023-10-06T20:23:30Z	
+3.0.5		2023-10-26T09:28:03Z	
+3.0.7		2024-02-05T08:29:39Z	
+3.0.8		2024-02-12T14:59:14Z	
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raynigon/unit-api/spring-boot-jackson-starter/3.0.9/spring-boot-jackson-starter-3.0.9.jar returned status 404
+3.0.9	plain	2025-03-26T15:51:57Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raynigon/unit-api/spring-boot-jackson-starter/4.0.0/spring-boot-jackson-starter-4.0.0.jar returned status 404
+4.0.0	plain	2026-01-09T15:43:04Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raynigon/unit-api/spring-boot-jackson-starter/4.0.1/spring-boot-jackson-starter-4.0.1.jar returned status 404
+4.0.1	plain	2026-01-12T10:53:13Z	

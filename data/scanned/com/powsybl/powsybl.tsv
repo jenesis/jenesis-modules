@@ -1,0 +1,7 @@
+20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/20.1/powsybl-20.1.jar returned status 404
+20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/20.2/powsybl-20.2.jar returned status 404
+22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/22.2/powsybl-22.2.jar returned status 404
+23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/23/powsybl-23.jar returned status 404
+24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/24/powsybl-24.jar returned status 404
+25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/25/powsybl-25.jar returned status 404
+26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/26/powsybl-26.jar returned status 404

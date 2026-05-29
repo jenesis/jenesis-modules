@@ -1,0 +1,9 @@
+3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/3.7/configurate-bom-3.7.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/3.7.1/configurate-bom-3.7.1.jar returned status 404
+3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/3.7.2/configurate-bom-3.7.2.jar returned status 404
+3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/3.7.3/configurate-bom-3.7.3.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/4.0.0/configurate-bom-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/4.1.0/configurate-bom-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/4.1.1/configurate-bom-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/4.1.2/configurate-bom-4.1.2.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/spongepowered/configurate-bom/4.2.0/configurate-bom-4.2.0.jar returned status 404

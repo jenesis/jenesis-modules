@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/caracalt/jssc/1.0.0/jssc-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/caracalt/jssc/1.0.1/jssc-1.0.1.jar returned status 404
+2.9.5a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/caracalt/jssc/2.9.5a/jssc-2.9.5a.jar returned status 404
+2.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/caracalt/jssc/2.9.6/jssc-2.9.6.jar returned status 404

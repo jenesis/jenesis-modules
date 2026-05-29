@@ -1,0 +1,41 @@
+3.0.0		2021-12-15T15:16:14Z	
+3.0.0-beta04		2021-11-24T12:07:30Z	
+3.0.0-beta05		2021-12-03T19:02:11Z	
+3.0.0-rc01		2021-12-07T15:13:53Z	
+3.0.0-rc02		2021-12-10T19:50:19Z	
+3.0.0-rc03		2021-12-13T20:47:58Z	
+3.1.0		2022-02-07T16:46:06Z	
+3.2.0		2022-03-29T08:57:48Z	
+3.2.1		2022-04-05T13:05:14Z	
+3.2.2		2022-04-11T14:10:42Z	
+3.3.0		2022-05-04T15:23:27Z	
+3.3.1		2022-06-13T13:21:21Z	
+3.3.2		2022-06-17T10:21:50Z	
+3.4.0		2022-07-11T15:39:25Z	
+3.5.0		2022-08-01T16:37:08Z	
+3.6.0		2022-09-08T15:50:49Z	
+3.6.1		2022-10-03T14:30:37Z	
+3.6.2		2022-10-05T13:04:07Z	
+3.7.0		2022-11-08T16:53:55Z	
+3.7.1		2022-11-18T10:29:48Z	
+3.7.2		2022-12-05T13:23:01Z	
+3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.7.3/apollo-annotations-js-3.7.3.jar returned status 404
+3.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.7.4/apollo-annotations-js-3.7.4.jar returned status 404
+3.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.7.5/apollo-annotations-js-3.7.5.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.0/apollo-annotations-js-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.1/apollo-annotations-js-3.8.1.jar returned status 404
+3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.2/apollo-annotations-js-3.8.2.jar returned status 404
+3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.3/apollo-annotations-js-3.8.3.jar returned status 404
+3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.4/apollo-annotations-js-3.8.4.jar returned status 404
+3.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.5/apollo-annotations-js-3.8.5.jar returned status 404
+3.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/3.8.6/apollo-annotations-js-3.8.6.jar returned status 404
+4.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-alpha.1/apollo-annotations-js-4.0.0-alpha.1.jar returned status 404
+4.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-alpha.2/apollo-annotations-js-4.0.0-alpha.2.jar returned status 404
+4.0.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-alpha.3/apollo-annotations-js-4.0.0-alpha.3.jar returned status 404
+4.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.1/apollo-annotations-js-4.0.0-beta.1.jar returned status 404
+4.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.2/apollo-annotations-js-4.0.0-beta.2.jar returned status 404
+4.0.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.3/apollo-annotations-js-4.0.0-beta.3.jar returned status 404
+4.0.0-beta.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.4/apollo-annotations-js-4.0.0-beta.4.jar returned status 404
+4.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.5/apollo-annotations-js-4.0.0-beta.5.jar returned status 404
+4.0.0-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.6/apollo-annotations-js-4.0.0-beta.6.jar returned status 404
+4.0.0-beta.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo3/apollo-annotations-js/4.0.0-beta.7/apollo-annotations-js-4.0.0-beta.7.jar returned status 404

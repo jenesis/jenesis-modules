@@ -1,0 +1,4 @@
+2025.07.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/uvccamera/2025.07.11/uvccamera-2025.07.11.jar returned status 404
+2025.07.13.test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/uvccamera/2025.07.13.test/uvccamera-2025.07.13.test.jar returned status 404
+2025.07.13.test2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/uvccamera/2025.07.13.test2/uvccamera-2025.07.13.test2.jar returned status 404
+2025.07.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/uvccamera/2025.07.14/uvccamera-2025.07.14.jar returned status 404

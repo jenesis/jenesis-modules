@@ -1,0 +1,38 @@
+0.10.0		2020-07-27T14:18:13Z	
+0.11.0		2020-09-16T13:01:35Z	
+0.12.0		2020-09-16T15:12:15Z	
+0.13.0		2021-07-27T07:11:13Z	
+0.14.0		2021-08-13T08:29:10Z	
+0.15.0		2021-10-06T10:08:17Z	
+0.15.1		2021-12-04T13:50:00Z	
+0.16.0		2022-03-13T16:19:40Z	
+0.17.0		2022-09-27T08:48:24Z	
+0.17.1		2022-10-12T06:38:40Z	
+0.18.0		2023-02-22T08:44:20Z	
+0.19.0		2023-03-27T14:36:33Z	
+0.20.0		2023-06-30T12:28:58Z	
+0.21.0		2023-08-11T12:06:06Z	
+0.22.0		2023-11-29T09:06:45Z	
+0.23.0		2024-05-21T09:31:06Z	
+0.24.0		2024-08-12T07:38:46Z	
+0.25.0		2024-12-06T12:48:51Z	
+0.26.0		2024-12-20T08:57:32Z	
+0.27.0		2025-01-27T10:47:06Z	
+0.28.0		2025-03-05T08:09:43Z	
+0.29.0		2025-05-17T18:52:50Z	
+0.30.0		2025-08-21T21:05:28Z	
+0.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.30.1/asciidoc-confluence-publisher-docker-0.30.1.jar returned status 404
+0.30.1	docker-info	2025-08-26T15:25:23Z	
+0.30.1	jar-with-dependencies	2025-08-26T15:25:23Z	
+0.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.30.2/asciidoc-confluence-publisher-docker-0.30.2.jar returned status 404
+0.30.2	docker-info	2026-01-08T20:47:09Z	
+0.30.2	jar-with-dependencies	2026-01-08T20:47:09Z	
+0.30.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.30.3/asciidoc-confluence-publisher-docker-0.30.3.jar returned status 404
+0.30.3	docker-info	2026-03-16T18:01:56Z	
+0.30.3	jar-with-dependencies	2026-03-16T18:01:56Z	
+0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.31.0/asciidoc-confluence-publisher-docker-0.31.0.jar returned status 404
+0.31.0	docker-info	2026-03-17T20:06:10Z	
+0.31.0	jar-with-dependencies	2026-03-17T20:06:10Z	
+0.8.0		2019-09-14T13:20:43Z	
+0.9.0		2020-03-09T08:45:56Z	
+0.9.1		2020-05-26T18:27:35Z	

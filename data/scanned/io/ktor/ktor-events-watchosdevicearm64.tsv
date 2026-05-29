@@ -1,0 +1,59 @@
+2.3.13		2024-11-20T12:30:31Z	
+2.3.13	kdoc	2024-11-20T12:30:34Z	
+2.3.13	metadata	2024-11-20T12:30:33Z	
+3.0.0		2024-10-09T12:44:34Z	
+3.0.0	kdoc	2024-10-09T12:44:29Z	
+3.0.0	metadata	2024-10-09T12:44:33Z	
+3.0.0-rc-2		2024-10-02T19:45:11Z	
+3.0.0-rc-2	kdoc	2024-10-02T19:45:10Z	
+3.0.0-rc-2	metadata	2024-10-02T19:45:15Z	
+3.0.1		2024-10-29T14:50:01Z	
+3.0.1	kdoc	2024-10-29T14:50:03Z	
+3.0.1	metadata	2024-10-29T14:50:04Z	
+3.0.2		2024-12-03T16:27:33Z	
+3.0.2	kdoc	2024-12-03T16:27:37Z	
+3.0.2	metadata	2024-12-03T16:27:36Z	
+3.0.3		2024-12-18T22:57:43Z	
+3.0.3	kdoc	2024-12-18T22:57:41Z	
+3.0.3	metadata	2024-12-18T22:57:39Z	
+3.1.0		2025-02-11T13:37:04Z	
+3.1.0	kdoc	2025-02-11T13:37:00Z	
+3.1.0	metadata	2025-02-11T13:37:05Z	
+3.1.1		2025-02-24T12:28:03Z	
+3.1.1	kdoc	2025-02-24T12:28:06Z	
+3.1.1	metadata	2025-02-24T12:28:03Z	
+3.1.2		2025-03-27T08:13:54Z	
+3.1.2	kdoc	2025-03-27T08:13:52Z	
+3.1.2	metadata	2025-03-27T08:13:49Z	
+3.1.3		2025-05-05T08:27:18Z	
+3.1.3	kdoc	2025-05-05T08:27:15Z	
+3.1.3	metadata	2025-05-05T08:27:13Z	
+3.2.0		2025-06-12T13:48:00Z	
+3.2.0	kdoc	2025-06-12T13:48:01Z	
+3.2.0	metadata	2025-06-12T13:47:56Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.2.1/ktor-events-watchosdevicearm64-3.2.1.jar returned status 404
+3.2.1	metadata	2025-07-03T18:00:53Z	
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.2.2/ktor-events-watchosdevicearm64-3.2.2.jar returned status 404
+3.2.2	metadata	2025-07-14T09:07:45Z	
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.2.3/ktor-events-watchosdevicearm64-3.2.3.jar returned status 404
+3.2.3	metadata	2025-07-29T12:00:41Z	
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.2.4/ktor-events-watchosdevicearm64-3.2.4.jar returned status 404
+3.2.4	metadata	2026-03-11T13:56:08Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.3.0/ktor-events-watchosdevicearm64-3.3.0.jar returned status 404
+3.3.0	metadata	2025-09-11T12:07:23Z	
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.3.1/ktor-events-watchosdevicearm64-3.3.1.jar returned status 404
+3.3.1	metadata	2025-10-08T10:38:55Z	
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.3.2/ktor-events-watchosdevicearm64-3.3.2.jar returned status 404
+3.3.2	metadata	2025-11-05T11:03:37Z	
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.3.3/ktor-events-watchosdevicearm64-3.3.3.jar returned status 404
+3.3.3	metadata	2025-11-26T13:48:19Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.4.0/ktor-events-watchosdevicearm64-3.4.0.jar returned status 404
+3.4.0	metadata	2026-01-22T10:40:02Z	
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.4.1/ktor-events-watchosdevicearm64-3.4.1.jar returned status 404
+3.4.1	metadata	2026-03-03T10:38:47Z	
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.4.2/ktor-events-watchosdevicearm64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-03-27T13:13:00Z	
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.4.3/ktor-events-watchosdevicearm64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-04-22T09:14:19Z	
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-events-watchosdevicearm64/3.5.0/ktor-events-watchosdevicearm64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-05-14T14:35:48Z	

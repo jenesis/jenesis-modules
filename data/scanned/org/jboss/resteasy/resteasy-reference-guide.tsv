@@ -1,0 +1,4 @@
+6.2.14.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/resteasy-reference-guide/6.2.14.Beta1/resteasy-reference-guide-6.2.14.Beta1.jar returned status 404
+6.2.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/resteasy-reference-guide/6.2.14.Final/resteasy-reference-guide-6.2.14.Final.jar returned status 404
+7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/resteasy-reference-guide/7.0.0.Beta5/resteasy-reference-guide-7.0.0.Beta5.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/resteasy-reference-guide/7.0.0.Final/resteasy-reference-guide-7.0.0.Final.jar returned status 404

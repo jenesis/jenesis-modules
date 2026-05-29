@@ -1,0 +1,4 @@
+${VERSION}			IllegalArgumentException: Illegal character in path at index 39: org/eclipse/edc/participant-store-spi/${VERSION}/participant-store-spi-${VERSION}.jar
+${VERSION}	test-fixtures		IllegalArgumentException: Illegal character in path at index 39: org/eclipse/edc/participant-store-spi/${VERSION}/participant-store-spi-${VERSION}-test-fixtures.jar
+0.0.1-milestone-8		2023-01-24T14:59:00Z	
+0.0.1-milestone-8	test-fixtures	2023-01-24T14:59:00Z	

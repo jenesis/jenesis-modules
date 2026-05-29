@@ -1,0 +1,4 @@
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/ds/websight/websight-package-parent/2/websight-package-parent-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/ds/websight/websight-package-parent/3/websight-package-parent-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/ds/websight/websight-package-parent/4/websight-package-parent-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/ds/websight/websight-package-parent/5/websight-package-parent-5.jar returned status 404

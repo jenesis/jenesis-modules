@@ -1,0 +1,146 @@
+0.2.0		2021-03-28T14:19:19Z	
+0.2.1		2021-03-29T22:51:13Z	
+0.2.2		2021-04-15T22:16:08Z	
+0.2.3		2021-04-16T00:08:39Z	
+0.2.4		2021-04-26T19:02:08Z	
+0.2.5		2021-06-02T23:21:47Z	
+0.2.6		2021-06-03T21:30:37Z	
+0.3.0		2021-08-01T23:39:11Z	
+0.3.1		2021-08-04T20:18:27Z	
+0.4.0		2021-10-13T19:15:13Z	
+0.5.0		2022-01-16T11:45:04Z	
+0.5.1		2022-02-09T21:15:49Z	
+0.5.2		2022-03-11T21:25:49Z	
+0.6.0		2022-04-08T22:11:52Z	
+0.6.0-native-compose		2022-04-25T01:28:07Z	
+0.6.0-native-compose-01		2022-05-02T10:11:02Z	
+0.7.0		2022-06-26T22:21:02Z	
+0.7.0-native-compose-01		2022-06-26T22:41:37Z	
+0.7.0-native-compose-02		2022-07-14T20:02:48Z	
+0.8.0		2022-07-16T08:19:34Z	
+0.8.0-native-compose-02		2022-07-16T09:31:12Z	
+1.0.0		2023-02-02T21:59:01Z	
+1.0.0-alpha-01		2022-08-05T01:45:38Z	
+1.0.0-alpha-01-native-compose		2022-08-05T08:40:23Z	
+1.0.0-alpha-02		2022-08-12T22:13:00Z	
+1.0.0-alpha-03		2022-08-22T09:19:34Z	
+1.0.0-alpha-03-native-compose		2022-08-22T09:20:19Z	
+1.0.0-alpha-04		2022-08-22T18:10:54Z	
+1.0.0-alpha-04-native-compose		2022-08-22T18:12:56Z	
+1.0.0-alpha-05		2022-10-02T22:45:37Z	
+1.0.0-alpha-05-native-compose		2022-10-02T22:48:22Z	
+1.0.0-alpha-06		2022-10-03T20:59:47Z	
+1.0.0-alpha-06-native-compose		2022-10-03T21:01:56Z	
+1.0.0-alpha-07		2022-10-24T22:46:19Z	
+1.0.0-alpha-07-native-compose		2022-10-24T22:45:29Z	
+1.0.0-beta-01		2022-11-19T18:24:02Z	
+1.0.0-beta-01-native-compose		2022-11-19T18:20:46Z	
+1.0.0-beta-02		2022-12-16T09:39:27Z	
+1.0.0-beta-02-native-compose		2022-12-16T09:44:31Z	
+1.0.0-beta-03		2023-01-04T11:52:59Z	
+1.0.0-beta-03-native-compose		2023-01-04T22:22:47Z	
+1.0.0-beta-04		2023-01-11T20:00:50Z	
+1.0.0-beta-04-native-compose		2023-01-14T09:19:11Z	
+1.0.0-compose-experimental		2023-02-02T22:03:05Z	
+2.0.0		2023-06-30T21:16:55Z	
+2.0.0-alpha-01		2023-04-04T11:50:30Z	
+2.0.0-alpha-02		2023-04-15T10:17:00Z	
+2.0.0-beta-01		2023-05-29T20:57:40Z	
+2.0.0-compose-experimental		2023-06-30T21:19:46Z	
+2.0.0-compose-experimental-alpha-01		2023-04-04T11:50:30Z	
+2.0.0-compose-experimental-alpha-02		2023-04-15T10:18:37Z	
+2.0.0-compose-experimental-beta-01		2023-05-29T21:02:17Z	
+2.0.1		2023-07-26T21:27:23Z	
+2.0.1-compose-experimental		2023-07-26T21:28:02Z	
+2.0.2		2023-09-08T21:26:57Z	
+2.0.2-compose-experimental		2023-09-08T21:29:04Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0/decompose-js-2.1.0.jar returned status 404
+2.1.0-alpha-01		2023-05-29T22:01:17Z	
+2.1.0-alpha-02		2023-06-09T10:29:21Z	
+2.1.0-alpha-03		2023-07-01T08:07:13Z	
+2.1.0-alpha-04		2023-07-04T08:24:24Z	
+2.1.0-alpha-05		2023-07-05T13:43:49Z	
+2.1.0-alpha-06		2023-07-26T22:00:17Z	
+2.1.0-alpha-07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-alpha-07/decompose-js-2.1.0-alpha-07.jar returned status 404
+2.1.0-alpha-08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-alpha-08/decompose-js-2.1.0-alpha-08.jar returned status 404
+2.1.0-beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-beta-01/decompose-js-2.1.0-beta-01.jar returned status 404
+2.1.0-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-compose-experimental/decompose-js-2.1.0-compose-experimental.jar returned status 404
+2.1.0-compose-experimental-alpha-01		2023-05-29T22:01:19Z	
+2.1.0-compose-experimental-alpha-02		2023-06-09T10:31:37Z	
+2.1.0-compose-experimental-alpha-03		2023-07-02T11:41:35Z	
+2.1.0-compose-experimental-alpha-04		2023-07-04T08:25:12Z	
+2.1.0-compose-experimental-alpha-05		2023-07-05T13:44:14Z	
+2.1.0-compose-experimental-alpha-06		2023-07-26T22:02:46Z	
+2.1.0-compose-experimental-alpha-07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-compose-experimental-alpha-07/decompose-js-2.1.0-compose-experimental-alpha-07.jar returned status 404
+2.1.0-compose-experimental-alpha-08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-compose-experimental-alpha-08/decompose-js-2.1.0-compose-experimental-alpha-08.jar returned status 404
+2.1.0-compose-experimental-beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.0-compose-experimental-beta-01/decompose-js-2.1.0-compose-experimental-beta-01.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.1/decompose-js-2.1.1.jar returned status 404
+2.1.1-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.1-compose-experimental/decompose-js-2.1.1-compose-experimental.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.2/decompose-js-2.1.2.jar returned status 404
+2.1.2-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.2-compose-experimental/decompose-js-2.1.2-compose-experimental.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.3/decompose-js-2.1.3.jar returned status 404
+2.1.3-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.3-compose-experimental/decompose-js-2.1.3-compose-experimental.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.4/decompose-js-2.1.4.jar returned status 404
+2.1.4-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.1.4-compose-experimental/decompose-js-2.1.4-compose-experimental.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0/decompose-js-2.2.0.jar returned status 404
+2.2.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-alpha01/decompose-js-2.2.0-alpha01.jar returned status 404
+2.2.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-alpha02/decompose-js-2.2.0-alpha02.jar returned status 404
+2.2.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-alpha03/decompose-js-2.2.0-alpha03.jar returned status 404
+2.2.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-alpha04/decompose-js-2.2.0-alpha04.jar returned status 404
+2.2.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-alpha05/decompose-js-2.2.0-alpha05.jar returned status 404
+2.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-beta01/decompose-js-2.2.0-beta01.jar returned status 404
+2.2.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-beta02/decompose-js-2.2.0-beta02.jar returned status 404
+2.2.0-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental/decompose-js-2.2.0-compose-experimental.jar returned status 404
+2.2.0-compose-experimental-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-alpha01/decompose-js-2.2.0-compose-experimental-alpha01.jar returned status 404
+2.2.0-compose-experimental-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-alpha02/decompose-js-2.2.0-compose-experimental-alpha02.jar returned status 404
+2.2.0-compose-experimental-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-alpha03/decompose-js-2.2.0-compose-experimental-alpha03.jar returned status 404
+2.2.0-compose-experimental-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-alpha04/decompose-js-2.2.0-compose-experimental-alpha04.jar returned status 404
+2.2.0-compose-experimental-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-alpha05/decompose-js-2.2.0-compose-experimental-alpha05.jar returned status 404
+2.2.0-compose-experimental-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-beta01/decompose-js-2.2.0-compose-experimental-beta01.jar returned status 404
+2.2.0-compose-experimental-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-compose-experimental-beta02/decompose-js-2.2.0-compose-experimental-beta02.jar returned status 404
+2.2.0-dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-dev01/decompose-js-2.2.0-dev01.jar returned status 404
+2.2.0-dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.0-dev02/decompose-js-2.2.0-dev02.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.1/decompose-js-2.2.1.jar returned status 404
+2.2.1-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.1-compose-experimental/decompose-js-2.2.1-compose-experimental.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.2/decompose-js-2.2.2.jar returned status 404
+2.2.2-compose-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.2-compose-experimental/decompose-js-2.2.2-compose-experimental.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/2.2.3/decompose-js-2.2.3.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0/decompose-js-3.0.0.jar returned status 404
+3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha01/decompose-js-3.0.0-alpha01.jar returned status 404
+3.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha02/decompose-js-3.0.0-alpha02.jar returned status 404
+3.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha03/decompose-js-3.0.0-alpha03.jar returned status 404
+3.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha04/decompose-js-3.0.0-alpha04.jar returned status 404
+3.0.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha05/decompose-js-3.0.0-alpha05.jar returned status 404
+3.0.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha06/decompose-js-3.0.0-alpha06.jar returned status 404
+3.0.0-alpha07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha07/decompose-js-3.0.0-alpha07.jar returned status 404
+3.0.0-alpha08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha08/decompose-js-3.0.0-alpha08.jar returned status 404
+3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-alpha09/decompose-js-3.0.0-alpha09.jar returned status 404
+3.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.0.0-beta01/decompose-js-3.0.0-beta01.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.1.0/decompose-js-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0/decompose-js-3.2.0.jar returned status 404
+3.2.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha01/decompose-js-3.2.0-alpha01.jar returned status 404
+3.2.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha02/decompose-js-3.2.0-alpha02.jar returned status 404
+3.2.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha03/decompose-js-3.2.0-alpha03.jar returned status 404
+3.2.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha04/decompose-js-3.2.0-alpha04.jar returned status 404
+3.2.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha05/decompose-js-3.2.0-alpha05.jar returned status 404
+3.2.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-alpha06/decompose-js-3.2.0-alpha06.jar returned status 404
+3.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-beta01/decompose-js-3.2.0-beta01.jar returned status 404
+3.2.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-beta02/decompose-js-3.2.0-beta02.jar returned status 404
+3.2.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.0-beta03/decompose-js-3.2.0-beta03.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.1/decompose-js-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.2.2/decompose-js-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.3.0/decompose-js-3.3.0.jar returned status 404
+3.3.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.3.0-alpha01/decompose-js-3.3.0-alpha01.jar returned status 404
+3.3.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.3.0-alpha02/decompose-js-3.3.0-alpha02.jar returned status 404
+3.3.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.3.0-alpha03/decompose-js-3.3.0-alpha03.jar returned status 404
+3.3.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.3.0-beta01/decompose-js-3.3.0-beta01.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0/decompose-js-3.4.0.jar returned status 404
+3.4.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-alpha01/decompose-js-3.4.0-alpha01.jar returned status 404
+3.4.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-alpha02/decompose-js-3.4.0-alpha02.jar returned status 404
+3.4.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-alpha03/decompose-js-3.4.0-alpha03.jar returned status 404
+3.4.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-alpha04/decompose-js-3.4.0-alpha04.jar returned status 404
+3.4.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-alpha05/decompose-js-3.4.0-alpha05.jar returned status 404
+3.4.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.4.0-beta01/decompose-js-3.4.0-beta01.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.5.0/decompose-js-3.5.0.jar returned status 404
+3.5.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.5.0-alpha01/decompose-js-3.5.0-alpha01.jar returned status 404
+3.5.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arkivanov/decompose/decompose-js/3.5.0-beta01/decompose-js-3.5.0-beta01.jar returned status 404

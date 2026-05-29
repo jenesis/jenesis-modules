@@ -1,0 +1,61 @@
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/1.19.0/yoga-1.19.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/2.0.0/yoga-2.0.0.jar returned status 404
+2.0.0	debug-javadoc	2023-07-25T16:54:03Z	
+2.0.0	debug-sources	2023-07-25T16:54:04Z	
+2.0.0	release-javadoc	2023-07-25T16:54:02Z	
+2.0.0	release-sources	2023-07-25T16:54:05Z	
+2.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/2.0.0-beta.1/yoga-2.0.0-beta.1.jar returned status 404
+2.0.0-beta.1	debug-javadoc	2023-06-30T20:42:25Z	
+2.0.0-beta.1	debug-sources	2023-06-30T20:42:25Z	
+2.0.0-beta.1	release-javadoc	2023-06-30T20:42:25Z	
+2.0.0-beta.1	release-sources	2023-06-30T20:42:26Z	
+2.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/2.0.0-beta.2/yoga-2.0.0-beta.2.jar returned status 404
+2.0.0-beta.2	debug-javadoc	2023-07-13T01:13:50Z	
+2.0.0-beta.2	debug-sources	2023-07-13T01:13:52Z	
+2.0.0-beta.2	release-javadoc	2023-07-13T01:13:52Z	
+2.0.0-beta.2	release-sources	2023-07-13T01:13:49Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/2.0.1/yoga-2.0.1.jar returned status 404
+2.0.1	debug-javadoc	2023-11-01T04:57:17Z	
+2.0.1	debug-sources	2023-11-01T04:57:18Z	
+2.0.1	release-javadoc	2023-11-01T04:57:18Z	
+2.0.1	release-sources	2023-11-01T04:57:18Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.0.0/yoga-3.0.0.jar returned status 404
+3.0.0	debug-javadoc	2024-03-06T00:04:20Z	
+3.0.0	debug-sources	2024-03-06T00:04:22Z	
+3.0.0	release-javadoc	2024-03-06T00:04:22Z	
+3.0.0	release-sources	2024-03-06T00:04:24Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.0.1/yoga-3.0.1.jar returned status 404
+3.0.1	debug-javadoc	2024-03-13T05:11:44Z	
+3.0.1	debug-sources	2024-03-13T05:11:44Z	
+3.0.1	release-javadoc	2024-03-13T05:11:43Z	
+3.0.1	release-sources	2024-03-13T05:11:43Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.0.2/yoga-3.0.2.jar returned status 404
+3.0.2	debug-javadoc	2024-03-13T05:23:56Z	
+3.0.2	debug-sources	2024-03-13T05:23:56Z	
+3.0.2	release-javadoc	2024-03-13T05:23:57Z	
+3.0.2	release-sources	2024-03-13T05:23:56Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.0.3/yoga-3.0.3.jar returned status 404
+3.0.3	debug-javadoc	2024-04-09T23:17:18Z	
+3.0.3	debug-sources	2024-04-09T23:17:17Z	
+3.0.3	release-javadoc	2024-04-09T23:17:16Z	
+3.0.3	release-sources	2024-04-09T23:17:18Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.0.4/yoga-3.0.4.jar returned status 404
+3.0.4	debug-javadoc	2024-04-17T07:07:44Z	
+3.0.4	debug-sources	2024-04-17T07:07:46Z	
+3.0.4	release-javadoc	2024-04-17T07:07:46Z	
+3.0.4	release-sources	2024-04-17T07:07:45Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.1.0/yoga-3.1.0.jar returned status 404
+3.1.0	debug-javadoc	2024-06-23T05:17:41Z	
+3.1.0	debug-sources	2024-06-23T05:17:39Z	
+3.1.0	release-javadoc	2024-06-23T05:17:39Z	
+3.1.0	release-sources	2024-06-23T05:17:40Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.2.0/yoga-3.2.0.jar returned status 404
+3.2.0	debug-javadoc	2024-12-02T20:37:34Z	
+3.2.0	debug-sources	2024-12-02T20:37:35Z	
+3.2.0	release-javadoc	2024-12-02T20:37:33Z	
+3.2.0	release-sources	2024-12-02T20:37:36Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/yoga/yoga/3.2.1/yoga-3.2.1.jar returned status 404
+3.2.1	debug-javadoc	2024-12-13T01:45:28Z	
+3.2.1	debug-sources	2024-12-13T01:45:29Z	
+3.2.1	release-javadoc	2024-12-13T01:45:29Z	
+3.2.1	release-sources	2024-12-13T01:45:28Z	

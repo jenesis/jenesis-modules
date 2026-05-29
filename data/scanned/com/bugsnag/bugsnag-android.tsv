@@ -1,0 +1,143 @@
+2.0.0		2013-03-04T18:33:34Z	
+2.0.0	jar-with-dependencies	2013-03-04T18:34:34Z	
+2.0.1		2013-03-04T19:27:11Z	
+2.0.1	jar-with-dependencies	2013-03-04T19:27:18Z	
+2.0.10		2013-07-19T16:49:58Z	
+2.0.10	jar-with-dependencies	2013-07-19T16:50:02Z	
+2.0.2		2013-03-04T21:14:15Z	
+2.0.2	jar-with-dependencies	2013-03-04T21:14:17Z	
+2.0.3		2013-03-08T22:53:20Z	
+2.0.3	jar-with-dependencies	2013-03-08T22:53:30Z	
+2.0.4		2013-03-10T23:44:01Z	
+2.0.4	jar-with-dependencies	2013-03-10T23:44:04Z	
+2.0.5		2013-03-12T00:55:36Z	
+2.0.5	jar-with-dependencies	2013-03-12T00:55:38Z	
+2.0.6		2013-03-26T21:29:14Z	
+2.0.6	jar-with-dependencies	2013-03-26T21:29:16Z	
+2.0.7		2013-03-27T22:13:33Z	
+2.0.7	jar-with-dependencies	2013-03-27T22:13:37Z	
+2.0.8		2013-04-05T17:33:04Z	
+2.0.8	jar-with-dependencies	2013-04-05T17:33:07Z	
+2.0.9		2013-04-23T17:59:49Z	
+2.0.9	jar-with-dependencies	2013-04-23T17:59:57Z	
+2.1.0		2013-11-13T00:16:26Z	
+2.1.0	jar-with-dependencies	2013-11-13T00:16:37Z	
+2.1.1		2014-03-05T23:04:26Z	
+2.1.1	jar-with-dependencies	2014-03-05T23:04:37Z	
+2.1.3		2014-04-15T19:27:16Z	
+2.1.3	jar-with-dependencies	2014-04-15T19:27:26Z	
+2.2.0		2014-05-21T20:33:13Z	
+2.2.0	jar-with-dependencies	2014-05-21T20:33:42Z	
+2.2.1		2014-09-30T22:35:30Z	
+2.2.1	jar-with-dependencies	2014-09-30T22:35:34Z	
+2.2.2		2014-10-31T20:47:27Z	
+2.2.2	jar-with-dependencies	2014-10-31T20:47:32Z	
+2.2.3		2014-11-01T00:04:21Z	
+2.2.3	jar-with-dependencies	2014-11-01T00:04:26Z	
+3.0.0		2014-12-21T00:15:37Z	
+3.1.0		2014-12-21T04:53:50Z	
+3.1.1		2014-12-22T18:37:02Z	
+3.2.0		2014-12-31T01:52:22Z	
+3.2.1		2015-01-08T01:41:12Z	
+3.2.2		2015-01-09T07:49:47Z	
+3.2.3		2015-01-30T01:16:17Z	
+3.2.4		2015-02-19T01:13:13Z	
+3.2.5		2015-02-19T01:26:18Z	
+3.2.6		2015-06-22T21:30:53Z	
+3.2.7		2015-12-11T18:43:44Z	
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.0.1/bugsnag-android-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.0.2/bugsnag-android-5.0.2.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.1.0/bugsnag-android-5.1.0.jar returned status 404
+5.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.10.0/bugsnag-android-5.10.0.jar returned status 404
+5.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.10.1/bugsnag-android-5.10.1.jar returned status 404
+5.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.11.0/bugsnag-android-5.11.0.jar returned status 404
+5.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.12.0/bugsnag-android-5.12.0.jar returned status 404
+5.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.13.0/bugsnag-android-5.13.0.jar returned status 404
+5.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.14.0/bugsnag-android-5.14.0.jar returned status 404
+5.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.15.0/bugsnag-android-5.15.0.jar returned status 404
+5.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.16.0/bugsnag-android-5.16.0.jar returned status 404
+5.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.17.0/bugsnag-android-5.17.0.jar returned status 404
+5.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.18.0/bugsnag-android-5.18.0.jar returned status 404
+5.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.19.0/bugsnag-android-5.19.0.jar returned status 404
+5.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.19.1/bugsnag-android-5.19.1.jar returned status 404
+5.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.19.2/bugsnag-android-5.19.2.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.2.0/bugsnag-android-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.2.1/bugsnag-android-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.2.2/bugsnag-android-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.2.3/bugsnag-android-5.2.3.jar returned status 404
+5.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.20.0/bugsnag-android-5.20.0.jar returned status 404
+5.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.21.0/bugsnag-android-5.21.0.jar returned status 404
+5.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.22.0/bugsnag-android-5.22.0.jar returned status 404
+5.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.22.1/bugsnag-android-5.22.1.jar returned status 404
+5.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.22.2/bugsnag-android-5.22.2.jar returned status 404
+5.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.22.3/bugsnag-android-5.22.3.jar returned status 404
+5.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.22.4/bugsnag-android-5.22.4.jar returned status 404
+5.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.23.0/bugsnag-android-5.23.0.jar returned status 404
+5.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.23.1/bugsnag-android-5.23.1.jar returned status 404
+5.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.24.0/bugsnag-android-5.24.0.jar returned status 404
+5.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.25.0/bugsnag-android-5.25.0.jar returned status 404
+5.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.26.0/bugsnag-android-5.26.0.jar returned status 404
+5.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.27.0/bugsnag-android-5.27.0.jar returned status 404
+5.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.28.0/bugsnag-android-5.28.0.jar returned status 404
+5.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.28.1/bugsnag-android-5.28.1.jar returned status 404
+5.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.28.2/bugsnag-android-5.28.2.jar returned status 404
+5.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.28.3/bugsnag-android-5.28.3.jar returned status 404
+5.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.28.4/bugsnag-android-5.28.4.jar returned status 404
+5.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.29.0/bugsnag-android-5.29.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.3.0/bugsnag-android-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.3.1/bugsnag-android-5.3.1.jar returned status 404
+5.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.30.0/bugsnag-android-5.30.0.jar returned status 404
+5.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.31.0/bugsnag-android-5.31.0.jar returned status 404
+5.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.31.1/bugsnag-android-5.31.1.jar returned status 404
+5.31.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.31.2/bugsnag-android-5.31.2.jar returned status 404
+5.31.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.31.3/bugsnag-android-5.31.3.jar returned status 404
+5.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.32.0/bugsnag-android-5.32.0.jar returned status 404
+5.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.32.1/bugsnag-android-5.32.1.jar returned status 404
+5.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.32.2/bugsnag-android-5.32.2.jar returned status 404
+5.32.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.32.3/bugsnag-android-5.32.3.jar returned status 404
+5.32.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.32.4/bugsnag-android-5.32.4.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.4.0/bugsnag-android-5.4.0.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.5.0/bugsnag-android-5.5.0.jar returned status 404
+5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.5.1/bugsnag-android-5.5.1.jar returned status 404
+5.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.5.2/bugsnag-android-5.5.2.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.6.0/bugsnag-android-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.6.1/bugsnag-android-5.6.1.jar returned status 404
+5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.6.2/bugsnag-android-5.6.2.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.7.0/bugsnag-android-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.7.1/bugsnag-android-5.7.1.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.8.0/bugsnag-android-5.8.0.jar returned status 404
+5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.0/bugsnag-android-5.9.0.jar returned status 404
+5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.1/bugsnag-android-5.9.1.jar returned status 404
+5.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.2/bugsnag-android-5.9.2.jar returned status 404
+5.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.3/bugsnag-android-5.9.3.jar returned status 404
+5.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.4/bugsnag-android-5.9.4.jar returned status 404
+5.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/5.9.5/bugsnag-android-5.9.5.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.0.0/bugsnag-android-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.1.0/bugsnag-android-6.1.0.jar returned status 404
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.10.0/bugsnag-android-6.10.0.jar returned status 404
+6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.11.0/bugsnag-android-6.11.0.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.12.0/bugsnag-android-6.12.0.jar returned status 404
+6.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.12.1/bugsnag-android-6.12.1.jar returned status 404
+6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.13.0/bugsnag-android-6.13.0.jar returned status 404
+6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.14.0/bugsnag-android-6.14.0.jar returned status 404
+6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.15.0/bugsnag-android-6.15.0.jar returned status 404
+6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.16.0/bugsnag-android-6.16.0.jar returned status 404
+6.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.17.0/bugsnag-android-6.17.0.jar returned status 404
+6.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.18.0/bugsnag-android-6.18.0.jar returned status 404
+6.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.19.0/bugsnag-android-6.19.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.2.0/bugsnag-android-6.2.0.jar returned status 404
+6.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.20.0/bugsnag-android-6.20.0.jar returned status 404
+6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.21.0/bugsnag-android-6.21.0.jar returned status 404
+6.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.22.0/bugsnag-android-6.22.0.jar returned status 404
+6.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.23.0/bugsnag-android-6.23.0.jar returned status 404
+6.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.24.0/bugsnag-android-6.24.0.jar returned status 404
+6.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.25.0/bugsnag-android-6.25.0.jar returned status 404
+6.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.26.0/bugsnag-android-6.26.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.3.0/bugsnag-android-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.4.0/bugsnag-android-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.5.0/bugsnag-android-6.5.0.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.6.0/bugsnag-android-6.6.0.jar returned status 404
+6.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.6.1/bugsnag-android-6.6.1.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.7.0/bugsnag-android-6.7.0.jar returned status 404
+6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.8.0/bugsnag-android-6.8.0.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-android/6.9.0/bugsnag-android-6.9.0.jar returned status 404

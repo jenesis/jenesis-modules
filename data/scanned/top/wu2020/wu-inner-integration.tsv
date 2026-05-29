@@ -1,0 +1,9 @@
+1.3.1-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.1-JDK24/wu-inner-integration-1.3.1-JDK24.jar returned status 404
+1.3.2-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.2-JDK24/wu-inner-integration-1.3.2-JDK24.jar returned status 404
+1.3.3-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.3-JDK24/wu-inner-integration-1.3.3-JDK24.jar returned status 404
+1.3.4-JDK1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.4-JDK1.8/wu-inner-integration-1.3.4-JDK1.8.jar returned status 404
+1.3.4-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.4-JDK24/wu-inner-integration-1.3.4-JDK24.jar returned status 404
+1.3.5-JDK1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.5-JDK1.8/wu-inner-integration-1.3.5-JDK1.8.jar returned status 404
+1.3.5-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.5-JDK24/wu-inner-integration-1.3.5-JDK24.jar returned status 404
+1.3.6-JDK1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.6-JDK1.8/wu-inner-integration-1.3.6-JDK1.8.jar returned status 404
+1.3.6-JDK24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/wu2020/wu-inner-integration/1.3.6-JDK24/wu-inner-integration-1.3.6-JDK24.jar returned status 404

@@ -1,0 +1,3 @@
+1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/core-player/1.0.0-rc.1/core-player-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/core-player/1.0.0-rc.2/core-player-1.0.0-rc.2.jar returned status 404
+1.0.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/core-player/1.0.0-rc.9/core-player-1.0.0-rc.9.jar returned status 404

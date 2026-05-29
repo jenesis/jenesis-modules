@@ -1,0 +1,6 @@
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/10.1.0/commandapi-platforms-10.1.0.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/10.1.1/commandapi-platforms-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/10.1.2/commandapi-platforms-10.1.2.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/11.0.0/commandapi-platforms-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/11.1.0/commandapi-platforms-11.1.0.jar returned status 404
+11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-platforms/11.2.0/commandapi-platforms-11.2.0.jar returned status 404

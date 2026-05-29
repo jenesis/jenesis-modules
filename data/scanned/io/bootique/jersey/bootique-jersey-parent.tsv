@@ -1,0 +1,4 @@
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/jersey/bootique-jersey-parent/3.0/bootique-jersey-parent-3.0.jar returned status 404
+4.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/jersey/bootique-jersey-parent/4.0-M1/bootique-jersey-parent-4.0-M1.jar returned status 404
+4.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/jersey/bootique-jersey-parent/4.0-M2/bootique-jersey-parent-4.0-M2.jar returned status 404
+4.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/jersey/bootique-jersey-parent/4.0-M3/bootique-jersey-parent-4.0-M3.jar returned status 404

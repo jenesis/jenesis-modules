@@ -1,0 +1,4 @@
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liuweile/maven/1.0.1/maven-1.0.1.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liuweile/maven/2.0.1/maven-2.0.1.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liuweile/maven/3.0.1/maven-3.0.1.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liuweile/maven/4.0.1/maven-4.0.1.jar returned status 404

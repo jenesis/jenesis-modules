@@ -1,0 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thechance101/chart-js/1.0/chart-js-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thechance101/chart-js/1.1/chart-js-1.1.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thechance101/chart-js/1.1.0/chart-js-1.1.0.jar returned status 404
+Beta-0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thechance101/chart-js/Beta-0.0.4/chart-js-Beta-0.0.4.jar returned status 404
+Beta-0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thechance101/chart-js/Beta-0.0.5/chart-js-Beta-0.0.5.jar returned status 404

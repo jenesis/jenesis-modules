@@ -1,0 +1,5 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heraldprox/herald-debug/2.0.0/herald-debug-2.0.0.jar returned status 404
+2.0.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heraldprox/herald-debug/2.0.0-beta6/herald-debug-2.0.0-beta6.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heraldprox/herald-debug/2.1.0/herald-debug-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heraldprox/herald-debug/2.1.1/herald-debug-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heraldprox/herald-debug/2.2.0/herald-debug-2.2.0.jar returned status 404

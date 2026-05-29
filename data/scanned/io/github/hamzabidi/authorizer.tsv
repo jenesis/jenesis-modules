@@ -1,0 +1,6 @@
+main			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hamzabidi/authorizer/main/authorizer-main.jar returned status 404
+main	plain	2022-11-18T15:28:57Z	
+test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hamzabidi/authorizer/test/authorizer-test.jar returned status 404
+test	plain	2022-11-18T15:58:54Z	
+v1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hamzabidi/authorizer/v1.0.4/authorizer-v1.0.4.jar returned status 404
+v1.0.4	plain	2022-11-18T16:56:17Z	

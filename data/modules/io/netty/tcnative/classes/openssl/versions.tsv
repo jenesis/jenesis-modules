@@ -1,0 +1,37 @@
+2.0.51.Final	automatic	io.netty	netty-tcnative-classes	2022-03-11T09:42:28Z	
+2.0.52.Final	automatic	io.netty	netty-tcnative-classes	2022-05-05T08:03:37Z	
+2.0.53.Final	automatic	io.netty	netty-tcnative-classes	2022-06-09T10:48:43Z	
+2.0.54.Final	automatic	io.netty	netty-tcnative-classes	2022-07-22T09:49:02Z	
+2.0.55.Final	automatic	io.netty	netty-tcnative-classes	2023-01-04T15:04:28Z	
+2.0.56.Final	automatic	io.netty	netty-tcnative-classes	2023-01-10T08:36:21Z	
+2.0.57.Final	automatic	io.netty	netty-tcnative-classes	2023-02-02T16:25:11Z	
+2.0.58.Final	automatic	io.netty	netty-tcnative-classes	2023-02-13T15:11:04Z	
+2.0.59.Final	automatic	io.netty	netty-tcnative-classes	2023-02-16T15:39:22Z	
+2.0.60.Final	automatic	io.netty	netty-tcnative-classes	2023-04-24T08:22:22Z	
+2.0.61.Final	automatic	io.netty	netty-tcnative-classes	2023-05-05T12:09:23Z	
+2.0.62.Final	automatic	io.netty	netty-tcnative-classes	2023-10-06T12:45:37Z	
+2.0.63.Final	automatic	io.netty	netty-tcnative-classes	2024-02-20T12:13:39Z	
+2.0.64.Final	automatic	io.netty	netty-tcnative-classes	2024-03-07T16:56:19Z	
+2.0.65.Final	automatic	io.netty	netty-tcnative-classes	2024-03-07T21:12:43Z	
+2.0.66.Final	named	io.netty	netty-tcnative-classes	2024-08-23T14:45:12Z	2.0.66.Final
+0.19.0	named	io.kestra.plugin	plugin-neo4j	2024-10-01T14:21:08Z	2.0.66.Final
+2.0.67.Final	named	io.netty	netty-tcnative-classes	2024-10-29T12:06:36Z	2.0.67.Final
+2.0.68.Final	named	io.netty	netty-tcnative-classes	2024-10-31T13:29:18Z	2.0.68.Final
+2.0.69.Final	named	io.netty	netty-tcnative-classes	2024-11-01T17:35:45Z	2.0.69.Final
+4.4.19	named	org.neo4j.driver	neo4j-java-driver	2024-11-29T16:51:19Z	2.0.69.Final
+0.20.0	named	io.kestra.plugin	plugin-neo4j	2024-12-03T12:38:16Z	2.0.69.Final
+0.21.0	named	io.kestra.plugin	plugin-neo4j	2025-02-04T14:17:31Z	2.0.69.Final
+2.0.70.Final	named	io.netty	netty-tcnative-classes	2025-02-10T08:27:55Z	2.0.70.Final
+4.4.20	named	org.neo4j.driver	neo4j-java-driver	2025-03-03T15:12:30Z	2.0.70.Final
+0.22.0	named	io.kestra.plugin	plugin-neo4j	2025-04-01T10:09:22Z	2.0.70.Final
+2.0.71.Final	named	io.netty	netty-tcnative-classes	2025-04-30T10:11:32Z	2.0.71.Final
+2.0.72.Final	named	io.netty	netty-tcnative-classes	2025-05-22T08:06:59Z	2.0.72.Final
+0.23.0	named	io.kestra.plugin	plugin-neo4j	2025-06-17T13:23:37Z	2.0.70.Final
+2.0.73.Final	named	io.netty	netty-tcnative-classes	2025-08-28T07:07:23Z	2.0.73.Final
+4.4.21	named	org.neo4j.driver	neo4j-java-driver	2025-09-12T14:10:04Z	2.0.73.Final
+2.0.74.Final	named	io.netty	netty-tcnative-classes	2025-09-22T08:41:38Z	2.0.74.Final
+2.0.75.Final	named	io.netty	netty-tcnative-classes	2026-02-04T07:59:30Z	2.0.75.Final
+4.4.22	named	org.neo4j.driver	neo4j-java-driver	2026-03-17T17:16:07Z	2.0.75.Final
+2.0.76.Final	named	io.netty	netty-tcnative-classes	2026-04-19T12:21:02Z	2.0.76.Final
+4.4.23	named	org.neo4j.driver	neo4j-java-driver	2026-04-20T13:47:20Z	2.0.75.Final
+2.0.77.Final	named	io.netty	netty-tcnative-classes	2026-04-23T10:09:54Z	2.0.77.Final

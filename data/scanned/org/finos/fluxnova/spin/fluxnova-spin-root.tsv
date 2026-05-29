@@ -1,0 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/spin/fluxnova-spin-root/1.0.0/fluxnova-spin-root-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/spin/fluxnova-spin-root/1.1.0/fluxnova-spin-root-1.1.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/spin/fluxnova-spin-root/2.0.0/fluxnova-spin-root-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/spin/fluxnova-spin-root/2.0.1/fluxnova-spin-root-2.0.1.jar returned status 404

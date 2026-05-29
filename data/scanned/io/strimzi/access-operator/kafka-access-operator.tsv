@@ -1,0 +1,5 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/access-operator/kafka-access-operator/0.2.0/kafka-access-operator-0.2.0.jar returned status 404
+0.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/access-operator/kafka-access-operator/0.2.0-RC1/kafka-access-operator-0.2.0-RC1.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/access-operator/kafka-access-operator/0.3.0/kafka-access-operator-0.3.0.jar returned status 404
+0.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/access-operator/kafka-access-operator/0.3.0-RC1/kafka-access-operator-0.3.0-RC1.jar returned status 404
+0.3.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/access-operator/kafka-access-operator/0.3.0-RC2/kafka-access-operator-0.3.0-RC2.jar returned status 404

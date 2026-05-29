@@ -1,0 +1,5 @@
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/vitruv/parent/3.2.1/parent-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/vitruv/parent/3.2.2/parent-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/vitruv/parent/3.3.0/parent-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/vitruv/parent/3.3.1/parent-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/vitruv/parent/3.3.2/parent-3.3.2.jar returned status 404

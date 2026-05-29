@@ -1,0 +1,12 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/1.0/openapi-1.0.jar returned status 404
+5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/5.2/openapi-5.2.jar returned status 404
+5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/5.3/openapi-5.3.jar returned status 404
+5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/5.4/openapi-5.4.jar returned status 404
+5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/5.5/openapi-5.5.jar returned status 404
+5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/5.6/openapi-5.6.jar returned status 404
+alpha-03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha-03/openapi-alpha-03.jar returned status 404
+alpha-06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha-06/openapi-alpha-06.jar returned status 404
+alpha-08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha-08/openapi-alpha-08.jar returned status 404
+alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha02/openapi-alpha02.jar returned status 404
+alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha04/openapi-alpha04.jar returned status 404
+alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/in-telligent/uat/openapi/openapi/alpha05/openapi-alpha05.jar returned status 404

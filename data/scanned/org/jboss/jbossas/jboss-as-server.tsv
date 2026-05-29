@@ -1,0 +1,128 @@
+5.0.0.CR1		2008-07-08T16:43:48Z	
+5.0.0.CR1	client	2008-07-08T16:43:48Z	
+5.0.0.CR1	getopt	2008-07-08T16:43:48Z	
+5.0.0.CR1	jboss	2008-07-08T16:43:48Z	
+5.0.0.CR1	jboss-minimal	2008-07-08T16:43:48Z	
+5.0.0.CR1	jmx-invoker-adaptor	2008-07-08T16:43:48Z	
+5.0.0.CR1	shutdown	2008-07-08T16:43:48Z	
+5.0.0.CR1	testsuite-support	2008-07-08T16:43:48Z	
+5.0.0.CR1	verifier	2008-07-08T16:43:48Z	
+5.0.0.CR2		2008-09-17T21:36:52Z	
+5.0.0.CR2	client	2008-09-17T21:36:52Z	
+5.0.0.CR2	getopt	2008-09-17T21:36:52Z	
+5.0.0.CR2	jboss	2008-09-17T21:36:52Z	
+5.0.0.CR2	jboss-minimal	2008-09-17T21:36:52Z	
+5.0.0.CR2	jmx-invoker-adaptor-client	2008-09-17T21:36:52Z	
+5.0.0.CR2	shutdown	2008-09-17T21:36:52Z	
+5.0.0.CR2	testsuite-support	2008-09-17T21:36:52Z	
+5.0.0.CR2	verifier	2008-09-17T21:36:52Z	
+5.0.0.GA		2008-12-05T04:53:37Z	
+5.0.0.GA	client	2008-12-05T04:53:37Z	
+5.0.0.GA	jboss	2008-12-05T04:53:37Z	
+5.0.0.GA	jboss-minimal	2008-12-05T04:53:37Z	
+5.0.0.GA	jmx-adaptor-plugin	2008-12-05T04:53:37Z	
+5.0.0.GA	jmx-invoker-adaptor-client	2008-12-05T04:53:37Z	
+5.0.0.GA	shutdown	2008-12-05T04:53:37Z	
+5.0.0.GA	testsuite-support	2008-12-05T04:53:37Z	
+5.0.0.GA	verifier	2008-12-05T04:53:37Z	
+5.0.1.GA		2009-02-24T04:57:31Z	
+5.0.1.GA	client	2009-02-24T04:57:31Z	
+5.0.1.GA	jboss	2009-02-24T04:57:31Z	
+5.0.1.GA	jboss-minimal	2009-02-24T04:57:31Z	
+5.0.1.GA	jmx-adaptor-plugin	2009-02-24T04:57:31Z	
+5.0.1.GA	jmx-invoker-adaptor-client	2009-02-24T04:57:31Z	
+5.0.1.GA	shutdown	2009-02-24T04:57:31Z	
+5.0.1.GA	testsuite-support	2009-02-24T04:57:31Z	
+5.0.1.GA	verifier	2009-02-24T04:57:31Z	
+5.1.0.Beta1		2009-04-29T19:50:16Z	
+5.1.0.Beta1	client	2009-04-29T19:50:16Z	
+5.1.0.Beta1	jboss	2009-04-29T19:50:16Z	
+5.1.0.Beta1	jboss-minimal	2009-04-29T19:50:16Z	
+5.1.0.Beta1	jmx-adaptor-plugin	2009-04-29T19:50:16Z	
+5.1.0.Beta1	jmx-invoker-adaptor-client	2009-04-29T19:50:16Z	
+5.1.0.Beta1	shutdown	2009-04-29T19:50:16Z	
+5.1.0.Beta1	testsuite-support	2009-04-29T19:50:16Z	
+5.1.0.Beta1	verifier	2009-04-29T19:50:16Z	
+5.1.0.CR1		2009-04-29T19:50:16Z	
+5.1.0.CR1	client	2009-04-29T19:50:16Z	
+5.1.0.CR1	jboss	2009-04-29T19:50:16Z	
+5.1.0.CR1	jboss-minimal	2009-04-29T19:50:16Z	
+5.1.0.CR1	jmx-adaptor-plugin	2009-04-29T19:50:16Z	
+5.1.0.CR1	jmx-invoker-adaptor-client	2009-04-29T19:50:16Z	
+5.1.0.CR1	shutdown	2009-04-29T19:50:16Z	
+5.1.0.CR1	testsuite-support	2009-04-29T19:50:16Z	
+5.1.0.CR1	verifier	2009-04-29T19:50:16Z	
+5.1.0.GA		2009-05-23T22:37:21Z	
+5.1.0.GA	client	2009-05-23T22:37:21Z	
+5.1.0.GA	jboss	2009-05-23T22:37:21Z	
+5.1.0.GA	jboss-minimal	2009-05-23T22:37:21Z	
+5.1.0.GA	jmx-adaptor-plugin	2009-05-23T22:37:21Z	
+5.1.0.GA	jmx-invoker-adaptor-client	2009-05-23T22:37:21Z	
+5.1.0.GA	shutdown	2009-05-23T22:37:21Z	
+5.1.0.GA	testsuite-support	2009-05-23T22:37:21Z	
+5.1.0.GA	verifier	2009-05-23T22:37:21Z	
+6.0.0.20100216-M2		2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	client	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	jboss	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	jboss-minimal	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	jmx-adaptor-plugin	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	jmx-invoker-adaptor-client	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	shutdown	2010-02-16T20:22:44Z	
+6.0.0.20100216-M2	testsuite-support	2010-02-16T20:22:44Z	
+6.0.0.20100429-M3		2010-05-02T21:18:41Z	
+6.0.0.20100429-M3	client	2010-05-02T21:18:54Z	
+6.0.0.20100429-M3	jboss	2010-05-02T21:18:56Z	
+6.0.0.20100429-M3	jboss-minimal	2010-05-02T21:19:01Z	
+6.0.0.20100429-M3	jmx-adaptor-plugin	2010-05-02T21:19:03Z	
+6.0.0.20100429-M3	jmx-invoker-adaptor-client	2010-05-02T21:19:04Z	
+6.0.0.20100429-M3	shutdown	2010-05-02T21:19:06Z	
+6.0.0.20100429-M3	testsuite-support	2010-05-02T21:19:07Z	
+6.0.0.20100721-M4		2010-07-23T21:49:00Z	
+6.0.0.20100721-M4	client	2010-07-23T21:49:25Z	
+6.0.0.20100721-M4	jboss	2010-07-23T21:49:28Z	
+6.0.0.20100721-M4	jboss-minimal	2010-07-23T21:49:34Z	
+6.0.0.20100721-M4	jmx-adaptor-plugin	2010-07-23T21:49:40Z	
+6.0.0.20100721-M4	jmx-invoker-adaptor-client	2010-07-23T21:49:43Z	
+6.0.0.20100721-M4	shutdown	2010-07-23T21:49:47Z	
+6.0.0.20100721-M4	testsuite-support	2010-07-23T21:49:50Z	
+6.0.0.20100911-M5		2010-09-23T01:38:48Z	
+6.0.0.20100911-M5	client	2010-09-23T01:39:01Z	
+6.0.0.20100911-M5	jboss	2010-09-23T01:39:03Z	
+6.0.0.20100911-M5	jboss-minimal	2010-09-23T01:39:07Z	
+6.0.0.20100911-M5	jmx-adaptor-plugin	2010-09-23T01:39:09Z	
+6.0.0.20100911-M5	jmx-invoker-adaptor-client	2010-09-23T01:39:10Z	
+6.0.0.20100911-M5	shutdown	2010-09-23T01:39:12Z	
+6.0.0.20100911-M5	testsuite-support	2010-09-23T01:39:13Z	
+6.0.0.20101110-CR1		2010-11-22T14:09:05Z	
+6.0.0.20101110-CR1	client	2010-11-22T14:09:18Z	
+6.0.0.20101110-CR1	jboss	2010-11-22T14:09:20Z	
+6.0.0.20101110-CR1	jboss-minimal	2010-11-22T14:09:25Z	
+6.0.0.20101110-CR1	jmx-adaptor-plugin	2010-11-22T14:09:27Z	
+6.0.0.20101110-CR1	jmx-invoker-adaptor-client	2010-11-22T14:09:29Z	
+6.0.0.20101110-CR1	shutdown	2010-11-22T14:09:30Z	
+6.0.0.20101110-CR1	testsuite-support	2010-11-22T14:09:32Z	
+6.0.0.Final		2010-12-28T13:11:50Z	
+6.0.0.Final	client	2010-12-28T13:12:12Z	
+6.0.0.Final	jboss	2010-12-28T13:12:15Z	
+6.0.0.Final	jboss-minimal	2010-12-28T13:12:21Z	
+6.0.0.Final	jmx-adaptor-plugin	2010-12-28T13:12:24Z	
+6.0.0.Final	jmx-invoker-adaptor-client	2010-12-28T13:12:30Z	
+6.0.0.Final	shutdown	2010-12-28T13:12:33Z	
+6.0.0.Final	testsuite-support	2010-12-28T13:12:37Z	
+6.0.0.M1		2009-12-02T19:06:00Z	
+6.0.0.M1	client	2009-12-02T19:06:00Z	
+6.0.0.M1	jboss	2009-12-02T19:06:00Z	
+6.0.0.M1	jboss-minimal	2009-12-02T19:06:00Z	
+6.0.0.M1	jmx-adaptor-plugin	2009-12-02T19:06:00Z	
+6.0.0.M1	jmx-invoker-adaptor-client	2009-12-02T19:06:00Z	
+6.0.0.M1	shutdown	2009-12-02T19:06:00Z	
+6.0.0.M1	testsuite-support	2009-12-02T19:06:00Z	
+6.0.0.M1	verifier	2009-12-02T19:06:00Z	
+6.1.0.Final		2011-08-16T12:41:53Z	
+6.1.0.Final	client	2011-08-16T12:42:05Z	
+6.1.0.Final	jboss	2011-08-16T12:42:06Z	
+6.1.0.Final	jboss-minimal	2011-08-16T12:42:10Z	
+6.1.0.Final	jmx-adaptor-plugin	2011-08-16T12:42:11Z	
+6.1.0.Final	jmx-invoker-adaptor-client	2011-08-16T12:42:12Z	
+6.1.0.Final	shutdown	2011-08-16T12:42:12Z	
+6.1.0.Final	testsuite-support	2011-08-16T12:42:13Z	

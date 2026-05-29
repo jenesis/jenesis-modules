@@ -1,0 +1,105 @@
+4.0.0		2021-02-13T22:33:36Z	
+4.1.0		2021-02-24T11:16:16Z	
+4.1.1		2021-03-06T18:48:08Z	
+4.2.0		2021-03-10T15:39:05Z	
+4.2.1		2021-03-16T18:25:56Z	
+4.2.2		2021-03-27T01:04:47Z	
+4.2.3		2021-03-27T21:53:45Z	
+4.3.0		2021-04-03T22:16:21Z	
+4.4.0		2021-04-19T00:15:40Z	
+4.5.0		2021-05-10T14:05:46Z	
+4.5.1		2021-05-13T21:54:49Z	
+4.6.0		2021-05-22T17:06:17Z	
+4.7.0		2021-05-25T19:06:43Z	
+4.7.1		2021-05-27T14:09:00Z	
+4.8.0		2021-05-31T16:54:55Z	
+4.8.1		2021-06-02T23:05:07Z	
+4.8.2		2021-07-05T09:58:36Z	
+4.8.3		2021-07-05T20:50:44Z	
+5.0.0		2021-08-19T21:53:34Z	
+5.0.0-RC1		2021-08-09T21:48:28Z	
+5.0.0-RC2		2021-08-12T21:57:27Z	
+5.0.0-RC3		2021-08-19T06:00:00Z	
+5.0.1		2021-08-24T05:35:14Z	
+5.1.0		2021-08-27T16:07:54Z	
+5.1.1		2021-08-28T22:39:52Z	
+5.10.0		2022-05-08T05:45:46Z	
+5.10.1		2022-06-04T05:39:07Z	
+5.11.0		2022-06-19T07:48:51Z	
+5.12.0		2022-06-30T19:11:52Z	
+5.13.0		2022-07-11T17:23:48Z	
+5.13.1		2022-07-15T05:40:14Z	
+5.14.0		2022-08-10T08:51:34Z	
+5.15.0		2022-09-12T13:17:35Z	
+5.15.1		2022-09-14T08:41:51Z	
+5.15.2		2022-09-17T06:56:44Z	
+5.15.3		2022-09-21T08:58:18Z	
+5.16.0		2022-10-05T11:53:44Z	
+5.16.1		2022-10-10T09:40:11Z	
+5.16.2		2022-10-23T09:01:33Z	
+5.17.0		2022-11-01T16:10:12Z	
+5.18.0		2022-11-26T07:21:23Z	
+5.18.1		2022-12-01T15:14:28Z	
+5.18.2		2023-03-31T16:19:26Z	
+5.2.0		2021-09-25T06:26:31Z	
+5.2.1		2021-09-29T15:42:18Z	
+5.3.0		2021-10-07T21:41:34Z	
+5.4.0		2021-10-17T11:36:26Z	
+5.4.1		2021-10-21T07:43:53Z	
+5.4.2		2021-10-25T08:04:27Z	
+5.4.3		2021-10-28T04:00:26Z	
+5.5.0		2021-11-04T12:49:51Z	
+5.5.1		2021-11-09T13:55:27Z	
+5.6.0		2021-11-29T14:57:20Z	
+5.6.1		2021-12-02T12:11:30Z	
+5.7.0		2022-01-06T12:54:14Z	
+5.7.1		2022-01-06T15:52:11Z	
+5.7.2		2022-01-16T10:21:31Z	
+5.8.0		2022-01-30T09:51:12Z	
+5.8.1		2022-02-06T10:43:58Z	
+5.8.2		2022-02-28T05:40:06Z	
+5.8.3		2022-04-01T13:07:12Z	
+5.9.0		2022-04-14T14:36:10Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.0/kvision-cordova-6.0.0.jar returned status 404
+6.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.0-Beta/kvision-cordova-6.0.0-Beta.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.1/kvision-cordova-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.2/kvision-cordova-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.3/kvision-cordova-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.4/kvision-cordova-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.5/kvision-cordova-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.0.6/kvision-cordova-6.0.6.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.1.0/kvision-cordova-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.1.1/kvision-cordova-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.1.2/kvision-cordova-6.1.2.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.2.0/kvision-cordova-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.2.1/kvision-cordova-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.2.2/kvision-cordova-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.2.3/kvision-cordova-6.2.3.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.3.0/kvision-cordova-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.3.1/kvision-cordova-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.3.2/kvision-cordova-6.3.2.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.4.0/kvision-cordova-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.5.0/kvision-cordova-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.5.1/kvision-cordova-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.5.2/kvision-cordova-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-cordova/6.6.0/kvision-cordova-6.6.0.jar returned status 404
+7.0.0		2023-08-16T17:36:38Z	
+7.0.1		2023-09-18T14:32:22Z	
+7.1.0		2023-11-04T21:33:39Z	
+7.2.0		2023-11-23T16:34:54Z	
+7.3.0		2024-01-06T13:55:28Z	
+7.3.1		2024-01-09T12:22:03Z	
+7.4.0		2024-02-13T17:32:55Z	
+7.4.1		2024-02-24T19:27:28Z	
+7.4.2		2024-03-02T14:44:10Z	
+7.4.3		2024-03-17T14:20:20Z	
+7.4.4		2024-04-01T12:37:43Z	
+7.4.5		2024-04-20T08:59:33Z	
+7.5.0		2024-05-25T13:12:19Z	
+7.5.1		2024-05-30T10:04:31Z	
+8.0.0		2024-09-06T18:39:25Z	
+8.0.0-RC		2024-08-06T16:39:00Z	
+8.0.1		2024-10-16T19:43:21Z	
+8.1.0		2024-12-03T15:01:08Z	
+8.1.1		2025-01-18T15:28:38Z	
+8.2.0		2025-02-07T17:37:37Z	

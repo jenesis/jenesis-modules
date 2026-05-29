@@ -1,0 +1,2 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/granito/maven/maven-parent/1/maven-parent-1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/granito/maven/maven-parent/2/maven-parent-2.jar returned status 404

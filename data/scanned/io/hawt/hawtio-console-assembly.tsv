@@ -1,0 +1,21 @@
+2.0-M1		2017-04-28T10:12:40Z	
+2.0-M2		2017-06-15T03:49:44Z	
+2.0-M3		2017-08-04T05:19:08Z	
+2.0-beta-1		2017-12-18T09:36:10Z	
+2.0-beta-2		2018-03-23T06:49:39Z	
+2.0.2		2018-06-01T06:16:36Z	
+2.0.3		2018-08-09T05:17:38Z	
+2.1.0		2018-09-18T08:09:00Z	
+2.2.0		2018-10-30T06:59:28Z	
+2.3.0		2018-11-07T01:20:22Z	
+2.4.0		2018-12-19T02:20:44Z	
+2.5.0		2019-02-06T07:28:29Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/4.5.0/hawtio-console-assembly-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/4.6.0/hawtio-console-assembly-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/4.6.1/hawtio-console-assembly-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/4.6.2/hawtio-console-assembly-4.6.2.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/4.7.0/hawtio-console-assembly-4.7.0.jar returned status 404
+5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/5.0-M1/hawtio-console-assembly-5.0-M1.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/5.0.0/hawtio-console-assembly-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/5.0.1/hawtio-console-assembly-5.0.1.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-assembly/5.1.0/hawtio-console-assembly-5.1.0.jar returned status 404

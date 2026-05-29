@@ -1,0 +1,82 @@
+4.1.5		2015-12-01T09:16:45Z	
+4.10.0		2016-09-13T14:22:23Z	
+4.10.1		2016-09-14T12:23:01Z	
+4.10.2		2016-09-16T14:40:35Z	
+4.10.3		2016-11-18T17:04:19Z	
+4.10.4		2016-11-21T15:50:55Z	
+4.11.0		2016-12-14T13:43:39Z	
+4.11.1		2017-02-27T14:58:20Z	
+4.11.2		2017-03-22T13:55:17Z	
+4.11.3		2017-04-05T13:19:10Z	
+4.11.4		2017-05-05T13:51:48Z	
+4.12.0		2017-12-13T13:09:22Z	
+4.12.1		2018-01-31T18:16:01Z	
+4.12.2		2018-02-28T16:41:16Z	
+4.12.3		2018-03-07T16:31:28Z	
+4.12.4		2018-03-09T15:45:07Z	
+4.13.0		2018-04-27T15:27:28Z	
+4.14.0		2018-06-08T10:09:39Z	
+4.15.0		2018-08-31T11:14:54Z	
+4.16.0		2018-11-08T00:32:25Z	
+4.17.0		2018-11-30T10:37:20Z	
+4.18.0		2019-06-26T09:30:57Z	
+4.18.1		2019-08-20T10:05:41Z	
+4.18.2		2019-10-07T11:18:51Z	
+4.18.3		2019-10-09T13:57:37Z	
+4.18.4		2019-11-15T10:51:32Z	
+4.19.0		2019-12-09T12:06:40Z	
+4.19.1		2019-12-13T14:14:05Z	
+4.2.0		2015-12-22T11:51:20Z	
+4.2.1		2016-01-08T12:55:02Z	
+4.2.2		2016-02-01T15:39:18Z	
+4.2.3		2016-02-08T15:13:39Z	
+4.20.0		2020-01-15T16:04:06Z	
+4.21.0		2020-03-19T13:35:26Z	
+4.21.1		2020-04-08T13:21:21Z	
+4.21.2		2020-05-15T11:21:07Z	
+4.22.0		2020-05-29T11:52:48Z	
+4.23.0		2020-07-24T11:10:03Z	
+4.24.0		2020-08-19T09:41:36Z	
+4.24.1		2020-09-10T12:30:53Z	
+4.25.0		2020-12-09T20:33:34Z	
+4.26.0		2021-01-15T23:37:40Z	
+4.26.1		2021-01-27T13:49:33Z	
+4.26.2		2021-02-01T14:10:35Z	
+4.27.0		2021-03-18T01:25:01Z	
+4.28.0		2021-04-26T17:13:56Z	
+4.28.1		2021-05-12T13:25:41Z	
+4.28.2		2021-06-11T20:59:25Z	
+4.28.3		2021-07-20T22:03:19Z	
+4.28.4		2021-08-09T12:45:40Z	
+4.28.5		2021-09-22T09:07:49Z	
+4.28.6		2021-10-19T14:10:40Z	
+4.28.7		2021-11-15T13:51:14Z	
+4.28.8		2021-12-06T14:27:43Z	
+4.28.9		2022-01-15T10:38:59Z	
+4.29.0		2022-02-08T09:28:46Z	
+4.29.1		2022-02-08T20:48:59Z	
+4.30.0		2022-04-11T13:44:42Z	
+4.30.1		2022-05-17T12:30:41Z	
+4.31.0		2022-07-28T13:45:31Z	
+4.31.1		2022-08-18T12:07:15Z	
+4.32.0		2022-09-07T08:40:59Z	
+4.33.0		2022-10-19T08:45:48Z	
+4.33.1		2022-11-25T12:43:14Z	
+4.33.2		2022-12-07T08:59:50Z	
+4.33.3		2023-02-16T11:44:27Z	
+4.33.4		2023-04-26T19:18:13Z	
+4.33.5		2023-07-05T08:16:46Z	
+4.34.0		2023-08-17T17:34:38Z	
+4.35.0		2023-09-12T10:00:37Z	
+4.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.35.1/adjust-android-trademob-4.35.1.jar returned status 404
+4.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.36.0/adjust-android-trademob-4.36.0.jar returned status 404
+4.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.37.0/adjust-android-trademob-4.37.0.jar returned status 404
+4.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.37.1/adjust-android-trademob-4.37.1.jar returned status 404
+4.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.0/adjust-android-trademob-4.38.0.jar returned status 404
+4.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.1/adjust-android-trademob-4.38.1.jar returned status 404
+4.38.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.2/adjust-android-trademob-4.38.2.jar returned status 404
+4.38.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.3/adjust-android-trademob-4.38.3.jar returned status 404
+4.38.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.4/adjust-android-trademob-4.38.4.jar returned status 404
+4.38.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adjust/sdk/adjust-android-trademob/4.38.5/adjust-android-trademob-4.38.5.jar returned status 404
+4.6.0		2016-03-15T17:33:57Z	
+4.7.0		2016-05-03T23:18:12Z	

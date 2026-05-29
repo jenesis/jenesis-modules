@@ -1,0 +1,2 @@
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/tests/embedded_ejb_smoke/6.2.1/embedded_ejb_smoke-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/tests/embedded_ejb_smoke/6.2.2/embedded_ejb_smoke-6.2.2.jar returned status 404

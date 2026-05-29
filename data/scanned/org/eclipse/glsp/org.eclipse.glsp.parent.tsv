@@ -1,0 +1,4 @@
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/glsp/org.eclipse.glsp.parent/2.5.0/org.eclipse.glsp.parent-2.5.0.jar returned status 404
+2.5.0.javax			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/glsp/org.eclipse.glsp.parent/2.5.0.javax/org.eclipse.glsp.parent-2.5.0.javax.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/glsp/org.eclipse.glsp.parent/2.6.0/org.eclipse.glsp.parent-2.6.0.jar returned status 404
+2.6.0.javax			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/glsp/org.eclipse.glsp.parent/2.6.0.javax/org.eclipse.glsp.parent-2.6.0.javax.jar returned status 404

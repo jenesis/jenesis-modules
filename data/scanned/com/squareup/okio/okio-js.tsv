@@ -1,0 +1,49 @@
+2.10.0		2021-01-07T22:14:38Z	
+2.3.0		2019-07-29T19:19:27Z	
+2.4.0		2019-08-26T13:03:42Z	
+2.4.1		2019-10-04T17:56:20Z	
+2.4.2		2019-12-11T14:51:48Z	
+2.4.3		2019-12-20T19:04:03Z	
+2.5.0		2020-03-20T15:14:36Z	
+2.6.0		2020-04-23T01:22:05Z	
+2.7.0		2020-07-07T13:51:43Z	
+2.7.0-alpha.lockfree.1		2020-05-24T01:39:45Z	
+2.7.0-alpha.lockfree.2		2020-06-01T01:18:05Z	
+2.8.0		2020-08-18T01:08:43Z	
+2.9.0		2020-10-05T03:48:21Z	
+3.0.0		2021-10-28T22:23:43Z	
+3.0.0-alpha.1		2021-01-08T02:49:12Z	
+3.0.0-alpha.10		2021-09-09T21:50:13Z	
+3.0.0-alpha.11		2021-10-23T19:20:55Z	
+3.0.0-alpha.2		2021-03-24T21:16:38Z	
+3.0.0-alpha.3		2021-04-06T22:32:24Z	
+3.0.0-alpha.4		2021-04-14T22:00:11Z	
+3.0.0-alpha.5		2021-04-27T21:51:46Z	
+3.0.0-alpha.6		2021-06-02T01:28:10Z	
+3.0.0-alpha.7		2021-07-12T21:04:36Z	
+3.0.0-alpha.8		2021-07-14T00:08:37Z	
+3.0.0-alpha.9		2021-08-02T04:12:41Z	
+3.1.0		2022-04-19T18:31:33Z	
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.10.0/okio-js-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.10.1/okio-js-3.10.1.jar returned status 404
+3.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.10.2/okio-js-3.10.2.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.11.0/okio-js-3.11.0.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.12.0/okio-js-3.12.0.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.13.0/okio-js-3.13.0.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.14.0/okio-js-3.14.0.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.15.0/okio-js-3.15.0.jar returned status 404
+3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.16.0/okio-js-3.16.0.jar returned status 404
+3.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.16.1/okio-js-3.16.1.jar returned status 404
+3.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.16.2/okio-js-3.16.2.jar returned status 404
+3.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.16.3/okio-js-3.16.3.jar returned status 404
+3.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.16.4/okio-js-3.16.4.jar returned status 404
+3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.17.0/okio-js-3.17.0.jar returned status 404
+3.2.0		2022-06-27T03:19:56Z	
+3.3.0		2023-01-07T22:00:28Z	
+3.4.0		2023-07-07T14:24:25Z	
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.5.0/okio-js-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.6.0/okio-js-3.6.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.7.0/okio-js-3.7.0.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.8.0/okio-js-3.8.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.9.0/okio-js-3.9.0.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-js/3.9.1/okio-js-3.9.1.jar returned status 404

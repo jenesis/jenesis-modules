@@ -1,0 +1,125 @@
+1.2.1	named	io.helidon.grpc	io.grpc	2019-08-21T17:57:49Z	1.2.1
+1.3.0	named	io.helidon.grpc	io.grpc	2019-09-13T04:58:38Z	1.3.0
+1.3.1	named	io.helidon.grpc	io.grpc	2019-09-27T19:53:48Z	1.3.1
+1.4.0	named	io.helidon.grpc	io.grpc	2019-11-22T19:11:10Z	1.4.0
+1.4.1	named	io.helidon.grpc	io.grpc	2019-12-18T20:47:27Z	1.4.1
+2.0.0-M1	named	io.helidon.grpc	io.grpc	2020-02-04T18:54:40Z	2.0.0-M1
+1.4.2	named	io.helidon.grpc	io.grpc	2020-02-27T23:34:39Z	1.4.2
+1.4.3	named	io.helidon.grpc	io.grpc	2020-03-09T19:25:23Z	1.4.3
+1.4.4	named	io.helidon.grpc	io.grpc	2020-03-18T00:14:08Z	1.4.4
+2.0.0-M2	named	io.helidon.grpc	io.grpc	2020-03-19T03:43:23Z	2.0.0-M2
+2.0.0-M3	named	io.helidon.grpc	io.grpc	2020-05-10T16:29:10Z	2.0.0-M3
+2.0.0-M4	named	io.helidon.grpc	io.grpc	2020-05-30T15:14:53Z	2.0.0-M4
+2.0.0-RC1	named	io.helidon.grpc	io.grpc	2020-06-03T21:19:46Z	2.0.0-RC1
+2.0.0-RC2	named	io.helidon.grpc	io.grpc	2020-06-18T02:45:45Z	2.0.0-RC2
+1.4.5	named	io.helidon.grpc	io.grpc	2020-06-19T00:09:55Z	1.4.5
+2.0.0	named	io.helidon.grpc	io.grpc	2020-06-23T00:01:13Z	2.0.0
+2.0.1	named	io.helidon.grpc	io.grpc	2020-06-29T20:34:26Z	2.0.1
+1.4.6	named	io.helidon.grpc	io.grpc	2020-07-17T20:45:17Z	1.4.6
+1.4.7	named	io.helidon.grpc	io.grpc	2020-08-14T22:15:10Z	1.4.7
+2.0.2	named	io.helidon.grpc	io.grpc	2020-09-02T19:13:10Z	2.0.2
+2.1.0	named	io.helidon.grpc	io.grpc	2020-10-16T02:04:54Z	2.1.0
+2.2.0	named	io.helidon.grpc	io.grpc	2020-12-18T02:45:21Z	2.2.0
+2.2.1	named	io.helidon.grpc	io.grpc	2021-02-10T17:02:16Z	2.2.1
+1.4.8	named	io.helidon.grpc	io.grpc	2021-03-02T00:42:50Z	1.4.8
+2.2.2	named	io.helidon.grpc	io.grpc	2021-03-30T21:16:37Z	2.2.2
+2.3.0	named	io.helidon.grpc	io.grpc	2021-05-12T05:46:04Z	2.3.0
+1.4.9	named	io.helidon.grpc	io.grpc	2021-06-16T17:40:11Z	1.4.9
+2.3.1	named	io.helidon.grpc	io.grpc	2021-06-22T17:07:49Z	2.3.1
+1.4.10	named	io.helidon.grpc	io.grpc	2021-07-03T00:02:25Z	1.4.10
+2.3.2	named	io.helidon.grpc	io.grpc	2021-07-08T21:05:59Z	2.3.2
+2.3.3	named	io.helidon.grpc	io.grpc	2021-09-06T17:00:22Z	2.3.3
+1.0.0	named	com.clickhouse	io.grpc	2021-10-06T10:29:23Z	1.0.0
+2.3.4	named	io.helidon.grpc	io.grpc	2021-10-07T19:12:13Z	2.3.4
+1.1.0	named	com.clickhouse	io.grpc	2021-10-15T14:36:27Z	1.1.0
+2.4.0	named	io.helidon.grpc	io.grpc	2021-10-29T05:06:03Z	2.4.0
+2.4.1	named	io.helidon.grpc	io.grpc	2021-12-20T20:04:07Z	2.4.1
+1.1.1	named	com.clickhouse	io.grpc	2022-01-07T12:01:06Z	1.1.1
+1.4.11	named	io.helidon.grpc	io.grpc	2022-01-27T20:25:10Z	1.4.11
+2.4.2	named	io.helidon.grpc	io.grpc	2022-02-07T22:12:23Z	2.4.2
+3.0.0-M1	named	io.helidon.grpc	io.grpc	2022-02-12T07:33:39Z	3.0.0-M1
+1.1.2	named	com.clickhouse	io.grpc	2022-03-05T13:04:27Z	1.1.2
+2.5.0	named	io.helidon.grpc	io.grpc	2022-04-02T03:16:47Z	2.5.0
+3.0.0-M2	named	io.helidon.grpc	io.grpc	2022-05-06T17:37:59Z	3.0.0-M2
+1.2.0	named	com.clickhouse	io.grpc	2022-05-14T05:46:35Z	1.2.0
+2.5.1	named	io.helidon.grpc	io.grpc	2022-06-04T02:28:58Z	2.5.1
+1.4.12	named	io.helidon.grpc	io.grpc	2022-07-08T01:41:48Z	1.4.12
+3.0.0-RC1	named	io.helidon.grpc	io.grpc	2022-07-14T06:58:53Z	3.0.0-RC1
+3.0.0-RC2	named	io.helidon.grpc	io.grpc	2022-07-19T02:39:38Z	3.0.0-RC2
+3.0.0	named	io.helidon.grpc	io.grpc	2022-07-26T00:47:01Z	3.0.0
+2.5.2	named	io.helidon.grpc	io.grpc	2022-08-01T23:57:52Z	2.5.2
+1.3.0	named	com.clickhouse	io.grpc	2022-08-07T05:02:52Z	1.3.0
+3.0.1	named	io.helidon.grpc	io.grpc	2022-08-13T00:32:11Z	3.0.1
+4.0.0-ALPHA1	named	io.helidon.grpc	io.grpc	2022-08-30T02:22:33Z	4.0.0-ALPHA1
+2.5.3	named	io.helidon.grpc	io.grpc	2022-09-08T23:38:56Z	2.5.3
+1.4.0	named	com.clickhouse	io.grpc	2022-09-26T16:20:10Z	1.4.0
+2.5.4	named	io.helidon.grpc	io.grpc	2022-10-06T06:35:52Z	2.5.4
+4.0.0-ALPHA2	named	io.helidon.grpc	io.grpc	2022-10-08T00:29:43Z	4.0.0-ALPHA2
+3.0.2	named	io.helidon.grpc	io.grpc	2022-10-12T23:32:15Z	3.0.2
+1.5.0	named	com.clickhouse	io.grpc	2022-11-10T06:49:19Z	1.5.0
+2.5.5	named	io.helidon.grpc	io.grpc	2022-12-16T05:54:24Z	2.5.5
+3.1.0	named	io.helidon.grpc	io.grpc	2022-12-21T18:03:31Z	3.1.0
+1.6.0	named	com.clickhouse	io.grpc	2023-01-03T07:09:52Z	1.6.0
+4.0.0-ALPHA3	named	io.helidon.grpc	io.grpc	2023-01-12T21:50:55Z	4.0.0-ALPHA3
+1.7.0	named	com.clickhouse	io.grpc	2023-01-18T07:59:02Z	1.7.0
+2.5.6	named	io.helidon.grpc	io.grpc	2023-01-20T00:48:47Z	2.5.6
+4.0.0-ALPHA4	named	io.helidon.grpc	io.grpc	2023-01-27T22:54:09Z	4.0.0-ALPHA4
+3.1.1	named	io.helidon.grpc	io.grpc	2023-02-04T02:13:07Z	3.1.1
+3.1.2	named	io.helidon.grpc	io.grpc	2023-02-10T23:39:26Z	3.1.2
+4.0.0-ALPHA5	named	io.helidon.grpc	io.grpc	2023-02-22T22:56:46Z	4.0.0-ALPHA5
+1.8.0	named	com.clickhouse	io.grpc	2023-03-02T03:23:55Z	1.8.0
+2.6.0	named	io.helidon.grpc	io.grpc	2023-03-10T00:34:13Z	2.6.0
+3.2.0	named	io.helidon.grpc	io.grpc	2023-03-21T18:41:19Z	3.2.0
+1.9.0	named	com.clickhouse	io.grpc	2023-04-05T00:15:51Z	1.9.0
+4.0.0-ALPHA6	named	io.helidon.grpc	io.grpc	2023-04-07T21:40:21Z	4.0.0-ALPHA6
+1.9.1	named	com.clickhouse	io.grpc	2023-04-26T05:09:39Z	1.9.1
+3.2.1	named	io.helidon.grpc	io.grpc	2023-04-29T01:49:47Z	3.2.1
+2.6.1	named	io.helidon.grpc	io.grpc	2023-05-24T15:43:34Z	2.6.1
+1.4.13	named	io.helidon.grpc	io.grpc	2023-05-26T22:00:11Z	1.4.13
+3.2.2	named	io.helidon.grpc	io.grpc	2023-06-30T15:15:51Z	3.2.2
+2.6.2	named	io.helidon.grpc	io.grpc	2023-07-12T19:20:39Z	2.6.2
+4.0.0-M1	named	io.helidon.grpc	io.grpc	2023-07-18T19:18:35Z	4.0.0-M1
+1.9.2	named	com.clickhouse	io.grpc	2023-08-03T13:45:57Z	1.9.2
+1.58.0	automatic	io.grpc	grpc-api	2023-09-06T20:25:35Z	
+1.59.0	automatic	io.grpc	grpc-api	2023-10-20T02:09:34Z	
+1.59.1	automatic	io.grpc	grpc-api	2023-11-28T03:31:03Z	
+1.59.1-patch1	automatic	io.github.sunny-chung	grpc-api	2023-12-02T11:53:38Z	
+1.60.0	automatic	io.grpc	grpc-api	2023-12-05T01:23:57Z	
+1.58.1	automatic	io.grpc	grpc-api	2023-12-14T21:07:24Z	
+1.60.1	automatic	io.grpc	grpc-api	2023-12-21T03:14:53Z	
+1.61.0	automatic	io.grpc	grpc-api	2024-01-12T04:07:15Z	
+1.60.2	automatic	io.grpc	grpc-api	2024-02-02T20:41:48Z	
+1.61.1	automatic	io.grpc	grpc-api	2024-02-02T21:00:02Z	
+1.62.2	automatic	io.grpc	grpc-api	2024-02-26T23:19:47Z	
+1.63.0	automatic	io.grpc	grpc-api	2024-04-04T18:54:43Z	
+1.64.0	automatic	io.grpc	grpc-api	2024-05-14T22:59:48Z	
+1.63.1	automatic	io.grpc	grpc-api	2024-05-17T02:36:50Z	
+1.64.1	automatic	io.grpc	grpc-api	2024-06-27T19:30:22Z	
+1.65.0	automatic	io.grpc	grpc-api	2024-06-27T23:53:03Z	
+1.65.1	automatic	io.grpc	grpc-api	2024-07-11T19:09:57Z	
+1.64.2	automatic	io.grpc	grpc-api	2024-07-11T22:33:47Z	
+1.63.2	automatic	io.grpc	grpc-api	2024-07-11T23:27:29Z	
+1.66.0	automatic	io.grpc	grpc-api	2024-08-07T05:40:12Z	
+1.68.0	automatic	io.grpc	grpc-api	2024-09-19T14:56:23Z	
+1.67.1	automatic	io.grpc	grpc-api	2024-09-27T08:18:15Z	
+1.68.1	automatic	io.grpc	grpc-api	2024-10-29T02:02:10Z	
+1.68.2	automatic	io.grpc	grpc-api	2024-11-28T02:05:48Z	
+1.69.0	automatic	io.grpc	grpc-api	2024-12-10T17:59:50Z	
+1.68.3	automatic	io.grpc	grpc-api	2025-01-16T21:00:21Z	
+1.69.1	automatic	io.grpc	grpc-api	2025-01-16T21:10:31Z	
+1.70.0	automatic	io.grpc	grpc-api	2025-01-22T09:32:22Z	
+1.71.0	automatic	io.grpc	grpc-api	2025-03-04T17:44:48Z	
+1.72.0	automatic	io.grpc	grpc-api	2025-04-15T15:14:09Z	
+1.73.0	automatic	io.grpc	grpc-api	2025-05-27T08:51:18Z	
+1.74.0	automatic	io.grpc	grpc-api	2025-07-26T00:08:28Z	
+1.75.0	automatic	io.grpc	grpc-api	2025-08-20T19:41:04Z	
+1.76.0	automatic	io.grpc	grpc-api	2025-10-07T13:17:26Z	
+1.76.1	automatic	io.grpc	grpc-api	2025-11-17T19:16:57Z	
+1.77.0	automatic	io.grpc	grpc-api	2025-11-17T19:24:29Z	
+1.76.2	automatic	io.grpc	grpc-api	2025-12-05T23:00:36Z	
+1.78.0	automatic	io.grpc	grpc-api	2025-12-23T18:19:36Z	
+1.77.1	automatic	io.grpc	grpc-api	2025-12-26T19:39:06Z	
+1.76.3	automatic	io.grpc	grpc-api	2026-01-28T00:23:20Z	
+1.79.0	automatic	io.grpc	grpc-api	2026-02-03T12:25:29Z	
+1.80.0	automatic	io.grpc	grpc-api	2026-03-17T14:01:04Z	
+1.81.0	automatic	io.grpc	grpc-api	2026-04-30T16:46:00Z	

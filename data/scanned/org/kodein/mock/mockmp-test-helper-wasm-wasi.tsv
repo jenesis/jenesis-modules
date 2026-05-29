@@ -1,0 +1,5 @@
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-wasm-wasi/1.16.0/mockmp-test-helper-wasm-wasi-1.16.0.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-wasm-wasi/1.17.0/mockmp-test-helper-wasm-wasi-1.17.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-wasm-wasi/2.0.0/mockmp-test-helper-wasm-wasi-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-wasm-wasi/2.0.1/mockmp-test-helper-wasm-wasi-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-wasm-wasi/2.0.2/mockmp-test-helper-wasm-wasi-2.0.2.jar returned status 404

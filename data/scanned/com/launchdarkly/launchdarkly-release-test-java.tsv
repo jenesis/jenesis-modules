@@ -1,0 +1,10 @@
+1.0.3		2021-05-13T03:21:21Z	
+3.0.13		2021-02-11T05:20:32Z	
+3.0.14		2021-02-11T07:03:25Z	
+3.0.15		2021-02-11T07:12:25Z	
+3.0.17		2021-02-11T16:13:45Z	
+3.1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/launchdarkly/launchdarkly-release-test-java/3.1.5.0/launchdarkly-release-test-java-3.1.5.0.jar returned status 404
+3.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/launchdarkly/launchdarkly-release-test-java/3.1.7/launchdarkly-release-test-java-3.1.7.jar returned status 404
+4.1.0		2021-08-15T04:10:14Z	
+4.1.1		2021-08-15T04:30:15Z	
+4.1.2		2021-08-25T17:06:13Z	

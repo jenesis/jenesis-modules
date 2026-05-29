@@ -1,0 +1,8 @@
+"0.1.0"			IllegalArgumentException: Illegal character in path at index 53: io/github/pavelannin/monadic-refreshable-core-iosx64/"0.1.0"/monadic-refreshable-core-iosx64-"0.1.0".jar
+"0.1.0"	metadata		IllegalArgumentException: Illegal character in path at index 53: io/github/pavelannin/monadic-refreshable-core-iosx64/"0.1.0"/monadic-refreshable-core-iosx64-"0.1.0"-metadata.jar
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelannin/monadic-refreshable-core-iosx64/0.1.0/monadic-refreshable-core-iosx64-0.1.0.jar returned status 404
+0.1.0	metadata	2025-01-17T08:33:10Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelannin/monadic-refreshable-core-iosx64/0.2.0/monadic-refreshable-core-iosx64-0.2.0.jar returned status 404
+0.2.0	metadata	2025-01-19T05:34:23Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelannin/monadic-refreshable-core-iosx64/1.0.0/monadic-refreshable-core-iosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2025-08-19T02:53:46Z	

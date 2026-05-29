@@ -1,0 +1,4 @@
+4.1.0-tomee-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rzo1/org/apache/cxf/cxf-parent/4.1.0-tomee-M1/cxf-parent-4.1.0-tomee-M1.jar returned status 404
+4.1.0-tomee-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rzo1/org/apache/cxf/cxf-parent/4.1.0-tomee-M2/cxf-parent-4.1.0-tomee-M2.jar returned status 404
+4.2.0-tomee-m0-071068f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rzo1/org/apache/cxf/cxf-parent/4.2.0-tomee-m0-071068f/cxf-parent-4.2.0-tomee-m0-071068f.jar returned status 404
+4.2.0-tomee-m0-ce15546			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rzo1/org/apache/cxf/cxf-parent/4.2.0-tomee-m0-ce15546/cxf-parent-4.2.0-tomee-m0-ce15546.jar returned status 404

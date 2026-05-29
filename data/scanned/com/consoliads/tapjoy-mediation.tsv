@@ -1,0 +1,5 @@
+12.10.0_v13_1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/consoliads/tapjoy-mediation/12.10.0_v13_1.0/tapjoy-mediation-12.10.0_v13_1.0.jar returned status 404
+v12.10.0-1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/consoliads/tapjoy-mediation/v12.10.0-1.0/tapjoy-mediation-v12.10.0-1.0.jar returned status 404
+v12.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/consoliads/tapjoy-mediation/v12.8.1/tapjoy-mediation-v12.8.1.jar returned status 404
+v12.8.1-1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/consoliads/tapjoy-mediation/v12.8.1-1.0/tapjoy-mediation-v12.8.1-1.0.jar returned status 404
+v12.8.1-1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/consoliads/tapjoy-mediation/v12.8.1-1.1/tapjoy-mediation-v12.8.1-1.1.jar returned status 404

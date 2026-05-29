@@ -1,0 +1,5 @@
+0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grumpystuff/grumpyrest-parent/0.10/grumpyrest-parent-0.10.jar returned status 404
+0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grumpystuff/grumpyrest-parent/0.11/grumpyrest-parent-0.11.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grumpystuff/grumpyrest-parent/0.7/grumpyrest-parent-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grumpystuff/grumpyrest-parent/0.8/grumpyrest-parent-0.8.jar returned status 404
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grumpystuff/grumpyrest-parent/0.9/grumpyrest-parent-0.9.jar returned status 404

@@ -1,0 +1,8 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/okres-native/1.0/okres-native-1.0.jar returned status 404
+1.0	metadata	2021-10-03T09:56:19Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/okres-native/2.0/okres-native-2.0.jar returned status 404
+2.0	metadata	2021-10-09T09:38:23Z	
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/okres-native/2.1/okres-native-2.1.jar returned status 404
+2.1	metadata	2021-10-09T09:53:09Z	
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/okres-native/2.2/okres-native-2.2.jar returned status 404
+2.2	metadata	2021-12-19T15:04:57Z	

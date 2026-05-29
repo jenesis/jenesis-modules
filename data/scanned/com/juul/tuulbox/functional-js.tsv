@@ -1,0 +1,36 @@
+3.0.0		2020-12-15T18:46:29Z	
+3.1.0		2021-01-29T22:14:45Z	
+3.1.1		2021-03-11T00:13:06Z	
+3.2.0		2021-03-16T17:48:10Z	
+4.0.0		2021-04-20T19:01:50Z	
+4.0.1		2021-04-22T06:44:14Z	
+4.1.0		2021-05-03T20:43:19Z	
+4.2.0		2021-06-30T19:22:34Z	
+4.3.0		2021-08-20T18:11:10Z	
+4.4.0		2021-09-07T23:16:56Z	
+4.5.0		2021-09-17T19:53:12Z	
+4.5.1		2021-09-20T18:24:49Z	
+4.5.2		2021-09-20T19:58:27Z	
+4.6.0		2021-09-30T00:02:31Z	
+4.7.0		2021-10-11T06:16:18Z	
+4.8.0		2021-10-20T19:40:24Z	
+5.0.0		2021-12-20T20:08:37Z	
+5.1.0		2022-01-13T07:13:16Z	
+6.0.0		2022-02-25T20:00:56Z	
+6.0.1		2022-03-11T00:09:32Z	
+6.1.0		2022-03-15T23:09:06Z	
+6.2.0		2022-03-29T19:36:52Z	
+6.2.1		2022-07-05T18:49:59Z	
+6.3.0		2022-07-12T20:53:13Z	
+6.4.0		2022-11-15T18:46:12Z	
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/6.4.1/functional-js-6.4.1.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/6.5.0/functional-js-6.5.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/7.0.0/functional-js-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/7.0.1/functional-js-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/7.1.0/functional-js-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/7.2.0/functional-js-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/7.3.0/functional-js-7.3.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/8.0.0/functional-js-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/8.0.1/functional-js-8.0.1.jar returned status 404
+8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/8.0.3/functional-js-8.0.3.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/tuulbox/functional-js/8.1.0/functional-js-8.1.0.jar returned status 404

@@ -1,0 +1,5 @@
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitexpress/topia/commons/commons-bom/4.3.1/commons-bom-4.3.1.jar returned status 404
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitexpress/topia/commons/commons-bom/5.1/commons-bom-5.1.jar returned status 404
+7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitexpress/topia/commons/commons-bom/7.2/commons-bom-7.2.jar returned status 404
+7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitexpress/topia/commons/commons-bom/7.5/commons-bom-7.5.jar returned status 404
+7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitexpress/topia/commons/commons-bom/7.6/commons-bom-7.6.jar returned status 404

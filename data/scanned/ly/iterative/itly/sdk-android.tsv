@@ -1,0 +1,29 @@
+1.0		2020-08-13T18:21:33Z	
+1.0.1		2020-08-14T19:01:01Z	
+1.1.0		2020-08-28T22:05:18Z	
+1.1.1		2020-08-31T23:22:52Z	
+1.2.0		2020-10-20T20:26:44Z	
+1.2.1		2020-12-16T01:38:16Z	
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.10/sdk-android-1.2.10.jar returned status 404
+1.2.10	debug-sources	2021-10-07T15:30:39Z	
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.11/sdk-android-1.2.11.jar returned status 404
+1.2.11	debug-sources	2021-10-26T17:05:54Z	
+1.2.2		2020-12-17T03:13:29Z	
+1.2.3		2020-12-18T01:49:43Z	
+1.2.4		2020-12-22T00:56:58Z	
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.5/sdk-android-1.2.5.jar returned status 404
+1.2.5	debug-sources	2020-12-23T05:03:21Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.6/sdk-android-1.2.6.jar returned status 404
+1.2.6	debug-sources	2021-05-26T21:02:52Z	
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.7/sdk-android-1.2.7.jar returned status 404
+1.2.7	debug-sources	2021-06-10T00:45:25Z	
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/1.2.8/sdk-android-1.2.8.jar returned status 404
+1.2.8	debug-sources	2021-07-01T16:47:43Z	
+2.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/2.0-beta-1/sdk-android-2.0-beta-1.jar returned status 404
+2.0-beta-1	debug-sources	2021-08-17T03:03:14Z	
+2.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/2.0-beta-2/sdk-android-2.0-beta-2.jar returned status 404
+2.0-beta-2	debug-sources	2021-08-23T15:47:44Z	
+2.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/2.0-beta-3/sdk-android-2.0-beta-3.jar returned status 404
+2.0-beta-3	debug-sources	2021-10-07T03:44:00Z	
+2.0-beta-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/iterative/itly/sdk-android/2.0-beta-4/sdk-android-2.0-beta-4.jar returned status 404
+2.0-beta-4	debug-sources	2021-10-26T16:48:09Z	

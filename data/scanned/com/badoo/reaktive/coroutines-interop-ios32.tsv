@@ -1,0 +1,4 @@
+1.1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/badoo/reaktive/coroutines-interop-ios32/1.1.22/coroutines-interop-ios32-1.1.22.jar returned status 404
+1.1.22-nmtc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/badoo/reaktive/coroutines-interop-ios32/1.1.22-nmtc/coroutines-interop-ios32-1.1.22-nmtc.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/badoo/reaktive/coroutines-interop-ios32/1.2.0/coroutines-interop-ios32-1.2.0.jar returned status 404
+1.2.0-nmtc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/badoo/reaktive/coroutines-interop-ios32/1.2.0-nmtc/coroutines-interop-ios32-1.2.0-nmtc.jar returned status 404

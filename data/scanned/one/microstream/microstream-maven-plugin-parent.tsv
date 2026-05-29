@@ -1,0 +1,2 @@
+02.00.00-MS-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/microstream/microstream-maven-plugin-parent/02.00.00-MS-GA/microstream-maven-plugin-parent-02.00.00-MS-GA.jar returned status 404
+02.01.00-MS-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/microstream/microstream-maven-plugin-parent/02.01.00-MS-GA/microstream-maven-plugin-parent-02.01.00-MS-GA.jar returned status 404

@@ -1,0 +1,4 @@
+3.8.16		2021-04-18T11:36:01Z	
+3.8.16-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/laoyuyu/aria/m3u8/3.8.16-beta-1/m3u8-3.8.16-beta-1.jar returned status 404
+3.8.16-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/laoyuyu/aria/m3u8/3.8.16-beta-2/m3u8-3.8.16-beta-2.jar returned status 404
+3.8.16-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/laoyuyu/aria/m3u8/3.8.16-beta-3/m3u8-3.8.16-beta-3.jar returned status 404

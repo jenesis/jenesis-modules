@@ -1,0 +1,4 @@
+${VERSION}			IllegalArgumentException: Illegal character in path at index 41: org/eclipse/edc/dataspace-authority-spi/${VERSION}/dataspace-authority-spi-${VERSION}.jar
+${VERSION}	test-fixtures		IllegalArgumentException: Illegal character in path at index 41: org/eclipse/edc/dataspace-authority-spi/${VERSION}/dataspace-authority-spi-${VERSION}-test-fixtures.jar
+0.0.1-milestone-8		2023-01-24T14:58:54Z	
+0.0.1-milestone-8	test-fixtures	2023-01-24T14:58:55Z	

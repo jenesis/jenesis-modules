@@ -1,0 +1,5 @@
+1.0.2-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lingfengcoder/dynamic-config/1.0.2-RELEASE/dynamic-config-1.0.2-RELEASE.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lingfengcoder/dynamic-config/1.0.3/dynamic-config-1.0.3.jar returned status 404
+1.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lingfengcoder/dynamic-config/1.0.3.1/dynamic-config-1.0.3.1.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lingfengcoder/dynamic-config/1.0.5/dynamic-config-1.0.5.jar returned status 404
+1.0.6-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lingfengcoder/dynamic-config/1.0.6-BETA/dynamic-config-1.0.6-BETA.jar returned status 404

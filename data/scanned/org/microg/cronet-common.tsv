@@ -1,0 +1,4 @@
+102.5005.125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/microg/cronet-common/102.5005.125/cronet-common-102.5005.125.jar returned status 404
+91.0.4472.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/microg/cronet-common/91.0.4472.120/cronet-common-91.0.4472.120.jar returned status 404
+91.0.4472.120.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/microg/cronet-common/91.0.4472.120.1/cronet-common-91.0.4472.120.1.jar returned status 404
+92.0.4509.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/microg/cronet-common/92.0.4509.1/cronet-common-92.0.4509.1.jar returned status 404

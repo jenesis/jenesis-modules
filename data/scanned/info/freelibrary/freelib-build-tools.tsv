@@ -1,0 +1,15 @@
+0.0.1		2013-12-21T05:27:46Z	
+0.0.3		2014-01-06T07:02:33Z	
+0.0.4		2014-01-08T05:31:09Z	
+0.0.5		2014-02-20T04:51:15Z	
+0.0.6		2014-03-13T03:58:11Z	
+0.0.7		2014-06-29T19:52:53Z	
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/13.0.0/freelib-build-tools-13.0.0.jar returned status 404
+13.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/13.0.1/freelib-build-tools-13.0.1.jar returned status 404
+13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/13.0.2/freelib-build-tools-13.0.2.jar returned status 404
+13.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/13.0.3/freelib-build-tools-13.0.3.jar returned status 404
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/14.0.0/freelib-build-tools-14.0.0.jar returned status 404
+14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/14.0.1/freelib-build-tools-14.0.1.jar returned status 404
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/14.0.2/freelib-build-tools-14.0.2.jar returned status 404
+14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/14.0.3/freelib-build-tools-14.0.3.jar returned status 404
+14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-build-tools/14.0.4/freelib-build-tools-14.0.4.jar returned status 404

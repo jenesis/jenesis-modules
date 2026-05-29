@@ -1,0 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sitconsulting/sit-base-bom/1.0.0/sit-base-bom-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sitconsulting/sit-base-bom/1.1.0/sit-base-bom-1.1.0.jar returned status 404
+1.1.0	site	2025-07-25T09:31:54Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sitconsulting/sit-base-bom/1.1.1/sit-base-bom-1.1.1.jar returned status 404
+1.1.1	site	2025-07-25T11:05:50Z	
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sitconsulting/sit-base-bom/1.1.2/sit-base-bom-1.1.2.jar returned status 404
+1.1.2	site	2025-08-15T17:04:37Z	

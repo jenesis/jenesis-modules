@@ -1,0 +1,11 @@
+1.1.8-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.1.8-alpha/dynamic-tp-test-1.1.8-alpha.jar returned status 404
+1.1.8-x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.1.8-x/dynamic-tp-test-1.1.8-x.jar returned status 404
+1.1.9-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.1.9-alpha/dynamic-tp-test-1.1.9-alpha.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.0/dynamic-tp-test-1.2.0.jar returned status 404
+1.2.0-x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.0-x/dynamic-tp-test-1.2.0-x.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.1/dynamic-tp-test-1.2.1.jar returned status 404
+1.2.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.1-beta/dynamic-tp-test-1.2.1-beta.jar returned status 404
+1.2.1-beta-x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.1-beta-x/dynamic-tp-test-1.2.1-beta-x.jar returned status 404
+1.2.1-x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.1-x/dynamic-tp-test-1.2.1-x.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.2/dynamic-tp-test-1.2.2.jar returned status 404
+1.2.2-x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/dynamictp/dynamic-tp-test/1.2.2-x/dynamic-tp-test-1.2.2-x.jar returned status 404

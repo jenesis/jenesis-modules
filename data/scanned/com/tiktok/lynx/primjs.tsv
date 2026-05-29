@@ -1,0 +1,8 @@
+0.0.1-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.0.1-beta.5/primjs-0.0.1-beta.5.jar returned status 404
+0.0.1-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.0.1-beta.6/primjs-0.0.1-beta.6.jar returned status 404
+0.0.1-for-ci-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.0.1-for-ci-test/primjs-0.0.1-for-ci-test.jar returned status 404
+0.0.1-gf			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.0.1-gf/primjs-0.0.1-gf.jar returned status 404
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.1.3/primjs-0.1.3.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.2.1/primjs-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/0.2.2/primjs-0.2.2.jar returned status 404
+for-ci-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tiktok/lynx/primjs/for-ci-test/primjs-for-ci-test.jar returned status 404

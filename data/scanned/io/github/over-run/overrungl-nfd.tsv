@@ -1,0 +1,88 @@
+0.1.0		2025-10-05T05:29:15Z	
+0.1.0	natives-freebsd-x64	2025-10-05T05:29:15Z	
+0.1.0	natives-linux-arm32	2025-10-05T05:29:15Z	
+0.1.0	natives-linux-arm64	2025-10-05T05:29:15Z	
+0.1.0	natives-linux-ppc64le	2025-10-05T05:29:14Z	
+0.1.0	natives-linux-riscv64	2025-10-05T05:29:15Z	
+0.1.0	natives-linux-x64	2025-10-05T05:29:14Z	
+0.1.0	natives-macos-arm64	2025-10-05T05:29:15Z	
+0.1.0	natives-macos-x64	2025-10-05T05:29:14Z	
+0.1.0	natives-windows-arm64	2025-10-05T05:29:15Z	
+0.1.0	natives-windows-x64	2025-10-05T05:29:15Z	
+0.1.0-alpha.0		2025-01-07T13:13:37Z	
+0.1.0-alpha.0	natives-freebsd-x64	2025-01-07T13:14:29Z	
+0.1.0-alpha.0	natives-linux-arm32	2025-01-07T13:13:48Z	
+0.1.0-alpha.0	natives-linux-arm64	2025-01-07T13:14:21Z	
+0.1.0-alpha.0	natives-linux-ppc64le	2025-01-07T13:14:02Z	
+0.1.0-alpha.0	natives-linux-riscv64	2025-01-07T13:14:14Z	
+0.1.0-alpha.0	natives-linux-x64	2025-01-07T13:14:03Z	
+0.1.0-alpha.0	natives-macos-arm64	2025-01-07T13:14:24Z	
+0.1.0-alpha.0	natives-macos-x64	2025-01-07T13:14:38Z	
+0.1.0-alpha.0	natives-windows-arm64	2025-01-07T13:14:33Z	
+0.1.0-alpha.0	natives-windows-x64	2025-01-07T13:13:49Z	
+0.1.0-alpha.1		2025-01-26T15:33:01Z	
+0.1.0-alpha.1	natives-freebsd-x64	2025-01-26T15:33:02Z	
+0.1.0-alpha.1	natives-linux-arm32	2025-01-26T15:33:02Z	
+0.1.0-alpha.1	natives-linux-arm64	2025-01-26T15:33:00Z	
+0.1.0-alpha.1	natives-linux-ppc64le	2025-01-26T15:33:02Z	
+0.1.0-alpha.1	natives-linux-riscv64	2025-01-26T15:33:01Z	
+0.1.0-alpha.1	natives-linux-x64	2025-01-26T15:33:02Z	
+0.1.0-alpha.1	natives-macos-arm64	2025-01-26T15:33:01Z	
+0.1.0-alpha.1	natives-macos-x64	2025-01-26T15:33:02Z	
+0.1.0-alpha.1	natives-windows-arm64	2025-01-26T15:33:01Z	
+0.1.0-alpha.1	natives-windows-x64	2025-01-26T15:33:00Z	
+0.1.0-alpha.2		2025-05-02T07:56:38Z	
+0.1.0-alpha.2	natives-freebsd-x64	2025-05-02T07:56:39Z	
+0.1.0-alpha.2	natives-linux-arm32	2025-05-02T07:56:40Z	
+0.1.0-alpha.2	natives-linux-arm64	2025-05-02T07:56:39Z	
+0.1.0-alpha.2	natives-linux-ppc64le	2025-05-02T07:56:40Z	
+0.1.0-alpha.2	natives-linux-riscv64	2025-05-02T07:56:40Z	
+0.1.0-alpha.2	natives-linux-x64	2025-05-02T07:56:39Z	
+0.1.0-alpha.2	natives-macos-arm64	2025-05-02T07:56:38Z	
+0.1.0-alpha.2	natives-macos-x64	2025-05-02T07:56:40Z	
+0.1.0-alpha.2	natives-windows-arm64	2025-05-02T07:56:39Z	
+0.1.0-alpha.2	natives-windows-x64	2025-05-02T07:56:38Z	
+0.1.0-alpha.3		2025-06-06T14:59:20Z	
+0.1.0-alpha.3	natives-freebsd-x64	2025-06-06T14:59:22Z	
+0.1.0-alpha.3	natives-linux-arm32	2025-06-06T14:59:20Z	
+0.1.0-alpha.3	natives-linux-arm64	2025-06-06T14:59:21Z	
+0.1.0-alpha.3	natives-linux-ppc64le	2025-06-06T14:59:22Z	
+0.1.0-alpha.3	natives-linux-riscv64	2025-06-06T14:59:22Z	
+0.1.0-alpha.3	natives-linux-x64	2025-06-06T14:59:20Z	
+0.1.0-alpha.3	natives-macos-arm64	2025-06-06T14:59:22Z	
+0.1.0-alpha.3	natives-macos-x64	2025-06-06T14:59:19Z	
+0.1.0-alpha.3	natives-windows-arm64	2025-06-06T14:59:21Z	
+0.1.0-alpha.3	natives-windows-x64	2025-06-06T14:59:19Z	
+0.1.0-beta.0		2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-freebsd-x64	2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-linux-arm32	2025-07-12T09:29:01Z	
+0.1.0-beta.0	natives-linux-arm64	2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-linux-ppc64le	2025-07-12T09:29:01Z	
+0.1.0-beta.0	natives-linux-riscv64	2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-linux-x64	2025-07-12T09:29:01Z	
+0.1.0-beta.0	natives-macos-arm64	2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-macos-x64	2025-07-12T09:29:01Z	
+0.1.0-beta.0	natives-windows-arm64	2025-07-12T09:29:00Z	
+0.1.0-beta.0	natives-windows-x64	2025-07-12T09:29:01Z	
+0.1.0-beta.1		2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-freebsd-x64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-linux-arm32	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-linux-arm64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-linux-ppc64le	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-linux-riscv64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-linux-x64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-macos-arm64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-macos-x64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-windows-arm64	2025-08-09T06:31:24Z	
+0.1.0-beta.1	natives-windows-x64	2025-08-09T06:31:24Z	
+0.2.0		2025-12-10T09:36:45Z	
+0.2.0	natives-freebsd-x64	2025-12-10T09:36:45Z	
+0.2.0	natives-linux-arm32	2025-12-10T09:36:45Z	
+0.2.0	natives-linux-arm64	2025-12-10T09:36:45Z	
+0.2.0	natives-linux-ppc64le	2025-12-10T09:36:45Z	
+0.2.0	natives-linux-riscv64	2025-12-10T09:36:45Z	
+0.2.0	natives-linux-x64	2025-12-10T09:36:45Z	
+0.2.0	natives-macos-arm64	2025-12-10T09:36:45Z	
+0.2.0	natives-macos-x64	2025-12-10T09:36:45Z	
+0.2.0	natives-windows-arm64	2025-12-10T09:36:45Z	
+0.2.0	natives-windows-x64	2025-12-10T09:36:45Z	

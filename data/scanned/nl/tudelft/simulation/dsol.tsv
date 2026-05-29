@@ -1,0 +1,5 @@
+4.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tudelft/simulation/dsol/4.2.10/dsol-4.2.10.jar returned status 404
+4.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tudelft/simulation/dsol/4.2.11/dsol-4.2.11.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tudelft/simulation/dsol/4.3.0/dsol-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tudelft/simulation/dsol/4.3.1/dsol-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tudelft/simulation/dsol/4.3.2/dsol-4.3.2.jar returned status 404

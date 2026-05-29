@@ -1,0 +1,5 @@
+2.1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/agora-rtm-special/2.1.11.1/agora-rtm-special-2.1.11.1.jar returned status 404
+2.2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/agora-rtm-special/2.2.1.1/agora-rtm-special-2.2.1.1.jar returned status 404
+2.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/agora-rtm-special/2.2.2.1/agora-rtm-special-2.2.2.1.jar returned status 404
+2.2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/agora-rtm-special/2.2.4.1/agora-rtm-special-2.2.4.1.jar returned status 404
+2.2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/agora-rtm-special/2.2.4.2/agora-rtm-special-2.2.4.2.jar returned status 404

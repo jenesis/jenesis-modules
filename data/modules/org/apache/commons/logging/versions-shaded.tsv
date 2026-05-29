@@ -1,0 +1,26 @@
+0.6.7	named	net.aequologica.neo	shakuntala-core	2019-04-17T13:03:11Z	
+1.10.0	named	org.jqassistant.contrib.plugin	jqassistant-docker-plugin	2021-06-27T18:16:48Z	
+1.10.0	named	org.jqassistant.contrib.plugin	jqassistant-graph-algorithms-plugin	2021-06-27T18:25:14Z	
+1.10.0	named	org.jqassistant.contrib.plugin	jqassistant-wordcloud-report-plugin	2021-06-27T18:27:42Z	
+1.10.0	named	org.jqassistant.contrib.plugin	jqassistant-apoc-plugin	2021-06-27T18:34:13Z	
+1.11.0	named	org.jqassistant.contrib.plugin	jqassistant-docker-plugin	2022-01-27T17:43:26Z	
+11.4.9	named	org.docx4j	docx4j-bundle	2023-01-15T21:38:14Z	2.0.0-alpha5
+11.4.10	named	org.docx4j	docx4j-bundle	2024-02-27T01:49:27Z	2.0.9
+8.3.10	named	org.docx4j	docx4j-bundle	2024-02-28T00:48:50Z	2.0.9
+11.4.11	named	org.docx4j	docx4j-bundle	2024-03-05T03:26:03Z	2.0.12
+1.1.0	named	org.apache.pinot	pinot-yammer	2024-03-06T18:40:22Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-clp-log	2024-03-06T18:57:12Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-s3	2024-03-06T19:01:58Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-batch-ingestion-spark-2.4	2024-03-06T19:02:41Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-batch-ingestion-spark-3	2024-03-06T19:03:16Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-dropwizard	2024-03-06T19:07:47Z	2.0.9
+1.1.0	named	org.apache.pinot	pinot-azure	2024-03-06T19:09:18Z	2.0.9
+8.3.11	named	org.docx4j	docx4j-bundle	2024-04-25T00:10:20Z	2.0.12
+1.2.0	named	org.apache.pinot	pinot-batch-ingestion-spark-3	2024-08-10T23:07:38Z	2.0.13
+11.5.0	named	org.docx4j	docx4j-bundle	2024-08-12T22:57:23Z	2.0.13
+8.3.12	named	org.docx4j	docx4j-bundle	2024-10-20T08:40:46Z	2.0.12
+11.5.1	named	org.docx4j	docx4j-bundle	2024-11-29T21:58:40Z	2.0.13
+8.3.13	named	org.docx4j	docx4j-bundle	2024-11-30T02:32:22Z	2.0.12
+8.3.14	named	org.docx4j	docx4j-bundle	2025-01-24T07:08:44Z	2.0.12
+11.5.2	named	org.docx4j	docx4j-bundle	2025-01-24T07:54:13Z	2.0.13
+11.5.3	named	org.docx4j	docx4j-bundle	2025-05-07T03:29:23Z	2.0.13

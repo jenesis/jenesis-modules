@@ -1,0 +1,10 @@
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/1.8.0/dsf-bpe-pom-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/1.9.0/dsf-bpe-pom-1.9.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.0/dsf-bpe-pom-2.0.0.jar returned status 404
+2.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.0-M3/dsf-bpe-pom-2.0.0-M3.jar returned status 404
+2.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.0-M4/dsf-bpe-pom-2.0.0-M4.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.0-RC1/dsf-bpe-pom-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.0-RC2/dsf-bpe-pom-2.0.0-RC2.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.1/dsf-bpe-pom-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.0.2/dsf-bpe-pom-2.0.2.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dsf/dsf-bpe-pom/2.1.0/dsf-bpe-pom-2.1.0.jar returned status 404

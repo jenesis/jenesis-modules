@@ -1,0 +1,2 @@
+1.2.4.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/arquillian/container/arquillian-tomcat-managed-parent/1.2.4.CR1/arquillian-tomcat-managed-parent-1.2.4.CR1.jar returned status 404
+1.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/arquillian/container/arquillian-tomcat-managed-parent/1.2.4.Final/arquillian-tomcat-managed-parent-1.2.4.Final.jar returned status 404

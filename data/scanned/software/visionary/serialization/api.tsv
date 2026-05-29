@@ -1,0 +1,6 @@
+2023.02.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/visionary/serialization/api/2023.02.06/api-2023.02.06.jar returned status 404
+2023.02.06	serialization	2023-02-10T19:15:45Z	
+2025.03.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/visionary/serialization/api/2025.03.28/api-2025.03.28.jar returned status 404
+2025.03.28	serialization	2025-03-09T07:16:42Z	
+2025.08.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/visionary/serialization/api/2025.08.20/api-2025.08.20.jar returned status 404
+2025.08.20	serialization	2025-09-02T08:44:14Z	

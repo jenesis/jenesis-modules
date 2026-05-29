@@ -1,0 +1,14 @@
+0.1.0		2023-03-05T02:10:35Z	
+0.1.1		2023-03-06T23:19:53Z	
+0.2.0		2023-03-28T16:13:46Z	
+0.2.2		2023-04-07T17:41:19Z	
+0.2.3		2023-04-08T11:22:35Z	
+0.2.4		2023-04-16T11:01:06Z	
+0.2.5		2023-06-07T12:13:34Z	
+0.2.6		2023-06-08T15:39:47Z	
+0.2.7		2023-06-09T15:19:41Z	
+0.3.0		2023-06-28T15:16:31Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/core/common-js/0.4.0/common-js-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/core/common-js/0.5.0/common-js-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/core/common-js/0.5.1/common-js-0.5.1.jar returned status 404
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kotlincrypto/core/common-js/0.5.3/common-js-0.5.3.jar returned status 404

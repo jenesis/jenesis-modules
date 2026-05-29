@@ -1,0 +1,9 @@
+2.0.0		2021-10-27T03:40:21Z	
+2.0.1		2021-11-24T12:15:44Z	
+2.0.2		2021-12-02T06:14:25Z	
+2.0.3-alpha1		2021-12-03T05:56:07Z	
+2.0.3-alpha2		2022-03-28T09:55:02Z	
+2.0.3-alpha3		2022-04-06T13:01:21Z	
+2.0.3-alpha4		2022-04-26T10:34:45Z	
+2.0.3-alpha5		2022-05-06T11:25:57Z	
+2.2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/jadekim/j-logger-coroutine-js/2.2.0-beta1/j-logger-coroutine-js-2.2.0-beta1.jar returned status 404

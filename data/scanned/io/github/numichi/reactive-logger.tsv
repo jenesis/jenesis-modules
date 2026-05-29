@@ -1,0 +1,45 @@
+1.0.0		2022-01-23T17:16:51Z	
+1.1.0		2022-01-24T08:07:51Z	
+1.1.1		2022-01-28T09:59:48Z	
+1.2.0		2022-01-28T15:52:34Z	
+1.2.1		2022-01-28T19:00:48Z	
+1.3.0		2022-02-12T16:11:06Z	
+2.0.0		2022-05-28T22:45:37Z	
+2.0.0-RC0		2022-02-16T20:23:00Z	
+2.0.0-RC1		2022-05-22T19:15:51Z	
+2.0.1		2022-05-29T09:17:04Z	
+2.1.0		2022-05-29T11:16:06Z	
+2.1.1		2022-05-31T16:46:27Z	
+2.1.2		2022-08-03T19:57:52Z	
+2.1.3		2022-08-05T19:40:19Z	
+3.0.0		2022-09-16T16:19:38Z	
+3.0.0-RC1		2022-09-01T20:03:36Z	
+3.0.0-RC2		2022-09-10T13:39:28Z	
+3.0.0-RC3		2022-09-11T11:26:06Z	
+3.0.1		2022-09-17T16:51:23Z	
+3.1.0		2022-09-18T17:09:18Z	
+3.2.0-RC0		2022-09-24T12:55:26Z	
+3.2.0-RC1		2022-09-24T14:13:39Z	
+3.2.0-RC2		2022-09-24T20:06:14Z	
+4.0.0		2022-10-09T10:18:17Z	
+4.0.0-RC0		2022-10-07T16:52:48Z	
+4.0.1		2022-10-09T19:45:42Z	
+4.0.2		2022-11-18T18:39:32Z	
+4.0.3		2022-11-20T10:09:11Z	
+4.0.4		2022-11-27T16:21:59Z	
+4.0.5		2022-11-27T17:14:57Z	
+5.0.0		2022-11-27T16:21:00Z	
+5.0.1		2022-11-27T17:17:00Z	
+5.1.0		2022-11-29T20:09:00Z	
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/numichi/reactive-logger/5.1.1/reactive-logger-5.1.1.jar returned status 404
+5.1.1	plain	2023-04-14T17:36:05Z	
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/numichi/reactive-logger/5.1.2/reactive-logger-5.1.2.jar returned status 404
+5.1.2	plain	2023-04-20T18:46:21Z	
+5.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/numichi/reactive-logger/5.1.3/reactive-logger-5.1.3.jar returned status 404
+5.1.3	plain	2023-04-23T08:17:15Z	
+5.1.4		2023-04-26T18:58:09Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/numichi/reactive-logger/6.0.0/reactive-logger-6.0.0.jar returned status 404
+6.0.0	plain	2024-03-07T20:35:34Z	
+6.0.1		2024-03-08T17:58:51Z	
+6.0.2		2024-04-14T14:09:08Z	
+6.0.3		2024-05-14T07:56:25Z	

@@ -1,0 +1,16 @@
+"1.0.5"			IllegalArgumentException: Illegal character in path at index 29: io/github/zs1973/single-core/"1.0.5"/single-core-"1.0.5".jar
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.0/single-core-1.0.0.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.5/single-core-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.6/single-core-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.7/single-core-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.8/single-core-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.0.9/single-core-1.0.9.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.0/single-core-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.1/single-core-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.2/single-core-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.3/single-core-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.4/single-core-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.5/single-core-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.6/single-core-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.7/single-core-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zs1973/single-core/1.1.8/single-core-1.1.8.jar returned status 404

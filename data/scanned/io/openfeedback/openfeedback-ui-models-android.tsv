@@ -1,0 +1,6 @@
+"1.0.0-alpha.4"			IllegalArgumentException: Illegal character in path at index 47: io/openfeedback/openfeedback-ui-models-android/"1.0.0-alpha.4"/openfeedback-ui-models-android-"1.0.0-alpha.4".jar
+"1.0.0-alpha.5"			IllegalArgumentException: Illegal character in path at index 47: io/openfeedback/openfeedback-ui-models-android/"1.0.0-alpha.5"/openfeedback-ui-models-android-"1.0.0-alpha.5".jar
+1.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-ui-models-android/1.0.0-alpha.2/openfeedback-ui-models-android-1.0.0-alpha.2.jar returned status 404
+1.0.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-ui-models-android/1.0.0-alpha.3/openfeedback-ui-models-android-1.0.0-alpha.3.jar returned status 404
+1.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-ui-models-android/1.0.0-alpha.4/openfeedback-ui-models-android-1.0.0-alpha.4.jar returned status 404
+1.0.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openfeedback/openfeedback-ui-models-android/1.0.0-alpha.6/openfeedback-ui-models-android-1.0.0-alpha.6.jar returned status 404

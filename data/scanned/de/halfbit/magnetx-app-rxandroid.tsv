@@ -1,0 +1,14 @@
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.6/magnetx-app-rxandroid-3.6.jar returned status 404
+3.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.6-rc1/magnetx-app-rxandroid-3.6-rc1.jar returned status 404
+3.6-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.6-rc2/magnetx-app-rxandroid-3.6-rc2.jar returned status 404
+3.6-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.6-rc3/magnetx-app-rxandroid-3.6-rc3.jar returned status 404
+3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.7/magnetx-app-rxandroid-3.7.jar returned status 404
+3.7	debug-javadoc	2023-01-20T15:29:18Z	
+3.7	debug-sources	2023-01-20T15:29:13Z	
+3.7	release-javadoc	2023-01-20T15:29:10Z	
+3.7	release-sources	2023-01-20T15:29:30Z	
+3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rxandroid/3.8/magnetx-app-rxandroid-3.8.jar returned status 404
+3.8	debug-javadoc	2023-03-27T09:55:20Z	
+3.8	debug-sources	2023-03-27T09:55:17Z	
+3.8	release-javadoc	2023-03-27T09:55:11Z	
+3.8	release-sources	2023-03-27T09:55:16Z	

@@ -1,0 +1,878 @@
+2.0.0	automatic	info.picocli	picocli	2017-10-21T11:09:46Z	
+2.0.1	automatic	info.picocli	picocli	2017-10-25T14:15:22Z	
+2.0.2	automatic	info.picocli	picocli	2017-11-05T04:53:13Z	
+2.0.3	automatic	info.picocli	picocli	2017-11-12T11:54:38Z	
+2.1.0	automatic	info.picocli	picocli	2017-11-29T15:46:29Z	
+2.2.0	automatic	info.picocli	picocli	2017-12-21T12:34:40Z	
+2.2.1	automatic	info.picocli	picocli	2018-01-02T18:05:01Z	
+2.2.2	automatic	info.picocli	picocli	2018-02-07T14:33:48Z	
+2.3.0	automatic	info.picocli	picocli	2018-02-13T11:19:42Z	
+3.0.0-alpha-1	automatic	info.picocli	picocli	2018-03-20T17:05:00Z	
+3.0.0-alpha-2	automatic	info.picocli	picocli	2018-03-27T13:11:43Z	
+3.0.0-alpha-3	automatic	info.picocli	picocli	2018-03-31T02:38:17Z	
+3.0.0-alpha-4	automatic	info.picocli	picocli	2018-04-03T12:17:42Z	
+3.0.0-alpha-5	automatic	info.picocli	picocli	2018-04-10T18:32:19Z	
+3.0.0-alpha-6	automatic	info.picocli	picocli	2018-04-12T14:46:26Z	
+3.0.0-beta-1	automatic	info.picocli	picocli	2018-04-18T13:00:17Z	
+3.0.0-beta-2	automatic	info.picocli	picocli	2018-04-21T16:14:31Z	
+3.0.0	automatic	info.picocli	picocli	2018-05-01T00:54:18Z	
+3.0.1	automatic	info.picocli	picocli	2018-05-14T16:02:45Z	
+3.0.2	automatic	info.picocli	picocli	2018-05-23T11:58:39Z	
+3.1.0	automatic	info.picocli	picocli	2018-06-11T15:46:48Z	
+3.2.0	automatic	info.picocli	picocli	2018-07-06T12:35:40Z	
+3.3.0	automatic	info.picocli	picocli	2018-07-13T19:18:38Z	
+3.4.0	automatic	info.picocli	picocli	2018-08-01T15:57:19Z	
+3.5.0	automatic	info.picocli	picocli	2018-08-07T15:09:12Z	
+3.5.1	automatic	info.picocli	picocli	2018-08-11T11:30:47Z	
+3.5.2	automatic	info.picocli	picocli	2018-08-14T03:57:47Z	
+3.6.0	automatic	info.picocli	picocli	2018-09-12T13:06:01Z	
+3.6.1	automatic	info.picocli	picocli	2018-09-27T22:35:07Z	
+3.7.0	automatic	info.picocli	picocli	2018-10-21T10:43:49Z	
+3.8.0	automatic	info.picocli	picocli	2018-11-13T12:37:33Z	
+3.8.1	automatic	info.picocli	picocli	2018-12-02T13:00:30Z	
+3.8.2	automatic	info.picocli	picocli	2018-12-04T23:24:00Z	
+3.9.0	automatic	info.picocli	picocli	2019-01-04T15:31:54Z	
+3.9.1	automatic	info.picocli	picocli	2019-01-10T23:10:14Z	
+3.9.2	automatic	info.picocli	picocli	2019-01-20T11:01:50Z	
+3.9.3	automatic	info.picocli	picocli	2019-02-01T09:58:23Z	
+3.9.4	automatic	info.picocli	picocli	2019-02-17T10:55:02Z	
+3.9.5	automatic	info.picocli	picocli	2019-02-18T13:38:22Z	
+4.0.0-alpha-1	automatic	info.picocli	picocli	2019-03-30T09:44:05Z	
+3.9.6	automatic	info.picocli	picocli	2019-04-06T10:44:35Z	
+4.0.0-alpha-2	named	info.picocli	picocli-jpms-module	2019-04-19T09:17:53Z	
+4.0.0-alpha-3	named	info.picocli	picocli-jpms-module	2019-05-13T12:19:30Z	
+4.0.0-beta-1b	named	info.picocli	picocli	2019-06-05T12:03:25Z	
+4.0.0-beta-2	named	info.picocli	picocli	2019-06-19T16:07:17Z	
+4.0.0	named	info.picocli	picocli	2019-07-17T04:06:52Z	
+4.0.1	named	info.picocli	picocli	2019-07-19T13:02:10Z	
+4.0.2	named	info.picocli	picocli	2019-08-11T23:25:48Z	
+4.0.3	named	info.picocli	picocli	2019-08-26T15:09:52Z	
+4.0.4	named	info.picocli	picocli	2019-09-08T22:37:49Z	
+0.1.0	named	com.tngtech.keycloakmock	standalone	2019-11-08T16:45:20Z	
+4.1.0	named	info.picocli	picocli	2019-11-22T09:58:06Z	
+4.1.1	named	info.picocli	picocli	2019-11-26T15:31:20Z	
+4.1.2	named	info.picocli	picocli	2019-12-08T07:56:06Z	
+4.1.3	named	info.picocli	picocli	2019-12-21T22:12:53Z	
+4.1.4	named	info.picocli	picocli	2019-12-21T23:33:58Z	
+0.2.0	named	com.tngtech.keycloakmock	standalone	2020-01-10T16:50:33Z	
+1.0.0	named	com.instaclustr	instaclustr-backup-restore	2020-01-16T14:37:42Z	
+0.1.0	named	de.jpdigital	owlapi-simplex-cli	2020-01-31T17:45:14Z	
+1.1.0	named	com.instaclustr	instaclustr-backup-restore	2020-02-04T14:09:37Z	
+0.1.1	named	de.jpdigital	owlapi-simplex-cli	2020-02-04T19:24:42Z	
+1.1.1	named	com.instaclustr	instaclustr-backup-restore	2020-02-09T23:29:50Z	
+4.2.0	named	info.picocli	picocli	2020-02-11T22:57:03Z	
+1.1.2	named	com.instaclustr	instaclustr-backup-restore	2020-02-21T17:15:08Z	
+1.1.3	named	com.instaclustr	instaclustr-backup-restore	2020-03-09T16:19:13Z	
+1.1.4	named	com.instaclustr	instaclustr-backup-restore	2020-03-10T16:34:21Z	
+1.1.5	named	com.instaclustr	instaclustr-backup-restore	2020-03-20T21:16:50Z	
+1.1.6	named	com.instaclustr	instaclustr-backup-restore	2020-04-14T20:50:35Z	
+1.1.7	named	com.instaclustr	instaclustr-backup-restore	2020-04-15T16:12:57Z	
+0.0.36	named	org.caseine	caseine.vpl.tools.CLI	2020-04-15T16:16:27Z	
+0.0.37	named	org.caseine	caseine.vpl.tools.CLI	2020-04-15T22:30:51Z	
+0.0.38	named	org.caseine	caseine.vpl.tools.CLI	2020-04-16T12:17:09Z	
+1.1.8	named	com.instaclustr	instaclustr-backup-restore	2020-04-16T17:54:17Z	
+1.0.0	named	com.instaclustr	cassandra-sidecar	2020-04-16T20:52:58Z	
+0.3.0	named	com.tngtech.keycloakmock	standalone	2020-04-17T15:46:34Z	
+0.1.0	named	com.ninja-beans.crawler	cloudflare-iuam-solver-dist	2020-04-26T00:38:07Z	
+4.3.0	named	info.picocli	picocli	2020-05-12T22:36:54Z	
+4.3.1	named	info.picocli	picocli	2020-05-14T22:52:49Z	
+4.3.2	named	info.picocli	picocli	2020-05-16T09:11:56Z	
+2.0.0-alpha1	named	com.instaclustr	instaclustr-backup-restore	2020-05-28T21:59:51Z	
+2.0.0-alpha1	named	com.instaclustr	cassandra-sidecar	2020-05-28T23:47:06Z	
+2.0.0-alpha2	named	com.instaclustr	instaclustr-backup-restore	2020-06-07T18:19:30Z	
+2.0.0-alpha2	named	com.instaclustr	cassandra-sidecar	2020-06-07T19:05:52Z	
+2.0.0-alpha3	named	com.instaclustr	instaclustr-backup-restore	2020-06-08T18:37:30Z	
+2.0.0-alpha3	named	com.instaclustr	cassandra-sidecar	2020-06-08T20:05:15Z	
+2.0.0-rc1	named	eu.toop	toop-demoui-dcstandalone	2020-06-19T10:51:53Z	
+0.4.0	named	com.tngtech.keycloakmock	standalone	2020-06-19T20:46:26Z	
+2.0.0-rc2	named	eu.toop	toop-demoui-dcstandalone	2020-06-20T00:43:30Z	
+2.0.0	named	com.pessetto.origamismtp	OrigamiSMTP	2020-06-22T16:18:01Z	
+2.0.3	named	com.pessetto.origamismtp	OrigamiSMTP	2020-06-25T05:47:40Z	
+2.0.0-alpha4	named	com.instaclustr	instaclustr-backup-restore	2020-07-01T11:11:09Z	
+2.0.0-alpha4	named	com.instaclustr	cassandra-sidecar	2020-07-01T13:26:45Z	
+4.4.0	named	info.picocli	picocli	2020-07-05T02:25:20Z	
+2.0.0-rc3	named	eu.toop	toop-demoui-dcstandalone	2020-07-14T10:45:03Z	
+2.0.0-alpha5	named	com.instaclustr	instaclustr-backup-restore	2020-07-17T13:41:48Z	
+2.0.0-alpha5	named	com.instaclustr	cassandra-sidecar	2020-07-20T07:53:28Z	
+4.5.0	named	info.picocli	picocli	2020-08-01T03:06:59Z	
+1.0.0-beta2	named	com.aeontronix.enhancedmule	enhanced-mule-installer-cli	2020-08-12T06:29:22Z	
+4.5.1	named	info.picocli	picocli	2020-08-26T05:24:48Z	
+2.0.0	named	eu.toop	toop-demoui-dcstandalone	2020-08-30T21:02:54Z	
+0.0.41	named	org.caseine	caseine.vpl.tools.CLI	2020-09-13T01:33:35Z	
+2.0.0-alpha6	named	com.instaclustr	instaclustr-backup-restore	2020-09-21T01:27:59Z	
+2.0.0-alpha6	named	com.instaclustr	cassandra-sidecar	2020-09-21T07:45:49Z	
+2.0.0-alpha7	named	com.instaclustr	instaclustr-backup-restore	2020-09-22T08:22:05Z	
+2.0.0-alpha7	named	com.instaclustr	cassandra-sidecar	2020-09-22T09:13:49Z	
+2.0.0-alpha8	named	com.instaclustr	instaclustr-backup-restore	2020-09-29T20:02:40Z	
+1.0	named	com.instaclustr	cassandra-3	2020-10-01T14:03:57Z	
+1.0	named	com.instaclustr	sstable-generator	2020-10-01T14:04:14Z	
+1.0	named	com.instaclustr	cassandra-4	2020-10-01T14:04:21Z	
+1.1	named	com.instaclustr	sstable-generator	2020-10-01T16:13:55Z	
+1.1	named	com.instaclustr	sstable-generator-cassandra-4	2020-10-01T16:13:58Z	
+1.1	named	com.instaclustr	sstable-generator-cassandra-3	2020-10-01T16:14:03Z	
+2.0.0-alpha8	named	com.instaclustr	cassandra-sidecar	2020-10-01T20:38:44Z	
+1.2	named	com.instaclustr	sstable-generator-cassandra-4	2020-10-05T20:37:14Z	
+1.2	named	com.instaclustr	sstable-generator-cassandra-3	2020-10-05T20:37:24Z	
+1.2	named	com.instaclustr	sstable-generator-cassandra-2	2020-10-05T20:37:32Z	
+1.2	named	com.instaclustr	sstable-generator	2020-10-05T20:37:45Z	
+1.0.0	named	com.instaclustr	ttl-remover-impl	2020-10-06T08:52:21Z	
+1.1.0	named	com.instaclustr	ttl-remover-impl	2020-10-07T17:58:23Z	
+1.0.0	named	com.instaclustr	esop	2020-10-09T17:37:15Z	
+1.0.0	named	com.instaclustr	icarus	2020-10-09T18:20:30Z	
+1.0.1	named	com.instaclustr	esop	2020-10-13T19:50:30Z	
+1.0.1	named	com.instaclustr	icarus	2020-10-13T20:06:46Z	
+4.5.2	named	info.picocli	picocli	2020-10-14T11:45:33Z	
+1.0.0	named	com.instaclustr	minotaur	2020-10-30T18:33:35Z	
+2.1.0	named	eu.toop	toop-demoui-dcstandalone	2020-11-06T13:04:03Z	
+1.0.2	named	com.instaclustr	esop	2020-11-06T15:25:46Z	
+1.0.3	named	com.instaclustr	esop	2020-11-06T15:47:31Z	
+1.0.2	named	com.instaclustr	icarus	2020-11-06T16:12:27Z	
+1.0.3	named	com.instaclustr	icarus	2020-11-06T16:21:23Z	
+3.0.1796	named	io.sealights.on-premise.agents	sl-build-scanner	2020-11-08T17:40:56Z	
+2.1.0-1	named	eu.toop	toop-demoui-dcstandalone	2020-11-09T17:04:33Z	
+1.3	named	com.instaclustr	sstable-generator	2020-11-11T12:11:53Z	
+1.3	named	com.instaclustr	sstable-generator-cassandra-4	2020-11-11T12:11:59Z	
+1.3	named	com.instaclustr	sstable-generator-cassandra-3	2020-11-11T12:12:04Z	
+1.3	named	com.instaclustr	sstable-generator-cassandra-2	2020-11-11T12:12:07Z	
+1.1.1	named	com.instaclustr	ttl-remover-impl	2020-11-11T14:07:11Z	
+1.0.4	named	com.instaclustr	esop	2020-11-16T19:21:06Z	
+1.0.4	named	com.instaclustr	icarus	2020-11-16T19:53:50Z	
+1.0.5	named	com.instaclustr	icarus	2020-11-17T11:53:41Z	
+0.15	named	com.nitorcreations	aws-vault-cli	2020-11-26T21:01:33Z	
+0.16	named	com.nitorcreations	aws-vault-cli	2020-11-26T21:23:15Z	
+0.6.9	named	xyz.ottr.lutra	lutra-cli	2020-12-04T19:51:26Z	
+0.6.10	named	xyz.ottr.lutra	lutra-cli	2020-12-08T14:34:28Z	
+3.0.1812	named	io.sealights.on-premise.agents	sl-build-scanner	2020-12-09T10:55:58Z	
+3.1.1830	named	io.sealights.on-premise.agents	sl-build-scanner	2020-12-21T20:05:29Z	
+4.6.0	named	info.picocli	picocli	2021-01-01T09:14:53Z	
+4.6.1	named	info.picocli	picocli	2021-01-03T03:03:05Z	
+1.3.0-alpha1	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-03T04:54:44Z	
+1.3.0-alpha2	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-03T07:33:47Z	
+1.3.0-alpha3	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-04T00:40:07Z	
+1.3.0-alpha4	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-04T01:11:18Z	
+1.3.0-alpha5	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-04T01:48:33Z	
+1.3.0-alpha8	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-05T07:42:36Z	
+3.1.1863	named	io.sealights.on-premise.agents	sl-build-scanner	2021-01-18T15:46:30Z	
+2.1.1	named	eu.toop	toop-demoui-dcstandalone	2021-01-19T18:37:07Z	
+3.1.1870	named	io.sealights.on-premise.agents	sl-build-scanner	2021-01-24T15:20:45Z	
+1.0.5	named	com.instaclustr	esop	2021-01-25T15:32:50Z	
+1.0.6	named	com.instaclustr	icarus	2021-01-25T16:21:37Z	
+1.3.0-alpha9	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-01-29T06:03:16Z	
+1.0.6	named	com.instaclustr	esop	2021-02-02T09:15:42Z	
+1.0.7	named	com.instaclustr	icarus	2021-02-02T10:44:11Z	
+3.1.1892	named	io.sealights.on-premise.agents	sl-build-scanner	2021-02-08T16:55:03Z	
+1.0.7	named	com.instaclustr	esop	2021-02-09T05:34:31Z	
+1.0.8	named	com.instaclustr	esop	2021-02-16T07:11:12Z	
+1.0.8	named	com.instaclustr	icarus	2021-02-16T07:24:14Z	
+1.0.9	named	com.instaclustr	esop	2021-02-22T21:23:19Z	
+1.0.9	named	com.instaclustr	icarus	2021-02-23T09:00:43Z	
+1.3.0-beta1	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-02-23T16:20:31Z	
+1.3.0-beta2	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-02-23T17:27:46Z	
+3.1.1902	named	io.sealights.on-premise.agents	sl-build-scanner	2021-02-25T13:18:31Z	
+1.3.0-beta3	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-03T04:45:39Z	
+1.3.0-beta4	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-04T08:31:56Z	
+1.3.0-beta5	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-05T04:06:54Z	
+1.3.0-beta6	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-05T05:47:06Z	
+1.3.0-beta7	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-05T06:38:55Z	
+1.3.0-beta8	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-12T04:04:23Z	
+3.1.1910	named	io.sealights.on-premise.agents	sl-build-scanner	2021-03-16T22:07:34Z	
+1.3.0-beta9	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-23T02:29:49Z	
+1.3.0-beta10	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-23T21:40:29Z	
+1.3.0-beta11	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-24T14:54:11Z	
+0.1	named	com.github.crawler-commons	urlfrontier-client	2021-03-26T15:29:42Z	
+1.3.0-beta12	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-30T04:53:55Z	
+1.3.0-beta13	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-03-31T03:16:18Z	
+1.3.0-beta14	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-04-08T06:15:43Z	
+1.1.0	named	org.apache.hadoop	hadoop-ozone-filesystem-shaded	2021-04-09T04:43:16Z	
+1.3.0-beta15	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-04-11T21:57:26Z	
+1.3.0-beta16	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-04-12T00:17:04Z	
+1.2.9	named	technology.dice.open	dice-where-downloader	2021-04-26T09:57:20Z	
+0.2	named	com.github.crawler-commons	urlfrontier-client	2021-04-27T13:39:30Z	
+1.3.0-beta17	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-05-04T05:53:29Z	
+1.3.0-beta18	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-05-04T18:37:07Z	
+1.1.0	named	com.instaclustr	esop	2021-05-10T07:22:20Z	
+1.0.0	named	com.instaclustr	ic-sstable-tools-4.0-rc1	2021-05-11T14:02:46Z	
+2021.0.0	named	io.github.davidwhitlock.cs410J.original	student	2021-05-15T04:51:12Z	
+2021.1.0	named	io.github.davidwhitlock.cs410J.original	student	2021-05-15T21:04:46Z	
+2021.1.1	named	io.github.davidwhitlock.cs410J.original	student	2021-05-16T03:58:15Z	
+0.0.44	named	org.caseine	caseine.vpl.tools.CLI	2021-05-17T21:04:56Z	
+3.1.1925	named	io.sealights.on-premise.agents	sl-build-scanner	2021-05-20T10:57:25Z	
+2021.1.2	named	io.github.davidwhitlock.cs410J.original	student	2021-05-24T04:07:02Z	
+0.0.45	named	org.caseine	caseine.vpl.tools.CLI	2021-05-25T06:36:35Z	
+1.1.1	named	com.instaclustr	esop	2021-05-25T07:56:11Z	
+1.1.2	named	com.instaclustr	esop	2021-05-25T07:59:14Z	
+1.1.1	named	com.instaclustr	icarus	2021-05-25T08:16:21Z	
+2021.2.0	named	io.github.davidwhitlock.cs410J.original	student	2021-06-03T03:24:23Z	
+2.0.4	named	com.pessetto.origamismtp	OrigamiSMTP	2021-06-03T18:22:25Z	
+3.1.1932	named	io.sealights.on-premise.agents	sl-build-scanner	2021-06-14T06:46:13Z	
+0.0.46	named	org.caseine	caseine.vpl.tools.CLI	2021-06-16T21:50:00Z	
+2021.3.0	named	io.github.davidwhitlock.cs410J.original	student	2021-06-18T05:48:36Z	
+0.8.0	named	com.tngtech.keycloakmock	standalone	2021-06-21T11:13:01Z	
+1.3.0-beta19	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-06-29T07:37:26Z	
+1.3.0-beta20	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-06-29T15:45:31Z	
+1.3.0-beta21	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-06-29T17:42:04Z	
+1.6.3	named	org.monarchinitiative.phenol	phenol-cli	2021-06-30T16:04:11Z	
+3.1.1955	named	io.sealights.on-premise.agents	sl-build-scanner	2021-07-07T09:18:19Z	
+3.1.1956	named	io.sealights.on-premise.agents	sl-build-scanner	2021-07-07T20:35:56Z	
+7.57.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-07-14T00:52:41Z	
+0.2.4	named	org.pgpainless	sop-java-picocli	2021-07-20T07:59:31Z	
+7.58.0.Beta1	named	org.kie	kie-dmn-xls2dmn-cli	2021-07-21T10:12:18Z	
+0.3	named	com.github.crawler-commons	urlfrontier-client	2021-07-21T14:19:26Z	
+1.3.0-beta22	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-07-21T16:55:49Z	
+0.2.5	named	org.pgpainless	sop-java-picocli	2021-07-26T18:43:33Z	
+0.2.6	named	org.pgpainless	sop-java-picocli	2021-07-27T14:11:44Z	
+1.0.0	named	com.instaclustr	ic-sstable-tools-4.0.0	2021-07-27T19:49:14Z	
+1.1.3	named	com.instaclustr	esop	2021-07-29T08:48:46Z	
+1.1.2	named	com.instaclustr	icarus	2021-07-29T12:09:19Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-3-0-25	2021-07-29T12:55:26Z	
+1.4	named	com.instaclustr	sstable-generator	2021-07-29T12:55:40Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-4-0-0	2021-07-29T12:55:43Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-2-2-19	2021-07-29T12:55:50Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-3-11-11	2021-07-29T12:55:58Z	
+1.1.2	named	com.instaclustr	ttl-remover-impl	2021-07-29T13:24:45Z	
+7.58.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-08-02T20:28:41Z	
+0.2.7	named	org.pgpainless	sop-java-picocli	2021-08-04T14:17:58Z	
+1.4.0	named	com.appland	appmap-agent	2021-08-09T19:12:50Z	
+0.2.8	named	org.pgpainless	sop-java-picocli	2021-08-10T13:17:14Z	
+3.1.1968	named	io.sealights.on-premise.agents	sl-build-scanner	2021-08-12T13:01:51Z	
+1.4.1	named	com.appland	appmap-agent	2021-08-14T18:42:09Z	
+7.59.0.Beta1	named	org.kie	kie-dmn-xls2dmn-cli	2021-08-17T09:32:30Z	
+7.59.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-08-26T02:27:35Z	
+0.2.9	named	org.pgpainless	sop-java-picocli	2021-08-26T13:31:10Z	
+1.5.0	named	com.appland	appmap-agent	2021-08-30T14:03:57Z	
+0.9.0	named	com.tngtech.keycloakmock	standalone	2021-08-30T15:36:20Z	
+0.2.10	named	org.pgpainless	sop-java-picocli	2021-09-07T12:13:08Z	
+0.2.11	named	org.pgpainless	sop-java-picocli	2021-09-09T17:31:58Z	
+0.4	named	com.github.crawler-commons	urlfrontier-client	2021-09-10T12:55:45Z	
+0.10.0	named	com.tngtech.keycloakmock	standalone	2021-09-10T13:37:33Z	
+0.2.12	named	org.pgpainless	sop-java-picocli	2021-09-10T19:56:03Z	
+1.6.0	named	com.appland	appmap-agent	2021-09-13T12:20:45Z	
+0.2.13	named	org.pgpainless	sop-java-picocli	2021-09-15T15:23:37Z	
+0.2.14	named	org.pgpainless	sop-java-picocli	2021-09-27T15:19:45Z	
+0.10.0	named	com.github.ngeor	yak4j-cli	2021-09-28T05:57:34Z	
+11.0.0-RC1	named	org.primefaces	primefaces-cli	2021-09-28T15:29:38Z	
+1.6.1	named	com.appland	appmap-agent	2021-10-03T02:57:43Z	
+3.1.1993	named	io.sealights.on-premise.agents	sl-build-scanner	2021-10-05T08:21:11Z	
+1.1.4	named	com.instaclustr	esop	2021-10-06T17:37:44Z	
+5.0.17.BETA	named	io.mongock	mongock-cli-springboot	2021-10-07T01:10:52Z	
+2.0.0-alpha1	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2021-10-07T03:48:08Z	
+0.2.15	named	org.pgpainless	sop-java-picocli	2021-10-08T12:16:04Z	
+2.4.2	named	biz.netcentric.security	pickaxe-scans	2021-10-08T21:03:10Z	
+7.60.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-10-13T08:51:57Z	
+3.1.1995	named	io.sealights.on-premise.agents	sl-build-scanner	2021-10-17T10:57:54Z	
+1.0	named	com.github.crawler-commons	urlfrontier-client	2021-10-18T10:47:18Z	
+5.0.20.BETA	named	io.mongock	mongock-cli-core	2021-10-18T13:21:17Z	
+5.0.20.BETA	named	io.mongock	mongock-cli-springboot	2021-10-18T13:21:18Z	
+0.2.16	named	org.pgpainless	sop-java-picocli	2021-10-18T14:26:03Z	
+0.2.17	named	org.pgpainless	sop-java-picocli	2021-10-20T13:27:59Z	
+1.0.1	named	com.instaclustr	minotaur	2021-10-21T07:40:37Z	
+0.0.48	named	org.caseine	caseine.vpl.tools.CLI	2021-10-21T22:30:38Z	
+1.15.0	named	de.dagere.kieker	kieker-source-instrumentation	2021-10-24T13:44:19Z	
+3.1.2024	named	io.sealights.on-premise.agents	sl-build-scanner	2021-10-25T07:05:51Z	
+1.7.0	named	com.appland	appmap-agent	2021-10-26T14:21:25Z	
+7.61.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-10-27T09:19:29Z	
+0.2.18	named	org.pgpainless	sop-java-picocli	2021-10-27T11:36:08Z	
+8.13.0.Beta	named	org.kie	kie-dmn-xls2dmn-cli	2021-10-27T13:49:25Z	
+0.2.19	named	org.pgpainless	sop-java-picocli	2021-10-29T18:31:43Z	
+1.0.0-rc1	named	org.pgpainless	sop-java-picocli	2021-11-02T12:03:22Z	
+0.0.49	named	org.caseine	caseine.vpl.tools.CLI	2021-11-02T15:50:26Z	
+11.0.0-RC2	named	org.primefaces	primefaces-cli	2021-11-05T10:54:40Z	
+4.6.2	named	info.picocli	picocli	2021-11-05T11:17:49Z	
+0.0.50	named	org.caseine	caseine.vpl.tools.CLI	2021-11-09T21:23:28Z	
+1.2.0	named	org.apache.ozone	ozone-filesystem-shaded	2021-11-10T17:31:26Z	
+1.0.0-rc2	named	org.pgpainless	pgpainless-cli	2021-11-15T12:07:23Z	
+1.0.0-rc2	named	org.pgpainless	sop-java-picocli	2021-11-15T12:08:27Z	
+7.62.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-11-16T09:38:11Z	
+1.0.0-rc3	named	org.pgpainless	pgpainless-cli	2021-11-21T21:40:03Z	
+1.0.0-rc3	named	org.pgpainless	sop-java-picocli	2021-11-21T21:41:08Z	
+1.0.0-rc4	named	org.pgpainless	pgpainless-cli	2021-11-21T22:09:35Z	
+1.0.0-rc4	named	org.pgpainless	sop-java-picocli	2021-11-21T22:10:51Z	
+8.14.0.Beta	named	org.kie	kie-dmn-xls2dmn-cli	2021-11-22T21:54:59Z	
+1.0.0-rc5	named	org.pgpainless	pgpainless-cli	2021-11-24T14:18:21Z	
+1.0.0-rc5	named	org.pgpainless	sop-java-picocli	2021-11-24T14:19:24Z	
+1.1.5	named	com.instaclustr	esop	2021-11-28T09:51:49Z	
+2.0.0	named	com.instaclustr	esop	2021-11-28T10:27:35Z	
+1.0.0-rc6	named	org.pgpainless	pgpainless-cli	2021-11-28T14:07:33Z	
+1.0.0-rc6	named	org.pgpainless	sop-java-picocli	2021-11-28T14:08:37Z	
+7.63.0.t20211129	named	org.kie	kie-dmn-xls2dmn-cli	2021-11-29T10:28:08Z	
+3.1.2056	named	io.sealights.on-premise.agents	sl-build-scanner	2021-12-01T15:26:34Z	
+8.14.1.Beta	named	org.kie	kie-dmn-xls2dmn-cli	2021-12-07T11:35:05Z	
+0.0.51	named	org.caseine	caseine.vpl.tools.CLI	2021-12-07T14:38:48Z	
+11.0.0	named	org.primefaces	primefaces-cli	2021-12-09T09:19:54Z	
+0.11.0	named	com.tngtech.keycloakmock	standalone	2021-12-10T09:22:01Z	
+7.63.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2021-12-10T22:21:36Z	
+2022.0.0	named	io.github.davidwhitlock.cs410J.original	student	2021-12-12T20:32:56Z	
+1.8.0	named	com.appland	appmap-agent	2021-12-13T16:29:14Z	
+1.8.1	named	com.appland	appmap-agent	2021-12-13T23:42:27Z	
+1.2.1	named	org.apache.ozone	ozone-filesystem-shaded	2021-12-15T23:14:30Z	
+1.0.0-rc7	named	org.pgpainless	pgpainless-cli	2021-12-20T12:30:44Z	
+1.0.0-rc7	named	org.pgpainless	sop-java-picocli	2021-12-20T12:32:05Z	
+5.0.21.BETA	named	io.mongock	mongock-cli-springboot	2021-12-22T22:37:16Z	
+1.0.0-rc8	named	org.pgpainless	pgpainless-cli	2021-12-23T15:22:41Z	
+1.0.0-rc8	named	org.pgpainless	sop-java-picocli	2021-12-23T15:23:47Z	
+1.0.0-rc9	named	org.pgpainless	pgpainless-cli	2021-12-27T13:04:36Z	
+1.0.0-rc9	named	org.pgpainless	sop-java-picocli	2021-12-27T13:05:38Z	
+1.0.0	named	org.pgpainless	pgpainless-cli	2021-12-28T13:00:37Z	
+1.0.0	named	org.pgpainless	sop-java-picocli	2021-12-28T13:01:43Z	
+21.12.1	named	com.arcadedb	arcadedb-mongodbw	2022-01-01T21:13:42Z	
+21.12.1	named	com.arcadedb	arcadedb-postgresw	2022-01-01T21:13:49Z	
+21.12.1	named	com.arcadedb	arcadedb-redisw	2022-01-01T21:13:51Z	
+21.12.1	named	com.arcadedb	arcadedb-gremlin	2022-01-01T21:13:58Z	
+2.0.1	named	com.instaclustr	esop	2022-01-04T09:58:55Z	
+8.15.0.Beta	named	org.kie	kie-dmn-xls2dmn-cli	2022-01-04T12:09:03Z	
+22.1.1	named	com.arcadedb	arcadedb-gremlin	2022-01-11T00:11:04Z	
+22.1.1	named	com.arcadedb	arcadedb-postgresw	2022-01-11T00:11:19Z	
+22.1.2	named	com.arcadedb	arcadedb-postgresw	2022-01-11T00:26:29Z	
+22.1.2	named	com.arcadedb	arcadedb-gremlin	2022-01-11T00:26:34Z	
+1.1.0	named	org.pgpainless	sop-java-picocli	2022-01-11T13:42:26Z	
+7.64.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-01-12T19:35:42Z	
+1.0.1	named	org.pgpainless	pgpainless-cli	2022-01-15T00:03:41Z	
+1.0.1	named	org.pgpainless	sop-java-picocli	2022-01-15T00:04:53Z	
+1.9.0	named	com.appland	appmap-agent	2022-01-18T15:32:24Z	
+5.0.22.BETA	named	io.mongock	mongock-cli-springboot	2022-01-20T08:34:00Z	
+22.1.3	named	com.arcadedb	arcadedb-gremlin	2022-02-01T20:15:52Z	
+7.65.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-02-03T18:42:30Z	
+1.0.2	named	org.pgpainless	pgpainless-cli	2022-02-05T13:56:37Z	
+3.1.2065	named	io.sealights.on-premise.agents	sl-build-scanner	2022-02-08T21:03:16Z	
+4.6.3	named	info.picocli	picocli	2022-02-09T09:27:38Z	
+1.2.0	named	org.pgpainless	sop-java-picocli	2022-02-09T23:08:26Z	
+1.0.3	named	org.pgpainless	pgpainless-cli	2022-02-11T13:09:44Z	
+0.1.5	named	tech.kronicle	gradle-version-logic	2022-02-13T23:16:04Z	
+3.1.2066	named	io.sealights.on-premise.agents	sl-build-scanner	2022-02-15T13:12:09Z	
+1.0.4	named	org.pgpainless	pgpainless-cli	2022-02-15T13:26:16Z	
+1.1.0	named	org.pgpainless	pgpainless-cli	2022-02-15T14:01:15Z	
+1.10.0	named	com.appland	appmap-agent	2022-02-16T10:42:23Z	
+2.0.2	named	com.instaclustr	esop	2022-02-17T14:54:18Z	
+1.1	named	com.github.crawler-commons	urlfrontier-service	2022-02-17T17:25:58Z	
+1.1	named	com.github.crawler-commons	urlfrontier-client	2022-02-17T17:26:23Z	
+1.3.0-beta23	named	com.aeontronix.enhanced-mule	enhanced-mule-tools-cli	2022-02-19T04:51:28Z	
+1.1.1-alpha1	named	org.pgpainless	pgpainless-cli	2022-02-21T13:47:52Z	
+7.66.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-02-22T11:09:51Z	
+22.2.1	named	com.arcadedb	arcadedb-gremlin	2022-02-23T16:04:53Z	
+1.1.1	named	org.pgpainless	pgpainless-cli	2022-02-25T15:06:32Z	
+3.1.2070	named	io.sealights.on-premise.agents	sl-build-scanner	2022-02-27T09:00:59Z	
+1.11.0	named	com.appland	appmap-agent	2022-02-28T16:03:19Z	
+1.2	named	com.github.crawler-commons	urlfrontier-service	2022-03-01T15:42:32Z	
+1.2	named	com.github.crawler-commons	urlfrontier-client	2022-03-01T15:43:18Z	
+0.1.0	named	org.pgpainless	pgpainless-cert-d-cli	2022-03-01T15:57:14Z	
+1.1.2	named	org.pgpainless	pgpainless-cli	2022-03-07T14:02:54Z	
+1.12.0	named	com.appland	appmap-agent	2022-03-13T21:50:26Z	
+7.67.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-03-15T08:40:15Z	
+3.1.2079	named	io.sealights.on-premise.agents	sl-build-scanner	2022-03-15T09:22:15Z	
+1.0.5	named	org.pgpainless	pgpainless-cli	2022-03-15T14:34:29Z	
+1.1.3	named	org.pgpainless	pgpainless-cli	2022-03-15T14:42:08Z	
+0.1.1	named	org.pgpainless	pgpainless-cert-d-cli	2022-03-17T14:12:15Z	
+1.1.4	named	org.pgpainless	pgpainless-cli	2022-03-30T10:27:21Z	
+3.1.2083	named	io.sealights.on-premise.agents	sl-build-scanner	2022-04-04T12:27:04Z	
+1.1.5	named	org.pgpainless	pgpainless-cli	2022-04-05T12:49:20Z	
+5.0.23.BETA	named	io.mongock	mongock-cli-core	2022-04-05T17:38:49Z	
+5.0.23.BETA	named	io.mongock	mongock-cli-springboot	2022-04-05T17:38:50Z	
+1.2.0	named	org.pgpainless	pgpainless-cli	2022-04-07T19:21:22Z	
+7.68.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-04-08T12:20:31Z	
+1.2.1	named	org.pgpainless	sop-java-picocli	2022-04-11T10:39:19Z	
+1.2.2	named	org.pgpainless	sop-java-picocli	2022-04-11T12:11:57Z	
+1.12.1	named	com.appland	appmap-agent	2022-04-12T09:19:23Z	
+3.1.2089	named	io.sealights.on-premise.agents	sl-build-scanner	2022-04-18T12:40:22Z	
+5.0.24	named	io.mongock	mongock-cli-springboot	2022-04-18T19:53:05Z	
+5.0.24	named	io.mongock	mongock-cli-core	2022-04-18T19:53:08Z	
+1.12.2	named	com.appland	appmap-agent	2022-04-19T16:46:40Z	
+5.0.25	named	io.mongock	mongock-cli-core	2022-04-19T18:57:31Z	
+5.0.25	named	io.mongock	mongock-cli-springboot	2022-04-19T18:57:31Z	
+1.0.0-73	named	com.github.cafapi.util.flywayinstaller	util-flywayinstaller-cli	2022-04-21T21:06:37Z	
+3.0.0	named	com.pessetto.origamismtp	OrigamiSMTP	2022-04-22T20:41:28Z	
+3.1.2090	named	io.sealights.on-premise.agents	sl-build-scanner	2022-04-26T08:02:22Z	
+7.69.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-04-26T10:22:47Z	
+1.12.3	named	com.appland	appmap-agent	2022-04-26T11:35:03Z	
+1.13.0	named	com.appland	appmap-agent	2022-04-26T13:19:16Z	
+1.13.1	named	com.appland	appmap-agent	2022-04-27T14:53:16Z	
+2.0	named	com.github.crawler-commons	urlfrontier-service	2022-04-28T09:31:28Z	
+2.0	named	com.github.crawler-commons	urlfrontier-client	2022-04-28T09:32:05Z	
+1.2.3	named	org.pgpainless	sop-java-picocli	2022-04-29T14:50:27Z	
+1.2.1	named	org.pgpainless	pgpainless-cli	2022-04-29T15:02:55Z	
+0.1.2	named	org.pgpainless	pgpainless-cert-d-cli	2022-04-29T15:12:56Z	
+2.0.3	named	com.instaclustr	esop	2022-05-03T14:05:07Z	
+1.2.2	named	org.pgpainless	pgpainless-cli	2022-05-05T09:23:39Z	
+5.0.26	named	io.mongock	mongock-cli-springboot	2022-05-06T07:39:01Z	
+5.0.26	named	io.mongock	mongock-cli-core	2022-05-06T07:39:02Z	
+3.1.2092	named	io.sealights.on-premise.agents	sl-build-scanner	2022-05-08T06:38:39Z	
+3.1.2093	named	io.sealights.on-premise.agents	sl-build-scanner	2022-05-09T08:21:16Z	
+2.4.3	named	biz.netcentric.security	pickaxe-scans	2022-05-12T11:39:53Z	
+7.70.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-05-17T10:41:33Z	
+2.1	named	com.github.crawler-commons	urlfrontier-service	2022-05-19T13:11:24Z	
+2.1	named	com.github.crawler-commons	urlfrontier-client	2022-05-19T13:11:55Z	
+0.12.0	named	com.tngtech.keycloakmock	standalone	2022-05-20T13:00:08Z	
+3.1.2097	named	io.sealights.on-premise.agents	sl-build-scanner	2022-05-29T10:13:02Z	
+2022.1.0	named	io.github.davidwhitlock.cs410J.original	student	2022-06-04T03:15:29Z	
+3.1.2099	named	io.sealights.on-premise.agents	sl-build-scanner	2022-06-06T10:14:09Z	
+7.71.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-06-08T09:47:27Z	
+3.0.1	named	com.pessetto.origamismtp	OrigamiSMTP	2022-06-10T17:30:38Z	
+0.1.6	named	tech.kronicle	gradle-version-logic	2022-06-10T18:23:14Z	
+4.0.0	named	org.pgpainless	sop-java-picocli	2022-06-19T16:24:21Z	
+1.3.0	named	org.pgpainless	pgpainless-cli	2022-06-19T16:50:38Z	
+1.3.1	named	org.pgpainless	pgpainless-cli	2022-06-23T10:09:27Z	
+7.72.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-06-27T15:16:34Z	
+5.0.27	named	io.mongock	mongock-cli-springboot	2022-06-28T18:15:25Z	
+5.0.27	named	io.mongock	mongock-cli-core	2022-06-28T18:15:27Z	
+3.1.2101	named	io.sealights.on-premise.agents	sl-build-scanner	2022-07-04T06:09:19Z	
+2.2	named	com.github.crawler-commons	urlfrontier-service	2022-07-04T11:30:37Z	
+2.2	named	com.github.crawler-commons	urlfrontier-client	2022-07-04T11:31:16Z	
+7.73.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-07-18T15:32:29Z	
+12.0.0-RC2	named	org.primefaces	primefaces-cli	2022-07-20T14:53:37Z	
+0.40.0	named	org.projectnessie	nessie-content-generator	2022-07-22T18:58:08Z	
+0.40.1	named	org.projectnessie	nessie-content-generator	2022-07-25T19:24:06Z	
+3.1.2119	named	io.sealights.on-premise.agents	sl-build-scanner	2022-08-03T11:26:37Z	
+4.0.1	named	org.pgpainless	sop-java-picocli	2022-08-04T11:58:25Z	
+2.0.4	named	com.instaclustr	esop	2022-08-10T18:10:00Z	
+3.1.2120	named	io.sealights.on-premise.agents	sl-build-scanner	2022-08-17T09:34:26Z	
+3.1.2121	named	io.sealights.on-premise.agents	sl-build-scanner	2022-08-23T12:58:34Z	
+12.0.0-RC3	named	org.primefaces	primefaces-cli	2022-08-24T08:57:20Z	
+0.4	named	be.atbash.runtime	packager	2022-09-04T13:20:10Z	
+0.13.0	named	io.github.mdanish98.keycloakmock	standalone	2022-09-14T23:35:43Z	
+1.0.1-98	named	com.github.cafapi.util.flywayinstaller	util-flywayinstaller-cli	2022-09-15T08:21:18Z	
+0.14.0	named	io.github.mdanish98.keycloakmock	standalone	2022-09-15T09:28:04Z	
+12.0.0	named	org.primefaces	primefaces-cli	2022-10-05T17:00:38Z	
+2.3	named	com.github.crawler-commons	urlfrontier-service	2022-10-24T10:49:06Z	
+2.3	named	com.github.crawler-commons	urlfrontier-client	2022-10-24T10:49:43Z	
+4.7.0	named	info.picocli	picocli	2022-10-31T19:58:57Z	4.7.0
+4.0.2	named	org.pgpainless	sop-java-picocli	2022-11-06T13:57:40Z	
+4.0.3	named	org.pgpainless	sop-java-picocli	2022-11-07T15:45:19Z	
+4.0.5	named	org.pgpainless	sop-java-picocli	2022-11-11T12:23:17Z	
+4.0.6	named	org.pgpainless	sop-java-picocli	2022-11-15T14:31:41Z	
+2.3.1	named	com.github.crawler-commons	urlfrontier-service	2022-11-21T15:15:57Z	
+2.3.1	named	com.github.crawler-commons	urlfrontier-client	2022-11-21T15:16:40Z	
+1.3.0	named	org.apache.ozone	ozone-filesystem-shaded	2022-11-23T08:24:16Z	
+4.0.7	named	org.pgpainless	sop-java-picocli	2022-11-23T19:17:15Z	
+1.0.0	named	com.instaclustr	ic-sstable-tools-4.1.0	2022-12-14T11:23:45Z	
+1.1	named	com.instaclustr	sstable-generator-cassandra-2-2-19	2022-12-14T14:55:35Z	
+1.5	named	com.instaclustr	sstable-generator	2022-12-14T14:55:40Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-3-0-28	2022-12-14T14:55:43Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-4-1-0	2022-12-14T14:55:45Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-3-11-14	2022-12-14T14:55:55Z	
+1.0	named	com.instaclustr	sstable-generator-cassandra-4-0-7	2022-12-14T14:55:56Z	
+1.1.0	named	com.github.toolarium	toolarium-jwebserver	2022-12-28T14:57:50Z	4.7.0
+1.1.1	named	com.github.toolarium	toolarium-jwebserver	2022-12-29T11:06:26Z	4.7.0
+4.1.0	named	org.pgpainless	sop-java-picocli	2023-01-13T18:07:21Z	
+0.13.0	named	com.tngtech.keycloakmock	standalone	2023-01-19T12:47:14Z	4.7.0
+4.7.1	named	info.picocli	picocli	2023-01-29T00:09:04Z	4.7.1
+4.1.1	named	org.pgpainless	sop-java-picocli	2023-01-31T17:42:59Z	
+1.2.11	named	technology.dice.open	dice-where-downloader	2023-02-13T18:10:17Z	
+1.2.12	named	technology.dice.open	dice-where-downloader	2023-02-13T20:13:34Z	
+1.2.13	named	technology.dice.open	dice-where-downloader	2023-02-14T09:52:05Z	
+1.2.14	named	technology.dice.open	dice-where-downloader	2023-02-14T11:37:36Z	
+1.2.15	named	technology.dice.open	dice-where-downloader	2023-02-14T11:48:36Z	
+1.2.16	named	technology.dice.open	dice-where-downloader	2023-02-14T12:37:39Z	
+1.2.17	named	technology.dice.open	dice-where-downloader	2023-02-14T18:01:49Z	
+1.3.0	named	technology.dice.open	dice-where-downloader	2023-02-15T12:33:56Z	
+1.3.1	named	technology.dice.open	dice-where-downloader	2023-02-17T14:46:06Z	
+1.3.3	named	technology.dice.open	dice-where-downloader	2023-02-21T00:30:34Z	
+1.3.4	named	technology.dice.open	dice-where-downloader	2023-02-24T12:23:44Z	
+5.0.28	named	io.mongock	mongock-cli-springboot	2023-03-17T21:18:56Z	
+5.0.28	named	io.mongock	mongock-cli-core	2023-03-17T21:18:57Z	
+4.7.2	named	info.picocli	picocli	2023-04-09T09:12:16Z	4.7.2
+4.7.3	named	info.picocli	picocli	2023-04-16T04:20:11Z	4.7.3
+5.0.0	named	org.pgpainless	sop-java-picocli	2023-04-17T12:40:39Z	
+6.0.0	named	org.pgpainless	sop-java-picocli	2023-04-17T13:55:05Z	
+0.1.0	named	org.projectnessie.iceberg-catalog-migrator	iceberg-catalog-migrator-cli	2023-04-18T11:14:22Z	4.7.2
+0.2.0	named	org.projectnessie.iceberg-catalog-migrator	iceberg-catalog-migrator-cli	2023-04-18T13:10:10Z	4.7.2
+1.0.0	named	com.fathzer	jdbbackup-dropbox	2023-04-23T17:21:39Z	4.7.1
+5.0.1	named	org.pgpainless	sop-java-picocli	2023-04-26T14:02:35Z	
+6.1.0	named	org.pgpainless	sop-java-picocli	2023-04-27T12:48:24Z	
+8.38.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-04-28T08:37:09Z	4.7.1
+2.7.12.25	named	ai.h2o	daimojo	2023-05-09T18:58:49Z	
+5.0.29	named	io.mongock	mongock-cli-springboot	2023-05-14T18:37:09Z	
+5.0.29	named	io.mongock	mongock-cli-core	2023-05-14T18:37:13Z	
+2.7.13	named	ai.h2o	daimojo	2023-05-16T13:03:20Z	
+8.39.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-05-22T09:49:14Z	4.7.1
+0.0.8	named	io.github.yangziwen	diff-checkstyle	2023-05-25T02:05:51Z	
+13.0.0-RC1	named	org.primefaces	primefaces-cli	2023-05-25T19:05:19Z	4.7.3
+0.14.0	named	com.tngtech.keycloakmock	standalone	2023-05-31T11:22:25Z	4.7.0
+4.7.4	named	info.picocli	picocli	2023-06-03T00:59:53Z	4.7.4
+5.0.30	named	io.mongock	mongock-cli-core	2023-06-13T10:11:44Z	
+5.0.30	named	io.mongock	mongock-cli-springboot	2023-06-13T10:11:46Z	
+0.15.0	named	com.tngtech.keycloakmock	standalone	2023-06-14T12:51:09Z	4.7.0
+8.40.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-06-15T10:01:50Z	4.7.1
+7.74.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2023-06-19T19:11:55Z	
+13.0.0-RC2	named	org.primefaces	primefaces-cli	2023-06-22T17:57:32Z	4.7.4
+8.41.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-07-03T09:15:51Z	4.7.1
+0.15.1	named	com.tngtech.keycloakmock	standalone	2023-07-05T13:00:07Z	4.7.0
+3.21.0	named	org.apache.camel.karavan	karavan-cli	2023-07-10T15:15:03Z	4.7.3
+5.0.31	named	io.mongock	mongock-cli-springboot	2023-07-10T19:54:33Z	
+5.0.31	named	io.mongock	mongock-cli-core	2023-07-10T19:54:36Z	
+0.7.6	named	io.etcd	jetcd-ctl	2023-07-10T19:55:04Z	4.7.4
+7.0.0	named	org.pgpainless	sop-java-picocli	2023-07-12T13:43:14Z	
+7.74.1.Final	named	org.kie	kie-dmn-xls2dmn-cli	2023-07-13T22:28:51Z	
+13.0.0	named	org.primefaces	primefaces-cli	2023-07-19T12:35:56Z	4.7.4
+5.0.32	named	io.mongock	mongock-cli-core	2023-07-27T21:40:48Z	
+5.0.32	named	io.mongock	mongock-cli-springboot	2023-07-27T21:40:48Z	
+8.42.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-07-28T08:34:46Z	4.7.1
+9.42.0.Alpha	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-02T09:46:59Z	4.7.1
+8.43.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-14T14:55:54Z	4.7.1
+9.43.0.Alpha	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-15T07:40:37Z	4.7.1
+4.7.5	named	info.picocli	picocli	2023-08-26T22:16:58Z	4.7.5
+5.0.33	named	io.mongock	mongock-cli-springboot	2023-09-01T13:06:17Z	
+5.0.33	named	io.mongock	mongock-cli-core	2023-09-01T13:06:22Z	
+0.15.2	named	com.tngtech.keycloakmock	standalone	2023-09-04T13:20:16Z	4.7.0
+8.44.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-09-05T07:27:36Z	4.7.1
+9.44.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-09-05T14:14:29Z	4.7.1
+13.0.1	named	org.primefaces	primefaces-cli	2023-09-11T17:00:08Z	4.7.4
+4.0.0	named	org.apache.camel.karavan	karavan-installer	2023-09-26T14:30:14Z	4.7.4
+0.5.0-M1	named	org.hjug.refactorfirst.report	cli	2023-10-10T13:10:19Z	4.7.4
+0.16.0	named	com.tngtech.keycloakmock	standalone	2023-10-11T07:04:19Z	4.7.5
+13.0.2	named	org.primefaces	primefaces-cli	2023-10-11T13:15:02Z	4.7.4
+2.12.3	named	org.openrewrite	cobol-cli	2023-10-11T19:03:13Z	4.7.5
+4.1.0	named	org.apache.camel.karavan	karavan-installer	2023-10-31T22:51:48Z	4.7.4
+1.0.5	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-03T08:38:24Z	
+0.3.1	named	org.geneontology.obographs	obographs-cli	2023-11-08T10:35:55Z	
+8.40.1.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-11-08T15:37:20Z	4.7.1
+5.0.34	named	io.mongock	mongock-cli-springboot	2023-11-08T19:29:17Z	
+5.0.34	named	io.mongock	mongock-cli-core	2023-11-08T19:29:24Z	
+13.0.3	named	org.primefaces	primefaces-cli	2023-11-10T15:42:20Z	4.7.4
+2.12.4	named	org.openrewrite	cobol-cli	2023-11-16T12:23:11Z	4.7.5
+2.12.5	named	org.openrewrite	cobol-cli	2023-11-17T15:59:05Z	4.7.5
+1.0.6	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-21T10:01:19Z	
+1.0.7	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-21T11:40:55Z	
+4.1.2	named	org.pgpainless	sop-java-picocli	2023-11-22T16:44:44Z	
+5.0.2	named	org.pgpainless	sop-java-picocli	2023-11-22T16:59:47Z	
+6.0.1	named	org.pgpainless	sop-java-picocli	2023-11-22T17:08:05Z	
+7.0.1	named	org.pgpainless	sop-java-picocli	2023-11-22T17:13:03Z	
+1.0.8	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-23T01:11:05Z	
+1.0.9	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-23T06:45:08Z	
+1.0.10	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-11-23T06:59:26Z	
+6.1.1	named	org.pgpainless	sop-java-picocli	2023-11-23T13:25:10Z	
+0.6.2	named	org.incenp	sssom-cli	2023-11-25T20:10:40Z	4.7.5
+5.0.35	named	io.mongock	mongock-cli-springboot	2023-11-29T15:01:58Z	
+5.0.35	named	io.mongock	mongock-cli-core	2023-11-29T15:02:07Z	
+3.0.0-BETA	named	org.apache.tika	tika-parser-nlp-package	2023-12-01T16:47:15Z	4.7.5
+1.0.11	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-12-07T06:32:17Z	
+0.7.0	named	org.incenp	sssom-cli	2023-12-09T20:23:25Z	4.7.5
+1.0.11	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2023-12-11T06:57:42Z	
+0.7.1	named	org.incenp	sssom-cli	2023-12-11T21:43:50Z	4.7.5
+0.7.2	named	org.incenp	sssom-cli	2023-12-12T23:35:01Z	4.7.5
+0.7.3	named	org.incenp	sssom-cli	2023-12-17T22:44:33Z	4.7.5
+1.0.12	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-12-18T07:46:52Z	
+13.0.4	named	org.primefaces	primefaces-cli	2023-12-18T14:51:52Z	4.7.4
+1.0.13	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2023-12-19T01:36:51Z	
+0.7.7	named	io.etcd	jetcd-ctl	2023-12-19T19:41:05Z	4.7.5
+1.0.12	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2023-12-29T01:45:03Z	
+1.0.13	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2023-12-29T02:37:20Z	
+0.7.4	named	org.incenp	sssom-cli	2024-01-01T19:47:24Z	4.7.5
+4.3.0	named	org.apache.camel.karavan	karavan-installer	2024-01-03T15:10:29Z	4.7.4
+2.13.0	named	org.openrewrite	cobol-cli	2024-01-09T17:40:46Z	4.7.5
+1.4.0	named	org.apache.ozone	ozone-filesystem-shaded	2024-01-10T16:24:48Z	4.7.5
+5.0.36	named	io.mongock	mongock-cli-springboot	2024-01-10T20:41:29Z	
+5.0.36	named	io.mongock	mongock-cli-core	2024-01-10T20:41:32Z	
+1.0.14	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-17T01:40:58Z	
+1.0.15	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-17T03:52:55Z	
+1.0.16	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-17T07:55:50Z	
+1.0.17	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-17T09:39:59Z	
+1.0.18	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-17T10:04:13Z	
+1.0.19	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-19T03:41:22Z	
+1.0.20	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-19T06:41:59Z	
+13.0.5	named	org.primefaces	primefaces-cli	2024-01-21T15:06:33Z	4.7.4
+1.0.14	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2024-01-22T02:13:19Z	
+1.0.21	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-31T02:53:57Z	
+1.0.22	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-01-31T03:15:13Z	
+1.0.23	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-01T09:20:45Z	
+1.0.24	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-01T09:39:03Z	
+1.0.25	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-01T10:45:22Z	
+1.0.14	named	cn.ibizlab.plugin	ibizlab-generator-api-python	2024-02-02T10:48:41Z	
+1.0.26	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-05T07:29:42Z	
+1.0.27	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-05T07:45:15Z	
+1.0.15	named	cn.ibizlab.plugin	ibizlab-generator-api-python	2024-02-05T11:26:04Z	
+14.0.0-RC1	named	org.primefaces	primefaces-cli	2024-02-05T20:30:56Z	4.7.5
+1.0.28	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-06T06:58:24Z	
+0.7.5	named	org.incenp	sssom-cli	2024-02-11T20:35:52Z	4.7.5
+13.0.6	named	org.primefaces	primefaces-cli	2024-02-19T15:37:18Z	4.7.4
+1.3.7	named	technology.dice.open	dice-where-downloader	2024-02-20T18:02:18Z	
+1.0.29	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-27T05:23:13Z	
+1.0.30	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-02-27T05:53:55Z	
+13.0.7	named	org.primefaces	primefaces-cli	2024-03-01T18:54:08Z	4.7.4
+14.0.0-RC2	named	org.primefaces	primefaces-cli	2024-03-11T12:39:29Z	4.7.5
+1.0.31	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-26T07:19:43Z	
+1.0.32	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-26T09:45:53Z	
+1.0.33	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-27T09:19:38Z	
+1.0.34	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-27T10:34:59Z	
+1.0.35	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-27T10:45:13Z	
+0.7.6	named	org.incenp	sssom-cli	2024-03-27T17:53:12Z	4.7.5
+1.0.36	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-28T05:44:07Z	
+1.0.37	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-28T10:10:55Z	
+1.0.38	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-03-29T07:36:47Z	
+1.0.39	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-02T03:44:45Z	
+1.0.40	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-02T08:17:09Z	
+3.0.0-rc1	named	com.instaclustr	esop	2024-04-02T09:53:14Z	4.7.1
+1.0.41	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-03T04:00:42Z	
+1.0.42	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-03T06:46:09Z	
+1.0.43	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-03T07:56:42Z	
+5.0.37	named	io.mongock	mongock-cli-core	2024-04-05T17:12:03Z	
+5.0.37	named	io.mongock	mongock-cli-springboot	2024-04-05T17:12:04Z	
+1.0.44	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-08T08:00:40Z	
+1.0.45	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-09T03:52:33Z	
+1.0.46	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-09T06:49:15Z	
+13.0.8	named	org.primefaces	primefaces-cli	2024-04-10T17:05:14Z	4.7.4
+1.0.15	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2024-04-11T03:05:59Z	
+1.0.16	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2024-04-11T03:47:42Z	
+14.0.0-RC3	named	org.primefaces	primefaces-cli	2024-04-16T13:25:53Z	4.7.5
+0.8.0	named	io.etcd	jetcd-ctl	2024-04-17T07:34:19Z	4.7.5
+8.44.1.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2024-04-17T11:50:05Z	4.7.1
+8.44.2.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2024-04-22T09:01:27Z	4.7.1
+5.0.38	named	io.mongock	mongock-cli-springboot	2024-04-22T21:53:58Z	
+5.0.38	named	io.mongock	mongock-cli-core	2024-04-22T21:54:00Z	
+1.0.47	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-25T06:43:52Z	
+1.0.48	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-04-25T06:49:58Z	
+0.7.7	named	org.incenp	sssom-cli	2024-04-28T15:54:58Z	4.7.5
+13.0.9	named	org.primefaces	primefaces-cli	2024-05-01T17:04:58Z	4.7.4
+14.0.0	named	org.primefaces	primefaces-cli	2024-05-01T18:03:51Z	4.7.5
+13.0.10	named	org.primefaces	primefaces-cli	2024-05-04T12:39:46Z	4.7.4
+4.7.6	named	info.picocli	picocli	2024-05-07T22:17:57Z	4.7.6
+0.0.2	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T07:37:00Z	4.7.5
+0.0.3	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T07:41:24Z	4.7.5
+0.0.4	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T08:29:14Z	4.7.5
+0.0.5	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T08:33:29Z	4.7.5
+1.0.17	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2024-05-15T06:38:05Z	
+0.3.0	named	org.projectnessie.iceberg-catalog-migrator	iceberg-catalog-migrator-cli	2024-05-16T07:51:20Z	4.7.6
+0.8.2	named	io.etcd	jetcd-ctl	2024-05-30T09:41:36Z	4.7.6
+1.0.18	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2024-06-03T03:00:29Z	
+25.0.0	named	org.keycloak	keycloak-admin-cli	2024-06-10T07:19:45Z	4.7.5
+5.0.39	named	io.mongock	mongock-cli-core	2024-06-10T19:11:19Z	
+5.0.39	named	io.mongock	mongock-cli-springboot	2024-06-10T19:11:46Z	
+5.0.40	named	io.mongock	mongock-cli-springboot	2024-06-12T18:58:14Z	
+5.0.40	named	io.mongock	mongock-cli-core	2024-06-12T18:58:17Z	
+14.0.1	named	org.primefaces	primefaces-cli	2024-06-13T18:11:20Z	4.7.5
+25.0.1	named	org.keycloak	keycloak-admin-cli	2024-06-20T12:47:14Z	4.7.5
+1.0.49	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-01T00:49:01Z	
+1.0.50	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-01T09:15:33Z	
+1.0.51	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-01T12:01:50Z	
+14.0.2	named	org.primefaces	primefaces-cli	2024-07-01T21:27:39Z	4.7.5
+0.5.0-M2	named	org.hjug.refactorfirst.report	cli	2024-07-03T14:45:05Z	4.7.4
+0.5.0-M3	named	org.hjug.refactorfirst.report	cli	2024-07-03T20:19:39Z	4.7.4
+1.3.10	named	technology.dice.open	dice-where-downloader	2024-07-09T14:13:19Z	
+1.0.52	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-12T06:54:52Z	
+1.3.11	named	technology.dice.open	dice-where-downloader	2024-07-12T09:47:50Z	
+3.0.0-BETA2	named	org.apache.tika	tika-parser-nlp-package	2024-07-12T15:02:35Z	4.7.5
+1.0.53	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-15T06:52:38Z	
+25.0.2	named	org.keycloak	keycloak-admin-cli	2024-07-18T07:00:40Z	4.7.5
+1.0.63	named	net.neoforged.jst	jst-cli-bundle	2024-07-25T09:19:17Z	4.7.6
+1.0.54	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-26T11:11:54Z	
+1.0.55	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-26T11:18:40Z	
+1.0.56	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-26T11:19:59Z	
+14.0.3	named	org.primefaces	primefaces-cli	2024-07-29T13:17:37Z	4.7.5
+14.0.4	named	org.primefaces	primefaces-cli	2024-08-05T17:55:50Z	4.7.5
+0.0.0	named	com.frog-development.consul-populate	consul-populate-cli	2024-08-12T19:40:40Z	4.7.5
+1.0.64	named	net.neoforged.jst	jst-cli-bundle	2024-08-13T12:32:13Z	4.7.6
+1.0.0	named	com.frog-development.consul-populate	consul-populate-cli	2024-08-13T15:55:24Z	4.7.5
+1.0.57	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-08-15T07:34:59Z	
+0.8.3	named	io.etcd	jetcd-ctl	2024-08-16T12:54:44Z	4.7.6
+1.0.66	named	net.neoforged.jst	jst-cli-bundle	2024-08-16T20:57:09Z	4.7.6
+25.0.4	named	org.keycloak	keycloak-admin-cli	2024-08-19T09:12:23Z	4.7.5
+1.3.12	named	technology.dice.open	dice-where-downloader	2024-08-27T13:46:00Z	
+1.0.67	named	net.neoforged.jst	jst-cli-bundle	2024-09-04T20:50:15Z	4.7.6
+25.0.5	named	org.keycloak	keycloak-admin-cli	2024-09-10T05:08:53Z	4.7.5
+14.0.5	named	org.primefaces	primefaces-cli	2024-09-10T18:46:29Z	4.7.5
+1.0.1	named	com.frog-development.consul-populate	consul-populate-cli	2024-09-16T11:43:45Z	4.7.5
+25.0.6	named	org.keycloak	keycloak-admin-cli	2024-09-19T17:51:22Z	4.7.5
+0.5.0	named	org.hjug.refactorfirst.report	cli	2024-09-25T14:06:14Z	4.7.4
+2.4	named	com.github.crawler-commons	urlfrontier-service	2024-09-27T08:17:23Z	4.7.6
+2.4	named	com.github.crawler-commons	urlfrontier-client	2024-09-27T08:18:26Z	4.7.6
+3.0.1	named	com.instaclustr	esop	2024-10-01T20:06:55Z	4.7.1
+0.6.0	named	org.hjug.refactorfirst.report	cli	2024-10-02T01:55:55Z	4.7.4
+0.6.1	named	org.hjug.refactorfirst.report	cli	2024-10-03T13:15:10Z	4.7.4
+26.0.0	named	org.keycloak	keycloak-admin-cli	2024-10-04T07:01:40Z	4.7.6
+0.1.0-alpha.2	named	dev.lukebemish.crochet	tools	2024-10-16T01:43:54Z	4.7.6
+0.1.0-alpha.3	named	dev.lukebemish.crochet	tools	2024-10-16T02:12:40Z	4.7.6
+3.0.0	named	org.apache.tika	tika-parser-nlp-package	2024-10-16T10:32:05Z	4.7.6
+14.0.6	named	org.primefaces	primefaces-cli	2024-10-16T17:36:27Z	4.7.5
+5.0.41	named	io.mongock	mongock-cli-springboot	2024-10-16T22:42:29Z	
+5.0.41	named	io.mongock	mongock-cli-core	2024-10-16T22:42:30Z	
+26.0.1	named	org.keycloak	keycloak-admin-cli	2024-10-17T13:38:26Z	4.7.6
+1.0.2	named	com.frog-development.consul-populate	consul-populate-cli	2024-10-18T14:02:43Z	4.7.5
+0.1.0-alpha.4	named	dev.lukebemish.crochet	tools	2024-10-18T19:16:24Z	4.7.6
+0.17.0	named	com.tngtech.keycloakmock	standalone	2024-10-22T14:58:55Z	4.7.6
+26.0.2	named	org.keycloak	keycloak-admin-cli	2024-10-24T07:52:35Z	4.7.6
+26.0.4	named	org.keycloak	keycloak-admin-cli	2024-10-30T09:30:18Z	4.7.6
+7.0.2	named	org.pgpainless	sop-java-picocli	2024-10-31T12:32:33Z	
+26.0.5	named	org.keycloak	keycloak-admin-cli	2024-11-01T09:23:40Z	4.7.6
+1.0.1	named	dev.jora	quic-load-generator	2024-11-02T18:27:28Z	
+0.1.0-alpha.5	named	dev.lukebemish.crochet	tools	2024-11-05T02:39:14Z	4.7.6
+0.1.0-alpha.6	named	dev.lukebemish.crochet	tools	2024-11-07T04:00:48Z	4.7.6
+0.1.0-alpha.7	named	dev.lukebemish.crochet	tools	2024-11-07T23:31:40Z	4.7.6
+0.1.0-alpha.8	named	dev.lukebemish.crochet	tools	2024-11-12T22:15:04Z	4.7.6
+0.8.4	named	io.etcd	jetcd-ctl	2024-11-14T08:32:36Z	4.7.6
+1.4.1	named	org.apache.ozone	ozone-filesystem-shaded	2024-11-14T10:32:07Z	4.7.5
+14.0.7	named	org.primefaces	primefaces-cli	2024-11-14T18:20:10Z	4.7.5
+0.6.2	named	org.hjug.refactorfirst.report	cli	2024-11-17T22:13:42Z	4.7.4
+26.0.6	named	org.keycloak	keycloak-admin-cli	2024-11-22T05:32:11Z	4.7.6
+14.0.8	named	org.primefaces	primefaces-cli	2024-11-25T15:50:56Z	4.7.5
+26.0.7	named	org.keycloak	keycloak-admin-cli	2024-12-03T07:09:49Z	4.7.6
+15.0.0-RC1	named	org.primefaces	primefaces-cli	2024-12-04T14:35:19Z	4.7.6
+0.1.0-alpha.9	named	dev.lukebemish.crochet	tools	2024-12-08T02:32:42Z	4.7.6
+14.0.9	named	org.primefaces	primefaces-cli	2024-12-10T17:44:42Z	4.7.5
+0.1.0-alpha.10	named	dev.lukebemish.crochet	tools	2024-12-22T01:18:26Z	4.7.6
+0.1.0-alpha.11	named	dev.lukebemish.crochet	tools	2024-12-25T23:29:46Z	4.7.6
+0.1.0-alpha.12	named	dev.lukebemish.crochet	tools	2024-12-28T09:00:22Z	4.7.6
+1.0.58	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-12-31T02:08:19Z	
+0.1.0-alpha.13	named	dev.lukebemish.crochet	tools	2024-12-31T08:04:24Z	4.7.6
+0.1.0-alpha.14	named	dev.lukebemish.crochet	tools	2024-12-31T16:53:49Z	4.7.6
+0.1.0-alpha.15	named	dev.lukebemish.crochet	tools	2025-01-03T22:45:20Z	4.7.6
+0.1.0-alpha.16	named	dev.lukebemish.crochet	tools	2025-01-04T04:55:58Z	4.7.6
+0.1.0-alpha.17	named	dev.lukebemish.crochet	tools	2025-01-04T21:56:52Z	4.7.6
+0.1.0-alpha.18	named	dev.lukebemish.crochet	tools	2025-01-05T05:50:24Z	4.7.6
+1.0.59	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2025-01-06T08:26:37Z	
+1.0.60	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2025-01-06T12:51:54Z	
+14.0.10	named	org.primefaces	primefaces-cli	2025-01-08T13:17:23Z	4.7.5
+26.0.8	named	org.keycloak	keycloak-admin-cli	2025-01-13T16:03:44Z	4.7.6
+26.1.0	named	org.keycloak	keycloak-admin-cli	2025-01-15T10:35:07Z	4.7.6
+1.0.61	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2025-01-16T02:19:40Z	
+15.0.0-RC2	named	org.primefaces	primefaces-cli	2025-01-17T13:52:39Z	4.7.6
+3.1.0	named	org.apache.tika	tika-parser-nlp-package	2025-01-28T19:13:28Z	4.7.6
+14.0.11	named	org.primefaces	primefaces-cli	2025-01-28T19:13:36Z	4.7.5
+26.1.1	named	org.keycloak	keycloak-admin-cli	2025-02-05T09:28:04Z	4.7.6
+26.1.2	named	org.keycloak	keycloak-admin-cli	2025-02-11T08:44:49Z	4.7.6
+1.0.69	named	net.neoforged.jst	jst-cli-bundle	2025-02-16T21:22:31Z	4.7.6
+14.0.12	named	org.primefaces	primefaces-cli	2025-02-17T14:50:17Z	4.7.5
+15.0.0	named	org.primefaces	primefaces-cli	2025-02-17T15:49:58Z	4.7.6
+26.1.3	named	org.keycloak	keycloak-admin-cli	2025-02-28T09:58:12Z	4.7.6
+0.8.5	named	io.etcd	jetcd-ctl	2025-03-03T10:10:54Z	4.7.6
+0.0.10	named	com.yelloowstone.nf2t	setup-project	2025-03-09T22:36:35Z	4.7.6
+15.0.1	named	org.primefaces	primefaces-cli	2025-03-12T17:23:27Z	4.7.6
+26.1.4	named	org.keycloak	keycloak-admin-cli	2025-03-13T15:34:51Z	4.7.6
+5.0.42	named	io.mongock	mongock-cli-core	2025-03-15T12:36:02Z	
+5.0.42	named	io.mongock	mongock-cli-springboot	2025-03-15T12:36:02Z	
+0.7.0	named	org.hjug.refactorfirst.report	cli	2025-03-17T02:13:56Z	4.7.4
+15.0.2	named	org.primefaces	primefaces-cli	2025-03-21T11:56:06Z	4.7.6
+15.0.3	named	org.primefaces	primefaces-cli	2025-03-28T16:34:45Z	4.7.6
+1.0.19	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2025-03-31T08:42:58Z	
+0.1.0-alpha.19	named	dev.lukebemish.crochet	tools	2025-04-01T00:08:23Z	4.7.6
+1.0.19	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T03:15:37Z	
+1.0.20	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T07:59:17Z	
+1.0.21	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T08:21:16Z	
+1.0.22	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T10:36:19Z	
+1.0.23	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-02T02:54:30Z	
+1.0.24	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-02T03:18:15Z	
+0.7.1	named	org.hjug.refactorfirst.report	cli	2025-04-03T01:36:13Z	4.7.4
+0.18.0	named	com.tngtech.keycloakmock	standalone	2025-04-04T13:03:05Z	4.7.6
+1.0.70	named	net.neoforged.jst	jst-cli-bundle	2025-04-07T13:16:35Z	4.7.6
+0.0.11	named	com.yelloowstone.nf2t	setup-project	2025-04-07T22:53:51Z	4.7.6
+1.0.25	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-08T01:41:50Z	
+1.0.26	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-09T02:11:39Z	
+1.0.27	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-09T10:48:26Z	
+26.1.5	named	org.keycloak	keycloak-admin-cli	2025-04-11T07:52:37Z	4.7.6
+26.2.0	named	org.keycloak	keycloak-admin-cli	2025-04-11T12:37:28Z	4.7.6
+4.7.7	named	info.picocli	picocli	2025-04-19T00:37:36Z	4.7.7
+26.2.1	named	org.keycloak	keycloak-admin-cli	2025-04-23T12:11:19Z	4.7.6
+1.0.71	named	net.neoforged.jst	jst-cli-bundle	2025-04-26T14:55:28Z	4.7.6
+26.2.2	named	org.keycloak	keycloak-admin-cli	2025-04-30T06:03:21Z	4.7.6
+1.0.72	named	net.neoforged.jst	jst-cli-bundle	2025-05-02T10:12:24Z	4.7.6
+0.18.2	named	com.tngtech.keycloakmock	standalone	2025-05-05T07:05:12Z	4.7.6
+26.2.3	named	org.keycloak	keycloak-admin-cli	2025-05-05T11:05:51Z	4.7.6
+26.2.4	named	org.keycloak	keycloak-admin-cli	2025-05-08T09:04:00Z	4.7.6
+15.0.4	named	org.primefaces	primefaces-cli	2025-05-09T16:36:21Z	4.7.6
+1.3.14	named	technology.dice.open	dice-where-downloader	2025-05-12T15:19:34Z	
+3.2.0	named	org.apache.tika	tika-parser-nlp-package	2025-05-21T20:18:39Z	4.7.6
+26.2.5	named	org.keycloak	keycloak-admin-cli	2025-05-28T06:43:35Z	4.7.6
+15.0.5	named	org.primefaces	primefaces-cli	2025-06-13T19:07:04Z	4.7.6
+3.0.5	named	com.instaclustr	esop	2025-06-16T09:33:33Z	4.7.1
+25.7.0-rc01	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2025-06-18T12:11:51Z	4.7.5
+3.2.1	named	org.apache.tika	tika-parser-nlp-package	2025-06-26T17:19:52Z	4.7.6
+26.3.0	named	org.keycloak	keycloak-admin-cli	2025-07-01T13:32:25Z	4.7.6
+25.7.0	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2025-07-02T11:47:47Z	4.7.5
+26.3.1	named	org.keycloak	keycloak-admin-cli	2025-07-09T13:06:19Z	4.7.6
+14.0.13-LTS	named	org.primefaces	primefaces-cli	2025-07-17T09:18:29Z	4.7.5
+15.0.6	named	org.primefaces	primefaces-cli	2025-07-17T11:37:51Z	4.7.6
+0.0.1	named	com.mariosgavriil	bootBoost	2025-07-22T22:03:28Z	4.7.5
+26.3.2	named	org.keycloak	keycloak-admin-cli	2025-07-24T10:06:34Z	4.7.6
+1.0.74	named	net.neoforged.jst	jst-cli-bundle	2025-08-03T12:33:41Z	4.7.6
+12.0.11-LTS	named	org.primefaces	primefaces-cli	2025-08-06T11:16:21Z	
+11.0.18-LTS	named	org.primefaces	primefaces-cli	2025-08-06T12:19:41Z	
+2.0.0	named	net.neoforged.jst	jst-cli-bundle	2025-08-06T13:49:45Z	4.7.6
+14.0.14-LTS	named	org.primefaces	primefaces-cli	2025-08-06T14:23:03Z	4.7.5
+3.2.2	named	org.apache.tika	tika-parser-nlp-package	2025-08-06T17:07:52Z	4.7.6
+15.0.6.LIFERAY-PATCHED-1	named	com.liferay.faces	primefaces-cli	2025-08-13T15:41:09Z	4.7.6
+13.0.10.LIFERAY-PATCHED-1	named	com.liferay.faces	primefaces-cli	2025-08-13T16:36:43Z	4.7.4
+0.0.2	named	com.mariosgavriil	bootBoost	2025-08-14T14:28:19Z	4.7.5
+26.3.3	named	org.keycloak	keycloak-admin-cli	2025-08-20T10:04:35Z	4.7.6
+0.3.2	named	org.geneontology.obographs	obographs-cli	2025-08-20T16:39:46Z	
+2.0.1	named	net.neoforged.jst	jst-cli-bundle	2025-08-24T09:32:06Z	4.7.6
+15.0.7	named	org.primefaces	primefaces-cli	2025-08-27T11:35:50Z	4.7.6
+2.0.2	named	net.neoforged.jst	jst-cli-bundle	2025-08-27T22:58:09Z	4.7.6
+11.0.19-LTS	named	org.primefaces	primefaces-cli	2025-09-02T09:56:44Z	
+1.3.16	named	technology.dice.open	dice-where-downloader	2025-09-05T08:13:18Z	
+3.2.3	named	org.apache.tika	tika-parser-nlp-package	2025-09-11T14:46:06Z	4.7.6
+1.3.17	named	technology.dice.open	dice-where-downloader	2025-09-12T09:59:33Z	
+26.3.4	named	org.keycloak	keycloak-admin-cli	2025-09-12T13:14:04Z	4.7.6
+15.0.8	named	org.primefaces	primefaces-cli	2025-09-23T11:52:45Z	4.7.6
+26.3.5	named	org.keycloak	keycloak-admin-cli	2025-09-25T06:13:48Z	4.7.6
+1.0.63	named	cn.ibizlab.plugin	ibizlab-template-document	2025-09-26T16:29:09Z	
+1.0.1	named	cn.ibizlab.plugin	ibizlab-template-groovy	2025-09-27T07:03:49Z	
+2.0.3	named	net.neoforged.jst	jst-cli-bundle	2025-09-28T16:31:32Z	4.7.6
+26.4.0	named	org.keycloak	keycloak-admin-cli	2025-09-30T11:38:31Z	4.7.7
+4.0.0	named	com.instaclustr	esop-core	2025-10-13T17:36:37Z	4.7.2
+4.0.0	named	com.instaclustr	esop-s3	2025-10-13T17:36:37Z	4.7.2
+1.0.0	named	io.github.siddharth-mishra-28	batchiller-server	2025-10-15T16:34:16Z	4.7.5
+26.4.1	named	org.keycloak	keycloak-admin-cli	2025-10-16T07:04:27Z	4.7.7
+4.0.1	named	com.instaclustr	esop-core	2025-10-16T14:02:55Z	4.7.2
+4.0.1	named	com.instaclustr	esop-s3	2025-10-16T14:02:55Z	4.7.2
+26.4.2	named	org.keycloak	keycloak-admin-cli	2025-10-23T06:49:52Z	4.7.7
+15.0.9	named	org.primefaces	primefaces-cli	2025-10-29T16:42:29Z	4.7.6
+26.4.3	named	org.keycloak	keycloak-admin-cli	2025-11-06T10:16:07Z	4.7.7
+26.4.4	named	org.keycloak	keycloak-admin-cli	2025-11-07T08:47:07Z	4.7.7
+15.0.10	named	org.primefaces	primefaces-cli	2025-11-10T15:29:29Z	4.7.6
+26.4.5	named	org.keycloak	keycloak-admin-cli	2025-11-12T15:11:00Z	4.7.7
+11.0.20-LTS	named	org.primefaces	primefaces-cli	2025-11-18T18:37:23Z	
+1.0.0	named	com.instaclustr	ic-sstable-tools-5.0.6	2025-11-24T11:44:38Z	4.7.1
+26.4.6	named	org.keycloak	keycloak-admin-cli	2025-11-25T17:22:36Z	4.7.7
+26.4.7	named	org.keycloak	keycloak-admin-cli	2025-12-01T08:02:00Z	4.7.7
+0.1.0	named	io.github.tansuasici	tnsai-cli	2025-12-03T20:45:16Z	4.7.5
+0.1.4	named	io.github.ivanstambuk	openauth-sim-standalone	2025-12-09T18:35:57Z	4.7.7
+0.2.2	named	io.github.me1td0wn76	icebrew-cli	2025-12-10T05:33:51Z	4.7.5
+0.1.5	named	io.github.ivanstambuk	openauth-sim-standalone	2025-12-11T00:06:34Z	4.7.7
+2.0.4	named	net.neoforged.jst	jst-cli-bundle	2025-12-14T11:55:01Z	4.7.6
+26.1.0-rc03	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2025-12-16T13:13:13Z	4.7.5
+0.0.3	named	dev.deploy4j	deploy4j-cli	2026-01-01T21:02:43Z	4.7.6
+15.0.11	named	org.primefaces	primefaces-cli	2026-01-04T13:01:51Z	4.7.6
+0.0.4	named	dev.deploy4j	deploy4j-cli	2026-01-04T22:43:56Z	4.7.7
+0.0.5	named	dev.deploy4j	deploy4j-cli	2026-01-04T23:06:03Z	4.7.7
+26.5.0	named	org.keycloak	keycloak-admin-cli	2026-01-06T07:33:47Z	4.7.7
+26.1.0	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2026-01-08T08:30:19Z	4.7.5
+0.0.6	named	dev.deploy4j	deploy4j-cli	2026-01-12T08:41:42Z	4.7.7
+11.0.21-LTS	named	org.primefaces	primefaces-cli	2026-01-12T16:22:59Z	
+15.0.12	named	org.primefaces	primefaces-cli	2026-01-12T16:26:35Z	4.7.6
+12.0.12-LTS	named	org.primefaces	primefaces-cli	2026-01-12T16:42:38Z	
+14.0.15-LTS	named	org.primefaces	primefaces-cli	2026-01-12T16:57:16Z	4.7.5
+26.5.1	named	org.keycloak	keycloak-admin-cli	2026-01-14T13:55:14Z	4.7.7
+4.0.2	named	com.instaclustr	esop-core	2026-01-20T12:17:52Z	4.7.2
+4.0.2	named	com.instaclustr	esop-s3	2026-01-20T12:17:52Z	4.7.2
+4.1.0	named	com.instaclustr	esop-core	2026-01-23T13:17:49Z	4.7.2
+4.1.0	named	com.instaclustr	esop-s3	2026-01-23T13:17:49Z	4.7.2
+26.5.2	named	org.keycloak	keycloak-admin-cli	2026-01-23T14:14:49Z	4.7.7
+12.0.13-LTS	named	org.primefaces	primefaces-cli	2026-02-04T12:35:51Z	
+4.1.2	named	com.instaclustr	esop-core	2026-02-05T09:36:11Z	4.7.2
+4.1.2	named	com.instaclustr	esop-s3	2026-02-05T09:36:11Z	4.7.2
+3.0.7	named	com.instaclustr	esop	2026-02-06T00:03:40Z	4.7.1
+12.0.14-LTS	named	org.primefaces	primefaces-cli	2026-02-06T16:51:12Z	
+26.5.3	named	org.keycloak	keycloak-admin-cli	2026-02-10T07:18:23Z	4.7.7
+15.0.13	named	org.primefaces	primefaces-cli	2026-02-10T20:14:16Z	4.7.6
+26.5.4	named	org.keycloak	keycloak-admin-cli	2026-02-20T09:10:41Z	4.7.7
+0.8.0	named	org.hjug.refactorfirst.report	cli	2026-02-24T14:05:30Z	4.7.4
+26.5.5	named	org.keycloak	keycloak-admin-cli	2026-03-05T15:31:08Z	4.7.7
+4.1.4	named	com.instaclustr	esop-core	2026-03-13T10:34:02Z	4.7.2
+4.1.4	named	com.instaclustr	esop-s3	2026-03-13T10:34:02Z	4.7.2
+4.1.5	named	com.instaclustr	esop-core	2026-03-16T11:43:41Z	4.7.2
+4.1.5	named	com.instaclustr	esop-s3	2026-03-16T11:43:41Z	4.7.2
+3.3.0	named	org.apache.tika	tika-parser-nlp-package	2026-03-18T18:39:02Z	4.7.7
+26.5.6	named	org.keycloak	keycloak-admin-cli	2026-03-19T06:33:44Z	4.7.7
+15.0.14	named	org.primefaces	primefaces-cli	2026-03-31T15:29:22Z	4.7.6
+26.5.7	named	org.keycloak	keycloak-admin-cli	2026-04-02T14:31:27Z	4.7.7
+0.6.4	named	io.github.rygel	fragments-cli	2026-04-05T15:58:32Z	4.7.7
+4.1.6	named	com.instaclustr	esop-core	2026-04-07T13:36:17Z	4.7.2
+4.1.6	named	com.instaclustr	esop-s3	2026-04-07T13:36:17Z	4.7.2
+26.6.0	named	org.keycloak	keycloak-admin-cli	2026-04-08T08:41:14Z	4.7.7
+0.1.0-alpha1	named	dev.kgidwani	komit-cli	2026-04-10T01:37:56Z	4.7.7
+0.1.0	named	dev.kgidwani	komit-cli	2026-04-15T01:10:06Z	4.7.7
+26.6.1	named	org.keycloak	keycloak-admin-cli	2026-04-15T13:45:47Z	4.7.7
+1.0.0	named	org.apiaddicts.apitools.apigen	apigen-springboot-cli	2026-04-22T15:24:06Z	4.7.6
+0.6.5	named	io.github.rygel	fragments-cli	2026-05-03T16:12:00Z	4.7.7
+15.0.15	named	org.primefaces	primefaces-cli	2026-05-05T15:34:53Z	4.7.6
+4.0.0-alpha-1	named	org.apache.tika	tika-parser-nlp-package	2026-05-09T22:30:31Z	4.7.7
+0.1.1	named	dev.kgidwani	komit-cli	2026-05-15T17:06:50Z	4.7.7
+4.1.7	named	com.instaclustr	esop-core	2026-05-18T10:36:25Z	4.7.2
+4.1.7	named	com.instaclustr	esop-s3	2026-05-18T10:36:25Z	4.7.2

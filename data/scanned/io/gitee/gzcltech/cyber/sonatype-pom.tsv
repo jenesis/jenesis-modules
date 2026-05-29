@@ -1,0 +1,3 @@
+2.0.0-RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/sonatype-pom/2.0.0-RC0/sonatype-pom-2.0.0-RC0.jar returned status 404
+2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/sonatype-pom/2.0.0-RC5/sonatype-pom-2.0.0-RC5.jar returned status 404
+2025.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/sonatype-pom/2025.0.0/sonatype-pom-2025.0.0.jar returned status 404

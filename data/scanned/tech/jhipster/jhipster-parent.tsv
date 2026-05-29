@@ -1,0 +1,4 @@
+8.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/jhipster/jhipster-parent/8.12.0/jhipster-parent-8.12.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/jhipster/jhipster-parent/9.0.0/jhipster-parent-9.0.0.jar returned status 404
+9.0.0-beta.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/jhipster/jhipster-parent/9.0.0-beta.0/jhipster-parent-9.0.0-beta.0.jar returned status 404
+9.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/jhipster/jhipster-parent/9.0.0-beta.1/jhipster-parent-9.0.0-beta.1.jar returned status 404

@@ -1,0 +1,3 @@
+3.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-native-tests/3.52.0/jdbi3-native-tests-3.52.0.jar returned status 404
+3.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-native-tests/3.52.1/jdbi3-native-tests-3.52.1.jar returned status 404
+3.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-native-tests/3.53.0/jdbi3-native-tests-3.53.0.jar returned status 404

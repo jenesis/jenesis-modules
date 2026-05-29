@@ -1,0 +1,274 @@
+5.4.26.Final		2020-12-14T17:08:32Z	
+5.4.27.Final		2020-12-22T20:13:17Z	
+5.4.27.SP1		2021-02-08T14:59:44Z	
+5.4.28.Final		2021-02-09T13:43:39Z	
+5.4.29.Final		2021-03-03T11:58:43Z	
+5.4.30.Final		2021-03-19T07:53:44Z	
+5.4.31.Final		2021-04-29T18:27:32Z	
+5.4.32.Final		2021-05-24T12:02:39Z	
+5.4.33		2021-12-16T10:52:17Z	
+5.4.33.Final		2022-01-10T16:36:20Z	
+5.5.0.Alpha1		2021-04-30T12:27:19Z	
+5.5.0.Beta1		2021-05-12T15:59:40Z	
+5.5.0.CR1		2021-05-24T11:27:33Z	
+5.5.0.Final		2021-06-01T14:59:20Z	
+5.5.2.Final		2021-06-14T15:43:18Z	
+5.5.3.Final		2021-06-22T15:41:35Z	
+5.5.4.Final		2021-07-19T09:31:56Z	
+5.5.5.Final		2021-07-29T14:16:43Z	
+5.5.6		2021-08-04T13:49:25Z	
+5.5.6.Final		2021-08-04T20:21:34Z	
+5.5.7.Final		2021-08-25T14:05:41Z	
+5.5.8.Final		2021-10-13T15:07:06Z	
+5.5.9.Final		2021-12-16T08:36:45Z	
+5.6.0.Beta1		2021-08-27T09:37:39Z	
+5.6.0.Beta2		2021-09-20T22:43:15Z	
+5.6.0.CR1		2021-09-29T13:49:30Z	
+5.6.0.Final		2021-10-11T21:21:52Z	
+5.6.1.Final		2021-10-27T11:11:33Z	
+5.6.10.Final		2022-07-07T08:24:29Z	
+5.6.11.Final		2022-08-30T14:58:14Z	
+5.6.12.Final		2022-09-27T12:27:40Z	
+5.6.13.Final		2022-11-03T20:14:16Z	
+5.6.14.Final		2022-11-04T10:05:48Z	
+5.6.15.Final		2023-02-06T10:58:22Z	
+5.6.2.Final		2021-12-08T13:06:14Z	
+5.6.3.Final		2021-12-15T22:25:45Z	
+5.6.4.Final		2022-01-19T08:12:04Z	
+5.6.5.Final		2022-01-25T15:43:39Z	
+5.6.6.Final		2022-03-15T13:51:36Z	
+5.6.7.Final		2022-03-16T17:23:46Z	
+5.6.8.Final		2022-04-13T15:24:40Z	
+5.6.9.Final		2022-05-14T22:49:57Z	
+6.0.0.Alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Alpha8/hibernate-micrometer-6.0.0.Alpha8.jar returned status 404
+6.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Alpha9/hibernate-micrometer-6.0.0.Alpha9.jar returned status 404
+6.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Beta1/hibernate-micrometer-6.0.0.Beta1.jar returned status 404
+6.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Beta2/hibernate-micrometer-6.0.0.Beta2.jar returned status 404
+6.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Beta3/hibernate-micrometer-6.0.0.Beta3.jar returned status 404
+6.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.CR1/hibernate-micrometer-6.0.0.CR1.jar returned status 404
+6.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.CR2/hibernate-micrometer-6.0.0.CR2.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.0.Final/hibernate-micrometer-6.0.0.Final.jar returned status 404
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.1.Final/hibernate-micrometer-6.0.1.Final.jar returned status 404
+6.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.0.2.Final/hibernate-micrometer-6.0.2.Final.jar returned status 404
+6.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.0.Final/hibernate-micrometer-6.1.0.Final.jar returned status 404
+6.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.1.Final/hibernate-micrometer-6.1.1.Final.jar returned status 404
+6.1.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.2.Final/hibernate-micrometer-6.1.2.Final.jar returned status 404
+6.1.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.3.Final/hibernate-micrometer-6.1.3.Final.jar returned status 404
+6.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.4.Final/hibernate-micrometer-6.1.4.Final.jar returned status 404
+6.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.5.Final/hibernate-micrometer-6.1.5.Final.jar returned status 404
+6.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.6.Final/hibernate-micrometer-6.1.6.Final.jar returned status 404
+6.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.1.7.Final/hibernate-micrometer-6.1.7.Final.jar returned status 404
+6.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.0.CR1/hibernate-micrometer-6.2.0.CR1.jar returned status 404
+6.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.0.CR2/hibernate-micrometer-6.2.0.CR2.jar returned status 404
+6.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.0.CR3/hibernate-micrometer-6.2.0.CR3.jar returned status 404
+6.2.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.0.CR4/hibernate-micrometer-6.2.0.CR4.jar returned status 404
+6.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.0.Final/hibernate-micrometer-6.2.0.Final.jar returned status 404
+6.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.1.Final/hibernate-micrometer-6.2.1.Final.jar returned status 404
+6.2.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.10.Final/hibernate-micrometer-6.2.10.Final.jar returned status 404
+6.2.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.11.Final/hibernate-micrometer-6.2.11.Final.jar returned status 404
+6.2.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.12.Final/hibernate-micrometer-6.2.12.Final.jar returned status 404
+6.2.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.13.Final/hibernate-micrometer-6.2.13.Final.jar returned status 404
+6.2.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.14.Final/hibernate-micrometer-6.2.14.Final.jar returned status 404
+6.2.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.15.Final/hibernate-micrometer-6.2.15.Final.jar returned status 404
+6.2.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.16.Final/hibernate-micrometer-6.2.16.Final.jar returned status 404
+6.2.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.17.Final/hibernate-micrometer-6.2.17.Final.jar returned status 404
+6.2.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.18.Final/hibernate-micrometer-6.2.18.Final.jar returned status 404
+6.2.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.19.Final/hibernate-micrometer-6.2.19.Final.jar returned status 404
+6.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.2.Final/hibernate-micrometer-6.2.2.Final.jar returned status 404
+6.2.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.20.Final/hibernate-micrometer-6.2.20.Final.jar returned status 404
+6.2.21.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.21.Final/hibernate-micrometer-6.2.21.Final.jar returned status 404
+6.2.22.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.22.Final/hibernate-micrometer-6.2.22.Final.jar returned status 404
+6.2.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.23.Final/hibernate-micrometer-6.2.23.Final.jar returned status 404
+6.2.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.24.Final/hibernate-micrometer-6.2.24.Final.jar returned status 404
+6.2.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.25.Final/hibernate-micrometer-6.2.25.Final.jar returned status 404
+6.2.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.26.Final/hibernate-micrometer-6.2.26.Final.jar returned status 404
+6.2.27.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.27.Final/hibernate-micrometer-6.2.27.Final.jar returned status 404
+6.2.28.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.28.Final/hibernate-micrometer-6.2.28.Final.jar returned status 404
+6.2.29.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.29.Final/hibernate-micrometer-6.2.29.Final.jar returned status 404
+6.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.3.Final/hibernate-micrometer-6.2.3.Final.jar returned status 404
+6.2.30.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.30.Final/hibernate-micrometer-6.2.30.Final.jar returned status 404
+6.2.31.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.31.Final/hibernate-micrometer-6.2.31.Final.jar returned status 404
+6.2.32.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.32.Final/hibernate-micrometer-6.2.32.Final.jar returned status 404
+6.2.33.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.33.Final/hibernate-micrometer-6.2.33.Final.jar returned status 404
+6.2.34.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.34.Final/hibernate-micrometer-6.2.34.Final.jar returned status 404
+6.2.35.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.35.Final/hibernate-micrometer-6.2.35.Final.jar returned status 404
+6.2.36.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.36.Final/hibernate-micrometer-6.2.36.Final.jar returned status 404
+6.2.37.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.37.Final/hibernate-micrometer-6.2.37.Final.jar returned status 404
+6.2.38.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.38.Final/hibernate-micrometer-6.2.38.Final.jar returned status 404
+6.2.39.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.39.Final/hibernate-micrometer-6.2.39.Final.jar returned status 404
+6.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.4.Final/hibernate-micrometer-6.2.4.Final.jar returned status 404
+6.2.40.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.40.Final/hibernate-micrometer-6.2.40.Final.jar returned status 404
+6.2.41.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.41.Final/hibernate-micrometer-6.2.41.Final.jar returned status 404
+6.2.42.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.42.Final/hibernate-micrometer-6.2.42.Final.jar returned status 404
+6.2.43.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.43.Final/hibernate-micrometer-6.2.43.Final.jar returned status 404
+6.2.44.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.44.Final/hibernate-micrometer-6.2.44.Final.jar returned status 404
+6.2.45.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.45.Final/hibernate-micrometer-6.2.45.Final.jar returned status 404
+6.2.46.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.46.Final/hibernate-micrometer-6.2.46.Final.jar returned status 404
+6.2.47.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.47.Final/hibernate-micrometer-6.2.47.Final.jar returned status 404
+6.2.48.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.48.Final/hibernate-micrometer-6.2.48.Final.jar returned status 404
+6.2.49.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.49.Final/hibernate-micrometer-6.2.49.Final.jar returned status 404
+6.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.5.Final/hibernate-micrometer-6.2.5.Final.jar returned status 404
+6.2.50.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.50.Final/hibernate-micrometer-6.2.50.Final.jar returned status 404
+6.2.51.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.51.Final/hibernate-micrometer-6.2.51.Final.jar returned status 404
+6.2.52.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.52.Final/hibernate-micrometer-6.2.52.Final.jar returned status 404
+6.2.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.6.Final/hibernate-micrometer-6.2.6.Final.jar returned status 404
+6.2.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.7.Final/hibernate-micrometer-6.2.7.Final.jar returned status 404
+6.2.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.8.Final/hibernate-micrometer-6.2.8.Final.jar returned status 404
+6.2.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.2.9.Final/hibernate-micrometer-6.2.9.Final.jar returned status 404
+6.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.3.0.CR1/hibernate-micrometer-6.3.0.CR1.jar returned status 404
+6.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.3.0.Final/hibernate-micrometer-6.3.0.Final.jar returned status 404
+6.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.3.1.Final/hibernate-micrometer-6.3.1.Final.jar returned status 404
+6.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.3.2.Final/hibernate-micrometer-6.3.2.Final.jar returned status 404
+6.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.0.CR1/hibernate-micrometer-6.4.0.CR1.jar returned status 404
+6.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.0.Final/hibernate-micrometer-6.4.0.Final.jar returned status 404
+6.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.1.Final/hibernate-micrometer-6.4.1.Final.jar returned status 404
+6.4.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.10.Final/hibernate-micrometer-6.4.10.Final.jar returned status 404
+6.4.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.2.Final/hibernate-micrometer-6.4.2.Final.jar returned status 404
+6.4.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.3.Final/hibernate-micrometer-6.4.3.Final.jar returned status 404
+6.4.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.4.Final/hibernate-micrometer-6.4.4.Final.jar returned status 404
+6.4.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.5.Final/hibernate-micrometer-6.4.5.Final.jar returned status 404
+6.4.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.6.Final/hibernate-micrometer-6.4.6.Final.jar returned status 404
+6.4.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.7.Final/hibernate-micrometer-6.4.7.Final.jar returned status 404
+6.4.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.8.Final/hibernate-micrometer-6.4.8.Final.jar returned status 404
+6.4.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.4.9.Final/hibernate-micrometer-6.4.9.Final.jar returned status 404
+6.5.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.0.CR1/hibernate-micrometer-6.5.0.CR1.jar returned status 404
+6.5.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.0.CR2/hibernate-micrometer-6.5.0.CR2.jar returned status 404
+6.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.0.Final/hibernate-micrometer-6.5.0.Final.jar returned status 404
+6.5.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.1.Final/hibernate-micrometer-6.5.1.Final.jar returned status 404
+6.5.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.2.Final/hibernate-micrometer-6.5.2.Final.jar returned status 404
+6.5.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.5.3.Final/hibernate-micrometer-6.5.3.Final.jar returned status 404
+6.6.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.0.Alpha1/hibernate-micrometer-6.6.0.Alpha1.jar returned status 404
+6.6.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.0.CR1/hibernate-micrometer-6.6.0.CR1.jar returned status 404
+6.6.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.0.CR2/hibernate-micrometer-6.6.0.CR2.jar returned status 404
+6.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.0.Final/hibernate-micrometer-6.6.0.Final.jar returned status 404
+6.6.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.1.Final/hibernate-micrometer-6.6.1.Final.jar returned status 404
+6.6.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.10.Final/hibernate-micrometer-6.6.10.Final.jar returned status 404
+6.6.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.11.Final/hibernate-micrometer-6.6.11.Final.jar returned status 404
+6.6.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.12.Final/hibernate-micrometer-6.6.12.Final.jar returned status 404
+6.6.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.13.Final/hibernate-micrometer-6.6.13.Final.jar returned status 404
+6.6.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.14.Final/hibernate-micrometer-6.6.14.Final.jar returned status 404
+6.6.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.15.Final/hibernate-micrometer-6.6.15.Final.jar returned status 404
+6.6.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.16.Final/hibernate-micrometer-6.6.16.Final.jar returned status 404
+6.6.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.17.Final/hibernate-micrometer-6.6.17.Final.jar returned status 404
+6.6.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.18.Final/hibernate-micrometer-6.6.18.Final.jar returned status 404
+6.6.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.19.Final/hibernate-micrometer-6.6.19.Final.jar returned status 404
+6.6.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.2.Final/hibernate-micrometer-6.6.2.Final.jar returned status 404
+6.6.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.20.Final/hibernate-micrometer-6.6.20.Final.jar returned status 404
+6.6.21.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.21.Final/hibernate-micrometer-6.6.21.Final.jar returned status 404
+6.6.22.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.22.Final/hibernate-micrometer-6.6.22.Final.jar returned status 404
+6.6.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.23.Final/hibernate-micrometer-6.6.23.Final.jar returned status 404
+6.6.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.24.Final/hibernate-micrometer-6.6.24.Final.jar returned status 404
+6.6.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.25.Final/hibernate-micrometer-6.6.25.Final.jar returned status 404
+6.6.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.26.Final/hibernate-micrometer-6.6.26.Final.jar returned status 404
+6.6.27.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.27.Final/hibernate-micrometer-6.6.27.Final.jar returned status 404
+6.6.28.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.28.Final/hibernate-micrometer-6.6.28.Final.jar returned status 404
+6.6.29.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.29.Final/hibernate-micrometer-6.6.29.Final.jar returned status 404
+6.6.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.3.Final/hibernate-micrometer-6.6.3.Final.jar returned status 404
+6.6.30.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.30.Final/hibernate-micrometer-6.6.30.Final.jar returned status 404
+6.6.31.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.31.Final/hibernate-micrometer-6.6.31.Final.jar returned status 404
+6.6.32.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.32.Final/hibernate-micrometer-6.6.32.Final.jar returned status 404
+6.6.33.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.33.Final/hibernate-micrometer-6.6.33.Final.jar returned status 404
+6.6.34.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.34.Final/hibernate-micrometer-6.6.34.Final.jar returned status 404
+6.6.35.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.35.Final/hibernate-micrometer-6.6.35.Final.jar returned status 404
+6.6.36.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.36.Final/hibernate-micrometer-6.6.36.Final.jar returned status 404
+6.6.37.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.37.Final/hibernate-micrometer-6.6.37.Final.jar returned status 404
+6.6.38.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.38.Final/hibernate-micrometer-6.6.38.Final.jar returned status 404
+6.6.39.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.39.Final/hibernate-micrometer-6.6.39.Final.jar returned status 404
+6.6.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.4.Final/hibernate-micrometer-6.6.4.Final.jar returned status 404
+6.6.40.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.40.Final/hibernate-micrometer-6.6.40.Final.jar returned status 404
+6.6.41.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.41.Final/hibernate-micrometer-6.6.41.Final.jar returned status 404
+6.6.42.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.42.Final/hibernate-micrometer-6.6.42.Final.jar returned status 404
+6.6.43.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.43.Final/hibernate-micrometer-6.6.43.Final.jar returned status 404
+6.6.44.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.44.Final/hibernate-micrometer-6.6.44.Final.jar returned status 404
+6.6.45.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.45.Final/hibernate-micrometer-6.6.45.Final.jar returned status 404
+6.6.46.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.46.Final/hibernate-micrometer-6.6.46.Final.jar returned status 404
+6.6.47.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.47.Final/hibernate-micrometer-6.6.47.Final.jar returned status 404
+6.6.48.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.48.Final/hibernate-micrometer-6.6.48.Final.jar returned status 404
+6.6.49.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.49.Final/hibernate-micrometer-6.6.49.Final.jar returned status 404
+6.6.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.5.Final/hibernate-micrometer-6.6.5.Final.jar returned status 404
+6.6.50.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.50.Final/hibernate-micrometer-6.6.50.Final.jar returned status 404
+6.6.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.6.Final/hibernate-micrometer-6.6.6.Final.jar returned status 404
+6.6.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.7.Final/hibernate-micrometer-6.6.7.Final.jar returned status 404
+6.6.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.8.Final/hibernate-micrometer-6.6.8.Final.jar returned status 404
+6.6.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.9.Final/hibernate-micrometer-6.6.9.Final.jar returned status 404
+7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Alpha1/hibernate-micrometer-7.0.0.Alpha1.jar returned status 404
+7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Alpha2/hibernate-micrometer-7.0.0.Alpha2.jar returned status 404
+7.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Alpha3/hibernate-micrometer-7.0.0.Alpha3.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Beta1/hibernate-micrometer-7.0.0.Beta1.jar returned status 404
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Beta2/hibernate-micrometer-7.0.0.Beta2.jar returned status 404
+7.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Beta3/hibernate-micrometer-7.0.0.Beta3.jar returned status 404
+7.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Beta4/hibernate-micrometer-7.0.0.Beta4.jar returned status 404
+7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Beta5/hibernate-micrometer-7.0.0.Beta5.jar returned status 404
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.CR1/hibernate-micrometer-7.0.0.CR1.jar returned status 404
+7.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.CR2/hibernate-micrometer-7.0.0.CR2.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.0.Final/hibernate-micrometer-7.0.0.Final.jar returned status 404
+7.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.1.Final/hibernate-micrometer-7.0.1.Final.jar returned status 404
+7.0.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.10.Final/hibernate-micrometer-7.0.10.Final.jar returned status 404
+7.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.2.Final/hibernate-micrometer-7.0.2.Final.jar returned status 404
+7.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.3.Final/hibernate-micrometer-7.0.3.Final.jar returned status 404
+7.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.4.Final/hibernate-micrometer-7.0.4.Final.jar returned status 404
+7.0.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.5.Final/hibernate-micrometer-7.0.5.Final.jar returned status 404
+7.0.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.6.Final/hibernate-micrometer-7.0.6.Final.jar returned status 404
+7.0.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.7.Final/hibernate-micrometer-7.0.7.Final.jar returned status 404
+7.0.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.8.Final/hibernate-micrometer-7.0.8.Final.jar returned status 404
+7.0.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.0.9.Final/hibernate-micrometer-7.0.9.Final.jar returned status 404
+7.1.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.0.CR1/hibernate-micrometer-7.1.0.CR1.jar returned status 404
+7.1.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.0.CR2/hibernate-micrometer-7.1.0.CR2.jar returned status 404
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.0.Final/hibernate-micrometer-7.1.0.Final.jar returned status 404
+7.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.1.Final/hibernate-micrometer-7.1.1.Final.jar returned status 404
+7.1.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.10.Final/hibernate-micrometer-7.1.10.Final.jar returned status 404
+7.1.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.11.Final/hibernate-micrometer-7.1.11.Final.jar returned status 404
+7.1.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.12.Final/hibernate-micrometer-7.1.12.Final.jar returned status 404
+7.1.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.13.Final/hibernate-micrometer-7.1.13.Final.jar returned status 404
+7.1.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.14.Final/hibernate-micrometer-7.1.14.Final.jar returned status 404
+7.1.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.15.Final/hibernate-micrometer-7.1.15.Final.jar returned status 404
+7.1.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.16.Final/hibernate-micrometer-7.1.16.Final.jar returned status 404
+7.1.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.17.Final/hibernate-micrometer-7.1.17.Final.jar returned status 404
+7.1.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.18.Final/hibernate-micrometer-7.1.18.Final.jar returned status 404
+7.1.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.19.Final/hibernate-micrometer-7.1.19.Final.jar returned status 404
+7.1.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.2.Final/hibernate-micrometer-7.1.2.Final.jar returned status 404
+7.1.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.20.Final/hibernate-micrometer-7.1.20.Final.jar returned status 404
+7.1.21.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.21.Final/hibernate-micrometer-7.1.21.Final.jar returned status 404
+7.1.22.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.22.Final/hibernate-micrometer-7.1.22.Final.jar returned status 404
+7.1.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.23.Final/hibernate-micrometer-7.1.23.Final.jar returned status 404
+7.1.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.24.Final/hibernate-micrometer-7.1.24.Final.jar returned status 404
+7.1.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.25.Final/hibernate-micrometer-7.1.25.Final.jar returned status 404
+7.1.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.26.Final/hibernate-micrometer-7.1.26.Final.jar returned status 404
+7.1.27.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.27.Final/hibernate-micrometer-7.1.27.Final.jar returned status 404
+7.1.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.3.Final/hibernate-micrometer-7.1.3.Final.jar returned status 404
+7.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.4.Final/hibernate-micrometer-7.1.4.Final.jar returned status 404
+7.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.5.Final/hibernate-micrometer-7.1.5.Final.jar returned status 404
+7.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.6.Final/hibernate-micrometer-7.1.6.Final.jar returned status 404
+7.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.7.Final/hibernate-micrometer-7.1.7.Final.jar returned status 404
+7.1.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.8.Final/hibernate-micrometer-7.1.8.Final.jar returned status 404
+7.1.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.9.Final/hibernate-micrometer-7.1.9.Final.jar returned status 404
+7.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.0.CR1/hibernate-micrometer-7.2.0.CR1.jar returned status 404
+7.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.0.CR2/hibernate-micrometer-7.2.0.CR2.jar returned status 404
+7.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.0.CR3/hibernate-micrometer-7.2.0.CR3.jar returned status 404
+7.2.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.0.CR4/hibernate-micrometer-7.2.0.CR4.jar returned status 404
+7.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.0.Final/hibernate-micrometer-7.2.0.Final.jar returned status 404
+7.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.1.Final/hibernate-micrometer-7.2.1.Final.jar returned status 404
+7.2.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.10.Final/hibernate-micrometer-7.2.10.Final.jar returned status 404
+7.2.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.11.Final/hibernate-micrometer-7.2.11.Final.jar returned status 404
+7.2.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.12.Final/hibernate-micrometer-7.2.12.Final.jar returned status 404
+7.2.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.13.Final/hibernate-micrometer-7.2.13.Final.jar returned status 404
+7.2.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.14.Final/hibernate-micrometer-7.2.14.Final.jar returned status 404
+7.2.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.15.Final/hibernate-micrometer-7.2.15.Final.jar returned status 404
+7.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.2.Final/hibernate-micrometer-7.2.2.Final.jar returned status 404
+7.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.3.Final/hibernate-micrometer-7.2.3.Final.jar returned status 404
+7.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.4.Final/hibernate-micrometer-7.2.4.Final.jar returned status 404
+7.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.5.Final/hibernate-micrometer-7.2.5.Final.jar returned status 404
+7.2.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.6.Final/hibernate-micrometer-7.2.6.Final.jar returned status 404
+7.2.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.7.Final/hibernate-micrometer-7.2.7.Final.jar returned status 404
+7.2.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.8.Final/hibernate-micrometer-7.2.8.Final.jar returned status 404
+7.2.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.9.Final/hibernate-micrometer-7.2.9.Final.jar returned status 404
+7.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.0.CR1/hibernate-micrometer-7.3.0.CR1.jar returned status 404
+7.3.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.0.CR2/hibernate-micrometer-7.3.0.CR2.jar returned status 404
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.0.Final/hibernate-micrometer-7.3.0.Final.jar returned status 404
+7.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.1.Final/hibernate-micrometer-7.3.1.Final.jar returned status 404
+7.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.2.Final/hibernate-micrometer-7.3.2.Final.jar returned status 404
+7.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.3.Final/hibernate-micrometer-7.3.3.Final.jar returned status 404
+7.3.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.4.Final/hibernate-micrometer-7.3.4.Final.jar returned status 404
+7.3.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.5.Final/hibernate-micrometer-7.3.5.Final.jar returned status 404
+7.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.4.0.CR1/hibernate-micrometer-7.4.0.CR1.jar returned status 404
+8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/8.0.0.Alpha1/hibernate-micrometer-8.0.0.Alpha1.jar returned status 404

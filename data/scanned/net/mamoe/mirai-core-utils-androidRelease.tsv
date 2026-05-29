@@ -1,0 +1,4 @@
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mamoe/mirai-core-utils-androidRelease/2.15.0/mirai-core-utils-androidRelease-2.15.0.jar returned status 404
+2.15.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mamoe/mirai-core-utils-androidRelease/2.15.0-RC/mirai-core-utils-androidRelease-2.15.0-RC.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mamoe/mirai-core-utils-androidRelease/2.16.0/mirai-core-utils-androidRelease-2.16.0.jar returned status 404
+2.16.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mamoe/mirai-core-utils-androidRelease/2.16.0-RC/mirai-core-utils-androidRelease-2.16.0-RC.jar returned status 404

@@ -1,0 +1,6 @@
+0.5.0		2020-06-12T18:48:49Z	
+0.5.1		2020-06-12T20:27:17Z	
+0.5.3		2020-07-06T00:29:21Z	
+0.5.5		2020-08-15T23:09:26Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-threadsafe-js/0.6.0/redux-kotlin-threadsafe-js-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-threadsafe-js/0.6.1/redux-kotlin-threadsafe-js-0.6.1.jar returned status 404

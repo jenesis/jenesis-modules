@@ -1,0 +1,4 @@
+3.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/redis-extension/3.0.1.0/redis-extension-3.0.1.0.jar returned status 404
+4.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/redis-extension/4.0.0.0/redis-extension-4.0.0.0.jar returned status 404
+4.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/redis-extension/4.0.0.1/redis-extension-4.0.0.1.jar returned status 404
+4.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/redis-extension/4.0.0.2/redis-extension-4.0.0.2.jar returned status 404

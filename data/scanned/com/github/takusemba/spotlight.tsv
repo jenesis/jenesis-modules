@@ -1,0 +1,3 @@
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/takusemba/spotlight/2.0.4/spotlight-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/takusemba/spotlight/2.0.5/spotlight-2.0.5.jar returned status 404
+unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/takusemba/spotlight/unspecified/spotlight-unspecified.jar returned status 404

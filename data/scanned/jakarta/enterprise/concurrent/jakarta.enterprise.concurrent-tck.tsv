@@ -1,0 +1,13 @@
+3.0.0		2022-04-26T18:48:13Z	
+3.0.1		2022-07-11T18:18:14Z	
+3.0.2		2022-09-19T18:35:28Z	
+3.0.3		2023-09-06T21:45:03Z	
+3.0.4		2024-06-28T15:42:13Z	
+3.1.0		2024-05-14T16:12:47Z	
+3.1.0-M1		2023-11-17T15:20:39Z	
+3.1.0-M2		2024-02-28T16:49:49Z	
+3.1.0-RC1		2024-03-20T15:55:13Z	
+3.1.0-RC2		2024-03-26T20:32:39Z	
+3.1.1		2024-06-11T19:43:54Z	
+3.2.0-M1		2025-10-08T22:04:10Z	
+3.2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/enterprise/concurrent/jakarta.enterprise.concurrent-tck/3.2.0-M2/jakarta.enterprise.concurrent-tck-3.2.0-M2.jar returned status 404

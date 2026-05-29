@@ -1,0 +1,69 @@
+1.0.0		2015-04-19T18:24:04Z	
+1.0.1		2015-05-20T16:55:24Z	
+1.0.2		2015-05-24T14:23:23Z	
+1.0.3		2015-06-05T14:11:06Z	
+1.0.4		2015-06-20T15:13:36Z	
+1.0.5		2015-08-06T11:45:18Z	
+1.0.6		2015-09-25T09:46:23Z	
+1.1.0		2016-02-18T21:49:17Z	
+1.1.0-Alpha1		2015-10-21T16:54:35Z	
+1.1.0-Alpha2		2015-10-22T19:07:23Z	
+1.1.0-Alpha3		2015-11-01T20:18:55Z	
+1.1.0-Alpha4		2015-11-04T22:50:46Z	
+1.1.0-Alpha5		2015-11-08T09:50:40Z	
+1.1.0-Alpha6		2015-11-29T15:14:55Z	
+1.1.0-Alpha7		2015-12-05T16:45:18Z	
+1.1.1		2016-09-29T11:33:14Z	
+1.2.0		2018-05-08T06:07:08Z	
+1.2.0	module	2018-05-08T06:07:10Z	
+1.2.0-Alpha1		2016-09-29T12:50:51Z	
+1.2.0-Alpha2		2017-02-01T14:38:29Z	
+1.2.0-Alpha3		2017-04-27T16:14:19Z	
+1.2.0-Alpha4		2018-02-10T21:36:35Z	
+1.2.0-Alpha5		2018-03-15T20:42:36Z	
+1.2.0-Alpha6		2018-03-17T12:04:50Z	
+1.2.0-RC1		2018-05-03T23:50:50Z	
+1.2.0-RC1	module	2018-05-03T23:50:52Z	
+1.2.1		2018-07-04T21:50:46Z	
+1.2.1	module	2018-07-04T21:51:04Z	
+1.3.0		2018-11-23T18:34:48Z	
+1.3.0	module	2018-11-23T18:34:51Z	
+1.3.0-Alpha1		2018-07-05T09:46:21Z	
+1.3.0-Alpha1	module	2018-07-05T09:46:28Z	
+1.3.0-Alpha2		2018-07-20T15:39:28Z	
+1.3.0-Alpha2	module	2018-07-20T15:41:29Z	
+1.3.0-Alpha3		2018-09-06T18:55:43Z	
+1.3.0-Alpha3	module	2018-09-06T18:55:46Z	
+1.3.1		2019-01-15T13:17:56Z	
+1.3.1	module	2019-01-15T13:18:12Z	
+1.3.2		2019-02-26T08:28:11Z	
+1.3.2	module	2019-02-26T08:28:15Z	
+1.4.0		2020-01-04T12:07:58Z	
+1.4.0-Alpha1		2019-05-29T19:42:21Z	
+1.4.0-Alpha1	module	2019-05-29T19:42:30Z	
+1.4.0-Alpha2		2019-09-17T00:17:01Z	
+1.4.0-Alpha3		2019-10-26T07:53:32Z	
+1.4.0-Alpha4		2019-12-29T17:22:19Z	
+1.4.1		2020-01-28T15:01:03Z	
+1.5.0		2020-09-03T12:21:34Z	
+1.5.0-Alpha1		2020-03-18T10:42:19Z	
+1.5.0-Alpha2		2020-05-14T08:42:29Z	
+1.5.0-Alpha3		2020-05-24T14:52:28Z	
+1.5.0-Alpha4		2020-05-29T17:07:59Z	
+1.5.0-Alpha5		2020-06-08T20:18:26Z	
+1.5.1		2020-09-14T13:35:36Z	
+1.6.0		2021-04-24T17:49:00Z	
+1.6.0-Alpha1		2020-10-21T22:16:27Z	
+1.6.0-Alpha2		2021-01-17T23:07:30Z	
+1.6.1		2021-07-08T07:04:14Z	
+1.6.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-documentation/1.6.16/blaze-persistence-documentation-1.6.16.jar returned status 404
+1.6.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-documentation/1.6.17/blaze-persistence-documentation-1.6.17.jar returned status 404
+1.6.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-documentation/1.6.18/blaze-persistence-documentation-1.6.18.jar returned status 404
+1.6.2		2021-09-05T17:08:20Z	
+1.6.3		2021-10-10T07:01:25Z	
+1.6.4		2021-12-27T10:57:53Z	
+1.6.5		2022-01-19T10:19:47Z	
+1.6.6		2022-01-29T10:04:08Z	
+1.6.7		2022-08-04T15:11:12Z	
+1.6.8		2022-11-21T12:38:59Z	
+1.6.9		2023-06-15T17:23:28Z	

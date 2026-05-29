@@ -1,0 +1,3 @@
+02.06.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acecounter/ace/ACE/02.06.01/ACE-02.06.01.jar returned status 404
+02.06.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acecounter/ace/ACE/02.06.02/ACE-02.06.02.jar returned status 404
+02.08.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acecounter/ace/ACE/02.08.01/ACE-02.08.01.jar returned status 404

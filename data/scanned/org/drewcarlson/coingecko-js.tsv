@@ -1,0 +1,18 @@
+0.1.10		2021-03-07T07:09:52Z	
+0.1.11		2021-05-20T19:23:49Z	
+0.2.0		2021-06-12T21:39:57Z	
+0.2.1		2021-06-13T03:33:37Z	
+0.2.2		2021-06-27T02:46:33Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.3.0/coingecko-js-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.3.1/coingecko-js-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.3.2/coingecko-js-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.3.3/coingecko-js-0.3.3.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.4.0/coingecko-js-0.4.0.jar returned status 404
+0.4.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.4.0-beta01/coingecko-js-0.4.0-beta01.jar returned status 404
+0.4.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.4.0-beta02/coingecko-js-0.4.0-beta02.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/0.4.1/coingecko-js-0.4.1.jar returned status 404
+1.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/1.0.0-alpha01/coingecko-js-1.0.0-alpha01.jar returned status 404
+1.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/1.0.0-alpha02/coingecko-js-1.0.0-alpha02.jar returned status 404
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/1.0.0-beta01/coingecko-js-1.0.0-beta01.jar returned status 404
+1.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/1.0.0-beta02/coingecko-js-1.0.0-beta02.jar returned status 404
+1.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drewcarlson/coingecko-js/1.0.0-rc01/coingecko-js-1.0.0-rc01.jar returned status 404

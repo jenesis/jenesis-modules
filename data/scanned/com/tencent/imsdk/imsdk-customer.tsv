@@ -1,0 +1,5 @@
+6.9.3557			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-customer/6.9.3557/imsdk-customer-6.9.3557.jar returned status 404
+7.0.1212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-customer/7.0.1212/imsdk-customer-7.0.1212.jar returned status 404
+7.0.3754			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-customer/7.0.3754/imsdk-customer-7.0.3754.jar returned status 404
+7.6.5018			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-customer/7.6.5018/imsdk-customer-7.6.5018.jar returned status 404
+7.6.5020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-customer/7.6.5020/imsdk-customer-7.6.5020.jar returned status 404

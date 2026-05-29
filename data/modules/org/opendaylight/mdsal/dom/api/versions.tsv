@@ -1,0 +1,163 @@
+4.0.3	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-07-30T00:20:37Z	
+4.0.4	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-08-14T22:40:43Z	
+4.0.5	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-09-13T16:54:09Z	
+4.0.6	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-09-22T03:48:26Z	
+5.0.0	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-10-02T00:36:17Z	
+5.0.1	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-10-02T14:18:05Z	
+5.0.2	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-10-09T07:40:27Z	
+5.0.3	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-10-11T13:58:30Z	
+4.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-10-19T16:05:30Z	
+5.0.4	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-11-04T10:53:49Z	
+5.0.5	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-12-11T13:22:56Z	
+4.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-12-11T23:41:24Z	
+5.0.6	automatic	org.opendaylight.mdsal	mdsal-dom-api	2019-12-12T23:25:58Z	
+4.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-15T11:08:10Z	
+5.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-15T14:06:08Z	
+4.0.10	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-16T16:35:21Z	
+5.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-16T18:17:56Z	
+4.0.11	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-17T10:42:48Z	
+5.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-01-17T12:06:24Z	
+4.0.12	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-03-06T21:41:08Z	
+4.0.13	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-03-07T10:05:20Z	
+5.0.10	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-04-21T10:04:00Z	
+6.0.0	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-04-26T16:15:31Z	
+4.0.14	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-05-14T20:25:37Z	
+6.0.1	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-05-30T14:29:29Z	
+5.0.11	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-06-02T19:44:36Z	
+6.0.2	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-06-10T16:12:58Z	
+4.0.15	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-06-22T11:35:44Z	
+5.0.12	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-09T20:01:36Z	
+4.0.16	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-17T14:38:12Z	
+5.0.13	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-17T14:49:27Z	
+6.0.3	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-17T21:08:47Z	
+5.0.14	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-22T18:37:23Z	
+6.0.4	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-22T18:54:02Z	
+4.0.17	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-07-24T12:37:01Z	
+6.0.5	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-09-22T06:55:13Z	
+7.0.0	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-10-09T15:29:59Z	
+6.0.6	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-10-12T08:41:26Z	
+8.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2021-08-23T20:23:00Z	8.0.3
+7.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2021-01-08T12:22:49Z	7.0.4
+7.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2021-07-07T12:35:48Z	7.0.8
+8.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2021-08-24T14:29:40Z	8.0.4
+7.0.1	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-10-19T11:22:26Z	
+5.0.17	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-04-19T07:05:07Z	
+7.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2021-05-06T09:18:54Z	7.0.7
+6.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-10-22T11:49:34Z	
+7.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2021-01-25T15:55:28Z	7.0.5
+5.0.16	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-11-13T07:15:55Z	
+6.0.10	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-05-18T08:15:10Z	
+7.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2020-11-15T09:59:38Z	7.0.2
+8.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2021-07-24T21:38:11Z	8.0.1
+8.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2021-06-25T16:37:03Z	8.0.0
+5.0.15	automatic	org.opendaylight.mdsal	mdsal-dom-api	2020-11-11T17:42:14Z	
+7.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2020-12-19T13:48:09Z	7.0.3
+7.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2021-08-11T14:20:41Z	7.0.9
+7.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2021-02-24T20:19:53Z	7.0.6
+6.0.11	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-08-12T22:32:31Z	
+6.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-01-08T18:01:25Z	
+6.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-03-01T12:26:58Z	
+8.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2021-08-20T10:00:20Z	8.0.2
+8.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2021-09-12T10:06:20Z	8.0.5
+6.0.12	automatic	org.opendaylight.mdsal	mdsal-dom-api	2021-10-19T22:06:13Z	
+8.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2021-10-20T22:34:14Z	8.0.6
+7.0.10	named	org.opendaylight.mdsal	mdsal-dom-api	2021-10-20T12:30:25Z	7.0.10
+8.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2021-10-26T21:01:34Z	8.0.7
+8.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2021-12-24T23:01:02Z	8.0.8
+7.0.11	named	org.opendaylight.mdsal	mdsal-dom-api	2021-12-24T13:01:43Z	7.0.11
+7.0.12	named	org.opendaylight.mdsal	mdsal-dom-api	2022-01-09T08:19:02Z	7.0.12
+8.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2022-01-10T12:04:45Z	8.0.9
+8.0.10	named	org.opendaylight.mdsal	mdsal-dom-api	2022-01-19T09:41:37Z	8.0.10
+7.0.13	named	org.opendaylight.mdsal	mdsal-dom-api	2022-01-19T09:24:38Z	7.0.13
+7.0.14	named	org.opendaylight.mdsal	mdsal-dom-api	2022-01-26T13:15:40Z	7.0.14
+8.0.12	named	org.opendaylight.mdsal	mdsal-dom-api	2022-02-18T09:03:33Z	8.0.12
+8.0.11	named	org.opendaylight.mdsal	mdsal-dom-api	2022-02-14T01:04:15Z	8.0.11
+8.0.13	named	org.opendaylight.mdsal	mdsal-dom-api	2022-03-13T09:37:35Z	8.0.13
+9.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2022-03-25T11:00:30Z	9.0.1
+9.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2022-03-20T12:32:49Z	9.0.0
+9.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2022-04-14T08:13:07Z	9.0.2
+9.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2022-05-11T12:43:01Z	9.0.3
+8.0.14	named	org.opendaylight.mdsal	mdsal-dom-api	2022-05-14T10:11:54Z	8.0.14
+8.0.15	named	org.opendaylight.mdsal	mdsal-dom-api	2022-05-18T19:56:21Z	8.0.15
+9.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2022-05-25T18:54:45Z	9.0.4
+10.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2022-06-27T09:28:31Z	10.0.0
+9.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2022-08-20T14:23:57Z	9.0.5
+10.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2022-08-18T08:44:07Z	10.0.1
+10.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2022-09-14T13:05:57Z	10.0.2
+8.0.16	named	org.opendaylight.mdsal	mdsal-dom-api	2022-10-28T18:23:10Z	8.0.16
+9.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2022-10-28T18:32:09Z	9.0.6
+10.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2022-11-04T20:37:15Z	10.0.3
+11.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2022-11-25T17:21:33Z	11.0.0
+11.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2022-11-28T18:23:58Z	11.0.1
+10.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2022-11-28T19:10:30Z	10.0.4
+9.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2022-11-28T19:12:10Z	9.0.7
+10.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2022-12-03T18:36:27Z	10.0.5
+11.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2022-12-04T16:34:22Z	11.0.2
+11.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2022-12-18T10:49:58Z	11.0.3
+10.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2023-01-01T15:53:42Z	10.0.6
+11.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2023-01-19T18:04:45Z	11.0.4
+11.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2023-02-01T13:35:46Z	11.0.5
+11.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2023-02-05T11:11:58Z	11.0.6
+11.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2023-02-23T10:30:02Z	11.0.7
+9.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2023-03-16T13:14:35Z	9.0.8
+10.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2023-04-11T22:57:14Z	10.0.7
+11.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2023-04-20T15:38:33Z	11.0.9
+11.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2023-04-17T09:35:15Z	11.0.8
+11.0.10	named	org.opendaylight.mdsal	mdsal-dom-api	2023-05-27T11:45:08Z	11.0.10
+10.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2023-05-29T21:12:14Z	10.0.8
+11.0.11	named	org.opendaylight.mdsal	mdsal-dom-api	2023-06-07T15:25:02Z	11.0.11
+12.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2023-06-29T23:01:12Z	12.0.0
+11.0.12	named	org.opendaylight.mdsal	mdsal-dom-api	2023-07-26T15:24:51Z	11.0.12
+12.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2023-08-30T15:18:51Z	12.0.1
+12.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2023-09-17T09:47:20Z	12.0.2
+11.0.13	named	org.opendaylight.mdsal	mdsal-dom-api	2023-10-09T21:51:05Z	11.0.13
+11.0.15	named	org.opendaylight.mdsal	mdsal-dom-api	2023-10-25T00:54:50Z	11.0.15
+11.0.14	named	org.opendaylight.mdsal	mdsal-dom-api	2023-10-23T10:49:50Z	11.0.14
+10.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2023-10-30T14:16:12Z	10.0.9
+12.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2023-10-30T18:28:37Z	12.0.3
+12.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2023-12-28T12:11:49Z	12.0.4
+13.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2024-01-20T13:52:29Z	13.0.0
+13.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2024-03-14T06:23:31Z	13.0.1
+12.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2024-03-19T08:48:08Z	12.0.5
+13.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2024-04-16T10:21:52Z	13.0.2
+11.0.16	named	org.opendaylight.mdsal	mdsal-dom-api	2024-04-24T15:40:55Z	11.0.16
+13.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2024-05-05T04:12:39Z	13.0.3
+13.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2024-06-03T16:21:21Z	13.0.4
+12.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2024-06-03T22:33:11Z	12.0.6
+14.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2024-07-26T08:16:59Z	14.0.0
+14.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2024-07-28T15:16:32Z	14.0.1
+13.0.5	named	org.opendaylight.mdsal	mdsal-dom-api	2024-08-25T16:32:08Z	13.0.5
+13.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2024-08-30T15:51:47Z	13.0.6
+14.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2024-09-02T13:24:13Z	14.0.2
+14.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2024-10-11T13:24:20Z	14.0.3
+12.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2024-10-08T13:47:54Z	12.0.7
+12.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2024-10-18T08:38:42Z	12.0.8
+14.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2024-10-21T07:45:58Z	14.0.4
+13.0.7	named	org.opendaylight.mdsal	mdsal-dom-api	2024-11-11T13:57:41Z	13.0.7
+14.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2024-11-30T08:16:17Z	14.0.6
+14.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2025-01-28T13:46:33Z	14.0.8
+13.0.8	named	org.opendaylight.mdsal	mdsal-dom-api	2025-01-28T19:37:22Z	13.0.8
+14.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2025-02-08T21:07:07Z	14.0.9
+14.0.10	named	org.opendaylight.mdsal	mdsal-dom-api	2025-02-25T21:06:28Z	14.0.10
+14.0.11	named	org.opendaylight.mdsal	mdsal-dom-api	2025-03-08T07:11:50Z	14.0.11
+14.0.12	named	org.opendaylight.mdsal	mdsal-dom-api	2025-04-19T16:16:57Z	14.0.12
+14.0.13	named	org.opendaylight.mdsal	mdsal-dom-api	2025-06-10T16:31:08Z	14.0.13
+13.0.9	named	org.opendaylight.mdsal	mdsal-dom-api	2025-07-13T17:16:35Z	13.0.9
+13.0.10	named	org.opendaylight.mdsal	mdsal-dom-api	2025-07-14T20:07:08Z	13.0.10
+14.0.14	named	org.opendaylight.mdsal	mdsal-dom-api	2025-08-07T23:35:26Z	14.0.14
+14.0.15	named	org.opendaylight.mdsal	mdsal-dom-api	2025-08-13T14:38:26Z	14.0.15
+14.0.16	named	org.opendaylight.mdsal	mdsal-dom-api	2025-09-04T12:32:56Z	14.0.16
+14.0.17	named	org.opendaylight.mdsal	mdsal-dom-api	2025-09-09T22:27:18Z	14.0.17
+15.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2025-09-20T11:00:52Z	15.0.0
+14.0.18	named	org.opendaylight.mdsal	mdsal-dom-api	2025-09-16T17:45:17Z	14.0.18
+15.0.1	named	org.opendaylight.mdsal	mdsal-dom-api	2025-10-15T19:06:05Z	15.0.1
+14.0.19	named	org.opendaylight.mdsal	mdsal-dom-api	2025-10-15T19:28:34Z	14.0.19
+15.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2025-11-02T13:18:10Z	15.0.2
+14.0.20	named	org.opendaylight.mdsal	mdsal-dom-api	2025-12-05T17:45:50Z	14.0.20
+15.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2026-01-15T08:48:17Z	15.0.3
+14.0.21	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-12T01:59:47Z	14.0.21
+15.0.4	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-12T10:12:29Z	15.0.4
+16.0.0	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-12T20:49:56Z	16.0.0
+16.0.2	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-20T12:30:04Z	16.0.2
+15.0.6	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-20T12:31:54Z	15.0.6
+16.0.3	named	org.opendaylight.mdsal	mdsal-dom-api	2026-03-25T17:04:45Z	16.0.3

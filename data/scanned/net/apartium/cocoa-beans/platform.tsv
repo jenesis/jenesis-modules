@@ -1,0 +1,4 @@
+0.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/apartium/cocoa-beans/platform/0.0.38/platform-0.0.38.jar returned status 404
+0.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/apartium/cocoa-beans/platform/0.0.40/platform-0.0.40.jar returned status 404
+0.0.80-t			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/apartium/cocoa-beans/platform/0.0.80-t/platform-0.0.80-t.jar returned status 404
+0.0.81-t			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/apartium/cocoa-beans/platform/0.0.81-t/platform-0.0.81-t.jar returned status 404

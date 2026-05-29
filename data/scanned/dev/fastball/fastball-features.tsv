@@ -1,0 +1,4 @@
+0.4.0		2024-05-11T01:18:01Z	
+0.6.0		2025-01-05T16:58:19Z	
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-features/0.6.1/fastball-features-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-features/0.6.2/fastball-features-0.6.2.jar returned status 404

@@ -1,0 +1,4 @@
+2.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kverify/rule-set-mingwx64/2.0.0-rc-1/rule-set-mingwx64-2.0.0-rc-1.jar returned status 404
+2.0.0a6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kverify/rule-set-mingwx64/2.0.0a6/rule-set-mingwx64-2.0.0a6.jar returned status 404
+2.0.0a7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kverify/rule-set-mingwx64/2.0.0a7/rule-set-mingwx64-2.0.0a7.jar returned status 404
+2.0.0rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kverify/rule-set-mingwx64/2.0.0rc-1/rule-set-mingwx64-2.0.0rc-1.jar returned status 404

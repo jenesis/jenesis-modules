@@ -1,0 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.0/example-1.0.0.jar returned status 404
+1.0.0'example'="1.0.1"			IllegalArgumentException: Illegal character in path at index 41: com/ferhatozcelik/example/1.0.0'example'="1.0.1"/example-1.0.0'example'="1.0.1".jar
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.1/example-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.2/example-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.3/example-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.4/example-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ferhatozcelik/example/1.0.5/example-1.0.5.jar returned status 404

@@ -1,0 +1,11 @@
+10.0.0-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/10.0.0-Beta/zk-bom-10.0.0-Beta.jar returned status 404
+9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.5.0/zk-bom-9.5.0.jar returned status 404
+9.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.5.0.1/zk-bom-9.5.0.1.jar returned status 404
+9.5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.5.0.2/zk-bom-9.5.0.2.jar returned status 404
+9.5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.5.0.3/zk-bom-9.5.0.3.jar returned status 404
+9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0/zk-bom-9.6.0.jar returned status 404
+9.6.0-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0-jakarta/zk-bom-9.6.0-jakarta.jar returned status 404
+9.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0.1/zk-bom-9.6.0.1.jar returned status 404
+9.6.0.1-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0.1-jakarta/zk-bom-9.6.0.1-jakarta.jar returned status 404
+9.6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0.2/zk-bom-9.6.0.2.jar returned status 404
+9.6.0.2-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zkoss/zk/zk-bom/9.6.0.2-jakarta/zk-bom-9.6.0.2-jakarta.jar returned status 404

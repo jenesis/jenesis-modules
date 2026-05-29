@@ -1,0 +1,14 @@
+1.1.0		2023-01-08T07:29:03Z	
+1.2.0		2023-01-08T07:41:22Z	
+1.2.1		2023-01-26T13:00:30Z	
+1.2.2		2023-02-26T10:59:17Z	
+1.2.4		2023-03-24T04:47:59Z	
+1.2.6		2023-04-03T05:38:36Z	
+1.2.7		2023-04-05T14:40:17Z	
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/1.3.0/tcp2ws-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/1.3.1/tcp2ws-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/1.3.2/tcp2ws-1.3.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/2.0.0/tcp2ws-2.0.0.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/2.0.3/tcp2ws-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/2.0.4/tcp2ws-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/tcp2ws/tcp2ws/2.0.5/tcp2ws-2.0.5.jar returned status 404

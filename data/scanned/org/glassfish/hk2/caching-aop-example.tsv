@@ -1,0 +1,10 @@
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/2.6.1/caching-aop-example-2.6.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.0/caching-aop-example-3.0.0.jar returned status 404
+3.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.0-M2/caching-aop-example-3.0.0-M2.jar returned status 404
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.0-RC1/caching-aop-example-3.0.0-RC1.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.1/caching-aop-example-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.2/caching-aop-example-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/3.0.3/caching-aop-example-3.0.3.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/4.0.0/caching-aop-example-4.0.0.jar returned status 404
+4.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/4.0.0-M4/caching-aop-example-4.0.0-M4.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/caching-aop-example/4.0.1/caching-aop-example-4.0.1.jar returned status 404

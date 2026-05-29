@@ -1,0 +1,4 @@
+4.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hswebframework/web/hsweb-concurrent/4.0.19/hsweb-concurrent-4.0.19.jar returned status 404
+4.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hswebframework/web/hsweb-concurrent/4.0.20/hsweb-concurrent-4.0.20.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hswebframework/web/hsweb-concurrent/5.0.0/hsweb-concurrent-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hswebframework/web/hsweb-concurrent/5.0.1/hsweb-concurrent-5.0.1.jar returned status 404

@@ -1,0 +1,5 @@
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-sdk/4.4.0/lite-sdk-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-sdk/4.4.1/lite-sdk-4.4.1.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-sdk/4.5.0/lite-sdk-4.5.0.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-sdk/4.5.1/lite-sdk-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-sdk/4.5.2/lite-sdk-4.5.2.jar returned status 404

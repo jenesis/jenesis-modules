@@ -1,0 +1,50 @@
+5.0.0		2024-01-09T08:28:59Z	
+5.0.1		2024-01-17T18:00:23Z	
+5.0.2		2024-01-22T16:26:02Z	
+5.1.0		2024-01-28T13:40:38Z	
+5.1.1		2024-02-23T18:39:37Z	
+5.1.2		2024-02-26T10:15:07Z	
+5.1.3		2024-03-09T09:14:41Z	
+5.1.4		2024-04-01T10:09:07Z	
+5.2.0		2024-03-04T12:00:16Z	
+5.2.1		2024-03-10T15:36:08Z	
+5.2.2		2024-03-20T12:35:21Z	
+5.2.3		2024-03-25T15:18:07Z	
+5.2.4		2024-04-04T11:45:05Z	
+5.2.5		2024-06-06T02:54:01Z	
+5.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/5.2.6/geb-5.2.6.jar returned status 404
+5.2.6	plugin	2024-06-19T14:17:01Z	
+5.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/5.2.7/geb-5.2.7.jar returned status 404
+5.2.7	plugin	2024-08-13T10:16:52Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.0.0/geb-6.0.0.jar returned status 404
+6.0.0	plugin	2024-08-20T20:09:32Z	
+6.0.0-M1		2024-03-16T14:23:20Z	
+6.0.0-M2		2024-05-18T17:55:43Z	
+6.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.0.0-M3/geb-6.0.0-M3.jar returned status 404
+6.0.0-M3	plugin	2024-06-11T17:44:42Z	
+6.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.0.0-RC1/geb-6.0.0-RC1.jar returned status 404
+6.0.0-RC1	plugin	2024-08-06T09:31:08Z	
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.0.1/geb-6.0.1.jar returned status 404
+6.0.1	plugin	2024-09-06T21:35:19Z	
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.1.0/geb-6.1.0.jar returned status 404
+6.1.0	plugin	2024-11-20T07:48:52Z	
+6.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.1.0-M1/geb-6.1.0-M1.jar returned status 404
+6.1.0-M1	plugin	2024-10-01T01:52:16Z	
+6.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.1.0-M2/geb-6.1.0-M2.jar returned status 404
+6.1.0-M2	plugin	2024-10-17T08:14:55Z	
+6.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.1.0-M3/geb-6.1.0-M3.jar returned status 404
+6.1.0-M3	plugin	2024-11-04T18:16:20Z	
+6.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.1.0-RC1/geb-6.1.0-RC1.jar returned status 404
+6.1.0-RC1	plugin	2024-11-13T05:06:42Z	
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.2.0/geb-6.2.0.jar returned status 404
+6.2.0	plugin	2025-01-06T11:46:57Z	
+6.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.2.0-M1/geb-6.2.0-M1.jar returned status 404
+6.2.0-M1	plugin	2024-12-21T04:12:15Z	
+6.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.2.0-RC1/geb-6.2.0-RC1.jar returned status 404
+6.2.0-RC1	plugin	2025-01-01T21:44:23Z	
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.3.0/geb-6.3.0.jar returned status 404
+6.3.0	plugin	2025-06-22T10:45:42Z	
+6.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.3.0-M1/geb-6.3.0-M1.jar returned status 404
+6.3.0-M1	plugin	2025-04-02T01:10:06Z	
+6.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/geb/6.3.0-RC1/geb-6.3.0-RC1.jar returned status 404
+6.3.0-RC1	plugin	2025-04-28T14:13:37Z	

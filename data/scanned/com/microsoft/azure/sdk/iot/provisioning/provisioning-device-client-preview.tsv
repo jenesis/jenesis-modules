@@ -1,0 +1,3 @@
+${provisioning-device-client-version}			IllegalArgumentException: Illegal character in path at index 77: com/microsoft/azure/sdk/iot/provisioning/provisioning-device-client-preview/${provisioning-device-client-version}/provisioning-device-client-preview-${provisioning-device-client-version}.jar
+1.0.0		2019-11-21T22:26:20Z	
+1.0.1		2019-12-03T04:05:46Z	

@@ -1,0 +1,7 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/1/emergent-1.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/11/emergent-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/12/emergent-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/13/emergent-13.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/2/emergent-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/3/emergent-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/emergent/emergent/4/emergent-4.jar returned status 404

@@ -1,0 +1,2 @@
+23.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vitess/vitess-parent/23.0.0-rc1/vitess-parent-23.0.0-rc1.jar returned status 404
+23.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vitess/vitess-parent/23.0.0-rc2/vitess-parent-23.0.0-rc2.jar returned status 404

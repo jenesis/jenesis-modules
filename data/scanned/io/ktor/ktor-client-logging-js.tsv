@@ -1,0 +1,140 @@
+1.0.1		2018-12-04T17:03:19Z	
+1.1.0		2018-12-24T18:32:10Z	
+1.1.0	kdoc	2018-12-24T18:32:08Z	
+1.1.1		2018-12-26T16:30:46Z	
+1.1.1	kdoc	2018-12-26T16:30:49Z	
+1.1.2		2019-01-24T20:56:00Z	
+1.1.2	kdoc	2019-01-24T20:56:01Z	
+1.1.3		2019-02-21T15:20:08Z	
+1.1.3	kdoc	2019-02-21T14:45:28Z	
+1.1.4		2019-04-15T16:24:10Z	
+1.1.4	kdoc	2019-04-15T16:23:50Z	
+1.2.0		2019-05-14T11:58:11Z	
+1.2.0	kdoc	2019-05-14T11:58:01Z	
+1.2.0-rc		2019-04-30T21:27:21Z	
+1.2.0-rc	kdoc	2019-04-30T21:27:18Z	
+1.2.0-rc2		2019-05-08T21:52:19Z	
+1.2.0-rc2	kdoc	2019-05-08T21:52:12Z	
+1.2.1		2019-05-27T17:17:25Z	
+1.2.1	kdoc	2019-05-27T17:17:21Z	
+1.2.2		2019-06-20T06:10:06Z	
+1.2.2	kdoc	2019-06-20T06:08:24Z	
+1.2.3		2019-08-01T15:57:54Z	
+1.2.3	kdoc	2019-08-01T15:57:37Z	
+1.2.3-rc		2019-07-23T23:40:09Z	
+1.2.3-rc	kdoc	2019-07-23T23:40:05Z	
+1.2.4		2019-09-02T18:21:20Z	
+1.2.4	kdoc	2019-09-02T18:21:53Z	
+1.2.5		2019-10-23T16:34:48Z	
+1.2.5	kdoc	2019-10-23T16:34:57Z	
+1.2.6		2019-11-21T23:47:26Z	
+1.2.6	kdoc	2019-11-21T23:46:32Z	
+1.3.0		2020-01-14T20:20:35Z	
+1.3.0	kdoc	2020-01-14T20:41:47Z	
+1.3.0-rc		2019-12-19T01:56:14Z	
+1.3.0-rc	kdoc	2019-12-19T01:56:22Z	
+1.3.0-rc2		2019-12-28T21:05:49Z	
+1.3.0-rc2	kdoc	2019-12-28T21:06:00Z	
+1.3.1		2020-02-26T12:33:51Z	
+1.3.1	kdoc	2020-02-26T12:57:39Z	
+1.3.2-1.4.0-rc		2020-08-10T11:19:02Z	
+1.4.0		2020-08-18T17:26:45Z	
+1.4.1		2020-09-24T17:02:34Z	
+1.4.2		2020-11-10T08:30:15Z	
+1.4.3		2020-12-01T12:51:59Z	
+1.5.0		2020-12-21T15:21:06Z	
+1.5.1		2021-01-27T19:29:48Z	
+1.5.2		2021-02-25T21:24:13Z	
+1.5.3		2021-04-02T09:18:36Z	
+1.5.4		2021-04-29T18:30:50Z	
+1.6.0		2021-05-27T13:55:58Z	
+1.6.1		2021-06-30T14:33:01Z	
+1.6.2		2021-07-28T19:24:01Z	
+1.6.3		2021-08-25T14:12:54Z	
+1.6.4		2021-09-30T16:04:29Z	
+1.6.5		2021-11-01T21:11:37Z	
+1.6.6		2021-11-26T10:46:15Z	
+1.6.7		2021-12-07T15:21:33Z	
+1.6.8		2022-03-14T14:14:39Z	
+2.0.0		2022-04-08T07:08:23Z	
+2.0.0-beta-1		2021-12-22T12:10:11Z	
+2.0.0-rc-1		2022-04-04T14:06:05Z	
+2.0.1		2022-04-28T12:50:49Z	
+2.0.2		2022-05-27T11:48:11Z	
+2.0.3		2022-06-28T10:16:02Z	
+2.1.0		2022-08-10T18:52:33Z	
+2.1.1		2022-09-06T09:50:48Z	
+2.1.2		2022-09-29T10:56:26Z	
+2.1.3		2022-10-28T09:00:11Z	
+2.2.0		2022-12-07T12:32:06Z	
+2.2.1		2022-12-07T19:43:37Z	
+2.2.2		2023-01-03T10:53:44Z	
+2.2.3		2023-01-31T09:36:14Z	
+2.2.4		2023-02-28T08:49:11Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.0/ktor-client-logging-js-2.3.0.jar returned status 404
+2.3.0	kdoc	2023-04-19T07:04:32Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.1/ktor-client-logging-js-2.3.1.jar returned status 404
+2.3.1	kdoc	2023-05-31T08:50:16Z	
+2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.10/ktor-client-logging-js-2.3.10.jar returned status 404
+2.3.10	kdoc	2024-04-08T06:32:34Z	
+2.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.11/ktor-client-logging-js-2.3.11.jar returned status 404
+2.3.11	kdoc	2024-05-08T06:43:16Z	
+2.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.12/ktor-client-logging-js-2.3.12.jar returned status 404
+2.3.12	kdoc	2024-06-20T10:19:14Z	
+2.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.13/ktor-client-logging-js-2.3.13.jar returned status 404
+2.3.13	kdoc	2024-11-19T12:42:11Z	
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.2/ktor-client-logging-js-2.3.2.jar returned status 404
+2.3.2	kdoc	2023-06-28T08:59:01Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.3/ktor-client-logging-js-2.3.3.jar returned status 404
+2.3.3	kdoc	2023-08-01T12:32:29Z	
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.4/ktor-client-logging-js-2.3.4.jar returned status 404
+2.3.4	kdoc	2023-08-31T12:41:45Z	
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.5/ktor-client-logging-js-2.3.5.jar returned status 404
+2.3.5	kdoc	2023-10-04T13:40:16Z	
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.6/ktor-client-logging-js-2.3.6.jar returned status 404
+2.3.6	kdoc	2023-11-06T16:06:53Z	
+2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.7/ktor-client-logging-js-2.3.7.jar returned status 404
+2.3.7	kdoc	2023-12-07T07:18:54Z	
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.8/ktor-client-logging-js-2.3.8.jar returned status 404
+2.3.8	kdoc	2024-01-31T07:24:49Z	
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/2.3.9/ktor-client-logging-js-2.3.9.jar returned status 404
+2.3.9	kdoc	2024-03-04T07:36:35Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.0/ktor-client-logging-js-3.0.0.jar returned status 404
+3.0.0	kdoc	2024-10-09T09:04:05Z	
+3.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.0-beta-1/ktor-client-logging-js-3.0.0-beta-1.jar returned status 404
+3.0.0-beta-1	kdoc	2023-11-23T13:41:44Z	
+3.0.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.0-beta-2/ktor-client-logging-js-3.0.0-beta-2.jar returned status 404
+3.0.0-beta-2	kdoc	2024-07-15T11:37:57Z	
+3.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.0-rc-1/ktor-client-logging-js-3.0.0-rc-1.jar returned status 404
+3.0.0-rc-1	kdoc	2024-09-09T09:33:32Z	
+3.0.0-rc-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.0-rc-2/ktor-client-logging-js-3.0.0-rc-2.jar returned status 404
+3.0.0-rc-2	kdoc	2024-10-02T17:55:31Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.1/ktor-client-logging-js-3.0.1.jar returned status 404
+3.0.1	kdoc	2024-10-29T13:56:16Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.2/ktor-client-logging-js-3.0.2.jar returned status 404
+3.0.2	kdoc	2024-12-03T15:48:09Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.0.3/ktor-client-logging-js-3.0.3.jar returned status 404
+3.0.3	kdoc	2024-12-18T19:08:38Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.1.0/ktor-client-logging-js-3.1.0.jar returned status 404
+3.1.0	kdoc	2025-02-11T13:04:45Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.1.1/ktor-client-logging-js-3.1.1.jar returned status 404
+3.1.1	kdoc	2025-02-24T11:53:25Z	
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.1.2/ktor-client-logging-js-3.1.2.jar returned status 404
+3.1.2	kdoc	2025-03-27T07:15:13Z	
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.1.3/ktor-client-logging-js-3.1.3.jar returned status 404
+3.1.3	kdoc	2025-05-05T07:25:44Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.2.0/ktor-client-logging-js-3.2.0.jar returned status 404
+3.2.0	kdoc	2025-06-12T12:19:59Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.2.1/ktor-client-logging-js-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.2.2/ktor-client-logging-js-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.2.3/ktor-client-logging-js-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.2.4/ktor-client-logging-js-3.2.4.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.3.0/ktor-client-logging-js-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.3.1/ktor-client-logging-js-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.3.2/ktor-client-logging-js-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.3.3/ktor-client-logging-js-3.3.3.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.4.0/ktor-client-logging-js-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.4.1/ktor-client-logging-js-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.4.2/ktor-client-logging-js-3.4.2.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.4.3/ktor-client-logging-js-3.4.3.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-js/3.5.0/ktor-client-logging-js-3.5.0.jar returned status 404

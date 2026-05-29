@@ -1,0 +1,6 @@
+1.5.0		2023-09-03T18:02:12Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/app-api-js/1.7.0/app-api-js-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/app-api-js/1.7.1/app-api-js-1.7.1.jar returned status 404
+1.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/app-api-js/1.7.8/app-api-js-1.7.8.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/app-api-js/1.8.0/app-api-js-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/casperix/app-api-js/1.8.1/app-api-js-1.8.1.jar returned status 404

@@ -1,0 +1,3 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yeewallex/caas/kyc/kyc-bom/0.0.1/kyc-bom-0.0.1.jar returned status 404
+0.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yeewallex/caas/kyc/kyc-bom/0.0.1.1/kyc-bom-0.0.1.1.jar returned status 404
+0.0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yeewallex/caas/kyc/kyc-bom/0.0.1.3/kyc-bom-0.0.1.3.jar returned status 404

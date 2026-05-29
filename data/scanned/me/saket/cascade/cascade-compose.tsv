@@ -1,0 +1,15 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.0.0/cascade-compose-2.0.0.jar returned status 404
+2.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.0.0-beta1/cascade-compose-2.0.0-beta1.jar returned status 404
+2.0.0-beta1	debug-javadoc	2022-05-04T02:14:27Z	
+2.0.0-beta1	debug-sources	2022-05-04T02:14:29Z	
+2.0.0-beta1	release-javadoc	2022-05-04T02:14:31Z	
+2.0.0-beta1	release-sources	2022-05-04T02:14:26Z	
+2.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.0.0-rc01/cascade-compose-2.0.0-rc01.jar returned status 404
+2.0.0-rc01	debug-javadoc	2023-02-12T02:29:56Z	
+2.0.0-rc01	debug-sources	2023-02-12T02:29:57Z	
+2.0.0-rc01	release-javadoc	2023-02-12T02:29:58Z	
+2.0.0-rc01	release-sources	2023-02-12T02:29:57Z	
+2.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.0.0-rc02/cascade-compose-2.0.0-rc02.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.1.0/cascade-compose-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.2.0/cascade-compose-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/saket/cascade/cascade-compose/2.3.0/cascade-compose-2.3.0.jar returned status 404

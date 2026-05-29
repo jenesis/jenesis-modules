@@ -1,0 +1,5 @@
+202110302			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/emmacanhelp/androidbase/202110302/androidbase-202110302.jar returned status 404
+202110303			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/emmacanhelp/androidbase/202110303/androidbase-202110303.jar returned status 404
+202201070			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/emmacanhelp/androidbase/202201070/androidbase-202201070.jar returned status 404
+202201230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/emmacanhelp/androidbase/202201230/androidbase-202201230.jar returned status 404
+202204050			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/emmacanhelp/androidbase/202204050/androidbase-202204050.jar returned status 404

@@ -1,0 +1,22 @@
+1.0.0		2013-07-18T06:30:22Z	
+1.1.0		2013-07-23T06:00:27Z	
+2.0.0		2013-10-21T19:03:28Z	
+2.1.0		2013-11-21T22:53:24Z	
+2.2.0		2014-02-03T17:38:27Z	
+2.2.1		2014-02-12T05:29:40Z	
+2.2.2		2014-02-12T17:57:20Z	
+2.3.0		2014-05-21T23:09:33Z	
+2.4.0		2014-06-10T17:36:29Z	
+2.4.1		2014-06-19T16:37:29Z	
+2.4.2		2014-11-08T07:37:12Z	
+2.5.0		2014-11-08T22:25:22Z	
+2.5.1		2015-01-20T06:52:01Z	
+2.6.0		2015-02-17T23:36:35Z	
+2.7.0		2015-02-18T01:05:23Z	
+2.7.1		2015-02-18T01:57:55Z	
+3.0.0		2015-04-16T17:13:05Z	
+3.0.1		2015-04-17T15:24:39Z	
+3.0.2		2015-05-01T21:53:18Z	
+3.1.0		2015-05-11T20:12:36Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jakewharton/timber/timber/5.0.0/timber-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jakewharton/timber/timber/5.0.1/timber-5.0.1.jar returned status 404

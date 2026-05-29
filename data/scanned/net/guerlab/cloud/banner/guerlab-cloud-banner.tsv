@@ -1,0 +1,4 @@
+2022.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/banner/guerlab-cloud-banner/2022.0.0/guerlab-cloud-banner-2022.0.0.jar returned status 404
+2022.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/banner/guerlab-cloud-banner/2022.0.1/guerlab-cloud-banner-2022.0.1.jar returned status 404
+21.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/banner/guerlab-cloud-banner/21.11.0/guerlab-cloud-banner-21.11.0.jar returned status 404
+21.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/banner/guerlab-cloud-banner/21.7.2/guerlab-cloud-banner-21.7.2.jar returned status 404

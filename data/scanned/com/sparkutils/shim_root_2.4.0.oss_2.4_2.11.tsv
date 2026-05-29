@@ -1,0 +1,4 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/shim_root_2.4.0.oss_2.4_2.11/0.2.0/shim_root_2.4.0.oss_2.4_2.11-0.2.0.jar returned status 404
+0.2.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/shim_root_2.4.0.oss_2.4_2.11/0.2.0-RC6/shim_root_2.4.0.oss_2.4_2.11-0.2.0-RC6.jar returned status 404
+0.2.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/shim_root_2.4.0.oss_2.4_2.11/0.2.1-RC1/shim_root_2.4.0.oss_2.4_2.11-0.2.1-RC1.jar returned status 404
+0.3.0-baseline			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/shim_root_2.4.0.oss_2.4_2.11/0.3.0-baseline/shim_root_2.4.0.oss_2.4_2.11-0.3.0-baseline.jar returned status 404

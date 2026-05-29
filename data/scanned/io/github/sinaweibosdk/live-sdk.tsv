@@ -1,0 +1,7 @@
+0.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/0.0.1-alpha/live-sdk-0.0.1-alpha.jar returned status 404
+0.0.1-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/0.0.1-release/live-sdk-0.0.1-release.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/0.0.2/live-sdk-0.0.2.jar returned status 404
+0.0.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/0.0.2-alpha/live-sdk-0.0.2-alpha.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/1.0.0/live-sdk-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/1.1.0/live-sdk-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/live-sdk/1.2.0/live-sdk-1.2.0.jar returned status 404

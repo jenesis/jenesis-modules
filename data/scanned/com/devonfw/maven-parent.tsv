@@ -1,0 +1,9 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/1/maven-parent-1.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/14/maven-parent-14.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/2/maven-parent-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/3/maven-parent-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/4/maven-parent-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/5/maven-parent-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/6/maven-parent-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/7/maven-parent-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devonfw/maven-parent/8/maven-parent-8.jar returned status 404

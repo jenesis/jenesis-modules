@@ -1,0 +1,4 @@
+0.0.1-Alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oratakashi/design-wasm-js/0.0.1-Alpha/design-wasm-js-0.0.1-Alpha.jar returned status 404
+0.0.1-Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oratakashi/design-wasm-js/0.0.1-Alpha1/design-wasm-js-0.0.1-Alpha1.jar returned status 404
+0.0.2-Alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oratakashi/design-wasm-js/0.0.2-Alpha/design-wasm-js-0.0.2-Alpha.jar returned status 404
+0.0.3-Alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oratakashi/design-wasm-js/0.0.3-Alpha/design-wasm-js-0.0.3-Alpha.jar returned status 404

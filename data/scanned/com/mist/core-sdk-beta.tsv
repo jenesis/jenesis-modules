@@ -1,0 +1,5 @@
+2.1.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mist/core-sdk-beta/2.1.36/core-sdk-beta-2.1.36.jar returned status 404
+2.1.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mist/core-sdk-beta/2.1.37/core-sdk-beta-2.1.37.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mist/core-sdk-beta/2.2.0/core-sdk-beta-2.2.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mist/core-sdk-beta/3.0.0/core-sdk-beta-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mist/core-sdk-beta/3.0.1/core-sdk-beta-3.0.1.jar returned status 404

@@ -1,0 +1,20 @@
+3.31.5-b2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmake-maven-plugin/cmake-binaries/3.31.5-b2/cmake-binaries-3.31.5-b2.jar returned status 404
+3.31.5-b2	linux-aarch_64	2025-03-04T05:45:18Z	
+3.31.5-b2	linux-x86_64	2025-03-04T05:45:18Z	
+3.31.5-b2	mac-universal	2025-03-04T05:45:19Z	
+3.31.5-b2	windows-x86_64	2025-03-04T05:45:19Z	
+3.31.6-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmake-maven-plugin/cmake-binaries/3.31.6-b1/cmake-binaries-3.31.6-b1.jar returned status 404
+3.31.6-b1	linux-aarch_64	2025-03-10T20:50:47Z	
+3.31.6-b1	linux-x86_64	2025-03-10T20:50:47Z	
+3.31.6-b1	mac-universal	2025-03-10T20:50:47Z	
+3.31.6-b1	windows-x86_64	2025-03-10T20:50:47Z	
+4.0.3-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmake-maven-plugin/cmake-binaries/4.0.3-b1/cmake-binaries-4.0.3-b1.jar returned status 404
+4.0.3-b1	linux-aarch_64	2025-06-18T04:24:50Z	
+4.0.3-b1	linux-x86_64	2025-06-18T04:24:50Z	
+4.0.3-b1	mac-universal	2025-06-18T04:24:50Z	
+4.0.3-b1	windows-x86_64	2025-06-18T04:24:50Z	
+4.2.3-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cmake-maven-plugin/cmake-binaries/4.2.3-b1/cmake-binaries-4.2.3-b1.jar returned status 404
+4.2.3-b1	linux-aarch_64	2026-02-24T13:14:00Z	
+4.2.3-b1	linux-x86_64	2026-02-24T13:14:00Z	
+4.2.3-b1	mac-universal	2026-02-24T13:14:00Z	
+4.2.3-b1	windows-x86_64	2026-02-24T13:14:00Z	

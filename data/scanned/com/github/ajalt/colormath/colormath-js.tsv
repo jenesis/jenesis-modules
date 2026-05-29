@@ -1,0 +1,15 @@
+2.0.0		2020-09-12T18:41:10Z	
+2.1.0		2021-05-05T17:02:53Z	
+3.0.0		2021-09-10T21:36:55Z	
+3.1.0		2021-09-24T20:38:57Z	
+3.1.1		2021-09-28T19:26:23Z	
+3.2.0		2021-12-11T21:33:51Z	
+3.2.1		2022-09-17T19:52:19Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.3.0/colormath-js-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.3.1/colormath-js-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.3.2/colormath-js-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.3.3/colormath-js-3.3.3.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.4.0/colormath-js-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.5.0/colormath-js-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.6.0/colormath-js-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ajalt/colormath/colormath-js/3.6.1/colormath-js-3.6.1.jar returned status 404

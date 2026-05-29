@@ -1,0 +1,3 @@
+1.3.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/sesame-compose-form/1.3.0-beta1/sesame-compose-form-1.3.0-beta1.jar returned status 404
+1.4.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/sesame-compose-form/1.4.0-beta1/sesame-compose-form-1.4.0-beta1.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/sesame-compose-form/1.5.0/sesame-compose-form-1.5.0.jar returned status 404

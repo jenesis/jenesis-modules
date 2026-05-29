@@ -1,0 +1,12 @@
+jdk-11+26	automatic	org.testfx	openjfx-monocle	2018-10-04T19:44:15Z	
+jdk-9+181.1	automatic	org.testfx	openjfx-monocle	2018-10-08T21:58:25Z	
+jdk-12.0.1+2	automatic	org.testfx	openjfx-monocle	2019-05-11T19:30:57Z	
+jdk-21-internal-test2	automatic	one.jpro	openjfx-monocle	2023-10-05T20:48:42Z	
+jfk-21	automatic	one.jpro	openjfx-monocle	2023-10-05T20:51:24Z	
+jfx-21	automatic	one.jpro	openjfx-monocle	2023-10-09T07:32:58Z	
+jdk-8.0.372	automatic	org.testfx	openjfx-monocle	2024-02-11T00:34:50Z	
+11.0.2	automatic	org.testfx	openjfx-monocle	2024-02-11T01:52:08Z	
+17.0.10	automatic	org.testfx	openjfx-monocle	2024-02-11T04:24:03Z	
+21.0.2	automatic	org.testfx	openjfx-monocle	2024-02-11T18:05:01Z	
+21.0.2-jpms	named	one.jpro.platform.jpms	openjfx-monocle	2024-10-28T16:16:59Z	21.0.2
+17.0.10-jpms	named	one.jpro.platform.jpms	openjfx-monocle	2024-10-28T16:16:58Z	17.0.10

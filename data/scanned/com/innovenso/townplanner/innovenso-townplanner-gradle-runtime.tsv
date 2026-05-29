@@ -1,0 +1,14 @@
+1.0.0		2021-11-18T10:59:17Z	
+1.1.0		2021-11-22T11:31:33Z	
+1.1.1		2021-11-22T12:25:19Z	
+1.2.0		2021-11-23T11:51:59Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/innovenso/townplanner/innovenso-townplanner-gradle-runtime/2.0.0/innovenso-townplanner-gradle-runtime-2.0.0.jar returned status 404
+2.0.0	plain	2021-11-24T18:34:20Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/innovenso/townplanner/innovenso-townplanner-gradle-runtime/2.1.0/innovenso-townplanner-gradle-runtime-2.1.0.jar returned status 404
+2.1.0	plain	2021-11-25T09:13:39Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/innovenso/townplanner/innovenso-townplanner-gradle-runtime/3.0.0/innovenso-townplanner-gradle-runtime-3.0.0.jar returned status 404
+3.0.0	plain	2021-11-26T11:24:14Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/innovenso/townplanner/innovenso-townplanner-gradle-runtime/3.1.0/innovenso-townplanner-gradle-runtime-3.1.0.jar returned status 404
+3.1.0	plain	2022-02-01T12:25:31Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/innovenso/townplanner/innovenso-townplanner-gradle-runtime/3.1.1/innovenso-townplanner-gradle-runtime-3.1.1.jar returned status 404
+3.1.1	plain	2022-02-01T12:32:28Z	

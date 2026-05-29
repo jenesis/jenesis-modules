@@ -1,0 +1,4 @@
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-network-api/8.0.0/analytics-network-api-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-network-api/8.0.1/analytics-network-api-8.0.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-network-api/8.1.0/analytics-network-api-8.1.0.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-network-api/8.2.0/analytics-network-api-8.2.0.jar returned status 404
