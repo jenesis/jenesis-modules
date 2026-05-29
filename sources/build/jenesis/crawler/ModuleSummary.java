@@ -15,8 +15,10 @@ import build.jenesis.crawler.model.Version;
  * every invocation; previous content is overwritten.
  *
  * Inputs are configurable via system properties:
+ * <pre>{@code
  *   jenesis.crawler.data        Crawler data directory (default: "data")
  *   jenesis.summary.output      Output file path (default: "<data>/SUMMARY.md")
+ * }</pre>
  */
 public final class ModuleSummary {
 
