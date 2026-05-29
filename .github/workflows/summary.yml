@@ -37,6 +37,14 @@ jobs:
       - name: Build staged jar
         run: java build/jenesis/Project.java stage
 
+      - name: Regenerate bleeding edge report
+        run: |
+          set -euo pipefail
+          jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
+          java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
+               -Djenesis.crawler.top.bleeding=true \
+               -cp "$jar" build.jenesis.crawler.TopModules data/top/*.txt
+
       - name: Regenerate SUMMARY.md
         run: |
           set -euo pipefail
@@ -44,12 +52,12 @@ jobs:
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                -cp "$jar" build.jenesis.crawler.ModuleSummary
 
-      - name: Commit and push if SUMMARY.md changed
+      - name: Commit and push if SUMMARY.md or bleeding.md changed
         run: |
           set -euo pipefail
-          git add data/SUMMARY.md
+          git add data/SUMMARY.md data/top/bleeding.md
           if git diff --cached --quiet; then
-            echo "SUMMARY.md unchanged; nothing to commit."
+            echo "SUMMARY.md and bleeding.md unchanged; nothing to commit."
             exit 0
           fi
           stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"

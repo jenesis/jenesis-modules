@@ -184,15 +184,23 @@ public final class TopModules {
 
         if (booleanProperty(PROP_BLEEDING)) {
             // Bleeding edge: take the most recent list we have, but don't crop the data to that
-            // year - assess those artifacts against the current state (cutoff = now), so the table
-            // reflects their latest versions and recent activity rather than a frozen year end.
+            // year - assess those artifacts against the current state (cutoff = the index
+            // timestamp), so the table reflects their latest versions and recent activity rather
+            // than a frozen year end.
             Path latestFile = topFiles.stream().max(Comparator.comparingInt(years::get)).orElseThrow();
             int listYear = years.get(latestFile);
-            Instant now = Instant.now();
+            // Anchor every window to the crawler's index timestamp (the date of the last index),
+            // not the wall clock, so the report depends only on the data it was built from and
+            // re-renders byte-for-byte until the index moves. Fall back to now only when there is
+            // no recorded state (e.g. tests with no state.properties).
+            State state = State.load(dataDir.resolve("state.properties"));
+            Instant now = state.indexTimestamp() > 0L
+                    ? Instant.ofEpochMilli(state.indexTimestamp())
+                    : Instant.now();
             int windowYear = now.atZone(ZoneOffset.UTC).getYear();
-            // Rolling windows, not calendar boundaries: the current calendar year may be only weeks
-            // old, which would wrongly mark almost everything stale. "Maintained" = released in the
-            // last 12 months; deserted = no release in the last 36 months.
+            // Rolling windows, not calendar boundaries: the index year may be only weeks old, which
+            // would wrongly mark almost everything stale. "Maintained" = released in the last 12
+            // months; deserted = no release in the last 36 months, both relative to the anchor.
             long yearStart = now.atZone(ZoneOffset.UTC).minusMonths(12).toInstant().toEpochMilli();
             long threeYearStart = now.atZone(ZoneOffset.UTC).minusMonths(36).toInstant().toEpochMilli();
             long cutoff = now.toEpochMilli();
@@ -705,8 +713,9 @@ public final class TopModules {
         System.out.println("        Data directory holding modules/ and scanned/ (default 'data').");
         System.out.println("  -D" + PROP_BLEEDING + "=true");
         System.out.println("        Bleeding-edge mode: take the latest input list and assess it against current");
-        System.out.println("        data (cutoff = now, nothing cropped to a year end), writing a single");
-        System.out.println("        'bleeding.md' beside it. Windows (year, three-year, maintained) are relative");
-        System.out.println("        to the current year.");
+        System.out.println("        data (cutoff = the crawler's index timestamp, nothing cropped to a year end),");
+        System.out.println("        writing a single 'bleeding.md' beside it. Windows (year, three-year,");
+        System.out.println("        maintained) are relative to that index timestamp, so the report re-renders");
+        System.out.println("        identically until the index advances.");
     }
 }
