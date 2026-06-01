@@ -2,6 +2,9 @@
 
 ![build](https://github.com/raphw/jenesis-modules/actions/workflows/build.yml/badge.svg)
 ![crawl](https://github.com/raphw/jenesis-modules/actions/workflows/crawl.yml/badge.svg)
+![last crawl](https://img.shields.io/github/last-commit/raphw/jenesis-modules?path=data%2FSTATUS.md&display_timestamp=committer&label=last%20crawl)
+
+See [`data/STATUS.md`](data/STATUS.md) for the live crawl progress. Note that the Maven Central index lags behind published artifacts by up to one week, so the most recent releases may not appear immediately.
 
 > ### Powered by [Jenesis](https://github.com/raphw/jenesis)
 > _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
