@@ -1,3 +1,4 @@
+v1-rev20260521-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20260319-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20260222-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
@@ -73,6 +74,7 @@ v1-rev20211107-1.32.1	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20211021-1.32.1	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20211014-1.32.1	automatic	com.google.apis	google-api-services-vmmigration
 v1-rev20211001-1.32.1	automatic	com.google.apis	google-api-services-vmmigration
+v1alpha1-rev20260521-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1alpha1-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1alpha1-rev20260319-2.0.0	automatic	com.google.apis	google-api-services-vmmigration
 v1alpha1-rev20260222-2.0.0	automatic	com.google.apis	google-api-services-vmmigration

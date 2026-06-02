@@ -1,3 +1,4 @@
+v1-rev20260520-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1-rev20260326-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1-rev20260226-2.0.0	automatic	com.google.apis	google-api-services-alloydb
@@ -131,6 +132,7 @@ v1beta-rev20231011-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1beta-rev20231006-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1beta-rev20230918-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1beta-rev20230821-2.0.0	automatic	com.google.apis	google-api-services-alloydb
+v1alpha-rev20260520-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1alpha-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1alpha-rev20260326-2.0.0	automatic	com.google.apis	google-api-services-alloydb
 v1alpha-rev20260226-2.0.0	automatic	com.google.apis	google-api-services-alloydb

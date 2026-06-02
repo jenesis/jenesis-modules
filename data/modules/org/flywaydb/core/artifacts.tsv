@@ -1,3 +1,5 @@
+12.7.0	automatic	org.flywaydb	flyway-command-test-connection
+12.6.2	automatic	org.flywaydb	flyway-locations-s3
 12.6.1	automatic	org.flywaydb	flyway-command-test-connection
 12.6.0	automatic	org.flywaydb	flyway-locations-s3
 12.5.0	automatic	org.flywaydb	flyway-command-test-connection

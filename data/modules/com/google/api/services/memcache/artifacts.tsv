@@ -1,3 +1,4 @@
+v1-rev20260517-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1-rev20260205-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1-rev20260129-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1-rev20260115-2.0.0	automatic	com.google.apis	google-api-services-memcache
@@ -42,6 +43,7 @@ v1-rev20210121-1.31.0	automatic	com.google.apis	google-api-services-memcache
 v1-rev20200817-1.30.10	automatic	com.google.apis	google-api-services-memcache
 v1-rev20200729-1.30.10	automatic	com.google.apis	google-api-services-memcache
 v1-rev20200721-1.30.10	automatic	com.google.apis	google-api-services-memcache
+v1beta2-rev20260517-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1beta2-rev20260205-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1beta2-rev20260129-2.0.0	automatic	com.google.apis	google-api-services-memcache
 v1beta2-rev20260115-2.0.0	automatic	com.google.apis	google-api-services-memcache
