@@ -1,3 +1,4 @@
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-java-sdk/0.10.0/acp-java-sdk-0.10.0.jar returned status 404
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-java-sdk/0.11.0/acp-java-sdk-0.11.0.jar returned status 404
+0.12.0		2026-05-26T01:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-java-sdk/0.12.0/acp-java-sdk-0.12.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-java-sdk/0.9.0/acp-java-sdk-0.9.0.jar returned status 404

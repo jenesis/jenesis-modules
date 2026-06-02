@@ -2,3 +2,5 @@
 0.1.0	metadata	2026-05-09T10:40:22Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/airsaid/toolkit-iosarm64/0.2.0/toolkit-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-05-15T07:37:08Z	
+0.3.0		2026-05-28T02:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/airsaid/toolkit-iosarm64/0.3.0/toolkit-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-05-28T02:33:07Z	

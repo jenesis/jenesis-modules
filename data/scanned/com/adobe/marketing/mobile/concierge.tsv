@@ -8,3 +8,5 @@
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/concierge/3.3.1/concierge-3.3.1.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/concierge/3.4.0/concierge-3.4.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/concierge/3.5.0/concierge-3.5.0.jar returned status 404
+3.6.0		2026-05-21T19:09:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/concierge/3.6.0/concierge-3.6.0.jar returned status 404
+3.7.0		2026-05-29T17:45:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/concierge/3.7.0/concierge-3.7.0.jar returned status 404

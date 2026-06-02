@@ -1725,3 +1725,6 @@
 7.7.5	named	com.newrelic.agent.android	agent-gradle-plugin	2026-05-21T17:48:52Z	
 1.55.0	named	com.google.genai	google-genai	2026-05-22T01:17:02Z	
 1.56.0	named	com.google.genai	google-genai	2026-05-28T23:07:46Z	
+1.1.0	named	com.airbnb.viaduct.javaapi	codegen	2026-05-29T18:35:39Z	
+1.1.0	named	com.airbnb.viaduct	buildtime	2026-05-29T18:35:43Z	
+1.1.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-05-29T18:35:43Z	

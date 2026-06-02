@@ -5335,3 +5335,7 @@ com.aoapps.badges
 com.amazon.redshift.jdbc
 org.bouncycastle.pkix
 org.apache.commons.compress
+kotlinx.coroutines.test
+kotlinx.coroutines.core
+org.eclipse.jetty.alpn.conscrypt.server
+org.commonmark.ext.front.matter
