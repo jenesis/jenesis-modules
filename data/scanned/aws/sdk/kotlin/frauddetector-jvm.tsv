@@ -723,5 +723,19 @@
 1.6.77	optimized	2026-05-19T18:53:48Z	
 1.6.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/frauddetector-jvm/1.6.78/frauddetector-jvm-1.6.78.jar returned status 404
 1.6.78	optimized		IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/frauddetector-jvm/1.6.78/frauddetector-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:52:19Z	
+1.6.79	optimized	2026-05-21T20:52:21Z	
 1.6.8		2026-02-02T19:38:05Z	
+1.6.80		2026-05-22T18:46:47Z	
+1.6.80	optimized	2026-05-22T18:47:03Z	
+1.6.81		2026-05-26T19:02:30Z	
+1.6.81	optimized	2026-05-26T19:02:24Z	
+1.6.82		2026-05-27T18:50:00Z	
+1.6.82	optimized	2026-05-27T18:49:46Z	
+1.6.83		2026-05-28T18:55:38Z	
+1.6.83	optimized	2026-05-28T18:55:20Z	
+1.6.84		2026-05-29T18:51:35Z	
+1.6.84	optimized	2026-05-29T18:51:39Z	
+1.6.85		2026-06-01T18:45:39Z	
+1.6.85	optimized	2026-06-01T18:45:37Z	
 1.6.9		2026-02-03T19:46:50Z	

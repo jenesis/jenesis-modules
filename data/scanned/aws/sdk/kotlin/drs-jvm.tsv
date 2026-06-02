@@ -723,5 +723,19 @@
 1.6.77	optimized	2026-05-19T18:53:02Z	
 1.6.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/drs-jvm/1.6.78/drs-jvm-1.6.78.jar returned status 404
 1.6.78	optimized		IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/drs-jvm/1.6.78/drs-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:52:06Z	
+1.6.79	optimized	2026-05-21T20:51:39Z	
 1.6.8		2026-02-02T19:38:14Z	
+1.6.80		2026-05-22T18:47:35Z	
+1.6.80	optimized	2026-05-22T18:47:14Z	
+1.6.81		2026-05-26T19:02:12Z	
+1.6.81	optimized	2026-05-26T19:02:44Z	
+1.6.82		2026-05-27T18:49:44Z	
+1.6.82	optimized	2026-05-27T18:50:18Z	
+1.6.83		2026-05-28T18:55:23Z	
+1.6.83	optimized	2026-05-28T18:55:31Z	
+1.6.84		2026-05-29T18:51:45Z	
+1.6.84	optimized	2026-05-29T18:50:40Z	
+1.6.85		2026-06-01T18:45:47Z	
+1.6.85	optimized	2026-06-01T18:46:01Z	
 1.6.9		2026-02-03T19:47:10Z	

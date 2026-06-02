@@ -416,5 +416,19 @@
 1.6.77-beta	optimized	2026-05-19T18:53:35Z	
 1.6.78-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dynamodb-mapper-jvm/1.6.78-beta/dynamodb-mapper-jvm-1.6.78-beta.jar returned status 404
 1.6.78-beta	optimized		IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dynamodb-mapper-jvm/1.6.78-beta/dynamodb-mapper-jvm-1.6.78-beta-optimized.jar returned status 404
+1.6.79-beta		2026-05-21T20:52:06Z	
+1.6.79-beta	optimized	2026-05-21T20:52:03Z	
 1.6.8-beta		2026-02-02T19:37:45Z	
+1.6.80-beta		2026-05-22T18:46:50Z	
+1.6.80-beta	optimized	2026-05-22T18:47:18Z	
+1.6.81-beta		2026-05-26T19:01:48Z	
+1.6.81-beta	optimized	2026-05-26T19:02:16Z	
+1.6.82-beta		2026-05-27T18:50:10Z	
+1.6.82-beta	optimized	2026-05-27T18:49:09Z	
+1.6.83-beta		2026-05-28T18:55:44Z	
+1.6.83-beta	optimized	2026-05-28T18:55:36Z	
+1.6.84-beta		2026-05-29T18:51:11Z	
+1.6.84-beta	optimized	2026-05-29T18:51:20Z	
+1.6.85-beta		2026-06-01T18:46:00Z	
+1.6.85-beta	optimized	2026-06-01T18:45:57Z	
 1.6.9-beta		2026-02-03T19:47:06Z	

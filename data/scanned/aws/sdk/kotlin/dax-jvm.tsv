@@ -724,4 +724,9 @@
 1.6.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dax-jvm/1.6.78/dax-jvm-1.6.78.jar returned status 404
 1.6.78	optimized		IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dax-jvm/1.6.78/dax-jvm-1.6.78-optimized.jar returned status 404
 1.6.8		2026-02-02T19:37:52Z	
+1.6.83		2026-05-28T18:55:28Z	
+1.6.84		2026-05-29T18:51:22Z	
+1.6.84	optimized	2026-05-29T18:51:46Z	
+1.6.85		2026-06-01T18:46:21Z	
+1.6.85	optimized	2026-06-01T18:46:10Z	
 1.6.9		2026-02-03T19:47:16Z	
