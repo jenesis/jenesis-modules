@@ -31,3 +31,6 @@
 0.28.0-beta.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.28.0-beta.9/lancedb-parent-0.28.0-beta.9.jar returned status 404
 0.29.0-final.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.29.0-final.0/lancedb-parent-0.29.0-final.0.jar returned status 404
 0.29.1-beta.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.29.1-beta.0/lancedb-parent-0.29.1-beta.0.jar returned status 404
+0.30.0-beta.0		2026-05-21T21:37:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.30.0-beta.0/lancedb-parent-0.30.0-beta.0.jar returned status 404
+0.30.0-beta.1		2026-05-22T10:09:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.30.0-beta.1/lancedb-parent-0.30.0-beta.1.jar returned status 404
+0.30.0-final.0		2026-05-28T19:04:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lancedb/lancedb-parent/0.30.0-final.0/lancedb-parent-0.30.0-final.0.jar returned status 404

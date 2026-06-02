@@ -5099,6 +5099,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.695.32	named	com.yahoo.vespa	config-application-package	2026-05-28T02:06:22Z	2.21
 1.0	named	nl.multicode.elevenproof	application	2026-05-28T13:10:08Z	2.18.2
 6.3.0	named	com.messagebird	messagebird-api	2026-05-28T16:01:46Z	2.13.2
+6.5.4	named	com.intuit.quickbooks-online	oauth2-platform-api	2026-05-28T16:49:14Z	2.18.3
+6.5.4	named	com.intuit.quickbooks-online	payments-api	2026-05-28T16:49:14Z	2.18.3
 8.696.20	named	com.yahoo.vespa	config-application-package	2026-05-28T17:40:37Z	2.21
 1.1	named	nl.multicode.elevenproof	application	2026-05-28T22:38:31Z	2.18.2
 1.1.0	named	nl.multicode.elevenproof	application	2026-05-28T23:46:46Z	2.18.2
