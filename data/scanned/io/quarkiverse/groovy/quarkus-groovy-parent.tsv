@@ -63,3 +63,4 @@
 3.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/groovy/quarkus-groovy-parent/3.35.1/quarkus-groovy-parent-3.35.1.jar returned status 404
 3.35.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/groovy/quarkus-groovy-parent/3.35.2/quarkus-groovy-parent-3.35.2.jar returned status 404
 3.35.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/groovy/quarkus-groovy-parent/3.35.3/quarkus-groovy-parent-3.35.3.jar returned status 404
+3.36.0		2026-05-20T17:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/groovy/quarkus-groovy-parent/3.36.0/quarkus-groovy-parent-3.36.0.jar returned status 404

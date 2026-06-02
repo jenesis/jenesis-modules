@@ -30,5 +30,7 @@
 2.47.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/2.47.1/card-2.47.1.jar returned status 404
 2.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/2.48.0/card-2.48.0.jar returned status 404
 2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/2.49.0/card-2.49.0.jar returned status 404
+2.50.0		2026-05-18T15:25:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/2.50.0/card-2.50.0.jar returned status 404
+2.50.1		2026-05-20T12:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/2.50.1/card-2.50.1.jar returned status 404
 3.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/3.0.0-beta.1/card-3.0.0-beta.1.jar returned status 404
 3.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/card/3.0.0-beta.2/card-3.0.0-beta.2.jar returned status 404

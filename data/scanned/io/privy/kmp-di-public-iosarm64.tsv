@@ -28,6 +28,8 @@
 0.10.0	metadata	2026-03-30T18:32:33Z	
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-di-public-iosarm64/0.11.0/kmp-di-public-iosarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-04-16T19:34:55Z	
+0.12.0		2026-05-20T20:36:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-di-public-iosarm64/0.12.0/kmp-di-public-iosarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-05-20T20:36:45Z	
 0.12.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-di-public-iosarm64/0.12.0-beta.1/kmp-di-public-iosarm64-0.12.0-beta.1.jar returned status 404
 0.12.0-beta.1	metadata	2026-05-13T23:28:55Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-di-public-iosarm64/0.2.0/kmp-di-public-iosarm64-0.2.0.jar returned status 404

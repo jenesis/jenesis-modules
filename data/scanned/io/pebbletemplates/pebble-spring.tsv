@@ -1,3 +1,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/pebbletemplates/pebble-spring/4.0.0/pebble-spring-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/pebbletemplates/pebble-spring/4.1.0/pebble-spring-4.1.0.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/pebbletemplates/pebble-spring/4.1.1/pebble-spring-4.1.1.jar returned status 404
+4.1.2		2026-05-29T17:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/pebbletemplates/pebble-spring/4.1.2/pebble-spring-4.1.2.jar returned status 404

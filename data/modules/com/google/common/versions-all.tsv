@@ -209,3 +209,4 @@ cf08dc5.dirty	named	dev.vortex	vortex-jni	2025-04-17T14:41:39Z	33.4.8-jre
 4.12.7.0	named	org.foundationdb	fdb-record-layer-core	2026-05-28T21:12:36Z	33.4.8-jre
 4.12.7.0	named	org.foundationdb	fdb-relational-server	2026-05-28T21:12:36Z	33.4.8-jre
 4.12.7.0	named	org.foundationdb	fdb-relational-cli	2026-05-28T21:12:37Z	33.4.8-jre
+5.0.3	named	io.orkes.conductor	orkes-conductor-client	2026-05-30T15:54:04Z	33.6.0-jre

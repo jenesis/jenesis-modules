@@ -30,5 +30,7 @@
 2.47.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/2.47.1/configuration-2.47.1.jar returned status 404
 2.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/2.48.0/configuration-2.48.0.jar returned status 404
 2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/2.49.0/configuration-2.49.0.jar returned status 404
+2.50.0		2026-05-18T15:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/2.50.0/configuration-2.50.0.jar returned status 404
+2.50.1		2026-05-20T12:20:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/2.50.1/configuration-2.50.1.jar returned status 404
 3.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/3.0.0-beta.1/configuration-3.0.0-beta.1.jar returned status 404
 3.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/configuration/3.0.0-beta.2/configuration-3.0.0-beta.2.jar returned status 404

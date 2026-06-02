@@ -22,3 +22,4 @@
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/neo4j/quarkus-neo4j-parent/6.5.0/quarkus-neo4j-parent-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/neo4j/quarkus-neo4j-parent/6.5.1/quarkus-neo4j-parent-6.5.1.jar returned status 404
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/neo4j/quarkus-neo4j-parent/6.6.0/quarkus-neo4j-parent-6.6.0.jar returned status 404
+6.6.1		2026-05-18T08:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/neo4j/quarkus-neo4j-parent/6.6.1/quarkus-neo4j-parent-6.6.1.jar returned status 404

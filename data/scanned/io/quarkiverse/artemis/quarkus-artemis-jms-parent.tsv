@@ -14,6 +14,7 @@
 3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.14.0/quarkus-artemis-jms-parent-3.14.0.jar returned status 404
 3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.14.1/quarkus-artemis-jms-parent-3.14.1.jar returned status 404
 3.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.14.2/quarkus-artemis-jms-parent-3.14.2.jar returned status 404
+3.14.3		2026-05-27T15:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.14.3/quarkus-artemis-jms-parent-3.14.3.jar returned status 404
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.2.5/quarkus-artemis-jms-parent-3.2.5.jar returned status 404
 3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.2.6/quarkus-artemis-jms-parent-3.2.6.jar returned status 404
 3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/artemis/quarkus-artemis-jms-parent/3.2.7/quarkus-artemis-jms-parent-3.2.7.jar returned status 404
