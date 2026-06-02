@@ -2,3 +2,4 @@
 5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-tmrap-aar/5.5.1/ontopia-tmrap-aar-5.5.1.jar returned status 404
 5.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-tmrap-aar/5.5.2/ontopia-tmrap-aar-5.5.2.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-tmrap-aar/5.6.0/ontopia-tmrap-aar-5.6.0.jar returned status 404
+5.7.0		2026-05-20T14:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-tmrap-aar/5.7.0/ontopia-tmrap-aar-5.7.0.jar returned status 404

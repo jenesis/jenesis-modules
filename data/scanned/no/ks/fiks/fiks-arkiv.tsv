@@ -6,3 +6,5 @@
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/fiks-arkiv/1.0.22/fiks-arkiv-1.0.22.jar returned status 404
 1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/fiks-arkiv/1.0.23/fiks-arkiv-1.0.23.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/fiks-arkiv/2.0.0/fiks-arkiv-2.0.0.jar returned status 404
+2.1.0		2026-05-19T10:00:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/fiks-arkiv/2.1.0/fiks-arkiv-2.1.0.jar returned status 404
+2.1.1		2026-05-22T15:21:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/fiks-arkiv/2.1.1/fiks-arkiv-2.1.1.jar returned status 404

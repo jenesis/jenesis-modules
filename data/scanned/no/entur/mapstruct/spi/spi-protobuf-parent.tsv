@@ -4,3 +4,7 @@
 1.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.51.0/spi-protobuf-parent-1.51.0.jar returned status 404
 1.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.52.0/spi-protobuf-parent-1.52.0.jar returned status 404
 1.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.53.0/spi-protobuf-parent-1.53.0.jar returned status 404
+1.54.0		2026-05-19T12:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.54.0/spi-protobuf-parent-1.54.0.jar returned status 404
+1.55.0		2026-05-28T15:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.55.0/spi-protobuf-parent-1.55.0.jar returned status 404
+1.56.0		2026-05-29T10:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.56.0/spi-protobuf-parent-1.56.0.jar returned status 404
+1.57.0		2026-05-29T19:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/mapstruct/spi/spi-protobuf-parent/1.57.0/spi-protobuf-parent-1.57.0.jar returned status 404

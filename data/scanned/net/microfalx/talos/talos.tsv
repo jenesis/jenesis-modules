@@ -1,0 +1,2 @@
+1.0.2		2026-05-20T23:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/talos/talos/1.0.2/talos-1.0.2.jar returned status 404
+1.0.3		2026-05-26T13:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/talos/talos/1.0.3/talos-1.0.3.jar returned status 404

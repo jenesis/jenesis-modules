@@ -1,2 +1,6 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/openproduct/3.0.0/openproduct-3.0.0.jar returned status 404
 3.0.0	plain	2026-01-09T13:24:44Z	
+3.0.1		2026-05-26T08:42:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/openproduct/3.0.1/openproduct-3.0.1.jar returned status 404
+3.0.1	plain	2026-05-26T08:42:39Z	
+3.0.2		2026-05-27T13:56:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/openproduct/3.0.2/openproduct-3.0.2.jar returned status 404
+3.0.2	plain	2026-05-27T13:56:52Z	

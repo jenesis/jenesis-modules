@@ -1,0 +1,2 @@
+0.1.0-alpha.1		2026-05-26T15:13:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/0.1.0-alpha.1/adsdk-0.1.0-alpha.1.jar returned status 404
+0.1.0-alpha.2		2026-05-27T07:29:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/0.1.0-alpha.2/adsdk-0.1.0-alpha.2.jar returned status 404

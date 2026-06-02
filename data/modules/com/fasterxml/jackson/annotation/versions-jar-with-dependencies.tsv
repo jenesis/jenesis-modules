@@ -5091,4 +5091,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 0.24.8	named	top.bella	openai-service	2026-05-21T04:13:30Z	2.14.2
 0.24.9	named	top.bella	openai-service	2026-05-21T06:41:52Z	2.14.2
 6.3.3	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-05-24T18:35:47Z	2.21
+1.0	named	nl.multicode.elevenproof	application	2026-05-28T13:10:08Z	2.18.2
+1.1	named	nl.multicode.elevenproof	application	2026-05-28T22:38:31Z	2.18.2
+1.1.0	named	nl.multicode.elevenproof	application	2026-05-28T23:46:46Z	2.18.2
 2.1.22	named	org.chenile	workflow-utils	2026-05-29T07:33:57Z	2.21

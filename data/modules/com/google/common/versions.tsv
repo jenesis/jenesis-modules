@@ -876,6 +876,8 @@
 1.28.0	named	org.apache.calcite.avatica	avatica-tck	2026-05-07T23:04:12Z	33.4.8-jre
 6.0.10	named	io.digiexpress	thena-sql-client-annot-proc	2026-05-08T10:02:49Z	33.5.0-jre
 1.5.0.19rc5	named	io.acryl	datahub-protobuf	2026-05-08T15:21:38Z	33.6.0-jre
+1.2026.3	named	net.sourceforge.plantuml	plantuml	2026-05-08T16:22:23Z	33.6.0-jre
+1.2026.3	named	net.sourceforge.plantuml	plantuml-epl	2026-05-08T16:22:24Z	33.6.0-jre
 1.5.0.19rc6	named	io.acryl	datahub-protobuf	2026-05-08T19:54:12Z	33.6.0-jre
 1.5.0.19	named	io.acryl	datahub-protobuf	2026-05-08T23:49:54Z	33.6.0-jre
 6.0.11	named	io.digiexpress	thena-sql-client-annot-proc	2026-05-12T08:16:11Z	33.5.0-jre
@@ -892,8 +894,12 @@
 6.0.15	named	io.digiexpress	thena-sql-client-annot-proc	2026-05-18T14:30:28Z	33.5.0-jre
 6.0.16	named	io.digiexpress	thena-sql-client-annot-proc	2026-05-18T18:25:45Z	33.5.0-jre
 1.5.0.20.dev2	named	io.acryl	datahub-protobuf	2026-05-18T19:42:45Z	33.6.0-jre
+1.2026.4	named	net.sourceforge.plantuml	plantuml	2026-05-20T20:35:31Z	33.6.0-jre
+1.2026.4	named	net.sourceforge.plantuml	plantuml-epl	2026-05-20T20:35:31Z	33.6.0-jre
 4.12.3.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-20T21:02:21Z	33.4.8-jre
 4.12.4.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-22T21:15:19Z	33.4.8-jre
 4.12.5.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-26T18:30:01Z	33.4.8-jre
+1.2026.5	named	net.sourceforge.plantuml	plantuml	2026-05-27T17:51:52Z	33.6.0-jre
+1.2026.5	named	net.sourceforge.plantuml	plantuml-epl	2026-05-27T17:51:52Z	33.6.0-jre
 4.12.6.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-28T19:13:37Z	33.4.8-jre
 4.12.7.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-28T21:12:37Z	33.4.8-jre

@@ -4180,4 +4180,5 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.2.0	named	org.apache.hudi	hudi-hadoop-mr-bundle	2026-05-22T19:47:57Z	2.15.2
 1.2.0	named	org.apache.hudi	hudi-hive-sync-bundle	2026-05-22T19:48:31Z	2.15.2
 1.2.0	named	org.apache.hudi	hudi-kafka-connect-bundle	2026-05-22T19:54:44Z	2.15.2
+1.6.2	named	net.thisptr	jackson-jq-cli	2026-05-24T07:45:26Z	2.21.2
 7.0.8.Final	named	org.jboss.galleon	galleon-cli	2026-05-27T22:15:20Z	2.14.2

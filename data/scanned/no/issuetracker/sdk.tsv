@@ -1,0 +1,2 @@
+0.4.1		2026-05-18T10:57:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/issuetracker/sdk/0.4.1/sdk-0.4.1.jar returned status 404
+0.5.0		2026-05-18T17:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/issuetracker/sdk/0.5.0/sdk-0.5.0.jar returned status 404

@@ -18,6 +18,8 @@
 1.5.1	plain	2025-04-04T11:30:57Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/haalcentraal-all/1.6.0/haalcentraal-all-1.6.0.jar returned status 404
 1.6.0	plain	2025-07-22T11:46:51Z	
+1.6.1		2026-05-27T09:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/haalcentraal-all/1.6.1/haalcentraal-all-1.6.1.jar returned status 404
+1.6.1	plain	2026-05-27T09:31:23Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/haalcentraal-all/2.0.0/haalcentraal-all-2.0.0.jar returned status 404
 2.0.0	plain	2025-07-22T13:56:24Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/haalcentraal-all/2.0.1/haalcentraal-all-2.0.1.jar returned status 404
