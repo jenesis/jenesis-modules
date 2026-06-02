@@ -232,3 +232,5 @@
 14.1.0-b01	metadata	2026-04-19T18:06:15Z	
 14.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-core-macosx64/14.2.0/aboutlibraries-core-macosx64-14.2.0.jar returned status 404
 14.2.0	metadata	2026-05-07T08:14:06Z	
+14.2.1		2026-05-24T12:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-core-macosx64/14.2.1/aboutlibraries-core-macosx64-14.2.1.jar returned status 404
+14.2.1	metadata	2026-05-24T12:18:22Z	

@@ -4821,3 +4821,5 @@ pinpoint.bootstrap.java9_internal
 pinpoint.bootstrap.java9
 pinpoint.bootstrap.java16
 pinpoint.bootstrap.java15
+com.microsoft.graph
+com.microsoft.aad.msal4j
