@@ -6,9 +6,17 @@
 0.11.1	metadata	2026-03-26T15:28:37Z	
 0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/0.11.2/ksrpc-introspection-iosarm64-0.11.2.jar returned status 404
 0.11.2	metadata	2026-04-24T13:10:43Z	
+1.0.0		2026-05-21T14:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.0.0/ksrpc-introspection-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-05-21T14:08:12Z	
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.0.0-RC2/ksrpc-introspection-iosarm64-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	metadata	2026-05-03T23:34:39Z	
 1.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.0.0-RC4/ksrpc-introspection-iosarm64-1.0.0-RC4.jar returned status 404
 1.0.0-RC4	metadata	2026-05-17T16:06:15Z	
 1.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.0.0-RC5/ksrpc-introspection-iosarm64-1.0.0-RC5.jar returned status 404
 1.0.0-RC5	metadata	2026-05-19T17:12:00Z	
+1.0.0-RC6		2026-05-20T13:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.0.0-RC6/ksrpc-introspection-iosarm64-1.0.0-RC6.jar returned status 404
+1.0.0-RC6	metadata	2026-05-20T13:30:49Z	
+1.1.0		2026-05-28T19:07:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.1.0/ksrpc-introspection-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-05-28T19:07:56Z	
+1.1.0-RC1		2026-05-27T21:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-introspection-iosarm64/1.1.0-RC1/ksrpc-introspection-iosarm64-1.1.0-RC1.jar returned status 404
+1.1.0-RC1	metadata	2026-05-27T21:14:51Z	

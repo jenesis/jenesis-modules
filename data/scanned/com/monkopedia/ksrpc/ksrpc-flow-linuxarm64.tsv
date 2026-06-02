@@ -1,3 +1,7 @@
+1.0.0		2026-05-21T14:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.0.0/ksrpc-flow-linuxarm64-1.0.0.jar returned status 404
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.0.0-RC2/ksrpc-flow-linuxarm64-1.0.0-RC2.jar returned status 404
 1.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.0.0-RC4/ksrpc-flow-linuxarm64-1.0.0-RC4.jar returned status 404
 1.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.0.0-RC5/ksrpc-flow-linuxarm64-1.0.0-RC5.jar returned status 404
+1.0.0-RC6		2026-05-20T13:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.0.0-RC6/ksrpc-flow-linuxarm64-1.0.0-RC6.jar returned status 404
+1.1.0		2026-05-28T19:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.1.0/ksrpc-flow-linuxarm64-1.1.0.jar returned status 404
+1.1.0-RC1		2026-05-27T21:14:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-flow-linuxarm64/1.1.0-RC1/ksrpc-flow-linuxarm64-1.1.0-RC1.jar returned status 404
