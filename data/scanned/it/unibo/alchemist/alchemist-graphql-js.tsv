@@ -254,6 +254,10 @@
 43.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.5/alchemist-graphql-js-43.0.5.jar returned status 404
 43.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.50/alchemist-graphql-js-43.0.50.jar returned status 404
 43.0.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.51/alchemist-graphql-js-43.0.51.jar returned status 404
+43.0.52		2026-05-19T20:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.52/alchemist-graphql-js-43.0.52.jar returned status 404
+43.0.53		2026-05-24T08:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.53/alchemist-graphql-js-43.0.53.jar returned status 404
+43.0.54		2026-05-26T19:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.54/alchemist-graphql-js-43.0.54.jar returned status 404
+43.0.55		2026-05-29T03:49:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.55/alchemist-graphql-js-43.0.55.jar returned status 404
 43.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.6/alchemist-graphql-js-43.0.6.jar returned status 404
 43.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.7/alchemist-graphql-js-43.0.7.jar returned status 404
 43.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist-graphql-js/43.0.8/alchemist-graphql-js-43.0.8.jar returned status 404

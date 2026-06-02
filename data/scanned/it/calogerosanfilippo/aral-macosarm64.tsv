@@ -16,3 +16,5 @@
 0.7.0	metadata	2026-01-07T11:25:20Z	
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/calogerosanfilippo/aral-macosarm64/1.0.0/aral-macosarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-05-03T22:01:56Z	
+1.0.1		2026-05-24T23:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/calogerosanfilippo/aral-macosarm64/1.0.1/aral-macosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-05-24T23:40:04Z	

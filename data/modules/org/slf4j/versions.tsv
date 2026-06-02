@@ -2733,6 +2733,9 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 6.12.2	named	com.diffusiondata.diffusion	diffusion-client-with-dependencies	2026-05-15T11:38:01Z	2.0.12
 0.0.23	named	io.github.liquid-java	liquidjava-verifier	2026-05-16T19:16:23Z	2.0.7
 0.0.24	named	io.github.liquid-java	liquidjava-verifier	2026-05-18T15:33:27Z	2.0.7
+0.12.1	named	io.testomat	java-reporter-core	2026-05-19T07:47:51Z	2.0.9
+0.12.2-rc1	named	io.testomat	java-reporter-core	2026-05-19T10:47:13Z	2.0.9
+0.12.2-rc2	named	io.testomat	java-reporter-core	2026-05-19T12:33:17Z	2.0.9
 5.0.3-beta	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-05-19T16:10:59Z	2.0.17
 5.0.3-beta	named	com.google.appengine	appengine-tools-sdk	2026-05-19T16:10:59Z	2.0.17
 5.0.3-beta	named	com.google.appengine	appengine-local-runtime-jetty121	2026-05-19T16:11:00Z	2.0.17
@@ -2744,3 +2747,4 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.3.1	named	org.apache.tika	tika-server-client	2026-05-20T20:38:48Z	2.0.18
 2.23.1	named	org.mustangproject	Mustang-CLI	2026-05-21T08:31:31Z	2.0.17
 1.12.9	named	org.open-metadata	elasticsearch-deps	2026-05-28T04:51:14Z	2.0.4
+0.13.0	named	io.testomat	java-reporter-core	2026-05-29T06:32:06Z	2.0.9

@@ -34,6 +34,8 @@
 0.2.29	metadata	2026-05-12T09:40:40Z	
 0.2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-tasks-iosarm64/0.2.30/feature-tasks-iosarm64-0.2.30.jar returned status 404
 0.2.30	metadata	2026-05-12T13:24:58Z	
+0.2.32		2026-05-25T06:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-tasks-iosarm64/0.2.32/feature-tasks-iosarm64-0.2.32.jar returned status 404
+0.2.32	metadata	2026-05-25T06:49:17Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-tasks-iosarm64/0.2.4/feature-tasks-iosarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:28Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-tasks-iosarm64/0.2.5/feature-tasks-iosarm64-0.2.5.jar returned status 404

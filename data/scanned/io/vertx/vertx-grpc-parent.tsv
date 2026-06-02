@@ -25,3 +25,4 @@
 5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-grpc-parent/5.0.7/vertx-grpc-parent-5.0.7.jar returned status 404
 5.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-grpc-parent/5.0.8/vertx-grpc-parent-5.0.8.jar returned status 404
 5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-grpc-parent/5.0.9/vertx-grpc-parent-5.0.9.jar returned status 404
+5.1.0		2026-05-26T07:25:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-grpc-parent/5.1.0/vertx-grpc-parent-5.1.0.jar returned status 404

@@ -568,3 +568,37 @@
 28.2.6-dev0f+f2ff7722	metadata	2026-05-15T17:04:35Z	
 28.2.6-dev0g+1a530718			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0g+1a530718/collektive-dsl-iossimulatorarm64-28.2.6-dev0g+1a530718.jar returned status 404
 28.2.6-dev0g+1a530718	metadata	2026-05-17T20:08:54Z	
+28.2.6-dev0h+230cb003		2026-05-19T03:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0h+230cb003/collektive-dsl-iossimulatorarm64-28.2.6-dev0h+230cb003.jar returned status 404
+28.2.6-dev0h+230cb003	metadata	2026-05-19T03:31:04Z	
+28.2.6-dev0h+f81bf1d1		2026-05-18T04:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0h+f81bf1d1/collektive-dsl-iossimulatorarm64-28.2.6-dev0h+f81bf1d1.jar returned status 404
+28.2.6-dev0h+f81bf1d1	metadata	2026-05-18T04:28:18Z	
+28.2.6-dev0i+47e1d88d		2026-05-19T23:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0i+47e1d88d/collektive-dsl-iossimulatorarm64-28.2.6-dev0i+47e1d88d.jar returned status 404
+28.2.6-dev0i+47e1d88d	metadata	2026-05-19T23:26:09Z	
+28.2.6-dev0j+1f0a6b23		2026-05-20T01:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0j+1f0a6b23/collektive-dsl-iossimulatorarm64-28.2.6-dev0j+1f0a6b23.jar returned status 404
+28.2.6-dev0j+1f0a6b23	metadata	2026-05-20T01:23:27Z	
+28.2.6-dev0k+788fac18		2026-05-22T15:05:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0k+788fac18/collektive-dsl-iossimulatorarm64-28.2.6-dev0k+788fac18.jar returned status 404
+28.2.6-dev0k+788fac18	metadata	2026-05-22T15:05:21Z	
+28.2.6-dev0l+c149bbe4		2026-05-24T03:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0l+c149bbe4/collektive-dsl-iossimulatorarm64-28.2.6-dev0l+c149bbe4.jar returned status 404
+28.2.6-dev0l+c149bbe4	metadata	2026-05-24T03:25:23Z	
+28.2.6-dev0m+387abcdf		2026-05-24T15:27:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0m+387abcdf/collektive-dsl-iossimulatorarm64-28.2.6-dev0m+387abcdf.jar returned status 404
+28.2.6-dev0m+387abcdf	metadata	2026-05-24T15:27:03Z	
+28.2.6-dev0n+70c9df07		2026-05-26T17:40:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0n+70c9df07/collektive-dsl-iossimulatorarm64-28.2.6-dev0n+70c9df07.jar returned status 404
+28.2.6-dev0n+70c9df07	metadata	2026-05-26T17:40:18Z	
+28.2.6-dev0n+d63476a6		2026-05-25T21:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0n+d63476a6/collektive-dsl-iossimulatorarm64-28.2.6-dev0n+d63476a6.jar returned status 404
+28.2.6-dev0n+d63476a6	metadata	2026-05-25T21:54:26Z	
+28.2.6-dev0o+a21ff8f5		2026-05-26T19:29:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0o+a21ff8f5/collektive-dsl-iossimulatorarm64-28.2.6-dev0o+a21ff8f5.jar returned status 404
+28.2.6-dev0o+a21ff8f5	metadata	2026-05-26T19:29:01Z	
+28.2.6-dev0p+b16a5f43		2026-05-26T23:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0p+b16a5f43/collektive-dsl-iossimulatorarm64-28.2.6-dev0p+b16a5f43.jar returned status 404
+28.2.6-dev0p+b16a5f43	metadata	2026-05-26T23:35:20Z	
+28.2.6-dev0q+6a6245a9		2026-05-27T01:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0q+6a6245a9/collektive-dsl-iossimulatorarm64-28.2.6-dev0q+6a6245a9.jar returned status 404
+28.2.6-dev0q+6a6245a9	metadata	2026-05-27T01:23:20Z	
+28.2.6-dev0r+f4ffd087		2026-05-29T16:27:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0r+f4ffd087/collektive-dsl-iossimulatorarm64-28.2.6-dev0r+f4ffd087.jar returned status 404
+28.2.6-dev0r+f4ffd087	metadata	2026-05-29T16:27:53Z	
+28.2.6-dev0r+feb1639d		2026-05-29T06:38:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0r+feb1639d/collektive-dsl-iossimulatorarm64-28.2.6-dev0r+feb1639d.jar returned status 404
+28.2.6-dev0r+feb1639d	metadata	2026-05-29T06:38:28Z	
+28.2.6-dev0s+433ce431		2026-05-29T17:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0s+433ce431/collektive-dsl-iossimulatorarm64-28.2.6-dev0s+433ce431.jar returned status 404
+28.2.6-dev0s+433ce431	metadata	2026-05-29T17:30:20Z	
+28.2.6-dev0s+b0338227		2026-05-29T17:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0s+b0338227/collektive-dsl-iossimulatorarm64-28.2.6-dev0s+b0338227.jar returned status 404
+28.2.6-dev0s+b0338227	metadata	2026-05-29T17:33:26Z	
+28.2.6-dev0t+201860be		2026-05-29T19:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.2.6-dev0t+201860be/collektive-dsl-iossimulatorarm64-28.2.6-dev0t+201860be.jar returned status 404
+28.2.6-dev0t+201860be	metadata	2026-05-29T19:06:40Z	

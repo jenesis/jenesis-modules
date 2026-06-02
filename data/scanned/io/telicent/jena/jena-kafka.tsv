@@ -8,3 +8,4 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/jena/jena-kafka/3.0.0/jena-kafka-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/jena/jena-kafka/3.0.1/jena-kafka-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/jena/jena-kafka/3.0.2/jena-kafka-3.0.2.jar returned status 404
+3.0.3		2026-05-19T17:15:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/jena/jena-kafka/3.0.3/jena-kafka-3.0.3.jar returned status 404

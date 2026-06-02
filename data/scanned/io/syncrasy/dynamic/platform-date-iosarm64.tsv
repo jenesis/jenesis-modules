@@ -60,6 +60,8 @@
 0.2.3	metadata	2026-02-03T07:51:59Z	
 0.2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-date-iosarm64/0.2.30/platform-date-iosarm64-0.2.30.jar returned status 404
 0.2.30	metadata	2026-05-12T13:24:51Z	
+0.2.32		2026-05-25T06:49:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-date-iosarm64/0.2.32/platform-date-iosarm64-0.2.32.jar returned status 404
+0.2.32	metadata	2026-05-25T06:49:11Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-date-iosarm64/0.2.4/platform-date-iosarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:36Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-date-iosarm64/0.2.5/platform-date-iosarm64-0.2.5.jar returned status 404

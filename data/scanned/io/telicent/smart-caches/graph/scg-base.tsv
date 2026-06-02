@@ -19,3 +19,6 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.0/scg-base-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.1/scg-base-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.2/scg-base-1.0.2.jar returned status 404
+1.0.3		2026-05-27T11:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.3/scg-base-1.0.3.jar returned status 404
+1.0.4		2026-05-28T11:24:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.4/scg-base-1.0.4.jar returned status 404
+1.0.5		2026-05-28T12:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/graph/scg-base/1.0.5/scg-base-1.0.5.jar returned status 404

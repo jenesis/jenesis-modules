@@ -560,7 +560,12 @@
 28.2.6-dev0f+f2ff7722	metadata	2026-05-15T17:04:59Z	
 28.2.6-dev0g+1a530718			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0g+1a530718/collektive-stdlib-iossimulatorarm64-28.2.6-dev0g+1a530718.jar returned status 404
 28.2.6-dev0g+1a530718	metadata	2026-05-17T20:09:10Z	
+28.2.6-dev0h+230cb003		2026-05-19T03:31:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0h+230cb003/collektive-stdlib-iossimulatorarm64-28.2.6-dev0h+230cb003.jar returned status 404
+28.2.6-dev0h+230cb003	metadata	2026-05-19T03:31:26Z	
+28.2.6-dev0h+f81bf1d1		2026-05-18T04:28:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0h+f81bf1d1/collektive-stdlib-iossimulatorarm64-28.2.6-dev0h+f81bf1d1.jar returned status 404
+28.2.6-dev0h+f81bf1d1	metadata	2026-05-18T04:28:33Z	
 28.2.6-dev0i+47e1d88d		2026-05-19T23:26:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0i+47e1d88d/collektive-stdlib-iossimulatorarm64-28.2.6-dev0i+47e1d88d.jar returned status 404
+28.2.6-dev0i+47e1d88d	metadata	2026-05-19T23:26:22Z	
 28.2.6-dev0j+1f0a6b23		2026-05-20T01:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0j+1f0a6b23/collektive-stdlib-iossimulatorarm64-28.2.6-dev0j+1f0a6b23.jar returned status 404
 28.2.6-dev0j+1f0a6b23	metadata	2026-05-20T01:23:43Z	
 28.2.6-dev0k+788fac18		2026-05-22T15:05:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iossimulatorarm64/28.2.6-dev0k+788fac18/collektive-stdlib-iossimulatorarm64-28.2.6-dev0k+788fac18.jar returned status 404
