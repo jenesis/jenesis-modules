@@ -6,3 +6,7 @@
 2.2.0	metadata	2026-05-18T14:23:57Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-escape-handler-iosx64/2.3.0/composeunstyled-escape-handler-iosx64-2.3.0.jar returned status 404
 2.3.0	metadata	2026-05-19T10:42:39Z	
+2.4.0		2026-05-23T02:36:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-escape-handler-iosx64/2.4.0/composeunstyled-escape-handler-iosx64-2.4.0.jar returned status 404
+2.4.0	metadata	2026-05-23T02:36:46Z	
+2.4.1		2026-05-31T06:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-escape-handler-iosx64/2.4.1/composeunstyled-escape-handler-iosx64-2.4.1.jar returned status 404
+2.4.1	metadata	2026-05-31T06:37:50Z	
