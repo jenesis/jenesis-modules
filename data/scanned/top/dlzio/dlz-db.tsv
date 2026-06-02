@@ -1,0 +1,2 @@
+7.0.0		2026-05-17T06:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz-db/7.0.0/dlz-db-7.0.0.jar returned status 404
+7.0.1		2026-05-25T11:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz-db/7.0.1/dlz-db-7.0.1.jar returned status 404

@@ -1,4 +1,6 @@
 4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/core/core-iosarm64/4.10.0/core-iosarm64-4.10.0.jar returned status 404
 4.10.0	metadata	2026-04-16T09:03:45Z	
+4.11.0		2026-05-26T12:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/core/core-iosarm64/4.11.0/core-iosarm64-4.11.0.jar returned status 404
+4.11.0	metadata	2026-05-26T12:36:51Z	
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/core/core-iosarm64/4.9.0/core-iosarm64-4.9.0.jar returned status 404
 4.9.0	metadata	2026-01-22T23:16:43Z	

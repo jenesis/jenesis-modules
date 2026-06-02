@@ -20,3 +20,6 @@
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/2.4.0/bubbl-sdk-2.4.0.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/2.4.1/bubbl-sdk-2.4.1.jar returned status 404
 2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/2.4.2/bubbl-sdk-2.4.2.jar returned status 404
+3.0.0		2026-05-19T19:07:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/3.0.0/bubbl-sdk-3.0.0.jar returned status 404
+3.0.1		2026-05-19T21:28:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/3.0.1/bubbl-sdk-3.0.1.jar returned status 404
+3.0.2		2026-05-23T18:59:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/3.0.2/bubbl-sdk-3.0.2.jar returned status 404

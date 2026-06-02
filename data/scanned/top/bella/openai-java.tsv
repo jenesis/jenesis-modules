@@ -100,3 +100,5 @@
 0.24.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/bella/openai-java/0.24.5/openai-java-0.24.5.jar returned status 404
 0.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/bella/openai-java/0.24.6/openai-java-0.24.6.jar returned status 404
 0.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/bella/openai-java/0.24.7/openai-java-0.24.7.jar returned status 404
+0.24.8		2026-05-21T04:13:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/bella/openai-java/0.24.8/openai-java-0.24.8.jar returned status 404
+0.24.9		2026-05-21T06:41:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/bella/openai-java/0.24.9/openai-java-0.24.9.jar returned status 404

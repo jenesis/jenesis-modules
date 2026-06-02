@@ -28,3 +28,4 @@
 3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-wasi/3.3.5/keep-api-wasm-wasi-3.3.5.jar returned status 404
 3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-wasi/3.3.6/keep-api-wasm-wasi-3.3.6.jar returned status 404
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-wasi/3.3.7/keep-api-wasm-wasi-3.3.7.jar returned status 404
+3.3.8		2026-05-22T12:51:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-wasi/3.3.8/keep-api-wasm-wasi-3.3.8.jar returned status 404

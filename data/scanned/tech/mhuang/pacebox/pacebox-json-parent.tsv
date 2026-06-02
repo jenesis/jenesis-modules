@@ -3,3 +3,4 @@
 1.0.2-jdk24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-json-parent/1.0.2-jdk24/pacebox-json-parent-1.0.2-jdk24.jar returned status 404
 1.0.2-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-json-parent/1.0.2-jdk25/pacebox-json-parent-1.0.2-jdk25.jar returned status 404
 1.0.3-jdk24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-json-parent/1.0.3-jdk24/pacebox-json-parent-1.0.3-jdk24.jar returned status 404
+2.0.0-jdk25		2026-05-18T06:10:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-json-parent/2.0.0-jdk25/pacebox-json-parent-2.0.0-jdk25.jar returned status 404

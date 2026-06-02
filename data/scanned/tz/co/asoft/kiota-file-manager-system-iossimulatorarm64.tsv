@@ -32,3 +32,5 @@
 3.3.6	metadata	2026-02-26T23:48:35Z	
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-manager-system-iossimulatorarm64/3.3.7/kiota-file-manager-system-iossimulatorarm64-3.3.7.jar returned status 404
 3.3.7	metadata	2026-02-27T10:48:25Z	
+3.3.8		2026-05-22T13:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-manager-system-iossimulatorarm64/3.3.8/kiota-file-manager-system-iossimulatorarm64-3.3.8.jar returned status 404
+3.3.8	metadata	2026-05-22T13:00:34Z	

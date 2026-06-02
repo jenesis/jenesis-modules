@@ -36,3 +36,5 @@
 3.3.6	metadata	2026-02-26T23:41:16Z	
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/cinematic-live-kollections-tvossimulatorarm64/3.3.7/cinematic-live-kollections-tvossimulatorarm64-3.3.7.jar returned status 404
 3.3.7	metadata	2026-02-27T10:42:39Z	
+3.3.8		2026-05-22T12:54:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/cinematic-live-kollections-tvossimulatorarm64/3.3.8/cinematic-live-kollections-tvossimulatorarm64-3.3.8.jar returned status 404
+3.3.8	metadata	2026-05-22T12:54:16Z	

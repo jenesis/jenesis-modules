@@ -3,3 +3,4 @@
 1.0.0-beta.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/1.0.0-beta.02/engage-1.0.0-beta.02.jar returned status 404
 1.0.0-beta.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/1.0.0-beta.03/engage-1.0.0-beta.03.jar returned status 404
 1.0.0-beta.04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/1.0.0-beta.04/engage-1.0.0-beta.04.jar returned status 404
+1.1.0		2026-05-21T08:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/1.1.0/engage-1.1.0.jar returned status 404

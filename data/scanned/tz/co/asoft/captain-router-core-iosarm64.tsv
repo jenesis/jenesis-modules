@@ -56,3 +56,5 @@
 3.3.6	metadata	2026-02-26T23:43:39Z	
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-router-core-iosarm64/3.3.7/captain-router-core-iosarm64-3.3.7.jar returned status 404
 3.3.7	metadata	2026-02-27T10:59:17Z	
+3.3.8		2026-05-22T12:55:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-router-core-iosarm64/3.3.8/captain-router-core-iosarm64-3.3.8.jar returned status 404
+3.3.8	metadata	2026-05-22T12:55:37Z	
