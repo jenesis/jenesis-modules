@@ -12,6 +12,7 @@
 0.11.5		2025-08-20T00:08:12Z	
 0.11.6		2025-08-21T02:11:30Z	
 0.11.7		2025-12-01T10:34:27Z	
+0.11.8		2026-05-20T01:43:27Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/klogging/klogging-spring-boot-starter/0.2.0/klogging-spring-boot-starter-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/klogging/klogging-spring-boot-starter/0.2.1/klogging-spring-boot-starter-0.2.1.jar returned status 404
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/klogging/klogging-spring-boot-starter/0.2.2/klogging-spring-boot-starter-0.2.2.jar returned status 404

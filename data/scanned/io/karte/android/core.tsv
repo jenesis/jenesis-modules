@@ -17,3 +17,4 @@
 2.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karte/android/core/2.31.1/core-2.31.1.jar returned status 404
 2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karte/android/core/2.32.0/core-2.32.0.jar returned status 404
 2.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karte/android/core/2.33.0/core-2.33.0.jar returned status 404
+2.34.0		2026-05-27T06:42:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karte/android/core/2.34.0/core-2.34.0.jar returned status 404

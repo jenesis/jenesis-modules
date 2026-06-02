@@ -2124,8 +2124,16 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 4.10.0	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2026-05-20T15:32:28Z	
 4.10.1	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2026-05-20T20:40:32Z	
 0.19.0-947	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-05-25T01:11:32Z	
+2.3.5-beta.9	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-25T03:28:47Z	
+2.3.5-beta.9	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-25T03:28:47Z	
+2.3.5	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-25T09:55:36Z	
+2.3.5	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-25T09:55:36Z	
 1.7.3	named	org.virtuslab	bazel-steward	2026-05-25T10:25:38Z	
 1.7.4-rc1	named	org.virtuslab	bazel-steward	2026-05-25T16:48:45Z	
 1.7.4	named	org.virtuslab	bazel-steward	2026-05-25T17:19:09Z	
 0.19.0-948	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-05-25T19:22:51Z	
+2.3.5-beta.10	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-27T01:51:58Z	
+2.3.5-beta.10	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-27T01:51:58Z	
+2.3.5-beta.11	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-27T11:21:25Z	
+2.3.5-beta.11	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-27T11:21:25Z	
 2.0.0	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-05-27T16:00:27Z	

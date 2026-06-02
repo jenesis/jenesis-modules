@@ -224,4 +224,6 @@
 1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.13	2026-05-15T04:18:18Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-emitter-solr	2026-05-20T20:27:18Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-pipes-iterator-solr	2026-05-20T20:30:17Z	4.2.13.Final
+4.2.14.Final	named	io.netty	netty-buffer	2026-05-20T21:19:29Z	4.2.14.Final
+4.1.134.Final	automatic	io.netty	netty-buffer	2026-05-20T21:34:38Z	
 2.0.8	named	net.neoforged.jst	jst-cli-bundle	2026-05-21T08:51:31Z	4.2.0.RC2
