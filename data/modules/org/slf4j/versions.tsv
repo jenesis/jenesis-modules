@@ -2711,6 +2711,15 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.12.0	named	io.testomat	java-reporter-core	2026-05-11T07:35:01Z	2.0.9
 0.2.0	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-05-11T09:54:21Z	2.0.17
 1.12.7	named	org.open-metadata	elasticsearch-deps	2026-05-11T14:32:27Z	2.0.4
+2.8.8	named	org.apache.storm	flux-core	2026-05-11T18:10:07Z	2.0.17
+2.8.8	named	org.apache.storm	flux-examples	2026-05-11T18:10:21Z	2.0.17
+2.8.8	named	org.apache.storm	storm-starter	2026-05-11T18:10:58Z	2.0.17
+2.8.8	named	org.apache.storm	storm-loadgen	2026-05-11T18:11:28Z	2.0.17
+2.8.8	named	org.apache.storm	storm-redis-examples	2026-05-11T18:11:36Z	2.0.17
+2.8.8	named	org.apache.storm	storm-kafka-client-examples	2026-05-11T18:11:47Z	2.0.17
+2.8.8	named	org.apache.storm	storm-jdbc-examples	2026-05-11T18:11:58Z	2.0.17
+2.8.8	named	org.apache.storm	storm-hdfs-examples	2026-05-11T18:12:12Z	2.0.17
+2.8.8	named	org.apache.storm	storm-perf	2026-05-11T18:12:53Z	2.0.17
 0.0.22	named	io.github.liquid-java	liquidjava-verifier	2026-05-12T14:02:02Z	2.0.7
 2.0.18	named	org.slf4j	slf4j-api	2026-05-12T18:34:09Z	2.0.18
 1.12.8	named	org.open-metadata	elasticsearch-deps	2026-05-13T08:43:12Z	2.0.4

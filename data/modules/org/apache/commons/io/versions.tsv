@@ -929,5 +929,7 @@
 2.0.2	named	org.apache.flink	flink-oss-fs-hadoop	2026-05-09T23:23:40Z	2.15.1
 2.0.2	named	org.apache.flink	flink-table-planner_2.12	2026-05-09T23:24:39Z	2.15.1
 3.3.1	named	org.apache.tika	tika-pipes-iterator-csv	2026-05-20T20:28:54Z	2.22.0
+1.2.0	named	org.apache.hudi	hudi-aws-bundle	2026-05-22T19:48:46Z	2.14.0
+1.2.0	named	org.apache.hudi	hudi-azure-bundle	2026-05-22T19:49:11Z	2.14.0
 0.14.1	named	org.teavm	teavm-relocated-libs-commons-io	2026-05-25T10:42:32Z	2.20.0
 5.23.0.33560	named	org.sonarsource.python	sonar-python-plugin	2026-05-28T07:54:40Z	2.21.0

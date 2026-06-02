@@ -211,5 +211,16 @@
 1.0.0	named	org.atsign	at_shell	2026-04-27T13:46:07Z	4.2.12.Final
 4.2.13.Final	named	io.netty	netty-buffer	2026-05-04T23:24:38Z	4.2.13.Final
 4.1.133.Final	automatic	io.netty	netty-buffer	2026-05-05T00:00:16Z	
+1.10.2	named	org.apache.iceberg	iceberg-spark-runtime-3.4_2.12	2026-05-13T22:57:46Z	4.2.4.Final
+1.10.2	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.12	2026-05-13T22:58:17Z	4.2.4.Final
+1.10.2	named	org.apache.iceberg	iceberg-spark-runtime-4.0_2.13	2026-05-13T22:58:50Z	4.2.4.Final
+1.10.2	named	org.apache.iceberg	iceberg-spark-runtime-3.4_2.13	2026-05-13T23:00:31Z	4.2.4.Final
+1.10.2	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.13	2026-05-13T23:01:58Z	4.2.4.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-3.4_2.12	2026-05-15T04:11:35Z	4.2.13.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.12	2026-05-15T04:12:33Z	4.2.13.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-4.0_2.13	2026-05-15T04:13:36Z	4.2.13.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-4.1_2.13	2026-05-15T04:14:30Z	4.2.13.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-3.4_2.13	2026-05-15T04:16:29Z	4.2.13.Final
+1.11.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.13	2026-05-15T04:18:18Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-emitter-solr	2026-05-20T20:27:18Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-pipes-iterator-solr	2026-05-20T20:30:17Z	4.2.13.Final

@@ -908,6 +908,12 @@
 0.2.0-i131_subexpr.2	named	com.sparkutils	quality_connect_testshade_4.0.0.oss_4.0_2.13	2026-05-11T15:00:58Z	2.0
 0.2.0-i131_subexpr.2	named	com.sparkutils	quality_testshade_4.1.0.oss_4.1_2.13	2026-05-11T15:01:02Z	2.0
 26.04.1	named	com.nvidia	rapids-4-spark-tools_2.12	2026-05-12T08:23:20Z	2.0
+5.3.1	named	org.apache.phoenix	phoenix-server-hbase-2.5.0	2026-05-13T06:29:28Z	2.2
+5.3.1	named	org.apache.phoenix	phoenix-mapreduce-byo-shaded-hbase-hbase-2.5.0	2026-05-13T06:32:21Z	2.2
+5.3.1	named	org.apache.phoenix	phoenix-server-hbase-2.5	2026-05-13T06:54:55Z	2.2
+5.3.1	named	org.apache.phoenix	phoenix-mapreduce-byo-shaded-hbase-hbase-2.5	2026-05-13T06:58:02Z	2.2
+5.3.1	named	org.apache.phoenix	phoenix-server-hbase-2.6	2026-05-13T07:20:03Z	2.2
+5.3.1	named	org.apache.phoenix	phoenix-mapreduce-byo-shaded-hbase-hbase-2.6	2026-05-13T07:22:53Z	2.2
 3.30.0.rc13	named	org.conductoross	conductor-os-persistence-v2	2026-05-14T10:35:35Z	2.2
 3.30.0.rc13	named	org.conductoross	conductor-os-persistence-v3	2026-05-14T10:36:11Z	2.2
 3.1.196	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-05-14T11:32:55Z	2.3

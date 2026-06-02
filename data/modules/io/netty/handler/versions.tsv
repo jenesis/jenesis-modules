@@ -176,6 +176,7 @@
 5.0.3	named	io.github.ousatov-ua	memgraph-ingester	2026-04-21T05:08:55Z	4.2.12.Final
 4.2.13.Final	named	io.netty	netty-handler	2026-05-04T23:24:39Z	4.2.13.Final
 4.1.133.Final	automatic	io.netty	netty-handler	2026-05-05T00:00:15Z	
+2.8.8	named	org.apache.storm	storm-kafka-migration	2026-05-11T18:07:45Z	4.2.12.Final
 3.3.1	named	org.apache.tika	tika-fetcher-az-blob	2026-05-20T20:25:42Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-fetcher-microsoft-graph	2026-05-20T20:26:06Z	4.2.13.Final
 3.3.1	named	org.apache.tika	tika-emitter-az-blob	2026-05-20T20:28:13Z	4.2.13.Final

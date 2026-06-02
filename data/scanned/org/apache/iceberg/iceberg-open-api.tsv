@@ -2,6 +2,10 @@
 1.10.0	test-fixtures	2025-09-05T18:10:53Z	
 1.10.1		2025-12-16T18:41:47Z	
 1.10.1	test-fixtures	2025-12-16T18:48:29Z	
+1.10.2		2026-05-13T22:48:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/iceberg/iceberg-open-api/1.10.2/iceberg-open-api-1.10.2.jar returned status 404
+1.10.2	test-fixtures	2026-05-13T22:48:44Z	
+1.11.0		2026-05-15T04:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/iceberg/iceberg-open-api/1.11.0/iceberg-open-api-1.11.0.jar returned status 404
+1.11.0	test-fixtures	2026-05-15T04:01:05Z	
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/iceberg/iceberg-open-api/1.7.0/iceberg-open-api-1.7.0.jar returned status 404
 1.7.0	test-fixtures	2024-11-04T20:34:19Z	
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/iceberg/iceberg-open-api/1.7.1/iceberg-open-api-1.7.1.jar returned status 404

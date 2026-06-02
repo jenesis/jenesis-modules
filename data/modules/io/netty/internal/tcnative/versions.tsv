@@ -695,9 +695,12 @@
 1.5.0.20rc1	named	io.acryl	datahub-auth-api	2026-05-12T15:29:52Z	2.0.75.Final
 2.9.1	named	org.wso2.msf4j	msf4j-all	2026-05-13T04:42:34Z	2.0.75.Final
 43.1.0	named	com.google.api-ads	google-ads-shadowjar	2026-05-13T18:50:04Z	2.0.75.Final
+1.10.2	named	org.apache.iceberg	iceberg-azure-bundle	2026-05-13T22:43:57Z	2.0.70.Final
+1.10.2	named	org.apache.iceberg	iceberg-gcp-bundle	2026-05-13T22:46:58Z	2.0.70.Final
 4.129.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-14T14:02:27Z	2.0.72.Final
 0.9.1	named	com.google.cloud.spark.bigtable	spark-bigtable_2.12	2026-05-14T23:37:57Z	2.0.72.Final
 0.9.1	named	com.google.cloud.spark.bigtable	spark-bigtable_2.13	2026-05-14T23:37:57Z	2.0.72.Final
+1.11.0	named	org.apache.iceberg	iceberg-gcp-bundle	2026-05-15T03:59:05Z	2.0.74.Final
 4.128.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-16T04:10:15Z	2.0.72.Final
 1.5.0.20.dev1	named	io.acryl	datahub-auth-api	2026-05-18T02:49:13Z	2.0.75.Final
 0.14.6	named	com.spotify.confidence	openfeature-provider-local	2026-05-18T09:58:32Z	2.0.72.Final

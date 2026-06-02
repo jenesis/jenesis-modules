@@ -4729,6 +4729,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 0.2.4	named	io.github.agnistack.buildplugins	omniflow-gradle-plugin	2026-05-15T17:02:06Z	2.14.0
 0.2.4	named	io.github.agnistack.buildplugins	omniflow-maven-plugin	2026-05-15T17:02:29Z	2.14.0
 0.4.16-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-15T21:47:26Z	2.12.1
+4.1.2	named	org.apache.spark	spark-connect_2.13	2026-05-16T10:32:55Z	2.11.0
 0.2.5	named	io.github.agnistack.buildplugins	omniflow-gradle-plugin	2026-05-17T18:41:03Z	2.14.0
 0.2.5	named	io.github.agnistack.buildplugins	omniflow-maven-plugin	2026-05-17T18:41:03Z	2.14.0
 3.0.18.1	named	com.ascentstream.pulsar	jclouds-shaded	2026-05-19T12:26:49Z	2.10.1
