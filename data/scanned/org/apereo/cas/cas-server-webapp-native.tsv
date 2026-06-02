@@ -178,6 +178,9 @@
 7.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-native/7.3.7/cas-server-webapp-native-7.3.7.jar returned status 404
 7.3.7	plain	2026-05-15T22:40:14Z	
 7.3.7	resources	2026-05-15T22:40:41Z	
+7.3.7.1		2026-05-27T16:12:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-native/7.3.7.1/cas-server-webapp-native-7.3.7.1.jar returned status 404
+7.3.7.1	plain	2026-05-27T16:12:30Z	
+7.3.7.1	resources	2026-05-27T16:12:47Z	
 8.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-native/8.0.0-RC1/cas-server-webapp-native-8.0.0-RC1.jar returned status 404
 8.0.0-RC1	plain	2026-01-17T04:36:08Z	
 8.0.0-RC1	resources	2026-01-17T04:36:35Z	
@@ -190,3 +193,6 @@
 8.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-native/8.0.0-RC4/cas-server-webapp-native-8.0.0-RC4.jar returned status 404
 8.0.0-RC4	plain	2026-04-25T21:45:23Z	
 8.0.0-RC4	resources	2026-04-25T21:45:44Z	
+8.0.0-RC5		2026-05-29T21:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-native/8.0.0-RC5/cas-server-webapp-native-8.0.0-RC5.jar returned status 404
+8.0.0-RC5	plain	2026-05-29T21:42:40Z	
+8.0.0-RC5	resources	2026-05-29T21:42:12Z	

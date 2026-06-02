@@ -6,3 +6,4 @@
 3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/archive/heritrix/heritrix/3.13.0/heritrix-3.13.0.jar returned status 404
 3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/archive/heritrix/heritrix/3.14.0/heritrix-3.14.0.jar returned status 404
 3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/archive/heritrix/heritrix/3.14.1/heritrix-3.14.1.jar returned status 404
+3.15.0		2026-05-26T02:52:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/archive/heritrix/heritrix/3.15.0/heritrix-3.15.0.jar returned status 404

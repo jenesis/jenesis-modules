@@ -80,8 +80,16 @@
 0.18.1	metadata	2026-05-03T12:51:20Z	
 0.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.18.2/client-iosarm64-0.18.2.jar returned status 404
 0.18.2	metadata	2026-05-07T17:29:56Z	
+0.19.0		2026-05-22T22:23:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.19.0/client-iosarm64-0.19.0.jar returned status 404
+0.19.0	metadata	2026-05-22T22:23:51Z	
+0.19.1		2026-05-28T10:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.19.1/client-iosarm64-0.19.1.jar returned status 404
+0.19.1	metadata	2026-05-28T10:22:57Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.2.0/client-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2024-10-08T19:37:22Z	
+0.20.0		2026-05-29T13:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.20.0/client-iosarm64-0.20.0.jar returned status 404
+0.20.0	metadata	2026-05-29T13:03:29Z	
+0.21.0		2026-05-29T23:38:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.21.0/client-iosarm64-0.21.0.jar returned status 404
+0.21.0	metadata	2026-05-29T23:38:53Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.3.0/client-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2024-10-23T15:06:06Z	
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-iosarm64/0.3.1/client-iosarm64-0.3.1.jar returned status 404

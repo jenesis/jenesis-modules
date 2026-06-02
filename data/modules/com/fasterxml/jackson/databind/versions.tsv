@@ -4172,4 +4172,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 7.0.7.Final	named	org.jboss.galleon	galleon-cli	2026-05-13T22:15:18Z	2.14.2
 1.0.4	named	org.brapi	use-caseinator	2026-05-15T13:00:23Z	2.19.1
 0.0.11	named	se.liu.research.hefquin	hefquin-cli	2026-05-19T10:55:10Z	2.19.2
+3.3.1	named	org.apache.tika	tika-detector-siegfried	2026-05-20T20:15:07Z	2.21.3
+3.3.1	named	org.apache.tika	tika-detector-magika	2026-05-20T20:15:23Z	2.21.3
+3.3.1	named	org.apache.tika	tika-pipes-reporter-fs-status	2026-05-20T20:31:31Z	2.21.3
 7.0.8.Final	named	org.jboss.galleon	galleon-cli	2026-05-27T22:15:20Z	2.14.2

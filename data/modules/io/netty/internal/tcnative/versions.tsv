@@ -706,5 +706,9 @@
 1.5.0.20.dev2	named	io.acryl	datahub-auth-api	2026-05-18T19:44:28Z	2.0.75.Final
 4.129.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-19T10:16:36Z	2.0.72.Final
 3.9.04	named	org.metricshub	metricshub-agent	2026-05-20T09:06:48Z	2.0.74.Final
+3.3.1	named	org.apache.tika	tika-fetcher-gcs	2026-05-20T20:25:22Z	2.0.75.Final
+3.3.1	named	org.apache.tika	tika-emitter-gcs	2026-05-20T20:27:52Z	2.0.75.Final
+3.3.1	named	org.apache.tika	tika-pipes-iterator-gcs	2026-05-20T20:30:36Z	2.0.75.Final
+3.3.1	named	org.apache.tika	tika-grpc	2026-05-20T20:32:37Z	2.0.75.Final
 4.129.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-21T16:21:48Z	2.0.72.Final
 4.129.10	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-28T19:11:53Z	2.0.72.Final
