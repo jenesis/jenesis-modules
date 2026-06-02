@@ -14,3 +14,8 @@
 3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/3.2.8/zrlog-plugin-parent-3.2.8.jar returned status 404
 3.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/3.2.9/zrlog-plugin-parent-3.2.9.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/3.3.0/zrlog-plugin-parent-3.3.0.jar returned status 404
+4.0.0		2026-05-29T19:08:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/4.0.0/zrlog-plugin-parent-4.0.0.jar returned status 404
+4.0.1		2026-05-30T01:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/4.0.1/zrlog-plugin-parent-4.0.1.jar returned status 404
+4.0.2		2026-05-30T05:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/4.0.2/zrlog-plugin-parent-4.0.2.jar returned status 404
+4.0.3		2026-05-30T12:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/4.0.3/zrlog-plugin-parent-4.0.3.jar returned status 404
+4.0.4		2026-05-31T13:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-plugin-parent/4.0.4/zrlog-plugin-parent-4.0.4.jar returned status 404

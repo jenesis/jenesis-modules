@@ -22,3 +22,5 @@
 2.9.6	metadata	2026-04-02T03:31:32Z	
 2.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-image-macosarm64/2.9.7/landscapist-image-macosarm64-2.9.7.jar returned status 404
 2.9.7	metadata	2026-04-21T10:30:50Z	
+2.9.8		2026-05-23T14:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-image-macosarm64/2.9.8/landscapist-image-macosarm64-2.9.8.jar returned status 404
+2.9.8	metadata	2026-05-23T14:06:01Z	

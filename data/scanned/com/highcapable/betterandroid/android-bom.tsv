@@ -1,0 +1,2 @@
+1.1.0		2026-05-26T19:39:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/highcapable/betterandroid/android-bom/1.1.0/android-bom-1.1.0.jar returned status 404
+1.1.1		2026-05-29T22:57:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/highcapable/betterandroid/android-bom/1.1.1/android-bom-1.1.1.jar returned status 404

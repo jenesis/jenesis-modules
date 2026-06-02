@@ -1,3 +1,4 @@
 9.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/wicket-jquery-ui/wicket-jquery-ui-parent/9.21.0/wicket-jquery-ui-parent-9.21.0.jar returned status 404
 9.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/wicket-jquery-ui/wicket-jquery-ui-parent/9.22.0/wicket-jquery-ui-parent-9.22.0.jar returned status 404
 9.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/wicket-jquery-ui/wicket-jquery-ui-parent/9.23.0/wicket-jquery-ui-parent-9.23.0.jar returned status 404
+9.23.1		2026-05-30T10:15:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/wicket-jquery-ui/wicket-jquery-ui-parent/9.23.1/wicket-jquery-ui-parent-9.23.1.jar returned status 404

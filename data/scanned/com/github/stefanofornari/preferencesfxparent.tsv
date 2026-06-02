@@ -2,3 +2,4 @@
 26.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/stefanofornari/preferencesfxparent/26.0.1/preferencesfxparent-26.0.1.jar returned status 404
 26.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/stefanofornari/preferencesfxparent/26.0.2/preferencesfxparent-26.0.2.jar returned status 404
 26.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/stefanofornari/preferencesfxparent/26.0.3/preferencesfxparent-26.0.3.jar returned status 404
+26.0.4		2026-06-01T05:57:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/stefanofornari/preferencesfxparent/26.0.4/preferencesfxparent-26.0.4.jar returned status 404
