@@ -714,5 +714,8 @@
 3.3.1	named	org.apache.tika	tika-emitter-gcs	2026-05-20T20:27:52Z	2.0.75.Final
 3.3.1	named	org.apache.tika	tika-pipes-iterator-gcs	2026-05-20T20:30:36Z	2.0.75.Final
 3.3.1	named	org.apache.tika	tika-grpc	2026-05-20T20:32:37Z	2.0.75.Final
+0.14.7	named	com.spotify.confidence	openfeature-provider-local	2026-05-21T12:03:44Z	2.0.72.Final
 4.129.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-21T16:21:48Z	2.0.72.Final
+0.14.8	named	com.spotify.confidence	openfeature-provider-local	2026-05-27T07:29:03Z	2.0.72.Final
+0.15.0	named	com.spotify.confidence	openfeature-provider-local	2026-05-28T11:40:34Z	2.0.72.Final
 4.129.10	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-28T19:11:53Z	2.0.72.Final

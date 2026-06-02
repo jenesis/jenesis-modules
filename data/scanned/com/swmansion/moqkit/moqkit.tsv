@@ -3,3 +3,4 @@
 0.0.1-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swmansion/moqkit/moqkit/0.0.1-alpha4/moqkit-0.0.1-alpha4.jar returned status 404
 0.0.1-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swmansion/moqkit/moqkit/0.0.1-alpha5/moqkit-0.0.1-alpha5.jar returned status 404
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swmansion/moqkit/moqkit/0.1.0/moqkit-0.1.0.jar returned status 404
+0.1.1		2026-05-19T10:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swmansion/moqkit/moqkit/0.1.1/moqkit-0.1.1.jar returned status 404

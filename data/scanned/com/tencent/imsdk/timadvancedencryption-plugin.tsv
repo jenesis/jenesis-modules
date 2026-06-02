@@ -20,3 +20,4 @@
 8.8.7354			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/timadvancedencryption-plugin/8.8.7354/timadvancedencryption-plugin-8.8.7354.jar returned status 404
 8.9.7511			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/timadvancedencryption-plugin/8.9.7511/timadvancedencryption-plugin-8.9.7511.jar returned status 404
 8.9.7540			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/timadvancedencryption-plugin/8.9.7540/timadvancedencryption-plugin-8.9.7540.jar returned status 404
+9.0.7652		2026-05-29T07:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/timadvancedencryption-plugin/9.0.7652/timadvancedencryption-plugin-9.0.7652.jar returned status 404

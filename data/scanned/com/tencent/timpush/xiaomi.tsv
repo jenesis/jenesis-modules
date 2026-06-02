@@ -21,3 +21,4 @@
 8.8.7375			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/timpush/xiaomi/8.8.7375/xiaomi-8.8.7375.jar returned status 404
 8.9.7537			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/timpush/xiaomi/8.9.7537/xiaomi-8.9.7537.jar returned status 404
 8.9.7543			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/timpush/xiaomi/8.9.7543/xiaomi-8.9.7543.jar returned status 404
+9.0.7652		2026-05-29T10:09:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/timpush/xiaomi/9.0.7652/xiaomi-9.0.7652.jar returned status 404
