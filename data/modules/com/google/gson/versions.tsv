@@ -4737,6 +4737,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 ml-2.1.1	named	io.mapsmessaging	jms_selector_parser	2026-05-19T04:06:19Z	2.13.2
 3.0.18.1	named	com.ascentstream.pulsar	jclouds-shaded	2026-05-19T12:26:49Z	2.10.1
 8.1.0	named	com.ironcorelabs	tenant-security-java	2026-05-19T15:57:41Z	2.12.1
+2.13.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-05-20T14:22:47Z	2.10
 0.0.1-releasetest	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T17:16:42Z	2.12.1
 0.4.17-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T19:56:15Z	2.12.1
 0.4.18-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T23:00:07Z	2.12.1

@@ -1,0 +1,2 @@
+0.1.0		2026-05-21T07:17:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/quickauth/sdk/0.1.0/sdk-0.1.0.jar returned status 404
+1.0.0		2026-05-23T11:46:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/quickauth/sdk/1.0.0/sdk-1.0.0.jar returned status 404

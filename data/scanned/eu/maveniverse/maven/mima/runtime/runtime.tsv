@@ -17,3 +17,4 @@
 2.4.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.42/runtime-2.4.42.jar returned status 404
 2.4.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.43/runtime-2.4.43.jar returned status 404
 2.4.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.44/runtime-2.4.44.jar returned status 404
+2.4.45		2026-05-28T12:16:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.45/runtime-2.4.45.jar returned status 404

@@ -3,3 +3,5 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox/1.0.2/drawbox-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox/1.0.3/drawbox-1.0.3.jar returned status 404
 1.0.3-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox/1.0.3-rc-1/drawbox-1.0.3-rc-1.jar returned status 404
+2.0.0-alpha01		2026-05-22T15:14:18Z	
+2.0.0-alpha02		2026-05-24T09:01:50Z	

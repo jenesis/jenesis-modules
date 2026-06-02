@@ -80,6 +80,10 @@
 1.7.13	metadata	2026-05-02T09:50:55Z	
 1.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/koin-iosarm64/1.7.14/koin-iosarm64-1.7.14.jar returned status 404
 1.7.14	metadata	2026-05-09T13:18:33Z	
+1.7.15		2026-05-27T01:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/koin-iosarm64/1.7.15/koin-iosarm64-1.7.15.jar returned status 404
+1.7.15	metadata	2026-05-27T01:53:53Z	
+1.7.16		2026-05-29T01:40:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/koin-iosarm64/1.7.16/koin-iosarm64-1.7.16.jar returned status 404
+1.7.16	metadata	2026-05-29T01:40:33Z	
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/koin-iosarm64/1.7.2/koin-iosarm64-1.7.2.jar returned status 404
 1.7.2	metadata	2025-12-29T09:34:43Z	
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/koin-iosarm64/1.7.3/koin-iosarm64-1.7.3.jar returned status 404

@@ -1,3 +1,4 @@
 1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/aiven/commons/aiven-commons/1/aiven-commons-1.jar returned status 404
 2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/aiven/commons/aiven-commons/2/aiven-commons-2.jar returned status 404
 3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/aiven/commons/aiven-commons/3/aiven-commons-3.jar returned status 404
+4		2026-05-20T14:59:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/aiven/commons/aiven-commons/4/aiven-commons-4.jar returned status 404

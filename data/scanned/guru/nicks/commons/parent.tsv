@@ -141,6 +141,7 @@
 100.260424.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/100.260424.0/parent-100.260424.0.jar returned status 404
 100.260504.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/100.260504.0/parent-100.260504.0.jar returned status 404
 100.260513.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/100.260513.0/parent-100.260513.0.jar returned status 404
+100.260524.0		2026-05-24T11:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/100.260524.0/parent-100.260524.0.jar returned status 404
 2.2511.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/2.2511.3/parent-2.2511.3.jar returned status 404
 2.2511.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/2.2511.4/parent-2.2511.4.jar returned status 404
 2.2511.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/parent/2.2511.5/parent-2.2511.5.jar returned status 404

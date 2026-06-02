@@ -18,4 +18,7 @@
 4.2.11.Final	named	io.netty	netty-codec	2026-03-24T19:00:05Z	4.2.11.Final
 4.2.12.Final	named	io.netty	netty-codec	2026-03-25T18:28:20Z	4.2.12.Final
 4.2.13.Final	named	io.netty	netty-codec	2026-05-04T23:24:38Z	4.2.13.Final
+1.5.0.20rc3	named	io.acryl	datahub-auth-api	2026-05-20T05:57:58Z	4.2.13.Final
+1.6.0rc1	named	io.acryl	datahub-auth-api	2026-05-20T19:32:38Z	4.2.13.Final
+1.6.0	named	io.acryl	datahub-auth-api	2026-05-20T20:39:34Z	4.2.13.Final
 4.2.14.Final	named	io.netty	netty-codec	2026-05-20T21:19:31Z	4.2.14.Final

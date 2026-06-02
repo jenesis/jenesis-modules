@@ -43,7 +43,10 @@
 1.8.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.15/upisdk-1.8.15.jar returned status 404
 1.8.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.16/upisdk-1.8.16.jar returned status 404
 1.8.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.17/upisdk-1.8.17.jar returned status 404
+1.8.18		2026-05-27T19:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.18/upisdk-1.8.18.jar returned status 404
+1.8.19		2026-05-27T20:31:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.19/upisdk-1.8.19.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.2/upisdk-1.8.2.jar returned status 404
+1.8.20		2026-05-27T21:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.20/upisdk-1.8.20.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.3/upisdk-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.4/upisdk-1.8.4.jar returned status 404
 1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/upisdk/1.8.5/upisdk-1.8.5.jar returned status 404

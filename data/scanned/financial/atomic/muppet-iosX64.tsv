@@ -40,3 +40,5 @@
 0.0.0-alpha42	metadata	2026-03-18T20:42:17Z	
 0.0.0-alpha43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/financial/atomic/muppet-iosX64/0.0.0-alpha43/muppet-iosX64-0.0.0-alpha43.jar returned status 404
 0.0.0-alpha43	metadata	2026-05-06T16:13:32Z	
+0.0.0-alpha44		2026-05-29T17:39:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/financial/atomic/muppet-iosX64/0.0.0-alpha44/muppet-iosX64-0.0.0-alpha44.jar returned status 404
+0.0.0-alpha44	metadata	2026-05-29T17:39:11Z	

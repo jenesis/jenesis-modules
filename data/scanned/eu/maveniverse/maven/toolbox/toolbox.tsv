@@ -33,6 +33,10 @@
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.0/toolbox-0.15.0.jar returned status 404
 0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.1/toolbox-0.15.1.jar returned status 404
 0.15.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.10/toolbox-0.15.10.jar returned status 404
+0.15.11		2026-05-19T11:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.11/toolbox-0.15.11.jar returned status 404
+0.15.12		2026-05-19T18:01:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.12/toolbox-0.15.12.jar returned status 404
+0.15.13		2026-05-22T11:02:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.13/toolbox-0.15.13.jar returned status 404
+0.15.14		2026-05-28T13:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.14/toolbox-0.15.14.jar returned status 404
 0.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.2/toolbox-0.15.2.jar returned status 404
 0.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.3/toolbox-0.15.3.jar returned status 404
 0.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/toolbox/toolbox/0.15.4/toolbox-0.15.4.jar returned status 404
