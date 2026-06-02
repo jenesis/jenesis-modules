@@ -2,6 +2,10 @@
 0.2.0	metadata	2026-05-03T18:50:09Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.1/cutecard-iossimulatorarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-05-03T19:40:13Z	
+0.2.10		2026-05-16T17:04:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.10/cutecard-iossimulatorarm64-0.2.10.jar returned status 404
+0.2.10	metadata	2026-05-16T17:04:55Z	
+0.2.11		2026-05-23T12:09:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.11/cutecard-iossimulatorarm64-0.2.11.jar returned status 404
+0.2.11	metadata	2026-05-23T12:09:46Z	
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.2/cutecard-iossimulatorarm64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-05-04T06:36:47Z	
 0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.3/cutecard-iossimulatorarm64-0.2.3.jar returned status 404
@@ -18,3 +22,7 @@
 0.2.8	metadata	2026-05-14T15:56:14Z	
 0.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.2.9/cutecard-iossimulatorarm64-0.2.9.jar returned status 404
 0.2.9	metadata	2026-05-14T21:46:41Z	
+0.3.0		2026-05-23T21:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.3.0/cutecard-iossimulatorarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-05-23T21:51:46Z	
+0.3.1		2026-05-24T16:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iossimulatorarm64/0.3.1/cutecard-iossimulatorarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-05-24T16:06:10Z	

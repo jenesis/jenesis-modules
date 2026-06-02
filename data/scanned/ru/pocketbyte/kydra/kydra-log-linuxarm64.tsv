@@ -16,3 +16,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/kydra/kydra-log-linuxarm64/2.1.0/kydra-log-linuxarm64-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/kydra/kydra-log-linuxarm64/2.2.0/kydra-log-linuxarm64-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/kydra/kydra-log-linuxarm64/2.2.1/kydra-log-linuxarm64-2.2.1.jar returned status 404
+3.0.0		2026-05-18T13:38:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/kydra/kydra-log-linuxarm64/3.0.0/kydra-log-linuxarm64-3.0.0.jar returned status 404

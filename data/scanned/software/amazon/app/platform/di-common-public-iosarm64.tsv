@@ -6,6 +6,8 @@
 0.0.12	metadata	2026-05-13T02:35:53Z	
 0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/di-common-public-iosarm64/0.0.13/di-common-public-iosarm64-0.0.13.jar returned status 404
 0.0.13	metadata	2026-05-14T19:14:46Z	
+0.0.14		2026-05-21T05:10:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/di-common-public-iosarm64/0.0.14/di-common-public-iosarm64-0.0.14.jar returned status 404
+0.0.14	metadata	2026-05-21T05:10:00Z	
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/di-common-public-iosarm64/0.0.6/di-common-public-iosarm64-0.0.6.jar returned status 404
 0.0.6	metadata	2025-09-05T17:43:38Z	
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/di-common-public-iosarm64/0.0.7/di-common-public-iosarm64-0.0.7.jar returned status 404

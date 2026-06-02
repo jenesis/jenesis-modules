@@ -1,3 +1,13 @@
+0.10.0		2026-05-25T05:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.10.0/orca-compose-iossimulatorarm64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-05-25T05:25:52Z	
+0.11.1		2026-05-26T08:44:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.11.1/orca-compose-iossimulatorarm64-0.11.1.jar returned status 404
+0.11.1	metadata	2026-05-26T08:44:28Z	
+0.11.2		2026-05-26T09:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.11.2/orca-compose-iossimulatorarm64-0.11.2.jar returned status 404
+0.11.2	metadata	2026-05-26T09:14:18Z	
+0.12.0		2026-05-26T13:11:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.12.0/orca-compose-iossimulatorarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-05-26T13:11:51Z	
+0.12.1		2026-05-26T13:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.12.1/orca-compose-iossimulatorarm64-0.12.1.jar returned status 404
+0.12.1	metadata	2026-05-26T13:51:37Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.6.0/orca-compose-iossimulatorarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-02-16T16:28:58Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.6.3/orca-compose-iossimulatorarm64-0.6.3.jar returned status 404
@@ -34,3 +44,5 @@
 0.9.3	metadata	2026-04-08T21:16:05Z	
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.9.4/orca-compose-iossimulatorarm64-0.9.4.jar returned status 404
 0.9.4	metadata	2026-04-09T08:06:13Z	
+0.9.5		2026-05-25T04:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iossimulatorarm64/0.9.5/orca-compose-iossimulatorarm64-0.9.5.jar returned status 404
+0.9.5	metadata	2026-05-25T04:13:34Z	

@@ -52,6 +52,7 @@
 0.22.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.22.7/ackpine-runtime-0.22.7.jar returned status 404
 0.22.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.22.8/ackpine-runtime-0.22.8.jar returned status 404
 0.22.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.22.9/ackpine-runtime-0.22.9.jar returned status 404
+0.23.0		2026-05-20T05:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.23.0/ackpine-runtime-0.23.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.3.0/ackpine-runtime-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.3.1/ackpine-runtime-0.3.1.jar returned status 404
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/solrudev/ackpine/ackpine-runtime/0.3.2/ackpine-runtime-0.3.2.jar returned status 404

@@ -80,3 +80,4 @@ jedis-3.6.2	automatic	redis.clients	jedis	2021-07-15T09:57:18Z
 7.4.1	automatic	redis.clients	jedis	2026-04-03T09:43:15Z	
 7.5.0	automatic	redis.clients	jedis	2026-04-27T12:27:42Z	
 6.0.0-stellhub-otel.1	automatic	io.github.stellhub	jedis	2026-05-13T06:22:11Z	
+8.0.0-beta1	automatic	redis.clients	jedis	2026-05-28T09:12:11Z	
