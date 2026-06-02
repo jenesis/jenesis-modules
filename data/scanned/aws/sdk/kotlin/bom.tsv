@@ -619,5 +619,12 @@
 1.6.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.76/bom-1.6.76.jar returned status 404
 1.6.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.77/bom-1.6.77.jar returned status 404
 1.6.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.78/bom-1.6.78.jar returned status 404
+1.6.79		2026-05-21T20:51:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.79/bom-1.6.79.jar returned status 404
 1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.8/bom-1.6.8.jar returned status 404
+1.6.80		2026-05-22T18:46:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.80/bom-1.6.80.jar returned status 404
+1.6.81		2026-05-26T19:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.81/bom-1.6.81.jar returned status 404
+1.6.82		2026-05-27T18:49:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.82/bom-1.6.82.jar returned status 404
+1.6.83		2026-05-28T18:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.83/bom-1.6.83.jar returned status 404
+1.6.84		2026-05-29T18:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.84/bom-1.6.84.jar returned status 404
+1.6.85		2026-06-01T18:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.85/bom-1.6.85.jar returned status 404
 1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.9/bom-1.6.9.jar returned status 404

@@ -723,5 +723,19 @@
 1.6.77	optimized	2026-05-19T18:53:40Z	
 1.6.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudwatch-jvm/1.6.78/cloudwatch-jvm-1.6.78.jar returned status 404
 1.6.78	optimized		IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudwatch-jvm/1.6.78/cloudwatch-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:52:18Z	
+1.6.79	optimized	2026-05-21T20:51:48Z	
 1.6.8		2026-02-02T19:38:19Z	
+1.6.80		2026-05-22T18:46:55Z	
+1.6.80	optimized	2026-05-22T18:47:04Z	
+1.6.81		2026-05-26T19:02:12Z	
+1.6.81	optimized	2026-05-26T19:02:40Z	
+1.6.82		2026-05-27T18:49:46Z	
+1.6.82	optimized	2026-05-27T18:49:25Z	
+1.6.83		2026-05-28T18:56:10Z	
+1.6.83	optimized	2026-05-28T18:55:07Z	
+1.6.84		2026-05-29T18:51:11Z	
+1.6.84	optimized	2026-05-29T18:50:58Z	
+1.6.85		2026-06-01T18:46:11Z	
+1.6.85	optimized	2026-06-01T18:45:25Z	
 1.6.9		2026-02-03T19:46:58Z	
