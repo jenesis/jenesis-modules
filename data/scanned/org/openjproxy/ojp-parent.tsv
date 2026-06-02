@@ -1,3 +1,4 @@
+0.0.1-releasetest		2026-05-20T17:16:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.0.1-releasetest/ojp-parent-0.0.1-releasetest.jar returned status 404
 0.1.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.1.1-beta/ojp-parent-0.1.1-beta.jar returned status 404
 0.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.2.0-beta/ojp-parent-0.2.0-beta.jar returned status 404
 0.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.3.0-beta/ojp-parent-0.3.0-beta.jar returned status 404
@@ -12,7 +13,12 @@
 0.4.14-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.14-beta/ojp-parent-0.4.14-beta.jar returned status 404
 0.4.15-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.15-beta/ojp-parent-0.4.15-beta.jar returned status 404
 0.4.16-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.16-beta/ojp-parent-0.4.16-beta.jar returned status 404
+0.4.17-beta		2026-05-20T19:56:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.17-beta/ojp-parent-0.4.17-beta.jar returned status 404
+0.4.18-beta		2026-05-20T23:00:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.18-beta/ojp-parent-0.4.18-beta.jar returned status 404
+0.4.19-beta		2026-05-24T07:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.19-beta/ojp-parent-0.4.19-beta.jar returned status 404
 0.4.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.2-beta/ojp-parent-0.4.2-beta.jar returned status 404
+0.4.20-beta		2026-05-28T15:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.20-beta/ojp-parent-0.4.20-beta.jar returned status 404
+0.4.21-beta		2026-05-28T21:15:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.21-beta/ojp-parent-0.4.21-beta.jar returned status 404
 0.4.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.3-beta/ojp-parent-0.4.3-beta.jar returned status 404
 0.4.4-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.4-beta/ojp-parent-0.4.4-beta.jar returned status 404
 0.4.5-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjproxy/ojp-parent/0.4.5-beta/ojp-parent-0.4.5-beta.jar returned status 404

@@ -326,8 +326,8 @@
 5.26.7	automatic	org.neo4j	neo4j-graphdb-api	2025-05-27T16:24:14Z	
 2025.05.0	automatic	org.neo4j	neo4j-graphdb-api	2025-06-03T16:36:04Z	
 5.26.8	automatic	org.neo4j	neo4j-graphdb-api	2025-06-09T11:45:04Z	
-1.0.6	automatic	org.graphfoundation.ongdb	ongdb-procedure-api	2025-06-18T19:05:51Z	
 1.0.6	automatic	org.graphfoundation.ongdb	ongdb-graphdb-api	2025-06-18T19:05:45Z	
+1.0.6	automatic	org.graphfoundation.ongdb	ongdb-procedure-api	2025-06-18T19:05:51Z	
 2025.05.1	automatic	org.neo4j	neo4j-graphdb-api	2025-06-19T15:35:17Z	
 2025.06.0	automatic	org.neo4j	neo4j-graphdb-api	2025-07-01T15:56:28Z	
 2025.06.1	automatic	org.neo4j	neo4j-graphdb-api	2025-07-10T14:25:10Z	
@@ -367,3 +367,4 @@
 5.26.25	automatic	org.neo4j	neo4j-graphdb-api	2026-04-20T17:07:37Z	
 2026.04.0	automatic	org.neo4j	neo4j-graphdb-api	2026-04-23T06:08:29Z	
 5.26.26	automatic	org.neo4j	neo4j-graphdb-api	2026-05-11T15:15:27Z	
+2026.05.0	automatic	org.neo4j	neo4j-graphdb-api	2026-05-28T13:46:46Z	

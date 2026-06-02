@@ -4733,6 +4733,12 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 0.2.5	named	io.github.agnistack.buildplugins	omniflow-maven-plugin	2026-05-17T18:41:03Z	2.14.0
 3.0.18.1	named	com.ascentstream.pulsar	jclouds-shaded	2026-05-19T12:26:49Z	2.10.1
 8.1.0	named	com.ironcorelabs	tenant-security-java	2026-05-19T15:57:41Z	2.12.1
+0.0.1-releasetest	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T17:16:42Z	2.12.1
+0.4.17-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T19:56:15Z	2.12.1
+0.4.18-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T23:00:07Z	2.12.1
+1.1.3	named	org.operaton.bpm	operaton-engine	2026-05-22T08:12:49Z	2.13.2
+2.1.1	named	org.operaton.bpm	operaton-engine	2026-05-22T08:51:18Z	2.13.2
+0.4.19-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-24T07:22:31Z	2.12.1
 11.4.0.85676	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-05-27T14:28:12Z	2.13.2
 11.4.0.85676	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-05-27T14:28:12Z	2.13.2
 5.3.0.78466	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-05-28T10:08:06Z	2.14.0
@@ -4741,3 +4747,5 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 10.27.0.140913	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-05-28T13:42:43Z	2.14.0
 10.27.0.140913	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-05-28T13:42:43Z	2.14.0
 8.30.0.43910	named	org.sonarsource.java	java-custom-rules-example	2026-05-28T14:14:14Z	2.14.0
+0.4.20-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-28T15:12:30Z	2.12.1
+0.4.21-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-28T21:15:47Z	2.12.1

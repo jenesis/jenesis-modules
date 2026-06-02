@@ -14,6 +14,7 @@
 1.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.11/opentmf-versions-1.4.11.jar returned status 404
 1.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.12/opentmf-versions-1.4.12.jar returned status 404
 1.4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.13/opentmf-versions-1.4.13.jar returned status 404
+1.4.14		2026-05-18T13:02:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.14/opentmf-versions-1.4.14.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.2/opentmf-versions-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.3/opentmf-versions-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/1.4.4/opentmf-versions-1.4.4.jar returned status 404
@@ -40,3 +41,4 @@
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/2.1.5/opentmf-versions-2.1.5.jar returned status 404
 2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/2.1.6/opentmf-versions-2.1.6.jar returned status 404
 2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/2.1.7/opentmf-versions-2.1.7.jar returned status 404
+2.1.8		2026-05-18T13:19:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/opentmf-versions/2.1.8/opentmf-versions-2.1.8.jar returned status 404

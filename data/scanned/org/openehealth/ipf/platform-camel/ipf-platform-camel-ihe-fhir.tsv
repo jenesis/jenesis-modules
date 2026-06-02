@@ -9,3 +9,4 @@
 5.2-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openehealth/ipf/platform-camel/ipf-platform-camel-ihe-fhir/5.2-m1/ipf-platform-camel-ihe-fhir-5.2-m1.jar returned status 404
 5.2-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openehealth/ipf/platform-camel/ipf-platform-camel-ihe-fhir/5.2-rc1/ipf-platform-camel-ihe-fhir-5.2-rc1.jar returned status 404
 5.2-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openehealth/ipf/platform-camel/ipf-platform-camel-ihe-fhir/5.2-rc2/ipf-platform-camel-ihe-fhir-5.2-rc2.jar returned status 404
+5.2.0		2026-05-26T16:21:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openehealth/ipf/platform-camel/ipf-platform-camel-ihe-fhir/5.2.0/ipf-platform-camel-ihe-fhir-5.2.0.jar returned status 404

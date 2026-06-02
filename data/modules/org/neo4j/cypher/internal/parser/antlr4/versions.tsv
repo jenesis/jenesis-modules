@@ -185,3 +185,6 @@
 5.26.26	automatic	org.neo4j	cypher-v5-antlr-parser	2026-05-11T15:15:23Z	
 5.26.26	automatic	org.neo4j	cypher-v25-antlr-parser	2026-05-11T15:15:24Z	
 5.26.26	automatic	org.neo4j	antlr-parser-listener-maven-plugin	2026-05-11T15:15:25Z	
+2026.05.0	automatic	org.neo4j	cypher-v25-antlr-parser	2026-05-28T13:46:45Z	
+2026.05.0	automatic	org.neo4j	antlr-parser-listener-maven-plugin	2026-05-28T13:46:46Z	
+2026.05.0	automatic	org.neo4j	cypher-v5-antlr-parser	2026-05-28T13:46:47Z	

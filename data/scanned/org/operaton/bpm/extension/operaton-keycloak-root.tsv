@@ -3,4 +3,5 @@
 1.0.0-beta-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/extension/operaton-keycloak-root/1.0.0-beta-4/operaton-keycloak-root-1.0.0-beta-4.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/extension/operaton-keycloak-root/1.1.0/operaton-keycloak-root-1.1.0.jar returned status 404
 2.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/extension/operaton-keycloak-root/2.0.0-M1/operaton-keycloak-root-2.0.0-M1.jar returned status 404
+2.1.0		2026-05-22T10:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/extension/operaton-keycloak-root/2.1.0/operaton-keycloak-root-2.1.0.jar returned status 404
 2.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/extension/operaton-keycloak-root/2.1.0-M1/operaton-keycloak-root-2.1.0-M1.jar returned status 404
