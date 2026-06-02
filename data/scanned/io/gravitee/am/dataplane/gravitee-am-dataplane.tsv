@@ -8,6 +8,7 @@
 4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.1/gravitee-am-dataplane-4.10.1.jar returned status 404
 4.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.10/gravitee-am-dataplane-4.10.10.jar returned status 404
 4.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.11/gravitee-am-dataplane-4.10.11.jar returned status 404
+4.10.12		2026-05-25T08:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.12/gravitee-am-dataplane-4.10.12.jar returned status 404
 4.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.2/gravitee-am-dataplane-4.10.2.jar returned status 404
 4.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.3/gravitee-am-dataplane-4.10.3.jar returned status 404
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.10.4/gravitee-am-dataplane-4.10.4.jar returned status 404
@@ -24,8 +25,11 @@
 4.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.11.2/gravitee-am-dataplane-4.11.2.jar returned status 404
 4.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.11.3/gravitee-am-dataplane-4.11.3.jar returned status 404
 4.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.11.4/gravitee-am-dataplane-4.11.4.jar returned status 404
+4.11.5		2026-05-25T08:33:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.11.5/gravitee-am-dataplane-4.11.5.jar returned status 404
 4.12.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.12.0-alpha.1/gravitee-am-dataplane-4.12.0-alpha.1.jar returned status 404
 4.12.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.12.0-alpha.2/gravitee-am-dataplane-4.12.0-alpha.2.jar returned status 404
+4.12.0-alpha.3		2026-05-18T14:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.12.0-alpha.3/gravitee-am-dataplane-4.12.0-alpha.3.jar returned status 404
+4.12.0-alpha.4		2026-05-26T16:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.12.0-alpha.4/gravitee-am-dataplane-4.12.0-alpha.4.jar returned status 404
 4.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.10/gravitee-am-dataplane-4.7.10.jar returned status 404
 4.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.11/gravitee-am-dataplane-4.7.11.jar returned status 404
 4.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.12/gravitee-am-dataplane-4.7.12.jar returned status 404
@@ -40,6 +44,7 @@
 4.7.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.20/gravitee-am-dataplane-4.7.20.jar returned status 404
 4.7.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.21/gravitee-am-dataplane-4.7.21.jar returned status 404
 4.7.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.22/gravitee-am-dataplane-4.7.22.jar returned status 404
+4.7.22-hotfix.1		2026-05-25T15:34:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.22-hotfix.1/gravitee-am-dataplane-4.7.22-hotfix.1.jar returned status 404
 4.7.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.23/gravitee-am-dataplane-4.7.23.jar returned status 404
 4.7.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.24/gravitee-am-dataplane-4.7.24.jar returned status 404
 4.7.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.25/gravitee-am-dataplane-4.7.25.jar returned status 404
@@ -53,6 +58,7 @@
 4.7.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.33/gravitee-am-dataplane-4.7.33.jar returned status 404
 4.7.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.34/gravitee-am-dataplane-4.7.34.jar returned status 404
 4.7.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.35/gravitee-am-dataplane-4.7.35.jar returned status 404
+4.7.36		2026-05-25T10:31:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.7.36/gravitee-am-dataplane-4.7.36.jar returned status 404
 4.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.10/gravitee-am-dataplane-4.8.10.jar returned status 404
 4.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.11/gravitee-am-dataplane-4.8.11.jar returned status 404
 4.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.12/gravitee-am-dataplane-4.8.12.jar returned status 404
@@ -66,6 +72,7 @@
 4.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.20/gravitee-am-dataplane-4.8.20.jar returned status 404
 4.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.21/gravitee-am-dataplane-4.8.21.jar returned status 404
 4.8.21-hotfix.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.21-hotfix.1/gravitee-am-dataplane-4.8.21-hotfix.1.jar returned status 404
+4.8.21-hotfix.2		2026-05-25T10:34:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.21-hotfix.2/gravitee-am-dataplane-4.8.21-hotfix.2.jar returned status 404
 4.8.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.22/gravitee-am-dataplane-4.8.22.jar returned status 404
 4.8.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.23/gravitee-am-dataplane-4.8.23.jar returned status 404
 4.8.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.24/gravitee-am-dataplane-4.8.24.jar returned status 404
@@ -83,6 +90,7 @@
 4.8.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.34/gravitee-am-dataplane-4.8.34.jar returned status 404
 4.8.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.35/gravitee-am-dataplane-4.8.35.jar returned status 404
 4.8.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.36/gravitee-am-dataplane-4.8.36.jar returned status 404
+4.8.37		2026-05-25T08:32:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.37/gravitee-am-dataplane-4.8.37.jar returned status 404
 4.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.4/gravitee-am-dataplane-4.8.4.jar returned status 404
 4.8.4-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.4-alpha.1/gravitee-am-dataplane-4.8.4-alpha.1.jar returned status 404
 4.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.8.5/gravitee-am-dataplane-4.8.5.jar returned status 404
@@ -106,6 +114,7 @@
 4.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.19/gravitee-am-dataplane-4.9.19.jar returned status 404
 4.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.2/gravitee-am-dataplane-4.9.2.jar returned status 404
 4.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.20/gravitee-am-dataplane-4.9.20.jar returned status 404
+4.9.21		2026-05-25T08:31:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.21/gravitee-am-dataplane-4.9.21.jar returned status 404
 4.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.3/gravitee-am-dataplane-4.9.3.jar returned status 404
 4.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.4/gravitee-am-dataplane-4.9.4.jar returned status 404
 4.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/dataplane/gravitee-am-dataplane/4.9.5/gravitee-am-dataplane-4.9.5.jar returned status 404

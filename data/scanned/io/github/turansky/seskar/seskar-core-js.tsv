@@ -161,6 +161,7 @@
 4.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.42.0/seskar-core-js-4.42.0.jar returned status 404
 4.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.44.0/seskar-core-js-4.44.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.5.0/seskar-core-js-4.5.0.jar returned status 404
+4.50.0		2026-05-30T12:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.50.0/seskar-core-js-4.50.0.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.6.0/seskar-core-js-4.6.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.7.0/seskar-core-js-4.7.0.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/turansky/seskar/seskar-core-js/4.8.0/seskar-core-js-4.8.0.jar returned status 404

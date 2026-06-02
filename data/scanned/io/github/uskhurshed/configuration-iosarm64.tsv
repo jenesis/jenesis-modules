@@ -4,6 +4,16 @@
 0.10.0	metadata	2026-05-10T12:57:55Z	
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.11.0/configuration-iosarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-05-10T13:27:37Z	
+0.12.0		2026-05-20T05:04:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.12.0/configuration-iosarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-05-20T05:04:21Z	
+0.13.0		2026-05-20T05:28:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.13.0/configuration-iosarm64-0.13.0.jar returned status 404
+0.13.0	metadata	2026-05-20T05:28:49Z	
+0.14.0		2026-05-20T05:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.14.0/configuration-iosarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-05-20T05:47:03Z	
+0.15.0		2026-05-20T08:21:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.15.0/configuration-iosarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-05-20T08:21:12Z	
+0.16.0		2026-05-20T08:41:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.16.0/configuration-iosarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-05-20T08:41:14Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.2.0/configuration-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-04-14T04:04:27Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.3.0/configuration-iosarm64-0.3.0.jar returned status 404

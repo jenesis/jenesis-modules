@@ -2745,6 +2745,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.3.1	named	org.apache.tika	tika-pipes-iterator-kafka	2026-05-20T20:30:00Z	2.0.18
 3.3.1	named	org.apache.tika	tika-async-cli	2026-05-20T20:32:05Z	2.0.18
 3.3.1	named	org.apache.tika	tika-server-client	2026-05-20T20:38:48Z	2.0.18
+0.9.0	named	io.github.wallawood	wallawood	2026-05-21T05:05:46Z	2.0.12
 2.23.1	named	org.mustangproject	Mustang-CLI	2026-05-21T08:31:31Z	2.0.17
+0.9.1	named	io.github.wallawood	wallawood	2026-05-24T17:57:44Z	2.0.12
 1.12.9	named	org.open-metadata	elasticsearch-deps	2026-05-28T04:51:14Z	2.0.4
 0.13.0	named	io.testomat	java-reporter-core	2026-05-29T06:32:06Z	2.0.9

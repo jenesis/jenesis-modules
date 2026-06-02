@@ -11,6 +11,7 @@
 6.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.15/ryze-parent-6.0.15.jar returned status 404
 6.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.16/ryze-parent-6.0.16.jar returned status 404
 6.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.17/ryze-parent-6.0.17.jar returned status 404
+6.0.18		2026-05-28T12:23:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.18/ryze-parent-6.0.18.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.2/ryze-parent-6.0.2.jar returned status 404
 6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.3/ryze-parent-6.0.3.jar returned status 404
 6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.4/ryze-parent-6.0.4.jar returned status 404
@@ -19,3 +20,4 @@
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.7/ryze-parent-6.0.7.jar returned status 404
 6.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.8/ryze-parent-6.0.8.jar returned status 404
 6.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.0.9/ryze-parent-6.0.9.jar returned status 404
+6.1.0		2026-05-30T10:36:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xiaomisum/ryze-parent/6.1.0/ryze-parent-6.1.0.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0		2026-05-28T17:20:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/w2sv/persisted-preferences/1.0.0/persisted-preferences-1.0.0.jar returned status 404
+1.1.0		2026-05-28T23:00:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/w2sv/persisted-preferences/1.1.0/persisted-preferences-1.1.0.jar returned status 404

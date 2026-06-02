@@ -1,0 +1,8 @@
+3.0.0-M1		2026-05-24T18:11:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M1/swagger-bom-3.0.0-M1.jar returned status 404
+3.0.0-M2		2026-05-24T20:52:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M2/swagger-bom-3.0.0-M2.jar returned status 404
+3.0.0-M3		2026-05-25T08:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M3/swagger-bom-3.0.0-M3.jar returned status 404
+3.0.0-M4		2026-05-25T09:58:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M4/swagger-bom-3.0.0-M4.jar returned status 404
+3.0.0-M5		2026-05-25T10:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M5/swagger-bom-3.0.0-M5.jar returned status 404
+3.0.0-M6		2026-05-25T10:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M6/swagger-bom-3.0.0-M6.jar returned status 404
+3.0.0-M7		2026-05-25T11:02:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M7/swagger-bom-3.0.0-M7.jar returned status 404
+3.0.0-M8		2026-05-25T11:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-bom/3.0.0-M8/swagger-bom-3.0.0-M8.jar returned status 404
