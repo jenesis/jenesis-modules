@@ -1,0 +1,4 @@
+0.1.0.0+c02be5c+DIRTY		2026-05-23T15:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mapvina/spatialk/polyline-encoding-iosarm64/0.1.0.0+c02be5c+DIRTY/polyline-encoding-iosarm64-0.1.0.0+c02be5c+DIRTY.jar returned status 404
+0.1.0.0+c02be5c+DIRTY	metadata	2026-05-23T15:30:19Z	
+1.0.0		2026-05-24T14:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mapvina/spatialk/polyline-encoding-iosarm64/1.0.0/polyline-encoding-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-05-24T14:33:09Z	

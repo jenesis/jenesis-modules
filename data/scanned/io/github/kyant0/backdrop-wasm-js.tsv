@@ -1,3 +1,5 @@
+2.0.0		2026-05-28T10:06:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-wasm-js/2.0.0/backdrop-wasm-js-2.0.0.jar returned status 404
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-wasm-js/2.0.0-alpha01/backdrop-wasm-js-2.0.0-alpha01.jar returned status 404
 2.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-wasm-js/2.0.0-alpha02/backdrop-wasm-js-2.0.0-alpha02.jar returned status 404
 2.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-wasm-js/2.0.0-alpha03/backdrop-wasm-js-2.0.0-alpha03.jar returned status 404
+2.0.0-rc01		2026-05-26T16:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-wasm-js/2.0.0-rc01/backdrop-wasm-js-2.0.0-rc01.jar returned status 404

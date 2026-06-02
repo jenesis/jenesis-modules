@@ -71,3 +71,4 @@
 2.0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-android-sdk/2.0.4.5/maticoo-android-sdk-2.0.4.5.jar returned status 404
 2.0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-android-sdk/2.0.5.0/maticoo-android-sdk-2.0.5.0.jar returned status 404
 2.0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-android-sdk/2.0.5.1/maticoo-android-sdk-2.0.5.1.jar returned status 404
+2.0.6.0		2026-05-28T06:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-android-sdk/2.0.6.0/maticoo-android-sdk-2.0.6.0.jar returned status 404

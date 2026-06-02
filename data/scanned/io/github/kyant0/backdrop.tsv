@@ -6,6 +6,8 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop/1.0.4/backdrop-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop/1.0.5/backdrop-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop/1.0.6/backdrop-1.0.6.jar returned status 404
+2.0.0		2026-05-28T10:06:01Z	
 2.0.0-alpha01		2026-01-27T07:39:36Z	
 2.0.0-alpha02		2026-02-12T11:02:31Z	
 2.0.0-alpha03		2026-02-14T11:42:16Z	
+2.0.0-rc01		2026-05-26T16:28:39Z	
