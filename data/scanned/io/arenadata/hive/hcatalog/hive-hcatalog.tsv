@@ -1,3 +1,4 @@
 2.3.10_arenadata1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hcatalog/hive-hcatalog/2.3.10_arenadata1/hive-hcatalog-2.3.10_arenadata1.jar returned status 404
 2.3.9_arenadata7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hcatalog/hive-hcatalog/2.3.9_arenadata7/hive-hcatalog-2.3.9_arenadata7.jar returned status 404
 2.3.9_arenadata8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hcatalog/hive-hcatalog/2.3.9_arenadata8/hive-hcatalog-2.3.9_arenadata8.jar returned status 404
+2.3.9_arenadata9		2026-05-26T07:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hcatalog/hive-hcatalog/2.3.9_arenadata9/hive-hcatalog-2.3.9_arenadata9.jar returned status 404

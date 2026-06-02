@@ -40,3 +40,5 @@
 0.22.7-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-apollo/0.22.7-rc.1/capture-apollo-0.22.7-rc.1.jar returned status 404
 0.22.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-apollo/0.22.8/capture-apollo-0.22.8.jar returned status 404
 0.22.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-apollo/0.22.9/capture-apollo-0.22.9.jar returned status 404
+0.23.0		2026-05-20T14:15:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-apollo/0.23.0/capture-apollo-0.23.0.jar returned status 404
+0.23.1		2026-05-29T09:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-apollo/0.23.1/capture-apollo-0.23.1.jar returned status 404

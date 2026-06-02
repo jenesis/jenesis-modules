@@ -1,3 +1,6 @@
+9.10		2026-05-26T03:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.10/avaje-metrics-parent-9.10.jar returned status 404
+9.11		2026-05-27T22:53:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.11/avaje-metrics-parent-9.11.jar returned status 404
+9.12		2026-05-28T11:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.12/avaje-metrics-parent-9.12.jar returned status 404
 9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.5/avaje-metrics-parent-9.5.jar returned status 404
 9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.6/avaje-metrics-parent-9.6.jar returned status 404
 9.6-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.6-RC1/avaje-metrics-parent-9.6-RC1.jar returned status 404
@@ -11,5 +14,12 @@
 9.7-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.7-RC2/avaje-metrics-parent-9.7-RC2.jar returned status 404
 9.7-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.7-RC3/avaje-metrics-parent-9.7-RC3.jar returned status 404
 9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.8/avaje-metrics-parent-9.8.jar returned status 404
+9.9		2026-05-25T22:39:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9/avaje-metrics-parent-9.9.jar returned status 404
 9.9-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC1/avaje-metrics-parent-9.9-RC1.jar returned status 404
 9.9-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC2/avaje-metrics-parent-9.9-RC2.jar returned status 404
+9.9-RC3		2026-05-20T07:19:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC3/avaje-metrics-parent-9.9-RC3.jar returned status 404
+9.9-RC4		2026-05-21T04:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC4/avaje-metrics-parent-9.9-RC4.jar returned status 404
+9.9-RC5		2026-05-21T10:33:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC5/avaje-metrics-parent-9.9-RC5.jar returned status 404
+9.9-RC6		2026-05-21T22:03:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC6/avaje-metrics-parent-9.9-RC6.jar returned status 404
+9.9-RC7		2026-05-22T00:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC7/avaje-metrics-parent-9.9-RC7.jar returned status 404
+9.9-RC8		2026-05-22T04:02:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-metrics-parent/9.9-RC8/avaje-metrics-parent-9.9-RC8.jar returned status 404

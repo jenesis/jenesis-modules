@@ -123,3 +123,5 @@
 2.0.0	named	com.guicedee.modules.services	metrics-core	2026-04-27T02:53:22Z	2.0.0
 2.0.1	named	com.guicedee.modules.services	metrics-core	2026-05-03T12:42:22Z	2.0.1
 2.0.2	named	com.guicedee.modules.services	metrics-core	2026-05-10T14:38:11Z	2.0.2
+4.2.39	automatic	io.dropwizard.metrics	metrics-core	2026-05-25T20:39:17Z	
+5.0.7	automatic	io.dropwizard.metrics5	metrics-legacy-adapter	2026-05-25T20:40:53Z	

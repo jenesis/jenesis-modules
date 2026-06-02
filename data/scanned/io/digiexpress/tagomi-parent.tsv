@@ -23,6 +23,7 @@
 5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/5.3.6/tagomi-parent-5.3.6.jar returned status 404
 5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/5.3.7/tagomi-parent-5.3.7.jar returned status 404
 5.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/5.3.8/tagomi-parent-5.3.8.jar returned status 404
+5.3.9		2026-05-27T12:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/5.3.9/tagomi-parent-5.3.9.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/6.0.1/tagomi-parent-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/6.0.2/tagomi-parent-6.0.2.jar returned status 404
 6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/tagomi-parent/6.0.3/tagomi-parent-6.0.3.jar returned status 404

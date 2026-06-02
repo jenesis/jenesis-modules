@@ -39,5 +39,6 @@
 2.0.4-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.0.4-beta.1/crossx-sdk-webkit-2.0.4-beta.1.jar returned status 404
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.0.5/crossx-sdk-webkit-2.0.5.jar returned status 404
 2.0.5-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.0.5-beta.1/crossx-sdk-webkit-2.0.5-beta.1.jar returned status 404
+2.2.0		2026-05-19T07:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.2.0/crossx-sdk-webkit-2.2.0.jar returned status 404
 2.2.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.2.0-beta.1/crossx-sdk-webkit-2.2.0-beta.1.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/crosstoken/cross/crossx-sdk-webkit/2.2.1/crossx-sdk-webkit-2.2.1.jar returned status 404

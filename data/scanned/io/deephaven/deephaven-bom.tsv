@@ -93,3 +93,4 @@
 41.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/deephaven/deephaven-bom/41.4/deephaven-bom-41.4.jar returned status 404
 41.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/deephaven/deephaven-bom/41.5/deephaven-bom-41.5.jar returned status 404
 41.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/deephaven/deephaven-bom/41.6/deephaven-bom-41.6.jar returned status 404
+41.7		2026-05-22T17:22:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/deephaven/deephaven-bom/41.7/deephaven-bom-41.7.jar returned status 404

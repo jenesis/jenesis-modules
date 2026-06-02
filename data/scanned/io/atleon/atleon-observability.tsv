@@ -22,3 +22,4 @@
 0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-observability/0.40.0/atleon-observability-0.40.0.jar returned status 404
 0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-observability/0.41.0/atleon-observability-0.41.0.jar returned status 404
 0.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-observability/0.41.1/atleon-observability-0.41.1.jar returned status 404
+0.42.0		2026-05-20T12:44:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-observability/0.42.0/atleon-observability-0.42.0.jar returned status 404
