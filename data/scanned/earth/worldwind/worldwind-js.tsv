@@ -49,6 +49,7 @@
 1.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.13.4/worldwind-js-1.13.4.jar returned status 404
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.14.0/worldwind-js-1.14.0.jar returned status 404
 1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.14.1/worldwind-js-1.14.1.jar returned status 404
+1.14.2		2026-05-22T11:25:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.14.2/worldwind-js-1.14.2.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.2.0/worldwind-js-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.2.1/worldwind-js-1.2.1.jar returned status 404
 1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/1.2.10/worldwind-js-1.2.10.jar returned status 404

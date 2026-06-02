@@ -9,6 +9,7 @@
 0.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.16/data-layoutinspector-connector-0.10.16.jar returned status 404
 0.10.17		2026-05-18T07:26:23Z	
 0.10.18		2026-05-18T12:25:37Z	
+0.10.19		2026-05-19T10:31:20Z	
 0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.2/data-layoutinspector-connector-0.10.2.jar returned status 404
 0.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.3/data-layoutinspector-connector-0.10.3.jar returned status 404
 0.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.4/data-layoutinspector-connector-0.10.4.jar returned status 404
@@ -17,6 +18,10 @@
 0.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.7/data-layoutinspector-connector-0.10.7.jar returned status 404
 0.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.8/data-layoutinspector-connector-0.10.8.jar returned status 404
 0.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-layoutinspector-connector/0.10.9/data-layoutinspector-connector-0.10.9.jar returned status 404
+0.11.0		2026-05-22T10:21:02Z	
+0.11.10		2026-05-25T15:58:46Z	
+0.11.11		2026-05-26T08:41:58Z	
+0.11.12		2026-05-26T22:46:51Z	
 0.11.13		2026-05-27T15:25:00Z	
 0.11.14		2026-05-28T08:07:38Z	
 0.11.15		2026-05-28T23:02:37Z	
