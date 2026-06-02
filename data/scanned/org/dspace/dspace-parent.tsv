@@ -1,8 +1,12 @@
+10.0		2026-05-28T17:53:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/10.0/dspace-parent-10.0.jar returned status 404
 10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/10.0-rc1/dspace-parent-10.0-rc1.jar returned status 404
 7.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/7.6.4/dspace-parent-7.6.4.jar returned status 404
 7.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/7.6.5/dspace-parent-7.6.5.jar returned status 404
 7.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/7.6.6/dspace-parent-7.6.6.jar returned status 404
+7.6.7		2026-05-27T21:53:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/7.6.7/dspace-parent-7.6.7.jar returned status 404
 8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/8.2/dspace-parent-8.2.jar returned status 404
 8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/8.3/dspace-parent-8.3.jar returned status 404
+8.4		2026-05-28T15:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/8.4/dspace-parent-8.4.jar returned status 404
 9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/9.1/dspace-parent-9.1.jar returned status 404
 9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/9.2/dspace-parent-9.2.jar returned status 404
+9.3		2026-05-28T16:42:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-parent/9.3/dspace-parent-9.3.jar returned status 404

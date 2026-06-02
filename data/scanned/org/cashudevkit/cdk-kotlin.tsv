@@ -26,6 +26,10 @@
 0.16.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.16.0-rc.1/cdk-kotlin-0.16.0-rc.1.jar returned status 404
 0.16.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.16.0-rc.2/cdk-kotlin-0.16.0-rc.2.jar returned status 404
 0.16.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.16.0-rc.3/cdk-kotlin-0.16.0-rc.3.jar returned status 404
+0.17.0-rc-onchain		2026-05-19T11:54:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.17.0-rc-onchain/cdk-kotlin-0.17.0-rc-onchain.jar returned status 404
+0.17.0-rc.0		2026-05-22T14:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.17.0-rc.0/cdk-kotlin-0.17.0-rc.0.jar returned status 404
+0.17.0-rc.1-onchain		2026-05-20T22:42:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.17.0-rc.1-onchain/cdk-kotlin-0.17.0-rc.1-onchain.jar returned status 404
+0.17.0-rc.2-onchain		2026-05-21T23:27:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/0.17.0-rc.2-onchain/cdk-kotlin-0.17.0-rc.2-onchain.jar returned status 404
 v0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/v0.13.0/cdk-kotlin-v0.13.0.jar returned status 404
 v0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/v0.13.1/cdk-kotlin-v0.13.1.jar returned status 404
 v0.14.1-rc0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cashudevkit/cdk-kotlin/v0.14.1-rc0/cdk-kotlin-v0.14.1-rc0.jar returned status 404

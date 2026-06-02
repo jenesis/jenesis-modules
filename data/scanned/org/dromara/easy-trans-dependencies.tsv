@@ -1,7 +1,9 @@
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/2.3.2/easy-trans-dependencies-2.3.2.jar returned status 404
 2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/2.3.3/easy-trans-dependencies-2.3.3.jar returned status 404
 2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/2.3.4/easy-trans-dependencies-2.3.4.jar returned status 404
+2.3.5		2026-05-22T02:02:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/2.3.5/easy-trans-dependencies-2.3.5.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/3.1.2/easy-trans-dependencies-3.1.2.jar returned status 404
 3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/3.1.3/easy-trans-dependencies-3.1.3.jar returned status 404
 3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/3.1.4/easy-trans-dependencies-3.1.4.jar returned status 404
 3.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/3.1.5/easy-trans-dependencies-3.1.5.jar returned status 404
+3.1.6		2026-05-21T04:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/easy-trans-dependencies/3.1.6/easy-trans-dependencies-3.1.6.jar returned status 404

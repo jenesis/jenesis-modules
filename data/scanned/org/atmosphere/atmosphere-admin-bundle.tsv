@@ -1,1 +1,4 @@
 4.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-admin-bundle/4.0.46/atmosphere-admin-bundle-4.0.46.jar returned status 404
+4.0.47		2026-05-21T13:11:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-admin-bundle/4.0.47/atmosphere-admin-bundle-4.0.47.jar returned status 404
+4.0.48		2026-05-25T01:12:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-admin-bundle/4.0.48/atmosphere-admin-bundle-4.0.48.jar returned status 404
+4.0.49		2026-05-28T22:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-admin-bundle/4.0.49/atmosphere-admin-bundle-4.0.49.jar returned status 404

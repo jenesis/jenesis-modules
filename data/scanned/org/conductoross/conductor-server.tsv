@@ -111,6 +111,9 @@
 3.3.0.rc8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.3.0.rc8/conductor-server-3.3.0.rc8.jar returned status 404
 3.3.0.rc8	boot	2026-04-06T21:14:15Z	
 3.3.0.rc8	plain	2026-04-06T21:14:15Z	
+3.30.0		2026-05-21T21:37:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0/conductor-server-3.30.0.jar returned status 404
+3.30.0	boot	2026-05-21T21:37:25Z	
+3.30.0	plain	2026-05-21T21:37:25Z	
 3.30.0.rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc1/conductor-server-3.30.0.rc1.jar returned status 404
 3.30.0.rc1	boot	2026-04-13T06:35:39Z	
 3.30.0.rc1	plain	2026-04-13T06:35:39Z	
@@ -132,6 +135,15 @@
 3.30.0.rc15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc15/conductor-server-3.30.0.rc15.jar returned status 404
 3.30.0.rc15	boot	2026-05-15T18:33:33Z	
 3.30.0.rc15	plain	2026-05-15T18:33:33Z	
+3.30.0.rc16		2026-05-18T22:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc16/conductor-server-3.30.0.rc16.jar returned status 404
+3.30.0.rc16	boot	2026-05-18T22:24:39Z	
+3.30.0.rc16	plain	2026-05-18T22:24:39Z	
+3.30.0.rc17		2026-05-20T15:22:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc17/conductor-server-3.30.0.rc17.jar returned status 404
+3.30.0.rc17	boot	2026-05-20T15:22:09Z	
+3.30.0.rc17	plain	2026-05-20T15:22:09Z	
+3.30.0.rc18		2026-05-21T18:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc18/conductor-server-3.30.0.rc18.jar returned status 404
+3.30.0.rc18	boot	2026-05-21T18:30:53Z	
+3.30.0.rc18	plain	2026-05-21T18:30:53Z	
 3.30.0.rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc2/conductor-server-3.30.0.rc2.jar returned status 404
 3.30.0.rc2	boot	2026-04-17T19:40:24Z	
 3.30.0.rc2	plain	2026-04-17T19:40:24Z	
@@ -156,3 +168,9 @@
 3.30.0.rc9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.0.rc9/conductor-server-3.30.0.rc9.jar returned status 404
 3.30.0.rc9	boot	2026-05-04T22:33:29Z	
 3.30.0.rc9	plain	2026-05-04T22:33:29Z	
+3.30.1		2026-05-22T06:40:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.30.1/conductor-server-3.30.1.jar returned status 404
+3.30.1	boot	2026-05-22T06:40:53Z	
+3.30.1	plain	2026-05-22T06:40:53Z	
+3.31.0-rc1		2026-05-22T22:47:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conductoross/conductor-server/3.31.0-rc1/conductor-server-3.31.0-rc1.jar returned status 404
+3.31.0-rc1	boot	2026-05-22T22:47:29Z	
+3.31.0-rc1	plain	2026-05-22T22:47:28Z	

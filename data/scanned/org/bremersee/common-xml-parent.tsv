@@ -1,3 +1,4 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/common-xml-parent/3.2.0/common-xml-parent-3.2.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/common-xml-parent/5.0.0/common-xml-parent-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/common-xml-parent/5.1.0/common-xml-parent-5.1.0.jar returned status 404
+5.1.1		2026-05-25T12:00:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/common-xml-parent/5.1.1/common-xml-parent-5.1.1.jar returned status 404

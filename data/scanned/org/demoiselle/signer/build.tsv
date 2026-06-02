@@ -1,1 +1,2 @@
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/demoiselle/signer/build/4.5.0/build-4.5.0.jar returned status 404
+4.5.1		2026-05-18T14:42:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/demoiselle/signer/build/4.5.1/build-4.5.1.jar returned status 404

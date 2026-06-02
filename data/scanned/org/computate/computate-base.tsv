@@ -1,1 +1,2 @@
 4.5.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/computate/computate-base/4.5.24.1/computate-base-4.5.24.1.jar returned status 404
+4.5.27.1		2026-05-27T02:01:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/computate/computate-base/4.5.27.1/computate-base-4.5.27.1.jar returned status 404

@@ -169,3 +169,13 @@
 2.5.2	osx-x86_64	2021-03-30T12:13:37Z	
 2.5.2	windows-x86	2021-03-29T17:29:11Z	
 2.5.2	windows-x86_64	2021-03-29T17:29:13Z	
+2.6-alpha		2026-05-27T11:33:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-openjdk/2.6-alpha/conscrypt-openjdk-2.6-alpha.jar returned status 404
+2.6-alpha	linux-x86_64	2026-05-27T11:33:47Z	
+2.6-alpha	osx-aarch_64	2026-05-27T11:33:47Z	
+2.6-alpha	osx-x86_64	2026-05-27T11:33:47Z	
+2.6-alpha	windows-x86_64	2026-05-27T11:33:47Z	
+2.6-alpha2		2026-05-28T17:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-openjdk/2.6-alpha2/conscrypt-openjdk-2.6-alpha2.jar returned status 404
+2.6-alpha2	linux-x86_64	2026-05-28T17:48:51Z	
+2.6-alpha2	osx-aarch_64	2026-05-28T17:48:51Z	
+2.6-alpha2	osx-x86_64	2026-05-28T17:48:51Z	
+2.6-alpha2	windows-x86_64	2026-05-28T17:48:51Z	
