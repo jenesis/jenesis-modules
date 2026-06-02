@@ -6,6 +6,9 @@
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.14.0/dokimos-parent-0.14.0.jar returned status 404
 0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.14.1/dokimos-parent-0.14.1.jar returned status 404
 0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.14.2/dokimos-parent-0.14.2.jar returned status 404
+0.15.0		2026-05-28T11:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.15.0/dokimos-parent-0.15.0.jar returned status 404
+0.16.0		2026-05-30T20:48:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.16.0/dokimos-parent-0.16.0.jar returned status 404
+0.17.0		2026-05-31T08:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.17.0/dokimos-parent-0.17.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.2.0/dokimos-parent-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.3.0/dokimos-parent-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/dokimos/dokimos-parent/0.4.0/dokimos-parent-0.4.0.jar returned status 404

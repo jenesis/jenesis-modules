@@ -144,3 +144,4 @@ next	named	org.wiremock.integrations	wiremock-spring-boot-standalone	2024-10-09T
 1.1.0	named	io.github.jdbcx	io.modelcontextprotocol	2026-03-16T00:17:15Z	2.0.0
 3.0.2	named	com.networknt	json-schema-validator	2026-04-15T01:00:12Z	3.0.2
 1.1.1	named	io.github.jdbcx	io.modelcontextprotocol	2026-05-04T02:54:53Z	2.0.0
+0.15.0	named	dev.dokimos	dokimos-mcp-server	2026-05-28T11:40:11Z	2.0.0

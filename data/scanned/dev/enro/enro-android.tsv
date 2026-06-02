@@ -11,3 +11,5 @@
 3.0.0-alpha08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-android/3.0.0-alpha08/enro-android-3.0.0-alpha08.jar returned status 404
 3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-android/3.0.0-alpha09/enro-android-3.0.0-alpha09.jar returned status 404
 3.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-android/3.0.0-alpha10/enro-android-3.0.0-alpha10.jar returned status 404
+3.0.0-alpha11		2026-05-19T09:35:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-android/3.0.0-alpha11/enro-android-3.0.0-alpha11.jar returned status 404
+3.0.0-beta01		2026-05-27T04:33:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-android/3.0.0-beta01/enro-android-3.0.0-beta01.jar returned status 404

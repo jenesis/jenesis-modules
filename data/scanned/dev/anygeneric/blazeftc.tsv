@@ -1,2 +1,4 @@
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anygeneric/blazeftc/0.1.2/blazeftc-0.1.2.jar returned status 404
 0.1.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anygeneric/blazeftc/0.1.23/blazeftc-0.1.23.jar returned status 404
+0.1.24		2026-05-25T20:42:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anygeneric/blazeftc/0.1.24/blazeftc-0.1.24.jar returned status 404
+0.1.36		2026-05-30T15:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anygeneric/blazeftc/0.1.36/blazeftc-0.1.36.jar returned status 404

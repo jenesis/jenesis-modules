@@ -191,6 +191,8 @@
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.29.0/micro_utils.coroutines-android-0.29.0.jar returned status 404
 0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.29.1/micro_utils.coroutines-android-0.29.1.jar returned status 404
 0.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.29.2/micro_utils.coroutines-android-0.29.2.jar returned status 404
+0.29.3		2026-05-21T15:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.29.3/micro_utils.coroutines-android-0.29.3.jar returned status 404
+0.29.4		2026-05-23T12:25:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.29.4/micro_utils.coroutines-android-0.29.4.jar returned status 404
 0.4.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.4.24/micro_utils.coroutines-android-0.4.24.jar returned status 404
 0.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.4.25/micro_utils.coroutines-android-0.4.25.jar returned status 404
 0.4.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines-android/0.4.26/micro_utils.coroutines-android-0.4.26.jar returned status 404

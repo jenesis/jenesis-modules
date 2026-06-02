@@ -43,3 +43,5 @@
 3.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/elements-jetty-ws/3.7.26/elements-jetty-ws-3.7.26.jar returned status 404
 3.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/elements-jetty-ws/3.7.27/elements-jetty-ws-3.7.27.jar returned status 404
 3.7.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/elements-jetty-ws/3.7.28/elements-jetty-ws-3.7.28.jar returned status 404
+3.8.3		2026-05-23T16:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/elements-jetty-ws/3.8.3/elements-jetty-ws-3.8.3.jar returned status 404
+3.8.4		2026-05-26T14:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/elements-jetty-ws/3.8.4/elements-jetty-ws-3.8.4.jar returned status 404

@@ -190,6 +190,8 @@
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.29.0/micro_utils.matrix-android-debug-0.29.0.jar returned status 404
 0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.29.1/micro_utils.matrix-android-debug-0.29.1.jar returned status 404
 0.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.29.2/micro_utils.matrix-android-debug-0.29.2.jar returned status 404
+0.29.3		2026-05-21T15:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.29.3/micro_utils.matrix-android-debug-0.29.3.jar returned status 404
+0.29.4		2026-05-23T12:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.29.4/micro_utils.matrix-android-debug-0.29.4.jar returned status 404
 0.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.4.25/micro_utils.matrix-android-debug-0.4.25.jar returned status 404
 0.4.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.4.26/micro_utils.matrix-android-debug-0.4.26.jar returned status 404
 0.4.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.matrix-android-debug/0.4.27/micro_utils.matrix-android-debug-0.4.27.jar returned status 404

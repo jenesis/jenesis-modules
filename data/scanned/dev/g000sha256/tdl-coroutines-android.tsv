@@ -5,6 +5,7 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/1.5.0/tdl-coroutines-android-1.5.0.jar returned status 404
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/10.0.0/tdl-coroutines-android-10.0.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/11.0.0/tdl-coroutines-android-11.0.0.jar returned status 404
+12.0.0		2026-05-19T19:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/12.0.0/tdl-coroutines-android-12.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/2.0.0/tdl-coroutines-android-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/3.0.0/tdl-coroutines-android-3.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/g000sha256/tdl-coroutines-android/4.0.0/tdl-coroutines-android-4.0.0.jar returned status 404
