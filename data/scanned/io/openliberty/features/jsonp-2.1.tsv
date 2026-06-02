@@ -36,3 +36,4 @@
 26.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonp-2.1/26.0.0.2/jsonp-2.1-26.0.0.2.jar returned status 404
 26.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonp-2.1/26.0.0.3/jsonp-2.1-26.0.0.3.jar returned status 404
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonp-2.1/26.0.0.4/jsonp-2.1-26.0.0.4.jar returned status 404
+26.0.0.5		2026-05-13T20:46:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonp-2.1/26.0.0.5/jsonp-2.1-26.0.0.5.jar returned status 404

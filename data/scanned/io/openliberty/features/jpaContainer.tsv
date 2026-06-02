@@ -18,3 +18,4 @@
 26.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jpaContainer/26.0.0.2/jpaContainer-26.0.0.2.jar returned status 404
 26.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jpaContainer/26.0.0.3/jpaContainer-26.0.0.3.jar returned status 404
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jpaContainer/26.0.0.4/jpaContainer-26.0.0.4.jar returned status 404
+26.0.0.5		2026-05-13T20:46:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jpaContainer/26.0.0.5/jpaContainer-26.0.0.5.jar returned status 404
