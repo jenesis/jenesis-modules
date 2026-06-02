@@ -88,3 +88,7 @@
 5.2.1	plain	2026-04-08T08:04:07Z	
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/otto/jlineup-core/5.3.0/jlineup-core-5.3.0.jar returned status 404
 5.3.0	plain	2026-04-15T09:11:38Z	
+6.0.0		2026-05-19T19:28:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/otto/jlineup-core/6.0.0/jlineup-core-6.0.0.jar returned status 404
+6.0.0	plain	2026-05-19T19:28:14Z	
+6.0.1		2026-05-26T14:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/otto/jlineup-core/6.0.1/jlineup-core-6.0.1.jar returned status 404
+6.0.1	plain	2026-05-26T14:25:30Z	

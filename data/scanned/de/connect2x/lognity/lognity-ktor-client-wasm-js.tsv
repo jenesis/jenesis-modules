@@ -8,3 +8,4 @@
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-ktor-client-wasm-js/1.4.2/lognity-ktor-client-wasm-js-1.4.2.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-ktor-client-wasm-js/1.5.0/lognity-ktor-client-wasm-js-1.5.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-ktor-client-wasm-js/1.6.0/lognity-ktor-client-wasm-js-1.6.0.jar returned status 404
+2.0.0		2026-05-29T18:10:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-ktor-client-wasm-js/2.0.0/lognity-ktor-client-wasm-js-2.0.0.jar returned status 404

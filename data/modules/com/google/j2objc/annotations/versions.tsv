@@ -144,3 +144,6 @@
 1.1.1	named	dev.zacsweers.metro	gradle-plugin	2026-05-14T04:16:24Z	3.1
 4.1.2	named	com.scylladb	spark-scylladb-connector-assembly_2.13	2026-05-14T04:55:23Z	3.0.0
 4.19.0.9	named	com.scylladb	java-driver-guava-shaded	2026-05-14T11:12:39Z	3.0.0
+5.6.1	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-05-19T12:10:47Z	3.0.0
+5.6.2	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-05-26T18:43:04Z	3.0.0
+5.7.0	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-05-27T13:32:29Z	3.0.0
