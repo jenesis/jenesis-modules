@@ -2684,3 +2684,10 @@ io.smallrye.mutiny.context
 io.smallrye.mutiny.math
 io.smallrye.mutiny
 io.smallrye.modules
+com.plaid.production
+io.quarkus.qute.generator
+io.quarkus.qute.debug
+io.quarkus.qute
+io.smallrye.common.net
+org.wildfly.common
+io.smallrye.common.ref
