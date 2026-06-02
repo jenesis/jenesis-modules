@@ -25,3 +25,4 @@
 0.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/ad-id-amazon/0.8.8/ad-id-amazon-0.8.8.jar returned status 404
 0.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/ad-id-amazon/0.8.9/ad-id-amazon-0.8.9.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/ad-id-amazon/0.9.0/ad-id-amazon-0.9.0.jar returned status 404
+0.9.1		2026-05-28T17:09:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/ad-id-amazon/0.9.1/ad-id-amazon-0.9.1.jar returned status 404

@@ -11,3 +11,4 @@
 5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/java-operator-sdk/5.3.1/java-operator-sdk-5.3.1.jar returned status 404
 5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/java-operator-sdk/5.3.2/java-operator-sdk-5.3.2.jar returned status 404
 5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/java-operator-sdk/5.3.3/java-operator-sdk-5.3.3.jar returned status 404
+5.3.4		2026-05-19T08:11:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/java-operator-sdk/5.3.4/java-operator-sdk-5.3.4.jar returned status 404

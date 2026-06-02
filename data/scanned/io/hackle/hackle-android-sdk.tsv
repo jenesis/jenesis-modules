@@ -101,6 +101,7 @@
 2.65.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.65.0/hackle-android-sdk-2.65.0.jar returned status 404
 2.66.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.66.0/hackle-android-sdk-2.66.0.jar returned status 404
 2.66.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.66.1/hackle-android-sdk-2.66.1.jar returned status 404
+2.67.0		2026-05-20T02:10:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.67.0/hackle-android-sdk-2.67.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.7.0/hackle-android-sdk-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.8.0/hackle-android-sdk-2.8.0.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hackle/hackle-android-sdk/2.9.0/hackle-android-sdk-2.9.0.jar returned status 404

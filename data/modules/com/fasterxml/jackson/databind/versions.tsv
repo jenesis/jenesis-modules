@@ -4177,6 +4177,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.3.1	named	org.apache.tika	tika-detector-magika	2026-05-20T20:15:23Z	2.21.3
 3.3.1	named	org.apache.tika	tika-pipes-reporter-fs-status	2026-05-20T20:31:31Z	2.21.3
 3.1.4-3.0.0	named	org.apache.seatunnel	seatunnel-shade-hadoop3-uber	2026-05-22T02:12:32Z	2.13.3
+0.1.3	named	io.hyperfoil.tools	jjq-benchmark	2026-05-22T10:18:38Z	2.18.2
 1.2.0	named	org.apache.hudi	hudi-hadoop-mr-bundle	2026-05-22T19:47:57Z	2.15.2
 1.2.0	named	org.apache.hudi	hudi-hive-sync-bundle	2026-05-22T19:48:31Z	2.15.2
 1.2.0	named	org.apache.hudi	hudi-kafka-connect-bundle	2026-05-22T19:54:44Z	2.15.2
