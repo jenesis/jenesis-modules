@@ -11,11 +11,15 @@
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.0.3/vaadin-testbench-bom-10.0.3.jar returned status 404
 10.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.0.4/vaadin-testbench-bom-10.0.4.jar returned status 404
 10.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.0.5/vaadin-testbench-bom-10.0.5.jar returned status 404
+10.0.6		2026-05-22T08:08:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.0.6/vaadin-testbench-bom-10.0.6.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.0/vaadin-testbench-bom-10.1.0.jar returned status 404
 10.1.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.0-beta1/vaadin-testbench-bom-10.1.0-beta1.jar returned status 404
 10.1.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.0-beta2/vaadin-testbench-bom-10.1.0-beta2.jar returned status 404
 10.1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.0-rc1/vaadin-testbench-bom-10.1.0-rc1.jar returned status 404
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.1/vaadin-testbench-bom-10.1.1.jar returned status 404
+10.1.2		2026-05-22T08:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.1.2/vaadin-testbench-bom-10.1.2.jar returned status 404
+10.2.0-beta1		2026-05-26T08:43:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/10.2.0-beta1/vaadin-testbench-bom-10.2.0-beta1.jar returned status 404
+25.2.0-beta1		2026-05-26T08:27:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/25.2.0-beta1/vaadin-testbench-bom-25.2.0-beta1.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/6.0.1/vaadin-testbench-bom-6.0.1.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/6.1.0/vaadin-testbench-bom-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/6.2.0/vaadin-testbench-bom-6.2.0.jar returned status 404
@@ -46,5 +50,7 @@
 9.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.5.3/vaadin-testbench-bom-9.5.3.jar returned status 404
 9.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.5.4/vaadin-testbench-bom-9.5.4.jar returned status 404
 9.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.5.5/vaadin-testbench-bom-9.5.5.jar returned status 404
+9.5.6		2026-05-22T07:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.5.6/vaadin-testbench-bom-9.5.6.jar returned status 404
 9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.6.0/vaadin-testbench-bom-9.6.0.jar returned status 404
 9.6.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.6.0-beta1/vaadin-testbench-bom-9.6.0-beta1.jar returned status 404
+9.6.1		2026-05-22T07:00:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-testbench-bom/9.6.1/vaadin-testbench-bom-9.6.1.jar returned status 404

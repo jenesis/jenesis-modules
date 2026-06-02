@@ -26,6 +26,7 @@
 3.1.1385		2025-12-24T20:52:49Z	
 3.1.1408		2026-02-02T20:51:38Z	
 3.1.1431		2026-03-30T03:25:17Z	
+3.1.1470		2026-05-20T18:55:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencentcloudapi/tencentcloud-sdk-java-tts/3.1.1470/tencentcloud-sdk-java-tts-3.1.1470.jar returned status 404
 3.1.179		2020-12-16T11:06:40Z	
 3.1.179	jar-with-dependencies	2020-12-16T12:38:10Z	
 3.1.180		2020-12-17T01:49:50Z	

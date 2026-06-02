@@ -26,4 +26,9 @@
 1.0.1-beta.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-beta.76/sdk-core-1.0.1-beta.76.jar returned status 404
 1.0.1-beta.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-beta.78/sdk-core-1.0.1-beta.78.jar returned status 404
 1.0.1-beta.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-beta.80/sdk-core-1.0.1-beta.80.jar returned status 404
+1.0.1-beta.85		2026-05-19T16:15:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-beta.85/sdk-core-1.0.1-beta.85.jar returned status 404
 1.0.1-dev.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-dev.77/sdk-core-1.0.1-dev.77.jar returned status 404
+1.0.1-rc.86		2026-05-20T17:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.1-rc.86/sdk-core-1.0.1-rc.86.jar returned status 404
+1.0.2		2026-05-19T14:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.2/sdk-core-1.0.2.jar returned status 404
+1.0.2-beta.84		2026-05-19T15:00:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.2-beta.84/sdk-core-1.0.2-beta.84.jar returned status 404
+1.0.2-rc.83		2026-05-19T14:52:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-core/1.0.2-rc.83/sdk-core-1.0.2-rc.83.jar returned status 404

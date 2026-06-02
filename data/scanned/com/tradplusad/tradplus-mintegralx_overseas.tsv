@@ -122,3 +122,4 @@
 18.15.8.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-mintegralx_overseas/18.15.8.20.1/tradplus-mintegralx_overseas-18.15.8.20.1.jar returned status 404
 18.15.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-mintegralx_overseas/18.15.9.0.1/tradplus-mintegralx_overseas-18.15.9.0.1.jar returned status 404
 18.16.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-mintegralx_overseas/18.16.0.0.1/tradplus-mintegralx_overseas-18.16.0.0.1.jar returned status 404
+18.16.1.0.1		2026-05-25T02:49:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-mintegralx_overseas/18.16.1.0.1/tradplus-mintegralx_overseas-18.16.1.0.1.jar returned status 404

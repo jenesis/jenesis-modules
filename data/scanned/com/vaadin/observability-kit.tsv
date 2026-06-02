@@ -1,7 +1,10 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/3.2.0/observability-kit-3.2.0.jar returned status 404
 3.2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/3.2.0-beta1/observability-kit-3.2.0-beta1.jar returned status 404
 3.2.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/3.2.0-rc1/observability-kit-3.2.0-rc1.jar returned status 404
+3.2.1		2026-05-21T08:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/3.2.1/observability-kit-3.2.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.0.0/observability-kit-4.0.0.jar returned status 404
 4.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.0.0-beta1/observability-kit-4.0.0-beta1.jar returned status 404
 4.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.0.0-rc1/observability-kit-4.0.0-rc1.jar returned status 404
+4.0.1		2026-05-22T12:39:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.0.1/observability-kit-4.0.1.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.1.0/observability-kit-4.1.0.jar returned status 404
+4.1.1		2026-05-19T11:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/observability-kit/4.1.1/observability-kit-4.1.1.jar returned status 404

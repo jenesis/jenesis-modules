@@ -1,0 +1,5 @@
+0.1.0		2026-05-21T15:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/traceitx/protocol/0.1.0/protocol-0.1.0.jar returned status 404
+0.2.0		2026-05-25T07:12:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/traceitx/protocol/0.2.0/protocol-0.2.0.jar returned status 404
+0.2.3		2026-05-25T11:26:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/traceitx/protocol/0.2.3/protocol-0.2.3.jar returned status 404
+0.4.0		2026-05-29T10:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/traceitx/protocol/0.4.0/protocol-0.4.0.jar returned status 404
+0.4.1		2026-05-30T08:26:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/traceitx/protocol/0.4.1/protocol-0.4.1.jar returned status 404

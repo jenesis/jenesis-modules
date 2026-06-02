@@ -7,3 +7,5 @@
 9.43.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ujusdk/uju-bd-adapter/9.43.7/uju-bd-adapter-9.43.7.jar returned status 404
 9.43.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ujusdk/uju-bd-adapter/9.43.8/uju-bd-adapter-9.43.8.jar returned status 404
 9.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ujusdk/uju-bd-adapter/9.45.0/uju-bd-adapter-9.45.0.jar returned status 404
+9.45.1		2026-05-28T03:28:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ujusdk/uju-bd-adapter/9.45.1/uju-bd-adapter-9.45.1.jar returned status 404
+9.45.2		2026-05-29T07:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ujusdk/uju-bd-adapter/9.45.2/uju-bd-adapter-9.45.2.jar returned status 404

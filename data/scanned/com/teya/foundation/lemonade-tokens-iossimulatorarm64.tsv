@@ -32,6 +32,18 @@
 0.15.2	metadata	2026-05-13T16:41:44Z	
 0.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.3/lemonade-tokens-iossimulatorarm64-0.15.3.jar returned status 404
 0.15.3	metadata	2026-05-14T16:53:43Z	
+0.15.4		2026-05-20T10:20:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.4/lemonade-tokens-iossimulatorarm64-0.15.4.jar returned status 404
+0.15.4	metadata	2026-05-20T10:20:07Z	
+0.15.5		2026-05-20T14:05:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.5/lemonade-tokens-iossimulatorarm64-0.15.5.jar returned status 404
+0.15.5	metadata	2026-05-20T14:05:46Z	
+0.15.6		2026-05-29T00:25:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.6/lemonade-tokens-iossimulatorarm64-0.15.6.jar returned status 404
+0.15.6	metadata	2026-05-29T00:25:06Z	
+0.15.7		2026-05-29T14:02:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.7/lemonade-tokens-iossimulatorarm64-0.15.7.jar returned status 404
+0.15.7	metadata	2026-05-29T14:02:23Z	
+0.15.8		2026-05-30T22:02:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.15.8/lemonade-tokens-iossimulatorarm64-0.15.8.jar returned status 404
+0.15.8	metadata	2026-05-30T22:02:19Z	
+0.16.0		2026-05-31T11:15:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.16.0/lemonade-tokens-iossimulatorarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-05-31T11:15:39Z	
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.8.3/lemonade-tokens-iossimulatorarm64-0.8.3.jar returned status 404
 0.8.3	metadata	2026-04-07T08:52:40Z	
 0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-tokens-iossimulatorarm64/0.8.4/lemonade-tokens-iossimulatorarm64-0.8.4.jar returned status 404

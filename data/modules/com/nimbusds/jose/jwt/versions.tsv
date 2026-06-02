@@ -127,3 +127,4 @@
 10.9	named	com.nimbusds	nimbus-jose-jwt	2026-04-02T18:48:36Z	10.9
 2.9.0	named	fish.payara.security.connectors	openid-standalone	2026-04-30T15:23:55Z	9.39.1
 2.9.0	named	fish.payara.security.connectors	security-connector-oidc-client	2026-04-30T15:23:55Z	9.39.1
+3.0.2	named	com.vaadin	license-checker-machineid	2026-05-20T11:28:16Z	10.3.1
