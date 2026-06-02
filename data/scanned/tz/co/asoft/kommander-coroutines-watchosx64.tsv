@@ -74,3 +74,5 @@
 3.3.6	metadata	2026-02-26T23:38:16Z	
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kommander-coroutines-watchosx64/3.3.7/kommander-coroutines-watchosx64-3.3.7.jar returned status 404
 3.3.7	metadata	2026-02-27T10:38:18Z	
+3.3.8		2026-05-22T12:51:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kommander-coroutines-watchosx64/3.3.8/kommander-coroutines-watchosx64-3.3.8.jar returned status 404
+3.3.8	metadata	2026-05-22T12:51:22Z	

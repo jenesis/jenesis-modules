@@ -1,5 +1,10 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.0.0/nostr-java-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.0.1/nostr-java-1.0.1.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.2.1/nostr-java-1.2.1.jar returned status 404
+1.3.0		2026-05-27T06:41:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/1.3.0/nostr-java-1.3.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.0/nostr-java-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.1/nostr-java-2.0.1.jar returned status 404
+2.0.4		2026-05-26T01:24:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.4/nostr-java-2.0.4.jar returned status 404
+2.0.5		2026-05-26T01:50:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.5/nostr-java-2.0.5.jar returned status 404
+2.0.6		2026-05-27T06:41:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.6/nostr-java-2.0.6.jar returned status 404
+2.0.7		2026-05-27T16:30:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.7/nostr-java-2.0.7.jar returned status 404

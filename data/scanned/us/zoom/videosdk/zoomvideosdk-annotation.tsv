@@ -40,5 +40,6 @@
 2.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.4.12/zoomvideosdk-annotation-2.4.12.jar returned status 404
 2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.4.5/zoomvideosdk-annotation-2.4.5.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.5.0/zoomvideosdk-annotation-2.5.0.jar returned status 404
+2.5.10		2026-05-20T18:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.5.10/zoomvideosdk-annotation-2.5.10.jar returned status 404
 2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.5.5/zoomvideosdk-annotation-2.5.5.jar returned status 404
 2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/videosdk/zoomvideosdk-annotation/2.5.7/zoomvideosdk-annotation-2.5.7.jar returned status 404

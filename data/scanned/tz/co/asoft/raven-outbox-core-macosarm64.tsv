@@ -46,3 +46,5 @@
 3.3.6	metadata	2026-02-26T23:45:18Z	
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-core-macosarm64/3.3.7/raven-outbox-core-macosarm64-3.3.7.jar returned status 404
 3.3.7	metadata	2026-02-27T10:46:19Z	
+3.3.8		2026-05-22T12:58:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-core-macosarm64/3.3.8/raven-outbox-core-macosarm64-3.3.8.jar returned status 404
+3.3.8	metadata	2026-05-22T12:58:27Z	

@@ -1,3 +1,4 @@
 3.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/klip-system-linuxx64/3.0.15/klip-system-linuxx64-3.0.15.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/klip-system-linuxx64/3.1.1/klip-system-linuxx64-3.1.1.jar returned status 404
 3.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/klip-system-linuxx64/3.1.11/klip-system-linuxx64-3.1.11.jar returned status 404
+3.3.8		2026-05-22T12:52:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/klip-system-linuxx64/3.3.8/klip-system-linuxx64-3.3.8.jar returned status 404

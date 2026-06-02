@@ -1,3 +1,4 @@
 5.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/base-pom/5.0.16/base-pom-5.0.16.jar returned status 404
 5.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/base-pom/5.0.17/base-pom-5.0.17.jar returned status 404
 5.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/base-pom/5.0.18/base-pom-5.0.18.jar returned status 404
+5.0.19		2026-05-08T16:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/base-pom/5.0.19/base-pom-5.0.19.jar returned status 404

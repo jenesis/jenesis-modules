@@ -54,3 +54,9 @@
 2.4.0	plain	2026-05-05T08:33:58Z	
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-subject-access-request-test-support/2.4.1/hmpps-subject-access-request-test-support-2.4.1.jar returned status 404
 2.4.1	plain	2026-05-07T14:48:30Z	
+2.4.2		2026-05-18T14:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-subject-access-request-test-support/2.4.2/hmpps-subject-access-request-test-support-2.4.2.jar returned status 404
+2.4.2	plain	2026-05-18T14:31:35Z	
+2.4.3		2026-05-26T13:43:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-subject-access-request-test-support/2.4.3/hmpps-subject-access-request-test-support-2.4.3.jar returned status 404
+2.4.3	plain	2026-05-26T13:43:46Z	
+2.5.0		2026-05-28T09:34:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-subject-access-request-test-support/2.5.0/hmpps-subject-access-request-test-support-2.5.0.jar returned status 404
+2.5.0	plain	2026-05-28T09:34:58Z	

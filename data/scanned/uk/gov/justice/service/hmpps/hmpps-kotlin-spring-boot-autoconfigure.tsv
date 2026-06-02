@@ -156,3 +156,11 @@
 2.2.0	plain	2026-04-29T08:48:31Z	
 2.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/2.2.0-beta/hmpps-kotlin-spring-boot-autoconfigure-2.2.0-beta.jar returned status 404
 2.2.0-beta	plain	2026-04-27T14:37:45Z	
+2.3.0		2026-05-19T09:55:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/2.3.0/hmpps-kotlin-spring-boot-autoconfigure-2.3.0.jar returned status 404
+2.3.0	plain	2026-05-19T09:55:36Z	
+2.3.0-beta		2026-05-18T14:48:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/2.3.0-beta/hmpps-kotlin-spring-boot-autoconfigure-2.3.0-beta.jar returned status 404
+2.3.0-beta	plain	2026-05-18T14:48:56Z	
+2.4.0		2026-05-20T16:02:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/2.4.0/hmpps-kotlin-spring-boot-autoconfigure-2.4.0.jar returned status 404
+2.4.0	plain	2026-05-20T16:02:23Z	
+2.5.0		2026-05-21T13:27:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/2.5.0/hmpps-kotlin-spring-boot-autoconfigure-2.5.0.jar returned status 404
+2.5.0	plain	2026-05-21T13:27:59Z	
