@@ -171,6 +171,10 @@
 4.11.7	html-docs	2025-10-29T12:58:37Z	
 4.11.7-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.11.7-rc.1/ditto-4.11.7-rc.1.jar returned status 404
 4.11.7-rc.1	html-docs	2025-10-27T15:11:00Z	
+4.11.8-experimental-gha-workflow.1		2026-05-18T21:36:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.11.8-experimental-gha-workflow.1/ditto-4.11.8-experimental-gha-workflow.1.jar returned status 404
+4.11.8-experimental-gha-workflow.1	html-docs	2026-05-18T21:36:59Z	
+4.11.8-experimental-gha-workflow.2		2026-05-19T00:18:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.11.8-experimental-gha-workflow.2/ditto-4.11.8-experimental-gha-workflow.2.jar returned status 404
+4.11.8-experimental-gha-workflow.2	html-docs	2026-05-19T00:18:04Z	
 4.11.8-preview.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.11.8-preview.0/ditto-4.11.8-preview.0.jar returned status 404
 4.11.8-preview.0	html-docs	2026-05-17T17:27:39Z	
 4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.0/ditto-4.12.0.jar returned status 404
@@ -311,10 +315,16 @@
 4.12.6-experimental-dial9.1	html-docs	2026-04-29T16:52:05Z	
 4.12.6-experimental-dial9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-dial9.2/ditto-4.12.6-experimental-dial9.2.jar returned status 404
 4.12.6-experimental-dial9.2	html-docs	2026-05-15T19:59:59Z	
+4.12.6-experimental-dial9.7		2026-05-20T21:08:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-dial9.7/ditto-4.12.6-experimental-dial9.7.jar returned status 404
+4.12.6-experimental-dial9.7	html-docs	2026-05-20T21:08:44Z	
+4.12.6-experimental-dial9.8		2026-05-22T21:08:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-dial9.8/ditto-4.12.6-experimental-dial9.8.jar returned status 404
+4.12.6-experimental-dial9.8	html-docs	2026-05-22T21:08:40Z	
 4.12.6-experimental-gha-workflow-kotlin-only.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-gha-workflow-kotlin-only.1/ditto-4.12.6-experimental-gha-workflow-kotlin-only.1.jar returned status 404
 4.12.6-experimental-gha-workflow-kotlin-only.1	html-docs	2026-05-07T16:41:23Z	
 4.12.6-experimental-gha-workflow.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-gha-workflow.2/ditto-4.12.6-experimental-gha-workflow.2.jar returned status 404
 4.12.6-experimental-gha-workflow.2	html-docs	2026-05-08T18:20:40Z	
+4.12.6-experimental-lq-dispatch.3		2026-05-28T23:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-lq-dispatch.3/ditto-4.12.6-experimental-lq-dispatch.3.jar returned status 404
+4.12.6-experimental-lq-dispatch.3	html-docs	2026-05-28T23:16:22Z	
 4.12.6-experimental-pre-tokio-blocking-work			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-pre-tokio-blocking-work/ditto-4.12.6-experimental-pre-tokio-blocking-work.jar returned status 404
 4.12.6-experimental-pre-tokio-blocking-work	html-docs	2026-04-21T16:57:59Z	
 4.12.6-experimental-pre-tokio-upgrade			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-pre-tokio-upgrade/ditto-4.12.6-experimental-pre-tokio-upgrade.jar returned status 404

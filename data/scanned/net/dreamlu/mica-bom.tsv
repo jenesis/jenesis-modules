@@ -80,3 +80,4 @@
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dreamlu/mica-bom/3.5.7/mica-bom-3.5.7.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dreamlu/mica-bom/4.0.0/mica-bom-4.0.0.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dreamlu/mica-bom/4.0.2/mica-bom-4.0.2.jar returned status 404
+4.0.6		2026-05-26T11:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dreamlu/mica-bom/4.0.6/mica-bom-4.0.6.jar returned status 404

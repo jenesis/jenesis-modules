@@ -30,3 +30,4 @@
 1.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/grishka/appkit/appkit/1.4.9/appkit-1.4.9.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/grishka/appkit/appkit/1.5.0/appkit-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/grishka/appkit/appkit/1.5.1/appkit-1.5.1.jar returned status 404
+1.5.3		2026-05-20T13:06:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/grishka/appkit/appkit/1.5.3/appkit-1.5.3.jar returned status 404

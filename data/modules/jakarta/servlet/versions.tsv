@@ -207,3 +207,4 @@
 4.1.3	named	org.apache.myfaces.core	myfaces-bundle	2026-04-30T16:39:45Z	6.1
 11.0.22	named	org.apache.tomcat	tomcat-servlet-api	2026-05-01T20:39:19Z	6.1
 10.1.55	named	org.apache.tomcat	tomcat-servlet-api	2026-05-05T13:39:32Z	6.0
+6.2.0-M2	named	jakarta.servlet	jakarta.servlet-api	2026-05-18T11:43:27Z	6.2.0-M2

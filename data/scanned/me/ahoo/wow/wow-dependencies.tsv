@@ -562,6 +562,7 @@
 6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.21.0/wow-dependencies-6.21.0.jar returned status 404
 6.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.21.2/wow-dependencies-6.21.2.jar returned status 404
 6.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.21.3/wow-dependencies-6.21.3.jar returned status 404
+6.21.5		2026-05-19T02:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.21.5/wow-dependencies-6.21.5.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.3.0/wow-dependencies-6.3.0.jar returned status 404
 6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.3.1/wow-dependencies-6.3.1.jar returned status 404
 6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/6.3.2/wow-dependencies-6.3.2.jar returned status 404
@@ -625,3 +626,5 @@
 8.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/8.3.4/wow-dependencies-8.3.4.jar returned status 404
 8.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/8.3.5/wow-dependencies-8.3.5.jar returned status 404
 8.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/8.3.6/wow-dependencies-8.3.6.jar returned status 404
+8.3.8		2026-05-19T01:35:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/8.3.8/wow-dependencies-8.3.8.jar returned status 404
+8.3.9		2026-05-19T02:40:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/8.3.9/wow-dependencies-8.3.9.jar returned status 404

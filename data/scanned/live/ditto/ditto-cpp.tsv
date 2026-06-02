@@ -42,6 +42,8 @@
 4.11.6-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.6-rc.3/ditto-cpp-4.11.6-rc.3.jar returned status 404
 4.11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.7/ditto-cpp-4.11.7.jar returned status 404
 4.11.7-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.7-rc.1/ditto-cpp-4.11.7-rc.1.jar returned status 404
+4.11.8-experimental-gha-workflow.1		2026-05-18T21:57:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.8-experimental-gha-workflow.1/ditto-cpp-4.11.8-experimental-gha-workflow.1.jar returned status 404
+4.11.8-experimental-gha-workflow.2		2026-05-19T00:38:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.8-experimental-gha-workflow.2/ditto-cpp-4.11.8-experimental-gha-workflow.2.jar returned status 404
 4.11.8-preview.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.11.8-preview.0/ditto-cpp-4.11.8-preview.0.jar returned status 404
 4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.12.0/ditto-cpp-4.12.0.jar returned status 404
 4.12.0-experimental-js-persistence-directory.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.12.0-experimental-js-persistence-directory.1/ditto-cpp-4.12.0-experimental-js-persistence-directory.1.jar returned status 404

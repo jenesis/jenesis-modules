@@ -41,3 +41,6 @@
 1.0.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.58/paypro-sdk-1.0.58.jar returned status 404
 1.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.59/paypro-sdk-1.0.59.jar returned status 404
 1.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.60/paypro-sdk-1.0.60.jar returned status 404
+1.0.61		2026-05-18T08:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.61/paypro-sdk-1.0.61.jar returned status 404
+1.0.63		2026-05-22T04:20:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.63/paypro-sdk-1.0.63.jar returned status 404
+1.0.64		2026-05-25T10:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mn/lambda/paypro-sdk/1.0.64/paypro-sdk-1.0.64.jar returned status 404

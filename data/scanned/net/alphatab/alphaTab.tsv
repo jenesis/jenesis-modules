@@ -12,3 +12,4 @@
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/alphatab/alphaTab/1.8.0/alphaTab-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/alphatab/alphaTab/1.8.1/alphaTab-1.8.1.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/alphatab/alphaTab/1.8.2/alphaTab-1.8.2.jar returned status 404
+1.8.3		2026-05-24T19:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/alphatab/alphaTab/1.8.3/alphaTab-1.8.3.jar returned status 404

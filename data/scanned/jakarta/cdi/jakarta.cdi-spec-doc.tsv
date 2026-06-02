@@ -3,3 +3,4 @@
 5.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-spec-doc/5.0.0.Alpha4/jakarta.cdi-spec-doc-5.0.0.Alpha4.jar returned status 404
 5.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-spec-doc/5.0.0.Alpha5/jakarta.cdi-spec-doc-5.0.0.Alpha5.jar returned status 404
 5.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-spec-doc/5.0.0.Alpha6/jakarta.cdi-spec-doc-5.0.0.Alpha6.jar returned status 404
+5.0.0.Beta1		2026-05-19T14:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/cdi/jakarta.cdi-spec-doc/5.0.0.Beta1/jakarta.cdi-spec-doc-5.0.0.Beta1.jar returned status 404

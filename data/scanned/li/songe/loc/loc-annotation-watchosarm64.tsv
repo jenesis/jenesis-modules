@@ -14,3 +14,5 @@
 0.6.1	metadata	2026-04-13T07:39:25Z	
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/loc/loc-annotation-watchosarm64/0.6.2/loc-annotation-watchosarm64-0.6.2.jar returned status 404
 0.6.2	metadata	2026-04-13T08:50:37Z	
+0.7.0		2026-05-25T09:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/loc/loc-annotation-watchosarm64/0.7.0/loc-annotation-watchosarm64-0.7.0.jar returned status 404
+0.7.0	metadata	2026-05-25T09:54:41Z	

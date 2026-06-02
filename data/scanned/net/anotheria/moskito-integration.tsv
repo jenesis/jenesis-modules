@@ -1,1 +1,3 @@
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-integration/4.0.6/moskito-integration-4.0.6.jar returned status 404
+4.0.7		2026-05-30T07:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-integration/4.0.7/moskito-integration-4.0.7.jar returned status 404
+4.0.8		2026-05-30T09:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-integration/4.0.8/moskito-integration-4.0.8.jar returned status 404
