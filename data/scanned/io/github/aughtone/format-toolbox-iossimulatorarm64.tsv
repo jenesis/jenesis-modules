@@ -4,3 +4,5 @@
 2.1.2	metadata	2026-04-24T21:00:04Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-toolbox-iossimulatorarm64/2.2.0/format-toolbox-iossimulatorarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-05-13T16:50:17Z	
+3.0.0		2026-05-31T01:51:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-toolbox-iossimulatorarm64/3.0.0/format-toolbox-iossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-05-31T01:51:18Z	

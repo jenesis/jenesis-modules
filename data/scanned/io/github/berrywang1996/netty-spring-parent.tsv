@@ -1,0 +1,5 @@
+1.4.0		2026-05-29T08:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/berrywang1996/netty-spring-parent/1.4.0/netty-spring-parent-1.4.0.jar returned status 404
+1.6.2		2026-05-29T08:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/berrywang1996/netty-spring-parent/1.6.2/netty-spring-parent-1.6.2.jar returned status 404
+1.7.0		2026-05-29T08:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/berrywang1996/netty-spring-parent/1.7.0/netty-spring-parent-1.7.0.jar returned status 404
+1.7.1		2026-05-29T08:37:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/berrywang1996/netty-spring-parent/1.7.1/netty-spring-parent-1.7.1.jar returned status 404
+1.8.0		2026-05-30T04:26:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/berrywang1996/netty-spring-parent/1.8.0/netty-spring-parent-1.8.0.jar returned status 404

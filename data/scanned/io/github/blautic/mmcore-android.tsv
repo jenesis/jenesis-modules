@@ -46,6 +46,14 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.1/mmcore-android-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10/mmcore-android-2.0.10.jar returned status 404
 2.0.10b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10b/mmcore-android-2.0.10b.jar returned status 404
+2.0.10c		2026-05-22T06:27:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10c/mmcore-android-2.0.10c.jar returned status 404
+2.0.10d		2026-05-22T08:23:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10d/mmcore-android-2.0.10d.jar returned status 404
+2.0.10e		2026-05-22T08:50:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10e/mmcore-android-2.0.10e.jar returned status 404
+2.0.10f		2026-05-22T09:13:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10f/mmcore-android-2.0.10f.jar returned status 404
+2.0.10g		2026-05-22T09:54:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10g/mmcore-android-2.0.10g.jar returned status 404
+2.0.10h		2026-05-22T10:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10h/mmcore-android-2.0.10h.jar returned status 404
+2.0.10j		2026-05-22T12:40:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.10j/mmcore-android-2.0.10j.jar returned status 404
+2.0.11		2026-05-29T09:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.11/mmcore-android-2.0.11.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.2/mmcore-android-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.3/mmcore-android-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-android/2.0.4/mmcore-android-2.0.4.jar returned status 404

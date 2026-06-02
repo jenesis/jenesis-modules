@@ -15,3 +15,4 @@
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arttttt/simplemvi/simplemvi-wasm-js/0.7.0/simplemvi-wasm-js-0.7.0.jar returned status 404
 0.7.0-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arttttt/simplemvi/simplemvi-wasm-js/0.7.0-test/simplemvi-wasm-js-0.7.0-test.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arttttt/simplemvi/simplemvi-wasm-js/0.7.1/simplemvi-wasm-js-0.7.1.jar returned status 404
+0.8.0		2026-05-25T00:05:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arttttt/simplemvi/simplemvi-wasm-js/0.8.0/simplemvi-wasm-js-0.8.0.jar returned status 404

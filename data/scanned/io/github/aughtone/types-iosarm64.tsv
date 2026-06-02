@@ -22,3 +22,7 @@
 2.1.0	metadata	2026-05-09T06:10:07Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/types-iosarm64/2.2.0/types-iosarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-05-13T16:06:04Z	
+2.2.1		2026-05-21T02:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/types-iosarm64/2.2.1/types-iosarm64-2.2.1.jar returned status 404
+2.2.1	metadata	2026-05-21T02:31:24Z	
+3.0.0		2026-05-30T03:44:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/types-iosarm64/3.0.0/types-iosarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-05-30T03:44:40Z	

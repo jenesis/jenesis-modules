@@ -1,0 +1,2 @@
+0.1.0		2026-05-26T04:05:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/caobahuong/kafka-connect-dynamic-filter/0.1.0/kafka-connect-dynamic-filter-0.1.0.jar returned status 404
+0.1.1		2026-05-26T04:21:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/caobahuong/kafka-connect-dynamic-filter/0.1.1/kafka-connect-dynamic-filter-0.1.1.jar returned status 404
