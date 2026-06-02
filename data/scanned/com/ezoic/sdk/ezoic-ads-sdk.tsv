@@ -1,1 +1,4 @@
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ezoic/sdk/ezoic-ads-sdk/1.0.0-rc1/ezoic-ads-sdk-1.0.0-rc1.jar returned status 404
+1.0.0-rc2		2026-05-20T20:33:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ezoic/sdk/ezoic-ads-sdk/1.0.0-rc2/ezoic-ads-sdk-1.0.0-rc2.jar returned status 404
+1.0.0-rc3		2026-05-22T19:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ezoic/sdk/ezoic-ads-sdk/1.0.0-rc3/ezoic-ads-sdk-1.0.0-rc3.jar returned status 404
+1.0.0-rc4		2026-05-27T16:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ezoic/sdk/ezoic-ads-sdk/1.0.0-rc4/ezoic-ads-sdk-1.0.0-rc4.jar returned status 404

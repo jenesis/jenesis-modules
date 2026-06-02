@@ -177,6 +177,9 @@
 6.31.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.31.7/pager-6.31.7.jar returned status 404
 6.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.32.0/pager-6.32.0.jar returned status 404
 6.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.32.1/pager-6.32.1.jar returned status 404
+6.32.2		2026-05-20T07:08:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.32.2/pager-6.32.2.jar returned status 404
+6.32.3		2026-05-20T09:40:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.32.3/pager-6.32.3.jar returned status 404
+6.32.4		2026-05-25T14:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.32.4/pager-6.32.4.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.4.0/pager-6.4.0.jar returned status 404
 6.4.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.4.0-RC.10/pager-6.4.0-RC.10.jar returned status 404
 6.4.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/pager/6.4.0-RC.11/pager-6.4.0-RC.11.jar returned status 404

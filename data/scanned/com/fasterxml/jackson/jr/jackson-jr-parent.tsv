@@ -1,6 +1,7 @@
 2.18.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.18.5/jackson-jr-parent-2.18.5.jar returned status 404
 2.18.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.18.6/jackson-jr-parent-2.18.6.jar returned status 404
 2.18.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.18.7/jackson-jr-parent-2.18.7.jar returned status 404
+2.18.8		2026-05-29T00:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.18.8/jackson-jr-parent-2.18.8.jar returned status 404
 2.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.19.1/jackson-jr-parent-2.19.1.jar returned status 404
 2.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.19.2/jackson-jr-parent-2.19.2.jar returned status 404
 2.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.19.3/jackson-jr-parent-2.19.3.jar returned status 404
@@ -13,3 +14,5 @@
 2.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.21.1/jackson-jr-parent-2.21.1.jar returned status 404
 2.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.21.2/jackson-jr-parent-2.21.2.jar returned status 404
 2.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.21.3/jackson-jr-parent-2.21.3.jar returned status 404
+2.21.4		2026-05-29T04:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.21.4/jackson-jr-parent-2.21.4.jar returned status 404
+2.22.0		2026-06-01T00:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jr/jackson-jr-parent/2.22.0/jackson-jr-parent-2.22.0.jar returned status 404

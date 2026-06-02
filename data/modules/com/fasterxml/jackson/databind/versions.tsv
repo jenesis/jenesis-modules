@@ -4194,3 +4194,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.6.2	named	net.thisptr	jackson-jq-cli	2026-05-24T07:45:26Z	2.21.2
 7.0.8.Final	named	org.jboss.galleon	galleon-cli	2026-05-27T22:15:20Z	2.14.2
 0.1.0-RC2	named	com.sparkutils	kogito_shaded	2026-05-28T09:16:34Z	2.19.2
+2.18.8	named	com.fasterxml.jackson.core	jackson-databind	2026-05-29T00:40:39Z	2.18.8
+2.21.4	named	com.fasterxml.jackson.core	jackson-databind	2026-05-29T04:22:05Z	2.21.4
+2.22.0	named	com.fasterxml.jackson.core	jackson-databind	2026-06-01T00:09:53Z	2.22.0

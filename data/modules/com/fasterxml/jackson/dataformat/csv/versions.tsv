@@ -197,3 +197,6 @@ v0.10.3-rc5	named	com.linkedin.feathr	feathr_2.12	2022-12-08T20:13:25Z	2.12.6
 2.21.2	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-03-20T16:58:40Z	2.21.2
 2.18.7	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-04-24T20:51:42Z	2.18.7
 2.21.3	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-04-28T20:25:07Z	2.21.3
+2.18.8	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-05-29T00:52:53Z	2.18.8
+2.21.4	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-05-29T04:30:58Z	2.21.4
+2.22.0	named	com.fasterxml.jackson.dataformat	jackson-dataformat-csv	2026-06-01T00:36:34Z	2.22.0

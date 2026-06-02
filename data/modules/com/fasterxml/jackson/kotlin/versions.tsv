@@ -81,3 +81,6 @@
 0.6.0	named	io.inji.certify	mock-certify-plugin	2026-03-24T06:29:50Z	2.12.7
 2.18.7	named	com.fasterxml.jackson.module	jackson-module-kotlin	2026-04-24T21:15:47Z	2.18.7
 2.21.3	named	com.fasterxml.jackson.module	jackson-module-kotlin	2026-04-28T20:45:12Z	2.21.3
+2.18.8	named	com.fasterxml.jackson.module	jackson-module-kotlin	2026-05-29T01:16:27Z	2.18.8
+2.21.4	named	com.fasterxml.jackson.module	jackson-module-kotlin	2026-05-29T04:58:13Z	2.21.4
+2.22.0	named	com.fasterxml.jackson.module	jackson-module-kotlin	2026-06-01T01:59:58Z	2.22.0

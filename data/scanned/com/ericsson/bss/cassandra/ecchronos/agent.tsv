@@ -1,6 +1,8 @@
+1.0.0		2026-05-27T06:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0/agent-1.0.0.jar returned status 404
 1.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta1/agent-1.0.0-beta1.jar returned status 404
 1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta2/agent-1.0.0-beta2.jar returned status 404
 1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta3/agent-1.0.0-beta3.jar returned status 404
 1.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta4/agent-1.0.0-beta4.jar returned status 404
 1.0.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta5/agent-1.0.0-beta5.jar returned status 404
 1.0.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta6/agent-1.0.0-beta6.jar returned status 404
+1.0.0-beta7		2026-05-22T09:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ericsson/bss/cassandra/ecchronos/agent/1.0.0-beta7/agent-1.0.0-beta7.jar returned status 404
