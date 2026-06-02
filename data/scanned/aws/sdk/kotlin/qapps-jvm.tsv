@@ -487,5 +487,21 @@
 1.6.76	optimized	2026-05-18T18:58:42Z	
 1.6.77		2026-05-19T18:53:34Z	
 1.6.77	optimized	2026-05-19T18:53:22Z	
+1.6.78		2026-05-20T18:53:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/qapps-jvm/1.6.78/qapps-jvm-1.6.78.jar returned status 404
+1.6.78	optimized	2026-05-20T18:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/qapps-jvm/1.6.78/qapps-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:52:37Z	
+1.6.79	optimized	2026-05-21T20:51:45Z	
 1.6.8		2026-02-02T19:37:57Z	
+1.6.80		2026-05-22T18:46:45Z	
+1.6.80	optimized	2026-05-22T18:46:40Z	
+1.6.81		2026-05-26T19:02:06Z	
+1.6.81	optimized	2026-05-26T19:02:06Z	
+1.6.82		2026-05-27T18:49:15Z	
+1.6.82	optimized	2026-05-27T18:49:29Z	
+1.6.83		2026-05-28T18:55:44Z	
+1.6.83	optimized	2026-05-28T18:55:14Z	
+1.6.84		2026-05-29T18:51:20Z	
+1.6.84	optimized	2026-05-29T18:51:15Z	
+1.6.85		2026-06-01T18:46:27Z	
+1.6.85	optimized	2026-06-01T18:45:15Z	
 1.6.9		2026-02-03T19:47:12Z	

@@ -721,5 +721,21 @@
 1.6.76	optimized	2026-05-18T18:59:16Z	
 1.6.77		2026-05-19T18:53:59Z	
 1.6.77	optimized	2026-05-19T18:53:53Z	
+1.6.78		2026-05-20T18:54:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/resourcegroups-jvm/1.6.78/resourcegroups-jvm-1.6.78.jar returned status 404
+1.6.78	optimized	2026-05-20T18:53:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/resourcegroups-jvm/1.6.78/resourcegroups-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:51:30Z	
+1.6.79	optimized	2026-05-21T20:52:37Z	
 1.6.8		2026-02-02T19:37:58Z	
+1.6.80		2026-05-22T18:46:50Z	
+1.6.80	optimized	2026-05-22T18:47:10Z	
+1.6.81		2026-05-26T19:02:36Z	
+1.6.81	optimized	2026-05-26T19:02:04Z	
+1.6.82		2026-05-27T18:49:47Z	
+1.6.82	optimized	2026-05-27T18:50:01Z	
+1.6.83		2026-05-28T18:55:49Z	
+1.6.83	optimized	2026-05-28T18:56:06Z	
+1.6.84		2026-05-29T18:51:27Z	
+1.6.84	optimized	2026-05-29T18:51:16Z	
+1.6.85		2026-06-01T18:46:15Z	
+1.6.85	optimized	2026-06-01T18:46:08Z	
 1.6.9		2026-02-03T19:47:21Z	
