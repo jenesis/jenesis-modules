@@ -10,3 +10,5 @@
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/abra/abra-sdk/1.3.2/abra-sdk-1.3.2.jar returned status 404
 1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/abra/abra-sdk/1.3.3/abra-sdk-1.3.3.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/abra/abra-sdk/1.4.0/abra-sdk-1.4.0.jar returned status 404
+1.5.0		2026-06-01T13:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/abra/abra-sdk/1.5.0/abra-sdk-1.5.0.jar returned status 404
+1.5.1		2026-06-01T14:29:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/abra/abra-sdk/1.5.1/abra-sdk-1.5.1.jar returned status 404

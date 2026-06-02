@@ -50,6 +50,8 @@
 0.8.0	metadata	2026-04-10T23:48:30Z	
 0.8.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/0.8.0-rc-1/prompt-executor-bedrock-client-iosarm64-0.8.0-rc-1.jar returned status 404
 0.8.0-rc-1	metadata	2026-04-10T22:15:40Z	
+1.0.0		2026-05-21T14:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/1.0.0/prompt-executor-bedrock-client-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-05-21T14:49:54Z	
 1.0.0-preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/1.0.0-preview/prompt-executor-bedrock-client-iosarm64-1.0.0-preview.jar returned status 404
 1.0.0-preview	metadata	2026-05-16T21:23:56Z	
 1.0.0-preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/1.0.0-preview2/prompt-executor-bedrock-client-iosarm64-1.0.0-preview2.jar returned status 404
@@ -58,3 +60,5 @@
 1.0.0-preview3	metadata	2026-05-20T16:24:53Z	
 1.0.0-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/1.0.0-preview4/prompt-executor-bedrock-client-iosarm64-1.0.0-preview4.jar returned status 404
 1.0.0-preview4	metadata	2026-05-20T21:16:51Z	
+1.0.0-preview7		2026-05-21T09:24:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-bedrock-client-iosarm64/1.0.0-preview7/prompt-executor-bedrock-client-iosarm64-1.0.0-preview7.jar returned status 404
+1.0.0-preview7	metadata	2026-05-21T09:23:38Z	

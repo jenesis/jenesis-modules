@@ -1,0 +1,2 @@
+1.0.0-beta		2026-05-21T14:49:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-ktor-android/1.0.0-beta/koog-ktor-android-1.0.0-beta.jar returned status 404
+1.0.0-beta-preview7		2026-05-21T09:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-ktor-android/1.0.0-beta-preview7/koog-ktor-android-1.0.0-beta-preview7.jar returned status 404

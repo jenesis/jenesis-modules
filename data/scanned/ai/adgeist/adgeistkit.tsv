@@ -37,3 +37,4 @@
 1.1.19-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/adgeist/adgeistkit/1.1.19-beta/adgeistkit-1.1.19-beta.jar returned status 404
 1.1.20-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/adgeist/adgeistkit/1.1.20-beta/adgeistkit-1.1.20-beta.jar returned status 404
 1.1.21-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/adgeist/adgeistkit/1.1.21-beta/adgeistkit-1.1.21-beta.jar returned status 404
+1.1.22-beta		2026-06-01T07:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/adgeist/adgeistkit/1.1.22-beta/adgeistkit-1.1.22-beta.jar returned status 404

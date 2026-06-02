@@ -1,0 +1,2 @@
+1.0.0		2026-05-21T14:49:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-ollama-client-android/1.0.0/prompt-executor-ollama-client-android-1.0.0.jar returned status 404
+1.0.0-preview7		2026-05-21T09:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-ollama-client-android/1.0.0-preview7/prompt-executor-ollama-client-android-1.0.0-preview7.jar returned status 404

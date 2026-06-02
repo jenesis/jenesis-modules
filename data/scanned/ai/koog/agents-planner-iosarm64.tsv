@@ -10,6 +10,8 @@
 0.6.3	metadata	2026-02-25T13:39:12Z	
 0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/0.6.4/agents-planner-iosarm64-0.6.4.jar returned status 404
 0.6.4	metadata	2026-03-04T13:34:05Z	
+1.0.0-beta		2026-05-21T14:49:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/1.0.0-beta/agents-planner-iosarm64-1.0.0-beta.jar returned status 404
+1.0.0-beta	metadata	2026-05-21T14:49:42Z	
 1.0.0-beta-preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/1.0.0-beta-preview/agents-planner-iosarm64-1.0.0-beta-preview.jar returned status 404
 1.0.0-beta-preview	metadata	2026-05-16T21:23:53Z	
 1.0.0-beta-preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/1.0.0-beta-preview2/agents-planner-iosarm64-1.0.0-beta-preview2.jar returned status 404
@@ -18,3 +20,5 @@
 1.0.0-beta-preview3	metadata	2026-05-20T16:24:45Z	
 1.0.0-beta-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/1.0.0-beta-preview4/agents-planner-iosarm64-1.0.0-beta-preview4.jar returned status 404
 1.0.0-beta-preview4	metadata	2026-05-20T21:16:31Z	
+1.0.0-beta-preview7		2026-05-21T09:23:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-iosarm64/1.0.0-beta-preview7/agents-planner-iosarm64-1.0.0-beta-preview7.jar returned status 404
+1.0.0-beta-preview7	metadata	2026-05-21T09:23:56Z	

@@ -50,6 +50,8 @@
 0.8.0	metadata	2026-04-10T23:48:31Z	
 0.8.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/0.8.0-rc-1/agents-ext-iosarm64-0.8.0-rc-1.jar returned status 404
 0.8.0-rc-1	metadata	2026-04-10T22:15:46Z	
+1.0.0-beta		2026-05-21T14:49:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/1.0.0-beta/agents-ext-iosarm64-1.0.0-beta.jar returned status 404
+1.0.0-beta	metadata	2026-05-21T14:49:52Z	
 1.0.0-beta-preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/1.0.0-beta-preview/agents-ext-iosarm64-1.0.0-beta-preview.jar returned status 404
 1.0.0-beta-preview	metadata	2026-05-16T21:24:00Z	
 1.0.0-beta-preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/1.0.0-beta-preview2/agents-ext-iosarm64-1.0.0-beta-preview2.jar returned status 404
@@ -58,3 +60,5 @@
 1.0.0-beta-preview3	metadata	2026-05-20T16:25:07Z	
 1.0.0-beta-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/1.0.0-beta-preview4/agents-ext-iosarm64-1.0.0-beta-preview4.jar returned status 404
 1.0.0-beta-preview4	metadata	2026-05-20T21:16:42Z	
+1.0.0-beta-preview7		2026-05-21T09:23:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-ext-iosarm64/1.0.0-beta-preview7/agents-ext-iosarm64-1.0.0-beta-preview7.jar returned status 404
+1.0.0-beta-preview7	metadata	2026-05-21T09:23:34Z	
