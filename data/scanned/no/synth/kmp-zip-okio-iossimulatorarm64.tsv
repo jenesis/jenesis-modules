@@ -8,6 +8,8 @@
 0.11.1	metadata	2026-05-03T10:33:15Z	
 0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-iossimulatorarm64/0.11.2/kmp-zip-okio-iossimulatorarm64-0.11.2.jar returned status 404
 0.11.2	metadata	2026-05-05T06:59:20Z	
+0.11.3		2026-05-26T10:39:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-iossimulatorarm64/0.11.3/kmp-zip-okio-iossimulatorarm64-0.11.3.jar returned status 404
+0.11.3	metadata	2026-05-26T10:39:30Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-iossimulatorarm64/0.7.1/kmp-zip-okio-iossimulatorarm64-0.7.1.jar returned status 404
 0.7.1	metadata	2026-02-24T11:30:20Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-iossimulatorarm64/0.7.2/kmp-zip-okio-iossimulatorarm64-0.7.2.jar returned status 404
