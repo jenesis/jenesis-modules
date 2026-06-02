@@ -30,3 +30,5 @@
 1.0-beta22	metadata	2026-02-21T09:10:11Z	
 1.0-beta23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skyd666/compone-iossimulatorarm64/1.0-beta23/compone-iossimulatorarm64-1.0-beta23.jar returned status 404
 1.0-beta23	metadata	2026-02-22T16:47:21Z	
+1.0-beta24		2026-05-24T12:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skyd666/compone-iossimulatorarm64/1.0-beta24/compone-iossimulatorarm64-1.0-beta24.jar returned status 404
+1.0-beta24	metadata	2026-05-24T12:33:35Z	

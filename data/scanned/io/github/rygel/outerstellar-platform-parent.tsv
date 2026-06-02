@@ -4,3 +4,5 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rygel/outerstellar-platform-parent/1.5.0/outerstellar-platform-parent-1.5.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rygel/outerstellar-platform-parent/1.6.0/outerstellar-platform-parent-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rygel/outerstellar-platform-parent/1.6.1/outerstellar-platform-parent-1.6.1.jar returned status 404
+1.6.2		2026-05-26T04:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rygel/outerstellar-platform-parent/1.6.2/outerstellar-platform-parent-1.6.2.jar returned status 404
+3.6.4		2026-05-30T08:09:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rygel/outerstellar-platform-parent/3.6.4/outerstellar-platform-parent-3.6.4.jar returned status 404

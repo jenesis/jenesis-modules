@@ -8,3 +8,5 @@
 1.0.3	metadata	2026-02-11T16:36:14Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/robinpcrd/kotose-core-iossimulatorarm64/1.1.0/kotose-core-iossimulatorarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-02-13T09:04:18Z	
+1.2.0		2026-05-22T14:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/robinpcrd/kotose-core-iossimulatorarm64/1.2.0/kotose-core-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-05-22T14:51:10Z	
