@@ -54,3 +54,7 @@
 0.4.3	metadata	2026-03-29T23:09:21Z	
 0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-watchosarm32/0.4.4/amqp-client-watchosarm32-0.4.4.jar returned status 404
 0.4.4	metadata	2026-05-12T10:17:10Z	
+0.4.5		2026-05-23T11:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-watchosarm32/0.4.5/amqp-client-watchosarm32-0.4.5.jar returned status 404
+0.4.5	metadata	2026-05-23T11:08:06Z	
+0.4.6		2026-05-24T12:09:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-watchosarm32/0.4.6/amqp-client-watchosarm32-0.4.6.jar returned status 404
+0.4.6	metadata	2026-05-24T12:09:54Z	

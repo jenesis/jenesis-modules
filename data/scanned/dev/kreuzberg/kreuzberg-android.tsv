@@ -1,0 +1,2 @@
+5.0.0-rc.1		2026-05-25T09:39:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/kreuzberg-android/5.0.0-rc.1/kreuzberg-android-5.0.0-rc.1.jar returned status 404
+5.0.0-rc.2		2026-05-25T23:38:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/kreuzberg-android/5.0.0-rc.2/kreuzberg-android-5.0.0-rc.2.jar returned status 404

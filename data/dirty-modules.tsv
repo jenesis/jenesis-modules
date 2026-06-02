@@ -4644,3 +4644,17 @@ dev.zio.zio.blocks.combinators
 dev.zio.zio.blocks.codegen
 dev.zio.zio.blocks.chunk
 kotlinx.serialization.core
+dev.mohterbaord.fp4j.util
+dev.mohterbaord.fp4j.typespec
+dev.mohterbaord.fp4j.scope
+dev.mohterbaord.fp4j.core
+dev.mohterbaord.fp4j.apf
+dev.mohterbaord.fp4j
+dev.jfronny.serialize.xml
+dev.jfronny.serialize.json
+dev.jfronny.serialize.generator.core
+dev.jfronny.serialize.generator.annotations
+dev.jfronny.serialize.generator
+dev.jfronny.serialize.dsl
+dev.jfronny.serialize.databind.sql
+dev.jfronny.serialize.databind.api

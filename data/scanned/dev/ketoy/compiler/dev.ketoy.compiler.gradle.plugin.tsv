@@ -6,3 +6,4 @@
 0.3.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/compiler/dev.ketoy.compiler.gradle.plugin/0.3.1-alpha/dev.ketoy.compiler.gradle.plugin-0.3.1-alpha.jar returned status 404
 0.3.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/compiler/dev.ketoy.compiler.gradle.plugin/0.3.2-alpha/dev.ketoy.compiler.gradle.plugin-0.3.2-alpha.jar returned status 404
 0.3.3-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/compiler/dev.ketoy.compiler.gradle.plugin/0.3.3-alpha/dev.ketoy.compiler.gradle.plugin-0.3.3-alpha.jar returned status 404
+0.3.4-alpha		2026-05-19T06:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/compiler/dev.ketoy.compiler.gradle.plugin/0.3.4-alpha/dev.ketoy.compiler.gradle.plugin-0.3.4-alpha.jar returned status 404

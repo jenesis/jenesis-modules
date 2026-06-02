@@ -22,3 +22,4 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/compat-ktor-linuxarm64/2.5.0/compat-ktor-linuxarm64-2.5.0.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/compat-ktor-linuxarm64/2.5.1/compat-ktor-linuxarm64-2.5.1.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/compat-ktor-linuxarm64/2.5.2/compat-ktor-linuxarm64-2.5.2.jar returned status 404
+2.5.3		2026-05-29T13:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/compat-ktor-linuxarm64/2.5.3/compat-ktor-linuxarm64-2.5.3.jar returned status 404

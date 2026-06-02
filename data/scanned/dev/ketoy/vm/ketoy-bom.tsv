@@ -5,3 +5,4 @@
 0.3.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-bom/0.3.1-alpha/ketoy-bom-0.3.1-alpha.jar returned status 404
 0.3.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-bom/0.3.2-alpha/ketoy-bom-0.3.2-alpha.jar returned status 404
 0.3.3-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-bom/0.3.3-alpha/ketoy-bom-0.3.3-alpha.jar returned status 404
+0.3.4-alpha		2026-05-19T06:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-bom/0.3.4-alpha/ketoy-bom-0.3.4-alpha.jar returned status 404
