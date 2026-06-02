@@ -10,3 +10,4 @@
 0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/seregamorph/spring-test-smart-context-parent/0.7/spring-test-smart-context-parent-0.7.jar returned status 404
 0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/seregamorph/spring-test-smart-context-parent/0.8/spring-test-smart-context-parent-0.8.jar returned status 404
 0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/seregamorph/spring-test-smart-context-parent/0.9/spring-test-smart-context-parent-0.9.jar returned status 404
+1.0		2026-06-01T07:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/seregamorph/spring-test-smart-context-parent/1.0/spring-test-smart-context-parent-1.0.jar returned status 404
