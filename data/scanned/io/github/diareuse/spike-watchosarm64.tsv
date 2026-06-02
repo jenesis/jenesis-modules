@@ -14,3 +14,7 @@
 0.0.6	metadata	2026-05-04T01:06:40Z	
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-watchosarm64/0.0.7/spike-watchosarm64-0.0.7.jar returned status 404
 0.0.7	metadata	2026-05-18T01:11:50Z	
+0.0.8		2026-05-25T11:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-watchosarm64/0.0.8/spike-watchosarm64-0.0.8.jar returned status 404
+0.0.8	metadata	2026-05-25T11:08:10Z	
+0.0.9		2026-05-25T13:53:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-watchosarm64/0.0.9/spike-watchosarm64-0.0.9.jar returned status 404
+0.0.9	metadata	2026-05-25T13:53:32Z	

@@ -4,3 +4,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/composegears/leviathan-android/3.1.0/leviathan-android-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/composegears/leviathan-android/3.2.0/leviathan-android-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/composegears/leviathan-android/3.3.0/leviathan-android-3.3.0.jar returned status 404
+4.0.0		2026-05-21T15:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/composegears/leviathan-android/4.0.0/leviathan-android-4.0.0.jar returned status 404

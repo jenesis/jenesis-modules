@@ -58,3 +58,5 @@
 2026.04.24.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/dependencies/2026.04.24.01/dependencies-2026.04.24.01.jar returned status 404
 2026.04.24.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/dependencies/2026.04.24.02/dependencies-2026.04.24.02.jar returned status 404
 2026.05.17.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/dependencies/2026.05.17.01/dependencies-2026.05.17.01.jar returned status 404
+2026.05.19.01		2026-05-19T09:49:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/dependencies/2026.05.19.01/dependencies-2026.05.19.01.jar returned status 404
+2026.05.19.02		2026-05-19T13:31:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/dependencies/2026.05.19.02/dependencies-2026.05.19.02.jar returned status 404

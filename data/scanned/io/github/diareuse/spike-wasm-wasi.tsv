@@ -6,3 +6,5 @@
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-wasm-wasi/0.0.5/spike-wasm-wasi-0.0.5.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-wasm-wasi/0.0.6/spike-wasm-wasi-0.0.6.jar returned status 404
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-wasm-wasi/0.0.7/spike-wasm-wasi-0.0.7.jar returned status 404
+0.0.8		2026-05-25T11:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-wasm-wasi/0.0.8/spike-wasm-wasi-0.0.8.jar returned status 404
+0.0.9		2026-05-25T13:53:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-wasm-wasi/0.0.9/spike-wasm-wasi-0.0.9.jar returned status 404

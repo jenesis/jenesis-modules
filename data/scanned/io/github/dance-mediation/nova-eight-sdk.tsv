@@ -15,3 +15,6 @@
 8.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.4/nova-eight-sdk-8.2.4.jar returned status 404
 8.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.5/nova-eight-sdk-8.2.5.jar returned status 404
 8.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.6/nova-eight-sdk-8.2.6.jar returned status 404
+8.2.7		2026-05-25T11:15:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.7/nova-eight-sdk-8.2.7.jar returned status 404
+8.2.8		2026-05-27T04:28:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.8/nova-eight-sdk-8.2.8.jar returned status 404
+8.2.9		2026-05-28T08:32:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dance-mediation/nova-eight-sdk/8.2.9/nova-eight-sdk-8.2.9.jar returned status 404

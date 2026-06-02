@@ -16,3 +16,9 @@
 1.0.0	metadata	2026-05-03T21:11:45Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iosarm64/1.0.1/pdfkmp-iosarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-05-05T15:54:45Z	
+1.0.2		2026-05-25T10:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iosarm64/1.0.2/pdfkmp-iosarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-05-25T10:49:35Z	
+1.1.0		2026-05-29T20:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iosarm64/1.1.0/pdfkmp-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-05-29T20:05:03Z	
+1.1.1		2026-05-30T06:34:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iosarm64/1.1.1/pdfkmp-iosarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-05-30T06:34:50Z	

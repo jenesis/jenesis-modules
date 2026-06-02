@@ -6,6 +6,7 @@
 0.13.6-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.13.6-compose/adb-0.13.6-compose.jar returned status 404
 0.14.0-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.14.0-compose/adb-0.14.0-compose.jar returned status 404
 0.14.1-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.14.1-compose/adb-0.14.1-compose.jar returned status 404
+0.14.2-compose		2026-05-29T13:09:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.14.2-compose/adb-0.14.2-compose.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.2.0/adb-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.2.1/adb-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/adb/0.3.0/adb-0.3.0.jar returned status 404

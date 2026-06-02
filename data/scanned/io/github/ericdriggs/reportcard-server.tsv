@@ -60,3 +60,6 @@
 0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ericdriggs/reportcard-server/0.1.6/reportcard-server-0.1.6.jar returned status 404
 0.1.6	application	2024-06-24T19:26:44Z	
 0.1.6	plain	2024-06-24T19:26:50Z	
+0.2.0		2026-05-28T16:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ericdriggs/reportcard-server/0.2.0/reportcard-server-0.2.0.jar returned status 404
+0.2.0	application	2026-05-28T16:02:45Z	
+0.2.0	plain	2026-05-28T16:02:45Z	

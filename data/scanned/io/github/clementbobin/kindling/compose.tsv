@@ -1,0 +1,6 @@
+0.3.0		2026-05-22T08:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/0.3.0/compose-0.3.0.jar returned status 404
+1.0.0		2026-05-28T06:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/1.0.0/compose-1.0.0.jar returned status 404
+1.0.1		2026-05-29T11:26:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/1.0.1/compose-1.0.1.jar returned status 404
+1.0.2		2026-05-29T19:58:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/1.0.2/compose-1.0.2.jar returned status 404
+1.0.3		2026-05-29T20:44:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/1.0.3/compose-1.0.3.jar returned status 404
+1.0.4		2026-05-29T21:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/compose/1.0.4/compose-1.0.4.jar returned status 404

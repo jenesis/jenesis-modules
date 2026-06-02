@@ -5,3 +5,6 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.0.0/network-ws-core-android-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.1.0/network-ws-core-android-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.1.1/network-ws-core-android-1.1.1.jar returned status 404
+1.1.5		2026-05-21T23:47:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.1.5/network-ws-core-android-1.1.5.jar returned status 404
+1.1.7		2026-05-22T00:13:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.1.7/network-ws-core-android-1.1.7.jar returned status 404
+1.2.0		2026-05-27T17:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-android/1.2.0/network-ws-core-android-1.2.0.jar returned status 404

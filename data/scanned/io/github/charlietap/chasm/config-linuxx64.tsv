@@ -28,3 +28,4 @@
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/config-linuxx64/1.4.3/config-linuxx64-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/config-linuxx64/1.4.4/config-linuxx64-1.4.4.jar returned status 404
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/config-linuxx64/1.4.5/config-linuxx64-1.4.5.jar returned status 404
+1.4.6		2026-05-25T17:30:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/config-linuxx64/1.4.6/config-linuxx64-1.4.6.jar returned status 404

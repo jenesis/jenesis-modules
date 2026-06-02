@@ -18,6 +18,8 @@
 1.0.20+26.1.2	dev	2026-05-16T16:47:35Z	
 1.0.21+26.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/currenj/gelatinui/gelatinui-common/1.0.21+26.1.2/gelatinui-common-1.0.21+26.1.2.jar returned status 404
 1.0.21+26.1.2	dev	2026-05-16T23:17:19Z	
+1.0.22+26.1.2		2026-05-22T21:45:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/currenj/gelatinui/gelatinui-common/1.0.22+26.1.2/gelatinui-common-1.0.22+26.1.2.jar returned status 404
+1.0.22+26.1.2	dev	2026-05-22T21:45:28Z	
 1.0.3		2025-10-24T00:24:54Z	
 1.0.4		2025-10-24T19:13:42Z	
 1.0.5		2025-10-25T00:09:06Z	

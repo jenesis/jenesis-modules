@@ -124,6 +124,7 @@
 2.8.3+b330a20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.3+b330a20/token-core-2.8.3+b330a20.jar returned status 404
 2.8.3+b8e73a5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.3+b8e73a5/token-core-2.8.3+b8e73a5.jar returned status 404
 2.8.4+1883cb4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.4+1883cb4/token-core-2.8.4+1883cb4.jar returned status 404
+2.8.4+2e52956		2026-05-19T11:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.4+2e52956/token-core-2.8.4+2e52956.jar returned status 404
 2.8.4+ae0623f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.4+ae0623f/token-core-2.8.4+ae0623f.jar returned status 404
 2.8.4+c16862e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.4+c16862e/token-core-2.8.4+c16862e.jar returned status 404
 2.8.4+f78416d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/consenlabs/android/token-core/2.8.4+f78416d/token-core-2.8.4+f78416d.jar returned status 404

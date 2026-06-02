@@ -1,0 +1,2 @@
+1.0.0		2026-05-30T09:32:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/droidcap/openengage-okhttp/1.0.0/openengage-okhttp-1.0.0.jar returned status 404
+1.0.1		2026-05-30T09:41:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/droidcap/openengage-okhttp/1.0.1/openengage-okhttp-1.0.1.jar returned status 404

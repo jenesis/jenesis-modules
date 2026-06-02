@@ -21,3 +21,4 @@
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/address-linuxarm64/1.4.3/address-linuxarm64-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/address-linuxarm64/1.4.4/address-linuxarm64-1.4.4.jar returned status 404
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/address-linuxarm64/1.4.5/address-linuxarm64-1.4.5.jar returned status 404
+1.4.6		2026-05-25T17:30:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/address-linuxarm64/1.4.6/address-linuxarm64-1.4.6.jar returned status 404

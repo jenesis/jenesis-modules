@@ -12,3 +12,9 @@
 1.1.0	metadata	2026-04-30T06:21:38Z	
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-iossimulatorarm64/1.1.1/network-ws-core-iossimulatorarm64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-05-09T21:08:38Z	
+1.1.5		2026-05-21T23:47:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-iossimulatorarm64/1.1.5/network-ws-core-iossimulatorarm64-1.1.5.jar returned status 404
+1.1.5	metadata	2026-05-21T23:48:00Z	
+1.1.7		2026-05-22T00:13:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-iossimulatorarm64/1.1.7/network-ws-core-iossimulatorarm64-1.1.7.jar returned status 404
+1.1.7	metadata	2026-05-22T00:13:52Z	
+1.2.0		2026-05-27T17:03:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dancrrdz93/network-ws-core-iossimulatorarm64/1.2.0/network-ws-core-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-05-27T17:03:33Z	

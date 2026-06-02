@@ -16,3 +16,5 @@
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chochanaresh/filepicker/0.6.1/filepicker-0.6.1.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chochanaresh/filepicker/0.7.0/filepicker-0.7.0.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chochanaresh/filepicker/0.7.1/filepicker-0.7.1.jar returned status 404
+0.7.2		2026-05-20T13:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chochanaresh/filepicker/0.7.2/filepicker-0.7.2.jar returned status 404
+0.7.4		2026-05-27T09:58:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chochanaresh/filepicker/0.7.4/filepicker-0.7.4.jar returned status 404
