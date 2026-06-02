@@ -55,3 +55,6 @@
 5.84.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.84.0/legend-pure-dsl-graph-5.84.0.jar returned status 404
 5.85.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.85.0/legend-pure-dsl-graph-5.85.0.jar returned status 404
 5.85.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.85.1/legend-pure-dsl-graph-5.85.1.jar returned status 404
+5.86.0		2026-05-20T20:07:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.86.0/legend-pure-dsl-graph-5.86.0.jar returned status 404
+5.86.1		2026-05-27T20:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.86.1/legend-pure-dsl-graph-5.86.1.jar returned status 404
+5.86.2		2026-05-27T22:49:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-graph/5.86.2/legend-pure-dsl-graph-5.86.2.jar returned status 404

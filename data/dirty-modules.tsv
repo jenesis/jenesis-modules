@@ -1330,3 +1330,6 @@ symphony.bdk.core
 symphony.bdk.config
 symphony.bdk.app.spring.boot.starter
 symphony.group.extension
+io.github.classgraph
+com.zaxxer.hikari
+org.eu.autogex

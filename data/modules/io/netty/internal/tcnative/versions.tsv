@@ -704,4 +704,7 @@
 4.1.7	named	com.instaclustr	esop-azure	2026-05-18T10:36:25Z	2.0.73.Final
 4.1.7	named	com.instaclustr	esop-gcp	2026-05-18T10:36:25Z	2.0.70.Final
 1.5.0.20.dev2	named	io.acryl	datahub-auth-api	2026-05-18T19:44:28Z	2.0.75.Final
+4.129.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-19T10:16:36Z	2.0.72.Final
 3.9.04	named	org.metricshub	metricshub-agent	2026-05-20T09:06:48Z	2.0.74.Final
+4.129.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-21T16:21:48Z	2.0.72.Final
+4.129.10	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-05-28T19:11:53Z	2.0.72.Final
