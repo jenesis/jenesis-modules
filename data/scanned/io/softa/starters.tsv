@@ -26,3 +26,5 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/starters/1.4.0/starters-1.4.0.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/starters/1.4.2/starters-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/starters/1.4.3/starters-1.4.3.jar returned status 404
+1.4.4		2026-05-21T06:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/starters/1.4.4/starters-1.4.4.jar returned status 404
+1.4.5		2026-05-23T04:48:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/starters/1.4.5/starters-1.4.5.jar returned status 404
