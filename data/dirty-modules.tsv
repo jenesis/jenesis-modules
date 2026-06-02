@@ -2691,3 +2691,12 @@ io.quarkus.qute
 io.smallrye.common.net
 org.wildfly.common
 io.smallrye.common.ref
+io.quarkus.launcher
+jakarta.annotation
+io.quarkus.fs.util
+io.quarkus.dev.spi
+io.quarkus.core
+io.quarkus.commons.classloading
+io.quarkus.changeagent
+quarkus.klass.change.agent
+io.quarkus.bootstrap.runner

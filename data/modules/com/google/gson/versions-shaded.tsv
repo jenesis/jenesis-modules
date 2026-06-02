@@ -5698,4 +5698,8 @@
 1.9.0	named	com.aliyun	bssopenapi20230930	2026-05-20T04:18:26Z	2.11.0
 2.9.3	named	com.aliyun	bailian20231229	2026-05-20T06:09:38Z	2.11.0
 3.19.1	named	com.aliyun	cloudauth_intl20220809	2026-05-20T07:10:21Z	2.11.0
+3.27.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-05-20T09:04:56Z	2.10
+3.33.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-05-20T09:29:02Z	2.10
+3.35.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-05-20T09:53:07Z	2.10
+3.36.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-05-20T09:56:45Z	2.10
 1.46.3	named	com.aliyun	aimiaobi20230801	2026-05-20T11:44:56Z	2.11.0
