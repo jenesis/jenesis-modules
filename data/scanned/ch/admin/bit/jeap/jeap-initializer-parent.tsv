@@ -59,3 +59,4 @@
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.9.0/jeap-initializer-parent-2.9.0.jar returned status 404
 3.0.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/3.0.0-alpha-springboot4/jeap-initializer-parent-3.0.0-alpha-springboot4.jar returned status 404
 3.0.1-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/3.0.1-alpha-springboot4/jeap-initializer-parent-3.0.1-alpha-springboot4.jar returned status 404
+4.0.0		2026-05-28T05:49:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/4.0.0/jeap-initializer-parent-4.0.0.jar returned status 404

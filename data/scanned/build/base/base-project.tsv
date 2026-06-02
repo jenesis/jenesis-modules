@@ -12,3 +12,4 @@
 0.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/base/base-project/0.24.1/base-project-0.24.1.jar returned status 404
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/base/base-project/0.25.0/base-project-0.25.0.jar returned status 404
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/base/base-project/0.26.0/base-project-0.26.0.jar returned status 404
+0.26.1		2026-05-23T15:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/base/base-project/0.26.1/base-project-0.26.1.jar returned status 404

@@ -5108,6 +5108,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 9.10.20-BETA-8	named	com.chartiq.finsemble	finsemble	2026-05-25T12:04:48Z	2.13.5
 9.10.20	named	com.chartiq.finsemble	finsemble	2026-05-26T02:57:35Z	2.13.5
 8.694.53	named	com.yahoo.vespa	config-application-package	2026-05-27T02:06:18Z	2.21
+2.1.0	named	ch.admin.swiyu	didtoolbox	2026-05-27T08:17:38Z	2.21
 10.2.0-BETA-50	named	com.chartiq.finsemble	finsemble	2026-05-27T11:25:53Z	2.13.5
 8.695.32	named	com.yahoo.vespa	config-application-package	2026-05-28T02:06:22Z	2.21
 9.10.21-BETA-1	named	com.chartiq.finsemble	finsemble	2026-05-28T12:09:32Z	2.13.5

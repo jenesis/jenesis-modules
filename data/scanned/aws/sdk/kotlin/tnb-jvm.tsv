@@ -689,5 +689,21 @@
 1.6.76	optimized	2026-05-18T18:58:45Z	
 1.6.77		2026-05-19T18:53:46Z	
 1.6.77	optimized	2026-05-19T18:53:39Z	
+1.6.78		2026-05-20T18:54:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/tnb-jvm/1.6.78/tnb-jvm-1.6.78.jar returned status 404
+1.6.78	optimized	2026-05-20T18:53:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/tnb-jvm/1.6.78/tnb-jvm-1.6.78-optimized.jar returned status 404
+1.6.79		2026-05-21T20:52:31Z	
+1.6.79	optimized	2026-05-21T20:51:29Z	
 1.6.8		2026-02-02T19:38:17Z	
+1.6.80		2026-05-22T18:47:28Z	
+1.6.80	optimized	2026-05-22T18:46:55Z	
+1.6.81		2026-05-26T19:01:59Z	
+1.6.81	optimized	2026-05-26T19:02:16Z	
+1.6.82		2026-05-27T18:50:17Z	
+1.6.82	optimized	2026-05-27T18:50:18Z	
+1.6.83		2026-05-28T18:55:45Z	
+1.6.83	optimized	2026-05-28T18:55:07Z	
+1.6.84		2026-05-29T18:51:21Z	
+1.6.84	optimized	2026-05-29T18:51:48Z	
+1.6.85		2026-06-01T18:46:07Z	
+1.6.85	optimized	2026-06-01T18:45:20Z	
 1.6.9		2026-02-03T19:46:47Z	

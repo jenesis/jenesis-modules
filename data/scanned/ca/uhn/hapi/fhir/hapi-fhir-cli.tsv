@@ -1,3 +1,4 @@
+8.10.0		2026-05-21T20:05:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-cli/8.10.0/hapi-fhir-cli-8.10.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-cli/8.2.1/hapi-fhir-cli-8.2.1.jar returned status 404
 8.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-cli/8.2.2/hapi-fhir-cli-8.2.2.jar returned status 404
 8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-cli/8.4.0/hapi-fhir-cli-8.4.0.jar returned status 404

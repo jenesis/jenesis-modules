@@ -5,6 +5,7 @@
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.10/tapsi-box-bom-1.0.10.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.11/tapsi-box-bom-1.0.11.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.12/tapsi-box-bom-1.0.12.jar returned status 404
+1.0.13		2026-05-24T10:10:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.13/tapsi-box-bom-1.0.13.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.2/tapsi-box-bom-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.3/tapsi-box-bom-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.4/tapsi-box-bom-1.0.4.jar returned status 404
@@ -13,3 +14,4 @@
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.7/tapsi-box-bom-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.8/tapsi-box-bom-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/1.0.9/tapsi-box-bom-1.0.9.jar returned status 404
+2.0.0-RC1		2026-05-25T08:41:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/box/tapsi/libs/tapsi-box-bom/2.0.0-RC1/tapsi-box-bom-2.0.0-RC1.jar returned status 404
