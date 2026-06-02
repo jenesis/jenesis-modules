@@ -22,3 +22,5 @@
 2.5.1	metadata	2026-04-06T15:16:38Z	
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-testballoon-macosarm64/2.5.2/runner-testballoon-macosarm64-2.5.2.jar returned status 404
 2.5.2	metadata	2026-05-02T15:03:46Z	
+2.5.3		2026-05-29T13:07:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-testballoon-macosarm64/2.5.3/runner-testballoon-macosarm64-2.5.3.jar returned status 404
+2.5.3	metadata	2026-05-29T13:07:28Z	

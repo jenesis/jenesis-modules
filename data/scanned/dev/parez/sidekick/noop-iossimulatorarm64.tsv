@@ -2,3 +2,5 @@
 0.1.0	metadata	2026-05-16T18:36:57Z	
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/noop-iossimulatorarm64/0.3.1/noop-iossimulatorarm64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-05-18T07:00:30Z	
+0.3.3		2026-05-26T13:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/noop-iossimulatorarm64/0.3.3/noop-iossimulatorarm64-0.3.3.jar returned status 404
+0.3.3	metadata	2026-05-26T13:42:00Z	

@@ -2,3 +2,5 @@
 0.1.0	metadata	2026-05-16T18:36:55Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/network-monitor-iossimulatorarm64/0.2.1/network-monitor-iossimulatorarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-05-18T07:00:28Z	
+0.2.6		2026-05-26T13:42:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/network-monitor-iossimulatorarm64/0.2.6/network-monitor-iossimulatorarm64-0.2.6.jar returned status 404
+0.2.6	metadata	2026-05-26T13:41:57Z	

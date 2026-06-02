@@ -4741,6 +4741,7 @@ ml-2.1.1	named	io.mapsmessaging	jms_selector_parser	2026-05-19T04:06:19Z	2.13.2
 0.0.1-releasetest	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T17:16:42Z	2.12.1
 0.4.17-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T19:56:15Z	2.12.1
 0.4.18-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-20T23:00:07Z	2.12.1
+1.0.0	named	dev.uebelacker.babeli	babeli-cli	2026-05-21T13:17:10Z	2.14.0
 1.1.3	named	org.operaton.bpm	operaton-engine	2026-05-22T08:12:49Z	2.13.2
 2.1.1	named	org.operaton.bpm	operaton-engine	2026-05-22T08:51:18Z	2.13.2
 0.4.19-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-24T07:22:31Z	2.12.1
@@ -4754,4 +4755,5 @@ ml-2.1.1	named	io.mapsmessaging	jms_selector_parser	2026-05-19T04:06:19Z	2.13.2
 10.27.0.140913	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-05-28T13:42:43Z	2.14.0
 8.30.0.43910	named	org.sonarsource.java	java-custom-rules-example	2026-05-28T14:14:14Z	2.14.0
 0.4.20-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-28T15:12:30Z	2.12.1
+1.0.1	named	dev.uebelacker.babeli	babeli-cli	2026-05-28T15:30:09Z	2.14.0
 0.4.21-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-28T21:15:47Z	2.12.1

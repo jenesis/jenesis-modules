@@ -1,0 +1,7 @@
+1.0.0		2026-05-21T00:57:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.0/sagaweaw-examples-1.0.0.jar returned status 404
+1.0.1		2026-05-21T16:26:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.1/sagaweaw-examples-1.0.1.jar returned status 404
+1.0.2		2026-05-23T17:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.2/sagaweaw-examples-1.0.2.jar returned status 404
+1.0.3		2026-05-25T14:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.3/sagaweaw-examples-1.0.3.jar returned status 404
+1.0.4		2026-05-25T15:03:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.4/sagaweaw-examples-1.0.4.jar returned status 404
+1.0.5		2026-05-26T01:28:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.5/sagaweaw-examples-1.0.5.jar returned status 404
+1.0.6		2026-05-28T14:20:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-examples/1.0.6/sagaweaw-examples-1.0.6.jar returned status 404
