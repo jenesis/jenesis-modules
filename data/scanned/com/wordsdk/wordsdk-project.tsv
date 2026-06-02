@@ -2,3 +2,4 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wordsdk/wordsdk-project/1.0.2/wordsdk-project-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wordsdk/wordsdk-project/1.0.3/wordsdk-project-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wordsdk/wordsdk-project/1.0.4/wordsdk-project-1.0.4.jar returned status 404
+1.0.5		2026-05-19T15:37:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wordsdk/wordsdk-project/1.0.5/wordsdk-project-1.0.5.jar returned status 404

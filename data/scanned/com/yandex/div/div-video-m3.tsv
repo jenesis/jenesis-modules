@@ -25,3 +25,6 @@
 32.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.48.0/div-video-m3-32.48.0.jar returned status 404
 32.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.49.0/div-video-m3-32.49.0.jar returned status 404
 32.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.50.0/div-video-m3-32.50.0.jar returned status 404
+32.50.1		2026-05-22T11:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.50.1/div-video-m3-32.50.1.jar returned status 404
+32.51.0		2026-05-25T12:17:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.51.0/div-video-m3-32.51.0.jar returned status 404
+32.51.1		2026-05-29T08:56:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-video-m3/32.51.1/div-video-m3-32.51.1.jar returned status 404

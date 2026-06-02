@@ -20,3 +20,4 @@
 1.12.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/athenz/athenz/1.12.39/athenz-1.12.39.jar returned status 404
 1.12.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/athenz/athenz/1.12.40/athenz-1.12.40.jar returned status 404
 1.12.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/athenz/athenz/1.12.41/athenz-1.12.41.jar returned status 404
+1.12.42		2026-05-28T06:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/athenz/athenz/1.12.42/athenz-1.12.42.jar returned status 404

@@ -1,3 +1,4 @@
+1.6.1		2026-05-19T16:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/1.6.1/inventory-1.6.1.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.10.0/inventory-2.10.0.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.11.0/inventory-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.12.0/inventory-2.12.0.jar returned status 404
@@ -14,3 +15,4 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.7.0/inventory-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.8.0/inventory-2.8.0.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/2.9.0/inventory-2.9.0.jar returned status 404
+3.0.0		2026-05-24T16:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/inventory/3.0.0/inventory-3.0.0.jar returned status 404

@@ -15,6 +15,7 @@
 4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.19.0/lib-4.19.0.jar returned status 404
 4.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.20.0/lib-4.20.0.jar returned status 404
 4.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.21.0/lib-4.21.0.jar returned status 404
+4.22.0		2026-05-19T14:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.22.0/lib-4.22.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.7.0/lib-4.7.0.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.8.0/lib-4.8.0.jar returned status 404
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/npm/lib/4.9.0/lib-4.9.0.jar returned status 404

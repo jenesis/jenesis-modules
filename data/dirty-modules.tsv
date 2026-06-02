@@ -4708,3 +4708,9 @@ de_codesourcery_versiontracker_enforcerrule
 de_codesourcery_versiontracker_common
 de_codesourcery_versiontracker_client
 com.google.j2objc.annotations
+com.xkball.xklib.ui
+com.xkball.xklib.mc
+com.xkball.xklib.ap
+com.xkball.xklib
+com.wordsdk.wasmtime
+com.wordsdk.chicory
