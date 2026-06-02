@@ -17,6 +17,7 @@
 17.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.10.6/xwiki-commons-logging-17.10.6.jar returned status 404
 17.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.10.7/xwiki-commons-logging-17.10.7.jar returned status 404
 17.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.10.8/xwiki-commons-logging-17.10.8.jar returned status 404
+17.10.9		2026-05-27T12:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.10.9/xwiki-commons-logging-17.10.9.jar returned status 404
 17.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.4.1/xwiki-commons-logging-17.4.1.jar returned status 404
 17.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.4.10/xwiki-commons-logging-17.4.10.jar returned status 404
 17.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/17.4.2/xwiki-commons-logging-17.4.2.jar returned status 404
@@ -46,3 +47,5 @@
 18.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/18.2.1/xwiki-commons-logging-18.2.1.jar returned status 404
 18.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/18.3.0/xwiki-commons-logging-18.3.0.jar returned status 404
 18.3.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/18.3.0-rc-1/xwiki-commons-logging-18.3.0-rc-1.jar returned status 404
+18.4.0		2026-05-26T13:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/18.4.0/xwiki-commons-logging-18.4.0.jar returned status 404
+18.4.0-rc-1		2026-05-18T12:07:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-logging/18.4.0-rc-1/xwiki-commons-logging-18.4.0-rc-1.jar returned status 404

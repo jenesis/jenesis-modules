@@ -663,3 +663,16 @@ pro.verron.officestamper.imageio.svg
 pro.verron.officestamper.imageio.emf
 pro.verron.officestamper.excel
 pro.verron.officestamper.asciidoc
+plus.application.app.common
+org.yamcs.xtce
+org.yamcs.tse
+org.yamcs.core
+org.yamcs.client
+org.yamcs.tests
+org.yamcs.simulator
+org.yamcs.packetviewer
+flying.saucer.swt
+flying.saucer.pdf.osgi
+flying.saucer.pdf
+flying.saucer.fop
+flying.saucer
