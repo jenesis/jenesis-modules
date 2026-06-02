@@ -85,6 +85,10 @@
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.1.7/digger-model-js-1.1.7.jar returned status 404
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.1.8/digger-model-js-1.1.8.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.1.9/digger-model-js-1.1.9.jar returned status 404
+1.10.0		2026-05-20T03:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.10.0/digger-model-js-1.10.0.jar returned status 404
+1.11.0		2026-05-20T12:16:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.11.0/digger-model-js-1.11.0.jar returned status 404
+1.12.0		2026-05-21T12:45:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.12.0/digger-model-js-1.12.0.jar returned status 404
+1.12.1		2026-05-29T23:23:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.12.1/digger-model-js-1.12.1.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.2.0/digger-model-js-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.2.1/digger-model-js-1.2.1.jar returned status 404
 1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.2.10/digger-model-js-1.2.10.jar returned status 404
@@ -320,8 +324,29 @@
 1.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.19/digger-model-js-1.9.19.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.2/digger-model-js-1.9.2.jar returned status 404
 1.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.20/digger-model-js-1.9.20.jar returned status 404
+1.9.21		2026-05-19T22:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.21/digger-model-js-1.9.21.jar returned status 404
+1.9.22		2026-05-19T23:11:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.22/digger-model-js-1.9.22.jar returned status 404
+1.9.23		2026-05-20T00:11:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.23/digger-model-js-1.9.23.jar returned status 404
+1.9.24		2026-05-20T01:25:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.24/digger-model-js-1.9.24.jar returned status 404
+1.9.25		2026-05-20T02:02:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.25/digger-model-js-1.9.25.jar returned status 404
+1.9.26		2026-05-20T02:10:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.26/digger-model-js-1.9.26.jar returned status 404
+1.9.27		2026-05-20T02:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.27/digger-model-js-1.9.27.jar returned status 404
 1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.5/digger-model-js-1.9.5.jar returned status 404
 1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.6/digger-model-js-1.9.6.jar returned status 404
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.7/digger-model-js-1.9.7.jar returned status 404
 1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.8/digger-model-js-1.9.8.jar returned status 404
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/1.9.9/digger-model-js-1.9.9.jar returned status 404
+2.0.0		2026-05-30T00:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.0.0/digger-model-js-2.0.0.jar returned status 404
+2.0.1		2026-05-30T01:37:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.0.1/digger-model-js-2.0.1.jar returned status 404
+2.1.0		2026-05-30T02:57:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.1.0/digger-model-js-2.1.0.jar returned status 404
+2.1.1		2026-05-30T03:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.1.1/digger-model-js-2.1.1.jar returned status 404
+2.2.0		2026-05-30T04:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.0/digger-model-js-2.2.0.jar returned status 404
+2.2.1		2026-05-30T15:30:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.1/digger-model-js-2.2.1.jar returned status 404
+2.2.2		2026-05-30T15:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.2/digger-model-js-2.2.2.jar returned status 404
+2.2.3		2026-05-30T17:21:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.3/digger-model-js-2.2.3.jar returned status 404
+2.2.4		2026-05-30T17:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.4/digger-model-js-2.2.4.jar returned status 404
+2.2.5		2026-05-30T18:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.2.5/digger-model-js-2.2.5.jar returned status 404
+2.3.0		2026-05-30T19:16:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.3.0/digger-model-js-2.3.0.jar returned status 404
+2.3.1		2026-05-30T20:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.3.1/digger-model-js-2.3.1.jar returned status 404
+2.4.0		2026-05-31T03:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.4.0/digger-model-js-2.4.0.jar returned status 404
+2.4.1		2026-05-31T04:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-model-js/2.4.1/digger-model-js-2.4.1.jar returned status 404

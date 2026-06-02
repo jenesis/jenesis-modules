@@ -50,3 +50,5 @@
 0.2.2	metadata	2026-02-16T09:35:28Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/kotlinx/openapi/bindings/kotlin-openapi-bindings-macosx64/0.3.0/kotlin-openapi-bindings-macosx64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-05-13T14:12:33Z	
+0.3.1		2026-05-22T10:41:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/kotlinx/openapi/bindings/kotlin-openapi-bindings-macosx64/0.3.1/kotlin-openapi-bindings-macosx64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-05-22T10:41:56Z	

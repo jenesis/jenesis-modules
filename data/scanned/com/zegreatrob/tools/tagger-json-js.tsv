@@ -1,3 +1,7 @@
+1.10.0		2026-05-20T03:30:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.10.0/tagger-json-js-1.10.0.jar returned status 404
+1.11.0		2026-05-20T12:16:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.11.0/tagger-json-js-1.11.0.jar returned status 404
+1.12.0		2026-05-21T12:45:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.12.0/tagger-json-js-1.12.0.jar returned status 404
+1.12.1		2026-05-29T23:23:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.12.1/tagger-json-js-1.12.1.jar returned status 404
 1.7.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.7.24/tagger-json-js-1.7.24.jar returned status 404
 1.7.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.7.25/tagger-json-js-1.7.25.jar returned status 404
 1.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.7.26/tagger-json-js-1.7.26.jar returned status 404
@@ -100,8 +104,29 @@
 1.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.19/tagger-json-js-1.9.19.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.2/tagger-json-js-1.9.2.jar returned status 404
 1.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.20/tagger-json-js-1.9.20.jar returned status 404
+1.9.21		2026-05-19T22:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.21/tagger-json-js-1.9.21.jar returned status 404
+1.9.22		2026-05-19T23:11:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.22/tagger-json-js-1.9.22.jar returned status 404
+1.9.23		2026-05-20T00:11:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.23/tagger-json-js-1.9.23.jar returned status 404
+1.9.24		2026-05-20T01:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.24/tagger-json-js-1.9.24.jar returned status 404
+1.9.25		2026-05-20T02:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.25/tagger-json-js-1.9.25.jar returned status 404
+1.9.26		2026-05-20T02:10:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.26/tagger-json-js-1.9.26.jar returned status 404
+1.9.27		2026-05-20T02:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.27/tagger-json-js-1.9.27.jar returned status 404
 1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.5/tagger-json-js-1.9.5.jar returned status 404
 1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.6/tagger-json-js-1.9.6.jar returned status 404
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.7/tagger-json-js-1.9.7.jar returned status 404
 1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.8/tagger-json-js-1.9.8.jar returned status 404
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/1.9.9/tagger-json-js-1.9.9.jar returned status 404
+2.0.0		2026-05-30T00:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.0.0/tagger-json-js-2.0.0.jar returned status 404
+2.0.1		2026-05-30T01:37:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.0.1/tagger-json-js-2.0.1.jar returned status 404
+2.1.0		2026-05-30T02:57:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.1.0/tagger-json-js-2.1.0.jar returned status 404
+2.1.1		2026-05-30T03:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.1.1/tagger-json-js-2.1.1.jar returned status 404
+2.2.0		2026-05-30T04:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.0/tagger-json-js-2.2.0.jar returned status 404
+2.2.1		2026-05-30T15:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.1/tagger-json-js-2.2.1.jar returned status 404
+2.2.2		2026-05-30T15:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.2/tagger-json-js-2.2.2.jar returned status 404
+2.2.3		2026-05-30T17:21:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.3/tagger-json-js-2.2.3.jar returned status 404
+2.2.4		2026-05-30T17:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.4/tagger-json-js-2.2.4.jar returned status 404
+2.2.5		2026-05-30T18:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.2.5/tagger-json-js-2.2.5.jar returned status 404
+2.3.0		2026-05-30T19:16:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.3.0/tagger-json-js-2.3.0.jar returned status 404
+2.3.1		2026-05-30T20:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.3.1/tagger-json-js-2.3.1.jar returned status 404
+2.4.0		2026-05-31T03:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.4.0/tagger-json-js-2.4.0.jar returned status 404
+2.4.1		2026-05-31T04:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/tagger-json-js/2.4.1/tagger-json-js-2.4.1.jar returned status 404
