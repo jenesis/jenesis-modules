@@ -32,6 +32,7 @@
 1.11.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.11.0-beta02/runtime-js-1.11.0-beta02.jar returned status 404
 1.11.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.11.0-beta03/runtime-js-1.11.0-beta03.jar returned status 404
 1.11.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.11.0-rc01/runtime-js-1.11.0-rc01.jar returned status 404
+1.12.0-alpha01		2026-05-19T09:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.12.0-alpha01/runtime-js-1.12.0-alpha01.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.2.0/runtime-js-1.2.0.jar returned status 404
 1.2.0-alpha01-dev602			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.2.0-alpha01-dev602/runtime-js-1.2.0-alpha01-dev602.jar returned status 404
 1.2.0-alpha01-dev606			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/runtime/runtime-js/1.2.0-alpha01-dev606/runtime-js-1.2.0-alpha01-dev606.jar returned status 404

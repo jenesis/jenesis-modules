@@ -4,3 +4,4 @@
 6.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/reference-guide/weld-reference-guide/6.0.4.Final/weld-reference-guide-6.0.4.Final.jar returned status 404
 7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/reference-guide/weld-reference-guide/7.0.0.Alpha1/weld-reference-guide-7.0.0.Alpha1.jar returned status 404
 7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/reference-guide/weld-reference-guide/7.0.0.Alpha2/weld-reference-guide-7.0.0.Alpha2.jar returned status 404
+7.0.0.Beta1		2026-05-26T18:03:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/reference-guide/weld-reference-guide/7.0.0.Beta1/weld-reference-guide-7.0.0.Beta1.jar returned status 404

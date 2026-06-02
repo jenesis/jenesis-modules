@@ -24,6 +24,7 @@
 16.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.1/infinispan-testdriver-parent-pom-16.0.1.jar returned status 404
 16.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.10/infinispan-testdriver-parent-pom-16.0.10.jar returned status 404
 16.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.11/infinispan-testdriver-parent-pom-16.0.11.jar returned status 404
+16.0.12		2026-05-20T08:32:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.12/infinispan-testdriver-parent-pom-16.0.12.jar returned status 404
 16.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.2/infinispan-testdriver-parent-pom-16.0.2.jar returned status 404
 16.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.3/infinispan-testdriver-parent-pom-16.0.3.jar returned status 404
 16.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-testdriver-parent-pom/16.0.4/infinispan-testdriver-parent-pom-16.0.4.jar returned status 404

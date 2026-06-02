@@ -4,3 +4,4 @@
 7.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-api-bom/7.0.Alpha5/weld-api-bom-7.0.Alpha5.jar returned status 404
 7.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-api-bom/7.0.Alpha6/weld-api-bom-7.0.Alpha6.jar returned status 404
 7.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-api-bom/7.0.Alpha7/weld-api-bom-7.0.Alpha7.jar returned status 404
+7.0.Beta1		2026-05-25T10:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-api-bom/7.0.Beta1/weld-api-bom-7.0.Beta1.jar returned status 404

@@ -10,3 +10,5 @@
 7.3.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-addons/7.3.8.Final/jbossws-cxf-addons-7.3.8.Final.jar returned status 404
 7.4.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-addons/7.4.0.Beta1/jbossws-cxf-addons-7.4.0.Beta1.jar returned status 404
 7.4.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-addons/7.4.0.Beta2/jbossws-cxf-addons-7.4.0.Beta2.jar returned status 404
+7.4.0.Beta3		2026-05-22T09:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-addons/7.4.0.Beta3/jbossws-cxf-addons-7.4.0.Beta3.jar returned status 404
+7.4.0.Final		2026-05-28T09:27:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-addons/7.4.0.Final/jbossws-cxf-addons-7.4.0.Final.jar returned status 404
