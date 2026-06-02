@@ -156,3 +156,9 @@
 4.2.1	metadata	2026-04-05T19:21:18Z	
 4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-watchossimulatorarm64/4.2.2/buffer-watchossimulatorarm64-4.2.2.jar returned status 404
 4.2.2	metadata	2026-04-19T16:56:30Z	
+5.0.0		2026-05-22T15:09:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-watchossimulatorarm64/5.0.0/buffer-watchossimulatorarm64-5.0.0.jar returned status 404
+5.0.0	metadata	2026-05-22T15:09:33Z	
+5.1.0		2026-05-25T11:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-watchossimulatorarm64/5.1.0/buffer-watchossimulatorarm64-5.1.0.jar returned status 404
+5.1.0	metadata	2026-05-25T11:54:53Z	
+5.2.0		2026-05-26T09:39:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-watchossimulatorarm64/5.2.0/buffer-watchossimulatorarm64-5.2.0.jar returned status 404
+5.2.0	metadata	2026-05-26T09:39:54Z	

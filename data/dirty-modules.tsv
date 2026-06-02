@@ -5187,3 +5187,13 @@ com.dua3.fx.application
 com.dlsc.gemsfx.demo
 com.dlsc.gemsfx
 com.dlsc.atlantafx.themes
+com.couchbase.client.tracing.opentelemetry
+com.couchbase.client.tracing.observation
+com.couchbase.client.scala
+com.couchbase.client.metrics.opentelemetry
+com.couchbase.client.kotlin
+com.couchbase.client.java
+com.couchbase.columnar.client.java
+com.couchbase.client.core
+okhttp
+library

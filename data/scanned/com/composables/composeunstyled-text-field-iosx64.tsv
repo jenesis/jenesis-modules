@@ -6,3 +6,7 @@
 2.2.0	metadata	2026-05-18T14:23:51Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-text-field-iosx64/2.3.0/composeunstyled-text-field-iosx64-2.3.0.jar returned status 404
 2.3.0	metadata	2026-05-19T10:42:36Z	
+2.4.0		2026-05-23T02:36:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-text-field-iosx64/2.4.0/composeunstyled-text-field-iosx64-2.4.0.jar returned status 404
+2.4.0	metadata	2026-05-23T02:36:43Z	
+2.4.1		2026-05-31T06:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-text-field-iosx64/2.4.1/composeunstyled-text-field-iosx64-2.4.1.jar returned status 404
+2.4.1	metadata	2026-05-31T06:37:53Z	
