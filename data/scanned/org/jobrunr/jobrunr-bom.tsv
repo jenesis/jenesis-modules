@@ -26,6 +26,7 @@
 8.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/8.5.1/jobrunr-bom-8.5.1.jar returned status 404
 8.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/8.5.2/jobrunr-bom-8.5.2.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/8.6.0/jobrunr-bom-8.6.0.jar returned status 404
+8.6.1		2026-05-26T12:15:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/8.6.1/jobrunr-bom-8.6.1.jar returned status 404
 v5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/v5.0.0/jobrunr-bom-v5.0.0.jar returned status 404
 v5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/v5.0.0-RC1/jobrunr-bom-v5.0.0-RC1.jar returned status 404
 v5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jobrunr/jobrunr-bom/v5.0.1/jobrunr-bom-v5.0.1.jar returned status 404

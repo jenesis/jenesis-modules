@@ -5,6 +5,7 @@
 2.7.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.102/linkki-bom-2.7.102.jar returned status 404
 2.7.103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.103/linkki-bom-2.7.103.jar returned status 404
 2.7.104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.104/linkki-bom-2.7.104.jar returned status 404
+2.7.105		2026-05-20T08:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.105/linkki-bom-2.7.105.jar returned status 404
 2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.4/linkki-bom-2.7.4.jar returned status 404
 2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.5/linkki-bom-2.7.5.jar returned status 404
 2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.7.6/linkki-bom-2.7.6.jar returned status 404
@@ -22,3 +23,4 @@
 2.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.9.5/linkki-bom-2.9.5.jar returned status 404
 2.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.9.6/linkki-bom-2.9.6.jar returned status 404
 2.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.9.7/linkki-bom-2.9.7.jar returned status 404
+2.9.8		2026-05-21T10:33:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.9.8/linkki-bom-2.9.8.jar returned status 404

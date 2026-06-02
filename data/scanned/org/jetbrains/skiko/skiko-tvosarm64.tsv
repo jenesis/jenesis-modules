@@ -4,6 +4,8 @@
 0.144.5	metadata	2026-03-24T14:02:26Z	
 0.144.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-tvosarm64/0.144.6/skiko-tvosarm64-0.144.6.jar returned status 404
 0.144.6	metadata	2026-04-23T17:41:48Z	
+0.148.1		2026-05-18T09:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-tvosarm64/0.148.1/skiko-tvosarm64-0.148.1.jar returned status 404
+0.148.1	metadata	2026-05-18T09:51:34Z	
 0.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-tvosarm64/0.8.11/skiko-tvosarm64-0.8.11.jar returned status 404
 0.8.11	metadata	2024-08-09T18:42:57Z	
 0.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-tvosarm64/0.8.12/skiko-tvosarm64-0.8.12.jar returned status 404

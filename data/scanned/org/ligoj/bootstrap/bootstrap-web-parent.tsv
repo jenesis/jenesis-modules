@@ -4,3 +4,4 @@
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-web-parent/3.2.3/bootstrap-web-parent-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-web-parent/3.2.4/bootstrap-web-parent-3.2.4.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-web-parent/3.3.0/bootstrap-web-parent-3.3.0.jar returned status 404
+3.3.1		2026-05-25T19:55:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-web-parent/3.3.1/bootstrap-web-parent-3.3.1.jar returned status 404

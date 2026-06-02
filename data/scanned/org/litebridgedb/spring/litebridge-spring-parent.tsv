@@ -1,0 +1,2 @@
+0.1.2		2026-05-18T09:35:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litebridgedb/spring/litebridge-spring-parent/0.1.2/litebridge-spring-parent-0.1.2.jar returned status 404
+0.2.0		2026-05-29T12:13:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litebridgedb/spring/litebridge-spring-parent/0.2.0/litebridge-spring-parent-0.2.0.jar returned status 404

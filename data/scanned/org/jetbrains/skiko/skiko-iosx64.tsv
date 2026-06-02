@@ -4,6 +4,8 @@
 0.144.5	metadata	2026-03-24T14:02:27Z	
 0.144.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iosx64/0.144.6/skiko-iosx64-0.144.6.jar returned status 404
 0.144.6	metadata	2026-04-23T17:41:48Z	
+0.148.1		2026-05-18T09:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iosx64/0.148.1/skiko-iosx64-0.148.1.jar returned status 404
+0.148.1	metadata	2026-05-18T09:51:34Z	
 0.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iosx64/0.6.11/skiko-iosx64-0.6.11.jar returned status 404
 0.6.11	metadata	2021-12-24T15:32:23Z	
 0.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iosx64/0.6.6/skiko-iosx64-0.6.6.jar returned status 404

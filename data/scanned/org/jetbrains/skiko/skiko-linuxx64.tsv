@@ -1,6 +1,7 @@
 0.144.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.144.4/skiko-linuxx64-0.144.4.jar returned status 404
 0.144.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.144.5/skiko-linuxx64-0.144.5.jar returned status 404
 0.144.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.144.6/skiko-linuxx64-0.144.6.jar returned status 404
+0.148.1		2026-05-18T09:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.148.1/skiko-linuxx64-0.148.1.jar returned status 404
 0.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.6.11/skiko-linuxx64-0.6.11.jar returned status 404
 0.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.6.6/skiko-linuxx64-0.6.6.jar returned status 404
 0.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-linuxx64/0.6.7/skiko-linuxx64-0.6.7.jar returned status 404

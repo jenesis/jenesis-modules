@@ -23,3 +23,4 @@
 26.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-integration-parent/26.5.7/keycloak-integration-parent-26.5.7.jar returned status 404
 26.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-integration-parent/26.6.0/keycloak-integration-parent-26.6.0.jar returned status 404
 26.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-integration-parent/26.6.1/keycloak-integration-parent-26.6.1.jar returned status 404
+26.6.2		2026-05-19T12:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-integration-parent/26.6.2/keycloak-integration-parent-26.6.2.jar returned status 404

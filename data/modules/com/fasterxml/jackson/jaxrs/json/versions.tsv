@@ -977,6 +977,12 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 2.21.3	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-04-28T20:48:09Z	2.21.3
 3.0.18.0	named	com.ascentstream.pulsar	pulsar-functions-local-runner	2026-05-15T10:40:13Z	2.18.6
 3.0.18.1	named	com.ascentstream.pulsar	pulsar-functions-local-runner	2026-05-19T12:26:48Z	2.18.6
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-4.0_2.13	2026-05-20T01:35:38Z	2.17.1
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-3.4_2.12	2026-05-20T01:35:39Z	2.17.1
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-3.4_2.13	2026-05-20T01:35:39Z	2.17.1
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-3.5_2.12	2026-05-20T01:35:39Z	2.17.1
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-3.5_2.13	2026-05-20T01:35:39Z	2.17.1
+0.5.0-beta.1	named	org.lance	lance-spark-bundle-4.1_2.13	2026-05-20T01:35:39Z	2.17.1
 0.2.17	named	ai.askamerica	askamerica-engine	2026-05-20T14:17:04Z	2.18.4
 0.2.18	named	ai.askamerica	askamerica-engine	2026-05-20T14:37:54Z	2.18.4
 0.2.19	named	ai.askamerica	askamerica-engine	2026-05-20T14:58:01Z	2.18.4

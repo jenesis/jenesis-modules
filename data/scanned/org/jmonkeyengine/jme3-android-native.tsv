@@ -11,6 +11,9 @@
 3.10.0-alpha2		2026-03-23T05:58:35Z	
 3.10.0-alpha3		2026-03-25T17:31:27Z	
 3.10.0-alpha4		2026-05-06T20:33:14Z	
+3.10.0-xt		2026-05-23T15:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmonkeyengine/jme3-android-native/3.10.0-xt/jme3-android-native-3.10.0-xt.jar returned status 404
+3.10.0-xt16kb		2026-05-24T12:32:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmonkeyengine/jme3-android-native/3.10.0-xt16kb/jme3-android-native-3.10.0-xt16kb.jar returned status 404
+3.10.0-xt16kb-alloc		2026-05-29T10:15:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmonkeyengine/jme3-android-native/3.10.0-xt16kb-alloc/jme3-android-native-3.10.0-xt16kb-alloc.jar returned status 404
 3.2.2-beta1		2021-02-22T01:29:01Z	
 3.2.2-stable		2021-02-12T21:21:49Z	
 3.2.3-stable		2021-02-12T20:11:26Z	

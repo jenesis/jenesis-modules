@@ -4,3 +4,5 @@
 4.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kendar/protocol/protocol-master/4.3.4/protocol-master-4.3.4.jar returned status 404
 4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kendar/protocol/protocol-master/4.3.5/protocol-master-4.3.5.jar returned status 404
 4.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kendar/protocol/protocol-master/4.3.7/protocol-master-4.3.7.jar returned status 404
+4.3.8		2026-05-19T13:25:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kendar/protocol/protocol-master/4.3.8/protocol-master-4.3.8.jar returned status 404
+4.3.9		2026-05-19T14:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kendar/protocol/protocol-master/4.3.9/protocol-master-4.3.9.jar returned status 404

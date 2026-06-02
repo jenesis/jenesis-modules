@@ -256,6 +256,9 @@
 26.04.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.04.27/sdk-android-26.04.27.jar returned status 404
 26.04.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.04.8/sdk-android-26.04.8.jar returned status 404
 26.05.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.13/sdk-android-26.05.13.jar returned status 404
+26.05.18		2026-05-18T10:44:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.18/sdk-android-26.05.18.jar returned status 404
+26.05.20		2026-05-20T16:34:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.20/sdk-android-26.05.20.jar returned status 404
+26.05.26		2026-05-26T13:36:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.26/sdk-android-26.05.26.jar returned status 404
 26.05.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.4/sdk-android-26.05.4.jar returned status 404
 26.05.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.6/sdk-android-26.05.6.jar returned status 404
 26.05.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.7/sdk-android-26.05.7.jar returned status 404
