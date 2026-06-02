@@ -69,6 +69,7 @@
 5.20.0.32295			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.20.0.32295/python-its-5.20.0.32295.jar returned status 404
 5.21.0.32726			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.21.0.32726/python-its-5.21.0.32726.jar returned status 404
 5.22.0.33216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.22.0.33216/python-its-5.22.0.33216.jar returned status 404
+5.23.0.33560		2026-05-28T07:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.23.0.33560/python-its-5.23.0.33560.jar returned status 404
 5.3.0.21704			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.3.0.21704/python-its-5.3.0.21704.jar returned status 404
 5.4.0.22255			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.4.0.22255/python-its-5.4.0.22255.jar returned status 404
 5.5.0.23286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/python-its/5.5.0.23286/python-its-5.5.0.23286.jar returned status 404

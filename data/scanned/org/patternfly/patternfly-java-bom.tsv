@@ -41,3 +41,12 @@
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.2/patternfly-java-bom-0.7.2.jar returned status 404
 0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.3/patternfly-java-bom-0.7.3.jar returned status 404
 0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.4/patternfly-java-bom-0.7.4.jar returned status 404
+0.7.5		2026-05-19T14:27:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.5/patternfly-java-bom-0.7.5.jar returned status 404
+0.7.6		2026-05-19T15:11:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.6/patternfly-java-bom-0.7.6.jar returned status 404
+0.7.7		2026-05-19T17:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.7/patternfly-java-bom-0.7.7.jar returned status 404
+0.7.8		2026-05-19T19:44:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.7.8/patternfly-java-bom-0.7.8.jar returned status 404
+0.8.0		2026-05-20T07:24:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.8.0/patternfly-java-bom-0.8.0.jar returned status 404
+0.8.1		2026-05-20T13:47:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.8.1/patternfly-java-bom-0.8.1.jar returned status 404
+0.8.2		2026-05-20T14:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.8.2/patternfly-java-bom-0.8.2.jar returned status 404
+0.8.3		2026-05-20T14:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.8.3/patternfly-java-bom-0.8.3.jar returned status 404
+0.9.0		2026-05-28T12:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-bom/0.9.0/patternfly-java-bom-0.9.0.jar returned status 404

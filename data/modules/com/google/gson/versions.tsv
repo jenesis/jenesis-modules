@@ -4733,3 +4733,11 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 0.2.5	named	io.github.agnistack.buildplugins	omniflow-maven-plugin	2026-05-17T18:41:03Z	2.14.0
 3.0.18.1	named	com.ascentstream.pulsar	jclouds-shaded	2026-05-19T12:26:49Z	2.10.1
 8.1.0	named	com.ironcorelabs	tenant-security-java	2026-05-19T15:57:41Z	2.12.1
+11.4.0.85676	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-05-27T14:28:12Z	2.13.2
+11.4.0.85676	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-05-27T14:28:12Z	2.13.2
+5.3.0.78466	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-05-28T10:08:06Z	2.14.0
+10.26.0.140279	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-05-28T13:27:22Z	2.14.0
+10.26.0.140279	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-05-28T13:27:22Z	2.14.0
+10.27.0.140913	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-05-28T13:42:43Z	2.14.0
+10.27.0.140913	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-05-28T13:42:43Z	2.14.0
+8.30.0.43910	named	org.sonarsource.java	java-custom-rules-example	2026-05-28T14:14:14Z	2.14.0

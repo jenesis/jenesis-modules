@@ -348,3 +348,9 @@
 2.21.3	named	com.fasterxml.jackson.dataformat	jackson-dataformat-xml	2026-04-28T20:30:15Z	2.21.3
 3.3.5-2.0.26-alpha-shade	named	com.aliyun	hadoop-oss	2026-04-30T07:43:42Z	2.18.1
 2.0.0	named	com.pawtograder.org.pitest	pitest-aggregator	2026-05-15T15:51:41Z	2.17.0
+1.24.0	named	org.pitest	pitest-aggregator	2026-05-19T13:09:26Z	2.17.0
+1.24.1	named	org.pitest	pitest-aggregator	2026-05-20T08:41:54Z	2.17.0
+1.25.0	named	org.pitest	pitest-aggregator	2026-05-22T12:14:52Z	2.17.0
+1.25.1	named	org.pitest	pitest-aggregator	2026-05-26T18:06:24Z	2.17.0
+1.25.2	named	org.pitest	pitest-aggregator	2026-05-28T07:45:58Z	2.17.0
+1.25.3	named	org.pitest	pitest-aggregator	2026-05-29T07:28:59Z	2.17.0

@@ -10,3 +10,4 @@
 6.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/spark-singularity/6.7.1/spark-singularity-6.7.1.jar returned status 404
 6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/spark-singularity/6.8.0/spark-singularity-6.8.0.jar returned status 404
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/spark-singularity/6.9.0/spark-singularity-6.9.0.jar returned status 404
+7.0.0		2026-05-17T00:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/spark-singularity/7.0.0/spark-singularity-7.0.0.jar returned status 404

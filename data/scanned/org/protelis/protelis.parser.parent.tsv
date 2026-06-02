@@ -26,6 +26,8 @@
 12.7.0	all	2026-02-23T10:06:39Z	
 12.7.1		2026-04-20T15:04:42Z	
 12.7.1	all	2026-04-20T15:04:42Z	
+12.8.0		2026-05-26T13:04:45Z	
+12.8.0	all	2026-05-26T13:04:45Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/protelis/protelis.parser.parent/4.0.0/protelis.parser.parent-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/protelis/protelis.parser.parent/5.0.0/protelis.parser.parent-5.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/protelis/protelis.parser.parent/6.0.0/protelis.parser.parent-6.0.0.jar returned status 404

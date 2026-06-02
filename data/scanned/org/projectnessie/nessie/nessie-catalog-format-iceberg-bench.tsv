@@ -88,6 +88,8 @@
 0.107.4	all	2026-03-09T10:05:03Z	
 0.107.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.107.5/nessie-catalog-format-iceberg-bench-0.107.5.jar returned status 404
 0.107.5	all	2026-04-21T08:29:56Z	
+0.107.6		2026-05-27T07:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.107.6/nessie-catalog-format-iceberg-bench-0.107.6.jar returned status 404
+0.107.6	all	2026-05-27T07:39:51Z	
 0.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.90.1/nessie-catalog-format-iceberg-bench-0.90.1.jar returned status 404
 0.90.1	all	2024-06-11T20:32:39Z	
 0.90.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.90.2/nessie-catalog-format-iceberg-bench-0.90.2.jar returned status 404
