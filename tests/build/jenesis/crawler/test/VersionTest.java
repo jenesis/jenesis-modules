@@ -43,6 +43,23 @@ public class VersionTest {
     }
 
     @Test
+    public void expands_single_letter_milestone_alpha_beta_shorthand() {
+        // Maven shorthand: a/b/m followed by a digit means alpha/beta/milestone.
+        assertThat(new Version("6.1.0-M1")).isLessThan(new Version("6.1.0"));
+        assertThat(new Version("1.0-a1")).isLessThan(new Version("1.0"));
+        assertThat(new Version("1.0-b1")).isLessThan(new Version("1.0"));
+        assertThat(new Version("1.0-M1")).isEqualByComparingTo(new Version("1.0-milestone1"));
+        assertThat(new Version("6.1.0-M1")).isLessThan(new Version("6.1.0-RC1"));
+        assertThat(new Version("1.0-M2")).isGreaterThan(new Version("1.0-M1"));
+    }
+
+    @Test
+    public void leaves_unknown_qualifiers_above_release() {
+        // A lone letter (no trailing digit) is not the shorthand and stays unknown.
+        assertThat(new Version("1.0-m")).isGreaterThan(new Version("1.0"));
+    }
+
+    @Test
     public void compares_qualifier_subversions_numerically() {
         assertThat(new Version("1.0-RC2")).isGreaterThan(new Version("1.0-RC1"));
         assertThat(new Version("1.0-RC10")).isGreaterThan(new Version("1.0-RC2"));

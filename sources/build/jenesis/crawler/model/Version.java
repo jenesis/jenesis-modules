@@ -145,10 +145,10 @@ public final class Version implements Comparable<Version> {
         for (int index = 0; index < raw.length(); index++) {
             char character = raw.charAt(index);
             if (character == '.') {
-                emit(stack.peek(), token);
+                emit(stack.peek(), token, false);
                 token.setLength(0);
             } else if (character == '-') {
-                emit(stack.peek(), token);
+                emit(stack.peek(), token, false);
                 token.setLength(0);
                 List<Item> sublist = new ArrayList<>();
                 stack.peek().add(new ListItem(sublist));
@@ -156,19 +156,21 @@ public final class Version implements Comparable<Version> {
             } else {
                 boolean isDigit = Character.isDigit(character);
                 if (token.length() > 0 && isDigit != digit) {
-                    emit(stack.peek(), token);
+                    // A transition into a digit means the token we are emitting is an
+                    // alphabetic qualifier immediately followed by a number.
+                    emit(stack.peek(), token, isDigit);
                     token.setLength(0);
                 }
                 token.append(character);
                 digit = isDigit;
             }
         }
-        emit(stack.peek(), token);
+        emit(stack.peek(), token, false);
 
         return new ListItem(normalize(top));
     }
 
-    private static void emit(List<Item> target, StringBuilder token) {
+    private static void emit(List<Item> target, StringBuilder token, boolean followedByDigit) {
         if (token.length() == 0) {
             return;
         }
@@ -176,8 +178,26 @@ public final class Version implements Comparable<Version> {
         if (isNumeric(value)) {
             target.add(new NumberItem(new BigInteger(value)));
         } else {
-            target.add(new QualifierItem(QUALIFIER_ALIASES.getOrDefault(value, value)));
+            target.add(new QualifierItem(QUALIFIER_ALIASES.getOrDefault(value, expandShortQualifier(value, followedByDigit))));
         }
+    }
+
+    /**
+     * Mirror Maven's {@code ComparableVersion}: a single-letter {@code a}, {@code b} or
+     * {@code m} immediately followed by a digit is shorthand for {@code alpha}, {@code beta}
+     * or {@code milestone} respectively. Without this, {@code 1-m1} would parse as an unknown
+     * qualifier and sort <em>after</em> the release instead of before it.
+     */
+    private static String expandShortQualifier(String value, boolean followedByDigit) {
+        if (!followedByDigit || value.length() != 1) {
+            return value;
+        }
+        return switch (value.charAt(0)) {
+            case 'a' -> "alpha";
+            case 'b' -> "beta";
+            case 'm' -> "milestone";
+            default -> value;
+        };
     }
 
     private static boolean isNumeric(String value) {
