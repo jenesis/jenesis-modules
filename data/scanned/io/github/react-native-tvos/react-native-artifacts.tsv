@@ -64,3 +64,4 @@
 0.85.0-0rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-native-artifacts/0.85.0-0rc5/react-native-artifacts-0.85.0-0rc5.jar returned status 404
 0.85.2-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-native-artifacts/0.85.2-0/react-native-artifacts-0.85.2-0.jar returned status 404
 0.85.3-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-native-artifacts/0.85.3-0/react-native-artifacts-0.85.3-0.jar returned status 404
+0.86.0-0rc2		2026-05-28T00:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-native-artifacts/0.86.0-0rc2/react-native-artifacts-0.86.0-0rc2.jar returned status 404

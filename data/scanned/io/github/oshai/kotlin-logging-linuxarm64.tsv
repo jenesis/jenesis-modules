@@ -56,3 +56,5 @@
 8.0.00-beta-04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-linuxarm64/8.0.00-beta-04/kotlin-logging-linuxarm64-8.0.00-beta-04.jar returned status 404
 8.0.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-linuxarm64/8.0.01/kotlin-logging-linuxarm64-8.0.01.jar returned status 404
 8.0.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-linuxarm64/8.0.02/kotlin-logging-linuxarm64-8.0.02.jar returned status 404
+8.0.03		2026-05-19T17:16:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-linuxarm64/8.0.03/kotlin-logging-linuxarm64-8.0.03.jar returned status 404
+8.0.4		2026-05-27T06:41:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-linuxarm64/8.0.4/kotlin-logging-linuxarm64-8.0.4.jar returned status 404

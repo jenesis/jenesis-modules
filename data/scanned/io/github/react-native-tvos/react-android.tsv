@@ -405,3 +405,7 @@
 0.85.3-0	debug-sources	2026-05-08T08:39:34Z	
 0.85.3-0	debugOptimized-sources	2026-05-08T08:39:34Z	
 0.85.3-0	release-sources	2026-05-08T08:39:34Z	
+0.86.0-0rc2		2026-05-28T01:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.86.0-0rc2/react-android-0.86.0-0rc2.jar returned status 404
+0.86.0-0rc2	debug-sources	2026-05-28T01:25:26Z	
+0.86.0-0rc2	debugOptimized-sources	2026-05-28T01:25:26Z	
+0.86.0-0rc2	release-sources	2026-05-28T01:25:26Z	

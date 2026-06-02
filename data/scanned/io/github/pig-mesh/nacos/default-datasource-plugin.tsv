@@ -1,1 +1,2 @@
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/default-datasource-plugin/3.2.1/default-datasource-plugin-3.2.1.jar returned status 404
+3.2.2		2026-05-30T08:06:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/default-datasource-plugin/3.2.2/default-datasource-plugin-3.2.2.jar returned status 404

@@ -9,3 +9,4 @@
 3.1.0-bugfix			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/nacos-plugin-default-impl/3.1.0-bugfix/nacos-plugin-default-impl-3.1.0-bugfix.jar returned status 404
 3.1.0.OEM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/nacos-plugin-default-impl/3.1.0.OEM/nacos-plugin-default-impl-3.1.0.OEM.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/nacos-plugin-default-impl/3.2.1/nacos-plugin-default-impl-3.2.1.jar returned status 404
+3.2.2		2026-05-30T08:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pig-mesh/nacos/nacos-plugin-default-impl/3.2.2/nacos-plugin-default-impl-3.2.2.jar returned status 404

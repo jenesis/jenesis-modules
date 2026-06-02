@@ -28,3 +28,7 @@
 4.2.0	plain	2026-05-06T07:48:11Z	
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/cloudinary-spring-boot-starter/4.3.0/cloudinary-spring-boot-starter-4.3.0.jar returned status 404
 4.3.0	plain	2026-05-17T20:52:07Z	
+4.4.0		2026-05-18T17:14:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/cloudinary-spring-boot-starter/4.4.0/cloudinary-spring-boot-starter-4.4.0.jar returned status 404
+4.4.0	plain	2026-05-18T17:14:34Z	
+5.0.0		2026-05-25T10:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/cloudinary-spring-boot-starter/5.0.0/cloudinary-spring-boot-starter-5.0.0.jar returned status 404
+5.0.0	plain	2026-05-25T10:22:46Z	

@@ -16,3 +16,4 @@
 3.1.0		2025-04-06T04:23:07Z	
 3.1.1		2025-04-14T15:59:41Z	
 3.1.2		2025-04-16T17:39:48Z	
+4.0.0		2026-05-25T10:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oldmanpushcart/dashscope4j/4.0.0/dashscope4j-4.0.0.jar returned status 404

@@ -1,0 +1,4 @@
+0.1.0		2026-05-22T06:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/randomcodespace/sonarpredict/sonar-predictor-parent/0.1.0/sonar-predictor-parent-0.1.0.jar returned status 404
+0.1.1		2026-05-22T10:03:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/randomcodespace/sonarpredict/sonar-predictor-parent/0.1.1/sonar-predictor-parent-0.1.1.jar returned status 404
+0.1.2		2026-05-23T05:15:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/randomcodespace/sonarpredict/sonar-predictor-parent/0.1.2/sonar-predictor-parent-0.1.2.jar returned status 404
+0.1.3		2026-05-23T16:39:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/randomcodespace/sonarpredict/sonar-predictor-parent/0.1.3/sonar-predictor-parent-0.1.3.jar returned status 404

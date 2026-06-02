@@ -28,6 +28,10 @@
 1.8.0	plain	2026-01-09T16:16:41Z	
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/1.9.0/telegram-spring-boot-starter-1.9.0.jar returned status 404
 1.9.0	plain	2026-01-11T11:56:30Z	
+10.0.0		2026-05-18T17:17:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/10.0.0/telegram-spring-boot-starter-10.0.0.jar returned status 404
+10.0.0	plain	2026-05-18T17:17:22Z	
+11.0.0		2026-05-25T10:24:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.0.0/telegram-spring-boot-starter-11.0.0.jar returned status 404
+11.0.0	plain	2026-05-25T10:24:19Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/2.0.1/telegram-spring-boot-starter-2.0.1.jar returned status 404
 2.0.1	plain	2026-03-22T01:24:25Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/2.1.0/telegram-spring-boot-starter-2.1.0.jar returned status 404

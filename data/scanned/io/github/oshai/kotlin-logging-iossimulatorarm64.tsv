@@ -114,3 +114,7 @@
 8.0.01	metadata	2026-02-16T13:59:47Z	
 8.0.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-iossimulatorarm64/8.0.02/kotlin-logging-iossimulatorarm64-8.0.02.jar returned status 404
 8.0.02	metadata	2026-05-03T13:26:15Z	
+8.0.03		2026-05-19T17:16:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-iossimulatorarm64/8.0.03/kotlin-logging-iossimulatorarm64-8.0.03.jar returned status 404
+8.0.03	metadata	2026-05-19T17:16:16Z	
+8.0.4		2026-05-27T06:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oshai/kotlin-logging-iossimulatorarm64/8.0.4/kotlin-logging-iossimulatorarm64-8.0.4.jar returned status 404
+8.0.4	metadata	2026-05-27T06:41:02Z	

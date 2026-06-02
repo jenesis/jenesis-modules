@@ -17,4 +17,5 @@
 2026.4.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pnoker/dc3-parent/2026.4.30/dc3-parent-2026.4.30.jar returned status 404
 2026.5.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pnoker/dc3-parent/2026.5.17/dc3-parent-2026.5.17.jar returned status 404
 2026.5.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pnoker/dc3-parent/2026.5.18/dc3-parent-2026.5.18.jar returned status 404
+2026.5.22		2026-05-22T01:14:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pnoker/dc3-parent/2026.5.22/dc3-parent-2026.5.22.jar returned status 404
 2026.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pnoker/dc3-parent/2026.5.5/dc3-parent-2026.5.5.jar returned status 404

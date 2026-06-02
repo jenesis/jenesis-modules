@@ -12,3 +12,5 @@
 26.20.01	metadata	2026-05-13T01:19:54Z	
 26.20.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phucbgvns/currency-iossimulatorarm64/26.20.02/currency-iossimulatorarm64-26.20.02.jar returned status 404
 26.20.02	metadata	2026-05-14T17:11:46Z	
+26.21.01		2026-05-20T13:42:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phucbgvns/currency-iossimulatorarm64/26.21.01/currency-iossimulatorarm64-26.21.01.jar returned status 404
+26.21.01	metadata	2026-05-20T13:42:56Z	

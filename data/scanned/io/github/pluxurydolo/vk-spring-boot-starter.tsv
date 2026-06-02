@@ -50,3 +50,7 @@
 7.1.0	plain	2026-05-06T07:50:22Z	
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/vk-spring-boot-starter/7.2.0/vk-spring-boot-starter-7.2.0.jar returned status 404
 7.2.0	plain	2026-05-17T20:47:20Z	
+7.3.0		2026-05-18T17:17:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/vk-spring-boot-starter/7.3.0/vk-spring-boot-starter-7.3.0.jar returned status 404
+7.3.0	plain	2026-05-18T17:17:34Z	
+8.0.0		2026-05-25T10:24:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/vk-spring-boot-starter/8.0.0/vk-spring-boot-starter-8.0.0.jar returned status 404
+8.0.0	plain	2026-05-25T10:24:44Z	
