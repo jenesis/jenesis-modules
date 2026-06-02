@@ -128,8 +128,10 @@
 2.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.42.0/org.eclipse.xtend.lib-2.42.0.jar returned status 404
 2.42.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.42.0.M2/org.eclipse.xtend.lib-2.42.0.M2.jar returned status 404
 2.42.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.42.0.M3/org.eclipse.xtend.lib-2.42.0.M3.jar returned status 404
+2.43.0		2026-05-25T12:06:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.43.0/org.eclipse.xtend.lib-2.43.0.jar returned status 404
 2.43.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.43.0.M1/org.eclipse.xtend.lib-2.43.0.M1.jar returned status 404
 2.43.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.43.0.M2/org.eclipse.xtend.lib-2.43.0.M2.jar returned status 404
+2.43.0.M3		2026-05-18T04:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.43.0.M3/org.eclipse.xtend.lib-2.43.0.M3.jar returned status 404
 2.5.0		2013-12-11T18:16:02Z	
 2.5.1		2014-02-03T16:55:44Z	
 2.5.2		2014-02-12T16:52:58Z	

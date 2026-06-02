@@ -7,6 +7,8 @@
 5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/5.2.3/jwt-bom-5.2.3.jar returned status 404
 5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/5.2.4/jwt-bom-5.2.4.jar returned status 404
 5.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/5.2.5/jwt-bom-5.2.5.jar returned status 404
+5.2.6		2026-05-18T08:29:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/5.2.6/jwt-bom-5.2.6.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/6.0.0/jwt-bom-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/6.0.1/jwt-bom-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/6.0.2/jwt-bom-6.0.2.jar returned status 404
+6.0.3		2026-05-18T08:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/jwt-rs/jwt-bom/6.0.3/jwt-bom-6.0.3.jar returned status 404

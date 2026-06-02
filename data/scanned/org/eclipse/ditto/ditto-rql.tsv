@@ -24,3 +24,4 @@
 3.9.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto-rql/3.9.0-M4/ditto-rql-3.9.0-M4.jar returned status 404
 3.9.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto-rql/3.9.0-M5/ditto-rql-3.9.0-M5.jar returned status 404
 3.9.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto-rql/3.9.0-M6/ditto-rql-3.9.0-M6.jar returned status 404
+3.9.1		2026-05-21T14:35:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto-rql/3.9.1/ditto-rql-3.9.1.jar returned status 404

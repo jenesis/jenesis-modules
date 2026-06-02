@@ -44,3 +44,13 @@
 0.65.0	metadata	2026-05-13T10:05:10Z	
 0.66.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.66.0/search-api-model-macosarm64-0.66.0.jar returned status 404
 0.66.0	metadata	2026-05-13T11:52:21Z	
+0.67.0		2026-05-20T12:35:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.67.0/search-api-model-macosarm64-0.67.0.jar returned status 404
+0.67.0	metadata	2026-05-20T12:35:26Z	
+0.67.1		2026-05-21T07:44:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.67.1/search-api-model-macosarm64-0.67.1.jar returned status 404
+0.67.1	metadata	2026-05-21T07:44:47Z	
+0.68.0		2026-05-26T16:12:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.68.0/search-api-model-macosarm64-0.68.0.jar returned status 404
+0.68.0	metadata	2026-05-26T16:12:10Z	
+0.69.0		2026-05-27T09:47:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.69.0/search-api-model-macosarm64-0.69.0.jar returned status 404
+0.69.0	metadata	2026-05-27T09:47:50Z	
+0.70.0		2026-05-29T11:08:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/search/search-api-model-macosarm64/0.70.0/search-api-model-macosarm64-0.70.0.jar returned status 404
+0.70.0	metadata	2026-05-29T11:08:40Z	
