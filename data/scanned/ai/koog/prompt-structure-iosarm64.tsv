@@ -58,3 +58,5 @@
 1.0.0-preview3	metadata	2026-05-20T16:25:02Z	
 1.0.0-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-structure-iosarm64/1.0.0-preview4/prompt-structure-iosarm64-1.0.0-preview4.jar returned status 404
 1.0.0-preview4	metadata	2026-05-20T21:16:35Z	
+1.0.0-preview7		2026-05-21T09:23:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-structure-iosarm64/1.0.0-preview7/prompt-structure-iosarm64-1.0.0-preview7.jar returned status 404
+1.0.0-preview7	metadata	2026-05-21T09:23:37Z	

@@ -1,1 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit/1.0.0/avatarkit-1.0.0.jar returned status 404
+1.0.0-compat		2026-05-28T11:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit/1.0.0-compat/avatarkit-1.0.0-compat.jar returned status 404
+1.1.0-compat		2026-05-31T17:12:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit/1.1.0-compat/avatarkit-1.1.0-compat.jar returned status 404
+1.1.1-compat		2026-05-31T19:44:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit/1.1.1-compat/avatarkit-1.1.1-compat.jar returned status 404

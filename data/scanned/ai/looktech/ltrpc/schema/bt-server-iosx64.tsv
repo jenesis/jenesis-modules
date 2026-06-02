@@ -36,3 +36,5 @@
 2.6.0	metadata	2026-05-15T10:12:34Z	
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/looktech/ltrpc/schema/bt-server-iosx64/2.6.1/bt-server-iosx64-2.6.1.jar returned status 404
 2.6.1	metadata	2026-05-19T12:36:20Z	
+2.7.0		2026-05-28T02:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/looktech/ltrpc/schema/bt-server-iosx64/2.7.0/bt-server-iosx64-2.7.0.jar returned status 404
+2.7.0	metadata	2026-05-28T02:04:58Z	

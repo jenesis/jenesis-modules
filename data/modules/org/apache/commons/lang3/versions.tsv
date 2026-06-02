@@ -1260,3 +1260,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 1.25.0	named	no.entur	interface-protoc-plugin	2026-05-29T10:35:05Z	3.20.0
 1.26.0	named	no.entur	interface-protoc-plugin	2026-05-29T19:03:24Z	3.20.0
 4.2.0.9	named	io.streamnative	buildtools	2026-05-30T07:10:29Z	3.19.0
+1.0.0-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-01T03:19:22Z	3.19.0

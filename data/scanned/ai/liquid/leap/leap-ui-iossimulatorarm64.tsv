@@ -20,3 +20,7 @@
 0.10.6	metadata	2026-05-12T23:02:11Z	
 0.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/liquid/leap/leap-ui-iossimulatorarm64/0.10.7/leap-ui-iossimulatorarm64-0.10.7.jar returned status 404
 0.10.7	metadata	2026-05-18T17:54:13Z	
+0.10.8		2026-05-21T00:48:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/liquid/leap/leap-ui-iossimulatorarm64/0.10.8/leap-ui-iossimulatorarm64-0.10.8.jar returned status 404
+0.10.8	metadata	2026-05-21T00:48:10Z	
+0.10.9		2026-05-29T16:35:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/liquid/leap/leap-ui-iossimulatorarm64/0.10.9/leap-ui-iossimulatorarm64-0.10.9.jar returned status 404
+0.10.9	metadata	2026-05-29T16:35:49Z	

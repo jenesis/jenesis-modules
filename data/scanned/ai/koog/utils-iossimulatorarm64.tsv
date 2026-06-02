@@ -46,6 +46,8 @@
 0.8.0	metadata	2026-04-10T23:48:47Z	
 0.8.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/0.8.0-rc-1/utils-iossimulatorarm64-0.8.0-rc-1.jar returned status 404
 0.8.0-rc-1	metadata	2026-04-10T22:15:38Z	
+1.0.0		2026-05-21T14:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/1.0.0/utils-iossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-05-21T14:49:25Z	
 1.0.0-preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/1.0.0-preview/utils-iossimulatorarm64-1.0.0-preview.jar returned status 404
 1.0.0-preview	metadata	2026-05-16T21:24:08Z	
 1.0.0-preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/1.0.0-preview2/utils-iossimulatorarm64-1.0.0-preview2.jar returned status 404
@@ -54,3 +56,5 @@
 1.0.0-preview3	metadata	2026-05-20T16:24:57Z	
 1.0.0-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/1.0.0-preview4/utils-iossimulatorarm64-1.0.0-preview4.jar returned status 404
 1.0.0-preview4	metadata	2026-05-20T21:16:28Z	
+1.0.0-preview7		2026-05-21T09:24:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/utils-iossimulatorarm64/1.0.0-preview7/utils-iossimulatorarm64-1.0.0-preview7.jar returned status 404
+1.0.0-preview7	metadata	2026-05-21T09:24:04Z	

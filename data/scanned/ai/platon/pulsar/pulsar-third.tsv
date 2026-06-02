@@ -7,8 +7,16 @@
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.0/pulsar-third-4.7.0.jar returned status 404
 4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.1/pulsar-third-4.7.1.jar returned status 404
 4.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.10/pulsar-third-4.7.10.jar returned status 404
+4.7.11		2026-05-24T08:44:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.11/pulsar-third-4.7.11.jar returned status 404
+4.7.12		2026-05-25T10:22:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.12/pulsar-third-4.7.12.jar returned status 404
+4.7.13		2026-05-27T05:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.13/pulsar-third-4.7.13.jar returned status 404
+4.7.14		2026-05-27T14:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.14/pulsar-third-4.7.14.jar returned status 404
 4.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.2/pulsar-third-4.7.2.jar returned status 404
 4.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.3/pulsar-third-4.7.3.jar returned status 404
 4.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.4/pulsar-third-4.7.4.jar returned status 404
 4.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.5/pulsar-third-4.7.5.jar returned status 404
 4.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.7.6/pulsar-third-4.7.6.jar returned status 404
+4.8.0		2026-05-28T18:25:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.8.0/pulsar-third-4.8.0.jar returned status 404
+4.8.1		2026-05-29T10:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.8.1/pulsar-third-4.8.1.jar returned status 404
+4.8.2		2026-05-30T10:21:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.8.2/pulsar-third-4.8.2.jar returned status 404
+4.8.3		2026-05-31T18:43:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-third/4.8.3/pulsar-third-4.8.3.jar returned status 404
