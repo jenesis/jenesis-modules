@@ -1,5 +1,6 @@
 10.1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/10.1.1.0/oxsdk-amazon-10.1.1.0.jar returned status 404
 10.1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/10.1.1.2/oxsdk-amazon-10.1.1.2.jar returned status 404
+10.1.1.3		2026-05-20T02:14:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/10.1.1.3/oxsdk-amazon-10.1.1.3.jar returned status 404
 9.10.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/9.10.3.4/oxsdk-amazon-9.10.3.4.jar returned status 404
 9.10.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/9.10.3.7/oxsdk-amazon-9.10.3.7.jar returned status 404
 9.10.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/oxsdk-amazon/9.10.3.8/oxsdk-amazon-9.10.3.8.jar returned status 404

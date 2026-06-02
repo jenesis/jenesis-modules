@@ -25,3 +25,9 @@
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/6.5.0/compose-material3-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/6.5.1/compose-material3-6.5.1.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/7.0.0/compose-material3-7.0.0.jar returned status 404
+7.0.1		2026-05-19T22:23:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/7.0.1/compose-material3-7.0.1.jar returned status 404
+8.0.0		2026-05-20T06:31:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/8.0.0/compose-material3-8.0.0.jar returned status 404
+8.1.0		2026-05-20T20:09:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/8.1.0/compose-material3-8.1.0.jar returned status 404
+9.0.0		2026-05-25T02:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/9.0.0/compose-material3-9.0.0.jar returned status 404
+9.0.1		2026-05-25T06:42:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/9.0.1/compose-material3-9.0.1.jar returned status 404
+9.0.2		2026-05-28T15:36:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kikin81/atproto/compose-material3/9.0.2/compose-material3-9.0.2.jar returned status 404
