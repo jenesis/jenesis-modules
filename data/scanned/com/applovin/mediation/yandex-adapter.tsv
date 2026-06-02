@@ -66,3 +66,4 @@
 7.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/yandex-adapter/7.9.0.0/yandex-adapter-7.9.0.0.jar returned status 404
 7.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/yandex-adapter/7.9.0.1/yandex-adapter-7.9.0.1.jar returned status 404
 8.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/yandex-adapter/8.0.0.0/yandex-adapter-8.0.0.0.jar returned status 404
+8.1.0.0		2026-05-29T16:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/yandex-adapter/8.1.0.0/yandex-adapter-8.1.0.0.jar returned status 404

@@ -1254,6 +1254,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.18.0-3.0.0	named	org.apache.seatunnel	seatunnel-shade-commons-lang3	2026-05-22T02:20:34Z	3.18.0
 4.0.10.3	named	io.streamnative	buildtools	2026-05-25T02:33:08Z	3.19.0
 2.1.43	named	io.swagger.parser.v3	swagger-parser-cli	2026-05-26T09:20:04Z	3.20.0
+4.0.11.0	named	com.ascentstream.pulsar	buildtools	2026-05-27T10:05:25Z	3.19.0
 8.30.0.43910	named	org.sonarsource.java	sonar-java-plugin	2026-05-28T14:14:14Z	3.20.0
 1.24.0	named	no.entur	interface-protoc-plugin	2026-05-28T15:25:56Z	3.20.0
 1.25.0	named	no.entur	interface-protoc-plugin	2026-05-29T10:35:05Z	3.20.0

@@ -13,3 +13,5 @@
 6.5.246			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/emodb/emodb-quality-base/6.5.246/emodb-quality-base-6.5.246.jar returned status 404
 6.5.247			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/emodb/emodb-quality-base/6.5.247/emodb-quality-base-6.5.247.jar returned status 404
 6.5.248			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/emodb/emodb-quality-base/6.5.248/emodb-quality-base-6.5.248.jar returned status 404
+6.5.249		2026-05-21T11:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/emodb/emodb-quality-base/6.5.249/emodb-quality-base-6.5.249.jar returned status 404
+6.5.250		2026-05-29T08:24:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/emodb/emodb-quality-base/6.5.250/emodb-quality-base-6.5.250.jar returned status 404

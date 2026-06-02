@@ -2140,3 +2140,4 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 2.3.5-beta.11	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-27T11:21:25Z	
 2.3.5-beta.11	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-27T11:21:25Z	
 2.0.0	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-05-27T16:00:27Z	
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-datahub	2026-06-01T12:12:42Z	

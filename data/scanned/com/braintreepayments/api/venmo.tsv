@@ -93,6 +93,8 @@
 5.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.25.0/venmo-5.25.0.jar returned status 404
 5.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.26.0/venmo-5.26.0.jar returned status 404
 5.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.27.0/venmo-5.27.0.jar returned status 404
+5.28.0		2026-05-28T18:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.28.0/venmo-5.28.0.jar returned status 404
+5.28.1		2026-06-01T19:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.28.1/venmo-5.28.1.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.3.0/venmo-5.3.0.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.4.0/venmo-5.4.0.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/venmo/5.5.0/venmo-5.5.0.jar returned status 404

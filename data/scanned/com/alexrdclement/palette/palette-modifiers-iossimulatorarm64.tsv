@@ -10,6 +10,10 @@
 0.0.109	metadata	2026-04-05T12:01:43Z	
 0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alexrdclement/palette/palette-modifiers-iossimulatorarm64/0.0.11/palette-modifiers-iossimulatorarm64-0.0.11.jar returned status 404
 0.0.11	metadata	2026-01-01T20:04:43Z	
+0.0.111		2026-05-24T20:23:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alexrdclement/palette/palette-modifiers-iossimulatorarm64/0.0.111/palette-modifiers-iossimulatorarm64-0.0.111.jar returned status 404
+0.0.111	metadata	2026-05-24T20:23:45Z	
+0.0.115		2026-05-30T21:02:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alexrdclement/palette/palette-modifiers-iossimulatorarm64/0.0.115/palette-modifiers-iossimulatorarm64-0.0.115.jar returned status 404
+0.0.115	metadata	2026-05-30T21:02:02Z	
 0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alexrdclement/palette/palette-modifiers-iossimulatorarm64/0.0.14/palette-modifiers-iossimulatorarm64-0.0.14.jar returned status 404
 0.0.14	metadata	2026-01-01T21:26:03Z	
 0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alexrdclement/palette/palette-modifiers-iossimulatorarm64/0.0.15/palette-modifiers-iossimulatorarm64-0.0.15.jar returned status 404

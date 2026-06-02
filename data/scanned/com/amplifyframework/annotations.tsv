@@ -60,6 +60,7 @@
 2.34.0		2026-03-05T02:11:41Z	
 2.35.0		2026-04-08T22:09:44Z	
 2.36.0		2026-04-23T17:50:21Z	
+2.37.0		2026-05-22T18:11:30Z	
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplifyframework/annotations/2.4.0/annotations-2.4.0.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplifyframework/annotations/2.4.1/annotations-2.4.1.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplifyframework/annotations/2.5.0/annotations-2.5.0.jar returned status 404

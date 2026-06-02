@@ -1875,3 +1875,5 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.44.13	named	software.amazon.awssdk	bundle-sdk	2026-05-26T21:32:10Z	1.17.1
 2.44.14	named	software.amazon.awssdk	bundle	2026-05-27T21:20:14Z	1.17.1
 2.44.14	named	software.amazon.awssdk	bundle-sdk	2026-05-27T21:20:33Z	1.17.1
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-jdbc	2026-06-01T12:12:42Z	1.16.1
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-jdbc-common	2026-06-01T12:12:42Z	1.16.1

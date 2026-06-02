@@ -28,3 +28,5 @@
 0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/barion/barionsdk/0.4.4/barionsdk-0.4.4.jar returned status 404
 0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/barion/barionsdk/0.4.5/barionsdk-0.4.5.jar returned status 404
 0.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/barion/barionsdk/0.4.6/barionsdk-0.4.6.jar returned status 404
+1.0.0		2026-05-21T09:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/barion/barionsdk/1.0.0/barionsdk-1.0.0.jar returned status 404
+1.0.1		2026-05-22T07:31:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/barion/barionsdk/1.0.1/barionsdk-1.0.1.jar returned status 404

@@ -912,3 +912,5 @@
 4.12.6.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-28T19:13:37Z	33.4.8-jre
 4.12.7.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-05-28T21:12:37Z	33.4.8-jre
 6.0.21	named	io.digiexpress	thena-sql-client-annot-proc	2026-05-30T11:33:11Z	33.5.0-jre
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps	2026-06-01T12:12:41Z	33.4.8-jre
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-odps	2026-06-01T12:12:42Z	33.4.8-jre

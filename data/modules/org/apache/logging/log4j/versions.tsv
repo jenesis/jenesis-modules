@@ -2494,3 +2494,5 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 3.0	named	io.github.zhouzhoucoder	zys-wrench-starter-dynamic-config-center	2026-05-27T09:59:02Z	2.17.2
 3.0	named	io.github.zhouzhoucoder	zys-wrench-starter-rate-limiter	2026-05-27T09:59:02Z	2.17.2
 3.0	named	io.github.zhouzhoucoder	zys-wrench-starter-task-job	2026-05-27T09:59:02Z	2.17.2
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-elasticsearch	2026-06-01T12:12:41Z	2.17.0
+1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch8	2026-06-01T12:12:42Z	2.17.0

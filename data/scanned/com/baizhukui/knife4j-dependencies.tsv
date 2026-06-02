@@ -9,3 +9,5 @@
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baizhukui/knife4j-dependencies/5.0.3/knife4j-dependencies-5.0.3.jar returned status 404
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baizhukui/knife4j-dependencies/5.0.4/knife4j-dependencies-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baizhukui/knife4j-dependencies/5.0.5/knife4j-dependencies-5.0.5.jar returned status 404
+5.0.6		2026-05-20T12:07:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baizhukui/knife4j-dependencies/5.0.6/knife4j-dependencies-5.0.6.jar returned status 404
+5.0.7		2026-05-23T08:02:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baizhukui/knife4j-dependencies/5.0.7/knife4j-dependencies-5.0.7.jar returned status 404
