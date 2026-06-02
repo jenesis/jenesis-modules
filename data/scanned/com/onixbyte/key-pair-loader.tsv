@@ -13,3 +13,4 @@
 2.2.0		2025-06-04T03:46:53Z	
 2.3.0		2025-06-12T01:50:31Z	
 2.4.0		2025-06-17T08:00:36Z	
+2.4.1		2026-05-29T09:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onixbyte/key-pair-loader/2.4.1/key-pair-loader-2.4.1.jar returned status 404

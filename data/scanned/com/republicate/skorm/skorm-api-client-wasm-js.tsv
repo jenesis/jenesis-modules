@@ -3,6 +3,7 @@
 0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.12/skorm-api-client-wasm-js-0.12.jar returned status 404
 0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.13/skorm-api-client-wasm-js-0.13.jar returned status 404
 0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.14/skorm-api-client-wasm-js-0.14.jar returned status 404
+0.15		2026-05-21T20:50:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.15/skorm-api-client-wasm-js-0.15.jar returned status 404
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.4/skorm-api-client-wasm-js-0.4.jar returned status 404
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.5/skorm-api-client-wasm-js-0.5.jar returned status 404
 0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-wasm-js/0.6/skorm-api-client-wasm-js-0.6.jar returned status 404

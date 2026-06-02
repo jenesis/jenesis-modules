@@ -7,6 +7,7 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.1.0/witchcraft-health-api-2.1.0.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.10.0/witchcraft-health-api-2.10.0.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.11.0/witchcraft-health-api-2.11.0.jar returned status 404
+2.12.0		2026-05-27T14:50:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.12.0/witchcraft-health-api-2.12.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.2.0/witchcraft-health-api-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.3.0/witchcraft-health-api-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/witchcraft/api/witchcraft-health-api/2.4.0/witchcraft-health-api-2.4.0.jar returned status 404

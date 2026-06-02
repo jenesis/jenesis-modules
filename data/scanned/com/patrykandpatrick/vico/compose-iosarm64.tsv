@@ -30,6 +30,8 @@
 3.1.0-alpha.3	metadata	2026-03-22T20:12:29Z	
 3.1.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.1.0-beta.1/compose-iosarm64-3.1.0-beta.1.jar returned status 404
 3.1.0-beta.1	metadata	2026-03-31T12:09:34Z	
+3.2.0		2026-05-31T15:18:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.0/compose-iosarm64-3.2.0.jar returned status 404
+3.2.0	metadata	2026-05-31T15:18:14Z	
 3.2.0-next.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.0-next.1/compose-iosarm64-3.2.0-next.1.jar returned status 404
 3.2.0-next.1	metadata	2026-04-19T11:21:07Z	
 3.2.0-next.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.0-next.2/compose-iosarm64-3.2.0-next.2.jar returned status 404
@@ -40,3 +42,7 @@
 3.2.0-next.4	metadata	2026-05-10T17:26:53Z	
 3.2.0-next.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.0-next.5/compose-iosarm64-3.2.0-next.5.jar returned status 404
 3.2.0-next.5	metadata	2026-05-17T12:51:53Z	
+3.2.0-next.6		2026-05-31T11:29:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.0-next.6/compose-iosarm64-3.2.0-next.6.jar returned status 404
+3.2.0-next.6	metadata	2026-05-31T11:29:16Z	
+3.2.1		2026-05-31T20:36:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-iosarm64/3.2.1/compose-iosarm64-3.2.1.jar returned status 404
+3.2.1	metadata	2026-05-31T20:36:19Z	

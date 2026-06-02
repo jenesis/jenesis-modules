@@ -52,7 +52,10 @@
 9.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.56/unicorn_li-9.2.56.jar returned status 404
 9.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.57/unicorn_li-9.2.57.jar returned status 404
 9.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.58/unicorn_li-9.2.58.jar returned status 404
+9.2.59		2026-05-25T12:32:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.59/unicorn_li-9.2.59.jar returned status 404
 9.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.6/unicorn_li-9.2.6.jar returned status 404
+9.2.60		2026-05-27T10:10:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.60/unicorn_li-9.2.60.jar returned status 404
+9.2.61		2026-05-28T08:32:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.61/unicorn_li-9.2.61.jar returned status 404
 9.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.7/unicorn_li-9.2.7.jar returned status 404
 9.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.8/unicorn_li-9.2.8.jar returned status 404
 9.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_li/9.2.9/unicorn_li-9.2.9.jar returned status 404

@@ -963,6 +963,7 @@
 0.2.0-i129.further_separation	named	com.sparkutils	quality_connect_testshade_4.1.0.oss_4.1_2.13	2026-05-23T19:44:41Z	2.0
 0.2.0-i129.further_separation	named	com.sparkutils	quality_testshade_17.3.dbr_4.0_2.13	2026-05-23T19:44:50Z	2.0
 0.2.1	named	dev.feit	slop4j-cli	2026-05-24T10:35:00Z	2.6
+26.04.2	named	com.nvidia	rapids-4-spark-tools_2.12	2026-05-26T21:13:18Z	2.0
 0.2.0-i129.further_separation.2	named	com.sparkutils	quality_connect_testshade_4.1.0.oss_4.1_2.13	2026-05-28T09:18:27Z	2.0
 0.2.0-i129.further_separation.2	named	com.sparkutils	quality_testshade_4.0.0.oss_4.0_2.13	2026-05-28T09:18:30Z	2.0
 0.2.0-i129.further_separation.2	named	com.sparkutils	quality_testshade_4.1.0.oss_4.1_2.13	2026-05-28T09:18:36Z	2.0

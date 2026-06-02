@@ -76,3 +76,5 @@
 2.4.4	metadata	2026-05-01T13:16:28Z	
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/multiplatform-m3-iossimulatorarm64/2.5.0/multiplatform-m3-iossimulatorarm64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-05-09T11:27:42Z	
+2.5.1		2026-05-31T16:27:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/multiplatform-m3-iossimulatorarm64/2.5.1/multiplatform-m3-iossimulatorarm64-2.5.1.jar returned status 404
+2.5.1	metadata	2026-05-31T16:27:27Z	
