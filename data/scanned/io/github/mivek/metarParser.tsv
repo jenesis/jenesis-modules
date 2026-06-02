@@ -37,3 +37,8 @@
 2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.22.0/metarParser-2.22.0.jar returned status 404
 2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.23.0/metarParser-2.23.0.jar returned status 404
 2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.24.0/metarParser-2.24.0.jar returned status 404
+2.25.0		2026-05-27T21:29:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.25.0/metarParser-2.25.0.jar returned status 404
+2.26.0		2026-05-29T12:04:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.26.0/metarParser-2.26.0.jar returned status 404
+2.26.1		2026-05-30T18:52:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.26.1/metarParser-2.26.1.jar returned status 404
+2.26.2		2026-05-30T20:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.26.2/metarParser-2.26.2.jar returned status 404
+2.26.3		2026-05-30T20:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mivek/metarParser/2.26.3/metarParser-2.26.3.jar returned status 404
