@@ -1,3 +1,4 @@
+1.0.0		2026-05-29T06:54:27Z	
 2.4.5-HY-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-1/mg-boot-base-core-2.4.5-HY-1.jar returned status 404
 2.4.5-HY-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-10/mg-boot-base-core-2.4.5-HY-10.jar returned status 404
 2.4.5-HY-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-11/mg-boot-base-core-2.4.5-HY-11.jar returned status 404
@@ -128,7 +129,15 @@
 3.7.1-beta-136_1_1		2026-05-13T10:23:59Z	
 3.7.1-beta-137_1_1		2026-05-14T02:25:12Z	
 3.7.1-beta-138_1_1		2026-05-15T10:25:00Z	
+3.7.1-beta-139_1_1		2026-05-19T04:34:49Z	
 3.7.1-beta-14		2025-11-04T20:14:58Z	
+3.7.1-beta-140_1_1		2026-05-19T05:06:31Z	
+3.7.1-beta-141_1_1		2026-05-19T05:09:38Z	
+3.7.1-beta-142_1_1		2026-05-19T09:04:44Z	
+3.7.1-beta-143_1_1		2026-05-19T15:30:32Z	
+3.7.1-beta-144_1_1		2026-05-20T08:25:24Z	
+3.7.1-beta-145_1_1		2026-05-21T10:29:40Z	
+3.7.1-beta-146_1_1		2026-05-27T07:03:57Z	
 3.7.1-beta-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/3.7.1-beta-15/mg-boot-base-core-3.7.1-beta-15.jar returned status 404
 3.7.1-beta-16		2025-11-04T20:15:00Z	
 3.7.1-beta-17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/3.7.1-beta-17/mg-boot-base-core-3.7.1-beta-17.jar returned status 404

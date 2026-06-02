@@ -20,3 +20,4 @@
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevHttpCapture/1.1.9/DevHttpCapture-1.1.9.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevHttpCapture/1.2.0/DevHttpCapture-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevHttpCapture/1.2.1/DevHttpCapture-1.2.1.jar returned status 404
+1.2.2		2026-05-19T15:38:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevHttpCapture/1.2.2/DevHttpCapture-1.2.2.jar returned status 404

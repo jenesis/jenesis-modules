@@ -16,3 +16,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevBase/1.2.0/DevBase-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevBase/1.2.1/DevBase-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevBase/1.2.2/DevBase-1.2.2.jar returned status 404
+1.2.3		2026-05-19T15:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevBase/1.2.3/DevBase-1.2.3.jar returned status 404

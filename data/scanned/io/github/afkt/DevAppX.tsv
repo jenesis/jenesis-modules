@@ -28,3 +28,4 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAppX/2.5.0/DevAppX-2.5.0.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAppX/2.5.1/DevAppX-2.5.1.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAppX/2.5.2/DevAppX-2.5.2.jar returned status 404
+2.5.3		2026-05-19T15:26:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAppX/2.5.3/DevAppX-2.5.3.jar returned status 404

@@ -94,6 +94,30 @@
 1.0.3	linux	2026-03-27T09:19:14Z	
 1.0.3	macos	2026-03-27T09:19:14Z	
 1.0.3	windows	2026-03-27T09:19:14Z	
+1.0.30		2026-05-21T01:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.30/spartan-internal-1.0.30.jar returned status 404
+1.0.30	linux	2026-05-21T01:54:40Z	
+1.0.30	macos	2026-05-21T01:54:40Z	
+1.0.30	windows	2026-05-21T01:54:40Z	
+1.0.31		2026-05-21T23:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.31/spartan-internal-1.0.31.jar returned status 404
+1.0.31	linux	2026-05-21T23:38:00Z	
+1.0.31	macos	2026-05-21T23:38:00Z	
+1.0.31	windows	2026-05-21T23:38:00Z	
+1.0.32		2026-05-27T08:24:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.32/spartan-internal-1.0.32.jar returned status 404
+1.0.32	linux	2026-05-27T08:24:28Z	
+1.0.32	macos	2026-05-27T08:24:28Z	
+1.0.32	windows	2026-05-27T08:24:28Z	
+1.0.33		2026-05-27T09:32:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.33/spartan-internal-1.0.33.jar returned status 404
+1.0.33	linux	2026-05-27T09:32:43Z	
+1.0.33	macos	2026-05-27T09:32:43Z	
+1.0.33	windows	2026-05-27T09:32:43Z	
+1.0.34		2026-05-27T22:48:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.34/spartan-internal-1.0.34.jar returned status 404
+1.0.34	linux	2026-05-27T22:48:34Z	
+1.0.34	macos	2026-05-27T22:48:34Z	
+1.0.34	windows	2026-05-27T22:48:34Z	
+1.0.35		2026-05-28T03:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.35/spartan-internal-1.0.35.jar returned status 404
+1.0.35	linux	2026-05-28T03:01:25Z	
+1.0.35	macos	2026-05-28T03:01:25Z	
+1.0.35	windows	2026-05-28T03:01:25Z	
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alepandocr/spartan-internal/1.0.4/spartan-internal-1.0.4.jar returned status 404
 1.0.4	linux	2026-03-31T03:45:15Z	
 1.0.4	macos	2026-03-31T03:45:15Z	

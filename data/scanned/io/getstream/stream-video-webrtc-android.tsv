@@ -1,3 +1,7 @@
 137.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/137.0.1/stream-video-webrtc-android-137.0.1.jar returned status 404
 137.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/137.1.0/stream-video-webrtc-android-137.1.0.jar returned status 404
 137.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/137.1.1/stream-video-webrtc-android-137.1.1.jar returned status 404
+145.6.0		2026-05-22T08:54:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/145.6.0/stream-video-webrtc-android-145.6.0.jar returned status 404
+145.8.0		2026-05-25T18:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/145.8.0/stream-video-webrtc-android-145.8.0.jar returned status 404
+145.9.0		2026-05-27T11:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/145.9.0/stream-video-webrtc-android-145.9.0.jar returned status 404
+146.7.0		2026-05-25T14:47:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-video-webrtc-android/146.7.0/stream-video-webrtc-android-146.7.0.jar returned status 404
