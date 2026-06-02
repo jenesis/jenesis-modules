@@ -199,6 +199,7 @@
 3.1.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.1.90/sql-platform-3.1.90.jar returned status 404
 3.1.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.1.91/sql-platform-3.1.91.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.2.1/sql-platform-3.2.1.jar returned status 404
+3.2.10		2026-05-21T00:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.2.10/sql-platform-3.2.10.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.2.2/sql-platform-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.2.3/sql-platform-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/easy-query/sql-platform/3.2.4/sql-platform-3.2.4.jar returned status 404

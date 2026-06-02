@@ -1,4 +1,15 @@
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.10.0/sdk-android-0.10.0.jar returned status 404
+0.11.0		2026-05-20T08:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.11.0/sdk-android-0.11.0.jar returned status 404
+0.12.0		2026-05-20T09:02:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.12.0/sdk-android-0.12.0.jar returned status 404
+0.13.0		2026-05-21T08:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.13.0/sdk-android-0.13.0.jar returned status 404
+0.13.1		2026-05-21T15:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.13.1/sdk-android-0.13.1.jar returned status 404
+0.14.0		2026-05-21T18:21:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.14.0/sdk-android-0.14.0.jar returned status 404
+0.15.0		2026-05-21T18:59:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.15.0/sdk-android-0.15.0.jar returned status 404
+0.16.0		2026-05-21T21:52:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.16.0/sdk-android-0.16.0.jar returned status 404
+0.17.0		2026-05-23T14:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.17.0/sdk-android-0.17.0.jar returned status 404
+0.18.0		2026-05-23T19:20:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.18.0/sdk-android-0.18.0.jar returned status 404
+0.19.0		2026-05-24T09:52:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.19.0/sdk-android-0.19.0.jar returned status 404
+0.22.0		2026-05-25T11:17:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.22.0/sdk-android-0.22.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.3.0/sdk-android-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.4.0/sdk-android-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/droponair/sdk-android/0.5.0/sdk-android-0.5.0.jar returned status 404

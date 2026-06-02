@@ -16,3 +16,5 @@
 1.14.0_4	metadata	2026-01-19T08:02:51Z	
 1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp3-libnghttp3-macosarm64/1.15.0/nghttp3-libnghttp3-macosarm64-1.15.0.jar returned status 404
 1.15.0	metadata	2026-01-21T05:36:39Z	
+1.16.0		2026-06-01T10:37:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp3-libnghttp3-macosarm64/1.16.0/nghttp3-libnghttp3-macosarm64-1.16.0.jar returned status 404
+1.16.0	metadata	2026-06-01T10:37:10Z	

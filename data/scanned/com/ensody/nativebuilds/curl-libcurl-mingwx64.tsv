@@ -9,3 +9,4 @@
 8.18.0_5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-mingwx64/8.18.0_5/curl-libcurl-mingwx64-8.18.0_5.jar returned status 404
 8.18.0_6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-mingwx64/8.18.0_6/curl-libcurl-mingwx64-8.18.0_6.jar returned status 404
 8.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-mingwx64/8.19.0/curl-libcurl-mingwx64-8.19.0.jar returned status 404
+8.20.0		2026-05-20T20:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-mingwx64/8.20.0/curl-libcurl-mingwx64-8.20.0.jar returned status 404
