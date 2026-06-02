@@ -6,6 +6,10 @@
 2.1.3	metadata	2026-05-04T14:43:04Z	
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.1/cmp-product-tickets-iosx64-3.2.1.jar returned status 404
 3.2.1	metadata	2026-04-28T07:53:12Z	
+3.2.10		2026-05-22T14:52:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.10/cmp-product-tickets-iosx64-3.2.10.jar returned status 404
+3.2.10	metadata	2026-05-22T14:52:12Z	
+3.2.11		2026-05-25T04:14:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.11/cmp-product-tickets-iosx64-3.2.11.jar returned status 404
+3.2.11	metadata	2026-05-25T04:14:05Z	
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.2/cmp-product-tickets-iosx64-3.2.2.jar returned status 404
 3.2.2	metadata	2026-04-29T09:12:43Z	
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.3/cmp-product-tickets-iosx64-3.2.3.jar returned status 404
@@ -20,3 +24,11 @@
 3.2.7	metadata	2026-05-12T10:42:26Z	
 3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.2.8/cmp-product-tickets-iosx64-3.2.8.jar returned status 404
 3.2.8	metadata	2026-05-18T03:59:23Z	
+3.3.0		2026-05-25T17:41:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.3.0/cmp-product-tickets-iosx64-3.3.0.jar returned status 404
+3.3.0	metadata	2026-05-25T17:41:19Z	
+3.3.1		2026-05-27T13:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.3.1/cmp-product-tickets-iosx64-3.3.1.jar returned status 404
+3.3.1	metadata	2026-05-27T13:36:30Z	
+3.4.0		2026-05-29T06:35:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.4.0/cmp-product-tickets-iosx64-3.4.0.jar returned status 404
+3.4.0	metadata	2026-05-29T06:35:51Z	
+3.4.1		2026-05-29T13:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-product-tickets-iosx64/3.4.1/cmp-product-tickets-iosx64-3.4.1.jar returned status 404
+3.4.1	metadata	2026-05-29T13:41:43Z	

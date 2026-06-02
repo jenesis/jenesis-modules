@@ -2,6 +2,8 @@
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/2.1.2/cmp-open-url-android-2.1.2.jar returned status 404
 2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/2.1.3/cmp-open-url-android-2.1.3.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.1/cmp-open-url-android-3.2.1.jar returned status 404
+3.2.10		2026-05-22T14:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.10/cmp-open-url-android-3.2.10.jar returned status 404
+3.2.11		2026-05-25T04:07:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.11/cmp-open-url-android-3.2.11.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.2/cmp-open-url-android-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.3/cmp-open-url-android-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.4/cmp-open-url-android-3.2.4.jar returned status 404
@@ -9,3 +11,7 @@
 3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.6/cmp-open-url-android-3.2.6.jar returned status 404
 3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.7/cmp-open-url-android-3.2.7.jar returned status 404
 3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.2.8/cmp-open-url-android-3.2.8.jar returned status 404
+3.3.0		2026-05-25T17:42:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.3.0/cmp-open-url-android-3.3.0.jar returned status 404
+3.3.1		2026-05-27T13:31:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.3.1/cmp-open-url-android-3.3.1.jar returned status 404
+3.4.0		2026-05-29T06:37:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.4.0/cmp-open-url-android-3.4.0.jar returned status 404
+3.4.1		2026-05-29T13:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-android/3.4.1/cmp-open-url-android-3.4.1.jar returned status 404

@@ -1,0 +1,5 @@
+2.1.0		2026-05-27T09:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-koin-wasm-js/2.1.0/worker-koin-wasm-js-2.1.0.jar returned status 404
+2.1.1		2026-05-28T16:30:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-koin-wasm-js/2.1.1/worker-koin-wasm-js-2.1.1.jar returned status 404
+3.0.0		2026-05-29T13:26:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-koin-wasm-js/3.0.0/worker-koin-wasm-js-3.0.0.jar returned status 404
+3.0.1		2026-05-29T15:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-koin-wasm-js/3.0.1/worker-koin-wasm-js-3.0.1.jar returned status 404
+3.0.2		2026-05-29T16:27:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-koin-wasm-js/3.0.2/worker-koin-wasm-js-3.0.2.jar returned status 404

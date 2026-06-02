@@ -1,0 +1,8 @@
+2.1.1		2026-05-28T16:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-iossimulatorarm64/2.1.1/worker-web-push-iossimulatorarm64-2.1.1.jar returned status 404
+2.1.1	metadata	2026-05-28T16:39:23Z	
+3.0.0		2026-05-29T13:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-iossimulatorarm64/3.0.0/worker-web-push-iossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-05-29T13:38:19Z	
+3.0.1		2026-05-29T15:53:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-iossimulatorarm64/3.0.1/worker-web-push-iossimulatorarm64-3.0.1.jar returned status 404
+3.0.1	metadata	2026-05-29T15:53:33Z	
+3.0.2		2026-05-29T16:32:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-iossimulatorarm64/3.0.2/worker-web-push-iossimulatorarm64-3.0.2.jar returned status 404
+3.0.2	metadata	2026-05-29T16:32:12Z	

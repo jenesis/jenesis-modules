@@ -30,3 +30,5 @@
 1.1.9	metadata	2026-02-09T15:28:50Z	
 1.1.9beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/equinox-core-iosarm64/1.1.9beta-01/equinox-core-iosarm64-1.1.9beta-01.jar returned status 404
 1.1.9beta-01	metadata	2026-02-03T11:08:34Z	
+1.2.0		2026-05-23T17:17:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/equinox-core-iosarm64/1.2.0/equinox-core-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-05-23T17:17:38Z	

@@ -1,3 +1,5 @@
+1.0.0		2026-05-23T21:51:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/kassaforte-macosarm64/1.0.0/kassaforte-macosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-05-23T21:51:11Z	
 1.0.0beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/kassaforte-macosarm64/1.0.0beta-01/kassaforte-macosarm64-1.0.0beta-01.jar returned status 404
 1.0.0beta-01	metadata	2025-09-22T17:43:09Z	
 1.0.0beta-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/kassaforte-macosarm64/1.0.0beta-02/kassaforte-macosarm64-1.0.0beta-02.jar returned status 404
