@@ -12,3 +12,5 @@
 3.1.471			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/plugins/mobitor-plugins-parent/3.1.471/mobitor-plugins-parent-3.1.471.jar returned status 404
 3.1.477			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/plugins/mobitor-plugins-parent/3.1.477/mobitor-plugins-parent-3.1.477.jar returned status 404
 3.1.480			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/plugins/mobitor-plugins-parent/3.1.480/mobitor-plugins-parent-3.1.480.jar returned status 404
+3.1.482		2026-05-22T12:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/plugins/mobitor-plugins-parent/3.1.482/mobitor-plugins-parent-3.1.482.jar returned status 404
+3.1.483		2026-05-26T07:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/plugins/mobitor-plugins-parent/3.1.483/mobitor-plugins-parent-3.1.483.jar returned status 404

@@ -133,7 +133,11 @@
 4.5.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.56/pipeline.device-detection-4.5.56.jar returned status 404
 4.5.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.57/pipeline.device-detection-4.5.57.jar returned status 404
 4.5.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.58/pipeline.device-detection-4.5.58.jar returned status 404
+4.5.59		2026-05-20T17:59:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.59/pipeline.device-detection-4.5.59.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.6/pipeline.device-detection-4.5.6.jar returned status 404
+4.5.60		2026-05-20T18:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.60/pipeline.device-detection-4.5.60.jar returned status 404
+4.5.61		2026-05-26T05:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.61/pipeline.device-detection-4.5.61.jar returned status 404
+4.5.62		2026-05-28T05:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.62/pipeline.device-detection-4.5.62.jar returned status 404
 4.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.7/pipeline.device-detection-4.5.7.jar returned status 404
 4.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.8/pipeline.device-detection-4.5.8.jar returned status 404
 4.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.device-detection/4.5.9/pipeline.device-detection-4.5.9.jar returned status 404

@@ -18,3 +18,7 @@
 1.8.4-beta	metadata	2026-05-04T07:25:18Z	
 1.8.5-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-kit-kni-iosarm64/1.8.5-beta/sentinel-kit-kni-iosarm64-1.8.5-beta.jar returned status 404
 1.8.5-beta	metadata	2026-05-14T18:38:12Z	
+1.8.6-beta		2026-05-21T16:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-kit-kni-iosarm64/1.8.6-beta/sentinel-kit-kni-iosarm64-1.8.6-beta.jar returned status 404
+1.8.6-beta	metadata	2026-05-21T16:36:35Z	
+1.8.7-beta		2026-05-31T04:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-kit-kni-iosarm64/1.8.7-beta/sentinel-kit-kni-iosarm64-1.8.7-beta.jar returned status 404
+1.8.7-beta	metadata	2026-05-31T04:48:52Z	

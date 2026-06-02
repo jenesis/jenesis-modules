@@ -166,3 +166,5 @@
 1.5.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/logback-access/1.5.30/logback-access-1.5.30.jar returned status 404
 1.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/logback-access/1.5.31/logback-access-1.5.31.jar returned status 404
 1.5.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/logback-access/1.5.32/logback-access-1.5.32.jar returned status 404
+1.5.33		2026-05-27T19:53:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/logback-access/1.5.33/logback-access-1.5.33.jar returned status 404
+1.5.34		2026-06-01T08:52:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/logback-access/1.5.34/logback-access-1.5.34.jar returned status 404

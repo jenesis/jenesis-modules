@@ -1,0 +1,5 @@
+0.1.1		2026-05-27T21:32:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accucodeai/kash/kash-app-wasm-js/0.1.1/kash-app-wasm-js-0.1.1.jar returned status 404
+0.1.2		2026-05-28T20:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accucodeai/kash/kash-app-wasm-js/0.1.2/kash-app-wasm-js-0.1.2.jar returned status 404
+0.1.3		2026-05-29T17:41:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accucodeai/kash/kash-app-wasm-js/0.1.3/kash-app-wasm-js-0.1.3.jar returned status 404
+0.1.4		2026-06-01T22:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accucodeai/kash/kash-app-wasm-js/0.1.4/kash-app-wasm-js-0.1.4.jar returned status 404
+0.1.5		2026-06-01T22:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accucodeai/kash/kash-app-wasm-js/0.1.5/kash-app-wasm-js-0.1.5.jar returned status 404

@@ -66,6 +66,11 @@
 4.5.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.32/pipeline.ip-intelligence-4.5.32.jar returned status 404
 4.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.33/pipeline.ip-intelligence-4.5.33.jar returned status 404
 4.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.34/pipeline.ip-intelligence-4.5.34.jar returned status 404
+4.5.35		2026-05-21T06:21:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.35/pipeline.ip-intelligence-4.5.35.jar returned status 404
+4.5.36		2026-05-26T06:21:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.36/pipeline.ip-intelligence-4.5.36.jar returned status 404
+4.5.37		2026-05-26T21:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.37/pipeline.ip-intelligence-4.5.37.jar returned status 404
+4.5.38		2026-05-28T09:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.38/pipeline.ip-intelligence-4.5.38.jar returned status 404
+4.5.39		2026-06-01T05:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.39/pipeline.ip-intelligence-4.5.39.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.4/pipeline.ip-intelligence-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.5/pipeline.ip-intelligence-4.5.5.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.ip-intelligence/4.5.6/pipeline.ip-intelligence-4.5.6.jar returned status 404

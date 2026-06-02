@@ -5,3 +5,4 @@
 2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/mindbox/mindbox-firebase-starter/2.15.0/mindbox-firebase-starter-2.15.0.jar returned status 404
 2.15.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/mindbox/mindbox-firebase-starter/2.15.0-rc/mindbox-firebase-starter-2.15.0-rc.jar returned status 404
 2.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/mindbox/mindbox-firebase-starter/2.15.1/mindbox-firebase-starter-2.15.1.jar returned status 404
+2.15.2		2026-05-22T09:29:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/mindbox/mindbox-firebase-starter/2.15.2/mindbox-firebase-starter-2.15.2.jar returned status 404
