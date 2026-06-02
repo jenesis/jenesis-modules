@@ -2,3 +2,4 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thebytearray/lib/taglib/1.0.4/taglib-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thebytearray/lib/taglib/1.0.5/taglib-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thebytearray/lib/taglib/1.0.6/taglib-1.0.6.jar returned status 404
+1.0.7		2026-05-22T22:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thebytearray/lib/taglib/1.0.7/taglib-1.0.7.jar returned status 404

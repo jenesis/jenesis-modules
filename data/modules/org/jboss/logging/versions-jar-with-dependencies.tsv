@@ -49,3 +49,4 @@ v1.3.1	named	com.abavilla	fpi-framework-core	2022-11-08T02:22:03Z	3.5.0.Final
 2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-ldes-client	2024-12-19T10:32:12Z	3.5.3.Final
 2.12.0	named	be.vlaanderen.informatievlaanderen.ldes.ldio	ldio-change-detection-filter	2024-12-19T10:32:58Z	3.5.3.Final
 1.5.26.Final	named	org.jboss.ironjacamar	ironjacamar-sjc	2026-05-13T10:30:43Z	3.6.3.Final
+1.0.6	named	org.tinystruct	tinystruct-undertow-server	2026-05-23T01:01:08Z	3.5.3.Final

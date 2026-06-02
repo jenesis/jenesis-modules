@@ -5,3 +5,4 @@
 1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-java-sdk-jakarta-parent/1.0.0.Alpha1/a2a-java-sdk-jakarta-parent-1.0.0.Alpha1.jar returned status 404
 1.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-java-sdk-jakarta-parent/1.0.0.Alpha2/a2a-java-sdk-jakarta-parent-1.0.0.Alpha2.jar returned status 404
 1.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-java-sdk-jakarta-parent/1.0.0.Alpha3/a2a-java-sdk-jakarta-parent-1.0.0.Alpha3.jar returned status 404
+1.0.0.Beta1		2026-05-18T14:35:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-java-sdk-jakarta-parent/1.0.0.Beta1/a2a-java-sdk-jakarta-parent-1.0.0.Beta1.jar returned status 404

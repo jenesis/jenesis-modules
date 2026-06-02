@@ -1,3 +1,4 @@
 1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/testing/wildfly-testing-tools-bom/1.0.0.Alpha1/wildfly-testing-tools-bom-1.0.0.Alpha1.jar returned status 404
 1.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/testing/wildfly-testing-tools-bom/1.0.0.Alpha2/wildfly-testing-tools-bom-1.0.0.Alpha2.jar returned status 404
 1.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/testing/wildfly-testing-tools-bom/1.0.0.Alpha3/wildfly-testing-tools-bom-1.0.0.Alpha3.jar returned status 404
+1.0.0.Alpha4		2026-05-21T21:19:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/testing/wildfly-testing-tools-bom/1.0.0.Alpha4/wildfly-testing-tools-bom-1.0.0.Alpha4.jar returned status 404

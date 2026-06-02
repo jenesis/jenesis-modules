@@ -612,3 +612,5 @@
 2.0.2	named	com.guicedee.modules.services	json	2026-05-10T14:38:11Z	2.0.2
 20251224	named	io.github.dasilvafg	jjson	2026-05-12T00:32:24Z	20251224
 3.0.80	named	io.swagger.codegen.v3	swagger-codegen-cli	2026-05-13T13:52:49Z	20250517
+1.0.0-alpha.22	named	org.test-charm	bean-util	2026-05-28T16:12:14Z	20251224
+1.0.0-alpha.23	named	org.test-charm	bean-util	2026-05-29T03:39:50Z	20251224

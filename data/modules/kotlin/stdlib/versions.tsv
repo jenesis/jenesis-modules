@@ -2118,4 +2118,8 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 1.0.27	named	de.darkatra.injector	kotlin-dll-injector-application	2026-05-14T16:17:25Z	
 4.10.0-rc1	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2026-05-14T17:36:42Z	
 0.19.0-944	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-05-14T20:26:22Z	
+1.7.2	named	org.virtuslab	bazel-steward	2026-05-18T12:34:45Z	
 1.0.2	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-05-18T14:51:22Z	
+1.7.3	named	org.virtuslab	bazel-steward	2026-05-25T10:25:38Z	
+1.7.4-rc1	named	org.virtuslab	bazel-steward	2026-05-25T16:48:45Z	
+1.7.4	named	org.virtuslab	bazel-steward	2026-05-25T17:19:09Z	

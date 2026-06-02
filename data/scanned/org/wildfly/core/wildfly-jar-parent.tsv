@@ -20,3 +20,4 @@
 32.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-jar-parent/32.0.0.Beta6/wildfly-jar-parent-32.0.0.Beta6.jar returned status 404
 32.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-jar-parent/32.0.0.Beta7/wildfly-jar-parent-32.0.0.Beta7.jar returned status 404
 32.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-jar-parent/32.0.0.Final/wildfly-jar-parent-32.0.0.Final.jar returned status 404
+33.0.0.Beta1		2026-05-28T10:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-jar-parent/33.0.0.Beta1/wildfly-jar-parent-33.0.0.Beta1.jar returned status 404

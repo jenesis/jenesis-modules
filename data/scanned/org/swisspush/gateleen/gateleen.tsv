@@ -19,3 +19,5 @@
 2.1.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/swisspush/gateleen/gateleen/2.1.44/gateleen-2.1.44.jar returned status 404
 2.1.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/swisspush/gateleen/gateleen/2.1.45/gateleen-2.1.45.jar returned status 404
 2.1.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/swisspush/gateleen/gateleen/2.1.46/gateleen-2.1.46.jar returned status 404
+2.1.47		2026-05-20T14:58:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/swisspush/gateleen/gateleen/2.1.47/gateleen-2.1.47.jar returned status 404
+2.1.48		2026-05-26T08:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/swisspush/gateleen/gateleen/2.1.48/gateleen-2.1.48.jar returned status 404
