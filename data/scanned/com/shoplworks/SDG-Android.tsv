@@ -35,6 +35,7 @@
 1.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.17.4/SDG-Android-1.17.4.jar returned status 404
 1.17.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.17.5/SDG-Android-1.17.5.jar returned status 404
 1.17.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.17.6/SDG-Android-1.17.6.jar returned status 404
+1.18.0		2026-05-21T05:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.18.0/SDG-Android-1.18.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.6.1/SDG-Android-1.6.1.jar returned status 404
 1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.6.10/SDG-Android-1.6.10.jar returned status 404
 1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shoplworks/SDG-Android/1.6.11/SDG-Android-1.6.11.jar returned status 404

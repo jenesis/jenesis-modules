@@ -17,6 +17,7 @@
 13.1.0		2025-09-30T01:28:49Z	
 13.1.1		2026-01-29T23:39:45Z	
 13.2.0		2026-04-02T19:37:38Z	
+13.2.1		2026-05-20T23:11:16Z	
 9.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/salesforce/mobilesdk/SalesforceAnalytics/9.1.1/SalesforceAnalytics-9.1.1.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/salesforce/mobilesdk/SalesforceAnalytics/9.2.0/SalesforceAnalytics-9.2.0.jar returned status 404
 9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/salesforce/mobilesdk/SalesforceAnalytics/9.2.1/SalesforceAnalytics-9.2.1.jar returned status 404

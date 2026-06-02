@@ -23,6 +23,7 @@
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.3.0/solsuite-10.3.0.jar returned status 404
 10.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.3.1/solsuite-10.3.1.jar returned status 404
 10.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.30.0/solsuite-10.30.0.jar returned status 404
+10.30.1		2026-05-25T15:02:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.30.1/solsuite-10.30.1.jar returned status 404
 10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.4.0/solsuite-10.4.0.jar returned status 404
 10.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.4.1/solsuite-10.4.1.jar returned status 404
 10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/solacesystems/solsuite/10.5.0/solsuite-10.5.0.jar returned status 404

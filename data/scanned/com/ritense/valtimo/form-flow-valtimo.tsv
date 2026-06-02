@@ -156,6 +156,8 @@
 12.34.0.RELEASE	plain	2026-05-06T11:20:13Z	
 12.35.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/form-flow-valtimo/12.35.0.RELEASE/form-flow-valtimo-12.35.0.RELEASE.jar returned status 404
 12.35.0.RELEASE	plain	2026-05-13T12:04:13Z	
+12.36.0.RELEASE		2026-05-20T10:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/form-flow-valtimo/12.36.0.RELEASE/form-flow-valtimo-12.36.0.RELEASE.jar returned status 404
+12.36.0.RELEASE	plain	2026-05-20T10:01:24Z	
 12.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/form-flow-valtimo/12.4.0.RELEASE/form-flow-valtimo-12.4.0.RELEASE.jar returned status 404
 12.4.0.RELEASE	plain	2024-10-09T19:28:51Z	
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/form-flow-valtimo/12.4.1.RELEASE/form-flow-valtimo-12.4.1.RELEASE.jar returned status 404
