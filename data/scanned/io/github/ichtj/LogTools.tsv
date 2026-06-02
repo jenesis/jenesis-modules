@@ -12,3 +12,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ichtj/LogTools/1.2.0/LogTools-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ichtj/LogTools/1.3.0/LogTools-1.3.0.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ichtj/LogTools/1.4.0/LogTools-1.4.0.jar returned status 404
+1.5.0		2026-05-20T06:34:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ichtj/LogTools/1.5.0/LogTools-1.5.0.jar returned status 404

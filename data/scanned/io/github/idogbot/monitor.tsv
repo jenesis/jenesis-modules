@@ -22,6 +22,7 @@
 1.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.30/monitor-1.0.30.jar returned status 404
 1.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.31/monitor-1.0.31.jar returned status 404
 1.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.32/monitor-1.0.32.jar returned status 404
+1.0.33		2026-05-26T06:30:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.33/monitor-1.0.33.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.4/monitor-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.5/monitor-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.0.6/monitor-1.0.6.jar returned status 404

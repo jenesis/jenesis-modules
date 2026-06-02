@@ -20,6 +20,7 @@
 0.3.6-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/0.3.6-rongwei/sdk-mqtt-0.3.6-rongwei.jar returned status 404
 0.4.0-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/0.4.0-rongwei/sdk-mqtt-0.4.0-rongwei.jar returned status 404
 0.4.1-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/0.4.1-rongwei/sdk-mqtt-0.4.1-rongwei.jar returned status 404
+0.4.2-rongwei		2026-05-19T10:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/0.4.2-rongwei/sdk-mqtt-0.4.2-rongwei.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.0.1/sdk-mqtt-1.0.1.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.0.10/sdk-mqtt-1.0.10.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.0.12/sdk-mqtt-1.0.12.jar returned status 404

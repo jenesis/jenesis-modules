@@ -1,3 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hearthappy/router-core/1.0.0/router-core-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hearthappy/router-core/1.0.1/router-core-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hearthappy/router-core/1.0.2/router-core-1.0.2.jar returned status 404
+1.0.3		2026-05-22T03:24:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hearthappy/router-core/1.0.3/router-core-1.0.3.jar returned status 404

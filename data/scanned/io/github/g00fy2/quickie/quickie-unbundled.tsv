@@ -7,6 +7,7 @@
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.1.2/quickie-unbundled-1.1.2.jar returned status 404
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.10.0/quickie-unbundled-1.10.0.jar returned status 404
 1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.11.0/quickie-unbundled-1.11.0.jar returned status 404
+1.12.0		2026-05-21T20:01:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.12.0/quickie-unbundled-1.12.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.2.0/quickie-unbundled-1.2.0.jar returned status 404
 1.2.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.2.0-rc01/quickie-unbundled-1.2.0-rc01.jar returned status 404
 1.2.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/g00fy2/quickie/quickie-unbundled/1.2.0-rc02/quickie-unbundled-1.2.0-rc02.jar returned status 404
