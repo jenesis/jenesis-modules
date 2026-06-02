@@ -5,3 +5,4 @@
 4.3.1-stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-openxr-vendors-androidxr/4.3.1-stable/godot-openxr-vendors-androidxr-4.3.1-stable.jar returned status 404
 5.0.0-stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-openxr-vendors-androidxr/5.0.0-stable/godot-openxr-vendors-androidxr-5.0.0-stable.jar returned status 404
 5.0.1-stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-openxr-vendors-androidxr/5.0.1-stable/godot-openxr-vendors-androidxr-5.0.1-stable.jar returned status 404
+5.1.0-stable		2026-05-19T00:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-openxr-vendors-androidxr/5.1.0-stable/godot-openxr-vendors-androidxr-5.1.0-stable.jar returned status 404

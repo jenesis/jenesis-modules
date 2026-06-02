@@ -32,3 +32,4 @@
 2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hl7/fhir/publisher/org.hl7.fhir.publisher/2.2.5/org.hl7.fhir.publisher-2.2.5.jar returned status 404
 2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hl7/fhir/publisher/org.hl7.fhir.publisher/2.2.6/org.hl7.fhir.publisher-2.2.6.jar returned status 404
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hl7/fhir/publisher/org.hl7.fhir.publisher/2.2.7/org.hl7.fhir.publisher-2.2.7.jar returned status 404
+2.2.8		2026-05-23T19:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hl7/fhir/publisher/org.hl7.fhir.publisher/2.2.8/org.hl7.fhir.publisher-2.2.8.jar returned status 404

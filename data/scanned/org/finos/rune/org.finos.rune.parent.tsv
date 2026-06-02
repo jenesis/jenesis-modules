@@ -1,4 +1,5 @@
 10.0.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.1/org.finos.rune.parent-10.0.0-dev.1.jar returned status 404
+10.0.0-dev.10		2026-05-26T13:22:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.10/org.finos.rune.parent-10.0.0-dev.10.jar returned status 404
 10.0.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.2/org.finos.rune.parent-10.0.0-dev.2.jar returned status 404
 10.0.0-dev.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.3/org.finos.rune.parent-10.0.0-dev.3.jar returned status 404
 10.0.0-dev.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.4/org.finos.rune.parent-10.0.0-dev.4.jar returned status 404
@@ -6,6 +7,7 @@
 10.0.0-dev.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.6/org.finos.rune.parent-10.0.0-dev.6.jar returned status 404
 10.0.0-dev.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.7/org.finos.rune.parent-10.0.0-dev.7.jar returned status 404
 10.0.0-dev.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.8/org.finos.rune.parent-10.0.0-dev.8.jar returned status 404
+10.0.0-dev.9		2026-05-20T11:55:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/10.0.0-dev.9/org.finos.rune.parent-10.0.0-dev.9.jar returned status 404
 9.67.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/9.67.0/org.finos.rune.parent-9.67.0.jar returned status 404
 9.67.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/9.67.1/org.finos.rune.parent-9.67.1.jar returned status 404
 9.67.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune/org.finos.rune.parent/9.67.2/org.finos.rune.parent-9.67.2.jar returned status 404
