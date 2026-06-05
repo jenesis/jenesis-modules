@@ -29,8 +29,8 @@ release:
 
 files:
   artifacts:
-    - path: 'target/stage/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}.jar'
-    - path: 'target/stage/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}-sources.jar'
+    - path: 'target/stage/maven/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}.jar'
+    - path: 'target/stage/maven/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}-sources.jar'
 
 deploy:
   maven:
@@ -40,4 +40,4 @@ deploy:
         url: https://central.sonatype.com/api/v1/publisher
         applyMavenCentralRules: true
         stagingRepositories:
-          - target/stage/output
+          - target/stage/maven/output

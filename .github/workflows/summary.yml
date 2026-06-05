@@ -34,23 +34,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config pull.rebase true
 
-      - name: Build staged jar
-        run: java build/jenesis/Project.java stage
-
       - name: Regenerate bleeding edge report
         run: |
           set -euo pipefail
-          jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                -Djenesis.crawler.top.bleeding=true \
-               -cp "$jar" build.jenesis.crawler.TopModules data/top/*.txt
+               sources/build/jenesis/crawler/TopModules.java data/top/*.txt
 
       - name: Regenerate SUMMARY.md
         run: |
           set -euo pipefail
-          jar="target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar"
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
-               -cp "$jar" build.jenesis.crawler.ModuleSummary
+               sources/build/jenesis/crawler/ModuleSummary.java
 
       - name: Commit and push if SUMMARY.md or bleeding.md changed
         run: |

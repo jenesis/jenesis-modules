@@ -655,7 +655,7 @@ java build/jenesis/Project.java                 # build + run tests
 java build/jenesis/Project.java stage           # build + stage a clean modular jar under target/stage/
 ```
 
-The staged jar lives at `target/stage/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar`, a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
+The staged jar lives at `target/stage/maven/output/build/jenesis/build.jenesis.crawler/0-SNAPSHOT/build.jenesis.crawler-0-SNAPSHOT.jar`, a normal Maven-shaped layout. The CI workflow `.github/workflows/build.yml` invokes Jenesis on every push.
 
 ## Continuous crawling via GitHub Actions
 
