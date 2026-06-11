@@ -144,7 +144,12 @@ public final class Version implements Comparable<Version> {
 
         for (int index = 0; index < raw.length(); index++) {
             char character = raw.charAt(index);
-            if (character == '.') {
+            if (character == '+') {
+                // Semantic-versioning build metadata: everything from the first '+'
+                // onward is ignored for precedence (so "1.0.0+build1" and "1.0.0"
+                // resolve as equal). The pre-release section after '-' is still parsed.
+                break;
+            } else if (character == '.') {
                 emit(stack.peek(), token, false);
                 token.setLength(0);
             } else if (character == '-') {

@@ -54,6 +54,16 @@ public class VersionTest {
     }
 
     @Test
+    public void ignores_semver_build_metadata() {
+        // Per semver, everything after the first '+' is build metadata and does
+        // not affect precedence, while the pre-release section after '-' does.
+        assertThat(new Version("1.0.0+build1")).isEqualByComparingTo(new Version("1.0.0"));
+        assertThat(new Version("1.0.0+build1")).isEqualByComparingTo(new Version("1.0.0+build2"));
+        assertThat(new Version("1.0.0-rc1+build1")).isEqualByComparingTo(new Version("1.0.0-rc1"));
+        assertThat(new Version("1.0.0-rc1+build1")).isLessThan(new Version("1.0.0"));
+    }
+
+    @Test
     public void leaves_unknown_qualifiers_above_release() {
         // A lone letter (no trailing digit) is not the shorthand and stays unknown.
         assertThat(new Version("1.0-m")).isGreaterThan(new Version("1.0"));
