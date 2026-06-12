@@ -58,6 +58,24 @@ public class DriftReportTest {
                 .doesNotContain("com.example.lib");
     }
 
+    @Test
+    public void natural_owner_that_is_dominant_is_classified_shaded() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // ch.qos.logback owns ch.qos.logback.classic and is both the earliest and most-recent
+        // publisher; a fat jar shaded it once in between.
+        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("ch.qos.logback", "logback-classic", "1.0.0", 1_500_000_000_000L));
+        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("com.bundler", "fat", "9.0", 1_600_000_000_000L));
+        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("ch.qos.logback", "logback-classic", "1.5.34", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("ch.qos.logback.classic");
+        assertThat(report).contains("owned by `ch.qos.logback`");
+    }
+
     private static void run(Map<String, String> properties) throws IOException {
         properties.forEach(System::setProperty);
         try {

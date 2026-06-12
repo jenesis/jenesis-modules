@@ -52,7 +52,8 @@ public final class DriftReport {
         REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, block the republisher."),
         MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
         FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork."),
-        UNCLASSIFIED("unclassified", "Multiple publishers that fit none of the shapes above (concurrent collisions, ambiguous handoffs). Proposal: keep the current owner, but review by hand.");
+        SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
+        UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.");
 
         final String id;
         final String blurb;
@@ -233,10 +234,20 @@ public final class DriftReport {
             category = Category.FORK;
             allowed = List.of(owner.groupId);
             description = "fork: keep `" + owner.groupId + "`, `" + successor.groupId + "` still publishes the name";
+        } else if (under(module, owner.groupId)) {
+            // The natural-namespace owner is the earliest and most-recent publisher; every other
+            // group merely shades or bundles the name under its own coordinate.
+            category = Category.SHADED;
+            List<String> canonical = Stream.concat(Stream.of(owner.groupId),
+                            groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
+                    .distinct().toList();
+            allowed = canonical;
+            description = "owned by `" + owner.groupId + "`; " + (groups.size() - canonical.size())
+                    + " other group(s) shade the name";
         } else {
             category = Category.UNCLASSIFIED;
             allowed = List.of(owner.groupId);
-            description = "multiple owners; `" + owner.groupId + "` is earliest and most recent";
+            description = "no natural-namespace owner; `" + owner.groupId + "` is earliest and most recent";
         }
         return new Drift(module, groups, owner, category, allowed, description, owners);
     }
