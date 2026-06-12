@@ -1,0 +1,4 @@
+io.grpc	allowed
+com.clickhouse	blocked
+io.github.sunny-chung	blocked
+io.helidon.grpc	blocked
