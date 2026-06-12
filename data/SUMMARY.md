@@ -222,14 +222,13 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | `InvalidModuleDescriptorException: Dependence on self` | 19 |
 | `IOException: invalid header field (line <LINE>)` | 17 |
 | `InvalidModuleDescriptorException: The requires entry for java.base has ACC_SYNTHETIC set` | 15 |
-| `InvalidModuleDescriptorException: Dependence upon java.base already declared` | 6 |
+| `InvalidModuleDescriptorException: Dependence upon <MODULE> already declared` | 8 |
 | `InvalidModuleDescriptorException: Attribute ModuleTarget does not match its expected length` | 4 |
 | `InvalidModuleDescriptorException: The requires table must have an entry for java.base` | 4 |
 | `InvalidModuleDescriptorException: Exported package <PACKAGE> already declared` | 3 |
 | `InvalidModuleDescriptorException: CONSTANT_Class at entry <ENTRY> has illegal character: ';'` | 2 |
 | `InvalidModuleDescriptorException: CONSTANT_Module expected at entry: <ENTRY>` | 2 |
 | `InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: ';'` | 2 |
-| `InvalidModuleDescriptorException: Dependence upon spring.core already declared` | 2 |
 | `IllegalArgumentException: Illegal character in fragment at index <INDEX>: <PATH>` | 1 |
 
 ## Top 25 modules by version count
