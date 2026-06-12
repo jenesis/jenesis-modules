@@ -228,11 +228,28 @@ public final class ModuleStore {
             return;
         }
         Optional<Owners> owners = loadOwners(moduleName);
-        for (ClassifierFile classifierFile : listVersionFiles(dir)) {
+        List<ClassifierFile> classifierFiles = listVersionFiles(dir);
+
+        // Read every versions file up front so the implicit owner is derived from the union of
+        // the whole (main + classifier) space. Ownership is a property of the module name, not of
+        // a single classifier view: the first groupId to publish the module - through any artifact,
+        // classified or not - owns every view of it. An explicit owners.tsv already spans the whole
+        // space, so the implicit owner is only consulted in its absence.
+        List<List<ModuleEntry>> versionsPerFile = new ArrayList<>(classifierFiles.size());
+        List<ModuleEntry> union = new ArrayList<>();
+        for (ClassifierFile classifierFile : classifierFiles) {
             List<ModuleEntry> versions = readVersionsFile(classifierFile.path());
+            versionsPerFile.add(versions);
+            union.addAll(versions);
+        }
+        String implicitOwner = owners.isPresent() ? null : implicitOwner(union);
+
+        for (int index = 0; index < classifierFiles.size(); index++) {
+            ClassifierFile classifierFile = classifierFiles.get(index);
+            List<ModuleEntry> versions = versionsPerFile.get(index);
             String classifier = classifierFile.classifier();
             if (scope.writesArtifacts()) {
-                List<ArtifactsEntry> artifacts = resolve(versions, owners);
+                List<ArtifactsEntry> artifacts = resolve(versions, owners, implicitOwner);
                 Path artifactsFile = dir.resolve(artifactsFileName(classifier));
                 if (artifacts.isEmpty()) {
                     Files.deleteIfExists(artifactsFile);
@@ -241,7 +258,7 @@ public final class ModuleStore {
                 }
             }
             if (scope.writesModules()) {
-                List<ModuleVersionEntry> modules = resolveModules(versions, owners);
+                List<ModuleVersionEntry> modules = resolveModules(versions, owners, implicitOwner);
                 Path modulesFile = dir.resolve(modulesFileName(classifier));
                 if (modules.isEmpty()) {
                     Files.deleteIfExists(modulesFile);
@@ -320,11 +337,11 @@ public final class ModuleStore {
      * only mismatching rows still loses its {@code modules.tsv} rather than silently
      * handing ownership to a runner-up groupId.
      */
-    private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<Owners> owners) {
+    private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
         if (versions.isEmpty()) {
             return List.of();
         }
-        List<ModuleEntry> allowed = applyOwners(versions, owners);
+        List<ModuleEntry> allowed = applyOwners(versions, owners, implicitOwner);
         if (allowed.isEmpty()) {
             return List.of();
         }
@@ -358,11 +375,11 @@ public final class ModuleStore {
      * for each (Maven version) pick the row with the oldest publishedAt - that becomes
      * the canonical {@code artifacts.tsv} row.
      */
-    private static List<ArtifactsEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners) {
+    private static List<ArtifactsEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
         if (versions.isEmpty()) {
             return List.of();
         }
-        List<ModuleEntry> allowed = applyOwners(versions, owners);
+        List<ModuleEntry> allowed = applyOwners(versions, owners, implicitOwner);
         if (allowed.isEmpty()) {
             return List.of();
         }
@@ -383,25 +400,39 @@ public final class ModuleStore {
     }
 
     /**
-     * Filter {@code versions} down to the rows allowed by the policy: when {@code owners}
-     * is present, only rows whose {@code (groupId, artifactId)} the policy admits; when
-     * absent, the implicit-owner rule applies - the {@code groupId} that first published
-     * the module wins, and only its rows are kept.
+     * Filter {@code versions} (the rows of one classifier view) down to the rows allowed by the
+     * policy: when {@code owners} is present, only rows whose {@code (groupId, artifactId)} the
+     * policy admits; when absent, only rows from {@code implicitOwner} - the {@code groupId} that
+     * first published the module across its whole (main + classifier) space. A view that carries
+     * no row from the owner resolves to nothing, so the caller deletes it: a classifier published
+     * solely by a non-owner (e.g. a shaded jar bundling someone else's module name) no longer
+     * resolves under that module name.
      */
-    private static List<ModuleEntry> applyOwners(List<ModuleEntry> versions, Optional<Owners> owners) {
+    private static List<ModuleEntry> applyOwners(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
         if (owners.isPresent()) {
             Owners policy = owners.get();
             return versions.stream()
                     .filter(entry -> policy.allows(entry.groupId(), entry.artifactId()))
                     .toList();
         }
-        String implicitOwner = versions.stream()
-                .min(Comparator.comparingLong(ModuleEntry::publishedAt).thenComparing(ModuleEntry::groupId))
-                .map(ModuleEntry::groupId)
-                .orElseThrow();
+        if (implicitOwner == null) {
+            return List.of();
+        }
         return versions.stream()
                 .filter(entry -> entry.groupId().equals(implicitOwner))
                 .toList();
+    }
+
+    /**
+     * The implicit owner of a module: the {@code groupId} of the oldest publication across the
+     * union of every {@code versions[-classifier].tsv} row, ties broken by {@code groupId}.
+     * Returns {@code null} only when the union is empty.
+     */
+    private static String implicitOwner(List<ModuleEntry> union) {
+        return union.stream()
+                .min(Comparator.comparingLong(ModuleEntry::publishedAt).thenComparing(ModuleEntry::groupId))
+                .map(ModuleEntry::groupId)
+                .orElse(null);
     }
 
     private Optional<Owners> loadOwners(String moduleName) throws IOException {

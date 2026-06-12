@@ -194,7 +194,7 @@ public class ModuleStoreTest {
     }
 
     @Test
-    public void regenerate_handles_classifier_variants_independently() throws IOException {
+    public void regenerate_keeps_classifier_variant_published_by_the_owner() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("classy.module", ModuleType.NAMED, null, ts("canon.org", "lib", "1.0", null, 1L));
         store.record("classy.module", ModuleType.NAMED, null, ts("canon.org", "lib", "1.0", "jakarta", 1L));
@@ -207,6 +207,44 @@ public class ModuleStoreTest {
                 .containsExactly("1.0\tnamed\tcanon.org\tlib");
         assertThat(Files.readAllLines(dir.resolve("artifacts-jakarta.tsv")))
                 .containsExactly("1.0\tnamed\tcanon.org\tlib");
+    }
+
+    @Test
+    public void regenerate_drops_classifier_variant_published_only_by_a_non_owner() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // canon.org owns the module - it published first, as the main jar. A shaded variant under a
+        // different coordinate bundles the same module name, but ownership spans the whole space, so
+        // its classifier view resolves to nothing and is removed.
+        store.record("shaded.module", ModuleType.NAMED, null, ts("canon.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("shaded.module", ModuleType.NAMED, null, ts("bundler.org", "fat", "9.0", "all", 1_710_000_000_000L));
+        store.flush();
+
+        store.regenerate("shaded.module");
+
+        Path dir = root.resolve("shaded").resolve("module");
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv")))
+                .containsExactly("1.0\tnamed\tcanon.org\tlib");
+        assertThat(dir.resolve("artifacts-all.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void regenerate_owner_is_determined_across_classifier_publications() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // real.org publishes a native classifier FIRST, then its main jar; a squatter slips a main
+        // jar in between. The oldest publication anywhere in the space owns the module, so real.org
+        // owns it and the squatter's main-jar row is filtered out of the main view.
+        store.record("platform.module", ModuleType.NAMED, null, ts("real.org", "lib", "1.0", "linux", 1_700_000_000_000L));
+        store.record("platform.module", ModuleType.NAMED, null, ts("squatter.org", "imposter", "5.0", null, 1_710_000_000_000L));
+        store.record("platform.module", ModuleType.NAMED, null, ts("real.org", "lib", "1.0", null, 1_720_000_000_000L));
+        store.flush();
+
+        store.regenerate("platform.module");
+
+        Path dir = root.resolve("platform").resolve("module");
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv")))
+                .containsExactly("1.0\tnamed\treal.org\tlib");
+        assertThat(Files.readAllLines(dir.resolve("artifacts-linux.tsv")))
+                .containsExactly("1.0\tnamed\treal.org\tlib");
     }
 
     @Test
