@@ -1,2 +1,4 @@
-org.hiero.block	allowed
-org.hiero.block-node	allowed
+com.hedera.hashgraph	allowed
+com.swirlds	allowed
+org.hiero.block	rejected
+org.hiero.block-node	rejected

@@ -1,0 +1,6 @@
+org.seleniumhq.selenium	allowed
+ch.exense.step.examples	rejected
+com.github.claremontqualitymanagement.TestAutomationFramework	rejected
+io.appium	rejected
+io.sitoolkit.wt	rejected
+org.seleniumx	rejected

@@ -4,15 +4,15 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
-| explicit-rules | 0 | 369 |
-| republisher | 0 | 156 |
-| migration | 0 | 790 |
-| fork | 0 | 394 |
+| explicit-rules | 0 | 702 |
+| republisher | 0 | 19 |
+| migration | 0 | 788 |
+| fork | 0 | 393 |
 | shaded | 0 | 1272 |
 | tld-dropped | 0 | 71 |
-| two-segments | 85 | 0 |
-| unclassified | 435 | 0 |
-| **total** | **520** | **3052** |
+| two-segments | 61 | 0 |
+| unclassified | 266 | 0 |
+| **total** | **327** | **3245** |
 
 The table covers all **3572** multi-owner modules (of **36334** modules scanned).
 
@@ -65,7 +65,7 @@ The dominant owner's groupId with its top-level domain dropped is the module-nam
 - The owner's groupId with its first segment (the top-level domain) removed is a prefix of the module name.
 - Allow that owner; reject the rest.
 
-## two-segments (85)
+## two-segments (61)
 
 The dominant owner's groupId with its first two segments dropped is the module-name prefix.
 
@@ -75,47 +75,11 @@ The dominant owner's groupId with its first two segments dropped is the module-n
 | count | current owner | new owner(s) |
 |---:|---|---|
 | 1 | `com.telenav.cactus` | `com.telenav.cactus, com.telenav.lexakai` |
-| 1 | `org.jetbrains.kotlin` | `org.jetbrains.kotlin, org.jetbrains, org.jetbrains.kotlinx, org.jetbrains.xodus, org.jetbrains.bsp, org.jetbrains.kotlinx.dataframe, org.jetbrains.lets-plot` |
-| 1 | `org.jetbrains.kotlin` | `org.jetbrains.kotlin, org.jetbrains.dokka, org.jetbrains.kotlinx, org.jetbrains.lets-plot, org.jetbrains.kotlinx.dataframe, org.jetbrains.intellij.plugins, org.jetbrains` |
-| 1 | `org.jetbrains.kotlin` | `org.jetbrains.kotlin, org.jetbrains.lets-plot` |
-| 1 | `org.jetbrains.kotlin` | `org.jetbrains.kotlin, org.jetbrains.lets-plot, org.jetbrains.kotlinx, org.jetbrains.kotlinx.dataframe` |
 
 ```
-kotlin.stdlib  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 215 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10       |....==========......|
-  ?   com.alibaba.ververica                2025-11..2026-06 1.20-vvr-11.7.0-3-jdk11 |..................==|
-  ?   com.airbnb.viaduct                   2026-01..2026-05 1.1.0        |..................==|
-  ?   org.octopusden.octopus.jira          2026-05..2026-05 2.0.0        |...................=|
-  ?   io.last9                             2026-02..2026-05 2.3.5-beta.11 |..................==|
-  ?   com.tidbcloud                        2026-05..2026-05 0.4.6        |...................=|
-    + 216 more: org.jetbrains.kotlinx, org.virtuslab, com.volcengine, com.easemob.im, org.jetbrains.lets-plot, dev.robocode.tankroyale, de.darkatra.injector, dev.hsbrysk, net.corda, com.aliyun.odps, ca.acendas, com.seanshubin.code.structure, (+204 more)
 jackson.datatype.pcollections  [owned by `com.fasterxml.jackson.datatype` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.fasterxml.jackson.datatype       2019-07..2026-06 2.22.0       |.....===============|
   ?   tools.jackson.datatype               2025-03..2026-05 3.1.3        |................====|
-kotlin.stdlib.jdk8  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 233 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10       |....==========......|
-  ?   com.airbnb.viaduct                   2026-01..2026-05 1.1.0        |..................==|
-  ?   com.airbnb.viaduct.javaapi           2026-05..2026-05 1.1.0        |...................=|
-  ?   com.google.genai                     2026-04..2026-05 1.56.0       |...................=|
-  ?   com.newrelic.agent.android           2024-09..2026-05 7.7.5        |...............=====|
-  ?   com.sportradar.unifiedodds.sdk       2025-02..2026-05 4.9.0        |................====|
-    + 234 more: org.apache.hudi, com.aliyun, net.corda, com.squareup, ai.realitydefender, com.gitee.melin.huaweicloud, com.kernelflux.mobile, com.aliyun.odps, pl.wtx.wordpress, io.getstream, com.displee, top.mrxiaom.mirai, (+222 more)
-kotlin.stdlib.jdk7  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 19 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10       |....==========......|
-  ?   io.github.team-sneakymouse           2026-05..2026-05 4.0-Beta-13  |...................=|
-  ?   io.pyroscope                         2025-04..2026-03 2.5.2        |.................===|
-  ?   com.seanshubin.code.structure        2026-02..2026-02 1.1.1        |..................=.|
-  ?   me.xcue                              2026-01..2026-01 26.0.1       |..................=.|
-  ?   com.kroegerama.openapi-kgen          2023-12..2025-09 0.18.1       |..............=====.|
-    + 14 more: org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, com.facebook, com.cjcrafter, tech.carcadex, io.pixeloutlaw.mythicdrops, (+2 more)
-kotlin.reflect  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 60 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10       |....==========......|
-  ?   com.airbnb.viaduct                   2026-01..2026-04 0.29.0       |..................==|
-  ?   org.apache.pinot                     2025-09..2026-04 1.5.0        |.................===|
-  ?   io.github.abdullahkhan118            2026-03..2026-03 1.0.4        |...................=|
-  ?   io.github.tobi-laa                   2026-03..2026-03 1.0.0        |..................=.|
-  ?   io.github.kshulzh.kefir              2026-03..2026-03 0.0.1        |..................=.|
-    + 58 more: io.github.xilinjia.krdb, io.github.snow1026, com.browserstack, com.simprints.realm.kotlin, org.pkl-lang, com.statsig, com.infomaniak.realm.kotlin, com.solapi, io.github.honkling.commando, io.github.tabilzad.inspektor, hu.bme.mit.theta, com.beeproduced, (+46 more)
 tucache.core  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE |..............=.....|
   ?   io.github.tri5m                      2024-12..2026-04 1.0.6        |................====|
@@ -130,133 +94,6 @@ dagger  [owned by `com.google.dagger` (groupId minus two segments is the module 
   ?   io.github.licy5352.dagger            2022-02..2026-03 2.55-kim-rc1 |..........=========.|
   ?   me.gulya.dagger                      2025-08..2025-08 2.56.2-workaround10 |.................=..|
   ?   io.github.jbock-java                 2021-10..2022-03 2.41.2       |..........=.........|
-retrofit2.converter.guava  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.jackson  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 6 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.jamesfchen                 2022-10..2022-10 1.0.0        |............=.......|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-    + 1 more: io.github.zawn
-retrofit2.adapter.guava  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.adapter.java8  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.adapter.rxjava  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.adapter.rxjava2  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.adapter.rxjava3  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2020-05..2025-05 3.0.0        |.......===========..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.adapter.scala  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.gson  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.java8  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.jaxb  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.moshi  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.protobuf  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.scalars  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.simplexml  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.converter.wire  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
-retrofit2.mock  [owned by `com.squareup.retrofit2` (groupId minus two segments is the module prefix); 5 other group(s) shade the name]
-  ? * com.squareup.retrofit2               2018-03..2025-05 3.0.0        |..================..|
-  ?   io.github.mindcomic.retrofit2        2025-11..2026-01 3.1.2        |..................=.|
-  ?   com.huanli233.retrofit2-compat       2025-02..2025-02 2.12.0-p2    |................=...|
-  ?   io.github.goooler.retrofit2          2023-12..2023-12 2.10.0       |..............=.....|
-  ?   io.github.zawn.retrofit2             2021-09..2021-09 2.10.6       |.........=..........|
-  ?   io.github.zawn                       2021-04..2021-04 2.10.2       |.........=..........|
 tuweni.bytes  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1        |..........===.......|
   ?   io.consensys.tuweni                  2025-02..2025-10 2.7.2        |................===.|
@@ -331,17 +168,9 @@ glide.api  [owned by `software.amazon.glide` (groupId minus two segments is the 
   ? * software.amazon.glide                2024-06..2024-06 0.4.3        |...............=....|
   ?   io.valkey                            2024-07..2025-10 2.1.1        |...............====.|
   ?   io.github.gumpacg                    2024-08..2024-08 0.1.0        |...............=....|
-kotlin.test  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10       |....==========......|
-  ?   xyz.block.kotlin-formatter           2025-01..2025-08 1.3.0        |................==..|
-  ?   org.archguard.scanner                2023-05..2024-10 2.2.0        |.............====...|
 afterburner.fx  [owned by `com.dlsc.afterburner` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.dlsc.afterburner                 2019-10..2023-07 2.3.0        |.....=========......|
   ?   org.jabref                           2023-09..2023-09 2.0.0        |.............=......|
-kotlin.test.junit  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * org.jetbrains.kotlin                 2020-07..2023-08 1.9.10       |.......=======......|
-  ?   org.archguard.scanner                2022-06..2022-12 2.0.0-beta.5 |...........==.......|
-  ?   org.jetbrains.lets-plot              2021-04..2021-06 2.0.4        |.........=..........|
 tuweni.wallet  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1        |..........===.......|
   ?   io.tmio                              2023-05..2023-07 2.4.2        |.............=......|
@@ -464,32 +293,16 @@ stasgora.observetree  [owned by `io.github.stasgora` (groupId minus two segments
   ?   dev.sgora                            2019-10..2019-10 1.0.3.1      |.....=..............|
 ```
 
-## unclassified (435)
+## unclassified (266)
 
 Multiple publishers with no natural-namespace owner present: a genuine collision the heuristic cannot settle.
 
 - More than one publisher, and none is a credible owner: no natural-namespace owner is present and the earliest is not the closest groupId.
 - Left unresolved - no owners.tsv is written - for a later hand decision.
 
-_Showing the 200 most recently active of 435. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
+_Showing the 200 most recently active of 266. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
 
 ```
-com.google.gson  [no clear owner; `com.google.code.gson` is earliest and most recent]
-  ? * com.google.code.gson                 2019-10..2026-04 2.14.0       |.....===============|
-  ?   com.aliyun                           2021-09..2026-06 9.3.2        |.........===========|
-  ?   com.alibaba.ververica                2025-06..2026-06 1.20-vvr-11.7.0-3-jdk11 |.................===|
-  ?   org.openjproxy                       2025-09..2026-05 0.4.21-beta  |.................===|
-  ?   dev.uebelacker.babeli                2026-05..2026-05 1.0.1        |...................=|
-  ?   org.sonarsource.java                 2024-11..2026-05 8.30.0.43910 |................====|
-    + 522 more: org.sonarsource.dotnet, org.sonarsource.sonarlint.ls, com.github.transbankdevelopers, io.lakefs, org.sonarsource.sonarlint.core, org.jetbrains.kotlin, com.ascentstream.pulsar, io.lionweb, ai.chronon, cn.signit.sdk, io.arenadata.hive, dev.blitical, (+510 more)
-com.google.common  [no clear owner; `com.google.guava` is earliest and most recent]
-  ? * com.google.guava                     2017-07..2026-04 33.6.0-jre   |.===================|
-  ?   com.alibaba.ververica                2026-01..2026-06 1.20-vvr-11.7.0-3-jdk11 |..................==|
-  ?   io.orkes.conductor                   2026-05..2026-05 5.0.3        |...................=|
-  ?   io.digiexpress                       2025-10..2026-05 6.0.21       |..................==|
-  ?   org.foundationdb                     2026-01..2026-05 4.12.7.0     |..................==|
-  ?   net.sourceforge.plantuml             2025-06..2026-05 1.2026.5     |.................===|
-    + 65 more: io.acryl, io.javelit, de.m3y.prometheus.exporter.fsimage, org.apache.spark, org.apache.iceberg, org.apache.phoenix, org.conductoross, io.yki.sapply, org.apache.calcite.avatica, org.jboss.shrinkwrap.resolver, org.talend.sdk.component.sample.feature, org.apache.sedona, (+53 more)
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
   ? * commons-codec                        2017-10..2020-08 1.15         |.=======............|
   ?   com.alibaba.ververica                2021-06..2026-06 1.20-vvr-11.7.0-3-jdk11 |.........===========|
@@ -498,43 +311,11 @@ org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most 
   ?   org.operaton.bpm.extension           2024-12..2026-05 2.1.0        |................====|
   ?   org.apache.tika                      2024-03..2026-05 3.3.1        |...............=====|
     + 75 more: io.gitlab.cupofcode, com.suprsend, com.mirakl, io.github.rsv-code, com.gitee.melin, org.apache.druid.extensions.contrib, org.wso2.orbit.org.opensaml, org.ops4j.pax.url, io.github.ptc-alm, org.apache.jackrabbit, com.qcloud, com.republicate.modality, (+63 more)
-org.objectweb.asm.tree.analysis  [no clear owner; `org.ow2.asm` is earliest and most recent]
-  ? * org.ow2.asm                          2018-01..2026-05 9.10.1       |..==================|
-  ?   com.codenameone                      2025-12..2026-05 7.0.247      |..................==|
-  ?   org.mock-server                      2026-05..2026-05 6.1.0        |...................=|
-  ?   org.teavm                            2023-03..2026-05 0.14.1       |............========|
-  ?   org.bonitasoft.bpm                   2025-03..2026-04 9.0.9        |.................===|
-  ?   io.github.moliholy                   2026-04..2026-04 0.3.0        |...................=|
-    + 9 more: com.webforj, com.weedow, org.openidentityplatform.openidm.tools, org.noear, fish.payara.extras, za.co.absa.hermes, com.yotpo, org.apache.felix, build.please
-org.objectweb.asm  [no clear owner; `org.ow2.asm` is earliest and most recent]
-  ? * org.ow2.asm                          2017-07..2026-05 9.10.1       |.===================|
-  ?   com.my-oli                           2025-05..2026-05 1.1.1        |.................===|
-  ?   net.corda                            2020-07..2026-05 4.11.8       |.......=============|
-  ?   org.teavm                            2023-03..2026-05 0.14.1       |............========|
-  ?   org.virtuslab.scala-cli              2023-05..2026-05 1.14.0       |.............=======|
-  ?   org.tiatesting                       2024-04..2026-05 0.1.17       |...............=====|
-    + 157 more: com.microsoft.azure.kusto, com.pinterest.psc, com.datadoghq, org.apache.iotdb, com.github.jnr, io.github.nieuwmijnleven.jadex, be.ugent.idlab.knows, org.fitnesse, io.github.vdaburon, org.soot-oss, org.noear, org.apache.hugegraph, (+145 more)
 vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recent]
   ? * com.bettercloud                      2019-06..2019-12 5.1.0        |.....==.............|
   ?   io.github.jopenlibs                  2022-10..2026-05 6.2.2        |............========|
   ?   io.axual.utilities.config.providers  2020-06..2024-11 1.2.0        |.......==========...|
   ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2        |..........=.........|
-org.objectweb.asm.tree  [no clear owner; `org.ow2.asm` is earliest and most recent]
-  ? * org.ow2.asm                          2017-07..2026-05 9.10.1       |.===================|
-  ?   io.killedkenny.crossfuzz             2026-05..2026-05 0.0.3        |...................=|
-  ?   org.teavm                            2023-03..2026-05 0.14.1       |............========|
-  ?   org.jetbrains.compose.hot-reload     2025-10..2026-05 1.2.0-alpha01 |..................==|
-  ?   io.joynr.tools.generator             2021-05..2026-04 1.24.7       |.........===========|
-  ?   ch.exense.step                       2025-11..2026-03 3.29.4       |..................==|
-    + 13 more: com.scylladb, com.lihaoyi, io.joern, io.github.llmagentbuilder, com.jordansamhi, com.liferay, com.uber.nullaway, com.houxinlin, io.github.houxinlin, com.autonomousapps, org.netbeans.external, com.guujiang, (+1 more)
-org.objectweb.asm.commons  [no clear owner; `org.ow2.asm` is earliest and most recent]
-  ? * org.ow2.asm                          2017-07..2026-05 9.10.1       |.===================|
-  ?   io.debezium                          2026-02..2026-05 3.6.0.Beta1  |..................==|
-  ?   io.joern                             2025-06..2026-05 12.2_744c5dee92-202605281342 |.................===|
-  ?   org.teavm                            2023-03..2026-05 0.14.1       |............========|
-  ?   com.appdynamics                      2024-01..2026-04 26.3.1       |..............======|
-  ?   com.apollographql.apollo             2024-07..2026-04 4.4.3        |...............=====|
-    + 33 more: org.copper-engine, cn.iservicego, org.tango-controls, com.apollographql.apollo3, de.firemage.autograder, com.yugabyte, com.newrelic.agent.android, com.gradleup, org.tango-controls.pogo, software.amazon.disco, org.realityforge.shade, org.javastro.vodsl, (+21 more)
 org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent]
   ? * commons-io                           2017-10..2021-07 2.11.0       |.=========..........|
   ?   no.entur                             2024-03..2026-05 1.115.0      |...............=====|
@@ -551,15 +332,6 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
   ?   org.metricshub                       2025-05..2026-05 3.9.04       |.................===|
   ?   org.kendar.protocol                  2026-02..2026-05 4.3.9        |..................==|
     + 184 more: io.mosip.esignet, org.wso2.msf4j.perftest.echo, org.wso2.msf4j, org.wso2.msf4j.samples, org.wso2.msf4j.sample, org.apache.flink, org.apache.paimon, org.apache.fluss, de.fraunhofer.iosb.ilt.FROST-Server, org.verapdf.apps, org.apache.pinot, com.aliyun.openservices.aiservice, (+172 more)
-com.sun.tools.jxc  [no clear owner; `org.glassfish.jaxb` is earliest and most recent]
-  ? * org.glassfish.jaxb                   2018-07..2019-01 2.3.2        |...==...............|
-  ?   com.sun.xml.bind                     2018-07..2026-05 4.0.9        |...=================|
-  ?   cn.lzgabel.jaxb.xml.bind             2022-03..2022-03 4.0.0        |..........=.........|
-com.sun.tools.xjc  [no clear owner; `org.glassfish.jaxb` is earliest and most recent]
-  ? * org.glassfish.jaxb                   2018-07..2019-01 2.3.2        |...==...............|
-  ?   com.sun.xml.bind                     2018-07..2026-05 4.0.9        |...=================|
-  ?   cn.lzgabel.jaxb.xml.bind             2022-03..2022-03 4.0.0        |..........=.........|
-  ?   com.github.shynixn                   2019-02..2019-02 1.0          |....=...............|
 org.apache.commons.logging  [no clear owner; `org.slf4j` is earliest and most recent]
   ? * org.slf4j                            2017-04..2026-05 2.0.18       |====================|
   ?   org.open-metadata                    2025-11..2026-05 1.12.9       |..................==|
@@ -571,33 +343,6 @@ org.apache.commons.logging  [no clear owner; `org.slf4j` is earliest and most re
 org.apache.commons.validator  [no clear owner; `org.chronos-eaas` is earliest and most recent]
   ? * org.chronos-eaas                     2024-07..2025-01 2.5.1        |...............==...|
   ?   org.apiaddicts.apitools.dosonarapi   2026-05..2026-05 2.0.0        |...................=|
-org.hiero.base.utility  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.event.creator.impl  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.base.concurrent  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.base.crypto  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.event.creator  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.gossip  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2024-12..2025-06 0.62.11      |................==..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.gossip.impl  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2024-12..2025-06 0.62.11      |................==..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.utility  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
-org.hiero.consensus.model  [no clear owner; `com.swirlds` is earliest and most recent]
-  ? * com.swirlds                          2025-04..2025-06 0.62.11      |.................=..|
-  ?   com.hedera.hashgraph                 2025-05..2026-05 0.75.0-rc.3  |.................===|
 org.apache.commons.csv  [no clear owner; `io.github.pustike` is earliest and most recent]
   ? * io.github.pustike                    2019-01..2019-07 1.7.0        |....==..............|
   ?   org.sonarsource.scanner.engine       2026-05..2026-05 12.36.0.3399 |...................=|
@@ -617,14 +362,6 @@ org.apache.commons.cli  [no clear owner; `org.apache.shiro.tools` is earliest an
   ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5        |...............=====|
   ?   org.imixs.bpmn                       2025-05..2026-03 1.2.9        |.................===|
     + 23 more: io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, org.apache.hbase, (+11 more)
-org.objectweb.asm.util  [no clear owner; `org.ow2.asm` is earliest and most recent]
-  ? * org.ow2.asm                          2017-07..2026-05 9.10.1       |.===================|
-  ?   org.teavm                            2023-03..2026-05 0.14.1       |............========|
-  ?   io.jactl                             2023-04..2026-05 2.8.0        |.............=======|
-  ?   io.camunda                           2025-09..2026-05 8.9.5        |.................===|
-  ?   com.vmlens                           2025-05..2026-04 1.2.28       |.................===|
-  ?   com.webforj                          2025-02..2025-05 25.01        |................==..|
-    + 13 more: io.joynr.tools.generator, io.joern, com.rookout, io.btrace, com.codacy, org.soot-oss, org.activecomponents.jadex, com.github.luxlang, org.geneweaver, com.github.pxav.kelp, net.amygdalum, org.python, (+1 more)
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-05 7.2.0        |..==================|
   ?   org.uma.jmetal                       2025-12..2026-05 7.3          |..................==|
@@ -918,210 +655,6 @@ ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p        |....=============...|
   ?   org.tango-controls.atk               2022-06..2026-03 9.4.20       |...........=========|
   ?   org.tango-controls                   2022-10..2025-10 7.46         |............=======.|
-dawdler.boot.classloader  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.boot.classloader.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.boot.server  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.boot.web  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.boot.web.undertow  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.boot.web.undertow.jsp  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.cache.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.circuit.breaker  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.config.center.consul  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.mybatis  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.remote.service  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.schedule  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.validator  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.velocity  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.config.center.consul.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.dao.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.distributed.transaction.compensator  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.es.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.jedis.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.load.bean  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.load  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.remote.service  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.service.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.cache.caffeine  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.discovery.center.consul  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.discovery.center.zookeeper  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.jedis  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.load  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.local.service  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.session  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.web  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.config.center.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.discovery.center.consul.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.discovery.center.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.discovery.center.server.plug  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.discovery.center.zookeeper.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.distributed.transaction.api  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.jakarta.fileupload  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.mybatis.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.pinpoint.plug  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.rabbitmq.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.remote.service.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.serialization  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.logback  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.config.center.consul  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.discovery.center.zookeeper  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.es  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.local.service  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.rabbitmq  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.schedule  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.util  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.cache.jedis  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.dao  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.db  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.es  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.client.plug.rabbitmq  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.db.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.distributed.transaction.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.local.service.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.schedule.core  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.dao  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.db  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.discovery.center.consul  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.jedis  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
-dawdler.server.plug.mybatis  [no clear owner; `io.github.dawdler-series` is earliest and most recent]
-  ? * io.github.dawdler-series             2024-05..2024-08 1.0.8-jdk21-RELEASES |...............=....|
-  ?   club.dawdler                         2024-09..2026-03 0.1.5-jdk25-RELEASES |...............=====|
 uk.co.spudsoft.birt.emitters.excel  [no clear owner; `io.github.reporting-solutions` is earliest and most recent]
   ? * io.github.reporting-solutions        2019-05..2026-02 4.23.0       |.....==============.|
   ?   org.eclipse.birt                     2022-05..2026-03 4.23.0       |...........========.|
@@ -1239,17 +772,301 @@ jpms_dss_ws_signature_dto  [no clear owner; `org.digidoc4j.dss` is earliest and 
 jpms_dss_ws_signature_remote  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_remote_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_remote_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_validation_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_validation_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_alert  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_asic_cades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_cades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_common_remote_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_enumerations  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_evidence_record_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_evidence_record_xml  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_specs_asic_manifest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1    |..........=========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_tsl_validation  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_certificate_validation_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_certificate_validation_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_certificate_validation_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_server_signing_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_server_signing_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_server_signing_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_server_signing_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_signature_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_signature_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_validation_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_xml  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_xml_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_crl_parser_x509crl  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_i18n  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_jaxb_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2022-05..2025-11 6.2.d4j.1    |...........========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_pades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_pades_openpdf  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_pades_pdfbox  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_pdfa  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-02..2026-03 6.4          |............=======.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_simple_certificate_report  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_simple_report  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_specs_jades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1    |..........=========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_specs_saml_assertion  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_specs_trusted_list  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_spi  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_token  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_utils  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_utils_apache_commons  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_validation  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-03 6.4          |...............====.|
+  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1    |..................=.|
+jpms_dss_ws_certificate_validation_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_signature_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_signature_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_remote  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_remote_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_timestamp_remote_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1    |........===========.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_validation_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+jpms_dss_ws_validation_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1    |......=============.|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-03 6.4          |............=======.|
+com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
+  ? * io.gitee.shallwecode                 2025-05..2026-03 1.5.0        |.................==.|
+  ?   io.github.shallwecodex               2025-05..2025-05 1.0.2        |.................=..|
+org.freedesktop.harfbuzz  [no clear owner; `io.github.jwharm.javagi` is earliest and most recent]
+  ? * io.github.jwharm.javagi              2023-09..2025-05 0.12.2       |.............=====..|
+  ?   org.java-gi                          2025-11..2026-02 0.14.1       |..................=.|
+com.jcraft.jsch  [no clear owner; `com.github.mwiede` is earliest and most recent]
+  ? * com.github.mwiede                    2021-08..2025-06 2.27.2       |.........=========..|
+  ?   com.pesitwizard.connector            2026-02..2026-02 1.2.1        |..................=.|
+  ?   com.opendatadsl                      2025-08..2026-01 1.1.29       |.................==.|
+  ?   com.testingbot                       2025-08..2025-08 4.3          |.................=..|
+  ?   io.kestra.plugin                     2024-04..2025-03 0.20.1       |...............==...|
+  ?   com.jcabi                            2022-09..2022-09 1.9.0        |...........=........|
+jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
+  ? * org.codelibs                         2022-04..2026-02 3.0.2        |...........========.|
+  ?   io.gitee.pickled_vegetables          2023-05..2023-05 2.2.0        |.............=......|
+netty.socketio  [no clear owner; `com.corundumstudio.socketio` is earliest and most recent]
+  ? * com.corundumstudio.socketio          2024-01..2026-02 2.0.14       |..............=====.|
+  ?   codes.oss.socketio                   2025-04..2025-04 2.0.14       |.................=..|
+  ?   io.github.opensabe-tech              2024-08..2024-08 2.0.12       |...............=....|
+com.google.api.client  [no clear owner; `com.google.http-client` is earliest and most recent]
+  ? * com.google.http-client               2018-10..2026-01 2.1.0        |...================.|
+  ?   com.google.cloud.bigtable            2020-07..2020-11 1.17.0       |.......==...........|
+jetty.servlet.api  [no clear owner; `org.eclipse.jetty.toolchain` is earliest and most recent]
+  ? * org.eclipse.jetty.toolchain          2019-02..2026-01 4.0.9        |....===============.|
+  ?   ch.reportingsoft.birt                2025-04..2025-04 4.0.6        |.................=..|
+  ?   io.prometheus.cloudwatch             2024-08..2024-08 0.16.0       |...............=....|
+  ?   org.cip4.tools.jdfutility            2022-01..2022-01 1.7.1        |..........=.........|
+java.xml.soap  [no clear owner; `javax.xml.soap` is earliest and most recent]
+  ? * javax.xml.soap                       2017-06..2017-06 1.4.0        |.=..................|
+  ?   mx.com.sw                            2026-01..2026-01 0.0.19.1     |..................=.|
+  ?   org.hpccsystems                      2022-02..2025-10 9.8.126-1    |..........=========.|
+  ?   org.apache.servicemix.specs          2019-12..2020-03 1.4_2        |......=.............|
+  ?   jakarta.xml.soap                     2018-12..2020-01 1.4.2        |....===.............|
+  ?   org.jboss.spec.javax.xml.soap        2019-09..2020-01 1.0.2.Final  |.....==.............|
+java.base  [no clear owner; `com.rover12421.android.hide` is earliest and most recent]
+  ? * com.rover12421.android.hide          2021-07..2023-10 14.0.0_r2    |.........======.....|
+  ?   com.kohlschutter.jacline             2023-12..2025-12 1.0.3        |..............=====.|
+  ?   org.kie.j2cl.tools                   2024-07..2025-10 v20250822-1  |...............====.|
+  ?   com.vertispan.j2cl                   2022-11..2023-11 v20230718-1  |............===.....|
+  ?   org.qbicc.rt                         2021-11..2023-10 17.alpha.0.57 |..........=====.....|
+com.sun.activation.registries  [no clear owner; `org.eclipse.angus` is earliest and most recent]
+  ? * org.eclipse.angus                    2021-08..2022-12 1.1.0        |.........====.......|
+  ?   fish.payara.extras                   2022-07..2025-11 6.2025.11    |...........========.|
+simpletimeapi  [no clear owner; `io.github.fontysvenlo` is earliest and most recent]
+  ? * io.github.fontysvenlo                2023-08..2025-10 1.0.0        |.............======.|
+  ?   io.github.fontysvenlo.alda           2023-09..2023-09 2.5          |.............=......|
+aerogel  [no clear owner; `io.github.derklaro` is earliest and most recent]
+  ? * io.github.derklaro                   2021-10..2021-10 1.4.0        |.........==.........|
+  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0        |................===.|
+aerogel.auto  [no clear owner; `io.github.derklaro` is earliest and most recent]
+  ? * io.github.derklaro                   2021-10..2021-10 1.4.0        |.........==.........|
+  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0        |................===.|
+hla.rti1516e  [no clear owner; `io.github.tno-mst` is earliest and most recent]
+  ? * io.github.tno-mst                    2025-07..2025-07 0.0.1        |.................=..|
+  ?   nl.tno                               2025-07..2025-10 1.0.0        |.................==.|
+me.linusdev.data  [no clear owner; `io.github.lni-dev` is earliest and most recent]
+  ? * io.github.lni-dev                    2022-03..2023-04 2.0.20       |..........====......|
+  ?   de.linusdev                          2023-04..2025-09 2.3.1        |.............=====..|
+com.aspose.words  [no clear owner; `com.luhuiguo` is earliest and most recent]
+  ? * com.luhuiguo                         2022-04..2023-01 23.1         |...........==.......|
+  ?   cn.miniants                          2025-09..2025-09 21.4.0       |.................=..|
+  ?   com.tengits                          2024-06..2024-06 1.5          |...............=....|
+  ?   cn.wisewe                            2022-06..2022-08 1.1.0-SHANSHOT |...........=........|
+org.apache.commons.net  [no clear owner; `commons-net` is earliest and most recent]
+  ? * commons-net                          2020-08..2021-02 3.8.0        |.......==...........|
+  ?   int.esa.ccsds.mo                     2025-05..2025-08 12.3         |.................=..|
+  ?   com.nordstrom.ui-tools               2024-08..2024-08 4.23.0       |...............=....|
+  ?   io.kestra.plugin                     2024-02..2024-03 0.15.1       |..............==....|
+  ?   org.apache.pinot                     2024-03..2024-03 1.1.0        |..............=.....|
+  ?   com.jkoolcloud.tnt4j.streams         2023-11..2023-11 2.0.0        |..............=.....|
+com.luciad.imageio.webp  [no clear owner; `org.sejda.imageio` is earliest and most recent]
+  ? * org.sejda.imageio                    2020-05..2020-05 0.1.6        |.......=............|
+  ?   net.scenariopla.imageio              2025-08..2025-08 0.1.8        |.................=..|
+  ?   com.gitee.jmash                      2024-06..2024-06 0.2.2        |...............=....|
+  ?   io.github.darkxanter                 2022-10..2023-11 0.3.3        |............===.....|
+  ?   org.lucee                            2022-08..2022-08 0.1.6        |...........=........|
+  ?   com.github.gotson                    2021-02..2021-08 0.2.2        |........==..........|
+org.eclipse.datatools.connectivity.oda.consumer  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 3.5.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.5.0        |.................=..|
+org.eclipse.datatools.connectivity.oda.design  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 3.6.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.6.0        |.................=..|
+org.eclipse.datatools.connectivity.oda.profile  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 3.5.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.5.0        |.................=..|
+org.eclipse.datatools.modelbase.sql.query  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.4.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.4.0        |.................=..|
+org.eclipse.datatools.connectivity  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 1.15.0       |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.15.0       |.................=..|
+org.eclipse.datatools.connectivity.apache.derby  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0        |.................=..|
+org.eclipse.datatools.connectivity.oda  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 3.7.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.7.0        |.................=..|
+org.eclipse.datatools.connectivity.oda.flatfile  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 3.4.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.4.0        |.................=..|
+org.eclipse.datatools.modelbase.dbdefinition  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0        |.................=..|
+org.eclipse.datatools.connectivity.sqm.core  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.6.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.6.0        |.................=..|
+org.eclipse.datatools.enablement.oda.xml  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-04 1.6.0        |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.6.0        |.................=..|
+org.eclipse.datatools.modelbase.derby  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0        |.................=..|
+org.eclipse.datatools.modelbase.sql  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024   |.................=..|
+  ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0        |.................=..|
+jssc  [no clear owner; `net.jockx` is earliest and most recent]
+  ? * net.jockx                            2021-08..2021-08 2.9.3        |.........=..........|
+  ?   io.github.java-native                2021-08..2025-06 2.10.2       |.........=========..|
+  ?   com.zsmartsystems.zigbee             2022-10..2024-12 1.4.16.1     |............=====...|
+common  [no clear owner; `io.github.matwoess` is earliest and most recent]
+  ? * io.github.matwoess                   2024-12..2025-01 0.11.3       |................=...|
+  ?   pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0        |.................=..|
+persistence.api  [no clear owner; `io.ebean` is earliest and most recent]
+  ? * io.ebean                             2019-03..2025-04 3.1          |....==============..|
+  ?   one.gfw                              2023-03..2023-03 3.0          |............=.......|
 ```
 
 ## Reassigned and widened ownership
 
-Modules whose resolved owner differs from the implicit first-publisher owner once `owners.tsv` is applied. 🔀 reassigned (168): the first publisher was replaced by a different owner. ➕ widened (109): extra legal owners were allowed alongside the first publisher (e.g. a groupId migration or a co-maintained project). Modules where `owners.tsv` only confirms the first publisher are not listed. Submodules that share the same transition are collapsed into a single `prefix.*` row; the count in braces after the name is how many modules that row covers. The Rejected owner(s) column names the publishers excluded for the name (empty for a pure widening).
+Modules whose resolved owner differs from the implicit first-publisher owner once `owners.tsv` is applied. 🔀 reassigned (242): the first publisher was replaced by a different owner. ➕ widened (193): extra legal owners were allowed alongside the first publisher (e.g. a groupId migration or a co-maintained project). Modules where `owners.tsv` only confirms the first publisher are not listed. Submodules that share the same transition are collapsed into a single `prefix.*` row; the count in braces after the name is how many modules that row covers. The Rejected owner(s) column names the publishers excluded for the name (empty for a pure widening).
 
 | Module | Implicit owner | Owner(s) | Rejected owner(s) |
 |---|---|---|---|
 | `com.google.auto.service` 🔀 | `com.github.sidneibjunior` | `com.google.auto.service` | `com.github.sidneibjunior, dev.ikm.jpms` |
 | `com.install4j.runtime` ➕ | `com.iamsoft` | `com.iamsoft, com.install4j` | (none) |
 | `com.sun.xml.bind` 🔀 | `org.glassfish.jaxb` | `com.sun.xml.bind` | `org.glassfish.jaxb, at.researchstudio.sat, br.com.swconsultoria, com.airbus-cyber-security.graylog, +31 more` |
+| `dawdler.*` (68) ➕ | `io.github.dawdler-series` | `club.dawdler, io.github.dawdler-series` | (none) |
 | `io.avaje.junit` ➕ | `org.avaje` | `io.avaje, org.avaje` | (none) |
 | `io.ebean.*` (3) ➕ | `org.avaje` | `io.ebean, org.avaje` | (none) |
 | `io.grpc` 🔀 | `io.helidon.grpc` | `io.grpc` | `io.helidon.grpc, com.clickhouse, io.github.sunny-chung` |
@@ -1269,11 +1086,16 @@ Modules whose resolved owner differs from the implicit first-publisher owner onc
 | `org.commonmark.*` (3) 🔀 | `com.atlassian.commonmark` | `org.commonmark` | `com.atlassian.commonmark, com.adobe.aem, com.qainsights, io.github.dfengwei, +4 more` |
 | `org.commonmark.*` (7) ➕ | `com.atlassian.commonmark` | `com.atlassian.commonmark, org.commonmark` | `org.aya-prover` |
 | `org.eclipse.birt.*` (137) 🔀 | `io.github.reporting-solutions` | `org.eclipse.birt` | `io.github.reporting-solutions` |
+| `org.eclipse.birt.*` (72) 🔀 | `io.github.reporting-solutions.nl` | `org.eclipse.birt.nl` | `io.github.reporting-solutions.nl` |
 | `org.eclipse.emf.*` (3) ➕ | `com.innoventsolutions.birt.runtime` | `com.innoventsolutions.birt.runtime, org.eclipse.emf` | `ch.reportingsoft.birt` |
 | `org.eclipse.emf.ecore.change` 🔀 | `com.innoventsolutions.birt.runtime` | `org.eclipse.emf` | `com.innoventsolutions.birt.runtime, ch.reportingsoft.birt` |
+| `org.gnome.*` (7) ➕ | `io.github.jwharm.javagi` | `io.github.jwharm.javagi, org.java-gi` | (none) |
+| `org.hiero.*` (9) ➕ | `com.swirlds` | `com.hedera.hashgraph, com.swirlds` | (none) |
+| `org.hiero.block.protobuf.sources` 🔀 | `org.hiero.block` | `com.hedera.hashgraph, com.swirlds` | `org.hiero.block, org.hiero.block-node` |
 | `org.pcollections` 🔀 | `net.pincette` | `org.pcollections` | `net.pincette` |
 | `org.primefaces.extensions` ➕ | `com.guicedee.services` | `com.guicedee.services, org.primefaces.extensions` | (none) |
 | `play.ws.standalone.*` (4) ➕ | `com.typesafe.play` | `com.typesafe.play, org.playframework` | (none) |
+| `retrofit2.converter.jaxb3` 🔀 | `io.github.goooler.retrofit2` | `com.squareup.retrofit2` | `io.github.goooler.retrofit2, com.huanli233.retrofit2-compat, io.github.mindcomic.retrofit2` |
 | `spring.security.*` (2) 🔀 | `io.spring.gradle` | `org.springframework` | `io.spring.gradle, io.spring.security.gradle` |
 | `spring.security.project.plugin` 🔀 | `io.spring.security.gradle` | `org.springframework` | `io.spring.security.gradle, io.spring.gradle` |
 | `zipkin2.reporter.kafka` 🔀 | `org.apache.zipkin.reporter2` | `io.zipkin.reporter2` | `org.apache.zipkin.reporter2` |

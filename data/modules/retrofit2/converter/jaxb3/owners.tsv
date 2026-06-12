@@ -1,4 +1,4 @@
-io.github.goooler.retrofit2	allowed
-io.github.mindcomic.retrofit2	allowed
+com.squareup.retrofit2	allowed
 com.huanli233.retrofit2-compat	rejected
-com.squareup.retrofit2	rejected
+io.github.goooler.retrofit2	rejected
+io.github.mindcomic.retrofit2	rejected
