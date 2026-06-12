@@ -1,2 +1,2 @@
-com.adobe.cq	allowed
 org.owasp.encoder	allowed
+com.adobe.cq	blocked

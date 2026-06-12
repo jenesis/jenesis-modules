@@ -1,6 +1,6 @@
-org.commonmark	allowed
-com.atlassian.commonmark	blocked
-com.qainsights	blocked
+com.atlassian.commonmark	allowed
+com.qainsights	allowed
 org.aya-prover	blocked
+org.commonmark	blocked
 org.lucee	blocked
 se.alipsa.gmd	blocked

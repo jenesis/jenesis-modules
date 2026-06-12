@@ -1,2 +1,3 @@
-io.spring.gradle	allowed
-io.spring.security.gradle	allowed
+org.springframework	allowed
+io.spring.gradle	blocked
+io.spring.security.gradle	blocked

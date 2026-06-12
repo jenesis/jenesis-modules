@@ -1,5 +1,5 @@
-com.blazemeter.jmeter	allowed
 net.java.dev.jna	allowed
+com.blazemeter.jmeter	blocked
 com.guicedee.modules.services	blocked
 com.guicedee.services	blocked
 one.gfw	blocked

@@ -1,5 +1,4 @@
 org.jboss.logging	allowed
-org.tinystruct	allowed
 be.vlaanderen.informatievlaanderen.ldes.ldio	blocked
 ch.nerdin	blocked
 com.abavilla	blocked
@@ -8,3 +7,4 @@ io.appform.ranger	blocked
 io.mvnpm	blocked
 io.quarkus	blocked
 org.jboss.ironjacamar	blocked
+org.tinystruct	blocked

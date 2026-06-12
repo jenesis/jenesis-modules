@@ -1,6 +1,6 @@
-net.scenariopla.imageio	allowed
 org.sejda.imageio	allowed
 com.gitee.jmash	blocked
 com.github.gotson	blocked
 io.github.darkxanter	blocked
+net.scenariopla.imageio	blocked
 org.lucee	blocked

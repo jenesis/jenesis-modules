@@ -1,6 +1,6 @@
 javax.xml.ws	allowed
-org.apache.manifoldcf	allowed
 com.github.pinterest	blocked
 jakarta.xml.ws	blocked
 mx.com.sw.services	blocked
+org.apache.manifoldcf	blocked
 org.apache.servicemix.specs	blocked

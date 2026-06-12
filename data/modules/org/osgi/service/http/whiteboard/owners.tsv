@@ -1,2 +1,2 @@
-com.liferay	allowed
 org.osgi	allowed
+com.liferay	blocked

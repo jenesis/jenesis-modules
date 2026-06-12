@@ -1,4 +1,3 @@
-io.vertx	allowed
 org.graalvm.js	allowed
 ca.ibodrov.concord	blocked
 com.dbvis	blocked
@@ -13,6 +12,7 @@ dev.ybrig.ck8s.cli	blocked
 io.github.neofreko	blocked
 io.hyperfoil.tools	blocked
 io.nosqlbench	blocked
+io.vertx	blocked
 org.cibseven.bpm	blocked
 org.graphwalker	blocked
 org.hl7.fhir.publisher	blocked

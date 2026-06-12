@@ -1,4 +1,3 @@
-dev.sebastiano.spectre	allowed
 org.jetbrains.kotlinx	allowed
 cc.unitmesh	blocked
 com.rickbusarow.docusync	blocked
@@ -9,6 +8,7 @@ de.fruiture.cor.ccs	blocked
 dev.limebeck	blocked
 dev.oglass	blocked
 dev.robocode.tankroyale	blocked
+dev.sebastiano.spectre	blocked
 dev.zacsweers.metro	blocked
 io.availe	blocked
 io.deepmedia.tools.knee	blocked

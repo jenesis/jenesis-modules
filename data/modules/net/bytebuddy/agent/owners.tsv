@@ -1,4 +1,3 @@
-com.macstab.chaos.jvm	allowed
 net.bytebuddy	allowed
 cn.easii	blocked
 cn.langpy	blocked
@@ -10,6 +9,7 @@ com.google.gerrit	blocked
 com.idea-aedi	blocked
 com.inaos.jam	blocked
 com.leanxcale	blocked
+com.macstab.chaos.jvm	blocked
 com.nerdvision	blocked
 com.netsensia.rivalchess	blocked
 com.securenative.java	blocked

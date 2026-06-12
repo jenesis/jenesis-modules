@@ -1,12 +1,12 @@
-org.apache.poi	allowed
+com.guicedee.modules.services	allowed
+com.guicedee.services	allowed
 ch.inss.joaswizard	blocked
 com.github.zuinnote	blocked
 com.gitlab.cdc-java.office	blocked
-com.guicedee.modules.services	blocked
-com.guicedee.services	blocked
 io.github.takoeats	blocked
 io.luchta	blocked
 io.stoys	blocked
 net.tlabs-data	blocked
+org.apache.poi	blocked
 org.kie	blocked
 tech.tablesaw	blocked

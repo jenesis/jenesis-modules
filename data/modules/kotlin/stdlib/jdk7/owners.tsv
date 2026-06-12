@@ -1,4 +1,3 @@
-io.github.team-sneakymouse	allowed
 org.jetbrains.kotlin	allowed
 com.cjcrafter	blocked
 com.facebook	blocked
@@ -10,6 +9,7 @@ com.slothiesmooth.links-detektor	blocked
 com.squareup.wire	blocked
 dev.nelmin.spigot	blocked
 hu.bme.mit.theta	blocked
+io.github.team-sneakymouse	blocked
 io.github.wadoon.key	blocked
 io.pixeloutlaw.mythicdrops	blocked
 io.pyroscope	blocked

@@ -1,5 +1,4 @@
-com.helger.schematron	allowed
-com.sun.activation	allowed
+jakarta.activation	allowed
 ai.starlake	blocked
 ch.exense.step	blocked
 com.adobe.cq	blocked
@@ -12,12 +11,14 @@ com.github.davidmoten	blocked
 com.github.saikrishna321	blocked
 com.github.xeroapi	blocked
 com.guicedee.services	blocked
+com.helger.schematron	blocked
 com.iceolive	blocked
 com.jwebmp.thirdparty	blocked
 com.newrelic.labs	blocked
 com.qualizeal	blocked
 com.salesforce.utam	blocked
 com.steampunk.swtf	blocked
+com.sun.activation	blocked
 com.testdroid	blocked
 com.typesafe.play	blocked
 com.wavefront	blocked
@@ -27,7 +28,6 @@ io.github.dimabarbul	blocked
 io.github.gsidhwani-nr	blocked
 io.github.mikederban.selenium.webhelper	blocked
 io.github.vdaburon	blocked
-jakarta.activation	blocked
 ml.comet	blocked
 one.gfw	blocked
 org.apache.servicemix.specs	blocked

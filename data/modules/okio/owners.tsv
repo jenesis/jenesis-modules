@@ -1,0 +1,4 @@
+com.squareup.okio	allowed
+com.datadoghq.okio	blocked
+io.github.fabianterhorst	blocked
+org.danbrough.okio	blocked

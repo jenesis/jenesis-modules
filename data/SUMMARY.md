@@ -22,21 +22,21 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 |---|---:|
 | Total artifacts scanned | 17 368 273 |
 | Non-module artifacts | 15 459 649 |
-| Modular artifacts | 1 583 213 |
-| Total automatic modules | 1 242 632 |
-| Total named modules | 340 581 |
-| Total named modules with module-info version | 256 727 |
+| Modular artifacts | 1 584 523 |
+| Total automatic modules | 1 242 680 |
+| Total named modules | 341 843 |
+| Total named modules with module-info version | 257 899 |
 | Distinct Maven artifacts | 653 652 |
 | Distinct module names | 39 449 |
-| Distinct automatic modules | 20 966 |
-| Distinct named modules | 17 137 |
-| Distinct named modules with module-info version | 12 556 |
-| Distinct groupIds publishing modules | 5 181 |
+| Distinct automatic modules | 20 967 |
+| Distinct named modules | 17 119 |
+| Distinct named modules with module-info version | 12 538 |
+| Distinct groupIds publishing modules | 5 138 |
 | Most recent tracked publication | 2026-06-10 23:52:31 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **326 036** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **327 319** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 ## Type breakdown
 
@@ -44,8 +44,8 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 137 | 340 581 |
-| Automatic | 20 966 | 1 242 632 |
+| Named | 17 119 | 341 843 |
+| Automatic | 20 967 | 1 242 680 |
 
 ## `module-info` version field across named publications
 
@@ -55,27 +55,27 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 250 063 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 6 664 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 52 801 |
+| `module-info` version matches the Maven coordinate version | 251 243 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 6 656 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 52 776 |
 
 Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the "latest" of a module would land on). Modules whose latest row is automatic are excluded.
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 11 020 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 328 |
+| `module-info` version matches the Maven coordinate version | 11 021 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 324 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 3 992 |
 
 Each row describes what the **version-mismatch filter** (drop every named row whose `module-info` version semantically contradicts its Maven coordinate version) leaves behind in the module's `modules.tsv`, counted once per **canonical module** (no-classifier view). Modules with no canonical named row are out of scope. The first row is the in-scope total; rows two through four are mutually exclusive and sum to it; the fifth row overlaps with rows three and four (it's the subset whose head-of-`modules.tsv` is the one the filter removes).
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 15 486 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 14 811 |
-| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 536 |
-| Filter drops every named row: `modules.tsv` is removed entirely | 139 |
-| Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 328 |
+| Canonical modules with at least one named row (in scope) | 15 481 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 14 819 |
+| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 527 |
+| Filter drops every named row: `modules.tsv` is removed entirely | 135 |
+| Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 324 |
 
 ## Mismatching module-info version patterns
 
@@ -83,7 +83,7 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 
 | Pattern | Rows | Share |
 |---|---:|---:|
-| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 199 | 48.0% |
+| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 199 | 48.1% |
 | Module = Maven + `-<other suffix>` (build label, patch tag) | 12 | 0.2% |
 | Maven = Module + `-<suffix>` (repackager appended a coordinate suffix) | 201 | 3.0% |
 | Module = Maven + `.<segment>` (extra dot-segment in module-info) | 4 | 0.1% |
@@ -91,8 +91,8 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 | Module = Maven + `+<metadata>` (build metadata in module-info) | 0 | 0.0% |
 | Maven = Module + `+<metadata>` (build metadata in coordinate) | 0 | 0.0% |
 | Unresolved `${...}` placeholder in either version | 40 | 0.6% |
-| Different major segment (likely shaded/bundled artifact) | 1 146 | 17.2% |
-| Substantively different (same major, different version) | 2 041 | 30.6% |
+| Different major segment (likely shaded/bundled artifact) | 1 141 | 17.1% |
+| Substantively different (same major, different version) | 2 038 | 30.6% |
 
 ## Type transitions
 
@@ -100,8 +100,8 @@ Modules that have switched between named and automatic over their history. A mod
 
 | Direction | Modules |
 |---|---:|
-| Automatic → Named | 1 530 |
-| Named → Automatic | 147 |
+| Automatic → Named | 1 527 |
+| Named → Automatic | 145 |
 
 ## Recent activity (last 7 days)
 
@@ -119,18 +119,18 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 
 | Month | Named modules | Automatic modules | Non-modular artifacts |
 |---|---|---|---|
-| 2025-07 | `█`&nbsp;2 786 (4.8%) | `▓▓`&nbsp;4 766 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
-| 2025-08 | `█`&nbsp;2 434 (4.1%) | `▓▓`&nbsp;5 451 (9.3%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.6%) |
-| 2025-09 | `█`&nbsp;2 815 (4.4%) | `▓▓`&nbsp;5 404 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
-| 2025-10 | `█`&nbsp;2 856 (4.2%) | `▓▓`&nbsp;5 390 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (87.9%) |
-| 2025-11 | `█`&nbsp;2 439 (3.8%) | `▓▓`&nbsp;5 390 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
-| 2025-12 | `█`&nbsp;2 650 (4.0%) | `▓▓`&nbsp;5 626 (8.6%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 162 (87.4%) |
-| 2026-01 | `█`&nbsp;2 891 (4.1%) | `▓▓`&nbsp;5 498 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 373 (88.0%) |
-| 2026-02 | `█`&nbsp;2 639 (3.8%) | `▓▓`&nbsp;5 522 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.2%) |
-| 2026-03 | `█`&nbsp;3 123 (3.9%) | `▓▓`&nbsp;6 694 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
-| 2026-04 | `█`&nbsp;3 397 (4.5%) | `▓▓`&nbsp;5 844 (7.7%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 955 (87.9%) |
-| 2026-05 | `█`&nbsp;3 412 (4.5%) | `▓▓`&nbsp;5 346 (7.1%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 517 (88.4%) |
-| 2026-06 | `█`&nbsp;73 (3.5%) | `▓`&nbsp;21 (1.0%) | `░`&nbsp;2 015 (95.5%) |
+| 2025-07 | `█`&nbsp;2 781 (4.8%) | `▓▓`&nbsp;4 765 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
+| 2025-08 | `█`&nbsp;2 433 (4.1%) | `▓▓`&nbsp;5 449 (9.3%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.6%) |
+| 2025-09 | `█`&nbsp;2 816 (4.4%) | `▓▓`&nbsp;5 404 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
+| 2025-10 | `█`&nbsp;2 854 (4.2%) | `▓▓`&nbsp;5 390 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (87.9%) |
+| 2025-11 | `█`&nbsp;2 440 (3.8%) | `▓▓`&nbsp;5 392 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
+| 2025-12 | `█`&nbsp;2 645 (4.0%) | `▓▓`&nbsp;5 626 (8.6%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 162 (87.4%) |
+| 2026-01 | `█`&nbsp;2 891 (4.1%) | `▓▓`&nbsp;5 497 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 373 (88.0%) |
+| 2026-02 | `█`&nbsp;2 640 (3.8%) | `▓▓`&nbsp;5 521 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.2%) |
+| 2026-03 | `█`&nbsp;3 119 (3.9%) | `▓▓`&nbsp;6 692 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
+| 2026-04 | `█`&nbsp;3 393 (4.5%) | `▓▓`&nbsp;5 843 (7.7%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 955 (87.9%) |
+| 2026-05 | `█`&nbsp;3 392 (4.5%) | `▓▓`&nbsp;5 343 (7.1%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 517 (88.4%) |
+| 2026-06 | `█`&nbsp;72 (3.4%) | `▓`&nbsp;21 (1.0%) | `░`&nbsp;2 015 (95.6%) |
 
 ## Naming patterns
 
@@ -148,11 +148,11 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 
 | Shared leading dot-segments | Canonical modules |
 |---:|---:|
-| 0 | 8 413 |
-| 1 | 1 052 |
-| 2 | 11 359 |
-| 3 | 11 962 |
-| 4 | 2 318 |
+| 0 | 8 446 |
+| 1 | 1 047 |
+| 2 | 11 384 |
+| 3 | 11 908 |
+| 4 | 2 317 |
 | 5 | 329 |
 | 6 | 13 |
 | 7 | - |
@@ -218,7 +218,9 @@ Modules with the longest release history. Counts come from the main (no-classifi
 | `javassist` | 452 |
 | `org.apache.commons.math3` | 452 |
 | `org.apache.cxf` | 452 |
+| `org.apache.poi.ooxml` | 452 |
 | `io.undertow.parser.generator` | 446 |
+| `org.apache.xmlbeans` | 446 |
 | `undertow.* (3 modules)` | [415, 446] |
 | `com.guicedee.* (64 modules)` | [1, 445] |
 | `java.transaction` | 442 |
@@ -230,8 +232,6 @@ Modules with the longest release history. Counts come from the main (no-classifi
 | `primefaces` | 415 |
 | `com.tigerbeetle` | 404 |
 | `org.apache.poi` | 403 |
-| `be.seeseemelk.mockbukkit` | 394 |
-| `com.entityassist` | 394 |
 
 ## Top 25 groupIds by module count
 
@@ -321,7 +321,7 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 | `com.jwebmp.plugins.iconsets` | 7 | 2 121 | 303.0 |
 | `com.jwebmp.plugins.javascript` | 12 | 3 632 | 302.7 |
 | `com.jwebmp.plugins.bootstrap` | 8 | 2 409 | 301.1 |
-| `com.guicedee.services` | 50 | 13 860 | 277.2 |
+| `com.guicedee.services` | 55 | 15 018 | 273.1 |
 | `io.fluxzero` | 5 | 1 356 | 271.2 |
 | `com.guicedee.persistence` | 10 | 2 694 | 269.4 |
 | `net.minestom` | 3 | 771 | 257.0 |

@@ -1,6 +1,8 @@
-com.airbnb.viaduct	allowed
+org.jetbrains.dokka	allowed
+org.jetbrains.intellij.deps.kotlinx	allowed
 org.jetbrains.kotlinx	allowed
 ca.acendas	blocked
+com.airbnb.viaduct	blocked
 com.eygraber	blocked
 com.krillforge	blocked
 com.rickbusarow.doks	blocked
@@ -16,8 +18,6 @@ io.johnsonlee.exec	blocked
 io.johnsonlee.kx	blocked
 io.realm.kotlin	blocked
 io.sirix	blocked
-org.jetbrains.dokka	blocked
-org.jetbrains.intellij.deps.kotlinx	blocked
 org.openprojectx.hadoop.win	blocked
 uk.co.developmentanddinosaurs	blocked
 uk.co.developmentanddinosaurs.games.dinner	blocked

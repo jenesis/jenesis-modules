@@ -1,8 +1,8 @@
 com.networknt	allowed
-dev.dokimos	allowed
 com.github.nagyesta.abort-mission.reports	blocked
 com.github.tomakehurst	blocked
 com.intuit.isl	blocked
+dev.dokimos	blocked
 io.github.jdbcx	blocked
 org.sonarsource.text	blocked
 org.wiremock	blocked

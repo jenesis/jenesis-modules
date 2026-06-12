@@ -1,5 +1,5 @@
-ai.platon.gora	allowed
 org.apache.commons	allowed
+ai.platon.gora	blocked
 com.ascentstream.pulsar	blocked
 com.cefriel	blocked
 com.datastax.oss	blocked

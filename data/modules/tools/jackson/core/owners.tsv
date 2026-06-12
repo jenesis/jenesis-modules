@@ -1,4 +1,3 @@
-io.github.ignf	allowed
 tools.jackson.core	allowed
 com.erudika	blocked
 com.github.oboehm	blocked
@@ -8,6 +7,7 @@ com.limemojito.oss.standards	blocked
 com.limemojito.oss.standards.development-test	blocked
 fr.pilato.elasticsearch.injector	blocked
 io.github.anmol023	blocked
+io.github.ignf	blocked
 io.github.shangtx	blocked
 io.github.tansuasici	blocked
 io.sapl	blocked

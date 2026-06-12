@@ -1,5 +1,5 @@
-com.github.kwart.jd	allowed
 org.apache.bcel	allowed
+com.github.kwart.jd	blocked
 com.github.spotbugs	blocked
 org.checkerframework	blocked
 org.checkerframework.annotatedlib	blocked

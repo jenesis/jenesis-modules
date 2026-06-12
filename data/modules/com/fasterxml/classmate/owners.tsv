@@ -1,5 +1,4 @@
 com.fasterxml	allowed
-com.qainsights	allowed
 cc.shacocloud	blocked
 cc.shacocloud.octopus	blocked
 com.biit-solutions.drools.plugins	blocked
@@ -9,6 +8,7 @@ com.guicedee.services	blocked
 com.jcabi	blocked
 com.okta.authn.sdk	blocked
 com.phonepe.drove	blocked
+com.qainsights	blocked
 com.redislabs	blocked
 com.twitter	blocked
 io.appform.ranger	blocked
