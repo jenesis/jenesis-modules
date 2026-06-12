@@ -76,6 +76,56 @@ public class DriftReportTest {
         assertThat(report).contains("owned by `ch.qos.logback`");
     }
 
+    @Test
+    public void closest_groupid_by_prefix_is_shaded_even_when_not_strictly_under() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // module com.fasterxml.jackson.kotlin is owned by groupId com.fasterxml.jackson.module:
+        // they share com.fasterxml.jackson (3 segments) but the name is not under the groupId.
+        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.fasterxml.jackson.module", "jackson-module-kotlin", "2.15", 1_500_000_000_000L));
+        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.fasterxml.jackson.module", "jackson-module-kotlin", "2.18", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("owned by `com.fasterxml.jackson.module`");
+    }
+
+    @Test
+    public void groupid_minus_tld_prefix_is_classified_tld_dropped() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // module ktorm.core owned by org.ktorm: drop the org top-level domain -> ktorm.
+        store.record("ktorm.core", ModuleType.NAMED, null, coord("org.ktorm", "ktorm-core", "3.0", 1_500_000_000_000L));
+        store.record("ktorm.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("ktorm.core", ModuleType.NAMED, null, coord("org.ktorm", "ktorm-core", "4.0", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## tld-dropped (1)");
+        assertThat(report).contains("ktorm.core");
+        assertThat(report).contains("owned by `org.ktorm`");
+    }
+
+    @Test
+    public void groupid_minus_two_segments_prefix_is_classified_two_segments() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // module kotlinx.coroutines.core owned by org.jetbrains.kotlinx: drop org.jetbrains -> kotlinx.
+        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("org.jetbrains.kotlinx", "kotlinx-coroutines-core", "1.7", 1_500_000_000_000L));
+        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("org.jetbrains.kotlinx", "kotlinx-coroutines-core", "1.9", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## two-segments (1)");
+        assertThat(report).contains("owned by `org.jetbrains.kotlinx`");
+    }
+
     private static void run(Map<String, String> properties) throws IOException {
         properties.forEach(System::setProperty);
         try {

@@ -53,6 +53,8 @@ public final class DriftReport {
         MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
         FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork."),
         SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
+        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix (e.g. module ktorm.* owned by org.ktorm). Proposal: allow that owner, block the rest."),
+        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix (e.g. module kotlinx.* owned by org.jetbrains.kotlinx). Proposal: allow that owner, block the rest."),
         UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.");
 
         final String id;
@@ -234,9 +236,11 @@ public final class DriftReport {
             category = Category.FORK;
             allowed = List.of(owner.groupId);
             description = "fork: keep `" + owner.groupId + "`, `" + successor.groupId + "` still publishes the name";
-        } else if (under(module, owner.groupId)) {
-            // The natural-namespace owner is the earliest and most-recent publisher; every other
-            // group merely shades or bundles the name under its own coordinate.
+        } else if (canonicalOwner(module, owner, groups)) {
+            // The owner is the earliest and most-recent publisher and the closest groupId to the
+            // module name (it shares the longest leading-segment prefix); every other group merely
+            // shades or bundles the name. This holds even when the name is not strictly under the
+            // groupId, e.g. module com.fasterxml.jackson.kotlin owned by com.fasterxml.jackson.module.
             category = Category.SHADED;
             List<String> canonical = Stream.concat(Stream.of(owner.groupId),
                             groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
@@ -244,10 +248,30 @@ public final class DriftReport {
             allowed = canonical;
             description = "owned by `" + owner.groupId + "`; " + (groups.size() - canonical.size())
                     + " other group(s) shade the name";
+        } else if (groupTailPrefixes(module, owner.groupId, 1)) {
+            // The dominant owner's groupId minus its top-level domain is the module-name prefix,
+            // e.g. module ktorm.core owned by org.ktorm.
+            category = Category.TLD_DROPPED;
+            List<String> canonical = Stream.concat(Stream.of(owner.groupId),
+                            groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
+                    .distinct().toList();
+            allowed = canonical;
+            description = "owned by `" + owner.groupId + "` (groupId minus TLD is the module prefix); "
+                    + (groups.size() - canonical.size()) + " other group(s) shade the name";
+        } else if (groupTailPrefixes(module, owner.groupId, 2)) {
+            // The dominant owner's groupId minus its first two segments is the module-name prefix,
+            // e.g. module kotlinx.* owned by org.jetbrains.kotlinx.
+            category = Category.TWO_SEGMENTS;
+            List<String> canonical = Stream.concat(Stream.of(owner.groupId),
+                            groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
+                    .distinct().toList();
+            allowed = canonical;
+            description = "owned by `" + owner.groupId + "` (groupId minus two segments is the module prefix); "
+                    + (groups.size() - canonical.size()) + " other group(s) shade the name";
         } else {
             category = Category.UNCLASSIFIED;
             allowed = List.of(owner.groupId);
-            description = "no natural-namespace owner; `" + owner.groupId + "` is earliest and most recent";
+            description = "no clear owner; `" + owner.groupId + "` is earliest and most recent";
         }
         return new Drift(module, groups, owner, category, allowed, description, owners);
     }
@@ -421,6 +445,40 @@ public final class DriftReport {
 
     private static boolean under(String module, String groupId) {
         return module.equals(groupId) || module.startsWith(groupId + ".");
+    }
+
+    /** True when the groupId with its first {@code drop} segments removed prefixes the module name. */
+    private static boolean groupTailPrefixes(String module, String groupId, int drop) {
+        int from = 0;
+        for (int i = 0; i < drop; i++) {
+            int dot = groupId.indexOf('.', from);
+            if (dot < 0) {
+                return false;
+            }
+            from = dot + 1;
+        }
+        String stripped = groupId.substring(from);
+        return !stripped.isEmpty() && (module.equals(stripped) || module.startsWith(stripped + "."));
+    }
+
+    /**
+     * The owner is the canonical owner when its groupId is the closest to the module name: either
+     * the name is strictly under the groupId, or the groupId shares the longest leading-segment
+     * prefix with the name (at least the org+project level, three segments) and no other publisher
+     * shares more. Covers e.g. module com.fasterxml.jackson.kotlin owned by the closest groupId
+     * com.fasterxml.jackson.module.
+     */
+    private static boolean canonicalOwner(String module, Group owner, List<Group> groups) {
+        if (under(module, owner.groupId)) {
+            return true;
+        }
+        int ownerAffinity = sharedLeading(module, owner.groupId);
+        if (ownerAffinity < 3) {
+            return false;
+        }
+        int otherAffinity = groups.stream().filter(group -> group != owner)
+                .mapToInt(group -> sharedLeading(module, group.groupId)).max().orElse(0);
+        return ownerAffinity >= otherAffinity;
     }
 
     private static boolean sameProject(String a, String b) {
