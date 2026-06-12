@@ -36,7 +36,10 @@
  *    URL from the row's Maven coordinate.
  *
  * In every mode the version segment is optional - leaving it out picks the first row in
- * the TSV (highest version, since both files are sorted descending).
+ * the TSV (highest version, since both files are sorted descending). An explicit version
+ * that is not in the TSV is resolved on a best-effort basis against the newest coordinate
+ * (the first row's groupId / artifactId), so versions published after the last crawl still
+ * redirect; the request only 404s if Maven Central itself has no such artifact.
  *
  * The worker is indifferent to any path segments preceding the mode marker - only the
  * trailing three or four segments are inspected - so it can be deployed behind any
@@ -164,6 +167,7 @@ async function handleRequest(request, env) {
             "X-Jenesis-ArtifactId": row.artifactId,
             "X-Jenesis-MavenVersion": row.mavenVersion,
             ...(row.moduleVersion ? { "X-Jenesis-ModuleVersion": row.moduleVersion } : {}),
+            ...(row.bestEffort ? { "X-Jenesis-BestEffort": "true" } : {}),
         },
     });
 }
@@ -298,12 +302,19 @@ function isModuleName(text) {
  *   module/sources/documentation modes → modules.tsv: 4 cols
  *                                       `moduleVersion, groupId, artifactId, mavenVersion`
  *
- * Returns a normalised `{ groupId, artifactId, mavenVersion, moduleVersion? }` row, or
- * `null` when no row matches. If `version` is `null`, returns the first row (highest
- * version - both files are sorted descending). Otherwise returns the first row whose
- * first column matches `version` exactly.
+ * Returns a normalised `{ groupId, artifactId, mavenVersion, moduleVersion?, bestEffort? }`
+ * row, or `null` when nothing can be served. If `version` is `null`, returns the first row
+ * (highest version - both files are sorted descending). Otherwise returns the first row
+ * whose first column matches `version` exactly.
+ *
+ * If an explicit `version` is not in the file but the module has at least one row, the
+ * version is assumed to exist on Maven Central under the **newest** coordinate (the first
+ * row's groupId / artifactId): a best-effort row carrying the requested version verbatim is
+ * returned (flagged `bestEffort`). This lets versions published after the last crawl resolve
+ * optimistically; if Maven Central has no such artifact the redirect simply 404s downstream.
  */
 function pickRow(tsv, version, mode) {
+    let newest = null;
     for (const line of tsv.split("\n")) {
         if (line.length === 0) {
             continue;
@@ -312,25 +323,41 @@ function pickRow(tsv, version, mode) {
         if (cols.length < 4) {
             continue;
         }
-        if (version !== null && cols[0] !== version) {
-            continue;
+        const row = normaliseRow(cols, mode);
+        if (newest === null) {
+            newest = row;
         }
-        if (mode === "artifact") {
-            return {
-                groupId: cols[2],
-                artifactId: cols[3],
-                mavenVersion: cols[0],
-                moduleVersion: null,
-            };
+        if (version === null || cols[0] === version) {
+            return row;
         }
+    }
+    if (version !== null && newest !== null) {
         return {
-            groupId: cols[1],
-            artifactId: cols[2],
-            mavenVersion: cols[3],
-            moduleVersion: cols[0],
+            groupId: newest.groupId,
+            artifactId: newest.artifactId,
+            mavenVersion: version,
+            moduleVersion: mode === "artifact" ? null : version,
+            bestEffort: true,
         };
     }
     return null;
+}
+
+function normaliseRow(cols, mode) {
+    if (mode === "artifact") {
+        return {
+            groupId: cols[2],
+            artifactId: cols[3],
+            mavenVersion: cols[0],
+            moduleVersion: null,
+        };
+    }
+    return {
+        groupId: cols[1],
+        artifactId: cols[2],
+        mavenVersion: cols[3],
+        moduleVersion: cols[0],
+    };
 }
 
 function artifactUrl(base, row, classifier, extension, filenameSuffix) {
