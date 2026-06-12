@@ -1523,6 +1523,9 @@ public final class ModuleSummary {
                     Pattern.compile("Exported package \\S+ already declared"),
                     "Exported package <PACKAGE> already declared"),
             new ErrorNormalizer(
+                    Pattern.compile("Dependence upon \\S+ already declared"),
+                    "Dependence upon <MODULE> already declared"),
+            new ErrorNormalizer(
                     Pattern.compile("Unsupported major\\.minor version \\d+\\.\\d+"),
                     "Unsupported major.minor version <VERSION>"),
             new ErrorNormalizer(

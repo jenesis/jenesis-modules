@@ -86,6 +86,14 @@ public class ModuleSummaryTest {
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute"))
                 .isEqualTo("InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute");
+        // The dependence-already-declared class collapses regardless of which module it names, so a
+        // third-party module duplicate and a java.base duplicate land in the same bucket.
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: Dependence upon com.example.core already declared"))
+                .isEqualTo("InvalidModuleDescriptorException: Dependence upon <MODULE> already declared");
+        assertThat(ModuleSummary.normalizeErrorMessage(
+                "InvalidModuleDescriptorException: Dependence upon java.base already declared"))
+                .isEqualTo("InvalidModuleDescriptorException: Dependence upon <MODULE> already declared");
         assertThat(ModuleSummary.normalizeErrorMessage(
                 "InvalidModuleDescriptorException: Unsupported major.minor version 59.65535"))
                 .isEqualTo("InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>");
