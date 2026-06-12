@@ -50,16 +50,20 @@ public final class DriftReport {
      * whose name equals a key or falls under it (key + ".") is assigned to that groupId. Add rules
      * here for canonical ownerships the naming heuristics cannot infer.
      */
-    private static final Map<String, String> EXPLICIT_OWNERS = Map.ofEntries(
-            Map.entry("spring.boot", "org.springframework.boot"),
-            Map.entry("spring", "org.springframework"),
-            Map.entry("reactor", "io.projectreactor"),
-            Map.entry("zipkin2", "io.zipkin"),
-            Map.entry("scala", "org.scala-lang"),
-            Map.entry("javafx", "org.openjfx"),
-            Map.entry("jme3", "org.jmonkeyengine"),
-            Map.entry("com.codahale.metrics", "io.dropwizard"),
-            Map.entry("feign", "io.github.openfeign")
+    private static final Map<String, List<String>> EXPLICIT_OWNERS = Map.ofEntries(
+            Map.entry("spring", List.of("org.springframework")),
+            Map.entry("reactor", List.of("io.projectreactor")),
+            Map.entry("zipkin2", List.of("io.zipkin")),
+            Map.entry("scala", List.of("org.scala-lang")),
+            Map.entry("javafx", List.of("org.openjfx")),
+            Map.entry("jme3", List.of("org.jmonkeyengine")),
+            Map.entry("com.codahale.metrics", List.of("io.dropwizard")),
+            Map.entry("feign", List.of("io.github.openfeign")),
+            Map.entry("kotlinx", List.of("org.jetbrains")),
+            Map.entry("kora", List.of("ru.tinkoff.kora", "io.koraframework")),
+            Map.entry("io.questdb", List.of("org.questdb")),
+            Map.entry("akka", List.of("com.typesafe.akka")),
+            Map.entry("jamal", List.of("com.javax0.jamal"))
     );
 
     private DriftReport() {
@@ -217,20 +221,20 @@ public final class DriftReport {
         groups.sort(Comparator.comparingLong((Group g) -> g.first).thenComparing(g -> g.groupId));
         Group owner = groups.getFirst(); // earliest first publication = the implicit resolution owner
 
-        String explicit = explicitOwner(module);
+        List<String> explicit = explicitOwners(module);
         if (explicit != null) {
-            // The rule's owner is a groupId prefix: allow every publisher under it (e.g. io.projectreactor
-            // and io.projectreactor.netty), block the rest.
+            // The rule's owners are groupId prefixes: allow every publisher under any of them (e.g.
+            // io.projectreactor and io.projectreactor.netty), block the rest.
             List<String> allowedExplicit = groups.stream().map(g -> g.groupId)
-                    .filter(g -> g.equals(explicit) || g.startsWith(explicit + "."))
+                    .filter(g -> matchesAnyPrefix(g, explicit))
                     .distinct().toList();
             if (allowedExplicit.isEmpty()) {
-                allowedExplicit = List.of(explicit);
+                allowedExplicit = explicit;
             }
-            long blocked = groups.stream().map(g -> g.groupId)
-                    .filter(g -> !(g.equals(explicit) || g.startsWith(explicit + "."))).count();
+            long blocked = groups.stream().map(g -> g.groupId).filter(g -> !matchesAnyPrefix(g, explicit)).count();
+            String owned = explicit.stream().map(o -> "`" + o + "`").collect(Collectors.joining(", "));
             return new Drift(module, groups, owner, Category.EXPLICIT, allowedExplicit,
-                    "explicit rule: owned by `" + explicit + "`; " + blocked + " other group(s) blocked", owners);
+                    "explicit rule: owned by " + owned + "; " + blocked + " other group(s) blocked", owners);
         }
 
         List<String> naturals = groups.stream()
@@ -485,18 +489,27 @@ public final class DriftReport {
         return Math.max(0, Math.min(TIMELINE_WIDTH - 1, index));
     }
 
-    /** The explicit-rule owner for a module, or null: the longest matching prefix in EXPLICIT_OWNERS. */
-    private static String explicitOwner(String module) {
-        String owner = null;
+    /** The explicit-rule owner prefixes for a module, or null: the longest matching key in EXPLICIT_OWNERS. */
+    private static List<String> explicitOwners(String module) {
+        List<String> owners = null;
         int best = -1;
-        for (Map.Entry<String, String> rule : EXPLICIT_OWNERS.entrySet()) {
+        for (Map.Entry<String, List<String>> rule : EXPLICIT_OWNERS.entrySet()) {
             String prefix = rule.getKey();
             if ((module.equals(prefix) || module.startsWith(prefix + ".")) && prefix.length() > best) {
                 best = prefix.length();
-                owner = rule.getValue();
+                owners = rule.getValue();
             }
         }
-        return owner;
+        return owners;
+    }
+
+    private static boolean matchesAnyPrefix(String groupId, List<String> prefixes) {
+        for (String prefix : prefixes) {
+            if (groupId.equals(prefix) || groupId.startsWith(prefix + ".")) {
+                return true;
+            }
+        }
+        return false;
     }
 
     /** Module names cannot contain '-', so strip it from groupIds before comparing the two. */

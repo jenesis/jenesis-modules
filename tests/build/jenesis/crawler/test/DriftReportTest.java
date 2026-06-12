@@ -114,17 +114,17 @@ public class DriftReportTest {
     @Test
     public void groupid_minus_two_segments_prefix_is_classified_two_segments() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // module kotlinx.coroutines.core owned by org.jetbrains.kotlinx: drop org.jetbrains -> kotlinx.
-        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("org.jetbrains.kotlinx", "kotlinx-coroutines-core", "1.7", 1_500_000_000_000L));
-        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.record("kotlinx.coroutines.core", ModuleType.NAMED, null, coord("org.jetbrains.kotlinx", "kotlinx-coroutines-core", "1.9", 1_770_000_000_000L));
+        // module acme.ui.core owned by org.example.acme: drop the first two segments (org.example) -> acme.
+        store.record("acme.ui.core", ModuleType.NAMED, null, coord("org.example.acme", "acme-ui-core", "1.7", 1_500_000_000_000L));
+        store.record("acme.ui.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("acme.ui.core", ModuleType.NAMED, null, coord("org.example.acme", "acme-ui-core", "1.9", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## two-segments (1)");
-        assertThat(report).contains("owned by `org.jetbrains.kotlinx`");
+        assertThat(report).contains("owned by `org.example.acme`");
     }
 
     @Test
@@ -191,7 +191,9 @@ public class DriftReportTest {
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## explicit-rules (1)");
         assertThat(report).contains("spring.boot.autoconfigure");
-        assertThat(report).contains("owned by `org.springframework.boot`");
+        // The spring -> org.springframework prefix rule covers spring.boot.* (org.springframework.boot
+        // is under org.springframework), so no separate boot rule is needed.
+        assertThat(report).contains("owned by `org.springframework`");
     }
 
     private static void run(Map<String, String> properties) throws IOException {
