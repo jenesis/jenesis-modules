@@ -87,21 +87,44 @@ public final class DriftReport {
     }
 
     enum Category {
-        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic. Proposal: allow that owner, reject the rest."),
-        REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, reject the republisher."),
-        MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
-        FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, reject the fork."),
-        SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, reject the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
-        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix. Proposal: allow that owner, reject the rest."),
-        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix. Proposal: allow that owner, reject the rest."),
-        UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.");
+        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic.",
+                "The module name equals, or falls under, a hand-curated prefix in the explicit-owner map.",
+                "Allow every publisher whose groupId falls under the mapped owner prefix; reject all other publishers."),
+        REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars).",
+                "The earliest (current) owner's groupId is foreign to the module name: the name does not fall under it.",
+                "A natural-namespace owner - a publisher whose groupId the module name does fall under - is also present.",
+                "The foreign earliest owner is still globally active (a dormant one would be a relocation, see migration).",
+                "Allow the natural owner; reject the foreign republisher."),
+        MIGRATION("migration", "The publishing groupId handed off over time (a rename or a relocation), so both coordinates are kept.",
+                "Rename: a more-recent successor is the same project as the owner (a shared groupId prefix, or two shared leading segments).",
+                "Relocation: the owner stopped at or before a credible successor took over (or the owner went globally dormant), and that successor itself owns the module namespace.",
+                "Allow both old and new so history stays resolvable and `latest` is current."),
+        FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active.",
+                "A more-recent cross-org coordinate (a successor) publishes the same name while the original is still active.",
+                "The earliest publisher is itself a credible owner: it owns the module namespace, or is the closest groupId to it.",
+                "Keep the original owner; reject the fork."),
+        SHADED("shaded", "The natural-namespace owner is the earliest and most-recent publisher; every other group merely shades or bundles the name. Resolution is unchanged; this just records the decision so the module drops off the report.",
+                "The owner is also the most-recent publisher (there is no later successor).",
+                "The owner is the closest groupId to the module name: it shares the longest leading-segment prefix (hyphens ignored), even if the name is not strictly under it.",
+                "Allow the natural owner; reject every group that merely shades the name."),
+        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain dropped is the module-name prefix.",
+                "The owner's groupId with its first segment (the top-level domain) removed is a prefix of the module name.",
+                "Allow that owner; reject the rest."),
+        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix.",
+                "The owner's groupId with its first two segments removed is a prefix of the module name.",
+                "Allow that owner; reject the rest."),
+        UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present: a genuine collision the heuristic cannot settle.",
+                "More than one publisher, and none is a credible owner: no natural-namespace owner is present and the earliest is not the closest groupId.",
+                "Left unresolved - no owners.tsv is written - for a later hand decision.");
 
         final String id;
         final String blurb;
+        final List<String> rules;
 
-        Category(String id, String blurb) {
+        Category(String id, String blurb, String... rules) {
             this.id = id;
             this.blurb = blurb;
+            this.rules = List.of(rules);
         }
 
         static Category byId(String id) {
@@ -284,14 +307,26 @@ public final class DriftReport {
         boolean ownerForeign = !under(module, owner.groupId)
                 && naturals.stream().anyMatch(natural -> !sameProject(owner.groupId, natural));
         boolean ownerDormant = globalLast.getOrDefault(owner.groupId, 0L) < activeCutoff;
+        // A relocation only hands off to a successor that is itself a credible owner of the name:
+        // one that owns the module's namespace, or is the same project under a renamed coordinate. A
+        // foreign coordinate that merely bundles the name (a fat jar) and happens to publish more
+        // recently is NOT a successor - typically the original is the natural-namespace owner that
+        // simply went quiet on this one module while a shading project kept releasing.
+        boolean successorNatural = successor != null
+                && (under(module, successor.groupId) || sameProject(owner.groupId, successor.groupId));
         // A credible successor published the name more than once; a single late publication is a
         // one-off (often a shaded jar) and must not be mistaken for a relocation.
         boolean handoff = successor != null && successor.count >= 2
-                && (owner.last <= successor.first || ownerDormant);
+                && (owner.last <= successor.first || ownerDormant)
+                && successorNatural;
         Category category;
         List<String> allowed;
         String description;
-        if (ownerForeign && !handoff) {
+        if (ownerForeign && !(handoff && ownerDormant)) {
+            // A foreign earliest publisher that is still globally active is a republisher, not a
+            // predecessor: keep the natural owner, reject the foreign coordinate. Only a foreign
+            // coordinate that has itself gone dormant counts as a genuine relocation (handled below),
+            // where both old and new are kept so the full history stays resolvable.
             category = Category.REPUBLISHER;
             allowed = naturals.stream().filter(natural -> !sameProject(owner.groupId, natural)).toList();
             description = "republished by `" + owner.groupId + "` (still active); belongs to " + code(allowed);
@@ -307,7 +342,11 @@ public final class DriftReport {
             allowed = List.of(owner.groupId, successor.groupId);
             description = "relocated `" + owner.groupId + "` -> `" + successor.groupId
                     + "` (latest " + successor.latestVersion + ")";
-        } else if (successor != null) {
+        } else if (successor != null && (under(module, owner.groupId) || canonicalOwner(module, owner, groups))) {
+            // Keep a fork's name with its natural owner: the earliest publisher owns the module's
+            // namespace (or is the closest groupId to it) while a cross-org coordinate also publishes
+            // it. When the earliest publisher is not itself a credible owner, fall through - a
+            // collision with no clear owner is left unresolved rather than pinned to a first publisher.
             category = Category.FORK;
             allowed = List.of(owner.groupId);
             description = "fork: keep `" + owner.groupId + "`, `" + successor.groupId + "` still publishes the name";
@@ -396,6 +435,10 @@ public final class DriftReport {
             List<Drift> list = byCategory.get(category);
             out.append("## ").append(category.id).append(" (").append(list.size()).append(")\n\n");
             out.append(category.blurb).append("\n\n");
+            for (String rule : category.rules) {
+                out.append("- ").append(rule).append('\n');
+            }
+            out.append('\n');
             if (list.isEmpty()) {
                 continue;
             }
@@ -537,9 +580,9 @@ public final class DriftReport {
                 .append(" widened (").append(widenCount).append("): extra legal owners were allowed alongside the ")
                 .append("first publisher (e.g. a groupId migration or a co-maintained project). Modules where ")
                 .append("`owners.tsv` only confirms the first publisher are not listed. Submodules that share the ")
-                .append("same transition are collapsed into a single `prefix.*` row; the Modules column reports how ")
-                .append("many modules that row covers. The Rejected owner(s) column names the publishers excluded ")
-                .append("for the name (empty for a pure widening).\n\n");
+                .append("same transition are collapsed into a single `prefix.*` row; the count in braces after the ")
+                .append("name is how many modules that row covers. The Rejected owner(s) column names the publishers ")
+                .append("excluded for the name (empty for a pure widening).\n\n");
 
         // Group modules that share the exact same transition (same direction, implicit owner and
         // resolved owners); collapse each group's shared leading dot-prefix into one wildcard row.
@@ -567,13 +610,17 @@ public final class DriftReport {
                         owners, rejectedLabel(rejected, any.implicitOwner())));
             }
         }
-        rows.sort(Comparator.comparing(ReassignRow::widened).thenComparing(ReassignRow::label));
+        rows.sort(Comparator.comparing(ReassignRow::label, String.CASE_INSENSITIVE_ORDER)
+                .thenComparing(ReassignRow::label));
 
-        out.append("| Kind | Module | Modules | Implicit owner | Owner(s) | Rejected owner(s) |\n");
-        out.append("|---|---|---:|---|---|---|\n");
+        out.append("| Module | Implicit owner | Owner(s) | Rejected owner(s) |\n");
+        out.append("|---|---|---|---|\n");
         for (ReassignRow row : rows) {
-            out.append("| ").append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI)
-                    .append(" | `").append(row.label()).append("` | ").append(row.count())
+            out.append("| `").append(row.label()).append('`');
+            if (row.count() > 1) {
+                out.append(" (").append(row.count()).append(')');
+            }
+            out.append(' ').append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI)
                     .append(" | `").append(row.implicitOwner()).append("` | `").append(row.owners())
                     .append("` | ").append(REJECTED_NONE.equals(row.rejected()) ? REJECTED_NONE : "`" + row.rejected() + "`")
                     .append(" |\n");

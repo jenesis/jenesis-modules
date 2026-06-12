@@ -176,7 +176,7 @@ public class DriftReportTest {
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## Reassigned and widened ownership");
-        assertThat(report).contains("| `com.example.lib` | 1 | `org.other` | `com.example` | `org.other` |");
+        assertThat(report).contains("| `com.example.lib` 🔀 | `org.other` | `com.example` | `org.other` |");
     }
 
     @Test
@@ -194,6 +194,43 @@ public class DriftReportTest {
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## fork (1)");
         assertThat(report).contains("keep `com.example.lib`");
+    }
+
+    @Test
+    public void a_foreign_bundler_that_publishes_more_recently_is_a_fork_not_a_migration() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // The namespace owner went quiet on this module name; a foreign project that bundles it kept
+        // releasing, more recently and repeatedly. That is a fat-jar republish, not a relocation: keep
+        // the owner, do not hand ownership off to (or widen it to) the bundler.
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("com.example.lib", "lib-core", "1.0", 1_500_000_000_000L));
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("com.example.lib", "lib-core", "2.0", 1_600_000_000_000L));
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("org.bundler", "fat", "9.0", 1_700_000_000_000L));
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("org.bundler", "fat", "9.1", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## fork (1)");
+        assertThat(report).contains("keep `com.example.lib`");
+        assertThat(report).doesNotContain("## migration (1)");
+    }
+
+    @Test
+    public void a_collision_with_no_natural_owner_is_unclassified_not_a_kept_fork() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // Neither publisher owns the generic module name; the earliest is just the first to use it.
+        // With no credible owner, leave it unresolved rather than pinning it to the first publisher.
+        store.record("core", ModuleType.NAMED, null, coord("com.example.alpha", "alpha", "1.0", 1_500_000_000_000L));
+        store.record("core", ModuleType.NAMED, null, coord("org.beta.tools", "beta", "2.0", 1_700_000_000_000L));
+        store.record("core", ModuleType.NAMED, null, coord("org.beta.tools", "beta", "2.1", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## unclassified (1)");
+        assertThat(report).doesNotContain("## fork (1)");
     }
 
     private static void run(Map<String, String> properties) throws IOException {
