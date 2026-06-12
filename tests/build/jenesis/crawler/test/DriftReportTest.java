@@ -47,9 +47,9 @@ public class DriftReportTest {
         store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_700_000_000_000L));
         store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.0", 1_710_000_000_000L));
         store.flush();
-        // Name every publisher: com.example allowed, org.other blocked -> handled, not drift.
+        // Name every publisher: com.example allowed, org.other rejected -> handled, not drift.
         Path dir = data.resolve("modules").resolve("com").resolve("example").resolve("lib");
-        Files.writeString(dir.resolve("owners.tsv"), "com.example\tallowed\norg.other\tblocked\n");
+        Files.writeString(dir.resolve("owners.tsv"), "com.example\tallowed\norg.other\trejected\n");
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
@@ -170,13 +170,13 @@ public class DriftReportTest {
         store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_700_000_000_000L));
         store.flush();
         Path dir = data.resolve("modules").resolve("com").resolve("example").resolve("lib");
-        Files.writeString(dir.resolve("owners.tsv"), "com.example\tallowed\norg.other\tblocked\n");
+        Files.writeString(dir.resolve("owners.tsv"), "com.example\tallowed\norg.other\trejected\n");
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## Reassigned and widened ownership");
-        assertThat(report).contains("| `com.example.lib` | 1 | `org.other -> com.example` |");
+        assertThat(report).contains("| `com.example.lib` | 1 | `org.other` | `com.example` | `org.other` |");
     }
 
     @Test

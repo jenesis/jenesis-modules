@@ -437,9 +437,9 @@ public final class ModuleStore {
 
     /**
      * Reads a module's {@code owners.tsv} into an {@link OwnersPolicy}, or empty when the file
-     * does not exist. Every non-comment line is {@code <owner><TAB><allowed|blocked>}, where
+     * does not exist. Every non-comment line is {@code <owner><TAB><allowed|rejected>}, where
      * {@code owner} is a {@code groupId} or a {@code groupId:artifactId} pair (colon-separated).
-     * An "owner" is simply a groupId whose decision is {@code allowed}; {@code blocked} records a
+     * An "owner" is simply a groupId whose decision is {@code allowed}; {@code rejected} records a
      * reviewed-and-excluded groupId so drift reporting can tell it apart from one nobody has
      * decided on yet.
      */
@@ -450,8 +450,8 @@ public final class ModuleStore {
         }
         Set<String> allowedGroups = new HashSet<>();
         Set<String> allowedPairs = new HashSet<>();
-        Set<String> blockedGroups = new HashSet<>();
-        Set<String> blockedPairs = new HashSet<>();
+        Set<String> rejectedGroups = new HashSet<>();
+        Set<String> rejectedPairs = new HashSet<>();
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
             for (String rawLine : (Iterable<String>) lines::iterator) {
                 String line = rawLine.stripTrailing();
@@ -461,15 +461,15 @@ public final class ModuleStore {
                 int tab = line.indexOf('\t');
                 if (tab < 0 || line.indexOf('\t', tab + 1) >= 0) {
                     throw new IllegalArgumentException(
-                            "Expected '<owner>\\t<allowed|blocked>' in " + file + ": " + line);
+                            "Expected '<owner>\\t<allowed|rejected>' in " + file + ": " + line);
                 }
                 String owner = line.substring(0, tab);
                 String decision = line.substring(tab + 1);
-                boolean blocked = switch (decision) {
+                boolean rejected = switch (decision) {
                     case "allowed" -> false;
-                    case "blocked" -> true;
+                    case "rejected" -> true;
                     default -> throw new IllegalArgumentException(
-                            "Expected 'allowed' or 'blocked' in " + file + ": " + line);
+                            "Expected 'allowed' or 'rejected' in " + file + ": " + line);
                 };
                 int colon = owner.indexOf(':');
                 String groupId = colon < 0 ? owner : owner.substring(0, colon);
@@ -478,13 +478,13 @@ public final class ModuleStore {
                     throw new IllegalArgumentException("Invalid owner in " + file + ": " + line);
                 }
                 if (artifactId == null) {
-                    (blocked ? blockedGroups : allowedGroups).add(groupId);
+                    (rejected ? rejectedGroups : allowedGroups).add(groupId);
                 } else {
-                    (blocked ? blockedPairs : allowedPairs).add(groupId + '\t' + artifactId);
+                    (rejected ? rejectedPairs : allowedPairs).add(groupId + '\t' + artifactId);
                 }
             }
         }
-        return Optional.of(new OwnersPolicy(allowedGroups, allowedPairs, blockedGroups, blockedPairs));
+        return Optional.of(new OwnersPolicy(allowedGroups, allowedPairs, rejectedGroups, rejectedPairs));
     }
 
     /**
@@ -575,20 +575,20 @@ public final class ModuleStore {
 
     /**
      * Parsed {@code owners.tsv}. {@code allowed*} entries are the resolution allowlist; only they
-     * grant inclusion. {@code blocked*} entries do not affect resolution (a non-allowed group is
+     * grant inclusion. {@code rejected*} entries do not affect resolution (a non-allowed group is
      * excluded regardless) but record an explicit "reviewed and excluded" decision, which lets
      * drift reporting tell a handled exclusion apart from a groupId nobody has decided on yet.
      * Entries are stored group-keyed (a bare {@code groupId}) or pair-keyed ({@code groupId\t
      * artifactId}).
      */
     public record OwnersPolicy(Set<String> allowedGroups, Set<String> allowedPairs,
-                               Set<String> blockedGroups, Set<String> blockedPairs) {
+                               Set<String> rejectedGroups, Set<String> rejectedPairs) {
 
         public OwnersPolicy {
             allowedGroups = Set.copyOf(allowedGroups);
             allowedPairs = Set.copyOf(allowedPairs);
-            blockedGroups = Set.copyOf(blockedGroups);
-            blockedPairs = Set.copyOf(blockedPairs);
+            rejectedGroups = Set.copyOf(rejectedGroups);
+            rejectedPairs = Set.copyOf(rejectedPairs);
         }
 
         /** Resolution allowlist: only explicitly allowed groups/pairs grant inclusion. */
@@ -597,14 +597,14 @@ public final class ModuleStore {
                     || allowedPairs.contains(groupId + '\t' + artifactId);
         }
 
-        /** Every groupId named by the policy, whether allowed or blocked, group- or pair-level. */
+        /** Every groupId named by the policy, whether allowed or rejected, group- or pair-level. */
         public Set<String> namedGroups() {
             Set<String> names = new HashSet<>(allowedGroups);
-            names.addAll(blockedGroups);
+            names.addAll(rejectedGroups);
             for (String pair : allowedPairs) {
                 names.add(pair.substring(0, pair.indexOf('\t')));
             }
-            for (String pair : blockedPairs) {
+            for (String pair : rejectedPairs) {
                 names.add(pair.substring(0, pair.indexOf('\t')));
             }
             return names;
@@ -612,7 +612,7 @@ public final class ModuleStore {
 
         public boolean isEmpty() {
             return allowedGroups.isEmpty() && allowedPairs.isEmpty()
-                    && blockedGroups.isEmpty() && blockedPairs.isEmpty();
+                    && rejectedGroups.isEmpty() && rejectedPairs.isEmpty();
         }
     }
 }

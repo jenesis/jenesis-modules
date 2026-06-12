@@ -37,9 +37,9 @@ public class SetOwnersTest {
 
         SetOwners.main(new String[]{props.toString()});
 
-        // The named owner is allowed; every other publisher of the name is auto-blocked.
+        // The named owner is allowed; every other publisher of the name is auto-rejected.
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
-                .containsExactly("com.example:lib\tallowed", "hostile.group\tblocked");
+                .containsExactly("com.example:lib\tallowed", "hostile.group\trejected");
         // versions.tsv is the audit log - untouched, all three rows still present.
         assertThat(Files.readAllLines(moduleDir.resolve("versions.tsv"))).hasSize(3);
         // artifacts.tsv reflects the policy: only com.example:lib rows, no timestamp column.
@@ -63,7 +63,7 @@ public class SetOwnersTest {
         SetOwners.main(new String[]{props.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
-                .containsExactly("trusted.org\tallowed", "other.org\tblocked");
+                .containsExactly("trusted.org\tallowed", "other.org\trejected");
         assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv"))).containsExactly(
                 "2.0\tnamed\ttrusted.org\textras",
                 "1.0\tnamed\ttrusted.org\tcore");
@@ -105,7 +105,7 @@ public class SetOwnersTest {
         SetOwners.main(new String[]{first.toString(), second.toString()});
 
         assertThat(Files.readAllLines(moduleDir.resolve("owners.tsv")))
-                .containsExactly("a.example\tallowed", "b.example:core\tallowed", "c.example\tblocked");
+                .containsExactly("a.example\tallowed", "b.example:core\tallowed", "c.example\trejected");
         assertThat(Files.readAllLines(moduleDir.resolve("artifacts.tsv"))).containsExactly(
                 "2.0\tnamed\tb.example\tcore",
                 "1.0\tnamed\ta.example\tcore");
@@ -142,7 +142,7 @@ public class SetOwnersTest {
         SetOwners.main(new String[]{props.toString()});
 
         Path ownersFile = root.resolve("data").resolve("modules").resolve("future").resolve("module").resolve("owners.tsv");
-        // No prior publishers exist, so only the named owner is written (nothing to block).
+        // No prior publishers exist, so only the named owner is written (nothing to reject).
         assertThat(Files.readAllLines(ownersFile)).containsExactly("plan.org:lib\tallowed");
     }
 

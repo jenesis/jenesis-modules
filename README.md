@@ -163,26 +163,26 @@ Caveats to internalise:
 
 If a module's directory contains an `owners.tsv` file, the resolver uses its `allowed` entries as the authoritative allowlist when generating `artifacts.tsv` and `modules.tsv` for that module. `versions.tsv` itself is **not** filtered - it remains the full audit log of every claim that has ever been seen, including ones the policy now excludes. With no `owners.tsv` present, the implicit-owner rule (oldest publisher wins) is used instead. Either way, `artifacts.tsv` and `modules.tsv` are the resolved views consumers read.
 
-Line format - one entry per line, two tab-separated columns `<owner>\t<allowed|blocked>`:
+Line format - one entry per line, two tab-separated columns `<owner>\t<allowed|rejected>`:
 
 - `<owner>` is a `<groupId>` (matches any artifactId under that group) or a `<groupId>:<artifactId>` pair (exact coordinate).
-- `allowed` puts the owner on the resolution allowlist. `blocked` records a reviewed-and-excluded groupId: it does not change resolution (a non-allowed group is excluded regardless), but it marks the decision as made, so the drift report (`data/DRIFTERS.md`) no longer flags that groupId as undecided.
+- `allowed` puts the owner on the resolution allowlist. `rejected` records a reviewed-and-excluded groupId: it does not change resolution (a non-allowed group is excluded regardless), but it marks the decision as made, so the drift report (`data/DRIFTERS.md`) no longer flags that groupId as undecided.
 
 Lines starting with `#` and blank lines are ignored.
 
-Example - `org.commonmark` migrated its groupId from `com.atlassian.commonmark` to `org.commonmark`. Allow both so the full version history still resolves and `latest` tracks the new coordinate, and block a fat jar that shaded the module under its own coordinate (a third party should publish under its own module name, not on top of this one):
+Example - `org.commonmark` migrated its groupId from `com.atlassian.commonmark` to `org.commonmark`. Allow both so the full version history still resolves and `latest` tracks the new coordinate, and reject a fat jar that shaded the module under its own coordinate (a third party should publish under its own module name, not on top of this one):
 
 ```
 com.atlassian.commonmark	allowed
 org.commonmark	allowed
-com.example.bundle	blocked
+com.example.bundle	rejected
 ```
 
 Changing the policy is non-destructive: edit `owners.tsv` and either let the next crawl regenerate the affected modules' resolved views, or run `SetOwners` (below) for an immediate refresh. The `versions.tsv` audit log is never touched, so loosening or reverting the policy later is a pure regeneration.
 
 #### Bulk-applying an allowlist with `SetOwners`
 
-`build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` - the listed owners as `allowed`, plus every other groupId that publishes the module name as `blocked` (auto-block, so the file names every publisher and the module drops off the drift report) - and regenerates the resolved views (`artifacts.tsv` + `modules.tsv`). The `versions.tsv` audit log is never touched.
+`build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` - the listed owners as `allowed`, plus every other groupId that publishes the module name as `rejected` (auto-reject, so the file names every publisher and the module drops off the drift report) - and regenerates the resolved views (`artifacts.tsv` + `modules.tsv`). The `versions.tsv` audit log is never touched.
 
 ```
 java sources/build/jenesis/crawler/SetOwners.java <policy.properties> [<policy.properties> ...]
@@ -203,7 +203,7 @@ org.junit.jupiter=org.junit.jupiter
 com.example.deprecated=
 ```
 
-Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<artifactId>` (exact pair); every other groupId that publishes the module name is written as `blocked`. When the same module appears in more than one file, the union of owners is applied. An empty value clears the module: an empty `owners.tsv` is written (which rejects every publisher, so the resolved views are deleted), while `versions.tsv` is left intact.
+Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<artifactId>` (exact pair); every other groupId that publishes the module name is written as `rejected`. When the same module appears in more than one file, the union of owners is applied. An empty value clears the module: an empty `owners.tsv` is written (which rejects every publisher, so the resolved views are deleted), while `versions.tsv` is left intact.
 
 #### Generating a starter properties file with `ListOwners`
 
@@ -517,7 +517,7 @@ The unit of progress is the module: each one is regenerated atomically (temp-fil
 
 ### `build.jenesis.crawler.DriftReport`
 
-Walks `data/modules/` and writes `data/DRIFTERS.md`: every module name published by more than one groupId whose `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `blocked`). Each drift is classified, as of today, into `republisher` (a shaded/repackaged jar owns a name that belongs to a natural-namespace owner), `migration` (the groupId handed off over time - a rename or relocation), `fork` (a cross-org coordinate publishes alongside a still-active original), or `unclassified`. The report shows, per groupId, its publication range, latest version, and an activity timeline; the aggregate tables and the emit files always cover the full set even though per-category timeline detail is capped.
+Walks `data/modules/` and writes `data/DRIFTERS.md`: every module name published by more than one groupId whose `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Each drift is classified, as of today, into `republisher` (a shaded/repackaged jar owns a name that belongs to a natural-namespace owner), `migration` (the groupId handed off over time - a rename or relocation), `fork` (a cross-org coordinate publishes alongside a still-active original), or `unclassified`. The report shows, per groupId, its publication range, latest version, and an activity timeline; the aggregate tables and the emit files always cover the full set even though per-category timeline detail is capped.
 
 ```
 java -Djenesis.crawler.data=<dir> build.jenesis.crawler.DriftReport
@@ -529,7 +529,7 @@ Properties:
 |---|---|---|
 | `jenesis.crawler.data` | `data` | Crawler data directory. |
 | `jenesis.crawler.drift.today` | now (UTC) | Reference date for time ranges and the active/dormant split. |
-| `jenesis.crawler.drift.emit` | _(none)_ | When set to a category name, also writes a `SetOwners` properties file proposing the inferred owner(s) for every module in that category. Applying it (SetOwners auto-blocks the other publishers) clears those modules from the next report. |
+| `jenesis.crawler.drift.emit` | _(none)_ | When set to a category name, also writes a `SetOwners` properties file proposing the inferred owner(s) for every module in that category. Applying it (SetOwners auto-rejects the other publishers) clears those modules from the next report. |
 | `jenesis.crawler.drift.emit.file` | `drift-<category>.properties` | Emit target path. |
 | `jenesis.crawler.drift.detail.limit` | `200` | Per-category timeline rows. Aggregates and emit files always cover the full set. |
 

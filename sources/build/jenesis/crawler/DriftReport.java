@@ -10,7 +10,7 @@ import build.jenesis.crawler.store.ModuleStore.OwnersPolicy;
  * Walks {@code data/modules/} and writes {@code data/DRIFTERS.md}: a report of module names whose
  * ownership has not been fully decided. A module "drifts" when more than one groupId publishes the
  * name and its {@code owners.tsv} does not yet name every one of them (no {@code owners.tsv} at all,
- * or one that leaves some publishing groupId neither {@code allowed} nor {@code blocked}).
+ * or one that leaves some publishing groupId neither {@code allowed} nor {@code rejected}).
  *
  * <p>Each drift is classified, as of today, into one of three shapes:
  * <ul>
@@ -26,7 +26,7 @@ import build.jenesis.crawler.store.ModuleStore.OwnersPolicy;
  *
  * <p>With {@code -Djenesis.crawler.drift.emit=<category>} the tool also writes a {@code SetOwners}
  * properties file proposing the inferred owner(s) for every module in that category; applying it
- * (SetOwners auto-blocks the other publishers) clears those modules from the next report.
+ * (SetOwners auto-rejects the other publishers) clears those modules from the next report.
  */
 public final class DriftReport {
 
@@ -87,13 +87,13 @@ public final class DriftReport {
     }
 
     enum Category {
-        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic. Proposal: allow that owner, block the rest."),
-        REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, block the republisher."),
+        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic. Proposal: allow that owner, reject the rest."),
+        REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, reject the republisher."),
         MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
-        FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork."),
-        SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
-        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix. Proposal: allow that owner, block the rest."),
-        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix. Proposal: allow that owner, block the rest."),
+        FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, reject the fork."),
+        SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, reject the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
+        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix. Proposal: allow that owner, reject the rest."),
+        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix. Proposal: allow that owner, reject the rest."),
         UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.");
 
         final String id;
@@ -146,9 +146,10 @@ public final class DriftReport {
     /**
      * A resolved module whose owner(s) differ from the implicit first-publisher owner.
      * {@code widened} = the first publisher is still an owner but others were added (e.g. a groupId
-     * migration); otherwise the first publisher was replaced (a reassignment).
+     * migration); otherwise the first publisher was replaced (a reassignment). {@code rejected} is
+     * the groupIds explicitly rejected for the name by {@code owners.tsv}.
      */
-    record Reassignment(String module, String implicitOwner, List<String> owners, boolean widened) {
+    record Reassignment(String module, String implicitOwner, List<String> owners, List<String> rejected, boolean widened) {
     }
 
     public static void main(String[] arguments) throws IOException {
@@ -254,17 +255,17 @@ public final class DriftReport {
         List<String> explicit = explicitOwners(module);
         if (explicit != null) {
             // The rule's owners are groupId prefixes: allow every publisher under any of them (a
-            // group and its subgroups), block the rest.
+            // group and its subgroups), reject the rest.
             List<String> allowedExplicit = groups.stream().map(g -> g.groupId)
                     .filter(g -> matchesAnyPrefix(g, explicit))
                     .distinct().toList();
             if (allowedExplicit.isEmpty()) {
                 allowedExplicit = explicit;
             }
-            long blocked = groups.stream().map(g -> g.groupId).filter(g -> !matchesAnyPrefix(g, explicit)).count();
+            long rejected = groups.stream().map(g -> g.groupId).filter(g -> !matchesAnyPrefix(g, explicit)).count();
             String owned = explicit.stream().map(o -> "`" + o + "`").collect(Collectors.joining(", "));
             return new Drift(module, groups, owner, Category.EXPLICIT, allowedExplicit,
-                    "explicit rule: owned by " + owned + "; " + blocked + " other group(s) blocked", owners);
+                    "explicit rule: owned by " + owned + "; " + rejected + " other group(s) rejected", owners);
         }
 
         List<String> naturals = groups.stream()
@@ -371,8 +372,8 @@ public final class DriftReport {
         out.append("# Module ownership drifters\n\n");
         out.append("Generated ").append(today).append(". A module *drifts* when more than one groupId publishes the ")
                 .append("name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves ")
-                .append("some publishing groupId neither `allowed` nor `blocked`). Resolving a drift means deciding each ")
-                .append("groupId via `SetOwners` (which writes `allowed`/`blocked`); a fully-named module drops off this list.\n\n");
+                .append("some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each ")
+                .append("groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.\n\n");
 
         out.append("| Category | Unresolved | Resolved via owners.tsv |\n|---|---:|---:|\n");
         int resolvedTotal = 0;
@@ -388,7 +389,7 @@ public final class DriftReport {
 
         out.append("Timeline axis spans ").append(YM.format(Instant.ofEpochMilli(axisStart)))
                 .append(" .. ").append(YM.format(Instant.ofEpochMilli(axisEnd))).append(" (today). ")
-                .append("Per group: decision `A`=allowed `B`=blocked `?`=undecided, `*`=current owner, then the ")
+                .append("Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the ")
                 .append("publication range, latest version, and a `=` activity bar across the axis.\n\n");
 
         for (Category category : Category.values()) {
@@ -449,25 +450,29 @@ public final class DriftReport {
     }
 
     /**
-     * Compact "current owner -> new owner(s) (count)" rollup, limited to transitions that would
+     * Compact "current owner, new owner(s), count" rollup, limited to transitions that would
      * change ownership: a proposal that merely keeps the first-publisher owner is omitted.
      */
     private static void appendAggregate(StringBuilder out, List<Drift> list) {
+        // Key is "<current owner>\t<new owners, comma-joined>"; the tab splits the two table cells.
         Map<String, Integer> counts = new TreeMap<>();
         for (Drift drift : list) {
             if (!changesOwnership(drift)) {
                 continue;
             }
-            counts.merge(drift.owner().groupId + " -> " + String.join(",", drift.allowed()), 1, Integer::sum);
+            counts.merge(drift.owner().groupId + '\t' + String.join(", ", drift.allowed()), 1, Integer::sum);
         }
         if (counts.isEmpty()) {
             return;
         }
         List<Map.Entry<String, Integer>> top = new ArrayList<>(counts.entrySet());
         top.sort(Comparator.<Map.Entry<String, Integer>>comparingInt(Map.Entry::getValue).reversed());
-        out.append("| count | current owner -> new owner(s) |\n|---:|---|\n");
+        out.append("| count | current owner | new owner(s) |\n|---:|---|---|\n");
         for (Map.Entry<String, Integer> entry : top.subList(0, Math.min(top.size(), 15))) {
-            out.append("| ").append(entry.getValue()).append(" | `").append(entry.getKey()).append("` |\n");
+            int tab = entry.getKey().indexOf('\t');
+            out.append("| ").append(entry.getValue())
+                    .append(" | `").append(entry.getKey(), 0, tab)
+                    .append("` | `").append(entry.getKey().substring(tab + 1)).append("` |\n");
         }
         out.append('\n');
     }
@@ -500,7 +505,11 @@ public final class DriftReport {
         if (widened && !spansMultipleProjects(allowed)) {
             return null;
         }
-        return new Reassignment(module, implicitOwner, new ArrayList<>(allowed), widened);
+        Set<String> rejected = new TreeSet<>(owners.rejectedGroups());
+        for (String pair : owners.rejectedPairs()) {
+            rejected.add(pair.substring(0, pair.indexOf('\t')));
+        }
+        return new Reassignment(module, implicitOwner, new ArrayList<>(allowed), new ArrayList<>(rejected), widened);
     }
 
     private static boolean spansMultipleProjects(Set<String> groups) {
@@ -529,7 +538,8 @@ public final class DriftReport {
                 .append("first publisher (e.g. a groupId migration or a co-maintained project). Modules where ")
                 .append("`owners.tsv` only confirms the first publisher are not listed. Submodules that share the ")
                 .append("same transition are collapsed into a single `prefix.*` row; the Modules column reports how ")
-                .append("many modules that row covers.\n\n");
+                .append("many modules that row covers. The Rejected owner(s) column names the publishers excluded ")
+                .append("for the name (empty for a pure widening).\n\n");
 
         // Group modules that share the exact same transition (same direction, implicit owner and
         // resolved owners); collapse each group's shared leading dot-prefix into one wildcard row.
@@ -546,26 +556,55 @@ public final class DriftReport {
             String prefix = group.size() == 1 ? "" : commonDotPrefix(group.stream().map(Reassignment::module).toList());
             if (prefix.isEmpty()) {
                 for (Reassignment entry : group) {
-                    rows.add(new ReassignRow(entry.widened(), entry.module(), 1, entry.implicitOwner(), owners));
+                    rows.add(new ReassignRow(entry.widened(), entry.module(), 1, entry.implicitOwner(),
+                            owners, rejectedLabel(entry.rejected(), entry.implicitOwner())));
                 }
             } else {
-                rows.add(new ReassignRow(any.widened(), prefix + ".*", group.size(), any.implicitOwner(), owners));
+                // Rejected publishers can differ across the family; show their union for the row.
+                Set<String> rejected = group.stream().flatMap(entry -> entry.rejected().stream())
+                        .collect(Collectors.toCollection(TreeSet::new));
+                rows.add(new ReassignRow(any.widened(), prefix + ".*", group.size(), any.implicitOwner(),
+                        owners, rejectedLabel(rejected, any.implicitOwner())));
             }
         }
         rows.sort(Comparator.comparing(ReassignRow::widened).thenComparing(ReassignRow::label));
 
-        out.append("| Kind | Module | Modules | Current owner -> new owner(s) |\n");
-        out.append("|---|---|---:|---|\n");
+        out.append("| Kind | Module | Modules | Implicit owner | Owner(s) | Rejected owner(s) |\n");
+        out.append("|---|---|---:|---|---|---|\n");
         for (ReassignRow row : rows) {
             out.append("| ").append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI)
                     .append(" | `").append(row.label()).append("` | ").append(row.count())
-                    .append(" | `").append(row.implicitOwner()).append(" -> ").append(row.owners())
-                    .append("` |\n");
+                    .append(" | `").append(row.implicitOwner()).append("` | `").append(row.owners())
+                    .append("` | ").append(REJECTED_NONE.equals(row.rejected()) ? REJECTED_NONE : "`" + row.rejected() + "`")
+                    .append(" |\n");
         }
         out.append('\n');
     }
 
-    private record ReassignRow(boolean widened, String label, int count, String implicitOwner, String owners) {
+    private static final String REJECTED_NONE = "(none)";
+    private static final int MAX_REJECTED = 4;
+
+    /**
+     * Render the rejected-owner cell: the implicit (replaced) owner first - it is the meaningful
+     * rejection for a reassignment - then the rest alphabetically, capped so a name shaded by dozens
+     * of fat jars stays one short cell.
+     */
+    private static String rejectedLabel(Collection<String> rejected, String implicitOwner) {
+        if (rejected.isEmpty()) {
+            return REJECTED_NONE;
+        }
+        List<String> sorted = new ArrayList<>(new TreeSet<>(rejected));
+        if (sorted.remove(implicitOwner)) {
+            sorted.addFirst(implicitOwner);
+        }
+        if (sorted.size() <= MAX_REJECTED) {
+            return String.join(", ", sorted);
+        }
+        return String.join(", ", sorted.subList(0, MAX_REJECTED)) + ", +" + (sorted.size() - MAX_REJECTED) + " more";
+    }
+
+    private record ReassignRow(boolean widened, String label, int count, String implicitOwner, String owners,
+                               String rejected) {
     }
 
     /** The longest shared leading dot-segment prefix of the given names, or empty when there is none. */
@@ -609,8 +648,8 @@ public final class DriftReport {
         if (owners.allowedGroups().contains(groupId) || hasPairGroup(owners.allowedPairs(), groupId)) {
             return 'A';
         }
-        if (owners.blockedGroups().contains(groupId) || hasPairGroup(owners.blockedPairs(), groupId)) {
-            return 'B';
+        if (owners.rejectedGroups().contains(groupId) || hasPairGroup(owners.rejectedPairs(), groupId)) {
+            return 'R';
         }
         return '?';
     }

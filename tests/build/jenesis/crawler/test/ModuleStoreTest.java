@@ -194,14 +194,14 @@ public class ModuleStoreTest {
     }
 
     @Test
-    public void owners_policy_parses_allowed_and_blocked_and_blocks_resolution() throws IOException {
+    public void owners_policy_parses_allowed_and_rejected_and_blocks_resolution() throws IOException {
         ModuleStore store = new ModuleStore(root);
         store.record("decided.module", ModuleType.NAMED, null, ts("good.org", "lib", "1.0", null, 1_700_000_000_000L));
         store.record("decided.module", ModuleType.NAMED, null, ts("bad.org", "imposter", "2.0", null, 1_710_000_000_000L));
         store.flush();
 
         Path dir = root.resolve("decided").resolve("module");
-        Files.writeString(dir.resolve("owners.tsv"), "good.org\tallowed\nbad.org\tblocked\n");
+        Files.writeString(dir.resolve("owners.tsv"), "good.org\tallowed\nbad.org\trejected\n");
 
         ModuleStore.OwnersPolicy policy = store.loadOwners("decided.module").orElseThrow();
         assertThat(policy.allows("good.org", "lib")).isTrue();
@@ -210,7 +210,7 @@ public class ModuleStoreTest {
         assertThat(policy.namedGroups()).containsExactlyInAnyOrder("good.org", "bad.org");
 
         store.regenerate("decided.module");
-        // A blocked group is excluded from resolution exactly like an unlisted one.
+        // A rejected group is excluded from resolution exactly like an unlisted one.
         assertThat(Files.readAllLines(dir.resolve("artifacts.tsv")))
                 .containsExactly("1.0\tnamed\tgood.org\tlib");
     }
@@ -221,11 +221,11 @@ public class ModuleStoreTest {
         store.record("strict.module", ModuleType.NAMED, null, ts("g", "a", "1.0", null, 1L));
         store.flush();
         Path dir = root.resolve("strict").resolve("module");
-        Files.writeString(dir.resolve("owners.tsv"), "g\n"); // missing the allowed|blocked column
+        Files.writeString(dir.resolve("owners.tsv"), "g\n"); // missing the allowed|rejected column
 
         assertThatThrownBy(() -> store.loadOwners("strict.module"))
                 .isInstanceOf(IllegalArgumentException.class)
-                .hasMessageContaining("allowed|blocked");
+                .hasMessageContaining("allowed|rejected");
     }
 
     @Test
