@@ -67,6 +67,9 @@ public final class DriftReport {
             Map.entry("akka", List.of("com.typesafe.akka")),
             Map.entry("jamal", List.of("com.javax0.jamal")),
             Map.entry("play", List.of("com.typesafe.play", "org.playframework")),
+            Map.entry("okhttp3", List.of("com.squareup.okhttp3")),
+            Map.entry("jul.to.slf4j", List.of("org.slf4j")),
+            Map.entry("log4j", List.of("org.slf4j")),
             Map.entry("mockwebserver3", List.of("com.squareup.okhttp3")),
             Map.entry("okio", List.of("com.squareup.okio")),
             Map.entry("imgui", List.of("io.github.spair")),
@@ -524,16 +527,63 @@ public final class DriftReport {
                 .append("): the first publisher was replaced by a different owner. ").append(WIDEN_EMOJI)
                 .append(" widened (").append(widenCount).append("): extra legal owners were allowed alongside the ")
                 .append("first publisher (e.g. a groupId migration or a co-maintained project). Modules where ")
-                .append("`owners.tsv` only confirms the first publisher are not listed.\n\n");
-        List<Reassignment> sorted = new ArrayList<>(reassigned);
-        sorted.sort(Comparator.comparing(Reassignment::widened).thenComparing(Reassignment::module));
+                .append("`owners.tsv` only confirms the first publisher are not listed. Submodules that share the ")
+                .append("same transition are collapsed into a single `prefix.*` row carrying the module count.\n\n");
+
+        // Group modules that share the exact same transition (same direction, implicit owner and
+        // resolved owners); collapse each group's shared leading dot-prefix into one wildcard row.
+        Map<String, List<Reassignment>> groups = new LinkedHashMap<>();
+        for (Reassignment entry : reassigned) {
+            String key = (entry.widened() ? "1" : "0") + ' ' + entry.implicitOwner()
+                    + ' ' + String.join(",", entry.owners());
+            groups.computeIfAbsent(key, k -> new ArrayList<>()).add(entry);
+        }
+        List<ReassignRow> rows = new ArrayList<>();
+        for (List<Reassignment> group : groups.values()) {
+            Reassignment any = group.getFirst();
+            String owners = String.join(", ", any.owners());
+            String prefix = group.size() == 1 ? "" : commonDotPrefix(group.stream().map(Reassignment::module).toList());
+            if (prefix.isEmpty()) {
+                for (Reassignment entry : group) {
+                    rows.add(new ReassignRow(entry.widened(), entry.module(), 1, entry.implicitOwner(), owners));
+                }
+            } else {
+                rows.add(new ReassignRow(any.widened(), prefix + ".*", group.size(), any.implicitOwner(), owners));
+            }
+        }
+        rows.sort(Comparator.comparing(ReassignRow::widened).thenComparing(ReassignRow::label));
+
         out.append("```\n");
-        for (Reassignment entry : sorted) {
-            out.append(entry.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI).append("  ").append(entry.module())
-                    .append("  ").append(entry.implicitOwner()).append(" -> ")
-                    .append(String.join(", ", entry.owners())).append('\n');
+        for (ReassignRow row : rows) {
+            out.append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI).append("  ").append(row.label());
+            if (row.count() > 1) {
+                out.append(" (").append(row.count()).append(" modules)");
+            }
+            out.append("  ").append(row.implicitOwner()).append(" -> ").append(row.owners()).append('\n');
         }
         out.append("```\n\n");
+    }
+
+    private record ReassignRow(boolean widened, String label, int count, String implicitOwner, String owners) {
+    }
+
+    /** The longest shared leading dot-segment prefix of the given names, or empty when there is none. */
+    private static String commonDotPrefix(List<String> names) {
+        String[] first = names.getFirst().split("\\.");
+        int shared = first.length;
+        for (String name : names) {
+            String[] parts = name.split("\\.");
+            int limit = Math.min(shared, parts.length);
+            int i = 0;
+            while (i < limit && parts[i].equals(first[i])) {
+                i++;
+            }
+            shared = i;
+            if (shared == 0) {
+                return "";
+            }
+        }
+        return String.join(".", Arrays.copyOfRange(first, 0, shared));
     }
 
     private static long emit(List<Drift> drifts, Category category, Path target) throws IOException {
