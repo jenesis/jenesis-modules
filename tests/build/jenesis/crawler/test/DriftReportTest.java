@@ -128,6 +128,39 @@ public class DriftReportTest {
     }
 
     @Test
+    public void org_level_owner_is_shaded_when_strictly_closest() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // org.eclipse.platform shares only org.eclipse (2 segments) with org.eclipse.help, but it is
+        // the strictly-closest dominant publisher; a foreign jar shades the name.
+        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("org.eclipse.platform", "org.eclipse.help", "3.0", 1_500_000_000_000L));
+        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("com.innoventsolutions.birt", "fat", "1.0", 1_600_000_000_000L));
+        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("org.eclipse.platform", "org.eclipse.help", "3.1", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("owned by `org.eclipse.platform`");
+    }
+
+    @Test
+    public void explicit_rule_owner_prefix_allows_subgroups() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // reactor.* -> io.projectreactor (prefix): both io.projectreactor and io.projectreactor.netty
+        // are allowed, the foreign shader is blocked.
+        store.record("reactor.netty.core", ModuleType.NAMED, null, coord("io.projectreactor.netty", "reactor-netty-core", "1.1", 1_500_000_000_000L));
+        store.record("reactor.netty.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## explicit-rules (1)");
+        assertThat(report).contains("owned by `io.projectreactor`");
+    }
+
+    @Test
     public void explicit_rule_overrides_the_heuristic() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
         // spring.boot.* is owned by org.springframework.boot by explicit rule, even though a shaded

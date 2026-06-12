@@ -51,7 +51,11 @@ public final class DriftReport {
      * here for canonical ownerships the naming heuristics cannot infer.
      */
     private static final Map<String, String> EXPLICIT_OWNERS = Map.ofEntries(
-            Map.entry("spring.boot", "org.springframework.boot")
+            Map.entry("spring.boot", "org.springframework.boot"),
+            Map.entry("spring", "org.springframework"),
+            Map.entry("reactor", "io.projectreactor"),
+            Map.entry("zipkin2", "io.zipkin"),
+            Map.entry("scala", "org.scala-lang")
     );
 
     private DriftReport() {
@@ -211,8 +215,18 @@ public final class DriftReport {
 
         String explicit = explicitOwner(module);
         if (explicit != null) {
-            return new Drift(module, groups, owner, Category.EXPLICIT, List.of(explicit),
-                    "explicit rule: owned by `" + explicit + "`", owners);
+            // The rule's owner is a groupId prefix: allow every publisher under it (e.g. io.projectreactor
+            // and io.projectreactor.netty), block the rest.
+            List<String> allowedExplicit = groups.stream().map(g -> g.groupId)
+                    .filter(g -> g.equals(explicit) || g.startsWith(explicit + "."))
+                    .distinct().toList();
+            if (allowedExplicit.isEmpty()) {
+                allowedExplicit = List.of(explicit);
+            }
+            long blocked = groups.stream().map(g -> g.groupId)
+                    .filter(g -> !(g.equals(explicit) || g.startsWith(explicit + "."))).count();
+            return new Drift(module, groups, owner, Category.EXPLICIT, allowedExplicit,
+                    "explicit rule: owned by `" + explicit + "`; " + blocked + " other group(s) blocked", owners);
         }
 
         List<String> naturals = groups.stream()
@@ -502,21 +516,25 @@ public final class DriftReport {
     /**
      * The owner is the canonical owner when its groupId is the closest to the module name: either
      * the name is strictly under the groupId, or the groupId shares the longest leading-segment
-     * prefix with the name (at least the org+project level, three segments) and no other publisher
-     * shares more. Covers e.g. module com.fasterxml.jackson.kotlin owned by the closest groupId
-     * com.fasterxml.jackson.module.
+     * prefix with the name. A 3+ segment shared prefix is a project group (e.g.
+     * com.fasterxml.jackson, where module com.fasterxml.jackson.kotlin is owned by
+     * com.fasterxml.jackson.module) and ties are allowed; a 2 segment shared prefix is only the org
+     * (e.g. org.eclipse.platform owning org.eclipse.help) and the owner must be strictly the closest.
      */
     private static boolean canonicalOwner(String module, Group owner, List<Group> groups) {
         if (under(module, owner.groupId)) {
             return true;
         }
         int ownerAffinity = sharedLeading(module, owner.groupId);
-        if (ownerAffinity < 3) {
+        if (ownerAffinity < 2) {
             return false;
         }
         int otherAffinity = groups.stream().filter(group -> group != owner)
                 .mapToInt(group -> sharedLeading(module, group.groupId)).max().orElse(0);
-        return ownerAffinity >= otherAffinity;
+        // 3+ shared segments is a project-level prefix (e.g. com.fasterxml.jackson), where ties are
+        // fine; 2 shared segments is only the org (e.g. org.eclipse, com.google), so require the
+        // owner to be strictly the closest, leaving sibling-project collisions unclassified.
+        return ownerAffinity >= 3 ? ownerAffinity >= otherAffinity : ownerAffinity > otherAffinity;
     }
 
     private static boolean sameProject(String a, String b) {
