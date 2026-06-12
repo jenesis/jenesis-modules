@@ -4,15 +4,15 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
-| explicit-rules | 0 | 125 |
+| explicit-rules | 0 | 164 |
 | republisher | 0 | 57 |
 | migration | 0 | 1586 |
-| fork | 0 | 255 |
-| shaded | 47 | 1222 |
+| fork | 0 | 254 |
+| shaded | 50 | 1222 |
 | tld-dropped | 0 | 15 |
 | two-segments | 156 | 0 |
-| unclassified | 109 | 0 |
-| **total** | **312** | **3260** |
+| unclassified | 68 | 0 |
+| **total** | **274** | **3298** |
 | multi-owner modules scanned | 3572 | |
 | modules scanned | 36334 | |
 
@@ -34,7 +34,7 @@ The publishing groupId handed off over time: the old coordinate went dormant, a 
 
 A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork.
 
-## shaded (47)
+## shaded (50)
 
 The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report.
 
@@ -44,17 +44,23 @@ The natural-namespace owner (the module name falls under its groupId) is the ear
 | 8 | `com.google.inject.extensions -> com.google.inject.extensions` |
 | 3 | `org.graalvm.sdk -> org.graalvm.sdk` |
 | 2 | `biz.aQute.bnd -> biz.aQute.bnd` |
+| 2 | `com.graphql-java -> com.graphql-java` |
 | 2 | `com.sun.xml.bind.external -> com.sun.xml.bind.external` |
 | 1 | `com.amihaiemil.web -> com.amihaiemil.web` |
 | 1 | `com.sun.xml.ws -> com.sun.xml.ws` |
 | 1 | `io.soabase.record-builder -> io.soabase.record-builder` |
 | 1 | `org.apache.logging.log4j -> org.apache.logging.log4j` |
+| 1 | `org.choco-solver -> org.choco-solver` |
 | 1 | `org.hibernate.common -> org.hibernate.common` |
 | 1 | `org.neo4j.app -> org.neo4j.app` |
 | 1 | `org.neo4j.test -> org.neo4j.test` |
 | 1 | `uk.co.real-logic -> uk.co.real-logic` |
 
 ```
+com.graphqljava  [owned by `com.graphql-java`; 2 other group(s) shade the name]
+  ? * com.graphql-java                     2020-11..2026-05 0.0.0-2026-05-29T07-49-37-79b227e |........============|
+  ?   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
+  ?   io.github.my-workforce               2022-07..2023-07 19.6         |...........===......|
 org.neo4j.harness  [owned by `org.neo4j.test`; 1 other group(s) shade the name]
   ? * org.neo4j.test                       2018-03..2026-05 2026.05.0    |..==================|
   ?   org.graphfoundation.ongdb.test       2020-04..2025-06 1.0.6        |.......===========..|
@@ -67,6 +73,10 @@ com.sun.tools.rngdatatype  [owned by `com.sun.xml.bind.external`; 1 other group(
 com.sun.tools.rngom  [owned by `com.sun.xml.bind.external`; 1 other group(s) shade the name]
   ? * com.sun.xml.bind.external            2018-07..2026-05 4.0.9        |...=================|
   ?   cn.lzgabel.jaxb.xml.bind.external    2022-03..2022-03 4.0.0        |..........=.........|
+org.chocosolver.solver  [owned by `org.choco-solver`; 2 other group(s) shade the name]
+  ? * org.choco-solver                     2020-07..2026-05 6.0.1        |.......=============|
+  ?   io.gitlab.chaver                     2022-09..2023-08 1.0.2        |...........===......|
+  ?   es.us.isa                            2023-04..2023-04 1.0.0        |.............=......|
 org.apache.log4j  [owned by `org.apache.logging.log4j`; 1 other group(s) shade the name]
   ? * org.apache.logging.log4j             2017-11..2026-05 2.26.0       |..==================|
   ?   org.slf4j                            2019-08..2022-02 1.7.36       |.....======.........|
@@ -118,6 +128,9 @@ org.eclipse.equinox.app  [owned by `org.eclipse.platform`; 2 other group(s) shad
   ? * org.eclipse.platform                 2018-06..2026-03 1.7.600      |...================.|
   ?   ch.reportingsoft.birt                2025-04..2025-05 1.7.300      |.................=..|
   ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+com.graphqljava.extendedscalars  [owned by `com.graphql-java`; 1 other group(s) shade the name]
+  ? * com.graphql-java                     2022-09..2026-02 0.0.0-2026-02-15T04-08-22-545cf7f |...........========.|
+  ?   com.liferay                          2025-05..2025-05 19.1.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
 io.soabase.recordbuilder.core  [owned by `io.soabase.record-builder`; 1 other group(s) shade the name]
   ? * io.soabase.record-builder            2021-06..2026-01 52           |.........==========.|
   ?   dev.ikm.jpms                         2024-01..2024-08 36-r6        |..............==....|
@@ -761,106 +774,29 @@ cactus.maven.xml  [owned by `com.telenav.cactus` (groupId minus two segments is 
   ?   com.telenav.lexakai                  2022-09..2022-10 1.0.13       |...........==.......|
 ```
 
-## unclassified (109)
+## unclassified (68)
 
 Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.
 
 | count | current owner -> proposed allowed |
 |---:|---|
-| 17 | `org.jmonkeyengine -> org.jmonkeyengine` |
-| 14 | `org.openjfx -> org.openjfx` |
 | 11 | `eu.europa.ec.joinup.sd-dss -> eu.europa.ec.joinup.sd-dss` |
 | 7 | `ru.tinkoff.kora.experimental -> ru.tinkoff.kora.experimental` |
 | 5 | `io.github.spair -> io.github.spair` |
 | 5 | `org.glassfish.jaxb -> org.glassfish.jaxb` |
-| 3 | `com.graphql-java -> com.graphql-java` |
 | 3 | `com.squareup.okhttp3 -> com.squareup.okhttp3` |
-| 3 | `io.github.openfeign -> io.github.openfeign` |
 | 2 | `com.github.vladimir-bukhtoyarov -> com.github.vladimir-bukhtoyarov` |
-| 2 | `io.dropwizard.metrics -> io.dropwizard.metrics` |
-| 2 | `io.dropwizard.metrics5 -> io.dropwizard.metrics5` |
 | 2 | `io.github.palexdev -> io.github.palexdev` |
 | 2 | `org.apache.tomcat -> org.apache.tomcat` |
 | 2 | `org.slf4j -> org.slf4j` |
+| 1 | `com.corundumstudio.socketio -> com.corundumstudio.socketio` |
+| 1 | `com.github.almasb -> com.github.almasb` |
+| 1 | `com.github.seancfoley -> com.github.seancfoley` |
+| 1 | `com.github.seeseemelk -> com.github.seeseemelk` |
+| 1 | `com.google.http-client -> com.google.http-client` |
+| 1 | `com.graphql-java -> com.graphql-java` |
 
 ```
-com.graphqljava  [no clear owner; `com.graphql-java` is earliest and most recent]
-  ? * com.graphql-java                     2020-11..2026-05 0.0.0-2026-05-29T07-49-37-79b227e |........============|
-  ?   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
-  ?   io.github.my-workforce               2022-07..2023-07 19.6         |...........===......|
-javafx.base  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2024-01 14.0.2.1-freebsd |...........====.....|
-  ?   com.googlecode.blaisemath            2022-08..2023-02 0.5.4        |...........==.......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-  ?   it.unibo.tuprolog.argumentation      2021-01..2021-10 0.5.1        |........===.........|
-  ?   it.unibo.tuprolog                    2020-10..2021-05 0.17.4       |........==..........|
-    + 3 more: com.github.nkb03, com.vwo.sdk, xyz.gianlu.librespot
-javafx.controls  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   pro.verron.office-stamper            2026-03..2026-03 3.2          |..................=.|
-  ?   com.sta-soft                         2025-09..2025-09 1.1          |.................=..|
-  ?   org.glavo.hmcl.openjfx               2022-08..2024-01 14.0.2.1-freebsd |...........====.....|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-  ?   org.jetbrains.lets-plot              2021-10..2021-10 2.2.0-rc2    |..........=.........|
-    + 1 more: io.github.martinheywang
-javafx.fxml  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   de.fraunhofer.iosb.ilt               2022-03..2025-05 0.37         |..........========..|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-  ?   de.ipk-gatersleben                   2020-07..2020-07 3.0.2        |.......=............|
-javafx.graphics  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   io.github.makbn                      2025-10..2025-10 2.0.0        |..................=.|
-  ?   de.wenzlaff.twbibel                  2022-05..2024-12 0.1.1        |...........======...|
-  ?   de.pirckheimer-gymnasium             2024-08..2024-08 3.1.0        |...............=....|
-  ?   org.glavo.hmcl.openjfx               2022-08..2024-01 14.0.2.1-freebsd |...........====.....|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-    + 1 more: com.robotaccomplice
-javafx.graphicsEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-javafx.media  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   net.kurobako                         2026-03..2026-03 0.8.0        |...................=|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-javafx.swing  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2022-06..2022-07 18-ea+1      |...........=........|
-  ?   de.ipk-gatersleben                   2021-05..2021-05 3.0.3        |.........=..........|
-javafx.web  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-07..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-  ?   de.ipk-gatersleben                   2019-04..2021-05 3.0.4        |....======..........|
-javafx.webEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-javafx.baseEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2022-06..2022-07 18-ea+1      |...........=........|
-javafx.controlsEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2022-06..2022-07 18-ea+1      |...........=........|
-javafx.fxmlEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2022-06..2022-07 18-ea+1      |...........=........|
-javafx.mediaEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2020-12..2022-07 18-ea+1      |........====........|
-javafx.swingEmpty  [no clear owner; `org.openjfx` is earliest and most recent]
-  ? * org.openjfx                          2018-08..2026-05 27-ea+18     |...=================|
-  ?   org.glavo.hmcl.openjfx               2022-08..2023-08 17.0.8-loongarch64 |...........===......|
-  ?   org.jfxcore                          2022-06..2022-07 18-ea+1      |...........=........|
 com.sun.codemodel  [no clear owner; `org.glassfish.jaxb` is earliest and most recent]
   ? * org.glassfish.jaxb                   2018-07..2026-05 4.0.9        |...=================|
   ?   cn.lzgabel.jaxb                      2022-03..2022-03 4.0.0        |..........=.........|
@@ -882,70 +818,6 @@ com.sun.xml.xsom  [no clear owner; `org.glassfish.jaxb` is earliest and most rec
 io.questdb.client  [no clear owner; `org.questdb` is earliest and most recent]
   ? * org.questdb                          2026-02..2026-05 1.3.2        |..................==|
   ?   io.github.sklarsa                    2026-05..2026-05 0.0.1        |...................=|
-jme3.jbullet  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.testdata  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.android  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.desktop  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.examples  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.jogg  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.lwjgl3  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.plugins.json  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2024-02..2026-05 3.10.0-alpha5 |..............======|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.plugins.json.gson  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2024-02..2026-05 3.10.0-alpha5 |..............======|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.screenshot.tests  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2025-01..2026-05 3.10.0-alpha5 |................====|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.terrain  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.awt.dialogs  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2023-01..2026-05 3.10.0-alpha5 |............========|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.core  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.effects  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.ios  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.networking  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-jme3.plugins  [no clear owner; `org.jmonkeyengine` is earliest and most recent]
-  ? * org.jmonkeyengine                    2021-03..2026-05 3.10.0-alpha5 |........============|
-  ?   org.ngengine                         2025-06..2025-10 0.2.0        |.................==.|
-com.codahale.metrics.health  [no clear owner; `io.dropwizard.metrics5` is earliest and most recent]
-  ? * io.dropwizard.metrics5               2018-02..2026-05 5.0.7        |..==================|
-  ?   io.dropwizard.metrics                2018-03..2026-05 4.2.39       |..==================|
-com.codahale.metrics  [no clear owner; `io.dropwizard.metrics5` is earliest and most recent]
-  ? * io.dropwizard.metrics5               2018-02..2026-05 5.0.7        |..==================|
-  ?   io.dropwizard.metrics                2018-03..2026-05 4.2.39       |..==================|
-  ?   com.guicedee.modules.services        2026-04..2026-05 2.0.2        |...................=|
-com.codahale.metrics.jetty9  [no clear owner; `io.dropwizard.metrics` is earliest and most recent]
-  ? * io.dropwizard.metrics                2018-03..2026-05 4.2.39       |..==================|
-  ?   io.dropwizard.metrics5               2020-12..2020-12 5.0.0-rc4    |........=...........|
-com.codahale.metrics.logback  [no clear owner; `io.dropwizard.metrics` is earliest and most recent]
-  ? * io.dropwizard.metrics                2018-12..2026-05 4.2.39       |....================|
-  ?   io.dropwizard.metrics5               2019-08..2020-12 5.0.0-rc4    |.....====...........|
 VirtualizedFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
   ? * io.github.palexdev                   2022-03..2026-05 25.1.16      |..........==========|
   ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6       |...........=........|
@@ -960,10 +832,6 @@ org.dnsjava  [no clear owner; `dnsjava` is earliest and most recent]
   ?   com.helger.peppol.mcp                2026-05..2026-05 0.5.1        |...................=|
   ?   io.jikkou                            2026-05..2026-05 1.0.0        |...................=|
     + 16 more: org.apache.atlas, org.apache.beam, org.apache.paimon, com.clickzetta, com.alibaba.polardbx, org.apache.pinot, io.github.littleproxy, org.apache.hbase, com.foilen, org.apache.kudu, dev.redcoke, org.apache.avro, (+4 more)
-org.chocosolver.solver  [no clear owner; `org.choco-solver` is earliest and most recent]
-  ? * org.choco-solver                     2020-07..2026-05 6.0.1        |.......=============|
-  ?   io.gitlab.chaver                     2022-09..2023-08 1.0.2        |...........===......|
-  ?   es.us.isa                            2023-04..2023-04 1.0.0        |.............=......|
 flying.saucer.pdf  [no clear owner; `org.xhtmlrenderer` is earliest and most recent]
   ? * org.xhtmlrenderer                    2024-09..2026-05 10.2.2       |...............=====|
   ?   io.github.openpdfsaucer              2025-03..2025-05 2.0.9        |................==..|
@@ -1045,15 +913,6 @@ com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and m
   ? * org.graalvm.regex                    2018-10..2026-04 25.0.3       |...=================|
   ?   org.noear                            2024-09..2025-07 1.9.6        |................==..|
   ?   com.syncloop.middleware              2025-01..2025-01 1.7.1        |................=...|
-feign.gson  [no clear owner; `io.github.openfeign` is earliest and most recent]
-  ? * io.github.openfeign                  2023-02..2026-04 13.12        |............========|
-  ?   com.appdynamics                      2025-10..2025-10 25.08.1524   |..................=.|
-feign.jackson  [no clear owner; `io.github.openfeign` is earliest and most recent]
-  ? * io.github.openfeign                  2023-02..2026-04 13.12        |............========|
-  ?   io.github.jhkim593                   2025-03..2025-03 1.0.0        |................=...|
-feign.kotlin  [no clear owner; `io.github.openfeign` is earliest and most recent]
-  ? * io.github.openfeign                  2023-02..2026-04 13.12        |............========|
-  ?   io.github.sunny-chung                2024-02..2024-02 13.2.1-patch-1 |..............=.....|
 com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
   ? * io.github.bes2008.solution.langx     2024-01..2026-04 5.4.6.1      |..............======|
   ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10       |..................=.|
@@ -1107,9 +966,6 @@ jpms_dss_validation  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest a
 com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
   ? * io.gitee.shallwecode                 2025-05..2026-03 1.5.0        |.................==.|
   ?   io.github.shallwecodex               2025-05..2025-05 1.0.2        |.................=..|
-com.graphqljava.extendedscalars  [no clear owner; `com.graphql-java` is earliest and most recent]
-  ? * com.graphql-java                     2022-09..2026-02 0.0.0-2026-02-15T04-08-22-545cf7f |...........========.|
-  ?   com.liferay                          2025-05..2025-05 19.1.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
 jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
   ? * org.codelibs                         2022-04..2026-02 3.0.2        |...........========.|
   ?   io.gitee.pickled_vegetables          2023-05..2023-05 2.2.0        |.............=......|

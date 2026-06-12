@@ -22,8 +22,8 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 |---|---:|
 | Total artifacts scanned | 17 368 273 |
 | Non-module artifacts | 15 459 649 |
-| Modular artifacts | 1 582 801 |
-| Total automatic modules | 1 242 278 |
+| Modular artifacts | 1 582 977 |
+| Total automatic modules | 1 242 454 |
 | Total named modules | 340 523 |
 | Total named modules with module-info version | 256 727 |
 | Distinct Maven artifacts | 653 652 |
@@ -45,7 +45,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
 | Named | 17 137 | 340 523 |
-| Automatic | 20 966 | 1 242 278 |
+| Automatic | 20 966 | 1 242 454 |
 
 ## `module-info` version field across named publications
 
