@@ -22,21 +22,21 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 |---|---:|
 | Total artifacts scanned | 17 368 273 |
 | Non-module artifacts | 15 459 649 |
-| Modular artifacts | 1 582 977 |
-| Total automatic modules | 1 242 454 |
-| Total named modules | 340 523 |
+| Modular artifacts | 1 583 213 |
+| Total automatic modules | 1 242 632 |
+| Total named modules | 340 581 |
 | Total named modules with module-info version | 256 727 |
 | Distinct Maven artifacts | 653 652 |
 | Distinct module names | 39 449 |
 | Distinct automatic modules | 20 966 |
 | Distinct named modules | 17 137 |
 | Distinct named modules with module-info version | 12 556 |
-| Distinct groupIds publishing modules | 5 180 |
+| Distinct groupIds publishing modules | 5 181 |
 | Most recent tracked publication | 2026-06-10 23:52:31 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **325 978** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **326 036** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 ## Type breakdown
 
@@ -44,8 +44,8 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 137 | 340 523 |
-| Automatic | 20 966 | 1 242 454 |
+| Named | 17 137 | 340 581 |
+| Automatic | 20 966 | 1 242 632 |
 
 ## `module-info` version field across named publications
 
@@ -57,7 +57,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 |---|---:|
 | `module-info` version matches the Maven coordinate version | 250 063 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 6 664 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 52 743 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 52 801 |
 
 Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the "latest" of a module would land on). Modules whose latest row is automatic are excluded.
 
@@ -121,13 +121,13 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 |---|---|---|---|
 | 2025-07 | `█`&nbsp;2 786 (4.8%) | `▓▓`&nbsp;4 766 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
 | 2025-08 | `█`&nbsp;2 434 (4.1%) | `▓▓`&nbsp;5 451 (9.3%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.6%) |
-| 2025-09 | `█`&nbsp;2 803 (4.3%) | `▓▓`&nbsp;5 404 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
-| 2025-10 | `█`&nbsp;2 844 (4.2%) | `▓▓`&nbsp;5 390 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (87.9%) |
-| 2025-11 | `█`&nbsp;2 427 (3.7%) | `▓▓`&nbsp;5 390 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
+| 2025-09 | `█`&nbsp;2 815 (4.4%) | `▓▓`&nbsp;5 404 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
+| 2025-10 | `█`&nbsp;2 856 (4.2%) | `▓▓`&nbsp;5 390 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (87.9%) |
+| 2025-11 | `█`&nbsp;2 439 (3.8%) | `▓▓`&nbsp;5 390 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
 | 2025-12 | `█`&nbsp;2 650 (4.0%) | `▓▓`&nbsp;5 626 (8.6%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 162 (87.4%) |
 | 2026-01 | `█`&nbsp;2 891 (4.1%) | `▓▓`&nbsp;5 498 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 373 (88.0%) |
 | 2026-02 | `█`&nbsp;2 639 (3.8%) | `▓▓`&nbsp;5 522 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.2%) |
-| 2026-03 | `█`&nbsp;3 113 (3.9%) | `▓▓`&nbsp;6 694 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
+| 2026-03 | `█`&nbsp;3 123 (3.9%) | `▓▓`&nbsp;6 694 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
 | 2026-04 | `█`&nbsp;3 397 (4.5%) | `▓▓`&nbsp;5 844 (7.7%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 955 (87.9%) |
 | 2026-05 | `█`&nbsp;3 412 (4.5%) | `▓▓`&nbsp;5 346 (7.1%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 517 (88.4%) |
 | 2026-06 | `█`&nbsp;73 (3.5%) | `▓`&nbsp;21 (1.0%) | `░`&nbsp;2 015 (95.5%) |

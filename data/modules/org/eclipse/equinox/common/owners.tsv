@@ -1,0 +1,5 @@
+org.eclipse.platform	allowed
+ch.reportingsoft.birt	blocked
+com.innoventsolutions.birt.runtime	blocked
+com.vertispan.j2cl.external	blocked
+org.kie.j2cl.tools.external	blocked

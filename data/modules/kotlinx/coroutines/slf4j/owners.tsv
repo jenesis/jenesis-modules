@@ -1,0 +1,6 @@
+org.jetbrains.intellij.deps.kotlinx	allowed
+org.jetbrains.kotlinx	allowed
+dev.suresh.kmp	blocked
+io.github.vooft	blocked
+jp.co.gahojin.thrifty	blocked
+xyz.block	blocked

@@ -4,15 +4,15 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
-| explicit-rules | 0 | 164 |
+| explicit-rules | 0 | 322 |
 | republisher | 0 | 57 |
-| migration | 0 | 1586 |
-| fork | 0 | 254 |
-| shaded | 50 | 1222 |
+| migration | 0 | 1578 |
+| fork | 0 | 253 |
+| shaded | 0 | 1272 |
 | tld-dropped | 0 | 15 |
-| two-segments | 156 | 0 |
-| unclassified | 68 | 0 |
-| **total** | **274** | **3298** |
+| two-segments | 15 | 0 |
+| unclassified | 60 | 0 |
+| **total** | **75** | **3497** |
 | multi-owner modules scanned | 3572 | |
 | modules scanned | 36334 | |
 
@@ -34,251 +34,21 @@ The publishing groupId handed off over time: the old coordinate went dormant, a 
 
 A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork.
 
-## shaded (50)
+## shaded (0)
 
 The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report.
-
-| count | current owner -> proposed allowed |
-|---:|---|
-| 24 | `org.eclipse.platform -> org.eclipse.platform` |
-| 8 | `com.google.inject.extensions -> com.google.inject.extensions` |
-| 3 | `org.graalvm.sdk -> org.graalvm.sdk` |
-| 2 | `biz.aQute.bnd -> biz.aQute.bnd` |
-| 2 | `com.graphql-java -> com.graphql-java` |
-| 2 | `com.sun.xml.bind.external -> com.sun.xml.bind.external` |
-| 1 | `com.amihaiemil.web -> com.amihaiemil.web` |
-| 1 | `com.sun.xml.ws -> com.sun.xml.ws` |
-| 1 | `io.soabase.record-builder -> io.soabase.record-builder` |
-| 1 | `org.apache.logging.log4j -> org.apache.logging.log4j` |
-| 1 | `org.choco-solver -> org.choco-solver` |
-| 1 | `org.hibernate.common -> org.hibernate.common` |
-| 1 | `org.neo4j.app -> org.neo4j.app` |
-| 1 | `org.neo4j.test -> org.neo4j.test` |
-| 1 | `uk.co.real-logic -> uk.co.real-logic` |
-
-```
-com.graphqljava  [owned by `com.graphql-java`; 2 other group(s) shade the name]
-  ? * com.graphql-java                     2020-11..2026-05 0.0.0-2026-05-29T07-49-37-79b227e |........============|
-  ?   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
-  ?   io.github.my-workforce               2022-07..2023-07 19.6         |...........===......|
-org.neo4j.harness  [owned by `org.neo4j.test`; 1 other group(s) shade the name]
-  ? * org.neo4j.test                       2018-03..2026-05 2026.05.0    |..==================|
-  ?   org.graphfoundation.ongdb.test       2020-04..2025-06 1.0.6        |.......===========..|
-org.neo4j.server  [owned by `org.neo4j.app`; 1 other group(s) shade the name]
-  ? * org.neo4j.app                        2018-03..2026-05 2026.05.0    |..==================|
-  ?   org.graphfoundation.ongdb.app        2020-04..2025-06 1.0.6        |.......===========..|
-com.sun.tools.rngdatatype  [owned by `com.sun.xml.bind.external`; 1 other group(s) shade the name]
-  ? * com.sun.xml.bind.external            2018-07..2026-05 4.0.9        |...=================|
-  ?   cn.lzgabel.jaxb.xml.bind.external    2022-03..2022-03 4.0.0        |..........=.........|
-com.sun.tools.rngom  [owned by `com.sun.xml.bind.external`; 1 other group(s) shade the name]
-  ? * com.sun.xml.bind.external            2018-07..2026-05 4.0.9        |...=================|
-  ?   cn.lzgabel.jaxb.xml.bind.external    2022-03..2022-03 4.0.0        |..........=.........|
-org.chocosolver.solver  [owned by `org.choco-solver`; 2 other group(s) shade the name]
-  ? * org.choco-solver                     2020-07..2026-05 6.0.1        |.......=============|
-  ?   io.gitlab.chaver                     2022-09..2023-08 1.0.2        |...........===......|
-  ?   es.us.isa                            2023-04..2023-04 1.0.0        |.............=......|
-org.apache.log4j  [owned by `org.apache.logging.log4j`; 1 other group(s) shade the name]
-  ? * org.apache.logging.log4j             2017-11..2026-05 2.26.0       |..==================|
-  ?   org.slf4j                            2019-08..2022-02 1.7.36       |.....======.........|
-uk.co.real_logic.sbe.tool  [owned by `uk.co.real-logic`; 1 other group(s) shade the name]
-  ? * uk.co.real-logic                     2019-02..2026-04 1.38.1       |....================|
-  ?   org.viewstreet                       2020-03..2020-03 1.16.1.760   |......=.............|
-org.graalvm.collections  [owned by `org.graalvm.sdk`; 1 other group(s) shade the name]
-  ? * org.graalvm.sdk                      2023-09..2026-04 25.0.3       |.............=======|
-  ?   io.github.lnyo-cly                   2026-04..2026-04 2.2.0        |...................=|
-org.graalvm.nativeimage  [owned by `org.graalvm.sdk`; 1 other group(s) shade the name]
-  ? * org.graalvm.sdk                      2023-09..2026-04 25.0.3       |.............=======|
-  ?   io.vproxy                            2023-10..2024-07 1.2.2        |..............==....|
-org.graalvm.word  [owned by `org.graalvm.sdk`; 1 other group(s) shade the name]
-  ? * org.graalvm.sdk                      2023-09..2026-04 25.0.3       |.............=======|
-  ?   io.vproxy                            2023-10..2024-07 1.2.2        |..............==....|
-biz.aQute.bndlib  [owned by `biz.aQute.bnd`; 1 other group(s) shade the name]
-  ? * biz.aQute.bnd                        2018-05..2026-03 7.2.3        |...=================|
-  ?   com.liferay                          2019-07..2024-01 4.2.0-20190219.175746-114-LIFERAY-CACHED.LIFERAY-PATCHED-2 |.....==========.....|
-biz.aQute.resolve  [owned by `biz.aQute.bnd`; 1 other group(s) shade the name]
-  ? * biz.aQute.bnd                        2018-05..2026-03 7.2.3        |...=================|
-  ?   com.liferay                          2018-11..2018-11 4.1.0.LIFERAY-PATCHED-1 |....=...............|
-org.eclipse.help  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 3.11.0       |...================.|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.swt  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 3.133.0      |...================.|
-  ?   net.dongliu                          2019-11..2019-11 4.13.1       |......=.............|
-org.eclipse.core.resources  [owned by `org.eclipse.platform`; 4 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 3.23.200     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-07 3.22.200     |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.text  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 3.14.600     |...================.|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-org.eclipse.update.configurator  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-07..2026-03 3.5.1000     |...================.|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.core.runtime  [owned by `org.eclipse.platform`; 5 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 3.34.200     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 3.33.0       |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   org.geckoprojects.eclipse.core       2024-09..2024-09 3.14.0       |................=...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.app  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2026-03 1.7.600      |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 1.7.300      |.................=..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-com.graphqljava.extendedscalars  [owned by `com.graphql-java`; 1 other group(s) shade the name]
-  ? * com.graphql-java                     2022-09..2026-02 0.0.0-2026-02-15T04-08-22-545cf7f |...........========.|
-  ?   com.liferay                          2025-05..2025-05 19.1.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
-io.soabase.recordbuilder.core  [owned by `io.soabase.record-builder`; 1 other group(s) shade the name]
-  ? * io.soabase.record-builder            2021-06..2026-01 52           |.........==========.|
-  ?   dev.ikm.jpms                         2024-01..2024-08 36-r6        |..............==....|
-org.eclipse.equinox.preferences  [owned by `org.eclipse.platform`; 4 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 3.12.100     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 3.11.300     |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.registry  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 3.12.600     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 3.12.300     |.................=..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.simpleconfigurator  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 1.5.700      |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-07 1.5.500      |.................=..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.core.filesystem  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 1.11.400     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-07 1.11.200     |.................=..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.core.contenttype  [owned by `org.eclipse.platform`; 4 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 3.9.800      |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-04 3.9.600      |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.common  [owned by `org.eclipse.platform`; 4 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-12 3.20.300     |...================.|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 3.20.0       |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.frameworkadmin  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 2.3.500      |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.metatype  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 1.6.900      |...===============..|
-  ?   com.liferay                          2024-10..2024-10 1.4.400.LIFERAY-PATCHED-1 |................=...|
-org.eclipse.osgi.services  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 3.12.300     |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.core.expressions  [owned by `org.eclipse.platform`; 2 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 3.9.500      |...===============..|
-  ?   ch.reportingsoft.birt                2025-04..2025-04 3.9.400      |.................=..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.console  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-07..2025-09 1.4.1100     |...===============..|
-  ?   com.liferay                          2023-07..2023-07 1.4.300.LIFERAY-PATCHED-1 |.............=......|
-org.eclipse.equinox.simpleconfigurator.manipulator  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 2.3.600      |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.core.jobs  [owned by `org.eclipse.platform`; 5 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 3.15.700     |...===============..|
-  ?   ch.reportingsoft.birt                2025-04..2025-05 3.15.500     |.................=..|
-  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
-  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
-  ?   net.officefloor.eclipse              2019-07..2019-07 3.12.0       |.....=..............|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.security  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-09 1.4.700      |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.osgi.util  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-06 3.7.400      |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.eclipse.equinox.frameworkadmin.equinox  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2025-06 1.3.400      |...===============..|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-org.hibernate.commons.annotations  [owned by `org.hibernate.common`; 1 other group(s) shade the name]
-  ? * org.hibernate.common                 2018-02..2024-10 7.0.3.Final  |..===============...|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17 |......=====.........|
-com.amihaiemil.eoyaml  [owned by `com.amihaiemil.web`; 1 other group(s) shade the name]
-  ? * com.amihaiemil.web                   2020-04..2024-08 8.0.6        |......==========....|
-  ?   io.github.portlek                    2020-06..2020-07 4.7.5        |.......=............|
-com.google.guice.extensions.testlib  [owned by `com.google.inject.extensions`; 5 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.jwebmp.inject.extensions         2019-04..2019-08 0.68.0.1     |....==..............|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-com.google.guice.extensions.throwingproviders  [owned by `com.google.inject.extensions`; 5 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-com.google.guice.extensions.spring  [owned by `com.google.inject.extensions`; 4 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-com.google.guice.extensions.servlet  [owned by `com.google.inject.extensions`; 7 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
-  ?   com.guicedee.services                2020-07..2022-02 1.2.2.1-jre17 |.......====.........|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.guicedee.services.extensions     2019-11..2020-07 1.0.13.5-jre12 |......==............|
-    + 2 more: com.jwebmp.inject.extensions, org.sonatype.sisu.inject
-com.google.guice.extensions.persist  [owned by `com.google.inject.extensions`; 7 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
-  ?   com.guicedee.services                2020-07..2022-02 1.2.2.1-jre17 |.......====.........|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.guicedee.services.extensions     2019-11..2020-07 1.0.13.5-jre12 |......==............|
-    + 2 more: com.jwebmp.inject.extensions, org.sonatype.sisu.inject
-com.google.guice.extensions.daggeradapter  [owned by `com.google.inject.extensions`; 4 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-com.google.guice.extensions.struts2  [owned by `com.google.inject.extensions`; 3 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2023-05 6.0.0        |..============......|
-  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
-  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-org.eclipse.equinox.ds  [owned by `org.eclipse.platform`; 1 other group(s) shade the name]
-  ? * org.eclipse.platform                 2018-06..2020-06 1.6.200      |...=====............|
-  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
-com.google.guice.extensions.multibindings  [owned by `com.google.inject.extensions`; 1 other group(s) shade the name]
-  ? * com.google.inject.extensions         2018-02..2020-03 4.2.3        |..=====.............|
-  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
-com.sun.tools.ws.jaxws  [owned by `com.sun.xml.ws`; 1 other group(s) shade the name]
-  ? * com.sun.xml.ws                       2019-01..2020-03 2.3.2-1      |....===.............|
-  ?   org.glassfish.metro                  2019-01..2019-01 2.4.3        |....=...............|
-```
 
 ## tld-dropped (0)
 
 The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix (e.g. module ktorm.* owned by org.ktorm). Proposal: allow that owner, block the rest.
 
-## two-segments (156)
+## two-segments (15)
 
 The dominant owner's groupId with its first two segments dropped is the module-name prefix (e.g. module kotlinx.* owned by org.jetbrains.kotlinx). Proposal: allow that owner, block the rest.
 
 | count | current owner -> proposed allowed |
 |---:|---|
-| 79 | `ru.tinkoff.kora -> ru.tinkoff.kora` |
-| 32 | `com.javax0.jamal -> com.javax0.jamal,com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal` |
-| 12 | `com.typesafe.akka -> com.typesafe.akka` |
-| 12 | `org.jetbrains.kotlinx -> org.jetbrains.kotlinx,org.jetbrains.intellij.deps.kotlinx` |
 | 6 | `com.squareup.okhttp3 -> com.squareup.okhttp3` |
-| 6 | `org.jetbrains.kotlinx -> org.jetbrains.kotlinx` |
 | 4 | `com.typesafe.play -> com.typesafe.play` |
 | 2 | `com.squareup.okio -> com.squareup.okio` |
 | 1 | `com.fasterxml.jackson.datatype -> com.fasterxml.jackson.datatype` |
@@ -301,311 +71,6 @@ play.ws.standalone.json  [owned by `com.typesafe.play` (groupId minus two segmen
 play.ws.standalone.xml  [owned by `com.typesafe.play` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
   ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
-kotlinx.coroutines.jdk9  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.android  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.rx2  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.reactive  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.reactor  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.debug  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-12..2026-05 1.11.0       |..............======|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.guava  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.javafx  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.rx3  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-kotlinx.coroutines.slf4j  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 4 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-  ?   jp.co.gahojin.thrifty                2025-02..2025-05 4.6.3        |................==..|
-  ?   io.github.vooft                      2024-09..2025-02 0.5.4        |................=...|
-  ?   dev.suresh.kmp                       2024-06..2024-07 0.15.0       |...............=....|
-  ?   xyz.block                            2024-03..2024-03 0.13.0       |..............==....|
-kotlinx.coroutines.swing  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-  ?   org.deltacv.EOCV-Sim                 2024-11..2024-11 3.8.4        |................=...|
-kotlinx.coroutines.jdk8  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 6 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0       |............========|
-  ?   org.jetbrains.intellij.deps.kotlinx  2025-09..2025-11 1.10.2-intellij-1 |..................=.|
-  ?   dev.zabricraft                       2025-01..2025-01 0.3.2        |................=...|
-  ?   io.github.danbeldev                  2024-08..2024-11 0.1.0        |...............==...|
-  ?   xyz.block                            2024-02..2024-02 0.8.0-beta   |..............=.....|
-  ?   com.blr19c.falowp                    2023-12..2024-01 1.0.1-beta-5 |..............=.....|
-    + 2 more: org.cs124.jeed, io.github.flaxoos
-kotlinx.datetime  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2022-01..2026-05 0.8.0        |..........==========|
-  ?   me.haroldmartin                      2024-08..2024-09 0.3.2        |...............=....|
-  ?   me.nathanfallet.zabricraft           2023-11..2023-12 0.2.4        |..............=.....|
-  ?   org.danbrough.kotlinx                2022-10..2022-11 0.4.0d       |............=.......|
-kora.cache.caffeine  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.config.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.liquibase  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.grpc.client  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.jms  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.kafka.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.kora.app.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.scheduling.ksp  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.cache.redis  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.cache.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.declarative.logging.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.grpc.client.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.grpc.client.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.client.ok  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.client.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.jackson.module  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.json.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.json.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.json.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.scheduling.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.scheduling.jdk  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.symbol.processor.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.annotation.processor.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.cache.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.client.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.server.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.kora.app.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.netty.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.openapi.management  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.opentelemetry.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.opentelemetry.tracing.exporter.grpc  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.soap.client  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.soap.client.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.validation.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.validation.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.annotation.processors  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.aop.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.client.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.server.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.openapi.generator  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.resilient.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.resilient.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.soap.client.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.test.junit5  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.config.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.config.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.config.yaml  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.cassandra  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.flyway  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.grpc.server  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.server.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.server.undertow  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.kafka  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.kafka.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.scheduling.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.telemetry.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.aop.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.application.graph  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2023-09..2026-04 1.2.14       |.............=======|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.cache.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.config.hocon  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.declarative.logging.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.logging.common  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.mapstruct.java.extension  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.micrometer.module  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.opentelemetry.tracing  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.opentelemetry.tracing.exporter.http  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.scheduling.quartz  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.validation.module  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.jdbc  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.database.symbol.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.http.client.jdk  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.logging.logback  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.mapstruct.ksp.extension  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.symbol.processors  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.validation.annotation.processor  [owned by `ru.tinkoff.kora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * ru.tinkoff.kora                      2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework                     2026-03..2026-03 2.0.0.alpha6 |...................=|
-kotlinx.serialization.protobuf  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0       |.........===========|
-  ?   org.danbrough.kotlinx                2022-09..2023-03 1.5.0        |...........==.......|
-kotlinx.serialization.hocon  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0       |.........===========|
-  ?   org.danbrough.kotlinx                2022-09..2023-03 1.5.0        |...........==.......|
-  ?   ru.endlesscode.mimic                 2021-12..2022-04 0.8.0        |..........==........|
-kotlinx.serialization.properties  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0       |.........===========|
-  ?   org.danbrough.kotlinx                2022-09..2023-03 1.5.0        |...........==.......|
-kotlinx.serialization.cbor  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0       |.........===========|
-  ?   org.danbrough.kotlinx                2022-09..2023-03 1.5.0        |...........==.......|
-  ?   io.github.pluginloader               2022-01..2022-01 1.0.0        |..........=.........|
-kotlinx.atomicfu  [owned by `org.jetbrains.kotlinx` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * org.jetbrains.kotlinx                2021-11..2026-03 0.32.1       |..........==========|
-  ?   org.danbrough.kotlinx                2022-08..2023-01 0.19.0a      |...........==.......|
 okio  [owned by `com.squareup.okio` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * com.squareup.okio                    2018-02..2026-03 3.17.0       |..=================.|
   ?   com.datadoghq.okio                   2023-09..2023-09 1.17.6       |.............=......|
@@ -633,155 +98,22 @@ okhttp3.java.net.cookiejar  [owned by `com.squareup.okhttp3` (groupId minus two 
 okhttp3.tls  [owned by `com.squareup.okhttp3` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.squareup.okhttp3                 2018-07..2025-11 5.2.3        |...================.|
   ?   com.huanli233.okhttp3-compat         2025-02..2025-02 5.0.0-p2     |................=...|
-jamal.asciidoc_COMPAT  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-06..2024-12 2.8.2        |.............====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.word  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2022-03..2024-12 2.8.2        |..........=======...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.markdown  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-05..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.cmd  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2020-08..2024-12 2.8.2        |.......==========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.doclet  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-04..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.testsupport  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2019-01..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.extensions  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2019-03..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.io  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-04..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.prog  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-02..2024-12 2.8.2        |............=====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.openai  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-03..2024-12 2.8.2        |.............====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.sql  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2024-05..2024-12 2.8.2        |...............==...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.tools  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2018-11..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.snippet  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-01..2024-12 2.8.2        |........=========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.engine  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2018-11..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.json  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-03..2024-12 2.8.2        |.............====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.scriptbasic  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-02..2024-12 2.8.2        |........=========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.asciidoc  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2022-03..2024-12 2.8.2        |..........=======...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.groovy  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-02..2024-12 2.8.2        |........=========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.maven  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2018-11..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.maven.input  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-02..2024-12 2.8.2        |............=====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.test  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-02..2024-12 2.8.2        |........=========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.yaml  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-04..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.java  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-02..2024-12 2.8.2        |............=====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.mock  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2022-10..2024-12 2.8.2        |............=====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.jamal  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-04..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.ruby  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-02..2024-12 2.8.2        |........=========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.maven.load  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-03..2024-12 2.8.2        |.............====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.jar.input  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2023-03..2024-12 2.8.2        |.............====...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.assertions  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-10..2024-12 2.8.2        |..........=======...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.debug  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2021-04..2024-12 2.8.2        |.........========...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.core  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2018-11..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-jamal.api  [owned by `com.javax0.jamal` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
-  ? * com.javax0.jamal                     2018-11..2024-12 2.8.2        |....=============...|
-  ?   com.javax0.jamal.jamal-snippet.2.7.0.com.javax0.jamal 2024-06..2024-06 2.7.0        |...............=....|
-akka.discovery  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-12..2024-10 2.8.8        |....=============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.actor.typed  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-01..2024-10 2.8.8        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.coordination  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2019-04..2024-10 2.8.8        |....=============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.pki  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2020-06..2024-10 2.8.8        |.......==========...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.protobuf.v3  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2019-08..2024-10 2.8.8        |.....============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.actor  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-02..2024-10 2.8.8        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.actor.testkit.typed  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-05..2024-10 2.8.8        |...==============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.actor.testkit  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-02..2024-10 2.8.8        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.slf4j  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-02..2024-10 2.8.8        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.osgi  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-02..2024-10 2.7.1        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
-akka.protobuf  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-02..2024-10 2.7.1        |..===============...|
-  ?   com.sandinh                          2020-07..2020-07 2.6.8-sd     |.......=............|
 kotlin.test.junit  [owned by `org.jetbrains.kotlin` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * org.jetbrains.kotlin                 2020-07..2023-08 1.9.10       |.......=======......|
   ?   org.archguard.scanner                2022-06..2022-12 2.0.0-beta.5 |...........==.......|
   ?   org.jetbrains.lets-plot              2021-04..2021-06 2.0.4        |.........=..........|
-akka.stream.alpakka.kafka  [owned by `com.typesafe.akka` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.akka                    2018-06..2023-04 4.0.2        |...===========......|
-  ?   com.codacy                           2019-03..2019-03 1.0.1        |....=...............|
 cactus.maven.xml  [owned by `com.telenav.cactus` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
   ? * com.telenav.cactus                   2022-06..2022-11 1.5.49       |...........==.......|
   ?   com.telenav.lexakai                  2022-09..2022-10 1.0.13       |...........==.......|
 ```
 
-## unclassified (68)
+## unclassified (60)
 
 Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.
 
 | count | current owner -> proposed allowed |
 |---:|---|
 | 11 | `eu.europa.ec.joinup.sd-dss -> eu.europa.ec.joinup.sd-dss` |
-| 7 | `ru.tinkoff.kora.experimental -> ru.tinkoff.kora.experimental` |
 | 5 | `io.github.spair -> io.github.spair` |
 | 5 | `org.glassfish.jaxb -> org.glassfish.jaxb` |
 | 3 | `com.squareup.okhttp3 -> com.squareup.okhttp3` |
@@ -795,6 +127,7 @@ Multiple publishers with no natural-namespace owner present (the module name mat
 | 1 | `com.github.seeseemelk -> com.github.seeseemelk` |
 | 1 | `com.google.http-client -> com.google.http-client` |
 | 1 | `com.graphql-java -> com.graphql-java` |
+| 1 | `com.guicedee.services -> com.guicedee.services` |
 
 ```
 com.sun.codemodel  [no clear owner; `org.glassfish.jaxb` is earliest and most recent]
@@ -815,9 +148,6 @@ com.sun.xml.xsom  [no clear owner; `org.glassfish.jaxb` is earliest and most rec
   ? * org.glassfish.jaxb                   2018-07..2026-05 4.0.9        |...=================|
   ?   cn.lzgabel.jaxb                      2022-03..2022-03 4.0.0        |..........=.........|
   ?   no.entur                             2020-06..2022-01 1.47         |.......====.........|
-io.questdb.client  [no clear owner; `org.questdb` is earliest and most recent]
-  ? * org.questdb                          2026-02..2026-05 1.3.2        |..................==|
-  ?   io.github.sklarsa                    2026-05..2026-05 0.0.1        |...................=|
 VirtualizedFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
   ? * io.github.palexdev                   2022-03..2026-05 25.1.16      |..........==========|
   ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6       |...........=........|
@@ -888,27 +218,6 @@ org.apache.commons.dbcp2  [no clear owner; `org.apache.tomee` is earliest and mo
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0        |..................=.|
   ?   net.ontopia                          2025-04..2025-07 5.5.2        |.................=..|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1        |...............===..|
-kora.camunda.engine.bpmn  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.camunda.zeebe.worker.symbol.processor  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.camunda.rest.undertow  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.s3.client.symbol.processor  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.camunda.zeebe.worker  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.camunda.zeebe.worker.annotation.processor  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
-kora.s3.client.annotation.processor  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
-  ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
-  ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
 com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and most recent]
   ? * org.graalvm.regex                    2018-10..2026-04 25.0.3       |...=================|
   ?   org.noear                            2024-09..2025-07 1.9.6        |................==..|
