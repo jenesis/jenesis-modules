@@ -145,6 +145,23 @@ public class DriftReportTest {
     }
 
     @Test
+    public void hyphen_in_groupid_is_ignored_when_matching_the_module_name() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // groupId com.graphql-java owns module com.graphqljava: the '-' (illegal in module names) is
+        // stripped, so the names match and it is recognised as the canonical owner.
+        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.graphql-java", "graphql-java", "21.0", 1_500_000_000_000L));
+        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.graphql-java", "graphql-java", "22.0", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("owned by `com.graphql-java`");
+    }
+
+    @Test
     public void explicit_rule_owner_prefix_allows_subgroups() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
         // reactor.* -> io.projectreactor (prefix): both io.projectreactor and io.projectreactor.netty

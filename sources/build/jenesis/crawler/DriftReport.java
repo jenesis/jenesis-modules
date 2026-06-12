@@ -55,7 +55,11 @@ public final class DriftReport {
             Map.entry("spring", "org.springframework"),
             Map.entry("reactor", "io.projectreactor"),
             Map.entry("zipkin2", "io.zipkin"),
-            Map.entry("scala", "org.scala-lang")
+            Map.entry("scala", "org.scala-lang"),
+            Map.entry("javafx", "org.openjfx"),
+            Map.entry("jme3", "org.jmonkeyengine"),
+            Map.entry("com.codahale.metrics", "io.dropwizard"),
+            Map.entry("feign", "io.github.openfeign")
     );
 
     private DriftReport() {
@@ -495,8 +499,15 @@ public final class DriftReport {
         return owner;
     }
 
+    /** Module names cannot contain '-', so strip it from groupIds before comparing the two. */
+    private static String noHyphen(String value) {
+        return value.indexOf('-') < 0 ? value : value.replace("-", "");
+    }
+
     private static boolean under(String module, String groupId) {
-        return module.equals(groupId) || module.startsWith(groupId + ".");
+        String m = noHyphen(module);
+        String g = noHyphen(groupId);
+        return m.equals(g) || m.startsWith(g + ".");
     }
 
     /** True when the groupId with its first {@code drop} segments removed prefixes the module name. */
@@ -509,8 +520,9 @@ public final class DriftReport {
             }
             from = dot + 1;
         }
-        String stripped = groupId.substring(from);
-        return !stripped.isEmpty() && (module.equals(stripped) || module.startsWith(stripped + "."));
+        String stripped = noHyphen(groupId.substring(from));
+        String m = noHyphen(module);
+        return !stripped.isEmpty() && (m.equals(stripped) || m.startsWith(stripped + "."));
     }
 
     /**
@@ -538,12 +550,14 @@ public final class DriftReport {
     }
 
     private static boolean sameProject(String a, String b) {
-        return a.startsWith(b + ".") || b.startsWith(a + ".") || sharedLeading(a, b) >= 2;
+        String na = noHyphen(a);
+        String nb = noHyphen(b);
+        return na.startsWith(nb + ".") || nb.startsWith(na + ".") || sharedLeading(a, b) >= 2;
     }
 
     private static int sharedLeading(String a, String b) {
-        String[] as = a.split("\\.");
-        String[] bs = b.split("\\.");
+        String[] as = noHyphen(a).split("\\.");
+        String[] bs = noHyphen(b).split("\\.");
         int shared = 0;
         for (int i = 0; i < Math.min(as.length, bs.length); i++) {
             if (as[i].equals(bs[i])) {
