@@ -18,10 +18,11 @@ public class DriftReportTest {
     @Test
     public void reports_a_two_owner_module_without_owners_and_emits_a_setowners_file() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // A republisher case: a foreign group published the name first (so it is the current owner),
-        // while the natural-namespace owner com.example is also present.
+        // A republisher case: a foreign group claims the name and keeps publishing it (first and
+        // most recent), coexisting with the natural-namespace owner com.example - not a handoff.
         store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.0", 1_600_000_000_000L));
-        store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_750_000_000_000L));
+        store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_700_000_000_000L));
+        store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.1", 1_770_000_000_000L));
         store.flush();
 
         Path emit = data.resolve("emit.properties");

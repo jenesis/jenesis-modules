@@ -201,17 +201,22 @@ public final class DriftReport {
                 .max(Comparator.comparingLong(g -> g.last))
                 .orElse(null);
 
-        // Republisher only when the owner is cross-org to the natural owner; a same-project natural
-        // (e.g. com.jwebmp.jre10 vs com.jwebmp) is a rename, handled by the migration branch.
+        // A groupId migration hands the module off over time: the current (earliest) owner stops
+        // at or before a successor takes over, or it has gone dormant. That handoff is a migration
+        // even across organisations (e.g. org.avaje -> io.avaje, jakarta.enterprise -> jakarta.cdi),
+        // and is what separates a migration from a republisher - a foreign coordinate that keeps
+        // publishing *alongside* the still-active natural owner.
         boolean ownerForeign = !under(module, owner.groupId)
                 && naturals.stream().anyMatch(natural -> !sameProject(owner.groupId, natural));
+        boolean ownerDormant = globalLast.getOrDefault(owner.groupId, 0L) < activeCutoff;
+        boolean handoff = successor != null && (owner.last <= successor.first || ownerDormant);
         Category category;
         List<String> allowed;
         String description;
-        if (ownerForeign) {
+        if (ownerForeign && !handoff) {
             category = Category.REPUBLISHER;
             allowed = naturals.stream().filter(natural -> !sameProject(owner.groupId, natural)).toList();
-            description = "republished by `" + owner.groupId + "`; belongs to " + code(allowed);
+            description = "republished by `" + owner.groupId + "` (still active); belongs to " + code(allowed);
         } else if (successor != null && sameProject(owner.groupId, successor.groupId)) {
             category = Category.MIGRATION;
             allowed = Stream.concat(Stream.of(owner.groupId),
@@ -219,10 +224,10 @@ public final class DriftReport {
                     .distinct().toList();
             description = "renamed `" + owner.groupId + "` -> `" + successor.groupId
                     + "` (latest " + successor.latestVersion + ")";
-        } else if (successor != null && globalLast.getOrDefault(owner.groupId, 0L) < activeCutoff) {
+        } else if (handoff) {
             category = Category.MIGRATION;
             allowed = List.of(owner.groupId, successor.groupId);
-            description = "relocated `" + owner.groupId + "` (dormant) -> `" + successor.groupId
+            description = "relocated `" + owner.groupId + "` -> `" + successor.groupId
                     + "` (latest " + successor.latestVersion + ")";
         } else if (successor != null) {
             category = Category.FORK;
