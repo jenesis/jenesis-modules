@@ -2,20 +2,25 @@
 
 Generated 2026-06-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `blocked`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`blocked`); a fully-named module drops off this list.
 
-| Category | Modules |
-|---|---:|
-| republisher | 0 |
-| migration | 0 |
-| fork | 0 |
-| shaded | 0 |
-| tld-dropped | 15 |
-| two-segments | 157 |
-| unclassified | 270 |
-| **unresolved total** | **442** |
-| multi-owner modules scanned | 3572 |
-| modules scanned | 36334 |
+| Category | Unresolved | Resolved via owners.tsv |
+|---|---:|---:|
+| explicit-rules | 0 | 71 |
+| republisher | 0 | 57 |
+| migration | 0 | 1594 |
+| fork | 0 | 255 |
+| shaded | 0 | 1222 |
+| tld-dropped | 0 | 15 |
+| two-segments | 157 | 0 |
+| unclassified | 201 | 0 |
+| **total** | **358** | **3214** |
+| multi-owner modules scanned | 3572 | |
+| modules scanned | 36334 | |
 
 Timeline axis spans 2017-01 .. 2026-06 (today). Per group: decision `A`=allowed `B`=blocked `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
+
+## explicit-rules (0)
+
+Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic (e.g. spring.boot.* owned by org.springframework.boot). Proposal: allow that owner, block the rest.
 
 ## republisher (0)
 
@@ -33,68 +38,9 @@ A cross-org coordinate publishes the same name while the original owner is still
 
 The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report.
 
-## tld-dropped (15)
+## tld-dropped (0)
 
 The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix (e.g. module ktorm.* owned by org.ktorm). Proposal: allow that owner, block the rest.
-
-| count | current owner -> proposed allowed |
-|---:|---|
-| 9 | `org.ktorm -> org.ktorm` |
-| 1 | `io.lettuce -> io.lettuce` |
-| 1 | `io.micrometer -> io.micrometer` |
-| 1 | `io.r2dbc -> io.r2dbc` |
-| 1 | `org.freemarker -> org.freemarker` |
-| 1 | `org.liquibase -> org.liquibase` |
-| 1 | `org.thymeleaf -> org.thymeleaf` |
-
-```
-lettuce.core  [owned by `io.lettuce` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * io.lettuce                           2019-09..2026-05 7.6.0.RELEASE |.....===============|
-  ?   org.mandas                           2021-04..2021-09 6.1.5.RELEASE |.........=..........|
-ktorm.support.sqlserver  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.core  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.global  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.jackson  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.ksp.annotations  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2024-05..2026-05 4.2.0        |...............=====|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.support.mysql  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.support.oracle  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.support.postgresql  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-ktorm.support.sqlite  [owned by `org.ktorm` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.ktorm                            2023-01..2026-05 4.2.0        |............========|
-  ?   live.sidian                          2025-12..2025-12 5.0.0        |..................=.|
-liquibase.core  [owned by `org.liquibase` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
-  ? * org.liquibase                        2023-03..2026-05 5.0.3        |............========|
-  ?   io.github.shshdxk                    2025-07..2025-12 4.34.0       |.................==.|
-  ?   dev.ocpd.liquibase                   2023-05..2023-05 4.22.0-b14   |.............=......|
-thymeleaf  [owned by `org.thymeleaf` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.thymeleaf                        2018-10..2026-04 3.1.5.RELEASE |...=================|
-  ?   io.vertx                             2021-05..2021-05 4.1.0.CR1    |.........=..........|
-micrometer.commons  [owned by `io.micrometer` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * io.micrometer                        2022-11..2026-04 1.17.0-RC1   |............========|
-  ?   net.solarnetwork.external            2025-06..2025-06 1.15.2-SN01  |.................=..|
-r2dbc.h2  [owned by `io.r2dbc` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * io.r2dbc                             2019-11..2025-10 1.1.0.RELEASE |......=============.|
-  ?   io.github.evaggelos99                2024-09..2024-09 1.1.1        |...............=....|
-freemarker  [owned by `org.freemarker` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * org.freemarker                       2021-02..2024-12 2.3.34       |........=========...|
-  ?   com.liferay                          2024-03..2024-10 2.3.33.LIFERAY-PATCHED-2 |..............===...|
-```
 
 ## two-segments (157)
 
@@ -607,13 +553,12 @@ cactus.maven.xml  [owned by `com.telenav.cactus` (groupId minus two segments is 
   ?   com.telenav.lexakai                  2022-09..2022-10 1.0.13       |...........==.......|
 ```
 
-## unclassified (270)
+## unclassified (201)
 
 Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.
 
 | count | current owner -> proposed allowed |
 |---:|---|
-| 69 | `org.springframework.boot -> org.springframework.boot` |
 | 24 | `org.eclipse.platform -> org.eclipse.platform` |
 | 22 | `org.springframework -> org.springframework` |
 | 17 | `org.jmonkeyengine -> org.jmonkeyengine` |
@@ -628,8 +573,9 @@ Multiple publishers with no natural-namespace owner present (the module name mat
 | 4 | `org.scala-lang -> org.scala-lang` |
 | 3 | `com.graphql-java -> com.graphql-java` |
 | 3 | `com.squareup.okhttp3 -> com.squareup.okhttp3` |
+| 3 | `io.github.openfeign -> io.github.openfeign` |
 
-_Showing the 200 most recently active of 270. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
+_Showing the 200 most recently active of 201. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
 
 ```
 com.graphqljava  [no clear owner; `com.graphql-java` is earliest and most recent]
@@ -886,213 +832,6 @@ org.apache.commons.dbcp2  [no clear owner; `org.apache.tomee` is earliest and mo
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0        |..................=.|
   ?   net.ontopia                          2025-04..2025-07 5.5.2        |.................=..|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1        |...............===..|
-spring.boot.actuator.autoconfigure  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.antlib  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.autoconfigure  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.configuration.processor  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.loader.tools  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.batch  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.cassandra.reactive  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.couchbase.reactive  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.mongodb.reactive  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.neo4j  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.r2dbc  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2020-05..2026-04 3.5.14       |.......=============|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.redis.reactive  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.freemarker  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.hateoas  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.integration  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.jetty  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.jooq  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.json  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.log4j2  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.mail  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.oauth2.client  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-10..2026-04 3.5.14       |....================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.oauth2.resource.server  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-10..2026-04 3.5.14       |....================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.web.services  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.webflux  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.actuator  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.buildpack.platform  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2020-05..2026-04 3.5.14       |.......=============|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.cli  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.configuration.metadata  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.devtools  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.loader  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.properties.migrator  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.actuator  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.amqp  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.aop  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.artemis  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.cache  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.couchbase  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.elasticsearch  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.jdbc  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-10..2026-04 3.5.14       |....================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.jpa  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.redis  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.graphql  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2022-05..2026-04 3.5.14       |...........=========|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.groovy.templates  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.jdbc  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.jersey  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.mustache  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.quartz  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.reactor.netty  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.security  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.test  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.tomcat  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.undertow  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.validation  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.web  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.websocket  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.test  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.test.autoconfigure  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.autoconfigure.processor  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.maven.plugin  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.activemq  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.cassandra  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.ldap  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.mongodb  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.data.rest  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.logging  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.rsocket  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2019-10..2026-04 3.5.14       |......==============|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
-spring.boot.starter.thymeleaf  [no clear owner; `org.springframework.boot` is earliest and most recent]
-  ? * org.springframework.boot             2018-03..2026-04 3.5.14       |..==================|
-  ?   net.xdob.springframework.boot        2025-03..2026-04 2.7.22       |................====|
 kora.camunda.engine.bpmn  [no clear owner; `ru.tinkoff.kora.experimental` is earliest and most recent]
   ? * ru.tinkoff.kora.experimental         2025-01..2026-04 1.2.14       |................====|
   ?   io.koraframework.experimental        2026-03..2026-03 2.0.0.alpha6 |...................=|
@@ -1324,5 +1063,270 @@ jpms_dss_evidence_record_asn1  [no clear owner; `eu.europa.ec.joinup.sd-dss` is 
 jpms_dss_jacoco_coverage  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-02..2026-03 6.4          |............=======.|
   ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_specs_xmlers  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_pki_factory  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_evidence_record_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_evidence_record_xml  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_xml  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_xml_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-03 6.4          |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_pdfa  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2023-02..2026-03 6.4          |............=======.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1    |..............=====.|
+jpms_dss_validation  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
+  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-03 6.4          |...............====.|
+  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1    |..................=.|
+org.eclipse.help  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 3.11.0       |...================.|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.swt  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 3.133.0      |...================.|
+  ?   net.dongliu                          2019-11..2019-11 4.13.1       |......=.............|
+org.eclipse.core.resources  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 3.23.200     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-07 3.22.200     |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.text  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 3.14.600     |...================.|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+org.eclipse.update.configurator  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-07..2026-03 3.5.1000     |...================.|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.core.runtime  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 3.34.200     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 3.33.0       |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   org.geckoprojects.eclipse.core       2024-09..2024-09 3.14.0       |................=...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.app  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2026-03 1.7.600      |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 1.7.300      |.................=..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
+  ? * io.gitee.shallwecode                 2025-05..2026-03 1.5.0        |.................==.|
+  ?   io.github.shallwecodex               2025-05..2025-05 1.0.2        |.................=..|
+com.graphqljava.extendedscalars  [no clear owner; `com.graphql-java` is earliest and most recent]
+  ? * com.graphql-java                     2022-09..2026-02 0.0.0-2026-02-15T04-08-22-545cf7f |...........========.|
+  ?   com.liferay                          2025-05..2025-05 19.1.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
+jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
+  ? * org.codelibs                         2022-04..2026-02 3.0.2        |...........========.|
+  ?   io.gitee.pickled_vegetables          2023-05..2023-05 2.2.0        |.............=......|
+com.almasb.fxgl.gameplay  [no clear owner; `com.github.almasb` is earliest and most recent]
+  ? * com.github.almasb                    2021-04..2026-02 25.0.1       |.........==========.|
+  ?   io.github.chengenzhao                2026-01..2026-01 26.4         |..................=.|
+netty.socketio  [no clear owner; `com.corundumstudio.socketio` is earliest and most recent]
+  ? * com.corundumstudio.socketio          2024-01..2026-02 2.0.14       |..............=====.|
+  ?   codes.oss.socketio                   2025-04..2025-04 2.0.14       |.................=..|
+  ?   io.github.opensabe-tech              2024-08..2024-08 2.0.12       |...............=....|
+com.google.api.client  [no clear owner; `com.google.http-client` is earliest and most recent]
+  ? * com.google.http-client               2018-10..2026-01 2.1.0        |...================.|
+  ?   com.google.cloud.bigtable            2020-07..2020-11 1.17.0       |.......==...........|
+io.soabase.recordbuilder.core  [no clear owner; `io.soabase.record-builder` is earliest and most recent]
+  ? * io.soabase.record-builder            2021-06..2026-01 52           |.........==========.|
+  ?   dev.ikm.jpms                         2024-01..2024-08 36-r6        |..............==....|
+jetty.servlet.api  [no clear owner; `org.eclipse.jetty.toolchain` is earliest and most recent]
+  ? * org.eclipse.jetty.toolchain          2019-02..2026-01 4.0.9        |....===============.|
+  ?   ch.reportingsoft.birt                2025-04..2025-04 4.0.6        |.................=..|
+  ?   io.prometheus.cloudwatch             2024-08..2024-08 0.16.0       |...............=....|
+  ?   org.cip4.tools.jdfutility            2022-01..2022-01 1.7.1        |..........=.........|
+scala.reflect  [no clear owner; `org.scala-lang` is earliest and most recent]
+  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
+  ?   ch.epfl.scala                        2024-04..2024-04 2.2.0-M4.TEST |...............=....|
+  ?   io.github.casehubdk                  2021-09..2021-09 4.0.0        |.........=..........|
+  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
+scala.library  [no clear owner; `org.scala-lang` is earliest and most recent]
+  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
+  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
+scala.tools.nsc  [no clear owner; `org.scala-lang` is earliest and most recent]
+  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
+  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
+org.eclipse.equinox.preferences  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 3.12.100     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 3.11.300     |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.registry  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 3.12.600     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 3.12.300     |.................=..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.simpleconfigurator  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 1.5.700      |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-07 1.5.500      |.................=..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.core.filesystem  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 1.11.400     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-07 1.11.200     |.................=..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.core.contenttype  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 3.9.800      |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-04 3.9.600      |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.common  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-12 3.20.300     |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 3.20.0       |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+mockwebserver3  [no clear owner; `com.squareup.okhttp3` is earliest and most recent]
+  ? * com.squareup.okhttp3                 2021-01..2025-11 5.2.3        |........===========.|
+  ?   com.huanli233.okhttp3-compat         2025-02..2025-02 5.0.0-p2     |................=...|
+mockwebserver3.junit4  [no clear owner; `com.squareup.okhttp3` is earliest and most recent]
+  ? * com.squareup.okhttp3                 2021-01..2025-11 5.2.3        |........===========.|
+  ?   com.huanli233.okhttp3-compat         2025-02..2025-02 5.0.0-p2     |................=...|
+mockwebserver3.junit5  [no clear owner; `com.squareup.okhttp3` is earliest and most recent]
+  ? * com.squareup.okhttp3                 2021-01..2025-11 5.2.3        |........===========.|
+  ?   com.huanli233.okhttp3-compat         2025-02..2025-02 5.0.0-p2     |................=...|
+simpletimeapi  [no clear owner; `io.github.fontysvenlo` is earliest and most recent]
+  ? * io.github.fontysvenlo                2023-08..2025-10 1.0.0        |.............======.|
+  ?   io.github.fontysvenlo.alda           2023-09..2023-09 2.5          |.............=......|
+com.sun.jna.platform  [no clear owner; `net.java.dev.jna` is earliest and most recent]
+  ? * net.java.dev.jna                     2018-10..2025-09 5.18.1       |...================.|
+  ?   ch.reportingsoft.birt                2025-04..2025-07 5.17.0       |.................=..|
+org.eclipse.equinox.frameworkadmin  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 2.3.500      |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.metatype  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 1.6.900      |...===============..|
+  ?   com.liferay                          2024-10..2024-10 1.4.400.LIFERAY-PATCHED-1 |................=...|
+org.eclipse.osgi.services  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 3.12.300     |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.core.expressions  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 3.9.500      |...===============..|
+  ?   ch.reportingsoft.birt                2025-04..2025-04 3.9.400      |.................=..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.console  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-07..2025-09 1.4.1100     |...===============..|
+  ?   com.liferay                          2023-07..2023-07 1.4.300.LIFERAY-PATCHED-1 |.............=......|
+org.eclipse.equinox.simpleconfigurator.manipulator  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 2.3.600      |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.core.jobs  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 3.15.700     |...===============..|
+  ?   ch.reportingsoft.birt                2025-04..2025-05 3.15.500     |.................=..|
+  ?   org.kie.j2cl.tools.external          2024-07..2024-11 v20241110-1  |...............==...|
+  ?   com.vertispan.j2cl.external          2022-03..2023-11 v20230718-1  |..........=====.....|
+  ?   net.officefloor.eclipse              2019-07..2019-07 3.12.0       |.....=..............|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.security  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-09 1.4.700      |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.osgi.util  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-06 3.7.400      |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+org.eclipse.equinox.frameworkadmin.equinox  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2025-06 1.3.400      |...===============..|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+persistence.api  [no clear owner; `io.ebean` is earliest and most recent]
+  ? * io.ebean                             2019-03..2025-04 3.1          |....==============..|
+  ?   one.gfw                              2023-03..2023-03 3.0          |............=.......|
+jpms_dss_validation_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1  |......============..|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2025-03 6.0.1        |............=====...|
+com.amazon.corretto.crypto.provider  [no clear owner; `software.amazon.cryptools` is earliest and most recent]
+  ? * software.amazon.cryptools            2019-07..2025-03 2.5.0        |.....============...|
+  ?   io.github.luneo7                     2022-09..2022-09 1.6.1        |...........=........|
+  ?   org.jfrog.buildinfo                  2022-01..2022-01 2.33.2       |..........=.........|
+MaterialFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
+  ? * io.github.palexdev                   2021-06..2025-02 21.18.0-alpha |.........========...|
+  ?   org.glavo.materialfx                 2022-04..2022-04 11.13.4      |...........=........|
+be.seeseemelk.mockbukkit  [no clear owner; `com.github.seeseemelk` is earliest and most recent]
+  ? * com.github.seeseemelk                2022-06..2024-10 3.133.2      |...........======...|
+  ?   com.mineplex.studio                  2024-10..2024-10 1.21.1-R0.1-SNAPSHOT-26 |................=...|
+org.hibernate.commons.annotations  [no clear owner; `org.hibernate.common` is earliest and most recent]
+  ? * org.hibernate.common                 2018-02..2024-10 7.0.3.Final  |..===============...|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17 |......=====.........|
+com.amihaiemil.eoyaml  [no clear owner; `com.amihaiemil.web` is earliest and most recent]
+  ? * com.amihaiemil.web                   2020-04..2024-08 8.0.6        |......==========....|
+  ?   io.github.portlek                    2020-06..2020-07 4.7.5        |.......=............|
+io.github.bucket4j.parent  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
+  ? * com.github.vladimir-bukhtoyarov      2021-04..2024-04 8.0.1        |.........=======....|
+  ?   com.bucket4j                         2022-07..2023-10 8.6.0        |...........====.....|
+io.github.bucket4j.infinispan8  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1        |......==========....|
+  ?   com.bucket4j                         2022-07..2024-03 8.10.1       |...........====.....|
+zipkin2.reporter.kafka08  [no clear owner; `io.zipkin.reporter2` is earliest and most recent]
+  ? * io.zipkin.reporter2                  2018-03..2023-12 2.16.5       |..=============.....|
+  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
+com.sun.tools.txw2  [no clear owner; `org.glassfish.jaxb` is earliest and most recent]
+  ? * org.glassfish.jaxb                   2019-10..2023-06 4.0.3        |......========......|
+  ?   cn.lzgabel.jaxb                      2022-03..2022-03 4.0.0        |..........=.........|
+com.google.guice.extensions.testlib  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.jwebmp.inject.extensions         2019-04..2019-08 0.68.0.1     |....==..............|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
+com.google.guice.extensions.throwingproviders  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
+com.google.guice.extensions.spring  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
+com.google.guice.extensions.servlet  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
+  ?   com.guicedee.services                2020-07..2022-02 1.2.2.1-jre17 |.......====.........|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.guicedee.services.extensions     2019-11..2020-07 1.0.13.5-jre12 |......==............|
+    + 2 more: com.jwebmp.inject.extensions, org.sonatype.sisu.inject
+com.google.guice.extensions.persist  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   ru.vyarus.guice.jakarta              2023-04..2023-04 5.1.0-rc.2   |.............=......|
+  ?   com.guicedee.services                2020-07..2022-02 1.2.2.1-jre17 |.......====.........|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.guicedee.services.extensions     2019-11..2020-07 1.0.13.5-jre12 |......==............|
+    + 2 more: com.jwebmp.inject.extensions, org.sonatype.sisu.inject
+com.google.guice.extensions.daggeradapter  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 7.0.0        |..============......|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1     |....==..............|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
+com.google.guice.extensions.struts2  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2023-05 6.0.0        |..============......|
+  ?   io.forestframework                   2021-06..2021-06 5.0.1.1      |.........=..........|
+  ?   ca.stellardrift.guice-backport.extensions 2021-03..2021-03 5.0.1        |........=...........|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
+javax.persistence  [no clear owner; `org.datanucleus` is earliest and most recent]
+  ? * org.datanucleus                      2018-07..2021-08 2.2.4        |...=======..........|
+  ?   org.apache.geronimo.specs            2020-03..2020-03 1.1          |......=.............|
+javax.websocket.api  [no clear owner; `com.guicedee.services` is earliest and most recent]
+  ? * com.guicedee.services                2019-11..2020-11 1.0.20.2-jre15 |......===...........|
+  ?   org.apache.tomcat                    2020-09..2020-10 9.0.39       |.......=............|
+org.eclipse.equinox.ds  [no clear owner; `org.eclipse.platform` is earliest and most recent]
+  ? * org.eclipse.platform                 2018-06..2020-06 1.6.200      |...=====............|
+  ?   com.innoventsolutions.birt.runtime   2018-08..2018-08 4.8.0        |...=................|
+com.google.guice.extensions.multibindings  [no clear owner; `com.google.inject.extensions` is earliest and most recent]
+  ? * com.google.inject.extensions         2018-02..2020-03 4.2.3        |..=====.............|
+  ?   org.sonatype.sisu.inject             2018-04..2018-04 4.2.0        |..=.................|
 ```
 
