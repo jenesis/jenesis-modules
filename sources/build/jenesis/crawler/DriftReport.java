@@ -63,7 +63,8 @@ public final class DriftReport {
             Map.entry("kora", List.of("ru.tinkoff.kora", "io.koraframework")),
             Map.entry("io.questdb", List.of("org.questdb")),
             Map.entry("akka", List.of("com.typesafe.akka")),
-            Map.entry("jamal", List.of("com.javax0.jamal"))
+            Map.entry("jamal", List.of("com.javax0.jamal")),
+            Map.entry("play", List.of("com.typesafe.play", "org.playframework"))
     );
 
     private DriftReport() {

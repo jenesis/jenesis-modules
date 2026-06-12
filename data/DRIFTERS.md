@@ -4,13 +4,13 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
-| explicit-rules | 0 | 322 |
+| explicit-rules | 4 | 322 |
 | republisher | 0 | 57 |
 | migration | 0 | 1578 |
 | fork | 0 | 253 |
 | shaded | 0 | 1272 |
 | tld-dropped | 0 | 15 |
-| two-segments | 15 | 0 |
+| two-segments | 11 | 0 |
 | unclassified | 60 | 0 |
 | **total** | **75** | **3497** |
 | multi-owner modules scanned | 3572 | |
@@ -18,9 +18,28 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 Timeline axis spans 2017-01 .. 2026-06 (today). Per group: decision `A`=allowed `B`=blocked `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
-## explicit-rules (0)
+## explicit-rules (4)
 
 Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic (e.g. spring.boot.* owned by org.springframework.boot). Proposal: allow that owner, block the rest.
+
+| count | current owner -> proposed allowed |
+|---:|---|
+| 4 | `com.typesafe.play -> com.typesafe.play,org.playframework` |
+
+```
+play.ws.standalone  [explicit rule: owned by `com.typesafe.play`, `org.playframework`; 0 other group(s) blocked]
+  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
+  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
+play.ws.standalone.ahc  [explicit rule: owned by `com.typesafe.play`, `org.playframework`; 0 other group(s) blocked]
+  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
+  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
+play.ws.standalone.json  [explicit rule: owned by `com.typesafe.play`, `org.playframework`; 0 other group(s) blocked]
+  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
+  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
+play.ws.standalone.xml  [explicit rule: owned by `com.typesafe.play`, `org.playframework`; 0 other group(s) blocked]
+  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
+  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
+```
 
 ## republisher (0)
 
@@ -42,14 +61,13 @@ The natural-namespace owner (the module name falls under its groupId) is the ear
 
 The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix (e.g. module ktorm.* owned by org.ktorm). Proposal: allow that owner, block the rest.
 
-## two-segments (15)
+## two-segments (11)
 
 The dominant owner's groupId with its first two segments dropped is the module-name prefix (e.g. module kotlinx.* owned by org.jetbrains.kotlinx). Proposal: allow that owner, block the rest.
 
 | count | current owner -> proposed allowed |
 |---:|---|
 | 6 | `com.squareup.okhttp3 -> com.squareup.okhttp3` |
-| 4 | `com.typesafe.play -> com.typesafe.play` |
 | 2 | `com.squareup.okio -> com.squareup.okio` |
 | 1 | `com.fasterxml.jackson.datatype -> com.fasterxml.jackson.datatype` |
 | 1 | `com.telenav.cactus -> com.telenav.cactus,com.telenav.lexakai` |
@@ -59,18 +77,6 @@ The dominant owner's groupId with its first two segments dropped is the module-n
 jackson.datatype.pcollections  [owned by `com.fasterxml.jackson.datatype` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.fasterxml.jackson.datatype       2019-07..2026-06 2.22.0       |.....===============|
   ?   tools.jackson.datatype               2025-03..2026-05 3.1.3        |................====|
-play.ws.standalone  [owned by `com.typesafe.play` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
-  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
-play.ws.standalone.ahc  [owned by `com.typesafe.play` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
-  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
-play.ws.standalone.json  [owned by `com.typesafe.play` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
-  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
-play.ws.standalone.xml  [owned by `com.typesafe.play` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * com.typesafe.play                    2022-01..2026-05 2.2.16       |..........==========|
-  ?   org.playframework                    2023-09..2026-05 3.0.12       |.............=======|
 okio  [owned by `com.squareup.okio` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * com.squareup.okio                    2018-02..2026-03 3.17.0       |..=================.|
   ?   com.datadoghq.okio                   2023-09..2023-09 1.17.6       |.............=......|
