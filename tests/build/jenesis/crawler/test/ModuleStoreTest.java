@@ -55,12 +55,12 @@ public class ModuleStoreTest {
     @Test
     public void prefix_module_and_child_module_coexist_without_path_conflict() throws IOException {
         ModuleStore store = new ModuleStore(root);
-        store.record("jakarta.servlet", ModuleType.NAMED, null, ts("jakarta.servlet", "jakarta.servlet-api", "5.0", null, 1L));
-        store.record("jakarta.servlet.api", ModuleType.NAMED, null, ts("jakarta.servlet", "jakarta.servlet-api", "6.0", null, 1L));
+        store.record("com.example.svc", ModuleType.NAMED, null, ts("com.example", "svc-api", "5.0", null, 1L));
+        store.record("com.example.svc.api", ModuleType.NAMED, null, ts("com.example", "svc-api", "6.0", null, 1L));
         store.flush();
 
-        Path prefix = root.resolve("jakarta").resolve("servlet").resolve("versions.tsv");
-        Path child = root.resolve("jakarta").resolve("servlet").resolve("api").resolve("versions.tsv");
+        Path prefix = root.resolve("com").resolve("example").resolve("svc").resolve("versions.tsv");
+        Path child = root.resolve("com").resolve("example").resolve("svc").resolve("api").resolve("versions.tsv");
 
         assertThat(prefix).exists();
         assertThat(child).exists();

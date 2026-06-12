@@ -42,6 +42,8 @@ public final class DriftReport {
     private static final int ACTIVE_MONTHS = 18;
     private static final int MAX_GROUP_ROWS = 6;
     private static final int MAX_NAMES_IN_SUMMARY = 12;
+    private static final String REASSIGN_EMOJI = "🔀";
+    private static final String WIDEN_EMOJI = "➕";
 
     private static final DateTimeFormatter YM = DateTimeFormatter.ofPattern("yyyy-MM").withZone(ZoneOffset.UTC);
 
@@ -64,20 +66,31 @@ public final class DriftReport {
             Map.entry("io.questdb", List.of("org.questdb")),
             Map.entry("akka", List.of("com.typesafe.akka")),
             Map.entry("jamal", List.of("com.javax0.jamal")),
-            Map.entry("play", List.of("com.typesafe.play", "org.playframework"))
+            Map.entry("play", List.of("com.typesafe.play", "org.playframework")),
+            Map.entry("mockwebserver3", List.of("com.squareup.okhttp3")),
+            Map.entry("okio", List.of("com.squareup.okio")),
+            Map.entry("imgui", List.of("io.github.spair")),
+            Map.entry("com.sun.jna", List.of("net.java.dev.jna")),
+            Map.entry("com.almasb.fxgl", List.of("com.github.almasb")),
+            Map.entry("com.sun.codemodel", List.of("org.glassfish.jaxb")),
+            Map.entry("com.sun.xml.txw2", List.of("org.glassfish.jaxb")),
+            Map.entry("com.sun.xml.xsom", List.of("org.glassfish.jaxb")),
+            Map.entry("com.sun.tools.txw2", List.of("org.glassfish.jaxb")),
+            Map.entry("inet.ipaddr", List.of("com.github.seancfoley")),
+            Map.entry("org.dataloader", List.of("com.graphql-java"))
     );
 
     private DriftReport() {
     }
 
     enum Category {
-        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic (e.g. spring.boot.* owned by org.springframework.boot). Proposal: allow that owner, block the rest."),
+        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic. Proposal: allow that owner, block the rest."),
         REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, block the republisher."),
         MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
         FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork."),
         SHADED("shaded", "The natural-namespace owner (the module name falls under its groupId) is the earliest and most-recent publisher; every other group merely shades or bundles the name under its own coordinate. Proposal: allow the natural owner, block the rest. Resolution is unchanged; this just records the decision so the module drops off the report."),
-        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix (e.g. module ktorm.* owned by org.ktorm). Proposal: allow that owner, block the rest."),
-        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix (e.g. module kotlinx.* owned by org.jetbrains.kotlinx). Proposal: allow that owner, block the rest."),
+        TLD_DROPPED("tld-dropped", "The dominant owner's groupId with its top-level domain (first segment) dropped is the module-name prefix. Proposal: allow that owner, block the rest."),
+        TWO_SEGMENTS("two-segments", "The dominant owner's groupId with its first two segments dropped is the module-name prefix. Proposal: allow that owner, block the rest."),
         UNCLASSIFIED("unclassified", "Multiple publishers with no natural-namespace owner present (the module name matches no publisher's groupId): a genuine collision the heuristic cannot settle. Proposal: keep the current owner, but review by hand.");
 
         final String id;
@@ -125,6 +138,14 @@ public final class DriftReport {
 
     record Drift(String module, List<Group> groups, Group owner, Category category,
                  List<String> allowed, String description, OwnersPolicy owners) {
+    }
+
+    /**
+     * A resolved module whose owner(s) differ from the implicit first-publisher owner.
+     * {@code widened} = the first publisher is still an owner but others were added (e.g. a groupId
+     * migration); otherwise the first publisher was replaced (a reassignment).
+     */
+    record Reassignment(String module, String implicitOwner, List<String> owners, boolean widened) {
     }
 
     public static void main(String[] arguments) throws IOException {
@@ -182,6 +203,7 @@ public final class DriftReport {
         // publisher are "resolved" (tallied per category); the rest are unresolved drift.
         List<Drift> drifts = new ArrayList<>();
         Map<Category, Integer> resolvedByCategory = new EnumMap<>(Category.class);
+        List<Reassignment> reassigned = new ArrayList<>();
         int multiGroup = 0;
         for (Map.Entry<String, Map<String, Group>> entry : byModule.entrySet()) {
             Map<String, Group> groups = entry.getValue();
@@ -193,6 +215,10 @@ public final class DriftReport {
             Drift drift = classify(entry.getKey(), groups, globalLast, activeCutoff, owners);
             if (owners != null && owners.namedGroups().containsAll(groups.keySet())) {
                 resolvedByCategory.merge(drift.category(), 1, Integer::sum);
+                Reassignment reassignment = reassignment(entry.getKey(), drift.owner().groupId, owners);
+                if (reassignment != null) {
+                    reassigned.add(reassignment);
+                }
             } else {
                 drifts.add(drift);
             }
@@ -201,7 +227,7 @@ public final class DriftReport {
         String emit = System.getProperty(PROP_EMIT);
         int detailLimit = intProperty(PROP_DETAIL_LIMIT, DEFAULT_DETAIL_LIMIT);
         Path report = dataDir.resolve(REPORT_FILE);
-        Files.writeString(report, render(drifts, resolvedByCategory, byModule.size(), multiGroup, today, earliestOverall, todayMillis, detailLimit),
+        Files.writeString(report, render(drifts, resolvedByCategory, reassigned, byModule.size(), multiGroup, today, earliestOverall, todayMillis, detailLimit),
                 StandardCharsets.UTF_8);
         System.err.println("[drift] " + report + " (" + drifts.size() + " unresolved of " + multiGroup + " multi-owner modules)");
 
@@ -224,8 +250,8 @@ public final class DriftReport {
 
         List<String> explicit = explicitOwners(module);
         if (explicit != null) {
-            // The rule's owners are groupId prefixes: allow every publisher under any of them (e.g.
-            // io.projectreactor and io.projectreactor.netty), block the rest.
+            // The rule's owners are groupId prefixes: allow every publisher under any of them (a
+            // group and its subgroups), block the rest.
             List<String> allowedExplicit = groups.stream().map(g -> g.groupId)
                     .filter(g -> matchesAnyPrefix(g, explicit))
                     .distinct().toList();
@@ -249,13 +275,15 @@ public final class DriftReport {
 
         // A groupId migration hands the module off over time: the current (earliest) owner stops
         // at or before a successor takes over, or it has gone dormant. That handoff is a migration
-        // even across organisations (e.g. org.avaje -> io.avaje, jakarta.enterprise -> jakarta.cdi),
-        // and is what separates a migration from a republisher - a foreign coordinate that keeps
-        // publishing *alongside* the still-active natural owner.
+        // even across organisations, and is what separates a migration from a republisher - a
+        // foreign coordinate that keeps publishing *alongside* the still-active natural owner.
         boolean ownerForeign = !under(module, owner.groupId)
                 && naturals.stream().anyMatch(natural -> !sameProject(owner.groupId, natural));
         boolean ownerDormant = globalLast.getOrDefault(owner.groupId, 0L) < activeCutoff;
-        boolean handoff = successor != null && (owner.last <= successor.first || ownerDormant);
+        // A credible successor published the name more than once; a single late publication is a
+        // one-off (often a shaded jar) and must not be mistaken for a relocation.
+        boolean handoff = successor != null && successor.count >= 2
+                && (owner.last <= successor.first || ownerDormant);
         Category category;
         List<String> allowed;
         String description;
@@ -283,7 +311,7 @@ public final class DriftReport {
             // The owner is the earliest and most-recent publisher and the closest groupId to the
             // module name (it shares the longest leading-segment prefix); every other group merely
             // shades or bundles the name. This holds even when the name is not strictly under the
-            // groupId, e.g. module com.fasterxml.jackson.kotlin owned by com.fasterxml.jackson.module.
+            // groupId, only sharing a leading prefix with it.
             category = Category.SHADED;
             List<String> canonical = Stream.concat(Stream.of(owner.groupId),
                             groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
@@ -292,8 +320,7 @@ public final class DriftReport {
             description = "owned by `" + owner.groupId + "`; " + (groups.size() - canonical.size())
                     + " other group(s) shade the name";
         } else if (groupTailPrefixes(module, owner.groupId, 1)) {
-            // The dominant owner's groupId minus its top-level domain is the module-name prefix,
-            // e.g. module ktorm.core owned by org.ktorm.
+            // The dominant owner's groupId minus its top-level domain is the module-name prefix.
             category = Category.TLD_DROPPED;
             List<String> canonical = Stream.concat(Stream.of(owner.groupId),
                             groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
@@ -302,8 +329,7 @@ public final class DriftReport {
             description = "owned by `" + owner.groupId + "` (groupId minus TLD is the module prefix); "
                     + (groups.size() - canonical.size()) + " other group(s) shade the name";
         } else if (groupTailPrefixes(module, owner.groupId, 2)) {
-            // The dominant owner's groupId minus its first two segments is the module-name prefix,
-            // e.g. module kotlinx.* owned by org.jetbrains.kotlinx.
+            // The dominant owner's groupId minus its first two segments is the module-name prefix.
             category = Category.TWO_SEGMENTS;
             List<String> canonical = Stream.concat(Stream.of(owner.groupId),
                             groups.stream().map(g -> g.groupId).filter(g -> sameProject(owner.groupId, g)))
@@ -327,7 +353,8 @@ public final class DriftReport {
         return Integer.parseInt(value.trim());
     }
 
-    private static String render(List<Drift> drifts, Map<Category, Integer> resolvedByCategory, int totalModules,
+    private static String render(List<Drift> drifts, Map<Category, Integer> resolvedByCategory,
+                                 List<Reassignment> reassigned, int totalModules,
                                  int multiGroup, LocalDate today, long axisStart, long axisEnd, int detailLimit) {
         Map<Category, List<Drift>> byCategory = new EnumMap<>(Category.class);
         for (Category category : Category.values()) {
@@ -352,9 +379,9 @@ public final class DriftReport {
             out.append("| ").append(category.id).append(" | ").append(byCategory.get(category).size())
                     .append(" | ").append(resolved).append(" |\n");
         }
-        out.append("| **total** | **").append(drifts.size()).append("** | **").append(resolvedTotal).append("** |\n");
-        out.append("| multi-owner modules scanned | ").append(multiGroup).append(" | |\n");
-        out.append("| modules scanned | ").append(totalModules).append(" | |\n\n");
+        out.append("| **total** | **").append(drifts.size()).append("** | **").append(resolvedTotal).append("** |\n\n");
+        out.append("The table covers all **").append(multiGroup).append("** multi-owner modules (of **")
+                .append(totalModules).append("** modules scanned).\n\n");
 
         out.append("Timeline axis spans ").append(YM.format(Instant.ofEpochMilli(axisStart)))
                 .append(" .. ").append(YM.format(Instant.ofEpochMilli(axisEnd))).append(" (today). ")
@@ -414,22 +441,99 @@ public final class DriftReport {
             }
             out.append("```\n\n");
         }
+        appendReassigned(out, reassigned);
         return out.toString();
     }
 
-    /** Compact "current owner -> proposed allowed (count)" rollup so systematic cases stand out. */
+    /**
+     * Compact "current owner -> new owner(s) (count)" rollup, limited to transitions that would
+     * change ownership: a proposal that merely keeps the first-publisher owner is omitted.
+     */
     private static void appendAggregate(StringBuilder out, List<Drift> list) {
         Map<String, Integer> counts = new TreeMap<>();
         for (Drift drift : list) {
+            if (!changesOwnership(drift)) {
+                continue;
+            }
             counts.merge(drift.owner().groupId + " -> " + String.join(",", drift.allowed()), 1, Integer::sum);
+        }
+        if (counts.isEmpty()) {
+            return;
         }
         List<Map.Entry<String, Integer>> top = new ArrayList<>(counts.entrySet());
         top.sort(Comparator.<Map.Entry<String, Integer>>comparingInt(Map.Entry::getValue).reversed());
-        out.append("| count | current owner -> proposed allowed |\n|---:|---|\n");
+        out.append("| count | current owner -> new owner(s) |\n|---:|---|\n");
         for (Map.Entry<String, Integer> entry : top.subList(0, Math.min(top.size(), 15))) {
             out.append("| ").append(entry.getValue()).append(" | `").append(entry.getKey()).append("` |\n");
         }
         out.append('\n');
+    }
+
+    /**
+     * A drift's proposal changes ownership when it does not simply keep the first-publisher owner:
+     * either the implicit owner is dropped (reassignment) or other owners are added (widening).
+     */
+    private static boolean changesOwnership(Drift drift) {
+        List<String> allowed = drift.allowed();
+        return !(allowed.size() == 1 && allowed.get(0).equals(drift.owner().groupId));
+    }
+
+    /**
+     * For a resolved module, the {@link Reassignment} describing how its owners.tsv owners differ
+     * from the implicit first-publisher owner, or {@code null} when they do not (owners.tsv merely
+     * confirms the first publisher, or rejects everything).
+     */
+    private static Reassignment reassignment(String module, String implicitOwner, OwnersPolicy owners) {
+        Set<String> allowed = new TreeSet<>(owners.allowedGroups());
+        for (String pair : owners.allowedPairs()) {
+            allowed.add(pair.substring(0, pair.indexOf('\t')));
+        }
+        if (allowed.isEmpty() || (allowed.size() == 1 && allowed.contains(implicitOwner))) {
+            return null;
+        }
+        boolean widened = allowed.contains(implicitOwner);
+        // A widening only counts when the allowed owners span more than one project: a single
+        // project published under several coordinates is one legal owner, not many.
+        if (widened && !spansMultipleProjects(allowed)) {
+            return null;
+        }
+        return new Reassignment(module, implicitOwner, new ArrayList<>(allowed), widened);
+    }
+
+    private static boolean spansMultipleProjects(Set<String> groups) {
+        List<String> list = new ArrayList<>(groups);
+        for (int i = 0; i < list.size(); i++) {
+            for (int j = i + 1; j < list.size(); j++) {
+                if (!sameProject(list.get(i), list.get(j))) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private static void appendReassigned(StringBuilder out, List<Reassignment> reassigned) {
+        if (reassigned.isEmpty()) {
+            return;
+        }
+        long reassignCount = reassigned.stream().filter(entry -> !entry.widened()).count();
+        long widenCount = reassigned.size() - reassignCount;
+        out.append("## Reassigned and widened ownership\n\n");
+        out.append("Modules whose resolved owner differs from the implicit first-publisher owner once ")
+                .append("`owners.tsv` is applied. ").append(REASSIGN_EMOJI).append(" reassigned (").append(reassignCount)
+                .append("): the first publisher was replaced by a different owner. ").append(WIDEN_EMOJI)
+                .append(" widened (").append(widenCount).append("): extra legal owners were allowed alongside the ")
+                .append("first publisher (e.g. a groupId migration or a co-maintained project). Modules where ")
+                .append("`owners.tsv` only confirms the first publisher are not listed.\n\n");
+        List<Reassignment> sorted = new ArrayList<>(reassigned);
+        sorted.sort(Comparator.comparing(Reassignment::widened).thenComparing(Reassignment::module));
+        out.append("```\n");
+        for (Reassignment entry : sorted) {
+            out.append(entry.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI).append("  ").append(entry.module())
+                    .append("  ").append(entry.implicitOwner()).append(" -> ")
+                    .append(String.join(", ", entry.owners())).append('\n');
+        }
+        out.append("```\n\n");
     }
 
     private static long emit(List<Drift> drifts, Category category, Path target) throws IOException {
@@ -542,10 +646,9 @@ public final class DriftReport {
     /**
      * The owner is the canonical owner when its groupId is the closest to the module name: either
      * the name is strictly under the groupId, or the groupId shares the longest leading-segment
-     * prefix with the name. A 3+ segment shared prefix is a project group (e.g.
-     * com.fasterxml.jackson, where module com.fasterxml.jackson.kotlin is owned by
-     * com.fasterxml.jackson.module) and ties are allowed; a 2 segment shared prefix is only the org
-     * (e.g. org.eclipse.platform owning org.eclipse.help) and the owner must be strictly the closest.
+     * prefix with the name. A 3+ segment shared prefix is a project-level group and ties are
+     * allowed; a 2 segment shared prefix is only the org, so the owner must be strictly the closest
+     * (leaving sibling-project collisions unclassified).
      */
     private static boolean canonicalOwner(String module, Group owner, List<Group> groups) {
         if (under(module, owner.groupId)) {
@@ -557,9 +660,9 @@ public final class DriftReport {
         }
         int otherAffinity = groups.stream().filter(group -> group != owner)
                 .mapToInt(group -> sharedLeading(module, group.groupId)).max().orElse(0);
-        // 3+ shared segments is a project-level prefix (e.g. com.fasterxml.jackson), where ties are
-        // fine; 2 shared segments is only the org (e.g. org.eclipse, com.google), so require the
-        // owner to be strictly the closest, leaving sibling-project collisions unclassified.
+        // 3+ shared segments is a project-level prefix, where ties are fine; 2 shared segments is
+        // only the org, so require the owner to be strictly the closest, leaving sibling-project
+        // collisions unclassified.
         return ownerAffinity >= 3 ? ownerAffinity >= otherAffinity : ownerAffinity > otherAffinity;
     }
 

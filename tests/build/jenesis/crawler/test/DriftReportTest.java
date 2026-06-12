@@ -19,7 +19,7 @@ public class DriftReportTest {
     public void reports_a_two_owner_module_without_owners_and_emits_a_setowners_file() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
         // A republisher case: a foreign group claims the name and keeps publishing it (first and
-        // most recent), coexisting with the natural-namespace owner com.example - not a handoff.
+        // most recent), coexisting with the natural-namespace owner - not a handoff.
         store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.0", 1_600_000_000_000L));
         store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_700_000_000_000L));
         store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.1", 1_770_000_000_000L));
@@ -56,144 +56,144 @@ public class DriftReportTest {
         // No unresolved drift, but the handled module is counted in the resolved column.
         assertThat(Files.readString(data.resolve("DRIFTERS.md")))
                 .contains("| **total** | **0** | **1** |")
-                .doesNotContain("com.example.lib");
+                .doesNotContain("## republisher (1)");
     }
 
     @Test
     public void natural_owner_that_is_dominant_is_classified_shaded() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // ch.qos.logback owns ch.qos.logback.classic and is both the earliest and most-recent
-        // publisher; a fat jar shaded it once in between.
-        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("ch.qos.logback", "logback-classic", "1.0.0", 1_500_000_000_000L));
-        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("com.bundler", "fat", "9.0", 1_600_000_000_000L));
-        store.record("ch.qos.logback.classic", ModuleType.NAMED, null, coord("ch.qos.logback", "logback-classic", "1.5.34", 1_770_000_000_000L));
+        // The natural owner (the module name is under its groupId) is both the earliest and the
+        // most-recent publisher; a fat jar shaded it once in between.
+        store.record("com.example.logging.classic", ModuleType.NAMED, null, coord("com.example.logging", "logging-classic", "1.0.0", 1_500_000_000_000L));
+        store.record("com.example.logging.classic", ModuleType.NAMED, null, coord("org.bundler", "fat", "9.0", 1_600_000_000_000L));
+        store.record("com.example.logging.classic", ModuleType.NAMED, null, coord("com.example.logging", "logging-classic", "1.5.0", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## shaded (1)");
-        assertThat(report).contains("ch.qos.logback.classic");
-        assertThat(report).contains("owned by `ch.qos.logback`");
+        assertThat(report).contains("com.example.logging.classic");
+        assertThat(report).contains("owned by `com.example.logging`");
     }
 
     @Test
     public void closest_groupid_by_prefix_is_shaded_even_when_not_strictly_under() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // module com.fasterxml.jackson.kotlin is owned by groupId com.fasterxml.jackson.module:
-        // they share com.fasterxml.jackson (3 segments) but the name is not under the groupId.
-        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.fasterxml.jackson.module", "jackson-module-kotlin", "2.15", 1_500_000_000_000L));
-        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.record("com.fasterxml.jackson.kotlin", ModuleType.NAMED, null, coord("com.fasterxml.jackson.module", "jackson-module-kotlin", "2.18", 1_770_000_000_000L));
+        // The owner groupId shares the first three segments with the module name but is not a strict
+        // prefix of it (the leaf segment differs); it is still the closest, dominant publisher.
+        store.record("com.example.tool.binding", ModuleType.NAMED, null, coord("com.example.tool.core", "tool-core", "2.15", 1_500_000_000_000L));
+        store.record("com.example.tool.binding", ModuleType.NAMED, null, coord("org.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("com.example.tool.binding", ModuleType.NAMED, null, coord("com.example.tool.core", "tool-core", "2.18", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## shaded (1)");
-        assertThat(report).contains("owned by `com.fasterxml.jackson.module`");
+        assertThat(report).contains("owned by `com.example.tool.core`");
+    }
+
+    @Test
+    public void org_level_owner_is_shaded_when_strictly_closest() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // The owner shares only the two-segment org prefix with the module name, but it is the
+        // strictly-closest dominant publisher; a foreign jar shades the name.
+        store.record("org.example.help", ModuleType.NAMED, null, coord("org.example.platform", "platform", "3.0", 1_500_000_000_000L));
+        store.record("org.example.help", ModuleType.NAMED, null, coord("com.bundler", "fat", "1.0", 1_600_000_000_000L));
+        store.record("org.example.help", ModuleType.NAMED, null, coord("org.example.platform", "platform", "3.1", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("owned by `org.example.platform`");
+    }
+
+    @Test
+    public void hyphen_in_groupid_is_ignored_when_matching_the_module_name() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // A hyphenated groupId owns the un-hyphenated module name: the '-' (illegal in module names)
+        // is stripped, so the names match and it is recognised as the canonical owner.
+        store.record("com.example.foobar", ModuleType.NAMED, null, coord("com.example.foo-bar", "foo-bar", "21.0", 1_500_000_000_000L));
+        store.record("com.example.foobar", ModuleType.NAMED, null, coord("org.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("com.example.foobar", ModuleType.NAMED, null, coord("com.example.foo-bar", "foo-bar", "22.0", 1_770_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## shaded (1)");
+        assertThat(report).contains("owned by `com.example.foo-bar`");
     }
 
     @Test
     public void groupid_minus_tld_prefix_is_classified_tld_dropped() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // module ktorm.core owned by org.ktorm: drop the org top-level domain -> ktorm.
-        store.record("ktorm.core", ModuleType.NAMED, null, coord("org.ktorm", "ktorm-core", "3.0", 1_500_000_000_000L));
-        store.record("ktorm.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.record("ktorm.core", ModuleType.NAMED, null, coord("org.ktorm", "ktorm-core", "4.0", 1_770_000_000_000L));
+        // module widget.core owned by org.widget: drop the org top-level domain -> widget.
+        store.record("widget.core", ModuleType.NAMED, null, coord("org.widget", "widget-core", "3.0", 1_500_000_000_000L));
+        store.record("widget.core", ModuleType.NAMED, null, coord("org.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("widget.core", ModuleType.NAMED, null, coord("org.widget", "widget-core", "4.0", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## tld-dropped (1)");
-        assertThat(report).contains("ktorm.core");
-        assertThat(report).contains("owned by `org.ktorm`");
+        assertThat(report).contains("widget.core");
+        assertThat(report).contains("owned by `org.widget`");
     }
 
     @Test
     public void groupid_minus_two_segments_prefix_is_classified_two_segments() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // module acme.ui.core owned by org.example.acme: drop the first two segments (org.example) -> acme.
-        store.record("acme.ui.core", ModuleType.NAMED, null, coord("org.example.acme", "acme-ui-core", "1.7", 1_500_000_000_000L));
-        store.record("acme.ui.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.record("acme.ui.core", ModuleType.NAMED, null, coord("org.example.acme", "acme-ui-core", "1.9", 1_770_000_000_000L));
+        // module widget.ui.core owned by org.example.widget: drop the first two segments -> widget.
+        store.record("widget.ui.core", ModuleType.NAMED, null, coord("org.example.widget", "widget-ui-core", "1.7", 1_500_000_000_000L));
+        store.record("widget.ui.core", ModuleType.NAMED, null, coord("org.shaded.app", "fat", "1.0", 1_600_000_000_000L));
+        store.record("widget.ui.core", ModuleType.NAMED, null, coord("org.example.widget", "widget-ui-core", "1.9", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## two-segments (1)");
-        assertThat(report).contains("owned by `org.example.acme`");
+        assertThat(report).contains("owned by `org.example.widget`");
     }
 
     @Test
-    public void org_level_owner_is_shaded_when_strictly_closest() throws IOException {
+    public void reassigned_ownership_is_listed_at_the_end() throws IOException {
         ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // org.eclipse.platform shares only org.eclipse (2 segments) with org.eclipse.help, but it is
-        // the strictly-closest dominant publisher; a foreign jar shades the name.
-        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("org.eclipse.platform", "org.eclipse.help", "3.0", 1_500_000_000_000L));
-        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("com.innoventsolutions.birt", "fat", "1.0", 1_600_000_000_000L));
-        store.record("org.eclipse.help", ModuleType.NAMED, null, coord("org.eclipse.platform", "org.eclipse.help", "3.1", 1_770_000_000_000L));
+        // The first publisher (org.other) is a foreign jar; owners.tsv reassigns the module to the
+        // natural owner com.example, so it appears in the reassigned section.
+        store.record("com.example.lib", ModuleType.NAMED, null, coord("org.other", "fat", "9.0", 1_600_000_000_000L));
+        store.record("com.example.lib", ModuleType.NAMED, null, coord("com.example", "lib", "1.0", 1_700_000_000_000L));
+        store.flush();
+        Path dir = data.resolve("modules").resolve("com").resolve("example").resolve("lib");
+        Files.writeString(dir.resolve("owners.tsv"), "com.example\tallowed\norg.other\tblocked\n");
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## Reassigned and widened ownership");
+        assertThat(report).contains("com.example.lib  org.other -> com.example");
+    }
+
+    @Test
+    public void a_single_late_publication_is_a_fork_not_a_migration() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // The owner stays active; a foreign jar publishes the name exactly once, most recently. That
+        // one-off is not a credible successor, so it is kept by the owner (fork), not co-owned.
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("com.example.lib", "lib-core", "1.0", 1_500_000_000_000L));
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("com.example.lib", "lib-core", "2.0", 1_700_000_000_000L));
+        store.record("com.example.lib.core", ModuleType.NAMED, null, coord("org.oneoff", "fat", "9.0", 1_770_000_000_000L));
         store.flush();
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
-        assertThat(report).contains("## shaded (1)");
-        assertThat(report).contains("owned by `org.eclipse.platform`");
-    }
-
-    @Test
-    public void hyphen_in_groupid_is_ignored_when_matching_the_module_name() throws IOException {
-        ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // groupId com.graphql-java owns module com.graphqljava: the '-' (illegal in module names) is
-        // stripped, so the names match and it is recognised as the canonical owner.
-        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.graphql-java", "graphql-java", "21.0", 1_500_000_000_000L));
-        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.record("com.graphqljava", ModuleType.NAMED, null, coord("com.graphql-java", "graphql-java", "22.0", 1_770_000_000_000L));
-        store.flush();
-
-        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
-
-        String report = Files.readString(data.resolve("DRIFTERS.md"));
-        assertThat(report).contains("## shaded (1)");
-        assertThat(report).contains("owned by `com.graphql-java`");
-    }
-
-    @Test
-    public void explicit_rule_owner_prefix_allows_subgroups() throws IOException {
-        ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // reactor.* -> io.projectreactor (prefix): both io.projectreactor and io.projectreactor.netty
-        // are allowed, the foreign shader is blocked.
-        store.record("reactor.netty.core", ModuleType.NAMED, null, coord("io.projectreactor.netty", "reactor-netty-core", "1.1", 1_500_000_000_000L));
-        store.record("reactor.netty.core", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_600_000_000_000L));
-        store.flush();
-
-        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
-
-        String report = Files.readString(data.resolve("DRIFTERS.md"));
-        assertThat(report).contains("## explicit-rules (1)");
-        assertThat(report).contains("owned by `io.projectreactor`");
-    }
-
-    @Test
-    public void explicit_rule_overrides_the_heuristic() throws IOException {
-        ModuleStore store = new ModuleStore(data.resolve("modules"));
-        // spring.boot.* is owned by org.springframework.boot by explicit rule, even though a shaded
-        // jar published it first (which would otherwise make org.springframework.boot a non-owner).
-        store.record("spring.boot.autoconfigure", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_400_000_000_000L));
-        store.record("spring.boot.autoconfigure", ModuleType.NAMED, null, coord("org.springframework.boot", "spring-boot-autoconfigure", "3.2", 1_700_000_000_000L));
-        store.flush();
-
-        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
-
-        String report = Files.readString(data.resolve("DRIFTERS.md"));
-        assertThat(report).contains("## explicit-rules (1)");
-        assertThat(report).contains("spring.boot.autoconfigure");
-        // The spring -> org.springframework prefix rule covers spring.boot.* (org.springframework.boot
-        // is under org.springframework), so no separate boot rule is needed.
-        assertThat(report).contains("owned by `org.springframework`");
+        assertThat(report).contains("## fork (1)");
+        assertThat(report).contains("keep `com.example.lib`");
     }
 
     private static void run(Map<String, String> properties) throws IOException {
