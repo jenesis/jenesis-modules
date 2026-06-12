@@ -176,7 +176,7 @@ public class DriftReportTest {
 
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## Reassigned and widened ownership");
-        assertThat(report).contains("com.example.lib  org.other -> com.example");
+        assertThat(report).contains("| `com.example.lib` | 1 | `org.other -> com.example` |");
     }
 
     @Test

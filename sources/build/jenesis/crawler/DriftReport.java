@@ -528,7 +528,8 @@ public final class DriftReport {
                 .append(" widened (").append(widenCount).append("): extra legal owners were allowed alongside the ")
                 .append("first publisher (e.g. a groupId migration or a co-maintained project). Modules where ")
                 .append("`owners.tsv` only confirms the first publisher are not listed. Submodules that share the ")
-                .append("same transition are collapsed into a single `prefix.*` row carrying the module count.\n\n");
+                .append("same transition are collapsed into a single `prefix.*` row; the Modules column reports how ")
+                .append("many modules that row covers.\n\n");
 
         // Group modules that share the exact same transition (same direction, implicit owner and
         // resolved owners); collapse each group's shared leading dot-prefix into one wildcard row.
@@ -553,15 +554,15 @@ public final class DriftReport {
         }
         rows.sort(Comparator.comparing(ReassignRow::widened).thenComparing(ReassignRow::label));
 
-        out.append("```\n");
+        out.append("| Kind | Module | Modules | Current owner -> new owner(s) |\n");
+        out.append("|---|---|---:|---|\n");
         for (ReassignRow row : rows) {
-            out.append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI).append("  ").append(row.label());
-            if (row.count() > 1) {
-                out.append(" (").append(row.count()).append(" modules)");
-            }
-            out.append("  ").append(row.implicitOwner()).append(" -> ").append(row.owners()).append('\n');
+            out.append("| ").append(row.widened() ? WIDEN_EMOJI : REASSIGN_EMOJI)
+                    .append(" | `").append(row.label()).append("` | ").append(row.count())
+                    .append(" | `").append(row.implicitOwner()).append(" -> ").append(row.owners())
+                    .append("` |\n");
         }
-        out.append("```\n\n");
+        out.append('\n');
     }
 
     private record ReassignRow(boolean widened, String label, int count, String implicitOwner, String owners) {
