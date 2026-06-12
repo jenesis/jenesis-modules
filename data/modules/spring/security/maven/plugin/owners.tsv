@@ -1,0 +1,3 @@
+org.springframework	allowed
+io.spring.gradle	blocked
+io.spring.security.gradle	blocked

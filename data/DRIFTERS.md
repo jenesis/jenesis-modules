@@ -4,7 +4,7 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
-| explicit-rules | 46 | 79 |
+| explicit-rules | 0 | 125 |
 | republisher | 0 | 57 |
 | migration | 0 | 1586 |
 | fork | 0 | 255 |
@@ -12,203 +12,15 @@ Generated 2026-06-12. A module *drifts* when more than one groupId publishes the
 | tld-dropped | 0 | 15 |
 | two-segments | 156 | 0 |
 | unclassified | 109 | 0 |
-| **total** | **358** | **3214** |
+| **total** | **312** | **3260** |
 | multi-owner modules scanned | 3572 | |
 | modules scanned | 36334 | |
 
 Timeline axis spans 2017-01 .. 2026-06 (today). Per group: decision `A`=allowed `B`=blocked `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
-## explicit-rules (46)
+## explicit-rules (0)
 
 Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic (e.g. spring.boot.* owned by org.springframework.boot). Proposal: allow that owner, block the rest.
-
-| count | current owner -> proposed allowed |
-|---:|---|
-| 22 | `org.springframework -> org.springframework` |
-| 8 | `io.zipkin.reporter2 -> io.zipkin.reporter2` |
-| 5 | `org.springframework.data -> org.springframework.data` |
-| 3 | `io.projectreactor.netty -> io.projectreactor.netty` |
-| 3 | `org.scala-lang -> org.scala-lang` |
-| 2 | `io.spring.gradle -> org.springframework` |
-| 1 | `io.zipkin.zipkin2 -> io.zipkin.zipkin2` |
-| 1 | `org.springframework.kafka -> org.springframework.kafka` |
-| 1 | `org.springframework.security -> org.springframework.security` |
-
-```
-spring.security.crypto  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.security         2017-11..2026-04 7.0.5        |..==================|
-  ?   org.gov4j.thirdparty.org.springframework.security 2025-04..2025-04 5.8.16-gov4j-1 |.................=..|
-spring.kafka  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.kafka            2017-09..2026-04 4.1.0-RC1    |.===================|
-  ?   ai.superstream                       2024-04..2024-05 2.8.4-alpha6 |...............=....|
-spring.data.commons  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.data             2017-10..2026-04 4.1.0-RC1    |.===================|
-  ?   com.github.iherasymenko              2020-10..2020-10 2.3.4.1.RELEASE |........=...........|
-spring.data.jdbc  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.data             2018-09..2026-04 4.1.0-RC1    |...=================|
-  ?   com.huaweicloud.gaussdb              2025-05..2025-06 3.4.0        |.................=..|
-spring.data.jpa  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.data             2017-10..2026-04 4.1.0-RC1    |.===================|
-  ?   com.github.iherasymenko              2020-10..2020-11 2.3.4.2.RELEASE |........=...........|
-spring.data.r2dbc  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework.data             2019-12..2026-04 4.1.0-RC1    |......==============|
-  ?   com.huaweicloud.gaussdb              2025-05..2025-06 3.4.0        |.................=..|
-  ?   io.github.sevenparadigms             2021-08..2022-08 4.8.8.7      |.........===........|
-spring.data.relational  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework.data             2019-09..2026-04 4.1.0-RC1    |.....===============|
-  ?   com.huaweicloud.gaussdb              2025-05..2025-06 3.4.0        |.................=..|
-spring.aop  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.aspects  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.beans  [explicit rule: owned by `org.springframework`; 4 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-  ?   com.liferay                          2023-01..2024-08 5.3.39.LIFERAY-PATCHED-1 |............====....|
-spring.context  [explicit rule: owned by `org.springframework`; 4 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-  ?   com.liferay                          2024-12..2024-12 5.3.39.LIFERAY-PATCHED-1 |................=...|
-spring.context.indexer  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.context.support  [explicit rule: owned by `org.springframework`; 3 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.core  [explicit rule: owned by `org.springframework`; 3 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.expression  [explicit rule: owned by `org.springframework`; 3 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.instrument  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.jcl  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.jdbc  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.jms  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.messaging  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.orm  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   com.liferay                          2022-03..2025-05 5.3.39.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1 |..........========..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.oxm  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.r2dbc  [explicit rule: owned by `org.springframework`; 1 other group(s) blocked]
-  ? * org.springframework                  2020-10..2026-04 6.2.18       |........============|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.test  [explicit rule: owned by `org.springframework`; 4 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.tx  [explicit rule: owned by `org.springframework`; 4 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-  ?   com.liferay                          2024-01..2024-08 5.3.39.LIFERAY-PATCHED-1 |..............==....|
-  ?   com.labun                            2020-01..2020-01 5.2.2.RELEASE.patched |......=.............|
-spring.web  [explicit rule: owned by `org.springframework`; 6 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-  ?   io.github.redteamobile               2024-11..2024-11 5.9.1.REDTEA |................=...|
-    + 1 more: io.github.tfedyanin.springframework
-spring.webflux  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-spring.webmvc  [explicit rule: owned by `org.springframework`; 3 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-  ?   com.succsoft                         2024-12..2024-12 5.3.42       |................=...|
-spring.websocket  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * org.springframework                  2017-09..2026-04 6.2.18       |.===================|
-  ?   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2 |................==..|
-  ?   net.xdob.springframework             2025-03..2025-03 5.3.41       |................=...|
-reactor.netty  [explicit rule: owned by `io.projectreactor`; 1 other group(s) blocked]
-  ? * io.projectreactor.netty              2019-09..2026-04 1.3.5        |.....===============|
-  ?   io.github.sunny-chung                2024-06..2024-06 1.1.20-patch1 |...............=....|
-reactor.netty.core  [explicit rule: owned by `io.projectreactor`; 1 other group(s) blocked]
-  ? * io.projectreactor.netty              2020-10..2026-04 1.3.5        |........============|
-  ?   io.github.sunny-chung                2024-06..2024-06 1.1.20-patch1 |...............=....|
-reactor.netty.http  [explicit rule: owned by `io.projectreactor`; 1 other group(s) blocked]
-  ? * io.projectreactor.netty              2020-10..2026-04 1.3.5        |........============|
-  ?   io.github.sunny-chung                2024-06..2024-06 1.1.20-patch1 |...............=....|
-zipkin2.reporter  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2026-03 3.5.3        |..==================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.amqp  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2026-03 3.5.3        |..==================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.beans  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2026-03 3.5.3        |..==================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.libthrift  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-06..2026-03 3.5.3        |...=================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.metrics.micrometer  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2019-03..2026-03 3.5.3        |....================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.okhttp3  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2026-03 3.5.3        |..==================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-zipkin2.reporter.urlconnection  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2026-03 3.5.3        |..==================|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-spring.security.maven.plugin  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * io.spring.gradle                     2024-01..2026-03 1.0.15       |..............======|
-  ?   io.spring.security.gradle            2025-06..2025-07 1.0.9        |.................=..|
-spring.security.release.tools.core  [explicit rule: owned by `org.springframework`; 2 other group(s) blocked]
-  ? * io.spring.gradle                     2024-01..2026-03 1.0.15       |..............======|
-  ?   io.spring.security.gradle            2025-06..2025-07 1.0.9        |.................=..|
-scala.reflect  [explicit rule: owned by `org.scala-lang`; 3 other group(s) blocked]
-  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
-  ?   ch.epfl.scala                        2024-04..2024-04 2.2.0-M4.TEST |...............=....|
-  ?   io.github.casehubdk                  2021-09..2021-09 4.0.0        |.........=..........|
-  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
-scala.library  [explicit rule: owned by `org.scala-lang`; 1 other group(s) blocked]
-  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
-  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
-scala.tools.nsc  [explicit rule: owned by `org.scala-lang`; 1 other group(s) blocked]
-  ? * org.scala-lang                       2018-03..2025-12 2.12.21      |..=================.|
-  ?   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14 |........=...........|
-zipkin2  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.zipkin2                    2018-03..2024-04 3.3.0        |..==============....|
-  ?   org.apache.zipkin.zipkin2            2019-05..2019-05 2.14.0       |.....=..............|
-zipkin2.reporter.kafka08  [explicit rule: owned by `io.zipkin`; 1 other group(s) blocked]
-  ? * io.zipkin.reporter2                  2018-03..2023-12 2.16.5       |..=============.....|
-  ?   org.apache.zipkin.reporter2          2019-06..2019-06 2.8.3        |.....=..............|
-```
 
 ## republisher (0)
 

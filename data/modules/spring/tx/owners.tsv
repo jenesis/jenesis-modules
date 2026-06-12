@@ -1,0 +1,5 @@
+org.springframework	allowed
+com.labun	blocked
+com.liferay	blocked
+com.succsoft	blocked
+net.xdob.springframework	blocked

@@ -22,13 +22,13 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 |---|---:|
 | Total artifacts scanned | 17 368 273 |
 | Non-module artifacts | 15 459 649 |
-| Modular artifacts | 1 582 815 |
-| Total automatic modules | 1 242 292 |
+| Modular artifacts | 1 582 801 |
+| Total automatic modules | 1 242 278 |
 | Total named modules | 340 523 |
 | Total named modules with module-info version | 256 727 |
 | Distinct Maven artifacts | 653 652 |
 | Distinct module names | 39 449 |
-| Distinct automatic modules | 20 968 |
+| Distinct automatic modules | 20 966 |
 | Distinct named modules | 17 137 |
 | Distinct named modules with module-info version | 12 556 |
 | Distinct groupIds publishing modules | 5 180 |
@@ -45,7 +45,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
 | Named | 17 137 | 340 523 |
-| Automatic | 20 968 | 1 242 292 |
+| Automatic | 20 966 | 1 242 278 |
 
 ## `module-info` version field across named publications
 
@@ -119,15 +119,15 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 
 | Month | Named modules | Automatic modules | Non-modular artifacts |
 |---|---|---|---|
-| 2025-07 | `█`&nbsp;2 786 (4.8%) | `▓▓`&nbsp;4 768 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
-| 2025-08 | `█`&nbsp;2 434 (4.1%) | `▓▓`&nbsp;5 453 (9.3%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.6%) |
+| 2025-07 | `█`&nbsp;2 786 (4.8%) | `▓▓`&nbsp;4 766 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
+| 2025-08 | `█`&nbsp;2 434 (4.1%) | `▓▓`&nbsp;5 451 (9.3%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.6%) |
 | 2025-09 | `█`&nbsp;2 803 (4.3%) | `▓▓`&nbsp;5 404 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
 | 2025-10 | `█`&nbsp;2 844 (4.2%) | `▓▓`&nbsp;5 390 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (87.9%) |
-| 2025-11 | `█`&nbsp;2 427 (3.7%) | `▓▓`&nbsp;5 392 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
+| 2025-11 | `█`&nbsp;2 427 (3.7%) | `▓▓`&nbsp;5 390 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
 | 2025-12 | `█`&nbsp;2 650 (4.0%) | `▓▓`&nbsp;5 626 (8.6%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 162 (87.4%) |
 | 2026-01 | `█`&nbsp;2 891 (4.1%) | `▓▓`&nbsp;5 498 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 373 (88.0%) |
-| 2026-02 | `█`&nbsp;2 639 (3.8%) | `▓▓`&nbsp;5 524 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.2%) |
-| 2026-03 | `█`&nbsp;3 113 (3.9%) | `▓▓`&nbsp;6 696 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
+| 2026-02 | `█`&nbsp;2 639 (3.8%) | `▓▓`&nbsp;5 522 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.2%) |
+| 2026-03 | `█`&nbsp;3 113 (3.9%) | `▓▓`&nbsp;6 694 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.6%) |
 | 2026-04 | `█`&nbsp;3 397 (4.5%) | `▓▓`&nbsp;5 844 (7.7%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 955 (87.9%) |
 | 2026-05 | `█`&nbsp;3 412 (4.5%) | `▓▓`&nbsp;5 346 (7.1%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 517 (88.4%) |
 | 2026-06 | `█`&nbsp;73 (3.5%) | `▓`&nbsp;21 (1.0%) | `░`&nbsp;2 015 (95.5%) |
@@ -148,7 +148,7 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 
 | Shared leading dot-segments | Canonical modules |
 |---:|---:|
-| 0 | 8 415 |
+| 0 | 8 413 |
 | 1 | 1 052 |
 | 2 | 11 359 |
 | 3 | 11 962 |
