@@ -1,0 +1,4 @@
+org.eclipse.jetty	allowed
+dev.openfunction.functions	blocked
+io.prometheus.cloudwatch	blocked
+org.robotframework	blocked

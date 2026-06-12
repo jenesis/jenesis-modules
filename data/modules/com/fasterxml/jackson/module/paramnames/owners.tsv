@@ -1,0 +1,7 @@
+com.fasterxml.jackson.module	allowed
+com.araksis	blocked
+com.araksis.sjd	blocked
+com.infobip	blocked
+io.github.codgen	blocked
+io.kestra	blocked
+io.micronaut.example	blocked

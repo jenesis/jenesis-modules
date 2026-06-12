@@ -1,0 +1,3 @@
+software.amazon.awssdk	allowed
+software.amazon.lambda	allowed
+com.sonatype.central.testing.amazon	blocked

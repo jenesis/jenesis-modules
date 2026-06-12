@@ -1,0 +1,3 @@
+org.apache.logging.log4j	allowed
+org.foundationdb	blocked
+sk.annotation.projects.signito	blocked

@@ -1,0 +1,11 @@
+com.auth0	allowed
+com.jd.live	blocked
+com.sanctionco.thunder	blocked
+com.tsurugidb.iceaxe	blocked
+com.tsurugidb.tsubakuro	blocked
+de.retest	blocked
+io.kestra.plugin	blocked
+io.trino.gateway	blocked
+org.opennms.plugins.cloud.wrap	blocked
+org.restheart	blocked
+org.wiremock.extensions	blocked

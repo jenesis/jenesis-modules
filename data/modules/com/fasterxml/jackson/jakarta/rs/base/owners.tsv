@@ -1,0 +1,6 @@
+com.fasterxml.jackson.jakarta.rs	allowed
+com.docusign	blocked
+io.streamthoughts	blocked
+io.trino	blocked
+io.trino.gateway	blocked
+org.graylog2	blocked

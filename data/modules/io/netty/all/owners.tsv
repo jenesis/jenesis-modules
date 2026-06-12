@@ -1,0 +1,3 @@
+io.netty	allowed
+org.jetbrains.bsp	blocked
+org.openlabtesting.netty	blocked

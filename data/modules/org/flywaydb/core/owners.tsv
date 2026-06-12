@@ -1,0 +1,6 @@
+org.flywaydb	allowed
+org.flywaydb.enterprise	allowed
+org.flywaydb.pro	allowed
+io.gitee.gbase8s	blocked
+io.github.coolbeevip	blocked
+io.github.linceln	blocked

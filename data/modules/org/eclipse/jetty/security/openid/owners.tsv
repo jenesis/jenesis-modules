@@ -1,0 +1,4 @@
+org.eclipse.jetty	allowed
+org.eclipse.jetty.ee10	allowed
+org.eclipse.jetty.ee8	allowed
+org.eclipse.jetty.ee9	allowed

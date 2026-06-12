@@ -1,0 +1,3 @@
+org.jline	allowed
+org.apache.karaf	blocked
+org.glassfish.main.osgi-platforms	blocked

@@ -145,3 +145,4 @@
 3.11.0-rc-1	automatic	com.google.protobuf	protobuf-javalite
 3.10.0	automatic	com.google.protobuf	protobuf-javalite
 3.10.0-rc-1	automatic	com.google.protobuf	protobuf-javalite
+v20240317	automatic	com.google.javascript	closure-compiler-unshaded

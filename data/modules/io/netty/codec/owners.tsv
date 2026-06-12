@@ -1,0 +1,4 @@
+io.netty	allowed
+io.github.sunny-chung	blocked
+org.lucee	blocked
+org.opendaylight.bgpcep	blocked

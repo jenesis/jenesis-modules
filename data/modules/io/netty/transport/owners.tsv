@@ -1,0 +1,5 @@
+io.netty	allowed
+com.arcadedb	blocked
+com.sportradar.unifiedodds.sdk	blocked
+io.github.lukaszsamson	blocked
+io.karatelabs	blocked

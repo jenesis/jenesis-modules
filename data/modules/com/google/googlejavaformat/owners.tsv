@@ -1,0 +1,5 @@
+com.google.googlejavaformat	allowed
+com.carrotsearch.googlejavaformat	blocked
+com.github.tjni.beholder	blocked
+io.github.mrdolch.formatter	blocked
+io.opil	blocked

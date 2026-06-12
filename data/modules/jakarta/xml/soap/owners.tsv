@@ -1,0 +1,3 @@
+jakarta.xml.soap	allowed
+com.guicedee.services	blocked
+org.jboss.spec.jakarta.xml.soap	blocked

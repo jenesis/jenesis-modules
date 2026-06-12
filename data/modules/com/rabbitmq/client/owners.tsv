@@ -1,0 +1,3 @@
+com.rabbitmq	allowed
+com.guicedee.modules.services	blocked
+com.guicedee.services	blocked

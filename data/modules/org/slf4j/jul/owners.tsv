@@ -1,0 +1,7 @@
+org.slf4j	allowed
+com.github.shynixn	blocked
+com.github.shynixn.petblocks	blocked
+dk.mada.jaxrs	blocked
+io.trino	blocked
+org.apache.beam	blocked
+org.neo4j.procedure	blocked

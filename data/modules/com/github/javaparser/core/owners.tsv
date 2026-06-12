@@ -1,0 +1,4 @@
+com.github.javaparser	allowed
+io.joern	blocked
+org.checkerframework	blocked
+org.mvel.javaparser	blocked

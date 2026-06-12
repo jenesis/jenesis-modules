@@ -1,0 +1,8 @@
+com.fasterxml.jackson.dataformat	allowed
+com.hazelcast.jet	blocked
+com.hortonworks.registries	blocked
+com.linkedin.feathr	blocked
+com.marklogic	blocked
+com.microsoft.azure	blocked
+com.opendxl	blocked
+org.apache.beam	blocked

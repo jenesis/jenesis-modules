@@ -84,5 +84,6 @@
 4.0.2	automatic	org.axonframework	axon-spring-boot-autoconfigure
 4.0.1	automatic	org.axonframework	axon-spring-boot-autoconfigure
 4.0	automatic	org.axonframework	axon-spring-boot-autoconfigure
+4.0-RC3	automatic	org.axonframework.extensions.kafka	axon-kafka-spring-boot-autoconfigure
 4.0-RC2	automatic	org.axonframework	axon-spring-boot-autoconfigure
 4.0-RC1	automatic	org.axonframework	axon-spring-boot-autoconfigure

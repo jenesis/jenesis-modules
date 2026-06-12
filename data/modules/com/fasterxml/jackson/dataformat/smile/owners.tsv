@@ -1,0 +1,8 @@
+com.fasterxml.jackson.dataformat	allowed
+com.hazelcast.jet	blocked
+com.netflix.spectator	blocked
+io.acryl	blocked
+io.trino	blocked
+org.apache.hudi	blocked
+org.opensearch.migrations.snapshots	blocked
+org.pipservices	blocked

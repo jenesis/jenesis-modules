@@ -1,0 +1,16 @@
+org.bouncycastle	allowed
+berlin.yuna	blocked
+com.danielflower.apprunner	blocked
+com.google.gerrit	blocked
+com.google.gsp.samples	blocked
+com.squareup.keywhiz	blocked
+de.unkrig.yaml-patch	blocked
+de.unkrig.zz	blocked
+io.kestra.plugin	blocked
+io.scalecube	blocked
+org.redline-rpm	blocked
+org.sonarsource.scm.git	blocked
+org.vafer	blocked
+org.whitesource	blocked
+pl.allegro.tech.build	blocked
+pl.touk	blocked

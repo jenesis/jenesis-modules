@@ -1,0 +1,10 @@
+io.netty	allowed
+com.github.tonivade	blocked
+com.google.cloud	blocked
+com.scylladb	blocked
+de.codecentric	blocked
+io.quarkiverse.roq	blocked
+org.apache.arrow	blocked
+org.frankframework	blocked
+org.opendaylight.netconf	blocked
+software.amazon.jdbc	blocked

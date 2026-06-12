@@ -1,0 +1,3 @@
+org.eclipse.jdt	allowed
+com.vertispan.j2cl.external	blocked
+org.kie.j2cl.tools.external	blocked

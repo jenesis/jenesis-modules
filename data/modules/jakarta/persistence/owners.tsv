@@ -1,0 +1,14 @@
+jakarta.persistence	allowed
+be.vlaanderen.informatievlaanderen.vsds	blocked
+com.github.bld-commons	blocked
+com.guicedee.services	blocked
+com.trace-nest	blocked
+io.github.ngbsn	blocked
+io.github.openfeign.querydsl	blocked
+io.inji.certify	blocked
+io.mosip.certify	blocked
+org.datanucleus	blocked
+org.eclipse.ecsp	blocked
+org.jboss.weld	blocked
+org.liquibase.ext	blocked
+org.pipservices	blocked

@@ -1,0 +1,5 @@
+org.junit.platform	allowed
+com.github.michaelruocco	blocked
+org.apache.tika	blocked
+org.polystat	blocked
+org.polystat.org.polystat	blocked

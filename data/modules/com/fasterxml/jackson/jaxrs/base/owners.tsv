@@ -1,0 +1,8 @@
+com.fasterxml.jackson.jaxrs	allowed
+com.guicedee.services	blocked
+org.graylog2	blocked
+org.jboss.pnc	blocked
+org.jboss.pnc.cleaner	blocked
+org.jboss.pnc.kafkastore	blocked
+org.kie.kogito	blocked
+org.projectnessie	blocked

@@ -1,0 +1,4 @@
+com.fasterxml.jackson.datatype	allowed
+com.seeq	blocked
+io.kestra.plugin	blocked
+org.apache.beam	blocked

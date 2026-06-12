@@ -1,0 +1,3 @@
+org.hibernate	allowed
+org.hibernate.orm	allowed
+com.guicedee.services	blocked

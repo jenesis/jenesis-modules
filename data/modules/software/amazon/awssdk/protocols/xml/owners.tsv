@@ -1,0 +1,3 @@
+software.amazon.awssdk	allowed
+com.sonatype.central.testing.amazon	blocked
+io.github.hieuad33	blocked

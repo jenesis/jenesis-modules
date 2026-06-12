@@ -1,0 +1,11 @@
+org.glassfish.jaxb	allowed
+com.bandwidth.sdk	blocked
+com.intuit.quickbooks-online	blocked
+io.github.vantiv	blocked
+org.apache.iotdb	blocked
+org.codeforamerica.platform	blocked
+org.duracloud	blocked
+org.jboss.windup.web	blocked
+org.mustangproject	blocked
+org.soot-oss	blocked
+org.xtce	blocked

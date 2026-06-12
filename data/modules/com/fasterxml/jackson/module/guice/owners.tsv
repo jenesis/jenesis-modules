@@ -1,0 +1,3 @@
+com.fasterxml.jackson.module	allowed
+com.jwebmp.jackson.module	blocked
+com.jwebmp.jpms.jackson.module	blocked

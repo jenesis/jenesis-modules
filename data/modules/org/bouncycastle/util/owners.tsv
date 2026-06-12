@@ -1,0 +1,5 @@
+org.bouncycastle	allowed
+com.liferay	blocked
+com.luhuiguo.bouncycastle	blocked
+net.maritimeconnectivity.pki	blocked
+org.hyperledger.fabric	blocked

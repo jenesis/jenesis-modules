@@ -1,0 +1,13 @@
+org.assertj	allowed
+br.com.leverinfo	blocked
+com.accenture.testing.bdd	blocked
+com.github.aro-tech	blocked
+com.github.mizosoft.methanol	blocked
+com.salesforce.dockerfile-image-update	blocked
+io.github.algomaster99	blocked
+io.github.y-yabust	blocked
+io.prestosql	blocked
+io.prestosql.tempto	blocked
+org.kie	blocked
+org.projectnessie	blocked
+org.robotframework	blocked

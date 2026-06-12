@@ -1,0 +1,4 @@
+com.clickhouse	allowed
+io.github.cosmobdai.bdp	blocked
+io.kestra.plugin	blocked
+org.apache.seatunnel	blocked

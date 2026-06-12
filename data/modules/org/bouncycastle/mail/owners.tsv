@@ -1,0 +1,8 @@
+org.bouncycastle	allowed
+com.helger.toop	blocked
+com.liferay	blocked
+eu.toop	blocked
+io.archivesunleashed	blocked
+io.github.kpn-dsh	blocked
+org.apache.plc4x	blocked
+org.apache.tika	blocked

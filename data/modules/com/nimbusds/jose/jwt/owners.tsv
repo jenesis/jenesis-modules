@@ -1,0 +1,11 @@
+com.nimbusds	allowed
+com.liferay	blocked
+com.thetransactioncompany	blocked
+com.vaadin	blocked
+com.waveinformatica.skysso	blocked
+fish.payara.security.connectors	blocked
+io.github.swiyu-admin-ch	blocked
+io.okdp	blocked
+org.apache.hadoop	blocked
+org.bonitasoft.connectors	blocked
+org.project-kessel	blocked
