@@ -333,7 +333,7 @@ public final class ModuleSummary {
                 ? Instant.ofEpochMilli(state.indexTimestamp())
                 : generatedAt;
         List<String> topYears = findTopYears(dataDir.resolve("top"));
-        boolean hasBleeding = Files.isRegularFile(dataDir.resolve("top").resolve("bleeding.md"));
+        boolean hasBleeding = Files.isRegularFile(dataDir.resolve("top").resolve("BLEEDING.md"));
         Aggregator aggregator = new Aggregator(generatedAt, monthlyAnchor, topN, latestPublishedMillis);
         if (Files.isDirectory(modulesRoot)) {
             try (Stream<Path> stream = Files.walk(modulesRoot)) {
@@ -456,7 +456,7 @@ public final class ModuleSummary {
                 links.add("[" + year + "](top/" + year + ".md)");
             }
             if (stats.hasBleeding()) {
-                links.add("[bleeding edge](top/bleeding.md)");
+                links.add("[bleeding edge](top/BLEEDING.md)");
             }
             builder.append(links).append("\n\n");
         }

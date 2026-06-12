@@ -206,7 +206,7 @@ public final class TopModules {
             long cutoff = now.toEpochMilli();
             String asOf = ISO_DATE.format(now);
             List<Row> rows = buildRows(targetsByFile.get(latestFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
-            Path output = latestFile.resolveSibling("bleeding.md");
+            Path output = latestFile.resolveSibling("BLEEDING.md");
             Files.writeString(output, render(windowYear, "bleeding edge", asOf, true, listYear, rows), StandardCharsets.UTF_8);
             long withModule = rows.stream().filter(Row::modular).count();
             System.err.println("[top-modules] " + output + " (bleeding edge from " + listYear + " list, "
@@ -714,7 +714,7 @@ public final class TopModules {
         System.out.println("  -D" + PROP_BLEEDING + "=true");
         System.out.println("        Bleeding-edge mode: take the latest input list and assess it against current");
         System.out.println("        data (cutoff = the crawler's index timestamp, nothing cropped to a year end),");
-        System.out.println("        writing a single 'bleeding.md' beside it. Windows (year, three-year,");
+        System.out.println("        writing a single 'BLEEDING.md' beside it. Windows (year, three-year,");
         System.out.println("        maintained) are relative to that index timestamp, so the report re-renders");
         System.out.println("        identically until the index advances.");
     }

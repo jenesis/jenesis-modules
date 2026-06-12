@@ -1,6 +1,7 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.store.ModuleStore;
 
 public final class SetOwners {
@@ -96,18 +97,40 @@ public final class SetOwners {
 
     private static void applyOwners(ModuleStore store, String moduleName, Set<String> groups, Set<String> pairs) throws IOException {
         Path ownersFile = store.ownersPathFor(moduleName);
-        writeOwners(ownersFile, groups, pairs);
+        // Auto-block: every other groupId that publishes this module name is recorded as
+        // "blocked", so the resulting owners.tsv names every publisher and the module no longer
+        // shows up as unresolved drift. An empty allowlist is the "clear" case (write an empty
+        // owners.tsv, which rejects everything) and is left untouched.
+        Set<String> blockedGroups = new TreeSet<>();
+        if (!groups.isEmpty() || !pairs.isEmpty()) {
+            Set<String> pairGroups = new HashSet<>();
+            for (String pair : pairs) {
+                pairGroups.add(pair.substring(0, pair.indexOf('\t')));
+            }
+            for (ModuleEntry entry : store.readAllVersions(moduleName)) {
+                String groupId = entry.groupId();
+                if (!groups.contains(groupId) && !pairGroups.contains(groupId)) {
+                    blockedGroups.add(groupId);
+                }
+            }
+        }
+        writeOwners(ownersFile, groups, pairs, blockedGroups);
         store.regenerate(moduleName);
     }
 
-    private static void writeOwners(Path file, Set<String> groups, Set<String> pairs) throws IOException {
+    private static void writeOwners(Path file, Set<String> allowedGroups, Set<String> allowedPairs,
+                                    Set<String> blockedGroups) throws IOException {
         Path parent = file.getParent();
         if (parent != null) {
             Files.createDirectories(parent);
         }
-        List<String> lines = new ArrayList<>(groups.size() + pairs.size());
-        groups.stream().sorted().forEach(lines::add);
-        pairs.stream().sorted().forEach(lines::add);
+        List<String> lines = new ArrayList<>(allowedGroups.size() + allowedPairs.size() + blockedGroups.size());
+        allowedGroups.stream().sorted().forEach(group -> lines.add(group + "\tallowed"));
+        allowedPairs.stream().sorted().forEach(pair -> {
+            int tab = pair.indexOf('\t');
+            lines.add(pair.substring(0, tab) + ':' + pair.substring(tab + 1) + "\tallowed");
+        });
+        blockedGroups.stream().sorted().forEach(group -> lines.add(group + "\tblocked"));
         Path temp = file.resolveSibling(file.getFileName() + ".tmp");
         try (BufferedWriter writer = Files.newBufferedWriter(temp, StandardCharsets.UTF_8)) {
             for (String line : lines) {
@@ -133,6 +156,11 @@ public final class SetOwners {
         System.out.println("views (artifacts.tsv + modules.tsv) from the existing versions.tsv. The audit log");
         System.out.println("in versions.tsv is never mutated - re-running with a different policy is");
         System.out.println("non-destructive.");
+        System.out.println();
+        System.out.println("owners.tsv is written in two columns: '<owner>\\tallowed' for each listed owner,");
+        System.out.println("plus '<groupId>\\tblocked' for every other groupId that publishes the module name");
+        System.out.println("(auto-block), so the file names every publisher and the module is no longer");
+        System.out.println("reported as unresolved drift. An empty value writes an empty owners.tsv (rejects all).");
         System.out.println();
         System.out.println("Example properties content:");
         System.out.println("  com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core");

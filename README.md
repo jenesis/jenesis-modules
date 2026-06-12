@@ -19,6 +19,8 @@ A modular Java program that crawls Maven Central and records the Java module nam
 ```
 data/
 ├── STATUS.md                     # live progress snapshot, rewritten every checkpoint
+├── SUMMARY.md                    # module-adoption summary (regenerated daily)
+├── DRIFTERS.md                   # unresolved ownership drift report (regenerated daily)
 ├── state.properties              # crawler resume point (index chain, last applied chunk, sweep start)
 ├── modules/                      # per-module version history (what consumers care about)
 │   ├── com/fasterxml/jackson/core/versions.tsv     # full audit log (every claim ever seen)
@@ -159,30 +161,28 @@ Caveats to internalise:
 
 #### `data/modules/<dotted/path>/owners.tsv` (optional allowlist)
 
-If a module's directory contains an `owners.tsv` file, the resolver uses it as the authoritative allowlist when generating `artifacts.tsv` and `modules.tsv` for that module. `versions.tsv` itself is **not** filtered - it remains the full audit log of every claim that has ever been seen, including ones the policy now excludes. With no `owners.tsv` present, the implicit-owner rule (oldest publisher wins) is used instead. Either way, `artifacts.tsv` and `modules.tsv` are the resolved views consumers read.
+If a module's directory contains an `owners.tsv` file, the resolver uses its `allowed` entries as the authoritative allowlist when generating `artifacts.tsv` and `modules.tsv` for that module. `versions.tsv` itself is **not** filtered - it remains the full audit log of every claim that has ever been seen, including ones the policy now excludes. With no `owners.tsv` present, the implicit-owner rule (oldest publisher wins) is used instead. Either way, `artifacts.tsv` and `modules.tsv` are the resolved views consumers read.
 
-Line format - one entry per line, tab-separated:
+Line format - one entry per line, two tab-separated columns `<owner>\t<allowed|blocked>`:
 
-- `<groupId>` (no tab) — any artifactId under this groupId is allowed. Useful when you trust the entire publishing organisation.
-- `<groupId>\t<artifactId>` — only this exact coordinate is allowed. Useful when you want to explicitly admit a single repackaged or vendored artifact alongside the canonical one.
+- `<owner>` is a `<groupId>` (matches any artifactId under that group) or a `<groupId>:<artifactId>` pair (exact coordinate).
+- `allowed` puts the owner on the resolution allowlist. `blocked` records a reviewed-and-excluded groupId: it does not change resolution (a non-allowed group is excluded regardless), but it marks the decision as made, so the drift report (`data/DRIFTERS.md`) no longer flags that groupId as undecided.
 
 Lines starting with `#` and blank lines are ignored.
 
-Example - guard `com.fasterxml.jackson.core` so the resolved views only carry the canonical artifact plus the AWS third-party repackaging:
+Example - `org.commonmark` migrated its groupId from `com.atlassian.commonmark` to `org.commonmark`. Allow both so the full version history still resolves and `latest` tracks the new coordinate, and block a fat jar that shaded the module under its own coordinate (a third party should publish under its own module name, not on top of this one):
 
 ```
-# canonical
-com.fasterxml.jackson.core	jackson-core
-
-# AWS bundles their own; we want to admit that into resolution too
-software.amazon.awssdk	third-party-jackson-core
+com.atlassian.commonmark	allowed
+org.commonmark	allowed
+com.example.bundle	blocked
 ```
 
 Changing the policy is non-destructive: edit `owners.tsv` and either let the next crawl regenerate the affected modules' resolved views, or run `SetOwners` (below) for an immediate refresh. The `versions.tsv` audit log is never touched, so loosening or reverting the policy later is a pure regeneration.
 
 #### Bulk-applying an allowlist with `SetOwners`
 
-`build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` and rewrites the corresponding `versions.tsv` (plus every `versions-<classifier>.tsv`) to keep only rows whose `(groupId, artifactId)` matches the new allowlist. Versions files that end up empty are deleted.
+`build.jenesis.crawler.SetOwners` is a standalone entry point that takes one or more `.properties` files and, for each listed module: writes its `owners.tsv` - the listed owners as `allowed`, plus every other groupId that publishes the module name as `blocked` (auto-block, so the file names every publisher and the module drops off the drift report) - and regenerates the resolved views (`artifacts.tsv` + `modules.tsv`). The `versions.tsv` audit log is never touched.
 
 ```
 java sources/build/jenesis/crawler/SetOwners.java <policy.properties> [<policy.properties> ...]
@@ -193,17 +193,17 @@ Optional system property: `-Djenesis.crawler.data=<dir>` (default `data`).
 Properties syntax — one entry per line, `<module-name>=<comma-separated owners>`:
 
 ```
-# canonical Jackson plus a known repackaging
-com.fasterxml.jackson.core=com.fasterxml.jackson.core:jackson-core,software.amazon.awssdk:third-party-jackson-core
+# a groupId migration: allow both the old and the new coordinate for this module
+org.commonmark=com.atlassian.commonmark,org.commonmark
 
 # trust everything from this group
 org.junit.jupiter=org.junit.jupiter
 
-# clear the module: empty owners.tsv, drop all version rows
+# clear the module: write an empty owners.tsv (rejects every publisher)
 com.example.deprecated=
 ```
 
-Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<artifactId>` (exact pair). When the same module appears in more than one file, the union of owners is applied. An empty value clears the module: an empty `owners.tsv` is written and every existing version row is dropped.
+Each owner is either `<groupId>` (any artifact in that group) or `<groupId>:<artifactId>` (exact pair); every other groupId that publishes the module name is written as `blocked`. When the same module appears in more than one file, the union of owners is applied. An empty value clears the module: an empty `owners.tsv` is written (which rejects every publisher, so the resolved views are deleted), while `versions.tsv` is left intact.
 
 #### Generating a starter properties file with `ListOwners`
 
@@ -515,6 +515,24 @@ Properties:
 
 The unit of progress is the module: each one is regenerated atomically (temp-file + rename), so a crash leaves the catalogue in a fully recoverable state.
 
+### `build.jenesis.crawler.DriftReport`
+
+Walks `data/modules/` and writes `data/DRIFTERS.md`: every module name published by more than one groupId whose `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `blocked`). Each drift is classified, as of today, into `republisher` (a shaded/repackaged jar owns a name that belongs to a natural-namespace owner), `migration` (the groupId handed off over time - a rename or relocation), `fork` (a cross-org coordinate publishes alongside a still-active original), or `unclassified`. The report shows, per groupId, its publication range, latest version, and an activity timeline; the aggregate tables and the emit files always cover the full set even though per-category timeline detail is capped.
+
+```
+java -Djenesis.crawler.data=<dir> build.jenesis.crawler.DriftReport
+```
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.crawler.data` | `data` | Crawler data directory. |
+| `jenesis.crawler.drift.today` | now (UTC) | Reference date for time ranges and the active/dormant split. |
+| `jenesis.crawler.drift.emit` | _(none)_ | When set to a category name, also writes a `SetOwners` properties file proposing the inferred owner(s) for every module in that category. Applying it (SetOwners auto-blocks the other publishers) clears those modules from the next report. |
+| `jenesis.crawler.drift.emit.file` | `drift-<category>.properties` | Emit target path. |
+| `jenesis.crawler.drift.detail.limit` | `200` | Per-category timeline rows. Aggregates and emit files always cover the full set. |
+
 ## How the crawl works
 
 1. Fetch `nexus-maven-repository-index.properties` from Maven Central to learn the current chain id and last incremental chunk number.
@@ -668,7 +686,7 @@ Scheduled and manual triggers coexist:
 
 `build.yml` runs on every push and pull request, builds with Jenesis, and runs the full test suite. `paths-ignore` filters out commits that only touch `data/**` or `*.md`, so the crawl bot's data-only commits do not trigger CI. `build.yml` additionally skips its own job for commits whose message starts with `[release]` - those are routed exclusively through `release.yml`, which runs the same Jenesis build + test as part of staging.
 
-`.github/workflows/summary.yml` runs once a day at 06:07 UTC — deliberately picked to fall halfway between the two scheduled `crawl.yml` runs at 00:07 and 12:07. It stages the runtime jar, runs `build.jenesis.crawler.ModuleSummary` against `data/`, and commits `data/SUMMARY.md` only when it differs from `HEAD` (a content-identical regeneration is a no-op). Concurrent crawls don't block it: the summary job has no concurrency group, and a 3-attempt `git pull --rebase` retry handles the rare race where a checkpoint commit lands between this job's checkout and its push. Both the `data/**` and `**/*.md` `paths-ignore` rules in `build.yml` already exclude this commit from triggering CI rebuilds, and the `summary:` commit-message prefix doesn't match the `[release]` gate, so `release.yml` stays inert as well.
+`.github/workflows/summary.yml` runs once a day at 06:07 UTC — deliberately picked to fall halfway between the two scheduled `crawl.yml` runs at 00:07 and 12:07. It stages the runtime jar, runs `build.jenesis.crawler.TopModules` (`data/top/BLEEDING.md`), `build.jenesis.crawler.ModuleSummary` (`data/SUMMARY.md`) and `build.jenesis.crawler.DriftReport` (`data/DRIFTERS.md`) against `data/`, and commits those files only when they differ from `HEAD` (a content-identical regeneration is a no-op). Concurrent crawls don't block it: the summary job has no concurrency group, and a 3-attempt `git pull --rebase` retry handles the rare race where a checkpoint commit lands between this job's checkout and its push. Both the `data/**` and `**/*.md` `paths-ignore` rules in `build.yml` already exclude this commit from triggering CI rebuilds, and the `summary:` commit-message prefix doesn't match the `[release]` gate, so `release.yml` stays inert as well.
 
 `release.yml` triggers directly on push to `main` (not via a chain off `build.yml`) and runs whenever the commit message starts with `[release]` or `[release X.Y.Z]`. This makes release commits independent of `paths-ignore` - even an empty `[release]` commit fires the release flow. With no explicit version inside the brackets, the workflow auto-bumps the minor digit from the latest `v*` tag (`0.0.1` if no tag exists yet). The release job's "Build and stage artifacts" step invokes Jenesis with strict pinning, sources, and documentation enabled, then JReleaser publishes to Maven Central and tags `v<version>`.
 

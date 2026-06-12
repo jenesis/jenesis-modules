@@ -110,7 +110,7 @@ public class ModuleStoreTest {
     @Test
     public void record_does_not_apply_owners_filter() throws IOException {
         Path dir = Files.createDirectories(root.resolve("guarded").resolve("module"));
-        Files.writeString(dir.resolve("owners.tsv"), "trusted.group\n");
+        Files.writeString(dir.resolve("owners.tsv"), "trusted.group\tallowed\n");
 
         ModuleStore store = new ModuleStore(root);
         assertThat(store.record("guarded.module", ModuleType.NAMED, null, ts("trusted.group", "x", "1.0", null, 1L))).isTrue();
@@ -148,7 +148,7 @@ public class ModuleStoreTest {
         store.flush();
 
         Path moduleDir = root.resolve("guarded").resolve("module");
-        Files.writeString(moduleDir.resolve("owners.tsv"), "a.org\nb.org\tlib\n");
+        Files.writeString(moduleDir.resolve("owners.tsv"), "a.org\tallowed\nb.org:lib\tallowed\n");
 
         store.regenerate("guarded.module");
 
@@ -168,7 +168,7 @@ public class ModuleStoreTest {
         store.flush();
 
         Path moduleDir = root.resolve("shared").resolve("module");
-        Files.writeString(moduleDir.resolve("owners.tsv"), "canonical.org\nvendor.org\n");
+        Files.writeString(moduleDir.resolve("owners.tsv"), "canonical.org\tallowed\nvendor.org\tallowed\n");
 
         store.regenerate("shared.module");
 
@@ -191,6 +191,41 @@ public class ModuleStoreTest {
         assertThat(moduleDir.resolve("artifacts.tsv")).doesNotExist();
         // versions.tsv stays as the audit log
         assertThat(moduleDir.resolve("versions.tsv")).exists();
+    }
+
+    @Test
+    public void owners_policy_parses_allowed_and_blocked_and_blocks_resolution() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("decided.module", ModuleType.NAMED, null, ts("good.org", "lib", "1.0", null, 1_700_000_000_000L));
+        store.record("decided.module", ModuleType.NAMED, null, ts("bad.org", "imposter", "2.0", null, 1_710_000_000_000L));
+        store.flush();
+
+        Path dir = root.resolve("decided").resolve("module");
+        Files.writeString(dir.resolve("owners.tsv"), "good.org\tallowed\nbad.org\tblocked\n");
+
+        ModuleStore.OwnersPolicy policy = store.loadOwners("decided.module").orElseThrow();
+        assertThat(policy.allows("good.org", "lib")).isTrue();
+        assertThat(policy.allows("bad.org", "imposter")).isFalse();
+        // Both groups are "named" (decided), so the module is no longer drift.
+        assertThat(policy.namedGroups()).containsExactlyInAnyOrder("good.org", "bad.org");
+
+        store.regenerate("decided.module");
+        // A blocked group is excluded from resolution exactly like an unlisted one.
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv")))
+                .containsExactly("1.0\tnamed\tgood.org\tlib");
+    }
+
+    @Test
+    public void owners_policy_rejects_a_line_without_a_decision() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        store.record("strict.module", ModuleType.NAMED, null, ts("g", "a", "1.0", null, 1L));
+        store.flush();
+        Path dir = root.resolve("strict").resolve("module");
+        Files.writeString(dir.resolve("owners.tsv"), "g\n"); // missing the allowed|blocked column
+
+        assertThatThrownBy(() -> store.loadOwners("strict.module"))
+                .isInstanceOf(IllegalArgumentException.class)
+                .hasMessageContaining("allowed|blocked");
     }
 
     @Test

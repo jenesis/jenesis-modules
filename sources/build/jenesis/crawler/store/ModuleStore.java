@@ -227,7 +227,7 @@ public final class ModuleStore {
         if (!Files.isDirectory(dir)) {
             return;
         }
-        Optional<Owners> owners = loadOwners(moduleName);
+        Optional<OwnersPolicy> owners = loadOwners(moduleName);
         List<ClassifierFile> classifierFiles = listVersionFiles(dir);
 
         // Read every versions file up front so the implicit owner is derived from the union of
@@ -337,7 +337,7 @@ public final class ModuleStore {
      * only mismatching rows still loses its {@code modules.tsv} rather than silently
      * handing ownership to a runner-up groupId.
      */
-    private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
+    private static List<ModuleVersionEntry> resolveModules(List<ModuleEntry> versions, Optional<OwnersPolicy> owners, String implicitOwner) {
         if (versions.isEmpty()) {
             return List.of();
         }
@@ -375,7 +375,7 @@ public final class ModuleStore {
      * for each (Maven version) pick the row with the oldest publishedAt - that becomes
      * the canonical {@code artifacts.tsv} row.
      */
-    private static List<ArtifactsEntry> resolve(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
+    private static List<ArtifactsEntry> resolve(List<ModuleEntry> versions, Optional<OwnersPolicy> owners, String implicitOwner) {
         if (versions.isEmpty()) {
             return List.of();
         }
@@ -408,9 +408,9 @@ public final class ModuleStore {
      * solely by a non-owner (e.g. a shaded jar bundling someone else's module name) no longer
      * resolves under that module name.
      */
-    private static List<ModuleEntry> applyOwners(List<ModuleEntry> versions, Optional<Owners> owners, String implicitOwner) {
+    private static List<ModuleEntry> applyOwners(List<ModuleEntry> versions, Optional<OwnersPolicy> owners, String implicitOwner) {
         if (owners.isPresent()) {
-            Owners policy = owners.get();
+            OwnersPolicy policy = owners.get();
             return versions.stream()
                     .filter(entry -> policy.allows(entry.groupId(), entry.artifactId()))
                     .toList();
@@ -435,13 +435,23 @@ public final class ModuleStore {
                 .orElse(null);
     }
 
-    private Optional<Owners> loadOwners(String moduleName) throws IOException {
+    /**
+     * Reads a module's {@code owners.tsv} into an {@link OwnersPolicy}, or empty when the file
+     * does not exist. Every non-comment line is {@code <owner><TAB><allowed|blocked>}, where
+     * {@code owner} is a {@code groupId} or a {@code groupId:artifactId} pair (colon-separated).
+     * An "owner" is simply a groupId whose decision is {@code allowed}; {@code blocked} records a
+     * reviewed-and-excluded groupId so drift reporting can tell it apart from one nobody has
+     * decided on yet.
+     */
+    public Optional<OwnersPolicy> loadOwners(String moduleName) throws IOException {
         Path file = ownersPathFor(moduleName);
         if (!Files.exists(file)) {
             return Optional.empty();
         }
-        Set<String> groups = new HashSet<>();
-        Set<String> pairs = new HashSet<>();
+        Set<String> allowedGroups = new HashSet<>();
+        Set<String> allowedPairs = new HashSet<>();
+        Set<String> blockedGroups = new HashSet<>();
+        Set<String> blockedPairs = new HashSet<>();
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
             for (String rawLine : (Iterable<String>) lines::iterator) {
                 String line = rawLine.stripTrailing();
@@ -449,16 +459,52 @@ public final class ModuleStore {
                     continue;
                 }
                 int tab = line.indexOf('\t');
-                if (tab < 0) {
-                    groups.add(line);
-                } else if (line.indexOf('\t', tab + 1) >= 0) {
-                    throw new IllegalArgumentException("Unexpected extra tab in " + file + ": " + line);
+                if (tab < 0 || line.indexOf('\t', tab + 1) >= 0) {
+                    throw new IllegalArgumentException(
+                            "Expected '<owner>\\t<allowed|blocked>' in " + file + ": " + line);
+                }
+                String owner = line.substring(0, tab);
+                String decision = line.substring(tab + 1);
+                boolean blocked = switch (decision) {
+                    case "allowed" -> false;
+                    case "blocked" -> true;
+                    default -> throw new IllegalArgumentException(
+                            "Expected 'allowed' or 'blocked' in " + file + ": " + line);
+                };
+                int colon = owner.indexOf(':');
+                String groupId = colon < 0 ? owner : owner.substring(0, colon);
+                String artifactId = colon < 0 ? null : owner.substring(colon + 1);
+                if (groupId.isEmpty() || (artifactId != null && artifactId.isEmpty())) {
+                    throw new IllegalArgumentException("Invalid owner in " + file + ": " + line);
+                }
+                if (artifactId == null) {
+                    (blocked ? blockedGroups : allowedGroups).add(groupId);
                 } else {
-                    pairs.add(line);
+                    (blocked ? blockedPairs : allowedPairs).add(groupId + '\t' + artifactId);
                 }
             }
         }
-        return Optional.of(new Owners(Set.copyOf(groups), Set.copyOf(pairs)));
+        return Optional.of(new OwnersPolicy(allowedGroups, allowedPairs, blockedGroups, blockedPairs));
+    }
+
+    /**
+     * Reads every {@code versions[-classifier].tsv} row for a module (the full audit log across
+     * the main and all classifier views) as a flat list. Used by report/policy tooling that needs
+     * to reason about which groupIds publish a module name.
+     */
+    public List<ModuleEntry> readAllVersions(String moduleName) throws IOException {
+        if (!isValidModuleName(moduleName)) {
+            throw new IllegalArgumentException("Invalid module name: " + moduleName);
+        }
+        Path dir = moduleDir(moduleName);
+        if (!Files.isDirectory(dir)) {
+            return List.of();
+        }
+        List<ModuleEntry> all = new ArrayList<>();
+        for (ClassifierFile classifierFile : listVersionFiles(dir)) {
+            all.addAll(readVersionsFile(classifierFile.path()));
+        }
+        return all;
     }
 
     private NavigableSet<ModuleEntry> loadOrEmpty(StoreKey key) {
@@ -527,10 +573,46 @@ public final class ModuleStore {
         }
     }
 
-    private record Owners(Set<String> groups, Set<String> pairs) {
+    /**
+     * Parsed {@code owners.tsv}. {@code allowed*} entries are the resolution allowlist; only they
+     * grant inclusion. {@code blocked*} entries do not affect resolution (a non-allowed group is
+     * excluded regardless) but record an explicit "reviewed and excluded" decision, which lets
+     * drift reporting tell a handled exclusion apart from a groupId nobody has decided on yet.
+     * Entries are stored group-keyed (a bare {@code groupId}) or pair-keyed ({@code groupId\t
+     * artifactId}).
+     */
+    public record OwnersPolicy(Set<String> allowedGroups, Set<String> allowedPairs,
+                               Set<String> blockedGroups, Set<String> blockedPairs) {
 
-        boolean allows(String groupId, String artifactId) {
-            return groups.contains(groupId) || pairs.contains(groupId + '\t' + artifactId);
+        public OwnersPolicy {
+            allowedGroups = Set.copyOf(allowedGroups);
+            allowedPairs = Set.copyOf(allowedPairs);
+            blockedGroups = Set.copyOf(blockedGroups);
+            blockedPairs = Set.copyOf(blockedPairs);
+        }
+
+        /** Resolution allowlist: only explicitly allowed groups/pairs grant inclusion. */
+        public boolean allows(String groupId, String artifactId) {
+            return allowedGroups.contains(groupId)
+                    || allowedPairs.contains(groupId + '\t' + artifactId);
+        }
+
+        /** Every groupId named by the policy, whether allowed or blocked, group- or pair-level. */
+        public Set<String> namedGroups() {
+            Set<String> names = new HashSet<>(allowedGroups);
+            names.addAll(blockedGroups);
+            for (String pair : allowedPairs) {
+                names.add(pair.substring(0, pair.indexOf('\t')));
+            }
+            for (String pair : blockedPairs) {
+                names.add(pair.substring(0, pair.indexOf('\t')));
+            }
+            return names;
+        }
+
+        public boolean isEmpty() {
+            return allowedGroups.isEmpty() && allowedPairs.isEmpty()
+                    && blockedGroups.isEmpty() && blockedPairs.isEmpty();
         }
     }
 }
