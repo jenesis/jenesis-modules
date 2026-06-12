@@ -217,6 +217,8 @@ public final class ModuleSummary {
                          long namedVersionRowsWithModuleVersion,
                          int distinctModulesWithModuleVersion,
                          long resolvedModuleVersions,
+                         long invalidModuleVersionRows,
+                         int invalidModuleVersionsDistinct,
                          long scannedArtifacts,
                          long nonModuleArtifacts,
                          long distinctMavenArtifacts,
@@ -256,11 +258,19 @@ public final class ModuleSummary {
     public record NamingPatterns(int collidingModules,
                                  SortedMap<Integer, Integer> sharedSegmentHistogram,
                                  int modulesWithClassifier,
-                                 int classifierVariants) {
+                                 int classifierVariants,
+                                 int distinctClassifiers,
+                                 long classifierResolvedRows,
+                                 List<TopClassifier> topClassifiers) {
 
         public NamingPatterns {
             sharedSegmentHistogram = Collections.unmodifiableSortedMap(new TreeMap<>(sharedSegmentHistogram));
+            topClassifiers = List.copyOf(topClassifiers);
         }
+    }
+
+    /** A classifier and how many resolved module-version rows it keys, for the Classifiers table. */
+    public record TopClassifier(String classifier, long resolvedRows) {
     }
 
     /**
@@ -485,12 +495,32 @@ public final class ModuleSummary {
         builder.append("Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **")
                 .append(fmt(totals.resolvedModuleVersions()))
                 .append("** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.\n\n");
+        builder.append("Of those, **").append(fmt(totals.invalidModuleVersionRows()))
+                .append("** rows (").append(fmt(totals.invalidModuleVersionsDistinct()))
+                .append(" distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.\n\n");
 
         builder.append("## Type breakdown\n\n");
         builder.append("Named vs automatic counts. Distinct-module counts use the **latest** version's type, so a module that started automatic and is currently named counts as named. Row counts include every classifier variant.\n\n");
         builder.append("| Type | Distinct modules | Published rows |\n|---|---:|---:|\n");
         builder.append("| Named | ").append(fmt(stats.named().distinctModules())).append(" | ").append(fmt(stats.named().rows())).append(" |\n");
         builder.append("| Automatic | ").append(fmt(stats.automatic().distinctModules())).append(" | ").append(fmt(stats.automatic().rows())).append(" |\n\n");
+
+        NamingPatterns naming = stats.naming();
+        builder.append("## Classifiers\n\n");
+        builder.append("A classifier-keyed JAR (e.g. `-jakarta`, `-jdk8`, `-jar-with-dependencies`) that exposes a module is tracked as a separate `<moduleName>-<classifier>` identity with its own `versions-<classifier>.tsv` / `artifacts-<classifier>.tsv` / `modules-<classifier>.tsv`. Ownership of a module name spans its whole classifier space (the first groupId to publish the name owns every classifier under it), and the resolver serves a variant at `/module/<name>-<classifier>/...`.\n\n");
+        builder.append("| Metric | Value |\n|---|---:|\n");
+        builder.append("| Distinct classifiers | ").append(fmt(naming.distinctClassifiers())).append(" |\n");
+        builder.append("| Modules with at least one classifier variant | ").append(fmt(naming.modulesWithClassifier())).append(" |\n");
+        builder.append("| Classifier variant files (`versions-<classifier>.tsv`) | ").append(fmt(naming.classifierVariants())).append(" |\n");
+        builder.append("| Classifier-keyed resolved module-version rows | ").append(fmt(naming.classifierResolvedRows())).append(" |\n\n");
+        if (!naming.topClassifiers().isEmpty()) {
+            builder.append("Top classifiers by resolved module-version rows:\n\n");
+            builder.append("| Classifier | Resolved rows |\n|---|---:|\n");
+            for (TopClassifier entry : naming.topClassifiers()) {
+                builder.append("| `").append(entry.classifier()).append("` | ").append(fmt(entry.resolvedRows())).append(" |\n");
+            }
+            builder.append('\n');
+        }
 
         ModuleVersionCoverage coverage = stats.moduleVersionCoverage();
         LatestModuleVersionCoverage latestCoverage = stats.latestModuleVersionCoverage();
@@ -540,10 +570,8 @@ public final class ModuleSummary {
         renderMonthlyPublications(builder, stats.monthlyPublications());
 
         builder.append("## Naming patterns\n\n");
-        builder.append("How module names relate to their publishing groupId and to classifier-bundled JARs. \"Classifier variants\" are non-main artifacts like `-jar-with-dependencies` or `-uber` that also produce a module; \"competing groupIds\" counts modules whose name has been published under more than one groupId across history (i.e. collisions).\n\n");
+        builder.append("How module names relate to their publishing groupId. \"Competing groupIds\" counts modules whose name has been published under more than one groupId across history (i.e. collisions). Classifier variants are summarised in the Classifiers section above.\n\n");
         builder.append("| Pattern | Modules |\n|---|---:|\n");
-        builder.append("| Has classifier variants | ").append(fmt(stats.naming().modulesWithClassifier())).append(" |\n");
-        builder.append("| Total classifier variants (across all modules) | ").append(fmt(stats.naming().classifierVariants())).append(" |\n");
         builder.append("| Multiple competing groupIds in audit history | ").append(fmt(stats.naming().collidingModules())).append(" |\n\n");
 
         builder.append("### Leading dot-segments shared with the owning groupId\n\n");
@@ -821,6 +849,11 @@ public final class ModuleSummary {
         private final Set<String> recentModularArtifacts = new HashSet<>();
         private final YearMonth monthlyWindowStart;
         private long resolvedModuleVersions;
+        private long invalidModuleVersionRows;
+        private final Set<String> invalidModuleVersions = new HashSet<>();
+        private long classifierResolvedRows;
+        private final Set<String> distinctClassifiers = new TreeSet<>();
+        private final Map<String, Long> resolvedRowsByClassifier = new HashMap<>();
 
         Aggregator(Instant generatedAt, Instant monthlyAnchor, int topN, long latestPublishedMillis) {
             this.generatedAt = Objects.requireNonNull(generatedAt, "generatedAt");
@@ -866,9 +899,28 @@ public final class ModuleSummary {
                 dirsWithClassifier.add(dir);
             }
             // Sum rows across every modules[-classifier].tsv in this directory for the Totals
-            // "Distinct module versions in resolved catalogue" tally.
+            // "Distinct module versions in resolved catalogue" tally, and side-tally the resolved
+            // module-version keys that are not valid module versions plus the per-classifier rows.
             for (ClassifierFile entry : listTsv(dir, MODULES_STEM)) {
-                resolvedModuleVersions += countTsvRows(entry.path());
+                long rows = 0;
+                for (String line : Files.readAllLines(entry.path(), StandardCharsets.UTF_8)) {
+                    if (line.isEmpty()) {
+                        continue;
+                    }
+                    rows++;
+                    int tab = line.indexOf('\t');
+                    String version = tab < 0 ? line : line.substring(0, tab);
+                    if (!validModuleVersion(version)) {
+                        invalidModuleVersionRows++;
+                        invalidModuleVersions.add(version);
+                    }
+                }
+                resolvedModuleVersions += rows;
+                if (entry.classifier() != null) {
+                    classifierResolvedRows += rows;
+                    distinctClassifiers.add(entry.classifier());
+                    resolvedRowsByClassifier.merge(entry.classifier(), rows, Long::sum);
+                }
             }
         }
 
@@ -1185,6 +1237,8 @@ public final class ModuleSummary {
                     moduleVersionExplicit + moduleVersionMismatching,
                     moduleKeysWithModuleVersion.size(),
                     resolvedModuleVersions,
+                    invalidModuleVersionRows,
+                    invalidModuleVersions.size(),
                     successfullyScanned,
                     nonModuleArtifacts,
                     distinctMavenArtifactTotal,
@@ -1202,11 +1256,20 @@ public final class ModuleSummary {
                     namedVersionsPublishedLastWeek,
                     automaticVersionsPublishedLastWeek,
                     recentNonModular);
+            List<TopClassifier> topClassifiers = resolvedRowsByClassifier.entrySet().stream()
+                    .sorted(Map.Entry.<String, Long>comparingByValue().reversed()
+                            .thenComparing(Map.Entry.comparingByKey()))
+                    .limit(15)
+                    .map(e -> new TopClassifier(e.getKey(), e.getValue()))
+                    .toList();
             NamingPatterns naming = new NamingPatterns(
                     collidingModules,
                     sharedSegmentHistogram,
                     dirsWithClassifier.size(),
-                    classifierVariants);
+                    classifierVariants,
+                    distinctClassifiers.size(),
+                    classifierResolvedRows,
+                    topClassifiers);
             List<TopLatestEntry> latestUpdates = latestPublishedByModule.entrySet().stream()
                     .filter(e -> e.getValue() >= recentCutoffMillis)
                     .sorted((a, b) -> {
@@ -1401,6 +1464,16 @@ public final class ModuleSummary {
     private static long countTsvRows(Path file) throws IOException {
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
             return lines.filter(line -> !line.isEmpty()).count();
+        }
+    }
+
+    /** Whether a resolved module-version key is a valid {@link ModuleDescriptor.Version}. */
+    private static boolean validModuleVersion(String version) {
+        try {
+            ModuleDescriptor.Version.parse(version);
+            return true;
+        } catch (IllegalArgumentException e) {
+            return false;
         }
     }
 
