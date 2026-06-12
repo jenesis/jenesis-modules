@@ -1,0 +1,7 @@
+com.jwebmp	allowed
+dev.ikm.jpms	allowed
+com.guicedee.services	blocked
+com.jwebmp.jre11	blocked
+com.jwebmp.thirdparty	blocked
+io.avaje	blocked
+jakarta.inject	blocked

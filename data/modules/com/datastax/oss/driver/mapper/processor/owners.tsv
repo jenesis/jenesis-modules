@@ -1,0 +1,4 @@
+com.datastax.oss	allowed
+com.scylladb	blocked
+com.yugabyte	blocked
+org.apache.cassandra	blocked

@@ -1,0 +1,5 @@
+org.threeten	allowed
+com.netease.arctic	blocked
+org.apache.orc	blocked
+org.liquibase.ext	blocked
+org.yupana	blocked

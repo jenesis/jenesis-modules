@@ -1,0 +1,11 @@
+org.junit.jupiter	allowed
+com.github.jnr	blocked
+com.janeluo	blocked
+com.quantego	blocked
+com.salesforce.kafka.test	blocked
+com.trendyol	blocked
+org.apache.tika	blocked
+org.caseine	blocked
+org.eclipse.pass	blocked
+org.eclipse.rdf4j	blocked
+org.junit.platform	blocked

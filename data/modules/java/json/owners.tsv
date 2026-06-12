@@ -1,0 +1,17 @@
+javax.json	allowed
+org.choco-solver	allowed
+com.amihaiemil.web	blocked
+com.artipie	blocked
+com.atomgraph.etl.json	blocked
+com.bitplan.wikifrontend	blocked
+com.onespan.integration	blocked
+com.phenixrts.edgeauth	blocked
+com.scalar-labs	blocked
+de.julielab	blocked
+jakarta.json	blocked
+net.pincette	blocked
+org.apache.sling	blocked
+org.finra.herd	blocked
+org.glassfish	blocked
+org.odftoolkit	blocked
+org.openpreservation.jhove	blocked

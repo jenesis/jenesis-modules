@@ -1,0 +1,5 @@
+com.guicedee.modules.services	allowed
+com.jwebmp.jre11	allowed
+com.guicedee.services	blocked
+com.jwebmp	blocked
+com.jwebmp.thirdparty	blocked

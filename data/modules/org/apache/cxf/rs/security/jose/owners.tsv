@@ -1,0 +1,4 @@
+org.apache.cxf	allowed
+com.liferay	blocked
+io.github.rzo1.org.apache.cxf	blocked
+org.gov4j.thirdparty.org.apache.cxf	blocked

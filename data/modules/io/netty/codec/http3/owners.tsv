@@ -1,0 +1,4 @@
+io.netty	allowed
+com.limemojito.oss.standards	blocked
+com.limemojito.oss.standards.development-test	blocked
+org.red5	blocked

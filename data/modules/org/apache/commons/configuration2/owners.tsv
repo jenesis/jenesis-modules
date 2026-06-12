@@ -1,0 +1,7 @@
+org.apache.commons	allowed
+org.neo4j.procedure	allowed
+com.databricks.labs	blocked
+com.sonatype.central.testing.amazon	blocked
+consulting.freiheitsgrade.patched	blocked
+org.bidib.com.github.markusbernhardt	blocked
+software.amazon.s3tables	blocked

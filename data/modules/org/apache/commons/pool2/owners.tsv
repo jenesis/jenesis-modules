@@ -1,0 +1,10 @@
+org.apache.commons	allowed
+org.openjproxy	allowed
+com.redis	blocked
+com.vlkan.log4j2	blocked
+io.github.caobahuong	blocked
+io.github.hexsook	blocked
+org.apache.directory.api	blocked
+org.apache.druid.extensions.contrib	blocked
+org.apache.storm	blocked
+org.noear	blocked

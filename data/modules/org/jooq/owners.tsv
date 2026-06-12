@@ -1,0 +1,5 @@
+org.jooq	allowed
+co.ntbl.dropwizard	blocked
+org.kill-bill.billing	blocked
+org.kill-bill.billing.plugin.java	blocked
+org.kill-bill.billing.plugin.java.catalog	blocked

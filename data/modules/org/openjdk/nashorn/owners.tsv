@@ -1,0 +1,8 @@
+org.openjdk.nashorn	allowed
+com.athaydes.rawhttp	blocked
+io.gdcc.export	blocked
+org.noear	blocked
+org.openidentityplatform.commons.json-crypto	blocked
+org.openidentityplatform.commons.json-schema	blocked
+org.openidentityplatform.openig	blocked
+org.tinystruct	blocked

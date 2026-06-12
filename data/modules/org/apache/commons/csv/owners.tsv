@@ -1,0 +1,15 @@
+io.github.pustike	allowed
+org.sonarsource.scanner.engine	allowed
+be.ugent.idlab.knows	blocked
+com.guicedee.modules.services	blocked
+com.guicedee.services	blocked
+com.orientechnologies	blocked
+com.wizzdi	blocked
+io.kestra.plugin	blocked
+io.telicent.jena	blocked
+io.telicent.jena.graphql	blocked
+org.apache.jena	blocked
+org.apache.pinot	blocked
+org.jetbrains.kotlinx	blocked
+org.testingisdocumenting.znai	blocked
+xyz.ottr.lutra	blocked

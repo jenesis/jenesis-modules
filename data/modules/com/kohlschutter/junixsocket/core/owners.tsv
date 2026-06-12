@@ -1,0 +1,7 @@
+com.kohlschutter.junixsocket	allowed
+com.sbbsystems.flink	allowed
+group.insyde	blocked
+io.github.kzmlabs	blocked
+io.github.kzmlabs.flinkstatefun	blocked
+org.apache.flink	blocked
+org.flinkextended	blocked

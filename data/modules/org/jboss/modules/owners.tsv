@@ -1,0 +1,4 @@
+org.jboss.modules	allowed
+org.wildfly.launcher	allowed
+net.bis5.excella	blocked
+org.wildfly.deployment	blocked

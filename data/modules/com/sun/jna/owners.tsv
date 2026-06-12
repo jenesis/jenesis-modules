@@ -1,0 +1,7 @@
+com.blazemeter.jmeter	allowed
+net.java.dev.jna	allowed
+com.guicedee.modules.services	blocked
+com.guicedee.services	blocked
+one.gfw	blocked
+org.elasticsearch	blocked
+org.glavo.hmcl	blocked

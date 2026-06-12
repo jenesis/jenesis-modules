@@ -1,0 +1,3 @@
+com.yugabyte	allowed
+io.r2dbc	allowed
+org.postgresql	blocked

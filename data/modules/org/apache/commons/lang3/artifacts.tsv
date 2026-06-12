@@ -6,3 +6,4 @@
 3.8	automatic	org.apache.commons	commons-lang3
 3.7	automatic	org.apache.commons	commons-lang3
 3.6	automatic	org.apache.commons	commons-lang3
+1.0.0-slim	named	ai.platon.gora	gora-mongodb-shaded

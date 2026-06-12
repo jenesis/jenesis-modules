@@ -1,0 +1,15 @@
+com.mobius-software.plugins	allowed
+org.glassfish	allowed
+com.github.mibo	blocked
+com.jcabi	blocked
+com.sebastian-daschner	blocked
+com.smartcar.sdk	blocked
+com.sudicode	blocked
+cz.cuni.mff.d3s.spl	blocked
+io.hops	blocked
+net.consensys.quorum.tessera	blocked
+net.corda	blocked
+org.hyperledger.fabric-sdk-java	blocked
+org.realityforge.revapi.diff	blocked
+org.realityforge.sqlserver.ssrs	blocked
+tech.b180.cordaptor	blocked

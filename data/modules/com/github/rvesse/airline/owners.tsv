@@ -1,0 +1,4 @@
+com.github.rvesse	allowed
+io.stargate.starter	blocked
+org.apache.seatunnel	blocked
+org.graylog2	blocked

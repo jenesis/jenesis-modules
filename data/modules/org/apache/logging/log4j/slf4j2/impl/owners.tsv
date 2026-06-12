@@ -1,0 +1,7 @@
+org.apache.logging.log4j	allowed
+io.github.alien-tools	blocked
+io.github.giis-uniovi	blocked
+io.kroxylicious	blocked
+net.corda	blocked
+org.apache.tika	blocked
+xyz.gianlu.librespot	blocked

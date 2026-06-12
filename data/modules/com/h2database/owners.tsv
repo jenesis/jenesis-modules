@@ -1,0 +1,4 @@
+ai.platon.pulsar	allowed
+com.h2database	allowed
+net.xdob.h2db	blocked
+org.lucee	blocked

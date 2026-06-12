@@ -1,0 +1,16 @@
+org.codehaus.woodstox	allowed
+com.exasol	blocked
+com.github.zuinnote	blocked
+com.graphhopper	blocked
+com.ibm.jsonata4java	blocked
+com.microsoft.azure	blocked
+com.onelogin	blocked
+de.wenzlaff.linkchecker	blocked
+io.github.jeff-tian	blocked
+io.github.no-dumps	blocked
+io.github.tmgg	blocked
+io.indextables	blocked
+org.apache.jackrabbit	blocked
+org.apache.phoenix	blocked
+org.apache.tez	blocked
+org.hpccsystems	blocked

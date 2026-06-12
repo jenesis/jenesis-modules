@@ -1,0 +1,3 @@
+org.glassfish.jaxb	allowed
+cn.lzgabel.jaxb.xml.bind	blocked
+com.sun.xml.bind	blocked

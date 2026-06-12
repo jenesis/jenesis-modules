@@ -1,0 +1,3 @@
+com.spotify	allowed
+org.hyperledger.fabric-sdk-java	allowed
+org.hyperledger.fabric	blocked

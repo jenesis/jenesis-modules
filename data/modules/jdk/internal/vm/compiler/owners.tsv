@@ -1,0 +1,3 @@
+org.graalvm.compiler	allowed
+io.vertx	blocked
+org.linuxforhealth.fhir	blocked

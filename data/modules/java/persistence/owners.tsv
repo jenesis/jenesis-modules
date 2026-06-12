@@ -1,0 +1,5 @@
+com.guicedee.services	allowed
+javax.persistence	allowed
+jakarta.persistence	blocked
+org.eclipse.persistence	blocked
+org.hibernate.javax.persistence	blocked

@@ -1,0 +1,4 @@
+io.vproxy	allowed
+org.pcap4j	allowed
+de.gematik	blocked
+de.gematik.test	blocked

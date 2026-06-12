@@ -1,0 +1,4 @@
+com.github.jsqlparser	allowed
+com.manticore-projects.jsqlformatter	allowed
+ai.starlake	blocked
+se.alipsa	blocked

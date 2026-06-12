@@ -1,0 +1,3 @@
+jakarta.websocket	allowed
+io.flux-capacitor	blocked
+org.apache.tomcat	blocked

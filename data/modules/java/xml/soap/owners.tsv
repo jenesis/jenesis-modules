@@ -1,0 +1,6 @@
+javax.xml.soap	allowed
+mx.com.sw	allowed
+jakarta.xml.soap	blocked
+org.apache.servicemix.specs	blocked
+org.hpccsystems	blocked
+org.jboss.spec.javax.xml.soap	blocked

@@ -1,0 +1,4 @@
+io.pcp.agentparfait	allowed
+tech.uom.lib	allowed
+io.pcp.parfait	blocked
+org.openstreetmap.atlas	blocked

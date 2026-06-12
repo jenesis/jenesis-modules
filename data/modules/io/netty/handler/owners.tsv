@@ -1,0 +1,9 @@
+io.netty	allowed
+com.luhuiguo.netty	blocked
+eu.michael-simons.neo4j	blocked
+io.github.ousatov-ua	blocked
+io.kestra.plugin	blocked
+org.apache.flink	blocked
+org.apache.storm	blocked
+org.apache.tika	blocked
+org.lucee	blocked

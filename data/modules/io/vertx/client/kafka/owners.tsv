@@ -1,0 +1,3 @@
+io.vertx	allowed
+com.guicedee.modules.services	blocked
+io.arenadata.vertx	blocked

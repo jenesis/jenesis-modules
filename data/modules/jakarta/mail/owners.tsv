@@ -1,0 +1,10 @@
+jakarta.mail	allowed
+com.guicedee.services	blocked
+com.krux	blocked
+com.randomnoun.db	blocked
+com.sun.mail	blocked
+io.github.noeltoy	blocked
+io.gravitee.apim.rest.api.standalone	blocked
+name.bychkov	blocked
+org.camunda.bpm.extension	blocked
+org.eclipse.angus	blocked

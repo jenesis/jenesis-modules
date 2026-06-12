@@ -1,0 +1,4 @@
+jakarta.servlet.jsp	allowed
+com.guicedee.services	blocked
+com.heroku	blocked
+org.apache.tomcat	blocked

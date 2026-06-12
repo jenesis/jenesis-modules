@@ -95,3 +95,4 @@
 0.14.1-516	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed
 0.14.1-514	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed
 0.14.1-513	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed
+0.2.0	named	dev.sebastiano.spectre	spectre-agent-runtime

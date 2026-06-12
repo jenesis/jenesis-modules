@@ -1,0 +1,7 @@
+org.apache.jackrabbit	allowed
+org.apache.lucene	allowed
+com.infinilabs.easysearch	blocked
+io.anserini	blocked
+org.geckoprojects.libraries	blocked
+org.geckoprojects.search	blocked
+org.wso2.orbit.org.apache.solr	blocked

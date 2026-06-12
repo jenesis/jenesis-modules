@@ -1,0 +1,5 @@
+org.fusesource.jansi	allowed
+com.dslplatform	blocked
+com.github.jlangch	blocked
+io.github.lxgaming	blocked
+org.wildfly.core	blocked

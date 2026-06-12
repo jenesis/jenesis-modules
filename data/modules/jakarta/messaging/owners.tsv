@@ -1,0 +1,3 @@
+jakarta.jms	allowed
+org.apache.storm	allowed
+be.vlaanderen.informatievlaanderen.ldes.ldio	blocked

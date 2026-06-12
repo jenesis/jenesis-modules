@@ -1,0 +1,5 @@
+com.guicedee.modules.services	allowed
+org.mapstruct	allowed
+com.gitee.jmash	blocked
+com.guicedee.services	blocked
+io.github.errantfiddle	blocked

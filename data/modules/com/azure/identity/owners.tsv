@@ -1,0 +1,5 @@
+com.azure	allowed
+com.guicedee.modules.services	blocked
+com.guicedee.services	blocked
+com.microsoft.azure.kusto	blocked
+org.apache.jackrabbit	blocked

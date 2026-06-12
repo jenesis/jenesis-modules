@@ -1,0 +1,7 @@
+org.hibernate	allowed
+org.hibernate.orm	allowed
+com.guicedee.modules.services	blocked
+com.guicedee.services	blocked
+com.liferay	blocked
+io.github.vmodi001	blocked
+org.beangle.hibernate	blocked

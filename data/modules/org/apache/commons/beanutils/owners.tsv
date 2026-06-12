@@ -1,0 +1,8 @@
+com.guicedee.services	allowed
+org.wildfly	allowed
+com.github.bld-commons	blocked
+com.github.bordertech.wcomponents	blocked
+com.guicedee.modules.services	blocked
+kg.apc	blocked
+org.jvnet.jaxb	blocked
+org.onebusaway	blocked

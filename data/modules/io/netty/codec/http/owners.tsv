@@ -1,0 +1,8 @@
+io.netty	allowed
+com.amazonaws	blocked
+com.xuxueli	blocked
+de.fraunhofer.iosb.ilt.faaast.service	blocked
+dev.zio	blocked
+io.sapl	blocked
+org.apache.tika	blocked
+org.eclipse.ditto	blocked

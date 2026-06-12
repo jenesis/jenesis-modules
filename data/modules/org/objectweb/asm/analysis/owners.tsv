@@ -1,0 +1,3 @@
+build.please	allowed
+org.ow2.asm	allowed
+com.newrelic.agent.java	blocked

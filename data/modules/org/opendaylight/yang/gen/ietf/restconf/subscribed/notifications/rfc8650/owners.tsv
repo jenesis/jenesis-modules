@@ -1,0 +1,3 @@
+org.opendaylight.ietf.model	allowed
+org.opendaylight.mdsal.binding.model.ietf	allowed
+org.opendaylight.netconf.model	allowed

@@ -1,0 +1,6 @@
+io.appium	allowed
+org.seleniumhq.selenium	allowed
+ch.exense.step.examples	blocked
+com.github.claremontqualitymanagement.TestAutomationFramework	blocked
+io.sitoolkit.wt	blocked
+org.seleniumx	blocked

@@ -1,0 +1,6 @@
+com.kohlschutter.junixsocket	allowed
+com.sbbsystems.flink	allowed
+io.engineblock	blocked
+io.nosqlbench	blocked
+net.corda	blocked
+org.jam4s	blocked

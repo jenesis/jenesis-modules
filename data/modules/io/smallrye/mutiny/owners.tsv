@@ -1,0 +1,5 @@
+io.smallrye.reactive	allowed
+com.abavilla	blocked
+io.github.dreamlike-ocean	blocked
+io.github.the-infinite	blocked
+io.quarkus	blocked

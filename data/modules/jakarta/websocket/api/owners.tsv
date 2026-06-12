@@ -1,0 +1,3 @@
+com.guicedee.services	allowed
+jakarta.websocket	allowed
+org.apache.tomcat	blocked

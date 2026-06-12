@@ -1,0 +1,14 @@
+jakarta.json	allowed
+org.eclipse.parsson	allowed
+com.arangodb	blocked
+com.atomgraph.etl.csv	blocked
+com.exasol	blocked
+com.mparticle	blocked
+io.github.changebooks	blocked
+io.github.qudtlib	blocked
+io.quarkus	blocked
+org.avaje.experiment	blocked
+org.glassfish	blocked
+org.openpreservation.jhove	blocked
+org.spdx	blocked
+zone.cogni.semanticz	blocked

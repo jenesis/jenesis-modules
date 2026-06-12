@@ -1,0 +1,10 @@
+io.reactivex.rxjava3	allowed
+au.csiro.pathling	blocked
+com.contentful.java	blocked
+com.github.tonivade	blocked
+com.jd.live	blocked
+com.unblu.tools	blocked
+net.sansa-stack	blocked
+org.infinispan	blocked
+org.openidentityplatform.opendj	blocked
+software.amazon.nio.s3	blocked

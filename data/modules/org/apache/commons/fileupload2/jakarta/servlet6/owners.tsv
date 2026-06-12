@@ -1,0 +1,5 @@
+io.github.dhruvrawatdev	allowed
+org.apache.jena	allowed
+cloud.piranha.dist	blocked
+io.telicent	blocked
+io.telicent.smart-caches.graph	blocked

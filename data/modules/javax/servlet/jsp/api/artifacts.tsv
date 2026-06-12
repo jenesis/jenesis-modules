@@ -1,4 +1,6 @@
 62	named	com.guicedee.services	jakarta.servlet.jsp-api
+9.0.39	named	org.apache.tomcat	tomcat-jsp-api
+9.0.38	named	org.apache.tomcat	tomcat-jsp-api
 1.0.9.14-jre14	named	com.guicedee.services	jakarta.servlet.jsp-api
 1.0.9.14	named	com.guicedee.services	jakarta.servlet.jsp-api
 1.0.9.13-jre14	named	com.guicedee.services	jakarta.servlet.jsp-api

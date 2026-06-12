@@ -31,3 +31,6 @@
 6.1-alpha	named	org.ow2.asm	asm-tree
 6.0_BETA	named	org.ow2.asm	asm-tree
 6.0	named	org.ow2.asm	asm-tree
+0.0.3	named	io.killedkenny.crossfuzz	crossfuzz
+0.0.2	named	io.killedkenny.crossfuzz	crossfuzz
+0.0.1	named	io.killedkenny.crossfuzz	crossfuzz

@@ -1,0 +1,3 @@
+org.glassfish.jersey.core	allowed
+com.exasol	blocked
+com.jcabi	blocked

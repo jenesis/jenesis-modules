@@ -1,0 +1,7 @@
+com.github.hazendaz	allowed
+com.github.hazendaz.httpunit	allowed
+com.github.hazendaz.jmockit	allowed
+com.github.hazendaz.maven	allowed
+com.github.psi-probe	allowed
+au.com.acegi	blocked
+org.csveed	blocked

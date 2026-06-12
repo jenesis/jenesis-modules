@@ -1,0 +1,5 @@
+jakarta.servlet	allowed
+org.apache.tomcat	allowed
+com.guicedee.services	blocked
+org.apache.felix	blocked
+org.jboss.spec.javax.servlet	blocked

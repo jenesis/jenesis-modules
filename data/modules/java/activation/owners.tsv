@@ -1,0 +1,6 @@
+com.sun.activation	allowed
+one.gfw	allowed
+com.guicedee.services	blocked
+com.jwebmp.thirdparty	blocked
+javax.activation	blocked
+org.glassfish.metro	blocked

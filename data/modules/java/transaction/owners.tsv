@@ -1,0 +1,5 @@
+com.guicedee.services	allowed
+org.jboss.spec.javax.transaction	allowed
+com.jwebmp.thirdparty	blocked
+jakarta.transaction	blocked
+javax.transaction	blocked

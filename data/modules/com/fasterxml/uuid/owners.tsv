@@ -1,0 +1,7 @@
+com.fasterxml.uuid	allowed
+com.finture.feel	blocked
+com.joyent.manta	blocked
+io.github.arkinator	blocked
+org.camunda.feel	blocked
+org.finos.fluxnova.feel	blocked
+org.mock-server	blocked

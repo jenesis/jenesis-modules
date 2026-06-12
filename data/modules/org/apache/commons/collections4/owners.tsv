@@ -1,0 +1,6 @@
+com.guicedee.modules.services	allowed
+org.apache.commons	allowed
+com.guicedee.services	blocked
+com.jwebmp.jpms.commons	blocked
+de.jball	blocked
+io.github.qudtlib	blocked

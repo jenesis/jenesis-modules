@@ -1,0 +1,6 @@
+javax.measure	allowed
+org.locationtech.geomesa	allowed
+de.fraunhofer.iosb.ilt	blocked
+eu.europa.ec.eurostat	blocked
+io.github.ci-cmg	blocked
+org.opentripplanner	blocked

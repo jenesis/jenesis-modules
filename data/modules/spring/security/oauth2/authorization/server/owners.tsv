@@ -1,0 +1,3 @@
+org.springframework.security	allowed
+org.springframework.security.experimental	allowed
+io.springboot.security	blocked

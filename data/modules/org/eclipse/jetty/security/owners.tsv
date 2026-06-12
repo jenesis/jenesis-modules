@@ -1,0 +1,3 @@
+org.eclipse.jetty	allowed
+org.sonatype.nexus.common.components	blocked
+org.sonatype.nexus.jetty	blocked

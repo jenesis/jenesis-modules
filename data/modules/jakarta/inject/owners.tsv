@@ -1,0 +1,17 @@
+com.google.gerrit	allowed
+jakarta.inject	allowed
+com.google.template	blocked
+com.google.tsunami	blocked
+com.guicedee.services	blocked
+com.uchicom	blocked
+dev.getelements.elements	blocked
+io.avaje	blocked
+io.github.avistotelecom	blocked
+io.github.jbock-java	blocked
+io.github.jolt-community.jolt	blocked
+io.github.openfeign.querydsl	blocked
+io.joynr.java.core	blocked
+it.netgrid	blocked
+network.sloud.hytale	blocked
+org.apache.opennlp	blocked
+org.reploop	blocked

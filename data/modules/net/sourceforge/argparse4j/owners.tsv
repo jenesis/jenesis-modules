@@ -1,0 +1,4 @@
+net.sourceforge.argparse4j	allowed
+org.opendaylight.netconf	allowed
+com.squarespace.less	blocked
+eu.tneitzel	blocked

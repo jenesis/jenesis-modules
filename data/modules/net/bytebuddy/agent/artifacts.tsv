@@ -174,3 +174,4 @@
 1.7.2	automatic	net.bytebuddy	byte-buddy-agent
 1.7.1	automatic	net.bytebuddy	byte-buddy-agent
 1.7.0	automatic	net.bytebuddy	byte-buddy-agent
+1.0.0	named	com.macstab.chaos.jvm	chaos-agent-bootstrap

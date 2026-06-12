@@ -1,0 +1,15 @@
+jakarta.servlet	allowed
+cloud.piranha.core	blocked
+cloud.piranha.servlet	blocked
+com.github.xeroapi	blocked
+com.google.appengine	blocked
+com.guicedee.services	blocked
+com.heroku	blocked
+com.uchicom	blocked
+io.gitee.dqcer	blocked
+io.github.priyanhsu10	blocked
+io.hawt	blocked
+org.apache.felix	blocked
+org.apache.myfaces.core	blocked
+org.apache.tomcat	blocked
+org.tinystruct	blocked

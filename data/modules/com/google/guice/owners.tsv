@@ -1,0 +1,8 @@
+com.google.inject	allowed
+com.guicedee.modules.services	allowed
+ca.stellardrift.guice-backport	blocked
+com.guicedee.services	blocked
+com.jwebmp.inject	blocked
+io.forestframework	blocked
+org.sonatype.sisu	blocked
+ru.vyarus.guice.jakarta	blocked

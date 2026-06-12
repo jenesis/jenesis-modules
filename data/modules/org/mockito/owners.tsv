@@ -1,0 +1,3 @@
+org.apache.druid	allowed
+org.mockito	allowed
+org.apache.tinkerpop	blocked

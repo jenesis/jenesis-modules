@@ -1,0 +1,4 @@
+com.guicedee.services	allowed
+javax.validation	allowed
+jakarta.validation	blocked
+org.apache.geronimo.specs	blocked

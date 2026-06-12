@@ -1,0 +1,10 @@
+io.netty	allowed
+com.azure.cosmos.spark	blocked
+com.danielflower.apprunner	blocked
+com.github.emc-mongoose	blocked
+io.karatelabs	blocked
+io.opentelemetry.javaagent	blocked
+io.servicetalk	blocked
+io.smallrye	blocked
+io.zipkin.dependencies	blocked
+org.apache.iotdb	blocked

@@ -1,0 +1,11 @@
+javax.json.bind	allowed
+org.open-metadata	allowed
+be.valuya.cestzam	blocked
+com.github.robozonky	blocked
+com.github.robozonky.distribution	blocked
+com.manywho.sdk	blocked
+io.zeleo.application	blocked
+jakarta.json.bind	blocked
+net.redpipe	blocked
+org.jboss.pnc.build-agent	blocked
+org.keycloak	blocked

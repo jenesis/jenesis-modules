@@ -24,3 +24,4 @@
 2.0.54.Final	automatic	io.netty	netty-tcnative-boringssl-static
 2.0.53.Final	automatic	io.netty	netty-tcnative-boringssl-static
 2.0.52.Final	automatic	io.netty	netty-tcnative-boringssl-static
+0.1.4	named	io.smallrye	smallrye-openssl

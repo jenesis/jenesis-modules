@@ -1,0 +1,11 @@
+dev.failsafe	allowed
+org.apache.iceberg	allowed
+cloud.prefab	blocked
+com.corporate-startup	blocked
+com.qcefast	blocked
+com.reforge	blocked
+com.spotify.confidence	blocked
+io.kestra.plugin	blocked
+io.trino	blocked
+org.apache.gravitino	blocked
+software.amazon.s3.analyticsaccelerator	blocked

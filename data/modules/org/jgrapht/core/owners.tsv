@@ -1,0 +1,15 @@
+org.choco-solver	allowed
+org.jgrapht	allowed
+com.io7m.jgrapht	blocked
+com.squareup.sqldelight	blocked
+de.athalis.coreasm	blocked
+de.redsix	blocked
+fr.inria.gforge.spoon.labs	blocked
+fr.insee.trevas	blocked
+fr.lirmm.fca4j	blocked
+io.acryl	blocked
+io.github.bissim	blocked
+io.github.davincilll	blocked
+io.github.jodavimehran	blocked
+it.unibo.alchemist	blocked
+net.mbonnin.sqldelight	blocked

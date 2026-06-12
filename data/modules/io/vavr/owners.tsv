@@ -1,0 +1,5 @@
+io.vavr	allowed
+org.finos.legend.sdlc	allowed
+ch.randelshofer	blocked
+com.github.jlangch	blocked
+io.github.dpsoft	blocked

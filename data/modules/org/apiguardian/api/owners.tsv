@@ -1,0 +1,16 @@
+org.apache.tinkerpop	allowed
+org.apiguardian	allowed
+com.byteplus	blocked
+com.github.aquality-automation	blocked
+com.sngular	blocked
+in.testonics.omni	blocked
+io.cucumber	blocked
+io.github.p-org	blocked
+io.metersphere	blocked
+io.virtualan	blocked
+net.cnri.cordra	blocked
+net.coru	blocked
+org.apache.pinot	blocked
+org.eclipse.tycho	blocked
+org.javastro	blocked
+org.neo4j	blocked

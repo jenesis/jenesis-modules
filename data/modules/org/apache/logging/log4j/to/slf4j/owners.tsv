@@ -1,0 +1,10 @@
+org.apache.logging.log4j	allowed
+com.limemojito.oss.aws	blocked
+com.regtab.core	blocked
+io.github.mihirjoshi884	blocked
+io.github.tky0065	blocked
+io.mosip.image.compressor	blocked
+io.mosip.imagedecoder	blocked
+io.mosip.kernel	blocked
+nl.basjes.parse.useragent	blocked
+org.taxilang	blocked

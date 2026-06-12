@@ -1,0 +1,8 @@
+org.postgresql	allowed
+cn.com.kingbase	blocked
+com.alibaba.hologres	blocked
+com.enterprisedb	blocked
+com.guicedee.modules.services	blocked
+com.highgo	blocked
+com.yugabyte	blocked
+software.aws.rds	blocked

@@ -1,0 +1,5 @@
+com.guicedee.persistence	allowed
+com.jwebmp.jre10	allowed
+com.jwebmp	blocked
+com.jwebmp.guicedee.persistence	blocked
+com.jwebmp.jre11	blocked

@@ -1,0 +1,9 @@
+javax.annotation	allowed
+org.apache.tomcat	allowed
+com.guicedee.services	blocked
+com.heroku	blocked
+jakarta.annotation	blocked
+no.ssb.jpms	blocked
+one.gfw	blocked
+org.jboss.spec.javax.annotation	blocked
+org.rationalityfrontline.workaround	blocked

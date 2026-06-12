@@ -26,3 +26,4 @@
 2.1.2	named	com.kohlschutter.junixsocket	junixsocket-native-common
 2.1.1	named	com.kohlschutter.junixsocket	junixsocket-native-common
 2.1.0	named	com.kohlschutter.junixsocket	junixsocket-native-common
+1.5.0	named	com.scivicslab.turingworkflow.plugins	plugin-ssh

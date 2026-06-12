@@ -1,0 +1,3 @@
+ai.starlake	allowed
+ai.starlake.jsqltranspiler	allowed
+com.manticore-projects.jsqlformatter	blocked
