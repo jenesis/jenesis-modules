@@ -489,7 +489,7 @@ public final class DriftReport {
                             .append(pad(group.groupId, 36)).append(' ')
                             .append(YM.format(Instant.ofEpochMilli(group.first))).append("..")
                             .append(YM.format(Instant.ofEpochMilli(group.last))).append(' ')
-                            .append(pad(group.latestVersion, 12)).append(' ')
+                            .append(pad(group.latestVersion, 20)).append(' ')
                             .append('|').append(timeline(group.first, group.last, axisStart, axisEnd)).append("|\n");
                 }
                 if (ordered.size() > shown) {
