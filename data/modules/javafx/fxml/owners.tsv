@@ -1,5 +1,5 @@
 org.openjfx	allowed
-de.fraunhofer.iosb.ilt	blocked
-de.ipk-gatersleben	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jfxcore	blocked
+de.fraunhofer.iosb.ilt	rejected
+de.ipk-gatersleben	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jfxcore	rejected

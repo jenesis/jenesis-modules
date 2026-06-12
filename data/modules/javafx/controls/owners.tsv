@@ -1,7 +1,7 @@
 org.openjfx	allowed
-com.sta-soft	blocked
-io.github.martinheywang	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jetbrains.lets-plot	blocked
-org.jfxcore	blocked
-pro.verron.office-stamper	blocked
+com.sta-soft	rejected
+io.github.martinheywang	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jetbrains.lets-plot	rejected
+org.jfxcore	rejected
+pro.verron.office-stamper	rejected

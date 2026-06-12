@@ -1,2 +1,2 @@
 com.azure	allowed
-com.microsoft.azure.kusto	blocked
+com.microsoft.azure.kusto	rejected

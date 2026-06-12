@@ -1,3 +1,3 @@
 jakarta.security.auth.message	allowed
 org.apache.tomcat	allowed
-org.jboss.spec.javax.security.auth.message	blocked
+org.jboss.spec.javax.security.auth.message	rejected

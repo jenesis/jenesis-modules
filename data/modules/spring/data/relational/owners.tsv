@@ -1,2 +1,2 @@
 org.springframework.data	allowed
-com.huaweicloud.gaussdb	blocked
+com.huaweicloud.gaussdb	rejected

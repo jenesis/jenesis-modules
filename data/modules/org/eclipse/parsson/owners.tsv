@@ -1,5 +1,5 @@
 org.eclipse.parsson	allowed
-com.neuropacs	blocked
-io.github.erykkul	blocked
-io.github.stewseo	blocked
-org.openpreservation.jhove	blocked
+com.neuropacs	rejected
+io.github.erykkul	rejected
+io.github.stewseo	rejected
+org.openpreservation.jhove	rejected

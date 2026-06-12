@@ -1,7 +1,7 @@
 jakarta.el	allowed
 org.open-metadata	allowed
-com.guicedee.services	blocked
-com.heroku	blocked
-org.apache.tomcat	blocked
-org.jboss.spec.jakarta.el	blocked
-org.tomitribe.jamira	blocked
+com.guicedee.services	rejected
+com.heroku	rejected
+org.apache.tomcat	rejected
+org.jboss.spec.jakarta.el	rejected
+org.tomitribe.jamira	rejected

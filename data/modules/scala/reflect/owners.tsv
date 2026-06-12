@@ -1,4 +1,4 @@
 org.scala-lang	allowed
-ch.epfl.scala	blocked
-com.github.xuwei-k	blocked
-io.github.casehubdk	blocked
+ch.epfl.scala	rejected
+com.github.xuwei-k	rejected
+io.github.casehubdk	rejected

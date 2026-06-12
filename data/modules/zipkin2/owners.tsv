@@ -1,2 +1,2 @@
 io.zipkin.zipkin2	allowed
-org.apache.zipkin.zipkin2	blocked
+org.apache.zipkin.zipkin2	rejected

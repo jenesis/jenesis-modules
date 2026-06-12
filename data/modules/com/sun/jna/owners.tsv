@@ -1,7 +1,7 @@
 net.java.dev.jna	allowed
-com.blazemeter.jmeter	blocked
-com.guicedee.modules.services	blocked
-com.guicedee.services	blocked
-one.gfw	blocked
-org.elasticsearch	blocked
-org.glavo.hmcl	blocked
+com.blazemeter.jmeter	rejected
+com.guicedee.modules.services	rejected
+com.guicedee.services	rejected
+one.gfw	rejected
+org.elasticsearch	rejected
+org.glavo.hmcl	rejected

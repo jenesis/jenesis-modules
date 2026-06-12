@@ -1,4 +1,4 @@
 com.h2database	allowed
-ai.platon.pulsar	blocked
-net.xdob.h2db	blocked
-org.lucee	blocked
+ai.platon.pulsar	rejected
+net.xdob.h2db	rejected
+org.lucee	rejected

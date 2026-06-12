@@ -1,4 +1,4 @@
 io.netty	allowed
-com.atscale.opensource	blocked
-org.apache.storm	blocked
-org.readutf.orchestrator	blocked
+com.atscale.opensource	rejected
+org.apache.storm	rejected
+org.readutf.orchestrator	rejected

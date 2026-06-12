@@ -1,5 +1,5 @@
 org.springframework	allowed
-com.labun	blocked
-com.liferay	blocked
-com.succsoft	blocked
-net.xdob.springframework	blocked
+com.labun	rejected
+com.liferay	rejected
+com.succsoft	rejected
+net.xdob.springframework	rejected

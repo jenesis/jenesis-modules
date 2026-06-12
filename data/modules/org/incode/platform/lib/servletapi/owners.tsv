@@ -1,6 +1,6 @@
 org.incode.module.slack	allowed
 org.isisaddons.module.servletapi	allowed
-org.incode.module.errorrptjira	blocked
-org.incode.module.errorrptslack	blocked
-org.incode.module.userimpersonate	blocked
-org.incode.module.zip	blocked
+org.incode.module.errorrptjira	rejected
+org.incode.module.errorrptslack	rejected
+org.incode.module.userimpersonate	rejected
+org.incode.module.zip	rejected

@@ -1,7 +1,7 @@
 com.github.kwart.jsign	allowed
 com.github.librepdf	allowed
-com.guicedee.modules.services	blocked
-com.guicedee.services	blocked
-io.github.darkxanter	blocked
-net.ioze	blocked
-org.computate	blocked
+com.guicedee.modules.services	rejected
+com.guicedee.services	rejected
+io.github.darkxanter	rejected
+net.ioze	rejected
+org.computate	rejected

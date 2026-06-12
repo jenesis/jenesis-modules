@@ -1,3 +1,3 @@
 com.pi4j	allowed
-cn.tpkf	blocked
-cn.tpkf.rpi	blocked
+cn.tpkf	rejected
+cn.tpkf.rpi	rejected

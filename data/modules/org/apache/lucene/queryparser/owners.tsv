@@ -1,4 +1,4 @@
 org.apache.lucene	allowed
-io.anserini	blocked
-org.geckoprojects.libraries	blocked
-org.geckoprojects.search	blocked
+io.anserini	rejected
+org.geckoprojects.libraries	rejected
+org.geckoprojects.search	rejected

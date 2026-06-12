@@ -1,6 +1,6 @@
 com.sun.activation	allowed
-com.guicedee.services	blocked
-com.jwebmp.thirdparty	blocked
-javax.activation	blocked
-one.gfw	blocked
-org.glassfish.metro	blocked
+com.guicedee.services	rejected
+com.jwebmp.thirdparty	rejected
+javax.activation	rejected
+one.gfw	rejected
+org.glassfish.metro	rejected

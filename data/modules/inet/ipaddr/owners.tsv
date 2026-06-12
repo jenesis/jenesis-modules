@@ -1,8 +1,8 @@
 com.github.seancfoley	allowed
-ch.cern	blocked
-com.dmetasoul	blocked
-de.ipk-gatersleben	blocked
-me.confuser.banmanager.BanManagerLibs	blocked
-org.geneweaver	blocked
-org.neo4j.procedure	blocked
-org.odpi.egeria	blocked
+ch.cern	rejected
+com.dmetasoul	rejected
+de.ipk-gatersleben	rejected
+me.confuser.banmanager.BanManagerLibs	rejected
+org.geneweaver	rejected
+org.neo4j.procedure	rejected
+org.odpi.egeria	rejected

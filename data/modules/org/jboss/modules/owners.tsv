@@ -1,4 +1,4 @@
 org.jboss.modules	allowed
-net.bis5.excella	blocked
-org.wildfly.deployment	blocked
-org.wildfly.launcher	blocked
+net.bis5.excella	rejected
+org.wildfly.deployment	rejected
+org.wildfly.launcher	rejected

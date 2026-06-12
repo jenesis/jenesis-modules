@@ -1,3 +1,3 @@
 redis.clients	allowed
-io.github.stellhub	blocked
-today.bonfire.oss	blocked
+io.github.stellhub	rejected
+today.bonfire.oss	rejected

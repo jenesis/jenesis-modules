@@ -1,9 +1,9 @@
 org.openjfx	allowed
-com.github.nkb03	blocked
-com.googlecode.blaisemath	blocked
-com.vwo.sdk	blocked
-it.unibo.tuprolog	blocked
-it.unibo.tuprolog.argumentation	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jfxcore	blocked
-xyz.gianlu.librespot	blocked
+com.github.nkb03	rejected
+com.googlecode.blaisemath	rejected
+com.vwo.sdk	rejected
+it.unibo.tuprolog	rejected
+it.unibo.tuprolog.argumentation	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jfxcore	rejected
+xyz.gianlu.librespot	rejected

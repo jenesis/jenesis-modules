@@ -1,3 +1,3 @@
 org.eclipse.collections	allowed
-dev.ikm.jpms	blocked
-one.jpro.platform.jpms	blocked
+dev.ikm.jpms	rejected
+one.jpro.platform.jpms	rejected

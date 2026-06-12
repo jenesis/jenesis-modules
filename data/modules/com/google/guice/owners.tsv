@@ -1,8 +1,8 @@
 com.google.inject	allowed
 com.guicedee.modules.services	allowed
-ca.stellardrift.guice-backport	blocked
-com.guicedee.services	blocked
-com.jwebmp.inject	blocked
-io.forestframework	blocked
-org.sonatype.sisu	blocked
-ru.vyarus.guice.jakarta	blocked
+ca.stellardrift.guice-backport	rejected
+com.guicedee.services	rejected
+com.jwebmp.inject	rejected
+io.forestframework	rejected
+org.sonatype.sisu	rejected
+ru.vyarus.guice.jakarta	rejected

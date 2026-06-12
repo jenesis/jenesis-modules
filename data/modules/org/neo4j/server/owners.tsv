@@ -1,2 +1,2 @@
 org.neo4j.app	allowed
-org.graphfoundation.ongdb.app	blocked
+org.graphfoundation.ongdb.app	rejected

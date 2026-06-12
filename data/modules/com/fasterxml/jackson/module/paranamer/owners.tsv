@@ -1,6 +1,6 @@
 com.fasterxml.jackson.module	allowed
-ai.whylabs	blocked
-com.bisnode.kafka.authorization	blocked
-com.criteo	blocked
-org.apache.beam	blocked
-org.openpolicyagent.kafka	blocked
+ai.whylabs	rejected
+com.bisnode.kafka.authorization	rejected
+com.criteo	rejected
+org.apache.beam	rejected
+org.openpolicyagent.kafka	rejected

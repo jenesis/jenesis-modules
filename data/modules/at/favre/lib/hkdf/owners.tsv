@@ -1,4 +1,4 @@
 at.favre.lib	allowed
-net.luminis.networking	blocked
-org.jam4s	blocked
-tech.kwik	blocked
+net.luminis.networking	rejected
+org.jam4s	rejected
+tech.kwik	rejected

@@ -1,6 +1,6 @@
 commons-net	allowed
 int.esa.ccsds.mo	allowed
-com.jkoolcloud.tnt4j.streams	blocked
-com.nordstrom.ui-tools	blocked
-io.kestra.plugin	blocked
-org.apache.pinot	blocked
+com.jkoolcloud.tnt4j.streams	rejected
+com.nordstrom.ui-tools	rejected
+io.kestra.plugin	rejected
+org.apache.pinot	rejected

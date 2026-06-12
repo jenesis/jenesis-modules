@@ -1,5 +1,5 @@
 org.lwjgl	allowed
 org.lwjgl.osgi	allowed
-com.github.tommyettinger	blocked
-io.github.spair	blocked
-org.glavo.hmcl.mmachina	blocked
+com.github.tommyettinger	rejected
+io.github.spair	rejected
+org.glavo.hmcl.mmachina	rejected

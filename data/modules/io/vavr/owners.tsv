@@ -1,5 +1,5 @@
 io.vavr	allowed
-ch.randelshofer	blocked
-com.github.jlangch	blocked
-io.github.dpsoft	blocked
-org.finos.legend.sdlc	blocked
+ch.randelshofer	rejected
+com.github.jlangch	rejected
+io.github.dpsoft	rejected
+org.finos.legend.sdlc	rejected

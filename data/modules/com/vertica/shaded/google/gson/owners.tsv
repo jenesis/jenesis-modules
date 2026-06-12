@@ -1,2 +1,2 @@
 com.vertica.jdbc	allowed
-io.kestra.plugin	blocked
+io.kestra.plugin	rejected

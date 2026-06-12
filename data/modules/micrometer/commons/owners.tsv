@@ -1,2 +1,2 @@
 io.micrometer	allowed
-net.solarnetwork.external	blocked
+net.solarnetwork.external	rejected

@@ -1,4 +1,4 @@
 org.apache.lucene	allowed
 org.opensearch.migrations.snapshots	allowed
-org.geckoprojects.libraries	blocked
-org.geckoprojects.search	blocked
+org.geckoprojects.libraries	rejected
+org.geckoprojects.search	rejected

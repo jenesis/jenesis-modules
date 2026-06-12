@@ -1,4 +1,4 @@
 jakarta.servlet.jsp	allowed
-com.guicedee.services	blocked
-com.heroku	blocked
-org.apache.tomcat	blocked
+com.guicedee.services	rejected
+com.heroku	rejected
+org.apache.tomcat	rejected

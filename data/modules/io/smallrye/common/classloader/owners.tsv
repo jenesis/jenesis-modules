@@ -1,2 +1,2 @@
 io.smallrye.common	allowed
-org.jboss.narayana.lra	blocked
+org.jboss.narayana.lra	rejected

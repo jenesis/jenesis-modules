@@ -1,2 +1,2 @@
 com.fasterxml.jackson.jaxrs	allowed
-com.palantir.atlasdb	blocked
+com.palantir.atlasdb	rejected

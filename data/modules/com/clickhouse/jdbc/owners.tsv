@@ -1,4 +1,4 @@
 com.clickhouse	allowed
-io.kestra.plugin	blocked
-org.apache.seatunnel	blocked
-ru.yandex.clickhouse	blocked
+io.kestra.plugin	rejected
+org.apache.seatunnel	rejected
+ru.yandex.clickhouse	rejected

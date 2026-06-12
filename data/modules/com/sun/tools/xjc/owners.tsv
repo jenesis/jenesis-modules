@@ -1,4 +1,4 @@
 org.glassfish.jaxb	allowed
-cn.lzgabel.jaxb.xml.bind	blocked
-com.github.shynixn	blocked
-com.sun.xml.bind	blocked
+cn.lzgabel.jaxb.xml.bind	rejected
+com.github.shynixn	rejected
+com.sun.xml.bind	rejected

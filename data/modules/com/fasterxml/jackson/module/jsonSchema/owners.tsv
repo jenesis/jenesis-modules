@@ -1,4 +1,4 @@
 com.fasterxml.jackson.module	allowed
-cc.unitmesh	blocked
-io.pravega	blocked
-org.openidentityplatform.openam	blocked
+cc.unitmesh	rejected
+io.pravega	rejected
+org.openidentityplatform.openam	rejected

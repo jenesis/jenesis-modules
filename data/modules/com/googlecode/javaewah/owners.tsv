@@ -1,4 +1,4 @@
 com.googlecode.javaewah	allowed
 org.meyvn	allowed
-io.kestra.plugin	blocked
-org.liquibase.ext	blocked
+io.kestra.plugin	rejected
+org.liquibase.ext	rejected

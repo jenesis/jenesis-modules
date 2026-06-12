@@ -1,5 +1,5 @@
 org.fusesource.jansi	allowed
-com.dslplatform	blocked
-com.github.jlangch	blocked
-io.github.lxgaming	blocked
-org.wildfly.core	blocked
+com.dslplatform	rejected
+com.github.jlangch	rejected
+io.github.lxgaming	rejected
+org.wildfly.core	rejected

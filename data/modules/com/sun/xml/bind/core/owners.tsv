@@ -1,5 +1,5 @@
 com.sun.xml.bind	allowed
-com.exasol	blocked
-com.jcabi	blocked
-one.gfw	blocked
-org.takes	blocked
+com.exasol	rejected
+com.jcabi	rejected
+one.gfw	rejected
+org.takes	rejected

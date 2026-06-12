@@ -1,5 +1,5 @@
 io.smallrye.common	allowed
-ch.nerdin	blocked
-com.abavilla	blocked
-dev.ikm.jpms	blocked
-io.quarkus	blocked
+ch.nerdin	rejected
+com.abavilla	rejected
+dev.ikm.jpms	rejected
+io.quarkus	rejected

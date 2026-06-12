@@ -1,2 +1,2 @@
 com.fasterxml.jackson.dataformat	allowed
-org.apache.seatunnel	blocked
+org.apache.seatunnel	rejected

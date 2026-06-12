@@ -1,4 +1,4 @@
 org.eclipse.jdt	allowed
 org.eclipse.tycho	allowed
-com.vertispan.j2cl.external	blocked
-org.kie.j2cl.tools.external	blocked
+com.vertispan.j2cl.external	rejected
+org.kie.j2cl.tools.external	rejected

@@ -1,5 +1,5 @@
 com.kohlschutter.junixsocket	allowed
-com.scivicslab	blocked
-com.scivicslab.turingworkflow.plugins	blocked
-io.github.kzmlabs.flinkstatefun	blocked
-org.kiwiproject	blocked
+com.scivicslab	rejected
+com.scivicslab.turingworkflow.plugins	rejected
+io.github.kzmlabs.flinkstatefun	rejected
+org.kiwiproject	rejected

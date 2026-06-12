@@ -1,4 +1,4 @@
 org.springframework	allowed
-com.succsoft	blocked
-net.xdob.springframework	blocked
-org.gov4j.thirdparty.org.springframework	blocked
+com.succsoft	rejected
+net.xdob.springframework	rejected
+org.gov4j.thirdparty.org.springframework	rejected

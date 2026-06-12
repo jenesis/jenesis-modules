@@ -1,2 +1,2 @@
 org.apache.logging.log4j	allowed
-org.slf4j	blocked
+org.slf4j	rejected

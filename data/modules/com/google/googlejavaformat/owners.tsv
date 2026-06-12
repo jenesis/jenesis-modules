@@ -1,5 +1,5 @@
 com.google.googlejavaformat	allowed
-com.carrotsearch.googlejavaformat	blocked
-com.github.tjni.beholder	blocked
-io.github.mrdolch.formatter	blocked
-io.opil	blocked
+com.carrotsearch.googlejavaformat	rejected
+com.github.tjni.beholder	rejected
+io.github.mrdolch.formatter	rejected
+io.opil	rejected

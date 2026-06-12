@@ -1,3 +1,3 @@
 com.azure	allowed
-com.teragrep	blocked
-org.wso2.am.analytics.publisher	blocked
+com.teragrep	rejected
+org.wso2.am.analytics.publisher	rejected

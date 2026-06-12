@@ -1,4 +1,4 @@
 org.jruby.joni	allowed
-com.github.cukedoctor	blocked
-io.github.lightguard.documentation	blocked
-net.thisptr	blocked
+com.github.cukedoctor	rejected
+io.github.lightguard.documentation	rejected
+net.thisptr	rejected

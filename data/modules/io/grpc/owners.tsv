@@ -1,4 +1,4 @@
 io.grpc	allowed
 io.helidon.grpc	allowed
-com.clickhouse	blocked
-io.github.sunny-chung	blocked
+com.clickhouse	rejected
+io.github.sunny-chung	rejected

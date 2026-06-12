@@ -1,9 +1,9 @@
 javax.annotation	allowed
 org.apache.tomcat	allowed
-com.guicedee.services	blocked
-com.heroku	blocked
-jakarta.annotation	blocked
-no.ssb.jpms	blocked
-one.gfw	blocked
-org.jboss.spec.javax.annotation	blocked
-org.rationalityfrontline.workaround	blocked
+com.guicedee.services	rejected
+com.heroku	rejected
+jakarta.annotation	rejected
+no.ssb.jpms	rejected
+one.gfw	rejected
+org.jboss.spec.javax.annotation	rejected
+org.rationalityfrontline.workaround	rejected

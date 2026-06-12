@@ -1,4 +1,4 @@
 com.google.inject.extensions	allowed
-ca.stellardrift.guice-backport.extensions	blocked
-io.forestframework	blocked
-org.sonatype.sisu.inject	blocked
+ca.stellardrift.guice-backport.extensions	rejected
+io.forestframework	rejected
+org.sonatype.sisu.inject	rejected

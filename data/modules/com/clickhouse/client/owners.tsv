@@ -1,2 +1,2 @@
 com.clickhouse	allowed
-io.kestra.plugin	blocked
+io.kestra.plugin	rejected

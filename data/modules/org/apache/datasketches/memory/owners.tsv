@@ -6,10 +6,10 @@ org.apache.iceberg	allowed
 org.apache.paimon	allowed
 org.apache.pinot	allowed
 org.apache.seatunnel	allowed
-com.alibaba.fluss	blocked
-com.facebook.presto	blocked
-com.gelerion.spark.sketches	blocked
-io.github.pl-buiquang	blocked
-io.kestra.plugin	blocked
-org.locationtech.geomesa	blocked
-uk.gov.gchq.gaffer	blocked
+com.alibaba.fluss	rejected
+com.facebook.presto	rejected
+com.gelerion.spark.sketches	rejected
+io.github.pl-buiquang	rejected
+io.kestra.plugin	rejected
+org.locationtech.geomesa	rejected
+uk.gov.gchq.gaffer	rejected

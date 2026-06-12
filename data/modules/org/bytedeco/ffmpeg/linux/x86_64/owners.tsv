@@ -1,3 +1,3 @@
 org.bytedeco	allowed
-com.github.javacpp-nogpl	blocked
-us.ihmc	blocked
+com.github.javacpp-nogpl	rejected
+us.ihmc	rejected

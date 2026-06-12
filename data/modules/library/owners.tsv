@@ -1,3 +1,3 @@
 build.buf.prototype	allowed
 com.connectrpc	allowed
-build.buf	blocked
+build.buf	rejected

@@ -1,7 +1,7 @@
 org.mariadb.jdbc	allowed
-com.microsoft.azure	blocked
-com.system32dev	blocked
-io.kestra.plugin	blocked
-io.zipkin.dependencies	blocked
-org.metricshub	blocked
-org.opencastproject	blocked
+com.microsoft.azure	rejected
+com.system32dev	rejected
+io.kestra.plugin	rejected
+io.zipkin.dependencies	rejected
+org.metricshub	rejected
+org.opencastproject	rejected

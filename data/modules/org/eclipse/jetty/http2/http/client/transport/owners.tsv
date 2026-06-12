@@ -1,2 +1,2 @@
 org.eclipse.jetty.http2	allowed
-org.exploit	blocked
+org.exploit	rejected

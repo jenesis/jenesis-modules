@@ -1,5 +1,5 @@
 org.apache.tomcat.embed	allowed
-com.heroku	blocked
-io.anserini	blocked
-org.chenile	blocked
-org.ops4j.pax.tipi	blocked
+com.heroku	rejected
+io.anserini	rejected
+org.chenile	rejected
+org.ops4j.pax.tipi	rejected

@@ -1,5 +1,5 @@
 com.microsoft.sqlserver	allowed
-com.guicedee.modules.services	blocked
-com.guicedee.services	blocked
-com.jwebmp.jpms.sqlserver	blocked
-org.lucee	blocked
+com.guicedee.modules.services	rejected
+com.guicedee.services	rejected
+com.jwebmp.jpms.sqlserver	rejected
+org.lucee	rejected

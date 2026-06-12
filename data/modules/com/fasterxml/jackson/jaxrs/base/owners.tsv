@@ -1,8 +1,8 @@
 com.fasterxml.jackson.jaxrs	allowed
-com.guicedee.services	blocked
-org.graylog2	blocked
-org.jboss.pnc	blocked
-org.jboss.pnc.cleaner	blocked
-org.jboss.pnc.kafkastore	blocked
-org.kie.kogito	blocked
-org.projectnessie	blocked
+com.guicedee.services	rejected
+org.graylog2	rejected
+org.jboss.pnc	rejected
+org.jboss.pnc.cleaner	rejected
+org.jboss.pnc.kafkastore	rejected
+org.kie.kogito	rejected
+org.projectnessie	rejected

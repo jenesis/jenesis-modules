@@ -1,5 +1,5 @@
 org.glassfish.jaxb	allowed
-com.intuit.quickbooks-online	blocked
-com.liferay	blocked
-de.fraunhofer.iem	blocked
-org.biojava	blocked
+com.intuit.quickbooks-online	rejected
+com.liferay	rejected
+de.fraunhofer.iem	rejected
+org.biojava	rejected

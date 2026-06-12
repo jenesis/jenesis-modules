@@ -1,4 +1,4 @@
 com.google.dagger	allowed
-io.github.jbock-java	blocked
-io.github.licy5352.dagger	blocked
-me.gulya.dagger	blocked
+io.github.jbock-java	rejected
+io.github.licy5352.dagger	rejected
+me.gulya.dagger	rejected

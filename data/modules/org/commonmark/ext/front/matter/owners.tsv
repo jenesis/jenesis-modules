@@ -1,4 +1,4 @@
 org.commonmark	allowed
-com.adobe.aem	blocked
-com.atlassian.commonmark	blocked
-org.aya-prover	blocked
+com.adobe.aem	rejected
+com.atlassian.commonmark	rejected
+org.aya-prover	rejected

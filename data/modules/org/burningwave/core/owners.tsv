@@ -1,3 +1,3 @@
 org.burningwave	allowed
-com.datadoghq	blocked
-ml.karmaconfigs	blocked
+com.datadoghq	rejected
+ml.karmaconfigs	rejected

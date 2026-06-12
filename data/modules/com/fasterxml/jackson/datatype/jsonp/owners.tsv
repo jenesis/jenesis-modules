@@ -1,2 +1,2 @@
 com.fasterxml.jackson.datatype	allowed
-com.arangodb	blocked
+com.arangodb	rejected

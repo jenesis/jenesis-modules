@@ -1,2 +1,2 @@
 com.fasterxml.jackson.datatype	allowed
-com.guicedee.services	blocked
+com.guicedee.services	rejected

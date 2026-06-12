@@ -1,4 +1,4 @@
 io.javalin	allowed
-co.dotarch.paper	blocked
-ee.repl	blocked
-world.convex	blocked
+co.dotarch.paper	rejected
+ee.repl	rejected
+world.convex	rejected

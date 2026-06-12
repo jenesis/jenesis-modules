@@ -1,6 +1,6 @@
 com.guicedee.services	allowed
 io.github.cdnk	allowed
-com.github.rahulsom	blocked
-com.sonsure	blocked
-org.apache.servicemix.bundles	blocked
-org.apache.xmlbeans	blocked
+com.github.rahulsom	rejected
+com.sonsure	rejected
+org.apache.servicemix.bundles	rejected
+org.apache.xmlbeans	rejected

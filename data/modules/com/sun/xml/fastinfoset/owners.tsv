@@ -1,8 +1,8 @@
 com.sun.xml.fastinfoset	allowed
 net.corda	allowed
-com.expedia.www	blocked
-com.github.siom79.japicmp	blocked
-com.phenixrts.edgeauth	blocked
-com.scality	blocked
-org.mapsforge	blocked
-org.realityforge.keycloak.converger	blocked
+com.expedia.www	rejected
+com.github.siom79.japicmp	rejected
+com.phenixrts.edgeauth	rejected
+com.scality	rejected
+org.mapsforge	rejected
+org.realityforge.keycloak.converger	rejected

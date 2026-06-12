@@ -1,6 +1,6 @@
 net.kyori	allowed
-com.system32dev	blocked
-dev.aurelium	blocked
-io.github.wrldmap	blocked
-net.flectone	blocked
-site.system32dev.repo	blocked
+com.system32dev	rejected
+dev.aurelium	rejected
+io.github.wrldmap	rejected
+net.flectone	rejected
+site.system32dev.repo	rejected

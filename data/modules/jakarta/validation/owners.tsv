@@ -1,7 +1,7 @@
 jakarta.validation	allowed
-com.guicedee.services	blocked
-com.neko233	blocked
-dev.getelements.elements	blocked
-io.flux-capacitor	blocked
-no.nav.security	blocked
-org.pipservices	blocked
+com.guicedee.services	rejected
+com.neko233	rejected
+dev.getelements.elements	rejected
+io.flux-capacitor	rejected
+no.nav.security	rejected
+org.pipservices	rejected

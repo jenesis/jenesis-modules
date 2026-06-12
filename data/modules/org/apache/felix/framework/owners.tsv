@@ -1,5 +1,5 @@
 com.yahoo.vespa	allowed
 org.apache.felix	allowed
-dev.galasa	blocked
-io.stargate.starter	blocked
-org.lucee	blocked
+dev.galasa	rejected
+io.stargate.starter	rejected
+org.lucee	rejected

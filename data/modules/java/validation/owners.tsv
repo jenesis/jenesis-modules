@@ -1,4 +1,4 @@
 com.guicedee.services	allowed
 javax.validation	allowed
-jakarta.validation	blocked
-org.apache.geronimo.specs	blocked
+jakarta.validation	rejected
+org.apache.geronimo.specs	rejected

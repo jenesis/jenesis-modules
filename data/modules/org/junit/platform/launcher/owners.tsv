@@ -1,5 +1,5 @@
 org.junit.platform	allowed
-be.vlaanderen.informatievlaanderen.ldes.ldio	blocked
-com.yascribe	blocked
-de.gematik	blocked
-org.epics	blocked
+be.vlaanderen.informatievlaanderen.ldes.ldio	rejected
+com.yascribe	rejected
+de.gematik	rejected
+org.epics	rejected

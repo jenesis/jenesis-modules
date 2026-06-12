@@ -1,8 +1,8 @@
 org.openjdk.nashorn	allowed
-com.athaydes.rawhttp	blocked
-io.gdcc.export	blocked
-org.noear	blocked
-org.openidentityplatform.commons.json-crypto	blocked
-org.openidentityplatform.commons.json-schema	blocked
-org.openidentityplatform.openig	blocked
-org.tinystruct	blocked
+com.athaydes.rawhttp	rejected
+io.gdcc.export	rejected
+org.noear	rejected
+org.openidentityplatform.commons.json-crypto	rejected
+org.openidentityplatform.commons.json-schema	rejected
+org.openidentityplatform.openig	rejected
+org.tinystruct	rejected

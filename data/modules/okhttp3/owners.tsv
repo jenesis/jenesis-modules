@@ -1,9 +1,9 @@
 com.squareup.okhttp3	allowed
-com.datadoghq.okhttp3	blocked
-com.github.ljun20160606	blocked
-com.huanli233.okhttp3-compat	blocked
-com.squareup.wire	blocked
-io.github.mashanshui	blocked
-io.github.sunny-chung	blocked
-org.eclipse.csi	blocked
-org.testcontainers	blocked
+com.datadoghq.okhttp3	rejected
+com.github.ljun20160606	rejected
+com.huanli233.okhttp3-compat	rejected
+com.squareup.wire	rejected
+io.github.mashanshui	rejected
+io.github.sunny-chung	rejected
+org.eclipse.csi	rejected
+org.testcontainers	rejected

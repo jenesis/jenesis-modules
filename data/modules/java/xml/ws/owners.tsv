@@ -1,6 +1,6 @@
 javax.xml.ws	allowed
-com.github.pinterest	blocked
-jakarta.xml.ws	blocked
-mx.com.sw.services	blocked
-org.apache.manifoldcf	blocked
-org.apache.servicemix.specs	blocked
+com.github.pinterest	rejected
+jakarta.xml.ws	rejected
+mx.com.sw.services	rejected
+org.apache.manifoldcf	rejected
+org.apache.servicemix.specs	rejected

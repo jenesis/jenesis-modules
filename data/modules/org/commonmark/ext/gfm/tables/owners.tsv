@@ -1,5 +1,5 @@
 com.atlassian.commonmark	allowed
 io.github.dfengwei	allowed
-org.aya-prover	blocked
-org.commonmark	blocked
-se.alipsa.gi	blocked
+org.aya-prover	rejected
+org.commonmark	rejected
+se.alipsa.gi	rejected

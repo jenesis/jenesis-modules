@@ -1,2 +1,2 @@
 jakarta.websocket	allowed
-org.apache.tomcat	blocked
+org.apache.tomcat	rejected

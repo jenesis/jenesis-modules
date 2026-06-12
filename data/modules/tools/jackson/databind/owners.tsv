@@ -1,4 +1,4 @@
 tools.jackson.core	allowed
-com.smartystreets.api	blocked
-io.github.koinsaari	blocked
-software.xdev.mockserver	blocked
+com.smartystreets.api	rejected
+io.github.koinsaari	rejected
+software.xdev.mockserver	rejected

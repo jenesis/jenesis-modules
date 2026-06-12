@@ -1,7 +1,7 @@
 com.fasterxml.jackson.dataformat	allowed
-com.cefoler.configuration	blocked
-com.github.cafapi.util.flywayinstaller	blocked
-com.github.jobservice	blocked
-com.github.nanodeath	blocked
-dev.madetobuild.typedconfig	blocked
-org.monarchinitiative.vitt	blocked
+com.cefoler.configuration	rejected
+com.github.cafapi.util.flywayinstaller	rejected
+com.github.jobservice	rejected
+com.github.nanodeath	rejected
+dev.madetobuild.typedconfig	rejected
+org.monarchinitiative.vitt	rejected

@@ -1,3 +1,3 @@
 org.roaringbitmap	allowed
-org.apache.celeborn	blocked
-org.bitlap	blocked
+org.apache.celeborn	rejected
+org.bitlap	rejected

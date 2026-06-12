@@ -1,4 +1,4 @@
 org.eclipse.jetty	allowed
-dev.openfunction.functions	blocked
-io.prometheus.cloudwatch	blocked
-org.robotframework	blocked
+dev.openfunction.functions	rejected
+io.prometheus.cloudwatch	rejected
+org.robotframework	rejected

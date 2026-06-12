@@ -1,6 +1,6 @@
 org.jctools	allowed
-io.actor4j	blocked
-io.github.jponge.jct	blocked
-io.github.shangor	blocked
-io.xdag	blocked
-net.kieker-monitoring	blocked
+io.actor4j	rejected
+io.github.jponge.jct	rejected
+io.github.shangor	rejected
+io.xdag	rejected
+net.kieker-monitoring	rejected

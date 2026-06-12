@@ -1,4 +1,4 @@
 com.squareup.okio	allowed
-com.datadoghq.okio	blocked
-io.github.fabianterhorst	blocked
-org.danbrough.okio	blocked
+com.datadoghq.okio	rejected
+io.github.fabianterhorst	rejected
+org.danbrough.okio	rejected

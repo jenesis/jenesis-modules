@@ -1,5 +1,5 @@
 io.netty	allowed
-com.arcadedb	blocked
-de.bwaldvogel	blocked
-io.acryl	blocked
-org.apache.ignite	blocked
+com.arcadedb	rejected
+de.bwaldvogel	rejected
+io.acryl	rejected
+org.apache.ignite	rejected

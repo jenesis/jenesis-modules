@@ -1,4 +1,4 @@
 org.openjfx	allowed
-net.kurobako	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jfxcore	blocked
+net.kurobako	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jfxcore	rejected

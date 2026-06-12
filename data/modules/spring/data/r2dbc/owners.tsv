@@ -1,3 +1,3 @@
 org.springframework.data	allowed
-com.huaweicloud.gaussdb	blocked
-io.github.sevenparadigms	blocked
+com.huaweicloud.gaussdb	rejected
+io.github.sevenparadigms	rejected

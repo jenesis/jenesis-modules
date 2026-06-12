@@ -1,7 +1,7 @@
 org.springframework	allowed
-com.liferay	blocked
-com.succsoft	blocked
-io.github.redteamobile	blocked
-io.github.tfedyanin.springframework	blocked
-net.xdob.springframework	blocked
-org.gov4j.thirdparty.org.springframework	blocked
+com.liferay	rejected
+com.succsoft	rejected
+io.github.redteamobile	rejected
+io.github.tfedyanin.springframework	rejected
+net.xdob.springframework	rejected
+org.gov4j.thirdparty.org.springframework	rejected

@@ -1,6 +1,6 @@
 org.seleniumhq.selenium	allowed
-ch.exense.step.examples	blocked
-com.github.claremontqualitymanagement.TestAutomationFramework	blocked
-io.appium	blocked
-io.sitoolkit.wt	blocked
-org.seleniumx	blocked
+ch.exense.step.examples	rejected
+com.github.claremontqualitymanagement.TestAutomationFramework	rejected
+io.appium	rejected
+io.sitoolkit.wt	rejected
+org.seleniumx	rejected

@@ -1,2 +1,2 @@
 io.netty	allowed
-io.opentelemetry.javaagent	blocked
+io.opentelemetry.javaagent	rejected

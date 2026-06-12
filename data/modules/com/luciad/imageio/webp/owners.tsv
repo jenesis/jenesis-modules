@@ -1,6 +1,6 @@
 org.sejda.imageio	allowed
-com.gitee.jmash	blocked
-com.github.gotson	blocked
-io.github.darkxanter	blocked
-net.scenariopla.imageio	blocked
-org.lucee	blocked
+com.gitee.jmash	rejected
+com.github.gotson	rejected
+io.github.darkxanter	rejected
+net.scenariopla.imageio	rejected
+org.lucee	rejected

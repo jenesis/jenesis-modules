@@ -1,5 +1,5 @@
 io.netty	allowed
-com.arcadedb	blocked
-com.sportradar.unifiedodds.sdk	blocked
-io.github.lukaszsamson	blocked
-io.karatelabs	blocked
+com.arcadedb	rejected
+com.sportradar.unifiedodds.sdk	rejected
+io.github.lukaszsamson	rejected
+io.karatelabs	rejected

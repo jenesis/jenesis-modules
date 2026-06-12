@@ -1,4 +1,4 @@
 org.mozilla	allowed
-org.bidib.com.github.markusbernhardt	blocked
-org.meeuw	blocked
-org.mock-server	blocked
+org.bidib.com.github.markusbernhardt	rejected
+org.meeuw	rejected
+org.mock-server	rejected

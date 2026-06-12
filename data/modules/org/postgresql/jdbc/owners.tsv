@@ -1,8 +1,8 @@
 org.postgresql	allowed
-cn.com.kingbase	blocked
-com.alibaba.hologres	blocked
-com.enterprisedb	blocked
-com.guicedee.modules.services	blocked
-com.highgo	blocked
-com.yugabyte	blocked
-software.aws.rds	blocked
+cn.com.kingbase	rejected
+com.alibaba.hologres	rejected
+com.enterprisedb	rejected
+com.guicedee.modules.services	rejected
+com.highgo	rejected
+com.yugabyte	rejected
+software.aws.rds	rejected

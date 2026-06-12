@@ -1,4 +1,4 @@
 com.oracle.database.jdbc	allowed
 com.oracle.database.jdbc.debug	allowed
 com.oracle.database.observability	allowed
-org.lucee	blocked
+org.lucee	rejected

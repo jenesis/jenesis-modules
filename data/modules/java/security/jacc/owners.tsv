@@ -1,3 +1,3 @@
 jakarta.authorization	allowed
 jakarta.security.jacc	allowed
-org.jboss.spec.javax.security.jacc	blocked
+org.jboss.spec.javax.security.jacc	rejected

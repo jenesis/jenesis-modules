@@ -1,8 +1,8 @@
 org.graalvm.sdk	allowed
-com.orientechnologies	blocked
-com.protocol180	blocked
-com.r3.conclave	blocked
-com.trendyol	blocked
-io.nosqlbench	blocked
-org.kie.kogito.examples	blocked
-org.noear	blocked
+com.orientechnologies	rejected
+com.protocol180	rejected
+com.r3.conclave	rejected
+com.trendyol	rejected
+io.nosqlbench	rejected
+org.kie.kogito.examples	rejected
+org.noear	rejected

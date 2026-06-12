@@ -1,4 +1,4 @@
 org.mybatis	allowed
-com.github.huangzhouhong	blocked
-com.pig4cloud	blocked
-io.github.flyinwind1	blocked
+com.github.huangzhouhong	rejected
+com.pig4cloud	rejected
+io.github.flyinwind1	rejected

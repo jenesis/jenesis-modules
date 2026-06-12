@@ -1,3 +1,3 @@
 com.rabbitmq	allowed
-com.guicedee.modules.services	blocked
-com.guicedee.services	blocked
+com.guicedee.modules.services	rejected
+com.guicedee.services	rejected

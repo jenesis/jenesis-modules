@@ -1,8 +1,8 @@
 org.jetbrains.intellij.deps.kotlinx	allowed
 org.jetbrains.kotlinx	allowed
-com.blr19c.falowp	blocked
-dev.zabricraft	blocked
-io.github.danbeldev	blocked
-io.github.flaxoos	blocked
-org.cs124.jeed	blocked
-xyz.block	blocked
+com.blr19c.falowp	rejected
+dev.zabricraft	rejected
+io.github.danbeldev	rejected
+io.github.flaxoos	rejected
+org.cs124.jeed	rejected
+xyz.block	rejected

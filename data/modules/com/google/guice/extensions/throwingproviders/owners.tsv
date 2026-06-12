@@ -1,6 +1,6 @@
 com.google.inject.extensions	allowed
-ca.stellardrift.guice-backport.extensions	blocked
-com.jwebmp.inject.extensions	blocked
-io.forestframework	blocked
-org.sonatype.sisu.inject	blocked
-ru.vyarus.guice.jakarta	blocked
+ca.stellardrift.guice-backport.extensions	rejected
+com.jwebmp.inject.extensions	rejected
+io.forestframework	rejected
+org.sonatype.sisu.inject	rejected
+ru.vyarus.guice.jakarta	rejected

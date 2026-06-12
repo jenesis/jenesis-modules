@@ -1,2 +1,2 @@
 org.apache.tomcat.embed	allowed
-com.heroku	blocked
+com.heroku	rejected

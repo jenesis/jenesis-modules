@@ -1,5 +1,5 @@
 com.fasterxml.jackson.datatype	allowed
-com.palantir.atlasdb	blocked
-io.github.marquezproject	blocked
-io.kestra.plugin	blocked
-org.openapitools	blocked
+com.palantir.atlasdb	rejected
+io.github.marquezproject	rejected
+io.kestra.plugin	rejected
+org.openapitools	rejected

@@ -1,3 +1,3 @@
 io.dropwizard.metrics	allowed
 io.dropwizard.metrics5	allowed
-com.guicedee.modules.services	blocked
+com.guicedee.modules.services	rejected

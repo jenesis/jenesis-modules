@@ -1,7 +1,7 @@
 com.headius	allowed
 org.sahli.asciidoc.confluence.publisher	allowed
-ch.ifocusit.livingdoc	blocked
-com.lealceldeiro	blocked
-de.jcup.asp	blocked
-org.asciidoctor	blocked
-org.springframework.cloud	blocked
+ch.ifocusit.livingdoc	rejected
+com.lealceldeiro	rejected
+de.jcup.asp	rejected
+org.asciidoctor	rejected
+org.springframework.cloud	rejected

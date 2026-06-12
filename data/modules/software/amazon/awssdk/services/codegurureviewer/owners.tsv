@@ -1,2 +1,2 @@
 software.amazon.awssdk	allowed
-com.sonatype.central.testing.amazon	blocked
+com.sonatype.central.testing.amazon	rejected

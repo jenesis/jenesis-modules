@@ -1,6 +1,6 @@
 tech.pantheon.triemap	allowed
-org.opendaylight.aaa	blocked
-org.opendaylight.bgpcep	blocked
-org.opendaylight.controller	blocked
-org.opendaylight.netconf	blocked
-org.opendaylight.yangtools	blocked
+org.opendaylight.aaa	rejected
+org.opendaylight.bgpcep	rejected
+org.opendaylight.controller	rejected
+org.opendaylight.netconf	rejected
+org.opendaylight.yangtools	rejected

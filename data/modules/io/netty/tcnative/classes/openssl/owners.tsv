@@ -1,4 +1,4 @@
 io.netty	allowed
-eu.michael-simons.neo4j	blocked
-io.kestra.plugin	blocked
-org.neo4j.driver	blocked
+eu.michael-simons.neo4j	rejected
+io.kestra.plugin	rejected
+org.neo4j.driver	rejected

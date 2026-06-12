@@ -1,4 +1,4 @@
 org.bytedeco	allowed
-es.upm.etsisi	blocked
-org.deeplearning4j	blocked
-us.ihmc	blocked
+es.upm.etsisi	rejected
+org.deeplearning4j	rejected
+us.ihmc	rejected

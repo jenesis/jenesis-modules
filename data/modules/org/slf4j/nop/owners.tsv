@@ -1,6 +1,6 @@
 org.slf4j	allowed
-com.helixframework	blocked
-com.yelloowstone.nf2t	blocked
-dev.cereza	blocked
-org.geepawhill	blocked
-org.meyvn	blocked
+com.helixframework	rejected
+com.yelloowstone.nf2t	rejected
+dev.cereza	rejected
+org.geepawhill	rejected
+org.meyvn	rejected

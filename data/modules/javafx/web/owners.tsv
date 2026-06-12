@@ -1,4 +1,4 @@
 org.openjfx	allowed
-de.ipk-gatersleben	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jfxcore	blocked
+de.ipk-gatersleben	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jfxcore	rejected

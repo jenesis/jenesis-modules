@@ -1,5 +1,5 @@
 com.google.javascript	allowed
 com.google.protobuf	allowed
-dev.ikm.jpms	blocked
-io.glutenproject	blocked
-org.apache.inlong	blocked
+dev.ikm.jpms	rejected
+io.glutenproject	rejected
+org.apache.inlong	rejected

@@ -1,2 +1,2 @@
 com.google.inject.extensions	allowed
-org.sonatype.sisu.inject	blocked
+org.sonatype.sisu.inject	rejected

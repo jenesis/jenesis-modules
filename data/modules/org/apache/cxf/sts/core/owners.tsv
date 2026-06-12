@@ -1,2 +1,2 @@
 org.apache.cxf.services.sts	allowed
-io.github.rzo1.org.apache.cxf.services.sts	blocked
+io.github.rzo1.org.apache.cxf.services.sts	rejected

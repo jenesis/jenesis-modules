@@ -1,5 +1,5 @@
 com.fazecast	allowed
-com.aromajoin.sdk	blocked
-com.ghgande	blocked
-com.github.terrytsai	blocked
-io.openems	blocked
+com.aromajoin.sdk	rejected
+com.ghgande	rejected
+com.github.terrytsai	rejected
+io.openems	rejected

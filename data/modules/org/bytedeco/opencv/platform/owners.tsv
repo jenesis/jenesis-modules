@@ -1,4 +1,4 @@
 org.bytedeco	allowed
-io.github.extractpdf4j	blocked
-io.github.mehulimukherjee	blocked
-us.ihmc	blocked
+io.github.extractpdf4j	rejected
+io.github.mehulimukherjee	rejected
+us.ihmc	rejected

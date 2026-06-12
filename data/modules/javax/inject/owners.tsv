@@ -1,7 +1,7 @@
 com.jwebmp	allowed
 dev.ikm.jpms	allowed
-com.guicedee.services	blocked
-com.jwebmp.jre11	blocked
-com.jwebmp.thirdparty	blocked
-io.avaje	blocked
-jakarta.inject	blocked
+com.guicedee.services	rejected
+com.jwebmp.jre11	rejected
+com.jwebmp.thirdparty	rejected
+io.avaje	rejected
+jakarta.inject	rejected

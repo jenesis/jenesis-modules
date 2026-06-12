@@ -1,8 +1,8 @@
 org.apache.tomcat.embed	allowed
-com.ganteater	blocked
-com.github.rockylomo	blocked
-com.heroku	blocked
-io.edurt.datacap	blocked
-io.edurt.datacap.client	blocked
-io.github.cdnk	blocked
-org.codeforamerica.platform	blocked
+com.ganteater	rejected
+com.github.rockylomo	rejected
+com.heroku	rejected
+io.edurt.datacap	rejected
+io.edurt.datacap.client	rejected
+io.github.cdnk	rejected
+org.codeforamerica.platform	rejected

@@ -1,2 +1,2 @@
 org.neo4j.test	allowed
-org.graphfoundation.ongdb.test	blocked
+org.graphfoundation.ongdb.test	rejected

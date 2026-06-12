@@ -1,7 +1,7 @@
 org.openjfx	allowed
-com.robotaccomplice	blocked
-de.pirckheimer-gymnasium	blocked
-de.wenzlaff.twbibel	blocked
-io.github.makbn	blocked
-org.glavo.hmcl.openjfx	blocked
-org.jfxcore	blocked
+com.robotaccomplice	rejected
+de.pirckheimer-gymnasium	rejected
+de.wenzlaff.twbibel	rejected
+io.github.makbn	rejected
+org.glavo.hmcl.openjfx	rejected
+org.jfxcore	rejected

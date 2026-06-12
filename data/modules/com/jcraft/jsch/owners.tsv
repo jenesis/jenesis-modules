@@ -1,6 +1,6 @@
 com.github.mwiede	allowed
 com.pesitwizard.connector	allowed
-com.jcabi	blocked
-com.opendatadsl	blocked
-com.testingbot	blocked
-io.kestra.plugin	blocked
+com.jcabi	rejected
+com.opendatadsl	rejected
+com.testingbot	rejected
+io.kestra.plugin	rejected

@@ -1,4 +1,4 @@
 com.github.rvesse	allowed
-io.stargate.starter	blocked
-org.apache.seatunnel	blocked
-org.graylog2	blocked
+io.stargate.starter	rejected
+org.apache.seatunnel	rejected
+org.graylog2	rejected

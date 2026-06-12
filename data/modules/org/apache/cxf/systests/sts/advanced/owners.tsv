@@ -1,2 +1,2 @@
 org.apache.cxf.services.sts.systests	allowed
-io.github.rzo1.org.apache.cxf.services.sts.systests	blocked
+io.github.rzo1.org.apache.cxf.services.sts.systests	rejected

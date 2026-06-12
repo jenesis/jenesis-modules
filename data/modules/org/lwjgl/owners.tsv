@@ -1,6 +1,6 @@
 org.lwjgl	allowed
-com.io7m.jcoronado	blocked
-io.github.lego-eden	blocked
-io.github.ranchordo	blocked
-org.collebol	blocked
-org.lwjgl.osgi	blocked
+com.io7m.jcoronado	rejected
+io.github.lego-eden	rejected
+io.github.ranchordo	rejected
+org.collebol	rejected
+org.lwjgl.osgi	rejected

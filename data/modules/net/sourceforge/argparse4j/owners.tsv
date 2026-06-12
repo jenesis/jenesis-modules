@@ -1,4 +1,4 @@
 net.sourceforge.argparse4j	allowed
 org.opendaylight.netconf	allowed
-com.squarespace.less	blocked
-eu.tneitzel	blocked
+com.squarespace.less	rejected
+eu.tneitzel	rejected

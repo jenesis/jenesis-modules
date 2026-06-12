@@ -1,6 +1,6 @@
 com.fasterxml.jackson.module	allowed
-io.orkes.conductor	blocked
-org.apache.hudi	blocked
-org.conductoross	blocked
-org.kill-bill.billing	blocked
-org.kill-bill.billing.plugin.java	blocked
+io.orkes.conductor	rejected
+org.apache.hudi	rejected
+org.conductoross	rejected
+org.kill-bill.billing	rejected
+org.kill-bill.billing.plugin.java	rejected
