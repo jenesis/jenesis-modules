@@ -53,8 +53,9 @@ public class DriftReportTest {
 
         run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
 
+        // No unresolved drift, but the handled module is counted in the resolved column.
         assertThat(Files.readString(data.resolve("DRIFTERS.md")))
-                .contains("| **unresolved total** | **0** |")
+                .contains("| **total** | **0** | **1** |")
                 .doesNotContain("com.example.lib");
     }
 
@@ -124,6 +125,23 @@ public class DriftReportTest {
         String report = Files.readString(data.resolve("DRIFTERS.md"));
         assertThat(report).contains("## two-segments (1)");
         assertThat(report).contains("owned by `org.jetbrains.kotlinx`");
+    }
+
+    @Test
+    public void explicit_rule_overrides_the_heuristic() throws IOException {
+        ModuleStore store = new ModuleStore(data.resolve("modules"));
+        // spring.boot.* is owned by org.springframework.boot by explicit rule, even though a shaded
+        // jar published it first (which would otherwise make org.springframework.boot a non-owner).
+        store.record("spring.boot.autoconfigure", ModuleType.NAMED, null, coord("com.shaded.app", "fat", "1.0", 1_400_000_000_000L));
+        store.record("spring.boot.autoconfigure", ModuleType.NAMED, null, coord("org.springframework.boot", "spring-boot-autoconfigure", "3.2", 1_700_000_000_000L));
+        store.flush();
+
+        run(Map.of(DriftReport.PROP_DATA, data.toString(), DriftReport.PROP_TODAY, "2026-06-12"));
+
+        String report = Files.readString(data.resolve("DRIFTERS.md"));
+        assertThat(report).contains("## explicit-rules (1)");
+        assertThat(report).contains("spring.boot.autoconfigure");
+        assertThat(report).contains("owned by `org.springframework.boot`");
     }
 
     private static void run(Map<String, String> properties) throws IOException {

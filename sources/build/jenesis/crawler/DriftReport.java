@@ -45,10 +45,20 @@ public final class DriftReport {
 
     private static final DateTimeFormatter YM = DateTimeFormatter.ofPattern("yyyy-MM").withZone(ZoneOffset.UTC);
 
+    /**
+     * Hand-curated module-prefix to owner-groupId overrides, checked before the heuristic. A module
+     * whose name equals a key or falls under it (key + ".") is assigned to that groupId. Add rules
+     * here for canonical ownerships the naming heuristics cannot infer.
+     */
+    private static final Map<String, String> EXPLICIT_OWNERS = Map.ofEntries(
+            Map.entry("spring.boot", "org.springframework.boot")
+    );
+
     private DriftReport() {
     }
 
     enum Category {
+        EXPLICIT("explicit-rules", "Hand-curated overrides: a module matching an explicit rule is assigned to a fixed owner groupId regardless of the heuristic (e.g. spring.boot.* owned by org.springframework.boot). Proposal: allow that owner, block the rest."),
         REPUBLISHER("republisher", "Earliest owner is foreign to the module name while a natural-namespace owner is also present (shaded / repackaged jars). Proposal: allow the natural owner, block the republisher."),
         MIGRATION("migration", "The publishing groupId handed off over time: the old coordinate went dormant, a newer one took over (a rename or a relocation). Proposal: allow both old and new so history stays resolvable and `latest` is current."),
         FORK("fork", "A cross-org coordinate publishes the same name while the original owner is still active. Proposal: keep the original owner, block the fork."),
@@ -155,8 +165,10 @@ public final class DriftReport {
             }
         }
 
-        // Pass 2: keep the modules that drift, and classify each.
+        // Pass 2: classify every multi-owner module. Those whose owners.tsv already names every
+        // publisher are "resolved" (tallied per category); the rest are unresolved drift.
         List<Drift> drifts = new ArrayList<>();
+        Map<Category, Integer> resolvedByCategory = new EnumMap<>(Category.class);
         int multiGroup = 0;
         for (Map.Entry<String, Map<String, Group>> entry : byModule.entrySet()) {
             Map<String, Group> groups = entry.getValue();
@@ -165,16 +177,18 @@ public final class DriftReport {
             }
             multiGroup++;
             OwnersPolicy owners = store.loadOwners(entry.getKey()).orElse(null);
+            Drift drift = classify(entry.getKey(), groups, globalLast, activeCutoff, owners);
             if (owners != null && owners.namedGroups().containsAll(groups.keySet())) {
-                continue; // every publisher is named (allowed or blocked) - handled, not drift
+                resolvedByCategory.merge(drift.category(), 1, Integer::sum);
+            } else {
+                drifts.add(drift);
             }
-            drifts.add(classify(entry.getKey(), groups, globalLast, activeCutoff, owners));
         }
 
         String emit = System.getProperty(PROP_EMIT);
         int detailLimit = intProperty(PROP_DETAIL_LIMIT, DEFAULT_DETAIL_LIMIT);
         Path report = dataDir.resolve(REPORT_FILE);
-        Files.writeString(report, render(drifts, byModule.size(), multiGroup, today, earliestOverall, todayMillis, detailLimit),
+        Files.writeString(report, render(drifts, resolvedByCategory, byModule.size(), multiGroup, today, earliestOverall, todayMillis, detailLimit),
                 StandardCharsets.UTF_8);
         System.err.println("[drift] " + report + " (" + drifts.size() + " unresolved of " + multiGroup + " multi-owner modules)");
 
@@ -194,6 +208,12 @@ public final class DriftReport {
         List<Group> groups = new ArrayList<>(groupMap.values());
         groups.sort(Comparator.comparingLong((Group g) -> g.first).thenComparing(g -> g.groupId));
         Group owner = groups.getFirst(); // earliest first publication = the implicit resolution owner
+
+        String explicit = explicitOwner(module);
+        if (explicit != null) {
+            return new Drift(module, groups, owner, Category.EXPLICIT, List.of(explicit),
+                    "explicit rule: owned by `" + explicit + "`", owners);
+        }
 
         List<String> naturals = groups.stream()
                 .filter(g -> g != owner && under(module, g.groupId))
@@ -284,8 +304,8 @@ public final class DriftReport {
         return Integer.parseInt(value.trim());
     }
 
-    private static String render(List<Drift> drifts, int totalModules, int multiGroup, LocalDate today,
-                                 long axisStart, long axisEnd, int detailLimit) {
+    private static String render(List<Drift> drifts, Map<Category, Integer> resolvedByCategory, int totalModules,
+                                 int multiGroup, LocalDate today, long axisStart, long axisEnd, int detailLimit) {
         Map<Category, List<Drift>> byCategory = new EnumMap<>(Category.class);
         for (Category category : Category.values()) {
             byCategory.put(category, new ArrayList<>());
@@ -301,13 +321,17 @@ public final class DriftReport {
                 .append("some publishing groupId neither `allowed` nor `blocked`). Resolving a drift means deciding each ")
                 .append("groupId via `SetOwners` (which writes `allowed`/`blocked`); a fully-named module drops off this list.\n\n");
 
-        out.append("| Category | Modules |\n|---|---:|\n");
+        out.append("| Category | Unresolved | Resolved via owners.tsv |\n|---|---:|---:|\n");
+        int resolvedTotal = 0;
         for (Category category : Category.values()) {
-            out.append("| ").append(category.id).append(" | ").append(byCategory.get(category).size()).append(" |\n");
+            int resolved = resolvedByCategory.getOrDefault(category, 0);
+            resolvedTotal += resolved;
+            out.append("| ").append(category.id).append(" | ").append(byCategory.get(category).size())
+                    .append(" | ").append(resolved).append(" |\n");
         }
-        out.append("| **unresolved total** | **").append(drifts.size()).append("** |\n");
-        out.append("| multi-owner modules scanned | ").append(multiGroup).append(" |\n");
-        out.append("| modules scanned | ").append(totalModules).append(" |\n\n");
+        out.append("| **total** | **").append(drifts.size()).append("** | **").append(resolvedTotal).append("** |\n");
+        out.append("| multi-owner modules scanned | ").append(multiGroup).append(" | |\n");
+        out.append("| modules scanned | ").append(totalModules).append(" | |\n\n");
 
         out.append("Timeline axis spans ").append(YM.format(Instant.ofEpochMilli(axisStart)))
                 .append(" .. ").append(YM.format(Instant.ofEpochMilli(axisEnd))).append(" (today). ")
@@ -441,6 +465,20 @@ public final class DriftReport {
         long clamped = Math.max(axisStart, Math.min(axisEnd, at));
         int index = (int) Math.round((double) (clamped - axisStart) * (TIMELINE_WIDTH - 1) / (axisEnd - axisStart));
         return Math.max(0, Math.min(TIMELINE_WIDTH - 1, index));
+    }
+
+    /** The explicit-rule owner for a module, or null: the longest matching prefix in EXPLICIT_OWNERS. */
+    private static String explicitOwner(String module) {
+        String owner = null;
+        int best = -1;
+        for (Map.Entry<String, String> rule : EXPLICIT_OWNERS.entrySet()) {
+            String prefix = rule.getKey();
+            if ((module.equals(prefix) || module.startsWith(prefix + ".")) && prefix.length() > best) {
+                best = prefix.length();
+                owner = rule.getValue();
+            }
+        }
+        return owner;
     }
 
     private static boolean under(String module, String groupId) {
