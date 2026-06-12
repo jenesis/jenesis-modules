@@ -1,8 +1,8 @@
-com.intuit.quickbooks-online	allowed
 com.sun.istack	allowed
 com.github.bld-commons	rejected
 com.github.target365	rejected
 com.ibm.cics	rejected
+com.intuit.quickbooks-online	rejected
 io.github.adrianseguraortiz	rejected
 io.github.hongjinqiu	rejected
 net.haesleinhuepf	rejected

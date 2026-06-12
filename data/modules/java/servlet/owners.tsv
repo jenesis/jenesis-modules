@@ -1,5 +1,0 @@
-jakarta.servlet	allowed
-org.apache.tomcat	allowed
-com.guicedee.services	rejected
-org.apache.felix	rejected
-org.jboss.spec.javax.servlet	rejected

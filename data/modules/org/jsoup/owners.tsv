@@ -1,4 +1,3 @@
-org.finos.legend.sdlc	allowed
 org.jsoup	allowed
 com.adobe.cq	rejected
 com.github.hazendaz.jsoup	rejected
@@ -24,6 +23,7 @@ net.tlabs-data	rejected
 org.apache.flink	rejected
 org.apache.tika	rejected
 org.easypeelsecurity	rejected
+org.finos.legend.sdlc	rejected
 org.glavo.hmcl	rejected
 org.graylog2	rejected
 org.hostile	rejected

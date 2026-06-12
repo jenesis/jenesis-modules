@@ -1,5 +1,0 @@
-com.guicedee.services	allowed
-javax.persistence	allowed
-jakarta.persistence	rejected
-org.eclipse.persistence	rejected
-org.hibernate.javax.persistence	rejected

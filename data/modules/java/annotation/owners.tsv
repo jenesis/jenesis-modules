@@ -1,9 +1,0 @@
-javax.annotation	allowed
-org.apache.tomcat	allowed
-com.guicedee.services	rejected
-com.heroku	rejected
-jakarta.annotation	rejected
-no.ssb.jpms	rejected
-one.gfw	rejected
-org.jboss.spec.javax.annotation	rejected
-org.rationalityfrontline.workaround	rejected

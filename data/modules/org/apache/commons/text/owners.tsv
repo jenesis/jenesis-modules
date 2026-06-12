@@ -1,4 +1,3 @@
-com.telamin.fluxtion	allowed
 org.apache.commons	allowed
 com.guicedee.services	rejected
 com.jkoolcloud.tnt4j.stream	rejected
@@ -7,6 +6,7 @@ com.jwebmp	rejected
 com.jwebmp.jpms.commons	rejected
 com.jwebmp.jre11	rejected
 com.salesforce.functions	rejected
+com.telamin.fluxtion	rejected
 com.vmlens	rejected
 dev.jbang	rejected
 fr.lirmm.graphik	rejected

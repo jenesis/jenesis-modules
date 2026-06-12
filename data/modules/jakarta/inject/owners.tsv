@@ -1,5 +1,5 @@
-com.google.gerrit	allowed
 jakarta.inject	allowed
+com.google.gerrit	rejected
 com.google.template	rejected
 com.google.tsunami	rejected
 com.guicedee.services	rejected

@@ -1,4 +1,3 @@
-io.cryostat	allowed
 org.jspecify	allowed
 at.hugob.plugin.library	rejected
 com.arcadedb	rejected
@@ -18,6 +17,7 @@ de.pirckheimer-gymnasium	rejected
 dev.jbang	rejected
 dev.zacsweers.metro	rejected
 io.aleph0	rejected
+io.cryostat	rejected
 io.crysknife	rejected
 io.crysknife.ui	rejected
 io.dropwizard.logback	rejected

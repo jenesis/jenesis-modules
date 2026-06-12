@@ -1,8 +1,0 @@
-com.guicedee.services	allowed
-org.wildfly	allowed
-com.github.bld-commons	rejected
-com.github.bordertech.wcomponents	rejected
-com.guicedee.modules.services	rejected
-kg.apc	rejected
-org.jvnet.jaxb	rejected
-org.onebusaway	rejected

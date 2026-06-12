@@ -1,5 +1,4 @@
 org.apache.commons	allowed
-org.openjproxy	allowed
 com.redis	rejected
 com.vlkan.log4j2	rejected
 io.github.caobahuong	rejected
@@ -8,3 +7,4 @@ org.apache.directory.api	rejected
 org.apache.druid.extensions.contrib	rejected
 org.apache.storm	rejected
 org.noear	rejected
+org.openjproxy	rejected

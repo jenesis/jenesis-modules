@@ -1,3 +1,3 @@
-one.jpro.platform.jpms	allowed
 org.testfx	allowed
 one.jpro	rejected
+one.jpro.platform.jpms	rejected

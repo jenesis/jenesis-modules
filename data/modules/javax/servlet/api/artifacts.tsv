@@ -1,6 +1,4 @@
 62	named	com.guicedee.services	javax.servlet-api
-9.0.39	named	org.apache.tomcat	tomcat-servlet-api
-9.0.38	named	org.apache.tomcat	tomcat-servlet-api
 1.0.9.14-jre14	named	com.guicedee.services	javax.servlet-api
 1.0.9.14	named	com.guicedee.services	javax.servlet-api
 1.0.9.13-jre14	named	com.guicedee.services	javax.servlet-api

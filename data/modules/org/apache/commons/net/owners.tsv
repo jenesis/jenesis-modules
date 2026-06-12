@@ -1,6 +1,0 @@
-commons-net	allowed
-int.esa.ccsds.mo	allowed
-com.jkoolcloud.tnt4j.streams	rejected
-com.nordstrom.ui-tools	rejected
-io.kestra.plugin	rejected
-org.apache.pinot	rejected

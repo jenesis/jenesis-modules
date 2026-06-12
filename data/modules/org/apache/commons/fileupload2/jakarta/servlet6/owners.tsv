@@ -1,5 +1,5 @@
-io.github.dhruvrawatdev	allowed
 org.apache.jena	allowed
 cloud.piranha.dist	rejected
+io.github.dhruvrawatdev	rejected
 io.telicent	rejected
 io.telicent.smart-caches.graph	rejected

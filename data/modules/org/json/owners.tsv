@@ -1,7 +1,7 @@
-com.github.karsaig	allowed
 org.json	allowed
 com.aliyun.opensearch	rejected
 com.epam.reportportal	rejected
+com.github.karsaig	rejected
 com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.joshuadamian	rejected

@@ -1,5 +1,4 @@
 ch.randelshofer	allowed
-software.amazon.smithy.java	allowed
 com.amazonaws	rejected
 com.atlan	rejected
 com.cjbooms	rejected
@@ -34,5 +33,6 @@ org.openrewrite	rejected
 org.projectnessie.nessie	rejected
 org.projectnessie.nessie-integrations	rejected
 org.sonarsource.text	rejected
+software.amazon.smithy.java	rejected
 za.co.absa.shaded	rejected
 za.co.absa.spline.agent.spark	rejected

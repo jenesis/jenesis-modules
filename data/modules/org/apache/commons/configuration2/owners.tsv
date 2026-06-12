@@ -1,7 +1,7 @@
 org.apache.commons	allowed
-org.neo4j.procedure	allowed
 com.databricks.labs	rejected
 com.sonatype.central.testing.amazon	rejected
 consulting.freiheitsgrade.patched	rejected
 org.bidib.com.github.markusbernhardt	rejected
+org.neo4j.procedure	rejected
 software.amazon.s3tables	rejected

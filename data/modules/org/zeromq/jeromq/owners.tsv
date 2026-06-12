@@ -1,4 +1,4 @@
-org.jetbrains.kotlinx	allowed
 org.zeromq	allowed
 com.github.myzhan	rejected
 io.github.padreati	rejected
+org.jetbrains.kotlinx	rejected

@@ -1,4 +1,3 @@
-org.apache.tinkerpop	allowed
 org.apiguardian	allowed
 com.byteplus	rejected
 com.github.aquality-automation	rejected
@@ -11,6 +10,7 @@ io.virtualan	rejected
 net.cnri.cordra	rejected
 net.coru	rejected
 org.apache.pinot	rejected
+org.apache.tinkerpop	rejected
 org.eclipse.tycho	rejected
 org.javastro	rejected
 org.neo4j	rejected

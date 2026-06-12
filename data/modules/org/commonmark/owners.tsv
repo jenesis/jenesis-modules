@@ -1,6 +1,6 @@
-com.atlassian.commonmark	allowed
-com.qainsights	allowed
+org.commonmark	allowed
+com.atlassian.commonmark	rejected
+com.qainsights	rejected
 org.aya-prover	rejected
-org.commonmark	rejected
 org.lucee	rejected
 se.alipsa.gmd	rejected

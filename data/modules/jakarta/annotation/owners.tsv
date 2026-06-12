@@ -1,4 +1,3 @@
-io.quarkus	allowed
 jakarta.annotation	allowed
 be.vlaanderen.informatievlaanderen.vsds	rejected
 com.affinidi.tdk	rejected
@@ -14,6 +13,7 @@ io.github.mitsumi-solutions-develop	rejected
 io.github.n1ckl0sk0rtge	rejected
 io.github.openfeign.querydsl	rejected
 io.journify	rejected
+io.quarkus	rejected
 net.welen.jmole	rejected
 one.gfw	rejected
 org.apache.tomcat	rejected

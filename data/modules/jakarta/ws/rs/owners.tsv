@@ -1,5 +1,4 @@
 jakarta.ws.rs	allowed
-org.jboss.narayana.lra	allowed
 com.affinidi.tdk	rejected
 com.biit-solutions	rejected
 com.bluecirclesoft.open	rejected
@@ -15,5 +14,6 @@ io.github.tblsoft.solr	rejected
 me.chrissw-r1	rejected
 nl.mirila.cli	rejected
 no.telenor.sdk	rejected
+org.jboss.narayana.lra	rejected
 org.jboss.spec.javax.ws.rs	rejected
 org.opengis.cite	rejected

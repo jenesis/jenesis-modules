@@ -1,6 +1,6 @@
 com.google.inject	allowed
-com.guicedee.modules.services	allowed
 ca.stellardrift.guice-backport	rejected
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.jwebmp.inject	rejected
 io.forestframework	rejected

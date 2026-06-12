@@ -1,8 +1,8 @@
-com.guicedee.modules.services	allowed
 org.apache.poi	allowed
 ch.exense.step.library	rejected
 com.codoid.products	rejected
 com.crealytics	rejected
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.jsdiff	rejected
 com.liferay	rejected

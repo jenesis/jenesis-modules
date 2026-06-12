@@ -1,5 +1,5 @@
-com.guicedee.modules.services	allowed
 org.mapstruct	allowed
 com.gitee.jmash	rejected
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 io.github.errantfiddle	rejected

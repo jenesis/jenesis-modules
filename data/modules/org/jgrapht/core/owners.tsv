@@ -1,4 +1,3 @@
-org.choco-solver	allowed
 org.jgrapht	allowed
 com.io7m.jgrapht	rejected
 com.squareup.sqldelight	rejected
@@ -13,3 +12,4 @@ io.github.davincilll	rejected
 io.github.jodavimehran	rejected
 it.unibo.alchemist	rejected
 net.mbonnin.sqldelight	rejected
+org.choco-solver	rejected

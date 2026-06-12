@@ -1,5 +1,4 @@
 io.github.classgraph	allowed
-org.finos.legend.engine	allowed
 ch.exense.step.library	rejected
 cloud.orbit	rejected
 cn.ashersu.omni.model	rejected
@@ -60,6 +59,7 @@ net.tlabs-data	rejected
 org.apache.beam	rejected
 org.dominokit	rejected
 org.finos.legend.depot	rejected
+org.finos.legend.engine	rejected
 org.finos.legend.sdlc	rejected
 org.geneweaver	rejected
 org.javastro.vodsl	rejected

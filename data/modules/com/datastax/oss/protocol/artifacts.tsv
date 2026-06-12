@@ -1,7 +1,4 @@
-1.5.2.2	automatic	com.scylladb	native-protocol
-1.5.2.1	automatic	com.scylladb	native-protocol
 1.5.2	automatic	com.datastax.oss	native-protocol
-1.5.2.0	automatic	com.scylladb	native-protocol
 1.5.1	automatic	com.datastax.oss	native-protocol
 1.5.0	automatic	com.datastax.oss	native-protocol
 1.4.12	automatic	com.datastax.oss	native-protocol

@@ -1,5 +1,5 @@
 com.kohlschutter.junixsocket	allowed
-com.sbbsystems.flink	allowed
+com.sbbsystems.flink	rejected
 group.insyde	rejected
 io.github.kzmlabs	rejected
 io.github.kzmlabs.flinkstatefun	rejected

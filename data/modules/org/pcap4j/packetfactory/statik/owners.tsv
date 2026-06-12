@@ -1,2 +1,2 @@
-io.vproxy	allowed
 org.pcap4j	allowed
+io.vproxy	rejected

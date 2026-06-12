@@ -1,5 +1,5 @@
-app.freerouting	allowed
 org.apache.logging.log4j	allowed
+app.freerouting	rejected
 com.gemecosystem.gemjar	rejected
 com.ghgande	rejected
 com.github.aquality-automation	rejected

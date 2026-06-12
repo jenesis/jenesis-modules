@@ -1,2 +1,2 @@
-io.smallrye	allowed
 org.jboss.jandex	allowed
+io.smallrye	rejected

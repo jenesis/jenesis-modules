@@ -1,2 +1,2 @@
-org.elasticsearch.plugin	allowed
 org.opensaml	allowed
+org.elasticsearch.plugin	rejected

@@ -1,2 +1,2 @@
 com.querydsl	allowed
-io.github.openfeign.querydsl	allowed
+io.github.openfeign.querydsl	rejected

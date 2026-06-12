@@ -1,5 +1,5 @@
-org.apache.sedona	allowed
 org.beryx	allowed
 com.liumapp.workable.converter	rejected
 de.julielab	rejected
+org.apache.sedona	rejected
 org.datasyslab	rejected

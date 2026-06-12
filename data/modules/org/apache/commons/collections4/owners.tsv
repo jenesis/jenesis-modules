@@ -1,5 +1,5 @@
-com.guicedee.modules.services	allowed
 org.apache.commons	allowed
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.jwebmp.jpms.commons	rejected
 de.jball	rejected

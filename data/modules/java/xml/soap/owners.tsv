@@ -1,6 +1,0 @@
-javax.xml.soap	allowed
-jakarta.xml.soap	rejected
-mx.com.sw	rejected
-org.apache.servicemix.specs	rejected
-org.hpccsystems	rejected
-org.jboss.spec.javax.xml.soap	rejected

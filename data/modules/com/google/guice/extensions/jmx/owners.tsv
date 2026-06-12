@@ -1,6 +1,6 @@
 com.google.inject.extensions	allowed
-com.guicedee.modules.services	allowed
 ca.stellardrift.guice-backport.extensions	rejected
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.guicedee.services.extensions	rejected
 com.jwebmp.inject.extensions	rejected

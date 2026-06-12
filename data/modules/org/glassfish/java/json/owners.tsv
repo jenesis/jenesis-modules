@@ -1,7 +1,7 @@
-com.mobius-software.plugins	allowed
 org.glassfish	allowed
 com.github.mibo	rejected
 com.jcabi	rejected
+com.mobius-software.plugins	rejected
 com.sebastian-daschner	rejected
 com.smartcar.sdk	rejected
 com.sudicode	rejected

@@ -1,5 +1,4 @@
 jakarta.json	allowed
-org.eclipse.parsson	allowed
 com.arangodb	rejected
 com.atomgraph.etl.csv	rejected
 com.exasol	rejected
@@ -8,6 +7,7 @@ io.github.changebooks	rejected
 io.github.qudtlib	rejected
 io.quarkus	rejected
 org.avaje.experiment	rejected
+org.eclipse.parsson	rejected
 org.glassfish	rejected
 org.openpreservation.jhove	rejected
 org.spdx	rejected

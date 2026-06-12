@@ -1,7 +1,0 @@
-com.guicedee.modules.services	allowed
-com.jwebmp.jre11	allowed
-com.guicedee.services	rejected
-com.jwebmp	rejected
-com.jwebmp.jpms.commons	rejected
-org.openidentityplatform.openam.agents	rejected
-org.wiremock	rejected

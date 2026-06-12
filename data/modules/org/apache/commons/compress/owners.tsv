@@ -1,6 +1,6 @@
-com.alibaba.ververica	allowed
 org.apache.commons	allowed
 cloud.piranha.dist	rejected
+com.alibaba.ververica	rejected
 com.ascentstream.pulsar	rejected
 com.clickhouse	rejected
 com.github.broadinstitute	rejected

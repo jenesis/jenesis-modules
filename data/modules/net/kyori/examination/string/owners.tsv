@@ -1,4 +1,3 @@
-eu.koboo	allowed
 net.kyori	allowed
 at.hugob.plugin.library	rejected
 com.fastasyncworldedit	rejected
@@ -6,6 +5,7 @@ dev.aurelium	rejected
 dev.vankka	rejected
 eu.cloudnetservice.cloudnet	rejected
 eu.kennytv.maintenance	rejected
+eu.koboo	rejected
 io.github.4drian3d	rejected
 io.github.azodox	rejected
 io.github.fisher2911	rejected

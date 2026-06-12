@@ -1,4 +1,4 @@
-com.guicedee.modules.services	allowed
 org.hibernate.validator	allowed
+com.guicedee.modules.services	rejected
 com.guicedee.services	rejected
 com.liferay	rejected

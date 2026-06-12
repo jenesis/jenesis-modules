@@ -1,5 +1,4 @@
 com.github.ben-manes.caffeine	allowed
-io.pebbletemplates	allowed
 be.vlaanderen.informatievlaanderen.ldes.ldio	rejected
 com.gitlab.cdc-java.office	rejected
 com.google.errorprone	rejected
@@ -7,6 +6,7 @@ com.janeluo	rejected
 io.github.c-fraser	rejected
 io.github.noobdogcloud	rejected
 io.github.sinri	rejected
+io.pebbletemplates	rejected
 io.tileverse.pmtiles	rejected
 io.zeebe.redis	rejected
 net.wirelabs	rejected

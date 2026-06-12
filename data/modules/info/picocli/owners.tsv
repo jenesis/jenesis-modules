@@ -1,5 +1,4 @@
 info.picocli	allowed
-io.spicelabs	allowed
 ai.h2o	rejected
 ai.tegmentum.webassembly4j	rejected
 be.atbash.runtime	rejected
@@ -101,6 +100,7 @@ io.prestosql	rejected
 io.quarkus	rejected
 io.railflow.demo.cli	rejected
 io.sealights.on-premise.agents	rejected
+io.spicelabs	rejected
 io.streamthoughts	rejected
 io.substrait	rejected
 io.trino	rejected

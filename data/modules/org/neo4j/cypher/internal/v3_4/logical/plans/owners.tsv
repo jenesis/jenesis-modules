@@ -1,2 +1,2 @@
-org.graphfoundation.ongdb	allowed
 org.neo4j	allowed
+org.graphfoundation.ongdb	rejected

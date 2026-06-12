@@ -1,5 +1,4 @@
 dev.failsafe	allowed
-org.apache.iceberg	allowed
 cloud.prefab	rejected
 com.corporate-startup	rejected
 com.qcefast	rejected
@@ -8,4 +7,5 @@ com.spotify.confidence	rejected
 io.kestra.plugin	rejected
 io.trino	rejected
 org.apache.gravitino	rejected
+org.apache.iceberg	rejected
 software.amazon.s3.analyticsaccelerator	rejected
