@@ -36,9 +36,13 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **322 731** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **322 379** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
-Of those, **242** rows (51 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
+Of those, **241** rows (50 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
+
+### Republished JVM modules
+
+**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, taken from `ModuleFinder.ofSystem()`) have been republished on Maven Central under some coordinate, across **692** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
 
 ## Type breakdown
 
@@ -58,17 +62,17 @@ A classifier-keyed JAR (e.g. `-jakarta`, `-jdk8`, `-jar-with-dependencies`) that
 | Distinct classifiers | 211 |
 | Modules with at least one classifier variant | 2 006 |
 | Classifier variant files (`versions-<classifier>.tsv`) | 3 993 |
-| Classifier-keyed resolved module-version rows | 21 658 |
+| Classifier-keyed resolved module-version rows | 21 604 |
 
 Top classifiers by resolved module-version rows:
 
 | Classifier | Resolved rows |
 |---|---:|
-| `linux` | 1 309 |
-| `mac` | 1 309 |
-| `win` | 1 308 |
+| `linux` | 1 298 |
+| `mac` | 1 298 |
+| `win` | 1 297 |
 | `jdk9` | 1 191 |
-| `mac-aarch64` | 782 |
+| `mac-aarch64` | 771 |
 | `linux-x86_64` | 724 |
 | `jar-with-dependencies` | 592 |
 | `windows-x86_64` | 581 |
@@ -78,7 +82,7 @@ Top classifiers by resolved module-version rows:
 | `desktop` | 557 |
 | `natives-macos` | 547 |
 | `natives-linux` | 542 |
-| `linux-aarch64` | 528 |
+| `macosx-x86_64` | 526 |
 
 ## `module-info` version field across named publications
 
