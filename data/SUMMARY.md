@@ -20,13 +20,13 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 17 368 273 |
-| Non-module artifacts | 15 459 645 |
+| Total artifacts scanned | 17 368 213 |
+| Non-module artifacts | 15 459 585 |
 | Modular artifacts | 1 575 790 |
 | Total automatic modules | 1 241 215 |
 | Total named modules | 334 575 |
 | Total named modules with module-info version | 254 010 |
-| Distinct Maven artifacts | 653 652 |
+| Distinct Maven artifacts | 653 646 |
 | Distinct module names | 39 449 |
 | Distinct automatic modules | 20 980 |
 | Distinct named modules | 17 039 |
@@ -152,14 +152,14 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 
 | Month | Named modules | Automatic modules | Non-modular artifacts |
 |---|---|---|---|
-| 2025-07 | `█`&nbsp;2 768 (4.7%) | `▓▓`&nbsp;4 763 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 813 (87.1%) |
+| 2025-07 | `█`&nbsp;2 768 (4.7%) | `▓▓`&nbsp;4 763 (8.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 811 (87.1%) |
 | 2025-08 | `█`&nbsp;2 414 (4.1%) | `▓▓`&nbsp;5 437 (9.2%) | `░░░░░░░░░░░░░░░░░░`&nbsp;50 975 (86.7%) |
-| 2025-09 | `█`&nbsp;2 803 (4.3%) | `▓▓`&nbsp;5 400 (8.4%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;56 435 (87.3%) |
+| 2025-09 | `█`&nbsp;2 803 (4.3%) | `▓▓`&nbsp;5 400 (8.4%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;56 434 (87.3%) |
 | 2025-10 | `█`&nbsp;2 828 (4.2%) | `▓▓`&nbsp;5 362 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;59 866 (88.0%) |
-| 2025-11 | `█`&nbsp;2 419 (3.7%) | `▓▓`&nbsp;5 369 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 166 (88.0%) |
+| 2025-11 | `█`&nbsp;2 419 (3.7%) | `▓▓`&nbsp;5 369 (8.3%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 165 (88.0%) |
 | 2025-12 | `█`&nbsp;2 619 (4.0%) | `▓▓`&nbsp;5 613 (8.6%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;57 162 (87.4%) |
 | 2026-01 | `█`&nbsp;2 857 (4.1%) | `▓▓`&nbsp;5 474 (7.9%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 373 (88.0%) |
-| 2026-02 | `█`&nbsp;2 609 (3.8%) | `▓▓`&nbsp;5 505 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 040 (88.3%) |
+| 2026-02 | `█`&nbsp;2 609 (3.8%) | `▓▓`&nbsp;5 505 (8.0%) | `░░░░░░░░░░░░░░░░░░░░░`&nbsp;61 039 (88.3%) |
 | 2026-03 | `█`&nbsp;3 089 (3.9%) | `▓▓`&nbsp;6 676 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 458 (87.7%) |
 | 2026-04 | `█`&nbsp;3 352 (4.4%) | `▓▓`&nbsp;5 825 (7.7%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 955 (87.9%) |
 | 2026-05 | `█`&nbsp;3 329 (4.4%) | `▓▓`&nbsp;5 317 (7.1%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 517 (88.5%) |
@@ -197,8 +197,8 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 2 180 901 |
-| Incorrectly indexed (mis-stamped 404s) | 2 178 714 |
+| Total failed coordinates | 2 180 900 |
+| Incorrectly indexed (mis-stamped 404s) | 2 178 713 |
 | Genuine artifact errors | 2 187 |
 
 ### Top 25 genuine error messages

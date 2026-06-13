@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -336,7 +336,7 @@ org.apache.commons.logging  [no clear owner; `org.slf4j` is earliest and most re
   ? * org.slf4j                            2017-04..2026-05 2.0.18               |====================|
   ?   org.open-metadata                    2025-11..2026-05 1.12.9               |..................==|
   ?   org.operaton.bpm.extension           2026-02..2026-05 2.1.0                |..................==|
-  ?   org.apache.tika                      2022-09..2026-05 3.3.1                |............========|
+  ?   org.apache.tika                      2022-09..2026-05 3.3.1                |...........=========|
   ?   net.ontopia                          2026-05..2026-05 5.7.0                |...................=|
   ?   org.jboss.pnc.build-agent            2026-05..2026-05 1.2.2                |...................=|
     + 30 more: com.facebook.presto.hive, com.nordstrom.ui-tools, org.beangle.sas, io.github.linagora.linid.im, io.brunoborges, commons-logging, org.apache.orc, io.pivotal.cfenv, org.operaton.bpm, de.redsix, org.jboss.logging, com.uchicom, (+18 more)
