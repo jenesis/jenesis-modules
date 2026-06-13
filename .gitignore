@@ -2,7 +2,6 @@
 # not Maven-coordinate paths like data/scanned/com/target/ where "target" is a
 # legitimate groupId segment.
 /target/
-.jenesis/cache/
 *.hprof
 
 ### IntelliJ IDEA ###

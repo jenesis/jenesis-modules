@@ -670,10 +670,10 @@ The workflow runs with `-XX:+ExitOnOutOfMemoryError -XX:+HeapDumpOnOutOfMemoryEr
 
 ## Building and testing with Jenesis
 
-The crawler does not need to be built to run, but tests are run via [Jenesis](https://github.com/raphw/jenesis), which is vendored as a git submodule under `.jenesis` and surfaced via the symlink `build/jenesis`.
+The crawler does not need to be built to run, but tests are run via [Jenesis](https://github.com/raphw/jenesis), whose bootstrap sources are vendored under `build/jenesis` (the pinned version lives in `build/jenesis/jenesis.version`). Refresh them to the latest release at any time with the installer:
 
 ```
-git submodule update --init
+curl -fsSL https://get.jenesis.build | bash     # update build/jenesis to the latest release
 java build/jenesis/Project.java                 # build + run tests
 java build/jenesis/Project.java stage           # build + stage a clean modular jar under target/stage/
 ```
@@ -752,8 +752,8 @@ sources/build/jenesis/crawler/publish/ checkpoint sinks: CheckpointListener,
 tests/                   tests (JUnit Jupiter + AssertJ), single test package
 worker/                  Cloudflare Worker (index.js) that serves the Jenesis Module
                          Repository contract over data/modules/
-build/jenesis            symlink into the Jenesis submodule (the launcher)
-.jenesis/                Jenesis submodule (sources + runtime cache under cache/)
+build/jenesis/           vendored Jenesis bootstrap sources, refreshed via the
+                         installer (pinned version in build/jenesis/jenesis.version)
 .github/workflows/       build (push/PR), crawl (scheduled), summary (scheduled),
                          release (push to main with [release] prefix), and
                          reconcile-metadata (manual) workflows
