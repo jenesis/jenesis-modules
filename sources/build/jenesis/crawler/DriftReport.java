@@ -224,6 +224,12 @@ public final class DriftReport {
                 if (!ModuleStore.isValidModuleName(moduleName)) {
                     continue;
                 }
+                // JDK-bundled module names have no resolvable Maven owner (the platform shadows them
+                // on the module path), so they are excluded from modules.tsv entirely. Skip them here
+                // too: deciding an owners.tsv for them is meaningless, so they are not "drift".
+                if (ModuleStore.isPlatformModule(moduleName)) {
+                    continue;
+                }
                 List<ModuleEntry> rows = store.readAllVersions(moduleName);
                 if (rows.isEmpty()) {
                     continue;

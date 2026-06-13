@@ -6,6 +6,7 @@ import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
 import build.jenesis.crawler.model.ScannedEntry;
 import build.jenesis.crawler.model.Version;
+import build.jenesis.crawler.store.ModuleStore;
 
 /**
  * Reads {@code data/modules/} (versions.tsv + artifacts.tsv) and writes a markdown
@@ -219,6 +220,8 @@ public final class ModuleSummary {
                          long resolvedModuleVersions,
                          long invalidModuleVersionRows,
                          int invalidModuleVersionsDistinct,
+                         int republishedPlatformModules,
+                         long republishedPlatformModuleRows,
                          long scannedArtifacts,
                          long nonModuleArtifacts,
                          long distinctMavenArtifacts,
@@ -498,6 +501,12 @@ public final class ModuleSummary {
         builder.append("Of those, **").append(fmt(totals.invalidModuleVersionRows()))
                 .append("** rows (").append(fmt(totals.invalidModuleVersionsDistinct()))
                 .append(" distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.\n\n");
+
+        builder.append("### Republished JVM modules\n\n");
+        builder.append("**").append(fmt(totals.republishedPlatformModules()))
+                .append("** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, taken from `ModuleFinder.ofSystem()`) have been republished on Maven Central under some coordinate, across **")
+                .append(fmt(totals.republishedPlatformModuleRows()))
+                .append("** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.\n\n");
 
         builder.append("## Type breakdown\n\n");
         builder.append("Named vs automatic counts. Distinct-module counts use the **latest** version's type, so a module that started automatic and is currently named counts as named. Row counts include every classifier variant.\n\n");
@@ -851,6 +860,12 @@ public final class ModuleSummary {
         private long resolvedModuleVersions;
         private long invalidModuleVersionRows;
         private final Set<String> invalidModuleVersions = new HashSet<>();
+        // JDK-bundled module names (ModuleStore.PLATFORM_MODULES) that some Maven coordinate has
+        // republished. They are excluded from modules.tsv by the resolution policy (the JVM always
+        // shadows them on the module path), so they never reach resolvedModuleVersions; counted here
+        // from the audit log so the summary can report how many such collisions exist.
+        private final Set<String> republishedPlatformModules = new TreeSet<>();
+        private long republishedPlatformModuleRows;
         private long classifierResolvedRows;
         private final Set<String> distinctClassifiers = new TreeSet<>();
         private final Map<String, Long> resolvedRowsByClassifier = new HashMap<>();
@@ -929,6 +944,14 @@ public final class ModuleSummary {
             String moduleKey = displayKey(moduleName, classifier);
 
             List<ModuleEntry> versions = readVersionsFile(versionsFile);
+            // JDK-bundled module names republished on Maven Central: the resolution policy gives them
+            // no modules.tsv (the JVM shadows them), so they show up nowhere else in the catalogue
+            // counts. Tally them from the audit log - distinct names plus total publication rows
+            // across every classifier view - so the summary can surface the collision count.
+            if (ModuleStore.isPlatformModule(moduleName)) {
+                republishedPlatformModules.add(moduleName);
+                republishedPlatformModuleRows += versions.size();
+            }
             // Unfiltered physical-rows tally - needed so the "Non-module artifacts" metric in
             // Totals (= successful scans minus physical modular JARs) doesn't count audit rows
             // as if they had no module info. The rest of the aggregation uses resolvedVersions.
@@ -1239,6 +1262,8 @@ public final class ModuleSummary {
                     resolvedModuleVersions,
                     invalidModuleVersionRows,
                     invalidModuleVersions.size(),
+                    republishedPlatformModules.size(),
+                    republishedPlatformModuleRows,
                     successfullyScanned,
                     nonModuleArtifacts,
                     distinctMavenArtifactTotal,

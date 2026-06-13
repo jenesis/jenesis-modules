@@ -466,6 +466,63 @@ public class ModuleStoreTest {
                 .hasMessageContaining("Invalid module name");
     }
 
+    @Test
+    public void regenerate_excludes_jdk_bundled_module_from_modules_tsv() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // A third party (here a JDK-reimplementation) declares the module name java.sql. The name is
+        // bundled with the JVM, so it can never resolve as that module on the module path. It must
+        // not feed modules.tsv, but the audit log and the coordinate-keyed Maven proxy stay intact.
+        store.record("java.sql", ModuleType.NAMED, "1.0", ts("org.example.rt", "rt-java.sql", "1.0", null, 1_700_000_000_000L));
+        store.flush();
+
+        store.regenerate("java.sql");
+
+        Path dir = root.resolve("java").resolve("sql");
+        assertThat(dir.resolve("versions.tsv")).exists();
+        // artifacts.tsv is a transparent Maven proxy keyed by coordinate - left untouched.
+        assertThat(Files.readAllLines(dir.resolve("artifacts.tsv"))).containsExactly(
+                "1.0\tnamed\torg.example.rt\trt-java.sql");
+        // No modules.tsv: /module/java.sql would only ever hand back a JAR the JVM refuses to use.
+        assertThat(dir.resolve("modules.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void regenerate_deletes_stale_modules_tsv_for_jdk_bundled_module() throws IOException {
+        ModuleStore store = new ModuleStore(root);
+        // jdk.jsobject is bundled with the JVM but also republished under platform classifiers; both
+        // the main and the classifier-scoped resolved views must be removed.
+        store.record("jdk.jsobject", ModuleType.NAMED, "26.0.1", ts("org.openjfx", "jdk-jsobject", "26.0.1", null, 1L));
+        store.record("jdk.jsobject", ModuleType.NAMED, "26.0.1", ts("org.openjfx", "jdk-jsobject", "26.0.1", "linux", 1L));
+        store.flush();
+        Path dir = root.resolve("jdk").resolve("jsobject");
+        // Seed stale resolved views as if produced by an older crawl before the platform rule existed.
+        Files.writeString(dir.resolve("modules.tsv"), "26.0.1\torg.openjfx\tjdk-jsobject\t26.0.1\n");
+        Files.writeString(dir.resolve("modules-linux.tsv"), "26.0.1\torg.openjfx\tjdk-jsobject\t26.0.1\n");
+
+        store.regenerate("jdk.jsobject");
+
+        assertThat(dir.resolve("modules.tsv")).doesNotExist();
+        assertThat(dir.resolve("modules-linux.tsv")).doesNotExist();
+    }
+
+    @Test
+    public void isPlatformModule_matches_jdk_modules_and_ignores_lookalikes() {
+        // Derived from ModuleFinder.ofSystem() on the running VM; these names are present in every
+        // standard JDK the tests could run on.
+        assertThat(ModuleStore.isPlatformModule("java.base")).isTrue();
+        assertThat(ModuleStore.isPlatformModule("java.xml")).isTrue();
+        assertThat(ModuleStore.isPlatformModule("jdk.unsupported")).isTrue();
+        assertThat(ModuleStore.isPlatformModule("jdk.net")).isTrue();
+        // Jakarta EE names that share the java. prefix but are NOT bundled with a modern JVM, and
+        // legacy EE modules removed by JEP 320 - all legitimately published on Maven Central.
+        assertThat(ModuleStore.isPlatformModule("java.persistence")).isFalse();
+        assertThat(ModuleStore.isPlatformModule("java.servlet")).isFalse();
+        assertThat(ModuleStore.isPlatformModule("java.xml.bind")).isFalse();
+        assertThat(ModuleStore.isPlatformModule("java.transaction")).isFalse();
+        // JavaFX ships separately as OpenJFX, not as a JDK module.
+        assertThat(ModuleStore.isPlatformModule("javafx.base")).isFalse();
+    }
+
     private static Coordinate ts(String groupId, String artifactId, String version, String classifier, long publishedAt) {
         return new Coordinate(groupId, artifactId, version, classifier, "jar", 0L, publishedAt);
     }

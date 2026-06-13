@@ -60,6 +60,47 @@ public final class ModuleStore {
         }
     }
 
+    /**
+     * Module names that ship inside the JDK itself: every module observable in the running VM's
+     * system image, as enumerated by {@link ModuleFinder#ofSystem()} (the same set
+     * {@code java --list-modules} prints - the {@code java.*} and {@code jdk.*} platform modules). A
+     * Maven artifact can declare any of these names in its {@code module-info}, but it can never be
+     * resolved as that module on a standard JVM - the platform's own copy is found first on the
+     * module path and shadows it - so a {@code /module/<name>} lookup would only ever hand back a JAR
+     * the runtime refuses to use. Such names are therefore dropped from the {@code modules.tsv}
+     * resolved view (see {@link #regenerate(String, Scope)}); the artifacts stay in
+     * {@code versions.tsv} (the audit log) and in {@code artifacts.tsv} (a transparent Maven proxy
+     * keyed by coordinate, which still serves the underlying JARs as plain downloads).
+     *
+     * <p>Bound to the running VM rather than a hand-maintained list, so it tracks exactly the
+     * platform the crawler runs on. The source is the full system image
+     * ({@link ModuleFinder#ofSystem()}), <em>not</em> {@link ModuleLayer#boot()}: the boot layer
+     * holds only the modules actually resolved for this application (a subset - it omits, say,
+     * {@code jdk.jshell} or {@code jdk.compiler} unless something reads them), whereas the rule needs
+     * every module the platform provides, resolved or not. Consequence: which names are excluded
+     * depends on the JDK the crawler runs on. The project targets a current JDK (it compiles at
+     * release 25 and uses module-import declarations), where this is the modern platform set.
+     *
+     * <p>Legacy Java EE modules that were <em>removed</em> from the JDK (JEP 320:
+     * {@code java.xml.bind}, {@code java.xml.ws}, {@code java.transaction}, {@code java.activation},
+     * {@code java.corba}, ...) are absent from a modern system image, so they are not in this set and
+     * keep resolving - they are legitimately republished on Maven Central (e.g.
+     * {@code javax.xml.bind:jaxb-api} declares {@code java.xml.bind}). JavaFX ({@code javafx.base} and
+     * friends) is likewise not a system module - it ships separately as OpenJFX - and stays servable.
+     */
+    public static final Set<String> PLATFORM_MODULES = ModuleFinder.ofSystem().findAll().stream()
+            .map(reference -> reference.descriptor().name())
+            .collect(Collectors.toUnmodifiableSet());
+
+    /**
+     * Whether {@code moduleName} is a module bundled with the JDK (see {@link #PLATFORM_MODULES}).
+     * Such modules are excluded from the {@code modules.tsv} resolved view because no Maven artifact
+     * declaring the name can ever be resolved as that module on a standard JVM.
+     */
+    public static boolean isPlatformModule(String moduleName) {
+        return PLATFORM_MODULES.contains(moduleName);
+    }
+
     public record StoreKey(String moduleName, String classifier) {
 
         public StoreKey {
@@ -207,6 +248,11 @@ public final class ModuleStore {
      * doesn't require module versions to be unique. Only named-module rows feed {@code modules.tsv}:
      * if the resolved owner publishes only automatic modules, no {@code modules.tsv} is written
      * (and any existing one is removed).
+     *
+     * <p>JDK-bundled module names (see {@link #PLATFORM_MODULES}) get no {@code modules.tsv} at all -
+     * the platform always shadows them on the module path, so no Maven artifact can be resolved as
+     * that module. Their {@code artifacts.tsv} (a coordinate-keyed Maven proxy) and {@code versions.tsv}
+     * audit log are still produced/kept.
      */
     public void regenerate(String moduleName) throws IOException {
         regenerate(moduleName, Scope.BOTH);
@@ -228,6 +274,11 @@ public final class ModuleStore {
             return;
         }
         Optional<OwnersPolicy> owners = loadOwners(moduleName);
+        // A JDK-bundled module name can never be resolved as that module on a standard JVM (the
+        // platform's own copy shadows anything on the module path), so it gets no modules.tsv: any
+        // /module/<name> lookup would only hand back a JAR the runtime refuses to use. The artifacts
+        // view (a transparent Maven proxy) and the versions.tsv audit log are left untouched.
+        boolean platformModule = isPlatformModule(moduleName);
         List<ClassifierFile> classifierFiles = listVersionFiles(dir);
 
         // Read every versions file up front so the implicit owner is derived from the union of
@@ -258,7 +309,9 @@ public final class ModuleStore {
                 }
             }
             if (scope.writesModules()) {
-                List<ModuleVersionEntry> modules = resolveModules(versions, owners, implicitOwner);
+                List<ModuleVersionEntry> modules = platformModule
+                        ? List.of()
+                        : resolveModules(versions, owners, implicitOwner);
                 Path modulesFile = dir.resolve(modulesFileName(classifier));
                 if (modules.isEmpty()) {
                     Files.deleteIfExists(modulesFile);
