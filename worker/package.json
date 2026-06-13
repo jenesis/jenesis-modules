@@ -1,0 +1,10 @@
+{
+  "name": "jenesis-modules-worker",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Cloudflare Worker resolving Java module names to Maven Central artifacts",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}

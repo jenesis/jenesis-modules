@@ -263,6 +263,8 @@ The contents of `data/modules/` are published as the **Jenesis Module Repository
 
 The repository is intentionally a thin wrapper over the resolved views: every redirect target is derivable from a single row of `artifacts.tsv` or `modules.tsv`. Consumers that prefer to do their own lookup can read the TSVs directly via `raw.githubusercontent.com` (or any mirror); the worker exists so a Maven-style `<repository>` URL can be plugged in without writing a resolver.
 
+The worker is covered by `worker/index.test.js`, which drives the `fetch` handler end-to-end (routing, TSV parsing, row selection, redirect-URL construction, error mapping) with the upstream TSV fetches stubbed. The tests use the Node built-in test runner and have no dependencies - run them with `node --test` from the `worker/` directory (Node 20+). The `.github/workflows/worker.yml` workflow runs them on every push or pull request that touches `worker/**`.
+
 ### URL shapes
 
 Four modes, distinguished by the path segment immediately before the module name:
