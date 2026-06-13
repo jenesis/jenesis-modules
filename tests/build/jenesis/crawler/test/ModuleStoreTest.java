@@ -507,8 +507,7 @@ public class ModuleStoreTest {
 
     @Test
     public void isPlatformModule_matches_jdk_modules_and_ignores_lookalikes() {
-        // Derived from ModuleFinder.ofSystem() on the running VM; these names are present in every
-        // standard JDK the tests could run on.
+        // From the fixed ModuleStore.PLATFORM_MODULES set (the java --list-modules platform modules).
         assertThat(ModuleStore.isPlatformModule("java.base")).isTrue();
         assertThat(ModuleStore.isPlatformModule("java.xml")).isTrue();
         assertThat(ModuleStore.isPlatformModule("jdk.unsupported")).isTrue();

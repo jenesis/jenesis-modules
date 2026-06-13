@@ -504,7 +504,7 @@ public final class ModuleSummary {
 
         builder.append("### Republished JVM modules\n\n");
         builder.append("**").append(fmt(totals.republishedPlatformModules()))
-                .append("** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, taken from `ModuleFinder.ofSystem()`) have been republished on Maven Central under some coordinate, across **")
+                .append("** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **")
                 .append(fmt(totals.republishedPlatformModuleRows()))
                 .append("** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.\n\n");
 
