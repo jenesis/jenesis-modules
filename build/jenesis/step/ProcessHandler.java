@@ -8,6 +8,36 @@ public sealed interface ProcessHandler permits ProcessHandler.OfTool, ProcessHan
 
     int execute(Path output, Path error) throws IOException;
 
+    enum Factory {
+        TOOL {
+            @Override
+            Function<List<String>, ? extends ProcessHandler> apply(String tool, String fork) {
+                return ProcessHandler.OfTool.of(tool);
+            }
+        },
+        FORK {
+            @Override
+            Function<List<String>, ? extends ProcessHandler> apply(String tool, String fork) {
+                return ProcessHandler.OfProcess.ofJavaHome(fork);
+            }
+        };
+
+        public static Factory of() {
+            String factory = System.getProperty("jenesis.process.factory");
+            if (factory == null) {
+                return System.getProperty("org.graalvm.nativeimage.imagecode") != null ? FORK : TOOL;
+            }
+            return switch (factory) {
+                case "tool" -> TOOL;
+                case "fork" -> FORK;
+                default -> throw new IllegalArgumentException(
+                        "Unknown process factory: " + factory + " (expected 'tool' or 'fork')");
+            };
+        }
+
+        abstract Function<List<String>, ? extends ProcessHandler> apply(String tool, String fork);
+    }
+
     final class OfTool implements ProcessHandler {
 
         private final ToolProvider toolProvider;
@@ -43,7 +73,7 @@ public sealed interface ProcessHandler permits ProcessHandler.OfTool, ProcessHan
 
     final class OfProcess implements ProcessHandler {
 
-        private static final boolean WINDOWS = System.getProperty("os.name", "").toLowerCase().contains("win");
+        private static final boolean WINDOWS = System.getProperty("os.name", "").toLowerCase(Locale.ROOT).contains("win");
 
         private final List<String> commands;
 
@@ -68,6 +98,43 @@ public sealed interface ProcessHandler permits ProcessHandler.OfTool, ProcessHan
             }
         }
 
+        public static Function<List<String>, OfProcess> ofCommand(String command) {
+            return arguments -> new OfProcess(Stream.concat(
+                    Stream.of(locate(command)),
+                    arguments.stream()).toList());
+        }
+
+        private static String locate(String command) {
+            String name = command + (WINDOWS ? ".exe" : "");
+            List<String> homes = new ArrayList<>();
+            String graalvm = System.getenv("GRAALVM_HOME");
+            if (graalvm != null) {
+                homes.add(graalvm);
+            }
+            String java = System.getProperty("java.home");
+            if (java != null) {
+                homes.add(java);
+            }
+            for (String home : homes) {
+                File program = new File(new File(home, "bin"), name);
+                if (program.isFile()) {
+                    return program.getPath();
+                }
+            }
+            String path = System.getenv("PATH");
+            if (path != null) {
+                for (String entry : path.split(File.pathSeparator)) {
+                    File program = new File(entry, name);
+                    if (program.isFile() && program.canExecute()) {
+                        return program.getPath();
+                    }
+                }
+            }
+            throw new IllegalStateException("Could not locate '"
+                    + command
+                    + "' in GRAALVM_HOME, java.home/bin, or PATH");
+        }
+
         public static Function<List<String>, OfProcess> of(List<String> program) {
             return arguments -> new OfProcess(Stream.concat(program.stream(), arguments.stream()).toList());
         }
@@ -90,6 +157,12 @@ public sealed interface ProcessHandler permits ProcessHandler.OfTool, ProcessHan
             try {
                 return process.waitFor();
             } catch (InterruptedException e) {
+                process.destroyForcibly();
+                try {
+                    process.waitFor(5, TimeUnit.SECONDS);
+                } catch (InterruptedException ignored) {
+                }
+                Thread.currentThread().interrupt();
                 throw new RuntimeException(e);
             }
         }

@@ -2,6 +2,7 @@ package build.jenesis.maven;
 
 import module java.base;
 import build.jenesis.BuildExecutorCallback;
+import build.jenesis.Repository;
 import build.jenesis.RepositoryItem;
 
 public class MavenDefaultRepository implements MavenRepository {
@@ -32,8 +33,12 @@ public class MavenDefaultRepository implements MavenRepository {
         }
         this.writable = this.local != null && Files.isWritable(this.local);
         token = System.getenv("MAVEN_REPOSITORY_TOKEN");
-        validations = Map.of("SHA1", repository);
-        boolean verbose = Boolean.getBoolean("jenesis.verbose");
+        Map<String, URI> validations = new LinkedHashMap<>();
+        validations.put("SHA512", repository);
+        validations.put("SHA256", repository);
+        validations.put("SHA1", repository);
+        this.validations = Collections.unmodifiableMap(validations);
+        boolean verbose = Boolean.getBoolean("jenesis.print.fetch");
         callback = verbose ? path -> System.out.printf("%s%-11s%s %s%n",
                 BuildExecutorCallback.YELLOW,
                 "[FETCHED]",
@@ -144,15 +149,19 @@ public class MavenDefaultRepository implements MavenRepository {
 
     private LazyRepositoryItem fetch(URI repository, String path, boolean validate) throws IOException {
         Path cached = local == null ? null : local.resolve(path);
+        if (cached != null && !cached.normalize().startsWith(local.normalize())) {
+            throw new IllegalStateException("Resolved path escapes the local repository root: " + path);
+        }
         if (cached != null) {
             if (Files.exists(cached)) {
                 boolean valid = true;
                 if (validate) {
+                    boolean verified = false;
                     Map<LazyRepositoryItem, byte[]> results = new HashMap<>();
                     for (Map.Entry<String, URI> entry : validations.entrySet()) {
                         LazyRepositoryItem item = fetch(
                                 entry.getValue(),
-                                path + "." + entry.getKey().toLowerCase(),
+                                path + "." + entry.getKey().toLowerCase(Locale.ROOT),
                                 false);
                         if (valid) {
                             MessageDigest digest;
@@ -162,7 +171,12 @@ public class MavenDefaultRepository implements MavenRepository {
                                 throw new IllegalStateException(e);
                             }
                             try (FileChannel channel = FileChannel.open(cached)) {
-                                digest.update(channel.map(FileChannel.MapMode.READ_ONLY, 0, channel.size()));
+                                ByteBuffer buffer = ByteBuffer.allocate(1 << 16);
+                                while (channel.read(buffer) != -1) {
+                                    buffer.flip();
+                                    digest.update(buffer);
+                                    buffer.clear();
+                                }
                             }
                             Optional<InputStream> candidate = item.toLazyInputStream();
                             if (candidate.isPresent()) {
@@ -171,22 +185,34 @@ public class MavenDefaultRepository implements MavenRepository {
                                     expected = inputStream.readAllBytes();
                                 }
                                 results.put(item, expected);
+                                String text = new String(expected, StandardCharsets.UTF_8).strip();
+                                int end = 0;
+                                while (end < text.length() && !Character.isWhitespace(text.charAt(end))) {
+                                    end++;
+                                }
                                 valid = Arrays.equals(
-                                        HexFormat.of().parseHex(new String(expected, StandardCharsets.UTF_8)),
+                                        HexFormat.of().parseHex(text.substring(0, end)),
                                         digest.digest());
+                                verified = true;
                             }
                         } else {
                             results.put(item, null);
                         }
+                    }
+                    if (!validations.isEmpty() && !verified) {
+                        throw new IllegalStateException("No checksum sidecar available to validate " + path);
                     }
                     if (valid) {
                         for (Map.Entry<LazyRepositoryItem, byte[]> entry : results.entrySet()) {
                             entry.getKey().storeIfNotPresent(entry.getValue());
                         }
                     } else if (writable) {
-                        Files.delete(cached);
-                        for (LazyRepositoryItem item : results.keySet()) {
-                            item.deleteIfPresent();
+                        try {
+                            Files.delete(cached);
+                            for (LazyRepositoryItem item : results.keySet()) {
+                                item.deleteIfPresent();
+                            }
+                        } catch (IOException _) {
                         }
                     }
                 }
@@ -194,14 +220,18 @@ public class MavenDefaultRepository implements MavenRepository {
                     return new StoredRepositoryItem(cached);
                 }
             } else if (writable) {
-                Files.createDirectories(cached.getParent());
+                try {
+                    Files.createDirectories(cached.getParent());
+                } catch (IOException _) {
+                    cached = null;
+                }
             }
         }
         Map<LazyRepositoryItem, MessageDigest> digests = new HashMap<>();
         if (validate) {
             for (Map.Entry<String, URI> entry : validations.entrySet()) {
                 LazyRepositoryItem item = fetch(entry.getValue(),
-                        path + "." + entry.getKey().toLowerCase(),
+                        path + "." + entry.getKey().toLowerCase(Locale.ROOT),
                         false);
                 MessageDigest digest;
                 try {
@@ -223,11 +253,7 @@ public class MavenDefaultRepository implements MavenRepository {
     }
 
     private static InputStream openStream(URI uri, String token) throws IOException {
-        URLConnection connection = uri.toURL().openConnection();
-        if (token != null && connection instanceof HttpURLConnection http) {
-            http.setRequestProperty("Authorization", token);
-        }
-        return connection.getInputStream();
+        return Repository.open(uri, token);
     }
 
     private static Optional<Path> download(URI uri,
@@ -235,15 +261,31 @@ public class MavenDefaultRepository implements MavenRepository {
                                            String prefix,
                                            String suffix,
                                            String token) throws IOException {
-        InputStream stream;
-        try {
-            stream = openStream(uri, token);
-        } catch (FileNotFoundException _) {
-            return Optional.empty();
-        }
         Path temporary = Files.createTempFile(prefix, suffix);
-        try (stream) {
-            Files.copy(stream, temporary, StandardCopyOption.REPLACE_EXISTING);
+        try {
+            IOException failure = null;
+            for (int attempt = 0; attempt < 4; attempt++) {
+                try (InputStream stream = openStream(uri, token)) {
+                    Files.copy(stream, temporary, StandardCopyOption.REPLACE_EXISTING);
+                    failure = null;
+                    break;
+                } catch (FileNotFoundException _) {
+                    Files.deleteIfExists(temporary);
+                    return Optional.empty();
+                } catch (IOException e) {
+                    failure = e;
+                    if (attempt < 3) {
+                        Thread.sleep(500L << attempt);
+                    }
+                }
+            }
+            if (failure != null) {
+                throw failure;
+            }
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            Files.deleteIfExists(temporary);
+            throw new IOException("Interrupted while fetching " + uri, e);
         } catch (Throwable t) {
             Files.deleteIfExists(temporary);
             throw t;
@@ -252,12 +294,19 @@ public class MavenDefaultRepository implements MavenRepository {
             return Optional.of(temporary);
         }
         try {
-            for (MessageDigest digest : digests.values()) {
-                try (FileChannel channel = FileChannel.open(temporary)) {
-                    digest.update(channel.map(FileChannel.MapMode.READ_ONLY, 0, channel.size()));
+            try (FileChannel channel = FileChannel.open(temporary)) {
+                ByteBuffer buffer = ByteBuffer.allocate(1 << 16);
+                while (channel.read(buffer) != -1) {
+                    buffer.flip();
+                    for (MessageDigest digest : digests.values()) {
+                        digest.update(buffer);
+                        buffer.rewind();
+                    }
+                    buffer.clear();
                 }
             }
             String invalid = null;
+            boolean verified = false;
             Map<LazyRepositoryItem, byte[]> results = new HashMap<>();
             for (Map.Entry<LazyRepositoryItem, MessageDigest> entry : digests.entrySet()) {
                 Optional<InputStream> candidate = entry.getKey().toLazyInputStream();
@@ -267,12 +316,18 @@ public class MavenDefaultRepository implements MavenRepository {
                         expected = inputStream.readAllBytes();
                     }
                     results.put(entry.getKey(), expected);
+                    String text = new String(expected, StandardCharsets.UTF_8).strip();
+                    int end = 0;
+                    while (end < text.length() && !Character.isWhitespace(text.charAt(end))) {
+                        end++;
+                    }
                     if (!Arrays.equals(
-                            HexFormat.of().parseHex(new String(expected, StandardCharsets.UTF_8)),
+                            HexFormat.of().parseHex(text.substring(0, end)),
                             entry.getValue().digest())) {
                         invalid = entry.getValue().getAlgorithm();
                         break;
                     }
+                    verified = true;
                 }
             }
             if (invalid != null) {
@@ -280,6 +335,12 @@ public class MavenDefaultRepository implements MavenRepository {
                     item.deleteIfPresent();
                 }
                 throw new IllegalStateException("Failed checksum validation for " + invalid);
+            }
+            if (!verified) {
+                for (LazyRepositoryItem item : digests.keySet()) {
+                    item.deleteIfPresent();
+                }
+                throw new IllegalStateException("No checksum sidecar available to validate " + uri);
             }
             for (Map.Entry<LazyRepositoryItem, byte[]> entry : results.entrySet()) {
                 entry.getKey().storeIfNotPresent(entry.getValue());
@@ -353,7 +414,11 @@ public class MavenDefaultRepository implements MavenRepository {
                 Files.delete(temporary);
                 throw t;
             }
-            Files.move(temporary, path);
+            try {
+                Files.move(temporary, path);
+            } catch (IOException _) {
+                Files.deleteIfExists(temporary);
+            }
         }
 
         @Override
@@ -391,7 +456,11 @@ public class MavenDefaultRepository implements MavenRepository {
             if (temporary.isEmpty()) {
                 return Optional.empty();
             }
-            return Optional.of(new StoredRepositoryItem(Files.move(temporary.get(), path)));
+            try {
+                return Optional.of(new StoredRepositoryItem(Files.move(temporary.get(), path)));
+            } catch (IOException _) {
+                return Optional.of(new StoredRepositoryItem(temporary.get()));
+            }
         }
     }
 }

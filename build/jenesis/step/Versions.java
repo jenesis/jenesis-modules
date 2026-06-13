@@ -5,6 +5,7 @@ import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
+import build.jenesis.Checksum;
 import build.jenesis.ChecksumStatus;
 import build.jenesis.SequencedProperties;
 
@@ -13,7 +14,7 @@ public class Versions implements BuildStep {
     @Override
     public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
         return arguments.values().stream().anyMatch(argument -> argument.hasChanged(
-                Path.of(REQUIRES),
+                Path.of(DEPENDENCIES),
                 Path.of(CLASSES)));
     }
 
@@ -24,7 +25,7 @@ public class Versions implements BuildStep {
             throws IOException {
         SequencedMap<String, String> versions = new LinkedHashMap<>();
         for (BuildStepArgument argument : arguments.values()) {
-            Path requires = argument.folder().resolve(REQUIRES);
+            Path requires = argument.folder().resolve(DEPENDENCIES);
             if (!Files.exists(requires)) {
                 continue;
             }
@@ -43,9 +44,15 @@ public class Versions implements BuildStep {
             }
         }
         Path target = Files.createDirectory(context.next().resolve(CLASSES));
+        for (BuildStepArgument argument : arguments.values()) {
+            Path manifest = argument.folder().resolve("manifest.mf");
+            if (Files.exists(manifest)) {
+                BuildStep.linkOrCopy(context.next().resolve("manifest.mf"), manifest);
+            }
+        }
         boolean requiresChanged = arguments.values().stream().anyMatch(arg -> {
-            ChecksumStatus status = arg.files().get(Path.of(REQUIRES));
-            return status != null && status != ChecksumStatus.RETAINED;
+            Checksum status = arg.files().get(Path.of(REQUIRES));
+            return status != null && status.status() != ChecksumStatus.RETAINED;
         });
         for (BuildStepArgument argument : arguments.values()) {
             Path source = argument.folder().resolve(CLASSES);
@@ -65,8 +72,8 @@ public class Versions implements BuildStep {
                     if (file.getFileName().toString().equals("module-info.class")) {
                         if (!requiresChanged && context.previous() != null) {
                             Path argumentRelative = argument.folder().relativize(file);
-                            ChecksumStatus status = argument.files().get(argumentRelative);
-                            if (status == ChecksumStatus.RETAINED) {
+                            Checksum status = argument.files().get(argumentRelative);
+                            if (status != null && status.status() == ChecksumStatus.RETAINED) {
                                 Path priorOutput = context.previous().resolve(CLASSES).resolve(source.relativize(file));
                                 if (Files.exists(priorOutput)) {
                                     BuildStep.linkOrCopy(destination, priorOutput);

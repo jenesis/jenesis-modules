@@ -56,26 +56,85 @@ public class JenesisModuleRepository implements Repository {
         int slash = identifier.indexOf('/');
         String moduleName = slash < 0 ? identifier : identifier.substring(0, slash);
         String version = slash < 0 ? null : identifier.substring(slash + 1);
+        // Module names cannot contain a dash, so a dash always introduces a classifier.
+        int dash = moduleName.indexOf('-');
+        String classifier = dash < 0 ? null : moduleName.substring(dash + 1);
+        if (dash >= 0) {
+            moduleName = moduleName.substring(0, dash);
+        }
+        requireSafeSegment("module name", moduleName);
+        if (classifier != null) {
+            requireSafeSegment("classifier", classifier);
+        }
+        if (version != null) {
+            requireSafeSegment("version", version);
+        }
+        String fileName = (classifier == null ? moduleName : moduleName + "-" + classifier) + "." + type;
         String relative = version == null
-                ? moduleName + "/" + moduleName + "." + type
-                : moduleName + "/" + version + "/" + moduleName + "." + type;
-        URI uri = root.resolve(relative);
+                ? moduleName + "/" + fileName
+                : moduleName + "/" + version + "/" + fileName;
+        URI base = root.normalize();
+        URI uri = base.resolve(relative).normalize();
+        URI contained = base.relativize(uri);
+        if (contained.isAbsolute() || contained.getPath().startsWith("..")) {
+            throw new IllegalArgumentException("Resolved location " + uri + " escapes repository root " + root);
+        }
         if ("file".equals(uri.getScheme())) {
             Path file = Path.of(uri);
             return Files.isRegularFile(file)
                     ? Optional.of(RepositoryItem.ofFile(file, true))
                     : Optional.empty();
         }
-        InputStream stream;
-        try {
-            URLConnection connection = uri.toURL().openConnection();
-            if (token != null && connection instanceof HttpURLConnection http) {
-                http.setRequestProperty("Authorization", token);
+        InputStream stream = null;
+        IOException failure = null;
+        for (int attempt = 0; attempt < 4; attempt++) {
+            try {
+                stream = Repository.open(uri, token);
+                failure = null;
+                break;
+            } catch (FileNotFoundException _) {
+                return Optional.empty();
+            } catch (IOException e) {
+                failure = e;
+                if (attempt < 3) {
+                    try {
+                        Thread.sleep(500L << attempt);
+                    } catch (InterruptedException interrupted) {
+                        Thread.currentThread().interrupt();
+                        throw new IOException("Interrupted while fetching " + uri, interrupted);
+                    }
+                }
             }
-            stream = connection.getInputStream();
-        } catch (FileNotFoundException _) {
-            return Optional.empty();
         }
-        return Optional.of(() -> stream);
+        if (failure != null) {
+            throw failure;
+        }
+        InputStream fetched = stream;
+        return Optional.of(() -> fetched);
+    }
+
+    private static void requireSafeSegment(String role, String value) {
+        if (value.isEmpty()) {
+            throw new IllegalArgumentException("Blank " + role + " is not a valid coordinate");
+        }
+        for (String segment : value.split("/", -1)) {
+            if (segment.equals("..")) {
+                throw new IllegalArgumentException("Illegal " + role + " '" + value + "': path traversal is not permitted");
+            }
+        }
+        for (int index = 0; index < value.length(); index++) {
+            char character = value.charAt(index);
+            boolean permitted = character >= 'a' && character <= 'z'
+                    || character >= 'A' && character <= 'Z'
+                    || character >= '0' && character <= '9'
+                    || character == '.'
+                    || character == '-'
+                    || character == '_'
+                    || character == '+';
+            if (!permitted) {
+                throw new IllegalArgumentException(
+                        "Illegal " + role + " '" + value + "': character '" + character + "' is not permitted");
+            }
+        }
     }
 }

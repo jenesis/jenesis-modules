@@ -63,8 +63,8 @@ public record MultiProjectModule(BuildExecutorModule identifier,
                 }
             }
             process.addStep(GROUP,
-                    new Group(identifier -> Optional.of(modules.get(identifier)),
-                            BuildStep.REQUIRES),
+                    new Group(identifier -> Optional.of(modules.get(identifier)))
+                            .requiresPath(BuildStep.REQUIRES),
                     modules.sequencedKeySet());
             process.addModule(MODULE, (build, paths) -> {
                 SequencedMap<String, SequencedSet<String>> projects = new LinkedHashMap<>();
@@ -75,8 +75,8 @@ public record MultiProjectModule(BuildExecutorModule identifier,
                 }
                 MultiProject project = factory.apply(projects);
                 SequencedMap<String, SequencedSet<String>> pending = new LinkedHashMap<>(projects);
-                SequencedSet<String> added = new LinkedHashSet<>();
                 while (!pending.isEmpty()) {
+                    boolean progressed = false;
                     Iterator<Map.Entry<String, SequencedSet<String>>> it = pending.entrySet().iterator();
                     while (it.hasNext()) {
                         Map.Entry<String, SequencedSet<String>> entry = it.next();
@@ -99,13 +99,16 @@ public record MultiProjectModule(BuildExecutorModule identifier,
                                     dependencies,
                                     arguments), Stream.of(
                                             arguments.sequencedKeySet().stream(),
-                                            added.stream(),
+                                            dependencies.sequencedKeySet().stream(),
                                             inherited.sequencedKeySet().stream()
                                                     .map(identifier -> PREVIOUS.repeat(2) + identifier))
                                     .flatMap(Function.identity()));
-                            added.add(entry.getKey());
                             it.remove();
+                            progressed = true;
                         }
+                    }
+                    if (!progressed) {
+                        throw new IllegalStateException("Cyclic module dependencies: " + pending.keySet());
                     }
                 }
             }, Stream.concat(Stream.of(GROUP), identified.sequencedKeySet().stream()));

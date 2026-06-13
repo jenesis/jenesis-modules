@@ -1,6 +1,7 @@
 package build.jenesis.module;
 
 import module java.base;
+import build.jenesis.DependencyScope;
 import build.jenesis.Repository;
 import build.jenesis.RepositoryItem;
 import build.jenesis.Resolver;
@@ -22,23 +23,27 @@ public class ModularJarResolver implements Resolver {
     }
 
     @Override
-    public SequencedMap<String, String> dependencies(Executor executor,
-                                                     String prefix,
-                                                     Map<String, Repository> repositories,
-                                                     SequencedMap<String, SequencedSet<String>> coordinates,
-                                                     SequencedMap<String, String> versions,
-                                                     boolean compile) throws IOException {
+    public Resolver.Resolution dependencies(Executor executor,
+                                            String prefix,
+                                            Map<String, Repository> repositories,
+                                            SequencedMap<String, SequencedSet<String>> coordinates,
+                                            SequencedMap<String, String> versions,
+                                            DependencyScope scope) throws IOException {
         coordinates.forEach((coordinate, exclusions) -> {
             if (!exclusions.isEmpty()) {
                 throw new IllegalArgumentException(
                         "Module system does not support exclusions, but " + coordinate + " declares " + exclusions);
             }
         });
-        SequencedMap<String, String> dependencies = new LinkedHashMap<>();
+        SequencedMap<String, Resolver.Resolved> dependencies = new LinkedHashMap<>();
         SequencedSet<String> resolved = new LinkedHashSet<>();
         SequencedSet<String> unresolved = new LinkedHashSet<>();
         SequencedMap<String, String> propagated = new LinkedHashMap<>();
         SequencedMap<String, String> hints = new LinkedHashMap<>(versions);
+        List<Resolver.Edge> edges = new ArrayList<>();
+        SequencedMap<String, Resolver.Vertex> nodes = new LinkedHashMap<>();
+        Map<String, String> parents = new HashMap<>();
+        Map<String, String> moduleCoordinates = new HashMap<>();
         Queue<String> queue = new ArrayDeque<>(coordinates.sequencedKeySet());
         int runtime = Runtime.version().feature();
         while (!queue.isEmpty()) {
@@ -61,10 +66,24 @@ public class ModularJarResolver implements Resolver {
             }
             String hint = propagated.get(current);
             String requested = pin != null ? pin : (hint != null ? hint : inlineVersion);
+            String classifier, expected;
+            if (requested != null && requested.startsWith(":")) {
+                int divider = requested.indexOf(':', 1);
+                classifier = divider < 0 ? requested.substring(1) : requested.substring(1, divider);
+                expected = divider < 0 ? null : requested.substring(divider + 1);
+                if (classifier.isEmpty() || expected != null && expected.isEmpty()) {
+                    throw new IllegalArgumentException("Malformed classifier '" + requested + "' for " + current
+                            + ": expected :<classifier> or :<classifier>:<version>");
+                }
+            } else {
+                classifier = null;
+                expected = requested;
+            }
+            String identifier = classifier == null ? current : current + "-" + classifier;
             Repository repository = repositories.getOrDefault(Resolver.base(prefix), Repository.empty());
-            RepositoryItem item = requested == null
-                    ? repository.fetch(executor, current).orElse(null)
-                    : repository.fetch(executor, current + "/" + requested).orElse(null);
+            RepositoryItem item = expected == null
+                    ? repository.fetch(executor, identifier).orElse(null)
+                    : repository.fetch(executor, identifier + "/" + expected).orElse(null);
             if (item == null) {
                 if (fallback == null) {
                     throw new IllegalArgumentException("No module found for " + current);
@@ -133,24 +152,57 @@ public class ModularJarResolver implements Resolver {
                             "Expected module " + current + " but jar declares " + descriptor.name());
                 }
                 String declared = descriptor.rawVersion().orElse(null);
-                if (!resolveAutomaticModules && declared != null && requested != null && !declared.equals(requested)) {
+                if (declared != null && declared.startsWith(":")) {
                     throw new IllegalArgumentException(
-                            "Expected version " + requested + " for " + current + " but jar declares " + declared);
+                            "Module " + current + " declares an unsafe version '" + declared + "'");
                 }
-                String version = requested != null ? requested : declared;
-                dependencies.put(prefix + "/" + current + (version == null ? "" : "/" + version),
-                        checksum == null ? "" : checksum);
+                if (!resolveAutomaticModules && declared != null && expected != null && !declared.equals(expected)) {
+                    throw new IllegalArgumentException(
+                            "Expected version " + expected + " for " + current + " but jar declares " + declared);
+                }
+                String version = expected != null ? expected : declared;
+                String currentCoordinate = prefix + "/" + identifier + (version == null ? "" : "/" + version);
+                Path jar = item.file().orElseThrow(() -> new IllegalStateException(
+                        "Repository did not materialize a file for " + current));
+                if (checksum != null && !checksum.isEmpty()) {
+                    Resolver.validate(jar, checksum, currentCoordinate);
+                }
+                dependencies.put(currentCoordinate, new Resolver.Resolved(jar, checksum == null ? "" : checksum, item.internal()));
                 resolved.add(current);
+                moduleCoordinates.put(current, currentCoordinate);
+                nodes.put(prefix + "/" + current, new Resolver.Vertex(version, descriptor.name(), descriptor.isAutomatic(), List.of()));
+                String parent = parents.get(current);
+                edges.add(new Resolver.Edge(
+                        parent == null ? null : moduleCoordinates.get(parent),
+                        currentCoordinate,
+                        version,
+                        null,
+                        true));
                 descriptor.requires().stream()
                         .filter(requires -> !requires.accessFlags().contains(AccessFlag.STATIC_PHASE)
-                                || compile && requires.accessFlags().contains(AccessFlag.TRANSITIVE))
+                                || scope == DependencyScope.COMPILE && requires.accessFlags().contains(AccessFlag.TRANSITIVE))
                         .filter(requires -> !requires.name().startsWith("java.") && !requires.name().startsWith("jdk."))
                         .sorted(Comparator.comparing(ModuleDescriptor.Requires::name))
                         .forEach(requires -> {
                             String name = requires.name();
-                            requires.rawCompiledVersion().ifPresent(v -> propagated.putIfAbsent(name, v));
+                            requires.rawCompiledVersion().ifPresent(v -> {
+                                if (v.isEmpty() || v.equals("..") || v.indexOf('/') >= 0 || v.indexOf('\\') >= 0
+                                        || v.startsWith(":")) {
+                                    throw new IllegalArgumentException("Module " + current
+                                            + " declares an unsafe compiled version '" + v + "' for " + name);
+                                }
+                                propagated.putIfAbsent(name, v);
+                            });
+                            parents.putIfAbsent(name, current);
                             if (!unresolved.contains(name) && !resolved.contains(name)) {
                                 queue.add(name);
+                            } else if (resolved.contains(name)) {
+                                edges.add(new Resolver.Edge(
+                                        currentCoordinate,
+                                        moduleCoordinates.get(name),
+                                        null,
+                                        null,
+                                        false));
                             }
                         });
             }
@@ -160,10 +212,13 @@ public class ModularJarResolver implements Resolver {
             for (String coordinate : unresolved) {
                 unresolvedCoordinates.put(coordinate, Collections.emptyNavigableSet());
             }
-            fallback.dependencies(executor, prefix, repositories, unresolvedCoordinates, hints, compile)
-                    .forEach(dependencies::putIfAbsent);
+            Resolver.Resolution fallbackResolution = fallback.dependencies(
+                    executor, prefix, repositories, unresolvedCoordinates, hints, scope);
+            fallbackResolution.artifacts().forEach(dependencies::putIfAbsent);
+            edges.addAll(fallbackResolution.edges());
+            fallbackResolution.vertices().forEach(nodes::putIfAbsent);
         }
-        return dependencies;
+        return new Resolver.Resolution(dependencies, edges, nodes);
     }
 
 }

@@ -5,6 +5,7 @@ import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
+import build.jenesis.Checksum;
 import build.jenesis.ChecksumStatus;
 import build.jenesis.PathPlacement;
 import build.jenesis.SequencedProperties;
@@ -16,21 +17,20 @@ public class Javac extends JdkProcessBuildStep {
 
     private final boolean includeResources;
     private final PathPlacement placement;
+    private final String group;
+
+    public Javac(ProcessHandler.Factory factory) {
+        this(factory.apply("javac", "bin/javac"), true, PathPlacement.INFERRED, "main");
+    }
 
     private Javac(Function<List<String>, ? extends ProcessHandler> factory,
                   boolean includeResources,
-                  PathPlacement placement) {
+                  PathPlacement placement,
+                  String group) {
         super("javac", factory);
         this.includeResources = includeResources;
         this.placement = placement;
-    }
-
-    public static Javac tool() {
-        return new Javac(ProcessHandler.OfTool.of("javac"), true, PathPlacement.INFERRED);
-    }
-
-    public static Javac process() {
-        return new Javac(ProcessHandler.OfProcess.ofJavaHome("bin/javac"), true, PathPlacement.INFERRED);
+        this.group = group;
     }
 
     public static void writeRelease(Path folder, String release) throws IOException {
@@ -44,11 +44,15 @@ public class Javac extends JdkProcessBuildStep {
     }
 
     public Javac includeResources(boolean includeResources) {
-        return new Javac(factory, includeResources, placement);
+        return new Javac(factory, includeResources, placement, group);
     }
 
     public Javac modulePath(PathPlacement placement) {
-        return new Javac(factory, includeResources, placement);
+        return new Javac(factory, includeResources, placement, group);
+    }
+
+    public Javac group(String group) {
+        return new Javac(factory, includeResources, placement, group);
     }
 
     @Override
@@ -62,14 +66,14 @@ public class Javac extends JdkProcessBuildStep {
         Path sourcesDir = Path.of(SOURCES);
         Path classesDir = Path.of(CLASSES);
         Path artifactsDir = Path.of(ARTIFACTS);
-        Path dependenciesDir = Path.of(DEPENDENCIES);
+        Path dependencyIndex = Path.of(DEPENDENCIES);
         Set<Path> processFiles = new LinkedHashSet<>();
         for (String name : processProperties) {
             processFiles.add(Path.of(ProcessBuildStep.PROCESS + name));
         }
         for (BuildStepArgument argument : arguments.values()) {
-            for (Map.Entry<Path, ChecksumStatus> entry : argument.files().entrySet()) {
-                if (entry.getValue() == ChecksumStatus.RETAINED) {
+            for (Map.Entry<Path, Checksum> entry : argument.files().entrySet()) {
+                if (entry.getValue().status() == ChecksumStatus.RETAINED) {
                     continue;
                 }
                 Path path = entry.getKey();
@@ -78,7 +82,7 @@ public class Javac extends JdkProcessBuildStep {
                 }
                 if (path.startsWith(classesDir)
                         || path.startsWith(artifactsDir)
-                        || path.startsWith(dependenciesDir)) {
+                        || path.startsWith(dependencyIndex)) {
                     return true;
                 }
                 if (path.startsWith(sourcesDir)) {
@@ -125,25 +129,20 @@ public class Javac extends JdkProcessBuildStep {
         Path target = Files.createDirectory(context.next().resolve(CLASSES));
         List<String> files = new ArrayList<>(),
                 path = new ArrayList<>(),
+                processorPath = new ArrayList<>(),
                 siblingClasses = new ArrayList<>(),
                 commands = new ArrayList<>(List.of("-d", target.toString()));
         for (BuildStepArgument argument : arguments.values()) {
+            for (Path jar : Dependencies.select(argument.folder(), group, "compile")) {
+                path.add(jar.toString());
+            }
+            for (Path jar : Dependencies.select(argument.folder(), "plugin", "plugin")) {
+                processorPath.add(jar.toString());
+            }
             Path sources = argument.folder().resolve(Bind.SOURCES),
                     classes = argument.folder().resolve(CLASSES);
             if (Files.exists(classes)) {
                 siblingClasses.add(classes.toString());
-            }
-            for (String jarFolder : List.of(ARTIFACTS, DEPENDENCIES)) {
-                Path jars = argument.folder().resolve(jarFolder);
-                if (Files.exists(jars)) {
-                    Files.walkFileTree(jars, new SimpleFileVisitor<>() {
-                        @Override
-                        public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                            path.add(file.toString());
-                            return FileVisitResult.CONTINUE;
-                        }
-                    });
-                }
             }
             if (Files.exists(sources)) {
                 Files.walkFileTree(sources, new SimpleFileVisitor<>() {
@@ -161,7 +160,7 @@ public class Javac extends JdkProcessBuildStep {
                             if (versionOf(relative) == null) {
                                 files.add(name);
                             }
-                        } else if (includeResources) {
+                        } else if (includeResources && !BuildStep.underMetaInfVersions(relative)) {
                             BuildStep.linkOrCopy(target.resolve(relative), file);
                         }
                         return FileVisitResult.CONTINUE;
@@ -169,6 +168,7 @@ public class Javac extends JdkProcessBuildStep {
                 });
             }
         }
+        files.sort(null);
         if (files.isEmpty()) {
             return CompletableFuture.completedStage(null);
         }
@@ -184,8 +184,14 @@ public class Javac extends JdkProcessBuildStep {
         } else {
             path.addAll(siblingClasses);
         }
-        if (!path.isEmpty() || patchModule != null) {
+        if (!path.isEmpty() || patchModule != null || !processorPath.isEmpty()) {
             for (String entry : path) {
+                if (entry.indexOf(File.pathSeparatorChar) != -1) {
+                    throw new IllegalArgumentException(
+                            "Path entry contains separator '" + File.pathSeparator + "': " + entry);
+                }
+            }
+            for (String entry : processorPath) {
                 if (entry.indexOf(File.pathSeparatorChar) != -1) {
                     throw new IllegalArgumentException(
                             "Path entry contains separator '" + File.pathSeparator + "': " + entry);
@@ -213,6 +219,11 @@ public class Javac extends JdkProcessBuildStep {
                         .append(String.join(File.pathSeparator, siblingClasses).replace("\\", "\\\\").replace("\"", "\\\""))
                         .append("\"\n");
             }
+            if (!processorPath.isEmpty()) {
+                args.append(placement.modular() ? "--processor-module-path\n\"" : "--processor-path\n\"")
+                        .append(String.join(File.pathSeparator, processorPath).replace("\\", "\\\\").replace("\"", "\\\""))
+                        .append("\"\n");
+            }
             Path file = context.supplement().resolve("javac.args");
             Files.writeString(file, args.toString());
             commands.add("@" + file);
@@ -233,17 +244,8 @@ public class Javac extends JdkProcessBuildStep {
             if (Files.exists(classes)) {
                 dependencyPath.add(classes.toString());
             }
-            for (String jarFolder : List.of(ARTIFACTS, DEPENDENCIES)) {
-                Path jars = argument.folder().resolve(jarFolder);
-                if (Files.exists(jars)) {
-                    Files.walkFileTree(jars, new SimpleFileVisitor<>() {
-                        @Override
-                        public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                            dependencyPath.add(file.toString());
-                            return FileVisitResult.CONTINUE;
-                        }
-                    });
-                }
+            for (Path jar : Dependencies.select(argument.folder(), group, "compile")) {
+                dependencyPath.add(jar.toString());
             }
             Path sources = argument.folder().resolve(Bind.SOURCES);
             if (Files.exists(sources)) {
@@ -268,6 +270,9 @@ public class Javac extends JdkProcessBuildStep {
                 });
             }
         }
+        dependencyPath.sort(null);
+        versionedFiles.values().forEach(versioned -> versioned.sort(null));
+        versionedRoots.values().forEach(roots -> roots.sort(null));
         if (versionedFiles.isEmpty()) {
             return CompletableFuture.completedStage(null);
         }

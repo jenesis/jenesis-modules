@@ -5,27 +5,19 @@ import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
-import build.jenesis.HashDigestFunction;
 import build.jenesis.SequencedProperties;
 
 public class MultiProjectDependencies implements BuildStep {
 
     private final Predicate<String> isModule;
-    private final DependencyScope scope;
-    private final HashDigestFunction digest;
 
-    public <P extends Predicate<String> & Serializable> MultiProjectDependencies(P isModule,
-                                                                                 DependencyScope scope,
-                                                                                 HashDigestFunction digest) {
+    public <P extends Predicate<String> & Serializable> MultiProjectDependencies(P isModule) {
         this.isModule = isModule;
-        this.scope = scope;
-        this.digest = digest;
     }
 
     @Override
     public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
         return arguments.values().stream().anyMatch(argument -> argument.hasChanged(
-                Path.of(SCOPES),
                 Path.of(REQUIRES),
                 Path.of(VERSIONS),
                 Path.of(EXCLUSIONS),
@@ -38,30 +30,17 @@ public class MultiProjectDependencies implements BuildStep {
                                                   BuildStepContext context,
                                                   SequencedMap<String, BuildStepArgument> arguments)
             throws IOException {
-        SequencedMap<String, String> coordinates = new LinkedHashMap<>(),
-                dependencies = new LinkedHashMap<>(),
+        SequencedMap<String, Path> coordinates = new LinkedHashMap<>();
+        SequencedMap<String, String> dependencies = new LinkedHashMap<>(),
                 versions = new LinkedHashMap<>(),
                 exclusions = new LinkedHashMap<>();
         for (Map.Entry<String, BuildStepArgument> entry : arguments.entrySet()) {
             if (isModule.test(entry.getKey())) {
-                Path scopesFile = entry.getValue().folder().resolve(SCOPES);
-                Set<String> filtered = new LinkedHashSet<>();
-                if (Files.exists(scopesFile)) {
-                    SequencedProperties scopesProperties = SequencedProperties.ofFiles(scopesFile);
-                    for (String property : scopesProperties.stringPropertyNames()) {
-                        if (List.of(scopesProperties.getProperty(property).split(",")).contains(scope.label())) {
-                            filtered.add(property);
-                        }
-                    }
-                }
                 Path requiresPath = entry.getValue().folder().resolve(REQUIRES);
                 if (Files.exists(requiresPath)) {
                     SequencedProperties properties = SequencedProperties.ofFiles(requiresPath);
-                    properties.stringPropertyNames().forEach(property -> {
-                        if (filtered.isEmpty() || filtered.contains(property)) {
-                            dependencies.put(property, properties.getProperty(property));
-                        }
-                    });
+                    properties.stringPropertyNames().forEach(property ->
+                            dependencies.put(property, properties.getProperty(property)));
                 }
                 Path versionsPath = entry.getValue().folder().resolve(VERSIONS);
                 if (Files.exists(versionsPath)) {
@@ -73,11 +52,8 @@ public class MultiProjectDependencies implements BuildStep {
                 Path exclusionsPath = entry.getValue().folder().resolve(EXCLUSIONS);
                 if (Files.exists(exclusionsPath)) {
                     SequencedProperties properties = SequencedProperties.ofFiles(exclusionsPath);
-                    properties.stringPropertyNames().forEach(property -> {
-                        if (filtered.isEmpty() || filtered.contains(property)) {
-                            exclusions.putIfAbsent(property, properties.getProperty(property));
-                        }
-                    });
+                    properties.stringPropertyNames().forEach(property ->
+                            exclusions.putIfAbsent(property, properties.getProperty(property)));
                 }
             } else {
                 Path file = entry.getValue().folder().resolve(IDENTITY);
@@ -87,8 +63,7 @@ public class MultiProjectDependencies implements BuildStep {
                     for (String property : properties.stringPropertyNames()) {
                         String value = properties.getProperty(property);
                         if (!value.isEmpty()) {
-                            Path resolved = folder.resolve(value).normalize();
-                            coordinates.put(property, resolved.toString());
+                            coordinates.put(property, folder.resolve(value).normalize());
                         }
                     }
                 }
@@ -96,10 +71,12 @@ public class MultiProjectDependencies implements BuildStep {
         }
         SequencedProperties properties = new SequencedProperties();
         for (Map.Entry<String, String> entry : dependencies.entrySet()) {
-            String candidate = coordinates.get(entry.getKey());
+            String key = entry.getKey();
+            int second = key.indexOf('/', key.indexOf('/') + 1);
+            Path candidate = coordinates.get(key.substring(second + 1));
             properties.setProperty(entry.getKey(),
-                    candidate != null && !candidate.isEmpty()
-                            ? digest.encodedHash(Path.of(candidate))
+                    candidate != null
+                            ? fingerprint(arguments.values(), candidate)
                             : entry.getValue());
         }
         properties.store(context.next().resolve(REQUIRES));
@@ -114,5 +91,17 @@ public class MultiProjectDependencies implements BuildStep {
             exclusionsProperties.store(context.next().resolve(EXCLUSIONS));
         }
         return CompletableFuture.completedStage(new BuildStepResult(true));
+    }
+
+    private static String fingerprint(Collection<BuildStepArgument> arguments, Path artifact) {
+        for (BuildStepArgument argument : arguments) {
+            if (artifact.startsWith(argument.folder())) {
+                String checksum = argument.checksum(argument.folder().relativize(artifact));
+                if (checksum != null) {
+                    return checksum;
+                }
+            }
+        }
+        throw new IllegalStateException("No tracked checksum for sibling artifact: " + artifact);
     }
 }

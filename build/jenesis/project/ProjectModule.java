@@ -16,7 +16,5 @@ public interface ProjectModule {
 
     SequencedSet<String> coordinates();
 
-    SequencedSet<String> artifacts(DependencyScope scope);
-
-    SequencedSet<String> resolved(DependencyScope scope);
+    SequencedSet<String> artifacts();
 }

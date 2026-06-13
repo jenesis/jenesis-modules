@@ -12,16 +12,20 @@ public class Assign implements BuildStep {
     private final BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> assigner;
 
     public Assign() {
-        assigner = (BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> & Serializable) ((coordinates, files) -> {
+        this((BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> & Serializable) ((coordinates, files) -> {
             if (files.size() != 1) {
                 throw new IllegalArgumentException("Expected exactly one artifact: " + files);
             }
             return coordinates.stream().collect(Collectors.toMap(Function.identity(), _ -> files.getFirst()));
-        });
+        }));
     }
 
-    public <F extends BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> & Serializable> Assign(F assigner) {
+    private Assign(BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> assigner) {
         this.assigner = assigner;
+    }
+
+    public <F extends BiFunction<Set<String>, SequencedSet<Path>, Map<String, Path>> & Serializable> Assign assigner(F assigner) {
+        return new Assign(assigner);
     }
 
     @Override
@@ -36,8 +40,8 @@ public class Assign implements BuildStep {
                                                   SequencedMap<String, BuildStepArgument> arguments)
             throws IOException {
         SequencedProperties assignments = new SequencedProperties();
-        SequencedSet<Path> files = new LinkedHashSet<>();
-        SequencedSet<Path> jmods = new LinkedHashSet<>();
+        SequencedSet<Path> files = new TreeSet<>();
+        SequencedSet<Path> jmods = new TreeSet<>();
         for (BuildStepArgument argument : arguments.values()) {
             Path artifacts = argument.folder().resolve(ARTIFACTS);
             if (Files.exists(artifacts)) {

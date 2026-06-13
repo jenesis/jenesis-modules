@@ -30,20 +30,29 @@ public record TestNG() implements TestEngine {
     }
 
     @Override
-    public List<String> arguments(Path supplement) {
-        return List.of("-d", supplement.resolve("test-output").toString());
-    }
-
-    @Override
-    public List<String> commands(List<String> classes, SequencedMap<String, List<String>> methods) {
-        List<String> commands = new ArrayList<>();
+    public List<String> commands(Path supplement,
+                                 Path output,
+                                 SequencedSet<String> classes,
+                                 SequencedMap<String, SequencedSet<String>> methods,
+                                 SequencedSet<String> groups,
+                                 boolean parallel,
+                                 boolean reporting) {
+        List<String> commands = new ArrayList<>(List.of("-d", supplement.resolve("test-output").toString()));
+        if (!groups.isEmpty()) {
+            commands.add("-groups");
+            commands.add(String.join(",", groups));
+        }
+        if (parallel) {
+            commands.add("-parallel");
+            commands.add("methods");
+        }
         if (!classes.isEmpty()) {
             commands.add("-testclass");
             commands.add(String.join(",", classes));
         }
         if (!methods.isEmpty()) {
             List<String> joined = new ArrayList<>();
-            for (Map.Entry<String, List<String>> entry : methods.entrySet()) {
+            for (Map.Entry<String, SequencedSet<String>> entry : methods.entrySet()) {
                 for (String method : entry.getValue()) {
                     joined.add(entry.getKey() + "." + method);
                 }

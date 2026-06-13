@@ -30,15 +30,19 @@ public record JUnit4() implements TestEngine {
     }
 
     @Override
-    public List<String> arguments(Path supplement) {
-        return List.of();
-    }
-
-    @Override
-    public List<String> commands(List<String> classes, SequencedMap<String, List<String>> methods) {
+    public List<String> commands(Path supplement,
+                                 Path output,
+                                 SequencedSet<String> classes,
+                                 SequencedMap<String, SequencedSet<String>> methods,
+                                 SequencedSet<String> groups,
+                                 boolean parallel,
+                                 boolean reporting) {
         if (!methods.isEmpty()) {
             throw new IllegalArgumentException("JUnit4 does not support running individual methods");
         }
-        return classes;
+        if (!groups.isEmpty()) {
+            throw new IllegalArgumentException("JUnit 4 cannot select @Category groups through its console runner");
+        }
+        return List.copyOf(classes);
     }
 }

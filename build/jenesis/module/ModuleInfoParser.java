@@ -2,6 +2,7 @@ package build.jenesis.module;
 
 import module java.base;
 import module jdk.compiler;
+import build.jenesis.Platform;
 import javax.tools.ToolProvider;
 
 import static java.util.Objects.requireNonNull;
@@ -9,6 +10,15 @@ import static java.util.Objects.requireNonNull;
 public class ModuleInfoParser {
 
     private final JavaCompiler compiler = ToolProvider.getSystemJavaCompiler();
+    private final String group;
+
+    public ModuleInfoParser() {
+        this("main");
+    }
+
+    public ModuleInfoParser(String group) {
+        this.group = group;
+    }
 
     public ModuleInfo identify(Path moduleInfo) throws IOException {
         JavacTask javac = (JavacTask) compiler.getTask(new PrintWriter(Writer.nullWriter()),
@@ -39,6 +49,8 @@ public class ModuleInfoParser {
                 }
             }
             SequencedMap<String, String> versions = new LinkedHashMap<>();
+            SequencedMap<String, SequencedMap<String, String>> variants = new LinkedHashMap<>();
+            SequencedMap<String, String> plugins = new LinkedHashMap<>();
             String release = null;
             String name = null;
             String description = null;
@@ -70,44 +82,73 @@ public class ModuleInfoParser {
                                 .trim();
                         switch (unknown.getTagName()) {
                             case "jenesis.pin" -> {
-                                int split = content.indexOf(' ');
-                                if (split < 1 || split == content.length() - 1) {
+                                String pin = content.replaceAll("\\s+", " ");
+                                int split = pin.indexOf(' ');
+                                if (split < 1 || split == pin.length() - 1) {
                                     continue;
                                 }
-                                String token = content.substring(0, split).trim();
-                                String version = content.substring(split + 1).trim().replaceAll("\\s+", " ");
-                                if (token.isEmpty() || version.isEmpty()) {
+                                String token = pin.substring(0, split);
+                                String version = pin.substring(split + 1).trim();
+                                String guard = null;
+                                if (version.endsWith("]")) {
+                                    int bracket = version.lastIndexOf('[');
+                                    if (bracket < 0) {
+                                        throw new IllegalArgumentException("Malformed @jenesis.pin guard '"
+                                                + version
+                                                + "': expected <value> [<token>,<token>...]");
+                                    }
+                                    guard = Platform.of(
+                                            version.substring(bracket + 1, version.length() - 1)).canonical();
+                                    version = version.substring(0, bracket).trim();
+                                }
+                                if (token.isEmpty() || version.isEmpty()
+                                        || token.startsWith("java.") || token.startsWith("jdk.")) {
                                     continue;
                                 }
-                                int at = token.indexOf('@');
                                 String key;
-                                if (at < 0) {
-                                    int slash = token.indexOf('/');
-                                    if (slash < 0) {
-                                        if (token.startsWith("java.") || token.startsWith("jdk.")) {
-                                            continue;
-                                        }
-                                        key = "module/" + token;
-                                    } else {
-                                        if (slash == 0 || slash == token.length() - 1) {
-                                            continue;
-                                        }
-                                        key = token;
+                                int firstSlash = token.indexOf('/');
+                                int secondSlash = firstSlash < 0 ? -1 : token.indexOf('/', firstSlash + 1);
+                                if (firstSlash < 0) {
+                                    key = group + "/module/" + token;
+                                } else if (secondSlash < 0) {
+                                    if (firstSlash < 1 || firstSlash == token.length() - 1) {
+                                        throw new IllegalArgumentException("Malformed @jenesis.pin token '"
+                                                + token
+                                                + "': expected <module>, <groupId>/<artifactId>,"
+                                                + " or <group>/<repository>/<coordinate>");
                                     }
-                                } else if (at == 0) {
-                                    int slash = token.indexOf('/');
-                                    if (slash < 2 || slash == token.length() - 1) {
-                                        continue;
-                                    }
-                                    key = "module" + token;
+                                    key = group + "/maven/" + token;
                                 } else {
-                                    int slash = token.indexOf('/', at);
-                                    if (slash <= at + 1 || slash == token.length() - 1) {
-                                        continue;
+                                    if (firstSlash < 1 || secondSlash == firstSlash + 1
+                                            || secondSlash == token.length() - 1) {
+                                        throw new IllegalArgumentException("Malformed @jenesis.pin token '"
+                                                + token
+                                                + "': expected <module>, <groupId>/<artifactId>,"
+                                                + " or <group>/<repository>/<coordinate>");
                                     }
                                     key = token;
                                 }
-                                versions.put(key, version);
+                                if (guard == null) {
+                                    versions.put(key, version);
+                                } else {
+                                    variants.computeIfAbsent(key, _ -> new LinkedHashMap<>()).put(guard, version);
+                                }
+                            }
+                            case "jenesis.plugin" -> {
+                                String trimmed = content.trim();
+                                int space = trimmed.indexOf(' ');
+                                String group, token;
+                                if (space > 0 && trimmed.substring(0, space).indexOf('/') < 0) {
+                                    group = trimmed.substring(0, space).trim();
+                                    token = trimmed.substring(space + 1).trim();
+                                } else {
+                                    group = "plugin";
+                                    token = trimmed;
+                                }
+                                if (token.isEmpty()) {
+                                    continue;
+                                }
+                                plugins.put(token.indexOf('/') < 0 ? "module/" + token : token, group);
                             }
                             case "jenesis.release" -> {
                                 if (!content.isEmpty()) {
@@ -132,7 +173,9 @@ public class ModuleInfoParser {
                     main,
                     dependencies,
                     runtimeDependencies,
-                    versions);
+                    plugins,
+                    versions,
+                    variants);
         }
         throw new IllegalArgumentException("Expected module-info.java to contain module information");
     }

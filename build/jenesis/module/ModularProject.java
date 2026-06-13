@@ -1,24 +1,24 @@
 package build.jenesis.module;
 
 import module java.base;
+import build.jenesis.Pinning;
+import build.jenesis.Platform;
 import build.jenesis.BuildExecutor;
 import build.jenesis.BuildExecutorModule;
 import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
-import build.jenesis.HashDigestFunction;
 import build.jenesis.Repository;
 import build.jenesis.Resolver;
 import build.jenesis.SequencedProperties;
-import build.jenesis.project.DependenciesModule;
 import build.jenesis.project.ProjectModule;
 import build.jenesis.project.MultiProjectAssembler;
 import build.jenesis.project.MultiProjectDependencies;
 import build.jenesis.project.MultiProjectModule;
-import build.jenesis.project.DependencyScope;
 import build.jenesis.step.Assign;
 import build.jenesis.step.Bind;
+import build.jenesis.step.Dependencies;
 import build.jenesis.step.Inventory;
 import build.jenesis.step.Javac;
 
@@ -34,40 +34,71 @@ public class ModularProject implements BuildExecutorModule {
 
     private static final String SIBLING_MODULE_PREFIX = MultiProjectModule.MODULE + "-";
 
+    private final String group;
     private final String prefix;
     private final Path root;
     private final Predicate<Path> filter;
     private final boolean modular;
+    private final Platform platform;
 
-    public ModularProject(String prefix, Path root, Predicate<Path> filter, boolean modular) {
+    public ModularProject(String prefix, Path root) {
+        this("main", prefix, root, _ -> true, true, new Platform());
+    }
+
+    private ModularProject(String group,
+                           String prefix,
+                           Path root,
+                           Predicate<Path> filter,
+                           boolean modular,
+                           Platform platform) {
+        this.group = group;
         this.prefix = prefix;
         this.root = root;
         this.filter = filter;
         this.modular = modular;
+        this.platform = platform;
+    }
+
+    public ModularProject group(String group) {
+        return new ModularProject(group, prefix, root, filter, modular, platform);
+    }
+
+    public ModularProject filter(Predicate<Path> filter) {
+        return new ModularProject(group, prefix, root, filter, modular, platform);
+    }
+
+    public ModularProject modular(boolean modular) {
+        return new ModularProject(group, prefix, root, filter, modular, platform);
+    }
+
+    public ModularProject platform(Platform platform) {
+        return new ModularProject(group, prefix, root, filter, modular, platform);
     }
 
     public static BuildExecutorModule make(Path root, MultiProjectAssembler<? super ModularModuleDescriptor> assembler) {
         return make(root,
+                "main",
                 "module",
                 _ -> true,
                 Map.of("module", new JenesisModuleRepository(true)),
                 Map.of("module", new ModularJarResolver(false)),
-                false,
+                null,
                 true,
-                new HashDigestFunction("MD5"),
+                false,
                 assembler);
     }
 
     public static BuildExecutorModule make(Path root,
+                                           String group,
                                            String prefix,
                                            Predicate<Path> filter,
                                            Map<String, Repository> repositories,
                                            Map<String, Resolver> resolvers,
-                                           boolean strictPinning,
+                                           Pinning pinning,
                                            boolean modular,
-                                           HashDigestFunction digest,
+                                           boolean printDependencies,
                                            MultiProjectAssembler<? super ModularModuleDescriptor> assembler) {
-        return new MultiProjectModule(new ModularProject(prefix, root, filter, modular),
+        return new MultiProjectModule(new ModularProject(prefix, root).group(group).filter(filter).modular(modular),
                 identity -> Optional.of(identity.substring(0, identity.indexOf('/'))),
                 _ -> (name, dependencies, _) -> (buildExecutor, inherited) -> {
                     Map<String, Repository> mergedRepositories = Repository.prepend(repositories,
@@ -81,29 +112,20 @@ public class ModularProject implements BuildExecutorModule {
                                     (folder, file) -> folder.resolve(file).normalize().toUri(),
                                     (BiFunction<URI, String, Optional<URI>> & Serializable) (base, _) -> Optional.of(base),
                                     null));
-                    for (DependencyScope scope : DependencyScope.values()) {
-                        buildExecutor.addModule(scope.label(), (scopeExec, scopeInherited) -> {
-                            scopeExec.addStep(PREPARE,
-                                    new MultiProjectDependencies(
-                                            identifier -> identifier.contains("/" + MultiProjectModule.IDENTIFIER + "/" + name + "/"),
-                                            scope,
-                                            digest),
-                                    scopeInherited.sequencedKeySet());
-                            scopeExec.addModule(DEPENDENCIES,
-                                    new DependenciesModule(mergedRepositories, resolvers, scope == DependencyScope.COMPILE, strictPinning),
-                                    PREPARE);
-                        }, inherited.sequencedKeySet());
-                    }
+                    buildExecutor.addModule(DEPENDENCIES, (depExec, depInherited) -> {
+                        depExec.addStep(PREPARE,
+                                new MultiProjectDependencies(
+                                        identifier -> identifier.contains("/" + MultiProjectModule.IDENTIFIER + "/" + name + "/")),
+                                depInherited.sequencedKeySet());
+                        depExec.addStep(Dependencies.ARTIFACTS,
+                                new Dependencies(mergedRepositories, resolvers).pinning(pinning).printing(printDependencies),
+                                PREPARE);
+                    }, inherited.sequencedKeySet());
                     SequencedMap<String, String> produceDeps = new LinkedHashMap<>();
                     produceDeps.put(MultiProjectModule.IDENTIFIER_PATH + name + "/" + SOURCES, SOURCES);
                     produceDeps.put(MultiProjectModule.IDENTIFIER_PATH + name + "/" + MANIFESTS, MANIFESTS);
                     produceDeps.put(MultiProjectModule.IDENTIFIER_PATH + name + "/" + COORDINATES, COORDINATES);
-                    for (DependencyScope scope : List.of(DependencyScope.COMPILE, DependencyScope.RUNTIME)) {
-                        String resolved = scope.label() + "/" + DEPENDENCIES + "/" + DependenciesModule.RESOLVED;
-                        String artifacts = scope.label() + "/" + DEPENDENCIES + "/" + DependenciesModule.ARTIFACTS;
-                        produceDeps.put(resolved, resolved);
-                        produceDeps.put(artifacts, artifacts);
-                    }
+                    produceDeps.put(DEPENDENCIES + "/" + Dependencies.ARTIFACTS, DEPENDENCIES + "/" + Dependencies.ARTIFACTS);
                     for (String key : inherited.sequencedKeySet()) {
                         produceDeps.putIfAbsent(key, key);
                     }
@@ -121,7 +143,7 @@ public class ModularProject implements BuildExecutorModule {
                             MultiProjectModule.IDENTIFIER_PATH + name + "/" + MANIFESTS,
                             ASSIGN,
                             PRODUCE,
-                            DependencyScope.RUNTIME.label() + "/" + DEPENDENCIES + "/" + DependenciesModule.ARTIFACTS);
+                            DEPENDENCIES + "/" + Dependencies.ARTIFACTS);
                 });
     }
 
@@ -142,14 +164,18 @@ public class ModularProject implements BuildExecutorModule {
         }
     }
 
-    private record Manifests(String prefix, String path, boolean modular) implements BuildStep {
+    private record Manifests(String group,
+                             String prefix,
+                             String path,
+                             boolean modular,
+                             Platform platform) implements BuildStep {
 
         @Override
         public CompletionStage<BuildStepResult> apply(Executor executor,
                                                       BuildStepContext context,
                                                       SequencedMap<String, BuildStepArgument> arguments)
                 throws IOException {
-            ModuleInfo info = new ModuleInfoParser().identify(arguments.get("sources").folder()
+            ModuleInfo info = new ModuleInfoParser(group).identify(arguments.get("sources").folder()
                     .resolve(BuildStep.SOURCES)
                     .resolve("module-info.java"));
             if (info.testOf() != null && !info.testOf().isEmpty() && !info.requires().contains(info.testOf())) {
@@ -164,19 +190,27 @@ public class ModularProject implements BuildExecutorModule {
                         + ")");
             }
             SequencedProperties requires = new SequencedProperties();
-            SequencedProperties scopes = new SequencedProperties();
             for (String dependency : info.requires()) {
-                String key = prefix + "/" + dependency;
-                requires.setProperty(key, "");
-                scopes.setProperty(key, info.runtimeRequires().contains(dependency)
-                        ? DependencyScope.COMPILE.label() + "," + DependencyScope.RUNTIME.label()
-                        : DependencyScope.COMPILE.label());
+                requires.setProperty(group + "/compile/" + prefix + "/" + dependency, "");
+                if (info.runtimeRequires().contains(dependency)) {
+                    requires.setProperty(group + "/runtime/" + prefix + "/" + dependency, "");
+                }
             }
+            info.plugins().forEach((coordinate, group) ->
+                    requires.setProperty(group + "/plugin/" + coordinate, ""));
             requires.store(context.next().resolve(BuildStep.REQUIRES));
-            scopes.store(context.next().resolve(BuildStep.SCOPES));
-            if (!info.versions().isEmpty()) {
+            SequencedMap<String, String> versions = new LinkedHashMap<>(info.versions());
+            for (Map.Entry<String, SequencedMap<String, String>> variant : info.variants().entrySet()) {
+                String selected = platform.select(variant.getKey(),
+                        versions.get(variant.getKey()),
+                        variant.getValue());
+                if (selected != null) {
+                    versions.put(variant.getKey(), selected);
+                }
+            }
+            if (!versions.isEmpty()) {
                 SequencedProperties properties = new SequencedProperties();
-                info.versions().forEach(properties::setProperty);
+                versions.forEach(properties::setProperty);
                 properties.store(context.next().resolve(BuildStep.VERSIONS));
             }
             Javac.writeRelease(context.next(), info.release());
@@ -216,22 +250,12 @@ public class ModularProject implements BuildExecutorModule {
 
     @Override
     public void accept(BuildExecutor buildExecutor, SequencedMap<String, Path> inherited) throws IOException {
+        List<Path> moduleInfos = new ArrayList<>();
         Files.walkFileTree(root, new SimpleFileVisitor<>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
                 if (file.getFileName().toString().equals("module-info.java")) {
-                    Path parent = file.getParent(), location = root.relativize(parent);
-                    if (filter.test(location)) {
-                        String relative = location.toString().replace(File.separatorChar, '/');
-                        buildExecutor.addModule(SIBLING_MODULE_PREFIX + BuildExecutorModule.encode(relative), (module, modInherited) -> {
-                            module.addSource("sources", Bind.asSources(), parent);
-                            SequencedSet<String> manifestDeps = new LinkedHashSet<>();
-                            manifestDeps.add("sources");
-                            manifestDeps.addAll(modInherited.sequencedKeySet());
-                            module.addStep(MANIFESTS, new Manifests(prefix, relative, modular), manifestDeps);
-                            module.addStep(COORDINATES, new Coordinates(prefix), MANIFESTS);
-                        }, inherited.sequencedKeySet().stream());
-                    }
+                    moduleInfos.add(file);
                 }
                 return FileVisitResult.CONTINUE;
             }
@@ -244,6 +268,21 @@ public class ModularProject implements BuildExecutorModule {
                 return FileVisitResult.CONTINUE;
             }
         });
+        moduleInfos.sort(null);
+        for (Path file : moduleInfos) {
+            Path parent = file.getParent(), location = root.relativize(parent);
+            if (filter.test(location)) {
+                String relative = location.toString().replace(File.separatorChar, '/');
+                buildExecutor.addModule(SIBLING_MODULE_PREFIX + BuildExecutorModule.encode(relative), (module, modInherited) -> {
+                    module.addSource("sources", Bind.asSources(), parent);
+                    SequencedSet<String> manifestDeps = new LinkedHashSet<>();
+                    manifestDeps.add("sources");
+                    manifestDeps.addAll(modInherited.sequencedKeySet());
+                    module.addStep(MANIFESTS, new Manifests(group, prefix, relative, modular, platform), manifestDeps);
+                    module.addStep(COORDINATES, new Coordinates(prefix), MANIFESTS);
+                }, inherited.sequencedKeySet().stream());
+            }
+        }
     }
 
     public record ModularModuleDescriptor(String name, SequencedSet<String> dependencies) implements ProjectModule {
@@ -269,13 +308,8 @@ public class ModularProject implements BuildExecutorModule {
         }
 
         @Override
-        public SequencedSet<String> artifacts(DependencyScope scope) {
-            return of(BuildExecutorModule.PREVIOUS + scope.label() + "/" + DEPENDENCIES + "/" + DependenciesModule.ARTIFACTS);
-        }
-
-        @Override
-        public SequencedSet<String> resolved(DependencyScope scope) {
-            return of(BuildExecutorModule.PREVIOUS + scope.label() + "/" + DEPENDENCIES + "/" + DependenciesModule.RESOLVED);
+        public SequencedSet<String> artifacts() {
+            return of(BuildExecutorModule.PREVIOUS + DEPENDENCIES + "/" + Dependencies.ARTIFACTS);
         }
 
         private static SequencedSet<String> of(String value) {

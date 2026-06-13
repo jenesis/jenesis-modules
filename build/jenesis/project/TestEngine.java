@@ -2,6 +2,8 @@ package build.jenesis.project;
 
 import module java.base;
 import build.jenesis.BuildStep;
+import build.jenesis.PathPlacement;
+import build.jenesis.step.Dependencies;
 
 public interface TestEngine extends Serializable {
 
@@ -19,9 +21,13 @@ public interface TestEngine extends Serializable {
         return Map.of();
     }
 
-    List<String> arguments(Path supplement);
-
-    List<String> commands(List<String> classes, SequencedMap<String, List<String>> methods);
+    List<String> commands(Path supplement,
+                          Path output,
+                          SequencedSet<String> classes,
+                          SequencedMap<String, SequencedSet<String>> methods,
+                          SequencedSet<String> groups,
+                          boolean parallel,
+                          boolean reporting);
 
     default Optional<ModuleDescriptor> match(List<ModuleDescriptor> modules) {
         for (ModuleDescriptor module : modules) {
@@ -61,45 +67,26 @@ public interface TestEngine extends Serializable {
     static List<ModuleDescriptor> scan(Iterable<Path> folders) throws IOException {
         List<ModuleDescriptor> modules = new ArrayList<>();
         for (Path folder : folders) {
-            for (String jarFolder : List.of(BuildStep.ARTIFACTS, BuildStep.DEPENDENCIES)) {
-                Path jars = folder.resolve(jarFolder);
-                if (!Files.exists(jars)) {
-                    continue;
-                }
-                try (DirectoryStream<Path> stream = Files.newDirectoryStream(jars)) {
+            List<Path> jars = new ArrayList<>();
+            Path artifacts = folder.resolve(BuildStep.ARTIFACTS);
+            if (Files.exists(artifacts)) {
+                try (DirectoryStream<Path> stream = Files.newDirectoryStream(artifacts)) {
                     for (Path file : stream) {
-                        if (!Files.isRegularFile(file)) {
-                            continue;
-                        }
-                        ModuleDescriptor module = inspect(file);
-                        if (module != null) {
-                            modules.add(module);
+                        if (Files.isRegularFile(file)) {
+                            jars.add(file);
                         }
                     }
                 }
             }
+            jars.addAll(Dependencies.all(folder));
+            for (Path file : jars) {
+                ModuleDescriptor module = PathPlacement.moduleDescriptor(file);
+                if (module != null) {
+                    modules.add(module);
+                }
+            }
         }
+        modules.sort(Comparator.comparing(ModuleDescriptor::name));
         return modules;
-    }
-
-    private static ModuleDescriptor inspect(Path file) {
-        try (JarFile jar = new JarFile(file.toFile())) {
-            JarEntry moduleInfo = jar.getJarEntry("module-info.class");
-            if (moduleInfo != null) {
-                try (InputStream input = jar.getInputStream(moduleInfo)) {
-                    return ModuleDescriptor.read(input);
-                }
-            }
-            Manifest manifest = jar.getManifest();
-            if (manifest != null) {
-                String automatic = manifest.getMainAttributes().getValue("Automatic-Module-Name");
-                if (automatic != null) {
-                    return ModuleDescriptor.newAutomaticModule(automatic).build();
-                }
-            }
-            return null;
-        } catch (Exception _) {
-            return null;
-        }
     }
 }

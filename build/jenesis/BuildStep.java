@@ -10,16 +10,15 @@ public interface BuildStep extends Serializable {
             CLASSES = "classes/",
             ARTIFACTS = "artifacts/",
             DOCUMENTATION = "documentation/",
-            DEPENDENCIES = "dependencies/";
+            REPORTS = "reports/";
 
     String IDENTITY = "identity.properties",
             REQUIRES = "requires.properties",
             VERSIONS = "versions.properties",
             MODULE = "module.properties",
             METADATA = "metadata.properties",
-            SCOPES = "scopes.properties",
             EXCLUSIONS = "exclusions.properties",
-            LOCATIONS = "locations.properties";
+            DEPENDENCIES = "dependencies.properties";
 
     default BuildExecutorModule asModule(String name) {
         return new BuildExecutorModule() {
@@ -49,5 +48,11 @@ public interface BuildStep extends Serializable {
         } catch (UnsupportedOperationException | FileSystemException _) {
             Files.copy(existing, link);
         }
+    }
+
+    static boolean underMetaInfVersions(Path path) {
+        return path.getNameCount() >= 2
+                && path.getName(0).toString().equals("META-INF")
+                && path.getName(1).toString().equals("versions");
     }
 }

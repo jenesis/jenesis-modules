@@ -6,6 +6,7 @@ import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
 import build.jenesis.HashDigestFunction;
+import build.jenesis.Platform;
 import build.jenesis.SequencedProperties;
 import build.jenesis.step.Inventory;
 
@@ -17,22 +18,32 @@ public class PinPom implements BuildStep {
     private static final Pattern PROJECT_CLOSE = Pattern.compile("\\n([ \\t]*)</project>");
     private static final Pattern CHECKSUM_COMMENT = Pattern.compile("[ \\t]*<!--\\s*Checksum/[^>]*-->\\s*\\n");
     private static final Pattern INDENT = Pattern.compile("\\n([ \\t]+)<");
-    private static final Pattern PIN_COMMENT = Pattern.compile("(?s)([ \\t]*)<!--\\s*jenesis\\.pin\\b.*?-->\\s*\\n");
+    private static final Pattern PIN_COMMENT = Pattern.compile("(?s)([ \\t]*)<!--\\s*jenesis\\.pin\\b(.*?)-->\\s*\\n");
 
     private final String prefix;
     private final String path;
     private final List<Path> pomFiles;
     private final transient HashDigestFunction hashFunction;
-
-    public PinPom(String prefix, String path, Path pomFile, HashDigestFunction hashFunction) {
-        this(prefix, path, List.of(pomFile), hashFunction);
-    }
+    private final Platform platform;
 
     public PinPom(String prefix, String path, List<Path> pomFiles, HashDigestFunction hashFunction) {
+        this(prefix, path, pomFiles, hashFunction, new Platform());
+    }
+
+    private PinPom(String prefix,
+                   String path,
+                   List<Path> pomFiles,
+                   HashDigestFunction hashFunction,
+                   Platform platform) {
         this.prefix = prefix;
         this.path = path;
         this.pomFiles = List.copyOf(pomFiles);
         this.hashFunction = hashFunction;
+        this.platform = platform;
+    }
+
+    public PinPom platform(Platform platform) {
+        return new PinPom(prefix, path, pomFiles, hashFunction, platform);
     }
 
     @Override
@@ -47,15 +58,14 @@ public class PinPom implements BuildStep {
             throws IOException {
         SequencedMap<String, Inventory.Dependency> closure = Inventory.closure(arguments.values(), path);
         Set<String> internal = collectInternal(Inventory.identities(arguments.values()));
-        SequencedMap<String, String> entries = collectEntries(closure, internal, prefix, hashFunction);
-        SequencedMap<String, String> qualified = collectQualified(closure, internal, hashFunction);
+        SequencedMap<String, String> entries = collectEntries(closure, internal, hashFunction);
         for (Path pomFile : pomFiles) {
-            updatePom(pomFile, entries, qualified);
+            updatePom(pomFile, entries);
         }
         return CompletableFuture.completedStage(new BuildStepResult(true));
     }
 
-    private void updatePom(Path pomFile, SequencedMap<String, String> entries, SequencedMap<String, String> qualified) throws IOException {
+    private void updatePom(Path pomFile, SequencedMap<String, String> entries) throws IOException {
         String existing = Files.readString(pomFile);
         Matcher dependencyManagementMatcher = DEPENDENCY_MANAGEMENT.matcher(existing);
         String indent;
@@ -65,7 +75,25 @@ public class PinPom implements BuildStep {
             Matcher indentMatcher = INDENT.matcher(existing);
             indent = indentMatcher.find() ? indentMatcher.group(1) : "    ";
         }
-        String block = entries.isEmpty() ? "" : renderBlock(entries, indent);
+        SequencedMap<String, String> managed = new TreeMap<>();
+        SequencedMap<String, String> qualified = new TreeMap<>();
+        for (Map.Entry<String, String> entry : entries.entrySet()) {
+            String key = entry.getKey();
+            int first = key.indexOf('/');
+            int second = key.indexOf('/', first + 1);
+            String group = key.substring(0, first);
+            String repository = second < 0 ? "" : key.substring(first + 1, second);
+            if (repository.equals("maven") && group.equals("main")) {
+                managed.putIfAbsent(key.substring(second + 1), entry.getValue());
+            } else {
+                qualified.put(key, entry.getValue());
+            }
+        }
+        Matcher pinMatcher = PIN_COMMENT.matcher(existing);
+        List<String> preserved = pinMatcher.find()
+                ? preserveGuarded(pinMatcher.group(2), qualified, managed)
+                : List.of();
+        String block = managed.isEmpty() ? "" : renderBlock(managed, indent);
         String updated;
         if (dependencyManagementMatcher.find(0)) {
             updated = dependencyManagementMatcher.replaceFirst(Matcher.quoteReplacement(block));
@@ -83,8 +111,8 @@ public class PinPom implements BuildStep {
                 updated = existing.substring(0, projectCloseMatcher.start() + 1) + block + existing.substring(projectCloseMatcher.start() + 1);
             }
         }
-        String requires = qualified.isEmpty() ? "" : renderRequires(qualified, indent);
         Matcher requiresMatcher = PIN_COMMENT.matcher(updated);
+        String requires = qualified.isEmpty() && preserved.isEmpty() ? "" : renderRequires(qualified, preserved, indent);
         if (requiresMatcher.find()) {
             updated = requiresMatcher.replaceFirst(Matcher.quoteReplacement(requires));
         } else if (!requires.isEmpty()) {
@@ -102,66 +130,118 @@ public class PinPom implements BuildStep {
 
     static SequencedMap<String, String> collectEntries(SequencedMap<String, Inventory.Dependency> closure,
                                                        Set<String> internal,
-                                                       String prefix,
                                                        HashDigestFunction hashFunction) throws IOException {
         SequencedMap<String, String> entries = new TreeMap<>();
         for (Map.Entry<String, Inventory.Dependency> dependency : closure.entrySet()) {
-            String key = dependency.getKey();
+            String group = dependency.getValue().group();
+            String key = dependency.getKey().substring(group.length() + 1);
             if (internal.contains(key)) {
                 continue;
             }
-            int slash = key.indexOf('/');
-            if (slash < 0 || !prefix.equals(key.substring(0, slash))) {
+            int lastSlash = key.lastIndexOf('/');
+            int firstSlash = key.indexOf('/');
+            if (lastSlash <= 0 || lastSlash == firstSlash) {
                 continue;
             }
-            String suffix = key.substring(slash + 1);
-            int lastSlash = suffix.lastIndexOf('/');
-            if (lastSlash <= 0) {
-                continue;
-            }
-            String bomKey = suffix.substring(0, lastSlash);
-            String version = suffix.substring(lastSlash + 1);
+            String coordinate = key.substring(0, lastSlash);
+            String version = key.substring(lastSlash + 1);
             String checksum = computeChecksum(dependency.getValue(), hashFunction);
-            entries.putIfAbsent(bomKey, checksum == null ? version : version + " " + checksum);
+            String value = checksum == null ? version : version + " " + checksum;
+            entries.putIfAbsent(group + "/" + coordinate, value);
         }
         return entries;
     }
 
-    static SequencedMap<String, String> collectQualified(SequencedMap<String, Inventory.Dependency> closure,
-                                                         Set<String> internal,
-                                                         HashDigestFunction hashFunction) throws IOException {
-        SequencedMap<String, String> entries = new TreeMap<>();
-        for (Map.Entry<String, Inventory.Dependency> dependency : closure.entrySet()) {
-            String key = dependency.getKey();
-            if (internal.contains(key)) {
-                continue;
-            }
-            int slash = key.indexOf('/');
-            if (slash < 0) {
-                continue;
-            }
-            int at = key.substring(0, slash).indexOf('@');
-            if (at < 1) {
-                continue;
-            }
-            String suffix = key.substring(slash + 1);
-            int lastSlash = suffix.lastIndexOf('/');
-            if (lastSlash <= 0) {
-                continue;
-            }
-            String prefix = key.substring(0, at);
-            String token = (prefix.equals("maven") ? "@" : prefix + "@")
-                    + key.substring(at + 1, slash) + "/" + suffix.substring(0, lastSlash);
-            String version = suffix.substring(lastSlash + 1);
-            String checksum = computeChecksum(dependency.getValue(), hashFunction);
-            entries.putIfAbsent(token, checksum == null ? version : version + " " + checksum);
+    private List<String> preserveGuarded(String block,
+                                         SequencedMap<String, String> qualified,
+                                         SequencedMap<String, String> managed) {
+        record Pin(String token, String value, String guard) {
         }
-        return entries;
+        List<Pin> pins = new ArrayList<>();
+        Set<String> guarded = new LinkedHashSet<>();
+        for (String line : block.replace("&#45;", "-").split("\n")) {
+            String trimmed = line.trim().replaceAll("\\s+", " ");
+            if (trimmed.isEmpty()) {
+                continue;
+            }
+            int space = trimmed.indexOf(' ');
+            if (space < 1) {
+                continue;
+            }
+            String token = trimmed.substring(0, space);
+            String value = trimmed.substring(space + 1).trim();
+            String guard = null;
+            if (value.endsWith("]")) {
+                int bracket = value.lastIndexOf('[');
+                if (bracket >= 0) {
+                    guard = value.substring(bracket + 1, value.length() - 1);
+                    value = value.substring(0, bracket).trim();
+                }
+            }
+            pins.add(new Pin(token, value, guard));
+            if (guard != null) {
+                guarded.add(token);
+            }
+        }
+        if (guarded.isEmpty()) {
+            return List.of();
+        }
+        // A key with platform guards keeps every line in place; only the line whose guard
+        // matched the local platform (or the unguarded fallback) is refreshed from the
+        // resolved closure, since this resolution only reflects the local variant.
+        for (String key : guarded) {
+            String resolved = qualified.remove(key);
+            if (key.startsWith("main/maven/")) {
+                String fromManaged = managed.remove(key.substring("main/maven/".length()));
+                if (resolved == null) {
+                    resolved = fromManaged;
+                }
+            }
+            Integer fallback = null, matched = null;
+            int specificity = 0;
+            boolean ambiguous = false;
+            for (int index = 0; index < pins.size(); index++) {
+                Pin pin = pins.get(index);
+                if (!pin.token().equals(key)) {
+                    continue;
+                }
+                if (pin.guard() == null) {
+                    fallback = index;
+                    continue;
+                }
+                Platform guard = Platform.of(pin.guard());
+                if (!platform.matches(guard)) {
+                    continue;
+                }
+                if (guard.tokens().size() > specificity) {
+                    matched = index;
+                    specificity = guard.tokens().size();
+                    ambiguous = false;
+                } else if (guard.tokens().size() == specificity) {
+                    ambiguous = true;
+                }
+            }
+            Integer winner = matched != null ? matched : fallback;
+            if (resolved != null && winner != null && !ambiguous) {
+                Pin pin = pins.get(winner);
+                pins.set(winner, new Pin(pin.token(), resolved, pin.guard()));
+            }
+        }
+        List<String> preserved = new ArrayList<>();
+        for (Pin pin : pins) {
+            if (guarded.contains(pin.token())) {
+                preserved.add(pin.token() + " " + pin.value() + (pin.guard() == null ? "" : " [" + pin.guard() + "]"));
+            }
+        }
+        return preserved;
     }
 
-    private static String renderRequires(SequencedMap<String, String> qualified, String indent) {
+    private static String renderRequires(SequencedMap<String, String> qualified, List<String> preserved, String indent) {
         StringBuilder sb = new StringBuilder();
         sb.append(indent).append("<!--jenesis.pin\n");
+        for (String line : preserved) {
+            sb.append(indent).append(line.replace("--", "&#45;&#45;")).append("\n");
+        }
         for (Map.Entry<String, String> entry : qualified.entrySet()) {
             sb.append(indent).append((entry.getKey() + " " + entry.getValue()).replace("--", "&#45;&#45;")).append("\n");
         }

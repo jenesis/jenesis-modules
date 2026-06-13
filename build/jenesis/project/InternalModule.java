@@ -1,6 +1,7 @@
 package build.jenesis.project;
 
 import module java.base;
+import build.jenesis.Pinning;
 import build.jenesis.BuildExecutor;
 import build.jenesis.BuildExecutorModule;
 import build.jenesis.BuildStep;
@@ -15,6 +16,7 @@ import build.jenesis.module.ModularJarResolver;
 import build.jenesis.module.ModuleInfo;
 import build.jenesis.module.ModuleInfoParser;
 import build.jenesis.step.Bind;
+import build.jenesis.step.Dependencies;
 
 public class InternalModule implements BuildExecutorModule {
 
@@ -22,9 +24,8 @@ public class InternalModule implements BuildExecutorModule {
             JAVA = "java",
             DELEGATE = "delegate";
 
+    private static final String DEPENDENCIES = "dependencies", REQUIRES = "requires";
     private static final String MAIN_ARTIFACTS = JAVA + "/" + JavaToolchainModule.ARTIFACTS;
-    private static final String COMPILE_ARTIFACTS = DependencyScope.COMPILE.label() + "/" + DependenciesModule.ARTIFACTS;
-    private static final String RUNTIME_ARTIFACTS = DependencyScope.RUNTIME.label() + "/" + DependenciesModule.ARTIFACTS;
 
     private final String prefix;
     private final Path source;
@@ -32,24 +33,32 @@ public class InternalModule implements BuildExecutorModule {
     private final Map<String, Resolver> resolvers;
     private final SequencedSet<String> additionalDependencies;
     private final String buildModuleName;
-    private final String qualifier;
+    private final Pinning pinning;
+    private final String group;
 
     public InternalModule(String prefix,
-                          String qualifier,
+                          String group,
                           Path source) {
         this(prefix,
-                qualifier,
                 source,
                 Map.of(prefix, new JenesisModuleRepository(true).prepend(JenesisModuleRepository.ofLocal())),
-                Map.of(prefix, new ModularJarResolver(true)));
+                Map.of(prefix, new ModularJarResolver(true)),
+                Collections.emptyNavigableSet(),
+                null,
+                null,
+                group == null ? "main" : group);
     }
 
-    public InternalModule(String prefix,
-                          String qualifier,
-                          Path source,
-                          Map<String, Repository> repositories,
-                          Map<String, Resolver> resolvers) {
-        this(prefix, source, repositories, resolvers, Collections.emptyNavigableSet(), null, qualifier);
+    public InternalModule repositories(Map<String, Repository> repositories) {
+        return new InternalModule(prefix, source, repositories, resolvers, additionalDependencies, buildModuleName, pinning, group);
+    }
+
+    public InternalModule resolvers(Map<String, Resolver> resolvers) {
+        return new InternalModule(prefix, source, repositories, resolvers, additionalDependencies, buildModuleName, pinning, group);
+    }
+
+    public InternalModule group(String group) {
+        return new InternalModule(prefix, source, repositories, resolvers, additionalDependencies, buildModuleName, pinning, group);
     }
 
     private InternalModule(String prefix,
@@ -58,44 +67,60 @@ public class InternalModule implements BuildExecutorModule {
                            Map<String, Resolver> resolvers,
                            SequencedSet<String> additionalDependencies,
                            String buildModuleName,
-                           String qualifier) {
+                           Pinning pinning,
+                           String group) {
         this.prefix = prefix;
         this.source = source;
         this.repositories = repositories;
         this.resolvers = resolvers;
         this.additionalDependencies = additionalDependencies;
         this.buildModuleName = buildModuleName;
-        this.qualifier = qualifier;
+        this.pinning = pinning;
+        this.group = group;
     }
 
-    public InternalModule withDependencies(String... dependencies) {
+    public InternalModule dependencies(String... dependencies) {
         return new InternalModule(prefix,
                 source,
                 repositories,
                 resolvers,
                 new LinkedHashSet<>(List.of(dependencies)),
                 buildModuleName,
-                qualifier);
+                pinning,
+                group);
     }
 
-    public InternalModule withDependencies(SequencedSet<String> dependencies) {
+    public InternalModule dependencies(SequencedSet<String> dependencies) {
         return new InternalModule(prefix,
                 source,
                 repositories,
                 resolvers,
                 new LinkedHashSet<>(dependencies),
                 buildModuleName,
-                qualifier);
+                pinning,
+                group);
     }
 
-    public InternalModule withBuildModuleName(String name) {
+    public InternalModule buildModuleName(String name) {
         return new InternalModule(prefix,
                 source,
                 repositories,
                 resolvers,
                 additionalDependencies,
                 name,
-                qualifier);
+                pinning,
+                group);
+    }
+
+    public InternalModule pinning(Pinning pinning) {
+        return new InternalModule(prefix,
+                source,
+                repositories,
+                resolvers,
+                additionalDependencies,
+                buildModuleName,
+                pinning,
+                group);
     }
 
     @Override
@@ -106,11 +131,8 @@ public class InternalModule implements BuildExecutorModule {
         if (path.startsWith(DELEGATE + "/")) {
             return Optional.of(path.substring(DELEGATE.length() + 1));
         }
-        for (DependencyScope scope : DependencyScope.values()) {
-            if (path.equals(scope.label() + "/" + DependenciesModule.RESOLVED)
-                    || path.equals(scope.label() + "/" + DependenciesModule.ARTIFACTS)) {
-                return Optional.of(path);
-            }
+        if (path.equals(DEPENDENCIES)) {
+            return Optional.of(path);
         }
         return Optional.empty();
     }
@@ -118,32 +140,23 @@ public class InternalModule implements BuildExecutorModule {
     @Override
     public void accept(BuildExecutor buildExecutor, SequencedMap<String, Path> inherited) {
         buildExecutor.addSource(SOURCE, Bind.asSources(), source);
-        for (DependencyScope scope : DependencyScope.values()) {
-            String requiresId = scope.label() + "-requires";
-            boolean compile = scope == DependencyScope.COMPILE;
-            buildExecutor.addStep(requiresId,
-                    new ParseModuleInfo(prefix, compile, additionalDependencies, qualifier),
-                    Stream.concat(Stream.of(SOURCE), inherited.sequencedKeySet().stream()));
-            buildExecutor.addModule(scope.label(),
-                    new DependenciesModule(repositories, resolvers, compile, false,
-                            qualifier == null ? null : "module:" + qualifier),
-                    requiresId);
-        }
-        buildExecutor.addModule(JAVA, new JavaToolchainModule(), SOURCE, COMPILE_ARTIFACTS);
+        buildExecutor.addStep(REQUIRES,
+                new ParseModuleInfo(group, prefix, additionalDependencies),
+                Stream.concat(Stream.of(SOURCE), inherited.sequencedKeySet().stream()));
+        buildExecutor.addStep(DEPENDENCIES,
+                new Dependencies(repositories, resolvers).pinning(pinning),
+                REQUIRES);
+        buildExecutor.addModule(JAVA, new JavaToolchainModule().group(group), SOURCE, DEPENDENCIES);
         buildExecutor.addModule(DELEGATE, (delegateExecutor, delegated) -> {
             Path mainArtifacts = delegated.get(PREVIOUS + MAIN_ARTIFACTS).resolve(BuildStep.ARTIFACTS);
-            Path depArtifacts = delegated.get(PREVIOUS + RUNTIME_ARTIFACTS).resolve(BuildStep.DEPENDENCIES);
             List<Path> artifacts = new ArrayList<>();
             try (DirectoryStream<Path> files = Files.newDirectoryStream(mainArtifacts)) {
                 for (Path file : files) {
                     artifacts.add(file);
                 }
             }
-            try (DirectoryStream<Path> files = Files.newDirectoryStream(depArtifacts)) {
-                for (Path file : files) {
-                    artifacts.add(file);
-                }
-            }
+            artifacts.addAll(Dependencies.select(delegated.get(PREVIOUS + DEPENDENCIES), group, "runtime"));
+            artifacts.sort(null);
             JenesisClassLoaderBridge bridge;
             Object foreignModule;
             try {
@@ -154,12 +167,14 @@ public class InternalModule implements BuildExecutorModule {
             }
             SequencedMap<String, Path> forwarded = new LinkedHashMap<>(delegated);
             forwarded.remove(PREVIOUS + MAIN_ARTIFACTS);
-            forwarded.remove(PREVIOUS + RUNTIME_ARTIFACTS);
+            forwarded.remove(PREVIOUS + DEPENDENCIES);
             bridge.accept(foreignModule, delegateExecutor, forwarded);
-        }, Stream.concat(Stream.of(MAIN_ARTIFACTS, RUNTIME_ARTIFACTS), inherited.sequencedKeySet().stream()));
+        }, Stream.concat(Stream.of(MAIN_ARTIFACTS, DEPENDENCIES), inherited.sequencedKeySet().stream()));
     }
 
-    private record ParseModuleInfo(String prefix, boolean compile, SequencedSet<String> additionalDependencies, String qualifier) implements BuildStep {
+    private record ParseModuleInfo(String group,
+                                   String prefix,
+                                   SequencedSet<String> additionalDependencies) implements BuildStep {
 
         @Override
         public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
@@ -186,16 +201,21 @@ public class InternalModule implements BuildExecutorModule {
                 throw new IllegalStateException(
                         "Internal module source is not modular (missing module-info.java)");
             }
-            ModuleInfo info = new ModuleInfoParser().identify(moduleInfo);
+            ModuleInfo info = new ModuleInfoParser(group).identify(moduleInfo);
             SequencedProperties properties = new SequencedProperties();
-            for (String dependency : compile ? info.requires() : info.runtimeRequires()) {
-                properties.setProperty(Resolver.qualify(prefix + "/" + dependency, qualifier), "");
+            for (String dependency : info.requires()) {
+                properties.setProperty(group + "/compile/" + prefix + "/" + dependency, "");
+                if (info.runtimeRequires().contains(dependency)) {
+                    properties.setProperty(group + "/runtime/" + prefix + "/" + dependency, "");
+                }
             }
             for (String dependency : additionalDependencies) {
-                properties.setProperty(Resolver.qualify(dependency, qualifier), "");
+                properties.setProperty(group + "/compile/" + dependency, "");
+                properties.setProperty(group + "/runtime/" + dependency, "");
             }
+            info.plugins().forEach((coordinate, group) -> properties.setProperty(group + "/plugin/" + coordinate, ""));
             properties.store(context.next().resolve(BuildStep.REQUIRES));
-            SequencedProperties versions = pinnedVersions(arguments, qualifier == null ? prefix : prefix + "@" + qualifier);
+            SequencedProperties versions = pinnedVersions(arguments);
             if (!versions.isEmpty()) {
                 versions.store(context.next().resolve(BuildStep.VERSIONS));
             }
@@ -203,7 +223,8 @@ public class InternalModule implements BuildExecutorModule {
         }
     }
 
-    private static SequencedProperties pinnedVersions(SequencedMap<String, BuildStepArgument> arguments, String pinned) throws IOException {
+    private static SequencedProperties pinnedVersions(SequencedMap<String, BuildStepArgument> arguments)
+            throws IOException {
         SequencedProperties versions = new SequencedProperties();
         for (Map.Entry<String, BuildStepArgument> argument : arguments.entrySet()) {
             if (argument.getKey().equals(SOURCE)) {
@@ -215,10 +236,7 @@ public class InternalModule implements BuildExecutorModule {
             }
             SequencedProperties present = SequencedProperties.ofFiles(file);
             for (String coordinate : present.stringPropertyNames()) {
-                int slash = coordinate.indexOf('/');
-                if (slash > 0 && coordinate.substring(0, slash).equals(pinned)) {
-                    versions.setProperty(coordinate, present.getProperty(coordinate));
-                }
+                versions.putIfAbsent(coordinate, present.getProperty(coordinate));
             }
         }
         return versions;

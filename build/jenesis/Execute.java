@@ -7,7 +7,9 @@ import build.jenesis.step.Inventory;
 public record Execute(Project project, String mainClass, String module) {
 
     public Execute(Project project) {
-        this(project, null, null);
+        this(project,
+                System.getProperty("jenesis.execute.mainClass"),
+                System.getProperty("jenesis.execute.module"));
     }
 
     public Execute mainClass(String mainClass) {
@@ -16,14 +18,6 @@ public record Execute(Project project, String mainClass, String module) {
 
     public Execute module(String module) {
         return new Execute(project, mainClass, module);
-    }
-
-    public Execute resolveProperties() {
-        String mainOverride = System.getProperty("jenesis.execute.mainClass");
-        String moduleOverride = System.getProperty("jenesis.execute.module");
-        return new Execute(project,
-                mainOverride != null ? mainOverride : mainClass,
-                moduleOverride != null ? moduleOverride : module);
     }
 
     public int execute(String... arguments) throws IOException, InterruptedException {
@@ -135,7 +129,10 @@ public record Execute(Project project, String mainClass, String module) {
                     docker = docker.mount(absolute, absolute.toString(), false);
                 }
             }
-            if (Boolean.getBoolean("jenesis.verbose")) {
+            docker = docker.mounts(System.getProperty("jenesis.execute.docker.mount"), root, true);
+            docker = docker.mounts(System.getProperty("jenesis.execute.docker.mountWritable"), root, false);
+            docker = docker.envs(System.getProperty("jenesis.execute.docker.env"));
+            if (Boolean.parseBoolean(System.getProperty("jenesis.print.docker", "true"))) {
                 System.out.println("Launching Java execution within Docker image: " + docker.image());
             }
             return docker.execute(javaArgs);
@@ -160,8 +157,9 @@ public record Execute(Project project, String mainClass, String module) {
 
     public static void main(String... arguments) {
         try {
-            Project project = new Project().resolveProperties();
-            int code = new Execute(project).resolveProperties().doExecute(true, arguments);
+            Project.loadJenesisProperties(Path.of(System.getProperty("jenesis.project.root", ".")));
+            Project project = new Project();
+            int code = new Execute(project).doExecute(true, arguments);
             if (code != 0) {
                 System.exit(code);
             }

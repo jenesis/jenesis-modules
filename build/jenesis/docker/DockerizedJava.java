@@ -14,6 +14,7 @@ public class DockerizedJava {
     private final Map<Path, String> mounts;
     private final Map<String, String> environment;
     private final Boolean windowsDaemon;
+    private final boolean hardened;
 
     public DockerizedJava(Path workingDirectory) throws IOException, InterruptedException {
         boolean windows = isWindowsDaemon();
@@ -52,38 +53,68 @@ public class DockerizedJava {
         this.windowsDaemon = windows;
         this.mounts = Map.of();
         this.environment = Map.of();
+        this.hardened = true;
     }
 
     public DockerizedJava(Path workingDirectory, String image) {
-        this(workingDirectory, image, null, Map.of(), Map.of());
+        this(workingDirectory, image, null, Map.of(), Map.of(), false);
     }
 
     private DockerizedJava(Path workingDirectory,
                            String image,
                            Boolean windowsDaemon,
                            Map<Path, String> mounts,
-                           Map<String, String> environment) {
+                           Map<String, String> environment,
+                           boolean hardened) {
         this.image = image;
         this.workingDirectory = workingDirectory;
         this.windowsDaemon = windowsDaemon;
         this.mounts = mounts;
         this.environment = environment;
+        this.hardened = hardened;
     }
 
     public String image() {
         return image;
     }
 
+    public boolean hardened() {
+        return hardened;
+    }
+
+    public DockerizedJava harden(boolean hardened) {
+        return new DockerizedJava(workingDirectory, image, windowsDaemon, mounts, environment, hardened);
+    }
+
     public DockerizedJava mount(Path host, String container, boolean readOnly) {
         SequencedMap<Path, String> copy = new LinkedHashMap<>(mounts);
         copy.put(host.toAbsolutePath(), container + (readOnly ? ":ro" : ""));
-        return new DockerizedJava(workingDirectory, image, windowsDaemon, copy, environment);
+        return new DockerizedJava(workingDirectory, image, windowsDaemon, copy, environment, hardened);
+    }
+
+    public DockerizedJava mounts(String specification, Path base, boolean readOnly) {
+        DockerizedJava docker = this;
+        for (Mount mount : Mount.parse(specification, base)) {
+            docker = docker.mount(mount.host(), mount.container(), readOnly);
+        }
+        return docker;
+    }
+
+    public DockerizedJava envs(String specification) {
+        DockerizedJava docker = this;
+        for (Env entry : Env.parse(specification)) {
+            String value = entry.value() == null ? System.getenv(entry.name()) : entry.value();
+            if (value != null) {
+                docker = docker.env(entry.name(), value);
+            }
+        }
+        return docker;
     }
 
     public DockerizedJava env(String name, String value) {
         SequencedMap<String, String> copy = new LinkedHashMap<>(environment);
         copy.put(name, value);
-        return new DockerizedJava(workingDirectory, image, windowsDaemon, mounts, copy);
+        return new DockerizedJava(workingDirectory, image, windowsDaemon, mounts, copy, hardened);
     }
 
     public int execute(String main, Map<String, String> properties, String... args) throws IOException, InterruptedException {
@@ -97,6 +128,10 @@ public class DockerizedJava {
     }
 
     public int execute(List<String> javaArgs) throws IOException, InterruptedException {
+        return new ProcessBuilder(command(javaArgs)).inheritIO().start().waitFor();
+    }
+
+    public List<String> command(List<String> javaArgs) throws IOException, InterruptedException {
         String home = System.getProperty("java.home");
         if (home == null) {
             home = System.getenv("JAVA_HOME");
@@ -112,6 +147,12 @@ public class DockerizedJava {
         docker.add("run");
         docker.add("--rm");
         docker.add("-i");
+        if (hardened) {
+            docker.add("--cap-drop");
+            docker.add("ALL");
+            docker.add("--security-opt");
+            docker.add("no-new-privileges");
+        }
         if (!windows) {
             try {
                 Object uid = Files.getAttribute(workingDirectory, "unix:uid");
@@ -138,7 +179,7 @@ public class DockerizedJava {
         docker.add(image);
         docker.add(javaHomeMount + (windows ? "\\bin\\java.exe" : "/bin/java"));
         docker.addAll(javaArgs);
-        return new ProcessBuilder(docker).inheritIO().start().waitFor();
+        return docker;
     }
 
     private static boolean isWindowsDaemon() throws IOException, InterruptedException {
@@ -150,5 +191,47 @@ public class DockerizedJava {
             throw new IOException("Failed to query Docker server OS: " + output);
         }
         return "windows".equals(output);
+    }
+
+    public record Mount(Path host, String container) {
+
+        public static List<Mount> parse(String specification, Path base) {
+            List<Mount> mounts = new ArrayList<>();
+            if (specification == null) {
+                return mounts;
+            }
+            for (String entry : specification.split(",")) {
+                String spec = entry.strip();
+                if (spec.isEmpty()) {
+                    continue;
+                }
+                int start = spec.length() > 1 && spec.charAt(1) == ':' && Character.isLetter(spec.charAt(0)) ? 2 : 0;
+                int separator = spec.indexOf(':', start);
+                Path host = base.resolve(separator < 0 ? spec : spec.substring(0, separator)).normalize();
+                mounts.add(new Mount(host, separator < 0 ? host.toString() : spec.substring(separator + 1)));
+            }
+            return mounts;
+        }
+    }
+
+    public record Env(String name, String value) {
+
+        public static List<Env> parse(String specification) {
+            List<Env> envs = new ArrayList<>();
+            if (specification == null) {
+                return envs;
+            }
+            for (String entry : specification.split(",")) {
+                String spec = entry.strip();
+                if (spec.isEmpty()) {
+                    continue;
+                }
+                int separator = spec.indexOf('=');
+                envs.add(separator < 0
+                        ? new Env(spec, null)
+                        : new Env(spec.substring(0, separator), spec.substring(separator + 1)));
+            }
+            return envs;
+        }
     }
 }

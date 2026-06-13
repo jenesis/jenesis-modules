@@ -18,7 +18,7 @@ public interface Repository {
         if (folder == null) {
             return this;
         }
-        boolean verbose = Boolean.getBoolean("jenesis.verbose");
+        boolean verbose = Boolean.getBoolean("jenesis.print.fetch");
         return cached(folder, verbose ? target -> System.out.printf("%s%-11s%s %s%n",
                 BuildExecutorCallback.YELLOW,
                 "[FETCHED]",
@@ -54,9 +54,14 @@ public interface Repository {
                         if (file != null) {
                             BuildStep.linkOrCopy(candidate, file);
                         } else {
+                            Path temporary = Files.createTempFile(candidate.getParent(), "fetch", ".jar");
                             try (InputStream inputStream = item.toInputStream()) {
-                                Files.copy(inputStream, candidate);
+                                Files.copy(inputStream, temporary, StandardCopyOption.REPLACE_EXISTING);
+                            } catch (Throwable t) {
+                                Files.deleteIfExists(temporary);
+                                throw t;
                             }
+                            Files.move(temporary, candidate, StandardCopyOption.ATOMIC_MOVE);
                         }
                         return candidate;
                     } catch (IOException e) {
@@ -79,6 +84,50 @@ public interface Repository {
         return (_, _) -> Optional.empty();
     }
 
+    static InputStream open(URI uri, String token) throws IOException {
+        boolean insecure = Boolean.getBoolean("jenesis.repository.insecure");
+        URI current = uri;
+        for (int redirect = 0; redirect < 8; redirect++) {
+            String scheme = current.getScheme();
+            if (scheme != null && !scheme.equals("https") && !scheme.equals("file") && !insecure) {
+                throw new IllegalStateException("Refusing to fetch over insecure scheme '"
+                        + scheme
+                        + "': "
+                        + current
+                        + " (set -Djenesis.repository.insecure=true to allow plaintext repositories)");
+            }
+            URLConnection connection = current.toURL().openConnection();
+            if (!(connection instanceof HttpURLConnection http)) {
+                return connection.getInputStream();
+            }
+            http.setInstanceFollowRedirects(false);
+            http.setRequestProperty("User-Agent", "Jenesis");
+            // Redirects are followed by hand so the credential is only ever sent to the
+            // origin it was configured for, never to whatever host a redirect points at.
+            if (token != null && sameOrigin(uri, current)) {
+                http.setRequestProperty("Authorization", token);
+            }
+            int status = http.getResponseCode();
+            if (status >= 300 && status < 400) {
+                String location = http.getHeaderField("Location");
+                if (location != null) {
+                    http.getInputStream().close();
+                    current = current.resolve(location);
+                    continue;
+                }
+            }
+            return http.getInputStream();
+        }
+        throw new IOException("Exceeded redirect limit fetching " + uri);
+    }
+
+    private static boolean sameOrigin(URI left, URI right) {
+        return Objects.equals(left.getScheme(), right.getScheme())
+                && left.getHost() != null
+                && left.getHost().equalsIgnoreCase(right.getHost())
+                && left.getPort() == right.getPort();
+    }
+
     static Repository ofUris(Map<String, URI> uris) {
         return ofUris(uris, null);
     }
@@ -86,7 +135,7 @@ public interface Repository {
     static <F extends BiFunction<URI, String, Optional<URI>> & Serializable> Repository ofUris(
             Map<String, URI> uris,
             F versionResolver) {
-        boolean verbose = Boolean.getBoolean("jenesis.verbose");
+        boolean verbose = Boolean.getBoolean("jenesis.print.fetch");
         return ofUris(uris, versionResolver, verbose ? uri -> System.out.printf("%s%-11s%s %s%n",
                 BuildExecutorCallback.YELLOW,
                 "[FETCHED]",
@@ -121,7 +170,7 @@ public interface Repository {
             if (Objects.equals("file", uri.getScheme())) {
                 return Optional.of(RepositoryItem.ofFile(Path.of(uri), true));
             } else {
-                return Optional.of(() -> uri.toURL().openStream());
+                return Optional.of(() -> open(uri, null));
             }
         };
     }

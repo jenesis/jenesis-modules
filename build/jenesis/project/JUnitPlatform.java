@@ -1,6 +1,7 @@
 package build.jenesis.project;
 
 import module java.base;
+import build.jenesis.BuildStep;
 
 public record JUnitPlatform() implements TestEngine {
 
@@ -39,17 +40,29 @@ public record JUnitPlatform() implements TestEngine {
     }
 
     @Override
-    public List<String> arguments(Path supplement) {
-        return List.of("execute", "--disable-banner", "--disable-ansi-colors");
-    }
-
-    @Override
-    public List<String> commands(List<String> classes, SequencedMap<String, List<String>> methods) {
-        List<String> commands = new ArrayList<>();
+    public List<String> commands(Path supplement,
+                                 Path output,
+                                 SequencedSet<String> classes,
+                                 SequencedMap<String, SequencedSet<String>> methods,
+                                 SequencedSet<String> groups,
+                                 boolean parallel,
+                                 boolean reporting) {
+        List<String> commands = new ArrayList<>(List.of("execute", "--disable-banner", "--disable-ansi-colors"));
+        for (String group : groups) {
+            commands.add("--include-tag=" + group);
+        }
+        if (parallel) {
+            commands.add("--config=junit.jupiter.execution.parallel.enabled=true");
+            commands.add("--config=junit.jupiter.execution.parallel.mode.default=concurrent");
+        }
+        if (reporting) {
+            commands.add("--config=junit.platform.reporting.open.xml.enabled=true");
+            commands.add("--config=junit.platform.reporting.output.dir=" + output.resolve(BuildStep.REPORTS + "tests"));
+        }
         for (String className : classes) {
             commands.add("--select-class=" + className);
         }
-        for (Map.Entry<String, List<String>> entry : methods.entrySet()) {
+        for (Map.Entry<String, SequencedSet<String>> entry : methods.entrySet()) {
             for (String method : entry.getValue()) {
                 commands.add("--select-method=" + entry.getKey() + "#" + method);
             }

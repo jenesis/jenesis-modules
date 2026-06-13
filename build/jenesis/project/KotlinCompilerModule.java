@@ -1,6 +1,7 @@
 package build.jenesis.project;
 
 import module java.base;
+import build.jenesis.Pinning;
 import build.jenesis.BuildExecutor;
 import build.jenesis.BuildExecutorModule;
 import build.jenesis.BuildStep;
@@ -11,18 +12,18 @@ import build.jenesis.Repository;
 import build.jenesis.Resolver;
 import build.jenesis.SequencedProperties;
 import build.jenesis.step.Bind;
-import build.jenesis.step.Download;
+import build.jenesis.step.Dependencies;
 import build.jenesis.step.Javac;
 import build.jenesis.step.JdkProcessBuildStep;
 import build.jenesis.step.ProcessBuildStep;
 import build.jenesis.step.ProcessHandler;
-import build.jenesis.step.Resolve;
 import build.jenesis.step.Versions;
 
 public class KotlinCompilerModule implements BuildExecutorModule {
 
     public static final String ARTIFACTS = "artifacts", CLASSES = "classes";
-    private static final String REQUIRED = "required", RESOLVED = "resolved", COMPILED = "compiled";
+    private static final String REQUIRED = "required", COMPILED = "compiled",
+            DEPENDENCIES = "dependencies";
 
     private static final List<String> PREFERRED_PREFIXES = List.of("maven", "module");
     private static final String MODULE_NAME = "kotlin.compiler.embeddable";
@@ -31,61 +32,60 @@ public class KotlinCompilerModule implements BuildExecutorModule {
 
     private final Map<String, Repository> repositories;
     private final Map<String, Resolver> resolvers;
-    private final boolean strictPinning;
+    private final Pinning pinning;
     private final boolean includeResources;
-    private final String qualifier;
+    private final String group;
     private final transient Function<List<String>, ? extends ProcessHandler> factory;
 
     public KotlinCompilerModule(Map<String, Repository> repositories, Map<String, Resolver> resolvers) {
-        this(repositories, resolvers, false, true, "kotlin", null);
-    }
-
-    public KotlinCompilerModule(Map<String, Repository> repositories,
-                                Map<String, Resolver> resolvers,
-                                Function<List<String>, ? extends ProcessHandler> factory) {
-        this(repositories, resolvers, false, true, "kotlin", factory);
+        this(repositories, resolvers, null, true, "kotlinc", null);
     }
 
     private KotlinCompilerModule(Map<String, Repository> repositories,
                                  Map<String, Resolver> resolvers,
-                                 boolean strictPinning,
+                                 Pinning pinning,
                                  boolean includeResources,
-                                 String qualifier,
+                                 String group,
                                  Function<List<String>, ? extends ProcessHandler> factory) {
         this.repositories = repositories;
         this.resolvers = resolvers;
-        this.strictPinning = strictPinning;
+        this.pinning = pinning;
         this.includeResources = includeResources;
-        this.qualifier = qualifier;
+        this.group = group;
         this.factory = factory;
     }
 
-    public KotlinCompilerModule strictPinning(boolean strictPinning) {
-        return new KotlinCompilerModule(repositories, resolvers, strictPinning, includeResources, qualifier, factory);
+    public KotlinCompilerModule factory(Function<List<String>, ? extends ProcessHandler> factory) {
+        return new KotlinCompilerModule(repositories, resolvers, pinning, includeResources, group, factory);
+    }
+
+    public KotlinCompilerModule pinning(Pinning pinning) {
+        return new KotlinCompilerModule(repositories, resolvers, pinning, includeResources, group, factory);
     }
 
     public KotlinCompilerModule includeResources(boolean includeResources) {
-        return new KotlinCompilerModule(repositories, resolvers, strictPinning, includeResources, qualifier, factory);
+        return new KotlinCompilerModule(repositories, resolvers, pinning, includeResources, group, factory);
     }
 
-    public KotlinCompilerModule qualifier(String qualifier) {
-        return new KotlinCompilerModule(repositories, resolvers, strictPinning, includeResources, qualifier, factory);
+    public KotlinCompilerModule group(String group) {
+        return new KotlinCompilerModule(repositories, resolvers, pinning, includeResources, group, factory);
     }
 
     @Override
     public void accept(BuildExecutor buildExecutor, SequencedMap<String, Path> inherited) {
         SequencedSet<String> upstream = inherited.sequencedKeySet();
-        buildExecutor.addStep(REQUIRED, new Requires(Set.copyOf(resolvers.keySet()), qualifier), upstream);
+        buildExecutor.addStep(REQUIRED, new Requires(Set.copyOf(resolvers.keySet()), group), upstream);
         SequencedSet<String> resolveInputs = new LinkedHashSet<>();
         resolveInputs.add(REQUIRED);
         resolveInputs.addAll(upstream);
-        buildExecutor.addStep(RESOLVED, new Resolve(repositories, resolvers, false), resolveInputs);
-        buildExecutor.addStep(ARTIFACTS, new Download(repositories, strictPinning, "compiler:" + qualifier), RESOLVED);
+        buildExecutor.addStep(DEPENDENCIES,
+                new Dependencies(repositories, resolvers).pinning(pinning),
+                resolveInputs);
         SequencedSet<String> compileInputs = new LinkedHashSet<>();
-        compileInputs.add(ARTIFACTS);
+        compileInputs.add(DEPENDENCIES);
         compileInputs.addAll(upstream);
         buildExecutor.addStep(COMPILED,
-                factory == null ? new Compile(includeResources) : new Compile(includeResources, factory),
+                factory == null ? new Compile(includeResources, group) : new Compile(includeResources, group, factory),
                 compileInputs);
         buildExecutor.addStep(CLASSES, new Versions(), Stream.concat(
                 Stream.of(COMPILED),
@@ -94,13 +94,16 @@ public class KotlinCompilerModule implements BuildExecutorModule {
 
     @Override
     public Optional<String> resolve(String path) {
-        return switch (path) {
-            case CLASSES, RESOLVED, ARTIFACTS -> Optional.of(path);
-            default -> Optional.empty();
-        };
+        if (path.equals(CLASSES)) {
+            return Optional.of(CLASSES);
+        }
+        if (path.equals(DEPENDENCIES)) {
+            return Optional.of(ARTIFACTS);
+        }
+        return Optional.empty();
     }
 
-    private record Requires(Set<String> prefixes, String qualifier) implements BuildStep {
+    private record Requires(Set<String> prefixes, String group) implements BuildStep {
 
         @Override
         public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
@@ -124,14 +127,13 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                         "No suitable resolver for Kotlin compiler. Available prefixes: " + prefixes
                                 + ". Expected one of: " + PREFERRED_PREFIXES);
             }
-            String namespace = qualifier == null ? selectedPrefix : selectedPrefix + "@" + qualifier;
             String coordinate = switch (selectedPrefix) {
-                case "module" -> namespace + "/" + MODULE_NAME;
-                case "maven" -> namespace + "/" + MAVEN_GROUP + "/" + MAVEN_ARTIFACT + "/RELEASE";
+                case "module" -> selectedPrefix + "/" + MODULE_NAME;
+                case "maven" -> selectedPrefix + "/" + MAVEN_GROUP + "/" + MAVEN_ARTIFACT + "/RELEASE";
                 default -> throw new IllegalStateException("Unreachable");
             };
             SequencedProperties requires = new SequencedProperties();
-            requires.setProperty(coordinate, "");
+            requires.setProperty(group + "/runtime/" + coordinate, "");
             requires.store(context.next().resolve(BuildStep.REQUIRES));
             return CompletableFuture.completedStage(new BuildStepResult(true));
         }
@@ -140,14 +142,16 @@ public class KotlinCompilerModule implements BuildExecutorModule {
     private static class Compile extends JdkProcessBuildStep {
 
         private final boolean includeResources;
+        private final String group;
 
-        private Compile(boolean includeResources) {
-            this(includeResources, ProcessHandler.OfProcess.ofJavaHome("bin/java"));
+        private Compile(boolean includeResources, String group) {
+            this(includeResources, group, ProcessHandler.OfProcess.ofJavaHome("bin/java"));
         }
 
-        private Compile(boolean includeResources, Function<List<String>, ? extends ProcessHandler> factory) {
+        private Compile(boolean includeResources, String group, Function<List<String>, ? extends ProcessHandler> factory) {
             super("kotlinc", factory);
             this.includeResources = includeResources;
+            this.group = group;
         }
 
         @Override
@@ -164,9 +168,19 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                                                      SequencedMap<String, SequencedMap<String, String>> properties)
                 throws IOException {
             Path target = Files.createDirectory(context.next().resolve(CLASSES));
-            List<String> files = new ArrayList<>(), jars = new ArrayList<>(), classpath = new ArrayList<>();
+            List<String> files = new ArrayList<>(), jars = new ArrayList<>(), classpath = new ArrayList<>(),
+                    plugins = new ArrayList<>();
             String release = null;
             for (BuildStepArgument argument : arguments.values()) {
+                for (Path jar : Dependencies.select(argument.folder(), group, "runtime")) {
+                    jars.add(jar.toString());
+                }
+                for (Path jar : Dependencies.select(argument.folder(), group, "plugin")) {
+                    plugins.add(jar.toString());
+                }
+                for (Path jar : Dependencies.select(argument.folder(), "compile")) {
+                    classpath.add(jar.toString());
+                }
                 Path javacProperties = argument.folder().resolve(ProcessBuildStep.PROCESS + "javac.properties");
                 if (Files.exists(javacProperties)) {
                     SequencedProperties loaded = SequencedProperties.ofFiles(javacProperties);
@@ -178,18 +192,6 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                 Path classes = argument.folder().resolve(CLASSES);
                 if (Files.exists(classes)) {
                     classpath.add(classes.toString());
-                }
-                for (String jarFolder : List.of(ARTIFACTS, DEPENDENCIES)) {
-                    Path jarRoot = argument.folder().resolve(jarFolder);
-                    if (Files.exists(jarRoot)) {
-                        Files.walkFileTree(jarRoot, new SimpleFileVisitor<>() {
-                            @Override
-                            public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                                jars.add(file.toString());
-                                return FileVisitResult.CONTINUE;
-                            }
-                        });
-                    }
                 }
                 Path sources = argument.folder().resolve(Bind.SOURCES);
                 if (Files.exists(sources)) {
@@ -203,9 +205,13 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                         @Override
                         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
                             String name = file.toString();
-                            if (name.endsWith(".kt") || name.endsWith(".java")) {
+                            if (name.endsWith(".kt")
+                                    || (name.endsWith(".java")
+                                    && !file.getFileName().toString().equals("module-info.java"))) {
                                 files.add(name);
-                            } else if (includeResources) {
+                            } else if (includeResources
+                                    && !name.endsWith(".java")
+                                    && !BuildStep.underMetaInfVersions(sources.relativize(file))) {
                                 BuildStep.linkOrCopy(target.resolve(sources.relativize(file)), file);
                             }
                             return FileVisitResult.CONTINUE;
@@ -213,6 +219,7 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                     });
                 }
             }
+            files.sort(null);
             if (files.stream().noneMatch(name -> name.endsWith(".kt"))) {
                 return CompletableFuture.completedStage(null);
             }
@@ -220,7 +227,7 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                 throw new IllegalStateException(
                         "No compiler jars resolved upstream of the Kotlin compile step");
             }
-            for (List<String> entries : List.of(jars, classpath)) {
+            for (List<String> entries : List.of(jars, classpath, plugins)) {
                 for (String entry : entries) {
                     if (entry.indexOf(File.pathSeparatorChar) != -1) {
                         throw new IllegalArgumentException(
@@ -228,19 +235,10 @@ public class KotlinCompilerModule implements BuildExecutorModule {
                     }
                 }
             }
-            List<String> launch = new ArrayList<>();
-            for (String jar : jars) {
-                if (new File(jar).getName().indexOf('@') != -1) {
-                    launch.add(jar);
-                }
-            }
-            if (launch.isEmpty()) {
-                launch = jars;
-            }
             List<String> userClasspath = new ArrayList<>(jars);
             userClasspath.addAll(classpath);
             List<String> commands = new ArrayList<>(List.of(
-                    "-cp", String.join(File.pathSeparator, launch),
+                    "-cp", String.join(File.pathSeparator, jars),
                     "org.jetbrains.kotlin.cli.jvm.K2JVMCompiler",
                     "-d", target.toString(),
                     "-no-stdlib",
@@ -249,6 +247,9 @@ public class KotlinCompilerModule implements BuildExecutorModule {
             if (release != null) {
                 commands.add("-jvm-target");
                 commands.add(release);
+            }
+            for (String plugin : plugins) {
+                commands.add("-Xplugin=" + plugin);
             }
             commands.addAll(files);
             return CompletableFuture.completedStage(commands);

@@ -9,16 +9,8 @@ public class JLink extends JdkProcessBuildStep {
 
     public static final String RUNTIME = "runtime/";
 
-    protected JLink(Function<List<String>, ? extends ProcessHandler> factory) {
-        super("jlink", factory);
-    }
-
-    public static JLink tool() {
-        return new JLink(ProcessHandler.OfTool.of("jlink"));
-    }
-
-    public static JLink process() {
-        return new JLink(ProcessHandler.OfProcess.ofJavaHome("bin/jlink"));
+    public JLink(ProcessHandler.Factory factory) {
+        super("jlink", factory.apply("jlink", "bin/jlink"));
     }
 
     @Override
@@ -32,7 +24,7 @@ public class JLink extends JdkProcessBuildStep {
         }
         List<String> path = new ArrayList<>();
         for (BuildStepArgument argument : arguments.values()) {
-            for (String moduleFolder : List.of(JMod.JMODS, BuildStep.ARTIFACTS, BuildStep.DEPENDENCIES)) {
+            for (String moduleFolder : List.of(JMod.JMODS, BuildStep.ARTIFACTS)) {
                 Path modules = argument.folder().resolve(moduleFolder);
                 if (Files.exists(modules)) {
                     Files.walkFileTree(modules, new SimpleFileVisitor<>() {
@@ -46,6 +38,9 @@ public class JLink extends JdkProcessBuildStep {
                         }
                     });
                 }
+            }
+            for (Path file : Dependencies.select(argument.folder(), "runtime")) {
+                path.add(file.toString());
             }
         }
         if (path.isEmpty()) {

@@ -19,9 +19,13 @@ public class Group implements BuildStep {
         this(identification, REQUIRES);
     }
 
-    public <F extends Function<String, Optional<String>> & Serializable> Group(F identification, String requiresPath) {
+    private Group(Function<String, Optional<String>> identification, String requiresPath) {
         this.identification = identification;
         this.requiresPath = requiresPath;
+    }
+
+    public Group requiresPath(String requiresPath) {
+        return new Group(identification, requiresPath);
     }
 
     @Override
@@ -44,9 +48,11 @@ public class Group implements BuildStep {
             toProperties(entry.getValue().folder().resolve(IDENTITY)).forEach(dependency -> from.computeIfAbsent(
                     dependency,
                     _ -> new LinkedHashSet<>()).add(name));
-            to.computeIfAbsent(name, _ -> new LinkedHashSet<>()).addAll(toProperties(entry.getValue()
-                    .folder()
-                    .resolve(requiresPath)));
+            Set<String> requires = to.computeIfAbsent(name, _ -> new LinkedHashSet<>());
+            for (String coordinate : toProperties(entry.getValue().folder().resolve(requiresPath))) {
+                int second = coordinate.indexOf('/', coordinate.indexOf('/') + 1);
+                requires.add(coordinate.substring(second + 1));
+            }
         }
         Path folder = Files.createDirectory(context.next().resolve(GROUPS));
         for (Map.Entry<String, Set<String>> entry : to.entrySet()) {
@@ -54,6 +60,7 @@ public class Group implements BuildStep {
             entry.getValue().stream()
                     .flatMap(dependency -> from.getOrDefault(dependency, Set.of()).stream())
                     .distinct()
+                    .filter(name -> !name.equals(entry.getKey()))
                     .forEach(name -> properties.setProperty(name, ""));
             properties.store(folder.resolve(BuildExecutorModule.encode(entry.getKey()) + ".properties"));
         }
