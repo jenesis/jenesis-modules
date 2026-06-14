@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -11,10 +11,10 @@ Generated 2026-06-13. A module *drifts* when more than one groupId publishes the
 | shaded | 0 | 1272 |
 | tld-dropped | 0 | 71 |
 | two-segments | 61 | 0 |
-| unclassified | 266 | 0 |
-| **total** | **327** | **3245** |
+| unclassified | 264 | 0 |
+| **total** | **325** | **3245** |
 
-The table covers all **3572** multi-owner modules (of **36334** modules scanned).
+The table covers all **3570** multi-owner modules (of **36319** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-06 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -293,14 +293,14 @@ stasgora.observetree  [owned by `io.github.stasgora` (groupId minus two segments
   ?   dev.sgora                            2019-10..2019-10 1.0.3.1              |.....=..............|
 ```
 
-## unclassified (266)
+## unclassified (264)
 
 Multiple publishers with no natural-namespace owner present: a genuine collision the heuristic cannot settle.
 
 - More than one publisher, and none is a credible owner: no natural-namespace owner is present and the earliest is not the closest groupId.
 - Left unresolved - no owners.tsv is written - for a later hand decision.
 
-_Showing the 200 most recently active of 266. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
+_Showing the 200 most recently active of 264. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
 
 ```
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
@@ -360,7 +360,7 @@ org.apache.commons.cli  [no clear owner; `org.apache.shiro.tools` is earliest an
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
   ?   org.apktool                          2023-12..2026-04 3.0.2                |..............======|
   ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............=====|
-  ?   org.imixs.bpmn                       2025-05..2026-03 1.2.9                |.................===|
+  ?   org.imixs.bpmn                       2025-05..2026-03 1.2.9                |.................==.|
     + 23 more: io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, org.apache.hbase, (+11 more)
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-05 7.2.0                |..==================|
@@ -472,7 +472,7 @@ org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earlie
   ?   io.engineblock                       2020-01..2020-01 2.12.65              |......=.............|
 ihub.core  [no clear owner; `pub.ihub.lib` is earliest and most recent]
   ? * pub.ihub.lib                         2021-09..2026-05 1.7.7                |.........===========|
-  ?   pub.ihub.integration                 2024-03..2025-05 0.1.12               |...............===..|
+  ?   pub.ihub.integration                 2024-03..2025-05 0.1.12               |..............====..|
   ?   pub.ihub.module                      2024-04..2025-05 0.2.2                |...............===..|
 liqp  [no clear owner; `nl.big-o` is earliest and most recent]
   ? * nl.big-o                             2018-06..2025-04 0.9.2.3              |...===============..|
@@ -661,9 +661,6 @@ uk.co.spudsoft.birt.emitters.excel  [no clear owner; `io.github.reporting-soluti
 druid.spring.boot4.starter  [no clear owner; `com.shr25` is earliest and most recent]
   ? * com.shr25                            2026-02..2026-02 1.2.27               |..................=.|
   ?   com.alibaba                          2026-03..2026-03 1.2.28               |..................=.|
-java.rmi  [no clear owner; `fr.inria.gforge.spoon` is earliest and most recent]
-  ? * fr.inria.gforge.spoon                2020-06..2020-06 8.2.0-beta-13        |.......=............|
-  ?   org.wso2.carbon.automation           2026-02..2026-03 4.5.3                |..................=.|
 org.freedesktop.dbus  [no clear owner; `com.github.hypfvieh` is earliest and most recent]
   ? * com.github.hypfvieh                  2021-03..2025-12 5.2.0                |........===========.|
   ?   org.endlesssource.mediainterface     2026-02..2026-03 0.2.3                |..................=.|
@@ -963,12 +960,6 @@ java.xml.soap  [no clear owner; `javax.xml.soap` is earliest and most recent]
   ?   org.apache.servicemix.specs          2019-12..2020-03 1.4_2                |......=.............|
   ?   jakarta.xml.soap                     2018-12..2020-01 1.4.2                |....===.............|
   ?   org.jboss.spec.javax.xml.soap        2019-09..2020-01 1.0.2.Final          |.....==.............|
-java.base  [no clear owner; `com.rover12421.android.hide` is earliest and most recent]
-  ? * com.rover12421.android.hide          2021-07..2023-10 14.0.0_r2            |.........======.....|
-  ?   com.kohlschutter.jacline             2023-12..2025-12 1.0.3                |..............=====.|
-  ?   org.kie.j2cl.tools                   2024-07..2025-10 v20250822-1          |...............====.|
-  ?   com.vertispan.j2cl                   2022-11..2023-11 v20230718-1          |............===.....|
-  ?   org.qbicc.rt                         2021-11..2023-10 17.alpha.0.57        |..........=====.....|
 com.sun.activation.registries  [no clear owner; `org.eclipse.angus` is earliest and most recent]
   ? * org.eclipse.angus                    2021-08..2022-12 1.1.0                |.........====.......|
   ?   fish.payara.extras                   2022-07..2025-11 6.2025.11            |...........========.|
@@ -1055,6 +1046,13 @@ common  [no clear owner; `io.github.matwoess` is earliest and most recent]
 persistence.api  [no clear owner; `io.ebean` is earliest and most recent]
   ? * io.ebean                             2019-03..2025-04 3.1                  |....==============..|
   ?   one.gfw                              2023-03..2023-03 3.0                  |............=.......|
+jpms_dss_validation_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
+  ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1          |......============..|
+  ?   eu.europa.ec.joinup.sd-dss           2022-10..2025-03 6.0.1                |............=====...|
+com.amazon.corretto.crypto.provider  [no clear owner; `software.amazon.cryptools` is earliest and most recent]
+  ? * software.amazon.cryptools            2019-07..2025-03 2.5.0                |.....============...|
+  ?   io.github.luneo7                     2022-09..2022-09 1.6.1                |...........=........|
+  ?   org.jfrog.buildinfo                  2022-01..2022-01 2.33.2               |..........=.........|
 ```
 
 ## Reassigned and widened ownership
