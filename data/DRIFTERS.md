@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -987,7 +987,7 @@ org.apache.commons.net  [no clear owner; `commons-net` is earliest and most rece
   ? * commons-net                          2020-08..2021-02 3.8.0                |.......==...........|
   ?   int.esa.ccsds.mo                     2025-05..2025-08 12.3                 |.................=..|
   ?   com.nordstrom.ui-tools               2024-08..2024-08 4.23.0               |...............=....|
-  ?   io.kestra.plugin                     2024-02..2024-03 0.15.1               |..............==....|
+  ?   io.kestra.plugin                     2024-02..2024-03 0.15.1               |..............=.....|
   ?   org.apache.pinot                     2024-03..2024-03 1.1.0                |..............=.....|
   ?   com.jkoolcloud.tnt4j.streams         2023-11..2023-11 2.0.0                |..............=.....|
 com.luciad.imageio.webp  [no clear owner; `org.sejda.imageio` is earliest and most recent]
