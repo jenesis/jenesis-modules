@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -487,7 +487,7 @@ org.eclipse.osgi  [no clear owner; `org.eclipse.tycho` is earliest and most rece
   ?   org.alfasoftware                     2021-05..2026-04 2.7.0                |.........===========|
   ?   net.kieker-monitoring                2026-04..2026-04 2.0.3                |...................=|
   ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |..............======|
-  ?   de.funfried.libraries                2022-05..2026-03 1.0.13               |...........=========|
+  ?   de.funfried.libraries                2022-05..2026-03 1.0.13               |...........========.|
     + 22 more: org.eclipse.platform, io.github.alien-tools, org.tango-controls, org.tango-controls.pogo, ch.reportingsoft.birt, com.liferay, net.revelc.code.formatter, org.kie.j2cl.tools.external, io.github.dogla, com.vertispan.j2cl.external, fr.inria.gforge.spirals, org.geneweaver, (+10 more)
 jakarta.messaging  [no clear owner; `jakarta.jms` is earliest and most recent]
   ? * jakarta.jms                          2022-03..2022-03 3.1.0                |..........=.........|
