@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -309,7 +309,7 @@ org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most 
   ?   software.amazon.awssdk               2024-07..2026-05 2.44.14              |...............=====|
   ?   ai.platon.gora                       2026-05..2026-05 1.0.0                |...................=|
   ?   org.operaton.bpm.extension           2024-12..2026-05 2.1.0                |................====|
-  ?   org.apache.tika                      2024-03..2026-05 3.3.1                |...............=====|
+  ?   org.apache.tika                      2024-03..2026-05 3.3.1                |..............======|
     + 75 more: io.gitlab.cupofcode, com.suprsend, com.mirakl, io.github.rsv-code, com.gitee.melin, org.apache.druid.extensions.contrib, org.wso2.orbit.org.opensaml, org.ops4j.pax.url, io.github.ptc-alm, org.apache.jackrabbit, com.qcloud, com.republicate.modality, (+63 more)
 vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recent]
   ? * com.bettercloud                      2019-06..2019-12 5.1.0                |.....==.............|
@@ -464,7 +464,7 @@ com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most r
   ?   io.github.iscasdmo                   2026-05..2026-05 8.6.0                |...................=|
   ?   cn.com.kingbase                      2025-04..2026-02 9.0.1.jre6           |.................==.|
 org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earliest and most recent]
-  ? * com.kohlschutter.junixsocket         2018-12..2024-09 2.10.1               |....=============...|
+  ? * com.kohlschutter.junixsocket         2018-12..2024-09 2.10.1               |....============....|
   ?   com.sbbsystems.flink                 2026-01..2026-05 3.4.3                |..................==|
   ?   net.corda                            2025-09..2026-05 4.14.2               |.................===|
   ?   org.jam4s                            2025-10..2025-12 0.7.2-alpha0         |..................=.|
@@ -620,7 +620,7 @@ org.java_websocket  [no clear owner; `org.java-websocket` is earliest and most r
   ?   io.github.cb-jarunmadhesh            2026-04..2026-04 1.0.0                |...................=|
   ?   io.github.ashwithpoojary98           2026-01..2026-01 1.0.1                |..................=.|
   ?   dev.lolyay                           2025-07..2025-10 5.8.0                |.................==.|
-  ?   io.kestra.plugin                     2023-09..2025-08 0.24.0               |..............====..|
+  ?   io.kestra.plugin                     2023-09..2025-08 0.24.0               |.............=====..|
   ?   org.jetbrains.kotlinx                2025-07..2025-07 0.14.1-506           |.................=..|
     + 3 more: io.github.gubaojian, com.taosdata.jdbc, com.enixyu
 tech.fortis.sandbox.api  [no clear owner; `io.github.zahran444` is earliest and most recent]
@@ -654,7 +654,7 @@ com.example.www  [no clear owner; `io.github.zahran444` is earliest and most rec
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
   ?   org.tango-controls.atk               2022-06..2026-03 9.4.20               |...........=========|
-  ?   org.tango-controls                   2022-10..2025-10 7.46                 |............=======.|
+  ?   org.tango-controls                   2022-10..2025-10 7.46                 |...........========.|
 uk.co.spudsoft.birt.emitters.excel  [no clear owner; `io.github.reporting-solutions` is earliest and most recent]
   ? * io.github.reporting-solutions        2019-05..2026-02 4.23.0               |.....==============.|
   ?   org.eclipse.birt                     2022-05..2026-03 4.23.0               |...........========.|
