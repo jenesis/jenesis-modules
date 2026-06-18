@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -318,7 +318,7 @@ vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recen
   ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2                |..........=.........|
 org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent]
   ? * commons-io                           2017-10..2021-07 2.11.0               |.=========..........|
-  ?   no.entur                             2024-03..2026-05 1.115.0              |...............=====|
+  ?   no.entur                             2024-03..2026-05 1.115.0              |..............======|
   ?   org.sonarsource.python               2024-10..2026-05 5.23.0.33560         |................====|
   ?   com.github.cafdataprocessing.workers.languagedetection 2024-11..2026-05 7.1.0-1677           |................====|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
