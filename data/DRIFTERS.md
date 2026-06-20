@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -456,7 +456,7 @@ lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ?   io.mosip.esignet.plugin.sunbirdrc    2025-02..2026-05 1.4.0                |................====|
   ?   org.eclipse.hawkbit                  2026-03..2026-04 1.0.3                |...................=|
   ?   io.inji.certify.sunbirdrc            2026-03..2026-03 0.6.0                |...................=|
-  ?   dev.alllexey                         2025-10..2026-03 1.5.0                |..................==|
+  ?   dev.alllexey                         2025-10..2026-03 1.5.0                |..................=.|
   ?   net.polyv                            2020-09..2026-03 2.2.8                |.......============.|
     + 97 more: com.scanoss, com.huaweicloud.dws, net.wirelabs, cn.fyupeng, io.github.alllexey123, io.mosip.esignet.sunbirdrc, io.mosip.certify.sunbirdrc, io.github.opentelekomcloud, io.github.version-pulse, org.qubership.automation, io.github.devlibx.easy, org.sentrysoftware, (+85 more)
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
@@ -599,7 +599,7 @@ mslinks  [no clear owner; `com.github.vatbub` is earliest and most recent]
   ?   org.jabref                           2026-02..2026-04 1.2                  |..................==|
 com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and most recent]
   ? * org.graalvm.regex                    2018-10..2026-04 25.0.3               |...=================|
-  ?   org.noear                            2024-09..2025-07 1.9.6                |................==..|
+  ?   org.noear                            2024-09..2025-07 1.9.6                |...............===..|
   ?   com.syncloop.middleware              2025-01..2025-01 1.7.1                |................=...|
 org.bukkit  [no clear owner; `com.uroria.curepur` is earliest and most recent]
   ? * com.uroria.curepur                   2024-07..2024-07 1.21-R0.1            |...............=....|
