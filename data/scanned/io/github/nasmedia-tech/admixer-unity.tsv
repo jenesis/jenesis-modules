@@ -10,3 +10,4 @@
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-unity/1.0.6/admixer-unity-1.0.6.jar returned status 404
 1.0.7_alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-unity/1.0.7_alpha/admixer-unity-1.0.7_alpha.jar returned status 404
 1.0.7_beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-unity/1.0.7_beta/admixer-unity-1.0.7_beta.jar returned status 404
+2.0.0		2026-06-17T02:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-unity/2.0.0/admixer-unity-2.0.0.jar returned status 404

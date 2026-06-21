@@ -16,3 +16,4 @@
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-adfit/1.0.8/admixer-adfit-1.0.8.jar returned status 404
 1.0.8-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-adfit/1.0.8-alpha/admixer-adfit-1.0.8-alpha.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-adfit/1.0.9/admixer-adfit-1.0.9.jar returned status 404
+2.0.0		2026-06-17T02:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-adfit/2.0.0/admixer-adfit-2.0.0.jar returned status 404

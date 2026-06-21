@@ -2,3 +2,5 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padreati/rapaio-jupyter/3.0.0/rapaio-jupyter-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padreati/rapaio-jupyter/3.0.1/rapaio-jupyter-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padreati/rapaio-jupyter/3.0.2/rapaio-jupyter-3.0.2.jar returned status 404
+3.0.3		2026-06-08T23:47:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padreati/rapaio-jupyter/3.0.3/rapaio-jupyter-3.0.3.jar returned status 404
+3.0.4		2026-06-15T00:29:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padreati/rapaio-jupyter/3.0.4/rapaio-jupyter-3.0.4.jar returned status 404

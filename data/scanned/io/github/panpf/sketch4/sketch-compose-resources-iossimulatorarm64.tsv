@@ -64,3 +64,11 @@
 4.5.0-alpha02	metadata	2026-04-21T09:16:40Z	
 4.5.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-compose-resources-iossimulatorarm64/4.5.0-alpha03/sketch-compose-resources-iossimulatorarm64-4.5.0-alpha03.jar returned status 404
 4.5.0-alpha03	metadata	2026-04-27T11:06:09Z	
+4.5.0-beta01		2026-06-02T08:57:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-compose-resources-iossimulatorarm64/4.5.0-beta01/sketch-compose-resources-iossimulatorarm64-4.5.0-beta01.jar returned status 404
+4.5.0-beta01	metadata	2026-06-02T08:57:30Z	
+4.5.0-beta02		2026-06-03T09:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-compose-resources-iossimulatorarm64/4.5.0-beta02/sketch-compose-resources-iossimulatorarm64-4.5.0-beta02.jar returned status 404
+4.5.0-beta02	metadata	2026-06-03T09:38:38Z	
+4.5.0-beta03		2026-06-09T08:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-compose-resources-iossimulatorarm64/4.5.0-beta03/sketch-compose-resources-iossimulatorarm64-4.5.0-beta03.jar returned status 404
+4.5.0-beta03	metadata	2026-06-09T08:26:46Z	
+4.5.0-beta04		2026-06-16T04:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-compose-resources-iossimulatorarm64/4.5.0-beta04/sketch-compose-resources-iossimulatorarm64-4.5.0-beta04.jar returned status 404
+4.5.0-beta04	metadata	2026-06-16T04:24:52Z	

@@ -14,3 +14,11 @@
 4.5.0-alpha02	metadata	2026-04-21T09:16:39Z	
 4.5.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-blurhash-iossimulatorarm64/4.5.0-alpha03/sketch-blurhash-iossimulatorarm64-4.5.0-alpha03.jar returned status 404
 4.5.0-alpha03	metadata	2026-04-27T11:06:15Z	
+4.5.0-beta01		2026-06-02T08:57:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-blurhash-iossimulatorarm64/4.5.0-beta01/sketch-blurhash-iossimulatorarm64-4.5.0-beta01.jar returned status 404
+4.5.0-beta01	metadata	2026-06-02T08:57:26Z	
+4.5.0-beta02		2026-06-03T09:38:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-blurhash-iossimulatorarm64/4.5.0-beta02/sketch-blurhash-iossimulatorarm64-4.5.0-beta02.jar returned status 404
+4.5.0-beta02	metadata	2026-06-03T09:38:30Z	
+4.5.0-beta03		2026-06-09T08:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-blurhash-iossimulatorarm64/4.5.0-beta03/sketch-blurhash-iossimulatorarm64-4.5.0-beta03.jar returned status 404
+4.5.0-beta03	metadata	2026-06-09T08:26:46Z	
+4.5.0-beta04		2026-06-16T04:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-blurhash-iossimulatorarm64/4.5.0-beta04/sketch-blurhash-iossimulatorarm64-4.5.0-beta04.jar returned status 404
+4.5.0-beta04	metadata	2026-06-16T04:24:47Z	

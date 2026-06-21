@@ -262,7 +262,9 @@
 3.3.1	named	org.apache.tika	tika-eval-app	2026-05-20T20:44:43Z	1.22.2
 2.0.0-RC14	named	org.scala-sbt	librarymanagement-coursier_3	2026-06-01T15:07:43Z	1.21.2
 2.0.0-RC15	named	org.scala-sbt	librarymanagement-coursier_3	2026-06-08T04:24:45Z	1.21.2
+3.0.3	named	io.github.padreati	rapaio-jupyter-kernel	2026-06-08T23:47:58Z	1.22.2
 1.0.0	named	io.github.searchable-io	searchable-cli	2026-06-10T09:49:42Z	1.22.2
 0.10	named	org.kie.j2cl.tools.di.ui	generator	2026-06-11T00:15:08Z	1.22.2
 2.0.0-RC16	named	org.scala-sbt	librarymanagement-coursier_3	2026-06-11T02:33:31Z	1.21.2
 2.0.0	named	org.scala-sbt	librarymanagement-coursier_3	2026-06-14T22:47:47Z	1.21.2
+3.0.4	named	io.github.padreati	rapaio-jupyter-kernel	2026-06-15T00:29:51Z	1.22.2

@@ -22,5 +22,11 @@
 0.1.2	metadata	2026-04-29T07:27:03Z	
 0.1.3		2026-05-20T12:27:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-logger-iosarm64/0.1.3/tool-logger-iosarm64-0.1.3.jar returned status 404
 0.1.3	metadata	2026-05-20T12:27:46Z	
+0.2.0		2026-06-02T11:04:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-logger-iosarm64/0.2.0/tool-logger-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-02T11:04:06Z	
+0.3.0		2026-06-11T19:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-logger-iosarm64/0.3.0/tool-logger-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-06-11T19:22:19Z	
+0.4.0		2026-06-15T21:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-logger-iosarm64/0.4.0/tool-logger-iosarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-06-15T21:54:48Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-logger-iosarm64/unspecified/tool-logger-iosarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-02-22T17:55:06Z	

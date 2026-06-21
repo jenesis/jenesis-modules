@@ -13,3 +13,4 @@
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-applovin/1.0.7/admixer-applovin-1.0.7.jar returned status 404
 1.0.7_alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-applovin/1.0.7_alpha/admixer-applovin-1.0.7_alpha.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-applovin/1.0.8/admixer-applovin-1.0.8.jar returned status 404
+2.0.0		2026-06-17T02:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-applovin/2.0.0/admixer-applovin-2.0.0.jar returned status 404

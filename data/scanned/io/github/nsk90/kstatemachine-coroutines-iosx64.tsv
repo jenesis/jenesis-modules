@@ -32,3 +32,9 @@
 0.35.0	metadata	2025-10-25T20:40:39Z	
 0.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nsk90/kstatemachine-coroutines-iosx64/0.36.0/kstatemachine-coroutines-iosx64-0.36.0.jar returned status 404
 0.36.0	metadata	2026-01-23T09:18:44Z	
+0.37.0		2026-06-09T07:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nsk90/kstatemachine-coroutines-iosx64/0.37.0/kstatemachine-coroutines-iosx64-0.37.0.jar returned status 404
+0.37.0	metadata	2026-06-09T07:14:53Z	
+0.38.0		2026-06-16T16:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nsk90/kstatemachine-coroutines-iosx64/0.38.0/kstatemachine-coroutines-iosx64-0.38.0.jar returned status 404
+0.38.0	metadata	2026-06-16T16:35:35Z	
+0.38.1		2026-06-17T18:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nsk90/kstatemachine-coroutines-iosx64/0.38.1/kstatemachine-coroutines-iosx64-0.38.1.jar returned status 404
+0.38.1	metadata	2026-06-17T18:32:51Z	

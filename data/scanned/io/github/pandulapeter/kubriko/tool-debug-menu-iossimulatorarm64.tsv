@@ -22,5 +22,11 @@
 0.1.2	metadata	2026-04-29T07:27:01Z	
 0.1.3		2026-05-20T12:27:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-iossimulatorarm64/0.1.3/tool-debug-menu-iossimulatorarm64-0.1.3.jar returned status 404
 0.1.3	metadata	2026-05-20T12:27:44Z	
+0.2.0		2026-06-02T11:04:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-iossimulatorarm64/0.2.0/tool-debug-menu-iossimulatorarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-02T11:04:10Z	
+0.3.0		2026-06-11T19:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-iossimulatorarm64/0.3.0/tool-debug-menu-iossimulatorarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-06-11T19:22:18Z	
+0.4.0		2026-06-15T21:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-iossimulatorarm64/0.4.0/tool-debug-menu-iossimulatorarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-06-15T21:54:44Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-iossimulatorarm64/unspecified/tool-debug-menu-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-02-22T17:54:26Z	
