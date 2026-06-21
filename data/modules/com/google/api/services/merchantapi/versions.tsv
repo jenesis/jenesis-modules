@@ -385,3 +385,11 @@ quota_v1beta-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-mer
 reports_v1-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-05-29T08:22:19Z	
 reports_v1beta-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-05-29T08:23:10Z	
 reviews_v1beta-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-05-29T08:24:02Z	
+products_v1-rev20260602-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-04T08:06:22Z	
+products_v1-rev20260611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-12T08:07:19Z	
+datasources_v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:07:53Z	
+datasources_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:08:46Z	
+notifications_v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:09:37Z	
+notifications_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:10:29Z	
+reports_v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:11:22Z	
+reports_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:12:15Z	

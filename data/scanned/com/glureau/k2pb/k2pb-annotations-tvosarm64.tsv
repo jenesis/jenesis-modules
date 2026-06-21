@@ -48,6 +48,10 @@
 0.9.31	metadata	2026-05-29T15:34:14Z	
 0.9.32		2026-05-30T06:17:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/glureau/k2pb/k2pb-annotations-tvosarm64/0.9.32/k2pb-annotations-tvosarm64-0.9.32.jar returned status 404
 0.9.32	metadata	2026-05-30T06:17:39Z	
+0.9.33		2026-06-11T14:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/glureau/k2pb/k2pb-annotations-tvosarm64/0.9.33/k2pb-annotations-tvosarm64-0.9.33.jar returned status 404
+0.9.33	metadata	2026-06-11T14:45:26Z	
+0.9.34		2026-06-11T21:50:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/glureau/k2pb/k2pb-annotations-tvosarm64/0.9.34/k2pb-annotations-tvosarm64-0.9.34.jar returned status 404
+0.9.34	metadata	2026-06-11T21:50:23Z	
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/glureau/k2pb/k2pb-annotations-tvosarm64/0.9.4/k2pb-annotations-tvosarm64-0.9.4.jar returned status 404
 0.9.4	metadata	2024-12-18T19:17:06Z	
 0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/glureau/k2pb/k2pb-annotations-tvosarm64/0.9.5/k2pb-annotations-tvosarm64-0.9.5.jar returned status 404

@@ -7273,9 +7273,11 @@ v0.0.13	named	com.grafana	grafana-foundation-sdk	2026-05-29T09:36:00Z	2.19.1
 5.3.5	named	com.microsoft.azure.kusto	kusto-spark_3.0_2.12	2026-06-02T16:58:02Z	2.14.3
 1.0.9	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-06-03T10:31:07Z	2.15.2
 2.0.4	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-06-03T12:47:02Z	2.15.2
+v0.0.15	named	com.grafana	grafana-foundation-sdk	2026-06-04T08:33:09Z	2.19.1
 0.4.0-jdk8	named	org.apache.cassandra	sidecar-vertx-client-all	2026-06-04T10:57:12Z	2.14.3
 0.4.0	named	org.apache.cassandra	sidecar-vertx-client-all	2026-06-04T11:04:54Z	2.14.3
 2.0.2	named	org.finos.fluxnova.spin	fluxnova-spin-dataformat-all	2026-06-04T20:32:52Z	2.15.2
+v0.0.16	named	com.grafana	grafana-foundation-sdk	2026-06-04T21:16:31Z	2.19.1
 2.1.3	named	org.apache.flink	flink-sql-avro	2026-06-08T04:07:05Z	2.18.2
 2.1.3	named	org.apache.flink	flink-sql-parquet	2026-06-08T04:08:57Z	2.18.1
 2.1.3	named	org.apache.flink	flink-model-openai	2026-06-08T04:15:28Z	2.18.2
@@ -7289,11 +7291,13 @@ v0.0.13	named	com.grafana	grafana-foundation-sdk	2026-05-29T09:36:00Z	2.19.1
 4.3.2	named	com.vaimee	sepa-jena-fuseki-geosparql	2026-06-08T16:51:12Z	2.13.0
 4.3.2	named	com.vaimee	sepa-jena-fuseki-server	2026-06-08T16:51:13Z	2.13.0
 4.3.2	named	com.vaimee	sepa-jena-jdbc-driver-bundle	2026-06-08T16:51:13Z	2.13.0
+v0.0.17	named	com.grafana	grafana-foundation-sdk	2026-06-09T13:10:29Z	2.19.1
 0.2.0	named	com.tinfoiled	markd_2.13	2026-06-09T18:16:11Z	2.14.3
 1.15.29.Final	named	org.wildfly.security	wildfly-elytron	2026-06-10T09:18:36Z	2.17.3
 1.49.0	named	io.openlineage	openlineage-hive	2026-06-10T10:01:16Z	2.18.1
 2.6.10.Final	named	org.wildfly.security	wildfly-elytron	2026-06-10T14:30:45Z	2.17.3
 2.9.2.Final	named	org.wildfly.security	wildfly-elytron	2026-06-10T17:04:05Z	2.21.1
+v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 4.3.0-rc1	named	io.delta	delta-hudi_2.13	2026-06-12T22:57:43Z	2.14.3
 1.2.0.18	named	com.linkedin.iceberg	iceberg-flink-runtime-1.16	2026-06-15T22:08:07Z	2.14.3
 4.3.0	named	io.delta	delta-hudi_2.13	2026-06-18T00:23:48Z	2.14.3
