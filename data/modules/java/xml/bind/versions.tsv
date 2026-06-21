@@ -1498,3 +1498,7 @@
 4.3.9	named	org.kendar.protocol	protocol-runner	2026-05-19T14:51:36Z	
 1.30.2	named	org.verapdf.apps	gui	2026-06-03T10:55:03Z	
 1.30.2	named	org.verapdf.apps	cli	2026-06-03T10:55:04Z	
+2.1.3	named	org.apache.flink	flink-s3-fs-hadoop	2026-06-08T04:18:11Z	
+2.1.3	named	org.apache.flink	flink-s3-fs-presto	2026-06-08T04:20:31Z	
+1.20.5	named	org.apache.flink	flink-s3-fs-hadoop	2026-06-08T09:08:23Z	
+1.20.5	named	org.apache.flink	flink-s3-fs-presto	2026-06-08T09:09:37Z	

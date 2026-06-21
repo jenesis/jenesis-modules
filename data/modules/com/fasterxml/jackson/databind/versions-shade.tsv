@@ -69,3 +69,11 @@
 3.4.1	named	org.apache.dolphinscheduler	dolphinscheduler-storage-abs	2026-03-01T05:30:09Z	2.13.4
 3.4.1	named	org.apache.dolphinscheduler	dolphinscheduler-storage-cos	2026-03-01T05:30:46Z	2.13.4
 2.3.0	named	com.oceanbase	obkv-table-client	2026-03-03T06:41:46Z	2.19.0
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-task-emr-serverless	2026-05-30T04:10:54Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-k8s	2026-05-30T04:12:09Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-sagemaker	2026-05-30T04:14:18Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-task-datafactory	2026-05-30T04:17:29Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-azure-sql	2026-05-30T04:24:16Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-snowflake	2026-05-30T04:25:05Z	2.13.4.2
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-storage-abs	2026-05-30T04:34:00Z	2.13.4
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-storage-cos	2026-05-30T04:34:41Z	2.13.4

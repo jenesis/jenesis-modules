@@ -992,5 +992,7 @@
 3.30.2	named	org.conductoross	conductor-os-persistence-v3	2026-06-03T03:37:54Z	2.2
 3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v2	2026-06-04T23:37:47Z	2.2
 3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v3	2026-06-04T23:38:14Z	2.2
+2.1.3	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-08T04:49:49Z	2.3
+2.1.3	named	org.apache.flink	flink-kubernetes	2026-06-08T04:58:34Z	2.3
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v2	2026-06-12T21:32:18Z	2.2
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v3	2026-06-12T21:32:54Z	2.2

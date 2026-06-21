@@ -1333,4 +1333,11 @@
 2.73.0	named	org.apache.beam	beam-sdks-java-io-amazon-web-services2-expansion-service	2026-04-23T16:39:53Z	1.26.2
 2.73.0	named	org.apache.beam	beam-sdks-java-io-debezium-expansion-service	2026-04-23T16:40:33Z	1.26.2
 37.0.0	named	org.apache.druid.extensions	druid-protobuf-extensions	2026-04-28T21:36:00Z	1.28.0
+2.74.0	named	org.apache.beam	beam-runners-direct-java	2026-05-28T20:08:53Z	1.26.2
+2.74.0	named	org.apache.beam	beam-sdks-java-core	2026-05-28T20:35:23Z	1.26.2
+2.74.0	named	org.apache.beam	beam-sdks-java-transform-service	2026-05-28T20:37:16Z	1.26.2
+2.74.0	named	org.apache.beam	beam-sdks-java-expansion-service-app	2026-05-28T20:55:26Z	1.26.2
+2.74.0	named	org.apache.beam	beam-sdks-java-io-amazon-web-services2-expansion-service	2026-05-28T21:33:51Z	1.26.2
+2.74.0	named	org.apache.beam	beam-sdks-java-io-debezium-expansion-service	2026-05-28T21:34:28Z	1.26.2
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-01T12:12:43Z	1.26.1
+1.20.5	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-08T09:24:28Z	1.26.0

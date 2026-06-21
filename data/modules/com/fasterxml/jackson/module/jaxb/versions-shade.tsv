@@ -9,3 +9,5 @@
 3.4.0	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-spark	2026-01-13T10:31:20Z	2.13.5
 3.4.1	named	org.apache.dolphinscheduler	dolphinscheduler-task-chunjun	2026-03-01T05:06:34Z	2.13.5
 3.4.1	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-spark	2026-03-01T05:18:50Z	2.13.5
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-task-chunjun	2026-05-30T04:15:44Z	2.13.5
+3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-spark	2026-05-30T04:22:38Z	2.13.5

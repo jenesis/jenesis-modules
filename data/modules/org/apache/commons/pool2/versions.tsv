@@ -62,3 +62,4 @@
 37.0.0	named	org.apache.druid.extensions.contrib	druid-redis-cache	2026-04-28T21:50:27Z	2.12.1
 0.1.0	named	io.github.caobahuong	kafka-connect-dynamic-filter-redis	2026-05-26T04:05:18Z	2.12.0
 0.1.1	named	io.github.caobahuong	kafka-connect-dynamic-filter-redis	2026-05-26T04:21:47Z	2.12.0
+2.1.8	named	org.apache.directory.api	api-ldap-client-all	2026-05-27T06:57:42Z	2.13.1
