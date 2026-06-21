@@ -40,6 +40,8 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/5.5.0/jeap-audit-5.5.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.0.0/jeap-audit-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.1.0/jeap-audit-6.1.0.jar returned status 404
+6.10.0		2026-06-11T16:09:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.10.0/jeap-audit-6.10.0.jar returned status 404
+6.11.0		2026-06-15T10:39:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.11.0/jeap-audit-6.11.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.2.0/jeap-audit-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.2.1/jeap-audit-6.2.1.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.3.0/jeap-audit-6.3.0.jar returned status 404
@@ -49,6 +51,8 @@
 6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.7.0/jeap-audit-6.7.0.jar returned status 404
 6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.8.0/jeap-audit-6.8.0.jar returned status 404
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.9.0/jeap-audit-6.9.0.jar returned status 404
+6.9.1		2026-06-03T14:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.9.1/jeap-audit-6.9.1.jar returned status 404
+6.9.2		2026-06-09T13:47:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/6.9.2/jeap-audit-6.9.2.jar returned status 404
 7.0.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/7.0.0-alpha-springboot4/jeap-audit-7.0.0-alpha-springboot4.jar returned status 404
 7.1.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/7.1.0-alpha-springboot4/jeap-audit-7.1.0-alpha-springboot4.jar returned status 404
 7.2.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/7.2.0-alpha-springboot4/jeap-audit-7.2.0-alpha-springboot4.jar returned status 404
@@ -61,4 +65,14 @@
 7.8.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/7.8.0-alpha-springboot4/jeap-audit-7.8.0-alpha-springboot4.jar returned status 404
 8.0.0		2026-05-27T08:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.0.0/jeap-audit-8.0.0.jar returned status 404
 8.1.0		2026-05-28T08:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.1.0/jeap-audit-8.1.0.jar returned status 404
+8.10.0		2026-06-18T14:16:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.10.0/jeap-audit-8.10.0.jar returned status 404
 8.2.0		2026-05-29T10:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.2.0/jeap-audit-8.2.0.jar returned status 404
+8.3.0		2026-06-02T05:36:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.3.0/jeap-audit-8.3.0.jar returned status 404
+8.3.1		2026-06-03T07:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.3.1/jeap-audit-8.3.1.jar returned status 404
+8.4.0		2026-06-04T10:06:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.4.0/jeap-audit-8.4.0.jar returned status 404
+8.5.0		2026-06-09T11:39:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.5.0/jeap-audit-8.5.0.jar returned status 404
+8.6.0		2026-06-11T16:09:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.6.0/jeap-audit-8.6.0.jar returned status 404
+8.7.0		2026-06-12T10:04:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.7.0/jeap-audit-8.7.0.jar returned status 404
+8.7.1		2026-06-17T07:44:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.7.1/jeap-audit-8.7.1.jar returned status 404
+8.8.0		2026-06-18T05:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.8.0/jeap-audit-8.8.0.jar returned status 404
+8.9.0		2026-06-18T13:39:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.9.0/jeap-audit-8.9.0.jar returned status 404

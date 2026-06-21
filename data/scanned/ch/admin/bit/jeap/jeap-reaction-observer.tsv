@@ -66,6 +66,8 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/5.5.0/jeap-reaction-observer-5.5.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.0.0/jeap-reaction-observer-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.1.0/jeap-reaction-observer-6.1.0.jar returned status 404
+6.10.0		2026-06-11T15:55:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.10.0/jeap-reaction-observer-6.10.0.jar returned status 404
+6.11.0		2026-06-15T10:24:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.11.0/jeap-reaction-observer-6.11.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.2.0/jeap-reaction-observer-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.2.1/jeap-reaction-observer-6.2.1.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.3.0/jeap-reaction-observer-6.3.0.jar returned status 404
@@ -75,6 +77,8 @@
 6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.7.0/jeap-reaction-observer-6.7.0.jar returned status 404
 6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.8.0/jeap-reaction-observer-6.8.0.jar returned status 404
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.9.0/jeap-reaction-observer-6.9.0.jar returned status 404
+6.9.1		2026-06-03T12:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.9.1/jeap-reaction-observer-6.9.1.jar returned status 404
+6.9.2		2026-06-09T13:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/6.9.2/jeap-reaction-observer-6.9.2.jar returned status 404
 7.0.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/7.0.0-alpha-springboot4/jeap-reaction-observer-7.0.0-alpha-springboot4.jar returned status 404
 7.1.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/7.1.0-alpha-springboot4/jeap-reaction-observer-7.1.0-alpha-springboot4.jar returned status 404
 7.2.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/7.2.0-alpha-springboot4/jeap-reaction-observer-7.2.0-alpha-springboot4.jar returned status 404
@@ -87,3 +91,13 @@
 7.9.0-alpha-springboot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/7.9.0-alpha-springboot4/jeap-reaction-observer-7.9.0-alpha-springboot4.jar returned status 404
 8.0.0		2026-05-27T07:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.0.0/jeap-reaction-observer-8.0.0.jar returned status 404
 8.1.0		2026-05-29T10:14:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.1.0/jeap-reaction-observer-8.1.0.jar returned status 404
+8.10.0		2026-06-18T14:05:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.10.0/jeap-reaction-observer-8.10.0.jar returned status 404
+8.2.0		2026-06-02T05:23:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.2.0/jeap-reaction-observer-8.2.0.jar returned status 404
+8.2.1		2026-06-03T07:33:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.2.1/jeap-reaction-observer-8.2.1.jar returned status 404
+8.3.0		2026-06-04T10:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.3.0/jeap-reaction-observer-8.3.0.jar returned status 404
+8.4.0		2026-06-09T11:25:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.4.0/jeap-reaction-observer-8.4.0.jar returned status 404
+8.5.0		2026-06-11T15:55:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.5.0/jeap-reaction-observer-8.5.0.jar returned status 404
+8.6.0		2026-06-12T09:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.6.0/jeap-reaction-observer-8.6.0.jar returned status 404
+8.7.0		2026-06-17T10:26:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.7.0/jeap-reaction-observer-8.7.0.jar returned status 404
+8.8.0		2026-06-17T13:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.8.0/jeap-reaction-observer-8.8.0.jar returned status 404
+8.9.0		2026-06-18T13:21:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/8.9.0/jeap-reaction-observer-8.9.0.jar returned status 404
