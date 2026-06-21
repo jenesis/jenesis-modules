@@ -1,0 +1,2 @@
+4.1.0		2026-06-07T21:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/adriankuta/tree-structure-immutable-wasm-js/4.1.0/tree-structure-immutable-wasm-js-4.1.0.jar returned status 404
+4.1.1		2026-06-08T06:44:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/adriankuta/tree-structure-immutable-wasm-js/4.1.1/tree-structure-immutable-wasm-js-4.1.1.jar returned status 404

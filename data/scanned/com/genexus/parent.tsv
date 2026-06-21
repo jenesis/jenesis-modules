@@ -1,5 +1,7 @@
 2.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/2.7.26/parent-2.7.26.jar returned status 404
 2.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/2.7.27/parent-2.7.27.jar returned status 404
+2.7.29		2026-06-08T20:47:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/2.7.29/parent-2.7.29.jar returned status 404
+2.7.30		2026-06-08T21:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/2.7.30/parent-2.7.30.jar returned status 404
 4.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/4.1.12/parent-4.1.12.jar returned status 404
 4.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/4.1.13/parent-4.1.13.jar returned status 404
 4.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/parent/4.1.15/parent-4.1.15.jar returned status 404

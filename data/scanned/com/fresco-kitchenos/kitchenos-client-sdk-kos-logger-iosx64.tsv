@@ -122,3 +122,11 @@
 1.57.1	metadata	2026-05-19T12:16:34Z	
 1.57.2		2026-05-20T08:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-logger-iosx64/1.57.2/kitchenos-client-sdk-kos-logger-iosx64-1.57.2.jar returned status 404
 1.57.2	metadata	2026-05-20T08:39:00Z	
+1.58.0		2026-06-02T16:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-logger-iosx64/1.58.0/kitchenos-client-sdk-kos-logger-iosx64-1.58.0.jar returned status 404
+1.58.0	metadata	2026-06-02T16:55:54Z	
+1.59.0		2026-06-11T15:02:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-logger-iosx64/1.59.0/kitchenos-client-sdk-kos-logger-iosx64-1.59.0.jar returned status 404
+1.59.0	metadata	2026-06-11T15:02:31Z	
+1.59.1		2026-06-15T10:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-logger-iosx64/1.59.1/kitchenos-client-sdk-kos-logger-iosx64-1.59.1.jar returned status 404
+1.59.1	metadata	2026-06-15T10:08:08Z	
+1.59.2		2026-06-17T09:00:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-logger-iosx64/1.59.2/kitchenos-client-sdk-kos-logger-iosx64-1.59.2.jar returned status 404
+1.59.2	metadata	2026-06-17T09:00:44Z	

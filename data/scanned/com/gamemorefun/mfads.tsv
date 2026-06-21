@@ -35,3 +35,4 @@
 1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gamemorefun/mfads/1.5.5/mfads-1.5.5.jar returned status 404
 1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gamemorefun/mfads/1.5.6/mfads-1.5.6.jar returned status 404
 1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gamemorefun/mfads/1.5.7/mfads-1.5.7.jar returned status 404
+1.5.8		2026-06-05T08:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gamemorefun/mfads/1.5.8/mfads-1.5.8.jar returned status 404
