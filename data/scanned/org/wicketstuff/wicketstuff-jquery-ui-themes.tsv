@@ -2,3 +2,4 @@
 10.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicketstuff-jquery-ui-themes/10.7.0/wicketstuff-jquery-ui-themes-10.7.0.jar returned status 404
 10.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicketstuff-jquery-ui-themes/10.8.0/wicketstuff-jquery-ui-themes-10.8.0.jar returned status 404
 10.9.1		2026-05-24T05:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicketstuff-jquery-ui-themes/10.9.1/wicketstuff-jquery-ui-themes-10.9.1.jar returned status 404
+10.9.2		2026-05-30T06:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicketstuff-jquery-ui-themes/10.9.2/wicketstuff-jquery-ui-themes-10.9.2.jar returned status 404

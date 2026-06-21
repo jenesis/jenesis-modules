@@ -5125,5 +5125,6 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.50.0	named	com.vwo.sdk	vwo-fme-java-sdk	2026-05-29T08:17:20Z	2.15.2
 1.50.0	named	com.wingify.sdk	wingify-fme-java-sdk	2026-05-29T09:17:26Z	2.15.2
 3.6.0.Beta1	named	io.debezium	debezium-connector-cassandra-5	2026-05-29T15:50:12Z	2.21
+1.2.37	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-06-11T10:40:30Z	2.17.0
 0.5.2	named	ru.loolzaaa.tgbot4j	tgbot4j	2026-06-14T12:21:37Z	2.21
 0.5.2	named	ru.loolzaaa.tgbot4j	tgbot4j-core	2026-06-14T12:21:37Z	2.21
