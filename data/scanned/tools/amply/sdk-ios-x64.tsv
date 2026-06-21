@@ -12,3 +12,15 @@
 0.3.0	metadata	2026-05-20T13:48:08Z	
 0.4.0		2026-05-28T08:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.4.0/sdk-ios-x64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-05-28T08:17:45Z	
+0.4.1		2026-05-28T14:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.4.1/sdk-ios-x64-0.4.1.jar returned status 404
+0.4.1	metadata	2026-05-28T14:14:33Z	
+0.5.0		2026-05-29T04:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.5.0/sdk-ios-x64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-05-29T04:58:48Z	
+0.5.1		2026-05-29T11:54:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.5.1/sdk-ios-x64-0.5.1.jar returned status 404
+0.5.1	metadata	2026-05-29T11:54:32Z	
+0.5.2		2026-05-29T12:47:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.5.2/sdk-ios-x64-0.5.2.jar returned status 404
+0.5.2	metadata	2026-05-29T12:47:35Z	
+0.5.4		2026-05-31T17:42:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.5.4/sdk-ios-x64-0.5.4.jar returned status 404
+0.5.4	metadata	2026-05-31T17:42:48Z	
+0.5.5		2026-06-08T14:23:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-x64/0.5.5/sdk-ios-x64-0.5.5.jar returned status 404
+0.5.5	metadata	2026-06-08T14:23:09Z	

@@ -1,3 +1,4 @@
 2.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/moirae/security/2.0.0-RELEASE/security-2.0.0-RELEASE.jar returned status 404
 2.0.1-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/moirae/security/2.0.1-RELEASE/security-2.0.1-RELEASE.jar returned status 404
 2.0.2-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/moirae/security/2.0.2-RELEASE/security-2.0.2-RELEASE.jar returned status 404
+2.0.3-RELEASE		2026-06-10T02:37:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/moirae/security/2.0.3-RELEASE/security-2.0.3-RELEASE.jar returned status 404

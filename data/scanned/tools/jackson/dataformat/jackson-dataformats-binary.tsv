@@ -14,3 +14,5 @@
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/dataformat/jackson-dataformats-binary/3.1.1/jackson-dataformats-binary-3.1.1.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/dataformat/jackson-dataformats-binary/3.1.2/jackson-dataformats-binary-3.1.2.jar returned status 404
 3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/dataformat/jackson-dataformats-binary/3.1.3/jackson-dataformats-binary-3.1.3.jar returned status 404
+3.1.4		2026-05-29T20:51:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/dataformat/jackson-dataformats-binary/3.1.4/jackson-dataformats-binary-3.1.4.jar returned status 404
+3.2.0		2026-06-08T23:58:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/dataformat/jackson-dataformats-binary/3.2.0/jackson-dataformats-binary-3.2.0.jar returned status 404

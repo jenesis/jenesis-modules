@@ -2,3 +2,5 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezddd/ezddd/3.0.1/ezddd-3.0.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezddd/ezddd/4.0.0/ezddd-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezddd/ezddd/4.1.0/ezddd-4.1.0.jar returned status 404
+5.0.0		2026-06-03T08:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezddd/ezddd/5.0.0/ezddd-5.0.0.jar returned status 404
+5.0.1		2026-06-09T07:44:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezddd/ezddd/5.0.1/ezddd-5.0.1.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0-RC1		2026-05-28T15:09:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zhouxy/plusone/plusone-validator-parent/1.0.0-RC1/plusone-validator-parent-1.0.0-RC1.jar returned status 404
+1.0.0-RC4		2026-05-28T15:28:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zhouxy/plusone/plusone-validator-parent/1.0.0-RC4/plusone-validator-parent-1.0.0-RC4.jar returned status 404

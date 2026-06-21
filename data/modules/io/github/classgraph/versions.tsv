@@ -962,3 +962,4 @@ edge	named	com.purbon.kafka.topology	julie-ops-cli	2022-07-29T14:46:42Z	4.8.21
 1.1.27	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-01-21T23:16:25Z	
 1.1.27	named	software.amazon.glue	protobuf-kafkaconnect-converter	2026-01-21T23:16:26Z	
 1.0.0-beta	named	org.paramixel	core	2026-04-28T00:53:43Z	
+0.0.4	named	tech.neander	smithy4s-deriving-compiler_3	2026-06-01T14:00:16Z	

@@ -18,6 +18,7 @@
 3.5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.12/opcal-commons-build-3.5.12.jar returned status 404
 3.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.13/opcal-commons-build-3.5.13.jar returned status 404
 3.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.14/opcal-commons-build-3.5.14.jar returned status 404
+3.5.15		2026-06-11T13:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.15/opcal-commons-build-3.5.15.jar returned status 404
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.2/opcal-commons-build-3.5.2.jar returned status 404
 3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.3/opcal-commons-build-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/3.5.4/opcal-commons-build-3.5.4.jar returned status 404
@@ -34,3 +35,5 @@
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/4.0.4/opcal-commons-build-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/4.0.5/opcal-commons-build-4.0.5.jar returned status 404
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/4.0.6/opcal-commons-build-4.0.6.jar returned status 404
+4.0.7		2026-06-11T13:37:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/4.0.7/opcal-commons-build-4.0.7.jar returned status 404
+4.1.0		2026-06-11T13:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/opcal/build/opcal-commons-build/4.1.0/opcal-commons-build-4.1.0.jar returned status 404

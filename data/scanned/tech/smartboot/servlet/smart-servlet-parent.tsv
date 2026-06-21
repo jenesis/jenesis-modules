@@ -11,3 +11,4 @@
 2.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/servlet/smart-servlet-parent/2.9.1/smart-servlet-parent-2.9.1.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/servlet/smart-servlet-parent/3.0/smart-servlet-parent-3.0.jar returned status 404
 3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/servlet/smart-servlet-parent/3.1/smart-servlet-parent-3.1.jar returned status 404
+3.2		2026-06-14T11:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/servlet/smart-servlet-parent/3.2/smart-servlet-parent-3.2.jar returned status 404

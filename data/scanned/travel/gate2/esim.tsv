@@ -19,6 +19,8 @@
 1.0.18-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.18-test/esim-1.0.18-test.jar returned status 404
 1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.19/esim-1.0.19.jar returned status 404
 1.0.19-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.19-test/esim-1.0.19-test.jar returned status 404
+1.0.20		2026-06-03T08:05:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.20/esim-1.0.20.jar returned status 404
+1.0.20-test		2026-06-03T08:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.20-test/esim-1.0.20-test.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.5/esim-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.6/esim-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/esim/1.0.7/esim-1.0.7.jar returned status 404

@@ -2755,3 +2755,4 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.12.9	named	org.open-metadata	elasticsearch-deps	2026-05-28T04:51:14Z	2.0.4
 0.13.0	named	io.testomat	java-reporter-core	2026-05-29T06:32:06Z	2.0.9
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-01T12:12:43Z	2.0.3
+3.8.0	named	us.springett	alpine-executable-war	2026-06-12T13:52:42Z	2.0.18

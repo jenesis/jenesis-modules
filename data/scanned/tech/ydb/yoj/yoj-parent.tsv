@@ -1,3 +1,5 @@
+2.10.0		2026-06-01T16:34:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/yoj/yoj-parent/2.10.0/yoj-parent-2.10.0.jar returned status 404
+2.10.1		2026-06-03T16:21:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/yoj/yoj-parent/2.10.1/yoj-parent-2.10.1.jar returned status 404
 2.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/yoj/yoj-parent/2.5.15/yoj-parent-2.5.15.jar returned status 404
 2.5.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/yoj/yoj-parent/2.5.16/yoj-parent-2.5.16.jar returned status 404
 2.5.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/yoj/yoj-parent/2.5.17/yoj-parent-2.5.17.jar returned status 404

@@ -48,3 +48,4 @@
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/brid/sdk/bridsdk/1.4.3/bridsdk-1.4.3.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/brid/sdk/bridsdk/1.6.0/bridsdk-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/brid/sdk/bridsdk/1.6.1/bridsdk-1.6.1.jar returned status 404
+1.6.2		2026-06-11T08:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/brid/sdk/bridsdk/1.6.2/bridsdk-1.6.2.jar returned status 404

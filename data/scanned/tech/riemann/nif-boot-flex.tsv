@@ -5,3 +5,5 @@
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-boot-flex/4.0.6/nif-boot-flex-4.0.6.jar returned status 404
 4.0.6-20260512			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-boot-flex/4.0.6-20260512/nif-boot-flex-4.0.6-20260512.jar returned status 404
 4.0.6-20260513			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-boot-flex/4.0.6-20260513/nif-boot-flex-4.0.6-20260513.jar returned status 404
+4.0.7		2026-06-11T00:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-boot-flex/4.0.7/nif-boot-flex-4.0.7.jar returned status 404
+4.1.0		2026-06-11T00:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-boot-flex/4.1.0/nif-boot-flex-4.1.0.jar returned status 404

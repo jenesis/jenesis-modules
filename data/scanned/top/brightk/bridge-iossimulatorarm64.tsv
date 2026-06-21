@@ -18,3 +18,5 @@
 0.1.0	metadata	2026-05-16T06:00:55Z	
 0.1.4		2026-05-18T03:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/brightk/bridge-iossimulatorarm64/0.1.4/bridge-iossimulatorarm64-0.1.4.jar returned status 404
 0.1.4	metadata	2026-05-18T03:06:22Z	
+0.2.0		2026-06-08T09:28:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/brightk/bridge-iossimulatorarm64/0.2.0/bridge-iossimulatorarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-08T09:28:13Z	

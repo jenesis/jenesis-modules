@@ -14,3 +14,5 @@
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/jaxrs/jackson-jaxrs-providers/3.1.1/jackson-jaxrs-providers-3.1.1.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/jaxrs/jackson-jaxrs-providers/3.1.2/jackson-jaxrs-providers-3.1.2.jar returned status 404
 3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/jaxrs/jackson-jaxrs-providers/3.1.3/jackson-jaxrs-providers-3.1.3.jar returned status 404
+3.1.4		2026-05-29T21:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/jaxrs/jackson-jaxrs-providers/3.1.4/jackson-jaxrs-providers-3.1.4.jar returned status 404
+3.2.0		2026-06-09T00:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/jaxrs/jackson-jaxrs-providers/3.2.0/jackson-jaxrs-providers-3.2.0.jar returned status 404

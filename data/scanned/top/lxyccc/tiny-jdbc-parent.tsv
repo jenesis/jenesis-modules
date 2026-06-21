@@ -14,3 +14,4 @@
 1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lxyccc/tiny-jdbc-parent/1.9.5/tiny-jdbc-parent-1.9.5.jar returned status 404
 1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lxyccc/tiny-jdbc-parent/1.9.6/tiny-jdbc-parent-1.9.6.jar returned status 404
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lxyccc/tiny-jdbc-parent/1.9.7/tiny-jdbc-parent-1.9.7.jar returned status 404
+1.9.8		2026-06-08T12:50:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lxyccc/tiny-jdbc-parent/1.9.8/tiny-jdbc-parent-1.9.8.jar returned status 404

@@ -4,3 +4,4 @@
 0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/parent-pom/0.8.4/parent-pom-0.8.4.jar returned status 404
 0.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/parent-pom/0.8.6/parent-pom-0.8.6.jar returned status 404
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/parent-pom/1.0.0-RC2/parent-pom-1.0.0-RC2.jar returned status 404
+1.0.0-RC3		2026-06-02T11:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/parent-pom/1.0.0-RC3/parent-pom-1.0.0-RC3.jar returned status 404

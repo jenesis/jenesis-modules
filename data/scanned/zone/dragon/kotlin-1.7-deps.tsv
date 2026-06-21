@@ -2,3 +2,4 @@
 5.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/kotlin-1.7-deps/5.0.17/kotlin-1.7-deps-5.0.17.jar returned status 404
 5.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/kotlin-1.7-deps/5.0.18/kotlin-1.7-deps-5.0.18.jar returned status 404
 5.0.19		2026-05-08T16:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/kotlin-1.7-deps/5.0.19/kotlin-1.7-deps-5.0.19.jar returned status 404
+5.0.20		2026-06-06T17:05:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/dragon/kotlin-1.7-deps/5.0.20/kotlin-1.7-deps-5.0.20.jar returned status 404
