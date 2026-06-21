@@ -44,3 +44,4 @@
 13.0.3-pre0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk-vulkan/13.0.3-pre0/android-sdk-vulkan-13.0.3-pre0.jar returned status 404
 13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk-vulkan/13.1.0/android-sdk-vulkan-13.1.0.jar returned status 404
 13.2.0		2026-05-25T22:18:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk-vulkan/13.2.0/android-sdk-vulkan-13.2.0.jar returned status 404
+13.3.0		2026-06-07T21:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk-vulkan/13.3.0/android-sdk-vulkan-13.3.0.jar returned status 404

@@ -9,3 +9,4 @@
 3.8.0-alpha.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/primjsWasm/3.8.0-alpha.5/primjsWasm-3.8.0-alpha.5.jar returned status 404
 3.8.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/primjsWasm/3.8.0-alpha.6/primjsWasm-3.8.0-alpha.6.jar returned status 404
 3.9.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/primjsWasm/3.9.0-alpha.1/primjsWasm-3.9.0-alpha.1.jar returned status 404
+4.0.0-alpha.1		2026-06-16T07:07:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/primjsWasm/4.0.0-alpha.1/primjsWasm-4.0.0-alpha.1.jar returned status 404
