@@ -1,2 +1,6 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/data-iossimulatorarm64/1.0.0/data-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-04-17T07:57:12Z	
+1.1.0		2026-06-12T12:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/data-iossimulatorarm64/1.1.0/data-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-12T12:57:21Z	
+1.2.0		2026-06-16T14:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/data-iossimulatorarm64/1.2.0/data-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-06-16T14:07:58Z	

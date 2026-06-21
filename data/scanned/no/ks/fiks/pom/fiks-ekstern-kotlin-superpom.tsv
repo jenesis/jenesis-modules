@@ -9,3 +9,4 @@
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/pom/fiks-ekstern-kotlin-superpom/1.7.2/fiks-ekstern-kotlin-superpom-1.7.2.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/pom/fiks-ekstern-kotlin-superpom/1.8.0/fiks-ekstern-kotlin-superpom-1.8.0.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/pom/fiks-ekstern-kotlin-superpom/1.9.0/fiks-ekstern-kotlin-superpom-1.9.0.jar returned status 404
+2.0.0		2026-06-15T11:47:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/pom/fiks-ekstern-kotlin-superpom/2.0.0/fiks-ekstern-kotlin-superpom-2.0.0.jar returned status 404
