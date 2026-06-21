@@ -86,6 +86,7 @@
 6.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.24.0/bugsnag-plugin-react-native-6.24.0.jar returned status 404
 6.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.25.0/bugsnag-plugin-react-native-6.25.0.jar returned status 404
 6.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.26.0/bugsnag-plugin-react-native-6.26.0.jar returned status 404
+6.26.1		2026-06-18T10:30:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.26.1/bugsnag-plugin-react-native-6.26.1.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.3.0/bugsnag-plugin-react-native-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.4.0/bugsnag-plugin-react-native-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsnag/bugsnag-plugin-react-native/6.5.0/bugsnag-plugin-react-native-6.5.0.jar returned status 404

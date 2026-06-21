@@ -19,3 +19,10 @@
 3.1.1	natives-ios	2025-06-23T11:20:34Z	
 3.1.1	natives-x86	2025-06-23T11:20:34Z	
 3.1.1	natives-x86_64	2025-06-23T11:20:35Z	
+3.1.2		2026-06-04T14:10:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/badlogicgames/jnigen/jnigen-runtime-platform/3.1.2/jnigen-runtime-platform-3.1.2.jar returned status 404
+3.1.2	natives-arm64-v8a	2026-06-04T14:10:21Z	
+3.1.2	natives-armeabi-v7a	2026-06-04T14:10:21Z	
+3.1.2	natives-desktop	2026-06-04T14:10:21Z	
+3.1.2	natives-ios	2026-06-04T14:10:22Z	
+3.1.2	natives-x86	2026-06-04T14:10:22Z	
+3.1.2	natives-x86_64	2026-06-04T14:10:21Z	

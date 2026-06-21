@@ -76,6 +76,8 @@
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.0.3/authsignal-android-3.0.3.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.1.0/authsignal-android-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.1.1/authsignal-android-3.1.1.jar returned status 404
+3.10.0		2026-06-12T05:01:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.10.0/authsignal-android-3.10.0.jar returned status 404
+3.11.0		2026-06-18T04:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.11.0/authsignal-android-3.11.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.2.0/authsignal-android-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.2.1/authsignal-android-3.2.1.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authsignal/authsignal-android/3.2.2/authsignal-android-3.2.2.jar returned status 404

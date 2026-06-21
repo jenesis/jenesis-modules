@@ -14,6 +14,10 @@
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.7.1/kmp-ble-android-0.7.1.jar returned status 404
 0.8.0		2026-06-01T20:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.0/kmp-ble-android-0.8.0.jar returned status 404
 0.8.1		2026-06-01T21:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.1/kmp-ble-android-0.8.1.jar returned status 404
+0.8.2		2026-06-12T15:36:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.2/kmp-ble-android-0.8.2.jar returned status 404
+0.8.3		2026-06-15T08:03:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.3/kmp-ble-android-0.8.3.jar returned status 404
+0.8.4		2026-06-16T09:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.4/kmp-ble-android-0.8.4.jar returned status 404
+0.8.5		2026-06-18T10:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/0.8.5/kmp-ble-android-0.8.5.jar returned status 404
 v0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/v0.1.0/kmp-ble-android-v0.1.0.jar returned status 404
 v0.1.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/v0.1.0-alpha09/kmp-ble-android-v0.1.0-alpha09.jar returned status 404
 v0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-android/v0.1.1/kmp-ble-android-v0.1.1.jar returned status 404

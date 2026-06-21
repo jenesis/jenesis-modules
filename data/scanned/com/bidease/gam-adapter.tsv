@@ -1,0 +1,4 @@
+2.2.0		2026-06-11T16:31:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/gam-adapter/2.2.0/gam-adapter-2.2.0.jar returned status 404
+2.2.1		2026-06-13T19:46:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/gam-adapter/2.2.1/gam-adapter-2.2.1.jar returned status 404
+2.2.2		2026-06-16T18:25:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/gam-adapter/2.2.2/gam-adapter-2.2.2.jar returned status 404
+2.2.3		2026-06-18T13:18:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/gam-adapter/2.2.3/gam-adapter-2.2.3.jar returned status 404

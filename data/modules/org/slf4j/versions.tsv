@@ -2780,6 +2780,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.0.4	named	com.google.appengine	appengine-tools-sdk	2026-06-11T13:18:45Z	2.0.18
 5.0.4	named	com.google.appengine	appengine-local-runtime-jetty121	2026-06-11T13:18:47Z	2.0.18
 5.0.4	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-06-11T13:18:47Z	2.0.18
+3.1.0	named	com.buralotech.oss.identifier	buralotech-identifier-micronaut	2026-06-11T18:54:58Z	2.0.17
 2.24.0	named	org.mustangproject	Mustang-CLI	2026-06-11T19:13:25Z	2.0.17
 5.1.1	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-06-11T19:19:21Z	2.0.17
 1.12.11	named	org.open-metadata	elasticsearch-deps	2026-06-12T10:47:06Z	2.0.4

@@ -4232,6 +4232,8 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.5.2.12	named	com.linkedin.iceberg	iceberg-hive-runtime	2026-06-08T20:38:16Z	2.14.2
 1.5.2.13	named	com.linkedin.iceberg	iceberg-hive-runtime	2026-06-08T20:59:11Z	2.14.2
 1.5.2.13	named	com.linkedin.iceberg	iceberg-flink-runtime-1.18	2026-06-08T20:59:12Z	2.14.2
+1.2.0	named	com.azure.cosmos.spark	fabric-cosmos-spark-auth_3	2026-06-09T01:19:27Z	2.18.7
+1.2.0	named	com.azure.cosmos.spark	fabric-cosmos-spark-auth_4-0_2-13	2026-06-09T01:19:27Z	2.18.7
 0.18.3	named	io.modelcontextprotocol.sdk	client-jdk-http-client	2026-06-09T13:11:33Z	2.20.1
 2.0.9	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-11T01:39:52Z	2.20.1
 0.1.0	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T08:58:16Z	2.17.2

@@ -202,5 +202,12 @@
 8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.4.0/common-wrapper-min-8.4.0.jar returned status 404
 8.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.4.2/common-wrapper-min-8.4.2.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.0/common-wrapper-min-8.5.0.jar returned status 404
+8.5.10		2026-06-10T13:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.10/common-wrapper-min-8.5.10.jar returned status 404
+8.5.11		2026-06-15T13:58:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.11/common-wrapper-min-8.5.11.jar returned status 404
+8.5.15		2026-06-16T09:58:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.15/common-wrapper-min-8.5.15.jar returned status 404
 8.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.3/common-wrapper-min-8.5.3.jar returned status 404
 8.5.5		2026-05-25T10:47:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.5/common-wrapper-min-8.5.5.jar returned status 404
+8.5.6		2026-06-08T01:53:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.6/common-wrapper-min-8.5.6.jar returned status 404
+8.5.7		2026-06-08T03:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.7/common-wrapper-min-8.5.7.jar returned status 404
+8.5.8		2026-06-09T07:21:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.8/common-wrapper-min-8.5.8.jar returned status 404
+8.5.9		2026-06-09T09:41:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/common-wrapper-min/8.5.9/common-wrapper-min-8.5.9.jar returned status 404

@@ -12,6 +12,8 @@
 1.1.15	metadata	2025-12-19T03:41:25Z	
 1.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iossimulatorarm64/1.1.16/transform-iossimulatorarm64-1.1.16.jar returned status 404
 1.1.16	metadata	2026-02-05T05:47:30Z	
+1.1.17		2026-06-16T01:10:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iossimulatorarm64/1.1.17/transform-iossimulatorarm64-1.1.17.jar returned status 404
+1.1.17	metadata	2026-06-16T01:10:18Z	
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iossimulatorarm64/1.1.2/transform-iossimulatorarm64-1.1.2.jar returned status 404
 1.1.2	metadata	2024-10-21T00:28:37Z	
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iossimulatorarm64/1.1.3/transform-iossimulatorarm64-1.1.3.jar returned status 404

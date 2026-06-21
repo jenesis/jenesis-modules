@@ -10,3 +10,4 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bytedance/android/shadowhook/1.0.9/shadowhook-1.0.9.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bytedance/android/shadowhook/1.1.1/shadowhook-1.1.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bytedance/android/shadowhook/2.0.0/shadowhook-2.0.0.jar returned status 404
+2.0.1		2026-06-15T09:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bytedance/android/shadowhook/2.0.1/shadowhook-2.0.1.jar returned status 404
