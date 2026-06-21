@@ -1,3 +1,9 @@
+0.10.0		2026-06-02T18:22:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.10.0/internals-wasm-js-0.10.0.jar returned status 404
+0.11.0		2026-06-05T04:43:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.11.0/internals-wasm-js-0.11.0.jar returned status 404
+0.12.0		2026-06-05T14:25:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.12.0/internals-wasm-js-0.12.0.jar returned status 404
+0.13.0		2026-06-08T04:18:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.13.0/internals-wasm-js-0.13.0.jar returned status 404
+0.14.0		2026-06-09T17:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.14.0/internals-wasm-js-0.14.0.jar returned status 404
+0.15.0		2026-06-10T20:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.15.0/internals-wasm-js-0.15.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.7.0/internals-wasm-js-0.7.0.jar returned status 404
 0.7.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.7.0-RC/internals-wasm-js-0.7.0-RC.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-wasm-js/0.7.1/internals-wasm-js-0.7.1.jar returned status 404

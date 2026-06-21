@@ -2,6 +2,11 @@
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.1.1/datatest-android-0.1.1.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.1.2/datatest-android-0.1.2.jar returned status 404
 0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.1.3/datatest-android-0.1.3.jar returned status 404
+0.10.0		2026-06-02T19:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.10.0/datatest-android-0.10.0.jar returned status 404
+0.11.0		2026-06-05T05:40:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.11.0/datatest-android-0.11.0.jar returned status 404
+0.12.0		2026-06-05T17:37:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.12.0/datatest-android-0.12.0.jar returned status 404
+0.14.0		2026-06-09T19:56:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.14.0/datatest-android-0.14.0.jar returned status 404
+0.15.0		2026-06-11T04:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.15.0/datatest-android-0.15.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.2.0/datatest-android-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.3.0/datatest-android-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-android/0.3.1/datatest-android-0.3.1.jar returned status 404

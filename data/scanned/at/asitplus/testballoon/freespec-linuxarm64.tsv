@@ -2,6 +2,11 @@
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.1.1/freespec-linuxarm64-0.1.1.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.1.2/freespec-linuxarm64-0.1.2.jar returned status 404
 0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.1.3/freespec-linuxarm64-0.1.3.jar returned status 404
+0.10.0		2026-06-02T18:53:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.10.0/freespec-linuxarm64-0.10.0.jar returned status 404
+0.11.0		2026-06-05T05:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.11.0/freespec-linuxarm64-0.11.0.jar returned status 404
+0.12.0		2026-06-05T14:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.12.0/freespec-linuxarm64-0.12.0.jar returned status 404
+0.14.0		2026-06-09T19:29:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.14.0/freespec-linuxarm64-0.14.0.jar returned status 404
+0.15.0		2026-06-11T03:52:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.15.0/freespec-linuxarm64-0.15.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.2.0/freespec-linuxarm64-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.3.0/freespec-linuxarm64-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/freespec-linuxarm64/0.3.1/freespec-linuxarm64-0.3.1.jar returned status 404

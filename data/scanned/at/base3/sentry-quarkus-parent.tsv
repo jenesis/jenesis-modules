@@ -1,0 +1,5 @@
+0.2.0		2026-06-16T18:44:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/base3/sentry-quarkus-parent/0.2.0/sentry-quarkus-parent-0.2.0.jar returned status 404
+0.3.0		2026-06-16T19:00:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/base3/sentry-quarkus-parent/0.3.0/sentry-quarkus-parent-0.3.0.jar returned status 404
+0.3.1		2026-06-17T14:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/base3/sentry-quarkus-parent/0.3.1/sentry-quarkus-parent-0.3.1.jar returned status 404
+0.5.0		2026-06-17T20:12:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/base3/sentry-quarkus-parent/0.5.0/sentry-quarkus-parent-0.5.0.jar returned status 404
+0.5.1		2026-06-18T15:10:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/base3/sentry-quarkus-parent/0.5.1/sentry-quarkus-parent-0.5.1.jar returned status 404
