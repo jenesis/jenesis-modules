@@ -176,6 +176,11 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 5.0.3-beta	named	com.google.appengine	runtime-impl-jetty12	2026-05-19T16:10:58Z	
 2.5.1.2	named	io.github.qhsword.nacosplugins	nacosplugin-all	2026-05-23T03:57:14Z	
 4.3.0-rc	named	com.dua3.cabe	cabe-processor-all	2026-05-24T13:29:09Z	
+0.8	named	org.kie.j2cl.tools.json.mapper	processor	2026-06-10T00:15:14Z	
+0.10	named	org.kie.j2cl.tools.processors	processors	2026-06-10T00:15:14Z	
+0.11	named	org.kie.j2cl.tools.xml.mapper	processor	2026-06-10T00:15:14Z	
+0.8	named	org.kie.j2cl.tools.yaml.mapper	processor	2026-06-10T00:15:14Z	
+0.10	named	org.kie.j2cl.tools.di	processor	2026-06-11T00:15:08Z	
 0.10	named	org.treblereel.j2cl.processors	processors	2026-06-11T16:16:23Z	
 0.8	named	org.treblereel.gwt.yaml.mapper	processor	2026-06-11T16:55:22Z	
 0.8	named	org.treblereel.gwt.json.mapper	processor	2026-06-11T20:16:26Z	

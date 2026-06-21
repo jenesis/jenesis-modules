@@ -3,3 +3,6 @@
 1.0.0.3-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.3-RC/ftp-extension-1.0.0.3-RC.jar returned status 404
 1.0.0.4-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.4-RC/ftp-extension-1.0.0.4-RC.jar returned status 404
 1.0.0.5-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.5-RC/ftp-extension-1.0.0.5-RC.jar returned status 404
+1.0.0.6-RC		2026-06-05T14:37:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.6-RC/ftp-extension-1.0.0.6-RC.jar returned status 404
+1.0.0.7-RC		2026-06-15T19:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.7-RC/ftp-extension-1.0.0.7-RC.jar returned status 404
+1.0.0.8-RC		2026-06-15T20:43:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/ftp-extension/1.0.0.8-RC/ftp-extension-1.0.0.8-RC.jar returned status 404

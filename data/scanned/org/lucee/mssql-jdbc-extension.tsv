@@ -15,5 +15,6 @@
 12.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/12.8.2/mssql-jdbc-extension-12.8.2.jar returned status 404
 13.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/13.2.1/mssql-jdbc-extension-13.2.1.jar returned status 404
 13.2.1.jre11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/13.2.1.jre11/mssql-jdbc-extension-13.2.1.jre11.jar returned status 404
+13.4.0.jre11		2026-06-16T08:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/13.4.0.jre11/mssql-jdbc-extension-13.4.0.jre11.jar returned status 404
 7.2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/7.2.1.0/mssql-jdbc-extension-7.2.1.0.jar returned status 404
 9.4.1.jre8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mssql-jdbc-extension/9.4.1.jre8/mssql-jdbc-extension-9.4.1.jre8.jar returned status 404

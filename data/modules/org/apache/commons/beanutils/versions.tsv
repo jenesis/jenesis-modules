@@ -268,3 +268,6 @@
 2.0.2	named	com.guicedee.modules.services	commons-beanutils	2026-05-10T14:38:09Z	2.0.2
 4.0.14	named	org.jvnet.jaxb	jaxb-plugins-shaded	2026-05-11T15:55:00Z	1.11.0
 40.0.0.Final	named	org.wildfly	wildfly-client-all	2026-05-21T09:53:52Z	1.11.0
+4.0.15	named	org.jvnet.jaxb	jaxb-plugins-shaded	2026-06-01T22:11:06Z	1.11.0
+4.0.16	named	org.jvnet.jaxb	jaxb-plugins-shaded	2026-06-05T15:45:16Z	1.11.0
+2.0.16	named	org.jvnet.jaxb	jaxb2-basics-plugins	2026-06-11T06:33:13Z	1.11.0

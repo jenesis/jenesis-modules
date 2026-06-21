@@ -21,3 +21,4 @@
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-linuxx64/0.7.1/markdown-linuxx64-0.7.1.jar returned status 404
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-linuxx64/0.7.2/markdown-linuxx64-0.7.2.jar returned status 404
 0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-linuxx64/0.7.3/markdown-linuxx64-0.7.3.jar returned status 404
+0.7.5		2026-06-04T15:06:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-linuxx64/0.7.5/markdown-linuxx64-0.7.5.jar returned status 404

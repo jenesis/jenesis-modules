@@ -94,3 +94,5 @@
 0.32.0	metadata	2026-03-20T20:33:00Z	
 0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-iosx64/0.32.1/atomicfu-iosx64-0.32.1.jar returned status 404
 0.32.1	metadata	2026-03-23T16:52:21Z	
+0.33.0		2026-05-29T18:05:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-iosx64/0.33.0/atomicfu-iosx64-0.33.0.jar returned status 404
+0.33.0	metadata	2026-05-29T18:05:05Z	

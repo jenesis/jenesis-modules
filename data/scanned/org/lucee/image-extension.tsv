@@ -1,7 +1,9 @@
 2.0.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/2.0.0.33/image-extension-2.0.0.33.jar returned status 404
 2.0.0.33-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/2.0.0.33-RC/image-extension-2.0.0.33-RC.jar returned status 404
+2.0.0.34		2026-06-09T13:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/2.0.0.34/image-extension-2.0.0.34.jar returned status 404
 3.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.0.0.6/image-extension-3.0.0.6.jar returned status 404
 3.0.0.6-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.0.0.6-RC/image-extension-3.0.0.6-RC.jar returned status 404
 3.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.0.0.9/image-extension-3.0.0.9.jar returned status 404
 3.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.0.1.0/image-extension-3.0.1.0.jar returned status 404
 3.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.0.1.1/image-extension-3.0.1.1.jar returned status 404
+3.1.0.9-BETA		2026-06-09T21:51:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/image-extension/3.1.0.9-BETA/image-extension-3.1.0.9-BETA.jar returned status 404

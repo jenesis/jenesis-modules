@@ -1,3 +1,4 @@
 3.27.0-p2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liblouis/louis/3.27.0-p2/louis-3.27.0-p2.jar returned status 404
 3.33.0-p2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liblouis/louis/3.33.0-p2/louis-3.33.0-p2.jar returned status 404
 3.36.0-p1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liblouis/louis/3.36.0-p1/louis-3.36.0-p1.jar returned status 404
+3.38.0-p1		2026-06-03T10:31:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liblouis/louis/3.38.0-p1/louis-3.38.0-p1.jar returned status 404

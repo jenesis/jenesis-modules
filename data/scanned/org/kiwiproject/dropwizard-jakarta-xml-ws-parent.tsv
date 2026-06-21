@@ -5,3 +5,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/dropwizard-jakarta-xml-ws-parent/2.0.0/dropwizard-jakarta-xml-ws-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/dropwizard-jakarta-xml-ws-parent/2.0.1/dropwizard-jakarta-xml-ws-parent-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/dropwizard-jakarta-xml-ws-parent/2.0.2/dropwizard-jakarta-xml-ws-parent-2.0.2.jar returned status 404
+2.0.3		2026-06-14T19:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/dropwizard-jakarta-xml-ws-parent/2.0.3/dropwizard-jakarta-xml-ws-parent-2.0.3.jar returned status 404

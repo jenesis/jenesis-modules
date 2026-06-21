@@ -1,3 +1,4 @@
 1.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/poi-extension/1.0.0.6/poi-extension-1.0.0.6.jar returned status 404
 1.0.0.6-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/poi-extension/1.0.0.6-RC/poi-extension-1.0.0.6-RC.jar returned status 404
 1.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/poi-extension/1.0.0.7/poi-extension-1.0.0.7.jar returned status 404
+1.0.0.8		2026-06-15T19:57:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/poi-extension/1.0.0.8/poi-extension-1.0.0.8.jar returned status 404

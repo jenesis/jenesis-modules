@@ -17,12 +17,16 @@
 3.19.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.19.32/jooq-bom-3.19.32.jar returned status 404
 3.19.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.19.33/jooq-bom-3.19.33.jar returned status 404
 3.19.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.19.34/jooq-bom-3.19.34.jar returned status 404
+3.19.35		2026-06-04T09:00:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.19.35/jooq-bom-3.19.35.jar returned status 404
+3.19.36		2026-06-15T12:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.19.36/jooq-bom-3.19.36.jar returned status 404
 3.20.10		2025-12-05T09:23:07Z	
 3.20.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.11/jooq-bom-3.20.11.jar returned status 404
 3.20.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.12/jooq-bom-3.20.12.jar returned status 404
 3.20.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.13/jooq-bom-3.20.13.jar returned status 404
 3.20.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.14/jooq-bom-3.20.14.jar returned status 404
 3.20.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.15/jooq-bom-3.20.15.jar returned status 404
+3.20.16		2026-06-04T08:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.16/jooq-bom-3.20.16.jar returned status 404
+3.20.17		2026-06-15T12:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.20.17/jooq-bom-3.20.17.jar returned status 404
 3.20.5		2025-06-11T08:39:53Z	
 3.20.6		2025-08-12T11:29:27Z	
 3.20.7		2025-09-11T07:53:11Z	
@@ -33,3 +37,5 @@
 3.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.21.2/jooq-bom-3.21.2.jar returned status 404
 3.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.21.3/jooq-bom-3.21.3.jar returned status 404
 3.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.21.4/jooq-bom-3.21.4.jar returned status 404
+3.21.5		2026-06-04T08:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.21.5/jooq-bom-3.21.5.jar returned status 404
+3.21.6		2026-06-15T12:02:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-bom/3.21.6/jooq-bom-3.21.6.jar returned status 404

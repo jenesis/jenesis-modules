@@ -1,3 +1,4 @@
 4.10.0		2026-05-20T15:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/plot-base-wasm-js/4.10.0/plot-base-wasm-js-4.10.0.jar returned status 404
 4.10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/plot-base-wasm-js/4.10.0-rc1/plot-base-wasm-js-4.10.0-rc1.jar returned status 404
 4.10.1		2026-05-20T20:40:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/plot-base-wasm-js/4.10.1/plot-base-wasm-js-4.10.1.jar returned status 404
+4.10.3		2026-06-10T20:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/plot-base-wasm-js/4.10.3/plot-base-wasm-js-4.10.3.jar returned status 404

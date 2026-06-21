@@ -1,0 +1,7 @@
+0.0.1-alpha.10		2026-06-04T10:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.10/animax-sdk-0.0.1-alpha.10.jar returned status 404
+0.0.1-alpha.4		2026-06-03T09:20:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.4/animax-sdk-0.0.1-alpha.4.jar returned status 404
+0.0.1-alpha.5		2026-06-03T09:38:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.5/animax-sdk-0.0.1-alpha.5.jar returned status 404
+0.0.1-alpha.6		2026-06-03T13:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.6/animax-sdk-0.0.1-alpha.6.jar returned status 404
+0.0.1-alpha.7		2026-06-03T16:24:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.7/animax-sdk-0.0.1-alpha.7.jar returned status 404
+0.0.1-alpha.9		2026-06-04T03:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/0.0.1-alpha.9/animax-sdk-0.0.1-alpha.9.jar returned status 404
+1.0.0		2026-06-04T15:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/animax-sdk/1.0.0/animax-sdk-1.0.0.jar returned status 404

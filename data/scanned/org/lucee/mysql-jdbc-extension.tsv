@@ -10,3 +10,4 @@
 9.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mysql-jdbc-extension/9.4.0/mysql-jdbc-extension-9.4.0.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mysql-jdbc-extension/9.5.0/mysql-jdbc-extension-9.5.0.jar returned status 404
 9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mysql-jdbc-extension/9.6.0/mysql-jdbc-extension-9.6.0.jar returned status 404
+9.7.0		2026-06-08T10:59:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mysql-jdbc-extension/9.7.0/mysql-jdbc-extension-9.7.0.jar returned status 404

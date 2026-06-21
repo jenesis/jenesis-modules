@@ -4,3 +4,6 @@
 4.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.1.16/plugin-parent-4.1.16.jar returned status 404
 4.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.1.17/plugin-parent-4.1.17.jar returned status 404
 4.2.0		2026-05-25T20:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.2.0/plugin-parent-4.2.0.jar returned status 404
+4.2.1		2026-06-07T12:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.2.1/plugin-parent-4.2.1.jar returned status 404
+4.2.2		2026-06-07T19:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.2.2/plugin-parent-4.2.2.jar returned status 404
+4.3.0		2026-06-13T18:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/api/plugin-parent/4.3.0/plugin-parent-4.3.0.jar returned status 404

@@ -1,0 +1,4 @@
+0.5.0		2026-06-01T17:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kvxd/imgui2kt/imgui2kt-linuxx64/0.5.0/imgui2kt-linuxx64-0.5.0.jar returned status 404
+0.7.0		2026-06-02T14:16:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kvxd/imgui2kt/imgui2kt-linuxx64/0.7.0/imgui2kt-linuxx64-0.7.0.jar returned status 404
+0.7.1		2026-06-02T15:28:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kvxd/imgui2kt/imgui2kt-linuxx64/0.7.1/imgui2kt-linuxx64-0.7.1.jar returned status 404
+0.7.2		2026-06-02T16:37:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kvxd/imgui2kt/imgui2kt-linuxx64/0.7.2/imgui2kt-linuxx64-0.7.2.jar returned status 404

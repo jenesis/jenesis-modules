@@ -1,3 +1,4 @@
 1.0.0.5-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/aws-sm-extension/1.0.0.5-RC/aws-sm-extension-1.0.0.5-RC.jar returned status 404
 1.0.0.6-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/aws-sm-extension/1.0.0.6-RC/aws-sm-extension-1.0.0.6-RC.jar returned status 404
 1.1.0.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/aws-sm-extension/1.1.0.0-BETA/aws-sm-extension-1.1.0.0-BETA.jar returned status 404
+1.1.0.4-RC		2026-06-15T21:52:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/aws-sm-extension/1.1.0.4-RC/aws-sm-extension-1.1.0.4-RC.jar returned status 404

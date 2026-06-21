@@ -5,3 +5,6 @@
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.2.4/root-3.2.4.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.3.0/root-3.3.0.jar returned status 404
 3.3.1		2026-05-25T19:55:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.3.1/root-3.3.1.jar returned status 404
+3.3.2		2026-06-07T12:10:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.3.2/root-3.3.2.jar returned status 404
+3.3.3		2026-06-07T19:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.3.3/root-3.3.3.jar returned status 404
+3.3.4		2026-06-13T16:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/root/3.3.4/root-3.3.4.jar returned status 404

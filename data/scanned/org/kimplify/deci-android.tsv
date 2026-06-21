@@ -2,3 +2,5 @@
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/deci-android/0.1.1/deci-android-0.1.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/deci-android/0.2.0/deci-android-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/deci-android/0.2.1/deci-android-0.2.1.jar returned status 404
+0.2.2		2026-06-08T22:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/deci-android/0.2.2/deci-android-0.2.2.jar returned status 404
+0.3.0		2026-06-09T02:00:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/deci-android/0.3.0/deci-android-0.3.0.jar returned status 404

@@ -92,6 +92,7 @@
 5.5.12		2026-03-20T01:38:54Z	
 5.5.13		2026-03-29T02:25:50Z	
 5.5.14.1		2026-05-05T21:00:52Z	
+5.5.15		2026-06-11T13:48:43Z	
 5.5.3		2025-06-20T15:30:28Z	
 5.5.4		2025-08-01T16:28:14Z	
 5.5.5		2025-08-24T09:01:17Z	
@@ -109,6 +110,8 @@
 6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.0.4/myfaces3-spring-boot-starter-6.0.4.jar returned status 404
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.0.5/myfaces3-spring-boot-starter-6.0.5.jar returned status 404
 6.0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.0.6.1/myfaces3-spring-boot-starter-6.0.6.1.jar returned status 404
+6.0.7		2026-06-11T11:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.0.7/myfaces3-spring-boot-starter-6.0.7.jar returned status 404
+6.1.0		2026-06-11T16:10:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.1.0/myfaces3-spring-boot-starter-6.1.0.jar returned status 404
 6.1.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.1.0-m1/myfaces3-spring-boot-starter-6.1.0-m1.jar returned status 404
 6.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.1.0-m2/myfaces3-spring-boot-starter-6.1.0-m2.jar returned status 404
 6.1.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/myfaces3-spring-boot-starter/6.1.0-m3/myfaces3-spring-boot-starter-6.1.0-m3.jar returned status 404
