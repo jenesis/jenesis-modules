@@ -4,6 +4,7 @@
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.12.0/openmapview-0.12.0.jar returned status 404
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.13.0/openmapview-0.13.0.jar returned status 404
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.13.1/openmapview-0.13.1.jar returned status 404
+0.13.3		2026-06-17T20:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.13.3/openmapview-0.13.3.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.2.0/openmapview-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.3.0/openmapview-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/afarber/openmapview/0.4.0/openmapview-0.4.0.jar returned status 404

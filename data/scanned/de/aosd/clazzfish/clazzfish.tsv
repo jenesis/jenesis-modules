@@ -1,3 +1,4 @@
 2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/aosd/clazzfish/clazzfish/2.8/clazzfish-2.8.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/aosd/clazzfish/clazzfish/3.0/clazzfish-3.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/aosd/clazzfish/clazzfish/3.0.1/clazzfish-3.0.1.jar returned status 404
+3.0.2		2026-06-17T20:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/aosd/clazzfish/clazzfish/3.0.2/clazzfish-3.0.2.jar returned status 404

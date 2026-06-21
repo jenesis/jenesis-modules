@@ -24,3 +24,7 @@
 1.6.0	metadata	2026-04-29T09:16:29Z	
 2.0.0		2026-05-29T18:10:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-core-macosarm64/2.0.0/lognity-core-macosarm64-2.0.0.jar returned status 404
 2.0.0	metadata	2026-05-29T18:10:34Z	
+2.1.0		2026-06-02T09:27:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-core-macosarm64/2.1.0/lognity-core-macosarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-06-02T09:27:28Z	
+2.2.0		2026-06-18T14:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-core-macosarm64/2.2.0/lognity-core-macosarm64-2.2.0.jar returned status 404
+2.2.0	metadata	2026-06-18T14:43:57Z	
