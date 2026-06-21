@@ -6535,3 +6535,13 @@ com.netflix.spectator.aws
 com.netflix.spectator.api
 com.netflix.spectator.agent
 JsonLight
+com.multiclouddb.provider.cosmos
+com.multiclouddb.api
+com.microsoft.kiota
+org.jetbrains.annotations
+com.microsoft.applicationinsights.web
+com.microsoft.applicationinsights.attach
+com.microsoft.applicationinsights
+com.mchange.mchangecommonsjava
+com.mchange.v2.c3p0
+com.maxio.advancedbilling

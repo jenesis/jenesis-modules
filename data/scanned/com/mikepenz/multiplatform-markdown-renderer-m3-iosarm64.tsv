@@ -126,3 +126,7 @@
 0.41.0	metadata	2026-05-17T17:05:12Z	
 0.41.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m3-iosarm64/0.41.0-b01/multiplatform-markdown-renderer-m3-iosarm64-0.41.0-b01.jar returned status 404
 0.41.0-b01	metadata	2026-05-12T06:26:35Z	
+0.42.0-b01		2026-06-07T14:57:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m3-iosarm64/0.42.0-b01/multiplatform-markdown-renderer-m3-iosarm64-0.42.0-b01.jar returned status 404
+0.42.0-b01	metadata	2026-06-07T14:57:45Z	
+0.42.0-b02		2026-06-16T07:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m3-iosarm64/0.42.0-b02/multiplatform-markdown-renderer-m3-iosarm64-0.42.0-b02.jar returned status 404
+0.42.0-b02	metadata	2026-06-16T07:04:52Z	

@@ -580,3 +580,11 @@
 1.9.2	automatic	com.microsoft.kiota	microsoft-kiota-serialization-form	2026-03-17T15:57:19Z	
 1.9.2	automatic	com.microsoft.kiota	microsoft-kiota-serialization-multipart	2026-03-17T15:57:19Z	
 1.9.2	automatic	com.microsoft.kiota	microsoft-kiota-serialization-text	2026-03-17T15:57:19Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-authentication-azure	2026-06-10T17:24:07Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-bundle	2026-06-10T17:24:07Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-serialization-form	2026-06-10T17:24:07Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-serialization-multipart	2026-06-10T17:24:07Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-serialization-text	2026-06-10T17:24:07Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-abstractions	2026-06-10T17:24:08Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-http-okHttp	2026-06-10T17:24:08Z	
+1.9.3	automatic	com.microsoft.kiota	microsoft-kiota-serialization-json	2026-06-10T17:24:08Z	
