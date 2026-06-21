@@ -52,6 +52,8 @@
 0.25.0	metadata	2026-03-18T21:37:45Z	
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-watchosarm64/0.26.0/sentry-kotlin-multiplatform-watchosarm64-0.26.0.jar returned status 404
 0.26.0	metadata	2026-05-06T08:58:51Z	
+0.27.0		2026-06-03T00:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-watchosarm64/0.27.0/sentry-kotlin-multiplatform-watchosarm64-0.27.0.jar returned status 404
+0.27.0	metadata	2026-06-03T00:38:44Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-watchosarm64/0.3.0/sentry-kotlin-multiplatform-watchosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2023-11-10T13:38:45Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-watchosarm64/0.4.0/sentry-kotlin-multiplatform-watchosarm64-0.4.0.jar returned status 404

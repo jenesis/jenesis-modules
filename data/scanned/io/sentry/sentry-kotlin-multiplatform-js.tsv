@@ -10,3 +10,4 @@
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-js/0.24.0/sentry-kotlin-multiplatform-js-0.24.0.jar returned status 404
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-js/0.25.0/sentry-kotlin-multiplatform-js-0.25.0.jar returned status 404
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-js/0.26.0/sentry-kotlin-multiplatform-js-0.26.0.jar returned status 404
+0.27.0		2026-06-03T00:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-kotlin-multiplatform-js/0.27.0/sentry-kotlin-multiplatform-js-0.27.0.jar returned status 404

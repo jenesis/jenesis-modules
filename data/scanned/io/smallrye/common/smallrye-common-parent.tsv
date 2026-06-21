@@ -21,6 +21,7 @@
 2.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.17.1/smallrye-common-parent-2.17.1.jar returned status 404
 2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.18.0/smallrye-common-parent-2.18.0.jar returned status 404
 2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.18.1/smallrye-common-parent-2.18.1.jar returned status 404
+2.19.0		2026-06-09T17:03:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.19.0/smallrye-common-parent-2.19.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.6.1/smallrye-common-parent-2.6.1.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.7.0/smallrye-common-parent-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/common/smallrye-common-parent/2.8.0/smallrye-common-parent-2.8.0.jar returned status 404
