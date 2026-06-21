@@ -11,6 +11,7 @@
 1.11.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.11.0-alpha06/material3-js-1.11.0-alpha06.jar returned status 404
 1.11.0-alpha07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.11.0-alpha07/material3-js-1.11.0-alpha07.jar returned status 404
 1.12.0-alpha01		2026-05-19T09:28:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.12.0-alpha01/material3-js-1.12.0-alpha01.jar returned status 404
+1.12.0-alpha02		2026-06-15T13:20:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.12.0-alpha02/material3-js-1.12.0-alpha02.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.2.0/material3-js-1.2.0.jar returned status 404
 1.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.2.0-beta01/material3-js-1.2.0-beta01.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/material3/material3-js/1.2.1/material3-js-1.2.1.jar returned status 404

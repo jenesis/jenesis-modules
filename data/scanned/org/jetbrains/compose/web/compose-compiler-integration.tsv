@@ -32,7 +32,9 @@
 1.11.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.11.0-beta02/compose-compiler-integration-1.11.0-beta02.jar returned status 404
 1.11.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.11.0-beta03/compose-compiler-integration-1.11.0-beta03.jar returned status 404
 1.11.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.11.0-rc01/compose-compiler-integration-1.11.0-rc01.jar returned status 404
+1.11.1		2026-06-01T10:34:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.11.1/compose-compiler-integration-1.11.1.jar returned status 404
 1.12.0-alpha01		2026-05-19T09:28:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.12.0-alpha01/compose-compiler-integration-1.12.0-alpha01.jar returned status 404
+1.12.0-alpha02		2026-06-15T13:20:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/web/compose-compiler-integration/1.12.0-alpha02/compose-compiler-integration-1.12.0-alpha02.jar returned status 404
 1.2.0		2022-10-11T22:31:05Z	
 1.2.0-alpha01-dev602		2022-02-03T14:57:59Z	
 1.2.0-alpha01-dev606		2022-02-05T11:22:05Z	
