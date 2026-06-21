@@ -43,6 +43,7 @@
 6.37.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.37.4/stream-chat-android-previewdata-6.37.4.jar returned status 404
 6.38.0		2026-05-21T16:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.38.0/stream-chat-android-previewdata-6.38.0.jar returned status 404
 6.39.0		2026-05-28T10:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.39.0/stream-chat-android-previewdata-6.39.0.jar returned status 404
+6.40.0		2026-06-04T09:59:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.40.0/stream-chat-android-previewdata-6.40.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.5.0/stream-chat-android-previewdata-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.5.1/stream-chat-android-previewdata-6.5.1.jar returned status 404
 6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/6.5.2/stream-chat-android-previewdata-6.5.2.jar returned status 404
@@ -56,3 +57,5 @@
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/7.0.1/stream-chat-android-previewdata-7.0.1.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/7.1.0/stream-chat-android-previewdata-7.1.0.jar returned status 404
 7.2.0		2026-05-22T16:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/7.2.0/stream-chat-android-previewdata-7.2.0.jar returned status 404
+7.3.0		2026-06-05T09:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/7.3.0/stream-chat-android-previewdata-7.3.0.jar returned status 404
+7.4.0		2026-06-16T14:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-previewdata/7.4.0/stream-chat-android-previewdata-7.4.0.jar returned status 404

@@ -1,4 +1,9 @@
 1.0.0		2026-05-29T06:54:27Z	
+1.0.1		2026-06-03T06:58:47Z	
+1.0.2		2026-06-04T14:15:13Z	
+1.0.3		2026-06-05T16:24:53Z	
+1.0.4		2026-06-09T10:16:52Z	
+1.0.5		2026-06-15T00:51:41Z	
 2.4.5-HY-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-1/mg-boot-base-core-2.4.5-HY-1.jar returned status 404
 2.4.5-HY-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-10/mg-boot-base-core-2.4.5-HY-10.jar returned status 404
 2.4.5-HY-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/mgsz/mg-boot-base-core/2.4.5-HY-11/mg-boot-base-core-2.4.5-HY-11.jar returned status 404

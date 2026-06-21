@@ -4,3 +4,5 @@
 1.0.0	plain	2026-05-25T13:03:59Z	
 1.1.0		2026-05-27T14:49:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aatirnadim/getme-javasdk/1.1.0/getme-javasdk-1.1.0.jar returned status 404
 1.1.0	plain	2026-05-27T14:49:06Z	
+1.1.1		2026-06-09T19:24:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aatirnadim/getme-javasdk/1.1.1/getme-javasdk-1.1.1.jar returned status 404
+1.1.1	plain	2026-06-09T19:24:49Z	

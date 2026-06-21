@@ -1,0 +1,2 @@
+1.0.0		2026-06-12T16:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/a-simeshin/spring-ai-mcp-inspector-parent/1.0.0/spring-ai-mcp-inspector-parent-1.0.0.jar returned status 404
+2.0.0		2026-06-13T20:51:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/a-simeshin/spring-ai-mcp-inspector-parent/2.0.0/spring-ai-mcp-inspector-parent-2.0.0.jar returned status 404

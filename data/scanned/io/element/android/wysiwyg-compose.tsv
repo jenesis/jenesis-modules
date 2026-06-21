@@ -51,6 +51,7 @@
 2.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.41.1/wysiwyg-compose-2.41.1.jar returned status 404
 2.41.1-classic			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.41.1-classic/wysiwyg-compose-2.41.1-classic.jar returned status 404
 2.41.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.41.3/wysiwyg-compose-2.41.3.jar returned status 404
+2.42.0		2026-06-10T19:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.42.0/wysiwyg-compose-2.42.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.6.0/wysiwyg-compose-2.6.0.jar returned status 404
 2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.6.3/wysiwyg-compose-2.6.3.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/wysiwyg-compose/2.7.0/wysiwyg-compose-2.7.0.jar returned status 404

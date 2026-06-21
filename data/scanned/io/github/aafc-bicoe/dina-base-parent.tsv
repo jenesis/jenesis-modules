@@ -24,3 +24,4 @@
 0.167			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aafc-bicoe/dina-base-parent/0.167/dina-base-parent-0.167.jar returned status 404
 0.168		2026-05-22T21:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aafc-bicoe/dina-base-parent/0.168/dina-base-parent-0.168.jar returned status 404
 0.169		2026-05-27T17:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aafc-bicoe/dina-base-parent/0.169/dina-base-parent-0.169.jar returned status 404
+0.170		2026-06-11T18:40:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aafc-bicoe/dina-base-parent/0.170/dina-base-parent-0.170.jar returned status 404

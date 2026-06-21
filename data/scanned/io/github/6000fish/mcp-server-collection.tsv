@@ -1,0 +1,2 @@
+0.1.0		2026-06-05T03:43:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/6000fish/mcp-server-collection/0.1.0/mcp-server-collection-0.1.0.jar returned status 404
+0.1.1		2026-06-06T02:18:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/6000fish/mcp-server-collection/0.1.1/mcp-server-collection-0.1.1.jar returned status 404

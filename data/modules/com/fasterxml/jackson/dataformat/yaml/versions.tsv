@@ -743,3 +743,5 @@
 1.4.1-beta-5	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-02T21:37:32Z	2.18.6
 3.0.4	named	io.telicent.jena	jena-fmod-kafka	2026-06-04T13:13:13Z	2.21.3
 1.4.1	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-04T16:50:04Z	2.18.6
+27.2.0	named	io.fabrikt	fabrikt	2026-06-12T15:22:19Z	2.20.1
+27.3.0	named	io.fabrikt	fabrikt	2026-06-16T10:24:46Z	2.20.1

@@ -4208,6 +4208,10 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.24.8	named	io.joynr.examples	stateless-async-car-sim	2026-06-03T07:12:07Z	2.14.2
 1.24.8	named	io.joynr.examples	stateless-async-consumer	2026-06-03T07:12:07Z	2.14.2
 1.24.8	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-06-03T07:12:07Z	2.14.2
+0.1.0	named	io.github.6000fish	mcp-server-mysql	2026-06-05T03:43:00Z	2.17.0
+0.1.0	named	io.github.6000fish	mcp-server-redis	2026-06-05T03:43:01Z	2.17.0
+0.1.1	named	io.github.6000fish	mcp-server-mysql	2026-06-06T02:18:41Z	2.17.0
+0.1.1	named	io.github.6000fish	mcp-server-redis	2026-06-06T02:18:41Z	2.17.0
 0.2.0	named	io.github.tomas-samek	tiko-mcp	2026-06-07T09:13:53Z	2.18.0
 0.2.1	named	io.github.tomas-samek	tiko-kafka	2026-06-07T09:52:30Z	2.18.0
 0.2.1	named	io.github.tomas-samek	tiko-mcp	2026-06-07T09:52:30Z	2.18.0

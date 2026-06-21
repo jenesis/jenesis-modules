@@ -27,3 +27,7 @@
 2.1.4.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.4.23/QzKtFrame-2.1.4.23.jar returned status 404
 2.1.4.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.4.30/QzKtFrame-2.1.4.30.jar returned status 404
 2.1.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.5.10/QzKtFrame-2.1.5.10.jar returned status 404
+2.1.6.10		2026-06-09T03:18:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.6.10/QzKtFrame-2.1.6.10.jar returned status 404
+2.1.6.20		2026-06-11T08:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.6.20/QzKtFrame-2.1.6.20.jar returned status 404
+2.1.6.25		2026-06-14T03:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.6.25/QzKtFrame-2.1.6.25.jar returned status 404
+2.1.6.35		2026-06-15T03:24:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzKtFrame/2.1.6.35/QzKtFrame-2.1.6.35.jar returned status 404
