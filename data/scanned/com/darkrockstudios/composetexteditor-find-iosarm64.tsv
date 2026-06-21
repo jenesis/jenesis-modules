@@ -40,3 +40,19 @@
 2.0.6	metadata	2026-05-29T04:16:20Z	
 2.0.7		2026-05-29T05:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.0.7/composetexteditor-find-iosarm64-2.0.7.jar returned status 404
 2.0.7	metadata	2026-05-29T05:08:17Z	
+2.0.8		2026-06-02T05:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.0.8/composetexteditor-find-iosarm64-2.0.8.jar returned status 404
+2.0.8	metadata	2026-06-02T05:56:14Z	
+2.1.0		2026-06-04T00:44:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.1.0/composetexteditor-find-iosarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-06-04T00:44:56Z	
+2.1.1		2026-06-06T09:05:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.1.1/composetexteditor-find-iosarm64-2.1.1.jar returned status 404
+2.1.1	metadata	2026-06-06T09:05:23Z	
+2.1.2		2026-06-07T05:45:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.1.2/composetexteditor-find-iosarm64-2.1.2.jar returned status 404
+2.1.2	metadata	2026-06-07T05:45:23Z	
+2.2.0		2026-06-13T06:12:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.2.0/composetexteditor-find-iosarm64-2.2.0.jar returned status 404
+2.2.0	metadata	2026-06-13T06:12:50Z	
+2.2.1		2026-06-13T08:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.2.1/composetexteditor-find-iosarm64-2.2.1.jar returned status 404
+2.2.1	metadata	2026-06-13T08:00:45Z	
+2.2.2		2026-06-13T18:31:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.2.2/composetexteditor-find-iosarm64-2.2.2.jar returned status 404
+2.2.2	metadata	2026-06-13T18:31:32Z	
+2.2.3		2026-06-16T03:47:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-iosarm64/2.2.3/composetexteditor-find-iosarm64-2.2.3.jar returned status 404
+2.2.3	metadata	2026-06-16T03:47:15Z	

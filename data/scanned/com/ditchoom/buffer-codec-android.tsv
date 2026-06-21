@@ -10,7 +10,13 @@
 4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/4.2.2/buffer-codec-android-4.2.2.jar returned status 404
 5.0.0		2026-05-22T15:09:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.0.0/buffer-codec-android-5.0.0.jar returned status 404
 5.1.0		2026-05-25T11:54:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.1.0/buffer-codec-android-5.1.0.jar returned status 404
+5.10.0		2026-06-18T04:20:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.10.0/buffer-codec-android-5.10.0.jar returned status 404
+5.11.0		2026-06-18T04:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.11.0/buffer-codec-android-5.11.0.jar returned status 404
+5.12.0		2026-06-18T14:23:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.12.0/buffer-codec-android-5.12.0.jar returned status 404
+5.13.0		2026-06-18T15:28:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.13.0/buffer-codec-android-5.13.0.jar returned status 404
+5.13.1		2026-06-18T18:22:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.13.1/buffer-codec-android-5.13.1.jar returned status 404
 5.2.0		2026-05-26T09:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.2.0/buffer-codec-android-5.2.0.jar returned status 404
+5.2.1		2026-06-03T18:01:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.2.1/buffer-codec-android-5.2.1.jar returned status 404
 5.3.0		2026-06-03T22:42:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.3.0/buffer-codec-android-5.3.0.jar returned status 404
 5.3.1		2026-06-04T00:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.3.1/buffer-codec-android-5.3.1.jar returned status 404
 5.4.0		2026-06-05T18:33:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-android/5.4.0/buffer-codec-android-5.4.0.jar returned status 404

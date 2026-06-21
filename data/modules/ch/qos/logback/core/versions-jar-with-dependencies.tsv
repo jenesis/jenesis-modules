@@ -72,5 +72,7 @@
 0.3.5	named	com.effacy.jui	jui-platform-codeserver	2026-05-30T23:10:54Z	1.4.7
 4.0.0-beta2	named	io.smallrye.reactive	vertx-mutiny-code-generator	2026-06-04T08:50:06Z	1.5.34
 4.3.0	named	de.gematik.test	tiger-httpbin	2026-06-09T13:06:43Z	1.5.20
+1.1.5	named	com.deltaproto	delta-gerber	2026-06-10T08:18:59Z	1.5.32
 4.3.1	named	de.gematik.test	tiger-httpbin	2026-06-11T13:36:07Z	1.5.20
 5.0.2	named	org.springframework.cloud	spring-cloud-build-docs	2026-06-11T13:55:32Z	1.5.34
+1.1.6	named	com.deltaproto	delta-gerber	2026-06-15T12:45:43Z	1.5.32

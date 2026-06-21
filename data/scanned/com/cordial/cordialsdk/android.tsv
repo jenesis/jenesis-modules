@@ -35,6 +35,7 @@
 4.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.24.0/android-4.24.0.jar returned status 404
 4.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.24.1/android-4.24.1.jar returned status 404
 4.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.24.2/android-4.24.2.jar returned status 404
+4.25.0		2026-06-17T10:39:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.25.0/android-4.25.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.3.0/android-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.4.0/android-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cordial/cordialsdk/android/4.4.1/android-4.4.1.jar returned status 404

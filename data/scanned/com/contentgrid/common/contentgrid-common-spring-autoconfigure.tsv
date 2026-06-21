@@ -12,3 +12,24 @@
 0.1.2	spring-boot4	2026-06-01T14:32:20Z	
 0.1.2	spring-boot4-javadoc	2026-06-01T14:32:20Z	
 0.1.2	spring-boot4-sources	2026-06-01T14:32:20Z	
+0.1.3		2026-06-05T08:26:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentgrid/common/contentgrid-common-spring-autoconfigure/0.1.3/contentgrid-common-spring-autoconfigure-0.1.3.jar returned status 404
+0.1.3	spring-boot3	2026-06-05T08:26:00Z	
+0.1.3	spring-boot3-javadoc	2026-06-05T08:26:00Z	
+0.1.3	spring-boot3-sources	2026-06-05T08:26:00Z	
+0.1.3	spring-boot4	2026-06-05T08:26:00Z	
+0.1.3	spring-boot4-javadoc	2026-06-05T08:26:00Z	
+0.1.3	spring-boot4-sources	2026-06-05T08:26:00Z	
+0.1.4		2026-06-05T12:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentgrid/common/contentgrid-common-spring-autoconfigure/0.1.4/contentgrid-common-spring-autoconfigure-0.1.4.jar returned status 404
+0.1.4	spring-boot3	2026-06-05T12:01:53Z	
+0.1.4	spring-boot3-javadoc	2026-06-05T12:01:53Z	
+0.1.4	spring-boot3-sources	2026-06-05T12:01:52Z	
+0.1.4	spring-boot4	2026-06-05T12:01:52Z	
+0.1.4	spring-boot4-javadoc	2026-06-05T12:01:52Z	
+0.1.4	spring-boot4-sources	2026-06-05T12:01:53Z	
+0.1.5		2026-06-05T15:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentgrid/common/contentgrid-common-spring-autoconfigure/0.1.5/contentgrid-common-spring-autoconfigure-0.1.5.jar returned status 404
+0.1.5	spring-boot3	2026-06-05T15:28:49Z	
+0.1.5	spring-boot3-javadoc	2026-06-05T15:28:49Z	
+0.1.5	spring-boot3-sources	2026-06-05T15:28:49Z	
+0.1.5	spring-boot4	2026-06-05T15:28:49Z	
+0.1.5	spring-boot4-javadoc	2026-06-05T15:28:49Z	
+0.1.5	spring-boot4-sources	2026-06-05T15:28:48Z	

@@ -1,0 +1,2 @@
+1.0.0		2026-06-15T15:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/developersyndicate/valix/valix-viewmodel/1.0.0/valix-viewmodel-1.0.0.jar returned status 404
+1.0.1		2026-06-16T04:31:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/developersyndicate/valix/valix-viewmodel/1.0.1/valix-viewmodel-1.0.1.jar returned status 404

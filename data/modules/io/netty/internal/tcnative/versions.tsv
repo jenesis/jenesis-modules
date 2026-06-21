@@ -745,5 +745,6 @@
 2.0.79.Final	named	io.netty	netty-tcnative	2026-06-12T07:05:30Z	2.0.79.Final
 2.0.79.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-12T07:05:30Z	2.0.79.Final
 7.1.0	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-06-12T11:55:23Z	2.0.74.Final
+9.0.2	named	com.datastax.oss	pulsar-jms-all	2026-06-12T16:39:38Z	2.0.73.Final
 4.129.13	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-15T18:41:44Z	2.0.72.Final
 0.15.2	named	com.spotify.confidence	openfeature-provider-local	2026-06-18T08:46:16Z	2.0.72.Final

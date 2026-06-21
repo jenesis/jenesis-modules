@@ -57,3 +57,5 @@
 1.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devicenative/dna/moto/1.6.6/moto-1.6.6.jar returned status 404
 1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devicenative/dna/moto/1.6.7/moto-1.6.7.jar returned status 404
 1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devicenative/dna/moto/1.6.8/moto-1.6.8.jar returned status 404
+2.0.0		2026-06-05T03:33:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devicenative/dna/moto/2.0.0/moto-2.0.0.jar returned status 404
+2.0.1		2026-06-09T18:57:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devicenative/dna/moto/2.0.1/moto-2.0.1.jar returned status 404

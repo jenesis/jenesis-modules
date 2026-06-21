@@ -12,3 +12,7 @@
 2.4.1	metadata	2026-05-31T06:37:57Z	
 2.5.0		2026-06-01T06:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-tri-state-checkbox-iosarm64/2.5.0/composeunstyled-tri-state-checkbox-iosarm64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-06-01T06:38:56Z	
+2.6.0		2026-06-11T08:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-tri-state-checkbox-iosarm64/2.6.0/composeunstyled-tri-state-checkbox-iosarm64-2.6.0.jar returned status 404
+2.6.0	metadata	2026-06-11T08:35:22Z	
+2.7.0		2026-06-15T04:50:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-tri-state-checkbox-iosarm64/2.7.0/composeunstyled-tri-state-checkbox-iosarm64-2.7.0.jar returned status 404
+2.7.0	metadata	2026-06-15T04:50:41Z	
