@@ -26,5 +26,9 @@
 8.3.3	plain	2026-03-03T19:33:50Z	
 8.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/freemarker/8.3.4/freemarker-8.3.4.jar returned status 404
 8.3.4	plain	2026-04-17T17:55:46Z	
+8.3.5		2026-06-10T10:24:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/freemarker/8.3.5/freemarker-8.3.5.jar returned status 404
+8.3.5	plain	2026-06-10T10:24:48Z	
+8.3.6		2026-06-15T13:18:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/freemarker/8.3.6/freemarker-8.3.6.jar returned status 404
+8.3.6	plain	2026-06-15T13:18:27Z	
 V12-8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/freemarker/V12-8.1.1/freemarker-V12-8.1.1.jar returned status 404
 V12-8.1.1	plain	2026-03-23T12:55:47Z	

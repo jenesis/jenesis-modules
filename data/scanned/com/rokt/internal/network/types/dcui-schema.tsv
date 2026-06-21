@@ -12,4 +12,6 @@
 2.3.0-loadinganim1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.3.0-loadinganim1/dcui-schema-2.3.0-loadinganim1.jar returned status 404
 2.3.0-minimized1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.3.0-minimized1/dcui-schema-2.3.0-minimized1.jar returned status 404
 2.3.0-minimized2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.3.0-minimized2/dcui-schema-2.3.0-minimized2.jar returned status 404
+2.4.0		2026-06-10T19:01:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.4.0/dcui-schema-2.4.0.jar returned status 404
 2.4.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.4.0-alpha.1/dcui-schema-2.4.0-alpha.1.jar returned status 404
+2.4.0-beta-1		2026-06-02T17:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/network/types/dcui-schema/2.4.0-beta-1/dcui-schema-2.4.0-beta-1.jar returned status 404

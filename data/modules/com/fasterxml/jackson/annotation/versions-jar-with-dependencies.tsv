@@ -5151,4 +5151,5 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.706.52	named	com.yahoo.vespa	config-application-package	2026-06-16T02:06:46Z	2.21
 8.707.16	named	com.yahoo.vespa	config-application-package	2026-06-16T13:55:34Z	2.21
 8.708.30	named	com.yahoo.vespa	config-application-package	2026-06-18T04:11:33Z	2.21
+2.0.3	named	com.scylladb	scylla-cdc-source-connector	2026-06-18T11:19:15Z	2.21
 8.709.19	named	com.yahoo.vespa	config-application-package	2026-06-18T17:35:04Z	2.21

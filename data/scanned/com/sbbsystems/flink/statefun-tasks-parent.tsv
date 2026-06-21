@@ -1,3 +1,4 @@
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sbbsystems/flink/statefun-tasks-parent/3.4.0/statefun-tasks-parent-3.4.0.jar returned status 404
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sbbsystems/flink/statefun-tasks-parent/3.4.2/statefun-tasks-parent-3.4.2.jar returned status 404
 3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sbbsystems/flink/statefun-tasks-parent/3.4.3/statefun-tasks-parent-3.4.3.jar returned status 404
+3.4.4		2026-06-11T08:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sbbsystems/flink/statefun-tasks-parent/3.4.4/statefun-tasks-parent-3.4.4.jar returned status 404

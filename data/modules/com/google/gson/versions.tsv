@@ -4769,6 +4769,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.0.4	named	org.jam4s	jam4s-codec-cli_3	2026-05-31T12:58:29Z	2.10.1
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-01T12:12:42Z	2.11.0
 0.0.5	named	org.jam4s	jam4s-codec-cli_3	2026-06-01T23:49:30Z	2.10.1
+4.0.1	named	com.snowflake	snowflake-kafka-connector	2026-06-02T22:14:54Z	2.8.9
 1.0.0	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:41:49Z	2.10.1
 1.0.1	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:57:45Z	2.10.1
 0.13.5	named	com.uber.nullaway	jar-infer-cli	2026-06-04T17:07:24Z	2.13.2

@@ -23,3 +23,4 @@
 1.136.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/robotemi/sdk/1.136.0/sdk-1.136.0.jar returned status 404
 1.137.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/robotemi/sdk/1.137.0/sdk-1.137.0.jar returned status 404
 1.137.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/robotemi/sdk/1.137.1/sdk-1.137.1.jar returned status 404
+1.138.0		2026-06-18T08:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/robotemi/sdk/1.138.0/sdk-1.138.0.jar returned status 404

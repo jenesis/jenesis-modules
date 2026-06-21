@@ -36,3 +36,5 @@
 2.0.2	plain	2025-11-20T13:44:11Z	
 2.0.3		2026-05-29T09:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/rotterdam-oracle-ebs/2.0.3/rotterdam-oracle-ebs-2.0.3.jar returned status 404
 2.0.3	plain	2026-05-29T09:47:32Z	
+2.0.4		2026-06-04T13:40:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/rotterdam-oracle-ebs/2.0.4/rotterdam-oracle-ebs-2.0.4.jar returned status 404
+2.0.4	plain	2026-06-04T13:40:33Z	

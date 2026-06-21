@@ -6426,3 +6426,4 @@ com.sqlapp.gradle.plugin
 com.sqlapp.core
 com.sqlapp.command
 com.soklet
+com.snowflake.snowpark_connect.client
