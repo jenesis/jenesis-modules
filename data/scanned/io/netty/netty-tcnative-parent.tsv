@@ -4,3 +4,5 @@
 2.0.75.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-tcnative-parent/2.0.75.Final/netty-tcnative-parent-2.0.75.Final.jar returned status 404
 2.0.76.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-tcnative-parent/2.0.76.Final/netty-tcnative-parent-2.0.76.Final.jar returned status 404
 2.0.77.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-tcnative-parent/2.0.77.Final/netty-tcnative-parent-2.0.77.Final.jar returned status 404
+2.0.78.Final		2026-06-04T05:01:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-tcnative-parent/2.0.78.Final/netty-tcnative-parent-2.0.78.Final.jar returned status 404
+2.0.79.Final		2026-06-12T07:05:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-tcnative-parent/2.0.79.Final/netty-tcnative-parent-2.0.79.Final.jar returned status 404

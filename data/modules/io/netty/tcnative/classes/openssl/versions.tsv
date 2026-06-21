@@ -36,3 +36,5 @@
 4.4.23	named	org.neo4j.driver	neo4j-java-driver	2026-04-20T13:47:20Z	2.0.75.Final
 2.0.77.Final	named	io.netty	netty-tcnative-classes	2026-04-23T10:09:54Z	2.0.77.Final
 4.4.24	named	org.neo4j.driver	neo4j-java-driver	2026-06-01T10:57:34Z	2.0.77.Final
+2.0.78.Final	named	io.netty	netty-tcnative-classes	2026-06-04T05:01:32Z	2.0.78.Final
+2.0.79.Final	named	io.netty	netty-tcnative-classes	2026-06-12T07:05:30Z	2.0.79.Final

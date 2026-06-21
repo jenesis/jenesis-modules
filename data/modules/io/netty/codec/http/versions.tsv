@@ -271,3 +271,5 @@
 2026.21.1	named	com.amazonaws	athena-mysql	2026-05-28T21:50:40Z	4.2.13.Final
 2026.21.1	named	com.amazonaws	athena-oracle	2026-05-28T21:50:40Z	4.2.13.Final
 2026.21.1	named	com.amazonaws	athena-redshift	2026-05-28T21:50:40Z	4.2.13.Final
+4.2.15.Final	named	io.netty	netty-codec-http	2026-06-02T05:22:29Z	4.2.15.Final
+4.1.135.Final	automatic	io.netty	netty-codec-http	2026-06-02T19:15:30Z	

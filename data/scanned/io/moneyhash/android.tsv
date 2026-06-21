@@ -123,6 +123,8 @@
 4.0.20-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.20-cp/android-4.0.20-cp.jar returned status 404
 4.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.21/android-4.0.21.jar returned status 404
 4.0.21-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.21-cp/android-4.0.21-cp.jar returned status 404
+4.0.22		2026-06-15T12:20:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.22/android-4.0.22.jar returned status 404
+4.0.22-cp		2026-06-15T12:20:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.22-cp/android-4.0.22-cp.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3/android-4.0.3.jar returned status 404
 4.0.3-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3-cp/android-4.0.3-cp.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.4/android-4.0.4.jar returned status 404
