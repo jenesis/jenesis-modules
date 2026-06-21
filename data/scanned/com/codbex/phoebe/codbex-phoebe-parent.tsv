@@ -18,3 +18,9 @@
 3.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.29.0/codbex-phoebe-parent-3.29.0.jar returned status 404
 3.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.30.0/codbex-phoebe-parent-3.30.0.jar returned status 404
 3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.31.0/codbex-phoebe-parent-3.31.0.jar returned status 404
+3.32.0		2026-06-04T13:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.32.0/codbex-phoebe-parent-3.32.0.jar returned status 404
+3.33.0		2026-06-08T07:26:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.33.0/codbex-phoebe-parent-3.33.0.jar returned status 404
+3.34.0		2026-06-08T11:48:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.34.0/codbex-phoebe-parent-3.34.0.jar returned status 404
+3.35.0		2026-06-12T10:55:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.35.0/codbex-phoebe-parent-3.35.0.jar returned status 404
+3.36.0		2026-06-12T11:59:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.36.0/codbex-phoebe-parent-3.36.0.jar returned status 404
+3.37.0		2026-06-18T07:58:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/phoebe/codbex-phoebe-parent/3.37.0/codbex-phoebe-parent-3.37.0.jar returned status 404

@@ -65,3 +65,9 @@
 12.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/12.9.0/codbex-platform-parent-12.9.0.jar returned status 404
 12.90.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/12.90.0/codbex-platform-parent-12.90.0.jar returned status 404
 12.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/12.91.0/codbex-platform-parent-12.91.0.jar returned status 404
+12.94.0		2026-06-04T11:34:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/12.94.0/codbex-platform-parent-12.94.0.jar returned status 404
+12.95.0		2026-06-04T12:32:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/12.95.0/codbex-platform-parent-12.95.0.jar returned status 404
+13.0.0		2026-06-05T07:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/13.0.0/codbex-platform-parent-13.0.0.jar returned status 404
+13.1.0		2026-06-05T12:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/13.1.0/codbex-platform-parent-13.1.0.jar returned status 404
+13.2.0		2026-06-05T20:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/13.2.0/codbex-platform-parent-13.2.0.jar returned status 404
+13.6.0		2026-06-17T13:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/platform/codbex-platform-parent/13.6.0/codbex-platform-parent-13.6.0.jar returned status 404

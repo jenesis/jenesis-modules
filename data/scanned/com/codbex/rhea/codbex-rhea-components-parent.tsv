@@ -12,3 +12,7 @@
 2.66.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.66.0/codbex-rhea-components-parent-2.66.0.jar returned status 404
 2.67.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.67.0/codbex-rhea-components-parent-2.67.0.jar returned status 404
 2.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.68.0/codbex-rhea-components-parent-2.68.0.jar returned status 404
+2.69.0		2026-06-04T12:57:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.69.0/codbex-rhea-components-parent-2.69.0.jar returned status 404
+2.70.0		2026-06-08T07:34:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.70.0/codbex-rhea-components-parent-2.70.0.jar returned status 404
+2.71.0		2026-06-08T11:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.71.0/codbex-rhea-components-parent-2.71.0.jar returned status 404
+2.72.0		2026-06-18T08:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/rhea/codbex-rhea-components-parent/2.72.0/codbex-rhea-components-parent-2.72.0.jar returned status 404

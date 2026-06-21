@@ -1073,3 +1073,5 @@
 0.41.21	named	org.kill-bill.billing	killbill-platform-osgi-bundles-graphite	2026-05-13T09:42:34Z	
 2.2.16	named	com.typesafe.play	shaded-asynchttpclient	2026-05-13T14:37:38Z	
 3.0.12	named	org.playframework	shaded-asynchttpclient	2026-05-13T14:37:38Z	
+3.26.1244	named	com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	2026-06-03T10:57:49Z	
+3.26.1245	named	com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	2026-06-09T13:45:22Z	

@@ -7,6 +7,10 @@
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.0.5/library-android-1.0.5.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.1.0/library-android-1.1.0.jar returned status 404
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.10.0/library-android-1.10.0.jar returned status 404
+1.11.1		2026-06-14T19:55:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.11.1/library-android-1.11.1.jar returned status 404
+1.11.1-1		2026-06-19T00:10:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.11.1-1/library-android-1.11.1-1.jar returned status 404
+1.12.0-alpha01		2026-06-14T19:54:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.12.0-alpha01/library-android-1.12.0-alpha01.jar returned status 404
+1.12.0-alpha01-1		2026-06-19T00:09:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.12.0-alpha01-1/library-android-1.12.0-alpha01-1.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.7.0/library-android-1.7.0.jar returned status 404
 1.7.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.7.0-alpha02/library-android-1.7.0-alpha02.jar returned status 404
 1.7.0-alpha02.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-android/1.7.0-alpha02.1/library-android-1.7.0-alpha02.1.jar returned status 404

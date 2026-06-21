@@ -49,3 +49,7 @@
 7.0.244		2026-05-22T06:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.244/codenameone-7.0.244.jar returned status 404
 7.0.246		2026-05-29T07:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.246/codenameone-7.0.246.jar returned status 404
 7.0.247		2026-05-30T09:17:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.247/codenameone-7.0.247.jar returned status 404
+7.0.248		2026-06-05T10:20:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.248/codenameone-7.0.248.jar returned status 404
+7.0.250		2026-06-05T11:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.250/codenameone-7.0.250.jar returned status 404
+7.0.251		2026-06-12T07:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.251/codenameone-7.0.251.jar returned status 404
+7.0.252		2026-06-19T11:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/codenameone/7.0.252/codenameone-7.0.252.jar returned status 404
