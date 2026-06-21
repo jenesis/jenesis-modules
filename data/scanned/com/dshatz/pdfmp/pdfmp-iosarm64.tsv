@@ -6,6 +6,8 @@
 1.0.11	metadata	2026-04-26T19:42:02Z	
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/pdfmp/pdfmp-iosarm64/1.0.12/pdfmp-iosarm64-1.0.12.jar returned status 404
 1.0.12	metadata	2026-05-14T16:02:12Z	
+1.0.13		2026-06-16T12:21:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/pdfmp/pdfmp-iosarm64/1.0.13/pdfmp-iosarm64-1.0.13.jar returned status 404
+1.0.13	metadata	2026-06-16T12:21:51Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/pdfmp/pdfmp-iosarm64/1.0.2/pdfmp-iosarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2025-11-26T20:30:35Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/pdfmp/pdfmp-iosarm64/1.0.3/pdfmp-iosarm64-1.0.3.jar returned status 404

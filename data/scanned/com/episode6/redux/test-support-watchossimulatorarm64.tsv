@@ -6,3 +6,7 @@
 1.0.0-beta01	metadata	2022-10-03T17:25:01Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/test-support-watchossimulatorarm64/1.0.1/test-support-watchossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2022-11-13T23:03:30Z	
+1.1.4		2026-06-19T00:22:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/test-support-watchossimulatorarm64/1.1.4/test-support-watchossimulatorarm64-1.1.4.jar returned status 404
+1.1.4	metadata	2026-06-19T00:22:53Z	
+1.1.5		2026-06-19T01:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/test-support-watchossimulatorarm64/1.1.5/test-support-watchossimulatorarm64-1.1.5.jar returned status 404
+1.1.5	metadata	2026-06-19T01:34:11Z	

@@ -54,6 +54,8 @@
 6.0.0-preview.33	metadata	2026-03-10T14:01:27Z	
 6.0.0-preview.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/reactivestate/reactivestate-android-watchosarm32/6.0.0-preview.34/reactivestate-android-watchosarm32-6.0.0-preview.34.jar returned status 404
 6.0.0-preview.34	metadata	2026-04-02T10:15:13Z	
+6.0.0-preview.35		2026-06-17T09:43:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/reactivestate/reactivestate-android-watchosarm32/6.0.0-preview.35/reactivestate-android-watchosarm32-6.0.0-preview.35.jar returned status 404
+6.0.0-preview.35	metadata	2026-06-17T09:43:14Z	
 6.0.0-preview.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/reactivestate/reactivestate-android-watchosarm32/6.0.0-preview.4/reactivestate-android-watchosarm32-6.0.0-preview.4.jar returned status 404
 6.0.0-preview.4	metadata	2025-04-15T06:15:26Z	
 6.0.0-preview.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/reactivestate/reactivestate-android-watchosarm32/6.0.0-preview.7/reactivestate-android-watchosarm32-6.0.0-preview.7.jar returned status 404
