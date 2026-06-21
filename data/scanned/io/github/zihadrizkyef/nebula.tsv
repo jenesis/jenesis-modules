@@ -1,4 +1,6 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.1/nebula-1.0.1.jar returned status 404
+1.0.10		2026-06-09T01:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.10/nebula-1.0.10.jar returned status 404
+1.0.11		2026-06-17T03:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.11/nebula-1.0.11.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.2/nebula-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.3/nebula-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.4/nebula-1.0.4.jar returned status 404
@@ -6,3 +8,4 @@
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.6/nebula-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.7/nebula-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.8/nebula-1.0.8.jar returned status 404
+1.0.9		2026-06-04T05:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zihadrizkyef/nebula/1.0.9/nebula-1.0.9.jar returned status 404

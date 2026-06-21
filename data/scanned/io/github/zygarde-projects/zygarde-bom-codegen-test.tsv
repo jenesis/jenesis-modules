@@ -15,3 +15,5 @@
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zygarde-projects/zygarde-bom-codegen-test/3.0.3/zygarde-bom-codegen-test-3.0.3.jar returned status 404
 3.0.4		2026-05-28T08:28:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zygarde-projects/zygarde-bom-codegen-test/3.0.4/zygarde-bom-codegen-test-3.0.4.jar returned status 404
 3.1.0		2026-05-29T03:05:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zygarde-projects/zygarde-bom-codegen-test/3.1.0/zygarde-bom-codegen-test-3.1.0.jar returned status 404
+3.1.1		2026-06-03T06:42:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zygarde-projects/zygarde-bom-codegen-test/3.1.1/zygarde-bom-codegen-test-3.1.1.jar returned status 404
+3.1.2		2026-06-04T04:12:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zygarde-projects/zygarde-bom-codegen-test/3.1.2/zygarde-bom-codegen-test-3.1.2.jar returned status 404
