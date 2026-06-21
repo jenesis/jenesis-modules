@@ -594,3 +594,35 @@
 28.2.6-dev0s+b0338227	metadata	2026-05-29T17:33:45Z	
 28.2.6-dev0t+201860be		2026-05-29T19:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0t+201860be/collektive-stdlib-watchosarm64-28.2.6-dev0t+201860be.jar returned status 404
 28.2.6-dev0t+201860be	metadata	2026-05-29T19:06:51Z	
+28.2.6-dev0u+1c2c9414		2026-06-01T00:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0u+1c2c9414/collektive-stdlib-watchosarm64-28.2.6-dev0u+1c2c9414.jar returned status 404
+28.2.6-dev0u+1c2c9414	metadata	2026-06-01T00:11:54Z	
+28.2.6-dev0v+f80c5a13		2026-06-02T04:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0v+f80c5a13/collektive-stdlib-watchosarm64-28.2.6-dev0v+f80c5a13.jar returned status 404
+28.2.6-dev0v+f80c5a13	metadata	2026-06-02T04:18:20Z	
+28.2.6-dev0w+c102c559		2026-06-02T20:02:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0w+c102c559/collektive-stdlib-watchosarm64-28.2.6-dev0w+c102c559.jar returned status 404
+28.2.6-dev0w+c102c559	metadata	2026-06-02T20:02:49Z	
+28.2.6-dev0x+74824f15		2026-06-02T21:14:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0x+74824f15/collektive-stdlib-watchosarm64-28.2.6-dev0x+74824f15.jar returned status 404
+28.2.6-dev0x+74824f15	metadata	2026-06-02T21:14:45Z	
+28.2.6-dev0y+38c33486		2026-06-03T18:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0y+38c33486/collektive-stdlib-watchosarm64-28.2.6-dev0y+38c33486.jar returned status 404
+28.2.6-dev0y+38c33486	metadata	2026-06-03T18:13:40Z	
+28.2.6-dev0z+d53d5367		2026-06-03T20:00:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev0z+d53d5367/collektive-stdlib-watchosarm64-28.2.6-dev0z+d53d5367.jar returned status 404
+28.2.6-dev0z+d53d5367	metadata	2026-06-03T20:00:58Z	
+28.2.6-dev11+060f705d		2026-06-04T22:49:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev11+060f705d/collektive-stdlib-watchosarm64-28.2.6-dev11+060f705d.jar returned status 404
+28.2.6-dev11+060f705d	metadata	2026-06-04T22:49:30Z	
+28.2.6-dev12+227bc3e8		2026-06-07T18:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev12+227bc3e8/collektive-stdlib-watchosarm64-28.2.6-dev12+227bc3e8.jar returned status 404
+28.2.6-dev12+227bc3e8	metadata	2026-06-07T18:51:44Z	
+28.2.6-dev12+9143750f		2026-06-10T12:03:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev12+9143750f/collektive-stdlib-watchosarm64-28.2.6-dev12+9143750f.jar returned status 404
+28.2.6-dev12+9143750f	metadata	2026-06-10T12:03:45Z	
+28.2.6-dev12+a9cce99a		2026-06-12T20:09:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev12+a9cce99a/collektive-stdlib-watchosarm64-28.2.6-dev12+a9cce99a.jar returned status 404
+28.2.6-dev12+a9cce99a	metadata	2026-06-12T20:09:27Z	
+28.2.6-dev13+164760a7		2026-06-13T17:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev13+164760a7/collektive-stdlib-watchosarm64-28.2.6-dev13+164760a7.jar returned status 404
+28.2.6-dev13+164760a7	metadata	2026-06-13T17:06:08Z	
+28.2.6-dev14+cec2e7d8		2026-06-13T20:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev14+cec2e7d8/collektive-stdlib-watchosarm64-28.2.6-dev14+cec2e7d8.jar returned status 404
+28.2.6-dev14+cec2e7d8	metadata	2026-06-13T20:02:45Z	
+28.2.6-dev15+e6742300		2026-06-15T00:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev15+e6742300/collektive-stdlib-watchosarm64-28.2.6-dev15+e6742300.jar returned status 404
+28.2.6-dev15+e6742300	metadata	2026-06-15T00:42:58Z	
+28.2.6-dev16+795f16c1		2026-06-16T21:42:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev16+795f16c1/collektive-stdlib-watchosarm64-28.2.6-dev16+795f16c1.jar returned status 404
+28.2.6-dev16+795f16c1	metadata	2026-06-16T21:42:16Z	
+28.2.6-dev16+be1d86bf		2026-06-16T21:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev16+be1d86bf/collektive-stdlib-watchosarm64-28.2.6-dev16+be1d86bf.jar returned status 404
+28.2.6-dev16+be1d86bf	metadata	2026-06-16T21:34:14Z	
+28.2.6-dev17+3ba424ad		2026-06-16T23:19:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-watchosarm64/28.2.6-dev17+3ba424ad/collektive-stdlib-watchosarm64-28.2.6-dev17+3ba424ad.jar returned status 404
+28.2.6-dev17+3ba424ad	metadata	2026-06-16T23:19:38Z	

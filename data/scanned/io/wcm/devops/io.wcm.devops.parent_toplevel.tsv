@@ -2,3 +2,4 @@
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/devops/io.wcm.devops.parent_toplevel/2.0.4/io.wcm.devops.parent_toplevel-2.0.4.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/devops/io.wcm.devops.parent_toplevel/2.1.0/io.wcm.devops.parent_toplevel-2.1.0.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/devops/io.wcm.devops.parent_toplevel/2.1.2/io.wcm.devops.parent_toplevel-2.1.2.jar returned status 404
+2.2.0		2026-06-01T18:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/devops/io.wcm.devops.parent_toplevel/2.2.0/io.wcm.devops.parent_toplevel-2.2.0.jar returned status 404

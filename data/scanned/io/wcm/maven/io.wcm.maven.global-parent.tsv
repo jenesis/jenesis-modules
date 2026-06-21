@@ -10,3 +10,4 @@
 74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/maven/io.wcm.maven.global-parent/74/io.wcm.maven.global-parent-74.jar returned status 404
 75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/maven/io.wcm.maven.global-parent/75/io.wcm.maven.global-parent-75.jar returned status 404
 76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/maven/io.wcm.maven.global-parent/76/io.wcm.maven.global-parent-76.jar returned status 404
+80		2026-06-01T17:36:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wcm/maven/io.wcm.maven.global-parent/80/io.wcm.maven.global-parent-80.jar returned status 404

@@ -1,3 +1,5 @@
 1.0.0		2026-05-21T20:16:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zerosettle/zerosettle-android/1.0.0/zerosettle-android-1.0.0.jar returned status 404
 1.1.0		2026-05-22T18:08:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zerosettle/zerosettle-android/1.1.0/zerosettle-android-1.1.0.jar returned status 404
 1.1.1		2026-05-25T19:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zerosettle/zerosettle-android/1.1.1/zerosettle-android-1.1.1.jar returned status 404
+1.2.0		2026-06-02T02:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zerosettle/zerosettle-android/1.2.0/zerosettle-android-1.2.0.jar returned status 404
+1.2.1		2026-06-10T21:46:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zerosettle/zerosettle-android/1.2.1/zerosettle-android-1.2.1.jar returned status 404

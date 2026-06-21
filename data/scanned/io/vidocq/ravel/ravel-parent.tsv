@@ -1,0 +1,2 @@
+0.1.0		2026-05-31T11:21:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vidocq/ravel/ravel-parent/0.1.0/ravel-parent-0.1.0.jar returned status 404
+0.1.1		2026-06-05T05:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vidocq/ravel/ravel-parent/0.1.1/ravel-parent-0.1.1.jar returned status 404

@@ -33,3 +33,6 @@
 0.18.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.71/codion-common-bom-0.18.71.jar returned status 404
 0.18.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.72/codion-common-bom-0.18.72.jar returned status 404
 0.18.73		2026-05-18T11:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.73/codion-common-bom-0.18.73.jar returned status 404
+0.18.74		2026-06-01T12:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.74/codion-common-bom-0.18.74.jar returned status 404
+0.18.75		2026-06-08T11:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.75/codion-common-bom-0.18.75.jar returned status 404
+0.18.76		2026-06-16T12:25:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-common-bom/0.18.76/codion-common-bom-0.18.76.jar returned status 404

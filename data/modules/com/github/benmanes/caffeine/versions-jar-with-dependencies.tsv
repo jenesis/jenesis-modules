@@ -55,3 +55,5 @@
 4.0.0-beta.2	named	org.apache.tinkerpop	gremlin-test	2026-04-02T21:04:34Z	3.2.3
 1.4.5	named	net.wirelabs	jmaps-example	2026-04-08T12:35:28Z	
 4.1.2	named	io.pebbletemplates	pebble	2026-05-29T17:50:39Z	3.2.4
+8.9.0	named	io.zeebe.redis	zeebe-redis-exporter	2026-06-10T15:39:41Z	3.2.4
+8.9.1	named	io.zeebe.redis	zeebe-redis-exporter	2026-06-11T11:21:11Z	3.2.4

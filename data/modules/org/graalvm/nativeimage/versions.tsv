@@ -34,3 +34,5 @@
 23.1.10	named	org.graalvm.sdk	nativeimage	2026-01-20T17:12:01Z	
 23.1.11	named	org.graalvm.sdk	nativeimage	2026-04-21T12:38:05Z	
 25.0.3	named	org.graalvm.sdk	nativeimage	2026-04-21T13:11:12Z	
+1.2.3	named	io.vproxy	graal-sdk-mock-nativeimage	2026-06-08T07:42:39Z	
+1.2.3	named	io.vproxy	graal-sdk-mock-runtime	2026-06-08T07:52:11Z	
