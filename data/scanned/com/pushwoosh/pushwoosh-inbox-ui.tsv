@@ -71,3 +71,5 @@
 6.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushwoosh/pushwoosh-inbox-ui/6.7.9/pushwoosh-inbox-ui-6.7.9.jar returned status 404
 6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushwoosh/pushwoosh-inbox-ui/6.8.0/pushwoosh-inbox-ui-6.8.0.jar returned status 404
 6.8.1		2026-05-21T20:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushwoosh/pushwoosh-inbox-ui/6.8.1/pushwoosh-inbox-ui-6.8.1.jar returned status 404
+6.9.0		2026-06-02T11:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushwoosh/pushwoosh-inbox-ui/6.9.0/pushwoosh-inbox-ui-6.9.0.jar returned status 404
+6.9.1		2026-06-16T12:10:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushwoosh/pushwoosh-inbox-ui/6.9.1/pushwoosh-inbox-ui-6.9.1.jar returned status 404

@@ -49,6 +49,7 @@
 4.43.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.43.2/processout-android-checkout-3ds-4.43.2.jar returned status 404
 4.43.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.43.3/processout-android-checkout-3ds-4.43.3.jar returned status 404
 4.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.44.0/processout-android-checkout-3ds-4.44.0.jar returned status 404
+4.45.0		2026-06-02T10:30:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.45.0/processout-android-checkout-3ds-4.45.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.5.0/processout-android-checkout-3ds-4.5.0.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.6.0/processout-android-checkout-3ds-4.6.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/processout/processout-android-checkout-3ds/4.7.0/processout-android-checkout-3ds-4.7.0.jar returned status 404

@@ -1,3 +1,5 @@
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pi4j/pi4j-library/3.0.3/pi4j-library-3.0.3.jar returned status 404
+3.0.4		2026-05-21T05:43:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pi4j/pi4j-library/3.0.4/pi4j-library-3.0.4.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pi4j/pi4j-library/4.0.0/pi4j-library-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pi4j/pi4j-library/4.0.1/pi4j-library-4.0.1.jar returned status 404
+4.0.2		2026-06-08T10:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pi4j/pi4j-library/4.0.2/pi4j-library-4.0.2.jar returned status 404

@@ -8,6 +8,8 @@
 0.1.0	metadata	2026-05-03T20:44:58Z	
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/persistence-iosarm64/0.1.1/persistence-iosarm64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-05-06T22:55:07Z	
+0.1.10		2026-06-14T10:56:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/persistence-iosarm64/0.1.10/persistence-iosarm64-0.1.10.jar returned status 404
+0.1.10	metadata	2026-06-14T10:56:29Z	
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/persistence-iosarm64/0.1.2/persistence-iosarm64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-05-07T12:59:11Z	
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/persistence-iosarm64/0.1.4/persistence-iosarm64-0.1.4.jar returned status 404

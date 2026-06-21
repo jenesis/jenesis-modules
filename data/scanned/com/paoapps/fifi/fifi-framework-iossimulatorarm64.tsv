@@ -62,6 +62,12 @@
 0.0.39	metadata	2026-05-27T03:34:09Z	
 0.0.40		2026-05-30T22:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.40/fifi-framework-iossimulatorarm64-0.0.40.jar returned status 404
 0.0.40	metadata	2026-05-30T22:50:36Z	
+0.0.41		2026-06-01T22:37:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.41/fifi-framework-iossimulatorarm64-0.0.41.jar returned status 404
+0.0.41	metadata	2026-06-01T22:37:15Z	
+0.0.42		2026-06-02T00:56:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.42/fifi-framework-iossimulatorarm64-0.0.42.jar returned status 404
+0.0.42	metadata	2026-06-02T00:56:10Z	
+0.0.43		2026-06-02T15:15:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.43/fifi-framework-iossimulatorarm64-0.0.43.jar returned status 404
+0.0.43	metadata	2026-06-02T15:15:31Z	
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.5/fifi-framework-iossimulatorarm64-0.0.5.jar returned status 404
 0.0.5	metadata	2023-11-30T16:36:03Z	
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-framework-iossimulatorarm64/0.0.6/fifi-framework-iossimulatorarm64-0.0.6.jar returned status 404

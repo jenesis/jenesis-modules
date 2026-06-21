@@ -75,5 +75,8 @@
 1.2.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.64/atkit-1.2.64.jar returned status 404
 1.2.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.65/atkit-1.2.65.jar returned status 404
 1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.7/atkit-1.2.7.jar returned status 404
+1.2.70		2026-06-03T10:52:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.70/atkit-1.2.70.jar returned status 404
+1.2.71		2026-06-05T09:00:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.71/atkit-1.2.71.jar returned status 404
+1.2.72		2026-06-10T03:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.72/atkit-1.2.72.jar returned status 404
 1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.8/atkit-1.2.8.jar returned status 404
 1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playmohe/antong/atkit/1.2.9/atkit-1.2.9.jar returned status 404

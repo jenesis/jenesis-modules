@@ -4,6 +4,22 @@
 0.10	metadata	2026-02-20T12:55:07Z	
 0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.11/kroom-view-macosx64-0.11.jar returned status 404
 0.11	metadata	2026-02-24T12:04:00Z	
+0.12		2026-06-04T23:57:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.12/kroom-view-macosx64-0.12.jar returned status 404
+0.12	metadata	2026-06-04T23:57:28Z	
+0.13		2026-06-09T08:40:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.13/kroom-view-macosx64-0.13.jar returned status 404
+0.13	metadata	2026-06-09T08:40:38Z	
+0.14		2026-06-09T12:12:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.14/kroom-view-macosx64-0.14.jar returned status 404
+0.14	metadata	2026-06-09T12:12:16Z	
+0.15		2026-06-10T10:00:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.15/kroom-view-macosx64-0.15.jar returned status 404
+0.15	metadata	2026-06-10T10:00:49Z	
+0.16		2026-06-11T13:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.16/kroom-view-macosx64-0.16.jar returned status 404
+0.16	metadata	2026-06-11T13:41:22Z	
+0.17		2026-06-12T07:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.17/kroom-view-macosx64-0.17.jar returned status 404
+0.17	metadata	2026-06-12T07:16:04Z	
+0.18		2026-06-13T09:51:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.18/kroom-view-macosx64-0.18.jar returned status 404
+0.18	metadata	2026-06-13T09:51:47Z	
+0.19		2026-06-18T19:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.19/kroom-view-macosx64-0.19.jar returned status 404
+0.19	metadata	2026-06-18T19:37:27Z	
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.2/kroom-view-macosx64-0.2.jar returned status 404
 0.2	metadata	2025-12-08T09:36:08Z	
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-view-macosx64/0.3/kroom-view-macosx64-0.3.jar returned status 404

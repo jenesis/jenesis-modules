@@ -52,3 +52,4 @@
 2.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/radiusnetworks/flybuy/live-status/2.16.2/live-status-2.16.2.jar returned status 404
 2.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/radiusnetworks/flybuy/live-status/2.16.3/live-status-2.16.3.jar returned status 404
 2.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/radiusnetworks/flybuy/live-status/2.16.4/live-status-2.16.4.jar returned status 404
+2.16.5		2026-06-01T16:08:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/radiusnetworks/flybuy/live-status/2.16.5/live-status-2.16.5.jar returned status 404

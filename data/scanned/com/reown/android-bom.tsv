@@ -33,6 +33,7 @@
 1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.11/android-bom-1.6.11.jar returned status 404
 1.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.12/android-bom-1.6.12.jar returned status 404
 1.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.13/android-bom-1.6.13.jar returned status 404
+1.6.14		2026-06-17T11:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.14/android-bom-1.6.14.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.2/android-bom-1.6.2.jar returned status 404
 1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.3/android-bom-1.6.3.jar returned status 404
 1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reown/android-bom/1.6.4/android-bom-1.6.4.jar returned status 404

@@ -20,3 +20,4 @@
 3.2.0-next.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-js/3.2.0-next.4/compose-js-3.2.0-next.4.jar returned status 404
 3.2.0-next.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-js/3.2.0-next.5/compose-js-3.2.0-next.5.jar returned status 404
 3.2.0-next.6		2026-05-31T11:29:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-js/3.2.0-next.6/compose-js-3.2.0-next.6.jar returned status 404
+3.2.2		2026-06-04T10:41:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-js/3.2.2/compose-js-3.2.2.jar returned status 404

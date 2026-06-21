@@ -4,3 +4,4 @@
 0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/redmadrobot/debug/plugin-konfeature/0.9.3/plugin-konfeature-0.9.3.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/redmadrobot/debug/plugin-konfeature/1.0.0/plugin-konfeature-1.0.0.jar returned status 404
 1.1.0		2026-05-21T14:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/redmadrobot/debug/plugin-konfeature/1.1.0/plugin-konfeature-1.1.0.jar returned status 404
+1.2.0		2026-06-05T08:44:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/redmadrobot/debug/plugin-konfeature/1.2.0/plugin-konfeature-1.2.0.jar returned status 404

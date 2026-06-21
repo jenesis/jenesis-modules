@@ -1,0 +1,4 @@
+1.0.3		2026-06-17T11:10:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-bom/1.0.3/component-bom-1.0.3.jar returned status 404
+1.0.4		2026-06-17T17:25:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-bom/1.0.4/component-bom-1.0.4.jar returned status 404
+1.0.5		2026-06-19T07:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-bom/1.0.5/component-bom-1.0.5.jar returned status 404
+1.0.6		2026-06-19T07:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-bom/1.0.6/component-bom-1.0.6.jar returned status 404

@@ -7,3 +7,5 @@
 26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-parent-ws/26/powsybl-parent-ws-26.jar returned status 404
 26.1		2026-05-27T08:19:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-parent-ws/26.1/powsybl-parent-ws-26.1.jar returned status 404
 27		2026-05-20T07:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-parent-ws/27/powsybl-parent-ws-27.jar returned status 404
+28		2026-06-02T11:32:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-parent-ws/28/powsybl-parent-ws-28.jar returned status 404
+29		2026-06-15T09:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-parent-ws/29/powsybl-parent-ws-29.jar returned status 404

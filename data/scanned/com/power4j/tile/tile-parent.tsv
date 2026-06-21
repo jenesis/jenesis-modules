@@ -1,3 +1,4 @@
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/power4j/tile/tile-parent/1.8.0/tile-parent-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/power4j/tile/tile-parent/1.8.1/tile-parent-1.8.1.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/power4j/tile/tile-parent/1.8.2/tile-parent-1.8.2.jar returned status 404
+1.8.3		2026-06-09T07:51:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/power4j/tile/tile-parent/1.8.3/tile-parent-1.8.3.jar returned status 404
