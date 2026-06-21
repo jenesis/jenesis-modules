@@ -13,3 +13,5 @@
 0.53.0-alpha		2026-05-24T16:03:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jacopobiscella/ha-track/0.53.0-alpha/ha-track-0.53.0-alpha.jar returned status 404
 0.54.0-alpha		2026-05-24T18:32:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jacopobiscella/ha-track/0.54.0-alpha/ha-track-0.54.0-alpha.jar returned status 404
 0.55.0-alpha		2026-05-25T10:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jacopobiscella/ha-track/0.55.0-alpha/ha-track-0.55.0-alpha.jar returned status 404
+0.56.0-alpha		2026-06-02T21:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jacopobiscella/ha-track/0.56.0-alpha/ha-track-0.56.0-alpha.jar returned status 404
+0.57.0-alpha		2026-06-11T20:16:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jacopobiscella/ha-track/0.57.0-alpha/ha-track-0.57.0-alpha.jar returned status 404

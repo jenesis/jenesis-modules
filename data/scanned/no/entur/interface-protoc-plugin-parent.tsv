@@ -6,3 +6,4 @@
 1.24.0		2026-05-28T15:25:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/interface-protoc-plugin-parent/1.24.0/interface-protoc-plugin-parent-1.24.0.jar returned status 404
 1.25.0		2026-05-29T10:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/interface-protoc-plugin-parent/1.25.0/interface-protoc-plugin-parent-1.25.0.jar returned status 404
 1.26.0		2026-05-29T19:03:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/interface-protoc-plugin-parent/1.26.0/interface-protoc-plugin-parent-1.26.0.jar returned status 404
+1.27.0		2026-06-04T07:54:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/interface-protoc-plugin-parent/1.27.0/interface-protoc-plugin-parent-1.27.0.jar returned status 404

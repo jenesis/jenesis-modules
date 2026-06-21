@@ -1,1 +1,2 @@
 1.0.0		2026-05-17T23:45:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/webjar/webjar/1.0.0/webjar-1.0.0.jar returned status 404
+1.0.1		2026-06-14T17:50:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/webjar/webjar/1.0.1/webjar-1.0.1.jar returned status 404

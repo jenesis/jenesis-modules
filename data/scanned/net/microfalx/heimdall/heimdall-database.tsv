@@ -1,1 +1,2 @@
 1.0.0		2026-05-20T11:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/heimdall/heimdall-database/1.0.0/heimdall-database-1.0.0.jar returned status 404
+1.0.1		2026-06-16T13:03:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/heimdall/heimdall-database/1.0.1/heimdall-database-1.0.1.jar returned status 404

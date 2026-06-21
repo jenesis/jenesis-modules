@@ -32,3 +32,5 @@
 3.0.1	plain	2026-05-26T08:42:39Z	
 3.0.2		2026-05-27T13:56:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/core/3.0.2/core-3.0.2.jar returned status 404
 3.0.2	plain	2026-05-27T13:56:52Z	
+3.0.3		2026-06-10T12:13:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/core/3.0.3/core-3.0.3.jar returned status 404
+3.0.3	plain	2026-06-10T12:13:04Z	

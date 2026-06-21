@@ -14,5 +14,6 @@
 2026.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/guerlab-cloud-gateway/2026.4.1/guerlab-cloud-gateway-2026.4.1.jar returned status 404
 2026.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/guerlab-cloud-gateway/2026.4.2/guerlab-cloud-gateway-2026.4.2.jar returned status 404
 2026.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/guerlab-cloud-gateway/2026.5.0/guerlab-cloud-gateway-2026.5.0.jar returned status 404
+2026.5.1		2026-06-16T13:24:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/guerlab-cloud-gateway/2026.5.1/guerlab-cloud-gateway-2026.5.1.jar returned status 404
 21.7.1		2021-07-13T14:21:12Z	
 21.7.1	exec	2021-07-13T14:21:15Z	

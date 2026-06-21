@@ -18,3 +18,4 @@
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/bekk/db-scheduler-ui/db-scheduler-ui-parent/4.5.6/db-scheduler-ui-parent-4.5.6.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/bekk/db-scheduler-ui/db-scheduler-ui-parent/4.6.0/db-scheduler-ui-parent-4.6.0.jar returned status 404
 4.7.0		2026-05-22T06:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/bekk/db-scheduler-ui/db-scheduler-ui-parent/4.7.0/db-scheduler-ui-parent-4.7.0.jar returned status 404
+5.0.0		2026-06-02T14:15:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/bekk/db-scheduler-ui/db-scheduler-ui-parent/5.0.0/db-scheduler-ui-parent-5.0.0.jar returned status 404

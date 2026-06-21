@@ -75,3 +75,4 @@
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-capture-sdk/4.1.0/gini-capture-sdk-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-capture-sdk/4.2.0/gini-capture-sdk-4.2.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-capture-sdk/4.3.0/gini-capture-sdk-4.3.0.jar returned status 404
+4.3.1		2026-06-15T16:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-capture-sdk/4.3.1/gini-capture-sdk-4.3.1.jar returned status 404

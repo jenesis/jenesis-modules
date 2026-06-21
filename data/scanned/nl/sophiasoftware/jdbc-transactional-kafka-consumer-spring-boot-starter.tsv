@@ -6,3 +6,7 @@
 0.1.2	plain	2026-04-15T15:01:58Z	
 0.2.0		2026-05-19T15:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/sophiasoftware/jdbc-transactional-kafka-consumer-spring-boot-starter/0.2.0/jdbc-transactional-kafka-consumer-spring-boot-starter-0.2.0.jar returned status 404
 0.2.0	plain	2026-05-19T15:14:51Z	
+0.2.1		2026-06-10T13:12:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/sophiasoftware/jdbc-transactional-kafka-consumer-spring-boot-starter/0.2.1/jdbc-transactional-kafka-consumer-spring-boot-starter-0.2.1.jar returned status 404
+0.2.1	plain	2026-06-10T13:12:11Z	
+0.2.2		2026-06-11T11:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/sophiasoftware/jdbc-transactional-kafka-consumer-spring-boot-starter/0.2.2/jdbc-transactional-kafka-consumer-spring-boot-starter-0.2.2.jar returned status 404
+0.2.2	plain	2026-06-11T11:36:34Z	

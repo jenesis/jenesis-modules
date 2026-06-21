@@ -1,0 +1,2 @@
+1.0.5		2026-06-14T01:19:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap-demo-base/1.0.5/bootstrap-demo-base-1.0.5.jar returned status 404
+1.0.7		2026-06-14T01:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap-demo-base/1.0.7/bootstrap-demo-base-1.0.7.jar returned status 404
