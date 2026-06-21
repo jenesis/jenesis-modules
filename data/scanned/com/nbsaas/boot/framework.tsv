@@ -35,3 +35,4 @@
 4.0.2-boot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/framework/4.0.2-boot4/framework-4.0.2-boot4.jar returned status 404
 4.0.3-boot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/framework/4.0.3-boot4/framework-4.0.3-boot4.jar returned status 404
 4.0.4-boot4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/framework/4.0.4-boot4/framework-4.0.4-boot4.jar returned status 404
+4.0.5-boot4		2026-06-12T15:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/framework/4.0.5-boot4/framework-4.0.5-boot4.jar returned status 404

@@ -6534,3 +6534,4 @@ com.netflix.spectator.aws2
 com.netflix.spectator.aws
 com.netflix.spectator.api
 com.netflix.spectator.agent
+JsonLight

@@ -12,3 +12,4 @@
 1.0.9-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mudu/mdvpservice/1.0.9-1/mdvpservice-1.0.9-1.jar returned status 404
 1.0.9-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mudu/mdvpservice/1.0.9-2/mdvpservice-1.0.9-2.jar returned status 404
 1.0.9-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mudu/mdvpservice/1.0.9-3/mdvpservice-1.0.9-3.jar returned status 404
+1.1.0		2026-06-14T16:15:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mudu/mdvpservice/1.1.0/mdvpservice-1.1.0.jar returned status 404

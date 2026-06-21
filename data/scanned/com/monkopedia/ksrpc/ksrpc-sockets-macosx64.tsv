@@ -50,3 +50,7 @@
 1.1.0	metadata	2026-05-28T19:07:53Z	
 1.1.0-RC1		2026-05-27T21:14:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-sockets-macosx64/1.1.0-RC1/ksrpc-sockets-macosx64-1.1.0-RC1.jar returned status 404
 1.1.0-RC1	metadata	2026-05-27T21:14:49Z	
+1.1.1		2026-06-03T14:54:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-sockets-macosx64/1.1.1/ksrpc-sockets-macosx64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-06-03T14:54:20Z	
+1.1.2		2026-06-11T20:12:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-sockets-macosx64/1.1.2/ksrpc-sockets-macosx64-1.1.2.jar returned status 404
+1.1.2	metadata	2026-06-11T20:12:05Z	

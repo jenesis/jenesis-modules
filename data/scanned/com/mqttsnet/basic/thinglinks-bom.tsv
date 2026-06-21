@@ -3,3 +3,4 @@
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mqttsnet/basic/thinglinks-bom/1.0.6/thinglinks-bom-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mqttsnet/basic/thinglinks-bom/1.0.7/thinglinks-bom-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mqttsnet/basic/thinglinks-bom/1.0.8/thinglinks-bom-1.0.8.jar returned status 404
+1.0.8.1		2026-06-10T09:58:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mqttsnet/basic/thinglinks-bom/1.0.8.1/thinglinks-bom-1.0.8.1.jar returned status 404
