@@ -45,6 +45,7 @@
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.2.0/client-android-debug-0.2.0.jar returned status 404
 0.20.0		2026-05-29T13:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.20.0/client-android-debug-0.20.0.jar returned status 404
 0.21.0		2026-05-29T23:38:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.21.0/client-android-debug-0.21.0.jar returned status 404
+0.21.1		2026-06-05T11:47:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.21.1/client-android-debug-0.21.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.3.0/client-android-debug-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.3.1/client-android-debug-0.3.1.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apptank/horus/client-android-debug/0.4.1/client-android-debug-0.4.1.jar returned status 404

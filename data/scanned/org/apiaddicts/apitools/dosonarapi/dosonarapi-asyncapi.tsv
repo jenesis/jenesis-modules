@@ -2,3 +2,4 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apiaddicts/apitools/dosonarapi/dosonarapi-asyncapi/1.1.0/dosonarapi-asyncapi-1.1.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apiaddicts/apitools/dosonarapi/dosonarapi-asyncapi/1.2.0/dosonarapi-asyncapi-1.2.0.jar returned status 404
 2.0.0		2026-05-27T17:12:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apiaddicts/apitools/dosonarapi/dosonarapi-asyncapi/2.0.0/dosonarapi-asyncapi-2.0.0.jar returned status 404
+2.0.1		2026-06-09T18:12:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apiaddicts/apitools/dosonarapi/dosonarapi-asyncapi/2.0.1/dosonarapi-asyncapi-2.0.1.jar returned status 404

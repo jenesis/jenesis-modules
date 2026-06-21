@@ -6454,3 +6454,5 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 2.22	named	com.fasterxml.jackson.core	jackson-annotations	2026-05-31T04:44:48Z	2.22
 1.0.0-RC3	named	za.co.absa.spline	admin	2026-06-02T11:27:49Z	2.17.1
 1.0.0-RC3	named	za.co.absa.spline	test-data-generator	2026-06-02T11:27:49Z	2.17.1
+4.2.2	named	org.apache.pulsar	pulsar-functions-runtime-all	2026-06-05T17:23:08Z	2.18.6
+4.0.11	named	org.apache.pulsar	pulsar-functions-runtime-all	2026-06-05T17:33:57Z	2.18.6

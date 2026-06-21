@@ -4769,7 +4769,16 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.0.4	named	org.jam4s	jam4s-codec-cli_3	2026-05-31T12:58:29Z	2.10.1
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-01T12:12:42Z	2.11.0
 0.0.5	named	org.jam4s	jam4s-codec-cli_3	2026-06-01T23:49:30Z	2.10.1
+2.6.6	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:24:12Z	2.13.2
+2.6.6	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:25:39Z	2.13.2
+2.5.15	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:27:07Z	2.13.2
+2.5.15	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:35:48Z	2.13.2
+2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:51:43Z	2.13.2
+2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T20:04:44Z	2.13.2
 8.31.0.44157	named	org.sonarsource.java	java-custom-rules-example	2026-06-05T12:22:15Z	2.14.0
+4.2.2	named	org.apache.pulsar	jclouds-shaded	2026-06-05T17:19:01Z	2.10.1
+4.0.11	named	org.apache.pulsar	jclouds-shaded	2026-06-05T17:29:46Z	2.10.1
+4.0.3	named	org.apache.spark	spark-connect-client-jvm_2.13	2026-06-08T05:20:55Z	2.11.0
 0.4.22-beta	named	org.openjproxy	ojp-jdbc-driver	2026-06-08T18:45:15Z	2.12.1
 0.1.0	named	win.dailypickle.report	dailypickle	2026-06-09T19:59:26Z	2.14.0
 0.4.23-beta	named	org.openjproxy	ojp-jdbc-driver	2026-06-10T16:18:19Z	2.12.1

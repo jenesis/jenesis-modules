@@ -21,3 +21,5 @@
 1.2.0	automatic	org.apache.pekko	pekko-grpc-runtime_2.12	2025-10-18T19:38:26Z	
 2.0.0-M1	automatic	org.apache.pekko	pekko-grpc-runtime_2.13	2026-01-30T10:10:43Z	
 2.0.0-M1	automatic	org.apache.pekko	pekko-grpc-runtime_3	2026-01-30T10:10:46Z	
+2.0.0-M2	automatic	org.apache.pekko	pekko-grpc-runtime_3	2026-06-11T14:43:44Z	
+2.0.0-M2	automatic	org.apache.pekko	pekko-grpc-runtime_2.13	2026-06-11T14:43:53Z	
