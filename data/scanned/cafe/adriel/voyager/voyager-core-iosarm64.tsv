@@ -30,3 +30,5 @@
 1.1.0-beta02	metadata	2024-06-04T23:41:00Z	
 1.1.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-core-iosarm64/1.1.0-beta03/voyager-core-iosarm64-1.1.0-beta03.jar returned status 404
 1.1.0-beta03	metadata	2024-10-08T18:18:28Z	
+2.2.21-1.10.3		2026-06-08T15:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-core-iosarm64/2.2.21-1.10.3/voyager-core-iosarm64-2.2.21-1.10.3.jar returned status 404
+2.2.21-1.10.3	metadata	2026-06-08T15:54:31Z	

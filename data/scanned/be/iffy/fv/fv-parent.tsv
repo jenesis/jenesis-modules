@@ -1,0 +1,5 @@
+0.9.0		2026-06-17T21:23:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/iffy/fv/fv-parent/0.9.0/fv-parent-0.9.0.jar returned status 404
+0.9.2		2026-06-17T21:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/iffy/fv/fv-parent/0.9.2/fv-parent-0.9.2.jar returned status 404
+0.9.3		2026-06-18T23:49:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/iffy/fv/fv-parent/0.9.3/fv-parent-0.9.3.jar returned status 404
+0.9.4		2026-06-19T16:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/iffy/fv/fv-parent/0.9.4/fv-parent-0.9.4.jar returned status 404
+1.0.0		2026-06-19T20:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/iffy/fv/fv-parent/1.0.0/fv-parent-1.0.0.jar returned status 404

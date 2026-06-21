@@ -21,6 +21,7 @@
 1.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.12/aws-protocol-core-mingwx64-1.6.12.jar returned status 404
 1.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.13/aws-protocol-core-mingwx64-1.6.13.jar returned status 404
 1.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.14/aws-protocol-core-mingwx64-1.6.14.jar returned status 404
+1.6.15		2026-06-10T17:51:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.15/aws-protocol-core-mingwx64-1.6.15.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.2/aws-protocol-core-mingwx64-1.6.2.jar returned status 404
 1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.3/aws-protocol-core-mingwx64-1.6.3.jar returned status 404
 1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-protocol-core-mingwx64/1.6.4/aws-protocol-core-mingwx64-1.6.4.jar returned status 404

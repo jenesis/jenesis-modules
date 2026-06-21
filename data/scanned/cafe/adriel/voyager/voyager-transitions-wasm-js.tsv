@@ -3,3 +3,4 @@
 1.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-transitions-wasm-js/1.1.0-beta01/voyager-transitions-wasm-js-1.1.0-beta01.jar returned status 404
 1.1.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-transitions-wasm-js/1.1.0-beta02/voyager-transitions-wasm-js-1.1.0-beta02.jar returned status 404
 1.1.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-transitions-wasm-js/1.1.0-beta03/voyager-transitions-wasm-js-1.1.0-beta03.jar returned status 404
+2.2.21-1.10.3		2026-06-08T15:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/voyager/voyager-transitions-wasm-js/2.2.21-1.10.3/voyager-transitions-wasm-js-2.2.21-1.10.3.jar returned status 404

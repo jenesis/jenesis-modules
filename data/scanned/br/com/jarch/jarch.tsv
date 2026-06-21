@@ -1,5 +1,6 @@
 25.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.10.0/jarch-25.10.0.jar returned status 404
 25.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.11.0/jarch-25.11.0.jar returned status 404
+25.12.0		2026-06-09T10:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.12.0/jarch-25.12.0.jar returned status 404
 25.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.6.0/jarch-25.6.0.jar returned status 404
 25.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.7.0/jarch-25.7.0.jar returned status 404
 25.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch/25.8.0/jarch-25.8.0.jar returned status 404

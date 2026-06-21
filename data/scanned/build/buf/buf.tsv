@@ -24,3 +24,4 @@
 1.68.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/buf/buf/1.68.4/buf-1.68.4.jar returned status 404
 1.69.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/buf/buf/1.69.0/buf-1.69.0.jar returned status 404
 1.70.0		2026-05-25T19:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/buf/buf/1.70.0/buf-1.70.0.jar returned status 404
+1.71.0		2026-06-16T17:50:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/build/buf/buf/1.71.0/buf-1.71.0.jar returned status 404
