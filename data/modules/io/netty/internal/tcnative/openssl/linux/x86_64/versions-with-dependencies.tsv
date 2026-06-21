@@ -1,0 +1,17 @@
+8.7.21	named	io.camunda.connector	connector-http-polling	2026-06-01T10:33:25Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-google-drive	2026-06-01T10:33:26Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-google-sheets	2026-06-01T10:33:26Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-http-base	2026-06-01T10:33:26Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-jdbc	2026-06-01T10:33:26Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-kafka	2026-06-01T10:33:26Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-message	2026-06-01T10:33:27Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-automationanywhere	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-box	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-email	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-graphql	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-http-json	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-sendgrid	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-soap	2026-06-01T10:33:28Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-google-base	2026-06-01T10:33:29Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-rabbitmq	2026-06-01T10:33:29Z	2.0.77.Final
+8.7.21	named	io.camunda.connector	connector-slack	2026-06-01T10:33:29Z	2.0.77.Final

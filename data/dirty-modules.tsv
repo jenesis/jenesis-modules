@@ -5959,3 +5959,17 @@ io.cucumber.gherkin.utils
 io.cucumber.gherkin
 io.cucumber.cucumberexpressions
 io.cucumber.cienvironment
+io.cloudevents.formats.xml
+io.cloudevents.sql
+io.cloudevents.spring
+io.cloudevents.rocketmq
+io.cloudevents.formats.protobuf
+io.cloudevents.kafka
+io.cloudevents.formats.jackson
+io.cloudevents.http.vertx
+io.cloudevents.http.restfulws
+io.cloudevents.http.basic
+io.cloudevents.core
+io.cloudevents.formats.avro.compact
+io.cloudevents.api
+io.cloudevents.amqp.proton

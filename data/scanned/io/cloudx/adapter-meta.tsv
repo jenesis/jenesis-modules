@@ -30,3 +30,4 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-meta/3.2.0/adapter-meta-3.2.0.jar returned status 404
 6.20.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-meta/6.20.0.0/adapter-meta-6.20.0.0.jar returned status 404
 6.21.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-meta/6.21.0.0/adapter-meta-6.21.0.0.jar returned status 404
+6.21.0.1		2026-06-12T08:04:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-meta/6.21.0.1/adapter-meta-6.21.0.1.jar returned status 404

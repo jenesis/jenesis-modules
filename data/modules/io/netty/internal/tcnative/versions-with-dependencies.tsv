@@ -482,3 +482,5 @@
 8.7.20	named	io.camunda.connector	connector-runtime-bundle-saas	2026-05-05T18:30:52Z	2.0.74.Final
 8.7.20	named	io.camunda.connector	connector-runtime-bundle	2026-05-05T18:30:53Z	2.0.75.Final
 8.7.20	named	io.camunda.connector	connector-webhook	2026-05-05T18:30:53Z	2.0.75.Final
+8.7.21	named	io.camunda.connector	connector-google-gemini	2026-06-01T10:33:26Z	2.0.75.Final
+8.7.21	named	io.camunda.connector	connector-runtime-bundle	2026-06-01T10:33:27Z	2.0.77.Final

@@ -1,0 +1,12 @@
+8.7.21	named	io.camunda.connector	connector-aws-s3	2026-06-01T10:33:26Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-idp-extraction	2026-06-01T10:33:26Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-base	2026-06-01T10:33:27Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-dynamodb	2026-06-01T10:33:27Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-eventbridge	2026-06-01T10:33:27Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-lambda	2026-06-01T10:33:27Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-comprehend	2026-06-01T10:33:28Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-sagemaker	2026-06-01T10:33:28Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-bedrock	2026-06-01T10:33:29Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-sns	2026-06-01T10:33:29Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-sqs	2026-06-01T10:33:29Z	4.2.13.Final
+8.7.21	named	io.camunda.connector	connector-aws-textract	2026-06-01T10:33:29Z	4.2.13.Final
