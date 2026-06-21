@@ -42,6 +42,7 @@
 5.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.26.0/android-customer-5.26.0.jar returned status 404
 5.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.26.1/android-customer-5.26.1.jar returned status 404
 5.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.26.2/android-customer-5.26.2.jar returned status 404
+5.26.3		2026-06-04T08:50:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.26.3/android-customer-5.26.3.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.4.0/android-customer-5.4.0.jar returned status 404
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.4.1/android-customer-5.4.1.jar returned status 404
 5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.4.2/android-customer-5.4.2.jar returned status 404
@@ -74,3 +75,7 @@
 5.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/5.9.4/android-customer-5.9.4.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/6.0.0/android-customer-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/6.0.1/android-customer-6.0.1.jar returned status 404
+6.0.2		2026-06-04T11:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/6.0.2/android-customer-6.0.2.jar returned status 404
+6.0.3		2026-06-17T09:31:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/6.0.3/android-customer-6.0.3.jar returned status 404
+7.0.0		2026-06-03T08:16:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/7.0.0/android-customer-7.0.0.jar returned status 404
+7.0.1		2026-06-18T12:08:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android-customer/7.0.1/android-customer-7.0.1.jar returned status 404

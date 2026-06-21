@@ -1,5 +1,7 @@
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.0/boot-parent-pom-0.24.0.jar returned status 404
 0.24.10		2026-05-23T08:48:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.10/boot-parent-pom-0.24.10.jar returned status 404
+0.24.11		2026-06-12T08:42:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.11/boot-parent-pom-0.24.11.jar returned status 404
+0.24.12		2026-06-13T10:24:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.12/boot-parent-pom-0.24.12.jar returned status 404
 0.24.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.5/boot-parent-pom-0.24.5.jar returned status 404
 0.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.6/boot-parent-pom-0.24.6.jar returned status 404
 0.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iqkv/boot-parent-pom/0.24.7/boot-parent-pom-0.24.7.jar returned status 404

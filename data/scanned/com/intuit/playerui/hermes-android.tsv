@@ -39,5 +39,7 @@
 0.15.3-next.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.3-next.1/hermes-android-0.15.3-next.1.jar returned status 404
 0.15.3-next.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.3-next.2/hermes-android-0.15.3-next.2.jar returned status 404
 0.15.3-next.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.3-next.3/hermes-android-0.15.3-next.3.jar returned status 404
+0.15.4		2026-06-16T20:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.4/hermes-android-0.15.4.jar returned status 404
 0.15.4-next.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.4-next.0/hermes-android-0.15.4-next.0.jar returned status 404
 0.15.4-next.1		2026-05-21T16:20:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.4-next.1/hermes-android-0.15.4-next.1.jar returned status 404
+0.15.4-next.2		2026-06-16T19:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/hermes-android/0.15.4-next.2/hermes-android-0.15.4-next.2.jar returned status 404

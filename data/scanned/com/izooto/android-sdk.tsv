@@ -81,3 +81,4 @@
 3.4.4		2026-05-20T12:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/izooto/android-sdk/3.4.4/android-sdk-3.4.4.jar returned status 404
 3.4.5		2026-05-22T12:32:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/izooto/android-sdk/3.4.5/android-sdk-3.4.5.jar returned status 404
 3.5.0		2026-05-28T04:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/izooto/android-sdk/3.5.0/android-sdk-3.5.0.jar returned status 404
+3.5.1		2026-06-15T10:11:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/izooto/android-sdk/3.5.1/android-sdk-3.5.1.jar returned status 404

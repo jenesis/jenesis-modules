@@ -5141,6 +5141,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 2.0.4	named	io.orqueio.bpm	orqueio-engine-rest	2026-06-03T12:47:04Z	2.15.2
 8.700.24	named	com.yahoo.vespa	config-application-package	2026-06-04T11:09:36Z	2.21
 7.0.0	named	org.mock-server	mockserver-k8s-webhook	2026-06-06T16:30:48Z	2.22
+2.6.3	named	com.ibm.jsonata4java	JSONata4Java	2026-06-08T12:25:06Z	2.22
 8.702.91	named	com.yahoo.vespa	config-application-package	2026-06-09T02:06:32Z	2.21
 8.703.17	named	com.yahoo.vespa	config-application-package	2026-06-09T16:07:09Z	2.21
 1.2.37	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-06-11T10:40:30Z	2.17.0
