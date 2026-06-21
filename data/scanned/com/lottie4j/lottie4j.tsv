@@ -4,3 +4,4 @@
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lottie4j/lottie4j/1.2.1/lottie4j-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lottie4j/lottie4j/1.2.2/lottie4j-1.2.2.jar returned status 404
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lottie4j/lottie4j/1.2.3/lottie4j-1.2.3.jar returned status 404
+1.2.4		2026-06-15T11:45:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lottie4j/lottie4j/1.2.4/lottie4j-1.2.4.jar returned status 404

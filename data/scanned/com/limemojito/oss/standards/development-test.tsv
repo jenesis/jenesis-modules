@@ -26,6 +26,9 @@
 17.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.22/development-test-17.0.22.jar returned status 404
 17.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.23/development-test-17.0.23.jar returned status 404
 17.0.24		2026-05-26T00:27:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.24/development-test-17.0.24.jar returned status 404
+17.0.25		2026-06-01T19:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.25/development-test-17.0.25.jar returned status 404
+17.0.26		2026-06-08T18:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.26/development-test-17.0.26.jar returned status 404
+17.0.27		2026-06-15T19:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.27/development-test-17.0.27.jar returned status 404
 17.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.3/development-test-17.0.3.jar returned status 404
 17.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.4/development-test-17.0.4.jar returned status 404
 17.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/development-test/17.0.5/development-test-17.0.5.jar returned status 404

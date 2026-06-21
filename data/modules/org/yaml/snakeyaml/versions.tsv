@@ -1021,6 +1021,7 @@
 0.0.1-poc8	named	com.sparkutils	flow_testshade_17.3.dbr_4.0_2.13	2026-06-08T07:34:30Z	2.0
 0.0.1-poc8	named	com.sparkutils	flow_testshade_4.0.0.oss_4.0_2.13	2026-06-08T07:34:49Z	2.0
 0.0.1-poc8	named	com.sparkutils	flow_testshade_4.1.0.oss_4.1_2.13	2026-06-08T11:37:13Z	2.0
+1.0.0	named	com.liquibase	liquibase-mcp-changelog-server	2026-06-08T20:56:45Z	2.5
 26.04.5	named	com.nvidia	rapids-4-spark-tools_2.12	2026-06-09T08:36:23Z	2.0
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v2	2026-06-12T21:32:18Z	2.2
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v3	2026-06-12T21:32:54Z	2.2

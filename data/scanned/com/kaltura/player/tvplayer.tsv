@@ -52,3 +52,5 @@
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/player/tvplayer/5.0.5/tvplayer-5.0.5.jar returned status 404
 5.0.5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/player/tvplayer/5.0.5-rc1/tvplayer-5.0.5-rc1.jar returned status 404
 5.0.5-rc1-simid			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/player/tvplayer/5.0.5-rc1-simid/tvplayer-5.0.5-rc1-simid.jar returned status 404
+5.0.6-rc1		2026-06-11T06:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/player/tvplayer/5.0.6-rc1/tvplayer-5.0.6-rc1.jar returned status 404
+5.0.6-rc2		2026-06-17T13:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/player/tvplayer/5.0.6-rc2/tvplayer-5.0.6-rc2.jar returned status 404

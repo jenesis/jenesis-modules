@@ -6,3 +6,7 @@
 1.0.0-alpha03	metadata	2026-02-21T14:38:56Z	
 1.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kitakkun/jetwhale/jetwhale-protocol-core-macosarm64/1.0.0-alpha04/jetwhale-protocol-core-macosarm64-1.0.0-alpha04.jar returned status 404
 1.0.0-alpha04	metadata	2026-03-22T13:37:27Z	
+1.0.0-alpha05		2026-06-07T23:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kitakkun/jetwhale/jetwhale-protocol-core-macosarm64/1.0.0-alpha05/jetwhale-protocol-core-macosarm64-1.0.0-alpha05.jar returned status 404
+1.0.0-alpha05	metadata	2026-06-07T23:33:36Z	
+1.0.0-alpha06		2026-06-12T00:48:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kitakkun/jetwhale/jetwhale-protocol-core-macosarm64/1.0.0-alpha06/jetwhale-protocol-core-macosarm64-1.0.0-alpha06.jar returned status 404
+1.0.0-alpha06	metadata	2026-06-12T00:48:58Z	

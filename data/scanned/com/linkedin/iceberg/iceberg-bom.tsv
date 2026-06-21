@@ -2,6 +2,10 @@
 1.5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.1/iceberg-bom-1.5.2.1.jar returned status 404
 1.5.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.10/iceberg-bom-1.5.2.10.jar returned status 404
 1.5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.11/iceberg-bom-1.5.2.11.jar returned status 404
+1.5.2.12		2026-06-08T20:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.12/iceberg-bom-1.5.2.12.jar returned status 404
+1.5.2.13		2026-06-08T20:59:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.13/iceberg-bom-1.5.2.13.jar returned status 404
+1.5.2.14		2026-06-16T00:29:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.14/iceberg-bom-1.5.2.14.jar returned status 404
+1.5.2.15		2026-06-17T16:25:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.15/iceberg-bom-1.5.2.15.jar returned status 404
 1.5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.2/iceberg-bom-1.5.2.2.jar returned status 404
 1.5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.3/iceberg-bom-1.5.2.3.jar returned status 404
 1.5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkedin/iceberg/iceberg-bom/1.5.2.4/iceberg-bom-1.5.2.4.jar returned status 404
