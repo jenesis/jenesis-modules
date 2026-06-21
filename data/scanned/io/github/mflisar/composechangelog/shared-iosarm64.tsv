@@ -1,2 +1,4 @@
+4.0.0		2026-06-08T12:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composechangelog/shared-iosarm64/4.0.0/shared-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-06-08T12:34:49Z	
 4.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composechangelog/shared-iosarm64/4.0.0-alpha02/shared-iosarm64-4.0.0-alpha02.jar returned status 404
 4.0.0-alpha02	metadata	2026-04-09T07:37:53Z	

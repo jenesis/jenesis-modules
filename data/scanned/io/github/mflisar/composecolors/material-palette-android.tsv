@@ -1,3 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/material-palette-android/1.0.0/material-palette-android-1.0.0.jar returned status 404
 1.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/material-palette-android/1.0.0-alpha03/material-palette-android-1.0.0-alpha03.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/material-palette-android/1.0.1/material-palette-android-1.0.1.jar returned status 404
+2.0.0		2026-06-08T12:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/material-palette-android/2.0.0/material-palette-android-2.0.0.jar returned status 404

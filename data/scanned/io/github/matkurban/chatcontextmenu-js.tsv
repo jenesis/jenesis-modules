@@ -1,0 +1,4 @@
+1.0.0		2026-06-11T00:11:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matkurban/chatcontextmenu-js/1.0.0/chatcontextmenu-js-1.0.0.jar returned status 404
+1.0.1		2026-06-11T10:43:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matkurban/chatcontextmenu-js/1.0.1/chatcontextmenu-js-1.0.1.jar returned status 404
+1.0.2		2026-06-13T08:46:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matkurban/chatcontextmenu-js/1.0.2/chatcontextmenu-js-1.0.2.jar returned status 404
+1.0.3		2026-06-13T15:14:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matkurban/chatcontextmenu-js/1.0.3/chatcontextmenu-js-1.0.3.jar returned status 404

@@ -1,6 +1,9 @@
+10.0.0		2026-06-08T11:35:02Z	
 10.0.0-alpha01		2026-03-23T13:49:06Z	
 10.0.0-alpha02		2026-03-24T11:25:45Z	
 10.0.0-alpha03		2026-03-25T16:23:32Z	
+10.0.0-alpha04		2026-06-06T17:45:31Z	
+10.0.0-alpha05		2026-06-07T13:05:37Z	
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/extension-feedback/7.0.0/extension-feedback-7.0.0.jar returned status 404
 7.0.0-test05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/extension-feedback/7.0.0-test05/extension-feedback-7.0.0-test05.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/extension-feedback/7.0.1/extension-feedback-7.0.1.jar returned status 404

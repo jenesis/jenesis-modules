@@ -14,4 +14,5 @@
 1.0.1-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composethemer/themes-flatui-android/1.0.1-alpha01/themes-flatui-android-1.0.1-alpha01.jar returned status 404
 1.0.1-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composethemer/themes-flatui-android/1.0.1-alpha02/themes-flatui-android-1.0.1-alpha02.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composethemer/themes-flatui-android/1.0.2/themes-flatui-android-1.0.2.jar returned status 404
+2.0.0		2026-06-08T13:04:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composethemer/themes-flatui-android/2.0.0/themes-flatui-android-2.0.0.jar returned status 404
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composethemer/themes-flatui-android/2.0.0-alpha01/themes-flatui-android-2.0.0-alpha01.jar returned status 404

@@ -26,5 +26,6 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/2.0.1/encryption-aes-android-2.0.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/3.0.0/encryption-aes-android-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/3.0.1/encryption-aes-android-3.0.1.jar returned status 404
+4.0.0		2026-06-08T11:10:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/4.0.0/encryption-aes-android-4.0.0.jar returned status 404
 4.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/4.0.0-alpha01/encryption-aes-android-4.0.0-alpha01.jar returned status 404
 4.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/encryption-aes-android/4.0.0-alpha02/encryption-aes-android-4.0.0-alpha02.jar returned status 404

@@ -1,3 +1,5 @@
+4.0.0		2026-06-09T09:08:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0/ui-adaptive-iossimulatorarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-06-09T09:08:25Z	
 4.0.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0-alpha05/ui-adaptive-iossimulatorarm64-4.0.0-alpha05.jar returned status 404
 4.0.0-alpha05	metadata	2026-04-03T08:28:53Z	
 4.0.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0-alpha06/ui-adaptive-iossimulatorarm64-4.0.0-alpha06.jar returned status 404
@@ -18,3 +20,7 @@
 4.0.0-alpha13	metadata	2026-04-21T12:44:59Z	
 4.0.0-alpha14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0-alpha14/ui-adaptive-iossimulatorarm64-4.0.0-alpha14.jar returned status 404
 4.0.0-alpha14	metadata	2026-04-26T12:31:15Z	
+4.0.0-alpha16		2026-06-06T08:24:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0-alpha16/ui-adaptive-iossimulatorarm64-4.0.0-alpha16.jar returned status 404
+4.0.0-alpha16	metadata	2026-06-06T08:24:45Z	
+4.0.0-alpha17		2026-06-06T18:53:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/ui-adaptive-iossimulatorarm64/4.0.0-alpha17/ui-adaptive-iossimulatorarm64-4.0.0-alpha17.jar returned status 404
+4.0.0-alpha17	metadata	2026-06-06T18:53:06Z	

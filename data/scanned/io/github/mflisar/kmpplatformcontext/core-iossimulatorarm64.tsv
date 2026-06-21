@@ -8,3 +8,9 @@
 1.1.0-alpha02	metadata	2026-03-24T19:13:39Z	
 1.1.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kmpplatformcontext/core-iossimulatorarm64/1.1.0-alpha03/core-iossimulatorarm64-1.1.0-alpha03.jar returned status 404
 1.1.0-alpha03	metadata	2026-03-24T19:29:06Z	
+2.0.0		2026-06-08T10:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kmpplatformcontext/core-iossimulatorarm64/2.0.0/core-iossimulatorarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-08T10:04:11Z	
+2.0.1		2026-06-08T12:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kmpplatformcontext/core-iossimulatorarm64/2.0.1/core-iossimulatorarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-06-08T12:25:15Z	
+2.0.2		2026-06-09T07:40:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kmpplatformcontext/core-iossimulatorarm64/2.0.2/core-iossimulatorarm64-2.0.2.jar returned status 404
+2.0.2	metadata	2026-06-09T07:40:56Z	

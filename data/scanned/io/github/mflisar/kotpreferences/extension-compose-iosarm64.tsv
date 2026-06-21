@@ -50,6 +50,8 @@
 3.0.0	metadata	2025-10-28T11:31:41Z	
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/extension-compose-iosarm64/3.0.1/extension-compose-iosarm64-3.0.1.jar returned status 404
 3.0.1	metadata	2025-10-28T14:31:27Z	
+4.0.0		2026-06-08T11:10:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/extension-compose-iosarm64/4.0.0/extension-compose-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-06-08T11:10:42Z	
 4.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/extension-compose-iosarm64/4.0.0-alpha01/extension-compose-iosarm64-4.0.0-alpha01.jar returned status 404
 4.0.0-alpha01	metadata	2026-03-23T09:49:39Z	
 4.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/kotpreferences/extension-compose-iosarm64/4.0.0-alpha02/extension-compose-iosarm64-4.0.0-alpha02.jar returned status 404

@@ -4,3 +4,5 @@
 1.0.0-alpha03	metadata	2024-10-13T14:05:14Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/x11-palette-macosarm64/1.0.1/x11-palette-macosarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2024-10-20T08:25:00Z	
+2.0.0		2026-06-08T12:47:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composecolors/x11-palette-macosarm64/2.0.0/x11-palette-macosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-08T12:47:01Z	

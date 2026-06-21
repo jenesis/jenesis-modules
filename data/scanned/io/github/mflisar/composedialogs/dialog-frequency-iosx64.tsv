@@ -20,3 +20,5 @@
 4.0.0-alpha05	metadata	2026-04-08T05:30:17Z	
 4.0.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composedialogs/dialog-frequency-iosx64/4.0.0-alpha06/dialog-frequency-iosx64-4.0.0-alpha06.jar returned status 404
 4.0.0-alpha06	metadata	2026-04-10T10:57:44Z	
+4.0.0-alpha07		2026-06-05T11:52:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/composedialogs/dialog-frequency-iosx64/4.0.0-alpha07/dialog-frequency-iosx64-4.0.0-alpha07.jar returned status 404
+4.0.0-alpha07	metadata	2026-06-05T11:52:45Z	
