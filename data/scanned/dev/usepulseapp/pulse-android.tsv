@@ -1,0 +1,2 @@
+1.0.0		2026-06-11T13:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/usepulseapp/pulse-android/1.0.0/pulse-android-1.0.0.jar returned status 404
+1.1.0		2026-06-16T05:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/usepulseapp/pulse-android/1.1.0/pulse-android-1.1.0.jar returned status 404

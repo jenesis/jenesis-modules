@@ -149,3 +149,5 @@
 5.6.2	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-05-26T18:43:04Z	3.0.0
 4.19.3	named	org.apache.cassandra	java-driver-guava-shaded	2026-05-26T23:20:59Z	3.0.0
 5.7.0	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-05-27T13:32:29Z	3.0.0
+1.2.0	named	dev.zacsweers.metro	gradle-plugin	2026-06-10T15:50:59Z	3.1
+1.2.1	named	dev.zacsweers.metro	gradle-plugin	2026-06-12T02:40:08Z	3.1

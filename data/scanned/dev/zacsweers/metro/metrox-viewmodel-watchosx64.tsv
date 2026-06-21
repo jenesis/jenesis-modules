@@ -50,3 +50,7 @@
 1.1.0	metadata	2026-05-13T22:16:43Z	
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/metrox-viewmodel-watchosx64/1.1.1/metrox-viewmodel-watchosx64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-05-14T04:16:24Z	
+1.2.0		2026-06-10T15:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/metrox-viewmodel-watchosx64/1.2.0/metrox-viewmodel-watchosx64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-06-10T15:50:59Z	
+1.2.1		2026-06-12T02:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/metrox-viewmodel-watchosx64/1.2.1/metrox-viewmodel-watchosx64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-06-12T02:40:09Z	

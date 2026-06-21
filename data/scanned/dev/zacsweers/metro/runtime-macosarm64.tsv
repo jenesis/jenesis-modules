@@ -168,3 +168,7 @@
 1.1.0	metadata	2026-05-13T22:16:41Z	
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-macosarm64/1.1.1/runtime-macosarm64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-05-14T04:16:21Z	
+1.2.0		2026-06-10T15:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-macosarm64/1.2.0/runtime-macosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-06-10T15:50:59Z	
+1.2.1		2026-06-12T02:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-macosarm64/1.2.1/runtime-macosarm64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-06-12T02:40:06Z	
