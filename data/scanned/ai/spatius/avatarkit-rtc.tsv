@@ -1,0 +1,3 @@
+1.0.0-beta.1		2026-06-08T09:48:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit-rtc/1.0.0-beta.1/avatarkit-rtc-1.0.0-beta.1.jar returned status 404
+1.0.0-beta.2		2026-06-08T19:28:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit-rtc/1.0.0-beta.2/avatarkit-rtc-1.0.0-beta.2.jar returned status 404
+1.0.0-beta.3		2026-06-19T21:38:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/spatius/avatarkit-rtc/1.0.0-beta.3/avatarkit-rtc-1.0.0-beta.3.jar returned status 404

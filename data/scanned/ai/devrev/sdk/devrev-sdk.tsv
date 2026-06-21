@@ -36,3 +36,4 @@
 2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/devrev/sdk/devrev-sdk/2.3.5/devrev-sdk-2.3.5.jar returned status 404
 2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/devrev/sdk/devrev-sdk/2.3.6/devrev-sdk-2.3.6.jar returned status 404
 2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/devrev/sdk/devrev-sdk/2.3.7/devrev-sdk-2.3.7.jar returned status 404
+2.3.8		2026-06-02T09:14:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/devrev/sdk/devrev-sdk/2.3.8/devrev-sdk-2.3.8.jar returned status 404

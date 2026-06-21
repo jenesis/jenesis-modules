@@ -10,3 +10,4 @@
 2.0.3.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/prebid-core/2.0.3.30/prebid-core-2.0.3.30.jar returned status 404
 2.0.3.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/prebid-core/2.0.3.31/prebid-core-2.0.3.31.jar returned status 404
 2.0.3.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/prebid-core/2.0.3.32/prebid-core-2.0.3.32.jar returned status 404
+2.0.3.35		2026-06-05T18:45:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/prebid-core/2.0.3.35/prebid-core-2.0.3.35.jar returned status 404

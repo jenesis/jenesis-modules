@@ -14,3 +14,5 @@
 0.0.7	metadata	2026-05-04T11:54:17Z	
 0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-kmp-iosx64/0.0.8/luciq-kmp-iosx64-0.0.8.jar returned status 404
 0.0.8	metadata	2026-05-18T22:59:28Z	
+0.0.9		2026-06-03T14:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-kmp-iosx64/0.0.9/luciq-kmp-iosx64-0.0.9.jar returned status 404
+0.0.9	metadata	2026-06-03T14:26:14Z	

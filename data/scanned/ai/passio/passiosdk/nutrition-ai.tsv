@@ -39,3 +39,4 @@
 3.2.8-preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/passio/passiosdk/nutrition-ai/3.2.8-preview1/nutrition-ai-3.2.8-preview1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/passio/passiosdk/nutrition-ai/3.3.0/nutrition-ai-3.3.0.jar returned status 404
 3.3.0-preview0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/passio/passiosdk/nutrition-ai/3.3.0-preview0/nutrition-ai-3.3.0-preview0.jar returned status 404
+3.3.1		2026-06-03T14:03:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/passio/passiosdk/nutrition-ai/3.3.1/nutrition-ai-3.3.1.jar returned status 404

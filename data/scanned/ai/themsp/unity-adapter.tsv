@@ -60,3 +60,4 @@
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/unity-adapter/3.6.0/unity-adapter-3.6.0.jar returned status 404
 3.6.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/unity-adapter/3.6.0-dev/unity-adapter-3.6.0-dev.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/unity-adapter/3.6.1/unity-adapter-3.6.1.jar returned status 404
+4.0.0		2026-06-05T18:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/unity-adapter/4.0.0/unity-adapter-4.0.0.jar returned status 404

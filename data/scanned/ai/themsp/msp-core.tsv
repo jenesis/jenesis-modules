@@ -83,3 +83,4 @@
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/msp-core/3.6.0/msp-core-3.6.0.jar returned status 404
 3.6.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/msp-core/3.6.0-dev/msp-core-3.6.0-dev.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/msp-core/3.6.1/msp-core-3.6.1.jar returned status 404
+4.0.0		2026-06-05T18:45:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/msp-core/4.0.0/msp-core-4.0.0.jar returned status 404

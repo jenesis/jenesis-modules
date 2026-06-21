@@ -22,6 +22,10 @@
 1.0.121		2026-05-27T21:11:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.121/sdk-1.0.121.jar returned status 404
 1.0.122		2026-05-31T23:15:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.122/sdk-1.0.122.jar returned status 404
 1.0.123		2026-06-01T21:13:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.123/sdk-1.0.123.jar returned status 404
+1.0.124		2026-06-04T14:28:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.124/sdk-1.0.124.jar returned status 404
+1.0.125		2026-06-17T09:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.125/sdk-1.0.125.jar returned status 404
+1.0.126		2026-06-17T20:21:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.126/sdk-1.0.126.jar returned status 404
+1.0.127		2026-06-17T20:45:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.127/sdk-1.0.127.jar returned status 404
 1.0.84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.84/sdk-1.0.84.jar returned status 404
 1.0.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.85/sdk-1.0.85.jar returned status 404
 1.0.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kindly/sdk/1.0.86/sdk-1.0.86.jar returned status 404

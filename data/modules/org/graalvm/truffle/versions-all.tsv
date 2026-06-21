@@ -148,5 +148,7 @@
 0.2.0	named	sh.oso	kafka-connect-ai-connect	2026-03-20T11:54:15Z	
 0.2.8.1	named	org.opensearch.migrations.trafficcapture	RFS	2026-03-20T19:27:43Z	
 0.2.8.2	named	org.opensearch.migrations.trafficcapture	RFS	2026-03-31T20:29:34Z	
+2.6.0-looktech.1	named	ai.looktech	maestro-cli	2026-06-05T05:56:15Z	
+2.6.0-looktech.2	named	ai.looktech	maestro-cli	2026-06-05T07:12:06Z	
 0.8.0	named	io.knish	knishio-client-kotlin	2026-06-06T19:29:34Z	
 0.8.1	named	io.knish	knishio-client-kotlin	2026-06-15T15:06:15Z	

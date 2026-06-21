@@ -1,0 +1,2 @@
+3.1.1		2026-06-05T17:16:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shen/shenai-sdk/3.1.1/shenai-sdk-3.1.1.jar returned status 404
+3.1.2		2026-06-12T14:56:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shen/shenai-sdk/3.1.2/shenai-sdk-3.1.2.jar returned status 404

@@ -57,3 +57,4 @@
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/moloco-adapter/3.6.0/moloco-adapter-3.6.0.jar returned status 404
 3.6.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/moloco-adapter/3.6.0-dev/moloco-adapter-3.6.0-dev.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/moloco-adapter/3.6.1/moloco-adapter-3.6.1.jar returned status 404
+4.0.0		2026-06-05T18:48:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/moloco-adapter/4.0.0/moloco-adapter-4.0.0.jar returned status 404
