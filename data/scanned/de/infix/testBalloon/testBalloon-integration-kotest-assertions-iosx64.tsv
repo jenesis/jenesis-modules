@@ -152,9 +152,16 @@
 1.0.0-K2.3.0	metadata	2026-05-14T10:52:52Z	
 1.0.0-K2.3.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.0-K2.3.20/testBalloon-integration-kotest-assertions-iosx64-1.0.0-K2.3.20.jar returned status 404
 1.0.0-K2.3.20	metadata	2026-05-14T10:51:05Z	
+1.0.0-K2.4.0		2026-06-03T12:01:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.0-K2.4.0/testBalloon-integration-kotest-assertions-iosx64-1.0.0-K2.4.0.jar returned status 404
+1.0.0-K2.4.0	metadata	2026-06-03T12:01:52Z	
 1.0.0-K2.4.0-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.0-K2.4.0-Beta2/testBalloon-integration-kotest-assertions-iosx64-1.0.0-K2.4.0-Beta2.jar returned status 404
 1.0.0-K2.4.0-Beta2	metadata	2026-05-14T12:04:09Z	
+1.0.1-K2.0.0		2026-06-17T20:32:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.1-K2.0.0/testBalloon-integration-kotest-assertions-iosx64-1.0.1-K2.0.0.jar returned status 404
+1.0.1-K2.0.0	metadata	2026-06-17T20:32:16Z	
+1.0.1-K2.1.0		2026-06-17T20:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.1-K2.1.0/testBalloon-integration-kotest-assertions-iosx64-1.0.1-K2.1.0.jar returned status 404
+1.0.1-K2.1.0	metadata	2026-06-17T20:32:41Z	
 1.0.1-K2.1.20		2026-06-17T20:32:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.1-K2.1.20/testBalloon-integration-kotest-assertions-iosx64-1.0.1-K2.1.20.jar returned status 404
+1.0.1-K2.1.20	metadata	2026-06-17T20:32:54Z	
 1.0.1-K2.2.0		2026-06-17T20:34:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.1-K2.2.0/testBalloon-integration-kotest-assertions-iosx64-1.0.1-K2.2.0.jar returned status 404
 1.0.1-K2.2.0	metadata	2026-06-17T20:34:05Z	
 1.0.1-K2.2.21		2026-06-17T20:44:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-kotest-assertions-iosx64/1.0.1-K2.2.21/testBalloon-integration-kotest-assertions-iosx64-1.0.1-K2.2.21.jar returned status 404

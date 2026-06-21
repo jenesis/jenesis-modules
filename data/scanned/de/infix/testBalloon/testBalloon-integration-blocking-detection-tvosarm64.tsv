@@ -154,5 +154,23 @@
 1.0.0-K2.3.0	metadata	2026-05-14T10:52:50Z	
 1.0.0-K2.3.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.0-K2.3.20/testBalloon-integration-blocking-detection-tvosarm64-1.0.0-K2.3.20.jar returned status 404
 1.0.0-K2.3.20	metadata	2026-05-14T10:51:04Z	
+1.0.0-K2.4.0		2026-06-03T12:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.0-K2.4.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.0-K2.4.0.jar returned status 404
+1.0.0-K2.4.0	metadata	2026-06-03T12:01:56Z	
 1.0.0-K2.4.0-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.0-K2.4.0-Beta2/testBalloon-integration-blocking-detection-tvosarm64-1.0.0-K2.4.0-Beta2.jar returned status 404
 1.0.0-K2.4.0-Beta2	metadata	2026-05-14T12:04:06Z	
+1.0.1-K2.0.0		2026-06-17T20:32:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.0.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.0.0.jar returned status 404
+1.0.1-K2.0.0	metadata	2026-06-17T20:32:15Z	
+1.0.1-K2.1.0		2026-06-17T20:32:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.1.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.1.0.jar returned status 404
+1.0.1-K2.1.0	metadata	2026-06-17T20:32:39Z	
+1.0.1-K2.1.20		2026-06-17T20:32:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.1.20/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.1.20.jar returned status 404
+1.0.1-K2.1.20	metadata	2026-06-17T20:32:58Z	
+1.0.1-K2.2.0		2026-06-17T20:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.2.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.2.0.jar returned status 404
+1.0.1-K2.2.0	metadata	2026-06-17T20:34:02Z	
+1.0.1-K2.2.21		2026-06-17T20:44:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.2.21/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.2.21.jar returned status 404
+1.0.1-K2.2.21	metadata	2026-06-17T20:44:03Z	
+1.0.1-K2.3.0		2026-06-17T20:33:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.3.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.3.0.jar returned status 404
+1.0.1-K2.3.0	metadata	2026-06-17T20:33:59Z	
+1.0.1-K2.3.20		2026-06-17T20:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.3.20/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.3.20.jar returned status 404
+1.0.1-K2.3.20	metadata	2026-06-17T20:41:39Z	
+1.0.1-K2.4.0		2026-06-17T23:16:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-integration-blocking-detection-tvosarm64/1.0.1-K2.4.0/testBalloon-integration-blocking-detection-tvosarm64-1.0.1-K2.4.0.jar returned status 404
+1.0.1-K2.4.0	metadata	2026-06-17T23:16:37Z	

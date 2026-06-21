@@ -142,3 +142,4 @@
 8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.1/serverpackcreator-api-8.1.1.jar returned status 404
 8.1.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.1-beta.1/serverpackcreator-api-8.1.1-beta.1.jar returned status 404
 8.1.1-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.1-beta.2/serverpackcreator-api-8.1.1-beta.2.jar returned status 404
+8.1.2		2026-06-10T19:30:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.2/serverpackcreator-api-8.1.2.jar returned status 404
