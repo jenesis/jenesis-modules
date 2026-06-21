@@ -60,6 +60,8 @@
 32.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/32.0.0/tgbotapi.api-linuxx64-32.0.0.jar returned status 404
 33.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/33.0.0/tgbotapi.api-linuxx64-33.0.0.jar returned status 404
 33.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/33.1.0/tgbotapi.api-linuxx64-33.1.0.jar returned status 404
+33.2.0		2026-06-13T08:17:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/33.2.0/tgbotapi.api-linuxx64-33.2.0.jar returned status 404
+34.0.0		2026-06-13T08:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/34.0.0/tgbotapi.api-linuxx64-34.0.0.jar returned status 404
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/7.0.2/tgbotapi.api-linuxx64-7.0.2.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/7.1.0/tgbotapi.api-linuxx64-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.api-linuxx64/7.1.1/tgbotapi.api-linuxx64-7.1.1.jar returned status 404

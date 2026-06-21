@@ -1,2 +1,6 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-calendar-iosx64/2.0.0/grant-calendar-iosx64-2.0.0.jar returned status 404
 2.0.0	metadata	2026-05-15T02:00:11Z	
+2.1.0		2026-06-03T19:09:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-calendar-iosx64/2.1.0/grant-calendar-iosx64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-06-03T19:09:08Z	
+2.2.0		2026-06-08T04:06:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-calendar-iosx64/2.2.0/grant-calendar-iosx64-2.2.0.jar returned status 404
+2.2.0	metadata	2026-06-08T04:06:55Z	

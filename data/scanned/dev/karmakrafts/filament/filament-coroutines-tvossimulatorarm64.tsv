@@ -28,3 +28,5 @@
 2.1.0	metadata	2026-03-16T15:36:41Z	
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/filament/filament-coroutines-tvossimulatorarm64/2.1.1/filament-coroutines-tvossimulatorarm64-2.1.1.jar returned status 404
 2.1.1	metadata	2026-05-02T01:41:26Z	
+2.2.0		2026-06-06T17:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/filament/filament-coroutines-tvossimulatorarm64/2.2.0/filament-coroutines-tvossimulatorarm64-2.2.0.jar returned status 404
+2.2.0	metadata	2026-06-06T17:55:39Z	

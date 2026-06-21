@@ -1,0 +1,2 @@
+1.0.0		2026-06-09T12:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/garlandframework/garland/1.0.0/garland-1.0.0.jar returned status 404
+1.0.1		2026-06-15T11:02:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/garlandframework/garland/1.0.1/garland-1.0.1.jar returned status 404

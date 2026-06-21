@@ -123,6 +123,8 @@
 32.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/32.0.0/tgbotapi.behaviour_builder-js-32.0.0.jar returned status 404
 33.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/33.0.0/tgbotapi.behaviour_builder-js-33.0.0.jar returned status 404
 33.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/33.1.0/tgbotapi.behaviour_builder-js-33.1.0.jar returned status 404
+33.2.0		2026-06-13T08:17:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/33.2.0/tgbotapi.behaviour_builder-js-33.2.0.jar returned status 404
+34.0.0		2026-06-13T08:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/34.0.0/tgbotapi.behaviour_builder-js-34.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/4.0.0/tgbotapi.behaviour_builder-js-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/4.1.0/tgbotapi.behaviour_builder-js-4.1.0.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.behaviour_builder-js/4.1.1/tgbotapi.behaviour_builder-js-4.1.1.jar returned status 404
