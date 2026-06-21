@@ -41,3 +41,5 @@
 9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rafex/ether/parent/ether-parent/9.6.0/ether-parent-9.6.0.jar returned status 404
 9.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rafex/ether/parent/ether-parent/9.6.1/ether-parent-9.6.1.jar returned status 404
 9.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rafex/ether/parent/ether-parent/9.6.2/ether-parent-9.6.2.jar returned status 404
+9.6.3		2026-06-09T21:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rafex/ether/parent/ether-parent/9.6.3/ether-parent-9.6.3.jar returned status 404
+9.6.4		2026-06-09T22:06:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rafex/ether/parent/ether-parent/9.6.4/ether-parent-9.6.4.jar returned status 404

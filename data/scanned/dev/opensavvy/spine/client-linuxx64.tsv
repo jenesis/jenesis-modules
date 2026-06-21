@@ -1,5 +1,6 @@
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.10.0/client-linuxx64-0.10.0.jar returned status 404
 0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.10.1/client-linuxx64-0.10.1.jar returned status 404
+0.11.0		2026-06-09T20:07:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.11.0/client-linuxx64-0.11.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.4.1/client-linuxx64-0.4.1.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.5.0/client-linuxx64-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-linuxx64/0.5.1/client-linuxx64-0.5.1.jar returned status 404

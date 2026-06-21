@@ -4,3 +4,5 @@
 0.0.2	metadata	2026-02-22T22:58:08Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rnett/symbol-export/annotations-iosarm64/0.0.3/annotations-iosarm64-0.0.3.jar returned status 404
 0.0.3	metadata	2026-03-19T01:14:22Z	
+0.0.4		2026-06-11T03:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rnett/symbol-export/annotations-iosarm64/0.0.4/annotations-iosarm64-0.0.4.jar returned status 404
+0.0.4	metadata	2026-06-11T03:17:43Z	

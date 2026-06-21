@@ -6,6 +6,12 @@
 1.0.0-RC11	metadata	2026-05-05T15:01:47Z	
 1.0.0-RC12		2026-05-23T19:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC12/wiretap-core-iosarm64-1.0.0-RC12.jar returned status 404
 1.0.0-RC12	metadata	2026-05-23T19:25:28Z	
+1.0.0-RC13		2026-06-02T20:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC13/wiretap-core-iosarm64-1.0.0-RC13.jar returned status 404
+1.0.0-RC13	metadata	2026-06-02T20:50:06Z	
+1.0.0-RC14		2026-06-04T15:39:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC14/wiretap-core-iosarm64-1.0.0-RC14.jar returned status 404
+1.0.0-RC14	metadata	2026-06-04T15:39:04Z	
+1.0.0-RC15		2026-06-08T20:23:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC15/wiretap-core-iosarm64-1.0.0-RC15.jar returned status 404
+1.0.0-RC15	metadata	2026-06-08T20:23:05Z	
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC2/wiretap-core-iosarm64-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	metadata	2026-03-22T11:18:40Z	
 1.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-RC3/wiretap-core-iosarm64-1.0.0-RC3.jar returned status 404
