@@ -18,6 +18,8 @@
 2.12.1	metadata	2026-04-01T17:55:22Z	
 2.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/burst/burst-coroutines-iosx64/2.12.2/burst-coroutines-iosx64-2.12.2.jar returned status 404
 2.12.2	metadata	2026-04-08T01:49:22Z	
+2.13.0		2026-06-03T13:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/burst/burst-coroutines-iosx64/2.13.0/burst-coroutines-iosx64-2.13.0.jar returned status 404
+2.13.0	metadata	2026-06-03T13:25:32Z	
 2.13.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/burst/burst-coroutines-iosx64/2.13.0-beta1/burst-coroutines-iosx64-2.13.0-beta1.jar returned status 404
 2.13.0-beta1	metadata	2026-04-08T01:50:32Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/burst/burst-coroutines-iosx64/2.8.0/burst-coroutines-iosx64-2.8.0.jar returned status 404

@@ -3,3 +3,4 @@
 1.0.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/gifski/gifski/1.0.0-alpha06/gifski-1.0.0-alpha06.jar returned status 404
 1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/gifski/gifski/1.0.0-beta01/gifski-1.0.0-beta01.jar returned status 404
 1.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/gifski/gifski/1.0.0-beta02/gifski-1.0.0-beta02.jar returned status 404
+1.0.1		2026-06-18T02:45:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/gifski/gifski/1.0.1/gifski-1.0.1.jar returned status 404

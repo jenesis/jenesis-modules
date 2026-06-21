@@ -20,6 +20,8 @@
 0.12.1	metadata	2026-04-10T06:00:16Z	
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-iossimulatorarm64/0.13.0/supreme-iossimulatorarm64-0.13.0.jar returned status 404
 0.13.0	metadata	2026-04-13T20:12:52Z	
+0.14.0		2026-06-18T15:50:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-iossimulatorarm64/0.14.0/supreme-iossimulatorarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-06-18T15:50:54Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-iossimulatorarm64/0.2.0/supreme-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2024-09-04T22:19:42Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-iossimulatorarm64/0.3.0/supreme-iossimulatorarm64-0.3.0.jar returned status 404
