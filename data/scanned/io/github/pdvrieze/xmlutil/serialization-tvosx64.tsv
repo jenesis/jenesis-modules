@@ -46,3 +46,5 @@
 1.0.0-rc1	metadata	2025-12-23T16:54:35Z	
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/1.0.0-rc2/serialization-tvosx64-1.0.0-rc2.jar returned status 404
 1.0.0-rc2	metadata	2026-01-18T20:47:29Z	
+1.0.0-rc3		2026-06-06T20:25:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/1.0.0-rc3/serialization-tvosx64-1.0.0-rc3.jar returned status 404
+1.0.0-rc3	metadata	2026-06-06T20:25:00Z	

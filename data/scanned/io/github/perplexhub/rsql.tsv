@@ -3,3 +3,5 @@
 6.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/perplexhub/rsql/6.0.33/rsql-6.0.33.jar returned status 404
 6.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/perplexhub/rsql/6.0.34/rsql-6.0.34.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/perplexhub/rsql/7.0.0/rsql-7.0.0.jar returned status 404
+7.0.1		2026-06-03T01:18:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/perplexhub/rsql/7.0.1/rsql-7.0.1.jar returned status 404
+7.0.2		2026-06-12T03:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/perplexhub/rsql/7.0.2/rsql-7.0.2.jar returned status 404

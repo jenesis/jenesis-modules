@@ -43,4 +43,5 @@
 0.1.3		2026-05-24T10:21:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-android/0.1.3/komposeauth-shared-android-0.1.3.jar returned status 404
 0.1.4		2026-05-24T11:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-android/0.1.4/komposeauth-shared-android-0.1.4.jar returned status 404
 0.1.5		2026-05-24T11:41:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-android/0.1.5/komposeauth-shared-android-0.1.5.jar returned status 404
+0.2.0		2026-06-04T12:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-android/0.2.0/komposeauth-shared-android-0.2.0.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-android/unspecified/komposeauth-shared-android-unspecified.jar returned status 404

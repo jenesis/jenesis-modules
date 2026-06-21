@@ -40,4 +40,5 @@
 0.1.3		2026-05-24T10:21:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-js/0.1.3/komposeauth-shared-js-0.1.3.jar returned status 404
 0.1.4		2026-05-24T11:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-js/0.1.4/komposeauth-shared-js-0.1.4.jar returned status 404
 0.1.5		2026-05-24T11:41:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-js/0.1.5/komposeauth-shared-js-0.1.5.jar returned status 404
+0.2.0		2026-06-04T12:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-js/0.2.0/komposeauth-shared-js-0.2.0.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pitampoudel/komposeauth-shared-js/unspecified/komposeauth-shared-js-unspecified.jar returned status 404

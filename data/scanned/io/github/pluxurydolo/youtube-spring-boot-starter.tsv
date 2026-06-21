@@ -22,6 +22,18 @@
 12.0.0	plain	2026-05-18T17:18:09Z	
 13.0.0		2026-05-25T10:25:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/13.0.0/youtube-spring-boot-starter-13.0.0.jar returned status 404
 13.0.0	plain	2026-05-25T10:25:45Z	
+13.1.0		2026-06-02T18:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/13.1.0/youtube-spring-boot-starter-13.1.0.jar returned status 404
+13.1.0	plain	2026-06-02T18:12:30Z	
+13.2.0		2026-06-06T10:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/13.2.0/youtube-spring-boot-starter-13.2.0.jar returned status 404
+13.2.0	plain	2026-06-06T10:36:12Z	
+14.0.0		2026-06-12T12:46:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/14.0.0/youtube-spring-boot-starter-14.0.0.jar returned status 404
+14.0.0	plain	2026-06-12T12:46:39Z	
+15.0.0		2026-06-12T19:04:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/15.0.0/youtube-spring-boot-starter-15.0.0.jar returned status 404
+15.0.0	plain	2026-06-12T19:04:20Z	
+15.1.0		2026-06-13T13:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/15.1.0/youtube-spring-boot-starter-15.1.0.jar returned status 404
+15.1.0	plain	2026-06-13T13:21:28Z	
+15.2.0		2026-06-17T09:52:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/15.2.0/youtube-spring-boot-starter-15.2.0.jar returned status 404
+15.2.0	plain	2026-06-17T09:52:55Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/2.0.0/youtube-spring-boot-starter-2.0.0.jar returned status 404
 2.0.0	plain	2026-03-21T23:34:59Z	
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/youtube-spring-boot-starter/2.5.1/youtube-spring-boot-starter-2.5.1.jar returned status 404

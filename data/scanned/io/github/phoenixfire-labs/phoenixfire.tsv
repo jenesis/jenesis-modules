@@ -1,0 +1,2 @@
+0.5.1		2026-06-01T18:54:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phoenixfire-labs/phoenixfire/0.5.1/phoenixfire-0.5.1.jar returned status 404
+0.5.2		2026-06-01T19:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phoenixfire-labs/phoenixfire/0.5.2/phoenixfire-0.5.2.jar returned status 404

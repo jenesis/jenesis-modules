@@ -4,3 +4,4 @@
 5.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qhsword/langx/langx/5.8.1/langx-5.8.1.jar returned status 404
 5.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qhsword/langx/langx/5.8.2/langx-5.8.2.jar returned status 404
 5.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qhsword/langx/langx/5.8.3/langx-5.8.3.jar returned status 404
+5.8.4		2026-06-16T05:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qhsword/langx/langx/5.8.4/langx-5.8.4.jar returned status 404

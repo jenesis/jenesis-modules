@@ -14,3 +14,13 @@
 2.4.0	plain	2026-05-18T17:16:29Z	
 3.0.0		2026-05-25T10:23:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.0.0/persistent-scope-spring-boot-starter-3.0.0.jar returned status 404
 3.0.0	plain	2026-05-25T10:23:57Z	
+3.1.0		2026-06-02T18:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.1.0/persistent-scope-spring-boot-starter-3.1.0.jar returned status 404
+3.1.0	plain	2026-06-02T18:10:30Z	
+3.2.0		2026-06-06T10:34:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.2.0/persistent-scope-spring-boot-starter-3.2.0.jar returned status 404
+3.2.0	plain	2026-06-06T10:34:18Z	
+3.3.0		2026-06-12T12:03:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.3.0/persistent-scope-spring-boot-starter-3.3.0.jar returned status 404
+3.3.0	plain	2026-06-12T12:03:07Z	
+3.4.0		2026-06-13T13:15:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.4.0/persistent-scope-spring-boot-starter-3.4.0.jar returned status 404
+3.4.0	plain	2026-06-13T13:15:05Z	
+3.5.0		2026-06-17T09:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/persistent-scope-spring-boot-starter/3.5.0/persistent-scope-spring-boot-starter-3.5.0.jar returned status 404
+3.5.0	plain	2026-06-17T09:49:38Z	

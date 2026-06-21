@@ -1,2 +1,4 @@
+0.1.10		2026-06-16T19:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pjlabs/blockless-parent/0.1.10/blockless-parent-0.1.10.jar returned status 404
+0.1.11		2026-06-17T16:33:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pjlabs/blockless-parent/0.1.11/blockless-parent-0.1.11.jar returned status 404
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pjlabs/blockless-parent/0.1.8/blockless-parent-0.1.8.jar returned status 404
 0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pjlabs/blockless-parent/0.1.9/blockless-parent-0.1.9.jar returned status 404

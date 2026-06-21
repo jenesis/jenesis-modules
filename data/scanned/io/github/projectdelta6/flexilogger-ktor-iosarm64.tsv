@@ -4,3 +4,7 @@
 2.1.0	metadata	2026-02-05T11:10:46Z	
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectdelta6/flexilogger-ktor-iosarm64/2.1.1/flexilogger-ktor-iosarm64-2.1.1.jar returned status 404
 2.1.1	metadata	2026-04-24T09:15:53Z	
+2.1.2		2026-06-04T12:29:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectdelta6/flexilogger-ktor-iosarm64/2.1.2/flexilogger-ktor-iosarm64-2.1.2.jar returned status 404
+2.1.2	metadata	2026-06-04T12:29:09Z	
+2.1.3		2026-06-04T14:28:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectdelta6/flexilogger-ktor-iosarm64/2.1.3/flexilogger-ktor-iosarm64-2.1.3.jar returned status 404
+2.1.3	metadata	2026-06-04T14:28:05Z	

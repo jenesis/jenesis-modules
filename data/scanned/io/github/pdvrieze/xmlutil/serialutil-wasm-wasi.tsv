@@ -14,3 +14,4 @@
 0.91.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-wasm-wasi/0.91.3/serialutil-wasm-wasi-0.91.3.jar returned status 404
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-wasm-wasi/1.0.0-rc1/serialutil-wasm-wasi-1.0.0-rc1.jar returned status 404
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-wasm-wasi/1.0.0-rc2/serialutil-wasm-wasi-1.0.0-rc2.jar returned status 404
+1.0.0-rc3		2026-06-06T20:25:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-wasm-wasi/1.0.0-rc3/serialutil-wasm-wasi-1.0.0-rc3.jar returned status 404

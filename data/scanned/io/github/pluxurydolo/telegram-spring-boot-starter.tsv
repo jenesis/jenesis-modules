@@ -32,6 +32,16 @@
 10.0.0	plain	2026-05-18T17:17:22Z	
 11.0.0		2026-05-25T10:24:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.0.0/telegram-spring-boot-starter-11.0.0.jar returned status 404
 11.0.0	plain	2026-05-25T10:24:19Z	
+11.1.0		2026-06-02T18:11:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.1.0/telegram-spring-boot-starter-11.1.0.jar returned status 404
+11.1.0	plain	2026-06-02T18:11:00Z	
+11.2.0		2026-06-06T10:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.2.0/telegram-spring-boot-starter-11.2.0.jar returned status 404
+11.2.0	plain	2026-06-06T10:35:03Z	
+11.3.0		2026-06-12T12:04:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.3.0/telegram-spring-boot-starter-11.3.0.jar returned status 404
+11.3.0	plain	2026-06-12T12:04:26Z	
+11.4.0		2026-06-13T13:16:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.4.0/telegram-spring-boot-starter-11.4.0.jar returned status 404
+11.4.0	plain	2026-06-13T13:16:16Z	
+11.5.0		2026-06-17T09:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/11.5.0/telegram-spring-boot-starter-11.5.0.jar returned status 404
+11.5.0	plain	2026-06-17T09:50:55Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/2.0.1/telegram-spring-boot-starter-2.0.1.jar returned status 404
 2.0.1	plain	2026-03-22T01:24:25Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/telegram-spring-boot-starter/2.1.0/telegram-spring-boot-starter-2.1.0.jar returned status 404
