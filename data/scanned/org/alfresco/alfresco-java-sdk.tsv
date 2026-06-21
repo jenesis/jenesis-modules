@@ -1,0 +1,2 @@
+7.3.2		2026-06-04T14:00:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/alfresco-java-sdk/7.3.2/alfresco-java-sdk-7.3.2.jar returned status 404
+7.3.2-A.12		2026-06-04T13:39:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/alfresco-java-sdk/7.3.2-A.12/alfresco-java-sdk-7.3.2-A.12.jar returned status 404

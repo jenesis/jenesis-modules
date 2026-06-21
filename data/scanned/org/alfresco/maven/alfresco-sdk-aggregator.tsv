@@ -10,3 +10,4 @@
 4.13.0-A8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/maven/alfresco-sdk-aggregator/4.13.0-A8/alfresco-sdk-aggregator-4.13.0-A8.jar returned status 404
 4.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/maven/alfresco-sdk-aggregator/4.14.0/alfresco-sdk-aggregator-4.14.0.jar returned status 404
 4.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/maven/alfresco-sdk-aggregator/4.15.0/alfresco-sdk-aggregator-4.15.0.jar returned status 404
+4.16.0		2026-06-10T10:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfresco/maven/alfresco-sdk-aggregator/4.16.0/alfresco-sdk-aggregator-4.16.0.jar returned status 404

@@ -3865,3 +3865,13 @@ org.apache.beam.examples.complete.cdap.salesforce
 org.apache.beam.examples.complete.cdap.hubspot
 org.apache.beam.examples.complete.cdap
 org.apache.beam.examples
+org.altcha.altcha
+org.aesh.terminal.tty
+org.aesh.terminal.telnet
+org.aesh.terminal.ssh
+org.aesh.terminal.http
+org.aesh.terminal.detect
+org.aesh.terminal.api
+org.aesh.readline.api
+org.aesh.readline
+org.aesh.aesh
