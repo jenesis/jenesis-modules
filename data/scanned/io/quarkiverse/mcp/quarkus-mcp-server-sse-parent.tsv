@@ -19,10 +19,12 @@
 1.10.3		2026-03-12T13:28:57Z	
 1.10.4		2026-03-30T16:14:56Z	
 1.10.5		2026-04-08T11:24:34Z	
+1.10.6		2026-06-02T11:55:39Z	
 1.11.0		2026-03-25T11:52:10Z	
 1.11.1		2026-04-08T11:43:35Z	
 1.12.0		2026-04-21T16:43:22Z	
 1.12.1		2026-05-18T13:46:37Z	
+1.13.0		2026-06-04T13:00:05Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/mcp/quarkus-mcp-server-sse-parent/1.2.0/quarkus-mcp-server-sse-parent-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/mcp/quarkus-mcp-server-sse-parent/1.2.1/quarkus-mcp-server-sse-parent-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/mcp/quarkus-mcp-server-sse-parent/1.2.2/quarkus-mcp-server-sse-parent-1.2.2.jar returned status 404

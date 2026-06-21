@@ -32,3 +32,5 @@
 76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-web-deps-locker/76/code-quarkus-web-deps-locker-76.jar returned status 404
 77		2026-05-19T00:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-web-deps-locker/77/code-quarkus-web-deps-locker-77.jar returned status 404
 78		2026-05-20T00:59:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-web-deps-locker/78/code-quarkus-web-deps-locker-78.jar returned status 404
+79		2026-06-04T01:10:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-web-deps-locker/79/code-quarkus-web-deps-locker-79.jar returned status 404
+80		2026-06-08T08:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-web-deps-locker/80/code-quarkus-web-deps-locker-80.jar returned status 404

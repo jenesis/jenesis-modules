@@ -4420,3 +4420,17 @@ io.quarkus.launcher
 io.smallrye.mutiny
 io.quarkus.fs.util
 io.quarkus.dev.spi
+io.quarkus.core
+io.quarkus.commons.classloading
+io.quarkus.changeagent
+quarkus.klass.change.agent
+io.quarkus.bootstrap.runner
+io.quarkus.http.undertow.websockets.vertx
+io.quarkus.http.undertow.websockets.servlet
+io.quarkus.http.undertow.websockets
+io.quarkus.http.undertow.vertx
+io.quarkus.http.undertow.servlet
+io.quarkus.http.undertow.httpcore
+io.quarkus.http.undertow
+io.quarkus.arc
+com.langfuse.api

@@ -11,3 +11,6 @@
 3.35.4		2026-05-20T14:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.35.4/quarkus-flow-bom-3.35.4.jar returned status 404
 3.36.0		2026-05-27T07:15:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.36.0/quarkus-flow-bom-3.36.0.jar returned status 404
 3.36.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.36.0.CR1/quarkus-flow-bom-3.36.0.CR1.jar returned status 404
+3.36.1		2026-06-03T11:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.36.1/quarkus-flow-bom-3.36.1.jar returned status 404
+3.36.2		2026-06-11T09:39:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.36.2/quarkus-flow-bom-3.36.2.jar returned status 404
+3.37.0.CR1		2026-06-11T11:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-flow-bom/3.37.0.CR1/quarkus-flow-bom-3.37.0.CR1.jar returned status 404

@@ -11,6 +11,7 @@
 3.20.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.20.5/quarkus-datasource-parent-3.20.5.jar returned status 404
 3.20.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.20.6/quarkus-datasource-parent-3.20.6.jar returned status 404
 3.20.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.20.6.1/quarkus-datasource-parent-3.20.6.1.jar returned status 404
+3.20.6.2		2026-06-17T13:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.20.6.2/quarkus-datasource-parent-3.20.6.2.jar returned status 404
 3.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.23.1/quarkus-datasource-parent-3.23.1.jar returned status 404
 3.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.23.2/quarkus-datasource-parent-3.23.2.jar returned status 404
 3.23.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-datasource-parent/3.23.3/quarkus-datasource-parent-3.23.3.jar returned status 404

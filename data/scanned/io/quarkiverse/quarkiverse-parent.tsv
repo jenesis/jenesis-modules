@@ -2,3 +2,4 @@
 19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quarkiverse-parent/19/quarkiverse-parent-19.jar returned status 404
 20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quarkiverse-parent/20/quarkiverse-parent-20.jar returned status 404
 21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quarkiverse-parent/21/quarkiverse-parent-21.jar returned status 404
+22		2026-06-04T17:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quarkiverse-parent/22/quarkiverse-parent-22.jar returned status 404

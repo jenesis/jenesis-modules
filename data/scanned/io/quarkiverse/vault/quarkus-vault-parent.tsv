@@ -6,3 +6,4 @@
 4.5.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/vault/quarkus-vault-parent/4.5.0.CR1/quarkus-vault-parent-4.5.0.CR1.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/vault/quarkus-vault-parent/4.6.0/quarkus-vault-parent-4.6.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/vault/quarkus-vault-parent/4.7.0/quarkus-vault-parent-4.7.0.jar returned status 404
+4.8.0		2026-06-11T17:44:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/vault/quarkus-vault-parent/4.8.0/quarkus-vault-parent-4.8.0.jar returned status 404

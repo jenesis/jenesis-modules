@@ -1,0 +1,2 @@
+1.13.0		2026-06-04T13:00:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/mcp/quarkus-mcp-server-oidc-parent/1.13.0/quarkus-mcp-server-oidc-parent-1.13.0.jar returned status 404
+2.0.0.Beta1		2026-06-17T13:48:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/mcp/quarkus-mcp-server-oidc-parent/2.0.0.Beta1/quarkus-mcp-server-oidc-parent-2.0.0.Beta1.jar returned status 404
