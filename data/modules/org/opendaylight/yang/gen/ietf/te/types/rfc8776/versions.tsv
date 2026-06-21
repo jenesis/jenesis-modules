@@ -36,8 +36,8 @@
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-types	2025-09-09T22:24:29Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2025-09-11T07:13:46Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-types	2025-09-16T17:42:42Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-types	2025-10-15T19:30:20Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2025-10-15T15:53:59Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-types	2025-10-15T19:30:20Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2025-11-01T01:57:32Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-types	2025-12-05T17:42:46Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-01-12T11:17:03Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-03-12T15:36:41Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-03-20T07:20:37Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-03-25T11:36:55Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-06-09T15:16:11Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-types	2026-06-10T03:09:53Z	

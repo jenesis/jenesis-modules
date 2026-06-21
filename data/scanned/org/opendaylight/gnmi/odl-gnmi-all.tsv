@@ -1,1 +1,2 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/odl-gnmi-all/1.0.0/odl-gnmi-all-1.0.0.jar returned status 404
+3.0.0		2026-06-07T15:33:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/odl-gnmi-all/3.0.0/odl-gnmi-all-3.0.0.jar returned status 404

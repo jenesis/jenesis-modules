@@ -93,3 +93,4 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/binding-parent/0.23.0/binding-parent-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/binding-parent/0.23.1/binding-parent-0.23.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/binding-parent/1.0.0/binding-parent-1.0.0.jar returned status 404
+2.0.0		2026-06-01T10:59:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/binding-parent/2.0.0/binding-parent-2.0.0.jar returned status 404

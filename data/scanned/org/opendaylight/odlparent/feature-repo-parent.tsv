@@ -66,6 +66,9 @@
 14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.2.1/feature-repo-parent-14.2.1.jar returned status 404
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.3.0/feature-repo-parent-14.3.0.jar returned status 404
 14.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.3.2/feature-repo-parent-14.3.2.jar returned status 404
+14.3.4		2026-06-01T17:51:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.3.4/feature-repo-parent-14.3.4.jar returned status 404
+14.3.5		2026-06-02T13:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.3.5/feature-repo-parent-14.3.5.jar returned status 404
+14.3.6		2026-06-09T03:34:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/14.3.6/feature-repo-parent-14.3.6.jar returned status 404
 6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/6.0.12/feature-repo-parent-6.0.12.jar returned status 404
 6.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/6.0.13/feature-repo-parent-6.0.13.jar returned status 404
 7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/feature-repo-parent/7.0.10/feature-repo-parent-7.0.10.jar returned status 404

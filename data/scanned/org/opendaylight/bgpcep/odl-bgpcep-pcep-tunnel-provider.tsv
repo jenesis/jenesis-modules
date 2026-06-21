@@ -93,3 +93,4 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-pcep-tunnel-provider/0.23.0/odl-bgpcep-pcep-tunnel-provider-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-pcep-tunnel-provider/0.23.1/odl-bgpcep-pcep-tunnel-provider-0.23.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-pcep-tunnel-provider/1.0.0/odl-bgpcep-pcep-tunnel-provider-1.0.0.jar returned status 404
+2.0.0		2026-06-07T12:53:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-pcep-tunnel-provider/2.0.0/odl-bgpcep-pcep-tunnel-provider-2.0.0.jar returned status 404

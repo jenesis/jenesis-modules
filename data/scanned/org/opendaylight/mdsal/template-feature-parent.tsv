@@ -14,3 +14,4 @@
 15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/template-feature-parent/15.0.0/template-feature-parent-15.0.0.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/template-feature-parent/15.0.1/template-feature-parent-15.0.1.jar returned status 404
 15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/template-feature-parent/15.0.2/template-feature-parent-15.0.2.jar returned status 404
+15.0.7		2026-06-10T10:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/template-feature-parent/15.0.7/template-feature-parent-15.0.7.jar returned status 404

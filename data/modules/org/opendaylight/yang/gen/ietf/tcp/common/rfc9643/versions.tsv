@@ -13,8 +13,8 @@
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-common	2025-09-09T22:24:32Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2025-09-11T07:13:49Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-common	2025-09-16T17:42:45Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-common	2025-10-15T19:29:44Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2025-10-15T15:53:16Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-common	2025-10-15T19:29:44Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2025-11-01T01:56:45Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-common	2025-12-05T17:42:49Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-01-12T11:17:06Z	
@@ -23,3 +23,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-03-12T15:36:43Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-03-20T07:20:39Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-03-25T11:36:58Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-06-09T15:16:13Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-common	2026-06-10T03:09:55Z	

@@ -32,3 +32,4 @@
 22.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-openroadm-devices/22.2.0/odl-openroadm-devices-22.2.0.jar returned status 404
 23.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-openroadm-devices/23.0.0/odl-openroadm-devices-23.0.0.jar returned status 404
 23.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-openroadm-devices/23.0.1/odl-openroadm-devices-23.0.1.jar returned status 404
+24.0.1		2026-06-07T15:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-openroadm-devices/24.0.1/odl-openroadm-devices-24.0.1.jar returned status 404

@@ -36,45 +36,45 @@
 6.0.5	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-09-22T06:55:26Z	
 7.0.0	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-10-09T15:30:13Z	
 6.0.6	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-10-12T08:41:41Z	
-8.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-06-25T16:37:17Z	8.0.0
-5.0.16	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-13T07:15:57Z	
-5.0.15	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-11T17:42:16Z	
-7.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-05-06T09:19:11Z	7.0.7
-7.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-15T09:59:51Z	7.0.2
-7.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-07-07T12:36:10Z	7.0.8
-7.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2020-12-19T13:48:23Z	7.0.3
-8.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-07-24T21:38:37Z	8.0.1
-7.0.4	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-08T12:23:01Z	7.0.4
-7.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-11T14:21:03Z	7.0.9
-6.0.9	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-03-01T12:27:13Z	
-6.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-08T18:01:39Z	
-6.0.11	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-12T22:32:52Z	
-6.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-10-22T11:49:53Z	
-6.0.10	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-05-18T08:15:24Z	
-7.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-25T15:55:44Z	7.0.5
-8.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-20T10:00:39Z	8.0.2
-7.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-02-24T20:20:07Z	7.0.6
-8.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-23T20:23:24Z	8.0.3
 7.0.1	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-10-19T11:22:40Z	
+6.0.7	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-10-22T11:49:53Z	
+5.0.15	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-11T17:42:16Z	
+5.0.16	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-13T07:15:57Z	
+7.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2020-11-15T09:59:51Z	7.0.2
+7.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2020-12-19T13:48:23Z	7.0.3
+7.0.4	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-08T12:23:01Z	7.0.4
+6.0.8	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-08T18:01:39Z	
+7.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-01-25T15:55:44Z	7.0.5
+7.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-02-24T20:20:07Z	7.0.6
+6.0.9	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-03-01T12:27:13Z	
 5.0.17	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-04-19T07:05:09Z	
+7.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-05-06T09:19:11Z	7.0.7
+6.0.10	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-05-18T08:15:24Z	
+8.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-06-25T16:37:17Z	8.0.0
+7.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-07-07T12:36:10Z	7.0.8
+8.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-07-24T21:38:37Z	8.0.1
+7.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-11T14:21:03Z	7.0.9
+6.0.11	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-12T22:32:52Z	
+8.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-20T10:00:39Z	8.0.2
+8.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-23T20:23:24Z	8.0.3
 8.0.4	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-08-24T14:30:10Z	8.0.4
 8.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-09-12T10:06:37Z	8.0.5
-7.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-10-20T12:30:42Z	7.0.10
 6.0.12	automatic	org.opendaylight.mdsal	mdsal-binding-spi	2021-10-19T22:06:47Z	
+7.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-10-20T12:30:42Z	7.0.10
 8.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-10-20T22:34:36Z	8.0.6
 8.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-10-26T21:02:06Z	8.0.7
-8.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-12-24T23:01:16Z	8.0.8
 7.0.11	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-12-24T13:02:00Z	7.0.11
+8.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2021-12-24T23:01:16Z	8.0.8
 7.0.12	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-09T08:19:16Z	7.0.12
 8.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-10T12:04:59Z	8.0.9
-8.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-19T09:41:49Z	8.0.10
 7.0.13	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-19T09:24:52Z	7.0.13
+8.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-19T09:41:49Z	8.0.10
 7.0.14	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-01-26T13:15:53Z	7.0.14
 8.0.11	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-02-14T01:04:30Z	8.0.11
 8.0.12	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-02-18T09:03:48Z	8.0.12
 8.0.13	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-03-13T09:37:48Z	8.0.13
-9.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-03-25T11:00:50Z	9.0.1
 9.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-03-20T12:33:07Z	9.0.0
+9.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-03-25T11:00:50Z	9.0.1
 9.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-04-14T08:13:31Z	9.0.2
 9.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-05-11T12:43:20Z	9.0.3
 8.0.14	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-05-14T10:12:07Z	8.0.14
@@ -84,14 +84,14 @@
 10.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-08-18T08:44:31Z	10.0.1
 9.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-08-20T14:24:17Z	9.0.5
 10.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-09-14T13:06:28Z	10.0.2
-9.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-10-28T18:32:29Z	9.0.6
 8.0.16	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-10-28T18:23:28Z	8.0.16
+9.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-10-28T18:32:29Z	9.0.6
 10.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-11-04T20:37:36Z	10.0.3
 11.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-11-25T17:21:55Z	11.0.0
 11.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-11-28T18:24:19Z	11.0.1
 10.0.4	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-11-28T19:10:49Z	10.0.4
-10.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-12-03T18:36:49Z	10.0.5
 9.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-11-28T19:12:31Z	9.0.7
+10.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-12-03T18:36:49Z	10.0.5
 11.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-12-04T16:34:42Z	11.0.2
 11.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2022-12-18T10:50:19Z	11.0.3
 10.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-01-01T15:54:10Z	10.0.6
@@ -101,8 +101,8 @@
 11.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-02-23T10:30:45Z	11.0.7
 9.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-03-16T13:14:56Z	9.0.8
 10.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-04-11T22:57:37Z	10.0.7
-11.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-04-20T15:39:23Z	11.0.9
 11.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-04-17T09:36:01Z	11.0.8
+11.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-04-20T15:39:23Z	11.0.9
 11.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-05-27T11:46:01Z	11.0.10
 10.0.8	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-05-29T21:12:36Z	10.0.8
 11.0.11	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-06-07T15:25:50Z	11.0.11
@@ -111,8 +111,8 @@
 12.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-08-30T15:19:30Z	12.0.1
 12.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-09-17T09:48:03Z	12.0.2
 11.0.13	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-09T21:51:48Z	11.0.13
-11.0.15	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-25T00:56:01Z	11.0.15
 11.0.14	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-23T10:50:47Z	11.0.14
+11.0.15	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-25T00:56:01Z	11.0.15
 10.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-30T14:16:32Z	10.0.9
 12.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-10-30T18:29:18Z	12.0.3
 12.0.4	named	org.opendaylight.mdsal	mdsal-binding-spi	2023-12-28T12:12:25Z	12.0.4
@@ -126,8 +126,8 @@
 12.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-06-03T22:33:48Z	12.0.6
 14.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-07-26T08:16:53Z	14.0.0
 14.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-07-28T15:16:27Z	14.0.1
-13.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-08-30T15:52:11Z	13.0.6
 13.0.5	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-08-25T16:32:38Z	13.0.5
+13.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-08-30T15:52:11Z	13.0.6
 14.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-09-02T13:24:07Z	14.0.2
 12.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-10-08T13:48:27Z	12.0.7
 14.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2024-10-11T13:24:15Z	14.0.3
@@ -142,14 +142,14 @@
 14.0.11	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-03-08T07:11:53Z	14.0.11
 14.0.12	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-04-19T16:17:05Z	14.0.12
 14.0.13	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-06-10T16:31:13Z	14.0.13
-13.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-07-14T20:07:11Z	13.0.10
 13.0.9	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-07-13T17:16:37Z	13.0.9
+13.0.10	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-07-14T20:07:11Z	13.0.10
 14.0.14	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-08-07T23:35:29Z	14.0.14
 14.0.15	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-08-13T14:38:30Z	14.0.15
 14.0.16	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-09-04T12:33:04Z	14.0.16
 14.0.17	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-09-09T22:27:28Z	14.0.17
-15.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-09-20T11:01:02Z	15.0.0
 14.0.18	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-09-16T17:45:25Z	14.0.18
+15.0.0	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-09-20T11:01:02Z	15.0.0
 15.0.1	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-10-15T19:05:58Z	15.0.1
 14.0.19	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-10-15T19:28:26Z	14.0.19
 15.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2025-11-02T13:18:03Z	15.0.2
@@ -161,3 +161,4 @@
 16.0.2	named	org.opendaylight.mdsal	mdsal-binding-spi	2026-03-20T12:30:12Z	16.0.2
 15.0.6	named	org.opendaylight.mdsal	mdsal-binding-spi	2026-03-20T12:32:03Z	15.0.6
 16.0.3	named	org.opendaylight.mdsal	mdsal-binding-spi	2026-03-25T17:04:53Z	16.0.3
+15.0.7	named	org.opendaylight.mdsal	mdsal-binding-spi	2026-06-10T10:00:54Z	15.0.7

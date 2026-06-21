@@ -12,8 +12,8 @@
 14.0.4	named	org.opendaylight.mdsal	mdsal-singleton-api	2024-10-21T07:45:55Z	14.0.4
 13.0.7	named	org.opendaylight.mdsal	mdsal-singleton-api	2024-11-11T13:58:12Z	13.0.7
 14.0.6	named	org.opendaylight.mdsal	mdsal-singleton-api	2024-11-30T08:16:12Z	14.0.6
-13.0.8	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-01-28T19:38:13Z	13.0.8
 14.0.8	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-01-28T13:46:30Z	14.0.8
+13.0.8	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-01-28T19:38:13Z	13.0.8
 14.0.9	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-02-08T21:07:01Z	14.0.9
 14.0.10	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-02-25T21:06:40Z	14.0.10
 14.0.11	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-03-08T07:12:02Z	14.0.11
@@ -25,10 +25,10 @@
 14.0.15	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-08-13T14:38:46Z	14.0.15
 14.0.16	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-09-04T12:33:57Z	14.0.16
 14.0.17	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-09-09T22:28:03Z	14.0.17
-15.0.0	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-09-20T11:01:30Z	15.0.0
 14.0.18	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-09-16T17:45:57Z	14.0.18
-14.0.19	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-10-15T19:28:11Z	14.0.19
+15.0.0	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-09-20T11:01:30Z	15.0.0
 15.0.1	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-10-15T19:05:43Z	15.0.1
+14.0.19	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-10-15T19:28:11Z	14.0.19
 15.0.2	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-11-02T13:17:46Z	15.0.2
 14.0.20	named	org.opendaylight.mdsal	mdsal-singleton-api	2025-12-05T17:46:37Z	14.0.20
 15.0.3	named	org.opendaylight.mdsal	mdsal-singleton-api	2026-01-15T08:48:49Z	15.0.3
@@ -38,3 +38,4 @@
 16.0.2	named	org.opendaylight.mdsal	mdsal-singleton-api	2026-03-20T12:30:41Z	16.0.2
 15.0.6	named	org.opendaylight.mdsal	mdsal-singleton-api	2026-03-20T12:32:29Z	15.0.6
 16.0.3	named	org.opendaylight.mdsal	mdsal-singleton-api	2026-03-25T17:05:18Z	16.0.3
+15.0.7	named	org.opendaylight.mdsal	mdsal-singleton-api	2026-06-10T10:01:17Z	15.0.7

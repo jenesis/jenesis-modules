@@ -49,3 +49,6 @@
 14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.2.1/odl-apache-spifly-14.2.1.jar returned status 404
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.3.0/odl-apache-spifly-14.3.0.jar returned status 404
 14.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.3.2/odl-apache-spifly-14.3.2.jar returned status 404
+14.3.4		2026-06-07T14:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.3.4/odl-apache-spifly-14.3.4.jar returned status 404
+14.3.5		2026-06-07T14:46:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.3.5/odl-apache-spifly-14.3.5.jar returned status 404
+14.3.6		2026-06-14T18:24:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-apache-spifly/14.3.6/odl-apache-spifly-14.3.6.jar returned status 404

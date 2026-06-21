@@ -66,6 +66,9 @@
 14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.2.1/odl-karaf-feat-jdbc-14.2.1.jar returned status 404
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.3.0/odl-karaf-feat-jdbc-14.3.0.jar returned status 404
 14.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.3.2/odl-karaf-feat-jdbc-14.3.2.jar returned status 404
+14.3.4		2026-06-07T14:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.3.4/odl-karaf-feat-jdbc-14.3.4.jar returned status 404
+14.3.5		2026-06-07T14:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.3.5/odl-karaf-feat-jdbc-14.3.5.jar returned status 404
+14.3.6		2026-06-14T18:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/14.3.6/odl-karaf-feat-jdbc-14.3.6.jar returned status 404
 6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/6.0.12/odl-karaf-feat-jdbc-6.0.12.jar returned status 404
 6.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/6.0.13/odl-karaf-feat-jdbc-6.0.13.jar returned status 404
 7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-jdbc/7.0.10/odl-karaf-feat-jdbc-7.0.10.jar returned status 404

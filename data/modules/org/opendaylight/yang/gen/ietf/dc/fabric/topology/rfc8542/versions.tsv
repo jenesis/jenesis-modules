@@ -8,15 +8,15 @@
 12.0.5	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-03-19T08:48:46Z	
 13.0.2	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-04-16T10:22:24Z	
 13.0.3	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-05-05T04:13:04Z	
-12.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-06-03T22:33:39Z	
 13.0.4	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-06-03T16:21:40Z	
+12.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-06-03T22:33:39Z	
 14.0.0	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-07-26T08:16:37Z	
 14.0.1	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-07-28T15:16:12Z	
 13.0.5	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-08-25T16:32:30Z	
 13.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-08-30T15:52:05Z	
 14.0.2	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-09-02T13:23:47Z	
-14.0.3	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-10-11T13:23:46Z	
 12.0.7	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-10-08T13:48:17Z	
+14.0.3	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-10-11T13:23:46Z	
 12.0.8	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-10-18T08:39:00Z	
 14.0.4	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-10-21T07:45:34Z	
 13.0.7	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2024-11-11T13:58:02Z	
@@ -36,8 +36,8 @@
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2025-09-09T22:25:33Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2025-09-11T07:15:03Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2025-09-16T17:43:42Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2025-10-15T19:28:53Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2025-10-15T15:52:13Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2025-10-15T19:28:53Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2025-11-01T01:55:48Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8542-ietf-dc-fabric-topology	2025-12-05T17:43:59Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-01-12T11:18:06Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-03-12T15:37:40Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-03-20T07:21:46Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-03-25T11:38:01Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-06-09T15:17:04Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8542-ietf-dc-fabric-topology	2026-06-10T03:10:47Z	

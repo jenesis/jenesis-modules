@@ -7,3 +7,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octri/authentication/authentication_lib_parent/4.0.0/authentication_lib_parent-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octri/authentication/authentication_lib_parent/4.1.0/authentication_lib_parent-4.1.0.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octri/authentication/authentication_lib_parent/4.1.1/authentication_lib_parent-4.1.1.jar returned status 404
+4.2.0		2026-05-29T17:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octri/authentication/authentication_lib_parent/4.2.0/authentication_lib_parent-4.2.0.jar returned status 404

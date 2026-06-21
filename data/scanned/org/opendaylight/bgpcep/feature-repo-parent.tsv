@@ -93,3 +93,4 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/feature-repo-parent/0.23.0/feature-repo-parent-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/feature-repo-parent/0.23.1/feature-repo-parent-0.23.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/feature-repo-parent/1.0.0/feature-repo-parent-1.0.0.jar returned status 404
+2.0.0		2026-06-01T10:59:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/feature-repo-parent/2.0.0/feature-repo-parent-2.0.0.jar returned status 404

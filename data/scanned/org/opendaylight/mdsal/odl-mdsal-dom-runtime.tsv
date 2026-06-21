@@ -67,6 +67,7 @@
 15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/15.0.0/odl-mdsal-dom-runtime-15.0.0.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/15.0.1/odl-mdsal-dom-runtime-15.0.1.jar returned status 404
 15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/15.0.2/odl-mdsal-dom-runtime-15.0.2.jar returned status 404
+15.0.7		2026-06-14T17:53:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/15.0.7/odl-mdsal-dom-runtime-15.0.7.jar returned status 404
 6.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/6.0.10/odl-mdsal-dom-runtime-6.0.10.jar returned status 404
 6.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/6.0.11/odl-mdsal-dom-runtime-6.0.11.jar returned status 404
 6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-dom-runtime/6.0.12/odl-mdsal-dom-runtime-6.0.12.jar returned status 404

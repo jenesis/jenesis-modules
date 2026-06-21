@@ -4199,5 +4199,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.21.4	named	com.fasterxml.jackson.core	jackson-databind	2026-05-29T04:22:05Z	2.21.4
 1.1.0	named	com.airbnb.viaduct	runtime	2026-05-29T18:35:43Z	2.17.3
 2.22.0	named	com.fasterxml.jackson.core	jackson-databind	2026-06-01T00:09:53Z	2.22.0
+2.0.9	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-11T01:39:52Z	2.20.1
 0.1.0	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T08:58:16Z	2.17.2
 0.1.1	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T10:42:25Z	2.17.2

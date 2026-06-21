@@ -12,8 +12,8 @@
 12.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-06-03T22:33:30Z	
 14.0.0	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-07-26T08:16:40Z	
 14.0.1	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-07-28T15:16:15Z	
-13.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-08-30T15:51:59Z	
 13.0.5	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-08-25T16:32:23Z	
+13.0.6	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-08-30T15:51:59Z	
 14.0.2	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-09-02T13:23:51Z	
 12.0.7	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-10-08T13:48:10Z	
 14.0.3	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2024-10-11T13:23:56Z	
@@ -28,16 +28,16 @@
 14.0.11	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-03-08T07:11:29Z	
 14.0.12	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-04-19T16:15:27Z	
 14.0.13	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-06-10T16:30:35Z	
-13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-07-14T20:06:53Z	
 13.0.9	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-07-13T17:16:20Z	
+13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-07-14T20:06:53Z	
 14.0.14	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-08-07T23:34:56Z	
 14.0.15	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-08-13T14:37:44Z	
 14.0.16	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-09-04T12:31:32Z	
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-09-09T22:25:39Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8344	2025-09-11T07:15:16Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-09-16T17:43:48Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-10-15T19:29:35Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8344	2025-10-15T15:53:08Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-10-15T19:29:35Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8344	2025-11-01T01:56:34Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8344	2025-12-05T17:44:05Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8344	2026-01-12T11:18:14Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8344	2026-03-12T15:37:48Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8344	2026-03-20T07:21:55Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8344	2026-03-25T11:38:10Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8344	2026-06-09T15:17:11Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8344	2026-06-10T03:10:55Z	

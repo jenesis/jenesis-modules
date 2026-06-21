@@ -8,10 +8,10 @@
 9.0.6	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-10-28T18:32:25Z	
 10.0.3	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-04T20:37:33Z	
 11.0.0	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-25T17:21:51Z	
-9.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-28T19:12:28Z	
 11.0.1	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-28T18:24:15Z	
-10.0.5	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-12-03T18:36:45Z	
 10.0.4	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-28T19:10:46Z	
+9.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-11-28T19:12:28Z	
+10.0.5	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-12-03T18:36:45Z	
 11.0.2	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-12-04T16:34:38Z	
 11.0.3	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2022-12-18T10:50:14Z	
 10.0.6	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-01-01T15:54:05Z	
@@ -21,8 +21,8 @@
 11.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-02-23T10:30:40Z	
 9.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-03-16T13:14:53Z	
 10.0.7	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-04-11T22:57:33Z	
-11.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-04-20T15:39:18Z	
 11.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-04-17T09:35:56Z	
+11.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-04-20T15:39:18Z	
 11.0.10	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-05-27T11:45:56Z	
 10.0.8	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-05-29T21:12:32Z	
 11.0.11	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-06-07T15:25:46Z	
@@ -31,10 +31,10 @@
 12.0.1	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-08-30T15:19:26Z	12.0.1
 12.0.2	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-09-17T09:47:59Z	12.0.2
 11.0.13	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-09T21:51:44Z	
-11.0.15	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-25T00:55:55Z	
 11.0.14	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-23T10:50:42Z	
-12.0.3	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-30T18:29:15Z	12.0.3
+11.0.15	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-25T00:55:55Z	
 10.0.9	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-30T14:16:28Z	
+12.0.3	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-10-30T18:29:15Z	12.0.3
 12.0.4	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2023-12-28T12:12:22Z	12.0.4
 13.0.0	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-01-20T13:53:04Z	13.0.0
 13.0.1	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-03-14T06:24:01Z	13.0.1
@@ -42,8 +42,8 @@
 13.0.2	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-04-16T10:22:30Z	13.0.2
 11.0.16	automatic	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-04-24T15:41:56Z	
 13.0.3	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-05-05T04:13:10Z	13.0.3
-12.0.6	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-06-03T22:33:45Z	12.0.6
 13.0.4	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-06-03T16:21:43Z	13.0.4
+12.0.6	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-06-03T22:33:45Z	12.0.6
 14.0.0	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-07-26T08:16:54Z	14.0.0
 14.0.1	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-07-28T15:16:28Z	14.0.1
 13.0.5	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2024-08-25T16:32:35Z	13.0.5
@@ -81,3 +81,4 @@
 16.0.2	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2026-03-20T12:29:36Z	16.0.2
 15.0.6	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2026-03-20T12:31:25Z	15.0.6
 16.0.3	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2026-03-25T17:04:13Z	16.0.3
+15.0.7	named	org.opendaylight.mdsal	mdsal-dom-schema-osgi	2026-06-10T10:00:25Z	15.0.7

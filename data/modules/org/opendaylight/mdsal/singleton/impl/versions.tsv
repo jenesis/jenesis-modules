@@ -5,8 +5,8 @@
 13.0.4	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-06-03T16:21:48Z	13.0.4
 14.0.0	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-07-26T08:16:52Z	14.0.0
 14.0.1	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-07-28T15:16:26Z	14.0.1
-13.0.6	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-08-30T15:52:14Z	13.0.6
 13.0.5	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-08-25T16:32:41Z	13.0.5
+13.0.6	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-08-30T15:52:14Z	13.0.6
 14.0.2	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-09-02T13:24:05Z	14.0.2
 14.0.3	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-10-11T13:24:14Z	14.0.3
 14.0.4	named	org.opendaylight.mdsal	mdsal-singleton-impl	2024-10-21T07:45:52Z	14.0.4
@@ -19,14 +19,14 @@
 14.0.11	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-03-08T07:11:55Z	14.0.11
 14.0.12	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-04-19T16:17:16Z	14.0.12
 14.0.13	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-06-10T16:31:16Z	14.0.13
-13.0.10	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-07-14T20:07:14Z	13.0.10
 13.0.9	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-07-13T17:16:40Z	13.0.9
+13.0.10	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-07-14T20:07:14Z	13.0.10
 14.0.14	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-08-07T23:35:32Z	14.0.14
 14.0.15	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-08-13T14:38:35Z	14.0.15
 14.0.16	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-09-04T12:33:36Z	14.0.16
 14.0.17	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-09-09T22:27:41Z	14.0.17
-15.0.0	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-09-20T11:01:11Z	15.0.0
 14.0.18	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-09-16T17:45:36Z	14.0.18
+15.0.0	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-09-20T11:01:11Z	15.0.0
 15.0.1	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-10-15T19:05:23Z	15.0.1
 14.0.19	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-10-15T19:26:59Z	14.0.19
 15.0.2	named	org.opendaylight.mdsal	mdsal-singleton-impl	2025-11-02T13:17:28Z	15.0.2
@@ -38,3 +38,4 @@
 16.0.2	named	org.opendaylight.mdsal	mdsal-singleton-impl	2026-03-20T12:30:21Z	16.0.2
 15.0.6	named	org.opendaylight.mdsal	mdsal-singleton-impl	2026-03-20T12:32:11Z	15.0.6
 16.0.3	named	org.opendaylight.mdsal	mdsal-singleton-impl	2026-03-25T17:05:01Z	16.0.3
+15.0.7	named	org.opendaylight.mdsal	mdsal-singleton-impl	2026-06-10T10:01:01Z	15.0.7

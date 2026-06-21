@@ -549,3 +549,6 @@ unspecified	named	com.mineplex.studio.sdk	relocated-yaml	2025-03-20T06:58:01Z	2.
 2.0.0	named	io.github.dhruvrawatdev	expressify	2026-05-28T07:45:53Z	2.21.3
 2.1.0	named	io.github.dhruvrawatdev	expressify	2026-05-28T13:21:38Z	2.21.3
 2.2.0	named	io.github.dhruvrawatdev	expressify	2026-05-28T13:41:30Z	2.21.3
+2.0.1	named	org.octopusden.octopus.reporting-service	reporting-automation	2026-06-05T14:40:32Z	2.15.2
+2.0.44	named	org.octopusden.octopus.automation.release-management	automation	2026-06-08T15:35:36Z	2.15.3
+2.0.45	named	org.octopusden.octopus.automation.release-management	automation	2026-06-09T08:01:08Z	2.15.3

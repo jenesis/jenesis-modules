@@ -36,8 +36,8 @@
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-packet-types	2025-09-09T22:25:47Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2025-09-11T07:15:22Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-packet-types	2025-09-16T17:43:56Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-packet-types	2025-10-15T19:30:18Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2025-10-15T15:53:56Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-packet-types	2025-10-15T19:30:18Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2025-11-01T01:57:30Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8776-ietf-te-packet-types	2025-12-05T17:44:12Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-01-12T11:18:20Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-03-12T15:37:53Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-03-20T07:22:02Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-03-25T11:38:17Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-06-09T15:17:15Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8776-ietf-te-packet-types	2026-06-10T03:11:00Z	

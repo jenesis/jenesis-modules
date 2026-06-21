@@ -82,6 +82,9 @@
 14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.2.1/odl-license-14.2.1.jar returned status 404
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.3.0/odl-license-14.3.0.jar returned status 404
 14.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.3.2/odl-license-14.3.2.jar returned status 404
+14.3.4		2026-06-01T17:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.3.4/odl-license-14.3.4.jar returned status 404
+14.3.5		2026-06-02T13:37:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.3.5/odl-license-14.3.5.jar returned status 404
+14.3.6		2026-06-09T03:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-license/14.3.6/odl-license-14.3.6.jar returned status 404
 2.0.0		2017-06-21T08:07:28Z	
 2.0.1		2017-06-29T16:35:53Z	
 2.0.2		2017-07-07T07:44:06Z	

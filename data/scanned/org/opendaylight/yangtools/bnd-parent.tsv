@@ -48,6 +48,7 @@
 14.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.20/bnd-parent-14.0.20.jar returned status 404
 14.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.21/bnd-parent-14.0.21.jar returned status 404
 14.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.22/bnd-parent-14.0.22.jar returned status 404
+14.0.24		2026-06-09T12:54:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.24/bnd-parent-14.0.24.jar returned status 404
 14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.3/bnd-parent-14.0.3.jar returned status 404
 14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.4/bnd-parent-14.0.4.jar returned status 404
 14.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.5/bnd-parent-14.0.5.jar returned status 404
@@ -55,6 +56,7 @@
 14.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.7/bnd-parent-14.0.7.jar returned status 404
 14.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.8/bnd-parent-14.0.8.jar returned status 404
 14.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/14.0.9/bnd-parent-14.0.9.jar returned status 404
+15.1.2		2026-06-09T14:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/15.1.2/bnd-parent-15.1.2.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/8.0.0/bnd-parent-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/8.0.1/bnd-parent-8.0.1.jar returned status 404
 8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/bnd-parent/8.0.10/bnd-parent-8.0.10.jar returned status 404

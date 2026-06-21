@@ -66,6 +66,9 @@
 14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.2.1/odl-gson-14.2.1.jar returned status 404
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.3.0/odl-gson-14.3.0.jar returned status 404
 14.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.3.2/odl-gson-14.3.2.jar returned status 404
+14.3.4		2026-06-07T14:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.3.4/odl-gson-14.3.4.jar returned status 404
+14.3.5		2026-06-07T14:41:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.3.5/odl-gson-14.3.5.jar returned status 404
+14.3.6		2026-06-14T18:20:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/14.3.6/odl-gson-14.3.6.jar returned status 404
 6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/6.0.12/odl-gson-6.0.12.jar returned status 404
 6.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/6.0.13/odl-gson-6.0.13.jar returned status 404
 7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-gson/7.0.10/odl-gson-7.0.10.jar returned status 404

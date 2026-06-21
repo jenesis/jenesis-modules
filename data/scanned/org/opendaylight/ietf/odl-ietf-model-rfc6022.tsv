@@ -1,3 +1,5 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc6022/1.0.0/odl-ietf-model-rfc6022-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc6022/1.0.1/odl-ietf-model-rfc6022-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc6022/1.0.2/odl-ietf-model-rfc6022-1.0.2.jar returned status 404
+1.0.5		2026-06-14T19:11:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc6022/1.0.5/odl-ietf-model-rfc6022-1.0.5.jar returned status 404
+2.0.3		2026-06-14T19:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc6022/2.0.3/odl-ietf-model-rfc6022-2.0.3.jar returned status 404

@@ -28,16 +28,16 @@
 14.0.11	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-03-08T07:11:19Z	
 14.0.12	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-04-19T16:14:50Z	
 14.0.13	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-06-10T16:30:21Z	
-13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-07-14T20:06:47Z	
 13.0.9	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-07-13T17:16:14Z	
+13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-07-14T20:06:47Z	
 14.0.14	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-08-07T23:34:44Z	
 14.0.15	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-08-13T14:37:30Z	
 14.0.16	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-09-04T12:30:55Z	
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-09-09T22:24:59Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2025-09-11T07:14:18Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-09-16T17:43:10Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-10-15T19:29:29Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2025-10-15T15:52:50Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-10-15T19:29:29Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2025-11-01T01:56:28Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8519-ietf-ethertypes	2025-12-05T17:43:20Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-01-12T11:17:31Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-03-12T15:37:08Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-03-20T07:21:08Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-03-25T11:37:26Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-06-09T15:16:34Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8519-ietf-ethertypes	2026-06-10T03:10:16Z	

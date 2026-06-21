@@ -5,3 +5,4 @@
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/authn-filter/3.0.3/authn-filter-3.0.3.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/authn-filter/3.0.4/authn-filter-3.0.4.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/authn-filter/3.1.0/authn-filter-3.1.0.jar returned status 404
+3.1.1		2026-06-11T10:54:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/authn-filter/3.1.1/authn-filter-3.1.1.jar returned status 404

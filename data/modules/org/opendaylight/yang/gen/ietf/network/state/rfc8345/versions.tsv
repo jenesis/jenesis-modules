@@ -28,16 +28,16 @@
 14.0.11	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-03-08T07:11:27Z	
 14.0.12	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-04-19T16:15:22Z	
 14.0.13	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-06-10T16:30:33Z	
-13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-07-14T20:06:53Z	
 13.0.9	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-07-13T17:16:19Z	
+13.0.10	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-07-14T20:06:53Z	
 14.0.14	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-08-07T23:34:54Z	
 14.0.15	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-08-13T14:37:42Z	
 14.0.16	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-09-04T12:31:27Z	
 14.0.17	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-09-09T22:25:35Z	
 1.0.0	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2025-09-11T07:15:03Z	
 14.0.18	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-09-16T17:43:43Z	
-14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-10-15T19:30:11Z	
 1.0.1	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2025-10-15T15:53:46Z	
+14.0.19	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-10-15T19:30:11Z	
 1.0.2	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2025-11-01T01:57:19Z	
 14.0.20	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc8345-ietf-network-state	2025-12-05T17:44:00Z	
 1.0.3	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-01-12T11:18:07Z	
@@ -46,3 +46,5 @@
 2.0.0	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-03-12T15:37:40Z	
 2.0.1	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-03-20T07:21:47Z	
 2.0.2	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-03-25T11:38:03Z	
+1.0.5	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-06-09T15:17:04Z	
+2.0.3	automatic	org.opendaylight.ietf.model	rfc8345-ietf-network-state	2026-06-10T03:10:49Z	

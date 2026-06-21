@@ -37,3 +37,4 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/features-bgpcep/0.23.0/features-bgpcep-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/features-bgpcep/0.23.1/features-bgpcep-0.23.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/features-bgpcep/1.0.0/features-bgpcep-1.0.0.jar returned status 404
+2.0.0		2026-06-07T12:45:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/features-bgpcep/2.0.0/features-bgpcep-2.0.0.jar returned status 404
