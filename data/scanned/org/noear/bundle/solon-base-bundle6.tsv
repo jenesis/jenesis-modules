@@ -157,3 +157,9 @@
 3.9.6-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/3.9.6-M3/solon-base-bundle6-3.9.6-M3.jar returned status 404
 3.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/3.9.7/solon-base-bundle6-3.9.7.jar returned status 404
 3.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/3.9.8/solon-base-bundle6-3.9.8.jar returned status 404
+4.0.0		2026-06-09T13:59:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.0/solon-base-bundle6-4.0.0.jar returned status 404
+4.0.0-M1		2026-05-31T09:56:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.0-M1/solon-base-bundle6-4.0.0-M1.jar returned status 404
+4.0.0-M2		2026-06-03T15:39:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.0-M2/solon-base-bundle6-4.0.0-M2.jar returned status 404
+4.0.0-M3		2026-06-05T03:07:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.0-M3/solon-base-bundle6-4.0.0-M3.jar returned status 404
+4.0.1		2026-06-15T11:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.1/solon-base-bundle6-4.0.1.jar returned status 404
+4.0.2		2026-06-15T15:54:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle6/4.0.2/solon-base-bundle6-4.0.2.jar returned status 404

@@ -173,3 +173,9 @@
 3.9.6-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/3.9.6-M3/solon-parent-3.9.6-M3.jar returned status 404
 3.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/3.9.7/solon-parent-3.9.7.jar returned status 404
 3.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/3.9.8/solon-parent-3.9.8.jar returned status 404
+4.0.0		2026-06-09T13:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.0/solon-parent-4.0.0.jar returned status 404
+4.0.0-M1		2026-05-31T09:25:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.0-M1/solon-parent-4.0.0-M1.jar returned status 404
+4.0.0-M2		2026-06-03T15:21:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.0-M2/solon-parent-4.0.0-M2.jar returned status 404
+4.0.0-M3		2026-06-05T02:48:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.0-M3/solon-parent-4.0.0-M3.jar returned status 404
+4.0.1		2026-06-15T11:34:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.1/solon-parent-4.0.1.jar returned status 404
+4.0.2		2026-06-15T15:24:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-parent/4.0.2/solon-parent-4.0.2.jar returned status 404

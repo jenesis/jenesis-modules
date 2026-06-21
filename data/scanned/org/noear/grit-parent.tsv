@@ -2,3 +2,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/grit-parent/2.1.0/grit-parent-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/grit-parent/2.2.0/grit-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/grit-parent/2.2.1/grit-parent-2.2.1.jar returned status 404
+2.3.0		2026-06-09T14:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/grit-parent/2.3.0/grit-parent-2.3.0.jar returned status 404

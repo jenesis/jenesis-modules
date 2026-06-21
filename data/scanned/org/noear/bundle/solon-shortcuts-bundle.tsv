@@ -158,3 +158,9 @@
 3.9.6-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/3.9.6-M3/solon-shortcuts-bundle-3.9.6-M3.jar returned status 404
 3.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/3.9.7/solon-shortcuts-bundle-3.9.7.jar returned status 404
 3.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/3.9.8/solon-shortcuts-bundle-3.9.8.jar returned status 404
+4.0.0		2026-06-09T13:50:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.0/solon-shortcuts-bundle-4.0.0.jar returned status 404
+4.0.0-M1		2026-05-31T09:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.0-M1/solon-shortcuts-bundle-4.0.0-M1.jar returned status 404
+4.0.0-M2		2026-06-03T15:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.0-M2/solon-shortcuts-bundle-4.0.0-M2.jar returned status 404
+4.0.0-M3		2026-06-05T03:02:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.0-M3/solon-shortcuts-bundle-4.0.0-M3.jar returned status 404
+4.0.1		2026-06-15T11:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.1/solon-shortcuts-bundle-4.0.1.jar returned status 404
+4.0.2		2026-06-15T15:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-shortcuts-bundle/4.0.2/solon-shortcuts-bundle-4.0.2.jar returned status 404

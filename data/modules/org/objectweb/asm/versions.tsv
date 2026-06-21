@@ -1014,4 +1014,6 @@ RELEASE113	named	org.netbeans.external	asm-7.2	2020-02-21T16:30:24Z	7.2.0
 0.14.1	named	org.teavm	teavm-relocated-libs-asm	2026-05-25T10:42:32Z	9.8
 4.11.8	named	net.corda	corda-shell	2026-05-29T13:55:15Z	7.1.0
 4.11.8	named	net.corda	corda-standalone-shell	2026-05-29T13:55:16Z	7.1.0
+1.12.0	named	org.noear	luffy.executor.s.nashorn	2026-06-09T14:18:00Z	9.10
+1.12.0	named	org.noear	luffy.executor.s.ruby	2026-06-09T14:18:01Z	9.10
 0.15.0	named	org.teavm	teavm-relocated-libs-asm	2026-06-14T17:42:36Z	9.8
