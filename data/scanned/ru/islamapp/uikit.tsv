@@ -34,6 +34,8 @@
 1.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.39/uikit-1.0.39.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.4/uikit-1.0.4.jar returned status 404
 1.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.40/uikit-1.0.40.jar returned status 404
+1.0.41		2026-06-10T12:07:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.41/uikit-1.0.41.jar returned status 404
+1.0.42		2026-06-10T20:02:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.42/uikit-1.0.42.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.5/uikit-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.6/uikit-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/uikit/1.0.7/uikit-1.0.7.jar returned status 404

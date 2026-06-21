@@ -60,5 +60,11 @@
 1.4.3	metadata	2026-02-23T22:45:50Z	
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/components-macosarm64/1.4.3-jvm17/components-macosarm64-1.4.3-jvm17.jar returned status 404
 1.4.3-jvm17	metadata	2026-02-24T15:26:29Z	
+1.5.2		2026-05-30T13:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/components-macosarm64/1.5.2/components-macosarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-05-30T13:35:26Z	
+1.6.0		2026-05-30T14:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/components-macosarm64/1.6.0/components-macosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-05-30T14:38:56Z	
+1.7.0		2026-05-30T17:45:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/components-macosarm64/1.7.0/components-macosarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-05-30T17:45:18Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/components-macosarm64/v0.9.0/components-macosarm64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:55Z	

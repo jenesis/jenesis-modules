@@ -60,5 +60,11 @@
 1.4.3	metadata	2026-02-23T22:45:48Z	
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-iosarm64/1.4.3-jvm17/common-iosarm64-1.4.3-jvm17.jar returned status 404
 1.4.3-jvm17	metadata	2026-02-24T15:26:43Z	
+1.5.2		2026-05-30T13:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-iosarm64/1.5.2/common-iosarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-05-30T13:35:33Z	
+1.6.0		2026-05-30T14:39:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-iosarm64/1.6.0/common-iosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-05-30T14:38:58Z	
+1.7.0		2026-05-30T17:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-iosarm64/1.7.0/common-iosarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-05-30T17:45:22Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-iosarm64/v0.9.0/common-iosarm64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:50Z	

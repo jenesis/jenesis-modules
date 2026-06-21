@@ -6,5 +6,13 @@
 0.12.1	metadata	2026-05-14T09:31:05Z	
 0.13.1		2026-05-25T13:57:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/0.13.1/mapcompose-mp-iossimulatorarm64-0.13.1.jar returned status 404
 0.13.1	metadata	2026-05-25T13:57:23Z	
+0.13.2		2026-05-30T06:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/0.13.2/mapcompose-mp-iossimulatorarm64-0.13.2.jar returned status 404
+0.13.2	metadata	2026-05-30T06:21:22Z	
+0.13.3		2026-06-07T11:40:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/0.13.3/mapcompose-mp-iossimulatorarm64-0.13.3.jar returned status 404
+0.13.3	metadata	2026-06-07T11:40:47Z	
 0.13.O		2026-05-25T10:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/0.13.O/mapcompose-mp-iossimulatorarm64-0.13.O.jar returned status 404
 0.13.O	metadata	2026-05-25T10:34:29Z	
+1.0.0		2026-06-07T13:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/1.0.0/mapcompose-mp-iossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-07T13:38:16Z	
+1.1.0		2026-06-13T12:46:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ovh/plrapps/mapcompose-mp-iossimulatorarm64/1.1.0/mapcompose-mp-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-13T12:46:31Z	

@@ -60,5 +60,11 @@
 1.4.3	metadata	2026-02-23T22:45:49Z	
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-iosarm64/1.4.3-jvm17/compose-iosarm64-1.4.3-jvm17.jar returned status 404
 1.4.3-jvm17	metadata	2026-02-24T15:26:30Z	
+1.5.2		2026-05-30T13:35:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-iosarm64/1.5.2/compose-iosarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-05-30T13:35:28Z	
+1.6.0		2026-05-30T14:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-iosarm64/1.6.0/compose-iosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-05-30T14:39:01Z	
+1.7.0		2026-05-30T17:45:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-iosarm64/1.7.0/compose-iosarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-05-30T17:45:20Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-iosarm64/v0.9.0/compose-iosarm64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:58Z	

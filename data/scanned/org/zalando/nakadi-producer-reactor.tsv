@@ -1,0 +1,2 @@
+30.0.0		2026-06-04T17:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/nakadi-producer-reactor/30.0.0/nakadi-producer-reactor-30.0.0.jar returned status 404
+30.0.0-RC2		2026-06-04T16:42:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/nakadi-producer-reactor/30.0.0-RC2/nakadi-producer-reactor-30.0.0-RC2.jar returned status 404

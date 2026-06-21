@@ -32,6 +32,10 @@
 1.22.0	metadata	2026-03-07T12:41:16Z	
 1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-platform-tvosarm64/1.23.0/mikro-platform-tvosarm64-1.23.0.jar returned status 404
 1.23.0	metadata	2026-04-21T15:37:00Z	
+1.24.0		2026-06-02T08:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-platform-tvosarm64/1.24.0/mikro-platform-tvosarm64-1.24.0.jar returned status 404
+1.24.0	metadata	2026-06-02T08:54:36Z	
+1.25.0		2026-06-10T18:28:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-platform-tvosarm64/1.25.0/mikro-platform-tvosarm64-1.25.0.jar returned status 404
+1.25.0	metadata	2026-06-10T18:28:05Z	
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-platform-tvosarm64/1.3.0/mikro-platform-tvosarm64-1.3.0.jar returned status 404
 1.3.0	metadata	2023-10-27T12:11:30Z	
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-platform-tvosarm64/1.4.0/mikro-platform-tvosarm64-1.4.0.jar returned status 404

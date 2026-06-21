@@ -29,4 +29,7 @@
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.3.0/compose-android-1.3.0.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.4.3/compose-android-1.4.3.jar returned status 404
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.4.3-jvm17/compose-android-1.4.3-jvm17.jar returned status 404
+1.5.2		2026-05-30T13:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.5.2/compose-android-1.5.2.jar returned status 404
+1.6.0		2026-05-30T14:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.6.0/compose-android-1.6.0.jar returned status 404
+1.7.0		2026-05-30T17:45:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/1.7.0/compose-android-1.7.0.jar returned status 404
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/decompose/compose-android/v0.9.0/compose-android-v0.9.0.jar returned status 404

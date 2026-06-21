@@ -33,6 +33,8 @@
 1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.21.0/mikro-extensions-android-1.21.0.jar returned status 404
 1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.22.0/mikro-extensions-android-1.22.0.jar returned status 404
 1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.23.0/mikro-extensions-android-1.23.0.jar returned status 404
+1.24.0		2026-06-02T08:54:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.24.0/mikro-extensions-android-1.24.0.jar returned status 404
+1.25.0		2026-06-10T18:28:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.25.0/mikro-extensions-android-1.25.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.3.0/mikro-extensions-android-1.3.0.jar returned status 404
 1.3.0	debug-sources	2023-10-27T12:09:04Z	
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-extensions-android/1.4.0/mikro-extensions-android-1.4.0.jar returned status 404

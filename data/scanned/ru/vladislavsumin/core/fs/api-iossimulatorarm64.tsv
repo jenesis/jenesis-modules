@@ -2,3 +2,9 @@
 1.4.3	metadata	2026-02-23T22:45:47Z	
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/api-iossimulatorarm64/1.4.3-jvm17/api-iossimulatorarm64-1.4.3-jvm17.jar returned status 404
 1.4.3-jvm17	metadata	2026-02-24T15:26:35Z	
+1.5.2		2026-05-30T13:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/api-iossimulatorarm64/1.5.2/api-iossimulatorarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-05-30T13:35:22Z	
+1.6.0		2026-05-30T14:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/api-iossimulatorarm64/1.6.0/api-iossimulatorarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-05-30T14:39:05Z	
+1.7.0		2026-05-30T17:45:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/api-iossimulatorarm64/1.7.0/api-iossimulatorarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-05-30T17:45:10Z	
