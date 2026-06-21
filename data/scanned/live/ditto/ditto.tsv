@@ -333,6 +333,20 @@
 4.12.6-preview-1	html-docs	2026-05-06T20:07:56Z	
 4.12.6-preview.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.0/ditto-4.12.6-preview.0.jar returned status 404
 4.12.6-preview.0	html-docs	2026-05-05T07:21:48Z	
+4.12.6-preview.2		2026-06-03T13:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.2/ditto-4.12.6-preview.2.jar returned status 404
+4.12.6-preview.2	html-docs	2026-06-03T13:41:42Z	
+4.12.6-preview.3		2026-06-08T17:58:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.3/ditto-4.12.6-preview.3.jar returned status 404
+4.12.6-preview.3	html-docs	2026-06-08T17:58:17Z	
+4.12.6-preview.4		2026-06-10T13:32:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.4/ditto-4.12.6-preview.4.jar returned status 404
+4.12.6-preview.4	html-docs	2026-06-10T13:32:31Z	
+4.12.6-preview.5		2026-06-10T13:35:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.5/ditto-4.12.6-preview.5.jar returned status 404
+4.12.6-preview.5	html-docs	2026-06-10T13:35:51Z	
+4.12.6-preview.6		2026-06-12T12:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.6/ditto-4.12.6-preview.6.jar returned status 404
+4.12.6-preview.6	html-docs	2026-06-12T12:13:42Z	
+4.12.6-preview.7		2026-06-12T14:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.7/ditto-4.12.6-preview.7.jar returned status 404
+4.12.6-preview.7	html-docs	2026-06-12T14:37:41Z	
+4.12.6-preview.8		2026-06-17T13:16:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.8/ditto-4.12.6-preview.8.jar returned status 404
+4.12.6-preview.8	html-docs	2026-06-17T13:16:06Z	
 4.12.6-tokio-bump.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-tokio-bump.1/ditto-4.12.6-tokio-bump.1.jar returned status 404
 4.12.6-tokio-bump.1	html-docs	2026-04-22T23:31:10Z	
 4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.13.0/ditto-4.13.0.jar returned status 404
@@ -439,6 +453,12 @@
 4.14.5-experimental-flutter-puro-upgrade.1	html-docs	2026-05-12T17:11:19Z	
 4.14.5-experimental-vp.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.5-experimental-vp.1/ditto-4.14.5-experimental-vp.1.jar returned status 404
 4.14.5-experimental-vp.1	html-docs	2026-05-11T13:48:41Z	
+4.14.5-preview.1		2026-06-12T17:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.5-preview.1/ditto-4.14.5-preview.1.jar returned status 404
+4.14.5-preview.1	html-docs	2026-06-12T17:11:22Z	
+4.14.5-preview.2		2026-06-12T22:05:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.5-preview.2/ditto-4.14.5-preview.2.jar returned status 404
+4.14.5-preview.2	html-docs	2026-06-12T22:05:49Z	
+4.14.5-rc.1		2026-06-15T15:48:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.5-rc.1/ditto-4.14.5-rc.1.jar returned status 404
+4.14.5-rc.1	html-docs	2026-06-15T15:48:22Z	
 4.15.0-experimental-b6835ba.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.15.0-experimental-b6835ba.0/ditto-4.15.0-experimental-b6835ba.0.jar returned status 404
 4.15.0-experimental-b6835ba.0	html-docs	2025-11-27T11:45:18Z	
 4.15.0-experimental-kotlin17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.15.0-experimental-kotlin17.1/ditto-4.15.0-experimental-kotlin17.1.jar returned status 404

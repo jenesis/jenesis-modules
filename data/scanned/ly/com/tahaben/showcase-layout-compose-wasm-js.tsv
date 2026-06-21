@@ -1,4 +1,6 @@
+1.0.10		2026-06-14T10:45:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.0.10/showcase-layout-compose-wasm-js-1.0.10.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.0.5/showcase-layout-compose-wasm-js-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.0.6/showcase-layout-compose-wasm-js-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.0.7/showcase-layout-compose-wasm-js-1.0.7.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.0.9/showcase-layout-compose-wasm-js-1.0.9.jar returned status 404
+1.1.0		2026-06-14T15:59:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-wasm-js/1.1.0/showcase-layout-compose-wasm-js-1.1.0.jar returned status 404

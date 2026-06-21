@@ -1,2 +1,8 @@
 0.5.0		2026-05-26T03:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-lumos-iosx64/0.5.0/phosphor-lumos-iosx64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-05-26T03:01:53Z	
+0.6.0		2026-05-31T04:09:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-lumos-iosx64/0.6.0/phosphor-lumos-iosx64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-05-31T04:09:29Z	
+0.6.1		2026-06-01T03:19:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-lumos-iosx64/0.6.1/phosphor-lumos-iosx64-0.6.1.jar returned status 404
+0.6.1	metadata	2026-06-01T03:19:47Z	
+0.6.2		2026-06-01T04:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-lumos-iosx64/0.6.2/phosphor-lumos-iosx64-0.6.2.jar returned status 404
+0.6.2	metadata	2026-06-01T04:08:30Z	

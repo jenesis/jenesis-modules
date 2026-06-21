@@ -7,3 +7,4 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/api/3.0.0/api-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/api/3.1.0/api-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/api/3.2.0/api-3.2.0.jar returned status 404
+3.3.0		2026-06-01T08:31:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/api/3.3.0/api-3.3.0.jar returned status 404

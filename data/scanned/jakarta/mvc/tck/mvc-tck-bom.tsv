@@ -3,3 +3,4 @@
 2.0.1		2022-06-11T08:25:46Z	
 2.1.0		2022-09-05T16:58:14Z	
 3.0.0		2025-04-15T15:32:06Z	
+3.0.1		2026-06-02T18:05:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/mvc/tck/mvc-tck-bom/3.0.1/mvc-tck-bom-3.0.1.jar returned status 404

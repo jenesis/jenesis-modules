@@ -3,3 +3,4 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/nkonev/r2dbc-migrate/r2dbc-migrate-parent/3.2.0/r2dbc-migrate-parent-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/nkonev/r2dbc-migrate/r2dbc-migrate-parent/3.3.0/r2dbc-migrate-parent-3.3.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/nkonev/r2dbc-migrate/r2dbc-migrate-parent/4.0.1/r2dbc-migrate-parent-4.0.1.jar returned status 404
+4.1.0		2026-06-14T18:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/nkonev/r2dbc-migrate/r2dbc-migrate-parent/4.1.0/r2dbc-migrate-parent-4.1.0.jar returned status 404

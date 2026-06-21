@@ -1,3 +1,5 @@
+1.0.10		2026-06-14T10:45:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-iossimulatorarm64/1.0.10/showcase-layout-compose-iossimulatorarm64-1.0.10.jar returned status 404
+1.0.10	metadata	2026-06-14T10:45:52Z	
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-iossimulatorarm64/1.0.5/showcase-layout-compose-iossimulatorarm64-1.0.5.jar returned status 404
 1.0.5	metadata	2024-03-26T15:06:58Z	
 1.0.5-alpha-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-iossimulatorarm64/1.0.5-alpha-8/showcase-layout-compose-iossimulatorarm64-1.0.5-alpha-8.jar returned status 404
@@ -10,3 +12,5 @@
 1.0.7	metadata	2025-06-23T13:06:20Z	
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-iossimulatorarm64/1.0.9/showcase-layout-compose-iossimulatorarm64-1.0.9.jar returned status 404
 1.0.9	metadata	2025-07-15T13:45:35Z	
+1.1.0		2026-06-14T15:59:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/com/tahaben/showcase-layout-compose-iossimulatorarm64/1.1.0/showcase-layout-compose-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-14T15:59:29Z	
