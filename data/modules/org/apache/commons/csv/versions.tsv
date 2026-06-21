@@ -439,6 +439,7 @@
 12.34.0.3337	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-05-15T09:03:38Z	1.14.1
 12.35.0.3365	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-05-19T20:26:19Z	1.14.1
 12.36.0.3399	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-05-26T15:59:39Z	1.14.1
+3.2.53	named	com.orientechnologies	orientdb-etl	2026-06-01T03:07:29Z	1.14.1
 12.37.0.3460	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-06-01T14:13:24Z	1.14.1
 12.38.0.3511	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-06-05T08:50:39Z	1.14.1
 12.39.0.3536	named	org.sonarsource.scanner.engine	sonar-scanner-engine-community	2026-06-08T14:02:55Z	1.14.1

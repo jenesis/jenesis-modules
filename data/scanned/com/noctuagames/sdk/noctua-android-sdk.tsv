@@ -57,6 +57,8 @@
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.32.0/noctua-android-sdk-0.32.0.jar returned status 404
 0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.32.1/noctua-android-sdk-0.32.1.jar returned status 404
 0.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.32.2/noctua-android-sdk-0.32.2.jar returned status 404
+0.33.0		2026-06-05T06:42:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.33.0/noctua-android-sdk-0.33.0.jar returned status 404
+0.34.0		2026-06-17T07:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.34.0/noctua-android-sdk-0.34.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.4.0/noctua-android-sdk-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.4.1/noctua-android-sdk-0.4.1.jar returned status 404
 0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/noctuagames/sdk/noctua-android-sdk/0.4.2/noctua-android-sdk-0.4.2.jar returned status 404

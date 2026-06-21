@@ -1,0 +1,2 @@
+0.1.0		2026-06-03T16:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/osmerion/opt-in/com.osmerion.opt-in.gradle.plugin/0.1.0/com.osmerion.opt-in.gradle.plugin-0.1.0.jar returned status 404
+0.1.1		2026-06-08T13:16:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/osmerion/opt-in/com.osmerion.opt-in.gradle.plugin/0.1.1/com.osmerion.opt-in.gradle.plugin-0.1.1.jar returned status 404

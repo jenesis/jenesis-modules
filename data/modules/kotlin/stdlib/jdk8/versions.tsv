@@ -1729,6 +1729,8 @@
 1.1.0	named	com.airbnb.viaduct	buildtime	2026-05-29T18:35:43Z	
 1.1.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-05-29T18:35:43Z	
 2.0.2	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-06-02T16:53:53Z	
+7.7.6	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-06-03T16:48:34Z	
+7.7.6	named	com.newrelic.agent.android	agent-gradle-plugin	2026-06-03T16:48:47Z	
 0.14.2	named	org.apache.hudi	hudi-utilities-bundle_2.11	2026-06-06T04:24:01Z	
 0.14.2	named	org.apache.hudi	hudi-spark2.4-bundle_2.11	2026-06-06T04:25:36Z	
 0.14.2	named	org.apache.hudi	hudi-spark2.4-bundle_2.12	2026-06-06T04:37:00Z	
