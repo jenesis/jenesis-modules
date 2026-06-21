@@ -1,5 +1,7 @@
 10.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-watchosarm64/10.10.1/rocksdb-multiplatform-watchosarm64-10.10.1.jar returned status 404
 10.10.1	metadata	2026-05-03T12:41:54Z	
+10.10.1.1		2026-06-12T14:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-watchosarm64/10.10.1.1/rocksdb-multiplatform-watchosarm64-10.10.1.1.jar returned status 404
+10.10.1.1	metadata	2026-06-12T14:22:57Z	
 10.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-watchosarm64/10.4.3/rocksdb-multiplatform-watchosarm64-10.4.3.jar returned status 404
 10.4.3	metadata	2025-10-10T11:06:52Z	
 10.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-watchosarm64/10.4.4/rocksdb-multiplatform-watchosarm64-10.4.4.jar returned status 404

@@ -61,6 +61,8 @@
 3.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.10.4/micronaut-parent-3.10.4.jar returned status 404
 3.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.10.5/micronaut-parent-3.10.5.jar returned status 404
 3.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.10.6/micronaut-parent-3.10.6.jar returned status 404
+3.10.7		2026-06-01T19:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.10.7/micronaut-parent-3.10.7.jar returned status 404
+3.10.8		2026-06-04T18:56:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.10.8/micronaut-parent-3.10.8.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.2.0/micronaut-parent-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.2.1/micronaut-parent-3.2.1.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.2.2/micronaut-parent-3.2.2.jar returned status 404
@@ -110,6 +112,7 @@
 3.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.12/micronaut-parent-3.8.12.jar returned status 404
 3.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.13/micronaut-parent-3.8.13.jar returned status 404
 3.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.14/micronaut-parent-3.8.14.jar returned status 404
+3.8.15		2026-06-06T18:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.15/micronaut-parent-3.8.15.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.2/micronaut-parent-3.8.2.jar returned status 404
 3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.3/micronaut-parent-3.8.3.jar returned status 404
 3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-parent/3.8.4/micronaut-parent-3.8.4.jar returned status 404

@@ -96,6 +96,12 @@
 10.8.0-Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.0-Beta6/mangooio-10.8.0-Beta6.jar returned status 404
 10.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.1/mangooio-10.8.1.jar returned status 404
 10.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.2/mangooio-10.8.2.jar returned status 404
+10.8.3		2026-06-12T06:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.3/mangooio-10.8.3.jar returned status 404
+10.8.4		2026-06-12T06:32:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.4/mangooio-10.8.4.jar returned status 404
+10.8.5		2026-06-12T06:41:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.5/mangooio-10.8.5.jar returned status 404
+10.8.6		2026-06-12T06:59:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.8.6/mangooio-10.8.6.jar returned status 404
+10.9.0-Beta1		2026-06-10T09:40:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.9.0-Beta1/mangooio-10.9.0-Beta1.jar returned status 404
+10.9.0-Beta2		2026-06-11T11:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.9.0-Beta2/mangooio-10.9.0-Beta2.jar returned status 404
 9.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/9.10.0/mangooio-9.10.0.jar returned status 404
 9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/9.10.1/mangooio-9.10.1.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/9.5.0/mangooio-9.5.0.jar returned status 404

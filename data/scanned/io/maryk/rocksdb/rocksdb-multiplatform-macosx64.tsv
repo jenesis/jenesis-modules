@@ -1,5 +1,7 @@
 10.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-macosx64/10.10.1/rocksdb-multiplatform-macosx64-10.10.1.jar returned status 404
 10.10.1	metadata	2026-05-03T12:41:54Z	
+10.10.1.1		2026-06-12T14:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-macosx64/10.10.1.1/rocksdb-multiplatform-macosx64-10.10.1.1.jar returned status 404
+10.10.1.1	metadata	2026-06-12T14:22:57Z	
 10.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-macosx64/10.4.2/rocksdb-multiplatform-macosx64-10.4.2.jar returned status 404
 10.4.2	metadata	2025-09-07T19:18:44Z	
 10.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-macosx64/10.4.3/rocksdb-multiplatform-macosx64-10.4.3.jar returned status 404
