@@ -36,6 +36,7 @@
 3.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.13/spring-kafka-bom-3.3.13.jar returned status 404
 3.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.14/spring-kafka-bom-3.3.14.jar returned status 404
 3.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.15/spring-kafka-bom-3.3.15.jar returned status 404
+3.3.16		2026-06-09T17:36:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.16/spring-kafka-bom-3.3.16.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.2/spring-kafka-bom-3.3.2.jar returned status 404
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.3/spring-kafka-bom-3.3.3.jar returned status 404
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/3.3.4/spring-kafka-bom-3.3.4.jar returned status 404
@@ -56,6 +57,8 @@
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.3/spring-kafka-bom-4.0.3.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.4/spring-kafka-bom-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.5/spring-kafka-bom-4.0.5.jar returned status 404
+4.0.6		2026-06-09T17:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.6/spring-kafka-bom-4.0.6.jar returned status 404
+4.1.0		2026-06-09T17:36:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0/spring-kafka-bom-4.1.0.jar returned status 404
 4.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-M1/spring-kafka-bom-4.1.0-M1.jar returned status 404
 4.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-M2/spring-kafka-bom-4.1.0-M2.jar returned status 404
 4.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-RC1/spring-kafka-bom-4.1.0-RC1.jar returned status 404

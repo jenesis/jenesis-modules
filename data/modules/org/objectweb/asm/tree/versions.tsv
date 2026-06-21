@@ -506,3 +506,4 @@ RELEASE113	named	org.netbeans.external	asm-tree-7.2	2020-02-21T16:30:27Z	7.2.0
 0.0.1	named	io.killedkenny.crossfuzz	crossfuzz	2026-05-27T08:05:12Z	9.9.1
 0.0.2	named	io.killedkenny.crossfuzz	crossfuzz	2026-05-27T21:33:29Z	9.9.1
 0.0.3	named	io.killedkenny.crossfuzz	crossfuzz	2026-05-29T19:01:27Z	9.9.1
+0.15.0	named	org.teavm	teavm-relocated-libs-asm-tree	2026-06-14T17:42:36Z	9.8

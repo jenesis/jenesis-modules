@@ -111,6 +111,7 @@
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.0/spring-security-bom-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.1/spring-security-bom-6.5.1.jar returned status 404
 6.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.10/spring-security-bom-6.5.10.jar returned status 404
+6.5.11		2026-06-09T15:53:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.11/spring-security-bom-6.5.11.jar returned status 404
 6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.2/spring-security-bom-6.5.2.jar returned status 404
 6.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.3/spring-security-bom-6.5.3.jar returned status 404
 6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/6.5.4/spring-security-bom-6.5.4.jar returned status 404
@@ -131,6 +132,8 @@
 7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.0.3/spring-security-bom-7.0.3.jar returned status 404
 7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.0.4/spring-security-bom-7.0.4.jar returned status 404
 7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.0.5/spring-security-bom-7.0.5.jar returned status 404
+7.0.6		2026-06-09T15:55:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.0.6/spring-security-bom-7.0.6.jar returned status 404
+7.1.0		2026-06-09T16:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.1.0/spring-security-bom-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.1.0-M1/spring-security-bom-7.1.0-M1.jar returned status 404
 7.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.1.0-M2/spring-security-bom-7.1.0-M2.jar returned status 404
 7.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/security/spring-security-bom/7.1.0-M3/spring-security-bom-7.1.0-M3.jar returned status 404

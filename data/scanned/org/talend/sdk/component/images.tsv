@@ -15,3 +15,4 @@
 1.89.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/images/1.89.1/images-1.89.1.jar returned status 404
 1.90.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/images/1.90.0/images-1.90.0.jar returned status 404
 1.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/images/1.91.0/images-1.91.0.jar returned status 404
+1.92.0		2026-05-29T08:39:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/images/1.92.0/images-1.92.0.jar returned status 404

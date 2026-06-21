@@ -57,6 +57,7 @@
 6.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/6.5.6/spring-integration-bom-6.5.6.jar returned status 404
 6.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/6.5.7/spring-integration-bom-6.5.7.jar returned status 404
 6.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/6.5.8/spring-integration-bom-6.5.8.jar returned status 404
+6.5.9		2026-06-10T14:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/6.5.9/spring-integration-bom-6.5.9.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.0/spring-integration-bom-7.0.0.jar returned status 404
 7.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.0-M1/spring-integration-bom-7.0.0-M1.jar returned status 404
 7.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.0-M2/spring-integration-bom-7.0.0-M2.jar returned status 404
@@ -67,6 +68,8 @@
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.2/spring-integration-bom-7.0.2.jar returned status 404
 7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.3/spring-integration-bom-7.0.3.jar returned status 404
 7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.4/spring-integration-bom-7.0.4.jar returned status 404
+7.0.5		2026-06-10T14:04:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.0.5/spring-integration-bom-7.0.5.jar returned status 404
+7.1.0		2026-06-10T14:37:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.1.0/spring-integration-bom-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.1.0-M1/spring-integration-bom-7.1.0-M1.jar returned status 404
 7.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.1.0-M2/spring-integration-bom-7.1.0-M2.jar returned status 404
 7.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/integration/spring-integration-bom/7.1.0-M3/spring-integration-bom-7.1.0-M3.jar returned status 404
