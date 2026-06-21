@@ -24,3 +24,7 @@
 0.3.8	metadata	2025-05-26T18:36:56Z	
 0.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gyanoba/inspektor/inspektor-iossimulatorarm64/0.3.9/inspektor-iossimulatorarm64-0.3.9.jar returned status 404
 0.3.9	metadata	2025-07-08T00:43:19Z	
+0.4.0		2026-06-16T19:34:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gyanoba/inspektor/inspektor-iossimulatorarm64/0.4.0/inspektor-iossimulatorarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-06-16T19:34:12Z	
+0.4.1		2026-06-17T18:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gyanoba/inspektor/inspektor-iossimulatorarm64/0.4.1/inspektor-iossimulatorarm64-0.4.1.jar returned status 404
+0.4.1	metadata	2026-06-17T18:25:52Z	

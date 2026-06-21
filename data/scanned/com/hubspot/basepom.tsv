@@ -21,3 +21,4 @@
 69.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hubspot/basepom/69.0/basepom-69.0.jar returned status 404
 69.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hubspot/basepom/69.1/basepom-69.1.jar returned status 404
 69.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hubspot/basepom/69.2/basepom-69.2.jar returned status 404
+69.3		2026-06-02T14:06:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hubspot/basepom/69.3/basepom-69.3.jar returned status 404

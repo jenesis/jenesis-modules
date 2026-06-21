@@ -1001,6 +1001,7 @@
 0.2.0-i129-multi	named	com.sparkutils	quality_connect_testshade_4.1.0.oss_4.1_2.13	2026-06-03T20:27:00Z	2.0
 0.2.0-i129-multi	named	com.sparkutils	quality_connect_testshade_17.3.dbr_4.0_2.13	2026-06-04T04:40:31Z	2.0
 0.2.0-i129-multi	named	com.sparkutils	quality_testshade_3.5.0.oss_3.5_2.12	2026-06-04T05:01:21Z	2.0
+3.1.199	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-06-04T09:38:06Z	2.3
 3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v2	2026-06-04T23:37:47Z	2.2
 3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v3	2026-06-04T23:38:14Z	2.2
 26.04.4	named	com.nvidia	rapids-4-spark-tools_2.12	2026-06-05T20:30:24Z	2.0
@@ -1023,7 +1024,9 @@
 0.0.1-poc8	named	com.sparkutils	flow_testshade_4.1.0.oss_4.1_2.13	2026-06-08T11:37:13Z	2.0
 1.0.0	named	com.liquibase	liquibase-mcp-changelog-server	2026-06-08T20:56:45Z	2.5
 26.04.5	named	com.nvidia	rapids-4-spark-tools_2.12	2026-06-09T08:36:23Z	2.0
+3.1.200	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-06-11T08:52:23Z	2.3
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v2	2026-06-12T21:32:18Z	2.2
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v3	2026-06-12T21:32:54Z	2.2
 0.1.0	named	io.github.wangscu	just-bash-cli	2026-06-14T01:12:44Z	2.2
 26.04.6	named	com.nvidia	rapids-4-spark-tools_2.12	2026-06-16T08:26:44Z	2.0
+3.1.201	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-06-18T09:10:02Z	2.3

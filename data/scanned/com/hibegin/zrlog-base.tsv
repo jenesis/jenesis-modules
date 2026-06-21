@@ -110,3 +110,5 @@
 3.5.1		2026-05-24T14:45:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-base/3.5.1/zrlog-base-3.5.1.jar returned status 404
 3.5.2		2026-05-30T12:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-base/3.5.2/zrlog-base-3.5.2.jar returned status 404
 3.5.3		2026-05-30T13:36:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-base/3.5.3/zrlog-base-3.5.3.jar returned status 404
+3.5.4		2026-06-09T14:15:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-base/3.5.4/zrlog-base-3.5.4.jar returned status 404
+3.5.5		2026-06-15T15:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hibegin/zrlog-base/3.5.5/zrlog-base-3.5.5.jar returned status 404
