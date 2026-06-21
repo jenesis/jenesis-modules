@@ -10,3 +10,4 @@
 2.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/cconfig/cconfig-parent/2.1.19/cconfig-parent-2.1.19.jar returned status 404
 2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/cconfig/cconfig-parent/2.1.20/cconfig-parent-2.1.20.jar returned status 404
 2.1.22		2026-05-29T07:38:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/cconfig/cconfig-parent/2.1.22/cconfig-parent-2.1.22.jar returned status 404
+2.1.24		2026-06-09T12:40:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/cconfig/cconfig-parent/2.1.24/cconfig-parent-2.1.24.jar returned status 404

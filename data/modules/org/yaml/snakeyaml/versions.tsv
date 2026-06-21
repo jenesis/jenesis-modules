@@ -988,3 +988,9 @@
 0.2.0-i129-complete	named	com.sparkutils	quality_connect_testshade_17.3.dbr_4.0_2.13	2026-05-30T19:40:47Z	2.0
 0.2.0-i129-complete	named	com.sparkutils	quality_connect_testshade_18.3.dbr_4.1_2.13	2026-05-30T19:40:47Z	2.0
 0.2.0-i129-complete	named	com.sparkutils	quality_testshade_4.0.0.oss_4.0_2.13	2026-05-30T19:40:49Z	2.0
+3.30.2	named	org.conductoross	conductor-os-persistence-v2	2026-06-03T03:37:27Z	2.2
+3.30.2	named	org.conductoross	conductor-os-persistence-v3	2026-06-03T03:37:54Z	2.2
+3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v2	2026-06-04T23:37:47Z	2.2
+3.31.0-rc.2	named	org.conductoross	conductor-os-persistence-v3	2026-06-04T23:38:14Z	2.2
+3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v2	2026-06-12T21:32:18Z	2.2
+3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v3	2026-06-12T21:32:54Z	2.2

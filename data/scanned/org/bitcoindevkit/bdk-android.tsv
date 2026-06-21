@@ -46,3 +46,4 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitcoindevkit/bdk-android/2.2.0/bdk-android-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitcoindevkit/bdk-android/2.3.0/bdk-android-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitcoindevkit/bdk-android/2.3.1/bdk-android-2.3.1.jar returned status 404
+3.0.0		2026-06-03T19:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitcoindevkit/bdk-android/3.0.0/bdk-android-3.0.0.jar returned status 404

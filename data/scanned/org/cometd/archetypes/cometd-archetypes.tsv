@@ -6,6 +6,8 @@
 7.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/7.0.19/cometd-archetypes-7.0.19.jar returned status 404
 8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/8.0.10/cometd-archetypes-8.0.10.jar returned status 404
 8.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/8.0.11/cometd-archetypes-8.0.11.jar returned status 404
+8.0.12		2026-06-10T11:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/8.0.12/cometd-archetypes-8.0.12.jar returned status 404
 8.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/8.0.8/cometd-archetypes-8.0.8.jar returned status 404
 8.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/8.0.9/cometd-archetypes-8.0.9.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/9.0.0/cometd-archetypes-9.0.0.jar returned status 404
+9.0.1		2026-06-10T11:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/archetypes/cometd-archetypes/9.0.1/cometd-archetypes-9.0.1.jar returned status 404

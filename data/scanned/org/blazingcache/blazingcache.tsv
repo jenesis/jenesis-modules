@@ -1,1 +1,2 @@
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/blazingcache/blazingcache/3.5.0/blazingcache-3.5.0.jar returned status 404
+3.6.0		2026-06-08T09:06:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/blazingcache/blazingcache/3.6.0/blazingcache-3.6.0.jar returned status 404

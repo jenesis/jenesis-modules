@@ -1902,5 +1902,6 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.46.8	named	software.amazon.awssdk	bundle-sdk	2026-06-10T21:17:15Z	1.17.1
 2.46.9	named	software.amazon.awssdk	bundle	2026-06-11T21:19:19Z	1.17.1
 2.46.9	named	software.amazon.awssdk	bundle-sdk	2026-06-11T21:19:31Z	1.17.1
+0.1.0	named	org.boostscale	velox4j	2026-06-12T19:40:32Z	1.17.0
 2.46.10	named	software.amazon.awssdk	bundle	2026-06-12T21:27:12Z	1.17.1
 2.46.10	named	software.amazon.awssdk	bundle-sdk	2026-06-12T21:27:12Z	1.17.1

@@ -1,2 +1,3 @@
 2.6-alpha		2026-05-27T11:36:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-android/2.6-alpha/conscrypt-android-2.6-alpha.jar returned status 404
 2.6-alpha2		2026-05-28T17:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-android/2.6-alpha2/conscrypt-android-2.6-alpha2.jar returned status 404
+2.6-alpha3		2026-06-04T14:42:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-android/2.6-alpha3/conscrypt-android-2.6-alpha3.jar returned status 404

@@ -2,3 +2,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/connect/cibseven-connect-bom/2.0.0/cibseven-connect-bom-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/connect/cibseven-connect-bom/2.1.0/cibseven-connect-bom-2.1.0.jar returned status 404
 2.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/connect/cibseven-connect-bom/2.1.0-alpha/cibseven-connect-bom-2.1.0-alpha.jar returned status 404
+2.2.0		2026-05-31T16:25:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/connect/cibseven-connect-bom/2.2.0/cibseven-connect-bom-2.2.0.jar returned status 404

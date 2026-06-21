@@ -39,6 +39,7 @@
 11.0.0.beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/11.0.0.beta-01/bonita-project-11.0.0.beta-01.jar returned status 404
 11.0.0.beta-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/11.0.0.beta-02/bonita-project-11.0.0.beta-02.jar returned status 404
 11.0.0.beta-03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/11.0.0.beta-03/bonita-project-11.0.0.beta-03.jar returned status 404
+11.1.0.beta-01		2026-06-15T15:44:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/11.1.0.beta-01/bonita-project-11.1.0.beta-01.jar returned status 404
 9.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/9.0.10/bonita-project-9.0.10.jar returned status 404
 9.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/9.0.11/bonita-project-9.0.11.jar returned status 404
 9.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/bonita-project/9.0.12/bonita-project-9.0.12.jar returned status 404

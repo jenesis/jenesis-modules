@@ -1,0 +1,7 @@
+0.1.0		2026-06-05T11:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.1.0/org.bmc4j.gradle.plugin-0.1.0.jar returned status 404
+0.1.2		2026-06-05T12:48:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.1.2/org.bmc4j.gradle.plugin-0.1.2.jar returned status 404
+0.3.0		2026-06-07T10:55:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.3.0/org.bmc4j.gradle.plugin-0.3.0.jar returned status 404
+0.4.4		2026-06-09T13:47:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.4.4/org.bmc4j.gradle.plugin-0.4.4.jar returned status 404
+0.5.0		2026-06-10T13:17:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.5.0/org.bmc4j.gradle.plugin-0.5.0.jar returned status 404
+0.5.1		2026-06-10T14:16:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.5.1/org.bmc4j.gradle.plugin-0.5.1.jar returned status 404
+0.6.0		2026-06-11T11:14:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bmc4j/org.bmc4j.gradle.plugin/0.6.0/org.bmc4j.gradle.plugin-0.6.0.jar returned status 404

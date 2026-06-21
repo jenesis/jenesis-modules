@@ -1,3 +1,5 @@
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/spring-integration-parent/5.0.0/spring-integration-parent-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/spring-integration-parent/5.1.0/spring-integration-parent-5.1.0.jar returned status 404
 5.1.1		2026-05-25T12:00:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/spring-integration-parent/5.1.1/spring-integration-parent-5.1.1.jar returned status 404
+5.1.2		2026-06-13T13:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/spring-integration-parent/5.1.2/spring-integration-parent-5.1.2.jar returned status 404
+6.0.0		2026-06-14T10:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bremersee/spring-integration-parent/6.0.0/spring-integration-parent-6.0.0.jar returned status 404

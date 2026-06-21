@@ -358,9 +358,33 @@
 4.0.2-dev04+3db4ffb	metadata	2026-05-12T22:53:27Z	
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.0/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.0.jar returned status 404
 4.1.0	metadata	2026-05-14T21:53:28Z	
+4.1.1		2026-06-03T11:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.1/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.1.jar returned status 404
+4.1.1	metadata	2026-06-03T11:21:28Z	
 4.1.1-dev01+910a739		2026-05-19T02:20:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.1-dev01+910a739/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.1-dev01+910a739.jar returned status 404
 4.1.1-dev01+910a739	metadata	2026-05-19T02:20:33Z	
 4.1.1-dev02+fd6cb49		2026-05-19T22:18:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.1-dev02+fd6cb49/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.1-dev02+fd6cb49.jar returned status 404
 4.1.1-dev02+fd6cb49	metadata	2026-05-19T22:18:15Z	
 4.1.1-dev04+c94834b		2026-05-26T14:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.1-dev04+c94834b/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.1-dev04+c94834b.jar returned status 404
 4.1.1-dev04+c94834b	metadata	2026-05-26T14:17:01Z	
+4.1.1-dev06+770fda1		2026-06-03T10:36:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.1-dev06+770fda1/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.1-dev06+770fda1.jar returned status 404
+4.1.1-dev06+770fda1	metadata	2026-06-03T10:36:20Z	
+4.1.2-dev01+dea7b42		2026-06-03T17:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev01+dea7b42/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev01+dea7b42.jar returned status 404
+4.1.2-dev01+dea7b42	metadata	2026-06-03T17:23:44Z	
+4.1.2-dev01+ea430c9		2026-06-03T16:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev01+ea430c9/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev01+ea430c9.jar returned status 404
+4.1.2-dev01+ea430c9	metadata	2026-06-03T16:50:37Z	
+4.1.2-dev02+a28610c		2026-06-03T19:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev02+a28610c/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev02+a28610c.jar returned status 404
+4.1.2-dev02+a28610c	metadata	2026-06-03T19:21:28Z	
+4.1.2-dev03+cc32b34		2026-06-10T11:46:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev03+cc32b34/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev03+cc32b34.jar returned status 404
+4.1.2-dev03+cc32b34	metadata	2026-06-10T11:46:09Z	
+4.1.2-dev04+9280270		2026-06-12T23:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev04+9280270/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev04+9280270.jar returned status 404
+4.1.2-dev04+9280270	metadata	2026-06-12T23:35:04Z	
+4.1.2-dev05+3bc29d2		2026-06-13T19:05:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.1.2-dev05+3bc29d2/maven-central-portal-kotlin-api-iossimulatorarm64-4.1.2-dev05+3bc29d2.jar returned status 404
+4.1.2-dev05+3bc29d2	metadata	2026-06-13T19:05:43Z	
+4.2.1		2026-06-16T20:27:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.2.1/maven-central-portal-kotlin-api-iossimulatorarm64-4.2.1.jar returned status 404
+4.2.1	metadata	2026-06-16T20:27:31Z	
+4.2.1-dev01+74cfe69		2026-06-14T12:17:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.2.1-dev01+74cfe69/maven-central-portal-kotlin-api-iossimulatorarm64-4.2.1-dev01+74cfe69.jar returned status 404
+4.2.1-dev01+74cfe69	metadata	2026-06-14T12:17:22Z	
+4.2.1-dev02+603aa4f		2026-06-16T19:47:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.2.1-dev02+603aa4f/maven-central-portal-kotlin-api-iossimulatorarm64-4.2.1-dev02+603aa4f.jar returned status 404
+4.2.1-dev02+603aa4f	metadata	2026-06-16T19:47:20Z	
+4.2.2-dev01+37b7a63		2026-06-16T21:00:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.2.2-dev01+37b7a63/maven-central-portal-kotlin-api-iossimulatorarm64-4.2.2-dev01+37b7a63.jar returned status 404
+4.2.2-dev01+37b7a63	metadata	2026-06-16T21:00:19Z	
