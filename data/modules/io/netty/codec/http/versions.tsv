@@ -274,3 +274,12 @@
 4.2.15.Final	named	io.netty	netty-codec-http	2026-06-02T05:22:29Z	4.2.15.Final
 4.1.135.Final	automatic	io.netty	netty-codec-http	2026-06-02T19:15:30Z	
 2.2.1	named	com.xuxueli	xxl-rpc-netty-shade	2026-06-13T07:53:29Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-aws-cmdb	2026-06-18T21:03:33Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-cloudwatch-metrics	2026-06-18T21:03:33Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-mysql	2026-06-18T21:03:33Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-postgresql	2026-06-18T21:03:33Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-redshift	2026-06-18T21:03:33Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-cloudwatch	2026-06-18T21:03:34Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-dynamodb	2026-06-18T21:03:34Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-jdbc	2026-06-18T21:03:34Z	4.2.15.Final
+2026.24.1	named	com.amazonaws	athena-oracle	2026-06-18T21:03:34Z	4.2.15.Final

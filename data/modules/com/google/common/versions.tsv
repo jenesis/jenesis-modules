@@ -926,6 +926,8 @@
 5.3.11	named	io.digiexpress	thena-sql-client-annot-proc	2026-06-03T15:33:08Z	33.5.0-jre
 5.3.12	named	io.digiexpress	thena-sql-client-annot-proc	2026-06-03T17:52:53Z	33.5.0-jre
 6.0.22	named	io.digiexpress	thena-sql-client-annot-proc	2026-06-04T11:04:42Z	33.5.0-jre
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps	2026-06-04T13:13:32Z	33.4.8-jre
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-odps	2026-06-04T13:13:32Z	33.4.8-jre
 4.12.8.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-06-04T13:32:32Z	33.4.8-jre
 2.5.15	named	org.apache.hbase	hbase-shaded-mapreduce	2026-06-04T19:30:19Z	33.4.8-jre
 2.5.15	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T19:30:46Z	33.4.8-jre
@@ -933,6 +935,8 @@
 2.6.6	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T19:34:31Z	33.4.8-jre
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-mapreduce	2026-06-04T19:52:54Z	33.4.8-jre
 2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-mapreduce	2026-06-04T20:00:54Z	33.4.8-jre
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps	2026-06-05T01:36:53Z	33.4.8-jre
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-odps	2026-06-05T01:36:54Z	33.4.8-jre
 1.6.0.1rc1	named	io.acryl	datahub-protobuf	2026-06-05T09:13:24Z	33.6.0-jre
 6.0.24	named	io.digiexpress	thena-sql-client-annot-proc	2026-06-08T13:27:44Z	33.5.0-jre
 6.0.25	named	io.digiexpress	thena-sql-client-annot-proc	2026-06-09T15:16:43Z	33.5.0-jre

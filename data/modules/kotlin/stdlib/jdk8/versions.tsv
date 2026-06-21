@@ -1732,6 +1732,7 @@
 7.7.6	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-06-03T16:48:34Z	
 7.7.6	named	com.newrelic.agent.android	agent-gradle-plugin	2026-06-03T16:48:47Z	
 1.57.0	named	com.google.genai	google-genai	2026-06-04T00:46:17Z	
+3.10.7	named	com.aliyun.odps	odps-jdbc	2026-06-04T12:07:04Z	
 0.14.2	named	org.apache.hudi	hudi-utilities-bundle_2.11	2026-06-06T04:24:01Z	
 0.14.2	named	org.apache.hudi	hudi-spark2.4-bundle_2.11	2026-06-06T04:25:36Z	
 0.14.2	named	org.apache.hudi	hudi-spark2.4-bundle_2.12	2026-06-06T04:37:00Z	
@@ -1751,4 +1752,5 @@
 0.14.2	named	org.apache.hudi	hudi-flink1.17-bundle	2026-06-06T07:15:03Z	
 0.14.2	named	org.apache.hudi	hudi-flink1.18-bundle	2026-06-06T07:19:52Z	
 1.58.0	named	com.google.genai	google-genai	2026-06-10T23:33:26Z	
+3.10.8	named	com.aliyun.odps	odps-jdbc	2026-06-17T12:53:36Z	
 1.59.0	named	com.google.genai	google-genai	2026-06-17T22:23:59Z	

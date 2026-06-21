@@ -1105,6 +1105,10 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 0.21.2	named	ai.askamerica	askamerica-engine	2026-06-01T13:30:16Z	2.18.4
 0.21.3	named	ai.askamerica	askamerica-engine	2026-06-01T14:10:11Z	2.18.4
 0.21.4	named	ai.askamerica	askamerica-engine	2026-06-01T19:14:14Z	2.18.4
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-mongodb	2026-06-04T13:13:31Z	2.14.3
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	flink-connector-mongodb	2026-06-04T13:13:32Z	2.14.3
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	flink-connector-mongodb	2026-06-05T01:36:54Z	2.14.3
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-mongodb	2026-06-05T01:36:54Z	2.14.3
 4.2.2	named	org.apache.pulsar	pulsar-functions-local-runner	2026-06-05T17:23:22Z	2.18.6
 4.0.11	named	org.apache.pulsar	pulsar-functions-local-runner	2026-06-05T17:34:11Z	2.18.6
 0.5.0	named	org.lance	lance-spark-bundle-3.5_2.12	2026-06-08T21:22:21Z	2.17.1

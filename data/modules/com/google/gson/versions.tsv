@@ -4773,6 +4773,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 2.3.0-M1-4ee33449fff18243c019f799b636cdb8c8a18f6c	named	com.eed3si9n.remoteapis.shaded	shaded-remoteapis-java	2026-06-03T06:20:16Z	2.10.1
 1.0.0	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:41:49Z	2.10.1
 1.0.1	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:57:45Z	2.10.1
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-04T13:13:33Z	2.11.0
 0.13.5	named	com.uber.nullaway	jar-infer-cli	2026-06-04T17:07:24Z	2.13.2
 2.6.6	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:24:12Z	2.13.2
 2.6.6	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:25:39Z	2.13.2
@@ -4780,6 +4781,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 2.5.15	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:35:48Z	2.13.2
 2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:51:43Z	2.13.2
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T20:04:44Z	2.13.2
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-05T01:36:54Z	2.11.0
 8.31.0.44157	named	org.sonarsource.java	java-custom-rules-example	2026-06-05T12:22:15Z	2.14.0
 0.13.6	named	com.uber.nullaway	jar-infer-cli	2026-06-05T16:24:01Z	2.13.2
 4.2.2	named	org.apache.pulsar	jclouds-shaded	2026-06-05T17:19:01Z	2.10.1

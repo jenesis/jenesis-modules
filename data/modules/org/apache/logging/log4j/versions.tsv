@@ -2504,6 +2504,9 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 5.0	named	io.github.zhouzhoucoder	zys-wrench-starter-dynamic-config-center	2026-06-03T14:03:43Z	2.17.2
 5.0	named	io.github.zhouzhoucoder	zys-wrench-starter-rate-limiter	2026-06-03T14:03:43Z	2.17.2
 5.0	named	io.github.zhouzhoucoder	zys-wrench-starter-task-job	2026-06-03T14:03:43Z	2.17.2
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch8	2026-06-04T13:13:32Z	2.17.0
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-elasticsearch	2026-06-04T13:13:33Z	2.17.0
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-elasticsearch	2026-06-05T01:36:54Z	2.17.0
 0.14.2	named	org.apache.hudi	hudi-cli-bundle_2.11	2026-06-06T04:28:34Z	2.17.2
 0.14.2	named	org.apache.hudi	hudi-cli-bundle_2.12	2026-06-06T06:16:31Z	2.17.2
 4.3.2	named	com.vaimee	sepa-jena-fuseki-fulljar	2026-06-08T16:51:13Z	2.17.2

@@ -72,6 +72,7 @@
 6.18.1-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.18.1-rc6/lvl-beta-6.18.1-rc6.jar returned status 404
 6.18.1-rc7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.18.1-rc7/lvl-beta-6.18.1-rc7.jar returned status 404
 6.18.1-rc8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.18.1-rc8/lvl-beta-6.18.1-rc8.jar returned status 404
+6.18.2-rc1		2026-06-11T13:35:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.18.2-rc1/lvl-beta-6.18.2-rc1.jar returned status 404
 6.5.4-rc2_gradle7_POC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.5.4-rc2_gradle7_POC/lvl-beta-6.5.4-rc2_gradle7_POC.jar returned status 404
 6.6.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.6.0-rc1/lvl-beta-6.6.0-rc1.jar returned status 404
 6.6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/lvl-beta/6.6.0-rc2/lvl-beta-6.6.0-rc2.jar returned status 404

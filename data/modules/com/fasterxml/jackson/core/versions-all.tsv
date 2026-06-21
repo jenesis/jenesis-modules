@@ -341,3 +341,6 @@
 2.3.7-rc1	named	com.michalklempa.software.amazon.msk	aws-msk-iam-auth	2026-06-01T11:33:03Z	2.18.3
 2.3.7-rc1	named	com.michalklempa	aws-msk-iam-auth	2026-06-01T11:33:04Z	2.18.3
 2.3.7	named	software.amazon.msk	aws-msk-iam-auth	2026-06-01T21:15:17Z	2.18.3
+4.40.0	named	com.algolia	algoliasearch	2026-06-11T14:26:25Z	2.15.2
+4.40.1	named	com.algolia	algoliasearch	2026-06-15T14:04:14Z	2.15.2
+4.41.0	named	com.algolia	algoliasearch	2026-06-16T11:16:57Z	2.15.2

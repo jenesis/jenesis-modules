@@ -66,5 +66,7 @@
 3.0.0-beta1	named	network.lightsail	stellar-sdk	2026-04-22T02:34:14Z	2.13.2
 3.0.0	named	network.lightsail	stellar-sdk	2026-04-22T04:16:22Z	2.13.2
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-01T12:12:42Z	2.11.0
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-04T13:13:31Z	2.11.0
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-06-05T01:36:55Z	2.11.0
 3.1.0	named	network.lightsail	stellar-sdk	2026-06-12T01:20:37Z	2.13.2
 4.0.0-beta0	named	network.lightsail	stellar-sdk	2026-06-17T08:03:36Z	2.13.2

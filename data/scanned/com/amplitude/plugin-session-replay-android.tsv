@@ -57,6 +57,8 @@
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.25.0/plugin-session-replay-android-0.25.0.jar returned status 404
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.26.0/plugin-session-replay-android-0.26.0.jar returned status 404
 0.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.26.1/plugin-session-replay-android-0.26.1.jar returned status 404
+0.26.2		2026-06-11T22:40:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.26.2/plugin-session-replay-android-0.26.2.jar returned status 404
+0.26.3		2026-06-19T07:36:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.26.3/plugin-session-replay-android-0.26.3.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.3.0/plugin-session-replay-android-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.4.0/plugin-session-replay-android-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.4.1/plugin-session-replay-android-0.4.1.jar returned status 404
@@ -94,3 +96,4 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.8.0/plugin-session-replay-android-0.8.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.9.0/plugin-session-replay-android-0.9.0.jar returned status 404
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/0.9.1/plugin-session-replay-android-0.9.1.jar returned status 404
+1.0.0-alpha.1		2026-06-16T20:51:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/plugin-session-replay-android/1.0.0-alpha.1/plugin-session-replay-android-1.0.0-alpha.1.jar returned status 404

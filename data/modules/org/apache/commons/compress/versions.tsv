@@ -1340,4 +1340,6 @@
 2.74.0	named	org.apache.beam	beam-sdks-java-io-amazon-web-services2-expansion-service	2026-05-28T21:33:51Z	1.26.2
 2.74.0	named	org.apache.beam	beam-sdks-java-io-debezium-expansion-service	2026-05-28T21:34:28Z	1.26.2
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-01T12:12:43Z	1.26.1
+1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-04T13:13:32Z	1.26.0
+1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-05T01:36:55Z	1.26.0
 1.20.5	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-08T09:24:28Z	1.26.0
