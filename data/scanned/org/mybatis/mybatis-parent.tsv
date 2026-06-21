@@ -13,3 +13,4 @@
 49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/mybatis-parent/49/mybatis-parent-49.jar returned status 404
 50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/mybatis-parent/50/mybatis-parent-50.jar returned status 404
 51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/mybatis-parent/51/mybatis-parent-51.jar returned status 404
+52		2026-05-31T15:21:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/mybatis-parent/52/mybatis-parent-52.jar returned status 404
