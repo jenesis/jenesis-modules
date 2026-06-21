@@ -16,3 +16,4 @@
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-project/4.0.1/metro-project-4.0.1.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-project/4.0.5/metro-project-4.0.5.jar returned status 404
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-project/4.0.6/metro-project-4.0.6.jar returned status 404
+4.0.7		2026-06-05T17:24:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-project/4.0.7/metro-project-4.0.7.jar returned status 404

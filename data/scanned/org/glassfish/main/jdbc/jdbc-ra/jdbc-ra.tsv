@@ -27,5 +27,6 @@
 8.0.0-M15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/8.0.0-M15/jdbc-ra-8.0.0-M15.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/8.0.1/jdbc-ra-8.0.1.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/8.0.2/jdbc-ra-8.0.2.jar returned status 404
+8.0.3		2026-06-07T14:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/8.0.3/jdbc-ra-8.0.3.jar returned status 404
 9.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/9.0.0-M1/jdbc-ra-9.0.0-M1.jar returned status 404
 9.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/jdbc/jdbc-ra/jdbc-ra/9.0.0-M2/jdbc-ra-9.0.0-M2.jar returned status 404

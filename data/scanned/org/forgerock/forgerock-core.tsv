@@ -40,3 +40,5 @@
 4.8.3-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/forgerock/forgerock-core/4.8.3-beta1/forgerock-core-4.8.3-beta1.jar returned status 404
 4.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/forgerock/forgerock-core/4.8.4/forgerock-core-4.8.4.jar returned status 404
 4.8.4-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/forgerock/forgerock-core/4.8.4-beta1/forgerock-core-4.8.4-beta1.jar returned status 404
+4.8.5		2026-06-01T15:31:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/forgerock/forgerock-core/4.8.5/forgerock-core-4.8.5.jar returned status 404
+4.8.6		2026-06-16T18:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/forgerock/forgerock-core/4.8.6/forgerock-core-4.8.6.jar returned status 404

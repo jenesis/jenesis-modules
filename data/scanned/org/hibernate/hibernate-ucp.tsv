@@ -55,6 +55,8 @@
 6.6.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.5.Final/hibernate-ucp-6.6.5.Final.jar returned status 404
 6.6.50.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.50.Final/hibernate-ucp-6.6.50.Final.jar returned status 404
 6.6.51.Final		2026-05-24T00:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.51.Final/hibernate-ucp-6.6.51.Final.jar returned status 404
+6.6.52.Final		2026-05-31T00:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.52.Final/hibernate-ucp-6.6.52.Final.jar returned status 404
+6.6.53.Final		2026-06-09T07:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.53.Final/hibernate-ucp-6.6.53.Final.jar returned status 404
 6.6.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.6.Final/hibernate-ucp-6.6.6.Final.jar returned status 404
 6.6.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.7.Final/hibernate-ucp-6.6.7.Final.jar returned status 404
 6.6.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/6.6.8.Final/hibernate-ucp-6.6.8.Final.jar returned status 404
@@ -66,3 +68,4 @@
 7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/7.0.0.Beta2/hibernate-ucp-7.0.0.Beta2.jar returned status 404
 7.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/7.0.0.Beta3/hibernate-ucp-7.0.0.Beta3.jar returned status 404
 7.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/7.0.0.Beta4/hibernate-ucp-7.0.0.Beta4.jar returned status 404
+8.0.0.Beta1		2026-06-16T20:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ucp/8.0.0.Beta1/hibernate-ucp-8.0.0.Beta1.jar returned status 404

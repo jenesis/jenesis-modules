@@ -26,6 +26,7 @@
 3.1.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/3.1.0-M7/project-3.1.0-M7.jar returned status 404
 3.1.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/3.1.0-M8/project-3.1.0-M8.jar returned status 404
 3.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/3.1.11/project-3.1.11.jar returned status 404
+3.1.12		2026-06-11T12:55:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/3.1.12/project-3.1.12.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/4.0.0/project-4.0.0.jar returned status 404
 4.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/4.0.0-M3/project-4.0.0-M3.jar returned status 404
 4.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/bundles/project/4.0.0-M4/project-4.0.0-M4.jar returned status 404

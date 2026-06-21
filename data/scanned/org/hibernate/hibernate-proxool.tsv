@@ -428,6 +428,8 @@
 6.6.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.5.Final/hibernate-proxool-6.6.5.Final.jar returned status 404
 6.6.50.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.50.Final/hibernate-proxool-6.6.50.Final.jar returned status 404
 6.6.51.Final		2026-05-24T00:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.51.Final/hibernate-proxool-6.6.51.Final.jar returned status 404
+6.6.52.Final		2026-05-31T00:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.52.Final/hibernate-proxool-6.6.52.Final.jar returned status 404
+6.6.53.Final		2026-06-09T07:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.53.Final/hibernate-proxool-6.6.53.Final.jar returned status 404
 6.6.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.6.Final/hibernate-proxool-6.6.6.Final.jar returned status 404
 6.6.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.7.Final/hibernate-proxool-6.6.7.Final.jar returned status 404
 6.6.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-proxool/6.6.8.Final/hibernate-proxool-6.6.8.Final.jar returned status 404

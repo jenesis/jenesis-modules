@@ -4,3 +4,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-modules/4.0.0/grizzly-modules-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-modules/5.0.0/grizzly-modules-5.0.0.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-modules/5.0.1/grizzly-modules-5.0.1.jar returned status 404
+5.0.2		2026-06-05T20:12:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-modules/5.0.2/grizzly-modules-5.0.2.jar returned status 404
