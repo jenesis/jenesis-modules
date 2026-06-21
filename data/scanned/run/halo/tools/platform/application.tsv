@@ -9,3 +9,4 @@
 2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.23.0/application-2.23.0.jar returned status 404
 2.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.23.1/application-2.23.1.jar returned status 404
 2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.24.0/application-2.24.0.jar returned status 404
+2.25.0		2026-06-12T08:26:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/application/2.25.0/application-2.25.0.jar returned status 404

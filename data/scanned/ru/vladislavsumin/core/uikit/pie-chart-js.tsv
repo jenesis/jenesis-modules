@@ -1,0 +1,3 @@
+1.5.2		2026-05-30T13:35:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-js/1.5.2/pie-chart-js-1.5.2.jar returned status 404
+1.6.0		2026-05-30T14:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-js/1.6.0/pie-chart-js-1.6.0.jar returned status 404
+1.7.0		2026-05-30T17:45:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-js/1.7.0/pie-chart-js-1.7.0.jar returned status 404

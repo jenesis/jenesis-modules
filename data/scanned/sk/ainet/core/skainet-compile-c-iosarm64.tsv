@@ -36,6 +36,20 @@
 0.23.1	metadata	2026-05-02T20:39:44Z	
 0.25.0		2026-05-25T07:16:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.25.0/skainet-compile-c-iosarm64-0.25.0.jar returned status 404
 0.25.0	metadata	2026-05-25T07:16:59Z	
+0.26.0		2026-05-30T18:32:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.26.0/skainet-compile-c-iosarm64-0.26.0.jar returned status 404
+0.26.0	metadata	2026-05-30T18:32:00Z	
+0.27.0		2026-06-04T19:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.27.0/skainet-compile-c-iosarm64-0.27.0.jar returned status 404
+0.27.0	metadata	2026-06-04T19:22:52Z	
+0.28.0		2026-06-06T13:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.28.0/skainet-compile-c-iosarm64-0.28.0.jar returned status 404
+0.28.0	metadata	2026-06-06T13:53:45Z	
+0.28.1		2026-06-06T17:40:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.28.1/skainet-compile-c-iosarm64-0.28.1.jar returned status 404
+0.28.1	metadata	2026-06-06T17:40:43Z	
+0.29.1		2026-06-09T13:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.29.1/skainet-compile-c-iosarm64-0.29.1.jar returned status 404
+0.29.1	metadata	2026-06-09T13:14:44Z	
+0.30.0		2026-06-13T17:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.30.0/skainet-compile-c-iosarm64-0.30.0.jar returned status 404
+0.30.0	metadata	2026-06-13T17:21:14Z	
+0.31.0		2026-06-15T16:40:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.31.0/skainet-compile-c-iosarm64-0.31.0.jar returned status 404
+0.31.0	metadata	2026-06-15T16:40:28Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.6.3/skainet-compile-c-iosarm64-0.6.3.jar returned status 404
 0.6.3	metadata	2026-01-02T10:40:05Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-c-iosarm64/0.7.0/skainet-compile-c-iosarm64-0.7.0.jar returned status 404

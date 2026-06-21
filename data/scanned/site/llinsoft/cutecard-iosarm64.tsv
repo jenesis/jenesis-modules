@@ -26,3 +26,5 @@
 0.3.0	metadata	2026-05-23T21:51:46Z	
 0.3.1		2026-05-24T16:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iosarm64/0.3.1/cutecard-iosarm64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-05-24T16:06:10Z	
+0.3.3		2026-06-01T21:20:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/llinsoft/cutecard-iosarm64/0.3.3/cutecard-iosarm64-0.3.3.jar returned status 404
+0.3.3	metadata	2026-06-01T21:20:34Z	

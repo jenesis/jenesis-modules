@@ -2,3 +2,4 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/vexa/reactor/shore-starters/2.7.0/shore-starters-2.7.0.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/vexa/reactor/shore-starters/2.7.1/shore-starters-2.7.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/vexa/reactor/shore-starters/3.0.0/shore-starters-3.0.0.jar returned status 404
+4.0.6		2026-05-31T11:46:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/vexa/reactor/shore-starters/4.0.6/shore-starters-4.0.6.jar returned status 404

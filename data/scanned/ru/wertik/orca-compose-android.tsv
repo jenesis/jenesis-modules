@@ -3,6 +3,7 @@
 0.11.2		2026-05-26T09:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.11.2/orca-compose-android-0.11.2.jar returned status 404
 0.12.0		2026-05-26T13:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.12.0/orca-compose-android-0.12.0.jar returned status 404
 0.12.1		2026-05-26T13:51:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.12.1/orca-compose-android-0.12.1.jar returned status 404
+0.13.0		2026-05-30T12:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.13.0/orca-compose-android-0.13.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.6.0/orca-compose-android-0.6.0.jar returned status 404
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.6.3/orca-compose-android-0.6.3.jar returned status 404
 0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-android/0.6.4/orca-compose-android-0.6.4.jar returned status 404

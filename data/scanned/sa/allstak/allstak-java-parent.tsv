@@ -4,3 +4,6 @@
 0.1.4		2026-05-18T17:12:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.1.4/allstak-java-parent-0.1.4.jar returned status 404
 0.1.5		2026-05-20T10:49:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.1.5/allstak-java-parent-0.1.5.jar returned status 404
 0.2.0		2026-05-28T17:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.2.0/allstak-java-parent-0.2.0.jar returned status 404
+0.2.1		2026-05-28T22:03:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.2.1/allstak-java-parent-0.2.1.jar returned status 404
+0.3.0		2026-05-29T03:43:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.3.0/allstak-java-parent-0.3.0.jar returned status 404
+0.4.0		2026-05-30T00:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sa/allstak/allstak-java-parent/0.4.0/allstak-java-parent-0.4.0.jar returned status 404
