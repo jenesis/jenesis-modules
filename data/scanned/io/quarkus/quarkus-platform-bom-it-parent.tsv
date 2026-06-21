@@ -10,3 +10,4 @@
 0.0.129			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-platform-bom-it-parent/0.0.129/quarkus-platform-bom-it-parent-0.0.129.jar returned status 404
 0.0.130			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-platform-bom-it-parent/0.0.130/quarkus-platform-bom-it-parent-0.0.130.jar returned status 404
 0.0.131		2026-05-26T14:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-platform-bom-it-parent/0.0.131/quarkus-platform-bom-it-parent-0.0.131.jar returned status 404
+0.0.132		2026-06-12T13:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-platform-bom-it-parent/0.0.132/quarkus-platform-bom-it-parent-0.0.132.jar returned status 404

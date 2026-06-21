@@ -4412,3 +4412,5 @@ io.quarkus.qute.generator
 io.quarkus.qute.debug
 io.quarkus.qute
 org.wildfly.common
+io.quarkus.packaging.common
+io.quarkus.modular
