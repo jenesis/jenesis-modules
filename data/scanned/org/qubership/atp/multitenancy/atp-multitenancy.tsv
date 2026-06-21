@@ -1,3 +1,5 @@
 0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/multitenancy/atp-multitenancy/0.0.11/atp-multitenancy-0.0.11.jar returned status 404
 0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/multitenancy/atp-multitenancy/0.0.12/atp-multitenancy-0.0.12.jar returned status 404
 0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/multitenancy/atp-multitenancy/0.0.13/atp-multitenancy-0.0.13.jar returned status 404
+0.0.14		2026-06-10T18:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/multitenancy/atp-multitenancy/0.0.14/atp-multitenancy-0.0.14.jar returned status 404
+1.0.0		2026-06-01T12:06:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/multitenancy/atp-multitenancy/1.0.0/atp-multitenancy-1.0.0.jar returned status 404

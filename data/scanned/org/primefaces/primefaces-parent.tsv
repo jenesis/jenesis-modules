@@ -2,10 +2,12 @@
 11.0.19-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/11.0.19-LTS/primefaces-parent-11.0.19-LTS.jar returned status 404
 11.0.20-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/11.0.20-LTS/primefaces-parent-11.0.20-LTS.jar returned status 404
 11.0.21-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/11.0.21-LTS/primefaces-parent-11.0.21-LTS.jar returned status 404
+11.0.22-LTS		2026-05-29T17:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/11.0.22-LTS/primefaces-parent-11.0.22-LTS.jar returned status 404
 12.0.11-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/12.0.11-LTS/primefaces-parent-12.0.11-LTS.jar returned status 404
 12.0.12-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/12.0.12-LTS/primefaces-parent-12.0.12-LTS.jar returned status 404
 12.0.13-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/12.0.13-LTS/primefaces-parent-12.0.13-LTS.jar returned status 404
 12.0.14-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/12.0.14-LTS/primefaces-parent-12.0.14-LTS.jar returned status 404
+12.0.15-LTS		2026-05-29T17:13:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/12.0.15-LTS/primefaces-parent-12.0.15-LTS.jar returned status 404
 13.0.17-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.17-LTS/primefaces-parent-13.0.17-LTS.jar returned status 404
 13.0.18-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.18-LTS/primefaces-parent-13.0.18-LTS.jar returned status 404
 13.0.19-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.19-LTS/primefaces-parent-13.0.19-LTS.jar returned status 404
@@ -14,15 +16,18 @@
 13.0.22-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.22-LTS/primefaces-parent-13.0.22-LTS.jar returned status 404
 13.0.23-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.23-LTS/primefaces-parent-13.0.23-LTS.jar returned status 404
 13.0.24-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.24-LTS/primefaces-parent-13.0.24-LTS.jar returned status 404
+13.0.25-LTS		2026-05-29T16:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/13.0.25-LTS/primefaces-parent-13.0.25-LTS.jar returned status 404
 14.0.13-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/14.0.13-LTS/primefaces-parent-14.0.13-LTS.jar returned status 404
 14.0.14-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/14.0.14-LTS/primefaces-parent-14.0.14-LTS.jar returned status 404
 14.0.15-LTS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/14.0.15-LTS/primefaces-parent-14.0.15-LTS.jar returned status 404
+14.0.16-LTS		2026-05-29T15:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/14.0.16-LTS/primefaces-parent-14.0.16-LTS.jar returned status 404
 15.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.10/primefaces-parent-15.0.10.jar returned status 404
 15.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.11/primefaces-parent-15.0.11.jar returned status 404
 15.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.12/primefaces-parent-15.0.12.jar returned status 404
 15.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.13/primefaces-parent-15.0.13.jar returned status 404
 15.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.14/primefaces-parent-15.0.14.jar returned status 404
 15.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.15/primefaces-parent-15.0.15.jar returned status 404
+15.0.16		2026-06-10T18:01:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.16/primefaces-parent-15.0.16.jar returned status 404
 15.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.5/primefaces-parent-15.0.5.jar returned status 404
 15.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.6/primefaces-parent-15.0.6.jar returned status 404
 15.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-parent/15.0.7/primefaces-parent-15.0.7.jar returned status 404

@@ -33,3 +33,4 @@
 0.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/jbct-parent/0.4.8/jbct-parent-0.4.8.jar returned status 404
 0.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/jbct-parent/0.4.9/jbct-parent-0.4.9.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/jbct-parent/0.5.0/jbct-parent-0.5.0.jar returned status 404
+1.0.0-rc1		2026-06-13T21:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/jbct-parent/1.0.0-rc1/jbct-parent-1.0.0-rc1.jar returned status 404

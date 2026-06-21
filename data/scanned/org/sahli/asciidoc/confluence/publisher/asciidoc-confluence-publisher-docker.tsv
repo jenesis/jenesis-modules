@@ -36,6 +36,9 @@
 0.32.0		2026-05-20T19:49:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.32.0/asciidoc-confluence-publisher-docker-0.32.0.jar returned status 404
 0.32.0	docker-info	2026-05-20T19:49:43Z	
 0.32.0	jar-with-dependencies	2026-05-20T19:49:43Z	
+0.33.0		2026-06-05T17:11:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sahli/asciidoc/confluence/publisher/asciidoc-confluence-publisher-docker/0.33.0/asciidoc-confluence-publisher-docker-0.33.0.jar returned status 404
+0.33.0	docker-info	2026-06-05T17:11:35Z	
+0.33.0	jar-with-dependencies	2026-06-05T17:11:35Z	
 0.8.0		2019-09-14T13:20:43Z	
 0.9.0		2020-03-09T08:45:56Z	
 0.9.1		2020-05-26T18:27:35Z	

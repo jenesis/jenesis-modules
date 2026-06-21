@@ -6,3 +6,4 @@
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/project-kessel/kessel-sdk-parent/1.6.0/kessel-sdk-parent-1.6.0.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/project-kessel/kessel-sdk-parent/1.7.0/kessel-sdk-parent-1.7.0.jar returned status 404
 1.7.1		2026-05-28T14:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/project-kessel/kessel-sdk-parent/1.7.1/kessel-sdk-parent-1.7.1.jar returned status 404
+1.8.0		2026-06-15T20:13:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/project-kessel/kessel-sdk-parent/1.8.0/kessel-sdk-parent-1.8.0.jar returned status 404

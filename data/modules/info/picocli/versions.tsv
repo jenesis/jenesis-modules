@@ -879,3 +879,7 @@
 26.6.2	named	org.keycloak	keycloak-admin-cli	2026-05-19T12:17:54Z	4.7.7
 3.3.1	named	org.apache.tika	tika-parser-nlp-package	2026-05-20T20:17:44Z	4.7.7
 1.0.3	named	com.muquit.libgpw	libgpw	2026-05-25T02:55:14Z	4.7.7
+14.0.16-LTS	named	org.primefaces	primefaces-cli	2026-05-29T15:58:52Z	4.7.5
+12.0.15-LTS	named	org.primefaces	primefaces-cli	2026-05-29T17:13:21Z	
+11.0.22-LTS	named	org.primefaces	primefaces-cli	2026-05-29T17:18:32Z	
+15.0.16	named	org.primefaces	primefaces-cli	2026-06-10T18:01:59Z	4.7.6
