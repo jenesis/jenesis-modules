@@ -1,3 +1,5 @@
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-wasm-js/5.3.0/kudzu-core-wasm-js-5.3.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-wasm-js/6.0.0/kudzu-core-wasm-js-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-wasm-js/6.1.0/kudzu-core-wasm-js-6.1.0.jar returned status 404
+6.1.1		2026-06-07T04:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-wasm-js/6.1.1/kudzu-core-wasm-js-6.1.1.jar returned status 404
+6.1.2		2026-06-08T14:47:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/copper-leaf/kudzu-core-wasm-js/6.1.2/kudzu-core-wasm-js-6.1.2.jar returned status 404

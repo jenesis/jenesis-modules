@@ -1,3 +1,5 @@
+0.2.10		2026-05-31T15:10:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/canghw/Service-Threadpool-Info/0.2.10/Service-Threadpool-Info-0.2.10.jar returned status 404
+0.2.10.1		2026-06-18T09:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/canghw/Service-Threadpool-Info/0.2.10.1/Service-Threadpool-Info-0.2.10.1.jar returned status 404
 0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/canghw/Service-Threadpool-Info/0.2.3/Service-Threadpool-Info-0.2.3.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/canghw/Service-Threadpool-Info/0.2.4/Service-Threadpool-Info-0.2.4.jar returned status 404
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/canghw/Service-Threadpool-Info/0.2.5/Service-Threadpool-Info-0.2.5.jar returned status 404

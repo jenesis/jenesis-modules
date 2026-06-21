@@ -9,5 +9,10 @@
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/0.3.0/bom-0.3.0.jar returned status 404
 0.4.0		2026-05-24T07:24:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/0.4.0/bom-0.4.0.jar returned status 404
 0.5.0		2026-05-26T21:16:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/0.5.0/bom-0.5.0.jar returned status 404
+0.6.0		2026-05-31T12:36:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/0.6.0/bom-0.6.0.jar returned status 404
+1.0.0		2026-06-01T04:24:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.0.0/bom-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.0.1/bom-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.0.2/bom-1.0.2.jar returned status 404
+1.1.0		2026-06-01T07:21:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.1.0/bom-1.1.0.jar returned status 404
+1.2.0		2026-06-13T08:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.2.0/bom-1.2.0.jar returned status 404
+1.2.1		2026-06-13T09:34:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/bom/1.2.1/bom-1.2.1.jar returned status 404

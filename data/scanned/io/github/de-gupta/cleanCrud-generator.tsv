@@ -9,3 +9,5 @@
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-gupta/cleanCrud-generator/0.4.0/cleanCrud-generator-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-gupta/cleanCrud-generator/0.4.1/cleanCrud-generator-0.4.1.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-gupta/cleanCrud-generator/0.5.0/cleanCrud-generator-0.5.0.jar returned status 404
+0.6.0		2026-06-07T13:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-gupta/cleanCrud-generator/0.6.0/cleanCrud-generator-0.6.0.jar returned status 404
+0.7.0		2026-06-09T09:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/de-gupta/cleanCrud-generator/0.7.0/cleanCrud-generator-0.7.0.jar returned status 404

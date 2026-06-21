@@ -2,6 +2,10 @@
 03202f5	metadata	2026-04-06T22:50:44Z	
 0629cbb			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/0629cbb/haversine-iosarm64-0629cbb.jar returned status 404
 0629cbb	metadata	2026-04-23T02:53:00Z	
+150f366		2026-06-11T20:05:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/150f366/haversine-iosarm64-150f366.jar returned status 404
+150f366	metadata	2026-06-11T20:05:11Z	
+17c3e67		2026-06-03T21:21:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/17c3e67/haversine-iosarm64-17c3e67.jar returned status 404
+17c3e67	metadata	2026-06-03T21:21:21Z	
 1adf81d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/1adf81d/haversine-iosarm64-1adf81d.jar returned status 404
 1adf81d	metadata	2026-03-17T00:09:59Z	
 2253eb7		2026-05-25T17:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/2253eb7/haversine-iosarm64-2253eb7.jar returned status 404
@@ -14,6 +18,8 @@
 2b2036a	metadata	2026-04-20T20:43:00Z	
 447f642			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/447f642/haversine-iosarm64-447f642.jar returned status 404
 447f642	metadata	2026-04-07T18:26:17Z	
+5423a68		2026-06-02T17:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/5423a68/haversine-iosarm64-5423a68.jar returned status 404
+5423a68	metadata	2026-06-02T17:48:02Z	
 6970c84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/6970c84/haversine-iosarm64-6970c84.jar returned status 404
 6970c84	metadata	2026-05-11T20:32:00Z	
 6aec95d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/6aec95d/haversine-iosarm64-6aec95d.jar returned status 404
@@ -22,6 +28,8 @@
 79c4158	metadata	2026-03-17T00:43:04Z	
 849ac9d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/849ac9d/haversine-iosarm64-849ac9d.jar returned status 404
 849ac9d	metadata	2026-04-13T13:21:21Z	
+850a058		2026-06-03T22:59:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/850a058/haversine-iosarm64-850a058.jar returned status 404
+850a058	metadata	2026-06-03T22:59:26Z	
 8e536c0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/8e536c0/haversine-iosarm64-8e536c0.jar returned status 404
 8e536c0	metadata	2026-03-19T22:35:48Z	
 91c3a1b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/91c3a1b/haversine-iosarm64-91c3a1b.jar returned status 404
@@ -36,9 +44,17 @@ c443c96			IOException: Tail request on https://maven-central.storage-download.go
 c443c96	metadata	2026-05-08T01:51:50Z	
 cbf70c3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/cbf70c3/haversine-iosarm64-cbf70c3.jar returned status 404
 cbf70c3	metadata	2026-04-16T01:24:52Z	
+dbe2605		2026-06-11T02:00:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/dbe2605/haversine-iosarm64-dbe2605.jar returned status 404
+dbe2605	metadata	2026-06-11T02:00:34Z	
 dd60264		2026-05-26T23:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/dd60264/haversine-iosarm64-dd60264.jar returned status 404
 dd60264	metadata	2026-05-26T23:22:28Z	
+de3a3b6		2026-06-16T21:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/de3a3b6/haversine-iosarm64-de3a3b6.jar returned status 404
+de3a3b6	metadata	2026-06-16T21:22:53Z	
 e72dfd6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/e72dfd6/haversine-iosarm64-e72dfd6.jar returned status 404
 e72dfd6	metadata	2026-04-11T02:14:23Z	
+ea267b2		2026-06-05T01:09:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/ea267b2/haversine-iosarm64-ea267b2.jar returned status 404
+ea267b2	metadata	2026-06-05T01:09:22Z	
+edd9f7f		2026-06-03T23:59:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/edd9f7f/haversine-iosarm64-edd9f7f.jar returned status 404
+edd9f7f	metadata	2026-06-03T23:59:40Z	
 f785b37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iosarm64/f785b37/haversine-iosarm64-f785b37.jar returned status 404
 f785b37	metadata	2026-04-13T11:34:52Z	

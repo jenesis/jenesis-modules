@@ -7,3 +7,7 @@
 0.0.111		2026-05-19T13:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.0.111/homing.js-0.0.111.jar returned status 404
 0.1.0		2026-05-21T14:26:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.1.0/homing.js-0.1.0.jar returned status 404
 0.2.0		2026-05-26T07:18:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.2.0/homing.js-0.2.0.jar returned status 404
+0.3.0		2026-05-31T13:18:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.3.0/homing.js-0.3.0.jar returned status 404
+0.4.0		2026-06-14T01:36:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.4.0/homing.js-0.4.0.jar returned status 404
+0.5.0		2026-06-16T13:36:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.5.0/homing.js-0.5.0.jar returned status 404
+0.5.1		2026-06-18T09:09:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/captainssingapura-hue/homing/js/homing.js/0.5.1/homing.js-0.5.1.jar returned status 404

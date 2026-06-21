@@ -22,3 +22,5 @@
 1.1.0	metadata	2026-05-29T20:05:03Z	
 1.1.1		2026-05-30T06:34:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iossimulatorarm64/1.1.1/pdfkmp-iossimulatorarm64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-05-30T06:34:49Z	
+1.2.0		2026-06-07T16:44:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/conamobiledev/pdfkmp-iossimulatorarm64/1.2.0/pdfkmp-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-06-07T16:44:55Z	

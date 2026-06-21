@@ -1031,3 +1031,9 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 0.14.2	named	org.apache.hudi	hudi-spark3-bundle_2.12	2026-06-06T06:49:11Z	2.14.2
 7.23.0	named	org.openapitools	openapi-generator-cli	2026-06-08T13:31:39Z	2.21.1
 1.49.0	named	io.openlineage	spark-extension-interfaces	2026-06-10T09:45:53Z	2.15.3
+0.1.0-beta.1	named	io.github.cloudstub	cloudstub-core	2026-06-13T20:23:25Z	2.19.0
+0.1.0-beta.1	named	io.github.cloudstub	cloudstub-local	2026-06-13T20:23:25Z	2.19.0
+0.1.0-beta.2	named	io.github.cloudstub	cloudstub-core	2026-06-17T08:45:17Z	2.19.0
+0.1.0-beta.2	named	io.github.cloudstub	cloudstub-local	2026-06-17T08:45:17Z	2.19.0
+0.1.0-beta.3	named	io.github.cloudstub	cloudstub-core	2026-06-17T10:22:36Z	2.19.0
+0.1.0-beta.3	named	io.github.cloudstub	cloudstub-local	2026-06-17T10:22:36Z	2.19.0

@@ -1,0 +1,7 @@
+1.0.0		2026-06-12T13:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.0/tools-1.0.0.jar returned status 404
+1.0.1		2026-06-14T13:11:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.1/tools-1.0.1.jar returned status 404
+1.0.2		2026-06-14T13:46:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.2/tools-1.0.2.jar returned status 404
+1.0.3		2026-06-14T16:10:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.3/tools-1.0.3.jar returned status 404
+1.0.4		2026-06-14T18:05:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.4/tools-1.0.4.jar returned status 404
+1.0.5		2026-06-14T20:44:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.5/tools-1.0.5.jar returned status 404
+1.0.6		2026-06-17T22:03:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/danielgp-eu/tools/1.0.6/tools-1.0.6.jar returned status 404

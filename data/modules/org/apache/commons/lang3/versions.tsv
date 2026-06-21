@@ -1264,6 +1264,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.2.0.9	named	io.streamnative	buildtools	2026-05-30T07:10:29Z	3.19.0
 4.0.10.4	named	io.streamnative	buildtools	2026-05-31T15:51:48Z	3.19.0
 1.0.0-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-01T03:19:22Z	3.19.0
+1.6.0	named	io.github.davidwhitlock.joy	grader	2026-06-01T03:20:15Z	3.20.0
 4.2.0.10	named	io.streamnative	buildtools	2026-06-02T02:14:11Z	3.19.0
 1.48.0	named	io.openlineage	openlineage-sql-java	2026-06-02T16:27:07Z	3.18.0
 1.48.0	named	io.openlineage	openlineage-flink	2026-06-02T16:39:07Z	3.18.0
