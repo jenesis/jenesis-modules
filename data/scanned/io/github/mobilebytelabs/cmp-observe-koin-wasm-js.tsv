@@ -1,0 +1,5 @@
+3.4.2		2026-05-31T08:57:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-wasm-js/3.4.2/cmp-observe-koin-wasm-js-3.4.2.jar returned status 404
+3.4.3		2026-05-31T10:19:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-wasm-js/3.4.3/cmp-observe-koin-wasm-js-3.4.3.jar returned status 404
+3.4.4		2026-06-01T02:37:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-wasm-js/3.4.4/cmp-observe-koin-wasm-js-3.4.4.jar returned status 404
+3.5.0		2026-06-01T13:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-wasm-js/3.5.0/cmp-observe-koin-wasm-js-3.5.0.jar returned status 404
+3.5.1		2026-06-08T04:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-wasm-js/3.5.1/cmp-observe-koin-wasm-js-3.5.1.jar returned status 404

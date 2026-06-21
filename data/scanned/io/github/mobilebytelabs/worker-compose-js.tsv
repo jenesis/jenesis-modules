@@ -4,3 +4,6 @@
 3.0.0		2026-05-29T13:26:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/3.0.0/worker-compose-js-3.0.0.jar returned status 404
 3.0.1		2026-05-29T15:55:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/3.0.1/worker-compose-js-3.0.1.jar returned status 404
 3.0.2		2026-05-29T16:24:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/3.0.2/worker-compose-js-3.0.2.jar returned status 404
+3.1.1-alpha01		2026-05-31T11:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/3.1.1-alpha01/worker-compose-js-3.1.1-alpha01.jar returned status 404
+3.1.2		2026-06-01T16:07:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/3.1.2/worker-compose-js-3.1.2.jar returned status 404
+4.0.0		2026-06-06T12:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-compose-js/4.0.0/worker-compose-js-4.0.0.jar returned status 404

@@ -28,3 +28,13 @@
 3.4.0	metadata	2026-05-29T06:44:35Z	
 3.4.1		2026-05-29T13:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.4.1/cmp-network-monitor-compose-iosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:56:23Z	
+3.4.2		2026-05-31T09:29:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.4.2/cmp-network-monitor-compose-iosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:29:25Z	
+3.4.3		2026-05-31T10:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.4.3/cmp-network-monitor-compose-iosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:22:14Z	
+3.4.4		2026-06-01T02:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.4.4/cmp-network-monitor-compose-iosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:31:47Z	
+3.5.0		2026-06-01T13:56:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.5.0/cmp-network-monitor-compose-iosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T13:56:27Z	
+3.5.1		2026-06-08T04:27:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-compose-iosx64/3.5.1/cmp-network-monitor-compose-iosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:27:12Z	

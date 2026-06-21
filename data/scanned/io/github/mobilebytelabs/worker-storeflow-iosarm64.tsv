@@ -6,3 +6,9 @@
 3.0.1	metadata	2026-05-29T15:50:27Z	
 3.0.2		2026-05-29T16:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-iosarm64/3.0.2/worker-storeflow-iosarm64-3.0.2.jar returned status 404
 3.0.2	metadata	2026-05-29T16:27:31Z	
+3.1.1-alpha01		2026-05-31T11:44:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-iosarm64/3.1.1-alpha01/worker-storeflow-iosarm64-3.1.1-alpha01.jar returned status 404
+3.1.1-alpha01	metadata	2026-05-31T11:44:03Z	
+3.1.2		2026-06-01T16:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-iosarm64/3.1.2/worker-storeflow-iosarm64-3.1.2.jar returned status 404
+3.1.2	metadata	2026-06-01T16:01:00Z	
+4.0.0		2026-06-06T12:32:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-iosarm64/4.0.0/worker-storeflow-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-06-06T12:32:39Z	

@@ -1,0 +1,5 @@
+3.4.2		2026-05-31T08:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-js/3.4.2/cmp-observe-js-3.4.2.jar returned status 404
+3.4.3		2026-05-31T10:10:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-js/3.4.3/cmp-observe-js-3.4.3.jar returned status 404
+3.4.4		2026-06-01T02:32:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-js/3.4.4/cmp-observe-js-3.4.4.jar returned status 404
+3.5.0		2026-06-01T14:08:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-js/3.5.0/cmp-observe-js-3.5.0.jar returned status 404
+3.5.1		2026-06-08T04:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-js/3.5.1/cmp-observe-js-3.5.1.jar returned status 404

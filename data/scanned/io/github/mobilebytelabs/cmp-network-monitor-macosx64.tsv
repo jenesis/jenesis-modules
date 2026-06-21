@@ -28,3 +28,13 @@
 3.4.0	metadata	2026-05-29T06:47:40Z	
 3.4.1		2026-05-29T13:47:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.4.1/cmp-network-monitor-macosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:47:06Z	
+3.4.2		2026-05-31T09:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.4.2/cmp-network-monitor-macosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:38:06Z	
+3.4.3		2026-05-31T10:15:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.4.3/cmp-network-monitor-macosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:15:32Z	
+3.4.4		2026-06-01T02:24:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.4.4/cmp-network-monitor-macosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:24:48Z	
+3.5.0		2026-06-01T13:55:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.5.0/cmp-network-monitor-macosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T13:55:46Z	
+3.5.1		2026-06-08T04:30:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-network-monitor-macosx64/3.5.1/cmp-network-monitor-macosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:30:53Z	

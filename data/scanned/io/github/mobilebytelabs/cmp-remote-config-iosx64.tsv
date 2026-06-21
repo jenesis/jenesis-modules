@@ -32,3 +32,13 @@
 3.4.0	metadata	2026-05-29T06:40:52Z	
 3.4.1		2026-05-29T13:47:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.4.1/cmp-remote-config-iosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:47:26Z	
+3.4.2		2026-05-31T09:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.4.2/cmp-remote-config-iosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:49:19Z	
+3.4.3		2026-05-31T10:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.4.3/cmp-remote-config-iosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:14:50Z	
+3.4.4		2026-06-01T02:33:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.4.4/cmp-remote-config-iosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:33:29Z	
+3.5.0		2026-06-01T14:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.5.0/cmp-remote-config-iosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T14:12:19Z	
+3.5.1		2026-06-08T04:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-remote-config-iosx64/3.5.1/cmp-remote-config-iosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:27:51Z	

@@ -2,3 +2,13 @@
 3.4.0	metadata	2026-05-29T06:38:35Z	
 3.4.1		2026-05-29T13:46:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.4.1/cmp-share-compose-iosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:46:54Z	
+3.4.2		2026-05-31T09:43:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.4.2/cmp-share-compose-iosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:43:49Z	
+3.4.3		2026-05-31T10:14:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.4.3/cmp-share-compose-iosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:14:09Z	
+3.4.4		2026-06-01T02:29:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.4.4/cmp-share-compose-iosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:29:15Z	
+3.5.0		2026-06-01T14:02:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.5.0/cmp-share-compose-iosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T14:02:15Z	
+3.5.1		2026-06-08T04:23:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-iosx64/3.5.1/cmp-share-compose-iosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:23:53Z	

@@ -5,3 +5,6 @@
 3.0.0		2026-05-29T13:36:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/3.0.0/worker-web-js-3.0.0.jar returned status 404
 3.0.1		2026-05-29T15:46:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/3.0.1/worker-web-js-3.0.1.jar returned status 404
 3.0.2		2026-05-29T16:28:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/3.0.2/worker-web-js-3.0.2.jar returned status 404
+3.1.1-alpha01		2026-05-31T11:41:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/3.1.1-alpha01/worker-web-js-3.1.1-alpha01.jar returned status 404
+3.1.2		2026-06-01T16:10:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/3.1.2/worker-web-js-3.1.2.jar returned status 404
+4.0.0		2026-06-06T12:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-js/4.0.0/worker-web-js-4.0.0.jar returned status 404
