@@ -19,3 +19,6 @@
 1.5.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.5.78/iotevents-mingwx64-1.5.78.jar returned status 404
 1.5.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.5.79/iotevents-mingwx64-1.5.79.jar returned status 404
 1.5.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.5.80/iotevents-mingwx64-1.5.80.jar returned status 404
+1.6.103		2026-06-05T19:29:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.6.103/iotevents-mingwx64-1.6.103.jar returned status 404
+1.6.106		2026-06-05T23:09:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.6.106/iotevents-mingwx64-1.6.106.jar returned status 404
+1.6.113		2026-06-10T20:23:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/iotevents-mingwx64/1.6.113/iotevents-mingwx64-1.6.113.jar returned status 404
