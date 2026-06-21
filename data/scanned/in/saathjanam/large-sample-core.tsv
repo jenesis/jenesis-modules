@@ -68,3 +68,5 @@
 60.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-core/60.4.3/large-sample-core-60.4.3.jar returned status 404
 60.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-core/60.4.4/large-sample-core-60.4.4.jar returned status 404
 60.4.5		2026-05-14T05:44:30Z	
+60.5.4		2026-06-15T14:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-core/60.5.4/large-sample-core-60.5.4.jar returned status 404
+60.5.5		2026-06-16T07:01:55Z	

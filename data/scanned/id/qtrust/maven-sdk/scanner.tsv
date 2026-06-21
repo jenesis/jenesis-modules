@@ -1,0 +1,8 @@
+1.0.2		2026-06-04T04:10:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.0.2/scanner-1.0.2.jar returned status 404
+1.0.3		2026-06-04T04:23:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.0.3/scanner-1.0.3.jar returned status 404
+1.1.0		2026-06-07T22:19:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.1.0/scanner-1.1.0.jar returned status 404
+1.2.0		2026-06-08T08:58:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.2.0/scanner-1.2.0.jar returned status 404
+1.2.1		2026-06-08T09:06:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.2.1/scanner-1.2.1.jar returned status 404
+1.2.2		2026-06-09T05:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.2.2/scanner-1.2.2.jar returned status 404
+1.2.4		2026-06-09T09:15:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.2.4/scanner-1.2.4.jar returned status 404
+1.2.5		2026-06-10T05:46:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/qtrust/maven-sdk/scanner/1.2.5/scanner-1.2.5.jar returned status 404

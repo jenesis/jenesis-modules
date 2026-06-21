@@ -88,6 +88,12 @@
 2.12.66	metadata	2026-05-04T15:38:47Z	
 2.12.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.12.67/networking-kmp-iosx64-2.12.67.jar returned status 404
 2.12.67	metadata	2026-05-05T20:46:52Z	
+2.13.68		2026-06-06T13:00:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.13.68/networking-kmp-iosx64-2.13.68.jar returned status 404
+2.13.68	metadata	2026-06-06T13:00:48Z	
+2.13.69		2026-06-06T21:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.13.69/networking-kmp-iosx64-2.13.69.jar returned status 404
+2.13.69	metadata	2026-06-06T21:32:17Z	
+2.13.70		2026-06-11T11:14:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.13.70/networking-kmp-iosx64-2.13.70.jar returned status 404
+2.13.70	metadata	2026-06-11T11:14:19Z	
 2.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.5.40/networking-kmp-iosx64-2.5.40.jar returned status 404
 2.5.40	metadata	2025-03-20T21:02:16Z	
 2.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iosx64/2.5.41/networking-kmp-iosx64-2.5.41.jar returned status 404

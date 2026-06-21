@@ -82,6 +82,8 @@
 1.7.15	metadata	2026-05-27T01:53:53Z	
 1.7.16		2026-05-29T01:40:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/about-iossimulatorarm64/1.7.16/about-iossimulatorarm64-1.7.16.jar returned status 404
 1.7.16	metadata	2026-05-29T01:40:34Z	
+1.7.17		2026-06-01T04:17:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/about-iossimulatorarm64/1.7.17/about-iossimulatorarm64-1.7.17.jar returned status 404
+1.7.17	metadata	2026-06-01T04:17:19Z	
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/about-iossimulatorarm64/1.7.2/about-iossimulatorarm64-1.7.2.jar returned status 404
 1.7.2	metadata	2025-12-29T09:34:42Z	
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/toolkit/about-iossimulatorarm64/1.7.3/about-iossimulatorarm64-1.7.3.jar returned status 404

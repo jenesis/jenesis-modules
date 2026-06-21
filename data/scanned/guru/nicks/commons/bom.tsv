@@ -147,6 +147,22 @@
 100.260504.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260504.0/bom-100.260504.0.jar returned status 404
 100.260513.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260513.0/bom-100.260513.0.jar returned status 404
 100.260524.0		2026-05-24T11:32:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260524.0/bom-100.260524.0.jar returned status 404
+100.260601.0		2026-06-01T18:01:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260601.0/bom-100.260601.0.jar returned status 404
+100.260604.0		2026-06-04T16:40:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260604.0/bom-100.260604.0.jar returned status 404
+100.260605.0		2026-06-05T10:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260605.0/bom-100.260605.0.jar returned status 404
+100.260605.1		2026-06-05T11:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260605.1/bom-100.260605.1.jar returned status 404
+100.260605.2		2026-06-05T12:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260605.2/bom-100.260605.2.jar returned status 404
+100.260606.0		2026-06-06T11:13:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260606.0/bom-100.260606.0.jar returned status 404
+100.260606.1		2026-06-06T14:32:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260606.1/bom-100.260606.1.jar returned status 404
+100.260606.2		2026-06-06T17:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260606.2/bom-100.260606.2.jar returned status 404
+100.260607.0		2026-06-07T08:40:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260607.0/bom-100.260607.0.jar returned status 404
+100.260608.0		2026-06-08T10:04:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260608.0/bom-100.260608.0.jar returned status 404
+100.260608.1		2026-06-08T18:21:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260608.1/bom-100.260608.1.jar returned status 404
+100.260609.0		2026-06-09T08:23:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260609.0/bom-100.260609.0.jar returned status 404
+100.260609.1		2026-06-09T12:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260609.1/bom-100.260609.1.jar returned status 404
+100.260611.0		2026-06-11T09:55:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260611.0/bom-100.260611.0.jar returned status 404
+100.260616.0		2026-06-16T16:13:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260616.0/bom-100.260616.0.jar returned status 404
+100.260618.0		2026-06-18T12:10:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/100.260618.0/bom-100.260618.0.jar returned status 404
 2.2511.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/2.2511.3/bom-2.2511.3.jar returned status 404
 2.2511.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/2.2511.4/bom-2.2511.4.jar returned status 404
 2.2511.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nicks/commons/bom/2.2511.5/bom-2.2511.5.jar returned status 404

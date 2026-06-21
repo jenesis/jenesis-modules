@@ -1,0 +1,2 @@
+1.0.1		2026-06-02T23:58:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/my/noersy/scanner/1.0.1/scanner-1.0.1.jar returned status 404
+1.0.2		2026-06-04T04:05:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/my/noersy/scanner/1.0.2/scanner-1.0.2.jar returned status 404

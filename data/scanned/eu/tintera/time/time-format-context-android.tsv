@@ -1,0 +1,4 @@
+1.0.0		2026-06-05T14:55:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/time/time-format-context-android/1.0.0/time-format-context-android-1.0.0.jar returned status 404
+1.0.1		2026-06-09T19:30:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/time/time-format-context-android/1.0.1/time-format-context-android-1.0.1.jar returned status 404
+1.0.2		2026-06-12T21:53:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/time/time-format-context-android/1.0.2/time-format-context-android-1.0.2.jar returned status 404
+1.0.3		2026-06-17T17:16:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/time/time-format-context-android/1.0.3/time-format-context-android-1.0.3.jar returned status 404

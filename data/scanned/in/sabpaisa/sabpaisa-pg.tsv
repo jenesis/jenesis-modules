@@ -1,1 +1,4 @@
 1.0.0		2026-05-27T09:00:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/sabpaisa/sabpaisa-pg/1.0.0/sabpaisa-pg-1.0.0.jar returned status 404
+1.1.0		2026-06-01T06:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/sabpaisa/sabpaisa-pg/1.1.0/sabpaisa-pg-1.1.0.jar returned status 404
+1.2.0		2026-06-15T13:12:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/sabpaisa/sabpaisa-pg/1.2.0/sabpaisa-pg-1.2.0.jar returned status 404
+1.2.1		2026-06-15T13:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/sabpaisa/sabpaisa-pg/1.2.1/sabpaisa-pg-1.2.1.jar returned status 404

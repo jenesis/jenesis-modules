@@ -218,3 +218,12 @@
 377		2026-05-19T20:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/377/airbase-377.jar returned status 404
 378		2026-05-21T09:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/378/airbase-378.jar returned status 404
 379		2026-05-29T12:10:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/379/airbase-379.jar returned status 404
+380		2026-06-01T10:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/380/airbase-380.jar returned status 404
+381		2026-06-02T10:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/381/airbase-381.jar returned status 404
+382		2026-06-02T11:01:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/382/airbase-382.jar returned status 404
+383		2026-06-08T08:00:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/383/airbase-383.jar returned status 404
+384		2026-06-08T13:29:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/384/airbase-384.jar returned status 404
+385		2026-06-09T02:00:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/385/airbase-385.jar returned status 404
+386		2026-06-10T11:38:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/386/airbase-386.jar returned status 404
+387		2026-06-11T13:58:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/387/airbase-387.jar returned status 404
+388		2026-06-16T18:18:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/388/airbase-388.jar returned status 404

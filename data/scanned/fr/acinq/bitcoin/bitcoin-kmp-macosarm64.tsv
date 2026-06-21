@@ -30,3 +30,5 @@
 0.29.0	metadata	2025-12-18T14:22:45Z	
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-macosarm64/0.30.0/bitcoin-kmp-macosarm64-0.30.0.jar returned status 404
 0.30.0	metadata	2026-03-26T12:06:55Z	
+0.31.0		2026-06-01T08:18:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-macosarm64/0.31.0/bitcoin-kmp-macosarm64-0.31.0.jar returned status 404
+0.31.0	metadata	2026-06-01T08:18:27Z	

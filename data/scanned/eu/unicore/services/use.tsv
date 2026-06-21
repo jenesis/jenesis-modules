@@ -11,3 +11,5 @@
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/6.0.0/use-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/6.0.1/use-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/6.0.2/use-6.0.2.jar returned status 404
+6.1.0		2026-06-11T10:57:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/6.1.0/use-6.1.0.jar returned status 404
+6.1.1		2026-06-16T14:03:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/6.1.1/use-6.1.1.jar returned status 404

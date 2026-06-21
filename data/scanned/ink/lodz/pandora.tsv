@@ -41,3 +41,4 @@
 2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/lodz/pandora/2.1.7/pandora-2.1.7.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/lodz/pandora/2.2.0/pandora-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/lodz/pandora/2.3.0/pandora-2.3.0.jar returned status 404
+3.0.0		2026-06-12T07:01:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/lodz/pandora/3.0.0/pandora-3.0.0.jar returned status 404

@@ -9,3 +9,4 @@
 0.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-linuxarm64/0.28.1/bitcoin-kmp-linuxarm64-0.28.1.jar returned status 404
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-linuxarm64/0.29.0/bitcoin-kmp-linuxarm64-0.29.0.jar returned status 404
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-linuxarm64/0.30.0/bitcoin-kmp-linuxarm64-0.30.0.jar returned status 404
+0.31.0		2026-06-01T08:18:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/bitcoin/bitcoin-kmp-linuxarm64/0.31.0/bitcoin-kmp-linuxarm64-0.31.0.jar returned status 404

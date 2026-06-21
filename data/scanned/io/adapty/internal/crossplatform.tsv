@@ -23,6 +23,7 @@
 3.15.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.15.7/crossplatform-3.15.7.jar returned status 404
 3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.17.0/crossplatform-3.17.0.jar returned status 404
 3.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.17.1/crossplatform-3.17.1.jar returned status 404
+3.17.2		2026-06-05T16:06:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.17.2/crossplatform-3.17.2.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.2.0/crossplatform-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.3.0/crossplatform-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/internal/crossplatform/3.3.1/crossplatform-3.3.1.jar returned status 404

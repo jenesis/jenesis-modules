@@ -18,4 +18,11 @@
 40.0.9-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/40.0.9-beta/sdk-kotlin-40.0.9-beta.jar returned status 404
 41.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/41.0.1-beta/sdk-kotlin-41.0.1-beta.jar returned status 404
 41.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/41.0.3-beta/sdk-kotlin-41.0.3-beta.jar returned status 404
+43.0.10-beta		2026-06-04T03:54:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.10-beta/sdk-kotlin-43.0.10-beta.jar returned status 404
+43.0.12-beta		2026-06-04T17:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.12-beta/sdk-kotlin-43.0.12-beta.jar returned status 404
 43.0.3-beta		2026-05-28T18:40:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.3-beta/sdk-kotlin-43.0.3-beta.jar returned status 404
+43.0.5-beta		2026-06-01T17:13:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.5-beta/sdk-kotlin-43.0.5-beta.jar returned status 404
+43.0.6-beta		2026-06-01T19:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.6-beta/sdk-kotlin-43.0.6-beta.jar returned status 404
+43.0.8-beta		2026-06-02T20:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.8-beta/sdk-kotlin-43.0.8-beta.jar returned status 404
+43.0.9-beta		2026-06-03T20:13:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/43.0.9-beta/sdk-kotlin-43.0.9-beta.jar returned status 404
+44.0.3-beta		2026-06-12T06:39:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/candle/sdk-kotlin/44.0.3-beta/sdk-kotlin-44.0.3-beta.jar returned status 404

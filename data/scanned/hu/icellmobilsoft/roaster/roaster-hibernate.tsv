@@ -17,5 +17,6 @@
 2.3.0		2024-09-11T13:00:23Z	
 2.4.0		2024-10-20T17:01:52Z	
 2.5.0		2024-12-12T12:07:07Z	
+2.5.1		2026-06-02T09:40:43Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/roaster/roaster-hibernate/2.6.0/roaster-hibernate-2.6.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/roaster/roaster-hibernate/2.7.0/roaster-hibernate-2.7.0.jar returned status 404

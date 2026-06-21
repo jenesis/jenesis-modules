@@ -1,0 +1,5 @@
+1.0.0		2026-06-08T16:55:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/virtualparadox/managed-postgres-bom/1.0.0/managed-postgres-bom-1.0.0.jar returned status 404
+1.0.0-RC1		2026-06-07T00:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/virtualparadox/managed-postgres-bom/1.0.0-RC1/managed-postgres-bom-1.0.0-RC1.jar returned status 404
+1.0.0-RC3		2026-06-08T14:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/virtualparadox/managed-postgres-bom/1.0.0-RC3/managed-postgres-bom-1.0.0-RC3.jar returned status 404
+1.0.0-RC4		2026-06-08T16:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/virtualparadox/managed-postgres-bom/1.0.0-RC4/managed-postgres-bom-1.0.0-RC4.jar returned status 404
+1.0.1		2026-06-08T23:33:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/virtualparadox/managed-postgres-bom/1.0.1/managed-postgres-bom-1.0.1.jar returned status 404

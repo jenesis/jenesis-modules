@@ -43,6 +43,9 @@
 2.12.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.12.65/networking-kmp-wasm-js-2.12.65.jar returned status 404
 2.12.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.12.66/networking-kmp-wasm-js-2.12.66.jar returned status 404
 2.12.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.12.67/networking-kmp-wasm-js-2.12.67.jar returned status 404
+2.13.68		2026-06-06T13:00:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.13.68/networking-kmp-wasm-js-2.13.68.jar returned status 404
+2.13.69		2026-06-06T21:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.13.69/networking-kmp-wasm-js-2.13.69.jar returned status 404
+2.13.70		2026-06-11T11:14:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.13.70/networking-kmp-wasm-js-2.13.70.jar returned status 404
 2.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.5.40/networking-kmp-wasm-js-2.5.40.jar returned status 404
 2.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.5.41/networking-kmp-wasm-js-2.5.41.jar returned status 404
 2.6.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-wasm-js/2.6.42/networking-kmp-wasm-js-2.6.42.jar returned status 404

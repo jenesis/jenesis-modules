@@ -169,6 +169,7 @@
 1.48.0			InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute
 1.48.1			InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute
 1.48.10		2025-11-21T10:05:58Z	
+1.48.11		2026-06-18T09:06:31Z	
 1.48.2			InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute
 1.48.3			InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute
 1.48.4			InvalidModuleDescriptorException: Package io.aeron.shadow.net.bytebuddy.build missing from ModulePackages class file attribute
