@@ -132,3 +132,7 @@
 3.2.0	metadata	2026-02-11T00:21:39Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mokkery/mokkery-core-iosx64/3.3.0/mokkery-core-iosx64-3.3.0.jar returned status 404
 3.3.0	metadata	2026-03-17T23:33:43Z	
+3.4.0		2026-06-03T22:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mokkery/mokkery-core-iosx64/3.4.0/mokkery-core-iosx64-3.4.0.jar returned status 404
+3.4.0	metadata	2026-06-03T22:18:10Z	
+3.4.1		2026-06-06T12:38:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mokkery/mokkery-core-iosx64/3.4.1/mokkery-core-iosx64-3.4.1.jar returned status 404
+3.4.1	metadata	2026-06-06T12:38:41Z	

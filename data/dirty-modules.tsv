@@ -6211,3 +6211,7 @@ dev.openfeature.contrib.providers.jsonlogic
 dev.openfeature.contrib.providers.gcp
 dev.openfeature.contrib.providers.flipt
 dev.openfeature.contrib.providers.flagd
+dev.nthings.adf4j
+dev.matrixlab.webp4j.core
+dev.lukebemish.javacpostprocessor
+langchain4j.community.oci.genai

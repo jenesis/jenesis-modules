@@ -20,3 +20,5 @@
 1.0.1	metadata	2026-02-21T02:44:20Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mattramotar/meeseeks/runtime-iosx64/1.0.2/runtime-iosx64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-02-28T21:05:15Z	
+1.1.0		2026-06-12T02:47:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mattramotar/meeseeks/runtime-iosx64/1.1.0/runtime-iosx64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-12T02:47:51Z	
