@@ -18,5 +18,8 @@
 1.5.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.5.78/devicefarm-linuxx64-1.5.78.jar returned status 404
 1.5.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.5.79/devicefarm-linuxx64-1.5.79.jar returned status 404
 1.5.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.5.80/devicefarm-linuxx64-1.5.80.jar returned status 404
+1.6.103		2026-06-05T19:29:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.6.103/devicefarm-linuxx64-1.6.103.jar returned status 404
+1.6.106		2026-06-05T23:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.6.106/devicefarm-linuxx64-1.6.106.jar returned status 404
+1.6.113		2026-06-10T20:26:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.6.113/devicefarm-linuxx64-1.6.113.jar returned status 404
 1.6.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.6.65/devicefarm-linuxx64-1.6.65.jar returned status 404
 1.6.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/devicefarm-linuxx64/1.6.66/devicefarm-linuxx64-1.6.66.jar returned status 404
