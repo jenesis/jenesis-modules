@@ -11,3 +11,4 @@
 4.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-dependencies-bom/4.42.0/selenium-dependencies-bom-4.42.0.jar returned status 404
 4.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-dependencies-bom/4.43.0/selenium-dependencies-bom-4.43.0.jar returned status 404
 4.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-dependencies-bom/4.44.0/selenium-dependencies-bom-4.44.0.jar returned status 404
+4.45.0		2026-06-16T04:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-dependencies-bom/4.45.0/selenium-dependencies-bom-4.45.0.jar returned status 404

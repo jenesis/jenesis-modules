@@ -28,3 +28,5 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventstore-parent-pom/0.8.0/sliceworkz-eventstore-parent-pom-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventstore-parent-pom/0.8.1/sliceworkz-eventstore-parent-pom-0.8.1.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventstore-parent-pom/0.8.2/sliceworkz-eventstore-parent-pom-0.8.2.jar returned status 404
+0.9.0		2026-06-04T12:27:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventstore-parent-pom/0.9.0/sliceworkz-eventstore-parent-pom-0.9.0.jar returned status 404
+0.9.1		2026-06-07T07:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventstore-parent-pom/0.9.1/sliceworkz-eventstore-parent-pom-0.9.1.jar returned status 404

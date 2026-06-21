@@ -1,0 +1,4 @@
+6.3.0		2026-06-11T17:25:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/central/module-02/6.3.0/module-02-6.3.0.jar returned status 404
+6.3.1		2026-06-12T13:01:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/central/module-02/6.3.1/module-02-6.3.1.jar returned status 404
+6.3.3		2026-06-12T16:01:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/central/module-02/6.3.3/module-02-6.3.3.jar returned status 404
+6.3.4		2026-06-15T11:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/central/module-02/6.3.4/module-02-6.3.4.jar returned status 404

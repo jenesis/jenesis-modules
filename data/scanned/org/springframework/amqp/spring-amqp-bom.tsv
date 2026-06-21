@@ -22,6 +22,7 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.0/spring-amqp-bom-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.1/spring-amqp-bom-3.2.1.jar returned status 404
 3.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.10/spring-amqp-bom-3.2.10.jar returned status 404
+3.2.11		2026-06-09T15:37:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.11/spring-amqp-bom-3.2.11.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.2/spring-amqp-bom-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.3/spring-amqp-bom-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/3.2.4/spring-amqp-bom-3.2.4.jar returned status 404
@@ -40,6 +41,8 @@
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.0.1/spring-amqp-bom-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.0.2/spring-amqp-bom-4.0.2.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.0.3/spring-amqp-bom-4.0.3.jar returned status 404
+4.0.4		2026-06-09T15:38:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.0.4/spring-amqp-bom-4.0.4.jar returned status 404
+4.1.0		2026-06-09T15:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.1.0/spring-amqp-bom-4.1.0.jar returned status 404
 4.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.1.0-M1/spring-amqp-bom-4.1.0-M1.jar returned status 404
 4.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.1.0-M2/spring-amqp-bom-4.1.0-M2.jar returned status 404
 4.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/amqp/spring-amqp-bom/4.1.0-M3/spring-amqp-bom-4.1.0-M3.jar returned status 404
