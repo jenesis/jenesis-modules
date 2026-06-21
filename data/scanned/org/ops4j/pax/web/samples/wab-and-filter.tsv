@@ -1,9 +1,11 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/10.0.0/wab-and-filter-10.0.0.jar returned status 404
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/10.0.1/wab-and-filter-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/10.1.0/wab-and-filter-10.1.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/11.0.0/wab-and-filter-11.0.0.jar returned status 404
 11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/11.0.1/wab-and-filter-11.0.1.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/11.1.0/wab-and-filter-11.1.0.jar returned status 404
 11.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/11.1.1/wab-and-filter-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/11.1.2/wab-and-filter-11.1.2.jar returned status 404
 8.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.24/wab-and-filter-8.0.24.jar returned status 404
 8.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.25/wab-and-filter-8.0.25.jar returned status 404
 8.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.26/wab-and-filter-8.0.26.jar returned status 404
@@ -14,6 +16,7 @@
 8.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.33/wab-and-filter-8.0.33.jar returned status 404
 8.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.34/wab-and-filter-8.0.34.jar returned status 404
 8.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.35/wab-and-filter-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/8.0.36/wab-and-filter-8.0.36.jar returned status 404
 9.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/9.0.13/wab-and-filter-9.0.13.jar returned status 404
 9.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/9.0.14/wab-and-filter-9.0.14.jar returned status 404
 9.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-and-filter/9.0.15/wab-and-filter-9.0.15.jar returned status 404

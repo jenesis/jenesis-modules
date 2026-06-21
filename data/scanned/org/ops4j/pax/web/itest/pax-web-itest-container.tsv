@@ -1,9 +1,11 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/10.0.0/pax-web-itest-container-10.0.0.jar returned status 404
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/10.0.1/pax-web-itest-container-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/10.1.0/pax-web-itest-container-10.1.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/11.0.0/pax-web-itest-container-11.0.0.jar returned status 404
 11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/11.0.1/pax-web-itest-container-11.0.1.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/11.1.0/pax-web-itest-container-11.1.0.jar returned status 404
 11.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/11.1.1/pax-web-itest-container-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/11.1.2/pax-web-itest-container-11.1.2.jar returned status 404
 7.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/7.2.16/pax-web-itest-container-7.2.16.jar returned status 404
 7.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/7.2.17/pax-web-itest-container-7.2.17.jar returned status 404
 7.2.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/7.2.18/pax-web-itest-container-7.2.18.jar returned status 404
@@ -76,6 +78,7 @@
 8.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.33/pax-web-itest-container-8.0.33.jar returned status 404
 8.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.34/pax-web-itest-container-8.0.34.jar returned status 404
 8.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.35/pax-web-itest-container-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.36/pax-web-itest-container-8.0.36.jar returned status 404
 8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.4/pax-web-itest-container-8.0.4.jar returned status 404
 8.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.5/pax-web-itest-container-8.0.5.jar returned status 404
 8.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/pax-web-itest-container/8.0.6/pax-web-itest-container-8.0.6.jar returned status 404

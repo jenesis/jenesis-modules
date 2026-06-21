@@ -5,3 +5,6 @@
 0.3.1.1	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-04-30T18:49:31Z	9.12.1
 0.3.2.0	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-05-06T04:07:43Z	9.12.1
 0.3.2.1	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-05-15T17:58:46Z	9.12.1
+0.3.3.0	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-06-04T18:34:37Z	9.12.1
+0.3.3.1	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-06-06T05:24:54Z	9.12.1
+0.3.3.3	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-06-09T20:24:45Z	9.12.1

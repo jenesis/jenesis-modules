@@ -1,9 +1,11 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/10.0.0/pax-web-fragments-10.0.0.jar returned status 404
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/10.0.1/pax-web-fragments-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/10.1.0/pax-web-fragments-10.1.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/11.0.0/pax-web-fragments-11.0.0.jar returned status 404
 11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/11.0.1/pax-web-fragments-11.0.1.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/11.1.0/pax-web-fragments-11.1.0.jar returned status 404
 11.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/11.1.1/pax-web-fragments-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/11.1.2/pax-web-fragments-11.1.2.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.0/pax-web-fragments-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.1/pax-web-fragments-8.0.1.jar returned status 404
 8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.10/pax-web-fragments-8.0.10.jar returned status 404
@@ -32,6 +34,7 @@
 8.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.33/pax-web-fragments-8.0.33.jar returned status 404
 8.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.34/pax-web-fragments-8.0.34.jar returned status 404
 8.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.35/pax-web-fragments-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.36/pax-web-fragments-8.0.36.jar returned status 404
 8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.4/pax-web-fragments-8.0.4.jar returned status 404
 8.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.5/pax-web-fragments-8.0.5.jar returned status 404
 8.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-fragments/8.0.6/pax-web-fragments-8.0.6.jar returned status 404

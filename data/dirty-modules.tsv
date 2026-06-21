@@ -1723,3 +1723,7 @@ org.phenopackets.phenopackettools.builder
 org.paramixel.api
 org.pageseeder.sdk.model
 org.pageseeder.sdk.core
+org.orekit
+org.apache.lucene.suggest
+com.fasterxml.jackson.dataformat.smile
+kotlinx.coroutines.core
