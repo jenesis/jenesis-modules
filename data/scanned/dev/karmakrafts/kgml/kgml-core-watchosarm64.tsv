@@ -1,0 +1,6 @@
+1.0.0		2026-06-11T22:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-watchosarm64/1.0.0/kgml-core-watchosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-11T22:19:27Z	
+1.1.0		2026-06-12T16:10:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-watchosarm64/1.1.0/kgml-core-watchosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-12T16:10:42Z	
+1.2.0		2026-06-13T20:28:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-watchosarm64/1.2.0/kgml-core-watchosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-06-13T20:28:51Z	

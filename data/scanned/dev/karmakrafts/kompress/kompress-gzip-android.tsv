@@ -1,0 +1,2 @@
+2.0.0		2026-06-12T21:48:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-android/2.0.0/kompress-gzip-android-2.0.0.jar returned status 404
+2.1.0		2026-06-13T18:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-android/2.1.0/kompress-gzip-android-2.1.0.jar returned status 404
