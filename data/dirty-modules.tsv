@@ -2415,3 +2415,4 @@ symphony.bdk.core
 symphony.bdk.config
 symphony.bdk.app.spring.boot.starter
 symphony.group.extension
+io.netty.internal.tcnative
