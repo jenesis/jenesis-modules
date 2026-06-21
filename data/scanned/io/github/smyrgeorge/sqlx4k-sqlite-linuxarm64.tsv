@@ -44,6 +44,8 @@
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/0.9.4/sqlx4k-sqlite-linuxarm64-0.9.4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.0.0/sqlx4k-sqlite-linuxarm64-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.1.0/sqlx4k-sqlite-linuxarm64-1.1.0.jar returned status 404
+1.10.0		2026-06-11T19:11:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.10.0/sqlx4k-sqlite-linuxarm64-1.10.0.jar returned status 404
+1.11.0		2026-06-12T22:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.11.0/sqlx4k-sqlite-linuxarm64-1.11.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.2.0/sqlx4k-sqlite-linuxarm64-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.3.0/sqlx4k-sqlite-linuxarm64-1.3.0.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.4.0/sqlx4k-sqlite-linuxarm64-1.4.0.jar returned status 404
@@ -76,3 +78,5 @@
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.7.3/sqlx4k-sqlite-linuxarm64-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.7.4/sqlx4k-sqlite-linuxarm64-1.7.4.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.8.0/sqlx4k-sqlite-linuxarm64-1.8.0.jar returned status 404
+1.9.0		2026-06-04T06:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.9.0/sqlx4k-sqlite-linuxarm64-1.9.0.jar returned status 404
+1.9.1		2026-06-04T17:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-sqlite-linuxarm64/1.9.1/sqlx4k-sqlite-linuxarm64-1.9.1.jar returned status 404

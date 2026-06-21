@@ -1,3 +1,8 @@
+0.10.0		2026-06-09T19:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.10.0/pqc-mobile-client-0.10.0.jar returned status 404
+0.10.1		2026-06-10T08:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.10.1/pqc-mobile-client-0.10.1.jar returned status 404
+0.10.2		2026-06-10T16:03:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.10.2/pqc-mobile-client-0.10.2.jar returned status 404
+0.11.0		2026-06-11T09:10:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.11.0/pqc-mobile-client-0.11.0.jar returned status 404
+0.12.0		2026-06-11T17:34:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.12.0/pqc-mobile-client-0.12.0.jar returned status 404
 0.3.0		2026-05-27T04:24:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.3.0/pqc-mobile-client-0.3.0.jar returned status 404
 0.4.0		2026-05-28T08:41:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.4.0/pqc-mobile-client-0.4.0.jar returned status 404
 0.5.0		2026-05-28T09:55:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.5.0/pqc-mobile-client-0.5.0.jar returned status 404
@@ -6,3 +11,9 @@
 0.5.3		2026-05-28T18:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.5.3/pqc-mobile-client-0.5.3.jar returned status 404
 0.5.4		2026-05-29T07:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.5.4/pqc-mobile-client-0.5.4.jar returned status 404
 0.6.0		2026-05-30T12:56:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.6.0/pqc-mobile-client-0.6.0.jar returned status 404
+0.7.1		2026-06-01T14:58:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.7.1/pqc-mobile-client-0.7.1.jar returned status 404
+0.8.0		2026-06-08T08:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.8.0/pqc-mobile-client-0.8.0.jar returned status 404
+0.8.1		2026-06-08T14:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.8.1/pqc-mobile-client-0.8.1.jar returned status 404
+0.8.2		2026-06-09T09:07:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.8.2/pqc-mobile-client-0.8.2.jar returned status 404
+0.8.3		2026-06-09T11:51:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.8.3/pqc-mobile-client-0.8.3.jar returned status 404
+0.9.0		2026-06-09T17:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sriharsha-y/pqc-mobile-client/0.9.0/pqc-mobile-client-0.9.0.jar returned status 404

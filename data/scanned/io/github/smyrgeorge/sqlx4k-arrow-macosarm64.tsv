@@ -1,3 +1,7 @@
+1.10.0		2026-06-11T19:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.10.0/sqlx4k-arrow-macosarm64-1.10.0.jar returned status 404
+1.10.0	metadata	2026-06-11T19:11:43Z	
+1.11.0		2026-06-12T22:19:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.11.0/sqlx4k-arrow-macosarm64-1.11.0.jar returned status 404
+1.11.0	metadata	2026-06-12T22:19:46Z	
 1.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.5.10/sqlx4k-arrow-macosarm64-1.5.10.jar returned status 404
 1.5.10	metadata	2026-01-11T10:31:54Z	
 1.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.5.11/sqlx4k-arrow-macosarm64-1.5.11.jar returned status 404
@@ -50,3 +54,7 @@
 1.7.4	metadata	2026-04-22T15:45:18Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.8.0/sqlx4k-arrow-macosarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2026-05-16T18:49:59Z	
+1.9.0		2026-06-04T06:38:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.9.0/sqlx4k-arrow-macosarm64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-06-04T06:38:43Z	
+1.9.1		2026-06-04T17:21:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/sqlx4k-arrow-macosarm64/1.9.1/sqlx4k-arrow-macosarm64-1.9.1.jar returned status 404
+1.9.1	metadata	2026-06-04T17:21:18Z	

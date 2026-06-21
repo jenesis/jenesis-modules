@@ -1,0 +1,10 @@
+1.0.0		2026-06-14T14:44:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/the-best-is-best/nav3-annotations-macosarm64/1.0.0/nav3-annotations-macosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-14T14:44:16Z	
+1.0.0-rc.1		2026-06-14T09:56:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/the-best-is-best/nav3-annotations-macosarm64/1.0.0-rc.1/nav3-annotations-macosarm64-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.1	metadata	2026-06-14T09:56:13Z	
+1.0.0-rc.2		2026-06-14T10:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/the-best-is-best/nav3-annotations-macosarm64/1.0.0-rc.2/nav3-annotations-macosarm64-1.0.0-rc.2.jar returned status 404
+1.0.0-rc.2	metadata	2026-06-14T10:46:14Z	
+1.0.1		2026-06-14T16:44:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/the-best-is-best/nav3-annotations-macosarm64/1.0.1/nav3-annotations-macosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-06-14T16:44:01Z	
+1.1.0		2026-06-14T17:00:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/the-best-is-best/nav3-annotations-macosarm64/1.1.0/nav3-annotations-macosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-14T17:00:21Z	

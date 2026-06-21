@@ -43,3 +43,6 @@
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/1.8.3/smart-socket-parent-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/1.8.4/smart-socket-parent-1.8.4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/2.0.0/smart-socket-parent-2.0.0.jar returned status 404
+2.1.0		2026-06-12T06:17:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/2.1.0/smart-socket-parent-2.1.0.jar returned status 404
+2.1.1		2026-06-13T09:04:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/2.1.1/smart-socket-parent-2.1.1.jar returned status 404
+2.1.2		2026-06-13T13:05:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smartboot/socket/smart-socket-parent/2.1.2/smart-socket-parent-2.1.2.jar returned status 404

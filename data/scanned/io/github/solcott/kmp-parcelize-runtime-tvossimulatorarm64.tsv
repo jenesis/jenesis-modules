@@ -6,3 +6,5 @@
 1.0.2	metadata	2026-04-16T01:53:04Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solcott/kmp-parcelize-runtime-tvossimulatorarm64/1.0.3/kmp-parcelize-runtime-tvossimulatorarm64-1.0.3.jar returned status 404
 1.0.3	metadata	2026-04-23T20:20:46Z	
+1.0.4		2026-06-04T03:25:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solcott/kmp-parcelize-runtime-tvossimulatorarm64/1.0.4/kmp-parcelize-runtime-tvossimulatorarm64-1.0.4.jar returned status 404
+1.0.4	metadata	2026-06-04T03:25:29Z	

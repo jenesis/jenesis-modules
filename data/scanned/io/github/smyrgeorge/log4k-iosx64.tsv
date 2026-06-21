@@ -34,3 +34,7 @@
 2.0.0	metadata	2026-04-06T11:33:11Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-iosx64/2.0.1/log4k-iosx64-2.0.1.jar returned status 404
 2.0.1	metadata	2026-04-06T14:03:02Z	
+2.1.0		2026-06-13T11:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-iosx64/2.1.0/log4k-iosx64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-06-13T11:40:12Z	
+2.1.1		2026-06-13T23:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-iosx64/2.1.1/log4k-iosx64-2.1.1.jar returned status 404
+2.1.1	metadata	2026-06-13T23:20:16Z	

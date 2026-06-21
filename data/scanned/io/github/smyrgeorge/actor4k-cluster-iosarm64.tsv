@@ -54,6 +54,8 @@
 1.4.10	metadata	2026-03-09T00:25:41Z	
 1.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/actor4k-cluster-iosarm64/1.4.11/actor4k-cluster-iosarm64-1.4.11.jar returned status 404
 1.4.11	metadata	2026-04-27T07:06:37Z	
+1.4.12		2026-06-14T07:28:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/actor4k-cluster-iosarm64/1.4.12/actor4k-cluster-iosarm64-1.4.12.jar returned status 404
+1.4.12	metadata	2026-06-14T07:28:37Z	
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/actor4k-cluster-iosarm64/1.4.2/actor4k-cluster-iosarm64-1.4.2.jar returned status 404
 1.4.2	metadata	2025-10-16T11:54:57Z	
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/actor4k-cluster-iosarm64/1.4.3/actor4k-cluster-iosarm64-1.4.3.jar returned status 404

@@ -5451,3 +5451,5 @@ up2jakarta.csv.format
 up2jakarta.csv.core
 up2jakarta.cii.core
 com.fasterxml.jackson.datatype.jdk8
+jakarta.ws.rs
+com.github.sttk.errs
