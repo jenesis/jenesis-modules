@@ -44,3 +44,5 @@
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/exponea/sdk/sdk/4.9.0/sdk-4.9.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/exponea/sdk/sdk/5.0.0/sdk-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/exponea/sdk/sdk/5.1.0/sdk-5.1.0.jar returned status 404
+5.2.0		2026-06-02T14:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/exponea/sdk/sdk/5.2.0/sdk-5.2.0.jar returned status 404
+5.2.1		2026-06-12T13:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/exponea/sdk/sdk/5.2.1/sdk-5.2.1.jar returned status 404

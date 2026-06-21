@@ -34,3 +34,7 @@
 0.1.5	metadata	2026-02-24T13:36:29Z	
 0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-iosarm64/0.1.6/sushi-core-iosarm64-0.1.6.jar returned status 404
 0.1.6	metadata	2026-03-27T13:16:39Z	
+0.4.1.1		2026-06-17T08:44:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-iosarm64/0.4.1.1/sushi-core-iosarm64-0.4.1.1.jar returned status 404
+0.4.1.1	metadata	2026-06-17T08:44:29Z	
+0.4.1.2		2026-06-19T06:45:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-iosarm64/0.4.1.2/sushi-core-iosarm64-0.4.1.2.jar returned status 404
+0.4.1.2	metadata	2026-06-19T06:45:36Z	

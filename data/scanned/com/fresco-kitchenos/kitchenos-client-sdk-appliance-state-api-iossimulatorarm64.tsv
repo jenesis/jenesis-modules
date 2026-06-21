@@ -116,3 +116,11 @@
 1.57.1	metadata	2026-05-19T12:08:51Z	
 1.57.2		2026-05-20T08:31:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64/1.57.2/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64-1.57.2.jar returned status 404
 1.57.2	metadata	2026-05-20T08:31:29Z	
+1.58.0		2026-06-02T16:48:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64/1.58.0/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64-1.58.0.jar returned status 404
+1.58.0	metadata	2026-06-02T16:48:18Z	
+1.59.0		2026-06-11T15:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64/1.59.0/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64-1.59.0.jar returned status 404
+1.59.0	metadata	2026-06-11T15:01:06Z	
+1.59.1		2026-06-15T10:06:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64/1.59.1/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64-1.59.1.jar returned status 404
+1.59.1	metadata	2026-06-15T10:06:38Z	
+1.59.2		2026-06-17T08:59:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64/1.59.2/kitchenos-client-sdk-appliance-state-api-iossimulatorarm64-1.59.2.jar returned status 404
+1.59.2	metadata	2026-06-17T08:59:26Z	

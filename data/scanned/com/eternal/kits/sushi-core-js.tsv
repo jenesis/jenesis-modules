@@ -14,3 +14,5 @@
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-js/0.1.4/sushi-core-js-0.1.4.jar returned status 404
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-js/0.1.5/sushi-core-js-0.1.5.jar returned status 404
 0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-js/0.1.6/sushi-core-js-0.1.6.jar returned status 404
+0.4.1.1		2026-06-17T08:44:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-js/0.4.1.1/sushi-core-js-0.4.1.1.jar returned status 404
+0.4.1.2		2026-06-19T06:45:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-core-js/0.4.1.2/sushi-core-js-0.4.1.2.jar returned status 404

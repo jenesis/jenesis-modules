@@ -7,6 +7,7 @@
 1.0.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.0.218/fdk-examples-1.0.218.jar returned status 404
 1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.11/fdk-examples-1.1.11.jar returned status 404
 1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.12/fdk-examples-1.1.12.jar returned status 404
+1.1.14		2026-06-09T07:07:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.14/fdk-examples-1.1.14.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.2/fdk-examples-1.1.2.jar returned status 404
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.3/fdk-examples-1.1.3.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fnproject/fn/examples/fdk-examples/1.1.4/fdk-examples-1.1.4.jar returned status 404
