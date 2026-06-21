@@ -5,3 +5,4 @@
 1.55.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/apm/apm-agent-parent/1.55.4/apm-agent-parent-1.55.4.jar returned status 404
 1.55.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/apm/apm-agent-parent/1.55.5/apm-agent-parent-1.55.5.jar returned status 404
 1.55.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/apm/apm-agent-parent/1.55.6/apm-agent-parent-1.55.6.jar returned status 404
+1.56.0		2026-06-15T19:52:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/apm/apm-agent-parent/1.56.0/apm-agent-parent-1.56.0.jar returned status 404

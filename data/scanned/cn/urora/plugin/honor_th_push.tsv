@@ -1,3 +1,4 @@
 15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/honor_th_push/15.0.0/honor_th_push-15.0.0.jar returned status 404
 15.0.0-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/honor_th_push/15.0.0-debug/honor_th_push-15.0.0-debug.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/honor_th_push/15.0.1/honor_th_push-15.0.1.jar returned status 404
+15.0.2		2026-06-18T06:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/urora/plugin/honor_th_push/15.0.2/honor_th_push-15.0.2.jar returned status 404

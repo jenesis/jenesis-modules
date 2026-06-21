@@ -86,3 +86,5 @@
 2.4.1		2026-05-28T22:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark-bom/2.4.1/spark-bom-2.4.1.jar returned status 404
 2.4.2		2026-06-01T07:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark-bom/2.4.2/spark-bom-2.4.2.jar returned status 404
 2.5.0		2026-06-01T17:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark-bom/2.5.0/spark-bom-2.5.0.jar returned status 404
+2.6.0		2026-06-03T16:00:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark-bom/2.6.0/spark-bom-2.6.0.jar returned status 404
+2.7.0		2026-06-12T12:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark-bom/2.7.0/spark-bom-2.7.0.jar returned status 404

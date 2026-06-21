@@ -124,6 +124,8 @@
 5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/5.9.1/sdk-elite-trust-5.9.1.jar returned status 404
 5.9.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/5.9.1-RC1/sdk-elite-trust-5.9.1-RC1.jar returned status 404
 5.9.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/5.9.1-RC2/sdk-elite-trust-5.9.1-RC2.jar returned status 404
+5.9.2		2026-06-16T10:06:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/5.9.2/sdk-elite-trust-5.9.2.jar returned status 404
+5.9.2-RC1		2026-06-09T16:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/5.9.2-RC1/sdk-elite-trust-5.9.2-RC1.jar returned status 404
 6.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/6.0.0-RC1/sdk-elite-trust-6.0.0-RC1.jar returned status 404
 6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/6.0.0-RC2/sdk-elite-trust-6.0.0-RC2.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-elite-trust/6.0.0-RC3/sdk-elite-trust-6.0.0-RC3.jar returned status 404

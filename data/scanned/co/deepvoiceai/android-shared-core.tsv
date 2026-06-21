@@ -1,3 +1,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-shared-core/4.0.0/android-shared-core-4.0.0.jar returned status 404
 4.0.1		2026-05-24T15:00:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-shared-core/4.0.1/android-shared-core-4.0.1.jar returned status 404
 4.0.2		2026-05-28T06:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-shared-core/4.0.2/android-shared-core-4.0.2.jar returned status 404
+4.1.0		2026-06-20T07:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-shared-core/4.1.0/android-shared-core-4.1.0.jar returned status 404

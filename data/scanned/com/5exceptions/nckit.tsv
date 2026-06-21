@@ -1,0 +1,2 @@
+1.0.1		2026-06-01T08:55:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/5exceptions/nckit/1.0.1/nckit-1.0.1.jar returned status 404
+1.1.1		2026-06-01T11:08:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/5exceptions/nckit/1.1.1/nckit-1.1.1.jar returned status 404

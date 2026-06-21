@@ -38,3 +38,4 @@
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/saltpay/terminal/epos-integration-lib/1.4.5/epos-integration-lib-1.4.5.jar returned status 404
 1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/saltpay/terminal/epos-integration-lib/1.4.6/epos-integration-lib-1.4.6.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/saltpay/terminal/epos-integration-lib/1.5.0/epos-integration-lib-1.5.0.jar returned status 404
+1.5.1		2026-06-15T16:53:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/saltpay/terminal/epos-integration-lib/1.5.1/epos-integration-lib-1.5.1.jar returned status 404

@@ -57,3 +57,6 @@
 0.8.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.2.7/meta-component-0.8.2.7.jar returned status 404
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.3/meta-component-0.8.3.jar returned status 404
 0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.4/meta-component-0.8.4.jar returned status 404
+0.8.5		2026-06-03T06:12:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.5/meta-component-0.8.5.jar returned status 404
+0.8.6		2026-06-13T15:54:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.6/meta-component-0.8.6.jar returned status 404
+0.8.7		2026-06-16T21:10:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/acanx/meta/meta-component/0.8.7/meta-component-0.8.7.jar returned status 404

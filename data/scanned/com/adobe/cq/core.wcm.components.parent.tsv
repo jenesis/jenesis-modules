@@ -14,6 +14,7 @@
 2.30.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.30.3/core.wcm.components.parent-2.30.3.jar returned status 404
 2.30.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.30.4/core.wcm.components.parent-2.30.4.jar returned status 404
 2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.31.0/core.wcm.components.parent-2.31.0.jar returned status 404
+2.31.2		2026-06-19T17:48:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.31.2/core.wcm.components.parent-2.31.2.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.4.0/core.wcm.components.parent-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.5.0/core.wcm.components.parent-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/cq/core.wcm.components.parent/2.6.0/core.wcm.components.parent-2.6.0.jar returned status 404

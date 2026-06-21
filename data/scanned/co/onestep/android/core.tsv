@@ -123,6 +123,7 @@
 1.7.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/1.7.0-beta03/core-1.7.0-beta03.jar returned status 404
 1.7.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/1.7.0-beta04/core-1.7.0-beta04.jar returned status 404
 1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/1.7.5/core-1.7.5.jar returned status 404
+2.0.0		2026-06-17T08:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/2.0.0/core-2.0.0.jar returned status 404
 2.0.0-RC1		2026-05-24T07:06:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/2.0.0-RC1/core-2.0.0-RC1.jar returned status 404
 2.0.0-RC2		2026-05-26T10:25:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/2.0.0-RC2/core-2.0.0-RC2.jar returned status 404
 2.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/onestep/android/core/2.0.0-alpha09/core-2.0.0-alpha09.jar returned status 404

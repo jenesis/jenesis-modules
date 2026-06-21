@@ -6458,6 +6458,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.0.11	named	org.apache.pulsar	pulsar-functions-runtime-all	2026-06-05T17:33:57Z	2.18.6
 0.3.2	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-06-09T07:28:37Z	2.21
 0.2.4	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-06-09T09:02:40Z	2.21
+0.2.0	named	cn.zestflow.www	zestflow-mcp	2026-06-10T02:15:36Z	2.15.4
 3.0.18.2	named	com.ascentstream.pulsar	pulsar-functions-runtime-all	2026-06-11T07:16:45Z	2.18.6
 0.8.1	named	com.databricks.labs	databricks-morph-plugin	2026-06-12T19:55:36Z	2.21
 4.0.14	named	com.heroku	heroku-jvm-application-deployer	2026-06-17T15:01:27Z	2.22

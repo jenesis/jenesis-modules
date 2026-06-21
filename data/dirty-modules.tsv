@@ -7358,3 +7358,8 @@ com.aoapps.lang.book
 com.aoapps.lang
 com.aoapps.checkstyle.config.book
 com.aoapps.checkstyle.config
+owasp.encoder
+org.bukkit
+co.elastic.apm.opentracing
+co.elastic.apm.pluginsdk
+co.elastic.apm.api

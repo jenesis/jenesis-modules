@@ -40,3 +40,5 @@
 1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-subscription/1.7.5/module-subscription-1.7.5.jar returned status 404
 1.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-subscription/1.7.6/module-subscription-1.7.6.jar returned status 404
 1.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-subscription/1.7.7/module-subscription-1.7.7.jar returned status 404
+1.7.8		2026-06-10T13:03:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-subscription/1.7.8/module-subscription-1.7.8.jar returned status 404
+1.7.9		2026-06-19T10:38:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-subscription/1.7.9/module-subscription-1.7.9.jar returned status 404

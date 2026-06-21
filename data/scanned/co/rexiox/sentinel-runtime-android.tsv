@@ -10,3 +10,4 @@
 1.8.5-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-runtime-android/1.8.5-beta/sentinel-runtime-android-1.8.5-beta.jar returned status 404
 1.8.6-beta		2026-05-21T16:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-runtime-android/1.8.6-beta/sentinel-runtime-android-1.8.6-beta.jar returned status 404
 1.8.7-beta		2026-05-31T04:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-runtime-android/1.8.7-beta/sentinel-runtime-android-1.8.7-beta.jar returned status 404
+1.9.0-beta		2026-06-05T06:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/rexiox/sentinel-runtime-android/1.9.0-beta/sentinel-runtime-android-1.9.0-beta.jar returned status 404
