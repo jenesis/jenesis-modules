@@ -1,0 +1,4 @@
+1.0.0		2026-06-14T11:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amanrajaryan/playback-engine-core/1.0.0/playback-engine-core-1.0.0.jar returned status 404
+1.0.1		2026-06-14T16:15:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amanrajaryan/playback-engine-core/1.0.1/playback-engine-core-1.0.1.jar returned status 404
+1.0.2		2026-06-14T17:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amanrajaryan/playback-engine-core/1.0.2/playback-engine-core-1.0.2.jar returned status 404
+1.0.3		2026-06-15T16:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amanrajaryan/playback-engine-core/1.0.3/playback-engine-core-1.0.3.jar returned status 404

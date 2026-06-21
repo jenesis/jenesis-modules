@@ -25,3 +25,4 @@
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAssist/1.4.4/DevAssist-1.4.4.jar returned status 404
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAssist/1.4.5/DevAssist-1.4.5.jar returned status 404
 1.4.6		2026-05-19T15:35:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAssist/1.4.6/DevAssist-1.4.6.jar returned status 404
+1.4.7		2026-06-10T18:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/afkt/DevAssist/1.4.7/DevAssist-1.4.7.jar returned status 404

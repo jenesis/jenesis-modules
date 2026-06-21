@@ -10,3 +10,5 @@
 1.0.1	metadata	2025-07-30T23:40:09Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amirroid/jalalidate-iosarm64/1.0.2/jalalidate-iosarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2025-10-06T21:40:57Z	
+1.0.3		2026-06-01T23:08:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amirroid/jalalidate-iosarm64/1.0.3/jalalidate-iosarm64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-06-01T23:08:05Z	

@@ -17,9 +17,20 @@
 3.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.2/FcrCore-3.10.2.jar returned status 404
 3.10.3-rc.1		2026-05-26T03:48:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-rc.1/FcrCore-3.10.3-rc.1.jar returned status 404
 3.10.3-rc.2		2026-05-27T03:38:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-rc.2/FcrCore-3.10.3-rc.2.jar returned status 404
+3.10.3-rc.3		2026-06-02T08:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-rc.3/FcrCore-3.10.3-rc.3.jar returned status 404
+3.10.3-rc.4		2026-06-02T10:22:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-rc.4/FcrCore-3.10.3-rc.4.jar returned status 404
+3.10.3-rc.5		2026-06-05T07:58:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-rc.5/FcrCore-3.10.3-rc.5.jar returned status 404
 3.10.3-test-rc.2		2026-05-27T08:29:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.3-test-rc.2/FcrCore-3.10.3-test-rc.2.jar returned status 404
+3.10.4		2026-06-05T13:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.4/FcrCore-3.10.4.jar returned status 404
+3.10.4-test01		2026-06-05T09:43:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.4-test01/FcrCore-3.10.4-test01.jar returned status 404
+3.10.4-test02		2026-06-09T06:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.4-test02/FcrCore-3.10.4-test02.jar returned status 404
+3.10.5		2026-06-09T10:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.5/FcrCore-3.10.5.jar returned status 404
+3.10.5.1		2026-06-10T10:28:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.10.5.1/FcrCore-3.10.5.1.jar returned status 404
 3.11.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.11.0-rc.1/FcrCore-3.11.0-rc.1.jar returned status 404
 3.11.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.11.0-rc.2/FcrCore-3.11.0-rc.2.jar returned status 404
+3.11.0-rc.3		2026-06-02T13:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.11.0-rc.3/FcrCore-3.11.0-rc.3.jar returned status 404
+3.11.0-rc.4		2026-06-17T04:12:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.11.0-rc.4/FcrCore-3.11.0-rc.4.jar returned status 404
+3.11.1-rc.1		2026-06-13T07:01:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.11.1-rc.1/FcrCore-3.11.1-rc.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.2.0/FcrCore-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.2.1/FcrCore-3.2.1.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrCore/3.2.2/FcrCore-3.2.2.jar returned status 404

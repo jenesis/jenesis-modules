@@ -16,8 +16,14 @@
 3.10.1-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.1-rc.2/FcrUIFoundation-3.10.1-rc.2.jar returned status 404
 3.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.2/FcrUIFoundation-3.10.2.jar returned status 404
 3.10.3-rc.1		2026-05-26T03:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.3-rc.1/FcrUIFoundation-3.10.3-rc.1.jar returned status 404
+3.10.4		2026-06-05T12:57:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.4/FcrUIFoundation-3.10.4.jar returned status 404
+3.10.5		2026-06-09T09:59:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.5/FcrUIFoundation-3.10.5.jar returned status 404
+3.10.5.1		2026-06-10T07:39:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.10.5.1/FcrUIFoundation-3.10.5.1.jar returned status 404
 3.11.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.11.0-rc.1/FcrUIFoundation-3.11.0-rc.1.jar returned status 404
 3.11.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.11.0-rc.2/FcrUIFoundation-3.11.0-rc.2.jar returned status 404
+3.11.0-rc.3		2026-06-02T12:16:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.11.0-rc.3/FcrUIFoundation-3.11.0-rc.3.jar returned status 404
+3.11.0-rc.4		2026-06-17T03:38:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.11.0-rc.4/FcrUIFoundation-3.11.0-rc.4.jar returned status 404
+3.11.1-rc.1		2026-06-13T03:52:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.11.1-rc.1/FcrUIFoundation-3.11.1-rc.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.3.0/FcrUIFoundation-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.3.1/FcrUIFoundation-3.3.1.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIFoundation/3.3.2/FcrUIFoundation-3.3.2.jar returned status 404

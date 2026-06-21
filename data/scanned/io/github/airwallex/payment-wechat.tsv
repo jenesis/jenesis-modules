@@ -65,3 +65,4 @@
 6.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-wechat/6.7.1/payment-wechat-6.7.1.jar returned status 404
 6.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-wechat/6.7.2/payment-wechat-6.7.2.jar returned status 404
 6.8.0		2026-05-26T03:05:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-wechat/6.8.0/payment-wechat-6.8.0.jar returned status 404
+6.9.0		2026-06-16T07:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-wechat/6.9.0/payment-wechat-6.9.0.jar returned status 404
