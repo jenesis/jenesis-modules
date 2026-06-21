@@ -35,3 +35,4 @@
 2.0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-is/2.0.7.0/os-google-is-2.0.7.0.jar returned status 404
 2.0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-is/2.0.7.1/os-google-is-2.0.7.1.jar returned status 404
 2.0.7.2		2026-05-27T10:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-is/2.0.7.2/os-google-is-2.0.7.2.jar returned status 404
+2.0.8.0		2026-06-03T07:10:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-is/2.0.8.0/os-google-is-2.0.8.0.jar returned status 404

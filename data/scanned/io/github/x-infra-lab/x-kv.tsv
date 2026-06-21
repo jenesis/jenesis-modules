@@ -1,0 +1,2 @@
+0.2.0-RC1		2026-06-12T17:00:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x-infra-lab/x-kv/0.2.0-RC1/x-kv-0.2.0-RC1.jar returned status 404
+0.2.0-RC2		2026-06-13T10:34:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x-infra-lab/x-kv/0.2.0-RC2/x-kv-0.2.0-RC2.jar returned status 404

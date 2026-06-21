@@ -12,3 +12,5 @@
 0.76.9	dokka	2026-03-03T13:12:21Z	
 0.77.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wanggenlin/libsignal-android/0.77.1/libsignal-android-0.77.1.jar returned status 404
 0.77.1	dokka	2026-04-14T04:07:10Z	
+0.81.1		2026-06-11T03:23:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wanggenlin/libsignal-android/0.81.1/libsignal-android-0.81.1.jar returned status 404
+0.81.1	dokka	2026-06-11T03:24:00Z	

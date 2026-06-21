@@ -4,3 +4,5 @@
 0.14.0	metadata	2026-05-02T16:12:09Z	
 0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-dialogs-compose-macosarm64/0.14.1/filekit-dialogs-compose-macosarm64-0.14.1.jar returned status 404
 0.14.1	metadata	2026-05-05T15:25:10Z	
+0.14.2		2026-06-13T12:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-dialogs-compose-macosarm64/0.14.2/filekit-dialogs-compose-macosarm64-0.14.2.jar returned status 404
+0.14.2	metadata	2026-06-13T12:58:48Z	

@@ -1,2 +1,6 @@
 1.0.0		2026-05-23T03:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.0/under-utils-bom-1.0.0.jar returned status 404
 1.0.1		2026-05-23T11:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.1/under-utils-bom-1.0.1.jar returned status 404
+1.0.2		2026-05-31T09:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.2/under-utils-bom-1.0.2.jar returned status 404
+1.0.3		2026-06-04T04:12:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.3/under-utils-bom-1.0.3.jar returned status 404
+1.0.4		2026-06-05T06:09:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.4/under-utils-bom-1.0.4.jar returned status 404
+1.0.5		2026-06-14T10:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yexianglun-d/under-utils-bom/1.0.5/under-utils-bom-1.0.5.jar returned status 404

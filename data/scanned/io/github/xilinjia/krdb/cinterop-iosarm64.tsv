@@ -4,3 +4,5 @@
 3.3.2	metadata	2026-02-17T09:28:41Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xilinjia/krdb/cinterop-iosarm64/3.3.3/cinterop-iosarm64-3.3.3.jar returned status 404
 3.3.3	metadata	2026-03-30T08:56:04Z	
+3.3.4		2026-06-13T04:02:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xilinjia/krdb/cinterop-iosarm64/3.3.4/cinterop-iosarm64-3.3.4.jar returned status 404
+3.3.4	metadata	2026-06-13T04:02:47Z	
