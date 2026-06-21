@@ -1,0 +1,4 @@
+1.0.0		2026-06-05T14:55:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/locale/locale-js/1.0.0/locale-js-1.0.0.jar returned status 404
+1.0.1		2026-06-09T19:30:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/locale/locale-js/1.0.1/locale-js-1.0.1.jar returned status 404
+1.0.2		2026-06-12T21:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/locale/locale-js/1.0.2/locale-js-1.0.2.jar returned status 404
+1.0.3		2026-06-17T17:16:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/tintera/locale/locale-js/1.0.3/locale-js-1.0.3.jar returned status 404

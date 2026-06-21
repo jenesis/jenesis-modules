@@ -1,5 +1,7 @@
 0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-macosx64/0.0.1/kodium-macosx64-0.0.1.jar returned status 404
 0.0.1	metadata	2026-02-02T23:31:27Z	
+1.0.0		2026-06-16T09:12:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-macosx64/1.0.0/kodium-macosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-16T09:12:41Z	
 1.0.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-macosx64/1.0.0-alpha-1/kodium-macosx64-1.0.0-alpha-1.jar returned status 404
 1.0.0-alpha-1	metadata	2026-03-09T14:47:12Z	
 1.0.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-macosx64/1.0.0-alpha-2/kodium-macosx64-1.0.0-alpha-2.jar returned status 404
