@@ -2,4 +2,6 @@
 1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.1.11/jnosql-communication-1.1.11.jar returned status 404
 1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.1.12/jnosql-communication-1.1.12.jar returned status 404
 1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.1.13/jnosql-communication-1.1.13.jar returned status 404
+1.1.14		2026-06-01T17:53:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.1.14/jnosql-communication-1.1.14.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.1.9/jnosql-communication-1.1.9.jar returned status 404
+1.2.0-M1		2026-06-13T19:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/communication/jnosql-communication/1.2.0-M1/jnosql-communication-1.2.0-M1.jar returned status 404

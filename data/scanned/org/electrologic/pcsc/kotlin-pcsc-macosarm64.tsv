@@ -6,3 +6,5 @@
 1.0.2	metadata	2025-10-09T16:40:54Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/electrologic/pcsc/kotlin-pcsc-macosarm64/1.1.0/kotlin-pcsc-macosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2025-11-03T12:47:23Z	
+1.1.1		2026-06-16T17:56:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/electrologic/pcsc/kotlin-pcsc-macosarm64/1.1.1/kotlin-pcsc-macosarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-06-16T17:56:21Z	

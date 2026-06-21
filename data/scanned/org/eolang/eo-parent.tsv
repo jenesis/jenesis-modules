@@ -22,3 +22,4 @@
 0.59.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eolang/eo-parent/0.59.9/eo-parent-0.59.9.jar returned status 404
 0.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eolang/eo-parent/0.60.0/eo-parent-0.60.0.jar returned status 404
 0.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eolang/eo-parent/0.61.0/eo-parent-0.61.0.jar returned status 404
+0.61.1		2026-06-05T11:46:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eolang/eo-parent/0.61.1/eo-parent-0.61.1.jar returned status 404

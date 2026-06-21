@@ -4,3 +4,4 @@
 5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/org.eclipse.persistence.project/5.0.0-RC1/org.eclipse.persistence.project-5.0.0-RC1.jar returned status 404
 5.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/org.eclipse.persistence.project/5.0.0-RC2/org.eclipse.persistence.project-5.0.0-RC2.jar returned status 404
 5.0.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/org.eclipse.persistence.project/5.0.1-RC1/org.eclipse.persistence.project-5.0.1-RC1.jar returned status 404
+5.0.1-RC2		2026-06-08T13:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/org.eclipse.persistence.project/5.0.1-RC2/org.eclipse.persistence.project-5.0.1-RC2.jar returned status 404
