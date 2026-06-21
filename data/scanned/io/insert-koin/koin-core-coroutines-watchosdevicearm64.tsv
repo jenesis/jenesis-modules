@@ -88,3 +88,5 @@
 4.2.1	metadata	2026-04-09T16:39:43Z	
 4.2.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-core-coroutines-watchosdevicearm64/4.2.1-RC1/koin-core-coroutines-watchosdevicearm64-4.2.1-RC1.jar returned status 404
 4.2.1-RC1	metadata	2026-04-03T17:25:18Z	
+4.2.2		2026-06-15T07:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-core-coroutines-watchosdevicearm64/4.2.2/koin-core-coroutines-watchosdevicearm64-4.2.2.jar returned status 404
+4.2.2	metadata	2026-06-15T07:42:07Z	

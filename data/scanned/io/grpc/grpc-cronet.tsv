@@ -114,3 +114,4 @@
 1.79.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-cronet/1.79.0/grpc-cronet-1.79.0.jar returned status 404
 1.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-cronet/1.80.0/grpc-cronet-1.80.0.jar returned status 404
 1.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-cronet/1.81.0/grpc-cronet-1.81.0.jar returned status 404
+1.82.0		2026-06-10T06:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-cronet/1.82.0/grpc-cronet-1.82.0.jar returned status 404

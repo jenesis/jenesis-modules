@@ -8,3 +8,4 @@
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-minimal-assembly/5.0.1/hawtio-console-minimal-assembly-5.0.1.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-minimal-assembly/5.1.0/hawtio-console-minimal-assembly-5.1.0.jar returned status 404
 5.2.0		2026-05-20T06:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-minimal-assembly/5.2.0/hawtio-console-minimal-assembly-5.2.0.jar returned status 404
+5.2.1		2026-06-08T09:56:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-console-minimal-assembly/5.2.1/hawtio-console-minimal-assembly-5.2.1.jar returned status 404

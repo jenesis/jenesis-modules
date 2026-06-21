@@ -18,3 +18,4 @@
 1.0.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/groobee/message/groobee-sdk-message/1.0.81/groobee-sdk-message-1.0.81.jar returned status 404
 1.0.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/groobee/message/groobee-sdk-message/1.0.82/groobee-sdk-message-1.0.82.jar returned status 404
 1.0.83		2026-05-28T04:32:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/groobee/message/groobee-sdk-message/1.0.83/groobee-sdk-message-1.0.83.jar returned status 404
+1.0.84		2026-06-11T06:05:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/groobee/message/groobee-sdk-message/1.0.84/groobee-sdk-message-1.0.84.jar returned status 404

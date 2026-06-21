@@ -735,6 +735,7 @@
 1.20.5	named	org.apache.flink	flink-gs-fs-hadoop	2026-06-08T09:12:23Z	2.0.75.Final
 4.131.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-08T14:56:14Z	2.0.72.Final
 4.129.12	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-10T05:29:36Z	2.0.72.Final
+1.82.0	named	io.grpc	grpc-netty-shaded	2026-06-10T06:13:42Z	2.0.75.Final
 2.0.79.Final	named	io.netty	netty-tcnative	2026-06-12T07:05:30Z	2.0.79.Final
 2.0.79.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-12T07:05:30Z	2.0.79.Final
 4.129.13	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-15T18:41:44Z	2.0.72.Final

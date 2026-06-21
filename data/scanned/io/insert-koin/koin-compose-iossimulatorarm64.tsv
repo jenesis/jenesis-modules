@@ -116,3 +116,5 @@
 4.2.1	metadata	2026-04-09T16:39:42Z	
 4.2.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-compose-iossimulatorarm64/4.2.1-RC1/koin-compose-iossimulatorarm64-4.2.1-RC1.jar returned status 404
 4.2.1-RC1	metadata	2026-04-03T17:25:19Z	
+4.2.2		2026-06-15T07:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-compose-iossimulatorarm64/4.2.2/koin-compose-iossimulatorarm64-4.2.2.jar returned status 404
+4.2.2	metadata	2026-06-15T07:42:11Z	
