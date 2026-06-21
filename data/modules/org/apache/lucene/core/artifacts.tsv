@@ -28,5 +28,6 @@
 9.2.0	named	org.apache.lucene	lucene-core
 9.1.0	named	org.apache.lucene	lucene-core
 9.0.0	automatic	org.apache.lucene	lucene-core
+2.2.0	named	org.apache.jackrabbit	oak-run-elastic
 2.0.0	named	org.apache.jackrabbit	oak-run-elastic
 1.92.0	named	org.apache.jackrabbit	oak-run-elastic

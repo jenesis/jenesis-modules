@@ -43,6 +43,7 @@ reports_v1-rev20190521-1.30.3	automatic	com.google.apis	google-api-services-admi
 reports_v1-rev20190521-1.30.1	automatic	com.google.apis	google-api-services-admin-reports
 reports_v1-rev20190521-1.29.2	automatic	com.google.apis	google-api-services-admin-reports
 reports_v1-rev20190521-1.28.0	automatic	com.google.apis	google-api-services-admin-reports
+directory_v1-rev20260531-2.0.0	automatic	com.google.apis	google-api-services-admin-directory
 directory_v1-rev20260522-2.0.0	automatic	com.google.apis	google-api-services-admin-directory
 directory_v1-rev20260421-2.0.0	automatic	com.google.apis	google-api-services-admin-directory
 directory_v1-rev20260227-2.0.0	automatic	com.google.apis	google-api-services-admin-directory

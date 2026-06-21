@@ -1,3 +1,5 @@
+v1-rev20260605-2.0.0	automatic	com.google.apis	google-api-services-networkservices
+v1-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1-rev20260330-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1-rev20260319-2.0.0	automatic	com.google.apis	google-api-services-networkservices
@@ -66,6 +68,7 @@ v1-rev20210922-1.32.1	automatic	com.google.apis	google-api-services-networkservi
 v1-rev20210811-1.32.1	automatic	com.google.apis	google-api-services-networkservices
 v1-rev20210728-1.32.1	automatic	com.google.apis	google-api-services-networkservices
 v1-rev20210721-1.32.1	automatic	com.google.apis	google-api-services-networkservices
+v1beta1-rev20260605-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1beta1-rev20260513-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1beta1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-networkservices
 v1beta1-rev20260407-2.0.0	automatic	com.google.apis	google-api-services-networkservices

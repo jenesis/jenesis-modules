@@ -1,3 +1,4 @@
+v1-rev20260610-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1-rev20240514-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1-rev20230425-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1-rev20230327-2.0.0	automatic	com.google.apis	google-api-services-admob
@@ -40,6 +41,7 @@ v1-rev20200216-1.30.9	automatic	com.google.apis	google-api-services-admob
 v1-rev20200212-1.30.8	automatic	com.google.apis	google-api-services-admob
 v1-rev20200210-1.30.8	automatic	com.google.apis	google-api-services-admob
 v1-rev20200130-1.30.8	automatic	com.google.apis	google-api-services-admob
+v1beta-rev20260610-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1beta-rev20260223-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1beta-rev20250811-2.0.0	automatic	com.google.apis	google-api-services-admob
 v1beta-rev20240514-2.0.0	automatic	com.google.apis	google-api-services-admob

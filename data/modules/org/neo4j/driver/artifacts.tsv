@@ -60,6 +60,7 @@
 5.0.0-alpha03	automatic	org.neo4j.driver	neo4j-java-driver-all
 5.0.0-alpha02	automatic	org.neo4j.driver	neo4j-java-driver-all
 5.0.0-alpha01	automatic	org.neo4j.driver	neo4j-java-driver-all
+4.4.24	automatic	org.neo4j.driver	neo4j-java-driver-slim
 4.4.23	automatic	org.neo4j.driver	neo4j-java-driver-slim
 4.4.22	automatic	org.neo4j.driver	neo4j-java-driver-slim
 4.4.21	automatic	org.neo4j.driver	neo4j-java-driver-slim

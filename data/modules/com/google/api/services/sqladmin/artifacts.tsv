@@ -1,3 +1,4 @@
+v1-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20260510-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20260317-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
@@ -101,6 +102,7 @@ v1-rev20210715-1.32.1	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20210627-1.32.1	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20210608-1.32.1	automatic	com.google.apis	google-api-services-sqladmin
 v1-rev20210608-1.31.5	automatic	com.google.apis	google-api-services-sqladmin
+v1beta4-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1beta4-rev20260510-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1beta4-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-sqladmin
 v1beta4-rev20260317-2.0.0	automatic	com.google.apis	google-api-services-sqladmin

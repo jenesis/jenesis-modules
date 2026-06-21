@@ -1,3 +1,4 @@
+v1-rev20260526-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1-rev20260217-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1-rev20251030-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
@@ -30,6 +31,7 @@ v1-rev20210310-1.31.0	automatic	com.google.apis	google-api-services-servicedirec
 v1-rev20210203-1.31.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1-rev20210127-1.31.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1-rev20201112-1.31.0	automatic	com.google.apis	google-api-services-servicedirectory
+v1beta1-rev20260526-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1beta1-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1beta1-rev20260217-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory
 v1beta1-rev20251030-2.0.0	automatic	com.google.apis	google-api-services-servicedirectory

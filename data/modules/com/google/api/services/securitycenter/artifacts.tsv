@@ -1,3 +1,4 @@
+v1-rev20260526-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1-rev20260330-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
@@ -228,6 +229,7 @@ v1p1alpha1-rev20200224-1.30.8	automatic	com.google.apis	google-api-services-secu
 v1p1alpha1-rev20200131-1.30.8	automatic	com.google.apis	google-api-services-securitycenter
 v1p1alpha1-rev20190603-1.30.1	automatic	com.google.apis	google-api-services-securitycenter
 v1p1alpha1-rev20190603-1.29.2	automatic	com.google.apis	google-api-services-securitycenter
+v1beta2-rev20260526-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta2-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta2-rev20260330-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta2-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
@@ -350,6 +352,7 @@ v1beta2-rev20201112-1.31.0	automatic	com.google.apis	google-api-services-securit
 v1beta2-rev20201112-1.30.10	automatic	com.google.apis	google-api-services-securitycenter
 v1beta2-rev20200918-1.30.10	automatic	com.google.apis	google-api-services-securitycenter
 v1beta2-rev20200820-1.30.10	automatic	com.google.apis	google-api-services-securitycenter
+v1beta1-rev20260526-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta1-rev20260330-2.0.0	automatic	com.google.apis	google-api-services-securitycenter
 v1beta1-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-securitycenter

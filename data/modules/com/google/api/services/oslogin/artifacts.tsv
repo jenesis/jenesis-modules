@@ -1,3 +1,4 @@
+v1-rev20260610-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20251202-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20250921-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20250518-2.0.0	automatic	com.google.apis	google-api-services-oslogin
@@ -32,6 +33,7 @@ v1-rev20190921-1.29.2	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20190921-1.28.0	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20190429-1.30.1	automatic	com.google.apis	google-api-services-oslogin
 v1-rev20190429-1.29.2	automatic	com.google.apis	google-api-services-oslogin
+v1beta-rev20260610-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20250518-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20250504-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20250406-2.0.0	automatic	com.google.apis	google-api-services-oslogin
@@ -70,6 +72,7 @@ v1beta-rev20190921-1.29.2	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20190921-1.28.0	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20190429-1.30.1	automatic	com.google.apis	google-api-services-oslogin
 v1beta-rev20190429-1.29.2	automatic	com.google.apis	google-api-services-oslogin
+v1alpha-rev20260610-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1alpha-rev20250518-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1alpha-rev20250504-2.0.0	automatic	com.google.apis	google-api-services-oslogin
 v1alpha-rev20250406-2.0.0	automatic	com.google.apis	google-api-services-oslogin
