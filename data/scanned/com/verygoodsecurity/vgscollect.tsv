@@ -2,6 +2,7 @@
 1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.10.1/vgscollect-1.10.1.jar returned status 404
 1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.10.2/vgscollect-1.10.2.jar returned status 404
 1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.10.3/vgscollect-1.10.3.jar returned status 404
+1.11.0		2026-06-04T11:00:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.11.0/vgscollect-1.11.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.6.1/vgscollect-1.6.1.jar returned status 404
 1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.6.10/vgscollect-1.6.10.jar returned status 404
 1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/verygoodsecurity/vgscollect/1.6.11/vgscollect-1.6.11.jar returned status 404

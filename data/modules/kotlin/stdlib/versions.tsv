@@ -2145,6 +2145,7 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 2.0.1	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-05-29T18:37:27Z	
 0.19.0-950	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-06-01T01:10:27Z	
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-datahub	2026-06-01T12:12:42Z	
+2.9.16	named	com.volcengine	ve-tos-java-sdk-shade	2026-06-08T08:07:06Z	
 0.19.0-951	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-06-09T11:46:30Z	
 4.10.3	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2026-06-10T20:59:57Z	
 0.1.0	named	net.master-studios	konze-agent	2026-06-11T19:13:03Z	

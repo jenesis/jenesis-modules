@@ -164,4 +164,7 @@
 2.0.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.82/android-2.0.82.jar returned status 404
 2.0.83		2026-05-26T16:10:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.83/android-2.0.83.jar returned status 404
 2.0.84		2026-05-27T15:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.84/android-2.0.84.jar returned status 404
+2.0.85		2026-06-02T14:47:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.85/android-2.0.85.jar returned status 404
+2.0.86		2026-06-04T16:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.86/android-2.0.86.jar returned status 404
+2.0.87		2026-06-10T17:41:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.87/android-2.0.87.jar returned status 404
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/viafoura/android/2.0.9/android-2.0.9.jar returned status 404

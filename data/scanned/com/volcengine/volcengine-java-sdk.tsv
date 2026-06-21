@@ -54,6 +54,10 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/1.0.9/volcengine-java-sdk-1.0.9.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.0/volcengine-java-sdk-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.1/volcengine-java-sdk-2.0.1.jar returned status 404
+2.0.10		2026-06-04T12:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.10/volcengine-java-sdk-2.0.10.jar returned status 404
+2.0.11		2026-06-09T12:17:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.11/volcengine-java-sdk-2.0.11.jar returned status 404
+2.0.12		2026-06-11T13:38:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.12/volcengine-java-sdk-2.0.12.jar returned status 404
+2.0.13		2026-06-12T02:45:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.13/volcengine-java-sdk-2.0.13.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.2/volcengine-java-sdk-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.3/volcengine-java-sdk-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.4/volcengine-java-sdk-2.0.4.jar returned status 404
@@ -61,3 +65,4 @@
 2.0.6		2026-05-26T03:15:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.6/volcengine-java-sdk-2.0.6.jar returned status 404
 2.0.7		2026-05-28T09:05:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.7/volcengine-java-sdk-2.0.7.jar returned status 404
 2.0.8		2026-05-29T10:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.8/volcengine-java-sdk-2.0.8.jar returned status 404
+2.0.9		2026-06-04T08:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk/2.0.9/volcengine-java-sdk-2.0.9.jar returned status 404

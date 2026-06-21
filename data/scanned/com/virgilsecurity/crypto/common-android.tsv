@@ -3,6 +3,7 @@
 0.17.2-rc15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.17.2-rc15/common-android-0.17.2-rc15.jar returned status 404
 0.18.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.18.0-dev.2/common-android-0.18.0-dev.2.jar returned status 404
 0.18.0-dev.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.18.0-dev.3/common-android-0.18.0-dev.3.jar returned status 404
+0.19.0		2026-06-02T16:46:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0/common-android-0.19.0.jar returned status 404
 0.19.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-dev.1/common-android-0.19.0-dev.1.jar returned status 404
 0.19.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-dev.2/common-android-0.19.0-dev.2.jar returned status 404
 0.19.0-dev.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-dev.3/common-android-0.19.0-dev.3.jar returned status 404
@@ -23,3 +24,7 @@
 0.19.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-rc.7/common-android-0.19.0-rc.7.jar returned status 404
 0.19.0-rc.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-rc.8/common-android-0.19.0-rc.8.jar returned status 404
 0.19.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.0-rc.9/common-android-0.19.0-rc.9.jar returned status 404
+0.19.1		2026-06-02T18:53:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.1/common-android-0.19.1.jar returned status 404
+0.19.2		2026-06-02T21:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.19.2/common-android-0.19.2.jar returned status 404
+0.20.0		2026-06-14T16:53:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.20.0/common-android-0.20.0.jar returned status 404
+0.20.0-rc.1		2026-06-14T15:50:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/common-android/0.20.0-rc.1/common-android-0.20.0-rc.1.jar returned status 404

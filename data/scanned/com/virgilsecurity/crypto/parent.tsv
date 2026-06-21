@@ -14,6 +14,7 @@
 0.17.2-rc9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.17.2-rc9/parent-0.17.2-rc9.jar returned status 404
 0.18.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.18.0-dev.2/parent-0.18.0-dev.2.jar returned status 404
 0.18.0-dev.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.18.0-dev.3/parent-0.18.0-dev.3.jar returned status 404
+0.19.0		2026-06-02T18:19:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0/parent-0.19.0.jar returned status 404
 0.19.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-dev.1/parent-0.19.0-dev.1.jar returned status 404
 0.19.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-dev.2/parent-0.19.0-dev.2.jar returned status 404
 0.19.0-dev.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-dev.3/parent-0.19.0-dev.3.jar returned status 404
@@ -34,3 +35,7 @@
 0.19.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-rc.7/parent-0.19.0-rc.7.jar returned status 404
 0.19.0-rc.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-rc.8/parent-0.19.0-rc.8.jar returned status 404
 0.19.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.0-rc.9/parent-0.19.0-rc.9.jar returned status 404
+0.19.1		2026-06-02T18:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.1/parent-0.19.1.jar returned status 404
+0.19.2		2026-06-02T21:10:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.19.2/parent-0.19.2.jar returned status 404
+0.20.0		2026-06-14T16:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.20.0/parent-0.20.0.jar returned status 404
+0.20.0-rc.1		2026-06-14T15:48:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/parent/0.20.0-rc.1/parent-0.20.0-rc.1.jar returned status 404
