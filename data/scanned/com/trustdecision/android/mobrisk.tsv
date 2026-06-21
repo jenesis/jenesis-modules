@@ -84,6 +84,7 @@
 5.1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.6.0/mobrisk-5.1.6.0.jar returned status 404
 5.1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.6.1/mobrisk-5.1.6.1.jar returned status 404
 5.1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.6.2/mobrisk-5.1.6.2.jar returned status 404
+5.1.6.3		2026-06-09T01:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.6.3/mobrisk-5.1.6.3.jar returned status 404
 5.1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.7.0/mobrisk-5.1.7.0.jar returned status 404
 5.1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.7.1/mobrisk-5.1.7.1.jar returned status 404
 5.1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.7.2/mobrisk-5.1.7.2.jar returned status 404
@@ -93,3 +94,6 @@
 5.1.8.2		2026-05-21T01:28:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.8.2/mobrisk-5.1.8.2.jar returned status 404
 5.1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.9.0/mobrisk-5.1.9.0.jar returned status 404
 5.1.9.1		2026-05-27T08:29:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.9.1/mobrisk-5.1.9.1.jar returned status 404
+5.1.9.2		2026-06-02T05:10:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.9.2/mobrisk-5.1.9.2.jar returned status 404
+5.1.9.3		2026-06-11T07:42:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.1.9.3/mobrisk-5.1.9.3.jar returned status 404
+5.2.0		2026-06-11T06:06:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/mobrisk/5.2.0/mobrisk-5.2.0.jar returned status 404

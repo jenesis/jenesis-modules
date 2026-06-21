@@ -4771,6 +4771,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.0.5	named	org.jam4s	jam4s-codec-cli_3	2026-06-01T23:49:30Z	2.10.1
 1.0.0	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:41:49Z	2.10.1
 1.0.1	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:57:45Z	2.10.1
+0.13.5	named	com.uber.nullaway	jar-infer-cli	2026-06-04T17:07:24Z	2.13.2
 2.6.6	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:24:12Z	2.13.2
 2.6.6	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:25:39Z	2.13.2
 2.5.15	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:27:07Z	2.13.2
@@ -4778,6 +4779,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T19:51:43Z	2.13.2
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-06-04T20:04:44Z	2.13.2
 8.31.0.44157	named	org.sonarsource.java	java-custom-rules-example	2026-06-05T12:22:15Z	2.14.0
+0.13.6	named	com.uber.nullaway	jar-infer-cli	2026-06-05T16:24:01Z	2.13.2
 4.2.2	named	org.apache.pulsar	jclouds-shaded	2026-06-05T17:19:01Z	2.10.1
 4.0.11	named	org.apache.pulsar	jclouds-shaded	2026-06-05T17:29:46Z	2.10.1
 0.2.0	named	io.github.cobble-project	cobble	2026-06-06T09:44:50Z	2.10.1
@@ -4793,5 +4795,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 8.32.0.44337	named	org.sonarsource.java	java-custom-rules-example	2026-06-12T06:47:50Z	2.14.0
 0.2.1	named	win.dailypickle.report	dailypickle	2026-06-12T17:08:02Z	2.14.0
 8.32.1.44409	named	org.sonarsource.java	java-custom-rules-example	2026-06-15T07:14:46Z	2.14.0
+0.13.7	named	com.uber.nullaway	jar-infer-cli	2026-06-16T17:35:59Z	2.13.2
 3.11.9	named	io.jooby	jooby-graphql	2026-06-17T14:27:29Z	2.14.0
 3.37.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-06-17T16:34:00Z	2.10

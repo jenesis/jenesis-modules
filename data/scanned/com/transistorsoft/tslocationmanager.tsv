@@ -43,3 +43,6 @@
 4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.4/tslocationmanager-4.1.4.jar returned status 404
 4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.5/tslocationmanager-4.1.5.jar returned status 404
 4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.6/tslocationmanager-4.1.6.jar returned status 404
+4.1.7		2026-06-02T14:45:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.7/tslocationmanager-4.1.7.jar returned status 404
+4.1.8		2026-06-05T15:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.8/tslocationmanager-4.1.8.jar returned status 404
+4.1.9		2026-06-12T15:02:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/transistorsoft/tslocationmanager/4.1.9/tslocationmanager-4.1.9.jar returned status 404

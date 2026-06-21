@@ -5,3 +5,4 @@
 2.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uandcode/effects2-hilt-compose/2.0.0-alpha04/effects2-hilt-compose-2.0.0-alpha04.jar returned status 404
 2.0.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uandcode/effects2-hilt-compose/2.0.0-alpha05/effects2-hilt-compose-2.0.0-alpha05.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uandcode/effects2-hilt-compose/2.0.1/effects2-hilt-compose-2.0.1.jar returned status 404
+2.1.0		2026-06-14T19:00:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uandcode/effects2-hilt-compose/2.1.0/effects2-hilt-compose-2.1.0.jar returned status 404

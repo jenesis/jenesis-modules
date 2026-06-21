@@ -1265,6 +1265,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.0.10.4	named	io.streamnative	buildtools	2026-05-31T15:51:48Z	3.19.0
 1.0.0-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-01T03:19:22Z	3.19.0
 1.6.0	named	io.github.davidwhitlock.joy	grader	2026-06-01T03:20:15Z	3.20.0
+3.26.21	named	com.ubs-hainer	filebridge-jdbc-driver	2026-06-01T12:30:13Z	3.19.0
 4.2.0.10	named	io.streamnative	buildtools	2026-06-02T02:14:11Z	3.19.0
 1.48.0	named	io.openlineage	openlineage-sql-java	2026-06-02T16:27:07Z	3.18.0
 1.48.0	named	io.openlineage	openlineage-flink	2026-06-02T16:39:07Z	3.18.0
@@ -1277,6 +1278,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 8.31.0.44157	named	org.sonarsource.java	sonar-java-plugin	2026-06-05T12:22:15Z	3.20.0
 4.2.2	named	org.apache.pulsar	buildtools	2026-06-05T17:18:12Z	3.19.0
 4.0.11	named	org.apache.pulsar	buildtools	2026-06-05T17:28:58Z	3.19.0
+3.26.21-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-06-09T07:41:08Z	3.19.0
 1.49.0	named	io.openlineage	openlineage-sql-java	2026-06-10T09:29:20Z	3.18.0
 1.49.0	named	io.openlineage	openlineage-flink	2026-06-10T09:48:07Z	3.18.0
 1.49.0	named	io.openlineage	openlineage-spark_2.12	2026-06-10T10:27:21Z	3.18.0
@@ -1286,4 +1288,5 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 8.32.0.44337	named	org.sonarsource.java	sonar-java-plugin	2026-06-12T06:47:50Z	3.20.0
 2.1.44	named	io.swagger.parser.v3	swagger-parser-cli	2026-06-12T06:55:25Z	3.20.0
 8.32.1.44409	named	org.sonarsource.java	sonar-java-plugin	2026-06-15T07:14:46Z	3.20.0
+3.26.23	named	com.ubs-hainer	filebridge-jdbc-driver	2026-06-16T06:27:18Z	3.19.0
 2.3.1	named	io.github.luo-zhan	transform-spring-boot-starter	2026-06-17T09:58:25Z	3.18.0

@@ -16,3 +16,4 @@
 2.0.8.1		2026-02-02T11:19:01Z	
 2.0.8.2		2026-03-30T06:54:46Z	
 2.0.9.2		2026-05-11T07:37:38Z	
+2.0.9.4		2026-06-10T10:42:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/timecho/iotdb/isession/2.0.9.4/isession-2.0.9.4.jar returned status 404

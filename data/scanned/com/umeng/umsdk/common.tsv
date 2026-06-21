@@ -54,3 +54,4 @@
 9.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/common/9.8.9/common-9.8.9.jar returned status 404
 9.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/common/9.9.0/common-9.9.0.jar returned status 404
 9.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/common/9.9.1/common-9.9.1.jar returned status 404
+9.9.2		2026-06-02T10:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/umeng/umsdk/common/9.9.2/common-9.9.2.jar returned status 404

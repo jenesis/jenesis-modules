@@ -2,3 +2,4 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trackingplan/client/shared-android/3.0.0/shared-android-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trackingplan/client/shared-android/3.0.1/shared-android-3.0.1.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trackingplan/client/shared-android/3.1.0/shared-android-3.1.0.jar returned status 404
+3.1.1		2026-06-15T10:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trackingplan/client/shared-android/3.1.1/shared-android-3.1.1.jar returned status 404

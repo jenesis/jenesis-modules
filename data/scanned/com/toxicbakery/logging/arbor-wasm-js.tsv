@@ -2,3 +2,5 @@
 3.0.128			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toxicbakery/logging/arbor-wasm-js/3.0.128/arbor-wasm-js-3.0.128.jar returned status 404
 3.0.129			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toxicbakery/logging/arbor-wasm-js/3.0.129/arbor-wasm-js-3.0.129.jar returned status 404
 3.0.131			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toxicbakery/logging/arbor-wasm-js/3.0.131/arbor-wasm-js-3.0.131.jar returned status 404
+3.0.134		2026-06-07T02:56:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toxicbakery/logging/arbor-wasm-js/3.0.134/arbor-wasm-js-3.0.134.jar returned status 404
+3.0.136		2026-06-08T14:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toxicbakery/logging/arbor-wasm-js/3.0.136/arbor-wasm-js-3.0.136.jar returned status 404

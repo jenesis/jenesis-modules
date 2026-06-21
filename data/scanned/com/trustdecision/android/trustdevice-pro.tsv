@@ -64,6 +64,7 @@
 5.1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.6.0/trustdevice-pro-5.1.6.0.jar returned status 404
 5.1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.6.1/trustdevice-pro-5.1.6.1.jar returned status 404
 5.1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.6.2/trustdevice-pro-5.1.6.2.jar returned status 404
+5.1.6.3		2026-06-09T01:43:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.6.3/trustdevice-pro-5.1.6.3.jar returned status 404
 5.1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.7.0/trustdevice-pro-5.1.7.0.jar returned status 404
 5.1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.7.1/trustdevice-pro-5.1.7.1.jar returned status 404
 5.1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.7.2/trustdevice-pro-5.1.7.2.jar returned status 404
@@ -73,3 +74,6 @@
 5.1.8.2		2026-05-21T01:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.8.2/trustdevice-pro-5.1.8.2.jar returned status 404
 5.1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.9.0/trustdevice-pro-5.1.9.0.jar returned status 404
 5.1.9.1		2026-05-27T08:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.9.1/trustdevice-pro-5.1.9.1.jar returned status 404
+5.1.9.2		2026-06-02T05:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.9.2/trustdevice-pro-5.1.9.2.jar returned status 404
+5.1.9.3		2026-06-11T07:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.1.9.3/trustdevice-pro-5.1.9.3.jar returned status 404
+5.2.0		2026-06-11T06:06:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trustdecision/android/trustdevice-pro/5.2.0/trustdevice-pro-5.2.0.jar returned status 404

@@ -105,6 +105,7 @@
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.10.4/vaadin-button-flow-parent-24.10.4.jar returned status 404
 24.10.5		2026-05-20T13:19:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.10.5/vaadin-button-flow-parent-24.10.5.jar returned status 404
 24.10.6		2026-05-21T11:56:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.10.6/vaadin-button-flow-parent-24.10.6.jar returned status 404
+24.10.7		2026-06-09T10:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.10.7/vaadin-button-flow-parent-24.10.7.jar returned status 404
 24.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.6.11/vaadin-button-flow-parent-24.6.11.jar returned status 404
 24.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.6.12/vaadin-button-flow-parent-24.6.12.jar returned status 404
 24.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.7.10/vaadin-button-flow-parent-24.7.10.jar returned status 404
@@ -149,6 +150,7 @@
 24.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.15/vaadin-button-flow-parent-24.9.15.jar returned status 404
 24.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.16/vaadin-button-flow-parent-24.9.16.jar returned status 404
 24.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.17/vaadin-button-flow-parent-24.9.17.jar returned status 404
+24.9.18		2026-06-09T11:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.18/vaadin-button-flow-parent-24.9.18.jar returned status 404
 24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.2/vaadin-button-flow-parent-24.9.2.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.3/vaadin-button-flow-parent-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/24.9.4/vaadin-button-flow-parent-24.9.4.jar returned status 404
@@ -172,6 +174,7 @@
 25.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.1/vaadin-button-flow-parent-25.0.1.jar returned status 404
 25.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.10/vaadin-button-flow-parent-25.0.10.jar returned status 404
 25.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.11/vaadin-button-flow-parent-25.0.11.jar returned status 404
+25.0.12		2026-06-08T10:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.12/vaadin-button-flow-parent-25.0.12.jar returned status 404
 25.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.2/vaadin-button-flow-parent-25.0.2.jar returned status 404
 25.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.3/vaadin-button-flow-parent-25.0.3.jar returned status 404
 25.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.0.4/vaadin-button-flow-parent-25.0.4.jar returned status 404
@@ -192,7 +195,12 @@
 25.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.1.4/vaadin-button-flow-parent-25.1.4.jar returned status 404
 25.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.1.5/vaadin-button-flow-parent-25.1.5.jar returned status 404
 25.1.6		2026-05-25T09:48:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.1.6/vaadin-button-flow-parent-25.1.6.jar returned status 404
+25.1.7		2026-06-08T10:04:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.1.7/vaadin-button-flow-parent-25.1.7.jar returned status 404
+25.1.8		2026-06-15T07:40:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.1.8/vaadin-button-flow-parent-25.1.8.jar returned status 404
 25.2.0-beta1		2026-05-26T10:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.2.0-beta1/vaadin-button-flow-parent-25.2.0-beta1.jar returned status 404
+25.2.0-beta2		2026-06-12T09:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.2.0-beta2/vaadin-button-flow-parent-25.2.0-beta2.jar returned status 404
+25.2.0-beta3		2026-06-16T09:25:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.2.0-beta3/vaadin-button-flow-parent-25.2.0-beta3.jar returned status 404
+25.2.0-rc1		2026-06-17T12:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/25.2.0-rc1/vaadin-button-flow-parent-25.2.0-rc1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/3.0.0/vaadin-button-flow-parent-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/3.1.0/vaadin-button-flow-parent-3.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-button-flow-parent/4.0.0/vaadin-button-flow-parent-4.0.0.jar returned status 404

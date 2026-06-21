@@ -123,4 +123,5 @@
 19.15.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-pangle/19.15.9.0.1/tradplus-pangle-19.15.9.0.1.jar returned status 404
 19.16.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-pangle/19.16.0.0.1/tradplus-pangle-19.16.0.0.1.jar returned status 404
 19.16.1.0.1		2026-05-25T02:49:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-pangle/19.16.1.0.1/tradplus-pangle-19.16.1.0.1.jar returned status 404
+19.16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-pangle/19.16.2.0.1/tradplus-pangle-19.16.2.0.1.jar returned status 404
 6.5.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-pangle/6.5.7.6/tradplus-pangle-6.5.7.6.jar returned status 404

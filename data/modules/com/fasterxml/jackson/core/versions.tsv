@@ -7288,6 +7288,7 @@ v0.0.13	named	com.grafana	grafana-foundation-sdk	2026-05-29T09:36:00Z	2.19.1
 4.3.2	named	com.vaimee	sepa-jena-fuseki-geosparql	2026-06-08T16:51:12Z	2.13.0
 4.3.2	named	com.vaimee	sepa-jena-fuseki-server	2026-06-08T16:51:13Z	2.13.0
 4.3.2	named	com.vaimee	sepa-jena-jdbc-driver-bundle	2026-06-08T16:51:13Z	2.13.0
+0.2.0	named	com.tinfoiled	markd_2.13	2026-06-09T18:16:11Z	2.14.3
 1.15.29.Final	named	org.wildfly.security	wildfly-elytron	2026-06-10T09:18:36Z	2.17.3
 1.49.0	named	io.openlineage	openlineage-hive	2026-06-10T10:01:16Z	2.18.1
 2.6.10.Final	named	org.wildfly.security	wildfly-elytron	2026-06-10T14:30:45Z	2.17.3
