@@ -14,3 +14,4 @@
 2.1.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/parser/v3/swagger-parser-project/2.1.41/swagger-parser-project-2.1.41.jar returned status 404
 2.1.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/parser/v3/swagger-parser-project/2.1.42/swagger-parser-project-2.1.42.jar returned status 404
 2.1.43		2026-05-26T09:20:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/parser/v3/swagger-parser-project/2.1.43/swagger-parser-project-2.1.43.jar returned status 404
+2.1.44		2026-06-12T06:55:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/parser/v3/swagger-parser-project/2.1.44/swagger-parser-project-2.1.44.jar returned status 404

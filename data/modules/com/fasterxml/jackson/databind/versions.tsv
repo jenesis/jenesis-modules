@@ -4203,3 +4203,4 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.0.9	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-11T01:39:52Z	2.20.1
 0.1.0	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T08:58:16Z	2.17.2
 0.1.1	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T10:42:25Z	2.17.2
+1.0.1	named	io.strimzi	crd-generator	2026-06-17T09:07:03Z	2.21.2

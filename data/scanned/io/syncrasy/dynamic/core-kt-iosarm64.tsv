@@ -62,6 +62,14 @@
 0.2.30	metadata	2026-05-12T13:25:12Z	
 0.2.32		2026-05-25T06:49:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.32/core-kt-iosarm64-0.2.32.jar returned status 404
 0.2.32	metadata	2026-05-25T06:49:17Z	
+0.2.33		2026-06-01T04:01:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.33/core-kt-iosarm64-0.2.33.jar returned status 404
+0.2.33	metadata	2026-06-01T04:01:51Z	
+0.2.34		2026-06-04T09:15:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.34/core-kt-iosarm64-0.2.34.jar returned status 404
+0.2.34	metadata	2026-06-04T09:14:59Z	
+0.2.35		2026-06-04T11:46:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.35/core-kt-iosarm64-0.2.35.jar returned status 404
+0.2.35	metadata	2026-06-04T11:46:28Z	
+0.2.36		2026-06-09T09:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.36/core-kt-iosarm64-0.2.36.jar returned status 404
+0.2.36	metadata	2026-06-09T09:41:04Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.4/core-kt-iosarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:25Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-kt-iosarm64/0.2.5/core-kt-iosarm64-0.2.5.jar returned status 404
