@@ -3,3 +3,7 @@
 1.8.1-kt2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.1-kt2.1.20/apollo-js-1.8.1-kt2.1.20.jar returned status 404
 1.8.3-kt2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.3-kt2.1.20/apollo-js-1.8.3-kt2.1.20.jar returned status 404
 1.8.4-kt2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.4-kt2.1.20/apollo-js-1.8.4-kt2.1.20.jar returned status 404
+1.8.5		2026-06-10T05:19:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.5/apollo-js-1.8.5.jar returned status 404
+1.8.6		2026-06-11T08:21:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.6/apollo-js-1.8.6.jar returned status 404
+1.8.7		2026-06-11T11:21:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.7/apollo-js-1.8.7.jar returned status 404
+1.8.8		2026-06-12T11:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/apollo-js/1.8.8/apollo-js-1.8.8.jar returned status 404

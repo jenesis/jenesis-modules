@@ -58,6 +58,7 @@
 1.8.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.0-beta.1/jellyfin-core-android-1.8.0-beta.1.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.1/jellyfin-core-android-1.8.1.jar returned status 404
 1.8.10		2026-05-25T07:57:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.10/jellyfin-core-android-1.8.10.jar returned status 404
+1.8.11		2026-06-06T16:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.11/jellyfin-core-android-1.8.11.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.2/jellyfin-core-android-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.3/jellyfin-core-android-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jellyfin/sdk/jellyfin-core-android/1.8.4/jellyfin-core-android-1.8.4.jar returned status 404

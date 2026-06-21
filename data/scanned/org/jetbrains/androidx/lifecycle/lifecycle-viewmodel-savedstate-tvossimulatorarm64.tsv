@@ -26,6 +26,8 @@
 2.11.0-alpha03	metadata	2026-04-09T12:51:46Z	
 2.11.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-tvossimulatorarm64/2.11.0-beta01/lifecycle-viewmodel-savedstate-tvossimulatorarm64-2.11.0-beta01.jar returned status 404
 2.11.0-beta01	metadata	2026-05-04T17:20:36Z	
+2.11.0-beta02		2026-06-15T13:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-tvossimulatorarm64/2.11.0-beta02/lifecycle-viewmodel-savedstate-tvossimulatorarm64-2.11.0-beta02.jar returned status 404
+2.11.0-beta02	metadata	2026-06-15T13:26:42Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-tvossimulatorarm64/2.8.0/lifecycle-viewmodel-savedstate-tvossimulatorarm64-2.8.0.jar returned status 404
 2.8.0	metadata	2024-05-17T19:57:26Z	
 2.8.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-tvossimulatorarm64/2.8.0-beta01/lifecycle-viewmodel-savedstate-tvossimulatorarm64-2.8.0-beta01.jar returned status 404

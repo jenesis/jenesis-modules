@@ -1,1 +1,2 @@
 4.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/tests/4.0.26/tests-4.0.26.jar returned status 404
+4.0.27		2026-06-15T16:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/tests/4.0.27/tests-4.0.27.jar returned status 404

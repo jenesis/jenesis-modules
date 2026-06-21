@@ -1,0 +1,2 @@
+2.10.0		2026-06-12T15:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/filetype/filetype-analyzer-parent/2.10.0/filetype-analyzer-parent-2.10.0.jar returned status 404
+2.9.6		2026-06-01T16:44:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/filetype/filetype-analyzer-parent/2.9.6/filetype-analyzer-parent-2.9.6.jar returned status 404

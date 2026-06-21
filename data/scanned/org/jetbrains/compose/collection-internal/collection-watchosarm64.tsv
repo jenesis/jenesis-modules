@@ -38,8 +38,12 @@
 1.11.0-beta03	metadata	2026-04-20T11:54:16Z	
 1.11.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.11.0-rc01/collection-watchosarm64-1.11.0-rc01.jar returned status 404
 1.11.0-rc01	metadata	2026-05-04T17:14:36Z	
+1.11.1		2026-06-01T10:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.11.1/collection-watchosarm64-1.11.1.jar returned status 404
+1.11.1	metadata	2026-06-01T10:34:51Z	
 1.12.0-alpha01		2026-05-19T09:28:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.12.0-alpha01/collection-watchosarm64-1.12.0-alpha01.jar returned status 404
 1.12.0-alpha01	metadata	2026-05-19T09:28:36Z	
+1.12.0-alpha02		2026-06-15T13:20:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.12.0-alpha02/collection-watchosarm64-1.12.0-alpha02.jar returned status 404
+1.12.0-alpha02	metadata	2026-06-15T13:20:25Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.6.0/collection-watchosarm64-1.6.0.jar returned status 404
 1.6.0	metadata	2024-02-27T14:14:09Z	
 1.6.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/collection-internal/collection-watchosarm64/1.6.0-beta01/collection-watchosarm64-1.6.0-beta01.jar returned status 404

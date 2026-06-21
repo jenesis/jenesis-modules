@@ -5,3 +5,4 @@
 3.7.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-gwt-parent/3.7.17.Final/hal-gwt-parent-3.7.17.Final.jar returned status 404
 3.7.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-gwt-parent/3.7.18.Final/hal-gwt-parent-3.7.18.Final.jar returned status 404
 3.7.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-gwt-parent/3.7.19.Final/hal-gwt-parent-3.7.19.Final.jar returned status 404
+3.7.20.Final		2026-06-16T14:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-gwt-parent/3.7.20.Final/hal-gwt-parent-3.7.20.Final.jar returned status 404
