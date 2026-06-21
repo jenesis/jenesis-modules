@@ -16,3 +16,12 @@
 10.3.28		2026-05-22T09:10:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.28/avs-kmp-android-10.3.28.jar returned status 404
 10.3.29		2026-05-26T11:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.29/avs-kmp-android-10.3.29.jar returned status 404
 10.3.30		2026-05-28T08:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.30/avs-kmp-android-10.3.30.jar returned status 404
+10.3.31		2026-06-01T09:00:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.31/avs-kmp-android-10.3.31.jar returned status 404
+10.3.32		2026-06-02T10:35:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.32/avs-kmp-android-10.3.32.jar returned status 404
+10.3.33		2026-06-02T11:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.33/avs-kmp-android-10.3.33.jar returned status 404
+10.3.37		2026-06-02T20:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.37/avs-kmp-android-10.3.37.jar returned status 404
+10.3.40		2026-06-03T09:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.3.40/avs-kmp-android-10.3.40.jar returned status 404
+10.4.4		2026-06-03T09:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.4.4/avs-kmp-android-10.4.4.jar returned status 404
+10.4.5		2026-06-03T10:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.4.5/avs-kmp-android-10.4.5.jar returned status 404
+10.4.6		2026-06-15T13:03:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.4.6/avs-kmp-android-10.4.6.jar returned status 404
+10.4.7		2026-06-16T11:33:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-android/10.4.7/avs-kmp-android-10.4.7.jar returned status 404

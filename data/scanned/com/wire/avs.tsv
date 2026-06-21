@@ -105,6 +105,7 @@
 10.2.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.34/avs-10.2.34.jar returned status 404
 10.2.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.35/avs-10.2.35.jar returned status 404
 10.2.36		2026-05-26T06:47:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.36/avs-10.2.36.jar returned status 404
+10.2.38		2026-06-09T08:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.38/avs-10.2.38.jar returned status 404
 10.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.6/avs-10.2.6.jar returned status 404
 10.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.7/avs-10.2.7.jar returned status 404
 10.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.2.8/avs-10.2.8.jar returned status 404
@@ -128,10 +129,19 @@
 10.3.28		2026-05-22T09:06:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.28/avs-10.3.28.jar returned status 404
 10.3.29		2026-05-26T11:51:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.29/avs-10.3.29.jar returned status 404
 10.3.30		2026-05-28T08:32:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.30/avs-10.3.30.jar returned status 404
+10.3.31		2026-06-01T08:57:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.31/avs-10.3.31.jar returned status 404
+10.3.32		2026-06-02T10:32:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.32/avs-10.3.32.jar returned status 404
+10.3.33		2026-06-02T11:24:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.33/avs-10.3.33.jar returned status 404
+10.3.37		2026-06-02T20:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.37/avs-10.3.37.jar returned status 404
+10.3.40		2026-06-03T09:26:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.40/avs-10.3.40.jar returned status 404
 10.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.6/avs-10.3.6.jar returned status 404
 10.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.7/avs-10.3.7.jar returned status 404
 10.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.8/avs-10.3.8.jar returned status 404
 10.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.3.9/avs-10.3.9.jar returned status 404
+10.4.4		2026-06-03T09:43:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.4.4/avs-10.4.4.jar returned status 404
+10.4.5		2026-06-03T10:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.4.5/avs-10.4.5.jar returned status 404
+10.4.6		2026-06-15T13:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.4.6/avs-10.4.6.jar returned status 404
+10.4.7		2026-06-16T11:29:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/10.4.7/avs-10.4.7.jar returned status 404
 24450.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/24450.30/avs-24450.30.jar returned status 404
 24450.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/24450.32/avs-24450.32.jar returned status 404
 24450.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs/24450.34/avs-24450.34.jar returned status 404

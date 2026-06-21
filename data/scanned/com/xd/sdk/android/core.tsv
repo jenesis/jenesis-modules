@@ -3,3 +3,4 @@
 7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/core/7.6.0/core-7.6.0.jar returned status 404
 7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/core/7.6.1/core-7.6.1.jar returned status 404
 7.6.3		2026-05-29T10:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/core/7.6.3/core-7.6.3.jar returned status 404
+7.7.0		2026-06-10T02:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/core/7.7.0/core-7.7.0.jar returned status 404

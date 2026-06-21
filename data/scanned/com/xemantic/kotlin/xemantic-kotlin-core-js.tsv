@@ -13,3 +13,5 @@
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xemantic/kotlin/xemantic-kotlin-core-js/0.6.3/xemantic-kotlin-core-js-0.6.3.jar returned status 404
 0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xemantic/kotlin/xemantic-kotlin-core-js/0.6.4/xemantic-kotlin-core-js-0.6.4.jar returned status 404
 0.7.0		2026-05-26T22:22:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xemantic/kotlin/xemantic-kotlin-core-js/0.7.0/xemantic-kotlin-core-js-0.7.0.jar returned status 404
+0.8.0		2026-06-06T17:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xemantic/kotlin/xemantic-kotlin-core-js/0.8.0/xemantic-kotlin-core-js-0.8.0.jar returned status 404
+0.9.0		2026-06-16T12:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xemantic/kotlin/xemantic-kotlin-core-js/0.9.0/xemantic-kotlin-core-js-0.9.0.jar returned status 404

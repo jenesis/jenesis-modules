@@ -1,3 +1,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-rpc/2.0.0/xxl-rpc-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-rpc/2.1.0/xxl-rpc-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-rpc/2.2.0/xxl-rpc-2.2.0.jar returned status 404
+2.2.1		2026-06-13T08:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-rpc/2.2.1/xxl-rpc-2.2.1.jar returned status 404
