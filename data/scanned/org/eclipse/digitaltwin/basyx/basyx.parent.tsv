@@ -4,3 +4,4 @@
 2.0.0-milestone-09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/digitaltwin/basyx/basyx.parent/2.0.0-milestone-09/basyx.parent-2.0.0-milestone-09.jar returned status 404
 2.0.0-milestone-09.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/digitaltwin/basyx/basyx.parent/2.0.0-milestone-09.1/basyx.parent-2.0.0-milestone-09.1.jar returned status 404
 2.0.0-milestone-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/digitaltwin/basyx/basyx.parent/2.0.0-milestone-10/basyx.parent-2.0.0-milestone-10.jar returned status 404
+2.0.0-milestone-11		2026-06-04T08:52:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/digitaltwin/basyx/basyx.parent/2.0.0-milestone-11/basyx.parent-2.0.0-milestone-11.jar returned status 404

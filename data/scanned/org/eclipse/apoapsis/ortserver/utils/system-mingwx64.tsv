@@ -76,5 +76,9 @@
 0.69.0		2026-05-27T09:47:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.69.0/system-mingwx64-0.69.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.7.0/system-mingwx64-0.7.0.jar returned status 404
 0.70.0		2026-05-29T11:08:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.70.0/system-mingwx64-0.70.0.jar returned status 404
+0.71.0		2026-06-04T12:40:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.71.0/system-mingwx64-0.71.0.jar returned status 404
+0.72.0		2026-06-08T14:15:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.72.0/system-mingwx64-0.72.0.jar returned status 404
+0.73.0		2026-06-10T09:38:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.73.0/system-mingwx64-0.73.0.jar returned status 404
+0.74.0		2026-06-11T11:29:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.74.0/system-mingwx64-0.74.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.8.0/system-mingwx64-0.8.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-mingwx64/0.9.0/system-mingwx64-0.9.0.jar returned status 404

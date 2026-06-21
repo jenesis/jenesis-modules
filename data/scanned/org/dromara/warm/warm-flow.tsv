@@ -69,3 +69,4 @@
 1.8.6-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/warm/warm-flow/1.8.6-m1/warm-flow-1.8.6-m1.jar returned status 404
 1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/warm/warm-flow/1.8.7/warm-flow-1.8.7.jar returned status 404
 1.8.7-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/warm/warm-flow/1.8.7-m1/warm-flow-1.8.7-m1.jar returned status 404
+1.8.8		2026-06-16T03:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/warm/warm-flow/1.8.8/warm-flow-1.8.8.jar returned status 404
