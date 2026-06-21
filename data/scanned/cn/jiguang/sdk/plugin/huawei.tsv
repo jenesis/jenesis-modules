@@ -62,6 +62,7 @@
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/6.0.7/huawei-6.0.7.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/6.1.0/huawei-6.1.0.jar returned status 404
 6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/6.1.1/huawei-6.1.1.jar returned status 404
+6.1.2		2026-06-09T08:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/6.1.2/huawei-6.1.2.jar returned status 404
 t.1.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/t.1.0.0.1/huawei-t.1.0.0.1.jar returned status 404
 t.1.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/t.1.0.0.2/huawei-t.1.0.0.2.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/huawei/t.1.0.0.3/huawei-t.1.0.0.3.jar returned status 404

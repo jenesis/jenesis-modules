@@ -16,3 +16,5 @@
 1.4.4	metadata	2026-03-23T02:11:34Z	
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/6tail/tyme4kt-iosarm64/1.4.5/tyme4kt-iosarm64-1.4.5.jar returned status 404
 1.4.5	metadata	2026-05-11T12:45:51Z	
+1.5.0		2026-06-16T11:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/6tail/tyme4kt-iosarm64/1.5.0/tyme4kt-iosarm64-1.5.0.jar returned status 404
+1.5.0	metadata	2026-06-16T11:09:31Z	

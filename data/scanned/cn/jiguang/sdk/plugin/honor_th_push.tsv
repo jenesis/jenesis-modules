@@ -8,4 +8,5 @@
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor_th_push/6.0.7/honor_th_push-6.0.7.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor_th_push/6.1.0/honor_th_push-6.1.0.jar returned status 404
 6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor_th_push/6.1.1/honor_th_push-6.1.1.jar returned status 404
+6.1.2		2026-06-09T07:55:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor_th_push/6.1.2/honor_th_push-6.1.2.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor_th_push/t.1.0.0.3/honor_th_push-t.1.0.0.3.jar returned status 404

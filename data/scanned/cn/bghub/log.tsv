@@ -1,0 +1,2 @@
+1.0.0		2026-06-17T09:02:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/bghub/log/1.0.0/log-1.0.0.jar returned status 404
+1.0.1		2026-06-17T09:25:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/bghub/log/1.0.1/log-1.0.1.jar returned status 404

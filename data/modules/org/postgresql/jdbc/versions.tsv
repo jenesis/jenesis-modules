@@ -116,3 +116,6 @@
 42.7.11.1	automatic	com.enterprisedb	edb-pge-jdbc	2026-05-04T01:18:16Z	
 2.0.2	named	com.guicedee.modules.services	postgresql	2026-05-10T14:38:09Z	2.0.2
 2.1.0	named	com.guicedee.modules.services	postgresql	2026-06-02T04:26:33Z	2.1.0
+9.0.2	automatic	cn.com.kingbase	postgresql-for-kingbase-oracle	2026-06-04T03:29:38Z	
+9.0.2.jre6	automatic	cn.com.kingbase	postgresql-for-kingbase-oracle	2026-06-04T03:34:23Z	
+9.0.2.jre7	automatic	cn.com.kingbase	postgresql-for-kingbase-oracle	2026-06-04T03:36:49Z	

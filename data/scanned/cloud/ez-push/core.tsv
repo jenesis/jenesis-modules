@@ -32,3 +32,5 @@
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/ez-push/core/4.5.3/core-4.5.3.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/ez-push/core/4.6.1/core-4.6.1.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/ez-push/core/4.7.0/core-4.7.0.jar returned status 404
+5.0.0		2026-06-03T17:47:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/ez-push/core/5.0.0/core-5.0.0.jar returned status 404
+5.0.1		2026-06-09T09:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/ez-push/core/5.0.1/core-5.0.1.jar returned status 404

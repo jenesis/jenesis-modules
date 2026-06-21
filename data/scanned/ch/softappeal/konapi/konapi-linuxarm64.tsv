@@ -7,3 +7,5 @@
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/konapi/konapi-linuxarm64/2.0.5/konapi-linuxarm64-2.0.5.jar returned status 404
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/konapi/konapi-linuxarm64/2.0.6/konapi-linuxarm64-2.0.6.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/konapi/konapi-linuxarm64/2.1.0/konapi-linuxarm64-2.1.0.jar returned status 404
+2.2.0		2026-06-09T08:15:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/konapi/konapi-linuxarm64/2.2.0/konapi-linuxarm64-2.2.0.jar returned status 404
+2.2.0-RC		2026-06-09T07:53:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/softappeal/konapi/konapi-linuxarm64/2.2.0-RC/konapi-linuxarm64-2.2.0-RC.jar returned status 404

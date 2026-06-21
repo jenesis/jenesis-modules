@@ -1898,11 +1898,14 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-jdbc	2026-06-05T01:36:55Z	1.16.1
 2.46.5	named	software.amazon.awssdk	bundle	2026-06-05T21:14:57Z	1.17.1
 2.46.5	named	software.amazon.awssdk	bundle-sdk	2026-06-05T21:15:07Z	1.17.1
+2.0.4	named	cn.ctyun	ctyun-java-sdk-ecs20220909	2026-06-08T09:08:48Z	1.19.0
 2.46.6	named	software.amazon.awssdk	bundle-sdk	2026-06-08T22:33:21Z	1.17.1
 2.46.6	named	software.amazon.awssdk	bundle	2026-06-08T22:33:35Z	1.17.1
+2.0.2	named	cn.ctyun	ctyun-java-sdk-vpc20220909	2026-06-09T03:09:16Z	1.19.0
 5.2.0	named	com.liquibase.ext.vaults	liquibase-hashicorp-vault	2026-06-09T16:11:57Z	1.21.0
 2.46.7	named	software.amazon.awssdk	bundle	2026-06-09T21:17:18Z	1.17.1
 2.46.7	named	software.amazon.awssdk	bundle-sdk	2026-06-09T21:17:21Z	1.17.1
+2.0.0	named	cn.ctyun	ctyun-java-sdk-image20220909	2026-06-10T10:50:11Z	1.19.0
 2.46.8	named	software.amazon.awssdk	bundle	2026-06-10T21:17:07Z	1.17.1
 2.46.8	named	software.amazon.awssdk	bundle-sdk	2026-06-10T21:17:15Z	1.17.1
 2.46.9	named	software.amazon.awssdk	bundle	2026-06-11T21:19:19Z	1.17.1

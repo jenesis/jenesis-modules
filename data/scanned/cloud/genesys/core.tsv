@@ -1,0 +1,15 @@
+1.10.0		2026-06-03T11:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.10.0/core-1.10.0.jar returned status 404
+1.11.0		2026-06-03T14:48:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.11.0/core-1.11.0.jar returned status 404
+1.12.0		2026-06-03T16:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.12.0/core-1.12.0.jar returned status 404
+1.13.0		2026-06-03T17:16:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.13.0/core-1.13.0.jar returned status 404
+1.14.0		2026-06-05T11:14:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.14.0/core-1.14.0.jar returned status 404
+1.15.0		2026-06-05T11:36:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.15.0/core-1.15.0.jar returned status 404
+1.16.0		2026-06-05T11:53:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.16.0/core-1.16.0.jar returned status 404
+1.17.0		2026-06-05T12:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.17.0/core-1.17.0.jar returned status 404
+1.18.0		2026-06-05T12:28:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.18.0/core-1.18.0.jar returned status 404
+1.19.0		2026-06-05T14:06:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.19.0/core-1.19.0.jar returned status 404
+1.20.0		2026-06-05T14:16:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.20.0/core-1.20.0.jar returned status 404
+1.21.0		2026-06-05T14:21:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/1.21.0/core-1.21.0.jar returned status 404
+2.0.0		2026-06-05T14:23:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/2.0.0/core-2.0.0.jar returned status 404
+2.1.0		2026-06-05T14:24:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/2.1.0/core-2.1.0.jar returned status 404
+2.2.0		2026-06-05T14:25:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/core/2.2.0/core-2.2.0.jar returned status 404

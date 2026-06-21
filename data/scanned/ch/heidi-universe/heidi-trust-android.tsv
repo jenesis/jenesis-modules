@@ -22,6 +22,7 @@
 0.19.24-nobbs2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.24-nobbs2/heidi-trust-android-0.19.24-nobbs2.jar returned status 404
 0.19.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.25/heidi-trust-android-0.19.25.jar returned status 404
 0.19.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.26/heidi-trust-android-0.19.26.jar returned status 404
+0.19.27		2026-06-05T09:27:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.27/heidi-trust-android-0.19.27.jar returned status 404
 0.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.3/heidi-trust-android-0.19.3.jar returned status 404
 0.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.4/heidi-trust-android-0.19.4.jar returned status 404
 0.19.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.5/heidi-trust-android-0.19.5.jar returned status 404

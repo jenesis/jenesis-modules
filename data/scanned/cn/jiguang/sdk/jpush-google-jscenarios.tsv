@@ -20,4 +20,5 @@
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush-google-jscenarios/6.0.7/jpush-google-jscenarios-6.0.7.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush-google-jscenarios/6.1.0/jpush-google-jscenarios-6.1.0.jar returned status 404
 6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush-google-jscenarios/6.1.1/jpush-google-jscenarios-6.1.1.jar returned status 404
+6.1.2		2026-06-09T08:56:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush-google-jscenarios/6.1.2/jpush-google-jscenarios-6.1.2.jar returned status 404
 t.5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush-google-jscenarios/t.5.9.1/jpush-google-jscenarios-t.5.9.1.jar returned status 404
