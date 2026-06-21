@@ -1,3 +1,5 @@
 2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/checkout-orchestrator/2.49.0/checkout-orchestrator-2.49.0.jar returned status 404
 2.50.0		2026-05-18T15:25:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/checkout-orchestrator/2.50.0/checkout-orchestrator-2.50.0.jar returned status 404
 2.50.1		2026-05-20T12:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/checkout-orchestrator/2.50.1/checkout-orchestrator-2.50.1.jar returned status 404
+2.50.2		2026-06-01T15:31:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/checkout-orchestrator/2.50.2/checkout-orchestrator-2.50.2.jar returned status 404
+2.51.0		2026-06-03T17:02:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/checkout-orchestrator/2.51.0/checkout-orchestrator-2.51.0.jar returned status 404

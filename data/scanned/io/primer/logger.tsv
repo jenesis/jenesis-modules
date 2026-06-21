@@ -32,5 +32,7 @@
 2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/2.49.0/logger-2.49.0.jar returned status 404
 2.50.0		2026-05-18T15:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/2.50.0/logger-2.50.0.jar returned status 404
 2.50.1		2026-05-20T12:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/2.50.1/logger-2.50.1.jar returned status 404
+2.50.2		2026-06-01T15:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/2.50.2/logger-2.50.2.jar returned status 404
+2.51.0		2026-06-03T17:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/2.51.0/logger-2.51.0.jar returned status 404
 3.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/3.0.0-beta.1/logger-3.0.0-beta.1.jar returned status 404
 3.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/logger/3.0.0-beta.2/logger-3.0.0-beta.2.jar returned status 404

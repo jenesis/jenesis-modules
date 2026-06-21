@@ -13,3 +13,5 @@
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/ironjacamar/quarkus-ironjacamar-parent/1.7.2/quarkus-ironjacamar-parent-1.7.2.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/ironjacamar/quarkus-ironjacamar-parent/1.8.0/quarkus-ironjacamar-parent-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/ironjacamar/quarkus-ironjacamar-parent/1.8.1/quarkus-ironjacamar-parent-1.8.1.jar returned status 404
+1.8.2		2026-06-12T11:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/ironjacamar/quarkus-ironjacamar-parent/1.8.2/quarkus-ironjacamar-parent-1.8.2.jar returned status 404
+1.8.3		2026-06-16T15:12:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/ironjacamar/quarkus-ironjacamar-parent/1.8.3/quarkus-ironjacamar-parent-1.8.3.jar returned status 404

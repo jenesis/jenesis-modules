@@ -75,6 +75,7 @@
 1.60.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.60.1/opentelemetry-bom-1.60.1.jar returned status 404
 1.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.61.0/opentelemetry-bom-1.61.0.jar returned status 404
 1.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.62.0/opentelemetry-bom-1.62.0.jar returned status 404
+1.63.0		2026-06-05T14:42:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.63.0/opentelemetry-bom-1.63.0.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.7.0/opentelemetry-bom-1.7.0.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.7.1/opentelemetry-bom-1.7.1.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/opentelemetry-bom/1.9.0/opentelemetry-bom-1.9.0.jar returned status 404

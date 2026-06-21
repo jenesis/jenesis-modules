@@ -3,6 +3,7 @@
 3.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.10/quarkus-jnosql-neo4j-parent-3.4.10.jar returned status 404
 3.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.11/quarkus-jnosql-neo4j-parent-3.4.11.jar returned status 404
 3.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.12/quarkus-jnosql-neo4j-parent-3.4.12.jar returned status 404
+3.4.13		2026-06-04T17:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.13/quarkus-jnosql-neo4j-parent-3.4.13.jar returned status 404
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.2/quarkus-jnosql-neo4j-parent-3.4.2.jar returned status 404
 3.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.4/quarkus-jnosql-neo4j-parent-3.4.4.jar returned status 404
 3.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-neo4j-parent/3.4.5/quarkus-jnosql-neo4j-parent-3.4.5.jar returned status 404
