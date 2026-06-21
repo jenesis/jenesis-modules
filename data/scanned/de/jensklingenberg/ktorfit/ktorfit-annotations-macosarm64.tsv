@@ -84,3 +84,7 @@
 2.7.2	metadata	2026-01-11T15:29:46Z	
 2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-annotations-macosarm64/2.7.3/ktorfit-annotations-macosarm64-2.7.3.jar returned status 404
 2.7.3	metadata	2026-04-26T03:10:42Z	
+2.7.4		2026-06-03T17:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-annotations-macosarm64/2.7.4/ktorfit-annotations-macosarm64-2.7.4.jar returned status 404
+2.7.4	metadata	2026-06-03T17:57:10Z	
+2.7.5		2026-06-07T22:58:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-annotations-macosarm64/2.7.5/ktorfit-annotations-macosarm64-2.7.5.jar returned status 404
+2.7.5	metadata	2026-06-07T22:59:01Z	

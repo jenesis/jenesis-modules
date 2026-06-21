@@ -1,1 +1,5 @@
+1.0.0		2026-06-01T08:13:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/androidbroadcast/featured/featured-testing-android/1.0.0/featured-testing-android-1.0.0.jar returned status 404
 1.0.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/androidbroadcast/featured/featured-testing-android/1.0.0-Beta1/featured-testing-android-1.0.0-Beta1.jar returned status 404
+1.1.0		2026-06-03T19:35:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/androidbroadcast/featured/featured-testing-android/1.1.0/featured-testing-android-1.1.0.jar returned status 404
+1.1.1		2026-06-10T11:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/androidbroadcast/featured/featured-testing-android/1.1.1/featured-testing-android-1.1.1.jar returned status 404
+1.2.0		2026-06-13T12:37:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/androidbroadcast/featured/featured-testing-android/1.2.0/featured-testing-android-1.2.0.jar returned status 404

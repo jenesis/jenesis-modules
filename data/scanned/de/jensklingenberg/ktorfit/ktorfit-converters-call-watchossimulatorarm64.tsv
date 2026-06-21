@@ -66,3 +66,5 @@
 2.7.1	metadata	2025-12-11T21:33:47Z	
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-converters-call-watchossimulatorarm64/2.7.2/ktorfit-converters-call-watchossimulatorarm64-2.7.2.jar returned status 404
 2.7.2	metadata	2026-01-11T15:35:11Z	
+2.7.5		2026-06-07T22:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-converters-call-watchossimulatorarm64/2.7.5/ktorfit-converters-call-watchossimulatorarm64-2.7.5.jar returned status 404
+2.7.5	metadata	2026-06-07T22:59:58Z	

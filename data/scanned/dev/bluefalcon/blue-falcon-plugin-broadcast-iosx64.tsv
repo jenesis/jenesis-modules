@@ -4,3 +4,13 @@
 3.3.1	metadata	2026-05-16T20:18:59Z	
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.0/blue-falcon-plugin-broadcast-iosx64-3.4.0.jar returned status 404
 3.4.0	metadata	2026-05-17T16:09:44Z	
+3.4.1		2026-06-01T20:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.1/blue-falcon-plugin-broadcast-iosx64-3.4.1.jar returned status 404
+3.4.1	metadata	2026-06-01T20:50:58Z	
+3.4.2		2026-06-03T20:25:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.2/blue-falcon-plugin-broadcast-iosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-06-03T20:25:55Z	
+3.4.3		2026-06-07T18:04:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.3/blue-falcon-plugin-broadcast-iosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-06-07T18:04:31Z	
+3.4.4		2026-06-11T19:39:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.4/blue-falcon-plugin-broadcast-iosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-11T19:39:14Z	
+3.4.5		2026-06-15T12:28:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-iosx64/3.4.5/blue-falcon-plugin-broadcast-iosx64-3.4.5.jar returned status 404
+3.4.5	metadata	2026-06-15T12:28:10Z	

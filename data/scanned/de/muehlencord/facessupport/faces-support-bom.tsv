@@ -1,3 +1,7 @@
 1.5.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/1.5.13.1/faces-support-bom-1.5.13.1.jar returned status 404
 1.5.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/1.5.13.2/faces-support-bom-1.5.13.2.jar returned status 404
 1.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/1.5.14/faces-support-bom-1.5.14.jar returned status 404
+1.5.15		2026-06-11T19:51:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/1.5.15/faces-support-bom-1.5.15.jar returned status 404
+1.5.15.1		2026-06-12T07:19:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/1.5.15.1/faces-support-bom-1.5.15.1.jar returned status 404
+2.0.6		2026-06-04T17:14:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/2.0.6/faces-support-bom-2.0.6.jar returned status 404
+2.0.7		2026-06-11T19:58:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muehlencord/facessupport/faces-support-bom/2.0.7/faces-support-bom-2.0.7.jar returned status 404

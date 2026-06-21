@@ -15,3 +15,5 @@
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-lib-light-wasm-js/2.7.1/ktorfit-lib-light-wasm-js-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-lib-light-wasm-js/2.7.2/ktorfit-lib-light-wasm-js-2.7.2.jar returned status 404
 2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-lib-light-wasm-js/2.7.3/ktorfit-lib-light-wasm-js-2.7.3.jar returned status 404
+2.7.4		2026-06-03T17:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-lib-light-wasm-js/2.7.4/ktorfit-lib-light-wasm-js-2.7.4.jar returned status 404
+2.7.5		2026-06-07T22:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jensklingenberg/ktorfit/ktorfit-lib-light-wasm-js/2.7.5/ktorfit-lib-light-wasm-js-2.7.5.jar returned status 404
