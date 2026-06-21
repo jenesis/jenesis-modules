@@ -70,7 +70,14 @@
 6.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.33/match-predicting-client-6.33.jar returned status 404
 6.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.34/match-predicting-client-6.34.jar returned status 404
 6.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.35/match-predicting-client-6.35.jar returned status 404
+6.36		2026-06-01T05:13:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.36/match-predicting-client-6.36.jar returned status 404
+6.37		2026-06-03T19:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.37/match-predicting-client-6.37.jar returned status 404
+6.38		2026-06-09T04:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.38/match-predicting-client-6.38.jar returned status 404
+6.39		2026-06-11T05:27:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.39/match-predicting-client-6.39.jar returned status 404
 6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.4/match-predicting-client-6.4.jar returned status 404
+6.40		2026-06-12T09:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.40/match-predicting-client-6.40.jar returned status 404
+6.41		2026-06-15T05:12:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.41/match-predicting-client-6.41.jar returned status 404
+6.42		2026-06-17T04:21:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.42/match-predicting-client-6.42.jar returned status 404
 6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.5/match-predicting-client-6.5.jar returned status 404
 6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.6/match-predicting-client-6.6.jar returned status 404
 6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/magistvan/match-predicting-client/6.7/match-predicting-client-6.7.jar returned status 404

@@ -1,0 +1,5 @@
+1.8.2		2026-06-13T05:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-gateway-bom/1.8.2/sip-gateway-bom-1.8.2.jar returned status 404
+1.8.3		2026-06-13T05:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-gateway-bom/1.8.3/sip-gateway-bom-1.8.3.jar returned status 404
+1.8.4		2026-06-13T13:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-gateway-bom/1.8.4/sip-gateway-bom-1.8.4.jar returned status 404
+1.8.5		2026-06-13T14:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-gateway-bom/1.8.5/sip-gateway-bom-1.8.5.jar returned status 404
+1.8.6		2026-06-14T06:07:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-gateway-bom/1.8.6/sip-gateway-bom-1.8.6.jar returned status 404

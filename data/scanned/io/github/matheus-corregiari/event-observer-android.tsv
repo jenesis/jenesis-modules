@@ -16,3 +16,4 @@
 2.0.0-rc12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/event-observer-android/2.0.0-rc12/event-observer-android-2.0.0-rc12.jar returned status 404
 2.0.0-rc13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/event-observer-android/2.0.0-rc13/event-observer-android-2.0.0-rc13.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/event-observer-android/2.0.1/event-observer-android-2.0.1.jar returned status 404
+2.1.0		2026-06-09T20:56:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/event-observer-android/2.1.0/event-observer-android-2.1.0.jar returned status 404

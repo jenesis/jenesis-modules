@@ -1,2 +1,6 @@
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.18.0/agent-starters-0.18.0.jar returned status 404
 0.19.0		2026-05-28T22:32:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.19.0/agent-starters-0.19.0.jar returned status 404
+0.20.0		2026-06-07T02:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.20.0/agent-starters-0.20.0.jar returned status 404
+0.21.0		2026-06-07T17:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.21.0/agent-starters-0.21.0.jar returned status 404
+0.22.0		2026-06-14T19:09:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.22.0/agent-starters-0.22.0.jar returned status 404
+0.23.0		2026-06-15T15:30:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-starters/0.23.0/agent-starters-0.23.0.jar returned status 404
