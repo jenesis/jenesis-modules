@@ -6198,3 +6198,7 @@ mosaic.testing
 mosaic.terminal
 mosaic.runtime
 mosaic.animation
+edu.hm.hafner.coverage
+edu.hm.hafner.codingstyle
+edu.hm.hafner.autograding
+edu.hm.hafner.analysis.model
