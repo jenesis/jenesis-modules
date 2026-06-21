@@ -6,3 +6,5 @@
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen/0.3.0/framegen-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen/0.3.1/framegen-0.3.1.jar returned status 404
 0.4.0-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen/0.4.0-snapshot/framegen-0.4.0-snapshot.jar returned status 404
+1.0.0		2026-06-09T20:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen/1.0.0/framegen-1.0.0.jar returned status 404
+1.0.1		2026-06-10T05:05:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen/1.0.1/framegen-1.0.1.jar returned status 404

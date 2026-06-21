@@ -23,3 +23,5 @@
 1.2.9		2026-05-25T07:55:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-wasm-js/1.2.9/markdown-parser-wasm-js-1.2.9.jar returned status 404
 1.3.0		2026-05-27T07:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-wasm-js/1.3.0/markdown-parser-wasm-js-1.3.0.jar returned status 404
 1.3.1		2026-05-29T10:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-wasm-js/1.3.1/markdown-parser-wasm-js-1.3.1.jar returned status 404
+1.3.2		2026-06-10T09:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-wasm-js/1.3.2/markdown-parser-wasm-js-1.3.2.jar returned status 404
+1.3.3		2026-06-15T11:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-wasm-js/1.3.3/markdown-parser-wasm-js-1.3.3.jar returned status 404

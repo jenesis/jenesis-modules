@@ -16,6 +16,8 @@
 0.0.20	metadata	2026-04-16T00:03:25Z	
 0.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juevigrace/diva-network-client-macosarm64/0.0.21/diva-network-client-macosarm64-0.0.21.jar returned status 404
 0.0.21	metadata	2026-04-17T17:22:10Z	
+0.0.22		2026-06-03T19:37:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juevigrace/diva-network-client-macosarm64/0.0.22/diva-network-client-macosarm64-0.0.22.jar returned status 404
+0.0.22	metadata	2026-06-03T19:37:24Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juevigrace/diva-network-client-macosarm64/0.0.3/diva-network-client-macosarm64-0.0.3.jar returned status 404
 0.0.3	metadata	2025-12-29T14:27:25Z	
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juevigrace/diva-network-client-macosarm64/0.0.4/diva-network-client-macosarm64-0.0.4.jar returned status 404

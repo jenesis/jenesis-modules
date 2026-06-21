@@ -56,6 +56,8 @@
 0.2.0	metadata	2025-12-18T10:16:46Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-iosarm64/0.2.1/ktor-server-runtime-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2025-12-18T13:48:11Z	
+0.2.10		2026-06-15T13:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-iosarm64/0.2.10/ktor-server-runtime-iosarm64-0.2.10.jar returned status 404
+0.2.10	metadata	2026-06-15T13:54:14Z	
 0.2.2	metadata	2026-01-25T18:02:26Z	
 0.2.3	metadata	2026-01-26T08:27:20Z	
 0.2.4	metadata	2026-01-26T11:54:29Z	

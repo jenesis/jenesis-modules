@@ -48,3 +48,5 @@
 1.4.5-kt2.1.0		2026-05-25T13:44:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-js/1.4.5-kt2.1.0/latex-parser-js-1.4.5-kt2.1.0.jar returned status 404
 1.4.6		2026-05-27T08:08:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-js/1.4.6/latex-parser-js-1.4.6.jar returned status 404
 1.4.6-kt2.1.0		2026-05-27T08:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-js/1.4.6-kt2.1.0/latex-parser-js-1.4.6-kt2.1.0.jar returned status 404
+1.4.7		2026-06-01T07:34:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-js/1.4.7/latex-parser-js-1.4.7.jar returned status 404
+1.4.7-kt2.1.0		2026-06-01T07:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-js/1.4.7-kt2.1.0/latex-parser-js-1.4.7-kt2.1.0.jar returned status 404

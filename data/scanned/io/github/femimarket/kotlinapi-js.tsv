@@ -1,0 +1,6 @@
+0.5.0		2026-06-15T18:40:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/0.5.0/kotlinapi-js-0.5.0.jar returned status 404
+1.0.0		2026-06-16T15:16:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/1.0.0/kotlinapi-js-1.0.0.jar returned status 404
+2.0.0		2026-06-16T19:20:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/2.0.0/kotlinapi-js-2.0.0.jar returned status 404
+3.0.0		2026-06-16T21:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/3.0.0/kotlinapi-js-3.0.0.jar returned status 404
+4.0.0		2026-06-17T16:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/4.0.0/kotlinapi-js-4.0.0.jar returned status 404
+unspecified		2026-06-15T18:13:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-js/unspecified/kotlinapi-js-unspecified.jar returned status 404
