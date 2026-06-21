@@ -1,5 +1,7 @@
 1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.24.6/core-1.24.6.jar returned status 404
 1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.24.7/core-1.24.7.jar returned status 404
+1.24.8		2026-06-03T07:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.24.8/core-1.24.8.jar returned status 404
 1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.26.3/core-1.26.3.jar returned status 404
 1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.26.4/core-1.26.4.jar returned status 404
 1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.26.5/core-1.26.5.jar returned status 404
+1.26.6		2026-06-01T05:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/core/1.26.6/core-1.26.6.jar returned status 404

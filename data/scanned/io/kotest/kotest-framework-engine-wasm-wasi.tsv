@@ -20,3 +20,4 @@
 6.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-wasm-wasi/6.1.7/kotest-framework-engine-wasm-wasi-6.1.7.jar returned status 404
 6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-wasm-wasi/6.1.8/kotest-framework-engine-wasm-wasi-6.1.8.jar returned status 404
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-wasm-wasi/6.1.9/kotest-framework-engine-wasm-wasi-6.1.9.jar returned status 404
+6.2.0		2026-06-15T21:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-wasm-wasi/6.2.0/kotest-framework-engine-wasm-wasi-6.2.0.jar returned status 404

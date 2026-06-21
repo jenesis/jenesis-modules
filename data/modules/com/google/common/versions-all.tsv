@@ -215,6 +215,7 @@ cf08dc5.dirty	named	dev.vortex	vortex-jni	2025-04-17T14:41:39Z	33.4.8-jre
 4.12.8.0	named	org.foundationdb	fdb-relational-cli	2026-06-04T13:32:32Z	33.4.8-jre
 4.12.8.0	named	org.foundationdb	fdb-record-layer-core	2026-06-04T13:32:33Z	33.4.8-jre
 4.12.8.0	named	org.foundationdb	fdb-relational-server	2026-06-04T13:32:33Z	33.4.8-jre
+0.89.0	named	io.javelit	javelit	2026-06-05T21:45:09Z	33.5.0-jre
 4.12.9.0	named	org.foundationdb	fdb-record-layer-core	2026-06-11T10:40:42Z	33.4.8-jre
 4.12.9.0	named	org.foundationdb	fdb-relational-server	2026-06-11T10:40:43Z	33.4.8-jre
 4.12.9.0	named	org.foundationdb	fdb-relational-cli	2026-06-11T10:40:44Z	33.4.8-jre

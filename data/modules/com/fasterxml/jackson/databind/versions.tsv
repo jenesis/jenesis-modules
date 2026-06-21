@@ -4199,6 +4199,12 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.21.4	named	com.fasterxml.jackson.core	jackson-databind	2026-05-29T04:22:05Z	2.21.4
 1.1.0	named	com.airbnb.viaduct	runtime	2026-05-29T18:35:43Z	2.17.3
 2.22.0	named	com.fasterxml.jackson.core	jackson-databind	2026-06-01T00:09:53Z	2.22.0
+1.26.6	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-06-01T05:59:57Z	2.14.2
+1.26.6	named	io.joynr.examples	stateless-async-car-sim	2026-06-01T05:59:58Z	2.14.2
+1.26.6	named	io.joynr.examples	stateless-async-consumer	2026-06-01T05:59:58Z	2.14.2
+1.24.8	named	io.joynr.examples	stateless-async-car-sim	2026-06-03T07:12:07Z	2.14.2
+1.24.8	named	io.joynr.examples	stateless-async-consumer	2026-06-03T07:12:07Z	2.14.2
+1.24.8	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-06-03T07:12:07Z	2.14.2
 4.0.3	named	org.apache.spark	spark-streaming-kafka-0-10-assembly_2.13	2026-06-08T05:21:02Z	2.18.6
 0.18.3	named	io.modelcontextprotocol.sdk	client-jdk-http-client	2026-06-09T13:11:33Z	2.20.1
 2.0.9	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-11T01:39:52Z	2.20.1

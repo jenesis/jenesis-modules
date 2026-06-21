@@ -38,3 +38,4 @@
 6.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-yaml-mingwx64/6.1.7/kotest-assertions-yaml-mingwx64-6.1.7.jar returned status 404
 6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-yaml-mingwx64/6.1.8/kotest-assertions-yaml-mingwx64-6.1.8.jar returned status 404
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-yaml-mingwx64/6.1.9/kotest-assertions-yaml-mingwx64-6.1.9.jar returned status 404
+6.2.0		2026-06-15T21:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-yaml-mingwx64/6.2.0/kotest-assertions-yaml-mingwx64-6.2.0.jar returned status 404

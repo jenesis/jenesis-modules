@@ -78,3 +78,5 @@
 6.1.8	metadata	2026-03-24T04:59:14Z	
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-tvossimulatorarm64/6.1.9/kotest-assertions-kotlinx-datetime-tvossimulatorarm64-6.1.9.jar returned status 404
 6.1.9	metadata	2026-03-24T17:21:07Z	
+6.2.0		2026-06-15T21:47:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-tvossimulatorarm64/6.2.0/kotest-assertions-kotlinx-datetime-tvossimulatorarm64-6.2.0.jar returned status 404
+6.2.0	metadata	2026-06-15T21:47:37Z	
