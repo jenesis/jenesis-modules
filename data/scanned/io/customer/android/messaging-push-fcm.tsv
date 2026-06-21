@@ -99,6 +99,8 @@
 4.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.16.1/messaging-push-fcm-4.16.1.jar returned status 404
 4.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.17.0/messaging-push-fcm-4.17.0.jar returned status 404
 4.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.17.1/messaging-push-fcm-4.17.1.jar returned status 404
+4.18.0		2026-06-04T11:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.18.0/messaging-push-fcm-4.18.0.jar returned status 404
+4.18.1		2026-06-15T15:39:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.18.1/messaging-push-fcm-4.18.1.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.2.0/messaging-push-fcm-4.2.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.3.0/messaging-push-fcm-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-push-fcm/4.4.0/messaging-push-fcm-4.4.0.jar returned status 404

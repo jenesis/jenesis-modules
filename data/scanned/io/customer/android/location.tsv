@@ -1,2 +1,4 @@
 4.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/location/4.17.0/location-4.17.0.jar returned status 404
 4.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/location/4.17.1/location-4.17.1.jar returned status 404
+4.18.0		2026-06-04T11:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/location/4.18.0/location-4.18.0.jar returned status 404
+4.18.1		2026-06-15T15:39:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/location/4.18.1/location-4.18.1.jar returned status 404

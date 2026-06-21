@@ -146,3 +146,4 @@
 5.0.0-rc.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dropwizard/archetypes/dropwizard-archetypes/5.0.0-rc.4/dropwizard-archetypes-5.0.0-rc.4.jar returned status 404
 5.0.0-rc.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dropwizard/archetypes/dropwizard-archetypes/5.0.0-rc.5/dropwizard-archetypes-5.0.0-rc.5.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dropwizard/archetypes/dropwizard-archetypes/5.0.1/dropwizard-archetypes-5.0.1.jar returned status 404
+5.0.2		2026-06-02T22:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dropwizard/archetypes/dropwizard-archetypes/5.0.2/dropwizard-archetypes-5.0.2.jar returned status 404

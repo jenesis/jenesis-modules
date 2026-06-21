@@ -1,2 +1,3 @@
 1.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cyborgcode/roa/roa-parent/1.0.0-rc-1/roa-parent-1.0.0-rc-1.jar returned status 404
 1.0.0-rc-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cyborgcode/roa/roa-parent/1.0.0-rc-2/roa-parent-1.0.0-rc-2.jar returned status 404
+1.0.0-rc-3		2026-06-14T15:47:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cyborgcode/roa/roa-parent/1.0.0-rc-3/roa-parent-1.0.0-rc-3.jar returned status 404
