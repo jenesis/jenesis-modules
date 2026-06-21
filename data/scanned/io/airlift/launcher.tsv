@@ -40,3 +40,4 @@
 314			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/launcher/314/launcher-314.jar returned status 404
 315			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/launcher/315/launcher-315.jar returned status 404
 316			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/launcher/316/launcher-316.jar returned status 404
+317		2026-06-08T13:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/launcher/317/launcher-317.jar returned status 404

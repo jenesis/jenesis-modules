@@ -75,3 +75,9 @@
 1.1.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.32/b24paymentsdk-1.1.32.jar returned status 404
 1.1.33-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-1/b24paymentsdk-1.1.33-beta-1.jar returned status 404
 1.1.33-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-2/b24paymentsdk-1.1.33-beta-2.jar returned status 404
+1.1.33-beta-3		2026-06-04T08:08:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-3/b24paymentsdk-1.1.33-beta-3.jar returned status 404
+1.1.33-beta-4		2026-06-11T04:27:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-4/b24paymentsdk-1.1.33-beta-4.jar returned status 404
+1.1.33-beta-5		2026-06-15T02:00:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-5/b24paymentsdk-1.1.33-beta-5.jar returned status 404
+1.1.33-beta-6		2026-06-15T08:42:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-6/b24paymentsdk-1.1.33-beta-6.jar returned status 404
+1.1.33-beta-7		2026-06-16T07:12:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-7/b24paymentsdk-1.1.33-beta-7.jar returned status 404
+1.1.33-beta-8		2026-06-18T02:32:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-8/b24paymentsdk-1.1.33-beta-8.jar returned status 404

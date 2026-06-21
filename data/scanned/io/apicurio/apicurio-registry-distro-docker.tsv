@@ -21,3 +21,5 @@
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apicurio/apicurio-registry-distro-docker/3.2.2/apicurio-registry-distro-docker-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apicurio/apicurio-registry-distro-docker/3.2.3/apicurio-registry-distro-docker-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apicurio/apicurio-registry-distro-docker/3.2.4/apicurio-registry-distro-docker-3.2.4.jar returned status 404
+3.2.5		2026-06-04T19:39:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apicurio/apicurio-registry-distro-docker/3.2.5/apicurio-registry-distro-docker-3.2.5.jar returned status 404
+3.3.0		2026-06-08T18:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apicurio/apicurio-registry-distro-docker/3.3.0/apicurio-registry-distro-docker-3.3.0.jar returned status 404

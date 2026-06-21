@@ -20,3 +20,4 @@
 3.5-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-jex-parent/3.5-RC6/avaje-jex-parent-3.5-RC6.jar returned status 404
 3.5-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-jex-parent/3.5-RC7/avaje-jex-parent-3.5-RC7.jar returned status 404
 3.5-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-jex-parent/3.5-RC8/avaje-jex-parent-3.5-RC8.jar returned status 404
+3.6		2026-06-12T14:20:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-jex-parent/3.6/avaje-jex-parent-3.6.jar returned status 404

@@ -26,3 +26,5 @@
 2.2.2	metadata	2026-03-03T21:15:51Z	
 2.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/suspendapp-ktor-iosarm64/2.2.2.1/suspendapp-ktor-iosarm64-2.2.2.1.jar returned status 404
 2.2.2.1	metadata	2026-03-18T09:24:24Z	
+2.2.3		2026-06-04T07:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/suspendapp-ktor-iosarm64/2.2.3/suspendapp-ktor-iosarm64-2.2.3.jar returned status 404
+2.2.3	metadata	2026-06-04T07:48:43Z	

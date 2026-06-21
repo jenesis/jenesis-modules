@@ -1,3 +1,4 @@
+0.4.10.2		2026-06-03T11:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/anyone/anon-android/0.4.10.2/anon-android-0.4.10.2.jar returned status 404
 0.4.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/anyone/anon-android/0.4.9.10/anon-android-0.4.9.10.jar returned status 404
 0.4.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/anyone/anon-android/0.4.9.11/anon-android-0.4.9.11.jar returned status 404
 0.4.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/anyone/anon-android/0.4.9.13/anon-android-0.4.9.13.jar returned status 404

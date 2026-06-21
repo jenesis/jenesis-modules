@@ -940,6 +940,7 @@
 1.117.0	named	no.entur	schema2proto-lib	2026-05-31T13:59:23Z	2.22.0
 4.18.0	named	org.apache.distributedlog	distributedlog-core-shaded	2026-06-02T01:43:39Z	2.19.0
 1.118.0	named	no.entur	schema2proto-lib	2026-06-02T04:33:45Z	2.22.0
+1.14.0	named	io.boxlang	boxlang-noop	2026-06-03T09:12:26Z	2.22.0
 1.119.0	named	no.entur	schema2proto-lib	2026-06-04T04:34:36Z	2.22.0
 1.120.0	named	no.entur	schema2proto-lib	2026-06-04T07:57:02Z	2.22.0
 2.1.3	named	org.apache.flink	flink-table-planner_2.12	2026-06-08T04:01:43Z	2.15.1

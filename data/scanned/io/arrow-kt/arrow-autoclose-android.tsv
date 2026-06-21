@@ -13,3 +13,4 @@
 2.2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-android/2.2.1.1/arrow-autoclose-android-2.2.1.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-android/2.2.2/arrow-autoclose-android-2.2.2.jar returned status 404
 2.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-android/2.2.2.1/arrow-autoclose-android-2.2.2.1.jar returned status 404
+2.2.3		2026-06-04T07:48:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-android/2.2.3/arrow-autoclose-android-2.2.3.jar returned status 404
