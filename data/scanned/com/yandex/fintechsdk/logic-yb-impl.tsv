@@ -1,3 +1,4 @@
 1.17.0		2026-05-18T17:56:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/logic-yb-impl/1.17.0/logic-yb-impl-1.17.0.jar returned status 404
 1.17.1		2026-05-19T16:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/logic-yb-impl/1.17.1/logic-yb-impl-1.17.1.jar returned status 404
 3.0.0		2026-05-24T16:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/logic-yb-impl/3.0.0/logic-yb-impl-3.0.0.jar returned status 404
+3.1.0		2026-06-09T06:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/logic-yb-impl/3.1.0/logic-yb-impl-3.1.0.jar returned status 404

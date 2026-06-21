@@ -16,3 +16,4 @@
 1.17.0		2026-05-18T17:56:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-analytics-api/1.17.0/core-analytics-api-1.17.0.jar returned status 404
 1.17.1		2026-05-19T16:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-analytics-api/1.17.1/core-analytics-api-1.17.1.jar returned status 404
 3.0.0		2026-05-24T16:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-analytics-api/3.0.0/core-analytics-api-3.0.0.jar returned status 404
+3.1.0		2026-06-09T06:34:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-analytics-api/3.1.0/core-analytics-api-3.1.0.jar returned status 404

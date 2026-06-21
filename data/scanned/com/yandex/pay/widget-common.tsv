@@ -1,6 +1,7 @@
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.10.0/widget-common-2.10.0.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.11.0/widget-common-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.12.0/widget-common-2.12.0.jar returned status 404
+2.13.0		2026-06-10T12:59:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.13.0/widget-common-2.13.0.jar returned status 404
 2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.3.10/widget-common-2.3.10.jar returned status 404
 2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.3.6/widget-common-2.3.6.jar returned status 404
 2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/pay/widget-common/2.3.7/widget-common-2.3.7.jar returned status 404

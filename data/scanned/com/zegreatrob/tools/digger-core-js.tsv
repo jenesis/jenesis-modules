@@ -280,3 +280,13 @@
 2.3.1		2026-05-30T20:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.3.1/digger-core-js-2.3.1.jar returned status 404
 2.4.0		2026-05-31T03:34:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.4.0/digger-core-js-2.4.0.jar returned status 404
 2.4.1		2026-05-31T04:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.4.1/digger-core-js-2.4.1.jar returned status 404
+2.5.0		2026-05-31T21:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.5.0/digger-core-js-2.5.0.jar returned status 404
+2.5.1		2026-06-01T00:48:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.5.1/digger-core-js-2.5.1.jar returned status 404
+2.5.2		2026-06-01T01:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.5.2/digger-core-js-2.5.2.jar returned status 404
+2.5.3		2026-06-01T02:29:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/2.5.3/digger-core-js-2.5.3.jar returned status 404
+3.0.0		2026-06-03T00:07:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.0.0/digger-core-js-3.0.0.jar returned status 404
+3.0.5		2026-06-04T17:10:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.0.5/digger-core-js-3.0.5.jar returned status 404
+3.0.6		2026-06-04T21:45:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.0.6/digger-core-js-3.0.6.jar returned status 404
+3.1.2		2026-06-06T16:48:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.1.2/digger-core-js-3.1.2.jar returned status 404
+3.1.3		2026-06-07T14:28:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.1.3/digger-core-js-3.1.3.jar returned status 404
+3.1.4		2026-06-07T18:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/digger-core-js/3.1.4/digger-core-js-3.1.4.jar returned status 404
