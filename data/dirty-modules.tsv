@@ -5453,3 +5453,17 @@ up2jakarta.cii.core
 com.fasterxml.jackson.datatype.jdk8
 jakarta.ws.rs
 com.github.sttk.errs
+io.github.senthilganeshs.fj
+SmallCSV
+io.github.seijikohara.logback.access.core
+io.github.seijikohara.logback.access.spring
+io.github.seijikohara.dbtester.spring.support
+io.github.seijikohara.dbtester.spock.spring.autoconfigure
+io.github.seijikohara.dbtester.spock
+io.github.seijikohara.dbtester.kotest.spring.autoconfigure
+io.github.seijikohara.dbtester.kotest
+io.github.seijikohara.dbtester.junit.spring.autoconfigure
+io.github.seijikohara.dbtester.junit
+io.github.seijikohara.dbtester.core
+io.github.seijikohara.dbtester.api
+kotlin.reflect

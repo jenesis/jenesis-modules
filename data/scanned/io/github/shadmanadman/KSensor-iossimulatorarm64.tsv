@@ -26,5 +26,11 @@
 2.0.4	metadata	2026-01-04T07:25:01Z	
 2.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadmanadman/KSensor-iossimulatorarm64/2.10.7/KSensor-iossimulatorarm64-2.10.7.jar returned status 404
 2.10.7	metadata	2026-05-17T11:18:36Z	
+2.20.0		2026-06-03T10:39:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadmanadman/KSensor-iossimulatorarm64/2.20.0/KSensor-iossimulatorarm64-2.20.0.jar returned status 404
+2.20.0	metadata	2026-06-03T10:39:07Z	
+2.20.2-alpha		2026-06-11T08:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadmanadman/KSensor-iossimulatorarm64/2.20.2-alpha/KSensor-iossimulatorarm64-2.20.2-alpha.jar returned status 404
+2.20.2-alpha	metadata	2026-06-11T08:32:05Z	
 2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadmanadman/KSensor-iossimulatorarm64/2.5.4/KSensor-iossimulatorarm64-2.5.4.jar returned status 404
 2.5.4	metadata	2026-02-14T17:45:53Z	
+3.60.0		2026-06-11T09:55:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadmanadman/KSensor-iossimulatorarm64/3.60.0/KSensor-iossimulatorarm64-3.60.0.jar returned status 404
+3.60.0	metadata	2026-06-11T09:55:56Z	

@@ -21,6 +21,8 @@
 1.0.2	plain	2025-08-31T09:29:45Z	
 1.0.20		2026-02-06T23:58:24Z	
 1.0.21		2026-04-24T23:32:54Z	
+1.0.22		2026-06-13T02:04:09Z	
+1.0.23		2026-06-14T00:25:02Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/riversking/rivers-core/1.0.3/rivers-core-1.0.3.jar returned status 404
 1.0.3	plain	2025-08-31T10:48:27Z	
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/riversking/rivers-core/1.0.4/rivers-core-1.0.4.jar returned status 404

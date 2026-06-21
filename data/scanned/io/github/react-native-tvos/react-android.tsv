@@ -369,6 +369,10 @@
 0.83.6-0	debug-sources	2026-04-24T23:07:18Z	
 0.83.6-0	debugOptimized-sources	2026-04-24T23:07:18Z	
 0.83.6-0	release-sources	2026-04-24T23:07:18Z	
+0.83.9-0		2026-06-16T13:16:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.83.9-0/react-android-0.83.9-0.jar returned status 404
+0.83.9-0	debug-sources	2026-06-16T13:16:12Z	
+0.83.9-0	debugOptimized-sources	2026-06-16T13:16:12Z	
+0.83.9-0	release-sources	2026-06-16T13:16:12Z	
 0.84.0-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.84.0-0/react-android-0.84.0-0.jar returned status 404
 0.84.0-0	debug-sources	2026-02-13T03:45:56Z	
 0.84.0-0	debugOptimized-sources	2026-02-13T03:45:56Z	
@@ -405,7 +409,27 @@
 0.85.3-0	debug-sources	2026-05-08T08:39:34Z	
 0.85.3-0	debugOptimized-sources	2026-05-08T08:39:34Z	
 0.85.3-0	release-sources	2026-05-08T08:39:34Z	
+0.85.3-1		2026-06-10T20:26:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.85.3-1/react-android-0.85.3-1.jar returned status 404
+0.85.3-1	debug-sources	2026-06-10T20:26:36Z	
+0.85.3-1	debugOptimized-sources	2026-06-10T20:26:36Z	
+0.85.3-1	release-sources	2026-06-10T20:26:36Z	
+0.85.3-2		2026-06-15T21:23:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.85.3-2/react-android-0.85.3-2.jar returned status 404
+0.85.3-2	debug-sources	2026-06-15T21:23:48Z	
+0.85.3-2	debugOptimized-sources	2026-06-15T21:23:49Z	
+0.85.3-2	release-sources	2026-06-15T21:23:48Z	
+0.86.0-0		2026-06-10T20:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.86.0-0/react-android-0.86.0-0.jar returned status 404
+0.86.0-0	debug-sources	2026-06-10T20:24:06Z	
+0.86.0-0	debugOptimized-sources	2026-06-10T20:24:06Z	
+0.86.0-0	release-sources	2026-06-10T20:24:06Z	
 0.86.0-0rc2		2026-05-28T01:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.86.0-0rc2/react-android-0.86.0-0rc2.jar returned status 404
 0.86.0-0rc2	debug-sources	2026-05-28T01:25:26Z	
 0.86.0-0rc2	debugOptimized-sources	2026-05-28T01:25:26Z	
 0.86.0-0rc2	release-sources	2026-05-28T01:25:26Z	
+0.86.0-0rc3		2026-06-06T12:44:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.86.0-0rc3/react-android-0.86.0-0rc3.jar returned status 404
+0.86.0-0rc3	debug-sources	2026-06-06T12:44:10Z	
+0.86.0-0rc3	debugOptimized-sources	2026-06-06T12:44:10Z	
+0.86.0-0rc3	release-sources	2026-06-06T12:44:10Z	
+0.86.0-1		2026-06-15T21:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/react-native-tvos/react-android/0.86.0-1/react-android-0.86.0-1.jar returned status 404
+0.86.0-1	debug-sources	2026-06-15T21:27:32Z	
+0.86.0-1	debugOptimized-sources	2026-06-15T21:27:32Z	
+0.86.0-1	release-sources	2026-06-15T21:27:32Z	

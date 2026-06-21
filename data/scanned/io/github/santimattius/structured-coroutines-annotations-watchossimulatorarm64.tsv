@@ -22,5 +22,9 @@
 0.8.0	metadata	2026-05-21T22:49:06Z	
 0.8.0-ALPHA01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-watchossimulatorarm64/0.8.0-ALPHA01/structured-coroutines-annotations-watchossimulatorarm64-0.8.0-ALPHA01.jar returned status 404
 0.8.0-ALPHA01	metadata	2026-05-14T00:09:40Z	
+0.9.0		2026-06-01T00:10:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-watchossimulatorarm64/0.9.0/structured-coroutines-annotations-watchossimulatorarm64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-06-01T00:10:17Z	
 0.9.0-ALPHA01		2026-05-28T23:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-watchossimulatorarm64/0.9.0-ALPHA01/structured-coroutines-annotations-watchossimulatorarm64-0.9.0-ALPHA01.jar returned status 404
 0.9.0-ALPHA01	metadata	2026-05-28T23:42:43Z	
+1.0.0		2026-06-09T22:37:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-watchossimulatorarm64/1.0.0/structured-coroutines-annotations-watchossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-09T22:37:29Z	

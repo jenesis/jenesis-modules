@@ -1,3 +1,4 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-mongodb/3.2.0/raven-mongodb-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-mongodb/3.2.1/raven-mongodb-3.2.1.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-mongodb/3.2.2/raven-mongodb-3.2.2.jar returned status 404
+4.0.1		2026-06-08T02:55:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-mongodb/4.0.1/raven-mongodb-4.0.1.jar returned status 404

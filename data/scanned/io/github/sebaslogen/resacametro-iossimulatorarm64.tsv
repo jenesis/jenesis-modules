@@ -8,3 +8,5 @@
 5.0.3	metadata	2026-05-14T05:29:37Z	
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebaslogen/resacametro-iossimulatorarm64/5.1.0/resacametro-iossimulatorarm64-5.1.0.jar returned status 404
 5.1.0	metadata	2026-05-15T08:42:06Z	
+5.1.1		2026-06-11T08:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebaslogen/resacametro-iossimulatorarm64/5.1.1/resacametro-iossimulatorarm64-5.1.1.jar returned status 404
+5.1.1	metadata	2026-06-11T08:37:28Z	

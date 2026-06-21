@@ -7,3 +7,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-spring/5.0.4/raven-spring-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-spring/5.0.5/raven-spring-5.0.5.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-spring/5.1.0/raven-spring-5.1.0.jar returned status 404
+5.1.1		2026-06-04T15:38:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raven-source/raven-spring/5.1.1/raven-spring-5.1.1.jar returned status 404

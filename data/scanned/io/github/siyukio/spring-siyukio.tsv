@@ -12,6 +12,7 @@
 3.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.13/spring-siyukio-3.5.13.jar returned status 404
 3.5.13-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.13-M1/spring-siyukio-3.5.13-M1.jar returned status 404
 3.5.13-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.13-M2/spring-siyukio-3.5.13-M2.jar returned status 404
+3.5.14		2026-06-15T07:15:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14/spring-siyukio-3.5.14.jar returned status 404
 3.5.14-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M1/spring-siyukio-3.5.14-M1.jar returned status 404
 3.5.14-M10		2026-05-23T02:17:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M10/spring-siyukio-3.5.14-M10.jar returned status 404
 3.5.14-M11		2026-05-24T08:19:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M11/spring-siyukio-3.5.14-M11.jar returned status 404
@@ -21,7 +22,15 @@
 3.5.14-M15		2026-05-28T23:43:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M15/spring-siyukio-3.5.14-M15.jar returned status 404
 3.5.14-M16		2026-05-29T00:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M16/spring-siyukio-3.5.14-M16.jar returned status 404
 3.5.14-M17		2026-05-29T01:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M17/spring-siyukio-3.5.14-M17.jar returned status 404
+3.5.14-M18		2026-06-01T15:37:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M18/spring-siyukio-3.5.14-M18.jar returned status 404
+3.5.14-M19		2026-06-04T06:54:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M19/spring-siyukio-3.5.14-M19.jar returned status 404
 3.5.14-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M2/spring-siyukio-3.5.14-M2.jar returned status 404
+3.5.14-M20		2026-06-08T03:07:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M20/spring-siyukio-3.5.14-M20.jar returned status 404
+3.5.14-M21		2026-06-09T07:39:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M21/spring-siyukio-3.5.14-M21.jar returned status 404
+3.5.14-M22		2026-06-12T00:00:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M22/spring-siyukio-3.5.14-M22.jar returned status 404
+3.5.14-M23		2026-06-14T13:14:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M23/spring-siyukio-3.5.14-M23.jar returned status 404
+3.5.14-M24		2026-06-14T17:43:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M24/spring-siyukio-3.5.14-M24.jar returned status 404
+3.5.14-M25		2026-06-15T00:31:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M25/spring-siyukio-3.5.14-M25.jar returned status 404
 3.5.14-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M3/spring-siyukio-3.5.14-M3.jar returned status 404
 3.5.14-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M4/spring-siyukio-3.5.14-M4.jar returned status 404
 3.5.14-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M5/spring-siyukio-3.5.14-M5.jar returned status 404
@@ -29,3 +38,4 @@
 3.5.14-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M7/spring-siyukio-3.5.14-M7.jar returned status 404
 3.5.14-M8		2026-05-20T15:02:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M8/spring-siyukio-3.5.14-M8.jar returned status 404
 3.5.14-M9		2026-05-21T16:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.14-M9/spring-siyukio-3.5.14-M9.jar returned status 404
+3.5.15-M1		2026-06-17T06:34:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/siyukio/spring-siyukio/3.5.15-M1/spring-siyukio-3.5.15-M1.jar returned status 404

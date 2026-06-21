@@ -16,6 +16,13 @@
 10.2.20260522		2026-05-22T19:25:42Z	
 10.2.20260523		2026-05-23T08:25:42Z	
 10.2.20260530		2026-05-30T17:15:45Z	
+10.2.20260605		2026-06-05T18:23:24Z	
+10.2.20260610		2026-06-10T09:55:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260610/SHAFT_ENGINE-10.2.20260610.jar returned status 404
+10.2.20260612		2026-06-12T11:42:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260612/SHAFT_ENGINE-10.2.20260612.jar returned status 404
+10.2.20260614		2026-06-14T08:26:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260614/SHAFT_ENGINE-10.2.20260614.jar returned status 404
+10.2.20260615		2026-06-15T06:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260615/SHAFT_ENGINE-10.2.20260615.jar returned status 404
+10.2.20260616		2026-06-15T19:18:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260616/SHAFT_ENGINE-10.2.20260616.jar returned status 404
+10.2.20260617		2026-06-17T09:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/SHAFT_ENGINE/10.2.20260617/SHAFT_ENGINE-10.2.20260617.jar returned status 404
 7.2.20230527		2023-06-06T16:33:53Z	
 7.2.20230606		2023-06-06T17:05:23Z	
 7.2.20230609		2023-06-09T08:35:09Z	

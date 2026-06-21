@@ -23,6 +23,7 @@
 2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.31.0/plasma-star-ds-2.31.0.jar returned status 404
 2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.32.0/plasma-star-ds-2.32.0.jar returned status 404
 2.33.0		2026-05-27T10:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.33.0/plasma-star-ds-2.33.0.jar returned status 404
+2.34.0		2026-06-10T14:29:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.34.0/plasma-star-ds-2.34.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.4.0/plasma-star-ds-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.5.0/plasma-star-ds-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-star-ds/2.6.0/plasma-star-ds-2.6.0.jar returned status 404

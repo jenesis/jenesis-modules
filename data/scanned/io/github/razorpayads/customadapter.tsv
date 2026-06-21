@@ -4,3 +4,6 @@
 2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.4.5/customadapter-2.4.5.jar returned status 404
 2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.4.7/customadapter-2.4.7.jar returned status 404
 2.5.0		2026-05-27T10:42:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.5.0/customadapter-2.5.0.jar returned status 404
+2.5.1		2026-06-02T06:17:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.5.1/customadapter-2.5.1.jar returned status 404
+2.5.2		2026-06-03T06:25:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.5.2/customadapter-2.5.2.jar returned status 404
+2.6.0		2026-06-09T05:20:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/customadapter/2.6.0/customadapter-2.6.0.jar returned status 404

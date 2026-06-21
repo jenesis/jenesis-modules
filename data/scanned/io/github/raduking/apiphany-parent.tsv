@@ -13,6 +13,8 @@
 1.2.10		2026-05-21T19:47:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.10/apiphany-parent-1.2.10.jar returned status 404
 1.2.11		2026-05-28T05:36:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.11/apiphany-parent-1.2.11.jar returned status 404
 1.2.12		2026-05-30T18:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.12/apiphany-parent-1.2.12.jar returned status 404
+1.2.13		2026-06-09T00:03:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.13/apiphany-parent-1.2.13.jar returned status 404
+1.2.14		2026-06-13T23:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.14/apiphany-parent-1.2.14.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.2/apiphany-parent-1.2.2.jar returned status 404
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.3/apiphany-parent-1.2.3.jar returned status 404
 1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/raduking/apiphany-parent/1.2.4/apiphany-parent-1.2.4.jar returned status 404
