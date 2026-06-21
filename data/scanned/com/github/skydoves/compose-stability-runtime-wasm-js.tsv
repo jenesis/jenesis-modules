@@ -1,3 +1,4 @@
+0.10.0		2026-06-11T08:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.10.0/compose-stability-runtime-wasm-js-0.10.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.5.1/compose-stability-runtime-wasm-js-0.5.1.jar returned status 404
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.5.2/compose-stability-runtime-wasm-js-0.5.2.jar returned status 404
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.5.3/compose-stability-runtime-wasm-js-0.5.3.jar returned status 404
@@ -16,3 +17,4 @@
 0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.7.4/compose-stability-runtime-wasm-js-0.7.4.jar returned status 404
 0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.7.5/compose-stability-runtime-wasm-js-0.7.5.jar returned status 404
 0.8.0		2026-05-29T13:09:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.8.0/compose-stability-runtime-wasm-js-0.8.0.jar returned status 404
+0.9.0		2026-06-04T10:15:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose-stability-runtime-wasm-js/0.9.0/compose-stability-runtime-wasm-js-0.9.0.jar returned status 404

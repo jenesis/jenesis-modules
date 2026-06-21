@@ -148,3 +148,8 @@
 5.0.0	SpDebug-sources	2026-05-21T02:04:43Z	
 5.0.0	SpRelease-javadoc	2026-05-21T02:04:43Z	
 5.0.0	SpRelease-sources	2026-05-21T02:04:43Z	
+5.1.0		2026-06-02T06:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/stephengold/jolt-jni-Android/5.1.0/jolt-jni-Android-5.1.0.jar returned status 404
+5.1.0	SpDebug-javadoc	2026-06-02T06:12:15Z	
+5.1.0	SpDebug-sources	2026-06-02T06:12:15Z	
+5.1.0	SpRelease-javadoc	2026-06-02T06:12:16Z	
+5.1.0	SpRelease-sources	2026-06-02T06:12:15Z	

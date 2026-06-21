@@ -28,6 +28,7 @@ v22.19.0			IOException: Tail request on https://maven-central.storage-download.g
 v22.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.2.0/node-v22.2.0.jar returned status 404
 v22.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.21.0/node-v22.21.0.jar returned status 404
 v22.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.22.0/node-v22.22.0.jar returned status 404
+v22.22.3		2026-06-14T01:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.22.3/node-v22.22.3.jar returned status 404
 v22.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.3.0/node-v22.3.0.jar returned status 404
 v22.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.4.1/node-v22.4.1.jar returned status 404
 v22.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v22.6.0/node-v22.6.0.jar returned status 404
@@ -36,9 +37,11 @@ v23.7.0			IOException: Tail request on https://maven-central.storage-download.go
 v24.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.10.0/node-v24.10.0.jar returned status 404
 v24.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.11.1/node-v24.11.1.jar returned status 404
 v24.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.13.1/node-v24.13.1.jar returned status 404
+v24.16.0		2026-06-14T01:24:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.16.0/node-v24.16.0.jar returned status 404
 v24.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.3.0/node-v24.3.0.jar returned status 404
 v24.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.5.0/node-v24.5.0.jar returned status 404
 v24.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v24.8.0/node-v24.8.0.jar returned status 404
 v25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v25.0.0/node-v25.0.0.jar returned status 404
 v25.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v25.2.1/node-v25.2.1.jar returned status 404
 v25.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v25.6.1/node-v25.6.1.jar returned status 404
+v26.3.0		2026-06-14T01:33:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/nodejs/node/v26.3.0/node-v26.3.0.jar returned status 404

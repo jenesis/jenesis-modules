@@ -35,6 +35,8 @@
 0.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.42/cgws-0.0.42.jar returned status 404
 0.0.43		2026-05-29T10:21:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.43/cgws-0.0.43.jar returned status 404
 0.0.44		2026-06-01T01:10:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.44/cgws-0.0.44.jar returned status 404
+0.0.45		2026-06-02T08:33:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.45/cgws-0.0.45.jar returned status 404
+0.0.46		2026-06-11T05:38:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.46/cgws-0.0.46.jar returned status 404
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.5/cgws-0.0.5.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.6/cgws-0.0.6.jar returned status 404
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/vhall/sdk/cgws_sdk/cgws/0.0.7/cgws-0.0.7.jar returned status 404
