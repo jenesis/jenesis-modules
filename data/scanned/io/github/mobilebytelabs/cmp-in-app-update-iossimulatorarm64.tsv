@@ -32,3 +32,13 @@
 3.4.0	metadata	2026-05-29T06:40:23Z	
 3.4.1		2026-05-29T13:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.4.1/cmp-in-app-update-iossimulatorarm64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:41:38Z	
+3.4.2		2026-05-31T09:33:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.4.2/cmp-in-app-update-iossimulatorarm64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:33:10Z	
+3.4.3		2026-05-31T10:18:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.4.3/cmp-in-app-update-iossimulatorarm64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:18:43Z	
+3.4.4		2026-06-01T02:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.4.4/cmp-in-app-update-iossimulatorarm64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:19:12Z	
+3.5.0		2026-06-01T14:05:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.5.0/cmp-in-app-update-iossimulatorarm64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T14:05:39Z	
+3.5.1		2026-06-08T04:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iossimulatorarm64/3.5.1/cmp-in-app-update-iossimulatorarm64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:22:40Z	

@@ -32,3 +32,13 @@
 3.4.0	metadata	2026-05-29T06:44:32Z	
 3.4.1		2026-05-29T13:57:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.4.1/cmp-deep-link-tvosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:57:17Z	
+3.4.2		2026-05-31T09:28:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.4.2/cmp-deep-link-tvosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:28:06Z	
+3.4.3		2026-05-31T10:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.4.3/cmp-deep-link-tvosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:05:01Z	
+3.4.4		2026-06-01T02:19:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.4.4/cmp-deep-link-tvosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:19:12Z	
+3.5.0		2026-06-01T14:11:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.5.0/cmp-deep-link-tvosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T14:11:01Z	
+3.5.1		2026-06-08T04:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-tvosx64/3.5.1/cmp-deep-link-tvosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:30:15Z	

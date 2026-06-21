@@ -2,3 +2,13 @@
 3.4.0	metadata	2026-05-29T06:48:51Z	
 3.4.1		2026-05-29T13:51:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.4.1/cmp-intent-launcher-compose-iosx64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:51:16Z	
+3.4.2		2026-05-31T09:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.4.2/cmp-intent-launcher-compose-iosx64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:33:38Z	
+3.4.3		2026-05-31T10:05:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.4.3/cmp-intent-launcher-compose-iosx64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:05:25Z	
+3.4.4		2026-06-01T02:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.4.4/cmp-intent-launcher-compose-iosx64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:26:15Z	
+3.5.0		2026-06-01T13:55:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.5.0/cmp-intent-launcher-compose-iosx64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T13:55:33Z	
+3.5.1		2026-06-08T04:19:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-iosx64/3.5.1/cmp-intent-launcher-compose-iosx64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:19:58Z	

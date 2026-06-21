@@ -6,3 +6,13 @@
 3.4.0	metadata	2026-05-29T06:47:31Z	
 3.4.1		2026-05-29T13:42:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.4.1/cmp-app-intents-tvossimulatorarm64-3.4.1.jar returned status 404
 3.4.1	metadata	2026-05-29T13:42:10Z	
+3.4.2		2026-05-31T09:28:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.4.2/cmp-app-intents-tvossimulatorarm64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-05-31T09:28:01Z	
+3.4.3		2026-05-31T10:17:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.4.3/cmp-app-intents-tvossimulatorarm64-3.4.3.jar returned status 404
+3.4.3	metadata	2026-05-31T10:17:52Z	
+3.4.4		2026-06-01T02:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.4.4/cmp-app-intents-tvossimulatorarm64-3.4.4.jar returned status 404
+3.4.4	metadata	2026-06-01T02:24:39Z	
+3.5.0		2026-06-01T14:13:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.5.0/cmp-app-intents-tvossimulatorarm64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-06-01T14:13:34Z	
+3.5.1		2026-06-08T04:31:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-tvossimulatorarm64/3.5.1/cmp-app-intents-tvossimulatorarm64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-08T04:31:54Z	

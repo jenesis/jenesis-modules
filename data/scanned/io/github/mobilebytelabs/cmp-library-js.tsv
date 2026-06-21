@@ -15,3 +15,8 @@
 3.3.1		2026-05-27T13:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.3.1/cmp-library-js-3.3.1.jar returned status 404
 3.4.0		2026-05-29T06:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.4.0/cmp-library-js-3.4.0.jar returned status 404
 3.4.1		2026-05-29T13:53:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.4.1/cmp-library-js-3.4.1.jar returned status 404
+3.4.2		2026-05-31T08:53:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.4.2/cmp-library-js-3.4.2.jar returned status 404
+3.4.3		2026-05-31T10:00:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.4.3/cmp-library-js-3.4.3.jar returned status 404
+3.4.4		2026-06-01T02:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.4.4/cmp-library-js-3.4.4.jar returned status 404
+3.5.0		2026-06-01T13:58:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.5.0/cmp-library-js-3.5.0.jar returned status 404
+3.5.1		2026-06-08T04:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-js/3.5.1/cmp-library-js-3.5.1.jar returned status 404
