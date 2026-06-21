@@ -8,3 +8,5 @@
 1.4.0	metadata	2026-04-08T10:54:10Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/teya-auth-time-utils-iossimulatorarm64/1.5.0/teya-auth-time-utils-iossimulatorarm64-1.5.0.jar returned status 404
 1.5.0	metadata	2026-04-13T17:48:29Z	
+1.6.0		2026-06-10T13:16:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/teya-auth-time-utils-iossimulatorarm64/1.6.0/teya-auth-time-utils-iossimulatorarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-06-10T13:16:36Z	

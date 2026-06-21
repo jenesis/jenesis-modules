@@ -38,3 +38,4 @@
 1.4.4.6-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/oppo/1.4.4.6-release/oppo-1.4.4.6-release.jar returned status 404
 1.4.4.7-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/oppo/1.4.4.7-release/oppo-1.4.4.7-release.jar returned status 404
 1.4.4.8-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/oppo/1.4.4.8-release/oppo-1.4.4.8-release.jar returned status 404
+1.4.4.9-release		2026-06-01T02:39:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/oppo/1.4.4.9-release/oppo-1.4.4.9-release.jar returned status 404

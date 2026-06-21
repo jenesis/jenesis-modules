@@ -8,3 +8,5 @@
 1.2.51		2026-05-22T09:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theminesec/sdk/headless-stage/1.2.51/headless-stage-1.2.51.jar returned status 404
 1.2.52		2026-05-27T08:37:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theminesec/sdk/headless-stage/1.2.52/headless-stage-1.2.52.jar returned status 404
 1.2.53		2026-05-28T04:01:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theminesec/sdk/headless-stage/1.2.53/headless-stage-1.2.53.jar returned status 404
+1.2.55		2026-06-04T09:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theminesec/sdk/headless-stage/1.2.55/headless-stage-1.2.55.jar returned status 404
+1.2.55.1		2026-06-08T09:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theminesec/sdk/headless-stage/1.2.55.1/headless-stage-1.2.55.1.jar returned status 404

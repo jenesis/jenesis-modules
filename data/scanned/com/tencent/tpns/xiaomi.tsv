@@ -38,3 +38,4 @@
 1.4.4.6-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/xiaomi/1.4.4.6-release/xiaomi-1.4.4.6-release.jar returned status 404
 1.4.4.7-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/xiaomi/1.4.4.7-release/xiaomi-1.4.4.7-release.jar returned status 404
 1.4.4.8-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/xiaomi/1.4.4.8-release/xiaomi-1.4.4.8-release.jar returned status 404
+1.4.4.9-release		2026-06-01T02:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tpns/xiaomi/1.4.4.9-release/xiaomi-1.4.4.9-release.jar returned status 404

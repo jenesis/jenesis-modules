@@ -2,3 +2,4 @@
 00.51.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/security-for-flow-parent/00.51.00/security-for-flow-parent-00.51.00.jar returned status 404
 00.60.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/security-for-flow-parent/00.60.00/security-for-flow-parent-00.60.00.jar returned status 404
 00.70.00		2026-05-31T17:23:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/security-for-flow-parent/00.70.00/security-for-flow-parent-00.70.00.jar returned status 404
+00.72.00		2026-06-08T19:07:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/security-for-flow-parent/00.72.00/security-for-flow-parent-00.72.00.jar returned status 404

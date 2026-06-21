@@ -36,6 +36,7 @@
 11.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/11.9.0/swrve-firebase-11.9.0.jar returned status 404
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/12.0.0/swrve-firebase-12.0.0.jar returned status 404
 12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/12.1.0/swrve-firebase-12.1.0.jar returned status 404
+12.2.0		2026-06-17T10:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/12.2.0/swrve-firebase-12.2.0.jar returned status 404
 7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/7.6.1/swrve-firebase-7.6.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/8.0.0/swrve-firebase-8.0.0.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-firebase/9.0.0/swrve-firebase-9.0.0.jar returned status 404

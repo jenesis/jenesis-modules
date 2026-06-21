@@ -6,3 +6,5 @@
 0.1.3	metadata	2026-05-25T11:38:19Z	
 0.1.4		2026-05-27T19:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/testogethr/sdk-iossimulatorarm64/0.1.4/sdk-iossimulatorarm64-0.1.4.jar returned status 404
 0.1.4	metadata	2026-05-27T19:34:48Z	
+0.1.5		2026-06-06T10:09:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/testogethr/sdk-iossimulatorarm64/0.1.5/sdk-iossimulatorarm64-0.1.5.jar returned status 404
+0.1.5	metadata	2026-06-06T10:09:10Z	

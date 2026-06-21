@@ -10,3 +10,5 @@
 0.1.2	metadata	2025-06-13T11:55:13Z	
 0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sundayapp/decimal4kmp-iosarm64/0.1.3/decimal4kmp-iosarm64-0.1.3.jar returned status 404
 0.1.3	metadata	2025-08-27T12:23:50Z	
+0.2.0		2026-06-09T07:07:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sundayapp/decimal4kmp-iosarm64/0.2.0/decimal4kmp-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-09T07:07:50Z	
