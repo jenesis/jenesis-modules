@@ -4,3 +4,4 @@
 2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juphoon-app/jcsdk/2.16.0/jcsdk-2.16.0.jar returned status 404
 2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juphoon-app/jcsdk/2.16.1/jcsdk-2.16.1.jar returned status 404
 2.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juphoon-app/jcsdk/2.16.2/jcsdk-2.16.2.jar returned status 404
+2.16.6		2026-06-01T03:20:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/juphoon-app/jcsdk/2.16.6/jcsdk-2.16.6.jar returned status 404

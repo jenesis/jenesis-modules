@@ -1,0 +1,2 @@
+1.0.0		2026-06-11T11:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kylinn/jydapp-framework-parent/1.0.0/jydapp-framework-parent-1.0.0.jar returned status 404
+1.1.0		2026-06-12T12:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kylinn/jydapp-framework-parent/1.1.0/jydapp-framework-parent-1.1.0.jar returned status 404

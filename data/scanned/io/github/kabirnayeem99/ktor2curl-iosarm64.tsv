@@ -6,3 +6,7 @@
 1.0.2	metadata	2024-12-08T12:01:46Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kabirnayeem99/ktor2curl-iosarm64/1.1.0/ktor2curl-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2025-06-28T06:54:06Z	
+2.0.0		2026-06-13T10:25:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kabirnayeem99/ktor2curl-iosarm64/2.0.0/ktor2curl-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-13T10:25:39Z	
+2.0.1		2026-06-13T10:56:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kabirnayeem99/ktor2curl-iosarm64/2.0.1/ktor2curl-iosarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-06-13T10:56:05Z	

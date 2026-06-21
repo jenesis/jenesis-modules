@@ -1,2 +1,6 @@
 0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/0.0.1/spring-boot-firebase-admin-0.0.1.jar returned status 404
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/0.1.0/spring-boot-firebase-admin-0.1.0.jar returned status 404
+0.2.0		2026-06-06T15:34:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/0.2.0/spring-boot-firebase-admin-0.2.0.jar returned status 404
+0.2.1		2026-06-07T05:12:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/0.2.1/spring-boot-firebase-admin-0.2.1.jar returned status 404
+1.0.0		2026-06-16T17:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/1.0.0/spring-boot-firebase-admin-1.0.0.jar returned status 404
+2.0.0		2026-06-16T18:13:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/justedlev/spring-boot-firebase-admin/2.0.0/spring-boot-firebase-admin-2.0.0.jar returned status 404

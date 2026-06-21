@@ -6,3 +6,5 @@
 0.0.9	metadata	2026-04-28T05:40:19Z	
 0.1.0		2026-05-19T15:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/karya-inc/waveform-iosx64/0.1.0/waveform-iosx64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-05-19T15:40:36Z	
+0.1.1		2026-06-07T12:59:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/karya-inc/waveform-iosx64/0.1.1/waveform-iosx64-0.1.1.jar returned status 404
+0.1.1	metadata	2026-06-07T12:59:09Z	

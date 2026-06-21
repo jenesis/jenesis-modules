@@ -2,3 +2,5 @@
 1.0.0	metadata	2026-05-29T12:09:36Z	
 1.1.0		2026-05-30T09:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-iosarm64/1.1.0/compose-super-charts-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-05-30T09:42:09Z	
+1.1.1		2026-06-01T05:07:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-iosarm64/1.1.1/compose-super-charts-iosarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-06-01T05:07:07Z	
