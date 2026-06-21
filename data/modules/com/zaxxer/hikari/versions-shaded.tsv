@@ -619,3 +619,5 @@ release-4.96.3	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-p
 2.92.1	named	org.finos.legend.depot	legend-depot-store-server	2026-05-20T21:12:20Z	
 2.92.2	named	org.finos.legend.depot	legend-depot-store-server	2026-05-22T10:25:14Z	
 2.92.2	named	org.finos.legend.depot	legend-depot-server	2026-05-22T10:25:15Z	
+2.93.0	named	org.finos.legend.depot	legend-depot-server	2026-06-01T16:02:22Z	
+2.93.0	named	org.finos.legend.depot	legend-depot-store-server	2026-06-01T16:02:23Z	

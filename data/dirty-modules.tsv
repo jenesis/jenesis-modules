@@ -2416,3 +2416,11 @@ symphony.bdk.config
 symphony.bdk.app.spring.boot.starter
 symphony.group.extension
 io.netty.internal.tcnative
+com.zaxxer.hikari
+org.faktorips.valuetypes.joda
+org.faktorips.valuetypes
+org.faktorips.testsupport
+org.faktorips.runtime.xml.javax
+org.faktorips.runtime.xml.jakarta
+org.faktorips.runtime.groovy
+org.faktorips.runtime

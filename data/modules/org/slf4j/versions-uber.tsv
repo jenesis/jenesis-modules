@@ -68,3 +68,4 @@
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-01T12:12:43Z	2.0.3
 0.6.2	named	org.pragmatica-lite	peglib-playground	2026-06-06T17:50:10Z	2.0.17
 0.6.3	named	org.pragmatica-lite	peglib-playground	2026-06-07T05:24:02Z	2.0.17
+2.0.0	named	org.expath.http.client	http-client-saxon	2026-06-16T10:41:22Z	2.0.17

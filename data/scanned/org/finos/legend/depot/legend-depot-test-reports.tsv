@@ -35,3 +35,4 @@
 2.92.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot-test-reports/2.92.0/legend-depot-test-reports-2.92.0.jar returned status 404
 2.92.1		2026-05-20T21:12:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot-test-reports/2.92.1/legend-depot-test-reports-2.92.1.jar returned status 404
 2.92.2		2026-05-22T10:25:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot-test-reports/2.92.2/legend-depot-test-reports-2.92.2.jar returned status 404
+2.93.0		2026-06-01T16:02:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot-test-reports/2.93.0/legend-depot-test-reports-2.93.0.jar returned status 404
