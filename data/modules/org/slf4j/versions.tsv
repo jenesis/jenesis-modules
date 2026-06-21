@@ -2761,6 +2761,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 12.0.36	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2026-05-31T22:58:36Z	2.0.17
 12.0.36	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2026-05-31T22:58:37Z	2.0.17
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-01T12:12:43Z	2.0.3
+0.13.1	named	io.testomat	java-reporter-core	2026-06-02T17:05:41Z	2.0.9
 1.12.10	named	org.open-metadata	elasticsearch-deps	2026-06-03T06:41:43Z	2.0.4
 1.13.0	named	org.open-metadata	elasticsearch-deps	2026-06-08T09:52:22Z	2.0.4
 1.12.0	named	org.noear	luffy.executor.m.thymeleaf	2026-06-09T14:18:00Z	2.0.18
@@ -2771,3 +2772,4 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.1.1	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-06-11T19:19:21Z	2.0.17
 1.12.11	named	org.open-metadata	elasticsearch-deps	2026-06-12T10:47:06Z	2.0.4
 3.8.0	named	us.springett	alpine-executable-war	2026-06-12T13:52:42Z	2.0.18
+0.14.0	named	io.testomat	java-reporter-core	2026-06-17T11:44:46Z	2.0.9

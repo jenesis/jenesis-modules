@@ -10,3 +10,5 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/public/jwt-servlet-auth-integration-tests/4.0.0/jwt-servlet-auth-integration-tests-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/public/jwt-servlet-auth-integration-tests/4.0.1/jwt-servlet-auth-integration-tests-4.0.1.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/public/jwt-servlet-auth-integration-tests/4.1.0/jwt-servlet-auth-integration-tests-4.1.0.jar returned status 404
+4.1.1		2026-06-02T09:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/public/jwt-servlet-auth-integration-tests/4.1.1/jwt-servlet-auth-integration-tests-4.1.1.jar returned status 404
+4.1.2		2026-06-09T09:36:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/public/jwt-servlet-auth-integration-tests/4.1.2/jwt-servlet-auth-integration-tests-4.1.2.jar returned status 404

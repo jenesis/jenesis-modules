@@ -1,3 +1,4 @@
 70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/takari/takari/70/takari-70.jar returned status 404
 71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/takari/takari/71/takari-71.jar returned status 404
 72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/takari/takari/72/takari-72.jar returned status 404
+73		2026-06-15T17:40:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/takari/takari/73/takari-73.jar returned status 404

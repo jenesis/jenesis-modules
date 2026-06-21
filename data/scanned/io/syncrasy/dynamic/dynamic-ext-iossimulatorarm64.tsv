@@ -62,6 +62,14 @@
 0.2.30	metadata	2026-05-12T13:24:55Z	
 0.2.32		2026-05-25T06:49:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.32/dynamic-ext-iossimulatorarm64-0.2.32.jar returned status 404
 0.2.32	metadata	2026-05-25T06:49:18Z	
+0.2.33		2026-06-01T04:01:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.33/dynamic-ext-iossimulatorarm64-0.2.33.jar returned status 404
+0.2.33	metadata	2026-06-01T04:01:53Z	
+0.2.34		2026-06-04T09:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.34/dynamic-ext-iossimulatorarm64-0.2.34.jar returned status 404
+0.2.34	metadata	2026-06-04T09:15:15Z	
+0.2.35		2026-06-04T11:46:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.35/dynamic-ext-iossimulatorarm64-0.2.35.jar returned status 404
+0.2.35	metadata	2026-06-04T11:46:27Z	
+0.2.36		2026-06-09T09:41:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.36/dynamic-ext-iossimulatorarm64-0.2.36.jar returned status 404
+0.2.36	metadata	2026-06-09T09:41:04Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.4/dynamic-ext-iossimulatorarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:28Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-iossimulatorarm64/0.2.5/dynamic-ext-iossimulatorarm64-0.2.5.jar returned status 404

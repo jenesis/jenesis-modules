@@ -30,6 +30,10 @@
 0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.3/dynamic-ext-android-0.2.3.jar returned status 404
 0.2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.30/dynamic-ext-android-0.2.30.jar returned status 404
 0.2.32		2026-05-25T06:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.32/dynamic-ext-android-0.2.32.jar returned status 404
+0.2.33		2026-06-01T04:01:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.33/dynamic-ext-android-0.2.33.jar returned status 404
+0.2.34		2026-06-04T09:15:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.34/dynamic-ext-android-0.2.34.jar returned status 404
+0.2.35		2026-06-04T11:46:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.35/dynamic-ext-android-0.2.35.jar returned status 404
+0.2.36		2026-06-09T09:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.36/dynamic-ext-android-0.2.36.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.4/dynamic-ext-android-0.2.4.jar returned status 404
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.5/dynamic-ext-android-0.2.5.jar returned status 404
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-ext-android/0.2.6/dynamic-ext-android-0.2.6.jar returned status 404

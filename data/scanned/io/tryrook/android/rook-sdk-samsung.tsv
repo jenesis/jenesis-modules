@@ -8,3 +8,4 @@
 1.1.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tryrook/android/rook-sdk-samsung/1.1.0-alpha05/rook-sdk-samsung-1.1.0-alpha05.jar returned status 404
 1.1.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tryrook/android/rook-sdk-samsung/1.1.0-alpha06/rook-sdk-samsung-1.1.0-alpha06.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tryrook/android/rook-sdk-samsung/4.0.0/rook-sdk-samsung-4.0.0.jar returned status 404
+4.1.0-alpha01		2026-06-02T23:37:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tryrook/android/rook-sdk-samsung/4.1.0-alpha01/rook-sdk-samsung-4.1.0-alpha01.jar returned status 404

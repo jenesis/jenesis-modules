@@ -77,6 +77,8 @@
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/1.9.0/vcl-1.9.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.0.0/vcl-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.1.0/vcl-2.1.0.jar returned status 404
+2.10.0		2026-06-16T23:56:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.10.0/vcl-2.10.0.jar returned status 404
+2.10.0-rc		2026-06-01T02:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.10.0-rc/vcl-2.10.0-rc.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.2.0/vcl-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.2.1/vcl-2.2.1.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/velocitycareerlabs/vcl/2.3.0/vcl-2.3.0.jar returned status 404
