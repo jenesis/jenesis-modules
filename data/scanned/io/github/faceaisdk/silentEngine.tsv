@@ -18,3 +18,4 @@
 2026.04.23.silent2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/silentEngine/2026.04.23.silent2/silentEngine-2026.04.23.silent2.jar returned status 404
 2026.04.23.silent3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/silentEngine/2026.04.23.silent3/silentEngine-2026.04.23.silent3.jar returned status 404
 2026.04.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/silentEngine/2026.04.24/silentEngine-2026.04.24.jar returned status 404
+2026.06.06		2026-06-06T08:47:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/silentEngine/2026.06.06/silentEngine-2026.06.06.jar returned status 404

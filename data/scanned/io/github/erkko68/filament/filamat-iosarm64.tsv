@@ -16,5 +16,11 @@
 0.1.2-beta01	metadata	2026-05-30T13:54:45Z	
 0.1.2-beta02		2026-05-30T18:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filamat-iosarm64/0.1.2-beta02/filamat-iosarm64-0.1.2-beta02.jar returned status 404
 0.1.2-beta02	metadata	2026-05-30T18:42:29Z	
+0.1.2-beta03		2026-05-31T11:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filamat-iosarm64/0.1.2-beta03/filamat-iosarm64-0.1.2-beta03.jar returned status 404
+0.1.2-beta03	metadata	2026-05-31T11:49:37Z	
+0.1.2-beta04		2026-06-07T10:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filamat-iosarm64/0.1.2-beta04/filamat-iosarm64-0.1.2-beta04.jar returned status 404
+0.1.2-beta04	metadata	2026-06-07T10:41:09Z	
+0.1.2-beta05		2026-06-17T14:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filamat-iosarm64/0.1.2-beta05/filamat-iosarm64-0.1.2-beta05.jar returned status 404
+0.1.2-beta05	metadata	2026-06-17T14:55:34Z	
 v0.1.0-alpha01		2026-05-18T20:39:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filamat-iosarm64/v0.1.0-alpha01/filamat-iosarm64-v0.1.0-alpha01.jar returned status 404
 v0.1.0-alpha01	metadata	2026-05-18T20:39:43Z	

@@ -15,3 +15,4 @@
 5.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezviz-open/ezviz-sdk/5.28.1/ezviz-sdk-5.28.1.jar returned status 404
 5.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezviz-open/ezviz-sdk/5.28.2/ezviz-sdk-5.28.2.jar returned status 404
 5.28.3		2026-05-27T06:18:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezviz-open/ezviz-sdk/5.28.3/ezviz-sdk-5.28.3.jar returned status 404
+5.28.4		2026-06-10T03:51:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezviz-open/ezviz-sdk/5.28.4/ezviz-sdk-5.28.4.jar returned status 404

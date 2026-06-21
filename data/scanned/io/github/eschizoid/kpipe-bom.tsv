@@ -9,4 +9,6 @@
 1.14.0		2026-05-20T16:57:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.14.0/kpipe-bom-1.14.0.jar returned status 404
 1.14.1		2026-05-26T22:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.14.1/kpipe-bom-1.14.1.jar returned status 404
 1.15.0		2026-05-29T17:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.15.0/kpipe-bom-1.15.0.jar returned status 404
+1.15.1		2026-06-02T02:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.15.1/kpipe-bom-1.15.1.jar returned status 404
+1.16.0		2026-06-08T02:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.16.0/kpipe-bom-1.16.0.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eschizoid/kpipe-bom/1.9.0/kpipe-bom-1.9.0.jar returned status 404

@@ -2,6 +2,10 @@
 0.0.1	metadata	2026-03-09T00:48:59Z	
 0.0.1-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-tvossimulatorarm64/0.0.1-alpha01/spike-tvossimulatorarm64-0.0.1-alpha01.jar returned status 404
 0.0.1-alpha01	metadata	2026-03-06T21:20:51Z	
+0.0.10		2026-06-02T08:22:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-tvossimulatorarm64/0.0.10/spike-tvossimulatorarm64-0.0.10.jar returned status 404
+0.0.10	metadata	2026-06-02T08:22:53Z	
+0.0.11		2026-06-08T01:20:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-tvossimulatorarm64/0.0.11/spike-tvossimulatorarm64-0.0.11.jar returned status 404
+0.0.11	metadata	2026-06-08T01:20:19Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-tvossimulatorarm64/0.0.2/spike-tvossimulatorarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2026-04-19T10:56:40Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/diareuse/spike-tvossimulatorarm64/0.0.3/spike-tvossimulatorarm64-0.0.3.jar returned status 404

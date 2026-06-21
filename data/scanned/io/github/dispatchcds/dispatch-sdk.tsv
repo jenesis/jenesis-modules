@@ -1,0 +1,2 @@
+0.1.0		2026-06-10T19:02:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dispatchcds/dispatch-sdk/0.1.0/dispatch-sdk-0.1.0.jar returned status 404
+0.1.1		2026-06-18T08:46:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dispatchcds/dispatch-sdk/0.1.1/dispatch-sdk-0.1.1.jar returned status 404
