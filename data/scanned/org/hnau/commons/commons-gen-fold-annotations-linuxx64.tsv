@@ -1,0 +1,3 @@
+1.22.9		2026-06-10T21:50:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hnau/commons/commons-gen-fold-annotations-linuxx64/1.22.9/commons-gen-fold-annotations-linuxx64-1.22.9.jar returned status 404
+1.23.2		2026-06-11T06:52:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hnau/commons/commons-gen-fold-annotations-linuxx64/1.23.2/commons-gen-fold-annotations-linuxx64-1.23.2.jar returned status 404
+1.23.4		2026-06-12T22:40:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hnau/commons/commons-gen-fold-annotations-linuxx64/1.23.4/commons-gen-fold-annotations-linuxx64-1.23.4.jar returned status 404
