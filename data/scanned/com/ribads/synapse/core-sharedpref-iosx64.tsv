@@ -28,6 +28,8 @@
 0.0.25-alpha1	metadata	2026-04-24T08:34:42Z	
 0.0.26-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-sharedpref-iosx64/0.0.26-alpha1/core-sharedpref-iosx64-0.0.26-alpha1.jar returned status 404
 0.0.26-alpha1	metadata	2026-05-04T13:25:50Z	
+0.0.27-alpha1		2026-06-02T23:42:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-sharedpref-iosx64/0.0.27-alpha1/core-sharedpref-iosx64-0.0.27-alpha1.jar returned status 404
+0.0.27-alpha1	metadata	2026-06-02T23:42:15Z	
 0.0.8-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-sharedpref-iosx64/0.0.8-alpha1/core-sharedpref-iosx64-0.0.8-alpha1.jar returned status 404
 0.0.8-alpha1	metadata	2025-12-24T11:14:48Z	
 0.0.9-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-sharedpref-iosx64/0.0.9-alpha1/core-sharedpref-iosx64-0.0.9-alpha1.jar returned status 404

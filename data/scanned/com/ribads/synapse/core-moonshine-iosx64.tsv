@@ -14,3 +14,5 @@
 0.0.25-alpha1	metadata	2026-04-24T08:34:15Z	
 0.0.26-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-moonshine-iosx64/0.0.26-alpha1/core-moonshine-iosx64-0.0.26-alpha1.jar returned status 404
 0.0.26-alpha1	metadata	2026-05-04T13:25:08Z	
+0.0.27-alpha1		2026-06-02T23:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-moonshine-iosx64/0.0.27-alpha1/core-moonshine-iosx64-0.0.27-alpha1.jar returned status 404
+0.0.27-alpha1	metadata	2026-06-02T23:41:43Z	

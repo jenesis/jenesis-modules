@@ -10,6 +10,14 @@
 0.14	metadata	2026-05-12T12:49:13Z	
 0.15		2026-05-21T20:50:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.15/skorm-core-watchosx64-0.15.jar returned status 404
 0.15	metadata	2026-05-21T20:50:50Z	
+0.16		2026-06-06T11:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.16/skorm-core-watchosx64-0.16.jar returned status 404
+0.16	metadata	2026-06-06T11:20:16Z	
+0.17		2026-06-09T14:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.17/skorm-core-watchosx64-0.17.jar returned status 404
+0.17	metadata	2026-06-09T14:26:52Z	
+0.18		2026-06-09T21:15:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.18/skorm-core-watchosx64-0.18.jar returned status 404
+0.18	metadata	2026-06-09T21:15:33Z	
+0.19		2026-06-11T10:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.19/skorm-core-watchosx64-0.19.jar returned status 404
+0.19	metadata	2026-06-11T10:15:25Z	
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.4/skorm-core-watchosx64-0.4.jar returned status 404
 0.4	metadata	2025-07-08T01:11:38Z	
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-core-watchosx64/0.5/skorm-core-watchosx64-0.5.jar returned status 404

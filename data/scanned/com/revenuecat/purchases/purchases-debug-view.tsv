@@ -4,6 +4,7 @@
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.1.0/purchases-debug-view-10.1.0.jar returned status 404
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.1.1/purchases-debug-view-10.1.1.jar returned status 404
 10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.1.2/purchases-debug-view-10.1.2.jar returned status 404
+10.10.0		2026-06-16T11:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.10.0/purchases-debug-view-10.10.0.jar returned status 404
 10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.2.0/purchases-debug-view-10.2.0.jar returned status 404
 10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.2.1/purchases-debug-view-10.2.1.jar returned status 404
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.3.0/purchases-debug-view-10.3.0.jar returned status 404
@@ -13,6 +14,9 @@
 10.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.6.0/purchases-debug-view-10.6.0.jar returned status 404
 10.6.1		2026-05-20T21:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.6.1/purchases-debug-view-10.6.1.jar returned status 404
 10.7.0		2026-05-27T17:49:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.7.0/purchases-debug-view-10.7.0.jar returned status 404
+10.8.0		2026-06-04T05:31:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.8.0/purchases-debug-view-10.8.0.jar returned status 404
+10.9.0		2026-06-11T05:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.9.0/purchases-debug-view-10.9.0.jar returned status 404
+10.9.1		2026-06-12T08:21:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/10.9.1/purchases-debug-view-10.9.1.jar returned status 404
 6.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/6.9.2/purchases-debug-view-6.9.2.jar returned status 404
 6.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/6.9.3/purchases-debug-view-6.9.3.jar returned status 404
 6.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases-debug-view/6.9.4/purchases-debug-view-6.9.4.jar returned status 404

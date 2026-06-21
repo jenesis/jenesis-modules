@@ -158,6 +158,10 @@
 12.35.0.RELEASE	plain	2026-05-13T12:04:11Z	
 12.36.0.RELEASE		2026-05-20T10:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/external-event/12.36.0.RELEASE/external-event-12.36.0.RELEASE.jar returned status 404
 12.36.0.RELEASE	plain	2026-05-20T10:01:24Z	
+12.37.0.RELEASE		2026-06-10T18:05:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/external-event/12.37.0.RELEASE/external-event-12.37.0.RELEASE.jar returned status 404
+12.37.0.RELEASE	plain	2026-06-10T18:05:27Z	
+12.38.0.RELEASE		2026-06-17T10:10:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/external-event/12.38.0.RELEASE/external-event-12.38.0.RELEASE.jar returned status 404
+12.38.0.RELEASE	plain	2026-06-17T10:10:12Z	
 12.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/external-event/12.4.0.RELEASE/external-event-12.4.0.RELEASE.jar returned status 404
 12.4.0.RELEASE	plain	2024-10-09T19:28:13Z	
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/external-event/12.4.1.RELEASE/external-event-12.4.1.RELEASE.jar returned status 404

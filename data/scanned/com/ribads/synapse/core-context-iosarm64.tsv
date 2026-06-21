@@ -18,3 +18,9 @@
 0.0.25-alpha1	metadata	2026-04-24T08:34:12Z	
 0.0.26-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-context-iosarm64/0.0.26-alpha1/core-context-iosarm64-0.0.26-alpha1.jar returned status 404
 0.0.26-alpha1	metadata	2026-05-04T13:25:54Z	
+0.0.27-alpha1		2026-06-02T23:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-context-iosarm64/0.0.27-alpha1/core-context-iosarm64-0.0.27-alpha1.jar returned status 404
+0.0.27-alpha1	metadata	2026-06-02T23:40:28Z	
+0.0.28-alpha1		2026-06-07T17:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-context-iosarm64/0.0.28-alpha1/core-context-iosarm64-0.0.28-alpha1.jar returned status 404
+0.0.28-alpha1	metadata	2026-06-07T17:03:51Z	
+0.0.29-alpha1		2026-06-10T09:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/core-context-iosarm64/0.0.29-alpha1/core-context-iosarm64-0.0.29-alpha1.jar returned status 404
+0.0.29-alpha1	metadata	2026-06-10T09:28:57Z	
