@@ -31,6 +31,7 @@
 1.2.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.19/tracker-top100-sdk-1.2.19.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.2/tracker-top100-sdk-1.2.2.jar returned status 404
 1.2.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.20/tracker-top100-sdk-1.2.20.jar returned status 404
+1.2.21		2026-06-05T12:48:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.21/tracker-top100-sdk-1.2.21.jar returned status 404
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.3/tracker-top100-sdk-1.2.3.jar returned status 404
 1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.4/tracker-top100-sdk-1.2.4.jar returned status 404
 1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/top-100-writer/tracker-top100-sdk/1.2.5/tracker-top100-sdk-1.2.5.jar returned status 404

@@ -1,2 +1,4 @@
+3.8.0		2026-06-05T11:47:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/payment-engine-zvt/3.8.0/payment-engine-zvt-3.8.0.jar returned status 404
+3.8.1		2026-06-09T11:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/payment-engine-zvt/3.8.1/payment-engine-zvt-3.8.1.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/payment-engine-zvt/4.0.1/payment-engine-zvt-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/payment-engine-zvt/4.0.2/payment-engine-zvt-4.0.2.jar returned status 404
