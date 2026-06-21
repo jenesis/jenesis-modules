@@ -1,0 +1,6 @@
+0.2.3		2026-06-08T18:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/0.2.3/bugdna-parent-0.2.3.jar returned status 404
+0.2.4		2026-06-11T21:00:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/0.2.4/bugdna-parent-0.2.4.jar returned status 404
+1.0.0		2026-06-12T16:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/1.0.0/bugdna-parent-1.0.0.jar returned status 404
+1.0.1		2026-06-12T17:14:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/1.0.1/bugdna-parent-1.0.1.jar returned status 404
+1.1.1		2026-06-17T21:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/1.1.1/bugdna-parent-1.1.1.jar returned status 404
+1.1.2		2026-06-18T08:18:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arnabnandy7/bugdna-parent/1.1.2/bugdna-parent-1.1.2.jar returned status 404

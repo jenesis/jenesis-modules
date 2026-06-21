@@ -1,3 +1,4 @@
 0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aryapreetam/cmp-webview-wasm-js/0.0.1/cmp-webview-wasm-js-0.0.1.jar returned status 404
 0.0.2		2026-05-30T15:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aryapreetam/cmp-webview-wasm-js/0.0.2/cmp-webview-wasm-js-0.0.2.jar returned status 404
 0.0.3		2026-05-30T19:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aryapreetam/cmp-webview-wasm-js/0.0.3/cmp-webview-wasm-js-0.0.3.jar returned status 404
+0.0.4		2026-06-13T13:01:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aryapreetam/cmp-webview-wasm-js/0.0.4/cmp-webview-wasm-js-0.0.4.jar returned status 404

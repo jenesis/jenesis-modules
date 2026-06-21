@@ -23,3 +23,8 @@
 2.4.1	automatic	io.github.arun0009	idempotent-nats	2026-04-11T21:03:21Z	
 2.4.1	automatic	io.github.arun0009	idempotent-rds	2026-04-11T21:03:21Z	
 2.4.1	automatic	io.github.arun0009	idempotent-redis	2026-04-11T21:03:21Z	
+3.0.0	automatic	io.github.arun0009	idempotent-core	2026-06-02T07:02:21Z	
+3.0.0	automatic	io.github.arun0009	idempotent-dynamo	2026-06-02T07:02:21Z	
+3.0.0	automatic	io.github.arun0009	idempotent-nats	2026-06-02T07:02:21Z	
+3.0.0	automatic	io.github.arun0009	idempotent-rds	2026-06-02T07:02:21Z	
+3.0.0	automatic	io.github.arun0009	idempotent-redis	2026-06-02T07:02:21Z	

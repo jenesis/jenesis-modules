@@ -1,3 +1,4 @@
 0.0.1		2026-05-23T13:58:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/asnaeb/remotedata-android/0.0.1/remotedata-android-0.0.1.jar returned status 404
 0.0.2		2026-05-23T14:27:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/asnaeb/remotedata-android/0.0.2/remotedata-android-0.0.2.jar returned status 404
 0.0.3		2026-05-24T19:48:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/asnaeb/remotedata-android/0.0.3/remotedata-android-0.0.3.jar returned status 404
+0.0.4		2026-05-31T22:27:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/asnaeb/remotedata-android/0.0.4/remotedata-android-0.0.4.jar returned status 404

@@ -4,3 +4,15 @@
 0.3.0	metadata	2026-05-24T09:54:33Z	
 0.3.1		2026-05-24T19:59:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.3.1/supabase-functions-watchossimulatorarm64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-05-24T19:59:27Z	
+0.3.2		2026-06-07T13:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.3.2/supabase-functions-watchossimulatorarm64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-06-07T13:25:14Z	
+0.3.4		2026-06-09T19:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.3.4/supabase-functions-watchossimulatorarm64-0.3.4.jar returned status 404
+0.3.4	metadata	2026-06-09T19:22:35Z	
+0.3.5		2026-06-10T21:19:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.3.5/supabase-functions-watchossimulatorarm64-0.3.5.jar returned status 404
+0.3.5	metadata	2026-06-10T21:19:10Z	
+0.4.0		2026-06-15T20:20:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.4.0/supabase-functions-watchossimulatorarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-06-15T20:20:02Z	
+0.4.1		2026-06-16T18:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.4.1/supabase-functions-watchossimulatorarm64-0.4.1.jar returned status 404
+0.4.1	metadata	2026-06-16T18:33:48Z	
+0.5.0		2026-06-17T21:19:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-functions-watchossimulatorarm64/0.5.0/supabase-functions-watchossimulatorarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-06-17T21:19:53Z	
