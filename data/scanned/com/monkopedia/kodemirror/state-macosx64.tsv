@@ -2,3 +2,11 @@
 0.1.0	metadata	2026-04-03T19:00:28Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/state-macosx64/0.2.0/state-macosx64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-04-10T20:00:41Z	
+0.3.0		2026-06-01T15:40:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/state-macosx64/0.3.0/state-macosx64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-06-01T15:40:54Z	
+0.3.1		2026-06-02T12:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/state-macosx64/0.3.1/state-macosx64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-06-02T12:23:41Z	
+0.3.2		2026-06-02T16:49:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/state-macosx64/0.3.2/state-macosx64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-06-02T16:49:59Z	
+0.3.3		2026-06-04T15:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/state-macosx64/0.3.3/state-macosx64-0.3.3.jar returned status 404
+0.3.3	metadata	2026-06-04T15:50:35Z	
