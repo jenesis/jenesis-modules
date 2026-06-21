@@ -15,5 +15,10 @@
 1.5.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.5.78/sts-linuxarm64-1.5.78.jar returned status 404
 1.5.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.5.79/sts-linuxarm64-1.5.79.jar returned status 404
 1.5.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.5.80/sts-linuxarm64-1.5.80.jar returned status 404
+1.6.103		2026-06-05T19:29:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.103/sts-linuxarm64-1.6.103.jar returned status 404
+1.6.106		2026-06-05T23:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.106/sts-linuxarm64-1.6.106.jar returned status 404
+1.6.111		2026-06-10T15:46:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.111/sts-linuxarm64-1.6.111.jar returned status 404
+1.6.112		2026-06-10T18:01:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.112/sts-linuxarm64-1.6.112.jar returned status 404
+1.6.113		2026-06-10T20:26:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.113/sts-linuxarm64-1.6.113.jar returned status 404
 1.6.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.65/sts-linuxarm64-1.6.65.jar returned status 404
 1.6.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/sts-linuxarm64/1.6.66/sts-linuxarm64-1.6.66.jar returned status 404

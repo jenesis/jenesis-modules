@@ -730,6 +730,7 @@
 4.130.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-03T17:52:52Z	2.0.72.Final
 2.0.78.Final	named	io.netty	netty-tcnative	2026-06-04T05:01:32Z	2.0.78.Final
 2.0.78.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-04T05:01:32Z	2.0.78.Final
+0.15.1	named	com.spotify.confidence	openfeature-provider-local	2026-06-05T13:29:49Z	2.0.72.Final
 4.130.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-05T15:06:40Z	2.0.72.Final
 2.1.3	named	org.apache.flink	flink-gs-fs-hadoop	2026-06-08T04:41:24Z	2.0.75.Final
 1.20.5	named	org.apache.flink	flink-gs-fs-hadoop	2026-06-08T09:12:23Z	2.0.75.Final
@@ -739,3 +740,4 @@
 2.0.79.Final	named	io.netty	netty-tcnative	2026-06-12T07:05:30Z	2.0.79.Final
 2.0.79.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-12T07:05:30Z	2.0.79.Final
 4.129.13	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-15T18:41:44Z	2.0.72.Final
+0.15.2	named	com.spotify.confidence	openfeature-provider-local	2026-06-18T08:46:16Z	2.0.72.Final

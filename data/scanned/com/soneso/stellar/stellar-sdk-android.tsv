@@ -3,3 +3,5 @@
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/soneso/stellar/stellar-sdk-android/1.5.1/stellar-sdk-android-1.5.1.jar returned status 404
 1.6.0		2026-05-20T12:00:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/soneso/stellar/stellar-sdk-android/1.6.0/stellar-sdk-android-1.6.0.jar returned status 404
 1.6.1		2026-05-29T19:37:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/soneso/stellar/stellar-sdk-android/1.6.1/stellar-sdk-android-1.6.1.jar returned status 404
+1.7.0		2026-06-12T21:59:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/soneso/stellar/stellar-sdk-android/1.7.0/stellar-sdk-android-1.7.0.jar returned status 404
+1.7.1		2026-06-13T06:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/soneso/stellar/stellar-sdk-android/1.7.1/stellar-sdk-android-1.7.1.jar returned status 404

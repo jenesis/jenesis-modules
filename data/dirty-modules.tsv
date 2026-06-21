@@ -6423,3 +6423,5 @@ okhttp3.mockwebserver
 okhttp3.logging
 com.sqlapp.graphviz
 com.sqlapp.gradle.plugin
+com.sqlapp.core
+com.sqlapp.command
