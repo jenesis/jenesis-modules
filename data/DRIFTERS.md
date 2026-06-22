@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1766,10 +1766,10 @@ simpletimeapi  [no clear owner; `io.github.fontysvenlo` is earliest and most rec
   ? * io.github.fontysvenlo                2023-08..2025-10 1.0.0                |.............======.|
   ?   io.github.fontysvenlo.alda           2023-09..2023-09 2.5                  |.............=......|
 aerogel  [no clear owner; `io.github.derklaro` is earliest and most recent]
-  ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........==.........|
+  ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........=..........|
   ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................===.|
 aerogel.auto  [no clear owner; `io.github.derklaro` is earliest and most recent]
-  ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........==.........|
+  ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........=..........|
   ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................===.|
 hla.rti1516e  [no clear owner; `io.github.tno-mst` is earliest and most recent]
   ? * io.github.tno-mst                    2025-07..2025-07 0.0.1                |.................=..|
