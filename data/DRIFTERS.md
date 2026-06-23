@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -36,7 +36,7 @@ com.google.gson  [explicit rule: owned by `com.google.code.gson`; 531 other grou
   R   io.quarkus                           2024-07..2026-06 3.37.0               |...............=====|
   R   com.linkedin.iceberg                 2025-11..2026-06 1.5.2.15             |..................==|
   R   io.jooby                             2022-04..2026-06 3.11.9               |...........=========|
-  R   network.lightsail                    2024-03..2026-06 4.0.0-beta0          |...............=====|
+  R   network.lightsail                    2024-03..2026-06 4.0.0-beta0          |..............======|
     + 526 more: com.uber.nullaway, org.sonarsource.java, win.dailypickle.report, org.springframework.cloud, com.ascentstream.pulsar, org.openjproxy, com.eed3si9n.remoteapis.shaded, org.apache.flink, org.apache.spark, com.tencent.tdsql, io.github.cobble-project, org.apache.pulsar, (+514 more)
 kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 241 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10               |....==========......|
@@ -1124,12 +1124,12 @@ org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most 
     + 77 more: cn.ctyun, com.liquibase.ext.vaults, io.gitlab.cupofcode, com.alibaba.ververica, ai.platon.gora, org.operaton.bpm.extension, org.apache.tika, com.suprsend, io.github.rsv-code, com.gitee.melin, org.apache.druid.extensions.contrib, org.wso2.orbit.org.opensaml, (+65 more)
 VirtualizedFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
   ? * io.github.palexdev                   2022-03..2026-06 25.2.1               |..........==========|
-  ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6               |...........=........|
+  ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6               |..........=.........|
 org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent]
   ? * commons-io                           2017-10..2021-07 2.11.0               |.=========..........|
   ?   no.entur                             2024-03..2026-06 1.122.0              |..............======|
   ?   org.apache.flink                     2024-06..2026-06 1.20.5               |...............=====|
-  ?   io.boxlang                           2024-09..2026-06 1.14.0               |................====|
+  ?   io.boxlang                           2024-09..2026-06 1.14.0               |...............=====|
   ?   org.apache.distributedlog            2025-06..2026-06 4.18.0               |.................===|
   ?   org.apache.dolphinscheduler          2025-08..2026-05 3.4.2                |.................===|
     + 92 more: org.sonarsource.python, com.github.cafdataprocessing.workers.languagedetection, org.teavm, org.apache.hudi, org.apache.tika, io.github.zgrge, io.prophecy, org.bidib.jbidib, com.ascentstream.distributedlog, com.networknt, com.io7m.calino, org.apache.jackrabbit, (+80 more)
@@ -1165,7 +1165,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
   ?   org.uma.jmetal                       2025-12..2026-06 7.4                  |..................==|
   ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........==========|
   ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........==========|
-  ?   org.hpccsystems                      2022-02..2026-03 9.12.94-1            |..........==========|
+  ?   org.hpccsystems                      2022-02..2026-03 9.12.94-1            |..........=========.|
   ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |.................==.|
     + 17 more: com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, com.checkmarx, com.github.spoonlabs, (+5 more)
 org.apache.commons.dbcp2  [no clear owner; `org.apache.tomee` is earliest and most recent]
@@ -1340,7 +1340,7 @@ lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ? * org.projectlombok                    2018-05..2026-04 1.18.46              |...=================|
   ?   io.mosip.esignet.plugin.sunbirdrc    2025-02..2026-05 1.4.0                |................====|
   ?   org.eclipse.hawkbit                  2026-03..2026-04 1.0.3                |...................=|
-  ?   io.inji.certify.sunbirdrc            2026-03..2026-03 0.6.0                |...................=|
+  ?   io.inji.certify.sunbirdrc            2026-03..2026-03 0.6.0                |..................=.|
   ?   dev.alllexey                         2025-10..2026-03 1.5.0                |..................=.|
   ?   net.polyv                            2020-09..2026-03 2.2.8                |.......============.|
     + 97 more: com.scanoss, com.huaweicloud.dws, net.wirelabs, cn.fyupeng, io.github.alllexey123, io.mosip.esignet.sunbirdrc, io.mosip.certify.sunbirdrc, io.github.opentelekomcloud, io.github.version-pulse, org.qubership.automation, io.github.devlibx.easy, org.sentrysoftware, (+85 more)
@@ -1454,7 +1454,7 @@ commons  [no clear owner; `com.github.srujankujmar` is earliest and most recent]
   ?   io.github.rassafel                   2025-07..2026-04 0.0.4                |.................===|
   ?   io.hyscale                           2020-12..2021-08 1.0.0                |........==..........|
 com.example.www  [no clear owner; `io.github.zahran444` is earliest and most recent]
-  ? * io.github.zahran444                  2025-06..2026-03 3.0.7                |.................===|
+  ? * io.github.zahran444                  2025-06..2026-03 3.0.7                |.................==.|
   ?   io.sdks                              2026-03..2026-03 0.0.1                |...................=|
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
