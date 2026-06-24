@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-24. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -42,7 +42,7 @@ kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 241 other g
   A * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10               |....==========......|
   R   com.squareup                         2022-11..2026-06 0.19.0               |............========|
   R   com.google.genai                     2026-04..2026-06 1.59.0               |...................=|
-  R   com.aliyun.odps                      2026-03..2026-06 3.10.8               |...................=|
+  R   com.aliyun.odps                      2026-03..2026-06 3.10.8               |..................==|
   R   com.commercetools.rmf                2021-10..2026-06 1.0.0-20260608125910 |..........==========|
   R   com.aliyun                           2026-01..2026-06 3.13.3               |..................==|
     + 236 more: org.apache.hudi, com.spectralogic.ds3, me.bechberger, com.newrelic.agent.android, org.octopusden.octopus.jira, com.sportradar.unifiedodds.sdk, org.apache.dolphinscheduler, com.airbnb.viaduct, com.airbnb.viaduct.javaapi, net.corda, ai.realitydefender, com.gitee.melin.huaweicloud, (+224 more)
@@ -56,7 +56,7 @@ com.google.common  [explicit rule: owned by `com.google.guava`; 71 other group(s
     + 66 more: com.hubspot, io.javelit, com.alibaba.ververica, org.apache.hbase, io.github.davidwhitlock.joy.original, io.orkes.conductor, org.conductoross, org.jboss.shrinkwrap.resolver, org.talend.sdk.component.sample.feature, org.apache.jackrabbit, net.sourceforge.plantuml, de.m3y.prometheus.exporter.fsimage, (+54 more)
 kotlin.stdlib  [explicit rule: owned by `org.jetbrains.kotlin`; 222 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10               |....==========......|
-  R   com.aliyun.odps                      2026-03..2026-06 0.57.3-public        |...................=|
+  R   com.aliyun.odps                      2026-03..2026-06 0.57.3-public        |..................==|
   R   fi.evident.apina                     2023-08..2026-06 0.29.0               |.............=======|
   R   love.forte.plugin.suspend-transform  2024-09..2026-06 2.4.0-0.14.0         |...............=====|
   R   de.darkatra.injector                 2025-03..2026-06 1.0.28               |................====|
@@ -468,7 +468,7 @@ io.netty.transport  [fork: keep `io.netty`, `io.github.qbsstg` still publishes t
   ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
   R   com.arcadedb                         2025-04..2026-06 26.6.1               |.................===|
   R   io.github.lukaszsamson               2026-04..2026-04 0.1.0                |...................=|
-  R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................==|
+  R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
   R   io.karatelabs                        2025-10..2025-11 1.5.2                |..................=.|
 org.tukaani.xz  [fork: keep `org.tukaani`, `io.github.peterdowdy` still publishes the name]
   A * org.tukaani                          2018-01..2026-03 1.12                 |..=================.|
@@ -807,7 +807,7 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [owned by `io.netty`; 10 other 
   ?   io.camunda.connector                 2026-06..2026-06 8.7.21               |...................=|
   R   io.smallrye                          2026-04..2026-04 0.1.4                |...................=|
   R   org.apache.iotdb                     2026-04..2026-04 2.0.8                |...................=|
-  R   io.zipkin.dependencies               2026-03..2026-03 3.2.2                |...................=|
+  R   io.zipkin.dependencies               2026-03..2026-03 3.2.2                |..................=.|
     + 5 more: com.danielflower.apprunner, io.karatelabs, io.opentelemetry.javaagent, com.github.emc-mongoose, io.servicetalk
 io.netty.tcnative.classes.openssl  [owned by `io.netty`; 4 other group(s) shade the name]
   A * io.netty                             2022-03..2026-06 2.0.79.Final         |..........==========|
@@ -1258,7 +1258,7 @@ org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest a
   ? * com.jwebmp.jre11                     2018-12..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
   ?   org.wiremock                         2025-06..2026-04 4.0.0-beta.32        |.................===|
-  ?   org.openidentityplatform.openam.agents 2025-11..2026-03 5.0.3                |..................==|
+  ?   org.openidentityplatform.openam.agents 2025-11..2026-03 5.0.3                |..................=.|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
   ?   com.jwebmp.jpms.commons              2019-04..2019-08 0.68.0.1             |....==..............|
     + 1 more: com.jwebmp
@@ -1298,7 +1298,7 @@ java.json  [no clear owner; `javax.json` is earliest and most recent]
 java.ws.rs  [no clear owner; `javax.ws.rs` is earliest and most recent]
   ? * javax.ws.rs                          2017-06..2018-08 2.1.1                |.===................|
   ?   org.jboss.pnc.build-agent            2021-07..2026-05 1.2.3                |.........===========|
-  ?   org.apache.hadoop                    2026-03..2026-03 3.5.0                |...................=|
+  ?   org.apache.hadoop                    2026-03..2026-03 3.5.0                |..................=.|
   ?   net.oneandone.ioc-unit               2021-09..2025-11 2.0.51               |.........==========.|
   ?   com.scylladb                         2025-06..2025-09 1.2.6                |.................=..|
   ?   org.opencb.opencga                   2024-03..2025-08 3.6.0                |..............====..|
