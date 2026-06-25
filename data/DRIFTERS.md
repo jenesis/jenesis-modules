@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-24. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1084,7 +1084,7 @@ tuweni.app_commons  [owned by `org.apache.tuweni` (groupId minus two segments is
   ?   io.tmio                              2023-05..2023-07 2.4.2                |.............=......|
 cactus.maven.xml  [owned by `com.telenav.cactus` (groupId minus two segments is the module prefix); 0 other group(s) shade the name]
   ? * com.telenav.cactus                   2022-06..2022-11 1.5.49               |...........==.......|
-  ?   com.telenav.lexakai                  2022-09..2022-10 1.0.13               |...........==.......|
+  ?   com.telenav.lexakai                  2022-09..2022-10 1.0.13               |...........=........|
 telegram4j.tl.api  [owned by `io.github.telegram4j` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * io.github.telegram4j                 2022-02..2022-02 0.1.0                |..........=.........|
   ?   com.telegram4j                       2022-09..2022-09 0.1.1                |...........=........|
@@ -1166,7 +1166,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
   ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........==========|
   ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........==========|
   ?   org.hpccsystems                      2022-02..2026-03 9.12.94-1            |..........=========.|
-  ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |.................==.|
+  ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |................===.|
     + 17 more: com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, com.checkmarx, com.github.spoonlabs, (+5 more)
 org.apache.commons.dbcp2  [no clear owner; `org.apache.tomee` is earliest and most recent]
   ? * org.apache.tomee                     2023-12..2026-06 11.0.0-M1            |..............======|
@@ -1413,7 +1413,7 @@ com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and m
   ?   com.syncloop.middleware              2025-01..2025-01 1.7.1                |................=...|
 graphql.java.tools  [no clear owner; `com.graphql-java-kickstart` is earliest and most recent]
   ? * com.graphql-java-kickstart           2023-08..2025-04 14.0.1               |.............=====..|
-  ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |...................=|
+  ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |..................==|
 com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
   ? * io.github.bes2008.solution.langx     2024-01..2026-04 5.4.6.1              |..............======|
   ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |..................=.|
@@ -1458,7 +1458,7 @@ com.example.www  [no clear owner; `io.github.zahran444` is earliest and most rec
   ?   io.sdks                              2026-03..2026-03 0.0.1                |...................=|
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
-  ?   org.tango-controls.atk               2022-06..2026-03 9.4.20               |...........=========|
+  ?   org.tango-controls.atk               2022-06..2026-03 9.4.20               |...........========.|
   ?   org.tango-controls                   2022-10..2025-10 7.46                 |...........========.|
 druid.spring.boot4.starter  [no clear owner; `com.shr25` is earliest and most recent]
   ? * com.shr25                            2026-02..2026-02 1.2.27               |..................=.|
