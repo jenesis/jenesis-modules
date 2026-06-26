@@ -274,6 +274,7 @@
 4.2.15.Final	named	io.netty	netty-codec-http	2026-06-02T05:22:29Z	4.2.15.Final
 4.1.135.Final	automatic	io.netty	netty-codec-http	2026-06-02T19:15:30Z	
 2.2.1	named	com.xuxueli	xxl-rpc-netty-shade	2026-06-13T07:53:29Z	4.2.15.Final
+2.3.0	named	org.apache.flink	flink-s3-fs-native	2026-06-14T15:30:05Z	4.2.6.Final
 2026.24.1	named	com.amazonaws	athena-aws-cmdb	2026-06-18T21:03:33Z	4.2.15.Final
 2026.24.1	named	com.amazonaws	athena-cloudwatch-metrics	2026-06-18T21:03:33Z	4.2.15.Final
 2026.24.1	named	com.amazonaws	athena-mysql	2026-06-18T21:03:33Z	4.2.15.Final

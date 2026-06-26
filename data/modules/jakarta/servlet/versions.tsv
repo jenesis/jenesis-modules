@@ -210,3 +210,4 @@
 6.2.0-M2	named	jakarta.servlet	jakarta.servlet-api	2026-05-18T11:43:27Z	6.2.0-M2
 10.1.55.0	named	com.heroku	webapp-runner	2026-05-28T08:58:37Z	6.0
 10.1.55.0	named	com.heroku	webapp-runner-main	2026-05-28T08:58:37Z	6.0
+11.0.23	named	org.apache.tomcat	tomcat-servlet-api	2026-06-17T22:05:21Z	6.1

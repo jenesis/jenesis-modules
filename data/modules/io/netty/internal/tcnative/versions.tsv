@@ -573,6 +573,8 @@
 0.14.0	named	com.spotify.confidence	openfeature-provider-local	2026-03-25T15:22:00Z	2.0.72.Final
 42.2.0	named	com.google.api-ads	google-ads-shadowjar	2026-03-25T20:30:07Z	2.0.72.Final
 0.14.1	named	com.spotify.confidence	openfeature-provider-local	2026-03-26T10:15:37Z	2.0.72.Final
+1.1.1	named	org.apache.gravitino	gravitino-iceberg-azure-bundle	2026-03-26T12:32:55Z	2.0.70.Final
+1.1.1	named	org.apache.gravitino	gravitino-iceberg-gcp-bundle	2026-03-26T12:34:01Z	2.0.70.Final
 3.6.29	named	dev.getelements.elements	sdk-local	2026-03-26T18:41:14Z	2.0.70.Final
 4.124.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-03-27T11:43:45Z	2.0.72.Final
 3.6.32	named	dev.getelements.elements	sdk-local	2026-03-27T15:15:34Z	2.0.70.Final
@@ -751,6 +753,8 @@
 2.0.79.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-12T07:05:30Z	2.0.79.Final
 7.1.0	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-06-12T11:55:23Z	2.0.74.Final
 9.0.2	named	com.datastax.oss	pulsar-jms-all	2026-06-12T16:39:38Z	2.0.73.Final
+2.3.0	named	org.apache.flink	flink-gs-fs-hadoop	2026-06-14T15:33:02Z	2.0.75.Final
 4.129.13	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-15T18:41:44Z	2.0.72.Final
+2.1.1	named	org.apache.ozone	ozone-filesystem-shaded	2026-06-16T06:08:43Z	2.0.77.Final
 0.15.2	named	com.spotify.confidence	openfeature-provider-local	2026-06-18T08:46:16Z	2.0.72.Final
 4.129.15	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-19T17:07:33Z	2.0.72.Final
