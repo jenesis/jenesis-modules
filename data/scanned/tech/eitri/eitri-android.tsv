@@ -44,3 +44,4 @@
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android/5.1.0/eitri-android-5.1.0.jar returned status 404
 5.2.0		2026-06-02T15:22:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android/5.2.0/eitri-android-5.2.0.jar returned status 404
 5.3.0		2026-06-11T18:15:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android/5.3.0/eitri-android-5.3.0.jar returned status 404
+5.3.1		2026-06-16T14:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android/5.3.1/eitri-android-5.3.1.jar returned status 404
