@@ -1,2 +1,6 @@
 0.1.0		2026-06-01T21:27:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/eknuth/earshot-iosarm64/0.1.0/earshot-iosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-06-01T21:27:42Z	
+0.2.0		2026-06-19T22:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/eknuth/earshot-iosarm64/0.2.0/earshot-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-19T22:31:46Z	
+0.3.0		2026-06-20T02:19:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/eknuth/earshot-iosarm64/0.3.0/earshot-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-06-20T02:19:47Z	

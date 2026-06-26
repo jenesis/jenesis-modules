@@ -7,3 +7,4 @@
 21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schroenser/parent-pom/21/parent-pom-21.jar returned status 404
 22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schroenser/parent-pom/22/parent-pom-22.jar returned status 404
 23		2026-05-29T05:47:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schroenser/parent-pom/23/parent-pom-23.jar returned status 404
+24		2026-06-19T13:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/schroenser/parent-pom/24/parent-pom-24.jar returned status 404

@@ -1310,3 +1310,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 1.50.0	named	io.openlineage	openlineage-flink	2026-06-18T14:16:56Z	3.18.0
 1.50.0	named	io.openlineage	openlineage-spark_2.12	2026-06-18T14:52:12Z	3.18.0
 1.50.0	named	io.openlineage	openlineage-spark_2.13	2026-06-18T14:55:43Z	3.18.0
+0.1.8	named	de.grobmeier.json	jjson	2026-06-23T12:27:52Z	3.20.0

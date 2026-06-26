@@ -4,3 +4,5 @@
 2.1.0	metadata	2026-06-03T19:09:07Z	
 2.2.0		2026-06-08T04:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-motion-iosx64/2.2.0/grant-motion-iosx64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-06-08T04:06:55Z	
+2.2.1		2026-06-23T09:48:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-motion-iosx64/2.2.1/grant-motion-iosx64-2.2.1.jar returned status 404
+2.2.1	metadata	2026-06-23T09:48:19Z	
