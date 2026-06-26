@@ -7,3 +7,4 @@
 1.0.6		2026-06-11T04:57:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/nexax/harbor-sdk/1.0.6/harbor-sdk-1.0.6.jar returned status 404
 1.0.7		2026-06-18T10:09:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/nexax/harbor-sdk/1.0.7/harbor-sdk-1.0.7.jar returned status 404
 1.0.8		2026-06-18T11:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/nexax/harbor-sdk/1.0.8/harbor-sdk-1.0.8.jar returned status 404
+1.0.9		2026-06-19T04:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/nexax/harbor-sdk/1.0.9/harbor-sdk-1.0.9.jar returned status 404

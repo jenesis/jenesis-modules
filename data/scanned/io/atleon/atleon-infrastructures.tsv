@@ -13,3 +13,4 @@
 0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-infrastructures/0.41.0/atleon-infrastructures-0.41.0.jar returned status 404
 0.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-infrastructures/0.41.1/atleon-infrastructures-0.41.1.jar returned status 404
 0.42.0		2026-05-20T12:44:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-infrastructures/0.42.0/atleon-infrastructures-0.42.0.jar returned status 404
+0.43.0		2026-06-22T18:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-infrastructures/0.43.0/atleon-infrastructures-0.43.0.jar returned status 404

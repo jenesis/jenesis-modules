@@ -7,3 +7,5 @@
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/androidplay/pollingengine-android/0.1.4/pollingengine-android-0.1.4.jar returned status 404
 0.1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/androidplay/pollingengine-android/0.1.4.1/pollingengine-android-0.1.4.1.jar returned status 404
 0.1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/androidplay/pollingengine-android/0.1.4.2/pollingengine-android-0.1.4.2.jar returned status 404
+1.0.1		2026-06-19T15:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/androidplay/pollingengine-android/1.0.1/pollingengine-android-1.0.1.jar returned status 404
+1.0.2		2026-06-19T16:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/androidplay/pollingengine-android/1.0.2/pollingengine-android-1.0.2.jar returned status 404
