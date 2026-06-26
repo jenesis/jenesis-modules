@@ -5171,5 +5171,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 2.0.5	named	io.orqueio.bpm	orqueio-engine-rest	2026-06-18T16:45:08Z	2.15.2
 8.709.19	named	com.yahoo.vespa	config-application-package	2026-06-18T17:35:04Z	2.21
 1.0.10	named	io.orqueio.bpm	orqueio-engine-rest	2026-06-19T08:46:17Z	2.15.2
+11.3.1-beta-9	named	fr.inria.gforge.spoon	spoon-core	2026-06-21T05:10:42Z	2.22
+11.4.0	named	fr.inria.gforge.spoon	spoon-core	2026-06-21T11:11:59Z	2.22
 3.0.4	named	io.github.techelliiptica	merv-client-api	2026-06-22T15:54:52Z	2.15.2
 3.6.0.CR1	named	io.debezium	debezium-connector-cassandra-5	2026-06-23T11:47:14Z	2.21

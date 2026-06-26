@@ -59,3 +59,4 @@
 0.15.8		2026-06-15T16:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-ambient-connector/0.15.8/data-ambient-connector-0.15.8.jar returned status 404
 0.15.9		2026-06-15T21:55:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-ambient-connector/0.15.9/data-ambient-connector-0.15.9.jar returned status 404
 0.16.0		2026-06-18T09:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-ambient-connector/0.16.0/data-ambient-connector-0.16.0.jar returned status 404
+0.16.1		2026-06-22T12:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/data-ambient-connector/0.16.1/data-ambient-connector-0.16.1.jar returned status 404

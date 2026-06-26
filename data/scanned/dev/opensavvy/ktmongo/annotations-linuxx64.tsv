@@ -22,3 +22,4 @@
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/ktmongo/annotations-linuxx64/0.29.0/annotations-linuxx64-0.29.0.jar returned status 404
 0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/ktmongo/annotations-linuxx64/0.29.1/annotations-linuxx64-0.29.1.jar returned status 404
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/ktmongo/annotations-linuxx64/0.30.0/annotations-linuxx64-0.30.0.jar returned status 404
+0.31.0		2026-06-21T16:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/ktmongo/annotations-linuxx64/0.31.0/annotations-linuxx64-0.31.0.jar returned status 404

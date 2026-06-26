@@ -37,7 +37,11 @@
 3.6.13		2026-06-17T13:37:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.13/html-to-markdown-android-3.6.13.jar returned status 404
 3.6.14		2026-06-18T11:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.14/html-to-markdown-android-3.6.14.jar returned status 404
 3.6.15		2026-06-18T19:39:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.15/html-to-markdown-android-3.6.15.jar returned status 404
+3.6.18		2026-06-20T08:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.18/html-to-markdown-android-3.6.18.jar returned status 404
+3.6.19		2026-06-20T17:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.19/html-to-markdown-android-3.6.19.jar returned status 404
 3.6.2		2026-06-13T14:29:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.2/html-to-markdown-android-3.6.2.jar returned status 404
+3.6.20		2026-06-21T21:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.20/html-to-markdown-android-3.6.20.jar returned status 404
+3.6.21		2026-06-22T11:20:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.21/html-to-markdown-android-3.6.21.jar returned status 404
 3.6.3		2026-06-14T06:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.3/html-to-markdown-android-3.6.3.jar returned status 404
 3.6.4		2026-06-14T14:35:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.4/html-to-markdown-android-3.6.4.jar returned status 404
 3.6.5		2026-06-14T18:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.5/html-to-markdown-android-3.6.5.jar returned status 404
@@ -45,3 +49,6 @@
 3.6.7		2026-06-15T07:10:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.7/html-to-markdown-android-3.6.7.jar returned status 404
 3.6.8		2026-06-15T20:34:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.8/html-to-markdown-android-3.6.8.jar returned status 404
 3.6.9		2026-06-15T21:26:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.6.9/html-to-markdown-android-3.6.9.jar returned status 404
+3.7.0		2026-06-22T17:55:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.7.0/html-to-markdown-android-3.7.0.jar returned status 404
+3.7.1		2026-06-23T06:49:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.7.1/html-to-markdown-android-3.7.1.jar returned status 404
+3.7.2		2026-06-23T11:15:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kreuzberg/html-to-markdown-android/3.7.2/html-to-markdown-android-3.7.2.jar returned status 404

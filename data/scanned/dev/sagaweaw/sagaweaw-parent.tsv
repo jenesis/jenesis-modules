@@ -4,6 +4,7 @@
 1.0.11		2026-06-02T19:23:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.11/sagaweaw-parent-1.0.11.jar returned status 404
 1.0.12		2026-06-04T15:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.12/sagaweaw-parent-1.0.12.jar returned status 404
 1.0.13		2026-06-16T00:13:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.13/sagaweaw-parent-1.0.13.jar returned status 404
+1.0.14		2026-06-23T03:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.14/sagaweaw-parent-1.0.14.jar returned status 404
 1.0.2		2026-05-23T17:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.2/sagaweaw-parent-1.0.2.jar returned status 404
 1.0.3		2026-05-25T14:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.3/sagaweaw-parent-1.0.3.jar returned status 404
 1.0.4		2026-05-25T15:03:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sagaweaw/sagaweaw-parent/1.0.4/sagaweaw-parent-1.0.4.jar returned status 404

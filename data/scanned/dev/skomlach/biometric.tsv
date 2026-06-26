@@ -269,3 +269,4 @@
 2.4.rc-27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/biometric/2.4.rc-27/biometric-2.4.rc-27.jar returned status 404
 2.4.rc-28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/biometric/2.4.rc-28/biometric-2.4.rc-28.jar returned status 404
 2.4.rc-29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/biometric/2.4.rc-29/biometric-2.4.rc-29.jar returned status 404
+2.4.rc-30		2026-06-22T06:14:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/biometric/2.4.rc-30/biometric-2.4.rc-30.jar returned status 404
