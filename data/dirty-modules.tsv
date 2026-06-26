@@ -2391,3 +2391,7 @@ com.tigerbeetle
 okhttp3
 com.sqlapp.graphviz
 com.sqlapp.gradle.plugin
+com.sqlapp.core
+com.sqlapp.command
+tools.jackson.databind
+com.google.errorprone.annotations

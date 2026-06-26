@@ -14,4 +14,6 @@
 4.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.14.1/impl-4.14.1.jar returned status 404
 4.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.14.2/impl-4.14.2.jar returned status 404
 4.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.14.3/impl-4.14.3.jar returned status 404
+4.14.4		2026-06-19T19:54:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.14.4/impl-4.14.4.jar returned status 404
+4.14.5		2026-06-22T18:22:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.14.5/impl-4.14.5.jar returned status 404
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/internal/core/data/impl/4.9.0/impl-4.9.0.jar returned status 404

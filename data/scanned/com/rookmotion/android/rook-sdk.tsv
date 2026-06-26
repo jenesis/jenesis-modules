@@ -86,6 +86,7 @@
 2.4.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/2.4.0-alpha01/rook-sdk-2.4.0-alpha01.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/2.4.1/rook-sdk-2.4.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/4.0.0/rook-sdk-4.0.0.jar returned status 404
+4.1.0		2026-06-19T19:58:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/4.1.0/rook-sdk-4.1.0.jar returned status 404
 4.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/4.1.0-alpha01/rook-sdk-4.1.0-alpha01.jar returned status 404
 4.1.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/4.1.0-alpha02/rook-sdk-4.1.0-alpha02.jar returned status 404
 4.1.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rookmotion/android/rook-sdk/4.1.0-alpha03/rook-sdk-4.1.0-alpha03.jar returned status 404

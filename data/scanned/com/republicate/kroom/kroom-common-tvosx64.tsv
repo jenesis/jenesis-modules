@@ -22,6 +22,12 @@
 0.19	metadata	2026-06-18T19:37:27Z	
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.2/kroom-common-tvosx64-0.2.jar returned status 404
 0.2	metadata	2025-12-08T09:36:08Z	
+0.20		2026-06-19T11:32:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.20/kroom-common-tvosx64-0.20.jar returned status 404
+0.20	metadata	2026-06-19T11:32:59Z	
+0.21		2026-06-19T12:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.21/kroom-common-tvosx64-0.21.jar returned status 404
+0.21	metadata	2026-06-19T12:34:31Z	
+0.22		2026-06-19T13:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.22/kroom-common-tvosx64-0.22.jar returned status 404
+0.22	metadata	2026-06-19T13:37:39Z	
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.3/kroom-common-tvosx64-0.3.jar returned status 404
 0.3	metadata	2026-01-24T08:09:37Z	
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kroom/kroom-common-tvosx64/0.4/kroom-common-tvosx64-0.4.jar returned status 404

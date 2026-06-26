@@ -52,3 +52,9 @@
 0.0.9-alpha1	metadata	2026-03-23T10:06:59Z	
 0.0.9-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-component-iosarm64/0.0.9-alpha2/ui-component-iosarm64-0.0.9-alpha2.jar returned status 404
 0.0.9-alpha2	metadata	2026-03-23T11:39:06Z	
+0.1.0-alpha1		2026-06-21T18:51:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-component-iosarm64/0.1.0-alpha1/ui-component-iosarm64-0.1.0-alpha1.jar returned status 404
+0.1.0-alpha1	metadata	2026-06-21T18:51:16Z	
+0.1.0-alpha2		2026-06-21T21:52:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-component-iosarm64/0.1.0-alpha2/ui-component-iosarm64-0.1.0-alpha2.jar returned status 404
+0.1.0-alpha2	metadata	2026-06-21T21:52:16Z	
+0.1.0-alpha3		2026-06-22T11:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-component-iosarm64/0.1.0-alpha3/ui-component-iosarm64-0.1.0-alpha3.jar returned status 404
+0.1.0-alpha3	metadata	2026-06-22T11:58:29Z	
