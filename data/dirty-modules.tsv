@@ -819,3 +819,11 @@ org.hibernate.orm.c3p0
 org.hibernate.orm.assistant
 org.hibernate.orm.ant
 org.hibernate.orm.agroal
+org.geolatte.geom.json.jackson3
+org.geolatte.geom.json.jackson2
+org.geolatte.geom.json.core
+org.flywaydb.core
+org.flixelgdx.core
+io.github.classgraph
+io.netty.internal.tcnative
+com.zaxxer.hikari

@@ -7,6 +7,7 @@
 2.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.29.0/sdk-parent-2.29.0.jar returned status 404
 2.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.30.0/sdk-parent-2.30.0.jar returned status 404
 2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.31.0/sdk-parent-2.31.0.jar returned status 404
+2.31.1		2026-06-17T09:19:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.31.1/sdk-parent-2.31.1.jar returned status 404
 2.32.0		2026-06-09T10:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.32.0/sdk-parent-2.32.0.jar returned status 404
 2.33.0		2026-06-16T11:53:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.33.0/sdk-parent-2.33.0.jar returned status 404
 2.33.1		2026-06-16T14:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/sdk/sdk-parent/2.33.1/sdk-parent-2.33.1.jar returned status 404
