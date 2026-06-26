@@ -13,3 +13,4 @@
 4.27.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/cpay/4.27.2/cpay-4.27.2.jar returned status 404
 4.27.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/cpay/4.27.3/cpay-4.27.3.jar returned status 404
 4.28.0		2026-06-12T07:51:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/cpay/4.28.0/cpay-4.28.0.jar returned status 404
+4.28.1		2026-06-24T02:36:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/citcon/sdk/cpay/4.28.1/cpay-4.28.1.jar returned status 404

@@ -16,3 +16,5 @@
 0.8.4	metadata	2026-06-16T09:54:15Z	
 0.8.5		2026-06-18T10:40:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-codec-serialization-iosarm64/0.8.5/kmp-ble-codec-serialization-iosarm64-0.8.5.jar returned status 404
 0.8.5	metadata	2026-06-18T10:40:11Z	
+0.9.0		2026-06-23T22:18:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-codec-serialization-iosarm64/0.9.0/kmp-ble-codec-serialization-iosarm64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-06-23T22:18:49Z	

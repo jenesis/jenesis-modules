@@ -19,6 +19,8 @@
 0.13.11		2026-05-29T04:38:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.11/module-bom-0.13.11.jar returned status 404
 0.13.12		2026-06-06T18:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.12/module-bom-0.13.12.jar returned status 404
 0.13.13		2026-06-10T09:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.13/module-bom-0.13.13.jar returned status 404
+0.13.14		2026-06-20T08:56:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.14/module-bom-0.13.14.jar returned status 404
+0.13.15		2026-06-20T13:44:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.15/module-bom-0.13.15.jar returned status 404
 0.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.2/module-bom-0.13.2.jar returned status 404
 0.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.3/module-bom-0.13.3.jar returned status 404
 0.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/c0x12c/module-bom/0.13.4/module-bom-0.13.4.jar returned status 404

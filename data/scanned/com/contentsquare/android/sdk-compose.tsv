@@ -18,3 +18,4 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-compose/1.5.0/sdk-compose-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-compose/1.5.1/sdk-compose-1.5.1.jar returned status 404
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-compose/1.5.2/sdk-compose-1.5.2.jar returned status 404
+1.5.3		2026-06-25T08:18:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-compose/1.5.3/sdk-compose-1.5.3.jar returned status 404

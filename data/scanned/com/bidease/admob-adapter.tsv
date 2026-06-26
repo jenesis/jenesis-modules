@@ -23,3 +23,4 @@
 2.2.1		2026-06-13T19:46:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/admob-adapter/2.2.1/admob-adapter-2.2.1.jar returned status 404
 2.2.2		2026-06-16T18:23:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/admob-adapter/2.2.2/admob-adapter-2.2.2.jar returned status 404
 2.2.3		2026-06-18T13:18:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/admob-adapter/2.2.3/admob-adapter-2.2.3.jar returned status 404
+2.2.4		2026-06-22T00:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/admob-adapter/2.2.4/admob-adapter-2.2.4.jar returned status 404

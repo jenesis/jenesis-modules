@@ -18,6 +18,7 @@
 0.8.3		2026-06-15T08:03:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/0.8.3/kmp-ble-profiles-android-0.8.3.jar returned status 404
 0.8.4		2026-06-16T09:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/0.8.4/kmp-ble-profiles-android-0.8.4.jar returned status 404
 0.8.5		2026-06-18T10:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/0.8.5/kmp-ble-profiles-android-0.8.5.jar returned status 404
+0.9.0		2026-06-23T22:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/0.9.0/kmp-ble-profiles-android-0.9.0.jar returned status 404
 v0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/v0.3.0/kmp-ble-profiles-android-v0.3.0.jar returned status 404
 v0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/v0.3.1/kmp-ble-profiles-android-v0.3.1.jar returned status 404
 v0.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-profiles-android/v0.3.10/kmp-ble-profiles-android-v0.3.10.jar returned status 404

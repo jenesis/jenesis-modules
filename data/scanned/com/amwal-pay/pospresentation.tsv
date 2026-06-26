@@ -11,6 +11,8 @@
 0.0.112		2026-06-04T05:05:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.112/pospresentation-0.0.112.jar returned status 404
 0.0.113		2026-06-11T10:07:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.113/pospresentation-0.0.113.jar returned status 404
 0.0.114		2026-06-12T14:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.114/pospresentation-0.0.114.jar returned status 404
+0.0.115		2026-06-22T19:43:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.115/pospresentation-0.0.115.jar returned status 404
+0.0.116		2026-06-24T04:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.116/pospresentation-0.0.116.jar returned status 404
 0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.13/pospresentation-0.0.13.jar returned status 404
 0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.14/pospresentation-0.0.14.jar returned status 404
 0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/pospresentation/0.0.15/pospresentation-0.0.15.jar returned status 404

@@ -18,3 +18,4 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-js/1.0.2/normalized-cache-sqlite-js-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-js/1.0.3/normalized-cache-sqlite-js-1.0.3.jar returned status 404
 1.0.4		2026-06-15T08:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-js/1.0.4/normalized-cache-sqlite-js-1.0.4.jar returned status 404
+1.0.5		2026-06-25T13:51:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-js/1.0.5/normalized-cache-sqlite-js-1.0.5.jar returned status 404

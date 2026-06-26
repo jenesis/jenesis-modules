@@ -60,3 +60,4 @@
 2.2.1		2026-06-13T19:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/bidease-mobile/2.2.1/bidease-mobile-2.2.1.jar returned status 404
 2.2.2		2026-06-16T18:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/bidease-mobile/2.2.2/bidease-mobile-2.2.2.jar returned status 404
 2.2.3		2026-06-18T13:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/bidease-mobile/2.2.3/bidease-mobile-2.2.3.jar returned status 404
+2.2.4		2026-06-22T00:22:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/bidease-mobile/2.2.4/bidease-mobile-2.2.4.jar returned status 404
