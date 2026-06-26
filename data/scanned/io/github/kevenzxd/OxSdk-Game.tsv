@@ -3,6 +3,7 @@
 1.0-MO-MolocoLatest-202606091200		2026-06-09T04:19:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0-MO-MolocoLatest-202606091200/OxSdk-Game-1.0-MO-MolocoLatest-202606091200.jar returned status 404
 1.0-UA-AET-202603241500			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0-UA-AET-202603241500/OxSdk-Game-1.0-UA-AET-202603241500.jar returned status 404
 1.0-UA-MtgMlc-202605121100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0-UA-MtgMlc-202605121100/OxSdk-Game-1.0-UA-MtgMlc-202605121100.jar returned status 404
+1.0-UA-UACEvent-202606231500		2026-06-23T07:14:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0-UA-UACEvent-202606231500/OxSdk-Game-1.0-UA-UACEvent-202606231500.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0.0/OxSdk-Game-1.0.0.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0.3/OxSdk-Game-1.0.3.jar returned status 404
 1.0.3-202206151805			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kevenzxd/OxSdk-Game/1.0.3-202206151805/OxSdk-Game-1.0.3-202206151805.jar returned status 404

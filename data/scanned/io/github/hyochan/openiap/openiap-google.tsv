@@ -60,4 +60,5 @@
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google/2.1.5/openiap-google-2.1.5.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google/2.2.0/openiap-google-2.2.0.jar returned status 404
 2.2.1		2026-05-19T14:56:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google/2.2.1/openiap-google-2.2.1.jar returned status 404
+2.2.2		2026-06-23T06:36:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google/2.2.2/openiap-google-2.2.2.jar returned status 404
 2.3.0-rc.1		2026-05-23T13:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google/2.3.0-rc.1/openiap-google-2.3.0-rc.1.jar returned status 404

@@ -34,6 +34,11 @@
 2.1.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.1.0-alpha09/vro-compose-2.1.0-alpha09.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.0/vro-compose-2.2.0.jar returned status 404
 2.2.1		2026-06-15T12:25:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.1/vro-compose-2.2.1.jar returned status 404
+2.2.2		2026-06-18T10:44:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.2/vro-compose-2.2.2.jar returned status 404
+2.2.3		2026-06-19T10:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.3/vro-compose-2.2.3.jar returned status 404
+2.2.4		2026-06-19T11:04:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.4/vro-compose-2.2.4.jar returned status 404
+2.2.4-dialogtest		2026-06-19T15:03:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.4-dialogtest/vro-compose-2.2.4-dialogtest.jar returned status 404
+2.2.4-dialogtest2		2026-06-19T15:25:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/2.2.4-dialogtest2/vro-compose-2.2.4-dialogtest2.jar returned status 404
 3.0.0-beta		2026-06-13T17:34:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/3.0.0-beta/vro-compose-3.0.0-beta.jar returned status 404
 3.0.1-beta		2026-06-13T18:00:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/3.0.1-beta/vro-compose-3.0.1-beta.jar returned status 404
 3.0.2-beta		2026-06-13T23:36:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-compose/3.0.2-beta/vro-compose-3.0.2-beta.jar returned status 404

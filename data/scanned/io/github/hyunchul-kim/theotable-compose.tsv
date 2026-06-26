@@ -3,3 +3,5 @@
 0.2.0		2026-05-27T07:17:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyunchul-kim/theotable-compose/0.2.0/theotable-compose-0.2.0.jar returned status 404
 0.3.0		2026-05-28T01:17:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyunchul-kim/theotable-compose/0.3.0/theotable-compose-0.3.0.jar returned status 404
 0.3.1		2026-05-28T04:07:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyunchul-kim/theotable-compose/0.3.1/theotable-compose-0.3.1.jar returned status 404
+0.3.2		2026-06-19T04:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyunchul-kim/theotable-compose/0.3.2/theotable-compose-0.3.2.jar returned status 404
+0.3.3		2026-06-19T05:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyunchul-kim/theotable-compose/0.3.3/theotable-compose-0.3.3.jar returned status 404

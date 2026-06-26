@@ -8,5 +8,7 @@
 3.0.0	metadata	2026-06-16T21:14:43Z	
 4.0.0		2026-06-17T16:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-iosx64/4.0.0/kotlinapi-iosx64-4.0.0.jar returned status 404
 4.0.0	metadata	2026-06-17T16:30:40Z	
+4.3.0		2026-06-20T18:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-iosx64/4.3.0/kotlinapi-iosx64-4.3.0.jar returned status 404
+4.3.0	metadata	2026-06-20T18:09:02Z	
 unspecified		2026-06-15T18:13:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/femimarket/kotlinapi-iosx64/unspecified/kotlinapi-iosx64-unspecified.jar returned status 404
 unspecified	metadata	2026-06-15T18:13:21Z	

@@ -13,3 +13,4 @@
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-mingwx64/1.4.4/core-mingwx64-1.4.4.jar returned status 404
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-mingwx64/1.4.5/core-mingwx64-1.4.5.jar returned status 404
 1.4.6		2026-05-25T17:30:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-mingwx64/1.4.6/core-mingwx64-1.4.6.jar returned status 404
+1.4.7		2026-06-19T17:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-mingwx64/1.4.7/core-mingwx64-1.4.7.jar returned status 404

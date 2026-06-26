@@ -92,5 +92,7 @@
 2.3.0	metadata	2026-05-16T17:28:11Z	
 2.3.1		2026-05-19T16:29:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/kmp-iap-iossimulatorarm64/2.3.1/kmp-iap-iossimulatorarm64-2.3.1.jar returned status 404
 2.3.1	metadata	2026-05-19T16:29:45Z	
+2.3.2		2026-06-23T07:58:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/kmp-iap-iossimulatorarm64/2.3.2/kmp-iap-iossimulatorarm64-2.3.2.jar returned status 404
+2.3.2	metadata	2026-06-23T07:58:27Z	
 2.4.0-rc.1		2026-05-23T14:10:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/kmp-iap-iossimulatorarm64/2.4.0-rc.1/kmp-iap-iossimulatorarm64-2.4.0-rc.1.jar returned status 404
 2.4.0-rc.1	metadata	2026-05-23T14:10:23Z	
