@@ -36,3 +36,5 @@
 2.0.0-alpha18	html-docs	2026-04-19T20:17:16Z	
 2.0.0-alpha19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/client-android/2.0.0-alpha19/client-android-2.0.0-alpha19.jar returned status 404
 2.0.0-alpha19	html-docs	2026-04-20T18:19:23Z	
+2.0.0-beta01		2026-06-19T13:46:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/client-android/2.0.0-beta01/client-android-2.0.0-beta01.jar returned status 404
+2.0.0-beta01	html-docs	2026-06-19T13:46:55Z	

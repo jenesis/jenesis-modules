@@ -132,6 +132,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/36.4.2/contact-dagger-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/36.5.0/contact-dagger-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/36.6.0/contact-dagger-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/36.6.1/contact-dagger-36.6.1.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/9.0.0/contact-dagger-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/9.0.1/contact-dagger-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/contact-dagger/9.0.2/contact-dagger-9.0.2.jar returned status 404

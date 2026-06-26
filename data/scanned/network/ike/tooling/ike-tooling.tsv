@@ -33,3 +33,7 @@
 219		2026-06-04T23:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/219/ike-tooling-219.jar returned status 404
 220		2026-06-07T15:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/220/ike-tooling-220.jar returned status 404
 221		2026-06-16T17:10:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/221/ike-tooling-221.jar returned status 404
+222		2026-06-19T01:34:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/222/ike-tooling-222.jar returned status 404
+223		2026-06-19T21:49:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/223/ike-tooling-223.jar returned status 404
+224		2026-06-20T16:32:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/224/ike-tooling-224.jar returned status 404
+225		2026-06-20T21:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-tooling/225/ike-tooling-225.jar returned status 404

@@ -112,3 +112,4 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration-dagger-content-resolver/36.4.2/configuration-dagger-content-resolver-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration-dagger-content-resolver/36.5.0/configuration-dagger-content-resolver-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration-dagger-content-resolver/36.6.0/configuration-dagger-content-resolver-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration-dagger-content-resolver/36.6.1/configuration-dagger-content-resolver-36.6.1.jar returned status 404

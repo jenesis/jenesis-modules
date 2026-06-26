@@ -33,3 +33,7 @@
 219		2026-06-04T23:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/219/ike-build-standards-219.jar returned status 404
 220		2026-06-07T15:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/220/ike-build-standards-220.jar returned status 404
 221		2026-06-16T17:10:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/221/ike-build-standards-221.jar returned status 404
+222		2026-06-19T01:34:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/222/ike-build-standards-222.jar returned status 404
+223		2026-06-19T21:49:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/223/ike-build-standards-223.jar returned status 404
+224		2026-06-20T16:32:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/224/ike-build-standards-224.jar returned status 404
+225		2026-06-20T21:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/tooling/ike-build-standards/225/ike-build-standards-225.jar returned status 404

@@ -147,6 +147,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/36.4.2/test-android-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/36.5.0/test-android-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/36.6.0/test-android-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/36.6.1/test-android-36.6.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/4.0.0/test-android-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/4.1.0/test-android-4.1.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-android/5.0.0/test-android-5.0.0.jar returned status 404

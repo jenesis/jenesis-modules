@@ -132,6 +132,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/36.4.2/feature-flag-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/36.5.0/feature-flag-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/36.6.0/feature-flag-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/36.6.1/feature-flag-36.6.1.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/7.1.0/feature-flag-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/7.1.1/feature-flag-7.1.1.jar returned status 404
 7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/feature-flag/7.1.10/feature-flag-7.1.10.jar returned status 404

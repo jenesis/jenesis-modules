@@ -29,3 +29,4 @@
 36.4.2		2026-03-27T13:26:29Z	
 36.5.0		2026-04-15T11:15:40Z	
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/device-migration-domain/36.6.0/device-migration-domain-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/device-migration-domain/36.6.1/device-migration-domain-36.6.1.jar returned status 404
