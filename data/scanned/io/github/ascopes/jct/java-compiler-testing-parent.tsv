@@ -5,3 +5,4 @@
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/jct/java-compiler-testing-parent/5.0.3/java-compiler-testing-parent-5.0.3.jar returned status 404
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/jct/java-compiler-testing-parent/5.0.4/java-compiler-testing-parent-5.0.4.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/jct/java-compiler-testing-parent/6.0.0/java-compiler-testing-parent-6.0.0.jar returned status 404
+6.0.1		2026-06-20T13:40:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/jct/java-compiler-testing-parent/6.0.1/java-compiler-testing-parent-6.0.1.jar returned status 404

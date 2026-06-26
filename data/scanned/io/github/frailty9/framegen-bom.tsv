@@ -1,1 +1,2 @@
 1.1.0		2026-06-16T14:09:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen-bom/1.1.0/framegen-bom-1.1.0.jar returned status 404
+2.0.0		2026-06-21T16:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frailty9/framegen-bom/2.0.0/framegen-bom-2.0.0.jar returned status 404

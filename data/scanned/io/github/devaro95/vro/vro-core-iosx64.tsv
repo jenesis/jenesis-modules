@@ -66,6 +66,16 @@
 2.2.0	metadata	2026-04-20T13:35:15Z	
 2.2.1		2026-06-15T12:25:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.1/vro-core-iosx64-2.2.1.jar returned status 404
 2.2.1	metadata	2026-06-15T12:25:55Z	
+2.2.2		2026-06-18T10:44:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.2/vro-core-iosx64-2.2.2.jar returned status 404
+2.2.2	metadata	2026-06-18T10:44:30Z	
+2.2.3		2026-06-19T10:03:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.3/vro-core-iosx64-2.2.3.jar returned status 404
+2.2.3	metadata	2026-06-19T10:03:01Z	
+2.2.4		2026-06-19T11:04:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.4/vro-core-iosx64-2.2.4.jar returned status 404
+2.2.4	metadata	2026-06-19T11:04:45Z	
+2.2.4-dialogtest		2026-06-19T15:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.4-dialogtest/vro-core-iosx64-2.2.4-dialogtest.jar returned status 404
+2.2.4-dialogtest	metadata	2026-06-19T15:03:39Z	
+2.2.4-dialogtest2		2026-06-19T15:25:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/2.2.4-dialogtest2/vro-core-iosx64-2.2.4-dialogtest2.jar returned status 404
+2.2.4-dialogtest2	metadata	2026-06-19T15:25:39Z	
 3.0.0-beta		2026-06-13T17:34:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/3.0.0-beta/vro-core-iosx64-3.0.0-beta.jar returned status 404
 3.0.0-beta	metadata	2026-06-13T17:34:55Z	
 3.0.1-beta		2026-06-13T18:00:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/vro-core-iosx64/3.0.1-beta/vro-core-iosx64-3.0.1-beta.jar returned status 404

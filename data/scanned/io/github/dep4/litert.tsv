@@ -16,4 +16,5 @@
 2.1.0		2026-01-31T16:29:49Z	
 2.1.2		2026-01-31T16:37:58Z	
 2.1.3		2026-03-18T15:41:21Z	
+2.1.5		2026-06-19T16:39:33Z	
 {{inputs.version}}			IllegalArgumentException: Illegal character in path at index 22: io/github/dep4/litert/{{inputs.version}}/litert-{{inputs.version}}.jar

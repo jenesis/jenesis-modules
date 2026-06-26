@@ -26,3 +26,5 @@
 2.2.1	metadata	2026-05-21T02:31:24Z	
 3.0.0		2026-05-30T03:44:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/types-iosx64/3.0.0/types-iosx64-3.0.0.jar returned status 404
 3.0.0	metadata	2026-05-30T03:44:40Z	
+3.1.0		2026-06-21T21:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/types-iosx64/3.1.0/types-iosx64-3.1.0.jar returned status 404
+3.1.0	metadata	2026-06-21T21:13:34Z	

@@ -34,3 +34,8 @@
 1.4.4		2026-06-05T01:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.4.4/lms-android-1.4.4.jar returned status 404
 1.4.5		2026-06-06T05:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.4.5/lms-android-1.4.5.jar returned status 404
 1.4.6		2026-06-17T03:33:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.4.6/lms-android-1.4.6.jar returned status 404
+1.4.7		2026-06-19T02:49:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.4.7/lms-android-1.4.7.jar returned status 404
+1.5.1		2026-06-19T08:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.5.1/lms-android-1.5.1.jar returned status 404
+1.5.2		2026-06-20T14:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.5.2/lms-android-1.5.2.jar returned status 404
+1.5.3		2026-06-21T03:08:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.5.3/lms-android-1.5.3.jar returned status 404
+1.5.4		2026-06-21T14:04:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-android/1.5.4/lms-android-1.5.4.jar returned status 404
