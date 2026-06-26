@@ -59,3 +59,4 @@
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-android/7.0.0/GrowthBook-android-7.0.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-android/7.1.0/GrowthBook-android-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-android/7.1.1/GrowthBook-android-7.1.1.jar returned status 404
+7.2.0		2026-06-19T14:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-android/7.2.0/GrowthBook-android-7.2.0.jar returned status 404

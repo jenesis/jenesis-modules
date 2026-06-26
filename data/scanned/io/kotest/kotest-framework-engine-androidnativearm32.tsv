@@ -41,3 +41,4 @@
 6.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-androidnativearm32/6.1.7/kotest-framework-engine-androidnativearm32-6.1.7.jar returned status 404
 6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-androidnativearm32/6.1.8/kotest-framework-engine-androidnativearm32-6.1.8.jar returned status 404
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-androidnativearm32/6.1.9/kotest-framework-engine-androidnativearm32-6.1.9.jar returned status 404
+6.2.1		2026-06-18T13:59:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-framework-engine-androidnativearm32/6.2.1/kotest-framework-engine-androidnativearm32-6.2.1.jar returned status 404

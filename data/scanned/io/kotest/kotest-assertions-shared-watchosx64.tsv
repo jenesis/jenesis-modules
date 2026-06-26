@@ -160,3 +160,5 @@
 6.1.8	metadata	2026-03-24T04:52:41Z	
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-shared-watchosx64/6.1.9/kotest-assertions-shared-watchosx64-6.1.9.jar returned status 404
 6.1.9	metadata	2026-03-24T17:20:23Z	
+6.2.1		2026-06-18T14:11:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-shared-watchosx64/6.2.1/kotest-assertions-shared-watchosx64-6.2.1.jar returned status 404
+6.2.1	metadata	2026-06-18T14:11:38Z	

@@ -12,3 +12,4 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-common-wasm-wasi/2.2.0/kotzilla-common-wasm-wasi-2.2.0.jar returned status 404
 2.2.1		2026-06-09T07:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-common-wasm-wasi/2.2.1/kotzilla-common-wasm-wasi-2.2.1.jar returned status 404
 2.2.2		2026-06-11T16:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-common-wasm-wasi/2.2.2/kotzilla-common-wasm-wasi-2.2.2.jar returned status 404
+2.2.3		2026-06-18T14:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-common-wasm-wasi/2.2.3/kotzilla-common-wasm-wasi-2.2.3.jar returned status 404

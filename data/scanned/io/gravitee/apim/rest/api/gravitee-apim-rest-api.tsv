@@ -12,6 +12,7 @@
 4.10.15		2026-05-19T13:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.15/gravitee-apim-rest-api-4.10.15.jar returned status 404
 4.10.16		2026-06-01T17:04:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.16/gravitee-apim-rest-api-4.10.16.jar returned status 404
 4.10.17		2026-06-08T20:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.17/gravitee-apim-rest-api-4.10.17.jar returned status 404
+4.10.18		2026-06-20T16:46:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.18/gravitee-apim-rest-api-4.10.18.jar returned status 404
 4.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.2/gravitee-apim-rest-api-4.10.2.jar returned status 404
 4.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.3/gravitee-apim-rest-api-4.10.3.jar returned status 404
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.10.4/gravitee-apim-rest-api-4.10.4.jar returned status 404
@@ -25,6 +26,7 @@
 4.11.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.0-alpha.2/gravitee-apim-rest-api-4.11.0-alpha.2.jar returned status 404
 4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.1/gravitee-apim-rest-api-4.11.1.jar returned status 404
 4.11.10		2026-06-08T20:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.10/gravitee-apim-rest-api-4.11.10.jar returned status 404
+4.11.11		2026-06-20T16:51:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.11/gravitee-apim-rest-api-4.11.11.jar returned status 404
 4.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.2/gravitee-apim-rest-api-4.11.2.jar returned status 404
 4.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.3/gravitee-apim-rest-api-4.11.3.jar returned status 404
 4.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.11.4/gravitee-apim-rest-api-4.11.4.jar returned status 404
@@ -37,6 +39,7 @@
 4.12.0-milestone.2		2026-06-10T13:14:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.12.0-milestone.2/gravitee-apim-rest-api-4.12.0-milestone.2.jar returned status 404
 4.12.0-milestone.3		2026-06-15T21:00:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.12.0-milestone.3/gravitee-apim-rest-api-4.12.0-milestone.3.jar returned status 404
 4.12.0-milestone.4		2026-06-16T12:43:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.12.0-milestone.4/gravitee-apim-rest-api-4.12.0-milestone.4.jar returned status 404
+4.12.0-milestone.5		2026-06-22T18:16:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.12.0-milestone.5/gravitee-apim-rest-api-4.12.0-milestone.5.jar returned status 404
 4.4.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.4.32/gravitee-apim-rest-api-4.4.32.jar returned status 404
 4.5.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.5.21/gravitee-apim-rest-api-4.5.21.jar returned status 404
 4.5.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.5.22/gravitee-apim-rest-api-4.5.22.jar returned status 404
@@ -106,6 +109,7 @@
 4.8.28		2026-06-01T17:03:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.28/gravitee-apim-rest-api-4.8.28.jar returned status 404
 4.8.29		2026-06-08T20:28:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.29/gravitee-apim-rest-api-4.8.29.jar returned status 404
 4.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.3/gravitee-apim-rest-api-4.8.3.jar returned status 404
+4.8.30		2026-06-20T16:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.30/gravitee-apim-rest-api-4.8.30.jar returned status 404
 4.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.4/gravitee-apim-rest-api-4.8.4.jar returned status 404
 4.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.5/gravitee-apim-rest-api-4.8.5.jar returned status 404
 4.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.8.6/gravitee-apim-rest-api-4.8.6.jar returned status 404
@@ -132,6 +136,7 @@
 4.9.20		2026-05-19T13:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.20/gravitee-apim-rest-api-4.9.20.jar returned status 404
 4.9.21		2026-06-01T17:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.21/gravitee-apim-rest-api-4.9.21.jar returned status 404
 4.9.22		2026-06-08T20:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.22/gravitee-apim-rest-api-4.9.22.jar returned status 404
+4.9.23		2026-06-20T17:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.23/gravitee-apim-rest-api-4.9.23.jar returned status 404
 4.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.3/gravitee-apim-rest-api-4.9.3.jar returned status 404
 4.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.4/gravitee-apim-rest-api-4.9.4.jar returned status 404
 4.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/rest/api/gravitee-apim-rest-api/4.9.5/gravitee-apim-rest-api-4.9.5.jar returned status 404
