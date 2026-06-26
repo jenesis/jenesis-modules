@@ -432,13 +432,27 @@ public class MavenPomResolver implements MavenResolver {
             }
         } while ((current = queue.poll()) != null);
         SequencedMap<Path, MavenLocalPom> results = new LinkedHashMap<>();
-        modules.forEach(module -> {
+        for (Path module : modules) {
             UnresolvedPom pom = paths.get(module);
             SequencedMap<MavenDependencyKey, MavenDependencyValue> dependencies = new LinkedHashMap<>();
             SequencedMap<MavenDependencyKey, MavenDependencyValue> managedDependencies = new LinkedHashMap<>();
-            pom.managedDependencies().forEach((key, value) -> managedDependencies.put(
-                    key.resolve(pom.properties()),
-                    value.resolveManaged(pom.properties())));
+            for (Map.Entry<DependencyKey, DependencyValue> entry : pom.managedDependencies().entrySet()) {
+                MavenDependencyKey key = entry.getKey().resolve(pom.properties());
+                MavenDependencyValue value = entry.getValue().resolveManaged(pom.properties());
+                if (value.scope() == MavenDependencyScope.IMPORT) {
+                    flattenImport(executor,
+                            MavenRepository.of(repository),
+                            key.groupId(),
+                            key.artifactId(),
+                            value.version(),
+                            value.checksum(),
+                            managedDependencies,
+                            new HashSet<>(),
+                            unresolved);
+                } else {
+                    managedDependencies.put(key, value);
+                }
+            }
             pom.dependencies().forEach((key, value) -> {
                 MavenDependencyKey resolvedKey = key.resolve(pom.properties());
                 dependencies.put(resolvedKey, merge(value.resolve(pom.properties()),
@@ -448,7 +462,7 @@ public class MavenPomResolver implements MavenResolver {
                     property(pom.artifactId(), pom.properties()),
                     property(pom.version(), pom.properties()),
                     property(pom.packaging(), pom.properties()),
-                    pom.properties().get("maven.compiler.release"),
+                    property(pom.properties().get("maven.compiler.release"), pom.properties()),
                     property(pom.sourceDirectory(), pom.properties()),
                     pom.resourceDirectories() == null ? null : pom.resourceDirectories().stream()
                             .map(resource -> property(resource, pom.properties()))
@@ -460,8 +474,8 @@ public class MavenPomResolver implements MavenResolver {
                     dependencies,
                     managedDependencies,
                     pom.qualifiedDependencies(),
-                    pom.properties().get("mainClass")));
-        });
+                    property(pom.properties().get("mainClass"), pom.properties())));
+        }
         return results;
     }
 
@@ -921,12 +935,30 @@ public class MavenPomResolver implements MavenResolver {
                         if (value.isEmpty()) {
                             continue;
                         }
+                        String key;
                         int firstSlash = token.indexOf('/');
-                        int secondSlash = firstSlash < 1 ? -1 : token.indexOf('/', firstSlash + 1);
-                        if (secondSlash < firstSlash + 2 || secondSlash == token.length() - 1) {
-                            continue;
+                        int secondSlash = firstSlash < 0 ? -1 : token.indexOf('/', firstSlash + 1);
+                        if (firstSlash < 0) {
+                            key = "main/module/" + token;
+                        } else if (secondSlash < 0) {
+                            if (firstSlash < 1 || firstSlash == token.length() - 1) {
+                                throw new IllegalArgumentException("Malformed jenesis.pin token '"
+                                        + token
+                                        + "': expected <module>, <groupId>/<artifactId>,"
+                                        + " or <group>/<repository>/<coordinate>");
+                            }
+                            key = "main/maven/" + token;
+                        } else {
+                            if (firstSlash < 1 || secondSlash == firstSlash + 1
+                                    || secondSlash == token.length() - 1) {
+                                throw new IllegalArgumentException("Malformed jenesis.pin token '"
+                                        + token
+                                        + "': expected <module>, <groupId>/<artifactId>,"
+                                        + " or <group>/<repository>/<coordinate>");
+                            }
+                            key = token;
                         }
-                        entries.put(guard == null ? token : token + "[" + guard + "]", value);
+                        entries.put(guard == null ? key : key + "[" + guard + "]", value);
                     }
                 });
         return entries;
@@ -955,7 +987,10 @@ public class MavenPomResolver implements MavenResolver {
                     if (!duplicates.add(property)) {
                         throw new IllegalStateException("Circular property definition of: " + property);
                     }
-                    matcher.appendReplacement(sb, property(replacement, properties, duplicates));
+                    // Quote the resolved value: a property may expand to text containing '$' or '\'
+                    // (or a bare '${'), which appendReplacement would otherwise read as a group
+                    // reference. Mirrors the undefined-property branch above.
+                    matcher.appendReplacement(sb, Matcher.quoteReplacement(property(replacement, properties, duplicates)));
                 }
             }
             return matcher.appendTail(sb).toString();
