@@ -50,6 +50,8 @@
 0.30.0	metadata	2026-06-13T17:21:07Z	
 0.31.0		2026-06-15T16:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-transform-macosarm64/0.31.0/skainet-data-transform-macosarm64-0.31.0.jar returned status 404
 0.31.0	metadata	2026-06-15T16:40:22Z	
+0.31.2		2026-06-18T05:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-transform-macosarm64/0.31.2/skainet-data-transform-macosarm64-0.31.2.jar returned status 404
+0.31.2	metadata	2026-06-18T05:41:55Z	
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-transform-macosarm64/0.8.3/skainet-data-transform-macosarm64-0.8.3.jar returned status 404
 0.8.3	metadata	2026-01-18T20:12:07Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-transform-macosarm64/0.9.0/skainet-data-transform-macosarm64-0.9.0.jar returned status 404

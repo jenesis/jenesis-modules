@@ -54,6 +54,8 @@
 0.30.0	metadata	2026-06-13T17:21:03Z	
 0.31.0		2026-06-15T16:40:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-gguf-iosarm64/0.31.0/skainet-io-gguf-iosarm64-0.31.0.jar returned status 404
 0.31.0	metadata	2026-06-15T16:40:32Z	
+0.31.2		2026-06-18T05:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-gguf-iosarm64/0.31.2/skainet-io-gguf-iosarm64-0.31.2.jar returned status 404
+0.31.2	metadata	2026-06-18T05:42:07Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-gguf-iosarm64/0.4.0/skainet-io-gguf-iosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2025-12-03T22:34:45Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-gguf-iosarm64/0.5.0/skainet-io-gguf-iosarm64-0.5.0.jar returned status 404
