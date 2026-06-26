@@ -1,0 +1,2 @@
+0.0.1		2026-06-23T08:49:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/datadome/android/datadome-okhttp/0.0.1/datadome-okhttp-0.0.1.jar returned status 404
+0.1.0		2026-06-24T08:20:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/datadome/android/datadome-okhttp/0.1.0/datadome-okhttp-0.1.0.jar returned status 404

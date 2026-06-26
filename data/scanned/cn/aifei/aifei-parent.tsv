@@ -1,3 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/aifei/aifei-parent/1.0.0/aifei-parent-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/aifei/aifei-parent/1.0.1/aifei-parent-1.0.1.jar returned status 404
 1.0.2		2026-06-07T15:28:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/aifei/aifei-parent/1.0.2/aifei-parent-1.0.2.jar returned status 404
+1.0.3		2026-06-23T08:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/aifei/aifei-parent/1.0.3/aifei-parent-1.0.3.jar returned status 404

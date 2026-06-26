@@ -61,3 +61,5 @@
 4.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aiuta/fashionsdk-bom/4.3.6/fashionsdk-bom-4.3.6.jar returned status 404
 4.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aiuta/fashionsdk-bom/4.3.7/fashionsdk-bom-4.3.7.jar returned status 404
 4.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aiuta/fashionsdk-bom/4.3.8/fashionsdk-bom-4.3.8.jar returned status 404
+5.0.0		2026-06-22T15:57:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aiuta/fashionsdk-bom/5.0.0/fashionsdk-bom-5.0.0.jar returned status 404
+5.0.1		2026-06-23T08:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aiuta/fashionsdk-bom/5.0.1/fashionsdk-bom-5.0.1.jar returned status 404

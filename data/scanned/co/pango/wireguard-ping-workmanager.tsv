@@ -130,6 +130,7 @@
 6.0.0-RC10		2026-06-02T13:20:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC10/wireguard-ping-workmanager-6.0.0-RC10.jar returned status 404
 6.0.0-RC11		2026-06-18T21:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC11/wireguard-ping-workmanager-6.0.0-RC11.jar returned status 404
 6.0.0-RC12		2026-06-19T12:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC12/wireguard-ping-workmanager-6.0.0-RC12.jar returned status 404
+6.0.0-RC13		2026-06-24T08:45:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC13/wireguard-ping-workmanager-6.0.0-RC13.jar returned status 404
 6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC2/wireguard-ping-workmanager-6.0.0-RC2.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC3/wireguard-ping-workmanager-6.0.0-RC3.jar returned status 404
 6.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/wireguard-ping-workmanager/6.0.0-RC4/wireguard-ping-workmanager-6.0.0-RC4.jar returned status 404

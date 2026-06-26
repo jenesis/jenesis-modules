@@ -130,6 +130,7 @@
 6.0.0-RC10		2026-06-02T13:20:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC10/openvpn-aar-6.0.0-RC10.jar returned status 404
 6.0.0-RC11		2026-06-18T21:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC11/openvpn-aar-6.0.0-RC11.jar returned status 404
 6.0.0-RC12		2026-06-19T12:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC12/openvpn-aar-6.0.0-RC12.jar returned status 404
+6.0.0-RC13		2026-06-24T08:45:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC13/openvpn-aar-6.0.0-RC13.jar returned status 404
 6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC2/openvpn-aar-6.0.0-RC2.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC3/openvpn-aar-6.0.0-RC3.jar returned status 404
 6.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/openvpn-aar/6.0.0-RC4/openvpn-aar-6.0.0-RC4.jar returned status 404

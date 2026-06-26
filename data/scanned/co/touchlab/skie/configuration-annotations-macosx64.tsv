@@ -8,6 +8,8 @@
 0.10.11	metadata	2026-04-02T14:24:52Z	
 0.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/touchlab/skie/configuration-annotations-macosx64/0.10.12/configuration-annotations-macosx64-0.10.12.jar returned status 404
 0.10.12	metadata	2026-05-18T17:16:44Z	
+0.10.13		2026-06-24T01:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/touchlab/skie/configuration-annotations-macosx64/0.10.13/configuration-annotations-macosx64-0.10.13.jar returned status 404
+0.10.13	metadata	2026-06-24T01:07:59Z	
 0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/touchlab/skie/configuration-annotations-macosx64/0.10.2/configuration-annotations-macosx64-0.10.2.jar returned status 404
 0.10.2	metadata	2025-05-23T09:20:13Z	
 0.10.2-preview.2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/touchlab/skie/configuration-annotations-macosx64/0.10.2-preview.2.1.20/configuration-annotations-macosx64-0.10.2-preview.2.1.20.jar returned status 404

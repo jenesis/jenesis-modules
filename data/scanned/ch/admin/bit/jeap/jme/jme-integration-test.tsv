@@ -10,3 +10,5 @@
 5.2.0		2026-06-12T13:33:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/5.2.0/jme-integration-test-5.2.0.jar returned status 404
 5.3.0		2026-06-18T06:34:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/5.3.0/jme-integration-test-5.3.0.jar returned status 404
 5.3.1		2026-06-19T12:11:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/5.3.1/jme-integration-test-5.3.1.jar returned status 404
+5.3.2		2026-06-23T09:33:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/5.3.2/jme-integration-test-5.3.2.jar returned status 404
+5.3.3		2026-06-24T11:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/5.3.3/jme-integration-test-5.3.3.jar returned status 404

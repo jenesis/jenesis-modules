@@ -39,6 +39,7 @@
 4.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.25.0/jeap-bptest-orchestrator-parent-4.25.0.jar returned status 404
 4.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.26.0/jeap-bptest-orchestrator-parent-4.26.0.jar returned status 404
 4.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.27.0/jeap-bptest-orchestrator-parent-4.27.0.jar returned status 404
+4.28.0		2026-06-25T09:00:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.28.0/jeap-bptest-orchestrator-parent-4.28.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.3.0/jeap-bptest-orchestrator-parent-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.4.0/jeap-bptest-orchestrator-parent-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/4.5.0/jeap-bptest-orchestrator-parent-4.5.0.jar returned status 404
@@ -53,3 +54,4 @@
 6.2.0		2026-06-04T12:34:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/6.2.0/jeap-bptest-orchestrator-parent-6.2.0.jar returned status 404
 6.3.0		2026-06-12T11:33:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/6.3.0/jeap-bptest-orchestrator-parent-6.3.0.jar returned status 404
 6.3.1		2026-06-17T07:42:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/6.3.1/jeap-bptest-orchestrator-parent-6.3.1.jar returned status 404
+6.4.0		2026-06-23T14:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-bptest-orchestrator-parent/6.4.0/jeap-bptest-orchestrator-parent-6.4.0.jar returned status 404

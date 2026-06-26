@@ -6,6 +6,7 @@
 1.10.3-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.3-M2/xbatis-bom-1.10.3-M2.jar returned status 404
 1.10.3-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.3-M3/xbatis-bom-1.10.3-M3.jar returned status 404
 1.10.3-M5		2026-05-26T10:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.3-M5/xbatis-bom-1.10.3-M5.jar returned status 404
+1.10.5		2026-06-21T12:59:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.5/xbatis-bom-1.10.5.jar returned status 404
 1.10.5-M1		2026-06-01T06:14:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.5-M1/xbatis-bom-1.10.5-M1.jar returned status 404
 1.10.5-M2		2026-06-10T01:44:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.10.5-M2/xbatis-bom-1.10.5-M2.jar returned status 404
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xbatis/xbatis-bom/1.9.9/xbatis-bom-1.9.9.jar returned status 404
