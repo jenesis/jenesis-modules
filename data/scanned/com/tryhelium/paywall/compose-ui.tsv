@@ -55,3 +55,4 @@
 4.4.4		2026-05-25T23:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/compose-ui/4.4.4/compose-ui-4.4.4.jar returned status 404
 4.4.5		2026-05-27T19:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/compose-ui/4.4.5/compose-ui-4.4.5.jar returned status 404
 4.4.6		2026-06-16T12:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/compose-ui/4.4.6/compose-ui-4.4.6.jar returned status 404
+4.4.7		2026-06-23T16:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/compose-ui/4.4.7/compose-ui-4.4.7.jar returned status 404

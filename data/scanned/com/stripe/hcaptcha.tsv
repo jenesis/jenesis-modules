@@ -113,6 +113,7 @@
 23.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.1.0/hcaptcha-23.1.0.jar returned status 404
 23.10.0		2026-06-08T20:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.10.0/hcaptcha-23.10.0.jar returned status 404
 23.10.1		2026-06-15T19:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.10.1/hcaptcha-23.10.1.jar returned status 404
+23.11.0		2026-06-22T22:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.11.0/hcaptcha-23.11.0.jar returned status 404
 23.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.2.0/hcaptcha-23.2.0.jar returned status 404
 23.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.3.0/hcaptcha-23.3.0.jar returned status 404
 23.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/hcaptcha/23.4.0/hcaptcha-23.4.0.jar returned status 404

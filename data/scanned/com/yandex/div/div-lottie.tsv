@@ -185,6 +185,7 @@
 32.52.0		2026-06-01T13:48:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.52.0/div-lottie-32.52.0.jar returned status 404
 32.53.0		2026-06-08T17:08:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.53.0/div-lottie-32.53.0.jar returned status 404
 32.54.0		2026-06-15T14:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.54.0/div-lottie-32.54.0.jar returned status 404
+32.55.0		2026-06-22T14:15:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.55.0/div-lottie-32.55.0.jar returned status 404
 32.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.6.0/div-lottie-32.6.0.jar returned status 404
 32.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.7.1/div-lottie-32.7.1.jar returned status 404
 32.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-lottie/32.8.0/div-lottie-32.8.0.jar returned status 404

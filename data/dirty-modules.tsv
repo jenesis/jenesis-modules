@@ -2382,3 +2382,12 @@ cz.auderis.corusco.glazedlists
 cz.auderis.corusco.core
 cz.auderis.corusco.annotations
 com.zaxxer.ping
+com.onlinepayments
+com.wordsdk.wasmtime
+com.wordsdk.chicory
+org.graalvm.truffle
+com.nimbusds.jose.jwt
+com.tigerbeetle
+okhttp3
+com.sqlapp.graphviz
+com.sqlapp.gradle.plugin
