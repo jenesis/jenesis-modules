@@ -5,3 +5,4 @@
 1.70.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/parent/1.70.4/parent-1.70.4.jar returned status 404
 1.70.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/parent/1.70.5/parent-1.70.5.jar returned status 404
 1.70.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/parent/1.70.6/parent-1.70.6.jar returned status 404
+1.71.0		2026-06-17T10:50:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/parent/1.71.0/parent-1.71.0.jar returned status 404
