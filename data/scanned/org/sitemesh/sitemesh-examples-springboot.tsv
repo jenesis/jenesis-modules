@@ -18,3 +18,5 @@
 3.2.2	plain	2024-12-12T17:23:37Z	
 3.2.3		2026-05-30T05:00:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sitemesh/sitemesh-examples-springboot/3.2.3/sitemesh-examples-springboot-3.2.3.jar returned status 404
 3.2.3	plain	2026-05-30T05:00:13Z	
+3.3.0-M1		2026-06-17T23:27:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sitemesh/sitemesh-examples-springboot/3.3.0-M1/sitemesh-examples-springboot-3.3.0-M1.jar returned status 404
+3.3.0-M1	plain	2026-06-17T23:27:10Z	

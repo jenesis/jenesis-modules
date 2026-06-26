@@ -10,8 +10,24 @@
 0.0.14	metadata	2026-05-31T23:27:20Z	
 0.0.15		2026-06-07T00:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.15/traccar-client-sdk-iosarm64-0.0.15.jar returned status 404
 0.0.15	metadata	2026-06-07T00:04:52Z	
+0.0.16		2026-06-19T17:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.16/traccar-client-sdk-iosarm64-0.0.16.jar returned status 404
+0.0.16	metadata	2026-06-19T17:25:25Z	
+0.0.17		2026-06-19T19:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.17/traccar-client-sdk-iosarm64-0.0.17.jar returned status 404
+0.0.17	metadata	2026-06-19T19:24:45Z	
+0.0.18		2026-06-19T23:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.18/traccar-client-sdk-iosarm64-0.0.18.jar returned status 404
+0.0.18	metadata	2026-06-19T23:02:32Z	
+0.0.19		2026-06-19T23:46:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.19/traccar-client-sdk-iosarm64-0.0.19.jar returned status 404
+0.0.19	metadata	2026-06-19T23:46:14Z	
 0.0.2		2026-05-29T22:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.2/traccar-client-sdk-iosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2026-05-29T22:23:58Z	
+0.0.20		2026-06-20T02:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.20/traccar-client-sdk-iosarm64-0.0.20.jar returned status 404
+0.0.20	metadata	2026-06-20T02:01:25Z	
+0.0.21		2026-06-20T04:29:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.21/traccar-client-sdk-iosarm64-0.0.21.jar returned status 404
+0.0.21	metadata	2026-06-20T04:29:28Z	
+0.0.22		2026-06-21T13:35:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.22/traccar-client-sdk-iosarm64-0.0.22.jar returned status 404
+0.0.22	metadata	2026-06-21T13:35:59Z	
+0.0.23		2026-06-21T14:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.23/traccar-client-sdk-iosarm64-0.0.23.jar returned status 404
+0.0.23	metadata	2026-06-21T14:53:38Z	
 0.0.3		2026-05-30T03:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.3/traccar-client-sdk-iosarm64-0.0.3.jar returned status 404
 0.0.3	metadata	2026-05-30T03:49:36Z	
 0.0.4		2026-05-30T04:07:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/traccar/traccar-client-sdk-iosarm64/0.0.4/traccar-client-sdk-iosarm64-0.0.4.jar returned status 404
