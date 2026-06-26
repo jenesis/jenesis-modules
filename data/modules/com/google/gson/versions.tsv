@@ -4821,3 +4821,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 11.5.0.85871	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-06-19T10:34:57Z	2.13.2
 5.4.0.78507	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-06-19T13:11:44Z	2.14.0
 0.5.0-beta	named	org.openjproxy	ojp-jdbc-driver	2026-06-21T15:33:32Z	2.13.2
+1.0.1	named	io.github.rahul1818	testreport-io	2026-06-23T05:48:41Z	2.11.0
+1.0.2	named	io.github.rahul1818	testreport-io	2026-06-23T06:13:15Z	2.11.0
+1.0.4	named	io.github.rahul1818	testreport-io	2026-06-23T07:04:34Z	2.11.0

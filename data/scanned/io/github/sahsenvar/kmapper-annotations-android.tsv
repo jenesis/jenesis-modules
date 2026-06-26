@@ -3,3 +3,4 @@
 2.1.0		2026-06-16T03:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sahsenvar/kmapper-annotations-android/2.1.0/kmapper-annotations-android-2.1.0.jar returned status 404
 2.2.0		2026-06-16T07:43:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sahsenvar/kmapper-annotations-android/2.2.0/kmapper-annotations-android-2.2.0.jar returned status 404
 2.2.1		2026-06-16T08:51:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sahsenvar/kmapper-annotations-android/2.2.1/kmapper-annotations-android-2.2.1.jar returned status 404
+2.2.2		2026-06-18T17:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sahsenvar/kmapper-annotations-android/2.2.2/kmapper-annotations-android-2.2.2.jar returned status 404

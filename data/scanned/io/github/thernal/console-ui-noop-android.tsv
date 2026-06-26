@@ -2,3 +2,5 @@
 0.2.1		2026-06-12T18:12:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-ui-noop-android/0.2.1/console-ui-noop-android-0.2.1.jar returned status 404
 0.2.2		2026-06-13T14:23:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-ui-noop-android/0.2.2/console-ui-noop-android-0.2.2.jar returned status 404
 0.2.3		2026-06-16T10:59:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-ui-noop-android/0.2.3/console-ui-noop-android-0.2.3.jar returned status 404
+0.2.4		2026-06-18T06:27:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-ui-noop-android/0.2.4/console-ui-noop-android-0.2.4.jar returned status 404
+0.2.5		2026-06-22T19:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-ui-noop-android/0.2.5/console-ui-noop-android-0.2.5.jar returned status 404

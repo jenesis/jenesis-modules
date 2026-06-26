@@ -1,0 +1,2 @@
+1.0.2		2026-06-22T15:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/v-serghei/pcl-android-arm64/1.0.2/pcl-android-arm64-1.0.2.jar returned status 404
+1.0.4		2026-06-22T16:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/v-serghei/pcl-android-arm64/1.0.4/pcl-android-arm64-1.0.4.jar returned status 404

@@ -1,2 +1,6 @@
 10.3.0		2026-05-29T12:14:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.0/jecnaapi-canteen-linuxx64-10.3.0.jar returned status 404
 10.3.1		2026-06-03T09:11:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.1/jecnaapi-canteen-linuxx64-10.3.1.jar returned status 404
+10.3.2		2026-06-21T08:14:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.2/jecnaapi-canteen-linuxx64-10.3.2.jar returned status 404
+10.3.3		2026-06-21T08:49:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.3/jecnaapi-canteen-linuxx64-10.3.3.jar returned status 404
+10.3.4		2026-06-21T09:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.4/jecnaapi-canteen-linuxx64-10.3.4.jar returned status 404
+10.3.5		2026-06-21T09:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-canteen-linuxx64/10.3.5/jecnaapi-canteen-linuxx64-10.3.5.jar returned status 404

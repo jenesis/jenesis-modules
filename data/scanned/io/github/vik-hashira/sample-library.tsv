@@ -22,3 +22,4 @@
 60.6.2		2026-06-12T16:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/sample-library/60.6.2/sample-library-60.6.2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/sample-library/7.0.0/sample-library-7.0.0.jar returned status 404
 99.0.0		2026-06-16T07:09:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/sample-library/99.0.0/sample-library-99.0.0.jar returned status 404
+99.0.1		2026-06-18T11:27:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/sample-library/99.0.1/sample-library-99.0.1.jar returned status 404
