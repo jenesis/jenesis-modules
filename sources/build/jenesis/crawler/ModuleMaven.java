@@ -2,7 +2,7 @@ package build.jenesis.crawler;
 
 import module java.base;
 
-class UniqueModules {
+class ModuleMaven {
     void main() throws Exception {        
         var root = Path.of("data/modules");
         try (var stream = Files.walk(root)) {
