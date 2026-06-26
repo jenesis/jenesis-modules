@@ -9,3 +9,6 @@
 1.4.8		2026-06-08T04:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/1.4.8/cmp-paycraft-js-1.4.8.jar returned status 404
 1.4.9		2026-06-15T05:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/1.4.9/cmp-paycraft-js-1.4.9.jar returned status 404
 2.0.1		2026-06-17T14:21:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/2.0.1/cmp-paycraft-js-2.0.1.jar returned status 404
+2.0.2		2026-06-18T16:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/2.0.2/cmp-paycraft-js-2.0.2.jar returned status 404
+2.0.3		2026-06-20T15:10:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/2.0.3/cmp-paycraft-js-2.0.3.jar returned status 404
+2.1.0		2026-06-20T17:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-js/2.1.0/cmp-paycraft-js-2.1.0.jar returned status 404

@@ -2,6 +2,8 @@
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/2.7.1/houtu-dependencies-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/2.7.2/houtu-dependencies-2.7.2.jar returned status 404
 2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/2.7.3/houtu-dependencies-2.7.3.jar returned status 404
+2.7.4		2026-06-23T12:29:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/2.7.4/houtu-dependencies-2.7.4.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/3.5.0/houtu-dependencies-3.5.0.jar returned status 404
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/3.5.1/houtu-dependencies-3.5.1.jar returned status 404
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/3.5.2/houtu-dependencies-3.5.2.jar returned status 404
+3.5.3		2026-06-23T12:37:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lujiafa/houtu-dependencies/3.5.3/houtu-dependencies-3.5.3.jar returned status 404

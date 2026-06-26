@@ -56,3 +56,5 @@
 4.5.0-beta03	metadata	2026-06-09T08:26:56Z	
 4.5.0-beta04		2026-06-16T04:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-animated-webp-iossimulatorarm64/4.5.0-beta04/sketch-animated-webp-iossimulatorarm64-4.5.0-beta04.jar returned status 404
 4.5.0-beta04	metadata	2026-06-16T04:24:50Z	
+4.5.0-beta05		2026-06-18T08:22:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-animated-webp-iossimulatorarm64/4.5.0-beta05/sketch-animated-webp-iossimulatorarm64-4.5.0-beta05.jar returned status 404
+4.5.0-beta05	metadata	2026-06-18T08:22:17Z	

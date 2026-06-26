@@ -42,3 +42,5 @@
 3.5.0	metadata	2026-06-01T14:11:01Z	
 3.5.1		2026-06-08T04:30:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-iosx64/3.5.1/cmp-deep-link-iosx64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:30:15Z	
+3.5.2		2026-06-22T04:56:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-deep-link-iosx64/3.5.2/cmp-deep-link-iosx64-3.5.2.jar returned status 404
+3.5.2	metadata	2026-06-22T04:56:37Z	

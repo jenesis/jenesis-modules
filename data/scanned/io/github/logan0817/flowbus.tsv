@@ -5,3 +5,4 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/logan0817/flowbus/1.0.4/flowbus-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/logan0817/flowbus/1.0.5/flowbus-1.0.5.jar returned status 404
 1.0.6		2026-06-14T15:15:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/logan0817/flowbus/1.0.6/flowbus-1.0.6.jar returned status 404
+1.0.7		2026-06-18T09:29:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/logan0817/flowbus/1.0.7/flowbus-1.0.7.jar returned status 404

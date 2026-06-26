@@ -12,3 +12,5 @@
 3.5.0	metadata	2026-06-01T14:02:37Z	
 3.5.1		2026-06-08T04:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-compose-macosarm64/3.5.1/cmp-app-intents-compose-macosarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:24:39Z	
+3.5.2		2026-06-22T04:48:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-compose-macosarm64/3.5.2/cmp-app-intents-compose-macosarm64-3.5.2.jar returned status 404
+3.5.2	metadata	2026-06-22T04:48:33Z	

@@ -42,3 +42,5 @@
 3.5.0	metadata	2026-06-01T14:05:40Z	
 3.5.1		2026-06-08T04:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iosx64/3.5.1/cmp-in-app-update-iosx64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:22:40Z	
+3.5.2		2026-06-22T04:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-iosx64/3.5.2/cmp-in-app-update-iosx64-3.5.2.jar returned status 404
+3.5.2	metadata	2026-06-22T04:58:47Z	
