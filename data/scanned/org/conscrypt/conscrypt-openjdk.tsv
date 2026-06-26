@@ -185,3 +185,9 @@
 2.6-alpha3	osx-aarch_64	2026-06-04T14:43:46Z	
 2.6-alpha3	osx-x86_64	2026-06-04T14:43:46Z	
 2.6-alpha3	windows-x86_64	2026-06-04T14:43:46Z	
+2.6-alpha4		2026-06-18T17:34:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-openjdk/2.6-alpha4/conscrypt-openjdk-2.6-alpha4.jar returned status 404
+2.6-alpha4	linux-aarch_64	2026-06-18T17:34:41Z	
+2.6-alpha4	linux-x86_64	2026-06-18T17:34:41Z	
+2.6-alpha4	osx-aarch_64	2026-06-18T17:34:41Z	
+2.6-alpha4	osx-x86_64	2026-06-18T17:34:41Z	
+2.6-alpha4	windows-x86_64	2026-06-18T17:34:41Z	

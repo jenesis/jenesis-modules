@@ -32,3 +32,4 @@
 4.0.52		2026-06-08T21:20:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-bom/4.0.52/atmosphere-bom-4.0.52.jar returned status 404
 4.0.53		2026-06-12T15:11:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-bom/4.0.53/atmosphere-bom-4.0.53.jar returned status 404
 4.0.54		2026-06-13T14:32:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-bom/4.0.54/atmosphere-bom-4.0.54.jar returned status 404
+4.0.55		2026-06-18T00:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-bom/4.0.55/atmosphere-bom-4.0.55.jar returned status 404
