@@ -1,6 +1,7 @@
 0.24.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/0.24.0-alpha/orqueio-cdi-compatibility-root-0.24.0-alpha.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.0/orqueio-cdi-compatibility-root-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.1/orqueio-cdi-compatibility-root-1.0.1.jar returned status 404
+1.0.10		2026-06-19T08:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.10/orqueio-cdi-compatibility-root-1.0.10.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.2/orqueio-cdi-compatibility-root-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.3/orqueio-cdi-compatibility-root-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/1.0.4/orqueio-cdi-compatibility-root-1.0.4.jar returned status 404
@@ -15,3 +16,4 @@
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/2.0.2/orqueio-cdi-compatibility-root-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/2.0.3/orqueio-cdi-compatibility-root-2.0.3.jar returned status 404
 2.0.4		2026-06-03T12:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/2.0.4/orqueio-cdi-compatibility-root-2.0.4.jar returned status 404
+2.0.5		2026-06-18T16:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-cdi-compatibility-root/2.0.5/orqueio-cdi-compatibility-root-2.0.5.jar returned status 404

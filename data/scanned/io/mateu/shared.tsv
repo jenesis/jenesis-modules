@@ -69,3 +69,13 @@
 3.0-alpha.191		2026-06-12T09:23:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.191/shared-3.0-alpha.191.jar returned status 404
 3.0-alpha.192		2026-06-12T16:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.192/shared-3.0-alpha.192.jar returned status 404
 3.0-alpha.193		2026-06-16T07:18:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.193/shared-3.0-alpha.193.jar returned status 404
+3.0-alpha.194		2026-06-20T15:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.194/shared-3.0-alpha.194.jar returned status 404
+3.0-alpha.195		2026-06-21T09:45:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.195/shared-3.0-alpha.195.jar returned status 404
+3.0-alpha.196		2026-06-21T10:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.196/shared-3.0-alpha.196.jar returned status 404
+3.0-alpha.197		2026-06-21T10:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.197/shared-3.0-alpha.197.jar returned status 404
+3.0-alpha.198		2026-06-21T11:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.198/shared-3.0-alpha.198.jar returned status 404
+3.0-alpha.199		2026-06-21T11:09:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.199/shared-3.0-alpha.199.jar returned status 404
+3.0-alpha.200		2026-06-21T11:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.200/shared-3.0-alpha.200.jar returned status 404
+3.0-alpha.201		2026-06-21T12:14:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.201/shared-3.0-alpha.201.jar returned status 404
+3.0-alpha.202		2026-06-21T15:35:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.202/shared-3.0-alpha.202.jar returned status 404
+3.0-alpha.203		2026-06-21T16:22:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/shared/3.0-alpha.203/shared-3.0-alpha.203.jar returned status 404

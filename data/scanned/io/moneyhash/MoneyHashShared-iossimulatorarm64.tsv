@@ -16,6 +16,8 @@
 078c3c5	metadata	2024-09-11T09:27:45Z	
 080a7b9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/080a7b9/MoneyHashShared-iossimulatorarm64-080a7b9.jar returned status 404
 080a7b9	metadata	2026-02-03T10:05:01Z	
+0843025		2026-06-21T15:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/0843025/MoneyHashShared-iossimulatorarm64-0843025.jar returned status 404
+0843025	metadata	2026-06-21T15:15:39Z	
 0957958			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/0957958/MoneyHashShared-iossimulatorarm64-0957958.jar returned status 404
 0957958	metadata	2025-05-15T11:12:16Z	
 0d2fb44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/0d2fb44/MoneyHashShared-iossimulatorarm64-0d2fb44.jar returned status 404
@@ -150,6 +152,8 @@
 8a20b91	metadata	2026-05-05T13:39:13Z	
 8c708de			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/8c708de/MoneyHashShared-iossimulatorarm64-8c708de.jar returned status 404
 8c708de	metadata	2024-10-04T11:31:31Z	
+946467d		2026-06-22T17:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/946467d/MoneyHashShared-iossimulatorarm64-946467d.jar returned status 404
+946467d	metadata	2026-06-22T17:20:28Z	
 97e2def			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/97e2def/MoneyHashShared-iossimulatorarm64-97e2def.jar returned status 404
 97e2def	metadata	2024-10-20T08:56:32Z	
 98f9c81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/98f9c81/MoneyHashShared-iossimulatorarm64-98f9c81.jar returned status 404

@@ -116,6 +116,8 @@
 2.28.0-alpha	all	2026-05-19T03:32:04Z	
 2.28.1-alpha		2026-05-20T22:51:11Z	
 2.28.1-alpha	all	2026-05-20T22:51:03Z	
+2.29.0-alpha		2026-06-19T02:37:47Z	
+2.29.0-alpha	all	2026-06-19T02:37:58Z	
 2.3.0-alpha		2024-04-12T00:21:44Z	
 2.3.0-alpha	all		InvalidModuleDescriptorException: Package io.opentelemetry.javaagent.slf4j.simple missing from ModulePackages class file attribute
 2.4.0-alpha		2024-05-18T02:45:25Z	
