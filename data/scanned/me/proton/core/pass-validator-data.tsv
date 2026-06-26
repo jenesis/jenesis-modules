@@ -25,3 +25,4 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/pass-validator-data/36.4.2/pass-validator-data-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/pass-validator-data/36.5.0/pass-validator-data-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/pass-validator-data/36.6.0/pass-validator-data-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/pass-validator-data/36.6.1/pass-validator-data-36.6.1.jar returned status 404

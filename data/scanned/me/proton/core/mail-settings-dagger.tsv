@@ -132,6 +132,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/36.4.2/mail-settings-dagger-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/36.5.0/mail-settings-dagger-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/36.6.0/mail-settings-dagger-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/36.6.1/mail-settings-dagger-36.6.1.jar returned status 404
 7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/7.1.10/mail-settings-dagger-7.1.10.jar returned status 404
 7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/7.1.11/mail-settings-dagger-7.1.11.jar returned status 404
 7.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/mail-settings-dagger/7.1.9/mail-settings-dagger-7.1.9.jar returned status 404

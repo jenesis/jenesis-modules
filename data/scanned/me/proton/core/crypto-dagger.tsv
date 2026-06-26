@@ -132,6 +132,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/36.4.2/crypto-dagger-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/36.5.0/crypto-dagger-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/36.6.0/crypto-dagger-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/36.6.1/crypto-dagger-36.6.1.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/9.0.0/crypto-dagger-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/9.0.1/crypto-dagger-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto-dagger/9.0.2/crypto-dagger-9.0.2.jar returned status 404

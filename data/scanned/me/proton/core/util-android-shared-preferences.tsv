@@ -139,6 +139,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/36.4.2/util-android-shared-preferences-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/36.5.0/util-android-shared-preferences-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/36.6.0/util-android-shared-preferences-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/36.6.1/util-android-shared-preferences-36.6.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/4.0.0/util-android-shared-preferences-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/4.1.0/util-android-shared-preferences-4.1.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-shared-preferences/5.0.0/util-android-shared-preferences-5.0.0.jar returned status 404

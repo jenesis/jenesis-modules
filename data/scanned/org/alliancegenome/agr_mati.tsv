@@ -36,6 +36,10 @@ v0.26.0-rc2		2026-06-11T12:12:45Z	IOException: Tail request on https://maven-cen
 v0.26.0-rc4		2026-06-11T13:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.26.0-rc4/agr_mati-v0.26.0-rc4.jar returned status 404
 v0.27.0		2026-06-15T14:05:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.27.0/agr_mati-v0.27.0.jar returned status 404
 v0.27.0-rc1		2026-06-15T13:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.27.0-rc1/agr_mati-v0.27.0-rc1.jar returned status 404
+v0.28.0		2026-06-18T15:41:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.28.0/agr_mati-v0.28.0.jar returned status 404
+v0.28.0-rc1		2026-06-18T15:37:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.28.0-rc1/agr_mati-v0.28.0-rc1.jar returned status 404
+v0.29.0		2026-06-18T16:13:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.29.0/agr_mati-v0.29.0.jar returned status 404
+v0.29.0-rc1		2026-06-18T16:09:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alliancegenome/agr_mati/v0.29.0-rc1/agr_mati-v0.29.0-rc1.jar returned status 404
 v0.3.0		2022-10-28T12:33:35Z	
 v0.3.0-rc1		2022-10-28T10:05:12Z	
 v0.4.0		2022-11-18T14:24:11Z	

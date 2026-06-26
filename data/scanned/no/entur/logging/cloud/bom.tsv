@@ -65,3 +65,4 @@
 6.1.4		2026-06-09T09:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/logging/cloud/bom/6.1.4/bom-6.1.4.jar returned status 404
 6.1.5		2026-06-16T08:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/logging/cloud/bom/6.1.5/bom-6.1.5.jar returned status 404
 6.1.6		2026-06-16T13:04:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/logging/cloud/bom/6.1.6/bom-6.1.6.jar returned status 404
+7.0.0		2026-06-22T12:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/logging/cloud/bom/7.0.0/bom-7.0.0.jar returned status 404

@@ -23,6 +23,9 @@
 0.1.33		2026-06-15T07:46:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.33/javelle-bom-0.1.33.jar returned status 404
 0.1.34		2026-06-15T07:50:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.34/javelle-bom-0.1.34.jar returned status 404
 0.1.36		2026-06-16T17:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.36/javelle-bom-0.1.36.jar returned status 404
+0.1.37		2026-06-19T02:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.37/javelle-bom-0.1.37.jar returned status 404
+0.1.38		2026-06-19T20:03:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.38/javelle-bom-0.1.38.jar returned status 404
+0.1.39		2026-06-21T02:36:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.39/javelle-bom-0.1.39.jar returned status 404
 0.1.5		2026-06-02T03:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.5/javelle-bom-0.1.5.jar returned status 404
 0.1.6		2026-06-02T03:32:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.6/javelle-bom-0.1.6.jar returned status 404
 0.1.7		2026-06-02T06:06:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle-bom/0.1.7/javelle-bom-0.1.7.jar returned status 404

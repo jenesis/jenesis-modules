@@ -4,3 +4,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/xgboost-jvm_2.13/3.1.0/xgboost-jvm_2.13-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/xgboost-jvm_2.13/3.1.1/xgboost-jvm_2.13-3.1.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/xgboost-jvm_2.13/3.2.0/xgboost-jvm_2.13-3.2.0.jar returned status 404
+3.3.0		2026-06-18T17:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/xgboost-jvm_2.13/3.3.0/xgboost-jvm_2.13-3.3.0.jar returned status 404

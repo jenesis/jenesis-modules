@@ -132,6 +132,7 @@
 36.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/36.4.2/observability-data-36.4.2.jar returned status 404
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/36.5.0/observability-data-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/36.6.0/observability-data-36.6.0.jar returned status 404
+36.6.1		2026-06-18T16:31:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/36.6.1/observability-data-36.6.1.jar returned status 404
 9.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/9.10.0/observability-data-9.10.0.jar returned status 404
 9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/9.10.1/observability-data-9.10.1.jar returned status 404
 9.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/observability-data/9.11.0/observability-data-9.11.0.jar returned status 404

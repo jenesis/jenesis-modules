@@ -9,3 +9,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/representable-contract-state-parent/2.1.0/representable-contract-state-parent-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/representable-contract-state-parent/2.2.0/representable-contract-state-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/representable-contract-state-parent/2.2.1/representable-contract-state-parent-2.2.1.jar returned status 404
+2.2.2		2026-06-22T17:17:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/representable-contract-state-parent/2.2.2/representable-contract-state-parent-2.2.2.jar returned status 404

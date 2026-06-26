@@ -22,5 +22,6 @@
 2.1.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.31/bang-pom-2.1.31.jar returned status 404
 2.1.32		2026-05-19T20:26:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.32/bang-pom-2.1.32.jar returned status 404
 2.1.33		2026-06-13T06:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.33/bang-pom-2.1.33.jar returned status 404
+2.1.34		2026-06-17T19:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.34/bang-pom-2.1.34.jar returned status 404
 2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.8/bang-pom-2.1.8.jar returned status 404
 2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/pom/bang-pom/2.1.9/bang-pom-2.1.9.jar returned status 404
