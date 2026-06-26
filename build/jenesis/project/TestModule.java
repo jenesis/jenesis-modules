@@ -29,13 +29,13 @@ public class TestModule implements BuildExecutorModule {
     private final boolean jarsOnly;
     private final boolean requireEngine;
     private final Pinning pinning;
-    private final PathPlacement modulePath;
+    private final PathPlacement pathPlacement;
     private final String moduleName;
     private final String filter;
-    private final String group;
+    private final String tag;
     private final boolean parallel;
     private final boolean reporting;
-    private final String dependencyGroup;
+    private final String group;
     private final List<ObservabilityEngine> observers;
 
     public TestModule(Map<String, Repository> repositories, Map<String, Resolver> resolvers) {
@@ -65,7 +65,7 @@ public class TestModule implements BuildExecutorModule {
                 PathPlacement.CLASS_PATH,
                 null,
                 System.getProperty("jenesis.test.filter"),
-                System.getProperty("jenesis.test.group"),
+                System.getProperty("jenesis.test.tag"),
                 Boolean.getBoolean("jenesis.test.parallel"),
                 Boolean.getBoolean("jenesis.test.reporting"),
                 "main",
@@ -80,13 +80,13 @@ public class TestModule implements BuildExecutorModule {
                        boolean jarsOnly,
                        boolean requireEngine,
                        Pinning pinning,
-                       PathPlacement modulePath,
+                       PathPlacement pathPlacement,
                        String moduleName,
                        String filter,
-                       String group,
+                       String tag,
                        boolean parallel,
                        boolean reporting,
-                       String dependencyGroup,
+                       String group,
                        List<ObservabilityEngine> observers) {
         this.engine = engine;
         this.isTest = isTest;
@@ -96,13 +96,13 @@ public class TestModule implements BuildExecutorModule {
         this.jarsOnly = jarsOnly;
         this.requireEngine = requireEngine;
         this.pinning = pinning;
-        this.modulePath = modulePath;
+        this.pathPlacement = pathPlacement;
         this.moduleName = moduleName;
         this.filter = filter;
-        this.group = group;
+        this.tag = tag;
         this.parallel = parallel;
         this.reporting = reporting;
-        this.dependencyGroup = dependencyGroup;
+        this.group = group;
         this.observers = observers;
     }
 
@@ -115,13 +115,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -134,13 +134,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -153,13 +153,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -172,13 +172,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -191,13 +191,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -210,13 +210,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -229,17 +229,17 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
-    public TestModule modulePath(PathPlacement modulePath) {
+    public TestModule pathPlacement(PathPlacement pathPlacement) {
         return new TestModule(engine,
                 isTest,
                 factory,
@@ -248,13 +248,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -267,13 +267,32 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
+                observers);
+    }
+
+    public TestModule tag(String tag) {
+        return new TestModule(engine,
+                isTest,
+                factory,
+                repositories,
+                resolvers,
+                jarsOnly,
+                requireEngine,
+                pinning,
+                pathPlacement,
+                moduleName,
+                filter,
+                tag,
+                parallel,
+                reporting,
+                group,
                 observers);
     }
 
@@ -286,32 +305,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
-                observers);
-    }
-
-    public TestModule dependencyGroup(String dependencyGroup) {
-        return new TestModule(engine,
-                isTest,
-                factory,
-                repositories,
-                resolvers,
-                jarsOnly,
-                requireEngine,
-                pinning,
-                modulePath,
-                moduleName,
-                filter,
                 group,
-                parallel,
-                reporting,
-                dependencyGroup,
                 observers);
     }
 
@@ -324,13 +324,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -343,13 +343,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -366,13 +366,13 @@ public class TestModule implements BuildExecutorModule {
                 jarsOnly,
                 requireEngine,
                 pinning,
-                modulePath,
+                pathPlacement,
                 moduleName,
                 filter,
-                group,
+                tag,
                 parallel,
                 reporting,
-                dependencyGroup,
+                group,
                 observers);
     }
 
@@ -394,25 +394,28 @@ public class TestModule implements BuildExecutorModule {
             }
         }
         SequencedSet<String> upstream = inherited.sequencedKeySet();
-        buildExecutor.addStep(RESOLVED, new Requires(dependencyGroup, resolved, Set.copyOf(resolvers.keySet()), observers), upstream);
+        buildExecutor.addStep(RESOLVED, new Requires(group, resolved, Set.copyOf(resolvers.keySet()), observers), upstream);
         SequencedSet<String> resolveInputs = new LinkedHashSet<>();
         resolveInputs.add(RESOLVED);
         resolveInputs.addAll(upstream);
         buildExecutor.addStep(DEPENDENCIES,
                 new Dependencies(repositories, resolvers).pinning(pinning),
                 resolveInputs);
+        String incrementalProperty = System.getProperty("jenesis.test.incremental");
         buildExecutor.addStep(EXECUTED, new Run(
                         factory,
                         resolved,
                         isTest,
                         jarsOnly,
-                        modulePath,
+                        pathPlacement,
                         moduleName,
                         filter,
-                        group,
+                        tag,
                         parallel,
                         reporting,
-                        observers),
+                        group,
+                        observers,
+                        incrementalProperty == null ? null : incrementalProperty.isEmpty() ? "MD5" : incrementalProperty),
                 Stream.concat(upstream.stream(), Stream.of(DEPENDENCIES)));
     }
 
@@ -477,7 +480,7 @@ public class TestModule implements BuildExecutorModule {
             }
             for (ObservabilityEngine observer : observers) {
                 for (Map.Entry<String, String> entry : observer.coordinates().entrySet()) {
-                    properties.setProperty(observer.name() + "/runtime/" + entry.getKey() + "/" + entry.getValue(), "");
+                    properties.setProperty(group + "/agent/" + entry.getKey() + "/" + entry.getValue(), "");
                 }
             }
             properties.store(context.next().resolve(BuildStep.REQUIRES));
@@ -494,36 +497,42 @@ public class TestModule implements BuildExecutorModule {
         private final Predicate<String> isTest;
         private final String moduleName;
         private final String filter;
-        private final String group;
+        private final String tag;
         private final transient boolean parallel;
         private final boolean reporting;
+        private final String group;
         private final List<ObservabilityEngine> observers;
+        private final transient String incrementalDigest;
 
         private Run(Function<List<String>, ProcessHandler.OfProcess> factory,
                     TestEngine engine,
                     Predicate<String> isTest,
                     boolean jarsOnly,
-                    PathPlacement modulePath,
+                    PathPlacement pathPlacement,
                     String moduleName,
                     String filter,
-                    String group,
+                    String tag,
                     boolean parallel,
                     boolean reporting,
-                    List<ObservabilityEngine> observers) {
-            super(factory == null ? ProcessHandler.OfProcess.ofJavaHome("bin/java") : factory, modulePath, jarsOnly);
+                    String group,
+                    List<ObservabilityEngine> observers,
+                    String incrementalDigest) {
+            super(factory == null ? ProcessHandler.OfProcess.ofJavaHome("bin/java") : factory, pathPlacement, jarsOnly, group);
             this.engine = engine;
             this.isTest = isTest;
             this.moduleName = moduleName;
             this.filter = filter;
-            this.group = group;
+            this.tag = tag;
             this.parallel = parallel;
             this.reporting = reporting;
+            this.group = group;
             this.observers = observers;
+            this.incrementalDigest = incrementalDigest;
         }
 
         @Override
         public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
-            return filter != null || group != null || super.shouldRun(arguments);
+            return filter != null || tag != null || super.shouldRun(arguments);
         }
 
         @Override
@@ -536,16 +545,16 @@ public class TestModule implements BuildExecutorModule {
                     : TestEngine.of(() -> arguments.values().stream().map(BuildStepArgument::folder).iterator())
                     .orElseThrow(() -> new IllegalArgumentException("No test engine found"));
             List<TestSpec> specs = TestSpec.parse(filter);
-            SequencedSet<String> groups = groups(group);
+            SequencedSet<String> groups = groups(tag);
             List<String> commands = new ArrayList<>();
             for (ObservabilityEngine observer : observers) {
-                commands.addAll(observer.commands(agentJars(arguments, observer), context.next()));
+                commands.addAll(observer.commands(agentJars(arguments, observer, group), context.next()));
             }
             for (Map.Entry<String, String> entry : resolved.properties().entrySet()) {
                 commands.add("-D" + entry.getKey() + "=" + entry.getValue());
             }
-            if (modulePath.modular() && resolved.runnerModule() != null) {
-                if (modulePath == PathPlacement.MODULE_PATH && moduleName != null) {
+            if (pathPlacement.modular() && resolved.runnerModule() != null) {
+                if (moduleName != null) {
                     commands.add("--add-modules");
                     commands.add(moduleName);
                 }
@@ -596,14 +605,21 @@ public class TestModule implements BuildExecutorModule {
             if (matchedClasses.isEmpty() && matchedMethods.isEmpty() && groups.isEmpty()) {
                 throw new IllegalStateException("No tests matched the requested selection"
                         + (filter != null ? ", filter: " + filter : "")
-                        + (group != null ? ", group: " + group : "")
-                        + ". Adjust jenesis.test.filter / jenesis.test.group or the isTest predicate,"
+                        + (tag != null ? ", tag: " + tag : "")
+                        + ". Adjust jenesis.test.filter / jenesis.test.tag or the isTest predicate,"
                         + " or set jenesis.test.skip to skip testing.");
+            }
+            SequencedSet<String> selection = matchedClasses;
+            if (incrementalDigest != null && filter == null && tag == null && !matchedClasses.isEmpty()) {
+                SequencedSet<String> narrowed = selected(arguments, context, matchedClasses);
+                if (narrowed != null && !narrowed.isEmpty()) {
+                    selection = narrowed;
+                }
             }
             commands.addAll(resolved.commands(
                     context.supplement(),
                     context.next(),
-                    matchedClasses,
+                    selection,
                     matchedMethods,
                     groups,
                     parallel,
@@ -611,8 +627,86 @@ public class TestModule implements BuildExecutorModule {
             return CompletableFuture.completedFuture(commands);
         }
 
+        private SequencedSet<String> selected(SequencedMap<String, BuildStepArgument> arguments,
+                                              BuildStepContext context,
+                                              SequencedSet<String> candidates) throws IOException {
+            Map<String, byte[]> classes = new LinkedHashMap<>();
+            for (BuildStepArgument argument : arguments.values()) {
+                Path folder = argument.folder().resolve(CLASSES);
+                if (Files.isDirectory(folder)) {
+                    Files.walkFileTree(folder, new SimpleFileVisitor<>() {
+                        @Override
+                        public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                            String name = folder.relativize(file).toString();
+                            if (name.endsWith(".class") && !name.equals("module-info.class")) {
+                                classes.putIfAbsent(name.substring(0, name.length() - 6).replace(File.separatorChar, '.'),
+                                        Files.readAllBytes(file));
+                            }
+                            return FileVisitResult.CONTINUE;
+                        }
+                    });
+                }
+                for (Path jar : Dependencies.select(argument.folder(), group, "runtime")) {
+                    if (!Files.isRegularFile(jar)) {
+                        continue;
+                    }
+                    try (JarFile archive = new JarFile(jar.toFile())) {
+                        Enumeration<JarEntry> entries = archive.entries();
+                        while (entries.hasMoreElements()) {
+                            JarEntry entry = entries.nextElement();
+                            String name = entry.getName();
+                            if (name.endsWith(".class") && !name.startsWith("META-INF/") && !name.equals("module-info.class")) {
+                                try (InputStream input = archive.getInputStream(entry)) {
+                                    classes.putIfAbsent(name.substring(0, name.length() - 6).replace('/', '.'), input.readAllBytes());
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            MessageDigest digest;
+            try {
+                digest = MessageDigest.getInstance(incrementalDigest);
+            } catch (NoSuchAlgorithmException e) {
+                throw new IllegalStateException(e);
+            }
+            SequencedProperties current = new SequencedProperties();
+            for (Map.Entry<String, byte[]> entry : classes.entrySet()) {
+                current.setProperty(entry.getKey(), HexFormat.of().formatHex(digest.digest(entry.getValue())));
+            }
+            current.store(context.next().resolve("test-selection.properties"));
+            Path baseline = context.previous() == null ? null : context.previous().resolve("test-selection.properties");
+            if (baseline == null || !Files.exists(baseline)) {
+                return null;
+            }
+            SequencedProperties previous = SequencedProperties.ofFiles(baseline);
+            for (String name : previous.stringPropertyNames()) {
+                if (current.getProperty(name) == null) {
+                    return null;
+                }
+            }
+            SequencedSet<String> changed = new LinkedHashSet<>();
+            for (String name : current.stringPropertyNames()) {
+                if (!current.getProperty(name).equals(previous.getProperty(name))) {
+                    changed.add(name);
+                }
+            }
+            if (changed.isEmpty()) {
+                return null;
+            }
+            SequencedSet<String> impacted = TestSelection.of(classes).impacted(changed);
+            SequencedSet<String> result = new TreeSet<>();
+            for (String candidate : candidates) {
+                if (impacted.contains(candidate)) {
+                    result.add(candidate);
+                }
+            }
+            return result;
+        }
+
         private static SequencedMap<String, Path> agentJars(SequencedMap<String, BuildStepArgument> arguments,
-                                                            ObservabilityEngine observer) throws IOException {
+                                                            ObservabilityEngine observer,
+                                                            String group) throws IOException {
             SequencedMap<String, Path> resolved = new LinkedHashMap<>();
             for (BuildStepArgument argument : arguments.values()) {
                 Path file = argument.folder().resolve(BuildStep.DEPENDENCIES);
@@ -621,7 +715,7 @@ public class TestModule implements BuildExecutorModule {
                 }
                 SequencedProperties properties = SequencedProperties.ofFiles(file);
                 for (String coordinate : observer.coordinates().sequencedKeySet()) {
-                    String prefix = observer.name() + "/runtime/" + coordinate + "/";
+                    String prefix = group + "/agent/" + coordinate + "/";
                     for (String key : properties.stringPropertyNames()) {
                         if (key.startsWith(prefix)) {
                             String value = properties.getProperty(key);
@@ -637,12 +731,12 @@ public class TestModule implements BuildExecutorModule {
             return resolved;
         }
 
-        private static SequencedSet<String> groups(String group) {
-            if (group == null || group.isBlank()) {
+        private static SequencedSet<String> groups(String tag) {
+            if (tag == null || tag.isBlank()) {
                 return Collections.emptyNavigableSet();
             }
             SequencedSet<String> groups = new LinkedHashSet<>();
-            for (String entry : group.split(",")) {
+            for (String entry : tag.split(",")) {
                 String trimmed = entry.trim();
                 if (!trimmed.isEmpty()) {
                     groups.add(trimmed);

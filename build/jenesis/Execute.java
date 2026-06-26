@@ -25,7 +25,7 @@ public record Execute(Project project, String mainClass, String module) {
     }
 
     private int doExecute(boolean mainMethod, String... arguments) throws IOException, InterruptedException {
-        String selector = module != null ? "+" + module : Project.BUILD;
+        String selector = module != null ? "+" + module.replace('/', '+') : Project.BUILD;
         SequencedMap<String, Path> outputs = mainMethod ? project.doMain(selector) : project.build(selector);
         SequencedProperties merged = new SequencedProperties();
         SequencedMap<String, Path> sourceByPrefix = new LinkedHashMap<>();
@@ -45,7 +45,7 @@ public record Execute(Project project, String mainClass, String module) {
         }
         String selectedPrefix = module == null
                 ? null
-                : (module.isEmpty() ? "module" : "module-" + module);
+                : (module.isEmpty() ? "module" : "module-" + module.replace('+', '/'));
         if (selectedPrefix != null && !sourceByPrefix.containsKey(selectedPrefix)) {
             throw new IllegalStateException("No module at path: " + (module.isEmpty() ? "<root>" : module));
         }
@@ -99,15 +99,20 @@ public record Execute(Project project, String mainClass, String module) {
         }
         List<String> javaArgs = new ArrayList<>();
         if (candidate.module != null) {
+            boolean selfContainedModuleGraph = true;
             List<String> modulePath = new ArrayList<>(), classPath = new ArrayList<>();
             for (String jar : jars) {
-                (PathPlacement.INFERRED.test(Path.of(jar)) ? modulePath : classPath).add(jar);
+                ModuleDescriptor descriptor = PathPlacement.moduleDescriptor(Path.of(jar));
+                (descriptor != null ? modulePath : classPath).add(jar);
+                selfContainedModuleGraph &= descriptor != null && !descriptor.isAutomatic();
             }
             javaArgs.add("--module-path");
             javaArgs.add(String.join(File.pathSeparator, modulePath));
             if (!classPath.isEmpty()) {
                 javaArgs.add("--class-path");
                 javaArgs.add(String.join(File.pathSeparator, classPath));
+            }
+            if (!selfContainedModuleGraph) {
                 javaArgs.add("--add-modules");
                 javaArgs.add("ALL-MODULE-PATH");
             }
@@ -123,7 +128,7 @@ public record Execute(Project project, String mainClass, String module) {
             String image = System.getProperty("jenesis.execute.docker.image");
             Path root = project.root().toAbsolutePath().normalize();
             DockerizedJava docker = image == null ? new DockerizedJava(root) : new DockerizedJava(root, image);
-            for (Path path : List.of(project.target(), project.cache())) {
+            for (Path path : List.of(project.target(), project.artifacts())) {
                 Path absolute = (path.isAbsolute() ? path : root.resolve(path)).normalize();
                 if (!absolute.startsWith(root)) {
                     docker = docker.mount(absolute, absolute.toString(), false);

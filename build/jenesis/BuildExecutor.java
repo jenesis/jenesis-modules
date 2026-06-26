@@ -10,29 +10,47 @@ public interface BuildExecutor {
         return new Configuration().of(target);
     }
 
-    record Configuration(Duration timeout, String digest, boolean verbose, boolean rebuild) {
+    record Configuration(Duration timeout, String digest, boolean verbose, boolean rebuild, BuildExecutorCache cache) {
 
         public Configuration() {
+            String location = System.getProperty("jenesis.cache.uri");
+            BuildExecutorCache cache;
+            if (location == null || location.isEmpty()) {
+                cache = null;
+            } else {
+                URI uri = URI.create(location);
+                cache = switch (uri.getScheme() == null ? "" : uri.getScheme()) {
+                    case "http", "https" -> new BuildExecutorHttpCache(uri);
+                    case "file" -> new BuildExecutorFileCache(Path.of(uri));
+                    default -> throw new IllegalArgumentException(
+                            "Unsupported cache URI scheme (expected http, https, or file): " + location);
+                };
+            }
             this(Duration.parse(System.getProperty("jenesis.executor.timeout", Duration.ZERO.toString())),
                     System.getProperty("jenesis.executor.digest", "MD5"),
                     Boolean.getBoolean("jenesis.print.checksum"),
-                    Boolean.getBoolean("jenesis.executor.rebuild"));
+                    Boolean.getBoolean("jenesis.executor.rebuild"),
+                    cache);
         }
 
         public Configuration timeout(Duration timeout) {
-            return new Configuration(timeout, digest, verbose, rebuild);
+            return new Configuration(timeout, digest, verbose, rebuild, cache);
         }
 
         public Configuration digest(String digest) {
-            return new Configuration(timeout, digest, verbose, rebuild);
+            return new Configuration(timeout, digest, verbose, rebuild, cache);
         }
 
         public Configuration verbose(boolean verbose) {
-            return new Configuration(timeout, digest, verbose, rebuild);
+            return new Configuration(timeout, digest, verbose, rebuild, cache);
         }
 
         public Configuration rebuild(boolean rebuild) {
-            return new Configuration(timeout, digest, verbose, rebuild);
+            return new Configuration(timeout, digest, verbose, rebuild, cache);
+        }
+
+        public Configuration cache(BuildExecutorCache cache) {
+            return new Configuration(timeout, digest, verbose, rebuild, cache);
         }
 
         public BuildExecutor of(Path target) throws IOException {
@@ -41,8 +59,9 @@ public interface BuildExecutor {
                     new HashDigestFunction(digest),
                     BuildStepHashFunction.ofSerializationDigest(digest),
                     Boolean.parseBoolean(System.getProperty("jenesis.print.progress", "true"))
-                            ? BuildExecutorCallback.printing(System.out, verbose, target)
+                            ? BuildExecutorCallback.printing(System.out, verbose, Boolean.getBoolean("jenesis.print.cache"), target)
                             : BuildExecutorCallback.nop(),
+                    cache == null ? BuildExecutorCache.nop() : cache,
                     rebuild);
         }
     }
@@ -52,6 +71,7 @@ public interface BuildExecutor {
                             HashDigestFunction hash,
                             BuildStepHashFunction stepHash,
                             BuildExecutorCallback callback,
+                            BuildExecutorCache cache,
                             boolean rebuild) throws IOException {
         if (rebuild && Files.isDirectory(target)) {
             Files.walkFileTree(target, new SimpleFileVisitor<>() {
@@ -71,7 +91,7 @@ public interface BuildExecutor {
                 }
             });
         }
-        BuildExecutor executor = new BuildExecutorDefault(target, timeout, hash, stepHash, callback, "", Map.of());
+        BuildExecutor executor = new BuildExecutorDefault(target, timeout, hash, stepHash, callback, cache, "", Map.of());
         if (!Files.exists(target.resolve(SKIP_MARKER))) {
             Files.createFile(target.resolve(SKIP_MARKER));
         }

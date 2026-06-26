@@ -4,12 +4,14 @@ import module java.base;
 import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
+import build.jenesis.PathPlacement;
 
 public class JPackage extends JdkProcessBuildStep {
 
     public static final String PACKAGES = "packages/";
 
     private final String type;
+    private final String group;
 
     public JPackage(ProcessHandler.Factory factory) {
         this(factory, null);
@@ -18,6 +20,17 @@ public class JPackage extends JdkProcessBuildStep {
     public JPackage(ProcessHandler.Factory factory, String type) {
         super("jpackage", factory.apply("jpackage", "bin/jpackage"));
         this.type = type;
+        this.group = "main";
+    }
+
+    private JPackage(Function<List<String>, ? extends ProcessHandler> factory, String type, String group) {
+        super("jpackage", factory);
+        this.type = type;
+        this.group = group;
+    }
+
+    public JPackage group(String group) {
+        return new JPackage(factory, type, group);
     }
 
     @Override
@@ -52,27 +65,28 @@ public class JPackage extends JdkProcessBuildStep {
         }
         Path input = Files.createDirectory(context.supplement().resolve("input"));
         SequencedMap<String, Path> staged = new LinkedHashMap<>();
+        boolean selfContainedModuleGraph = true;
         for (BuildStepArgument argument : arguments.values()) {
             List<Path> jars = new ArrayList<>();
-            Path artifactsFolder = argument.folder().resolve(BuildStep.ARTIFACTS);
-            if (Files.exists(artifactsFolder)) {
-                Files.walkFileTree(artifactsFolder, new SimpleFileVisitor<>() {
-                    @Override
-                    public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                        if (file.toString().endsWith(".jar")) {
-                            jars.add(file);
-                        }
-                        return FileVisitResult.CONTINUE;
+            Path artifacts = argument.folder().resolve(BuildStep.ARTIFACTS);
+            if (Files.isDirectory(artifacts)) {
+                try (DirectoryStream<Path> files = Files.newDirectoryStream(artifacts)) {
+                    for (Path file : files) {
+                        jars.add(file);
                     }
-                });
+                }
             }
-            jars.addAll(Dependencies.select(argument.folder(), "runtime"));
+            jars.addAll(Dependencies.select(argument.folder(), group, "runtime"));
             for (Path file : jars) {
                 String name = file.getFileName().toString();
                 Path previous = staged.putIfAbsent(name, file);
                 if (previous != null) {
                     throw new IllegalStateException("Cannot stage two jars with the same file name '"
                             + name + "' into a single jpackage input: " + previous + " and " + file);
+                }
+                if (modular) {
+                    ModuleDescriptor descriptor = PathPlacement.moduleDescriptor(file);
+                    selfContainedModuleGraph &= descriptor != null && !descriptor.isAutomatic();
                 }
                 BuildStep.linkOrCopy(input.resolve(name), file);
             }
@@ -85,11 +99,12 @@ public class JPackage extends JdkProcessBuildStep {
             commands.add("--type");
             commands.add(type);
         }
-        // A modular launcher (`--module`) reads its app from a `--module-path`; a classpath
-        // launcher (`--main-jar`) reads it from an `--input` directory. The staged jars serve
-        // as either, so only the flag differs.
         commands.add(modular ? "--module-path" : "--input");
         commands.add(input.toString());
+        if (modular && !selfContainedModuleGraph) {
+            commands.add("--java-options");
+            commands.add("--add-modules=ALL-MODULE-PATH");
+        }
         commands.add("--dest");
         commands.add(Files.createDirectory(context.next().resolve(PACKAGES)).toString());
         return CompletableFuture.completedStage(commands);

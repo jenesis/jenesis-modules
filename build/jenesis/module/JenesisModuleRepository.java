@@ -10,14 +10,14 @@ public class JenesisModuleRepository implements Repository {
     private final String token;
 
     public JenesisModuleRepository(boolean requireNamedModules) {
-        String uri = System.getenv("JENESIS_REPOSITORY_URI");
+        String uri = System.getProperty("jenesis.module.uri", System.getenv("JENESIS_REPOSITORY_URI"));
         if (uri == null) {
             uri = "https://repo.jenesis.build/";
         } else if (!uri.endsWith("/")) {
             uri = uri + "/";
         }
         this.root = URI.create(uri + (requireNamedModules ? "module/" : "artifact/"));
-        this.token = System.getenv("JENESIS_REPOSITORY_TOKEN");
+        this.token = System.getProperty("jenesis.module.token", System.getenv("JENESIS_REPOSITORY_TOKEN"));
     }
 
     public JenesisModuleRepository(URI root) {
@@ -31,7 +31,7 @@ public class JenesisModuleRepository implements Repository {
     }
 
     public static JenesisModuleRepository ofLocal() {
-        String override = System.getenv("JENESIS_REPOSITORY_LOCAL");
+        String override = System.getProperty("jenesis.module.local", System.getenv("JENESIS_REPOSITORY_LOCAL"));
         Path path = override == null
                 ? Path.of(System.getProperty("user.home")).resolve(".jenesis")
                 : Path.of(override);
@@ -45,8 +45,6 @@ public class JenesisModuleRepository implements Repository {
         String identifier = colon < 0 ? coordinate : coordinate.substring(0, colon);
         Optional<RepositoryItem> item = fetch(identifier, type);
         if (item.isEmpty() && type.equals("jmod")) {
-            // A `:jmod` coordinate is the module's link-time form; it falls back to the jar
-            // when no `.jmod` was published, so a consumer can request it unconditionally.
             return fetch(identifier, "jar");
         }
         return item;
@@ -56,7 +54,6 @@ public class JenesisModuleRepository implements Repository {
         int slash = identifier.indexOf('/');
         String moduleName = slash < 0 ? identifier : identifier.substring(0, slash);
         String version = slash < 0 ? null : identifier.substring(slash + 1);
-        // Module names cannot contain a dash, so a dash always introduces a classifier.
         int dash = moduleName.indexOf('-');
         String classifier = dash < 0 ? null : moduleName.substring(dash + 1);
         if (dash >= 0) {

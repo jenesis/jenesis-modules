@@ -12,6 +12,20 @@ public class Inventory implements BuildStep {
     public static final String INVENTORY = "inventory.properties";
     public static final String POM = "pom.xml";
 
+    private final String group;
+
+    public Inventory() {
+        this("main");
+    }
+
+    private Inventory(String group) {
+        this.group = group;
+    }
+
+    public Inventory group(String group) {
+        return new Inventory(group);
+    }
+
     @Override
     public boolean shouldRun(SequencedMap<String, BuildStepArgument> arguments) {
         return arguments.values().stream().anyMatch(argument -> argument.hasChanged(
@@ -27,6 +41,8 @@ public class Inventory implements BuildStep {
                 Path.of(JPackage.PACKAGES),
                 Path.of(JMod.JMODS),
                 Path.of(JLink.RUNTIME),
+                Path.of(NativeImage.NATIVE),
+                Path.of(NativeImage.METADATA),
                 Path.of(REPORTS)));
     }
 
@@ -40,10 +56,13 @@ public class Inventory implements BuildStep {
         String module = null;
         String tests = null;
         String version = null;
+        String artifact = null;
         Path pomFile = null;
         boolean modular = false;
         Path image = null;
         Path runtimeImage = null;
+        Path nativeBinary = null;
+        Path metadataImage = null;
         SequencedSet<Path> artifacts = new LinkedHashSet<>();
         SequencedSet<Path> sources = new LinkedHashSet<>();
         SequencedSet<Path> documentation = new LinkedHashSet<>();
@@ -79,6 +98,9 @@ public class Inventory implements BuildStep {
                 SequencedProperties properties = SequencedProperties.ofFiles(metadataFile);
                 if (version == null) {
                     version = properties.getProperty("version");
+                }
+                if (artifact == null) {
+                    artifact = properties.getProperty("artifact");
                 }
             }
             Path identityFile = folder.resolve(IDENTITY);
@@ -119,6 +141,14 @@ public class Inventory implements BuildStep {
             if (runtimeImage == null && Files.isDirectory(runtime)) {
                 runtimeImage = runtime;
             }
+            Path nativeOutput = folder.resolve(NativeImage.NATIVE);
+            if (nativeBinary == null && Files.isDirectory(nativeOutput)) {
+                nativeBinary = nativeOutput;
+            }
+            Path metadata = folder.resolve(NativeImage.METADATA);
+            if (metadataImage == null && Files.isDirectory(metadata)) {
+                metadataImage = metadata;
+            }
             collectClosure(folder, closureJars, closureScopes, closureChecksums);
         }
         String prefix = ((path == null || path.isEmpty()) ? "module" : "module-" + path) + ".";
@@ -127,7 +157,7 @@ public class Inventory implements BuildStep {
         for (Map.Entry<String, Path> entry : closureJars.entrySet()) {
             String group = entry.getKey().substring(0, entry.getKey().indexOf('/'));
             String scope = closureScopes.get(entry.getKey());
-            if (group.equals("main") && scope != null && List.of(scope.split(",")).contains("runtime")) {
+            if (group.equals(this.group) && scope != null && List.of(scope.split(",")).contains("runtime")) {
                 runtime.add(entry.getValue());
             }
         }
@@ -169,11 +199,20 @@ public class Inventory implements BuildStep {
         if (runtimeImage != null) {
             inventory.setProperty(prefix + "image", relativize(context, runtimeImage));
         }
+        if (nativeBinary != null) {
+            inventory.setProperty(prefix + "native", relativize(context, nativeBinary));
+        }
+        if (metadataImage != null) {
+            inventory.setProperty(prefix + "nativeimage", relativize(context, metadataImage));
+        }
         if (pomFile != null) {
             inventory.setProperty(prefix + "pom", relativize(context, pomFile));
         }
         if (version != null) {
             inventory.setProperty(prefix + "version", version);
+        }
+        if (artifact != null) {
+            inventory.setProperty(prefix + "artifact", artifact);
         }
         if (tests != null) {
             inventory.setProperty(prefix + "test", tests);

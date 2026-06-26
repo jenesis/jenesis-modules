@@ -12,6 +12,20 @@ public class Bundle implements BuildStep {
 
     public static final String BUNDLE = "bundle/";
 
+    private final String group;
+
+    public Bundle() {
+        this("main");
+    }
+
+    private Bundle(String group) {
+        this.group = group;
+    }
+
+    public Bundle group(String group) {
+        return new Bundle(group);
+    }
+
     @Override
     public CompletionStage<BuildStepResult> apply(Executor executor,
                                                   BuildStepContext context,
@@ -36,20 +50,15 @@ public class Bundle implements BuildStep {
         }
         SequencedMap<String, Path> jars = new TreeMap<>();
         for (BuildStepArgument argument : arguments.values()) {
-            Path folder = argument.folder().resolve(BuildStep.ARTIFACTS);
-            if (Files.exists(folder)) {
-                Files.walkFileTree(folder, new SimpleFileVisitor<>() {
-                    @Override
-                    public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                        String name = file.getFileName().toString();
-                        if (name.endsWith(".jar")) {
-                            jars.putIfAbsent(name, file);
-                        }
-                        return FileVisitResult.CONTINUE;
+            Path artifacts = argument.folder().resolve(BuildStep.ARTIFACTS);
+            if (Files.isDirectory(artifacts)) {
+                try (DirectoryStream<Path> files = Files.newDirectoryStream(artifacts)) {
+                    for (Path file : files) {
+                        jars.putIfAbsent(file.getFileName().toString(), file);
                     }
-                });
+                }
             }
-            for (Path file : Dependencies.select(argument.folder(), "runtime")) {
+            for (Path file : Dependencies.select(argument.folder(), group, "runtime")) {
                 jars.putIfAbsent(file.getFileName().toString(), file);
             }
         }
@@ -57,14 +66,23 @@ public class Bundle implements BuildStep {
             return CompletableFuture.completedStage(new BuildStepResult(true));
         }
         SequencedMap<String, Path> classpath = new LinkedHashMap<>(), modulepath = new LinkedHashMap<>();
+        boolean selfContainedModuleGraph = true;
         for (Map.Entry<String, Path> entry : jars.entrySet()) {
-            boolean onModulePath = mainModule != null && PathPlacement.INFERRED.test(entry.getValue());
-            (onModulePath ? modulepath : classpath).put(entry.getKey(), entry.getValue());
+            if (mainModule != null) {
+                ModuleDescriptor descriptor = PathPlacement.moduleDescriptor(entry.getValue());
+                (descriptor != null ? modulepath : classpath).put(entry.getKey(), entry.getValue());
+                selfContainedModuleGraph &= descriptor != null && !descriptor.isAutomatic();
+            } else {
+                classpath.put(entry.getKey(), entry.getValue());
+            }
         }
         SequencedProperties application = new SequencedProperties();
         application.setProperty("mainClass", mainClass);
         if (mainModule != null) {
             application.setProperty("mainModule", mainModule);
+        }
+        if (!modulepath.isEmpty()) {
+            application.setProperty("selfContainedModuleGraph", Boolean.toString(selfContainedModuleGraph));
         }
         Path descriptor = context.supplement().resolve("application.properties");
         application.store(descriptor);

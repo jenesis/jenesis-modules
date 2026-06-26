@@ -15,10 +15,22 @@ public class Launcher implements BuildStep {
     private static final String MAIN_CLASS = "build.jenesis.launcher.Launcher";
     private static final String LAUNCHER_PREFIX = "build/jenesis/launcher/";
 
+    private final String tool;
     private final String group;
+    private final PathPlacement pathPlacement;
 
-    public Launcher(String group) {
+    public Launcher(String tool, PathPlacement pathPlacement) {
+        this(tool, "main", pathPlacement);
+    }
+
+    private Launcher(String tool, String group, PathPlacement pathPlacement) {
+        this.tool = tool;
         this.group = group;
+        this.pathPlacement = pathPlacement;
+    }
+
+    public Launcher group(String group) {
+        return new Launcher(tool, group, pathPlacement);
     }
 
     @Override
@@ -43,23 +55,18 @@ public class Launcher implements BuildStep {
                     name = application.getProperty("name");
                 }
             }
-            for (Path file : Dependencies.select(argument.folder(), group, "runtime")) {
+            for (Path file : Dependencies.select(argument.folder(), tool, "runtime")) {
                 shaded = file;
             }
-            Path folder = argument.folder().resolve(BuildStep.ARTIFACTS);
-            if (Files.exists(folder)) {
-                Files.walkFileTree(folder, new SimpleFileVisitor<>() {
-                    @Override
-                    public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
-                        String fileName = file.getFileName().toString();
-                        if (fileName.endsWith(".jar")) {
-                            jars.putIfAbsent(fileName, file);
-                        }
-                        return FileVisitResult.CONTINUE;
+            Path artifacts = argument.folder().resolve(BuildStep.ARTIFACTS);
+            if (Files.isDirectory(artifacts)) {
+                try (DirectoryStream<Path> files = Files.newDirectoryStream(artifacts)) {
+                    for (Path file : files) {
+                        jars.putIfAbsent(file.getFileName().toString(), file);
                     }
-                });
+                }
             }
-            for (Path file : Dependencies.select(argument.folder(), "runtime")) {
+            for (Path file : Dependencies.select(argument.folder(), group, "runtime")) {
                 jars.putIfAbsent(file.getFileName().toString(), file);
             }
         }
@@ -68,7 +75,7 @@ public class Launcher implements BuildStep {
         }
         SequencedMap<String, Path> classpath = new LinkedHashMap<>(), modulepath = new LinkedHashMap<>();
         for (Map.Entry<String, Path> entry : jars.entrySet()) {
-            boolean onModulePath = mainModule != null && PathPlacement.INFERRED.test(entry.getValue());
+            boolean onModulePath = mainModule != null && pathPlacement.test(entry.getValue());
             (onModulePath ? modulepath : classpath).put(entry.getKey(), entry.getValue());
         }
         SequencedProperties application = new SequencedProperties();

@@ -13,6 +13,7 @@ class BuildExecutorDefault implements BuildExecutor {
     private final HashDigestFunction hash;
     private final BuildStepHashFunction stepHash;
     private final BuildExecutorCallback callback;
+    private final BuildExecutorCache cache;
     private final String location;
 
     private final Map<String, StepSummary> inherited;
@@ -23,6 +24,7 @@ class BuildExecutorDefault implements BuildExecutor {
                          HashDigestFunction hash,
                          BuildStepHashFunction stepHash,
                          BuildExecutorCallback callback,
+                         BuildExecutorCache cache,
                          String location,
                          Map<String, StepSummary> inherited) throws IOException {
         this.target = Files.isDirectory(target) ? target : Files.createDirectory(target);
@@ -30,6 +32,7 @@ class BuildExecutorDefault implements BuildExecutor {
         this.hash = hash;
         this.stepHash = stepHash;
         this.callback = callback;
+        this.cache = cache;
         this.location = location;
         this.inherited = inherited;
     }
@@ -123,9 +126,11 @@ class BuildExecutorDefault implements BuildExecutor {
                     consistent = false;
                 }
                 SequencedMap<String, BuildStepArgument> arguments = new LinkedHashMap<>();
+                SequencedMap<String, Map<Path, byte[]>> inputs = new LinkedHashMap<>();
                 for (Map.Entry<String, StepSummary> entry : summaries.entrySet()) {
                     Path checksums = checksum.resolve("argument." + BuildExecutorModule.encode(entry.getKey()) + ".properties");
                     Map<Path, byte[]> argumentChecksums = entry.getValue().checksums();
+                    inputs.put(entry.getKey(), argumentChecksums);
                     arguments.put(entry.getKey(), new BuildStepArgument(
                             entry.getValue().folder(),
                             consistent && Files.exists(checksums)
@@ -137,16 +142,31 @@ class BuildExecutorDefault implements BuildExecutor {
                         new LinkedHashSet<>(summaries.keySet()));
                 if (!consistent || step.shouldRun(arguments)) {
                     Path next = Files.createTempDirectory(target, BuildExecutorModule.encode(identity));
-                    CompletionStage<BuildStepResult> stepStage = step.apply(executor,
-                            new BuildStepContext(
-                                    consistent ? output : null,
-                                    Files.createDirectory(next.resolve("output")),
-                                    Files.createDirectory(next.resolve("supplement"))),
-                            arguments);
-                    if (!timeout.isZero()) {
-                        stepStage = stepStage.toCompletableFuture().orTimeout(
-                                timeout.toNanos(),
-                                TimeUnit.NANOSECONDS);
+                    Path nextOutput = Files.createDirectory(next.resolve("output"));
+                    Path nextSupplement = Files.createDirectory(next.resolve("supplement"));
+                    long fetchStarted = System.nanoTime();
+                    Optional<BuildStepResult> cached = cache.fetch(
+                            executor,
+                            location + identity,
+                            currentStepHash,
+                            inputs,
+                            nextOutput);
+                    boolean fromCache = cached.isPresent();
+                    if (fromCache) {
+                        callback.loaded(location + identity, System.nanoTime() - fetchStarted);
+                    }
+                    CompletionStage<BuildStepResult> stepStage;
+                    if (fromCache) {
+                        stepStage = CompletableFuture.completedStage(cached.get());
+                    } else {
+                        stepStage = step.apply(executor,
+                                new BuildStepContext(consistent ? output : null, nextOutput, nextSupplement),
+                                arguments);
+                        if (!timeout.isZero()) {
+                            stepStage = stepStage.toCompletableFuture().orTimeout(
+                                    timeout.toNanos(),
+                                    TimeUnit.NANOSECONDS);
+                        }
                     }
                     return stepStage.thenComposeAsync(result -> {
                         try {
@@ -171,6 +191,20 @@ class BuildExecutorDefault implements BuildExecutor {
                             SequencedProperties stepProperties = new SequencedProperties();
                             stepProperties.setProperty("serialization", HexFormat.of().formatHex(currentStepHash));
                             stepProperties.store(checksum.resolve("step.properties"));
+                            if (cache.stores() && !fromCache && result.next()) {
+                                String stored = location + identity;
+                                try {
+                                    executor.execute(() -> {
+                                        long storeStarted = System.nanoTime();
+                                        try {
+                                            cache.store(executor, stored, currentStepHash, inputs, output);
+                                        } catch (IOException _) {
+                                        }
+                                        callback.stored(stored, System.nanoTime() - storeStarted);
+                                    });
+                                } catch (RejectedExecutionException _) {
+                                }
+                            }
                             completion.accept(result.next(), null);
                             return CompletableFuture.completedStage(Map.of(
                                     identity,
@@ -194,6 +228,10 @@ class BuildExecutorDefault implements BuildExecutor {
                     }, executor);
                 } else {
                     completion.accept(false, null);
+                    try {
+                        cache.touch(executor, location + identity, currentStepHash, inputs);
+                    } catch (IOException _) {
+                    }
                     return CompletableFuture.completedStage(Map.of(identity, Map.of(
                             identity,
                             new StepSummary(output, current))));
@@ -261,6 +299,7 @@ class BuildExecutorDefault implements BuildExecutor {
                             hash,
                             stepHash,
                             callback,
+                            cache,
                             location + prefix + "/",
                             inherited);
                     module.accept(buildExecutor, folders);

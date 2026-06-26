@@ -38,7 +38,7 @@ public class ModularStaging implements BuildStep {
             }
             String moduleName = inventory.getProperty(prefix + ".module");
             if (moduleName == null) {
-                throw new IllegalStateException("Missing 'module' in inventory: " + inventoryFile);
+                continue;
             }
             Path artifact = single(Inventory.paths(inventory, argument.folder(), prefix + ".artifacts"),
                     prefix, "artifacts", true, ".jar", inventoryFile);
@@ -48,6 +48,8 @@ public class ModularStaging implements BuildStep {
                     prefix, "documentation", false, ".jar", inventoryFile);
             Path jmod = single(Inventory.paths(inventory, argument.folder(), prefix + ".jmod"),
                     prefix, "jmod", false, ".jmod", inventoryFile);
+            String pomRelative = inventory.getProperty(prefix + ".pom");
+            Path pom = pomRelative == null ? null : argument.folder().resolve(pomRelative).normalize();
             String version = inventory.getProperty(prefix + ".version");
             Path target = version == null
                     ? context.next().resolve(moduleName)
@@ -57,6 +59,7 @@ public class ModularStaging implements BuildStep {
             link(sources, target.resolve(moduleName + "-sources.jar"));
             link(javadoc, target.resolve(moduleName + "-javadoc.jar"));
             link(jmod, target.resolve(moduleName + ".jmod"));
+            link(pom, target.resolve(moduleName + ".pom"));
         }
         return CompletableFuture.completedStage(new BuildStepResult(true));
     }
