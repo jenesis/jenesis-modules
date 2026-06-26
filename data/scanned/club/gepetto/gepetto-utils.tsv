@@ -131,6 +131,7 @@
 1.1.38		2026-06-10T23:24:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.38/gepetto-utils-1.1.38.jar returned status 404
 1.1.39		2026-06-19T13:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.39/gepetto-utils-1.1.39.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.4/gepetto-utils-1.1.4.jar returned status 404
+1.1.40		2026-06-23T15:23:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.40/gepetto-utils-1.1.40.jar returned status 404
 1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.5/gepetto-utils-1.1.5.jar returned status 404
 1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.6/gepetto-utils-1.1.6.jar returned status 404
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/gepetto-utils/1.1.7/gepetto-utils-1.1.7.jar returned status 404

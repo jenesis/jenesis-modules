@@ -19,3 +19,4 @@
 1.4.5		2026-06-14T01:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/mujunhub/mujun/1.4.5/mujun-1.4.5.jar returned status 404
 1.4.6		2026-06-15T03:38:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/mujunhub/mujun/1.4.6/mujun-1.4.6.jar returned status 404
 1.4.7		2026-06-17T03:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/mujunhub/mujun/1.4.7/mujun-1.4.7.jar returned status 404
+1.4.8		2026-06-24T09:09:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/mujunhub/mujun/1.4.8/mujun-1.4.8.jar returned status 404

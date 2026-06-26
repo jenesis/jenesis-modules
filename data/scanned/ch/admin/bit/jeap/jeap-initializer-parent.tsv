@@ -52,6 +52,7 @@
 2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.54.0/jeap-initializer-parent-2.54.0.jar returned status 404
 2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.55.0/jeap-initializer-parent-2.55.0.jar returned status 404
 2.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.56.0/jeap-initializer-parent-2.56.0.jar returned status 404
+2.57.0		2026-06-25T13:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.57.0/jeap-initializer-parent-2.57.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.6.0/jeap-initializer-parent-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.6.1/jeap-initializer-parent-2.6.1.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/2.7.0/jeap-initializer-parent-2.7.0.jar returned status 404
@@ -63,3 +64,4 @@
 4.1.0		2026-06-04T12:14:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/4.1.0/jeap-initializer-parent-4.1.0.jar returned status 404
 4.2.0		2026-06-12T11:54:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/4.2.0/jeap-initializer-parent-4.2.0.jar returned status 404
 4.2.1		2026-06-17T10:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/4.2.1/jeap-initializer-parent-4.2.1.jar returned status 404
+4.3.0		2026-06-23T12:53:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-initializer-parent/4.3.0/jeap-initializer-parent-4.3.0.jar returned status 404
