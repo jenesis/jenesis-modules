@@ -48,5 +48,6 @@
 2.6.3	debug-sources	2025-12-20T12:59:48Z	
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-android/2.7.0/paging-android-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-android/2.8.0/paging-android-2.8.0.jar returned status 404
+2.9.0		2026-06-20T08:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-android/2.9.0/paging-android-2.9.0.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-android/unspecified/paging-android-unspecified.jar returned status 404
 unspecified	debug-sources	2024-06-10T10:08:17Z	
