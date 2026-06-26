@@ -88,6 +88,10 @@
 5.13.0	metadata	2026-06-18T15:28:26Z	
 5.13.1		2026-06-18T18:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.13.1/buffer-compression-macosx64-5.13.1.jar returned status 404
 5.13.1	metadata	2026-06-18T18:22:28Z	
+5.14.0		2026-06-23T18:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.14.0/buffer-compression-macosx64-5.14.0.jar returned status 404
+5.14.0	metadata	2026-06-23T18:11:12Z	
+5.15.0		2026-06-23T23:44:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.15.0/buffer-compression-macosx64-5.15.0.jar returned status 404
+5.15.0	metadata	2026-06-23T23:44:32Z	
 5.2.0		2026-05-26T09:39:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.2.0/buffer-compression-macosx64-5.2.0.jar returned status 404
 5.2.0	metadata	2026-05-26T09:39:54Z	
 5.2.1		2026-06-03T18:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.2.1/buffer-compression-macosx64-5.2.1.jar returned status 404
@@ -114,3 +118,5 @@
 5.8.0	metadata	2026-06-16T21:53:25Z	
 5.9.0		2026-06-16T22:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/5.9.0/buffer-compression-macosx64-5.9.0.jar returned status 404
 5.9.0	metadata	2026-06-16T22:48:05Z	
+6.0.0		2026-06-25T04:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-compression-macosx64/6.0.0/buffer-compression-macosx64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-06-25T04:28:39Z	

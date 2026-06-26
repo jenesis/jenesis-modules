@@ -184,6 +184,7 @@
 6.32.6		2026-06-03T11:58:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.32.6/livestream-6.32.6.jar returned status 404
 6.32.7		2026-06-10T09:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.32.7/livestream-6.32.7.jar returned status 404
 6.32.8		2026-06-15T08:42:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.32.8/livestream-6.32.8.jar returned status 404
+6.33.0		2026-06-23T04:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.33.0/livestream-6.33.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.4.0/livestream-6.4.0.jar returned status 404
 6.4.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.4.0-RC.10/livestream-6.4.0-RC.10.jar returned status 404
 6.4.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/feature/player/livestream/6.4.0-RC.11/livestream-6.4.0-RC.11.jar returned status 404

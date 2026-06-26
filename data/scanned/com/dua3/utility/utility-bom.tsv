@@ -86,3 +86,4 @@
 22.5.0		2026-06-03T09:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/utility/utility-bom/22.5.0/utility-bom-22.5.0.jar returned status 404
 22.6.0		2026-06-08T23:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/utility/utility-bom/22.6.0/utility-bom-22.6.0.jar returned status 404
 22.7.0		2026-06-09T09:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/utility/utility-bom/22.7.0/utility-bom-22.7.0.jar returned status 404
+23.0.0-beta		2026-06-23T08:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/utility/utility-bom/23.0.0-beta/utility-bom-23.0.0-beta.jar returned status 404

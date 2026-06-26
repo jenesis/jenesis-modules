@@ -22,3 +22,5 @@
 8.19.0	metadata	2026-03-13T17:45:36Z	
 8.20.0		2026-05-20T20:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-watchosarm32/8.20.0/curl-libcurl-watchosarm32-8.20.0.jar returned status 404
 8.20.0	metadata	2026-05-20T20:22:21Z	
+8.21.0		2026-06-25T08:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/curl-libcurl-watchosarm32/8.21.0/curl-libcurl-watchosarm32-8.21.0.jar returned status 404
+8.21.0	metadata	2026-06-25T08:34:01Z	
