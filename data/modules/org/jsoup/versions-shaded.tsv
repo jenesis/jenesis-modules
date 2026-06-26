@@ -88,3 +88,5 @@
 3.5.0	named	org.jboss.pnc.bacon	cli	2026-06-16T13:51:42Z	1.22.2
 0.225.3	named	org.finos.legend.sdlc	legend-sdlc-server	2026-06-16T17:49:18Z	1.22.2
 0.225.3	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-06-16T17:49:18Z	1.22.2
+0.225.4	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-06-19T19:28:24Z	1.22.2
+0.225.4	named	org.finos.legend.sdlc	legend-sdlc-server	2026-06-19T19:28:25Z	1.22.2

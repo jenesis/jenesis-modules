@@ -98,3 +98,5 @@
 13.4.0		2026-06-11T15:10:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-engine-parent/13.4.0/dirigible-engine-parent-13.4.0.jar returned status 404
 13.5.0		2026-06-11T19:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-engine-parent/13.5.0/dirigible-engine-parent-13.5.0.jar returned status 404
 13.6.0		2026-06-16T11:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-engine-parent/13.6.0/dirigible-engine-parent-13.6.0.jar returned status 404
+13.7.0		2026-06-19T11:42:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-engine-parent/13.7.0/dirigible-engine-parent-13.7.0.jar returned status 404
+13.8.0		2026-06-21T06:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-engine-parent/13.8.0/dirigible-engine-parent-13.8.0.jar returned status 404
