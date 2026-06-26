@@ -26,3 +26,4 @@
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/atto/commons-wallet-js/6.6.0/commons-wallet-js-6.6.0.jar returned status 404
 6.7.0		2026-05-27T19:04:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/atto/commons-wallet-js/6.7.0/commons-wallet-js-6.7.0.jar returned status 404
 6.7.1		2026-05-28T18:57:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/atto/commons-wallet-js/6.7.1/commons-wallet-js-6.7.1.jar returned status 404
+6.8.0		2026-06-22T09:16:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/atto/commons-wallet-js/6.8.0/commons-wallet-js-6.8.0.jar returned status 404
