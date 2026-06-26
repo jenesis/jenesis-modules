@@ -16,3 +16,5 @@
 1.5.0-alpha02	metadata	2026-06-15T06:07:28Z	
 1.5.0-beta01		2026-06-16T04:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-koin-iosarm64/1.5.0-beta01/zoomimage-compose-sketch4-koin-iosarm64-1.5.0-beta01.jar returned status 404
 1.5.0-beta01	metadata	2026-06-16T04:12:27Z	
+1.5.0-beta02		2026-06-18T08:15:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-koin-iosarm64/1.5.0-beta02/zoomimage-compose-sketch4-koin-iosarm64-1.5.0-beta02.jar returned status 404
+1.5.0-beta02	metadata	2026-06-18T08:15:03Z	

@@ -15,3 +15,5 @@
 0.2.5		2026-05-28T16:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-javaee-bom/0.2.5/microsphere-javaee-bom-0.2.5.jar returned status 404
 0.2.6		2026-06-04T15:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-javaee-bom/0.2.6/microsphere-javaee-bom-0.2.6.jar returned status 404
 0.2.7		2026-06-09T13:48:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-javaee-bom/0.2.7/microsphere-javaee-bom-0.2.7.jar returned status 404
+0.2.8		2026-06-18T09:45:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-javaee-bom/0.2.8/microsphere-javaee-bom-0.2.8.jar returned status 404
+0.2.9		2026-06-20T03:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-javaee-bom/0.2.9/microsphere-javaee-bom-0.2.9.jar returned status 404

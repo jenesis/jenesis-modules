@@ -15,3 +15,5 @@
 1.1.7-beta		2026-06-12T01:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noah20/screenProtector/1.1.7-beta/screenProtector-1.1.7-beta.jar returned status 404
 1.1.8-beta		2026-06-12T01:32:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noah20/screenProtector/1.1.8-beta/screenProtector-1.1.8-beta.jar returned status 404
 1.1.9-beta		2026-06-12T02:05:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noah20/screenProtector/1.1.9-beta/screenProtector-1.1.9-beta.jar returned status 404
+1.2.4		2026-06-19T12:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noah20/screenProtector/1.2.4/screenProtector-1.2.4.jar returned status 404
+1.2.5		2026-06-19T13:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noah20/screenProtector/1.2.5/screenProtector-1.2.5.jar returned status 404
