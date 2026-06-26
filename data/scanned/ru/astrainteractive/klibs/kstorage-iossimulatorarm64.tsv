@@ -72,5 +72,7 @@
 5.0.3	metadata	2026-04-06T09:13:54Z	
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-iossimulatorarm64/5.0.4/kstorage-iossimulatorarm64-5.0.4.jar returned status 404
 5.0.4	metadata	2026-04-21T12:05:02Z	
+5.1.0		2026-06-20T08:32:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-iossimulatorarm64/5.1.0/kstorage-iossimulatorarm64-5.1.0.jar returned status 404
+5.1.0	metadata	2026-06-20T08:32:33Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-iossimulatorarm64/unspecified/kstorage-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2024-06-10T16:57:47Z	

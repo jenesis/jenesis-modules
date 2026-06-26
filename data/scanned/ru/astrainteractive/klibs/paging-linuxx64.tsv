@@ -24,4 +24,5 @@
 2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-linuxx64/2.6.3/paging-linuxx64-2.6.3.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-linuxx64/2.7.0/paging-linuxx64-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-linuxx64/2.8.0/paging-linuxx64-2.8.0.jar returned status 404
+2.9.0		2026-06-20T08:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-linuxx64/2.9.0/paging-linuxx64-2.9.0.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-linuxx64/unspecified/paging-linuxx64-unspecified.jar returned status 404
