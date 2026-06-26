@@ -38,3 +38,5 @@
 2.2.1	metadata	2026-06-01T12:51:11Z	
 2.2.2		2026-06-09T12:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexzhirkevich/compottie-macosarm64/2.2.2/compottie-macosarm64-2.2.2.jar returned status 404
 2.2.2	metadata	2026-06-09T12:23:13Z	
+2.2.3		2026-06-19T08:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexzhirkevich/compottie-macosarm64/2.2.3/compottie-macosarm64-2.2.3.jar returned status 404
+2.2.3	metadata	2026-06-19T08:18:50Z	

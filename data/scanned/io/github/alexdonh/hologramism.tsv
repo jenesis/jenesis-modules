@@ -1,0 +1,2 @@
+1.0.0		2026-06-19T09:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexdonh/hologramism/1.0.0/hologramism-1.0.0.jar returned status 404
+1.0.1		2026-06-21T02:34:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexdonh/hologramism/1.0.1/hologramism-1.0.1.jar returned status 404

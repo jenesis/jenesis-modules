@@ -37,3 +37,4 @@
 3.6.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-scripting-parent/3.6.0.Alpha2/debezium-scripting-parent-3.6.0.Alpha2.jar returned status 404
 3.6.0.Beta1		2026-05-29T15:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-scripting-parent/3.6.0.Beta1/debezium-scripting-parent-3.6.0.Beta1.jar returned status 404
 3.6.0.Beta2		2026-06-12T08:34:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-scripting-parent/3.6.0.Beta2/debezium-scripting-parent-3.6.0.Beta2.jar returned status 404
+3.6.0.CR1		2026-06-23T11:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-scripting-parent/3.6.0.CR1/debezium-scripting-parent-3.6.0.CR1.jar returned status 404

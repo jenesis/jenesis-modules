@@ -243,6 +243,16 @@
 1.208.2		2026-06-17T06:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.208.2/fluxzero-sdk-java-1.208.2.jar returned status 404
 1.209.0		2026-06-18T05:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.209.0/fluxzero-sdk-java-1.209.0.jar returned status 404
 1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.21.0/fluxzero-sdk-java-1.21.0.jar returned status 404
+1.210.0		2026-06-18T21:52:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.0/fluxzero-sdk-java-1.210.0.jar returned status 404
+1.210.1		2026-06-18T22:52:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.1/fluxzero-sdk-java-1.210.1.jar returned status 404
+1.210.2		2026-06-18T23:02:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.2/fluxzero-sdk-java-1.210.2.jar returned status 404
+1.210.3		2026-06-19T01:15:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.3/fluxzero-sdk-java-1.210.3.jar returned status 404
+1.210.4		2026-06-19T07:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.4/fluxzero-sdk-java-1.210.4.jar returned status 404
+1.210.5		2026-06-19T18:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.5/fluxzero-sdk-java-1.210.5.jar returned status 404
+1.210.6		2026-06-21T00:30:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.210.6/fluxzero-sdk-java-1.210.6.jar returned status 404
+1.211.0		2026-06-21T22:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.211.0/fluxzero-sdk-java-1.211.0.jar returned status 404
+1.211.1		2026-06-22T06:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.211.1/fluxzero-sdk-java-1.211.1.jar returned status 404
+1.211.2		2026-06-23T05:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.211.2/fluxzero-sdk-java-1.211.2.jar returned status 404
 1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.22.0/fluxzero-sdk-java-1.22.0.jar returned status 404
 1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.23.0/fluxzero-sdk-java-1.23.0.jar returned status 404
 1.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-sdk-java/1.23.1/fluxzero-sdk-java-1.23.1.jar returned status 404

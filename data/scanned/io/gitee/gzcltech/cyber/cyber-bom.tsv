@@ -15,3 +15,8 @@
 4.0.0.RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.0.RC8/cyber-bom-4.0.0.RC8.jar returned status 404
 4.0.0.RC9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.0.RC9/cyber-bom-4.0.0.RC9.jar returned status 404
 4.0.1		2026-06-14T01:27:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.1/cyber-bom-4.0.1.jar returned status 404
+4.0.2		2026-06-19T13:57:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.2/cyber-bom-4.0.2.jar returned status 404
+4.0.3-RC1		2026-06-20T07:19:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.3-RC1/cyber-bom-4.0.3-RC1.jar returned status 404
+4.0.3-RC2		2026-06-20T08:22:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.3-RC2/cyber-bom-4.0.3-RC2.jar returned status 404
+4.0.3-RC3		2026-06-20T11:21:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.3-RC3/cyber-bom-4.0.3-RC3.jar returned status 404
+4.0.3-RC4		2026-06-21T02:01:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/cyber/cyber-bom/4.0.3-RC4/cyber-bom-4.0.3-RC4.jar returned status 404

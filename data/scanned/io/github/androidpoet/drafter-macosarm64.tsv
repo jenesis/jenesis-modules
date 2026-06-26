@@ -14,3 +14,5 @@
 0.1.7	metadata	2025-01-09T08:41:55Z	
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/drafter-macosarm64/0.1.8/drafter-macosarm64-0.1.8.jar returned status 404
 0.1.8	metadata	2025-01-12T05:06:55Z	
+0.2.0		2026-06-23T10:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/drafter-macosarm64/0.2.0/drafter-macosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-23T10:15:51Z	
