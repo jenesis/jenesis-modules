@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -590,7 +590,7 @@ com.fasterxml.jackson.module.jaxb  [fork: keep `com.fasterxml.jackson.module`, `
   A * com.fasterxml.jackson.module         2017-10..2026-06 2.22.0               |.===================|
   R   com.datastax.oss                     2021-06..2026-06 6.0.11               |.........===========|
   ?   com.liquibase                        2026-06..2026-06 5.2.0                |...................=|
-  R   org.apache.dolphinscheduler          2025-03..2026-05 3.4.2                |.................===|
+  R   org.apache.dolphinscheduler          2025-03..2026-05 3.4.2                |................====|
   R   com.facebook.presto.spark            2026-05..2026-05 3.4.1-2              |...................=|
   R   com.rovio.ingest                     2024-10..2026-04 1.0.8_spark_3.4.1    |................====|
     + 91 more: org.apache.seatunnel, org.apache.pulsar, com.ascentstream.pulsar, io.github.solven-eu.cleanthat, com.oceanbase, io.github.dodogeny, com.solacecoe.connectors, com.seeq, io.streamnative.connectors, org.apache.phoenix, com.kenstott.components, io.cdap.cdap, (+79 more)
@@ -772,7 +772,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `nl.tno.o
   ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |...................=|
   R   app.freerouting                      2026-05..2026-05 2.2.4                |...................=|
   R   org.beilstein                        2026-05..2026-05 1.1.2                |...................=|
-  R   me.bechberger                        2026-03..2026-04 0.1.6                |...................=|
+  R   me.bechberger                        2026-03..2026-04 0.1.6                |..................==|
   R   io.openems                           2026-02..2026-04 3.3.0-openems.2      |..................==|
     + 19 more: com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, org.lucee, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, net.maizegenetics, (+7 more)
 org.mavai.punit.examples  [fork: keep `org.mavai`, `org.javai` still publishes the name]
@@ -896,7 +896,7 @@ dagger  [owned by `com.google.dagger` (groupId minus two segments is the module 
   ? * com.google.dagger                    2021-06..2026-02 2.59.2               |.........==========.|
   ?   io.github.licy5352.dagger            2022-02..2026-03 2.55-kim-rc1         |..........=========.|
   ?   me.gulya.dagger                      2025-08..2025-08 2.56.2-workaround10  |.................=..|
-  ?   io.github.jbock-java                 2021-10..2022-03 2.41.2               |..........=.........|
+  ?   io.github.jbock-java                 2021-10..2022-03 2.41.2               |.........==.........|
 tuweni.bytes  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........===.......|
   ?   io.consensys.tuweni                  2025-02..2025-10 2.7.2                |................===.|
