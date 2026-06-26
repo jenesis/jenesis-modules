@@ -92,3 +92,4 @@
 8.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/orca/orca-bom/8.64.0/orca-bom-8.64.0.jar returned status 404
 main-239		2026-06-16T20:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/orca/orca-bom/main-239/orca-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:29:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/orca/orca-bom/main-241/orca-bom-main-241.jar returned status 404
+main-245		2026-06-22T20:59:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/orca/orca-bom/main-245/orca-bom-main-245.jar returned status 404

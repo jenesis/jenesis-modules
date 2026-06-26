@@ -70,6 +70,8 @@
 0.2.35	metadata	2026-06-04T11:46:07Z	
 0.2.36		2026-06-09T09:41:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-models-domain-iossimulatorarm64/0.2.36/dynamic-models-domain-iossimulatorarm64-0.2.36.jar returned status 404
 0.2.36	metadata	2026-06-09T09:41:17Z	
+0.2.37		2026-06-18T10:14:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-models-domain-iossimulatorarm64/0.2.37/dynamic-models-domain-iossimulatorarm64-0.2.37.jar returned status 404
+0.2.37	metadata	2026-06-18T10:14:21Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-models-domain-iossimulatorarm64/0.2.4/dynamic-models-domain-iossimulatorarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:21Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/dynamic-models-domain-iossimulatorarm64/0.2.5/dynamic-models-domain-iossimulatorarm64-0.2.5.jar returned status 404

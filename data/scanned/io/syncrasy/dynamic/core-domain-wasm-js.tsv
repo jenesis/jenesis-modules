@@ -29,6 +29,7 @@
 0.2.34		2026-06-04T09:15:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.34/core-domain-wasm-js-0.2.34.jar returned status 404
 0.2.35		2026-06-04T11:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.35/core-domain-wasm-js-0.2.35.jar returned status 404
 0.2.36		2026-06-09T09:41:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.36/core-domain-wasm-js-0.2.36.jar returned status 404
+0.2.37		2026-06-18T10:14:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.37/core-domain-wasm-js-0.2.37.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.4/core-domain-wasm-js-0.2.4.jar returned status 404
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.5/core-domain-wasm-js-0.2.5.jar returned status 404
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-wasm-js/0.2.6/core-domain-wasm-js-0.2.6.jar returned status 404

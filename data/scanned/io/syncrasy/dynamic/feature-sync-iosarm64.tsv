@@ -32,3 +32,5 @@
 0.2.35	metadata	2026-06-04T11:46:15Z	
 0.2.36		2026-06-09T09:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-sync-iosarm64/0.2.36/feature-sync-iosarm64-0.2.36.jar returned status 404
 0.2.36	metadata	2026-06-09T09:41:15Z	
+0.2.37		2026-06-18T10:14:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-sync-iosarm64/0.2.37/feature-sync-iosarm64-0.2.37.jar returned status 404
+0.2.37	metadata	2026-06-18T10:14:37Z	
