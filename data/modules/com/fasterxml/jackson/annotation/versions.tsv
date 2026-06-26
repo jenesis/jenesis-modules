@@ -6465,3 +6465,6 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.0.14	named	com.heroku	heroku-jvm-application-deployer	2026-06-17T15:01:27Z	2.22
 0.1.3	named	org.melaya	melaya-sdk	2026-06-19T04:47:03Z	2.17.1
 0.1.4	named	org.melaya	melaya-sdk	2026-06-19T05:01:19Z	2.17.1
+26.1.0	named	io.valkyrja	sindri	2026-06-20T01:35:48Z	2.19.0
+26.1.1	named	io.valkyrja	sindri	2026-06-20T07:04:32Z	2.19.0
+26.1.2	named	io.valkyrja	sindri	2026-06-21T22:55:39Z	2.19.0

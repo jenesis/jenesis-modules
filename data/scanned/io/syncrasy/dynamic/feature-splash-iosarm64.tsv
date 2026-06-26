@@ -70,6 +70,8 @@
 0.2.35	metadata	2026-06-04T11:46:12Z	
 0.2.36		2026-06-09T09:41:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-splash-iosarm64/0.2.36/feature-splash-iosarm64-0.2.36.jar returned status 404
 0.2.36	metadata	2026-06-09T09:40:59Z	
+0.2.37		2026-06-18T10:14:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-splash-iosarm64/0.2.37/feature-splash-iosarm64-0.2.37.jar returned status 404
+0.2.37	metadata	2026-06-18T10:14:12Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-splash-iosarm64/0.2.4/feature-splash-iosarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:35Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/feature-splash-iosarm64/0.2.5/feature-splash-iosarm64-0.2.5.jar returned status 404

@@ -34,6 +34,7 @@
 0.2.34		2026-06-04T09:14:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.34/core-domain-android-0.2.34.jar returned status 404
 0.2.35		2026-06-04T11:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.35/core-domain-android-0.2.35.jar returned status 404
 0.2.36		2026-06-09T09:41:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.36/core-domain-android-0.2.36.jar returned status 404
+0.2.37		2026-06-18T10:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.37/core-domain-android-0.2.37.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.4/core-domain-android-0.2.4.jar returned status 404
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.5/core-domain-android-0.2.5.jar returned status 404
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/core-domain-android/0.2.6/core-domain-android-0.2.6.jar returned status 404

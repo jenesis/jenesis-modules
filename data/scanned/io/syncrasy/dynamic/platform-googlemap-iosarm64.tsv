@@ -70,6 +70,8 @@
 0.2.35	metadata	2026-06-04T11:46:15Z	
 0.2.36		2026-06-09T09:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-googlemap-iosarm64/0.2.36/platform-googlemap-iosarm64-0.2.36.jar returned status 404
 0.2.36	metadata	2026-06-09T09:41:08Z	
+0.2.37		2026-06-18T10:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-googlemap-iosarm64/0.2.37/platform-googlemap-iosarm64-0.2.37.jar returned status 404
+0.2.37	metadata	2026-06-18T10:14:16Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-googlemap-iosarm64/0.2.4/platform-googlemap-iosarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-02-23T07:55:28Z	
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/dynamic/platform-googlemap-iosarm64/0.2.5/platform-googlemap-iosarm64-0.2.5.jar returned status 404

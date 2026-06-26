@@ -2,3 +2,4 @@
 12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx5-parent/12/vertx5-parent-12.jar returned status 404
 13		2026-05-20T15:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx5-parent/13/vertx5-parent-13.jar returned status 404
 14		2026-05-21T09:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx5-parent/14/vertx5-parent-14.jar returned status 404
+15		2026-06-22T19:44:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx5-parent/15/vertx5-parent-15.jar returned status 404

@@ -33,3 +33,5 @@
 8.4.0		2024-05-10T22:37:10Z	
 8.4.1		2024-09-12T20:47:11Z	
 8.4.2		2024-09-15T15:11:45Z	
+9.0.0		2026-06-18T12:31:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/statusmachina/status-machina-core/9.0.0/status-machina-core-9.0.0.jar returned status 404
+9.0.0	plain	2026-06-18T12:31:29Z	
