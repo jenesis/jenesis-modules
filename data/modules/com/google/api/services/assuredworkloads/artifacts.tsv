@@ -1,3 +1,4 @@
+v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1-rev20260601-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1-rev20260504-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1-rev20260321-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
@@ -86,6 +87,7 @@ v1-rev20210312-1.31.0	automatic	com.google.apis	google-api-services-assuredworkl
 v1-rev20210113-1.31.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1-rev20201112-1.31.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1-rev20201112-1.30.10	automatic	com.google.apis	google-api-services-assuredworkloads
+v1beta1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1beta1-rev20260601-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1beta1-rev20260504-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
 v1beta1-rev20260321-2.0.0	automatic	com.google.apis	google-api-services-assuredworkloads
