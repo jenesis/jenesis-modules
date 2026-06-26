@@ -294,6 +294,14 @@
 0.3.12-dev09+f08f216	metadata	2026-06-16T20:26:36Z	
 0.3.12-dev0a+4e16668		2026-06-16T21:47:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.12-dev0a+4e16668/template-for-kotlin-multiplatform-projects-macosarm64-0.3.12-dev0a+4e16668.jar returned status 404
 0.3.12-dev0a+4e16668	metadata	2026-06-16T21:47:28Z	
+0.3.12-dev0c+b499bfc		2026-06-19T04:30:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.12-dev0c+b499bfc/template-for-kotlin-multiplatform-projects-macosarm64-0.3.12-dev0c+b499bfc.jar returned status 404
+0.3.12-dev0c+b499bfc	metadata	2026-06-19T04:30:30Z	
+0.3.12-dev0c+d54ea14		2026-06-19T04:26:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.12-dev0c+d54ea14/template-for-kotlin-multiplatform-projects-macosarm64-0.3.12-dev0c+d54ea14.jar returned status 404
+0.3.12-dev0c+d54ea14	metadata	2026-06-19T04:26:37Z	
+0.3.12-dev0d+10a56cb		2026-06-19T05:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.12-dev0d+10a56cb/template-for-kotlin-multiplatform-projects-macosarm64-0.3.12-dev0d+10a56cb.jar returned status 404
+0.3.12-dev0d+10a56cb	metadata	2026-06-19T05:42:21Z	
+0.3.12-dev0f+f205a04		2026-06-19T15:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.12-dev0f+f205a04/template-for-kotlin-multiplatform-projects-macosarm64-0.3.12-dev0f+f205a04.jar returned status 404
+0.3.12-dev0f+f205a04	metadata	2026-06-19T15:59:42Z	
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.2/template-for-kotlin-multiplatform-projects-macosarm64-0.3.2.jar returned status 404
 0.3.2	metadata	2025-08-14T13:18:40Z	
 0.3.2-dev01+b3b533f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-macosarm64/0.3.2-dev01+b3b533f/template-for-kotlin-multiplatform-projects-macosarm64-0.3.2-dev01+b3b533f.jar returned status 404
