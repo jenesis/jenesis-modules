@@ -14,3 +14,4 @@
 2.0.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/mia/atp-mia/2.0.75/atp-mia-2.0.75.jar returned status 404
 2.0.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/mia/atp-mia/2.0.76/atp-mia-2.0.76.jar returned status 404
 2.0.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/mia/atp-mia/2.0.77/atp-mia-2.0.77.jar returned status 404
+3.0.0		2026-06-17T17:14:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/qubership/atp/mia/atp-mia/3.0.0/atp-mia-3.0.0.jar returned status 404

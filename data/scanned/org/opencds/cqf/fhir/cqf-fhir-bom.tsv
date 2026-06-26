@@ -18,3 +18,4 @@
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/fhir/cqf-fhir-bom/4.5.2/cqf-fhir-bom-4.5.2.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/fhir/cqf-fhir-bom/4.6.0/cqf-fhir-bom-4.6.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/fhir/cqf-fhir-bom/4.7.0/cqf-fhir-bom-4.7.0.jar returned status 404
+4.8.0		2026-06-17T16:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencds/cqf/fhir/cqf-fhir-bom/4.8.0/cqf-fhir-bom-4.8.0.jar returned status 404

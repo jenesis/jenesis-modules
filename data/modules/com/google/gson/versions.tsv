@@ -4812,6 +4812,10 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 1.5.2.15	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-06-17T16:25:56Z	2.10.1
 3.37.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-06-17T16:34:00Z	2.10
 8.33.0.44481	named	org.sonarsource.java	java-custom-rules-example	2026-06-18T10:35:11Z	2.14.0
+2.2.0-M1	named	org.operaton.bpm	operaton-engine	2026-06-19T08:14:47Z	2.14.0
+2.1.2	named	org.operaton.bpm	operaton-engine	2026-06-19T08:18:05Z	2.13.2
+1.1.4	named	org.operaton.bpm	operaton-engine	2026-06-19T08:18:33Z	2.13.2
 11.5.0.85871	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-06-19T10:34:57Z	2.13.2
 11.5.0.85871	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-06-19T10:34:57Z	2.13.2
 5.4.0.78507	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-06-19T13:11:44Z	2.14.0
+0.5.0-beta	named	org.openjproxy	ojp-jdbc-driver	2026-06-21T15:33:32Z	2.13.2

@@ -2,3 +2,4 @@
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-docker/6.0.1/openig-docker-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-docker/6.0.2/openig-docker-6.0.2.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-docker/6.1.0/openig-docker-6.1.0.jar returned status 404
+6.1.1		2026-06-19T16:33:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-docker/6.1.1/openig-docker-6.1.1.jar returned status 404

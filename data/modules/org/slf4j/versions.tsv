@@ -2790,6 +2790,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.8.0	named	us.springett	alpine-executable-war	2026-06-12T13:52:42Z	2.0.18
 2.0.0-alpha.4	named	dev.detekt	detekt-rules-ktlint-wrapper	2026-06-13T18:03:46Z	2.0.18
 0.14.0	named	io.testomat	java-reporter-core	2026-06-17T11:44:46Z	2.0.9
+16.1.0	named	org.openidentityplatform.openam	openam-installtools	2026-06-17T19:01:11Z	2.0.17
+16.1.1	named	org.openidentityplatform.openam	openam-installtools	2026-06-17T20:59:13Z	2.0.17
 2.0.0-alpha.5	named	dev.detekt	detekt-rules-ktlint-wrapper	2026-06-17T22:21:40Z	2.0.18
 0.3.41	named	io.continual	continualMetricsDropWiz	2026-06-17T23:43:47Z	2.0.17
 0.3.41	named	io.continual	continualIamAuth0	2026-06-17T23:43:48Z	2.0.17

@@ -4,6 +4,9 @@
 16.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/16.0.4/transform-jakarta-16.0.4.jar returned status 404
 16.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/16.0.5/transform-jakarta-16.0.5.jar returned status 404
 16.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/16.0.6/transform-jakarta-16.0.6.jar returned status 404
+16.1.0		2026-06-17T19:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/16.1.0/transform-jakarta-16.1.0.jar returned status 404
+16.1.1		2026-06-17T20:59:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/16.1.1/transform-jakarta-16.1.1.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/6.0.1/transform-jakarta-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/6.0.2/transform-jakarta-6.0.2.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/6.1.0/transform-jakarta-6.1.0.jar returned status 404
+6.1.1		2026-06-19T16:33:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/jakarta/transform-jakarta/6.1.1/transform-jakarta-6.1.1.jar returned status 404
