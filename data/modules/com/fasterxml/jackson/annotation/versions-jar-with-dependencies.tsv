@@ -5176,3 +5176,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 3.0.4	named	io.github.techelliiptica	merv-client-api	2026-06-22T15:54:52Z	2.15.2
 8.710.53	named	com.yahoo.vespa	config-application-package	2026-06-23T04:53:10Z	2.21
 3.6.0.CR1	named	io.debezium	debezium-connector-cassandra-5	2026-06-23T11:47:14Z	2.21
+10.2.4-BETA-2	named	com.chartiq.finsemble	finsemble	2026-06-24T12:46:35Z	2.13.5

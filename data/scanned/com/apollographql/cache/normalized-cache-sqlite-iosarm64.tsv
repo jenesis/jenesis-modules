@@ -46,3 +46,5 @@
 1.0.3	metadata	2026-05-13T14:30:37Z	
 1.0.4		2026-06-15T08:55:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-iosarm64/1.0.4/normalized-cache-sqlite-iosarm64-1.0.4.jar returned status 404
 1.0.4	metadata	2026-06-15T08:55:22Z	
+1.0.5		2026-06-25T13:51:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/cache/normalized-cache-sqlite-iosarm64/1.0.5/normalized-cache-sqlite-iosarm64-1.0.5.jar returned status 404
+1.0.5	metadata	2026-06-25T13:51:47Z	

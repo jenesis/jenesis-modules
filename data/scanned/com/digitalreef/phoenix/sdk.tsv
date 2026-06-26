@@ -25,6 +25,15 @@
 5.11.0	prodGlRelease-sources	2026-06-16T19:36:34Z	
 5.11.0	prodNoglRelease-javadoc	2026-06-16T19:36:34Z	
 5.11.0	prodNoglRelease-sources	2026-06-16T19:36:34Z	
+5.11.1		2026-06-24T15:46:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/sdk/5.11.1/sdk-5.11.1.jar returned status 404
+5.11.1	amxGlRelease-javadoc	2026-06-24T15:46:49Z	
+5.11.1	amxGlRelease-sources	2026-06-24T15:46:49Z	
+5.11.1	amxNoglRelease-javadoc	2026-06-24T15:46:49Z	
+5.11.1	amxNoglRelease-sources	2026-06-24T15:46:49Z	
+5.11.1	prodGlRelease-javadoc	2026-06-24T15:46:49Z	
+5.11.1	prodGlRelease-sources	2026-06-24T15:46:49Z	
+5.11.1	prodNoglRelease-javadoc	2026-06-24T15:46:49Z	
+5.11.1	prodNoglRelease-sources	2026-06-24T15:46:49Z	
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/sdk/5.4.1/sdk-5.4.1.jar returned status 404
 5.4.1	amxGlRelease-javadoc	2025-02-10T15:44:04Z	
 5.4.1	amxGlRelease-sources	2025-02-10T15:44:04Z	

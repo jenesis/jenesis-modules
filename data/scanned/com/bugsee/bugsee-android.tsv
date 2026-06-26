@@ -92,12 +92,15 @@
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/6.0.1/bugsee-android-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/6.0.2/bugsee-android-6.0.2.jar returned status 404
 6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/6.0.3/bugsee-android-6.0.3.jar returned status 404
+6.0.4		2026-06-22T07:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/6.0.4/bugsee-android-6.0.4.jar returned status 404
+7.0.0		2026-06-23T06:14:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0/bugsee-android-7.0.0.jar returned status 404
 7.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta1/bugsee-android-7.0.0-beta1.jar returned status 404
 7.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta10/bugsee-android-7.0.0-beta10.jar returned status 404
 7.0.0-beta11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta11/bugsee-android-7.0.0-beta11.jar returned status 404
 7.0.0-beta12		2026-05-27T03:57:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta12/bugsee-android-7.0.0-beta12.jar returned status 404
 7.0.0-beta13		2026-06-18T04:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta13/bugsee-android-7.0.0-beta13.jar returned status 404
 7.0.0-beta14		2026-06-18T11:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta14/bugsee-android-7.0.0-beta14.jar returned status 404
+7.0.0-beta15		2026-06-21T07:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta15/bugsee-android-7.0.0-beta15.jar returned status 404
 7.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta2/bugsee-android-7.0.0-beta2.jar returned status 404
 7.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta3/bugsee-android-7.0.0-beta3.jar returned status 404
 7.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta4/bugsee-android-7.0.0-beta4.jar returned status 404
@@ -106,3 +109,5 @@
 7.0.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta7/bugsee-android-7.0.0-beta7.jar returned status 404
 7.0.0-beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta8/bugsee-android-7.0.0-beta8.jar returned status 404
 7.0.0-beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.0-beta9/bugsee-android-7.0.0-beta9.jar returned status 404
+7.0.1		2026-06-24T12:57:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.1/bugsee-android-7.0.1.jar returned status 404
+7.0.2		2026-06-25T08:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bugsee/bugsee-android/7.0.2/bugsee-android-7.0.2.jar returned status 404

@@ -20,10 +20,18 @@
 1.11.1	metadata	2026-06-14T19:55:07Z	
 1.11.1-1		2026-06-19T00:10:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.11.1-1/library-iossimulatorarm64-1.11.1-1.jar returned status 404
 1.11.1-1	metadata	2026-06-19T00:10:35Z	
+1.11.1-2		2026-06-20T16:04:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.11.1-2/library-iossimulatorarm64-1.11.1-2.jar returned status 404
+1.11.1-2	metadata	2026-06-20T16:04:17Z	
+1.11.1-3		2026-06-21T15:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.11.1-3/library-iossimulatorarm64-1.11.1-3.jar returned status 404
+1.11.1-3	metadata	2026-06-21T15:51:45Z	
 1.12.0-alpha01		2026-06-14T19:54:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.12.0-alpha01/library-iossimulatorarm64-1.12.0-alpha01.jar returned status 404
 1.12.0-alpha01	metadata	2026-06-14T19:54:01Z	
 1.12.0-alpha01-1		2026-06-19T00:09:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.12.0-alpha01-1/library-iossimulatorarm64-1.12.0-alpha01-1.jar returned status 404
 1.12.0-alpha01-1	metadata	2026-06-19T00:09:14Z	
+1.12.0-alpha01-2		2026-06-20T16:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.12.0-alpha01-2/library-iossimulatorarm64-1.12.0-alpha01-2.jar returned status 404
+1.12.0-alpha01-2	metadata	2026-06-20T16:04:04Z	
+1.12.0-alpha01-3		2026-06-21T15:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.12.0-alpha01-3/library-iossimulatorarm64-1.12.0-alpha01-3.jar returned status 404
+1.12.0-alpha01-3	metadata	2026-06-21T15:49:13Z	
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.7.0/library-iossimulatorarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2024-10-16T18:51:14Z	
 1.7.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chrisjenx/yakcov/library-iossimulatorarm64/1.7.0-alpha02/library-iossimulatorarm64-1.7.0-alpha02.jar returned status 404
