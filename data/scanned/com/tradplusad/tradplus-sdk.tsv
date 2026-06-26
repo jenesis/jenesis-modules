@@ -181,12 +181,14 @@
 15.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.2.0/tradplus-sdk-15.2.0.jar returned status 404
 15.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.2.0.1/tradplus-sdk-15.2.0.1.jar returned status 404
 15.2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.2.10.1/tradplus-sdk-15.2.10.1.jar returned status 404
+15.2.20.1		2026-06-23T07:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.2.20.1/tradplus-sdk-15.2.20.1.jar returned status 404
 15.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.3.0/tradplus-sdk-15.3.0.jar returned status 404
 15.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.3.0.1/tradplus-sdk-15.3.0.1.jar returned status 404
 15.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.4.0/tradplus-sdk-15.4.0.jar returned status 404
 15.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.4.0.1/tradplus-sdk-15.4.0.1.jar returned status 404
 15.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.4.10/tradplus-sdk-15.4.10.jar returned status 404
 15.4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.4.10.1/tradplus-sdk-15.4.10.1.jar returned status 404
+15.4.20.1		2026-06-22T07:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.4.20.1/tradplus-sdk-15.4.20.1.jar returned status 404
 15.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.5.0/tradplus-sdk-15.5.0.jar returned status 404
 15.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.5.0.1/tradplus-sdk-15.5.0.1.jar returned status 404
 15.5.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/15.5.10.1/tradplus-sdk-15.5.10.1.jar returned status 404
@@ -206,3 +208,4 @@
 16.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/16.0.0.1/tradplus-sdk-16.0.0.1.jar returned status 404
 16.1.0.1		2026-05-25T02:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/16.1.0.1/tradplus-sdk-16.1.0.1.jar returned status 404
 16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/16.2.0.1/tradplus-sdk-16.2.0.1.jar returned status 404
+16.3.0.1		2026-06-22T08:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-sdk/16.3.0.1/tradplus-sdk-16.3.0.1.jar returned status 404

@@ -150,6 +150,7 @@
 3.34.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.20/tcrsdk-full-3.34.20.jar returned status 404
 3.34.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.21/tcrsdk-full-3.34.21.jar returned status 404
 3.34.22		2026-06-11T08:35:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.22/tcrsdk-full-3.34.22.jar returned status 404
+3.34.23		2026-06-22T06:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.23/tcrsdk-full-3.34.23.jar returned status 404
 3.34.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.3/tcrsdk-full-3.34.3.jar returned status 404
 3.34.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.4/tcrsdk-full-3.34.4.jar returned status 404
 3.34.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tcrsdk-full/3.34.5/tcrsdk-full-3.34.5.jar returned status 404

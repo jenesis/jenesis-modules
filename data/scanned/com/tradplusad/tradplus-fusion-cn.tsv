@@ -105,6 +105,7 @@
 62.15.1.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.1.40.1/tradplus-fusion-cn-62.15.1.40.1.jar returned status 404
 62.15.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.2.0.1/tradplus-fusion-cn-62.15.2.0.1.jar returned status 404
 62.15.2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.2.10.1/tradplus-fusion-cn-62.15.2.10.1.jar returned status 404
+62.15.2.20.1		2026-06-23T07:59:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.2.20.1/tradplus-fusion-cn-62.15.2.20.1.jar returned status 404
 62.15.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.3.0.1/tradplus-fusion-cn-62.15.3.0.1.jar returned status 404
 62.15.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.4.0.1/tradplus-fusion-cn-62.15.4.0.1.jar returned status 404
 62.15.4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.15.4.10.1/tradplus-fusion-cn-62.15.4.10.1.jar returned status 404
@@ -123,3 +124,4 @@
 62.16.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.16.0.0.1/tradplus-fusion-cn-62.16.0.0.1.jar returned status 404
 62.16.1.0.1		2026-05-25T02:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.16.1.0.1/tradplus-fusion-cn-62.16.1.0.1.jar returned status 404
 62.16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.16.2.0.1/tradplus-fusion-cn-62.16.2.0.1.jar returned status 404
+62.16.3.0.1		2026-06-22T08:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-fusion-cn/62.16.3.0.1/tradplus-fusion-cn-62.16.3.0.1.jar returned status 404

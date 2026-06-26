@@ -126,6 +126,7 @@
 25.1.7		2026-05-25T07:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.1.7/flow-plugins-25.1.7.jar returned status 404
 25.1.8		2026-06-02T08:45:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.1.8/flow-plugins-25.1.8.jar returned status 404
 25.1.9		2026-06-03T10:32:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.1.9/flow-plugins-25.1.9.jar returned status 404
+25.2.0		2026-06-23T09:48:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.0/flow-plugins-25.2.0.jar returned status 404
 25.2.0-beta1		2026-05-26T10:07:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.0-beta1/flow-plugins-25.2.0-beta1.jar returned status 404
 25.2.0-beta2		2026-06-12T09:10:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.0-beta2/flow-plugins-25.2.0-beta2.jar returned status 404
 25.2.0-rc1		2026-06-16T09:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.0-rc1/flow-plugins-25.2.0-rc1.jar returned status 404

@@ -323,6 +323,7 @@
 25.1.6		2026-05-25T12:11:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.1.6/vaadin-spring-bom-25.1.6.jar returned status 404
 25.1.7		2026-06-09T06:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.1.7/vaadin-spring-bom-25.1.7.jar returned status 404
 25.1.8		2026-06-15T12:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.1.8/vaadin-spring-bom-25.1.8.jar returned status 404
+25.2.0		2026-06-23T13:11:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.2.0/vaadin-spring-bom-25.2.0.jar returned status 404
 25.2.0-beta1		2026-05-27T11:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.2.0-beta1/vaadin-spring-bom-25.2.0-beta1.jar returned status 404
 25.2.0-beta2		2026-06-12T12:54:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.2.0-beta2/vaadin-spring-bom-25.2.0-beta2.jar returned status 404
 25.2.0-beta3		2026-06-16T13:05:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-spring-bom/25.2.0-beta3/vaadin-spring-bom-25.2.0-beta3.jar returned status 404

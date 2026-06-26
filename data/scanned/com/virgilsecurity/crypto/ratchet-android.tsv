@@ -28,3 +28,4 @@
 0.19.2		2026-06-02T21:12:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/ratchet-android/0.19.2/ratchet-android-0.19.2.jar returned status 404
 0.20.0		2026-06-14T16:53:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/ratchet-android/0.20.0/ratchet-android-0.20.0.jar returned status 404
 0.20.0-rc.1		2026-06-14T15:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/ratchet-android/0.20.0-rc.1/ratchet-android-0.20.0-rc.1.jar returned status 404
+0.21.0		2026-06-19T02:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/ratchet-android/0.21.0/ratchet-android-0.21.0.jar returned status 404

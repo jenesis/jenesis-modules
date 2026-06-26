@@ -20,3 +20,4 @@
 3.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/license-checker-parent/3.0.0-rc2/license-checker-parent-3.0.0-rc2.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/license-checker-parent/3.0.1/license-checker-parent-3.0.1.jar returned status 404
 3.0.2		2026-05-20T11:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/license-checker-parent/3.0.2/license-checker-parent-3.0.2.jar returned status 404
+3.1.0		2026-06-23T06:09:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/license-checker-parent/3.1.0/license-checker-parent-3.1.0.jar returned status 404
