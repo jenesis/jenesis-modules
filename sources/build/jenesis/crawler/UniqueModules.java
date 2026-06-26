@@ -9,30 +9,26 @@ class UniqueModules {
             stream
                 .filter(path -> path.getNameCount() > 0)
                 .filter(path -> path.getFileName().toString().equals("modules.tsv"))
-                .map(path -> computeModuleGroupArtifactLine(root, path))
+                .map(path -> computeUniqueModuleGroupArtifactLine(root, path))
                 .filter(line -> !line.isEmpty())
                 .sorted()
                 .forEach(IO::println);
         }        
     }
 
-    static String computeModuleGroupArtifactLine(Path root, Path path) {
+    static String computeUniqueModuleGroupArtifactLine(Path root, Path path) {
         var joiner = new StringJoiner(".");
         for (var element : root.relativize(path).getParent()) joiner.add(element.toString());
         var moduleName = joiner.toString();
-        List<String> lines;
         try {
-            lines = Files.readAllLines(path);
+            var lines = Files.readAllLines(path);
             var items = lines.getFirst().split("\t");
             var mavenGroup = items[1];
             var mavenGroupAlias = computeMavenGroupAlias(mavenGroup);
             var mavenArtifact = items[2];
-            var unique = moduleName.startsWith(mavenGroup) || moduleName.startsWith(mavenGroupAlias);
-            if (!unique) {
-            return "";
-            }
-
-            return moduleName + '=' + mavenGroup + ':' + mavenArtifact;
+            return moduleName.startsWith(mavenGroup) || moduleName.startsWith(mavenGroupAlias)
+                ? moduleName + '=' + mavenGroup + ':' + mavenArtifact
+                : "";
         } catch (IOException exception) {
             throw new UncheckedIOException(exception);
         }
