@@ -43,3 +43,6 @@
 3.6.0.Beta2	named	io.debezium	debezium-connector-cassandra-3	2026-06-12T08:55:34Z	9.1.0
 3.6.0.Beta2	named	io.debezium	debezium-connector-cassandra-4	2026-06-12T08:55:34Z	9.1.0
 3.6.0.Beta2	named	io.debezium	debezium-connector-dse	2026-06-12T08:55:34Z	9.1.0
+3.6.0.CR1	named	io.debezium	debezium-connector-cassandra-3	2026-06-23T11:47:13Z	9.1.0
+3.6.0.CR1	named	io.debezium	debezium-connector-cassandra-4	2026-06-23T11:47:13Z	9.1.0
+3.6.0.CR1	named	io.debezium	debezium-connector-dse	2026-06-23T11:47:13Z	9.1.0
