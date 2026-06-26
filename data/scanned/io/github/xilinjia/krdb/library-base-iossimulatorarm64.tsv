@@ -6,3 +6,5 @@
 3.3.3	metadata	2026-03-30T08:56:05Z	
 3.3.4		2026-06-13T04:02:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xilinjia/krdb/library-base-iossimulatorarm64/3.3.4/library-base-iossimulatorarm64-3.3.4.jar returned status 404
 3.3.4	metadata	2026-06-13T04:02:47Z	
+3.3.5		2026-06-22T09:39:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xilinjia/krdb/library-base-iossimulatorarm64/3.3.5/library-base-iossimulatorarm64-3.3.5.jar returned status 404
+3.3.5	metadata	2026-06-22T09:39:03Z	

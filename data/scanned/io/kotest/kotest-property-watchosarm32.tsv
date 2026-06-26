@@ -184,3 +184,5 @@
 6.1.9	metadata	2026-03-24T17:20:24Z	
 6.2.0		2026-06-15T21:47:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-watchosarm32/6.2.0/kotest-property-watchosarm32-6.2.0.jar returned status 404
 6.2.0	metadata	2026-06-15T21:47:35Z	
+6.2.1		2026-06-18T14:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-watchosarm32/6.2.1/kotest-property-watchosarm32-6.2.1.jar returned status 404
+6.2.1	metadata	2026-06-18T14:11:40Z	

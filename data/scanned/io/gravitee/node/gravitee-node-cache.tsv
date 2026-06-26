@@ -191,3 +191,4 @@
 9.0.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cache/9.0.0-alpha.7/gravitee-node-cache-9.0.0-alpha.7.jar returned status 404
 9.0.0-alpha.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cache/9.0.0-alpha.8/gravitee-node-cache-9.0.0-alpha.8.jar returned status 404
 9.0.0-alpha.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cache/9.0.0-alpha.9/gravitee-node-cache-9.0.0-alpha.9.jar returned status 404
+9.1.0		2026-06-19T08:39:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cache/9.1.0/gravitee-node-cache-9.1.0.jar returned status 404

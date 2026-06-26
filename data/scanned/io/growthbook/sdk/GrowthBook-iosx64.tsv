@@ -68,3 +68,5 @@
 7.1.0	metadata	2026-04-07T13:00:55Z	
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-iosx64/7.1.1/GrowthBook-iosx64-7.1.1.jar returned status 404
 7.1.1	metadata	2026-04-23T10:38:59Z	
+7.2.0		2026-06-19T14:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-iosx64/7.2.0/GrowthBook-iosx64-7.2.0.jar returned status 404
+7.2.0	metadata	2026-06-19T14:30:21Z	
