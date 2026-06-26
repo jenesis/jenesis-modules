@@ -2697,3 +2697,6 @@ com.asarkar.grpc.test
 com.appslandia.plum
 com.amazon.ion
 ch.qos.logback.core
+com.formdev.flatlaf
+build.jenesis.launcher
+be.yildizgames.module.database.mapping.jooq
