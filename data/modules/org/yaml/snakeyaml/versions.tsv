@@ -1028,6 +1028,7 @@
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v2	2026-06-12T21:32:18Z	2.2
 3.31.0-rc.3	named	org.conductoross	conductor-os-persistence-v3	2026-06-12T21:32:54Z	2.2
 0.1.0	named	io.github.wangscu	just-bash-cli	2026-06-14T01:12:44Z	2.2
+2.3.0	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-14T15:41:04Z	2.3
 26.04.6	named	com.nvidia	rapids-4-spark-tools_2.12	2026-06-16T08:26:44Z	2.0
 3.31.0-rc.4	named	org.conductoross	conductor-os-persistence-v2	2026-06-17T19:28:47Z	2.2
 3.31.0-rc.4	named	org.conductoross	conductor-os-persistence-v3	2026-06-17T19:29:21Z	2.2

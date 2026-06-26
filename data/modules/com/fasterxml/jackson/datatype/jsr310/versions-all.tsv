@@ -259,6 +259,7 @@ unspecified	named	de.jvstvshd.necrify	necrify-paper	2025-12-01T17:14:49Z	2.18.2
 1.2.0	named	org.apache.gravitino	gravitino-hive-metastore-common	2026-03-12T14:40:16Z	2.15.2
 1.0.15	named	io.spring.gradle	spring-security-release-tools-core	2026-03-16T14:47:27Z	2.14.3
 1.0.32	named	org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	2026-03-25T03:34:45Z	2.14.2
+1.1.1	named	org.apache.gravitino	gravitino-hive-metastore-common	2026-03-26T12:40:40Z	2.15.2
 1.0.33	named	org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	2026-04-09T07:14:15Z	2.14.2
 1.0.34	named	org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	2026-04-29T08:04:34Z	2.14.2
 1.0.35	named	org.octopusden.octopus.automation.teamcity	octopus-teamcity-automation	2026-05-12T10:47:13Z	2.14.2

@@ -950,4 +950,7 @@
 1.20.5	named	org.apache.flink	flink-oss-fs-hadoop	2026-06-08T09:10:39Z	2.15.1
 1.20.5	named	org.apache.flink	flink-azure-fs-hadoop	2026-06-08T09:11:16Z	2.15.1
 1.121.0	named	no.entur	schema2proto-lib	2026-06-12T04:33:49Z	2.22.0
+2.3.0	named	org.apache.flink	flink-table-planner_2.12	2026-06-14T15:16:20Z	2.15.1
+2.3.0	named	org.apache.flink	flink-oss-fs-hadoop	2026-06-14T15:31:03Z	2.15.1
+2.3.0	named	org.apache.flink	flink-azure-fs-hadoop	2026-06-14T15:32:02Z	2.15.1
 1.122.0	named	no.entur	schema2proto-lib	2026-06-15T13:07:06Z	2.22.0

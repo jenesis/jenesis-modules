@@ -965,6 +965,15 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.5.2.9	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-03-24T03:57:36Z	2.16.0
 1.5.2.9	named	com.linkedin.iceberg	iceberg-azure-bundle	2026-03-24T03:57:38Z	2.13.5
 7.21.0	named	org.openapitools	openapi-generator-cli	2026-03-24T08:38:22Z	2.19.2
+1.1.1	named	org.apache.gravitino	gravitino-filesystem-hadoop3-runtime	2026-03-26T12:14:40Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.12	2026-03-26T12:15:56Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-flink-connector-runtime-1.18_2.12	2026-03-26T12:19:39Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.3_2.13	2026-03-26T12:24:13Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-client-java-runtime	2026-03-26T12:27:29Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.4_2.13	2026-03-26T12:28:00Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.5_2.13	2026-03-26T12:30:57Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.5_2.12	2026-03-26T12:39:58Z	2.15.2
+1.1.1	named	org.apache.gravitino	gravitino-spark-connector-runtime-3.3_2.12	2026-03-26T12:40:55Z	2.15.2
 4.3.0	named	org.opencds.cqf.cql.ls	cql-ls-service	2026-03-27T13:19:40Z	2.13.5
 0.1.0	named	org.byteveda.agenteval	agenteval-github-actions	2026-03-29T18:18:18Z	2.18.3
 4.4.1	named	org.opencds.cqf.cql.ls	cql-ls-service	2026-03-30T20:15:45Z	2.13.5

@@ -1164,6 +1164,10 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.6.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-fluss	2026-03-25T03:43:55Z	3.18.0
 3.6.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-fluss	2026-03-25T04:13:45Z	3.18.0
 4.0.9.5	named	io.streamnative	buildtools	2026-03-26T04:33:13Z	3.19.0
+1.1.1	named	org.apache.gravitino	gravitino-aliyun-bundle	2026-03-26T12:17:35Z	3.14.0
+1.1.1	named	org.apache.gravitino	gravitino-aws-bundle	2026-03-26T12:25:01Z	3.14.0
+1.1.1	named	org.apache.gravitino	gravitino-azure-bundle	2026-03-26T12:28:52Z	3.14.0
+1.1.1	named	org.apache.gravitino	gravitino-gcp-bundle	2026-03-26T12:35:52Z	3.14.0
 4.1.3.4	named	io.streamnative	buildtools	2026-03-28T01:01:09Z	3.19.0
 1.23.0	named	no.entur	interface-protoc-plugin	2026-03-30T15:23:52Z	3.20.0
 3.9.03	named	org.metricshub	metricshub-programmable-configuration-extension	2026-03-30T17:01:06Z	3.18.0
