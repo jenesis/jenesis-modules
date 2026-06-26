@@ -2,3 +2,7 @@
 0.36.0	metadata	2026-05-05T13:39:06Z	
 0.36.1		2026-06-17T09:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/freeletics/khonshu/codegen-runtime-iosarm64/0.36.1/codegen-runtime-iosarm64-0.36.1.jar returned status 404
 0.36.1	metadata	2026-06-17T09:37:41Z	
+0.37.0		2026-06-23T10:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/freeletics/khonshu/codegen-runtime-iosarm64/0.37.0/codegen-runtime-iosarm64-0.37.0.jar returned status 404
+0.37.0	metadata	2026-06-23T10:06:19Z	
+0.37.1		2026-06-24T17:17:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/freeletics/khonshu/codegen-runtime-iosarm64/0.37.1/codegen-runtime-iosarm64-0.37.1.jar returned status 404
+0.37.1	metadata	2026-06-24T17:17:11Z	

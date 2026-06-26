@@ -152,3 +152,4 @@
 6.32.6		2026-06-03T11:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/trackingFilter/6.32.6/trackingFilter-6.32.6.jar returned status 404
 6.32.7		2026-06-10T09:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/trackingFilter/6.32.7/trackingFilter-6.32.7.jar returned status 404
 6.32.8		2026-06-15T08:42:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/trackingFilter/6.32.8/trackingFilter-6.32.8.jar returned status 404
+6.33.0		2026-06-23T04:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/trackingFilter/6.33.0/trackingFilter-6.33.0.jar returned status 404

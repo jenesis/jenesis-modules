@@ -98,6 +98,8 @@
 5.0.1-rc.2	metadata	2026-05-21T14:04:58Z	
 5.0.1-rc.3		2026-05-27T12:42:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.0.1-rc.3/ditto-cinterop-iosarm64-5.0.1-rc.3.jar returned status 404
 5.0.1-rc.3	metadata	2026-05-27T12:42:23Z	
+5.0.2		2026-06-24T09:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.0.2/ditto-cinterop-iosarm64-5.0.2.jar returned status 404
+5.0.2	metadata	2026-06-24T09:52:30Z	
 5.0.2-rc.1		2026-06-17T20:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.0.2-rc.1/ditto-cinterop-iosarm64-5.0.2-rc.1.jar returned status 404
 5.0.2-rc.1	metadata	2026-06-17T20:44:27Z	
 5.1.0-dev-demo-publish.1		2026-06-12T21:13:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-dev-demo-publish.1/ditto-cinterop-iosarm64-5.1.0-dev-demo-publish.1.jar returned status 404
@@ -118,6 +120,8 @@
 5.1.0-dev-weekly.20260412.275	metadata	2026-04-12T15:22:33Z	
 5.1.0-dev-weekly.20260602.324		2026-06-02T12:08:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-dev-weekly.20260602.324/ditto-cinterop-iosarm64-5.1.0-dev-weekly.20260602.324.jar returned status 404
 5.1.0-dev-weekly.20260602.324	metadata	2026-06-02T12:08:44Z	
+5.1.0-experimental-260623.1		2026-06-23T14:38:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-experimental-260623.1/ditto-cinterop-iosarm64-5.1.0-experimental-260623.1.jar returned status 404
+5.1.0-experimental-260623.1	metadata	2026-06-23T14:38:36Z	
 5.1.0-experimental-all-sdks.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-experimental-all-sdks.1/ditto-cinterop-iosarm64-5.1.0-experimental-all-sdks.1.jar returned status 404
 5.1.0-experimental-all-sdks.1	metadata	2026-02-12T20:41:24Z	
 5.1.0-experimental-all-sdks.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-experimental-all-sdks.2/ditto-cinterop-iosarm64-5.1.0-experimental-all-sdks.2.jar returned status 404
@@ -180,3 +184,5 @@
 5.1.0-preview.2	metadata	2026-06-17T21:02:18Z	
 5.1.0-preview.3		2026-06-19T16:29:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-preview.3/ditto-cinterop-iosarm64-5.1.0-preview.3.jar returned status 404
 5.1.0-preview.3	metadata	2026-06-19T16:29:49Z	
+5.1.0-preview.4		2026-06-22T22:35:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-cinterop-iosarm64/5.1.0-preview.4/ditto-cinterop-iosarm64-5.1.0-preview.4.jar returned status 404
+5.1.0-preview.4	metadata	2026-06-22T22:35:55Z	

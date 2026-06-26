@@ -1,3 +1,4 @@
 1.1.1		2026-06-15T23:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-wasm-js/1.1.1/compose-wasm-js-1.1.1.jar returned status 404
 1.1.4		2026-06-19T00:22:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-wasm-js/1.1.4/compose-wasm-js-1.1.4.jar returned status 404
 1.1.5		2026-06-19T01:34:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-wasm-js/1.1.5/compose-wasm-js-1.1.5.jar returned status 404
+1.1.6		2026-06-21T01:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-wasm-js/1.1.6/compose-wasm-js-1.1.6.jar returned status 404

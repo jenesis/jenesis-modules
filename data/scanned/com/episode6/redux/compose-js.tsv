@@ -4,3 +4,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-js/1.0.1/compose-js-1.0.1.jar returned status 404
 1.1.4		2026-06-19T00:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-js/1.1.4/compose-js-1.1.4.jar returned status 404
 1.1.5		2026-06-19T01:34:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-js/1.1.5/compose-js-1.1.5.jar returned status 404
+1.1.6		2026-06-21T01:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-js/1.1.6/compose-js-1.1.6.jar returned status 404
