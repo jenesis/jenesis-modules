@@ -141,3 +141,4 @@
 5.78.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mparticle/android-apptimize-kit/5.78.5/android-apptimize-kit-5.78.5.jar returned status 404
 5.79.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mparticle/android-apptimize-kit/5.79.0/android-apptimize-kit-5.79.0.jar returned status 404
 5.79.1		2026-05-27T21:47:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mparticle/android-apptimize-kit/5.79.1/android-apptimize-kit-5.79.1.jar returned status 404
+5.79.2		2026-06-22T20:40:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mparticle/android-apptimize-kit/5.79.2/android-apptimize-kit-5.79.2.jar returned status 404
