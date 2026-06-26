@@ -53,12 +53,17 @@ jobs:
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                sources/build/jenesis/crawler/DriftReport.java
 
-      - name: Commit and push if SUMMARY.md, BLEEDING.md or DRIFTERS.md changed
+      - name: Regenerate module-maven.properties
         run: |
           set -euo pipefail
-          git add data/SUMMARY.md data/top/BLEEDING.md data/DRIFTERS.md
+          java sources/build/jenesis/crawler/ModuleMaven.java > data/module-maven.properties
+
+      - name: Commit and push if SUMMARY.md, BLEEDING.md, DRIFTERS.md, or module-maven.properties changed
+        run: |
+          set -euo pipefail
+          git add data/SUMMARY.md data/top/BLEEDING.md data/DRIFTERS.md data/module-maven.properties
           if git diff --cached --quiet; then
-            echo "SUMMARY.md, BLEEDING.md and DRIFTERS.md unchanged; nothing to commit."
+            echo "SUMMARY.md, BLEEDING.md, DRIFTERS.md, and module-maven.properties unchanged; nothing to commit."
             exit 0
           fi
           stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"

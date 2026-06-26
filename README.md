@@ -21,6 +21,7 @@ data/
 ├── STATUS.md                     # live progress snapshot, rewritten every checkpoint
 ├── SUMMARY.md                    # module-adoption summary (regenerated daily)
 ├── DRIFTERS.md                   # unresolved ownership drift report (regenerated daily)
+├── module-maven.properties       # module-name → Maven groupId:artifactId mapping (regenerated daily)
 ├── state.properties              # crawler resume point (index chain, last applied chunk, sweep start)
 ├── modules/                      # per-module version history (what consumers care about)
 │   ├── com/fasterxml/jackson/core/versions.tsv     # full audit log (every claim ever seen)
@@ -408,7 +409,7 @@ Optional system properties:
 
 ## Companion tools
 
-Four standalone main classes complement the crawler. The first three share its scanner pipeline (skipping the index streamer); the fourth, `Regenerate`, only touches the resolved TSVs and needs no scanner at all.
+Several standalone main classes complement the crawler. `RetryFailed` and `ReconcileMetadata` share its scanner pipeline (skipping the index streamer); the rest (`ModuleSummary`, `Regenerate`, `DriftReport`, `ModuleMaven`) only read the on-disk data and need no scanner at all.
 
 ### `build.jenesis.crawler.RetryFailed`
 
@@ -537,6 +538,18 @@ Properties:
 | `jenesis.crawler.drift.emit` | _(none)_ | When set to a category name, also writes a `SetOwners` properties file proposing the inferred owner(s) for every module in that category. Applying it (SetOwners auto-rejects the other publishers) clears those modules from the next report. |
 | `jenesis.crawler.drift.emit.file` | `drift-<category>.properties` | Emit target path. |
 | `jenesis.crawler.drift.detail.limit` | `200` | Per-category timeline rows. Aggregates and emit files always cover the full set. |
+
+### `build.jenesis.crawler.ModuleMaven`
+
+Walks `data/modules/`, reads each resolved `modules.tsv` (the module-info-version view), and writes a `<module-name>=<groupId>:<artifactId>` properties mapping to stdout, one line per module, sorted by module name. The coordinate is taken from the latest row of `modules.tsv`, so each module name maps to its canonical owner. The intended consumer is a build tool that needs to turn a Java module name into the Maven coordinate that publishes it (see [gradlex-org/java-module-dependencies#320](https://github.com/gradlex-org/java-module-dependencies/issues/320)).
+
+```
+java sources/build/jenesis/crawler/ModuleMaven.java > data/module-maven.properties
+```
+
+Only modules whose name **aligns with the owning coordinate** are emitted: a row is kept when its module name starts with the owning `groupId` or with a known alias of it (e.g. the `org.openjfx` group publishes `javafx.*` modules and `org.projectlombok` publishes `lombok`). The alias table (`computeMavenGroupAlias`) holds the hand-maintained exceptions; every other group falls back to the groupId with hyphens removed. Modules whose name bears no relation to the owning groupId (shaded redeclarations, injected names) are dropped, so the mapping only contains coordinates that follow the module-naming convention and can be trusted by a name-to-coordinate lookup.
+
+Unlike the other tools, the input path is fixed at `data/modules` (the `jenesis.crawler.data` property is not consulted) and the result is written to stdout. The `summary.yml` workflow redirects it to `data/module-maven.properties` and commits the file only when it changes.
 
 ## How the crawl works
 
