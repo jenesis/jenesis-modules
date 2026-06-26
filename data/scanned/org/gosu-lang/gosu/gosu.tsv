@@ -13,3 +13,4 @@
 1.18.7-incremental-alpha-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu/1.18.7-incremental-alpha-7/gosu-1.18.7-incremental-alpha-7.jar returned status 404
 1.18.7-incremental-alpha-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu/1.18.7-incremental-alpha-8/gosu-1.18.7-incremental-alpha-8.jar returned status 404
 1.18.7-incremental-alpha-9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu/1.18.7-incremental-alpha-9/gosu-1.18.7-incremental-alpha-9.jar returned status 404
+1.18.8-luca-inc-alpha-02		2026-06-18T20:08:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu/1.18.8-luca-inc-alpha-02/gosu-1.18.8-luca-inc-alpha-02.jar returned status 404

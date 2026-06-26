@@ -3,4 +3,6 @@
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.4.2/pnc-api-parent-3.4.2.jar returned status 404
 3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.4.3/pnc-api-parent-3.4.3.jar returned status 404
 3.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.4.4/pnc-api-parent-3.4.4.jar returned status 404
+3.4.5		2026-06-18T15:53:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.4.5/pnc-api-parent-3.4.5.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.5.0/pnc-api-parent-3.5.0.jar returned status 404
+3.5.1		2026-06-19T13:21:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/pnc-api-parent/3.5.1/pnc-api-parent-3.5.1.jar returned status 404

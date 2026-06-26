@@ -8,3 +8,4 @@
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-bom/2.2.7/gwt-spring-boot-starter-bom-2.2.7.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-bom/4.0.5/gwt-spring-boot-starter-bom-4.0.5.jar returned status 404
 4.1.1		2026-05-29T13:35:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-bom/4.1.1/gwt-spring-boot-starter-bom-4.1.1.jar returned status 404
+4.1.2		2026-06-19T09:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-bom/4.1.2/gwt-spring-boot-starter-bom-4.1.2.jar returned status 404

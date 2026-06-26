@@ -23,3 +23,9 @@
 0.146.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.146.76/killbill-oss-parent-0.146.76.jar returned status 404
 0.146.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.146.77/killbill-oss-parent-0.146.77.jar returned status 404
 0.146.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.146.78/killbill-oss-parent-0.146.78.jar returned status 404
+0.147.1		2026-06-16T19:56:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.1/killbill-oss-parent-0.147.1.jar returned status 404
+0.147.2		2026-06-16T20:26:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.2/killbill-oss-parent-0.147.2.jar returned status 404
+0.147.3		2026-06-18T08:22:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.3/killbill-oss-parent-0.147.3.jar returned status 404
+0.147.4		2026-06-18T15:34:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.4/killbill-oss-parent-0.147.4.jar returned status 404
+0.147.5		2026-06-19T13:56:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.5/killbill-oss-parent-0.147.5.jar returned status 404
+0.147.6		2026-06-19T20:50:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-oss-parent/0.147.6/killbill-oss-parent-0.147.6.jar returned status 404

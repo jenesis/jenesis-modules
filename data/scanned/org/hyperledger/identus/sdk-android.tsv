@@ -1,3 +1,5 @@
 4.0.0-rc.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/sdk-android/4.0.0-rc.5/sdk-android-4.0.0-rc.5.jar returned status 404
 4.0.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/sdk-android/4.0.0-rc.6/sdk-android-4.0.0-rc.6.jar returned status 404
 4.0.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/sdk-android/4.0.0-rc.7/sdk-android-4.0.0-rc.7.jar returned status 404
+4.0.1		2026-06-17T12:38:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/sdk-android/4.0.1/sdk-android-4.0.1.jar returned status 404
+5.0.0		2026-06-17T16:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperledger/identus/sdk-android/5.0.0/sdk-android-5.0.0.jar returned status 404

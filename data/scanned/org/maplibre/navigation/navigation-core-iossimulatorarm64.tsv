@@ -8,6 +8,10 @@
 5.0.0-pre11	metadata	2025-09-30T20:23:13Z	
 5.0.0-pre12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/navigation/navigation-core-iossimulatorarm64/5.0.0-pre12/navigation-core-iossimulatorarm64-5.0.0-pre12.jar returned status 404
 5.0.0-pre12	metadata	2025-12-16T14:49:55Z	
+5.0.0-pre13		2026-06-18T07:07:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/navigation/navigation-core-iossimulatorarm64/5.0.0-pre13/navigation-core-iossimulatorarm64-5.0.0-pre13.jar returned status 404
+5.0.0-pre13	metadata	2026-06-18T07:07:45Z	
+5.0.0-pre14		2026-06-19T09:29:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/navigation/navigation-core-iossimulatorarm64/5.0.0-pre14/navigation-core-iossimulatorarm64-5.0.0-pre14.jar returned status 404
+5.0.0-pre14	metadata	2026-06-19T09:29:21Z	
 5.0.0-pre2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/navigation/navigation-core-iossimulatorarm64/5.0.0-pre2/navigation-core-iossimulatorarm64-5.0.0-pre2.jar returned status 404
 5.0.0-pre2	metadata	2025-03-09T22:07:48Z	
 5.0.0-pre3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/navigation/navigation-core-iossimulatorarm64/5.0.0-pre3/navigation-core-iossimulatorarm64-5.0.0-pre3.jar returned status 404

@@ -3,3 +3,5 @@
 1.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/tasks-extension/1.1.0.1/tasks-extension-1.1.0.1.jar returned status 404
 1.1.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/tasks-extension/1.1.0.1-RC/tasks-extension-1.1.0.1-RC.jar returned status 404
 1.1.0.2-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/tasks-extension/1.1.0.2-RC/tasks-extension-1.1.0.2-RC.jar returned status 404
+1.1.0.7		2026-06-17T13:57:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/tasks-extension/1.1.0.7/tasks-extension-1.1.0.7.jar returned status 404
+1.1.0.7-RC		2026-06-17T13:44:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/tasks-extension/1.1.0.7-RC/tasks-extension-1.1.0.7-RC.jar returned status 404
