@@ -5,3 +5,6 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.4.0/craftitem-1.4.0.jar returned status 404
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.4.1/craftitem-1.4.1.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.5.0/craftitem-1.5.0.jar returned status 404
+1.6.0		2026-06-18T11:30:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.6.0/craftitem-1.6.0.jar returned status 404
+1.6.1		2026-06-20T01:54:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.6.1/craftitem-1.6.1.jar returned status 404
+1.6.2		2026-06-21T09:24:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/projectunified/craftitem/1.6.2/craftitem-1.6.2.jar returned status 404

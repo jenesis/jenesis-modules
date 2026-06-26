@@ -10,3 +10,7 @@
 0.2.2	metadata	2026-06-13T14:23:02Z	
 0.2.3		2026-06-16T10:59:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-network-core-iosx64/0.2.3/console-network-core-iosx64-0.2.3.jar returned status 404
 0.2.3	metadata	2026-06-16T10:59:52Z	
+0.2.4		2026-06-18T06:27:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-network-core-iosx64/0.2.4/console-network-core-iosx64-0.2.4.jar returned status 404
+0.2.4	metadata	2026-06-18T06:27:39Z	
+0.2.5		2026-06-22T19:01:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-network-core-iosx64/0.2.5/console-network-core-iosx64-0.2.5.jar returned status 404
+0.2.5	metadata	2026-06-22T19:01:16Z	

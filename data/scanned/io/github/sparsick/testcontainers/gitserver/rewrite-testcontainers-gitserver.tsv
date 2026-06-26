@@ -4,6 +4,7 @@
 0.13.0		2026-02-24T17:39:05Z	
 0.14.0		2026-03-07T14:53:51Z	
 0.15.0		2026-04-20T15:20:39Z	
+0.16.0		2026-06-22T09:59:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sparsick/testcontainers/gitserver/rewrite-testcontainers-gitserver/0.16.0/rewrite-testcontainers-gitserver-0.16.0.jar returned status 404
 0.5.0		2024-01-08T16:29:49Z	
 0.6.0		2024-01-27T08:04:44Z	
 0.7.0		2024-05-19T10:48:24Z	

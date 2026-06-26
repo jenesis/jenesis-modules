@@ -28,6 +28,12 @@
 0.21.0	metadata	2026-06-17T12:02:21Z	
 0.22.0		2026-06-17T12:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.22.0/configuration-iosarm64-0.22.0.jar returned status 404
 0.22.0	metadata	2026-06-17T12:56:01Z	
+0.23.0		2026-06-19T11:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.23.0/configuration-iosarm64-0.23.0.jar returned status 404
+0.23.0	metadata	2026-06-19T11:48:27Z	
+0.24.0		2026-06-19T12:16:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.24.0/configuration-iosarm64-0.24.0.jar returned status 404
+0.24.0	metadata	2026-06-19T12:16:45Z	
+0.25.0		2026-06-19T16:47:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.25.0/configuration-iosarm64-0.25.0.jar returned status 404
+0.25.0	metadata	2026-06-19T16:47:37Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.3.0/configuration-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-05-04T04:44:43Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-iosarm64/0.4.0/configuration-iosarm64-0.4.0.jar returned status 404

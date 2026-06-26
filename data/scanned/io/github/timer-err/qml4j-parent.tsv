@@ -2,7 +2,13 @@
 0.1.1		2026-06-08T15:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.1.1/qml4j-parent-0.1.1.jar returned status 404
 0.2.0		2026-06-14T03:15:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.0/qml4j-parent-0.2.0.jar returned status 404
 0.2.1		2026-06-14T05:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.1/qml4j-parent-0.2.1.jar returned status 404
+0.2.10		2026-06-18T16:10:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.10/qml4j-parent-0.2.10.jar returned status 404
+0.2.11		2026-06-19T03:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.11/qml4j-parent-0.2.11.jar returned status 404
+0.2.12		2026-06-19T15:19:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.12/qml4j-parent-0.2.12.jar returned status 404
 0.2.3		2026-06-15T07:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.3/qml4j-parent-0.2.3.jar returned status 404
 0.2.4		2026-06-15T08:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.4/qml4j-parent-0.2.4.jar returned status 404
 0.2.5		2026-06-16T16:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.5/qml4j-parent-0.2.5.jar returned status 404
 0.2.6		2026-06-17T16:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.6/qml4j-parent-0.2.6.jar returned status 404
+0.2.7		2026-06-18T11:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.7/qml4j-parent-0.2.7.jar returned status 404
+0.2.8		2026-06-18T13:07:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.8/qml4j-parent-0.2.8.jar returned status 404
+0.2.9		2026-06-18T14:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/timer-err/qml4j-parent/0.2.9/qml4j-parent-0.2.9.jar returned status 404
