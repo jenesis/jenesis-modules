@@ -26,5 +26,13 @@
 0.2.6	metadata	2026-06-08T08:39:17Z	
 0.2.7		2026-06-12T08:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.2.7/nostr-sdk-kmp-iosx64-0.2.7.jar returned status 404
 0.2.7	metadata	2026-06-12T08:00:06Z	
+0.2.8		2026-06-16T04:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.2.8/nostr-sdk-kmp-iosx64-0.2.8.jar returned status 404
+0.2.8	metadata	2026-06-16T04:14:37Z	
+0.2.9		2026-06-16T06:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.2.9/nostr-sdk-kmp-iosx64-0.2.9.jar returned status 404
+0.2.9	metadata	2026-06-16T06:38:43Z	
+0.3		2026-06-17T09:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.3/nostr-sdk-kmp-iosx64-0.3.jar returned status 404
+0.3	metadata	2026-06-17T09:18:33Z	
+0.3.1		2026-06-19T09:32:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.3.1/nostr-sdk-kmp-iosx64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-06-19T09:32:52Z	
 0.44.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-iosx64/0.44.2/nostr-sdk-kmp-iosx64-0.44.2.jar returned status 404
 0.44.2	metadata	2026-04-30T08:37:29Z	
