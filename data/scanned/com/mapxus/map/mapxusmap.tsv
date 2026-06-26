@@ -9,6 +9,7 @@
 11.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/11.3.0/mapxusmap-11.3.0.jar returned status 404
 11.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/11.4.0/mapxusmap-11.4.0.jar returned status 404
 11.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/11.5.0/mapxusmap-11.5.0.jar returned status 404
+11.6.0		2026-06-22T06:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/11.6.0/mapxusmap-11.6.0.jar returned status 404
 2.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/2.0.0-beta/mapxusmap-2.0.0-beta.jar returned status 404
 2.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/2.1.0-beta/mapxusmap-2.1.0-beta.jar returned status 404
 2.1.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapxus/map/mapxusmap/2.1.1-beta/mapxusmap-2.1.1-beta.jar returned status 404

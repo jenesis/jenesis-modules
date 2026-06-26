@@ -6,3 +6,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base-bom/2.0.0/plugin-base-bom-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base-bom/3.0.0/plugin-base-bom-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base-bom/3.0.1/plugin-base-bom-3.0.1.jar returned status 404
+3.1.0		2026-06-24T07:37:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base-bom/3.1.0/plugin-base-bom-3.1.0.jar returned status 404

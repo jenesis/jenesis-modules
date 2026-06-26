@@ -184,6 +184,8 @@
 14.2.0	metadata	2026-05-07T08:18:49Z	
 14.2.1		2026-05-24T12:21:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-compose-iossimulatorarm64/14.2.1/aboutlibraries-compose-iossimulatorarm64-14.2.1.jar returned status 404
 14.2.1	metadata	2026-05-24T12:21:36Z	
+15.0.0		2026-06-20T11:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-compose-iossimulatorarm64/15.0.0/aboutlibraries-compose-iossimulatorarm64-15.0.0.jar returned status 404
+15.0.0	metadata	2026-06-20T11:05:07Z	
 15.0.0-a02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-compose-iossimulatorarm64/15.0.0-a02/aboutlibraries-compose-iossimulatorarm64-15.0.0-a02.jar returned status 404
 15.0.0-a02	metadata	2026-05-07T14:48:55Z	
 15.0.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-compose-iossimulatorarm64/15.0.0-b01/aboutlibraries-compose-iossimulatorarm64-15.0.0-b01.jar returned status 404

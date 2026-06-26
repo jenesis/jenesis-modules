@@ -7,6 +7,7 @@
 0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.16/mockposable-runtime-composeui-0.16.jar returned status 404
 0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.17/mockposable-runtime-composeui-0.17.jar returned status 404
 0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.18/mockposable-runtime-composeui-0.18.jar returned status 404
+0.19		2026-06-20T06:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.19/mockposable-runtime-composeui-0.19.jar returned status 404
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.2/mockposable-runtime-composeui-0.2.jar returned status 404
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.3/mockposable-runtime-composeui-0.3.jar returned status 404
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jeppeman/mockposable/mockposable-runtime-composeui/0.4/mockposable-runtime-composeui-0.4.jar returned status 404

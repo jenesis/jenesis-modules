@@ -6,3 +6,4 @@
 42.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/api-ads/google-ads-bom/42.2.0/google-ads-bom-42.2.0.jar returned status 404
 43.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/api-ads/google-ads-bom/43.0.0/google-ads-bom-43.0.0.jar returned status 404
 43.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/api-ads/google-ads-bom/43.1.0/google-ads-bom-43.1.0.jar returned status 404
+43.2.0		2026-06-24T21:58:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/api-ads/google-ads-bom/43.2.0/google-ads-bom-43.2.0.jar returned status 404

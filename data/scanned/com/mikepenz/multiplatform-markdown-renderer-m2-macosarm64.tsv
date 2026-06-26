@@ -126,7 +126,11 @@
 0.41.0	metadata	2026-05-17T17:03:49Z	
 0.41.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m2-macosarm64/0.41.0-b01/multiplatform-markdown-renderer-m2-macosarm64-0.41.0-b01.jar returned status 404
 0.41.0-b01	metadata	2026-05-12T06:25:29Z	
+0.42.0		2026-06-20T09:58:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m2-macosarm64/0.42.0/multiplatform-markdown-renderer-m2-macosarm64-0.42.0.jar returned status 404
+0.42.0	metadata	2026-06-20T09:58:34Z	
 0.42.0-b01		2026-06-07T14:56:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m2-macosarm64/0.42.0-b01/multiplatform-markdown-renderer-m2-macosarm64-0.42.0-b01.jar returned status 404
 0.42.0-b01	metadata	2026-06-07T14:56:43Z	
 0.42.0-b02		2026-06-16T07:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m2-macosarm64/0.42.0-b02/multiplatform-markdown-renderer-m2-macosarm64-0.42.0-b02.jar returned status 404
 0.42.0-b02	metadata	2026-06-16T07:03:38Z	
+0.43.0		2026-06-22T19:39:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/multiplatform-markdown-renderer-m2-macosarm64/0.43.0/multiplatform-markdown-renderer-m2-macosarm64-0.43.0.jar returned status 404
+0.43.0	metadata	2026-06-22T19:39:40Z	

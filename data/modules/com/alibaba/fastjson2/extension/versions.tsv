@@ -96,3 +96,7 @@
 2.12_2.0.0.6	named	com.huaweicloud.dws	dws-connector-flink-sql-1.17	2026-04-17T09:06:26Z	2.0.46
 2.12_2.0.0.6	named	com.huaweicloud.dws	dws-connector-flink-sql-1.20	2026-04-17T09:06:26Z	2.0.46
 2.0.62	named	com.alibaba.fastjson2	fastjson2-extension	2026-05-05T14:08:48Z	2.0.62
+2.12_2.1.0.2	named	com.huaweicloud.dws	dws-connector-flink-sql-1.12	2026-06-24T11:48:32Z	2.0.46
+2.12_2.1.0.2	named	com.huaweicloud.dws	dws-connector-flink-sql-1.13	2026-06-24T11:48:32Z	2.0.46
+2.12_2.1.0.2	named	com.huaweicloud.dws	dws-connector-flink-sql-1.20	2026-06-24T11:48:32Z	2.0.46
+2.12_2.1.0.2	named	com.huaweicloud.dws	dws-connector-flink-sql-1.17	2026-06-24T11:48:33Z	2.0.46

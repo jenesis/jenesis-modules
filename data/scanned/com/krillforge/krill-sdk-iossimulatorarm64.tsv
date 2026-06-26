@@ -78,6 +78,14 @@
 0.0.5	metadata	2026-04-25T13:05:00Z	
 0.0.50		2026-06-18T15:07:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.50/krill-sdk-iossimulatorarm64-0.0.50.jar returned status 404
 0.0.50	metadata	2026-06-18T15:07:57Z	
+0.0.52		2026-06-23T15:10:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.52/krill-sdk-iossimulatorarm64-0.0.52.jar returned status 404
+0.0.52	metadata	2026-06-23T15:10:14Z	
+0.0.54		2026-06-24T14:13:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.54/krill-sdk-iossimulatorarm64-0.0.54.jar returned status 404
+0.0.54	metadata	2026-06-24T14:13:41Z	
+0.0.55		2026-06-24T15:43:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.55/krill-sdk-iossimulatorarm64-0.0.55.jar returned status 404
+0.0.55	metadata	2026-06-24T15:43:10Z	
+0.0.56		2026-06-24T17:40:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.56/krill-sdk-iossimulatorarm64-0.0.56.jar returned status 404
+0.0.56	metadata	2026-06-24T17:40:35Z	
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.6/krill-sdk-iossimulatorarm64-0.0.6.jar returned status 404
 0.0.6	metadata	2026-04-25T14:31:18Z	
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-iossimulatorarm64/0.0.7/krill-sdk-iossimulatorarm64-0.0.7.jar returned status 404

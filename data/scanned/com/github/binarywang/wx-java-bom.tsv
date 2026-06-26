@@ -23,4 +23,5 @@
 4.8.3.B			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/binarywang/wx-java-bom/4.8.3.B/wx-java-bom-4.8.3.B.jar returned status 404
 4.8.4-20260609.153254		2026-06-09T07:36:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/binarywang/wx-java-bom/4.8.4-20260609.153254/wx-java-bom-4.8.4-20260609.153254.jar returned status 404
 4.8.4-20260612.150047		2026-06-12T07:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/binarywang/wx-java-bom/4.8.4-20260612.150047/wx-java-bom-4.8.4-20260612.150047.jar returned status 404
+4.8.4-20260623.211820		2026-06-23T13:21:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/binarywang/wx-java-bom/4.8.4-20260623.211820/wx-java-bom-4.8.4-20260623.211820.jar returned status 404
 4.8.4.B		2026-06-08T15:18:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/binarywang/wx-java-bom/4.8.4.B/wx-java-bom-4.8.4.B.jar returned status 404

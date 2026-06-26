@@ -38,6 +38,10 @@
 0.0.49		2026-06-16T17:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.49/krill-sdk-android-0.0.49.jar returned status 404
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.5/krill-sdk-android-0.0.5.jar returned status 404
 0.0.50		2026-06-18T15:07:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.50/krill-sdk-android-0.0.50.jar returned status 404
+0.0.52		2026-06-23T15:10:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.52/krill-sdk-android-0.0.52.jar returned status 404
+0.0.54		2026-06-24T14:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.54/krill-sdk-android-0.0.54.jar returned status 404
+0.0.55		2026-06-24T15:43:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.55/krill-sdk-android-0.0.55.jar returned status 404
+0.0.56		2026-06-24T17:40:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.56/krill-sdk-android-0.0.56.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.6/krill-sdk-android-0.0.6.jar returned status 404
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.7/krill-sdk-android-0.0.7.jar returned status 404
 0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krillforge/krill-sdk-android/0.0.8/krill-sdk-android-0.0.8.jar returned status 404
