@@ -24,5 +24,6 @@
 0.29.1		2026-06-09T13:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.29.1/skainet-io-safetensors-android-0.29.1.jar returned status 404
 0.30.0		2026-06-13T17:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.30.0/skainet-io-safetensors-android-0.30.0.jar returned status 404
 0.31.0		2026-06-15T16:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.31.0/skainet-io-safetensors-android-0.31.0.jar returned status 404
+0.31.2		2026-06-18T05:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.31.2/skainet-io-safetensors-android-0.31.2.jar returned status 404
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.9.1/skainet-io-safetensors-android-0.9.1.jar returned status 404
 0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-safetensors-android/0.9.2/skainet-io-safetensors-android-0.9.2.jar returned status 404

@@ -22,3 +22,5 @@
 0.30.0	metadata	2026-06-14T19:11:56Z	
 0.31.0		2026-06-15T20:19:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-performance-macosarm64/0.31.0/skainet-transformers-performance-macosarm64-0.31.0.jar returned status 404
 0.31.0	metadata	2026-06-15T20:19:17Z	
+0.31.1		2026-06-17T17:35:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-performance-macosarm64/0.31.1/skainet-transformers-performance-macosarm64-0.31.1.jar returned status 404
+0.31.1	metadata	2026-06-17T17:35:34Z	

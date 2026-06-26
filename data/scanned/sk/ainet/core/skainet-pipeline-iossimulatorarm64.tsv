@@ -40,3 +40,5 @@
 0.30.0	metadata	2026-06-13T17:21:11Z	
 0.31.0		2026-06-15T16:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-pipeline-iossimulatorarm64/0.31.0/skainet-pipeline-iossimulatorarm64-0.31.0.jar returned status 404
 0.31.0	metadata	2026-06-15T16:40:26Z	
+0.31.2		2026-06-18T05:41:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-pipeline-iossimulatorarm64/0.31.2/skainet-pipeline-iossimulatorarm64-0.31.2.jar returned status 404
+0.31.2	metadata	2026-06-18T05:42:04Z	

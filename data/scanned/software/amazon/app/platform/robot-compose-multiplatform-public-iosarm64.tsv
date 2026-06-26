@@ -10,6 +10,8 @@
 0.0.13	metadata	2026-05-14T19:14:43Z	
 0.0.14		2026-05-21T05:10:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-compose-multiplatform-public-iosarm64/0.0.14/robot-compose-multiplatform-public-iosarm64-0.0.14.jar returned status 404
 0.0.14	metadata	2026-05-21T05:10:02Z	
+0.0.15		2026-06-16T00:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-compose-multiplatform-public-iosarm64/0.0.15/robot-compose-multiplatform-public-iosarm64-0.0.15.jar returned status 404
+0.0.15	metadata	2026-06-16T00:26:46Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-compose-multiplatform-public-iosarm64/0.0.2/robot-compose-multiplatform-public-iosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2025-05-03T03:41:31Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-compose-multiplatform-public-iosarm64/0.0.3/robot-compose-multiplatform-public-iosarm64-0.0.3.jar returned status 404
