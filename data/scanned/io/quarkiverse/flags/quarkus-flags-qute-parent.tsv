@@ -7,3 +7,4 @@
 1.0.0.Beta7		2026-05-28T15:18:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flags/quarkus-flags-qute-parent/1.0.0.Beta7/quarkus-flags-qute-parent-1.0.0.Beta7.jar returned status 404
 1.0.0.Beta8		2026-05-29T07:00:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flags/quarkus-flags-qute-parent/1.0.0.Beta8/quarkus-flags-qute-parent-1.0.0.Beta8.jar returned status 404
 1.0.0.CR1		2026-06-04T13:46:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flags/quarkus-flags-qute-parent/1.0.0.CR1/quarkus-flags-qute-parent-1.0.0.CR1.jar returned status 404
+1.0.0.CR2		2026-06-19T11:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flags/quarkus-flags-qute-parent/1.0.0.CR2/quarkus-flags-qute-parent-1.0.0.CR2.jar returned status 404

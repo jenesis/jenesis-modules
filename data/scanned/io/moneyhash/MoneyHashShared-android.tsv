@@ -16,6 +16,8 @@
 078c3c5	debug-sources	2024-09-11T09:27:00Z	
 080a7b9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/080a7b9/MoneyHashShared-android-080a7b9.jar returned status 404
 080a7b9	debug-sources	2026-02-03T10:05:01Z	
+0843025		2026-06-21T15:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/0843025/MoneyHashShared-android-0843025.jar returned status 404
+0843025	debug-sources	2026-06-21T15:15:39Z	
 0957958			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/0957958/MoneyHashShared-android-0957958.jar returned status 404
 0957958	debug-sources	2025-05-15T11:11:53Z	
 0d2fb44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/0d2fb44/MoneyHashShared-android-0d2fb44.jar returned status 404
@@ -150,6 +152,8 @@
 8a20b91	debug-sources	2026-05-05T13:39:12Z	
 8c708de			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/8c708de/MoneyHashShared-android-8c708de.jar returned status 404
 8c708de	debug-sources	2024-10-04T11:30:59Z	
+946467d		2026-06-22T17:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/946467d/MoneyHashShared-android-946467d.jar returned status 404
+946467d	debug-sources	2026-06-22T17:20:28Z	
 97e2def			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/97e2def/MoneyHashShared-android-97e2def.jar returned status 404
 97e2def	debug-sources	2024-10-20T08:56:04Z	
 98f9c81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/98f9c81/MoneyHashShared-android-98f9c81.jar returned status 404
