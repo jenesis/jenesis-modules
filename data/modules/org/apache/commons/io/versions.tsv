@@ -955,3 +955,4 @@
 2.3.0	named	org.apache.flink	flink-azure-fs-hadoop	2026-06-14T15:32:02Z	2.15.1
 1.122.0	named	no.entur	schema2proto-lib	2026-06-15T13:07:06Z	2.22.0
 0.0.27	named	io.github.liquid-java	liquidjava-verifier	2026-06-21T22:41:04Z	2.14.0
+1.2.0	named	com.jfrog	maven-dep-tree	2026-06-24T11:05:39Z	2.14.0

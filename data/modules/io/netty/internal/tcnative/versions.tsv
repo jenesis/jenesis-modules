@@ -758,3 +758,4 @@
 2.1.1	named	org.apache.ozone	ozone-filesystem-shaded	2026-06-16T06:08:43Z	2.0.77.Final
 0.15.2	named	com.spotify.confidence	openfeature-provider-local	2026-06-18T08:46:16Z	2.0.72.Final
 4.129.15	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-19T17:07:33Z	2.0.72.Final
+43.2.0	named	com.google.api-ads	google-ads-shadowjar	2026-06-24T21:59:36Z	2.0.75.Final

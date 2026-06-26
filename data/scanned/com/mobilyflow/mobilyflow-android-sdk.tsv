@@ -76,6 +76,7 @@
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.6.0/mobilyflow-android-sdk-0.6.0.jar returned status 404
 0.6.0-alpha.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.6.0-alpha.0/mobilyflow-android-sdk-0.6.0-alpha.0.jar returned status 404
 0.6.0-alpha.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.6.0-alpha.9/mobilyflow-android-sdk-0.6.0-alpha.9.jar returned status 404
+0.7.0		2026-06-24T13:12:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.7.0/mobilyflow-android-sdk-0.7.0.jar returned status 404
 0.7.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.7.0-alpha.1/mobilyflow-android-sdk-0.7.0-alpha.1.jar returned status 404
 0.7.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.7.0-alpha.2/mobilyflow-android-sdk-0.7.0-alpha.2.jar returned status 404
 0.7.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilyflow/mobilyflow-android-sdk/0.7.0-alpha.3/mobilyflow-android-sdk-0.7.0-alpha.3.jar returned status 404

@@ -4,3 +4,5 @@
 1.0.5		2026-06-08T08:15:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jujin8/freeway/freeway-parent/1.0.5/freeway-parent-1.0.5.jar returned status 404
 1.1.0		2026-06-12T03:23:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jujin8/freeway/freeway-parent/1.1.0/freeway-parent-1.1.0.jar returned status 404
 1.1.1		2026-06-15T06:18:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jujin8/freeway/freeway-parent/1.1.1/freeway-parent-1.1.1.jar returned status 404
+1.2.0		2026-06-22T10:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jujin8/freeway/freeway-parent/1.2.0/freeway-parent-1.2.0.jar returned status 404
+1.2.1		2026-06-23T05:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jujin8/freeway/freeway-parent/1.2.1/freeway-parent-1.2.1.jar returned status 404

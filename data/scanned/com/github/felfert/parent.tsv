@@ -2,6 +2,7 @@
 1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.11/parent-1.11.jar returned status 404
 1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.12/parent-1.12.jar returned status 404
 1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.13/parent-1.13.jar returned status 404
+1.14		2026-06-22T06:20:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.14/parent-1.14.jar returned status 404
 1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.7/parent-1.7.jar returned status 404
 1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.8/parent-1.8.jar returned status 404
 1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/felfert/parent/1.9/parent-1.9.jar returned status 404

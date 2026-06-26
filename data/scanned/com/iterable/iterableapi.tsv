@@ -27,3 +27,4 @@
 3.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iterable/iterableapi/3.6.6/iterableapi-3.6.6.jar returned status 404
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iterable/iterableapi/3.7.0/iterableapi-3.7.0.jar returned status 404
 3.8.0		2026-05-27T23:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iterable/iterableapi/3.8.0/iterableapi-3.8.0.jar returned status 404
+3.9.0		2026-06-24T14:37:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iterable/iterableapi/3.9.0/iterableapi-3.9.0.jar returned status 404
