@@ -4,3 +4,4 @@
 0.41.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform/0.41.19/killbill-platform-0.41.19.jar returned status 404
 0.41.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform/0.41.20/killbill-platform-0.41.20.jar returned status 404
 0.41.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform/0.41.21/killbill-platform-0.41.21.jar returned status 404
+0.42.0		2026-06-18T21:24:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform/0.42.0/killbill-platform-0.42.0.jar returned status 404
