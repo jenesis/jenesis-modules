@@ -1,0 +1,2 @@
+6.0.0-RC1		2026-06-22T10:18:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-android/6.0.0-RC1/etsi-data-classes-android-6.0.0-RC1.jar returned status 404
+6.0.0-RC2		2026-06-23T12:52:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-android/6.0.0-RC2/etsi-data-classes-android-6.0.0-RC2.jar returned status 404

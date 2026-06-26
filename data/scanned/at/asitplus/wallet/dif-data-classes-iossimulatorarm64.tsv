@@ -76,3 +76,7 @@
 5.9.0	metadata	2025-11-03T14:16:01Z	
 5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/dif-data-classes-iossimulatorarm64/5.9.1/dif-data-classes-iossimulatorarm64-5.9.1.jar returned status 404
 5.9.1	metadata	2025-11-27T12:48:20Z	
+6.0.0-RC1		2026-06-22T10:18:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/dif-data-classes-iossimulatorarm64/6.0.0-RC1/dif-data-classes-iossimulatorarm64-6.0.0-RC1.jar returned status 404
+6.0.0-RC1	metadata	2026-06-22T10:18:14Z	
+6.0.0-RC2		2026-06-23T12:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/dif-data-classes-iossimulatorarm64/6.0.0-RC2/dif-data-classes-iossimulatorarm64-6.0.0-RC2.jar returned status 404
+6.0.0-RC2	metadata	2026-06-23T12:52:23Z	

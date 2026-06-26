@@ -54,6 +54,8 @@
 3.22.0	metadata	2026-05-04T12:47:43Z	
 3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-cosef-iossimulatorarm64/3.23.0/indispensable-cosef-iossimulatorarm64-3.23.0.jar returned status 404
 3.23.0	metadata	2026-05-19T08:17:59Z	
+3.24.0		2026-06-23T19:28:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-cosef-iossimulatorarm64/3.24.0/indispensable-cosef-iossimulatorarm64-3.24.0.jar returned status 404
+3.24.0	metadata	2026-06-23T19:28:09Z	
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-cosef-iossimulatorarm64/3.6.0/indispensable-cosef-iossimulatorarm64-3.6.0.jar returned status 404
 3.6.0	metadata	2024-08-02T12:04:20Z	
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-cosef-iossimulatorarm64/3.7.0/indispensable-cosef-iossimulatorarm64-3.7.0.jar returned status 404

@@ -26,3 +26,5 @@
 3.22.0	metadata	2026-05-04T12:47:39Z	
 3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-watchossimulatorarm64/3.23.0/indispensable-watchossimulatorarm64-3.23.0.jar returned status 404
 3.23.0	metadata	2026-05-19T08:17:58Z	
+3.24.0		2026-06-23T19:28:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/indispensable-watchossimulatorarm64/3.24.0/indispensable-watchossimulatorarm64-3.24.0.jar returned status 404
+3.24.0	metadata	2026-06-23T19:28:02Z	

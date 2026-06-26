@@ -25,3 +25,4 @@
 4.9.0		2026-06-13T01:54:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar/4.9.0/pulsar-4.9.0.jar returned status 404
 4.9.1		2026-06-15T12:09:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar/4.9.1/pulsar-4.9.1.jar returned status 404
 4.9.2		2026-06-16T09:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar/4.9.2/pulsar-4.9.2.jar returned status 404
+4.9.3		2026-06-24T11:51:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar/4.9.3/pulsar-4.9.3.jar returned status 404

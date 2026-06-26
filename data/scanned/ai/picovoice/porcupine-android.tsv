@@ -19,3 +19,5 @@
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/porcupine-android/3.0.2/porcupine-android-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/porcupine-android/3.0.3/porcupine-android-3.0.3.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/porcupine-android/4.0.0/porcupine-android-4.0.0.jar returned status 404
+4.0.1		2026-06-25T22:22:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/porcupine-android/4.0.1/porcupine-android-4.0.1.jar returned status 404
+4.0.2		2026-06-25T22:50:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/porcupine-android/4.0.2/porcupine-android-4.0.2.jar returned status 404

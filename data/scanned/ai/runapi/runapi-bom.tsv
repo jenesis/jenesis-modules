@@ -1,0 +1,2 @@
+0.1.0		2026-06-24T14:57:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.1.0/runapi-bom-0.1.0.jar returned status 404
+0.1.1		2026-06-25T03:26:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.1.1/runapi-bom-0.1.1.jar returned status 404

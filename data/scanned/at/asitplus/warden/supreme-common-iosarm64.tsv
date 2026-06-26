@@ -34,3 +34,5 @@
 1.0.0-RC8	metadata	2026-04-12T13:17:58Z	
 1.0.0-RC9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/warden/supreme-common-iosarm64/1.0.0-RC9/supreme-common-iosarm64-1.0.0-RC9.jar returned status 404
 1.0.0-RC9	metadata	2026-04-15T16:45:52Z	
+1.0.1		2026-06-23T20:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/warden/supreme-common-iosarm64/1.0.1/supreme-common-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-06-23T20:07:12Z	
