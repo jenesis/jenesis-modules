@@ -4244,3 +4244,5 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.1	named	io.strimzi	crd-generator	2026-06-17T09:07:03Z	2.21.2
 1.5.2.15	named	com.linkedin.iceberg	iceberg-flink-runtime-1.18	2026-06-17T16:25:56Z	2.14.3
 1.5.2.15	named	com.linkedin.iceberg	iceberg-hive-runtime	2026-06-17T16:25:57Z	2.14.3
+2.0.10	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-18T01:46:50Z	2.20.1
+2.0.11	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-18T05:03:29Z	2.20.1

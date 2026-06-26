@@ -1,0 +1,2 @@
+1.0.0-alpha01		2026-06-17T10:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-concurrent-wasm-js/1.0.0-alpha01/redux-kotlin-concurrent-wasm-js-1.0.0-alpha01.jar returned status 404
+1.0.0-alpha02		2026-06-19T21:17:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-concurrent-wasm-js/1.0.0-alpha02/redux-kotlin-concurrent-wasm-js-1.0.0-alpha02.jar returned status 404
