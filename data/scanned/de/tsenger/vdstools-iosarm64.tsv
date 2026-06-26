@@ -18,6 +18,8 @@
 0.16.0	metadata	2026-04-14T08:23:42Z	
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/tsenger/vdstools-iosarm64/0.17.0/vdstools-iosarm64-0.17.0.jar returned status 404
 0.17.0	metadata	2026-05-13T19:44:48Z	
+0.18.0		2026-06-23T14:27:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/tsenger/vdstools-iosarm64/0.18.0/vdstools-iosarm64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-06-23T14:27:46Z	
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/tsenger/vdstools-iosarm64/0.8.0/vdstools-iosarm64-0.8.0.jar returned status 404
 0.8.0	metadata	2025-01-21T14:07:49Z	
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/tsenger/vdstools-iosarm64/0.8.1/vdstools-iosarm64-0.8.1.jar returned status 404

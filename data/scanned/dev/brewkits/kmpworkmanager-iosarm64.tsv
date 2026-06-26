@@ -40,3 +40,5 @@
 2.5.1	metadata	2026-05-20T04:23:31Z	
 3.0.0		2026-06-15T00:02:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-iosarm64/3.0.0/kmpworkmanager-iosarm64-3.0.0.jar returned status 404
 3.0.0	metadata	2026-06-15T00:02:07Z	
+3.0.1		2026-06-20T17:53:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-iosarm64/3.0.1/kmpworkmanager-iosarm64-3.0.1.jar returned status 404
+3.0.1	metadata	2026-06-20T17:53:55Z	

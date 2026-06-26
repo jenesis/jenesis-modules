@@ -2,3 +2,5 @@
 3.2.0	metadata	2025-11-10T12:21:49Z	
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/brudaswen/kotlinx/serialization/kotlinx-serialization-csv-iosx64/3.2.1/kotlinx-serialization-csv-iosx64-3.2.1.jar returned status 404
 3.2.1	metadata	2025-12-04T10:31:43Z	
+3.2.2		2026-06-23T16:23:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/brudaswen/kotlinx/serialization/kotlinx-serialization-csv-iosx64/3.2.2/kotlinx-serialization-csv-iosx64-3.2.2.jar returned status 404
+3.2.2	metadata	2026-06-23T16:23:40Z	

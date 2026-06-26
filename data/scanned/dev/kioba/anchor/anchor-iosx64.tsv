@@ -12,3 +12,5 @@
 0.1.6	metadata	2026-06-01T12:11:47Z	
 0.1.7		2026-06-08T11:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kioba/anchor/anchor-iosx64/0.1.7/anchor-iosx64-0.1.7.jar returned status 404
 0.1.7	metadata	2026-06-08T11:54:27Z	
+0.1.8		2026-06-22T12:16:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kioba/anchor/anchor-iosx64/0.1.8/anchor-iosx64-0.1.8.jar returned status 404
+0.1.8	metadata	2026-06-22T12:16:40Z	

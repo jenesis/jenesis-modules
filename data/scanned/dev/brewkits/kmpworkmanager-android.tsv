@@ -19,3 +19,4 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-android/2.5.0/kmpworkmanager-android-2.5.0.jar returned status 404
 2.5.1		2026-05-20T04:23:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-android/2.5.1/kmpworkmanager-android-2.5.1.jar returned status 404
 3.0.0		2026-06-15T00:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-android/3.0.0/kmpworkmanager-android-3.0.0.jar returned status 404
+3.0.1		2026-06-20T17:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/kmpworkmanager-android/3.0.1/kmpworkmanager-android-3.0.1.jar returned status 404
