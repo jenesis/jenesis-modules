@@ -7,3 +7,4 @@
 0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/movexgeo/sdk/0.1.7/sdk-0.1.7.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/movexgeo/sdk/2.0.0/sdk-2.0.0.jar returned status 404
 2.0.1		2026-06-03T07:44:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/movexgeo/sdk/2.0.1/sdk-2.0.1.jar returned status 404
+2.0.2		2026-06-24T10:30:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/movexgeo/sdk/2.0.2/sdk-2.0.2.jar returned status 404

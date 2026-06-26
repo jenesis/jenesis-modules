@@ -17,3 +17,4 @@
 1.1.0-RC1		2026-05-27T21:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-api-wasm-js/1.1.0-RC1/ksrpc-api-wasm-js-1.1.0-RC1.jar returned status 404
 1.1.1		2026-06-03T14:54:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-api-wasm-js/1.1.1/ksrpc-api-wasm-js-1.1.1.jar returned status 404
 1.1.2		2026-06-11T20:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-api-wasm-js/1.1.2/ksrpc-api-wasm-js-1.1.2.jar returned status 404
+1.1.3		2026-06-22T15:30:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/ksrpc/ksrpc-api-wasm-js/1.1.3/ksrpc-api-wasm-js-1.1.3.jar returned status 404

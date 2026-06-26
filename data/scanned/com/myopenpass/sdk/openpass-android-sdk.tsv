@@ -4,6 +4,7 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.0.0/openpass-android-sdk-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.1.0/openpass-android-sdk-2.1.0.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.10.0/openpass-android-sdk-2.10.0.jar returned status 404
+2.11.0		2026-06-23T07:51:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.11.0/openpass-android-sdk-2.11.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.2.0/openpass-android-sdk-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.3.0/openpass-android-sdk-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myopenpass/sdk/openpass-android-sdk/2.4.0/openpass-android-sdk-2.4.0.jar returned status 404

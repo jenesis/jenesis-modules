@@ -48,3 +48,5 @@
 3.2.1	metadata	2026-05-31T20:36:20Z	
 3.2.2		2026-06-04T10:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-m3-iosarm64/3.2.2/compose-m3-iosarm64-3.2.2.jar returned status 404
 3.2.2	metadata	2026-06-04T10:41:56Z	
+3.2.3		2026-06-20T10:12:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-m3-iosarm64/3.2.3/compose-m3-iosarm64-3.2.3.jar returned status 404
+3.2.3	metadata	2026-06-20T10:12:36Z	
