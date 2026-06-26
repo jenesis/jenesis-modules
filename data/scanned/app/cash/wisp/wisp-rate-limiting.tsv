@@ -3025,3 +3025,15 @@
 2026.06.15.175118-0bf8712		2026-06-15T18:28:37Z	
 2026.06.15.175118-0bf8712	test-fixtures	2026-06-15T18:28:36Z	
 2026.06.15.175118-0bf8712	test-fixtures-sources	2026-06-15T18:28:38Z	
+2026.06.24.170118-e32380c		2026-06-24T17:37:53Z	
+2026.06.24.170118-e32380c	test-fixtures	2026-06-24T17:37:53Z	
+2026.06.24.170118-e32380c	test-fixtures-sources	2026-06-24T17:37:53Z	
+2026.06.25.065850-1aa816f		2026-06-25T07:36:23Z	
+2026.06.25.065850-1aa816f	test-fixtures	2026-06-25T07:36:22Z	
+2026.06.25.065850-1aa816f	test-fixtures-sources	2026-06-25T07:36:22Z	
+2026.06.25.150419-473b945		2026-06-25T15:42:43Z	
+2026.06.25.150419-473b945	test-fixtures	2026-06-25T15:42:43Z	
+2026.06.25.150419-473b945	test-fixtures-sources	2026-06-25T15:42:43Z	
+2026.06.26.010536-e30ec69		2026-06-26T01:42:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/wisp/wisp-rate-limiting/2026.06.26.010536-e30ec69/wisp-rate-limiting-2026.06.26.010536-e30ec69.jar returned status 404
+2026.06.26.010536-e30ec69	test-fixtures	2026-06-26T01:42:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/wisp/wisp-rate-limiting/2026.06.26.010536-e30ec69/wisp-rate-limiting-2026.06.26.010536-e30ec69-test-fixtures.jar returned status 404
+2026.06.26.010536-e30ec69	test-fixtures-sources	2026-06-26T01:42:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/wisp/wisp-rate-limiting/2026.06.26.010536-e30ec69/wisp-rate-limiting-2026.06.26.010536-e30ec69-test-fixtures-sources.jar returned status 404

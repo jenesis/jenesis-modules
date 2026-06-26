@@ -546,6 +546,8 @@
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.1/bom-1.6.1.jar returned status 404
 1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.10/bom-1.6.10.jar returned status 404
 1.6.100		2026-06-19T18:44:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.100/bom-1.6.100.jar returned status 404
+1.6.101		2026-06-22T19:32:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.101/bom-1.6.101.jar returned status 404
+1.6.102		2026-06-23T02:00:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.102/bom-1.6.102.jar returned status 404
 1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.11/bom-1.6.11.jar returned status 404
 1.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.12/bom-1.6.12.jar returned status 404
 1.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bom/1.6.13/bom-1.6.13.jar returned status 404

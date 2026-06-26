@@ -218,3 +218,4 @@
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-client	2026-06-04T19:55:59Z	3.6.1
 2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T19:56:22Z	3.6.1
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T20:05:59Z	3.6.1
+1.0.2-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-23T13:12:27Z	3.6.1

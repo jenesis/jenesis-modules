@@ -4,3 +4,5 @@
 6.0.0-beta03	metadata	2026-05-04T08:44:24Z	
 6.0.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/decompose-iosarm64/6.0.0-beta04/decompose-iosarm64-6.0.0-beta04.jar returned status 404
 6.0.0-beta04	metadata	2026-05-13T15:25:28Z	
+6.0.0-beta05		2026-06-23T11:47:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/decompose-iosarm64/6.0.0-beta05/decompose-iosarm64-6.0.0-beta05.jar returned status 404
+6.0.0-beta05	metadata	2026-06-23T11:47:38Z	

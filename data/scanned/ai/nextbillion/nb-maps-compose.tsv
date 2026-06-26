@@ -35,3 +35,4 @@
 3.2.0-alpha.1		2026-06-05T10:22:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nb-maps-compose/3.2.0-alpha.1/nb-maps-compose-3.2.0-alpha.1.jar returned status 404
 3.2.0-alpha.2		2026-06-05T12:33:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nb-maps-compose/3.2.0-alpha.2/nb-maps-compose-3.2.0-alpha.2.jar returned status 404
 3.2.0-alpha.3		2026-06-09T03:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nb-maps-compose/3.2.0-alpha.3/nb-maps-compose-3.2.0-alpha.3.jar returned status 404
+3.2.0-alpha.4		2026-06-24T10:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nb-maps-compose/3.2.0-alpha.4/nb-maps-compose-3.2.0-alpha.4.jar returned status 404
