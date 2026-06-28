@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -66,7 +66,7 @@ kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 21 other gr
   A * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10               |....==========......|
   R   com.kroegerama.openapi-kgen          2023-12..2026-06 0.18.2               |..............======|
   ?   org.octopusden.octopus.jira          2026-06..2026-06 2.0.3                |...................=|
-  R   io.pyroscope                         2025-04..2026-06 2.6.0                |.................===|
+  R   io.pyroscope                         2025-04..2026-06 2.6.0                |................====|
   ?   me.bechberger                        2026-06..2026-06 0.0.7                |...................=|
   R   io.github.team-sneakymouse           2026-05..2026-05 4.0-Beta-13          |...................=|
     + 16 more: com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, com.facebook, com.cjcrafter, (+4 more)
@@ -1211,7 +1211,7 @@ org.apache.commons.csv  [no clear owner; `io.github.pustike` is earliest and mos
   ? * io.github.pustike                    2019-01..2019-07 1.7.0                |....==..............|
   ?   org.sonarsource.scanner.engine       2026-05..2026-06 13.0.0.3653          |...................=|
   ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
-  ?   com.orientechnologies                2026-03..2026-06 3.2.53               |...................=|
+  ?   com.orientechnologies                2026-03..2026-06 3.2.53               |..................==|
   ?   org.apache.pinot                     2024-08..2026-04 1.5.0                |...............=====|
   ?   org.testingisdocumenting.znai        2026-01..2026-03 1.86                 |..................=.|
     + 9 more: be.ugent.idlab.knows, io.kestra.plugin, xyz.ottr.lutra, org.jetbrains.kotlinx, com.wizzdi, io.telicent.jena.graphql, io.telicent.jena, org.apache.jena, com.guicedee.services
