@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1191,7 +1191,7 @@ org.apache.commons.beanutils  [no clear owner; `com.guicedee.services` is earlie
   ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................===|
   ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
   ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................==|
-  ?   kg.apc                               2025-06..2026-03 1.12                 |.................===|
+  ?   kg.apc                               2025-06..2026-03 1.12                 |.................==.|
     + 2 more: com.github.bordertech.wcomponents, org.onebusaway
 java.ws.rs  [no clear owner; `javax.ws.rs` is earliest and most recent]
   ? * javax.ws.rs                          2017-06..2018-08 2.1.1                |.===................|
@@ -1378,7 +1378,7 @@ io.github.bucket4j.postgresql  [no clear owner; `com.github.vladimir-bukhtoyarov
 lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ? * org.projectlombok                    2018-05..2026-04 1.18.46              |...=================|
   ?   io.mosip.esignet.plugin.sunbirdrc    2025-02..2026-05 1.4.0                |................====|
-  ?   org.eclipse.hawkbit                  2026-03..2026-04 1.0.3                |...................=|
+  ?   org.eclipse.hawkbit                  2026-03..2026-04 1.0.3                |..................==|
   ?   io.inji.certify.sunbirdrc            2026-03..2026-03 0.6.0                |..................=.|
   ?   dev.alllexey                         2025-10..2026-03 1.5.0                |..................=.|
   ?   net.polyv                            2020-09..2026-03 2.2.8                |.......============.|
@@ -1386,7 +1386,7 @@ lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
 ihub.core  [no clear owner; `pub.ihub.lib` is earliest and most recent]
   ? * pub.ihub.lib                         2021-09..2026-05 1.7.7                |.........===========|
   ?   pub.ihub.integration                 2024-03..2025-05 0.1.12               |..............====..|
-  ?   pub.ihub.module                      2024-04..2025-05 0.2.2                |...............===..|
+  ?   pub.ihub.module                      2024-04..2025-05 0.2.2                |..............====..|
 liqp  [no clear owner; `nl.big-o` is earliest and most recent]
   ? * nl.big-o                             2018-06..2025-04 0.9.2.3              |...===============..|
   ?   io.github.luoxuansz                  2025-11..2026-05 1.1.3                |..................==|
