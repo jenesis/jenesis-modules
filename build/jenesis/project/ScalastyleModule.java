@@ -49,9 +49,8 @@ public class ScalastyleModule implements BuildExecutorModule {
         this.strict = strict;
     }
 
-    public static Path configurationFile(Path configuration) {
-        Path file = configuration.resolve("scalastyle-config.xml");
-        return Files.isRegularFile(file) ? file : null;
+    public static Path configurationFile(SequencedSet<Path> configuration) {
+        return BuildStep.locate(configuration, "scalastyle-config.xml");
     }
 
     public ScalastyleModule pinning(Pinning pinning) {

@@ -5,6 +5,7 @@ import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
+import build.jenesis.CycloneDx;
 import build.jenesis.HashDigestFunction;
 import build.jenesis.License;
 import build.jenesis.Resolver;
@@ -13,18 +14,30 @@ import build.jenesis.maven.MavenDependencyKey;
 
 public class Sbom implements BuildStep {
 
-    private final CycloneDxEmitter.Format format;
+    private final CycloneDx.Format format;
 
     public Sbom() {
-        this(CycloneDxEmitter.Format.JSON);
+        this(CycloneDx.Format.JSON);
     }
 
-    private Sbom(CycloneDxEmitter.Format format) {
+    private Sbom(CycloneDx.Format format) {
         this.format = format;
     }
 
-    public Sbom format(CycloneDxEmitter.Format format) {
+    public Sbom format(CycloneDx.Format format) {
         return new Sbom(format);
+    }
+
+    public static Sbom configured(Path properties) throws IOException {
+        String format = properties == null
+                ? "json"
+                : SequencedProperties.ofFiles(properties).getProperty("format", "json");
+        return switch (format.trim().toLowerCase(Locale.ROOT)) {
+            case "json" -> new Sbom().format(CycloneDx.Format.JSON);
+            case "xml" -> new Sbom().format(CycloneDx.Format.XML);
+            case "none" -> null;
+            default -> throw new IllegalArgumentException("Unknown SBOM format: " + format);
+        };
     }
 
     @Override
@@ -43,12 +56,10 @@ public class Sbom implements BuildStep {
         SequencedProperties metadata = SequencedProperties.ofFolders(folders, METADATA);
         String groupId = metadata.getProperty("project");
         String artifactId = metadata.getProperty("artifact");
-        String version = metadata.getProperty("version");
-        if (groupId == null || artifactId == null || version == null) {
-            throw new IllegalStateException("Missing project/artifact/version in metadata.properties for the SBOM");
-        }
+        String rawVersion = metadata.getProperty("version");
+        String version = rawVersion == null || rawVersion.equals("1-SNAPSHOT") ? null : rawVersion;
         HashDigestFunction hash = new HashDigestFunction("SHA-256");
-        SequencedMap<String, CycloneDxEmitter.Component> components = new LinkedHashMap<>();
+        SequencedMap<String, CycloneDx.Component> components = new LinkedHashMap<>();
         List<Path> graphFiles = new ArrayList<>();
         for (BuildStepArgument argument : arguments.values()) {
             Path graphFile = argument.folder().resolve("graph.properties");
@@ -81,20 +92,23 @@ public class Sbom implements BuildStep {
                         readLicenses(licenses, licenseKey)));
             }
         }
-        String projectRef = groupId + "/" + artifactId + "/" + version;
-        CycloneDxEmitter.Component project = new CycloneDxEmitter.Component(projectRef,
-                groupId,
-                artifactId,
-                version,
-                "pkg:maven/" + groupId + "/" + artifactId + "@" + version,
-                null,
-                ownLicenses(metadata));
-        List<CycloneDxEmitter.Dependency> dependencies = relationships(projectRef, components.keySet(), graphFiles);
-        String document = new CycloneDxEmitter().emit(format, project, new ArrayList<>(components.values()), dependencies);
+        CycloneDx.Component project = null;
+        String projectRef = null;
+        if (artifactId != null) {
+            projectRef = (groupId == null ? "" : groupId + "/") + artifactId + (version == null ? "" : "/" + version);
+            String purl = groupId == null
+                    ? null
+                    : "pkg:maven/" + groupId + "/" + artifactId + (version == null ? "" : "@" + version);
+            project = new CycloneDx.Component(projectRef, groupId, artifactId, version, purl, null,
+                    ownLicenses(metadata), metadata.getProperty("description"), developers(metadata), references(metadata));
+        }
+        List<CycloneDx.Dependency> dependencies = relationships(projectRef, components.keySet(), graphFiles);
+        String document = new CycloneDx().emit(format, project, new ArrayList<>(components.values()), dependencies);
 
         Path embedded = Files.createDirectories(context.next()
                 .resolve(RESOURCES).resolve("META-INF").resolve("sbom"));
-        String fileName = artifactId + "." + format.extension();
+        String base = artifactId == null ? "bom" : artifactId;
+        String fileName = base + "." + format.extension();
         Files.writeString(embedded.resolve(fileName), document);
         Manifest manifest = new Manifest();
         manifest.getMainAttributes().putValue("Manifest-Version", "1.0");
@@ -105,11 +119,11 @@ public class Sbom implements BuildStep {
         }
         Files.writeString(context.next().resolve(RESOURCES).resolve("META-INF").resolve("NOTICE"), notice(metadata));
         Path standalone = Files.createDirectories(context.next().resolve(REPORTS + "sbom"));
-        Files.writeString(standalone.resolve(artifactId + "-" + version + "." + format.extension()), document);
+        Files.writeString(standalone.resolve(base + (version == null ? "" : "-" + version) + "." + format.extension()), document);
         return CompletableFuture.completedStage(new BuildStepResult(true));
     }
 
-    private static CycloneDxEmitter.Component component(String coordinate, String sha256, List<License> licenses) {
+    private static CycloneDx.Component component(String coordinate, String sha256, List<License> licenses) {
         try {
             MavenDependencyKey.Versioned parsed = MavenDependencyKey.tryParse(coordinate);
             if (parsed.version() != null) {
@@ -126,13 +140,13 @@ public class Sbom implements BuildStep {
                 if (!qualifiers.isEmpty()) {
                     purl.append("?").append(String.join("&", qualifiers));
                 }
-                return new CycloneDxEmitter.Component(coordinate, key.groupId(), key.artifactId(), parsed.version(),
+                return new CycloneDx.Component(coordinate, key.groupId(), key.artifactId(), parsed.version(),
                         purl.toString(), sha256, licenses);
             }
         } catch (RuntimeException _) {
         }
         int last = coordinate.lastIndexOf('/');
-        return new CycloneDxEmitter.Component(coordinate,
+        return new CycloneDx.Component(coordinate,
                 null,
                 last < 0 ? coordinate : coordinate.substring(0, last),
                 last < 0 ? "" : coordinate.substring(last + 1),
@@ -141,14 +155,16 @@ public class Sbom implements BuildStep {
                 licenses);
     }
 
-    private static List<CycloneDxEmitter.Dependency> relationships(String projectRef,
+    private static List<CycloneDx.Dependency> relationships(String projectRef,
                                                                    Set<String> componentRefs,
                                                                    List<Path> graphFiles) throws IOException {
         if (graphFiles.isEmpty()) {
             return List.of();
         }
         SequencedMap<String, SequencedSet<String>> dependsOn = new LinkedHashMap<>();
-        dependsOn.put(projectRef, new LinkedHashSet<>());
+        if (projectRef != null) {
+            dependsOn.put(projectRef, new LinkedHashSet<>());
+        }
         for (String ref : componentRefs) {
             dependsOn.put(ref, new LinkedHashSet<>());
         }
@@ -169,6 +185,9 @@ public class Sbom implements BuildStep {
                 String parentRef;
                 if (edge.parent() == null) {
                     parentRef = projectRef;
+                    if (parentRef == null) {
+                        continue;
+                    }
                 } else {
                     String parentKey = vertexKeyByCoordinate.get(edge.parent());
                     parentRef = parentKey == null ? null : ref(parentKey, vertices);
@@ -179,8 +198,8 @@ public class Sbom implements BuildStep {
                 dependsOn.get(parentRef).add(childRef);
             }
         }
-        List<CycloneDxEmitter.Dependency> result = new ArrayList<>();
-        dependsOn.forEach((ref, on) -> result.add(new CycloneDxEmitter.Dependency(ref, new ArrayList<>(on))));
+        List<CycloneDx.Dependency> result = new ArrayList<>();
+        dependsOn.forEach((ref, on) -> result.add(new CycloneDx.Dependency(ref, new ArrayList<>(on))));
         return result;
     }
 
@@ -246,6 +265,43 @@ public class Sbom implements BuildStep {
             }
         }
         return byId.values().stream().map(entry -> new License(entry[0], entry[1])).toList();
+    }
+
+    private static List<CycloneDx.Author> developers(SequencedProperties metadata) {
+        SequencedMap<String, String[]> byId = new LinkedHashMap<>();
+        for (String key : metadata.stringPropertyNames()) {
+            if (!key.startsWith("developer.")) {
+                continue;
+            }
+            String suffix = key.substring("developer.".length());
+            int dot = suffix.lastIndexOf('.');
+            if (dot <= 0) {
+                continue;
+            }
+            String[] entry = byId.computeIfAbsent(suffix.substring(0, dot), _ -> new String[2]);
+            if (suffix.substring(dot + 1).equals("name")) {
+                entry[0] = metadata.getProperty(key);
+            } else if (suffix.substring(dot + 1).equals("email")) {
+                entry[1] = metadata.getProperty(key);
+            }
+        }
+        return byId.values().stream()
+                .filter(entry -> entry[0] != null || entry[1] != null)
+                .map(entry -> new CycloneDx.Author(entry[0], entry[1]))
+                .toList();
+    }
+
+    private static List<CycloneDx.ExternalReference> references(SequencedProperties metadata) {
+        List<CycloneDx.ExternalReference> references = new ArrayList<>();
+        String url = metadata.getProperty("url");
+        if (url != null) {
+            references.add(new CycloneDx.ExternalReference("website", url));
+        }
+        String scm = metadata.getProperty("scm.url");
+        if (scm != null) {
+            references.add(new CycloneDx.ExternalReference("vcs", scm));
+        }
+        return references;
     }
 
     private static String notice(SequencedProperties metadata) {

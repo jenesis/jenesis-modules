@@ -7,6 +7,7 @@ import build.jenesis.BuildStep;
 import build.jenesis.BuildStepArgument;
 import build.jenesis.BuildStepContext;
 import build.jenesis.BuildStepResult;
+import build.jenesis.SequencedProperties;
 
 public class Bind implements BuildStep {
 
@@ -41,7 +42,7 @@ public class Bind implements BuildStep {
                                   String name,
                                   boolean enabled,
                                   Path configurationFile,
-                                  BuildExecutorModule module) {
+                                  Supplier<? extends BuildExecutorModule> module) {
         if (!enabled || configurationFile == null) {
             return;
         }
@@ -52,8 +53,25 @@ public class Bind implements BuildStep {
             SequencedSet<String> toolInputs = new LinkedHashSet<>();
             toolInputs.add("configuration");
             toolInputs.addAll(inherited.sequencedKeySet());
-            nested.addModule("tool", module, toolInputs);
+            nested.addModule("tool", module.get(), toolInputs);
         }, inputs);
+    }
+
+    public static void configuredByProperties(BuildExecutor buildExecutor,
+                                              SequencedSet<String> inputs,
+                                              String name,
+                                              boolean enabled,
+                                              Path configurationProperties,
+                                              Function<SequencedProperties, ? extends BuildExecutorModule> module)
+            throws IOException {
+        if (!enabled || configurationProperties == null || !Files.isRegularFile(configurationProperties)) {
+            return;
+        }
+        SequencedProperties properties = SequencedProperties.ofFiles(configurationProperties);
+        BuildExecutorModule candidate = module.apply(properties);
+        if (candidate != null) {
+            buildExecutor.addModule(name, candidate, inputs);
+        }
     }
 
     @Override

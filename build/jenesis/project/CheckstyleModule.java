@@ -49,9 +49,8 @@ public class CheckstyleModule implements BuildExecutorModule {
         this.strict = strict;
     }
 
-    public static Path configurationFile(Path configuration) {
-        Path file = configuration.resolve("checkstyle.xml");
-        return Files.isRegularFile(file) ? file : null;
+    public static Path configurationFile(SequencedSet<Path> configuration) {
+        return BuildStep.locate(configuration, "checkstyle.xml");
     }
 
     public CheckstyleModule pinning(Pinning pinning) {
