@@ -49,9 +49,8 @@ public class DetektModule implements BuildExecutorModule {
         this.strict = strict;
     }
 
-    public static Path configurationFile(Path configuration) {
-        Path file = configuration.resolve("detekt.yml");
-        return Files.isRegularFile(file) ? file : null;
+    public static Path configurationFile(SequencedSet<Path> configuration) {
+        return BuildStep.locate(configuration, "detekt.yml");
     }
 
     public DetektModule pinning(Pinning pinning) {

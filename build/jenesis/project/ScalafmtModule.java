@@ -49,9 +49,8 @@ public class ScalafmtModule implements BuildExecutorModule {
         this.strict = strict;
     }
 
-    public static Path configurationFile(Path configuration) {
-        Path file = configuration.resolve(".scalafmt.conf");
-        return Files.isRegularFile(file) ? file : null;
+    public static Path configurationFile(SequencedSet<Path> configuration) {
+        return BuildStep.locate(configuration, ".scalafmt.conf");
     }
 
     public ScalafmtModule pinning(Pinning pinning) {
