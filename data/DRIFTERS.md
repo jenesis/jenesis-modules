@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-06-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -400,7 +400,7 @@ org.apache.commons.pool2  [fork: keep `org.apache.commons`, `org.openjproxy` sti
   A * org.apache.commons                   2020-07..2021-08 2.11.1               |.......===..........|
   R   org.openjproxy                       2026-03..2026-06 0.5.0-beta           |..................==|
   ?   com.liquibase.ext                    2026-06..2026-06 5.2.0                |...................=|
-  R   org.apache.directory.api             2023-10..2026-05 2.1.8                |..............======|
+  R   org.apache.directory.api             2023-10..2026-05 2.1.8                |.............=======|
   R   io.github.caobahuong                 2026-05..2026-05 0.1.1                |...................=|
   R   org.apache.druid.extensions.contrib  2024-06..2026-04 37.0.0               |...............=====|
     + 5 more: com.redis, org.noear, io.github.hexsook, org.apache.storm, com.vlkan.log4j2
@@ -816,7 +816,7 @@ ch.qos.logback.core  [owned by `ch.qos.logback`; 32 other group(s) shade the nam
   R   org.ton.ton4j                        2025-11..2026-06 2.1.0                |..................==|
   ?   org.springframework.cloud            2026-06..2026-06 5.0.2                |...................=|
   R   de.gematik.test                      2025-11..2026-06 4.3.1                |..................==|
-  R   com.limemojito.oss.aws               2026-03..2026-06 8.0.12               |...................=|
+  R   com.limemojito.oss.aws               2026-03..2026-06 8.0.12               |..................==|
     + 27 more: io.smallrye.reactive, com.effacy.jui, io.spicelabs, com.expediagroup, io.camunda, org.chenile, club.dawdler, org.jetbrains.kotlinx, io.github.neodix42, com.yetanalytics, org.opendaylight.bgpcep, fun.adaptive, (+15 more)
 io.vertx.core  [owned by `io.vertx`; 3 other group(s) shade the name]
   A * io.vertx                             2020-05..2026-06 5.1.3                |.......=============|
@@ -1235,7 +1235,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
   ? * com.fasterxml.woodstox               2018-03..2026-06 7.2.1                |..==================|
   ?   org.uma.jmetal                       2025-12..2026-06 7.4                  |..................==|
   ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........==========|
-  ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........==========|
+  ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........=========.|
   ?   org.hpccsystems                      2022-02..2026-03 9.12.94-1            |..........=========.|
   ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |................===.|
     + 17 more: com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, com.checkmarx, com.github.spoonlabs, (+5 more)
@@ -1492,7 +1492,7 @@ com.example.www  [no clear owner; `io.github.zahran444` is earliest and most rec
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
   ?   org.tango-controls.atk               2022-06..2026-03 9.4.20               |...........========.|
-  ?   org.tango-controls                   2022-10..2025-10 7.46                 |...........========.|
+  ?   org.tango-controls                   2022-10..2025-10 7.46                 |...........=======..|
 druid.spring.boot4.starter  [no clear owner; `com.shr25` is earliest and most recent]
   ? * com.shr25                            2026-02..2026-02 1.2.27               |..................=.|
   ?   com.alibaba                          2026-03..2026-03 1.2.28               |..................=.|
