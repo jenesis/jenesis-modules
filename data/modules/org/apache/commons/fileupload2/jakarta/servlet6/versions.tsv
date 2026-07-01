@@ -1,3 +1,4 @@
+2.0.0-M2	named	org.apache.commons	commons-fileupload2-jakarta-servlet6	2023-12-24T19:19:48Z	2.0.0-M2
 5.0.0	named	org.apache.jena	jena-fuseki-server	2024-03-16T16:40:28Z	2.0.0-M2
 5.0.0	named	org.apache.jena	jena-fuseki-fulljar	2024-03-16T16:41:13Z	2.0.0-M2
 1.2.0	named	io.telicent	rdf-abac-evaluator	2024-06-19T12:36:22Z	2.0.0-M2
@@ -50,7 +51,10 @@
 25.3.0	named	cloud.piranha.dist	piranha-dist-servlet	2025-03-13T18:24:09Z	2.0.0-M2
 25.4.0	named	cloud.piranha.dist	piranha-dist-servlet	2025-04-13T12:51:37Z	2.0.0-M2
 25.4.0	named	cloud.piranha.dist	piranha-dist-webprofile	2025-04-13T12:52:16Z	2.0.0-M2
+2.0.0-M3	named	org.apache.commons	commons-fileupload2-jakarta-servlet6	2025-05-08T21:59:25Z	2.0.0-M3
 25.5.0	named	cloud.piranha.dist	piranha-dist-servlet	2025-05-13T15:04:28Z	2.0.0-M2
 25.5.0	named	cloud.piranha.dist	piranha-dist-webprofile	2025-05-13T15:06:30Z	2.0.0-M2
 25.6.0	named	cloud.piranha.dist	piranha-dist-webprofile	2025-06-13T12:37:11Z	2.0.0-M2
 25.6.0	named	cloud.piranha.dist	piranha-dist-servlet	2025-06-13T12:38:10Z	2.0.0-M2
+2.0.0-M4	named	org.apache.commons	commons-fileupload2-jakarta-servlet6	2025-06-13T19:52:52Z	2.0.0-M4
+2.0.0-M5	named	org.apache.commons	commons-fileupload2-jakarta-servlet6	2026-02-17T16:07:17Z	2.0.0-M5
