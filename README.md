@@ -409,7 +409,7 @@ Optional system properties:
 
 ## Companion tools
 
-Several standalone main classes complement the crawler. `RetryFailed` and `ReconcileMetadata` share its scanner pipeline (skipping the index streamer); the rest (`ModuleSummary`, `Regenerate`, `DriftReport`, `ModuleMaven`) only read the on-disk data and need no scanner at all.
+Several standalone main classes complement the crawler. `RetryFailed`, `ReconcileMetadata`, and `LoadCoordinates` share its scanner pipeline (skipping the index streamer); the rest (`ModuleSummary`, `Regenerate`, `DriftReport`, `ModuleMaven`) only read the on-disk data and need no scanner at all.
 
 ### `build.jenesis.crawler.RetryFailed`
 
@@ -466,6 +466,36 @@ Properties:
 | `jenesis.crawler.data`, `budget`, `concurrency`, `tail.size`, `small.jar.threshold`, `checkpoint.every`, `git.publish`, `git.work.dir`, `git.push.every` | see crawler defaults | All share the keys used by `Crawl`. |
 
 The corresponding `reconcile-metadata.yml` workflow exposes the same knobs as manual `workflow_dispatch` inputs. It shares the `crawl` concurrency group so a manual reconcile queues behind a manual crawl rather than fighting for the same `versions.tsv` files; scheduled crawls use a per-run group so they may run concurrently, with `GitPublisher`'s rebase-retry handling any collision.
+
+### `build.jenesis.crawler.LoadCoordinates`
+
+Seeds one or more explicit `groupId:artifactId` coordinates that the crawler never saw because their records are missing from the Nexus index entirely - not a gap in an already-scanned artifact (that is `ReconcileMetadata`'s job), but a coordinate with no `data/scanned/` entry at all. The Nexus index lags freshly published artifacts by up to a week, and a brand-new release (or a whole new artifactId) is invisible to the index streamer until then. `maven-metadata.xml` is authoritative immediately, so this tool downloads it for each supplied coordinate, reads the full version list, and pipes every not-yet-scanned version through the regular scanner pipeline - reusing `MetadataReconcileStream` (in its explicit-coordinate mode), the same `Scanner`, and the same `ModuleStore` flush invariant as the crawler. Re-running is idempotent (already-scanned versions are skipped).
+
+Unlike the crawl-adjacent tools, this is a targeted manual seed, so it keeps a minimal footprint: it installs `CheckpointListener.NOOP` (no `STATUS.md`), never commits or pushes, and restores the crawl-wide bookkeeping files (`state.properties`, `STATUS.md`, `dirty-modules.tsv`) to exactly what it found. The only changes it leaves on disk are the coordinate's own `data/scanned/` and `data/modules/` rows; the index chain resume point is never advanced. Commit those data changes deliberately.
+
+```
+java sources/build/jenesis/crawler/LoadCoordinates.java <artifact-base-uri> <groupId:artifactId> [<groupId:artifactId> ...]
+```
+
+Writes the same `data/scanned/<groupId-path>/<artifactId>.tsv` records and `data/modules/<dotted/path>/versions.tsv` audit rows the crawler produces. Because it does not checkpoint, the resolved views (`artifacts.tsv`, `modules.tsv`) are not rebuilt in-line; follow up with `Regenerate` for the affected module glob and, if the name-to-coordinate map is consumed downstream, `ModuleMaven`:
+
+```
+java sources/build/jenesis/crawler/LoadCoordinates.java \
+     https://maven-central.storage-download.googleapis.com/maven2/ \
+     org.apache.commons:commons-fileupload2-core
+java sources/build/jenesis/crawler/Regenerate.java 'org.apache.commons.fileupload2.**'
+java sources/build/jenesis/crawler/ModuleMaven.java > data/module-maven.properties
+```
+
+Properties:
+
+| Property | Default | Effect |
+|---|---|---|
+| `jenesis.reconcile.metadata.concurrency` | `32` | Concurrent `maven-metadata.xml` fetches. |
+| `jenesis.reconcile.batch.size` | `256` | Coordinates per scanner batch. |
+| `jenesis.crawler.data`, `budget`, `concurrency`, `tail.size`, `small.jar.threshold`, `checkpoint.every` | see crawler defaults | All share the keys used by `Crawl`. |
+
+A coordinate whose module name does not align with its owning groupId (a shaded republisher owning the name via `owners.tsv`, say) still lands in the audit log, but the resolved owner - and therefore the `ModuleMaven` mapping - is governed by the usual `owners.tsv` policy; loading the genuine coordinate does not by itself override an existing allowlist. Adjust the policy with `SetOwners` if the load is meant to change ownership.
 
 ### `build.jenesis.crawler.ModuleSummary`
 

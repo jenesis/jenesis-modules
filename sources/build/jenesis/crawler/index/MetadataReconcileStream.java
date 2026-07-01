@@ -44,6 +44,7 @@ public final class MetadataReconcileStream implements AutoCloseable {
     private final Path scannedRoot;
     private final URI artifactBase;
     private final int metadataConcurrency;
+    private final List<String[]> explicitCoordinates;
     private final AtomicReference<IOException> producerError = new AtomicReference<>();
     private final AtomicLong recordsProduced = new AtomicLong();
     private final AtomicLong filesWalked = new AtomicLong();
@@ -57,7 +58,7 @@ public final class MetadataReconcileStream implements AutoCloseable {
                                    Path scannedRoot,
                                    URI artifactBase,
                                    int metadataConcurrency) {
-        this(fetcher, scannedRoot, artifactBase, metadataConcurrency, DEFAULT_QUEUE_CAPACITY);
+        this(fetcher, scannedRoot, artifactBase, metadataConcurrency, DEFAULT_QUEUE_CAPACITY, null);
     }
 
     public MetadataReconcileStream(Fetcher fetcher,
@@ -65,6 +66,31 @@ public final class MetadataReconcileStream implements AutoCloseable {
                                    URI artifactBase,
                                    int metadataConcurrency,
                                    int queueCapacity) {
+        this(fetcher, scannedRoot, artifactBase, metadataConcurrency, queueCapacity, null);
+    }
+
+    /**
+     * Explicit-coordinate mode: instead of walking {@code scannedRoot}, reconcile exactly the
+     * supplied {@code groupId:artifactId} coordinates against their {@code maven-metadata.xml}.
+     * A coordinate with no scanned tsv yet has all of its Central versions queued for scanning;
+     * versions already recorded are skipped, so re-running is idempotent. This is the producer
+     * behind {@link build.jenesis.crawler.LoadCoordinates}, which seeds brand-new coordinates
+     * that never appeared in the Maven Central Nexus index the regular crawler streams.
+     */
+    public MetadataReconcileStream(Fetcher fetcher,
+                                   Path scannedRoot,
+                                   URI artifactBase,
+                                   int metadataConcurrency,
+                                   List<String> coordinates) {
+        this(fetcher, scannedRoot, artifactBase, metadataConcurrency, DEFAULT_QUEUE_CAPACITY, parseCoordinates(coordinates));
+    }
+
+    private MetadataReconcileStream(Fetcher fetcher,
+                                    Path scannedRoot,
+                                    URI artifactBase,
+                                    int metadataConcurrency,
+                                    int queueCapacity,
+                                    List<String[]> explicitCoordinates) {
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
         this.scannedRoot = Objects.requireNonNull(scannedRoot, "scannedRoot");
         this.artifactBase = Objects.requireNonNull(artifactBase, "artifactBase");
@@ -76,6 +102,23 @@ public final class MetadataReconcileStream implements AutoCloseable {
         }
         this.metadataConcurrency = metadataConcurrency;
         this.queue = new ArrayBlockingQueue<>(queueCapacity);
+        this.explicitCoordinates = explicitCoordinates;
+    }
+
+    private static List<String[]> parseCoordinates(List<String> coordinates) {
+        Objects.requireNonNull(coordinates, "coordinates");
+        List<String[]> parsed = new ArrayList<>();
+        for (String coordinate : coordinates) {
+            int colon = coordinate.indexOf(':');
+            if (colon < 1 || colon != coordinate.lastIndexOf(':') || colon == coordinate.length() - 1) {
+                throw new IllegalArgumentException("Expected exactly one 'groupId:artifactId', got: " + coordinate);
+            }
+            parsed.add(new String[] {coordinate.substring(0, colon), coordinate.substring(colon + 1)});
+        }
+        if (parsed.isEmpty()) {
+            throw new IllegalArgumentException("At least one groupId:artifactId coordinate is required");
+        }
+        return parsed;
     }
 
     public BlockingQueue<IndexStream.QueueItem> queue() {
@@ -117,6 +160,10 @@ public final class MetadataReconcileStream implements AutoCloseable {
     }
 
     private void walk() throws IOException, InterruptedException {
+        if (explicitCoordinates != null) {
+            walkExplicit();
+            return;
+        }
         if (!Files.isDirectory(scannedRoot)) {
             System.out.println("[reconcile] No scanned root at " + scannedRoot + "; nothing to reconcile.");
             return;
@@ -167,6 +214,19 @@ public final class MetadataReconcileStream implements AutoCloseable {
         logProgress(filesWalked.get(), startNanos);
     }
 
+    private void walkExplicit() {
+        long startNanos = System.nanoTime();
+        for (String[] coordinate : explicitCoordinates) {
+            if (Thread.currentThread().isInterrupted()) {
+                Thread.currentThread().interrupt();
+                return;
+            }
+            Path scannedFile = scannedRoot.resolve(coordinate[0].replace('.', '/')).resolve(coordinate[1] + ".tsv");
+            processArtifact(coordinate[0], coordinate[1], scannedFile);
+            logProgress(filesWalked.incrementAndGet(), startNanos);
+        }
+    }
+
     private void processArtifact(String groupId, String artifactId, Path scannedFile) {
         try {
             Set<String> alreadyScanned = readScannedMainVersions(scannedFile);
@@ -208,6 +268,9 @@ public final class MetadataReconcileStream implements AutoCloseable {
      */
     private static Set<String> readScannedMainVersions(Path scannedFile) throws IOException {
         Set<String> result = new HashSet<>();
+        if (!Files.exists(scannedFile)) {
+            return result;
+        }
         try (Stream<String> lines = Files.lines(scannedFile, StandardCharsets.UTF_8)) {
             Iterator<String> iterator = lines.iterator();
             while (iterator.hasNext()) {
