@@ -25,6 +25,7 @@ import build.jenesis.project.MultiProjectModule;
 import build.jenesis.project.ProjectModuleDescriptor;
 import build.jenesis.project.ProjectWatch;
 import build.jenesis.step.Bind;
+import build.jenesis.step.Dependencies;
 import build.jenesis.step.ImageStaging;
 import build.jenesis.step.Inventory;
 import build.jenesis.step.ReportStaging;
@@ -32,9 +33,11 @@ import build.jenesis.step.Tree;
 
 public record Project(
         Path root,
-        Path configuration,
         Path target,
         Path artifacts,
+        SequencedSet<Path> metadata,
+        SequencedSet<Path> configuration,
+        SequencedSet<Path> profiles,
         BuildExecutorCache cache,
         HashDigestFunction hashFunction,
         Layout layout,
@@ -42,13 +45,12 @@ public record Project(
         boolean sources,
         boolean documentation,
         Pinning pinning,
-        List<Path> metadata,
         String version,
         SequencedSet<String> defaultTarget,
         MultiProjectAssembler<? super ProjectModuleDescriptor> assembler,
+        Supplier<BuildExecutor.Configuration> configurator,
         Map<String, Repository> repositories,
-        Map<String, Resolver> resolvers,
-        Supplier<BuildExecutor.Configuration> configurator) {
+        Map<String, Resolver> resolvers) {
 
     public static final String BUILD = "build",
             STAGE = "stage",
@@ -66,8 +68,7 @@ public record Project(
 
         Function<String, String> apply(BuildExecutor executor,
                                        Project project,
-                                       MultiProjectAssembler<? super ProjectModuleDescriptor> assembler,
-                                       boolean printDependencies) throws IOException;
+                                       MultiProjectAssembler<? super ProjectModuleDescriptor> assembler) throws IOException;
 
         private static Path mavenConfigurationFolder(Path location) {
             return location == null ? null : location.resolve("build.jenesis");
@@ -77,20 +78,41 @@ public record Project(
             return location == null ? null : location.resolve("META-INF").resolve("build.jenesis");
         }
 
-        static SequencedSet<Path> configurations(Path... folders) {
+        static SequencedSet<Path> configurations(Path local, SequencedSet<Path> folders, SequencedSet<Path> profiles) {
+            LinkedHashSet<Path> base = new LinkedHashSet<>();
+            Stream.concat(Stream.of(local), folders.stream())
+                    .filter(folder -> folder != null)
+                    .map(folder -> folder.toAbsolutePath().normalize())
+                    .forEach(base::add);
             LinkedHashSet<Path> ordered = new LinkedHashSet<>();
-            for (Path folder : folders) {
-                if (folder != null) {
-                    Path absolute = folder.toAbsolutePath().normalize();
-                    if (Files.isDirectory(absolute)) {
-                        ordered.add(absolute);
+            for (Path folder : base) {
+                for (Path profile : profiles) {
+                    Path resolved = folder.resolve(profile);
+                    if (Files.isDirectory(resolved)) {
+                        ordered.add(resolved);
                     }
+                }
+            }
+            for (Path folder : base) {
+                if (Files.isDirectory(folder)) {
+                    ordered.add(folder);
                 }
             }
             return Collections.unmodifiableSequencedSet(ordered);
         }
 
-        Layout MAVEN = (executor, project, assembler, printDependencies) -> {
+        static SequencedSet<Path> licenseFiles(Project project, String file) {
+            SequencedSet<Path> located = new LinkedHashSet<>();
+            for (Path folder : configurations(null, project.configuration(), project.profiles())) {
+                Path candidate = folder.resolve(file);
+                if (Files.isRegularFile(candidate)) {
+                    located.add(candidate);
+                }
+            }
+            return Collections.unmodifiableSequencedSet(located);
+        }
+
+        Layout MAVEN = (executor, project, assembler) -> {
             executor.addModule(HELP, new HelpModule("maven", assembler.getClass().getName()));
             executor.addModule(SKILL, new SkillModule(project.target()));
             executor.addModule(METADATA, MetadataModule.toMetadataModule(project));
@@ -112,10 +134,10 @@ public record Project(
                                 Collections.unmodifiableMap(repositories),
                                 Collections.unmodifiableMap(resolvers),
                                 project.pinning(),
-                                printDependencies,
+                                Layout.licenseFiles(project, Dependencies.SPDX),
                                 (descriptor, mergedRepos, mergedResolvers) -> pomAware.apply(
                                         new ProjectModuleDescriptor(descriptor,
-                                                configurations(mavenConfigurationFolder(descriptor.location()), project.configuration()),
+                                                configurations(mavenConfigurationFolder(descriptor.location()), project.configuration(), project.profiles()),
                                                 project.tests(),
                                                 project.sources(),
                                                 project.documentation(),
@@ -152,7 +174,7 @@ public record Project(
             };
         };
 
-        Layout MODULAR = (executor, project, assembler, printDependencies) -> {
+        Layout MODULAR = (executor, project, assembler) -> {
             executor.addModule(HELP, new HelpModule("modular", assembler.getClass().getName()));
             executor.addModule(SKILL, new SkillModule(project.target()));
             executor.addModule(METADATA, MetadataModule.toMetadataModule(project));
@@ -176,12 +198,13 @@ public record Project(
                                 Collections.unmodifiableMap(resolvers),
                                 project.pinning(),
                                 true,
-                                printDependencies,
+                                Layout.licenseFiles(project, Dependencies.SPDX),
                                 (descriptor, mergedRepos, mergedResolvers) -> assembler.apply(
                                         new ProjectModuleDescriptor(descriptor,
                                                 configurations(
                                                         modularConfigurationFolder(descriptor.location()),
-                                                        project.configuration()),
+                                                        project.configuration(),
+                                                        project.profiles()),
                                                 project.tests(),
                                                 project.sources(),
                                                 project.documentation(),
@@ -218,7 +241,7 @@ public record Project(
             };
         };
 
-        Layout MODULAR_TO_MAVEN = (executor, project, assembler, printDependencies) -> {
+        Layout MODULAR_TO_MAVEN = (executor, project, assembler) -> {
             executor.addModule(HELP, new HelpModule("modular_to_maven", assembler.getClass().getName()));
             executor.addModule(SKILL, new SkillModule(project.target()));
             executor.addModule(METADATA, MetadataModule.toMetadataModule(project));
@@ -251,10 +274,10 @@ public record Project(
                                 Collections.unmodifiableMap(resolvers),
                                 project.pinning(),
                                 true,
-                                printDependencies,
+                                Layout.licenseFiles(project, Dependencies.SPDX),
                                 (descriptor, mergedRepos, mergedResolvers) -> pomAware.apply(
                                         new ProjectModuleDescriptor(descriptor,
-                                                configurations(modularConfigurationFolder(descriptor.location()), project.configuration()),
+                                                configurations(modularConfigurationFolder(descriptor.location()), project.configuration(), project.profiles()),
                                                 project.tests(),
                                                 project.sources(),
                                                 project.documentation(),
@@ -296,7 +319,7 @@ public record Project(
             };
         };
 
-        Layout AUTO = (executor, project, assembler, printDependencies) -> of(project.root()).apply(executor, project, assembler, printDependencies);
+        Layout AUTO = (executor, project, assembler) -> of(project.root()).apply(executor, project, assembler);
 
         static Layout of(Path root) throws IOException {
             if (Files.isRegularFile(root.resolve("pom.xml"))) {
@@ -332,7 +355,8 @@ public record Project(
         }
     }
 
-    private record MetadataModule(SequencedMap<String, Path> files, String version) implements BuildExecutorModule {
+    private record MetadataModule(SequencedMap<String, Path> files,
+                                  String version) implements BuildExecutorModule {
 
         static BuildExecutorModule toMetadataModule(Project project) {
             Path root = project.root().toAbsolutePath().normalize();
@@ -443,10 +467,10 @@ public record Project(
                       %{name}progress%{reset}                         Print the build progress lines (default: true)
                       %{name}checksum%{reset}                         Print each step's input/output file checksums
                       %{name}command%{reset}                          Print each external tool command line as it runs
+                      %{name}process%{reset}                          Stream each external tool's command and output to the console as it runs (override per command, e.g. %{name}javac%{reset}, %{name}tests%{reset})
                       %{name}fetch%{reset}                            Print each artifact downloaded from a repository
                       %{name}cache%{reset}                            Print each step served from or written to the build cache
                       %{name}docker%{reset}                           Print the Docker image when a build/run is wrapped (default: true)
-                      %{name}dependencies%{reset}                     Print each module's dependency tree as it resolves
                     
                     %{header}Pinning (-Djenesis.dependency.pin=<mode>):%{reset}
                       %{name}strict%{reset} fails the build on any unpinned artifact; %{name}ignore%{reset} floats
@@ -880,6 +904,13 @@ public record Project(
                                                         checksums.
                       -Djenesis.print.command=true        Print each external tool
                                                         command line as it runs.
+                      -Djenesis.print.process=true        Stream each external
+                                                        tool's command and
+                                                        output to the console as
+                                                        it runs; override per
+                                                        command with
+                                                        -Djenesis.print.<command>
+                                                        (e.g. javac, tests).
                       -Djenesis.print.fetch=true          Print each artifact
                                                         downloaded from a
                                                         repository.
@@ -891,10 +922,7 @@ public record Project(
                                                         build/run is wrapped in
                                                         a container (default:
                                                         true).
-                      -Djenesis.print.dependencies=true   Print each module's
-                                                        dependency tree as it
-                                                        resolves.
-                    
+
                     Test execution (-Djenesis.test.<key>=<value>):
                       -Djenesis.test.skip=true            Skip test
                                                         execution.
@@ -1147,11 +1175,30 @@ public record Project(
             }
         }
         String configurationOverride = System.getProperty("jenesis.project.configuration");
-        Path resolvedConfiguration = configurationOverride == null
-                ? resolvedRoot
-                : configurationOverride.isEmpty()
-                ? null
-                : resolvedRoot.resolve(Path.of(configurationOverride));
+        SequencedSet<Path> resolvedConfiguration;
+        if (configurationOverride == null) {
+            resolvedConfiguration = new LinkedHashSet<>(List.of(resolvedRoot));
+        } else if (configurationOverride.isEmpty()) {
+            resolvedConfiguration = Collections.emptyNavigableSet();
+        } else {
+            Path configurationRoot = resolvedRoot;
+            resolvedConfiguration = Arrays.stream(configurationOverride.split(Pattern.quote(File.pathSeparator)))
+                    .map(String::trim)
+                    .filter(value -> !value.isEmpty())
+                    .map(value -> configurationRoot.resolve(Path.of(value)))
+                    .collect(Collectors.toCollection(LinkedHashSet::new));
+        }
+        String profilesOverride = System.getProperty("jenesis.project.properties");
+        SequencedSet<Path> resolvedProfiles = profilesOverride == null
+                ? Collections.emptyNavigableSet()
+                : Arrays.stream(profilesOverride.split(","))
+                .map(String::trim)
+                .filter(value -> !value.isEmpty())
+                .map(value -> value.endsWith(".properties")
+                        ? value.substring(0, value.length() - ".properties".length())
+                        : value)
+                .map(Path::of)
+                .collect(Collectors.toCollection(LinkedHashSet::new));
         Path resolvedTarget = Path.of("target");
         String targetOverride = System.getProperty("jenesis.project.target");
         if (targetOverride != null) {
@@ -1182,16 +1229,19 @@ public record Project(
                     "Unknown layout: " + layoutOverride + " (expected auto, maven, modular, or modular_to_maven)");
         };
         String metadataOverride = System.getProperty("jenesis.project.metadata");
-        List<Path> resolvedMetadata = metadataOverride == null ? List.of() : Arrays.stream(
-                        metadataOverride.split(Pattern.quote(File.pathSeparator)))
+        SequencedSet<Path> resolvedMetadata = metadataOverride == null
+                ? Collections.emptyNavigableSet()
+                : Arrays.stream(metadataOverride.split(Pattern.quote(File.pathSeparator)))
                 .map(String::trim)
                 .filter(value -> !value.isEmpty())
                 .map(Path::of)
-                .toList();
+                .collect(Collectors.toCollection(LinkedHashSet::new));
         this(resolvedRoot,
-                resolvedConfiguration,
                 resolvedTarget,
                 resolvedArtifacts,
+                resolvedMetadata,
+                resolvedConfiguration,
+                resolvedProfiles,
                 resolvedCache,
                 new HashDigestFunction(System.getProperty("jenesis.project.digest", "SHA-256")),
                 resolvedLayout,
@@ -1199,20 +1249,21 @@ public record Project(
                 Boolean.getBoolean("jenesis.project.sources"),
                 Boolean.getBoolean("jenesis.project.documentation"),
                 Pinning.fromProperty(),
-                resolvedMetadata,
                 System.getProperty("jenesis.project.version"),
                 Collections.unmodifiableSequencedSet(new LinkedHashSet<>(List.of(BUILD))),
                 new InferredMultiProjectAssembler(),
+                BuildExecutor.Configuration::new,
                 Map.of(),
-                Map.of(),
-                BuildExecutor.Configuration::new);
+                Map.of());
     }
 
     public Project root(Path root) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1220,20 +1271,65 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
+    }
+
+    public Project configuration(Path... configuration) {
+        return new Project(root,
+                target,
+                artifacts,
+                metadata,
+                new LinkedHashSet<>(List.of(configuration)),
+                profiles,
+                cache,
+                hashFunction,
+                layout,
+                tests,
+                sources,
+                documentation,
+                pinning,
+                version,
+                defaultTarget,
+                assembler,
+                configurator,
+                repositories,
+                resolvers);
+    }
+
+    public Project profiles(Path... profiles) {
+        return new Project(root,
+                target,
+                artifacts,
+                metadata,
+                configuration,
+                new LinkedHashSet<>(List.of(profiles)),
+                cache,
+                hashFunction,
+                layout,
+                tests,
+                sources,
+                documentation,
+                pinning,
+                version,
+                defaultTarget,
+                assembler,
+                configurator,
+                repositories,
+                resolvers);
     }
 
     public Project target(Path target) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1241,20 +1337,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project artifacts(Path artifacts) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1262,20 +1359,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project cache(BuildExecutorCache cache) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1283,20 +1381,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project hashFunction(HashDigestFunction hashFunction) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1304,20 +1403,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project layout(Layout layout) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1325,20 +1425,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project tests(boolean tests) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1346,20 +1447,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project sources(boolean sources) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1367,20 +1469,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project documentation(boolean documentation) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1388,20 +1491,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project pinning(Pinning pinning) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1409,20 +1513,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project metadata(Path... metadata) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                new LinkedHashSet<>(List.of(metadata)),
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1430,20 +1535,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                List.of(metadata),
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project version(String version) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1451,20 +1557,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project defaultTarget(String... defaultTarget) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1472,20 +1579,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 Collections.unmodifiableSequencedSet(new LinkedHashSet<>(List.of(defaultTarget))),
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project assembler(MultiProjectAssembler<? super ProjectModuleDescriptor> assembler) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1493,20 +1601,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project repositories(Map<String, Repository> repositories) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1514,20 +1623,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project resolvers(Map<String, Resolver> resolvers) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1535,20 +1645,21 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public Project configurator(Supplier<BuildExecutor.Configuration> configurator) {
         return new Project(root,
-                configuration,
                 target,
                 artifacts,
+                metadata,
+                configuration,
+                profiles,
                 cache,
                 hashFunction,
                 layout,
@@ -1556,20 +1667,15 @@ public record Project(
                 sources,
                 documentation,
                 pinning,
-                metadata,
                 version,
                 defaultTarget,
                 assembler,
+                configurator,
                 repositories,
-                resolvers,
-                configurator);
+                resolvers);
     }
 
     public SequencedMap<String, Path> build(String... selectors) throws IOException {
-        return build(Boolean.getBoolean("jenesis.print.dependencies"), selectors);
-    }
-
-    public SequencedMap<String, Path> build(boolean printDependencies, String... selectors) throws IOException {
         BuildExecutor.Configuration configuration = configurator.get();
         if (cache != null) {
             BuildExecutorCache configured = configuration.cache();
@@ -1578,7 +1684,7 @@ public record Project(
                     : new BuildExecutorLayeredCache(cache, configured));
         }
         BuildExecutor executor = configuration.of(target);
-        Function<String, String> resolver = layout.apply(executor, this, assembler, printDependencies);
+        Function<String, String> resolver = layout.apply(executor, this, assembler);
         return executor.execute(Arrays.stream(selectors.length == 0 ? defaultTarget.toArray(String[]::new) : selectors)
                 .map(selector -> selector.startsWith("+") ? resolver.apply(selector.substring(1)) : selector)
                 .toArray(String[]::new));
@@ -1639,11 +1745,8 @@ public record Project(
     private static void loadProfiles(Set<Path> loaded, Deque<Path> pending, Path base) throws IOException {
         while (!pending.isEmpty()) {
             Path file = pending.removeFirst().normalize();
-            if (!loaded.add(file)) {
+            if (!loaded.add(file) || !Files.isRegularFile(file)) {
                 continue;
-            }
-            if (!Files.isRegularFile(file)) {
-                throw new IllegalArgumentException("Profile properties file not found: " + file);
             }
             SequencedProperties properties = SequencedProperties.ofFiles(file);
             addProfiles(pending, base, properties.getProperty("jenesis.project.properties"));
@@ -1663,8 +1766,11 @@ public record Project(
         }
         for (String name : list.split(",")) {
             String trimmed = name.trim();
+            if (trimmed.endsWith(".properties")) {
+                trimmed = trimmed.substring(0, trimmed.length() - ".properties".length());
+            }
             if (!trimmed.isEmpty()) {
-                pending.add(base.resolve(trimmed.endsWith(".properties") ? trimmed : trimmed + ".properties"));
+                pending.add(base.resolve("jenesis-" + trimmed + ".properties"));
             }
         }
     }
