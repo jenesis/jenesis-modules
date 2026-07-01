@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-06-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-01. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -16,7 +16,7 @@ Generated 2026-06-30. A module *drifts* when more than one groupId publishes the
 
 The table covers all **3630** multi-owner modules (of **36804** modules scanned).
 
-Timeline axis spans 2017-01 .. 2026-06 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
+Timeline axis spans 2017-01 .. 2026-07 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
 ## explicit-rules (33)
 
@@ -1331,7 +1331,7 @@ org.apache.commons.cli  [no clear owner; `org.apache.shiro.tools` is earliest an
   ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
   ?   org.apktool                          2023-12..2026-04 3.0.2                |..............======|
-  ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............=====|
+  ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............====.|
   ?   org.imixs.bpmn                       2025-05..2026-03 1.2.9                |.................==.|
     + 23 more: io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, org.apache.hbase, (+11 more)
 java.json  [no clear owner; `javax.json` is earliest and most recent]
@@ -1388,7 +1388,7 @@ ihub.core  [no clear owner; `pub.ihub.lib` is earliest and most recent]
   ?   pub.ihub.integration                 2024-03..2025-05 0.1.12               |..............====..|
   ?   pub.ihub.module                      2024-04..2025-05 0.2.2                |..............====..|
 liqp  [no clear owner; `nl.big-o` is earliest and most recent]
-  ? * nl.big-o                             2018-06..2025-04 0.9.2.3              |...===============..|
+  ? * nl.big-o                             2018-06..2025-04 0.9.2.3              |...==============...|
   ?   io.github.luoxuansz                  2025-11..2026-05 1.1.3                |..................==|
   ?   com.kohlschutter                     2023-12..2023-12 0.8.5.4              |..............=.....|
 jakarta.messaging  [no clear owner; `jakarta.jms` is earliest and most recent]
@@ -1488,7 +1488,7 @@ commons  [no clear owner; `com.github.srujankujmar` is earliest and most recent]
   ?   io.hyscale                           2020-12..2021-08 1.0.0                |........==..........|
 com.example.www  [no clear owner; `io.github.zahran444` is earliest and most recent]
   ? * io.github.zahran444                  2025-06..2026-03 3.0.7                |.................==.|
-  ?   io.sdks                              2026-03..2026-03 0.0.1                |...................=|
+  ?   io.sdks                              2026-03..2026-03 0.0.1                |..................=.|
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
   ?   org.tango-controls.atk               2022-06..2026-03 9.4.20               |...........========.|
@@ -1800,13 +1800,13 @@ simpletimeapi  [no clear owner; `io.github.fontysvenlo` is earliest and most rec
   ?   io.github.fontysvenlo.alda           2023-09..2023-09 2.5                  |.............=......|
 aerogel  [no clear owner; `io.github.derklaro` is earliest and most recent]
   ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........=..........|
-  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................===.|
+  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................==..|
 aerogel.auto  [no clear owner; `io.github.derklaro` is earliest and most recent]
   ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........=..........|
-  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................===.|
+  ?   dev.derklaro.aerogel                 2025-03..2025-10 3.1.0                |................==..|
 hla.rti1516e  [no clear owner; `io.github.tno-mst` is earliest and most recent]
   ? * io.github.tno-mst                    2025-07..2025-07 0.0.1                |.................=..|
-  ?   nl.tno                               2025-07..2025-10 1.0.0                |.................==.|
+  ?   nl.tno                               2025-07..2025-10 1.0.0                |.................=..|
 me.linusdev.data  [no clear owner; `io.github.lni-dev` is earliest and most recent]
   ? * io.github.lni-dev                    2022-03..2023-04 2.0.20               |..........====......|
   ?   de.linusdev                          2023-04..2025-09 2.3.1                |.............=====..|
@@ -1879,7 +1879,7 @@ persistence.api  [no clear owner; `io.ebean` is earliest and most recent]
   ? * io.ebean                             2019-03..2025-04 3.1                  |....==============..|
   ?   one.gfw                              2023-03..2023-03 3.0                  |............=.......|
 jpms_dss_validation_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1          |......============..|
+  ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1          |......===========...|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2025-03 6.0.1                |............=====...|
 com.amazon.corretto.crypto.provider  [no clear owner; `software.amazon.cryptools` is earliest and most recent]
   ? * software.amazon.cryptools            2019-07..2025-03 2.5.0                |.....============...|
