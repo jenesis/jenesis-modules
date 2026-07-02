@@ -1,20 +1,20 @@
 # Module ownership drifters
 
-Generated 2026-07-01. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-02. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
 | explicit-rules | 33 | 669 |
 | republisher | 1 | 15 |
 | migration | 3 | 786 |
-| fork | 98 | 353 |
+| fork | 100 | 351 |
 | shaded | 12 | 1257 |
 | tld-dropped | 1 | 70 |
 | two-segments | 67 | 0 |
 | unclassified | 264 | 1 |
-| **total** | **479** | **3151** |
+| **total** | **481** | **3149** |
 
-The table covers all **3630** multi-owner modules (of **36804** modules scanned).
+The table covers all **3630** multi-owner modules (of **36808** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-07 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -40,7 +40,7 @@ com.google.gson  [explicit rule: owned by `com.google.code.gson`; 533 other grou
     + 528 more: org.sonarsource.sonarlint.ls, org.sonarsource.sonarlint.core, org.operaton.bpm, org.sonarsource.java, io.quarkus, com.linkedin.iceberg, tools.vitruv, io.jooby, network.lightsail, com.uber.nullaway, org.apache.flink, win.dailypickle.report, (+516 more)
 kotlin.stdlib  [explicit rule: owned by `org.jetbrains.kotlin`; 222 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2023-08 1.9.10               |....==========......|
-  R   com.easemob.im                       2024-04..2026-06 1.0.20               |...............=====|
+  R   com.easemob.im                       2024-04..2026-06 1.0.20               |..............======|
   R   com.aliyun.odps                      2026-03..2026-06 0.57.3-public        |..................==|
   R   fi.evident.apina                     2023-08..2026-06 0.29.0               |.............=======|
   R   love.forte.plugin.suspend-transform  2024-09..2026-06 2.4.0-0.14.0         |...............=====|
@@ -288,7 +288,7 @@ zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 
   ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |...................=|
 ```
 
-## fork (98)
+## fork (100)
 
 A cross-org coordinate publishes the same name while the original owner is still active.
 
@@ -309,7 +309,7 @@ io.netty.internal.tcnative  [fork: keep `io.netty`, `com.google.api-ads` still p
   A * io.netty                             2021-10..2026-06 2.0.79.Final         |.........===========|
   R   com.google.api-ads                   2025-08..2026-06 43.2.0               |.................===|
   R   org.finos.legend.engine              2026-01..2026-06 4.129.15             |..................==|
-  R   app.cash.backfila                    2025-04..2026-06 2026.06.19.161401-6c57b66 |.................===|
+  R   app.cash.backfila                    2025-04..2026-06 2026.06.19.161401-6c57b66 |................====|
   R   com.spotify.confidence               2026-01..2026-06 0.15.2               |..................==|
   R   org.apache.ozone                     2025-12..2026-06 2.1.1                |..................==|
     + 72 more: com.tsurugidb.iceaxe, com.tsurugidb.tsubakuro, org.apache.flink, com.datastax.oss, com.microsoft.azure.kusto, com.opendatadsl, io.grpc, com.liquibase.ext, com.instaclustr, com.azure.cosmos.spark, com.azure.cosmos.kafka, com.google.api, (+60 more)
@@ -393,7 +393,7 @@ io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the 
   R   io.kestra                            2025-08..2026-06 0.22.45              |.................===|
   ?   io.neonbee                           2026-06..2026-06 0.37.30              |...................=|
   R   com.facebook.presto                  2026-04..2026-06 0.298.1              |...................=|
-  R   io.sirix                             2026-04..2026-06 1.0.0-alpha17        |...................=|
+  R   io.sirix                             2026-04..2026-06 1.0.0-alpha17        |..................==|
   R   io.micronaut.starter                 2025-06..2026-06 4.10.16              |.................===|
     + 5 more: org.apache.iceberg, org.apache.grails, io.kestra.plugin, com.frog-development.consul-populate, io.kestra.storage
 org.apache.commons.pool2  [fork: keep `org.apache.commons`, `org.openjproxy` still publishes the name]
@@ -787,6 +787,17 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `nl.tno.o
 org.mavai.punit.examples  [fork: keep `org.mavai`, `org.javai` still publishes the name]
   ? * org.mavai                            2026-05..2026-05 0.7.0                |...................=|
   ?   org.javai                            2026-05..2026-05 0.6.99               |...................=|
+org.apache.commons.fileupload2.jakarta.servlet6  [fork: keep `org.apache.commons`, `io.github.dhruvrawatdev` still publishes the name]
+  ? * org.apache.commons                   2023-12..2026-02 2.0.0-M5             |..............=====.|
+  R   io.github.dhruvrawatdev              2026-04..2026-04 1.0.1                |...................=|
+  R   cloud.piranha.dist                   2024-07..2025-06 25.6.0               |...............===..|
+  R   io.telicent.smart-caches.graph       2024-06..2024-12 0.82.14              |...............==...|
+  A   org.apache.jena                      2024-03..2024-07 5.1.0                |..............==....|
+  R   io.telicent                          2024-06..2024-06 1.2.1                |...............=....|
+org.apache.commons.fileupload2.jakarta  [fork: keep `org.apache.commons`, `com.svenruppert` still publishes the name]
+  ? * org.apache.commons                   2023-07..2023-07 2.0.0-M1             |.............=......|
+  R   com.svenruppert                      2025-01..2025-01 03.00.01             |................=...|
+  A   org.apache.jena                      2024-02..2024-02 5.0.0-rc1            |..............=.....|
 ```
 
 ## shaded (12)
