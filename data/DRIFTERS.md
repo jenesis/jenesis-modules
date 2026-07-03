@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-02. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -532,7 +532,7 @@ io.netty.transport  [fork: keep `io.netty`, `io.github.qbsstg` still publishes t
   A * io.netty                             2017-12..2026-06 4.1.135.Final        |..==================|
   ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
   R   com.arcadedb                         2025-04..2026-06 26.6.1               |.................===|
-  R   io.github.lukaszsamson               2026-04..2026-04 0.1.0                |...................=|
+  R   io.github.lukaszsamson               2026-04..2026-04 0.1.0                |..................=.|
   R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
   R   io.karatelabs                        2025-10..2025-11 1.5.2                |..................=.|
 com.fasterxml.jackson.module.paramnames  [fork: keep `com.fasterxml.jackson.module`, `org.realityforge.router.fu` still publishes the name]
