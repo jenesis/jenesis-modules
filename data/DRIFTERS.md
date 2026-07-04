@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -52,7 +52,7 @@ kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 242 other g
   R   com.squareup                         2022-11..2026-06 0.19.0               |............========|
   R   com.aliyun.odps                      2026-03..2026-06 3.10.8               |..................==|
   ?   org.apache.flink                     2026-06..2026-06 2.3.0                |...................=|
-  R   com.commercetools.rmf                2021-10..2026-06 1.0.0-20260608125910 |..........==========|
+  R   com.commercetools.rmf                2021-10..2026-06 1.0.0-20260608125910 |.........===========|
     + 237 more: com.aliyun, org.apache.hudi, com.spectralogic.ds3, me.bechberger, com.newrelic.agent.android, org.octopusden.octopus.jira, com.sportradar.unifiedodds.sdk, org.apache.dolphinscheduler, com.airbnb.viaduct, com.airbnb.viaduct.javaapi, net.corda, ai.realitydefender, (+225 more)
 com.google.common  [explicit rule: owned by `com.google.guava`; 71 other group(s) rejected]
   A * com.google.guava                     2017-07..2026-04 33.6.0-jre           |.===================|
