@@ -21,10 +21,15 @@ public interface MavenRepository extends Repository {
 
     @Override
     default MavenRepository cached(Path folder) {
-        if (folder == null) {
-            return this;
-        }
-        Repository cached = Repository.super.cached(folder);
+        return folder == null ? this : caching(Repository.super.cached(folder));
+    }
+
+    @Override
+    default MavenRepository materialized(Path folder) {
+        return folder == null ? this : caching(Repository.super.materialized(folder));
+    }
+
+    private MavenRepository caching(Repository cached) {
         return new MavenRepository() {
             @Override
             public Optional<RepositoryItem> fetch(Executor executor,
@@ -87,6 +92,33 @@ public interface MavenRepository extends Repository {
                 return candidate.isPresent()
                         ? candidate
                         : MavenRepository.this.fetchMetadata(executor, groupId, artifactId, checksum);
+            }
+        };
+    }
+
+    default MavenRepository filter(Predicate<String> predicate) {
+        return new MavenRepository() {
+            @Override
+            public Optional<RepositoryItem> fetch(Executor executor,
+                                                  String groupId,
+                                                  String artifactId,
+                                                  String version,
+                                                  String type,
+                                                  String classifier,
+                                                  String checksum) throws IOException {
+                return predicate.test(groupId)
+                        ? MavenRepository.this.fetch(executor, groupId, artifactId, version, type, classifier, checksum)
+                        : Optional.empty();
+            }
+
+            @Override
+            public Optional<RepositoryItem> fetchMetadata(Executor executor,
+                                                          String groupId,
+                                                          String artifactId,
+                                                          String checksum) throws IOException {
+                return predicate.test(groupId)
+                        ? MavenRepository.this.fetchMetadata(executor, groupId, artifactId, checksum)
+                        : Optional.empty();
             }
         };
     }

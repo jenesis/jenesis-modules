@@ -12,6 +12,8 @@ public abstract class ProcessBuildStep implements BuildStep {
 
     public static final String PROCESS = "process/";
 
+    private static final Charset NATIVE_ENCODING = nativeEncoding();
+
     static {
         if (System.getProperty("java.home") == null) {
             String home = System.getenv("JAVA_HOME");
@@ -38,11 +40,27 @@ public abstract class ProcessBuildStep implements BuildStep {
         this.verbose = verbose;
     }
 
+    private static Charset nativeEncoding() {
+        String name = System.getProperty("native.encoding");
+        if (name == null) {
+            return Charset.defaultCharset();
+        }
+        try {
+            return Charset.forName(name);
+        } catch (IllegalArgumentException _) {
+            return Charset.defaultCharset();
+        }
+    }
+
     protected static boolean printing(String command) {
         String specific = System.getProperty("jenesis.print." + command);
         return specific == null
                 ? Boolean.getBoolean("jenesis.print.process")
                 : Boolean.parseBoolean(specific);
+    }
+
+    protected List<String> commands() {
+        return List.of(command);
     }
 
     protected ProcessHandler.Tee tee(Executor executor, ProcessHandler handler) {
@@ -80,11 +98,13 @@ public abstract class ProcessBuildStep implements BuildStep {
         SequencedMap<String, SequencedMap<String, String>> properties = new LinkedHashMap<>();
         for (Map.Entry<String, BuildStepArgument> entry : arguments.entrySet()) {
             SequencedMap<String, String> folderMap = new LinkedHashMap<>();
-            Path file = entry.getValue().folder().resolve(PROCESS + command + ".properties");
-            if (Files.exists(file)) {
-                SequencedProperties loaded = SequencedProperties.ofFiles(file);
-                for (String key : loaded.stringPropertyNames()) {
-                    folderMap.put(key, loaded.getProperty(key));
+            for (String name : commands()) {
+                Path file = entry.getValue().folder().resolve(PROCESS + name + ".properties");
+                if (Files.exists(file)) {
+                    SequencedProperties loaded = SequencedProperties.ofFiles(file);
+                    for (String key : loaded.stringPropertyNames()) {
+                        folderMap.put(key, loaded.getProperty(key));
+                    }
                 }
             }
             properties.put(entry.getKey(), folderMap);
@@ -125,8 +145,8 @@ public abstract class ProcessBuildStep implements BuildStep {
                         if (acceptableExitCode(exitCode, executor, context, arguments)) {
                             future.complete(new BuildStepResult(true));
                         } else {
-                            String outputString = Files.exists(output) ? Files.readString(output) : "";
-                            String errorString = Files.exists(error) ? Files.readString(error) : "";
+                            String outputString = Files.exists(output) ? new String(Files.readAllBytes(output), NATIVE_ENCODING) : "";
+                            String errorString = Files.exists(error) ? new String(Files.readAllBytes(error), NATIVE_ENCODING) : "";
                             throw new IllegalStateException("Unexpected exit code: " + exitCode + "\n"
                                     + "To reproduce, execute:\n " + String.join(" ", handler.commands())
                                     + (outputString.isBlank() ? "" : ("\n\nOutput:\n" + outputString))
