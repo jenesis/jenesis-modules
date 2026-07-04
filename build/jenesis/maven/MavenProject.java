@@ -81,7 +81,7 @@ public class MavenProject implements BuildExecutorModule {
         return make(root,
                 "main",
                 "maven",
-                Map.of("maven", new MavenDefaultRepository()),
+                Map.of("maven", MavenDefaultRepository.of()),
                 Map.of("maven", new MavenPomResolver()),
                 null,
                 Collections.emptyNavigableSet(),
@@ -663,6 +663,17 @@ public class MavenProject implements BuildExecutorModule {
                                         SequencedSet<String> resources,
                                         SequencedSet<String> spdx,
                                         Path location) implements ProjectModule {
+
+        public List<Path> configurations() {
+            if (location == null) {
+                return Collections.emptyList();
+            }
+            return List.of(
+                    location.resolve("src")
+                            .resolve(name.startsWith("test-") ? "test" : "main")
+                            .resolve("build.jenesis"),
+                    location.resolve("build.jenesis"));
+        }
 
         @Override
         public SequencedSet<String> sources() {

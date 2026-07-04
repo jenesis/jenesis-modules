@@ -33,9 +33,11 @@ public class Inventory implements BuildStep {
                 Path.of(METADATA),
                 Path.of(POM),
                 Path.of(ARTIFACTS),
+                Path.of(Bom.BOM),
                 Path.of(SOURCES),
                 Path.of(DOCUMENTATION),
                 Path.of(DEPENDENCIES),
+                Path.of(BOMS),
                 Path.of("graph.properties"),
                 Path.of("licenses.properties"),
                 Path.of(JPackage.PACKAGES),
@@ -64,6 +66,7 @@ public class Inventory implements BuildStep {
         Path nativeBinary = null;
         Path metadataImage = null;
         SequencedSet<Path> artifacts = new LinkedHashSet<>();
+        SequencedSet<Path> bomArtifacts = new LinkedHashSet<>();
         SequencedSet<Path> sources = new LinkedHashSet<>();
         SequencedSet<Path> documentation = new LinkedHashSet<>();
         SequencedSet<Path> jmods = new LinkedHashSet<>();
@@ -73,6 +76,8 @@ public class Inventory implements BuildStep {
         SequencedMap<String, Path> closureJars = new LinkedHashMap<>();
         SequencedMap<String, String> closureScopes = new LinkedHashMap<>();
         SequencedMap<String, String> closureChecksums = new LinkedHashMap<>();
+        SequencedMap<String, Path> bomFiles = new LinkedHashMap<>();
+        SequencedMap<String, String> bomValues = new LinkedHashMap<>();
         SequencedSet<String> identity = new LinkedHashSet<>();
         for (BuildStepArgument argument : arguments.values()) {
             Path folder = argument.folder();
@@ -112,6 +117,7 @@ public class Inventory implements BuildStep {
                 pomFile = pomCandidate;
             }
             collect(folder.resolve(ARTIFACTS), artifacts);
+            collect(folder.resolve(Bom.BOM), bomArtifacts);
             collect(folder.resolve(SOURCES), sources);
             collect(folder.resolve(DOCUMENTATION), documentation);
             Path packages = folder.resolve(JPackage.PACKAGES);
@@ -150,6 +156,17 @@ public class Inventory implements BuildStep {
                 metadataImage = metadata;
             }
             collectClosure(folder, closureJars, closureScopes, closureChecksums);
+            Path bomsFile = folder.resolve(BOMS);
+            if (Files.isRegularFile(folder.resolve(DEPENDENCIES)) && Files.isRegularFile(bomsFile)) {
+                SequencedProperties resolvedBoms = SequencedProperties.ofFiles(bomsFile);
+                for (String key : resolvedBoms.stringPropertyNames()) {
+                    if (key.startsWith("bom/")) {
+                        bomFiles.putIfAbsent(key, folder.resolve(resolvedBoms.getProperty(key)).normalize());
+                    } else if (key.startsWith("entry/")) {
+                        bomValues.putIfAbsent(key, resolvedBoms.getProperty(key));
+                    }
+                }
+            }
         }
         String prefix = ((path == null || path.isEmpty()) ? "module" : "module-" + path) + ".";
         SequencedProperties inventory = new SequencedProperties();
@@ -181,7 +198,16 @@ public class Inventory implements BuildStep {
             inventory.setProperty(prefix + "dependency." + dependencyIndex + ".group", group);
             dependencyIndex++;
         }
+        int bomIndex = 0;
+        for (Map.Entry<String, Path> entry : bomFiles.entrySet()) {
+            inventory.setProperty(prefix + "bom." + bomIndex++,
+                    entry.getKey() + " " + relativize(context, entry.getValue()));
+        }
+        for (Map.Entry<String, String> entry : bomValues.entrySet()) {
+            inventory.setProperty(prefix + "bom." + bomIndex++, entry.getKey() + " " + entry.getValue());
+        }
         writePaths(inventory, context, prefix + "artifacts", artifacts);
+        writePaths(inventory, context, prefix + "bomfile", bomArtifacts);
         writePaths(inventory, context, prefix + "sources", sources);
         writePaths(inventory, context, prefix + "documentation", documentation);
         writePaths(inventory, context, prefix + "jmod", jmods);
@@ -295,6 +321,57 @@ public class Inventory implements BuildStep {
             }
         }
         return paths;
+    }
+
+    public static SequencedMap<String, Path> bomReferences(Iterable<BuildStepArgument> arguments, String path)
+            throws IOException {
+        SequencedMap<String, Path> references = new LinkedHashMap<>();
+        forEachBom(arguments, path, (key, value, folder) -> {
+            if (key.startsWith("bom/")) {
+                references.putIfAbsent(key.substring(4), folder.resolve(value).normalize());
+            }
+        });
+        return references;
+    }
+
+    public static SequencedMap<String, String> bomEntries(Iterable<BuildStepArgument> arguments, String path)
+            throws IOException {
+        SequencedMap<String, String> entries = new LinkedHashMap<>();
+        forEachBom(arguments, path, (key, value, _) -> {
+            if (key.startsWith("entry/")) {
+                entries.putIfAbsent(key.substring(6), value);
+            }
+        });
+        return entries;
+    }
+
+    private interface BomConsumer {
+
+        void accept(String key, String value, Path folder);
+    }
+
+    private static void forEachBom(Iterable<BuildStepArgument> arguments,
+                                   String path,
+                                   BomConsumer consumer) throws IOException {
+        String key = prefixOf(path) + "bom.";
+        for (BuildStepArgument argument : arguments) {
+            Path inventoryFile = argument.folder().resolve(INVENTORY);
+            if (!Files.isRegularFile(inventoryFile)) {
+                continue;
+            }
+            SequencedProperties inventory = SequencedProperties.ofFiles(inventoryFile);
+            for (int index = 0; ; index++) {
+                String value = inventory.getProperty(key + index);
+                if (value == null) {
+                    break;
+                }
+                int space = value.indexOf(' ');
+                if (space < 1) {
+                    continue;
+                }
+                consumer.accept(value.substring(0, space), value.substring(space + 1), argument.folder());
+            }
+        }
     }
 
     public static Set<String> identities(Iterable<BuildStepArgument> arguments) throws IOException {
