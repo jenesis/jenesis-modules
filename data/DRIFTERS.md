@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1232,7 +1232,7 @@ org.apache.commons.beanutils2  [no clear owner; `org.onebusaway` is earliest and
 org.bukkit  [no clear owner; `com.uroria.curepur` is earliest and most recent]
   ? * com.uroria.curepur                   2024-07..2024-07 1.21-R0.1            |...............=....|
   ?   com.620cloud.server                  2026-06..2026-06 1.21.11-R0.1-362     |...................=|
-  ?   com.mineplex.studio.server           2024-10..2026-04 26.1.2-357           |................====|
+  ?   com.mineplex.studio.server           2024-10..2026-04 26.1.2-357           |...............=====|
   ?   com.uroria.latest                    2024-07..2024-07 1.21-R0.1-2d776710d6 |...............=....|
   ?   com.uroria                           2024-07..2024-07 1.21-R0.1            |...............=....|
 library  [no clear owner; `build.buf.prototype` is earliest and most recent]
