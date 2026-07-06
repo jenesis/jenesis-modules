@@ -1,0 +1,7 @@
+3.5.2-preview.1		2025-08-10T16:42:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.5.2-preview.1/openssl-iosarm64-3.5.2-preview.1.jar returned status 404
+3.5.2.0.1		2025-08-10T19:02:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.5.2.0.1/openssl-iosarm64-3.5.2.0.1.jar returned status 404
+3.5.2.1		2025-08-11T05:02:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.5.2.1/openssl-iosarm64-3.5.2.1.jar returned status 404
+3.5.3		2025-09-19T05:12:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.5.3/openssl-iosarm64-3.5.3.jar returned status 404
+3.5.4		2025-10-03T05:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.5.4/openssl-iosarm64-3.5.4.jar returned status 404
+3.6.0		2025-10-08T05:15:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.6.0/openssl-iosarm64-3.6.0.jar returned status 404
+3.6.0.1		2025-12-06T09:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/openssl-iosarm64/3.6.0.1/openssl-iosarm64-3.6.0.1.jar returned status 404
