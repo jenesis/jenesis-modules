@@ -17,6 +17,7 @@
 0.7.20		2026-02-02T10:27:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.20/pipestream-bom-catalog-0.7.20.jar returned status 404
 0.7.21		2026-03-21T23:10:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.21/pipestream-bom-catalog-0.7.21.jar returned status 404
 0.7.22		2026-03-25T10:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.22/pipestream-bom-catalog-0.7.22.jar returned status 404
+0.7.23		2026-03-30T17:37:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.23/pipestream-bom-catalog-0.7.23.jar returned status 404
 0.7.3		2025-12-13T00:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.3/pipestream-bom-catalog-0.7.3.jar returned status 404
 0.7.4		2025-12-14T15:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.4/pipestream-bom-catalog-0.7.4.jar returned status 404
 0.7.5		2025-12-15T09:33:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom-catalog/0.7.5/pipestream-bom-catalog-0.7.5.jar returned status 404

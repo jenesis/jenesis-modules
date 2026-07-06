@@ -22,3 +22,5 @@
 0.1.4		2026-03-11T16:56:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/catalog/0.1.4/catalog-0.1.4.jar returned status 404
 0.1.5		2026-03-12T16:07:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/catalog/0.1.5/catalog-0.1.5.jar returned status 404
 0.1.6		2026-03-15T13:34:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/catalog/0.1.6/catalog-0.1.6.jar returned status 404
+0.1.7		2026-04-10T18:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/catalog/0.1.7/catalog-0.1.7.jar returned status 404
+0.1.8		2026-04-14T11:21:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/catalog/0.1.8/catalog-0.1.8.jar returned status 404

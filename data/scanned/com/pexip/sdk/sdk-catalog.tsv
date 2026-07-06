@@ -14,6 +14,7 @@
 0.17.4		2025-10-31T14:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.17.4/sdk-catalog-0.17.4.jar returned status 404
 0.17.5		2025-11-06T10:32:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.17.5/sdk-catalog-0.17.5.jar returned status 404
 0.18.0		2025-12-01T14:33:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.18.0/sdk-catalog-0.18.0.jar returned status 404
+0.19.0		2026-04-02T11:00:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.19.0/sdk-catalog-0.19.0.jar returned status 404
 0.2.0		2022-05-27T11:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.2.0/sdk-catalog-0.2.0.jar returned status 404
 0.3.0		2022-06-03T07:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.3.0/sdk-catalog-0.3.0.jar returned status 404
 0.4.0		2022-06-09T07:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pexip/sdk/sdk-catalog/0.4.0/sdk-catalog-0.4.0.jar returned status 404

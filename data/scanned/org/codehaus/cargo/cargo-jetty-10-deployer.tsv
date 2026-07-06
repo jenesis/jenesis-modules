@@ -5,3 +5,4 @@
 1.10.24		2025-10-15T14:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/cargo-jetty-10-deployer/1.10.24/cargo-jetty-10-deployer-1.10.24.jar returned status 404
 1.10.25		2025-11-09T21:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/cargo-jetty-10-deployer/1.10.25/cargo-jetty-10-deployer-1.10.25.jar returned status 404
 1.10.26		2026-01-02T20:31:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/cargo-jetty-10-deployer/1.10.26/cargo-jetty-10-deployer-1.10.26.jar returned status 404
+1.10.27		2026-04-03T20:47:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/cargo-jetty-10-deployer/1.10.27/cargo-jetty-10-deployer-1.10.27.jar returned status 404

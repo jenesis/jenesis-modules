@@ -1,4 +1,6 @@
 16.2.1		2026-02-02T10:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/16.2.1/enhancement-16.2.1.jar returned status 404
 16.3.0		2026-02-16T07:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/16.3.0/enhancement-16.3.0.jar returned status 404
+16.4.0		2026-03-27T10:04:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/16.4.0/enhancement-16.4.0.jar returned status 404
 17.2.1		2026-02-02T10:14:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/17.2.1/enhancement-17.2.1.jar returned status 404
 17.3.0		2026-02-16T07:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/17.3.0/enhancement-17.3.0.jar returned status 404
+17.4.0		2026-03-27T10:05:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/tile/enhancement/17.4.0/enhancement-17.4.0.jar returned status 404

@@ -2,6 +2,7 @@
 1.15.0		2022-06-15T21:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web/1.15.0/geode-web-1.15.0.jar returned status 404
 1.15.1		2022-09-29T12:10:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web/1.15.1/geode-web-1.15.1.jar returned status 404
 1.15.2		2025-09-11T17:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web/1.15.2/geode-web-1.15.2.jar returned status 404
+1.15.3		2026-03-17T12:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web/1.15.3/geode-web-1.15.3.jar returned status 404
 1.8.0		2018-11-30T03:25:43Z	
 1.9.0		2019-04-19T18:54:53Z	
 1.9.1		2019-08-30T17:10:54Z	

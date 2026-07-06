@@ -182,3 +182,6 @@
 2.3.20-RC		2026-02-19T08:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.3.20-RC/kotlin-stdlib-js-2.3.20-RC.jar returned status 404
 2.3.20-RC2		2026-03-03T08:24:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.3.20-RC2/kotlin-stdlib-js-2.3.20-RC2.jar returned status 404
 2.3.20-RC3		2026-03-10T09:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.3.20-RC3/kotlin-stdlib-js-2.3.20-RC3.jar returned status 404
+2.3.21-RC		2026-04-07T07:38:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.3.21-RC/kotlin-stdlib-js-2.3.21-RC.jar returned status 404
+2.3.21-RC2		2026-04-16T09:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.3.21-RC2/kotlin-stdlib-js-2.3.21-RC2.jar returned status 404
+2.4.0-Beta1		2026-03-31T07:53:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-js/2.4.0-Beta1/kotlin-stdlib-js-2.4.0-Beta1.jar returned status 404

@@ -9,3 +9,5 @@
 2.24.0		2026-01-10T19:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/2010/portal/ds-view/2.24.0/ds-view-2.24.0.jar returned status 404
 2.25.0		2026-02-26T23:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/2010/portal/ds-view/2.25.0/ds-view-2.25.0.jar returned status 404
 2.25.1		2026-03-02T18:38:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/2010/portal/ds-view/2.25.1/ds-view-2.25.1.jar returned status 404
+2.25.2		2026-03-31T23:46:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/2010/portal/ds-view/2.25.2/ds-view-2.25.2.jar returned status 404
+2.25.3		2026-04-01T21:11:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/2010/portal/ds-view/2.25.3/ds-view-2.25.3.jar returned status 404

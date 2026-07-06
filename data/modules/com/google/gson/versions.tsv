@@ -4652,6 +4652,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 5.0.0.78289	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-03-30T10:09:30Z	2.13.2
 1.5.0.2rc2	named	io.acryl	datahub-protobuf	2026-03-30T15:53:25Z	2.12.0
 4.0.0-rc9	named	com.snowflake	snowflake-kafka-connector	2026-03-30T16:12:25Z	2.8.9
+2.4.0-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-03-31T07:53:05Z	2.11.0
 1.5.0.2rc3	named	io.acryl	datahub-protobuf	2026-03-31T10:52:59Z	2.12.0
 4.2.0	named	io.jooby	jooby-graphql	2026-03-31T14:41:57Z	2.13.2
 1.5.0.2rc4	named	io.acryl	datahub-protobuf	2026-03-31T17:55:41Z	2.12.0
@@ -4667,6 +4668,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 5.5.0	named	io.github.sagaraggarwal86	jaar-jmeter-plugin	2026-04-05T19:21:13Z	2.13.2
 4.2.0-preview4	named	org.apache.spark	spark-connect_2.13	2026-04-06T10:36:49Z	2.13.2
 0.0.1-test	named	io.lakefs	hadoop-lakefs-enterprise-assembly	2026-04-06T19:12:36Z	2.9.1
+2.3.21-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-04-07T07:38:10Z	2.11.0
 26.1.0	named	org.apache.doris	flink-doris-connector-1.15	2026-04-07T08:25:20Z	2.10.1
 26.1.0	named	org.apache.doris	flink-doris-connector-1.16	2026-04-07T08:27:03Z	2.10.1
 26.1.0	named	org.apache.doris	flink-doris-connector-1.17	2026-04-07T08:28:48Z	2.10.1
@@ -4712,6 +4714,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.5.0.9rc1	named	io.acryl	datahub-protobuf	2026-04-15T08:19:52Z	2.12.0
 0.4.4-beta	named	org.openjproxy	ojp-jdbc-driver	2026-04-16T04:32:05Z	2.12.1
 1.5.0.9rc2	named	io.acryl	datahub-protobuf	2026-04-16T05:35:39Z	2.12.0
+2.3.21-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-04-16T09:57:24Z	2.11.0
 1.5.0.9	named	io.acryl	datahub-protobuf	2026-04-16T11:38:46Z	2.12.0
 0.4.5-beta	named	org.openjproxy	ojp-jdbc-driver	2026-04-16T14:11:04Z	2.12.1
 1.20.4	named	org.apache.flink	flink-python	2026-04-16T20:57:03Z	2.9.0

@@ -1,3 +1,4 @@
 1.7-34		2025-12-08T14:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/payneteasy/superfly/superfly-web/1.7-34/superfly-web-1.7-34.jar returned status 404
 1.7-35		2025-12-08T15:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/payneteasy/superfly/superfly-web/1.7-35/superfly-web-1.7-35.jar returned status 404
+1.7-36		2026-04-02T12:30:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/payneteasy/superfly/superfly-web/1.7-36/superfly-web-1.7-36.jar returned status 404
 2.0-2		2025-07-18T12:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/payneteasy/superfly/superfly-web/2.0-2/superfly-web-2.0-2.jar returned status 404

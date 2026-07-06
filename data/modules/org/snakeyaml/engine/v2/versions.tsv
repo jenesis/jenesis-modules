@@ -224,6 +224,7 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 1.61.0	named	com.datadoghq	dd-trace-ot	2026-04-08T12:54:30Z	2.9
 1.5.0.5rc1	named	io.acryl	datahub-auth-api	2026-04-08T19:23:31Z	2.10
 1.5.0.5	named	io.acryl	datahub-auth-api	2026-04-08T20:59:48Z	2.10
+2.0.0.Beta2	named	org.wildfly.glow	wildfly-glow	2026-04-15T10:30:31Z	2.7
 1.61.1	named	com.datadoghq	dd-trace-ot	2026-04-16T14:21:48Z	2.9
 1.62.0	named	com.datadoghq	dd-trace-ot	2026-05-04T15:04:01Z	2.9
 0.12.1	named	org.apache.zeppelin	launcher-k8s-standard	2026-05-23T14:36:57Z	2.7

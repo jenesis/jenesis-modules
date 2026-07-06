@@ -2,3 +2,5 @@
 0.4.0		2026-03-20T13:00:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litote/openapi/ktor/client/generator/version-catalog/0.4.0/version-catalog-0.4.0.jar returned status 404
 0.4.1		2026-03-20T21:34:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litote/openapi/ktor/client/generator/version-catalog/0.4.1/version-catalog-0.4.1.jar returned status 404
 0.5.0		2026-03-22T09:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litote/openapi/ktor/client/generator/version-catalog/0.5.0/version-catalog-0.5.0.jar returned status 404
+0.6.0		2026-03-31T20:29:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litote/openapi/ktor/client/generator/version-catalog/0.6.0/version-catalog-0.6.0.jar returned status 404
+0.6.1		2026-04-06T20:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/litote/openapi/ktor/client/generator/version-catalog/0.6.1/version-catalog-0.6.1.jar returned status 404

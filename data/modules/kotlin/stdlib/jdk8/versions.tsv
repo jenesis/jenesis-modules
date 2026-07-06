@@ -1740,14 +1740,17 @@
 1.43.0	named	io.getstream	stream-chat-java-all	2026-03-26T14:57:01Z	
 4.13.2	named	net.corda	corda-opentelemetry-driver	2026-03-27T15:56:43Z	
 0.26.0	named	com.airbnb.viaduct	javaapi-codegen	2026-03-27T18:22:56Z	
+2.4.0-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-03-31T07:53:08Z	
 4.12.10	named	net.corda	corda-opentelemetry-driver	2026-03-31T13:54:28Z	
 4.14.1	named	net.corda	corda-opentelemetry-driver	2026-03-31T14:00:43Z	
 3.10.4	named	com.aliyun.odps	odps-jdbc	2026-04-02T02:10:12Z	
 1.0.0	named	pl.wtx.wordpress	wordpress-api-client	2026-04-02T08:21:27Z	
 0.27.0	named	com.airbnb.viaduct	javaapi-codegen	2026-04-03T14:05:09Z	
+2.3.21-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-04-07T07:38:08Z	
 3.10.5	named	com.aliyun.odps	odps-jdbc	2026-04-08T09:01:36Z	
 0.28.0	named	com.airbnb.viaduct	javaapi-codegen	2026-04-10T14:42:08Z	
 1.50.0	named	com.google.genai	google-genai	2026-04-15T00:54:59Z	
+2.3.21-RC2	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-04-16T09:57:19Z	
 0.29.0	named	com.airbnb.viaduct	javaapi-codegen	2026-04-16T15:10:18Z	
 1.51.0	named	com.google.genai	google-genai	2026-04-16T22:46:25Z	
 3.10.6	named	com.aliyun.odps	odps-jdbc	2026-04-20T11:37:35Z	
