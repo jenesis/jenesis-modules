@@ -21,6 +21,7 @@
 2.2.2		2016-04-20T19:07:13Z	
 2.2.3		2016-04-27T17:13:06Z	
 2.2.4		2016-04-27T23:22:19Z	
+2.20.0		2019-04-29T15:34:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/broadinstitute/picard/2.20.0/picard-2.20.0.jar returned status 404
 2.3.0		2016-05-12T19:36:48Z	
 2.4.1		2016-05-28T00:24:23Z	
 2.5.0		2016-06-23T21:20:03Z	

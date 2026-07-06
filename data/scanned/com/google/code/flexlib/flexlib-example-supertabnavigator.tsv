@@ -1,0 +1,3 @@
+2.6-M1		2011-06-19T13:28:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flexlib/flexlib-example-supertabnavigator/2.6-M1/flexlib-example-supertabnavigator-2.6-M1.jar returned status 404
+2.6-M2		2011-07-06T19:56:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flexlib/flexlib-example-supertabnavigator/2.6-M2/flexlib-example-supertabnavigator-2.6-M2.jar returned status 404
+2.6-M3		2012-07-04T19:46:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flexlib/flexlib-example-supertabnavigator/2.6-M3/flexlib-example-supertabnavigator-2.6-M3.jar returned status 404

@@ -1,0 +1,5 @@
+1.0.0		2022-07-31T16:06:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/a-langer/org.eclipse.oomph.console.tp/1.0.0/org.eclipse.oomph.console.tp-1.0.0.jar returned status 404
+1.0.1		2022-10-08T10:08:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/a-langer/org.eclipse.oomph.console.tp/1.0.1/org.eclipse.oomph.console.tp-1.0.1.jar returned status 404
+1.0.2		2023-01-02T11:39:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/a-langer/org.eclipse.oomph.console.tp/1.0.2/org.eclipse.oomph.console.tp-1.0.2.jar returned status 404
+1.0.3		2023-06-12T18:40:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/a-langer/org.eclipse.oomph.console.tp/1.0.3/org.eclipse.oomph.console.tp-1.0.3.jar returned status 404
+1.0.4		2023-07-25T06:53:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/a-langer/org.eclipse.oomph.console.tp/1.0.4/org.eclipse.oomph.console.tp-1.0.4.jar returned status 404

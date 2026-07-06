@@ -1,0 +1,3 @@
+1.4.6		2010-05-20T21:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/CallIFrameFunction/1.4.6/CallIFrameFunction-1.4.6.jar returned status 404
+1.5		2011-05-15T13:57:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/CallIFrameFunction/1.5/CallIFrameFunction-1.5.jar returned status 404
+1.5.1		2011-09-16T14:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/CallIFrameFunction/1.5.1/CallIFrameFunction-1.5.1.jar returned status 404

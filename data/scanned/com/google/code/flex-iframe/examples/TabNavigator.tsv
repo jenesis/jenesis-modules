@@ -1,0 +1,5 @@
+1.4.4		2010-04-18T19:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/TabNavigator/1.4.4/TabNavigator-1.4.4.jar returned status 404
+1.4.5		2010-04-25T17:38:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/TabNavigator/1.4.5/TabNavigator-1.4.5.jar returned status 404
+1.4.6		2010-05-20T21:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/TabNavigator/1.4.6/TabNavigator-1.4.6.jar returned status 404
+1.5		2011-05-15T14:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/TabNavigator/1.5/TabNavigator-1.5.jar returned status 404
+1.5.1		2011-09-16T14:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/code/flex-iframe/examples/TabNavigator/1.5.1/TabNavigator-1.5.1.jar returned status 404

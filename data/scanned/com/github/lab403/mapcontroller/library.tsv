@@ -1,0 +1,2 @@
+1.15.7		2015-04-20T21:01:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/lab403/mapcontroller/library/1.15.7/library-1.15.7.jar returned status 404
+1.5.3		2015-04-20T21:18:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/lab403/mapcontroller/library/1.5.3/library-1.5.3.jar returned status 404
