@@ -1,10 +1,19 @@
+1.51.0		2023-10-08T23:53:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.51.0/petclinic-1.51.0.jar returned status 404
 1.51.0	test-javadoc	2023-10-08T23:53:44Z	
+1.52.0		2023-12-14T06:56:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.52.0/petclinic-1.52.0.jar returned status 404
 1.52.0	test-javadoc	2023-12-14T06:56:00Z	
+1.53.0		2024-05-20T01:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.53.0/petclinic-1.53.0.jar returned status 404
 1.53.0	test-javadoc	2024-05-20T01:43:59Z	
+1.54.0		2024-05-31T17:03:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.54.0/petclinic-1.54.0.jar returned status 404
 1.54.0	test-javadoc	2024-05-31T17:03:44Z	
+1.55.0		2024-10-21T15:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.55.0/petclinic-1.55.0.jar returned status 404
 1.55.0	test-javadoc	2024-10-21T15:59:46Z	
+1.56.0		2025-04-26T22:02:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/1.56.0/petclinic-1.56.0.jar returned status 404
 1.56.0	test-javadoc	2025-04-26T22:02:18Z	
+2.0.0		2025-11-08T23:27:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/2.0.0/petclinic-2.0.0.jar returned status 404
 2.0.0	test-javadoc	2025-11-08T23:27:14Z	
+2.0.1		2025-11-22T20:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/2.0.1/petclinic-2.0.1.jar returned status 404
 2.0.1	test-javadoc	2025-11-22T20:25:37Z	
+2.1.0		2025-12-07T01:31:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/jmockit/petclinic/2.1.0/petclinic-2.1.0.jar returned status 404
 2.1.0	test-javadoc	2025-12-07T01:31:31Z	
 2.2.0	test-javadoc	2026-06-11T01:42:43Z	

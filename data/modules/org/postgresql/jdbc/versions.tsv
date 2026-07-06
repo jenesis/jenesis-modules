@@ -82,6 +82,7 @@
 42.6.2	automatic	org.postgresql	postgresql	2024-03-13T18:56:33Z	
 42.7.3	automatic	org.postgresql	postgresql	2024-03-14T18:41:46Z	
 42.2.26.1	automatic	com.alibaba.hologres	postgresql-holo	2024-04-29T14:42:43Z	
+42.5.5.1	automatic	com.enterprisedb	edb-pge-jdbc	2024-05-21T11:20:37Z	
 42.3.5-yb-5	automatic	com.yugabyte	jdbc-yugabytedb	2024-06-07T09:43:39Z	
 42.3.5-yb-6	automatic	com.yugabyte	jdbc-yugabytedb	2024-07-16T10:45:38Z	
 42.2.25.3	automatic	com.alibaba.hologres	postgresql-holo	2024-08-08T11:02:01Z	
@@ -90,6 +91,7 @@
 42.3.5-yb-7	automatic	com.yugabyte	jdbc-yugabytedb	2024-09-18T13:43:33Z	
 42.3.5-yb-8	automatic	com.yugabyte	jdbc-yugabytedb	2024-10-01T12:19:13Z	
 42.7.3-yb-1	automatic	com.yugabyte	jdbc-yugabytedb	2024-10-10T10:00:55Z	
+42.7.3.1	automatic	com.enterprisedb	edb-pge-jdbc	2024-10-15T06:23:48Z	
 42.7.3-yb-2	automatic	com.yugabyte	jdbc-yugabytedb	2024-12-05T06:31:44Z	
 42.7.5	automatic	org.postgresql	postgresql	2025-01-14T14:58:04Z	
 42.7.3-yb-3	automatic	com.yugabyte	jdbc-yugabytedb	2025-02-12T12:18:51Z	

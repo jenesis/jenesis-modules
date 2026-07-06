@@ -1,4 +1,8 @@
+0.7.1		2025-07-16T23:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/qa/engine-variable-test/0.7.1/engine-variable-test-0.7.1.jar returned status 404
 0.7.1	classes	2025-07-16T23:01:55Z	
+0.7.2		2025-07-18T12:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/qa/engine-variable-test/0.7.2/engine-variable-test-0.7.2.jar returned status 404
 0.7.2	classes	2025-07-18T12:30:19Z	
+1.0.0		2025-11-05T23:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/qa/engine-variable-test/1.0.0/engine-variable-test-1.0.0.jar returned status 404
 1.0.0	classes	2025-11-05T23:39:34Z	
+1.0.1		2025-11-25T22:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/qa/engine-variable-test/1.0.1/engine-variable-test-1.0.1.jar returned status 404
 1.0.1	classes	2025-11-25T22:51:02Z	

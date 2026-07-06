@@ -1,4 +1,8 @@
+0.7.1		2025-07-16T23:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/flowee-bpms-engine-rest/0.7.1/flowee-bpms-engine-rest-0.7.1.jar returned status 404
 0.7.1	classes	2025-07-16T23:01:54Z	
+0.7.2		2025-07-18T12:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/flowee-bpms-engine-rest/0.7.2/flowee-bpms-engine-rest-0.7.2.jar returned status 404
 0.7.2	classes	2025-07-18T12:30:18Z	
+1.0.0		2025-11-05T23:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/flowee-bpms-engine-rest/1.0.0/flowee-bpms-engine-rest-1.0.0.jar returned status 404
 1.0.0	classes	2025-11-05T23:39:34Z	
+1.0.1		2025-11-25T22:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/finture/bpm/flowee-bpms-engine-rest/1.0.1/flowee-bpms-engine-rest-1.0.1.jar returned status 404
 1.0.1	classes	2025-11-25T22:51:01Z	

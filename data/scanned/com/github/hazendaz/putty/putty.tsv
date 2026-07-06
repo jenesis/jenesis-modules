@@ -1,0 +1,4 @@
+0.78		2023-01-14T23:12:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/putty/putty/0.78/putty-0.78.jar returned status 404
+0.80		2023-12-20T23:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/putty/putty/0.80/putty-0.80.jar returned status 404
+0.81		2024-05-01T02:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/putty/putty/0.81/putty-0.81.jar returned status 404
+0.83		2025-05-03T02:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/putty/putty/0.83/putty-0.83.jar returned status 404

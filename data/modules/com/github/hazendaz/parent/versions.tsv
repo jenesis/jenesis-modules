@@ -4,6 +4,7 @@
 1.4.1	automatic	com.github.hazendaz.maven	makeself-maven-plugin	2022-07-24T18:39:29Z	
 2.3.1	automatic	com.github.hazendaz	scriptable-dataset	2022-09-10T18:56:06Z	
 1.10.1	automatic	com.github.hazendaz.httpunit	httpunit	2022-09-25T01:23:30Z	
+1.8.0	automatic	com.github.hazendaz	htmlcompressor	2022-10-07T02:06:41Z	
 1.8.0	automatic	com.github.hazendaz.maven	htmlcompressor-maven-plugin	2022-10-07T03:21:29Z	
 1.4.2	automatic	com.github.hazendaz.maven	makeself-maven-plugin	2022-10-08T00:42:41Z	
 0.2.15	automatic	com.github.hazendaz	smartsprites	2022-10-08T01:48:26Z	
@@ -22,6 +23,7 @@
 3.1.9	automatic	com.github.psi-probe	psi-probe-ojdbc	2023-05-21T18:07:31Z	
 1.3.1	automatic	com.github.hazendaz	build-tools	2023-06-03T20:33:06Z	
 0.7.5	automatic	org.csveed	csveed	2023-06-18T00:00:37Z	
+0.2.16	automatic	com.github.hazendaz	smartsprites	2023-11-11T20:34:25Z	
 2.1.3	automatic	com.github.hazendaz.maven	smartsprites-maven-plugin	2023-11-29T03:01:08Z	
 1.12.0	automatic	com.github.hazendaz.httpunit	httpunit	2024-03-13T08:56:09Z	
 1.12.1	automatic	com.github.hazendaz.httpunit	httpunit	2024-03-13T09:08:33Z	

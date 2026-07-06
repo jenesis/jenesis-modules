@@ -1,0 +1,15 @@
+5.21.6		2023-01-14T16:17:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/5.21.6/winscp-5.21.6.jar returned status 404
+6.1		2023-06-04T23:02:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.1/winscp-6.1.jar returned status 404
+6.1.2		2023-10-19T18:19:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.1.2/winscp-6.1.2.jar returned status 404
+6.3.1		2024-03-02T15:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.1/winscp-6.3.1.jar returned status 404
+6.3.2		2024-04-14T18:51:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.2/winscp-6.3.2.jar returned status 404
+6.3.3		2024-04-21T17:45:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.3/winscp-6.3.3.jar returned status 404
+6.3.4		2024-07-13T21:57:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.4/winscp-6.3.4.jar returned status 404
+6.3.5		2024-09-21T18:29:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.5/winscp-6.3.5.jar returned status 404
+6.3.6		2024-12-19T21:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.3.6/winscp-6.3.6.jar returned status 404
+6.5		2025-04-07T17:15:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5/winscp-6.5.jar returned status 404
+6.5.1		2025-05-27T17:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5.1/winscp-6.5.1.jar returned status 404
+6.5.2		2025-06-22T18:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5.2/winscp-6.5.2.jar returned status 404
+6.5.3		2025-07-27T23:43:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5.3/winscp-6.5.3.jar returned status 404
+6.5.4		2025-11-17T01:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5.4/winscp-6.5.4.jar returned status 404
+6.5.5		2025-12-08T00:00:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/winscp/winscp/6.5.5/winscp-6.5.5.jar returned status 404
