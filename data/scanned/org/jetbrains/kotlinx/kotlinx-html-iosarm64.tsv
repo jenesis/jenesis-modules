@@ -12,3 +12,4 @@
 0.8.0	metadata	2022-07-14T09:22:02Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-html-iosarm64/0.9.0/kotlinx-html-iosarm64-0.9.0.jar returned status 404
 0.9.0	metadata	2023-06-22T08:21:33Z	
+0.9.1		2023-07-11T12:27:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-html-iosarm64/0.9.1/kotlinx-html-iosarm64-0.9.1.jar returned status 404

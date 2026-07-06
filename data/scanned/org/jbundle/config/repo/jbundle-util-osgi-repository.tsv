@@ -1,0 +1,2 @@
+2.0.10		2020-01-24T14:42:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-osgi-repository/2.0.10/jbundle-util-osgi-repository-2.0.10.jar returned status 404
+2.0.11		2023-04-01T06:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-osgi-repository/2.0.11/jbundle-util-osgi-repository-2.0.11.jar returned status 404

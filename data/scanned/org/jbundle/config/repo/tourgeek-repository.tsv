@@ -1,0 +1,2 @@
+0.8.4		2020-01-24T14:43:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/tourgeek-repository/0.8.4/tourgeek-repository-0.8.4.jar returned status 404
+0.8.5		2023-04-01T06:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/tourgeek-repository/0.8.5/tourgeek-repository-0.8.5.jar returned status 404

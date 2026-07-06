@@ -1,0 +1,6 @@
+1.0.1-1.0		2015-09-28T15:01:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.0.1-1.0/petals-autoloader-deb-1.0.1-1.0.jar returned status 404
+1.0.2-1.0		2016-05-23T08:56:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.0.2-1.0/petals-autoloader-deb-1.0.2-1.0.jar returned status 404
+1.0.3-1.0		2016-09-21T08:35:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.0.3-1.0/petals-autoloader-deb-1.0.3-1.0.jar returned status 404
+1.0.4-1.0		2017-12-19T15:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.0.4-1.0/petals-autoloader-deb-1.0.4-1.0.jar returned status 404
+1.1.0-1.0		2018-07-24T08:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.1.0-1.0/petals-autoloader-deb-1.1.0-1.0.jar returned status 404
+1.2.0-1.0		2023-04-13T14:52:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-autoloader-deb/1.2.0-1.0/petals-autoloader-deb-1.2.0-1.0.jar returned status 404

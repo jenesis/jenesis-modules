@@ -1,0 +1,9 @@
+1.0.0		2019-04-17T20:43:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/1.0.0/alec-karaf-features-1.0.0.jar returned status 404
+1.0.1		2019-04-26T15:10:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/1.0.1/alec-karaf-features-1.0.1.jar returned status 404
+1.1.1		2021-02-16T17:32:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/1.1.1/alec-karaf-features-1.1.1.jar returned status 404
+2.0.0		2022-06-08T00:52:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/2.0.0/alec-karaf-features-2.0.0.jar returned status 404
+2.1.1-ALPHA		2022-09-28T20:32:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/2.1.1-ALPHA/alec-karaf-features-2.1.1-ALPHA.jar returned status 404
+2.1.2-ALPHA		2022-09-29T17:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/2.1.2-ALPHA/alec-karaf-features-2.1.2-ALPHA.jar returned status 404
+3.0.1		2023-02-06T21:33:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/3.0.1/alec-karaf-features-3.0.1.jar returned status 404
+3.0.2		2025-04-08T18:18:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/3.0.2/alec-karaf-features-3.0.2.jar returned status 404
+3.0.3		2025-04-08T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/alec-karaf-features/3.0.3/alec-karaf-features-3.0.3.jar returned status 404

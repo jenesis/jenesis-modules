@@ -1,6 +1,11 @@
+1.10		2016-04-02T01:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jomc/build/jdk15-jpa10-signature/1.10/jdk15-jpa10-signature-1.10.jar returned status 404
 1.10	site	2016-04-02T01:33:33Z	
+1.6		2011-02-08T05:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jomc/build/jdk15-jpa10-signature/1.6/jdk15-jpa10-signature-1.6.jar returned status 404
+1.7		2012-01-10T22:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jomc/build/jdk15-jpa10-signature/1.7/jdk15-jpa10-signature-1.7.jar returned status 404
 1.7	project	2012-01-10T22:51:47Z	
 1.7	site	2012-01-10T22:51:48Z	
+1.8		2012-09-25T02:08:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jomc/build/jdk15-jpa10-signature/1.8/jdk15-jpa10-signature-1.8.jar returned status 404
 1.8	project	2012-09-25T02:08:52Z	
 1.8	site	2012-09-25T02:08:54Z	
+1.9		2013-04-09T04:17:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jomc/build/jdk15-jpa10-signature/1.9/jdk15-jpa10-signature-1.9.jar returned status 404
 1.9	site	2013-04-09T04:17:53Z	

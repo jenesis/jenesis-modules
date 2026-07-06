@@ -1,4 +1,6 @@
+0.0.1.0		2017-02-06T21:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orderofthebee/support-tools/support-tools-repo/0.0.1.0/support-tools-repo-0.0.1.0.jar returned status 404
 0.0.1.0	classes	2017-02-06T21:38:05Z	
+1.0.0.0		2017-11-26T18:45:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orderofthebee/support-tools/support-tools-repo/1.0.0.0/support-tools-repo-1.0.0.0.jar returned status 404
 1.0.0.0	classes	2017-11-26T18:45:17Z	
 1.1.0.0		2019-08-19T08:32:04Z	
 1.1.0.0	classes	2019-08-19T08:32:19Z	

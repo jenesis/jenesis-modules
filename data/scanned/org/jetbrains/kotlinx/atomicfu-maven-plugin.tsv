@@ -28,6 +28,10 @@
 0.12.7		2019-05-06T23:09:50Z	
 0.12.8		2019-06-06T13:51:21Z	
 0.12.9		2019-06-18T17:06:31Z	
+0.13.0		2019-09-04T21:24:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.13.0/atomicfu-maven-plugin-0.13.0.jar returned status 404
+0.13.1		2019-09-25T16:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.13.1/atomicfu-maven-plugin-0.13.1.jar returned status 404
+0.14.1		2019-12-21T19:29:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.1/atomicfu-maven-plugin-0.14.1.jar returned status 404
+0.14.2		2020-03-04T08:14:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.2/atomicfu-maven-plugin-0.14.2.jar returned status 404
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.3/atomicfu-maven-plugin-0.14.3.jar returned status 404
 0.14.3-1.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.3-1.4-M1/atomicfu-maven-plugin-0.14.3-1.4-M1.jar returned status 404
 0.14.3-1.4.0-rc		2023-05-12T22:37:18Z	

@@ -9,9 +9,13 @@
 2.0.0	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-02-18T08:46:55Z	12.2
 2.0.1	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-02-19T14:52:13Z	12.2
 13.2.1-patch-1	named	io.github.sunny-chung	feign-core	2024-02-24T08:06:39Z	13.2.1-patch-1
+2.0.2	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-04-18T18:08:06Z	13.1
+2.0.3	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-05-29T06:09:35Z	13.1
+2.0.4	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-05-29T09:33:48Z	13.1
 13.3	named	io.github.openfeign	feign-core	2024-06-20T17:55:30Z	13.3
 13.4	named	io.github.openfeign	feign-core	2024-09-17T13:25:45Z	13.4
 13.5	named	io.github.openfeign	feign-core	2024-10-08T18:05:26Z	13.5
+2.0.5	named	org.octopusden.octopus.jira	jira-vcs-plugin	2024-10-16T11:47:23Z	13.1
 13.6	named	io.github.openfeign	feign-core	2025-04-05T18:51:04Z	13.6
 13.7	named	io.github.openfeign	feign-core	2026-02-06T23:19:40Z	13.7
 13.8	named	io.github.openfeign	feign-core	2026-02-09T19:24:48Z	13.8

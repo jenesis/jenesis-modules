@@ -1,0 +1,2 @@
+1.0.0		2009-06-25T14:55:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/admin/swf-home/1.0.0/swf-home-1.0.0.jar returned status 404
+1.0.1		2009-09-09T14:43:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/admin/swf-home/1.0.1/swf-home-1.0.1.jar returned status 404

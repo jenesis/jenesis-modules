@@ -1,0 +1,12 @@
+261		2016-12-15T21:09:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/261/jmxtrans-systemd-261.jar returned status 404
+262		2016-12-19T14:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/262/jmxtrans-systemd-262.jar returned status 404
+263		2016-12-22T16:50:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/263/jmxtrans-systemd-263.jar returned status 404
+264		2017-03-30T11:56:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/264/jmxtrans-systemd-264.jar returned status 404
+265		2017-04-21T08:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/265/jmxtrans-systemd-265.jar returned status 404
+266		2017-07-20T19:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/266/jmxtrans-systemd-266.jar returned status 404
+267		2017-08-28T15:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/267/jmxtrans-systemd-267.jar returned status 404
+268		2017-11-15T18:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/268/jmxtrans-systemd-268.jar returned status 404
+269		2018-03-09T08:58:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/269/jmxtrans-systemd-269.jar returned status 404
+270		2018-03-13T18:33:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/270/jmxtrans-systemd-270.jar returned status 404
+271		2019-12-19T20:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/271/jmxtrans-systemd-271.jar returned status 404
+272		2021-03-30T19:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-systemd/272/jmxtrans-systemd-272.jar returned status 404

@@ -1,0 +1,2 @@
+2.2.0		2012-10-03T06:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/kerneos/kerneos-flex-examples-modules-module2-client/2.2.0/kerneos-flex-examples-modules-module2-client-2.2.0.jar returned status 404
+2.2.1		2013-10-03T07:45:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/kerneos/kerneos-flex-examples-modules-module2-client/2.2.1/kerneos-flex-examples-modules-module2-client-2.2.1.jar returned status 404

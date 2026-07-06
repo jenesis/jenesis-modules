@@ -1,0 +1,8 @@
+4.8.0		2011-06-23T09:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.8.0/console-swf-4.8.0.jar returned status 404
+4.9.0		2012-01-23T12:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0/console-swf-4.9.0.jar returned status 404
+4.9.0-M1		2011-08-05T14:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0-M1/console-swf-4.9.0-M1.jar returned status 404
+4.9.0-M2		2011-09-15T10:20:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0-M2/console-swf-4.9.0-M2.jar returned status 404
+4.9.0-M3		2011-09-30T13:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0-M3/console-swf-4.9.0-M3.jar returned status 404
+4.9.0-M4		2011-10-27T14:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0-M4/console-swf-4.9.0-M4.jar returned status 404
+4.9.0-M5		2011-12-16T14:34:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.0-M5/console-swf-4.9.0-M5.jar returned status 404
+4.9.1		2012-11-21T18:51:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/console/console-swf/4.9.1/console-swf-4.9.1.jar returned status 404

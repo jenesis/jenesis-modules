@@ -1,0 +1,2 @@
+5.0.0.20		2015-07-09T22:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/core/5.0.0.20/core-5.0.0.20.jar returned status 404
+5.0.0.22		2015-07-14T11:48:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/core/5.0.0.22/core-5.0.0.22.jar returned status 404

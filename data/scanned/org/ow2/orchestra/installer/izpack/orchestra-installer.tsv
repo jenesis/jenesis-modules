@@ -1,19 +1,37 @@
 4.2.1	standard	2009-12-11T09:52:41Z	
+4.3.0		2010-02-18T13:15:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.3.0/orchestra-installer-4.3.0.jar returned status 404
 4.3.0	standard	2010-02-18T13:15:26Z	
+4.4.0		2010-04-13T13:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.4.0/orchestra-installer-4.4.0.jar returned status 404
 4.4.0	standard	2010-04-13T13:25:07Z	
+4.4.1		2010-05-12T13:07:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.4.1/orchestra-installer-4.4.1.jar returned status 404
 4.4.1	standard	2010-05-12T13:07:43Z	
+4.4.2		2010-05-20T08:07:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.4.2/orchestra-installer-4.4.2.jar returned status 404
 4.4.2	standard	2010-05-20T08:07:45Z	
+4.5.0		2010-08-12T14:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.5.0/orchestra-installer-4.5.0.jar returned status 404
 4.5.0	standard	2010-08-12T14:44:19Z	
+4.6.0		2010-10-20T14:55:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.6.0/orchestra-installer-4.6.0.jar returned status 404
 4.6.0	standard	2010-10-20T14:55:39Z	
+4.6.1		2010-11-09T14:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.6.1/orchestra-installer-4.6.1.jar returned status 404
 4.6.1	standard	2010-11-09T14:33:00Z	
+4.6.2		2011-06-14T16:56:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.6.2/orchestra-installer-4.6.2.jar returned status 404
 4.6.2	standard	2011-06-14T16:56:42Z	
+4.7.0		2010-12-15T15:57:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.7.0/orchestra-installer-4.7.0.jar returned status 404
 4.7.0	standard	2010-12-15T15:57:20Z	
+4.7.1		2011-04-06T14:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.7.1/orchestra-installer-4.7.1.jar returned status 404
 4.7.1	standard	2011-04-06T14:05:59Z	
+4.8.0		2011-06-23T10:10:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.8.0/orchestra-installer-4.8.0.jar returned status 404
 4.8.0	standard	2011-06-23T10:10:47Z	
+4.9.0		2012-01-23T12:59:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0/orchestra-installer-4.9.0.jar returned status 404
 4.9.0	standard	2012-01-23T12:59:55Z	
+4.9.0-M1		2011-08-05T15:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0-M1/orchestra-installer-4.9.0-M1.jar returned status 404
 4.9.0-M1	standard	2011-08-05T15:12:15Z	
+4.9.0-M2		2011-09-15T10:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0-M2/orchestra-installer-4.9.0-M2.jar returned status 404
 4.9.0-M2	standard	2011-09-15T10:35:16Z	
+4.9.0-M3		2011-09-30T13:42:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0-M3/orchestra-installer-4.9.0-M3.jar returned status 404
 4.9.0-M3	standard	2011-09-30T13:42:24Z	
+4.9.0-M4		2011-10-27T14:22:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0-M4/orchestra-installer-4.9.0-M4.jar returned status 404
 4.9.0-M4	standard	2011-10-27T14:22:16Z	
+4.9.0-M5		2011-12-16T14:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.0-M5/orchestra-installer-4.9.0-M5.jar returned status 404
 4.9.0-M5	standard	2011-12-16T14:47:38Z	
+4.9.1		2012-11-21T19:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/orchestra/installer/izpack/orchestra-installer/4.9.1/orchestra-installer-4.9.1.jar returned status 404
 4.9.1	standard	2012-11-21T19:20:07Z	

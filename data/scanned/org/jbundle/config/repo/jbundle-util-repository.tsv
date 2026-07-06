@@ -1,0 +1,2 @@
+2.0.8		2020-01-24T14:42:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-repository/2.0.8/jbundle-util-repository-2.0.8.jar returned status 404
+2.0.9		2023-04-01T06:49:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-repository/2.0.9/jbundle-util-repository-2.0.9.jar returned status 404

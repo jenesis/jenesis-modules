@@ -1,3 +1,4 @@
+1.0.0-Beryllium		2016-02-16T12:16:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-artifacts/1.0.0-Beryllium/netconf-artifacts-1.0.0-Beryllium.jar returned status 404
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-artifacts/1.13.0/netconf-artifacts-1.13.0.jar returned status 404
 1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-artifacts/1.13.1/netconf-artifacts-1.13.1.jar returned status 404
 1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-artifacts/1.13.2/netconf-artifacts-1.13.2.jar returned status 404

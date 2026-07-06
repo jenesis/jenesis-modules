@@ -1,7 +1,9 @@
 1.2.22-java1.4		2008-02-05T14:49:44Z	
 1.2.22-java1.5		2008-02-05T14:49:43Z	
+1.2.22-java1.6		2008-02-05T14:49:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mvel/mvel/1.2.22-java1.6/mvel-1.2.22-java1.6.jar returned status 404
 1.2.23-java1.4		2008-03-06T03:51:03Z	
 1.2.23-java1.5		2008-03-06T03:51:12Z	
+1.2.23-java1.6		2008-03-06T03:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mvel/mvel/1.2.23-java1.6/mvel-1.2.23-java1.6.jar returned status 404
 1.2.24-java1.4		2008-03-18T00:56:11Z	
 1.2.24-java1.5		2008-03-18T00:56:20Z	
 1.2.24-java1.6		2008-03-18T00:56:29Z	

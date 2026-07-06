@@ -1,0 +1,8 @@
+1.0.0		2022-11-07T22:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.0/karaf-features-1.0.0.jar returned status 404
+1.0.1		2022-11-08T19:19:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.1/karaf-features-1.0.1.jar returned status 404
+1.0.2		2022-11-10T03:51:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.2/karaf-features-1.0.2.jar returned status 404
+1.0.3		2022-11-15T17:52:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.3/karaf-features-1.0.3.jar returned status 404
+1.0.4		2022-12-07T22:36:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.4/karaf-features-1.0.4.jar returned status 404
+1.0.5		2022-12-13T18:10:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.5/karaf-features-1.0.5.jar returned status 404
+1.0.6		2022-12-13T22:02:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.6/karaf-features-1.0.6.jar returned status 404
+1.0.7		2023-01-13T15:58:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/plugins/cloud/karaf-features/1.0.7/karaf-features-1.0.7.jar returned status 404

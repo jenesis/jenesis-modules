@@ -1,0 +1,2 @@
+1.6.10		2020-01-24T14:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-osgi-webstart-repository/1.6.10/jbundle-util-osgi-webstart-repository-1.6.10.jar returned status 404
+1.6.11		2023-04-01T06:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbundle/config/repo/jbundle-util-osgi-webstart-repository/1.6.11/jbundle-util-osgi-webstart-repository-1.6.11.jar returned status 404

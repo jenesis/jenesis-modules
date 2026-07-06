@@ -1,1 +1,2 @@
 2.9.3-patch		2007-06-01T13:47:29Z	
+jar		2007-06-01T09:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/jorm/jorm-core/jar/jorm-core-jar.jar returned status 404

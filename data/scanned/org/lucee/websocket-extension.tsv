@@ -1,3 +1,8 @@
+1.0.0.10-BETA		2024-06-20T17:47:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/1.0.0.10-BETA/websocket-extension-1.0.0.10-BETA.jar returned status 404
+1.0.0.11-RC		2024-06-20T20:01:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/1.0.0.11-RC/websocket-extension-1.0.0.11-RC.jar returned status 404
+1.0.0.13-RC		2025-03-10T15:09:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/1.0.0.13-RC/websocket-extension-1.0.0.13-RC.jar returned status 404
+1.0.0.4-BETA		2024-06-20T19:58:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/1.0.0.4-BETA/websocket-extension-1.0.0.4-BETA.jar returned status 404
+3.0.0.11-RC		2025-03-10T15:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/3.0.0.11-RC/websocket-extension-3.0.0.11-RC.jar returned status 404
 3.0.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/3.0.0.17/websocket-extension-3.0.0.17.jar returned status 404
 3.0.0.17-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/3.0.0.17-RC/websocket-extension-3.0.0.17-RC.jar returned status 404
 3.0.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/websocket-extension/3.0.0.18/websocket-extension-3.0.0.18.jar returned status 404
