@@ -26,6 +26,7 @@
 3.1.0-M7		2023-01-19T19:38:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/3.1.0-M7/rx-client-webapp-3.1.0-M7.jar returned status 404
 3.1.0-M8		2023-01-19T19:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/3.1.0-M8/rx-client-webapp-3.1.0-M8.jar returned status 404
 3.1.11		2025-08-08T08:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/3.1.11/rx-client-webapp-3.1.11.jar returned status 404
+3.1.12		2026-06-11T12:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/3.1.12/rx-client-webapp-3.1.12.jar returned status 404
 4.0.0		2025-11-03T19:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/4.0.0/rx-client-webapp-4.0.0.jar returned status 404
 4.0.0-M3		2025-08-28T08:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/4.0.0-M3/rx-client-webapp-4.0.0-M3.jar returned status 404
 4.0.0-M4		2025-09-22T11:39:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/rx-client-webapp/4.0.0-M4/rx-client-webapp-4.0.0-M4.jar returned status 404

@@ -1,9 +1,11 @@
 10.0.0		2025-06-05T07:27:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/10.0.0/war-jetty-web-10.0.0.jar returned status 404
 10.0.1		2025-07-30T08:06:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/10.0.1/war-jetty-web-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/10.1.0/war-jetty-web-10.1.0.jar returned status 404
 11.0.0		2025-06-05T07:57:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/11.0.0/war-jetty-web-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/11.0.1/war-jetty-web-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/11.1.0/war-jetty-web-11.1.0.jar returned status 404
 11.1.1		2026-05-07T11:13:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/11.1.1/war-jetty-web-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/11.1.2/war-jetty-web-11.1.2.jar returned status 404
 7.2.16		2024-12-03T20:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/7.2.16/war-jetty-web-7.2.16.jar returned status 404
 7.2.17		2024-12-03T20:07:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/7.2.17/war-jetty-web-7.2.17.jar returned status 404
 7.2.18		2024-12-03T20:07:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/7.2.18/war-jetty-web-7.2.18.jar returned status 404
@@ -76,6 +78,7 @@
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.33/war-jetty-web-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.34/war-jetty-web-8.0.34.jar returned status 404
 8.0.35		2026-02-27T12:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.35/war-jetty-web-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.36/war-jetty-web-8.0.36.jar returned status 404
 8.0.4		2024-12-03T20:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.4/war-jetty-web-8.0.4.jar returned status 404
 8.0.5		2024-12-03T20:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.5/war-jetty-web-8.0.5.jar returned status 404
 8.0.6		2024-12-03T20:08:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jetty-web/8.0.6/war-jetty-web-8.0.6.jar returned status 404

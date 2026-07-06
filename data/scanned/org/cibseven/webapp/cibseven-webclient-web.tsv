@@ -4,4 +4,5 @@
 2.1.0	classes	2025-11-07T12:41:57Z	
 2.1.0-alpha		2025-08-14T15:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/webapp/cibseven-webclient-web/2.1.0-alpha/cibseven-webclient-web-2.1.0-alpha.jar returned status 404
 2.1.0-alpha	classes	2025-08-14T15:08:17Z	
+2.2.0		2026-05-31T15:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cibseven/webapp/cibseven-webclient-web/2.2.0/cibseven-webclient-web-2.2.0.jar returned status 404
 2.2.0	classes	2026-05-31T15:12:38Z	

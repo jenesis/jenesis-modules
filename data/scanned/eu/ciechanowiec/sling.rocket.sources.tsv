@@ -5,3 +5,5 @@
 22.0.0		2026-04-09T13:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/sling.rocket.sources/22.0.0/sling.rocket.sources-22.0.0.jar returned status 404
 23.0.0		2026-04-17T09:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/sling.rocket.sources/23.0.0/sling.rocket.sources-23.0.0.jar returned status 404
 24.0.0		2026-04-21T06:29:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/sling.rocket.sources/24.0.0/sling.rocket.sources-24.0.0.jar returned status 404
+25.0.0		2026-05-21T10:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/sling.rocket.sources/25.0.0/sling.rocket.sources-25.0.0.jar returned status 404
+25.0.1		2026-05-21T10:50:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/sling.rocket.sources/25.0.1/sling.rocket.sources-25.0.1.jar returned status 404

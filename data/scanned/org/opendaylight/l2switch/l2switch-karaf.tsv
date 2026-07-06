@@ -4,3 +4,4 @@
 2.0.1		2025-11-29T05:21:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/l2switch-karaf/2.0.1/l2switch-karaf-2.0.1.jar returned status 404
 2.0.2		2025-12-01T13:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/l2switch-karaf/2.0.2/l2switch-karaf-2.0.2.jar returned status 404
 3.0.0		2025-12-01T16:16:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/l2switch-karaf/3.0.0/l2switch-karaf-3.0.0.jar returned status 404
+4.0.0		2026-06-02T16:32:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/l2switch-karaf/4.0.0/l2switch-karaf-4.0.0.jar returned status 404

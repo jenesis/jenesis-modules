@@ -48,6 +48,8 @@
 4.10.21		2026-04-10T13:25:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.21/micronaut-core-bom-4.10.21.jar returned status 404
 4.10.22		2026-04-28T09:55:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.22/micronaut-core-bom-4.10.22.jar returned status 404
 4.10.23		2026-05-06T15:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.23/micronaut-core-bom-4.10.23.jar returned status 404
+4.10.24		2026-06-01T13:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.24/micronaut-core-bom-4.10.24.jar returned status 404
+4.10.25		2026-06-04T14:03:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.25/micronaut-core-bom-4.10.25.jar returned status 404
 4.10.3		2025-10-09T08:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.3/micronaut-core-bom-4.10.3.jar returned status 404
 4.10.4		2025-10-13T09:50:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.4/micronaut-core-bom-4.10.4.jar returned status 404
 4.10.5		2025-10-16T07:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/4.10.5/micronaut-core-bom-4.10.5.jar returned status 404
@@ -193,3 +195,8 @@
 5.0.0-M9		2026-01-23T11:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.0-M9/micronaut-core-bom-5.0.0-M9.jar returned status 404
 5.0.0-RC1		2026-05-03T08:23:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.0-RC1/micronaut-core-bom-5.0.0-RC1.jar returned status 404
 5.0.0-RC2		2026-05-06T13:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.0-RC2/micronaut-core-bom-5.0.0-RC2.jar returned status 404
+5.0.1		2026-06-01T12:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.1/micronaut-core-bom-5.0.1.jar returned status 404
+5.0.2		2026-06-03T12:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.2/micronaut-core-bom-5.0.2.jar returned status 404
+5.0.3		2026-06-11T13:54:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.0.3/micronaut-core-bom-5.0.3.jar returned status 404
+5.1.0		2026-06-16T14:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.1.0/micronaut-core-bom-5.1.0.jar returned status 404
+5.1.1		2026-06-17T16:42:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micronaut-core-bom/5.1.1/micronaut-core-bom-5.1.1.jar returned status 404

@@ -23,3 +23,4 @@
 0.8.4		2025-09-24T22:52:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/rest-gateway/0.8.4/rest-gateway-0.8.4.jar returned status 404
 0.8.6		2025-11-18T15:43:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/rest-gateway/0.8.6/rest-gateway-0.8.6.jar returned status 404
 1.0.0-RC2		2026-05-01T10:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/rest-gateway/1.0.0-RC2/rest-gateway-1.0.0-RC2.jar returned status 404
+1.0.0-RC3		2026-06-02T11:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/rest-gateway/1.0.0-RC3/rest-gateway-1.0.0-RC3.jar returned status 404

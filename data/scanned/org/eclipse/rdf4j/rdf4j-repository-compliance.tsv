@@ -9,3 +9,4 @@
 5.3.0-M2		2026-02-11T21:07:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.3.0-M2/rdf4j-repository-compliance-5.3.0-M2.jar returned status 404
 5.3.1		2026-04-23T18:48:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.3.1/rdf4j-repository-compliance-5.3.1.jar returned status 404
 6.0.0-M1		2026-04-24T11:33:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/6.0.0-M1/rdf4j-repository-compliance-6.0.0-M1.jar returned status 404
+6.0.0-M2		2026-06-01T14:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/6.0.0-M2/rdf4j-repository-compliance-6.0.0-M2.jar returned status 404

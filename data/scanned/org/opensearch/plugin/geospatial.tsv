@@ -36,3 +36,4 @@
 3.4.0.0		2025-12-17T01:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/geospatial/3.4.0.0/geospatial-3.4.0.0.jar returned status 404
 3.5.0.0		2026-02-10T23:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/geospatial/3.5.0.0/geospatial-3.5.0.0.jar returned status 404
 3.6.0.0		2026-04-07T23:12:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/geospatial/3.6.0.0/geospatial-3.6.0.0.jar returned status 404
+3.7.0.0		2026-06-09T22:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/geospatial/3.7.0.0/geospatial-3.7.0.0.jar returned status 404

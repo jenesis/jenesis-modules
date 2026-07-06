@@ -22,6 +22,7 @@
 12.1.1		2025-09-08T04:46:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/demos/jetty-ee11-demo-jetty-websocket-webapp/12.1.1/jetty-ee11-demo-jetty-websocket-webapp-12.1.1.jar returned status 404
 12.1.1	config	2025-09-08T04:46:34Z	
 12.1.1	webbundle	2025-09-08T04:46:29Z	
+12.1.10		2026-05-31T04:57:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/demos/jetty-ee11-demo-jetty-websocket-webapp/12.1.10/jetty-ee11-demo-jetty-websocket-webapp-12.1.10.jar returned status 404
 12.1.10	config	2026-05-31T04:57:50Z	
 12.1.10	webbundle	2026-05-31T04:57:46Z	
 12.1.2		2025-10-07T23:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/demos/jetty-ee11-demo-jetty-websocket-webapp/12.1.2/jetty-ee11-demo-jetty-websocket-webapp-12.1.2.jar returned status 404

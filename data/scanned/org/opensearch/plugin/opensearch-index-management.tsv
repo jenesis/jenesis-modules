@@ -37,3 +37,4 @@
 3.4.0.0		2025-12-17T01:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-index-management/3.4.0.0/opensearch-index-management-3.4.0.0.jar returned status 404
 3.5.0.0		2026-02-10T23:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-index-management/3.5.0.0/opensearch-index-management-3.5.0.0.jar returned status 404
 3.6.0.0		2026-04-07T23:12:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-index-management/3.6.0.0/opensearch-index-management-3.6.0.0.jar returned status 404
+3.7.0.0		2026-06-09T22:47:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-index-management/3.7.0.0/opensearch-index-management-3.7.0.0.jar returned status 404

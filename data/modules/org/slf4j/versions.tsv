@@ -3085,6 +3085,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 12.0.36	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2026-05-31T22:58:36Z	2.0.17
 12.0.36	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2026-05-31T22:58:37Z	2.0.17
 0.0.3	named	io.euhedral-execution	benchmarks	2026-06-01T01:07:47Z	2.0.17
+0.19.0-950	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-06-01T01:10:27Z	2.0.17
 0.0.26	named	io.github.liquid-java	liquidjava-verifier	2026-06-01T11:11:57Z	2.0.7
 1.20-vvr-11.7.0-3-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-01T12:12:43Z	2.0.3
 0.13.1	named	io.testomat	java-reporter-core	2026-06-02T17:05:41Z	2.0.9
@@ -3097,6 +3098,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-04T13:13:31Z	2.0.3
 1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-06-05T01:36:53Z	2.0.3
 1.13.0	named	org.open-metadata	elasticsearch-deps	2026-06-08T09:52:22Z	2.0.4
+0.19.0-951	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-06-09T11:46:30Z	2.0.17
 1.12.0	named	org.noear	luffy.executor.m.thymeleaf	2026-06-09T14:18:00Z	2.0.18
 1.12.0	named	org.noear	luffy.executor.m.velocity	2026-06-09T14:18:01Z	2.0.18
 0.2.0	named	cn.zestflow.www	zestflow-dev-init	2026-06-10T02:15:37Z	2.0.13

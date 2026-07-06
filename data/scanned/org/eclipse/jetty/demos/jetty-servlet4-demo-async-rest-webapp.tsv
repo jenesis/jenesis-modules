@@ -13,6 +13,7 @@
 12.1.0.beta3	config	2025-08-12T00:51:26Z	
 12.1.1		2025-09-08T04:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet4-demo-async-rest-webapp/12.1.1/jetty-servlet4-demo-async-rest-webapp-12.1.1.jar returned status 404
 12.1.1	config	2025-09-08T04:46:33Z	
+12.1.10		2026-05-31T04:57:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet4-demo-async-rest-webapp/12.1.10/jetty-servlet4-demo-async-rest-webapp-12.1.10.jar returned status 404
 12.1.10	config	2026-05-31T04:57:49Z	
 12.1.2		2025-10-07T23:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet4-demo-async-rest-webapp/12.1.2/jetty-servlet4-demo-async-rest-webapp-12.1.2.jar returned status 404
 12.1.2	config	2025-10-07T23:34:35Z	

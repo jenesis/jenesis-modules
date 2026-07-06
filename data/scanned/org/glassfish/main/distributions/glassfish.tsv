@@ -27,5 +27,6 @@
 8.0.0-M15		2025-12-15T11:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/8.0.0-M15/glassfish-8.0.0-M15.jar returned status 404
 8.0.1		2026-03-25T13:24:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/8.0.1/glassfish-8.0.1.jar returned status 404
 8.0.2		2026-05-05T00:14:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/8.0.2/glassfish-8.0.2.jar returned status 404
+8.0.3		2026-06-07T14:03:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/8.0.3/glassfish-8.0.3.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/9.0.0-M1/glassfish-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/glassfish/9.0.0-M2/glassfish-9.0.0-M2.jar returned status 404

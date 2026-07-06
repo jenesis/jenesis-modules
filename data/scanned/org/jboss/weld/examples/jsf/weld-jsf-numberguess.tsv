@@ -5,3 +5,4 @@
 7.0.0.Alpha1		2025-11-28T15:37:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/examples/jsf/weld-jsf-numberguess/7.0.0.Alpha1/weld-jsf-numberguess-7.0.0.Alpha1.jar returned status 404
 7.0.0.Alpha2		2026-05-15T14:49:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/examples/jsf/weld-jsf-numberguess/7.0.0.Alpha2/weld-jsf-numberguess-7.0.0.Alpha2.jar returned status 404
 7.0.0.Beta1		2026-05-26T18:03:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/examples/jsf/weld-jsf-numberguess/7.0.0.Beta1/weld-jsf-numberguess-7.0.0.Beta1.jar returned status 404
+7.0.0.Beta2		2026-06-10T12:15:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/examples/jsf/weld-jsf-numberguess/7.0.0.Beta2/weld-jsf-numberguess-7.0.0.Beta2.jar returned status 404

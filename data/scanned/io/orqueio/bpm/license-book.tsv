@@ -8,7 +8,9 @@
 1.0.6-SSO		2025-12-22T10:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/1.0.6-SSO/license-book-1.0.6-SSO.jar returned status 404
 1.0.7		2026-02-17T16:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/1.0.7/license-book-1.0.7.jar returned status 404
 1.0.8		2026-02-27T16:35:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/1.0.8/license-book-1.0.8.jar returned status 404
+1.0.9		2026-06-03T10:31:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/1.0.9/license-book-1.0.9.jar returned status 404
 2.0.0		2025-12-12T03:23:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.0/license-book-2.0.0.jar returned status 404
 2.0.1		2026-01-19T12:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.1/license-book-2.0.1.jar returned status 404
 2.0.2		2026-02-18T16:57:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.2/license-book-2.0.2.jar returned status 404
 2.0.3		2026-03-02T10:19:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.3/license-book-2.0.3.jar returned status 404
+2.0.4		2026-06-03T12:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.4/license-book-2.0.4.jar returned status 404

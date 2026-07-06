@@ -90,6 +90,7 @@
 12.0.35		2026-05-01T05:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.35/jetty-ee8-demo-spec-webapp-12.0.35.jar returned status 404
 12.0.35	config	2026-05-01T05:52:34Z	
 12.0.35	webbundle	2026-05-01T05:52:34Z	
+12.0.36		2026-05-31T22:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.36/jetty-ee8-demo-spec-webapp-12.0.36.jar returned status 404
 12.0.36	config	2026-05-31T22:58:32Z	
 12.0.36	webbundle	2026-05-31T22:58:31Z	
 12.0.4	config	2023-11-30T19:24:01Z	

@@ -18,6 +18,7 @@
 12.1.1		2025-09-08T04:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet6-demo-jspc-webapp/12.1.1/jetty-servlet6-demo-jspc-webapp-12.1.1.jar returned status 404
 12.1.1	config	2025-09-08T04:46:31Z	
 12.1.1	webbundle-ee10	2025-09-08T04:46:35Z	
+12.1.10		2026-05-31T04:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet6-demo-jspc-webapp/12.1.10/jetty-servlet6-demo-jspc-webapp-12.1.10.jar returned status 404
 12.1.10	config	2026-05-31T04:57:50Z	
 12.1.10	webbundle-ee10	2026-05-31T04:57:48Z	
 12.1.2		2025-10-07T23:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet6-demo-jspc-webapp/12.1.2/jetty-servlet6-demo-jspc-webapp-12.1.2.jar returned status 404

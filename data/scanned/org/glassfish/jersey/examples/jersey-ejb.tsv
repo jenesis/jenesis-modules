@@ -26,6 +26,7 @@
 3.1.0-M7		2023-01-19T19:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/3.1.0-M7/jersey-ejb-3.1.0-M7.jar returned status 404
 3.1.0-M8		2023-01-19T19:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/3.1.0-M8/jersey-ejb-3.1.0-M8.jar returned status 404
 3.1.11		2025-08-08T08:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/3.1.11/jersey-ejb-3.1.11.jar returned status 404
+3.1.12		2026-06-11T12:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/3.1.12/jersey-ejb-3.1.12.jar returned status 404
 4.0.0		2025-11-03T19:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/4.0.0/jersey-ejb-4.0.0.jar returned status 404
 4.0.0-M3		2025-08-28T08:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/4.0.0-M3/jersey-ejb-4.0.0-M3.jar returned status 404
 4.0.0-M4		2025-09-22T11:39:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/jersey-ejb/4.0.0-M4/jersey-ejb-4.0.0-M4.jar returned status 404

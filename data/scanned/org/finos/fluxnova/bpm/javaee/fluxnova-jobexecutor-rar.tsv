@@ -2,3 +2,4 @@
 1.1.0		2026-02-03T19:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/javaee/fluxnova-jobexecutor-rar/1.1.0/fluxnova-jobexecutor-rar-1.1.0.jar returned status 404
 2.0.0		2026-04-06T21:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/javaee/fluxnova-jobexecutor-rar/2.0.0/fluxnova-jobexecutor-rar-2.0.0.jar returned status 404
 2.0.1		2026-05-12T21:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/javaee/fluxnova-jobexecutor-rar/2.0.1/fluxnova-jobexecutor-rar-2.0.1.jar returned status 404
+2.0.2		2026-06-04T20:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/javaee/fluxnova-jobexecutor-rar/2.0.2/fluxnova-jobexecutor-rar-2.0.2.jar returned status 404

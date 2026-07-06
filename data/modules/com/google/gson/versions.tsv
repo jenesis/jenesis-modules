@@ -4865,6 +4865,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.0.5	named	org.jam4s	jam4s-codec-cli_3	2026-06-01T23:49:30Z	2.10.1
 4.0.1	named	com.snowflake	snowflake-kafka-connector	2026-06-02T22:14:54Z	2.8.9
 2.3.0-M1-4ee33449fff18243c019f799b636cdb8c8a18f6c	named	com.eed3si9n.remoteapis.shaded	shaded-remoteapis-java	2026-06-03T06:20:16Z	2.10.1
+2.4.0	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-06-03T06:52:42Z	2.11.0
 1.0.0	named	com.afipsdk	afip-sdk-java	2026-06-03T19:44:48Z	2.14.0
 1.0.0	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:41:49Z	2.10.1
 1.0.1	named	nl.trusttech	digital-credentials-verifier	2026-06-03T21:57:45Z	2.10.1

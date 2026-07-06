@@ -29,3 +29,4 @@
 0.9.7		2025-03-10T12:36:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unknow0/server/unknow-server-test-tomcat/0.9.7/unknow-server-test-tomcat-0.9.7.jar returned status 404
 0.9.8		2025-05-01T06:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unknow0/server/unknow-server-test-tomcat/0.9.8/unknow-server-test-tomcat-0.9.8.jar returned status 404
 0.9.9		2025-05-05T11:24:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unknow0/server/unknow-server-test-tomcat/0.9.9/unknow-server-test-tomcat-0.9.9.jar returned status 404
+1.0.0		2026-05-27T19:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/unknow0/server/unknow-server-test-tomcat/1.0.0/unknow-server-test-tomcat-1.0.0.jar returned status 404

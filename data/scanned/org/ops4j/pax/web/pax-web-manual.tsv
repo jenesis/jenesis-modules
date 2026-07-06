@@ -1,9 +1,11 @@
 10.0.0		2025-06-05T07:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/10.0.0/pax-web-manual-10.0.0.jar returned status 404
 10.0.1		2025-07-30T08:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/10.0.1/pax-web-manual-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/10.1.0/pax-web-manual-10.1.0.jar returned status 404
 11.0.0		2025-06-05T07:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/11.0.0/pax-web-manual-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/11.0.1/pax-web-manual-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/11.1.0/pax-web-manual-11.1.0.jar returned status 404
 11.1.1		2026-05-07T11:13:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/11.1.1/pax-web-manual-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/11.1.2/pax-web-manual-11.1.2.jar returned status 404
 7.2.16		2024-12-03T19:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/7.2.16/pax-web-manual-7.2.16.jar returned status 404
 7.2.17		2024-12-03T19:11:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/7.2.17/pax-web-manual-7.2.17.jar returned status 404
 7.2.18		2024-12-03T19:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/7.2.18/pax-web-manual-7.2.18.jar returned status 404
@@ -76,6 +78,7 @@
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.33/pax-web-manual-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.34/pax-web-manual-8.0.34.jar returned status 404
 8.0.35		2026-02-27T12:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.35/pax-web-manual-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.36/pax-web-manual-8.0.36.jar returned status 404
 8.0.4		2024-12-03T19:11:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.4/pax-web-manual-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:11:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.5/pax-web-manual-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:11:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/pax-web-manual/8.0.6/pax-web-manual-8.0.6.jar returned status 404

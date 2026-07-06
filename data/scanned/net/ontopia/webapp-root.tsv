@@ -3,3 +3,4 @@
 5.5.2		2025-07-04T15:11:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-root/5.5.2/webapp-root-5.5.2.jar returned status 404
 5.6.0		2025-08-20T12:06:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-root/5.6.0/webapp-root-5.6.0.jar returned status 404
 5.7.0		2026-05-20T14:02:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-root/5.7.0/webapp-root-5.7.0.jar returned status 404
+6.0.0		2026-06-01T06:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-root/6.0.0/webapp-root-6.0.0.jar returned status 404

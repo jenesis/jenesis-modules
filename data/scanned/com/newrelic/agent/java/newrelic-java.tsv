@@ -63,3 +63,4 @@
 9.0.0		2026-01-14T01:04:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/newrelic/agent/java/newrelic-java/9.0.0/newrelic-java-9.0.0.jar returned status 404
 9.1.0		2026-02-12T16:05:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/newrelic/agent/java/newrelic-java/9.1.0/newrelic-java-9.1.0.jar returned status 404
 9.2.0		2026-04-07T18:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/newrelic/agent/java/newrelic-java/9.2.0/newrelic-java-9.2.0.jar returned status 404
+9.3.0		2026-05-27T21:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/newrelic/agent/java/newrelic-java/9.3.0/newrelic-java-9.3.0.jar returned status 404

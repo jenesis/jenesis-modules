@@ -182,6 +182,7 @@
 2.3.21		2026-04-22T09:31:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.3.21/kotlin-test-js-2.3.21.jar returned status 404
 2.3.21-RC		2026-04-07T07:38:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.3.21-RC/kotlin-test-js-2.3.21-RC.jar returned status 404
 2.3.21-RC2		2026-04-16T09:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.3.21-RC2/kotlin-test-js-2.3.21-RC2.jar returned status 404
+2.4.0		2026-06-03T06:52:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.4.0/kotlin-test-js-2.4.0.jar returned status 404
 2.4.0-Beta1		2026-03-31T07:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.4.0-Beta1/kotlin-test-js-2.4.0-Beta1.jar returned status 404
 2.4.0-Beta2		2026-04-22T07:22:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.4.0-Beta2/kotlin-test-js-2.4.0-Beta2.jar returned status 404
 2.4.0-RC		2026-05-13T08:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-test-js/2.4.0-RC/kotlin-test-js-2.4.0-RC.jar returned status 404

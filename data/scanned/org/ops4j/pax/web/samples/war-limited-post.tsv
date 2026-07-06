@@ -1,9 +1,11 @@
 10.0.0		2025-06-05T07:27:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/10.0.0/war-limited-post-10.0.0.jar returned status 404
 10.0.1		2025-07-30T08:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/10.0.1/war-limited-post-10.0.1.jar returned status 404
+10.1.0		2026-06-11T09:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/10.1.0/war-limited-post-10.1.0.jar returned status 404
 11.0.0		2025-06-05T07:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/11.0.0/war-limited-post-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/11.0.1/war-limited-post-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/11.1.0/war-limited-post-11.1.0.jar returned status 404
 11.1.1		2026-05-07T11:13:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/11.1.1/war-limited-post-11.1.1.jar returned status 404
+11.1.2		2026-06-11T09:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/11.1.2/war-limited-post-11.1.2.jar returned status 404
 8.0.0		2024-12-03T19:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.0/war-limited-post-8.0.0.jar returned status 404
 8.0.1		2024-12-03T19:50:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.1/war-limited-post-8.0.1.jar returned status 404
 8.0.10		2024-12-03T19:50:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.10/war-limited-post-8.0.10.jar returned status 404
@@ -32,6 +34,7 @@
 8.0.33		2025-07-29T17:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.33/war-limited-post-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.34/war-limited-post-8.0.34.jar returned status 404
 8.0.35		2026-02-27T12:04:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.35/war-limited-post-8.0.35.jar returned status 404
+8.0.36		2026-06-11T08:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.36/war-limited-post-8.0.36.jar returned status 404
 8.0.4		2024-12-03T19:50:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.4/war-limited-post-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:50:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.5/war-limited-post-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:50:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-limited-post/8.0.6/war-limited-post-8.0.6.jar returned status 404

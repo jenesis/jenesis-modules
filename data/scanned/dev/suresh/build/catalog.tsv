@@ -115,6 +115,7 @@
 2.5.0		2025-06-19T04:04:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.5.0/catalog-2.5.0.jar returned status 404
 2.5.1		2025-07-14T16:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.5.1/catalog-2.5.1.jar returned status 404
 2.50.0		2026-05-15T17:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.50.0/catalog-2.50.0.jar returned status 404
+2.53.0		2026-05-29T04:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.53.0/catalog-2.53.0.jar returned status 404
 2.6.0		2025-07-14T18:36:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.6.0/catalog-2.6.0.jar returned status 404
 2.6.1		2025-07-14T19:02:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.6.1/catalog-2.6.1.jar returned status 404
 2.6.2		2025-07-15T00:51:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/build/catalog/2.6.2/catalog-2.6.2.jar returned status 404

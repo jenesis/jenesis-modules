@@ -4251,6 +4251,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.2.0	named	com.azure.cosmos.spark	fabric-cosmos-spark-auth_4-0_2-13	2026-06-09T01:19:27Z	2.18.7
 0.18.3	named	io.modelcontextprotocol.sdk	client-jdk-http-client	2026-06-09T13:11:33Z	2.20.1
 2.0.9	named	org.octopusden.octopus.sonar	sonar-automation	2026-06-11T01:39:52Z	2.20.1
+5.1.1	named	org.openidentityplatform.opendj	opendj-openidm-account-change-notification-handler	2026-06-11T19:19:20Z	2.18.6
 0.1.0	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T08:58:16Z	2.17.2
 0.1.1	named	wang.minggen.flowgram	flowgram-runtime-core	2026-06-13T10:42:25Z	2.17.2
 2.1.9	named	com.icegreen	greenmail-standalone	2026-06-14T16:36:57Z	2.22.0

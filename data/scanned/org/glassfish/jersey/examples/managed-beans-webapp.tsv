@@ -26,3 +26,4 @@
 3.1.0-M7		2023-01-19T19:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/managed-beans-webapp/3.1.0-M7/managed-beans-webapp-3.1.0-M7.jar returned status 404
 3.1.0-M8		2023-01-19T19:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/managed-beans-webapp/3.1.0-M8/managed-beans-webapp-3.1.0-M8.jar returned status 404
 3.1.11		2025-08-08T08:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/managed-beans-webapp/3.1.11/managed-beans-webapp-3.1.11.jar returned status 404
+3.1.12		2026-06-11T12:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/managed-beans-webapp/3.1.12/managed-beans-webapp-3.1.12.jar returned status 404
