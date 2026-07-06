@@ -14,6 +14,7 @@
 7.6.1	context	2021-10-21T13:43:03Z	
 7.6.1	resources	2021-10-21T13:45:35Z	
 7.6.1	scenarios	2021-10-21T13:45:33Z	
+7.6.2		2021-12-13T19:30:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-test/7.6.2/ibis-adapterframework-test-7.6.2.jar returned status 404
 7.6.2	configurations	2021-12-13T19:30:33Z	
 7.6.2	context	2021-12-13T19:30:33Z	
 7.6.2	resources	2021-12-13T19:30:33Z	
