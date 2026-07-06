@@ -1,16 +1,26 @@
+12.1.0		2025-08-15T05:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.0/jetty-servlet5-demo-jaas-webapp-12.1.0.jar returned status 404
 12.1.0	config	2025-08-15T05:13:17Z	
 12.1.0.alpha0	config	2024-11-05T20:20:49Z	
 12.1.0.alpha1	config	2024-12-23T18:17:34Z	
 12.1.0.alpha2	config	2025-03-18T15:57:43Z	
+12.1.0.beta0		2025-05-18T23:48:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.0.beta0/jetty-servlet5-demo-jaas-webapp-12.1.0.beta0.jar returned status 404
 12.1.0.beta0	config	2025-05-18T23:48:12Z	
+12.1.0.beta1		2025-06-19T18:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.0.beta1/jetty-servlet5-demo-jaas-webapp-12.1.0.beta1.jar returned status 404
 12.1.0.beta1	config	2025-06-19T18:53:48Z	
+12.1.0.beta2		2025-07-18T19:53:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.0.beta2/jetty-servlet5-demo-jaas-webapp-12.1.0.beta2.jar returned status 404
 12.1.0.beta2	config	2025-07-18T19:53:28Z	
+12.1.0.beta3		2025-08-12T00:51:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.0.beta3/jetty-servlet5-demo-jaas-webapp-12.1.0.beta3.jar returned status 404
 12.1.0.beta3	config	2025-08-12T00:51:33Z	
+12.1.1		2025-09-08T04:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.1/jetty-servlet5-demo-jaas-webapp-12.1.1.jar returned status 404
 12.1.1	config	2025-09-08T04:46:29Z	
 12.1.10	config	2026-05-31T04:57:47Z	
+12.1.2		2025-10-07T23:34:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.2/jetty-servlet5-demo-jaas-webapp-12.1.2.jar returned status 404
 12.1.2	config	2025-10-07T23:34:34Z	
+12.1.3		2025-10-16T14:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.3/jetty-servlet5-demo-jaas-webapp-12.1.3.jar returned status 404
 12.1.3	config	2025-10-16T14:25:49Z	
+12.1.4		2025-11-10T17:57:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.4/jetty-servlet5-demo-jaas-webapp-12.1.4.jar returned status 404
 12.1.4	config	2025-11-10T17:57:03Z	
+12.1.5		2025-12-03T22:32:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-jaas-webapp/12.1.5/jetty-servlet5-demo-jaas-webapp-12.1.5.jar returned status 404
 12.1.5	config	2025-12-03T22:32:38Z	
 12.1.6	config	2026-01-27T19:01:41Z	
 12.1.7	config	2026-03-04T00:49:06Z	

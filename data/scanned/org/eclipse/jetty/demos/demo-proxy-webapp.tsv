@@ -19,6 +19,7 @@
 10.0.23	config	2024-08-14T01:18:21Z	
 10.0.24	config	2024-08-26T18:01:41Z	
 10.0.25	config	2025-03-13T00:05:48Z	
+10.0.26		2025-08-14T16:05:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-proxy-webapp/10.0.26/demo-proxy-webapp-10.0.26.jar returned status 404
 10.0.26	config	2025-08-14T16:05:11Z	
 10.0.3	config	2021-05-20T21:19:32Z	
 10.0.4	config	2021-06-04T18:16:18Z	
@@ -48,6 +49,7 @@
 11.0.23	config	2024-08-14T01:43:45Z	
 11.0.24	config	2024-08-26T18:14:27Z	
 11.0.25	config	2025-03-13T00:19:00Z	
+11.0.26		2025-08-14T18:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-proxy-webapp/11.0.26/demo-proxy-webapp-11.0.26.jar returned status 404
 11.0.26	config	2025-08-14T18:11:26Z	
 11.0.3	config	2021-05-20T21:59:13Z	
 11.0.4	config	2021-06-04T18:42:18Z	

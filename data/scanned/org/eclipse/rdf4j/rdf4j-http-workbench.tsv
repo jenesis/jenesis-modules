@@ -30,10 +30,15 @@
 5.1.1	classes	2025-01-28T05:48:53Z	
 5.1.2	classes	2025-02-11T12:00:53Z	
 5.1.3	classes	2025-04-15T13:40:42Z	
+5.1.4		2025-07-21T16:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.1.4/rdf4j-http-workbench-5.1.4.jar returned status 404
 5.1.4	classes	2025-07-21T16:16:59Z	
+5.1.5		2025-09-06T10:12:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.1.5/rdf4j-http-workbench-5.1.5.jar returned status 404
 5.1.5	classes	2025-09-06T10:12:29Z	
+5.1.6		2025-09-24T20:24:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.1.6/rdf4j-http-workbench-5.1.6.jar returned status 404
 5.1.6	classes	2025-09-24T20:24:44Z	
+5.2.0		2025-10-05T13:04:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.2.0/rdf4j-http-workbench-5.2.0.jar returned status 404
 5.2.0	classes	2025-10-05T13:04:41Z	
+5.2.1		2025-12-05T11:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.2.1/rdf4j-http-workbench-5.2.1.jar returned status 404
 5.2.1	classes	2025-12-05T11:24:46Z	
 5.2.2	classes	2025-12-15T14:54:49Z	
 5.3.0	classes	2026-04-17T09:45:41Z	

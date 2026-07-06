@@ -1,0 +1,4 @@
+1.0.0		2025-04-16T14:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eximeebpms/bpm/run/eximeebpms-bpm-run-assembly/1.0.0/eximeebpms-bpm-run-assembly-1.0.0.jar returned status 404
+1.1.0		2025-10-19T20:30:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eximeebpms/bpm/run/eximeebpms-bpm-run-assembly/1.1.0/eximeebpms-bpm-run-assembly-1.1.0.jar returned status 404
+1.1.1		2025-10-24T07:17:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eximeebpms/bpm/run/eximeebpms-bpm-run-assembly/1.1.1/eximeebpms-bpm-run-assembly-1.1.1.jar returned status 404
+1.1.2		2025-10-25T19:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eximeebpms/bpm/run/eximeebpms-bpm-run-assembly/1.1.2/eximeebpms-bpm-run-assembly-1.1.2.jar returned status 404

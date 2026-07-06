@@ -1,0 +1,2 @@
+7.6.4		2025-07-14T18:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/rest/7.6.4/rest-7.6.4.jar returned status 404
+7.6.5		2025-07-22T20:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/modules/rest/7.6.5/rest-7.6.5.jar returned status 404

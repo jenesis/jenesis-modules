@@ -19,6 +19,7 @@
 10.0.23	config	2024-08-14T01:17:24Z	
 10.0.24	config	2024-08-26T18:01:08Z	
 10.0.25	config	2025-03-13T00:05:16Z	
+10.0.26		2025-08-14T16:05:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-jndi-webapp/10.0.26/demo-jndi-webapp-10.0.26.jar returned status 404
 10.0.26	config	2025-08-14T16:05:11Z	
 10.0.3	config	2021-05-20T21:17:17Z	
 10.0.4	config	2021-06-04T18:13:22Z	
@@ -48,6 +49,7 @@
 11.0.23	config	2024-08-14T01:43:10Z	
 11.0.24	config	2024-08-26T18:13:55Z	
 11.0.25	config	2025-03-13T00:18:28Z	
+11.0.26		2025-08-14T18:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-jndi-webapp/11.0.26/demo-jndi-webapp-11.0.26.jar returned status 404
 11.0.26	config	2025-08-14T18:11:27Z	
 11.0.3	config	2021-05-20T21:57:00Z	
 11.0.4	config	2021-06-04T18:39:14Z	

@@ -1,0 +1,5 @@
+5.1.4		2025-07-21T16:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.1.4/rdf4j-repository-compliance-5.1.4.jar returned status 404
+5.1.5		2025-09-06T10:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.1.5/rdf4j-repository-compliance-5.1.5.jar returned status 404
+5.1.6		2025-09-24T20:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.1.6/rdf4j-repository-compliance-5.1.6.jar returned status 404
+5.2.0		2025-10-05T13:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.2.0/rdf4j-repository-compliance-5.2.0.jar returned status 404
+5.2.1		2025-12-05T11:24:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-repository-compliance/5.2.1/rdf4j-repository-compliance-5.2.1.jar returned status 404

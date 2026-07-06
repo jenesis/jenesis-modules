@@ -40,6 +40,7 @@
 10.0.24	webbundle	2024-08-26T18:01:02Z	
 10.0.25	config	2025-03-13T00:05:10Z	
 10.0.25	webbundle	2025-03-13T00:05:10Z	
+10.0.26		2025-08-14T16:05:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-jetty-webapp/10.0.26/demo-jetty-webapp-10.0.26.jar returned status 404
 10.0.26	config	2025-08-14T16:05:13Z	
 10.0.26	webbundle	2025-08-14T16:05:13Z	
 10.0.3	config	2021-05-20T21:18:48Z	
@@ -98,6 +99,7 @@
 11.0.24	webbundle	2024-08-26T18:13:49Z	
 11.0.25	config	2025-03-13T00:18:22Z	
 11.0.25	webbundle	2025-03-13T00:18:22Z	
+11.0.26		2025-08-14T18:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/demo-jetty-webapp/11.0.26/demo-jetty-webapp-11.0.26.jar returned status 404
 11.0.26	config	2025-08-14T18:11:27Z	
 11.0.26	webbundle	2025-08-14T18:11:26Z	
 11.0.3	config	2021-05-20T21:58:30Z	
