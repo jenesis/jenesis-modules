@@ -1,3 +1,4 @@
 5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-core-ktx/5.5.1/acra-core-ktx-5.5.1.jar returned status 404
+5.6.0		2021-12-16T19:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-core-ktx/5.6.0/acra-core-ktx-5.6.0.jar returned status 404
 5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-core-ktx/5.6.1/acra-core-ktx-5.6.1.jar returned status 404
 5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-core-ktx/5.7.0/acra-core-ktx-5.7.0.jar returned status 404

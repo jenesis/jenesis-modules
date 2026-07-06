@@ -4976,6 +4976,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 2.10.0-snapshot.20240909.12951.0.v4020b9c1	named	com.daml	ledger-api-test-tool-1.dev	2024-09-10T06:32:48Z	2.14.3
 3.20.1	named	io.moderne	moderne-cli	2024-09-10T15:08:26Z	2.17.2
 3.20.2	named	io.moderne	moderne-cli	2024-09-10T20:12:31Z	2.17.2
+0.5.0	named	com.aerospike	avs-client-java	2024-09-10T20:17:43Z	2.17.2
 3.20.3	named	io.moderne	moderne-cli	2024-09-10T20:36:56Z	2.17.2
 2.10.0-snapshot.20240910.12953.0.v7e224718	named	com.daml	ledger-api-test-tool	2024-09-11T06:44:42Z	2.14.3
 2.10.0-snapshot.20240910.12953.0.v7e224718	named	com.daml	ledger-api-test-tool-1.14	2024-09-11T06:44:44Z	2.14.3

@@ -1,0 +1,4 @@
+4.1.0		2024-08-02T15:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-aries-versionCatalog/4.1.0/vck-aries-versionCatalog-4.1.0.jar returned status 404
+4.1.1		2024-08-04T08:51:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-aries-versionCatalog/4.1.1/vck-aries-versionCatalog-4.1.1.jar returned status 404
+5.0.0		2024-10-02T12:09:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-aries-versionCatalog/5.0.0/vck-aries-versionCatalog-5.0.0.jar returned status 404
+5.0.1		2024-10-16T19:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-aries-versionCatalog/5.0.1/vck-aries-versionCatalog-5.0.1.jar returned status 404

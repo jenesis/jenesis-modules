@@ -1,0 +1,5 @@
+3.6.0		2024-05-01T09:23:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-versionCatalog/3.6.0/vclib-versionCatalog-3.6.0.jar returned status 404
+3.6.1		2024-05-02T16:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-versionCatalog/3.6.1/vclib-versionCatalog-3.6.1.jar returned status 404
+3.7.0		2024-05-31T08:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-versionCatalog/3.7.0/vclib-versionCatalog-3.7.0.jar returned status 404
+3.8.0		2024-06-20T12:03:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-versionCatalog/3.8.0/vclib-versionCatalog-3.8.0.jar returned status 404
+4.0.0		2024-07-23T19:57:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-versionCatalog/4.0.0/vclib-versionCatalog-4.0.0.jar returned status 404

@@ -1946,6 +1946,7 @@
 2.10.0-snapshot.20240812.12920.0.vadb77426	named	com.daml	codegen-jvm-main	2024-08-13T06:47:35Z	1.4.14
 2.10.0-snapshot.20240812.12920.0.vadb77426	named	com.daml	codegen-scala-main	2024-08-13T06:47:36Z	1.4.14
 2.10.0-snapshot.20240812.12920.0.vadb77426	named	com.daml	codegen-java	2024-08-13T06:47:38Z	1.4.14
+0.4.0	named	com.aerospike	avs-client-java	2024-08-13T22:58:06Z	1.5.6
 3.2.0-snapshot.20240813.13227.0.v36158334	named	com.daml	codegen-jvm-main	2024-08-14T06:24:42Z	1.4.14
 3.2.0-snapshot.20240813.13227.0.v36158334	named	com.daml	codegen-java	2024-08-14T06:24:44Z	1.4.14
 2.10.0-snapshot.20240813.12924.0.vf97df98d	named	com.daml	codegen-jvm-main	2024-08-14T06:33:11Z	1.4.14
@@ -2001,6 +2002,7 @@
 0.12.0-271	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-08-22T16:45:34Z	1.5.3
 0.12.0-272	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-08-22T22:38:18Z	1.5.3
 0.12.0-273	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-08-22T23:58:04Z	1.5.3
+0.4.1	named	com.aerospike	avs-client-java	2024-08-23T01:04:41Z	1.5.6
 0.12.0-274	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-08-23T18:56:32Z	1.5.3
 0.12.0-275	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-08-23T19:18:30Z	1.5.3
 3.2.0-snapshot.20240823.13245.0.v94a3b038	named	com.daml	codegen-jvm-main	2024-08-24T08:11:04Z	1.4.14
@@ -2250,6 +2252,7 @@
 3.2.0-snapshot.20241010.13346.0.v7916cbc0	named	com.daml	codegen-java	2024-10-11T06:33:26Z	1.4.14
 2.10.0-snapshot.20241010.13003.0.vb79a1d35	named	com.daml	codegen-jvm-main	2024-10-11T06:50:38Z	1.4.14
 0.12.0-RC3-46-80d164	named	com.lihaoyi	mill-dist	2024-10-11T08:46:52Z	1.5.7
+1.0.0	named	com.aerospike	avs-client-java	2024-10-11T22:40:04Z	1.5.8
 1.5.10	named	ch.qos.logback	logback-classic	2024-10-12T08:07:46Z	1.5.10
 3.2.0-snapshot.20241011.13348.0.v5251db3e	named	com.daml	codegen-jvm-main	2024-10-12T09:47:11Z	1.4.14
 3.2.0-snapshot.20241011.13348.0.v5251db3e	named	com.daml	codegen-java	2024-10-12T09:47:15Z	1.4.14
@@ -2319,6 +2322,7 @@
 2.10.0-snapshot.20241029.13034.0.v5423d1c9	named	com.daml	codegen-jvm-main	2024-10-30T06:52:33Z	1.4.14
 3.2.0-adhoc.20241030.13394.0.v3e6a4a6c	named	com.daml	codegen-jvm-main	2024-10-30T14:14:59Z	1.4.14
 0.12.0-328	named	org.jetbrains.kotlinx	kotlin-jupyter-kernel-shadowed	2024-10-30T18:35:13Z	1.5.3
+1.1.0	named	com.aerospike	avs-client-java	2024-10-30T22:49:28Z	1.5.8
 3.2.0-snapshot.20241030.13391.0.v4cb88332	named	com.daml	codegen-jvm-main	2024-10-31T06:41:22Z	1.4.14
 2.10.0-snapshot.20241030.13038.0.v4735759a	named	com.daml	codegen-jvm-main	2024-10-31T06:56:23Z	1.4.14
 2.9.6-snapshot.20241030.12898.0.v1e848e2c	named	com.daml	codegen-jvm-main	2024-10-31T08:15:04Z	1.4.14

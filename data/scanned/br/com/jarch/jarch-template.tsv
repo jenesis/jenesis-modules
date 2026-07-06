@@ -1,0 +1,5 @@
+25.10.0		2025-11-18T12:03:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch-template/25.10.0/jarch-template-25.10.0.jar returned status 404
+25.6.0		2025-11-18T11:09:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch-template/25.6.0/jarch-template-25.6.0.jar returned status 404
+25.7.0		2025-11-18T11:33:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch-template/25.7.0/jarch-template-25.7.0.jar returned status 404
+25.8.0		2025-11-18T11:45:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch-template/25.8.0/jarch-template-25.8.0.jar returned status 404
+25.9.0		2025-11-18T11:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/jarch/jarch-template/25.9.0/jarch-template-25.9.0.jar returned status 404

@@ -1,0 +1,5 @@
+3.6.0		2024-05-01T09:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-openid-versionCatalog/3.6.0/vclib-openid-versionCatalog-3.6.0.jar returned status 404
+3.6.1		2024-05-02T16:09:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-openid-versionCatalog/3.6.1/vclib-openid-versionCatalog-3.6.1.jar returned status 404
+3.7.0		2024-05-31T08:54:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-openid-versionCatalog/3.7.0/vclib-openid-versionCatalog-3.7.0.jar returned status 404
+3.8.0		2024-06-20T12:06:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-openid-versionCatalog/3.8.0/vclib-openid-versionCatalog-3.8.0.jar returned status 404
+4.0.0		2024-07-23T20:00:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vclib-openid-versionCatalog/4.0.0/vclib-openid-versionCatalog-4.0.0.jar returned status 404

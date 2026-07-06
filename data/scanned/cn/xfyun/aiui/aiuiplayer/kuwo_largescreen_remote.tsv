@@ -7,3 +7,5 @@
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/kuwo_largescreen_remote/4/kuwo_largescreen_remote-4.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/kuwo_largescreen_remote/6/kuwo_largescreen_remote-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/kuwo_largescreen_remote/7/kuwo_largescreen_remote-7.jar returned status 404
+8		2021-12-16T20:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/kuwo_largescreen_remote/8/kuwo_largescreen_remote-8.jar returned status 404
+9		2021-08-18T14:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/kuwo_largescreen_remote/9/kuwo_largescreen_remote-9.jar returned status 404
