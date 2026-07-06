@@ -1,0 +1,68 @@
+0.1.1		2023-06-07T00:27:25Z	
+0.1.1-alpha.1		2023-05-06T16:12:49Z	
+0.1.1-alpha.2		2023-05-14T15:25:59Z	
+0.1.1-alpha.3		2023-05-25T09:26:46Z	
+0.1.1-alpha.4		2023-05-25T14:06:21Z	
+0.1.1-alpha.5		2023-05-25T22:45:51Z	
+0.1.1-alpha.6		2023-05-26T01:15:28Z	
+0.1.1-alpha.8		2023-06-03T00:09:28Z	
+0.1.10		2023-08-16T21:48:43Z	
+0.1.11		2023-09-20T20:10:34Z	
+0.1.12		2023-10-06T10:04:47Z	
+0.1.13		2023-10-09T16:11:25Z	
+0.1.14		2023-11-01T11:51:04Z	
+0.1.15		2023-11-01T12:21:49Z	
+0.1.16		2023-12-13T22:50:47Z	
+0.1.17		2023-12-16T13:55:25Z	
+0.1.2		2023-06-07T11:49:45Z	
+0.1.3		2023-06-08T02:20:47Z	
+0.1.4		2023-06-08T16:49:28Z	
+0.1.5		2023-06-13T23:12:36Z	
+0.1.6		2023-07-01T01:10:26Z	
+0.1.7		2023-07-21T17:58:39Z	
+0.1.8		2023-08-04T12:01:32Z	
+0.1.9		2023-08-14T16:48:45Z	
+0.10.0		2025-10-25T19:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.10.0/hubdle-version-catalog-0.10.0.jar returned status 404
+0.11.0		2025-12-09T15:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.11.0/hubdle-version-catalog-0.11.0.jar returned status 404
+0.12.0		2025-12-16T21:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.12.0/hubdle-version-catalog-0.12.0.jar returned status 404
+0.2.0		2024-02-04T19:54:02Z	
+0.2.1		2024-02-09T21:55:17Z	
+0.2.2		2024-02-13T21:49:31Z	
+0.2.3		2024-02-13T23:24:15Z	
+0.2.4		2024-02-15T11:07:42Z	
+0.2.5		2024-03-26T16:28:46Z	
+0.2.6		2024-04-09T10:03:17Z	
+0.2.6+2.0.0-RC1		2024-04-09T11:32:14Z	
+0.2.7		2024-04-17T23:23:56Z	
+0.2.8		2024-04-18T09:57:31Z	
+0.3.0		2024-05-30T22:49:37Z	
+0.3.1		2024-07-25T17:19:56Z	
+0.3.10		2024-10-09T13:48:01Z	
+0.3.11		2024-10-09T21:35:11Z	
+0.3.12		2024-10-10T14:03:26Z	
+0.3.13		2024-10-12T14:50:00Z	
+0.3.2		2024-08-03T17:12:16Z	
+0.3.3		2024-08-15T12:38:27Z	
+0.3.4		2024-08-15T21:57:12Z	
+0.3.5		2024-08-17T00:41:57Z	
+0.3.6		2024-08-22T17:40:42Z	
+0.3.7		2024-08-29T19:23:52Z	
+0.3.8		2024-09-02T18:24:45Z	
+0.3.9		2024-09-26T18:20:22Z	
+0.4.0		2024-11-27T22:47:56Z	
+0.4.1		2024-11-28T22:09:43Z	
+0.4.2		2025-01-27T20:23:57Z	
+0.4.3		2025-02-10T23:22:19Z	
+0.4.4		2025-02-11T18:05:14Z	
+0.4.5		2025-02-19T21:41:58Z	
+0.4.6		2025-02-22T23:44:12Z	
+0.4.7		2025-02-23T17:33:21Z	
+0.5.0		2025-03-20T10:47:10Z	
+0.5.1		2025-06-14T18:14:43Z	
+0.5.2		2025-06-18T16:11:26Z	
+0.6.0		2025-07-05T07:12:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.6.0/hubdle-version-catalog-0.6.0.jar returned status 404
+0.6.1		2025-07-05T08:35:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.6.1/hubdle-version-catalog-0.6.1.jar returned status 404
+0.7.0		2025-08-13T22:38:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.7.0/hubdle-version-catalog-0.7.0.jar returned status 404
+0.7.1		2025-08-14T11:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.7.1/hubdle-version-catalog-0.7.1.jar returned status 404
+0.8.0		2025-10-04T11:49:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.8.0/hubdle-version-catalog-0.8.0.jar returned status 404
+0.9.0		2025-10-24T21:51:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/javiersc/hubdle/hubdle-version-catalog/0.9.0/hubdle-version-catalog-0.9.0.jar returned status 404
