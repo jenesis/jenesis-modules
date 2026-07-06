@@ -1,0 +1,9 @@
+5.8.10		2013-01-09T12:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.10/ietf-5.8.10.jar returned status 404
+5.8.2		2012-09-17T16:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.2/ietf-5.8.2.jar returned status 404
+5.8.3		2012-09-19T12:37:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.3/ietf-5.8.3.jar returned status 404
+5.8.4		2012-09-19T12:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.4/ietf-5.8.4.jar returned status 404
+5.8.5		2012-09-19T12:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.5/ietf-5.8.5.jar returned status 404
+5.8.6		2012-09-19T12:37:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.6/ietf-5.8.6.jar returned status 404
+5.8.7		2012-09-19T12:37:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.7/ietf-5.8.7.jar returned status 404
+5.8.8		2012-11-01T14:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.8/ietf-5.8.8.jar returned status 404
+5.8.9		2013-01-09T11:46:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ietf/5.8.9/ietf-5.8.9.jar returned status 404

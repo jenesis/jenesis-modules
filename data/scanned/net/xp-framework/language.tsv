@@ -1,0 +1,5 @@
+5.8.2		2012-07-24T09:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/language/5.8.2/language-5.8.2.jar returned status 404
+5.8.3		2012-07-24T11:22:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/language/5.8.3/language-5.8.3.jar returned status 404
+5.8.4		2012-07-24T11:51:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/language/5.8.4/language-5.8.4.jar returned status 404
+5.8.5		2012-07-24T12:08:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/language/5.8.5/language-5.8.5.jar returned status 404
+5.8.6		2012-07-24T14:19:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/language/5.8.6/language-5.8.6.jar returned status 404

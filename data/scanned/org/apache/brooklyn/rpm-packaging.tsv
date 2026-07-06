@@ -1,0 +1,2 @@
+0.10.0		2016-12-21T20:26:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/brooklyn/rpm-packaging/0.10.0/rpm-packaging-0.10.0.jar returned status 404
+0.11.0		2017-05-12T15:33:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/brooklyn/rpm-packaging/0.11.0/rpm-packaging-0.11.0.jar returned status 404

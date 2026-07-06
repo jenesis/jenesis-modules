@@ -20,6 +20,9 @@
 6.4.1.1	automatic	org.checkerframework.annotatedlib	bcel	2020-03-04T17:03:40Z	
 6.5.0	automatic	org.apache.bcel	bcel	2020-06-05T21:50:16Z	
 6.5.0	automatic	org.checkerframework.annotatedlib	bcel	2020-10-12T17:03:44Z	
+6.6.0	automatic	org.apache.bcel	bcel	2022-10-08T12:08:20Z	
+6.6.1	automatic	org.apache.bcel	bcel	2022-10-29T16:22:22Z	
+6.7.0	automatic	org.apache.bcel	bcel	2022-11-28T17:01:32Z	
 6.8.0	named	org.apache.bcel	bcel	2023-12-03T16:17:14Z	6.8.0
 6.8.1	named	org.apache.bcel	bcel	2024-01-07T20:05:31Z	6.8.1
 6.8.2	named	org.apache.bcel	bcel	2024-02-21T22:44:00Z	6.8.2

@@ -1,3 +1,5 @@
+2.10.0		2019-02-06T19:25:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/beam/beam-sdks-java-bom/2.10.0/beam-sdks-java-bom-2.10.0.jar returned status 404
+2.11.0		2019-02-26T09:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/beam/beam-sdks-java-bom/2.11.0/beam-sdks-java-bom-2.11.0.jar returned status 404
 2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/beam/beam-sdks-java-bom/2.25.0/beam-sdks-java-bom-2.25.0.jar returned status 404
 2.26.0		2020-12-08T00:34:34Z	
 2.27.0		2021-01-06T03:54:00Z	

@@ -1,0 +1,2 @@
+1.10.0		2017-02-22T10:09:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.10.0/repository-1.10.0.jar returned status 404
+1.8.0		2016-03-30T12:40:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.8.0/repository-1.8.0.jar returned status 404

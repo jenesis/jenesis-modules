@@ -1,0 +1,9 @@
+5.8.10		2013-01-09T12:53:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.10/fpdf-5.8.10.jar returned status 404
+5.8.2		2012-09-17T16:33:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.2/fpdf-5.8.2.jar returned status 404
+5.8.3		2012-09-19T12:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.3/fpdf-5.8.3.jar returned status 404
+5.8.4		2012-09-19T12:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.4/fpdf-5.8.4.jar returned status 404
+5.8.5		2012-09-19T12:35:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.5/fpdf-5.8.5.jar returned status 404
+5.8.6		2012-09-19T12:36:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.6/fpdf-5.8.6.jar returned status 404
+5.8.7		2012-09-19T12:36:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.7/fpdf-5.8.7.jar returned status 404
+5.8.8		2012-11-01T14:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.8/fpdf-5.8.8.jar returned status 404
+5.8.9		2013-01-09T11:44:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/fpdf/5.8.9/fpdf-5.8.9.jar returned status 404

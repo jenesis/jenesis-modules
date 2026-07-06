@@ -1,0 +1,9 @@
+5.8.10		2013-01-09T12:59:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.10/stomp-5.8.10.jar returned status 404
+5.8.2		2012-09-17T16:37:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.2/stomp-5.8.2.jar returned status 404
+5.8.3		2012-09-19T12:39:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.3/stomp-5.8.3.jar returned status 404
+5.8.4		2012-09-19T12:40:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.4/stomp-5.8.4.jar returned status 404
+5.8.5		2012-09-19T12:40:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.5/stomp-5.8.5.jar returned status 404
+5.8.6		2012-09-19T12:40:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.6/stomp-5.8.6.jar returned status 404
+5.8.7		2012-09-19T12:41:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.7/stomp-5.8.7.jar returned status 404
+5.8.8		2012-11-01T14:58:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.8/stomp-5.8.8.jar returned status 404
+5.8.9		2013-01-09T11:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/stomp/5.8.9/stomp-5.8.9.jar returned status 404

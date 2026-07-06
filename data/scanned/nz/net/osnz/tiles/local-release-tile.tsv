@@ -1,0 +1,2 @@
+2.1		2016-03-20T20:40:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nz/net/osnz/tiles/local-release-tile/2.1/local-release-tile-2.1.jar returned status 404
+2.2		2019-02-02T02:55:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nz/net/osnz/tiles/local-release-tile/2.2/local-release-tile-2.2.jar returned status 404

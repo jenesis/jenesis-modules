@@ -1,0 +1,2 @@
+1.3.0		2017-12-28T00:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/demon/shadowland/freedumbytes/maven/versioning/versions-rules/1.3.0/versions-rules-1.3.0.jar returned status 404
+1.3.1		2018-01-03T21:03:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/demon/shadowland/freedumbytes/maven/versioning/versions-rules/1.3.1/versions-rules-1.3.1.jar returned status 404

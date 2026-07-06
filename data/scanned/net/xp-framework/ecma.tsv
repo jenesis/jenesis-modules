@@ -1,0 +1,9 @@
+5.8.10		2013-01-09T12:52:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.10/ecma-5.8.10.jar returned status 404
+5.8.2		2012-09-17T16:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.2/ecma-5.8.2.jar returned status 404
+5.8.3		2012-09-19T12:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.3/ecma-5.8.3.jar returned status 404
+5.8.4		2012-09-19T12:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.4/ecma-5.8.4.jar returned status 404
+5.8.5		2012-09-19T12:35:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.5/ecma-5.8.5.jar returned status 404
+5.8.6		2012-09-19T12:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.6/ecma-5.8.6.jar returned status 404
+5.8.7		2012-09-19T12:35:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.7/ecma-5.8.7.jar returned status 404
+5.8.8		2012-11-01T14:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.8/ecma-5.8.8.jar returned status 404
+5.8.9		2013-01-09T11:43:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/ecma/5.8.9/ecma-5.8.9.jar returned status 404

@@ -1,8 +1,14 @@
+1.5.0		2008-10-31T14:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.5.0/camel-rest-1.5.0.jar returned status 404
 1.5.0	classes	2008-10-31T14:40:27Z	
+1.6.0		2009-02-17T10:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.6.0/camel-rest-1.6.0.jar returned status 404
 1.6.0	classes	2009-02-17T10:22:54Z	
+1.6.1		2009-05-14T12:53:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.6.1/camel-rest-1.6.1.jar returned status 404
 1.6.1	classes	2009-05-14T12:53:45Z	
+1.6.2		2009-11-18T04:50:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.6.2/camel-rest-1.6.2.jar returned status 404
 1.6.2	classes	2009-11-18T04:50:02Z	
+1.6.3		2010-05-31T16:26:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.6.3/camel-rest-1.6.3.jar returned status 404
 1.6.3	classes	2010-05-31T16:26:31Z	
+1.6.4		2010-12-12T21:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-rest/1.6.4/camel-rest-1.6.4.jar returned status 404
 1.6.4	classes	2010-12-12T21:55:30Z	
 3.0.0		2019-11-24T20:18:20Z	
 3.0.0-M1		2019-02-17T21:20:13Z	
