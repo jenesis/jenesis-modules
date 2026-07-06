@@ -1,0 +1,2 @@
+1.1.0		2020-10-06T19:47:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/mvc/tck/mvc-tck-sigtest/1.1.0/mvc-tck-sigtest-1.1.0.jar returned status 404
+2.0.0		2020-11-19T17:04:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/mvc/tck/mvc-tck-sigtest/2.0.0/mvc-tck-sigtest-2.0.0.jar returned status 404

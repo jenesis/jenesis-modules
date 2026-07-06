@@ -1,16 +1,30 @@
+3.0.13		2025-09-07T17:59:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.13/webapp-parent-test-3.0.13.jar returned status 404
 3.0.13	jar-with-dependencies	2025-09-07T17:59:27Z	
+3.0.14		2025-09-08T00:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.14/webapp-parent-test-3.0.14.jar returned status 404
 3.0.14	jar-with-dependencies	2025-09-08T00:22:01Z	
+3.0.15		2025-09-11T16:15:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.15/webapp-parent-test-3.0.15.jar returned status 404
 3.0.15	jar-with-dependencies	2025-09-11T16:15:44Z	
+3.0.16		2025-09-11T21:07:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.16/webapp-parent-test-3.0.16.jar returned status 404
 3.0.16	jar-with-dependencies	2025-09-11T21:07:06Z	
+3.0.17		2025-09-12T00:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.17/webapp-parent-test-3.0.17.jar returned status 404
 3.0.17	jar-with-dependencies	2025-09-12T00:55:16Z	
+3.0.18		2025-09-12T17:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.18/webapp-parent-test-3.0.18.jar returned status 404
 3.0.18	jar-with-dependencies	2025-09-12T17:54:47Z	
+3.0.19		2025-09-12T20:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.19/webapp-parent-test-3.0.19.jar returned status 404
 3.0.19	jar-with-dependencies	2025-09-12T20:26:18Z	
+3.0.20		2025-09-12T22:03:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.20/webapp-parent-test-3.0.20.jar returned status 404
 3.0.20	jar-with-dependencies	2025-09-12T22:03:47Z	
+3.0.21		2025-09-12T23:09:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.21/webapp-parent-test-3.0.21.jar returned status 404
 3.0.21	jar-with-dependencies	2025-09-12T23:09:01Z	
+3.0.22		2025-09-17T19:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.22/webapp-parent-test-3.0.22.jar returned status 404
 3.0.22	jar-with-dependencies	2025-09-17T19:59:18Z	
+3.0.23		2025-09-21T22:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.23/webapp-parent-test-3.0.23.jar returned status 404
 3.0.23	jar-with-dependencies	2025-09-21T22:20:17Z	
+3.0.24		2025-09-24T01:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.24/webapp-parent-test-3.0.24.jar returned status 404
 3.0.24	jar-with-dependencies	2025-09-24T01:39:13Z	
+3.0.26		2025-10-05T00:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.26/webapp-parent-test-3.0.26.jar returned status 404
 3.0.26	jar-with-dependencies	2025-10-05T00:17:36Z	
+3.0.27		2025-10-05T10:58:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.27/webapp-parent-test-3.0.27.jar returned status 404
 3.0.27	jar-with-dependencies	2025-10-05T10:58:30Z	
 3.0.28	jar-with-dependencies	2025-12-18T00:56:09Z	
 3.0.29	jar-with-dependencies	2025-12-18T15:55:24Z	

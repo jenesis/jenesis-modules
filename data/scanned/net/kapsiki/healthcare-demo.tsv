@@ -1,0 +1,2 @@
+1.0.0		2025-03-03T14:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kapsiki/healthcare-demo/1.0.0/healthcare-demo-1.0.0.jar returned status 404
+1.1.0		2025-03-03T13:08:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kapsiki/healthcare-demo/1.1.0/healthcare-demo-1.1.0.jar returned status 404

@@ -4,15 +4,23 @@
 1.0.0-RC1	classes	2025-02-02T12:25:10Z	
 1.1.0	classes	2025-05-03T18:39:41Z	
 1.1.0-RC1	classes	2025-04-13T12:32:28Z	
+1.1.1		2025-08-15T06:02:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.1.1/oxalis-ng-war-1.1.1.jar returned status 404
 1.1.1	classes	2025-08-15T06:02:07Z	
+1.2.0		2025-11-15T09:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0/oxalis-ng-war-1.2.0.jar returned status 404
 1.2.0	classes	2025-11-15T09:07:02Z	
 1.2.0-RC1	classes	2025-06-03T15:05:44Z	
 1.2.0-RC2	classes	2025-06-09T18:00:33Z	
+1.2.0-RC3		2025-08-24T08:30:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC3/oxalis-ng-war-1.2.0-RC3.jar returned status 404
 1.2.0-RC3	classes	2025-08-24T08:30:34Z	
+1.2.0-RC4		2025-08-30T16:57:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC4/oxalis-ng-war-1.2.0-RC4.jar returned status 404
 1.2.0-RC4	classes	2025-08-30T16:57:48Z	
+1.2.0-RC5		2025-09-12T18:59:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC5/oxalis-ng-war-1.2.0-RC5.jar returned status 404
 1.2.0-RC5	classes	2025-09-12T18:59:45Z	
+1.2.0-RC6		2025-09-13T14:54:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC6/oxalis-ng-war-1.2.0-RC6.jar returned status 404
 1.2.0-RC6	classes	2025-09-13T14:54:28Z	
+1.2.0-RC7		2025-09-28T10:02:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC7/oxalis-ng-war-1.2.0-RC7.jar returned status 404
 1.2.0-RC7	classes	2025-09-28T10:02:35Z	
+1.2.0-RC8		2025-11-09T08:49:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/oxalis/oxalis-ng-war/1.2.0-RC8/oxalis-ng-war-1.2.0-RC8.jar returned status 404
 1.2.0-RC8	classes	2025-11-09T08:49:20Z	
 1.2.1	classes	2026-02-01T19:37:03Z	
 1.2.2	classes	2026-02-16T21:25:40Z	

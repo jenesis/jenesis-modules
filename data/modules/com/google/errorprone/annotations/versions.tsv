@@ -71,6 +71,7 @@
 2.2.0	named	io.github.davidwhitlock.joy.original	student	2024-06-17T01:29:43Z	2.26.1
 2.1.1	named	io.github.davidwhitlock.joy.original	airline	2024-06-17T01:29:58Z	2.26.1
 1.16.1	named	org.opendaylight.jsonrpc	test-tool	2024-06-17T01:46:48Z	2.27.1
+2.0.0	named	net.stoerr.ai.aigenpipeline	aigenpipeline-commandline	2024-06-29T15:17:11Z	2.27.0
 1.2024.6	named	net.sourceforge.plantuml	plantuml	2024-07-06T09:40:50Z	2.26.1
 1.2024.6	named	net.sourceforge.plantuml	plantuml-epl	2024-07-06T09:48:06Z	2.26.1
 2.0.29	named	com.google.appengine	runtime-impl-jetty9	2024-07-09T09:30:51Z	2.28.0
@@ -93,6 +94,7 @@
 0.2.0	named	com.google.cloud.spark.bigtable	spark-bigtable_2.12	2024-07-29T16:16:12Z	2.26.1
 1.16	named	no.entur	interface-protoc-plugin	2024-07-31T09:29:25Z	2.26.1
 1.0.4	named	fr.lirmm.graphik	brunner-owlAPI	2024-07-31T14:09:45Z	2.26.1
+2.0.1	named	net.stoerr.ai.aigenpipeline	aigenpipeline-commandline	2024-07-31T16:59:10Z	2.27.0
 0.20.0	named	org.opendaylight.aaa	aaa-cli-jar	2024-08-01T22:51:36Z	2.28.0
 3.4.1	named	io.zipkin.zipkin2	zipkin	2024-08-04T05:52:32Z	2.27.0
 2.30.0	named	com.google.errorprone	error_prone_annotations	2024-08-10T18:38:17Z	2.30.0
@@ -131,6 +133,7 @@
 4.0.0-preview2	named	org.apache.spark	spark-connect_2.13	2024-09-16T07:08:10Z	2.26.1
 2.0.30	named	com.google.appengine	runtime-impl-jetty9	2024-09-18T00:27:04Z	2.32.0
 2.0.30	named	com.google.appengine	runtime-impl-jetty12	2024-09-18T00:27:30Z	2.32.0
+2.1.0	named	net.stoerr.ai.aigenpipeline	aigenpipeline-commandline	2024-09-20T20:43:36Z	2.27.0
 2024.38.1	named	com.amazonaws	athena-cloudwatch-metrics	2024-09-26T14:36:57Z	2.28.0
 2024.38.1	named	com.amazonaws	athena-jdbc	2024-09-26T14:37:01Z	2.28.0
 2024.38.1	named	com.amazonaws	athena-cloudwatch	2024-09-26T14:37:02Z	2.28.0
@@ -218,6 +221,7 @@
 3.48.4	named	org.checkerframework	dataflow-shaded	2025-01-02T17:58:17Z	2.36.0
 3.48.4	named	org.checkerframework	dataflow-errorprone	2025-01-02T17:58:22Z	2.36.0
 3.48.4	named	org.checkerframework	dataflow-nullaway	2025-01-02T17:58:28Z	2.36.0
+2.1.1	named	net.stoerr.ai.aigenpipeline	aigenpipeline-commandline	2025-01-05T13:08:22Z	2.27.0
 1.12.2	named	au.com.integradev.samples	delphi-custom-rules-example	2025-01-05T23:49:20Z	2.32.0
 3.4.4	named	io.zipkin.zipkin2	zipkin	2025-01-06T22:52:24Z	2.27.0
 1.1.0	named	com.scalekit	scalekit-sdk-java	2025-01-08T09:53:16Z	2.28.0

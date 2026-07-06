@@ -1,0 +1,5 @@
+2025.10.00		2025-10-24T09:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/version-catalog/2025.10.00/version-catalog-2025.10.00.jar returned status 404
+2025.11.00		2025-11-21T10:05:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/version-catalog/2025.11.00/version-catalog-2025.11.00.jar returned status 404
+2025.11.01		2025-11-21T12:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/version-catalog/2025.11.01/version-catalog-2025.11.01.jar returned status 404
+2025.11.02		2025-12-01T09:57:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/version-catalog/2025.11.02/version-catalog-2025.11.02.jar returned status 404
+2025.12.00		2025-12-09T22:39:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/version-catalog/2025.12.00/version-catalog-2025.12.00.jar returned status 404

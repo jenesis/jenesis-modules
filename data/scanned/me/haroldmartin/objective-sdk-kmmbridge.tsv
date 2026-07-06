@@ -1,0 +1,5 @@
+0.1.7		2024-08-28T00:57:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/haroldmartin/objective-sdk-kmmbridge/0.1.7/objective-sdk-kmmbridge-0.1.7.jar returned status 404
+0.3.0		2024-08-28T18:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/haroldmartin/objective-sdk-kmmbridge/0.3.0/objective-sdk-kmmbridge-0.3.0.jar returned status 404
+0.3.1		2024-09-05T18:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/haroldmartin/objective-sdk-kmmbridge/0.3.1/objective-sdk-kmmbridge-0.3.1.jar returned status 404
+0.3.2		2024-09-07T18:53:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/haroldmartin/objective-sdk-kmmbridge/0.3.2/objective-sdk-kmmbridge-0.3.2.jar returned status 404
+unspecified		2024-08-21T22:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/haroldmartin/objective-sdk-kmmbridge/unspecified/objective-sdk-kmmbridge-unspecified.jar returned status 404
