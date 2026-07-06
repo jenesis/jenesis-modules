@@ -497,6 +497,26 @@ Properties:
 
 A coordinate whose module name does not align with its owning groupId (a shaded republisher owning the name via `owners.tsv`, say) still lands in the audit log, but the resolved owner - and therefore the `ModuleMaven` mapping - is governed by the usual `owners.tsv` policy; loading the genuine coordinate does not by itself override an existing allowlist. Adjust the policy with `SetOwners` if the load is meant to change ownership.
 
+### `build.jenesis.crawler.index.IndexProbe`
+
+Forensic tool for index-side gaps: streams a `nexus-maven-repository-index.gz` with the
+production `IndexReader`, prints every record whose uinfo (or `del` entry) contains one of the
+supplied needles, and emits a histogram of the extensions carried by classifier-less (main)
+records. That histogram is how a new sidecar-masking extension announces itself - the
+2026-07 sweep that caught `spdx.json` (11,965 masked main records, commons-fileupload2 among
+them) also measured 5.8M `pom.sha512` masks and the `pom.sigstore.json.sha512` generation
+brewing behind it. When the histogram grows a new masking family, extend
+`Coordinate.MISCATEGORISED_JAR_*` accordingly.
+
+```
+java sources/build/jenesis/crawler/index/IndexProbe.java \
+     https://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.gz \
+     commons-fileupload2 'net.bytebuddy|byte-buddy|1.18.0'
+```
+
+Read-only and stateless: touches neither `data/` nor `state.properties`. Streaming the full
+index downloads ~3 GB.
+
 ### `build.jenesis.crawler.ModuleSummary`
 
 Walks `data/modules/` (`versions.tsv` + `artifacts.tsv`) and `data/scanned/` (for failure stats) and writes a human-readable markdown summary atomically to `data/SUMMARY.md`. Regenerated on every invocation; the previous file is overwritten.

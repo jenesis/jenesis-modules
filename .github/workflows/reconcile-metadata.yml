@@ -3,10 +3,15 @@ name: Reconcile missing versions from maven-metadata.xml
 # Walks data/scanned/, downloads maven-metadata.xml for each artifact, diffs against the
 # locally scanned main-jar versions, and re-scans whichever versions are missing through the
 # regular scanner pipeline. Recovers versions whose main-jar record is absent from the Nexus
-# index (e.g. the byte-buddy gap). Manual only - schedule a moment when no crawl is running,
-# both write the same versions.tsv files.
+# index (e.g. the byte-buddy gap) or masked by a sidecar record (the commons-fileupload2
+# spdx.json gap). Runs weekly as a safety net and on demand; a collision with a scheduled
+# crawl is tolerated - both write the same versions.tsv files and GitPublisher's rebase-retry
+# reconciles concurrent pushes.
 
 on:
+  schedule:
+    # Weekly, offset from crawl.yml's '7 */12 * * *' start times.
+    - cron: '41 4 * * 1'
   workflow_dispatch:
     inputs:
       budget_minutes:

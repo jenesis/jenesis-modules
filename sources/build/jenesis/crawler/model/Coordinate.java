@@ -15,29 +15,45 @@ public record Coordinate(String groupId,
     private static final String INFO_FIELD = "i";
 
     /**
-     * Extensions that the Nexus indexer occasionally writes for what should be a main JAR
-     * record (i.e. {@code classifier == null}). The Maven Indexer is documented not to index
-     * checksum, signature, or Gradle-module files, so a no-classifier record with one of these
-     * extensions is necessarily a mis-categorised JAR - the underlying bug behind the byte-buddy
-     * gap that motivated {@code ReconcileMetadata}. {@code Coordinate.from(...)} rewrites the
-     * extension back to {@code jar} so downstream code (Crawler.isInteresting, Scanner, the
-     * scanned-store filter) treats it like any other main-JAR coordinate. Side artifacts keep
-     * their classifier and are unaffected. References: OSSRH-60950 and the windup
-     * nexus-repository-indexer project, which performs the same rewrite on a downloaded index.
+     * Extensions that the Nexus indexer writes for what should be a main JAR record
+     * (i.e. {@code classifier == null}). Classifier-less records share a single uinfo key per
+     * GAV, so whichever classifier-less sidecar file the indexer processes last overwrites the
+     * main record's extension - the underlying bug behind the byte-buddy gap that motivated
+     * {@code ReconcileMetadata} (OSSRH-60950; the windup nexus-repository-indexer performs the
+     * same rewrite on a downloaded index). {@code Coordinate.from(...)} rewrites the extension
+     * back to {@code jar} so downstream code (Crawler.isInteresting, Scanner, the scanned-store
+     * filter) treats it like any other main-JAR coordinate. Side artifacts keep their
+     * classifier and are unaffected.
      *
-     * <p>The trade-off: for pom-only artifacts (BOMs, parent POMs), the {@code pom.sha*} and
-     * {@code pom.asc.sha*} variants are legitimate sidecar records and the rewrite makes the
-     * scanner fetch a non-existent {@code .jar}. Those 404s land as permanent failures in
-     * {@code scanned.tsv} and inflate "Top error messages" in the summary, but the cost is
-     * one-time per coordinate (the scanned-store filter dedupes thereafter) and the upside is
-     * that no mis-stamped main JAR is silently dropped. Completeness wins.
+     * <p>The masking sidecars keep evolving, so a closed list loses: a 2026-07 sweep of the
+     * full index found 5.8M main records stamped {@code pom.sha512}, 11,965 stamped
+     * {@code spdx.json} (Central's SBOM sidecars - how commons-fileupload2 went missing),
+     * plus {@code *.asc}, {@code *.md5} and {@code pom.sigstore.json.sha512} variants. Hence
+     * the split: an explicit set for whole-extension maskers, and a suffix rule for the
+     * open-ended checksum/signature family.
+     *
+     * <p>The trade-off is unchanged: for artifacts whose real packaging is not a JAR (parent
+     * POMs, zips, wars), a masked record is rewritten anyway and the scanner fetches a
+     * non-existent {@code .jar}. Those 404s land as permanent failures in {@code scanned.tsv}
+     * and inflate "Top error messages" in the summary, but the cost is one-time per coordinate
+     * (the scanned-store filter dedupes thereafter) and the upside is that no mis-stamped main
+     * JAR is silently dropped. Completeness wins.
      */
     private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of(
             "module",
-            "pom.sha256",
-            "pom.sha512",
-            "pom.asc.sha256",
-            "pom.asc.sha512");
+            "spdx.json",
+            "sha256",
+            "sha512",
+            "sha1",
+            "md5",
+            "asc");
+
+    private static final List<String> MISCATEGORISED_JAR_SUFFIXES = List.of(
+            ".sha256",
+            ".sha512",
+            ".sha1",
+            ".md5",
+            ".asc");
 
     public Coordinate {
         Objects.requireNonNull(groupId, "groupId");
@@ -109,10 +125,22 @@ public record Coordinate(String groupId,
         String extension = extensionFromUinfo != null
                 ? extensionFromUinfo
                 : extensionFromInfo != null ? extensionFromInfo : packaging != null ? packaging : "jar";
-        if (classifier == null && MISCATEGORISED_JAR_EXTENSIONS.contains(extension)) {
+        if (classifier == null && miscategorised(extension)) {
             extension = "jar";
         }
 
         return Optional.of(new Coordinate(groupId, artifactId, version, classifier, extension, size, lastModified));
+    }
+
+    private static boolean miscategorised(String extension) {
+        if (MISCATEGORISED_JAR_EXTENSIONS.contains(extension)) {
+            return true;
+        }
+        for (String suffix : MISCATEGORISED_JAR_SUFFIXES) {
+            if (extension.endsWith(suffix)) {
+                return true;
+            }
+        }
+        return false;
     }
 }

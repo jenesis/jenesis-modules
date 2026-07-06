@@ -103,14 +103,17 @@ public class IndexReaderTest {
     @Test
     public void coordinate_extraction_rewrites_miscategorised_no_classifier_extensions_to_jar() {
         // Nexus indexer bug: main-jar records sometimes get stamped with the extension of a
-        // sidecar file (Gradle .module, POM checksums, GPG-signature checksums). Rewriting
-        // to "jar" is what the windup nexus-repository-indexer fix does on the published
-        // index; we do the same at parse time so the rest of the pipeline stays vanilla.
-        // For pom-only artifacts the pom.* records are legitimate and the resulting fetch
-        // 404s, but that's a one-time scanned.tsv entry per coordinate and we prefer that
-        // cost over silently missing a mis-stamped main JAR.
+        // sidecar file (Gradle .module, POM checksums, GPG-signature checksums, SPDX SBOMs,
+        // sigstore bundles). Rewriting to "jar" is what the windup nexus-repository-indexer
+        // fix does on the published index; we do the same at parse time so the rest of the
+        // pipeline stays vanilla. For artifacts whose real packaging is not a jar the
+        // rewritten fetch 404s, but that's a one-time scanned.tsv entry per coordinate and we
+        // prefer that cost over silently missing a mis-stamped main JAR (the 2026-07
+        // commons-fileupload2 gap: every version's main record was stamped spdx.json).
         for (String miscategorised : new String[]{
-                "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512"}) {
+                "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512",
+                "spdx.json", "jar.asc", "zip.sha512", "tar.gz.sha512", "toml.sha512",
+                "pom.md5.asc.sha512", "pom.sigstore.json.sha512", "sha512", "md5"}) {
             Map<String, String> record = Map.of(
                     "u", "net.bytebuddy|byte-buddy|1.10.0|NA|" + miscategorised,
                     "i", miscategorised + "|0|0|0|0|0|" + miscategorised
