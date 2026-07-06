@@ -74,6 +74,7 @@
 8.0.32		2025-06-04T15:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.32/helloworld-servlet3-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.33/helloworld-servlet3-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.34/helloworld-servlet3-8.0.34.jar returned status 404
+8.0.35		2026-02-27T12:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.35/helloworld-servlet3-8.0.35.jar returned status 404
 8.0.4		2024-12-03T19:56:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.4/helloworld-servlet3-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:56:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.5/helloworld-servlet3-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/helloworld-servlet3/8.0.6/helloworld-servlet3-8.0.6.jar returned status 404

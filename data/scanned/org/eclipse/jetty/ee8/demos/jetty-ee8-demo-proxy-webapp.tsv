@@ -45,6 +45,7 @@
 12.0.31	config	2025-12-03T21:48:34Z	
 12.0.32		2026-01-27T19:16:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-proxy-webapp/12.0.32/jetty-ee8-demo-proxy-webapp-12.0.32.jar returned status 404
 12.0.32	config	2026-01-27T19:16:51Z	
+12.0.33		2026-03-04T02:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-proxy-webapp/12.0.33/jetty-ee8-demo-proxy-webapp-12.0.33.jar returned status 404
 12.0.33	config	2026-03-04T02:31:18Z	
 12.0.34	config	2026-04-01T05:54:44Z	
 12.0.35	config	2026-05-01T05:52:32Z	
@@ -81,6 +82,7 @@
 12.1.5	config	2025-12-03T22:32:34Z	
 12.1.6		2026-01-27T19:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-proxy-webapp/12.1.6/jetty-ee8-demo-proxy-webapp-12.1.6.jar returned status 404
 12.1.6	config	2026-01-27T19:01:39Z	
+12.1.7		2026-03-04T00:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-proxy-webapp/12.1.7/jetty-ee8-demo-proxy-webapp-12.1.7.jar returned status 404
 12.1.7	config	2026-03-04T00:49:09Z	
 12.1.8	config	2026-04-01T01:22:15Z	
 12.1.9	config	2026-05-01T03:47:15Z	

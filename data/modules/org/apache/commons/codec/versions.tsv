@@ -1675,6 +1675,7 @@ master	named	com.ibm.cloud	is-examples	2025-12-08T04:25:26Z	1.18.0
 2026.3.1	named	com.amazonaws	athena-jdbc	2026-01-22T19:28:09Z	1.17.1
 2.41.13	named	software.amazon.awssdk	bundle-sdk	2026-01-22T22:38:36Z	1.17.1
 2.41.13	named	software.amazon.awssdk	bundle	2026-01-22T22:38:53Z	1.17.1
+1.21.0	named	commons-codec	commons-codec	2026-01-23T14:17:59Z	1.21.0
 2.41.14	named	software.amazon.awssdk	bundle	2026-01-23T22:44:01Z	1.17.1
 2.41.14	named	software.amazon.awssdk	bundle-sdk	2026-01-23T22:44:03Z	1.17.1
 2.41.15	named	software.amazon.awssdk	bundle-sdk	2026-01-26T22:56:56Z	1.17.1

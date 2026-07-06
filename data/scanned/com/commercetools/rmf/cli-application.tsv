@@ -118,13 +118,19 @@
 0.1.64	all	2025-06-03T07:53:01Z	
 0.1.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.65/cli-application-0.1.65.jar returned status 404
 0.1.65	all	2025-07-02T15:51:57Z	
+0.1.66		2026-02-20T08:33:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.66/cli-application-0.1.66.jar returned status 404
 0.1.66	all	2026-02-20T08:33:05Z	
+0.1.67		2026-02-23T13:20:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.67/cli-application-0.1.67.jar returned status 404
 0.1.67	all	2026-02-23T13:20:18Z	
+0.1.68		2026-02-23T14:37:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.68/cli-application-0.1.68.jar returned status 404
 0.1.68	all	2026-02-23T14:37:07Z	
+0.1.69		2026-02-23T16:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.69/cli-application-0.1.69.jar returned status 404
 0.1.69	all	2026-02-23T16:55:14Z	
 0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.7/cli-application-0.1.7.jar returned status 404
 0.1.7	all	2021-03-19T08:07:58Z	
+0.1.71		2026-02-24T13:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.71/cli-application-0.1.71.jar returned status 404
 0.1.71	all	2026-02-24T13:18:30Z	
+0.1.72		2026-02-26T13:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.72/cli-application-0.1.72.jar returned status 404
 0.1.72	all	2026-02-26T13:49:38Z	
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/0.1.8/cli-application-0.1.8.jar returned status 404
 0.1.8	all	2021-07-14T08:39:59Z	
@@ -790,7 +796,9 @@
 1.0.0-20250929090531	all	2025-09-29T09:14:11Z	
 1.0.0-20251219114602		2025-12-19T11:57:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/1.0.0-20251219114602/cli-application-1.0.0-20251219114602.jar returned status 404
 1.0.0-20251219114602	all	2025-12-19T11:57:13Z	
+1.0.0-20260224113723		2026-02-24T11:45:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/1.0.0-20260224113723/cli-application-1.0.0-20260224113723.jar returned status 404
 1.0.0-20260224113723	all	2026-02-24T11:45:52Z	
+1.0.0-20260226134024		2026-02-26T13:49:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/commercetools/rmf/cli-application/1.0.0-20260226134024/cli-application-1.0.0-20260226134024.jar returned status 404
 1.0.0-20260226134024	all	2026-02-26T13:49:46Z	
 1.0.0-20260319131529	all	2026-03-19T13:26:12Z	
 1.0.0-20260608115025	all	2026-06-08T12:00:35Z	

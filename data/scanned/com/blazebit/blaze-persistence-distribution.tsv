@@ -10,3 +10,4 @@
 1.4.0-Alpha1	module	2019-05-29T19:53:47Z	
 1.6.16		2025-07-10T21:10:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-distribution/1.6.16/blaze-persistence-distribution-1.6.16.jar returned status 404
 1.6.17		2025-09-03T11:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-distribution/1.6.17/blaze-persistence-distribution-1.6.17.jar returned status 404
+1.6.18		2026-02-01T21:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blazebit/blaze-persistence-distribution/1.6.18/blaze-persistence-distribution-1.6.18.jar returned status 404

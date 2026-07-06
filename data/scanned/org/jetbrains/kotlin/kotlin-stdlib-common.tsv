@@ -187,3 +187,5 @@
 2.3.20-Beta1		2026-01-08T08:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20-Beta1/kotlin-stdlib-common-2.3.20-Beta1.jar returned status 404
 2.3.20-Beta2		2026-01-29T08:43:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20-Beta2/kotlin-stdlib-common-2.3.20-Beta2.jar returned status 404
 2.3.20-RC		2026-02-19T08:57:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20-RC/kotlin-stdlib-common-2.3.20-RC.jar returned status 404
+2.3.20-RC2		2026-03-03T08:24:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20-RC2/kotlin-stdlib-common-2.3.20-RC2.jar returned status 404
+2.3.20-RC3		2026-03-10T09:45:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20-RC3/kotlin-stdlib-common-2.3.20-RC3.jar returned status 404

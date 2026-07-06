@@ -5,3 +5,6 @@
 3.0.2		2025-11-13T19:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/3.0.2/sampleapp-manual-module-3.0.2.jar returned status 404
 3.0.3		2025-12-11T09:49:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/3.0.3/sampleapp-manual-module-3.0.3.jar returned status 404
 4.0.0		2025-12-30T16:55:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/4.0.0/sampleapp-manual-module-4.0.0.jar returned status 404
+4.0.1		2026-02-05T23:27:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/4.0.1/sampleapp-manual-module-4.0.1.jar returned status 404
+4.0.2		2026-02-13T16:44:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/4.0.2/sampleapp-manual-module-4.0.2.jar returned status 404
+5.0.0		2026-02-28T00:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-manual-module/5.0.0/sampleapp-manual-module-5.0.0.jar returned status 404

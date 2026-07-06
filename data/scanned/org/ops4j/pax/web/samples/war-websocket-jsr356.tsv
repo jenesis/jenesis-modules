@@ -30,6 +30,7 @@
 8.0.32		2025-06-04T15:53:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.32/war-websocket-jsr356-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.33/war-websocket-jsr356-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.34/war-websocket-jsr356-8.0.34.jar returned status 404
+8.0.35		2026-02-27T12:04:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.35/war-websocket-jsr356-8.0.35.jar returned status 404
 8.0.4		2024-12-03T19:31:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.4/war-websocket-jsr356-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.5/war-websocket-jsr356-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:31:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-websocket-jsr356/8.0.6/war-websocket-jsr356-8.0.6.jar returned status 404

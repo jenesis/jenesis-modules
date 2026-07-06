@@ -28,6 +28,7 @@
 2.0.1	jar-with-dependencies	2026-01-19T12:27:52Z	
 2.0.2		2026-02-18T16:57:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-engine-rest/2.0.2/orqueio-engine-rest-2.0.2.jar returned status 404
 2.0.2	jar-with-dependencies	2026-02-18T16:57:55Z	
+2.0.3		2026-03-02T10:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-engine-rest/2.0.3/orqueio-engine-rest-2.0.3.jar returned status 404
 2.0.3	jar-with-dependencies	2026-03-02T10:19:44Z	
 2.0.4	jar-with-dependencies	2026-06-03T12:47:04Z	
 2.0.5	jar-with-dependencies	2026-06-18T16:45:08Z	

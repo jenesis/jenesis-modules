@@ -14,6 +14,7 @@
 2.19.2.0		2025-04-30T01:02:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.19.2.0/neural-search-2.19.2.0.jar returned status 404
 2.19.3.0		2025-07-22T21:38:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.19.3.0/neural-search-2.19.3.0.jar returned status 404
 2.19.4.0		2025-11-06T20:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.19.4.0/neural-search-2.19.4.0.jar returned status 404
+2.19.5.0		2026-03-10T23:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.19.5.0/neural-search-2.19.5.0.jar returned status 404
 2.4.0.0		2022-11-15T22:33:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.4.0.0/neural-search-2.4.0.0.jar returned status 404
 2.4.1.0		2022-12-14T00:16:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.4.1.0/neural-search-2.4.1.0.jar returned status 404
 2.5.0.0		2023-01-24T20:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/neural-search/2.5.0.0/neural-search-2.5.0.0.jar returned status 404

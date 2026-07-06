@@ -1,0 +1,2 @@
+4.0.3		2026-03-03T20:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-windows/4.0.3/moderne-cli-windows-4.0.3.jar returned status 404
+4.0.4		2026-03-05T21:42:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-windows/4.0.4/moderne-cli-windows-4.0.4.jar returned status 404

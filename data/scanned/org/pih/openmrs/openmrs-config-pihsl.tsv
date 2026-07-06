@@ -20,4 +20,5 @@
 1.50.0		2026-01-14T21:44:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihsl/1.50.0/openmrs-config-pihsl-1.50.0.jar returned status 404
 1.51.0		2026-01-20T23:39:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihsl/1.51.0/openmrs-config-pihsl-1.51.0.jar returned status 404
 1.52.0		2026-01-21T20:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihsl/1.52.0/openmrs-config-pihsl-1.52.0.jar returned status 404
+1.53.0		2026-03-09T16:50:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihsl/1.53.0/openmrs-config-pihsl-1.53.0.jar returned status 404
 1.6.0		2021-06-14T14:08:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihsl/1.6.0/openmrs-config-pihsl-1.6.0.jar returned status 404

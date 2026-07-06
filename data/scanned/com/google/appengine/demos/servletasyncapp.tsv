@@ -3,3 +3,6 @@
 3.0.2		2025-11-13T19:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/3.0.2/servletasyncapp-3.0.2.jar returned status 404
 3.0.3		2025-12-11T09:49:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/3.0.3/servletasyncapp-3.0.3.jar returned status 404
 4.0.0		2025-12-30T16:55:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/4.0.0/servletasyncapp-4.0.0.jar returned status 404
+4.0.1		2026-02-05T23:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/4.0.1/servletasyncapp-4.0.1.jar returned status 404
+4.0.2		2026-02-13T16:44:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/4.0.2/servletasyncapp-4.0.2.jar returned status 404
+5.0.0		2026-02-28T00:35:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/servletasyncapp/5.0.0/servletasyncapp-5.0.0.jar returned status 404

@@ -4553,6 +4553,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 10.46.0.84435	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-03-02T08:43:11Z	2.10
 4.14.0.78151	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-03-02T10:11:26Z	2.13.2
 4.0.16	named	io.jooby	jooby-graphql	2026-03-02T17:03:52Z	2.13.2
+2.3.20-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-03-03T08:24:27Z	2.11.0
 1.4.0.6rc2	named	io.acryl	datahub-protobuf	2026-03-03T09:43:55Z	2.12.0
 8.25.0.42802	named	org.sonarsource.java	java-custom-rules-example	2026-03-03T09:44:13Z	2.13.1
 1.0.24-beta.1	named	io.github.lambdatest	lambdatest-java-sdk	2026-03-03T14:20:05Z	2.10.1
@@ -4564,6 +4565,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.3.1.7p1	named	io.acryl	datahub-protobuf	2026-03-09T20:34:37Z	2.12.0
 1.3.1.7.post2	named	io.acryl	datahub-protobuf	2026-03-09T20:36:27Z	2.12.0
 4.2.0-preview3	named	org.apache.spark	spark-connect_2.13	2026-03-10T04:10:25Z	2.13.2
+2.3.20-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-03-10T09:45:38Z	2.11.0
 3.11.7	named	io.jooby	jooby-graphql	2026-03-10T17:07:46Z	2.13.2
 4.0.17	named	io.jooby	jooby-graphql	2026-03-10T18:28:00Z	2.13.2
 1.3.1.7.post3	named	io.acryl	datahub-protobuf	2026-03-10T20:37:48Z	2.12.0

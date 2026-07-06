@@ -2785,6 +2785,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.8.4	named	org.apache.storm	storm-jdbc-examples	2026-02-28T18:18:14Z	2.0.17
 2.8.4	named	org.apache.storm	storm-hdfs-examples	2026-02-28T18:18:32Z	2.0.17
 2.8.4	named	org.apache.storm	storm-perf	2026-02-28T18:19:19Z	2.0.17
+0.18.0-865	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-01T03:55:31Z	2.0.17
+0.18.0-866	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-02T01:35:44Z	2.0.17
 0.19.0	named	org.pragmatica-lite.aether	aether-setup	2026-03-02T06:11:26Z	2.0.17
 5.86.13	named	com.applitools	eyes-sdk-core-java5	2026-03-02T06:55:08Z	2.0.16
 2.52.0	named	org.apache.artemis	artemis-core-client-all	2026-03-02T15:58:50Z	2.0.17
@@ -2796,10 +2798,18 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 12.0.33	named	org.eclipse.jetty.ee8	jetty-ee8-runner	2026-03-04T02:31:21Z	2.0.17
 0.3.0	named	io.github.linagora.linid.im	dlvp	2026-03-04T13:41:19Z	2.0.17
 0.9.0	named	io.testomat	java-reporter-core	2026-03-04T18:46:39Z	2.0.9
+0.19.0-870-1	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-04T19:09:44Z	2.0.17
+0.18.0-871	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-04T23:15:50Z	2.0.17
 0.19.1	named	org.pragmatica-lite.aether	aether-setup	2026-03-05T00:12:08Z	2.0.17
+0.18.0-872	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-05T01:40:47Z	2.0.17
+0.18.0-873	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-05T06:22:16Z	2.0.17
 0.0.15	named	io.github.liquid-java	liquidjava-verifier	2026-03-05T13:58:46Z	2.0.7
 4.1.0-999	named	com.github.cafapi.common	util-tools	2026-03-05T15:27:57Z	2.0.9
+0.18.0-877	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-05T20:22:59Z	2.0.17
+0.19.0-879-1	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-06T10:36:47Z	2.0.17
+0.19.0-880-1	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-06T12:21:31Z	2.0.17
 3.9.01	named	org.metricshub	metricshub-winrm-extension	2026-03-06T15:43:32Z	2.0.17
+0.18.0-881	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-07T01:47:09Z	2.0.17
 0.19.2	named	org.pragmatica-lite.aether	aether-setup	2026-03-08T10:00:55Z	2.0.17
 5.86.15	named	com.applitools	eyes-sdk-core-java5	2026-03-08T10:02:37Z	2.0.16
 5.86.16	named	com.applitools	eyes-sdk-core-java5	2026-03-08T13:53:54Z	2.0.16
@@ -2816,6 +2826,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.1.1-rc2	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-03-11T07:31:09Z	2.0.17
 0.1.1-rc3	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-03-11T07:51:47Z	2.0.17
 0.1.1	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-03-11T09:06:12Z	2.0.17
+0.18.0-885	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-11T19:56:10Z	2.0.17
 1.20-vvr-11.6.0-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-03-12T05:20:27Z	2.0.3
 5.86.17	named	com.applitools	eyes-sdk-core-java5	2026-03-12T18:05:05Z	2.0.16
 0.3.1	named	io.github.linagora.linid.im	dlvp	2026-03-13T09:00:42Z	2.0.17

@@ -1,0 +1,6 @@
+0.0.2		2026-02-04T14:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/0.0.2/aem-utils.ui.apps.structure-0.0.2.jar returned status 404
+1.0.0		2026-02-05T06:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/1.0.0/aem-utils.ui.apps.structure-1.0.0.jar returned status 404
+1.1.0		2026-02-09T12:44:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/1.1.0/aem-utils.ui.apps.structure-1.1.0.jar returned status 404
+2.0.0		2026-02-13T08:49:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/2.0.0/aem-utils.ui.apps.structure-2.0.0.jar returned status 404
+3.0.0		2026-02-23T12:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/3.0.0/aem-utils.ui.apps.structure-3.0.0.jar returned status 404
+4.0.0		2026-03-03T08:33:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/merkle/oss/aem/aem-utils.ui.apps.structure/4.0.0/aem-utils.ui.apps.structure-4.0.0.jar returned status 404

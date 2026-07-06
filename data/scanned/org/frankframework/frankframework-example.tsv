@@ -102,6 +102,7 @@
 9.0.3	context	2025-11-12T15:32:16Z	
 9.0.3	resources	2025-11-12T15:32:17Z	
 9.0.3	scenarios	2025-11-12T15:32:17Z	
+9.0.4		2026-03-02T18:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-example/9.0.4/frankframework-example-9.0.4.jar returned status 404
 9.0.4	configurations	2026-03-02T18:05:34Z	
 9.0.4	context	2026-03-02T18:05:36Z	
 9.0.4	resources	2026-03-02T18:05:34Z	

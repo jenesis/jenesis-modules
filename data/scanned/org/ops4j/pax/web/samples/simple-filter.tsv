@@ -74,6 +74,7 @@
 8.0.32		2025-06-04T15:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.32/simple-filter-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.33/simple-filter-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.34/simple-filter-8.0.34.jar returned status 404
+8.0.35		2026-02-27T12:04:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.35/simple-filter-8.0.35.jar returned status 404
 8.0.4		2024-12-03T19:49:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.4/simple-filter-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.5/simple-filter-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:49:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/simple-filter/8.0.6/simple-filter-8.0.6.jar returned status 404

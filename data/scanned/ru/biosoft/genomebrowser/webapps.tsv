@@ -2,3 +2,4 @@
 2.0.2		2026-01-16T08:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/genomebrowser/webapps/2.0.2/webapps-2.0.2.jar returned status 404
 2.0.3		2026-01-21T09:06:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/genomebrowser/webapps/2.0.3/webapps-2.0.3.jar returned status 404
 2.0.4		2026-01-27T10:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/genomebrowser/webapps/2.0.4/webapps-2.0.4.jar returned status 404
+2.0.5		2026-03-12T06:50:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/genomebrowser/webapps/2.0.5/webapps-2.0.5.jar returned status 404

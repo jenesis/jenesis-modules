@@ -767,7 +767,10 @@
 3.3.1	named	io.github.xilinjia.krdb	plugin-compiler-shaded	2026-02-15T17:12:00Z	
 2.3.20-RC	named	org.jetbrains.kotlin	kotlin-reflect	2026-02-19T08:57:38Z	
 0.0.1	named	io.github.kshulzh.kefir	compiler-plugin	2026-03-01T18:12:15Z	
+2.3.20-RC2	named	org.jetbrains.kotlin	kotlin-reflect	2026-03-03T08:24:28Z	
 1.0.0	named	io.github.tobi-laa	embedded-valkey	2026-03-08T12:32:33Z	
+2.3.20-RC3	named	org.jetbrains.kotlin	kotlin-reflect	2026-03-10T09:45:35Z	
+2.3.20-RC3	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-03-10T09:45:36Z	
 0.24.0	named	com.airbnb.viaduct	runtime	2026-03-12T22:02:57Z	
 1.0.0	named	io.github.abdullahkhan118	deep-copy-annotations	2026-03-14T07:54:20Z	
 1.0.1	named	io.github.abdullahkhan118	deep-copy-processors	2026-03-14T08:05:57Z	

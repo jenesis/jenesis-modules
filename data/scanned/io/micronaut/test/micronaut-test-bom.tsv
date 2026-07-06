@@ -60,6 +60,7 @@
 4.10.0		2025-10-20T04:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.10.0/micronaut-test-bom-4.10.0.jar returned status 404
 4.10.1		2025-10-20T15:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.10.1/micronaut-test-bom-4.10.1.jar returned status 404
 4.10.2		2025-10-27T11:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.10.2/micronaut-test-bom-4.10.2.jar returned status 404
+4.10.3		2026-03-04T16:02:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.10.3/micronaut-test-bom-4.10.3.jar returned status 404
 4.2.0		2024-01-15T12:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.2.0/micronaut-test-bom-4.2.0.jar returned status 404
 4.2.1		2024-02-16T14:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.2.1/micronaut-test-bom-4.2.1.jar returned status 404
 4.3.0		2024-04-07T07:38:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/test/micronaut-test-bom/4.3.0/micronaut-test-bom-4.3.0.jar returned status 404

@@ -1,5 +1,7 @@
 1.0.11		2026-02-08T10:19:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.11/ssuubo-1.0.11.jar returned status 404
 1.0.15		2026-02-08T19:02:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.15/ssuubo-1.0.15.jar returned status 404
+1.0.21		2026-03-05T09:34:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.21/ssuubo-1.0.21.jar returned status 404
+1.0.22		2026-03-06T06:24:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.22/ssuubo-1.0.22.jar returned status 404
 1.0.3		2026-02-03T23:22:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.3/ssuubo-1.0.3.jar returned status 404
 1.0.4		2026-02-04T12:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.4/ssuubo-1.0.4.jar returned status 404
 1.0.5		2026-02-04T12:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tendomart/ssuubo/1.0.5/ssuubo-1.0.5.jar returned status 404

@@ -24,6 +24,7 @@
 8.0.32		2025-06-04T15:53:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.32/war-keycloak-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.33/war-keycloak-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.34/war-keycloak-8.0.34.jar returned status 404
+8.0.35		2026-02-27T12:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.35/war-keycloak-8.0.35.jar returned status 404
 8.0.4		2024-12-03T19:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.4/war-keycloak-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:43:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.5/war-keycloak-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:43:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-keycloak/8.0.6/war-keycloak-8.0.6.jar returned status 404

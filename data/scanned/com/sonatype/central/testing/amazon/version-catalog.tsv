@@ -21,3 +21,5 @@
 1.5.75		2025-12-05T01:23:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/version-catalog/1.5.75/version-catalog-1.5.75.jar returned status 404
 1.5.76		2025-12-05T14:44:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/version-catalog/1.5.76/version-catalog-1.5.76.jar returned status 404
 1.5.77		2026-01-19T16:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/version-catalog/1.5.77/version-catalog-1.5.77.jar returned status 404
+1.5.78		2026-01-28T22:39:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/version-catalog/1.5.78/version-catalog-1.5.78.jar returned status 404
+1.5.79		2026-02-09T18:10:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sonatype/central/testing/amazon/version-catalog/1.5.79/version-catalog-1.5.79.jar returned status 404

@@ -1,0 +1,4 @@
+0.5.2		2026-02-08T11:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/legstart/version-catalog/0.5.2/version-catalog-0.5.2.jar returned status 404
+0.5.3		2026-02-08T12:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/legstart/version-catalog/0.5.3/version-catalog-0.5.3.jar returned status 404
+0.5.4		2026-02-23T07:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/legstart/version-catalog/0.5.4/version-catalog-0.5.4.jar returned status 404
+0.5.5		2026-02-24T14:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/legstart/version-catalog/0.5.5/version-catalog-0.5.5.jar returned status 404

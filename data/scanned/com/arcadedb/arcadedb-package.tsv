@@ -11,3 +11,7 @@
 25.7.1		2025-08-12T18:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/25.7.1/arcadedb-package-25.7.1.jar returned status 404
 25.8.1		2025-09-10T06:51:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/25.8.1/arcadedb-package-25.8.1.jar returned status 404
 25.9.1		2025-10-09T17:03:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/25.9.1/arcadedb-package-25.9.1.jar returned status 404
+26.1.1		2026-01-23T18:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/26.1.1/arcadedb-package-26.1.1.jar returned status 404
+26.2.1		2026-02-16T16:13:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/26.2.1/arcadedb-package-26.2.1.jar returned status 404
+26.2.2		2026-02-26T07:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/26.2.2/arcadedb-package-26.2.2.jar returned status 404
+26.3.1		2026-03-04T19:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-package/26.3.1/arcadedb-package-26.3.1.jar returned status 404

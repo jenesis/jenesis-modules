@@ -1,2 +1,4 @@
 0.2.0		2021-04-27T11:07:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/postman/conjure-postman/0.2.0/conjure-postman-0.2.0.jar returned status 404
 0.3.0		2026-01-07T12:18:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/postman/conjure-postman/0.3.0/conjure-postman-0.3.0.jar returned status 404
+0.4.0		2026-02-04T13:02:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/postman/conjure-postman/0.4.0/conjure-postman-0.4.0.jar returned status 404
+0.5.0		2026-03-04T13:25:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/postman/conjure-postman/0.5.0/conjure-postman-0.5.0.jar returned status 404

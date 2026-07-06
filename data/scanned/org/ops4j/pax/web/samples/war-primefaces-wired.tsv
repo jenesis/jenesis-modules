@@ -27,6 +27,7 @@
 8.0.32		2025-06-04T15:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.32/war-primefaces-wired-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.33/war-primefaces-wired-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.34/war-primefaces-wired-8.0.34.jar returned status 404
+8.0.35		2026-02-27T12:04:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.35/war-primefaces-wired-8.0.35.jar returned status 404
 8.0.4		2024-12-03T19:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.4/war-primefaces-wired-8.0.4.jar returned status 404
 8.0.5		2024-12-03T19:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.5/war-primefaces-wired-8.0.5.jar returned status 404
 8.0.6		2024-12-03T19:26:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-primefaces-wired/8.0.6/war-primefaces-wired-8.0.6.jar returned status 404
