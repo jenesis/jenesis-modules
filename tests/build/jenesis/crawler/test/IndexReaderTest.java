@@ -112,7 +112,8 @@ public class IndexReaderTest {
         // commons-fileupload2 gap: every version's main record was stamped spdx.json).
         for (String miscategorised : new String[]{
                 "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512",
-                "spdx.json", "jar.asc", "zip.sha512", "tar.gz.sha512", "toml.sha512",
+                "spdx.json", "spdx.rdf.xml", "spdx.xml", "cyclonedx.json", "cyclonedx.xml",
+                "jar.asc", "zip.sha512", "tar.gz.sha512", "toml.sha512",
                 "pom.md5.asc.sha512", "pom.sigstore.json.sha512", "sha512", "md5"}) {
             Map<String, String> record = Map.of(
                     "u", "net.bytebuddy|byte-buddy|1.10.0|NA|" + miscategorised,

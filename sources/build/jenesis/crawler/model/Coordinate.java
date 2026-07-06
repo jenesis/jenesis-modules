@@ -41,12 +41,20 @@ public record Coordinate(String groupId,
      */
     private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of(
             "module",
-            "spdx.json",
             "sha256",
             "sha512",
             "sha1",
             "md5",
             "asc");
+
+    /**
+     * SBOM sidecar families whose extension keeps changing as tooling evolves — commons-lang3 3.15+ mask
+     * with {@code spdx.json}, 3.13/3.14 with the older {@code spdx.rdf.xml}, and CycloneDX emits
+     * {@code cyclonedx.*}. Match the family by substring rather than chase each exact spelling: no real
+     * artifact packaging contains {@code spdx} or {@code cyclonedx}, so a classifier-less record carrying
+     * one is always a mis-stamped main JAR.
+     */
+    private static final List<String> MISCATEGORISED_JAR_INFIXES = List.of("spdx", "cyclonedx", "sbom");
 
     private static final List<String> MISCATEGORISED_JAR_SUFFIXES = List.of(
             ".sha256",
@@ -135,6 +143,11 @@ public record Coordinate(String groupId,
     private static boolean miscategorised(String extension) {
         if (MISCATEGORISED_JAR_EXTENSIONS.contains(extension)) {
             return true;
+        }
+        for (String infix : MISCATEGORISED_JAR_INFIXES) {
+            if (extension.contains(infix)) {
+                return true;
+            }
         }
         for (String suffix : MISCATEGORISED_JAR_SUFFIXES) {
             if (extension.endsWith(suffix)) {
