@@ -34,6 +34,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config pull.rebase true
 
+      - name: Regenerate frozen per-year top-module tables
+        run: |
+          set -euo pipefail
+          # Freeze every completed year's list to data/top/<year>.md (rendered as of that year end) —
+          # this is what creates the first 2025.md now that 2025 is a completed year. The bleeding run
+          # below additionally renders the latest list as a current-state view.
+          java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
+               sources/build/jenesis/crawler/TopModules.java data/top/*.txt
+
       - name: Regenerate bleeding edge report
         run: |
           set -euo pipefail
