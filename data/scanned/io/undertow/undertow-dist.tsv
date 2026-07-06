@@ -1,3 +1,5 @@
 2.2.38.Final		2025-10-12T11:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.2.38.Final/undertow-dist-2.2.38.Final.jar returned status 404
 2.3.19.Final		2025-09-06T01:30:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.3.19.Final/undertow-dist-2.3.19.Final.jar returned status 404
 2.3.20.Final		2025-10-10T12:54:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.3.20.Final/undertow-dist-2.3.20.Final.jar returned status 404
+2.3.21.Final		2026-01-14T01:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.3.21.Final/undertow-dist-2.3.21.Final.jar returned status 404
+2.3.22.Final		2026-01-16T01:30:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.3.22.Final/undertow-dist-2.3.22.Final.jar returned status 404

@@ -62,3 +62,8 @@
 7.0.0-dev.75		2025-12-23T09:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.75/cdm-typescript-7.0.0-dev.75.jar returned status 404
 7.0.0-dev.76		2026-01-05T17:23:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.76/cdm-typescript-7.0.0-dev.76.jar returned status 404
 7.0.0-dev.77		2026-01-07T10:03:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.77/cdm-typescript-7.0.0-dev.77.jar returned status 404
+7.0.0-dev.78		2026-01-09T17:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.78/cdm-typescript-7.0.0-dev.78.jar returned status 404
+7.0.0-dev.79		2026-01-14T10:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.79/cdm-typescript-7.0.0-dev.79.jar returned status 404
+7.0.0-dev.80		2026-01-14T13:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.80/cdm-typescript-7.0.0-dev.80.jar returned status 404
+7.0.0-dev.81		2026-01-14T18:10:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.81/cdm-typescript-7.0.0-dev.81.jar returned status 404
+7.0.0-dev.82		2026-01-16T16:43:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.82/cdm-typescript-7.0.0-dev.82.jar returned status 404

@@ -39,3 +39,10 @@
 73.0.0		2025-12-11T08:43:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/73.0.0/version-catalog-73.0.0.jar returned status 404
 74.0.0		2025-12-18T08:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/74.0.0/version-catalog-74.0.0.jar returned status 404
 74.1.0		2025-12-25T14:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/74.1.0/version-catalog-74.1.0.jar returned status 404
+75.0.0		2026-01-08T08:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/75.0.0/version-catalog-75.0.0.jar returned status 404
+76.0.0		2026-01-15T08:41:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/76.0.0/version-catalog-76.0.0.jar returned status 404
+77.0.0		2026-01-22T08:52:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/77.0.0/version-catalog-77.0.0.jar returned status 404
+78.0.0		2026-01-29T08:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/78.0.0/version-catalog-78.0.0.jar returned status 404
+79.0.0		2026-02-12T08:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/79.0.0/version-catalog-79.0.0.jar returned status 404
+79.1.0		2026-02-19T08:30:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/79.1.0/version-catalog-79.1.0.jar returned status 404
+80.0.0		2026-02-26T08:31:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/80.0.0/version-catalog-80.0.0.jar returned status 404

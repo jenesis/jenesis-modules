@@ -82,3 +82,4 @@
 2.8.2		2024-03-12T10:39:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/2.8.2/micronaut-serde-bom-2.8.2.jar returned status 404
 2.9.0		2024-04-02T20:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/2.9.0/micronaut-serde-bom-2.9.0.jar returned status 404
 3.0.0-M1		2025-12-04T10:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M1/micronaut-serde-bom-3.0.0-M1.jar returned status 404
+3.0.0-M2		2026-01-13T18:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M2/micronaut-serde-bom-3.0.0-M2.jar returned status 404

@@ -1,0 +1,2 @@
+1.26.3		2026-01-13T08:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/sit-jee-app/1.26.3/sit-jee-app-1.26.3.jar returned status 404
+1.26.4		2026-01-14T13:37:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tests/system-integration-test/sit-jee-app/1.26.4/sit-jee-app-1.26.4.jar returned status 404

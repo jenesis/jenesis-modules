@@ -63,3 +63,4 @@
 6.2.2		2024-10-08T07:35:45Z	
 6.3.0		2024-10-15T17:21:20Z	
 6.6.0		2025-08-05T10:37:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencb/cellbase/cellbase-server/6.6.0/cellbase-server-6.6.0.jar returned status 404
+6.7.0		2026-02-25T08:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencb/cellbase/cellbase-server/6.7.0/cellbase-server-6.7.0.jar returned status 404

@@ -4025,6 +4025,8 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.26.3	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-01-13T08:43:01Z	2.14.2
 1.26.3	named	io.joynr.examples	stateless-async-consumer	2026-01-13T08:43:02Z	2.14.2
 1.26.3	named	io.joynr.examples	stateless-async-car-sim	2026-01-13T08:43:04Z	2.14.2
+0.2.7	named	com.tigergraph	tigergraph-spark-connector_2.13	2026-01-14T03:09:55Z	2.15.2
+0.2.7	named	com.tigergraph	tigergraph-spark-connector_2.12	2026-01-14T03:57:20Z	2.15.2
 0.0.8	named	se.liu.research.hefquin	hefquin-cli	2026-01-14T10:30:41Z	2.19.2
 1.26.4	named	io.joynr.examples	stateless-async-consumer	2026-01-14T13:37:55Z	2.14.2
 1.26.4	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-01-14T13:37:55Z	2.14.2
@@ -4050,6 +4052,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 4.0.2	named	org.apache.spark	spark-streaming-kafka-0-10-assembly_2.13	2026-02-02T10:34:00Z	2.18.2
 0.1.1	named	io.github.sfkamath	jvm-hotpath-agent	2026-02-02T13:04:18Z	2.21.0
 7.0.1.Final	named	org.jboss.galleon	galleon-cli	2026-02-03T22:15:32Z	2.14.2
+5.0.3	named	org.openidentityplatform.opendj	opendj-openidm-account-change-notification-handler	2026-02-04T06:46:18Z	2.15.4
 0.2.0	named	io.github.sfkamath	jvm-hotpath-agent	2026-02-04T18:52:25Z	2.21.0
 4.2.0-preview2	named	org.apache.spark	spark-streaming-kafka-0-10-assembly_2.13	2026-02-05T10:50:28Z	2.21.0
 1.0.4	named	com.pinterest.kafka.tieredstorage	ts-examples	2026-02-05T23:08:06Z	2.13.4.2

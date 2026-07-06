@@ -1696,13 +1696,18 @@
 4.8.2	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2025-12-19T13:04:23Z	
 0.1.2	named	io.github.infocusmodereal	liquibase-starrocks	2025-12-24T21:10:02Z	
 1.20-vvr-11.1.4-jdk11	named	com.alibaba.ververica	ververica-connector-datahub	2025-12-30T04:44:12Z	
+2.3.20-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-01-08T08:40:01Z	
 1.20-vvr-11.3.1-1-jdk11	named	com.alibaba.ververica	ververica-connector-datahub	2026-01-09T08:35:35Z	
 0.9.8	named	pl.wtx.woocommerce	woocommerce-api-client	2026-01-13T09:39:53Z	
+2.3.10-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-01-19T08:23:12Z	
 1.38.0	named	io.getstream	stream-chat-java-all	2026-01-20T18:59:01Z	
 7.6.15	named	com.newrelic.agent.android	agent-gradle-plugin	2026-01-20T22:05:46Z	
 1.39.0	named	io.getstream	stream-chat-java-all	2026-01-21T16:27:32Z	
+2.3.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-01-29T08:43:12Z	
 0.22.0	named	com.airbnb.viaduct	x-javaapi-codegen	2026-01-29T22:45:23Z	
+2.3.10-RC2	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-02-02T08:16:32Z	
 1.40.0	named	io.getstream	stream-chat-java-all	2026-02-04T09:29:50Z	
+2.3.10	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-02-04T18:07:24Z	
 0.23.0	named	com.airbnb.viaduct	x-javaapi-codegen	2026-02-06T18:33:01Z	
 2.4.1	named	io.github.jeff-tian	keycloak-phone-provider	2026-02-10T12:26:48Z	
 7.7.0	named	com.newrelic.agent.android	agent-gradle-plugin	2026-02-13T21:05:35Z	
@@ -1713,6 +1718,7 @@
 2.3.13	named	org.apache.seatunnel	connector-slack	2026-02-17T11:29:13Z	
 1.41.1	named	io.getstream	stream-chat-java-all	2026-02-18T14:47:50Z	
 1.41.2	named	io.getstream	stream-chat-java-all	2026-02-18T21:56:16Z	
+2.3.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-02-19T08:57:37Z	
 13.6.1	named	io.github.openfeign	feign-example-github-with-coroutine	2026-02-20T15:27:43Z	
 3.4.0-KZM-2.0-RC6	named	io.github.kzmlabs.flinkstatefun	statefun-flink-datastream	2026-02-25T17:48:03Z	
 7.7.0	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-02-26T16:13:43Z	

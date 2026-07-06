@@ -107,6 +107,7 @@
 7.0.0	test-javadoc	2026-04-16T10:05:58Z	
 7.0.0-RC1	classes	2026-03-31T11:09:28Z	
 7.0.0-RC1	test-javadoc	2026-03-31T11:09:29Z	
+7.0.0-alpha2		2026-01-08T15:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp/7.0.0-alpha2/fcrepo-webapp-7.0.0-alpha2.jar returned status 404
 7.0.0-alpha2	classes	2026-01-08T15:38:43Z	
 7.0.0-alpha2	test-javadoc	2026-01-08T15:38:43Z	
 7.0.0-beta1	classes	2026-02-27T15:11:00Z	

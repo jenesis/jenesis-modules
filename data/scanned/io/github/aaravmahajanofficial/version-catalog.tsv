@@ -33,3 +33,4 @@
 0.6.6		2025-11-20T05:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaravmahajanofficial/version-catalog/0.6.6/version-catalog-0.6.6.jar returned status 404
 0.6.7		2025-12-07T06:26:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaravmahajanofficial/version-catalog/0.6.7/version-catalog-0.6.7.jar returned status 404
 0.6.8		2025-12-24T18:03:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaravmahajanofficial/version-catalog/0.6.8/version-catalog-0.6.8.jar returned status 404
+0.6.9		2026-01-05T20:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaravmahajanofficial/version-catalog/0.6.9/version-catalog-0.6.9.jar returned status 404

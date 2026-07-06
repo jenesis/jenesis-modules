@@ -9,6 +9,7 @@
 4.14.0		2025-10-20T13:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.14.0/ecmascript-4.14.0.jar returned status 404
 4.15.0		2025-11-14T09:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.15.0/ecmascript-4.15.0.jar returned status 404
 4.16.0		2025-12-22T13:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.16.0/ecmascript-4.16.0.jar returned status 404
+4.16.1		2026-01-16T10:23:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.16.1/ecmascript-4.16.1.jar returned status 404
 4.7.0		2025-06-30T08:08:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.7.0/ecmascript-4.7.0.jar returned status 404
 4.8.0		2025-07-29T10:00:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.8.0/ecmascript-4.8.0.jar returned status 404
 4.9.0		2025-08-08T12:24:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/ecmascript/4.9.0/ecmascript-4.9.0.jar returned status 404

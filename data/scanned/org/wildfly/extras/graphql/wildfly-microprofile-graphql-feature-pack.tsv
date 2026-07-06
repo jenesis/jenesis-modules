@@ -1,1 +1,2 @@
 2.6.0.Final		2025-10-29T13:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/extras/graphql/wildfly-microprofile-graphql-feature-pack/2.6.0.Final/wildfly-microprofile-graphql-feature-pack-2.6.0.Final.jar returned status 404
+2.7.0.Final		2026-01-26T12:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/extras/graphql/wildfly-microprofile-graphql-feature-pack/2.7.0.Final/wildfly-microprofile-graphql-feature-pack-2.7.0.Final.jar returned status 404

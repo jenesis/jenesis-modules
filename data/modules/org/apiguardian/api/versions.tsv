@@ -368,3 +368,5 @@
 5.3.9_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-09-09T13:47:49Z	1.1.2
 5.3.10_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-09-17T13:13:29Z	1.1.2
 5.3.10_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-09-17T13:13:29Z	1.1.2
+5.4.0_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2026-01-12T17:05:05Z	1.1.2
+5.4.0_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2026-01-12T17:05:05Z	1.1.2

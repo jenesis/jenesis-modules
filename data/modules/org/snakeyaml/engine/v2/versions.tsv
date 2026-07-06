@@ -165,11 +165,17 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 1.1.2	named	io.github.ethanz0x0	nucleus-config	2025-12-14T04:40:20Z	2.10
 1.57.0	named	com.datadoghq	dd-trace-ot	2025-12-18T09:56:21Z	2.9
 1.58.0	named	com.datadoghq	dd-trace-ot	2026-01-06T10:12:40Z	2.9
+7.5.0	named	io.fabric8	crd-generator-cli	2026-01-09T11:51:14Z	2.10
+7.5.0	named	io.fabric8	java-generator-cli	2026-01-09T11:51:15Z	2.10
 1.58.1	named	com.datadoghq	dd-trace-ot	2026-01-14T14:36:49Z	2.9
 0.50.0-RC1	named	io.strimzi	crd-generator	2026-01-14T20:33:03Z	2.10
+7.5.1	named	io.fabric8	java-generator-cli	2026-01-15T10:38:23Z	2.10
+7.5.1	named	io.fabric8	crd-generator-cli	2026-01-15T10:38:24Z	2.10
 0.50.0	named	io.strimzi	crd-generator	2026-01-18T16:28:30Z	2.10
 1.58.2	named	com.datadoghq	dd-trace-ot	2026-01-23T19:09:35Z	2.9
+2.0.0.Alpha1	named	org.wildfly.glow	wildfly-glow	2026-01-30T10:30:29Z	2.7
 1.59.0	named	com.datadoghq	dd-trace-ot	2026-02-02T13:47:04Z	2.9
+2.0.0.Alpha2	named	org.wildfly.glow	wildfly-glow	2026-02-06T10:30:27Z	2.7
 0.50.1-RC1	named	io.strimzi	crd-generator	2026-02-17T09:03:28Z	2.10
 0.50.1	named	io.strimzi	crd-generator	2026-02-18T21:25:34Z	2.10
 0.51.0-RC1	named	io.strimzi	crd-generator	2026-02-24T15:19:58Z	2.10

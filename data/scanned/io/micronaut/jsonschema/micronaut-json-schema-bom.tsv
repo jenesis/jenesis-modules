@@ -11,3 +11,5 @@
 1.7.1		2025-09-19T11:00:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jsonschema/micronaut-json-schema-bom/1.7.1/micronaut-json-schema-bom-1.7.1.jar returned status 404
 1.7.2		2025-09-29T08:26:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jsonschema/micronaut-json-schema-bom/1.7.2/micronaut-json-schema-bom-1.7.2.jar returned status 404
 1.7.3		2025-10-14T10:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jsonschema/micronaut-json-schema-bom/1.7.3/micronaut-json-schema-bom-1.7.3.jar returned status 404
+1.7.4		2026-01-09T11:02:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jsonschema/micronaut-json-schema-bom/1.7.4/micronaut-json-schema-bom-1.7.4.jar returned status 404
+2.0.0-M1		2026-01-09T11:42:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jsonschema/micronaut-json-schema-bom/2.0.0-M1/micronaut-json-schema-bom-2.0.0-M1.jar returned status 404
