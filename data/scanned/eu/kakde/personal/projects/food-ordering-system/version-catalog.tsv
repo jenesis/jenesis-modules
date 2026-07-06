@@ -1,0 +1,5 @@
+1.0.0		2024-02-28T13:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/personal/projects/food-ordering-system/version-catalog/1.0.0/version-catalog-1.0.0.jar returned status 404
+1.0.1		2024-02-29T11:04:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/personal/projects/food-ordering-system/version-catalog/1.0.1/version-catalog-1.0.1.jar returned status 404
+1.0.2		2024-02-29T11:41:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/personal/projects/food-ordering-system/version-catalog/1.0.2/version-catalog-1.0.2.jar returned status 404
+1.0.3		2024-03-11T15:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/personal/projects/food-ordering-system/version-catalog/1.0.3/version-catalog-1.0.3.jar returned status 404
+1.0.4		2024-03-11T16:06:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/personal/projects/food-ordering-system/version-catalog/1.0.4/version-catalog-1.0.4.jar returned status 404

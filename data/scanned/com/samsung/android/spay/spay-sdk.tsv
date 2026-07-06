@@ -1,5 +1,7 @@
 dummy_0.0.1		2018-10-08T04:54:40Z	
+dummy_0.0.10		2018-10-08T12:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/samsung/android/spay/spay-sdk/dummy_0.0.10/spay-sdk-dummy_0.0.10.jar returned status 404
 dummy_0.0.10	release	2018-10-08T12:06:25Z	
+dummy_0.0.11		2018-10-08T12:13:21Z	
 dummy_0.0.2		2018-10-08T05:32:27Z	
 dummy_0.0.3		2018-10-08T07:16:28Z	
 dummy_0.0.3	sdk	2018-10-08T07:16:40Z	
@@ -9,5 +11,7 @@ dummy_0.0.5		2018-10-08T08:47:48Z
 dummy_0.0.5	release	2018-10-08T08:48:10Z	
 dummy_0.0.6		2018-10-08T08:53:59Z	
 dummy_0.0.6	release	2018-10-08T08:54:40Z	
+dummy_0.0.7		2018-10-08T11:19:17Z	
+dummy_0.0.8		2018-10-08T11:25:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/samsung/android/spay/spay-sdk/dummy_0.0.8/spay-sdk-dummy_0.0.8.jar returned status 404
 dummy_0.0.8	release	2018-10-08T11:26:03Z	
 dummy_0.0.9	release	2018-10-08T11:24:22Z	

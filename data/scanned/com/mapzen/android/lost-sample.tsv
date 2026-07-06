@@ -2,3 +2,16 @@
 0.2		2014-10-27T19:07:23Z	
 1.0.0		2015-01-14T16:13:34Z	
 1.0.1		2015-03-20T20:10:26Z	
+1.1.0		2016-03-09T22:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/1.1.0/lost-sample-1.1.0.jar returned status 404
+1.1.1		2016-06-22T17:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/1.1.1/lost-sample-1.1.1.jar returned status 404
+2.0.0		2016-09-26T01:41:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.0.0/lost-sample-2.0.0.jar returned status 404
+2.1.0		2016-10-17T19:42:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.1.0/lost-sample-2.1.0.jar returned status 404
+2.1.1		2016-10-18T22:39:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.1.1/lost-sample-2.1.1.jar returned status 404
+2.1.2		2016-12-08T16:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.1.2/lost-sample-2.1.2.jar returned status 404
+2.2.0		2017-02-27T20:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.2.0/lost-sample-2.2.0.jar returned status 404
+2.2.0-rc1		2017-02-15T21:47:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/2.2.0-rc1/lost-sample-2.2.0-rc1.jar returned status 404
+3.0.0		2017-05-25T16:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/3.0.0/lost-sample-3.0.0.jar returned status 404
+3.0.1		2017-06-19T17:26:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/3.0.1/lost-sample-3.0.1.jar returned status 404
+3.0.2		2017-07-06T16:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/3.0.2/lost-sample-3.0.2.jar returned status 404
+3.0.3		2017-08-14T16:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/3.0.3/lost-sample-3.0.3.jar returned status 404
+3.0.4		2017-10-16T19:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapzen/android/lost-sample/3.0.4/lost-sample-3.0.4.jar returned status 404

@@ -1,0 +1,4 @@
+1.0.0		2017-11-10T07:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoyonewbie/android/lib/easymvp/1.0.0/easymvp-1.0.0.jar returned status 404
+1.0.1		2017-11-13T05:48:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoyonewbie/android/lib/easymvp/1.0.1/easymvp-1.0.1.jar returned status 404
+1.0.2		2017-12-05T09:37:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoyonewbie/android/lib/easymvp/1.0.2/easymvp-1.0.2.jar returned status 404
+1.0.3		2017-12-07T01:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoyonewbie/android/lib/easymvp/1.0.3/easymvp-1.0.3.jar returned status 404

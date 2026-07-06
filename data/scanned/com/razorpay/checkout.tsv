@@ -1,4 +1,14 @@
+1.5.10		2019-07-16T14:26:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.10/checkout-1.5.10.jar returned status 404
+1.5.11		2019-07-16T14:59:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.11/checkout-1.5.11.jar returned status 404
+1.5.12		2019-07-17T14:31:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.12/checkout-1.5.12.jar returned status 404
+1.5.14		2020-01-21T07:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.14/checkout-1.5.14.jar returned status 404
+1.5.15		2020-02-06T11:56:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.15/checkout-1.5.15.jar returned status 404
+1.5.16		2020-02-18T07:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.16/checkout-1.5.16.jar returned status 404
+1.5.17		2020-05-05T09:23:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.17/checkout-1.5.17.jar returned status 404
 1.5.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.18/checkout-1.5.18.jar returned status 404
+1.5.6		2019-07-03T13:59:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.6/checkout-1.5.6.jar returned status 404
+1.5.7		2019-07-08T15:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.7/checkout-1.5.7.jar returned status 404
+1.5.8		2019-07-09T12:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.5.8/checkout-1.5.8.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.6.0/checkout-1.6.0.jar returned status 404
 1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.6.10/checkout-1.6.10.jar returned status 404
 1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/razorpay/checkout/1.6.11/checkout-1.6.11.jar returned status 404

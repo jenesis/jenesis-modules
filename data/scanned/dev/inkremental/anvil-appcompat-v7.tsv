@@ -1,0 +1,2 @@
+1.1.0-0.14		2021-05-28T23:29:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inkremental/anvil-appcompat-v7/1.1.0-0.14/anvil-appcompat-v7-1.1.0-0.14.jar returned status 404
+1.1.0-0.15		2021-11-09T22:28:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inkremental/anvil-appcompat-v7/1.1.0-0.15/anvil-appcompat-v7-1.1.0-0.15.jar returned status 404

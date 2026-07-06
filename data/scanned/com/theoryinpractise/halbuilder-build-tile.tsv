@@ -1,0 +1,4 @@
+1.0.1		2019-07-21T05:30:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoryinpractise/halbuilder-build-tile/1.0.1/halbuilder-build-tile-1.0.1.jar returned status 404
+1.0.2		2019-07-21T07:38:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoryinpractise/halbuilder-build-tile/1.0.2/halbuilder-build-tile-1.0.2.jar returned status 404
+1.0.3		2020-03-11T22:09:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoryinpractise/halbuilder-build-tile/1.0.3/halbuilder-build-tile-1.0.3.jar returned status 404
+1.0.4		2020-07-22T02:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoryinpractise/halbuilder-build-tile/1.0.4/halbuilder-build-tile-1.0.4.jar returned status 404

@@ -1,0 +1,2 @@
+0.0.2		2016-09-30T11:24:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/dentrassi/kura/amqp/de.dentrassi.kura.camel.amqp.runtime/0.0.2/de.dentrassi.kura.camel.amqp.runtime-0.0.2.jar returned status 404
+0.0.3		2016-10-04T08:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/dentrassi/kura/amqp/de.dentrassi.kura.camel.amqp.runtime/0.0.3/de.dentrassi.kura.camel.amqp.runtime-0.0.3.jar returned status 404

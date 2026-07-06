@@ -6,6 +6,7 @@ ${release.version}-${build.version}			IllegalArgumentException: Illegal characte
 3.0.0-b006		2010-05-20T06:22:04Z	
 3.0.0-b007		2010-05-20T06:22:05Z	
 3.0.0-b008		2010-05-20T06:22:06Z	
+3.0.0-b009		2010-05-20T06:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/corba/glassfish-corba-orbgeneric/3.0.0-b009/glassfish-corba-orbgeneric-3.0.0-b009.jar returned status 404
 3.0.0-b010		2010-05-20T06:21:50Z	
 3.0.0-b012		2010-05-20T06:21:51Z	
 3.0.0-b013		2010-05-20T06:21:52Z	

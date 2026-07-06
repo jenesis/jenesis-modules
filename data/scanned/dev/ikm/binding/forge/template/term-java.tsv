@@ -1,3 +1,4 @@
+1.0.0		2025-04-30T19:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ikm/binding/forge/template/term-java/1.0.0/term-java-1.0.0.jar returned status 404
 1.0.0	resources	2025-04-30T19:23:43Z	
 1.0.0	test-resources	2025-04-30T19:23:43Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ikm/binding/forge/template/term-java/1.1.0/term-java-1.1.0.jar returned status 404

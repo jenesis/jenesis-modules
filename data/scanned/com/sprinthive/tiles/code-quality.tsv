@@ -1,0 +1,6 @@
+0.1		2017-08-14T22:18:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.1/code-quality-0.1.jar returned status 404
+0.2		2017-08-29T14:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.2/code-quality-0.2.jar returned status 404
+0.3		2017-09-06T11:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.3/code-quality-0.3.jar returned status 404
+0.4		2017-09-11T14:06:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.4/code-quality-0.4.jar returned status 404
+0.5		2017-09-18T05:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.5/code-quality-0.5.jar returned status 404
+0.6		2017-11-02T09:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sprinthive/tiles/code-quality/0.6/code-quality-0.6.jar returned status 404

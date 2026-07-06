@@ -1,0 +1,5 @@
+21.4.10		2021-04-19T21:07:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/manorrock/ocelot/ocelot-cli-macos/21.4.10/ocelot-cli-macos-21.4.10.jar returned status 404
+21.4.8		2021-04-19T20:32:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/manorrock/ocelot/ocelot-cli-macos/21.4.8/ocelot-cli-macos-21.4.8.jar returned status 404
+21.4.9		2021-04-19T20:56:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/manorrock/ocelot/ocelot-cli-macos/21.4.9/ocelot-cli-macos-21.4.9.jar returned status 404
+21.5.0		2021-05-11T22:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/manorrock/ocelot/ocelot-cli-macos/21.5.0/ocelot-cli-macos-21.5.0.jar returned status 404
+21.8.0		2021-08-17T22:00:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/manorrock/ocelot/ocelot-cli-macos/21.8.0/ocelot-cli-macos-21.8.0.jar returned status 404
