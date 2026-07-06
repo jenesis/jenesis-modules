@@ -80,3 +80,5 @@
 7.3.4		2026-02-06T04:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/7.3.4/cas-server-webapp-undertow-7.3.4.jar returned status 404
 7.3.5		2026-03-07T02:55:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/7.3.5/cas-server-webapp-undertow-7.3.5.jar returned status 404
 7.3.6		2026-04-04T04:47:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/7.3.6/cas-server-webapp-undertow-7.3.6.jar returned status 404
+7.3.7		2026-05-15T22:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/7.3.7/cas-server-webapp-undertow-7.3.7.jar returned status 404
+7.3.7.1		2026-05-27T16:12:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/7.3.7.1/cas-server-webapp-undertow-7.3.7.1.jar returned status 404

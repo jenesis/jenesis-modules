@@ -24,6 +24,7 @@
 3.26.2		2025-08-30T14:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.26.2/quarkus-cxf-test-list-3.26.2.jar returned status 404
 3.27.0		2025-09-17T20:33:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.27.0/quarkus-cxf-test-list-3.27.0.jar returned status 404
 3.27.1		2025-09-30T09:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.27.1/quarkus-cxf-test-list-3.27.1.jar returned status 404
+3.27.2		2026-05-13T20:52:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.27.2/quarkus-cxf-test-list-3.27.2.jar returned status 404
 3.29.0		2025-10-23T18:15:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.29.0/quarkus-cxf-test-list-3.29.0.jar returned status 404
 3.30.0		2025-11-20T15:39:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.30.0/quarkus-cxf-test-list-3.30.0.jar returned status 404
 3.31.0		2026-01-21T21:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.31.0/quarkus-cxf-test-list-3.31.0.jar returned status 404
@@ -37,5 +38,7 @@
 3.33.0		2026-03-18T21:59:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.33.0/quarkus-cxf-test-list-3.33.0.jar returned status 404
 3.33.1		2026-03-31T15:09:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.33.1/quarkus-cxf-test-list-3.33.1.jar returned status 404
 3.33.2		2026-04-20T07:38:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.33.2/quarkus-cxf-test-list-3.33.2.jar returned status 404
+3.33.3		2026-05-13T15:13:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.33.3/quarkus-cxf-test-list-3.33.3.jar returned status 404
 3.35.0		2026-04-20T12:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.35.0/quarkus-cxf-test-list-3.35.0.jar returned status 404
 3.35.1		2026-04-23T10:18:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.35.1/quarkus-cxf-test-list-3.35.1.jar returned status 404
+3.36.0		2026-05-22T16:17:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-test-list/3.36.0/quarkus-cxf-test-list-3.36.0.jar returned status 404

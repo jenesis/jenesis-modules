@@ -37,6 +37,7 @@
 3.8.0		2025-06-17T07:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/3.8.0/micronaut-reactor-bom-3.8.0.jar returned status 404
 3.9.0		2025-10-10T14:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/3.9.0/micronaut-reactor-bom-3.9.0.jar returned status 404
 3.9.1		2025-10-16T10:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/3.9.1/micronaut-reactor-bom-3.9.1.jar returned status 404
+4.0.0		2026-05-14T08:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/4.0.0/micronaut-reactor-bom-4.0.0.jar returned status 404
 4.0.0-M1		2025-12-04T17:59:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/4.0.0-M1/micronaut-reactor-bom-4.0.0-M1.jar returned status 404
 4.0.0-M2		2026-04-14T15:21:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/4.0.0-M2/micronaut-reactor-bom-4.0.0-M2.jar returned status 404
 4.0.0-RC1		2026-05-04T15:49:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/reactor/micronaut-reactor-bom/4.0.0-RC1/micronaut-reactor-bom-4.0.0-RC1.jar returned status 404

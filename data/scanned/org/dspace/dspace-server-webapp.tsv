@@ -25,6 +25,7 @@
 7.6.5	classes	2025-07-22T20:26:11Z	
 7.6.6		2025-12-17T17:23:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-server-webapp/7.6.6/dspace-server-webapp-7.6.6.jar returned status 404
 7.6.6	classes	2025-12-17T17:23:38Z	
+7.6.7		2026-05-27T21:53:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-server-webapp/7.6.7/dspace-server-webapp-7.6.7.jar returned status 404
 7.6.7	classes	2026-05-27T21:53:57Z	
 8.0		2024-06-21T19:34:20Z	
 8.0-rc1		2024-04-05T21:58:55Z	

@@ -23,3 +23,4 @@
 26.5.7		2026-04-02T14:31:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-wildfly-modules/26.5.7/keycloak-saml-wildfly-modules-26.5.7.jar returned status 404
 26.6.0		2026-04-08T08:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-wildfly-modules/26.6.0/keycloak-saml-wildfly-modules-26.6.0.jar returned status 404
 26.6.1		2026-04-15T13:45:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-wildfly-modules/26.6.1/keycloak-saml-wildfly-modules-26.6.1.jar returned status 404
+26.6.2		2026-05-19T12:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-wildfly-modules/26.6.2/keycloak-saml-wildfly-modules-26.6.2.jar returned status 404

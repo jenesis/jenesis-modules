@@ -82,5 +82,7 @@
 6.8.0		2024-04-08T07:50:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/6.8.0/micronaut-openapi-bom-6.8.0.jar returned status 404
 6.9.0		2024-04-24T10:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/6.9.0/micronaut-openapi-bom-6.9.0.jar returned status 404
 6.9.1		2024-04-25T05:10:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/6.9.1/micronaut-openapi-bom-6.9.1.jar returned status 404
+7.0.0		2026-05-18T16:04:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/7.0.0/micronaut-openapi-bom-7.0.0.jar returned status 404
 7.0.0-M1		2026-03-10T13:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/7.0.0-M1/micronaut-openapi-bom-7.0.0-M1.jar returned status 404
 7.0.0-M2		2026-04-21T11:03:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/7.0.0-M2/micronaut-openapi-bom-7.0.0-M2.jar returned status 404
+7.0.0-RC1		2026-05-09T17:22:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/openapi/micronaut-openapi-bom/7.0.0-RC1/micronaut-openapi-bom-7.0.0-RC1.jar returned status 404

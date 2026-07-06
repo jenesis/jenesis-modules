@@ -32,3 +32,4 @@
 2026.04.25.1		2026-04-25T10:56:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2026.04.25.1/versions-kotlinx-2026.04.25.1.jar returned status 404
 2026.04.26		2026-04-25T17:07:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2026.04.26/versions-kotlinx-2026.04.26.jar returned status 404
 2026.05.08		2026-05-08T01:47:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2026.05.08/versions-kotlinx-2026.05.08.jar returned status 404
+2026.05.18		2026-05-18T01:27:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2026.05.18/versions-kotlinx-2026.05.18.jar returned status 404

@@ -87,6 +87,7 @@
 7.0.0-M7		2026-02-19T10:21:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.0-M7/micronaut-sql-bom-7.0.0-M7.jar returned status 404
 7.0.0-M8		2026-03-17T13:42:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.0-M8/micronaut-sql-bom-7.0.0-M8.jar returned status 404
 7.0.0-RC1		2026-05-07T13:46:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.0-RC1/micronaut-sql-bom-7.0.0-RC1.jar returned status 404
+7.0.1		2026-05-18T05:06:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.1/micronaut-sql-bom-7.0.1.jar returned status 404
 7.0.1-M1		2026-03-23T10:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.1-M1/micronaut-sql-bom-7.0.1-M1.jar returned status 404
 7.0.1-M2		2026-04-20T12:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.1-M2/micronaut-sql-bom-7.0.1-M2.jar returned status 404
 7.0.1-M3		2026-05-03T05:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/sql/micronaut-sql-bom/7.0.1-M3/micronaut-sql-bom-7.0.1-M3.jar returned status 404

@@ -91,4 +91,5 @@
 2026.04.10		2026-04-10T21:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-shared/2026.04.10/versions-shared-2026.04.10.jar returned status 404
 2026.04.24		2026-04-24T22:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-shared/2026.04.24/versions-shared-2026.04.24.jar returned status 404
 2026.05.08		2026-05-08T20:38:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-shared/2026.05.08/versions-shared-2026.05.08.jar returned status 404
+2026.05.15		2026-05-15T20:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-shared/2026.05.15/versions-shared-2026.05.15.jar returned status 404
 v2026.01.23		2026-01-24T22:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-shared/v2026.01.23/versions-shared-v2026.01.23.jar returned status 404

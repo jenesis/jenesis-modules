@@ -613,5 +613,10 @@
 1.6.70		2026-05-05T18:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.70/version-catalog-1.6.70.jar returned status 404
 1.6.71		2026-05-06T19:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.71/version-catalog-1.6.71.jar returned status 404
 1.6.72		2026-05-07T19:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.72/version-catalog-1.6.72.jar returned status 404
+1.6.73		2026-05-13T18:50:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.73/version-catalog-1.6.73.jar returned status 404
+1.6.74		2026-05-14T18:47:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.74/version-catalog-1.6.74.jar returned status 404
+1.6.75		2026-05-15T18:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.75/version-catalog-1.6.75.jar returned status 404
+1.6.76		2026-05-18T18:59:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.76/version-catalog-1.6.76.jar returned status 404
+1.6.77		2026-05-19T18:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.77/version-catalog-1.6.77.jar returned status 404
 1.6.8		2026-02-02T19:37:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.8/version-catalog-1.6.8.jar returned status 404
 1.6.9		2026-02-03T19:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.9/version-catalog-1.6.9.jar returned status 404

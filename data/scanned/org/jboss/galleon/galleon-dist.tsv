@@ -11,3 +11,4 @@
 7.0.5.Final		2026-04-10T22:15:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/galleon/galleon-dist/7.0.5.Final/galleon-dist-7.0.5.Final.jar returned status 404
 7.0.6.Final		2026-05-12T22:15:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/galleon/galleon-dist/7.0.6.Final/galleon-dist-7.0.6.Final.jar returned status 404
 7.0.7.Final		2026-05-13T22:15:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/galleon/galleon-dist/7.0.7.Final/galleon-dist-7.0.7.Final.jar returned status 404
+7.0.8.Final		2026-05-27T22:15:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/galleon/galleon-dist/7.0.8.Final/galleon-dist-7.0.8.Final.jar returned status 404

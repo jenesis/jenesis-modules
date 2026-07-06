@@ -7,3 +7,4 @@
 26.0.0.1		2026-01-21T14:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/open_liberty_schema_de/26.0.0.1/open_liberty_schema_de-26.0.0.1.jar returned status 404
 26.0.0.3		2026-03-24T12:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/open_liberty_schema_de/26.0.0.3/open_liberty_schema_de-26.0.0.3.jar returned status 404
 26.0.0.4		2026-04-20T15:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/open_liberty_schema_de/26.0.0.4/open_liberty_schema_de-26.0.0.4.jar returned status 404
+26.0.0.5		2026-05-13T20:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/open_liberty_schema_de/26.0.0.5/open_liberty_schema_de-26.0.0.5.jar returned status 404

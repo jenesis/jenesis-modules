@@ -14,6 +14,7 @@
 4.18.0		2026-02-13T12:16:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.18.0/polyglot-wrapper-4.18.0.jar returned status 404
 4.19.0		2026-03-24T15:24:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.19.0/polyglot-wrapper-4.19.0.jar returned status 404
 4.20.0		2026-04-24T10:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.20.0/polyglot-wrapper-4.20.0.jar returned status 404
+4.21.0		2026-05-18T18:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.21.0/polyglot-wrapper-4.21.0.jar returned status 404
 4.7.0		2025-06-30T08:08:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.7.0/polyglot-wrapper-4.7.0.jar returned status 404
 4.8.0		2025-07-29T10:00:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.8.0/polyglot-wrapper-4.8.0.jar returned status 404
 4.9.0		2025-08-08T12:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/polyglot-wrapper/4.9.0/polyglot-wrapper-4.9.0.jar returned status 404

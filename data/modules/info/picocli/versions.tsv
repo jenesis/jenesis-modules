@@ -918,6 +918,7 @@
 0.6.5	named	io.github.rygel	fragments-cli	2026-05-03T16:12:00Z	4.7.7
 15.0.15	named	org.primefaces	primefaces-cli	2026-05-05T15:34:53Z	4.7.6
 4.0.0-alpha-1	named	org.apache.tika	tika-parser-nlp-package	2026-05-09T22:30:31Z	4.7.7
+7.7.0	named	io.fabric8	java-generator-cli	2026-05-12T10:35:52Z	4.7.7
 1.0.0	named	ws.idle	antlr-format-cli	2026-05-14T06:29:04Z	4.7.6
 1.0.1	named	ws.idle	antlr-format-cli	2026-05-14T07:09:57Z	4.7.6
 1.0.2	named	ws.idle	antlr-format-cli	2026-05-14T16:49:04Z	4.7.6
@@ -927,6 +928,8 @@
 26.6.2	named	org.keycloak	keycloak-admin-cli	2026-05-19T12:17:54Z	4.7.7
 3.3.1	named	org.apache.tika	tika-parser-nlp-package	2026-05-20T20:17:44Z	4.7.7
 1.0.3	named	com.muquit.libgpw	libgpw	2026-05-25T02:55:14Z	4.7.7
+1.7.5-nge2	named	org.ngengine.chicory	build-time-compiler-cli-experimental	2026-05-26T22:00:13Z	4.7.7
+1.7.5-nge2	named	org.ngengine.chicory	cli-experimental	2026-05-26T22:00:13Z	4.7.7
 14.0.16-LTS	named	org.primefaces	primefaces-cli	2026-05-29T15:58:52Z	4.7.5
 12.0.15-LTS	named	org.primefaces	primefaces-cli	2026-05-29T17:13:21Z	
 11.0.22-LTS	named	org.primefaces	primefaces-cli	2026-05-29T17:18:32Z	

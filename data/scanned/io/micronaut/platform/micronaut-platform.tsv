@@ -25,6 +25,7 @@
 4.10.11		2026-04-01T09:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.11/micronaut-platform-4.10.11.jar returned status 404
 4.10.12		2026-04-17T16:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.12/micronaut-platform-4.10.12.jar returned status 404
 4.10.13		2026-04-28T12:44:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.13/micronaut-platform-4.10.13.jar returned status 404
+4.10.14		2026-05-12T10:46:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.14/micronaut-platform-4.10.14.jar returned status 404
 4.10.2		2025-11-13T15:32:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.2/micronaut-platform-4.10.2.jar returned status 404
 4.10.3		2025-12-01T20:50:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.3/micronaut-platform-4.10.3.jar returned status 404
 4.10.4		2025-12-12T09:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.10.4/micronaut-platform-4.10.4.jar returned status 404
@@ -73,6 +74,8 @@
 4.9.2		2025-07-31T11:50:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.9.2/micronaut-platform-4.9.2.jar returned status 404
 4.9.3		2025-08-26T13:34:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.9.3/micronaut-platform-4.9.3.jar returned status 404
 4.9.4		2025-10-03T08:32:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/4.9.4/micronaut-platform-4.9.4.jar returned status 404
+5.0.0		2026-05-20T10:42:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/5.0.0/micronaut-platform-5.0.0.jar returned status 404
 5.0.0-M1		2026-04-06T06:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/5.0.0-M1/micronaut-platform-5.0.0-M1.jar returned status 404
 5.0.0-M2		2026-04-21T09:47:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/5.0.0-M2/micronaut-platform-5.0.0-M2.jar returned status 404
 5.0.0-M3		2026-05-03T19:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/5.0.0-M3/micronaut-platform-5.0.0-M3.jar returned status 404
+5.0.0-RC1		2026-05-11T21:44:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-platform/5.0.0-RC1/micronaut-platform-5.0.0-RC1.jar returned status 404

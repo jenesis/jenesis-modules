@@ -8,3 +8,4 @@
 0.5.7		2025-03-26T19:56:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudshiftdev/maven-sync/maven-sync/0.5.7/maven-sync-0.5.7.jar returned status 404
 0.5.8		2025-03-26T20:30:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudshiftdev/maven-sync/maven-sync/0.5.8/maven-sync-0.5.8.jar returned status 404
 0.5.9		2025-03-26T20:38:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudshiftdev/maven-sync/maven-sync/0.5.9/maven-sync-0.5.9.jar returned status 404
+0.6.0		2026-05-12T16:35:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudshiftdev/maven-sync/maven-sync/0.6.0/maven-sync-0.6.0.jar returned status 404

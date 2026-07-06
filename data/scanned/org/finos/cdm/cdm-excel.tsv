@@ -11,6 +11,7 @@
 5.35.0		2026-04-14T10:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/5.35.0/cdm-excel-5.35.0.jar returned status 404
 5.36.0		2026-04-24T15:09:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/5.36.0/cdm-excel-5.36.0.jar returned status 404
 5.37.0		2026-05-13T09:10:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/5.37.0/cdm-excel-5.37.0.jar returned status 404
+5.38.0		2026-05-27T13:23:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/5.38.0/cdm-excel-5.38.0.jar returned status 404
 6.10.0		2025-10-16T09:18:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.10.0/cdm-excel-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:50:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.11.0/cdm-excel-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:10:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.12.0/cdm-excel-6.12.0.jar returned status 404
@@ -22,6 +23,10 @@
 6.18.0		2026-04-17T13:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.18.0/cdm-excel-6.18.0.jar returned status 404
 6.19.0		2026-05-01T10:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.19.0/cdm-excel-6.19.0.jar returned status 404
 6.20.0		2026-05-15T13:35:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.20.0/cdm-excel-6.20.0.jar returned status 404
+6.20.1		2026-05-19T11:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.20.1/cdm-excel-6.20.1.jar returned status 404
+6.20.3		2026-05-20T09:09:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.20.3/cdm-excel-6.20.3.jar returned status 404
+6.20.5		2026-05-21T11:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.20.5/cdm-excel-6.20.5.jar returned status 404
+6.20.6		2026-05-21T16:48:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.20.6/cdm-excel-6.20.6.jar returned status 404
 6.8.1		2025-08-04T19:23:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.8.1/cdm-excel-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:29:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/6.9.0/cdm-excel-6.9.0.jar returned status 404
 7.0.0-dev.100		2026-04-20T13:00:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.100/cdm-excel-7.0.0-dev.100.jar returned status 404
@@ -31,6 +36,10 @@
 7.0.0-dev.104		2026-05-07T08:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.104/cdm-excel-7.0.0-dev.104.jar returned status 404
 7.0.0-dev.105		2026-05-12T21:30:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.105/cdm-excel-7.0.0-dev.105.jar returned status 404
 7.0.0-dev.106		2026-05-15T13:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.106/cdm-excel-7.0.0-dev.106.jar returned status 404
+7.0.0-dev.107		2026-05-21T11:38:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.107/cdm-excel-7.0.0-dev.107.jar returned status 404
+7.0.0-dev.108		2026-05-22T12:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.108/cdm-excel-7.0.0-dev.108.jar returned status 404
+7.0.0-dev.109		2026-05-26T08:54:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.109/cdm-excel-7.0.0-dev.109.jar returned status 404
+7.0.0-dev.110		2026-05-27T10:58:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.110/cdm-excel-7.0.0-dev.110.jar returned status 404
 7.0.0-dev.26		2025-07-11T10:20:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.26/cdm-excel-7.0.0-dev.26.jar returned status 404
 7.0.0-dev.27		2025-07-14T08:55:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.27/cdm-excel-7.0.0-dev.27.jar returned status 404
 7.0.0-dev.28		2025-07-14T13:00:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-excel/7.0.0-dev.28/cdm-excel-7.0.0-dev.28.jar returned status 404

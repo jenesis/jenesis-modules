@@ -2269,6 +2269,8 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 0.4.6	named	com.tidbcloud	lake-jdbc	2026-05-26T07:04:01Z	
 2.3.5-beta.10	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-27T01:51:58Z	
 2.3.5-beta.10	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-27T01:51:58Z	
+2.4.0-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2026-05-27T10:22:20Z	
+2.4.0-RC2	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-05-27T10:22:22Z	
 2.3.5-beta.11	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-05-27T11:21:25Z	
 2.3.5-beta.11	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-05-27T11:21:25Z	
 2.0.0	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-05-27T16:00:27Z	
