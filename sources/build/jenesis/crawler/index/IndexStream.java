@@ -30,6 +30,11 @@ public final class IndexStream implements AutoCloseable {
     private final AtomicLong recordsProduced;
     private volatile Thread producer;
 
+    // Raw (pre-filter) record position of the most recent emission on the current index
+    // stream. Producer-thread only; reset per index URI. Retries resume by this position -
+    // see streamRecords for why a count of filter-passing records must not be used.
+    private long lastEmittedRecordSeen;
+
     public IndexStream(Fetcher fetcher, Predicate<Coordinate> filter, LongConsumer onProgressTick) {
         this.queue = new ArrayBlockingQueue<>(DEFAULT_QUEUE_CAPACITY);
         this.fetcher = Objects.requireNonNull(fetcher, "fetcher");
@@ -79,6 +84,7 @@ public final class IndexStream implements AutoCloseable {
     }
 
     private void streamIndex(URI uri) throws IOException, InterruptedException {
+        lastEmittedRecordSeen = 0L;
         boolean rangeSupported = fetcher.probeRangeSupport(uri);
         OptionalLong totalBytes = fetcher.probeContentLength(uri);
         System.out.println("[discovery] Index source " + uri + " HTTP Range support: "
@@ -97,10 +103,10 @@ public final class IndexStream implements AutoCloseable {
         long backoffMillis = DEFAULT_INITIAL_BACKOFF.toMillis();
         int consecutiveFailures = 0;
         while (consecutiveFailures < DEFAULT_STREAM_ATTEMPTS) {
-            long skipTarget = recordsProduced.get();
+            long resumeAfter = lastEmittedRecordSeen;
             long beforeAttempt = recordsProduced.get();
             try {
-                streamIndexOnce(uri, skipTarget);
+                streamIndexOnce(uri, resumeAfter);
                 return;
             } catch (IOException e) {
                 lastError = e;
@@ -130,21 +136,20 @@ public final class IndexStream implements AutoCloseable {
         throw lastError;
     }
 
-    private void streamIndexOnce(URI uri, long skipTarget) throws IOException, InterruptedException {
+    private void streamIndexOnce(URI uri, long resumeAfter) throws IOException, InterruptedException {
         OptionalLong totalBytes = fetcher.probeContentLength(uri);
         try (InputStream raw = fetcher.get(uri);
              CountingInputStream counted = new CountingInputStream(raw);
              GZIPInputStream gzipped = new GZIPInputStream(counted);
              IndexReader reader = new IndexReader(gzipped)) {
-            streamRecords(reader, skipTarget, counted, totalBytes);
+            streamRecords(reader, resumeAfter, counted, totalBytes);
         }
     }
 
     private void streamRecords(IndexReader reader,
-                               long skipTarget,
+                               long resumeAfter,
                                CountingInputStream counted,
                                OptionalLong totalBytes) throws IOException, InterruptedException {
-        long passed = 0L;
         long recordsSeen = 0L;
         long unparseable = 0L;
         long filtered = 0L;
@@ -168,6 +173,14 @@ public final class IndexStream implements AutoCloseable {
                         + " rate=" + rate + "/s elapsed=" + elapsedSeconds + "s"
                         + byteProgress(counted.bytesRead(), totalBytes));
             }
+            // Resume by raw stream position, never by a count of filter-passing records:
+            // the filter includes the scanned store, which the consumer grows while this
+            // producer streams, so replaying a passed-count against the mutated filter
+            // slides the skip window past records that were never emitted and drops them.
+            if (recordsSeen <= resumeAfter) {
+                behind++;
+                continue;
+            }
             Optional<Coordinate> coordinate = Coordinate.from(record);
             if (coordinate.isEmpty()) {
                 unparseable++;
@@ -178,14 +191,9 @@ public final class IndexStream implements AutoCloseable {
                 filtered++;
                 continue;
             }
-            if (passed < skipTarget) {
-                behind++;
-                passed++;
-                continue;
-            }
             long sequence = recordsProduced.incrementAndGet();
             queue.put(new QueueItem(candidate, sequence));
-            passed++;
+            lastEmittedRecordSeen = recordsSeen;
         }
     }
 
