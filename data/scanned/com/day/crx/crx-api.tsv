@@ -197,7 +197,10 @@
 2.2.0.85		2020-10-28T13:24:36Z	
 2.2.0.86		2020-10-28T14:12:54Z	
 2.2.0.9		2020-10-28T15:09:05Z	
+2.3.0-alpha1		2020-10-28T13:41:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.0-alpha1/crx-api-2.3.0-alpha1.jar returned status 404
 2.3.0-load1		2020-10-28T14:32:41Z	
+2.3.0-load12		2020-10-28T14:04:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.0-load12/crx-api-2.3.0-load12.jar returned status 404
+2.3.0-load13		2020-10-28T13:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.0-load13/crx-api-2.3.0-load13.jar returned status 404
 2.3.0-load2		2020-10-28T13:47:18Z	
 2.3.0-load3		2020-10-28T13:50:04Z	
 2.3.0-load4		2020-10-28T13:49:35Z	
@@ -207,3 +210,68 @@
 2.3.0-load8		2020-10-28T14:28:49Z	
 2.3.0-load8a		2020-10-28T14:58:37Z	
 2.3.0-load9		2020-10-28T14:35:30Z	
+2.3.1		2020-10-28T13:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.1/crx-api-2.3.1.jar returned status 404
+2.3.10		2020-10-28T13:37:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.10/crx-api-2.3.10.jar returned status 404
+2.3.11		2020-10-28T13:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.11/crx-api-2.3.11.jar returned status 404
+2.3.12		2020-10-28T14:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.12/crx-api-2.3.12.jar returned status 404
+2.3.13		2020-10-28T14:14:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.13/crx-api-2.3.13.jar returned status 404
+2.3.14		2020-10-28T14:15:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.14/crx-api-2.3.14.jar returned status 404
+2.3.15		2020-10-28T14:10:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.15/crx-api-2.3.15.jar returned status 404
+2.3.16		2020-10-28T13:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.16/crx-api-2.3.16.jar returned status 404
+2.3.17		2020-10-28T13:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.17/crx-api-2.3.17.jar returned status 404
+2.3.18		2020-10-28T13:29:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.18/crx-api-2.3.18.jar returned status 404
+2.3.19		2020-10-28T13:38:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.19/crx-api-2.3.19.jar returned status 404
+2.3.2		2020-10-28T14:20:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.2/crx-api-2.3.2.jar returned status 404
+2.3.20		2020-10-28T13:27:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.20/crx-api-2.3.20.jar returned status 404
+2.3.21		2020-10-28T13:39:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.21/crx-api-2.3.21.jar returned status 404
+2.3.22		2020-10-28T14:16:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.22/crx-api-2.3.22.jar returned status 404
+2.3.23		2020-10-28T14:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.23/crx-api-2.3.23.jar returned status 404
+2.3.24		2020-10-28T14:08:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.24/crx-api-2.3.24.jar returned status 404
+2.3.26		2020-10-28T13:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.26/crx-api-2.3.26.jar returned status 404
+2.3.27		2020-10-28T13:28:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.27/crx-api-2.3.27.jar returned status 404
+2.3.28		2020-10-28T13:37:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.28/crx-api-2.3.28.jar returned status 404
+2.3.3		2020-10-28T14:24:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.3/crx-api-2.3.3.jar returned status 404
+2.3.30		2020-10-28T15:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.30/crx-api-2.3.30.jar returned status 404
+2.3.32		2020-10-28T13:55:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.32/crx-api-2.3.32.jar returned status 404
+2.3.35		2020-10-28T13:57:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.35/crx-api-2.3.35.jar returned status 404
+2.3.36		2020-10-28T15:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.36/crx-api-2.3.36.jar returned status 404
+2.3.38		2020-10-28T14:56:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.38/crx-api-2.3.38.jar returned status 404
+2.3.4		2020-10-28T14:24:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.4/crx-api-2.3.4.jar returned status 404
+2.3.40		2020-10-28T14:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.40/crx-api-2.3.40.jar returned status 404
+2.3.42		2020-10-28T13:25:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.42/crx-api-2.3.42.jar returned status 404
+2.3.44		2020-10-28T13:35:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.44/crx-api-2.3.44.jar returned status 404
+2.3.45		2020-10-28T13:25:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.45/crx-api-2.3.45.jar returned status 404
+2.3.46		2020-10-28T14:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.46/crx-api-2.3.46.jar returned status 404
+2.3.47		2020-10-28T14:20:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.47/crx-api-2.3.47.jar returned status 404
+2.3.48		2020-10-28T14:13:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.48/crx-api-2.3.48.jar returned status 404
+2.3.49		2020-10-28T14:19:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.49/crx-api-2.3.49.jar returned status 404
+2.3.5		2020-10-28T14:21:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.5/crx-api-2.3.5.jar returned status 404
+2.3.50		2020-10-28T13:59:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.50/crx-api-2.3.50.jar returned status 404
+2.3.52		2020-10-28T15:02:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.52/crx-api-2.3.52.jar returned status 404
+2.3.54		2020-10-28T14:51:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.54/crx-api-2.3.54.jar returned status 404
+2.3.56		2020-10-28T14:05:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.56/crx-api-2.3.56.jar returned status 404
+2.3.6		2020-10-28T13:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.6/crx-api-2.3.6.jar returned status 404
+2.3.60		2020-10-28T14:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.60/crx-api-2.3.60.jar returned status 404
+2.3.64		2020-10-28T15:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.64/crx-api-2.3.64.jar returned status 404
+2.3.7		2020-10-28T13:44:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.7/crx-api-2.3.7.jar returned status 404
+2.3.8		2020-10-28T13:43:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.8/crx-api-2.3.8.jar returned status 404
+2.3.9		2020-10-28T13:44:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.3.9/crx-api-2.3.9.jar returned status 404
+2.4.11		2020-10-28T15:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.11/crx-api-2.4.11.jar returned status 404
+2.4.13		2020-10-28T13:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.13/crx-api-2.4.13.jar returned status 404
+2.4.13.1		2020-10-28T13:49:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.13.1/crx-api-2.4.13.1.jar returned status 404
+2.4.13.2		2020-10-28T14:34:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.13.2/crx-api-2.4.13.2.jar returned status 404
+2.4.13.3		2020-10-28T14:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.13.3/crx-api-2.4.13.3.jar returned status 404
+2.4.20		2020-10-28T15:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.20/crx-api-2.4.20.jar returned status 404
+2.4.21		2020-10-28T15:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.21/crx-api-2.4.21.jar returned status 404
+2.4.22		2020-10-28T13:58:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.22/crx-api-2.4.22.jar returned status 404
+2.4.23		2020-10-28T14:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.23/crx-api-2.4.23.jar returned status 404
+2.4.24		2020-10-28T14:02:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.24/crx-api-2.4.24.jar returned status 404
+2.4.24.1		2020-10-28T14:53:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.24.1/crx-api-2.4.24.1.jar returned status 404
+2.4.26		2020-10-28T15:01:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.26/crx-api-2.4.26.jar returned status 404
+2.4.28		2020-10-28T14:59:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.28/crx-api-2.4.28.jar returned status 404
+2.4.30		2020-10-28T13:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.30/crx-api-2.4.30.jar returned status 404
+2.4.32		2020-10-28T14:16:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.4.32/crx-api-2.4.32.jar returned status 404
+2.5.0		2020-10-28T14:22:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.5.0/crx-api-2.5.0.jar returned status 404
+2.5.20		2020-10-28T14:31:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.5.20/crx-api-2.5.20.jar returned status 404
+2.6.6		2020-10-28T15:04:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.6.6/crx-api-2.6.6.jar returned status 404
+2.6.8		2020-10-28T15:05:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-api/2.6.8/crx-api-2.6.8.jar returned status 404

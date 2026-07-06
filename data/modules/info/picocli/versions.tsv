@@ -660,6 +660,7 @@
 14.0.0	named	org.primefaces	primefaces-cli	2024-05-01T18:03:51Z	4.7.5
 13.0.10	named	org.primefaces	primefaces-cli	2024-05-04T12:39:46Z	4.7.4
 4.7.6	named	info.picocli	picocli	2024-05-07T22:17:57Z	4.7.6
+0.0.10	named	com.dylibso.chicory	cli	2024-05-09T10:48:00Z	4.7.6
 0.0.2	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T07:37:00Z	4.7.5
 0.0.3	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T07:41:24Z	4.7.5
 0.0.4	named	io.railflow.demo.cli	railflow-demo-cli	2024-05-13T08:29:14Z	4.7.5
@@ -686,6 +687,7 @@
 1.3.11	named	technology.dice.open	dice-where-downloader	2024-07-12T09:47:50Z	
 3.0.0-BETA2	named	org.apache.tika	tika-parser-nlp-package	2024-07-12T15:02:35Z	4.7.5
 1.0.53	named	cn.ibizlab.plugin	ibizlab-generator-document-groovy	2024-07-15T06:52:38Z	
+0.0.11	named	com.dylibso.chicory	cli	2024-07-17T18:55:07Z	4.7.6
 25.0.2	named	org.keycloak	keycloak-admin-cli	2024-07-18T07:00:40Z	4.7.5
 0.0.12	named	com.dylibso.chicory	cli	2024-07-19T15:11:05Z	4.7.6
 1.0.63	named	net.neoforged.jst	jst-cli-bundle	2024-07-25T09:19:17Z	4.7.6
@@ -774,6 +776,7 @@
 26.1.3	named	org.keycloak	keycloak-admin-cli	2025-02-28T09:58:12Z	4.7.6
 0.8.5	named	io.etcd	jetcd-ctl	2025-03-03T10:10:54Z	4.7.6
 1.1.1	named	com.dylibso.chicory	cli-experimental	2025-03-06T11:34:30Z	4.7.6
+1.1.1	named	com.dylibso.chicory	aot-build-time-cli-experimental	2025-03-06T11:34:39Z	4.7.6
 0.0.10	named	com.yelloowstone.nf2t	setup-project	2025-03-09T22:36:35Z	4.7.6
 15.0.1	named	org.primefaces	primefaces-cli	2025-03-12T17:23:27Z	4.7.6
 26.1.4	named	org.keycloak	keycloak-admin-cli	2025-03-13T15:34:51Z	4.7.6
@@ -784,11 +787,13 @@
 15.0.3	named	org.primefaces	primefaces-cli	2025-03-28T16:34:45Z	4.7.6
 1.0.19	named	cn.ibizlab.plugin	ibizlab-generator-groovy	2025-03-31T08:42:58Z	
 1.2.0	named	com.dylibso.chicory	cli-experimental	2025-03-31T11:06:58Z	4.7.6
+1.2.0	named	com.dylibso.chicory	aot-build-time-cli-experimental	2025-03-31T11:06:59Z	4.7.6
 0.1.0-alpha.19	named	dev.lukebemish.crochet	tools	2025-04-01T00:08:23Z	4.7.6
 1.0.19	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T03:15:37Z	
 1.0.20	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T07:59:17Z	
 1.0.21	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T08:21:16Z	
 1.0.22	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-01T10:36:19Z	
+1.2.1	named	com.dylibso.chicory	aot-build-time-cli-experimental	2025-04-01T10:40:38Z	4.7.6
 1.2.1	named	com.dylibso.chicory	cli-experimental	2025-04-01T10:40:46Z	4.7.6
 1.0.23	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-02T02:54:30Z	
 1.0.24	named	cn.ibizlab.plugin	ibizlab-generator-debug	2025-04-02T03:18:15Z	
@@ -804,6 +809,7 @@
 4.7.7	named	info.picocli	picocli	2025-04-19T00:37:36Z	4.7.7
 26.2.1	named	org.keycloak	keycloak-admin-cli	2025-04-23T12:11:19Z	4.7.6
 1.0.71	named	net.neoforged.jst	jst-cli-bundle	2025-04-26T14:55:28Z	4.7.6
+1.3.0	named	com.dylibso.chicory	aot-build-time-cli-experimental	2025-04-29T15:44:25Z	4.7.7
 1.3.0	named	com.dylibso.chicory	cli-experimental	2025-04-29T15:44:47Z	4.7.7
 26.2.2	named	org.keycloak	keycloak-admin-cli	2025-04-30T06:03:21Z	4.7.6
 1.0.72	named	net.neoforged.jst	jst-cli-bundle	2025-05-02T10:12:24Z	4.7.6
@@ -814,6 +820,7 @@
 1.3.14	named	technology.dice.open	dice-where-downloader	2025-05-12T15:19:34Z	
 3.2.0	named	org.apache.tika	tika-parser-nlp-package	2025-05-21T20:18:39Z	4.7.6
 26.2.5	named	org.keycloak	keycloak-admin-cli	2025-05-28T06:43:35Z	4.7.6
+1.4.0	named	com.dylibso.chicory	build-time-compiler-cli-experimental	2025-05-30T14:30:03Z	4.7.7
 1.4.0	named	com.dylibso.chicory	cli-experimental	2025-05-30T14:30:22Z	4.7.7
 15.0.5	named	org.primefaces	primefaces-cli	2025-06-13T19:07:04Z	4.7.6
 3.0.5	named	com.instaclustr	esop	2025-06-16T09:33:33Z	4.7.1

@@ -1,0 +1,3 @@
+2.0.0		2020-10-29T05:53:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-scm-integration/2.0.0/crx-scm-integration-2.0.0.jar returned status 404
+2.2.0		2020-10-29T05:53:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-scm-integration/2.2.0/crx-scm-integration-2.2.0.jar returned status 404
+2.3.11		2020-10-29T05:52:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/day/crx/crx-scm-integration/2.3.11/crx-scm-integration-2.3.11.jar returned status 404
