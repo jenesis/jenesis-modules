@@ -30,6 +30,9 @@
 0.12.9		2019-06-18T17:06:31Z	
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.3/atomicfu-maven-plugin-0.14.3.jar returned status 404
 0.14.3-1.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-maven-plugin/0.14.3-1.4-M1/atomicfu-maven-plugin-0.14.3-1.4-M1.jar returned status 404
+0.14.3-1.4.0-rc		2023-05-12T22:37:18Z	
+0.14.4		2023-05-12T22:37:15Z	
+0.15.0		2023-05-12T22:37:22Z	
 0.15.1		2020-12-30T23:35:26Z	
 0.15.2		2021-03-19T13:02:55Z	
 0.16.1		2021-04-26T14:40:30Z	

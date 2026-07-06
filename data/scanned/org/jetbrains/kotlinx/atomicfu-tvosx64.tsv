@@ -2,8 +2,11 @@
 0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.14.2/atomicfu-tvosx64-0.14.2.jar returned status 404
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.14.3/atomicfu-tvosx64-0.14.3.jar returned status 404
 0.14.3-1.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.14.3-1.4-M1/atomicfu-tvosx64-0.14.3-1.4-M1.jar returned status 404
+0.14.3-1.4.0-rc		2023-05-12T22:23:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.14.3-1.4.0-rc/atomicfu-tvosx64-0.14.3-1.4.0-rc.jar returned status 404
 0.14.3-1.4.0-rc	metadata	2020-07-24T17:01:31Z	
+0.14.4		2023-05-12T22:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.14.4/atomicfu-tvosx64-0.14.4.jar returned status 404
 0.14.4	metadata	2020-08-14T10:48:27Z	
+0.15.0		2023-05-12T22:23:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.15.0/atomicfu-tvosx64-0.15.0.jar returned status 404
 0.15.0	metadata	2020-12-04T15:12:13Z	
 0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/atomicfu-tvosx64/0.15.1/atomicfu-tvosx64-0.15.1.jar returned status 404
 0.15.1	metadata	2020-12-30T23:29:46Z	
