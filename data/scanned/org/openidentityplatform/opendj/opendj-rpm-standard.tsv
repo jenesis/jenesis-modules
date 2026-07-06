@@ -1,0 +1,5 @@
+4.10.0		2025-07-15T14:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-rpm-standard/4.10.0/opendj-rpm-standard-4.10.0.jar returned status 404
+4.10.1		2025-08-05T16:47:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-rpm-standard/4.10.1/opendj-rpm-standard-4.10.1.jar returned status 404
+4.10.2		2025-09-04T15:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-rpm-standard/4.10.2/opendj-rpm-standard-4.10.2.jar returned status 404
+5.0.1		2025-11-08T19:43:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-rpm-standard/5.0.1/opendj-rpm-standard-5.0.1.jar returned status 404
+5.0.2		2025-11-25T08:39:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-rpm-standard/5.0.2/opendj-rpm-standard-5.0.2.jar returned status 404

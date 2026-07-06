@@ -1,3 +1,5 @@
+10.0.0		2025-06-05T07:27:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/the-wab-itself/10.0.0/the-wab-itself-10.0.0.jar returned status 404
+10.0.1		2025-07-30T08:06:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/the-wab-itself/10.0.1/the-wab-itself-10.0.1.jar returned status 404
 11.0.0		2025-06-05T07:57:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/the-wab-itself/11.0.0/the-wab-itself-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/the-wab-itself/11.0.1/the-wab-itself-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/the-wab-itself/11.1.0/the-wab-itself-11.1.0.jar returned status 404

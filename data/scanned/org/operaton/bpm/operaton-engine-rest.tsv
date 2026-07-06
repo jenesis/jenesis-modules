@@ -1,11 +1,20 @@
+1.0.0		2025-11-07T10:22:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0/operaton-engine-rest-1.0.0.jar returned status 404
 1.0.0	classes	2025-11-07T10:22:12Z	
+1.0.0-beta-1		2024-10-16T12:34:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-beta-1/operaton-engine-rest-1.0.0-beta-1.jar returned status 404
 1.0.0-beta-1	classes	2024-10-16T12:34:44Z	
+1.0.0-beta-2		2024-12-03T13:03:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-beta-2/operaton-engine-rest-1.0.0-beta-2.jar returned status 404
 1.0.0-beta-2	classes	2024-12-03T13:03:30Z	
+1.0.0-beta-3		2025-01-31T11:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-beta-3/operaton-engine-rest-1.0.0-beta-3.jar returned status 404
 1.0.0-beta-3	classes	2025-01-31T11:46:26Z	
+1.0.0-beta-4		2025-05-07T21:01:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-beta-4/operaton-engine-rest-1.0.0-beta-4.jar returned status 404
 1.0.0-beta-4	classes	2025-05-07T21:02:01Z	
+1.0.0-beta-5		2025-08-29T11:38:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-beta-5/operaton-engine-rest-1.0.0-beta-5.jar returned status 404
 1.0.0-beta-5	classes	2025-08-29T11:38:12Z	
+1.0.0-rc-1		2025-10-15T13:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-rc-1/operaton-engine-rest-1.0.0-rc-1.jar returned status 404
 1.0.0-rc-1	classes	2025-10-15T13:11:40Z	
+1.0.0-rc-2		2025-10-31T12:24:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.0-rc-2/operaton-engine-rest-1.0.0-rc-2.jar returned status 404
 1.0.0-rc-2	classes	2025-10-31T12:24:27Z	
+1.0.1		2025-11-28T10:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/operaton-engine-rest/1.0.1/operaton-engine-rest-1.0.1.jar returned status 404
 1.0.1	classes	2025-11-28T10:50:52Z	
 1.0.2	classes	2025-12-19T11:22:25Z	
 1.0.3	classes	2026-01-23T10:23:30Z	
