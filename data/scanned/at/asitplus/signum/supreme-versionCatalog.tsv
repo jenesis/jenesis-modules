@@ -10,6 +10,7 @@
 0.12.1		2026-04-10T06:00:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.12.1/supreme-versionCatalog-0.12.1.jar returned status 404
 0.13.0		2026-04-13T20:13:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.13.0/supreme-versionCatalog-0.13.0.jar returned status 404
 0.14.0		2026-06-18T15:50:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.14.0/supreme-versionCatalog-0.14.0.jar returned status 404
+0.15.0		2026-06-23T18:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.15.0/supreme-versionCatalog-0.15.0.jar returned status 404
 0.2.0		2024-09-04T22:20:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.2.0/supreme-versionCatalog-0.2.0.jar returned status 404
 0.3.0		2024-09-20T13:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.3.0/supreme-versionCatalog-0.3.0.jar returned status 404
 0.3.1		2024-09-21T06:49:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/supreme-versionCatalog/0.3.1/supreme-versionCatalog-0.3.1.jar returned status 404

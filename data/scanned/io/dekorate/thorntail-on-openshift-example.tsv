@@ -11,4 +11,5 @@
 4.1.6	thorntail	2025-09-19T13:41:33Z	
 4.1.7		2025-10-12T15:08:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/thorntail-on-openshift-example/4.1.7/thorntail-on-openshift-example-4.1.7.jar returned status 404
 4.1.7	thorntail	2025-10-12T15:08:26Z	
+4.1.8		2026-06-23T07:55:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/thorntail-on-openshift-example/4.1.8/thorntail-on-openshift-example-4.1.8.jar returned status 404
 4.1.8	thorntail	2026-06-23T07:55:54Z	

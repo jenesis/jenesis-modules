@@ -161,6 +161,8 @@
 1.261.0		2026-06-07T23:58:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.261.0/go-init-1.261.0.jar returned status 404
 1.262.0		2026-06-12T00:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.262.0/go-init-1.262.0.jar returned status 404
 1.263.0		2026-06-16T00:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.263.0/go-init-1.263.0.jar returned status 404
+1.264.0		2026-06-20T01:13:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.264.0/go-init-1.264.0.jar returned status 404
+1.265.0		2026-06-24T01:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.265.0/go-init-1.265.0.jar returned status 404
 1.27.0		2022-07-18T02:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.27.0/go-init-1.27.0.jar returned status 404
 1.28.0		2022-07-22T08:34:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.28.0/go-init-1.28.0.jar returned status 404
 1.29.0		2022-07-22T12:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/launching/go-init/1.29.0/go-init-1.29.0.jar returned status 404

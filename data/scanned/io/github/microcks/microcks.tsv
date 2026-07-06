@@ -21,3 +21,4 @@
 1.14.0		2026-04-29T08:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks/1.14.0/microcks-1.14.0.jar returned status 404
 1.14.0-rc1		2026-03-27T13:47:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks/1.14.0-rc1/microcks-1.14.0-rc1.jar returned status 404
 1.14.0-rc2		2026-03-31T12:53:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks/1.14.0-rc2/microcks-1.14.0-rc2.jar returned status 404
+1.15.0-rc1		2026-06-22T11:32:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks/1.15.0-rc1/microcks-1.15.0-rc1.jar returned status 404

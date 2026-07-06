@@ -2,4 +2,5 @@
 4.1.6	thorntail	2025-09-19T13:41:35Z	
 4.1.7		2025-10-12T15:08:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/feat-347-thorntail-annotationless/4.1.7/feat-347-thorntail-annotationless-4.1.7.jar returned status 404
 4.1.7	thorntail	2025-10-12T15:08:23Z	
+4.1.8		2026-06-23T07:55:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/feat-347-thorntail-annotationless/4.1.8/feat-347-thorntail-annotationless-4.1.8.jar returned status 404
 4.1.8	thorntail	2026-06-23T07:55:50Z	
