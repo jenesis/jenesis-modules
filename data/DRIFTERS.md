@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -451,7 +451,7 @@ org.eclipse.jetty.security  [fork: keep `org.eclipse.jetty`, `org.sonatype.nexus
   ?   ch.exense.step                       2026-06..2026-06 3.30.0               |...................=|
   R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................==.|
 jakarta.inject  [fork: keep `jakarta.inject`, `org.openidentityplatform.openig` still publishes the name]
-  A * jakarta.inject                       2020-04..2021-10 2.0.1                |.......====.........|
+  A * jakarta.inject                       2020-04..2021-10 2.0.1                |.......===..........|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
   ?   org.kill-bill.billing                2026-06..2026-06 0.42.0               |...................=|
   R   com.google.gerrit                    2023-10..2026-06 3.13.7               |..............======|
@@ -756,7 +756,7 @@ com.github.javaparser.symbolsolver.core  [fork: keep `com.github.javaparser`, `o
 com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakarta.rs`, `com.inteligr8.activiti` still publishes the name]
   A * com.fasterxml.jackson.jakarta.rs     2021-07..2026-06 2.22.0               |.........===========|
   ?   com.inteligr8.activiti               2026-06..2026-06 1.4.1-aps-v25.3      |...................=|
-  R   ch.exense.step                       2022-10..2026-06 3.29.5               |............========|
+  R   ch.exense.step                       2022-10..2026-06 3.29.5               |...........=========|
   R   org.apache.tika                      2023-12..2026-05 3.3.1                |..............======|
   R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |...................=|
   R   ch.exense.step.library               2023-08..2026-05 1.0.31               |.............=======|
@@ -888,7 +888,7 @@ The dominant owner's groupId with its top-level domain dropped is the module-nam
 
 ```
 roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
-  A * org.roaringbitmap                    2023-09..2026-04 1.6.14               |.............=======|
+  A * org.roaringbitmap                    2023-09..2026-04 1.6.14               |.............======.|
   ?   com.atomgraph.etl.csv                2026-06..2026-06 2.2.0                |...................=|
   R   org.apache.celeborn                  2024-06..2026-04 0.6.3                |...............=====|
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |..............=.....|
@@ -1334,7 +1334,7 @@ info.movito.themoviedbapi  [no clear owner; `com.github.holgerbrandl` is earlies
   ?   uk.co.conoregan                      2023-11..2026-05 2.6.1                |..............======|
 vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recent]
   ? * com.bettercloud                      2019-06..2019-12 5.1.0                |.....==.............|
-  ?   io.github.jopenlibs                  2022-10..2026-05 6.2.2                |............========|
+  ?   io.github.jopenlibs                  2022-10..2026-05 6.2.2                |...........=========|
   ?   io.axual.utilities.config.providers  2020-06..2024-11 1.2.0                |.......==========...|
   ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2                |..........=.........|
 org.apache.commons.cli  [no clear owner; `org.apache.shiro.tools` is earliest and most recent]
