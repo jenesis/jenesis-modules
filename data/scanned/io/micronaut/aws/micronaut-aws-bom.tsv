@@ -124,3 +124,4 @@
 4.7.1		2024-08-22T12:33:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aws/micronaut-aws-bom/4.7.1/micronaut-aws-bom-4.7.1.jar returned status 404
 4.8.0		2024-11-07T14:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aws/micronaut-aws-bom/4.8.0/micronaut-aws-bom-4.8.0.jar returned status 404
 4.9.0		2025-02-17T15:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aws/micronaut-aws-bom/4.9.0/micronaut-aws-bom-4.9.0.jar returned status 404
+5.0.0-M1		2026-02-19T16:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aws/micronaut-aws-bom/5.0.0-M1/micronaut-aws-bom-5.0.0-M1.jar returned status 404

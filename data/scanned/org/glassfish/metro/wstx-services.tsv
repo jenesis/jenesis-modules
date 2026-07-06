@@ -14,3 +14,4 @@
 4.0.0-M3		2023-01-19T19:46:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/wstx-services/4.0.0-M3/wstx-services-4.0.0-M3.jar returned status 404
 4.0.0-M4		2023-01-19T19:46:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/wstx-services/4.0.0-M4/wstx-services-4.0.0-M4.jar returned status 404
 4.0.1		2023-01-19T19:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/wstx-services/4.0.1/wstx-services-4.0.1.jar returned status 404
+4.0.5		2026-01-31T10:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/wstx-services/4.0.5/wstx-services-4.0.5.jar returned status 404

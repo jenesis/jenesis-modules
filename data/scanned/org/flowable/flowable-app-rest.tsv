@@ -1,1 +1,2 @@
 7.2.0		2025-08-21T09:45:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-app-rest/7.2.0/flowable-app-rest-7.2.0.jar returned status 404
+8.0.0		2026-02-27T15:58:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-app-rest/8.0.0/flowable-app-rest-8.0.0.jar returned status 404

@@ -1,3 +1,4 @@
+10.0.0		2026-02-09T17:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/10.0.0/frankframework-bundle-minimal-10.0.0.jar returned status 404
 8.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/8.3.3/frankframework-bundle-minimal-8.3.3.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.0.2/frankframework-bundle-minimal-9.0.2.jar returned status 404
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.0.3/frankframework-bundle-minimal-9.0.3.jar returned status 404
@@ -8,4 +9,6 @@
 9.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.2.2/frankframework-bundle-minimal-9.2.2.jar returned status 404
 9.3.0		2025-10-11T11:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.3.0/frankframework-bundle-minimal-9.3.0.jar returned status 404
 9.3.1		2025-11-10T19:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.3.1/frankframework-bundle-minimal-9.3.1.jar returned status 404
+9.3.2		2026-01-23T15:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.3.2/frankframework-bundle-minimal-9.3.2.jar returned status 404
 9.4.0		2025-12-29T12:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.4.0/frankframework-bundle-minimal-9.4.0.jar returned status 404
+9.4.1		2026-02-05T11:18:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-bundle-minimal/9.4.1/frankframework-bundle-minimal-9.4.1.jar returned status 404

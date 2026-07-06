@@ -18,3 +18,4 @@
 4.5.0		2024-11-05T14:15:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/kotlin/micronaut-kotlin-bom/4.5.0/micronaut-kotlin-bom-4.5.0.jar returned status 404
 4.6.0		2025-03-12T12:37:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/kotlin/micronaut-kotlin-bom/4.6.0/micronaut-kotlin-bom-4.6.0.jar returned status 404
 4.7.0		2025-06-17T08:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/kotlin/micronaut-kotlin-bom/4.7.0/micronaut-kotlin-bom-4.7.0.jar returned status 404
+5.0.0-M1		2026-02-17T15:05:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/kotlin/micronaut-kotlin-bom/5.0.0-M1/micronaut-kotlin-bom-5.0.0-M1.jar returned status 404

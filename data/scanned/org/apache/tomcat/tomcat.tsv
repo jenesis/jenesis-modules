@@ -73,6 +73,7 @@
 10.1.49		2025-11-06T01:39:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.49/tomcat-10.1.49.jar returned status 404
 10.1.5		2023-01-09T20:24:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.5/tomcat-10.1.5.jar returned status 404
 10.1.50		2025-12-02T23:05:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.50/tomcat-10.1.50.jar returned status 404
+10.1.52		2026-01-23T19:38:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.52/tomcat-10.1.52.jar returned status 404
 10.1.6		2023-02-19T14:10:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.6/tomcat-10.1.6.jar returned status 404
 10.1.7		2023-02-27T20:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.7/tomcat-10.1.7.jar returned status 404
 10.1.8		2023-04-14T20:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/10.1.8/tomcat-10.1.8.jar returned status 404
@@ -108,6 +109,7 @@
 11.0.13		2025-10-10T14:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.13/tomcat-11.0.13.jar returned status 404
 11.0.14		2025-11-05T19:31:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.14/tomcat-11.0.14.jar returned status 404
 11.0.15		2025-12-02T18:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.15/tomcat-11.0.15.jar returned status 404
+11.0.18		2026-01-23T11:06:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.18/tomcat-11.0.18.jar returned status 404
 11.0.2		2024-12-05T16:44:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.2/tomcat-11.0.2.jar returned status 404
 11.0.3		2025-02-04T18:13:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.3/tomcat-11.0.3.jar returned status 404
 11.0.4		2025-02-13T11:07:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/11.0.4/tomcat-11.0.4.jar returned status 404
@@ -166,6 +168,7 @@
 9.0.111		2025-10-10T14:21:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.111/tomcat-9.0.111.jar returned status 404
 9.0.112		2025-11-06T07:52:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.112/tomcat-9.0.112.jar returned status 404
 9.0.113		2025-12-02T19:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.113/tomcat-9.0.113.jar returned status 404
+9.0.115		2026-01-21T08:54:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.115/tomcat-9.0.115.jar returned status 404
 9.0.41		2020-12-03T12:54:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.41/tomcat-9.0.41.jar returned status 404
 9.0.43		2021-01-28T20:44:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.43/tomcat-9.0.43.jar returned status 404
 9.0.44		2021-03-04T22:09:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/tomcat/tomcat/9.0.44/tomcat-9.0.44.jar returned status 404

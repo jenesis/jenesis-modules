@@ -10,6 +10,7 @@
 11.1.0	classes	2025-10-31T12:37:04Z	
 11.2.0		2025-12-15T17:32:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kadai/kadai-adapter-camunda-outbox-rest/11.2.0/kadai-adapter-camunda-outbox-rest-11.2.0.jar returned status 404
 11.2.0	classes	2025-12-15T17:32:25Z	
+11.3.0		2026-02-06T13:24:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kadai/kadai-adapter-camunda-outbox-rest/11.3.0/kadai-adapter-camunda-outbox-rest-11.3.0.jar returned status 404
 11.3.0	classes	2026-02-06T13:24:15Z	
 11.3.1	classes	2026-03-06T17:26:14Z	
 11.3.2	classes	2026-04-14T07:58:37Z	
@@ -25,4 +26,5 @@
 9.3.2	classes	2025-07-14T11:43:30Z	
 9.3.3		2025-10-27T08:43:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kadai/kadai-adapter-camunda-outbox-rest/9.3.3/kadai-adapter-camunda-outbox-rest-9.3.3.jar returned status 404
 9.3.3	classes	2025-10-27T08:43:24Z	
+9.3.4		2026-01-27T15:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kadai/kadai-adapter-camunda-outbox-rest/9.3.4/kadai-adapter-camunda-outbox-rest-9.3.4.jar returned status 404
 9.3.4	classes	2026-01-27T15:39:23Z	

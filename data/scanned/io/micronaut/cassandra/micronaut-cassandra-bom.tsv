@@ -19,3 +19,4 @@
 6.5.0		2024-08-20T09:40:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/cassandra/micronaut-cassandra-bom/6.5.0/micronaut-cassandra-bom-6.5.0.jar returned status 404
 6.6.0		2024-11-04T10:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/cassandra/micronaut-cassandra-bom/6.6.0/micronaut-cassandra-bom-6.6.0.jar returned status 404
 6.7.0		2025-02-25T11:33:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/cassandra/micronaut-cassandra-bom/6.7.0/micronaut-cassandra-bom-6.7.0.jar returned status 404
+7.0.0-M1		2026-02-11T13:00:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/cassandra/micronaut-cassandra-bom/7.0.0-M1/micronaut-cassandra-bom-7.0.0-M1.jar returned status 404

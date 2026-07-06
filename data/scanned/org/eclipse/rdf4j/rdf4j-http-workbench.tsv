@@ -45,6 +45,7 @@
 5.3.0	classes	2026-04-17T09:45:41Z	
 5.3.0-M1		2025-12-21T20:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.3.0-M1/rdf4j-http-workbench-5.3.0-M1.jar returned status 404
 5.3.0-M1	classes	2025-12-21T20:17:11Z	
+5.3.0-M2		2026-02-11T21:07:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.3.0-M2/rdf4j-http-workbench-5.3.0-M2.jar returned status 404
 5.3.0-M2	classes	2026-02-11T21:07:10Z	
 5.3.1	classes	2026-04-23T18:48:05Z	
 6.0.0-M1	classes	2026-04-24T11:33:04Z	

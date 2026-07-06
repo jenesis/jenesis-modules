@@ -1,1 +1,2 @@
 1.0.0		2025-11-09T19:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/webapp/fluxnova-webapp-tomcat/1.0.0/fluxnova-webapp-tomcat-1.0.0.jar returned status 404
+1.1.0		2026-02-03T19:57:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/webapp/fluxnova-webapp-tomcat/1.1.0/fluxnova-webapp-tomcat-1.1.0.jar returned status 404

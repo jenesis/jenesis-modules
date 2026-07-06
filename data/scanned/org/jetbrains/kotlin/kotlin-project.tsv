@@ -67,4 +67,9 @@
 2.3.0-RC		2025-11-17T18:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.0-RC/kotlin-project-2.3.0-RC.jar returned status 404
 2.3.0-RC2		2025-12-02T09:58:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.0-RC2/kotlin-project-2.3.0-RC2.jar returned status 404
 2.3.0-RC3		2025-12-09T09:50:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.0-RC3/kotlin-project-2.3.0-RC3.jar returned status 404
+2.3.10		2026-02-04T18:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.10/kotlin-project-2.3.10.jar returned status 404
+2.3.10-RC		2026-01-19T08:23:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.10-RC/kotlin-project-2.3.10-RC.jar returned status 404
+2.3.10-RC2		2026-02-02T08:16:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.10-RC2/kotlin-project-2.3.10-RC2.jar returned status 404
 2.3.20-Beta1		2026-01-08T08:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.20-Beta1/kotlin-project-2.3.20-Beta1.jar returned status 404
+2.3.20-Beta2		2026-01-29T08:43:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.20-Beta2/kotlin-project-2.3.20-Beta2.jar returned status 404
+2.3.20-RC		2026-02-19T08:57:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-project/2.3.20-RC/kotlin-project-2.3.20-RC.jar returned status 404

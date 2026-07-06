@@ -6,4 +6,6 @@
 1.1.6		2022-03-31T15:07:05Z	
 2.2.10		2025-11-06T10:18:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-example/2.2.10/gwt-spring-boot-starter-example-2.2.10.jar returned status 404
 2.2.15		2025-11-27T17:49:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-example/2.2.15/gwt-spring-boot-starter-example-2.2.15.jar returned status 404
+2.2.16		2026-01-29T19:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-example/2.2.16/gwt-spring-boot-starter-example-2.2.16.jar returned status 404
 2.2.7		2025-05-14T12:06:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-example/2.2.7/gwt-spring-boot-starter-example-2.2.7.jar returned status 404
+4.0.5		2026-02-05T22:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jadice/gwt/spring/gwt-spring-boot-starter-example/4.0.5/gwt-spring-boot-starter-example-4.0.5.jar returned status 404

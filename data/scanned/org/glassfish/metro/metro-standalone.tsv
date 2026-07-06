@@ -14,3 +14,4 @@
 4.0.0-M3		2022-02-24T09:53:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-standalone/4.0.0-M3/metro-standalone-4.0.0-M3.jar returned status 404
 4.0.0-M4		2022-03-31T12:36:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-standalone/4.0.0-M4/metro-standalone-4.0.0-M4.jar returned status 404
 4.0.1		2022-07-02T08:54:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-standalone/4.0.1/metro-standalone-4.0.1.jar returned status 404
+4.0.5		2026-01-31T10:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/metro/metro-standalone/4.0.5/metro-standalone-4.0.5.jar returned status 404

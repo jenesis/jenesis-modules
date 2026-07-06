@@ -16,3 +16,5 @@
 2.8.0		2025-06-18T15:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aot/micronaut-aot-bom/2.8.0/micronaut-aot-bom-2.8.0.jar returned status 404
 2.8.1		2025-07-07T16:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aot/micronaut-aot-bom/2.8.1/micronaut-aot-bom-2.8.1.jar returned status 404
 2.9.0		2025-08-07T13:44:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aot/micronaut-aot-bom/2.9.0/micronaut-aot-bom-2.9.0.jar returned status 404
+3.0.0-M1		2026-02-04T10:09:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aot/micronaut-aot-bom/3.0.0-M1/micronaut-aot-bom-3.0.0-M1.jar returned status 404
+3.0.0-M2		2026-02-16T17:03:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/aot/micronaut-aot-bom/3.0.0-M2/micronaut-aot-bom-3.0.0-M2.jar returned status 404
