@@ -1,0 +1,2 @@
+3.2.0		2022-11-27T17:07:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-bom/3.2.0/micronaut-jackson-bom-3.2.0.jar returned status 404
+4.0.0-M2		2023-04-04T06:30:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-bom/4.0.0-M2/micronaut-jackson-bom-4.0.0-M2.jar returned status 404

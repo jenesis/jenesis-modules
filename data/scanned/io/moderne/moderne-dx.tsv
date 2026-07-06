@@ -1,4 +1,10 @@
 1.0.3225		2024-10-17T21:17:55Z	
+1.7.9		2023-12-15T17:21:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/1.7.9/moderne-dx-1.7.9.jar returned status 404
+2.0.0		2023-12-17T11:17:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/2.0.0/moderne-dx-2.0.0.jar returned status 404
+2.0.1		2023-12-20T12:10:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/2.0.1/moderne-dx-2.0.1.jar returned status 404
+2.0.4		2023-12-22T18:13:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/2.0.4/moderne-dx-2.0.4.jar returned status 404
+2.0.5		2023-12-22T23:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/2.0.5/moderne-dx-2.0.5.jar returned status 404
+2.0.6		2024-01-09T15:31:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-dx/2.0.6/moderne-dx-2.0.6.jar returned status 404
 2.1.0		2024-01-11T17:27:10Z	
 2.1.1		2024-01-12T12:15:56Z	
 2.1.10		2024-01-17T07:29:51Z	
