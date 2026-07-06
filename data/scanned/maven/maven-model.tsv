@@ -1,3 +1,4 @@
 3.0.0		2005-11-22T18:16:22Z	
 3.0.1		2005-11-22T18:16:22Z	
 3.0.2		2007-04-25T01:32:49Z	
+3.0.2.javadoc		2007-04-25T01:32:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/maven/maven-model/3.0.2.javadoc/maven-model-3.0.2.javadoc.jar returned status 404

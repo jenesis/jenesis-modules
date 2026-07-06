@@ -1,3 +1,15 @@
+0.9.22		2024-03-05T18:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.22/cards4prems-0.9.22.jar returned status 404
+0.9.23		2024-03-18T13:55:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.23/cards4prems-0.9.23.jar returned status 404
+0.9.23.1		2024-03-19T18:31:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.23.1/cards4prems-0.9.23.1.jar returned status 404
+0.9.24		2024-05-16T18:21:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.24/cards4prems-0.9.24.jar returned status 404
+0.9.24.1		2024-05-22T17:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.24.1/cards4prems-0.9.24.1.jar returned status 404
+0.9.25		2024-09-24T15:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.25/cards4prems-0.9.25.jar returned status 404
+0.9.26		2024-10-30T15:24:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.26/cards4prems-0.9.26.jar returned status 404
+0.9.26.1		2024-11-14T19:21:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.26.1/cards4prems-0.9.26.1.jar returned status 404
+0.9.27		2025-01-07T19:31:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.27/cards4prems-0.9.27.jar returned status 404
+0.9.28		2025-02-14T22:28:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.28/cards4prems-0.9.28.jar returned status 404
+0.9.29		2025-03-06T19:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.29/cards4prems-0.9.29.jar returned status 404
+0.9.30		2025-04-15T21:25:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.30/cards4prems-0.9.30.jar returned status 404
 0.9.31		2025-07-07T19:30:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.31/cards4prems-0.9.31.jar returned status 404
 0.9.32		2025-07-14T19:09:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.32/cards4prems-0.9.32.jar returned status 404
 0.9.33		2025-09-08T20:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4prems/0.9.33/cards4prems-0.9.33.jar returned status 404

@@ -1,0 +1,2 @@
+0.5		2006-11-06T01:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jaxme/jaxmepm-src/0.5/jaxmepm-src-0.5.jar returned status 404
+0.5beta		2006-11-06T01:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jaxme/jaxmepm-src/0.5beta/jaxmepm-src-0.5beta.jar returned status 404

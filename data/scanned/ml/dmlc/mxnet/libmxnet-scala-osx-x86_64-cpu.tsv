@@ -1,0 +1,4 @@
+0.1.0		2016-03-20T16:52:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/mxnet/libmxnet-scala-osx-x86_64-cpu/0.1.0/libmxnet-scala-osx-x86_64-cpu-0.1.0.jar returned status 404
+0.1.1		2016-03-26T09:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/mxnet/libmxnet-scala-osx-x86_64-cpu/0.1.1/libmxnet-scala-osx-x86_64-cpu-0.1.1.jar returned status 404
+0.9.3a		2017-06-03T15:00:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/mxnet/libmxnet-scala-osx-x86_64-cpu/0.9.3a/libmxnet-scala-osx-x86_64-cpu-0.9.3a.jar returned status 404
+v0.11.1a		2017-10-28T16:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ml/dmlc/mxnet/libmxnet-scala-osx-x86_64-cpu/v0.11.1a/libmxnet-scala-osx-x86_64-cpu-v0.11.1a.jar returned status 404

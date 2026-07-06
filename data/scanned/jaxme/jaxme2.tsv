@@ -3,3 +3,4 @@
 0.5		2005-11-22T18:15:33Z	
 0.5.1		2006-01-07T01:34:09Z	
 0.5beta		2005-11-22T18:15:33Z	
+src		2006-11-06T01:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jaxme/jaxme2/src/jaxme2-src.jar returned status 404

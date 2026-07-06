@@ -1,0 +1,2 @@
+8.0.0_r1		2017-06-10T19:16:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-26/8.0.0_r1/android-api-level-26-8.0.0_r1.jar returned status 404
+8.0.0_r2		2017-12-20T22:36:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-26/8.0.0_r2/android-api-level-26-8.0.0_r2.jar returned status 404

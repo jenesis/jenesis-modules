@@ -1,0 +1,4 @@
+4.4.2_r2		2013-12-30T14:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-19/4.4.2_r2/android-api-level-19-4.4.2_r2.jar returned status 404
+4.4.2_r3		2014-03-07T20:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-19/4.4.2_r3/android-api-level-19-4.4.2_r3.jar returned status 404
+4.4.2_r4		2014-10-04T19:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-19/4.4.2_r4/android-api-level-19-4.4.2_r4.jar returned status 404
+4.4_r1		2013-11-12T20:50:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/androidscents/signature/android-api-level-19/4.4_r1/android-api-level-19-4.4_r1.jar returned status 404

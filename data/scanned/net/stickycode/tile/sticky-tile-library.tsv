@@ -1,0 +1,2 @@
+1.1		2017-08-29T01:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-library/1.1/sticky-tile-library-1.1.jar returned status 404
+1.2		2017-08-29T02:23:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-library/1.2/sticky-tile-library-1.2.jar returned status 404

@@ -1,0 +1,7 @@
+0.0.1		2018-04-11T22:50:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.1/server-snippet-0.0.1.jar returned status 404
+0.0.2		2018-04-12T16:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.2/server-snippet-0.0.2.jar returned status 404
+0.0.3		2018-04-12T17:10:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.3/server-snippet-0.0.3.jar returned status 404
+0.0.4		2018-04-12T20:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.4/server-snippet-0.0.4.jar returned status 404
+0.0.5		2018-04-12T20:24:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.5/server-snippet-0.0.5.jar returned status 404
+0.0.6		2018-04-12T20:36:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.0.6/server-snippet-0.0.6.jar returned status 404
+0.1		2018-04-12T21:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/wlp/starters/websocket/server-snippet/0.1/server-snippet-0.1.jar returned status 404

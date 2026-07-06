@@ -1,0 +1,9 @@
+5.8.10		2013-01-09T12:51:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.10/bugzilla-5.8.10.jar returned status 404
+5.8.2		2012-09-17T16:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.2/bugzilla-5.8.2.jar returned status 404
+5.8.3		2012-09-19T12:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.3/bugzilla-5.8.3.jar returned status 404
+5.8.4		2012-09-19T12:34:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.4/bugzilla-5.8.4.jar returned status 404
+5.8.5		2012-09-19T12:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.5/bugzilla-5.8.5.jar returned status 404
+5.8.6		2012-09-19T12:34:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.6/bugzilla-5.8.6.jar returned status 404
+5.8.7		2012-09-19T12:34:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.7/bugzilla-5.8.7.jar returned status 404
+5.8.8		2012-11-01T14:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.8/bugzilla-5.8.8.jar returned status 404
+5.8.9		2013-01-09T11:42:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/bugzilla/5.8.9/bugzilla-5.8.9.jar returned status 404

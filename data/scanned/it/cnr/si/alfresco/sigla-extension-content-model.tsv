@@ -1,3 +1,6 @@
+2.22		2020-03-04T11:38:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/sigla-extension-content-model/2.22/sigla-extension-content-model-2.22.jar returned status 404
+2.23		2020-03-04T17:38:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/sigla-extension-content-model/2.23/sigla-extension-content-model-2.23.jar returned status 404
+2.25		2022-05-23T15:36:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/sigla-extension-content-model/2.25/sigla-extension-content-model-2.25.jar returned status 404
 3.0		2024-02-24T16:09:14Z	
 3.1		2024-03-01T18:39:55Z	
 3.2		2024-05-30T17:01:46Z	

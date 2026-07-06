@@ -1,0 +1,6 @@
+2.2		2017-08-28T23:15:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.2/sticky-tile-testing-2.2.jar returned status 404
+2.3		2017-08-29T01:18:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.3/sticky-tile-testing-2.3.jar returned status 404
+2.4		2017-08-29T02:23:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.4/sticky-tile-testing-2.4.jar returned status 404
+2.7		2018-10-09T23:04:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.7/sticky-tile-testing-2.7.jar returned status 404
+2.8		2018-11-23T05:06:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.8/sticky-tile-testing-2.8.jar returned status 404
+2.9		2018-11-23T05:10:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/stickycode/tile/sticky-tile-testing/2.9/sticky-tile-testing-2.9.jar returned status 404

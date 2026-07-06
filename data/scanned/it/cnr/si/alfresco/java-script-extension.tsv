@@ -1,3 +1,6 @@
+2.22		2020-03-04T11:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/java-script-extension/2.22/java-script-extension-2.22.jar returned status 404
+2.23		2020-03-04T17:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/java-script-extension/2.23/java-script-extension-2.23.jar returned status 404
+2.25		2022-05-23T15:36:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/java-script-extension/2.25/java-script-extension-2.25.jar returned status 404
 3.0		2024-02-24T16:09:28Z	
 3.1		2024-03-01T18:38:47Z	
 3.2		2024-05-30T17:02:05Z	

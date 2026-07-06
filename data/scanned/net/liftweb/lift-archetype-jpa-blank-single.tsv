@@ -1,4 +1,9 @@
 1.1-M1		2009-05-02T03:53:54Z	
+1.1-M3		2009-07-03T03:23:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift-archetype-jpa-blank-single/1.1-M3/lift-archetype-jpa-blank-single-1.1-M3.jar returned status 404
+1.1-M4		2009-08-04T22:58:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift-archetype-jpa-blank-single/1.1-M4/lift-archetype-jpa-blank-single-1.1-M4.jar returned status 404
+1.1-M5		2009-09-09T03:36:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift-archetype-jpa-blank-single/1.1-M5/lift-archetype-jpa-blank-single-1.1-M5.jar returned status 404
+1.1-M6		2009-10-08T23:34:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift-archetype-jpa-blank-single/1.1-M6/lift-archetype-jpa-blank-single-1.1-M6.jar returned status 404
+1.1-M7		2009-11-05T06:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift-archetype-jpa-blank-single/1.1-M7/lift-archetype-jpa-blank-single-1.1-M7.jar returned status 404
 1.1-M8		2009-12-14T18:53:52Z	
 2.0		2010-06-29T20:09:14Z	
 2.0-M1		2010-01-14T08:29:06Z	

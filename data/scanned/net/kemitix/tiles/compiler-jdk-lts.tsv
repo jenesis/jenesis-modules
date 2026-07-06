@@ -1,0 +1,9 @@
+2.10.0		2020-09-10T07:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/2.10.0/compiler-jdk-lts-2.10.0.jar returned status 404
+2.11.0		2020-09-17T07:06:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/2.11.0/compiler-jdk-lts-2.11.0.jar returned status 404
+2.9.0		2020-09-09T18:51:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/2.9.0/compiler-jdk-lts-2.9.0.jar returned status 404
+3.0.0		2020-10-09T07:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.0.0/compiler-jdk-lts-3.0.0.jar returned status 404
+3.0.1		2021-03-13T14:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.0.1/compiler-jdk-lts-3.0.1.jar returned status 404
+3.0.2		2021-06-15T14:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.0.2/compiler-jdk-lts-3.0.2.jar returned status 404
+3.1.0		2021-06-24T07:07:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.1.0/compiler-jdk-lts-3.1.0.jar returned status 404
+3.1.1		2021-07-16T07:36:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.1.1/compiler-jdk-lts-3.1.1.jar returned status 404
+3.2.0		2021-10-29T21:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler-jdk-lts/3.2.0/compiler-jdk-lts-3.2.0.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0		2016-11-13T05:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wavell/alf-dev-helper-repo-amp/1.0.0/alf-dev-helper-repo-amp-1.0.0.jar returned status 404
+1.0.1		2017-07-16T20:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wavell/alf-dev-helper-repo-amp/1.0.1/alf-dev-helper-repo-amp-1.0.1.jar returned status 404

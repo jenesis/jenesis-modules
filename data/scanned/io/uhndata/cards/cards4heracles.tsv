@@ -1,3 +1,15 @@
+0.9.22		2024-03-05T18:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.22/cards4heracles-0.9.22.jar returned status 404
+0.9.23		2024-03-18T13:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.23/cards4heracles-0.9.23.jar returned status 404
+0.9.23.1		2024-03-19T18:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.23.1/cards4heracles-0.9.23.1.jar returned status 404
+0.9.24		2024-05-16T18:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.24/cards4heracles-0.9.24.jar returned status 404
+0.9.24.1		2024-05-22T17:11:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.24.1/cards4heracles-0.9.24.1.jar returned status 404
+0.9.25		2024-09-24T15:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.25/cards4heracles-0.9.25.jar returned status 404
+0.9.26		2024-10-30T15:24:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.26/cards4heracles-0.9.26.jar returned status 404
+0.9.26.1		2024-11-14T19:20:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.26.1/cards4heracles-0.9.26.1.jar returned status 404
+0.9.27		2025-01-07T19:32:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.27/cards4heracles-0.9.27.jar returned status 404
+0.9.28		2025-02-14T22:28:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.28/cards4heracles-0.9.28.jar returned status 404
+0.9.29		2025-03-06T19:27:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.29/cards4heracles-0.9.29.jar returned status 404
+0.9.30		2025-04-15T21:23:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.30/cards4heracles-0.9.30.jar returned status 404
 0.9.31		2025-07-07T19:30:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.31/cards4heracles-0.9.31.jar returned status 404
 0.9.32		2025-07-14T19:09:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/0.9.32/cards4heracles-0.9.32.jar returned status 404
 1.0.0		2025-09-30T20:11:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/uhndata/cards/cards4heracles/1.0.0/cards4heracles-1.0.0.jar returned status 404

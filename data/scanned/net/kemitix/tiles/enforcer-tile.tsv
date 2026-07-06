@@ -1,0 +1,4 @@
+0.1.1		2017-12-31T16:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/enforcer-tile/0.1.1/enforcer-tile-0.1.1.jar returned status 404
+0.2.0		2018-01-06T20:14:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/enforcer-tile/0.2.0/enforcer-tile-0.2.0.jar returned status 404
+0.2.1		2018-01-09T22:42:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/enforcer-tile/0.2.1/enforcer-tile-0.2.1.jar returned status 404
+0.3.0		2018-01-19T22:37:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/enforcer-tile/0.3.0/enforcer-tile-0.3.0.jar returned status 404

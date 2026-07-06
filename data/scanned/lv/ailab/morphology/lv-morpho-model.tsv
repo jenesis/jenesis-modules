@@ -1,0 +1,15 @@
+1.0.0		2016-02-15T23:33:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/1.0.0/lv-morpho-model-1.0.0.jar returned status 404
+1.0.1		2017-03-31T01:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/1.0.1/lv-morpho-model-1.0.1.jar returned status 404
+1.1.0		2017-04-10T18:01:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/1.1.0/lv-morpho-model-1.1.0.jar returned status 404
+1.2.0		2017-10-14T15:37:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/1.2.0/lv-morpho-model-1.2.0.jar returned status 404
+1.2.1		2017-10-16T19:27:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/1.2.1/lv-morpho-model-1.2.1.jar returned status 404
+2.0.0		2018-06-14T22:39:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.0.0/lv-morpho-model-2.0.0.jar returned status 404
+2.0.1		2018-06-19T12:37:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.0.1/lv-morpho-model-2.0.1.jar returned status 404
+2.1.0		2018-10-26T08:09:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.1.0/lv-morpho-model-2.1.0.jar returned status 404
+2.2.1		2021-03-17T20:00:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.2.1/lv-morpho-model-2.2.1.jar returned status 404
+2.2.7		2022-12-19T22:14:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.2.7/lv-morpho-model-2.2.7.jar returned status 404
+2.3.0		2023-05-25T16:56:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.3.0/lv-morpho-model-2.3.0.jar returned status 404
+2.5.0		2023-09-28T19:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.5.0/lv-morpho-model-2.5.0.jar returned status 404
+2.5.1		2023-09-28T20:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.5.1/lv-morpho-model-2.5.1.jar returned status 404
+2.5.10		2025-02-25T16:40:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.5.10/lv-morpho-model-2.5.10.jar returned status 404
+2.5.12		2025-06-18T12:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/lv/ailab/morphology/lv-morpho-model/2.5.12/lv-morpho-model-2.5.12.jar returned status 404

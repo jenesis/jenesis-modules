@@ -1,0 +1,13 @@
+1.0		2009-09-18T15:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0/cc-xjc-1.0.jar returned status 404
+1.0-beta-10		2009-08-21T07:15:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-10/cc-xjc-1.0-beta-10.jar returned status 404
+1.0-beta-11		2009-08-23T02:26:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-11/cc-xjc-1.0-beta-11.jar returned status 404
+1.0-beta-12		2009-08-23T17:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-12/cc-xjc-1.0-beta-12.jar returned status 404
+1.0-beta-13		2009-08-25T15:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-13/cc-xjc-1.0-beta-13.jar returned status 404
+1.0-beta-14		2009-08-27T19:06:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-14/cc-xjc-1.0-beta-14.jar returned status 404
+1.0-beta-7		2009-08-16T04:10:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-7/cc-xjc-1.0-beta-7.jar returned status 404
+1.0-beta-8		2009-08-17T08:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-8/cc-xjc-1.0-beta-8.jar returned status 404
+1.0-beta-9		2009-08-18T20:33:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0-beta-9/cc-xjc-1.0-beta-9.jar returned status 404
+1.0.1		2009-10-12T22:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.0.1/cc-xjc-1.0.1.jar returned status 404
+1.1		2009-10-31T23:38:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.1/cc-xjc-1.1.jar returned status 404
+1.2		2009-11-15T21:49:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.2/cc-xjc-1.2.jar returned status 404
+1.3		2010-02-27T15:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/ccxjc/cc-xjc/1.3/cc-xjc-1.3.jar returned status 404

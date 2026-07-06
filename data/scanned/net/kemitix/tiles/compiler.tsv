@@ -1,0 +1,12 @@
+0.4.1		2018-02-02T17:36:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.4.1/compiler-0.4.1.jar returned status 404
+0.5.0		2018-02-24T20:33:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.5.0/compiler-0.5.0.jar returned status 404
+0.5.1		2018-02-24T21:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.5.1/compiler-0.5.1.jar returned status 404
+0.5.2		2018-02-26T20:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.5.2/compiler-0.5.2.jar returned status 404
+0.6.0		2018-02-28T18:14:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.6.0/compiler-0.6.0.jar returned status 404
+0.6.1		2018-03-02T20:40:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.6.1/compiler-0.6.1.jar returned status 404
+0.7.1		2018-03-07T23:01:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.7.1/compiler-0.7.1.jar returned status 404
+0.8.0		2018-03-12T22:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.8.0/compiler-0.8.0.jar returned status 404
+0.8.1		2018-03-13T18:16:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.8.1/compiler-0.8.1.jar returned status 404
+0.9.0		2018-07-03T16:48:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/0.9.0/compiler-0.9.0.jar returned status 404
+1.0.0		2018-08-26T13:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/1.0.0/compiler-1.0.0.jar returned status 404
+1.1.0		2018-08-29T07:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kemitix/tiles/compiler/1.1.0/compiler-1.1.0.jar returned status 404

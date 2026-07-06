@@ -1,0 +1,2 @@
+5.8.10		2013-01-09T12:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/apidoc/5.8.10/apidoc-5.8.10.jar returned status 404
+5.8.9		2013-01-09T11:41:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xp-framework/apidoc/5.8.9/apidoc-5.8.9.jar returned status 404
