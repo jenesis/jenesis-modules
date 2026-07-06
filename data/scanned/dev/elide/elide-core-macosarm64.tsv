@@ -2,7 +2,9 @@
 1.0-v3-alpha3-b7	metadata	2023-04-13T05:51:27Z	
 1.0-v3-alpha3-b8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0-v3-alpha3-b8/elide-core-macosarm64-1.0-v3-alpha3-b8.jar returned status 404
 1.0-v3-alpha3-b8	metadata	2023-05-07T18:44:30Z	
+1.0-v3-alpha4-b11		2023-08-29T06:51:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0-v3-alpha4-b11/elide-core-macosarm64-1.0-v3-alpha4-b11.jar returned status 404
 1.0-v3-alpha4-b11	metadata	2023-08-29T06:51:38Z	
+1.0-v3-alpha4-b12		2023-08-31T18:44:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0-v3-alpha4-b12/elide-core-macosarm64-1.0-v3-alpha4-b12.jar returned status 404
 1.0-v3-alpha4-b12	metadata	2023-08-31T18:44:44Z	
 1.0-v3-alpha5-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0-v3-alpha5-b13/elide-core-macosarm64-1.0-v3-alpha5-b13.jar returned status 404
 1.0-v3-alpha5-b13	metadata	2023-09-08T02:16:59Z	
@@ -12,5 +14,7 @@
 1.0.0-alpha11	metadata	2024-12-20T05:59:04Z	
 1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0.0-alpha7/elide-core-macosarm64-1.0.0-alpha7.jar returned status 404
 1.0.0-alpha7	metadata	2023-10-02T21:09:00Z	
+1.0.0-alpha8		2024-05-06T07:19:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0.0-alpha8/elide-core-macosarm64-1.0.0-alpha8.jar returned status 404
 1.0.0-alpha8	metadata	2024-05-06T07:19:43Z	
+1.0.0-alpha9		2024-05-14T04:26:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-core-macosarm64/1.0.0-alpha9/elide-core-macosarm64-1.0.0-alpha9.jar returned status 404
 1.0.0-alpha9	metadata	2024-05-14T04:26:13Z	

@@ -1,7 +1,13 @@
+1.0-v3-alpha4-b11		2023-08-30T22:40:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0-v3-alpha4-b11/elide-platform-1.0-v3-alpha4-b11.jar returned status 404
+1.0-v3-alpha4-b12		2023-08-31T07:41:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0-v3-alpha4-b12/elide-platform-1.0-v3-alpha4-b12.jar returned status 404
+1.0-v3-alpha5-b13		2023-09-08T02:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0-v3-alpha5-b13/elide-platform-1.0-v3-alpha5-b13.jar returned status 404
+1.0-v3-alpha5-b14		2023-09-12T09:44:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0-v3-alpha5-b14/elide-platform-1.0-v3-alpha5-b14.jar returned status 404
 1.0-v3-alpha6-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0-v3-alpha6-b15/elide-platform-1.0-v3-alpha6-b15.jar returned status 404
+1.0.0-alpha10		2024-06-24T03:08:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha10/elide-platform-1.0.0-alpha10.jar returned status 404
 1.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha11/elide-platform-1.0.0-alpha11.jar returned status 404
 1.0.0-alpha12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha12/elide-platform-1.0.0-alpha12.jar returned status 404
 1.0.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha13/elide-platform-1.0.0-alpha13.jar returned status 404
 1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha7/elide-platform-1.0.0-alpha7.jar returned status 404
+1.0.0-alpha8		2024-05-06T09:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha8/elide-platform-1.0.0-alpha8.jar returned status 404
 1.0.0-alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-alpha9/elide-platform-1.0.0-alpha9.jar returned status 404
 1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-platform/1.0.0-beta2/elide-platform-1.0.0-beta2.jar returned status 404

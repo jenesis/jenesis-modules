@@ -1,0 +1,14 @@
+0.111.112		2025-06-27T15:19:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/0.111.112/vropkg-0.111.112.jar returned status 404
+0.111.113		2025-06-27T17:21:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/0.111.113/vropkg-0.111.113.jar returned status 404
+0.111.114		2025-07-29T07:02:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/0.111.114/vropkg-0.111.114.jar returned status 404
+4.10.0		2025-08-15T13:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.10.0/vropkg-4.10.0.jar returned status 404
+4.11.0		2025-08-29T13:45:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.11.0/vropkg-4.11.0.jar returned status 404
+4.12.0		2025-09-18T10:09:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.12.0/vropkg-4.12.0.jar returned status 404
+4.13.0		2025-10-03T12:43:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.13.0/vropkg-4.13.0.jar returned status 404
+4.13.1		2025-10-10T12:55:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.13.1/vropkg-4.13.1.jar returned status 404
+4.14.0		2025-10-20T13:25:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.14.0/vropkg-4.14.0.jar returned status 404
+4.15.0		2025-11-14T09:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.15.0/vropkg-4.15.0.jar returned status 404
+4.7.0		2025-06-30T08:08:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.7.0/vropkg-4.7.0.jar returned status 404
+4.8.0		2025-07-29T10:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.8.0/vropkg-4.8.0.jar returned status 404
+4.9.0		2025-08-08T12:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.9.0/vropkg-4.9.0.jar returned status 404
+4.9.1		2025-08-12T06:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/iac/vropkg/4.9.1/vropkg-4.9.1.jar returned status 404

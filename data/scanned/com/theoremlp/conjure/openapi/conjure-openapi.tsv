@@ -1,0 +1,9 @@
+0.0.1		2022-09-29T16:43:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.0.1/conjure-openapi-0.0.1.jar returned status 404
+0.1.0		2022-11-18T15:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.1.0/conjure-openapi-0.1.0.jar returned status 404
+0.2.0		2023-06-05T15:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.2.0/conjure-openapi-0.2.0.jar returned status 404
+0.3.0		2023-06-13T15:54:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.3.0/conjure-openapi-0.3.0.jar returned status 404
+0.4.0		2023-06-13T17:09:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.4.0/conjure-openapi-0.4.0.jar returned status 404
+0.5.0		2023-08-09T21:14:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.5.0/conjure-openapi-0.5.0.jar returned status 404
+0.6.0		2023-08-18T17:37:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.6.0/conjure-openapi-0.6.0.jar returned status 404
+0.7.0		2023-08-18T18:37:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/0.7.0/conjure-openapi-0.7.0.jar returned status 404
+ca81b8c		2022-09-29T14:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/theoremlp/conjure/openapi/conjure-openapi/ca81b8c/conjure-openapi-ca81b8c.jar returned status 404

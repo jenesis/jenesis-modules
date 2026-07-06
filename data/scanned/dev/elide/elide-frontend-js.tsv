@@ -1,3 +1,7 @@
+1.0-v3-alpha4-b11		2023-08-29T06:50:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0-v3-alpha4-b11/elide-frontend-js-1.0-v3-alpha4-b11.jar returned status 404
+1.0-v3-alpha4-b12		2023-08-31T18:32:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0-v3-alpha4-b12/elide-frontend-js-1.0-v3-alpha4-b12.jar returned status 404
 1.0-v3-alpha5-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0-v3-alpha5-b13/elide-frontend-js-1.0-v3-alpha5-b13.jar returned status 404
 1.0-v3-alpha5-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0-v3-alpha5-b14/elide-frontend-js-1.0-v3-alpha5-b14.jar returned status 404
 1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0.0-alpha7/elide-frontend-js-1.0.0-alpha7.jar returned status 404
+1.0.0-alpha8		2024-05-06T08:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0.0-alpha8/elide-frontend-js-1.0.0-alpha8.jar returned status 404
+1.0.0-alpha9		2024-05-14T07:47:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-frontend-js/1.0.0-alpha9/elide-frontend-js-1.0.0-alpha9.jar returned status 404

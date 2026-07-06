@@ -465,6 +465,7 @@
 1.2.1.2-jre17	named	com.guicedee.services	commons-fileupload	2021-11-16T02:16:29Z	1.2.1.2-jre17
 1.2.2.1	named	com.guicedee.services	commons-fileupload	2022-02-09T23:11:19Z	1.2.2.1
 1.2.2.1-jre17	named	com.guicedee.services	commons-fileupload	2022-02-10T15:57:09Z	1.2.2.1-jre17
+1.6.0	named	commons-fileupload	commons-fileupload	2025-06-05T15:19:07Z	1.6.0
 4.0.0-beta.11	named	org.wiremock	wiremock-standalone	2025-06-19T15:16:32Z	1.6.0
 4.0.0-beta.12	named	org.wiremock	wiremock-standalone	2025-06-20T16:14:42Z	1.6.0
 4.0.0-beta.13	named	org.wiremock	wiremock-standalone	2025-06-24T08:10:20Z	1.6.0

@@ -217,10 +217,12 @@
 1.2.1.2-jre17	named	com.guicedee.services	commons-beanutils	2021-11-16T02:16:38Z	1.2.1.2-jre17
 1.2.2.1	named	com.guicedee.services	commons-beanutils	2022-02-09T23:45:48Z	1.2.2.1
 1.2.2.1-jre17	named	com.guicedee.services	commons-beanutils	2022-02-10T15:48:44Z	1.2.2.1-jre17
+1.10.0	named	commons-beanutils	commons-beanutils	2024-12-26T20:19:29Z	1.10.0
 5.0.1	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-01-10T06:24:25Z	1.10.0
 5.0.1	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-01-10T06:24:26Z	1.10.0
 5.0.2	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-01-21T13:30:13Z	1.10.0
 5.0.2	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-01-21T13:30:15Z	1.10.0
+1.10.1	named	commons-beanutils	commons-beanutils	2025-01-31T15:24:54Z	1.10.1
 6.0.0	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-02-03T12:53:42Z	1.10.0
 6.0.0	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-02-03T12:53:42Z	1.10.0
 6.0.0	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2025-02-03T12:53:43Z	1.10.0
@@ -233,6 +235,7 @@
 6.1.2	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-03-26T11:48:56Z	1.10.1
 6.1.2	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-03-26T11:48:57Z	1.10.1
 6.1.2	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2025-03-26T11:48:57Z	1.10.1
+1.11.0	named	commons-beanutils	commons-beanutils	2025-05-25T13:18:56Z	1.11.0
 1.11	named	kg.apc	jmeter-plugins-manager	2025-06-06T13:57:11Z	1.11.0
 37.0.0.Beta1	named	org.wildfly	wildfly-client-all	2025-06-25T12:56:51Z	1.11.0
 37.0.0.Final	named	org.wildfly	wildfly-client-all	2025-08-08T13:55:00Z	1.11.0

@@ -1,0 +1,2 @@
+1.7.2.230627		2023-06-28T00:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.2.230627/igrp-core-war-1.7.2.230627.jar returned status 404
+2.0.0.230627-alpha		2023-06-28T00:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230627-alpha/igrp-core-war-2.0.0.230627-alpha.jar returned status 404

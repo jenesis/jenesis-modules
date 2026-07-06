@@ -2,11 +2,15 @@
 1.0-v3-alpha3-b7	metadata	2023-04-18T06:55:51Z	
 1.0-v3-alpha3-b8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0-v3-alpha3-b8/elide-model-tvosx64-1.0-v3-alpha3-b8.jar returned status 404
 1.0-v3-alpha3-b8	metadata	2023-05-07T21:35:52Z	
+1.0-v3-alpha4-b11		2023-08-29T06:54:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0-v3-alpha4-b11/elide-model-tvosx64-1.0-v3-alpha4-b11.jar returned status 404
 1.0-v3-alpha4-b11	metadata	2023-08-29T06:54:10Z	
+1.0-v3-alpha4-b12		2023-08-31T18:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0-v3-alpha4-b12/elide-model-tvosx64-1.0-v3-alpha4-b12.jar returned status 404
 1.0-v3-alpha4-b12	metadata	2023-08-31T18:46:43Z	
 1.0-v3-alpha5-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0-v3-alpha5-b13/elide-model-tvosx64-1.0-v3-alpha5-b13.jar returned status 404
 1.0-v3-alpha5-b13	metadata	2023-09-08T02:19:13Z	
 1.0-v3-alpha5-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0-v3-alpha5-b14/elide-model-tvosx64-1.0-v3-alpha5-b14.jar returned status 404
 1.0-v3-alpha5-b14	metadata	2023-09-12T09:41:19Z	
+1.0.0-alpha8		2024-05-06T07:58:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0.0-alpha8/elide-model-tvosx64-1.0.0-alpha8.jar returned status 404
 1.0.0-alpha8	metadata	2024-05-06T07:58:39Z	
+1.0.0-alpha9		2024-05-14T06:45:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-model-tvosx64/1.0.0-alpha9/elide-model-tvosx64-1.0.0-alpha9.jar returned status 404
 1.0.0-alpha9	metadata	2024-05-14T06:45:08Z	

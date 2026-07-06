@@ -3,3 +3,5 @@
 1.0-v3-alpha5-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-base-mingwx64/1.0-v3-alpha5-b14/elide-base-mingwx64-1.0-v3-alpha5-b14.jar returned status 404
 1.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-base-mingwx64/1.0.0-alpha11/elide-base-mingwx64-1.0.0-alpha11.jar returned status 404
 1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-base-mingwx64/1.0.0-alpha7/elide-base-mingwx64-1.0.0-alpha7.jar returned status 404
+1.0.0-alpha8		2024-05-06T07:33:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-base-mingwx64/1.0.0-alpha8/elide-base-mingwx64-1.0.0-alpha8.jar returned status 404
+1.0.0-alpha9		2024-05-14T04:51:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-base-mingwx64/1.0.0-alpha9/elide-base-mingwx64-1.0.0-alpha9.jar returned status 404

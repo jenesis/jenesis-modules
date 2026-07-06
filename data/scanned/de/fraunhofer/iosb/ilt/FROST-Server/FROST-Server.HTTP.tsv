@@ -51,6 +51,7 @@
 2.4.6	classes	2025-01-08T10:30:15Z	
 2.4.7	classes	2025-01-30T06:56:25Z	
 2.4.8	classes	2025-03-27T09:27:46Z	
+2.4.9		2025-09-25T07:11:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.4.9/FROST-Server.HTTP-2.4.9.jar returned status 404
 2.4.9	classes	2025-09-25T07:11:33Z	
 2.5.0	classes	2024-11-18T08:03:48Z	
 2.5.1	classes	2024-12-09T11:21:07Z	
@@ -59,11 +60,17 @@
 2.5.4	classes	2025-03-25T09:58:51Z	
 2.5.5	classes	2025-03-27T08:40:04Z	
 2.5.6	classes	2025-04-05T18:46:03Z	
+2.5.7		2025-06-02T17:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.5.7/FROST-Server.HTTP-2.5.7.jar returned status 404
 2.5.7	classes	2025-06-02T17:49:21Z	
+2.5.8		2025-06-23T15:55:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.5.8/FROST-Server.HTTP-2.5.8.jar returned status 404
 2.5.8	classes	2025-06-23T15:56:01Z	
+2.5.9		2025-09-25T06:27:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.5.9/FROST-Server.HTTP-2.5.9.jar returned status 404
 2.5.9	classes	2025-09-25T06:27:55Z	
+2.6.0		2025-06-23T18:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.6.0/FROST-Server.HTTP-2.6.0.jar returned status 404
 2.6.0	classes	2025-06-23T18:23:12Z	
+2.6.1		2025-09-25T15:00:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.6.1/FROST-Server.HTTP-2.6.1.jar returned status 404
 2.6.1	classes	2025-09-25T15:00:03Z	
+2.6.2		2025-10-30T19:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.HTTP/2.6.2/FROST-Server.HTTP-2.6.2.jar returned status 404
 2.6.2	classes	2025-10-30T19:01:36Z	
 2.6.3	classes	2026-04-23T10:13:44Z	
 2.7.0	classes	2026-01-08T13:59:15Z	

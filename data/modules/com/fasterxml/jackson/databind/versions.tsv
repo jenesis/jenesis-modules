@@ -3913,12 +3913,16 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.0	named	us.abstracta.jmeter	jmeter-java-dsl-cli	2025-09-17T03:44:51Z	2.13.0-rc1
 2.0	named	us.abstracta.jmeter	jmeter-java-dsl-elasticsearch-listener	2025-09-17T03:44:51Z	2.13.0-rc1
 1.1.0	named	io.github.quiethappiness	jy-wrench-starter-design-framework	2025-09-18T16:16:13Z	2.13.5
+0.2.5	named	com.tigergraph	tigergraph-spark-connector_2.12	2025-09-19T12:49:44Z	2.15.2
+0.2.5	named	com.tigergraph	tigergraph-spark-connector_2.13	2025-09-19T12:51:30Z	2.15.2
 3.5.0	named	org.apache.flink	flink-cdc-pipeline-connector-elasticsearch	2025-09-23T05:19:28Z	2.13.2
 1.2.0	named	io.github.quiethappiness	jy-wrench-starter-design-framework	2025-09-23T07:56:46Z	2.13.5
 1.2.1	named	io.github.quiethappiness	jy-wrench-starter-design-framework	2025-09-23T08:18:07Z	2.13.5
 0.8.3	named	za.co.absa.spline	admin	2025-09-23T15:26:24Z	2.12.7
 2.1	named	us.abstracta.jmeter	jmeter-java-dsl-cli	2025-09-24T02:04:46Z	2.13.0-rc1
 2.1	named	us.abstracta.jmeter	jmeter-java-dsl-elasticsearch-listener	2025-09-24T02:04:46Z	2.13.0-rc1
+0.2.6	named	com.tigergraph	tigergraph-spark-connector_2.13	2025-09-24T08:50:53Z	2.15.2
+0.2.6	named	com.tigergraph	tigergraph-spark-connector_2.12	2025-09-24T08:52:31Z	2.15.2
 4.1.0-preview2	named	org.apache.spark	spark-streaming-kafka-0-10-assembly_2.13	2025-09-24T11:25:25Z	2.19.2
 0.8.4	named	za.co.absa.spline	admin	2025-09-24T22:52:51Z	2.12.7
 1.27.0	named	org.apache.calcite.avatica	avatica	2025-09-26T00:49:31Z	2.18.4
