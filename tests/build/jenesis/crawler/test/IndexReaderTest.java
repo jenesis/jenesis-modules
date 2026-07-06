@@ -102,19 +102,20 @@ public class IndexReaderTest {
 
     @Test
     public void coordinate_extraction_rewrites_miscategorised_no_classifier_extensions_to_jar() {
-        // Nexus indexer bug: main-jar records sometimes get stamped with the extension of a
-        // sidecar file (Gradle .module, POM checksums, GPG-signature checksums, SPDX SBOMs,
-        // sigstore bundles). Rewriting to "jar" is what the windup nexus-repository-indexer
-        // fix does on the published index; we do the same at parse time so the rest of the
-        // pipeline stays vanilla. For artifacts whose real packaging is not a jar the
-        // rewritten fetch 404s, but that's a one-time scanned.tsv entry per coordinate and we
-        // prefer that cost over silently missing a mis-stamped main JAR (the 2026-07
-        // commons-fileupload2 gap: every version's main record was stamped spdx.json).
+        // Nexus indexer bug: a real main-jar record gets stamped with the extension of a
+        // classifier-less sidecar the indexer processed last (Gradle .module, POM checksums,
+        // GPG signatures, SPDX/CycloneDX SBOMs, sigstore bundles, and whatever format is invented
+        // next). Rather than chase that open-ended family, the parser rewrites ANY classifier-less
+        // extension that is not a real primary packaging to "jar" (the allowlist inversion): this
+        // crawler catalogs modules, a non-jar is never a module, so trying it as a jar can only
+        // find modules and at worst 404s once on a genuine exotic non-jar. Includes a made-up
+        // "future.sbom.format" to prove new maskers need no code change.
         for (String miscategorised : new String[]{
                 "module", "pom.sha256", "pom.sha512", "pom.asc.sha256", "pom.asc.sha512",
                 "spdx.json", "spdx.rdf.xml", "spdx.xml", "cyclonedx.json", "cyclonedx.xml",
                 "jar.asc", "zip.sha512", "tar.gz.sha512", "toml.sha512",
-                "pom.md5.asc.sha512", "pom.sigstore.json.sha512", "sha512", "md5"}) {
+                "pom.md5.asc.sha512", "pom.sigstore.json.sha512", "sha512", "md5",
+                "future.sbom.format", "attestation.intoto.jsonl", "vex"}) {
             Map<String, String> record = Map.of(
                     "u", "net.bytebuddy|byte-buddy|1.10.0|NA|" + miscategorised,
                     "i", miscategorised + "|0|0|0|0|0|" + miscategorised
@@ -124,6 +125,24 @@ public class IndexReaderTest {
                     .as("extension=%s with no classifier should be rewritten to jar", miscategorised)
                     .isEqualTo("jar");
             assertThat(coordinate.classifier()).isNull();
+        }
+    }
+
+    @Test
+    public void coordinate_extraction_keeps_real_no_classifier_packagings() {
+        // The inversion's other half: a genuine primary packaging on a classifier-less record is
+        // kept as-is, never rewritten to jar (so pom-only BOMs, wars, zips, native artifacts do
+        // not each trigger a wasted jar fetch/404).
+        for (String packaging : new String[]{
+                "jar", "pom", "war", "ear", "aar", "zip", "tar.gz", "nar", "so", "hpi", "esa"}) {
+            Map<String, String> record = Map.of(
+                    "u", "org.example|thing|1.0|NA|" + packaging,
+                    "i", packaging + "|0|0|0|0|0|" + packaging
+            );
+            Coordinate coordinate = Coordinate.from(record).orElseThrow();
+            assertThat(coordinate.extension())
+                    .as("real packaging %s must be preserved", packaging)
+                    .isEqualTo(packaging);
         }
     }
 

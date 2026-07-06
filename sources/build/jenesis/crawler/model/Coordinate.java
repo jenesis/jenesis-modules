@@ -15,53 +15,35 @@ public record Coordinate(String groupId,
     private static final String INFO_FIELD = "i";
 
     /**
-     * Extensions that the Nexus indexer writes for what should be a main JAR record
-     * (i.e. {@code classifier == null}). Classifier-less records share a single uinfo key per
-     * GAV, so whichever classifier-less sidecar file the indexer processes last overwrites the
-     * main record's extension - the underlying bug behind the byte-buddy gap that motivated
-     * {@code ReconcileMetadata} (OSSRH-60950; the windup nexus-repository-indexer performs the
-     * same rewrite on a downloaded index). {@code Coordinate.from(...)} rewrites the extension
-     * back to {@code jar} so downstream code (Crawler.isInteresting, Scanner, the scanned-store
-     * filter) treats it like any other main-JAR coordinate. Side artifacts keep their
-     * classifier and are unaffected.
+     * The real primary-artifact packagings a classifier-less record may legitimately carry. Everything
+     * else on a classifier-less record is treated as a mis-stamped JAR and rewritten to {@code jar} by
+     * {@code Coordinate.from(...)} - see {@link #miscategorised(String)}.
      *
-     * <p>The masking sidecars keep evolving, so a closed list loses: a 2026-07 sweep of the
-     * full index found 5.8M main records stamped {@code pom.sha512}, 11,965 stamped
-     * {@code spdx.json} (Central's SBOM sidecars - how commons-fileupload2 went missing),
-     * plus {@code *.asc}, {@code *.md5} and {@code pom.sigstore.json.sha512} variants. Hence
-     * the split: an explicit set for whole-extension maskers, and a suffix rule for the
-     * open-ended checksum/signature family.
+     * <p>The Nexus indexer keys a classifier-less record by a single uinfo per GAV, so whichever
+     * classifier-less sidecar the indexer processes last overwrites the main record's extension - a real
+     * JAR ends up stamped {@code module} / {@code pom.sha512} / {@code spdx.json} / {@code spdx.rdf.xml} /
+     * {@code cyclonedx.*} / {@code *.asc} / a sigstore bundle / the next SBOM format nobody has invented
+     * yet (OSSRH-60950; the windup nexus-repository-indexer rewrites the same way on a downloaded index).
+     * That masking family is open-ended, so a denylist of sidecar spellings always loses to the next one
+     * and silently drops modules (commons-fileupload2, then commons-lang3 3.13-3.20). We invert it: allowlist
+     * the CLOSED, stable set of genuine packagings and rewrite everything else.
      *
-     * <p>The trade-off is unchanged: for artifacts whose real packaging is not a JAR (parent
-     * POMs, zips, wars), a masked record is rewritten anyway and the scanner fetches a
-     * non-existent {@code .jar}. Those 404s land as permanent failures in {@code scanned.tsv}
-     * and inflate "Top error messages" in the summary, but the cost is one-time per coordinate
-     * (the scanned-store filter dedupes thereafter) and the upside is that no mis-stamped main
-     * JAR is silently dropped. Completeness wins.
+     * <p>Why the inversion is safe: this crawler catalogs Java <em>modules</em>, and a non-JAR artifact is
+     * never a module. So assuming "unknown classifier-less extension -&gt; try it as a JAR" can only ever
+     * find a module, never lose one - the worst case is a one-time {@code scanned.tsv} 404 for a genuinely
+     * exotic non-JAR (which was never a module), deduped thereafter. The failure mode flips from silent
+     * module loss to a benign logged miss. The allowlist below carries the high-volume real packagings so
+     * their expected 404s are avoided; a rare packaging omitted here just 404s once. New sidecar/SBOM
+     * formats need no code change - they fall through to the rewrite automatically.
      */
-    private static final Set<String> MISCATEGORISED_JAR_EXTENSIONS = Set.of(
-            "module",
-            "sha256",
-            "sha512",
-            "sha1",
-            "md5",
-            "asc");
-
-    /**
-     * SBOM sidecar families whose extension keeps changing as tooling evolves — commons-lang3 3.15+ mask
-     * with {@code spdx.json}, 3.13/3.14 with the older {@code spdx.rdf.xml}, and CycloneDX emits
-     * {@code cyclonedx.*}. Match the family by substring rather than chase each exact spelling: no real
-     * artifact packaging contains {@code spdx} or {@code cyclonedx}, so a classifier-less record carrying
-     * one is always a mis-stamped main JAR.
-     */
-    private static final List<String> MISCATEGORISED_JAR_INFIXES = List.of("spdx", "cyclonedx", "sbom");
-
-    private static final List<String> MISCATEGORISED_JAR_SUFFIXES = List.of(
-            ".sha256",
-            ".sha512",
-            ".sha1",
-            ".md5",
-            ".asc");
+    private static final Set<String> REAL_PACKAGINGS = Set.of(
+            "jar",                                                       // the common case
+            "pom",                                                       // pom-only artifacts (BOMs, parents)
+            "war", "ear", "rar", "par", "ejb",                          // Java EE
+            "aar", "apklib",                                             // Android
+            "zip", "tar.gz", "tar.bz2", "tgz",                          // distributions
+            "nar", "so", "dll", "dylib", "exe",                        // native
+            "swc", "nbm", "hpi", "jpi", "esa", "kar", "sar", "car", "oar", "jdocbook"); // ecosystem-specific
 
     public Coordinate {
         Objects.requireNonNull(groupId, "groupId");
@@ -140,20 +122,11 @@ public record Coordinate(String groupId,
         return Optional.of(new Coordinate(groupId, artifactId, version, classifier, extension, size, lastModified));
     }
 
+    /**
+     * Whether a classifier-less record's extension is a mis-stamped JAR: anything that is not one of the
+     * {@link #REAL_PACKAGINGS}. Callers apply this only when {@code classifier == null}.
+     */
     private static boolean miscategorised(String extension) {
-        if (MISCATEGORISED_JAR_EXTENSIONS.contains(extension)) {
-            return true;
-        }
-        for (String infix : MISCATEGORISED_JAR_INFIXES) {
-            if (extension.contains(infix)) {
-                return true;
-            }
-        }
-        for (String suffix : MISCATEGORISED_JAR_SUFFIXES) {
-            if (extension.endsWith(suffix)) {
-                return true;
-            }
-        }
-        return false;
+        return !REAL_PACKAGINGS.contains(extension);
     }
 }
