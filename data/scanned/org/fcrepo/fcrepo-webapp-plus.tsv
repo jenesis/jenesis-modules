@@ -1,2 +1,4 @@
+4.7.2		2021-12-17T23:13:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp-plus/4.7.2/fcrepo-webapp-plus-4.7.2.jar returned status 404
 4.7.2	test-javadoc	2017-03-18T23:18:46Z	
+4.7.5		2021-12-17T23:13:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp-plus/4.7.5/fcrepo-webapp-plus-4.7.5.jar returned status 404
 4.7.5	test-javadoc	2018-02-13T01:04:43Z	

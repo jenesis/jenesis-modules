@@ -1,2 +1,26 @@
 4.0-b33	resources	2012-04-23T17:54:04Z	
 4.0-b72	resources	2013-01-16T10:51:02Z	
+5.1.0		2023-01-19T19:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/5.1.0/nucleus-dtds-5.1.0.jar returned status 404
+6.0.0		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0/nucleus-dtds-6.0.0.jar returned status 404
+6.0.0-M1		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0-M1/nucleus-dtds-6.0.0-M1.jar returned status 404
+6.0.0-RC1		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0-RC1/nucleus-dtds-6.0.0-RC1.jar returned status 404
+6.0.0-RC2		2023-01-19T19:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0-RC2/nucleus-dtds-6.0.0-RC2.jar returned status 404
+6.0.0-RC3		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0-RC3/nucleus-dtds-6.0.0-RC3.jar returned status 404
+6.0.0-RC4		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.0.0-RC4/nucleus-dtds-6.0.0-RC4.jar returned status 404
+6.1.0		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.1.0/nucleus-dtds-6.1.0.jar returned status 404
+6.2.0		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.0/nucleus-dtds-6.2.0.jar returned status 404
+6.2.1		2023-01-19T19:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.1/nucleus-dtds-6.2.1.jar returned status 404
+6.2.2		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.2/nucleus-dtds-6.2.2.jar returned status 404
+6.2.3		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.3/nucleus-dtds-6.2.3.jar returned status 404
+6.2.4		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.4/nucleus-dtds-6.2.4.jar returned status 404
+6.2.5		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/6.2.5/nucleus-dtds-6.2.5.jar returned status 404
+7.0.0		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0/nucleus-dtds-7.0.0.jar returned status 404
+7.0.0-M1		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0-M1/nucleus-dtds-7.0.0-M1.jar returned status 404
+7.0.0-M10		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0-M10/nucleus-dtds-7.0.0-M10.jar returned status 404
+7.0.0-M2		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0-M2/nucleus-dtds-7.0.0-M2.jar returned status 404
+7.0.0-M3		2023-01-19T19:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0-M3/nucleus-dtds-7.0.0-M3.jar returned status 404
+7.0.0-M4		2023-01-19T19:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.0.0-M4/nucleus-dtds-7.0.0-M4.jar returned status 404
+7.1.0		2025-12-05T02:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.1.0/nucleus-dtds-7.1.0.jar returned status 404
+7.1.0-M1		2025-10-01T09:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/7.1.0-M1/nucleus-dtds-7.1.0-M1.jar returned status 404
+8.0.0-M13		2025-10-03T11:09:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/8.0.0-M13/nucleus-dtds-8.0.0-M13.jar returned status 404
+8.0.0-M14		2025-11-02T23:37:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/nucleus-dtds/8.0.0-M14/nucleus-dtds-8.0.0-M14.jar returned status 404

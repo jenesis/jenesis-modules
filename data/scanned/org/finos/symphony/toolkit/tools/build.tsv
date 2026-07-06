@@ -1,0 +1,5 @@
+7.20.0		2021-04-09T11:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/toolkit/tools/build/7.20.0/build-7.20.0.jar returned status 404
+7.20.1		2021-04-29T09:27:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/toolkit/tools/build/7.20.1/build-7.20.1.jar returned status 404
+7.20.2		2021-05-07T05:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/toolkit/tools/build/7.20.2/build-7.20.2.jar returned status 404
+7.20.3		2021-06-24T14:15:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/toolkit/tools/build/7.20.3/build-7.20.3.jar returned status 404
+7.20.4		2021-07-29T07:04:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/toolkit/tools/build/7.20.4/build-7.20.4.jar returned status 404

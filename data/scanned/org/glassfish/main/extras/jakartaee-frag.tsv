@@ -1,0 +1,6 @@
+7.0.0		2023-01-19T19:23:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/7.0.0/jakartaee-frag-7.0.0.jar returned status 404
+7.0.0-M10		2023-01-19T19:23:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/7.0.0-M10/jakartaee-frag-7.0.0-M10.jar returned status 404
+7.1.0		2025-12-05T02:01:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/7.1.0/jakartaee-frag-7.1.0.jar returned status 404
+7.1.0-M1		2025-10-01T09:56:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/7.1.0-M1/jakartaee-frag-7.1.0-M1.jar returned status 404
+8.0.0-M13		2025-10-03T11:09:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/8.0.0-M13/jakartaee-frag-8.0.0-M13.jar returned status 404
+8.0.0-M14		2025-11-02T23:37:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/jakartaee-frag/8.0.0-M14/jakartaee-frag-8.0.0-M14.jar returned status 404
