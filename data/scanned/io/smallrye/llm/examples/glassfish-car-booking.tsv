@@ -1,0 +1,4 @@
+0.0.1		2024-10-14T11:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/llm/examples/glassfish-car-booking/0.0.1/glassfish-car-booking-0.0.1.jar returned status 404
+0.0.2		2024-12-19T11:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/llm/examples/glassfish-car-booking/0.0.2/glassfish-car-booking-0.0.2.jar returned status 404
+0.0.3		2025-02-14T10:04:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/llm/examples/glassfish-car-booking/0.0.3/glassfish-car-booking-0.0.3.jar returned status 404
+0.0.4		2025-02-28T20:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/llm/examples/glassfish-car-booking/0.0.4/glassfish-car-booking-0.0.4.jar returned status 404

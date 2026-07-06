@@ -1,0 +1,9 @@
+2.0.111.Final		2022-04-18T22:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sunshower/zephyr/semver/test-plugin-1-1/2.0.111.Final/test-plugin-1-1-2.0.111.Final.jar returned status 404
+2.0.112.Final		2022-04-18T22:18:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sunshower/zephyr/semver/test-plugin-1-1/2.0.112.Final/test-plugin-1-1-2.0.112.Final.jar returned status 404
+2.0.113.Final		2022-04-18T22:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sunshower/zephyr/semver/test-plugin-1-1/2.0.113.Final/test-plugin-1-1-2.0.113.Final.jar returned status 404
+2.0.115.Final		2022-04-18T23:10:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sunshower/zephyr/semver/test-plugin-1-1/2.0.115.Final/test-plugin-1-1-2.0.115.Final.jar returned status 404
+2.0.117.Final		2022-04-19T02:17:50Z	
+2.0.121.Final		2022-04-20T17:54:40Z	
+2.0.124.Final		2022-05-26T16:36:17Z	
+2.0.126.Final		2022-05-27T19:28:56Z	
+2.0.128.Final		2022-06-09T19:35:19Z	

@@ -1,15 +1,22 @@
+1.0.0		2025-09-28T22:03:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.0/orqueio-example-invoice-1.0.0.jar returned status 404
 1.0.0	classes	2025-09-28T22:03:46Z	
+1.0.1		2025-10-01T21:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.1/orqueio-example-invoice-1.0.1.jar returned status 404
 1.0.1	classes	2025-10-01T21:29:06Z	
 1.0.10	classes	2026-06-19T08:46:17Z	
+1.0.2		2025-10-02T15:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.2/orqueio-example-invoice-1.0.2.jar returned status 404
 1.0.2	classes	2025-10-02T15:11:53Z	
+1.0.3		2025-10-09T13:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.3/orqueio-example-invoice-1.0.3.jar returned status 404
 1.0.3	classes	2025-10-09T13:47:12Z	
+1.0.4		2025-10-15T17:02:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.4/orqueio-example-invoice-1.0.4.jar returned status 404
 1.0.4	classes	2025-10-15T17:02:27Z	
+1.0.5		2025-12-16T09:52:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/1.0.5/orqueio-example-invoice-1.0.5.jar returned status 404
 1.0.5	classes	2025-12-16T09:52:47Z	
 1.0.6	classes	2026-01-13T16:17:37Z	
 1.0.6-SSO	classes	2025-12-22T10:37:43Z	
 1.0.7	classes	2026-02-17T16:12:16Z	
 1.0.8	classes	2026-02-27T16:35:54Z	
 1.0.9	classes	2026-06-03T10:31:08Z	
+2.0.0		2025-12-12T03:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice/2.0.0/orqueio-example-invoice-2.0.0.jar returned status 404
 2.0.0	classes	2025-12-12T03:23:27Z	
 2.0.1	classes	2026-01-19T12:27:52Z	
 2.0.2	classes	2026-02-18T16:57:54Z	
