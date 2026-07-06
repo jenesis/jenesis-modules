@@ -73,3 +73,4 @@
 7.2026.1		2026-01-21T13:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/distributions/payara-web-ml/7.2026.1/payara-web-ml-7.2026.1.jar returned status 404
 7.2026.2		2026-02-19T05:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/distributions/payara-web-ml/7.2026.2/payara-web-ml-7.2026.2.jar returned status 404
 7.2026.3		2026-03-17T09:16:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/distributions/payara-web-ml/7.2026.3/payara-web-ml-7.2026.3.jar returned status 404
+7.2026.4		2026-04-14T12:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/distributions/payara-web-ml/7.2026.4/payara-web-ml-7.2026.4.jar returned status 404

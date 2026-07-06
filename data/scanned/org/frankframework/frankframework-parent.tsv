@@ -1,6 +1,8 @@
 10.0.0		2026-02-09T17:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/10.0.0/frankframework-parent-10.0.0.jar returned status 404
 10.0.0	frankdoc	2026-02-09T17:46:36Z	
+10.0.1		2026-04-17T16:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/10.0.1/frankframework-parent-10.0.1.jar returned status 404
 10.0.1	frankdoc	2026-04-17T16:08:14Z	
+10.1.0		2026-04-23T14:13:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/10.1.0/frankframework-parent-10.1.0.jar returned status 404
 10.1.0	frankdoc	2026-04-23T14:13:48Z	
 8.0.0	frankdoc	2023-12-22T17:10:58Z	
 8.0.1	frankdoc	2024-04-16T09:04:44Z	
@@ -44,9 +46,11 @@
 9.3.1	frankdoc	2025-11-10T19:19:11Z	
 9.3.2		2026-01-23T15:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.3.2/frankframework-parent-9.3.2.jar returned status 404
 9.3.2	frankdoc	2026-01-23T15:08:37Z	
+9.3.3		2026-04-17T11:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.3.3/frankframework-parent-9.3.3.jar returned status 404
 9.3.3	frankdoc	2026-04-17T11:15:41Z	
 9.4.0		2025-12-29T12:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.4.0/frankframework-parent-9.4.0.jar returned status 404
 9.4.0	frankdoc	2025-12-29T12:06:15Z	
 9.4.1		2026-02-05T11:18:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.4.1/frankframework-parent-9.4.1.jar returned status 404
 9.4.1	frankdoc	2026-02-05T11:18:41Z	
+9.4.2		2026-04-17T13:25:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.4.2/frankframework-parent-9.4.2.jar returned status 404
 9.4.2	frankdoc	2026-04-17T13:25:47Z	

@@ -39,3 +39,4 @@
 0.22.1		2025-10-13T00:55:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/onap-karaf/0.22.1/onap-karaf-0.22.1.jar returned status 404
 0.22.2		2026-03-30T00:52:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/onap-karaf/0.22.2/onap-karaf-0.22.2.jar returned status 404
 0.23.0		2026-01-22T00:28:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/onap-karaf/0.23.0/onap-karaf-0.23.0.jar returned status 404
+0.23.1		2026-04-18T00:30:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/onap-karaf/0.23.1/onap-karaf-0.23.1.jar returned status 404

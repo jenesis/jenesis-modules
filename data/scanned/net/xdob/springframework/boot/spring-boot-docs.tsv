@@ -2,3 +2,4 @@
 2.7.19		2025-03-17T04:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xdob/springframework/boot/spring-boot-docs/2.7.19/spring-boot-docs-2.7.19.jar returned status 404
 2.7.20		2025-03-17T09:37:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xdob/springframework/boot/spring-boot-docs/2.7.20/spring-boot-docs-2.7.20.jar returned status 404
 2.7.21		2025-03-26T09:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xdob/springframework/boot/spring-boot-docs/2.7.21/spring-boot-docs-2.7.21.jar returned status 404
+2.7.22		2026-04-17T06:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/xdob/springframework/boot/spring-boot-docs/2.7.22/spring-boot-docs-2.7.22.jar returned status 404

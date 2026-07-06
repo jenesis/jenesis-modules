@@ -120,4 +120,5 @@
 2026.03.20		2026-03-20T23:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-androidx/2026.03.20/versions-androidx-2026.03.20.jar returned status 404
 2026.03.27		2026-03-27T20:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-androidx/2026.03.27/versions-androidx-2026.03.27.jar returned status 404
 2026.04.03		2026-04-03T22:52:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-androidx/2026.04.03/versions-androidx-2026.04.03.jar returned status 404
+2026.04.10		2026-04-10T21:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-androidx/2026.04.10/versions-androidx-2026.04.10.jar returned status 404
 v2026.01.23		2026-01-24T22:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-androidx/v2026.01.23/versions-androidx-v2026.01.23.jar returned status 404

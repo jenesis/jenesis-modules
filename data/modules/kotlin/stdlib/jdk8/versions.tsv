@@ -1754,6 +1754,8 @@
 0.29.0	named	com.airbnb.viaduct	javaapi-codegen	2026-04-16T15:10:18Z	
 1.51.0	named	com.google.genai	google-genai	2026-04-16T22:46:25Z	
 3.10.6	named	com.aliyun.odps	odps-jdbc	2026-04-20T11:37:35Z	
+2.4.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-04-22T07:22:42Z	
+2.3.21	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-04-22T09:31:48Z	
 7.7.2	named	com.newrelic.agent.android	agent-gradle-plugin	2026-04-23T14:01:24Z	
 0.30.0	named	com.airbnb.viaduct	javaapi-codegen	2026-04-24T22:49:31Z	
 0.0.1	named	com.kernelflux.mobile	traceharbor-resource-canary-analyzer-cli	2026-04-26T18:11:05Z	

@@ -187,3 +187,5 @@
 2026.03.08		2026-03-08T01:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rafsanjani/versions/2026.03.08/versions-2026.03.08.jar returned status 404
 2026.03.15		2026-03-15T01:06:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rafsanjani/versions/2026.03.15/versions-2026.03.15.jar returned status 404
 2026.03.22		2026-03-22T01:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rafsanjani/versions/2026.03.22/versions-2026.03.22.jar returned status 404
+2026.04.12		2026-04-12T03:54:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rafsanjani/versions/2026.04.12/versions-2026.04.12.jar returned status 404
+2026.04.19		2026-04-19T01:13:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rafsanjani/versions/2026.04.19/versions-2026.04.19.jar returned status 404

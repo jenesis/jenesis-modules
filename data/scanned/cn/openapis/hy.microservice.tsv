@@ -249,8 +249,11 @@
 1.21.2	api	2026-03-13T02:48:00Z	
 1.21.3		2026-04-08T03:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.microservice/1.21.3/hy.microservice-1.21.3.jar returned status 404
 1.21.3	api	2026-04-08T03:39:50Z	
+1.21.5		2026-04-09T08:53:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.microservice/1.21.5/hy.microservice-1.21.5.jar returned status 404
 1.21.5	api	2026-04-09T08:53:43Z	
+1.21.6		2026-04-10T13:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.microservice/1.21.6/hy.microservice-1.21.6.jar returned status 404
 1.21.6	api	2026-04-10T13:19:20Z	
+1.21.7		2026-04-14T00:46:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.microservice/1.21.7/hy.microservice-1.21.7.jar returned status 404
 1.21.7	api	2026-04-14T00:46:17Z	
 1.21.9	api	2026-04-23T08:34:21Z	
 1.22.0	api	2026-04-25T04:27:28Z	

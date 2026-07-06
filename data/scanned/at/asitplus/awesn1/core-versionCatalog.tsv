@@ -1,2 +1,3 @@
 0.1.0		2026-03-11T22:00:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/awesn1/core-versionCatalog/0.1.0/core-versionCatalog-0.1.0.jar returned status 404
 0.1.1		2026-03-12T19:52:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/awesn1/core-versionCatalog/0.1.1/core-versionCatalog-0.1.1.jar returned status 404
+0.2.1		2026-04-10T19:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/awesn1/core-versionCatalog/0.2.1/core-versionCatalog-0.2.1.jar returned status 404

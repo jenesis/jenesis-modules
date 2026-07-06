@@ -2979,6 +2979,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.8.7	named	org.apache.storm	storm-jdbc-examples	2026-04-19T15:03:44Z	2.0.17
 2.8.7	named	org.apache.storm	storm-hdfs-examples	2026-04-19T15:04:03Z	2.0.17
 2.8.7	named	org.apache.storm	storm-perf	2026-04-19T15:05:15Z	2.0.17
+0.18.1-925	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-20T00:54:14Z	2.0.17
 6.2.5	named	org.apache.activemq	activemq-all	2026-04-21T16:17:03Z	2.0.17
 5.19.6	named	org.apache.activemq	activemq-all	2026-04-21T16:47:38Z	2.0.17
 1.12.6	named	org.open-metadata	elasticsearch-deps	2026-04-22T07:07:04Z	2.0.4
@@ -2993,11 +2994,16 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.0.1	named	com.google.appengine	appengine-tools-sdk	2026-04-23T22:13:08Z	2.0.17
 2.0.0-alpha.3	named	dev.detekt	detekt-rules-ktlint-wrapper	2026-04-24T06:08:15Z	2.0.17
 1.91.0	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-04-24T06:52:48Z	2.0.7
+0.18.1-926	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-24T09:46:58Z	2.0.17
 1.0.3	named	nl.tno	c2sim-server	2026-04-26T11:41:31Z	2.0.16
+0.18.1-927	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-27T00:56:49Z	2.0.17
 3.0.3	named	org.ops4j.pax.url	pax-url-assembly	2026-04-27T07:57:22Z	2.0.17
 5.86.24	named	com.applitools	eyes-sdk-core-java5	2026-04-27T08:12:39Z	2.0.16
 7.7.3	named	com.newrelic.agent.android	instrumentation	2026-04-27T20:49:44Z	2.0.4
+0.18.1-928	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-28T08:12:45Z	2.0.17
 0.1.0	named	com.ibm.cloud	drautomation-sdk-examples	2026-04-28T10:41:34Z	2.0.16
+0.18.1-929	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-28T14:18:03Z	2.0.17
+0.18.1-931	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-04-29T10:25:05Z	2.0.17
 5.86.25	named	com.applitools	eyes-sdk-core-java5	2026-04-29T11:57:30Z	2.0.16
 1.2.6	named	com.conaxgames	clibraries	2026-04-30T10:12:15Z	2.0.17
 1.2.7	named	com.conaxgames	clibraries	2026-04-30T19:38:14Z	2.0.17
@@ -3008,6 +3014,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 12.0.35	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2026-05-01T05:52:32Z	2.0.17
 1.3.4	named	com.conaxgames	clibraries	2026-05-01T17:33:20Z	2.0.17
 1.4.0	named	com.conaxgames	clibraries	2026-05-01T18:09:27Z	2.0.17
+0.18.1-934	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-02T13:38:36Z	2.0.17
 5.86.26	named	com.applitools	eyes-sdk-core-java5	2026-05-04T13:27:03Z	2.0.16
 5.87.0	named	com.applitools	eyes-sdk-core-java5	2026-05-05T16:35:21Z	2.0.16
 1.13.0-snapshot	named	org.open-metadata	elasticsearch-deps	2026-05-07T10:58:25Z	2.0.4

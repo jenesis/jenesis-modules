@@ -7,3 +7,4 @@
 2.0.3		2026-01-19T12:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/adobexp-aem-quickstart.ui.content/2.0.3/adobexp-aem-quickstart.ui.content-2.0.3.jar returned status 404
 2.0.4		2026-01-21T04:28:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/adobexp-aem-quickstart.ui.content/2.0.4/adobexp-aem-quickstart.ui.content-2.0.4.jar returned status 404
 2.0.5		2026-02-08T12:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/adobexp-aem-quickstart.ui.content/2.0.5/adobexp-aem-quickstart.ui.content-2.0.5.jar returned status 404
+2.0.6		2026-04-17T17:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/adobexp-aem-quickstart.ui.content/2.0.6/adobexp-aem-quickstart.ui.content-2.0.6.jar returned status 404

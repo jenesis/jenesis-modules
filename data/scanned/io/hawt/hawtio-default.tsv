@@ -6,3 +6,4 @@
 5.0-M1		2026-01-15T07:22:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-default/5.0-M1/hawtio-default-5.0-M1.jar returned status 404
 5.0.0		2026-03-12T08:13:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-default/5.0.0/hawtio-default-5.0.0.jar returned status 404
 5.0.1		2026-03-17T09:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-default/5.0.1/hawtio-default-5.0.1.jar returned status 404
+5.1.0		2026-04-15T07:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-default/5.1.0/hawtio-default-5.1.0.jar returned status 404

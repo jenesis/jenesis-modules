@@ -8,6 +8,8 @@
 5.32.0		2026-02-17T13:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/5.32.0/cdm-daml-5.32.0.jar returned status 404
 5.33.0		2026-03-18T14:38:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/5.33.0/cdm-daml-5.33.0.jar returned status 404
 5.34.0		2026-03-30T10:32:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/5.34.0/cdm-daml-5.34.0.jar returned status 404
+5.35.0		2026-04-14T10:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/5.35.0/cdm-daml-5.35.0.jar returned status 404
+5.36.0		2026-04-24T15:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/5.36.0/cdm-daml-5.36.0.jar returned status 404
 6.10.0		2025-10-16T09:13:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.10.0/cdm-daml-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.11.0/cdm-daml-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.12.0/cdm-daml-6.12.0.jar returned status 404
@@ -15,8 +17,15 @@
 6.14.0		2026-01-26T15:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.14.0/cdm-daml-6.14.0.jar returned status 404
 6.15.0		2026-02-17T16:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.15.0/cdm-daml-6.15.0.jar returned status 404
 6.16.0		2026-03-23T10:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.16.0/cdm-daml-6.16.0.jar returned status 404
+6.17.0		2026-04-09T11:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.17.0/cdm-daml-6.17.0.jar returned status 404
+6.18.0		2026-04-17T13:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.18.0/cdm-daml-6.18.0.jar returned status 404
+6.19.0		2026-05-01T10:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.19.0/cdm-daml-6.19.0.jar returned status 404
 6.8.1		2025-08-04T19:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.8.1/cdm-daml-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:25:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/6.9.0/cdm-daml-6.9.0.jar returned status 404
+7.0.0-dev.100		2026-04-20T12:55:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.100/cdm-daml-7.0.0-dev.100.jar returned status 404
+7.0.0-dev.101		2026-04-21T17:32:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.101/cdm-daml-7.0.0-dev.101.jar returned status 404
+7.0.0-dev.102		2026-04-24T16:01:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.102/cdm-daml-7.0.0-dev.102.jar returned status 404
+7.0.0-dev.103		2026-04-30T11:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.103/cdm-daml-7.0.0-dev.103.jar returned status 404
 7.0.0-dev.25		2025-07-10T08:51:58Z	
 7.0.0-dev.26		2025-07-11T10:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.26/cdm-daml-7.0.0-dev.26.jar returned status 404
 7.0.0-dev.27		2025-07-14T08:48:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.27/cdm-daml-7.0.0-dev.27.jar returned status 404
@@ -89,3 +98,4 @@
 7.0.0-dev.95		2026-02-27T16:44:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.95/cdm-daml-7.0.0-dev.95.jar returned status 404
 7.0.0-dev.97		2026-03-12T09:32:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.97/cdm-daml-7.0.0-dev.97.jar returned status 404
 7.0.0-dev.98		2026-03-24T14:33:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.98/cdm-daml-7.0.0-dev.98.jar returned status 404
+7.0.0-dev.99		2026-04-08T14:13:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-daml/7.0.0-dev.99/cdm-daml-7.0.0-dev.99.jar returned status 404

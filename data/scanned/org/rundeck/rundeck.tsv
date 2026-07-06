@@ -138,6 +138,8 @@
 5.20.0-rc1-20260312		2026-03-12T01:37:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.20.0-rc1-20260312/rundeck-5.20.0-rc1-20260312.jar returned status 404
 5.20.0-rc2-20260318		2026-03-18T17:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.20.0-rc2-20260318/rundeck-5.20.0-rc2-20260318.jar returned status 404
 5.20.0-rc3-20260325		2026-03-25T02:20:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.20.0-rc3-20260325/rundeck-5.20.0-rc3-20260325.jar returned status 404
+5.20.1-rc1-20260422		2026-04-22T22:54:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.20.1-rc1-20260422/rundeck-5.20.1-rc1-20260422.jar returned status 404
+5.20.1-rc2-20260430		2026-04-30T19:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.20.1-rc2-20260430/rundeck-5.20.1-rc2-20260430.jar returned status 404
 5.3.0-20240520		2024-05-20T22:23:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.3.0-20240520/rundeck-5.3.0-20240520.jar returned status 404
 5.3.0-rc1-20240508		2024-05-08T22:14:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.3.0-rc1-20240508/rundeck-5.3.0-rc1-20240508.jar returned status 404
 5.3.0-rc2-20240517		2024-05-17T18:13:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rundeck/rundeck/5.3.0-rc2-20240517/rundeck-5.3.0-rc2-20240517.jar returned status 404

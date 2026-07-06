@@ -18,3 +18,4 @@
 4.2.0		2025-02-10T11:05:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jms/micronaut-jms-bom/4.2.0/micronaut-jms-bom-4.2.0.jar returned status 404
 4.3.0		2025-06-18T13:36:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jms/micronaut-jms-bom/4.3.0/micronaut-jms-bom-4.3.0.jar returned status 404
 5.0.0-M1		2026-02-24T14:23:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jms/micronaut-jms-bom/5.0.0-M1/micronaut-jms-bom-5.0.0-M1.jar returned status 404
+5.0.0-M2		2026-04-17T11:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/jms/micronaut-jms-bom/5.0.0-M2/micronaut-jms-bom-5.0.0-M2.jar returned status 404

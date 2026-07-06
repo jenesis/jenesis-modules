@@ -9,3 +9,4 @@
 0.45.0		2025-12-04T16:14:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.extensions.manifest/0.45.0/dev.galasa.extensions.manifest-0.45.0.jar returned status 404
 0.46.0		2026-01-30T12:39:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.extensions.manifest/0.46.0/dev.galasa.extensions.manifest-0.46.0.jar returned status 404
 0.46.1		2026-02-05T13:51:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.extensions.manifest/0.46.1/dev.galasa.extensions.manifest-0.46.1.jar returned status 404
+0.47.0		2026-04-08T15:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.extensions.manifest/0.47.0/dev.galasa.extensions.manifest-0.47.0.jar returned status 404

@@ -5,3 +5,4 @@
 0.0.6		2025-11-04T13:21:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-operator/0.0.6/microcks-operator-0.0.6.jar returned status 404
 0.0.7		2026-02-05T10:34:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-operator/0.0.7/microcks-operator-0.0.7.jar returned status 404
 0.0.8		2026-03-19T10:20:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-operator/0.0.8/microcks-operator-0.0.8.jar returned status 404
+0.0.9		2026-04-09T07:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-operator/0.0.9/microcks-operator-0.0.9.jar returned status 404

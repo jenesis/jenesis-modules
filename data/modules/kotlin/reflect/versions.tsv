@@ -789,3 +789,6 @@
 2.3.21-RC2	named	org.jetbrains.kotlin	kotlin-reflect	2026-04-16T09:57:22Z	
 2.3.21-RC2	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-04-16T09:57:23Z	
 0.29.0	named	com.airbnb.viaduct	runtime	2026-04-16T15:10:16Z	
+2.4.0-Beta2	named	org.jetbrains.kotlin	kotlin-reflect	2026-04-22T07:22:42Z	
+2.3.21	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-04-22T09:31:44Z	
+2.3.21	named	org.jetbrains.kotlin	kotlin-reflect	2026-04-22T09:31:47Z	

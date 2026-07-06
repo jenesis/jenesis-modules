@@ -1,1 +1,2 @@
 1.0.0		2026-02-13T09:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/skodjob/kubetest4j/kubetest4j-parent/1.0.0/kubetest4j-parent-1.0.0.jar returned status 404
+1.1.0		2026-04-08T07:18:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/skodjob/kubetest4j/kubetest4j-parent/1.1.0/kubetest4j-parent-1.1.0.jar returned status 404

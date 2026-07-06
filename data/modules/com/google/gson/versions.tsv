@@ -4735,6 +4735,8 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.5.0.14rc1	named	io.acryl	datahub-protobuf	2026-04-21T11:09:14Z	2.12.0
 1.5.0.14	named	io.acryl	datahub-protobuf	2026-04-21T11:55:02Z	2.12.0
 0.13.4	named	com.uber.nullaway	jar-infer-cli	2026-04-21T16:32:31Z	2.13.2
+2.4.0-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-04-22T07:22:45Z	2.11.0
+2.3.21	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-04-22T09:31:42Z	2.11.0
 4.2.1	named	org.apache.pulsar	jclouds-shaded	2026-04-23T10:43:17Z	2.10.1
 4.0.10	named	org.apache.pulsar	jclouds-shaded	2026-04-23T11:21:11Z	2.10.1
 3.0.17	named	org.apache.pulsar	jclouds-shaded	2026-04-23T11:36:36Z	2.10.1

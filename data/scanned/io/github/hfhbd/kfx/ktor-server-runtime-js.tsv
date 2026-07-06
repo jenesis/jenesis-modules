@@ -31,6 +31,7 @@
 0.2.2		2026-01-25T18:02:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.2/ktor-server-runtime-js-0.2.2.jar returned status 404
 0.2.3		2026-01-26T08:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.3/ktor-server-runtime-js-0.2.3.jar returned status 404
 0.2.4		2026-01-26T11:54:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.4/ktor-server-runtime-js-0.2.4.jar returned status 404
+0.2.5		2026-04-19T14:08:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.5/ktor-server-runtime-js-0.2.5.jar returned status 404
 0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.7/ktor-server-runtime-js-0.2.7.jar returned status 404
 0.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.8/ktor-server-runtime-js-0.2.8.jar returned status 404
 0.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-js/0.2.9/ktor-server-runtime-js-0.2.9.jar returned status 404

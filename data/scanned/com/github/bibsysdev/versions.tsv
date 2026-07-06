@@ -39,3 +39,5 @@
 2.6.0		2026-03-20T06:07:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bibsysdev/versions/2.6.0/versions-2.6.0.jar returned status 404
 2.6.1		2026-03-25T12:33:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bibsysdev/versions/2.6.1/versions-2.6.1.jar returned status 404
 2.6.2		2026-04-07T12:33:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bibsysdev/versions/2.6.2/versions-2.6.2.jar returned status 404
+2.6.3		2026-04-15T10:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bibsysdev/versions/2.6.3/versions-2.6.3.jar returned status 404
+2.6.4		2026-04-17T10:00:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bibsysdev/versions/2.6.4/versions-2.6.4.jar returned status 404
