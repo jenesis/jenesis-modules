@@ -1,0 +1,5 @@
+1.0		2007-06-13T07:14:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse/1.0/synapse-1.0.jar returned status 404
+1.1		2007-11-13T17:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse/1.1/synapse-1.1.jar returned status 404
+1.1.1		2008-01-28T09:11:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse/1.1.1/synapse-1.1.1.jar returned status 404
+1.1.2		2008-02-15T08:32:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse/1.1.2/synapse-1.1.2.jar returned status 404
+1.2		2008-06-09T06:40:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse/1.2/synapse-1.2.jar returned status 404

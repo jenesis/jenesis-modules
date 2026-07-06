@@ -1,0 +1,2 @@
+0.12.0		2014-02-24T15:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/stanbol/org.apache.stanbol.launchers.bundlelists.rules/0.12.0/org.apache.stanbol.launchers.bundlelists.rules-0.12.0.jar returned status 404
+1.0.0		2016-09-16T13:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/stanbol/org.apache.stanbol.launchers.bundlelists.rules/1.0.0/org.apache.stanbol.launchers.bundlelists.rules-1.0.0.jar returned status 404

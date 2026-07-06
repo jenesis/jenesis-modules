@@ -1,0 +1,4 @@
+0.6.0		2016-07-19T11:11:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/credValidator/0.6.0/credValidator-0.6.0.jar returned status 404
+0.6.1		2016-08-25T09:58:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/credValidator/0.6.1/credValidator-0.6.1.jar returned status 404
+2.4.0		2023-03-31T04:20:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/credValidator/2.4.0/credValidator-2.4.0.jar returned status 404
+2.5.0		2024-08-07T05:49:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/credValidator/2.5.0/credValidator-2.5.0.jar returned status 404

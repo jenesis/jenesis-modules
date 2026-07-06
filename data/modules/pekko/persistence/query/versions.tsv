@@ -16,6 +16,15 @@
 1.0.3	automatic	org.apache.pekko	pekko-persistence-query_2.13	2024-06-22T21:16:29Z	
 1.0.3	automatic	org.apache.pekko	pekko-persistence-query_2.12	2024-06-22T21:16:35Z	
 1.0.3	automatic	org.apache.pekko	pekko-persistence-query_3	2024-06-22T21:16:44Z	
+1.1.0	automatic	org.apache.pekko	pekko-persistence-query_2.13	2024-09-02T17:55:51Z	
+1.1.0	automatic	org.apache.pekko	pekko-persistence-query_2.12	2024-09-02T17:55:55Z	
+1.1.0	automatic	org.apache.pekko	pekko-persistence-query_3	2024-09-02T17:56:02Z	
+1.1.1	automatic	org.apache.pekko	pekko-persistence-query_3	2024-09-12T12:04:12Z	
+1.1.1	automatic	org.apache.pekko	pekko-persistence-query_2.12	2024-09-12T12:04:26Z	
+1.1.1	automatic	org.apache.pekko	pekko-persistence-query_2.13	2024-09-12T12:04:32Z	
+1.1.2	automatic	org.apache.pekko	pekko-persistence-query_2.13	2024-10-06T20:30:01Z	
+1.1.2	automatic	org.apache.pekko	pekko-persistence-query_2.12	2024-10-06T20:32:12Z	
+1.1.2	automatic	org.apache.pekko	pekko-persistence-query_3	2024-10-06T20:36:41Z	
 1.1.3	automatic	org.apache.pekko	pekko-persistence-query_2.13	2025-01-06T12:59:49Z	
 1.1.3	automatic	org.apache.pekko	pekko-persistence-query_2.12	2025-01-06T12:59:52Z	
 1.1.3	automatic	org.apache.pekko	pekko-persistence-query_3	2025-01-06T12:59:56Z	

@@ -16,6 +16,15 @@
 1.0.3	automatic	org.apache.pekko	pekko-remote_3	2024-06-22T21:16:46Z	
 1.0.3	automatic	org.apache.pekko	pekko-remote_2.13	2024-06-22T21:16:49Z	
 1.0.3	automatic	org.apache.pekko	pekko-remote_2.12	2024-06-22T21:16:53Z	
+1.1.0	automatic	org.apache.pekko	pekko-remote_3	2024-09-02T17:56:04Z	
+1.1.0	automatic	org.apache.pekko	pekko-remote_2.13	2024-09-02T17:56:07Z	
+1.1.0	automatic	org.apache.pekko	pekko-remote_2.12	2024-09-02T17:56:12Z	
+1.1.1	automatic	org.apache.pekko	pekko-remote_2.12	2024-09-12T12:04:07Z	
+1.1.1	automatic	org.apache.pekko	pekko-remote_2.13	2024-09-12T12:04:11Z	
+1.1.1	automatic	org.apache.pekko	pekko-remote_3	2024-09-12T12:04:29Z	
+1.1.2	automatic	org.apache.pekko	pekko-remote_3	2024-10-06T20:37:04Z	
+1.1.2	automatic	org.apache.pekko	pekko-remote_2.13	2024-10-06T20:39:53Z	
+1.1.2	automatic	org.apache.pekko	pekko-remote_2.12	2024-10-06T20:41:49Z	
 1.1.3	automatic	org.apache.pekko	pekko-remote_3	2025-01-06T12:59:58Z	
 1.1.3	automatic	org.apache.pekko	pekko-remote_2.13	2025-01-06T12:59:59Z	
 1.1.3	automatic	org.apache.pekko	pekko-remote_2.12	2025-01-06T13:00:02Z	

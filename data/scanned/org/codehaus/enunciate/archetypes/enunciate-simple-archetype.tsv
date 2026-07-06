@@ -7,9 +7,25 @@
 1.18		2010-02-05T21:52:02Z	
 1.18-RC1		2010-01-29T17:44:19Z	
 1.18-RC2		2010-02-03T23:17:35Z	
+1.19		2010-03-30T17:55:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.19/enunciate-simple-archetype-1.19.jar returned status 404
 1.19-RC1		2010-03-12T19:20:42Z	
+1.19-RC2		2010-03-17T21:43:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.19-RC2/enunciate-simple-archetype-1.19-RC2.jar returned status 404
+1.20		2010-06-10T17:57:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.20/enunciate-simple-archetype-1.20.jar returned status 404
+1.20-RC1		2010-05-29T00:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.20-RC1/enunciate-simple-archetype-1.20-RC1.jar returned status 404
+1.20-RC2		2010-06-02T20:32:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.20-RC2/enunciate-simple-archetype-1.20-RC2.jar returned status 404
+1.21		2010-11-18T20:15:32Z	
 1.21-RC1		2010-10-27T22:06:39Z	
+1.21-RC2		2010-11-05T19:39:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.21-RC2/enunciate-simple-archetype-1.21-RC2.jar returned status 404
+1.21-RC3		2010-11-12T23:43:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.21-RC3/enunciate-simple-archetype-1.21-RC3.jar returned status 404
+1.21.1		2010-12-15T01:28:14Z	
+1.22		2011-04-18T18:39:46Z	
+1.22-RC1		2011-03-29T00:57:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.22-RC1/enunciate-simple-archetype-1.22-RC1.jar returned status 404
+1.22-RC2		2011-03-29T02:57:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.22-RC2/enunciate-simple-archetype-1.22-RC2.jar returned status 404
+1.22-RC3		2011-04-09T04:14:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.22-RC3/enunciate-simple-archetype-1.22-RC3.jar returned status 404
+1.23		2011-06-24T22:52:07Z	
+1.23-RC1		2011-06-14T20:02:00Z	
 1.24		2011-08-23T17:07:53Z	
+1.24-RC1		2011-08-15T23:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/archetypes/enunciate-simple-archetype/1.24-RC1/enunciate-simple-archetype-1.24-RC1.jar returned status 404
 1.25		2012-01-09T21:40:31Z	
 1.25-RC1		2011-12-16T16:22:39Z	
 1.25-RC2		2011-12-21T22:40:43Z	

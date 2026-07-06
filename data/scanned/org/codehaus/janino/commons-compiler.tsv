@@ -13,6 +13,9 @@
 3.0.14		2019-07-05T16:26:07Z	
 3.0.15		2019-07-28T21:07:28Z	
 3.0.16		2020-03-18T12:21:29Z	
+3.0.2		2016-09-15T15:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/janino/commons-compiler/3.0.2/commons-compiler-3.0.2.jar returned status 404
+3.0.3		2016-09-15T15:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/janino/commons-compiler/3.0.3/commons-compiler-3.0.3.jar returned status 404
+3.0.4		2016-09-15T17:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/janino/commons-compiler/3.0.4/commons-compiler-3.0.4.jar returned status 404
 3.0.5		2016-09-15T17:19:50Z	
 3.0.6		2016-09-19T23:15:26Z	
 3.0.7		2017-03-22T08:02:55Z	

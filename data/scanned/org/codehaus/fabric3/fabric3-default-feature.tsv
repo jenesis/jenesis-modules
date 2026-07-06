@@ -1,0 +1,5 @@
+0.6		2008-09-15T02:16:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/fabric3/fabric3-default-feature/0.6/fabric3-default-feature-0.6.jar returned status 404
+0.6.5		2008-09-28T07:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/fabric3/fabric3-default-feature/0.6.5/fabric3-default-feature-0.6.5.jar returned status 404
+0.7		2008-12-13T13:52:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/fabric3/fabric3-default-feature/0.7/fabric3-default-feature-0.7.jar returned status 404
+1.0		2009-03-02T20:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/fabric3/fabric3-default-feature/1.0/fabric3-default-feature-1.0.jar returned status 404
+1.1		2009-06-05T18:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/fabric3/fabric3-default-feature/1.1/fabric3-default-feature-1.1.jar returned status 404

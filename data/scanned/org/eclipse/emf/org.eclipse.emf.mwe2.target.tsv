@@ -1,0 +1,5 @@
+2.7.1		2015-03-26T14:45:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/emf/org.eclipse.emf.mwe2.target/2.7.1/org.eclipse.emf.mwe2.target-2.7.1.jar returned status 404
+2.8.0		2015-07-13T08:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/emf/org.eclipse.emf.mwe2.target/2.8.0/org.eclipse.emf.mwe2.target-2.8.0.jar returned status 404
+2.8.1		2015-08-03T10:32:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/emf/org.eclipse.emf.mwe2.target/2.8.1/org.eclipse.emf.mwe2.target-2.8.1.jar returned status 404
+2.8.2		2015-10-23T13:14:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/emf/org.eclipse.emf.mwe2.target/2.8.2/org.eclipse.emf.mwe2.target-2.8.2.jar returned status 404
+2.8.3		2015-12-16T12:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/emf/org.eclipse.emf.mwe2.target/2.8.3/org.eclipse.emf.mwe2.target-2.8.3.jar returned status 404

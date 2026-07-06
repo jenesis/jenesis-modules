@@ -1,0 +1,11 @@
+1.0		2009-11-20T19:41:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.0/java16-sun-1.0.jar returned status 404
+1.1		2009-11-20T19:45:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.1/java16-sun-1.1.jar returned status 404
+1.10		2009-11-20T20:20:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.10/java16-sun-1.10.jar returned status 404
+1.2		2009-11-20T19:49:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.2/java16-sun-1.2.jar returned status 404
+1.3		2009-11-20T19:53:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.3/java16-sun-1.3.jar returned status 404
+1.4		2009-11-20T19:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.4/java16-sun-1.4.jar returned status 404
+1.5		2009-11-20T20:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.5/java16-sun-1.5.jar returned status 404
+1.6		2009-11-20T20:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.6/java16-sun-1.6.jar returned status 404
+1.7		2009-11-20T20:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.7/java16-sun-1.7.jar returned status 404
+1.8		2009-11-20T20:12:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.8/java16-sun-1.8.jar returned status 404
+1.9		2009-11-20T20:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/signature/java16-sun/1.9/java16-sun-1.9.jar returned status 404
