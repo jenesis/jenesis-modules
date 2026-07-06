@@ -93,6 +93,7 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 1.46.0.15097	named	org.sonarsource.iac	sonar-iac-plugin	2025-04-29T08:59:23Z	2.9
 0.46.0	named	io.strimzi	crd-generator	2025-05-03T15:03:33Z	2.9
 1.47.0.15287	named	org.sonarsource.iac	sonar-iac-plugin	2025-05-21T10:33:31Z	2.9
+6.14.0	named	io.fabric8	java-generator-cli	2025-06-10T11:34:26Z	2.9
 0.23.0	named	io.kestra.plugin	plugin-kubernetes	2025-06-17T13:07:38Z	2.9
 0.46.1-RC1	named	io.strimzi	crd-generator	2025-06-19T13:59:22Z	2.9
 1.50.0	named	com.datadoghq	dd-trace-ot	2025-06-20T11:24:12Z	2.9
@@ -136,6 +137,8 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 0.29.1	named	org.pkl-lang	pkl-config-java-all	2025-08-27T21:25:50Z	2.10
 1.5.0.Final	named	org.wildfly.glow	wildfly-glow	2025-08-29T10:30:29Z	2.7
 1.53.0	named	com.datadoghq	dd-trace-ot	2025-09-04T09:47:12Z	2.9
+7.4.0	named	io.fabric8	crd-generator-cli	2025-09-08T09:40:24Z	2.10
+7.4.0	named	io.fabric8	java-generator-cli	2025-09-08T09:40:24Z	2.10
 0.48.0-RC1	named	io.strimzi	crd-generator	2025-09-24T15:23:13Z	2.10
 0.48.0	named	io.strimzi	crd-generator	2025-09-29T12:12:28Z	2.10
 1.0.1	named	io.github.ethanz0x0	nucleus-config	2025-10-04T14:51:27Z	2.10

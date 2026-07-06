@@ -5,35 +5,67 @@
 1.0.2.Final	classes	2015-01-29T14:58:36Z	
 1.0.3.Final	classes	2015-02-17T17:37:09Z	
 1.1.0.RC1	classes	2015-03-04T21:04:45Z	
+1.2.2.Final		2021-12-15T21:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.2.Final/apiman-manager-ui-war-1.2.2.Final.jar returned status 404
 1.2.2.Final	ui	2016-02-29T14:02:25Z	
+1.2.3.CR1		2021-12-15T21:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.3.CR1/apiman-manager-ui-war-1.2.3.CR1.jar returned status 404
 1.2.3.CR1	ui	2016-03-11T15:30:57Z	
+1.2.3.Final		2021-12-15T21:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.3.Final/apiman-manager-ui-war-1.2.3.Final.jar returned status 404
 1.2.3.Final	ui	2016-03-23T18:46:30Z	
+1.2.4.Final		2021-12-15T21:22:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.4.Final/apiman-manager-ui-war-1.2.4.Final.jar returned status 404
 1.2.4.Final	ui	2016-04-22T13:30:22Z	
+1.2.5.Final		2021-12-15T21:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.5.Final/apiman-manager-ui-war-1.2.5.Final.jar returned status 404
 1.2.5.Final	ui	2016-04-26T19:12:42Z	
+1.2.6.Beta1		2021-12-15T21:22:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.6.Beta1/apiman-manager-ui-war-1.2.6.Beta1.jar returned status 404
 1.2.6.Beta1	ui	2016-05-08T15:00:06Z	
+1.2.6.Beta3		2021-12-15T21:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.6.Beta3/apiman-manager-ui-war-1.2.6.Beta3.jar returned status 404
 1.2.6.Beta3	ui	2016-05-11T06:43:13Z	
+1.2.6.Final		2021-12-15T21:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.6.Final/apiman-manager-ui-war-1.2.6.Final.jar returned status 404
 1.2.6.Final	ui	2016-05-24T19:15:35Z	
+1.2.7.Beta1		2021-12-15T21:22:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.7.Beta1/apiman-manager-ui-war-1.2.7.Beta1.jar returned status 404
 1.2.7.Beta1	ui	2016-06-14T21:44:59Z	
+1.2.7.Final		2021-12-15T21:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.7.Final/apiman-manager-ui-war-1.2.7.Final.jar returned status 404
 1.2.7.Final	ui	2016-06-22T12:23:02Z	
+1.2.8.Final		2021-12-15T21:22:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.8.Final/apiman-manager-ui-war-1.2.8.Final.jar returned status 404
 1.2.8.Final	ui	2016-09-27T13:51:53Z	
+1.2.9.Final		2021-12-15T21:22:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.9.Final/apiman-manager-ui-war-1.2.9.Final.jar returned status 404
 1.2.9.Final	ui	2017-01-06T19:41:37Z	
+1.3.0.Final		2021-12-15T21:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.0.Final/apiman-manager-ui-war-1.3.0.Final.jar returned status 404
 1.3.0.Final	ui	2017-05-03T16:52:44Z	
+1.3.1.Final		2021-12-15T21:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.1.Final/apiman-manager-ui-war-1.3.1.Final.jar returned status 404
 1.3.1.Final	ui	2017-06-26T18:50:18Z	
+1.3.2.Final		2021-12-15T21:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.2.Final/apiman-manager-ui-war-1.3.2.Final.jar returned status 404
 1.3.2.Final	ui	2018-04-16T19:18:11Z	
+1.3.3.Final		2021-12-15T21:22:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.3.Final/apiman-manager-ui-war-1.3.3.Final.jar returned status 404
 1.3.3.Final	ui	2018-04-18T16:35:15Z	
+1.3.4.Final		2021-12-15T21:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.4.Final/apiman-manager-ui-war-1.3.4.Final.jar returned status 404
 1.3.4.Final	ui	2018-04-26T19:18:51Z	
+1.3.5.Final		2021-12-15T21:22:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.3.5.Final/apiman-manager-ui-war-1.3.5.Final.jar returned status 404
 1.3.5.Final	ui	2018-04-27T19:45:49Z	
+1.4.0.Final		2021-12-15T21:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.4.0.Final/apiman-manager-ui-war-1.4.0.Final.jar returned status 404
 1.4.0.Final	ui	2018-06-12T17:33:42Z	
+1.4.1.Final		2021-12-15T21:22:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.4.1.Final/apiman-manager-ui-war-1.4.1.Final.jar returned status 404
 1.4.1.Final	ui	2018-06-19T10:31:57Z	
+1.4.2.Final		2021-12-15T21:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.4.2.Final/apiman-manager-ui-war-1.4.2.Final.jar returned status 404
 1.4.2.Final	ui	2018-07-03T11:54:09Z	
+1.4.3.Final		2021-12-15T21:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.4.3.Final/apiman-manager-ui-war-1.4.3.Final.jar returned status 404
 1.4.3.Final	ui	2018-07-03T13:36:07Z	
+1.5.0.Final		2021-12-15T21:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.0.Final/apiman-manager-ui-war-1.5.0.Final.jar returned status 404
 1.5.0.Final	ui	2018-07-25T11:27:13Z	
+1.5.1.Final		2021-12-15T21:22:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.1.Final/apiman-manager-ui-war-1.5.1.Final.jar returned status 404
 1.5.1.Final	ui	2018-07-27T10:53:04Z	
+1.5.2.Final		2021-12-15T21:22:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.2.Final/apiman-manager-ui-war-1.5.2.Final.jar returned status 404
 1.5.2.Final	ui	2019-08-23T16:34:20Z	
+1.5.3.Final		2021-12-15T21:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.3.Final/apiman-manager-ui-war-1.5.3.Final.jar returned status 404
 1.5.3.Final	ui	2019-11-11T19:14:23Z	
+1.5.4.Final		2021-12-15T21:22:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.4.Final/apiman-manager-ui-war-1.5.4.Final.jar returned status 404
 1.5.4.Final	ui	2019-11-14T16:30:04Z	
+1.5.5.Final		2021-12-15T21:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.5.Final/apiman-manager-ui-war-1.5.5.Final.jar returned status 404
 1.5.5.Final	ui	2020-01-22T13:45:27Z	
+1.5.6.Final		2021-12-15T21:22:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.6.Final/apiman-manager-ui-war-1.5.6.Final.jar returned status 404
 1.5.6.Final	ui	2020-11-02T17:12:37Z	
+1.5.7.Final		2021-12-15T21:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.5.7.Final/apiman-manager-ui-war-1.5.7.Final.jar returned status 404
 1.5.7.Final	ui	2020-11-02T13:38:16Z	
+2.0.0.Final		2021-12-15T21:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/2.0.0.Final/apiman-manager-ui-war-2.0.0.Final.jar returned status 404
 2.0.0.Final	ui	2020-10-13T18:20:15Z	
+2.1.0.Final		2021-12-15T21:22:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/2.1.0.Final/apiman-manager-ui-war-2.1.0.Final.jar returned status 404
 2.1.0.Final	ui	2021-07-23T10:04:03Z	

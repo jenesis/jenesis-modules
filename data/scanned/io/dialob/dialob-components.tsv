@@ -1,0 +1,2 @@
+2.3.0		2025-09-24T11:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-components/2.3.0/dialob-components-2.3.0.jar returned status 404
+2.3.1		2025-11-18T09:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-components/2.3.1/dialob-components-2.3.1.jar returned status 404

@@ -7,6 +7,8 @@
 1.0.2	thorntail	2020-09-17T07:20:56Z	
 1.0.3	thorntail	2020-09-22T15:04:44Z	
 2.0.0-alpha-1	thorntail	2020-06-19T13:17:55Z	
+4.1.6		2025-09-19T13:41:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/thorntail-on-kubernetes-example/4.1.6/thorntail-on-kubernetes-example-4.1.6.jar returned status 404
 4.1.6	thorntail	2025-09-19T13:41:33Z	
+4.1.7		2025-10-12T15:08:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/thorntail-on-kubernetes-example/4.1.7/thorntail-on-kubernetes-example-4.1.7.jar returned status 404
 4.1.7	thorntail	2025-10-12T15:08:22Z	
 4.1.8	thorntail	2026-06-23T07:55:52Z	

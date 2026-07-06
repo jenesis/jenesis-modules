@@ -1,0 +1,2 @@
+1.2.0.Final		2021-12-15T21:22:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-gateway-platforms-war-standalone-gateway/1.2.0.Final/apiman-gateway-platforms-war-standalone-gateway-1.2.0.Final.jar returned status 404
+1.2.1.Final		2021-12-15T21:21:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-gateway-platforms-war-standalone-gateway/1.2.1.Final/apiman-gateway-platforms-war-standalone-gateway-1.2.1.Final.jar returned status 404

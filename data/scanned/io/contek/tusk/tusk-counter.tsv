@@ -6,6 +6,7 @@
 4.8.0		2022-11-30T07:08:04Z	
 4.8.1		2022-11-30T07:46:40Z	
 4.8.4		2022-11-30T09:01:53Z	
+4.8.5		2023-01-23T08:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/contek/tusk/tusk-counter/4.8.5/tusk-counter-4.8.5.jar returned status 404
 5.0.3		2023-06-02T04:03:19Z	
 5.1.0		2024-01-19T10:41:38Z	
 5.2.0		2024-03-25T03:01:07Z	

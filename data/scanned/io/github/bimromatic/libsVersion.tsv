@@ -1,0 +1,13 @@
+1.0.0		2023-03-11T05:28:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.0/libsVersion-1.0.0.jar returned status 404
+1.0.1		2023-03-11T14:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.1/libsVersion-1.0.1.jar returned status 404
+1.0.2		2023-03-11T15:44:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.2/libsVersion-1.0.2.jar returned status 404
+1.0.3		2023-03-13T07:18:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.3/libsVersion-1.0.3.jar returned status 404
+1.0.4		2023-03-13T07:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.4/libsVersion-1.0.4.jar returned status 404
+1.0.5		2023-03-13T08:50:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.5/libsVersion-1.0.5.jar returned status 404
+1.0.6		2023-03-13T09:00:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.6/libsVersion-1.0.6.jar returned status 404
+1.0.7		2023-03-13T09:52:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.7/libsVersion-1.0.7.jar returned status 404
+1.0.8		2023-03-14T01:51:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.8/libsVersion-1.0.8.jar returned status 404
+1.0.9		2023-03-14T06:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.0.9/libsVersion-1.0.9.jar returned status 404
+1.1.0		2023-03-14T08:48:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.1.0/libsVersion-1.1.0.jar returned status 404
+1.1.1		2023-03-14T09:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.1.1/libsVersion-1.1.1.jar returned status 404
+1.1.2		2023-03-14T15:44:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bimromatic/libsVersion/1.1.2/libsVersion-1.1.2.jar returned status 404

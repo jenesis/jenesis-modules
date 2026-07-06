@@ -1,0 +1,4 @@
+0.0.1		2022-06-02T17:54:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/zoroark/tegral/tegral-catalog/0.0.1/tegral-catalog-0.0.1.jar returned status 404
+0.0.2		2022-08-13T22:23:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/zoroark/tegral/tegral-catalog/0.0.2/tegral-catalog-0.0.2.jar returned status 404
+0.0.3		2022-10-01T20:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/zoroark/tegral/tegral-catalog/0.0.3/tegral-catalog-0.0.3.jar returned status 404
+0.0.4		2023-05-14T21:15:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/zoroark/tegral/tegral-catalog/0.0.4/tegral-catalog-0.0.4.jar returned status 404
