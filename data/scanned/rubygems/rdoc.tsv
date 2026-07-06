@@ -1,0 +1,2 @@
+4.1.0		2015-03-28T14:08:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/rubygems/rdoc/4.1.0/rdoc-4.1.0.jar returned status 404
+4.1.2		2015-10-23T17:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/rubygems/rdoc/4.1.2/rdoc-4.1.2.jar returned status 404

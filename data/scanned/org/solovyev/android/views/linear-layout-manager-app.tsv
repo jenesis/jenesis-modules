@@ -1,0 +1,5 @@
+0.1		2015-04-11T17:08:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/solovyev/android/views/linear-layout-manager-app/0.1/linear-layout-manager-app-0.1.jar returned status 404
+0.2		2015-04-25T08:17:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/solovyev/android/views/linear-layout-manager-app/0.2/linear-layout-manager-app-0.2.jar returned status 404
+0.3		2015-05-26T18:12:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/solovyev/android/views/linear-layout-manager-app/0.3/linear-layout-manager-app-0.3.jar returned status 404
+0.4		2015-06-23T08:45:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/solovyev/android/views/linear-layout-manager-app/0.4/linear-layout-manager-app-0.4.jar returned status 404
+0.5		2015-07-20T08:35:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/solovyev/android/views/linear-layout-manager-app/0.5/linear-layout-manager-app-0.5.jar returned status 404

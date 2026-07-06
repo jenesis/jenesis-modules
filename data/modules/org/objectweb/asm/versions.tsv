@@ -299,6 +299,9 @@ RELEASE113	named	org.netbeans.external	asm-7.2	2020-02-21T16:30:24Z	7.2.0
 3.0.9	named	com.google.gerrit	gerrit-acceptance-framework	2020-05-25T07:06:07Z	7.2.0
 3.0.9	named	com.google.gerrit	gerrit-plugin-api	2020-05-25T07:07:22Z	7.2.0
 3.1.5	named	com.google.gerrit	gerrit-plugin-api	2020-05-26T00:06:46Z	7.2.0
+0.5	named	org.tomitribe.jkta	jkta	2020-05-28T23:04:43Z	8.0.1
+0.6	named	org.tomitribe.jkta	jkta	2020-05-29T19:58:25Z	8.0.1
+0.7	named	org.tomitribe.jkta	jkta	2020-05-29T21:50:46Z	8.0.1
 2.16.20	named	com.google.gerrit	gerrit-acceptance-framework	2020-05-29T22:51:03Z	7.2.0
 2.16.20	named	com.google.gerrit	gerrit-plugin-api	2020-05-29T23:00:21Z	7.2.0
 1.0	named	com.github.priytam	exampleApp	2020-05-30T13:44:05Z	7.0.0

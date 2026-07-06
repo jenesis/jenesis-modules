@@ -1,0 +1,7 @@
+1.1		2005-11-22T18:25:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.1/struts-html-1.1.jar returned status 404
+1.1-rc1		2005-11-22T18:25:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.1-rc1/struts-html-1.1-rc1.jar returned status 404
+1.1-rc2		2005-11-22T18:25:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.1-rc2/struts-html-1.1-rc2.jar returned status 404
+1.2.2		2005-12-23T05:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.2.2/struts-html-1.2.2.jar returned status 404
+1.2.4		2005-12-23T05:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.2.4/struts-html-1.2.4.jar returned status 404
+1.2.7		2005-12-23T05:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.2.7/struts-html-1.2.7.jar returned status 404
+1.2.8		2005-12-23T05:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/struts/struts-html/1.2.8/struts-html-1.2.8.jar returned status 404

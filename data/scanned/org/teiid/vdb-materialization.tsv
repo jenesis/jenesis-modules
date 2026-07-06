@@ -1,2 +1,4 @@
+1.0.1		2018-11-16T18:14:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/vdb-materialization/1.0.1/vdb-materialization-1.0.1.jar returned status 404
 1.0.1	thorntail	2018-11-16T18:12:12Z	
+1.0.2		2018-11-16T22:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/vdb-materialization/1.0.2/vdb-materialization-1.0.2.jar returned status 404
 1.0.2	thorntail	2018-11-16T22:21:58Z	

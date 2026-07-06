@@ -1,2 +1,4 @@
+1.0.1		2018-11-16T18:08:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/rdbms-as-datasource/1.0.1/rdbms-as-datasource-1.0.1.jar returned status 404
 1.0.1	thorntail	2018-11-16T18:08:26Z	
+1.0.2		2018-11-16T22:19:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/rdbms-as-datasource/1.0.2/rdbms-as-datasource-1.0.2.jar returned status 404
 1.0.2	thorntail	2018-11-16T22:23:59Z	

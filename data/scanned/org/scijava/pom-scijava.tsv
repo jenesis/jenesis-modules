@@ -40,6 +40,9 @@
 30.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/30.0.0/pom-scijava-30.0.0.jar returned status 404
 31.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/31.0.0/pom-scijava-31.0.0.jar returned status 404
 31.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/31.1.0/pom-scijava-31.1.0.jar returned status 404
+38.0.1		2024-07-08T20:20:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/38.0.1/pom-scijava-38.0.1.jar returned status 404
+39.0.0		2024-10-15T17:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/39.0.0/pom-scijava-39.0.0.jar returned status 404
+40.0.0		2024-12-11T20:53:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/40.0.0/pom-scijava-40.0.0.jar returned status 404
 41.0.0		2025-07-16T20:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/41.0.0/pom-scijava-41.0.0.jar returned status 404
 42.0.0		2025-08-11T22:24:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/42.0.0/pom-scijava-42.0.0.jar returned status 404
 43.0.0		2025-09-25T21:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scijava/pom-scijava/43.0.0/pom-scijava-43.0.0.jar returned status 404

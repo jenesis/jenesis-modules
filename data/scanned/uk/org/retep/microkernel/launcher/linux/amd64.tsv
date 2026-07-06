@@ -1,0 +1,4 @@
+10.5		2010-05-04T14:27:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/org/retep/microkernel/launcher/linux/amd64/10.5/amd64-10.5.jar returned status 404
+9.10		2010-01-29T13:12:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/org/retep/microkernel/launcher/linux/amd64/9.10/amd64-9.10.jar returned status 404
+9.8-RC1		2010-01-29T13:12:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/org/retep/microkernel/launcher/linux/amd64/9.8-RC1/amd64-9.8-RC1.jar returned status 404
+9.8.1		2010-01-29T13:12:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/org/retep/microkernel/launcher/linux/amd64/9.8.1/amd64-9.8.1.jar returned status 404

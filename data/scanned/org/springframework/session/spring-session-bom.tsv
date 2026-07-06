@@ -1,3 +1,21 @@
+2020.0.0		2020-10-29T07:45:31Z	
+2020.0.1		2020-11-09T16:24:41Z	
+2020.0.3		2021-01-25T09:44:47Z	
+2020.0.4		2021-04-15T06:15:23Z	
+2020.0.5		2021-06-23T09:01:33Z	
+2020.0.6		2021-08-18T12:24:36Z	
+2020.0.7		2021-10-21T06:45:39Z	
+2021.0.0		2021-05-19T16:33:56Z	
+2021.0.1		2021-06-23T08:28:59Z	
+2021.0.2		2021-08-18T13:34:05Z	
+2021.0.3		2021-10-21T07:00:18Z	
+2021.0.4		2021-12-21T12:17:10Z	
+2021.0.5		2022-02-23T10:25:39Z	
+2021.0.6		2022-04-20T13:46:52Z	
+2021.1.0		2021-11-17T09:19:17Z	
+2021.1.1		2021-12-21T14:38:54Z	
+2021.1.2		2022-02-23T09:52:24Z	
+2021.1.3		2022-04-20T12:08:40Z	
 2021.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/2021.2.0/spring-session-bom-2021.2.0.jar returned status 404
 2021.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/2021.2.1/spring-session-bom-2021.2.1.jar returned status 404
 2021.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/2021.2.2/spring-session-bom-2021.2.2.jar returned status 404
@@ -57,3 +75,37 @@
 4.1.0		2026-06-09T21:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/4.1.0/spring-session-bom-4.1.0.jar returned status 404
 4.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/4.1.0-M1/spring-session-bom-4.1.0-M1.jar returned status 404
 4.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/4.1.0-RC1/spring-session-bom-4.1.0-RC1.jar returned status 404
+Apple-RELEASE		2018-01-30T18:54:18Z	
+Apple-SR1		2018-02-20T23:43:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/Apple-SR1/spring-session-bom-Apple-SR1.jar returned status 404
+Apple-SR2		2018-05-08T19:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/Apple-SR2/spring-session-bom-Apple-SR2.jar returned status 404
+Apple-SR3		2018-06-13T22:22:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/Apple-SR3/spring-session-bom-Apple-SR3.jar returned status 404
+Apple-SR4		2018-07-29T14:14:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/Apple-SR4/spring-session-bom-Apple-SR4.jar returned status 404
+Apple-SR5		2018-09-11T02:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/session/spring-session-bom/Apple-SR5/spring-session-bom-Apple-SR5.jar returned status 404
+Apple-SR6		2018-10-16T02:13:32Z	
+Apple-SR7		2018-11-28T22:02:54Z	
+Apple-SR8		2019-01-11T04:15:57Z	
+Apple-SR9		2019-04-02T21:38:23Z	
+Bean-RELEASE		2018-10-29T16:23:59Z	
+Bean-SR1		2018-11-28T20:31:16Z	
+Bean-SR10		2020-03-04T20:50:31Z	
+Bean-SR11		2020-06-26T13:15:28Z	
+Bean-SR12		2020-09-17T05:28:02Z	
+Bean-SR2		2019-01-11T04:21:45Z	
+Bean-SR3		2019-02-14T02:14:47Z	
+Bean-SR4		2019-04-02T21:15:28Z	
+Bean-SR5		2019-05-13T19:49:34Z	
+Bean-SR6		2019-06-16T07:18:41Z	
+Bean-SR7		2019-08-05T16:00:53Z	
+Bean-SR8		2019-10-01T12:08:58Z	
+Bean-SR9		2020-02-04T13:45:49Z	
+Corn-RELEASE		2019-10-16T13:09:18Z	
+Corn-SR1		2020-02-04T13:17:20Z	
+Corn-SR2		2020-03-04T21:48:16Z	
+Corn-SR3		2020-06-26T12:48:41Z	
+Corn-SR4		2020-09-17T05:39:27Z	
+Corn-SR5		2021-01-26T11:15:57Z	
+Corn-SR6		2021-04-15T06:39:07Z	
+Dragonfruit-RELEASE		2020-05-14T01:39:10Z	
+Dragonfruit-SR1		2020-09-17T06:05:50Z	
+Dragonfruit-SR2		2021-01-26T10:34:29Z	
+Dragonfruit-SR3		2021-04-15T06:22:43Z	

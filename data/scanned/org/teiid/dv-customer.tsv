@@ -1,0 +1,2 @@
+1.0		2019-12-11T20:02:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/dv-customer/1.0/dv-customer-1.0.jar returned status 404
+1.1		2019-12-14T18:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/dv-customer/1.1/dv-customer-1.1.jar returned status 404

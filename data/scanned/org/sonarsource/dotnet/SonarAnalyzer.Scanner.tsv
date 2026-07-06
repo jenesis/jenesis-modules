@@ -1,0 +1,4 @@
+5.10.0.1344		2017-05-04T07:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/SonarAnalyzer.Scanner/5.10.0.1344/SonarAnalyzer.Scanner-5.10.0.1344.jar returned status 404
+5.10.1.1411		2017-05-09T13:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/SonarAnalyzer.Scanner/5.10.1.1411/SonarAnalyzer.Scanner-5.10.1.1411.jar returned status 404
+5.11.0.1761		2017-06-02T14:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/SonarAnalyzer.Scanner/5.11.0.1761/SonarAnalyzer.Scanner-5.11.0.1761.jar returned status 404
+5.9.0.1001		2017-04-11T07:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/SonarAnalyzer.Scanner/5.9.0.1001/SonarAnalyzer.Scanner-5.9.0.1001.jar returned status 404

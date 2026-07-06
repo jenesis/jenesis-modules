@@ -1,2 +1,4 @@
+1.0.1		2018-11-16T18:06:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/webservice-as-datasource/1.0.1/webservice-as-datasource-1.0.1.jar returned status 404
 1.0.1	thorntail	2018-11-16T18:14:28Z	
+1.0.2		2018-11-16T22:22:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/teiid/webservice-as-datasource/1.0.2/webservice-as-datasource-1.0.2.jar returned status 404
 1.0.2	thorntail	2018-11-16T22:19:03Z	

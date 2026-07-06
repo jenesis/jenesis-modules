@@ -1,3 +1,7 @@
+1.0		2005-11-26T01:00:55Z	
+1.0-m4		2005-11-26T01:00:55Z	
+1.0-rc1		2005-11-26T01:00:55Z	
+1.0.1		2005-11-26T01:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring/1.0.1/spring-1.0.1.jar returned status 404
 1.1		2005-12-23T16:37:12Z	
 1.1-rc1		2005-12-23T16:37:12Z	
 1.1-rc2		2005-12-23T16:37:12Z	
