@@ -1,3 +1,4 @@
 1.3.0		2025-07-17T14:24:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/vms-web/1.3.0/vms-web-1.3.0.jar returned status 404
 1.4.0		2025-07-23T13:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/vms-web/1.4.0/vms-web-1.4.0.jar returned status 404
 1.4.1		2025-08-06T17:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/vms-web/1.4.1/vms-web-1.4.1.jar returned status 404
+1.5.0		2026-06-03T11:25:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/vms-web/1.5.0/vms-web-1.5.0.jar returned status 404

@@ -4,3 +4,4 @@
 1.0.36		2026-05-29T09:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/code-sourcery/versiontracker/versiontracker-server/1.0.36/versiontracker-server-1.0.36.jar returned status 404
 1.0.37		2026-05-29T13:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/code-sourcery/versiontracker/versiontracker-server/1.0.37/versiontracker-server-1.0.37.jar returned status 404
 1.0.38		2026-05-29T14:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/code-sourcery/versiontracker/versiontracker-server/1.0.38/versiontracker-server-1.0.38.jar returned status 404
+1.0.39		2026-06-01T13:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/code-sourcery/versiontracker/versiontracker-server/1.0.39/versiontracker-server-1.0.39.jar returned status 404

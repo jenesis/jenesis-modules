@@ -40,3 +40,4 @@
 3.0.0		2026-05-18T09:56:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/email/micronaut-email-bom/3.0.0/micronaut-email-bom-3.0.0.jar returned status 404
 3.0.0-M1		2025-12-09T10:26:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/email/micronaut-email-bom/3.0.0-M1/micronaut-email-bom-3.0.0-M1.jar returned status 404
 3.0.0-RC1		2026-05-08T11:44:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/email/micronaut-email-bom/3.0.0-RC1/micronaut-email-bom-3.0.0-RC1.jar returned status 404
+3.1.0		2026-06-18T12:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/email/micronaut-email-bom/3.1.0/micronaut-email-bom-3.1.0.jar returned status 404

@@ -9,4 +9,5 @@
 3.0.3	client	2025-07-01T00:29:41Z	
 3.0.4		2026-01-01T21:10:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/joy/original/apptbook-web/3.0.4/apptbook-web-3.0.4.jar returned status 404
 3.0.4	client	2026-01-01T21:10:53Z	
+3.1.0		2026-06-01T03:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/joy/original/apptbook-web/3.1.0/apptbook-web-3.1.0.jar returned status 404
 3.1.0	client	2026-06-01T03:20:15Z	

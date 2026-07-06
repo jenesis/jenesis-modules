@@ -8,3 +8,12 @@
 2.3.0		2026-05-04T05:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.3.0/haldish-2.3.0.jar returned status 404
 2.3.1		2026-05-22T17:11:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.3.1/haldish-2.3.1.jar returned status 404
 2.4.0		2026-06-01T04:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.4.0/haldish-2.4.0.jar returned status 404
+2.4.1		2026-06-02T06:15:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.4.1/haldish-2.4.1.jar returned status 404
+2.4.2		2026-06-04T15:00:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.4.2/haldish-2.4.2.jar returned status 404
+2.4.3		2026-06-06T02:18:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.4.3/haldish-2.4.3.jar returned status 404
+2.4.4		2026-06-09T02:48:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/2.4.4/haldish-2.4.4.jar returned status 404
+3.0.0		2026-06-11T03:49:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/3.0.0/haldish-3.0.0.jar returned status 404
+3.1.0		2026-06-12T05:04:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/3.1.0/haldish-3.1.0.jar returned status 404
+3.1.1		2026-06-16T19:23:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/3.1.1/haldish-3.1.1.jar returned status 404
+3.2.0		2026-06-18T16:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/3.2.0/haldish-3.2.0.jar returned status 404
+3.2.1		2026-06-19T04:44:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/haldish/3.2.1/haldish-3.2.1.jar returned status 404

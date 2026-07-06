@@ -12,6 +12,7 @@
 2026.05.25		2026-05-24T16:06:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/2026.05.25/vcatalog-2026.05.25.jar returned status 404
 2026.05.26		2026-05-25T16:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/2026.05.26/vcatalog-2026.05.26.jar returned status 404
 2026.05.28		2026-05-28T12:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/2026.05.28/vcatalog-2026.05.28.jar returned status 404
+2026.06.01		2026-06-01T14:15:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/2026.06.01/vcatalog-2026.06.01.jar returned status 404
 24.09.29		2024-09-29T16:29:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/24.09.29/vcatalog-24.09.29.jar returned status 404
 24.09.30		2024-10-01T01:26:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/24.09.30/vcatalog-24.09.30.jar returned status 404
 24.10.01		2024-10-03T13:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/5hmla/vcatalog/24.10.01/vcatalog-24.10.01.jar returned status 404

@@ -231,3 +231,4 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 0.12.1	named	org.apache.zeppelin	launcher-k8s-standard	2026-05-23T14:36:57Z	2.7
 2.1.0.Final	named	org.wildfly.glow	wildfly-glow	2026-05-27T10:30:44Z	2.7
 1.63.0	named	com.datadoghq	dd-trace-ot	2026-06-01T13:45:05Z	2.9
+2.2.0.Final	named	org.wildfly.glow	wildfly-glow	2026-06-19T10:30:34Z	2.7

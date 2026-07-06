@@ -8,6 +8,8 @@
 3.13.1		2026-04-28T15:24:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.13.1/mirila-example-war-3.13.1.jar returned status 404
 3.13.2		2026-04-28T20:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.13.2/mirila-example-war-3.13.2.jar returned status 404
 3.14.0		2026-05-05T15:44:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.14.0/mirila-example-war-3.14.0.jar returned status 404
+3.14.1		2026-06-19T09:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.14.1/mirila-example-war-3.14.1.jar returned status 404
+3.15.0		2026-06-22T06:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.15.0/mirila-example-war-3.15.0.jar returned status 404
 3.2.0		2025-11-08T22:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.2.0/mirila-example-war-3.2.0.jar returned status 404
 3.3.0		2025-11-19T23:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.3.0/mirila-example-war-3.3.0.jar returned status 404
 3.5.0		2025-11-22T09:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.5.0/mirila-example-war-3.5.0.jar returned status 404

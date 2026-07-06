@@ -48,6 +48,7 @@
 0.37.27		2026-03-19T14:57:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.27/neonbee-dist-0.37.27.jar returned status 404
 0.37.29		2026-06-16T08:09:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.29/neonbee-dist-0.37.29.jar returned status 404
 0.37.3		2025-01-21T09:38:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.3/neonbee-dist-0.37.3.jar returned status 404
+0.37.30		2026-06-18T15:50:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.30/neonbee-dist-0.37.30.jar returned status 404
 0.37.4		2025-01-24T13:33:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.4/neonbee-dist-0.37.4.jar returned status 404
 0.37.5		2025-01-25T08:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.5/neonbee-dist-0.37.5.jar returned status 404
 0.37.6		2025-06-17T07:33:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/neonbee/neonbee-dist/0.37.6/neonbee-dist-0.37.6.jar returned status 404

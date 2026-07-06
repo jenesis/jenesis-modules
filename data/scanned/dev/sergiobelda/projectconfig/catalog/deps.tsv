@@ -11,3 +11,4 @@
 2026.03.01		2026-03-23T07:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/catalog/deps/2026.03.01/deps-2026.03.01.jar returned status 404
 2026.04.00		2026-04-11T23:18:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/catalog/deps/2026.04.00/deps-2026.04.00.jar returned status 404
 2026.04.01		2026-04-28T20:29:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/catalog/deps/2026.04.01/deps-2026.04.01.jar returned status 404
+2026.06.00		2026-06-10T19:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/catalog/deps/2026.06.00/deps-2026.06.00.jar returned status 404

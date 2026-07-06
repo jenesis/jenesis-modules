@@ -10,4 +10,6 @@
 5.0.0		2026-02-28T00:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.0/failinitfilterwebapp-5.0.0.jar returned status 404
 5.0.1		2026-04-23T22:13:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.1/failinitfilterwebapp-5.0.1.jar returned status 404
 5.0.2		2026-05-13T20:15:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.2/failinitfilterwebapp-5.0.2.jar returned status 404
+5.0.3		2026-06-03T19:47:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.3/failinitfilterwebapp-5.0.3.jar returned status 404
 5.0.3-beta		2026-05-19T16:10:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.3-beta/failinitfilterwebapp-5.0.3-beta.jar returned status 404
+5.0.4		2026-06-11T13:18:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/failinitfilterwebapp/5.0.4/failinitfilterwebapp-5.0.4.jar returned status 404
