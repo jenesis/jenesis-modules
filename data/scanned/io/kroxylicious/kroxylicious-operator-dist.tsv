@@ -1,0 +1,6 @@
+0.14.0		2025-08-08T00:09:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.14.0/kroxylicious-operator-dist-0.14.0.jar returned status 404
+0.15.0		2025-08-18T00:50:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.15.0/kroxylicious-operator-dist-0.15.0.jar returned status 404
+0.16.0		2025-10-01T14:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.16.0/kroxylicious-operator-dist-0.16.0.jar returned status 404
+0.17.0		2025-10-28T14:29:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.17.0/kroxylicious-operator-dist-0.17.0.jar returned status 404
+0.17.1		2025-11-06T23:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.17.1/kroxylicious-operator-dist-0.17.1.jar returned status 404
+0.18.0		2025-11-28T12:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kroxylicious/kroxylicious-operator-dist/0.18.0/kroxylicious-operator-dist-0.18.0.jar returned status 404

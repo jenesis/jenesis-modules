@@ -1,0 +1,6 @@
+0.0.4		2025-02-02T08:40:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/0.0.4/catalog-0.0.4.jar returned status 404
+0.0.5		2025-02-02T23:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/0.0.5/catalog-0.0.5.jar returned status 404
+0.0.6		2025-02-03T01:14:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/0.0.6/catalog-0.0.6.jar returned status 404
+0.0.7		2025-02-16T09:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/0.0.7/catalog-0.0.7.jar returned status 404
+0.0.8		2025-05-18T04:24:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/0.0.8/catalog-0.0.8.jar returned status 404
+unspecified		2025-02-02T08:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ight/catalog/unspecified/catalog-unspecified.jar returned status 404
