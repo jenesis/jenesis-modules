@@ -54,4 +54,5 @@
 1.8.2	classpath-module	2022-07-13T22:36:26Z	
 2.0.0		2025-03-05T10:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/addressing/2.0.0/addressing-2.0.0.jar returned status 404
 2.0.0	classpath-module	2025-03-05T10:47:15Z	
+2.0.1		2026-05-17T23:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/addressing/2.0.1/addressing-2.0.1.jar returned status 404
 2.0.1	classpath-module	2026-05-17T23:30:12Z	

@@ -2,3 +2,4 @@
 1.8.1		2022-06-07T19:50:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/schema-validation/1.8.1/schema-validation-1.8.1.jar returned status 404
 1.8.2		2022-07-13T22:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/schema-validation/1.8.2/schema-validation-1.8.2.jar returned status 404
 2.0.0		2025-03-05T10:55:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/schema-validation/2.0.0/schema-validation-2.0.0.jar returned status 404
+2.0.1		2026-05-17T23:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/schema-validation/2.0.1/schema-validation-2.0.1.jar returned status 404

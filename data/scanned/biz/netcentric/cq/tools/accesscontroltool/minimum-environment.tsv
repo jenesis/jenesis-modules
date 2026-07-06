@@ -1,3 +1,4 @@
+2.5.4		2020-07-01T15:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/netcentric/cq/tools/accesscontroltool/minimum-environment/2.5.4/minimum-environment-2.5.4.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/netcentric/cq/tools/accesscontroltool/minimum-environment/4.0.0/minimum-environment-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/netcentric/cq/tools/accesscontroltool/minimum-environment/4.0.1/minimum-environment-4.0.1.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/biz/netcentric/cq/tools/accesscontroltool/minimum-environment/4.1.0/minimum-environment-4.1.0.jar returned status 404

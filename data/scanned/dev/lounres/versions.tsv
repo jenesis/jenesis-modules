@@ -57,3 +57,5 @@
 2026.3.20.21		2026-03-20T21:53:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/versions/2026.3.20.21/versions-2026.3.20.21.jar returned status 404
 2026.4.3.21		2026-04-03T21:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/versions/2026.4.3.21/versions-2026.4.3.21.jar returned status 404
 2026.6.10.19		2026-06-10T19:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/versions/2026.6.10.19/versions-2026.6.10.19.jar returned status 404
+2026.6.22.7		2026-06-22T07:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/versions/2026.6.22.7/versions-2026.6.22.7.jar returned status 404
+2026.6.22.8		2026-06-22T08:13:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/versions/2026.6.22.8/versions-2026.6.22.8.jar returned status 404

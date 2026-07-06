@@ -10,3 +10,4 @@
 5.1.0-1.0		2017-12-19T15:54:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-esb-default-deb/5.1.0-1.0/petals-esb-default-deb-5.1.0-1.0.jar returned status 404
 5.2.0-1.0		2018-07-24T13:27:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-esb-default-deb/5.2.0-1.0/petals-esb-default-deb-5.2.0-1.0.jar returned status 404
 5.3.0-1.0		2023-04-13T14:38:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-esb-default-deb/5.3.0-1.0/petals-esb-default-deb-5.3.0-1.0.jar returned status 404
+5.4.0-1.0		2026-02-18T16:46:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-esb-default-deb/5.4.0-1.0/petals-esb-default-deb-5.4.0-1.0.jar returned status 404

@@ -1,1 +1,2 @@
 1.0.0		2024-02-19T15:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/plugindemo/samplecatalog/1.0.0/samplecatalog-1.0.0.jar returned status 404
+1.0.1		2026-05-11T12:22:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/kakde/plugindemo/samplecatalog/1.0.1/samplecatalog-1.0.1.jar returned status 404

@@ -54,10 +54,17 @@
 4.2.0-beta	classpath-module	2023-02-11T17:03:21Z	
 4.2.0-m1		2022-11-14T14:04:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.2.0-m1/utsecurity-4.2.0-m1.jar returned status 404
 4.2.0-m1	classpath-module	2022-11-14T14:04:22Z	
+4.6.0		2026-05-09T06:38:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0/utsecurity-4.6.0.jar returned status 404
 4.6.0	classpath-module	2026-05-09T06:38:26Z	
+4.6.0-alpha		2026-02-17T13:23:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-alpha/utsecurity-4.6.0-alpha.jar returned status 404
 4.6.0-alpha	classpath-module	2026-02-17T13:23:27Z	
+4.6.0-alpha2		2026-03-25T15:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-alpha2/utsecurity-4.6.0-alpha2.jar returned status 404
 4.6.0-alpha2	classpath-module	2026-03-25T15:04:36Z	
+4.6.0-alpha3		2026-04-07T05:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-alpha3/utsecurity-4.6.0-alpha3.jar returned status 404
 4.6.0-alpha3	classpath-module	2026-04-07T05:06:02Z	
+4.6.0-alpha4		2026-04-10T10:14:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-alpha4/utsecurity-4.6.0-alpha4.jar returned status 404
 4.6.0-alpha4	classpath-module	2026-04-10T10:14:50Z	
+4.6.0-beta		2026-04-28T13:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-beta/utsecurity-4.6.0-beta.jar returned status 404
 4.6.0-beta	classpath-module	2026-04-28T13:43:34Z	
+4.6.0-m1		2026-02-06T07:07:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/utsecurity/4.6.0-m1/utsecurity-4.6.0-m1.jar returned status 404
 4.6.0-m1	classpath-module	2026-02-06T07:07:48Z	

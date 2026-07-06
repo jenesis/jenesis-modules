@@ -47,4 +47,5 @@
 1.9.1.Final		2021-07-30T12:50:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-quarkus-test-list/1.9.1.Final/kogito-quarkus-test-list-1.9.1.Final.jar returned status 404
 10.0.0		2024-12-02T01:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-quarkus-test-list/10.0.0/kogito-quarkus-test-list-10.0.0.jar returned status 404
 10.1.0		2025-05-01T16:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-quarkus-test-list/10.1.0/kogito-quarkus-test-list-10.1.0.jar returned status 404
+10.2.0		2026-03-29T01:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-quarkus-test-list/10.2.0/kogito-quarkus-test-list-10.2.0.jar returned status 404
 2.44.0.Alpha		2023-09-05T15:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-quarkus-test-list/2.44.0.Alpha/kogito-quarkus-test-list-2.44.0.Alpha.jar returned status 404

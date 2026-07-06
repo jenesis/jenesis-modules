@@ -79,5 +79,6 @@
 2.0.0		2025-03-05T10:48:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/mex/2.0.0/mex-2.0.0.jar returned status 404
 2.0.0	classpath-module	2025-03-05T10:48:12Z	
 2.0.0	impl	2025-03-05T10:48:14Z	
+2.0.1		2026-05-17T23:30:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/axis2/mex/2.0.1/mex-2.0.1.jar returned status 404
 2.0.1	classpath-module	2026-05-17T23:31:06Z	
 2.0.1	impl	2026-05-17T23:31:07Z	

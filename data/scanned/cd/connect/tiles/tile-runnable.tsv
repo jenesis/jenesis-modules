@@ -1,0 +1,2 @@
+1.1		2017-11-16T07:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cd/connect/tiles/tile-runnable/1.1/tile-runnable-1.1.jar returned status 404
+1.2		2017-11-16T07:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cd/connect/tiles/tile-runnable/1.2/tile-runnable-1.2.jar returned status 404

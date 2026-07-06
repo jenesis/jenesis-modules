@@ -1,0 +1,2 @@
+2.0.0		2026-03-27T14:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nagaratnam789/sigstore_2.0.0/2.0.0/sigstore_2.0.0-2.0.0.jar returned status 404
+2.0.1		2026-03-30T15:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nagaratnam789/sigstore_2.0.0/2.0.1/sigstore_2.0.0-2.0.1.jar returned status 404
