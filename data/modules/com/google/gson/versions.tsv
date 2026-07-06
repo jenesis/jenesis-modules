@@ -1964,6 +1964,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.1.0	named	com.intergral.deep	agent	2023-09-06T13:43:45Z	2.9.0
 4.22.0	named	com.sap.cloud.sdk.datamodel	openapi-generator-cli	2023-09-06T14:18:40Z	2.10.1
 0.40.1	named	com.ibm.cloud	platform-services-examples	2023-09-06T20:30:05Z	2.9.1
+1.9.20-Beta	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-09-07T09:05:23Z	2.8.9
 10.0.0	named	io.iohk.atala	nimbus-jose-jwt	2023-09-08T10:30:47Z	2.10
 4.9.0	named	io.split.client	java-client	2023-09-08T14:46:33Z	2.9.0
 2.25.0	named	com.google.api	gapic-generator-java	2023-09-08T15:44:46Z	2.10.1
@@ -2003,6 +2004,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 4.0.3	named	org.locationtech.geomesa	geomesa-gt-spark-runtime_2.13	2023-09-19T21:15:38Z	2.10
 4.0.3	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase1_2.13	2023-09-19T21:16:05Z	2.10
 4.0.3	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase2_2.13	2023-09-19T21:16:10Z	2.10
+1.9.20-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-09-20T13:36:36Z	2.8.9
 0.16.1	named	com.ibm.cloud	is-examples	2023-09-21T11:02:12Z	2.9.1
 27.0.0	named	com.google.api-ads	google-ads-shadowjar	2023-09-21T14:19:17Z	2.10.1
 0.42.1	named	com.ibm.cloud	platform-services-examples	2023-09-21T14:54:36Z	2.9.1
@@ -2073,6 +2075,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.3.1	named	com.antgroup.tugraph	tugraph-db-java-rpc-client-test	2023-10-10T09:29:59Z	2.8.9
 1.3.1	named	com.antgroup.tugraph	tugraph-db-rpc-client-parent	2023-10-10T09:30:14Z	2.8.9
 1.12.2-Hoxton.SR12	named	com.tencent.cloud	spring-cloud-starter-tencent-all	2023-10-10T11:44:31Z	2.9.0
+1.9.20-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-10-11T02:10:12Z	2.8.9
 0.12.1	named	io.kestra.plugin	plugin-gcp	2023-10-11T12:50:16Z	2.10.1
 2.0.0	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2023-10-12T00:13:42Z	2.10
 9.12.0.78982	named	org.sonarsource.dotnet	sonar-csharp-plugin	2023-10-12T11:56:18Z	2.10.1
@@ -2131,6 +2134,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.11.0	named	com.newrelic	jfr-daemon	2023-10-20T17:49:41Z	2.8.9
 1.12.3-Hoxton.SR12	named	com.tencent.cloud	spring-cloud-starter-tencent-all	2023-10-23T09:41:48Z	2.9.0
 1.3.0	named	io.github.padreati	rapaio-jupyter-kernel	2023-10-23T19:19:06Z	2.10.1
+1.9.20-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-10-24T09:02:28Z	2.8.9
 5.3.5	named	com.hazelcast	hazelcast-sql	2023-10-24T14:31:26Z	2.10.1
 1.11.1	named	com.newrelic	jfr-daemon	2023-10-25T16:12:58Z	2.8.9
 3.44.0.1-1-2.3	named	ai.h2o	sparkling-water-package_2.11	2023-10-26T16:40:07Z	2.9.1
@@ -2155,6 +2159,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 4.26.0	named	com.sap.cloud.sdk.datamodel	openapi-generator-cli	2023-10-30T08:36:53Z	2.10.1
 9.4.0.76070	named	org.sonarsource.sonarlint.core	sonarlint-core	2023-10-30T10:49:17Z	2.10
 9.4.0.76070	named	org.sonarsource.sonarlint.core	sonarlint-core-osgi	2023-10-30T10:49:17Z	2.10
+1.9.20	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-10-30T18:36:00Z	2.8.9
 1.12.4-Hoxton.SR12	named	com.tencent.cloud	spring-cloud-starter-tencent-all	2023-10-31T05:10:51Z	2.9.0
 3.0.0.74514	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2023-10-31T14:59:49Z	2.10.1
 2.29.0	named	com.google.api	gapic-generator-java	2023-11-01T01:38:57Z	2.10.1
@@ -2183,6 +2188,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 2.52.0	named	org.apache.beam	beam-it-testcontainers	2023-11-13T17:52:55Z	2.10.1
 2.52.0	named	org.apache.beam	beam-it-truthmatchers	2023-11-13T17:53:34Z	2.10.1
 2.52.0	named	org.apache.beam	beam-sdks-java-transform-service	2023-11-13T18:03:57Z	2.9.0
+2.0.0-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-11-13T18:15:41Z	2.8.9
 2.52.0	named	org.apache.beam	beam-sdks-java-extensions-schemaio-expansion-service	2023-11-13T18:37:46Z	2.9.0
 2.52.0	named	org.apache.beam	beam-sdks-java-io-google-cloud-platform-expansion-service	2023-11-13T18:58:00Z	2.9.0
 1.2.0	named	com.clickzetta	clickzetta-java	2023-11-14T04:08:33Z	2.9.0
@@ -2211,6 +2217,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.1.0.74576	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2023-11-21T11:06:11Z	2.10.1
 0.13.1	named	io.kestra.storage	storage-gcs	2023-11-21T18:18:32Z	2.10.1
 1.2.2	named	com.clickzetta	clickzetta-java	2023-11-23T06:21:31Z	2.9.0
+1.9.21	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-11-23T09:20:36Z	2.8.9
 9.14.0.81108	named	org.sonarsource.dotnet	sonar-csharp-plugin	2023-11-23T13:50:56Z	2.10.1
 9.14.0.81108	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2023-11-23T13:50:57Z	2.10.1
 3.44.0.2-1-2.4	named	ai.h2o	sparkling-water-package_2.11	2023-11-23T18:40:06Z	2.9.1
@@ -2270,6 +2277,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.7.2	named	org.noear	luffy.lock.redis	2023-12-09T14:47:00Z	2.10.1
 1.7.2	named	org.noear	luffy.queue.redis	2023-12-09T14:48:44Z	2.10.1
 3.0.2	named	io.github.realmangorage	gradleutils	2023-12-12T10:05:52Z	2.10.1
+2.0.0-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-12-14T18:21:41Z	2.8.9
 2.5.7	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2023-12-15T01:09:35Z	2.10.1
 2.5.7	named	org.apache.hbase	hbase-shaded-testing-util	2023-12-15T01:14:06Z	2.10.1
 2.5.7	named	org.apache.hbase	hbase-shaded-client	2023-12-15T01:20:52Z	2.10.1
@@ -2295,6 +2303,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.44.0.3	named	ai.h2o	h2o-clustering	2023-12-20T17:28:49Z	2.9.1
 9.16.0.82469	named	org.sonarsource.dotnet	sonar-csharp-plugin	2023-12-21T11:09:59Z	2.10.1
 9.16.0.82469	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2023-12-21T11:09:59Z	2.10.1
+1.9.22	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2023-12-21T13:14:19Z	2.8.9
 1.4.3	named	org.apache.iceberg	iceberg-gcp-bundle	2023-12-21T15:39:30Z	2.10.1
 3.0.2.2033	named	io.github.realmangorage	gradleutils	2023-12-22T13:48:43Z	2.10.1
 1.2.6	named	com.clickzetta	clickzetta-java	2023-12-22T14:08:17Z	2.9.0
@@ -2382,6 +2391,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 9.17.0.82934	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-01-17T09:46:55Z	2.10.1
 1.0.6	named	com.aliyun	aliyun-encdb-mysql-jdbc	2024-01-17T11:58:20Z	2.10.1
 1.25.0.8192	named	org.sonarsource.iac	sonar-iac-plugin	2024-01-17T16:28:37Z	2.9.0
+2.0.0-Beta3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-01-17T17:14:04Z	2.8.9
 0.1	named	org.apache.beam	beam-vendor-grpc-1_60_1	2024-01-17T22:23:58Z	2.10.1
 1.2.9	named	com.clickzetta	clickzetta-java	2024-01-18T03:32:30Z	2.9.0
 2.32.0	named	com.google.api	gapic-generator-java	2024-01-19T04:09:44Z	2.10.1
@@ -2454,6 +2464,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 4.0.5	named	org.locationtech.geomesa	geomesa-gt-spark-runtime_2.13	2024-02-09T22:01:06Z	2.10
 4.0.5	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase1_2.13	2024-02-09T22:01:33Z	2.10
 4.0.5	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase2_2.13	2024-02-09T22:01:39Z	2.10
+2.0.0-Beta4	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-02-12T22:19:15Z	2.8.9
 2.35.0	named	com.google.api	gapic-generator-java	2024-02-13T22:02:36Z	2.10.1
 3.5.1	named	org.apache.spark	spark-connect-client-jvm_2.12	2024-02-15T15:56:55Z	2.10.1
 3.5.1	named	org.apache.spark	spark-connect-client-jvm_2.13	2024-02-15T16:09:04Z	2.10.1
@@ -2507,6 +2518,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 2.0.25	named	com.google.appengine	runtime-impl-jetty9	2024-03-06T02:01:39Z	2.10.1
 3.5.6.240	named	org.glavo.hmcl	hmcl-dev	2024-03-06T11:33:08Z	2.10.1
 1.19.0	named	org.apache.flink	flink-python	2024-03-06T15:01:00Z	2.9.0
+1.9.23	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-03-06T19:01:07Z	2.8.9
 3.5.6.241	named	org.glavo.hmcl	hmcl-dev	2024-03-10T18:24:08Z	2.10.1
 3.0.9	named	io.jooby	jooby-graphql	2024-03-11T17:02:14Z	2.10.1
 2.6.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2024-03-12T08:36:16Z	2.10
@@ -2528,6 +2540,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 2.55.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2024-03-19T00:23:03Z	2.10.1
 2.55.0	named	org.apache.beam	beam-sdks-java-io-google-cloud-platform-expansion-service	2024-03-19T00:27:22Z	2.10.1
 2.2.0	named	io.qdrant	spark	2024-03-19T11:19:25Z	2.10.1
+2.0.0-Beta5	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-03-20T10:14:37Z	2.8.9
 9.22.0.87781	named	org.sonarsource.dotnet	sonar-csharp-plugin	2024-03-20T11:40:56Z	2.10.1
 9.22.0.87781	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-03-20T11:40:56Z	2.10.1
 2.3.0-M1-52317e00d8d4c37fa778c628485d220fb68a8d08	named	com.eed3si9n.remoteapis.shaded	shaded-remoteapis-java	2024-03-21T07:01:25Z	2.10.1
@@ -2572,6 +2585,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 5.3.7	named	com.hazelcast	hazelcast-sql	2024-04-04T17:05:19Z	2.10.1
 3.0.2	named	se.bjurr.violations	violations-command-line	2024-04-05T13:37:01Z	2.10.1
 5.2.0	named	org.apache.phoenix	phoenix-pherf	2024-04-06T10:21:41Z	2.9.1
+2.0.0-RC1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-04-08T12:37:20Z	2.8.9
 3.46.0.1-1-2.3	named	ai.h2o	sparkling-water-package_2.11	2024-04-08T14:17:12Z	2.9.1
 3.46.0.1-1-2.4	named	ai.h2o	sparkling-water-package_2.11	2024-04-08T14:18:01Z	2.9.1
 3.46.0.1-1-2.3	named	ai.h2o	sparkling-water-scoring-package_2.11	2024-04-08T14:18:37Z	2.9.1
@@ -2621,6 +2635,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.5.0.75103	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2024-04-24T07:39:20Z	2.10.1
 31.0.0	named	com.google.api-ads	google-ads-shadowjar	2024-04-25T14:25:56Z	2.10.1
 2.7.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2024-04-26T10:28:20Z	2.10
+2.0.0-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-04-26T12:51:54Z	2.8.9
 2.56.0	named	org.apache.beam	beam-examples-multi-language	2024-04-26T12:58:04Z	2.10.1
 2.56.0	named	org.apache.beam	beam-it-common	2024-04-26T13:00:36Z	2.10.1
 2.56.0	named	org.apache.beam	beam-it-testcontainers	2024-04-26T13:03:38Z	2.10.1
@@ -2649,10 +2664,12 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.0.0	named	kr.lightswitch.www	lightswitch	2024-05-05T15:58:55Z	2.10.1
 9.25.0.90414	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-05-06T14:01:27Z	2.10.1
 9.25.0.90414	named	org.sonarsource.dotnet	sonar-csharp-plugin	2024-05-06T14:01:28Z	2.10.1
+1.9.24	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-05-07T06:12:26Z	2.8.9
 1.0.6	named	org.apache.ratis	ratis-thirdparty-misc	2024-05-07T10:12:30Z	2.10.1
 16.1.0	named	org.apache.arrow	flight-sql-jdbc-driver	2024-05-09T12:21:54Z	2.10.1
 3.2.2.6	named	io.streamnative	jclouds-shaded	2024-05-09T14:20:38Z	2.10.1
 3.0.4.5	named	io.streamnative	jclouds-shaded	2024-05-09T16:19:52Z	2.10.1
+2.0.0-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-05-10T05:48:37Z	2.8.9
 8.0.1	named	com.wizzdi	flexicore-encryption-service	2024-05-11T10:24:39Z	2.10.1
 8.0.1	named	com.wizzdi	messaging-firebase-service	2024-05-11T10:24:40Z	2.10.1
 3.1.1	named	io.github.linyimin0812	spring-profiler-extension	2024-05-12T16:01:24Z	2.10.1
@@ -2677,6 +2694,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 0.23.1	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2024-05-18T18:26:19Z	2.10.1
 2.11.0	named	com.google.code.gson	gson	2024-05-19T18:54:41Z	2.11.0
 3.1.1	named	io.jooby	jooby-graphql	2024-05-20T14:50:03Z	2.11.0
+2.0.0	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-05-20T16:11:19Z	2.8.9
 2.4.18	named	org.apache.hbase	hbase-shaded-mapreduce	2024-05-21T10:12:26Z	2.10.1
 2.4.18	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2024-05-21T10:21:13Z	2.10.1
 2.4.18	named	org.apache.hbase	hbase-shaded-client	2024-05-21T10:23:27Z	2.10.1
@@ -2751,6 +2769,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.46.0.2-1-3.4	named	ai.h2o	sparkling-water-scoring-package_2.12	2024-06-17T08:54:29Z	2.9.1
 3.46.0.2-1-3.2	named	ai.h2o	sparkling-water-package_2.12	2024-06-17T08:56:56Z	2.9.1
 3.46.0.2-1-3.2	named	ai.h2o	sparkling-water-scoring-package_2.12	2024-06-17T08:57:44Z	2.9.1
+2.0.20-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-06-18T05:18:34Z	2.8.9
 3.0.5.4	named	io.streamnative	jclouds-shaded	2024-06-18T11:47:11Z	2.10.1
 3.46.0.3-1-2.4	named	ai.h2o	sparkling-water-package_2.11	2024-06-18T18:35:28Z	2.9.1
 3.46.0.3-1-2.4	named	ai.h2o	sparkling-water-scoring-package_2.11	2024-06-18T18:36:31Z	2.9.1
@@ -2808,9 +2827,11 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 2.5.9-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2024-07-08T20:06:38Z	2.10.1
 2.5.9-hadoop3	named	org.apache.hbase	hbase-shaded-client	2024-07-08T20:09:21Z	2.10.1
 0.4.0	named	io.tiledb	tiledb-cloud-java	2024-07-08T20:22:37Z	2.11.0
+2.0.20-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-07-09T15:00:14Z	2.8.9
 3.0.0-RC3	named	com.datasonnet	datasonnet-mapper	2024-07-09T15:48:52Z	2.10.1
 24.7.14.0	named	com.veracode.vosp.api.wrappers	vosp-api-wrappers-java	2024-07-09T16:55:48Z	2.9.1
 2.3.1	named	io.qdrant	spark	2024-07-11T03:17:43Z	2.10.1
+2.0.10-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-07-11T09:11:03Z	2.8.9
 0.4.1	named	io.tiledb	tiledb-cloud-java	2024-07-11T14:36:27Z	2.11.0
 2.3.2	named	io.qdrant	spark	2024-07-11T15:51:05Z	2.10.1
 17.0.0	named	org.apache.arrow	flight-sql-jdbc-driver	2024-07-11T21:48:02Z	2.10.1
@@ -2835,6 +2856,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 2.5.10-hadoop3	named	org.apache.hbase	hbase-shaded-client	2024-07-19T07:36:15Z	2.10.1
 2.5.10-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2024-07-19T07:43:13Z	2.10.1
 2.5.10-hadoop3	named	org.apache.hbase	hbase-shaded-mapreduce	2024-07-19T07:44:16Z	2.10.1
+1.9.25	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-07-19T08:59:54Z	2.8.9
 3.46.0.4-1-3.3	named	ai.h2o	sparkling-water-package_2.12	2024-07-20T11:06:20Z	2.9.1
 3.46.0.4-1-2.3	named	ai.h2o	sparkling-water-package_2.11	2024-07-20T11:06:30Z	2.9.1
 3.46.0.4-1-3.2	named	ai.h2o	sparkling-water-package_2.12	2024-07-20T11:06:30Z	2.9.1
@@ -2865,10 +2887,12 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 0.1.4.1	named	dev.kurumidisciples	javadex	2024-07-26T04:51:57Z	2.11.0
 0.1.4.2	named	dev.kurumidisciples	javadex	2024-07-26T18:20:22Z	2.11.0
 3.5.8.250	named	org.glavo.hmcl	hmcl-dev	2024-07-27T21:47:17Z	2.10.1
+2.0.10-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-07-29T06:22:58Z	2.8.9
 3.5.8.251	named	org.glavo.hmcl	hmcl-dev	2024-07-29T09:48:36Z	2.10.1
 3.0.6	named	org.apache.pulsar	jclouds-shaded	2024-07-29T13:51:37Z	2.10.1
 3.2.7	named	io.jooby	jooby-graphql	2024-07-29T14:01:18Z	2.11.0
 3.2.4	named	org.apache.pulsar	jclouds-shaded	2024-07-29T16:02:20Z	2.10.1
+2.0.20-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-07-29T16:28:57Z	2.8.9
 3.3.1	named	org.apache.pulsar	jclouds-shaded	2024-07-29T16:33:47Z	2.10.1
 0.11.1	named	com.uber.nullaway	jar-infer-cli	2024-07-29T19:46:20Z	2.11.0
 0.3.0	named	software.amazon.smithy	smithy-language-server	2024-07-29T21:59:54Z	2.10.1
@@ -2878,6 +2902,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.5.9	named	org.glavo.hmcl	hmcl-stable	2024-08-02T09:40:05Z	2.10.1
 3.3.0.9	named	io.streamnative	jclouds-shaded	2024-08-03T02:04:00Z	2.10.1
 3.8.0.75391	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2024-08-05T08:53:43Z	2.10.1
+2.0.10	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-08-05T14:17:56Z	2.8.9
 1.0.7	named	org.liquibase.ext.vaults	liquibase-aws-secrets-manager	2024-08-06T14:03:28Z	2.11.0
 9.31.0.96804	named	org.sonarsource.dotnet	sonar-csharp-plugin	2024-08-06T15:05:03Z	2.11.0
 9.31.0.96804	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-08-06T15:05:04Z	2.11.0
@@ -2899,6 +2924,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 10.4.1.78855	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2024-08-09T09:16:32Z	2.10
 3.71	named	com.seaweedfs	seaweedfs-hadoop2-client	2024-08-13T00:20:14Z	2.9.0
 3.71	named	com.seaweedfs	seaweedfs-hadoop3-client	2024-08-13T00:21:42Z	2.9.0
+2.0.20-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-08-13T08:16:13Z	2.8.9
 3.0.6.1	named	io.streamnative	jclouds-shaded	2024-08-14T01:46:01Z	2.10.1
 3.0.6.2	named	io.streamnative	jclouds-shaded	2024-08-14T08:13:33Z	2.10.1
 9.32.0.97167	named	org.sonarsource.dotnet	sonar-csharp-plugin	2024-08-14T09:03:38Z	2.11.0
@@ -2924,6 +2950,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 1.7.7	named	org.noear	luffy.queue.redis	2024-08-22T03:49:06Z	2.10.1
 1.7.7	named	org.noear	luffy.lock.redis	2024-08-22T03:50:37Z	2.10.1
 3.0.6.3	named	io.streamnative	jclouds-shaded	2024-08-22T05:31:11Z	2.10.1
+2.0.20	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-08-22T07:34:19Z	2.8.9
 1.6.1	named	org.apache.iceberg	iceberg-gcp-bundle	2024-08-22T17:31:26Z	2.11.0
 0.24.2	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2024-08-22T20:39:14Z	2.11.0
 0.6.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2024-08-23T18:31:57Z	2.10.1
@@ -2976,6 +3003,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 4.13.0	named	io.split.client	java-client	2024-09-13T22:05:52Z	2.9.0
 4.0.0-preview2	named	org.apache.spark	spark-connect-client-jvm_2.13	2024-09-16T07:08:43Z	2.11.0
 0.11.3	named	com.uber.nullaway	jar-infer-cli	2024-09-16T14:39:02Z	2.11.0
+2.1.0-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-09-16T21:11:19Z	2.8.9
 13.4	named	io.github.openfeign	feign-example-wikipedia	2024-09-17T13:25:43Z	2.11.0
 13.4	named	io.github.openfeign.experimental	feign-apt-test-generator	2024-09-17T13:25:47Z	2.11.0
 13.4	named	io.github.openfeign	feign-example-github	2024-09-17T13:25:48Z	2.11.0
@@ -3006,6 +3034,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 1.65.0	named	org.casbin	jcasbin	2024-09-28T14:04:16Z	2.9.0
 2.2.1	named	se.bjurr.violations	violations-git-lib	2024-09-29T07:24:10Z	2.10.1
 1.11.6-safe-jdk8	named	com.alibaba.csp	ahas-sentinel-client	2024-09-29T08:34:48Z	2.9.0
+2.0.21-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-09-30T07:28:01Z	2.8.9
 0.19.0	named	io.kestra.plugin	plugin-github	2024-10-01T14:07:00Z	2.11.0
 0.19.0	named	io.kestra.plugin	plugin-hubspot	2024-10-01T14:10:05Z	2.11.0
 0.19.0	named	io.kestra.plugin	plugin-linear	2024-10-01T14:14:15Z	2.11.0
@@ -3037,6 +3066,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 2.6.1	named	org.apache.hbase	hbase-shaded-client	2024-10-09T11:54:19Z	2.11.0
 2.6.1-hadoop3	named	org.apache.hbase	hbase-shaded-client	2024-10-09T12:14:40Z	2.11.0
 2.6.1-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2024-10-09T12:16:39Z	2.11.0
+2.0.21	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-10-10T08:39:42Z	2.8.9
 1.4.1	named	com.diozero	diozero-sampleapps	2024-10-10T10:08:55Z	2.11.0
 2.9.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2024-10-10T10:10:55Z	2.10
 0.25.0	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2024-10-11T15:16:07Z	2.11.0
@@ -3050,6 +3080,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 24.0.1	named	org.apache.doris	flink-doris-connector-1.20	2024-10-12T07:57:03Z	2.10.1
 2.20.1	named	com.github.nalukit	nalu-processor	2024-10-13T08:44:40Z	2.10.1
 3.5.9.257	named	org.glavo.hmcl	hmcl-dev	2024-10-13T18:48:01Z	2.10.1
+2.1.0-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-10-14T07:51:37Z	2.8.9
 4.0.0	named	org.apache.pulsar	jclouds-shaded	2024-10-14T14:20:44Z	2.10.1
 2.3.3	named	se.bjurr.violations	violations-git-lib	2024-10-14T17:01:55Z	2.10.1
 2.3.4	named	se.bjurr.violations	violations-git-lib	2024-10-14T17:07:37Z	2.10.1
@@ -3086,6 +3117,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 3.3.2.1	named	io.streamnative	jclouds-shaded	2024-11-01T04:52:18Z	2.10.1
 2.20.2	named	com.github.nalukit	nalu-processor	2024-11-01T17:33:09Z	2.10.1
 0.26.1	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2024-11-03T12:14:54Z	2.11.0
+2.1.0-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-11-03T17:39:17Z	2.8.9
 3.1.2	named	org.apache.ratis	ratis-examples	2024-11-04T07:33:48Z	2.10.1
 0.4.0	named	com.google.cloud.flink	flink-1.17-connector-bigquery-table-api-examples	2024-11-04T12:03:42Z	2.10.1
 0.4.0	named	com.google.cloud.flink	flink-1.17-connector-bigquery-examples	2024-11-04T12:03:46Z	2.10.1
@@ -3125,6 +3157,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 2.1.0	named	io.logz.log4j2	logzio-log4j2-appender	2024-11-17T07:28:38Z	2.11.0
 2024.3.11	named	io.edurt.datacap	datacap-shaded-pinot	2024-11-17T16:07:57Z	2.10.1
 3.0.7.3	named	io.streamnative	jclouds-shaded	2024-11-18T04:25:48Z	2.10.1
+2.1.0-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-11-18T08:25:05Z	2.8.9
 0.13.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2024-11-18T17:35:12Z	2.10.1
 3.46.0.6-1-2.4	named	ai.h2o	sparkling-water-package_2.11	2024-11-18T18:09:04Z	2.9.1
 3.46.0.6-1-2.4	named	ai.h2o	sparkling-water-scoring-package_2.11	2024-11-18T18:10:00Z	2.9.1
@@ -3164,6 +3197,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 0.15.2	named	io.kestra.storage	storage-gcs	2024-11-25T20:23:22Z	2.10.1
 3.0.7.3-22cb86	named	io.streamnative	jclouds-shaded	2024-11-26T08:23:51Z	2.10.1
 1.25.0	named	io.openlineage	transports-gcplineage	2024-11-26T09:42:18Z	2.11.0
+2.1.0	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-11-27T08:19:54Z	2.8.9
 4.13.1.rc1	named	io.split.client	java-client	2024-11-27T19:35:13Z	2.9.0
 3.0.7.4	named	io.streamnative	jclouds-shaded	2024-11-28T03:59:55Z	2.10.1
 3.3.2.4	named	io.streamnative	jclouds-shaded	2024-11-28T07:52:17Z	2.10.1
@@ -3234,6 +3268,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 10.4.0.108396	named	org.sonarsource.dotnet	sonar-csharp-plugin	2024-12-18T10:10:28Z	2.11.0
 10.4.0.108396	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-12-18T10:10:28Z	2.11.0
 4.0.0.10	named	io.streamnative	jclouds-shaded	2024-12-19T03:18:25Z	2.10.1
+2.1.20-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-12-19T07:56:25Z	2.11.0
 10.20.0.29356	named	org.sonarsource.javascript	sonar-javascript-plugin	2024-12-19T12:13:09Z	2.11.0
 10.12.1.79852	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2024-12-19T13:59:08Z	2.10
 10.12.1.79852	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2024-12-19T13:59:09Z	2.10
@@ -3270,6 +3305,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 2.2.0	named	io.sermant	spring-cloud-registry-service	2025-01-09T03:45:38Z	2.9.0
 2.2.0	named	io.sermant	springboot-registry-service	2025-01-09T03:45:38Z	2.9.0
 3.0.8.2-shaded	named	io.streamnative	jclouds-shaded	2025-01-09T07:12:12Z	2.10.1
+2.1.10-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-01-09T09:22:08Z	2.8.9
 1.0.3	named	com.spygstudios	spyglib	2025-01-09T14:09:39Z	2.9.1
 1.6.2	named	com.exaroton	api	2025-01-09T15:24:03Z	2.10.1
 8.9.0.37768	named	org.sonarsource.java	java-custom-rules-example	2025-01-09T15:53:31Z	2.11.0
@@ -3314,6 +3350,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 3.3.0	named	org.apache.flink	flink-cdc-pipeline-connector-doris	2025-01-18T04:46:18Z	2.10.1
 4.1.10	named	org.apache.hbase.thirdparty	hbase-shaded-gson	2025-01-18T13:12:47Z	2.11.0
 0.29.0	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2025-01-19T14:58:11Z	2.11.0
+2.1.10-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-01-20T07:27:57Z	2.8.9
 10.13.0.79996	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-01-20T13:18:55Z	2.10
 10.13.0.79996	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-01-20T13:18:56Z	2.10
 3.15.0.75853	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-01-20T17:13:06Z	2.10.1
@@ -3324,11 +3361,13 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 2.0.0-alpha.2	named	com.github.jelmerk	hnswlib-spark_3_4_2.13	2025-01-26T09:01:41Z	2.8.9
 2.0.0-alpha.2	named	com.github.jelmerk	hnswlib-spark_3_5_2.12	2025-01-26T09:05:59Z	2.8.9
 2.0.0-alpha.2	named	com.github.jelmerk	hnswlib-spark_3_5_2.13	2025-01-26T09:05:59Z	2.8.9
+2.1.10	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-01-26T18:02:50Z	2.8.9
 2.12.0	named	com.google.code.gson	gson	2025-01-27T22:41:58Z	2.12.0
 4.0.1.2	named	io.streamnative	jclouds-shaded	2025-01-28T07:15:51Z	2.10.1
 0.0.20	named	com.free-now.sauron.plugins	kubernetesapi-report	2025-01-28T15:24:36Z	2.8.6
 1.19.2	named	org.apache.flink	flink-python	2025-01-28T15:59:06Z	2.9.0
 1.20.1	named	org.apache.flink	flink-python	2025-01-28T23:03:45Z	2.9.0
+2.1.20-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-01-29T07:32:37Z	2.11.0
 5.0.0.CR4	named	io.vertx	vertx-grpc-protoc-plugin2	2025-01-29T10:33:38Z	2.10
 10.6.0.109712	named	org.sonarsource.dotnet	sonar-csharp-plugin	2025-01-29T11:05:12Z	2.11.0
 10.6.0.109712	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2025-01-29T11:05:12Z	2.11.0
@@ -3418,6 +3457,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 2.0.0-alpha.7	named	com.github.jelmerk	hnswlib-spark_3_5_2.13	2025-02-18T21:36:04Z	2.8.9
 3.0.8.4	named	io.streamnative	jclouds-shaded	2025-02-19T01:58:25Z	2.10.1
 3.4.0	named	io.github.azagniotov	language-detection	2025-02-19T05:35:16Z	2.8.9
+2.1.20-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-02-19T08:14:33Z	2.11.0
 3.0.10.0	named	com.ascentstream.pulsar	jclouds-shaded	2025-02-19T08:49:29Z	2.10.1
 4.0.1.4	named	io.streamnative	jclouds-shaded	2025-02-19T12:21:08Z	2.10.1
 3.4.1	named	io.github.azagniotov	language-detection	2025-02-19T17:47:45Z	2.8.9
@@ -3484,6 +3524,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 9.0.2	named	com.wizzdi	messaging-firebase-service	2025-03-04T10:13:02Z	2.10.1
 9.0.2	named	com.wizzdi	flexicore-encryption-service	2025-03-04T10:14:06Z	2.10.1
 1.0.8	named	com.github.nalukit	malio-processor	2025-03-06T07:22:54Z	2.12.1
+2.1.20-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-03-06T10:52:23Z	2.11.0
 2.20.4	named	com.github.nalukit	nalu-processor	2025-03-06T15:50:46Z	2.12.1
 3.6.11.271	named	org.glavo.hmcl	hmcl-dev	2025-03-07T15:47:43Z	2.12.1
 2.0.0-beta.1	named	com.github.jelmerk	hnswlib-spark_3_4_2.13	2025-03-08T09:11:59Z	2.8.9
@@ -3502,6 +3543,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 1.7.2	named	org.apache.iceberg	iceberg-gcp-bundle	2025-03-13T12:39:23Z	2.11.0
 1.0.7	named	io.github.lambdatest	lambdatest-java-sdk	2025-03-13T15:48:48Z	2.10.1
 3.3.5.1	named	io.streamnative	jclouds-shaded	2025-03-14T03:00:10Z	2.10.1
+2.1.20-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-03-14T08:09:18Z	2.11.0
 3.6.11.272	named	org.glavo.hmcl	hmcl-dev	2025-03-15T06:50:01Z	2.12.1
 1.0.8	named	io.github.lambdatest	lambdatest-java-sdk	2025-03-16T11:27:08Z	2.10.1
 3.3.5.2	named	io.streamnative	jclouds-shaded	2025-03-17T10:21:00Z	2.10.1
@@ -3509,6 +3551,7 @@ v1.6.1	named	com.exaroton	api	2024-09-23T12:45:30Z	2.10.1
 10.17.0.80607	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-03-17T13:01:15Z	2.10
 10.17.0.80607	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-03-17T13:01:15Z	2.10
 3.18.0.75982	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-03-17T14:35:56Z	2.12.1
+2.1.20	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-03-19T18:38:34Z	2.11.0
 0.4.0	named	io.github.leralix	sphere-lib	2025-03-20T21:11:14Z	2.10
 0.38.0	named	io.deephaven	deephaven-oidc-authentication-provider	2025-03-21T02:50:34Z	2.9.1
 2.1.3	named	com.alibaba.polardbx	polardbx-connector-java	2025-03-21T09:00:28Z	2.11.0
@@ -3601,6 +3644,7 @@ v20250402	named	com.google.javascript	closure-compiler	2025-04-03T19:48:34Z	2.9.
 10.19.0.80932	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-04-14T12:55:03Z	2.10
 10.19.0.80932	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-04-14T12:55:03Z	2.10
 3.20.0.76057	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-04-14T13:30:50Z	2.13.0
+2.2.0-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-04-14T15:58:58Z	2.11.0
 2.20.5	named	com.github.nalukit	nalu-processor	2025-04-15T05:10:00Z	2.13.0
 1.0.2.734	named	org.sonarsource.rust	sonar-rust-plugin	2025-04-15T13:28:55Z	2.11.0
 10.19.1.80951	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-04-15T15:18:35Z	2.10
@@ -3609,6 +3653,7 @@ v20250402	named	com.google.javascript	closure-compiler	2025-04-03T19:48:34Z	2.9.
 2.1.6	named	com.alibaba.polardbx	polardbx-connector-java	2025-04-16T11:06:33Z	2.11.0
 2.3.0	named	io.logz.logback	logzio-logback-appender	2025-04-16T13:09:27Z	2.11.0
 36.1.0	named	com.google.api-ads	google-ads-shadowjar	2025-04-16T19:50:25Z	2.12.1
+2.1.21-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-04-16T20:24:41Z	2.11.0
 1.0.13	named	io.github.lambdatest	lambdatest-java-sdk	2025-04-18T16:33:49Z	2.10.1
 4.15.0	named	io.split.client	java-client	2025-04-18T16:46:46Z	2.9.0
 0.19.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-04-21T20:37:11Z	2.10.1
@@ -3640,9 +3685,11 @@ v20250402	named	com.google.javascript	closure-compiler	2025-04-03T19:48:34Z	2.9.
 0.2.5	named	io.lakefs	hadoop-lakefs-assembly	2025-04-30T07:25:19Z	2.9.1
 1.2.2	named	io.github.vizanarkonin	keres	2025-04-30T07:34:19Z	2.10.1
 1.0.14-beta.1	named	io.github.lambdatest	lambdatest-java-sdk	2025-04-30T08:00:31Z	2.10.1
+2.2.0-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-04-30T11:02:33Z	2.11.0
 4.16.0-beta	named	io.split.client	java-client	2025-05-01T00:19:26Z	2.9.0
 10.9.0.115408	named	org.sonarsource.dotnet	sonar-csharp-plugin	2025-05-01T07:50:03Z	2.13.0
 10.9.0.115408	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2025-05-01T07:50:03Z	2.13.0
+2.1.21-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-05-01T08:21:38Z	2.11.0
 1.3.1	named	io.github.vizanarkonin	keres	2025-05-01T09:57:48Z	2.10.1
 1.3.2	named	io.github.vizanarkonin	keres	2025-05-01T10:33:59Z	2.10.1
 0.39.0	named	io.deephaven	deephaven-oidc-authentication-provider	2025-05-01T19:44:35Z	2.9.1
@@ -3699,6 +3746,7 @@ v20250402	named	com.google.javascript	closure-compiler	2025-04-03T19:48:34Z	2.9.
 0.15.0-demo-10	named	io.lakefs	hadoop-lakefs-assembly	2025-05-12T16:03:19Z	2.9.1
 0.15.0-demo-11	named	io.lakefs	hadoop-lakefs-assembly	2025-05-12T16:09:01Z	2.9.1
 0.39.1	named	io.deephaven	deephaven-oidc-authentication-provider	2025-05-12T17:36:56Z	2.9.1
+2.1.21	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-05-12T18:21:42Z	2.11.0
 3.8.1	named	io.jooby	jooby-graphql	2025-05-12T20:48:16Z	2.13.1
 0.15.0-demo-12	named	io.lakefs	hadoop-lakefs-assembly	2025-05-13T10:02:14Z	2.9.1
 0.15.0-demo-13	named	io.lakefs	hadoop-lakefs-assembly	2025-05-13T10:33:10Z	2.9.1
@@ -3715,6 +3763,7 @@ v20250402	named	com.google.javascript	closure-compiler	2025-04-03T19:48:34Z	2.9.
 2.0.1	named	de.crazydev22.slimjar	gradle-plugin	2025-05-14T18:58:04Z	2.13.1
 0.15.0-support-emr-7.0.0-test	named	io.lakefs	hadoop-lakefs-assembly	2025-05-15T09:05:43Z	2.9.1
 0.15.0-support-emr-7.0.0-test-0	named	io.lakefs	hadoop-lakefs-assembly	2025-05-15T09:11:18Z	2.9.1
+2.2.0-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-05-15T12:45:11Z	2.11.0
 1.2.2	named	de.jonahd345	xenfororesourcemanagerapi	2025-05-15T15:17:11Z	2.12.1
 2.3.0	named	io.logz.log4j2	logzio-log4j2-appender	2025-05-18T07:10:51Z	2.11.0
 2.4.0	named	io.logz.logback	logzio-logback-appender	2025-05-18T07:24:54Z	2.11.0
@@ -3780,6 +3829,7 @@ HEAD+20250602-0825	named	com.github.jelmerk	hnswlib-spark_4_0_2.13	2025-06-02T08
 0.30.2	named	dev.robocode.tankroyale	robocode-tankroyale-bot-api	2025-06-02T19:02:41Z	2.12.1
 5.0.8	named	org.apache.rocketmq	rocketmq-client-java	2025-06-03T03:41:04Z	2.9.0
 0.21.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-06-03T19:14:17Z	2.10.1
+2.2.0-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-06-04T09:45:36Z	2.11.0
 1.5.2	named	io.github.vizanarkonin	keres	2025-06-04T19:05:13Z	2.10.1
 0.39.3	named	io.deephaven	deephaven-oidc-authentication-provider	2025-06-04T20:03:30Z	2.9.1
 38.0.0	named	com.google.api-ads	google-ads-shadowjar	2025-06-04T20:08:10Z	2.12.1
@@ -3803,6 +3853,7 @@ HEAD+20250602-0825	named	com.github.jelmerk	hnswlib-spark_4_0_2.13	2025-06-02T08
 1.20.2	named	org.apache.flink	flink-python	2025-06-13T09:53:46Z	2.9.0
 1.1.0	named	com.github.nalukit	malio-processor	2025-06-14T12:11:46Z	2.12.1
 2.20.6	named	com.github.nalukit	nalu-processor	2025-06-14T14:21:55Z	2.13.1
+2.2.0-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-06-16T06:44:47Z	2.11.0
 1.0.1	named	io.github.lambdatest	lambdatest-java-playwright-sdk	2025-06-17T12:11:14Z	2.12.1
 2.10.7.13	named	com.ascentstream.pulsar	pulsar-functions-runtime-all	2025-06-17T13:47:53Z	2.8.9
 3.0.10.6	named	io.streamnative	jclouds-shaded	2025-06-17T15:52:54Z	2.10.1
@@ -3823,6 +3874,7 @@ HEAD+20250602-0825	named	com.github.jelmerk	hnswlib-spark_4_0_2.13	2025-06-02T08
 1.0.14-beta.2	named	io.github.lambdatest	lambdatest-java-sdk	2025-06-20T12:15:56Z	2.10.1
 1.1.0.4rc1	named	io.acryl	datahub-protobuf	2025-06-20T14:06:47Z	2.12.0
 0.6.0	named	io.github.oxia-db	oxia-perf	2025-06-20T22:36:08Z	2.10.1
+2.2.0	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-06-23T06:18:19Z	2.11.0
 10.24.0.81415	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-06-23T09:49:38Z	2.10
 10.24.0.81415	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-06-23T09:49:38Z	2.10
 test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
@@ -3870,6 +3922,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 10.13.0.120203	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2025-07-09T10:10:10Z	2.13.1
 10.13.0.120203	named	org.sonarsource.dotnet	sonar-csharp-plugin	2025-07-09T10:10:11Z	2.13.1
 0.0.4-alpha	named	org.openjdbcproxy	ojp-jdbc-driver	2025-07-09T20:48:52Z	2.11.0
+2.2.20-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-07-10T08:09:37Z	2.11.0
 0.23.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-07-10T09:51:03Z	2.10.1
 8.18.0.242	named	org.sonarsource.java	sonar-java-symbolic-execution-plugin	2025-07-10T12:35:03Z	2.11.0
 2.6.3	named	org.apache.hbase	hbase-shaded-client	2025-07-10T16:09:49Z	2.13.1
@@ -3889,6 +3942,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 10.14.0.120626	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2025-07-16T13:54:45Z	2.13.1
 2.3.7	named	se.bjurr.violations	violations-git-lib	2025-07-17T04:40:44Z	2.13.1
 1.35.0	named	se.bjurr.violations	violation-comments-to-bitbucket-cloud-command-line	2025-07-17T04:49:10Z	2.13.1
+2.2.10-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-07-17T14:32:43Z	2.11.0
 4.17.0-rc3	named	io.split.client	java-client	2025-07-17T20:26:17Z	2.9.0
 10.26.0.81748	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-07-18T14:16:02Z	2.10
 10.26.0.81748	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-07-18T14:16:02Z	2.10
@@ -3913,6 +3967,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 1.0.0	named	io.github.frame-dev	JavaGsonUtils	2025-07-28T19:16:34Z	2.11.0
 1.61.0	named	software.amazon.smithy	smithy-cli	2025-07-28T19:18:13Z	2.13.1
 1.2.8	named	com.vmlens	standalone	2025-07-28T20:15:42Z	2.13.1
+2.2.20-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-07-29T06:56:27Z	2.11.0
 11.2.0.34013	named	org.sonarsource.javascript	sonar-javascript-plugin	2025-07-29T12:45:49Z	2.13.1
 0.24.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-07-29T17:15:20Z	2.10.1
 3.11.1	named	io.jooby	jooby-graphql	2025-07-29T18:47:18Z	2.13.1
@@ -3931,6 +3986,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 10.27.1.81985	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-08-04T18:50:14Z	2.10
 4.0.4	named	io.jooby	jooby-graphql	2025-08-05T09:41:04Z	2.13.1
 5.0.2	named	io.vertx	vertx-grpc-protoc-plugin2	2025-08-05T10:36:48Z	2.10
+2.2.10-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-08-06T08:51:23Z	2.11.0
 3.28.0.76421	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-08-06T09:54:01Z	2.13.1
 0.12.8	named	com.uber.nullaway	jar-infer-cli	2025-08-06T15:35:01Z	2.11.0
 1.2.10	named	com.vmlens	standalone	2025-08-07T09:30:11Z	2.13.1
@@ -3944,6 +4000,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 3.1.2	named	se.bjurr.violations	violations-command-line	2025-08-13T14:24:44Z	2.13.1
 3.1.3	named	se.bjurr.violations	violations-command-line	2025-08-13T14:29:25Z	2.13.1
 5.0.3	named	io.vertx	vertx-grpc-protoc-plugin2	2025-08-13T14:37:33Z	2.10
+2.2.10	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-08-13T18:10:36Z	2.11.0
 0.0.8-alpha	named	com.pinterest.v5.sdk	pinterest-java-sdk	2025-08-14T01:26:12Z	2.10.1
 1.0.0-RC1	named	io.github.basilapi	basil-server	2025-08-14T08:10:12Z	2.8.7
 0.0.29	named	com.free-now.sauron.plugins	kubernetesapi-report	2025-08-15T10:15:02Z	2.8.6
@@ -3956,6 +4013,7 @@ test-central.0	named	io.lakefs	hadoop-lakefs-assembly	2025-06-23T10:07:35Z	2.9.1
 3.29.0.76455	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-08-18T09:32:56Z	2.13.1
 0.25.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-08-18T17:24:08Z	2.10.1
 0.12.9	named	com.uber.nullaway	jar-infer-cli	2025-08-18T18:11:58Z	2.11.0
+2.2.20-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-08-18T19:51:48Z	2.11.0
 8.16.1.344	named	org.sonarsource.java	sonar-java-symbolic-execution-plugin	2025-08-19T10:02:45Z	2.11.0
 2.7.0.2	named	org.apache.shenyu	shenyu-admin-listener-apollo	2025-08-20T02:28:40Z	2.9.0
 2.7.0.2	named	org.apache.shenyu	shenyu-spring-boot-starter-sync-data-apollo	2025-08-20T02:56:49Z	2.9.0
@@ -3983,6 +4041,7 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 0.6.1	named	io.github.oxia-db	oxia-perf	2025-08-29T15:17:43Z	2.10.1
 0.0.9-alpha	named	com.pinterest.v5.sdk	pinterest-java-sdk	2025-08-29T20:29:14Z	2.10.1
 0.0.1	named	com.julienviet	protobuf-protoc-plugin	2025-08-31T15:21:31Z	2.10
+2.2.20-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-09-01T08:34:57Z	2.11.0
 1.2.13	named	com.vmlens	standalone	2025-09-01T09:31:05Z	2.13.1
 0.6.2	named	io.github.oxia-db	oxia-perf	2025-09-01T14:18:22Z	2.10.1
 10.30.0.82224	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-09-01T14:40:15Z	2.10
@@ -4011,6 +4070,7 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 4.0.7	named	io.jooby	jooby-graphql	2025-09-08T13:37:36Z	2.13.1
 4.3.7.Final	named	org.infinispan.protostream	protostream	2025-09-09T10:58:31Z	2.9.1
 3.25.35	named	com.ubs-hainer	filebridge-jdbc-driver	2025-09-09T14:13:13Z	2.9.0
+2.2.20	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-09-09T19:07:04Z	2.11.0
 1.2.0.8rc1	named	io.acryl	datahub-protobuf	2025-09-10T17:06:44Z	2.12.0
 2.13.2-rc1	named	com.google.code.gson	gson	2025-09-10T17:33:24Z	2.13.2-rc1
 2.13.2	named	com.google.code.gson	gson	2025-09-10T20:41:08Z	2.13.2
@@ -4094,8 +4154,10 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 0.7.2	named	io.github.scalapb-json	protoc-lint-shaded_2.13	2025-10-04T08:49:16Z	2.8.9
 0.7.2	named	io.github.scalapb-json	protoc-lint-shaded_3	2025-10-04T08:49:16Z	2.8.9
 3.25.39	named	com.ubs-hainer	filebridge-jdbc-driver	2025-10-06T15:39:56Z	2.9.0
+2.2.21-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-10-07T07:05:16Z	2.11.0
 1.2.17	named	com.vmlens	standalone	2025-10-07T07:22:58Z	2.13.1
 1.2.0.11rc5	named	io.acryl	datahub-protobuf	2025-10-07T09:19:48Z	2.12.0
+2.3.0-Beta1	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-10-07T09:47:27Z	2.11.0
 1.0.20-beta.1	named	io.github.lambdatest	lambdatest-java-sdk	2025-10-07T13:18:05Z	2.10.1
 1.3.0rc1	named	io.acryl	datahub-protobuf	2025-10-07T21:00:36Z	2.12.0
 1.3.0rc2	named	io.acryl	datahub-protobuf	2025-10-07T21:10:20Z	2.12.0
@@ -4118,6 +4180,7 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 1.2.19	named	com.vmlens	standalone	2025-10-15T08:38:12Z	2.13.1
 4.3.0.77780	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-10-15T08:41:46Z	2.13.2
 4.18.2	named	io.split.client	java-client	2025-10-15T17:18:51Z	2.13.1
+2.2.21-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-10-16T07:03:39Z	2.11.0
 1.3.0.1rc3	named	io.acryl	datahub-protobuf	2025-10-16T15:17:28Z	2.12.0
 10.34.1.83453	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-10-16T17:47:00Z	2.10
 10.34.1.83453	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-10-16T17:47:00Z	2.10
@@ -4137,6 +4200,7 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 5.0.5	named	io.vertx	vertx-grpc-protoc-plugin2	2025-10-22T12:40:33Z	2.10
 1.3.0.1rc6	named	io.acryl	datahub-protobuf	2025-10-22T16:20:27Z	2.12.0
 0.28.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-10-22T20:42:07Z	2.10.1
+2.2.21	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-10-23T06:35:07Z	2.11.0
 0.0.12-alpha	named	com.pinterest.v5.sdk	pinterest-java-sdk	2025-10-24T19:19:01Z	2.10.1
 1.11.0-M1	named	org.noear	luffy.lock.redis	2025-10-26T12:03:10Z	2.12.1
 1.11.0-M1	named	org.noear	luffy.queue.redis	2025-10-26T12:03:10Z	2.12.1
@@ -4152,6 +4216,7 @@ ml-2.0.0	named	io.mapsmessaging	jms_selector_parser	2025-08-26T04:43:47Z	2.13.1
 10.35.0.83547	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-10-27T16:43:13Z	2.10
 0.2.0-beta	named	org.openjproxy	ojp-jdbc-driver	2025-10-27T17:21:48Z	2.11.0
 1.0.20	named	io.github.lambdatest	lambdatest-java-sdk	2025-10-27T18:30:38Z	2.10.1
+2.3.0-Beta2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-10-27T20:02:01Z	2.11.0
 4.4.0.77808	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-10-28T11:00:16Z	2.13.2
 3.1.0	named	io.github.nalukit	nalu-processor	2025-10-28T16:03:19Z	2.13.2
 2.0.9.Final	named	com.aliyun.openservices	ons-client	2025-10-30T04:53:05Z	2.9.1
@@ -4201,6 +4266,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 8.9.4.40912	named	org.sonarsource.java	java-custom-rules-example	2025-11-17T10:17:34Z	2.11.0
 1.3.1.3rc1	named	io.acryl	datahub-protobuf	2025-11-17T12:49:17Z	2.12.0
 8.0.1	named	com.ironcorelabs	tenant-security-java	2025-11-17T18:19:58Z	2.12.1
+2.3.0-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-11-17T18:55:10Z	2.11.0
 0.40.6	named	io.deephaven	deephaven-oidc-authentication-provider	2025-11-17T20:17:00Z	2.9.1
 2.7.0.3	named	org.apache.shenyu	shenyu-admin-listener-apollo	2025-11-18T06:05:47Z	2.9.0
 2.7.0.3	named	org.apache.shenyu	shenyu-spring-boot-starter-sync-data-apollo	2025-11-18T06:36:23Z	2.9.0
@@ -4233,6 +4299,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 0.31.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-11-28T19:43:53Z	2.10.1
 0.12.13	named	com.uber.nullaway	jar-infer-cli	2025-12-01T15:28:26Z	2.13.1
 2.17.5	named	com.konduto.sdk	java-sdk	2025-12-01T21:17:53Z	2.9.0
+2.3.0-RC2	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-12-02T09:58:30Z	2.11.0
 1.0.4.1325	named	org.sonarsource.rust	sonar-rust-plugin	2025-12-02T15:02:25Z	2.13.1
 3.0.16.0	named	com.ascentstream.pulsar	jclouds-shaded	2025-12-03T07:58:09Z	2.10.1
 8.21.1.41883	named	org.sonarsource.java	java-custom-rules-example	2025-12-03T08:35:22Z	2.13.1
@@ -4250,6 +4317,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.2.23	named	com.vmlens	standalone	2025-12-08T12:39:07Z	2.13.1
 10.38.0.83993	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-12-08T22:32:36Z	2.10
 10.38.0.83993	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-12-08T22:32:36Z	2.10
+2.3.0-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-12-09T09:50:56Z	2.11.0
 4.7.0.77924	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-12-09T10:48:55Z	2.13.2
 1.3.1.5rc1	named	io.acryl	datahub-protobuf	2025-12-10T23:55:51Z	2.12.0
 1.5.2.3	named	com.linkedin.iceberg	iceberg-gcp-bundle	2025-12-11T06:44:37Z	2.10.1
