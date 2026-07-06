@@ -1,2 +1,5 @@
 0.9.4		2009-06-01T23:54:34Z	
 0.9.5		2009-06-11T23:33:52Z	
+1.0.0		2009-12-10T17:22:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/scripting/glassfish-gem/1.0.0/glassfish-gem-1.0.0.jar returned status 404
+1.0.1		2009-12-22T20:38:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/scripting/glassfish-gem/1.0.1/glassfish-gem-1.0.1.jar returned status 404
+1.0.2		2009-12-22T21:04:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/scripting/glassfish-gem/1.0.2/glassfish-gem-1.0.2.jar returned status 404

@@ -4,6 +4,9 @@
 4.0.0.GA		2009-10-08T14:21:14Z	
 4.0.1.GA		2009-10-28T12:57:32Z	
 4.0.2.GA		2009-11-06T11:33:24Z	
+4.1.0.Beta2		2010-06-02T12:05:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-quickstart-archetype/4.1.0.Beta2/hibernate-validator-quickstart-archetype-4.1.0.Beta2.jar returned status 404
+4.1.0.CR1		2010-06-17T13:34:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-quickstart-archetype/4.1.0.CR1/hibernate-validator-quickstart-archetype-4.1.0.CR1.jar returned status 404
+4.1.0.Final		2010-06-28T13:20:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-quickstart-archetype/4.1.0.Final/hibernate-validator-quickstart-archetype-4.1.0.Final.jar returned status 404
 4.2.0.Beta1		2011-01-13T11:39:00Z	
 4.2.0.Beta2		2011-03-07T23:27:37Z	
 4.2.0.CR1		2011-06-09T14:49:31Z	
