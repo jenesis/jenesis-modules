@@ -124,6 +124,7 @@
 8.4.1	classes	2025-11-20T02:10:13Z	
 8.4.2		2025-12-15T06:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.4.2/hapi-fhir-testpage-overlay-8.4.2.jar returned status 404
 8.4.2	classes	2025-12-15T06:44:29Z	
+8.4.3		2026-03-20T00:01:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.4.3/hapi-fhir-testpage-overlay-8.4.3.jar returned status 404
 8.4.3	classes	2026-03-20T00:01:14Z	
 8.6.0		2025-11-20T22:55:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.6.0/hapi-fhir-testpage-overlay-8.6.0.jar returned status 404
 8.6.0	classes	2025-11-20T22:55:57Z	
@@ -137,8 +138,10 @@
 8.6.5	classes	2026-02-07T04:17:01Z	
 8.6.6		2026-03-07T02:15:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.6.6/hapi-fhir-testpage-overlay-8.6.6.jar returned status 404
 8.6.6	classes	2026-03-07T02:15:42Z	
+8.6.7		2026-03-18T21:20:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.6.7/hapi-fhir-testpage-overlay-8.6.7.jar returned status 404
 8.6.7	classes	2026-03-18T21:20:32Z	
 8.6.8	classes	2026-03-30T19:29:09Z	
 8.8.0		2026-02-19T18:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.8.0/hapi-fhir-testpage-overlay-8.8.0.jar returned status 404
 8.8.0	classes	2026-02-19T18:28:54Z	
+8.8.1		2026-03-17T18:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/hapi-fhir-testpage-overlay/8.8.1/hapi-fhir-testpage-overlay-8.8.1.jar returned status 404
 8.8.1	classes	2026-03-17T18:00:24Z	

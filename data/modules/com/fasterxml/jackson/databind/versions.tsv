@@ -4110,6 +4110,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.31.0	named	net.hironico	hironico-minisql-dist	2026-03-20T09:08:56Z	2.17.1
 2.31.1	named	net.hironico	hironico-minisql-dist	2026-03-20T13:02:35Z	2.21.1
 2.21.2	named	com.fasterxml.jackson.core	jackson-databind	2026-03-20T16:42:53Z	2.21.2
+5.0.4	named	org.openidentityplatform.opendj	opendj-openidm-account-change-notification-handler	2026-03-23T20:24:13Z	2.18.6
 1.5.2.9	named	com.linkedin.iceberg	iceberg-hive-runtime	2026-03-24T03:57:36Z	2.14.2
 1.5.2.9	named	com.linkedin.iceberg	iceberg-flink-runtime-1.18	2026-03-24T03:57:37Z	2.14.2
 3.6.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-elasticsearch	2026-03-25T03:40:09Z	2.13.2

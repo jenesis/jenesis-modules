@@ -777,6 +777,8 @@
 1.0.2	named	io.github.abdullahkhan118	deep-copy-processors	2026-03-14T08:33:44Z	
 1.0.3	named	io.github.abdullahkhan118	deep-copy-processors	2026-03-14T08:51:21Z	
 1.0.4	named	io.github.abdullahkhan118	deep-copy-processors	2026-03-15T03:29:25Z	
+2.3.20	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-03-16T07:27:03Z	
+2.3.20	named	org.jetbrains.kotlin	kotlin-reflect	2026-03-16T07:27:03Z	
 0.25.0	named	com.airbnb.viaduct	runtime	2026-03-19T19:14:33Z	
 0.26.0	named	com.airbnb.viaduct	runtime	2026-03-27T18:22:54Z	
 0.27.0	named	com.airbnb.viaduct	runtime	2026-04-03T14:05:07Z	

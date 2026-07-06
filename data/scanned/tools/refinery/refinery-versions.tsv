@@ -6,3 +6,4 @@
 0.1.5		2025-03-01T14:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/refinery/refinery-versions/0.1.5/refinery-versions-0.1.5.jar returned status 404
 0.1.6		2025-03-16T21:24:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/refinery/refinery-versions/0.1.6/refinery-versions-0.1.6.jar returned status 404
 0.2.0		2025-09-22T17:35:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/refinery/refinery-versions/0.2.0/refinery-versions-0.2.0.jar returned status 404
+0.3.0		2026-03-25T22:31:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/refinery/refinery-versions/0.3.0/refinery-versions-0.3.0.jar returned status 404

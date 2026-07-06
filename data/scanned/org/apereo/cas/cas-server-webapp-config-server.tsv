@@ -81,3 +81,4 @@
 7.3.5		2026-03-07T02:56:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-config-server/7.3.5/cas-server-webapp-config-server-7.3.5.jar returned status 404
 8.0.0-RC1		2026-01-17T04:36:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-config-server/8.0.0-RC1/cas-server-webapp-config-server-8.0.0-RC1.jar returned status 404
 8.0.0-RC2		2026-02-19T23:55:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-config-server/8.0.0-RC2/cas-server-webapp-config-server-8.0.0-RC2.jar returned status 404
+8.0.0-RC3		2026-03-24T02:49:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-config-server/8.0.0-RC3/cas-server-webapp-config-server-8.0.0-RC3.jar returned status 404

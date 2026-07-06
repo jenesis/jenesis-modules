@@ -1,2 +1,7 @@
 4.0.3		2026-03-03T20:12:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.3/moderne-cli-linux-4.0.3.jar returned status 404
 4.0.4		2026-03-05T21:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.4/moderne-cli-linux-4.0.4.jar returned status 404
+4.0.5		2026-03-12T15:14:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.5/moderne-cli-linux-4.0.5.jar returned status 404
+4.0.6		2026-03-20T15:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.6/moderne-cli-linux-4.0.6.jar returned status 404
+4.0.7		2026-03-23T23:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.7/moderne-cli-linux-4.0.7.jar returned status 404
+4.0.8		2026-03-25T11:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.8/moderne-cli-linux-4.0.8.jar returned status 404
+4.0.9		2026-03-27T16:04:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-linux/4.0.9/moderne-cli-linux-4.0.9.jar returned status 404

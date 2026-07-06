@@ -18,3 +18,6 @@
 4.2.7		2026-02-12T23:31:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.2.7/phase4-server-webapp-4.2.7.jar returned status 404
 4.3.0		2026-02-17T18:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.3.0/phase4-server-webapp-4.3.0.jar returned status 404
 4.3.1		2026-03-03T22:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.3.1/phase4-server-webapp-4.3.1.jar returned status 404
+4.3.2		2026-03-10T21:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.3.2/phase4-server-webapp-4.3.2.jar returned status 404
+4.4.0		2026-03-19T17:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.4.0/phase4-server-webapp-4.4.0.jar returned status 404
+4.4.1		2026-03-20T11:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phase4/phase4-server-webapp/4.4.1/phase4-server-webapp-4.4.1.jar returned status 404

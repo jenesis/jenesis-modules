@@ -6,6 +6,7 @@
 2.36		2023-01-19T19:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/2.36/multipart-webapp-2.36.jar returned status 404
 2.37		2023-01-19T19:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/2.37/multipart-webapp-2.37.jar returned status 404
 2.38		2023-01-19T19:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/2.38/multipart-webapp-2.38.jar returned status 404
+2.48		2026-03-18T06:38:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/2.48/multipart-webapp-2.48.jar returned status 404
 3.0.0		2023-01-19T19:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/3.0.0/multipart-webapp-3.0.0.jar returned status 404
 3.0.0-M6		2023-01-19T19:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/3.0.0-M6/multipart-webapp-3.0.0-M6.jar returned status 404
 3.0.0-RC2		2023-01-19T19:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/multipart-webapp/3.0.0-RC2/multipart-webapp-3.0.0-RC2.jar returned status 404

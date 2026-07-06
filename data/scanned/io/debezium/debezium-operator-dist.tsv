@@ -27,3 +27,4 @@
 3.4.2.Final		2026-03-02T12:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-operator-dist/3.4.2.Final/debezium-operator-dist-3.4.2.Final.jar returned status 404
 3.5.0.Alpha1		2026-01-20T12:51:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-operator-dist/3.5.0.Alpha1/debezium-operator-dist-3.5.0.Alpha1.jar returned status 404
 3.5.0.Beta1		2026-02-26T19:19:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-operator-dist/3.5.0.Beta1/debezium-operator-dist-3.5.0.Beta1.jar returned status 404
+3.5.0.Beta2		2026-03-13T20:04:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-operator-dist/3.5.0.Beta2/debezium-operator-dist-3.5.0.Beta2.jar returned status 404

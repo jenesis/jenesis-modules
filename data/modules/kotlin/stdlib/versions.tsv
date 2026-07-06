@@ -2094,6 +2094,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.18.0-891	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-03-16T03:49:17Z	
 0.18.0-892	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-03-16T03:54:34Z	
 0.15.3-893-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-03-16T04:09:03Z	
+2.3.20	named	org.jetbrains.kotlin	kotlin-stdlib	2026-03-16T07:26:58Z	
 0.18.0-895	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-03-16T21:35:12Z	
 2.2.2-beta.1	named	io.last9	vertx3-rxjava2-otel-autoconfigure	2026-03-17T06:06:50Z	
 2.2.2-beta.1	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-03-17T06:06:50Z	

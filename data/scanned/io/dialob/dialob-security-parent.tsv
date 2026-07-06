@@ -1,3 +1,4 @@
 2.3.0		2025-09-24T11:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-security-parent/2.3.0/dialob-security-parent-2.3.0.jar returned status 404
 2.3.1		2025-11-18T09:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-security-parent/2.3.1/dialob-security-parent-2.3.1.jar returned status 404
 2.4.0		2026-01-29T12:30:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-security-parent/2.4.0/dialob-security-parent-2.4.0.jar returned status 404
+2.4.1		2026-03-12T12:33:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-security-parent/2.4.1/dialob-security-parent-2.4.1.jar returned status 404

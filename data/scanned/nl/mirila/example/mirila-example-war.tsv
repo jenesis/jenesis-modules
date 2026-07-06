@@ -1,5 +1,6 @@
 3.0.0		2025-09-07T11:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.0.0/mirila-example-war-3.0.0.jar returned status 404
 3.1.0		2025-09-17T09:30:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.1.0/mirila-example-war-3.1.0.jar returned status 404
+3.10.0		2026-03-27T16:51:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.10.0/mirila-example-war-3.10.0.jar returned status 404
 3.2.0		2025-11-08T22:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.2.0/mirila-example-war-3.2.0.jar returned status 404
 3.3.0		2025-11-19T23:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.3.0/mirila-example-war-3.3.0.jar returned status 404
 3.5.0		2025-11-22T09:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.5.0/mirila-example-war-3.5.0.jar returned status 404
@@ -13,3 +14,4 @@
 3.8.1		2026-01-26T20:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.8.1/mirila-example-war-3.8.1.jar returned status 404
 3.9.0		2026-02-10T18:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.9.0/mirila-example-war-3.9.0.jar returned status 404
 3.9.1		2026-02-14T22:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.9.1/mirila-example-war-3.9.1.jar returned status 404
+3.9.2		2026-03-16T14:07:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/example/mirila-example-war/3.9.2/mirila-example-war-3.9.2.jar returned status 404

@@ -186,6 +186,8 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 1.60.1	named	com.datadoghq	dd-trace-ot	2026-03-04T17:59:35Z	2.9
 0.51.0	named	io.strimzi	crd-generator	2026-03-05T19:50:03Z	2.10
 0.45.2-RC1	named	io.strimzi	crd-generator	2026-03-06T18:53:55Z	2.9
+7.4.1	named	io.fabric8	java-generator-cli	2026-03-10T09:15:36Z	2.10
+7.4.1	named	io.fabric8	crd-generator-cli	2026-03-10T09:15:39Z	2.10
 1.4.0.6rc5	named	io.acryl	datahub-auth-api	2026-03-12T07:46:54Z	2.10
 1.4.0.6	named	io.acryl	datahub-auth-api	2026-03-12T08:12:10Z	2.10
 0.45.2	named	io.strimzi	crd-generator	2026-03-12T12:06:14Z	2.9
@@ -196,7 +198,10 @@ v0.3.0b	named	ovh.mythmc	social-common	2024-12-03T02:25:13Z	2.7
 1.4.0.8rc1	named	io.acryl	datahub-auth-api	2026-03-16T23:09:27Z	2.10
 1.4.0.9rc1	named	io.acryl	datahub-auth-api	2026-03-17T19:26:14Z	2.10
 1.4.0.9	named	io.acryl	datahub-auth-api	2026-03-17T20:42:07Z	2.10
+2.0.0.Beta1	named	org.wildfly.glow	wildfly-glow	2026-03-19T10:30:31Z	2.7
 1.60.2	named	com.datadoghq	dd-trace-ot	2026-03-19T14:13:14Z	2.9
+7.3.2	named	io.fabric8	crd-generator-cli	2026-03-20T15:46:09Z	2.9
+7.3.2	named	io.fabric8	java-generator-cli	2026-03-20T15:46:13Z	2.9
 1.60.3	named	com.datadoghq	dd-trace-ot	2026-03-23T18:10:30Z	2.9
 1.5.0rc1	named	io.acryl	datahub-auth-api	2026-03-24T20:14:45Z	2.10
 1.5.0	named	io.acryl	datahub-auth-api	2026-03-24T20:41:57Z	2.10

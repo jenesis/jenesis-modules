@@ -2836,6 +2836,11 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.9.2	named	io.testomat	java-reporter-core	2026-03-14T12:27:21Z	2.0.9
 0.3.38	named	io.continual	continualMetricsDropWiz	2026-03-14T20:47:32Z	2.0.17
 0.3.38	named	io.continual	continualIamAuth0	2026-03-14T20:47:33Z	2.0.17
+0.18.0-888	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T01:36:54Z	2.0.17
+0.18.0-889	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T03:13:54Z	2.0.17
+0.18.0-891	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T03:49:17Z	2.0.17
+0.18.0-892	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T03:54:34Z	2.0.17
+0.15.3-893-1	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T04:09:04Z	2.0.17
 5.86.18	named	com.applitools	eyes-sdk-core-java5	2026-03-16T14:04:07Z	2.0.16
 0.1.5	named	io.github.linagora.linid.im	cmtp	2026-03-16T14:50:16Z	2.0.17
 0.2.0	named	io.github.linagora.linid.im	cmtp	2026-03-16T16:15:47Z	2.0.17
@@ -2843,6 +2848,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.2.0	named	io.github.linagora.linid.im	lvp	2026-03-16T16:18:56Z	2.0.17
 0.2.0	named	io.github.linagora.linid.im	rqvp	2026-03-16T16:19:35Z	2.0.17
 0.3.0	named	io.github.linagora.linid.im	rvp	2026-03-16T16:20:14Z	2.0.17
+0.18.0-895	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-16T21:35:13Z	2.0.17
 5.86.19	named	com.applitools	eyes-sdk-core-java5	2026-03-16T22:41:01Z	2.0.16
 2.53.0	named	org.apache.artemis	artemis-core-client-all	2026-03-16T23:42:13Z	2.0.17
 2.53.0	named	org.apache.artemis	artemis-jms-client-all	2026-03-16T23:42:47Z	2.0.17
@@ -2880,6 +2886,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 6.2.2	named	org.apache.activemq	activemq-all	2026-03-20T12:29:04Z	2.0.17
 5.19.3	named	org.apache.activemq	activemq-all	2026-03-20T12:53:45Z	2.0.17
 0.9.3	named	io.testomat	java-reporter-core	2026-03-20T14:10:40Z	2.0.9
+0.18.0-896	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-20T21:32:33Z	2.0.17
+0.18.0-897	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-20T22:00:17Z	2.0.17
 0.21.0	named	org.pragmatica-lite.aether	aether-setup	2026-03-21T17:46:13Z	2.0.17
 3.0.4	named	org.openidentityplatform.commons.json-schema	cli	2026-03-22T17:48:59Z	2.0.17
 3.0.4	named	org.openidentityplatform.commons.json-crypto	cli	2026-03-22T17:49:00Z	2.0.17
@@ -2891,11 +2899,13 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.2.2-beta.6	named	io.last9	vertx4-rxjava3-otel-autoconfigure	2026-03-23T15:19:05Z	2.0.12
 5.0.4	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-03-23T20:24:12Z	2.0.17
 0.23.1	named	org.pragmatica-lite.aether	aether-setup	2026-03-24T08:12:32Z	2.0.17
+0.18.0-900	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-24T11:20:50Z	2.0.17
 16.0.6	named	org.openidentityplatform.openam	openam-installtools	2026-03-24T15:28:53Z	2.0.17
 0.24.0	named	org.pragmatica-lite.aether	aether-setup	2026-03-24T15:47:19Z	2.0.17
 0.10.0	named	io.testomat	java-reporter-core	2026-03-25T19:32:34Z	2.0.9
 0.3.39	named	io.continual	continualIamAuth0	2026-03-26T03:26:20Z	2.0.17
 0.3.39	named	io.continual	continualMetricsDropWiz	2026-03-26T03:26:20Z	2.0.17
+0.18.1-903	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-03-26T11:37:47Z	2.0.17
 6.2.3	named	org.apache.activemq	activemq-all	2026-03-27T18:25:53Z	2.0.17
 5.19.4	named	org.apache.activemq	activemq-all	2026-03-28T05:37:53Z	2.0.17
 0.0.17	named	io.github.liquid-java	liquidjava-verifier	2026-03-28T19:02:10Z	2.0.7

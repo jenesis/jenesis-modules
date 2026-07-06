@@ -12,3 +12,5 @@
 3.3.2.2		2026-02-12T15:08:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-jvector-plugin/3.3.2.2/opensearch-jvector-plugin-3.3.2.2.jar returned status 404
 3.4.0.0		2026-01-15T19:23:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-jvector-plugin/3.4.0.0/opensearch-jvector-plugin-3.4.0.0.jar returned status 404
 3.5.0.0		2026-02-12T15:55:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-jvector-plugin/3.5.0.0/opensearch-jvector-plugin-3.5.0.0.jar returned status 404
+3.5.0.1		2026-03-26T17:19:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-jvector-plugin/3.5.0.1/opensearch-jvector-plugin-3.5.0.1.jar returned status 404
+3.5.0.2		2026-03-26T23:03:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-jvector-plugin/3.5.0.2/opensearch-jvector-plugin-3.5.0.2.jar returned status 404

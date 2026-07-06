@@ -29,6 +29,7 @@
 4.0.29		2025-10-15T01:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.29/groovy-binary-4.0.29.jar returned status 404
 4.0.3		2022-06-01T10:25:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.3/groovy-binary-4.0.3.jar returned status 404
 4.0.30		2026-01-16T06:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.30/groovy-binary-4.0.30.jar returned status 404
+4.0.31		2026-03-26T07:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.31/groovy-binary-4.0.31.jar returned status 404
 4.0.4		2022-07-20T06:20:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.4/groovy-binary-4.0.4.jar returned status 404
 4.0.5		2022-09-06T13:00:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.5/groovy-binary-4.0.5.jar returned status 404
 4.0.6		2022-10-13T04:32:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/4.0.6/groovy-binary-4.0.6.jar returned status 404
@@ -55,3 +56,4 @@
 5.0.2		2025-10-15T00:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/5.0.2/groovy-binary-5.0.2.jar returned status 404
 5.0.3		2025-11-30T15:30:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/5.0.3/groovy-binary-5.0.3.jar returned status 404
 5.0.4		2026-01-16T08:03:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/5.0.4/groovy-binary-5.0.4.jar returned status 404
+5.0.5		2026-03-26T08:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-binary/5.0.5/groovy-binary-5.0.5.jar returned status 404

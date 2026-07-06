@@ -25,3 +25,5 @@
 8.0.0-M13		2025-10-03T11:09:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/nucleus-new/8.0.0-M13/nucleus-new-8.0.0-M13.jar returned status 404
 8.0.0-M14		2025-11-02T23:37:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/nucleus-new/8.0.0-M14/nucleus-new-8.0.0-M14.jar returned status 404
 8.0.0-M15		2025-12-15T11:52:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/nucleus-new/8.0.0-M15/nucleus-new-8.0.0-M15.jar returned status 404
+8.0.1		2026-03-25T13:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/nucleus-new/8.0.1/nucleus-new-8.0.1.jar returned status 404
+9.0.0-M1		2026-03-15T17:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/distributions/nucleus-new/9.0.0-M1/nucleus-new-9.0.0-M1.jar returned status 404

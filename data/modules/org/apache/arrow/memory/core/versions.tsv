@@ -5,4 +5,6 @@
 18.1.0	named	org.apache.arrow	arrow-memory-core	2024-11-14T09:36:37Z	18.1.0
 18.2.0	named	org.apache.arrow	arrow-memory-core	2025-02-06T07:21:02Z	18.2.0
 18.3.0	named	org.apache.arrow	arrow-memory-core	2025-05-10T12:36:15Z	18.3.0
+18.3.0-mmio.1.0	named	io.mishmash.stacks.patches	arrow-memory-core-patches	2026-03-10T14:12:16Z	18.3.0-mmio.1.0
 19.0.0	named	org.apache.arrow	arrow-memory-core	2026-03-12T12:26:24Z	19.0.0
+18.3.0-mmio.1.1	named	io.mishmash.stacks.patches	arrow-memory-core-patches	2026-03-27T13:07:24Z	18.3.0-mmio.1.1

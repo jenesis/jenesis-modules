@@ -101,3 +101,5 @@
 1.0.5		2026-02-05T15:24:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vml/es/acm.ui.content/1.0.5/acm.ui.content-1.0.5.jar returned status 404
 1.0.6		2026-02-06T09:07:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vml/es/acm.ui.content/1.0.6/acm.ui.content-1.0.6.jar returned status 404
 1.0.7		2026-03-09T15:35:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vml/es/acm.ui.content/1.0.7/acm.ui.content-1.0.7.jar returned status 404
+1.0.8		2026-03-10T10:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vml/es/acm.ui.content/1.0.8/acm.ui.content-1.0.8.jar returned status 404
+1.0.9		2026-03-10T13:18:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vml/es/acm.ui.content/1.0.9/acm.ui.content-1.0.9.jar returned status 404

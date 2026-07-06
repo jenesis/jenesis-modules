@@ -1,1 +1,2 @@
 0.2.0		2026-03-10T00:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helixframework/helix-conventions-config/0.2.0/helix-conventions-config-0.2.0.jar returned status 404
+0.3.0		2026-03-16T21:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helixframework/helix-conventions-config/0.3.0/helix-conventions-config-0.3.0.jar returned status 404

@@ -1,0 +1,2 @@
+1.1.6		2026-03-25T15:59:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/opentelemetry/opentelemetry-server-embedded/1.1.6/opentelemetry-server-embedded-1.1.6.jar returned status 404
+1.1.7		2026-03-27T08:28:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/opentelemetry/opentelemetry-server-embedded/1.1.7/opentelemetry-server-embedded-1.1.7.jar returned status 404

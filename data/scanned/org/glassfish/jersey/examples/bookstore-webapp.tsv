@@ -6,6 +6,7 @@
 2.36		2023-01-19T19:39:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/2.36/bookstore-webapp-2.36.jar returned status 404
 2.37		2023-01-19T19:39:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/2.37/bookstore-webapp-2.37.jar returned status 404
 2.38		2023-01-19T19:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/2.38/bookstore-webapp-2.38.jar returned status 404
+2.48		2026-03-18T06:38:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/2.48/bookstore-webapp-2.48.jar returned status 404
 3.0.0		2023-01-19T19:39:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/3.0.0/bookstore-webapp-3.0.0.jar returned status 404
 3.0.0-M6		2023-01-19T19:39:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/3.0.0-M6/bookstore-webapp-3.0.0-M6.jar returned status 404
 3.0.0-RC2		2023-01-19T19:39:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/examples/bookstore-webapp/3.0.0-RC2/bookstore-webapp-3.0.0-RC2.jar returned status 404

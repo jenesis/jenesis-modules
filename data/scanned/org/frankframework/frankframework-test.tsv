@@ -192,6 +192,7 @@
 9.1.0	resources	2025-04-10T14:35:04Z	
 9.1.0	scenarios	2025-04-10T14:33:08Z	
 9.1.0	secrets	2025-04-10T14:34:10Z	
+9.1.1		2026-03-17T17:09:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/9.1.1/frankframework-test-9.1.1.jar returned status 404
 9.1.1	classes	2026-03-17T17:09:33Z	
 9.1.1	configurations	2026-03-17T17:09:33Z	
 9.1.1	context	2026-03-17T17:09:33Z	

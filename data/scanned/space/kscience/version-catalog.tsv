@@ -1,1 +1,2 @@
 0.13.4-kotlin-1.8.0		2022-12-31T10:41:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/kscience/version-catalog/0.13.4-kotlin-1.8.0/version-catalog-0.13.4-kotlin-1.8.0.jar returned status 404
+0.20.3-kotlin-2.3.20		2026-03-23T08:46:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/kscience/version-catalog/0.20.3-kotlin-2.3.20/version-catalog-0.20.3-kotlin-2.3.20.jar returned status 404
