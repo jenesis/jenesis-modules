@@ -1,0 +1,2 @@
+0.13.0		2025-03-29T12:29:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/server-jvm-toml/0.13.0/server-jvm-toml-0.13.0.jar returned status 404
+0.9.0		2025-01-16T18:24:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/server-jvm-toml/0.9.0/server-jvm-toml-0.9.0.jar returned status 404

@@ -1,4 +1,12 @@
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.10.0/detekt-bom-1.10.0.jar returned status 404
+1.11.0		2020-08-13T19:48:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.11.0/detekt-bom-1.11.0.jar returned status 404
+1.11.0-RC1		2020-08-02T12:07:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.11.0-RC1/detekt-bom-1.11.0-RC1.jar returned status 404
+1.11.0-RC2		2020-08-09T20:24:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.11.0-RC2/detekt-bom-1.11.0-RC2.jar returned status 404
+1.11.1		2020-08-18T11:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.11.1/detekt-bom-1.11.1.jar returned status 404
+1.11.2		2020-08-19T20:58:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.11.2/detekt-bom-1.11.2.jar returned status 404
+1.12.0		2020-08-25T20:04:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.12.0/detekt-bom-1.12.0.jar returned status 404
+1.12.0-RC1		2020-08-20T19:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.12.0-RC1/detekt-bom-1.12.0-RC1.jar returned status 404
+1.13.0		2020-09-08T12:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.13.0/detekt-bom-1.13.0.jar returned status 404
 1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.13.1/detekt-bom-1.13.1.jar returned status 404
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.14.0/detekt-bom-1.14.0.jar returned status 404
 1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/arturbosch/detekt/detekt-bom/1.14.1/detekt-bom-1.14.1.jar returned status 404

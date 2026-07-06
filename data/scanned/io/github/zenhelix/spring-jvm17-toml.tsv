@@ -1,0 +1,4 @@
+0.13.0		2025-03-29T12:31:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/spring-jvm17-toml/0.13.0/spring-jvm17-toml-0.13.0.jar returned status 404
+0.14.0		2025-04-06T10:15:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/spring-jvm17-toml/0.14.0/spring-jvm17-toml-0.14.0.jar returned status 404
+0.15.0		2025-04-07T06:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/spring-jvm17-toml/0.15.0/spring-jvm17-toml-0.15.0.jar returned status 404
+0.16.0		2025-04-11T16:30:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zenhelix/spring-jvm17-toml/0.16.0/spring-jvm17-toml-0.16.0.jar returned status 404

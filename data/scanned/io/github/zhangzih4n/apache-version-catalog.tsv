@@ -1,0 +1,2 @@
+1.0.0		2025-03-18T19:08:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zhangzih4n/apache-version-catalog/1.0.0/apache-version-catalog-1.0.0.jar returned status 404
+2.0.0		2025-03-28T14:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zhangzih4n/apache-version-catalog/2.0.0/apache-version-catalog-2.0.0.jar returned status 404
