@@ -6,5 +6,6 @@
 0.15.0		2015-03-03T20:20:12Z	
 0.16.0		2015-07-18T13:58:44Z	
 0.17.0		2015-10-21T16:12:12Z	
+0.7.0		2013-12-25T10:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/android-driver-app/0.7.0/android-driver-app-0.7.0.jar returned status 404
 0.8.0		2014-02-05T19:43:33Z	
 0.9.0		2014-03-21T06:57:05Z	

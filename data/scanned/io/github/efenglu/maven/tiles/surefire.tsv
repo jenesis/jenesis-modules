@@ -1,0 +1,3 @@
+1.0.0		2019-03-28T23:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/surefire/1.0.0/surefire-1.0.0.jar returned status 404
+1.0.1		2019-04-01T02:58:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/surefire/1.0.1/surefire-1.0.1.jar returned status 404
+1.0.2		2019-04-01T03:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/surefire/1.0.2/surefire-1.0.2.jar returned status 404

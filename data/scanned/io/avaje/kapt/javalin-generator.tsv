@@ -1,0 +1,2 @@
+1.1		2019-12-05T23:29:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/kapt/javalin-generator/1.1/javalin-generator-1.1.jar returned status 404
+1.15		2019-12-10T04:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/kapt/javalin-generator/1.15/javalin-generator-1.15.jar returned status 404

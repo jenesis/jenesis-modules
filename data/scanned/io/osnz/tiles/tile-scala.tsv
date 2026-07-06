@@ -1,0 +1,2 @@
+1.1		2019-07-02T10:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/osnz/tiles/tile-scala/1.1/tile-scala-1.1.jar returned status 404
+1.2		2020-10-31T07:32:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/osnz/tiles/tile-scala/1.2/tile-scala-1.2.jar returned status 404

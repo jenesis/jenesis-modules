@@ -1,0 +1,11 @@
+1.10		2013-07-26T20:46:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.10/cli-1.10.jar returned status 404
+1.11		2013-08-30T02:52:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.11/cli-1.11.jar returned status 404
+1.12		2013-09-18T03:55:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.12/cli-1.12.jar returned status 404
+1.13		2013-10-01T02:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.13/cli-1.13.jar returned status 404
+1.14		2013-10-28T19:20:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.14/cli-1.14.jar returned status 404
+1.15		2013-11-04T18:39:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.15/cli-1.15.jar returned status 404
+1.5		2012-11-20T19:42:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.5/cli-1.5.jar returned status 404
+1.6		2013-02-20T19:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.6/cli-1.6.jar returned status 404
+1.7		2013-03-06T21:11:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.7/cli-1.7.jar returned status 404
+1.8		2013-03-07T19:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.8/cli-1.8.jar returned status 404
+1.9		2013-03-25T21:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/discovery/cli/1.9/cli-1.9.jar returned status 404

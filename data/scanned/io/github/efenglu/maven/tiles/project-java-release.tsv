@@ -1,0 +1,2 @@
+1.0.1		2019-04-01T02:58:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/project-java-release/1.0.1/project-java-release-1.0.1.jar returned status 404
+1.0.2		2019-04-01T03:53:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/project-java-release/1.0.2/project-java-release-1.0.2.jar returned status 404

@@ -424,6 +424,7 @@
 7.71.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-06-08T09:47:27Z	
 3.0.1	named	com.pessetto.origamismtp	OrigamiSMTP	2022-06-10T17:30:38Z	
 0.1.6	named	tech.kronicle	gradle-version-logic	2022-06-10T18:23:14Z	
+6.0.0-RC1	named	io.fabric8	java-generator-cli	2022-06-13T20:58:10Z	
 4.0.0	named	org.pgpainless	sop-java-picocli	2022-06-19T16:24:21Z	
 1.3.0	named	org.pgpainless	pgpainless-cli	2022-06-19T16:50:38Z	
 1.3.1	named	org.pgpainless	pgpainless-cli	2022-06-23T10:09:27Z	
@@ -433,6 +434,7 @@
 3.1.2101	named	io.sealights.on-premise.agents	sl-build-scanner	2022-07-04T06:09:19Z	
 2.2	named	com.github.crawler-commons	urlfrontier-service	2022-07-04T11:30:37Z	
 2.2	named	com.github.crawler-commons	urlfrontier-client	2022-07-04T11:31:16Z	
+6.0.0	named	io.fabric8	java-generator-cli	2022-07-13T07:09:14Z	
 7.73.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2022-07-18T15:32:29Z	
 12.0.0-RC2	named	org.primefaces	primefaces-cli	2022-07-20T14:53:37Z	
 0.40.0	named	org.projectnessie	nessie-content-generator	2022-07-22T18:58:08Z	
@@ -443,11 +445,14 @@
 3.1.2120	named	io.sealights.on-premise.agents	sl-build-scanner	2022-08-17T09:34:26Z	
 3.1.2121	named	io.sealights.on-premise.agents	sl-build-scanner	2022-08-23T12:58:34Z	
 12.0.0-RC3	named	org.primefaces	primefaces-cli	2022-08-24T08:57:20Z	
+6.1.0	named	io.fabric8	java-generator-cli	2022-08-31T13:51:05Z	
+6.1.1	named	io.fabric8	java-generator-cli	2022-09-01T15:40:24Z	
 0.4	named	be.atbash.runtime	packager	2022-09-04T13:20:10Z	
 0.13.0	named	io.github.mdanish98.keycloakmock	standalone	2022-09-14T23:35:43Z	
 1.0.1-98	named	com.github.cafapi.util.flywayinstaller	util-flywayinstaller-cli	2022-09-15T08:21:18Z	
 0.14.0	named	io.github.mdanish98.keycloakmock	standalone	2022-09-15T09:28:04Z	
 12.0.0	named	org.primefaces	primefaces-cli	2022-10-05T17:00:38Z	
+6.2.0	named	io.fabric8	java-generator-cli	2022-10-20T06:29:27Z	
 2.3	named	com.github.crawler-commons	urlfrontier-service	2022-10-24T10:49:06Z	
 2.3	named	com.github.crawler-commons	urlfrontier-client	2022-10-24T10:49:43Z	
 4.7.0	named	info.picocli	picocli	2022-10-31T19:58:57Z	4.7.0
@@ -459,6 +464,7 @@
 2.3.1	named	com.github.crawler-commons	urlfrontier-client	2022-11-21T15:16:40Z	
 1.3.0	named	org.apache.ozone	ozone-filesystem-shaded	2022-11-23T08:24:16Z	
 4.0.7	named	org.pgpainless	sop-java-picocli	2022-11-23T19:17:15Z	
+6.3.0	named	io.fabric8	java-generator-cli	2022-12-12T14:45:06Z	4.7.0
 1.0.0	named	com.instaclustr	ic-sstable-tools-4.1.0	2022-12-14T11:23:45Z	
 1.1	named	com.instaclustr	sstable-generator-cassandra-2-2-19	2022-12-14T14:55:35Z	
 1.5	named	com.instaclustr	sstable-generator	2022-12-14T14:55:40Z	
@@ -466,11 +472,14 @@
 1.0	named	com.instaclustr	sstable-generator-cassandra-4-1-0	2022-12-14T14:55:45Z	
 1.0	named	com.instaclustr	sstable-generator-cassandra-3-11-14	2022-12-14T14:55:55Z	
 1.0	named	com.instaclustr	sstable-generator-cassandra-4-0-7	2022-12-14T14:55:56Z	
+6.3.1	named	io.fabric8	java-generator-cli	2022-12-15T16:47:07Z	4.7.0
 1.1.0	named	com.github.toolarium	toolarium-jwebserver	2022-12-28T14:57:50Z	4.7.0
 1.1.1	named	com.github.toolarium	toolarium-jwebserver	2022-12-29T11:06:26Z	4.7.0
 4.1.0	named	org.pgpainless	sop-java-picocli	2023-01-13T18:07:21Z	
+6.4.0	named	io.fabric8	java-generator-cli	2023-01-19T11:44:11Z	4.7.0
 0.13.0	named	com.tngtech.keycloakmock	standalone	2023-01-19T12:47:14Z	4.7.0
 4.7.1	named	info.picocli	picocli	2023-01-29T00:09:04Z	4.7.1
+6.4.1	named	io.fabric8	java-generator-cli	2023-01-31T10:58:42Z	4.7.0
 4.1.1	named	org.pgpainless	sop-java-picocli	2023-01-31T17:42:59Z	
 1.2.11	named	technology.dice.open	dice-where-downloader	2023-02-13T18:10:17Z	
 1.2.12	named	technology.dice.open	dice-where-downloader	2023-02-13T20:13:34Z	
@@ -483,8 +492,10 @@
 1.3.1	named	technology.dice.open	dice-where-downloader	2023-02-17T14:46:06Z	
 1.3.3	named	technology.dice.open	dice-where-downloader	2023-02-21T00:30:34Z	
 1.3.4	named	technology.dice.open	dice-where-downloader	2023-02-24T12:23:44Z	
+6.5.0	named	io.fabric8	java-generator-cli	2023-03-10T15:07:54Z	4.7.1
 5.0.28	named	io.mongock	mongock-cli-springboot	2023-03-17T21:18:56Z	
 5.0.28	named	io.mongock	mongock-cli-core	2023-03-17T21:18:57Z	
+6.5.1	named	io.fabric8	java-generator-cli	2023-03-20T17:11:39Z	4.7.1
 4.7.2	named	info.picocli	picocli	2023-04-09T09:12:16Z	4.7.2
 4.7.3	named	info.picocli	picocli	2023-04-16T04:20:11Z	4.7.3
 5.0.0	named	org.pgpainless	sop-java-picocli	2023-04-17T12:40:39Z	
@@ -495,19 +506,25 @@
 5.0.1	named	org.pgpainless	sop-java-picocli	2023-04-26T14:02:35Z	
 6.1.0	named	org.pgpainless	sop-java-picocli	2023-04-27T12:48:24Z	
 8.38.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-04-28T08:37:09Z	4.7.1
+6.6.0	named	io.fabric8	java-generator-cli	2023-05-03T11:08:17Z	4.7.3
 2.7.12.25	named	ai.h2o	daimojo	2023-05-09T18:58:49Z	
+6.6.1	named	io.fabric8	java-generator-cli	2023-05-11T05:35:48Z	4.7.3
 5.0.29	named	io.mongock	mongock-cli-springboot	2023-05-14T18:37:09Z	
 5.0.29	named	io.mongock	mongock-cli-core	2023-05-14T18:37:13Z	
+6.6.2	named	io.fabric8	java-generator-cli	2023-05-15T05:44:01Z	4.7.3
 2.7.13	named	ai.h2o	daimojo	2023-05-16T13:03:20Z	
 8.39.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-05-22T09:49:14Z	4.7.1
 0.0.8	named	io.github.yangziwen	diff-checkstyle	2023-05-25T02:05:51Z	
 13.0.0-RC1	named	org.primefaces	primefaces-cli	2023-05-25T19:05:19Z	4.7.3
 0.14.0	named	com.tngtech.keycloakmock	standalone	2023-05-31T11:22:25Z	4.7.0
+6.7.0	named	io.fabric8	java-generator-cli	2023-06-01T09:07:09Z	4.7.3
 4.7.4	named	info.picocli	picocli	2023-06-03T00:59:53Z	4.7.4
+6.7.1	named	io.fabric8	java-generator-cli	2023-06-06T13:09:19Z	4.7.4
 5.0.30	named	io.mongock	mongock-cli-core	2023-06-13T10:11:44Z	
 5.0.30	named	io.mongock	mongock-cli-springboot	2023-06-13T10:11:46Z	
 0.15.0	named	com.tngtech.keycloakmock	standalone	2023-06-14T12:51:09Z	4.7.0
 8.40.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-06-15T10:01:50Z	4.7.1
+6.7.2	named	io.fabric8	java-generator-cli	2023-06-15T13:56:33Z	4.7.4
 7.74.0.Final	named	org.kie	kie-dmn-xls2dmn-cli	2023-06-19T19:11:55Z	
 13.0.0-RC2	named	org.primefaces	primefaces-cli	2023-06-22T17:57:32Z	4.7.4
 8.41.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-07-03T09:15:51Z	4.7.1
@@ -519,10 +536,12 @@
 7.0.0	named	org.pgpainless	sop-java-picocli	2023-07-12T13:43:14Z	
 7.74.1.Final	named	org.kie	kie-dmn-xls2dmn-cli	2023-07-13T22:28:51Z	
 13.0.0	named	org.primefaces	primefaces-cli	2023-07-19T12:35:56Z	4.7.4
+6.8.0	named	io.fabric8	java-generator-cli	2023-07-24T09:13:12Z	4.7.4
 5.0.32	named	io.mongock	mongock-cli-core	2023-07-27T21:40:48Z	
 5.0.32	named	io.mongock	mongock-cli-springboot	2023-07-27T21:40:48Z	
 8.42.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-07-28T08:34:46Z	4.7.1
 9.42.0.Alpha	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-02T09:46:59Z	4.7.1
+6.8.1	named	io.fabric8	java-generator-cli	2023-08-14T11:01:10Z	4.7.4
 8.43.0.Final	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-14T14:55:54Z	4.7.1
 9.43.0.Alpha	named	org.kie	kie-dmn-ruleset2dmn-cli	2023-08-15T07:40:37Z	4.7.1
 4.7.5	named	info.picocli	picocli	2023-08-26T22:16:58Z	4.7.5

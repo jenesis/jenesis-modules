@@ -1,0 +1,3 @@
+1.0.0		2019-03-28T23:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/integration-test/1.0.0/integration-test-1.0.0.jar returned status 404
+1.0.1		2019-04-01T02:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/integration-test/1.0.1/integration-test-1.0.1.jar returned status 404
+1.0.2		2019-04-01T03:53:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/efenglu/maven/tiles/integration-test/1.0.2/integration-test-1.0.2.jar returned status 404

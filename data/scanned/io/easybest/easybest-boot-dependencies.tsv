@@ -1,0 +1,5 @@
+0.1.7		2019-08-13T03:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/easybest/easybest-boot-dependencies/0.1.7/easybest-boot-dependencies-0.1.7.jar returned status 404
+2.1.7.RELEASE		2019-09-07T04:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/easybest/easybest-boot-dependencies/2.1.7.RELEASE/easybest-boot-dependencies-2.1.7.RELEASE.jar returned status 404
+2.1.8.GSR3		2019-09-17T21:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/easybest/easybest-boot-dependencies/2.1.8.GSR3/easybest-boot-dependencies-2.1.8.GSR3.jar returned status 404
+2.1.8.RELEASE		2019-09-08T17:39:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/easybest/easybest-boot-dependencies/2.1.8.RELEASE/easybest-boot-dependencies-2.1.8.RELEASE.jar returned status 404
+2.1.8.SR3		2019-09-17T18:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/easybest/easybest-boot-dependencies/2.1.8.SR3/easybest-boot-dependencies-2.1.8.SR3.jar returned status 404

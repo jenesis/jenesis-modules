@@ -1,0 +1,2 @@
+1.0		2013-03-20T17:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/uncod/android/bypass/bypass/1.0/bypass-1.0.jar returned status 404
+1.1		2013-03-20T22:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/uncod/android/bypass/bypass/1.1/bypass-1.1.jar returned status 404

@@ -1,0 +1,2 @@
+1.1		2019-07-02T21:06:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/osnz/tiles/tile-docker-jib/1.1/tile-docker-jib-1.1.jar returned status 404
+1.2		2019-07-03T22:46:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/osnz/tiles/tile-docker-jib/1.2/tile-docker-jib-1.2.jar returned status 404

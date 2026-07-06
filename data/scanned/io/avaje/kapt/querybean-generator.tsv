@@ -1,0 +1,2 @@
+1.1		2019-12-05T23:33:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/kapt/querybean-generator/1.1/querybean-generator-1.1.jar returned status 404
+12.1.5		2019-12-10T04:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/kapt/querybean-generator/12.1.5/querybean-generator-12.1.5.jar returned status 404

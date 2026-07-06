@@ -1,0 +1,2 @@
+2.0.0-M4		2020-05-30T15:19:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/archetypes/helidon-archetype-catalog/2.0.0-M4/helidon-archetype-catalog-2.0.0-M4.jar returned status 404
+2.0.0-RC1		2020-06-03T21:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/archetypes/helidon-archetype-catalog/2.0.0-RC1/helidon-archetype-catalog-2.0.0-RC1.jar returned status 404

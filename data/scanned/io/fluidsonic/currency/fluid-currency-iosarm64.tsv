@@ -1,3 +1,4 @@
+0.10.0		2021-06-23T20:59:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/currency/fluid-currency-iosarm64/0.10.0/fluid-currency-iosarm64-0.10.0.jar returned status 404
 0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/currency/fluid-currency-iosarm64/0.10.1/fluid-currency-iosarm64-0.10.1.jar returned status 404
 0.10.1	metadata	2021-06-23T21:12:13Z	
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/currency/fluid-currency-iosarm64/0.11.0/fluid-currency-iosarm64-0.11.0.jar returned status 404

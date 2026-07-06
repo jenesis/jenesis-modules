@@ -6,5 +6,10 @@
 0.15.0		2015-03-03T20:24:53Z	
 0.16.0		2015-07-18T14:05:24Z	
 0.17.0		2015-10-21T16:15:25Z	
+0.4.2		2013-07-05T08:15:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/selendroid-test-app/0.4.2/selendroid-test-app-0.4.2.jar returned status 404
+0.5.0		2013-08-30T14:27:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/selendroid-test-app/0.5.0/selendroid-test-app-0.5.0.jar returned status 404
+0.5.1		2013-09-06T09:15:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/selendroid-test-app/0.5.1/selendroid-test-app-0.5.1.jar returned status 404
+0.6.0		2013-11-29T20:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/selendroid-test-app/0.6.0/selendroid-test-app-0.6.0.jar returned status 404
+0.7.0		2013-12-25T10:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/selendroid/selendroid-test-app/0.7.0/selendroid-test-app-0.7.0.jar returned status 404
 0.8.0		2014-02-05T19:46:03Z	
 0.9.0		2014-03-21T07:02:09Z	

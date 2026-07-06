@@ -41,6 +41,8 @@
 4.0.14		2024-10-11T22:21:22Z	
 4.0.15		2025-01-13T17:16:38Z	
 4.0.16		2025-02-26T03:25:57Z	
+4.0.17		2025-08-01T19:13:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/build-tools/helidon-build-cache-maven-plugin/4.0.17/helidon-build-cache-maven-plugin-4.0.17.jar returned status 404
+4.0.18		2025-08-02T20:42:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/build-tools/helidon-build-cache-maven-plugin/4.0.18/helidon-build-cache-maven-plugin-4.0.18.jar returned status 404
 4.0.19		2025-08-02T21:56:33Z	
 4.0.2		2023-12-19T08:33:59Z	
 4.0.20		2025-08-02T22:49:00Z	
