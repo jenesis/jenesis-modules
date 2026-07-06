@@ -58,12 +58,14 @@ jobs:
           set -euo pipefail
           java sources/build/jenesis/crawler/ModuleMaven.java > data/module-maven.properties
 
-      - name: Commit and push if SUMMARY.md, BLEEDING.md, DRIFTERS.md, or module-maven.properties changed
+      - name: Commit and push if the summary, top-module tables, DRIFTERS, or module-maven.properties changed
         run: |
           set -euo pipefail
-          git add data/SUMMARY.md data/top/BLEEDING.md data/DRIFTERS.md data/module-maven.properties
+          # data/top/*.md covers BLEEDING.md and every per-year table (e.g. the first 2025.md), which
+          # TopModules regenerates from each data/top/<year>.txt but the commit step previously dropped.
+          git add data/SUMMARY.md data/top/*.md data/DRIFTERS.md data/module-maven.properties
           if git diff --cached --quiet; then
-            echo "SUMMARY.md, BLEEDING.md, DRIFTERS.md, and module-maven.properties unchanged; nothing to commit."
+            echo "Summary, top-module tables, DRIFTERS, and module-maven.properties unchanged; nothing to commit."
             exit 0
           fi
           stamp="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
