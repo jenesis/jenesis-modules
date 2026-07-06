@@ -1,0 +1,2 @@
+2.5.13-otsf		2024-11-28T04:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-watchdog-webapp/2.5.13-otsf/onebusaway-watchdog-webapp-2.5.13-otsf.jar returned status 404
+2.6.0		2025-03-31T19:29:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-watchdog-webapp/2.6.0/onebusaway-watchdog-webapp-2.6.0.jar returned status 404

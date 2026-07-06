@@ -1,0 +1,2 @@
+0.1.1		2025-05-03T20:36:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nirmato/ollama/nirmato-ollama-version-catalog/0.1.1/nirmato-ollama-version-catalog-0.1.1.jar returned status 404
+0.2.0		2025-06-08T23:20:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nirmato/ollama/nirmato-ollama-version-catalog/0.2.0/nirmato-ollama-version-catalog-0.2.0.jar returned status 404

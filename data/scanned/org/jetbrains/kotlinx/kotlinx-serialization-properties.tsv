@@ -1,4 +1,9 @@
 0.20.0		2020-03-04T16:07:59Z	
+1.0-M1-1.4.0-rc		2023-05-12T22:09:46Z	
+1.0.0		2020-10-08T15:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-properties/1.0.0/kotlinx-serialization-properties-1.0.0.jar returned status 404
+1.0.0-RC		2023-05-12T22:09:45Z	
+1.0.0-RC2		2020-09-21T15:47:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-properties/1.0.0-RC2/kotlinx-serialization-properties-1.0.0-RC2.jar returned status 404
+1.0.1		2020-10-28T17:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-properties/1.0.1/kotlinx-serialization-properties-1.0.1.jar returned status 404
 1.1.0		2021-02-19T14:57:00Z	
 1.1.0	all	2021-02-19T14:57:03Z	
 1.1.0-RC		2021-02-03T20:32:20Z	

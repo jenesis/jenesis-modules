@@ -1,0 +1,2 @@
+8.1.0		2025-07-08T11:53:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/8.1.0/direct-project-stock-8.1.0.jar returned status 404
+8.1.1		2025-10-15T10:49:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/8.1.1/direct-project-stock-8.1.1.jar returned status 404

@@ -1,4 +1,9 @@
 0.20.0		2020-03-04T16:12:47Z	
+1.0-M1-1.4.0-rc		2020-07-30T18:07:51Z	
+1.0.0		2020-10-08T15:24:06Z	
+1.0.0-RC		2020-08-14T15:22:38Z	
+1.0.0-RC2		2020-09-21T15:49:00Z	
+1.0.1		2020-10-28T17:02:30Z	
 1.1.0		2021-02-19T14:59:33Z	
 1.1.0-RC		2021-02-03T20:35:41Z	
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-protobuf-js/1.10.0/kotlinx-serialization-protobuf-js-1.10.0.jar returned status 404

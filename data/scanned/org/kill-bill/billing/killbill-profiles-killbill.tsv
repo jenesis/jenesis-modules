@@ -308,7 +308,9 @@
 0.24.11	classes	2024-09-05T10:38:24Z	
 0.24.12	classes	2024-10-29T12:20:07Z	
 0.24.13	classes	2025-02-07T10:59:40Z	
+0.24.15		2025-07-21T05:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.15/killbill-profiles-killbill-0.24.15.jar returned status 404
 0.24.15	classes	2025-07-21T05:58:44Z	
+0.24.16		2025-11-25T07:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.16/killbill-profiles-killbill-0.24.16.jar returned status 404
 0.24.16	classes	2025-11-25T07:56:26Z	
 0.24.17	classes	2026-04-23T08:24:21Z	
 0.24.18	classes	2026-05-14T06:08:03Z	

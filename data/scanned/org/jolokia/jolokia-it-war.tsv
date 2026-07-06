@@ -1,0 +1,4 @@
+2.3.0		2025-08-01T14:56:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jolokia/jolokia-it-war/2.3.0/jolokia-it-war-2.3.0.jar returned status 404
+2.4.0		2025-10-17T14:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jolokia/jolokia-it-war/2.4.0/jolokia-it-war-2.4.0.jar returned status 404
+2.4.1		2025-10-28T09:16:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jolokia/jolokia-it-war/2.4.1/jolokia-it-war-2.4.1.jar returned status 404
+2.4.2		2025-11-17T11:18:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jolokia/jolokia-it-war/2.4.2/jolokia-it-war-2.4.2.jar returned status 404

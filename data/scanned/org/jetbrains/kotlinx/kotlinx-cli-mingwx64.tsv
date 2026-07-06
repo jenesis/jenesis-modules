@@ -1,3 +1,8 @@
+0.2		2023-05-12T22:37:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.2/kotlinx-cli-mingwx64-0.2.jar returned status 404
+0.2.1		2023-05-12T22:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.2.1/kotlinx-cli-mingwx64-0.2.1.jar returned status 404
+0.3		2023-05-12T22:37:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3/kotlinx-cli-mingwx64-0.3.jar returned status 404
+0.3.1		2023-05-12T22:37:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3.1/kotlinx-cli-mingwx64-0.3.1.jar returned status 404
+0.3.2		2023-05-12T22:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3.2/kotlinx-cli-mingwx64-0.3.2.jar returned status 404
 0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3.3/kotlinx-cli-mingwx64-0.3.3.jar returned status 404
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3.4/kotlinx-cli-mingwx64-0.3.4.jar returned status 404
 0.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-cli-mingwx64/0.3.5/kotlinx-cli-mingwx64-0.3.5.jar returned status 404

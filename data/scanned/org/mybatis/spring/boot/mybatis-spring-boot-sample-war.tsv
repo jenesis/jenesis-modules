@@ -1,0 +1,2 @@
+3.0.5		2025-07-11T18:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/spring/boot/mybatis-spring-boot-sample-war/3.0.5/mybatis-spring-boot-sample-war-3.0.5.jar returned status 404
+4.0.0		2025-12-01T06:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/spring/boot/mybatis-spring-boot-sample-war/4.0.0/mybatis-spring-boot-sample-war-4.0.0.jar returned status 404

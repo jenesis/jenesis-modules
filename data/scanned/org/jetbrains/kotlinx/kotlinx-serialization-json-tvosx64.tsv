@@ -1,5 +1,8 @@
+1.0.0		2023-05-12T22:50:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-tvosx64/1.0.0/kotlinx-serialization-json-tvosx64-1.0.0.jar returned status 404
 1.0.0	metadata	2020-10-08T15:26:56Z	
+1.0.0-RC2		2023-05-12T22:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-tvosx64/1.0.0-RC2/kotlinx-serialization-json-tvosx64-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	metadata	2020-09-21T15:46:39Z	
+1.0.1		2023-05-12T22:50:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-tvosx64/1.0.1/kotlinx-serialization-json-tvosx64-1.0.1.jar returned status 404
 1.0.1	metadata	2020-10-28T17:04:17Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-tvosx64/1.1.0/kotlinx-serialization-json-tvosx64-1.1.0.jar returned status 404
 1.1.0	metadata	2021-02-19T14:55:10Z	

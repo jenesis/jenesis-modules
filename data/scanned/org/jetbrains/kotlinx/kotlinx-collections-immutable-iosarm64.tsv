@@ -1,3 +1,7 @@
+0.3		2023-05-12T22:04:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.3/kotlinx-collections-immutable-iosarm64-0.3.jar returned status 404
+0.3.1		2023-05-12T22:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.3.1/kotlinx-collections-immutable-iosarm64-0.3.1.jar returned status 404
+0.3.2		2023-05-12T22:04:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.3.2/kotlinx-collections-immutable-iosarm64-0.3.2.jar returned status 404
+0.3.3		2023-05-12T22:04:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.3.3/kotlinx-collections-immutable-iosarm64-0.3.3.jar returned status 404
 0.3.3	metadata	2021-04-27T14:31:25Z	
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.3.4/kotlinx-collections-immutable-iosarm64-0.3.4.jar returned status 404
 0.3.4	metadata	2021-03-29T13:57:11Z	

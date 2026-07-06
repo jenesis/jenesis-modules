@@ -1,0 +1,4 @@
+17.0		2024-04-08T09:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencms/opencms-webapp/17.0/opencms-webapp-17.0.jar returned status 404
+18.0		2024-10-07T11:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencms/opencms-webapp/18.0/opencms-webapp-18.0.jar returned status 404
+19.0		2025-03-31T10:12:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencms/opencms-webapp/19.0/opencms-webapp-19.0.jar returned status 404
+20.0		2025-10-13T13:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opencms/opencms-webapp/20.0/opencms-webapp-20.0.jar returned status 404

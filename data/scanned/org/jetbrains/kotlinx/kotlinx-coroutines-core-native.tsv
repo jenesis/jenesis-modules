@@ -42,3 +42,4 @@
 1.3.5-native-mt-1.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-native/1.3.5-native-mt-1.4-M1/kotlinx-coroutines-core-native-1.3.5-native-mt-1.4-M1.jar returned status 404
 1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-native/1.3.6/kotlinx-coroutines-core-native-1.3.6.jar returned status 404
 1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-native/1.3.7/kotlinx-coroutines-core-native-1.3.7.jar returned status 404
+1.3.8		2020-07-16T21:55:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-native/1.3.8/kotlinx-coroutines-core-native-1.3.8.jar returned status 404
