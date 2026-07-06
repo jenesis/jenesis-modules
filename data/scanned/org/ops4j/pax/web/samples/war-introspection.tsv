@@ -1,8 +1,13 @@
+10.0.0		2025-06-05T07:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/10.0.0/war-introspection-10.0.0.jar returned status 404
 10.0.0	classes	2025-06-05T07:26:57Z	
+10.0.1		2025-07-30T08:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/10.0.1/war-introspection-10.0.1.jar returned status 404
 10.0.1	classes	2025-07-30T08:06:50Z	
 10.1.0	classes	2026-06-11T09:33:31Z	
+11.0.0		2025-06-05T07:56:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/11.0.0/war-introspection-11.0.0.jar returned status 404
 11.0.0	classes	2025-06-05T07:56:58Z	
+11.0.1		2025-07-30T08:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/11.0.1/war-introspection-11.0.1.jar returned status 404
 11.0.1	classes	2025-07-30T08:09:03Z	
+11.1.0		2025-11-19T12:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/11.1.0/war-introspection-11.1.0.jar returned status 404
 11.1.0	classes	2025-11-19T12:12:09Z	
 11.1.1	classes	2026-05-07T11:13:27Z	
 11.1.2	classes	2026-06-11T09:52:10Z	
@@ -30,22 +35,37 @@
 7.2.13	classes	2020-01-09T07:22:03Z	
 7.2.14	classes	2020-01-19T07:54:13Z	
 7.2.15	classes	2020-04-15T05:26:10Z	
+7.2.16		2024-12-03T19:34:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.16/war-introspection-7.2.16.jar returned status 404
 7.2.16	classes	2020-05-20T14:21:36Z	
+7.2.17		2024-12-03T19:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.17/war-introspection-7.2.17.jar returned status 404
 7.2.17	classes	2020-07-10T13:02:07Z	
+7.2.18		2024-12-03T19:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.18/war-introspection-7.2.18.jar returned status 404
 7.2.18	classes	2020-07-20T12:19:43Z	
+7.2.19		2024-12-03T19:35:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.19/war-introspection-7.2.19.jar returned status 404
 7.2.19	classes	2020-09-16T13:23:11Z	
 7.2.2	classes	2018-08-01T09:05:30Z	
+7.2.20		2024-12-03T19:34:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.20/war-introspection-7.2.20.jar returned status 404
 7.2.20	classes	2020-11-20T13:20:14Z	
+7.2.21		2024-12-03T19:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.21/war-introspection-7.2.21.jar returned status 404
 7.2.21	classes	2020-12-17T16:38:24Z	
+7.2.22		2024-12-03T19:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.22/war-introspection-7.2.22.jar returned status 404
 7.2.22	classes	2021-02-24T12:47:54Z	
+7.2.23		2024-12-03T19:34:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.23/war-introspection-7.2.23.jar returned status 404
 7.2.23	classes	2021-03-03T10:28:35Z	
+7.2.24		2024-12-03T19:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.24/war-introspection-7.2.24.jar returned status 404
 7.2.24	classes	2021-04-23T06:25:41Z	
+7.2.25		2024-12-03T19:34:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.25/war-introspection-7.2.25.jar returned status 404
 7.2.25	classes	2021-04-25T05:30:29Z	
+7.2.26		2024-12-03T19:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.26/war-introspection-7.2.26.jar returned status 404
 7.2.26	classes	2021-05-05T16:00:38Z	
+7.2.27		2024-12-03T19:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.27/war-introspection-7.2.27.jar returned status 404
 7.2.27	classes	2021-06-08T09:19:05Z	
+7.2.28		2024-12-03T19:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.28/war-introspection-7.2.28.jar returned status 404
 7.2.28	classes	2021-06-23T06:06:59Z	
+7.2.29		2024-12-03T19:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.29/war-introspection-7.2.29.jar returned status 404
 7.2.29	classes	2021-09-10T13:42:26Z	
 7.2.3	classes	2018-08-11T17:56:11Z	
+7.2.30		2024-12-03T19:35:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.2.30/war-introspection-7.2.30.jar returned status 404
 7.2.30	classes	2022-09-02T14:19:32Z	
 7.2.4	classes	2018-11-05T08:43:23Z	
 7.2.5	classes	2018-12-14T05:03:47Z	
@@ -55,98 +75,181 @@
 7.2.9	classes	2019-05-11T05:57:31Z	
 7.3.0	classes	2019-02-14T12:29:24Z	
 7.3.1	classes	2019-03-13T21:21:57Z	
+7.3.10		2024-12-03T19:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.10/war-introspection-7.3.10.jar returned status 404
 7.3.10	classes	2020-11-17T09:23:35Z	
+7.3.11		2024-12-03T19:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.11/war-introspection-7.3.11.jar returned status 404
 7.3.11	classes	2020-12-17T05:18:42Z	
+7.3.12		2024-12-03T19:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.12/war-introspection-7.3.12.jar returned status 404
 7.3.12	classes	2021-02-24T17:16:36Z	
+7.3.13		2024-12-03T19:35:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.13/war-introspection-7.3.13.jar returned status 404
 7.3.13	classes	2021-03-03T09:00:50Z	
+7.3.14		2024-12-03T19:34:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.14/war-introspection-7.3.14.jar returned status 404
 7.3.14	classes	2021-04-23T05:49:04Z	
+7.3.15		2024-12-03T19:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.15/war-introspection-7.3.15.jar returned status 404
 7.3.15	classes	2021-04-24T15:57:06Z	
+7.3.16		2024-12-03T19:34:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.16/war-introspection-7.3.16.jar returned status 404
 7.3.16	classes	2021-05-05T14:59:05Z	
+7.3.17		2024-12-03T19:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.17/war-introspection-7.3.17.jar returned status 404
 7.3.17	classes	2021-06-06T05:28:10Z	
+7.3.18		2024-12-03T19:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.18/war-introspection-7.3.18.jar returned status 404
 7.3.18	classes	2021-06-23T05:18:04Z	
+7.3.19		2024-12-03T19:35:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.19/war-introspection-7.3.19.jar returned status 404
 7.3.19	classes	2021-08-05T15:55:26Z	
 7.3.2	classes	2019-03-14T05:54:33Z	
+7.3.20		2024-12-03T19:34:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.20/war-introspection-7.3.20.jar returned status 404
 7.3.20	classes	2021-11-03T17:46:43Z	
+7.3.21		2024-12-03T19:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.21/war-introspection-7.3.21.jar returned status 404
 7.3.21	classes	2021-11-12T10:30:56Z	
+7.3.22		2024-12-03T19:35:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.22/war-introspection-7.3.22.jar returned status 404
 7.3.22	classes	2021-11-18T05:17:48Z	
+7.3.23		2024-12-03T19:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.23/war-introspection-7.3.23.jar returned status 404
 7.3.23	classes	2021-11-19T12:28:51Z	
+7.3.24		2024-12-03T19:34:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.24/war-introspection-7.3.24.jar returned status 404
 7.3.24	classes	2022-04-12T20:28:38Z	
+7.3.25		2024-12-03T19:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.25/war-introspection-7.3.25.jar returned status 404
 7.3.25	classes	2022-04-16T05:24:59Z	
+7.3.26		2024-12-03T19:35:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.26/war-introspection-7.3.26.jar returned status 404
 7.3.26	classes	2022-08-01T06:14:18Z	
+7.3.27		2024-12-03T19:35:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.27/war-introspection-7.3.27.jar returned status 404
 7.3.27	classes	2022-10-11T12:15:15Z	
+7.3.28		2024-12-03T19:35:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.28/war-introspection-7.3.28.jar returned status 404
 7.3.28	classes	2023-01-09T08:00:38Z	
+7.3.29		2024-12-03T19:34:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.29/war-introspection-7.3.29.jar returned status 404
 7.3.29	classes	2023-09-02T15:18:53Z	
 7.3.3	classes	2019-03-15T07:32:28Z	
 7.3.4	classes	2019-09-13T13:16:34Z	
 7.3.5	classes	2019-11-19T07:38:16Z	
 7.3.6	classes	2020-01-09T14:16:52Z	
 7.3.7	classes	2020-04-14T15:52:46Z	
+7.3.8		2024-12-03T19:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.8/war-introspection-7.3.8.jar returned status 404
 7.3.8	classes	2020-07-16T11:01:39Z	
+7.3.9		2024-12-03T19:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.3.9/war-introspection-7.3.9.jar returned status 404
 7.3.9	classes	2020-09-16T12:06:25Z	
+7.4.0		2024-12-03T19:34:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.0/war-introspection-7.4.0.jar returned status 404
 7.4.0	classes	2021-03-08T14:34:29Z	
+7.4.1		2024-12-03T19:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.1/war-introspection-7.4.1.jar returned status 404
 7.4.1	classes	2021-04-08T13:56:46Z	
+7.4.2		2024-12-03T19:35:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.2/war-introspection-7.4.2.jar returned status 404
 7.4.2	classes	2021-10-25T06:13:27Z	
+7.4.3		2024-12-03T19:34:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.3/war-introspection-7.4.3.jar returned status 404
 7.4.3	classes	2021-10-26T10:48:40Z	
+7.4.4		2024-12-03T19:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.4/war-introspection-7.4.4.jar returned status 404
 7.4.4	classes	2022-02-14T12:28:11Z	
+7.4.5		2024-12-03T19:35:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.5/war-introspection-7.4.5.jar returned status 404
 7.4.5	classes	2022-09-13T12:21:56Z	
+7.4.6		2024-12-03T19:34:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/7.4.6/war-introspection-7.4.6.jar returned status 404
 7.4.6	classes	2022-11-07T12:45:20Z	
+8.0.0		2024-12-03T19:35:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.0/war-introspection-8.0.0.jar returned status 404
 8.0.0	classes	2021-09-17T06:42:14Z	
+8.0.1		2024-12-03T19:35:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.1/war-introspection-8.0.1.jar returned status 404
 8.0.1	classes	2022-02-09T15:11:11Z	
+8.0.10		2024-12-03T19:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.10/war-introspection-8.0.10.jar returned status 404
 8.0.10	classes	2022-09-27T10:27:59Z	
+8.0.11		2024-12-03T19:34:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.11/war-introspection-8.0.11.jar returned status 404
 8.0.11	classes	2022-10-10T13:52:03Z	
+8.0.12		2024-12-03T19:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.12/war-introspection-8.0.12.jar returned status 404
 8.0.12	classes	2022-11-07T11:41:28Z	
+8.0.13		2024-12-03T19:34:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.13/war-introspection-8.0.13.jar returned status 404
 8.0.13	classes	2022-11-17T09:54:34Z	
+8.0.14		2024-12-03T19:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.14/war-introspection-8.0.14.jar returned status 404
 8.0.14	classes	2022-11-25T17:23:49Z	
+8.0.15		2024-12-03T19:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.15/war-introspection-8.0.15.jar returned status 404
 8.0.15	classes	2023-01-05T19:02:16Z	
+8.0.16		2024-12-03T19:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.16/war-introspection-8.0.16.jar returned status 404
 8.0.16	classes	2023-02-24T14:22:55Z	
+8.0.17		2024-12-03T19:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.17/war-introspection-8.0.17.jar returned status 404
 8.0.17	classes	2023-02-27T16:33:54Z	
+8.0.18		2024-12-03T19:35:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.18/war-introspection-8.0.18.jar returned status 404
 8.0.18	classes	2023-03-23T12:56:47Z	
+8.0.19		2024-12-03T19:35:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.19/war-introspection-8.0.19.jar returned status 404
 8.0.19	classes	2023-04-06T16:07:17Z	
+8.0.2		2024-12-03T19:34:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.2/war-introspection-8.0.2.jar returned status 404
 8.0.2	classes	2022-04-08T09:56:15Z	
+8.0.20		2024-12-03T19:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.20/war-introspection-8.0.20.jar returned status 404
 8.0.20	classes	2023-04-18T18:26:18Z	
+8.0.21		2024-12-03T19:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.21/war-introspection-8.0.21.jar returned status 404
 8.0.21	classes	2023-07-26T14:04:17Z	
+8.0.22		2024-12-03T19:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.22/war-introspection-8.0.22.jar returned status 404
 8.0.22	classes	2023-09-01T13:21:12Z	
+8.0.23		2024-12-03T19:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.23/war-introspection-8.0.23.jar returned status 404
 8.0.23	classes	2023-10-19T16:32:09Z	
+8.0.24		2024-12-03T19:34:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.24/war-introspection-8.0.24.jar returned status 404
 8.0.24	classes	2023-10-27T13:15:07Z	
+8.0.25		2024-12-03T19:34:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.25/war-introspection-8.0.25.jar returned status 404
 8.0.25	classes	2024-01-12T08:36:44Z	
+8.0.26		2024-12-03T19:34:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.26/war-introspection-8.0.26.jar returned status 404
 8.0.26	classes	2024-02-27T13:47:45Z	
+8.0.27		2024-12-03T19:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.27/war-introspection-8.0.27.jar returned status 404
 8.0.27	classes	2024-03-25T07:31:43Z	
+8.0.28		2024-12-03T19:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.28/war-introspection-8.0.28.jar returned status 404
 8.0.28	classes	2024-09-05T10:21:18Z	
+8.0.29		2024-12-03T19:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.29/war-introspection-8.0.29.jar returned status 404
 8.0.29	classes	2024-10-19T13:47:25Z	
+8.0.3		2024-12-03T19:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.3/war-introspection-8.0.3.jar returned status 404
 8.0.3	classes	2022-04-29T13:55:19Z	
 8.0.30	classes	2025-01-16T13:47:23Z	
 8.0.31	classes	2025-02-24T13:11:56Z	
+8.0.32		2025-06-04T15:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.32/war-introspection-8.0.32.jar returned status 404
 8.0.32	classes	2025-06-04T15:53:57Z	
+8.0.33		2025-07-29T17:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.33/war-introspection-8.0.33.jar returned status 404
 8.0.33	classes	2025-07-29T17:38:07Z	
+8.0.34		2025-09-18T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.34/war-introspection-8.0.34.jar returned status 404
 8.0.34	classes	2025-09-18T13:38:57Z	
 8.0.35	classes	2026-02-27T12:04:52Z	
 8.0.36	classes	2026-06-11T08:53:54Z	
+8.0.4		2024-12-03T19:35:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.4/war-introspection-8.0.4.jar returned status 404
 8.0.4	classes	2022-06-01T16:56:54Z	
+8.0.5		2024-12-03T19:35:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.5/war-introspection-8.0.5.jar returned status 404
 8.0.5	classes	2022-06-29T13:07:23Z	
+8.0.6		2024-12-03T19:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.6/war-introspection-8.0.6.jar returned status 404
 8.0.6	classes	2022-07-06T05:34:28Z	
+8.0.7		2024-12-03T19:35:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.7/war-introspection-8.0.7.jar returned status 404
 8.0.7	classes	2022-09-01T12:24:10Z	
+8.0.8		2024-12-03T19:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.8/war-introspection-8.0.8.jar returned status 404
 8.0.8	classes	2022-09-13T16:30:55Z	
+8.0.9		2024-12-03T19:35:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/8.0.9/war-introspection-8.0.9.jar returned status 404
 8.0.9	classes	2022-09-14T10:51:32Z	
+9.0.0		2024-12-03T19:34:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.0/war-introspection-9.0.0.jar returned status 404
 9.0.0	classes	2022-09-14T11:21:04Z	
+9.0.1		2024-12-03T19:34:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.1/war-introspection-9.0.1.jar returned status 404
 9.0.1	classes	2022-09-27T10:36:20Z	
+9.0.10		2024-12-03T19:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.10/war-introspection-9.0.10.jar returned status 404
 9.0.10	classes	2023-07-26T18:07:54Z	
+9.0.11		2024-12-03T19:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.11/war-introspection-9.0.11.jar returned status 404
 9.0.11	classes	2023-09-01T15:25:08Z	
+9.0.12		2024-12-03T19:34:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.12/war-introspection-9.0.12.jar returned status 404
 9.0.12	classes	2023-10-19T17:07:47Z	
+9.0.13		2024-12-03T19:34:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.13/war-introspection-9.0.13.jar returned status 404
 9.0.13	classes	2023-10-27T17:41:41Z	
+9.0.14		2024-12-03T19:34:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.14/war-introspection-9.0.14.jar returned status 404
 9.0.14	classes	2024-01-12T10:05:46Z	
+9.0.15		2024-12-03T19:34:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.15/war-introspection-9.0.15.jar returned status 404
 9.0.15	classes	2024-02-27T14:25:14Z	
+9.0.16		2024-12-03T19:34:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.16/war-introspection-9.0.16.jar returned status 404
 9.0.16	classes	2024-03-25T08:10:56Z	
+9.0.17		2024-12-03T19:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.17/war-introspection-9.0.17.jar returned status 404
 9.0.17	classes	2024-09-05T10:13:33Z	
+9.0.18		2024-12-03T19:35:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.18/war-introspection-9.0.18.jar returned status 404
 9.0.18	classes	2024-10-19T14:12:50Z	
 9.0.19	classes	2025-01-16T14:35:20Z	
+9.0.2		2024-12-03T19:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.2/war-introspection-9.0.2.jar returned status 404
 9.0.2	classes	2022-11-07T11:41:57Z	
 9.0.20	classes	2025-02-24T13:20:49Z	
+9.0.21		2025-06-05T06:39:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.21/war-introspection-9.0.21.jar returned status 404
 9.0.21	classes	2025-06-05T06:39:26Z	
+9.0.22		2025-07-30T07:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.22/war-introspection-9.0.22.jar returned status 404
 9.0.22	classes	2025-07-30T07:01:40Z	
+9.0.3		2024-12-03T19:35:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.3/war-introspection-9.0.3.jar returned status 404
 9.0.3	classes	2022-11-17T10:27:15Z	
+9.0.4		2024-12-03T19:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.4/war-introspection-9.0.4.jar returned status 404
 9.0.4	classes	2022-11-25T17:58:28Z	
+9.0.5		2024-12-03T19:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.5/war-introspection-9.0.5.jar returned status 404
 9.0.5	classes	2023-02-24T15:56:53Z	
+9.0.6		2024-12-03T19:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.6/war-introspection-9.0.6.jar returned status 404
 9.0.6	classes	2023-02-27T17:00:21Z	
+9.0.7		2024-12-03T19:34:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.7/war-introspection-9.0.7.jar returned status 404
 9.0.7	classes	2023-03-23T15:21:16Z	
+9.0.8		2024-12-03T19:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.8/war-introspection-9.0.8.jar returned status 404
 9.0.8	classes	2023-04-06T17:43:04Z	
+9.0.9		2024-12-03T19:34:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-introspection/9.0.9/war-introspection-9.0.9.jar returned status 404
 9.0.9	classes	2023-04-19T06:20:13Z	

@@ -1,0 +1,14 @@
+10.0.0		2025-06-05T07:27:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/10.0.0/war-filters-10.0.0.jar returned status 404
+10.0.1		2025-07-30T08:06:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/10.0.1/war-filters-10.0.1.jar returned status 404
+11.0.0		2025-06-05T07:56:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/11.0.0/war-filters-11.0.0.jar returned status 404
+11.0.1		2025-07-30T08:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/11.0.1/war-filters-11.0.1.jar returned status 404
+11.1.0		2025-11-19T12:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/11.1.0/war-filters-11.1.0.jar returned status 404
+8.0.28		2024-12-03T20:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/8.0.28/war-filters-8.0.28.jar returned status 404
+8.0.29		2024-12-03T20:18:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/8.0.29/war-filters-8.0.29.jar returned status 404
+8.0.32		2025-06-04T15:53:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/8.0.32/war-filters-8.0.32.jar returned status 404
+8.0.33		2025-07-29T17:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/8.0.33/war-filters-8.0.33.jar returned status 404
+8.0.34		2025-09-18T13:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/8.0.34/war-filters-8.0.34.jar returned status 404
+9.0.17		2024-12-03T20:18:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/9.0.17/war-filters-9.0.17.jar returned status 404
+9.0.18		2024-12-03T20:18:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/9.0.18/war-filters-9.0.18.jar returned status 404
+9.0.21		2025-06-05T06:39:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/9.0.21/war-filters-9.0.21.jar returned status 404
+9.0.22		2025-07-30T07:01:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-filters/9.0.22/war-filters-9.0.22.jar returned status 404
