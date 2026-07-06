@@ -1,0 +1,15 @@
+0.5.0-rc.1		2021-03-19T22:33:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.5.0-rc.1/ndbench-web-0.5.0-rc.1.jar returned status 404
+0.5.0-rc.2		2021-05-03T21:05:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.5.0-rc.2/ndbench-web-0.5.0-rc.2.jar returned status 404
+0.5.0-rc.3		2021-05-06T01:33:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.5.0-rc.3/ndbench-web-0.5.0-rc.3.jar returned status 404
+0.5.1		2021-05-06T18:52:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.5.1/ndbench-web-0.5.1.jar returned status 404
+0.5.2		2021-08-04T17:53:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.5.2/ndbench-web-0.5.2.jar returned status 404
+0.6.0		2021-05-11T21:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.6.0/ndbench-web-0.6.0.jar returned status 404
+0.6.0-rc.1		2021-05-11T21:38:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.6.0-rc.1/ndbench-web-0.6.0-rc.1.jar returned status 404
+0.6.1		2021-06-07T16:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.6.1/ndbench-web-0.6.1.jar returned status 404
+0.6.2		2021-06-09T20:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.6.2/ndbench-web-0.6.2.jar returned status 404
+0.7.0		2021-08-25T23:38:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.0/ndbench-web-0.7.0.jar returned status 404
+0.7.0-rc.2		2021-08-25T21:38:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.0-rc.2/ndbench-web-0.7.0-rc.2.jar returned status 404
+0.7.1		2021-10-26T16:45:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.1/ndbench-web-0.7.1.jar returned status 404
+0.7.2		2022-01-12T21:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.2/ndbench-web-0.7.2.jar returned status 404
+0.7.3		2023-06-12T18:33:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.3/ndbench-web-0.7.3.jar returned status 404
+0.7.4		2023-06-21T17:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/ndbench/ndbench-web/0.7.4/ndbench-web-0.7.4.jar returned status 404

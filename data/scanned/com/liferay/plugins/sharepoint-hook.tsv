@@ -1,0 +1,4 @@
+7.0.10.43		2024-02-27T13:52:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/plugins/sharepoint-hook/7.0.10.43/sharepoint-hook-7.0.10.43.jar returned status 404
+7.1.10.37		2023-12-07T03:15:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/plugins/sharepoint-hook/7.1.10.37/sharepoint-hook-7.1.10.37.jar returned status 404
+7.1.10.38		2024-02-27T16:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/plugins/sharepoint-hook/7.1.10.38/sharepoint-hook-7.1.10.38.jar returned status 404
+7.1.10.39		2025-04-08T10:56:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/plugins/sharepoint-hook/7.1.10.39/sharepoint-hook-7.1.10.39.jar returned status 404

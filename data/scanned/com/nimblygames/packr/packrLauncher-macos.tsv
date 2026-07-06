@@ -1,0 +1,8 @@
+2.2.0		2020-04-17T04:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.2.0/packrLauncher-macos-2.2.0.jar returned status 404
+2.3.0		2020-04-29T05:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.3.0/packrLauncher-macos-2.3.0.jar returned status 404
+2.4.2		2020-05-07T05:30:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.4.2/packrLauncher-macos-2.4.2.jar returned status 404
+2.5.0		2020-05-26T04:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.5.0/packrLauncher-macos-2.5.0.jar returned status 404
+2.6.0		2020-06-03T05:44:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.6.0/packrLauncher-macos-2.6.0.jar returned status 404
+2.6.2		2020-06-17T03:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.6.2/packrLauncher-macos-2.6.2.jar returned status 404
+2.6.3		2020-06-25T02:24:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.6.3/packrLauncher-macos-2.6.3.jar returned status 404
+2.6.4		2020-06-29T03:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nimblygames/packr/packrLauncher-macos/2.6.4/packrLauncher-macos-2.6.4.jar returned status 404

@@ -1,0 +1,2 @@
+1.3.0		2024-02-09T05:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/metacat/metacat-war/1.3.0/metacat-war-1.3.0.jar returned status 404
+1.3.1		2024-02-26T08:12:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/metacat/metacat-war/1.3.1/metacat-war-1.3.1.jar returned status 404
