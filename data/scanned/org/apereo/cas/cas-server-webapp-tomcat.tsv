@@ -66,3 +66,12 @@
 6.1.0-RC2	resources	2019-03-04T21:42:24Z	
 6.1.0-RC3	resources	2019-04-29T10:20:27Z	
 6.1.0-RC4	resources	2019-06-07T19:08:57Z	
+6.2.0-RC1		2019-12-01T20:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/6.2.0-RC1/cas-server-webapp-tomcat-6.2.0-RC1.jar returned status 404
+7.2.5		2025-07-25T05:58:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.2.5/cas-server-webapp-tomcat-7.2.5.jar returned status 404
+7.2.6		2025-08-19T08:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.2.6/cas-server-webapp-tomcat-7.2.6.jar returned status 404
+7.2.7		2025-09-27T01:56:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.2.7/cas-server-webapp-tomcat-7.2.7.jar returned status 404
+7.3.0		2025-10-03T06:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.3.0/cas-server-webapp-tomcat-7.3.0.jar returned status 404
+7.3.0-RC3		2025-07-21T12:29:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.3.0-RC3/cas-server-webapp-tomcat-7.3.0-RC3.jar returned status 404
+7.3.0-RC4		2025-09-09T17:30:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.3.0-RC4/cas-server-webapp-tomcat-7.3.0-RC4.jar returned status 404
+7.3.1		2025-11-09T07:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.3.1/cas-server-webapp-tomcat-7.3.1.jar returned status 404
+7.3.2		2025-12-06T05:34:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-tomcat/7.3.2/cas-server-webapp-tomcat-7.3.2.jar returned status 404

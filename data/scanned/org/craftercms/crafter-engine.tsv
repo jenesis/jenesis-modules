@@ -21,12 +21,19 @@
 2.5.0.e	classes	2015-10-21T14:53:12Z	
 2.5.1	classes	2016-08-01T22:36:53Z	
 2.5.1-RC1	classes	2015-12-27T04:44:00Z	
+2.5.1-RC2		2021-12-16T22:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.1-RC2/crafter-engine-2.5.1-RC2.jar returned status 404
 2.5.1-RC2	classes	2017-08-14T21:38:11Z	
+2.5.10		2021-12-16T22:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.10/crafter-engine-2.5.10.jar returned status 404
 2.5.10	classes	2017-11-07T21:01:53Z	
+2.5.11		2021-12-16T22:43:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.11/crafter-engine-2.5.11.jar returned status 404
 2.5.11	classes	2017-12-01T23:45:23Z	
+2.5.12		2021-12-16T22:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.12/crafter-engine-2.5.12.jar returned status 404
 2.5.12	classes	2017-12-07T04:37:33Z	
+2.5.13		2021-12-16T22:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.13/crafter-engine-2.5.13.jar returned status 404
 2.5.13	classes	2018-01-05T14:48:01Z	
+2.5.14		2021-12-16T22:43:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.14/crafter-engine-2.5.14.jar returned status 404
 2.5.14	classes	2018-01-18T19:46:42Z	
+2.5.15		2021-12-16T22:43:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.15/crafter-engine-2.5.15.jar returned status 404
 2.5.15	classes	2018-02-06T23:16:27Z	
 2.5.16		2021-12-16T22:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-engine/2.5.16/crafter-engine-2.5.16.jar returned status 404
 2.5.16	classes	2018-05-10T22:19:18Z	

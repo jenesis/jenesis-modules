@@ -1,0 +1,11 @@
+5.0.22		2025-08-14T13:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/5.0.22/cometd-demo-5.0.22.jar returned status 404
+5.0.23		2025-08-19T17:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/5.0.23/cometd-demo-5.0.23.jar returned status 404
+6.0.18		2025-08-15T14:34:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/6.0.18/cometd-demo-6.0.18.jar returned status 404
+6.0.19		2025-08-19T13:59:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/6.0.19/cometd-demo-6.0.19.jar returned status 404
+7.0.18		2025-08-15T15:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/7.0.18/cometd-demo-7.0.18.jar returned status 404
+7.0.19		2025-08-19T14:10:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/7.0.19/cometd-demo-7.0.19.jar returned status 404
+8.0.10		2025-08-15T16:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/8.0.10/cometd-demo-8.0.10.jar returned status 404
+8.0.11		2025-10-09T13:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/8.0.11/cometd-demo-8.0.11.jar returned status 404
+8.0.8		2025-05-13T09:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/8.0.8/cometd-demo-8.0.8.jar returned status 404
+8.0.9		2025-07-08T17:56:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/8.0.9/cometd-demo-8.0.9.jar returned status 404
+9.0.0		2025-10-10T09:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/cometd-demo/9.0.0/cometd-demo-9.0.0.jar returned status 404

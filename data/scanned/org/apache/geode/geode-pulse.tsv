@@ -1,4 +1,7 @@
 1.10.0		2019-09-19T22:45:17Z	
+1.15.0		2022-06-15T21:09:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-pulse/1.15.0/geode-pulse-1.15.0.jar returned status 404
+1.15.1		2022-09-29T12:09:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-pulse/1.15.1/geode-pulse-1.15.1.jar returned status 404
+1.15.2		2025-09-11T17:28:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-pulse/1.15.2/geode-pulse-1.15.2.jar returned status 404
 1.8.0		2018-11-30T03:25:07Z	
 1.9.0		2019-04-19T18:54:12Z	
 1.9.1		2019-08-30T17:10:08Z	

@@ -644,6 +644,7 @@
 0.9.64		2025-03-10T21:56:51Z	
 0.9.65		2025-03-16T19:38:52Z	
 0.9.66		2025-03-17T17:18:17Z	
+0.9.67		2025-03-18T21:44:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/babyfish/jimmer/jimmer-apt/0.9.67/jimmer-apt-0.9.67.jar returned status 404
 0.9.68		2025-03-18T23:50:39Z	
 0.9.69		2025-03-26T21:18:18Z	
 0.9.7		2024-11-01T20:40:24Z	

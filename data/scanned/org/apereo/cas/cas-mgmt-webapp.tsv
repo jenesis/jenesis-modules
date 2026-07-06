@@ -3,3 +3,30 @@
 6.0.1	resources	2019-02-19T23:03:43Z	
 6.1.0-RC2	resources	2019-03-05T21:56:56Z	
 6.1.0-RC4	resources	2019-06-12T20:58:28Z	
+6.2.2		2020-09-04T04:10:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.2.2/cas-mgmt-webapp-6.2.2.jar returned status 404
+6.2.3.1		2020-11-13T20:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.2.3.1/cas-mgmt-webapp-6.2.3.1.jar returned status 404
+6.3.0		2021-01-31T07:24:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.0/cas-mgmt-webapp-6.3.0.jar returned status 404
+6.3.0-RC1		2021-01-27T06:34:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.0-RC1/cas-mgmt-webapp-6.3.0-RC1.jar returned status 404
+6.3.1		2021-02-26T08:13:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.1/cas-mgmt-webapp-6.3.1.jar returned status 404
+6.3.10		2022-03-29T09:26:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.10/cas-mgmt-webapp-6.3.10.jar returned status 404
+6.3.3		2021-07-02T14:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.3/cas-mgmt-webapp-6.3.3.jar returned status 404
+6.3.4		2021-07-30T15:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.4/cas-mgmt-webapp-6.3.4.jar returned status 404
+6.3.5		2021-10-17T07:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.5/cas-mgmt-webapp-6.3.5.jar returned status 404
+6.3.6		2021-11-07T08:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.6/cas-mgmt-webapp-6.3.6.jar returned status 404
+6.3.7		2022-01-21T06:41:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.7/cas-mgmt-webapp-6.3.7.jar returned status 404
+6.3.8		2022-02-15T08:48:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.8/cas-mgmt-webapp-6.3.8.jar returned status 404
+6.3.9		2022-03-04T07:56:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.3.9/cas-mgmt-webapp-6.3.9.jar returned status 404
+6.4.0		2022-03-29T10:23:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.4.0/cas-mgmt-webapp-6.4.0.jar returned status 404
+6.4.1		2022-04-01T06:13:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.4.1/cas-mgmt-webapp-6.4.1.jar returned status 404
+6.5.0		2022-03-31T11:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.0/cas-mgmt-webapp-6.5.0.jar returned status 404
+6.5.1		2022-03-31T19:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.1/cas-mgmt-webapp-6.5.1.jar returned status 404
+6.5.2		2022-04-01T08:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.2/cas-mgmt-webapp-6.5.2.jar returned status 404
+6.5.3		2022-04-16T11:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.3/cas-mgmt-webapp-6.5.3.jar returned status 404
+6.5.4		2022-05-22T10:03:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.4/cas-mgmt-webapp-6.5.4.jar returned status 404
+6.5.5		2022-06-30T15:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.5/cas-mgmt-webapp-6.5.5.jar returned status 404
+6.5.6		2022-08-03T11:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.5.6/cas-mgmt-webapp-6.5.6.jar returned status 404
+6.6.0		2022-09-16T08:31:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.6.0/cas-mgmt-webapp-6.6.0.jar returned status 404
+6.6.1		2023-02-10T14:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.6.1/cas-mgmt-webapp-6.6.1.jar returned status 404
+6.6.2		2023-04-07T10:06:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.6.2/cas-mgmt-webapp-6.6.2.jar returned status 404
+6.6.3		2023-07-21T07:28:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.6.3/cas-mgmt-webapp-6.6.3.jar returned status 404
+6.6.4		2023-12-01T09:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-mgmt-webapp/6.6.4/cas-mgmt-webapp-6.6.4.jar returned status 404

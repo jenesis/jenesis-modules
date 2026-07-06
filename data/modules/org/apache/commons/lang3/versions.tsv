@@ -571,10 +571,12 @@
 1.0.43	named	com.signalfx.public	signalfx-java	2024-06-19T13:50:08Z	3.14.0
 2023.07.21	named	io.reliza	versioning	2024-06-19T19:36:15Z	3.14.0
 3.1.17.20240628	named	dev.hcf.ball	ball-tools-javadoc-jdk8	2024-06-29T03:59:10Z	3.14.0
+3.15.0	named	org.apache.commons	commons-lang3	2024-07-13T22:56:44Z	3.15.0
 10.0.0-M2	named	org.apache.tomee	openejb-lite	2024-07-16T07:53:03Z	3.14.0
 2.6.3	named	org.apache.storm	flux-core	2024-07-16T13:40:55Z	3.14.0
 1.1.0	named	de.fraunhofer.iosb.ilt.faaast.service	starter	2024-07-18T10:36:56Z	3.14.0
 1.0.44	named	com.signalfx.public	signalfx-java	2024-07-29T13:57:39Z	3.15.0
+3.16.0	named	org.apache.commons	commons-lang3	2024-08-01T12:24:28Z	3.16.0
 0.18.0	named	io.kestra.plugin	plugin-weaviate	2024-08-07T00:08:09Z	3.15.0
 3.37.0.12079	named	org.sonarsource.php	sonar-php-plugin	2024-08-13T09:26:35Z	3.16.0
 3.37.0.12086	named	org.sonarsource.php	sonar-php-plugin	2024-08-13T11:42:43Z	3.16.0
@@ -588,6 +590,7 @@
 1.20.5	named	io.openlineage	openlineage-sql-java	2024-08-23T15:50:55Z	3.14.0
 1.20.5	named	io.openlineage	openlineage-spark_2.12	2024-08-23T16:50:38Z	3.14.0
 1.20.5	named	io.openlineage	openlineage-spark_2.13	2024-08-23T16:52:54Z	3.14.0
+3.17.0	named	org.apache.commons	commons-lang3	2024-08-24T19:06:28Z	3.17.0
 1.0.45	named	com.signalfx.public	signalfx-java	2024-08-27T07:36:38Z	3.16.0
 1.21.1	named	io.openlineage	openlineage-sql-java	2024-08-29T13:48:51Z	3.14.0
 1.21.1	named	io.openlineage	openlineage-spark_2.12	2024-08-29T15:09:53Z	3.14.0
@@ -825,6 +828,7 @@
 8.17.0.39817	named	org.sonarsource.java	sonar-java-plugin	2025-07-04T13:57:24Z	3.17.0
 1.2.6	named	com.vmlens	trace-agent-bootstrap-jdk9	2025-07-04T14:23:10Z	3.17.0
 30.0.0	named	com.liferay.portal	com.liferay.portal.test	2025-07-05T11:37:26Z	3.17.0
+3.18.0	named	org.apache.commons	commons-lang3	2025-07-06T17:43:06Z	3.18.0
 8.17.1.39878	named	org.sonarsource.java	sonar-java-plugin	2025-07-08T09:19:02Z	3.17.0
 2.1.31	named	io.swagger.parser.v3	swagger-parser-cli	2025-07-08T12:30:43Z	3.17.0
 4.0.5.3	named	io.streamnative	buildtools	2025-07-11T01:35:40Z	3.17.0
@@ -905,6 +909,7 @@
 1.0.0	named	org.apache.gravitino	gravitino-azure	2025-09-18T08:19:32Z	3.14.0
 1.0.0	named	org.apache.gravitino	gravitino-azure-bundle	2025-09-18T08:20:35Z	3.14.0
 1.0.0	named	org.apache.gravitino	gravitino-gcp-bundle	2025-09-18T08:22:42Z	3.14.0
+3.19.0	named	org.apache.commons	commons-lang3	2025-09-19T22:21:07Z	3.19.0
 4.0.6.6	named	io.streamnative	buildtools	2025-09-20T02:08:36Z	3.18.0
 4.1.0.2	named	io.streamnative	buildtools	2025-09-22T06:09:21Z	3.18.0
 4.0.7	named	org.apache.pulsar	buildtools	2025-09-23T21:41:32Z	3.18.0
@@ -956,6 +961,7 @@
 3.0.15	named	org.apache.pulsar	buildtools	2025-11-11T21:58:38Z	3.18.0
 4.0.8	named	org.apache.pulsar	buildtools	2025-11-11T22:11:51Z	3.18.0
 4.1.2	named	org.apache.pulsar	buildtools	2025-11-11T22:22:05Z	3.18.0
+3.20.0	named	org.apache.commons	commons-lang3	2025-11-12T20:08:08Z	3.20.0
 3.1.0	named	com.equinor.neqsim	neqsim	2025-11-12T21:54:35Z	3.19.0
 1.0.1	named	org.apache.gravitino	gravitino-azure-bundle	2025-11-13T07:36:07Z	3.14.0
 1.0.1	named	org.apache.gravitino	gravitino-aliyun	2025-11-13T07:37:02Z	3.14.0

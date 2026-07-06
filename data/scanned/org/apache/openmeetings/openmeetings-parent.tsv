@@ -1,0 +1,2 @@
+8.0.0		2024-12-29T09:16:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openmeetings/openmeetings-parent/8.0.0/openmeetings-parent-8.0.0.jar returned status 404
+8.1.0		2025-09-08T02:48:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openmeetings/openmeetings-parent/8.1.0/openmeetings-parent-8.1.0.jar returned status 404

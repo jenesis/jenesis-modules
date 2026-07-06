@@ -65,3 +65,4 @@
 6.1.0-RC2	resources	2019-03-04T21:36:07Z	
 6.1.0-RC3	resources	2019-04-29T10:17:09Z	
 6.1.0-RC4	resources	2019-06-07T19:06:38Z	
+6.2.0-RC1		2019-12-01T19:59:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-eureka-server/6.2.0-RC1/cas-server-webapp-eureka-server-6.2.0-RC1.jar returned status 404

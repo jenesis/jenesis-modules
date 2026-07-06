@@ -4,6 +4,7 @@
 13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/13/parent-pom-13.jar returned status 404
 13	checksum-plugin-patch	2019-06-07T15:13:00Z	
 13	gpg-plugin-patch	2019-06-07T15:13:00Z	
+14		2021-03-05T10:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/14/parent-pom-14.jar returned status 404
 14	checksum-plugin-patch	2021-03-05T10:13:54Z	
 14	gpg-plugin-patch	2021-03-05T10:13:54Z	
 15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/15/parent-pom-15.jar returned status 404

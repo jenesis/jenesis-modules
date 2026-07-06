@@ -1,9 +1,11 @@
+2.0.0-M1	named	org.apache.commons	commons-beanutils2	2024-12-27T01:08:18Z	2.0.0-M1
 7.0.0	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2025-05-23T09:36:31Z	2.0.0-M1
 7.0.0	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-05-23T09:36:32Z	2.0.0-M1
 7.0.0	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-05-23T09:36:32Z	2.0.0-M1
 7.0.1	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-05-25T09:59:25Z	2.0.0-M1
 7.0.1	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-05-25T09:59:25Z	2.0.0-M1
 7.0.1	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2025-05-25T09:59:25Z	2.0.0-M1
+2.0.0-M2	named	org.apache.commons	commons-beanutils2	2025-05-25T14:05:26Z	2.0.0-M2
 7.0.3	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2025-06-01T19:24:57Z	2.0.0-M2
 7.0.3	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2025-06-01T19:24:58Z	2.0.0-M2
 7.0.3	named	org.onebusaway	onebusaway-gtfs-merge-cli	2025-06-01T19:24:58Z	2.0.0-M2

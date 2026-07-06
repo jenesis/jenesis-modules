@@ -401,6 +401,8 @@
 1.2.1.2-jre17	named	com.guicedee.services	commons-csv	2021-11-16T09:20:35Z	1.2.1.2-jre17
 1.2.2.1	named	com.guicedee.services	commons-csv	2022-02-09T22:59:42Z	1.2.2.1
 1.2.2.1-jre17	named	com.guicedee.services	commons-csv	2022-02-10T15:37:43Z	1.2.2.1-jre17
+1.10.0	automatic	org.apache.commons	commons-csv	2023-01-28T17:52:23Z	
+1.11.0	named	org.apache.commons	commons-csv	2024-04-28T22:09:24Z	1.11.0
 8.0.1	named	com.wizzdi	basic-iot-service	2024-05-11T10:24:47Z	1.11.0
 8.0.1	named	com.wizzdi	dynamic-invoker-export-utils	2024-05-11T10:24:49Z	1.11.0
 8.0.2	named	com.wizzdi	basic-iot-service	2024-06-10T08:12:12Z	1.11.0
@@ -412,15 +414,19 @@
 0.8.1	named	io.telicent.jena.graphql	graphql-server	2024-08-14T10:21:19Z	1.11.0
 0.8.2	named	io.telicent.jena.graphql	graphql-server	2024-09-09T15:11:39Z	1.11.0
 0.9.0	named	io.telicent.jena.graphql	graphql-server	2024-09-20T09:57:05Z	1.11.0
+1.12.0	named	org.apache.commons	commons-csv	2024-09-21T02:03:29Z	1.12.0
 0.9.1	named	io.telicent.jena.graphql	graphql-server	2024-11-13T14:43:44Z	1.12.0
 9.0.1	named	com.wizzdi	basic-iot-service	2024-12-28T12:05:27Z	1.11.0
 9.0.1	named	com.wizzdi	dynamic-invoker-export-utils	2024-12-28T12:05:41Z	1.11.0
+1.13.0	named	org.apache.commons	commons-csv	2025-01-08T13:52:40Z	1.13.0
 1.5.3	named	io.telicent.jena	jena-fmod-kafka	2025-02-14T10:58:09Z	1.13.0
 0.9.2	named	io.telicent.jena.graphql	graphql-server	2025-02-14T11:09:19Z	1.13.0
 9.0.2	named	com.wizzdi	basic-iot-service	2025-03-04T10:12:35Z	1.11.0
 9.0.2	named	com.wizzdi	dynamic-invoker-export-utils	2025-03-04T10:12:58Z	1.11.0
+1.14.0	named	org.apache.commons	commons-csv	2025-03-15T15:55:44Z	1.14.0
 0.6.20	named	xyz.ottr.lutra	lutra-cli	2025-04-29T15:11:08Z	1.13.0
 0.23.0	named	io.kestra.plugin	plugin-influxdb	2025-06-17T12:47:00Z	1.11.0
+1.14.1	named	org.apache.commons	commons-csv	2025-07-27T13:10:00Z	1.14.1
 0.24.0	named	io.kestra.plugin	plugin-influxdb	2025-08-05T13:02:58Z	1.11.0
 2.0.0	named	be.ugent.idlab.knows	algebraic-mapping-operators	2025-09-16T11:19:53Z	1.14.0
 2.0.1	named	be.ugent.idlab.knows	algebraic-mapping-operators	2025-10-01T12:28:07Z	1.14.0

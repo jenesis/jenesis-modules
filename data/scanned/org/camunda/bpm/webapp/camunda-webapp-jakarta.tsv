@@ -26,7 +26,10 @@
 7.23.0-alpha3	classes	2025-02-10T09:28:14Z	
 7.23.0-alpha4	classes	2025-03-10T07:02:25Z	
 7.23.0-alpha5	classes	2025-03-25T09:10:22Z	
+7.24.0		2025-10-07T08:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/camunda/bpm/webapp/camunda-webapp-jakarta/7.24.0/camunda-webapp-jakarta-7.24.0.jar returned status 404
 7.24.0	classes	2025-10-07T08:28:03Z	
 7.24.0-alpha1	classes	2025-06-06T06:45:08Z	
+7.24.0-alpha2		2025-08-11T02:44:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/camunda/bpm/webapp/camunda-webapp-jakarta/7.24.0-alpha2/camunda-webapp-jakarta-7.24.0-alpha2.jar returned status 404
 7.24.0-alpha2	classes	2025-08-11T02:44:57Z	
+7.24.0-alpha3		2025-09-29T07:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/camunda/bpm/webapp/camunda-webapp-jakarta/7.24.0-alpha3/camunda-webapp-jakarta-7.24.0-alpha3.jar returned status 404
 7.24.0-alpha3	classes	2025-09-29T07:43:47Z	

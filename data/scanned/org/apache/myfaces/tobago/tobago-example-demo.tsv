@@ -25,6 +25,7 @@
 6.5.0	export	2024-08-28T07:07:26Z	
 6.6.0	export	2024-10-16T09:35:24Z	
 6.7.0	export	2025-02-19T07:40:57Z	
+6.7.1		2025-03-06T09:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago-example-demo/6.7.1/tobago-example-demo-6.7.1.jar returned status 404
 6.7.1	export	2025-03-06T09:08:59Z	
 6.7.2	export	2025-05-14T08:14:53Z	
 6.8.0	export	2025-06-11T09:38:43Z	

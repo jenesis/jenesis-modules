@@ -4258,6 +4258,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 4.1.2	named	org.apache.pulsar	jclouds-shaded	2025-11-11T22:22:49Z	2.10.1
 2.1.0.1	named	com.tencent.polaris	polaris-all	2025-11-12T06:50:05Z	2.9.0
 0.0.31	named	com.free-now.sauron.plugins	kubernetesapi-report	2025-11-12T15:30:30Z	2.8.6
+7.2.3	named	org.biojava	biojava-protein-comparison-tool	2025-11-13T01:13:55Z	2.12.1
 1.3.1.1rc4	named	io.acryl	datahub-protobuf	2025-11-13T15:52:07Z	2.12.0
 1.3.1.2rc1	named	io.acryl	datahub-protobuf	2025-11-13T17:55:51Z	2.12.0
 1.3.1.2	named	io.acryl	datahub-protobuf	2025-11-13T18:18:39Z	2.12.0
@@ -4319,6 +4320,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 10.38.0.83993	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-12-08T22:32:36Z	2.10
 2.3.0-RC3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-12-09T09:50:56Z	2.11.0
 4.7.0.77924	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2025-12-09T10:48:55Z	2.13.2
+7.2.4	named	org.biojava	biojava-protein-comparison-tool	2025-12-10T22:07:04Z	2.12.1
 1.3.1.5rc1	named	io.acryl	datahub-protobuf	2025-12-10T23:55:51Z	2.12.0
 1.5.2.3	named	com.linkedin.iceberg	iceberg-gcp-bundle	2025-12-11T06:44:37Z	2.10.1
 1.3.1.5rc2	named	io.acryl	datahub-protobuf	2025-12-11T09:28:36Z	2.12.0

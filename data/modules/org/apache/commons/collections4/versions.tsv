@@ -451,6 +451,10 @@
 1.2.1.2-jre17	named	com.guicedee.services	commons-collections4	2021-11-16T02:13:49Z	1.2.1.2-jre17
 1.2.2.1	named	com.guicedee.services	commons-collections4	2022-02-09T23:04:38Z	1.2.2.1
 1.2.2.1-jre17	named	com.guicedee.services	commons-collections4	2022-02-10T15:41:40Z	1.2.2.1-jre17
+4.5.0-M1	named	org.apache.commons	commons-collections4	2024-03-31T16:04:38Z	4.5.0-M1
+4.5.0-M2	named	org.apache.commons	commons-collections4	2024-06-15T02:29:04Z	4.5.0-M2
+4.5.0-M3	named	org.apache.commons	commons-collections4	2024-12-15T15:25:44Z	4.5.0-M3
+4.5.0	named	org.apache.commons	commons-collections4	2025-04-19T13:59:50Z	4.5.0
 0.9.0	named	de.jball	sonar-hybris	2025-07-22T16:09:57Z	4.5.0
 2.0.0-RC9	named	com.guicedee.modules.services	commons-collections4	2026-04-25T16:35:19Z	2.0.0-RC9
 2.0.0-RC10	named	com.guicedee.modules.services	commons-collections4	2026-04-26T10:20:24Z	2.0.0-RC10
