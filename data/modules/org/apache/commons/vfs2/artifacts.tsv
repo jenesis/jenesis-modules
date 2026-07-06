@@ -1,4 +1,1 @@
-0.24.0	named	io.kestra.plugin	plugin-fs
-0.23.1	named	io.kestra.plugin	plugin-fs
-0.23.0	named	io.kestra.plugin	plugin-fs
-0.22.0	named	io.kestra.plugin	plugin-fs
+2.10.0	named	org.apache.commons	commons-vfs2
