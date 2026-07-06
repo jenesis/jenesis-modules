@@ -1,3 +1,4 @@
+0.14.1		2022-01-28T00:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/aws/chimesdk/amazon-chime-sdk-media/0.14.1/amazon-chime-sdk-media-0.14.1.jar returned status 404
 0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/aws/chimesdk/amazon-chime-sdk-media/0.14.2/amazon-chime-sdk-media-0.14.2.jar returned status 404
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/aws/chimesdk/amazon-chime-sdk-media/0.14.3/amazon-chime-sdk-media-0.14.3.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/aws/chimesdk/amazon-chime-sdk-media/0.15.0/amazon-chime-sdk-media-0.15.0.jar returned status 404

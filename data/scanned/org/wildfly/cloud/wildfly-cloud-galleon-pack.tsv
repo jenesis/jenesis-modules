@@ -1,0 +1,2 @@
+8.1.0.Beta1		2025-10-09T10:30:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/cloud/wildfly-cloud-galleon-pack/8.1.0.Beta1/wildfly-cloud-galleon-pack-8.1.0.Beta1.jar returned status 404
+8.1.0.Final		2025-10-24T10:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/cloud/wildfly-cloud-galleon-pack/8.1.0.Final/wildfly-cloud-galleon-pack-8.1.0.Final.jar returned status 404

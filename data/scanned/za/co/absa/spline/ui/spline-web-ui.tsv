@@ -6,3 +6,4 @@
 0.7.2	docker-info	2021-11-14T01:18:22Z	
 0.7.3	docker-info	2021-12-06T20:48:50Z	
 0.7.4	docker-info	2022-03-07T20:28:07Z	
+0.7.7		2025-07-06T01:44:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/za/co/absa/spline/ui/spline-web-ui/0.7.7/spline-web-ui-0.7.7.jar returned status 404

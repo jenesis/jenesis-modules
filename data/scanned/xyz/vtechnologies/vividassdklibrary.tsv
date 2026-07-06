@@ -1,0 +1,5 @@
+0.0.2		2023-11-09T14:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/vtechnologies/vividassdklibrary/0.0.2/vividassdklibrary-0.0.2.jar returned status 404
+0.2.0		2024-01-18T15:14:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/vtechnologies/vividassdklibrary/0.2.0/vividassdklibrary-0.2.0.jar returned status 404
+0.2.1		2024-02-07T12:31:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/vtechnologies/vividassdklibrary/0.2.1/vividassdklibrary-0.2.1.jar returned status 404
+0.2.2		2024-05-01T03:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/vtechnologies/vividassdklibrary/0.2.2/vividassdklibrary-0.2.2.jar returned status 404
+0.2.3		2024-05-06T20:20:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/vtechnologies/vividassdklibrary/0.2.3/vividassdklibrary-0.2.3.jar returned status 404

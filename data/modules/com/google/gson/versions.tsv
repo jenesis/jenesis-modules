@@ -2053,6 +2053,8 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 4.0.4	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase1_2.13	2023-10-02T20:19:57Z	2.10
 4.0.4	named	org.locationtech.geomesa	geomesa-hbase-spark-runtime-hbase2_2.13	2023-10-02T20:20:03Z	2.10
 3.42.0.4	named	ai.h2o	h2o-clustering	2023-10-03T15:52:18Z	2.9.1
+9.3.0.74761	named	org.sonarsource.sonarlint.core	sonarlint-core	2023-10-03T16:07:57Z	2.10
+9.3.0.74761	named	org.sonarsource.sonarlint.core	sonarlint-core-osgi	2023-10-03T16:07:57Z	2.10
 1.6.8	named	org.noear	luffy.queue.redis	2023-10-04T05:11:57Z	2.10.1
 1.6.8	named	org.noear	luffy.lock.redis	2023-10-04T05:12:30Z	2.10.1
 0.6.19	named	xyz.ottr.lutra	lutra-cli	2023-10-04T15:44:20Z	2.10.1
