@@ -13,3 +13,4 @@
 1.6.0		2025-11-24T19:42:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/kotlin-formatter/kotlin-formatter-dist/1.6.0/kotlin-formatter-dist-1.6.0.jar returned status 404
 1.6.1		2025-11-25T08:30:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/kotlin-formatter/kotlin-formatter-dist/1.6.1/kotlin-formatter-dist-1.6.1.jar returned status 404
 1.6.2		2025-11-25T11:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/kotlin-formatter/kotlin-formatter-dist/1.6.2/kotlin-formatter-dist-1.6.2.jar returned status 404
+1.6.3		2025-12-11T19:22:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/kotlin-formatter/kotlin-formatter-dist/1.6.3/kotlin-formatter-dist-1.6.3.jar returned status 404

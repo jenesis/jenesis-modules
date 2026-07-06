@@ -1,0 +1,2 @@
+0.0.2		2025-12-29T00:03:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/dependencies/dependencies/0.0.2/dependencies-0.0.2.jar returned status 404
+0.0.3		2025-12-29T01:24:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/sergiobelda/projectconfig/dependencies/dependencies/0.0.3/dependencies-0.0.3.jar returned status 404

@@ -1,1 +1,2 @@
 1.5.188		2025-06-29T10:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensourcebim/bimserverwar/1.5.188/bimserverwar-1.5.188.jar returned status 404
+1.6.0		2025-12-30T11:47:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensourcebim/bimserverwar/1.6.0/bimserverwar-1.6.0.jar returned status 404

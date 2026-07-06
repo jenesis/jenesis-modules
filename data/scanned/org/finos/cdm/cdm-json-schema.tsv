@@ -7,6 +7,7 @@
 6.10.0		2025-10-16T09:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.10.0/cdm-json-schema-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.11.0/cdm-json-schema-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:11:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.12.0/cdm-json-schema-6.12.0.jar returned status 404
+6.13.0		2025-12-18T12:21:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.13.0/cdm-json-schema-6.13.0.jar returned status 404
 6.8.1		2025-08-04T19:23:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.8.1/cdm-json-schema-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:29:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/6.9.0/cdm-json-schema-6.9.0.jar returned status 404
 7.0.0-dev.26		2025-07-11T10:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.26/cdm-json-schema-7.0.0-dev.26.jar returned status 404
@@ -52,3 +53,12 @@
 7.0.0-dev.66		2025-12-11T12:45:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.66/cdm-json-schema-7.0.0-dev.66.jar returned status 404
 7.0.0-dev.67		2025-12-11T14:54:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.67/cdm-json-schema-7.0.0-dev.67.jar returned status 404
 7.0.0-dev.68		2025-12-12T10:08:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.68/cdm-json-schema-7.0.0-dev.68.jar returned status 404
+7.0.0-dev.69		2025-12-15T17:44:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.69/cdm-json-schema-7.0.0-dev.69.jar returned status 404
+7.0.0-dev.70		2025-12-16T10:20:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.70/cdm-json-schema-7.0.0-dev.70.jar returned status 404
+7.0.0-dev.71		2025-12-17T10:26:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.71/cdm-json-schema-7.0.0-dev.71.jar returned status 404
+7.0.0-dev.72		2025-12-18T10:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.72/cdm-json-schema-7.0.0-dev.72.jar returned status 404
+7.0.0-dev.73		2025-12-18T23:25:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.73/cdm-json-schema-7.0.0-dev.73.jar returned status 404
+7.0.0-dev.74		2025-12-22T09:48:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.74/cdm-json-schema-7.0.0-dev.74.jar returned status 404
+7.0.0-dev.75		2025-12-23T10:02:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.75/cdm-json-schema-7.0.0-dev.75.jar returned status 404
+7.0.0-dev.76		2026-01-05T17:27:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.76/cdm-json-schema-7.0.0-dev.76.jar returned status 404
+7.0.0-dev.77		2026-01-07T10:07:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.77/cdm-json-schema-7.0.0-dev.77.jar returned status 404

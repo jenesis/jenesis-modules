@@ -1,0 +1,2 @@
+1.14.4		2025-12-21T17:12:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/vivoweb/vivo-home/1.14.4/vivo-home-1.14.4.jar returned status 404
+1.15.1		2025-12-21T18:35:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/vivoweb/vivo-home/1.15.1/vivo-home-1.15.1.jar returned status 404

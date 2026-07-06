@@ -22,3 +22,4 @@
 6.8.0		2024-11-05T14:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/neo4j/micronaut-neo4j-bom/6.8.0/micronaut-neo4j-bom-6.8.0.jar returned status 404
 6.9.0		2025-03-05T14:37:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/neo4j/micronaut-neo4j-bom/6.9.0/micronaut-neo4j-bom-6.9.0.jar returned status 404
 7.0.0		2025-11-05T11:07:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/neo4j/micronaut-neo4j-bom/7.0.0/micronaut-neo4j-bom-7.0.0.jar returned status 404
+8.0.0-M1		2025-12-31T13:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/neo4j/micronaut-neo4j-bom/8.0.0-M1/micronaut-neo4j-bom-8.0.0-M1.jar returned status 404

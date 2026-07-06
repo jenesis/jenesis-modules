@@ -7,6 +7,7 @@
 6.10.0		2025-10-16T09:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.10.0/cdm-python-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.11.0/cdm-python-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:10:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.12.0/cdm-python-6.12.0.jar returned status 404
+6.13.0		2025-12-18T12:20:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.13.0/cdm-python-6.13.0.jar returned status 404
 6.8.1		2025-08-04T19:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.8.1/cdm-python-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/6.9.0/cdm-python-6.9.0.jar returned status 404
 7.0.0-dev.26		2025-07-11T10:20:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.26/cdm-python-7.0.0-dev.26.jar returned status 404
@@ -52,3 +53,12 @@
 7.0.0-dev.66		2025-12-11T12:44:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.66/cdm-python-7.0.0-dev.66.jar returned status 404
 7.0.0-dev.67		2025-12-11T14:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.67/cdm-python-7.0.0-dev.67.jar returned status 404
 7.0.0-dev.68		2025-12-12T10:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.68/cdm-python-7.0.0-dev.68.jar returned status 404
+7.0.0-dev.69		2025-12-15T17:43:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.69/cdm-python-7.0.0-dev.69.jar returned status 404
+7.0.0-dev.70		2025-12-16T10:19:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.70/cdm-python-7.0.0-dev.70.jar returned status 404
+7.0.0-dev.71		2025-12-17T10:25:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.71/cdm-python-7.0.0-dev.71.jar returned status 404
+7.0.0-dev.72		2025-12-18T10:35:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.72/cdm-python-7.0.0-dev.72.jar returned status 404
+7.0.0-dev.73		2025-12-18T23:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.73/cdm-python-7.0.0-dev.73.jar returned status 404
+7.0.0-dev.74		2025-12-22T09:47:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.74/cdm-python-7.0.0-dev.74.jar returned status 404
+7.0.0-dev.75		2025-12-23T10:01:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.75/cdm-python-7.0.0-dev.75.jar returned status 404
+7.0.0-dev.76		2026-01-05T17:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.76/cdm-python-7.0.0-dev.76.jar returned status 404
+7.0.0-dev.77		2026-01-07T10:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-python/7.0.0-dev.77/cdm-python-7.0.0-dev.77.jar returned status 404

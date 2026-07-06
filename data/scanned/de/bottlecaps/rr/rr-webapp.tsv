@@ -5,3 +5,4 @@
 2.3		2025-02-23T19:09:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bottlecaps/rr/rr-webapp/2.3/rr-webapp-2.3.jar returned status 404
 2.4		2025-04-03T21:02:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bottlecaps/rr/rr-webapp/2.4/rr-webapp-2.4.jar returned status 404
 2.5		2025-05-26T14:55:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bottlecaps/rr/rr-webapp/2.5/rr-webapp-2.5.jar returned status 404
+2.6		2025-12-28T17:52:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bottlecaps/rr/rr-webapp/2.6/rr-webapp-2.6.jar returned status 404

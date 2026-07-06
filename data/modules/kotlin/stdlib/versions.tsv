@@ -1922,6 +1922,8 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2.9.7	named	com.volcengine	ve-tos-java-sdk-shade	2025-12-11T09:38:55Z	
 2.3.8	named	com.dtstep.lighthouse	lighthouse-client	2025-12-15T06:57:57Z	
 2.3.8	named	com.dtstep.lighthouse	lighthouse-shaded-client	2025-12-15T06:57:57Z	
+2.3.0	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2025-12-16T08:13:33Z	
+2.3.0	named	org.jetbrains.kotlin	kotlin-stdlib	2025-12-16T08:13:33Z	
 1.0.24	named	de.darkatra.injector	kotlin-dll-injector-application	2025-12-16T21:24:07Z	
 0.15.1-761-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-17T20:35:45Z	
 0.17.0-762	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-17T20:39:01Z	

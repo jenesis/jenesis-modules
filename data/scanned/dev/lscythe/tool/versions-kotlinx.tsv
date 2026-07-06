@@ -1,0 +1,5 @@
+2025.12.21		2025-12-21T07:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2025.12.21/versions-kotlinx-2025.12.21.jar returned status 404
+2025.12.21.1		2025-12-21T09:15:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2025.12.21.1/versions-kotlinx-2025.12.21.1.jar returned status 404
+2025.12.21.2		2025-12-21T10:50:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2025.12.21.2/versions-kotlinx-2025.12.21.2.jar returned status 404
+2025.12.21.3		2025-12-21T11:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2025.12.21.3/versions-kotlinx-2025.12.21.3.jar returned status 404
+2025.12.24		2025-12-23T17:48:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lscythe/tool/versions-kotlinx/2025.12.24/versions-kotlinx-2025.12.24.jar returned status 404

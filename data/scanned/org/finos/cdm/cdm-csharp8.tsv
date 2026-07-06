@@ -7,6 +7,7 @@
 6.10.0		2025-10-16T09:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.10.0/cdm-csharp8-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:45:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.11.0/cdm-csharp8-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:06:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.12.0/cdm-csharp8-6.12.0.jar returned status 404
+6.13.0		2025-12-18T12:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.13.0/cdm-csharp8-6.13.0.jar returned status 404
 6.8.1		2025-08-04T19:20:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.8.1/cdm-csharp8-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:26:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/6.9.0/cdm-csharp8-6.9.0.jar returned status 404
 7.0.0-dev.26		2025-07-11T10:17:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.26/cdm-csharp8-7.0.0-dev.26.jar returned status 404
@@ -52,3 +53,12 @@
 7.0.0-dev.66		2025-12-11T12:41:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.66/cdm-csharp8-7.0.0-dev.66.jar returned status 404
 7.0.0-dev.67		2025-12-11T14:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.67/cdm-csharp8-7.0.0-dev.67.jar returned status 404
 7.0.0-dev.68		2025-12-12T10:03:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.68/cdm-csharp8-7.0.0-dev.68.jar returned status 404
+7.0.0-dev.69		2025-12-15T17:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.69/cdm-csharp8-7.0.0-dev.69.jar returned status 404
+7.0.0-dev.70		2025-12-16T10:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.70/cdm-csharp8-7.0.0-dev.70.jar returned status 404
+7.0.0-dev.71		2025-12-17T10:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.71/cdm-csharp8-7.0.0-dev.71.jar returned status 404
+7.0.0-dev.72		2025-12-18T10:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.72/cdm-csharp8-7.0.0-dev.72.jar returned status 404
+7.0.0-dev.73		2025-12-18T23:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.73/cdm-csharp8-7.0.0-dev.73.jar returned status 404
+7.0.0-dev.74		2025-12-22T09:43:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.74/cdm-csharp8-7.0.0-dev.74.jar returned status 404
+7.0.0-dev.75		2025-12-23T09:57:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.75/cdm-csharp8-7.0.0-dev.75.jar returned status 404
+7.0.0-dev.76		2026-01-05T17:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.76/cdm-csharp8-7.0.0-dev.76.jar returned status 404
+7.0.0-dev.77		2026-01-07T10:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-csharp8/7.0.0-dev.77/cdm-csharp8-7.0.0-dev.77.jar returned status 404

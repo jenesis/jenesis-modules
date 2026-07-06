@@ -1,4 +1,5 @@
 15.0.10		2025-11-10T15:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-integration-tests/15.0.10/primefaces-integration-tests-15.0.10.jar returned status 404
+15.0.11		2026-01-04T13:01:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-integration-tests/15.0.11/primefaces-integration-tests-15.0.11.jar returned status 404
 15.0.5		2025-06-13T19:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-integration-tests/15.0.5/primefaces-integration-tests-15.0.5.jar returned status 404
 15.0.6		2025-07-17T11:37:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-integration-tests/15.0.6/primefaces-integration-tests-15.0.6.jar returned status 404
 15.0.7		2025-08-27T11:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-integration-tests/15.0.7/primefaces-integration-tests-15.0.7.jar returned status 404

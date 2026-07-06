@@ -12,3 +12,12 @@
 3.0.24		2025-09-24T01:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.24/python-parent-3.0.24.jar returned status 404
 3.0.26		2025-10-05T00:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.26/python-parent-3.0.26.jar returned status 404
 3.0.27		2025-10-05T10:58:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.27/python-parent-3.0.27.jar returned status 404
+3.0.28		2025-12-18T00:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.28/python-parent-3.0.28.jar returned status 404
+3.0.29		2025-12-18T15:55:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.29/python-parent-3.0.29.jar returned status 404
+3.0.30		2025-12-19T08:09:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.30/python-parent-3.0.30.jar returned status 404
+3.0.31		2025-12-19T11:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.31/python-parent-3.0.31.jar returned status 404
+3.0.32		2025-12-19T16:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.32/python-parent-3.0.32.jar returned status 404
+3.0.33		2025-12-20T11:09:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.33/python-parent-3.0.33.jar returned status 404
+3.0.34		2025-12-20T12:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.34/python-parent-3.0.34.jar returned status 404
+3.0.35		2026-01-05T09:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.35/python-parent-3.0.35.jar returned status 404
+3.0.36		2026-01-06T22:28:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/python-parent/3.0.36/python-parent-3.0.36.jar returned status 404

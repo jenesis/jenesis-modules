@@ -4338,6 +4338,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 5.0.6	named	io.vertx	vertx-grpc-protoc-plugin2	2025-12-15T15:43:58Z	2.10
 0.32.0	named	org.finos.legend.engine.ide.lsp	legend-engine-ide-lsp-server-shaded	2025-12-15T16:54:48Z	2.10.1
 0.0.1-alpha-33	named	dev.cjfravel	ariadne	2025-12-16T03:21:52Z	2.12.1
+2.3.0	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2025-12-16T08:13:35Z	2.11.0
 10.39.0.84080	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2025-12-16T19:10:40Z	2.10
 10.39.0.84080	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2025-12-16T19:10:40Z	2.10
 4.3.1	named	org.springframework.cloud	spring-cloud-contract-shade	2025-12-17T00:29:06Z	2.13.2

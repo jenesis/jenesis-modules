@@ -1,0 +1,4 @@
+1.0.0		2024-11-20T10:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/company-registration-versionCatalog/1.0.0/company-registration-versionCatalog-1.0.0.jar returned status 404
+1.0.1		2024-12-19T21:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/company-registration-versionCatalog/1.0.1/company-registration-versionCatalog-1.0.1.jar returned status 404
+1.1.0		2025-03-18T15:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/company-registration-versionCatalog/1.1.0/company-registration-versionCatalog-1.1.0.jar returned status 404
+1.2.0		2025-07-31T11:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/company-registration-versionCatalog/1.2.0/company-registration-versionCatalog-1.2.0.jar returned status 404

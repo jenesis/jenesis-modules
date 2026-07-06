@@ -4,3 +4,4 @@
 1.10.23		2025-10-12T09:46:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-cmt-local-war/1.10.23/datasource-cmt-local-war-1.10.23.jar returned status 404
 1.10.24		2025-10-15T14:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-cmt-local-war/1.10.24/datasource-cmt-local-war-1.10.24.jar returned status 404
 1.10.25		2025-11-09T21:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-cmt-local-war/1.10.25/datasource-cmt-local-war-1.10.25.jar returned status 404
+1.10.26		2026-01-02T20:31:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-cmt-local-war/1.10.26/datasource-cmt-local-war-1.10.26.jar returned status 404

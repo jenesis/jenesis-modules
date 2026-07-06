@@ -4,3 +4,4 @@
 1.10.23		2025-10-12T09:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-war/1.10.23/datasource-war-1.10.23.jar returned status 404
 1.10.24		2025-10-15T14:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-war/1.10.24/datasource-war-1.10.24.jar returned status 404
 1.10.25		2025-11-09T21:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-war/1.10.25/datasource-war-1.10.25.jar returned status 404
+1.10.26		2026-01-02T20:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/datasource-war/1.10.26/datasource-war-1.10.26.jar returned status 404

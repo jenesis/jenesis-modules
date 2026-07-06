@@ -7,6 +7,7 @@
 6.10.0		2025-10-16T09:16:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.10.0/cdm-golang-6.10.0.jar returned status 404
 6.11.0		2025-11-14T16:47:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.11.0/cdm-golang-6.11.0.jar returned status 404
 6.12.0		2025-11-26T15:08:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.12.0/cdm-golang-6.12.0.jar returned status 404
+6.13.0		2025-12-18T12:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.13.0/cdm-golang-6.13.0.jar returned status 404
 6.8.1		2025-08-04T19:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.8.1/cdm-golang-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:27:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/6.9.0/cdm-golang-6.9.0.jar returned status 404
 7.0.0-dev.26		2025-07-11T10:18:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.26/cdm-golang-7.0.0-dev.26.jar returned status 404
@@ -52,3 +53,12 @@
 7.0.0-dev.66		2025-12-11T12:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.66/cdm-golang-7.0.0-dev.66.jar returned status 404
 7.0.0-dev.67		2025-12-11T14:50:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.67/cdm-golang-7.0.0-dev.67.jar returned status 404
 7.0.0-dev.68		2025-12-12T10:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.68/cdm-golang-7.0.0-dev.68.jar returned status 404
+7.0.0-dev.69		2025-12-15T17:41:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.69/cdm-golang-7.0.0-dev.69.jar returned status 404
+7.0.0-dev.70		2025-12-16T10:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.70/cdm-golang-7.0.0-dev.70.jar returned status 404
+7.0.0-dev.71		2025-12-17T10:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.71/cdm-golang-7.0.0-dev.71.jar returned status 404
+7.0.0-dev.72		2025-12-18T10:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.72/cdm-golang-7.0.0-dev.72.jar returned status 404
+7.0.0-dev.73		2025-12-18T23:22:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.73/cdm-golang-7.0.0-dev.73.jar returned status 404
+7.0.0-dev.74		2025-12-22T09:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.74/cdm-golang-7.0.0-dev.74.jar returned status 404
+7.0.0-dev.75		2025-12-23T09:59:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.75/cdm-golang-7.0.0-dev.75.jar returned status 404
+7.0.0-dev.76		2026-01-05T17:24:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.76/cdm-golang-7.0.0-dev.76.jar returned status 404
+7.0.0-dev.77		2026-01-07T10:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-golang/7.0.0-dev.77/cdm-golang-7.0.0-dev.77.jar returned status 404

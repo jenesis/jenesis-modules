@@ -58,3 +58,4 @@
 5.9.4		2025-04-07T14:20:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micrometer/micronaut-micrometer-bom/5.9.4/micronaut-micrometer-bom-5.9.4.jar returned status 404
 5.9.5		2025-04-25T14:32:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micrometer/micronaut-micrometer-bom/5.9.5/micronaut-micrometer-bom-5.9.5.jar returned status 404
 5.9.6		2025-05-19T10:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micrometer/micronaut-micrometer-bom/5.9.6/micronaut-micrometer-bom-5.9.6.jar returned status 404
+6.0.1-M1		2026-01-02T13:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/micrometer/micronaut-micrometer-bom/6.0.1-M1/micronaut-micrometer-bom-6.0.1-M1.jar returned status 404

@@ -26,14 +26,23 @@
 3.0.26	jar-with-dependencies	2025-10-05T00:17:36Z	
 3.0.27		2025-10-05T10:58:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.27/webapp-parent-test-3.0.27.jar returned status 404
 3.0.27	jar-with-dependencies	2025-10-05T10:58:30Z	
+3.0.28		2025-12-18T00:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.28/webapp-parent-test-3.0.28.jar returned status 404
 3.0.28	jar-with-dependencies	2025-12-18T00:56:09Z	
+3.0.29		2025-12-18T15:55:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.29/webapp-parent-test-3.0.29.jar returned status 404
 3.0.29	jar-with-dependencies	2025-12-18T15:55:24Z	
+3.0.30		2025-12-19T08:09:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.30/webapp-parent-test-3.0.30.jar returned status 404
 3.0.30	jar-with-dependencies	2025-12-19T08:09:56Z	
+3.0.31		2025-12-19T11:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.31/webapp-parent-test-3.0.31.jar returned status 404
 3.0.31	jar-with-dependencies	2025-12-19T11:40:04Z	
+3.0.32		2025-12-19T16:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.32/webapp-parent-test-3.0.32.jar returned status 404
 3.0.32	jar-with-dependencies	2025-12-19T16:56:49Z	
+3.0.33		2025-12-20T11:09:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.33/webapp-parent-test-3.0.33.jar returned status 404
 3.0.33	jar-with-dependencies	2025-12-20T11:09:37Z	
+3.0.34		2025-12-20T12:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.34/webapp-parent-test-3.0.34.jar returned status 404
 3.0.34	jar-with-dependencies	2025-12-20T12:16:04Z	
+3.0.35		2026-01-05T09:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.35/webapp-parent-test-3.0.35.jar returned status 404
 3.0.35	jar-with-dependencies	2026-01-05T09:50:22Z	
+3.0.36		2026-01-06T22:28:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/chrissw-r1/webapp-parent-test/3.0.36/webapp-parent-test-3.0.36.jar returned status 404
 3.0.36	jar-with-dependencies	2026-01-06T22:28:30Z	
 3.0.37	jar-with-dependencies	2026-01-10T01:54:56Z	
 3.0.39	jar-with-dependencies	2026-01-15T23:18:50Z	

@@ -14,6 +14,7 @@
 1.0.5		2025-12-16T09:52:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-engine-rest-jakarta/1.0.5/orqueio-engine-rest-jakarta-1.0.5.jar returned status 404
 1.0.5	classes	2025-12-16T09:52:48Z	
 1.0.6	classes	2026-01-13T16:17:38Z	
+1.0.6-SSO		2025-12-22T10:37:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/orqueio-engine-rest-jakarta/1.0.6-SSO/orqueio-engine-rest-jakarta-1.0.6-SSO.jar returned status 404
 1.0.6-SSO	classes	2025-12-22T10:37:42Z	
 1.0.7	classes	2026-02-17T16:12:15Z	
 1.0.8	classes	2026-02-27T16:35:54Z	
