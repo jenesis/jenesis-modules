@@ -1,5 +1,8 @@
+6.10.0		2025-07-31T10:07:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset-module/6.10.0/asset-module-6.10.0.jar returned status 404
 6.10.0	classes	2025-07-31T10:07:13Z	
+6.10.1		2025-08-01T13:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset-module/6.10.1/asset-module-6.10.1.jar returned status 404
 6.10.1	classes	2025-08-01T13:21:29Z	
+6.10.2		2025-08-04T15:06:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset-module/6.10.2/asset-module-6.10.2.jar returned status 404
 6.10.2	classes	2025-08-04T15:06:17Z	
 6.8.23	classes	2022-02-23T11:19:36Z	
 6.8.24	classes	2022-02-27T15:40:52Z	
@@ -14,4 +17,5 @@
 6.8.34	classes	2024-06-04T12:22:06Z	
 6.8.35	classes	2024-07-05T12:07:39Z	
 6.8.37	classes	2025-05-02T09:05:09Z	
+6.9.0		2025-07-18T11:24:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/asset/asset-module/6.9.0/asset-module-6.9.0.jar returned status 404
 6.9.0	classes	2025-07-18T11:24:10Z	

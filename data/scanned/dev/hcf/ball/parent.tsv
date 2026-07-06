@@ -1,0 +1,2 @@
+2025.0.1		2025-06-08T19:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/parent/2025.0.1/parent-2025.0.1.jar returned status 404
+2025.0.2		2025-11-13T18:13:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/parent/2025.0.2/parent-2025.0.2.jar returned status 404

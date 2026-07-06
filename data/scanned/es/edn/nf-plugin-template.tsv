@@ -1,1 +1,2 @@
 0.0.8-rc1		2024-01-27T11:54:20Z	
+0.0.8-rc2		2024-01-27T15:05:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/es/edn/nf-plugin-template/0.0.8-rc2/nf-plugin-template-0.0.8-rc2.jar returned status 404

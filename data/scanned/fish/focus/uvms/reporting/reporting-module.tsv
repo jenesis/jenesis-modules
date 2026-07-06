@@ -2,4 +2,5 @@
 1.1.29	classes	2022-03-02T12:10:41Z	
 1.1.30	classes	2022-03-15T08:40:11Z	
 1.1.31	classes	2022-03-17T13:43:47Z	
+1.2.0		2025-07-17T09:07:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/reporting/reporting-module/1.2.0/reporting-module-1.2.0.jar returned status 404
 1.2.0	classes	2025-07-17T09:07:17Z	

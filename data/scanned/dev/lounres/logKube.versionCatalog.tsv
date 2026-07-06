@@ -1,0 +1,6 @@
+0.1.0		2024-11-24T22:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.1.0/logKube.versionCatalog-0.1.0.jar returned status 404
+0.2.0		2025-07-04T13:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.2.0/logKube.versionCatalog-0.2.0.jar returned status 404
+0.2.1		2025-07-10T14:06:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.2.1/logKube.versionCatalog-0.2.1.jar returned status 404
+0.2.2		2025-07-12T08:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.2.2/logKube.versionCatalog-0.2.2.jar returned status 404
+0.2.3		2025-09-01T19:29:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.2.3/logKube.versionCatalog-0.2.3.jar returned status 404
+0.2.4		2025-12-20T17:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lounres/logKube.versionCatalog/0.2.4/logKube.versionCatalog-0.2.4.jar returned status 404

@@ -14,6 +14,7 @@
 0.2.2		2021-06-19T18:17:53Z	
 0.2.20		2021-06-22T16:25:49Z	
 0.2.21		2021-06-22T17:17:36Z	
+0.2.22		2021-06-22T17:39:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kotx/flylib-reloaded/0.2.22/flylib-reloaded-0.2.22.jar returned status 404
 0.2.23		2021-06-22T17:46:55Z	
 0.2.24		2021-06-22T17:59:34Z	
 0.2.25		2021-06-22T18:53:10Z	

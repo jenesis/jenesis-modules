@@ -1,0 +1,2 @@
+4.0.alpha3		2025-07-20T23:26:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/arquillian/payara-micro-deployer/4.0.alpha3/payara-micro-deployer-4.0.alpha3.jar returned status 404
+4.0.alpha4		2025-07-21T21:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/arquillian/payara-micro-deployer/4.0.alpha4/payara-micro-deployer-4.0.alpha4.jar returned status 404

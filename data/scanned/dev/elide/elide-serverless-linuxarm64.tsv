@@ -1,0 +1,2 @@
+1.0.0-alpha8		2024-05-06T08:15:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-serverless-linuxarm64/1.0.0-alpha8/elide-serverless-linuxarm64-1.0.0-alpha8.jar returned status 404
+1.0.0-alpha9		2024-05-14T07:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-serverless-linuxarm64/1.0.0-alpha9/elide-serverless-linuxarm64-1.0.0-alpha9.jar returned status 404

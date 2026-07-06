@@ -1,6 +1,10 @@
 1.0-v3-alpha3-b7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha3-b7/elide-ssr-js-1.0-v3-alpha3-b7.jar returned status 404
 1.0-v3-alpha3-b8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha3-b8/elide-ssr-js-1.0-v3-alpha3-b8.jar returned status 404
+1.0-v3-alpha4-b11		2023-08-29T06:51:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha4-b11/elide-ssr-js-1.0-v3-alpha4-b11.jar returned status 404
+1.0-v3-alpha4-b12		2023-08-31T18:35:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha4-b12/elide-ssr-js-1.0-v3-alpha4-b12.jar returned status 404
 1.0-v3-alpha5-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha5-b13/elide-ssr-js-1.0-v3-alpha5-b13.jar returned status 404
 1.0-v3-alpha5-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0-v3-alpha5-b14/elide-ssr-js-1.0-v3-alpha5-b14.jar returned status 404
 1.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0.0-alpha11/elide-ssr-js-1.0.0-alpha11.jar returned status 404
 1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0.0-alpha7/elide-ssr-js-1.0.0-alpha7.jar returned status 404
+1.0.0-alpha8		2024-05-06T08:12:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0.0-alpha8/elide-ssr-js-1.0.0-alpha8.jar returned status 404
+1.0.0-alpha9		2024-05-14T07:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-ssr-js/1.0.0-alpha9/elide-ssr-js-1.0.0-alpha9.jar returned status 404

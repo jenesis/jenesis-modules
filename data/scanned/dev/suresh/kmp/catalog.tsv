@@ -1,0 +1,2 @@
+0.14.0		2024-06-03T04:51:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/kmp/catalog/0.14.0/catalog-0.14.0.jar returned status 404
+0.15.0		2024-07-12T09:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/suresh/kmp/catalog/0.15.0/catalog-0.15.0.jar returned status 404

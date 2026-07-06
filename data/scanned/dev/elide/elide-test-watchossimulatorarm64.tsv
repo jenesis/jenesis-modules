@@ -1,4 +1,6 @@
 1.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-test-watchossimulatorarm64/1.0.0-alpha11/elide-test-watchossimulatorarm64-1.0.0-alpha11.jar returned status 404
 1.0.0-alpha11	metadata	2024-12-20T06:00:17Z	
+1.0.0-alpha8		2024-05-06T07:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-test-watchossimulatorarm64/1.0.0-alpha8/elide-test-watchossimulatorarm64-1.0.0-alpha8.jar returned status 404
 1.0.0-alpha8	metadata	2024-05-06T07:26:46Z	
+1.0.0-alpha9		2024-05-14T05:16:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/elide/elide-test-watchossimulatorarm64/1.0.0-alpha9/elide-test-watchossimulatorarm64-1.0.0-alpha9.jar returned status 404
 1.0.0-alpha9	metadata	2024-05-14T05:16:57Z	
