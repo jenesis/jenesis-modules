@@ -1,0 +1,4 @@
+0.0.1		2023-02-01T07:24:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ssseasonnn/VersionCatalog/0.0.1/VersionCatalog-0.0.1.jar returned status 404
+0.0.2		2023-02-01T08:12:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ssseasonnn/VersionCatalog/0.0.2/VersionCatalog-0.0.2.jar returned status 404
+0.0.3		2023-02-03T09:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ssseasonnn/VersionCatalog/0.0.3/VersionCatalog-0.0.3.jar returned status 404
+0.0.4		2023-07-07T07:53:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ssseasonnn/VersionCatalog/0.0.4/VersionCatalog-0.0.4.jar returned status 404

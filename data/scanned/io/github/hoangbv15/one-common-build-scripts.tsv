@@ -1,0 +1,2 @@
+1.0.0		2019-12-03T21:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoangbv15/one-common-build-scripts/1.0.0/one-common-build-scripts-1.0.0.jar returned status 404
+1.1.0		2019-12-05T16:56:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoangbv15/one-common-build-scripts/1.1.0/one-common-build-scripts-1.1.0.jar returned status 404

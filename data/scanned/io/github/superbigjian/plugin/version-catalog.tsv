@@ -1,0 +1,10 @@
+1.0.0		2022-12-01T04:48:59Z	
+1.0.1		2022-12-01T09:38:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.1/version-catalog-1.0.1.jar returned status 404
+1.0.2		2022-12-01T09:49:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.2/version-catalog-1.0.2.jar returned status 404
+1.0.3		2022-12-01T11:17:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.3/version-catalog-1.0.3.jar returned status 404
+1.0.4		2022-12-01T12:06:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.4/version-catalog-1.0.4.jar returned status 404
+1.0.5		2022-12-01T13:51:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.5/version-catalog-1.0.5.jar returned status 404
+1.0.6		2022-12-13T15:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.6/version-catalog-1.0.6.jar returned status 404
+1.0.7		2022-12-20T07:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.7/version-catalog-1.0.7.jar returned status 404
+1.0.8		2022-12-20T15:02:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.8/version-catalog-1.0.8.jar returned status 404
+1.0.9		2022-12-26T03:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/superbigjian/plugin/version-catalog/1.0.9/version-catalog-1.0.9.jar returned status 404

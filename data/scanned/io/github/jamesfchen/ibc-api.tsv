@@ -1,3 +1,4 @@
+1.0.0		2021-12-27T14:37:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamesfchen/ibc-api/1.0.0/ibc-api-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamesfchen/ibc-api/1.0.1/ibc-api-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamesfchen/ibc-api/1.0.2/ibc-api-1.0.2.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamesfchen/ibc-api/1.2.0/ibc-api-1.2.0.jar returned status 404

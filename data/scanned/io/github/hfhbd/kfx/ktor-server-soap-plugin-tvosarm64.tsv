@@ -22,6 +22,7 @@
 0.0.4	metadata	2025-06-20T13:39:05Z	
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-soap-plugin-tvosarm64/0.0.5/ktor-server-soap-plugin-tvosarm64-0.0.5.jar returned status 404
 0.0.5	metadata	2025-07-02T11:52:30Z	
+0.0.6		2025-07-02T21:29:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-soap-plugin-tvosarm64/0.0.6/ktor-server-soap-plugin-tvosarm64-0.0.6.jar returned status 404
 0.0.6	metadata	2025-07-02T21:29:36Z	
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-soap-plugin-tvosarm64/0.0.7/ktor-server-soap-plugin-tvosarm64-0.0.7.jar returned status 404
 0.0.7	metadata	2025-07-03T06:52:22Z	

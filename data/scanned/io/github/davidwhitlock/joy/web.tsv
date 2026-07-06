@@ -1,0 +1,2 @@
+2.0.2		2025-06-02T02:18:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/joy/web/2.0.2/web-2.0.2.jar returned status 404
+2.0.3		2025-07-01T00:29:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/joy/web/2.0.3/web-2.0.3.jar returned status 404

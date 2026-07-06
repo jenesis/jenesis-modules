@@ -48,8 +48,12 @@
 0.3.1	metadata	2025-01-01T19:09:46Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/optimumcode/json-schema-validator-macosx64/0.4.0/json-schema-validator-macosx64-0.4.0.jar returned status 404
 0.4.0	metadata	2025-02-09T18:18:06Z	
+0.5.0		2025-03-24T13:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/optimumcode/json-schema-validator-macosx64/0.5.0/json-schema-validator-macosx64-0.5.0.jar returned status 404
 0.5.0	metadata	2025-03-24T13:47:04Z	
+0.5.1		2025-03-25T16:40:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/optimumcode/json-schema-validator-macosx64/0.5.1/json-schema-validator-macosx64-0.5.1.jar returned status 404
 0.5.1	metadata	2025-03-25T16:40:47Z	
+0.5.2		2025-07-02T12:41:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/optimumcode/json-schema-validator-macosx64/0.5.2/json-schema-validator-macosx64-0.5.2.jar returned status 404
 0.5.2	metadata	2025-07-02T12:41:14Z	
+0.5.3		2025-11-15T18:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/optimumcode/json-schema-validator-macosx64/0.5.3/json-schema-validator-macosx64-0.5.3.jar returned status 404
 0.5.3	metadata	2025-11-15T18:13:53Z	
 0.5.4	metadata	2026-03-03T17:12:28Z	

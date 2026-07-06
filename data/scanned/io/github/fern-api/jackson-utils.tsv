@@ -32,6 +32,8 @@
 0.0.132		2022-12-15T08:57:58Z	
 0.0.133		2023-02-21T09:14:42Z	
 0.0.134		2023-02-21T22:01:55Z	
+0.0.45-1-g600f6fd.dirty		2022-07-01T00:01:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fern-api/jackson-utils/0.0.45-1-g600f6fd.dirty/jackson-utils-0.0.45-1-g600f6fd.dirty.jar returned status 404
+0.0.46		2022-07-01T00:40:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fern-api/jackson-utils/0.0.46/jackson-utils-0.0.46.jar returned status 404
 0.0.46.dirty		2022-07-01T00:58:40Z	
 0.0.47		2022-07-01T01:04:50Z	
 0.0.48		2022-07-01T01:30:00Z	

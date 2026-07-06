@@ -1,3 +1,5 @@
+0.0.45-1-g600f6fd.dirty		2022-07-01T00:01:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fern-api/auth-utils/0.0.45-1-g600f6fd.dirty/auth-utils-0.0.45-1-g600f6fd.dirty.jar returned status 404
+0.0.46		2022-07-01T00:40:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fern-api/auth-utils/0.0.46/auth-utils-0.0.46.jar returned status 404
 0.0.46.dirty		2022-07-01T00:58:33Z	
 0.0.47		2022-07-01T01:04:45Z	
 0.0.48		2022-07-01T01:29:56Z	

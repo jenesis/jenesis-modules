@@ -1,0 +1,2 @@
+1.0.0		2022-10-12T08:12:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/czq-git/depend_version/1.0.0/depend_version-1.0.0.jar returned status 404
+1.0.2		2022-10-12T09:09:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/czq-git/depend_version/1.0.2/depend_version-1.0.2.jar returned status 404

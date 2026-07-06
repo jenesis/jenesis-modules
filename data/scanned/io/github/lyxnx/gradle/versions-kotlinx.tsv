@@ -1,0 +1,3 @@
+2024.01.19		2024-01-19T21:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-kotlinx/2024.01.19/versions-kotlinx-2024.01.19.jar returned status 404
+2024.01.26		2024-01-26T18:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-kotlinx/2024.01.26/versions-kotlinx-2024.01.26.jar returned status 404
+2024.02.09		2024-02-09T19:17:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/gradle/versions-kotlinx/2024.02.09/versions-kotlinx-2024.02.09.jar returned status 404

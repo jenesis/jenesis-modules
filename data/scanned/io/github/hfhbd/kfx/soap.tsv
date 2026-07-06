@@ -24,6 +24,7 @@
 0.0.4	test-fixtures	2025-06-20T13:37:34Z	
 0.0.5		2025-07-02T11:53:19Z	
 0.0.5	test-fixtures	2025-07-02T11:53:19Z	
+0.0.6		2025-07-02T21:30:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/soap/0.0.6/soap-0.0.6.jar returned status 404
 0.0.7		2025-07-03T06:52:41Z	
 0.0.7	test-fixtures	2025-07-03T06:52:41Z	
 0.0.8		2025-07-03T19:13:02Z	
