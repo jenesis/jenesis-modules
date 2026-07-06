@@ -852,6 +852,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-56	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-09-05T10:56:49Z	
 3.0.0-20230905-2b6f16d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-09-05T15:43:37Z	
 3.0.0-20230907-3e4ccba-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-09-07T00:09:10Z	
+1.9.20-Beta	named	org.jetbrains.kotlin	kotlin-stdlib	2023-09-07T09:04:29Z	
 3.0.0-20230908-6d75757-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-09-08T00:08:54Z	
 0.6.0	named	com.freeletics.gradle	common-plugins	2023-09-08T15:34:00Z	
 0.6.0	named	com.freeletics.gradle	root-plugin	2023-09-08T15:34:04Z	
@@ -878,6 +879,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.1.0-20230920-4eade40-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-09-20T00:08:29Z	
 0.0.13	named	com.catchpoint	cp-trace-all	2023-09-20T08:25:16Z	
 0.0.13	named	com.catchpoint	cp-trace-utils-http	2023-09-20T08:26:04Z	
+1.9.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2023-09-20T13:35:49Z	
 3.1.0-20230921-0827130-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-09-21T00:12:04Z	
 0.12.0-63-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-09-21T15:37:51Z	
 1.9.20-Beta2-1.0.13	named	com.google.devtools.ksp	symbol-processing-aa	2023-09-21T17:38:03Z	
@@ -901,6 +903,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.0.14	named	com.catchpoint	cp-trace-utils-http	2023-10-09T15:22:59Z	
 0.0.14	named	com.catchpoint	cp-trace-all	2023-10-09T15:24:47Z	
 3.1.0-20231010-a908bcf-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-10-10T00:10:15Z	
+1.9.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2023-10-11T02:08:50Z	
 0.2.0	named	io.lakefs	hadoop-lakefs-assembly	2023-10-11T14:07:42Z	
 1.9.20-RC-1.0.13	named	com.google.devtools.ksp	symbol-processing-aa	2023-10-12T00:21:51Z	
 2.1.4	named	com.huanmeng-qwq	Bukkit-Gui-kotlin-dsl	2023-10-13T06:28:20Z	
@@ -920,6 +923,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-77	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-10-20T13:49:59Z	
 3.1.0-20231021-242995b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-10-21T00:10:25Z	
 0.12.0-78	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-10-23T05:49:23Z	
+1.9.20-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2023-10-24T09:01:43Z	
 2.1.0	named	com.amazonaws	DynamoDBLocal	2023-10-24T16:04:55Z	
 1.9.20-RC2-1.0.13	named	com.google.devtools.ksp	symbol-processing-aa	2023-10-24T21:11:32Z	
 3.1.0-20231025-ac05d50-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-10-25T00:08:43Z	
@@ -932,6 +936,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.1.0-20231027-9ad762b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-10-27T00:09:25Z	
 3.1.0-20231028-89beaf7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-10-28T00:20:23Z	
 3.23.9.1	named	com.huaweicloud	esdk-obs-java-bundle	2023-10-29T04:13:54Z	
+1.9.20	named	org.jetbrains.kotlin	kotlin-stdlib	2023-10-30T18:35:18Z	
 1.9.20-1.0.13	named	com.google.devtools.ksp	symbol-processing-aa	2023-10-31T18:20:25Z	
 0.12.0-82-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-10-31T18:28:47Z	
 3.1.0-20231101-0a8b2b7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-01T09:33:27Z	
@@ -947,6 +952,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.19.0	named	com.freeletics.khonshu	deeplinks-plugin	2023-11-09T12:47:45Z	
 3.1.0-20231110-f3d490d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-10T01:09:30Z	
 0.12.0-85	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-11-10T17:28:17Z	
+2.0.0-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2023-11-13T18:15:03Z	
 3.1.0-20231115-40c992d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-15T01:09:15Z	
 3.1.0-20231115-3400084-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-15T15:32:42Z	
 0.12.0-86	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-11-15T19:57:18Z	
@@ -966,6 +972,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.1.0	named	me.nathanfallet.zabricraft	zabricraft-mysql	2023-11-20T22:28:29Z	
 3.1.0-20231122-aff8791-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-22T01:08:47Z	
 3.1.0-20231123-24aa30d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-11-23T01:09:35Z	
+1.9.21	named	org.jetbrains.kotlin	kotlin-stdlib	2023-11-23T09:19:24Z	
 0.12.0-92	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-11-23T15:07:50Z	
 0.2.0	named	me.nathanfallet.zabricraft	zabricraft-bcrypt	2023-11-23T19:46:06Z	
 0.2.0	named	me.nathanfallet.zabricraft	zabricraft-h2	2023-11-23T19:47:06Z	
@@ -1002,6 +1009,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-98	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-12-13T14:50:32Z	
 2.20.0.4382	named	org.sonarsource.kotlin	sonar-kotlin-plugin	2023-12-14T15:03:52Z	
 2.2.0	named	com.amazonaws	DynamoDBLocal	2023-12-14T15:55:32Z	
+2.0.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2023-12-14T18:20:38Z	
 3.1.0-20231215-d43b8c9-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-12-15T01:08:08Z	
 3.1.0-20231216-ec66172-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-12-16T01:10:19Z	
 0.12.0-99	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-12-17T19:08:24Z	
@@ -1012,6 +1020,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.1.0-20231221-49a15d1-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2023-12-21T03:20:20Z	
 0.12.0-101	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-12-21T04:24:13Z	
 0.1.24	named	org.jetbrains	marketplace-zip-signer-cli	2023-12-21T11:58:53Z	
+1.9.22	named	org.jetbrains.kotlin	kotlin-stdlib	2023-12-21T13:13:17Z	
 0.12.0-102	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-12-22T18:05:22Z	
 0.12.0-103	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2023-12-24T16:16:19Z	
 1.2.0	named	org.virtuslab	bazel-steward	2023-12-28T13:29:22Z	
@@ -1040,6 +1049,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.6.2	named	com.mparticle	smartype-generator	2024-01-16T16:56:54Z	
 0.3.0-standard	named	asia.hombre	kyber	2024-01-17T01:31:36Z	
 0.3.1-standard	named	asia.hombre	kyber	2024-01-17T07:56:43Z	
+2.0.0-Beta3	named	org.jetbrains.kotlin	kotlin-stdlib	2024-01-17T17:13:04Z	
 0.12.0-111	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-01-17T19:32:08Z	
 0.12.0-113	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-01-17T22:24:00Z	
 3.1.0-20240118-951e6c6-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-01-18T01:08:28Z	
@@ -1091,6 +1101,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.4.5	named	asia.hombre	kyber	2024-02-10T04:51:47Z	
 3.1.0-20240212-1170bb0-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-02-12T01:07:46Z	
 0.12.0-129	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-02-12T22:08:46Z	
+2.0.0-Beta4	named	org.jetbrains.kotlin	kotlin-stdlib	2024-02-12T22:17:51Z	
 3.1.0-20240214-578400f-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-02-14T01:10:20Z	
 0.12.0-131	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-02-14T01:56:59Z	
 0.12.0-132	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-02-14T04:08:28Z	
@@ -1120,6 +1131,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-149	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-03-05T23:31:57Z	
 1.5.10-0.1.1	named	land.sungbin.composeinvestigator	composeinvestigator-compiler	2024-03-06T00:04:38Z	
 3.1.0-20240306-3037649-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-06T01:10:41Z	
+1.9.23	named	org.jetbrains.kotlin	kotlin-stdlib	2024-03-06T18:59:40Z	
 1.0.0-61acb708	named	cl.franciscosolis.dev	simplecoreapi	2024-03-08T16:48:23Z	
 3.1.0-20240309-86fd20b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-09T07:45:50Z	
 1.5.10-0.2.0	named	land.sungbin.composeinvestigator	composeinvestigator-compiler	2024-03-10T11:25:42Z	
@@ -1133,6 +1145,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2.9.1	named	com.fastasyncworldedit	FastAsyncWorldEdit-Libs-Ap	2024-03-15T22:43:46Z	
 3.1.0-20240316-a85502b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-16T01:09:17Z	
 3.1.0-20240319-ec691a3-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-19T17:32:26Z	
+2.0.0-Beta5	named	org.jetbrains.kotlin	kotlin-stdlib	2024-03-20T10:12:35Z	
 3.1.0-20240320-8fac88f-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-20T10:57:05Z	
 3.1.0-20240321-c66358e-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-21T01:10:23Z	
 3.1.0-20240321-aded48e-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-03-21T09:20:01Z	
@@ -1172,6 +1185,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.0.5	named	com.easemob.im	im-sdk-core	2024-04-07T10:22:42Z	
 3.1.0-20240408-3f128ac-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-04-08T10:03:55Z	
 3.1.0-20240408-7571695-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-04-08T11:47:31Z	
+2.0.0-RC1	named	org.jetbrains.kotlin	kotlin-stdlib	2024-04-08T12:39:15Z	
 0.2.4-RC.0	named	io.lakefs	hadoop-lakefs-assembly	2024-04-10T08:06:44Z	
 3.2.0	named	org.jetbrains.bsp	bazel-bsp	2024-04-10T14:52:39Z	
 0.12.0-188	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-04-10T23:28:02Z	
@@ -1201,6 +1215,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20240425-3f5b161-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-04-25T00:08:29Z	
 1.5.0	named	org.virtuslab	bazel-steward	2024-04-25T10:45:36Z	
 3.2.0-20240426-c620e64-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-04-26T00:08:53Z	
+2.0.0-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-04-26T12:53:30Z	
 0.12.0-211	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-04-26T18:34:51Z	
 0.12.0-213	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-04-26T21:48:40Z	
 3.2.0-20240427-974e951-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-04-27T00:07:40Z	
@@ -1209,9 +1224,11 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-217	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-05-01T15:59:26Z	
 3.2.0-20240503-99c1e44-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-03T00:08:55Z	
 3.2.0-20240507-b823c32-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-07T00:09:53Z	
+1.9.24	named	org.jetbrains.kotlin	kotlin-stdlib	2024-05-07T06:11:01Z	
 3.2.0-20240508-f3a81e7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-08T00:09:04Z	
 3.2.0-20240509-23db868-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-09T00:09:12Z	
 0.12.0-219	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-05-09T06:26:41Z	
+2.0.0-RC3	named	org.jetbrains.kotlin	kotlin-stdlib	2024-05-10T05:50:03Z	
 0.12.0-222	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-05-10T19:06:56Z	
 3.2.0-20240511-8d615b6-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-11T00:07:32Z	
 3.2.0-20240514-d792eb7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-14T00:09:17Z	
@@ -1221,6 +1238,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-226	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-05-17T14:24:09Z	
 2.10.0	named	com.fastasyncworldedit	FastAsyncWorldEdit-Libs-Ap	2024-05-19T15:35:58Z	
 0.0.1	named	dev.hsbrysk	protoc-gen-kotlin-ext	2024-05-20T15:30:19Z	
+2.0.0	named	org.jetbrains.kotlin	kotlin-stdlib	2024-05-20T16:12:50Z	
 3.2.0-20240521-22fe1b8-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-21T00:09:25Z	
 0.23.0	named	fi.evident.apina	apina-cli	2024-05-21T11:40:56Z	
 3.2.0-20240522-d8907a8-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-05-22T00:08:45Z	
@@ -1250,6 +1268,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20240614-8e9186b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-06-14T00:09:04Z	
 3.2.0-20240617-21a03cd-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-06-17T00:09:09Z	
 3.2.0-20240618-cee82b2-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-06-18T00:14:23Z	
+2.0.20-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2024-06-18T05:20:06Z	
 3.2.0-20240619-8d3be01-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-06-19T00:11:59Z	
 3.2.0-20240620-880a0c5-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-06-20T02:29:13Z	
 2.5.2	named	com.amazonaws	DynamoDBLocal	2024-06-20T19:40:44Z	
@@ -1267,7 +1286,9 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20240703-e9a8fdd-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-03T09:32:06Z	
 3.2.0-20240705-611cac7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-05T00:12:31Z	
 3.2.0-20240709-9a5fd3d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-09T00:10:58Z	
+2.0.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-07-09T15:02:17Z	
 3.2.0-20240710-c640799-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-10T08:56:36Z	
+2.0.10-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2024-07-11T09:13:37Z	
 3.2.0-20240713-1d6b016-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-13T00:09:29Z	
 1.0.0-d0527b3c	named	cl.franciscosolis.dev	simplecoreapi	2024-07-13T03:04:53Z	
 1.0.0-85e64c8	named	cl.franciscosolis.dev	simplecoreapi	2024-07-13T03:09:46Z	
@@ -1282,6 +1303,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.5.2	named	org.virtuslab	bazel-steward	2024-07-16T14:46:09Z	
 3.2.0-20240717-caae145d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-07-17T00:08:09Z	
 0.8.0-next.0	named	com.intuit.playerui	core	2024-07-17T20:00:33Z	
+1.9.25	named	org.jetbrains.kotlin	kotlin-stdlib	2024-07-19T08:58:19Z	
 0.8.0-next.1	named	com.intuit.playerui	core	2024-07-19T18:44:05Z	
 0.8.0-next.2	named	com.intuit.playerui	core	2024-07-22T20:30:20Z	
 0.8.0-next.3	named	com.intuit.playerui	core	2024-07-23T14:42:36Z	
@@ -1291,15 +1313,18 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2.3.6	named	org.apache.seatunnel	connector-influxdb	2024-07-26T03:52:31Z	
 2.3.6	named	org.apache.seatunnel	connector-google-firestore	2024-07-26T03:54:19Z	
 1.0.18	named	com.byteplus	byteplus-sdk-java-rec	2024-07-29T04:57:34Z	
+2.0.10-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-07-29T06:25:03Z	
 1.0.9	named	com.easemob.im	im-sdk-core	2024-07-29T09:40:15Z	
 2024.03.8	named	io.edurt.datacap	datacap-plugin-paradedb	2024-07-29T11:45:31Z	
 2024.03.8	named	io.edurt.datacap	datacap-plugin-timescale	2024-07-29T11:50:18Z	
 2024.03.8	named	io.edurt.datacap	datacap-plugin-solr	2024-07-29T11:52:18Z	
 2024.03.8	named	io.edurt.datacap	datacap-plugin-influxdb	2024-07-29T11:53:28Z	
 2024.03.8	named	io.edurt.datacap	datacap-plugin-matrixone	2024-07-29T11:53:52Z	
+2.0.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2024-07-29T16:30:02Z	
 0.8.0-next.5	named	com.intuit.playerui	core	2024-07-29T21:55:04Z	
 0.8.0-next.6	named	com.intuit.playerui	core	2024-07-30T04:00:25Z	
 1.0.19	named	com.byteplus	byteplus-sdk-java-rec	2024-07-30T04:11:34Z	
+2.0.10	named	org.jetbrains.kotlin	kotlin-stdlib	2024-08-05T14:16:43Z	
 1.1.0-1b9649b1	named	cl.franciscosolis.dev	simplecoreapi-bukkit	2024-08-05T23:03:59Z	
 1.1.0-1b9649b1	named	cl.franciscosolis.dev	simplecoreapi-bungee	2024-08-05T23:04:00Z	
 1.1.0-1b9649b1	named	cl.franciscosolis.dev	simplecoreapi-velocity	2024-08-05T23:04:08Z	
@@ -1314,6 +1339,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-256	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-08T18:17:15Z	
 0.12.0-257	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-09T08:40:30Z	
 0.12.0-259	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-12T18:42:59Z	
+2.0.20-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-08-13T08:17:23Z	
 2.3.7	named	org.apache.seatunnel	connector-influxdb	2024-08-14T08:59:41Z	
 2.3.7	named	org.apache.seatunnel	connector-google-firestore	2024-08-14T09:03:27Z	
 0.12.0-261	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-14T12:49:59Z	
@@ -1328,6 +1354,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-267	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-20T21:53:36Z	
 3.2.0-20240821-853333ed4-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-08-21T00:09:34Z	
 0.12.0-270	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-21T17:44:00Z	
+2.0.20	named	org.jetbrains.kotlin	kotlin-stdlib	2024-08-22T07:35:35Z	
 0.12.0-271	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-22T16:45:18Z	
 0.12.0-272	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-22T22:38:02Z	
 0.12.0-273	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-08-22T23:57:48Z	
@@ -1377,6 +1404,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20240913-7f77693c6-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-13T00:10:56Z	
 3.2.0-20240914-b29b8fb4d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-14T00:10:37Z	
 3.2.0-20240915-3038b5535-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-15T00:11:24Z	
+2.1.0-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2024-09-16T21:12:26Z	
 3.2.0-20240917-1335773ca-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-17T00:11:47Z	
 3.2.0-20240918-fb8b26d0f-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-18T00:15:04Z	
 0.12.0-290	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-09-18T12:48:02Z	
@@ -1395,6 +1423,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-304	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-09-27T12:48:02Z	
 3.2.0-20240928-dde878cee-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-28T00:09:39Z	
 3.2.0-20240928-01e69b8cf-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-09-28T17:44:45Z	
+2.0.21-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2024-09-30T07:29:01Z	
 3.2.0-20241001-a13b9641e-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-01T00:09:34Z	
 0.12.0-306	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-10-01T10:39:28Z	
 3.2.0-20241002-5e71bfcc6-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-02T00:09:50Z	
@@ -1420,6 +1449,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2024.3.10	named	io.edurt.datacap	datacap-plugin-timescale	2024-10-09T07:38:41Z	
 0.12.0-313	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-10-09T17:47:26Z	
 3.2.0-20241010-4eb0525f9-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-10T01:09:42Z	
+2.0.21	named	org.jetbrains.kotlin	kotlin-stdlib	2024-10-10T08:41:06Z	
 0.12.0-314	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-10-10T17:27:14Z	
 3.2.0-20241011-abddcc62c-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-11T01:09:32Z	
 3.2.0-20241011-559a358af-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-11T08:40:06Z	
@@ -1427,6 +1457,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20241012-b628c08a0-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-12T01:09:31Z	
 0.12.0-315	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-10-13T00:18:13Z	
 3.2.0-20241013-bcf61b829-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-13T01:09:20Z	
+2.1.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-10-14T07:52:36Z	
 3.2.0-20241015-917b93cfa-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-15T01:09:53Z	
 0.12.0-316	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-10-15T17:20:05Z	
 3.2.0-20241016-f21b40f8b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-10-16T01:10:27Z	
@@ -1454,6 +1485,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20241101-7ac02f97c-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-01T02:13:43Z	
 0.12.0-330	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-11-01T21:23:26Z	
 3.2.0-20241102-f55e53bfb-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-02T02:11:01Z	
+2.1.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2024-11-03T17:40:17Z	
 3.2.0-20241105-c030cd3f9-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-05T02:13:04Z	
 3.2.0-20241106-943c7d05b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-06T02:10:55Z	
 0.12.0-331	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-11-06T15:51:56Z	
@@ -1476,6 +1508,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2024.3.11	named	io.edurt.datacap	datacap-plugin-solr	2024-11-17T16:01:10Z	
 2024.3.11	named	io.edurt.datacap	datacap-plugin-timescale	2024-11-17T16:05:21Z	
 3.2.0-20241118-a099775e0-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-18T02:13:02Z	
+2.1.0-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2024-11-18T08:23:51Z	
 0.12.0-335	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-11-19T00:32:58Z	
 3.2.0-20241119-20a0273f1-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-19T02:11:52Z	
 3.2.0-20241120-3619cbe54-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-20T02:11:06Z	
@@ -1487,6 +1520,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-339	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-11-25T23:08:09Z	
 3.2.0-20241126-8005c87e4-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-26T02:11:31Z	
 3.2.0-20241127-6c711640b-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-27T02:11:13Z	
+2.1.0	named	org.jetbrains.kotlin	kotlin-stdlib	2024-11-27T08:20:52Z	
 3.2.0-20241128-bb80a2c9d-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-28T02:11:34Z	
 3.2.0-20241129-fddad7b6f-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-11-29T02:10:22Z	
 3.2.0-20241203-58adc2032-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-03T02:10:18Z	
@@ -1510,6 +1544,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-356	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2024-12-18T00:35:53Z	
 3.2.0-20241218-2fcdb6fe8-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-18T02:12:00Z	
 3.2.0-20241219-8b674ea2e-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-19T02:11:33Z	
+2.1.20-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2024-12-19T07:57:17Z	
 3.2.0-20241220-11ccbc513-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-20T02:13:38Z	
 3.2.0-20241221-2a4819db7-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-21T02:11:35Z	
 3.2.0-20241222-a6fa1a07c-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2024-12-22T02:10:47Z	
@@ -1524,6 +1559,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20250107-5cea3443a-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-07T03:05:09Z	
 3.2.0-20250108-7ab834d89-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-08T02:10:06Z	
 3.2.0-20250109-702baac58-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-09T02:13:04Z	
+2.1.10-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-01-09T09:23:39Z	
 0.3.2	named	dev.zabricraft	h2	2025-01-10T19:11:28Z	
 0.3.2	named	dev.zabricraft	mysql	2025-01-10T19:11:29Z	
 2.3.9	named	org.apache.seatunnel	connector-influxdb	2025-01-12T12:34:39Z	
@@ -1540,15 +1576,18 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 3.2.0-20250118-b25f7fa8f-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-18T02:10:10Z	
 2.0.2-wasm-web-worker-3	named	me.gulya.sqldelight	compiler-env	2025-01-18T06:17:46Z	
 3.2.0-20250120-99e115ec1-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-20T02:10:58Z	
+2.1.10-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-01-20T07:29:06Z	
 3.2.0-20250121-e0b720b1e-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-21T02:10:15Z	
 2.1.0-wasm	named	me.gulya.sqldelight	compiler-env	2025-01-21T06:15:52Z	
 3.2.0-20250122-40b24e609-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-22T02:11:38Z	
 3.2.0-20250124-cd202b84c-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-24T02:12:21Z	
 3.2.0-20250125-24d8b8553-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-25T02:10:03Z	
+2.1.10	named	org.jetbrains.kotlin	kotlin-stdlib	2025-01-26T18:03:49Z	
 3.2.0-20250128-9b4ffd670-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-28T02:12:44Z	
 0.0.20	named	io.github.warraft	jass-antlr	2025-01-28T15:59:30Z	
 0.0.21	named	io.github.warraft	jass-antlr	2025-01-28T16:36:49Z	
 4.12.5	named	net.corda	corda-tools-checkpoint-agent	2025-01-28T16:53:50Z	
+2.1.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-01-29T07:33:28Z	
 3.2.0-20250131-5658f3309-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-01-31T02:10:45Z	
 0.0.24	named	io.github.warraft	jass-antlr	2025-02-02T00:06:12Z	
 0.12.0-363	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-02-02T22:23:21Z	
@@ -1565,6 +1604,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.0.21	named	com.byteplus	byteplus-sdk-java-rec	2025-02-12T07:06:42Z	
 3.2.0-20250213-b6f2ecfcf-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-02-13T02:11:44Z	
 3.2.0-20250214-e97aa19fb-NIGHTLY	named	org.jetbrains.bsp	bazel-bsp	2025-02-14T02:11:43Z	
+2.1.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-02-19T08:15:42Z	
 0.12.0-376	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-02-24T13:36:53Z	
 0.12.0-380	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-02-25T15:16:34Z	
 0.12.0-381	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-02-27T02:52:37Z	
@@ -1572,15 +1612,18 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-382	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-03T07:14:18Z	
 1.0.12	named	com.easemob.im	im-sdk-core	2025-03-03T13:58:15Z	
 0.12.0-383	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-03T19:38:51Z	
+2.1.20-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-03-06T10:53:20Z	
 0.12.0-385	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-06T11:17:06Z	
 0.12.0-386	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-07T13:02:37Z	
 1.7.0	named	org.virtuslab	bazel-steward	2025-03-07T15:22:46Z	
 2.6.0	named	com.amazonaws	DynamoDBLocal	2025-03-13T11:41:24Z	
 0.12.0-387	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-14T07:14:26Z	
+2.1.20-RC3	named	org.jetbrains.kotlin	kotlin-stdlib	2025-03-14T08:10:16Z	
 0.12.0-388	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-16T23:05:09Z	
 3.7.0	named	com.felipebz.zpa	sonar-zpa-plugin	2025-03-17T02:42:44Z	
 3.7.0	named	com.felipebz.zpa	zpa-toolkit	2025-03-17T02:43:04Z	
 1.7.1	named	org.virtuslab	bazel-steward	2025-03-17T10:31:08Z	
+2.1.20	named	org.jetbrains.kotlin	kotlin-stdlib	2025-03-19T18:39:41Z	
 1.0.13	named	de.darkatra.injector	kotlin-dll-injector-application	2025-03-20T15:45:21Z	
 0.12.0-390	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-03-20T22:32:23Z	
 2.3.10	named	org.apache.seatunnel	connector-influxdb	2025-03-22T09:13:51Z	
@@ -1595,8 +1638,10 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.12.0-398	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-12T18:47:26Z	
 1.1.0	named	org.apache.paimon	paimon-core	2025-04-14T07:18:40Z	
 10.1.1	named	org.pgpainless	sop-java-picocli	2025-04-14T09:43:24Z	
+2.2.0-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2025-04-14T15:57:28Z	
 0.12.0-401	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-16T10:51:27Z	
 0.12.0-402	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-16T12:02:19Z	
+2.1.21-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-04-16T20:25:37Z	
 0.12.0-403	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-19T07:57:43Z	
 0.12.0-405	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-19T10:05:44Z	
 0.12.0-406	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-19T11:00:33Z	
@@ -1617,9 +1662,11 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2025.04.29.173320-b9a022f	named	app.cash.tempest	tempest-dynamodb-local	2025-04-29T17:39:02Z	
 2025.04.29.195656-416a281	named	app.cash.tempest	tempest-dynamodb-local	2025-04-29T20:02:45Z	
 2025.04.29.222809-664e313	named	app.cash.tempest	tempest-dynamodb-local	2025-04-29T22:34:14Z	
+2.2.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-04-30T11:00:25Z	
 0.2.1-422-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-04-30T14:31:25Z	
 2025.04.30.143145-e1d5ea6	named	app.cash.tempest	tempest-dynamodb-local	2025-04-30T14:38:12Z	
 0.12.0-423	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-01T02:01:47Z	
+2.1.21-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-05-01T08:22:38Z	
 2025.05.01.210208-8bac78f	named	app.cash.tempest	tempest-dynamodb-local	2025-05-01T21:07:59Z	
 0.0.2	named	net.auropay	payments-java	2025-05-02T06:31:08Z	
 2025.05.02.195945-d393c44	named	app.cash.tempest	tempest-dynamodb-local	2025-05-02T20:05:39Z	
@@ -1629,10 +1676,12 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2025.05.08.201657-53a060d	named	app.cash.tempest	tempest-dynamodb-local	2025-05-08T20:23:03Z	
 2.9.0	named	com.volcengine	ve-tos-java-sdk	2025-05-09T06:03:27Z	
 0.12.0-428	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-11T19:08:55Z	
+2.1.21	named	org.jetbrains.kotlin	kotlin-stdlib	2025-05-12T18:22:49Z	
 0.12.0-430	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-12T22:07:48Z	
 0.1.35	named	org.jetbrains	marketplace-zip-signer-cli	2025-05-14T15:15:12Z	
 0.12.0-435	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-14T22:53:02Z	
 0.1.36	named	org.jetbrains	marketplace-zip-signer-cli	2025-05-15T09:30:04Z	
+2.2.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-05-15T12:42:52Z	
 0.1.38	named	org.jetbrains	marketplace-zip-signer-cli	2025-05-15T14:20:59Z	
 0.12.0-436	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-16T01:04:57Z	
 0.12.0-437	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-05-16T02:06:02Z	
@@ -1657,6 +1706,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2025.06.03.162437-8f485e7	named	app.cash.tempest	tempest-dynamodb-local	2025-06-03T16:30:51Z	
 1.0.15	named	de.darkatra.injector	kotlin-dll-injector-application	2025-06-03T19:32:09Z	
 1.0.16	named	de.darkatra.injector	kotlin-dll-injector-application	2025-06-03T19:52:50Z	
+2.2.0-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-06-04T09:42:49Z	
 0.12.0-457	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-04T11:48:31Z	
 2.9.3	named	com.volcengine	ve-tos-java-sdk-shade	2025-06-05T12:09:02Z	
 0.0.2	named	com.sugarmanz.test	central-portal-test	2025-06-05T23:41:10Z	
@@ -1667,11 +1717,13 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2.3.5	named	com.dtstep.lighthouse	lighthouse-shaded-client	2025-06-13T07:51:51Z	
 0.13.0-473	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-13T08:54:24Z	
 0.13.0-475	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-13T16:54:36Z	
+2.2.0-RC3	named	org.jetbrains.kotlin	kotlin-stdlib	2025-06-16T06:43:07Z	
 14.0.0	named	org.pgpainless	sop-java-picocli	2025-06-17T11:41:10Z	
 0.13.0-477	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-17T13:34:58Z	
 2.9.4	named	com.volcengine	ve-tos-java-sdk-shade	2025-06-19T13:26:43Z	
 4.1.1	named	com.cjcrafter	armormechanics	2025-06-19T20:16:18Z	
 0.13.0-478	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-21T16:23:04Z	
+2.2.0	named	org.jetbrains.kotlin	kotlin-stdlib	2025-06-23T06:17:20Z	
 1.0.17	named	de.darkatra.injector	kotlin-dll-injector-application	2025-06-23T14:53:39Z	
 0.13.0-481-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-24T13:29:26Z	
 0.13.0-484	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-06-24T21:39:36Z	
@@ -1695,9 +1747,11 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2025.07.08.171526-e297588	named	app.cash.tempest	tempest-dynamodb-local	2025-07-08T17:22:39Z	
 3.8.0	named	com.felipebz.zpa	sonar-zpa-plugin	2025-07-10T00:09:30Z	
 3.8.0	named	com.felipebz.zpa	zpa-toolkit	2025-07-10T00:09:30Z	
+2.2.20-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2025-07-10T08:09:39Z	
 1.0.18	named	de.darkatra.injector	kotlin-dll-injector-application	2025-07-14T19:06:37Z	
 2025.07.15.155806-c1415e3	named	app.cash.tempest	tempest-dynamodb-local	2025-07-15T16:05:18Z	
 3.0.0	named	software.amazon.dynamodb	DynamoDBLocal	2025-07-17T09:13:39Z	
+2.2.10-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-07-17T14:32:41Z	
 2025.07.17.171007-3fc2a07	named	app.cash.tempest	tempest-dynamodb-local	2025-07-17T17:17:01Z	
 1.48.0-alpha	named	io.opentelemetry.contrib	opentelemetry-jmx-metrics	2025-07-23T10:51:11Z	
 1.48.0-alpha	named	io.opentelemetry.contrib	opentelemetry-maven-extension	2025-07-23T10:51:11Z	
@@ -1705,17 +1759,23 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.0	named	io.github.frame-dev	KotlinAPI	2025-07-25T10:00:38Z	
 0.1.42	named	org.jetbrains	marketplace-zip-signer-cli	2025-07-25T13:44:18Z	
 1.2.6	named	com.nhncloud.android	appguard-gradle-plugin	2025-07-28T09:17:38Z	
+2.2.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-07-29T06:56:26Z	
 0.13.0-579-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-08-05T18:24:01Z	
+2.2.10-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-08-06T08:51:22Z	
 0.13.0-580-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-08-06T16:53:44Z	
 0.13.0-583-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-08-07T02:14:58Z	
 0.13.0-585-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-08-07T10:45:47Z	
+2.2.10	named	org.jetbrains.kotlin	kotlin-stdlib	2025-08-13T18:10:33Z	
+2.2.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-08-18T19:51:46Z	
 0.13.0-600-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-08-24T00:54:40Z	
 3.10.2	named	net.pincette	okio	2025-08-27T08:12:33Z	
+2.2.20-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-09-01T08:34:54Z	
 0.1.43	named	org.jetbrains	marketplace-zip-signer-cli	2025-09-02T12:39:21Z	
 4.12.6	named	net.corda	corda-tools-checkpoint-agent	2025-09-04T15:30:07Z	
 2.3.12	named	org.apache.seatunnel	connector-google-firestore	2025-09-06T03:10:28Z	
 1.0.19	named	de.darkatra.injector	kotlin-dll-injector-application	2025-09-08T10:49:47Z	
 0.6.0	named	com.sourcegraph	semanticdb-kotlinc	2025-09-08T13:44:05Z	
+2.2.20	named	org.jetbrains.kotlin	kotlin-stdlib	2025-09-09T19:07:04Z	
 3.1.0	named	software.amazon.dynamodb	DynamoDBLocal	2025-09-12T16:44:55Z	
 0.15.0-618	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-09-14T00:37:48Z	
 0.15.0-619	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-09-14T00:58:58Z	
@@ -1741,7 +1801,9 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 1.0.0	named	io.github.qasecret	selenium-qt	2025-10-03T07:17:53Z	
 1.0.1	named	io.github.qasecret	selenium-qt	2025-10-03T11:19:35Z	
 1.8.0	named	de.alexanderwolz	keycloak-registry-mapper	2025-10-07T06:11:16Z	
+2.2.21-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-10-07T07:05:19Z	
 1.8.1	named	de.alexanderwolz	keycloak-registry-mapper	2025-10-07T09:18:35Z	
+2.3.0-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib	2025-10-07T09:47:29Z	
 0.15.0-648	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-07T17:07:41Z	
 0.15.0-649	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-08T18:23:37Z	
 1.0.0	named	cn.ctyun	ctyun-java-sdk-dcs220231018	2025-10-11T10:02:27Z	
@@ -1751,6 +1813,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 2.0.0	named	org.testcontainers	testcontainers-couchbase	2025-10-14T20:23:54Z	
 2.0.0	named	org.testcontainers	testcontainers-solr	2025-10-14T20:59:47Z	
 0.15.0-651	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-14T23:40:09Z	
+2.2.21-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-10-16T07:03:38Z	
 0.15.0-653	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-16T13:26:50Z	
 2.0.1	named	org.testcontainers	testcontainers-azure	2025-10-16T15:59:27Z	
 2.0.1	named	org.testcontainers	testcontainers-couchbase	2025-10-16T16:06:33Z	
@@ -1760,12 +1823,14 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.15.1-659	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-21T16:03:37Z	
 0.15.1-662	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-22T16:33:39Z	
 0.15.1-663	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-22T17:04:01Z	
+2.2.21	named	org.jetbrains.kotlin	kotlin-stdlib	2025-10-23T06:35:05Z	
 2.9.5	named	com.volcengine	ve-tos-java-sdk-shade	2025-10-23T11:27:35Z	
 1.0.23	named	de.darkatra.injector	kotlin-dll-injector-application	2025-10-23T11:28:45Z	
 0.15.1-668	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-23T23:57:35Z	
 0.15.1-669	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-24T10:07:58Z	
 0.15.1-674	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-25T01:09:06Z	
 0.15.1-675	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-10-27T01:39:08Z	
+2.3.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-10-27T20:02:03Z	
 1.9.1	named	de.alexanderwolz	keycloak-registry-mapper	2025-10-29T00:34:14Z	
 14.0.3	named	org.pgpainless	sop-java-picocli	2025-10-29T12:32:54Z	
 14.0.2	named	org.pgpainless	sop-java-picocli	2025-10-29T12:32:54Z	
@@ -1787,6 +1852,7 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.16.0-721	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-14T03:47:12Z	
 0.16.0-723	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-16T20:06:15Z	
 0.16.0-724	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-17T01:39:26Z	
+2.3.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2025-11-17T18:55:14Z	
 0.16.0-726	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-18T22:30:00Z	
 0.2.0-727-1	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-19T07:22:15Z	
 0.16.0-728	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-20T02:54:28Z	
@@ -1803,11 +1869,13 @@ v1.5.9	named	com.merative.acd	acd-sdk-examples	2022-07-29T12:47:10Z
 0.17.0-748	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-11-30T16:29:03Z	
 0.17.0-749	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-01T01:38:26Z	
 0.17.0-750	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-01T10:06:31Z	
+2.3.0-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2025-12-02T09:58:33Z	
 0.17.0-751	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-02T20:15:52Z	
 0.17.0-752	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-02T22:10:29Z	
 0.17.0-753	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-04T12:18:26Z	
 0.17.0-754	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-04T12:43:38Z	
 0.17.0-755	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2025-12-08T01:37:46Z	
+2.3.0-RC3	named	org.jetbrains.kotlin	kotlin-stdlib	2025-12-09T09:50:56Z	
 2.3.7	named	com.dtstep.lighthouse	lighthouse-client	2025-12-10T08:55:21Z	
 2.3.7	named	com.dtstep.lighthouse	lighthouse-shaded-client	2025-12-10T08:55:21Z	
 2.9.7	named	com.volcengine	ve-tos-java-sdk-shade	2025-12-11T09:38:55Z	
