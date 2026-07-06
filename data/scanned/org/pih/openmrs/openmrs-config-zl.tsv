@@ -35,5 +35,6 @@
 1.73.0		2026-01-21T02:31:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.73.0/openmrs-config-zl-1.73.0.jar returned status 404
 1.74.0		2026-01-23T15:17:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.74.0/openmrs-config-zl-1.74.0.jar returned status 404
 1.75.0		2026-04-17T16:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.75.0/openmrs-config-zl-1.75.0.jar returned status 404
+1.76.0		2026-05-12T13:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.76.0/openmrs-config-zl-1.76.0.jar returned status 404
 1.8.0		2020-10-05T10:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.8.0/openmrs-config-zl-1.8.0.jar returned status 404
 1.9.0		2020-10-09T15:55:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-zl/1.9.0/openmrs-config-zl-1.9.0.jar returned status 404

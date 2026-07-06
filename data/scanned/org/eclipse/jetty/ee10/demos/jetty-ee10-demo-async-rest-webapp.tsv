@@ -49,6 +49,7 @@
 12.0.33	config	2026-03-04T02:31:16Z	
 12.0.34		2026-04-01T05:54:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.34/jetty-ee10-demo-async-rest-webapp-12.0.34.jar returned status 404
 12.0.34	config	2026-04-01T05:54:46Z	
+12.0.35		2026-05-01T05:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.35/jetty-ee10-demo-async-rest-webapp-12.0.35.jar returned status 404
 12.0.35	config	2026-05-01T05:52:30Z	
 12.0.36	config	2026-05-31T22:58:36Z	
 12.0.4	config	2023-11-30T19:19:44Z	

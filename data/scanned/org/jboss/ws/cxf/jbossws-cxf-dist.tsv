@@ -2,3 +2,6 @@
 7.3.5.Final		2026-01-08T11:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.3.5.Final/jbossws-cxf-dist-7.3.5.Final.jar returned status 404
 7.3.6.Final		2026-01-08T11:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.3.6.Final/jbossws-cxf-dist-7.3.6.Final.jar returned status 404
 7.3.7.Final		2026-01-08T11:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.3.7.Final/jbossws-cxf-dist-7.3.7.Final.jar returned status 404
+7.3.8.Final		2026-05-05T12:55:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.3.8.Final/jbossws-cxf-dist-7.3.8.Final.jar returned status 404
+7.4.0.Beta1		2026-05-12T18:30:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.4.0.Beta1/jbossws-cxf-dist-7.4.0.Beta1.jar returned status 404
+7.4.0.Beta2		2026-05-13T14:49:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-dist/7.4.0.Beta2/jbossws-cxf-dist-7.4.0.Beta2.jar returned status 404

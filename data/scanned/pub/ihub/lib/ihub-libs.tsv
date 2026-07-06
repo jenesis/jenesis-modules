@@ -74,3 +74,4 @@
 1.7.4		2026-02-23T15:37:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/lib/ihub-libs/1.7.4/ihub-libs-1.7.4.jar returned status 404
 1.7.5		2026-03-21T10:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/lib/ihub-libs/1.7.5/ihub-libs-1.7.5.jar returned status 404
 1.7.6		2026-05-02T01:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/lib/ihub-libs/1.7.6/ihub-libs-1.7.6.jar returned status 404
+1.7.7		2026-05-16T07:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/lib/ihub-libs/1.7.7/ihub-libs-1.7.7.jar returned status 404

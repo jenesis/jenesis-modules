@@ -7,6 +7,7 @@
 5.1.18		2026-02-18T08:37:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/5.1.18/sejda-distribution-5.1.18.jar returned status 404
 5.1.19		2026-03-16T11:24:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/5.1.19/sejda-distribution-5.1.19.jar returned status 404
 5.1.20		2026-04-02T10:08:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/5.1.20/sejda-distribution-5.1.20.jar returned status 404
+5.1.21		2026-05-05T09:55:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/5.1.21/sejda-distribution-5.1.21.jar returned status 404
 6.0.0.M1		2026-02-24T08:42:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/6.0.0.M1/sejda-distribution-6.0.0.M1.jar returned status 404
 6.0.0.M2		2026-03-25T15:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/6.0.0.M2/sejda-distribution-6.0.0.M2.jar returned status 404
 6.0.0.M3		2026-04-21T08:07:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sejda/sejda-distribution/6.0.0.M3/sejda-distribution-6.0.0.M3.jar returned status 404

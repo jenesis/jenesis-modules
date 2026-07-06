@@ -11,3 +11,4 @@
 12.1.6		2026-01-27T19:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/jetty-ee11-home/12.1.6/jetty-ee11-home-12.1.6.jar returned status 404
 12.1.7		2026-03-04T00:49:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/jetty-ee11-home/12.1.7/jetty-ee11-home-12.1.7.jar returned status 404
 12.1.8		2026-04-01T01:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/jetty-ee11-home/12.1.8/jetty-ee11-home-12.1.8.jar returned status 404
+12.1.9		2026-05-01T03:47:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee11/jetty-ee11-home/12.1.9/jetty-ee11-home-12.1.9.jar returned status 404

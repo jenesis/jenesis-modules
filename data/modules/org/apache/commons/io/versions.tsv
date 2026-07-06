@@ -920,6 +920,7 @@
 1.20.4	named	org.apache.flink	flink-oss-fs-hadoop	2026-04-16T21:00:04Z	2.15.1
 1.20.4	named	org.apache.flink	flink-azure-fs-hadoop	2026-04-16T21:00:20Z	2.15.1
 1.20.4	named	org.apache.flink	flink-gs-fs-hadoop	2026-04-16T21:00:43Z	2.15.1
+2.22.0	named	commons-io	commons-io	2026-04-19T12:01:25Z	2.22.0
 1.112.0	named	no.entur	schema2proto-lib	2026-04-22T07:56:34Z	2.21.0
 1.22.24	named	org.apache.jackrabbit	oak-run	2026-04-23T17:07:51Z	2.20.0
 1.13.0	named	io.boxlang	boxlang-noop	2026-05-01T12:13:32Z	2.20.0

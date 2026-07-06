@@ -2,3 +2,4 @@
 1.6.0		2025-07-26T12:13:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/orbinson/aem/aem-dictionary-translator.all/1.6.0/aem-dictionary-translator.all-1.6.0.jar returned status 404
 1.6.1		2025-07-31T09:58:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/orbinson/aem/aem-dictionary-translator.all/1.6.1/aem-dictionary-translator.all-1.6.1.jar returned status 404
 1.6.2		2025-07-31T13:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/orbinson/aem/aem-dictionary-translator.all/1.6.2/aem-dictionary-translator.all-1.6.2.jar returned status 404
+1.6.3		2026-04-22T19:36:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/orbinson/aem/aem-dictionary-translator.all/1.6.3/aem-dictionary-translator.all-1.6.3.jar returned status 404

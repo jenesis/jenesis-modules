@@ -3,6 +3,7 @@
 11.0.0		2025-06-05T07:57:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/11.0.0/wab-using-filter-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/11.0.1/wab-using-filter-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/11.1.0/wab-using-filter-11.1.0.jar returned status 404
+11.1.1		2026-05-07T11:13:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/11.1.1/wab-using-filter-11.1.1.jar returned status 404
 8.0.24		2024-12-03T20:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/8.0.24/wab-using-filter-8.0.24.jar returned status 404
 8.0.25		2024-12-03T20:00:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/8.0.25/wab-using-filter-8.0.25.jar returned status 404
 8.0.26		2024-12-03T20:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/wab-using-filter/8.0.26/wab-using-filter-8.0.26.jar returned status 404

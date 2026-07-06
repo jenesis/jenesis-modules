@@ -26,5 +26,6 @@
 8.0.0-M14		2025-11-02T23:37:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/8.0.0-M14/batch-databases-8.0.0-M14.jar returned status 404
 8.0.0-M15		2025-12-15T11:52:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/8.0.0-M15/batch-databases-8.0.0-M15.jar returned status 404
 8.0.1		2026-03-25T13:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/8.0.1/batch-databases-8.0.1.jar returned status 404
+8.0.2		2026-05-05T00:14:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/8.0.2/batch-databases-8.0.2.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/9.0.0-M1/batch-databases-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/batch/batch-databases/9.0.0-M2/batch-databases-9.0.0-M2.jar returned status 404

@@ -3,3 +3,9 @@
 1.0.5		2026-04-22T02:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/1.0.5/aem-loki-integrator.all-1.0.5.jar returned status 404
 1.0.6		2026-04-22T03:37:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/1.0.6/aem-loki-integrator.all-1.0.6.jar returned status 404
 1.0.7		2026-04-22T06:54:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/1.0.7/aem-loki-integrator.all-1.0.7.jar returned status 404
+1.0.8		2026-04-22T10:35:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/1.0.8/aem-loki-integrator.all-1.0.8.jar returned status 404
+2.0.0		2026-04-22T12:38:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/2.0.0/aem-loki-integrator.all-2.0.0.jar returned status 404
+2.0.1		2026-04-22T15:15:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/2.0.1/aem-loki-integrator.all-2.0.1.jar returned status 404
+3.0.0		2026-04-22T19:59:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/3.0.0/aem-loki-integrator.all-3.0.0.jar returned status 404
+3.1.0		2026-04-23T09:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/3.1.0/aem-loki-integrator.all-3.1.0.jar returned status 404
+3.2.0		2026-04-24T11:44:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobexp/loki/aem-loki-integrator.all/3.2.0/aem-loki-integrator.all-3.2.0.jar returned status 404

@@ -30,3 +30,4 @@
 3.9.0		2025-10-16T07:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/problem/micronaut-problem-json-bom/3.9.0/micronaut-problem-json-bom-3.9.0.jar returned status 404
 4.0.0-M1		2025-12-10T06:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/problem/micronaut-problem-json-bom/4.0.0-M1/micronaut-problem-json-bom-4.0.0-M1.jar returned status 404
 4.0.0-M2		2026-04-16T09:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/problem/micronaut-problem-json-bom/4.0.0-M2/micronaut-problem-json-bom-4.0.0-M2.jar returned status 404
+4.0.0-RC1		2026-05-07T16:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/problem/micronaut-problem-json-bom/4.0.0-RC1/micronaut-problem-json-bom-4.0.0-RC1.jar returned status 404

@@ -1,3 +1,4 @@
 2.0.0		2025-02-25T16:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/healthid-versionCatalog/2.0.0/healthid-versionCatalog-2.0.0.jar returned status 404
 2.1.0		2025-03-24T19:51:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/healthid-versionCatalog/2.1.0/healthid-versionCatalog-2.1.0.jar returned status 404
 2.2.0		2025-07-31T11:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/healthid-versionCatalog/2.2.0/healthid-versionCatalog-2.2.0.jar returned status 404
+2.3.0		2026-04-23T09:35:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/healthid-versionCatalog/2.3.0/healthid-versionCatalog-2.3.0.jar returned status 404

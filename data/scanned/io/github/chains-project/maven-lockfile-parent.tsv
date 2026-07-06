@@ -75,6 +75,7 @@
 5.14.3-beta-1		2026-03-08T01:17:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.14.3-beta-1/maven-lockfile-parent-5.14.3-beta-1.jar returned status 404
 5.15.0		2026-03-31T20:21:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.15.0/maven-lockfile-parent-5.15.0.jar returned status 404
 5.15.1-beta-1		2026-04-05T01:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.15.1-beta-1/maven-lockfile-parent-5.15.1-beta-1.jar returned status 404
+5.16.0		2026-05-01T17:27:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.16.0/maven-lockfile-parent-5.16.0.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.2.0/maven-lockfile-parent-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.2.1/maven-lockfile-parent-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chains-project/maven-lockfile-parent/5.2.2/maven-lockfile-parent-5.2.2.jar returned status 404

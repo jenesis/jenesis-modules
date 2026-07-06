@@ -601,6 +601,17 @@
 1.6.6		2026-01-29T19:47:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.6/version-catalog-1.6.6.jar returned status 404
 1.6.60		2026-04-20T18:50:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.60/version-catalog-1.6.60.jar returned status 404
 1.6.61		2026-04-21T20:38:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.61/version-catalog-1.6.61.jar returned status 404
+1.6.62		2026-04-22T18:49:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.62/version-catalog-1.6.62.jar returned status 404
+1.6.63		2026-04-23T18:48:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.63/version-catalog-1.6.63.jar returned status 404
+1.6.64		2026-04-24T18:53:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.64/version-catalog-1.6.64.jar returned status 404
+1.6.65		2026-04-27T19:49:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.65/version-catalog-1.6.65.jar returned status 404
+1.6.66		2026-04-29T20:44:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.66/version-catalog-1.6.66.jar returned status 404
+1.6.67		2026-04-30T18:45:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.67/version-catalog-1.6.67.jar returned status 404
+1.6.68		2026-05-01T18:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.68/version-catalog-1.6.68.jar returned status 404
+1.6.69		2026-05-04T18:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.69/version-catalog-1.6.69.jar returned status 404
 1.6.7		2026-01-30T19:46:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.7/version-catalog-1.6.7.jar returned status 404
+1.6.70		2026-05-05T18:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.70/version-catalog-1.6.70.jar returned status 404
+1.6.71		2026-05-06T19:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.71/version-catalog-1.6.71.jar returned status 404
+1.6.72		2026-05-07T19:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.72/version-catalog-1.6.72.jar returned status 404
 1.6.8		2026-02-02T19:37:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.8/version-catalog-1.6.8.jar returned status 404
 1.6.9		2026-02-03T19:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.6.9/version-catalog-1.6.9.jar returned status 404

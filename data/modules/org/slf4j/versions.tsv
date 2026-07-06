@@ -3015,11 +3015,14 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.3.4	named	com.conaxgames	clibraries	2026-05-01T17:33:20Z	2.0.17
 1.4.0	named	com.conaxgames	clibraries	2026-05-01T18:09:27Z	2.0.17
 0.18.1-934	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-02T13:38:36Z	2.0.17
+0.18.1-935	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-04T00:54:20Z	2.0.17
 5.86.26	named	com.applitools	eyes-sdk-core-java5	2026-05-04T13:27:03Z	2.0.16
 5.87.0	named	com.applitools	eyes-sdk-core-java5	2026-05-05T16:35:21Z	2.0.16
 1.13.0-snapshot	named	org.open-metadata	elasticsearch-deps	2026-05-07T10:58:25Z	2.0.4
 2512.3	named	se.signatureservice.support	signservice-transactionsigning	2026-05-07T13:11:08Z	2.0.17
+0.19.0-937-1	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-07T13:26:18Z	2.0.17
 7.7.4	named	com.newrelic.agent.android	instrumentation	2026-05-07T14:28:13Z	2.0.4
+0.18.1-938	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-07T22:57:56Z	2.0.17
 1.13.0-rc1	named	org.open-metadata	elasticsearch-deps	2026-05-08T10:35:23Z	2.0.4
 0.8.0	named	io.github.wallawood	wallawood	2026-05-10T04:52:10Z	2.0.12
 0.8.1	named	io.github.wallawood	wallawood	2026-05-10T16:46:37Z	2.0.12
@@ -3041,10 +3044,12 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.0.2	named	com.google.appengine	appengine-local-runtime-jetty121	2026-05-13T20:15:01Z	2.0.17
 5.0.2	named	com.google.appengine	appengine-tools-sdk	2026-05-13T20:15:01Z	2.0.17
 5.0.2	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-05-13T20:15:02Z	2.0.17
+0.18.1-942	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-14T03:10:42Z	2.0.17
 1.1.0	named	com.github.toolarium	toolarium-changelog-parser	2026-05-14T15:22:05Z	2.0.17
 2.54.0	named	org.apache.artemis	artemis-core-client-all	2026-05-14T15:30:28Z	2.0.18
 2.54.0	named	org.apache.artemis	artemis-jms-client-all	2026-05-14T15:31:04Z	2.0.18
 2.54.0	named	org.apache.artemis	artemis-jakarta-client-all	2026-05-14T15:31:18Z	2.0.18
+0.19.0-944	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-05-14T20:26:22Z	2.0.17
 6.12.2	named	com.diffusiondata.diffusion	diffusion-client-with-dependencies	2026-05-15T11:38:01Z	2.0.12
 0.0.23	named	io.github.liquid-java	liquidjava-verifier	2026-05-16T19:16:23Z	2.0.7
 0.0.24	named	io.github.liquid-java	liquidjava-verifier	2026-05-18T15:33:27Z	2.0.7

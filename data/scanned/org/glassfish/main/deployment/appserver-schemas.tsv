@@ -26,5 +26,6 @@
 8.0.0-M14		2025-11-02T23:37:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/8.0.0-M14/appserver-schemas-8.0.0-M14.jar returned status 404
 8.0.0-M15		2025-12-15T11:52:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/8.0.0-M15/appserver-schemas-8.0.0-M15.jar returned status 404
 8.0.1		2026-03-25T13:24:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/8.0.1/appserver-schemas-8.0.1.jar returned status 404
+8.0.2		2026-05-05T00:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/8.0.2/appserver-schemas-8.0.2.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/9.0.0-M1/appserver-schemas-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/deployment/appserver-schemas/9.0.0-M2/appserver-schemas-9.0.0-M2.jar returned status 404

@@ -250,7 +250,9 @@
 0.41.19		2025-11-24T13:14:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform-server/0.41.19/killbill-platform-server-0.41.19.jar returned status 404
 0.41.19	classes	2025-11-24T13:14:16Z	
 0.41.2	classes	2023-04-02T12:23:44Z	
+0.41.20		2026-05-12T08:29:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform-server/0.41.20/killbill-platform-server-0.41.20.jar returned status 404
 0.41.20	classes	2026-05-12T08:29:23Z	
+0.41.21		2026-05-13T09:42:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-platform-server/0.41.21/killbill-platform-server-0.41.21.jar returned status 404
 0.41.21	classes	2026-05-13T09:42:34Z	
 0.41.3	classes	2023-05-24T22:02:23Z	
 0.41.4	classes	2023-12-06T23:43:19Z	

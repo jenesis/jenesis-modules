@@ -1786,6 +1786,7 @@
 1.0.0	named	com.airbnb.viaduct.javaapi	codegen	2026-05-13T07:42:01Z	
 1.0.0	named	com.airbnb.viaduct	buildtime	2026-05-13T07:42:10Z	
 1.0.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-05-13T07:42:11Z	
+2.4.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-05-13T08:38:01Z	
 0.15.1	named	org.apache.hudi	hudi-utilities-bundle_2.11	2026-05-18T10:30:40Z	
 0.15.1	named	org.apache.hudi	hudi-spark2.4-bundle_2.11	2026-05-18T10:31:14Z	
 0.15.1	named	org.apache.hudi	hudi-utilities-bundle_2.13	2026-05-18T10:36:47Z	

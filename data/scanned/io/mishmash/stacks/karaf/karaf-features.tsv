@@ -2,3 +2,4 @@
 1.0.2		2026-02-25T13:10:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/stacks/karaf/karaf-features/1.0.2/karaf-features-1.0.2.jar returned status 404
 1.0.3		2026-03-10T14:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/stacks/karaf/karaf-features/1.0.3/karaf-features-1.0.3.jar returned status 404
 1.0.4		2026-03-27T13:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/stacks/karaf/karaf-features/1.0.4/karaf-features-1.0.4.jar returned status 404
+1.0.5		2026-05-05T12:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mishmash/stacks/karaf/karaf-features/1.0.5/karaf-features-1.0.5.jar returned status 404

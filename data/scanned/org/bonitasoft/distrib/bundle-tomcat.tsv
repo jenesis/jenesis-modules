@@ -5,4 +5,5 @@
 10.4.0		2025-12-12T17:11:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/distrib/bundle-tomcat/10.4.0/bundle-tomcat-10.4.0.jar returned status 404
 10.4.3		2026-01-26T14:55:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/distrib/bundle-tomcat/10.4.3/bundle-tomcat-10.4.3.jar returned status 404
 10.4.5		2026-03-04T14:24:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/distrib/bundle-tomcat/10.4.5/bundle-tomcat-10.4.5.jar returned status 404
+11.0.0		2026-04-28T09:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/distrib/bundle-tomcat/11.0.0/bundle-tomcat-11.0.0.jar returned status 404
 9.0.0		2023-11-16T09:47:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bonitasoft/distrib/bundle-tomcat/9.0.0/bundle-tomcat-9.0.0.jar returned status 404

@@ -7,3 +7,4 @@
 1.3.0		2025-10-16T07:44:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/guice/micronaut-guice-bom/1.3.0/micronaut-guice-bom-1.3.0.jar returned status 404
 2.0.0-M1		2025-12-10T06:53:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/guice/micronaut-guice-bom/2.0.0-M1/micronaut-guice-bom-2.0.0-M1.jar returned status 404
 2.0.0-M2		2026-04-17T08:06:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/guice/micronaut-guice-bom/2.0.0-M2/micronaut-guice-bom-2.0.0-M2.jar returned status 404
+2.0.0-RC1		2026-05-06T16:32:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/guice/micronaut-guice-bom/2.0.0-RC1/micronaut-guice-bom-2.0.0-RC1.jar returned status 404

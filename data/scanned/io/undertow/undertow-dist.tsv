@@ -8,6 +8,7 @@
 2.3.24.Final		2026-03-21T01:30:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.3.24.Final/undertow-dist-2.3.24.Final.jar returned status 404
 2.4.0.Beta1		2026-02-19T01:30:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.Beta1/undertow-dist-2.4.0.Beta1.jar returned status 404
 2.4.0.Beta2		2026-02-26T01:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.Beta2/undertow-dist-2.4.0.Beta2.jar returned status 404
+2.4.0.Final		2026-05-06T01:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.Final/undertow-dist-2.4.0.Final.jar returned status 404
 2.4.0.RC1		2026-03-07T01:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.RC1/undertow-dist-2.4.0.RC1.jar returned status 404
 2.4.0.RC2		2026-03-19T01:30:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.RC2/undertow-dist-2.4.0.RC2.jar returned status 404
 2.4.0.RC3		2026-03-20T01:30:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-dist/2.4.0.RC3/undertow-dist-2.4.0.RC3.jar returned status 404

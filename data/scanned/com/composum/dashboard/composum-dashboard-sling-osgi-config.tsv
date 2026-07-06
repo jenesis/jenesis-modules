@@ -1,1 +1,3 @@
 1.2.17		2026-04-20T12:44:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composum/dashboard/composum-dashboard-sling-osgi-config/1.2.17/composum-dashboard-sling-osgi-config-1.2.17.jar returned status 404
+1.2.18		2026-04-28T12:39:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composum/dashboard/composum-dashboard-sling-osgi-config/1.2.18/composum-dashboard-sling-osgi-config-1.2.18.jar returned status 404
+1.3.0		2026-04-29T13:44:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composum/dashboard/composum-dashboard-sling-osgi-config/1.3.0/composum-dashboard-sling-osgi-config-1.3.0.jar returned status 404

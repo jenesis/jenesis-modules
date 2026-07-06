@@ -105,6 +105,7 @@
 2.47.0	named	com.google.errorprone	error_prone_refaster	2026-02-05T08:50:54Z	
 2.48.0	named	com.google.errorprone	error_prone_refaster	2026-02-27T13:25:40Z	
 2.49.0	named	com.google.errorprone	error_prone_refaster	2026-04-07T10:55:01Z	
+3.2.4	named	com.github.ben-manes.caffeine	caffeine	2026-05-03T00:53:11Z	3.2.4
 2.50.0	named	com.google.errorprone	error_prone_refaster	2026-06-10T10:34:28Z	
 0.42.0	named	org.kill-bill.billing	killbill-platform-osgi-bundles-eureka	2026-06-18T21:24:05Z	3.2.4
 0.42.0	named	org.kill-bill.billing	killbill-platform-osgi-bundles-kpm	2026-06-18T21:24:05Z	3.2.4

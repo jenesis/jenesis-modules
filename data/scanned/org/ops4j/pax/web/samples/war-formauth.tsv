@@ -3,6 +3,7 @@
 11.0.0		2025-06-05T07:57:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/11.0.0/war-formauth-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/11.0.1/war-formauth-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/11.1.0/war-formauth-11.1.0.jar returned status 404
+11.1.1		2026-05-07T11:13:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/11.1.1/war-formauth-11.1.1.jar returned status 404
 7.2.16		2024-12-03T19:42:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/7.2.16/war-formauth-7.2.16.jar returned status 404
 7.2.17		2024-12-03T19:42:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/7.2.17/war-formauth-7.2.17.jar returned status 404
 7.2.18		2024-12-03T19:42:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-formauth/7.2.18/war-formauth-7.2.18.jar returned status 404

@@ -16,6 +16,7 @@
 1.12.14		2026-02-02T15:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.14/karaf-distribution-1.12.14.jar returned status 404
 1.12.15		2026-02-04T07:19:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.15/karaf-distribution-1.12.15.jar returned status 404
 1.12.16		2026-04-15T13:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.16/karaf-distribution-1.12.16.jar returned status 404
+1.12.17		2026-05-15T11:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.17/karaf-distribution-1.12.17.jar returned status 404
 1.12.2		2022-03-10T11:35:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.2/karaf-distribution-1.12.2.jar returned status 404
 1.12.3		2022-08-29T10:16:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.3/karaf-distribution-1.12.3.jar returned status 404
 1.12.4		2023-01-09T08:44:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/1.12.4/karaf-distribution-1.12.4.jar returned status 404
@@ -50,6 +51,7 @@
 2.2.10		2025-08-28T09:49:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.10/karaf-distribution-2.2.10.jar returned status 404
 2.2.11		2026-02-02T15:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.11/karaf-distribution-2.2.11.jar returned status 404
 2.2.12		2026-04-15T13:05:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.12/karaf-distribution-2.2.12.jar returned status 404
+2.2.13		2026-05-15T11:22:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.13/karaf-distribution-2.2.13.jar returned status 404
 2.2.2		2023-02-24T08:01:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.2/karaf-distribution-2.2.2.jar returned status 404
 2.2.3		2023-07-25T10:31:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.3/karaf-distribution-2.2.3.jar returned status 404
 2.2.4		2023-09-15T09:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.2.4/karaf-distribution-2.2.4.jar returned status 404
@@ -59,3 +61,4 @@
 2.3.1		2025-08-28T09:42:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.3.1/karaf-distribution-2.3.1.jar returned status 404
 2.3.2		2026-02-02T14:45:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.3.2/karaf-distribution-2.3.2.jar returned status 404
 2.3.3		2026-04-15T13:07:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.3.3/karaf-distribution-2.3.3.jar returned status 404
+2.3.4		2026-05-15T11:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/logging/karaf/karaf-distribution/2.3.4/karaf-distribution-2.3.4.jar returned status 404

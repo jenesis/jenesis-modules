@@ -1,1 +1,2 @@
 1.9		2025-09-02T17:10:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/es/gob/afirma/afirma-signature-storage/1.9/afirma-signature-storage-1.9.jar returned status 404
+1.9.1		2026-04-29T13:23:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/es/gob/afirma/afirma-signature-storage/1.9.1/afirma-signature-storage-1.9.1.jar returned status 404

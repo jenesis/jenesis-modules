@@ -79,6 +79,7 @@
 12.1.8	webbundle-ee10	2026-04-01T01:22:17Z	
 12.1.8	webbundle-ee11	2026-04-01T01:22:16Z	
 12.1.8	webbundle-ee9	2026-04-01T01:22:19Z	
+12.1.9		2026-05-01T03:47:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/demos/jetty-servlet5-demo-spec-webapp/12.1.9/jetty-servlet5-demo-spec-webapp-12.1.9.jar returned status 404
 12.1.9	config	2026-05-01T03:47:14Z	
 12.1.9	webbundle-ee10	2026-05-01T03:47:08Z	
 12.1.9	webbundle-ee11	2026-05-01T03:47:12Z	

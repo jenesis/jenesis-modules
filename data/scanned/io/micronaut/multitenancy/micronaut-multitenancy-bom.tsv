@@ -20,3 +20,4 @@
 5.7.0		2025-06-16T15:54:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/multitenancy/micronaut-multitenancy-bom/5.7.0/micronaut-multitenancy-bom-5.7.0.jar returned status 404
 5.8.0		2025-10-14T09:15:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/multitenancy/micronaut-multitenancy-bom/5.8.0/micronaut-multitenancy-bom-5.8.0.jar returned status 404
 6.0.0-M1		2025-12-10T07:26:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/multitenancy/micronaut-multitenancy-bom/6.0.0-M1/micronaut-multitenancy-bom-6.0.0-M1.jar returned status 404
+6.0.0-RC1		2026-05-06T16:50:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/multitenancy/micronaut-multitenancy-bom/6.0.0-RC1/micronaut-multitenancy-bom-6.0.0-RC1.jar returned status 404

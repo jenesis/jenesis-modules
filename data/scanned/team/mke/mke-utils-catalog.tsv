@@ -2,3 +2,4 @@
 3.1.0		2025-07-01T19:35:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/mke/mke-utils-catalog/3.1.0/mke-utils-catalog-3.1.0.jar returned status 404
 3.1.1		2025-07-01T20:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/mke/mke-utils-catalog/3.1.1/mke-utils-catalog-3.1.1.jar returned status 404
 3.2.0		2025-08-13T11:06:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/mke/mke-utils-catalog/3.2.0/mke-utils-catalog-3.2.0.jar returned status 404
+4.0.0-rc1		2026-05-14T12:16:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/mke/mke-utils-catalog/4.0.0-rc1/mke-utils-catalog-4.0.0-rc1.jar returned status 404

@@ -88,3 +88,6 @@
 3.0.0-M5		2026-03-27T12:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M5/micronaut-serde-bom-3.0.0-M5.jar returned status 404
 3.0.0-M6		2026-04-02T15:13:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M6/micronaut-serde-bom-3.0.0-M6.jar returned status 404
 3.0.0-M7		2026-04-17T11:36:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M7/micronaut-serde-bom-3.0.0-M7.jar returned status 404
+3.0.0-M8		2026-04-28T14:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-M8/micronaut-serde-bom-3.0.0-M8.jar returned status 404
+3.0.0-RC1		2026-05-04T16:55:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-RC1/micronaut-serde-bom-3.0.0-RC1.jar returned status 404
+3.0.0-RC2		2026-05-06T14:57:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/serde/micronaut-serde-bom/3.0.0-RC2/micronaut-serde-bom-3.0.0-RC2.jar returned status 404

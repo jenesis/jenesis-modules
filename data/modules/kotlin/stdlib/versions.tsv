@@ -2244,6 +2244,8 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 1.0.0-rc.3	named	com.airbnb.viaduct	javaapi-api	2026-05-13T05:06:36Z	
 1.0.0	named	com.airbnb.viaduct	api	2026-05-13T07:42:10Z	
 1.0.0	named	com.airbnb.viaduct	javaapi-api	2026-05-13T07:42:11Z	
+2.4.0-RC	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-05-13T08:38:01Z	
+2.4.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2026-05-13T08:38:08Z	
 0.18.1-942	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-05-14T03:10:42Z	
 1.0.27	named	de.darkatra.injector	kotlin-dll-injector-application	2026-05-14T16:17:25Z	
 4.10.0-rc1	named	org.jetbrains.lets-plot	lets-plot-idea-plugin	2026-05-14T17:36:42Z	

@@ -58,3 +58,7 @@
 84.1.0		2026-04-23T08:38:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/84.1.0/version-catalog-84.1.0.jar returned status 404
 84.2.0		2026-04-27T11:18:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/84.2.0/version-catalog-84.2.0.jar returned status 404
 85.0.0		2026-04-30T07:34:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/85.0.0/version-catalog-85.0.0.jar returned status 404
+85.1.0		2026-05-07T07:37:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/85.1.0/version-catalog-85.1.0.jar returned status 404
+85.1.1		2026-05-07T13:49:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/85.1.1/version-catalog-85.1.1.jar returned status 404
+86.0.0		2026-05-10T08:43:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/86.0.0/version-catalog-86.0.0.jar returned status 404
+87.0.0		2026-05-14T07:30:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/version-catalog/87.0.0/version-catalog-87.0.0.jar returned status 404

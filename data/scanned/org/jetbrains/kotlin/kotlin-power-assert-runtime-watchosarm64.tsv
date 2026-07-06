@@ -1,5 +1,6 @@
 2.4.0	metadata	2026-06-03T06:52:41Z	
 2.4.0-Beta2		2026-04-22T07:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-watchosarm64/2.4.0-Beta2/kotlin-power-assert-runtime-watchosarm64-2.4.0-Beta2.jar returned status 404
 2.4.0-Beta2	metadata	2026-04-22T07:22:43Z	
+2.4.0-RC		2026-05-13T08:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-watchosarm64/2.4.0-RC/kotlin-power-assert-runtime-watchosarm64-2.4.0-RC.jar returned status 404
 2.4.0-RC	metadata	2026-05-13T08:38:05Z	
 2.4.0-RC2	metadata	2026-05-27T10:22:26Z	

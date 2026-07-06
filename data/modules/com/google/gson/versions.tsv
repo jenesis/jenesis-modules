@@ -4787,6 +4787,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 5.0.12	named	io.vertx	vertx-grpc-protoc-plugin2	2026-05-05T11:29:09Z	2.10
 1.1.7	named	com.bytehide.shield	shield-java-gradle-plugin	2026-05-05T21:04:48Z	2.10.1
 0.4.9-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-05T22:14:49Z	2.12.1
+7.2.5	named	org.biojava	biojava-protein-comparison-tool	2026-05-05T22:25:56Z	2.12.1
 1.2.1	named	org.apache.gravitino	gravitino-iceberg-aliyun-bundle	2026-05-06T11:00:57Z	2.11.0
 1.5.0.13.post3	named	io.acryl	datahub-protobuf	2026-05-06T22:47:05Z	2.12.0
 26.1.1	named	org.apache.doris	flink-doris-connector-1.15	2026-05-07T03:43:37Z	2.10.1
@@ -4815,6 +4816,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 0.4.14-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-10T20:12:29Z	2.12.1
 3.11.8	named	io.jooby	jooby-graphql	2026-05-11T22:19:07Z	2.14.0
 2.1.2.0-RC1	named	com.tencent.polaris	polaris-all	2026-05-12T09:37:47Z	2.9.0
+2.4.0-RC	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-05-13T08:38:02Z	2.11.0
 0.4.15-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-14T18:49:15Z	2.12.1
 3.0.18.0	named	com.ascentstream.pulsar	jclouds-shaded	2026-05-15T10:40:13Z	2.10.1
 0.2.4	named	io.github.agnistack.buildplugins	omniflow-gradle-plugin	2026-05-15T17:02:06Z	2.14.0
