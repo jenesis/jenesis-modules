@@ -1,0 +1,2 @@
+0.1		2014-07-01T14:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/typerendering/0.1/typerendering-0.1.jar returned status 404
+1.0.0		2015-05-20T14:03:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/typerendering/1.0.0/typerendering-1.0.0.jar returned status 404

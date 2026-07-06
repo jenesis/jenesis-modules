@@ -1,0 +1,4 @@
+3.0-M1		2010-06-09T17:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/activemq-ra/3.0-M1/activemq-ra-3.0-M1.jar returned status 404
+3.0-beta-1		2011-11-07T05:33:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/activemq-ra/3.0-beta-1/activemq-ra-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-03T13:32:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/activemq-ra/3.0.0/activemq-ra-3.0.0.jar returned status 404
+3.0.1		2013-05-23T02:55:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/activemq-ra/3.0.1/activemq-ra-3.0.1.jar returned status 404

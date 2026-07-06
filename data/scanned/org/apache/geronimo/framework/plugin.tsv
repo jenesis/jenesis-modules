@@ -1,0 +1,4 @@
+3.0-M1		2010-06-09T17:29:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/framework/plugin/3.0-M1/plugin-3.0-M1.jar returned status 404
+3.0-beta-1		2011-11-07T04:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/framework/plugin/3.0-beta-1/plugin-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-03T12:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/framework/plugin/3.0.0/plugin-3.0.0.jar returned status 404
+3.0.1		2013-05-23T02:20:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/framework/plugin/3.0.1/plugin-3.0.1.jar returned status 404

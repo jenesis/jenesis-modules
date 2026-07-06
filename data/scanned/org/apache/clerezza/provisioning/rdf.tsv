@@ -1,0 +1,4 @@
+0.1		2014-07-01T14:43:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/rdf/0.1/rdf-0.1.jar returned status 404
+1.0.0		2015-05-20T14:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/rdf/1.0.0/rdf-1.0.0.jar returned status 404
+1.1.0		2015-11-18T14:13:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/rdf/1.1.0/rdf-1.1.0.jar returned status 404
+1.1.1		2016-04-23T10:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/rdf/1.1.1/rdf-1.1.1.jar returned status 404

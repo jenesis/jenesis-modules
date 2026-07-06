@@ -1,0 +1,4 @@
+3.0-M1		2010-06-09T18:31:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jetty8-deployer/3.0-M1/jetty8-deployer-3.0-M1.jar returned status 404
+3.0-beta-1		2011-11-07T05:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jetty8-deployer/3.0-beta-1/jetty8-deployer-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-03T13:18:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jetty8-deployer/3.0.0/jetty8-deployer-3.0.0.jar returned status 404
+3.0.1		2013-05-23T02:43:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jetty8-deployer/3.0.1/jetty8-deployer-3.0.1.jar returned status 404

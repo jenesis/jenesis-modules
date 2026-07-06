@@ -1,0 +1,4 @@
+3.0-M1		2010-06-09T18:04:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/plugin-farm-member/3.0-M1/plugin-farm-member-3.0-M1.jar returned status 404
+3.0-beta-1		2011-11-07T05:54:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/plugin-farm-member/3.0-beta-1/plugin-farm-member-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-03T13:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/plugin-farm-member/3.0.0/plugin-farm-member-3.0.0.jar returned status 404
+3.0.1		2013-05-23T03:11:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/plugin-farm-member/3.0.1/plugin-farm-member-3.0.1.jar returned status 404

@@ -480,6 +480,7 @@
 1.2.1.2-jre17	named	com.guicedee.services	commons-text	2021-11-16T02:16:52Z	1.2.1.2-jre17
 1.2.2.1	named	com.guicedee.services	commons-text	2022-02-09T23:11:06Z	1.2.2.1
 1.2.2.1-jre17	named	com.guicedee.services	commons-text	2022-02-10T15:59:46Z	1.2.2.1-jre17
+1.10.0	automatic	org.apache.commons	commons-text	2022-09-24T14:57:09Z	
 1.11.0	named	org.apache.commons	commons-text	2023-10-24T13:39:27Z	1.11.0
 0.16.10	named	org.opendaylight.aaa	aaa-cli-jar	2023-10-31T10:43:07Z	1.11.0
 0.18.3	named	org.opendaylight.aaa	aaa-cli-jar	2023-10-31T11:28:37Z	1.11.0

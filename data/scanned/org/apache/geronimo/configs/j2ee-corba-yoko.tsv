@@ -1,0 +1,4 @@
+3.0-M1		2010-06-09T18:48:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/j2ee-corba-yoko/3.0-M1/j2ee-corba-yoko-3.0-M1.jar returned status 404
+3.0-beta-1		2011-11-07T06:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/j2ee-corba-yoko/3.0-beta-1/j2ee-corba-yoko-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-03T13:53:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/j2ee-corba-yoko/3.0.0/j2ee-corba-yoko-3.0.0.jar returned status 404
+3.0.1		2013-05-23T03:20:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/j2ee-corba-yoko/3.0.1/j2ee-corba-yoko-3.0.1.jar returned status 404

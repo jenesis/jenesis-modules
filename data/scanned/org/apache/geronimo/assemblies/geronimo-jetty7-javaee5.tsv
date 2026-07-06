@@ -1,0 +1,2 @@
+2.2		2009-12-08T04:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/assemblies/geronimo-jetty7-javaee5/2.2/geronimo-jetty7-javaee5-2.2.jar returned status 404
+2.2.1		2010-12-03T15:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/assemblies/geronimo-jetty7-javaee5/2.2.1/geronimo-jetty7-javaee5-2.2.1.jar returned status 404

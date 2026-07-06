@@ -1,0 +1,2 @@
+0.1		2014-07-01T14:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/felixweb/0.1/felixweb-0.1.jar returned status 404
+1.0.0		2015-05-20T14:02:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/clerezza/provisioning/felixweb/1.0.0/felixweb-1.0.0.jar returned status 404

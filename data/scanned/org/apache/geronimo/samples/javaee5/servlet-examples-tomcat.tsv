@@ -1,0 +1,2 @@
+3.0-beta-1		2011-11-25T10:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/javaee5/servlet-examples-tomcat/3.0-beta-1/servlet-examples-tomcat-3.0-beta-1.jar returned status 404
+3.0.0		2012-07-04T03:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/javaee5/servlet-examples-tomcat/3.0.0/servlet-examples-tomcat-3.0.0.jar returned status 404
