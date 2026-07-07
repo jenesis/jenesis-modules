@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -309,7 +309,7 @@ org.eclipse.osgi  [renamed `org.eclipse.tycho` -> `org.eclipse.platform` (latest
   ?   io.joynr.tools.generator             2025-01..2026-06 1.26.6               |................====|
   ?   org.alfasoftware                     2021-05..2026-04 2.7.0                |.........===========|
   ?   net.kieker-monitoring                2026-04..2026-04 2.0.3                |...................=|
-  ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |..............======|
+  ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |.............=======|
     + 22 more: de.funfried.libraries, io.github.alien-tools, org.tango-controls, org.tango-controls.pogo, ch.reportingsoft.birt, com.liferay, net.revelc.code.formatter, org.kie.j2cl.tools.external, io.github.dogla, com.vertispan.j2cl.external, fr.inria.gforge.spirals, org.geneweaver, (+10 more)
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
   ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |...................=|
@@ -558,7 +558,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `com.telamin.fluxtion
   R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |...................=|
   ?   net.officefloor.tutorial             2026-06..2026-06 4.0.0                |...................=|
   R   org.bonitasoft.engine.data           2026-01..2026-04 11.0.0               |..................==|
-  R   com.vmlens                           2026-01..2026-04 1.2.28               |..................==|
+  R   com.vmlens                           2026-01..2026-04 1.2.28               |..................=.|
   R   ru.biosoft.diagrams                  2026-01..2026-02 1.0.3                |..................=.|
     + 17 more: io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, org.zowe.client.java.sdk, com.jkoolcloud.tnt4j.streams, (+5 more)
 io.github.humbleui.skija.android.arm64  [fork: keep `io.github.humbleui`, `com.behemiron.engine` still publishes the name]
@@ -946,7 +946,7 @@ io.vertx.core  [owned by `io.vertx`; 3 other group(s) shade the name]
   R   io.github.crac.io.vertx              2023-08..2024-09 4.4.6.CRAC.0         |.............===....|
   R   one.gfw                              2023-03..2023-03 4.4.0                |............=.......|
 io.opentelemetry.instrumentation_annotations  [owned by `io.opentelemetry.instrumentation`; 1 other group(s) shade the name]
-  ? * io.opentelemetry.instrumentation     2023-10..2026-06 2.29.0               |..............======|
+  ? * io.opentelemetry.instrumentation     2023-10..2026-06 2.29.0               |.............=======|
   ?   io.vidocq.humboldt                   2026-06..2026-06 0.1.1                |...................=|
 com.github.luben.zstd_jni  [owned by `com.github.luben`; 18 other group(s) shade the name]
   A * com.github.luben                     2018-06..2026-06 1.5.7-11             |...=================|
@@ -1395,7 +1395,7 @@ jdk.internal.vm.compiler  [no clear owner; `org.graalvm.compiler` is earliest an
   ?   io.vertx                             2022-11..2026-06 4.5.28               |............========|
   ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........==.......|
 localhost3000  [no clear owner; `io.github.zahran444` is earliest and most recent]
-  ? * io.github.zahran444                  2026-04..2026-05 4.0.0                |...................=|
+  ? * io.github.zahran444                  2026-04..2026-05 4.0.0                |..................==|
   ?   io.sdks                              2026-06..2026-06 0.0.4                |...................=|
 cache.annotations.ri.common  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
@@ -1611,7 +1611,7 @@ org.apache.commons.jxpath  [no clear owner; `commons-jxpath` is earliest and mos
   ?   com.jd.live                          2025-08..2026-04 1.9.0                |.................===|
 commons  [no clear owner; `com.github.srujankujmar` is earliest and most recent]
   ? * com.github.srujankujmar              2020-12..2020-12 0.9.8.1              |........=...........|
-  ?   io.github.rassafel                   2025-07..2026-04 0.0.4                |.................===|
+  ?   io.github.rassafel                   2025-07..2026-04 0.0.4                |.................==.|
   ?   io.hyscale                           2020-12..2021-08 1.0.0                |........==..........|
 com.example.www  [no clear owner; `io.github.zahran444` is earliest and most recent]
   ? * io.github.zahran444                  2025-06..2026-03 3.0.7                |.................==.|
@@ -1996,7 +1996,7 @@ common  [no clear owner; `io.github.matwoess` is earliest and most recent]
   ? * io.github.matwoess                   2024-12..2025-01 0.11.3               |................=...|
   ?   pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |.................=..|
 persistence.api  [no clear owner; `io.ebean` is earliest and most recent]
-  ? * io.ebean                             2019-03..2025-04 3.1                  |....==============..|
+  ? * io.ebean                             2019-03..2025-04 3.1                  |....=============...|
   ?   one.gfw                              2023-03..2023-03 3.0                  |............=.......|
 jpms_dss_validation_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1          |......===========...|
