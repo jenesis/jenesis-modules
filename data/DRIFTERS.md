@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -34,7 +34,7 @@ Hand-curated overrides: a module matching an explicit rule is assigned to a fixe
 com.google.gson  [explicit rule: owned by `com.google.code.gson`; 534 other group(s) rejected]
   A * com.google.code.gson                 2019-10..2026-04 2.14.0               |.....===============|
   R   com.aliyun                           2021-09..2026-06 1.16.1               |.........===========|
-  R   com.google.cloud.bigdataoss          2023-10..2026-06 3.1.18               |..............======|
+  R   com.google.cloud.bigdataoss          2023-10..2026-06 3.1.18               |.............=======|
   ?   io.github.rahul1818                  2026-06..2026-06 1.0.4                |...................=|
   ?   com.conaxgames                       2026-06..2026-06 1.5.0                |...................=|
   R   org.openjproxy                       2025-09..2026-06 0.5.0-beta           |.................===|
@@ -296,7 +296,7 @@ The publishing groupId handed off over time (a rename or a relocation), so both 
 org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (latest 11.0.0-M1)]
   ? * org.apache.commons                   2023-08..2025-12 2.14.0               |.............======.|
   ?   org.apache.tomee                     2023-12..2026-06 11.0.0-M1            |..............======|
-  ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |..................=.|
+  ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |.................=..|
   ?   net.ontopia                          2025-04..2025-07 5.5.2                |.................=..|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............===..|
   ?   org.ikasan                           2024-07..2024-07 1.0.0                |...............=....|
@@ -387,7 +387,7 @@ org.tukaani.xz  [fork: keep `org.tukaani`, `io.github.peterdowdy` still publishe
 org.jspecify  [fork: keep `org.jspecify`, `io.trino.tpcds` still publishes the name]
   A * org.jspecify                         2021-07..2024-07 1.0.0                |.........=======....|
   ?   io.trino.tpcds                       2026-06..2026-06 1.6                  |...................=|
-  R   de.pirckheimer-gymnasium             2026-04..2026-06 0.49.0               |...................=|
+  R   de.pirckheimer-gymnasium             2026-04..2026-06 0.49.0               |..................==|
   R   io.github.openfeign.querydsl         2026-05..2026-06 7.4.0                |...................=|
   R   org.treblereel.gwt.xml.mapper        2025-10..2026-06 0.11                 |..................==|
   R   org.treblereel.gwt.json.mapper       2025-10..2026-06 0.8                  |..................==|
@@ -1131,7 +1131,7 @@ tuweni.units  [owned by `org.apache.tuweni` (groupId minus two segments is the m
   ?   io.tmio                              2023-05..2023-07 2.4.2                |.............=......|
 glide.api  [owned by `software.amazon.glide` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
   ? * software.amazon.glide                2024-06..2024-06 0.4.3                |...............=....|
-  ?   io.valkey                            2024-07..2025-10 2.1.1                |...............====.|
+  ?   io.valkey                            2024-07..2025-10 2.1.1                |...............===..|
   ?   io.github.gumpacg                    2024-08..2024-08 0.1.0                |...............=....|
 afterburner.fx  [owned by `com.dlsc.afterburner` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * com.dlsc.afterburner                 2019-10..2023-07 2.3.0                |.....=========......|
@@ -1366,7 +1366,7 @@ com.jcraft.jsch  [no clear owner; `com.github.mwiede` is earliest and most recen
   ?   io.github.luigidemasi                2026-01..2026-01 2.27.7               |..................=.|
   ?   com.opendatadsl                      2025-08..2026-01 1.1.29               |.................==.|
   ?   com.testingbot                       2025-08..2025-08 4.3                  |.................=..|
-  ?   io.kestra.plugin                     2024-04..2025-03 0.20.1               |...............==...|
+  ?   io.kestra.plugin                     2024-04..2025-03 0.20.1               |..............===...|
     + 1 more: com.jcabi
 org.apache.commons.validator  [no clear owner; `commons-validator` is earliest and most recent]
   ? * commons-validator                    2023-12..2025-11 1.10.1               |..............=====.|
@@ -1608,7 +1608,7 @@ com.drew.metadata  [no clear owner; `com.github.dalet-oss` is earliest and most 
   ?   com.drewnoakes                       2026-04..2026-04 2.20.0               |...................=|
 org.apache.commons.jxpath  [no clear owner; `commons-jxpath` is earliest and most recent]
   ? * commons-jxpath                       2025-04..2025-04 1.4.0                |.................=..|
-  ?   com.jd.live                          2025-08..2026-04 1.9.0                |.................===|
+  ?   com.jd.live                          2025-08..2026-04 1.9.0                |.................==.|
 commons  [no clear owner; `com.github.srujankujmar` is earliest and most recent]
   ? * com.github.srujankujmar              2020-12..2020-12 0.9.8.1              |........=...........|
   ?   io.github.rassafel                   2025-07..2026-04 0.0.4                |.................==.|
