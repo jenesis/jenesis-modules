@@ -20,3 +20,5 @@
 0.4	metadata	2026-03-17T17:17:15Z	
 1.0		2026-06-19T12:23:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/image_saver_plugin-iossimulatorarm64/1.0/image_saver_plugin-iossimulatorarm64-1.0.jar returned status 404
 1.0	metadata	2026-06-19T12:23:31Z	
+1.1		2026-06-30T09:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/image_saver_plugin-iossimulatorarm64/1.1/image_saver_plugin-iossimulatorarm64-1.1.jar returned status 404
+1.1	metadata	2026-06-30T09:06:28Z	

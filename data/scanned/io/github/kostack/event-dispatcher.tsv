@@ -1,0 +1,32 @@
+1.0.0		2026-06-25T10:52:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.0.0/event-dispatcher-1.0.0.jar returned status 404
+1.0.0	plain	2026-06-25T10:52:48Z	
+1.0.0	test-fixtures	2026-06-25T10:52:48Z	
+1.0.0	test-fixtures-sources	2026-06-25T10:52:48Z	
+1.0.1		2026-06-25T12:35:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.0.1/event-dispatcher-1.0.1.jar returned status 404
+1.0.1	plain	2026-06-25T12:35:58Z	
+1.0.1	test-fixtures	2026-06-25T12:35:58Z	
+1.0.1	test-fixtures-sources	2026-06-25T12:35:58Z	
+1.0.5		2026-06-25T12:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.0.5/event-dispatcher-1.0.5.jar returned status 404
+1.0.5	plain	2026-06-25T12:51:46Z	
+1.0.5	test-fixtures	2026-06-25T12:51:46Z	
+1.0.5	test-fixtures-sources	2026-06-25T12:51:46Z	
+1.0.6		2026-06-25T13:43:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.0.6/event-dispatcher-1.0.6.jar returned status 404
+1.0.6	plain	2026-06-25T13:43:40Z	
+1.0.6	test-fixtures	2026-06-25T13:43:40Z	
+1.0.6	test-fixtures-sources	2026-06-25T13:43:40Z	
+1.1.0		2026-06-26T06:21:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.1.0/event-dispatcher-1.1.0.jar returned status 404
+1.1.0	plain	2026-06-26T06:21:10Z	
+1.1.0	test-fixtures	2026-06-26T06:21:10Z	
+1.1.0	test-fixtures-sources	2026-06-26T06:21:10Z	
+1.2.0		2026-07-01T14:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.2.0/event-dispatcher-1.2.0.jar returned status 404
+1.2.0	plain	2026-07-01T14:12:38Z	
+1.2.0	test-fixtures	2026-07-01T14:12:38Z	
+1.2.0	test-fixtures-sources	2026-07-01T14:12:38Z	
+1.2.1		2026-07-04T09:44:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.2.1/event-dispatcher-1.2.1.jar returned status 404
+1.2.1	plain	2026-07-04T09:44:12Z	
+1.2.1	test-fixtures	2026-07-04T09:44:12Z	
+1.2.1	test-fixtures-sources	2026-07-04T09:44:12Z	
+1.2.2		2026-07-04T11:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/event-dispatcher/1.2.2/event-dispatcher-1.2.2.jar returned status 404
+1.2.2	plain	2026-07-04T11:30:16Z	
+1.2.2	test-fixtures	2026-07-04T11:30:16Z	
+1.2.2	test-fixtures-sources	2026-07-04T11:30:16Z	

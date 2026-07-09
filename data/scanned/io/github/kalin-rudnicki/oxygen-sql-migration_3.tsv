@@ -128,4 +128,11 @@
 0.5.6		2026-06-13T17:17:09Z	
 0.5.7		2026-06-15T01:06:45Z	
 0.5.8		2026-06-16T15:11:45Z	
+0.6.0		2026-06-25T21:50:32Z	
+0.6.1		2026-06-26T01:16:03Z	
+0.6.2		2026-06-28T00:05:45Z	
+0.6.3		2026-06-29T11:04:51Z	
+0.6.4		2026-06-29T19:13:52Z	
+0.6.5		2026-07-03T22:28:15Z	
+0.6.6		2026-07-06T13:49:24Z	
 23fed45f473f7277e7bf2d3d5acd27dd26240b88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalin-rudnicki/oxygen-sql-migration_3/23fed45f473f7277e7bf2d3d5acd27dd26240b88/oxygen-sql-migration_3-23fed45f473f7277e7bf2d3d5acd27dd26240b88.jar returned status 404

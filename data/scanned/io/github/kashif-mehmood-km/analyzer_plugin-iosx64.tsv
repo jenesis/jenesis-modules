@@ -4,3 +4,5 @@
 0.4	metadata	2026-03-17T17:17:14Z	
 1.0		2026-06-19T12:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/analyzer_plugin-iosx64/1.0/analyzer_plugin-iosx64-1.0.jar returned status 404
 1.0	metadata	2026-06-19T12:23:30Z	
+1.1		2026-06-30T09:06:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/analyzer_plugin-iosx64/1.1/analyzer_plugin-iosx64-1.1.jar returned status 404
+1.1	metadata	2026-06-30T09:06:26Z	

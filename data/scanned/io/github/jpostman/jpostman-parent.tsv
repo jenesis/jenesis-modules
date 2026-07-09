@@ -17,3 +17,6 @@
 1.2.3		2026-06-21T03:40:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.3/jpostman-parent-1.2.3.jar returned status 404
 1.2.4		2026-06-21T19:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.4/jpostman-parent-1.2.4.jar returned status 404
 1.2.5		2026-06-22T05:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.5/jpostman-parent-1.2.5.jar returned status 404
+1.2.6		2026-06-26T00:23:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.6/jpostman-parent-1.2.6.jar returned status 404
+1.2.7		2026-06-30T15:50:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.7/jpostman-parent-1.2.7.jar returned status 404
+1.2.8		2026-07-03T22:10:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/1.2.8/jpostman-parent-1.2.8.jar returned status 404

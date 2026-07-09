@@ -6,3 +6,7 @@
 0.6.0	metadata	2026-06-13T23:45:17Z	
 0.7.0		2026-06-14T14:00:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kormium/kormium-ktor-iosx64/0.7.0/kormium-ktor-iosx64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-06-14T14:00:21Z	
+0.9.0		2026-07-01T09:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kormium/kormium-ktor-iosx64/0.9.0/kormium-ktor-iosx64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-07-01T09:05:09Z	
+0.9.1		2026-07-03T10:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kormium/kormium-ktor-iosx64/0.9.1/kormium-ktor-iosx64-0.9.1.jar returned status 404
+0.9.1	metadata	2026-07-03T10:14:14Z	
