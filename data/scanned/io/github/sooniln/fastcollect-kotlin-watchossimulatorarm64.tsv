@@ -2,3 +2,7 @@
 1.0.0	metadata	2026-05-06T05:48:39Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-watchossimulatorarm64/1.0.1/fastcollect-kotlin-watchossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-05-14T15:52:27Z	
+2.0.0		2026-06-24T21:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-watchossimulatorarm64/2.0.0/fastcollect-kotlin-watchossimulatorarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-24T21:11:25Z	
+2.0.1		2026-06-29T22:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-watchossimulatorarm64/2.0.1/fastcollect-kotlin-watchossimulatorarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-06-29T22:18:50Z	

@@ -5,3 +5,6 @@
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-alpha01/libres-wasm-js-2.0.0-alpha01.jar returned status 404
 2.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-alpha02/libres-wasm-js-2.0.0-alpha02.jar returned status 404
 2.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-alpha03/libres-wasm-js-2.0.0-alpha03.jar returned status 404
+2.0.0-beta01		2026-06-26T22:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-beta01/libres-wasm-js-2.0.0-beta01.jar returned status 404
+2.0.0-beta02		2026-06-27T17:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-beta02/libres-wasm-js-2.0.0-beta02.jar returned status 404
+2.0.0-beta03		2026-06-28T12:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/libres-wasm-js/2.0.0-beta03/libres-wasm-js-2.0.0-beta03.jar returned status 404

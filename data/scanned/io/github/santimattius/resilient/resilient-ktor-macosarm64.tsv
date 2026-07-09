@@ -1,2 +1,6 @@
+2.0.0		2026-06-29T22:53:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-ktor-macosarm64/2.0.0/resilient-ktor-macosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-29T22:53:47Z	
 2.0.0-ALPHA01		2026-06-19T16:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-ktor-macosarm64/2.0.0-ALPHA01/resilient-ktor-macosarm64-2.0.0-ALPHA01.jar returned status 404
 2.0.0-ALPHA01	metadata	2026-06-19T16:18:51Z	
+2.0.0-ALPHA02		2026-06-27T22:45:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-ktor-macosarm64/2.0.0-ALPHA02/resilient-ktor-macosarm64-2.0.0-ALPHA02.jar returned status 404
+2.0.0-ALPHA02	metadata	2026-06-27T22:45:42Z	

@@ -2,3 +2,9 @@
 2.0.0-alpha02	metadata	2025-08-17T09:21:25Z	
 2.0.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/plural-rules-watchosarm64/2.0.0-alpha03/plural-rules-watchosarm64-2.0.0-alpha03.jar returned status 404
 2.0.0-alpha03	metadata	2025-09-15T12:57:27Z	
+2.0.0-beta01		2026-06-26T22:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/plural-rules-watchosarm64/2.0.0-beta01/plural-rules-watchosarm64-2.0.0-beta01.jar returned status 404
+2.0.0-beta01	metadata	2026-06-26T22:49:35Z	
+2.0.0-beta02		2026-06-27T17:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/plural-rules-watchosarm64/2.0.0-beta02/plural-rules-watchosarm64-2.0.0-beta02.jar returned status 404
+2.0.0-beta02	metadata	2026-06-27T17:55:39Z	
+2.0.0-beta03		2026-06-28T12:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skeptick/libres/plural-rules-watchosarm64/2.0.0-beta03/plural-rules-watchosarm64-2.0.0-beta03.jar returned status 404
+2.0.0-beta03	metadata	2026-06-28T12:14:50Z	

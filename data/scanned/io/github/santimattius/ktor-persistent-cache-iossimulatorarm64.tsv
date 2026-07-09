@@ -10,3 +10,5 @@
 1.0.1-ALPHA01	metadata	2026-04-08T22:58:29Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/ktor-persistent-cache-iossimulatorarm64/1.1.0/ktor-persistent-cache-iossimulatorarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-05-05T22:56:06Z	
+1.2.0		2026-07-04T22:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/ktor-persistent-cache-iossimulatorarm64/1.2.0/ktor-persistent-cache-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-07-04T22:10:54Z	

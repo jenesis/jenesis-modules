@@ -24,6 +24,8 @@
 0.29.1		2026-06-01T09:30:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.29.1/plasma-giga-compose-0.29.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.3.0/plasma-giga-compose-0.3.0.jar returned status 404
 0.30.0		2026-06-10T14:30:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.30.0/plasma-giga-compose-0.30.0.jar returned status 404
+0.31.0		2026-06-24T13:52:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.31.0/plasma-giga-compose-0.31.0.jar returned status 404
+0.31.1		2026-07-02T07:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.31.1/plasma-giga-compose-0.31.1.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.4.0/plasma-giga-compose-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.5.0/plasma-giga-compose-0.5.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/plasma-giga-compose/0.7.0/plasma-giga-compose-0.7.0.jar returned status 404

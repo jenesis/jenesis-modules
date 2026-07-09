@@ -4,3 +4,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/android/app-startup-extension/2.0.0/app-startup-extension-2.0.0.jar returned status 404
 2.0.0-ALPHA01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/android/app-startup-extension/2.0.0-ALPHA01/app-startup-extension-2.0.0-ALPHA01.jar returned status 404
 2.0.0-ALPHA02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/android/app-startup-extension/2.0.0-ALPHA02/app-startup-extension-2.0.0-ALPHA02.jar returned status 404
+2.1.0		2026-07-04T23:24:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/android/app-startup-extension/2.1.0/app-startup-extension-2.1.0.jar returned status 404
