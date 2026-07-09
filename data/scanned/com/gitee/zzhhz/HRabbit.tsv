@@ -118,6 +118,7 @@
 1.2.1	debug-sources	2025-03-25T06:01:02Z	
 1.2.1	release-javadoc	2025-03-25T06:00:45Z	
 1.2.1	release-sources	2025-03-25T06:01:20Z	
+1.2.13		2026-06-25T07:38:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zzhhz/HRabbit/1.2.13/HRabbit-1.2.13.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zzhhz/HRabbit/1.2.2/HRabbit-1.2.2.jar returned status 404
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zzhhz/HRabbit/1.2.3/HRabbit-1.2.3.jar returned status 404
 1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zzhhz/HRabbit/1.2.9/HRabbit-1.2.9.jar returned status 404

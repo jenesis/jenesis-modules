@@ -30,5 +30,9 @@
 0.40		2026-05-30T18:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.40/xcoin-protobuf-0.40.jar returned status 404
 0.41		2026-05-31T08:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.41/xcoin-protobuf-0.41.jar returned status 404
 0.42		2026-06-25T04:51:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.42/xcoin-protobuf-0.42.jar returned status 404
+0.43		2026-07-04T06:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.43/xcoin-protobuf-0.43.jar returned status 404
+0.44		2026-07-06T11:20:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.44/xcoin-protobuf-0.44.jar returned status 404
+0.45		2026-07-07T02:23:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.45/xcoin-protobuf-0.45.jar returned status 404
+0.46		2026-07-08T06:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.46/xcoin-protobuf-0.46.jar returned status 404
 0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.8/xcoin-protobuf-0.8.jar returned status 404
 0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ganshane/xcoin/protobuf/xcoin-protobuf/0.9/xcoin-protobuf-0.9.jar returned status 404

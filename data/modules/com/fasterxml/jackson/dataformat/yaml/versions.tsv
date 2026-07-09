@@ -910,3 +910,6 @@
 0.27.0	named	io.simpleishard	trino-sharepoint	2026-07-06T00:05:03Z	2.21.3
 0.27.0	named	io.simpleishard	trino-splunk	2026-07-06T00:06:04Z	2.21.3
 0.27.0	named	io.simpleishard	trino-calcite-base	2026-07-06T00:06:08Z	2.21.3
+2.21.5	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-07-07T02:30:05Z	2.21.5
+2.22.1	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-07-07T22:02:43Z	2.22.1
+2.18.9	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-07-08T00:33:00Z	2.18.9

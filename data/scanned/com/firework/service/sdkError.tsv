@@ -185,6 +185,7 @@
 6.32.7		2026-06-10T09:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.32.7/sdkError-6.32.7.jar returned status 404
 6.32.8		2026-06-15T08:42:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.32.8/sdkError-6.32.8.jar returned status 404
 6.33.0		2026-06-23T04:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.33.0/sdkError-6.33.0.jar returned status 404
+6.33.1		2026-06-29T16:25:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.33.1/sdkError-6.33.1.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.4.0/sdkError-6.4.0.jar returned status 404
 6.4.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.4.0-RC.10/sdkError-6.4.0-RC.10.jar returned status 404
 6.4.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/sdkError/6.4.0-RC.11/sdkError-6.4.0-RC.11.jar returned status 404

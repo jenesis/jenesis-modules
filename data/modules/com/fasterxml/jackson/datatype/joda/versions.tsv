@@ -177,3 +177,9 @@
 2.21.4	named	com.fasterxml.jackson.datatype	jackson-datatype-joda	2026-05-29T04:48:01Z	2.21.4
 2.22.0	named	com.fasterxml.jackson.datatype	jackson-datatype-joda-money	2026-06-01T01:41:27Z	2.22.0
 2.22.0	named	com.fasterxml.jackson.datatype	jackson-datatype-joda	2026-06-01T01:45:09Z	2.22.0
+2.21.5	named	com.fasterxml.jackson.datatype	jackson-datatype-joda-money	2026-07-07T03:05:50Z	2.21.5
+2.21.5	named	com.fasterxml.jackson.datatype	jackson-datatype-joda	2026-07-07T03:06:30Z	2.21.5
+2.22.1	named	com.fasterxml.jackson.datatype	jackson-datatype-joda-money	2026-07-07T22:35:24Z	2.22.1
+2.22.1	named	com.fasterxml.jackson.datatype	jackson-datatype-joda	2026-07-07T22:52:44Z	2.22.1
+2.18.9	named	com.fasterxml.jackson.datatype	jackson-datatype-joda-money	2026-07-08T00:46:38Z	2.18.9
+2.18.9	named	com.fasterxml.jackson.datatype	jackson-datatype-joda	2026-07-08T00:50:16Z	2.18.9

@@ -29,3 +29,4 @@
 8.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fyber/marketplace-sdk/8.4.3/marketplace-sdk-8.4.3.jar returned status 404
 8.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fyber/marketplace-sdk/8.4.4/marketplace-sdk-8.4.4.jar returned status 404
 8.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fyber/marketplace-sdk/8.4.5/marketplace-sdk-8.4.5.jar returned status 404
+8.4.6		2026-06-30T13:01:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fyber/marketplace-sdk/8.4.6/marketplace-sdk-8.4.6.jar returned status 404

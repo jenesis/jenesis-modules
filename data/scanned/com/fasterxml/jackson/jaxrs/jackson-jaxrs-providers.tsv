@@ -2,6 +2,7 @@
 2.18.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.18.6/jackson-jaxrs-providers-2.18.6.jar returned status 404
 2.18.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.18.7/jackson-jaxrs-providers-2.18.7.jar returned status 404
 2.18.8		2026-05-29T01:17:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.18.8/jackson-jaxrs-providers-2.18.8.jar returned status 404
+2.18.9		2026-07-08T00:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.18.9/jackson-jaxrs-providers-2.18.9.jar returned status 404
 2.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.19.1/jackson-jaxrs-providers-2.19.1.jar returned status 404
 2.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.19.2/jackson-jaxrs-providers-2.19.2.jar returned status 404
 2.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.19.3/jackson-jaxrs-providers-2.19.3.jar returned status 404
@@ -15,4 +16,6 @@
 2.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.21.2/jackson-jaxrs-providers-2.21.2.jar returned status 404
 2.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.21.3/jackson-jaxrs-providers-2.21.3.jar returned status 404
 2.21.4		2026-05-29T05:03:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.21.4/jackson-jaxrs-providers-2.21.4.jar returned status 404
+2.21.5		2026-07-07T03:24:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.21.5/jackson-jaxrs-providers-2.21.5.jar returned status 404
 2.22.0		2026-06-01T05:46:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.22.0/jackson-jaxrs-providers-2.22.0.jar returned status 404
+2.22.1		2026-07-07T22:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.22.1/jackson-jaxrs-providers-2.22.1.jar returned status 404

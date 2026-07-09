@@ -6480,3 +6480,4 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.41.22	named	org.kill-bill.billing	killbill-platform-osgi-bundles-influxdb	2026-07-03T10:08:06Z	2.13.4
 0.41.22	named	org.kill-bill.billing	killbill-platform-osgi-bundles-metrics	2026-07-03T10:08:06Z	2.13.4
 0.1.4	named	io.github.cdy-codey	codey-console	2026-07-03T11:20:42Z	2.18.2
+2.18.9	named	com.fasterxml.jackson.core	jackson-annotations	2026-07-07T23:44:02Z	2.18.9

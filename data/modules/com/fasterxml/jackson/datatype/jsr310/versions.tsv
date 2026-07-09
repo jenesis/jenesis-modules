@@ -1077,3 +1077,6 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.5.2.16	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-06-29T22:46:55Z	2.16.0
 0.1.0	named	org.datap-rs	datapress-jdbc	2026-07-02T21:35:27Z	2.17.2
 0.1.0-beta.7	named	io.github.cloudstub	cloudstub-core	2026-07-05T15:23:39Z	2.22.0
+2.21.5	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-07-07T02:33:45Z	2.21.5
+2.22.1	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-07-07T22:11:05Z	2.22.1
+2.18.9	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-07-08T00:39:13Z	2.18.9

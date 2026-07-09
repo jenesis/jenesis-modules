@@ -7332,3 +7332,6 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 1.0.0	named	lat.sofis.biobpm.spin	camunda-spin-dataformat-all	2026-07-02T21:22:22Z	2.15.2
 2.1.0	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-07-03T08:12:36Z	2.15.2
 0.0.1	named	com.skraba	avrofaker	2026-07-03T17:03:22Z	2.20.0
+2.21.5	named	com.fasterxml.jackson.core	jackson-core	2026-07-07T02:02:05Z	2.21.5
+2.22.1	named	com.fasterxml.jackson.core	jackson-core	2026-07-07T21:30:06Z	2.22.1
+2.18.9	named	com.fasterxml.jackson.core	jackson-core	2026-07-07T23:50:30Z	2.18.9

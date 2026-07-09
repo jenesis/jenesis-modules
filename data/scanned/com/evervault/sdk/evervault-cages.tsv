@@ -25,3 +25,6 @@
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.3.0/evervault-cages-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.3.1/evervault-cages-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.3.2/evervault-cages-2.3.2.jar returned status 404
+2.3.3		2026-06-12T10:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.3.3/evervault-cages-2.3.3.jar returned status 404
+2.4.0		2026-06-30T14:00:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.4.0/evervault-cages-2.4.0.jar returned status 404
+2.5.0		2026-07-03T09:45:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/evervault/sdk/evervault-cages/2.5.0/evervault-cages-2.5.0.jar returned status 404
