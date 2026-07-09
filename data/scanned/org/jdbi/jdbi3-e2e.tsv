@@ -6,3 +6,4 @@
 3.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/jdbi3-e2e/3.52.0/jdbi3-e2e-3.52.0.jar returned status 404
 3.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/jdbi3-e2e/3.52.1/jdbi3-e2e-3.52.1.jar returned status 404
 3.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/jdbi3-e2e/3.53.0/jdbi3-e2e-3.53.0.jar returned status 404
+3.54.0		2026-07-01T21:16:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/jdbi3-e2e/3.54.0/jdbi3-e2e-3.54.0.jar returned status 404

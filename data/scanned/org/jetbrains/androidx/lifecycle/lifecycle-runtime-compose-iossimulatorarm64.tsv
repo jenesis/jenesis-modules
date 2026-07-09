@@ -12,3 +12,5 @@
 2.11.0-beta01	metadata	2026-05-04T17:20:36Z	
 2.11.0-beta02		2026-06-15T13:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-iossimulatorarm64/2.11.0-beta02/lifecycle-runtime-compose-iossimulatorarm64-2.11.0-beta02.jar returned status 404
 2.11.0-beta02	metadata	2026-06-15T13:26:47Z	
+2.11.0-rc01		2026-06-29T14:33:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-iossimulatorarm64/2.11.0-rc01/lifecycle-runtime-compose-iossimulatorarm64-2.11.0-rc01.jar returned status 404
+2.11.0-rc01	metadata	2026-06-29T14:33:21Z	

@@ -28,6 +28,8 @@
 2.11.0-beta01	metadata	2026-05-04T17:20:34Z	
 2.11.0-beta02		2026-06-15T13:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-tvossimulatorarm64/2.11.0-beta02/lifecycle-common-tvossimulatorarm64-2.11.0-beta02.jar returned status 404
 2.11.0-beta02	metadata	2026-06-15T13:26:44Z	
+2.11.0-rc01		2026-06-29T14:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-tvossimulatorarm64/2.11.0-rc01/lifecycle-common-tvossimulatorarm64-2.11.0-rc01.jar returned status 404
+2.11.0-rc01	metadata	2026-06-29T14:33:25Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-tvossimulatorarm64/2.8.0/lifecycle-common-tvossimulatorarm64-2.8.0.jar returned status 404
 2.8.0	metadata	2024-05-17T19:50:40Z	
 2.8.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-tvossimulatorarm64/2.8.0-beta01/lifecycle-common-tvossimulatorarm64-2.8.0-beta01.jar returned status 404
