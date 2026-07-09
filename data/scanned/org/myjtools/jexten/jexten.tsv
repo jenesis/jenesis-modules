@@ -3,3 +3,4 @@
 1.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myjtools/jexten/jexten/1.0.0-alpha2/jexten-1.0.0-alpha2.jar returned status 404
 1.0.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myjtools/jexten/jexten/1.0.0-alpha4/jexten-1.0.0-alpha4.jar returned status 404
 1.0.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myjtools/jexten/jexten/1.0.0-alpha5/jexten-1.0.0-alpha5.jar returned status 404
+1.0.1		2026-06-27T15:33:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myjtools/jexten/jexten/1.0.1/jexten-1.0.1.jar returned status 404

@@ -2,3 +2,4 @@
 2025.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nasdanika/ai/parent/2025.12.0/parent-2025.12.0.jar returned status 404
 2025.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nasdanika/ai/parent/2025.7.0/parent-2025.7.0.jar returned status 404
 2026.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nasdanika/ai/parent/2026.2.0/parent-2026.2.0.jar returned status 404
+2026.6.0		2026-06-30T16:15:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nasdanika/ai/parent/2026.6.0/parent-2026.6.0.jar returned status 404

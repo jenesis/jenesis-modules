@@ -91,3 +91,4 @@
 4.0.0-M3		2026-06-05T03:07:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-expression-bundle1/4.0.0-M3/solon-expression-bundle1-4.0.0-M3.jar returned status 404
 4.0.1		2026-06-15T11:58:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-expression-bundle1/4.0.1/solon-expression-bundle1-4.0.1.jar returned status 404
 4.0.2		2026-06-15T15:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-expression-bundle1/4.0.2/solon-expression-bundle1-4.0.2.jar returned status 404
+4.0.3		2026-07-01T15:37:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-expression-bundle1/4.0.3/solon-expression-bundle1-4.0.3.jar returned status 404

@@ -1,7 +1,12 @@
 2023.06.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2023.06.3/mir-parent-2023.06.3.jar returned status 404
 2023.06.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2023.06.4/mir-parent-2023.06.4.jar returned status 404
+2023.06.5		2026-07-03T14:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2023.06.5/mir-parent-2023.06.5.jar returned status 404
 2024.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2024.06.1/mir-parent-2024.06.1.jar returned status 404
 2024.06.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2024.06.2/mir-parent-2024.06.2.jar returned status 404
+2024.06.3		2026-07-03T14:40:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2024.06.3/mir-parent-2024.06.3.jar returned status 404
 2025.06.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2025.06.0/mir-parent-2025.06.0.jar returned status 404
 2025.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2025.06.1/mir-parent-2025.06.1.jar returned status 404
+2025.06.2		2026-07-03T15:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2025.06.2/mir-parent-2025.06.2.jar returned status 404
 2025.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2025.12.1/mir-parent-2025.12.1.jar returned status 404
+2025.12.2		2026-07-03T15:26:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2025.12.2/mir-parent-2025.12.2.jar returned status 404
+2026.06.0		2026-07-03T17:38:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mir/mir-parent/2026.06.0/mir-parent-2026.06.0.jar returned status 404

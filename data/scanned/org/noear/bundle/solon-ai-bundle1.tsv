@@ -175,3 +175,5 @@
 4.0.0-M3		2026-06-05T03:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-ai-bundle1/4.0.0-M3/solon-ai-bundle1-4.0.0-M3.jar returned status 404
 4.0.1		2026-06-15T12:32:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-ai-bundle1/4.0.1/solon-ai-bundle1-4.0.1.jar returned status 404
 4.0.2		2026-06-16T14:06:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-ai-bundle1/4.0.2/solon-ai-bundle1-4.0.2.jar returned status 404
+4.0.3		2026-07-01T15:48:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-ai-bundle1/4.0.3/solon-ai-bundle1-4.0.3.jar returned status 404
+4.0.3-M1		2026-06-26T08:02:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-ai-bundle1/4.0.3-M1/solon-ai-bundle1-4.0.3-M1.jar returned status 404

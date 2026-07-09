@@ -10,3 +10,5 @@
 1.0.0-rc13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/importer/import-spec-parent/1.0.0-rc13/import-spec-parent-1.0.0-rc13.jar returned status 404
 1.0.0-rc14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/importer/import-spec-parent/1.0.0-rc14/import-spec-parent-1.0.0-rc14.jar returned status 404
 1.0.0-rc15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/importer/import-spec-parent/1.0.0-rc15/import-spec-parent-1.0.0-rc15.jar returned status 404
+1.0.0-rc16		2026-06-24T09:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/importer/import-spec-parent/1.0.0-rc16/import-spec-parent-1.0.0-rc16.jar returned status 404
+1.0.0-rc17		2026-07-01T14:37:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/importer/import-spec-parent/1.0.0-rc17/import-spec-parent-1.0.0-rc17.jar returned status 404
