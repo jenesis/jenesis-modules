@@ -49,3 +49,4 @@
 2.3.1	sourcess	2026-01-14T15:42:33Z	
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optoutadvertising/sdk/2.4.0/sdk-2.4.0.jar returned status 404
 2.4.0	sourcess	2026-01-27T13:50:25Z	
+2.5.0		2026-06-29T11:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optoutadvertising/sdk/2.5.0/sdk-2.5.0.jar returned status 404

@@ -1,3 +1,5 @@
 1.0.1		2026-06-16T19:23:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-rating/1.0.1/component-rating-1.0.1.jar returned status 404
 1.0.2		2026-06-17T11:06:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-rating/1.0.2/component-rating-1.0.2.jar returned status 404
 1.0.3		2026-06-19T07:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-rating/1.0.3/component-rating-1.0.3.jar returned status 404
+1.0.4		2026-06-29T17:05:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-rating/1.0.4/component-rating-1.0.4.jar returned status 404
+1.0.5		2026-06-30T12:07:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/component-rating/1.0.5/component-rating-1.0.5.jar returned status 404

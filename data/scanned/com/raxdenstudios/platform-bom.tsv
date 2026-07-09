@@ -3,6 +3,11 @@
 1.0.11		2026-06-17T17:03:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.11/platform-bom-1.0.11.jar returned status 404
 1.0.12		2026-06-17T17:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.12/platform-bom-1.0.12.jar returned status 404
 1.0.13		2026-06-17T17:19:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.13/platform-bom-1.0.13.jar returned status 404
+1.0.14		2026-06-28T09:15:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.14/platform-bom-1.0.14.jar returned status 404
+1.0.15		2026-06-28T09:17:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.15/platform-bom-1.0.15.jar returned status 404
+1.0.16		2026-06-29T16:45:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.16/platform-bom-1.0.16.jar returned status 404
+1.0.17		2026-06-29T16:47:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.17/platform-bom-1.0.17.jar returned status 404
+1.0.18		2026-07-06T16:09:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.18/platform-bom-1.0.18.jar returned status 404
 1.0.2		2026-06-16T17:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.2/platform-bom-1.0.2.jar returned status 404
 1.0.3		2026-06-17T11:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.3/platform-bom-1.0.3.jar returned status 404
 1.0.4		2026-06-17T12:16:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-bom/1.0.4/platform-bom-1.0.4.jar returned status 404

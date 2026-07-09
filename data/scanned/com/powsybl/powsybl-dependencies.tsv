@@ -5,3 +5,4 @@
 2025.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dependencies/2025.3.2/powsybl-dependencies-2025.3.2.jar returned status 404
 2026.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dependencies/2026.0.0/powsybl-dependencies-2026.0.0.jar returned status 404
 2026.0.1		2026-06-24T14:33:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dependencies/2026.0.1/powsybl-dependencies-2026.0.1.jar returned status 404
+2026.1.0		2026-07-07T08:32:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dependencies/2026.1.0/powsybl-dependencies-2026.1.0.jar returned status 404

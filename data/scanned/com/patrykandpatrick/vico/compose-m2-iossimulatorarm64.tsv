@@ -50,3 +50,5 @@
 3.2.2	metadata	2026-06-04T10:41:54Z	
 3.2.3		2026-06-20T10:12:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-m2-iossimulatorarm64/3.2.3/compose-m2-iossimulatorarm64-3.2.3.jar returned status 404
 3.2.3	metadata	2026-06-20T10:12:35Z	
+3.3.0-next.1		2026-06-27T09:50:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/patrykandpatrick/vico/compose-m2-iossimulatorarm64/3.3.0-next.1/compose-m2-iossimulatorarm64-3.3.0-next.1.jar returned status 404
+3.3.0-next.1	metadata	2026-06-27T09:50:17Z	

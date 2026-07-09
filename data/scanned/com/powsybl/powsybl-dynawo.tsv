@@ -3,3 +3,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dynawo/3.1.0/powsybl-dynawo-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dynawo/3.1.1/powsybl-dynawo-3.1.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dynawo/3.2.0/powsybl-dynawo-3.2.0.jar returned status 404
+3.3.0		2026-07-06T15:33:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl-dynawo/3.3.0/powsybl-dynawo-3.3.0.jar returned status 404
