@@ -13,3 +13,4 @@
 26.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/tock/tock-bot-admin/26.3.0/tock-bot-admin-26.3.0.jar returned status 404
 26.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/tock/tock-bot-admin/26.3.1/tock-bot-admin-26.3.1.jar returned status 404
 26.3.2		2026-05-22T07:03:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/tock/tock-bot-admin/26.3.2/tock-bot-admin-26.3.2.jar returned status 404
+26.3.3		2026-07-02T22:58:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/tock/tock-bot-admin/26.3.3/tock-bot-admin-26.3.3.jar returned status 404

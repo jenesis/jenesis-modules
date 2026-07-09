@@ -18,3 +18,5 @@
 19.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-apm/19.7.0/luciq-compose-apm-19.7.0.jar returned status 404
 19.7.1		2026-06-04T13:10:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-apm/19.7.1/luciq-compose-apm-19.7.1.jar returned status 404
 19.8.0		2026-06-09T16:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-apm/19.8.0/luciq-compose-apm-19.8.0.jar returned status 404
+19.9.0		2026-06-28T15:36:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-apm/19.9.0/luciq-compose-apm-19.9.0.jar returned status 404
+19.9.1		2026-06-29T16:06:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-apm/19.9.1/luciq-compose-apm-19.9.1.jar returned status 404
