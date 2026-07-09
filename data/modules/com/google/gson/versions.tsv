@@ -4928,6 +4928,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 7.2.3	named	top.ceroxe.api	neolinkapi-desktop	2026-06-30T07:25:59Z	2.11.0
 7.2.4	named	top.ceroxe.api	neolinkapi-desktop	2026-06-30T10:31:37Z	2.11.0
 8.34.0.44906	named	org.sonarsource.java	java-custom-rules-example	2026-06-30T14:33:53Z	2.14.0
+3.37.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-01T11:03:25Z	2.10
 10.28.0.143324	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-07-02T11:48:11Z	2.14.0
 10.28.0.143324	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-07-02T11:48:11Z	2.14.0
 11.6.0.85952	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-07-04T07:22:51Z	2.13.2

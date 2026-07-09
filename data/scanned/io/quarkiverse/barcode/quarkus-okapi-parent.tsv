@@ -5,3 +5,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/barcode/quarkus-okapi-parent/1.0.1/quarkus-okapi-parent-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/barcode/quarkus-okapi-parent/1.0.2/quarkus-okapi-parent-1.0.2.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/barcode/quarkus-okapi-parent/1.1.0/quarkus-okapi-parent-1.1.0.jar returned status 404
+1.2.0		2026-07-03T13:41:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/barcode/quarkus-okapi-parent/1.2.0/quarkus-okapi-parent-1.2.0.jar returned status 404

@@ -39,3 +39,4 @@
 2.34.0		2026-04-09T09:43:44Z	
 2.35.1		2026-05-27T09:31:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/allure-junit5-assert/2.35.1/allure-junit5-assert-2.35.1.jar returned status 404
 2.35.2		2026-05-29T16:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/allure-junit5-assert/2.35.2/allure-junit5-assert-2.35.2.jar returned status 404
+2.35.3		2026-06-25T08:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/allure-junit5-assert/2.35.3/allure-junit5-assert-2.35.3.jar returned status 404

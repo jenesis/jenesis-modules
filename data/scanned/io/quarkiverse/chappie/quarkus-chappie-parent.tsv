@@ -14,3 +14,5 @@
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/chappie/quarkus-chappie-parent/1.6.2/quarkus-chappie-parent-1.6.2.jar returned status 404
 1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/chappie/quarkus-chappie-parent/1.6.3/quarkus-chappie-parent-1.6.3.jar returned status 404
 1.7.0		2026-06-04T12:58:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/chappie/quarkus-chappie-parent/1.7.0/quarkus-chappie-parent-1.7.0.jar returned status 404
+1.7.1		2026-06-23T10:03:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/chappie/quarkus-chappie-parent/1.7.1/quarkus-chappie-parent-1.7.1.jar returned status 404
+1.7.2		2026-06-24T05:36:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/chappie/quarkus-chappie-parent/1.7.2/quarkus-chappie-parent-1.7.2.jar returned status 404

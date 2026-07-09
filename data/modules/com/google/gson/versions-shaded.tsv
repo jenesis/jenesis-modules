@@ -6025,3 +6025,4 @@
 3.25.0	named	com.aliyun	eds_aic20230930	2026-06-25T17:32:40Z	2.11.0
 7.9.0	named	com.aliyun	eas20210701	2026-06-25T17:32:56Z	2.11.0
 1.16.1	named	com.aliyun	dms20250414	2026-06-25T17:33:05Z	2.11.0
+3.37.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-01T11:03:27Z	2.10

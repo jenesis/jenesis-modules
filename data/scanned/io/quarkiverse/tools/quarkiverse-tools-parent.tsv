@@ -1,3 +1,4 @@
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/tools/quarkiverse-tools-parent/2.3.0/quarkiverse-tools-parent-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/tools/quarkiverse-tools-parent/2.3.1/quarkiverse-tools-parent-2.3.1.jar returned status 404
 2.3.2		2026-05-22T15:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/tools/quarkiverse-tools-parent/2.3.2/quarkiverse-tools-parent-2.3.2.jar returned status 404
+2.3.3		2026-07-03T09:26:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/tools/quarkiverse-tools-parent/2.3.3/quarkiverse-tools-parent-2.3.3.jar returned status 404
