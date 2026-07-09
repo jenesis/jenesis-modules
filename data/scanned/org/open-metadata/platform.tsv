@@ -3,6 +3,7 @@
 1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.1/platform-1.12.1.jar returned status 404
 1.12.10		2026-06-03T06:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.10/platform-1.12.10.jar returned status 404
 1.12.11		2026-06-12T10:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.11/platform-1.12.11.jar returned status 404
+1.12.12		2026-06-24T09:29:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.12/platform-1.12.12.jar returned status 404
 1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.2/platform-1.12.2.jar returned status 404
 1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.3/platform-1.12.3.jar returned status 404
 1.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.12.4/platform-1.12.4.jar returned status 404
@@ -14,3 +15,4 @@
 1.13.0		2026-06-08T09:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.13.0/platform-1.13.0.jar returned status 404
 1.13.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.13.0-rc1/platform-1.13.0-rc1.jar returned status 404
 1.13.0-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.13.0-snapshot/platform-1.13.0-snapshot.jar returned status 404
+1.13.1		2026-06-27T04:49:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/1.13.1/platform-1.13.1.jar returned status 404

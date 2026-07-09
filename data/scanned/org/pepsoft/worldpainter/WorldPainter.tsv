@@ -7,3 +7,5 @@
 2.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WorldPainter/2.26.1/WorldPainter-2.26.1.jar returned status 404
 2.26.2		2026-06-20T16:03:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WorldPainter/2.26.2/WorldPainter-2.26.2.jar returned status 404
 2.26.3		2026-06-21T10:04:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WorldPainter/2.26.3/WorldPainter-2.26.3.jar returned status 404
+2.26.4		2026-06-26T13:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WorldPainter/2.26.4/WorldPainter-2.26.4.jar returned status 404
+2.27.0		2026-06-27T11:08:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WorldPainter/2.27.0/WorldPainter-2.27.0.jar returned status 404

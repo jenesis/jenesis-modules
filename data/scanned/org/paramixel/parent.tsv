@@ -5,3 +5,5 @@
 6.0.0		2026-06-04T00:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/paramixel/parent/6.0.0/parent-6.0.0.jar returned status 404
 6.1.0		2026-06-09T01:59:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/paramixel/parent/6.1.0/parent-6.1.0.jar returned status 404
 6.2.0		2026-06-13T05:18:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/paramixel/parent/6.2.0/parent-6.2.0.jar returned status 404
+6.2.1		2026-06-28T05:24:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/paramixel/parent/6.2.1/parent-6.2.1.jar returned status 404
+6.2.2		2026-07-03T14:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/paramixel/parent/6.2.2/parent-6.2.2.jar returned status 404

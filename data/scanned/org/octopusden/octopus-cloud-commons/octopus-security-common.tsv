@@ -4,6 +4,7 @@
 2.0.14		2025-08-08T14:13:41Z	
 2.0.15		2025-10-28T07:40:37Z	
 2.0.16		2025-12-29T08:45:08Z	
+2.0.17		2026-07-01T13:23:43Z	
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus-cloud-commons/octopus-security-common/2.0.2/octopus-security-common-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus-cloud-commons/octopus-security-common/2.0.3/octopus-security-common-2.0.3.jar returned status 404
 2.0.4		2022-12-16T12:40:36Z	

@@ -4927,3 +4927,4 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 10.28.0.143324	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-07-02T11:48:11Z	2.14.0
 11.6.0.85952	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-07-04T07:22:51Z	2.13.2
 11.6.0.85952	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-07-04T07:22:52Z	2.13.2
+0.5.1-beta	named	org.openjproxy	ojp-jdbc-driver	2026-07-04T11:26:12Z	2.13.2

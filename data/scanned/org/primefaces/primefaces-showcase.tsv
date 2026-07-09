@@ -1,3 +1,6 @@
+11.0.24		2026-07-04T10:17:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/11.0.24/primefaces-showcase-11.0.24.jar returned status 404
+12.0.17		2026-07-03T19:16:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/12.0.17/primefaces-showcase-12.0.17.jar returned status 404
+14.0.18		2026-07-03T11:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/14.0.18/primefaces-showcase-14.0.18.jar returned status 404
 15.0.10		2025-11-10T15:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/15.0.10/primefaces-showcase-15.0.10.jar returned status 404
 15.0.11		2026-01-04T13:01:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/15.0.11/primefaces-showcase-15.0.11.jar returned status 404
 15.0.12		2026-01-12T16:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-showcase/15.0.12/primefaces-showcase-15.0.12.jar returned status 404

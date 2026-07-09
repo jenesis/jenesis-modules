@@ -1058,3 +1058,4 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.5.2.15	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-06-17T16:25:57Z	2.16.0
 1.50.0	named	io.openlineage	spark-extension-interfaces	2026-06-18T14:00:52Z	2.15.3
 0.1.0-beta.4	named	io.github.cloudstub	cloudstub-core	2026-06-22T19:07:54Z	2.19.0
+4.9.0	named	org.opencds.cqf.cql.ls	cql-ls-server	2026-06-25T21:10:39Z	2.18.6
