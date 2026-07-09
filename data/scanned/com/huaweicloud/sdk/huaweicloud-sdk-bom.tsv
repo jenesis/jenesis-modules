@@ -45,3 +45,6 @@
 3.1.199		2026-06-04T09:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.199/huaweicloud-sdk-bom-3.1.199.jar returned status 404
 3.1.200		2026-06-11T08:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.200/huaweicloud-sdk-bom-3.1.200.jar returned status 404
 3.1.201		2026-06-18T09:10:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.201/huaweicloud-sdk-bom-3.1.201.jar returned status 404
+3.1.202		2026-06-25T09:32:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.202/huaweicloud-sdk-bom-3.1.202.jar returned status 404
+3.1.203		2026-07-02T08:34:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.203/huaweicloud-sdk-bom-3.1.203.jar returned status 404
+3.1.204		2026-07-07T11:48:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huaweicloud/sdk/huaweicloud-sdk-bom/3.1.204/huaweicloud-sdk-bom-3.1.204.jar returned status 404

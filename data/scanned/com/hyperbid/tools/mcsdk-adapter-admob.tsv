@@ -6,3 +6,4 @@
 24.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hyperbid/tools/mcsdk-adapter-admob/24.9.0.0/mcsdk-adapter-admob-24.9.0.0.jar returned status 404
 24.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hyperbid/tools/mcsdk-adapter-admob/24.9.0.1/mcsdk-adapter-admob-24.9.0.1.jar returned status 404
 25.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hyperbid/tools/mcsdk-adapter-admob/25.0.0.0/mcsdk-adapter-admob-25.0.0.0.jar returned status 404
+25.4.0.0		2026-07-01T08:39:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hyperbid/tools/mcsdk-adapter-admob/25.4.0.0/mcsdk-adapter-admob-25.4.0.0.jar returned status 404

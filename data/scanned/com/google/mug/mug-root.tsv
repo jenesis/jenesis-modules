@@ -9,6 +9,9 @@
 10.4.1		2026-06-19T05:56:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.4.1/mug-root-10.4.1.jar returned status 404
 10.4.2		2026-06-19T09:16:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.4.2/mug-root-10.4.2.jar returned status 404
 10.4.3		2026-06-19T15:04:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.4.3/mug-root-10.4.3.jar returned status 404
+10.5		2026-06-25T04:09:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.5/mug-root-10.5.jar returned status 404
+10.5.1		2026-06-28T19:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.5.1/mug-root-10.5.1.jar returned status 404
+10.6		2026-07-06T01:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/10.6/mug-root-10.6.jar returned status 404
 9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/9.0/mug-root-9.0.jar returned status 404
 9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/9.1/mug-root-9.1.jar returned status 404
 9.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/mug/mug-root/9.1.2/mug-root-9.1.2.jar returned status 404
