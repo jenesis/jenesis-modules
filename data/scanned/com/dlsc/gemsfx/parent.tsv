@@ -39,3 +39,4 @@
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dlsc/gemsfx/parent/4.0.4/parent-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dlsc/gemsfx/parent/4.0.5/parent-4.0.5.jar returned status 404
 4.1.0		2026-05-27T12:39:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dlsc/gemsfx/parent/4.1.0/parent-4.1.0.jar returned status 404
+4.2.0		2026-07-01T14:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dlsc/gemsfx/parent/4.2.0/parent-4.2.0.jar returned status 404

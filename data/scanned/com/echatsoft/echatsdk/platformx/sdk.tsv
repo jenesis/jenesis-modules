@@ -11,9 +11,12 @@
 1.3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.4.2/sdk-1.3.4.2.jar returned status 404
 1.3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.5.3/sdk-1.3.5.3.jar returned status 404
 1.3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.0/sdk-1.3.6.0.jar returned status 404
+1.3.6.10		2026-06-30T14:24:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.10/sdk-1.3.6.10.jar returned status 404
+1.3.6.11		2026-07-08T03:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.11/sdk-1.3.6.11.jar returned status 404
 1.3.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.5/sdk-1.3.6.5.jar returned status 404
 1.3.6.6.SP01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.6.SP01/sdk-1.3.6.6.SP01.jar returned status 404
 1.3.6.6.SP02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.6.SP02/sdk-1.3.6.6.SP02.jar returned status 404
 1.3.6.6.SP04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.6.SP04/sdk-1.3.6.6.SP04.jar returned status 404
 1.3.6.7		2026-06-03T12:50:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.7/sdk-1.3.6.7.jar returned status 404
 1.3.6.8		2026-06-04T09:02:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.8/sdk-1.3.6.8.jar returned status 404
+1.3.6.9		2026-06-29T23:28:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/echatsoft/echatsdk/platformx/sdk/1.3.6.9/sdk-1.3.6.9.jar returned status 404

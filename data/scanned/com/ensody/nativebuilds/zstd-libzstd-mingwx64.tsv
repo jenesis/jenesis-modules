@@ -4,4 +4,5 @@
 1.5.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-mingwx64/1.5.7.6/zstd-libzstd-mingwx64-1.5.7.6.jar returned status 404
 1.5.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-mingwx64/1.5.7.7/zstd-libzstd-mingwx64-1.5.7.7.jar returned status 404
 1.5.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-mingwx64/1.5.7.8/zstd-libzstd-mingwx64-1.5.7.8.jar returned status 404
+1.5.7.9		2026-07-06T09:41:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-mingwx64/1.5.7.9/zstd-libzstd-mingwx64-1.5.7.9.jar returned status 404
 1.5.7_5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-mingwx64/1.5.7_5/zstd-libzstd-mingwx64-1.5.7_5.jar returned status 404

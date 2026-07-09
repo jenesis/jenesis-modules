@@ -1337,6 +1337,8 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.2.1.5	named	io.streamnative	buildtools	2026-06-26T04:37:58Z	3.19.0
 3.26.25	named	com.ubs-hainer	filebridge-jdbc-driver	2026-06-29T17:08:36Z	3.19.0
 8.34.0.44906	named	org.sonarsource.java	sonar-java-plugin	2026-06-30T14:33:53Z	3.20.0
+3.15.0-Java8	named	com.equinor.neqsim	neqsim	2026-07-01T13:23:41Z	3.20.0
+3.15.0	named	com.equinor.neqsim	neqsim	2026-07-01T13:25:25Z	3.20.0
 3.26.25-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-07-03T13:45:52Z	3.19.0
 4.0.10.7	named	io.streamnative	buildtools	2026-07-06T02:31:56Z	3.19.0
 4.2.1.6	named	io.streamnative	buildtools	2026-07-06T04:35:43Z	3.19.0

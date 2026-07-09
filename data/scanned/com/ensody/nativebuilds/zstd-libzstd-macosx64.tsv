@@ -10,5 +10,7 @@
 1.5.7.7	metadata	2026-01-13T16:39:15Z	
 1.5.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-macosx64/1.5.7.8/zstd-libzstd-macosx64-1.5.7.8.jar returned status 404
 1.5.7.8	metadata	2026-01-19T08:02:52Z	
+1.5.7.9		2026-07-06T09:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-macosx64/1.5.7.9/zstd-libzstd-macosx64-1.5.7.9.jar returned status 404
+1.5.7.9	metadata	2026-07-06T09:41:35Z	
 1.5.7_5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/zstd-libzstd-macosx64/1.5.7_5/zstd-libzstd-macosx64-1.5.7_5.jar returned status 404
 1.5.7_5	metadata	2026-01-12T09:48:10Z	
