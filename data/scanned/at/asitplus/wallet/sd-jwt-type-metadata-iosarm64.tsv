@@ -1,3 +1,5 @@
+6.0.0		2026-06-29T07:52:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/sd-jwt-type-metadata-iosarm64/6.0.0/sd-jwt-type-metadata-iosarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-06-29T07:52:37Z	
 6.0.0-RC1		2026-06-22T10:18:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/sd-jwt-type-metadata-iosarm64/6.0.0-RC1/sd-jwt-type-metadata-iosarm64-6.0.0-RC1.jar returned status 404
 6.0.0-RC1	metadata	2026-06-22T10:18:14Z	
 6.0.0-RC2		2026-06-23T12:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/sd-jwt-type-metadata-iosarm64/6.0.0-RC2/sd-jwt-type-metadata-iosarm64-6.0.0-RC2.jar returned status 404

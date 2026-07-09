@@ -1,3 +1,4 @@
+6.0.0		2026-06-30T09:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/compose/6.0.0/compose-6.0.0.jar returned status 404
 6.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/compose/6.0.0-beta01/compose-6.0.0-beta01.jar returned status 404
 6.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/compose/6.0.0-beta02/compose-6.0.0-beta02.jar returned status 404
 6.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/compose/6.0.0-beta03/compose-6.0.0-beta03.jar returned status 404

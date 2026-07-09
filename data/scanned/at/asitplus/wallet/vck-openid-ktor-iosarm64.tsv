@@ -70,6 +70,8 @@
 5.9.0	metadata	2025-11-03T14:16:00Z	
 5.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-openid-ktor-iosarm64/5.9.1/vck-openid-ktor-iosarm64-5.9.1.jar returned status 404
 5.9.1	metadata	2025-11-27T12:48:20Z	
+6.0.0		2026-06-29T07:52:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-openid-ktor-iosarm64/6.0.0/vck-openid-ktor-iosarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-06-29T07:52:41Z	
 6.0.0-RC1		2026-06-22T10:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-openid-ktor-iosarm64/6.0.0-RC1/vck-openid-ktor-iosarm64-6.0.0-RC1.jar returned status 404
 6.0.0-RC1	metadata	2026-06-22T10:18:14Z	
 6.0.0-RC2		2026-06-23T12:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-openid-ktor-iosarm64/6.0.0-RC2/vck-openid-ktor-iosarm64-6.0.0-RC2.jar returned status 404

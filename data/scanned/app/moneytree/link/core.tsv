@@ -42,3 +42,4 @@
 6.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/core/6.6.4/core-6.6.4.jar returned status 404
 6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/core/6.7.0/core-6.7.0.jar returned status 404
 6.7.1		2026-06-15T08:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/core/6.7.1/core-6.7.1.jar returned status 404
+6.8.0		2026-07-01T02:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moneytree/link/core/6.8.0/core-6.8.0.jar returned status 404

@@ -12,3 +12,4 @@
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/gov/qld/services/kiteworks/kiteworks_integration/2.0.3/kiteworks_integration-2.0.3.jar returned status 404
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/gov/qld/services/kiteworks/kiteworks_integration/2.0.5/kiteworks_integration-2.0.5.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/gov/qld/services/kiteworks/kiteworks_integration/2.1.0/kiteworks_integration-2.1.0.jar returned status 404
+2.1.1		2026-06-28T23:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/gov/qld/services/kiteworks/kiteworks_integration/2.1.1/kiteworks_integration-2.1.1.jar returned status 404

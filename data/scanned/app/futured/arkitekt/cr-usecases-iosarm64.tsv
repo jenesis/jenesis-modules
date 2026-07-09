@@ -1,3 +1,5 @@
+6.0.0		2026-06-30T09:12:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-iosarm64/6.0.0/cr-usecases-iosarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-06-30T09:12:19Z	
 6.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-iosarm64/6.0.0-beta02/cr-usecases-iosarm64-6.0.0-beta02.jar returned status 404
 6.0.0-beta02	metadata	2026-04-23T13:56:13Z	
 6.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/cr-usecases-iosarm64/6.0.0-beta03/cr-usecases-iosarm64-6.0.0-beta03.jar returned status 404

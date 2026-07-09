@@ -1,3 +1,5 @@
+6.0.0		2026-06-30T09:12:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/decompose-annotation-iossimulatorarm64/6.0.0/decompose-annotation-iossimulatorarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-06-30T09:12:17Z	
 6.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/decompose-annotation-iossimulatorarm64/6.0.0-beta02/decompose-annotation-iossimulatorarm64-6.0.0-beta02.jar returned status 404
 6.0.0-beta02	metadata	2026-04-23T13:56:14Z	
 6.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/futured/arkitekt/decompose-annotation-iossimulatorarm64/6.0.0-beta03/decompose-annotation-iossimulatorarm64-6.0.0-beta03.jar returned status 404
