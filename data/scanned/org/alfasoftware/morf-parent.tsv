@@ -10,3 +10,4 @@
 2.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfasoftware/morf-parent/2.30.0/morf-parent-2.30.0.jar returned status 404
 2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfasoftware/morf-parent/2.31.0/morf-parent-2.31.0.jar returned status 404
 2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfasoftware/morf-parent/2.32.0/morf-parent-2.32.0.jar returned status 404
+2.33.0		2026-06-25T10:38:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alfasoftware/morf-parent/2.33.0/morf-parent-2.33.0.jar returned status 404

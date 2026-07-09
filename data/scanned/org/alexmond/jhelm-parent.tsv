@@ -1,0 +1,9 @@
+0.1.0		2026-06-24T00:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/0.1.0/jhelm-parent-0.1.0.jar returned status 404
+0.2.0		2026-06-24T07:37:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/0.2.0/jhelm-parent-0.2.0.jar returned status 404
+0.4.0		2026-06-28T02:38:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/0.4.0/jhelm-parent-0.4.0.jar returned status 404
+0.4.1		2026-06-30T16:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/0.4.1/jhelm-parent-0.4.1.jar returned status 404
+0.6.0		2026-07-01T02:37:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/0.6.0/jhelm-parent-0.6.0.jar returned status 404
+1.0.0		2026-07-02T06:07:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/1.0.0/jhelm-parent-1.0.0.jar returned status 404
+1.0.1		2026-07-03T17:19:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/1.0.1/jhelm-parent-1.0.1.jar returned status 404
+1.0.2		2026-07-03T23:28:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/1.0.2/jhelm-parent-1.0.2.jar returned status 404
+1.1.0		2026-07-04T16:15:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alexmond/jhelm-parent/1.1.0/jhelm-parent-1.1.0.jar returned status 404

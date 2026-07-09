@@ -3,3 +3,4 @@
 2.52.0		2026-03-02T16:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/artemis/artemis-features/2.52.0/artemis-features-2.52.0.jar returned status 404
 2.53.0		2026-03-16T23:44:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/artemis/artemis-features/2.53.0/artemis-features-2.53.0.jar returned status 404
 2.54.0		2026-05-14T15:32:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/artemis/artemis-features/2.54.0/artemis-features-2.54.0.jar returned status 404
+2.55.0		2026-06-23T18:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/artemis/artemis-features/2.55.0/artemis-features-2.55.0.jar returned status 404

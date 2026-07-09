@@ -8,3 +8,4 @@
 2.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/sonar/sonar-collector/sonar-collector/2.5.40/sonar-collector-2.5.40.jar returned status 404
 2.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/sonar/sonar-collector/sonar-collector/2.5.41/sonar-collector-2.5.41.jar returned status 404
 2.5.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/sonar/sonar-collector/sonar-collector/2.5.42/sonar-collector-2.5.42.jar returned status 404
+2.5.43		2026-07-01T19:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/sonar/sonar-collector/sonar-collector/2.5.43/sonar-collector-2.5.43.jar returned status 404

@@ -3125,7 +3125,12 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.93.0	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-06-18T10:35:07Z	2.0.7
 1.0.1	named	io.github.cyber655	docling-java-cli	2026-06-19T13:18:15Z	2.0.18
 1.1.0	named	io.github.cyber655	docling-java-cli	2026-06-21T10:08:49Z	2.0.18
+2.55.0	named	org.apache.artemis	artemis-core-client-all	2026-06-23T18:14:25Z	2.0.18
+2.55.0	named	org.apache.artemis	artemis-jms-client-all	2026-06-23T18:18:58Z	2.0.18
+2.55.0	named	org.apache.artemis	artemis-jakarta-client-all	2026-06-23T18:20:56Z	2.0.18
 1.12.12	named	org.open-metadata	elasticsearch-deps	2026-06-24T09:29:41Z	2.0.4
+6.2.7	named	org.apache.activemq	activemq-all	2026-06-25T05:29:59Z	2.0.17
+5.19.8	named	org.apache.activemq	activemq-all	2026-06-25T05:58:37Z	2.0.17
 2.23.2	named	org.mustangproject	Mustang-CLI	2026-06-25T09:31:53Z	2.0.17
 1.13.1	named	org.open-metadata	elasticsearch-deps	2026-06-27T04:49:15Z	2.0.4
 2.19.6.0	named	org.opensearch	opensearch-job-scheduler-spi	2026-07-02T23:06:35Z	2.0.17
