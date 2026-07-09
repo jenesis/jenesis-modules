@@ -44,6 +44,8 @@
 8.3.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/8.3.61/gravitee-bom-8.3.61.jar returned status 404
 8.3.62		2026-06-15T08:24:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/8.3.62/gravitee-bom-8.3.62.jar returned status 404
 8.3.63		2026-06-18T15:09:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/8.3.63/gravitee-bom-8.3.63.jar returned status 404
+8.3.64		2026-06-29T06:44:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/8.3.64/gravitee-bom-8.3.64.jar returned status 404
+8.3.65		2026-07-03T09:05:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/8.3.65/gravitee-bom-8.3.65.jar returned status 404
 9.0.0		2026-06-16T14:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.0/gravitee-bom-9.0.0.jar returned status 404
 9.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.0-alpha.1/gravitee-bom-9.0.0-alpha.1.jar returned status 404
 9.0.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.0-alpha.2/gravitee-bom-9.0.0-alpha.2.jar returned status 404
@@ -54,3 +56,5 @@
 9.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.0-beta.1/gravitee-bom-9.0.0-beta.1.jar returned status 404
 9.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.0-beta.2/gravitee-bom-9.0.0-beta.2.jar returned status 404
 9.0.1		2026-06-18T15:08:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.1/gravitee-bom-9.0.1.jar returned status 404
+9.0.2		2026-06-29T06:43:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.2/gravitee-bom-9.0.2.jar returned status 404
+9.0.3		2026-07-03T09:05:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/gravitee-bom/9.0.3/gravitee-bom-9.0.3.jar returned status 404
