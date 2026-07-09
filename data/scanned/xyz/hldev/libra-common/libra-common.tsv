@@ -1,0 +1,2 @@
+1.0.0		2026-06-24T04:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/hldev/libra-common/libra-common/1.0.0/libra-common-1.0.0.jar returned status 404
+1.0.1		2026-06-24T07:45:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/hldev/libra-common/libra-common/1.0.1/libra-common-1.0.1.jar returned status 404

@@ -44,3 +44,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/feat/feat-parent/2.0.0/feat-parent-2.0.0.jar returned status 404
 2.1.0		2026-05-29T10:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/feat/feat-parent/2.1.0/feat-parent-2.1.0.jar returned status 404
 2.1.1		2026-06-13T14:43:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/feat/feat-parent/2.1.1/feat-parent-2.1.1.jar returned status 404
+2.1.2		2026-06-24T07:13:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/smartboot/feat/feat-parent/2.1.2/feat-parent-2.1.2.jar returned status 404

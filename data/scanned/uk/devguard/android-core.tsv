@@ -1,0 +1,2 @@
+1.0.1		2026-06-26T18:47:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/devguard/android-core/1.0.1/android-core-1.0.1.jar returned status 404
+1.0.2		2026-06-26T23:49:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/devguard/android-core/1.0.2/android-core-1.0.2.jar returned status 404

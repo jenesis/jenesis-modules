@@ -60,6 +60,7 @@
 1.8.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.16/player-1.8.16.jar returned status 404
 1.8.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.18/player-1.8.18.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.2/player-1.8.2.jar returned status 404
+1.8.20		2026-07-02T10:52:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.20/player-1.8.20.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.3/player-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.4/player-1.8.4.jar returned status 404
 1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/com/lig/player/1.8.5/player-1.8.5.jar returned status 404

@@ -3,3 +3,5 @@
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-flex/4.0.4/nif-cloud-flex-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-flex/4.0.5/nif-cloud-flex-4.0.5.jar returned status 404
 4.0.6-20260512			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-flex/4.0.6-20260512/nif-cloud-flex-4.0.6-20260512.jar returned status 404
+4.1.0.060701		2026-07-01T05:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-flex/4.1.0.060701/nif-cloud-flex-4.1.0.060701.jar returned status 404
+4.1.0.060702		2026-07-01T11:02:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-flex/4.1.0.060702/nif-cloud-flex-4.1.0.060702.jar returned status 404

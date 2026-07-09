@@ -1,1 +1,3 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/ceroxe/api/ceroxe-parent/2.0.0/ceroxe-parent-2.0.0.jar returned status 404
+2.0.1		2026-06-29T14:26:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/ceroxe/api/ceroxe-parent/2.0.1/ceroxe-parent-2.0.1.jar returned status 404
+2.0.2		2026-06-29T14:53:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/ceroxe/api/ceroxe-parent/2.0.2/ceroxe-parent-2.0.2.jar returned status 404

@@ -4,4 +4,5 @@
 3.1.0		2026-06-12T14:44:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/guilhermekaua/spigot-boot/spigot-boot-modules/3.1.0/spigot-boot-modules-3.1.0.jar returned status 404
 3.2.0		2026-06-14T18:24:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/guilhermekaua/spigot-boot/spigot-boot-modules/3.2.0/spigot-boot-modules-3.2.0.jar returned status 404
 3.3.0		2026-06-20T05:11:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/guilhermekaua/spigot-boot/spigot-boot-modules/3.3.0/spigot-boot-modules-3.3.0.jar returned status 404
+3.4.0		2026-06-28T04:37:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/guilhermekaua/spigot-boot/spigot-boot-modules/3.4.0/spigot-boot-modules-3.4.0.jar returned status 404
 dev		2026-06-09T17:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/guilhermekaua/spigot-boot/spigot-boot-modules/dev/spigot-boot-modules-dev.jar returned status 404

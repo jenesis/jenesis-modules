@@ -1,3 +1,7 @@
 0.0.3		2026-06-12T12:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.3/zephr-agent-runtime-0.0.3.jar returned status 404
 0.0.4		2026-06-12T12:52:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.4/zephr-agent-runtime-0.0.4.jar returned status 404
 0.0.5		2026-06-12T13:11:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.5/zephr-agent-runtime-0.0.5.jar returned status 404
+0.0.6		2026-06-21T23:08:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.6/zephr-agent-runtime-0.0.6.jar returned status 404
+0.0.7		2026-06-23T17:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.7/zephr-agent-runtime-0.0.7.jar returned status 404
+0.0.8		2026-06-23T19:28:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.8/zephr-agent-runtime-0.0.8.jar returned status 404
+0.0.9		2026-06-23T22:59:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/zephr/sdks/agent/zephr-agent-runtime/0.0.9/zephr-agent-runtime-0.0.9.jar returned status 404

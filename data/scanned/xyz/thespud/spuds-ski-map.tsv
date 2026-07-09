@@ -9,3 +9,6 @@
 2026.06.09		2026-06-10T03:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.09/spuds-ski-map-2026.06.09.jar returned status 404
 2026.06.16		2026-06-14T22:48:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.16/spuds-ski-map-2026.06.16.jar returned status 404
 2026.06.16-1		2026-06-15T05:29:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.16-1/spuds-ski-map-2026.06.16-1.jar returned status 404
+2026.06.22		2026-06-22T07:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.22/spuds-ski-map-2026.06.22.jar returned status 404
+2026.06.28		2026-06-28T20:44:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.28/spuds-ski-map-2026.06.28.jar returned status 404
+2026.06.29		2026-06-29T03:20:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/thespud/spuds-ski-map/2026.06.29/spuds-ski-map-2026.06.29.jar returned status 404

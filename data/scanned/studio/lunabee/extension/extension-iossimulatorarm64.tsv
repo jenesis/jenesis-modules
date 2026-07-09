@@ -1,4 +1,6 @@
 4.10.0		2026-05-26T12:55:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/extension/extension-iossimulatorarm64/4.10.0/extension-iossimulatorarm64-4.10.0.jar returned status 404
 4.10.0	metadata	2026-05-26T12:55:53Z	
+4.11.0		2026-06-26T12:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/extension/extension-iossimulatorarm64/4.11.0/extension-iossimulatorarm64-4.11.0.jar returned status 404
+4.11.0	metadata	2026-06-26T12:36:08Z	
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/extension/extension-iossimulatorarm64/4.9.0/extension-iossimulatorarm64-4.9.0.jar returned status 404
 4.9.0	metadata	2026-01-22T23:25:39Z	

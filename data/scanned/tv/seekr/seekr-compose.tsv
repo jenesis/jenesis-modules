@@ -1,0 +1,5 @@
+0.1.1		2026-06-28T16:14:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/seekr/seekr-compose/0.1.1/seekr-compose-0.1.1.jar returned status 404
+0.1.2		2026-06-28T16:57:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/seekr/seekr-compose/0.1.2/seekr-compose-0.1.2.jar returned status 404
+0.1.3		2026-06-29T09:15:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/seekr/seekr-compose/0.1.3/seekr-compose-0.1.3.jar returned status 404
+0.1.4		2026-06-29T16:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/seekr/seekr-compose/0.1.4/seekr-compose-0.1.4.jar returned status 404
+0.1.5		2026-06-30T09:00:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/seekr/seekr-compose/0.1.5/seekr-compose-0.1.5.jar returned status 404

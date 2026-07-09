@@ -62,6 +62,7 @@
 17.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.11.1/schemacrawler-aggregator-17.11.1.jar returned status 404
 17.11.2		2026-05-30T19:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.11.2/schemacrawler-aggregator-17.11.2.jar returned status 404
 17.11.3		2026-06-15T23:59:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.11.3/schemacrawler-aggregator-17.11.3.jar returned status 404
+17.11.4		2026-06-27T01:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.11.4/schemacrawler-aggregator-17.11.4.jar returned status 404
 17.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.2.7/schemacrawler-aggregator-17.2.7.jar returned status 404
 17.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.2.8/schemacrawler-aggregator-17.2.8.jar returned status 404
 17.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-aggregator/17.3.0/schemacrawler-aggregator-17.3.0.jar returned status 404

@@ -1,0 +1,2 @@
+0.9.0-rc.3		2026-07-03T13:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-android-deps/0.9.0-rc.3/syncforge-android-deps-0.9.0-rc.3.jar returned status 404
+0.9.0-rc.4		2026-07-03T14:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-android-deps/0.9.0-rc.4/syncforge-android-deps-0.9.0-rc.4.jar returned status 404

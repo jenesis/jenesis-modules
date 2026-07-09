@@ -44,3 +44,5 @@
 2026.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/maven/maven-parent/2026.5.8/maven-parent-2026.5.8.jar returned status 404
 2026.6.12		2026-06-12T06:00:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/maven/maven-parent/2026.6.12/maven-parent-2026.6.12.jar returned status 404
 2026.6.19		2026-06-19T06:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/maven/maven-parent/2026.6.19/maven-parent-2026.6.19.jar returned status 404
+2026.6.26		2026-06-26T05:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/maven/maven-parent/2026.6.26/maven-parent-2026.6.26.jar returned status 404
+2026.7.3		2026-07-03T04:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/maven/maven-parent/2026.7.3/maven-parent-2026.7.3.jar returned status 404

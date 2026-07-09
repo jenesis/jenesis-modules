@@ -4,3 +4,4 @@
 6.6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz.parent/6.6.3.1/dlz.parent-6.6.3.1.jar returned status 404
 6.6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz.parent/6.6.3.2/dlz.parent-6.6.3.2.jar returned status 404
 6.6.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz.parent/6.6.3.4/dlz.parent-6.6.3.4.jar returned status 404
+6.6.4		2026-07-02T05:58:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dlzio/dlz.parent/6.6.4/dlz.parent-6.6.4.jar returned status 404

@@ -4,3 +4,5 @@
 0.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/leafage/leafage-starter-parent/0.3.6/leafage-starter-parent-0.3.6.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/leafage/leafage-starter-parent/0.4.0/leafage-starter-parent-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/leafage/leafage-starter-parent/0.4.1/leafage-starter-parent-0.4.1.jar returned status 404
+0.4.2		2026-06-24T06:15:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/leafage/leafage-starter-parent/0.4.2/leafage-starter-parent-0.4.2.jar returned status 404
+0.4.3		2026-06-26T03:55:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/leafage/leafage-starter-parent/0.4.3/leafage-starter-parent-0.4.3.jar returned status 404

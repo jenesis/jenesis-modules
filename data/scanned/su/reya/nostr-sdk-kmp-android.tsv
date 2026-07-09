@@ -16,4 +16,5 @@
 0.2.9		2026-06-16T06:38:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-android/0.2.9/nostr-sdk-kmp-android-0.2.9.jar returned status 404
 0.3		2026-06-17T09:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-android/0.3/nostr-sdk-kmp-android-0.3.jar returned status 404
 0.3.1		2026-06-19T09:32:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-android/0.3.1/nostr-sdk-kmp-android-0.3.1.jar returned status 404
+0.3.2		2026-06-27T13:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-android/0.3.2/nostr-sdk-kmp-android-0.3.2.jar returned status 404
 0.44.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/su/reya/nostr-sdk-kmp-android/0.44.2/nostr-sdk-kmp-android-0.44.2.jar returned status 404

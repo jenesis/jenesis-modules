@@ -6,3 +6,5 @@
 1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/erupt/erupt/1.14.1/erupt-1.14.1.jar returned status 404
 1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/erupt/erupt/1.14.2/erupt-1.14.2.jar returned status 404
 1.14.3		2026-05-18T14:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/erupt/erupt/1.14.3/erupt-1.14.3.jar returned status 404
+2.0.0		2026-06-26T10:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/erupt/erupt/2.0.0/erupt-2.0.0.jar returned status 404
+2.0.1		2026-06-28T07:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/erupt/erupt/2.0.1/erupt-2.0.1.jar returned status 404

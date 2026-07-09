@@ -13,3 +13,5 @@
 2.2.2		2026-06-13T12:08:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/2.2.2/engage-2.2.2.jar returned status 404
 2.3.0		2026-06-18T16:58:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/2.3.0/engage-2.3.0.jar returned status 404
 2.3.1		2026-06-19T08:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/2.3.1/engage-2.3.1.jar returned status 404
+2.4.0		2026-06-27T06:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/2.4.0/engage-2.4.0.jar returned status 404
+2.5.0		2026-06-30T10:36:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage/2.5.0/engage-2.5.0.jar returned status 404
