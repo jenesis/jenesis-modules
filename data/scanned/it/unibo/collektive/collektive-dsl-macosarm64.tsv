@@ -646,3 +646,35 @@
 28.2.6-dev1b+0f96c2b4	metadata	2026-06-19T21:20:10Z	
 28.2.6-dev1c+3a21e0a1		2026-06-20T03:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1c+3a21e0a1/collektive-dsl-macosarm64-28.2.6-dev1c+3a21e0a1.jar returned status 404
 28.2.6-dev1c+3a21e0a1	metadata	2026-06-20T03:04:30Z	
+28.2.6-dev1c+75beec74		2026-06-23T23:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1c+75beec74/collektive-dsl-macosarm64-28.2.6-dev1c+75beec74.jar returned status 404
+28.2.6-dev1c+75beec74	metadata	2026-06-23T23:40:07Z	
+28.2.6-dev1c+fbce1a24		2026-06-25T19:10:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1c+fbce1a24/collektive-dsl-macosarm64-28.2.6-dev1c+fbce1a24.jar returned status 404
+28.2.6-dev1c+fbce1a24	metadata	2026-06-25T19:10:08Z	
+28.2.6-dev1d+76ffb924		2026-06-27T02:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1d+76ffb924/collektive-dsl-macosarm64-28.2.6-dev1d+76ffb924.jar returned status 404
+28.2.6-dev1d+76ffb924	metadata	2026-06-27T02:33:27Z	
+28.2.6-dev1d+b251362c		2026-06-26T03:09:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1d+b251362c/collektive-dsl-macosarm64-28.2.6-dev1d+b251362c.jar returned status 404
+28.2.6-dev1d+b251362c	metadata	2026-06-26T03:09:17Z	
+28.2.6-dev1e+7b19eedc		2026-06-27T04:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1e+7b19eedc/collektive-dsl-macosarm64-28.2.6-dev1e+7b19eedc.jar returned status 404
+28.2.6-dev1e+7b19eedc	metadata	2026-06-27T04:09:39Z	
+28.2.6-dev1f+28ded550		2026-06-27T14:58:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1f+28ded550/collektive-dsl-macosarm64-28.2.6-dev1f+28ded550.jar returned status 404
+28.2.6-dev1f+28ded550	metadata	2026-06-27T14:58:50Z	
+28.2.6-dev1f+50322319		2026-06-27T16:25:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1f+50322319/collektive-dsl-macosarm64-28.2.6-dev1f+50322319.jar returned status 404
+28.2.6-dev1f+50322319	metadata	2026-06-27T16:25:45Z	
+28.2.6-dev1f+7a5ca13a		2026-06-27T12:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1f+7a5ca13a/collektive-dsl-macosarm64-28.2.6-dev1f+7a5ca13a.jar returned status 404
+28.2.6-dev1f+7a5ca13a	metadata	2026-06-27T12:27:57Z	
+28.2.6-dev1g+79b4fb27		2026-06-27T16:23:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.2.6-dev1g+79b4fb27/collektive-dsl-macosarm64-28.2.6-dev1g+79b4fb27.jar returned status 404
+28.2.6-dev1g+79b4fb27	metadata	2026-06-27T16:23:27Z	
+28.3.0		2026-06-27T16:34:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.0/collektive-dsl-macosarm64-28.3.0.jar returned status 404
+28.3.0	metadata	2026-06-27T16:34:20Z	
+28.3.1-dev01+a307b40e		2026-06-27T17:35:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev01+a307b40e/collektive-dsl-macosarm64-28.3.1-dev01+a307b40e.jar returned status 404
+28.3.1-dev01+a307b40e	metadata	2026-06-27T17:35:54Z	
+28.3.1-dev03+48579376		2026-06-27T20:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev03+48579376/collektive-dsl-macosarm64-28.3.1-dev03+48579376.jar returned status 404
+28.3.1-dev03+48579376	metadata	2026-06-27T20:50:57Z	
+28.3.1-dev03+ada1be48		2026-06-27T20:44:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev03+ada1be48/collektive-dsl-macosarm64-28.3.1-dev03+ada1be48.jar returned status 404
+28.3.1-dev03+ada1be48	metadata	2026-06-27T20:44:08Z	
+28.3.1-dev04+d8083c01		2026-06-27T22:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev04+d8083c01/collektive-dsl-macosarm64-28.3.1-dev04+d8083c01.jar returned status 404
+28.3.1-dev04+d8083c01	metadata	2026-06-27T22:09:01Z	
+28.3.1-dev06+aa9b5f00		2026-06-29T18:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev06+aa9b5f00/collektive-dsl-macosarm64-28.3.1-dev06+aa9b5f00.jar returned status 404
+28.3.1-dev06+aa9b5f00	metadata	2026-06-29T18:41:05Z	
+28.3.1-dev07+05469477		2026-06-30T12:46:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-macosarm64/28.3.1-dev07+05469477/collektive-dsl-macosarm64-28.3.1-dev07+05469477.jar returned status 404
+28.3.1-dev07+05469477	metadata	2026-06-30T12:46:06Z	

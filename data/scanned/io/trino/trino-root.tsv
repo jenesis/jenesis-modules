@@ -3,3 +3,4 @@
 479			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/trino-root/479/trino-root-479.jar returned status 404
 480			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/trino-root/480/trino-root-480.jar returned status 404
 481			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/trino-root/481/trino-root-481.jar returned status 404
+482		2026-06-25T19:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/trino-root/482/trino-root-482.jar returned status 404

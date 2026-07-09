@@ -12,3 +12,5 @@
 15.0.2	named	org.opendaylight.yangtools	yang-validation-tool	2026-03-24T17:51:43Z	33.5.0-jre
 15.1.0	named	org.opendaylight.yangtools	yang-validation-tool	2026-04-12T18:34:51Z	33.5.0-jre
 15.1.1	named	org.opendaylight.yangtools	yang-validation-tool	2026-04-17T14:43:29Z	33.5.0-jre
+203	named	io.trino.tempto	tempto-examples	2026-06-23T14:48:10Z	33.6.0-jre
+204	named	io.trino.tempto	tempto-examples	2026-06-23T20:31:48Z	33.6.0-jre

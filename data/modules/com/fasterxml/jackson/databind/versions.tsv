@@ -4270,3 +4270,4 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.3	named	io.github.kathukyabrian	mpesa	2026-06-19T19:41:32Z	2.22.0
 0.0.3	named	com.flexemarkets	fm-ticker	2026-06-21T06:58:19Z	2.18.3
 1.1.0-RC1	named	io.strimzi	crd-generator	2026-06-22T11:17:22Z	2.21.2
+1.1.0	named	io.strimzi	crd-generator	2026-06-26T13:38:03Z	2.21.2

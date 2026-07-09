@@ -24,4 +24,5 @@
 1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/strimzi/1.0.0-RC1/strimzi-1.0.0-RC1.jar returned status 404
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/strimzi/1.0.0-RC2/strimzi-1.0.0-RC2.jar returned status 404
 1.0.1		2026-06-17T09:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/strimzi/1.0.1/strimzi-1.0.1.jar returned status 404
+1.1.0		2026-06-26T13:38:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/strimzi/1.1.0/strimzi-1.1.0.jar returned status 404
 1.1.0-RC1		2026-06-22T11:17:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/strimzi/strimzi/1.1.0-RC1/strimzi-1.1.0-RC1.jar returned status 404

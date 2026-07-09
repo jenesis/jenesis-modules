@@ -1,0 +1,2 @@
+203		2026-06-23T14:48:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/tempto/tempto-root/203/tempto-root-203.jar returned status 404
+204		2026-06-23T20:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trino/tempto/tempto-root/204/tempto-root-204.jar returned status 404
