@@ -4,3 +4,5 @@
 1.17.1		2026-05-19T16:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-quickpay-online-impl/1.17.1/data-quickpay-online-impl-1.17.1.jar returned status 404
 3.0.0		2026-05-24T16:22:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-quickpay-online-impl/3.0.0/data-quickpay-online-impl-3.0.0.jar returned status 404
 3.1.0		2026-06-09T06:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-quickpay-online-impl/3.1.0/data-quickpay-online-impl-3.1.0.jar returned status 404
+3.2.0		2026-06-25T10:53:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-quickpay-online-impl/3.2.0/data-quickpay-online-impl-3.2.0.jar returned status 404
+3.2.1		2026-06-26T13:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-quickpay-online-impl/3.2.1/data-quickpay-online-impl-3.2.1.jar returned status 404

@@ -9,3 +9,5 @@
 1.17.1		2026-05-19T16:18:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/features-webview/1.17.1/features-webview-1.17.1.jar returned status 404
 3.0.0		2026-05-24T16:22:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/features-webview/3.0.0/features-webview-3.0.0.jar returned status 404
 3.1.0		2026-06-09T06:34:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/features-webview/3.1.0/features-webview-3.1.0.jar returned status 404
+3.2.0		2026-06-25T10:53:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/features-webview/3.2.0/features-webview-3.2.0.jar returned status 404
+3.2.1		2026-06-26T13:59:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/features-webview/3.2.1/features-webview-3.2.1.jar returned status 404

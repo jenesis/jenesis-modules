@@ -10,3 +10,15 @@
 1.0.0-beta1	metadata	2026-06-18T01:56:34Z	
 1.0.0-beta2		2026-06-18T12:06:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta2/storm-orm-iosx64-1.0.0-beta2.jar returned status 404
 1.0.0-beta2	metadata	2026-06-18T12:06:28Z	
+1.0.0-beta3		2026-06-23T22:18:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta3/storm-orm-iosx64-1.0.0-beta3.jar returned status 404
+1.0.0-beta3	metadata	2026-06-23T22:18:12Z	
+1.0.0-beta4		2026-06-27T17:49:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta4/storm-orm-iosx64-1.0.0-beta4.jar returned status 404
+1.0.0-beta4	metadata	2026-06-27T17:48:59Z	
+1.0.0-beta5		2026-06-30T12:15:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta5/storm-orm-iosx64-1.0.0-beta5.jar returned status 404
+1.0.0-beta5	metadata	2026-06-30T12:15:10Z	
+1.0.0-beta6		2026-07-01T10:31:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta6/storm-orm-iosx64-1.0.0-beta6.jar returned status 404
+1.0.0-beta6	metadata	2026-07-01T10:31:29Z	
+1.0.0-beta7		2026-07-02T15:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta7/storm-orm-iosx64-1.0.0-beta7.jar returned status 404
+1.0.0-beta7	metadata	2026-07-02T15:54:10Z	
+1.0.0-beta8		2026-07-03T09:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-orm-iosx64/1.0.0-beta8/storm-orm-iosx64-1.0.0-beta8.jar returned status 404
+1.0.0-beta8	metadata	2026-07-03T09:26:18Z	

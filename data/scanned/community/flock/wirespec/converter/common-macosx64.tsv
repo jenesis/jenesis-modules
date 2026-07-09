@@ -52,3 +52,11 @@
 0.20.0-RC.1	metadata	2026-06-18T22:02:44Z	
 0.20.0-RC.2		2026-06-23T18:50:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/common-macosx64/0.20.0-RC.2/common-macosx64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:27Z	
+0.20.0-RC.3		2026-06-24T21:03:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/common-macosx64/0.20.0-RC.3/common-macosx64-0.20.0-RC.3.jar returned status 404
+0.20.0-RC.3	metadata	2026-06-24T21:03:38Z	
+0.20.0-RC.4		2026-06-24T21:40:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/common-macosx64/0.20.0-RC.4/common-macosx64-0.20.0-RC.4.jar returned status 404
+0.20.0-RC.4	metadata	2026-06-24T21:40:49Z	
+0.20.0-RC.5		2026-06-25T07:26:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/common-macosx64/0.20.0-RC.5/common-macosx64-0.20.0-RC.5.jar returned status 404
+0.20.0-RC.5	metadata	2026-06-25T07:26:03Z	
+0.20.0-RC.6		2026-07-01T19:15:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/common-macosx64/0.20.0-RC.6/common-macosx64-0.20.0-RC.6.jar returned status 404
+0.20.0-RC.6	metadata	2026-07-01T19:15:43Z	

@@ -52,3 +52,11 @@
 0.20.0-RC.1	metadata	2026-06-18T22:02:42Z	
 0.20.0-RC.2		2026-06-23T18:50:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/java-macosarm64/0.20.0-RC.2/java-macosarm64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:21Z	
+0.20.0-RC.3		2026-06-24T21:03:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/java-macosarm64/0.20.0-RC.3/java-macosarm64-0.20.0-RC.3.jar returned status 404
+0.20.0-RC.3	metadata	2026-06-24T21:03:36Z	
+0.20.0-RC.4		2026-06-24T21:40:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/java-macosarm64/0.20.0-RC.4/java-macosarm64-0.20.0-RC.4.jar returned status 404
+0.20.0-RC.4	metadata	2026-06-24T21:40:47Z	
+0.20.0-RC.5		2026-06-25T07:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/java-macosarm64/0.20.0-RC.5/java-macosarm64-0.20.0-RC.5.jar returned status 404
+0.20.0-RC.5	metadata	2026-06-25T07:25:58Z	
+0.20.0-RC.6		2026-07-01T19:15:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/java-macosarm64/0.20.0-RC.6/java-macosarm64-0.20.0-RC.6.jar returned status 404
+0.20.0-RC.6	metadata	2026-07-01T19:15:37Z	

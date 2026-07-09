@@ -371,6 +371,9 @@
 12.6.29		2026-06-22T22:45:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.29/standard-linuxx64-12.6.29.jar returned status 404
 12.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.3/standard-linuxx64-12.6.3.jar returned status 404
 12.6.30		2026-06-23T21:13:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.30/standard-linuxx64-12.6.30.jar returned status 404
+12.6.31		2026-06-26T16:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.31/standard-linuxx64-12.6.31.jar returned status 404
+12.6.32		2026-06-29T16:40:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.32/standard-linuxx64-12.6.32.jar returned status 404
+12.6.33		2026-07-05T16:37:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.33/standard-linuxx64-12.6.33.jar returned status 404
 12.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.4/standard-linuxx64-12.6.4.jar returned status 404
 12.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.5/standard-linuxx64-12.6.5.jar returned status 404
 12.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/standard-linuxx64/12.6.6/standard-linuxx64-12.6.6.jar returned status 404

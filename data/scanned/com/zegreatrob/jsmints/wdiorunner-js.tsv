@@ -1255,6 +1255,18 @@
 6.11.80	executable	2026-06-22T22:43:18Z	
 6.11.81		2026-06-23T17:29:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.81/wdiorunner-js-6.11.81.jar returned status 404
 6.11.81	executable	2026-06-23T17:29:32Z	
+6.11.82		2026-06-26T16:23:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.82/wdiorunner-js-6.11.82.jar returned status 404
+6.11.82	executable	2026-06-26T16:23:26Z	
+6.11.83		2026-06-27T16:17:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.83/wdiorunner-js-6.11.83.jar returned status 404
+6.11.83	executable	2026-06-27T16:17:41Z	
+6.11.84		2026-06-28T16:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.84/wdiorunner-js-6.11.84.jar returned status 404
+6.11.84	executable	2026-06-28T16:21:43Z	
+6.11.85		2026-06-29T17:48:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.85/wdiorunner-js-6.11.85.jar returned status 404
+6.11.85	executable	2026-06-29T17:48:10Z	
+6.11.86		2026-07-01T17:25:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.86/wdiorunner-js-6.11.86.jar returned status 404
+6.11.86	executable	2026-07-01T17:25:16Z	
+6.11.87		2026-07-02T17:03:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.87/wdiorunner-js-6.11.87.jar returned status 404
+6.11.87	executable	2026-07-02T17:03:03Z	
 6.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.11.9/wdiorunner-js-6.11.9.jar returned status 404
 6.11.9	executable	2026-03-01T15:32:20Z	
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdiorunner-js/6.2.0/wdiorunner-js-6.2.0.jar returned status 404

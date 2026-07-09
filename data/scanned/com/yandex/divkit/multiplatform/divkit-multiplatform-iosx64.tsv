@@ -62,3 +62,5 @@
 32.54.0	metadata	2026-06-15T16:29:55Z	
 32.55.0		2026-06-22T16:02:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/divkit/multiplatform/divkit-multiplatform-iosx64/32.55.0/divkit-multiplatform-iosx64-32.55.0.jar returned status 404
 32.55.0	metadata	2026-06-22T16:02:59Z	
+32.56.0		2026-06-29T16:47:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/divkit/multiplatform/divkit-multiplatform-iosx64/32.56.0/divkit-multiplatform-iosx64-32.56.0.jar returned status 404
+32.56.0	metadata	2026-06-29T16:47:28Z	
