@@ -47,6 +47,7 @@
 7.2.18.Final		2026-06-08T16:40:31Z	
 7.2.19.Final		2026-06-16T00:05:54Z	
 7.2.2.Final		2026-01-27T14:29:57Z	
+7.2.20.Final		2026-06-23T00:06:05Z	
 7.2.3.Final		2026-02-02T13:02:44Z	
 7.2.4.Final		2026-02-08T15:32:50Z	
 7.2.5.Final		2026-02-23T16:04:51Z	
@@ -54,6 +55,7 @@
 7.2.7.Final		2026-03-18T10:04:54Z	
 7.2.8.Final		2026-03-26T20:28:20Z	
 7.2.9.Final		2026-03-30T11:17:54Z	
+7.3.10.Final		2026-06-30T00:05:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.10.Final/hibernate-tools-language-7.3.10.Final.jar returned status 404
 7.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.2.Final/hibernate-tools-language-7.3.2.Final.jar returned status 404
 7.3.3.Final		2026-06-08T13:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.3.Final/hibernate-tools-language-7.3.3.Final.jar returned status 404
 7.3.4.Final		2026-06-08T14:46:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.4.Final/hibernate-tools-language-7.3.4.Final.jar returned status 404
@@ -61,3 +63,4 @@
 7.3.6.Final		2026-06-08T16:13:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.6.Final/hibernate-tools-language-7.3.6.Final.jar returned status 404
 7.3.7.Final		2026-06-08T16:37:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.7.Final/hibernate-tools-language-7.3.7.Final.jar returned status 404
 7.3.8.Final		2026-06-08T16:57:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.8.Final/hibernate-tools-language-7.3.8.Final.jar returned status 404
+7.3.9.Final		2026-06-23T00:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/tool/hibernate-tools-language/7.3.9.Final/hibernate-tools-language-7.3.9.Final.jar returned status 404
