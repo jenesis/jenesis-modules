@@ -895,4 +895,6 @@
 0.3.0	named	org.apache.flink	flink-agents-end-to-end-tests-agent-plan-compatibility	2026-06-16T07:00:32Z	2.18.2
 27.3.0	named	io.fabrikt	fabrikt	2026-06-16T10:24:46Z	2.20.1
 27.4.0	named	io.fabrikt	fabrikt	2026-06-21T21:47:09Z	2.20.1
+1.5.0-beta-1	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-22T22:51:19Z	2.18.6
 27.4.1	named	io.fabrikt	fabrikt	2026-06-23T08:57:14Z	2.20.1
+1.5.0-beta-2	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-25T14:45:09Z	2.18.6

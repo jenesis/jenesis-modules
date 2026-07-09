@@ -24,3 +24,5 @@
 1.4.0	named	org.apache.pinot	pinot-batch-ingestion-hadoop	2025-09-11T18:30:04Z	2.19.1
 1.5.0	named	org.apache.pinot	pinot-batch-ingestion-spark-2.4	2026-04-09T22:16:32Z	2.21.1
 1.5.0	named	org.apache.pinot	pinot-batch-ingestion-hadoop	2026-04-09T22:17:26Z	2.21.1
+1.5.1	named	org.apache.pinot	pinot-batch-ingestion-spark-2.4	2026-06-05T00:02:38Z	2.21.1
+1.5.1	named	org.apache.pinot	pinot-batch-ingestion-hadoop	2026-06-05T00:03:22Z	2.21.1

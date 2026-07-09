@@ -486,6 +486,7 @@
 0.298	named	com.facebook.presto	presto-spark-launcher	2026-06-12T17:26:11Z	2.37.0
 0.298.1	named	com.facebook.presto	presto-spark-launcher	2026-06-17T15:30:38Z	2.37.0
 0.4.0	named	com.salesforce.multicloudj	multicloudj-examples	2026-06-22T06:06:24Z	2.31.0
+1.38.0-3.0.0	named	org.apache.seatunnel	seatunnel-shade-calcite	2026-06-24T07:41:05Z	2.28.0
 4.2.1	named	org.checkerframework	dataflow-errorprone	2026-07-01T17:47:33Z	2.50.0
 4.2.1	named	org.checkerframework	dataflow-nullaway	2026-07-01T17:47:33Z	2.50.0
 4.2.1	named	org.checkerframework	dataflow-shaded	2026-07-01T17:47:33Z	2.50.0

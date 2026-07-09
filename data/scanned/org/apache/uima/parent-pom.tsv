@@ -11,3 +11,4 @@
 16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/16/parent-pom-16.jar returned status 404
 17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/17/parent-pom-17.jar returned status 404
 18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/18/parent-pom-18.jar returned status 404
+19		2026-06-16T11:37:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/uima/parent-pom/19/parent-pom-19.jar returned status 404

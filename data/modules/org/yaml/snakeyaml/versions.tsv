@@ -1042,6 +1042,9 @@
 3.31.0-rc7	named	org.conductoross	conductor-os-persistence-v3	2026-06-24T09:55:43Z	2.2
 3.31.0	named	org.conductoross	conductor-os-persistence-v2	2026-06-25T23:59:20Z	2.2
 3.31.0	named	org.conductoross	conductor-os-persistence-v3	2026-06-25T23:59:51Z	2.2
+5.2.2	named	org.apache.phoenix	phoenix-server-hbase-2.6	2026-06-28T07:58:05Z	2.2
+5.3.2	named	org.apache.phoenix	phoenix-server-hbase-2.6.0	2026-06-29T05:29:00Z	2.2
+5.3.2	named	org.apache.phoenix	phoenix-server-hbase-2.6	2026-06-29T06:10:37Z	2.2
 3.32.0-rc.1	named	org.conductoross	conductor-os-persistence-v2	2026-06-30T02:36:36Z	2.2
 3.32.0-rc.1	named	org.conductoross	conductor-os-persistence-v3	2026-06-30T02:37:07Z	2.2
 3.32.0-rc.2	named	org.conductoross	conductor-os-persistence-v2	2026-06-30T03:03:31Z	2.2

@@ -54,3 +54,4 @@
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/approvej/bom/1.6.0/bom-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/approvej/bom/1.6.1/bom-1.6.1.jar returned status 404
 1.6.2		2026-06-08T15:10:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/approvej/bom/1.6.2/bom-1.6.2.jar returned status 404
+1.7.0		2026-07-02T14:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/approvej/bom/1.7.0/bom-1.7.0.jar returned status 404

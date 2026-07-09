@@ -5,6 +5,7 @@
 4.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/4.12.3/axon-4.12.3.jar returned status 404
 4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/4.13.0/axon-4.13.0.jar returned status 404
 4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/4.13.1/axon-4.13.1.jar returned status 404
+4.13.2		2026-06-23T11:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/4.13.2/axon-4.13.2.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.0.0/axon-5.0.0.jar returned status 404
 5.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.0.0-M2/axon-5.0.0-M2.jar returned status 404
 5.0.0-M2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.0.0-M2.1/axon-5.0.0-M2.1.jar returned status 404
@@ -23,3 +24,5 @@
 5.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.1.0-RC2/axon-5.1.0-RC2.jar returned status 404
 5.1.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.1.0-RC3/axon-5.1.0-RC3.jar returned status 404
 5.1.1		2026-05-26T13:25:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.1.1/axon-5.1.1.jar returned status 404
+5.1.2		2026-06-24T07:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.1.2/axon-5.1.2.jar returned status 404
+5.2.0-RC1		2026-07-01T10:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.2.0-RC1/axon-5.2.0-RC1.jar returned status 404

@@ -1,3 +1,8 @@
 1.0.0		2026-05-17T18:22:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.0.0/azertio-plugin-starter-1.0.0.jar returned status 404
 1.0.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.0.0-alpha1/azertio-plugin-starter-1.0.0-alpha1.jar returned status 404
 1.1.0		2026-06-19T11:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.1.0/azertio-plugin-starter-1.1.0.jar returned status 404
+1.2.0		2026-06-24T11:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.2.0/azertio-plugin-starter-1.2.0.jar returned status 404
+1.2.1		2026-06-25T17:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.2.1/azertio-plugin-starter-1.2.1.jar returned status 404
+1.2.2		2026-06-27T17:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.2.2/azertio-plugin-starter-1.2.2.jar returned status 404
+1.2.3		2026-06-29T11:09:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.2.3/azertio-plugin-starter-1.2.3.jar returned status 404
+1.2.4		2026-07-04T19:09:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/azertio/azertio-plugin-starter/1.2.4/azertio-plugin-starter-1.2.4.jar returned status 404

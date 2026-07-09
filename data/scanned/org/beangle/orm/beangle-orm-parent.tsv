@@ -2,3 +2,4 @@
 3.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/orm/beangle-orm-parent/3.11.5/beangle-orm-parent-3.11.5.jar returned status 404
 3.11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/orm/beangle-orm-parent/3.11.6/beangle-orm-parent-3.11.6.jar returned status 404
 3.11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/orm/beangle-orm-parent/3.11.7/beangle-orm-parent-3.11.7.jar returned status 404
+3.11.8		2026-06-30T04:23:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/orm/beangle-orm-parent/3.11.8/beangle-orm-parent-3.11.8.jar returned status 404

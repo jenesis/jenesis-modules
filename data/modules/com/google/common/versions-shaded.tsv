@@ -15,4 +15,5 @@
 3.3.6	named	org.jboss.shrinkwrap.resolver	shrinkwrap-resolver-impl-maven	2026-04-27T18:45:32Z	33.5.0-jre
 1.0.0	named	io.yki.sapply	sapply-cli	2026-05-11T09:45:57Z	33.4.8-jre
 3.3.7	named	org.jboss.shrinkwrap.resolver	shrinkwrap-resolver-impl-maven	2026-05-29T18:45:21Z	33.6.0-jre
+1.5.1	named	org.apache.pinot	pinot-timeseries-m3ql	2026-06-05T00:07:16Z	33.5.0-jre
 0.1.1	named	com.hubspot	boomslang-benchmarks	2026-06-08T21:34:17Z	33.5.0-jre
