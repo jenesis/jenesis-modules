@@ -42,6 +42,7 @@
 10.9.30-beta01		2026-06-04T02:48:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/10.9.30-beta01/teamkit-ui-10.9.30-beta01.jar returned status 404
 10.9.30-beta02		2026-06-05T02:39:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/10.9.30-beta02/teamkit-ui-10.9.30-beta02.jar returned status 404
 10.9.30-beta03		2026-06-15T02:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/10.9.30-beta03/teamkit-ui-10.9.30-beta03.jar returned status 404
+10.9.31-beta01		2026-06-25T08:08:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/10.9.31-beta01/teamkit-ui-10.9.31-beta01.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/8.9.0/teamkit-ui-8.9.0.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/9.0.0/teamkit-ui-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/kit/team/teamkit-ui/9.0.1/teamkit-ui-9.0.1.jar returned status 404

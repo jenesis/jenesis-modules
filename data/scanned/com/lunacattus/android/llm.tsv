@@ -1,0 +1,2 @@
+1.0.0		2026-07-06T07:57:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lunacattus/android/llm/1.0.0/llm-1.0.0.jar returned status 404
+1.0.1		2026-07-07T05:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lunacattus/android/llm/1.0.1/llm-1.0.1.jar returned status 404

@@ -1,3 +1,4 @@
+0.135.17		2026-07-03T09:28:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.135.17/ae-plugins-pom-0.135.17.jar returned status 404
 0.140.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.140.0/ae-plugins-pom-0.140.0.jar returned status 404
 0.141.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.141.0/ae-plugins-pom-0.141.0.jar returned status 404
 0.142.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.142.0/ae-plugins-pom-0.142.0.jar returned status 404
@@ -44,3 +45,4 @@
 0.159.0		2026-06-14T14:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.159.0/ae-plugins-pom-0.159.0.jar returned status 404
 0.159.1		2026-06-15T15:15:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.159.1/ae-plugins-pom-0.159.1.jar returned status 404
 0.159.2		2026-06-21T20:46:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.159.2/ae-plugins-pom-0.159.2.jar returned status 404
+0.159.3		2026-06-28T09:40:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaeffekt/artifact/analysis/ae-plugins-pom/0.159.3/ae-plugins-pom-0.159.3.jar returned status 404

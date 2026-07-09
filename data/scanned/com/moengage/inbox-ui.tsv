@@ -26,3 +26,4 @@
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/inbox-ui/4.4.0/inbox-ui-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/inbox-ui/4.5.0/inbox-ui-4.5.0.jar returned status 404
 4.5.1		2026-06-23T11:37:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/inbox-ui/4.5.1/inbox-ui-4.5.1.jar returned status 404
+5.0.0		2026-07-07T10:10:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/inbox-ui/5.0.0/inbox-ui-5.0.0.jar returned status 404

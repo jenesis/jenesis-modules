@@ -3142,4 +3142,6 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.13.1	named	org.open-metadata	elasticsearch-deps	2026-06-27T04:49:15Z	2.0.4
 1.1.1	named	io.github.cyber655	docling-java-cli	2026-06-28T21:33:04Z	2.0.18
 0.3.7	named	io.github.wistefan	keycloak-token-status-plugin	2026-06-29T09:08:02Z	2.0.17
+7.7.7	named	com.newrelic.agent.android	instrumentation	2026-07-02T00:23:49Z	2.0.4
+7.7.7	named	com.newrelic.agent.android	instrumentation-static	2026-07-02T00:24:41Z	2.0.4
 2.19.6.0	named	org.opensearch	opensearch-job-scheduler-spi	2026-07-02T23:06:35Z	2.0.17

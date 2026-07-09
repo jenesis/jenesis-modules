@@ -3,6 +3,7 @@
 5.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.10.1/nertc-nenn-5.10.1.jar returned status 404
 5.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.10.2/nertc-nenn-5.10.2.jar returned status 404
 5.10.4		2026-06-01T09:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.10.4/nertc-nenn-5.10.4.jar returned status 404
+5.10.6		2026-06-30T06:57:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.10.6/nertc-nenn-5.10.6.jar returned status 404
 5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.3.1/nertc-nenn-5.3.1.jar returned status 404
 5.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.3.11/nertc-nenn-5.3.11.jar returned status 404
 5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.3.3/nertc-nenn-5.3.3.jar returned status 404
@@ -57,6 +58,7 @@
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.0/nertc-nenn-5.6.0.jar returned status 404
 5.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.10/nertc-nenn-5.6.10.jar returned status 404
 5.6.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.20/nertc-nenn-5.6.20.jar returned status 404
+5.6.2008		2026-06-29T06:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.2008/nertc-nenn-5.6.2008.jar returned status 404
 5.6.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.21/nertc-nenn-5.6.21.jar returned status 404
 5.6.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.22/nertc-nenn-5.6.22.jar returned status 404
 5.6.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.23/nertc-nenn-5.6.23.jar returned status 404
@@ -89,6 +91,7 @@
 5.6.5606			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.5606/nertc-nenn-5.6.5606.jar returned status 404
 5.6.5607		2026-06-01T01:35:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.5607/nertc-nenn-5.6.5607.jar returned status 404
 5.6.5608		2026-06-15T09:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.5608/nertc-nenn-5.6.5608.jar returned status 404
+5.6.5610		2026-07-07T00:46:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.5610/nertc-nenn-5.6.5610.jar returned status 404
 5.6.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.57/nertc-nenn-5.6.57.jar returned status 404
 5.6.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.6.59/nertc-nenn-5.6.59.jar returned status 404
 5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/yunxin/nertc-nenn/5.7.0/nertc-nenn-5.7.0.jar returned status 404

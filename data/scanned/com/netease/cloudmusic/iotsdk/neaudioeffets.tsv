@@ -12,4 +12,6 @@
 1.1.24-20260108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.24-20260108/neaudioeffets-1.1.24-20260108.jar returned status 404
 1.1.24-20260114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.24-20260114/neaudioeffets-1.1.24-20260114.jar returned status 404
 1.1.24-20260421			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.24-20260421/neaudioeffets-1.1.24-20260421.jar returned status 404
+1.1.24-20260629		2026-06-29T10:30:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.24-20260629/neaudioeffets-1.1.24-20260629.jar returned status 404
 1.1.24-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.24-SNAPSHOT/neaudioeffets-1.1.24-SNAPSHOT.jar returned status 404
+1.1.25-20260617		2026-06-29T10:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/iotsdk/neaudioeffets/1.1.25-20260617/neaudioeffets-1.1.25-20260617.jar returned status 404

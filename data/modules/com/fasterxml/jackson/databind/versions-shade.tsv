@@ -77,3 +77,4 @@
 3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-datasource-snowflake	2026-05-30T04:25:05Z	2.13.4.2
 3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-storage-abs	2026-05-30T04:34:00Z	2.13.4
 3.4.2	named	org.apache.dolphinscheduler	dolphinscheduler-storage-cos	2026-05-30T04:34:41Z	2.13.4
+2.4.0	named	com.oceanbase	obkv-table-client	2026-07-06T02:21:48Z	2.19.0

@@ -4,3 +4,5 @@
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optimetriks/unio/compose/charts-android/3.0.3/charts-android-3.0.3.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optimetriks/unio/compose/charts-android/3.0.5/charts-android-3.0.5.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optimetriks/unio/compose/charts-android/3.0.6/charts-android-3.0.6.jar returned status 404
+3.0.7		2026-07-01T19:01:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optimetriks/unio/compose/charts-android/3.0.7/charts-android-3.0.7.jar returned status 404
+3.0.8		2026-07-02T14:51:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optimetriks/unio/compose/charts-android/3.0.8/charts-android-3.0.8.jar returned status 404

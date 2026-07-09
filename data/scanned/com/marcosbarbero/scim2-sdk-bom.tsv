@@ -87,7 +87,15 @@
 0.8.45		2026-06-15T14:23:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.45/scim2-sdk-bom-0.8.45.jar returned status 404
 0.8.46		2026-06-15T14:23:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.46/scim2-sdk-bom-0.8.46.jar returned status 404
 0.8.47		2026-06-15T14:23:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.47/scim2-sdk-bom-0.8.47.jar returned status 404
+0.8.48		2026-07-01T08:32:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.48/scim2-sdk-bom-0.8.48.jar returned status 404
+0.8.49		2026-07-01T08:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.49/scim2-sdk-bom-0.8.49.jar returned status 404
 0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.5/scim2-sdk-bom-0.8.5.jar returned status 404
+0.8.50		2026-07-01T08:33:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.50/scim2-sdk-bom-0.8.50.jar returned status 404
+0.8.51		2026-07-01T08:37:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.51/scim2-sdk-bom-0.8.51.jar returned status 404
+0.8.52		2026-07-01T08:37:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.52/scim2-sdk-bom-0.8.52.jar returned status 404
+0.8.53		2026-07-01T08:39:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.53/scim2-sdk-bom-0.8.53.jar returned status 404
+0.8.54		2026-07-07T16:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.54/scim2-sdk-bom-0.8.54.jar returned status 404
+0.8.55		2026-07-07T16:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.55/scim2-sdk-bom-0.8.55.jar returned status 404
 0.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.6/scim2-sdk-bom-0.8.6.jar returned status 404
 0.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.7/scim2-sdk-bom-0.8.7.jar returned status 404
 0.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/marcosbarbero/scim2-sdk-bom/0.8.8/scim2-sdk-bom-0.8.8.jar returned status 404
