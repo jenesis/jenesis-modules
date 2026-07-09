@@ -48,6 +48,8 @@
 4.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.24.0/kameleoon-client-android-4.24.0.jar returned status 404
 4.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.25.0/kameleoon-client-android-4.25.0.jar returned status 404
 4.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.26.0/kameleoon-client-android-4.26.0.jar returned status 404
+4.26.1		2026-06-26T12:11:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.26.1/kameleoon-client-android-4.26.1.jar returned status 404
+4.26.2		2026-07-03T12:27:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.26.2/kameleoon-client-android-4.26.2.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.3.0/kameleoon-client-android-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.4.0/kameleoon-client-android-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kameleoon/kameleoon-client-android/4.5.0/kameleoon-client-android-4.5.0.jar returned status 404

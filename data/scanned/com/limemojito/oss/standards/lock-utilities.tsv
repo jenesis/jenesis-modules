@@ -37,3 +37,5 @@
 17.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/lock-utilities/17.0.7/lock-utilities-17.0.7.jar returned status 404
 17.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/lock-utilities/17.0.8/lock-utilities-17.0.8.jar returned status 404
 17.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/lock-utilities/17.0.9/lock-utilities-17.0.9.jar returned status 404
+18.0.282		2026-07-02T05:04:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/lock-utilities/18.0.282/lock-utilities-18.0.282.jar returned status 404
+18.0.300		2026-07-03T01:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/lock-utilities/18.0.300/lock-utilities-18.0.300.jar returned status 404

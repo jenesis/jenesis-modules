@@ -53,3 +53,6 @@
 22.0.2		2026-05-30T14:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/22.0.2/markdown-22.0.2.jar returned status 404
 22.1.0		2026-06-09T22:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/22.1.0/markdown-22.1.0.jar returned status 404
 23.0.0		2026-06-10T22:48:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/23.0.0/markdown-23.0.0.jar returned status 404
+24.0.0		2026-06-26T21:05:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/24.0.0/markdown-24.0.0.jar returned status 404
+24.0.1		2026-06-26T21:42:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/24.0.1/markdown-24.0.1.jar returned status 404
+24.1.0		2026-07-07T20:37:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/markdown/24.1.0/markdown-24.1.0.jar returned status 404

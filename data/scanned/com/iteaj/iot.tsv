@@ -7,3 +7,5 @@
 3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iteaj/iot/3.1.9/iot-3.1.9.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iteaj/iot/3.2.0/iot-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iteaj/iot/3.3.0/iot-3.3.0.jar returned status 404
+3.4.0		2026-07-03T04:55:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iteaj/iot/3.4.0/iot-3.4.0.jar returned status 404
+3.4.1		2026-07-06T12:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iteaj/iot/3.4.1/iot-3.4.1.jar returned status 404

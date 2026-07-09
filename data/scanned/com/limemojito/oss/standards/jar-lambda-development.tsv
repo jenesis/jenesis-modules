@@ -93,3 +93,5 @@
 17.0.8	aws	2026-03-09T17:46:01Z	
 17.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/jar-lambda-development/17.0.9/jar-lambda-development-17.0.9.jar returned status 404
 17.0.9	aws	2026-03-30T07:16:18Z	
+18.0.282		2026-07-02T05:04:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/jar-lambda-development/18.0.282/jar-lambda-development-18.0.282.jar returned status 404
+18.0.300		2026-07-03T01:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/jar-lambda-development/18.0.300/jar-lambda-development-18.0.300.jar returned status 404

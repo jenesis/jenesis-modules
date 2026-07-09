@@ -154,3 +154,5 @@
 6.0.4		2026-06-22T14:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android/6.0.4/android-6.0.4.jar returned status 404
 7.0.0		2026-06-03T09:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android/7.0.0/android-7.0.0.jar returned status 404
 7.0.1		2026-06-18T12:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android/7.0.1/android-7.0.1.jar returned status 404
+7.0.2		2026-06-23T08:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android/7.0.2/android-7.0.2.jar returned status 404
+7.0.3		2026-06-30T15:16:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/indigitall/android/7.0.3/android-7.0.3.jar returned status 404
