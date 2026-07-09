@@ -1,0 +1,10 @@
+0.22.0		2026-07-01T20:26:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.22.0/kuml-core-expr-js-0.22.0.jar returned status 404
+0.23.0		2026-07-02T19:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.23.0/kuml-core-expr-js-0.23.0.jar returned status 404
+0.23.1		2026-07-03T06:18:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.23.1/kuml-core-expr-js-0.23.1.jar returned status 404
+0.23.2		2026-07-03T16:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.23.2/kuml-core-expr-js-0.23.2.jar returned status 404
+0.24.0		2026-07-04T22:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.0/kuml-core-expr-js-0.24.0.jar returned status 404
+0.24.1		2026-07-05T05:59:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.1/kuml-core-expr-js-0.24.1.jar returned status 404
+0.24.3		2026-07-05T09:09:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.3/kuml-core-expr-js-0.24.3.jar returned status 404
+0.24.4		2026-07-05T15:50:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.4/kuml-core-expr-js-0.24.4.jar returned status 404
+0.24.5		2026-07-05T16:58:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.5/kuml-core-expr-js-0.24.5.jar returned status 404
+0.24.6		2026-07-05T18:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-expr-js/0.24.6/kuml-core-expr-js-0.24.6.jar returned status 404

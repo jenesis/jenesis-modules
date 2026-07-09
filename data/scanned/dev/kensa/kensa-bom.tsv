@@ -54,6 +54,8 @@
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.7.1/kensa-bom-0.7.1.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.0/kensa-bom-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.1/kensa-bom-0.8.1.jar returned status 404
+0.8.10		2026-07-01T09:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.10/kensa-bom-0.8.10.jar returned status 404
+0.8.11		2026-07-05T11:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.11/kensa-bom-0.8.11.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.2/kensa-bom-0.8.2.jar returned status 404
 0.8.3		2026-05-21T09:30:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.3/kensa-bom-0.8.3.jar returned status 404
 0.8.4		2026-05-23T11:25:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.4/kensa-bom-0.8.4.jar returned status 404
@@ -61,3 +63,4 @@
 0.8.6		2026-06-02T12:49:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.6/kensa-bom-0.8.6.jar returned status 404
 0.8.7		2026-06-04T10:33:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.7/kensa-bom-0.8.7.jar returned status 404
 0.8.8		2026-06-14T13:52:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.8/kensa-bom-0.8.8.jar returned status 404
+0.8.9		2026-06-28T10:21:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kensa/kensa-bom/0.8.9/kensa-bom-0.8.9.jar returned status 404

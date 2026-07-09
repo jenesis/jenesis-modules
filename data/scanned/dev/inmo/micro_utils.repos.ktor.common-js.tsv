@@ -192,6 +192,7 @@
 0.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.repos.ktor.common-js/0.29.2/micro_utils.repos.ktor.common-js-0.29.2.jar returned status 404
 0.29.3		2026-05-21T15:35:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.repos.ktor.common-js/0.29.3/micro_utils.repos.ktor.common-js-0.29.3.jar returned status 404
 0.29.4		2026-05-23T12:25:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.repos.ktor.common-js/0.29.4/micro_utils.repos.ktor.common-js-0.29.4.jar returned status 404
+0.30.0		2026-06-29T10:49:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.repos.ktor.common-js/0.30.0/micro_utils.repos.ktor.common-js-0.30.0.jar returned status 404
 0.4.24		2021-02-06T05:33:46Z	
 0.4.25		2021-02-11T09:52:29Z	
 0.4.26		2021-02-21T16:16:01Z	

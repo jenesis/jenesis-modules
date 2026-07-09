@@ -1,1 +1,4 @@
 2.1.0		2026-06-13T18:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-wasm-wasi/2.1.0/kompress-gzip-wasm-wasi-2.1.0.jar returned status 404
+2.2.0		2026-06-29T19:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-wasm-wasi/2.2.0/kompress-gzip-wasm-wasi-2.2.0.jar returned status 404
+2.3.0		2026-07-05T01:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-wasm-wasi/2.3.0/kompress-gzip-wasm-wasi-2.3.0.jar returned status 404
+2.3.1		2026-07-06T01:00:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kompress/kompress-gzip-wasm-wasi/2.3.1/kompress-gzip-wasm-wasi-2.3.1.jar returned status 404
