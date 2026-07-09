@@ -969,3 +969,5 @@
 1.122.0	named	no.entur	schema2proto-lib	2026-06-15T13:07:06Z	2.22.0
 0.0.27	named	io.github.liquid-java	liquidjava-verifier	2026-06-21T22:41:04Z	2.14.0
 1.2.0	named	com.jfrog	maven-dep-tree	2026-06-24T11:05:39Z	2.14.0
+2.17.0.6211	named	org.sonarsource.flex	sslr-flex-toolkit	2026-06-26T14:30:17Z	2.22.0
+5.24.0.34324	named	org.sonarsource.python	sonar-python-plugin	2026-06-30T14:04:56Z	2.21.0

@@ -2,3 +2,11 @@
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/3.0.6/vpnprotocols-sstp-3.0.6.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/4.0.0/vpnprotocols-sstp-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/4.0.1/vpnprotocols-sstp-4.0.1.jar returned status 404
+5.0.0		2026-06-22T13:21:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/5.0.0/vpnprotocols-sstp-5.0.0.jar returned status 404
+5.0.1		2026-06-22T15:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/5.0.1/vpnprotocols-sstp-5.0.1.jar returned status 404
+6.0.0		2026-06-26T12:26:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.0/vpnprotocols-sstp-6.0.0.jar returned status 404
+6.0.1		2026-06-26T22:24:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.1/vpnprotocols-sstp-6.0.1.jar returned status 404
+6.0.2		2026-06-27T10:05:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.2/vpnprotocols-sstp-6.0.2.jar returned status 404
+6.0.3		2026-06-27T11:40:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.3/vpnprotocols-sstp-6.0.3.jar returned status 404
+6.0.4		2026-06-27T15:38:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.4/vpnprotocols-sstp-6.0.4.jar returned status 404
+6.0.5		2026-06-28T13:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-sstp/6.0.5/vpnprotocols-sstp-6.0.5.jar returned status 404

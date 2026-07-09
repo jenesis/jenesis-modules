@@ -5,3 +5,5 @@
 0.6.2		2026-05-28T16:38:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-mingwx64/0.6.2/redux-kotlin-mingwx64-0.6.2.jar returned status 404
 1.0.0-alpha01		2026-06-17T10:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-mingwx64/1.0.0-alpha01/redux-kotlin-mingwx64-1.0.0-alpha01.jar returned status 404
 1.0.0-alpha02		2026-06-19T21:17:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-mingwx64/1.0.0-alpha02/redux-kotlin-mingwx64-1.0.0-alpha02.jar returned status 404
+1.0.0-alpha03		2026-06-23T15:37:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-mingwx64/1.0.0-alpha03/redux-kotlin-mingwx64-1.0.0-alpha03.jar returned status 404
+1.0.0-alpha04		2026-07-02T17:04:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reduxkotlin/redux-kotlin-mingwx64/1.0.0-alpha04/redux-kotlin-mingwx64-1.0.0-alpha04.jar returned status 404

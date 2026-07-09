@@ -1,3 +1,4 @@
+23.5		2026-06-30T20:44:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sakaiproject/base/23.5/base-23.5.jar returned status 404
 25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sakaiproject/base/25.0/base-25.0.jar returned status 404
 25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sakaiproject/base/25.1/base-25.1.jar returned status 404
 25.2		2026-06-02T19:56:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sakaiproject/base/25.2/base-25.2.jar returned status 404

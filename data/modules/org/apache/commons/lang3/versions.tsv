@@ -1330,3 +1330,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 1.50.0	named	io.openlineage	openlineage-spark_2.13	2026-06-18T14:55:43Z	3.18.0
 1.0.1-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-22T06:32:09Z	3.19.0
 0.1.8	named	de.grobmeier.json	jjson	2026-06-23T12:27:52Z	3.20.0
+8.34.0.44906	named	org.sonarsource.java	sonar-java-plugin	2026-06-30T14:33:53Z	3.20.0
