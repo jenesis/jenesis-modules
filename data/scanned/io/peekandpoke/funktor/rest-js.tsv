@@ -18,6 +18,7 @@
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.107.0/rest-js-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.107.1/rest-js-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.107.2/rest-js-0.107.2.jar returned status 404
+0.108.0		2026-06-25T08:19:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.108.0/rest-js-0.108.0.jar returned status 404
 0.86.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.86.0/rest-js-0.86.0.jar returned status 404
 0.87.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.87.0/rest-js-0.87.0.jar returned status 404
 0.88.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/funktor/rest-js/0.88.1/rest-js-0.88.1.jar returned status 404

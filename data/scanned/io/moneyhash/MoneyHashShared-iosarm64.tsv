@@ -10,6 +10,8 @@
 0.1.1011	metadata	2023-11-15T00:54:04Z	
 0155776			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/0155776/MoneyHashShared-iosarm64-0155776.jar returned status 404
 0155776	metadata	2025-12-02T13:50:39Z	
+01d4e8c		2026-06-28T16:24:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/01d4e8c/MoneyHashShared-iosarm64-01d4e8c.jar returned status 404
+01d4e8c	metadata	2026-06-28T16:24:52Z	
 073558c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/073558c/MoneyHashShared-iosarm64-073558c.jar returned status 404
 073558c	metadata	2025-09-28T17:23:33Z	
 078c3c5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/078c3c5/MoneyHashShared-iosarm64-078c3c5.jar returned status 404
@@ -100,8 +102,12 @@
 4ed3328	metadata	2024-09-29T22:19:56Z	
 51be56e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/51be56e/MoneyHashShared-iosarm64-51be56e.jar returned status 404
 51be56e	metadata	2026-04-27T11:34:51Z	
+528537c		2026-06-28T14:48:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/528537c/MoneyHashShared-iosarm64-528537c.jar returned status 404
+528537c	metadata	2026-06-28T14:48:49Z	
 55a4a48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/55a4a48/MoneyHashShared-iosarm64-55a4a48.jar returned status 404
 55a4a48	metadata	2025-07-23T13:25:11Z	
+55a72c6		2026-06-30T16:10:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/55a72c6/MoneyHashShared-iosarm64-55a72c6.jar returned status 404
+55a72c6	metadata	2026-06-30T16:10:28Z	
 562e575			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/562e575/MoneyHashShared-iosarm64-562e575.jar returned status 404
 562e575	metadata	2025-10-14T10:07:51Z	
 566be7f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/566be7f/MoneyHashShared-iosarm64-566be7f.jar returned status 404
@@ -122,12 +128,18 @@
 6050348	metadata	2025-01-19T16:05:53Z	
 61d15ab			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/61d15ab/MoneyHashShared-iosarm64-61d15ab.jar returned status 404
 61d15ab	metadata	2024-11-27T15:04:35Z	
+6447960		2026-06-24T13:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/6447960/MoneyHashShared-iosarm64-6447960.jar returned status 404
+6447960	metadata	2026-06-24T13:52:58Z	
 67a7365			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/67a7365/MoneyHashShared-iosarm64-67a7365.jar returned status 404
 67a7365	metadata	2024-10-27T13:09:53Z	
 6843a3d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/6843a3d/MoneyHashShared-iosarm64-6843a3d.jar returned status 404
 6843a3d	metadata	2024-12-08T11:46:27Z	
 68c6142			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/68c6142/MoneyHashShared-iosarm64-68c6142.jar returned status 404
 68c6142	metadata	2025-07-07T15:32:15Z	
+68d0fc7		2026-06-29T11:38:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/68d0fc7/MoneyHashShared-iosarm64-68d0fc7.jar returned status 404
+68d0fc7	metadata	2026-06-29T11:38:27Z	
+6bfd688		2026-06-25T18:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/6bfd688/MoneyHashShared-iosarm64-6bfd688.jar returned status 404
+6bfd688	metadata	2026-06-25T18:15:59Z	
 7074869			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/7074869/MoneyHashShared-iosarm64-7074869.jar returned status 404
 7074869	metadata	2024-10-01T13:22:07Z	
 73930d8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/73930d8/MoneyHashShared-iosarm64-73930d8.jar returned status 404
@@ -176,6 +188,8 @@ ac37d9a			IOException: Tail request on https://maven-central.storage-download.go
 ac37d9a	metadata	2024-11-24T13:40:04Z	
 adc5b67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/adc5b67/MoneyHashShared-iosarm64-adc5b67.jar returned status 404
 adc5b67	metadata	2024-11-14T15:13:38Z	
+aee4e3f		2026-06-25T19:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/aee4e3f/MoneyHashShared-iosarm64-aee4e3f.jar returned status 404
+aee4e3f	metadata	2026-06-25T19:50:46Z	
 b032e2c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/b032e2c/MoneyHashShared-iosarm64-b032e2c.jar returned status 404
 b032e2c	metadata	2025-07-23T15:18:31Z	
 b040eb5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iosarm64/b040eb5/MoneyHashShared-iosarm64-b040eb5.jar returned status 404

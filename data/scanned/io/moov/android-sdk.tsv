@@ -35,6 +35,8 @@
 0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.21.2/android-sdk-0.21.2.jar returned status 404
 0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.22.0/android-sdk-0.22.0.jar returned status 404
 0.22.1		2026-06-16T19:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.22.1/android-sdk-0.22.1.jar returned status 404
+0.23.0		2026-06-23T18:26:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.23.0/android-sdk-0.23.0.jar returned status 404
+0.23.1		2026-06-24T20:31:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.23.1/android-sdk-0.23.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moov/android-sdk/0.3.0/android-sdk-0.3.0.jar returned status 404
 0.3.0	debug-javadoc	2025-02-10T16:55:59Z	
 0.3.0	release-javadoc	2025-02-10T16:55:59Z	

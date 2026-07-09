@@ -1,1 +1,2 @@
 1.7.0		2026-06-10T21:02:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/namastack/namastack-outbox-bom/1.7.0/namastack-outbox-bom-1.7.0.jar returned status 404
+1.7.1		2026-06-26T08:01:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/namastack/namastack-outbox-bom/1.7.1/namastack-outbox-bom-1.7.1.jar returned status 404

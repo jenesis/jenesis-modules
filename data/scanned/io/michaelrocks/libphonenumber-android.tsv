@@ -120,6 +120,8 @@
 9.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.30/libphonenumber-android-9.0.30.jar returned status 404
 9.0.31		2026-05-22T18:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.31/libphonenumber-android-9.0.31.jar returned status 404
 9.0.32		2026-06-06T19:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.32/libphonenumber-android-9.0.32.jar returned status 404
+9.0.33		2026-07-05T17:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.33/libphonenumber-android-9.0.33.jar returned status 404
+9.0.34		2026-07-05T17:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.34/libphonenumber-android-9.0.34.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.4/libphonenumber-android-9.0.4.jar returned status 404
 9.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.5/libphonenumber-android-9.0.5.jar returned status 404
 9.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/michaelrocks/libphonenumber-android/9.0.6/libphonenumber-android-9.0.6.jar returned status 404

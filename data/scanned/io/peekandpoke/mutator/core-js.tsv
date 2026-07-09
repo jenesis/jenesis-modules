@@ -18,6 +18,7 @@
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.107.0/core-js-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.107.1/core-js-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.107.2/core-js-0.107.2.jar returned status 404
+0.108.0		2026-06-25T08:19:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.108.0/core-js-0.108.0.jar returned status 404
 0.92.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.92.0/core-js-0.92.0.jar returned status 404
 0.92.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.92.1/core-js-0.92.1.jar returned status 404
 0.93.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/mutator/core-js/0.93.0/core-js-0.93.0.jar returned status 404

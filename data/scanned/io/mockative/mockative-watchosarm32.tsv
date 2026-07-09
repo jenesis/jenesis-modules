@@ -60,3 +60,5 @@
 3.3.0	metadata	2026-05-13T17:00:24Z	
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mockative/mockative-watchosarm32/3.3.1/mockative-watchosarm32-3.3.1.jar returned status 404
 3.3.1	metadata	2026-05-15T15:12:37Z	
+3.3.2		2026-06-26T09:50:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mockative/mockative-watchosarm32/3.3.2/mockative-watchosarm32-3.3.2.jar returned status 404
+3.3.2	metadata	2026-06-26T09:50:34Z	

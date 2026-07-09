@@ -18,6 +18,7 @@
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.107.0/addons-browserdetect-js-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.107.1/addons-browserdetect-js-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.107.2/addons-browserdetect-js-0.107.2.jar returned status 404
+0.108.0		2026-06-25T08:19:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.108.0/addons-browserdetect-js-0.108.0.jar returned status 404
 0.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.16.2/addons-browserdetect-js-0.16.2.jar returned status 404
 0.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.16.3/addons-browserdetect-js-0.16.3.jar returned status 404
 0.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-browserdetect-js/0.16.4/addons-browserdetect-js-0.16.4.jar returned status 404

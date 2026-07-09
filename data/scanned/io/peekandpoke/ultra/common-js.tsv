@@ -18,6 +18,7 @@
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.107.0/common-js-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.107.1/common-js-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.107.2/common-js-0.107.2.jar returned status 404
+0.108.0		2026-06-25T08:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.108.0/common-js-0.108.0.jar returned status 404
 0.79.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.79.0/common-js-0.79.0.jar returned status 404
 0.80.0.3-kotlin2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.80.0.3-kotlin2.1/common-js-0.80.0.3-kotlin2.1.jar returned status 404
 0.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/common-js/0.81.0/common-js-0.81.0.jar returned status 404

@@ -1,5 +1,7 @@
 0.10.0		2026-06-15T19:10:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-json-iosx64/0.10.0/maryk-json-iosx64-0.10.0.jar returned status 404
 0.10.0	metadata	2026-06-15T19:10:10Z	
+0.11.0		2026-07-05T08:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-json-iosx64/0.11.0/maryk-json-iosx64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-07-05T08:25:36Z	
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-json-iosx64/0.2/maryk-json-iosx64-0.2.jar returned status 404
 0.2	metadata	2023-12-10T19:35:59Z	
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-json-iosx64/0.3/maryk-json-iosx64-0.3.jar returned status 404

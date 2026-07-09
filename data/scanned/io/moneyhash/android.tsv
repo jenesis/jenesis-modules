@@ -125,6 +125,10 @@
 4.0.21-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.21-cp/android-4.0.21-cp.jar returned status 404
 4.0.22		2026-06-15T12:20:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.22/android-4.0.22.jar returned status 404
 4.0.22-cp		2026-06-15T12:20:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.22-cp/android-4.0.22-cp.jar returned status 404
+4.0.23		2026-06-29T13:31:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.23/android-4.0.23.jar returned status 404
+4.0.23-cp		2026-06-29T13:31:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.23-cp/android-4.0.23-cp.jar returned status 404
+4.0.24		2026-07-01T12:28:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.24/android-4.0.24.jar returned status 404
+4.0.24-cp		2026-07-01T12:28:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.24-cp/android-4.0.24-cp.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3/android-4.0.3.jar returned status 404
 4.0.3-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3-cp/android-4.0.3-cp.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.4/android-4.0.4.jar returned status 404
@@ -210,7 +214,9 @@ ad08437			IOException: Tail request on https://maven-central.storage-download.go
 ad9c700			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/ad9c700/android-ad9c700.jar returned status 404
 ae241c9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/ae241c9/android-ae241c9.jar returned status 404
 b02a441			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/b02a441/android-b02a441.jar returned status 404
+b5ac1b9		2026-06-24T16:13:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/b5ac1b9/android-b5ac1b9.jar returned status 404
 b5b76c3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/b5b76c3/android-b5b76c3.jar returned status 404
+b60cc71		2026-06-28T15:12:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/b60cc71/android-b60cc71.jar returned status 404
 bb5b6bc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/bb5b6bc/android-bb5b6bc.jar returned status 404
 bb630d1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/bb630d1/android-bb630d1.jar returned status 404
 bc01215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/bc01215/android-bc01215.jar returned status 404
@@ -218,9 +224,11 @@ be5eb08			IOException: Tail request on https://maven-central.storage-download.go
 c5c01ac			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/c5c01ac/android-c5c01ac.jar returned status 404
 c72f615			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/c72f615/android-c72f615.jar returned status 404
 c7ab301			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/c7ab301/android-c7ab301.jar returned status 404
+cc69de0		2026-06-25T20:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/cc69de0/android-cc69de0.jar returned status 404
 cf66091			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/cf66091/android-cf66091.jar returned status 404
 d36a0fb			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/d36a0fb/android-d36a0fb.jar returned status 404
 d3d9493			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/d3d9493/android-d3d9493.jar returned status 404
+d9ed291		2026-06-28T16:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/d9ed291/android-d9ed291.jar returned status 404
 db31700			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/db31700/android-db31700.jar returned status 404
 dcb0049			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/dcb0049/android-dcb0049.jar returned status 404
 ddeqormxrkofr			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/ddeqormxrkofr/android-ddeqormxrkofr.jar returned status 404

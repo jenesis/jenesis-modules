@@ -18,6 +18,7 @@
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.107.0/slumber-js-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.107.1/slumber-js-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.107.2/slumber-js-0.107.2.jar returned status 404
+0.108.0		2026-06-25T08:19:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.108.0/slumber-js-0.108.0.jar returned status 404
 0.85.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.85.0/slumber-js-0.85.0.jar returned status 404
 0.85.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.85.1/slumber-js-0.85.1.jar returned status 404
 0.86.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/slumber-js/0.86.0/slumber-js-0.86.0.jar returned status 404
