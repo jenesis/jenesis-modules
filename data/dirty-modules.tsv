@@ -5047,3 +5047,17 @@ com.sqlapp.gradle.plugin
 com.sqlapp.core
 com.sqlapp.command
 com.fasterxml.jackson.dataformat.xml
+tools.jackson.databind
+com.datastax.oss.driver.tests.infrastructure
+com.datastax.oss.driver.querybuilder
+com.datastax.oss.driver.mapper.runtime
+com.datastax.oss.driver.mapper.processor
+com.datastax.oss.driver.core
+lombok
+dev.kastle.webrtc
+com.saga_it.webrtc.natives.windows.x86_64
+com.saga_it.webrtc.natives.windows.aarch64
+com.saga_it.webrtc.natives.macos.x86_64
+com.saga_it.webrtc.natives.macos.aarch64
+com.saga_it.webrtc.natives.linux.x86_64
+com.saga_it.webrtc.natives.linux.aarch64

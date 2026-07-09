@@ -132,6 +132,10 @@
 1.0.1-kotlin-2.2.20-Beta1	metadata	2025-07-13T11:36:38Z	
 1.0.10		2026-06-14T09:38:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/nsexception-kt-core-watchossimulatorarm64/1.0.10/nsexception-kt-core-watchossimulatorarm64-1.0.10.jar returned status 404
 1.0.10	metadata	2026-06-14T09:38:09Z	
+1.0.10-kotlin-2.4.10-RC		2026-06-28T18:44:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/nsexception-kt-core-watchossimulatorarm64/1.0.10-kotlin-2.4.10-RC/nsexception-kt-core-watchossimulatorarm64-1.0.10-kotlin-2.4.10-RC.jar returned status 404
+1.0.10-kotlin-2.4.10-RC	metadata	2026-06-28T18:44:03Z	
+1.0.10-kotlin-2.4.20-Beta1		2026-07-05T09:24:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/nsexception-kt-core-watchossimulatorarm64/1.0.10-kotlin-2.4.20-Beta1/nsexception-kt-core-watchossimulatorarm64-1.0.10-kotlin-2.4.20-Beta1.jar returned status 404
+1.0.10-kotlin-2.4.20-Beta1	metadata	2026-07-05T09:24:40Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/nsexception-kt-core-watchossimulatorarm64/1.0.2/nsexception-kt-core-watchossimulatorarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2025-08-03T12:39:55Z	
 1.0.2-kotlin-2.2.10-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/nsexception-kt-core-watchossimulatorarm64/1.0.2-kotlin-2.2.10-RC2/nsexception-kt-core-watchossimulatorarm64-1.0.2-kotlin-2.2.10-RC2.jar returned status 404
