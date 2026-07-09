@@ -18,8 +18,10 @@
 7.0.0-M2		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M2/felix-7.0.0-M2.jar returned status 404
 7.0.0-M3		2023-01-19T19:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M3/felix-7.0.0-M3.jar returned status 404
 7.0.0-M4		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M4/felix-7.0.0-M4.jar returned status 404
+7.0.26		2026-06-27T19:57:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.26/felix-7.0.26.jar returned status 404
 7.1.0		2025-12-05T02:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.0/felix-7.1.0.jar returned status 404
 7.1.0-M1		2025-10-01T09:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.0-M1/felix-7.1.0-M1.jar returned status 404
+7.1.1		2026-07-01T23:51:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.1/felix-7.1.1.jar returned status 404
 8.0.0		2026-02-04T18:25:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0/felix-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH		2025-12-18T11:25:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-DONTPUBLISH/felix-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-M13		2025-10-03T11:09:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M13/felix-8.0.0-M13.jar returned status 404

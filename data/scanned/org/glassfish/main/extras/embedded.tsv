@@ -12,8 +12,10 @@
 7.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.0.0-M2/embedded-7.0.0-M2.jar returned status 404
 7.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.0.0-M3/embedded-7.0.0-M3.jar returned status 404
 7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.0.0-M4/embedded-7.0.0-M4.jar returned status 404
+7.0.26		2026-06-27T19:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.0.26/embedded-7.0.26.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.1.0/embedded-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.1.0-M1/embedded-7.1.0-M1.jar returned status 404
+7.1.1		2026-07-01T23:51:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/7.1.1/embedded-7.1.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/8.0.0/embedded-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/8.0.0-DONTPUBLISH/embedded-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-M13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/extras/embedded/8.0.0-M13/embedded-8.0.0-M13.jar returned status 404

@@ -326,3 +326,5 @@
 2.18.8	named	com.fasterxml.jackson.module	jackson-module-jakarta-xmlbind-annotations	2026-05-29T00:50:18Z	2.18.8
 2.21.4	named	com.fasterxml.jackson.module	jackson-module-jakarta-xmlbind-annotations	2026-05-29T04:26:20Z	2.21.4
 2.22.0	named	com.fasterxml.jackson.module	jackson-module-jakarta-xmlbind-annotations	2026-06-01T00:32:09Z	2.22.0
+7.0.26	named	org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	2026-06-27T19:57:48Z	2.22.0
+7.1.1	named	org.glassfish.main.jackson.module	jackson-module-jakarta-xmlbind-annotations	2026-07-01T23:51:22Z	2.22.0

@@ -1,5 +1,6 @@
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/7.1.0/microprofile-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/7.1.0-M1/microprofile-7.1.0-M1.jar returned status 404
+7.1.1		2026-07-01T23:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/7.1.1/microprofile-7.1.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/8.0.0/microprofile-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/8.0.0-DONTPUBLISH/microprofile-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-M13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/microprofile/8.0.0-M13/microprofile-8.0.0-M13.jar returned status 404

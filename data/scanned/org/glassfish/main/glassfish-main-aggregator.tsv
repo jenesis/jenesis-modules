@@ -18,6 +18,8 @@
 7.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/7.0.0-M2/glassfish-main-aggregator-7.0.0-M2.jar returned status 404
 7.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/7.0.0-M3/glassfish-main-aggregator-7.0.0-M3.jar returned status 404
 7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/7.0.0-M4/glassfish-main-aggregator-7.0.0-M4.jar returned status 404
+7.0.26		2026-06-27T19:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/7.0.26/glassfish-main-aggregator-7.0.26.jar returned status 404
+7.1.1		2026-07-01T23:51:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/7.1.1/glassfish-main-aggregator-7.1.1.jar returned status 404
 8.0.0-DONTPUBLISH			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/8.0.0-DONTPUBLISH/glassfish-main-aggregator-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/8.0.1/glassfish-main-aggregator-8.0.1.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/glassfish-main-aggregator/8.0.2/glassfish-main-aggregator-8.0.2.jar returned status 404

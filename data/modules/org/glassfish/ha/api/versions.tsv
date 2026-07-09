@@ -1,14 +1,14 @@
+3.1.13	named	org.glassfish.ha	ha-api	2021-04-06T15:02:48Z	3.1.13
+6.2.2	named	org.glassfish.main.extras	glassfish-embedded-all	2021-10-01T12:27:39Z	3.1.13
 6.2.3	named	org.glassfish.main.extras	glassfish-embedded-all	2021-11-18T16:40:58Z	3.1.13
 7.0.0-M1	named	org.glassfish.main.extras	glassfish-embedded-all	2021-12-29T16:47:08Z	3.1.13
-6.2.2	named	org.glassfish.main.extras	glassfish-embedded-all	2021-10-01T12:27:39Z	3.1.13
 6.2.4	named	org.glassfish.main.extras	glassfish-embedded-all	2022-01-09T17:53:26Z	3.1.13
-7.0.0-M10	named	org.glassfish.main.extras	glassfish-embedded-all	2022-11-21T00:07:34Z	3.1.13
-7.0.0-M4	named	org.glassfish.main.extras	glassfish-embedded-all	2022-04-11T15:05:38Z	3.1.13
-7.0.0-M2	named	org.glassfish.main.extras	glassfish-embedded-all	2022-02-24T23:53:20Z	3.1.13
-7.0.0	named	org.glassfish.main.extras	glassfish-embedded-all	2022-12-13T19:54:31Z	3.1.13
 6.2.5	named	org.glassfish.main.extras	glassfish-embedded-all	2022-02-12T17:42:52Z	3.1.13
+7.0.0-M2	named	org.glassfish.main.extras	glassfish-embedded-all	2022-02-24T23:53:20Z	3.1.13
 7.0.0-M3	named	org.glassfish.main.extras	glassfish-embedded-all	2022-03-18T23:24:04Z	3.1.13
-3.1.13	named	org.glassfish.ha	ha-api	2021-04-06T15:02:48Z	3.1.13
+7.0.0-M4	named	org.glassfish.main.extras	glassfish-embedded-all	2022-04-11T15:05:38Z	3.1.13
+7.0.0-M10	named	org.glassfish.main.extras	glassfish-embedded-all	2022-11-21T00:07:34Z	3.1.13
+7.0.0	named	org.glassfish.main.extras	glassfish-embedded-all	2022-12-13T19:54:31Z	3.1.13
 7.0.1	named	org.glassfish.main.extras	glassfish-embedded-all	2023-01-29T21:28:48Z	3.1.13
 7.0.2	named	org.glassfish.main.extras	glassfish-embedded-all	2023-02-24T14:06:08Z	3.1.13
 7.0.3	named	org.glassfish.main.extras	glassfish-embedded-all	2023-03-29T20:03:38Z	3.1.13
@@ -51,3 +51,4 @@
 8.0.0-M12	named	org.glassfish.main.extras	glassfish-embedded-all	2025-05-25T22:22:29Z	3.1.13
 7.0.25	named	org.glassfish.main.extras	glassfish-embedded-all	2025-05-27T15:26:30Z	3.1.13
 8.0.0-JDK17-M12	named	org.glassfish.main.extras	glassfish-embedded-all	2025-05-31T22:37:08Z	3.1.13
+7.0.26	named	org.glassfish.main.extras	glassfish-embedded-all	2026-06-27T19:57:46Z	3.1.13

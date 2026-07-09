@@ -18,8 +18,10 @@
 7.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.0.0-M2/rest-service-parent-7.0.0-M2.jar returned status 404
 7.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.0.0-M3/rest-service-parent-7.0.0-M3.jar returned status 404
 7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.0.0-M4/rest-service-parent-7.0.0-M4.jar returned status 404
+7.0.26		2026-06-27T19:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.0.26/rest-service-parent-7.0.26.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.1.0/rest-service-parent-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.1.0-M1/rest-service-parent-7.1.0-M1.jar returned status 404
+7.1.1		2026-07-01T23:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/7.1.1/rest-service-parent-7.1.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/8.0.0/rest-service-parent-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/8.0.0-DONTPUBLISH/rest-service-parent-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-M13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admin/rest-service-parent/8.0.0-M13/rest-service-parent-8.0.0-M13.jar returned status 404

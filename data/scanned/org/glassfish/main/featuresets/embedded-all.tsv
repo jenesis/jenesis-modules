@@ -1,5 +1,6 @@
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/7.1.0/embedded-all-7.1.0.jar returned status 404
 7.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/7.1.0-M1/embedded-all-7.1.0-M1.jar returned status 404
+7.1.1		2026-07-01T23:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/7.1.1/embedded-all-7.1.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/8.0.0/embedded-all-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/8.0.0-DONTPUBLISH/embedded-all-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-M13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/featuresets/embedded-all/8.0.0-M13/embedded-all-8.0.0-M13.jar returned status 404
