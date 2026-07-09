@@ -14,3 +14,41 @@
 5.15.0	metadata	2026-06-23T23:44:32Z	
 6.0.0		2026-06-25T04:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.0.0/buffer-crypto-tvossimulatorarm64-6.0.0.jar returned status 404
 6.0.0	metadata	2026-06-25T04:28:41Z	
+6.0.1		2026-07-01T19:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.0.1/buffer-crypto-tvossimulatorarm64-6.0.1.jar returned status 404
+6.0.1	metadata	2026-07-01T19:17:38Z	
+6.1.0		2026-07-01T23:18:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.1.0/buffer-crypto-tvossimulatorarm64-6.1.0.jar returned status 404
+6.1.0	metadata	2026-07-01T23:18:26Z	
+6.2.0		2026-07-02T00:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.2.0/buffer-crypto-tvossimulatorarm64-6.2.0.jar returned status 404
+6.2.0	metadata	2026-07-02T00:41:41Z	
+6.3.0		2026-07-02T15:23:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.3.0/buffer-crypto-tvossimulatorarm64-6.3.0.jar returned status 404
+6.3.0	metadata	2026-07-02T15:23:09Z	
+6.3.1		2026-07-03T17:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.3.1/buffer-crypto-tvossimulatorarm64-6.3.1.jar returned status 404
+6.3.1	metadata	2026-07-03T17:25:38Z	
+6.3.2		2026-07-04T15:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.3.2/buffer-crypto-tvossimulatorarm64-6.3.2.jar returned status 404
+6.3.2	metadata	2026-07-04T15:29:39Z	
+6.3.3		2026-07-04T20:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.3.3/buffer-crypto-tvossimulatorarm64-6.3.3.jar returned status 404
+6.3.3	metadata	2026-07-04T20:19:21Z	
+6.3.4		2026-07-05T00:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.3.4/buffer-crypto-tvossimulatorarm64-6.3.4.jar returned status 404
+6.3.4	metadata	2026-07-05T00:33:26Z	
+6.4.0		2026-07-05T01:07:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.4.0/buffer-crypto-tvossimulatorarm64-6.4.0.jar returned status 404
+6.4.0	metadata	2026-07-05T01:07:18Z	
+6.5.0		2026-07-05T23:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.5.0/buffer-crypto-tvossimulatorarm64-6.5.0.jar returned status 404
+6.5.0	metadata	2026-07-05T23:04:42Z	
+6.5.1		2026-07-06T05:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.5.1/buffer-crypto-tvossimulatorarm64-6.5.1.jar returned status 404
+6.5.1	metadata	2026-07-06T05:35:02Z	
+6.6.0		2026-07-06T07:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.6.0/buffer-crypto-tvossimulatorarm64-6.6.0.jar returned status 404
+6.6.0	metadata	2026-07-06T07:08:56Z	
+6.6.1		2026-07-06T18:28:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.6.1/buffer-crypto-tvossimulatorarm64-6.6.1.jar returned status 404
+6.6.1	metadata	2026-07-06T18:28:02Z	
+6.7.0		2026-07-06T17:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.7.0/buffer-crypto-tvossimulatorarm64-6.7.0.jar returned status 404
+6.7.0	metadata	2026-07-06T17:41:07Z	
+6.7.1		2026-07-06T19:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.7.1/buffer-crypto-tvossimulatorarm64-6.7.1.jar returned status 404
+6.7.1	metadata	2026-07-06T19:33:35Z	
+6.7.2		2026-07-06T21:11:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.7.2/buffer-crypto-tvossimulatorarm64-6.7.2.jar returned status 404
+6.7.2	metadata	2026-07-06T21:11:56Z	
+6.8.0		2026-07-06T22:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.8.0/buffer-crypto-tvossimulatorarm64-6.8.0.jar returned status 404
+6.8.0	metadata	2026-07-06T22:31:09Z	
+6.8.1		2026-07-07T01:40:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.8.1/buffer-crypto-tvossimulatorarm64-6.8.1.jar returned status 404
+6.8.1	metadata	2026-07-07T01:40:53Z	
+6.8.2		2026-07-07T17:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-tvossimulatorarm64/6.8.2/buffer-crypto-tvossimulatorarm64-6.8.2.jar returned status 404
+6.8.2	metadata	2026-07-07T17:21:03Z	

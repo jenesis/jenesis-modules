@@ -83,6 +83,8 @@
 5.8.0		2026-06-16T21:53:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/5.8.0/buffer-linuxarm64-5.8.0.jar returned status 404
 5.9.0		2026-06-16T22:48:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/5.9.0/buffer-linuxarm64-5.9.0.jar returned status 404
 6.0.0		2026-06-25T04:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.0.0/buffer-linuxarm64-6.0.0.jar returned status 404
+6.0.1		2026-07-01T19:17:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.0.1/buffer-linuxarm64-6.0.1.jar returned status 404
+6.1.0		2026-07-01T23:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.1.0/buffer-linuxarm64-6.1.0.jar returned status 404
 6.2.0		2026-07-02T00:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.2.0/buffer-linuxarm64-6.2.0.jar returned status 404
 6.3.0		2026-07-02T15:23:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.3.0/buffer-linuxarm64-6.3.0.jar returned status 404
 6.3.1		2026-07-03T17:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-linuxarm64/6.3.1/buffer-linuxarm64-6.3.1.jar returned status 404
