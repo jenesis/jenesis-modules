@@ -30,6 +30,9 @@
 0.14.3		2026-06-11T15:04:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.14.3/rewrite-bom-0.14.3.jar returned status 404
 0.15.0		2026-06-14T21:13:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.15.0/rewrite-bom-0.15.0.jar returned status 404
 0.15.1		2026-06-15T05:22:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.15.1/rewrite-bom-0.15.1.jar returned status 404
+0.16.0		2026-06-25T20:26:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.16.0/rewrite-bom-0.16.0.jar returned status 404
+0.17.0		2026-06-29T16:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.17.0/rewrite-bom-0.17.0.jar returned status 404
+0.18.0		2026-06-30T19:16:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.18.0/rewrite-bom-0.18.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.2.0/rewrite-bom-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.2.1/rewrite-bom-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.3.0/rewrite-bom-0.3.0.jar returned status 404
@@ -60,3 +63,4 @@
 0.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.9.7/rewrite-bom-0.9.7.jar returned status 404
 0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.9.8/rewrite-bom-0.9.8.jar returned status 404
 0.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/0.9.9/rewrite-bom-0.9.9.jar returned status 404
+1.0.0		2026-07-02T19:13:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arconia/migrations/rewrite-bom/1.0.0/rewrite-bom-1.0.0.jar returned status 404

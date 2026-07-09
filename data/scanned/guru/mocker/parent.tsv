@@ -2,3 +2,4 @@
 1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/mocker/parent/1.0.19/parent-1.0.19.jar returned status 404
 1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/mocker/parent/1.0.20/parent-1.0.20.jar returned status 404
 1.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/mocker/parent/1.0.21/parent-1.0.21.jar returned status 404
+1.0.22		2026-06-29T19:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/mocker/parent/1.0.22/parent-1.0.22.jar returned status 404

@@ -1,4 +1,10 @@
+2.0.0		2026-06-24T17:03:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox-iosarm64/2.0.0/drawbox-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-06-24T17:03:56Z	
 2.0.0-alpha01		2026-05-22T15:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox-iosarm64/2.0.0-alpha01/drawbox-iosarm64-2.0.0-alpha01.jar returned status 404
 2.0.0-alpha01	metadata	2026-05-22T15:14:18Z	
 2.0.0-alpha02		2026-05-24T09:01:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox-iosarm64/2.0.0-alpha02/drawbox-iosarm64-2.0.0-alpha02.jar returned status 404
 2.0.0-alpha02	metadata	2026-05-24T09:01:51Z	
+2.1.0-alpha01		2026-06-28T12:56:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox-iosarm64/2.1.0-alpha01/drawbox-iosarm64-2.1.0-alpha01.jar returned status 404
+2.1.0-alpha01	metadata	2026-06-28T12:56:04Z	
+v2.1.0-alpha01		2026-06-28T12:39:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ak1/drawbox-iosarm64/v2.1.0-alpha01/drawbox-iosarm64-v2.1.0-alpha01.jar returned status 404
+v2.1.0-alpha01	metadata	2026-06-28T12:39:30Z	

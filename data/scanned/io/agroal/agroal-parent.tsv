@@ -10,3 +10,4 @@
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agroal/agroal-parent/3.1.1/agroal-parent-3.1.1.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agroal/agroal-parent/3.1.2/agroal-parent-3.1.2.jar returned status 404
 3.2		2026-06-01T19:18:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agroal/agroal-parent/3.2/agroal-parent-3.2.jar returned status 404
+3.2.1		2026-06-26T12:48:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agroal/agroal-parent/3.2.1/agroal-parent-3.2.1.jar returned status 404

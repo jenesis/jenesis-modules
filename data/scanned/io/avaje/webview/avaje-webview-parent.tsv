@@ -6,3 +6,10 @@
 0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.16/avaje-webview-parent-0.16.jar returned status 404
 0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.17/avaje-webview-parent-0.17.jar returned status 404
 0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.18/avaje-webview-parent-0.18.jar returned status 404
+0.19		2026-06-26T20:54:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.19/avaje-webview-parent-0.19.jar returned status 404
+0.20		2026-06-30T22:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.20/avaje-webview-parent-0.20.jar returned status 404
+0.21		2026-07-01T01:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.21/avaje-webview-parent-0.21.jar returned status 404
+0.22		2026-07-02T11:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.22/avaje-webview-parent-0.22.jar returned status 404
+0.23		2026-07-02T17:01:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.23/avaje-webview-parent-0.23.jar returned status 404
+0.24		2026-07-04T13:41:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.24/avaje-webview-parent-0.24.jar returned status 404
+0.25		2026-07-04T17:58:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/webview/avaje-webview-parent/0.25/avaje-webview-parent-0.25.jar returned status 404

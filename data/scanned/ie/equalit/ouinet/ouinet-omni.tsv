@@ -41,4 +41,6 @@
 1.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.6.5/ouinet-omni-1.6.5.jar returned status 404
 1.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.6.6/ouinet-omni-1.6.6.jar returned status 404
 1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.6.7/ouinet-omni-1.6.7.jar returned status 404
+1.6.8		2026-07-01T01:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.6.8/ouinet-omni-1.6.8.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.7.0/ouinet-omni-1.7.0.jar returned status 404
+1.7.1		2026-07-03T22:27:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/ouinet-omni/1.7.1/ouinet-omni-1.7.1.jar returned status 404

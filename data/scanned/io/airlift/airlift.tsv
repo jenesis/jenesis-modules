@@ -178,3 +178,5 @@
 433		2026-06-10T16:41:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/433/airlift-433.jar returned status 404
 434		2026-06-11T16:21:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/434/airlift-434.jar returned status 404
 435		2026-06-16T19:32:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/435/airlift-435.jar returned status 404
+436		2026-06-25T16:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/436/airlift-436.jar returned status 404
+437		2026-07-06T13:42:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/437/airlift-437.jar returned status 404

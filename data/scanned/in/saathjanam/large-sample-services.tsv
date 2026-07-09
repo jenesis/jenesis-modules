@@ -70,3 +70,7 @@
 60.4.5		2026-05-14T05:44:30Z	
 60.5.4		2026-06-15T14:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-services/60.5.4/large-sample-services-60.5.4.jar returned status 404
 60.5.5		2026-06-16T07:01:55Z	
+60.5.8		2026-06-29T18:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-services/60.5.8/large-sample-services-60.5.8.jar returned status 404
+60.6.0		2026-07-02T05:58:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-services/60.6.0/large-sample-services-60.6.0.jar returned status 404
+60.6.2		2026-07-06T09:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-services/60.6.2/large-sample-services-60.6.2.jar returned status 404
+60.6.3		2026-07-06T10:18:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/saathjanam/large-sample-services/60.6.3/large-sample-services-60.6.3.jar returned status 404

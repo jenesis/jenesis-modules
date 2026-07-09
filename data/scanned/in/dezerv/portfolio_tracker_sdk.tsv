@@ -40,3 +40,6 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.0/portfolio_tracker_sdk-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.1/portfolio_tracker_sdk-0.8.1.jar returned status 404
 0.8.2		2026-05-29T10:23:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.2/portfolio_tracker_sdk-0.8.2.jar returned status 404
+0.8.3		2026-06-24T13:04:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.3/portfolio_tracker_sdk-0.8.3.jar returned status 404
+0.8.4		2026-06-29T11:54:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.4/portfolio_tracker_sdk-0.8.4.jar returned status 404
+0.8.5		2026-07-06T13:13:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/dezerv/portfolio_tracker_sdk/0.8.5/portfolio_tracker_sdk-0.8.5.jar returned status 404

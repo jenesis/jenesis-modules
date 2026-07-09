@@ -1,3 +1,6 @@
 0.1		2026-06-06T10:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.1/avaje-openapi-generators-0.1.jar returned status 404
 0.2		2026-06-23T03:16:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.2/avaje-openapi-generators-0.2.jar returned status 404
 0.3		2026-06-23T11:08:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.3/avaje-openapi-generators-0.3.jar returned status 404
+0.4		2026-06-25T04:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.4/avaje-openapi-generators-0.4.jar returned status 404
+0.5		2026-06-26T08:28:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.5/avaje-openapi-generators-0.5.jar returned status 404
+0.6		2026-07-05T22:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-openapi-generators/0.6/avaje-openapi-generators-0.6.jar returned status 404
