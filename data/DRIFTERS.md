@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -234,7 +234,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |...................=|
   R   ca.acendas                           2025-11..2026-05 1.9.1                |..................==|
   R   com.krillforge                       2026-04..2026-04 0.0.2                |...................=|
-  R   org.openprojectx.hadoop.win          2026-04..2026-04 0.1.4-3.1.1.7.1.9.14-2 |...................=|
+  R   org.openprojectx.hadoop.win          2026-04..2026-04 0.1.4-3.1.1.7.1.9.14-2 |..................=.|
     + 18 more: org.jetbrains.dokka, com.eygraber, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
 ```
 
@@ -527,7 +527,7 @@ com.github.benmanes.caffeine  [fork: keep `com.github.ben-manes.caffeine`, `org.
   R   io.zeebe.redis                       2025-05..2026-06 8.9.1                |.................===|
   R   com.google.errorprone                2022-04..2026-06 2.50.0               |..........==========|
   R   io.pebbletemplates                   2025-12..2026-05 4.1.2                |..................==|
-  R   net.wirelabs                         2026-02..2026-04 1.4.5                |..................==|
+  R   net.wirelabs                         2026-02..2026-04 1.4.5                |..................=.|
     + 16 more: org.apache.tinkerpop, com.janeluo, nl.basjes.parse.useragent, org.openprovenance.prov, org.odftoolkit, io.tileverse.pmtiles, org.opengis.cite, nl.goodbytes.xmpp.xep, org.igniterealtime.whack, be.vlaanderen.informatievlaanderen.ldes.ldio, com.aerospike, com.gitlab.cdc-java.office, (+4 more)
 com.zaxxer.hikari  [fork: keep `com.zaxxer`, `org.finos.legend.depot` still publishes the name]
   A * com.zaxxer                           2018-01..2026-06 7.1.0                |..==================|
@@ -868,7 +868,7 @@ org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee
   A * org.apache.commons                   2018-07..2025-04 4.5.0                |...===============..|
   R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
   ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |...................=|
-  R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................===.|
+  R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
   R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
     + 1 more: com.jwebmp.jpms.commons
@@ -1254,7 +1254,7 @@ telegram4j.tl  [owned by `io.github.telegram4j` (groupId minus two segments is t
   ? * io.github.telegram4j                 2022-02..2022-02 0.1.0                |..........=.........|
   ?   com.telegram4j                       2022-09..2022-09 0.1.1                |...........=........|
 stasgora.observetree  [owned by `io.github.stasgora` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
-  ? * io.github.stasgora                   2019-04..2019-09 1.0.3                |.....=..............|
+  ? * io.github.stasgora                   2019-04..2019-09 1.0.3                |....==..............|
   ?   dev.sgora                            2019-10..2019-10 1.0.3.1              |.....=..............|
 ```
 
@@ -1278,7 +1278,7 @@ org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent
     + 94 more: io.boxlang, org.apache.distributedlog, org.apache.dolphinscheduler, org.sonarsource.python, com.github.cafdataprocessing.workers.languagedetection, org.teavm, org.apache.hudi, org.apache.tika, io.github.zgrge, org.bidib.jbidib, com.ascentstream.distributedlog, com.networknt, (+82 more)
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
   ? * commons-codec                        2017-10..2026-04 1.22.0               |.===================|
-  ?   cn.ctyun                             2025-10..2026-06 2.0.1                |..................==|
+  ?   cn.ctyun                             2025-10..2026-06 2.0.1                |.................===|
   ?   software.amazon.awssdk               2024-07..2026-06 2.46.15              |...............=====|
   ?   org.operaton.bpm.extension           2024-12..2026-06 2.2.0-M1             |................====|
   ?   com.mirakl                           2025-11..2026-06 10.9.0               |..................==|
@@ -1605,7 +1605,7 @@ net.sf.jsqlparser  [no clear owner; `com.github.jsqlparser` is earliest and most
   ?   ai.starlake                          2024-09..2024-10 1.3.0                |...............==...|
 com.drew.metadata  [no clear owner; `com.github.dalet-oss` is earliest and most recent]
   ? * com.github.dalet-oss                 2024-03..2024-03 0.0.6                |..............=.....|
-  ?   com.drewnoakes                       2026-04..2026-04 2.20.0               |...................=|
+  ?   com.drewnoakes                       2026-04..2026-04 2.20.0               |..................=.|
 org.apache.commons.jxpath  [no clear owner; `commons-jxpath` is earliest and most recent]
   ? * commons-jxpath                       2025-04..2025-04 1.4.0                |.................=..|
   ?   com.jd.live                          2025-08..2026-04 1.9.0                |.................==.|
