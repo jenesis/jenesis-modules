@@ -2,3 +2,5 @@
 0.0.14	metadata	2026-05-21T05:10:09Z	
 0.0.15		2026-06-16T00:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/common-public-iossimulatorarm64/0.0.15/common-public-iossimulatorarm64-0.0.15.jar returned status 404
 0.0.15	metadata	2026-06-16T00:26:52Z	
+0.0.16		2026-07-02T15:34:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/common-public-iossimulatorarm64/0.0.16/common-public-iossimulatorarm64-0.0.16.jar returned status 404
+0.0.16	metadata	2026-07-02T15:34:06Z	

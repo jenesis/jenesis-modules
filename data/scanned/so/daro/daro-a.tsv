@@ -75,3 +75,8 @@
 1.5.5-between-snapshot05		2026-06-05T01:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.5-between-snapshot05/daro-a-1.5.5-between-snapshot05.jar returned status 404
 1.5.5-between-snapshot06		2026-06-08T01:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.5-between-snapshot06/daro-a-1.5.5-between-snapshot06.jar returned status 404
 1.5.5-between-snapshot07		2026-06-08T17:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.5-between-snapshot07/daro-a-1.5.5-between-snapshot07.jar returned status 404
+1.5.6		2026-06-22T03:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.6/daro-a-1.5.6.jar returned status 404
+1.5.7		2026-06-22T10:37:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.7/daro-a-1.5.7.jar returned status 404
+1.5.7-beta01		2026-06-22T09:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.7-beta01/daro-a-1.5.7-beta01.jar returned status 404
+1.5.8		2026-07-03T01:52:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.8/daro-a-1.5.8.jar returned status 404
+1.5.8-beta01		2026-06-25T06:01:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.5.8-beta01/daro-a-1.5.8-beta01.jar returned status 404

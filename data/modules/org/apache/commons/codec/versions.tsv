@@ -1942,5 +1942,17 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.2.0-M1	named	org.operaton.bpm.extension	operaton-keycloak-run	2026-06-19T14:29:24Z	1.22.0
 2.46.15	named	software.amazon.awssdk	bundle-sdk	2026-06-19T21:08:57Z	1.17.1
 2.46.15	named	software.amazon.awssdk	bundle	2026-06-19T21:09:10Z	1.17.1
+2.46.16	named	software.amazon.awssdk	bundle	2026-06-22T21:48:10Z	1.17.1
+2.46.16	named	software.amazon.awssdk	bundle-sdk	2026-06-22T21:48:21Z	1.17.1
 2.0.0	named	cn.ctyun	ctyun-java-sdk-scaling20220909	2026-06-23T00:44:28Z	1.19.0
+2.46.17	named	software.amazon.awssdk	bundle	2026-06-23T04:24:47Z	1.17.1
+2.46.17	named	software.amazon.awssdk	bundle-sdk	2026-06-23T04:25:01Z	1.17.1
 2.0.1	named	cn.ctyun	ctyun-java-sdk-scaling20220909	2026-06-24T07:20:29Z	1.19.0
+2.46.18	named	software.amazon.awssdk	bundle	2026-06-29T21:00:41Z	1.17.1
+2.46.18	named	software.amazon.awssdk	bundle-sdk	2026-06-29T21:00:42Z	1.17.1
+2.46.19	named	software.amazon.awssdk	bundle-sdk	2026-06-30T21:17:35Z	1.17.1
+2.46.19	named	software.amazon.awssdk	bundle	2026-06-30T21:17:39Z	1.17.1
+2.46.20	named	software.amazon.awssdk	bundle-sdk	2026-07-01T21:01:59Z	1.17.1
+2.46.20	named	software.amazon.awssdk	bundle	2026-07-01T21:02:17Z	1.17.1
+2.46.21	named	software.amazon.awssdk	bundle-sdk	2026-07-02T20:55:28Z	1.17.1
+2.46.21	named	software.amazon.awssdk	bundle	2026-07-02T20:55:44Z	1.17.1

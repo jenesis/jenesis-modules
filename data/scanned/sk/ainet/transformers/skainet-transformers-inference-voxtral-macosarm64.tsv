@@ -24,3 +24,9 @@
 0.31.0	metadata	2026-06-15T20:19:12Z	
 0.31.1		2026-06-17T17:35:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-voxtral-macosarm64/0.31.1/skainet-transformers-inference-voxtral-macosarm64-0.31.1.jar returned status 404
 0.31.1	metadata	2026-06-17T17:35:39Z	
+0.32.0		2026-06-25T17:43:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-voxtral-macosarm64/0.32.0/skainet-transformers-inference-voxtral-macosarm64-0.32.0.jar returned status 404
+0.32.0	metadata	2026-06-25T17:43:38Z	
+0.32.1		2026-06-26T19:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-voxtral-macosarm64/0.32.1/skainet-transformers-inference-voxtral-macosarm64-0.32.1.jar returned status 404
+0.32.1	metadata	2026-06-26T19:12:43Z	
+0.33.0		2026-06-29T11:44:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-voxtral-macosarm64/0.33.0/skainet-transformers-inference-voxtral-macosarm64-0.33.0.jar returned status 404
+0.33.0	metadata	2026-06-29T11:44:24Z	

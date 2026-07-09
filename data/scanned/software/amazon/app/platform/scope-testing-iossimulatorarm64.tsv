@@ -12,6 +12,8 @@
 0.0.14	metadata	2026-05-21T05:10:03Z	
 0.0.15		2026-06-16T00:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/scope-testing-iossimulatorarm64/0.0.15/scope-testing-iossimulatorarm64-0.0.15.jar returned status 404
 0.0.15	metadata	2026-06-16T00:26:48Z	
+0.0.16		2026-07-02T15:34:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/scope-testing-iossimulatorarm64/0.0.16/scope-testing-iossimulatorarm64-0.0.16.jar returned status 404
+0.0.16	metadata	2026-07-02T15:34:05Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/scope-testing-iossimulatorarm64/0.0.2/scope-testing-iossimulatorarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2025-05-03T03:40:42Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/scope-testing-iossimulatorarm64/0.0.3/scope-testing-iossimulatorarm64-0.0.3.jar returned status 404
