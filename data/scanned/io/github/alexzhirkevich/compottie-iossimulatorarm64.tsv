@@ -40,3 +40,5 @@
 2.2.2	metadata	2026-06-09T12:23:15Z	
 2.2.3		2026-06-19T08:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexzhirkevich/compottie-iossimulatorarm64/2.2.3/compottie-iossimulatorarm64-2.2.3.jar returned status 404
 2.2.3	metadata	2026-06-19T08:18:49Z	
+2.2.4		2026-06-24T10:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexzhirkevich/compottie-iossimulatorarm64/2.2.4/compottie-iossimulatorarm64-2.2.4.jar returned status 404
+2.2.4	metadata	2026-06-24T10:10:23Z	

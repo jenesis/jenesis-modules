@@ -14,3 +14,4 @@
 1.1.0-alpha03		2026-06-13T12:06:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aiprototype/pseudocharles/1.1.0-alpha03/pseudocharles-1.1.0-alpha03.jar returned status 404
 1.1.0-alpha04		2026-06-13T12:37:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aiprototype/pseudocharles/1.1.0-alpha04/pseudocharles-1.1.0-alpha04.jar returned status 404
 1.1.0-alpha05		2026-06-14T14:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aiprototype/pseudocharles/1.1.0-alpha05/pseudocharles-1.1.0-alpha05.jar returned status 404
+1.1.0-alpha06		2026-06-27T11:57:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aiprototype/pseudocharles/1.1.0-alpha06/pseudocharles-1.1.0-alpha06.jar returned status 404

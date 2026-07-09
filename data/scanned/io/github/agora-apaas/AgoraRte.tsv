@@ -31,6 +31,10 @@
 3.11.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.2/AgoraRte-3.11.0-rc.2.jar returned status 404
 3.11.0-rc.3		2026-06-02T13:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.3/AgoraRte-3.11.0-rc.3.jar returned status 404
 3.11.0-rc.4		2026-06-17T04:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.4/AgoraRte-3.11.0-rc.4.jar returned status 404
+3.11.0-rc.6		2026-06-24T12:31:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.6/AgoraRte-3.11.0-rc.6.jar returned status 404
+3.11.0-rc.7		2026-07-01T12:14:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.7/AgoraRte-3.11.0-rc.7.jar returned status 404
+3.11.0-rc.7-test		2026-06-29T07:04:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.7-test/AgoraRte-3.11.0-rc.7-test.jar returned status 404
+3.11.0-rc.7.1		2026-07-01T14:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.7.1/AgoraRte-3.11.0-rc.7.1.jar returned status 404
 3.11.1-rc.1		2026-06-13T06:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.1-rc.1/AgoraRte-3.11.1-rc.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.3.0/AgoraRte-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.3.1/AgoraRte-3.3.1.jar returned status 404

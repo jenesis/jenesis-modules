@@ -1,1 +1,2 @@
 2.6.0		2026-06-10T07:21:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adsxgrowth/ads-sdk/2.6.0/ads-sdk-2.6.0.jar returned status 404
+2.6.2		2026-06-26T14:24:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adsxgrowth/ads-sdk/2.6.2/ads-sdk-2.6.2.jar returned status 404

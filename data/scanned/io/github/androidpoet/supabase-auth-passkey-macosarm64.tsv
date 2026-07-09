@@ -1,3 +1,5 @@
+0.10.0		2026-06-24T18:00:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-passkey-macosarm64/0.10.0/supabase-auth-passkey-macosarm64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-06-24T18:00:19Z	
 0.5.0		2026-06-17T21:19:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-passkey-macosarm64/0.5.0/supabase-auth-passkey-macosarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-06-17T21:19:57Z	
 0.6.0		2026-06-19T10:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-passkey-macosarm64/0.6.0/supabase-auth-passkey-macosarm64-0.6.0.jar returned status 404
@@ -14,3 +16,5 @@
 0.9.2	metadata	2026-06-22T03:44:07Z	
 0.9.3		2026-06-22T05:57:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-passkey-macosarm64/0.9.3/supabase-auth-passkey-macosarm64-0.9.3.jar returned status 404
 0.9.3	metadata	2026-06-22T05:57:27Z	
+1.0.0		2026-06-27T10:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-passkey-macosarm64/1.0.0/supabase-auth-passkey-macosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-27T10:20:31Z	

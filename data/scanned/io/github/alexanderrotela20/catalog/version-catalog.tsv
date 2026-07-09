@@ -8,4 +8,6 @@
 1.2.3		2026-04-12T21:44:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/1.2.3/version-catalog-1.2.3.jar returned status 404
 1.2.4		2026-04-13T00:33:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/1.2.4/version-catalog-1.2.4.jar returned status 404
 1.2.5		2026-04-14T09:39:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/1.2.5/version-catalog-1.2.5.jar returned status 404
+1.2.6		2026-07-03T22:52:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/1.2.6/version-catalog-1.2.6.jar returned status 404
+1.2.7		2026-07-05T03:08:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/1.2.7/version-catalog-1.2.7.jar returned status 404
 v1.1.2		2026-03-30T03:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alexanderrotela20/catalog/version-catalog/v1.1.2/version-catalog-v1.1.2.jar returned status 404

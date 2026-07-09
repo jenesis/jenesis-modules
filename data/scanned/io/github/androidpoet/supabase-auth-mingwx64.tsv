@@ -1,3 +1,4 @@
+0.10.0		2026-06-24T18:00:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.10.0/supabase-auth-mingwx64-0.10.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.2.0/supabase-auth-mingwx64-0.2.0.jar returned status 404
 0.3.0		2026-05-24T09:54:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.3.0/supabase-auth-mingwx64-0.3.0.jar returned status 404
 0.3.1		2026-05-24T19:59:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.3.1/supabase-auth-mingwx64-0.3.1.jar returned status 404
@@ -14,3 +15,4 @@
 0.9.1		2026-06-20T19:02:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.9.1/supabase-auth-mingwx64-0.9.1.jar returned status 404
 0.9.2		2026-06-22T03:43:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.9.2/supabase-auth-mingwx64-0.9.2.jar returned status 404
 0.9.3		2026-06-22T05:57:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/0.9.3/supabase-auth-mingwx64-0.9.3.jar returned status 404
+1.0.0		2026-06-27T10:20:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/androidpoet/supabase-auth-mingwx64/1.0.0/supabase-auth-mingwx64-1.0.0.jar returned status 404

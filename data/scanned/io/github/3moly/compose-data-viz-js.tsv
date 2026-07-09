@@ -71,6 +71,8 @@
 0.1.61		2026-05-25T04:37:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.61/compose-data-viz-js-0.1.61.jar returned status 404
 0.1.62		2026-05-25T06:10:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.62/compose-data-viz-js-0.1.62.jar returned status 404
 0.1.63		2026-05-27T20:22:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.63/compose-data-viz-js-0.1.63.jar returned status 404
+0.1.64		2026-06-25T19:02:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.64/compose-data-viz-js-0.1.64.jar returned status 404
+0.1.66		2026-06-26T11:15:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.66/compose-data-viz-js-0.1.66.jar returned status 404
 0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.7/compose-data-viz-js-0.1.7.jar returned status 404
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.8/compose-data-viz-js-0.1.8.jar returned status 404
 0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/3moly/compose-data-viz-js/0.1.9/compose-data-viz-js-0.1.9.jar returned status 404

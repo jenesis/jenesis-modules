@@ -1,0 +1,2 @@
+0.1.0		2026-06-27T08:01:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alirezajavan/downpour/0.1.0/downpour-0.1.0.jar returned status 404
+0.2.0		2026-06-28T09:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alirezajavan/downpour/0.2.0/downpour-0.2.0.jar returned status 404

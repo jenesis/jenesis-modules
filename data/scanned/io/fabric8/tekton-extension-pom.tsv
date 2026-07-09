@@ -8,3 +8,4 @@
 7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/tekton-extension-pom/7.6.0/tekton-extension-pom-7.6.0.jar returned status 404
 7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/tekton-extension-pom/7.6.1/tekton-extension-pom-7.6.1.jar returned status 404
 7.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/tekton-extension-pom/7.7.0/tekton-extension-pom-7.7.0.jar returned status 404
+7.8.0		2026-06-29T09:25:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/tekton-extension-pom/7.8.0/tekton-extension-pom-7.8.0.jar returned status 404

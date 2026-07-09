@@ -1,0 +1,2 @@
+1.0.0		2026-06-28T03:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/zokor/zokor-all/1.0.0/zokor-all-1.0.0.jar returned status 404
+1.0.1		2026-06-28T03:40:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/zokor/zokor-all/1.0.1/zokor-all-1.0.1.jar returned status 404

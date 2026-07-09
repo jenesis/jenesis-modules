@@ -49,3 +49,6 @@
 1.2.0.40		2026-06-08T07:54:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.0.40/QzWidgetTools-1.2.0.40.jar returned status 404
 1.2.0.42		2026-06-15T03:27:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.0.42/QzWidgetTools-1.2.0.42.jar returned status 404
 1.2.0.50		2026-06-16T05:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.0.50/QzWidgetTools-1.2.0.50.jar returned status 404
+1.2.1.10		2026-07-01T08:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.1.10/QzWidgetTools-1.2.1.10.jar returned status 404
+1.2.1.25		2026-07-05T09:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.1.25/QzWidgetTools-1.2.1.25.jar returned status 404
+1.2.1.30		2026-07-06T08:27:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ezhuwx/QzWidgetTools/1.2.1.30/QzWidgetTools-1.2.1.30.jar returned status 404

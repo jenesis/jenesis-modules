@@ -119,6 +119,8 @@
 0.2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/0.2.4.4/point4u-0.2.4.4.jar returned status 404
 0.2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/0.2.4.5/point4u-0.2.4.5.jar returned status 404
 0.2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/0.2.4.6/point4u-0.2.4.6.jar returned status 404
+0.2.4.7		2026-06-30T00:03:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/0.2.4.7/point4u-0.2.4.7.jar returned status 404
+0.2.4.8		2026-06-30T06:48:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/0.2.4.8/point4u-0.2.4.8.jar returned status 404
 1.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/1.0.0.0/point4u-1.0.0.0.jar returned status 404
 1.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/1.0.0.1/point4u-1.0.0.1.jar returned status 404
 1.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adwon24/point4u/1.0.0.2/point4u-1.0.0.2.jar returned status 404

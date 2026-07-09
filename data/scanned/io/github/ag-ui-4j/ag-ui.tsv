@@ -1,0 +1,2 @@
+0.1.0		2026-06-24T21:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ag-ui-4j/ag-ui/0.1.0/ag-ui-0.1.0.jar returned status 404
+0.2.0		2026-06-25T21:30:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ag-ui-4j/ag-ui/0.2.0/ag-ui-0.2.0.jar returned status 404
