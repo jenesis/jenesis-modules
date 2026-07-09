@@ -52,6 +52,18 @@
 0.31.0	metadata	2026-06-15T16:40:23Z	
 0.31.2		2026-06-18T05:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.31.2/skainet-compile-hlo-macosarm64-0.31.2.jar returned status 404
 0.31.2	metadata	2026-06-18T05:42:01Z	
+0.32.0		2026-06-22T20:01:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.32.0/skainet-compile-hlo-macosarm64-0.32.0.jar returned status 404
+0.32.0	metadata	2026-06-22T20:01:01Z	
+0.32.1		2026-06-23T08:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.32.1/skainet-compile-hlo-macosarm64-0.32.1.jar returned status 404
+0.32.1	metadata	2026-06-23T08:56:57Z	
+0.32.2		2026-06-24T09:07:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.32.2/skainet-compile-hlo-macosarm64-0.32.2.jar returned status 404
+0.32.2	metadata	2026-06-24T09:07:11Z	
+0.32.3		2026-06-25T20:15:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.32.3/skainet-compile-hlo-macosarm64-0.32.3.jar returned status 404
+0.32.3	metadata	2026-06-25T20:15:14Z	
+0.32.4		2026-06-26T12:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.32.4/skainet-compile-hlo-macosarm64-0.32.4.jar returned status 404
+0.32.4	metadata	2026-06-26T12:40:39Z	
+0.33.0		2026-06-29T10:07:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.33.0/skainet-compile-hlo-macosarm64-0.33.0.jar returned status 404
+0.33.0	metadata	2026-06-29T10:07:20Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.6.3/skainet-compile-hlo-macosarm64-0.6.3.jar returned status 404
 0.6.3	metadata	2026-01-02T10:40:02Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-hlo-macosarm64/0.7.0/skainet-compile-hlo-macosarm64-0.7.0.jar returned status 404

@@ -34,3 +34,15 @@
 0.31.0	metadata	2026-06-15T16:40:15Z	
 0.31.2		2026-06-18T05:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.31.2/skainet-io-iree-params-iossimulatorarm64-0.31.2.jar returned status 404
 0.31.2	metadata	2026-06-18T05:42:04Z	
+0.32.0		2026-06-22T20:00:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.32.0/skainet-io-iree-params-iossimulatorarm64-0.32.0.jar returned status 404
+0.32.0	metadata	2026-06-22T20:01:01Z	
+0.32.1		2026-06-23T08:56:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.32.1/skainet-io-iree-params-iossimulatorarm64-0.32.1.jar returned status 404
+0.32.1	metadata	2026-06-23T08:56:54Z	
+0.32.2		2026-06-24T09:07:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.32.2/skainet-io-iree-params-iossimulatorarm64-0.32.2.jar returned status 404
+0.32.2	metadata	2026-06-24T09:07:18Z	
+0.32.3		2026-06-25T20:15:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.32.3/skainet-io-iree-params-iossimulatorarm64-0.32.3.jar returned status 404
+0.32.3	metadata	2026-06-25T20:15:14Z	
+0.32.4		2026-06-26T12:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.32.4/skainet-io-iree-params-iossimulatorarm64-0.32.4.jar returned status 404
+0.32.4	metadata	2026-06-26T12:40:44Z	
+0.33.0		2026-06-29T10:07:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iossimulatorarm64/0.33.0/skainet-io-iree-params-iossimulatorarm64-0.33.0.jar returned status 404
+0.33.0	metadata	2026-06-29T10:07:17Z	
