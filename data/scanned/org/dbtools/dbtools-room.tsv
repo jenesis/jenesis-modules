@@ -1,6 +1,7 @@
 10.0.0-alpha03		2026-04-09T01:29:29Z	
 10.0.0-alpha04		2026-05-27T02:59:58Z	
 10.0.0-alpha06		2026-06-09T13:12:24Z	
+10.0.0-rc01		2026-06-23T02:12:57Z	
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room/5.4.0/dbtools-room-5.4.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room/7.1.0/dbtools-room-7.1.0.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room/8.0.0/dbtools-room-8.0.0.jar returned status 404

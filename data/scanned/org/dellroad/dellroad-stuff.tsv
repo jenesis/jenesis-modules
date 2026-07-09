@@ -25,3 +25,4 @@
 1.1.4		2016-02-12T22:11:24Z	
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-stuff/3.1.0/dellroad-stuff-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-stuff/3.2.0/dellroad-stuff-3.2.0.jar returned status 404
+3.2.1		2026-06-24T20:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-stuff/3.2.1/dellroad-stuff-3.2.1.jar returned status 404

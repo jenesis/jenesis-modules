@@ -93,5 +93,7 @@
 0.74.0		2026-06-11T11:29:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.74.0/transport-0.74.0.jar returned status 404
 0.75.0		2026-06-17T08:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.75.0/transport-0.75.0.jar returned status 404
 0.76.0		2026-06-19T12:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.76.0/transport-0.76.0.jar returned status 404
+0.77.0		2026-06-23T15:24:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.77.0/transport-0.77.0.jar returned status 404
+0.78.0		2026-07-01T10:12:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.78.0/transport-0.78.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.8.0/transport-0.8.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/transport/0.9.0/transport-0.9.0.jar returned status 404
