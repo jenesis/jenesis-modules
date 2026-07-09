@@ -1,3 +1,4 @@
+v2-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20260519-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20260409-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20260113-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
@@ -17,6 +18,7 @@ v2-rev20230920-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20230904-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20230818-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2-rev20230725-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
+v2beta-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2beta-rev20260519-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2beta-rev20260409-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport
 v2beta-rev20260113-2.0.0	automatic	com.google.apis	google-api-services-cloudsupport

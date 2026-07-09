@@ -1,3 +1,4 @@
+v1-rev20260621-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1-rev20260208-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1-rev20241013-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1-rev20240428-2.0.0	automatic	com.google.apis	google-api-services-recommender
@@ -37,6 +38,7 @@ v1-rev20200801-1.30.10	automatic	com.google.apis	google-api-services-recommender
 v1-rev20200704-1.30.10	automatic	com.google.apis	google-api-services-recommender
 v1-rev20200704-1.30.9	automatic	com.google.apis	google-api-services-recommender
 v1-rev20200516-1.30.9	automatic	com.google.apis	google-api-services-recommender
+v1beta1-rev20260621-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1beta1-rev20260426-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1beta1-rev20260208-2.0.0	automatic	com.google.apis	google-api-services-recommender
 v1beta1-rev20251026-2.0.0	automatic	com.google.apis	google-api-services-recommender

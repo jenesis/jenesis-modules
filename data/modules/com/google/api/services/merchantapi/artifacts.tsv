@@ -224,6 +224,7 @@ issueresolution_v1beta-rev20250621-2.0.0	automatic	com.google.apis	google-api-se
 issueresolution_v1beta-rev20250618-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1beta-rev20250603-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1beta-rev20250505-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+inventories_v1-rev20260624-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 inventories_v1-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 inventories_v1-rev20260408-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 inventories_v1-rev20260402-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
