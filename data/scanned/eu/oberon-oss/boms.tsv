@@ -1,1 +1,2 @@
 3.25.2		2026-06-17T10:23:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/oberon-oss/boms/3.25.2/boms-3.25.2.jar returned status 404
+3.25.3		2026-06-23T13:32:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/oberon-oss/boms/3.25.3/boms-3.25.3.jar returned status 404

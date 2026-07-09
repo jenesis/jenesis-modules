@@ -6,3 +6,5 @@
 1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rekawek/coffeegb/coffee-gb/1.5.6/coffee-gb-1.5.6.jar returned status 404
 1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rekawek/coffeegb/coffee-gb/1.5.7/coffee-gb-1.5.7.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rekawek/coffeegb/coffee-gb/1.6.0/coffee-gb-1.6.0.jar returned status 404
+1.7.0		2026-07-02T21:20:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rekawek/coffeegb/coffee-gb/1.7.0/coffee-gb-1.7.0.jar returned status 404
+1.7.1		2026-07-03T21:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rekawek/coffeegb/coffee-gb/1.7.1/coffee-gb-1.7.1.jar returned status 404

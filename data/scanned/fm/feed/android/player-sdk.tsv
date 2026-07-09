@@ -64,3 +64,4 @@
 7.0.0-pre-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/feed/android/player-sdk/7.0.0-pre-1/player-sdk-7.0.0-pre-1.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/feed/android/player-sdk/7.0.1/player-sdk-7.0.1.jar returned status 404
 7.1.0		2026-06-02T23:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/feed/android/player-sdk/7.1.0/player-sdk-7.1.0.jar returned status 404
+7.1.1		2026-06-25T23:11:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/feed/android/player-sdk/7.1.1/player-sdk-7.1.1.jar returned status 404

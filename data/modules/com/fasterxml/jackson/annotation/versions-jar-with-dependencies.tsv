@@ -5181,6 +5181,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 3.0.6	named	io.github.techelliiptica	merv-client-api	2026-06-27T11:40:25Z	2.15.2
 4.0.0	named	io.github.techelliiptica	merv-client-api	2026-06-27T11:48:54Z	2.15.2
 7.0.0-RC1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-27T18:50:40Z	2.21
+11.4.1-beta-1	named	fr.inria.gforge.spoon	spoon-core	2026-06-28T04:45:31Z	2.22
 7.0.0-RC2	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-29T13:42:14Z	2.21
 7.3.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-01T06:31:57Z	2.22
 3.6.0.Final	named	io.debezium	debezium-connector-cassandra-5	2026-07-01T09:06:08Z	2.21
@@ -5188,3 +5189,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 2.1.0	named	io.orqueio.bpm	orqueio-engine-rest	2026-07-03T08:12:36Z	2.15.2
 7.0.0-RC4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-03T18:01:51Z	2.21
 7.4.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-04T17:38:44Z	2.22
+11.4.1-beta-2	named	fr.inria.gforge.spoon	spoon-core	2026-07-05T04:14:43Z	2.22

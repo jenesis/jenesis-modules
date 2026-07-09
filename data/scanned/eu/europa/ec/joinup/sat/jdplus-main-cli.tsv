@@ -1,3 +1,4 @@
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sat/jdplus-main-cli/3.5.1/jdplus-main-cli-3.5.1.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sat/jdplus-main-cli/3.6.0/jdplus-main-cli-3.6.0.jar returned status 404
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sat/jdplus-main-cli/3.7.1/jdplus-main-cli-3.7.1.jar returned status 404
+3.8.0		2026-07-02T07:46:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sat/jdplus-main-cli/3.8.0/jdplus-main-cli-3.8.0.jar returned status 404

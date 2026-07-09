@@ -25,3 +25,4 @@
 0.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/njord/publisher/publisher/0.9.6/publisher-0.9.6.jar returned status 404
 0.9.7		2026-05-28T14:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/njord/publisher/publisher/0.9.7/publisher-0.9.7.jar returned status 404
 0.9.8		2026-06-18T13:28:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/njord/publisher/publisher/0.9.8/publisher-0.9.8.jar returned status 404
+0.9.9		2026-06-24T17:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/njord/publisher/publisher/0.9.9/publisher-0.9.9.jar returned status 404

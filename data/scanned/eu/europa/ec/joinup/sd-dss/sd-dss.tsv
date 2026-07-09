@@ -2,3 +2,4 @@
 6.3.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sd-dss/sd-dss/6.3.RC1/sd-dss-6.3.RC1.jar returned status 404
 6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sd-dss/sd-dss/6.4/sd-dss-6.4.jar returned status 404
 6.4.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sd-dss/sd-dss/6.4.RC1/sd-dss-6.4.RC1.jar returned status 404
+6.5.RC1		2026-07-03T13:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/joinup/sd-dss/sd-dss/6.5.RC1/sd-dss-6.5.RC1.jar returned status 404
