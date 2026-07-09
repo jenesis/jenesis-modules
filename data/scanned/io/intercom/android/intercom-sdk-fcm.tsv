@@ -113,3 +113,5 @@
 18.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/intercom/android/intercom-sdk-fcm/18.1.0/intercom-sdk-fcm-18.1.0.jar returned status 404
 18.2.0		2026-05-21T20:33:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/intercom/android/intercom-sdk-fcm/18.2.0/intercom-sdk-fcm-18.2.0.jar returned status 404
 18.3.0		2026-06-15T11:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/intercom/android/intercom-sdk-fcm/18.3.0/intercom-sdk-fcm-18.3.0.jar returned status 404
+18.3.1		2026-06-23T10:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/intercom/android/intercom-sdk-fcm/18.3.1/intercom-sdk-fcm-18.3.1.jar returned status 404
+18.3.2		2026-07-01T09:54:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/intercom/android/intercom-sdk-fcm/18.3.2/intercom-sdk-fcm-18.3.2.jar returned status 404

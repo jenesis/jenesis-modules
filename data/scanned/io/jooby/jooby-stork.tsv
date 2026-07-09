@@ -115,3 +115,4 @@
 4.5.0		2026-05-07T20:54:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.0/jooby-stork-4.5.0.jar returned status 404
 4.5.1		2026-05-12T22:39:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.1/jooby-stork-4.5.1.jar returned status 404
 4.5.2		2026-06-03T22:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.2/jooby-stork-4.5.2.jar returned status 404
+4.5.3		2026-07-01T13:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.3/jooby-stork-4.5.3.jar returned status 404

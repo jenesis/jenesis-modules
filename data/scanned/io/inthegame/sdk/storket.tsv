@@ -1,1 +1,3 @@
 1.0.15		2026-06-12T16:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inthegame/sdk/storket/1.0.15/storket-1.0.15.jar returned status 404
+1.0.16		2026-06-24T07:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inthegame/sdk/storket/1.0.16/storket-1.0.16.jar returned status 404
+1.0.17		2026-07-02T17:05:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inthegame/sdk/storket/1.0.17/storket-1.0.17.jar returned status 404

@@ -1,3 +1,4 @@
 16.0.0	named	org.apache.arrow	flight-integration-tests	2024-04-16T18:11:00Z	
 16.1.0	named	org.apache.arrow	flight-integration-tests	2024-05-09T12:20:43Z	
 1.4.0	named	org.apache.pinot	pinot-tools	2025-09-11T18:33:47Z	18.3.0
+0.6.0-rc2_spark_4.1.2	named	io.indextables	indextables_spark	2026-07-03T12:01:02Z	18.3.0

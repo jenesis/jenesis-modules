@@ -13,6 +13,7 @@
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.29.0/hyperfoil-all-0.29.0.jar returned status 404
 0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.29.1/hyperfoil-all-0.29.1.jar returned status 404
 0.29.2		2026-05-18T17:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.29.2/hyperfoil-all-0.29.2.jar returned status 404
+0.29.3		2026-06-24T14:03:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.29.3/hyperfoil-all-0.29.3.jar returned status 404
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.3/hyperfoil-all-0.3.jar returned status 404
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.4/hyperfoil-all-0.4.jar returned status 404
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-all/0.5/hyperfoil-all-0.5.jar returned status 404

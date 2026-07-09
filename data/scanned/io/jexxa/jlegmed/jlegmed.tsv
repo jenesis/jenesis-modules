@@ -22,3 +22,4 @@
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jlegmed/jlegmed/5.4.1/jlegmed-5.4.1.jar returned status 404
 5.4.2		2026-05-23T06:20:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jlegmed/jlegmed/5.4.2/jlegmed-5.4.2.jar returned status 404
 5.4.3		2026-06-12T14:56:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jlegmed/jlegmed/5.4.3/jlegmed-5.4.3.jar returned status 404
+5.4.4		2026-07-01T18:28:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jlegmed/jlegmed/5.4.4/jlegmed-5.4.4.jar returned status 404

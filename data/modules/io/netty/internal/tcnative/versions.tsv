@@ -760,6 +760,7 @@
 0.15.2	named	com.spotify.confidence	openfeature-provider-local	2026-06-18T08:46:16Z	2.0.72.Final
 4.129.15	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-19T17:07:33Z	2.0.72.Final
 4.131.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-23T15:42:40Z	2.0.72.Final
+1.82.1	named	io.grpc	grpc-netty-shaded	2026-06-23T17:22:26Z	2.0.75.Final
 1.3.0	named	org.apache.gravitino	gravitino-iceberg-gcp-bundle	2026-06-24T10:07:24Z	2.0.74.Final
 4.131.9	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-24T17:31:56Z	2.0.72.Final
 1.36.0	named	io.temporal	temporal-shaded	2026-06-24T17:53:51Z	2.0.72.Final
