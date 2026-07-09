@@ -6,6 +6,8 @@
 2.0.0	metadata	2024-01-19T18:43:28Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-tvossimulatorarm64/2.1.0/paging-tvossimulatorarm64-2.1.0.jar returned status 404
 2.1.0	metadata	2024-03-18T22:45:31Z	
+2.10.0		2026-06-22T09:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-tvossimulatorarm64/2.10.0/paging-tvossimulatorarm64-2.10.0.jar returned status 404
+2.10.0	metadata	2026-06-22T09:07:39Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-tvossimulatorarm64/2.2.0/paging-tvossimulatorarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2024-05-30T21:25:40Z	
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/paging-tvossimulatorarm64/2.2.1/paging-tvossimulatorarm64-2.2.1.jar returned status 404

@@ -1,1 +1,4 @@
 3.4		2026-05-20T06:12:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/verron/office-stamper/3.4/office-stamper-3.4.jar returned status 404
+3.5		2026-06-21T15:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/verron/office-stamper/3.5/office-stamper-3.5.jar returned status 404
+3.6		2026-06-25T15:28:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/verron/office-stamper/3.6/office-stamper-3.6.jar returned status 404
+3.7		2026-07-01T14:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/verron/office-stamper/3.7/office-stamper-3.7.jar returned status 404

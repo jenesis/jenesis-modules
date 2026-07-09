@@ -5177,3 +5177,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.710.53	named	com.yahoo.vespa	config-application-package	2026-06-23T04:53:10Z	2.21
 3.6.0.CR1	named	io.debezium	debezium-connector-cassandra-5	2026-06-23T11:47:14Z	2.21
 10.2.4-BETA-2	named	com.chartiq.finsemble	finsemble	2026-06-24T12:46:35Z	2.13.5
+7.0.0-RC1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-27T18:50:40Z	2.21
+7.0.0-RC2	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-29T13:42:14Z	2.21
+7.0.0-RC3	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-02T02:23:34Z	2.21
+7.0.0-RC4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-03T18:01:51Z	2.21

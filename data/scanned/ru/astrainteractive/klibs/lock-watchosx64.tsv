@@ -8,3 +8,5 @@
 5.0.4	metadata	2026-04-21T12:05:01Z	
 5.1.0		2026-06-20T08:32:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/lock-watchosx64/5.1.0/lock-watchosx64-5.1.0.jar returned status 404
 5.1.0	metadata	2026-06-20T08:32:34Z	
+5.2.0		2026-06-22T09:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/lock-watchosx64/5.2.0/lock-watchosx64-5.2.0.jar returned status 404
+5.2.0	metadata	2026-06-22T09:04:12Z	

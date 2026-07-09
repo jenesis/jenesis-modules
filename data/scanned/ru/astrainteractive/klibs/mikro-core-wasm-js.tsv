@@ -13,3 +13,4 @@
 1.24.0		2026-06-02T08:54:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-core-wasm-js/1.24.0/mikro-core-wasm-js-1.24.0.jar returned status 404
 1.25.0		2026-06-10T18:28:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-core-wasm-js/1.25.0/mikro-core-wasm-js-1.25.0.jar returned status 404
 1.26.0		2026-06-20T08:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-core-wasm-js/1.26.0/mikro-core-wasm-js-1.26.0.jar returned status 404
+1.27.0		2026-06-22T09:04:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/mikro-core-wasm-js/1.27.0/mikro-core-wasm-js-1.27.0.jar returned status 404

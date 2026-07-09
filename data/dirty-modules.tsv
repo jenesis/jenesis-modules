@@ -700,3 +700,17 @@ ru.testit.cucumber7
 ru.testit.cucumber6
 ru.testit.cucumber5
 ru.testit.cucumber4
+redis.clients.jedis
+pro.verron.officestamper.utils
+pro.verron.officestamper
+pro.verron.officestamper.cli
+pro.verron.officestamper.excel
+pro.verron.asciidoc.preview
+pro.verron.asciidoc.docx
+pro.verron.asciidoc.core
+pro.verron.asciidoc.converters
+pro.verron.asciidoc.compiler
+pro.peter_rader.linqava
+com.fasterxml.jackson.annotation
+io.opentelemetry.exporter.prometheus
+org.bouncycastle.provider
