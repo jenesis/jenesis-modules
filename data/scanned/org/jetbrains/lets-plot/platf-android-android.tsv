@@ -5,3 +5,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/platf-android-android/3.1.0/platf-android-android-3.1.0.jar returned status 404
 3.2.0		2026-05-27T18:53:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/platf-android-android/3.2.0/platf-android-android-3.2.0.jar returned status 404
 3.2.1		2026-06-15T21:11:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/platf-android-android/3.2.1/platf-android-android-3.2.1.jar returned status 404
+3.2.2		2026-06-30T20:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/platf-android-android/3.2.2/platf-android-android-3.2.2.jar returned status 404

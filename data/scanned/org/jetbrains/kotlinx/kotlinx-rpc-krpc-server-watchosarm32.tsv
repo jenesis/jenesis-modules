@@ -2,3 +2,5 @@
 0.10.1	metadata	2025-10-27T08:23:04Z	
 0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-krpc-server-watchosarm32/0.10.2/kotlinx-rpc-krpc-server-watchosarm32-0.10.2.jar returned status 404
 0.10.2	metadata	2026-01-16T01:06:00Z	
+0.10.3		2026-06-24T21:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-krpc-server-watchosarm32/0.10.3/kotlinx-rpc-krpc-server-watchosarm32-0.10.3.jar returned status 404
+0.10.3	metadata	2026-06-24T21:11:59Z	

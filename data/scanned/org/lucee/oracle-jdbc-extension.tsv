@@ -2,3 +2,4 @@
 21.19.0.0-ojdbc11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/oracle-jdbc-extension/21.19.0.0-ojdbc11/oracle-jdbc-extension-21.19.0.0-ojdbc11.jar returned status 404
 21.19.0.0-ojdbc8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/oracle-jdbc-extension/21.19.0.0-ojdbc8/oracle-jdbc-extension-21.19.0.0-ojdbc8.jar returned status 404
 23.26.0.0-ojdbc11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/oracle-jdbc-extension/23.26.0.0-ojdbc11/oracle-jdbc-extension-23.26.0.0-ojdbc11.jar returned status 404
+23.8.0.25.04-ojdbc11		2026-06-22T14:51:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/oracle-jdbc-extension/23.8.0.25.04-ojdbc11/oracle-jdbc-extension-23.8.0.25.04-ojdbc11.jar returned status 404

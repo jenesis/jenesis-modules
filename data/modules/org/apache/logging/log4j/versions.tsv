@@ -2511,3 +2511,5 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 0.14.2	named	org.apache.hudi	hudi-cli-bundle_2.12	2026-06-06T06:16:31Z	2.17.2
 4.3.2	named	com.vaimee	sepa-jena-vaimee-sjenar-fuseki	2026-06-08T16:51:12Z	2.17.2
 4.3.2	named	com.vaimee	sepa-jena-fuseki-fulljar	2026-06-08T16:51:13Z	2.17.2
+2.26.0	named	org.lucee	log4j-api	2026-06-24T16:36:40Z	2.26.0
+2.26.0.0	named	org.lucee	log4j-api	2026-06-26T08:21:49Z	2.26.0

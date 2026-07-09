@@ -19,3 +19,4 @@
 4.25.0		2026-06-05T07:22:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.25.0/cq-4.25.0.jar returned status 404
 4.25.1		2026-06-08T12:16:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.25.1/cq-4.25.1.jar returned status 404
 4.26.0		2026-06-09T06:34:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.26.0/cq-4.26.0.jar returned status 404
+4.27.0		2026-07-03T15:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.27.0/cq-4.27.0.jar returned status 404

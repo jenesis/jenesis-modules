@@ -1,3 +1,4 @@
 4.14.0		2026-05-26T20:44:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-wasm-js/4.14.0/lets-plot-kotlin-wasm-js-4.14.0.jar returned status 404
 4.14.0-dev1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-wasm-js/4.14.0-dev1/lets-plot-kotlin-wasm-js-4.14.0-dev1.jar returned status 404
 4.14.1		2026-06-10T23:10:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-wasm-js/4.14.1/lets-plot-kotlin-wasm-js-4.14.1.jar returned status 404
+4.15.0		2026-06-30T18:04:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/lets-plot-kotlin-wasm-js/4.15.0/lets-plot-kotlin-wasm-js-4.15.0.jar returned status 404

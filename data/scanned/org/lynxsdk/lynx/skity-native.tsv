@@ -6,3 +6,4 @@
 1.1.0-alpha.0		2026-06-01T09:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/skity-native/1.1.0-alpha.0/skity-native-1.1.0-alpha.0.jar returned status 404
 1.1.0-alpha.1		2026-06-05T07:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/skity-native/1.1.0-alpha.1/skity-native-1.1.0-alpha.1.jar returned status 404
 1.1.0-alpha.2		2026-06-17T10:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/skity-native/1.1.0-alpha.2/skity-native-1.1.0-alpha.2.jar returned status 404
+1.1.0-alpha.3		2026-06-25T03:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/skity-native/1.1.0-alpha.3/skity-native-1.1.0-alpha.3.jar returned status 404

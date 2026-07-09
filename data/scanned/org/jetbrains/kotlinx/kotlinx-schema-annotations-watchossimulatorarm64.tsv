@@ -28,3 +28,5 @@
 0.4.4	metadata	2026-03-18T14:24:32Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-schema-annotations-watchossimulatorarm64/0.5.0/kotlinx-schema-annotations-watchossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-04-07T12:50:12Z	
+0.6.0		2026-07-04T12:38:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-schema-annotations-watchossimulatorarm64/0.6.0/kotlinx-schema-annotations-watchossimulatorarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-04T12:38:21Z	

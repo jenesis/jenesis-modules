@@ -85,6 +85,7 @@
 13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/13.1.0/android-sdk-13.1.0.jar returned status 404
 13.2.0		2026-05-25T22:57:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/13.2.0/android-sdk-13.2.0.jar returned status 404
 13.3.0		2026-06-07T21:53:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/13.3.0/android-sdk-13.3.0.jar returned status 404
+13.3.1		2026-06-24T02:55:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/13.3.1/android-sdk-13.3.1.jar returned status 404
 9.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/9.4.1/android-sdk-9.4.1.jar returned status 404
 9.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/9.4.2/android-sdk-9.4.2.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/gl/android-sdk/9.5.0/android-sdk-9.5.0.jar returned status 404

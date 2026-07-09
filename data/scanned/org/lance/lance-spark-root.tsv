@@ -23,3 +23,4 @@
 0.5.0		2026-06-08T21:22:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-spark-root/0.5.0/lance-spark-root-0.5.0.jar returned status 404
 0.5.0-beta.1		2026-05-20T01:35:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-spark-root/0.5.0-beta.1/lance-spark-root-0.5.0-beta.1.jar returned status 404
 0.5.1		2026-06-09T04:54:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-spark-root/0.5.1/lance-spark-root-0.5.1.jar returned status 404
+0.6.0		2026-07-03T03:23:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-spark-root/0.6.0/lance-spark-root-0.6.0.jar returned status 404

@@ -264,7 +264,10 @@
 26.05.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.05.7/sdk-android-26.05.7.jar returned status 404
 26.06.11		2026-06-11T17:01:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.11/sdk-android-26.06.11.jar returned status 404
 26.06.18		2026-06-18T10:33:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.18/sdk-android-26.06.18.jar returned status 404
+26.06.24		2026-06-24T08:51:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.24/sdk-android-26.06.24.jar returned status 404
+26.06.25		2026-06-25T15:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.25/sdk-android-26.06.25.jar returned status 404
 26.06.3		2026-06-03T07:54:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.3/sdk-android-26.06.3.jar returned status 404
+26.06.30		2026-06-30T11:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.06.30/sdk-android-26.06.30.jar returned status 404
 26.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.1.12/sdk-android-26.1.12.jar returned status 404
 26.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.1.16/sdk-android-26.1.16.jar returned status 404
 26.1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/matrix/rustcomponents/sdk-android/26.1.22/sdk-android-26.1.22.jar returned status 404

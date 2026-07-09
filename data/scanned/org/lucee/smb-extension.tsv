@@ -1,0 +1,2 @@
+1.0.0.2-RC		2026-06-23T06:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/smb-extension/1.0.0.2-RC/smb-extension-1.0.0.2-RC.jar returned status 404
+1.0.0.3-RC		2026-06-23T07:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/smb-extension/1.0.0.3-RC/smb-extension-1.0.0.3-RC.jar returned status 404

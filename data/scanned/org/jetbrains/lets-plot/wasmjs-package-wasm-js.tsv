@@ -2,3 +2,5 @@
 4.10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/wasmjs-package-wasm-js/4.10.0-rc1/wasmjs-package-wasm-js-4.10.0-rc1.jar returned status 404
 4.10.1		2026-05-20T20:40:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/wasmjs-package-wasm-js/4.10.1/wasmjs-package-wasm-js-4.10.1.jar returned status 404
 4.10.3		2026-06-10T20:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/wasmjs-package-wasm-js/4.10.3/wasmjs-package-wasm-js-4.10.3.jar returned status 404
+4.11.0		2026-06-30T10:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/wasmjs-package-wasm-js/4.11.0/wasmjs-package-wasm-js-4.11.0.jar returned status 404
+4.11.0-rc1		2026-06-26T15:08:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/lets-plot/wasmjs-package-wasm-js/4.11.0-rc1/wasmjs-package-wasm-js-4.11.0-rc1.jar returned status 404

@@ -324,3 +324,5 @@
 0.24.7	classes	2024-02-06T08:21:28Z	
 0.24.8	classes	2024-02-28T11:39:30Z	
 0.24.9	classes	2024-02-29T04:10:42Z	
+0.25.0		2026-06-24T00:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killpay/0.25.0/killbill-profiles-killpay-0.25.0.jar returned status 404
+0.25.0	classes	2026-06-24T00:08:56Z	

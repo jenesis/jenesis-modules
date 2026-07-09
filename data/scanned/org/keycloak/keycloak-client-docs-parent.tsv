@@ -1,3 +1,4 @@
+26.0.10		2026-06-30T08:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-client-docs-parent/26.0.10/keycloak-client-docs-parent-26.0.10.jar returned status 404
 26.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-client-docs-parent/26.0.6/keycloak-client-docs-parent-26.0.6.jar returned status 404
 26.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-client-docs-parent/26.0.7/keycloak-client-docs-parent-26.0.7.jar returned status 404
 26.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-client-docs-parent/26.0.8/keycloak-client-docs-parent-26.0.8.jar returned status 404
