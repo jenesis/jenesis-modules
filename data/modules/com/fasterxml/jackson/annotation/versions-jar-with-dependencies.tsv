@@ -5183,6 +5183,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.0.0-RC1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-27T18:50:40Z	2.21
 7.0.0-RC2	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-29T13:42:14Z	2.21
 7.3.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-01T06:31:57Z	2.22
+3.6.0.Final	named	io.debezium	debezium-connector-cassandra-5	2026-07-01T09:06:08Z	2.21
 7.0.0-RC3	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-02T02:23:34Z	2.21
 2.1.0	named	io.orqueio.bpm	orqueio-engine-rest	2026-07-03T08:12:36Z	2.15.2
 7.0.0-RC4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-03T18:01:51Z	2.21

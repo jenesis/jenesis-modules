@@ -1,1 +1,2 @@
 6.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cdap/cdap/cdap/6.11.1/cdap-6.11.1.jar returned status 404
+6.11.4		2026-06-12T11:48:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cdap/cdap/cdap/6.11.4/cdap-6.11.4.jar returned status 404

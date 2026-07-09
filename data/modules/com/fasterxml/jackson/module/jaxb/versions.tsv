@@ -3921,6 +3921,8 @@ master-rc-daily	named	io.streamnative	pulsar-client-admin	2023-02-08T12:25:05Z	2
 2.21.4	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-05-29T04:26:20Z	2.21.4
 2.22.0	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-06-01T00:32:09Z	2.22.0
 5.2.0	named	com.liquibase	liquibase-commercial	2026-06-09T16:11:57Z	2.21.2
+6.11.4	named	io.cdap.cdap	cdap-etl-tools	2026-06-12T11:48:33Z	2.12.7
+6.11.4	named	io.cdap.cdap	cdap-cli	2026-06-12T11:48:35Z	2.12.7
 6.0.11	named	com.datastax.oss	pulsar-jms-all	2026-06-12T17:41:28Z	2.14.2
 1.3.0	named	org.apache.gravitino	gravitino-azure-bundle	2026-06-24T09:59:00Z	2.12.7
 1.3.0	named	org.apache.gravitino	gravitino-aliyun-bundle	2026-06-24T10:05:16Z	2.12.7

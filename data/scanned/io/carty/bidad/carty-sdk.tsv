@@ -15,3 +15,5 @@
 1.6.0		2026-06-08T02:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carty/bidad/carty-sdk/1.6.0/carty-sdk-1.6.0.jar returned status 404
 1.6.1		2026-06-08T03:15:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carty/bidad/carty-sdk/1.6.1/carty-sdk-1.6.1.jar returned status 404
 1.7.0		2026-06-22T11:17:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carty/bidad/carty-sdk/1.7.0/carty-sdk-1.7.0.jar returned status 404
+1.8.0		2026-07-06T06:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carty/bidad/carty-sdk/1.8.0/carty-sdk-1.8.0.jar returned status 404
+1.8.1		2026-07-06T09:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carty/bidad/carty-sdk/1.8.1/carty-sdk-1.8.1.jar returned status 404
