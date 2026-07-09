@@ -11,3 +11,6 @@
 0.5.2		2026-06-11T05:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.5.2/aura-parent-0.5.2.jar returned status 404
 0.5.3		2026-06-18T09:22:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.5.3/aura-parent-0.5.3.jar returned status 404
 0.5.4		2026-06-23T10:13:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.5.4/aura-parent-0.5.4.jar returned status 404
+0.5.5		2026-06-24T03:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.5.5/aura-parent-0.5.5.jar returned status 404
+0.6.0		2026-06-25T03:27:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.6.0/aura-parent-0.6.0.jar returned status 404
+0.6.1		2026-06-25T08:51:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tianhaocui/aura-parent/0.6.1/aura-parent-0.6.1.jar returned status 404

@@ -1,0 +1,4 @@
+1.0.0-alpha11		2026-06-29T19:20:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-async-js/1.0.0-alpha11/tea-async-js-1.0.0-alpha11.jar returned status 404
+1.0.0-alpha11-rc6		2026-06-29T17:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-async-js/1.0.0-alpha11-rc6/tea-async-js-1.0.0-alpha11-rc6.jar returned status 404
+1.0.0-alpha12		2026-06-30T21:25:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-async-js/1.0.0-alpha12/tea-async-js-1.0.0-alpha12.jar returned status 404
+1.0.0-alpha12-rc1		2026-06-30T20:26:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-async-js/1.0.0-alpha12-rc1/tea-async-js-1.0.0-alpha12-rc1.jar returned status 404

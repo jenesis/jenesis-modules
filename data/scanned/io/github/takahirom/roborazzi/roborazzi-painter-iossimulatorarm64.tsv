@@ -128,3 +128,7 @@
 1.63.0	metadata	2026-05-20T02:15:19Z	
 1.64.0		2026-06-13T07:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-painter-iossimulatorarm64/1.64.0/roborazzi-painter-iossimulatorarm64-1.64.0.jar returned status 404
 1.64.0	metadata	2026-06-13T07:31:10Z	
+1.65.0		2026-07-04T00:36:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-painter-iossimulatorarm64/1.65.0/roborazzi-painter-iossimulatorarm64-1.65.0.jar returned status 404
+1.65.0	metadata	2026-07-04T00:36:58Z	
+1.66.0		2026-07-06T03:50:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-painter-iossimulatorarm64/1.66.0/roborazzi-painter-iossimulatorarm64-1.66.0.jar returned status 404
+1.66.0	metadata	2026-07-06T03:50:08Z	

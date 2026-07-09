@@ -1,0 +1,4 @@
+2.0.3-1		2026-06-29T04:05:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/texport/ofd-kt-proto-iossimulatorarm64/2.0.3-1/ofd-kt-proto-iossimulatorarm64-2.0.3-1.jar returned status 404
+2.0.3-1	metadata	2026-06-29T04:05:06Z	
+2.0.3-2		2026-06-29T04:11:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/texport/ofd-kt-proto-iossimulatorarm64/2.0.3-2/ofd-kt-proto-iossimulatorarm64-2.0.3-2.jar returned status 404
+2.0.3-2	metadata	2026-06-29T04:11:06Z	

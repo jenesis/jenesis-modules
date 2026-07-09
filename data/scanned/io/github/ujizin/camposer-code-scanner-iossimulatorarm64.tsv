@@ -4,3 +4,7 @@
 1.0.1	metadata	2026-03-11T23:06:51Z	
 1.0.2		2026-06-09T13:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ujizin/camposer-code-scanner-iossimulatorarm64/1.0.2/camposer-code-scanner-iossimulatorarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-06-09T13:03:13Z	
+1.0.3		2026-06-26T01:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ujizin/camposer-code-scanner-iossimulatorarm64/1.0.3/camposer-code-scanner-iossimulatorarm64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-06-26T01:31:59Z	
+1.0.3-rc01		2026-06-29T10:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ujizin/camposer-code-scanner-iossimulatorarm64/1.0.3-rc01/camposer-code-scanner-iossimulatorarm64-1.0.3-rc01.jar returned status 404
+1.0.3-rc01	metadata	2026-06-29T10:15:51Z	

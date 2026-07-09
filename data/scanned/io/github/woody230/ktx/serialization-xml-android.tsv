@@ -8,3 +8,5 @@
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/serialization-xml-android/6.6.0/serialization-xml-android-6.6.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/serialization-xml-android/7.0.0/serialization-xml-android-7.0.0.jar returned status 404
 8.0.0		2026-06-14T15:13:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/serialization-xml-android/8.0.0/serialization-xml-android-8.0.0.jar returned status 404
+9.0.0		2026-06-27T17:55:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/serialization-xml-android/9.0.0/serialization-xml-android-9.0.0.jar returned status 404
+9.0.1		2026-06-27T18:56:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/serialization-xml-android/9.0.1/serialization-xml-android-9.0.1.jar returned status 404

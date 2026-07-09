@@ -10,3 +10,4 @@
 11.2026.0528		2026-05-28T08:43:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/watersort-sdk/gamemysticsortsdk/11.2026.0528/gamemysticsortsdk-11.2026.0528.jar returned status 404
 11.2026.0603		2026-06-04T06:19:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/watersort-sdk/gamemysticsortsdk/11.2026.0603/gamemysticsortsdk-11.2026.0603.jar returned status 404
 11.2026.0606		2026-06-12T10:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/watersort-sdk/gamemysticsortsdk/11.2026.0606/gamemysticsortsdk-11.2026.0606.jar returned status 404
+11.2026.0701		2026-07-01T09:56:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/watersort-sdk/gamemysticsortsdk/11.2026.0701/gamemysticsortsdk-11.2026.0701.jar returned status 404

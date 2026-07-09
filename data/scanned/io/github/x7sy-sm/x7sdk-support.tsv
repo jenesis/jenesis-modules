@@ -68,5 +68,6 @@
 8.70.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.70.0.1/x7sdk-support-8.70.0.1.jar returned status 404
 8.72.0.1		2026-05-28T12:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.72.0.1/x7sdk-support-8.72.0.1.jar returned status 404
 8.74.0.1		2026-06-18T07:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.74.0.1/x7sdk-support-8.74.0.1.jar returned status 404
+8.76.0.1		2026-07-02T10:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.76.0.1/x7sdk-support-8.76.0.1.jar returned status 404
 8.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.8.0.1/x7sdk-support-8.8.0.1.jar returned status 404
 8.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-support/8.8.1.1/x7sdk-support-8.8.1.1.jar returned status 404

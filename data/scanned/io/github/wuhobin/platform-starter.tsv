@@ -1,0 +1,2 @@
+1.0.0		2026-07-03T01:31:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wuhobin/platform-starter/1.0.0/platform-starter-1.0.0.jar returned status 404
+1.0.1		2026-07-03T06:04:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wuhobin/platform-starter/1.0.1/platform-starter-1.0.1.jar returned status 404

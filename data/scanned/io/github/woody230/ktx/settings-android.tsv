@@ -10,3 +10,5 @@
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/settings-android/6.6.0/settings-android-6.6.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/settings-android/7.0.0/settings-android-7.0.0.jar returned status 404
 8.0.0		2026-06-14T15:13:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/settings-android/8.0.0/settings-android-8.0.0.jar returned status 404
+9.0.0		2026-06-27T17:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/settings-android/9.0.0/settings-android-9.0.0.jar returned status 404
+9.0.1		2026-06-27T18:56:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/woody230/ktx/settings-android/9.0.1/settings-android-9.0.1.jar returned status 404

@@ -1,0 +1,2 @@
+0.1.0		2026-07-03T17:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vikas0686/wogu-parent/0.1.0/wogu-parent-0.1.0.jar returned status 404
+0.1.1		2026-07-05T12:09:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vikas0686/wogu-parent/0.1.1/wogu-parent-0.1.1.jar returned status 404
