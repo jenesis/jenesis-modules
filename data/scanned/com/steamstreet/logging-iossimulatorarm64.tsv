@@ -12,6 +12,8 @@
 2.2.15	metadata	2026-05-20T18:39:27Z	
 2.2.16		2026-06-02T23:32:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/logging-iossimulatorarm64/2.2.16/logging-iossimulatorarm64-2.2.16.jar returned status 404
 2.2.16	metadata	2026-06-02T23:32:13Z	
+2.2.17		2026-07-01T21:54:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/logging-iossimulatorarm64/2.2.17/logging-iossimulatorarm64-2.2.17.jar returned status 404
+2.2.17	metadata	2026-07-01T21:54:47Z	
 2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/logging-iossimulatorarm64/2.2.3/logging-iossimulatorarm64-2.2.3.jar returned status 404
 2.2.3	metadata	2025-10-12T21:44:39Z	
 2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/logging-iossimulatorarm64/2.2.4/logging-iossimulatorarm64-2.2.4.jar returned status 404

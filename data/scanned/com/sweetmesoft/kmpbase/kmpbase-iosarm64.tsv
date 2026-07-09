@@ -32,3 +32,5 @@
 2.1.7	metadata	2026-03-21T22:53:12Z	
 2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sweetmesoft/kmpbase/kmpbase-iosarm64/2.1.8/kmpbase-iosarm64-2.1.8.jar returned status 404
 2.1.8	metadata	2026-05-07T02:38:12Z	
+2.1.9		2026-06-30T02:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sweetmesoft/kmpbase/kmpbase-iosarm64/2.1.9/kmpbase-iosarm64-2.1.9.jar returned status 404
+2.1.9	metadata	2026-06-30T02:21:22Z	

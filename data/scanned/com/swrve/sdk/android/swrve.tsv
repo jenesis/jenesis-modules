@@ -34,6 +34,7 @@
 11.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/11.7.0/swrve-11.7.0.jar returned status 404
 11.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/11.8.0/swrve-11.8.0.jar returned status 404
 11.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/11.9.0/swrve-11.9.0.jar returned status 404
+11.9.1		2026-06-26T12:27:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/11.9.1/swrve-11.9.1.jar returned status 404
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/12.0.0/swrve-12.0.0.jar returned status 404
 12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/12.1.0/swrve-12.1.0.jar returned status 404
 12.2.0		2026-06-17T10:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve/12.2.0/swrve-12.2.0.jar returned status 404

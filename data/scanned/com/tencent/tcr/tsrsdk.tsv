@@ -4,3 +4,4 @@
 1.0.12		2026-05-28T03:16:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tsrsdk/1.0.12/tsrsdk-1.0.12.jar returned status 404
 1.0.8		2026-05-22T16:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tsrsdk/1.0.8/tsrsdk-1.0.8.jar returned status 404
 1.0.9		2026-05-27T10:17:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tsrsdk/1.0.9/tsrsdk-1.0.9.jar returned status 404
+1.1.0		2026-06-25T03:37:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tcr/tsrsdk/1.1.0/tsrsdk-1.1.0.jar returned status 404

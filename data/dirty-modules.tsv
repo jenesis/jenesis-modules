@@ -5030,3 +5030,15 @@ com.typesafe.netty.http
 com.typesafe.netty.core
 com.github.luben.zstd_jni
 com.tigerbeetle
+com.stripe
+com.sshtools.twoslices.swt
+com.sshtools.twoslices
+com.sshtools.slf4jtty
+com.sshtools.liftlib
+com.sshtools.jini.serialization
+com.sshtools.jini.schema
+com.sshtools.jini.prefs
+com.sshtools.jini
+com.sshtools.jini.config
+com.jdapaptive.oauth.client
+okhttp3
