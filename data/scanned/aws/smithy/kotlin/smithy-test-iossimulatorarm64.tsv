@@ -62,3 +62,9 @@
 1.6.8	metadata	2026-03-30T13:47:43Z	
 1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-test-iossimulatorarm64/1.6.9/smithy-test-iossimulatorarm64-1.6.9.jar returned status 404
 1.6.9	metadata	2026-03-31T17:36:14Z	
+1.7.0		2026-07-06T17:53:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-test-iossimulatorarm64/1.7.0/smithy-test-iossimulatorarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-07-06T17:53:15Z	
+1.7.1		2026-07-07T18:58:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-test-iossimulatorarm64/1.7.1/smithy-test-iossimulatorarm64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-07-07T18:58:26Z	
+1.7.2		2026-07-08T19:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-test-iossimulatorarm64/1.7.2/smithy-test-iossimulatorarm64-1.7.2.jar returned status 404
+1.7.2	metadata	2026-07-08T19:14:45Z	

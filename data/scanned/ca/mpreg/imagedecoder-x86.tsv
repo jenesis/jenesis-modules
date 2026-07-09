@@ -1,0 +1,2 @@
+7		2026-07-05T18:37:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder-x86/7/imagedecoder-x86-7.jar returned status 404
+8		2026-07-05T18:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder-x86/8/imagedecoder-x86-8.jar returned status 404

@@ -30,3 +30,6 @@
 1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.6.7/smithy-client-linuxx64-1.6.7.jar returned status 404
 1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.6.8/smithy-client-linuxx64-1.6.8.jar returned status 404
 1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.6.9/smithy-client-linuxx64-1.6.9.jar returned status 404
+1.7.0		2026-07-06T17:53:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.7.0/smithy-client-linuxx64-1.7.0.jar returned status 404
+1.7.1		2026-07-07T18:58:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.7.1/smithy-client-linuxx64-1.7.1.jar returned status 404
+1.7.2		2026-07-08T19:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-linuxx64/1.7.2/smithy-client-linuxx64-1.7.2.jar returned status 404

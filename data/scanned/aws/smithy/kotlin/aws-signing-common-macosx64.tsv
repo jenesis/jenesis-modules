@@ -62,3 +62,9 @@
 1.6.8	metadata	2026-03-30T13:47:44Z	
 1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-signing-common-macosx64/1.6.9/aws-signing-common-macosx64-1.6.9.jar returned status 404
 1.6.9	metadata	2026-03-31T17:36:10Z	
+1.7.0		2026-07-06T17:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-signing-common-macosx64/1.7.0/aws-signing-common-macosx64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-07-06T17:53:22Z	
+1.7.1		2026-07-07T18:58:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-signing-common-macosx64/1.7.1/aws-signing-common-macosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-07-07T18:58:29Z	
+1.7.2		2026-07-08T19:14:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-signing-common-macosx64/1.7.2/aws-signing-common-macosx64-1.7.2.jar returned status 404
+1.7.2	metadata	2026-07-08T19:14:44Z	

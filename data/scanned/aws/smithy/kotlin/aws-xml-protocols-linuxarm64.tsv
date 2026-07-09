@@ -30,3 +30,6 @@
 1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.6.7/aws-xml-protocols-linuxarm64-1.6.7.jar returned status 404
 1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.6.8/aws-xml-protocols-linuxarm64-1.6.8.jar returned status 404
 1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.6.9/aws-xml-protocols-linuxarm64-1.6.9.jar returned status 404
+1.7.0		2026-07-06T17:53:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.7.0/aws-xml-protocols-linuxarm64-1.7.0.jar returned status 404
+1.7.1		2026-07-07T18:58:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.7.1/aws-xml-protocols-linuxarm64-1.7.1.jar returned status 404
+1.7.2		2026-07-08T19:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-linuxarm64/1.7.2/aws-xml-protocols-linuxarm64-1.7.2.jar returned status 404

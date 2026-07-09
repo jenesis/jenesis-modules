@@ -4,3 +4,4 @@
 4-a084762		2026-06-23T13:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder/4-a084762/imagedecoder-4-a084762.jar returned status 404
 5-3b46c4e		2026-06-23T21:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder/5-3b46c4e/imagedecoder-5-3b46c4e.jar returned status 404
 6		2026-06-24T09:16:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder/6/imagedecoder-6.jar returned status 404
+8		2026-07-05T19:12:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/imagedecoder/8/imagedecoder-8.jar returned status 404
