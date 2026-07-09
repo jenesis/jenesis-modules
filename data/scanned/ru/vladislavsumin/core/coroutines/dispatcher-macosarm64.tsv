@@ -8,3 +8,11 @@
 1.6.0	metadata	2026-05-30T14:38:57Z	
 1.7.0		2026-05-30T17:45:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-macosarm64/1.7.0/dispatcher-macosarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:18Z	
+1.7.1		2026-06-27T10:42:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-macosarm64/1.7.1/dispatcher-macosarm64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:43Z	
+1.8.0		2026-06-27T17:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-macosarm64/1.8.0/dispatcher-macosarm64-1.8.0.jar returned status 404
+1.8.0	metadata	2026-06-27T17:08:30Z	
+1.8.1		2026-06-30T20:43:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-macosarm64/1.8.1/dispatcher-macosarm64-1.8.1.jar returned status 404
+1.8.1	metadata	2026-06-30T20:43:28Z	
+1.9.0		2026-07-03T19:54:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-macosarm64/1.9.0/dispatcher-macosarm64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-07-03T19:54:07Z	

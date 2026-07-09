@@ -3,3 +3,7 @@
 1.5.2		2026-05-30T13:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.5.2/core-android-1.5.2.jar returned status 404
 1.6.0		2026-05-30T14:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.6.0/core-android-1.6.0.jar returned status 404
 1.7.0		2026-05-30T17:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.7.0/core-android-1.7.0.jar returned status 404
+1.7.1		2026-06-27T10:42:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.7.1/core-android-1.7.1.jar returned status 404
+1.8.0		2026-06-27T17:08:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.8.0/core-android-1.8.0.jar returned status 404
+1.8.1		2026-06-30T20:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.8.1/core-android-1.8.1.jar returned status 404
+1.9.0		2026-07-03T19:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/core-android/1.9.0/core-android-1.9.0.jar returned status 404

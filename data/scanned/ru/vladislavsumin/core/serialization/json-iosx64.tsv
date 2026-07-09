@@ -8,3 +8,5 @@
 1.6.0	metadata	2026-05-30T14:39:11Z	
 1.7.0		2026-05-30T17:45:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-iosx64/1.7.0/json-iosx64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:20Z	
+1.7.1		2026-06-27T10:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-iosx64/1.7.1/json-iosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:59Z	

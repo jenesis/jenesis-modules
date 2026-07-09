@@ -1,0 +1,2 @@
+0.10.12.2		2026-06-28T11:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/addzero/jimmer-bom/0.10.12.2/jimmer-bom-0.10.12.2.jar returned status 404
+0.10.12.4		2026-07-01T07:00:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/addzero/jimmer-bom/0.10.12.4/jimmer-bom-0.10.12.4.jar returned status 404

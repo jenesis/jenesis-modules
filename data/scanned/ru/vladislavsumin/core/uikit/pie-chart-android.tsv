@@ -1,3 +1,7 @@
 1.5.2		2026-05-30T13:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.5.2/pie-chart-android-1.5.2.jar returned status 404
 1.6.0		2026-05-30T14:39:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.6.0/pie-chart-android-1.6.0.jar returned status 404
 1.7.0		2026-05-30T17:45:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.7.0/pie-chart-android-1.7.0.jar returned status 404
+1.7.1		2026-06-27T10:42:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.7.1/pie-chart-android-1.7.1.jar returned status 404
+1.8.0		2026-06-27T17:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.8.0/pie-chart-android-1.8.0.jar returned status 404
+1.8.1		2026-06-30T20:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.8.1/pie-chart-android-1.8.1.jar returned status 404
+1.9.0		2026-07-03T19:54:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/uikit/pie-chart-android/1.9.0/pie-chart-android-1.9.0.jar returned status 404

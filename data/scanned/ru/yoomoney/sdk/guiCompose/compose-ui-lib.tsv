@@ -155,6 +155,7 @@
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.2/compose-ui-lib-3.5.2.jar returned status 404
 3.5.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.20/compose-ui-lib-3.5.20.jar returned status 404
 3.5.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.21/compose-ui-lib-3.5.21.jar returned status 404
+3.5.22		2026-07-01T10:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.22/compose-ui-lib-3.5.22.jar returned status 404
 3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.3/compose-ui-lib-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.4/compose-ui-lib-3.5.4.jar returned status 404
 3.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/guiCompose/compose-ui-lib/3.5.5/compose-ui-lib-3.5.5.jar returned status 404

@@ -8,3 +8,11 @@
 1.6.0	metadata	2026-05-30T14:39:08Z	
 1.7.0		2026-05-30T17:45:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/yaml-macosarm64/1.7.0/yaml-macosarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:16Z	
+1.7.1		2026-06-27T10:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/yaml-macosarm64/1.7.1/yaml-macosarm64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:54Z	
+1.8.0		2026-06-27T17:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/yaml-macosarm64/1.8.0/yaml-macosarm64-1.8.0.jar returned status 404
+1.8.0	metadata	2026-06-27T17:08:33Z	
+1.8.1		2026-06-30T20:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/yaml-macosarm64/1.8.1/yaml-macosarm64-1.8.1.jar returned status 404
+1.8.1	metadata	2026-06-30T20:43:30Z	
+1.9.0		2026-07-03T19:54:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/yaml-macosarm64/1.9.0/yaml-macosarm64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-07-03T19:54:08Z	

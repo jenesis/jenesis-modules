@@ -24,5 +24,13 @@
 1.6.0	metadata	2026-05-30T14:39:04Z	
 1.7.0		2026-05-30T17:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/1.7.0/debug-iossimulatorarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:14Z	
+1.7.1		2026-06-27T10:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/1.7.1/debug-iossimulatorarm64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:44Z	
+1.8.0		2026-06-27T17:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/1.8.0/debug-iossimulatorarm64-1.8.0.jar returned status 404
+1.8.0	metadata	2026-06-27T17:08:32Z	
+1.8.1		2026-06-30T20:43:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/1.8.1/debug-iossimulatorarm64-1.8.1.jar returned status 404
+1.8.1	metadata	2026-06-30T20:43:28Z	
+1.9.0		2026-07-03T19:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/1.9.0/debug-iossimulatorarm64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-07-03T19:54:10Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-iossimulatorarm64/v0.9.0/debug-iossimulatorarm64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:55Z	

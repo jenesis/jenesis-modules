@@ -4,3 +4,7 @@
 0.12.1	metadata	2026-05-26T13:51:37Z	
 0.13.0		2026-05-30T12:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-math-orcex-iosarm64/0.13.0/orca-math-orcex-iosarm64-0.13.0.jar returned status 404
 0.13.0	metadata	2026-05-30T12:27:06Z	
+0.14.0		2026-07-03T16:08:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-math-orcex-iosarm64/0.14.0/orca-math-orcex-iosarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-07-03T16:08:55Z	
+0.15.0		2026-07-03T17:35:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-math-orcex-iosarm64/0.15.0/orca-math-orcex-iosarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-07-03T17:35:42Z	

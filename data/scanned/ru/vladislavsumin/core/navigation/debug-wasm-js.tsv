@@ -26,4 +26,8 @@
 1.5.2		2026-05-30T13:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.5.2/debug-wasm-js-1.5.2.jar returned status 404
 1.6.0		2026-05-30T14:39:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.6.0/debug-wasm-js-1.6.0.jar returned status 404
 1.7.0		2026-05-30T17:45:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.7.0/debug-wasm-js-1.7.0.jar returned status 404
+1.7.1		2026-06-27T10:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.7.1/debug-wasm-js-1.7.1.jar returned status 404
+1.8.0		2026-06-27T17:08:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.8.0/debug-wasm-js-1.8.0.jar returned status 404
+1.8.1		2026-06-30T20:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.8.1/debug-wasm-js-1.8.1.jar returned status 404
+1.9.0		2026-07-03T19:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/1.9.0/debug-wasm-js-1.9.0.jar returned status 404
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/navigation/debug-wasm-js/v0.9.0/debug-wasm-js-v0.9.0.jar returned status 404

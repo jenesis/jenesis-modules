@@ -32,4 +32,8 @@
 1.5.2		2026-05-30T13:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.5.2/common-wasm-js-1.5.2.jar returned status 404
 1.6.0		2026-05-30T14:39:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.6.0/common-wasm-js-1.6.0.jar returned status 404
 1.7.0		2026-05-30T17:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.7.0/common-wasm-js-1.7.0.jar returned status 404
+1.7.1		2026-06-27T10:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.7.1/common-wasm-js-1.7.1.jar returned status 404
+1.8.0		2026-06-27T17:08:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.8.0/common-wasm-js-1.8.0.jar returned status 404
+1.8.1		2026-06-30T20:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.8.1/common-wasm-js-1.8.1.jar returned status 404
+1.9.0		2026-07-03T19:54:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/1.9.0/common-wasm-js-1.9.0.jar returned status 404
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/common-wasm-js/v0.9.0/common-wasm-js-v0.9.0.jar returned status 404

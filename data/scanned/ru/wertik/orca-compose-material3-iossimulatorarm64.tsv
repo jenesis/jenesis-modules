@@ -1,2 +1,6 @@
 0.13.0		2026-05-30T12:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-material3-iossimulatorarm64/0.13.0/orca-compose-material3-iossimulatorarm64-0.13.0.jar returned status 404
 0.13.0	metadata	2026-05-30T12:27:06Z	
+0.14.0		2026-07-03T16:08:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-material3-iossimulatorarm64/0.14.0/orca-compose-material3-iossimulatorarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-07-03T16:08:53Z	
+0.15.0		2026-07-03T17:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-material3-iossimulatorarm64/0.15.0/orca-compose-material3-iossimulatorarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-07-03T17:35:42Z	

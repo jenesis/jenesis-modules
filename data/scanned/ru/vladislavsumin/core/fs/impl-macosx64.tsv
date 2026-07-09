@@ -8,3 +8,5 @@
 1.6.0	metadata	2026-05-30T14:38:55Z	
 1.7.0		2026-05-30T17:45:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/impl-macosx64/1.7.0/impl-macosx64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:21Z	
+1.7.1		2026-06-27T10:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/fs/impl-macosx64/1.7.1/impl-macosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:53Z	

@@ -3,3 +3,7 @@
 1.5.2		2026-05-30T13:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.5.2/vs-core-1.5.2.jar returned status 404
 1.6.0		2026-05-30T14:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.6.0/vs-core-1.6.0.jar returned status 404
 1.7.0		2026-05-30T17:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.7.0/vs-core-1.7.0.jar returned status 404
+1.7.1		2026-06-27T10:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.7.1/vs-core-1.7.1.jar returned status 404
+1.8.0		2026-06-27T17:08:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.8.0/vs-core-1.8.0.jar returned status 404
+1.8.1		2026-06-30T20:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.8.1/vs-core-1.8.1.jar returned status 404
+1.9.0		2026-07-03T19:54:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/vs-core/1.9.0/vs-core-1.9.0.jar returned status 404

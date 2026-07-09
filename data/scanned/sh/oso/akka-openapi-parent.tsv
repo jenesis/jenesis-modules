@@ -7,3 +7,5 @@
 1.5.0		2026-06-02T14:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/oso/akka-openapi-parent/1.5.0/akka-openapi-parent-1.5.0.jar returned status 404
 1.5.1		2026-06-12T09:35:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/oso/akka-openapi-parent/1.5.1/akka-openapi-parent-1.5.1.jar returned status 404
 1.5.2		2026-06-15T09:12:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/oso/akka-openapi-parent/1.5.2/akka-openapi-parent-1.5.2.jar returned status 404
+1.5.3		2026-06-22T08:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/oso/akka-openapi-parent/1.5.3/akka-openapi-parent-1.5.3.jar returned status 404
+1.5.4		2026-06-30T09:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sh/oso/akka-openapi-parent/1.5.4/akka-openapi-parent-1.5.4.jar returned status 404

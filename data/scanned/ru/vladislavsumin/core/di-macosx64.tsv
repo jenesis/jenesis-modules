@@ -32,5 +32,7 @@
 1.6.0	metadata	2026-05-30T14:39:03Z	
 1.7.0		2026-05-30T17:45:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/di-macosx64/1.7.0/di-macosx64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:09Z	
+1.7.1		2026-06-27T10:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/di-macosx64/1.7.1/di-macosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:58Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/di-macosx64/v0.9.0/di-macosx64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:54Z	

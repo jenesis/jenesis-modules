@@ -66,5 +66,7 @@
 1.6.0	metadata	2026-05-30T14:39:01Z	
 1.7.0		2026-05-30T17:45:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/manager-iosx64/1.7.0/manager-iosx64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:13Z	
+1.7.1		2026-06-27T10:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/manager-iosx64/1.7.1/manager-iosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:43Z	
 v0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/logger/manager-iosx64/v0.9.0/manager-iosx64-v0.9.0.jar returned status 404
 v0.9.0	metadata	2025-11-28T16:21:59Z	

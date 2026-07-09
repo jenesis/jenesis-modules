@@ -8,3 +8,5 @@
 1.6.0	metadata	2026-05-30T14:38:57Z	
 1.7.0		2026-05-30T17:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-iosx64/1.7.0/dispatcher-iosx64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-05-30T17:45:23Z	
+1.7.1		2026-06-27T10:42:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/coroutines/dispatcher-iosx64/1.7.1/dispatcher-iosx64-1.7.1.jar returned status 404
+1.7.1	metadata	2026-06-27T10:42:44Z	
