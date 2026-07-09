@@ -150,3 +150,5 @@
 3.4.3	metadata	2026-04-22T09:14:38Z	
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-tvosarm64/3.5.0/ktor-server-auto-head-response-tvosarm64-3.5.0.jar returned status 404
 3.5.0	metadata	2026-05-14T14:35:38Z	
+3.5.1		2026-06-25T11:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-auto-head-response-tvosarm64/3.5.1/ktor-server-auto-head-response-tvosarm64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-25T11:29:38Z	

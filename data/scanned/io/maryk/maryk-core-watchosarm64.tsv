@@ -1,5 +1,7 @@
 0.10.0		2026-06-15T19:10:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-core-watchosarm64/0.10.0/maryk-core-watchosarm64-0.10.0.jar returned status 404
 0.10.0	metadata	2026-06-15T19:10:20Z	
+0.11.0		2026-07-05T08:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-core-watchosarm64/0.11.0/maryk-core-watchosarm64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-07-05T08:25:37Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-core-watchosarm64/0.6.0/maryk-core-watchosarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2025-01-14T08:42:23Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-core-watchosarm64/0.7.0/maryk-core-watchosarm64-0.7.0.jar returned status 404
