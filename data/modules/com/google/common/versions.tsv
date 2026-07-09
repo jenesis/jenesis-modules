@@ -965,3 +965,4 @@
 1.6.0.5	named	io.acryl	datahub-protobuf	2026-06-19T15:40:17Z	33.6.0-jre
 1.6.0.6rc1	named	io.acryl	datahub-protobuf	2026-06-22T04:31:02Z	33.6.0-jre
 1.6.0.6rc2	named	io.acryl	datahub-protobuf	2026-06-23T05:52:19Z	33.6.0-jre
+1.29	named	org.weakref	jmxutils	2026-06-30T15:11:57Z	33.5.0-jre

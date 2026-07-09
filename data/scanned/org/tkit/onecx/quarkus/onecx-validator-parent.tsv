@@ -14,3 +14,4 @@
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/onecx/quarkus/onecx-validator-parent/2.3.0/onecx-validator-parent-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/onecx/quarkus/onecx-validator-parent/2.4.0/onecx-validator-parent-2.4.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/onecx/quarkus/onecx-validator-parent/3.0.0/onecx-validator-parent-3.0.0.jar returned status 404
+3.1.0		2026-06-26T10:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/onecx/quarkus/onecx-validator-parent/3.1.0/onecx-validator-parent-3.1.0.jar returned status 404

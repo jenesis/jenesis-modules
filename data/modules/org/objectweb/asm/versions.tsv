@@ -1028,3 +1028,5 @@ RELEASE113	named	org.netbeans.external	asm-7.2	2020-02-21T16:30:24Z	7.2.0
 1.12.0	named	org.noear	luffy.executor.s.nashorn	2026-06-09T14:18:00Z	9.10
 1.12.0	named	org.noear	luffy.executor.s.ruby	2026-06-09T14:18:01Z	9.10
 0.15.0	named	org.teavm	teavm-relocated-libs-asm	2026-06-14T17:42:36Z	9.8
+1.15.0	named	org.virtuslab.scala-cli	cliBootstrapped	2026-06-30T07:05:48Z	9.10.1
+0.1.0-M1	named	org.virtuslab	sloth-agent	2026-07-02T10:36:54Z	9.7

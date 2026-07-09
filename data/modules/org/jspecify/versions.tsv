@@ -196,3 +196,7 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 0.8	named	org.treblereel.gwt.yaml.mapper	processor	2026-06-11T16:55:22Z	
 0.8	named	org.treblereel.gwt.json.mapper	processor	2026-06-11T20:16:26Z	
 0.11	named	org.treblereel.gwt.xml.mapper	processor	2026-06-11T21:07:18Z	
+0.9	named	org.treblereel.gwt.yaml.mapper	processor	2026-06-28T23:41:56Z	
+0.9	named	org.treblereel.gwt.json.mapper	processor	2026-06-29T00:28:10Z	
+0.10	named	org.treblereel.gwt.json.mapper	processor	2026-07-02T05:26:24Z	
+0.1	named	org.treblereel.gwt.jakarta.rest	processor	2026-07-02T20:45:17Z	

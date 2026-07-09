@@ -7,3 +7,5 @@
 0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ta4j/ta4j-parent/0.22.4/ta4j-parent-0.22.4.jar returned status 404
 0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ta4j/ta4j-parent/0.22.5/ta4j-parent-0.22.5.jar returned status 404
 0.22.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ta4j/ta4j-parent/0.22.6/ta4j-parent-0.22.6.jar returned status 404
+0.22.7		2026-06-27T17:41:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ta4j/ta4j-parent/0.22.7/ta4j-parent-0.22.7.jar returned status 404
+0.22.8		2026-06-29T17:44:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ta4j/ta4j-parent/0.22.8/ta4j-parent-0.22.8.jar returned status 404

@@ -6,3 +6,4 @@
 1.70.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/kotlin/1.70.5/kotlin-1.70.5.jar returned status 404
 1.70.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/kotlin/1.70.6/kotlin-1.70.6.jar returned status 404
 1.71.0		2026-06-17T10:50:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/kotlin/1.71.0/kotlin-1.71.0.jar returned status 404
+1.71.1		2026-07-01T20:50:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/taxilang/kotlin/1.71.1/kotlin-1.71.1.jar returned status 404

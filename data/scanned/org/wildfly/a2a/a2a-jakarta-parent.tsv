@@ -1,1 +1,2 @@
 1.0.0.CR1		2026-06-11T08:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-jakarta-parent/1.0.0.CR1/a2a-jakarta-parent-1.0.0.CR1.jar returned status 404
+1.0.0.CR2		2026-06-29T12:45:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/a2a/a2a-jakarta-parent/1.0.0.CR2/a2a-jakarta-parent-1.0.0.CR2.jar returned status 404
