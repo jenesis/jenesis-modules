@@ -1,3 +1,4 @@
 5.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/macula/boot/macula-boot/5.0.18/macula-boot-5.0.18.jar returned status 404
 5.0.19		2026-05-25T10:06:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/macula/boot/macula-boot/5.0.19/macula-boot-5.0.19.jar returned status 404
+5.0.20		2026-07-07T02:38:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/macula/boot/macula-boot/5.0.20/macula-boot-5.0.20.jar returned status 404
 6.0.0		2026-05-28T02:50:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/macula/boot/macula-boot/6.0.0/macula-boot-6.0.0.jar returned status 404

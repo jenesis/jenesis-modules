@@ -9,3 +9,5 @@
 0.2.21		2026-06-16T07:22:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-android/0.2.21/moq-android-0.2.21.jar returned status 404
 0.2.23		2026-06-23T03:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-android/0.2.23/moq-android-0.2.23.jar returned status 404
 0.2.24		2026-06-23T17:17:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-android/0.2.24/moq-android-0.2.24.jar returned status 404
+0.2.25		2026-06-30T04:55:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-android/0.2.25/moq-android-0.2.25.jar returned status 404
+0.2.26		2026-07-04T02:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-android/0.2.26/moq-android-0.2.26.jar returned status 404

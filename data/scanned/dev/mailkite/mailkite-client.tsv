@@ -1,0 +1,3 @@
+0.1.0		2026-06-27T18:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mailkite/mailkite-client/0.1.0/mailkite-client-0.1.0.jar returned status 404
+0.10.0		2026-07-05T01:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mailkite/mailkite-client/0.10.0/mailkite-client-0.10.0.jar returned status 404
+0.9.0		2026-06-27T20:06:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mailkite/mailkite-client/0.9.0/mailkite-client-0.9.0.jar returned status 404

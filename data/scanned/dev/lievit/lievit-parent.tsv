@@ -1,0 +1,6 @@
+1.0.3		2026-06-25T14:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.0.3/lievit-parent-1.0.3.jar returned status 404
+1.1.0		2026-06-25T15:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.1.0/lievit-parent-1.1.0.jar returned status 404
+1.1.1		2026-06-25T15:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.1.1/lievit-parent-1.1.1.jar returned status 404
+1.2.0		2026-06-26T05:37:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.2.0/lievit-parent-1.2.0.jar returned status 404
+1.2.2		2026-06-26T11:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.2.2/lievit-parent-1.2.2.jar returned status 404
+1.2.3		2026-06-26T14:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lievit/lievit-parent/1.2.3/lievit-parent-1.2.3.jar returned status 404
