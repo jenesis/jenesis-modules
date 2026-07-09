@@ -1,6 +1,7 @@
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.10.0/kotlinx-rpc-core-mingwx64-0.10.0.jar returned status 404
 0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.10.1/kotlinx-rpc-core-mingwx64-0.10.1.jar returned status 404
 0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.10.2/kotlinx-rpc-core-mingwx64-0.10.2.jar returned status 404
+0.10.3		2026-06-24T21:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.10.3/kotlinx-rpc-core-mingwx64-0.10.3.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.8.0/kotlinx-rpc-core-mingwx64-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.8.1/kotlinx-rpc-core-mingwx64-0.8.1.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-rpc-core-mingwx64/0.9.0/kotlinx-rpc-core-mingwx64-0.9.0.jar returned status 404

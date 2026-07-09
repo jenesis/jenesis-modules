@@ -1790,6 +1790,10 @@
 2026.6.0	metadata	2026-06-01T06:09:10Z	
 2026.6.1		2026-06-03T19:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.1/kotlin-css-iosx64-2026.6.1.jar returned status 404
 2026.6.1	metadata	2026-06-03T19:30:42Z	
+2026.6.10		2026-06-29T13:10:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.10/kotlin-css-iosx64-2026.6.10.jar returned status 404
+2026.6.10	metadata	2026-06-29T13:10:35Z	
+2026.6.11		2026-06-30T20:44:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.11/kotlin-css-iosx64-2026.6.11.jar returned status 404
+2026.6.11	metadata	2026-06-30T20:43:59Z	
 2026.6.2		2026-06-05T05:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.2/kotlin-css-iosx64-2026.6.2.jar returned status 404
 2026.6.2	metadata	2026-06-05T05:42:10Z	
 2026.6.3		2026-06-06T16:56:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.3/kotlin-css-iosx64-2026.6.3.jar returned status 404
@@ -1798,3 +1802,13 @@
 2026.6.4	metadata	2026-06-14T08:00:09Z	
 2026.6.5		2026-06-16T06:56:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.5/kotlin-css-iosx64-2026.6.5.jar returned status 404
 2026.6.5	metadata	2026-06-16T06:56:38Z	
+2026.6.6		2026-06-22T07:17:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.6/kotlin-css-iosx64-2026.6.6.jar returned status 404
+2026.6.6	metadata	2026-06-22T07:16:59Z	
+2026.6.7		2026-06-23T07:28:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.7/kotlin-css-iosx64-2026.6.7.jar returned status 404
+2026.6.7	metadata	2026-06-23T07:28:25Z	
+2026.6.8		2026-06-28T06:47:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.8/kotlin-css-iosx64-2026.6.8.jar returned status 404
+2026.6.8	metadata	2026-06-28T06:47:15Z	
+2026.6.9		2026-06-28T15:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.6.9/kotlin-css-iosx64-2026.6.9.jar returned status 404
+2026.6.9	metadata	2026-06-28T15:17:59Z	
+2026.7.0		2026-07-01T19:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iosx64/2026.7.0/kotlin-css-iosx64-2026.7.0.jar returned status 404
+2026.7.0	metadata	2026-07-01T19:51:34Z	

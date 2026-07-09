@@ -38,3 +38,5 @@
 0.8.2	metadata	2025-11-24T20:18:46Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-io-bytestring-macosx64/0.9.0/kotlinx-io-bytestring-macosx64-0.9.0.jar returned status 404
 0.9.0	metadata	2026-02-20T17:53:47Z	
+0.9.1		2026-06-26T15:42:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-io-bytestring-macosx64/0.9.1/kotlinx-io-bytestring-macosx64-0.9.1.jar returned status 404
+0.9.1	metadata	2026-06-26T15:42:53Z	

@@ -19,3 +19,5 @@
 0.5.0	metadata	2026-06-09T15:46:04Z	
 0.5.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.5.0-beta01/kotlinx-collections-immutable-iosarm64-0.5.0-beta01.jar returned status 404
 0.5.0-beta01	metadata	2026-05-13T15:35:27Z	
+0.5.1		2026-07-02T15:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-iosarm64/0.5.1/kotlinx-collections-immutable-iosarm64-0.5.1.jar returned status 404
+0.5.1	metadata	2026-07-02T15:14:50Z	

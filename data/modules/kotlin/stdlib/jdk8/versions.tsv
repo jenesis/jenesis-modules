@@ -1842,3 +1842,5 @@
 3.10.8	named	com.aliyun.odps	odps-jdbc	2026-06-17T12:53:36Z	
 1.59.0	named	com.google.genai	google-genai	2026-06-17T22:23:59Z	
 1.60.0	named	com.google.genai	google-genai	2026-06-24T01:17:35Z	
+2.4.20-Beta1	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-06-24T09:43:18Z	
+2.4.10-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-06-25T06:10:16Z	
