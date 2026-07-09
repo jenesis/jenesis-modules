@@ -4,6 +4,16 @@
 1.6.101	optimized	2026-06-22T19:33:09Z	
 1.6.102		2026-06-23T02:00:14Z	
 1.6.102	optimized	2026-06-23T02:01:01Z	
+1.6.103		2026-06-29T18:44:27Z	
+1.6.103	optimized	2026-06-29T18:44:01Z	
+1.6.104		2026-06-30T19:09:58Z	
+1.6.104	optimized	2026-06-30T19:10:26Z	
+1.6.105		2026-07-01T18:48:46Z	
+1.6.105	optimized	2026-07-01T18:48:51Z	
+1.6.106		2026-07-02T18:44:26Z	
+1.6.106	optimized	2026-07-02T18:44:58Z	
+1.6.107		2026-07-06T18:50:37Z	
+1.6.107	optimized	2026-07-06T18:50:48Z	
 1.6.30		2026-03-05T20:10:11Z	
 1.6.31		2026-03-06T21:57:54Z	
 1.6.32		2026-03-09T18:52:49Z	
@@ -137,3 +147,9 @@
 1.6.98	optimized	2026-06-17T18:43:59Z	
 1.6.99		2026-06-18T18:45:50Z	
 1.6.99	optimized	2026-06-18T18:46:35Z	
+1.8.0		2026-07-07T18:50:17Z	
+1.8.0	optimized	2026-07-07T18:50:03Z	
+1.8.1		2026-07-08T18:50:52Z	
+1.8.1	optimized	2026-07-08T18:50:40Z	
+1.8.2		2026-07-08T23:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/connecthealth-jvm/1.8.2/connecthealth-jvm-1.8.2.jar returned status 404
+1.8.2	optimized	2026-07-08T23:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/connecthealth-jvm/1.8.2/connecthealth-jvm-1.8.2-optimized.jar returned status 404

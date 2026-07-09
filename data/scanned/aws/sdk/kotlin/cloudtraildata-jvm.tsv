@@ -584,6 +584,16 @@
 1.6.101	optimized	2026-06-22T19:32:15Z	
 1.6.102		2026-06-23T02:00:13Z	
 1.6.102	optimized	2026-06-23T02:00:08Z	
+1.6.103		2026-06-29T18:44:27Z	
+1.6.103	optimized	2026-06-29T18:43:37Z	
+1.6.104		2026-06-30T19:10:24Z	
+1.6.104	optimized	2026-06-30T19:09:59Z	
+1.6.105		2026-07-01T18:48:11Z	
+1.6.105	optimized	2026-07-01T18:48:34Z	
+1.6.106		2026-07-02T18:44:56Z	
+1.6.106	optimized	2026-07-02T18:44:04Z	
+1.6.107		2026-07-06T18:50:00Z	
+1.6.107	optimized	2026-07-06T18:51:07Z	
 1.6.11		2026-02-05T19:40:39Z	
 1.6.12		2026-02-06T19:39:38Z	
 1.6.13		2026-02-09T19:42:21Z	
@@ -744,3 +754,9 @@
 1.6.98	optimized	2026-06-17T18:44:01Z	
 1.6.99		2026-06-18T18:45:45Z	
 1.6.99	optimized	2026-06-18T18:46:26Z	
+1.8.0		2026-07-07T18:49:39Z	
+1.8.0	optimized	2026-07-07T18:49:24Z	
+1.8.1		2026-07-08T18:50:40Z	
+1.8.1	optimized	2026-07-08T18:50:16Z	
+1.8.2		2026-07-08T23:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudtraildata-jvm/1.8.2/cloudtraildata-jvm-1.8.2.jar returned status 404
+1.8.2	optimized	2026-07-08T23:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudtraildata-jvm/1.8.2/cloudtraildata-jvm-1.8.2-optimized.jar returned status 404

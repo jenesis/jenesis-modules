@@ -752,3 +752,5 @@
 1.6.97		2026-06-16T18:56:56Z	
 1.6.98		2026-06-17T18:44:56Z	
 1.6.99		2026-06-18T18:46:22Z	
+1.8.1		2026-07-08T18:50:03Z	
+1.8.2		2026-07-08T23:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/billingconductor/1.8.2/billingconductor-1.8.2.jar returned status 404
