@@ -2,3 +2,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trafficauth/trafficauth-sdk/1.0.1/trafficauth-sdk-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trafficauth/trafficauth-sdk/1.0.2/trafficauth-sdk-1.0.2.jar returned status 404
 1.0.3		2026-05-29T21:11:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trafficauth/trafficauth-sdk/1.0.3/trafficauth-sdk-1.0.3.jar returned status 404
+1.0.6		2026-06-26T16:14:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trafficauth/trafficauth-sdk/1.0.6/trafficauth-sdk-1.0.6.jar returned status 404

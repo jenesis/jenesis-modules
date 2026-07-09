@@ -70,6 +70,7 @@
 3.8.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.19/prepurchase-3.8.19.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.2/prepurchase-3.8.2.jar returned status 404
 3.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.20/prepurchase-3.8.20.jar returned status 404
+3.8.21		2026-07-01T18:52:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.21/prepurchase-3.8.21.jar returned status 404
 3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.3/prepurchase-3.8.3.jar returned status 404
 3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.4/prepurchase-3.8.4.jar returned status 404
 3.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ticketmaster/retail/prepurchase/3.8.5/prepurchase-3.8.5.jar returned status 404

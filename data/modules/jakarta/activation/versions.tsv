@@ -1075,6 +1075,7 @@
 3.0.12	named	org.playframework	shaded-asynchttpclient	2026-05-13T14:37:38Z	
 3.26.1244	named	com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	2026-06-03T10:57:49Z	
 3.26.1245	named	com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	2026-06-09T13:45:22Z	
+2.2.17	named	com.typesafe.play	shaded-asynchttpclient	2026-06-25T19:32:54Z	
 3.0.13	named	org.playframework	shaded-asynchttpclient	2026-06-25T19:32:59Z	
 3.1.0-M13	named	org.playframework	shaded-asynchttpclient	2026-07-01T15:26:17Z	
 0.41.22	named	org.kill-bill.billing	killbill-platform-osgi-bundles-eureka	2026-07-03T10:08:06Z	

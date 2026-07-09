@@ -3,6 +3,7 @@
 0.12.0		2025-03-20T13:18:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.12.0/gummy-bears-api-33-0.12.0.jar returned status 404
 0.13.0		2026-04-14T09:37:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.13.0/gummy-bears-api-33-0.13.0.jar returned status 404
 0.14.0		2026-04-25T23:44:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.14.0/gummy-bears-api-33-0.14.0.jar returned status 404
+0.15.0		2026-07-06T16:43:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.15.0/gummy-bears-api-33-0.15.0.jar returned status 404
 0.5.0		2022-10-14T14:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.5.0/gummy-bears-api-33-0.5.0.jar returned status 404
 0.5.1		2023-01-07T03:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.5.1/gummy-bears-api-33-0.5.1.jar returned status 404
 0.6.0		2023-11-05T12:48:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toasttab/android/gummy-bears-api-33/0.6.0/gummy-bears-api-33-0.6.0.jar returned status 404

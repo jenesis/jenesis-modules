@@ -22,3 +22,4 @@
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ttlock/ttlock/3.5.4/ttlock-3.5.4.jar returned status 404
 3.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ttlock/ttlock/3.5.5/ttlock-3.5.5.jar returned status 404
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ttlock/ttlock/3.5.6/ttlock-3.5.6.jar returned status 404
+3.5.7		2026-07-01T06:56:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ttlock/ttlock/3.5.7/ttlock-3.5.7.jar returned status 404

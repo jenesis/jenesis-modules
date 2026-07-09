@@ -2,3 +2,4 @@
 2.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/typesafe/netty/netty-reactive-streams-parent/2.0.16/netty-reactive-streams-parent-2.0.16.jar returned status 404
 2.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/typesafe/netty/netty-reactive-streams-parent/2.0.17/netty-reactive-streams-parent-2.0.17.jar returned status 404
 2.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/typesafe/netty/netty-reactive-streams-parent/2.0.18/netty-reactive-streams-parent-2.0.18.jar returned status 404
+2.0.19		2026-06-25T17:06:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/typesafe/netty/netty-reactive-streams-parent/2.0.19/netty-reactive-streams-parent-2.0.19.jar returned status 404

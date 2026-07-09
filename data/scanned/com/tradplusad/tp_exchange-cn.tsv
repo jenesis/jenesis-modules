@@ -211,3 +211,4 @@
 40.16.1.0.1		2026-05-25T02:49:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange-cn/40.16.1.0.1/tp_exchange-cn-40.16.1.0.1.jar returned status 404
 40.16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange-cn/40.16.2.0.1/tp_exchange-cn-40.16.2.0.1.jar returned status 404
 40.16.3.0.1		2026-06-22T08:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange-cn/40.16.3.0.1/tp_exchange-cn-40.16.3.0.1.jar returned status 404
+40.16.4.0.1		2026-07-06T03:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange-cn/40.16.4.0.1/tp_exchange-cn-40.16.4.0.1.jar returned status 404

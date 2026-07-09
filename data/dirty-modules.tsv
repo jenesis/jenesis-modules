@@ -5025,3 +5025,8 @@ com.webauthn4j.metadata
 com.webauthn4j.core.async
 com.webauthn4j.core
 com.webauthn4j.appattest
+com.nimbusds.jose.jwt
+com.typesafe.netty.http
+com.typesafe.netty.core
+com.github.luben.zstd_jni
+com.tigerbeetle

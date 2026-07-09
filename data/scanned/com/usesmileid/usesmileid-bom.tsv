@@ -1,1 +1,2 @@
+12.0.0		2026-07-02T16:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usesmileid/usesmileid-bom/12.0.0/usesmileid-bom-12.0.0.jar returned status 404
 12.0.0-beta01		2026-06-22T14:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usesmileid/usesmileid-bom/12.0.0-beta01/usesmileid-bom-12.0.0-beta01.jar returned status 404
