@@ -1,0 +1,2 @@
+1.0.0		2026-06-30T14:51:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/yusiwen/spring/spring-commons-security/1.0.0/spring-commons-security-1.0.0.jar returned status 404
+1.0.1		2026-07-02T10:21:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/yusiwen/spring/spring-commons-security/1.0.1/spring-commons-security-1.0.1.jar returned status 404

@@ -223,6 +223,7 @@
 2.5.15-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T19:56:22Z	3.6.1
 2.6.6-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-06-04T20:05:59Z	3.6.1
 1.0.2-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-06-23T13:12:27Z	3.6.1
+2.2.15	named	com.alibaba.polardbx	polardbx-connector-java	2026-06-26T08:17:27Z	3.6.3
 5.2.2	named	org.apache.phoenix	phoenix-client-embedded-hbase-2.5	2026-06-28T07:00:27Z	3.6.1
 5.2.2	named	org.apache.phoenix	phoenix-client-lite-hbase-2.5	2026-06-28T07:11:28Z	3.6.1
 5.2.2	named	org.apache.phoenix	phoenix-client-embedded-hbase-2.6	2026-06-28T07:40:57Z	3.6.1

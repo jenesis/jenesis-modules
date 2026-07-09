@@ -34,3 +34,5 @@
 3.0.0-alpha1	metadata	2025-11-11T15:09:44Z	
 3.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-iosarm64/3.0.0-alpha2/mockzilla-iosarm64-3.0.0-alpha2.jar returned status 404
 3.0.0-alpha2	metadata	2025-11-25T10:40:43Z	
+4.0.0-alpha1		2026-07-08T07:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-iosarm64/4.0.0-alpha1/mockzilla-iosarm64-4.0.0-alpha1.jar returned status 404
+4.0.0-alpha1	metadata	2026-07-08T07:39:52Z	

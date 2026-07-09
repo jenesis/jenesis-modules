@@ -131,6 +131,7 @@
 6.0.0-RC11		2026-06-18T21:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC11/core-service-6.0.0-RC11.jar returned status 404
 6.0.0-RC12		2026-06-19T12:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC12/core-service-6.0.0-RC12.jar returned status 404
 6.0.0-RC13		2026-06-24T08:45:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC13/core-service-6.0.0-RC13.jar returned status 404
+6.0.0-RC14		2026-06-26T14:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC14/core-service-6.0.0-RC14.jar returned status 404
 6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC2/core-service-6.0.0-RC2.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC3/core-service-6.0.0-RC3.jar returned status 404
 6.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service/6.0.0-RC4/core-service-6.0.0-RC4.jar returned status 404

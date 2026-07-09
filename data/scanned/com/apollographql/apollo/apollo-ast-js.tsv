@@ -24,3 +24,4 @@
 5.0.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-ast-js/5.0.0-alpha.7/apollo-ast-js-5.0.0-alpha.7.jar returned status 404
 5.0.0-rc.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-ast-js/5.0.0-rc.0/apollo-ast-js-5.0.0-rc.0.jar returned status 404
 5.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-ast-js/5.0.0-rc.1/apollo-ast-js-5.0.0-rc.1.jar returned status 404
+5.0.1		2026-06-25T14:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-ast-js/5.0.1/apollo-ast-js-5.0.1.jar returned status 404

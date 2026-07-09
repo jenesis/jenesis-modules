@@ -1552,3 +1552,9 @@ stable	named	com.graphhopper	graphhopper-tools	2020-09-30T16:00:00Z	2.10.3
 1.0.2-RELEASE	named	com.gitee.feizns	quickstart-vertx	2026-06-16T00:33:04Z	2.13.5
 2.0.10	named	com.vibeiq.contrail-java-sdk	contrail-java-sdk	2026-06-16T19:38:21Z	2.12.7
 1.4.1	named	org.kill-bill.billing	killbill-client-java	2026-06-19T15:38:42Z	2.21.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-flink-base	2026-07-02T01:59:40Z	2.17.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-hive-3.x	2026-07-02T01:59:40Z	2.17.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-spark-base	2026-07-02T01:59:40Z	2.17.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-flink-1.19	2026-07-02T01:59:41Z	2.17.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-hive-base	2026-07-02T01:59:41Z	2.17.2
+1.6.2	named	com.alibaba.hologres	hologres-connector-spark-3.x	2026-07-02T01:59:41Z	2.17.2

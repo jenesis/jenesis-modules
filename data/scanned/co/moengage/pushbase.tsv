@@ -4,3 +4,4 @@
 8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/moengage/pushbase/8.3.0/pushbase-8.3.0.jar returned status 404
 8.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/moengage/pushbase/8.3.2/pushbase-8.3.2.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/moengage/pushbase/9.0.1/pushbase-9.0.1.jar returned status 404
+9.7.0		2026-06-29T14:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/moengage/pushbase/9.7.0/pushbase-9.7.0.jar returned status 404

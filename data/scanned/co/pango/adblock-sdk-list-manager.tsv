@@ -3,3 +3,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/adblock-sdk-list-manager/1.0.0/adblock-sdk-list-manager-1.0.0.jar returned status 404
 1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/adblock-sdk-list-manager/1.0.0-RC1/adblock-sdk-list-manager-1.0.0-RC1.jar returned status 404
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/adblock-sdk-list-manager/1.0.0-RC2/adblock-sdk-list-manager-1.0.0-RC2.jar returned status 404
+1.0.1		2026-07-02T10:03:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/adblock-sdk-list-manager/1.0.1/adblock-sdk-list-manager-1.0.1.jar returned status 404

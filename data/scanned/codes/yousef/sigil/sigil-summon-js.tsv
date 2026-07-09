@@ -58,3 +58,6 @@
 0.4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.1.5/sigil-summon-js-0.4.1.5.jar returned status 404
 0.4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.1.6/sigil-summon-js-0.4.1.6.jar returned status 404
 0.4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.1.7/sigil-summon-js-0.4.1.7.jar returned status 404
+0.4.2.0		2026-07-07T13:54:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.2.0/sigil-summon-js-0.4.2.0.jar returned status 404
+0.4.2.1		2026-07-08T07:39:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.2.1/sigil-summon-js-0.4.2.1.jar returned status 404
+0.4.2.2		2026-07-08T08:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-summon-js/0.4.2.2/sigil-summon-js-0.4.2.2.jar returned status 404

@@ -60,4 +60,7 @@
 5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.3.7/jcore-google-5.3.7.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.4.0/jcore-google-5.4.0.jar returned status 404
 5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.4.3/jcore-google-5.4.3.jar returned status 404
+5.4.7		2026-06-30T03:46:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.4.7/jcore-google-5.4.7.jar returned status 404
+5.4.8		2026-06-30T07:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.4.8/jcore-google-5.4.8.jar returned status 404
+5.4.9		2026-07-08T01:38:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/5.4.9/jcore-google-5.4.9.jar returned status 404
 527			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-google/527/jcore-google-527.jar returned status 404

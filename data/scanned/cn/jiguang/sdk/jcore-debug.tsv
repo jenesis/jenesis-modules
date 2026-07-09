@@ -7,3 +7,5 @@
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-debug/5.0.2/jcore-debug-5.0.2.jar returned status 404
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-debug/5.0.4/jcore-debug-5.0.4.jar returned status 404
 5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-debug/5.1.1/jcore-debug-5.1.1.jar returned status 404
+5.4.7		2026-06-30T03:42:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-debug/5.4.7/jcore-debug-5.4.7.jar returned status 404
+5.4.8		2026-06-30T07:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jcore-debug/5.4.8/jcore-debug-5.4.8.jar returned status 404
