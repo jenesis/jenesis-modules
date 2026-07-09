@@ -1,2 +1,5 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapl/sapl-bom/3.0.0/sapl-bom-3.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapl/sapl-bom/4.0.0/sapl-bom-4.0.0.jar returned status 404
+4.1.0		2026-06-29T09:47:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapl/sapl-bom/4.1.0/sapl-bom-4.1.0.jar returned status 404
+4.1.1		2026-06-29T16:23:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapl/sapl-bom/4.1.1/sapl-bom-4.1.1.jar returned status 404
+4.1.2		2026-06-30T12:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapl/sapl-bom/4.1.2/sapl-bom-4.1.2.jar returned status 404

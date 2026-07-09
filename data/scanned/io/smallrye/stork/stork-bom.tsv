@@ -1,6 +1,7 @@
 2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.6.3/stork-bom-2.6.3.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.1/stork-bom-2.7.1.jar returned status 404
 2.7.10		2026-05-29T10:21:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.10/stork-bom-2.7.10.jar returned status 404
+2.7.11		2026-06-26T11:52:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.11/stork-bom-2.7.11.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.2/stork-bom-2.7.2.jar returned status 404
 2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.3/stork-bom-2.7.3.jar returned status 404
 2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/stork/stork-bom/2.7.4/stork-bom-2.7.4.jar returned status 404

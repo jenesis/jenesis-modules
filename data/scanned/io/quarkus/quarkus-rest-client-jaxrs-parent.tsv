@@ -105,3 +105,4 @@
 3.36.3		2026-06-17T16:32:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-client-jaxrs-parent/3.36.3/quarkus-rest-client-jaxrs-parent-3.36.3.jar returned status 404
 3.37.0		2026-06-17T16:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-client-jaxrs-parent/3.37.0/quarkus-rest-client-jaxrs-parent-3.37.0.jar returned status 404
 3.37.0.CR1		2026-06-10T07:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-client-jaxrs-parent/3.37.0.CR1/quarkus-rest-client-jaxrs-parent-3.37.0.CR1.jar returned status 404
+3.37.1		2026-07-01T11:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-client-jaxrs-parent/3.37.1/quarkus-rest-client-jaxrs-parent-3.37.1.jar returned status 404

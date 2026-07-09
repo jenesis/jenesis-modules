@@ -1,3 +1,5 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rocketbase/mail/email-template-builder-root/2.5.0/email-template-builder-root-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rocketbase/mail/email-template-builder-root/2.6.0/email-template-builder-root-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rocketbase/mail/email-template-builder-root/2.6.1/email-template-builder-root-2.6.1.jar returned status 404
+2.7.0		2026-07-04T11:13:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rocketbase/mail/email-template-builder-root/2.7.0/email-template-builder-root-2.7.0.jar returned status 404
+2.7.1		2026-07-04T21:06:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rocketbase/mail/email-template-builder-root/2.7.1/email-template-builder-root-2.7.1.jar returned status 404

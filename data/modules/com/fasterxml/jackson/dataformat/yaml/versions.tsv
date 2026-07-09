@@ -898,3 +898,8 @@
 1.5.0-beta-1	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-22T22:51:19Z	2.18.6
 27.4.1	named	io.fabrikt	fabrikt	2026-06-23T08:57:14Z	2.20.1
 1.5.0-beta-2	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-25T14:45:09Z	2.18.6
+0.27.0	named	io.simpleishard	trino-calcite	2026-07-06T00:02:53Z	2.21.3
+0.27.0	named	io.simpleishard	trino-cloudops	2026-07-06T00:03:54Z	2.21.3
+0.27.0	named	io.simpleishard	trino-sharepoint	2026-07-06T00:05:03Z	2.21.3
+0.27.0	named	io.simpleishard	trino-splunk	2026-07-06T00:06:04Z	2.21.3
+0.27.0	named	io.simpleishard	trino-calcite-base	2026-07-06T00:06:08Z	2.21.3

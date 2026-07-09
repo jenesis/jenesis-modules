@@ -96,8 +96,12 @@
 8.43.0		2026-05-27T15:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.43.0/sentry-android-sqlite-8.43.0.jar returned status 404
 8.43.1		2026-06-03T21:23:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.43.1/sentry-android-sqlite-8.43.1.jar returned status 404
 8.43.2		2026-06-10T17:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.43.2/sentry-android-sqlite-8.43.2.jar returned status 404
+8.43.3		2026-06-24T12:12:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.43.3/sentry-android-sqlite-8.43.3.jar returned status 404
 8.44.0		2026-06-17T14:14:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.44.0/sentry-android-sqlite-8.44.0.jar returned status 404
 8.44.1		2026-06-19T13:35:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.44.1/sentry-android-sqlite-8.44.1.jar returned status 404
+8.45.0		2026-06-24T15:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.45.0/sentry-android-sqlite-8.45.0.jar returned status 404
+8.46.0		2026-06-25T14:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.46.0/sentry-android-sqlite-8.46.0.jar returned status 404
+8.47.0		2026-07-02T10:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.47.0/sentry-android-sqlite-8.47.0.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.5.0/sentry-android-sqlite-8.5.0.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.6.0/sentry-android-sqlite-8.6.0.jar returned status 404
 8.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-sqlite/8.7.0/sentry-android-sqlite-8.7.0.jar returned status 404

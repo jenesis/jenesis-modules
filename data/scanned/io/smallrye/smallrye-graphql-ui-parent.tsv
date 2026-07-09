@@ -11,6 +11,8 @@
 2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/2.18.0/smallrye-graphql-ui-parent-2.18.0.jar returned status 404
 2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/2.18.1/smallrye-graphql-ui-parent-2.18.1.jar returned status 404
 2.18.2		2026-06-12T11:15:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/2.18.2/smallrye-graphql-ui-parent-2.18.2.jar returned status 404
+2.18.3		2026-07-02T09:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/2.18.3/smallrye-graphql-ui-parent-2.18.3.jar returned status 404
 3.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/3.0.0.Beta1/smallrye-graphql-ui-parent-3.0.0.Beta1.jar returned status 404
 3.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/3.0.0.Beta2/smallrye-graphql-ui-parent-3.0.0.Beta2.jar returned status 404
 3.0.0.Beta3		2026-06-02T09:02:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/3.0.0.Beta3/smallrye-graphql-ui-parent-3.0.0.Beta3.jar returned status 404
+3.0.0.Beta4		2026-06-29T10:10:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-ui-parent/3.0.0.Beta4/smallrye-graphql-ui-parent-3.0.0.Beta4.jar returned status 404

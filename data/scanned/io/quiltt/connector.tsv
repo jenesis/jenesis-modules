@@ -7,3 +7,4 @@
 6.0.0		2026-05-20T20:19:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quiltt/connector/6.0.0/connector-6.0.0.jar returned status 404
 6.0.1		2026-05-28T21:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quiltt/connector/6.0.1/connector-6.0.1.jar returned status 404
 6.0.2		2026-06-09T18:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quiltt/connector/6.0.2/connector-6.0.2.jar returned status 404
+6.1.0		2026-07-05T13:31:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quiltt/connector/6.1.0/connector-6.1.0.jar returned status 404
