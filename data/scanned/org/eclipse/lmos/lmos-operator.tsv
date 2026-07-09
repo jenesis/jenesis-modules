@@ -14,6 +14,8 @@
 0.10.0-M6	plain	2026-04-28T11:46:33Z	
 0.10.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-operator/0.10.0-M7/lmos-operator-0.10.0-M7.jar returned status 404
 0.10.0-M7	plain	2026-04-29T08:02:16Z	
+0.11.0		2026-06-26T10:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-operator/0.11.0/lmos-operator-0.11.0.jar returned status 404
+0.11.0	plain	2026-06-26T10:16:30Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-operator/0.2.0/lmos-operator-0.2.0.jar returned status 404
 0.2.0	plain	2025-03-11T20:08:25Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-operator/0.3.0/lmos-operator-0.3.0.jar returned status 404

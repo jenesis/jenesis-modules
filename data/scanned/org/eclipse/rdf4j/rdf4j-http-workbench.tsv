@@ -50,7 +50,13 @@
 5.3.0-M2	classes	2026-02-11T21:07:10Z	
 5.3.1		2026-04-23T18:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.3.1/rdf4j-http-workbench-5.3.1.jar returned status 404
 5.3.1	classes	2026-04-23T18:48:05Z	
+5.3.2		2026-06-23T11:03:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/5.3.2/rdf4j-http-workbench-5.3.2.jar returned status 404
+5.3.2	classes	2026-06-23T11:03:37Z	
+6.0.0		2026-07-02T11:29:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/6.0.0/rdf4j-http-workbench-6.0.0.jar returned status 404
+6.0.0	classes	2026-07-02T11:29:17Z	
 6.0.0-M1		2026-04-24T11:33:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/6.0.0-M1/rdf4j-http-workbench-6.0.0-M1.jar returned status 404
 6.0.0-M1	classes	2026-04-24T11:33:04Z	
 6.0.0-M2		2026-06-01T14:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/6.0.0-M2/rdf4j-http-workbench-6.0.0-M2.jar returned status 404
 6.0.0-M2	classes	2026-06-01T14:22:27Z	
+6.0.0-M3		2026-06-22T15:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-http-workbench/6.0.0-M3/rdf4j-http-workbench-6.0.0-M3.jar returned status 404
+6.0.0-M3	classes	2026-06-22T15:37:49Z	

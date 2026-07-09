@@ -1354,3 +1354,5 @@
 1.20-vvr-11.6.1-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-04T13:13:32Z	1.26.0
 1.20-vvr-11.5.1-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-06-05T01:36:55Z	1.26.0
 1.20.5	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-08T09:24:28Z	1.26.0
+1.0.20	named	org.eclipse.tahu	tahu-edge-compat	2026-07-01T17:44:30Z	1.28.0
+1.0.20	named	org.eclipse.tahu	tahu-host-compat	2026-07-01T17:44:30Z	1.28.0

@@ -980,9 +980,11 @@
 12.0.16-LTS	named	org.primefaces	primefaces-cli	2026-06-17T08:21:37Z	
 14.0.17-LTS	named	org.primefaces	primefaces-cli	2026-06-17T09:17:17Z	4.7.5
 1.0.0	named	io.github.cyber655	docling-java-cli	2026-06-19T12:19:21Z	4.7.6
+26.7.0-rc01	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2026-06-22T11:38:36Z	4.7.7
 1.0.0	named	run.endive	build-time-compiler-cli-experimental	2026-06-26T09:19:37Z	4.7.7
 1.0.0	named	run.endive	cli-experimental	2026-06-26T09:19:37Z	4.7.7
 26.6.4	named	org.keycloak	keycloak-admin-cli	2026-06-26T10:24:32Z	4.7.7
+26.7.0	named	org.faktorips.runtimejpa	productdata-jpa-deployment-client	2026-07-01T09:16:11Z	4.7.7
 14.0.18	named	org.primefaces	primefaces-cli	2026-07-03T11:30:42Z	4.7.5
 0.9.0	named	org.hjug.refactorfirst.report	cli	2026-07-03T14:49:31Z	4.7.4
 12.0.17	named	org.primefaces	primefaces-cli	2026-07-03T19:16:39Z	

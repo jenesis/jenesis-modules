@@ -4,3 +4,5 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-rest/1.0.1/hawkbit-rest-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-rest/1.0.2/hawkbit-rest-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-rest/1.0.3/hawkbit-rest-1.0.3.jar returned status 404
+1.0.4		2026-06-25T08:33:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-rest/1.0.4/hawkbit-rest-1.0.4.jar returned status 404
+1.1.0		2026-07-03T11:19:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-rest/1.1.0/hawkbit-rest-1.1.0.jar returned status 404

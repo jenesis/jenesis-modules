@@ -11,3 +11,7 @@
 26.1.0	classes	2026-01-08T08:30:19Z	
 26.1.0-rc03		2025-12-16T13:13:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/runtimejpa/productdata-jpa-deployment-service/26.1.0-rc03/productdata-jpa-deployment-service-26.1.0-rc03.jar returned status 404
 26.1.0-rc03	classes	2025-12-16T13:13:13Z	
+26.7.0		2026-07-01T09:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/runtimejpa/productdata-jpa-deployment-service/26.7.0/productdata-jpa-deployment-service-26.7.0.jar returned status 404
+26.7.0	classes	2026-07-01T09:16:11Z	
+26.7.0-rc01		2026-06-22T11:38:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/runtimejpa/productdata-jpa-deployment-service/26.7.0-rc01/productdata-jpa-deployment-service-26.7.0-rc01.jar returned status 404
+26.7.0-rc01	classes	2026-06-22T11:38:36Z	

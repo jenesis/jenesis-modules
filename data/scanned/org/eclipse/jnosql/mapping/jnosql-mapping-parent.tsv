@@ -3,5 +3,6 @@
 1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.1.12/jnosql-mapping-parent-1.1.12.jar returned status 404
 1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.1.13/jnosql-mapping-parent-1.1.13.jar returned status 404
 1.1.14		2026-06-01T17:53:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.1.14/jnosql-mapping-parent-1.1.14.jar returned status 404
+1.1.15		2026-07-03T15:53:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.1.15/jnosql-mapping-parent-1.1.15.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.1.9/jnosql-mapping-parent-1.1.9.jar returned status 404
 1.2.0-M1		2026-06-13T19:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jnosql/mapping/jnosql-mapping-parent/1.2.0-M1/jnosql-mapping-parent-1.2.0-M1.jar returned status 404

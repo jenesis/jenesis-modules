@@ -8,3 +8,4 @@
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/febit/boot/jooq/org.febit.boot.jooq.gradle.plugin/3.5.0/org.febit.boot.jooq.gradle.plugin-3.5.0.jar returned status 404
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/febit/boot/jooq/org.febit.boot.jooq.gradle.plugin/3.5.1/org.febit.boot.jooq.gradle.plugin-3.5.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/febit/boot/jooq/org.febit.boot.jooq.gradle.plugin/4.0.0/org.febit.boot.jooq.gradle.plugin-4.0.0.jar returned status 404
+4.1.0		2026-06-24T07:32:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/febit/boot/jooq/org.febit.boot.jooq.gradle.plugin/4.1.0/org.febit.boot.jooq.gradle.plugin-4.1.0.jar returned status 404

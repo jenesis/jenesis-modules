@@ -1,2 +1,3 @@
 0.9.0.M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/sisu/sisu-inject/0.9.0.M4/sisu-inject-0.9.0.M4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/sisu/sisu-inject/1.0.0/sisu-inject-1.0.0.jar returned status 404
+1.0.1		2026-06-24T10:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/sisu/sisu-inject/1.0.1/sisu-inject-1.0.1.jar returned status 404

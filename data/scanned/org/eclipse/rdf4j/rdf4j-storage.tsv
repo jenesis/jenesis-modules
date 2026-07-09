@@ -35,5 +35,8 @@
 5.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/5.3.0-M1/rdf4j-storage-5.3.0-M1.jar returned status 404
 5.3.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/5.3.0-M2/rdf4j-storage-5.3.0-M2.jar returned status 404
 5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/5.3.1/rdf4j-storage-5.3.1.jar returned status 404
+5.3.2		2026-06-23T11:03:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/5.3.2/rdf4j-storage-5.3.2.jar returned status 404
+6.0.0		2026-07-02T11:29:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/6.0.0/rdf4j-storage-6.0.0.jar returned status 404
 6.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/6.0.0-M1/rdf4j-storage-6.0.0-M1.jar returned status 404
 6.0.0-M2		2026-06-01T14:22:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/6.0.0-M2/rdf4j-storage-6.0.0-M2.jar returned status 404
+6.0.0-M3		2026-06-22T15:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-storage/6.0.0-M3/rdf4j-storage-6.0.0-M3.jar returned status 404
