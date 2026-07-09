@@ -3,5 +3,8 @@
 1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.1/storm-bom-1.11.1.jar returned status 404
 1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.2/storm-bom-1.11.2.jar returned status 404
 1.11.3		2026-05-30T09:48:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.3/storm-bom-1.11.3.jar returned status 404
+1.11.4		2026-06-27T17:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.4/storm-bom-1.11.4.jar returned status 404
+1.11.5		2026-06-27T19:29:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.5/storm-bom-1.11.5.jar returned status 404
+1.11.6		2026-07-01T19:48:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.11.6/storm-bom-1.11.6.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.9.0/storm-bom-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/st/orm/storm-bom/1.9.1/storm-bom-1.9.1.jar returned status 404

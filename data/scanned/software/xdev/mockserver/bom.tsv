@@ -15,3 +15,4 @@
 2.50.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/mockserver/bom/2.50.7/bom-2.50.7.jar returned status 404
 2.50.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/mockserver/bom/2.50.8/bom-2.50.8.jar returned status 404
 2.50.9		2026-05-26T07:44:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/mockserver/bom/2.50.9/bom-2.50.9.jar returned status 404
+2.51.0		2026-06-25T08:43:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/mockserver/bom/2.51.0/bom-2.51.0.jar returned status 404
