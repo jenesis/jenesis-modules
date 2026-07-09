@@ -88,9 +88,49 @@
 3.6.0	metadata	2026-06-13T17:47:53Z	
 3.6.1		2026-06-13T18:32:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.1/socket-quic-watchosx64-3.6.1.jar returned status 404
 3.6.1	metadata	2026-06-13T18:32:59Z	
+3.6.10		2026-06-30T17:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.10/socket-quic-watchosx64-3.6.10.jar returned status 404
+3.6.10	metadata	2026-06-30T17:09:08Z	
 3.6.2		2026-06-13T22:11:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.2/socket-quic-watchosx64-3.6.2.jar returned status 404
 3.6.2	metadata	2026-06-13T22:11:03Z	
 3.6.3		2026-06-15T05:47:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.3/socket-quic-watchosx64-3.6.3.jar returned status 404
 3.6.3	metadata	2026-06-15T05:47:35Z	
 3.6.4		2026-06-15T18:47:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.4/socket-quic-watchosx64-3.6.4.jar returned status 404
 3.6.4	metadata	2026-06-15T18:47:21Z	
+3.6.5		2026-06-29T18:45:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.5/socket-quic-watchosx64-3.6.5.jar returned status 404
+3.6.5	metadata	2026-06-29T18:45:23Z	
+3.6.6		2026-06-29T23:45:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.6/socket-quic-watchosx64-3.6.6.jar returned status 404
+3.6.6	metadata	2026-06-29T23:45:11Z	
+3.6.7		2026-06-30T00:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.7/socket-quic-watchosx64-3.6.7.jar returned status 404
+3.6.7	metadata	2026-06-30T00:41:50Z	
+3.6.8		2026-06-30T01:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.8/socket-quic-watchosx64-3.6.8.jar returned status 404
+3.6.8	metadata	2026-06-30T01:39:56Z	
+3.6.9		2026-06-30T02:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.6.9/socket-quic-watchosx64-3.6.9.jar returned status 404
+3.6.9	metadata	2026-06-30T02:33:53Z	
+3.7.0		2026-07-01T17:11:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.7.0/socket-quic-watchosx64-3.7.0.jar returned status 404
+3.7.0	metadata	2026-07-01T17:11:12Z	
+3.8.0		2026-07-01T22:54:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.0/socket-quic-watchosx64-3.8.0.jar returned status 404
+3.8.0	metadata	2026-07-01T22:54:47Z	
+3.8.1		2026-07-02T00:56:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.1/socket-quic-watchosx64-3.8.1.jar returned status 404
+3.8.1	metadata	2026-07-02T00:56:19Z	
+3.8.10		2026-07-06T16:03:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.10/socket-quic-watchosx64-3.8.10.jar returned status 404
+3.8.10	metadata	2026-07-06T16:03:25Z	
+3.8.11		2026-07-07T18:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.11/socket-quic-watchosx64-3.8.11.jar returned status 404
+3.8.11	metadata	2026-07-07T18:29:38Z	
+3.8.12		2026-07-07T19:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.12/socket-quic-watchosx64-3.8.12.jar returned status 404
+3.8.12	metadata	2026-07-07T19:38:50Z	
+3.8.2		2026-07-02T02:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.2/socket-quic-watchosx64-3.8.2.jar returned status 404
+3.8.2	metadata	2026-07-02T02:08:04Z	
+3.8.3		2026-07-02T17:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.3/socket-quic-watchosx64-3.8.3.jar returned status 404
+3.8.3	metadata	2026-07-02T17:41:44Z	
+3.8.4		2026-07-03T03:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.4/socket-quic-watchosx64-3.8.4.jar returned status 404
+3.8.4	metadata	2026-07-03T03:43:08Z	
+3.8.5		2026-07-03T16:37:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.5/socket-quic-watchosx64-3.8.5.jar returned status 404
+3.8.5	metadata	2026-07-03T16:37:32Z	
+3.8.6		2026-07-06T01:35:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.6/socket-quic-watchosx64-3.8.6.jar returned status 404
+3.8.6	metadata	2026-07-06T01:35:37Z	
+3.8.7		2026-07-06T05:15:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.7/socket-quic-watchosx64-3.8.7.jar returned status 404
+3.8.7	metadata	2026-07-06T05:15:30Z	
+3.8.8		2026-07-06T06:55:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.8/socket-quic-watchosx64-3.8.8.jar returned status 404
+3.8.8	metadata	2026-07-06T06:55:22Z	
+3.8.9		2026-07-06T15:02:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-watchosx64/3.8.9/socket-quic-watchosx64-3.8.9.jar returned status 404
+3.8.9	metadata	2026-07-06T15:02:52Z	
