@@ -1,5 +1,7 @@
 2.10.0		2026-06-18T05:07:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-palette-iossimulatorarm64/2.10.0/landscapist-palette-iossimulatorarm64-2.10.0.jar returned status 404
 2.10.0	metadata	2026-06-18T05:07:19Z	
+2.11.0		2026-07-02T01:48:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-palette-iossimulatorarm64/2.11.0/landscapist-palette-iossimulatorarm64-2.11.0.jar returned status 404
+2.11.0	metadata	2026-07-02T01:48:16Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-palette-iossimulatorarm64/2.3.0/landscapist-palette-iossimulatorarm64-2.3.0.jar returned status 404
 2.3.0	metadata	2024-02-05T12:34:26Z	
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/landscapist-palette-iossimulatorarm64/2.3.1/landscapist-palette-iossimulatorarm64-2.3.1.jar returned status 404

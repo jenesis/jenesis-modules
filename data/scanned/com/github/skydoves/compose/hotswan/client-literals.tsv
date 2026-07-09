@@ -16,4 +16,6 @@
 1.3.4		2026-06-01T06:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/1.3.4/client-literals-1.3.4.jar returned status 404
 1.3.5		2026-06-10T13:01:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/1.3.5/client-literals-1.3.5.jar returned status 404
 1.3.6		2026-06-12T04:59:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/1.3.6/client-literals-1.3.6.jar returned status 404
+1.3.7		2026-06-27T08:27:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/1.3.7/client-literals-1.3.7.jar returned status 404
 2.0.0-beta01		2026-06-12T20:30:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/2.0.0-beta01/client-literals-2.0.0-beta01.jar returned status 404
+2.0.0-beta02		2026-06-29T06:54:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/client-literals/2.0.0-beta02/client-literals-2.0.0-beta02.jar returned status 404

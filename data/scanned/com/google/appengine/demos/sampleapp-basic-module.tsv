@@ -13,3 +13,4 @@
 5.0.3		2026-06-03T19:47:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-basic-module/5.0.3/sampleapp-basic-module-5.0.3.jar returned status 404
 5.0.3-beta		2026-05-19T16:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-basic-module/5.0.3-beta/sampleapp-basic-module-5.0.3-beta.jar returned status 404
 5.0.4		2026-06-11T13:18:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-basic-module/5.0.4/sampleapp-basic-module-5.0.4.jar returned status 404
+5.0.5-beta.1		2026-07-07T09:27:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/sampleapp-basic-module/5.0.5-beta.1/sampleapp-basic-module-5.0.5-beta.1.jar returned status 404

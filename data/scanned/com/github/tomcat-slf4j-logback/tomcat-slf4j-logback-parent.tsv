@@ -17,3 +17,5 @@
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.8.0/tomcat-slf4j-logback-parent-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.8.1/tomcat-slf4j-logback-parent-1.8.1.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/1.8.2/tomcat-slf4j-logback-parent-1.8.2.jar returned status 404
+2.0.0		2026-06-26T16:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/2.0.0/tomcat-slf4j-logback-parent-2.0.0.jar returned status 404
+2.0.1		2026-06-26T18:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tomcat-slf4j-logback/tomcat-slf4j-logback-parent/2.0.1/tomcat-slf4j-logback-parent-2.0.1.jar returned status 404
