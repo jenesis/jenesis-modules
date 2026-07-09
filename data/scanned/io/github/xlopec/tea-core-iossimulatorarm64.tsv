@@ -1,5 +1,13 @@
 1.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha10/tea-core-iossimulatorarm64-1.0.0-alpha10.jar returned status 404
 1.0.0-alpha10	metadata	2026-04-05T15:22:37Z	
+1.0.0-alpha11		2026-06-29T19:20:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha11/tea-core-iossimulatorarm64-1.0.0-alpha11.jar returned status 404
+1.0.0-alpha11	metadata	2026-06-29T19:20:13Z	
+1.0.0-alpha11-rc6		2026-06-29T17:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha11-rc6/tea-core-iossimulatorarm64-1.0.0-alpha11-rc6.jar returned status 404
+1.0.0-alpha11-rc6	metadata	2026-06-29T17:58:10Z	
+1.0.0-alpha12		2026-06-30T21:25:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha12/tea-core-iossimulatorarm64-1.0.0-alpha12.jar returned status 404
+1.0.0-alpha12	metadata	2026-06-30T21:25:04Z	
+1.0.0-alpha12-rc1		2026-06-30T20:26:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha12-rc1/tea-core-iossimulatorarm64-1.0.0-alpha12-rc1.jar returned status 404
+1.0.0-alpha12-rc1	metadata	2026-06-30T20:26:42Z	
 1.0.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha6/tea-core-iossimulatorarm64-1.0.0-alpha6.jar returned status 404
 1.0.0-alpha6	metadata	2023-02-13T12:47:18Z	
 1.0.0-alpha6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-iossimulatorarm64/1.0.0-alpha6-rc1/tea-core-iossimulatorarm64-1.0.0-alpha6-rc1.jar returned status 404

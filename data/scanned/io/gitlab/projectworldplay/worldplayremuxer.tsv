@@ -1,3 +1,4 @@
 1.1.0		2026-06-05T07:16:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/projectworldplay/worldplayremuxer/1.1.0/worldplayremuxer-1.1.0.jar returned status 404
 1.1.1		2026-06-10T08:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/projectworldplay/worldplayremuxer/1.1.1/worldplayremuxer-1.1.1.jar returned status 404
 2.0.0		2026-06-12T06:41:32Z	
+2.0.1-dev.1		2026-07-06T13:25:54Z	

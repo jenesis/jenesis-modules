@@ -4,3 +4,6 @@
 0.0.4		2026-06-10T05:08:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/feature-auth/0.0.4/feature-auth-0.0.4.jar returned status 404
 0.0.4	debug-sources	2026-06-10T05:08:20Z	
 0.0.4	release-sources	2026-06-10T05:08:20Z	
+0.0.5		2026-07-02T02:20:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/feature-auth/0.0.5/feature-auth-0.0.5.jar returned status 404
+0.0.5	debug-sources	2026-07-02T02:20:24Z	
+0.0.5	release-sources	2026-07-02T02:20:24Z	

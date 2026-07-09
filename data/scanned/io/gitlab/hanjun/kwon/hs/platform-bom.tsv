@@ -31,3 +31,4 @@
 2026.06.10-test01		2026-06-10T05:19:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/platform-bom/2026.06.10-test01/platform-bom-2026.06.10-test01.jar returned status 404
 2026.06.11-test01		2026-06-11T06:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/platform-bom/2026.06.11-test01/platform-bom-2026.06.11-test01.jar returned status 404
 2026.06.11-test02		2026-06-11T07:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/platform-bom/2026.06.11-test02/platform-bom-2026.06.11-test02.jar returned status 404
+2026.07.02-test01		2026-07-02T02:42:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/hanjun/kwon/hs/platform-bom/2026.07.02-test01/platform-bom-2026.07.02-test01.jar returned status 404

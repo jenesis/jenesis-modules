@@ -26,3 +26,5 @@
 0.9.1	metadata	2024-11-06T03:20:29Z	
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xxfast/kstore-iossimulatorarm64/1.0.0/kstore-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2025-06-12T03:44:17Z	
+1.1.0		2026-06-27T17:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xxfast/kstore-iossimulatorarm64/1.1.0/kstore-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-06-27T17:03:23Z	
