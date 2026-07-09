@@ -1,0 +1,2 @@
+2.0.0		2026-06-28T22:45:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/smartlinks/smartlinks-sdk-core/2.0.0/smartlinks-sdk-core-2.0.0.jar returned status 404
+2.0.1		2026-06-29T04:58:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/smartlinks/smartlinks-sdk-core/2.0.1/smartlinks-sdk-core-2.0.1.jar returned status 404

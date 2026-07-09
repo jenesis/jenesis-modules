@@ -638,3 +638,5 @@
 28.2.6-dev1b+0f96c2b4	metadata	2026-06-19T21:20:28Z	
 28.2.6-dev1c+3a21e0a1		2026-06-20T03:04:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iosarm64/28.2.6-dev1c+3a21e0a1/collektive-stdlib-iosarm64-28.2.6-dev1c+3a21e0a1.jar returned status 404
 28.2.6-dev1c+3a21e0a1	metadata	2026-06-20T03:04:43Z	
+28.3.1-dev07+05469477		2026-06-30T12:46:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-iosarm64/28.3.1-dev07+05469477/collektive-stdlib-iosarm64-28.3.1-dev07+05469477.jar returned status 404
+28.3.1-dev07+05469477	metadata	2026-06-30T12:46:33Z	

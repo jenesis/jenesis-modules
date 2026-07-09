@@ -60,7 +60,11 @@
 4.2.2	metadata	2025-07-02T08:30:15Z	
 4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/component/simbot-component-qq-guild-core-iosx64/4.2.3/simbot-component-qq-guild-core-iosx64-4.2.3.jar returned status 404
 4.2.3	metadata	2026-05-10T14:00:12Z	
+4.3.0		2026-06-23T10:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/component/simbot-component-qq-guild-core-iosx64/4.3.0/simbot-component-qq-guild-core-iosx64-4.3.0.jar returned status 404
+4.3.0	metadata	2026-06-23T10:00:41Z	
 5.0.0-Preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/component/simbot-component-qq-guild-core-iosx64/5.0.0-Preview1/simbot-component-qq-guild-core-iosx64-5.0.0-Preview1.jar returned status 404
 5.0.0-Preview1	metadata	2026-01-09T16:48:58Z	
 5.0.0-Preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/component/simbot-component-qq-guild-core-iosx64/5.0.0-Preview2/simbot-component-qq-guild-core-iosx64-5.0.0-Preview2.jar returned status 404
 5.0.0-Preview2	metadata	2026-05-09T08:56:51Z	
+5.0.0-Preview3		2026-06-26T11:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/component/simbot-component-qq-guild-core-iosx64/5.0.0-Preview3/simbot-component-qq-guild-core-iosx64-5.0.0-Preview3.jar returned status 404
+5.0.0-Preview3	metadata	2026-06-26T11:03:15Z	
