@@ -1,2 +1,4 @@
 1.66.0		2026-06-19T07:48:19Z	
 1.70.0		2026-06-19T09:45:24Z	
+1.71.0		2026-06-23T11:22:37Z	
+1.72.0		2026-06-30T23:59:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mvnpm/at/oxlint/binding-openharmony-arm64/1.72.0/binding-openharmony-arm64-1.72.0.jar returned status 404
