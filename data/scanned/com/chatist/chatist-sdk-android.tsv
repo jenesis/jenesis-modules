@@ -9,3 +9,5 @@
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chatist/chatist-sdk-android/1.2.1/chatist-sdk-android-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chatist/chatist-sdk-android/1.2.2/chatist-sdk-android-1.2.2.jar returned status 404
 1.2.3		2026-05-21T17:57:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chatist/chatist-sdk-android/1.2.3/chatist-sdk-android-1.2.3.jar returned status 404
+1.2.4		2026-07-01T09:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chatist/chatist-sdk-android/1.2.4/chatist-sdk-android-1.2.4.jar returned status 404
+1.2.5		2026-07-02T12:24:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chatist/chatist-sdk-android/1.2.5/chatist-sdk-android-1.2.5.jar returned status 404

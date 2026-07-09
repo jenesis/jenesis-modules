@@ -5,3 +5,6 @@
 0.0.5		2026-06-17T10:25:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/0.0.5/ceros-aem-connector-all-0.0.5.jar returned status 404
 0.0.6		2026-06-17T12:06:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/0.0.6/ceros-aem-connector-all-0.0.6.jar returned status 404
 0.0.7		2026-06-18T10:10:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/0.0.7/ceros-aem-connector-all-0.0.7.jar returned status 404
+0.0.8		2026-06-26T11:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/0.0.8/ceros-aem-connector-all-0.0.8.jar returned status 404
+1.0.0		2026-06-30T09:38:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/1.0.0/ceros-aem-connector-all-1.0.0.jar returned status 404
+1.0.1		2026-07-01T14:12:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ceros/ceros-aem-connector-all/1.0.1/ceros-aem-connector-all-1.0.1.jar returned status 404

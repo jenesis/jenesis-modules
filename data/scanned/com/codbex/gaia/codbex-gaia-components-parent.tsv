@@ -19,3 +19,4 @@
 2.83.0		2026-06-05T20:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/gaia/codbex-gaia-components-parent/2.83.0/codbex-gaia-components-parent-2.83.0.jar returned status 404
 2.84.0		2026-06-08T09:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/gaia/codbex-gaia-components-parent/2.84.0/codbex-gaia-components-parent-2.84.0.jar returned status 404
 2.85.0		2026-06-18T08:01:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/gaia/codbex-gaia-components-parent/2.85.0/codbex-gaia-components-parent-2.85.0.jar returned status 404
+2.86.0		2026-07-02T11:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/gaia/codbex-gaia-components-parent/2.86.0/codbex-gaia-components-parent-2.86.0.jar returned status 404

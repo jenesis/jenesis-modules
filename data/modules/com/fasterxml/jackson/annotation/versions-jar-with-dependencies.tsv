@@ -5186,6 +5186,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.0.0-RC1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-27T18:50:40Z	2.21
 11.4.1-beta-1	named	fr.inria.gforge.spoon	spoon-core	2026-06-28T04:45:31Z	2.22
 7.0.0-RC2	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-06-29T13:42:14Z	2.21
+10.2.4-BETA-3	named	com.chartiq.finsemble	finsemble	2026-06-29T17:41:03Z	2.13.5
 0.0.3	named	com.yetanalytics	xapi-tools	2026-06-29T18:51:59Z	2.22
 3.00.5.2	named	com.dolphindb	dolphindb-javaapi	2026-06-30T03:41:57Z	2.15.2
 1.60.0	named	com.wingify.sdk	wingify-fme-java-sdk	2026-06-30T05:07:25Z	2.15.2
@@ -5193,7 +5194,10 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.714.25	named	com.yahoo.vespa	config-application-package	2026-07-01T06:13:45Z	2.22
 7.3.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-01T06:31:57Z	2.22
 3.6.0.Final	named	io.debezium	debezium-connector-cassandra-5	2026-07-01T09:06:08Z	2.21
+9.10.25-BETA-1	named	com.chartiq.finsemble	finsemble	2026-07-01T17:29:01Z	2.13.5
+9.10.25	named	com.chartiq.finsemble	finsemble	2026-07-01T18:22:13Z	2.13.5
 7.0.0-RC3	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-02T02:23:34Z	2.21
+10.2.4-BETA-4	named	com.chartiq.finsemble	finsemble	2026-07-02T15:31:40Z	2.13.5
 2.1.0	named	io.orqueio.bpm	orqueio-engine-rest	2026-07-03T08:12:36Z	2.15.2
 7.0.0-RC4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-03T18:01:51Z	2.21
 11.69.0	named	com.silanis.esl	esl-java-sdk	2026-07-03T21:49:23Z	2.18.2
@@ -5202,4 +5206,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.715.17	named	com.yahoo.vespa	config-application-package	2026-07-06T02:06:43Z	2.22
 0.0.4	named	com.yetanalytics	xapi-tools	2026-07-06T17:41:07Z	2.22
 8.719.5	named	com.yahoo.vespa	config-application-package	2026-07-07T02:10:05Z	2.22
+9.10.26	named	com.chartiq.finsemble	finsemble	2026-07-07T02:59:10Z	2.13.5
+10.3.0-BETA-1	named	com.chartiq.finsemble	finsemble	2026-07-07T05:23:46Z	2.13.5
+10.3.0	named	com.chartiq.finsemble	finsemble	2026-07-07T05:53:26Z	2.13.5
 3.0.0	named	com.ibm.jsonata4java	JSONata4Java	2026-07-07T21:38:33Z	2.22

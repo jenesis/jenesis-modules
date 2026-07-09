@@ -76,3 +76,5 @@
 0.9.7	named	com.clickhouse	clickhouse-r2dbc_0.9.1	2026-03-03T19:27:55Z	0.9.7
 0.9.8	named	com.clickhouse	clickhouse-r2dbc	2026-03-18T22:34:53Z	0.9.8
 0.9.8	named	com.clickhouse	clickhouse-r2dbc_0.9.1	2026-03-18T22:35:29Z	0.9.8
+0.10.0-rc1	named	com.clickhouse	clickhouse-r2dbc	2026-07-03T16:48:24Z	0.10.0-rc1
+0.10.0-rc1	named	com.clickhouse	clickhouse-r2dbc_0.9.1	2026-07-03T16:48:59Z	0.10.0-rc1

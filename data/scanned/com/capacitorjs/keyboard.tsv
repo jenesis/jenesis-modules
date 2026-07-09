@@ -25,6 +25,7 @@
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/7.0.1/keyboard-7.0.1.jar returned status 404
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/7.0.2/keyboard-7.0.2.jar returned status 404
 7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/7.0.3/keyboard-7.0.3.jar returned status 404
+7.0.6		2026-07-03T15:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/7.0.6/keyboard-7.0.6.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/8.0.0/keyboard-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/8.0.1/keyboard-8.0.1.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/keyboard/8.0.2/keyboard-8.0.2.jar returned status 404
