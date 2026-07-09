@@ -1,0 +1,6 @@
+1.0.0		2026-06-26T08:45:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/1.0.0/jwt-security-1.0.0.jar returned status 404
+1.0.0	test-fixtures	2026-06-26T08:45:56Z	
+1.0.1		2026-07-05T09:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/1.0.1/jwt-security-1.0.1.jar returned status 404
+1.0.1	plain	2026-07-05T09:04:02Z	
+1.0.1	test-fixtures	2026-07-05T09:04:03Z	
+1.0.1	test-fixtures-sources	2026-07-05T09:04:03Z	

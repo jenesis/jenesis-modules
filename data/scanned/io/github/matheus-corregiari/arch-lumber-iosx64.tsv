@@ -10,3 +10,5 @@
 1.1.0	metadata	2026-05-06T01:36:07Z	
 1.2.0		2026-06-05T18:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/arch-lumber-iosx64/1.2.0/arch-lumber-iosx64-1.2.0.jar returned status 404
 1.2.0	metadata	2026-06-05T18:18:23Z	
+1.2.1		2026-07-06T09:53:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheus-corregiari/arch-lumber-iosx64/1.2.1/arch-lumber-iosx64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-07-06T09:53:39Z	

@@ -1,2 +1,5 @@
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/ffmpeg-kit-min/6.0.0/ffmpeg-kit-min-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/ffmpeg-kit-min/6.0.1/ffmpeg-kit-min-6.0.1.jar returned status 404
+6.0.6		2026-06-24T03:23:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/ffmpeg-kit-min/6.0.6/ffmpeg-kit-min-6.0.6.jar returned status 404
+7.1.5		2026-06-28T09:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/ffmpeg-kit-min/7.1.5/ffmpeg-kit-min-7.1.5.jar returned status 404
+8.1.2		2026-07-04T15:00:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/ffmpeg-kit-min/8.1.2/ffmpeg-kit-min-8.1.2.jar returned status 404

@@ -16,3 +16,4 @@
 2.0.3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-adapter-ironsource/2.0.3.1.1/maticoo-adapter-ironsource-2.0.3.1.1.jar returned status 404
 2.0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-adapter-ironsource/2.0.4.0/maticoo-adapter-ironsource-2.0.4.0.jar returned status 404
 2.0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-adapter-ironsource/2.0.4.5/maticoo-adapter-ironsource-2.0.4.5.jar returned status 404
+2.0.4.5-ir-8.9		2026-06-25T05:43:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maticooads/maticoo-adapter-ironsource/2.0.4.5-ir-8.9/maticoo-adapter-ironsource-2.0.4.5-ir-8.9.jar returned status 404

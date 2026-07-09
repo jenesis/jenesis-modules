@@ -34,3 +34,5 @@
 1.0.0-beta.9i	metadata	2026-05-10T23:40:38Z	
 1.0.0-beta.9j		2026-05-25T23:10:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunalobos/chess4kt-iosarm64/1.0.0-beta.9j/chess4kt-iosarm64-1.0.0-beta.9j.jar returned status 404
 1.0.0-beta.9j	metadata	2026-05-25T23:10:35Z	
+1.0.0-beta.9k		2026-06-25T17:16:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunalobos/chess4kt-iosarm64/1.0.0-beta.9k/chess4kt-iosarm64-1.0.0-beta.9k.jar returned status 404
+1.0.0-beta.9k	metadata	2026-06-25T17:16:27Z	

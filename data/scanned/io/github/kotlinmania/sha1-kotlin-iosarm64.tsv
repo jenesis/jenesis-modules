@@ -1,2 +1,4 @@
 0.1.0		2026-06-16T01:01:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/sha1-kotlin-iosarm64/0.1.0/sha1-kotlin-iosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-06-16T01:01:43Z	
+0.1.1		2026-06-26T07:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/sha1-kotlin-iosarm64/0.1.1/sha1-kotlin-iosarm64-0.1.1.jar returned status 404
+0.1.1	metadata	2026-06-26T07:59:42Z	

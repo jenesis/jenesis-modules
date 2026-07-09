@@ -1,2 +1,5 @@
 1.0.0		2026-06-18T11:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/latcn/consistency-cache-bom/1.0.0/consistency-cache-bom-1.0.0.jar returned status 404
 1.0.1		2026-06-19T10:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/latcn/consistency-cache-bom/1.0.1/consistency-cache-bom-1.0.1.jar returned status 404
+1.0.3		2026-06-24T15:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/latcn/consistency-cache-bom/1.0.3/consistency-cache-bom-1.0.3.jar returned status 404
+1.0.4		2026-06-28T10:49:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/latcn/consistency-cache-bom/1.0.4/consistency-cache-bom-1.0.4.jar returned status 404
+1.0.5		2026-07-01T20:48:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/latcn/consistency-cache-bom/1.0.5/consistency-cache-bom-1.0.5.jar returned status 404

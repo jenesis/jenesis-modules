@@ -27,3 +27,4 @@
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mfvanek/pg-index-health-bom/0.31.1/pg-index-health-bom-0.31.1.jar returned status 404
 0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mfvanek/pg-index-health-bom/0.40.0/pg-index-health-bom-0.40.0.jar returned status 404
 0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mfvanek/pg-index-health-bom/0.41.0/pg-index-health-bom-0.41.0.jar returned status 404
+0.41.1		2026-06-28T15:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mfvanek/pg-index-health-bom/0.41.1/pg-index-health-bom-0.41.1.jar returned status 404

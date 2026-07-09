@@ -1,3 +1,4 @@
 1.0.0		2026-05-29T12:09:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-android/1.0.0/compose-super-charts-android-1.0.0.jar returned status 404
 1.1.0		2026-05-30T09:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-android/1.1.0/compose-super-charts-android-1.1.0.jar returned status 404
 1.1.1		2026-06-01T05:07:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-android/1.1.1/compose-super-charts-android-1.1.1.jar returned status 404
+1.2.0		2026-06-25T10:06:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotalsumit/compose-super-charts-android/1.2.0/compose-super-charts-android-1.2.0.jar returned status 404

@@ -1,0 +1,5 @@
+1.0.0		2026-06-24T04:05:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maskmasteruk/supabaseandroid/1.0.0/supabaseandroid-1.0.0.jar returned status 404
+1.0.1		2026-06-25T00:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maskmasteruk/supabaseandroid/1.0.1/supabaseandroid-1.0.1.jar returned status 404
+1.0.2		2026-06-26T08:44:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maskmasteruk/supabaseandroid/1.0.2/supabaseandroid-1.0.2.jar returned status 404
+1.0.3		2026-06-28T09:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maskmasteruk/supabaseandroid/1.0.3/supabaseandroid-1.0.3.jar returned status 404
+1.0.4		2026-06-29T12:11:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maskmasteruk/supabaseandroid/1.0.4/supabaseandroid-1.0.4.jar returned status 404

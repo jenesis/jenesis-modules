@@ -3,3 +3,4 @@
 1.8.4		2026-06-13T13:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-proxy/1.8.4/sip-proxy-1.8.4.jar returned status 404
 1.8.5		2026-06-13T14:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-proxy/1.8.5/sip-proxy-1.8.5.jar returned status 404
 1.8.6		2026-06-14T06:07:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-proxy/1.8.6/sip-proxy-1.8.6.jar returned status 404
+1.8.7		2026-06-25T06:33:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lunasaw/sip-proxy/1.8.7/sip-proxy-1.8.7.jar returned status 404

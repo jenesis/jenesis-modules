@@ -770,4 +770,5 @@
 2.0.80.Final	named	io.netty	netty-tcnative	2026-06-29T13:46:29Z	2.0.80.Final
 2.0.80.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-29T13:46:29Z	2.0.80.Final
 4.132.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-06-29T14:30:40Z	2.0.72.Final
+0.1.4	named	io.github.ktestify	ktestify-cucumber	2026-06-30T22:55:15Z	2.0.78.Final
 1.36.1	named	io.temporal	temporal-shaded	2026-07-02T01:00:49Z	2.0.72.Final

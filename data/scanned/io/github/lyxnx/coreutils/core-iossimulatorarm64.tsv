@@ -26,6 +26,8 @@
 1.11.3	metadata	2026-02-26T10:45:42Z	
 1.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-iossimulatorarm64/1.11.4/core-iossimulatorarm64-1.11.4.jar returned status 404
 1.11.4	metadata	2026-04-24T10:19:05Z	
+1.11.5		2026-07-05T20:53:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-iossimulatorarm64/1.11.5/core-iossimulatorarm64-1.11.5.jar returned status 404
+1.11.5	metadata	2026-07-05T20:53:45Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-iossimulatorarm64/1.8.0/core-iossimulatorarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2025-02-03T09:42:36Z	
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-iossimulatorarm64/1.8.1/core-iossimulatorarm64-1.8.1.jar returned status 404

@@ -1,3 +1,4 @@
 1.0.3-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lucchetto/zoomimage/zoomimage-view/1.0.3-beta01/zoomimage-view-1.0.3-beta01.jar returned status 404
 1.0.3-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lucchetto/zoomimage/zoomimage-view/1.0.3-beta02/zoomimage-view-1.0.3-beta02.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lucchetto/zoomimage/zoomimage-view/1.1.0/zoomimage-view-1.1.0.jar returned status 404
+1.1.1		2026-07-04T22:25:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lucchetto/zoomimage/zoomimage-view/1.1.1/zoomimage-view-1.1.1.jar returned status 404

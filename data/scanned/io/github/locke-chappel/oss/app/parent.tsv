@@ -15,6 +15,7 @@
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.22/parent-1.0.22.jar returned status 404
 1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.23/parent-1.0.23.jar returned status 404
 1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.24/parent-1.0.24.jar returned status 404
+1.0.25		2026-06-23T20:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.25/parent-1.0.25.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.4/parent-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.5/parent-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/app/parent/1.0.6/parent-1.0.6.jar returned status 404

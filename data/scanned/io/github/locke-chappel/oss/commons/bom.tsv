@@ -15,6 +15,7 @@
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.22/bom-1.0.22.jar returned status 404
 1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.23/bom-1.0.23.jar returned status 404
 1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.24/bom-1.0.24.jar returned status 404
+1.0.25		2026-06-23T20:12:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.25/bom-1.0.25.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.4/bom-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.5/bom-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/locke-chappel/oss/commons/bom/1.0.6/bom-1.0.6.jar returned status 404
