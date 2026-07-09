@@ -4,6 +4,8 @@
 0.10.1	metadata	2026-03-10T20:35:13Z	
 0.11.0		2026-06-09T20:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-iossimulatorarm64/0.11.0/api-iossimulatorarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-06-09T20:07:46Z	
+0.12.0		2026-07-01T19:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-iossimulatorarm64/0.12.0/api-iossimulatorarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-07-01T19:11:28Z	
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-iossimulatorarm64/0.4.1/api-iossimulatorarm64-0.4.1.jar returned status 404
 0.4.1	metadata	2024-03-18T20:18:59Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-iossimulatorarm64/0.5.0/api-iossimulatorarm64-0.5.0.jar returned status 404

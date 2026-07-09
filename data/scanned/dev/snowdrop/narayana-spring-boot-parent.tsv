@@ -8,3 +8,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snowdrop/narayana-spring-boot-parent/4.0.0/narayana-spring-boot-parent-4.0.0.jar returned status 404
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snowdrop/narayana-spring-boot-parent/4.0.0.Beta1/narayana-spring-boot-parent-4.0.0.Beta1.jar returned status 404
 4.1.0		2026-06-22T09:15:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snowdrop/narayana-spring-boot-parent/4.1.0/narayana-spring-boot-parent-4.1.0.jar returned status 404
+4.1.1		2026-06-24T08:04:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snowdrop/narayana-spring-boot-parent/4.1.1/narayana-spring-boot-parent-4.1.1.jar returned status 404

@@ -20,3 +20,9 @@
 0.4.2	metadata	2026-06-04T05:02:55Z	
 0.5.0		2026-06-04T18:21:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-core-macosarm64/0.5.0/fiktion-core-macosarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-06-04T18:21:52Z	
+0.5.1		2026-07-02T03:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-core-macosarm64/0.5.1/fiktion-core-macosarm64-0.5.1.jar returned status 404
+0.5.1	metadata	2026-07-02T03:41:27Z	
+0.6.0		2026-07-06T11:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-core-macosarm64/0.6.0/fiktion-core-macosarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-06T11:34:56Z	
+0.6.1		2026-07-07T02:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-core-macosarm64/0.6.1/fiktion-core-macosarm64-0.6.1.jar returned status 404
+0.6.1	metadata	2026-07-07T02:17:46Z	

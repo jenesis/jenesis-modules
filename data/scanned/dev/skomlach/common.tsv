@@ -271,3 +271,4 @@
 2.4.rc-28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/common/2.4.rc-28/common-2.4.rc-28.jar returned status 404
 2.4.rc-29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/common/2.4.rc-29/common-2.4.rc-29.jar returned status 404
 2.4.rc-30		2026-06-22T06:14:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/common/2.4.rc-30/common-2.4.rc-30.jar returned status 404
+2.4.rc-31		2026-07-01T18:02:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skomlach/common/2.4.rc-31/common-2.4.rc-31.jar returned status 404

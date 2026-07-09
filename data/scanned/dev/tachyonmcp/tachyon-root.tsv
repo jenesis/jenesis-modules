@@ -1,1 +1,6 @@
 1.0.0-alpha.1		2026-06-22T22:27:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-alpha.1/tachyon-root-1.0.0-alpha.1.jar returned status 404
+1.0.0-alpha.2		2026-06-24T16:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-alpha.2/tachyon-root-1.0.0-alpha.2.jar returned status 404
+1.0.0-alpha3		2026-06-27T12:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-alpha3/tachyon-root-1.0.0-alpha3.jar returned status 404
+1.0.0-beta.1		2026-06-28T01:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-beta.1/tachyon-root-1.0.0-beta.1.jar returned status 404
+1.0.0-beta.2		2026-06-28T10:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-beta.2/tachyon-root-1.0.0-beta.2.jar returned status 404
+1.0.0-beta.3		2026-07-03T10:00:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-root/1.0.0-beta.3/tachyon-root-1.0.0-beta.3.jar returned status 404

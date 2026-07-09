@@ -4935,3 +4935,9 @@ dev.zio.zio.blocks.combinators
 dev.zio.zio.blocks.codegen
 dev.zio.zio.blocks.chunk
 dev.zio.zio.blocks.async
+dev.zems.lib.value
+com.google.j2objc.annotations
+jsonata.java
+dev.rototo
+dev.resteasy.junit.extension
+dev.openfeature.contrib.providers.gofeatureflag

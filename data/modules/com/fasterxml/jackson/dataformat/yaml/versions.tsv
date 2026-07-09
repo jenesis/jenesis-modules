@@ -894,12 +894,17 @@
 27.2.0	named	io.fabrikt	fabrikt	2026-06-12T15:22:19Z	2.20.1
 0.3.0	named	org.apache.flink	flink-agents-end-to-end-tests-agent-plan-compatibility	2026-06-16T07:00:32Z	2.18.2
 27.3.0	named	io.fabrikt	fabrikt	2026-06-16T10:24:46Z	2.20.1
+1.3.28	named	dev.skyramp	skyramp-library	2026-06-18T04:43:07Z	2.15.2
 27.4.0	named	io.fabrikt	fabrikt	2026-06-21T21:47:09Z	2.20.1
 1.5.0-beta-1	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-22T22:51:19Z	2.18.6
 27.4.1	named	io.fabrikt	fabrikt	2026-06-23T08:57:14Z	2.20.1
+1.3.29	named	dev.skyramp	skyramp-library	2026-06-24T18:55:32Z	2.15.2
 1.5.0-beta-2	named	org.apiaddicts.apitools.dosonarapi	sonaropenapi-rules-community	2026-06-25T14:45:09Z	2.18.6
+1.3.30	named	dev.skyramp	skyramp-library	2026-06-26T23:43:30Z	2.15.2
 7.8.0	named	io.fabric8	crd-generator-cli	2026-06-29T09:26:01Z	2.21.4
+1.3.31	named	dev.skyramp	skyramp-library	2026-06-29T21:15:59Z	2.15.2
 27.4.2	named	io.fabrikt	fabrikt	2026-06-29T21:47:11Z	2.20.1
+1.3.32	named	dev.skyramp	skyramp-library	2026-07-02T02:28:33Z	2.15.2
 0.27.0	named	io.simpleishard	trino-calcite	2026-07-06T00:02:53Z	2.21.3
 0.27.0	named	io.simpleishard	trino-cloudops	2026-07-06T00:03:54Z	2.21.3
 0.27.0	named	io.simpleishard	trino-sharepoint	2026-07-06T00:05:03Z	2.21.3

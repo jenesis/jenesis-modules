@@ -4,6 +4,8 @@
 0.10.1	metadata	2026-03-10T20:35:13Z	
 0.11.0		2026-06-09T20:07:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-arrow-watchossimulatorarm64/0.11.0/client-arrow-watchossimulatorarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-06-09T20:07:40Z	
+0.12.0		2026-07-01T19:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-arrow-watchossimulatorarm64/0.12.0/client-arrow-watchossimulatorarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-07-01T19:11:28Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-arrow-watchossimulatorarm64/0.9.0/client-arrow-watchossimulatorarm64-0.9.0.jar returned status 404
 0.9.0	metadata	2025-12-17T18:36:06Z	
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/client-arrow-watchossimulatorarm64/0.9.1/client-arrow-watchossimulatorarm64-0.9.1.jar returned status 404
