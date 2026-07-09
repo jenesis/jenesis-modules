@@ -3,3 +3,5 @@
 5.0.2		2026-06-08T08:50:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/ano-doc-build/5.0.2/ano-doc-build-5.0.2.jar returned status 404
 5.0.3		2026-06-08T09:59:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/ano-doc-build/5.0.3/ano-doc-build-5.0.3.jar returned status 404
 5.0.4		2026-06-17T13:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/ano-doc-build/5.0.4/ano-doc-build-5.0.4.jar returned status 404
+5.0.5		2026-06-26T07:51:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/ano-doc-build/5.0.5/ano-doc-build-5.0.5.jar returned status 404
+5.0.6		2026-06-28T22:25:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/ano-doc-build/5.0.6/ano-doc-build-5.0.6.jar returned status 404

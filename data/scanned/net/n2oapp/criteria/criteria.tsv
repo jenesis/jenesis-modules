@@ -30,6 +30,8 @@
 7.29.19		2026-05-18T12:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.19/criteria-7.29.19.jar returned status 404
 7.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.2/criteria-7.29.2.jar returned status 404
 7.29.20		2026-05-21T11:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.20/criteria-7.29.20.jar returned status 404
+7.29.21		2026-06-23T11:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.21/criteria-7.29.21.jar returned status 404
+7.29.22		2026-07-03T10:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.22/criteria-7.29.22.jar returned status 404
 7.29.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.3/criteria-7.29.3.jar returned status 404
 7.29.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.4/criteria-7.29.4.jar returned status 404
 7.29.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/criteria/criteria/7.29.5/criteria-7.29.5.jar returned status 404

@@ -10,3 +10,4 @@
 7.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-languages-deps/7.23.0/pmd-languages-deps-7.23.0.jar returned status 404
 7.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-languages-deps/7.24.0/pmd-languages-deps-7.24.0.jar returned status 404
 7.25.0		2026-05-29T07:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-languages-deps/7.25.0/pmd-languages-deps-7.25.0.jar returned status 404
+7.26.0		2026-06-29T09:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-languages-deps/7.26.0/pmd-languages-deps-7.26.0.jar returned status 404

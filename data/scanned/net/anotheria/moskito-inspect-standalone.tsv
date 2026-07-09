@@ -1,3 +1,4 @@
 4.0.6		2025-12-26T20:17:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-inspect-standalone/4.0.6/moskito-inspect-standalone-4.0.6.jar returned status 404
 4.0.7		2026-05-30T07:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-inspect-standalone/4.0.7/moskito-inspect-standalone-4.0.7.jar returned status 404
 4.0.8		2026-05-30T09:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-inspect-standalone/4.0.8/moskito-inspect-standalone-4.0.8.jar returned status 404
+4.0.9		2026-06-26T23:10:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/moskito-inspect-standalone/4.0.9/moskito-inspect-standalone-4.0.9.jar returned status 404

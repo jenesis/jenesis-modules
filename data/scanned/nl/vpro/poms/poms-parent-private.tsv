@@ -12,3 +12,4 @@
 8.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-parent-private/8.13.4/poms-parent-private-8.13.4.jar returned status 404
 8.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-parent-private/8.13.5/poms-parent-private-8.13.5.jar returned status 404
 8.14.0		2026-06-03T07:24:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-parent-private/8.14.0/poms-parent-private-8.14.0.jar returned status 404
+8.14.1		2026-06-26T14:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-parent-private/8.14.1/poms-parent-private-8.14.1.jar returned status 404

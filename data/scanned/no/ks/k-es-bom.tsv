@@ -9,3 +9,4 @@
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/k-es-bom/5.2.1/k-es-bom-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/k-es-bom/5.2.2/k-es-bom-5.2.2.jar returned status 404
 5.3.0		2026-05-19T08:37:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/k-es-bom/5.3.0/k-es-bom-5.3.0.jar returned status 404
+5.4.0		2026-06-23T08:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/k-es-bom/5.4.0/k-es-bom-5.4.0.jar returned status 404

@@ -573,3 +573,5 @@
 1.56.0	named	co.elastic.apm	apm-agent-attach-cli	2026-06-15T19:52:20Z	1.18.10-jdk5
 3.12.8	named	com.google.gerrit	gerrit-acceptance-framework	2026-06-16T14:05:00Z	1.14.9
 3.13.7	named	com.google.gerrit	gerrit-acceptance-framework	2026-06-16T14:52:16Z	1.14.9
+1.18.11-jdk5	named	net.bytebuddy	byte-buddy-agent	2026-07-02T21:12:30Z	1.18.11-jdk5
+1.18.11	named	net.bytebuddy	byte-buddy-agent	2026-07-02T21:13:59Z	1.18.11

@@ -17,3 +17,4 @@
 9.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/security/security-userinfo-starter/9.0.5/security-userinfo-starter-9.0.5.jar returned status 404
 9.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/security/security-userinfo-starter/9.0.6/security-userinfo-starter-9.0.6.jar returned status 404
 9.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/security/security-userinfo-starter/9.0.7/security-userinfo-starter-9.0.7.jar returned status 404
+9.0.8		2026-07-01T21:51:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/security/security-userinfo-starter/9.0.8/security-userinfo-starter-9.0.8.jar returned status 404

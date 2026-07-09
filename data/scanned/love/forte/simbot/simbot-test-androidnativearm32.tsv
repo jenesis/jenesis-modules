@@ -45,3 +45,4 @@
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/simbot-test-androidnativearm32/4.9.0/simbot-test-androidnativearm32-4.9.0.jar returned status 404
 5.0.0-Preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/simbot-test-androidnativearm32/5.0.0-Preview1/simbot-test-androidnativearm32-5.0.0-Preview1.jar returned status 404
 5.0.0-Preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/simbot-test-androidnativearm32/5.0.0-Preview2/simbot-test-androidnativearm32-5.0.0-Preview2.jar returned status 404
+5.0.0-Preview3		2026-06-26T11:02:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/simbot-test-androidnativearm32/5.0.0-Preview3/simbot-test-androidnativearm32-5.0.0-Preview3.jar returned status 404

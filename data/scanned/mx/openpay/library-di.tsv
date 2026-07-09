@@ -3,6 +3,8 @@
 1.0.101		2026-05-19T19:15:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.101/library-di-1.0.101.jar returned status 404
 1.0.102		2026-05-25T23:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.102/library-di-1.0.102.jar returned status 404
 1.0.103		2026-06-11T16:51:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.103/library-di-1.0.103.jar returned status 404
+1.0.104		2026-06-23T18:27:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.104/library-di-1.0.104.jar returned status 404
+1.0.105		2026-07-02T23:47:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.105/library-di-1.0.105.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.11/library-di-1.0.11.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.12/library-di-1.0.12.jar returned status 404
 1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/library-di/1.0.13/library-di-1.0.13.jar returned status 404

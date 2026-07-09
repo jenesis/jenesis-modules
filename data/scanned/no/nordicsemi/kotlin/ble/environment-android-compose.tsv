@@ -12,3 +12,7 @@
 2.0.0-alpha19	html-docs	2026-04-20T18:19:22Z	
 2.0.0-beta01		2026-06-19T13:46:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/environment-android-compose/2.0.0-beta01/environment-android-compose-2.0.0-beta01.jar returned status 404
 2.0.0-beta01	html-docs	2026-06-19T13:46:55Z	
+2.0.0-beta02		2026-06-25T11:54:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/environment-android-compose/2.0.0-beta02/environment-android-compose-2.0.0-beta02.jar returned status 404
+2.0.0-beta02	html-docs	2026-06-25T11:54:19Z	
+2.0.0-beta03		2026-07-02T15:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/environment-android-compose/2.0.0-beta03/environment-android-compose-2.0.0-beta03.jar returned status 404
+2.0.0-beta03	html-docs	2026-07-02T15:32:48Z	

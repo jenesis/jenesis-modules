@@ -231,3 +231,4 @@
 4.1.135.Final	automatic	io.netty	netty-buffer	2026-06-02T19:15:30Z	
 2.3.0	named	org.apache.flink	flink-sql-jdbc-driver-bundle	2026-06-14T16:05:12Z	4.2.6.Final
 2.0.9	named	net.neoforged.jst	jst-cli-bundle	2026-06-18T23:33:48Z	4.2.0.RC2
+2.0.10	named	net.neoforged.jst	jst-cli-bundle	2026-07-03T15:00:49Z	4.2.0.RC2

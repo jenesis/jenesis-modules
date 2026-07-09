@@ -5,3 +5,34 @@
 5.0.2		2026-06-08T13:43:10Z	
 5.0.2	cuda13-linux-x86-64	2026-06-08T13:43:10Z	
 5.0.2	opencl-android-aarch64	2026-06-08T13:43:10Z	
+5.0.3		2026-06-29T18:57:57Z	
+5.0.3	cuda13-linux-x86-64	2026-06-29T18:57:57Z	
+5.0.3	cuda13-windows-x86-64	2026-06-29T18:57:58Z	
+5.0.3	msvc-windows	2026-06-29T18:57:58Z	
+5.0.3	opencl-android-aarch64	2026-06-29T18:57:57Z	
+5.0.3	opencl-windows-x86-64	2026-06-29T18:57:58Z	
+5.0.3	vulkan-windows-x86-64	2026-06-29T18:57:58Z	
+5.0.4		2026-07-02T14:05:09Z	
+5.0.4	cuda13-linux-x86-64	2026-07-02T14:05:09Z	
+5.0.4	cuda13-windows-x86-64	2026-07-02T14:05:09Z	
+5.0.4	msvc-windows	2026-07-02T14:05:09Z	
+5.0.4	opencl-android-aarch64	2026-07-02T14:05:09Z	
+5.0.4	opencl-windows-x86-64	2026-07-02T14:05:09Z	
+5.0.4	vulkan-windows-x86-64	2026-07-02T14:05:09Z	
+5.0.5		2026-07-04T22:01:49Z	
+5.0.5	cuda13-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	cuda13-windows-x86-64	2026-07-04T22:01:49Z	
+5.0.5	msvc-windows	2026-07-04T22:01:49Z	
+5.0.5	opencl-android-aarch64	2026-07-04T22:01:49Z	
+5.0.5	opencl-windows-aarch64	2026-07-04T22:01:49Z	
+5.0.5	opencl-windows-x86-64	2026-07-04T22:01:49Z	
+5.0.5	openvino-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	openvino-windows-x86-64	2026-07-04T22:01:49Z	
+5.0.5	rocm-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	rocm-windows-x86-64	2026-07-04T22:01:49Z	
+5.0.5	sycl-fp16-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	sycl-fp32-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	sycl-windows-x86-64	2026-07-04T22:01:49Z	
+5.0.5	vulkan-linux-aarch64	2026-07-04T22:01:49Z	
+5.0.5	vulkan-linux-x86-64	2026-07-04T22:01:49Z	
+5.0.5	vulkan-windows-x86-64	2026-07-04T22:01:49Z	

@@ -34,3 +34,4 @@
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/5.0.1/adventure-bom-5.0.1.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/5.1.0/adventure-bom-5.1.0.jar returned status 404
 5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/5.1.1/adventure-bom-5.1.1.jar returned status 404
+5.2.0		2026-06-27T09:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/5.2.0/adventure-bom-5.2.0.jar returned status 404

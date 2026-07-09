@@ -79,6 +79,8 @@
 1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.1/byte-buddy-parent-1.18.1.jar returned status 404
 1.18.10		2026-06-03T13:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.10/byte-buddy-parent-1.18.10.jar returned status 404
 1.18.10-jdk5		2026-06-03T13:38:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.10-jdk5/byte-buddy-parent-1.18.10-jdk5.jar returned status 404
+1.18.11		2026-07-02T21:13:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.11/byte-buddy-parent-1.18.11.jar returned status 404
+1.18.11-jdk5		2026-07-02T21:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.11-jdk5/byte-buddy-parent-1.18.11-jdk5.jar returned status 404
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.2/byte-buddy-parent-1.18.2.jar returned status 404
 1.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.3/byte-buddy-parent-1.18.3.jar returned status 404
 1.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bytebuddy/byte-buddy-parent/1.18.4/byte-buddy-parent-1.18.4.jar returned status 404

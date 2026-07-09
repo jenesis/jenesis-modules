@@ -16,3 +16,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/merge-resources/merge-resources-bom/5.0.4/merge-resources-bom-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/merge-resources/merge-resources-bom/5.0.5/merge-resources-bom-5.0.5.jar returned status 404
 5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/merge-resources/merge-resources-bom/5.0.6/merge-resources-bom-5.0.6.jar returned status 404
+5.0.7		2026-06-30T08:15:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/merge-resources/merge-resources-bom/5.0.7/merge-resources-bom-5.0.7.jar returned status 404

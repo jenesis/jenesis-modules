@@ -3,3 +3,4 @@
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openan/a2a-t/sdk/a2a-t-parent/0.0.3/a2a-t-parent-0.0.3.jar returned status 404
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openan/a2a-t/sdk/a2a-t-parent/0.0.4/a2a-t-parent-0.0.4.jar returned status 404
 0.1.8		2026-05-20T13:36:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openan/a2a-t/sdk/a2a-t-parent/0.1.8/a2a-t-parent-0.1.8.jar returned status 404
+1.0.0		2026-06-23T15:02:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openan/a2a-t/sdk/a2a-t-parent/1.0.0/a2a-t-parent-1.0.0.jar returned status 404

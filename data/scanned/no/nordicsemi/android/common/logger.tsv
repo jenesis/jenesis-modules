@@ -17,6 +17,10 @@
 2.1.0	html-docs	2024-09-11T07:47:12Z	
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/logger/2.1.1/logger-2.1.1.jar returned status 404
 2.1.1	html-docs	2024-12-04T12:03:43Z	
+2.10.0		2026-06-25T12:45:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/logger/2.10.0/logger-2.10.0.jar returned status 404
+2.10.0	html-docs	2026-06-25T12:45:29Z	
+2.11.0		2026-07-03T11:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/logger/2.11.0/logger-2.11.0.jar returned status 404
+2.11.0	html-docs	2026-07-03T11:49:58Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/logger/2.2.0/logger-2.2.0.jar returned status 404
 2.2.0	html-docs	2024-12-05T10:48:02Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/logger/2.3.0/logger-2.3.0.jar returned status 404
