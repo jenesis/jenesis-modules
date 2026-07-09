@@ -24,3 +24,5 @@
 3.5.1	metadata	2026-06-08T04:18:57Z	
 3.5.2		2026-06-22T05:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-macosx64/3.5.2/cmp-pdf-generator-macosx64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T05:03:12Z	
+3.5.3		2026-07-06T15:17:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-macosx64/3.5.3/cmp-pdf-generator-macosx64-3.5.3.jar returned status 404
+3.5.3	metadata	2026-07-06T15:17:55Z	

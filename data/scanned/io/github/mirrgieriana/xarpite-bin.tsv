@@ -7,6 +7,7 @@
 4.104.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.104.0/xarpite-bin-4.104.0.jar returned status 404
 4.105.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.105.0/xarpite-bin-4.105.0.jar returned status 404
 4.106.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.106.0/xarpite-bin-4.106.0.jar returned status 404
+4.107.0		2026-06-29T04:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.107.0/xarpite-bin-4.107.0.jar returned status 404
 4.87.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.87.6/xarpite-bin-4.87.6.jar returned status 404
 4.87.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.87.7/xarpite-bin-4.87.7.jar returned status 404
 4.88.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirrgieriana/xarpite-bin/4.88.1/xarpite-bin-4.88.1.jar returned status 404

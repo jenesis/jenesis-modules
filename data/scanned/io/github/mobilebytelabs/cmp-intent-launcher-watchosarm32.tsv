@@ -14,3 +14,5 @@
 3.5.1	metadata	2026-06-08T04:19:44Z	
 3.5.2		2026-06-22T04:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-watchosarm32/3.5.2/cmp-intent-launcher-watchosarm32-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:47:02Z	
+3.5.3		2026-07-06T15:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-watchosarm32/3.5.3/cmp-intent-launcher-watchosarm32-3.5.3.jar returned status 404
+3.5.3	metadata	2026-07-06T15:35:28Z	

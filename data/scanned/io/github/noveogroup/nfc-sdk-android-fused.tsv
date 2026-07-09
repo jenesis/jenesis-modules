@@ -10,3 +10,5 @@
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noveogroup/nfc-sdk-android-fused/1.0.8/nfc-sdk-android-fused-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noveogroup/nfc-sdk-android-fused/1.0.9/nfc-sdk-android-fused-1.0.9.jar returned status 404
 1.1.0		2026-06-17T14:08:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noveogroup/nfc-sdk-android-fused/1.1.0/nfc-sdk-android-fused-1.1.0.jar returned status 404
+1.1.1		2026-06-24T17:17:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noveogroup/nfc-sdk-android-fused/1.1.1/nfc-sdk-android-fused-1.1.1.jar returned status 404
+1.1.2		2026-06-26T08:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/noveogroup/nfc-sdk-android-fused/1.1.2/nfc-sdk-android-fused-1.1.2.jar returned status 404

@@ -7,3 +7,6 @@
 1.0.7.Final		2026-06-14T10:31:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.0.7.Final/netty-allocator-1.0.7.Final.jar returned status 404
 1.0.8.Final		2026-06-18T14:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.0.8.Final/netty-allocator-1.0.8.Final.jar returned status 404
 1.1.0.Final		2026-06-20T09:37:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.1.0.Final/netty-allocator-1.1.0.Final.jar returned status 404
+1.1.1.Final		2026-06-25T07:06:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.1.1.Final/netty-allocator-1.1.1.Final.jar returned status 404
+1.1.2.Final		2026-06-27T08:05:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.1.2.Final/netty-allocator-1.1.2.Final.jar returned status 404
+1.1.3.Final		2026-07-03T08:05:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/neoionet/netty-allocator/1.1.3.Final/netty-allocator-1.1.3.Final.jar returned status 404

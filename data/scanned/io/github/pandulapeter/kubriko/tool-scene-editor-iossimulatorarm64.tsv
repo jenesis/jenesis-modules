@@ -30,5 +30,11 @@
 0.4.0	metadata	2026-06-15T21:54:47Z	
 0.4.1		2026-06-19T12:14:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-iossimulatorarm64/0.4.1/tool-scene-editor-iossimulatorarm64-0.4.1.jar returned status 404
 0.4.1	metadata	2026-06-19T12:14:21Z	
+0.4.2		2026-06-28T06:47:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-iossimulatorarm64/0.4.2/tool-scene-editor-iossimulatorarm64-0.4.2.jar returned status 404
+0.4.2	metadata	2026-06-28T06:47:25Z	
+0.4.3		2026-06-28T08:30:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-iossimulatorarm64/0.4.3/tool-scene-editor-iossimulatorarm64-0.4.3.jar returned status 404
+0.4.3	metadata	2026-06-28T08:30:49Z	
+0.5.0		2026-07-03T11:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-iossimulatorarm64/0.5.0/tool-scene-editor-iossimulatorarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-07-03T11:05:03Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-iossimulatorarm64/unspecified/tool-scene-editor-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-02-22T17:56:02Z	

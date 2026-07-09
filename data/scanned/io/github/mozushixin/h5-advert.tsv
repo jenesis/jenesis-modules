@@ -1,0 +1,2 @@
+1.0.0		2026-07-06T07:42:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mozushixin/h5-advert/1.0.0/h5-advert-1.0.0.jar returned status 404
+1.1.0		2026-07-06T07:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mozushixin/h5-advert/1.1.0/h5-advert-1.1.0.jar returned status 404

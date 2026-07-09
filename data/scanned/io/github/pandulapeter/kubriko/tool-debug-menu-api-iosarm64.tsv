@@ -28,3 +28,9 @@
 0.4.0	metadata	2026-06-15T21:54:50Z	
 0.4.1		2026-06-19T12:14:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-api-iosarm64/0.4.1/tool-debug-menu-api-iosarm64-0.4.1.jar returned status 404
 0.4.1	metadata	2026-06-19T12:14:25Z	
+0.4.2		2026-06-28T06:47:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-api-iosarm64/0.4.2/tool-debug-menu-api-iosarm64-0.4.2.jar returned status 404
+0.4.2	metadata	2026-06-28T06:47:25Z	
+0.4.3		2026-06-28T08:30:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-api-iosarm64/0.4.3/tool-debug-menu-api-iosarm64-0.4.3.jar returned status 404
+0.4.3	metadata	2026-06-28T08:30:50Z	
+0.5.0		2026-07-03T11:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-debug-menu-api-iosarm64/0.5.0/tool-debug-menu-api-iosarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-07-03T11:05:03Z	

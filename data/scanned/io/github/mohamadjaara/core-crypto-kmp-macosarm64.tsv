@@ -10,3 +10,7 @@
 9.3.0.1-kmp	metadata	2026-02-24T17:51:48Z	
 9.3.3.1-kmp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mohamadjaara/core-crypto-kmp-macosarm64/9.3.3.1-kmp/core-crypto-kmp-macosarm64-9.3.3.1-kmp.jar returned status 404
 9.3.3.1-kmp	metadata	2026-04-08T13:02:10Z	
+9.3.3.3-kmp		2026-06-26T15:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mohamadjaara/core-crypto-kmp-macosarm64/9.3.3.3-kmp/core-crypto-kmp-macosarm64-9.3.3.3-kmp.jar returned status 404
+9.3.3.3-kmp	metadata	2026-06-26T15:12:38Z	
+9.3.3.4-kmp		2026-06-29T08:53:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mohamadjaara/core-crypto-kmp-macosarm64/9.3.3.4-kmp/core-crypto-kmp-macosarm64-9.3.3.4-kmp.jar returned status 404
+9.3.3.4-kmp	metadata	2026-06-29T08:53:19Z	

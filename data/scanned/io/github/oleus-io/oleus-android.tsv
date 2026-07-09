@@ -1,1 +1,2 @@
+0.8.3		2026-06-25T21:22:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oleus-io/oleus-android/0.8.3/oleus-android-0.8.3.jar returned status 404
 1.0.0		2026-06-22T07:08:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oleus-io/oleus-android/1.0.0/oleus-android-1.0.0.jar returned status 404

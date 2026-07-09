@@ -4102,3 +4102,9 @@ net.devrieze.xmlutil.serialization.kxio
 net.devrieze.xmlutil.core
 net.devrieze.xmlutil.core.jdk
 net.devrieze.xmlutil.core.kxio
+VirtualizedFX
+material.color.utilities
+io.github.ossnass.fx99
+io.github.nscuro.versatile.spi
+io.github.nscuro.versatile.core
+io.github.misrilibrary.tithi
