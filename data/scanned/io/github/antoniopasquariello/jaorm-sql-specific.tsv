@@ -1,2 +1,4 @@
 1.8.0a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/antoniopasquariello/jaorm-sql-specific/1.8.0a/jaorm-sql-specific-1.8.0a.jar returned status 404
+1.8.0b		2026-06-30T07:24:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/antoniopasquariello/jaorm-sql-specific/1.8.0b/jaorm-sql-specific-1.8.0b.jar returned status 404
 36.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/antoniopasquariello/jaorm-sql-specific/36.0.0/jaorm-sql-specific-36.0.0.jar returned status 404
+36.0.1		2026-06-30T06:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/antoniopasquariello/jaorm-sql-specific/36.0.1/jaorm-sql-specific-36.0.1.jar returned status 404

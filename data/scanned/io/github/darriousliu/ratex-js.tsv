@@ -1,4 +1,6 @@
 0.1.11		2026-06-03T07:19:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.11/ratex-js-0.1.11.jar returned status 404
+0.1.12		2026-06-29T06:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.12/ratex-js-0.1.12.jar returned status 404
+0.1.12-1		2026-07-03T04:16:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.12-1/ratex-js-0.1.12-1.jar returned status 404
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.5/ratex-js-0.1.5.jar returned status 404
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.8/ratex-js-0.1.8.jar returned status 404
 0.1.9		2026-05-19T15:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-js/0.1.9/ratex-js-0.1.9.jar returned status 404

@@ -1,3 +1,6 @@
+0.10.0		2026-06-26T18:27:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.10.0/vortex-java-0.10.0.jar returned status 404
+0.11.0		2026-06-28T12:17:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.11.0/vortex-java-0.11.0.jar returned status 404
+0.12.0		2026-07-04T22:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.12.0/vortex-java-0.12.0.jar returned status 404
 0.3.2		2026-06-06T17:27:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.3.2/vortex-java-0.3.2.jar returned status 404
 0.4.0		2026-06-07T20:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.4.0/vortex-java-0.4.0.jar returned status 404
 0.5.0		2026-06-09T07:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.5.0/vortex-java-0.5.0.jar returned status 404
@@ -10,3 +13,4 @@
 0.8.1		2026-06-20T19:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.8.1/vortex-java-0.8.1.jar returned status 404
 0.8.2		2026-06-22T18:54:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.8.2/vortex-java-0.8.2.jar returned status 404
 0.8.3		2026-06-23T06:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.8.3/vortex-java-0.8.3.jar returned status 404
+0.9.0		2026-06-24T19:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/vortex/vortex-java/0.9.0/vortex-java-0.9.0.jar returned status 404

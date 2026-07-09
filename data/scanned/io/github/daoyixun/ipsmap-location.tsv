@@ -27,3 +27,5 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap-location/2.0.0/ipsmap-location-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap-location/2.0.1/ipsmap-location-2.0.1.jar returned status 404
 2.0.2		2026-06-16T03:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap-location/2.0.2/ipsmap-location-2.0.2.jar returned status 404
+2.0.3		2026-06-24T02:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap-location/2.0.3/ipsmap-location-2.0.3.jar returned status 404
+2.0.4		2026-07-02T02:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap-location/2.0.4/ipsmap-location-2.0.4.jar returned status 404

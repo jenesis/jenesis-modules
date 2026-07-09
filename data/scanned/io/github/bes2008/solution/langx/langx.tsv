@@ -1,4 +1,5 @@
 5.4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bes2008/solution/langx/langx/5.4.6.1/langx-5.4.6.1.jar returned status 404
+5.4.6.2		2026-06-25T07:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bes2008/solution/langx/langx/5.4.6.2/langx-5.4.6.2.jar returned status 404
 5.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bes2008/solution/langx/langx/5.5.3/langx-5.5.3.jar returned status 404
 5.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bes2008/solution/langx/langx/5.5.4/langx-5.5.4.jar returned status 404
 5.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bes2008/solution/langx/langx/5.5.5/langx-5.5.5.jar returned status 404

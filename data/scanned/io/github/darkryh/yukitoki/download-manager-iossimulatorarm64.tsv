@@ -1,0 +1,4 @@
+1.0.0-beta01		2026-07-03T22:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/yukitoki/download-manager-iossimulatorarm64/1.0.0-beta01/download-manager-iossimulatorarm64-1.0.0-beta01.jar returned status 404
+1.0.0-beta01	metadata	2026-07-03T22:24:31Z	
+1.0.0-beta02		2026-07-04T00:25:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/yukitoki/download-manager-iossimulatorarm64/1.0.0-beta02/download-manager-iossimulatorarm64-1.0.0-beta02.jar returned status 404
+1.0.0-beta02	metadata	2026-07-04T00:25:51Z	
