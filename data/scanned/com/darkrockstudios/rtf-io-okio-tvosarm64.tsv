@@ -1,2 +1,8 @@
 0.1.0		2026-06-24T20:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/rtf-io-okio-tvosarm64/0.1.0/rtf-io-okio-tvosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-06-24T20:47:45Z	
+0.2.0		2026-06-25T22:20:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/rtf-io-okio-tvosarm64/0.2.0/rtf-io-okio-tvosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-06-25T22:20:08Z	
+0.2.1		2026-06-26T00:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/rtf-io-okio-tvosarm64/0.2.1/rtf-io-okio-tvosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2026-06-26T00:33:12Z	
+0.2.2		2026-06-26T01:00:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/rtf-io-okio-tvosarm64/0.2.2/rtf-io-okio-tvosarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2026-06-26T01:00:44Z	

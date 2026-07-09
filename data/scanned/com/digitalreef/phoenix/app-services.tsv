@@ -2,6 +2,7 @@
 5.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.10.1/app-services-5.10.1.jar returned status 404
 5.11.0		2026-06-16T19:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.11.0/app-services-5.11.0.jar returned status 404
 5.11.1		2026-06-24T15:46:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.11.1/app-services-5.11.1.jar returned status 404
+5.11.2		2026-07-07T21:19:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.11.2/app-services-5.11.2.jar returned status 404
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.4.1/app-services-5.4.1.jar returned status 404
 5.4.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.4.1-rc1/app-services-5.4.1-rc1.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalreef/phoenix/app-services/5.5.0/app-services-5.5.0.jar returned status 404

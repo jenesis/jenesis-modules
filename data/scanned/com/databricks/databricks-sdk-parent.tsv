@@ -21,6 +21,10 @@
 0.120.0		2026-06-16T09:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.120.0/databricks-sdk-parent-0.120.0.jar returned status 404
 0.121.0		2026-06-17T09:49:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.121.0/databricks-sdk-parent-0.121.0.jar returned status 404
 0.122.0		2026-06-22T10:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.122.0/databricks-sdk-parent-0.122.0.jar returned status 404
+0.123.0		2026-07-02T09:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.123.0/databricks-sdk-parent-0.123.0.jar returned status 404
+0.124.0		2026-07-06T09:32:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.124.0/databricks-sdk-parent-0.124.0.jar returned status 404
+0.125.0		2026-07-07T09:15:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.125.0/databricks-sdk-parent-0.125.0.jar returned status 404
+0.126.0		2026-07-08T09:02:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.126.0/databricks-sdk-parent-0.126.0.jar returned status 404
 0.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.55.0/databricks-sdk-parent-0.55.0.jar returned status 404
 0.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.56.0/databricks-sdk-parent-0.56.0.jar returned status 404
 0.57.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.57.0/databricks-sdk-parent-0.57.0.jar returned status 404

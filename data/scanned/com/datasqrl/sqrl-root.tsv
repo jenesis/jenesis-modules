@@ -5,6 +5,8 @@
 0.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.10.4/sqrl-root-0.10.4.jar returned status 404
 0.10.5		2026-05-21T18:14:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.10.5/sqrl-root-0.10.5.jar returned status 404
 0.10.6		2026-06-15T16:23:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.10.6/sqrl-root-0.10.6.jar returned status 404
+0.10.7		2026-06-30T19:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.10.7/sqrl-root-0.10.7.jar returned status 404
+0.10.8		2026-07-02T16:24:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.10.8/sqrl-root-0.10.8.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.6.0/sqrl-root-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.6.1/sqrl-root-0.6.1.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-root/0.7.0/sqrl-root-0.7.0.jar returned status 404
