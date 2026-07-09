@@ -7274,6 +7274,9 @@ v0.0.13	named	com.grafana	grafana-foundation-sdk	2026-05-29T09:36:00Z	2.19.1
 5.3.5	named	com.microsoft.azure.kusto	kusto-spark_3.0_2.12	2026-06-02T16:58:02Z	2.14.3
 1.0.9	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-06-03T10:31:07Z	2.15.2
 2.0.4	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-06-03T12:47:02Z	2.15.2
+1.4.2	named	org.apache.paimon	paimon-api	2026-06-04T06:14:16Z	2.14.2
+1.4.2	named	org.apache.paimon	paimon-obs-impl	2026-06-04T06:34:51Z	2.14.2
+1.4.2	named	org.apache.paimon	paimon-obs	2026-06-04T06:35:20Z	2.14.2
 v0.0.15	named	com.grafana	grafana-foundation-sdk	2026-06-04T08:33:09Z	2.19.1
 0.4.0-jdk8	named	org.apache.cassandra	sidecar-vertx-client-all	2026-06-04T10:57:12Z	2.14.3
 0.4.0	named	org.apache.cassandra	sidecar-vertx-client-all	2026-06-04T11:04:54Z	2.14.3
