@@ -4,3 +4,4 @@
 25.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-archetypes/25.11/webforj-archetypes-25.11.jar returned status 404
 25.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-archetypes/25.12/webforj-archetypes-25.12.jar returned status 404
 26.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-archetypes/26.00/webforj-archetypes-26.00.jar returned status 404
+26.01		2026-06-30T07:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-archetypes/26.01/webforj-archetypes-26.01.jar returned status 404

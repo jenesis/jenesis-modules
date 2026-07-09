@@ -249,3 +249,6 @@
 2.4.0-alpha.4		2026-06-12T12:17:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.4.0-alpha.4/client-sdk-chat-2.4.0-alpha.4.jar returned status 404
 2.4.0-alpha.5		2026-06-12T12:55:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.4.0-alpha.5/client-sdk-chat-2.4.0-alpha.5.jar returned status 404
 2.4.0-snapshot.202606232159		2026-06-23T22:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.4.0-snapshot.202606232159/client-sdk-chat-2.4.0-snapshot.202606232159.jar returned status 404
+2.5.0		2026-06-24T12:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.5.0/client-sdk-chat-2.5.0.jar returned status 404
+2.5.0-snapshot.202607011338		2026-07-01T14:12:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.5.0-snapshot.202607011338/client-sdk-chat-2.5.0-snapshot.202607011338.jar returned status 404
+2.5.1		2026-07-02T17:56:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-sdk-chat/2.5.1/client-sdk-chat-2.5.1.jar returned status 404

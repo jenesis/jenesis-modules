@@ -1,3 +1,5 @@
 0.1.0-dev.1		2026-06-16T13:25:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wallee/terminal/terminal-api/0.1.0-dev.1/terminal-api-0.1.0-dev.1.jar returned status 404
 0.1.0-dev.3		2026-06-17T16:46:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wallee/terminal/terminal-api/0.1.0-dev.3/terminal-api-0.1.0-dev.3.jar returned status 404
 0.1.0-dev.4		2026-06-22T08:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wallee/terminal/terminal-api/0.1.0-dev.4/terminal-api-0.1.0-dev.4.jar returned status 404
+0.1.0-dev.5		2026-06-25T13:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wallee/terminal/terminal-api/0.1.0-dev.5/terminal-api-0.1.0-dev.5.jar returned status 404
+0.1.0-dev.7		2026-07-06T07:44:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wallee/terminal/terminal-api/0.1.0-dev.7/terminal-api-0.1.0-dev.7.jar returned status 404

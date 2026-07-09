@@ -58,6 +58,10 @@
 2.0.11		2026-06-09T12:17:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.11/volcengine-java-sdk-bom-2.0.11.jar returned status 404
 2.0.12		2026-06-11T13:38:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.12/volcengine-java-sdk-bom-2.0.12.jar returned status 404
 2.0.13		2026-06-12T02:45:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.13/volcengine-java-sdk-bom-2.0.13.jar returned status 404
+2.0.14		2026-06-25T12:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.14/volcengine-java-sdk-bom-2.0.14.jar returned status 404
+2.0.15		2026-06-30T11:30:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.15/volcengine-java-sdk-bom-2.0.15.jar returned status 404
+2.0.16		2026-07-02T13:00:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.16/volcengine-java-sdk-bom-2.0.16.jar returned status 404
+2.0.17		2026-07-06T10:17:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.17/volcengine-java-sdk-bom-2.0.17.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.2/volcengine-java-sdk-bom-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.3/volcengine-java-sdk-bom-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/volcengine/volcengine-java-sdk-bom/2.0.4/volcengine-java-sdk-bom-2.0.4.jar returned status 404
