@@ -162,3 +162,5 @@
 3.4.3	metadata	2026-04-22T09:14:12Z	
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-core-tvossimulatorarm64/3.5.0/ktor-client-core-tvossimulatorarm64-3.5.0.jar returned status 404
 3.5.0	metadata	2026-05-14T14:35:43Z	
+3.5.1		2026-06-25T11:29:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-core-tvossimulatorarm64/3.5.1/ktor-client-core-tvossimulatorarm64-3.5.1.jar returned status 404
+3.5.1	metadata	2026-06-25T11:29:51Z	

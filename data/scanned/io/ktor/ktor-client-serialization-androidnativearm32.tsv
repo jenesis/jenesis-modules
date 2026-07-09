@@ -29,3 +29,4 @@
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-androidnativearm32/3.4.2/ktor-client-serialization-androidnativearm32-3.4.2.jar returned status 404
 3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-androidnativearm32/3.4.3/ktor-client-serialization-androidnativearm32-3.4.3.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-androidnativearm32/3.5.0/ktor-client-serialization-androidnativearm32-3.5.0.jar returned status 404
+3.5.1		2026-06-25T10:57:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-androidnativearm32/3.5.1/ktor-client-serialization-androidnativearm32-3.5.1.jar returned status 404

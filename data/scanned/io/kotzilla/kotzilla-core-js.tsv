@@ -13,3 +13,4 @@
 2.2.1		2026-06-09T07:42:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-js/2.2.1/kotzilla-core-js-2.2.1.jar returned status 404
 2.2.2		2026-06-11T16:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-js/2.2.2/kotzilla-core-js-2.2.2.jar returned status 404
 2.2.3		2026-06-18T14:52:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-js/2.2.3/kotzilla-core-js-2.2.3.jar returned status 404
+2.2.4		2026-06-22T15:33:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-js/2.2.4/kotzilla-core-js-2.2.4.jar returned status 404
