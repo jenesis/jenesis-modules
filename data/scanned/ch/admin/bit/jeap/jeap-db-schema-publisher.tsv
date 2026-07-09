@@ -47,3 +47,4 @@
 3.5.0		2026-06-18T11:23:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-db-schema-publisher/3.5.0/jeap-db-schema-publisher-3.5.0.jar returned status 404
 3.6.0		2026-06-22T10:03:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-db-schema-publisher/3.6.0/jeap-db-schema-publisher-3.6.0.jar returned status 404
 3.7.0		2026-06-23T06:28:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-db-schema-publisher/3.7.0/jeap-db-schema-publisher-3.7.0.jar returned status 404
+3.8.0		2026-06-30T09:03:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-db-schema-publisher/3.8.0/jeap-db-schema-publisher-3.8.0.jar returned status 404

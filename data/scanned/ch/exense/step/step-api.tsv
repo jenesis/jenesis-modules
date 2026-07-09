@@ -1,3 +1,4 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-api/1.4.0/step-api-1.4.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-api/1.5.0/step-api-1.5.0.jar returned status 404
 1.6.0		2026-06-03T10:46:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-api/1.6.0/step-api-1.6.0.jar returned status 404
+1.6.1		2026-07-03T09:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-api/1.6.1/step-api-1.6.1.jar returned status 404

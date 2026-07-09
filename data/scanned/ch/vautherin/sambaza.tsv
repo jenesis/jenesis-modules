@@ -7,3 +7,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/vautherin/sambaza/4.0.0/sambaza-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/vautherin/sambaza/4.0.1/sambaza-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/vautherin/sambaza/4.0.2/sambaza-4.0.2.jar returned status 404
+4.0.3		2026-06-26T14:50:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/vautherin/sambaza/4.0.3/sambaza-4.0.3.jar returned status 404

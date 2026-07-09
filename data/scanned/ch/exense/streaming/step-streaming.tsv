@@ -1,2 +1,3 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/streaming/step-streaming/1.0.0/step-streaming-1.0.0.jar returned status 404
 2.0.0		2026-06-03T10:24:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/streaming/step-streaming/2.0.0/step-streaming-2.0.0.jar returned status 404
+2.0.1		2026-07-03T08:17:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/streaming/step-streaming/2.0.1/step-streaming-2.0.1.jar returned status 404

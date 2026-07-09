@@ -15,3 +15,8 @@
 3.1.482		2026-05-22T12:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.482/mobitor-parent-3.1.482.jar returned status 404
 3.1.483		2026-05-26T07:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.483/mobitor-parent-3.1.483.jar returned status 404
 3.1.485		2026-06-09T13:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.485/mobitor-parent-3.1.485.jar returned status 404
+3.1.488		2026-06-30T06:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.488/mobitor-parent-3.1.488.jar returned status 404
+3.1.490		2026-06-30T10:47:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.490/mobitor-parent-3.1.490.jar returned status 404
+3.1.491		2026-06-30T13:27:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.491/mobitor-parent-3.1.491.jar returned status 404
+3.1.495		2026-06-30T13:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.495/mobitor-parent-3.1.495.jar returned status 404
+3.1.496		2026-07-01T06:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/mobi/mobitor/mobitor-parent/3.1.496/mobitor-parent-3.1.496.jar returned status 404

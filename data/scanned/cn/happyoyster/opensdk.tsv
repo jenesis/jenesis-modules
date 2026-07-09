@@ -1,0 +1,4 @@
+0.0.1		2026-06-26T05:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/happyoyster/opensdk/0.0.1/opensdk-0.0.1.jar returned status 404
+0.0.2		2026-06-26T07:47:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/happyoyster/opensdk/0.0.2/opensdk-0.0.2.jar returned status 404
+0.1.0		2026-06-26T08:02:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/happyoyster/opensdk/0.1.0/opensdk-0.1.0.jar returned status 404
+0.1.1		2026-07-06T10:51:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/happyoyster/opensdk/0.1.1/opensdk-0.1.1.jar returned status 404

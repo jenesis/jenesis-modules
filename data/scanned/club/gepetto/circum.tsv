@@ -30,6 +30,9 @@
 1.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.39/circum-1.0.39.jar returned status 404
 1.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.40/circum-1.0.40.jar returned status 404
 1.0.41		2026-06-23T15:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.41/circum-1.0.41.jar returned status 404
+1.0.42		2026-06-29T13:43:43Z	
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.7/circum-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.8/circum-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gepetto/circum/1.0.9/circum-1.0.9.jar returned status 404
+2.0.0		2026-06-30T13:15:21Z	
+2.0.1		2026-07-01T19:42:28Z	

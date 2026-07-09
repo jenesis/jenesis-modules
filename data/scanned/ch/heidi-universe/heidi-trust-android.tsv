@@ -36,3 +36,6 @@
 0.19.9-openbadges3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.9-openbadges3/heidi-trust-android-0.19.9-openbadges3.jar returned status 404
 0.19.9-openbadges6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.9-openbadges6/heidi-trust-android-0.19.9-openbadges6.jar returned status 404
 0.19.9-openbadges7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.19.9-openbadges7/heidi-trust-android-0.19.9-openbadges7.jar returned status 404
+0.20.0		2026-06-26T09:50:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.20.0/heidi-trust-android-0.20.0.jar returned status 404
+0.20.1		2026-06-26T14:08:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.20.1/heidi-trust-android-0.20.1.jar returned status 404
+0.20.2		2026-06-29T11:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-trust-android/0.20.2/heidi-trust-android-0.20.2.jar returned status 404

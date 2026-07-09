@@ -385,5 +385,6 @@
 1.0.4	named	org.eclipse.hawkbit	hawkbit-repository-jpa-init	2026-06-25T08:33:43Z	1.5.34
 1.5.36	named	ch.qos.logback	logback-core	2026-06-25T19:15:56Z	1.5.36
 0.3.3	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-06-25T21:23:44Z	1.5.34
+1.5.37	named	ch.qos.logback	logback-core	2026-06-26T14:09:29Z	1.5.37
 0.2.5	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-06-29T17:26:41Z	1.5.34
 1.1.0	named	org.eclipse.hawkbit	hawkbit-repository-jpa-init	2026-07-03T11:19:37Z	1.5.34

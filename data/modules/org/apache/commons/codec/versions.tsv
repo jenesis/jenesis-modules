@@ -1952,6 +1952,7 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.46.18	named	software.amazon.awssdk	bundle-sdk	2026-06-29T21:00:42Z	1.17.1
 2.46.19	named	software.amazon.awssdk	bundle-sdk	2026-06-30T21:17:35Z	1.17.1
 2.46.19	named	software.amazon.awssdk	bundle	2026-06-30T21:17:39Z	1.17.1
+2.0.0	named	cn.ctyun	ctyun-java-sdk-cloudassistant20220909	2026-07-01T06:06:51Z	1.19.0
 2.46.20	named	software.amazon.awssdk	bundle-sdk	2026-07-01T21:01:59Z	1.17.1
 2.46.20	named	software.amazon.awssdk	bundle	2026-07-01T21:02:17Z	1.17.1
 2.46.21	named	software.amazon.awssdk	bundle-sdk	2026-07-02T20:55:28Z	1.17.1

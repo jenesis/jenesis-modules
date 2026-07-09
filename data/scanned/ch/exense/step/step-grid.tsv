@@ -2,3 +2,4 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-grid/2.5.0/step-grid-2.5.0.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-grid/2.5.1/step-grid-2.5.1.jar returned status 404
 3.0.0		2026-06-03T12:06:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-grid/3.0.0/step-grid-3.0.0.jar returned status 404
+3.0.1		2026-07-03T09:44:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-grid/3.0.1/step-grid-3.0.1.jar returned status 404

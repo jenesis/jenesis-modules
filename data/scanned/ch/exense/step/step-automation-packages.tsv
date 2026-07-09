@@ -14,3 +14,4 @@
 3.29.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-automation-packages/3.29.4/step-automation-packages-3.29.4.jar returned status 404
 3.29.5		2026-06-05T04:35:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-automation-packages/3.29.5/step-automation-packages-3.29.5.jar returned status 404
 3.30.0		2026-06-03T13:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-automation-packages/3.30.0/step-automation-packages-3.30.0.jar returned status 404
+3.30.1		2026-07-07T19:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-automation-packages/3.30.1/step-automation-packages-3.30.1.jar returned status 404

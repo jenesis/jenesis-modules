@@ -69,6 +69,11 @@
 8.11.0		2026-06-22T11:48:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.11.0/jeap-audit-8.11.0.jar returned status 404
 8.12.0		2026-06-23T10:39:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.12.0/jeap-audit-8.12.0.jar returned status 404
 8.12.1		2026-06-25T07:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.12.1/jeap-audit-8.12.1.jar returned status 404
+8.13.0		2026-06-30T10:44:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.13.0/jeap-audit-8.13.0.jar returned status 404
+8.13.1		2026-07-01T10:20:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.13.1/jeap-audit-8.13.1.jar returned status 404
+8.14.0		2026-07-01T14:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.14.0/jeap-audit-8.14.0.jar returned status 404
+8.14.1		2026-07-07T05:21:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.14.1/jeap-audit-8.14.1.jar returned status 404
+8.15.0		2026-07-07T15:00:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.15.0/jeap-audit-8.15.0.jar returned status 404
 8.2.0		2026-05-29T10:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.2.0/jeap-audit-8.2.0.jar returned status 404
 8.3.0		2026-06-02T05:36:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.3.0/jeap-audit-8.3.0.jar returned status 404
 8.3.1		2026-06-03T07:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-audit/8.3.1/jeap-audit-8.3.1.jar returned status 404

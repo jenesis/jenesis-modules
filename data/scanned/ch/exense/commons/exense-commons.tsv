@@ -2,3 +2,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/commons/exense-commons/2.1.0/exense-commons-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/commons/exense-commons/2.1.1/exense-commons-2.1.1.jar returned status 404
 2.2.0		2026-06-03T10:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/commons/exense-commons/2.2.0/exense-commons-2.2.0.jar returned status 404
+2.2.1		2026-07-03T08:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/commons/exense-commons/2.2.1/exense-commons-2.2.1.jar returned status 404

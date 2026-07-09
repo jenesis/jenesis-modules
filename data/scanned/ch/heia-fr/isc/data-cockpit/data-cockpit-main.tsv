@@ -4,3 +4,4 @@
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heia-fr/isc/data-cockpit/data-cockpit-main/1.4.1/data-cockpit-main-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heia-fr/isc/data-cockpit/data-cockpit-main/1.4.2/data-cockpit-main-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heia-fr/isc/data-cockpit/data-cockpit-main/1.4.3/data-cockpit-main-1.4.3.jar returned status 404
+1.5.0		2026-07-08T15:02:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heia-fr/isc/data-cockpit/data-cockpit-main/1.5.0/data-cockpit-main-1.5.0.jar returned status 404

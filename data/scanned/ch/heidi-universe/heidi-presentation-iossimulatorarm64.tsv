@@ -74,3 +74,9 @@
 0.19.9-openbadges6	metadata	2026-01-23T12:15:38Z	
 0.19.9-openbadges7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iossimulatorarm64/0.19.9-openbadges7/heidi-presentation-iossimulatorarm64-0.19.9-openbadges7.jar returned status 404
 0.19.9-openbadges7	metadata	2026-01-23T16:02:57Z	
+0.20.0		2026-06-26T08:08:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iossimulatorarm64/0.20.0/heidi-presentation-iossimulatorarm64-0.20.0.jar returned status 404
+0.20.0	metadata	2026-06-26T08:09:00Z	
+0.20.1		2026-06-26T12:52:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iossimulatorarm64/0.20.1/heidi-presentation-iossimulatorarm64-0.20.1.jar returned status 404
+0.20.1	metadata	2026-06-26T12:52:40Z	
+0.20.2		2026-06-29T09:58:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iossimulatorarm64/0.20.2/heidi-presentation-iossimulatorarm64-0.20.2.jar returned status 404
+0.20.2	metadata	2026-06-29T09:58:30Z	
