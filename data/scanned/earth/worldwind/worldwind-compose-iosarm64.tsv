@@ -12,3 +12,7 @@
 2.0.2	metadata	2026-06-10T22:01:58Z	
 2.0.3		2026-06-17T08:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-iosarm64/2.0.3/worldwind-compose-iosarm64-2.0.3.jar returned status 404
 2.0.3	metadata	2026-06-17T08:42:51Z	
+2.0.4		2026-06-30T22:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-iosarm64/2.0.4/worldwind-compose-iosarm64-2.0.4.jar returned status 404
+2.0.4	metadata	2026-06-30T22:33:13Z	
+2.0.5		2026-07-05T12:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-iosarm64/2.0.5/worldwind-compose-iosarm64-2.0.5.jar returned status 404
+2.0.5	metadata	2026-07-05T12:51:56Z	

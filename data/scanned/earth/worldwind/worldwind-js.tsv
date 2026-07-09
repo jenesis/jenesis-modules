@@ -204,3 +204,5 @@
 2.0.1		2026-06-07T12:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/2.0.1/worldwind-js-2.0.1.jar returned status 404
 2.0.2		2026-06-10T22:01:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/2.0.2/worldwind-js-2.0.2.jar returned status 404
 2.0.3		2026-06-17T08:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/2.0.3/worldwind-js-2.0.3.jar returned status 404
+2.0.4		2026-06-30T22:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/2.0.4/worldwind-js-2.0.4.jar returned status 404
+2.0.5		2026-07-05T12:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-js/2.0.5/worldwind-js-2.0.5.jar returned status 404
