@@ -2,3 +2,4 @@
 5.3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/azerion/bluestack-google-adapter/5.3.2.0/bluestack-google-adapter-5.3.2.0.jar returned status 404
 5.3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/azerion/bluestack-google-adapter/5.3.5.0/bluestack-google-adapter-5.3.5.0.jar returned status 404
 5.4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/azerion/bluestack-google-adapter/5.4.1.0/bluestack-google-adapter-5.4.1.0.jar returned status 404
+6.0.6.0		2026-07-03T09:21:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/azerion/bluestack-google-adapter/6.0.6.0/bluestack-google-adapter-6.0.6.0.jar returned status 404

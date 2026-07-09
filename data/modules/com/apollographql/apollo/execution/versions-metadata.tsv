@@ -238,3 +238,15 @@
 5.0.0	automatic	com.apollographql.apollo	apollo-execution-watchosdevicearm64	2026-05-12T17:13:01Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-execution-tvossimulatorarm64	2026-05-12T17:13:02Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-execution-tvosarm64	2026-05-12T17:13:03Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-watchosarm32	2026-06-25T14:59:46Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-iosx64	2026-06-25T14:59:47Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-macosx64	2026-06-25T14:59:47Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-watchosarm64	2026-06-25T14:59:48Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-iossimulatorarm64	2026-06-25T14:59:50Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-macosarm64	2026-06-25T14:59:51Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-tvosx64	2026-06-25T14:59:51Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-tvosarm64	2026-06-25T14:59:52Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-tvossimulatorarm64	2026-06-25T14:59:55Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-watchosdevicearm64	2026-06-25T14:59:55Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-watchossimulatorarm64	2026-06-25T14:59:56Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-execution-iosarm64	2026-06-25T14:59:59Z	

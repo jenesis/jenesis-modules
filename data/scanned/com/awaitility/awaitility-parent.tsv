@@ -1,0 +1,16 @@
+1.0.1		2026-06-27T14:05:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/1.0.1/awaitility-parent-1.0.1.jar returned status 404
+2.0.0		2026-06-28T13:05:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/2.0.0/awaitility-parent-2.0.0.jar returned status 404
+3.0.0		2026-06-28T16:33:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/3.0.0/awaitility-parent-3.0.0.jar returned status 404
+3.1.4		2026-06-28T16:34:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/3.1.4/awaitility-parent-3.1.4.jar returned status 404
+3.1.5		2026-06-28T16:34:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/3.1.5/awaitility-parent-3.1.5.jar returned status 404
+3.1.6		2026-06-28T16:37:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/3.1.6/awaitility-parent-3.1.6.jar returned status 404
+4.0.1		2026-06-28T16:38:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.0.1/awaitility-parent-4.0.1.jar returned status 404
+4.0.2		2026-06-28T16:38:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.0.2/awaitility-parent-4.0.2.jar returned status 404
+4.0.3		2026-06-28T16:39:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.0.3/awaitility-parent-4.0.3.jar returned status 404
+4.1.0		2026-06-28T16:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.1.0/awaitility-parent-4.1.0.jar returned status 404
+4.1.1		2026-06-28T16:40:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.1.1/awaitility-parent-4.1.1.jar returned status 404
+4.2.0		2026-06-28T16:41:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.2.0/awaitility-parent-4.2.0.jar returned status 404
+4.2.1		2026-06-28T16:42:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.2.1/awaitility-parent-4.2.1.jar returned status 404
+4.2.2		2026-06-28T16:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.2.2/awaitility-parent-4.2.2.jar returned status 404
+4.3.0		2026-06-28T16:43:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.3.0/awaitility-parent-4.3.0.jar returned status 404
+4.4.0		2026-06-28T16:43:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awaitility/awaitility-parent/4.4.0/awaitility-parent-4.4.0.jar returned status 404

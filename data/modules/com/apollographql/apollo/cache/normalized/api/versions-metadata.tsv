@@ -293,3 +293,15 @@
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-api-iossimulatorarm64	2026-05-12T17:13:01Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchossimulatorarm64	2026-05-12T17:13:01Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchosarm32	2026-05-12T17:13:02Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-macosx64	2026-06-25T14:59:48Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchossimulatorarm64	2026-06-25T14:59:48Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-iosarm64	2026-06-25T14:59:50Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-tvossimulatorarm64	2026-06-25T14:59:50Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-macosarm64	2026-06-25T14:59:51Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchosarm32	2026-06-25T14:59:51Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-tvosarm64	2026-06-25T14:59:52Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-iossimulatorarm64	2026-06-25T14:59:54Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchosdevicearm64	2026-06-25T14:59:55Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-iosx64	2026-06-25T14:59:56Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-watchosarm64	2026-06-25T14:59:58Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-api-tvosx64	2026-06-25T15:00:00Z	

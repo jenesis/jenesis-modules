@@ -293,3 +293,15 @@
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-tvossimulatorarm64	2026-05-12T17:13:00Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-tvosarm64	2026-05-12T17:13:01Z	
 5.0.0	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-iosx64	2026-05-12T17:13:02Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-watchosdevicearm64	2026-06-25T14:59:47Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-tvossimulatorarm64	2026-06-25T14:59:48Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-iosarm64	2026-06-25T14:59:49Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-macosx64	2026-06-25T14:59:50Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-macosarm64	2026-06-25T14:59:52Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-tvosarm64	2026-06-25T14:59:52Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-watchossimulatorarm64	2026-06-25T14:59:52Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-iossimulatorarm64	2026-06-25T14:59:53Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-iosx64	2026-06-25T14:59:54Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-tvosx64	2026-06-25T14:59:59Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-watchosarm32	2026-06-25T14:59:59Z	
+5.0.1	automatic	com.apollographql.apollo	apollo-normalized-cache-sqlite-watchosarm64	2026-06-25T14:59:59Z	

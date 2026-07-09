@@ -774,4 +774,8 @@
 4.1.9	named	com.instaclustr	esop-azure	2026-07-01T10:15:26Z	2.0.73.Final
 4.1.9	named	com.instaclustr	esop-gcp	2026-07-01T10:15:26Z	2.0.70.Final
 1.36.1	named	io.temporal	temporal-shaded	2026-07-02T01:00:49Z	2.0.72.Final
+4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-4_2-12	2026-07-03T08:49:48Z	2.0.78.Final
+4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-13	2026-07-03T08:49:48Z	2.0.78.Final
+4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-3_2-12	2026-07-03T08:49:49Z	2.0.78.Final
+4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	2026-07-03T08:49:49Z	2.0.78.Final
 2.74.0	named	com.google.api	gapic-generator-java	2026-07-08T00:26:50Z	2.0.75.Final

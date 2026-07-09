@@ -51,3 +51,5 @@
 2.2.2		2026-06-16T18:25:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/applovin-adapter/2.2.2/applovin-adapter-2.2.2.jar returned status 404
 2.2.3		2026-06-18T13:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/applovin-adapter/2.2.3/applovin-adapter-2.2.3.jar returned status 404
 2.2.4		2026-06-22T00:23:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/applovin-adapter/2.2.4/applovin-adapter-2.2.4.jar returned status 404
+2.2.5		2026-06-28T09:22:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/applovin-adapter/2.2.5/applovin-adapter-2.2.5.jar returned status 404
+2.2.6		2026-07-02T20:31:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bidease/applovin-adapter/2.2.6/applovin-adapter-2.2.6.jar returned status 404

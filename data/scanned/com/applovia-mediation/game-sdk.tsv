@@ -25,3 +25,4 @@
 4.3.36		2026-05-27T03:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovia-mediation/game-sdk/4.3.36/game-sdk-4.3.36.jar returned status 404
 4.3.37		2026-05-28T08:12:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovia-mediation/game-sdk/4.3.37/game-sdk-4.3.37.jar returned status 404
 4.3.38		2026-06-04T04:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovia-mediation/game-sdk/4.3.38/game-sdk-4.3.38.jar returned status 404
+4.3.39		2026-07-01T08:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovia-mediation/game-sdk/4.3.39/game-sdk-4.3.39.jar returned status 404

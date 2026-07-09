@@ -4,3 +4,4 @@
 7.0.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/af-android-sdk-base-beta/7.0.0-rc4/af-android-sdk-base-beta-7.0.0-rc4.jar returned status 404
 7.0.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/af-android-sdk-base-beta/7.0.0-rc5/af-android-sdk-base-beta-7.0.0-rc5.jar returned status 404
 7.0.0-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/af-android-sdk-base-beta/7.0.0-rc6/af-android-sdk-base-beta-7.0.0-rc6.jar returned status 404
+7.0.1-rc1		2026-07-06T14:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/af-android-sdk-base-beta/7.0.1-rc1/af-android-sdk-base-beta-7.0.1-rc1.jar returned status 404

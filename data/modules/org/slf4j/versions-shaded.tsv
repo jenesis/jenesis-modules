@@ -372,4 +372,9 @@
 2.24.0	named	org.mustangproject	validator	2026-06-11T19:13:25Z	2.0.17
 2.23.2	named	org.mustangproject	library	2026-06-25T09:31:53Z	2.0.17
 2.23.2	named	org.mustangproject	validator	2026-06-25T09:31:53Z	2.0.17
+26.7.1	named	com.arcadedb	arcadedb-metrics	2026-07-01T21:08:26Z	2.0.18
+26.7.1	named	com.arcadedb	arcadedb-bolt	2026-07-01T21:08:27Z	2.0.18
+26.7.1	named	com.arcadedb	arcadedb-postgresw	2026-07-01T21:08:27Z	2.0.18
+26.7.1	named	com.arcadedb	arcadedb-redisw	2026-07-01T21:08:27Z	2.0.18
+26.7.1	named	com.arcadedb	arcadedb-tracing	2026-07-01T21:08:27Z	2.0.18
 3.54.0	named	org.jdbi	jdbi3-benchmark	2026-07-01T21:16:54Z	2.0.17

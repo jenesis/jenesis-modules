@@ -9,3 +9,4 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/kafka/kafka-bom/1.4.0/kafka-bom-1.4.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/kafka/kafka-bom/1.5.0/kafka-bom-1.5.0.jar returned status 404
 1.6.0		2026-06-23T11:01:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/kafka/kafka-bom/1.6.0/kafka-bom-1.6.0.jar returned status 404
+1.6.1		2026-07-02T07:02:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/kafka/kafka-bom/1.6.1/kafka-bom-1.6.1.jar returned status 404
