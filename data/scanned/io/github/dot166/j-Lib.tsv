@@ -61,6 +61,10 @@
 104.3.7		2026-06-17T12:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.3.7/j-Lib-104.3.7.jar returned status 404
 104.3.8		2026-06-19T10:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.3.8/j-Lib-104.3.8.jar returned status 404
 104.3.9		2026-06-19T11:37:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.3.9/j-Lib-104.3.9.jar returned status 404
+104.4.0		2026-06-24T12:08:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.4.0/j-Lib-104.4.0.jar returned status 404
+104.4.1		2026-06-24T20:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.4.1/j-Lib-104.4.1.jar returned status 404
+104.4.2		2026-06-25T10:04:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.4.2/j-Lib-104.4.2.jar returned status 404
+104.4.3		2026-06-25T12:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/104.4.3/j-Lib-104.4.3.jar returned status 404
 3.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/3.2.10/j-Lib-3.2.10.jar returned status 404
 3.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/3.2.11/j-Lib-3.2.11.jar returned status 404
 3.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/j-Lib/3.2.12/j-Lib-3.2.12.jar returned status 404

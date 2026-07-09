@@ -37,6 +37,8 @@
 1.1.5		2026-06-07T13:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.1.5/monitor-1.1.5.jar returned status 404
 1.2.0		2026-06-08T12:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.0/monitor-1.2.0.jar returned status 404
 1.2.1		2026-06-09T07:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.1/monitor-1.2.1.jar returned status 404
+1.2.10		2026-06-27T10:14:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.10/monitor-1.2.10.jar returned status 404
+1.2.11		2026-07-02T10:39:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.11/monitor-1.2.11.jar returned status 404
 1.2.2		2026-06-09T07:55:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.2/monitor-1.2.2.jar returned status 404
 1.2.3		2026-06-09T08:35:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.3/monitor-1.2.3.jar returned status 404
 1.2.4		2026-06-10T05:22:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.4/monitor-1.2.4.jar returned status 404
@@ -45,3 +47,4 @@
 1.2.7		2026-06-12T03:07:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.7/monitor-1.2.7.jar returned status 404
 1.2.8		2026-06-12T09:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.8/monitor-1.2.8.jar returned status 404
 1.2.8-jdk8		2026-06-15T00:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.8-jdk8/monitor-1.2.8-jdk8.jar returned status 404
+1.2.9		2026-06-27T04:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idogbot/monitor/1.2.9/monitor-1.2.9.jar returned status 404

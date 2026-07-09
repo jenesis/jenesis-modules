@@ -3,3 +3,7 @@
 136.1.202606150907		2026-06-15T09:08:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/136.1.202606150907/SpaLib-136.1.202606150907.jar returned status 404
 136.1.202606150910		2026-06-15T09:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/136.1.202606150910/SpaLib-136.1.202606150910.jar returned status 404
 136.1.202606192213		2026-06-19T22:14:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/136.1.202606192213/SpaLib-136.1.202606192213.jar returned status 404
+136.1.202606240956		2026-06-24T09:56:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/136.1.202606240956/SpaLib-136.1.202606240956.jar returned status 404
+137.0.2026061800		2026-06-24T11:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/137.0.2026061800/SpaLib-137.0.2026061800.jar returned status 404
+137.0.2026062400		2026-06-24T18:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/137.0.2026062400/SpaLib-137.0.2026062400.jar returned status 404
+137.0.2026062500		2026-06-25T21:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SpaLib/137.0.2026062500/SpaLib-137.0.2026062500.jar returned status 404

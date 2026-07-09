@@ -2,5 +2,12 @@
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.2/replace-android-0.2.jar returned status 404
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3/replace-android-0.3.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.1/replace-android-0.3.1.jar returned status 404
+0.3.10		2026-06-28T17:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.10/replace-android-0.3.10.jar returned status 404
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.2/replace-android-0.3.2.jar returned status 404
 0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.3/replace-android-0.3.3.jar returned status 404
+0.3.4		2026-06-28T13:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.4/replace-android-0.3.4.jar returned status 404
+0.3.5		2026-06-28T14:09:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.5/replace-android-0.3.5.jar returned status 404
+0.3.6		2026-06-28T14:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.6/replace-android-0.3.6.jar returned status 404
+0.3.7		2026-06-28T14:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.7/replace-android-0.3.7.jar returned status 404
+0.3.8		2026-06-28T15:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.8/replace-android-0.3.8.jar returned status 404
+0.3.9		2026-06-28T16:24:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ezberlin/replace-android/0.3.9/replace-android-0.3.9.jar returned status 404
