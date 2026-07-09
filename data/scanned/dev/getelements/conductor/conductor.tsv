@@ -2,3 +2,5 @@
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/conductor/conductor/1.0.5/conductor-1.0.5.jar returned status 404
 1.0.7		2026-06-10T06:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/conductor/conductor/1.0.7/conductor-1.0.7.jar returned status 404
 1.0.8		2026-06-16T06:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/conductor/conductor/1.0.8/conductor-1.0.8.jar returned status 404
+1.1.0		2026-07-06T23:26:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/conductor/conductor/1.1.0/conductor-1.1.0.jar returned status 404
+1.1.1		2026-07-07T00:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/conductor/conductor/1.1.1/conductor-1.1.1.jar returned status 404

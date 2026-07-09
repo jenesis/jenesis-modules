@@ -7,9 +7,15 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.23.0/anip-parent-0.23.0.jar returned status 404
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.0/anip-parent-0.24.0.jar returned status 404
 0.24.1		2026-05-30T23:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.1/anip-parent-0.24.1.jar returned status 404
+0.24.10		2026-06-26T21:10:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.10/anip-parent-0.24.10.jar returned status 404
+0.24.11		2026-06-27T01:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.11/anip-parent-0.24.11.jar returned status 404
+0.24.12		2026-06-28T06:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.12/anip-parent-0.24.12.jar returned status 404
+0.24.13		2026-07-07T02:54:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.13/anip-parent-0.24.13.jar returned status 404
 0.24.2		2026-05-31T07:07:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.2/anip-parent-0.24.2.jar returned status 404
 0.24.3		2026-05-31T20:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.3/anip-parent-0.24.3.jar returned status 404
 0.24.4		2026-06-06T04:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.4/anip-parent-0.24.4.jar returned status 404
 0.24.5		2026-06-09T04:26:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.5/anip-parent-0.24.5.jar returned status 404
 0.24.6		2026-06-15T09:15:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.6/anip-parent-0.24.6.jar returned status 404
 0.24.7		2026-06-21T06:11:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.7/anip-parent-0.24.7.jar returned status 404
+0.24.8		2026-06-25T04:01:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.8/anip-parent-0.24.8.jar returned status 404
+0.24.9		2026-06-25T15:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/anip/anip-parent/0.24.9/anip-parent-0.24.9.jar returned status 404

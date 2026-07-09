@@ -2,3 +2,5 @@
 2.0.2	metadata	2026-05-14T23:02:53Z	
 2.0.2-1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bmcreations/phantom-connect-wallet-iosx64/2.0.2-1.0.0/phantom-connect-wallet-iosx64-2.0.2-1.0.0.jar returned status 404
 2.0.2-1.0.0	metadata	2026-05-18T20:46:05Z	
+2.0.2-1.0.1		2026-06-30T14:05:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bmcreations/phantom-connect-wallet-iosx64/2.0.2-1.0.1/phantom-connect-wallet-iosx64-2.0.2-1.0.1.jar returned status 404
+2.0.2-1.0.1	metadata	2026-06-30T14:05:58Z	

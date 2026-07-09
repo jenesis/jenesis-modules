@@ -77,3 +77,4 @@
 5.0.2	named	org.springframework.cloud	spring-cloud-build-docs	2026-06-11T13:55:32Z	1.5.34
 1.1.6	named	com.deltaproto	delta-gerber	2026-06-15T12:45:43Z	1.5.32
 4.0.0	named	io.smallrye.reactive	vertx-mutiny-code-generator	2026-06-23T09:04:38Z	1.5.34
+4.3.2	named	de.gematik.test	tiger-httpbin	2026-06-24T14:05:50Z	1.5.20

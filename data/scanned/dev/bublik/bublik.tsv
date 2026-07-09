@@ -16,3 +16,4 @@
 26.2.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bublik/bublik/26.2.35/bublik-26.2.35.jar returned status 404
 26.2.43		2026-06-08T08:35:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bublik/bublik/26.2.43/bublik-26.2.43.jar returned status 404
 26.2.44		2026-06-08T14:06:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bublik/bublik/26.2.44/bublik-26.2.44.jar returned status 404
+26.2.55		2026-06-30T10:06:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bublik/bublik/26.2.55/bublik-26.2.55.jar returned status 404

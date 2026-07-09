@@ -21,3 +21,4 @@
 4.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/tiger/4.2.7/tiger-4.2.7.jar returned status 404
 4.3.0		2026-06-09T13:06:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/tiger/4.3.0/tiger-4.3.0.jar returned status 404
 4.3.1		2026-06-11T13:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/tiger/4.3.1/tiger-4.3.1.jar returned status 404
+4.3.2		2026-06-24T14:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/tiger/4.3.2/tiger-4.3.2.jar returned status 404

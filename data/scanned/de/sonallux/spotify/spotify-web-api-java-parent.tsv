@@ -1,3 +1,4 @@
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sonallux/spotify/spotify-web-api-java-parent/4.3.2/spotify-web-api-java-parent-4.3.2.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sonallux/spotify/spotify-web-api-java-parent/5.0.0/spotify-web-api-java-parent-5.0.0.jar returned status 404
 5.1.0		2026-06-01T18:46:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sonallux/spotify/spotify-web-api-java-parent/5.1.0/spotify-web-api-java-parent-5.1.0.jar returned status 404
+5.2.0		2026-06-24T17:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sonallux/spotify/spotify-web-api-java-parent/5.2.0/spotify-web-api-java-parent-5.2.0.jar returned status 404

@@ -21,3 +21,4 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-android/1.5.0/log4k-android-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-android/1.5.1/log4k-android-1.5.1.jar returned status 404
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-android/1.5.2/log4k-android-1.5.2.jar returned status 404
+1.6.0		2026-06-30T07:32:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-android/1.6.0/log4k-android-1.6.0.jar returned status 404

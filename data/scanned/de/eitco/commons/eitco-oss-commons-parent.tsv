@@ -19,3 +19,4 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/commons/eitco-oss-commons-parent/1.0.2/eitco-oss-commons-parent-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/commons/eitco-oss-commons-parent/1.0.3/eitco-oss-commons-parent-1.0.3.jar returned status 404
 1.0.4		2026-06-09T16:29:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/commons/eitco-oss-commons-parent/1.0.4/eitco-oss-commons-parent-1.0.4.jar returned status 404
+1.0.5		2026-07-03T09:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/commons/eitco-oss-commons-parent/1.0.5/eitco-oss-commons-parent-1.0.5.jar returned status 404

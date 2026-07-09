@@ -3,3 +3,4 @@
 1.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hardwood/hardwood-parent/1.0.0.Beta2/hardwood-parent-1.0.0.Beta2.jar returned status 404
 1.0.0.CR1		2026-05-31T18:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hardwood/hardwood-parent/1.0.0.CR1/hardwood-parent-1.0.0.CR1.jar returned status 404
 1.0.0.CR2		2026-06-07T19:05:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hardwood/hardwood-parent/1.0.0.CR2/hardwood-parent-1.0.0.CR2.jar returned status 404
+1.0.0.Final		2026-06-25T10:53:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hardwood/hardwood-parent/1.0.0.Final/hardwood-parent-1.0.0.Final.jar returned status 404

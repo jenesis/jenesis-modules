@@ -42,3 +42,5 @@
 1.5.1	metadata	2025-09-24T12:27:03Z	
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-iosarm64/1.5.2/log4k-iosarm64-1.5.2.jar returned status 404
 1.5.2	metadata	2025-09-24T12:53:40Z	
+1.6.0		2026-06-30T07:32:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/peilicke/sascha/log4k-iosarm64/1.6.0/log4k-iosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-06-30T07:32:08Z	
