@@ -58,6 +58,8 @@
 4.4.0-beta01	metadata	2026-02-04T17:24:46Z	
 4.4.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.4.0-beta02/sketch-core-iossimulatorarm64-4.4.0-beta02.jar returned status 404
 4.4.0-beta02	metadata	2026-03-04T09:07:42Z	
+4.5.0		2026-06-30T04:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.5.0/sketch-core-iossimulatorarm64-4.5.0.jar returned status 404
+4.5.0	metadata	2026-06-30T04:04:12Z	
 4.5.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.5.0-alpha01/sketch-core-iossimulatorarm64-4.5.0-alpha01.jar returned status 404
 4.5.0-alpha01	metadata	2026-04-17T11:01:14Z	
 4.5.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.5.0-alpha02/sketch-core-iossimulatorarm64-4.5.0-alpha02.jar returned status 404
@@ -74,3 +76,7 @@
 4.5.0-beta04	metadata	2026-06-16T04:24:50Z	
 4.5.0-beta05		2026-06-18T08:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.5.0-beta05/sketch-core-iossimulatorarm64-4.5.0-beta05.jar returned status 404
 4.5.0-beta05	metadata	2026-06-18T08:22:24Z	
+4.5.0-rc01		2026-06-27T10:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.5.0-rc01/sketch-core-iossimulatorarm64-4.5.0-rc01.jar returned status 404
+4.5.0-rc01	metadata	2026-06-27T10:03:28Z	
+4.6.0-alpha01		2026-07-02T16:30:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-core-iossimulatorarm64/4.6.0-alpha01/sketch-core-iossimulatorarm64-4.6.0-alpha01.jar returned status 404
+4.6.0-alpha01	metadata	2026-07-02T16:30:05Z	

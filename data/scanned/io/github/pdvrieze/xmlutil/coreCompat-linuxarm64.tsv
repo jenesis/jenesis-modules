@@ -3,3 +3,4 @@
 0.90.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-linuxarm64/0.90.2/coreCompat-linuxarm64-0.90.2.jar returned status 404
 0.90.2-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-linuxarm64/0.90.2-beta1/coreCompat-linuxarm64-0.90.2-beta1.jar returned status 404
 0.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-linuxarm64/0.90.3/coreCompat-linuxarm64-0.90.3.jar returned status 404
+0.90.4		2026-06-30T19:40:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-linuxarm64/0.90.4/coreCompat-linuxarm64-0.90.4.jar returned status 404

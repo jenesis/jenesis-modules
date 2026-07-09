@@ -22,6 +22,8 @@
 0.90.2-beta1	metadata	2024-07-21T16:37:24Z	
 0.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/0.90.3/testutil-tvosx64-0.90.3.jar returned status 404
 0.90.3	metadata	2024-11-04T17:44:07Z	
+0.90.4		2026-06-30T19:40:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/0.90.4/testutil-tvosx64-0.90.4.jar returned status 404
+0.90.4	metadata	2026-06-30T19:40:20Z	
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/0.91.0/testutil-tvosx64-0.91.0.jar returned status 404
 0.91.0	metadata	2025-04-01T10:13:53Z	
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/0.91.0-RC1/testutil-tvosx64-0.91.0-RC1.jar returned status 404
@@ -32,6 +34,8 @@
 0.91.2	metadata	2025-07-28T18:53:05Z	
 0.91.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/0.91.3/testutil-tvosx64-0.91.3.jar returned status 404
 0.91.3	metadata	2025-10-28T14:44:15Z	
+1.0.0		2026-06-28T20:46:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/1.0.0/testutil-tvosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-28T20:46:46Z	
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/1.0.0-rc1/testutil-tvosx64-1.0.0-rc1.jar returned status 404
 1.0.0-rc1	metadata	2025-12-23T16:54:41Z	
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvosx64/1.0.0-rc2/testutil-tvosx64-1.0.0-rc2.jar returned status 404

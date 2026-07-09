@@ -32,6 +32,8 @@
 0.90.2-beta1	metadata	2024-07-21T16:28:09Z	
 0.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/0.90.3/serialization-tvosx64-0.90.3.jar returned status 404
 0.90.3	metadata	2024-11-04T17:34:39Z	
+0.90.4		2026-06-30T19:40:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/0.90.4/serialization-tvosx64-0.90.4.jar returned status 404
+0.90.4	metadata	2026-06-30T19:40:18Z	
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/0.91.0/serialization-tvosx64-0.91.0.jar returned status 404
 0.91.0	metadata	2025-04-01T10:02:37Z	
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/0.91.0-RC1/serialization-tvosx64-0.91.0-RC1.jar returned status 404
@@ -42,6 +44,8 @@
 0.91.2	metadata	2025-07-28T18:53:13Z	
 0.91.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/0.91.3/serialization-tvosx64-0.91.3.jar returned status 404
 0.91.3	metadata	2025-10-28T14:44:16Z	
+1.0.0		2026-06-28T20:46:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/1.0.0/serialization-tvosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-28T20:46:43Z	
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/1.0.0-rc1/serialization-tvosx64-1.0.0-rc1.jar returned status 404
 1.0.0-rc1	metadata	2025-12-23T16:54:35Z	
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-tvosx64/1.0.0-rc2/serialization-tvosx64-1.0.0-rc2.jar returned status 404

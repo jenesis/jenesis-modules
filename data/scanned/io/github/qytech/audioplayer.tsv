@@ -104,3 +104,6 @@
 1.0.6		2026-05-21T09:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.0.6/audioplayer-1.0.6.jar returned status 404
 1.0.7		2026-06-08T10:58:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.0.7/audioplayer-1.0.7.jar returned status 404
 1.0.8		2026-06-15T07:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.0.8/audioplayer-1.0.8.jar returned status 404
+1.0.9		2026-06-26T09:28:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.0.9/audioplayer-1.0.9.jar returned status 404
+1.1.0		2026-06-27T03:57:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.1.0/audioplayer-1.1.0.jar returned status 404
+1.1.1		2026-07-02T08:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/audioplayer/1.1.1/audioplayer-1.1.1.jar returned status 404

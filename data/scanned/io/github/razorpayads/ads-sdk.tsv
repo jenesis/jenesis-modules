@@ -16,3 +16,5 @@
 2.5.3		2026-06-04T10:55:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/ads-sdk/2.5.3/ads-sdk-2.5.3.jar returned status 404
 2.5.4		2026-06-04T11:16:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/ads-sdk/2.5.4/ads-sdk-2.5.4.jar returned status 404
 2.6.0		2026-06-09T05:13:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/ads-sdk/2.6.0/ads-sdk-2.6.0.jar returned status 404
+2.6.1		2026-06-26T12:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/ads-sdk/2.6.1/ads-sdk-2.6.1.jar returned status 404
+2.6.3		2026-07-02T07:44:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/razorpayads/ads-sdk/2.6.3/ads-sdk-2.6.3.jar returned status 404

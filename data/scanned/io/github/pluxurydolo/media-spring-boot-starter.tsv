@@ -26,3 +26,9 @@
 3.5.0	plain	2026-06-13T13:14:51Z	
 3.6.0		2026-06-17T09:49:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/3.6.0/media-spring-boot-starter-3.6.0.jar returned status 404
 3.6.0	plain	2026-06-17T09:49:55Z	
+4.0.0		2026-06-26T22:41:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/4.0.0/media-spring-boot-starter-4.0.0.jar returned status 404
+4.0.0	plain	2026-06-26T22:41:13Z	
+4.1.0		2026-06-27T14:56:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/4.1.0/media-spring-boot-starter-4.1.0.jar returned status 404
+4.1.0	plain	2026-06-27T14:56:15Z	
+4.2.0		2026-07-02T08:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/4.2.0/media-spring-boot-starter-4.2.0.jar returned status 404
+4.2.0	plain	2026-07-02T08:50:05Z	

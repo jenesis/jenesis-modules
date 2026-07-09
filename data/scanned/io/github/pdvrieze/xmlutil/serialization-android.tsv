@@ -19,3 +19,5 @@
 0.90.2		2024-10-15T17:06:54Z	
 0.90.2-beta1		2024-07-21T16:24:48Z	
 0.90.3		2024-11-04T17:32:21Z	
+0.90.4		2026-06-30T19:40:20Z	
+1.0.0		2026-06-28T20:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-android/1.0.0/serialization-android-1.0.0.jar returned status 404

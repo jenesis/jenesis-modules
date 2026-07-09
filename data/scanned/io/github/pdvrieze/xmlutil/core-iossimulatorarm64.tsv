@@ -30,6 +30,8 @@
 0.90.2-beta1	metadata	2024-07-21T16:14:20Z	
 0.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/0.90.3/core-iossimulatorarm64-0.90.3.jar returned status 404
 0.90.3	metadata	2024-11-04T17:21:30Z	
+0.90.4		2026-06-30T19:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/0.90.4/core-iossimulatorarm64-0.90.4.jar returned status 404
+0.90.4	metadata	2026-06-30T19:40:17Z	
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/0.91.0/core-iossimulatorarm64-0.91.0.jar returned status 404
 0.91.0	metadata	2025-04-01T09:49:46Z	
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/0.91.0-RC1/core-iossimulatorarm64-0.91.0-RC1.jar returned status 404
@@ -40,6 +42,8 @@
 0.91.2	metadata	2025-07-28T18:53:03Z	
 0.91.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/0.91.3/core-iossimulatorarm64-0.91.3.jar returned status 404
 0.91.3	metadata	2025-10-28T14:44:19Z	
+1.0.0		2026-06-28T20:46:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/1.0.0/core-iossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-06-28T20:46:43Z	
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/1.0.0-rc1/core-iossimulatorarm64-1.0.0-rc1.jar returned status 404
 1.0.0-rc1	metadata	2025-12-23T16:54:38Z	
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-iossimulatorarm64/1.0.0-rc2/core-iossimulatorarm64-1.0.0-rc2.jar returned status 404
