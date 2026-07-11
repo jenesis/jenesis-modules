@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -14,7 +14,7 @@ Generated 2026-07-10. A module *drifts* when more than one groupId publishes the
 | unclassified | 263 | 7 |
 | **total** | **521** | **3129** |
 
-The table covers all **3650** multi-owner modules (of **37239** modules scanned).
+The table covers all **3650** multi-owner modules (of **37260** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-07 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -1113,7 +1113,7 @@ roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module pr
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |..............=.....|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
-  A   org.apache.karaf                     2022-04..2025-01 4.4.7                |...........======...|
+  A   org.apache.karaf                     2022-04..2025-01 4.4.7                |..........=======...|
   A   org.apache.felix.atomos              2021-02..2021-02 8.0.0                |........=...........|
 ```
 
@@ -1157,13 +1157,13 @@ mosaic.tty.terminal  [owned by `com.jakewharton.mosaic` (groupId minus two segme
   ?   ee.schimke.composeai.mosaic          2026-05..2026-05 0.18.0-1             |...................=|
 tucache.core  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................====|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
 tucache.spring.boot.autoconfigure  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................====|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
 tucache.spring.boot.starter  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................====|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
 tuweni.bytes  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........===.......|
   ?   io.consensys.tuweni                  2025-02..2025-10 2.7.2                |................===.|
@@ -1843,7 +1843,7 @@ net.sf.uadetector.resources  [no clear owner; `com.jwebmp.jre11` is earliest and
 org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-12..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
-  ?   org.wiremock                         2025-06..2026-04 4.0.0-beta.32        |.................===|
+  ?   org.wiremock                         2025-06..2026-04 4.0.0-beta.32        |.................==.|
   ?   org.openidentityplatform.openam.agents 2025-11..2026-03 5.0.3                |..................=.|
   ?   commons-fileupload                   2025-06..2025-06 1.6.0                |.................=..|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
@@ -1954,7 +1954,7 @@ org.java_websocket  [no clear owner; `org.java-websocket` is earliest and most r
   ? * org.java-websocket                   2023-07..2024-12 1.6.0                |.............====...|
   ?   io.github.cb-jarunmadhesh            2026-04..2026-04 1.0.0                |...................=|
   ?   io.github.ashwithpoojary98           2026-01..2026-01 1.0.1                |..................=.|
-  ?   dev.lolyay                           2025-07..2025-10 5.8.0                |.................==.|
+  ?   dev.lolyay                           2025-07..2025-10 5.8.0                |.................=..|
   ?   io.kestra.plugin                     2023-09..2025-08 0.24.0               |.............=====..|
   ?   org.jetbrains.kotlinx                2025-07..2025-07 0.14.1-506           |.................=..|
     + 3 more: io.github.gubaojian, com.taosdata.jdbc, com.enixyu

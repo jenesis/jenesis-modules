@@ -20,23 +20,23 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 17 795 296 |
+| Total artifacts scanned | 17 795 317 |
 | Non-module artifacts | 15 842 175 |
-| Modular artifacts | 1 613 658 |
+| Modular artifacts | 1 613 679 |
 | Total automatic modules | 1 267 270 |
-| Total named modules | 346 388 |
-| Total named modules with module-info version | 263 185 |
-| Distinct Maven artifacts | 668 501 |
-| Distinct module names | 40 425 |
+| Total named modules | 346 409 |
+| Total named modules with module-info version | 263 206 |
+| Distinct Maven artifacts | 668 522 |
+| Distinct module names | 40 446 |
 | Distinct automatic modules | 21 390 |
-| Distinct named modules | 17 575 |
-| Distinct named modules with module-info version | 12 845 |
+| Distinct named modules | 17 596 |
+| Distinct named modules with module-info version | 12 866 |
 | Distinct groupIds publishing modules | 5 182 |
-| Most recent tracked publication | 2026-07-08 19:15:00 UTC |
+| Most recent tracked publication | 2026-07-10 01:45:09 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **333 981** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **334 002** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **243** rows (52 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,7 +50,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 575 | 346 388 |
+| Named | 17 596 | 346 409 |
 | Automatic | 21 390 | 1 267 270 |
 
 ## Classifiers
@@ -92,7 +92,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 257 603 |
+| `module-info` version matches the Maven coordinate version | 257 624 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 5 582 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 54 517 |
 
@@ -100,7 +100,7 @@ Same breakdown but counted once per **canonical module**, against the latest nam
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 11 412 |
+| `module-info` version matches the Maven coordinate version | 11 433 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 290 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 4 144 |
 
@@ -108,8 +108,8 @@ Each row describes what the **version-mismatch filter** (drop every named row wh
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 15 981 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 15 368 |
+| Canonical modules with at least one named row (in scope) | 16 002 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 15 389 |
 | Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 500 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 113 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 290 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 1 887 | 831 | 1 056 |
-| New version rows | 2 908 | 1 202 | 1 706 |
-| Non-modular artifacts | 18 853 | - | - |
+| Modules with a publication | 926 | 609 | 317 |
+| New version rows | 1 239 | 832 | 407 |
+| Non-modular artifacts | 13 910 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 393 (88.0%) |
 | 2026-05 | `█`&nbsp;3 440 (4.4%) | `▓▓`&nbsp;5 610 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;68 928 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 105 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 952 (88.4%) |
-| 2026-07 | `█`&nbsp;934 (3.6%) | `▓`&nbsp;1 293 (5.0%) | `░░░░░░░░`&nbsp;23 438 (91.3%) |
+| 2026-07 | `█`&nbsp;955 (3.7%) | `▓`&nbsp;1 293 (5.0%) | `░░░░░░░░`&nbsp;23 417 (91.2%) |
 
 ## Naming patterns
 
@@ -185,7 +185,7 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 |---:|---:|
 | 0 | 8 495 |
 | 1 | 1 066 |
-| 2 | 11 696 |
+| 2 | 11 717 |
 | 3 | 12 382 |
 | 4 | 2 361 |
 | 5 | 344 |
@@ -337,31 +337,31 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
+| `build.jenesis.repository.format` | 2026-07-10 01:45:09 UTC |
+| `build.jenesis.repository.importer.nexus` | 2026-07-10 01:45:09 UTC |
+| `build.jenesis.repository.oidc` | 2026-07-10 01:45:09 UTC |
+| `build.jenesis.repository.store.filesystem` | 2026-07-10 01:45:09 UTC |
+| `build.jenesis.repository.format.java` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.format.jenesis` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.format.maven` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.format.oci` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.format.raw` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.importer` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.importer.artifactory` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.importer.jenesis` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.proxy` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.ratelimit` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.server` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.store` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.store.azure` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.store.s3` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.store.testkit` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.ui` | 2026-07-10 01:45:08 UTC |
+| `build.jenesis.repository.usage` | 2026-07-10 01:45:08 UTC |
 | `codegen [-optimized]` | 2026-07-08 19:15:00 UTC |
 | `codegen` | 2026-07-08 19:14:56 UTC |
 | `co.bitshifted.mdviewfx` | 2026-07-08 18:18:20 UTC |
 | `com.euonia.core` | 2026-07-08 08:06:37 UTC |
-| `com.euonia.pipeline` | 2026-07-08 08:06:37 UTC |
-| `com.azure.resourcemanager` | 2026-07-08 05:25:54 UTC |
-| `flipkart.krystal.krystex` | 2026-07-08 05:07:52 UTC |
-| `flipkart.krystal.lattice.codegen` | 2026-07-08 05:07:52 UTC |
-| `flipkart.krystal.vajram` | 2026-07-08 05:07:52 UTC |
-| `flipkart.krystal.vajram.ext.fory` | 2026-07-08 05:07:52 UTC |
-| `flipkart.krystal.vajram.ext.protobuf2024e` | 2026-07-08 05:07:52 UTC |
-| `krystal.vajram.ext.sql.vertx.codegen` | 2026-07-08 05:07:52 UTC |
-| `flipkart.krystal.common` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.lattice.core` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.lattice.ext.cdi` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.lattice.ext.cdi.codegen` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.lattice.ext.guice` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.lattice.ext.guice.codegen` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.json` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.json.codegen` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.protobuf` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.protobuf.codegen.util` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.protobuf.util` | 2026-07-08 05:07:51 UTC |
-| `flipkart.krystal.vajram.ext.protobuf2024e.codegen` | 2026-07-08 05:07:51 UTC |
-| `krystal.lattice.ext.a2a` | 2026-07-08 05:07:51 UTC |
 
 ## Top 25 groupIds by average versions per module
 
