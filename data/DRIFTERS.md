@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -284,7 +284,7 @@ com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs t
   ?   com.checkmarx                        2026-06..2026-06 2026.2.32            |...................=|
   A   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...=================|
   R   com.exasol                           2024-10..2025-10 5.4.3                |................===.|
-  R   gov.nasa.pds                         2021-10..2025-04 2.11.0               |.........=========..|
+  R   gov.nasa.pds                         2021-10..2025-04 2.11.0               |.........========...|
     + 31 more: com.intuit.quickbooks-online, com.google.tsunami, com.helger.schematron, io.github.azagniotov, com.liferay, org.opengis.cite, org.duracloud, edu.iris.dmc, br.com.swconsultoria, one.gfw, org.xtce, com.github.cafapi, (+19 more)
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
   ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |.............=......|
@@ -481,41 +481,41 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `com.exasol` still publishes the nam
   R   com.inteligr8.activiti               2024-10..2026-03 1.3.0-aps-v26.1      |................===.|
     + 14 more: com.affinidi.tdk, com.bluecirclesoft.open, me.chrissw-r1, com.biit-solutions, com.github.xeroapi, com.liferay, no.telenor.sdk, org.opengis.cite, com.documents4j, com.github.estuaryoss, com.jcabi, com.datadoghq, (+2 more)
 org.springdoc.openapi.ai.common  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  ? * org.springdoc                        2026-04..2026-04 3.0.3                |...................=|
+  ? * org.springdoc                        2026-04..2026-04 3.0.3                |..................=.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
 org.springdoc.openapi.common  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2020-12..2026-04 2.8.17               |........============|
+  A * org.springdoc                        2020-12..2026-04 2.8.17               |........===========.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webflux.core  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2020-12..2026-04 2.8.17               |........============|
+  A * org.springdoc                        2020-12..2026-04 2.8.17               |........===========.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webflux.scalar  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2025-09..2026-04 2.8.17               |.................===|
+  A * org.springdoc                        2025-09..2026-04 2.8.17               |.................==.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |..................=.|
 org.springdoc.openapi.webflux.ui  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2020-12..2026-04 2.8.17               |........============|
+  A * org.springdoc                        2020-12..2026-04 2.8.17               |........===========.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webmvc.ai  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  ? * org.springdoc                        2026-04..2026-04 3.0.3                |...................=|
+  ? * org.springdoc                        2026-04..2026-04 3.0.3                |..................=.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
 org.springdoc.openapi.webmvc.core  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2020-12..2026-04 2.8.17               |........============|
+  A * org.springdoc                        2020-12..2026-04 2.8.17               |........===========.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webmvc.scalar  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2025-09..2026-04 2.8.17               |.................===|
+  A * org.springdoc                        2025-09..2026-04 2.8.17               |.................==.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |..................=.|
 org.springdoc.openapi.ui  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  A * org.springdoc                        2020-12..2026-04 2.8.17               |........============|
+  A * org.springdoc                        2020-12..2026-04 2.8.17               |........===========.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webflux.ai  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
-  ? * org.springdoc                        2026-04..2026-04 3.0.3                |...................=|
+  ? * org.springdoc                        2026-04..2026-04 3.0.3                |..................=.|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.0                |...................=|
 tools.jackson.core  [fork: keep `tools.jackson.core`, `com.ibm.jsonata4java` still publishes the name]
   A * tools.jackson.core                   2025-03..2026-06 3.2.0                |................====|
@@ -1966,7 +1966,7 @@ com.mypayquicker.api  [no clear owner; `io.sdks` is earliest and most recent]
   ?   io.github.zahran444                  2026-04..2026-04 1.0.0                |...................=|
 java.xml.ws  [no clear owner; `javax.xml.ws` is earliest and most recent]
   ? * javax.xml.ws                         2017-06..2018-09 2.3.1                |.===................|
-  ?   org.apache.manifoldcf                2026-04..2026-04 2.30                 |...................=|
+  ?   org.apache.manifoldcf                2026-04..2026-04 2.30                 |..................=.|
   ?   mx.com.sw.services                   2020-07..2024-05 1.0.19.4             |.......=========....|
   ?   org.apache.servicemix.specs          2018-11..2020-03 2.3_3                |....===.............|
   ?   com.github.pinterest                 2018-11..2020-01 0.3.0-rc.2           |....===.............|
@@ -1974,7 +1974,7 @@ java.xml.ws  [no clear owner; `javax.xml.ws` is earliest and most recent]
     + 1 more: com.srotya.sidewinder
 net.sf.jsqlparser  [no clear owner; `com.github.jsqlparser` is earliest and most recent]
   ? * com.github.jsqlparser                2024-03..2025-05 5.3                  |..............====..|
-  ?   com.manticore-projects.jsqlformatter 2025-12..2026-04 5.3.218              |..................==|
+  ?   com.manticore-projects.jsqlformatter 2025-12..2026-04 5.3.218              |..................=.|
   ?   se.alipsa                            2025-12..2025-12 1.2.0                |..................=.|
   ?   ai.starlake                          2024-09..2024-10 1.3.0                |...............==...|
 com.drew.metadata  [no clear owner; `com.github.dalet-oss` is earliest and most recent]
