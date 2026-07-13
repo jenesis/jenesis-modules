@@ -1348,3 +1348,4 @@ org.eclipse.xtext.xbase.testing
 org.eclipse.xtext.java
 org.eclipse.xtext.ecore
 org.eclipse.xtext.testing
+com.fasterxml.jackson.dataformat.cbor

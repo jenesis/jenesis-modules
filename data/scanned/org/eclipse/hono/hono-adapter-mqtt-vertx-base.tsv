@@ -34,8 +34,10 @@
 1.11.0		2022-01-24T12:22:37Z	
 1.11.1		2022-01-28T13:22:42Z	
 1.11.2		2022-02-07T10:45:25Z	
+1.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hono/hono-adapter-mqtt-vertx-base/1.11.3/hono-adapter-mqtt-vertx-base-1.11.3.jar returned status 404
 1.12.0		2022-02-08T19:09:53Z	
 1.12.1		2022-02-24T14:53:55Z	
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hono/hono-adapter-mqtt-vertx-base/1.12.2/hono-adapter-mqtt-vertx-base-1.12.2.jar returned status 404
 1.12.3		2022-07-21T14:50:33Z	
 1.2.0		2020-03-24T14:43:26Z	
 1.2.1		2020-03-25T14:23:00Z	
