@@ -13,3 +13,5 @@
 1.0.0		2026-06-30T08:54:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hdkjcom/spider/spider/1.0.0/spider-1.0.0.jar returned status 404
 1.0.1		2026-07-01T04:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hdkjcom/spider/spider/1.0.1/spider-1.0.1.jar returned status 404
 1.1.0		2026-07-06T07:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hdkjcom/spider/spider/1.1.0/spider-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hdkjcom/spider/spider/1.1.1/spider-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hdkjcom/spider/spider/1.1.2/spider-1.1.2.jar returned status 404

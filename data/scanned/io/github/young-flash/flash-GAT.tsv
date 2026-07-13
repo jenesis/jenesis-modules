@@ -1,3 +1,6 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/young-flash/flash-GAT/1.0.0/flash-GAT-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/young-flash/flash-GAT/2.0.0/flash-GAT-2.0.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/young-flash/flash-GAT/3.0.0/flash-GAT-3.0.0.jar returned status 404
 3.7.0		2022-03-11T09:11:29Z	
 4.1.0		2022-03-13T06:13:51Z	
 4.2.0		2022-03-13T06:19:35Z	

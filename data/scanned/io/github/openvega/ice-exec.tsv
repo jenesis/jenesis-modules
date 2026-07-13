@@ -1,6 +1,7 @@
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/3.7.1/ice-exec-3.7.1.jar returned status 404
 3.7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/3.7.1.1/ice-exec-3.7.1.1.jar returned status 404
 3.7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/3.7.1.2/ice-exec-3.7.1.2.jar returned status 404
+3.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/3.7.10/ice-exec-3.7.10.jar returned status 404
 37++11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/37++11/ice-exec-37++11.jar returned status 404
 37++11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/37++11.1/ice-exec-37++11.1.jar returned status 404
 37++11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openvega/ice-exec/37++11.2/ice-exec-37++11.2.jar returned status 404

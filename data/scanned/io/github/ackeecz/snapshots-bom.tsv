@@ -1,2 +1,4 @@
 2.0.0-paparazzialpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/snapshots-bom/2.0.0-paparazzialpha02/snapshots-bom-2.0.0-paparazzialpha02.jar returned status 404
 2.1.0-paparazzialpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/snapshots-bom/2.1.0-paparazzialpha02/snapshots-bom-2.1.0-paparazzialpha02.jar returned status 404
+3.0.0-paparazzialpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/snapshots-bom/3.0.0-paparazzialpha02/snapshots-bom-3.0.0-paparazzialpha02.jar returned status 404
+3.1.0-paparazzialpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/snapshots-bom/3.1.0-paparazzialpha05/snapshots-bom-3.1.0-paparazzialpha05.jar returned status 404

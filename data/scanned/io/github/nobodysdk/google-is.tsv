@@ -9,3 +9,5 @@
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nobodysdk/google-is/1.1.1/google-is-1.1.1.jar returned status 404
 2.0.0		2026-06-15T07:07:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nobodysdk/google-is/2.0.0/google-is-2.0.0.jar returned status 404
 2.0.1		2026-07-05T13:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nobodysdk/google-is/2.0.1/google-is-2.0.1.jar returned status 404
+2.0.1-sh			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nobodysdk/google-is/2.0.1-sh/google-is-2.0.1-sh.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nobodysdk/google-is/2.0.2/google-is-2.0.2.jar returned status 404

@@ -5906,6 +5906,9 @@ next-1732188108	named	com.grafana	grafana-foundation-sdk	2024-11-21T11:26:17Z	2.
 1.7.1	named	org.apache.iceberg	iceberg-azure-bundle	2024-11-21T21:50:39Z	2.17.2
 1.8.3	named	org.apache.kyuubi	kyuubi-hive-jdbc-shaded	2024-11-22T12:53:50Z	2.15.0
 15.1.2	named	org.openidentityplatform.openam	openam-clientsdk	2024-11-25T13:53:32Z	2.14.3
+2.2.0	named	io.github.ci-cmg.wod	wod-ascii-to-parquet-spark	2024-11-25T18:44:44Z	2.18.1
+2.2.1	named	io.github.ci-cmg.wod	wod-ascii-to-parquet-spark	2024-11-26T00:46:03Z	2.18.1
+2.2.2	named	io.github.ci-cmg.wod	wod-ascii-to-parquet-spark	2024-11-26T01:15:06Z	2.18.1
 6.0.0	named	io.github.hkarthik7	azd	2024-11-26T06:37:52Z	2.17.2
 1.5.12	named	org.open-metadata	elasticsearch-deps	2024-11-26T07:05:36Z	2.16.1
 1.5.12	named	org.open-metadata	opensearch-deps	2024-11-26T07:05:38Z	2.16.1

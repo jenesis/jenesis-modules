@@ -2436,3 +2436,8 @@ jeeware.cloud.lock4j
 io.github.eckig.libavoid
 io.github.chrimle.exceptionfactory
 io.github.chrimle.semver
+io.github.sinri.keel.web
+io.github.sinri.keel.integration.aliyun
+io.github.sinri.keel.core
+io.github.sinri.keel.integration.poi
+io.github.sinri.keel.base

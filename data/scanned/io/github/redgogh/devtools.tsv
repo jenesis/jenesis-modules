@@ -1,4 +1,6 @@
 2.1.1		2024-10-14T08:00:12Z	
 2.1.2		2024-11-01T01:25:21Z	
 v3.0.1-beta.1+build		2025-01-23T02:58:47Z	
+v3.0.1-beta.1build			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/redgogh/devtools/v3.0.1-beta.1build/devtools-v3.0.1-beta.1build.jar returned status 404
 v3.0.1-beta.2+build		2025-01-23T05:12:54Z	
+v3.0.1-beta.2build			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/redgogh/devtools/v3.0.1-beta.2build/devtools-v3.0.1-beta.2build.jar returned status 404

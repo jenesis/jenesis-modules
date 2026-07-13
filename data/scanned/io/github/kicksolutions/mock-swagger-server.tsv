@@ -1,5 +1,10 @@
+0.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kicksolutions/mock-swagger-server/0.0.1-alpha/mock-swagger-server-0.0.1-alpha.jar returned status 404
 0.0.1-alpha	exec-war	2018-01-08T04:09:50Z	
+0.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kicksolutions/mock-swagger-server/0.0.1-beta/mock-swagger-server-0.0.1-beta.jar returned status 404
 0.0.1-beta	exec-war	2018-01-09T16:43:10Z	
+0.0.1-charlie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kicksolutions/mock-swagger-server/0.0.1-charlie/mock-swagger-server-0.0.1-charlie.jar returned status 404
 0.0.1-charlie	exec-war	2018-01-11T14:36:45Z	
+0.0.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kicksolutions/mock-swagger-server/0.0.2-alpha/mock-swagger-server-0.0.2-alpha.jar returned status 404
 0.0.2-alpha	exec-war	2018-12-05T08:48:22Z	
+0.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kicksolutions/mock-swagger-server/0.0.2-beta/mock-swagger-server-0.0.2-beta.jar returned status 404
 0.0.2-beta	exec-war	2019-06-10T15:08:53Z	

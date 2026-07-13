@@ -1,2 +1,3 @@
 1.0.0		2026-06-28T13:44:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rothes/esu-bukkit-lib/1.0.0/esu-bukkit-lib-1.0.0.jar returned status 404
 1.0.0	all	2026-06-28T13:44:59Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rothes/esu-bukkit-lib/1.0.1/esu-bukkit-lib-1.0.1.jar returned status 404

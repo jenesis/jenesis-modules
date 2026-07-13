@@ -1,3 +1,13 @@
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/3.0/pepper-serialization-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/3.1/pepper-serialization-3.1.jar returned status 404
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.0/pepper-serialization-4.0.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.1/pepper-serialization-4.1.jar returned status 404
+4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.2/pepper-serialization-4.2.jar returned status 404
+4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.3/pepper-serialization-4.3.jar returned status 404
+4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.4/pepper-serialization-4.4.jar returned status 404
+4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.5/pepper-serialization-4.5.jar returned status 404
+4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/4.6/pepper-serialization-4.6.jar returned status 404
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/5.1/pepper-serialization-5.1.jar returned status 404
 5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/5.2/pepper-serialization-5.2.jar returned status 404
 5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/5.3/pepper-serialization-5.3.jar returned status 404
 5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/solven-eu/pepper/pepper-serialization/5.4/pepper-serialization-5.4.jar returned status 404

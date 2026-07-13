@@ -11,3 +11,4 @@
 0.5.0-alpha07		2026-06-20T16:26:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/densermeerkat/hyphen-js/0.5.0-alpha07/hyphen-js-0.5.0-alpha07.jar returned status 404
 0.6.0-alpha01		2026-07-04T18:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/densermeerkat/hyphen-js/0.6.0-alpha01/hyphen-js-0.6.0-alpha01.jar returned status 404
 0.6.0-alpha02		2026-07-06T11:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/densermeerkat/hyphen-js/0.6.0-alpha02/hyphen-js-0.6.0-alpha02.jar returned status 404
+0.6.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/densermeerkat/hyphen-js/0.6.0-alpha03/hyphen-js-0.6.0-alpha03.jar returned status 404

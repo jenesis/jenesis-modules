@@ -1,11 +1,22 @@
+2021.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2021.0.0/apptbook-web-2021.0.0.jar returned status 404
 2021.0.0	client	2021-05-15T04:53:46Z	
+2021.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2021.1.0/apptbook-web-2021.1.0.jar returned status 404
 2021.1.0	client	2021-05-15T21:04:45Z	
+2021.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2021.1.1/apptbook-web-2021.1.1.jar returned status 404
 2021.1.1	client	2021-05-16T03:59:11Z	
+2021.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2021.2.0/apptbook-web-2021.2.0.jar returned status 404
 2021.2.0	client	2021-06-03T03:23:48Z	
+2021.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2021.3.0/apptbook-web-2021.3.0.jar returned status 404
 2021.3.0	client	2021-06-18T05:46:38Z	
+2022.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2022.0.0/apptbook-web-2022.0.0.jar returned status 404
 2022.0.0	client	2021-12-12T20:32:19Z	
+2022.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2022.1.0/apptbook-web-2022.1.0.jar returned status 404
 2022.1.0	client	2022-06-04T03:13:20Z	
+2023.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2023.0.0/apptbook-web-2023.0.0.jar returned status 404
 2023.0.0	client	2022-12-22T01:18:25Z	
+2023.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2023.1.0/apptbook-web-2023.1.0.jar returned status 404
 2023.1.0	client	2023-06-10T15:59:49Z	
+2024.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2024.0.0/apptbook-web-2024.0.0.jar returned status 404
 2024.0.0	client	2023-12-24T21:11:51Z	
+2024.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/apptbook-web/2024.0.1/apptbook-web-2024.0.1.jar returned status 404
 2024.0.1	client	2024-04-06T18:03:11Z	

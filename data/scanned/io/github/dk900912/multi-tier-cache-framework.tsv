@@ -3,3 +3,4 @@
 1.0.0-M3		2026-06-07T06:54:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dk900912/multi-tier-cache-framework/1.0.0-M3/multi-tier-cache-framework-1.0.0-M3.jar returned status 404
 1.0.0-M4		2026-06-09T12:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dk900912/multi-tier-cache-framework/1.0.0-M4/multi-tier-cache-framework-1.0.0-M4.jar returned status 404
 1.0.0-M5		2026-07-05T11:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dk900912/multi-tier-cache-framework/1.0.0-M5/multi-tier-cache-framework-1.0.0-M5.jar returned status 404
+1.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dk900912/multi-tier-cache-framework/1.0.0-M6/multi-tier-cache-framework-1.0.0-M6.jar returned status 404

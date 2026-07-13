@@ -5,6 +5,7 @@
 1.0.12		2026-06-28T15:40:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.12/gj-dependencies-1.0.12.jar returned status 404
 1.0.13		2026-06-29T16:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.13/gj-dependencies-1.0.13.jar returned status 404
 1.0.14		2026-07-02T17:01:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.14/gj-dependencies-1.0.14.jar returned status 404
+1.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.15/gj-dependencies-1.0.15.jar returned status 404
 1.0.2		2026-06-04T17:57:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.2/gj-dependencies-1.0.2.jar returned status 404
 1.0.3		2026-06-13T17:56:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.3/gj-dependencies-1.0.3.jar returned status 404
 1.0.4		2026-06-22T17:13:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wangpengxpy/gj-dependencies/1.0.4/gj-dependencies-1.0.4.jar returned status 404

@@ -1,11 +1,22 @@
+2021.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2021.0.0/phonebill-web-2021.0.0.jar returned status 404
 2021.0.0	client	2021-05-15T04:55:02Z	
+2021.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2021.1.0/phonebill-web-2021.1.0.jar returned status 404
 2021.1.0	client	2021-05-15T21:11:26Z	
+2021.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2021.1.1/phonebill-web-2021.1.1.jar returned status 404
 2021.1.1	client	2021-05-16T04:00:11Z	
+2021.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2021.2.0/phonebill-web-2021.2.0.jar returned status 404
 2021.2.0	client	2021-06-03T03:25:34Z	
+2021.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2021.3.0/phonebill-web-2021.3.0.jar returned status 404
 2021.3.0	client	2021-06-18T05:47:48Z	
+2022.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2022.0.0/phonebill-web-2022.0.0.jar returned status 404
 2022.0.0	client	2021-12-12T20:32:54Z	
+2022.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2022.1.0/phonebill-web-2022.1.0.jar returned status 404
 2022.1.0	client	2022-06-04T03:15:03Z	
+2023.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2023.0.0/phonebill-web-2023.0.0.jar returned status 404
 2023.0.0	client	2022-12-22T01:18:39Z	
+2023.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2023.1.0/phonebill-web-2023.1.0.jar returned status 404
 2023.1.0	client	2023-06-10T16:00:16Z	
+2024.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2024.0.0/phonebill-web-2024.0.0.jar returned status 404
 2024.0.0	client	2023-12-24T21:10:53Z	
+2024.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/davidwhitlock/cs410J/original/phonebill-web/2024.0.1/phonebill-web-2024.0.1.jar returned status 404
 2024.0.1	client	2024-04-06T18:05:05Z	

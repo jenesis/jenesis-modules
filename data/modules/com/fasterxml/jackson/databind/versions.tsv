@@ -4318,4 +4318,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 2.21.5	named	com.fasterxml.jackson.core	jackson-databind	2026-07-07T02:10:11Z	2.21.5
 2.22.1	named	com.fasterxml.jackson.core	jackson-databind	2026-07-07T21:46:19Z	2.22.1
 2.18.9	named	com.fasterxml.jackson.core	jackson-databind	2026-07-08T00:19:23Z	2.18.9
+0.4.0	named	io.github.tomas-samek	tiko-kafka	2026-07-10T00:23:18Z	2.22.1
+0.4.0	named	io.github.tomas-samek	tiko-mcp	2026-07-10T00:23:20Z	2.22.1
 2.0.12	named	org.octopusden.octopus.sonar	sonar-automation	2026-07-11T00:03:04Z	2.20.1
