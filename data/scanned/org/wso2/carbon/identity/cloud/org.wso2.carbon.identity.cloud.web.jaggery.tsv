@@ -31,6 +31,7 @@
 3.0.20		2017-09-16T06:16:37Z	
 3.0.21		2017-11-22T14:35:47Z	
 3.0.22		2019-06-11T06:21:24Z	
+3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/cloud/org.wso2.carbon.identity.cloud.web.jaggery/3.0.23/org.wso2.carbon.identity.cloud.web.jaggery-3.0.23.jar returned status 404
 3.0.24		2020-12-21T12:12:26Z	
 3.0.25		2021-04-07T02:23:54Z	
 3.0.3		2017-07-06T09:43:50Z	

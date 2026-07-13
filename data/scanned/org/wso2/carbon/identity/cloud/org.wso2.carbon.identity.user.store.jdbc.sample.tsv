@@ -31,6 +31,7 @@
 3.0.20		2017-09-16T06:16:50Z	
 3.0.21		2017-11-22T14:36:00Z	
 3.0.22		2019-06-11T06:21:37Z	
+3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/cloud/org.wso2.carbon.identity.user.store.jdbc.sample/3.0.23/org.wso2.carbon.identity.user.store.jdbc.sample-3.0.23.jar returned status 404
 3.0.24		2020-12-21T12:49:53Z	
 3.0.25		2021-04-07T03:00:04Z	
 3.0.3		2017-07-06T09:44:06Z	
