@@ -1,3 +1,30 @@
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1/grails-1.1.jar returned status 404
+1.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1-RC1/grails-1.1-RC1.jar returned status 404
+1.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1-RC2/grails-1.1-RC2.jar returned status 404
+1.1-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1-beta1/grails-1.1-beta1.jar returned status 404
+1.1-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1-beta2/grails-1.1-beta2.jar returned status 404
+1.1-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1-beta3/grails-1.1-beta3.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1.1/grails-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.1.2/grails-1.1.2.jar returned status 404
+1.2-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2-M2/grails-1.2-M2.jar returned status 404
+1.2-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2-M3/grails-1.2-M3.jar returned status 404
+1.2-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2-M4/grails-1.2-M4.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.0/grails-1.2.0.jar returned status 404
+1.2.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.0.RC1/grails-1.2.0.RC1.jar returned status 404
+1.2.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.0.RC2/grails-1.2.0.RC2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.1/grails-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.2/grails-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.3/grails-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.4/grails-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.2.5/grails-1.2.5.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.0/grails-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.1/grails-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.2/grails-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.3/grails-1.3.3.jar returned status 404
+1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.4/grails-1.3.4.jar returned status 404
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.5/grails-1.3.5.jar returned status 404
+1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.6/grails-1.3.6.jar returned status 404
+1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/grails/grails/1.3.7/grails-1.3.7.jar returned status 404
 2.0.1		2012-03-19T13:24:09Z	
 2.0.2		2012-03-29T15:04:58Z	
 2.0.3		2012-04-10T09:23:34Z	
