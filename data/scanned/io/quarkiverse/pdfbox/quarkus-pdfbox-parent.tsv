@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/pdfbox/quarkus-pdfbox-parent/1.0.0/quarkus-pdfbox-parent-1.0.0.jar returned status 404
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/pdfbox/quarkus-pdfbox-parent/1.0.0.Alpha1/quarkus-pdfbox-parent-1.0.0.Alpha1.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/pdfbox/quarkus-pdfbox-parent/1.1.0/quarkus-pdfbox-parent-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/pdfbox/quarkus-pdfbox-parent/1.1.1/quarkus-pdfbox-parent-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/pdfbox/quarkus-pdfbox-parent/1.1.2/quarkus-pdfbox-parent-1.1.2.jar returned status 404

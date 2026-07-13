@@ -1,5 +1,9 @@
 2.10.0		2026-06-02T18:04:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.10.0/quarkus-jberet-bom-2.10.0.jar returned status 404
 2.11.0		2026-06-16T11:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.11.0/quarkus-jberet-bom-2.11.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.2.0/quarkus-jberet-bom-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.3.0/quarkus-jberet-bom-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.3.1/quarkus-jberet-bom-2.3.1.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.4.0/quarkus-jberet-bom-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.5.0/quarkus-jberet-bom-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.6.0/quarkus-jberet-bom-2.6.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jberet/quarkus-jberet-bom/2.7.0/quarkus-jberet-bom-2.7.0.jar returned status 404
