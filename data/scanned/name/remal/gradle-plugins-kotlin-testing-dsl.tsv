@@ -119,6 +119,7 @@
 1.0.90		2018-09-17T16:52:54Z	
 1.0.91		2018-09-20T15:58:34Z	
 1.0.92		2018-09-20T17:02:10Z	
+1.0.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins-kotlin-testing-dsl/1.0.93/gradle-plugins-kotlin-testing-dsl-1.0.93.jar returned status 404
 1.0.94		2018-10-25T18:10:57Z	
 1.0.95		2018-10-29T18:50:32Z	
 1.0.96		2018-11-26T17:19:11Z	

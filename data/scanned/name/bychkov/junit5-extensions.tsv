@@ -1,2 +1,11 @@
 0.1.0		2022-07-08T20:19:36Z	
 0.1.1		2022-07-11T18:06:10Z	
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.1.2/junit5-extensions-0.1.2.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.2.0/junit5-extensions-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.3.0/junit5-extensions-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.3.1/junit5-extensions-0.3.1.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.4.0/junit5-extensions-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.4.1/junit5-extensions-0.4.1.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.4.2/junit5-extensions-0.4.2.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.5.0/junit5-extensions-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/bychkov/junit5-extensions/0.5.1/junit5-extensions-0.5.1.jar returned status 404

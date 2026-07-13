@@ -121,6 +121,7 @@
 1.0.90		2018-09-17T16:52:48Z	
 1.0.91		2018-09-20T15:58:00Z	
 1.0.92		2018-09-20T17:01:59Z	
+1.0.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins-api/1.0.93/gradle-plugins-api-1.0.93.jar returned status 404
 1.0.94		2018-10-25T18:10:37Z	
 1.0.95		2018-10-29T18:50:21Z	
 1.0.96		2018-11-26T17:19:06Z	

@@ -1,3 +1,10 @@
+3.2.3-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.2.3-1/springpom-3.2.3-1.jar returned status 404
+3.2.3-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.2.3-2/springpom-3.2.3-2.jar returned status 404
+3.2.4-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.2.4-1/springpom-3.2.4-1.jar returned status 404
+3.2.4-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.2.4-2/springpom-3.2.4-2.jar returned status 404
+3.2.4-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.2.4-3/springpom-3.2.4-3.jar returned status 404
+3.3.1-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.3.1-1/springpom-3.3.1-1.jar returned status 404
+3.3.5-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.3.5-1/springpom-3.3.5-1.jar returned status 404
 3.4.5-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.4.5-1/springpom-3.4.5-1.jar returned status 404
 3.4.5-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/3.4.5-2/springpom-3.4.5-2.jar returned status 404
 4.0.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/seguri/java/springpom/4.0.0-1/springpom-4.0.0-1.jar returned status 404
