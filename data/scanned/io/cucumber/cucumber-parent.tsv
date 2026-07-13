@@ -1,3 +1,24 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.0/cucumber-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.1/cucumber-parent-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.2/cucumber-parent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.3/cucumber-parent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.4/cucumber-parent-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.5/cucumber-parent-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/1.0.6/cucumber-parent-1.0.6.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.0.0/cucumber-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.0.1/cucumber-parent-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.0.2/cucumber-parent-2.0.2.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.0.4/cucumber-parent-2.0.4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.1.0/cucumber-parent-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.1.1/cucumber-parent-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.1.2/cucumber-parent-2.1.2.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/2.3.2/cucumber-parent-2.3.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/3.0.0/cucumber-parent-3.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.0.1/cucumber-parent-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.0.2/cucumber-parent-4.0.2.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.1.0/cucumber-parent-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.1.1/cucumber-parent-4.1.1.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.2.0/cucumber-parent-4.2.0.jar returned status 404
 4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.3.5/cucumber-parent-4.3.5.jar returned status 404
 4.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.3.7/cucumber-parent-4.3.7.jar returned status 404
 4.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/4.3.8/cucumber-parent-4.3.8.jar returned status 404
@@ -12,3 +33,4 @@
 5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/5.3.1/cucumber-parent-5.3.1.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/5.4.0/cucumber-parent-5.4.0.jar returned status 404
 5.4.1		2026-05-18T23:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/5.4.1/cucumber-parent-5.4.1.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-parent/5.6.0/cucumber-parent-5.6.0.jar returned status 404

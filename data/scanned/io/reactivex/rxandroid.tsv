@@ -8,3 +8,10 @@
 0.24.0	benchmarks	2015-01-03T16:50:04Z	
 0.25.0		2015-06-29T16:23:11Z	
 0.25.0	benchmarks	2015-06-29T16:23:10Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.0.0/rxandroid-1.0.0.jar returned status 404
+1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.0.0-rc1/rxandroid-1.0.0-rc1.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.0.1/rxandroid-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.0.2/rxandroid-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.1.0/rxandroid-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.2.0/rxandroid-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reactivex/rxandroid/1.2.1/rxandroid-1.2.1.jar returned status 404

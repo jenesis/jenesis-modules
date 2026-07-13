@@ -1,4 +1,6 @@
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/brooklyn/brooklyn-dist/0.4.0/brooklyn-dist-0.4.0.jar returned status 404
 0.5.0		2013-05-08T18:23:11Z	
+0.5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/brooklyn/brooklyn-dist/0.5.0-M1/brooklyn-dist-0.5.0-M1.jar returned status 404
 0.5.0-M2		2013-03-05T21:08:19Z	
 0.5.0-rc.1		2013-04-02T07:16:53Z	
 0.5.0-rc.2		2013-04-26T15:02:32Z	
