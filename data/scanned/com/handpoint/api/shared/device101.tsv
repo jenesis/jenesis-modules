@@ -1,5 +1,16 @@
 5.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.10.0/device101-5.10.0.jar returned status 404
+5.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.11.0/device101-5.11.0.jar returned status 404
 5.12.0-RC.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.12.0-RC.3/device101-5.12.0-RC.3.jar returned status 404
+5.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.13.0/device101-5.13.0.jar returned status 404
+5.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.14.0/device101-5.14.0.jar returned status 404
+5.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.15.0/device101-5.15.0.jar returned status 404
+5.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.15.1/device101-5.15.1.jar returned status 404
+5.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.16.0/device101-5.16.0.jar returned status 404
+5.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.16.1/device101-5.16.1.jar returned status 404
+5.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.17.0/device101-5.17.0.jar returned status 404
+5.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.17.1/device101-5.17.1.jar returned status 404
+5.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.17.2/device101-5.17.2.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.4.0/device101-5.4.0.jar returned status 404
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.4.1/device101-5.4.1.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.5.0/device101-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/device101/5.6.0/device101-5.6.0.jar returned status 404

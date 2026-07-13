@@ -4,6 +4,14 @@
 5.13.0		2020-11-06T09:28:34Z	
 5.14.0		2020-11-14T09:20:00Z	
 5.15.0		2020-11-29T19:04:14Z	
+5.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.15.1/objects-5.15.1.jar returned status 404
+5.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.16.0/objects-5.16.0.jar returned status 404
+5.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.16.1/objects-5.16.1.jar returned status 404
+5.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.17.0/objects-5.17.0.jar returned status 404
+5.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.17.1/objects-5.17.1.jar returned status 404
+5.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.17.2/objects-5.17.2.jar returned status 404
+5.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.17.3/objects-5.17.3.jar returned status 404
+5.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/5.17.4/objects-5.17.4.jar returned status 404
 5.3.0		2020-06-11T18:58:38Z	
 5.3.1		2020-06-12T16:54:44Z	
 5.4.0		2020-06-23T18:57:42Z	
@@ -13,3 +21,70 @@
 5.7.0		2020-08-12T11:16:11Z	
 5.8.0		2020-08-26T17:46:48Z	
 5.9.0		2020-09-04T17:08:31Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.0/objects-6.0.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.1/objects-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.2/objects-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.3/objects-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.4/objects-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.5/objects-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.6/objects-6.0.6.jar returned status 404
+6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.7/objects-6.0.7.jar returned status 404
+6.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.0.8/objects-6.0.8.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.1.0/objects-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.1.1/objects-6.1.1.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.2.0/objects-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.2.1/objects-6.2.1.jar returned status 404
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.2.2/objects-6.2.2.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.3.0/objects-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.4.0/objects-6.4.0.jar returned status 404
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.4.1/objects-6.4.1.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.5.0/objects-6.5.0.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.0/objects-6.6.0.jar returned status 404
+6.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.3/objects-6.6.3.jar returned status 404
+6.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.4/objects-6.6.4.jar returned status 404
+6.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.5/objects-6.6.5.jar returned status 404
+6.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.6/objects-6.6.6.jar returned status 404
+6.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.6.7/objects-6.6.7.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.0/objects-6.7.0.jar returned status 404
+6.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.1/objects-6.7.1.jar returned status 404
+6.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.2/objects-6.7.2.jar returned status 404
+6.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.3/objects-6.7.3.jar returned status 404
+6.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.4/objects-6.7.4.jar returned status 404
+6.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.5/objects-6.7.5.jar returned status 404
+6.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/6.7.7/objects-6.7.7.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.0.0/objects-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.0.1/objects-7.0.1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.0.2/objects-7.0.2.jar returned status 404
+7.1001.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1001.0/objects-7.1001.0.jar returned status 404
+7.1001.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1001.1/objects-7.1001.1.jar returned status 404
+7.1001.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1001.2/objects-7.1001.2.jar returned status 404
+7.1001.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1001.3/objects-7.1001.3.jar returned status 404
+7.1001.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1001.4/objects-7.1001.4.jar returned status 404
+7.1002.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1002.0/objects-7.1002.0.jar returned status 404
+7.1002.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1002.1/objects-7.1002.1.jar returned status 404
+7.1002.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1002.2/objects-7.1002.2.jar returned status 404
+7.1002.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1002.3/objects-7.1002.3.jar returned status 404
+7.1004.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1004.0/objects-7.1004.0.jar returned status 404
+7.1004.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1004.1/objects-7.1004.1.jar returned status 404
+7.1004.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1004.2/objects-7.1004.2.jar returned status 404
+7.1004.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1004.3/objects-7.1004.3.jar returned status 404
+7.1004.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1004.5/objects-7.1004.5.jar returned status 404
+7.1005.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1005.0/objects-7.1005.0.jar returned status 404
+7.1005.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1005.1/objects-7.1005.1.jar returned status 404
+7.1005.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1005.2/objects-7.1005.2.jar returned status 404
+7.1005.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1005.3/objects-7.1005.3.jar returned status 404
+7.1005.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1005.4/objects-7.1005.4.jar returned status 404
+7.1006.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1006.0/objects-7.1006.0.jar returned status 404
+7.1006.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1006.1/objects-7.1006.1.jar returned status 404
+7.1006.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1006.2/objects-7.1006.2.jar returned status 404
+7.1006.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1006.3/objects-7.1006.3.jar returned status 404
+7.1008.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.0/objects-7.1008.0.jar returned status 404
+7.1008.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.1/objects-7.1008.1.jar returned status 404
+7.1008.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.3/objects-7.1008.3.jar returned status 404
+7.1008.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.4/objects-7.1008.4.jar returned status 404
+7.1008.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.5/objects-7.1008.5.jar returned status 404
+7.1008.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1008.6/objects-7.1008.6.jar returned status 404
+7.1009.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1009.0/objects-7.1009.0.jar returned status 404
+7.1009.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1009.1/objects-7.1009.1.jar returned status 404
+7.1009.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1009.4/objects-7.1009.4.jar returned status 404
+7.1009.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/handpoint/api/shared/objects/7.1009.5/objects-7.1009.5.jar returned status 404
