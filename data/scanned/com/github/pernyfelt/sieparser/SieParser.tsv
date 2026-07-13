@@ -1,1 +1,2 @@
 1.0		2016-12-10T17:38:38Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pernyfelt/sieparser/SieParser/2.0/SieParser-2.0.jar returned status 404

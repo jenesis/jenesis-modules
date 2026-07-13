@@ -1,3 +1,11 @@
+1.1.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.1.100/livery-1.1.100.jar returned status 404
+1.1.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.1.101/livery-1.1.101.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.0/livery-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.1/livery-1.2.1.jar returned status 404
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.10/livery-1.2.10.jar returned status 404
+1.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.12/livery-1.2.12.jar returned status 404
+1.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.15/livery-1.2.15.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.2/livery-1.2.2.jar returned status 404
 1.2.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.21/livery-1.2.21.jar returned status 404
 1.2.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.22/livery-1.2.22.jar returned status 404
 1.2.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.24/livery-1.2.24.jar returned status 404
@@ -46,6 +54,7 @@
 1.2.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.67/livery-1.2.67.jar returned status 404
 1.2.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.68/livery-1.2.68.jar returned status 404
 1.2.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.69/livery-1.2.69.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.2.9/livery-1.2.9.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.3.0/livery-1.3.0.jar returned status 404
 1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.3.1/livery-1.3.1.jar returned status 404
 1.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/qydq/livery/1.3.11/livery-1.3.11.jar returned status 404

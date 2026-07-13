@@ -1,2 +1,8 @@
+1.0.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.0-1/lame-1.0.0-1.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.1/lame-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.2/lame-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.3/lame-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.4/lame-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.5/lame-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.6/lame-1.0.6.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/axet/lame/1.0.9/lame-1.0.9.jar returned status 404
