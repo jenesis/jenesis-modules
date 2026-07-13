@@ -1,2 +1,9 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.0.0/FunctionalTestsPortlet-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.0.1/FunctionalTestsPortlet-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.0.2/FunctionalTestsPortlet-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.0.3/FunctionalTestsPortlet-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.1.0/FunctionalTestsPortlet-1.1.0.jar returned status 404
 1.1.0	classes	2012-02-03T04:25:32Z	
+1.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.1.0-RC1/FunctionalTestsPortlet-1.1.0-RC1.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/FunctionalTestsPortlet/1.1.4/FunctionalTestsPortlet-1.1.4.jar returned status 404
 1.1.4	classes	2016-03-11T21:45:46Z	

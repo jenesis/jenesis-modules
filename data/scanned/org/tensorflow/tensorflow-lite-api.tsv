@@ -1,1 +1,13 @@
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.10.0/tensorflow-lite-api-2.10.0.jar returned status 404
+2.10.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.10.0-rc3/tensorflow-lite-api-2.10.0-rc3.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.11.0/tensorflow-lite-api-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.12.0/tensorflow-lite-api-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.13.0/tensorflow-lite-api-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.14.0/tensorflow-lite-api-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.15.0/tensorflow-lite-api-2.15.0.jar returned status 404
+2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.16.1/tensorflow-lite-api-2.16.1.jar returned status 404
 2.17.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.7.0/tensorflow-lite-api-2.7.0.jar returned status 404
+2.7.0-rc0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.7.0-rc0/tensorflow-lite-api-2.7.0-rc0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.8.0/tensorflow-lite-api-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-api/2.9.0/tensorflow-lite-api-2.9.0.jar returned status 404

@@ -1,1 +1,22 @@
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/1.14.0/tensorflow-lite-gpu-1.14.0.jar returned status 404
+1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/1.15.0/tensorflow-lite-gpu-1.15.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.0.0/tensorflow-lite-gpu-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.1.0/tensorflow-lite-gpu-2.1.0.jar returned status 404
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.10.0/tensorflow-lite-gpu-2.10.0.jar returned status 404
+2.10.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.10.0-rc3/tensorflow-lite-gpu-2.10.0-rc3.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.11.0/tensorflow-lite-gpu-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.12.0/tensorflow-lite-gpu-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.13.0/tensorflow-lite-gpu-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.14.0/tensorflow-lite-gpu-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.15.0/tensorflow-lite-gpu-2.15.0.jar returned status 404
+2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.16.1/tensorflow-lite-gpu-2.16.1.jar returned status 404
 2.17.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.2.0/tensorflow-lite-gpu-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.3.0/tensorflow-lite-gpu-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.4.0/tensorflow-lite-gpu-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.5.0/tensorflow-lite-gpu-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.6.0/tensorflow-lite-gpu-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.7.0/tensorflow-lite-gpu-2.7.0.jar returned status 404
+2.7.0-rc0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.7.0-rc0/tensorflow-lite-gpu-2.7.0-rc0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.8.0/tensorflow-lite-gpu-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tensorflow/tensorflow-lite-gpu/2.9.0/tensorflow-lite-gpu-2.9.0.jar returned status 404

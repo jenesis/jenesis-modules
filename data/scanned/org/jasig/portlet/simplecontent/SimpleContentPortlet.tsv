@@ -1,43 +1,90 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/0.1/SimpleContentPortlet-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/0.2/SimpleContentPortlet-0.2.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.0/SimpleContentPortlet-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.1/SimpleContentPortlet-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.2/SimpleContentPortlet-1.0.2.jar returned status 404
 1.0.2	classes	2011-10-31T21:00:00Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.3/SimpleContentPortlet-1.0.3.jar returned status 404
 1.0.3	classes	2013-02-18T16:57:39Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.4/SimpleContentPortlet-1.0.4.jar returned status 404
 1.0.4	classes	2013-04-03T22:12:57Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.5/SimpleContentPortlet-1.0.5.jar returned status 404
 1.0.5	classes	2013-04-05T18:39:44Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.6/SimpleContentPortlet-1.0.6.jar returned status 404
 1.0.6	classes	2013-05-20T20:47:00Z	
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.7/SimpleContentPortlet-1.0.7.jar returned status 404
 1.0.7	classes	2013-06-26T22:46:50Z	
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.8/SimpleContentPortlet-1.0.8.jar returned status 404
 1.0.8	classes	2014-02-19T00:33:01Z	
+1.0.8-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.8-M1/SimpleContentPortlet-1.0.8-M1.jar returned status 404
 1.0.8-M1	classes	2013-12-09T19:54:34Z	
+1.0.8-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.8-M2/SimpleContentPortlet-1.0.8-M2.jar returned status 404
 1.0.8-M2	classes	2013-12-09T20:15:00Z	
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.0.9/SimpleContentPortlet-1.0.9.jar returned status 404
 1.0.9	classes	2014-06-14T00:42:35Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.1.0/SimpleContentPortlet-1.1.0.jar returned status 404
 1.1.0	classes	2014-09-05T21:25:33Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.1.1/SimpleContentPortlet-1.1.1.jar returned status 404
 1.1.1	classes	2014-09-20T00:05:52Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.0/SimpleContentPortlet-1.2.0.jar returned status 404
 1.2.0	classes	2015-09-08T02:31:36Z	
+1.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.0-M1/SimpleContentPortlet-1.2.0-M1.jar returned status 404
 1.2.0-M1	classes	2015-03-18T16:18:25Z	
+1.2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.0-M2/SimpleContentPortlet-1.2.0-M2.jar returned status 404
 1.2.0-M2	classes	2015-03-27T19:54:22Z	
+1.2.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.0-M3/SimpleContentPortlet-1.2.0-M3.jar returned status 404
 1.2.0-M3	classes	2015-03-31T23:29:45Z	
+1.2.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.0-M4/SimpleContentPortlet-1.2.0-M4.jar returned status 404
 1.2.0-M4	classes	2015-04-01T16:35:54Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.1/SimpleContentPortlet-1.2.1.jar returned status 404
 1.2.1	classes	2015-09-11T15:46:50Z	
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/1.2.2/SimpleContentPortlet-1.2.2.jar returned status 404
 1.2.2	classes	2016-03-10T20:41:35Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.0/SimpleContentPortlet-2.0.0.jar returned status 404
 2.0.0	classes	2015-09-09T00:30:44Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.1/SimpleContentPortlet-2.0.1.jar returned status 404
 2.0.1	classes	2015-09-11T15:57:05Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.2/SimpleContentPortlet-2.0.2.jar returned status 404
 2.0.2	classes	2016-03-10T20:50:09Z	
+2.0.2-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.2-M1/SimpleContentPortlet-2.0.2-M1.jar returned status 404
 2.0.2-M1	classes	2015-10-01T17:56:00Z	
+2.0.2-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.2-M2/SimpleContentPortlet-2.0.2-M2.jar returned status 404
 2.0.2-M2	classes	2015-10-01T23:34:27Z	
+2.0.2-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.0.2-M3/SimpleContentPortlet-2.0.2-M3.jar returned status 404
 2.0.2-M3	classes	2015-12-07T23:15:57Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.1.0/SimpleContentPortlet-2.1.0.jar returned status 404
 2.1.0	classes	2016-10-11T22:25:02Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.1.1/SimpleContentPortlet-2.1.1.jar returned status 404
 2.1.1	classes	2017-06-17T19:42:11Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.1.2/SimpleContentPortlet-2.1.2.jar returned status 404
 2.1.2	classes	2017-07-07T21:04:43Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/2.2.0/SimpleContentPortlet-2.2.0.jar returned status 404
 2.2.0	classes	2017-09-14T22:58:33Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.0.0/SimpleContentPortlet-3.0.0.jar returned status 404
 3.0.0	classes	2018-03-05T23:29:41Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.1.0/SimpleContentPortlet-3.1.0.jar returned status 404
 3.1.0	classes	2018-04-03T15:24:26Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.1.1/SimpleContentPortlet-3.1.1.jar returned status 404
 3.1.1	classes	2018-07-26T16:33:09Z	
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.1.2/SimpleContentPortlet-3.1.2.jar returned status 404
 3.1.2	classes	2018-09-27T17:58:05Z	
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.1.3/SimpleContentPortlet-3.1.3.jar returned status 404
 3.1.3	classes	2019-09-10T23:27:28Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.2.0/SimpleContentPortlet-3.2.0.jar returned status 404
 3.2.0	classes	2020-01-20T18:59:04Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.3.0/SimpleContentPortlet-3.3.0.jar returned status 404
 3.3.0	classes	2020-03-09T17:55:27Z	
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.3.1/SimpleContentPortlet-3.3.1.jar returned status 404
 3.3.1	classes	2020-03-12T23:53:10Z	
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.3.2/SimpleContentPortlet-3.3.2.jar returned status 404
 3.3.2	classes	2022-02-24T17:27:50Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.4.0/SimpleContentPortlet-3.4.0.jar returned status 404
 3.4.0	classes	2023-01-19T17:04:26Z	
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.4.1/SimpleContentPortlet-3.4.1.jar returned status 404
 3.4.1	classes	2026-05-03T07:33:37Z	
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.4.2/SimpleContentPortlet-3.4.2.jar returned status 404
 3.4.2	classes	2026-05-04T22:14:30Z	
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.4.3/SimpleContentPortlet-3.4.3.jar returned status 404
 3.4.3	classes	2026-05-13T23:13:13Z	
+3.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/portlet/simplecontent/SimpleContentPortlet/3.4.4/SimpleContentPortlet-3.4.4.jar returned status 404
 3.4.4	classes	2026-06-24T05:55:17Z	

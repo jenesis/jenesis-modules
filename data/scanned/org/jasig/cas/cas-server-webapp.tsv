@@ -1,31 +1,119 @@
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1/cas-server-webapp-3.1.jar returned status 404
+3.1-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1-rc3/cas-server-webapp-3.1-rc3.jar returned status 404
+3.1-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1-rc4/cas-server-webapp-3.1-rc4.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1.1/cas-server-webapp-3.1.1.jar returned status 404
+3.1.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1.1-rc1/cas-server-webapp-3.1.1-rc1.jar returned status 404
+3.1.1-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1.1-rc2/cas-server-webapp-3.1.1-rc2.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.1.2/cas-server-webapp-3.1.2.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2/cas-server-webapp-3.2.jar returned status 404
+3.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2-RC1/cas-server-webapp-3.2-RC1.jar returned status 404
+3.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2-RC2/cas-server-webapp-3.2-RC2.jar returned status 404
+3.2-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2-RC3/cas-server-webapp-3.2-RC3.jar returned status 404
+3.2-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2-RC4/cas-server-webapp-3.2-RC4.jar returned status 404
+3.2-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2-RC5/cas-server-webapp-3.2-RC5.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2.1/cas-server-webapp-3.2.1.jar returned status 404
+3.2.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2.1-RC1/cas-server-webapp-3.2.1-RC1.jar returned status 404
+3.2.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2.1-RC2/cas-server-webapp-3.2.1-RC2.jar returned status 404
+3.2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2.1.1/cas-server-webapp-3.2.1.1.jar returned status 404
+3.2.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.2.2-RC1/cas-server-webapp-3.2.2-RC1.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3/cas-server-webapp-3.3.jar returned status 404
+3.3-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3-RC2/cas-server-webapp-3.3-RC2.jar returned status 404
+3.3-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3-RC3/cas-server-webapp-3.3-RC3.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3.1/cas-server-webapp-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3.2/cas-server-webapp-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3.3/cas-server-webapp-3.3.3.jar returned status 404
+3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3.4/cas-server-webapp-3.3.4.jar returned status 404
+3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.3.5/cas-server-webapp-3.3.5.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4/cas-server-webapp-3.4.jar returned status 404
+3.4-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4-RC1/cas-server-webapp-3.4-RC1.jar returned status 404
+3.4-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4-RC2/cas-server-webapp-3.4-RC2.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.1/cas-server-webapp-3.4.1.jar returned status 404
+3.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.10/cas-server-webapp-3.4.10.jar returned status 404
+3.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.11/cas-server-webapp-3.4.11.jar returned status 404
+3.4.11-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.11-RC1/cas-server-webapp-3.4.11-RC1.jar returned status 404
+3.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.12/cas-server-webapp-3.4.12.jar returned status 404
+3.4.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.12.1/cas-server-webapp-3.4.12.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.2/cas-server-webapp-3.4.2.jar returned status 404
+3.4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.2.1/cas-server-webapp-3.4.2.1.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.3/cas-server-webapp-3.4.3.jar returned status 404
+3.4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.3.1/cas-server-webapp-3.4.3.1.jar returned status 404
+3.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.4/cas-server-webapp-3.4.4.jar returned status 404
+3.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.5/cas-server-webapp-3.4.5.jar returned status 404
+3.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.6/cas-server-webapp-3.4.6.jar returned status 404
+3.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.7/cas-server-webapp-3.4.7.jar returned status 404
+3.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.8/cas-server-webapp-3.4.8.jar returned status 404
+3.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.4.9/cas-server-webapp-3.4.9.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.0/cas-server-webapp-3.5.0.jar returned status 404
+3.5.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.0-RC1/cas-server-webapp-3.5.0-RC1.jar returned status 404
+3.5.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.0-RC2/cas-server-webapp-3.5.0-RC2.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.1/cas-server-webapp-3.5.1.jar returned status 404
 3.5.1	classes	2012-10-05T20:08:30Z	
+3.5.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.1-RC1/cas-server-webapp-3.5.1-RC1.jar returned status 404
 3.5.1-RC1	classes	2012-09-18T20:01:28Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.2/cas-server-webapp-3.5.2.jar returned status 404
 3.5.2	classes	2013-02-22T17:16:06Z	
+3.5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.2.1/cas-server-webapp-3.5.2.1.jar returned status 404
 3.5.2.1	classes	2014-03-05T17:33:27Z	
+3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/3.5.3/cas-server-webapp-3.5.3.jar returned status 404
 3.5.3	classes	2015-01-14T10:36:27Z	
 3.6.0	classes	2015-06-12T16:19:59Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.0/cas-server-webapp-4.0.0.jar returned status 404
 4.0.0	classes	2014-05-07T15:43:36Z	
+4.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.0-RC1/cas-server-webapp-4.0.0-RC1.jar returned status 404
 4.0.0-RC1	classes	2013-07-08T14:17:21Z	
+4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.0-RC2/cas-server-webapp-4.0.0-RC2.jar returned status 404
 4.0.0-RC2	classes	2013-10-24T13:02:24Z	
+4.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.0-RC3/cas-server-webapp-4.0.0-RC3.jar returned status 404
 4.0.0-RC3	classes	2013-12-30T08:57:45Z	
+4.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.0-RC4/cas-server-webapp-4.0.0-RC4.jar returned status 404
 4.0.0-RC4	classes	2014-04-04T10:22:51Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.1/cas-server-webapp-4.0.1.jar returned status 404
 4.0.1	classes	2015-01-12T14:55:08Z	
 4.0.2	classes	2015-06-12T21:50:27Z	
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.3/cas-server-webapp-4.0.3.jar returned status 404
 4.0.3	classes	2015-07-10T11:54:41Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.4/cas-server-webapp-4.0.4.jar returned status 404
 4.0.4	classes	2015-08-09T10:52:21Z	
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.5/cas-server-webapp-4.0.5.jar returned status 404
 4.0.5	classes	2015-09-18T11:09:25Z	
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.6/cas-server-webapp-4.0.6.jar returned status 404
 4.0.6	classes	2015-10-19T18:57:15Z	
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.0.7/cas-server-webapp-4.0.7.jar returned status 404
 4.0.7	classes	2015-11-21T06:48:48Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.0/cas-server-webapp-4.1.0.jar returned status 404
 4.1.0	classes	2015-09-18T14:13:11Z	
+4.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.0-RC1/cas-server-webapp-4.1.0-RC1.jar returned status 404
 4.1.0-RC1	classes	2015-08-24T14:47:10Z	
+4.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.0-RC2/cas-server-webapp-4.1.0-RC2.jar returned status 404
 4.1.0-RC2	classes	2015-08-26T23:16:55Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.1/cas-server-webapp-4.1.1.jar returned status 404
 4.1.1	classes	2015-10-19T20:52:23Z	
+4.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.10/cas-server-webapp-4.1.10.jar returned status 404
 4.1.10	classes	2016-11-04T21:24:47Z	
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.2/cas-server-webapp-4.1.2.jar returned status 404
 4.1.2	classes	2015-11-21T17:49:14Z	
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.3/cas-server-webapp-4.1.3.jar returned status 404
 4.1.3	classes	2015-12-19T06:38:15Z	
+4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.4/cas-server-webapp-4.1.4.jar returned status 404
 4.1.4	classes	2016-01-18T18:46:26Z	
+4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.5/cas-server-webapp-4.1.5.jar returned status 404
 4.1.5	classes	2016-02-19T10:35:47Z	
+4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.6/cas-server-webapp-4.1.6.jar returned status 404
 4.1.6	classes	2016-03-18T10:34:36Z	
+4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.7/cas-server-webapp-4.1.7.jar returned status 404
 4.1.7	classes	2016-04-01T10:52:59Z	
+4.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.8/cas-server-webapp-4.1.8.jar returned status 404
 4.1.8	classes	2016-05-20T17:08:03Z	
+4.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.1.9/cas-server-webapp-4.1.9.jar returned status 404
 4.1.9	classes	2016-06-26T22:46:28Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.0/cas-server-webapp-4.2.0.jar returned status 404
+4.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.0-RC1/cas-server-webapp-4.2.0-RC1.jar returned status 404
+4.2.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.0-RC2/cas-server-webapp-4.2.0-RC2.jar returned status 404
+4.2.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.0-RC3/cas-server-webapp-4.2.0-RC3.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.1/cas-server-webapp-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.2/cas-server-webapp-4.2.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.3/cas-server-webapp-4.2.3.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.4/cas-server-webapp-4.2.4.jar returned status 404
+4.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.5/cas-server-webapp-4.2.5.jar returned status 404
+4.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.6/cas-server-webapp-4.2.6.jar returned status 404
+4.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jasig/cas/cas-server-webapp/4.2.7/cas-server-webapp-4.2.7.jar returned status 404
