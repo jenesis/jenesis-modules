@@ -8,6 +8,13 @@
 0.9.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.107/example-0.9.107.jar returned status 404
 0.9.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.108/example-0.9.108.jar returned status 404
 0.9.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.109/example-0.9.109.jar returned status 404
+0.9.35-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.35-beta/example-0.9.35-beta.jar returned status 404
+0.9.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.40/example-0.9.40.jar returned status 404
+0.9.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.60/example-0.9.60.jar returned status 404
+0.9.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.62/example-0.9.62.jar returned status 404
+0.9.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.63/example-0.9.63.jar returned status 404
+0.9.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.64/example-0.9.64.jar returned status 404
+0.9.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.72/example-0.9.72.jar returned status 404
 0.9.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.75/example-0.9.75.jar returned status 404
 0.9.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.76/example-0.9.76.jar returned status 404
 0.9.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/example/0.9.77/example-0.9.77.jar returned status 404
