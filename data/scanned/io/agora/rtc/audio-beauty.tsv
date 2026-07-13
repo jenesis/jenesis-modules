@@ -1,3 +1,12 @@
+0.0.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/0.0.0.1.0/audio-beauty-0.0.0.1.0.jar returned status 404
+12-15-ci-test-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/12-15-ci-test-2/audio-beauty-12-15-ci-test-2.jar returned status 404
+4.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.0-rc.1/audio-beauty-4.0.0-rc.1.jar returned status 404
+4.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.0.3/audio-beauty-4.0.0.3.jar returned status 404
+4.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.0.4/audio-beauty-4.0.0.4.jar returned status 404
+4.0.0.test.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.0.test.2/audio-beauty-4.0.0.test.2.jar returned status 404
+4.0.0.test3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.0.test3/audio-beauty-4.0.0.test3.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.0.1/audio-beauty-4.0.1.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.1.0/audio-beauty-4.1.0.jar returned status 404
 4.1.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.1.0-1/audio-beauty-4.1.0-1.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.1.1/audio-beauty-4.1.1.jar returned status 404
 4.1.1.34.test1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.1.1.34.test1/audio-beauty-4.1.1.34.test1.jar returned status 404
@@ -16,3 +25,11 @@
 4.5.0-dev.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.5.0-dev.11/audio-beauty-4.5.0-dev.11.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.5.1/audio-beauty-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.5.2/audio-beauty-4.5.2.jar returned status 404
+4.5.2.195.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.5.2.195.3/audio-beauty-4.5.2.195.3.jar returned status 404
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.5.3/audio-beauty-4.5.3.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.0/audio-beauty-4.6.0.jar returned status 404
+4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.0.TEST/audio-beauty-4.6.0.TEST.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.1/audio-beauty-4.6.1.jar returned status 404
+4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.1.1/audio-beauty-4.6.1.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.2/audio-beauty-4.6.2.jar returned status 404
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/audio-beauty/4.6.3/audio-beauty-4.6.3.jar returned status 404

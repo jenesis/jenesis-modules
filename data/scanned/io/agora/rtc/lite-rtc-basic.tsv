@@ -1,3 +1,12 @@
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.0/lite-rtc-basic-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.1/lite-rtc-basic-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.2/lite-rtc-basic-4.5.2.jar returned status 404
+4.5.2.195			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.2.195/lite-rtc-basic-4.5.2.195.jar returned status 404
+4.5.2.195.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.2.195.4/lite-rtc-basic-4.5.2.195.4.jar returned status 404
+4.5.2.195.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.2.195.5/lite-rtc-basic-4.5.2.195.5.jar returned status 404
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.5.3/lite-rtc-basic-4.5.3.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.6.0/lite-rtc-basic-4.6.0.jar returned status 404
+4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.6.0.TEST/lite-rtc-basic-4.6.0.TEST.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.6.1/lite-rtc-basic-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.6.2/lite-rtc-basic-4.6.2.jar returned status 404
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-rtc-basic/4.6.3/lite-rtc-basic-4.6.3.jar returned status 404

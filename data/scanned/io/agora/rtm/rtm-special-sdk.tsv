@@ -1,5 +1,14 @@
+1.4.10.208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.208/rtm-special-sdk-1.4.10.208.jar returned status 404
+1.4.10.209			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.209/rtm-special-sdk-1.4.10.209.jar returned status 404
+1.4.10.210			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.210/rtm-special-sdk-1.4.10.210.jar returned status 404
+1.4.10.211			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.211/rtm-special-sdk-1.4.10.211.jar returned status 404
+1.4.10.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.215/rtm-special-sdk-1.4.10.215.jar returned status 404
 1.4.10.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.216/rtm-special-sdk-1.4.10.216.jar returned status 404
 1.4.10.220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.220/rtm-special-sdk-1.4.10.220.jar returned status 404
+1.4.10.222			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.222/rtm-special-sdk-1.4.10.222.jar returned status 404
+1.4.9.212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.9.212/rtm-special-sdk-1.4.9.212.jar returned status 404
+1.5.2.601			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.2.601/rtm-special-sdk-1.5.2.601.jar returned status 404
+1.5.2.602_test_rtm			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.2.602_test_rtm/rtm-special-sdk-1.5.2.602_test_rtm.jar returned status 404
 1.5.3.202			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.202/rtm-special-sdk-1.5.3.202.jar returned status 404
 1.5.3.203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.203/rtm-special-sdk-1.5.3.203.jar returned status 404
 1.5.3.204			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.204/rtm-special-sdk-1.5.3.204.jar returned status 404
@@ -16,3 +25,12 @@
 1.5.3.214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.214/rtm-special-sdk-1.5.3.214.jar returned status 404
 1.5.3.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.215/rtm-special-sdk-1.5.3.215.jar returned status 404
 1.5.3.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.216/rtm-special-sdk-1.5.3.216.jar returned status 404
+1.5.3.217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.217/rtm-special-sdk-1.5.3.217.jar returned status 404
+1.5.3.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.218/rtm-special-sdk-1.5.3.218.jar returned status 404
+1.5.3.219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.219/rtm-special-sdk-1.5.3.219.jar returned status 404
+1.5.3.220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.220/rtm-special-sdk-1.5.3.220.jar returned status 404
+1.6.0.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.101/rtm-special-sdk-1.6.0.101.jar returned status 404
+1.6.0.201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.201/rtm-special-sdk-1.6.0.201.jar returned status 404
+1.6.0.202			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.202/rtm-special-sdk-1.6.0.202.jar returned status 404
+1.6.0.203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.203/rtm-special-sdk-1.6.0.203.jar returned status 404
+1.6.0.206			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.206/rtm-special-sdk-1.6.0.206.jar returned status 404

@@ -1,3 +1,4 @@
+0.0.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/0.0.0.1.0/full-video-av1-codec-dec-0.0.0.1.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.3.0/full-video-av1-codec-dec-4.3.0.jar returned status 404
 4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.3.1/full-video-av1-codec-dec-4.3.1.jar returned status 404
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.3.2/full-video-av1-codec-dec-4.3.2.jar returned status 404
@@ -8,3 +9,7 @@
 4.5.0-dev.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.5.0-dev.11/full-video-av1-codec-dec-4.5.0-dev.11.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.5.1/full-video-av1-codec-dec-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.5.2/full-video-av1-codec-dec-4.5.2.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.6.0/full-video-av1-codec-dec-4.6.0.jar returned status 404
+4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.6.0.TEST/full-video-av1-codec-dec-4.6.0.TEST.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.6.1/full-video-av1-codec-dec-4.6.1.jar returned status 404
+4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-video-av1-codec-dec/4.6.1.1/full-video-av1-codec-dec-4.6.1.1.jar returned status 404

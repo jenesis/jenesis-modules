@@ -1,3 +1,6 @@
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.5.0/lite-video-codec-dec-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.5.1/lite-video-codec-dec-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.5.2/lite-video-codec-dec-4.5.2.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.6.0/lite-video-codec-dec-4.6.0.jar returned status 404
+4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.6.0.TEST/lite-video-codec-dec-4.6.0.TEST.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/lite-video-codec-dec/4.6.1/lite-video-codec-dec-4.6.1.jar returned status 404

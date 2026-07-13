@@ -1,4 +1,9 @@
+4.1.1.167-build.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.1.1.167-build.2/iris-rtc-audio-4.1.1.167-build.2.jar returned status 404
 4.1.1.212-dev.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.1.1.212-dev.6/iris-rtc-audio-4.1.1.212-dev.6.jar returned status 404
+4.1.2.167-build.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.1.2.167-build.2/iris-rtc-audio-4.1.2.167-build.2.jar returned status 404
+4.1.2.2-Build.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.1.2.2-Build.3/iris-rtc-audio-4.1.2.2-Build.3.jar returned status 404
+4.1.2.2-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.1.2.2-build.1/iris-rtc-audio-4.1.2.2-build.1.jar returned status 404
+4.2.7.128-build.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.2.7.128-build.4/iris-rtc-audio-4.2.7.128-build.4.jar returned status 404
 4.3.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.3.0-dev.1/iris-rtc-audio-4.3.0-dev.1.jar returned status 404
 4.3.1-build.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.3.1-build.2/iris-rtc-audio-4.3.1-build.2.jar returned status 404
 4.3.2.235-audio.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.3.2.235-audio.1/iris-rtc-audio-4.3.2.235-audio.1.jar returned status 404
@@ -15,3 +20,9 @@
 4.5.1-build.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.1-build.4/iris-rtc-audio-4.5.1-build.4.jar returned status 404
 4.5.1-dev.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.1-dev.5/iris-rtc-audio-4.5.1-dev.5.jar returned status 404
 4.5.1.149-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.1.149-build.1/iris-rtc-audio-4.5.1.149-build.1.jar returned status 404
+4.5.1.160-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.1.160-build.1/iris-rtc-audio-4.5.1.160-build.1.jar returned status 404
+4.5.1.161-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.1.161-build.1/iris-rtc-audio-4.5.1.161-build.1.jar returned status 404
+4.5.2-build.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.5.2-build.3/iris-rtc-audio-4.5.2-build.3.jar returned status 404
+4.6.2-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.6.2-build.1/iris-rtc-audio-4.6.2-build.1.jar returned status 404
+4.6.2-dev.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.6.2-dev.16/iris-rtc-audio-4.6.2-dev.16.jar returned status 404
+4.6.2-dev.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc-audio/4.6.2-dev.22/iris-rtc-audio-4.6.2-dev.22.jar returned status 404

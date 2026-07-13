@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/game/game-sdk/1.0.0/game-sdk-1.0.0.jar returned status 404
 1.0.2.spc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/game/game-sdk/1.0.2.spc/game-sdk-1.0.2.spc.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/game/game-sdk/1.0.3/game-sdk-1.0.3.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/game/game-sdk/2.0.0/game-sdk-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/game/game-sdk/2.0.1/game-sdk-2.0.1.jar returned status 404
