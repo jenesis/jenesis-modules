@@ -1,3 +1,17 @@
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/1.11.0/olca-modules-1.11.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.0.0/olca-modules-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.0.1/olca-modules-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.0.2/olca-modules-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.0.3/olca-modules-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.0.4/olca-modules-2.0.4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.1.0/olca-modules-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.1.1/olca-modules-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.2.0/olca-modules-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.2.1/olca-modules-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.3.0/olca-modules-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.4.0/olca-modules-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.4.1/olca-modules-2.4.1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.5.0/olca-modules-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.6.0/olca-modules-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.6.1/olca-modules-2.6.1.jar returned status 404
 2.6.2		2026-06-16T05:12:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openlca/olca-modules/2.6.2/olca-modules-2.6.2.jar returned status 404

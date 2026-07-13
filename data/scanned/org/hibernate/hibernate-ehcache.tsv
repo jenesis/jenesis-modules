@@ -281,3 +281,8 @@
 5.6.7.Final		2022-03-16T17:23:09Z	
 5.6.8.Final		2022-04-13T15:24:06Z	
 5.6.9.Final		2022-05-14T22:49:28Z	
+6.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ehcache/6.0.0.Alpha3/hibernate-ehcache-6.0.0.Alpha3.jar returned status 404
+6.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ehcache/6.0.0.Alpha4/hibernate-ehcache-6.0.0.Alpha4.jar returned status 404
+6.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ehcache/6.0.0.Alpha5/hibernate-ehcache-6.0.0.Alpha5.jar returned status 404
+6.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ehcache/6.0.0.Alpha6/hibernate-ehcache-6.0.0.Alpha6.jar returned status 404
+6.0.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7.jar returned status 404

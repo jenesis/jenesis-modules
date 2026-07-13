@@ -87,6 +87,11 @@
 5.10.0.CR1		2018-05-04T13:23:39Z	
 5.10.0.Final		2018-05-16T10:03:31Z	
 5.10.1.Final		2018-05-27T14:32:14Z	
+5.10.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-search/5.10.12.Final/hibernate-search-5.10.12.Final.jar returned status 404
+5.10.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-search/5.10.13.Final/hibernate-search-5.10.13.Final.jar returned status 404
+5.11.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-search/5.11.10.Final/hibernate-search-5.11.10.Final.jar returned status 404
+5.11.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-search/5.11.11.Final/hibernate-search-5.11.11.Final.jar returned status 404
+5.11.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-search/5.11.12.Final/hibernate-search-5.11.12.Final.jar returned status 404
 5.2.0.Beta1		2015-04-16T20:53:48Z	
 5.2.0.Final		2015-05-05T21:22:40Z	
 5.2.1.Final		2015-09-04T16:28:06Z	

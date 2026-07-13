@@ -1,3 +1,14 @@
+1.0.0.Final			
+1.0.1.Final			
+1.0.2.Final			
+1.0.3.Final			
+1.0.4.Final			
+1.0.5.Final			
+1.0.6.Final			
+2.0.0.Final			
+3.0.0.Final			
+4.0.0.Final			
+5.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/infra/hibernate-asciidoctor-theme/5.0.2.Final/hibernate-asciidoctor-theme-5.0.2.Final.jar returned status 404
 5.0.3.Final		2025-04-07T20:49:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/infra/hibernate-asciidoctor-theme/5.0.3.Final/hibernate-asciidoctor-theme-5.0.3.Final.jar returned status 404
 5.0.4.Final		2025-04-07T21:06:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/infra/hibernate-asciidoctor-theme/5.0.4.Final/hibernate-asciidoctor-theme-5.0.4.Final.jar returned status 404
 5.0.5.Final		2025-04-07T21:28:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/infra/hibernate-asciidoctor-theme/5.0.5.Final/hibernate-asciidoctor-theme-5.0.5.Final.jar returned status 404
