@@ -37,6 +37,7 @@
 1.13.3		2021-08-12T07:14:38Z	
 1.13.4		2021-11-04T01:42:39Z	
 1.13.5		2022-01-28T11:31:21Z	
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/lispflowmapping/common.build.tools/1.14.0/common.build.tools-1.14.0.jar returned status 404
 1.14.1		2021-11-26T01:32:57Z	
 1.14.2		2022-02-15T11:08:34Z	
 1.14.3		2022-05-27T01:05:43Z	
