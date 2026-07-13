@@ -1,3 +1,19 @@
 0.5.4		2011-04-15T02:59:39Z	
 0.6.0		2011-06-15T17:43:51Z	
 0.6.1		2011-06-22T05:53:14Z	
+0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.6.3/sbt-scalaxb-0.6.3.jar returned status 404
+0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.6.4/sbt-scalaxb-0.6.4.jar returned status 404
+0.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.6.6/sbt-scalaxb-0.6.6.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.7.0/sbt-scalaxb-0.7.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.7.1/sbt-scalaxb-0.7.1.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.7.2/sbt-scalaxb-0.7.2.jar returned status 404
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/0.7.3/sbt-scalaxb-0.7.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.0/sbt-scalaxb-1.0.0.jar returned status 404
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.0-RC1/sbt-scalaxb-1.0.0-RC1.jar returned status 404
+1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.0-RC2/sbt-scalaxb-1.0.0-RC2.jar returned status 404
+1.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.0-RC3/sbt-scalaxb-1.0.0-RC3.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.1/sbt-scalaxb-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.0.2/sbt-scalaxb-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.1.0/sbt-scalaxb-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.1.1/sbt-scalaxb-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalaxb/sbt-scalaxb/1.1.2/sbt-scalaxb-1.1.2.jar returned status 404

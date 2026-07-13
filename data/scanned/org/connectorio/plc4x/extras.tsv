@@ -1,1 +1,11 @@
+0.11.0-connectorio-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.11.0-connectorio-1/extras-0.11.0-connectorio-1.jar returned status 404
+0.11.0-connectorio-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.11.0-connectorio-2/extras-0.11.0-connectorio-2.jar returned status 404
+0.11.0-connectorio-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.11.0-connectorio-3/extras-0.11.0-connectorio-3.jar returned status 404
+0.11.1-connectorio-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.11.1-connectorio-1/extras-0.11.1-connectorio-1.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.12.0/extras-0.12.0.jar returned status 404
+0.13.0-connectorio-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.13.0-connectorio-1/extras-0.13.0-connectorio-1.jar returned status 404
+0.13.0-connectorio-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.13.0-connectorio-2/extras-0.13.0-connectorio-2.jar returned status 404
 0.13.0-connectorio-3		2026-05-31T20:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.13.0-connectorio-3/extras-0.13.0-connectorio-3.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.8.0/extras-0.8.0.jar returned status 404
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/0.8.1/extras-0.8.1.jar returned status 404
+extras-0.11.0-connectorio-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/plc4x/extras/extras-0.11.0-connectorio-3/extras-extras-0.11.0-connectorio-3.jar returned status 404

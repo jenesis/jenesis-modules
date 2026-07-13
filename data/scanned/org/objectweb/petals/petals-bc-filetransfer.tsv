@@ -1,2 +1,3 @@
 1.3		2007-05-09T10:02:40Z	
 1.4		2007-05-31T07:21:00Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/petals/petals-bc-filetransfer/1.5/petals-bc-filetransfer-1.5.jar returned status 404

@@ -1,44 +1,101 @@
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.0/dspace-rest-4.0.jar returned status 404
+4.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.0-rc1/dspace-rest-4.0-rc1.jar returned status 404
+4.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.0-rc2/dspace-rest-4.0-rc2.jar returned status 404
+4.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.0-rc3/dspace-rest-4.0-rc3.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.1/dspace-rest-4.1.jar returned status 404
+4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.2/dspace-rest-4.2.jar returned status 404
+4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.3/dspace-rest-4.3.jar returned status 404
+4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.4/dspace-rest-4.4.jar returned status 404
+4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.5/dspace-rest-4.5.jar returned status 404
+4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.6/dspace-rest-4.6.jar returned status 404
+4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.7/dspace-rest-4.7.jar returned status 404
+4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.8/dspace-rest-4.8.jar returned status 404
+4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/4.9/dspace-rest-4.9.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.0/dspace-rest-5.0.jar returned status 404
 5.0	classes	2015-01-16T17:35:06Z	
+5.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.0-rc1/dspace-rest-5.0-rc1.jar returned status 404
+5.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.0-rc2/dspace-rest-5.0-rc2.jar returned status 404
+5.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.0-rc3/dspace-rest-5.0-rc3.jar returned status 404
 5.0-rc3	classes	2014-12-19T20:41:03Z	
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.1/dspace-rest-5.1.jar returned status 404
 5.1	classes	2015-02-25T19:01:26Z	
+5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.10/dspace-rest-5.10.jar returned status 404
 5.10	classes	2018-10-04T18:35:11Z	
+5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.11/dspace-rest-5.11.jar returned status 404
 5.11	classes	2022-07-28T16:32:56Z	
+5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.2/dspace-rest-5.2.jar returned status 404
 5.2	classes	2015-05-20T17:04:33Z	
+5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.3/dspace-rest-5.3.jar returned status 404
 5.3	classes	2015-07-29T09:44:31Z	
+5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.4/dspace-rest-5.4.jar returned status 404
 5.4	classes	2015-11-09T21:04:22Z	
+5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.5/dspace-rest-5.5.jar returned status 404
 5.5	classes	2016-03-18T20:44:43Z	
+5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.6/dspace-rest-5.6.jar returned status 404
 5.6	classes	2016-09-29T18:48:56Z	
+5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.7/dspace-rest-5.7.jar returned status 404
 5.7	classes	2017-07-12T20:13:06Z	
+5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.8/dspace-rest-5.8.jar returned status 404
 5.8	classes	2017-09-01T16:48:40Z	
+5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/5.9/dspace-rest-5.9.jar returned status 404
 5.9	classes	2018-06-25T21:32:11Z	
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.0/dspace-rest-6.0.jar returned status 404
 6.0	classes	2016-10-24T12:56:20Z	
+6.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.0-rc1/dspace-rest-6.0-rc1.jar returned status 404
 6.0-rc1	classes	2016-04-26T14:01:07Z	
+6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.0-rc2/dspace-rest-6.0-rc2.jar returned status 404
 6.0-rc2	classes	2016-06-10T20:11:30Z	
+6.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.0-rc3/dspace-rest-6.0-rc3.jar returned status 404
 6.0-rc3	classes	2016-09-06T17:57:04Z	
+6.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.0-rc4/dspace-rest-6.0-rc4.jar returned status 404
 6.0-rc4	classes	2016-10-14T17:27:55Z	
+6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.1/dspace-rest-6.1.jar returned status 404
 6.1	classes	2017-07-13T17:52:02Z	
+6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.2/dspace-rest-6.2.jar returned status 404
 6.2	classes	2017-09-07T20:37:45Z	
+6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.3/dspace-rest-6.3.jar returned status 404
 6.3	classes	2018-06-26T17:48:14Z	
+6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/6.4/dspace-rest-6.4.jar returned status 404
 6.4	classes	2022-07-28T17:27:20Z	
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0/dspace-rest-7.0.jar returned status 404
 7.0	classes	2021-07-29T19:27:50Z	
+7.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta1/dspace-rest-7.0-beta1.jar returned status 404
 7.0-beta1	classes	2020-03-03T18:34:21Z	
+7.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta2/dspace-rest-7.0-beta2.jar returned status 404
 7.0-beta2	classes	2020-04-20T16:53:29Z	
+7.0-beta2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta2.1/dspace-rest-7.0-beta2.1.jar returned status 404
 7.0-beta2.1	classes	2020-04-21T15:48:29Z	
+7.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta3/dspace-rest-7.0-beta3.jar returned status 404
 7.0-beta3	classes	2020-07-02T19:49:16Z	
+7.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta4/dspace-rest-7.0-beta4.jar returned status 404
 7.0-beta4	classes	2020-10-09T21:55:09Z	
+7.0-beta4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta4.1/dspace-rest-7.0-beta4.1.jar returned status 404
 7.0-beta4.1	classes	2020-10-10T17:16:16Z	
+7.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-beta5/dspace-rest-7.0-beta5.jar returned status 404
 7.0-beta5	classes	2021-04-15T22:00:48Z	
+7.0-preview-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.0-preview-1/dspace-rest-7.0-preview-1.jar returned status 404
 7.0-preview-1	classes	2019-05-17T20:53:48Z	
+7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.1/dspace-rest-7.1.jar returned status 404
 7.1	classes	2021-10-28T19:58:40Z	
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.1.1/dspace-rest-7.1.1.jar returned status 404
 7.1.1	classes	2021-12-13T18:46:00Z	
+7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.2/dspace-rest-7.2.jar returned status 404
 7.2	classes	2022-02-03T19:29:53Z	
+7.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.2.1/dspace-rest-7.2.1.jar returned status 404
 7.2.1	classes	2022-04-01T14:35:00Z	
+7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.3/dspace-rest-7.3.jar returned status 404
 7.3	classes	2022-06-24T17:20:46Z	
+7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.4/dspace-rest-7.4.jar returned status 404
 7.4	classes	2022-10-06T18:04:56Z	
+7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.5/dspace-rest-7.5.jar returned status 404
 7.5	classes	2023-02-17T16:25:36Z	
+7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.6/dspace-rest-7.6.jar returned status 404
 7.6	classes	2023-06-23T17:23:55Z	
+7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.6.1/dspace-rest-7.6.1.jar returned status 404
 7.6.1	classes	2023-11-15T20:27:00Z	
+7.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.6.2/dspace-rest-7.6.2.jar returned status 404
 7.6.2	classes	2024-07-09T19:19:55Z	
+7.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.6.3/dspace-rest-7.6.3.jar returned status 404
 7.6.3	classes	2025-02-07T17:12:00Z	
 7.6.4		2025-07-14T18:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-rest/7.6.4/dspace-rest-7.6.4.jar returned status 404
 7.6.4	classes	2025-07-14T18:42:12Z	

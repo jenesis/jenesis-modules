@@ -1,1 +1,21 @@
 1.0		2007-07-26T09:47:00Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/1.1/cecilia-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/1.2/cecilia-1.2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/1.2.1/cecilia-1.2.1.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0/cecilia-2.0.jar returned status 404
+2.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-alpha-1/cecilia-2.0-alpha-1.jar returned status 404
+2.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-alpha-2/cecilia-2.0-alpha-2.jar returned status 404
+2.0-alpha-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-alpha-3/cecilia-2.0-alpha-3.jar returned status 404
+2.0-alpha-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-alpha-4/cecilia-2.0-alpha-4.jar returned status 404
+2.0-alpha-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-alpha-5/cecilia-2.0-alpha-5.jar returned status 404
+2.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-beta-1/cecilia-2.0-beta-1.jar returned status 404
+2.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-beta-2/cecilia-2.0-beta-2.jar returned status 404
+2.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0-beta-3/cecilia-2.0-beta-3.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0.1/cecilia-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0.2/cecilia-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0.3/cecilia-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.0.4/cecilia-2.0.4.jar returned status 404
+2.1-start-8599			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.1-start-8599/cecilia-2.1-start-8599.jar returned status 404
+2.1-start-8605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.1-start-8605/cecilia-2.1-start-8605.jar returned status 404
+2.1-start-8763			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.1-start-8763/cecilia-2.1-start-8763.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/cecilia/2.1.0/cecilia-2.1.0.jar returned status 404

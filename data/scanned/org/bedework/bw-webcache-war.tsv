@@ -1,1 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-webcache-war/1.0.0/bw-webcache-war-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-webcache-war/1.0.1/bw-webcache-war-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-webcache-war/1.0.2/bw-webcache-war-1.0.2.jar returned status 404
 2.0.0		2025-06-29T00:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-webcache-war/2.0.0/bw-webcache-war-2.0.0.jar returned status 404

@@ -2,3 +2,12 @@
 1.1		2007-10-04T10:54:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/1.1/helloworld-1.1.jar returned status 404
 1.2		2008-01-18T14:44:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/1.2/helloworld-1.2.jar returned status 404
 1.2.1		2008-02-27T10:16:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/1.2.1/helloworld-1.2.1.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0/helloworld-2.0.jar returned status 404
+2.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0-alpha-1/helloworld-2.0-alpha-1.jar returned status 404
+2.0-alpha-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0-alpha-5/helloworld-2.0-alpha-5.jar returned status 404
+2.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0-beta-1/helloworld-2.0-beta-1.jar returned status 404
+2.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0-beta-2/helloworld-2.0-beta-2.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0.1/helloworld-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0.2/helloworld-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.0.3/helloworld-2.0.3.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/fractal/cecilia/examples/helloworld/2.1.0/helloworld-2.1.0.jar returned status 404

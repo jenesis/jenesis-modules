@@ -1,1 +1,6 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/4.0.0/bw-category-war-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/4.0.1/bw-category-war-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/4.0.2/bw-category-war-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/4.0.3/bw-category-war-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/4.0.4/bw-category-war-4.0.4.jar returned status 404
 5.0.0		2025-07-20T03:44:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-cat/bw-category-war/5.0.0/bw-category-war-5.0.0.jar returned status 404

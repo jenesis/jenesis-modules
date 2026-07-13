@@ -15,3 +15,9 @@
 5.2.6		2009-10-28T13:46:55Z	
 5.3.0		2010-02-11T11:34:32Z	
 5.3.1		2010-05-07T12:33:30Z	
+5.3.2.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.3.2.53/joram-client-5.3.2.53.jar returned status 404
+5.3.3.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.3.3.53/joram-client-5.3.3.53.jar returned status 404
+5.4.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.4.0.54/joram-client-5.4.0.54.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.5.0/joram-client-5.5.0.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.6.0/joram-client-5.6.0.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/joram/joram-client/5.7.0/joram-client-5.7.0.jar returned status 404

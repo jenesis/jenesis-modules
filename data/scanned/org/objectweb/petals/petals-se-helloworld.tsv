@@ -1,1 +1,2 @@
 1.3		2007-05-31T08:06:03Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/objectweb/petals/petals-se-helloworld/2.0/petals-se-helloworld-2.0.jar returned status 404
