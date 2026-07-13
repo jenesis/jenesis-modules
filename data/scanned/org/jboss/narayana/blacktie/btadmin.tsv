@@ -1,6 +1,8 @@
+3.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/blacktie/btadmin/3.0.0.Final/btadmin-3.0.0.Final.jar returned status 404
 5.0.0.CR1		2013-11-07T13:27:23Z	
 5.0.0.CR2		2013-12-10T16:04:19Z	
 5.0.0.Final		2014-01-23T15:58:18Z	
+5.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/narayana/blacktie/btadmin/5.0.0.M1/btadmin-5.0.0.M1.jar returned status 404
 5.0.0.M2		2013-03-20T14:12:44Z	
 5.0.0.M3		2013-05-31T10:40:46Z	
 5.0.0.M5		2013-10-02T14:01:21Z	

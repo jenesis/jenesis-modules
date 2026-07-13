@@ -3,5 +3,7 @@
 1.0.0.Final		2012-02-02T22:32:16Z	
 1.0.1.Final		2017-07-20T00:13:59Z	
 1.0.2.Final		2022-03-08T22:39:43Z	
+1.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-iiop-client/1.0.3.Final/jboss-iiop-client-1.0.3.Final.jar returned status 404
 1.0.4.Final		2023-02-09T17:44:02Z	
+2.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-iiop-client/2.0.0.Final/jboss-iiop-client-2.0.0.Final.jar returned status 404
 2.0.1.Final		2023-02-08T07:55:13Z	

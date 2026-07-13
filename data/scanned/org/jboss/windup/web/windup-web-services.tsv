@@ -1,77 +1,155 @@
+4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.0.0.Beta1/windup-web-services-4.0.0.Beta1.jar returned status 404
+4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.0.0.Beta2/windup-web-services-4.0.0.Beta2.jar returned status 404
 4.0.0.Beta2	typescript-models	2017-06-06T19:33:34Z	
+4.0.0.Beta2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.0.0.Beta2.1/windup-web-services-4.0.0.Beta2.1.jar returned status 404
 4.0.0.Beta2.1	typescript-models	2017-06-07T19:22:19Z	
+4.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.0.0.Final/windup-web-services-4.0.0.Final.jar returned status 404
 4.0.0.Final	typescript-models	2017-12-13T16:59:06Z	
+4.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.0.1.Final/windup-web-services-4.0.1.Final.jar returned status 404
 4.0.1.Final	typescript-models	2018-03-20T11:50:44Z	
+4.1.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.1.0.Alpha5/windup-web-services-4.1.0.Alpha5.jar returned status 404
 4.1.0.Alpha5	typescript-models	2018-06-25T12:19:54Z	
+4.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.1.0.Final/windup-web-services-4.1.0.Final.jar returned status 404
 4.1.0.Final	typescript-models	2018-07-02T15:37:58Z	
+4.2.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.0.Alpha1/windup-web-services-4.2.0.Alpha1.jar returned status 404
 4.2.0.Alpha1	typescript-models	2018-10-12T10:49:18Z	
+4.2.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.0.Alpha2/windup-web-services-4.2.0.Alpha2.jar returned status 404
 4.2.0.Alpha2	typescript-models	2018-10-16T11:17:22Z	
+4.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.0.Final/windup-web-services-4.2.0.Final.jar returned status 404
 4.2.0.Final	typescript-models	2018-10-26T09:15:36Z	
+4.2.1.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.1.Alpha1/windup-web-services-4.2.1.Alpha1.jar returned status 404
 4.2.1.Alpha1	typescript-models	2019-03-13T09:46:25Z	
+4.2.1.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.1.Alpha2/windup-web-services-4.2.1.Alpha2.jar returned status 404
 4.2.1.Alpha2	typescript-models	2019-03-14T18:35:02Z	
+4.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.2.1.Final/windup-web-services-4.2.1.Final.jar returned status 404
 4.2.1.Final	typescript-models	2019-03-19T13:41:40Z	
+4.3.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.0.Alpha2/windup-web-services-4.3.0.Alpha2.jar returned status 404
 4.3.0.Alpha2	typescript-models	2019-11-22T10:33:44Z	
+4.3.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.0.Beta1/windup-web-services-4.3.0.Beta1.jar returned status 404
 4.3.0.Beta1	typescript-models	2019-12-05T09:09:59Z	
+4.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.0.Final/windup-web-services-4.3.0.Final.jar returned status 404
 4.3.0.Final	typescript-models	2019-12-10T10:44:26Z	
+4.3.1.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.1.Alpha1/windup-web-services-4.3.1.Alpha1.jar returned status 404
 4.3.1.Alpha1	typescript-models	2020-02-06T11:54:50Z	
+4.3.1.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.1.Beta1/windup-web-services-4.3.1.Beta1.jar returned status 404
 4.3.1.Beta1	typescript-models	2020-02-11T09:36:11Z	
+4.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/4.3.1.Final/windup-web-services-4.3.1.Final.jar returned status 404
 4.3.1.Final	typescript-models	2020-03-17T17:08:56Z	
+5.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.0.0.Alpha1/windup-web-services-5.0.0.Alpha1.jar returned status 404
 5.0.0.Alpha1	typescript-models	2020-07-06T10:04:22Z	
+5.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.0.0.Beta1/windup-web-services-5.0.0.Beta1.jar returned status 404
 5.0.0.Beta1	typescript-models	2020-07-13T08:04:24Z	
+5.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.0.0.Final/windup-web-services-5.0.0.Final.jar returned status 404
 5.0.0.Final	typescript-models	2020-07-15T08:30:54Z	
+5.0.1.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.0.1.Alpha1/windup-web-services-5.0.1.Alpha1.jar returned status 404
 5.0.1.Alpha1	typescript-models	2020-09-01T09:20:56Z	
+5.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.0.1.Final/windup-web-services-5.0.1.Final.jar returned status 404
 5.0.1.Final	typescript-models	2020-09-14T08:17:07Z	
+5.1.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.0.Alpha1/windup-web-services-5.1.0.Alpha1.jar returned status 404
 5.1.0.Alpha1	typescript-models	2020-11-05T11:32:41Z	
+5.1.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.0.Alpha2/windup-web-services-5.1.0.Alpha2.jar returned status 404
 5.1.0.Alpha2	typescript-models	2020-11-11T10:55:39Z	
+5.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.0.Beta1/windup-web-services-5.1.0.Beta1.jar returned status 404
 5.1.0.Beta1	typescript-models	2020-11-25T10:28:34Z	
+5.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.0.Final/windup-web-services-5.1.0.Final.jar returned status 404
 5.1.0.Final	typescript-models	2020-12-01T09:18:03Z	
+5.1.1.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.1.Alpha1/windup-web-services-5.1.1.Alpha1.jar returned status 404
 5.1.1.Alpha1	typescript-models	2021-01-12T16:20:34Z	
+5.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.1.Final/windup-web-services-5.1.1.Final.jar returned status 404
 5.1.1.Final	typescript-models	2021-01-19T09:52:58Z	
+5.1.2.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.2.Alpha1/windup-web-services-5.1.2.Alpha1.jar returned status 404
 5.1.2.Alpha1	typescript-models	2021-02-10T09:50:15Z	
+5.1.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.2.Final/windup-web-services-5.1.2.Final.jar returned status 404
 5.1.2.Final	typescript-models	2021-02-16T09:16:43Z	
+5.1.3.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.3.Alpha1/windup-web-services-5.1.3.Alpha1.jar returned status 404
 5.1.3.Alpha1	typescript-models	2021-03-10T09:11:56Z	
+5.1.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.3.Final/windup-web-services-5.1.3.Final.jar returned status 404
 5.1.3.Final	typescript-models	2021-03-16T09:19:43Z	
+5.1.4.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.4.Alpha1/windup-web-services-5.1.4.Alpha1.jar returned status 404
 5.1.4.Alpha1	typescript-models	2021-04-01T09:21:10Z	
+5.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.1.4.Final/windup-web-services-5.1.4.Final.jar returned status 404
 5.1.4.Final	typescript-models	2021-05-11T08:09:38Z	
+5.2.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.2.0.Alpha1/windup-web-services-5.2.0.Alpha1.jar returned status 404
 5.2.0.Alpha1	typescript-models	2021-07-21T08:49:19Z	
+5.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.2.0.Final/windup-web-services-5.2.0.Final.jar returned status 404
 5.2.0.Final	typescript-models	2021-08-05T08:52:21Z	
+5.2.1.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.2.1.Alpha1/windup-web-services-5.2.1.Alpha1.jar returned status 404
 5.2.1.Alpha1	typescript-models	2021-12-06T12:07:04Z	
+5.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.2.1.Final/windup-web-services-5.2.1.Final.jar returned status 404
 5.2.1.Final	typescript-models	2021-12-14T13:00:35Z	
+5.3.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.3.0.Alpha1/windup-web-services-5.3.0.Alpha1.jar returned status 404
 5.3.0.Alpha1	typescript-models	2022-01-26T11:37:15Z	
+5.3.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.3.0.Alpha2/windup-web-services-5.3.0.Alpha2.jar returned status 404
 5.3.0.Alpha2	typescript-models	2022-03-15T16:25:54Z	
+5.3.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.3.0.Alpha3/windup-web-services-5.3.0.Alpha3.jar returned status 404
 5.3.0.Alpha3	typescript-models	2022-04-12T10:37:37Z	
+5.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/5.3.0.Final/windup-web-services-5.3.0.Final.jar returned status 404
 5.3.0.Final	typescript-models	2022-04-26T09:16:59Z	
+6.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.0.0.Alpha1/windup-web-services-6.0.0.Alpha1.jar returned status 404
 6.0.0.Alpha1	typescript-models	2022-08-05T15:17:52Z	
+6.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.0.0.Alpha2/windup-web-services-6.0.0.Alpha2.jar returned status 404
 6.0.0.Alpha2	typescript-models	2022-08-08T10:19:00Z	
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.0.0.Final/windup-web-services-6.0.0.Final.jar returned status 404
 6.0.0.Final	typescript-models	2022-08-09T15:17:38Z	
+6.1.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.0.Alpha1/windup-web-services-6.1.0.Alpha1.jar returned status 404
 6.1.0.Alpha1	typescript-models	2022-10-18T11:56:24Z	
+6.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.0.Final/windup-web-services-6.1.0.Final.jar returned status 404
 6.1.0.Final	typescript-models	2022-11-02T10:19:25Z	
+6.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.1.Final/windup-web-services-6.1.1.Final.jar returned status 404
 6.1.1.Final	typescript-models	2023-01-09T14:25:37Z	
+6.1.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.10.Final/windup-web-services-6.1.10.Final.jar returned status 404
 6.1.10.Final	typescript-models	2023-06-28T14:07:16Z	
+6.1.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.11.Final/windup-web-services-6.1.11.Final.jar returned status 404
 6.1.11.Final	typescript-models	2023-06-28T16:29:46Z	
+6.1.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.2.Final/windup-web-services-6.1.2.Final.jar returned status 404
 6.1.2.Final	typescript-models	2023-01-17T11:30:08Z	
+6.1.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.3.Final/windup-web-services-6.1.3.Final.jar returned status 404
 6.1.3.Final	typescript-models	2023-02-27T09:20:41Z	
+6.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.4.Final/windup-web-services-6.1.4.Final.jar returned status 404
 6.1.4.Final	typescript-models	2023-03-03T09:56:33Z	
+6.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.5.Final/windup-web-services-6.1.5.Final.jar returned status 404
 6.1.5.Final	typescript-models	2023-03-14T15:14:15Z	
+6.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.6.Final/windup-web-services-6.1.6.Final.jar returned status 404
 6.1.6.Final	typescript-models	2023-03-16T09:01:12Z	
+6.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.7.Final/windup-web-services-6.1.7.Final.jar returned status 404
 6.1.7.Final	typescript-models	2023-03-28T08:15:35Z	
+6.1.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.8.Final/windup-web-services-6.1.8.Final.jar returned status 404
 6.1.8.Final	typescript-models	2023-04-17T11:33:33Z	
+6.1.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.1.9.Final/windup-web-services-6.1.9.Final.jar returned status 404
 6.1.9.Final	typescript-models	2023-04-20T10:18:53Z	
+6.2.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.0.Alpha1/windup-web-services-6.2.0.Alpha1.jar returned status 404
 6.2.0.Alpha1	typescript-models	2023-04-05T14:50:07Z	
+6.2.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.0.Alpha2/windup-web-services-6.2.0.Alpha2.jar returned status 404
 6.2.0.Alpha2	typescript-models	2023-04-06T07:43:09Z	
+6.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.0.Final/windup-web-services-6.2.0.Final.jar returned status 404
 6.2.0.Final	typescript-models	2023-04-13T10:54:05Z	
+6.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.1.Final/windup-web-services-6.2.1.Final.jar returned status 404
 6.2.1.Final	typescript-models	2023-04-17T08:26:35Z	
+6.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.2.Final/windup-web-services-6.2.2.Final.jar returned status 404
 6.2.2.Final	typescript-models	2023-05-03T08:35:26Z	
+6.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.3.Final/windup-web-services-6.2.3.Final.jar returned status 404
 6.2.3.Final	typescript-models	2023-05-03T11:03:11Z	
+6.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.4.Final/windup-web-services-6.2.4.Final.jar returned status 404
 6.2.4.Final	typescript-models	2023-05-11T08:12:03Z	
+6.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.2.5.Final/windup-web-services-6.2.5.Final.jar returned status 404
 6.2.5.Final	typescript-models	2023-06-15T06:31:57Z	
+6.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.0.Final/windup-web-services-6.3.0.Final.jar returned status 404
 6.3.0.Final	typescript-models	2023-08-01T11:22:42Z	
+6.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.1.Final/windup-web-services-6.3.1.Final.jar returned status 404
 6.3.1.Final	typescript-models	2023-08-25T08:52:17Z	
+6.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.2.Final/windup-web-services-6.3.2.Final.jar returned status 404
 6.3.2.Final	typescript-models	2023-10-13T14:34:46Z	
+6.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.3.Final/windup-web-services-6.3.3.Final.jar returned status 404
 6.3.3.Final	typescript-models	2023-10-23T13:57:05Z	
+6.3.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.4.Final/windup-web-services-6.3.4.Final.jar returned status 404
 6.3.4.Final	typescript-models	2023-12-04T11:16:38Z	
+6.3.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.5.Final/windup-web-services-6.3.5.Final.jar returned status 404
 6.3.5.Final	typescript-models	2024-01-22T09:44:31Z	
+6.3.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.6.Final/windup-web-services-6.3.6.Final.jar returned status 404
 6.3.6.Final	typescript-models	2024-01-22T15:08:59Z	
+6.3.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.7.Final/windup-web-services-6.3.7.Final.jar returned status 404
 6.3.7.Final	typescript-models	2024-04-04T07:55:24Z	
+6.3.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.8.Final/windup-web-services-6.3.8.Final.jar returned status 404
 6.3.8.Final	typescript-models	2024-05-21T08:52:48Z	
+6.3.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/web/windup-web-services/6.3.9.Final/windup-web-services-6.3.9.Final.jar returned status 404
 6.3.9.Final	typescript-models	2024-08-07T10:31:45Z	

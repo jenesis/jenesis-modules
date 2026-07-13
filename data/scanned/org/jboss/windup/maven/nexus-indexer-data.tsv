@@ -1,3 +1,46 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/maven/nexus-indexer-data/1/nexus-indexer-data-1.jar returned status 404
+19.1.0.Alpha1			
+19.1.0.Final			
+19.10.23.Final			
+19.11.14.Final			
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/maven/nexus-indexer-data/2/nexus-indexer-data-2.jar returned status 404
+20.09.23.Final			
+20.10.13.Final			
+20.11.05.Final			
+20.12.17.Final			
+21.01.14.Final			
+21.02.07.Final			
+21.03.07.Final			
+21.03.29.Final			
+21.05.03.Final			
+21.07.18.Final			
+21.11.30.Final			
+22.01.23.Final			
+22.03.16.Final			
+22.03.21.Final			
+22.04.04.Final			
+22.09.28.Final			
+22.10.10.Final			
+22.11.22.Final			
+22.11.28.Final			
+22.12.14.Final			
+23.03.15.Final			
+23.03.23.Final			
+23.05.15.Final			
+23.05.17.Final			
 23.05.17.Final	forge-addon	2023-05-18T15:11:04Z	
+23.05.18.Final			
 23.05.18.Final	forge-addon	2023-05-20T06:32:47Z	
+23.05.25.Final			
+23.05.31.Final			
 23.05.31.Final	forge-addon	2023-06-01T14:36:29Z	
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/maven/nexus-indexer-data/3/nexus-indexer-data-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/maven/nexus-indexer-data/4/nexus-indexer-data-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/windup/maven/nexus-indexer-data/5/nexus-indexer-data-5.jar returned status 404
+6.0			
+6.1			
+6.2			
+6.3			
+6.4			
+6.5			
+7.0			
