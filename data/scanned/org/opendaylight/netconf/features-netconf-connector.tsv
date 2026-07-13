@@ -1,3 +1,13 @@
+1.0.0-Beryllium			
+1.0.1-Beryllium-SR1			
+1.0.2-Beryllium-SR2			
+1.0.3-Beryllium-SR3			
+1.0.4-Beryllium-SR4			
+1.1.0-Boron			
+1.1.1-Boron-SR1			
+1.1.2-Boron-SR2			
+1.1.3-Boron-SR3			
+1.1.4-Boron-SR4			
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.0/features-netconf-connector-1.13.0.jar returned status 404
 1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.1/features-netconf-connector-1.13.1.jar returned status 404
 1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.2/features-netconf-connector-1.13.2.jar returned status 404
@@ -7,10 +17,41 @@
 1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.6/features-netconf-connector-1.13.6.jar returned status 404
 1.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.7/features-netconf-connector-1.13.7.jar returned status 404
 1.13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.8/features-netconf-connector-1.13.8.jar returned status 404
+1.2.0-Carbon			
+1.2.1-Carbon			
+1.2.2-Carbon			
+1.2.3-Carbon			
+1.2.4-Carbon			
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.0/features-netconf-connector-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.1/features-netconf-connector-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.2/features-netconf-connector-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.3/features-netconf-connector-1.3.3.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.4.0/features-netconf-connector-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.4.1/features-netconf-connector-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.4.2/features-netconf-connector-1.4.2.jar returned status 404
+1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.4.3/features-netconf-connector-1.4.3.jar returned status 404
+1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.4.4/features-netconf-connector-1.4.4.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.5.0/features-netconf-connector-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.5.1/features-netconf-connector-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.5.2/features-netconf-connector-1.5.2.jar returned status 404
+1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.5.3/features-netconf-connector-1.5.3.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.6.0/features-netconf-connector-1.6.0.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.6.1/features-netconf-connector-1.6.1.jar returned status 404
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.6.2/features-netconf-connector-1.6.2.jar returned status 404
+1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.6.3/features-netconf-connector-1.6.3.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.0/features-netconf-connector-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.1/features-netconf-connector-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.2/features-netconf-connector-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.3/features-netconf-connector-1.7.3.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.4/features-netconf-connector-1.7.4.jar returned status 404
 1.7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.4.1/features-netconf-connector-1.7.4.1.jar returned status 404
 1.7.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.4.2/features-netconf-connector-1.7.4.2.jar returned status 404
 1.7.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.7.4.3/features-netconf-connector-1.7.4.3.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.8.0/features-netconf-connector-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.8.1/features-netconf-connector-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.8.2/features-netconf-connector-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.8.3/features-netconf-connector-1.8.3.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.9.0/features-netconf-connector-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.9.1/features-netconf-connector-1.9.1.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.9.2/features-netconf-connector-1.9.2.jar returned status 404
 1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.9.3/features-netconf-connector-1.9.3.jar returned status 404
@@ -33,6 +74,7 @@
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/2.0.7/features-netconf-connector-2.0.7.jar returned status 404
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/2.0.8/features-netconf-connector-2.0.8.jar returned status 404
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/2.0.9/features-netconf-connector-2.0.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/3.0.0/features-netconf-connector-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/3.0.1/features-netconf-connector-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/3.0.2/features-netconf-connector-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/3.0.3/features-netconf-connector-3.0.3.jar returned status 404

@@ -2,6 +2,7 @@
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/10.0.1/odl-netconf-truststore-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/10.0.2/odl-netconf-truststore-10.0.2.jar returned status 404
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/10.0.3/odl-netconf-truststore-10.0.3.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/11.0.0/odl-netconf-truststore-11.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/6.0.0/odl-netconf-truststore-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/6.0.1/odl-netconf-truststore-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/6.0.2/odl-netconf-truststore-6.0.2.jar returned status 404
@@ -27,6 +28,7 @@
 7.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/7.0.9/odl-netconf-truststore-7.0.9.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.0/odl-netconf-truststore-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.1/odl-netconf-truststore-8.0.1.jar returned status 404
+8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.10/odl-netconf-truststore-8.0.10.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.2/odl-netconf-truststore-8.0.2.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.3/odl-netconf-truststore-8.0.3.jar returned status 404
 8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.4/odl-netconf-truststore-8.0.4.jar returned status 404
@@ -37,3 +39,4 @@
 8.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/8.0.9/odl-netconf-truststore-8.0.9.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/9.0.0/odl-netconf-truststore-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/9.0.1/odl-netconf-truststore-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-truststore/9.0.2/odl-netconf-truststore-9.0.2.jar returned status 404

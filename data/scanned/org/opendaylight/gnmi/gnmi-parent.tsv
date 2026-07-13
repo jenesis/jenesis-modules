@@ -1,2 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/gnmi-parent/1.0.0/gnmi-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/gnmi-parent/1.0.1/gnmi-parent-1.0.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/gnmi-parent/2.0.0/gnmi-parent-2.0.0.jar returned status 404
 3.0.0		2026-06-01T07:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/gnmi/gnmi-parent/3.0.0/gnmi-parent-3.0.0.jar returned status 404

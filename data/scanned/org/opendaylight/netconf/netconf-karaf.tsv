@@ -2,6 +2,7 @@
 10.0.1		2025-11-13T21:22:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/10.0.1/netconf-karaf-10.0.1.jar returned status 404
 10.0.2		2025-11-19T22:50:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/10.0.2/netconf-karaf-10.0.2.jar returned status 404
 10.0.3		2026-03-15T10:46:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/10.0.3/netconf-karaf-10.0.3.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/11.0.0/netconf-karaf-11.0.0.jar returned status 404
 2.0.10		2021-11-23T10:14:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.10/netconf-karaf-2.0.10.jar returned status 404
 2.0.11		2021-11-25T13:25:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.11/netconf-karaf-2.0.11.jar returned status 404
 2.0.12		2022-01-20T18:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.12/netconf-karaf-2.0.12.jar returned status 404
@@ -18,6 +19,7 @@
 2.0.7		2021-10-27T14:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.7/netconf-karaf-2.0.7.jar returned status 404
 2.0.8		2021-11-07T19:04:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.8/netconf-karaf-2.0.8.jar returned status 404
 2.0.9		2021-11-14T15:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/2.0.9/netconf-karaf-2.0.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/3.0.0/netconf-karaf-3.0.0.jar returned status 404
 3.0.1		2022-04-14T14:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/3.0.1/netconf-karaf-3.0.1.jar returned status 404
 3.0.2		2022-04-25T08:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/3.0.2/netconf-karaf-3.0.2.jar returned status 404
 3.0.3		2022-05-13T06:32:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/3.0.3/netconf-karaf-3.0.3.jar returned status 404
@@ -73,6 +75,7 @@
 7.0.9		2024-09-03T12:26:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/7.0.9/netconf-karaf-7.0.9.jar returned status 404
 8.0.0		2024-08-09T01:10:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.0/netconf-karaf-8.0.0.jar returned status 404
 8.0.1		2024-09-03T17:03:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.1/netconf-karaf-8.0.1.jar returned status 404
+8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.10/netconf-karaf-8.0.10.jar returned status 404
 8.0.2		2024-09-19T11:09:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.2/netconf-karaf-8.0.2.jar returned status 404
 8.0.3		2024-10-24T11:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.3/netconf-karaf-8.0.3.jar returned status 404
 8.0.4		2025-02-17T12:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.4/netconf-karaf-8.0.4.jar returned status 404
@@ -83,3 +86,4 @@
 8.0.9		2025-09-18T11:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/8.0.9/netconf-karaf-8.0.9.jar returned status 404
 9.0.0		2025-07-09T09:41:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/9.0.0/netconf-karaf-9.0.0.jar returned status 404
 9.0.1		2025-09-20T15:04:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/9.0.1/netconf-karaf-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/netconf-karaf/9.0.2/netconf-karaf-9.0.2.jar returned status 404

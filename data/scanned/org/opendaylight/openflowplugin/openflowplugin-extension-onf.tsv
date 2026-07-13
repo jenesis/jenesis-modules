@@ -12,6 +12,7 @@
 0.12.2		2021-08-12T07:15:08Z	
 0.12.3		2021-11-04T01:43:14Z	
 0.12.4		2022-01-28T11:31:55Z	
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/openflowplugin-extension-onf/0.13.0/openflowplugin-extension-onf-0.13.0.jar returned status 404
 0.13.1		2021-11-26T01:33:09Z	
 0.13.2		2022-02-15T11:08:44Z	
 0.13.3		2022-05-27T01:05:53Z	

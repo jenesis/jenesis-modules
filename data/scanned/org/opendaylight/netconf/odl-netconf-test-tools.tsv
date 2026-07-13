@@ -11,6 +11,7 @@
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/10.0.1/odl-netconf-test-tools-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/10.0.2/odl-netconf-test-tools-10.0.2.jar returned status 404
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/10.0.3/odl-netconf-test-tools-10.0.3.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/11.0.0/odl-netconf-test-tools-11.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.0/odl-netconf-test-tools-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.1/odl-netconf-test-tools-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.10/odl-netconf-test-tools-2.0.10.jar returned status 404
@@ -29,6 +30,7 @@
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.7/odl-netconf-test-tools-2.0.7.jar returned status 404
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.8/odl-netconf-test-tools-2.0.8.jar returned status 404
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/2.0.9/odl-netconf-test-tools-2.0.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/3.0.0/odl-netconf-test-tools-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/3.0.1/odl-netconf-test-tools-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/3.0.2/odl-netconf-test-tools-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/3.0.3/odl-netconf-test-tools-3.0.3.jar returned status 404
@@ -84,6 +86,7 @@
 7.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/7.0.9/odl-netconf-test-tools-7.0.9.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.0/odl-netconf-test-tools-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.1/odl-netconf-test-tools-8.0.1.jar returned status 404
+8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.10/odl-netconf-test-tools-8.0.10.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.2/odl-netconf-test-tools-8.0.2.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.3/odl-netconf-test-tools-8.0.3.jar returned status 404
 8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.4/odl-netconf-test-tools-8.0.4.jar returned status 404
@@ -94,3 +97,4 @@
 8.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/8.0.9/odl-netconf-test-tools-8.0.9.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/9.0.0/odl-netconf-test-tools-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/9.0.1/odl-netconf-test-tools-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-test-tools/9.0.2/odl-netconf-test-tools-9.0.2.jar returned status 404

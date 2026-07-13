@@ -13,3 +13,8 @@
 0.2.2-Boron-SR2		2016-12-15T10:35:52Z	
 0.2.3-Boron-SR3		2017-04-05T19:04:21Z	
 0.2.4-Boron-SR4		2017-06-15T22:26:11Z	
+0.3.0-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/iotdm/onem2m-protocol-http/0.3.0-Carbon/onem2m-protocol-http-0.3.0-Carbon.jar returned status 404
+0.3.1-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/iotdm/onem2m-protocol-http/0.3.1-Carbon/onem2m-protocol-http-0.3.1-Carbon.jar returned status 404
+0.3.2-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/iotdm/onem2m-protocol-http/0.3.2-Carbon/onem2m-protocol-http-0.3.2-Carbon.jar returned status 404
+0.3.3-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/iotdm/onem2m-protocol-http/0.3.3-Carbon/onem2m-protocol-http-0.3.3-Carbon.jar returned status 404
+0.3.4-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/iotdm/onem2m-protocol-http/0.3.4-Carbon/onem2m-protocol-http-0.3.4-Carbon.jar returned status 404
