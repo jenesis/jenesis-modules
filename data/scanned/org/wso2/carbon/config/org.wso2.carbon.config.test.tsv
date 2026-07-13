@@ -11,6 +11,8 @@
 2.1.10		2019-04-02T09:55:31Z	
 2.1.11		2019-04-02T14:45:57Z	
 2.1.12		2019-04-08T05:29:00Z	
+2.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/config/org.wso2.carbon.config.test/2.1.13/org.wso2.carbon.config.test-2.1.13.jar returned status 404
+2.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/config/org.wso2.carbon.config.test/2.1.14/org.wso2.carbon.config.test-2.1.14.jar returned status 404
 2.1.15		2019-10-03T16:27:14Z	
 2.1.16		2019-12-17T08:56:12Z	
 2.1.2		2017-09-21T10:01:30Z	

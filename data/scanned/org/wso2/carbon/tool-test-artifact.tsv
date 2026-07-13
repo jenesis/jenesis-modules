@@ -1,8 +1,29 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.0.0/tool-test-artifact-5.0.0.jar returned status 404
+5.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.0.0-beta/tool-test-artifact-5.0.0-beta.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0/tool-test-artifact-5.1.0.jar returned status 404
+5.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-alpha/tool-test-artifact-5.1.0-alpha.jar returned status 404
+5.1.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-alpha2/tool-test-artifact-5.1.0-alpha2.jar returned status 404
+5.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-beta/tool-test-artifact-5.1.0-beta.jar returned status 404
+5.1.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-m1/tool-test-artifact-5.1.0-m1.jar returned status 404
+5.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-m2/tool-test-artifact-5.1.0-m2.jar returned status 404
+5.1.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.0-m3/tool-test-artifact-5.1.0-m3.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.1/tool-test-artifact-5.1.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.1.2/tool-test-artifact-5.1.2.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0/tool-test-artifact-5.2.0.jar returned status 404
+5.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0-alpha/tool-test-artifact-5.2.0-alpha.jar returned status 404
+5.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0-beta/tool-test-artifact-5.2.0-beta.jar returned status 404
+5.2.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0-m2/tool-test-artifact-5.2.0-m2.jar returned status 404
+5.2.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0-m3/tool-test-artifact-5.2.0-m3.jar returned status 404
+5.2.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.0-m4/tool-test-artifact-5.2.0-m4.jar returned status 404
 5.2.1		2017-11-06T11:00:37Z	
+5.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.10/tool-test-artifact-5.2.10.jar returned status 404
+5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.11/tool-test-artifact-5.2.11.jar returned status 404
+5.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.12/tool-test-artifact-5.2.12.jar returned status 404
 5.2.13		2020-07-15T15:37:54Z	
 5.2.14		2022-01-19T11:17:46Z	
 5.2.15		2022-01-24T13:56:37Z	
 5.2.16		2022-02-01T15:58:22Z	
+5.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.17/tool-test-artifact-5.2.17.jar returned status 404
 5.2.18		2022-10-28T12:30:25Z	
 5.2.2		2017-11-29T07:11:58Z	
 5.2.3		2017-12-06T08:13:48Z	
@@ -11,7 +32,10 @@
 5.2.6		2017-12-15T19:41:01Z	
 5.2.7		2018-01-09T10:53:09Z	
 5.2.8		2018-09-04T19:34:13Z	
+5.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.2.9/tool-test-artifact-5.2.9.jar returned status 404
 5.3.0		2022-11-18T02:35:04Z	
 5.3.0-alpha		2022-10-31T07:12:30Z	
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.3.1/tool-test-artifact-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/tool-test-artifact/5.3.2/tool-test-artifact-5.3.2.jar returned status 404
 5.3.3		2026-04-08T09:05:27Z	
 5.3.4		2026-05-13T03:40:12Z	

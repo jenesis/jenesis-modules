@@ -1,4 +1,17 @@
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.3.0/org.wso2.carbon.logging-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.0/org.wso2.carbon.logging-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.1/org.wso2.carbon.logging-4.4.1.jar returned status 404
+4.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.10/org.wso2.carbon.logging-4.4.10.jar returned status 404
+4.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.11/org.wso2.carbon.logging-4.4.11.jar returned status 404
+4.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.12/org.wso2.carbon.logging-4.4.12.jar returned status 404
+4.4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.13/org.wso2.carbon.logging-4.4.13.jar returned status 404
+4.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.14/org.wso2.carbon.logging-4.4.14.jar returned status 404
+4.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.15/org.wso2.carbon.logging-4.4.15.jar returned status 404
+4.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.16/org.wso2.carbon.logging-4.4.16.jar returned status 404
+4.4.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.17/org.wso2.carbon.logging-4.4.17.jar returned status 404
+4.4.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.18/org.wso2.carbon.logging-4.4.18.jar returned status 404
 4.4.19		2017-11-30T14:34:51Z	
+4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.2/org.wso2.carbon.logging-4.4.2.jar returned status 404
 4.4.20		2017-12-05T13:47:43Z	
 4.4.21		2018-01-29T10:18:16Z	
 4.4.22		2018-01-30T12:21:51Z	
@@ -9,6 +22,7 @@
 4.4.27		2018-04-25T14:14:51Z	
 4.4.28		2018-05-08T11:01:37Z	
 4.4.29		2018-05-18T09:16:16Z	
+4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.3/org.wso2.carbon.logging-4.4.3.jar returned status 404
 4.4.30		2018-05-28T06:30:22Z	
 4.4.31		2018-06-04T16:21:26Z	
 4.4.32		2018-06-11T16:52:18Z	
@@ -17,3 +31,10 @@
 4.4.35		2018-09-06T10:07:30Z	
 4.4.36		2018-09-16T10:29:21Z	
 4.4.37		2019-03-08T09:49:10Z	
+4.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.4/org.wso2.carbon.logging-4.4.4.jar returned status 404
+4.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.5/org.wso2.carbon.logging-4.4.5.jar returned status 404
+4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.6/org.wso2.carbon.logging-4.4.6.jar returned status 404
+4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.7/org.wso2.carbon.logging-4.4.7.jar returned status 404
+4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.8/org.wso2.carbon.logging-4.4.8.jar returned status 404
+4.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/4.4.9/org.wso2.carbon.logging-4.4.9.jar returned status 404
+5.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.logging/5.1.0-m2/org.wso2.carbon.logging-5.1.0-m2.jar returned status 404

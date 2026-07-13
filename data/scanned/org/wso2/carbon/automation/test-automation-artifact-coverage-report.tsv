@@ -4,10 +4,17 @@
 4.4.11	jar-with-dependencies	2024-09-11T11:46:29Z	
 4.4.12		2024-09-28T11:44:32Z	
 4.4.12	jar-with-dependencies	2024-09-28T11:44:33Z	
+4.4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.13/test-automation-artifact-coverage-report-4.4.13.jar returned status 404
+4.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.14/test-automation-artifact-coverage-report-4.4.14.jar returned status 404
+4.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.15/test-automation-artifact-coverage-report-4.4.15.jar returned status 404
 4.4.2		2015-07-24T11:46:27Z	
 4.4.2	jar-with-dependencies	2015-07-24T11:46:29Z	
 4.4.3		2015-12-16T09:59:25Z	
 4.4.3	jar-with-dependencies	2015-12-16T09:59:26Z	
+4.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.4/test-automation-artifact-coverage-report-4.4.4.jar returned status 404
+4.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.5/test-automation-artifact-coverage-report-4.4.5.jar returned status 404
+4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.6/test-automation-artifact-coverage-report-4.4.6.jar returned status 404
+4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/automation/test-automation-artifact-coverage-report/4.4.7/test-automation-artifact-coverage-report-4.4.7.jar returned status 404
 4.4.8		2021-04-16T08:44:31Z	
 4.4.8	jar-with-dependencies	2021-04-16T08:50:31Z	
 4.4.9		2021-10-21T10:07:15Z	
