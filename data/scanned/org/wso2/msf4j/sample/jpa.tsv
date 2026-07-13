@@ -1,3 +1,13 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.0.0/jpa-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.1.0/jpa-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.1.1/jpa-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.2.0/jpa-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.2.1/jpa-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.2.2/jpa-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m1/jpa-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m2/jpa-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m3/jpa-2.3.0-m3.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.4.0-m1/jpa-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T06:05:26Z	
 2.4.2		2017-10-27T16:05:09Z	
 2.4.3		2017-12-06T15:14:35Z	

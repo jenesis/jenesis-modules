@@ -1,3 +1,7 @@
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.3.0-m2/websocket-chatApp-sample-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.3.0-m3/websocket-chatApp-sample-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.4.0/websocket-chatApp-sample-2.4.0.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.4.0-m1/websocket-chatApp-sample-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T06:15:40Z	
 2.4.2		2017-10-27T16:06:54Z	
 2.4.3		2017-12-06T15:16:24Z	
@@ -12,13 +16,25 @@
 2.6.3		2018-08-27T10:28:29Z	
 2.6.4		2018-09-04T19:03:45Z	
 2.7.0		2019-03-11T01:29:47Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.1/websocket-chatApp-sample-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.2/websocket-chatApp-sample-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.3/websocket-chatApp-sample-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.4/websocket-chatApp-sample-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.5/websocket-chatApp-sample-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.6/websocket-chatApp-sample-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:39:41Z	
 2.7.8		2021-04-02T11:47:06Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.7.9/websocket-chatApp-sample-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.8.0/websocket-chatApp-sample-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.8.1/websocket-chatApp-sample-2.8.1.jar returned status 404
 2.8.10		2023-01-30T07:51:10Z	
 2.8.11		2023-02-03T19:47:45Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.8.12/websocket-chatApp-sample-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.8.13/websocket-chatApp-sample-2.8.13.jar returned status 404
 2.8.2		2021-04-30T18:52:35Z	
 2.8.3		2021-05-04T03:21:22Z	
 2.8.4		2022-02-18T12:50:50Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/websocket-chatApp-sample/2.8.5/websocket-chatApp-sample-2.8.5.jar returned status 404
 2.8.6		2022-09-19T09:24:02Z	
 2.8.7		2022-11-01T21:59:53Z	
 2.8.8		2023-01-26T08:05:55Z	

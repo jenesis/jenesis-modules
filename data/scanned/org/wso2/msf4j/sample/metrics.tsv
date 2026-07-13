@@ -1,3 +1,14 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.0.0/metrics-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.1.0/metrics-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.1.1/metrics-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.2.0/metrics-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.2.1/metrics-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.2.2/metrics-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.3.0-m1/metrics-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.3.0-m2/metrics-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.3.0-m3/metrics-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.4.0/metrics-2.4.0.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.4.0-m1/metrics-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T05:53:44Z	
 2.4.2		2017-10-27T16:02:33Z	
 2.4.3		2017-12-06T15:11:29Z	
@@ -12,13 +23,25 @@
 2.6.3		2018-08-27T10:22:42Z	
 2.6.4		2018-09-04T18:57:45Z	
 2.7.0		2019-03-11T01:23:52Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.1/metrics-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.2/metrics-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.3/metrics-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.4/metrics-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.5/metrics-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.6/metrics-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:36:13Z	
 2.7.8		2021-04-02T11:43:37Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.7.9/metrics-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.8.0/metrics-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.8.1/metrics-2.8.1.jar returned status 404
 2.8.10		2023-01-30T06:26:48Z	
 2.8.11		2023-02-03T18:20:58Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.8.12/metrics-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.8.13/metrics-2.8.13.jar returned status 404
 2.8.2		2021-04-30T14:07:13Z	
 2.8.3		2021-05-03T22:36:03Z	
 2.8.4		2022-02-18T11:27:07Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/metrics/2.8.5/metrics-2.8.5.jar returned status 404
 2.8.6		2022-09-19T08:00:07Z	
 2.8.7		2022-11-01T20:32:05Z	
 2.8.8		2023-01-26T06:39:21Z	

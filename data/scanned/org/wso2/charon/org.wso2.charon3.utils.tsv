@@ -1,3 +1,5 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.0/org.wso2.charon3.utils-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.1/org.wso2.charon3.utils-3.0.1.jar returned status 404
 3.0.10		2018-04-11T07:04:33Z	
 3.0.11		2018-04-16T04:23:55Z	
 3.0.12		2018-04-17T05:47:04Z	
@@ -8,6 +10,7 @@
 3.0.17		2018-07-09T05:16:40Z	
 3.0.18		2018-07-30T20:15:26Z	
 3.0.19		2018-07-31T04:34:57Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.2/org.wso2.charon3.utils-3.0.2.jar returned status 404
 3.0.20		2018-07-31T10:22:24Z	
 3.0.21		2018-07-31T13:45:12Z	
 3.0.22		2018-07-31T15:35:40Z	
@@ -17,7 +20,12 @@
 3.0.26		2018-08-27T09:47:51Z	
 3.0.28		2018-10-05T11:33:38Z	
 3.0.29		2018-10-16T09:41:32Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.3/org.wso2.charon3.utils-3.0.3.jar returned status 404
 3.0.30		2018-10-17T14:44:10Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.4/org.wso2.charon3.utils-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.5/org.wso2.charon3.utils-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.6/org.wso2.charon3.utils-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.0.7/org.wso2.charon3.utils-3.0.7.jar returned status 404
 3.0.8		2018-03-26T10:01:52Z	
 3.0.9		2018-04-04T09:22:59Z	
 3.1.0		2018-10-18T15:06:15Z	
@@ -27,6 +35,11 @@
 3.1.12		2019-02-27T11:42:45Z	
 3.1.13		2019-03-04T05:36:59Z	
 3.1.14		2019-03-08T07:15:56Z	
+3.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.15/org.wso2.charon3.utils-3.1.15.jar returned status 404
+3.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.16/org.wso2.charon3.utils-3.1.16.jar returned status 404
+3.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.17/org.wso2.charon3.utils-3.1.17.jar returned status 404
+3.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.18/org.wso2.charon3.utils-3.1.18.jar returned status 404
+3.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.19/org.wso2.charon3.utils-3.1.19.jar returned status 404
 3.1.2		2018-10-20T04:22:11Z	
 3.1.20		2019-04-24T06:21:18Z	
 3.1.21		2019-04-29T11:07:03Z	
@@ -40,13 +53,23 @@
 3.1.29		2019-06-04T06:02:09Z	
 3.1.3		2018-11-01T08:57:49Z	
 3.1.30		2019-06-04T06:08:47Z	
+3.1.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.31/org.wso2.charon3.utils-3.1.31.jar returned status 404
+3.1.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.32/org.wso2.charon3.utils-3.1.32.jar returned status 404
+3.1.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.33/org.wso2.charon3.utils-3.1.33.jar returned status 404
+3.1.33-wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.1.33-wso2v3/org.wso2.charon3.utils-3.1.33-wso2v3.jar returned status 404
 3.1.4		2018-11-01T11:32:49Z	
 3.1.5		2018-11-05T11:55:10Z	
 3.1.6		2018-11-05T12:14:49Z	
 3.1.7		2018-11-05T18:12:56Z	
 3.1.8		2018-11-17T02:48:44Z	
 3.1.9		2018-11-17T15:21:15Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.2.0/org.wso2.charon3.utils-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.2.1/org.wso2.charon3.utils-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.2.2/org.wso2.charon3.utils-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.2.3/org.wso2.charon3.utils-3.2.3.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.0/org.wso2.charon3.utils-3.3.0.jar returned status 404
 3.3.1		2019-10-25T00:44:28Z	
+3.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.10/org.wso2.charon3.utils-3.3.10.jar returned status 404
 3.3.11		2020-02-12T11:40:43Z	
 3.3.12		2020-02-14T06:47:35Z	
 3.3.13		2020-02-18T11:51:13Z	
@@ -56,6 +79,7 @@
 3.3.17		2020-06-18T12:08:12Z	
 3.3.18		2020-07-17T11:56:59Z	
 3.3.19		2020-08-12T17:51:13Z	
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.2/org.wso2.charon3.utils-3.3.2.jar returned status 404
 3.3.20		2020-09-16T04:01:50Z	
 3.3.21		2020-09-16T06:38:23Z	
 3.3.22		2020-10-10T15:38:25Z	
@@ -77,12 +101,18 @@
 3.3.37		2021-03-22T06:21:06Z	
 3.3.38		2021-04-01T08:53:34Z	
 3.3.39		2021-04-26T06:55:23Z	
+3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.4/org.wso2.charon3.utils-3.3.4.jar returned status 404
 3.3.40		2021-05-13T06:58:05Z	
 3.3.41		2021-05-14T05:48:52Z	
 3.3.42		2021-05-14T14:36:51Z	
 3.3.43		2021-05-17T08:07:06Z	
 3.3.44		2021-05-18T04:26:47Z	
 3.3.45		2022-02-03T19:19:04Z	
+3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.5/org.wso2.charon3.utils-3.3.5.jar returned status 404
+3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.6/org.wso2.charon3.utils-3.3.6.jar returned status 404
+3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.7/org.wso2.charon3.utils-3.3.7.jar returned status 404
+3.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.8/org.wso2.charon3.utils-3.3.8.jar returned status 404
+3.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.3.9/org.wso2.charon3.utils-3.3.9.jar returned status 404
 3.4.0		2021-05-21T04:09:19Z	
 3.4.1		2021-05-21T04:18:12Z	
 3.4.10		2021-06-08T00:48:07Z	
@@ -100,6 +130,7 @@
 3.4.21		2021-09-06T09:30:15Z	
 3.4.22		2021-09-30T06:37:54Z	
 3.4.23		2021-12-10T13:49:53Z	
+3.4.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/3.4.24/org.wso2.charon3.utils-3.4.24.jar returned status 404
 3.4.25		2022-07-12T05:01:25Z	
 3.4.3		2021-05-24T06:22:15Z	
 3.4.4		2021-05-25T06:43:58Z	
@@ -110,12 +141,63 @@
 3.4.9		2021-06-07T17:39:44Z	
 4.0.0		2022-07-12T09:48:10Z	
 4.0.1		2022-07-12T16:32:45Z	
+4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.10/org.wso2.charon3.utils-4.0.10.jar returned status 404
+4.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.11/org.wso2.charon3.utils-4.0.11.jar returned status 404
+4.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.12/org.wso2.charon3.utils-4.0.12.jar returned status 404
+4.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.13/org.wso2.charon3.utils-4.0.13.jar returned status 404
+4.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.14/org.wso2.charon3.utils-4.0.14.jar returned status 404
+4.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.15/org.wso2.charon3.utils-4.0.15.jar returned status 404
+4.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.16/org.wso2.charon3.utils-4.0.16.jar returned status 404
+4.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.17/org.wso2.charon3.utils-4.0.17.jar returned status 404
 4.0.18		2024-03-04T03:58:38Z	
+4.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.19/org.wso2.charon3.utils-4.0.19.jar returned status 404
 4.0.2		2022-07-22T04:02:39Z	
+4.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.20/org.wso2.charon3.utils-4.0.20.jar returned status 404
+4.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.21/org.wso2.charon3.utils-4.0.21.jar returned status 404
+4.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.22/org.wso2.charon3.utils-4.0.22.jar returned status 404
+4.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.23/org.wso2.charon3.utils-4.0.23.jar returned status 404
+4.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.24/org.wso2.charon3.utils-4.0.24.jar returned status 404
+4.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.25/org.wso2.charon3.utils-4.0.25.jar returned status 404
+4.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.26/org.wso2.charon3.utils-4.0.26.jar returned status 404
+4.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.27/org.wso2.charon3.utils-4.0.27.jar returned status 404
+4.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.28/org.wso2.charon3.utils-4.0.28.jar returned status 404
 4.0.29		2025-01-20T08:41:26Z	
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.3/org.wso2.charon3.utils-4.0.3.jar returned status 404
+4.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.30/org.wso2.charon3.utils-4.0.30.jar returned status 404
+4.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.31/org.wso2.charon3.utils-4.0.31.jar returned status 404
+4.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.32/org.wso2.charon3.utils-4.0.32.jar returned status 404
+4.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.33/org.wso2.charon3.utils-4.0.33.jar returned status 404
+4.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.34/org.wso2.charon3.utils-4.0.34.jar returned status 404
+4.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.35/org.wso2.charon3.utils-4.0.35.jar returned status 404
+4.0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.36/org.wso2.charon3.utils-4.0.36.jar returned status 404
+4.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.37/org.wso2.charon3.utils-4.0.37.jar returned status 404
+4.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.38/org.wso2.charon3.utils-4.0.38.jar returned status 404
+4.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.39/org.wso2.charon3.utils-4.0.39.jar returned status 404
 4.0.4		2022-08-08T07:07:39Z	
+4.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.40/org.wso2.charon3.utils-4.0.40.jar returned status 404
+4.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.41/org.wso2.charon3.utils-4.0.41.jar returned status 404
+4.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.42/org.wso2.charon3.utils-4.0.42.jar returned status 404
+4.0.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.43/org.wso2.charon3.utils-4.0.43.jar returned status 404
+4.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.44/org.wso2.charon3.utils-4.0.44.jar returned status 404
+4.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.45/org.wso2.charon3.utils-4.0.45.jar returned status 404
+4.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.46/org.wso2.charon3.utils-4.0.46.jar returned status 404
+4.0.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.47/org.wso2.charon3.utils-4.0.47.jar returned status 404
+4.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.48/org.wso2.charon3.utils-4.0.48.jar returned status 404
+4.0.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.49/org.wso2.charon3.utils-4.0.49.jar returned status 404
 4.0.5		2022-11-28T11:43:41Z	
+4.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.50/org.wso2.charon3.utils-4.0.50.jar returned status 404
+4.0.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.51/org.wso2.charon3.utils-4.0.51.jar returned status 404
+4.0.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.52/org.wso2.charon3.utils-4.0.52.jar returned status 404
+4.0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.53/org.wso2.charon3.utils-4.0.53.jar returned status 404
+4.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.54/org.wso2.charon3.utils-4.0.54.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.6/org.wso2.charon3.utils-4.0.6.jar returned status 404
 4.0.7		2023-03-07T04:06:09Z	
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.8/org.wso2.charon3.utils-4.0.8.jar returned status 404
+4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/4.0.9/org.wso2.charon3.utils-4.0.9.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/5.0.0/org.wso2.charon3.utils-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/5.0.1/org.wso2.charon3.utils-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/5.0.2/org.wso2.charon3.utils-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/charon/org.wso2.charon3.utils/5.0.3/org.wso2.charon3.utils-5.0.3.jar returned status 404
 5.0.4		2026-02-12T13:17:55Z	
 5.1.0		2026-03-04T08:44:32Z	
 5.1.1		2026-03-04T14:39:52Z	

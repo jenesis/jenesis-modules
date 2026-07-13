@@ -8,6 +8,16 @@
 5.2.0		2019-02-27T10:59:31Z	
 5.2.1		2019-03-13T18:03:44Z	
 5.2.10		2019-10-02T10:15:20Z	
+5.2.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.100/org.wso2.maven.core-5.2.100.jar returned status 404
+5.2.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.101/org.wso2.maven.core-5.2.101.jar returned status 404
+5.2.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.102/org.wso2.maven.core-5.2.102.jar returned status 404
+5.2.103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.103/org.wso2.maven.core-5.2.103.jar returned status 404
+5.2.104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.104/org.wso2.maven.core-5.2.104.jar returned status 404
+5.2.105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.105/org.wso2.maven.core-5.2.105.jar returned status 404
+5.2.106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.106/org.wso2.maven.core-5.2.106.jar returned status 404
+5.2.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.107/org.wso2.maven.core-5.2.107.jar returned status 404
+5.2.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.108/org.wso2.maven.core-5.2.108.jar returned status 404
+5.2.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.109/org.wso2.maven.core-5.2.109.jar returned status 404
 5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.11/org.wso2.maven.core-5.2.11.jar returned status 404
 5.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.12/org.wso2.maven.core-5.2.12.jar returned status 404
 5.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.13/org.wso2.maven.core-5.2.13.jar returned status 404
@@ -59,7 +69,15 @@
 5.2.55		2024-06-17T03:29:19Z	
 5.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.56/org.wso2.maven.core-5.2.56.jar returned status 404
 5.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.57/org.wso2.maven.core-5.2.57.jar returned status 404
+5.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.58/org.wso2.maven.core-5.2.58.jar returned status 404
+5.2.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.59/org.wso2.maven.core-5.2.59.jar returned status 404
 5.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.6/org.wso2.maven.core-5.2.6.jar returned status 404
+5.2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.60/org.wso2.maven.core-5.2.60.jar returned status 404
+5.2.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.61/org.wso2.maven.core-5.2.61.jar returned status 404
+5.2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.62/org.wso2.maven.core-5.2.62.jar returned status 404
+5.2.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.63/org.wso2.maven.core-5.2.63.jar returned status 404
+5.2.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.64/org.wso2.maven.core-5.2.64.jar returned status 404
+5.2.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.65/org.wso2.maven.core-5.2.65.jar returned status 404
 5.2.66		2024-09-05T11:21:36Z	
 5.2.67		2024-09-06T06:05:54Z	
 5.2.68		2024-09-10T06:22:50Z	
@@ -70,15 +88,56 @@
 5.2.72		2024-09-23T17:34:14Z	
 5.2.73		2024-09-30T10:27:26Z	
 5.2.74		2024-10-02T03:36:53Z	
+5.2.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.75/org.wso2.maven.core-5.2.75.jar returned status 404
+5.2.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.76/org.wso2.maven.core-5.2.76.jar returned status 404
+5.2.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.77/org.wso2.maven.core-5.2.77.jar returned status 404
+5.2.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.78/org.wso2.maven.core-5.2.78.jar returned status 404
+5.2.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.79/org.wso2.maven.core-5.2.79.jar returned status 404
 5.2.8		2019-09-25T13:21:19Z	
+5.2.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.80/org.wso2.maven.core-5.2.80.jar returned status 404
+5.2.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.81/org.wso2.maven.core-5.2.81.jar returned status 404
+5.2.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.82/org.wso2.maven.core-5.2.82.jar returned status 404
 5.2.83		2025-01-20T06:30:51Z	
 5.2.84		2025-01-20T06:46:20Z	
+5.2.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.85/org.wso2.maven.core-5.2.85.jar returned status 404
+5.2.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.86/org.wso2.maven.core-5.2.86.jar returned status 404
+5.2.87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.87/org.wso2.maven.core-5.2.87.jar returned status 404
+5.2.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.88/org.wso2.maven.core-5.2.88.jar returned status 404
+5.2.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.89/org.wso2.maven.core-5.2.89.jar returned status 404
 5.2.9		2019-09-27T14:35:46Z	
+5.2.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.90/org.wso2.maven.core-5.2.90.jar returned status 404
+5.2.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.91/org.wso2.maven.core-5.2.91.jar returned status 404
+5.2.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.92/org.wso2.maven.core-5.2.92.jar returned status 404
+5.2.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.93/org.wso2.maven.core-5.2.93.jar returned status 404
+5.2.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.94/org.wso2.maven.core-5.2.94.jar returned status 404
+5.2.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.95/org.wso2.maven.core-5.2.95.jar returned status 404
+5.2.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.96/org.wso2.maven.core-5.2.96.jar returned status 404
+5.2.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.2.97/org.wso2.maven.core-5.2.97.jar returned status 404
 5.2.98		2025-02-18T04:26:10Z	
 5.2.99		2025-02-18T12:54:38Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.0/org.wso2.maven.core-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.1/org.wso2.maven.core-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.2/org.wso2.maven.core-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.3/org.wso2.maven.core-5.3.3.jar returned status 404
+5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.4/org.wso2.maven.core-5.3.4.jar returned status 404
+5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.5/org.wso2.maven.core-5.3.5.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.6/org.wso2.maven.core-5.3.6.jar returned status 404
+5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.3.7/org.wso2.maven.core-5.3.7.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.0/org.wso2.maven.core-5.4.0.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.1/org.wso2.maven.core-5.4.1.jar returned status 404
+5.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.10/org.wso2.maven.core-5.4.10.jar returned status 404
+5.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.11/org.wso2.maven.core-5.4.11.jar returned status 404
 5.4.12		2025-11-17T08:44:42Z	
 5.4.13		2025-12-03T10:13:58Z	
 5.4.14		2025-12-05T05:59:59Z	
 5.4.15		2026-02-05T07:18:28Z	
 5.4.16		2026-04-22T17:36:40Z	
 5.4.17		2026-07-03T10:27:07Z	
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.2/org.wso2.maven.core-5.4.2.jar returned status 404
+5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.3/org.wso2.maven.core-5.4.3.jar returned status 404
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.4/org.wso2.maven.core-5.4.4.jar returned status 404
+5.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.5/org.wso2.maven.core-5.4.5.jar returned status 404
+5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.6/org.wso2.maven.core-5.4.6.jar returned status 404
+5.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.7/org.wso2.maven.core-5.4.7.jar returned status 404
+5.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.8/org.wso2.maven.core-5.4.8.jar returned status 404
+5.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/org.wso2.maven.core/5.4.9/org.wso2.maven.core-5.4.9.jar returned status 404

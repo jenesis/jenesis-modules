@@ -1,3 +1,9 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/1.0.0/maven-datasource-plugin-1.0.0.jar returned status 404
+5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.11/maven-datasource-plugin-5.2.11.jar returned status 404
+5.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.12/maven-datasource-plugin-5.2.12.jar returned status 404
+5.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.13/maven-datasource-plugin-5.2.13.jar returned status 404
+5.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.14/maven-datasource-plugin-5.2.14.jar returned status 404
+5.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.15/maven-datasource-plugin-5.2.15.jar returned status 404
 5.2.16		2020-02-12T08:35:18Z	
 5.2.17		2020-02-25T05:18:16Z	
 5.2.18		2020-02-26T11:09:20Z	
@@ -22,14 +28,32 @@
 5.2.37		2021-08-20T10:35:56Z	
 5.2.38		2021-09-07T08:25:12Z	
 5.2.39		2022-11-29T07:47:33Z	
+5.2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.40/maven-datasource-plugin-5.2.40.jar returned status 404
 5.2.41		2023-01-18T07:47:45Z	
 5.2.42		2023-01-26T04:15:28Z	
+5.2.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.43/maven-datasource-plugin-5.2.43.jar returned status 404
+5.2.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.44/maven-datasource-plugin-5.2.44.jar returned status 404
+5.2.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.45/maven-datasource-plugin-5.2.45.jar returned status 404
+5.2.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.46/maven-datasource-plugin-5.2.46.jar returned status 404
+5.2.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.47/maven-datasource-plugin-5.2.47.jar returned status 404
+5.2.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.48/maven-datasource-plugin-5.2.48.jar returned status 404
+5.2.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.49/maven-datasource-plugin-5.2.49.jar returned status 404
 5.2.50		2024-04-22T06:52:30Z	
 5.2.51		2024-04-22T07:20:15Z	
 5.2.52		2024-06-06T03:04:07Z	
 5.2.53		2024-06-11T10:24:34Z	
 5.2.54		2024-06-12T10:22:50Z	
 5.2.55		2024-06-17T03:29:54Z	
+5.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.56/maven-datasource-plugin-5.2.56.jar returned status 404
+5.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.57/maven-datasource-plugin-5.2.57.jar returned status 404
+5.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.58/maven-datasource-plugin-5.2.58.jar returned status 404
+5.2.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.59/maven-datasource-plugin-5.2.59.jar returned status 404
+5.2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.60/maven-datasource-plugin-5.2.60.jar returned status 404
+5.2.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.61/maven-datasource-plugin-5.2.61.jar returned status 404
+5.2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.62/maven-datasource-plugin-5.2.62.jar returned status 404
+5.2.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.63/maven-datasource-plugin-5.2.63.jar returned status 404
+5.2.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.64/maven-datasource-plugin-5.2.64.jar returned status 404
+5.2.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.65/maven-datasource-plugin-5.2.65.jar returned status 404
 5.2.66		2024-09-05T11:22:09Z	
 5.2.67		2024-09-06T06:06:26Z	
 5.2.68		2024-09-10T06:23:23Z	
@@ -39,7 +63,28 @@
 5.2.72		2024-09-23T17:34:49Z	
 5.2.73		2024-09-30T10:28:03Z	
 5.2.74		2024-10-02T03:37:29Z	
+5.2.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.75/maven-datasource-plugin-5.2.75.jar returned status 404
+5.2.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.76/maven-datasource-plugin-5.2.76.jar returned status 404
+5.2.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.77/maven-datasource-plugin-5.2.77.jar returned status 404
+5.2.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.78/maven-datasource-plugin-5.2.78.jar returned status 404
+5.2.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.79/maven-datasource-plugin-5.2.79.jar returned status 404
+5.2.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.80/maven-datasource-plugin-5.2.80.jar returned status 404
+5.2.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.81/maven-datasource-plugin-5.2.81.jar returned status 404
+5.2.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.82/maven-datasource-plugin-5.2.82.jar returned status 404
 5.2.83		2025-01-20T06:31:26Z	
 5.2.84		2025-01-20T06:46:53Z	
+5.2.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.85/maven-datasource-plugin-5.2.85.jar returned status 404
+5.2.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.86/maven-datasource-plugin-5.2.86.jar returned status 404
+5.2.87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.87/maven-datasource-plugin-5.2.87.jar returned status 404
+5.2.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.88/maven-datasource-plugin-5.2.88.jar returned status 404
+5.2.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.89/maven-datasource-plugin-5.2.89.jar returned status 404
+5.2.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.90/maven-datasource-plugin-5.2.90.jar returned status 404
+5.2.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.91/maven-datasource-plugin-5.2.91.jar returned status 404
+5.2.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.92/maven-datasource-plugin-5.2.92.jar returned status 404
+5.2.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.93/maven-datasource-plugin-5.2.93.jar returned status 404
+5.2.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.94/maven-datasource-plugin-5.2.94.jar returned status 404
+5.2.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.95/maven-datasource-plugin-5.2.95.jar returned status 404
+5.2.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.96/maven-datasource-plugin-5.2.96.jar returned status 404
+5.2.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/maven-datasource-plugin/5.2.97/maven-datasource-plugin-5.2.97.jar returned status 404
 5.2.98		2025-02-18T04:26:45Z	
 5.2.99		2025-02-18T12:55:12Z	

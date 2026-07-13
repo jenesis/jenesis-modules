@@ -2,6 +2,7 @@
 0.2.0		2018-11-13T04:58:32Z	
 0.2.1		2019-01-24T08:40:51Z	
 0.3.0		2019-01-30T06:25:01Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/performance/common/payload-generator/0.4.0/payload-generator-0.4.0.jar returned status 404
 0.4.1		2020-02-12T05:23:11Z	
 0.4.2		2020-02-13T08:23:20Z	
 0.4.3		2020-02-14T08:09:29Z	

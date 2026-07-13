@@ -4,9 +4,12 @@
 6.0.53		2018-04-05T12:06:03Z	
 6.0.54		2018-04-10T09:28:53Z	
 6.0.55		2018-05-01T08:31:56Z	
+6.0.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/transport/file/org.wso2.transport.local-file-system/6.0.56/org.wso2.transport.local-file-system-6.0.56.jar returned status 404
+6.0.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/transport/file/org.wso2.transport.local-file-system/6.0.57/org.wso2.transport.local-file-system-6.0.57.jar returned status 404
 6.0.58		2019-09-27T11:26:47Z	
 6.0.59		2019-10-02T11:41:15Z	
 6.0.60		2019-10-03T08:21:22Z	
+6.0.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/transport/file/org.wso2.transport.local-file-system/6.0.61/org.wso2.transport.local-file-system-6.0.61.jar returned status 404
 6.0.62		2020-02-07T09:43:53Z	
 6.0.63		2020-02-10T05:20:08Z	
 6.0.64		2020-03-27T07:20:49Z	

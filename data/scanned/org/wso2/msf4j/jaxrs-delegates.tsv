@@ -1,7 +1,15 @@
 1.0.0		2016-02-15T13:44:52Z	
 2.0.0		2016-07-27T10:47:04Z	
 2.1.0		2016-11-28T11:43:04Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.1.1/jaxrs-delegates-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.2.0/jaxrs-delegates-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.2.1/jaxrs-delegates-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.2.2/jaxrs-delegates-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.3.0-m1/jaxrs-delegates-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.3.0-m2/jaxrs-delegates-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.3.0-m3/jaxrs-delegates-2.3.0-m3.jar returned status 404
 2.4.0		2017-09-26T05:07:54Z	
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.4.0-m1/jaxrs-delegates-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-24T11:31:14Z	
 2.4.2		2017-11-07T15:57:34Z	
 2.4.3		2017-12-06T15:05:17Z	
@@ -16,13 +24,25 @@
 2.6.3		2018-08-27T10:16:52Z	
 2.6.4		2018-09-04T18:51:57Z	
 2.7.0		2019-03-11T01:18:17Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.1/jaxrs-delegates-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.2/jaxrs-delegates-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.3/jaxrs-delegates-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.4/jaxrs-delegates-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.5/jaxrs-delegates-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.6/jaxrs-delegates-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:31:33Z	
 2.7.8		2021-04-02T11:38:57Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.7.9/jaxrs-delegates-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.8.0/jaxrs-delegates-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.8.1/jaxrs-delegates-2.8.1.jar returned status 404
 2.8.10		2023-01-30T02:51:44Z	
 2.8.11		2023-02-03T14:47:39Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.8.12/jaxrs-delegates-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.8.13/jaxrs-delegates-2.8.13.jar returned status 404
 2.8.2		2021-04-30T09:31:31Z	
 2.8.3		2021-05-03T18:00:24Z	
 2.8.4		2022-02-18T07:55:45Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jaxrs-delegates/2.8.5/jaxrs-delegates-2.8.5.jar returned status 404
 2.8.6		2022-09-19T04:28:51Z	
 2.8.7		2022-11-01T16:56:03Z	
 2.8.8		2023-01-26T03:05:19Z	
