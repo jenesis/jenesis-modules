@@ -1,9 +1,20 @@
+5.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.16/org.wso2.carbon.identity.application.authenticator.fido2-5.1.16.jar returned status 404
+5.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.17/org.wso2.carbon.identity.application.authenticator.fido2-5.1.17.jar returned status 404
+5.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.18/org.wso2.carbon.identity.application.authenticator.fido2-5.1.18.jar returned status 404
+5.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.19/org.wso2.carbon.identity.application.authenticator.fido2-5.1.19.jar returned status 404
+5.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.20/org.wso2.carbon.identity.application.authenticator.fido2-5.1.20.jar returned status 404
+5.1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.21/org.wso2.carbon.identity.application.authenticator.fido2-5.1.21.jar returned status 404
+5.1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.22/org.wso2.carbon.identity.application.authenticator.fido2-5.1.22.jar returned status 404
+5.1.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.23/org.wso2.carbon.identity.application.authenticator.fido2-5.1.23.jar returned status 404
+5.1.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.1.24/org.wso2.carbon.identity.application.authenticator.fido2-5.1.24.jar returned status 404
 5.1.25		2019-12-17T05:36:50Z	
 5.2.0		2019-12-17T19:28:49Z	
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.2.1/org.wso2.carbon.identity.application.authenticator.fido2-5.2.1.jar returned status 404
 5.2.10		2021-03-12T13:58:28Z	
 5.2.11		2022-02-03T17:55:03Z	
 5.2.12		2022-02-08T10:54:38Z	
 5.2.13		2022-02-13T10:10:19Z	
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.2.2/org.wso2.carbon.identity.application.authenticator.fido2-5.2.2.jar returned status 404
 5.2.3		2020-02-25T09:43:35Z	
 5.2.4		2020-04-23T04:42:05Z	
 5.2.5		2020-08-26T09:41:26Z	
@@ -25,26 +36,67 @@
 5.3.19		2022-02-10T09:56:17Z	
 5.3.2		2021-05-17T12:21:36Z	
 5.3.20		2022-02-17T03:37:09Z	
+5.3.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.21/org.wso2.carbon.identity.application.authenticator.fido2-5.3.21.jar returned status 404
+5.3.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.22/org.wso2.carbon.identity.application.authenticator.fido2-5.3.22.jar returned status 404
+5.3.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.23/org.wso2.carbon.identity.application.authenticator.fido2-5.3.23.jar returned status 404
+5.3.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.24/org.wso2.carbon.identity.application.authenticator.fido2-5.3.24.jar returned status 404
 5.3.25		2022-07-15T08:36:22Z	
+5.3.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.26/org.wso2.carbon.identity.application.authenticator.fido2-5.3.26.jar returned status 404
 5.3.27		2022-08-23T10:39:48Z	
 5.3.28		2022-09-14T04:03:48Z	
 5.3.29		2022-10-20T12:43:41Z	
 5.3.3		2021-06-11T18:09:22Z	
 5.3.30		2022-11-03T15:43:06Z	
+5.3.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.31/org.wso2.carbon.identity.application.authenticator.fido2-5.3.31.jar returned status 404
+5.3.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.32/org.wso2.carbon.identity.application.authenticator.fido2-5.3.32.jar returned status 404
 5.3.33		2023-03-20T06:24:17Z	
+5.3.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.34/org.wso2.carbon.identity.application.authenticator.fido2-5.3.34.jar returned status 404
+5.3.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.35/org.wso2.carbon.identity.application.authenticator.fido2-5.3.35.jar returned status 404
+5.3.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.36/org.wso2.carbon.identity.application.authenticator.fido2-5.3.36.jar returned status 404
+5.3.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.37/org.wso2.carbon.identity.application.authenticator.fido2-5.3.37.jar returned status 404
+5.3.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.38/org.wso2.carbon.identity.application.authenticator.fido2-5.3.38.jar returned status 404
+5.3.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.39/org.wso2.carbon.identity.application.authenticator.fido2-5.3.39.jar returned status 404
 5.3.4		2021-06-14T04:25:03Z	
+5.3.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.40/org.wso2.carbon.identity.application.authenticator.fido2-5.3.40.jar returned status 404
+5.3.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.41/org.wso2.carbon.identity.application.authenticator.fido2-5.3.41.jar returned status 404
+5.3.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.3.42/org.wso2.carbon.identity.application.authenticator.fido2-5.3.42.jar returned status 404
 5.3.5		2021-07-16T09:54:52Z	
 5.3.6		2021-08-09T13:16:24Z	
 5.3.7		2021-08-20T12:14:07Z	
 5.3.8		2021-08-21T16:32:00Z	
 5.3.9		2021-09-15T09:56:56Z	
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.0/org.wso2.carbon.identity.application.authenticator.fido2-5.4.0.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.1/org.wso2.carbon.identity.application.authenticator.fido2-5.4.1.jar returned status 404
 5.4.10		2024-04-16T04:43:21Z	
 5.4.11		2024-04-17T06:49:47Z	
 5.4.12		2024-04-26T19:16:24Z	
 5.4.13		2024-05-07T04:27:50Z	
+5.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.14/org.wso2.carbon.identity.application.authenticator.fido2-5.4.14.jar returned status 404
+5.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.15/org.wso2.carbon.identity.application.authenticator.fido2-5.4.15.jar returned status 404
+5.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.16/org.wso2.carbon.identity.application.authenticator.fido2-5.4.16.jar returned status 404
 5.4.17		2025-01-20T06:57:16Z	
+5.4.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.18/org.wso2.carbon.identity.application.authenticator.fido2-5.4.18.jar returned status 404
+5.4.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.19/org.wso2.carbon.identity.application.authenticator.fido2-5.4.19.jar returned status 404
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.2/org.wso2.carbon.identity.application.authenticator.fido2-5.4.2.jar returned status 404
+5.4.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.20/org.wso2.carbon.identity.application.authenticator.fido2-5.4.20.jar returned status 404
+5.4.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.21/org.wso2.carbon.identity.application.authenticator.fido2-5.4.21.jar returned status 404
+5.4.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.22/org.wso2.carbon.identity.application.authenticator.fido2-5.4.22.jar returned status 404
+5.4.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.23/org.wso2.carbon.identity.application.authenticator.fido2-5.4.23.jar returned status 404
+5.4.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.24/org.wso2.carbon.identity.application.authenticator.fido2-5.4.24.jar returned status 404
+5.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.25/org.wso2.carbon.identity.application.authenticator.fido2-5.4.25.jar returned status 404
+5.4.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.26/org.wso2.carbon.identity.application.authenticator.fido2-5.4.26.jar returned status 404
+5.4.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.27/org.wso2.carbon.identity.application.authenticator.fido2-5.4.27.jar returned status 404
+5.4.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.28/org.wso2.carbon.identity.application.authenticator.fido2-5.4.28.jar returned status 404
+5.4.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.29/org.wso2.carbon.identity.application.authenticator.fido2-5.4.29.jar returned status 404
+5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.3/org.wso2.carbon.identity.application.authenticator.fido2-5.4.3.jar returned status 404
 5.4.30		2025-12-03T08:22:13Z	
 5.4.31		2026-01-15T06:37:03Z	
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.4/org.wso2.carbon.identity.application.authenticator.fido2-5.4.4.jar returned status 404
+5.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.5/org.wso2.carbon.identity.application.authenticator.fido2-5.4.5.jar returned status 404
+5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.6/org.wso2.carbon.identity.application.authenticator.fido2-5.4.6.jar returned status 404
+5.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.7/org.wso2.carbon.identity.application.authenticator.fido2-5.4.7.jar returned status 404
+5.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.8/org.wso2.carbon.identity.application.authenticator.fido2-5.4.8.jar returned status 404
+5.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/fido/org.wso2.carbon.identity.application.authenticator.fido2/5.4.9/org.wso2.carbon.identity.application.authenticator.fido2-5.4.9.jar returned status 404
 5.5.0		2026-02-12T15:08:56Z	
 5.5.1		2026-02-23T04:58:23Z	
 6.0.0		2026-03-03T09:39:10Z	

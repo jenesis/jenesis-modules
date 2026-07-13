@@ -2,4 +2,8 @@
 0.1.1		2017-03-29T11:59:26Z	
 0.1.2		2017-03-29T15:07:52Z	
 0.1.3		2017-11-24T15:58:26Z	
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/gateway/org.wso2.carbon.identity.gateway/0.1.4/org.wso2.carbon.identity.gateway-0.1.4.jar returned status 404
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/gateway/org.wso2.carbon.identity.gateway/0.1.5/org.wso2.carbon.identity.gateway-0.1.5.jar returned status 404
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/gateway/org.wso2.carbon.identity.gateway/0.1.6/org.wso2.carbon.identity.gateway-0.1.6.jar returned status 404
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/gateway/org.wso2.carbon.identity.gateway/0.1.7/org.wso2.carbon.identity.gateway-0.1.7.jar returned status 404
 0.1.8		2020-08-27T04:12:55Z	

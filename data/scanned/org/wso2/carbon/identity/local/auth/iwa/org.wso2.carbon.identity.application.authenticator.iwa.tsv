@@ -1,9 +1,25 @@
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.0/org.wso2.carbon.identity.application.authenticator.iwa-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.1/org.wso2.carbon.identity.application.authenticator.iwa-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.2/org.wso2.carbon.identity.application.authenticator.iwa-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.3/org.wso2.carbon.identity.application.authenticator.iwa-5.2.3.jar returned status 404
+5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.4/org.wso2.carbon.identity.application.authenticator.iwa-5.2.4.jar returned status 404
+5.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.2.5/org.wso2.carbon.identity.application.authenticator.iwa-5.2.5.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.0/org.wso2.carbon.identity.application.authenticator.iwa-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.1/org.wso2.carbon.identity.application.authenticator.iwa-5.3.1.jar returned status 404
 5.3.10		2017-10-12T14:30:10Z	
 5.3.11		2017-11-24T14:13:02Z	
+5.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.12/org.wso2.carbon.identity.application.authenticator.iwa-5.3.12.jar returned status 404
+5.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.13/org.wso2.carbon.identity.application.authenticator.iwa-5.3.13.jar returned status 404
 5.3.14		2020-08-26T09:57:58Z	
 5.3.15		2021-06-04T17:17:42Z	
 5.3.16		2021-06-14T06:30:08Z	
+5.3.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.18/org.wso2.carbon.identity.application.authenticator.iwa-5.3.18.jar returned status 404
 5.3.19		2024-09-10T10:00:05Z	
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.2/org.wso2.carbon.identity.application.authenticator.iwa-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.3/org.wso2.carbon.identity.application.authenticator.iwa-5.3.3.jar returned status 404
+5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.4/org.wso2.carbon.identity.application.authenticator.iwa-5.3.4.jar returned status 404
+5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.5/org.wso2.carbon.identity.application.authenticator.iwa-5.3.5.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.3.6/org.wso2.carbon.identity.application.authenticator.iwa-5.3.6.jar returned status 404
 5.3.7		2017-10-02T06:49:06Z	
 5.3.8		2017-10-11T17:35:30Z	
 5.3.9		2017-10-11T17:43:08Z	
@@ -11,8 +27,12 @@
 5.4.1		2023-02-16T05:13:56Z	
 5.4.10		2026-01-19T06:33:21Z	
 5.4.2		2023-03-17T07:55:52Z	
+5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.4.3/org.wso2.carbon.identity.application.authenticator.iwa-5.4.3.jar returned status 404
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.4.4/org.wso2.carbon.identity.application.authenticator.iwa-5.4.4.jar returned status 404
 5.4.5		2024-07-15T04:51:57Z	
+5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.4.6/org.wso2.carbon.identity.application.authenticator.iwa-5.4.6.jar returned status 404
 5.4.7		2024-09-12T02:53:35Z	
+5.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/local/auth/iwa/org.wso2.carbon.identity.application.authenticator.iwa/5.4.8/org.wso2.carbon.identity.application.authenticator.iwa-5.4.8.jar returned status 404
 5.4.9		2026-01-05T10:10:05Z	
 5.5.0		2026-02-12T06:48:31Z	
 5.5.1		2026-06-09T08:49:18Z	
