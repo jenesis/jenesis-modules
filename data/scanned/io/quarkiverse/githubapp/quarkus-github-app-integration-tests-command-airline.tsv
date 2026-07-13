@@ -39,6 +39,7 @@
 2.4.0		2024-03-19T10:19:06Z	
 2.4.1		2024-03-20T19:24:47Z	
 2.4.2		2024-03-21T08:31:24Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubapp/quarkus-github-app-integration-tests-command-airline/2.5.0/quarkus-github-app-integration-tests-command-airline-2.5.0.jar returned status 404
 2.5.1		2024-04-04T07:38:16Z	
 2.6.0		2024-06-20T17:42:57Z	
 2.7.0		2024-08-23T12:33:38Z	

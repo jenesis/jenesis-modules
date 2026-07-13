@@ -73,6 +73,7 @@
 2.4.0		2024-03-19T10:19:00Z	
 2.4.1		2024-03-20T19:24:51Z	
 2.4.2		2024-03-21T08:31:22Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubapp/quarkus-github-app-docs/2.5.0/quarkus-github-app-docs-2.5.0.jar returned status 404
 2.5.1		2024-04-04T07:38:03Z	
 2.6.0		2024-06-20T17:43:39Z	
 2.7.0		2024-08-23T12:33:31Z	
