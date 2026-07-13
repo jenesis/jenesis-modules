@@ -1,5 +1,15 @@
+40.10.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.0.0.1/tp_exchange-40.10.0.0.1.jar returned status 404
+40.10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.0.1/tp_exchange-40.10.0.1.jar returned status 404
+40.10.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.0.1.1/tp_exchange-40.10.0.1.1.jar returned status 404
+40.10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.1.0/tp_exchange-40.10.1.0.jar returned status 404
+40.10.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.1.0.1/tp_exchange-40.10.1.0.1.jar returned status 404
+40.10.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.1.10/tp_exchange-40.10.1.10.jar returned status 404
+40.10.1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.1.10.1/tp_exchange-40.10.1.10.1.jar returned status 404
+40.10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.2.0/tp_exchange-40.10.2.0.jar returned status 404
+40.10.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.2.0.1/tp_exchange-40.10.2.0.1.jar returned status 404
 40.10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.3.0/tp_exchange-40.10.3.0.jar returned status 404
 40.10.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.3.0.1/tp_exchange-40.10.3.0.1.jar returned status 404
+40.10.3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.3.11.1/tp_exchange-40.10.3.11.1.jar returned status 404
 40.10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.4.0/tp_exchange-40.10.4.0.jar returned status 404
 40.10.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.4.0.1/tp_exchange-40.10.4.0.1.jar returned status 404
 40.10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.10.5.0/tp_exchange-40.10.5.0.jar returned status 404
@@ -214,3 +224,38 @@
 40.16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.16.2.0.1/tp_exchange-40.16.2.0.1.jar returned status 404
 40.16.3.0.1		2026-06-22T08:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.16.3.0.1/tp_exchange-40.16.3.0.1.jar returned status 404
 40.16.4.0.1		2026-07-06T03:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.16.4.0.1/tp_exchange-40.16.4.0.1.jar returned status 404
+40.9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.0/tp_exchange-40.9.3.0.jar returned status 404
+40.9.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.0.1/tp_exchange-40.9.3.0.1.jar returned status 404
+40.9.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.10/tp_exchange-40.9.3.10.jar returned status 404
+40.9.3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.10.1/tp_exchange-40.9.3.10.1.jar returned status 404
+40.9.3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.20.1/tp_exchange-40.9.3.20.1.jar returned status 404
+40.9.3.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.3.30.1/tp_exchange-40.9.3.30.1.jar returned status 404
+40.9.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.0/tp_exchange-40.9.4.0.jar returned status 404
+40.9.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.0.1/tp_exchange-40.9.4.0.1.jar returned status 404
+40.9.4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.10.1/tp_exchange-40.9.4.10.1.jar returned status 404
+40.9.4.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.20.1/tp_exchange-40.9.4.20.1.jar returned status 404
+40.9.4.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.30.1/tp_exchange-40.9.4.30.1.jar returned status 404
+40.9.4.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.40.1/tp_exchange-40.9.4.40.1.jar returned status 404
+40.9.4.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.4.50.1/tp_exchange-40.9.4.50.1.jar returned status 404
+40.9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.5.0/tp_exchange-40.9.5.0.jar returned status 404
+40.9.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.5.0.1/tp_exchange-40.9.5.0.1.jar returned status 404
+40.9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.0/tp_exchange-40.9.6.0.jar returned status 404
+40.9.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.0.1/tp_exchange-40.9.6.0.1.jar returned status 404
+40.9.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.10/tp_exchange-40.9.6.10.jar returned status 404
+40.9.6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.10.1/tp_exchange-40.9.6.10.1.jar returned status 404
+40.9.6.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.20/tp_exchange-40.9.6.20.jar returned status 404
+40.9.6.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.6.20.1/tp_exchange-40.9.6.20.1.jar returned status 404
+40.9.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.7.0.1/tp_exchange-40.9.7.0.1.jar returned status 404
+40.9.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.7.10/tp_exchange-40.9.7.10.jar returned status 404
+40.9.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.7.10.1/tp_exchange-40.9.7.10.1.jar returned status 404
+40.9.7.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.7.30.1/tp_exchange-40.9.7.30.1.jar returned status 404
+40.9.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.8.0/tp_exchange-40.9.8.0.jar returned status 404
+40.9.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.8.0.1/tp_exchange-40.9.8.0.1.jar returned status 404
+40.9.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.8.10/tp_exchange-40.9.8.10.jar returned status 404
+40.9.8.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.8.10.1/tp_exchange-40.9.8.10.1.jar returned status 404
+40.9.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.0/tp_exchange-40.9.9.0.jar returned status 404
+40.9.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.0.1/tp_exchange-40.9.9.0.1.jar returned status 404
+40.9.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.10/tp_exchange-40.9.9.10.jar returned status 404
+40.9.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.10.1/tp_exchange-40.9.9.10.1.jar returned status 404
+40.9.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.11/tp_exchange-40.9.9.11.jar returned status 404
+40.9.9.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tp_exchange/40.9.9.11.1/tp_exchange-40.9.9.11.1.jar returned status 404
