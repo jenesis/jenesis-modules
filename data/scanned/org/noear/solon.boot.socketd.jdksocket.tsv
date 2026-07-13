@@ -113,6 +113,7 @@
 1.2.20		2021-01-13T12:19:25Z	
 1.2.21		2021-01-17T02:38:28Z	
 1.2.22		2021-01-19T13:37:36Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.boot.socketd.jdksocket/1.2.23/solon.boot.socketd.jdksocket-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:04:55Z	
 1.2.25		2021-01-23T10:51:18Z	
 1.2.26		2021-01-24T14:13:53Z	
@@ -333,6 +334,7 @@
 1.6.37-m2		2022-04-03T10:15:11Z	
 1.6.37-m3		2022-04-04T14:09:03Z	
 1.6.37-m4		2022-04-05T14:57:12Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.boot.socketd.jdksocket/1.6.37-m5/solon.boot.socketd.jdksocket-1.6.37-m5.jar returned status 404
 1.6.4		2021-12-03T15:19:00Z	
 1.6.5		2021-12-04T05:42:26Z	
 1.6.6		2021-12-08T03:19:25Z	

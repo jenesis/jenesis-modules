@@ -210,6 +210,7 @@
 1.6.37-m2		2022-04-03T10:21:05Z	
 1.6.37-m3		2022-04-04T14:19:47Z	
 1.6.37-m4		2022-04-05T15:09:32Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/xxl-job-solon-plugin/1.6.37-m5/xxl-job-solon-plugin-1.6.37-m5.jar returned status 404
 1.6.4		2021-12-03T15:31:25Z	
 1.6.5		2021-12-04T05:45:23Z	
 1.6.6		2021-12-08T03:59:00Z	

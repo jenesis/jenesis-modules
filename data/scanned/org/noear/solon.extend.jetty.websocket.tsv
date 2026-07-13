@@ -38,6 +38,7 @@
 1.2.20		2021-01-13T12:33:46Z	
 1.2.21		2021-01-17T02:48:22Z	
 1.2.22		2021-01-19T13:55:47Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.extend.jetty.websocket/1.2.23/solon.extend.jetty.websocket-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:16:47Z	
 1.2.25		2021-01-23T11:04:04Z	
 1.2.26		2021-01-24T14:25:07Z	

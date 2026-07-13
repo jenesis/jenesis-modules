@@ -5,6 +5,7 @@
 2.0.1-b5		2020-05-29T07:33:22Z	
 2.0.1-release		2020-06-19T10:04:58Z	
 2.0.10		2021-01-19T14:37:33Z	
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/water.client-solon-plugin/2.0.11/water.client-solon-plugin-2.0.11.jar returned status 404
 2.0.12		2021-01-23T06:57:23Z	
 2.0.13		2021-01-23T10:33:07Z	
 2.0.14		2021-01-24T13:02:24Z	

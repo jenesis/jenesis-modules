@@ -56,6 +56,7 @@
 1.6.37-m2		2022-04-03T10:46:40Z	
 1.6.37-m3		2022-04-04T14:16:02Z	
 1.6.37-m4		2022-04-05T15:03:12Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/grpc-solon-plugin/1.6.37-m5/grpc-solon-plugin-1.6.37-m5.jar returned status 404
 1.7.0		2022-04-06T15:32:27Z	
 1.7.1		2022-04-09T12:34:01Z	
 1.7.2		2022-04-15T15:43:11Z	

@@ -120,6 +120,7 @@
 1.6.37-m2		2022-04-03T10:44:51Z	
 1.6.37-m3		2022-04-04T14:14:36Z	
 1.6.37-m4		2022-04-05T15:03:24Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/dynamic-tp-solon-plugin/1.6.37-m5/dynamic-tp-solon-plugin-1.6.37-m5.jar returned status 404
 1.7.0		2022-04-06T15:26:04Z	
 1.7.1		2022-04-09T12:35:44Z	
 1.7.2		2022-04-15T15:44:09Z	
