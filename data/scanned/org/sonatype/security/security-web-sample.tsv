@@ -2,3 +2,18 @@
 2.1		2011-02-07T22:44:15Z	
 2.2		2011-02-23T02:03:17Z	
 2.2.1		2011-03-08T13:25:29Z	
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.3/security-web-sample-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.4/security-web-sample-2.4.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.4.1/security-web-sample-2.4.1.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.5/security-web-sample-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.6/security-web-sample-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.7/security-web-sample-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.8/security-web-sample-2.8.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.8.1/security-web-sample-2.8.1.jar returned status 404
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/2.8.2/security-web-sample-2.8.2.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.0/security-web-sample-3.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.0.1/security-web-sample-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.0.2/security-web-sample-3.0.2.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.1/security-web-sample-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.2/security-web-sample-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/security/security-web-sample/3.3/security-web-sample-3.3.jar returned status 404

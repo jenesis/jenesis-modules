@@ -21,11 +21,29 @@
 1.1.0		2012-08-03T16:58:04Z	
 1.1.0-beta1		2012-05-03T10:41:44Z	
 1.1.0-cr1		2012-07-10T10:52:39Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.0/crsh.doc-1.2.0.jar returned status 404
 1.2.0-alpha1		2012-10-20T14:57:29Z	
 1.2.0-cr1		2012-10-30T16:48:08Z	
+1.2.0-cr10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.0-cr10/crsh.doc-1.2.0-cr10.jar returned status 404
+1.2.0-cr11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.0-cr11/crsh.doc-1.2.0-cr11.jar returned status 404
 1.2.0-cr2		2012-11-07T01:20:24Z	
 1.2.0-cr3		2012-11-13T07:14:19Z	
 1.2.0-cr4		2013-01-07T21:53:54Z	
 1.2.0-cr5		2013-01-10T13:04:42Z	
 1.2.0-cr6		2013-03-03T09:16:30Z	
 1.2.0-cr7		2013-03-14T13:01:06Z	
+1.2.0-cr8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.0-cr8/crsh.doc-1.2.0-cr8.jar returned status 404
+1.2.0-cr9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.0-cr9/crsh.doc-1.2.0-cr9.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.1/crsh.doc-1.2.1.jar returned status 404
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.10/crsh.doc-1.2.10.jar returned status 404
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.11/crsh.doc-1.2.11.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.2/crsh.doc-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.3/crsh.doc-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.4/crsh.doc-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.5/crsh.doc-1.2.5.jar returned status 404
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.6/crsh.doc-1.2.6.jar returned status 404
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.7/crsh.doc-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.8/crsh.doc-1.2.8.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.2.9/crsh.doc-1.2.9.jar returned status 404
+1.3.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.3.0-beta1/crsh.doc-1.3.0-beta1.jar returned status 404
+1.3.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/crsh/crsh.doc/1.3.0-beta2/crsh.doc-1.3.0-beta2.jar returned status 404

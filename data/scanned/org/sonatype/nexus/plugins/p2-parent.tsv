@@ -1,4 +1,13 @@
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/0.0.3/p2-parent-0.0.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.0/p2-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.1/p2-parent-1.0.1.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.10/p2-parent-1.0.10.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.2/p2-parent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.3/p2-parent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.4/p2-parent-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.5/p2-parent-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.6/p2-parent-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.7/p2-parent-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.8/p2-parent-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.0.9/p2-parent-1.0.9.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/plugins/p2-parent/1.1.0/p2-parent-1.1.0.jar returned status 404
