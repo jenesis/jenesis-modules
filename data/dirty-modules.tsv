@@ -397,3 +397,9 @@ com.powsybl.afs.ext.base
 com.powsybl.afs.security
 com.powsybl.afs.ws.server.utils
 com.powsybl.afs.ws.client.utils
+org.apache.commons.lang3
+org.graalvm.truffle
+com.fasterxml.jackson.module.jaxb
+org.apache.commons.codec
+org.apache.commons.pool2
+io.netty.codec.http

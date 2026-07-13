@@ -287,3 +287,4 @@
 3.11.3	named	dev.zio	zio-http-shaded_2.12	2026-06-26T15:50:25Z	4.2.15.Final
 3.11.3	named	dev.zio	zio-http-shaded_2.13	2026-06-26T15:50:25Z	4.2.15.Final
 3.11.3	named	dev.zio	zio-http-shaded_3	2026-06-26T15:50:25Z	4.2.15.Final
+5.2.1	named	com.liquibase.ext	liquibase-commercial-mongodb	2026-07-09T02:31:59Z	4.2.15.Final

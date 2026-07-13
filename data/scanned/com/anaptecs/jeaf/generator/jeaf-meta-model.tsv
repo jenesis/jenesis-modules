@@ -1,3 +1,24 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.0/jeaf-meta-model-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.1/jeaf-meta-model-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.2/jeaf-meta-model-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.3/jeaf-meta-model-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.4/jeaf-meta-model-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.5/jeaf-meta-model-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.6/jeaf-meta-model-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.7/jeaf-meta-model-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.8/jeaf-meta-model-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.0.9/jeaf-meta-model-1.0.9.jar returned status 404
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.10.0/jeaf-meta-model-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.11.0/jeaf-meta-model-1.11.0.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.13.0/jeaf-meta-model-1.13.0.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.14.0/jeaf-meta-model-1.14.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.2.0/jeaf-meta-model-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.2.1/jeaf-meta-model-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.2.2/jeaf-meta-model-1.2.2.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.3.0/jeaf-meta-model-1.3.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/1.8.0/jeaf-meta-model-1.8.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/2.2.0/jeaf-meta-model-2.2.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/2.4.0/jeaf-meta-model-2.4.0.jar returned status 404
 2.6.0		2025-07-03T04:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/2.6.0/jeaf-meta-model-2.6.0.jar returned status 404
 2.7.0		2025-10-28T06:57:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/2.7.0/jeaf-meta-model-2.7.0.jar returned status 404
 2.8.0		2026-05-01T11:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/anaptecs/jeaf/generator/jeaf-meta-model/2.8.0/jeaf-meta-model-2.8.0.jar returned status 404

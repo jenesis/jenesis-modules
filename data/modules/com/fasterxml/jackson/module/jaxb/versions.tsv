@@ -3932,3 +3932,4 @@ master-rc-daily	named	io.streamnative	pulsar-client-admin	2023-02-08T12:25:05Z	2
 2.21.5	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-07-07T02:25:55Z	2.21.5
 2.22.1	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-07-07T21:58:05Z	2.22.1
 2.18.9	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-07-08T00:30:22Z	2.18.9
+5.2.1	named	com.liquibase	liquibase-commercial	2026-07-09T02:32:03Z	2.22.0

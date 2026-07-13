@@ -10,4 +10,20 @@
 1.1.8		2019-03-12T02:39:59Z	
 1.1.9		2019-04-08T03:15:20Z	
 1.2		2019-08-13T09:31:56Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0/ursful-mina-2.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.1/ursful-mina-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.2/ursful-mina-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.3/ursful-mina-2.0.3.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.5/ursful-mina-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.6/ursful-mina-2.0.6.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/2.0.9/ursful-mina-2.0.9.jar returned status 404
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.10/ursful-mina-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.11/ursful-mina-3.0.11.jar returned status 404
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.12/ursful-mina-3.0.12.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.2/ursful-mina-3.0.2.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.4/ursful-mina-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.5/ursful-mina-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.6/ursful-mina-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.7/ursful-mina-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.8/ursful-mina-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ursful/framework/ursful-mina/3.0.9/ursful-mina-3.0.9.jar returned status 404

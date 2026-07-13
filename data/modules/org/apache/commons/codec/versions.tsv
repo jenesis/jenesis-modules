@@ -1957,3 +1957,4 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.46.20	named	software.amazon.awssdk	bundle	2026-07-01T21:02:17Z	1.17.1
 2.46.21	named	software.amazon.awssdk	bundle-sdk	2026-07-02T20:55:28Z	1.17.1
 2.46.21	named	software.amazon.awssdk	bundle	2026-07-02T20:55:44Z	1.17.1
+5.2.1	named	com.liquibase.ext.vaults	liquibase-hashicorp-vault	2026-07-09T02:32:01Z	1.22.0

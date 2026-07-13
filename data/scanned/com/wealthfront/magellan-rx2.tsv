@@ -1,3 +1,4 @@
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wealthfront/magellan-rx2/1.1.0/magellan-rx2-1.1.0.jar returned status 404
 2.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wealthfront/magellan-rx2/2.0.0-beta/magellan-rx2-2.0.0-beta.jar returned status 404
 2.0.0-development			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wealthfront/magellan-rx2/2.0.0-development/magellan-rx2-2.0.0-development.jar returned status 404
 2.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wealthfront/magellan-rx2/2.0.1-beta/magellan-rx2-2.0.1-beta.jar returned status 404

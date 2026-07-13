@@ -1,6 +1,8 @@
 22.10		2022-10-16T13:06:34Z	
 22.12		2023-01-15T12:07:30Z	
+22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/luhuiguo/aspose-words/22.4/aspose-words-22.4.jar returned status 404
 22.4	jdk17	2022-04-25T12:52:42Z	
 22.4	shaping-harfbuzz-plugin	2022-04-25T12:53:58Z	
+22.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/luhuiguo/aspose-words/22.9/aspose-words-22.9.jar returned status 404
 22.9	jdk17	2022-10-13T11:34:23Z	
 23.1		2023-01-30T09:28:43Z	

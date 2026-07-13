@@ -68,3 +68,4 @@
 0.1.1	named	io.github.caobahuong	kafka-connect-dynamic-filter-redis	2026-05-26T04:21:47Z	2.12.0
 2.1.8	named	org.apache.directory.api	api-ldap-client-all	2026-05-27T06:57:42Z	2.13.1
 5.2.0	named	com.liquibase.ext	liquibase-commercial-databricks	2026-06-09T16:11:57Z	2.13.1
+5.2.1	named	com.liquibase.ext	liquibase-commercial-databricks	2026-07-09T02:32:03Z	2.13.1
