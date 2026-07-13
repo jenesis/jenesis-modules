@@ -58,3 +58,8 @@ com.couchbase.columnar.client.java
 com.couchbase.client.tracing.opentelemetry
 com.plccom.mqtt.client
 com.plccom.mqtt.core
+com.xkball.xklib.ui
+com.fasterxml.jackson.databind
+com.xkball.xklib.mc
+com.xkball.xklib.ap
+com.xkball.xklib

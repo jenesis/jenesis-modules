@@ -3415,6 +3415,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.2.4	named	org.onebusaway	onebusaway-gtfs-hibernate-cli	2024-09-24T06:10:52Z	2.17.2
 3.2.4	named	org.onebusaway	onebusaway-gtfs-transformer-cli	2024-09-24T06:10:52Z	2.17.2
 4.22.0.16914	named	org.sonarsource.python	sonar-python-plugin	2024-09-24T13:20:18Z	2.17.1
+0.2.1	named	com.tigergraph	tigergraph-spark-connector	2024-09-25T07:48:21Z	2.15.2
 0.0.4	named	org.chobit.apt	lombok-ext	2024-09-25T13:34:26Z	2.16.1
 2.10.7.4-SNAPSHOT-35e64fa	named	com.ascentstream.pulsar	pulsar-client	2024-09-26T02:56:36Z	2.14.2
 2.10.7.4-SNAPSHOT-35e64fa	named	com.ascentstream.pulsar	pulsar-client-2x-shaded	2024-09-26T03:12:49Z	2.14.2
@@ -3651,6 +3652,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.0.0	named	software.amazon.neptune	gremlin-client	2025-02-18T16:26:08Z	2.15.2
 0.103.0	named	org.projectnessie.nessie	nessie-content-generator	2025-02-18T17:14:24Z	2.18.2
 2.0.0-rc.9	named	io.github.serpro69	kotlin-faker	2025-02-18T20:10:11Z	2.17.2
+0.2.2	named	com.tigergraph	tigergraph-spark-connector	2025-02-19T01:18:34Z	2.15.2
 1.0.0	named	io.github.kathukyabrian	mpesa	2025-02-23T11:50:31Z	2.18.2
 1.1.22	named	com.opendatadsl	odsl-sdk	2025-02-26T10:35:05Z	2.13.4.2
 3.0.1	named	software.amazon.neptune	gremlin-client	2025-02-27T08:25:56Z	2.15.2
@@ -3685,11 +3687,13 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.22.0	named	io.kestra.plugin	plugin-databricks	2025-04-01T09:50:54Z	2.18.3
 0.22.0	named	io.kestra.plugin	plugin-openai	2025-04-01T10:14:48Z	2.18.3
 0.22.0	named	io.kestra.plugin	plugin-typesense	2025-04-01T10:23:47Z	2.18.3
+0.2.3	named	com.tigergraph	tigergraph-spark-connector	2025-04-02T02:23:06Z	2.15.2
 0.0.10	named	com.sparkutils	kogito_shaded	2025-04-02T20:00:34Z	2.16.1
 0.0.11	named	com.sparkutils	kogito_shaded	2025-04-03T12:57:50Z	2.16.1
 0.0.12	named	com.sparkutils	kogito_shaded	2025-04-04T08:01:57Z	2.16.1
 2.19.0-rc2	named	com.fasterxml.jackson.core	jackson-databind	2025-04-08T01:23:58Z	2.19.0-rc2
 0.15.0	named	cz.o2.proxima	proxima-direct-io-cassandra	2025-04-14T08:49:32Z	2.13.4.2
+0.2.4	named	com.tigergraph	tigergraph-spark-connector	2025-04-18T00:59:30Z	2.15.2
 0.9.5	named	com.indoqa	idqsa-tracking-client	2025-04-18T08:39:42Z	2.14.0
 2.16.4	named	org.mustangproject	Mustang-CLI	2025-04-19T06:48:01Z	2.17.1
 2.19.0	named	com.fasterxml.jackson.core	jackson-databind	2025-04-24T23:41:57Z	2.19.0

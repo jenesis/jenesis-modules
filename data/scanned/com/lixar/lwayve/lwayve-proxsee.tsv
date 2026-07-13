@@ -6,3 +6,19 @@
 2.3.1		2018-01-25T22:55:06Z	
 2.3.2		2018-01-30T00:11:08Z	
 2.3.3		2018-01-31T01:44:27Z	
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.0/lwayve-proxsee-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.1/lwayve-proxsee-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.2/lwayve-proxsee-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.3/lwayve-proxsee-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.4/lwayve-proxsee-2.4.4.jar returned status 404
+2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.4.5/lwayve-proxsee-2.4.5.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/2.5.0/lwayve-proxsee-2.5.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.0.0/lwayve-proxsee-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.0.1/lwayve-proxsee-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.0.2/lwayve-proxsee-3.0.2.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.1.0/lwayve-proxsee-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.1.1/lwayve-proxsee-3.1.1.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.2.0/lwayve-proxsee-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.2.1/lwayve-proxsee-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.2.2/lwayve-proxsee-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lixar/lwayve/lwayve-proxsee/3.3.0/lwayve-proxsee-3.3.0.jar returned status 404
