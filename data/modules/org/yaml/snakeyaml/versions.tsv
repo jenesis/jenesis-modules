@@ -1087,6 +1087,7 @@
 3.1.204	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-07-07T11:48:15Z	2.3
 3.32.0-rc.4	named	org.conductoross	conductor-os-persistence-v3	2026-07-09T02:19:31Z	2.2
 3.32.0-rc.4	named	org.conductoross	conductor-os-persistence-v2	2026-07-09T02:19:32Z	2.2
+4.5.29	named	io.vertx	vertx-web-api-contract	2026-07-09T23:59:30Z	2.0
 3.1.205	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-07-10T00:16:30Z	2.3
 0.2.0-RC7	named	com.sparkutils	quality_connect_testshade_4.1.0.oss_4.1_2.13	2026-07-10T00:18:43Z	2.0
 0.2.0-RC7	named	com.sparkutils	quality_connect_testshade_4.0.0.oss_4.0_2.13	2026-07-10T00:18:44Z	2.0

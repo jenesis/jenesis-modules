@@ -1,2 +1,22 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/1/vertx-parent-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/10/vertx-parent-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/11/vertx-parent-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/12/vertx-parent-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/13/vertx-parent-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/14/vertx-parent-14.jar returned status 404
+15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/15/vertx-parent-15.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/16/vertx-parent-16.jar returned status 404
+17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/17/vertx-parent-17.jar returned status 404
+18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/18/vertx-parent-18.jar returned status 404
+19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/19/vertx-parent-19.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/2/vertx-parent-2.jar returned status 404
+20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/20/vertx-parent-20.jar returned status 404
+21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/21/vertx-parent-21.jar returned status 404
 22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/22/vertx-parent-22.jar returned status 404
 23		2026-06-22T20:16:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/23/vertx-parent-23.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/3/vertx-parent-3.jar returned status 404
+3.0.0-dev_preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/3.0.0-dev_preview1/vertx-parent-3.0.0-dev_preview1.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/5/vertx-parent-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/6/vertx-parent-6.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/8/vertx-parent-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-parent/9/vertx-parent-9.jar returned status 404

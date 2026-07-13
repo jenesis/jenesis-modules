@@ -120,6 +120,7 @@
 0.3.251		2022-02-15T08:33:50Z	
 0.3.252		2022-03-02T12:58:15Z	
 0.3.253		2022-04-05T07:49:05Z	
+0.3.254			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudslang/runtime-management-impl/0.3.254/runtime-management-impl-0.3.254.jar returned status 404
 0.3.255		2022-04-07T12:43:05Z	
 0.3.256		2022-04-12T10:17:32Z	
 0.3.259		2022-05-18T13:23:49Z	
