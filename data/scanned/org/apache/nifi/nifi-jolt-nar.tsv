@@ -1,1 +1,16 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.0.0/nifi-jolt-nar-2.0.0.jar returned status 404
+2.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.0.0-M2/nifi-jolt-nar-2.0.0-M2.jar returned status 404
+2.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.0.0-M3/nifi-jolt-nar-2.0.0-M3.jar returned status 404
+2.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.0.0-M4/nifi-jolt-nar-2.0.0-M4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.1.0/nifi-jolt-nar-2.1.0.jar returned status 404
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.10.0/nifi-jolt-nar-2.10.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.2.0/nifi-jolt-nar-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.3.0/nifi-jolt-nar-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.4.0/nifi-jolt-nar-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.5.0/nifi-jolt-nar-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.6.0/nifi-jolt-nar-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.7.0/nifi-jolt-nar-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.7.1/nifi-jolt-nar-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.7.2/nifi-jolt-nar-2.7.2.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.8.0/nifi-jolt-nar-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/nifi/nifi-jolt-nar/2.9.0/nifi-jolt-nar-2.9.0.jar returned status 404
