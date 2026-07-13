@@ -1,2 +1,4 @@
 9.0		2008-04-21T23:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/api/schemas/9.0/schemas-9.0.jar returned status 404
+9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/api/schemas/9.0.1/schemas-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/api/schemas/9.0.2/schemas-9.0.2.jar returned status 404
 9.0.2	resources	2008-04-27T21:42:44Z	

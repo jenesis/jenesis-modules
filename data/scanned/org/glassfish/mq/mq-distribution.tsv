@@ -1,3 +1,37 @@
+4.5.2-001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/4.5.2-001/mq-distribution-4.5.2-001.jar returned status 404
+4.5.2-002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/4.5.2-002/mq-distribution-4.5.2-002.jar returned status 404
+4.5.2-003			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/4.5.2-003/mq-distribution-4.5.2-003.jar returned status 404
+5.0-001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-001/mq-distribution-5.0-001.jar returned status 404
+5.0-001-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-001-2/mq-distribution-5.0-001-2.jar returned status 404
+5.0-001-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-001-3/mq-distribution-5.0-001-3.jar returned status 404
+5.0-002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-002/mq-distribution-5.0-002.jar returned status 404
+5.0-003			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-003/mq-distribution-5.0-003.jar returned status 404
+5.0-004			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-004/mq-distribution-5.0-004.jar returned status 404
+5.0-006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-006/mq-distribution-5.0-006.jar returned status 404
+5.0-007			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-007/mq-distribution-5.0-007.jar returned status 404
+5.0-008			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-008/mq-distribution-5.0-008.jar returned status 404
+5.0-009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-009/mq-distribution-5.0-009.jar returned status 404
+5.0-010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-010/mq-distribution-5.0-010.jar returned status 404
+5.0-011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-011/mq-distribution-5.0-011.jar returned status 404
+5.0-012			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-012/mq-distribution-5.0-012.jar returned status 404
+5.0-013			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-013/mq-distribution-5.0-013.jar returned status 404
+5.0-014			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0-014/mq-distribution-5.0-014.jar returned status 404
+5.0.1-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b01/mq-distribution-5.0.1-b01.jar returned status 404
+5.0.1-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b02/mq-distribution-5.0.1-b02.jar returned status 404
+5.0.1-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b03/mq-distribution-5.0.1-b03.jar returned status 404
+5.0.1-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b04/mq-distribution-5.0.1-b04.jar returned status 404
+5.0.1-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b05/mq-distribution-5.0.1-b05.jar returned status 404
+5.0.1-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b06/mq-distribution-5.0.1-b06.jar returned status 404
+5.0.1-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b07/mq-distribution-5.0.1-b07.jar returned status 404
+5.0.1-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.0.1-b08/mq-distribution-5.0.1-b08.jar returned status 404
+5.1-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1-b09/mq-distribution-5.1-b09.jar returned status 404
+5.1.1-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b01/mq-distribution-5.1.1-b01.jar returned status 404
+5.1.1-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b02/mq-distribution-5.1.1-b02.jar returned status 404
+5.1.1-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b03/mq-distribution-5.1.1-b03.jar returned status 404
+5.1.1-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b04/mq-distribution-5.1.1-b04.jar returned status 404
+5.1.1-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b05/mq-distribution-5.1.1-b05.jar returned status 404
+5.1.1-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.1-b06/mq-distribution-5.1.1-b06.jar returned status 404
+5.1.2-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/5.1.2-b01/mq-distribution-5.1.2-b01.jar returned status 404
 5.1.3		2021-06-02T15:26:21Z	
 5.1.4		2021-06-02T15:26:49Z	
 6.0.0		2020-12-05T14:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.0.0/mq-distribution-6.0.0.jar returned status 404
@@ -6,3 +40,11 @@
 6.2.0		2021-08-11T08:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.2.0/mq-distribution-6.2.0.jar returned status 404
 6.2.1		2022-04-28T09:20:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.2.1/mq-distribution-6.2.1.jar returned status 404
 6.3.0		2022-06-15T13:25:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.3.0/mq-distribution-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.4.0/mq-distribution-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.5.0/mq-distribution-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.5.1/mq-distribution-6.5.1.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.5.2/mq-distribution-6.5.2.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.6.0/mq-distribution-6.6.0.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.7.0/mq-distribution-6.7.0.jar returned status 404
+6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.8.0/mq-distribution-6.8.0.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mq/mq-distribution/6.9.0/mq-distribution-6.9.0.jar returned status 404

@@ -1,17 +1,30 @@
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/3.1.2/descriptors-3.1.2.jar returned status 404
 3.1.2	resources	2012-02-17T13:13:21Z	
+3.1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/3.1.2.2/descriptors-3.1.2.2.jar returned status 404
 3.1.2.2	resources	2012-08-17T17:14:26Z	
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.0/descriptors-4.0.jar returned status 404
 4.0	resources	2013-05-15T02:36:01Z	
+4.0-b33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.0-b33/descriptors-4.0-b33.jar returned status 404
 4.0-b33	resources	2012-04-23T18:39:57Z	
+4.0-b72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.0-b72/descriptors-4.0-b72.jar returned status 404
 4.0-b72	resources	2013-01-16T11:44:45Z	
+4.0-b90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.0-b90/descriptors-4.0-b90.jar returned status 404
 4.0-b90	resources	2013-07-26T21:20:29Z	
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.1/descriptors-4.1.jar returned status 404
 4.1	resources	2014-08-21T11:16:58Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.1.1/descriptors-4.1.1.jar returned status 404
 4.1.1	resources	2015-09-19T16:53:52Z	
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/4.1.2/descriptors-4.1.2.jar returned status 404
 4.1.2	resources	2017-03-23T22:07:08Z	
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/5.0/descriptors-5.0.jar returned status 404
 5.0	resources	2017-09-08T14:07:22Z	
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/5.0.1/descriptors-5.0.1.jar returned status 404
 5.0.1	resources	2019-01-15T12:33:27Z	
 5.1.0		2023-01-19T19:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/5.1.0/descriptors-5.1.0.jar returned status 404
 5.1.0	resources	2019-01-28T19:01:32Z	
+5.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/5.1.0-RC1/descriptors-5.1.0-RC1.jar returned status 404
 5.1.0-RC1	resources	2018-10-19T01:02:45Z	
+5.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/5.1.0-RC2/descriptors-5.1.0-RC2.jar returned status 404
 5.1.0-RC2	resources	2019-01-24T17:48:19Z	
 6.0.0		2023-01-19T19:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/6.0.0/descriptors-6.0.0.jar returned status 404
 6.0.0	resources	2020-12-29T13:24:42Z	
@@ -51,32 +64,57 @@
 7.0.0-M3	resources	2022-03-18T23:27:15Z	
 7.0.0-M4		2023-01-19T19:26:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.0-M4/descriptors-7.0.0-M4.jar returned status 404
 7.0.0-M4	resources	2022-04-11T15:04:57Z	
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.1/descriptors-7.0.1.jar returned status 404
 7.0.1	resources	2023-01-29T21:28:45Z	
+7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.10/descriptors-7.0.10.jar returned status 404
 7.0.10	resources	2023-10-27T19:26:30Z	
+7.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.11/descriptors-7.0.11.jar returned status 404
 7.0.11	resources	2023-12-04T13:14:14Z	
+7.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.12/descriptors-7.0.12.jar returned status 404
 7.0.12	resources	2024-01-29T11:45:47Z	
+7.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.13/descriptors-7.0.13.jar returned status 404
 7.0.13	resources	2024-02-28T18:25:44Z	
+7.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.14/descriptors-7.0.14.jar returned status 404
 7.0.14	resources	2024-03-30T18:07:25Z	
+7.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.15/descriptors-7.0.15.jar returned status 404
 7.0.15	resources	2024-05-31T14:37:12Z	
+7.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.16/descriptors-7.0.16.jar returned status 404
 7.0.16	resources	2024-07-30T14:11:45Z	
+7.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.17/descriptors-7.0.17.jar returned status 404
 7.0.17	resources	2024-08-29T23:18:06Z	
+7.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.18/descriptors-7.0.18.jar returned status 404
 7.0.18	resources	2024-10-02T09:52:41Z	
+7.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.19/descriptors-7.0.19.jar returned status 404
 7.0.19	resources	2024-11-01T00:18:28Z	
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.2/descriptors-7.0.2.jar returned status 404
 7.0.2	resources	2023-02-24T14:04:57Z	
+7.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.20/descriptors-7.0.20.jar returned status 404
 7.0.20	resources	2024-12-02T23:30:17Z	
+7.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.21/descriptors-7.0.21.jar returned status 404
 7.0.21	resources	2025-01-02T15:58:49Z	
+7.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.22/descriptors-7.0.22.jar returned status 404
 7.0.22	resources	2025-01-31T18:40:58Z	
+7.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.23/descriptors-7.0.23.jar returned status 404
 7.0.23	resources	2025-03-11T15:42:11Z	
+7.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.24/descriptors-7.0.24.jar returned status 404
 7.0.24	resources	2025-04-22T16:47:12Z	
+7.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.25/descriptors-7.0.25.jar returned status 404
 7.0.25	resources	2025-05-27T15:27:41Z	
 7.0.26		2026-06-27T19:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.26/descriptors-7.0.26.jar returned status 404
 7.0.26	resources	2026-06-27T19:57:52Z	
+7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.3/descriptors-7.0.3.jar returned status 404
 7.0.3	resources	2023-03-29T20:03:02Z	
+7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.4/descriptors-7.0.4.jar returned status 404
 7.0.4	resources	2023-04-27T00:47:32Z	
+7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.5/descriptors-7.0.5.jar returned status 404
 7.0.5	resources	2023-05-27T10:53:33Z	
+7.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.6/descriptors-7.0.6.jar returned status 404
 7.0.6	resources	2023-06-28T11:29:45Z	
+7.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.7/descriptors-7.0.7.jar returned status 404
 7.0.7	resources	2023-07-28T12:20:55Z	
+7.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.8/descriptors-7.0.8.jar returned status 404
 7.0.8	resources	2023-08-27T23:23:01Z	
+7.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.0.9/descriptors-7.0.9.jar returned status 404
 7.0.9	resources	2023-09-26T16:43:36Z	
 7.1.0		2025-12-05T02:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/7.1.0/descriptors-7.1.0.jar returned status 404
 7.1.0	resources	2025-12-05T02:01:09Z	
@@ -88,15 +126,25 @@
 8.0.0	resources	2026-02-04T18:25:10Z	
 8.0.0-DONTPUBLISH		2025-12-18T11:25:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-DONTPUBLISH/descriptors-8.0.0-DONTPUBLISH.jar returned status 404
 8.0.0-DONTPUBLISH	resources	2025-12-18T13:57:05Z	
+8.0.0-JDK17-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M10/descriptors-8.0.0-JDK17-M10.jar returned status 404
 8.0.0-JDK17-M10	resources	2025-03-05T17:59:11Z	
+8.0.0-JDK17-M12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M12/descriptors-8.0.0-JDK17-M12.jar returned status 404
 8.0.0-JDK17-M12	resources	2025-05-31T22:36:24Z	
+8.0.0-JDK17-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M5/descriptors-8.0.0-JDK17-M5.jar returned status 404
 8.0.0-JDK17-M5	resources	2024-04-17T23:54:22Z	
+8.0.0-JDK17-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M6/descriptors-8.0.0-JDK17-M6.jar returned status 404
 8.0.0-JDK17-M6	resources	2024-05-14T11:04:36Z	
+8.0.0-JDK17-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M7/descriptors-8.0.0-JDK17-M7.jar returned status 404
 8.0.0-JDK17-M7	resources	2024-08-06T19:28:25Z	
+8.0.0-JDK17-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-JDK17-M9/descriptors-8.0.0-JDK17-M9.jar returned status 404
 8.0.0-JDK17-M9	resources	2024-12-10T16:56:56Z	
+8.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M1/descriptors-8.0.0-M1.jar returned status 404
 8.0.0-M1	resources	2023-12-23T14:14:10Z	
+8.0.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M10/descriptors-8.0.0-M10.jar returned status 404
 8.0.0-M10	resources	2025-02-28T21:23:16Z	
+8.0.0-M11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M11/descriptors-8.0.0-M11.jar returned status 404
 8.0.0-M11	resources	2025-04-04T10:14:58Z	
+8.0.0-M12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M12/descriptors-8.0.0-M12.jar returned status 404
 8.0.0-M12	resources	2025-05-25T22:24:17Z	
 8.0.0-M13		2025-10-03T11:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M13/descriptors-8.0.0-M13.jar returned status 404
 8.0.0-M13	resources	2025-10-03T11:09:12Z	
@@ -104,12 +152,19 @@
 8.0.0-M14	resources	2025-11-02T23:37:19Z	
 8.0.0-M15		2025-12-15T11:51:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M15/descriptors-8.0.0-M15.jar returned status 404
 8.0.0-M15	resources	2025-12-15T11:51:56Z	
+8.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M2/descriptors-8.0.0-M2.jar returned status 404
 8.0.0-M2	resources	2024-02-10T01:56:15Z	
+8.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M3/descriptors-8.0.0-M3.jar returned status 404
 8.0.0-M3	resources	2024-03-19T01:42:06Z	
+8.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M5/descriptors-8.0.0-M5.jar returned status 404
 8.0.0-M5	resources	2024-04-18T11:51:51Z	
+8.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M6/descriptors-8.0.0-M6.jar returned status 404
 8.0.0-M6	resources	2024-05-14T07:49:34Z	
+8.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M7/descriptors-8.0.0-M7.jar returned status 404
 8.0.0-M7	resources	2024-08-05T19:25:29Z	
+8.0.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M8/descriptors-8.0.0-M8.jar returned status 404
 8.0.0-M8	resources	2024-10-30T21:26:57Z	
+8.0.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.0-M9/descriptors-8.0.0-M9.jar returned status 404
 8.0.0-M9	resources	2024-12-10T14:31:15Z	
 8.0.1		2026-03-25T13:24:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/connectors/descriptors/8.0.1/descriptors-8.0.1.jar returned status 404
 8.0.1	resources	2026-03-25T13:24:52Z	
