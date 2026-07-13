@@ -1,2 +1,4 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/japrost/japrost-qa/1.0/japrost-qa-1.0.jar returned status 404
 1.0	java-qa-resources	2017-05-21T05:48:02Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/japrost/japrost-qa/1.1/japrost-qa-1.1.jar returned status 404
 1.1	java-qa-resources	2019-03-26T22:07:22Z	

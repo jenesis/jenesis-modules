@@ -18,6 +18,7 @@
 1.0.17		2020-03-28T18:11:55Z	
 1.0.18		2020-03-30T18:42:00Z	
 1.0.19		2020-04-02T05:48:31Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/quantummaid/quantummaid/packagings/quantummaid-test-essentials/1.0.2/quantummaid-test-essentials-1.0.2.jar returned status 404
 1.0.20		2020-04-02T14:06:11Z	
 1.0.21		2020-04-04T17:13:31Z	
 1.0.22		2020-04-05T06:33:08Z	

@@ -33,3 +33,4 @@
 1.8.3		2026-06-08T17:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/api4/jsonapi4j/1.8.3/jsonapi4j-1.8.3.jar returned status 404
 1.8.4		2026-06-13T17:39:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/api4/jsonapi4j/1.8.4/jsonapi4j-1.8.4.jar returned status 404
 1.8.5		2026-06-26T11:06:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/api4/jsonapi4j/1.8.5/jsonapi4j-1.8.5.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/api4/jsonapi4j/1.9.0/jsonapi4j-1.9.0.jar returned status 404

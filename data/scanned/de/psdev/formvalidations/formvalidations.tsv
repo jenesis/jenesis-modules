@@ -2,3 +2,5 @@
 1.0.1		2013-12-15T22:55:56Z	
 1.1.0		2014-02-02T11:47:07Z	
 1.1.1		2014-06-01T17:16:05Z	
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/psdev/formvalidations/formvalidations/1.1.2/formvalidations-1.1.2.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/psdev/formvalidations/formvalidations/1.2.0/formvalidations-1.2.0.jar returned status 404

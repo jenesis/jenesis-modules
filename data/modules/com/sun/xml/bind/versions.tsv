@@ -41,12 +41,15 @@
 3.0.0-M3	named	com.sun.xml.bind	jaxb-impl	2020-05-13T07:13:20Z	3.0.0-M3
 3.0.0-M4	named	com.sun.xml.bind	jaxb-impl	2020-06-01T13:15:09Z	3.0.0-M4
 5.3.0.Final	named	org.jboss.windup.web	windup-keycloak-tool	2020-06-18T15:58:01Z	
+0.5.0	named	de.gematik.ti.epa	VZD-CLient	2020-06-19T09:01:49Z	
+1.0.1	named	de.gematik.ti.epa	VZD-CLient	2020-07-14T13:34:08Z	
 3.0.0-M5	named	com.sun.xml.bind	jaxb-impl	2020-08-28T11:49:36Z	3.0.0-M5
 3.3.5	named	org.icij.extract	extract-cli	2020-09-10T14:05:10Z	
 3.4.0	named	org.icij.extract	extract-cli	2020-09-11T17:11:04Z	
 3.5.0	named	org.icij.extract	extract-cli	2020-09-14T08:32:16Z	
 1.19	named	com.eternitywall	java-opentimestamps	2020-09-15T11:13:43Z	
 3.5.1	named	org.icij.extract	extract-cli	2020-09-16T16:44:37Z	
+1.1.0	named	de.gematik.ti.epa	VZD-Client	2020-09-25T12:48:21Z	
 5.4.0.Final	named	org.jboss.windup.web	windup-keycloak-tool	2020-11-03T15:04:44Z	
 5.5.0.Alpha1	named	org.jboss.windup.web	windup-keycloak-tool	2020-11-06T13:23:14Z	
 3.0.0	named	com.sun.xml.bind	jaxb-impl	2020-11-18T17:40:04Z	3.0.0

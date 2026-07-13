@@ -1,3 +1,4 @@
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.10.0/spring-parent-2.10.0.jar returned status 404
 2.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.11.1/spring-parent-2.11.1.jar returned status 404
 2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.11.2/spring-parent-2.11.2.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.12.0/spring-parent-2.12.0.jar returned status 404
@@ -57,6 +58,13 @@
 2.15.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.15.9/spring-parent-2.15.9.jar returned status 404
 2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.16.0/spring-parent-2.16.0.jar returned status 404
 2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.16.1/spring-parent-2.16.1.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.7.0/spring-parent-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.7.1/spring-parent-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.7.2/spring-parent-2.7.2.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.8.0/spring-parent-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.8.1/spring-parent-2.8.1.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.9.0/spring-parent-2.9.0.jar returned status 404
+2.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/2.9.1/spring-parent-2.9.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/4.0.0/spring-parent-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/4.0.1/spring-parent-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/demis/spring-parent/4.0.2/spring-parent-4.0.2.jar returned status 404

@@ -1,3 +1,14 @@
+1.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev/commons-sql-1.0-dev.jar returned status 404
+1.0-dev.20020910.035442			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20020910.035442/commons-sql-1.0-dev.20020910.035442.jar returned status 404
+1.0-dev.20020916.012934			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20020916.012934/commons-sql-1.0-dev.20020916.012934.jar returned status 404
+1.0-dev.20020916.024425			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20020916.024425/commons-sql-1.0-dev.20020916.024425.jar returned status 404
+1.0-dev.20020916.095334			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20020916.095334/commons-sql-1.0-dev.20020916.095334.jar returned status 404
+1.0-dev.20020917.074755			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20020917.074755/commons-sql-1.0-dev.20020917.074755.jar returned status 404
+1.0-dev.20021010.022826			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20021010.022826/commons-sql-1.0-dev.20021010.022826.jar returned status 404
+1.0-dev.20021010.032158			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20021010.032158/commons-sql-1.0-dev.20021010.032158.jar returned status 404
+1.0-dev.20021010.032445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20021010.032445/commons-sql-1.0-dev.20021010.032445.jar returned status 404
+1.0-dev.20021010.032657			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20021010.032657/commons-sql-1.0-dev.20021010.032657.jar returned status 404
+1.0-dev.20021014.094724			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-sql/commons-sql/1.0-dev.20021014.094724/commons-sql-1.0-dev.20021014.094724.jar returned status 404
 20030714.162948		2005-10-15T06:08:33Z	
 20031222.1101		2005-10-15T06:08:33Z	
 20040118.000852		2005-10-15T06:08:33Z	
