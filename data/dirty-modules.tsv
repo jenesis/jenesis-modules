@@ -888,3 +888,10 @@ symphony.bdk.template.api
 symphony.bdk.config
 symphony.bdk.http.webclient
 symphony.group.extension
+org.tukaani.xz
+org.apache.commons.csv
+org.apache.tomee.server.ssh
+org.apache.tomee.tomee.microprofile.webapp
+org.apache.tomee.tomee.plus.webapp
+org.apache.tomee.tomee.webapp
+org.apache.tomee.tomee.plume.webapp

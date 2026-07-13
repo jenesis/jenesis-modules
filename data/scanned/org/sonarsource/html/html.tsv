@@ -1,3 +1,6 @@
+3.0.0.1411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.0.0.1411/html-3.0.0.1411.jar returned status 404
+3.0.1.1444			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.0.1.1444/html-3.0.1.1444.jar returned status 404
+3.1.0.1615			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.1.0.1615/html-3.1.0.1615.jar returned status 404
 3.10.0.3651			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.10.0.3651/html-3.10.0.3651.jar returned status 404
 3.11.0.4708			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.11.0.4708/html-3.11.0.4708.jar returned status 404
 3.12.0.4743			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.12.0.4743/html-3.12.0.4743.jar returned status 404
@@ -9,6 +12,7 @@
 3.18.0.5605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.18.0.5605/html-3.18.0.5605.jar returned status 404
 3.19.0.5695			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.19.0.5695/html-3.19.0.5695.jar returned status 404
 3.19.1.6338			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.19.1.6338/html-3.19.1.6338.jar returned status 404
+3.2.0.2082			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.2.0.2082/html-3.2.0.2082.jar returned status 404
 3.20.0.6289			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.20.0.6289/html-3.20.0.6289.jar returned status 404
 3.21.0.7002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.21.0.7002/html-3.21.0.7002.jar returned status 404
 3.22.0.7011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.22.0.7011/html-3.22.0.7011.jar returned status 404
@@ -18,6 +22,7 @@
 3.26.0.7600			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.26.0.7600/html-3.26.0.7600.jar returned status 404
 3.27.0.7699		2026-05-18T12:45:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.27.0.7699/html-3.27.0.7699.jar returned status 404
 3.28.0.8018		2026-06-10T09:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.28.0.8018/html-3.28.0.8018.jar returned status 404
+3.3.0.2534			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.3.0.2534/html-3.3.0.2534.jar returned status 404
 3.4.0.2754			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.4.0.2754/html-3.4.0.2754.jar returned status 404
 3.5.0.3009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.5.0.3009/html-3.5.0.3009.jar returned status 404
 3.6.0.3106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/html/html/3.6.0.3106/html-3.6.0.3106.jar returned status 404

@@ -1,3 +1,4 @@
+6.14.0.25463			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/6.14.0.25463/docs-6.14.0.25463.jar returned status 404
 6.15.0.25849			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/6.15.0.25849/docs-6.15.0.25849.jar returned status 404
 6.15.1.26025			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/6.15.1.26025/docs-6.15.1.26025.jar returned status 404
 7.0.0.26422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/7.0.0.26422/docs-7.0.0.26422.jar returned status 404
@@ -74,6 +75,7 @@
 8.32.1.44409		2026-06-15T07:14:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.32.1.44409/docs-8.32.1.44409.jar returned status 404
 8.33.0.44481		2026-06-18T10:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.33.0.44481/docs-8.33.0.44481.jar returned status 404
 8.34.0.44906		2026-06-30T14:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.34.0.44906/docs-8.34.0.44906.jar returned status 404
+8.35.0.45121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.35.0.45121/docs-8.35.0.45121.jar returned status 404
 8.4.0.37032			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.4.0.37032/docs-8.4.0.37032.jar returned status 404
 8.5.0.37199			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.5.0.37199/docs-8.5.0.37199.jar returned status 404
 8.6.0.37351			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/docs/8.6.0.37351/docs-8.6.0.37351.jar returned status 404

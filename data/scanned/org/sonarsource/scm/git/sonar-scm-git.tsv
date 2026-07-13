@@ -1,1 +1,14 @@
 1.10.0.1898			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.10.0.1898/sonar-scm-git-1.10.0.1898.jar returned status 404
+1.11.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.11.0.11/sonar-scm-git-1.11.0.11.jar returned status 404
+1.11.1.2008			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.11.1.2008/sonar-scm-git-1.11.1.2008.jar returned status 404
+1.12.1.2064			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.12.1.2064/sonar-scm-git-1.12.1.2064.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.2/sonar-scm-git-1.2.jar returned status 404
+1.3.0.863			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.3.0.863/sonar-scm-git-1.3.0.863.jar returned status 404
+1.3.0.869			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.3.0.869/sonar-scm-git-1.3.0.869.jar returned status 404
+1.4.0.1037			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.4.0.1037/sonar-scm-git-1.4.0.1037.jar returned status 404
+1.4.1.1128			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.4.1.1128/sonar-scm-git-1.4.1.1128.jar returned status 404
+1.6.0.1349			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.6.0.1349/sonar-scm-git-1.6.0.1349.jar returned status 404
+1.7.0.1491			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.7.0.1491/sonar-scm-git-1.7.0.1491.jar returned status 404
+1.8.0.1574			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.8.0.1574/sonar-scm-git-1.8.0.1574.jar returned status 404
+1.9.0.1725			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.9.0.1725/sonar-scm-git-1.9.0.1725.jar returned status 404
+1.9.1.1834			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/scm/git/sonar-scm-git/1.9.1.1834/sonar-scm-git-1.9.1.1834.jar returned status 404

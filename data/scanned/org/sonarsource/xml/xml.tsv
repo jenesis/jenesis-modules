@@ -1,3 +1,12 @@
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.4/xml-1.4.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.4.1/xml-1.4.1.jar returned status 404
+1.4.2.885			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.4.2.885/xml-1.4.2.885.jar returned status 404
+1.4.3.1027			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.4.3.1027/xml-1.4.3.1027.jar returned status 404
+1.5.0.1373			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.5.0.1373/xml-1.5.0.1373.jar returned status 404
+1.5.1.1452			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/1.5.1.1452/xml-1.5.1.1452.jar returned status 404
+2.0.0.2003			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.0.0.2003/xml-2.0.0.2003.jar returned status 404
+2.0.1.2020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.0.1.2020/xml-2.0.1.2020.jar returned status 404
+2.1.0.2861			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.1.0.2861/xml-2.1.0.2861.jar returned status 404
 2.10.0.4108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.10.0.4108/xml-2.10.0.4108.jar returned status 404
 2.11.0.5671			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.11.0.5671/xml-2.11.0.5671.jar returned status 404
 2.12.0.5749			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/xml/xml/2.12.0.5749/xml-2.12.0.5749.jar returned status 404

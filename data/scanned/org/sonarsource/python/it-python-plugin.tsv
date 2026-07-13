@@ -4,6 +4,22 @@
 1.14.1.3143		2019-07-10T12:24:37Z	
 1.15.1.4116		2019-09-17T14:18:56Z	
 1.16.0.4432		2019-09-30T13:05:58Z	
+2.0.0.5043			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.0.0.5043/it-python-plugin-2.0.0.5043.jar returned status 404
+2.1.0.5269			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.1.0.5269/it-python-plugin-2.1.0.5269.jar returned status 404
+2.10.0.6571			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.10.0.6571/it-python-plugin-2.10.0.6571.jar returned status 404
+2.11.0.6843			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.11.0.6843/it-python-plugin-2.11.0.6843.jar returned status 404
+2.12.0.7065			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.12.0.7065/it-python-plugin-2.12.0.7065.jar returned status 404
+2.13.0.7236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.13.0.7236/it-python-plugin-2.13.0.7236.jar returned status 404
+2.2.0.5331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.2.0.5331/it-python-plugin-2.2.0.5331.jar returned status 404
+2.3.0.5351			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.3.0.5351/it-python-plugin-2.3.0.5351.jar returned status 404
+2.4.0.5513			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.4.0.5513/it-python-plugin-2.4.0.5513.jar returned status 404
+2.5.0.5733			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.5.0.5733/it-python-plugin-2.5.0.5733.jar returned status 404
+2.6.0.5863			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.6.0.5863/it-python-plugin-2.6.0.5863.jar returned status 404
+2.7.0.5975			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.7.0.5975/it-python-plugin-2.7.0.5975.jar returned status 404
+2.8.0.6204			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.8.0.6204/it-python-plugin-2.8.0.6204.jar returned status 404
+2.9.0.6410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/2.9.0.6410/it-python-plugin-2.9.0.6410.jar returned status 404
+3.0.0.7330			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.0.0.7330/it-python-plugin-3.0.0.7330.jar returned status 404
+3.1.0.7619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.1.0.7619/it-python-plugin-3.1.0.7619.jar returned status 404
 3.10.0.9380			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.10.0.9380/it-python-plugin-3.10.0.9380.jar returned status 404
 3.11.0.9522			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.11.0.9522/it-python-plugin-3.11.0.9522.jar returned status 404
 3.12.0.9583			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.12.0.9583/it-python-plugin-3.12.0.9583.jar returned status 404
@@ -16,12 +32,15 @@
 3.17.0.10029			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.17.0.10029/it-python-plugin-3.17.0.10029.jar returned status 404
 3.18.0.10116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.18.0.10116/it-python-plugin-3.18.0.10116.jar returned status 404
 3.19.0.10254			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.19.0.10254/it-python-plugin-3.19.0.10254.jar returned status 404
+3.2.0.7856			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.2.0.7856/it-python-plugin-3.2.0.7856.jar returned status 404
 3.20.0.10345			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.20.0.10345/it-python-plugin-3.20.0.10345.jar returned status 404
 3.21.0.10628			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.21.0.10628/it-python-plugin-3.21.0.10628.jar returned status 404
 3.22.0.10674			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.22.0.10674/it-python-plugin-3.22.0.10674.jar returned status 404
 3.23.0.10732			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.23.0.10732/it-python-plugin-3.23.0.10732.jar returned status 404
 3.24.0.10784			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.24.0.10784/it-python-plugin-3.24.0.10784.jar returned status 404
 3.24.1.11916			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.24.1.11916/it-python-plugin-3.24.1.11916.jar returned status 404
+3.3.0.7945			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.3.0.7945/it-python-plugin-3.3.0.7945.jar returned status 404
+3.4.0.7980			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.4.0.7980/it-python-plugin-3.4.0.7980.jar returned status 404
 3.4.1.8066			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.4.1.8066/it-python-plugin-3.4.1.8066.jar returned status 404
 3.5.0.8244			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.5.0.8244/it-python-plugin-3.5.0.8244.jar returned status 404
 3.6.0.8488			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/3.6.0.8488/it-python-plugin-3.6.0.8488.jar returned status 404
@@ -77,6 +96,7 @@
 5.22.0.33216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.22.0.33216/it-python-plugin-5.22.0.33216.jar returned status 404
 5.23.0.33560		2026-05-28T07:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.23.0.33560/it-python-plugin-5.23.0.33560.jar returned status 404
 5.24.0.34324		2026-06-30T14:04:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.24.0.34324/it-python-plugin-5.24.0.34324.jar returned status 404
+5.25.0.34794			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.25.0.34794/it-python-plugin-5.25.0.34794.jar returned status 404
 5.3.0.21704			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.3.0.21704/it-python-plugin-5.3.0.21704.jar returned status 404
 5.4.0.22255			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.4.0.22255/it-python-plugin-5.4.0.22255.jar returned status 404
 5.5.0.23286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/python/it-python-plugin/5.5.0.23286/it-python-plugin-5.5.0.23286.jar returned status 404

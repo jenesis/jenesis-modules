@@ -22,6 +22,7 @@
 10.26.0.140279		2026-05-28T13:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.26.0.140279/sonar-dotnet-10.26.0.140279.jar returned status 404
 10.27.0.140913		2026-05-28T13:42:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.27.0.140913/sonar-dotnet-10.27.0.140913.jar returned status 404
 10.28.0.143324		2026-07-02T11:48:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.28.0.143324/sonar-dotnet-10.28.0.143324.jar returned status 404
+10.29.0.143774			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.29.0.143774/sonar-dotnet-10.29.0.143774.jar returned status 404
 10.3.0.106239			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.3.0.106239/sonar-dotnet-10.3.0.106239.jar returned status 404
 10.4.0.108396			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.4.0.108396/sonar-dotnet-10.4.0.108396.jar returned status 404
 10.5.0.109200			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/10.5.0.109200/sonar-dotnet-10.5.0.109200.jar returned status 404
@@ -35,6 +36,8 @@
 8.16.0.25740			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.16.0.25740/sonar-dotnet-8.16.0.25740.jar returned status 404
 8.17.0.26580			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.17.0.26580/sonar-dotnet-8.17.0.26580.jar returned status 404
 8.18.0.27296			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.18.0.27296/sonar-dotnet-8.18.0.27296.jar returned status 404
+8.19.0.28253			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.19.0.28253/sonar-dotnet-8.19.0.28253.jar returned status 404
+8.20.0.28934			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.20.0.28934/sonar-dotnet-8.20.0.28934.jar returned status 404
 8.22.0.31243			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.22.0.31243/sonar-dotnet-8.22.0.31243.jar returned status 404
 8.23.0.32424			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.23.0.32424/sonar-dotnet-8.23.0.32424.jar returned status 404
 8.24.0.32949			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/dotnet/sonar-dotnet/8.24.0.32949/sonar-dotnet-8.24.0.32949.jar returned status 404
