@@ -597,6 +597,7 @@
 0.119.137		2024-09-24T17:16:40Z	
 0.119.138		2024-09-25T13:51:42Z	
 0.119.139		2024-09-25T18:47:07Z	
+0.119.140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cybrid/cybrid-api-organization-kotlin/0.119.140/cybrid-api-organization-kotlin-0.119.140.jar returned status 404
 0.119.141		2024-09-26T14:20:50Z	
 0.119.142		2024-09-26T15:06:42Z	
 0.119.143		2024-09-26T15:41:50Z	

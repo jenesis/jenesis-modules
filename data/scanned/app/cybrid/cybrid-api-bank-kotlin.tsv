@@ -597,6 +597,7 @@
 0.119.137		2024-09-24T17:16:52Z	
 0.119.138		2024-09-25T13:52:22Z	
 0.119.139		2024-09-25T18:47:30Z	
+0.119.140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cybrid/cybrid-api-bank-kotlin/0.119.140/cybrid-api-bank-kotlin-0.119.140.jar returned status 404
 0.119.141		2024-09-26T14:21:36Z	
 0.119.142		2024-09-26T15:07:01Z	
 0.119.143		2024-09-26T15:41:52Z	

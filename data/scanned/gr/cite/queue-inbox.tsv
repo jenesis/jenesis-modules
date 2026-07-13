@@ -1,4 +1,5 @@
 1.0.0		2022-10-10T17:31:52Z	
+1.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/queue-inbox/1.0.0-SNAPSHOT/queue-inbox-1.0.0-SNAPSHOT.jar returned status 404
 2.1.0		2023-08-31T08:14:46Z	
 2.1.2		2024-10-11T16:05:03Z	
 4.0.0		2025-12-22T08:26:02Z	

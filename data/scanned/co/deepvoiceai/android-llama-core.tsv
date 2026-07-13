@@ -2,3 +2,6 @@
 4.0.1		2026-05-24T15:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.0.1/android-llama-core-4.0.1.jar returned status 404
 4.0.2		2026-05-28T06:55:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.0.2/android-llama-core-4.0.2.jar returned status 404
 4.1.0		2026-06-20T07:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.1.0/android-llama-core-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.2.0/android-llama-core-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.2.1/android-llama-core-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/deepvoiceai/android-llama-core/4.2.2/android-llama-core-4.2.2.jar returned status 404

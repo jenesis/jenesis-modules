@@ -2,3 +2,4 @@
 0.0.2		2026-06-18T07:03:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/wvbridge/core-android/0.0.2/core-android-0.0.2.jar returned status 404
 0.0.3		2026-06-21T04:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/wvbridge/core-android/0.0.3/core-android-0.0.3.jar returned status 404
 0.0.4		2026-06-26T08:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/wvbridge/core-android/0.0.4/core-android-0.0.4.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/wvbridge/core-android/0.0.5/core-android-0.0.5.jar returned status 404

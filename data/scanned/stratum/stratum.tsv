@@ -1,6 +1,10 @@
+0.1-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stratum/stratum/0.1-dev/stratum-0.1-dev.jar returned status 404
+1.0			
 1.0	b1	2005-04-27T04:48:13Z	
 1.0	b3	2005-04-27T04:48:13Z	
 1.0	b5	2005-04-27T04:48:13Z	
 1.0-b1		2005-08-01T09:48:53Z	
+1.0-b2-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stratum/stratum/1.0-b2-dev/stratum-1.0-b2-dev.jar returned status 404
 1.0-b3		2005-08-01T09:48:53Z	
+1.0-b3-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stratum/stratum/1.0-b3-dev/stratum-1.0-b3-dev.jar returned status 404
 1.0-b5		2005-11-22T18:25:26Z	

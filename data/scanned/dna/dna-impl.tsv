@@ -2,4 +2,6 @@
 1.1		2005-11-22T18:12:13Z	
 1.1-rc1		2005-11-22T18:12:13Z	
 1.1-rc2		2005-11-22T18:12:13Z	
+1.1-rc3-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dna/dna-impl/1.1-rc3-dev/dna-impl-1.1-rc3-dev.jar returned status 404
+1.1-rc4-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dna/dna-impl/1.1-rc4-dev/dna-impl-1.1-rc4-dev.jar returned status 404
 20031005.014103		2005-04-27T04:20:29Z	

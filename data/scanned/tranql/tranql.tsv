@@ -3,8 +3,11 @@
 1.0-M2		2005-11-22T18:27:26Z	
 1.0-M3		2005-11-22T18:27:26Z	
 1.1		2005-11-22T18:27:26Z	
+1.1-20050912.135613			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tranql/tranql/1.1-20050912.135613/tranql-1.1-20050912.135613.jar returned status 404
 1.1-20050912.135644		2005-09-12T16:01:51Z	
+1.1-20050913.134148			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tranql/tranql/1.1-20050913.134148/tranql-1.1-20050913.134148.jar returned status 404
 1.1-20050913.134207		2005-09-13T16:02:04Z	
+1.1-20050921.181603			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tranql/tranql/1.1-20050921.181603/tranql-1.1-20050921.181603.jar returned status 404
 1.1-20050921.181745		2005-09-21T20:02:02Z	
 1.2		2005-12-10T01:32:22Z	
 1.2.1		2005-12-11T13:32:22Z	

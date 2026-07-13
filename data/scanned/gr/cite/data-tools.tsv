@@ -1,5 +1,7 @@
 1.0.0		2022-10-10T14:42:09Z	
+1.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/data-tools/1.0.0-SNAPSHOT/data-tools-1.0.0-SNAPSHOT.jar returned status 404
 2.1.0		2023-07-24T17:14:07Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/data-tools/2.1.2/data-tools-2.1.2.jar returned status 404
 2.1.5		2024-10-11T07:45:35Z	
 2.1.8		2025-06-03T10:47:52Z	
 2.1.9		2025-11-06T11:58:50Z	

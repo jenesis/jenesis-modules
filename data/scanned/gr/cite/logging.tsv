@@ -1,4 +1,5 @@
 1.0.0		2022-10-10T12:38:03Z	
+1.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/logging/1.0.0-SNAPSHOT/logging-1.0.0-SNAPSHOT.jar returned status 404
 2.1.0		2023-07-07T12:34:54Z	
 2.2.0		2024-10-11T06:42:14Z	
 2.2.1		2024-10-11T06:44:04Z	

@@ -567,6 +567,7 @@ v0.119.136		2024-09-24T16:28:41Z
 v0.119.137		2024-09-24T17:20:37Z	
 v0.119.138		2024-09-25T13:55:02Z	
 v0.119.139		2024-09-25T18:50:38Z	
+v0.119.140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cybrid/cybrid-api-organization-java/v0.119.140/cybrid-api-organization-java-v0.119.140.jar returned status 404
 v0.119.141		2024-09-26T14:24:11Z	
 v0.119.142		2024-09-26T15:10:16Z	
 v0.119.143		2024-09-26T15:45:07Z	

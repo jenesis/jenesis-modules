@@ -1,4 +1,6 @@
 1.0.0		2022-10-10T12:53:03Z	
+1.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/oidc-authn/1.0.0-SNAPSHOT/oidc-authn-1.0.0-SNAPSHOT.jar returned status 404
+2.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gr/cite/oidc-authn/2.0.0-SNAPSHOT/oidc-authn-2.0.0-SNAPSHOT.jar returned status 404
 2.1.0		2023-07-24T15:09:25Z	
 2.2.2		2024-10-11T07:52:06Z	
 2.2.8		2025-11-06T11:35:25Z	

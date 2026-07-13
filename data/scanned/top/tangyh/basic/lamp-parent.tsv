@@ -1,1 +1,14 @@
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.10.0/lamp-parent-3.10.0.jar returned status 404
+3.11.0-java17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.11.0-java17/lamp-parent-3.11.0-java17.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.7.0/lamp-parent-3.7.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.8.1/lamp-parent-3.8.1.jar returned status 404
+3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.8.2/lamp-parent-3.8.2.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/3.9.0/lamp-parent-3.9.0.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.0.3/lamp-parent-5.0.3.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.0.4/lamp-parent-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.0.5/lamp-parent-5.0.5.jar returned status 404
+5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.0.6/lamp-parent-5.0.6.jar returned status 404
+5.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.0.8/lamp-parent-5.0.8.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.3.0/lamp-parent-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.3.1/lamp-parent-5.3.1.jar returned status 404
 5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/tangyh/basic/lamp-parent/5.5.1/lamp-parent-5.5.1.jar returned status 404

@@ -1,3 +1,7 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.0.0/final-validator-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.0.1/final-validator-parent-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.1.0/final-validator-parent-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.1.1/final-validator-parent-2.1.1.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.1.2/final-validator-parent-2.1.2.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.2.0/final-validator-parent-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/lingkang/final-validator-parent/2.3.0/final-validator-parent-2.3.0.jar returned status 404
