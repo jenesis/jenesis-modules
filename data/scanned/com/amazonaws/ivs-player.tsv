@@ -106,6 +106,7 @@
 1.53.0		2026-06-06T00:22:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.53.0/ivs-player-1.53.0.jar returned status 404
 1.53.0-rc.1		2026-05-11T01:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.53.0-rc.1/ivs-player-1.53.0-rc.1.jar returned status 404
 1.53.0-rc.3.1		2026-05-26T15:12:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.53.0-rc.3.1/ivs-player-1.53.0-rc.3.1.jar returned status 404
+1.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.54.0/ivs-player-1.54.0.jar returned status 404
 1.54.0-rc.1		2026-06-05T11:02:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.54.0-rc.1/ivs-player-1.54.0-rc.1.jar returned status 404
 1.54.0-rc.3		2026-06-18T21:44:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.54.0-rc.3/ivs-player-1.54.0-rc.3.jar returned status 404
 1.55.0-rc.1		2026-07-02T20:32:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/ivs-player/1.55.0-rc.1/ivs-player-1.55.0-rc.1.jar returned status 404
