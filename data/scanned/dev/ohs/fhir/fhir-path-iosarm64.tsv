@@ -2,3 +2,4 @@
 1.0.0-beta02	metadata	2026-04-23T13:00:14Z	
 1.0.0-beta03		2026-06-02T11:09:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ohs/fhir/fhir-path-iosarm64/1.0.0-beta03/fhir-path-iosarm64-1.0.0-beta03.jar returned status 404
 1.0.0-beta03	metadata	2026-06-02T11:09:41Z	
+1.0.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ohs/fhir/fhir-path-iosarm64/1.0.0-beta04/fhir-path-iosarm64-1.0.0-beta04.jar returned status 404

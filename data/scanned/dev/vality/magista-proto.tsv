@@ -70,3 +70,4 @@
 1.60-6cafe01	v60	2026-03-06T13:53:01Z	
 1.61-bd58cea		2026-06-05T08:13:28Z	
 1.61-bd58cea	v61	2026-06-05T08:13:28Z	
+SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/magista-proto/SNAPSHOT/magista-proto-SNAPSHOT.jar returned status 404

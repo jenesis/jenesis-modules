@@ -5,3 +5,4 @@
 0.0.1-alpha5		2026-07-04T04:26:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cjfravel/nomos-bom/0.0.1-alpha5/nomos-bom-0.0.1-alpha5.jar returned status 404
 0.0.1-alpha6		2026-07-04T05:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cjfravel/nomos-bom/0.0.1-alpha6/nomos-bom-0.0.1-alpha6.jar returned status 404
 0.0.1-alpha7		2026-07-04T15:07:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cjfravel/nomos-bom/0.0.1-alpha7/nomos-bom-0.0.1-alpha7.jar returned status 404
+0.0.1-alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cjfravel/nomos-bom/0.0.1-alpha8/nomos-bom-0.0.1-alpha8.jar returned status 404

@@ -1,2 +1,6 @@
+7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Alpha2/resteasy-7.0-7.0.0.Alpha2.jar returned status 404
+7.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Alpha3/resteasy-7.0-7.0.0.Alpha3.jar returned status 404
+7.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Alpha4/resteasy-7.0-7.0.0.Alpha4.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Beta1/resteasy-7.0-7.0.0.Beta1.jar returned status 404
 7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Beta5/resteasy-7.0-7.0.0.Beta5.jar returned status 404
 7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/resteasy/channels/resteasy-7.0/7.0.0.Final/resteasy-7.0-7.0.0.Final.jar returned status 404

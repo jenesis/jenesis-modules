@@ -1,2 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/crashteam/library-parent-pom/1.0.0/library-parent-pom-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/crashteam/library-parent-pom/1.0.1/library-parent-pom-1.0.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/crashteam/library-parent-pom/2.0.0/library-parent-pom-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/crashteam/library-parent-pom/2.1.0/library-parent-pom-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/crashteam/library-parent-pom/2.1.1/library-parent-pom-2.1.1.jar returned status 404

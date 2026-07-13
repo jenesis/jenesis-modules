@@ -14,3 +14,4 @@
 1.8-9794d14	v8	2024-05-30T10:09:29Z	
 1.9-5d53aec		2026-01-22T08:35:28Z	
 1.9-5d53aec	v9	2026-01-22T08:35:28Z	
+SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/exrates-proto/SNAPSHOT/exrates-proto-SNAPSHOT.jar returned status 404

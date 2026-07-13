@@ -1,2 +1,4 @@
 0.0.1		2022-04-29T08:56:31Z	
 0.2.0		2022-04-30T20:25:09Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/srylax/bbbassets/0.3.0/bbbassets-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/srylax/bbbassets/0.3.1/bbbassets-0.3.1.jar returned status 404

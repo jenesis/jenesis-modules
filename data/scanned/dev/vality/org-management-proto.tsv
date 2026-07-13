@@ -26,3 +26,4 @@
 1.8-c90c0a5	v8	2022-02-21T21:39:14Z	
 1.9-5b13153		2022-02-21T22:08:51Z	
 1.9-5b13153	v9	2022-02-21T22:08:53Z	
+SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/org-management-proto/SNAPSHOT/org-management-proto-SNAPSHOT.jar returned status 404
