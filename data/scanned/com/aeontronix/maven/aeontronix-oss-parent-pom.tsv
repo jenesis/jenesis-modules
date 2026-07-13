@@ -3,4 +3,10 @@
 1.0.10		2026-07-03T20:06:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.10/aeontronix-oss-parent-pom-1.0.10.jar returned status 404
 1.0.11		2026-07-03T20:42:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.11/aeontronix-oss-parent-pom-1.0.11.jar returned status 404
 1.0.2		2019-11-07T18:44:07Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.3/aeontronix-oss-parent-pom-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.4/aeontronix-oss-parent-pom-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.5/aeontronix-oss-parent-pom-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.6/aeontronix-oss-parent-pom-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.7/aeontronix-oss-parent-pom-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.8/aeontronix-oss-parent-pom-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aeontronix/maven/aeontronix-oss-parent-pom/1.0.9/aeontronix-oss-parent-pom-1.0.9.jar returned status 404

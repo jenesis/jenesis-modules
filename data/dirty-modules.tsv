@@ -39,3 +39,8 @@ com.hazelcast.jet.elastic
 com.yashandb.jdbc
 org.yaml.snakeyaml
 com.install4j.runtime
+io.github.classgraph
+org.apache.commons.io
+org.bouncycastle.pkix
+com.cedarsoftware.util
+com.cedarsoftware.io

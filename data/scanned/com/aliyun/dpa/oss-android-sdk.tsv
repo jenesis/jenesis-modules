@@ -11,6 +11,15 @@
 2.2.1		2016-07-26T02:58:14Z	
 2.3.0		2016-09-15T15:01:55Z	
 2.3.0.1		2017-03-27T11:24:00Z	
+2.4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.4.1.2/oss-android-sdk-2.4.1.2.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.4.2/oss-android-sdk-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.4.3/oss-android-sdk-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.4.4/oss-android-sdk-2.4.4.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.5.0/oss-android-sdk-2.5.0.jar returned status 404
+2.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.10/oss-android-sdk-2.9.10.jar returned status 404
+2.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.11/oss-android-sdk-2.9.11.jar returned status 404
+2.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.12/oss-android-sdk-2.9.12.jar returned status 404
+2.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.13/oss-android-sdk-2.9.13.jar returned status 404
 2.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.14/oss-android-sdk-2.9.14.jar returned status 404
 2.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.15/oss-android-sdk-2.9.15.jar returned status 404
 2.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.16/oss-android-sdk-2.9.16.jar returned status 404
@@ -19,3 +28,9 @@
 2.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.19/oss-android-sdk-2.9.19.jar returned status 404
 2.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.20/oss-android-sdk-2.9.20.jar returned status 404
 2.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.21/oss-android-sdk-2.9.21.jar returned status 404
+2.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.4/oss-android-sdk-2.9.4.jar returned status 404
+2.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.5/oss-android-sdk-2.9.5.jar returned status 404
+2.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.6/oss-android-sdk-2.9.6.jar returned status 404
+2.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.7/oss-android-sdk-2.9.7.jar returned status 404
+2.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.8/oss-android-sdk-2.9.8.jar returned status 404
+2.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/dpa/oss-android-sdk/2.9.9/oss-android-sdk-2.9.9.jar returned status 404

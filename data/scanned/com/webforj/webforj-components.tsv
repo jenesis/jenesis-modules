@@ -1,3 +1,14 @@
+24.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.00/webforj-components-24.00.jar returned status 404
+24.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.01/webforj-components-24.01.jar returned status 404
+24.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.02/webforj-components-24.02.jar returned status 404
+24.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.10/webforj-components-24.10.jar returned status 404
+24.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.11/webforj-components-24.11.jar returned status 404
+24.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.12/webforj-components-24.12.jar returned status 404
+24.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.20/webforj-components-24.20.jar returned status 404
+24.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.21/webforj-components-24.21.jar returned status 404
+24.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/24.22/webforj-components-24.22.jar returned status 404
+25.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/25.00/webforj-components-25.00.jar returned status 404
+25.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/25.01/webforj-components-25.01.jar returned status 404
 25.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/25.02/webforj-components-25.02.jar returned status 404
 25.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/25.03/webforj-components-25.03.jar returned status 404
 25.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webforj/webforj-components/25.10/webforj-components-25.10.jar returned status 404

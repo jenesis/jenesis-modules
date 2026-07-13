@@ -1200,3 +1200,7 @@ release-4.114.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-s
 1.0.3	named	com.github.melin	aliyun-metastore-client-hive2	2026-06-15T01:45:36Z	
 1.0.3	named	com.github.melin	aliyun-metastore-client-hive3	2026-06-15T01:45:36Z	
 26.2.8	named	com.exasol	exasol-jdbc	2026-06-29T16:02:10Z	
+11.2.40	named	com.datarobot	datarobot-mlops	2026-07-10T00:12:38Z	
+11.2.41	named	com.datarobot	datarobot-mlops	2026-07-11T00:07:51Z	
+11.2.42	named	com.datarobot	mlops-utils-for-spark_3	2026-07-11T00:07:52Z	
+11.2.42	named	com.datarobot	datarobot-mlops	2026-07-11T00:07:54Z	

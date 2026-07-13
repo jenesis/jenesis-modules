@@ -47,6 +47,34 @@
 3.17.0		2020-09-15T05:19:08Z	
 3.18.0		2020-09-18T09:02:47Z	
 3.19.0		2020-09-20T06:13:21Z	
+3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.20.0/discovery-plugin-strategy-3.20.0.jar returned status 404
+3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.20.1/discovery-plugin-strategy-3.20.1.jar returned status 404
+3.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.20.2/discovery-plugin-strategy-3.20.2.jar returned status 404
+3.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.20.3/discovery-plugin-strategy-3.20.3.jar returned status 404
+3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.21.0/discovery-plugin-strategy-3.21.0.jar returned status 404
+3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.22.0/discovery-plugin-strategy-3.22.0.jar returned status 404
+3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.23.0/discovery-plugin-strategy-3.23.0.jar returned status 404
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.24.0/discovery-plugin-strategy-3.24.0.jar returned status 404
+3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.25.0/discovery-plugin-strategy-3.25.0.jar returned status 404
+3.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.26.0/discovery-plugin-strategy-3.26.0.jar returned status 404
+3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.27.0/discovery-plugin-strategy-3.27.0.jar returned status 404
+3.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.28.0/discovery-plugin-strategy-3.28.0.jar returned status 404
+3.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.28.1/discovery-plugin-strategy-3.28.1.jar returned status 404
+3.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.29.0/discovery-plugin-strategy-3.29.0.jar returned status 404
+3.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.30.0/discovery-plugin-strategy-3.30.0.jar returned status 404
+3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.31.0/discovery-plugin-strategy-3.31.0.jar returned status 404
+3.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.32.0/discovery-plugin-strategy-3.32.0.jar returned status 404
+3.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.33.0/discovery-plugin-strategy-3.33.0.jar returned status 404
+3.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.33.1/discovery-plugin-strategy-3.33.1.jar returned status 404
+3.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.33.2/discovery-plugin-strategy-3.33.2.jar returned status 404
+3.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.34.0/discovery-plugin-strategy-3.34.0.jar returned status 404
+3.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.35.0/discovery-plugin-strategy-3.35.0.jar returned status 404
+3.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.36.0/discovery-plugin-strategy-3.36.0.jar returned status 404
+3.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.37.0/discovery-plugin-strategy-3.37.0.jar returned status 404
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.38.0/discovery-plugin-strategy-3.38.0.jar returned status 404
+3.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.39.0/discovery-plugin-strategy-3.39.0.jar returned status 404
+3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.40.0/discovery-plugin-strategy-3.40.0.jar returned status 404
+3.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/3.41.0/discovery-plugin-strategy-3.41.0.jar returned status 404
 3.5.0		2018-07-28T07:57:10Z	
 3.5.1		2018-07-29T04:51:39Z	
 3.5.2		2018-07-30T17:09:55Z	
@@ -291,6 +319,45 @@
 6.0.6		2020-07-24T20:16:55Z	
 6.0.7		2020-08-17T17:51:48Z	
 6.1.0		2020-09-18T12:52:59Z	
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.10.0/discovery-plugin-strategy-6.10.0.jar returned status 404
+6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.11.0/discovery-plugin-strategy-6.11.0.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.0/discovery-plugin-strategy-6.12.0.jar returned status 404
+6.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.1/discovery-plugin-strategy-6.12.1.jar returned status 404
+6.12.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.10/discovery-plugin-strategy-6.12.10.jar returned status 404
+6.12.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.11/discovery-plugin-strategy-6.12.11.jar returned status 404
+6.12.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.12/discovery-plugin-strategy-6.12.12.jar returned status 404
+6.12.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.13/discovery-plugin-strategy-6.12.13.jar returned status 404
+6.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.2/discovery-plugin-strategy-6.12.2.jar returned status 404
+6.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.3/discovery-plugin-strategy-6.12.3.jar returned status 404
+6.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.4/discovery-plugin-strategy-6.12.4.jar returned status 404
+6.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.5/discovery-plugin-strategy-6.12.5.jar returned status 404
+6.12.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.6/discovery-plugin-strategy-6.12.6.jar returned status 404
+6.12.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.7/discovery-plugin-strategy-6.12.7.jar returned status 404
+6.12.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.8/discovery-plugin-strategy-6.12.8.jar returned status 404
+6.12.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.12.9/discovery-plugin-strategy-6.12.9.jar returned status 404
+6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.13.0/discovery-plugin-strategy-6.13.0.jar returned status 404
+6.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.13.1/discovery-plugin-strategy-6.13.1.jar returned status 404
+6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.14.0/discovery-plugin-strategy-6.14.0.jar returned status 404
+6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.15.0/discovery-plugin-strategy-6.15.0.jar returned status 404
+6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.16.0/discovery-plugin-strategy-6.16.0.jar returned status 404
+6.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.16.1/discovery-plugin-strategy-6.16.1.jar returned status 404
+6.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.16.2/discovery-plugin-strategy-6.16.2.jar returned status 404
+6.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.17.0/discovery-plugin-strategy-6.17.0.jar returned status 404
+6.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.18.0/discovery-plugin-strategy-6.18.0.jar returned status 404
+6.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.19.0/discovery-plugin-strategy-6.19.0.jar returned status 404
 6.2.0		2020-09-20T06:50:36Z	
+6.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.20.0/discovery-plugin-strategy-6.20.0.jar returned status 404
+6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.21.0/discovery-plugin-strategy-6.21.0.jar returned status 404
+6.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.22.0/discovery-plugin-strategy-6.22.0.jar returned status 404
+6.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.23.0/discovery-plugin-strategy-6.23.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.3.0/discovery-plugin-strategy-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.3.1/discovery-plugin-strategy-6.3.1.jar returned status 404
+6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.3.2/discovery-plugin-strategy-6.3.2.jar returned status 404
+6.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.3.3/discovery-plugin-strategy-6.3.3.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.5.0/discovery-plugin-strategy-6.5.0.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.6.0/discovery-plugin-strategy-6.6.0.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.7.0/discovery-plugin-strategy-6.7.0.jar returned status 404
+6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.8.0/discovery-plugin-strategy-6.8.0.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nepxion/discovery-plugin-strategy/6.9.0/discovery-plugin-strategy-6.9.0.jar returned status 404
 Edgware.1.0.0		2019-03-12T10:08:39Z	
 Finchley.1.0.0		2019-03-12T09:51:13Z	

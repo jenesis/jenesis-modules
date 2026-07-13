@@ -1,1 +1,7 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/1/lis-central-pom-1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/2/lis-central-pom-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/3/lis-central-pom-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/4/lis-central-pom-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/5/lis-central-pom-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/6/lis-central-pom-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/link-intersystems/lis-central-pom/7/lis-central-pom-7.jar returned status 404

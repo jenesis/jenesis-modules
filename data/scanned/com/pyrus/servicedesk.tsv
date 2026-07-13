@@ -27,6 +27,7 @@
 0.0.15-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.0.15-alpha/servicedesk-0.0.15-alpha.jar returned status 404
 0.0.16-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.0.16-alpha/servicedesk-0.0.16-alpha.jar returned status 404
 0.0.17-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.0.17-alpha/servicedesk-0.0.17-alpha.jar returned status 404
+0.0.18-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.0.18-alpha/servicedesk-0.0.18-alpha.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.8.0/servicedesk-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.8.1/servicedesk-0.8.1.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pyrus/servicedesk/0.8.2/servicedesk-0.8.2.jar returned status 404
