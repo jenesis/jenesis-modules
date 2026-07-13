@@ -1,3 +1,6 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.0/zookeeper-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.1/zookeeper-2.0.1.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.10/zookeeper-2.0.10.jar returned status 404
 2.0.11		2014-12-03T07:33:06Z	
 2.0.12		2014-12-05T20:53:34Z	
 2.0.13		2014-12-06T16:46:45Z	
@@ -7,6 +10,7 @@
 2.0.17		2014-12-19T12:29:25Z	
 2.0.18		2014-12-22T16:28:05Z	
 2.0.19		2015-01-06T19:21:44Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.2/zookeeper-2.0.2.jar returned status 404
 2.0.20		2015-01-16T16:44:39Z	
 2.0.21		2015-01-20T11:41:44Z	
 2.0.23		2015-01-20T22:27:02Z	
@@ -17,9 +21,11 @@
 2.0.28		2015-02-19T00:22:46Z	
 2.0.28.1		2015-02-19T09:16:42Z	
 2.0.29		2015-02-19T15:04:31Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.3/zookeeper-2.0.3.jar returned status 404
 2.0.30		2015-03-03T22:58:35Z	
 2.0.31		2015-03-10T14:06:23Z	
 2.0.32		2015-03-11T12:06:06Z	
+2.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.33/zookeeper-2.0.33.jar returned status 404
 2.0.33.1		2015-03-17T14:48:41Z	
 2.0.34		2015-03-25T22:06:10Z	
 2.0.35		2015-03-30T13:45:23Z	
@@ -27,17 +33,29 @@
 2.0.37		2015-03-31T20:26:52Z	
 2.0.38		2015-04-01T18:02:47Z	
 2.0.39		2015-04-03T08:10:53Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.4/zookeeper-2.0.4.jar returned status 404
 2.0.40		2015-04-07T23:25:31Z	
 2.0.40.1		2015-04-08T12:24:25Z	
 2.0.41		2015-04-10T15:45:27Z	
 2.0.42		2015-04-15T08:15:14Z	
 2.0.43		2015-04-17T08:24:48Z	
 2.0.44		2015-04-21T06:16:45Z	
+2.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.45/zookeeper-2.0.45.jar returned status 404
 2.0.46		2015-04-22T14:40:41Z	
 2.0.47		2015-04-24T08:44:37Z	
+2.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.48/zookeeper-2.0.48.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.5/zookeeper-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.6/zookeeper-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.7/zookeeper-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.8/zookeeper-2.0.8.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.9/zookeeper-2.0.9.jar returned status 404
+2.0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.0.9.1/zookeeper-2.0.9.1.jar returned status 404
 2.1.1		2015-05-18T18:05:14Z	
 2.1.10		2015-06-06T09:15:59Z	
 2.1.11		2015-06-09T09:44:12Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.1.2/zookeeper-2.1.2.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.1.4/zookeeper-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/jube/images/fabric8/zookeeper/2.1.5/zookeeper-2.1.5.jar returned status 404
 2.1.6		2015-06-03T08:53:18Z	
 2.1.9		2015-06-05T08:28:13Z	
 2.2.0		2015-06-17T22:56:12Z	

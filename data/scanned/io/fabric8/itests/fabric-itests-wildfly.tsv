@@ -1,1 +1,2 @@
 1.0.0.redhat-423		2015-02-07T02:39:13Z	
+1.0.0.redhat-445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/itests/fabric-itests-wildfly/1.0.0.redhat-445/fabric-itests-wildfly-1.0.0.redhat-445.jar returned status 404

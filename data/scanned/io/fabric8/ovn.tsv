@@ -1,3 +1,9 @@
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.0.0/ovn-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.0.1/ovn-7.0.1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.1.0/ovn-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.2.0/ovn-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.3.0/ovn-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.3.1/ovn-7.3.1.jar returned status 404
 7.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.3.2/ovn-7.3.2.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.4.0/ovn-7.4.0.jar returned status 404
 7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/ovn/7.4.1/ovn-7.4.1.jar returned status 404
