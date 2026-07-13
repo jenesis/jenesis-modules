@@ -1,3 +1,27 @@
+1.0.0.Alpha12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha12/channel-parent-1.0.0.Alpha12.jar returned status 404
+1.0.0.Alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha13/channel-parent-1.0.0.Alpha13.jar returned status 404
+1.0.0.Alpha14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha14/channel-parent-1.0.0.Alpha14.jar returned status 404
+1.0.0.Alpha15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha15/channel-parent-1.0.0.Alpha15.jar returned status 404
+1.0.0.Alpha16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha16/channel-parent-1.0.0.Alpha16.jar returned status 404
+1.0.0.Alpha17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha17/channel-parent-1.0.0.Alpha17.jar returned status 404
+1.0.0.Alpha18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Alpha18/channel-parent-1.0.0.Alpha18.jar returned status 404
+1.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta1/channel-parent-1.0.0.Beta1.jar returned status 404
+1.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta2/channel-parent-1.0.0.Beta2.jar returned status 404
+1.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta3/channel-parent-1.0.0.Beta3.jar returned status 404
+1.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta4/channel-parent-1.0.0.Beta4.jar returned status 404
+1.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta5/channel-parent-1.0.0.Beta5.jar returned status 404
+1.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Beta6/channel-parent-1.0.0.Beta6.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.0.Final/channel-parent-1.0.0.Final.jar returned status 404
+1.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.1.Final/channel-parent-1.0.1.Final.jar returned status 404
+1.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.2.Final/channel-parent-1.0.2.Final.jar returned status 404
+1.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.3.Final/channel-parent-1.0.3.Final.jar returned status 404
+1.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.4.Final/channel-parent-1.0.4.Final.jar returned status 404
+1.0.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.5.Final/channel-parent-1.0.5.Final.jar returned status 404
+1.0.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.0.6.Final/channel-parent-1.0.6.Final.jar returned status 404
+1.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.1.0.Final/channel-parent-1.1.0.Final.jar returned status 404
+1.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.2.0.Final/channel-parent-1.2.0.Final.jar returned status 404
+1.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.2.1.Final/channel-parent-1.2.1.Final.jar returned status 404
+1.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.2.2.Final/channel-parent-1.2.2.Final.jar returned status 404
 1.2.3.Final		2026-05-22T10:37:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.2.3.Final/channel-parent-1.2.3.Final.jar returned status 404
 1.3.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.3.0.Beta1/channel-parent-1.3.0.Beta1.jar returned status 404
 1.3.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/channel/channel-parent/1.3.0.Beta2/channel-parent-1.3.0.Beta2.jar returned status 404

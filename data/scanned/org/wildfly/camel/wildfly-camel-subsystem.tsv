@@ -1,6 +1,14 @@
 1.0.0.Alpha1		2013-07-31T10:20:45Z	
 1.0.0.CR1		2014-10-17T11:07:25Z	
 1.0.0.CR2		2014-10-18T19:01:24Z	
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/10.0.0/wildfly-camel-subsystem-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/10.1.0/wildfly-camel-subsystem-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/10.2.0/wildfly-camel-subsystem-10.2.0.jar returned status 404
+10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/10.3.0/wildfly-camel-subsystem-10.3.0.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/11.0.0/wildfly-camel-subsystem-11.0.0.jar returned status 404
+11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/11.0.1/wildfly-camel-subsystem-11.0.1.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/11.1.0/wildfly-camel-subsystem-11.1.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/12.0.0/wildfly-camel-subsystem-12.0.0.jar returned status 404
 2.0.0.Alpha1		2014-10-19T11:39:51Z	
 2.0.0.CR1		2014-11-28T12:10:43Z	
 2.2.0		2015-04-02T07:18:55Z	
@@ -19,6 +27,30 @@
 2.3.0.redhat-621216		2017-10-19T21:23:21Z	
 2.3.0.redhat-621222		2018-09-12T19:33:40Z	
 3.0.0		2015-07-31T12:22:34Z	
+3.0.0.redhat-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/3.0.0.redhat-1/wildfly-camel-subsystem-3.0.0.redhat-1.jar returned status 404
+3.0.1.redhat-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/3.0.1.redhat-1/wildfly-camel-subsystem-3.0.1.redhat-1.jar returned status 404
 3.1.0		2015-10-14T14:29:16Z	
 3.2.0		2015-12-01T14:01:45Z	
 3.3.0		2016-02-05T09:39:50Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.0.0/wildfly-camel-subsystem-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.1.0/wildfly-camel-subsystem-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.1.1/wildfly-camel-subsystem-4.1.1.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.2.0/wildfly-camel-subsystem-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.2.1/wildfly-camel-subsystem-4.2.1.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.3.0/wildfly-camel-subsystem-4.3.0.jar returned status 404
+4.3.0.redhat-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.3.0.redhat-1/wildfly-camel-subsystem-4.3.0.redhat-1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.4.0/wildfly-camel-subsystem-4.4.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.5.0/wildfly-camel-subsystem-4.5.0.jar returned status 404
+4.5.0.redhat-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.5.0.redhat-1/wildfly-camel-subsystem-4.5.0.redhat-1.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.6.0/wildfly-camel-subsystem-4.6.0.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.7.0/wildfly-camel-subsystem-4.7.0.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.8.0/wildfly-camel-subsystem-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/4.9.0/wildfly-camel-subsystem-4.9.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/5.0.0/wildfly-camel-subsystem-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/5.1.0/wildfly-camel-subsystem-5.1.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/6.0.0/wildfly-camel-subsystem-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/6.1.0/wildfly-camel-subsystem-6.1.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/7.0.0/wildfly-camel-subsystem-7.0.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/8.0.0/wildfly-camel-subsystem-8.0.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/9.0.0/wildfly-camel-subsystem-9.0.0.jar returned status 404
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/camel/wildfly-camel-subsystem/9.1.0/wildfly-camel-subsystem-9.1.0.jar returned status 404
