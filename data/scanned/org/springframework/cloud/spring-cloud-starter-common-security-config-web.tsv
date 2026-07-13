@@ -36,3 +36,9 @@
 1.8.1		2023-02-15T20:59:29Z	
 1.8.2		2023-03-08T10:04:00Z	
 1.8.3		2023-05-05T02:09:00Z	
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.0/spring-cloud-starter-common-security-config-web-2.11.0.jar returned status 404
+2.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.1/spring-cloud-starter-common-security-config-web-2.11.1.jar returned status 404
+2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.2/spring-cloud-starter-common-security-config-web-2.11.2.jar returned status 404
+2.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.3/spring-cloud-starter-common-security-config-web-2.11.3.jar returned status 404
+2.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.4/spring-cloud-starter-common-security-config-web-2.11.4.jar returned status 404
+2.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-common-security-config-web/2.11.5/spring-cloud-starter-common-security-config-web-2.11.5.jar returned status 404
