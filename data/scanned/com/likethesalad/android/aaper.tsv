@@ -1,3 +1,6 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/1.0.0/aaper-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/1.0.1/aaper-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/1.0.2/aaper-1.0.2.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/1.1.0/aaper-1.1.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/2.0.0/aaper-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/likethesalad/android/aaper/2.1.0/aaper-2.1.0.jar returned status 404

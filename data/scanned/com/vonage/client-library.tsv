@@ -4,3 +4,6 @@
 1.2.0		2026-06-26T19:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.2.0/client-library-1.2.0.jar returned status 404
 1.3.0-alpha01		2026-06-26T21:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.3.0-alpha01/client-library-1.3.0-alpha01.jar returned status 404
 1.3.0-alpha02		2026-07-06T00:14:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.3.0-alpha02/client-library-1.3.0-alpha02.jar returned status 404
+1.3.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.3.0-alpha03/client-library-1.3.0-alpha03.jar returned status 404
+1.3.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.3.0-alpha04/client-library-1.3.0-alpha04.jar returned status 404
+1.3.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/client-library/1.3.0-alpha05/client-library-1.3.0-alpha05.jar returned status 404

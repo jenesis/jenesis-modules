@@ -11,7 +11,10 @@
 1.0.3		2014-08-08T18:04:10Z	
 1.0.4		2014-08-20T14:35:43Z	
 1.0.5		2014-08-21T21:02:17Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stackify/stackify-log-log4j12/1.0.6/stackify-log-log4j12-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stackify/stackify-log-log4j12/1.0.7/stackify-log-log4j12-1.0.7.jar returned status 404
 1.0.8		2014-09-17T21:54:56Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stackify/stackify-log-log4j12/1.1.0/stackify-log-log4j12-1.1.0.jar returned status 404
 1.1.1		2015-01-26T16:59:52Z	
 1.1.2		2015-03-02T16:59:34Z	
 1.1.3		2015-04-02T16:20:08Z	

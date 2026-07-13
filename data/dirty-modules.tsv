@@ -64,3 +64,14 @@ com.xkball.xklib.mc
 com.xkball.xklib.ap
 com.xkball.xklib
 org.xerial.sqlitejdbc
+com.hemju.threadmill.dashboard.spring
+com.hemju.threadmill.store.postgres
+com.hemju.threadmill.store.memory
+com.hemju.threadmill.store.redis
+com.hemju.threadmill.test.support
+com.hemju.threadmill.dashboard.ui
+com.hemju.threadmill.spring.boot
+com.hemju.threadmill.metrics
+com.hemju.threadmill.tracing
+com.hemju.threadmill.dashboard.api
+com.hemju.threadmill.core

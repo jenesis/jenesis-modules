@@ -37,6 +37,8 @@
 5.18.0		2026-05-31T07:20:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.18.0/pangle-adapter-5.18.0.jar returned status 404
 5.19.0		2026-06-28T09:27:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.19.0/pangle-adapter-5.19.0.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.2.0/pangle-adapter-5.2.0.jar returned status 404
+5.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.20.0/pangle-adapter-5.20.0.jar returned status 404
+5.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.21.0/pangle-adapter-5.21.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.3.0/pangle-adapter-5.3.0.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.4.0/pangle-adapter-5.4.0.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/pangle-adapter/5.5.0/pangle-adapter-5.5.0.jar returned status 404
