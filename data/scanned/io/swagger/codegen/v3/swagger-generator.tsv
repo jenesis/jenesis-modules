@@ -1,4 +1,71 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.0/swagger-generator-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.1/swagger-generator-3.0.1.jar returned status 404
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.10/swagger-generator-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.11/swagger-generator-3.0.11.jar returned status 404
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.12/swagger-generator-3.0.12.jar returned status 404
+3.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.13/swagger-generator-3.0.13.jar returned status 404
+3.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.14/swagger-generator-3.0.14.jar returned status 404
+3.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.15/swagger-generator-3.0.15.jar returned status 404
+3.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.16/swagger-generator-3.0.16.jar returned status 404
+3.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.17/swagger-generator-3.0.17.jar returned status 404
+3.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.18/swagger-generator-3.0.18.jar returned status 404
+3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.19/swagger-generator-3.0.19.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.2/swagger-generator-3.0.2.jar returned status 404
+3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.20/swagger-generator-3.0.20.jar returned status 404
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.21/swagger-generator-3.0.21.jar returned status 404
+3.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.22/swagger-generator-3.0.22.jar returned status 404
+3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.23/swagger-generator-3.0.23.jar returned status 404
+3.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.24/swagger-generator-3.0.24.jar returned status 404
+3.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.25/swagger-generator-3.0.25.jar returned status 404
+3.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.26/swagger-generator-3.0.26.jar returned status 404
+3.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.27/swagger-generator-3.0.27.jar returned status 404
+3.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.28/swagger-generator-3.0.28.jar returned status 404
+3.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.29/swagger-generator-3.0.29.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.3/swagger-generator-3.0.3.jar returned status 404
+3.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.30/swagger-generator-3.0.30.jar returned status 404
+3.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.31/swagger-generator-3.0.31.jar returned status 404
+3.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.32/swagger-generator-3.0.32.jar returned status 404
+3.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.33/swagger-generator-3.0.33.jar returned status 404
+3.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.34/swagger-generator-3.0.34.jar returned status 404
+3.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.35/swagger-generator-3.0.35.jar returned status 404
+3.0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.36/swagger-generator-3.0.36.jar returned status 404
+3.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.37/swagger-generator-3.0.37.jar returned status 404
+3.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.38/swagger-generator-3.0.38.jar returned status 404
+3.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.39/swagger-generator-3.0.39.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.4/swagger-generator-3.0.4.jar returned status 404
+3.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.40/swagger-generator-3.0.40.jar returned status 404
+3.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.41/swagger-generator-3.0.41.jar returned status 404
+3.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.42/swagger-generator-3.0.42.jar returned status 404
+3.0.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.43/swagger-generator-3.0.43.jar returned status 404
+3.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.44/swagger-generator-3.0.44.jar returned status 404
+3.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.45/swagger-generator-3.0.45.jar returned status 404
+3.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.46/swagger-generator-3.0.46.jar returned status 404
+3.0.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.47/swagger-generator-3.0.47.jar returned status 404
+3.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.48/swagger-generator-3.0.48.jar returned status 404
+3.0.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.49/swagger-generator-3.0.49.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.5/swagger-generator-3.0.5.jar returned status 404
+3.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.50/swagger-generator-3.0.50.jar returned status 404
+3.0.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.51/swagger-generator-3.0.51.jar returned status 404
+3.0.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.52/swagger-generator-3.0.52.jar returned status 404
+3.0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.53/swagger-generator-3.0.53.jar returned status 404
+3.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.54/swagger-generator-3.0.54.jar returned status 404
+3.0.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.55/swagger-generator-3.0.55.jar returned status 404
+3.0.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.56/swagger-generator-3.0.56.jar returned status 404
+3.0.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.57/swagger-generator-3.0.57.jar returned status 404
+3.0.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.58/swagger-generator-3.0.58.jar returned status 404
+3.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.59/swagger-generator-3.0.59.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.6/swagger-generator-3.0.6.jar returned status 404
+3.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.60/swagger-generator-3.0.60.jar returned status 404
+3.0.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.61/swagger-generator-3.0.61.jar returned status 404
+3.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.62/swagger-generator-3.0.62.jar returned status 404
+3.0.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.63/swagger-generator-3.0.63.jar returned status 404
+3.0.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.64/swagger-generator-3.0.64.jar returned status 404
+3.0.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.65/swagger-generator-3.0.65.jar returned status 404
+3.0.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.66/swagger-generator-3.0.66.jar returned status 404
+3.0.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.67/swagger-generator-3.0.67.jar returned status 404
+3.0.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.68/swagger-generator-3.0.68.jar returned status 404
 3.0.69		2025-06-20T10:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.69/swagger-generator-3.0.69.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.7/swagger-generator-3.0.7.jar returned status 404
 3.0.70		2025-07-01T12:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.70/swagger-generator-3.0.70.jar returned status 404
 3.0.71		2025-07-03T17:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.71/swagger-generator-3.0.71.jar returned status 404
 3.0.72		2025-09-02T07:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.72/swagger-generator-3.0.72.jar returned status 404
@@ -9,5 +76,7 @@
 3.0.77		2026-02-04T15:03:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.77/swagger-generator-3.0.77.jar returned status 404
 3.0.78		2026-02-17T12:34:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.78/swagger-generator-3.0.78.jar returned status 404
 3.0.79		2026-04-22T08:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.79/swagger-generator-3.0.79.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.8/swagger-generator-3.0.8.jar returned status 404
 3.0.80		2026-05-13T13:52:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.80/swagger-generator-3.0.80.jar returned status 404
 3.0.81		2026-05-18T12:47:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.81/swagger-generator-3.0.81.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/codegen/v3/swagger-generator/3.0.9/swagger-generator-3.0.9.jar returned status 404

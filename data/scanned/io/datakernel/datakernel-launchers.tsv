@@ -1,3 +1,9 @@
 2.5.10		2018-05-20T19:19:50Z	
 2.5.11		2018-06-08T14:59:18Z	
 2.5.13		2019-09-11T12:25:57Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.0.0/datakernel-launchers-3.0.0.jar returned status 404
+3.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.0.0-beta1/datakernel-launchers-3.0.0-beta1.jar returned status 404
+3.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.0.0-beta2/datakernel-launchers-3.0.0-beta2.jar returned status 404
+3.0.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.0.0-rc/datakernel-launchers-3.0.0-rc.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.0.1/datakernel-launchers-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datakernel/datakernel-launchers/3.1.0/datakernel-launchers-3.1.0.jar returned status 404

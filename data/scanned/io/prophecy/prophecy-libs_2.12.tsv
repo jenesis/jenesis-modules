@@ -1484,6 +1484,7 @@
 3.1.2-8.8.3	assembly	2025-04-10T11:15:59Z	
 3.1.2-8.8.4		2025-06-20T16:26:31Z	
 3.1.2-8.8.4	assembly	2025-06-20T16:26:29Z	
+3.1.2-8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/prophecy/prophecy-libs_2.12/3.1.2-8.8.6/prophecy-libs_2.12-3.1.2-8.8.6.jar returned status 404
 3.1.2-8.8.6	assembly	2025-07-03T06:51:40Z	
 3.1.2-8.8.7		2025-07-03T10:46:13Z	
 3.1.2-8.8.7	assembly	2025-07-03T10:46:13Z	
