@@ -12,3 +12,14 @@ com.github.spotbugs.test.jupiter
 com.github.spotbugs.test.core
 com.github.benmanes.caffeine.simulator
 org.bbottema.rtftohtml
+com.github.oshi.ffm
+com.github.oshi.common
+com.github.oshi.metrics
+com.github.oshi
+com.github.tomcat10.slf4j.logback
+com.github.tomcat11.slf4j.logback
+com.github.tomcat9.slf4j.logback
+com.github.copilot.java
+com.github.plokhotnyuk.jsoniter_scala.macros
+com.github.plokhotnyuk.jsoniter_scala.circe
+com.github.plokhotnyuk.jsoniter_scala.core

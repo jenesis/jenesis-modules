@@ -1,1 +1,4 @@
 1.0		2018-01-08T04:45:52Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mg365/mg-framework/1.0.3/mg-framework-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mg365/mg-framework/1.0.4/mg-framework-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mg365/mg-framework/1.0.5/mg-framework-1.0.5.jar returned status 404
