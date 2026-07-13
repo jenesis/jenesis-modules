@@ -1,1 +1,11 @@
+0.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/0.8.0.Final/mvc-krazo-galleon-local-0.8.0.Final.jar returned status 404
+0.8.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/0.8.1.Final/mvc-krazo-galleon-local-0.8.1.Final.jar returned status 404
+0.8.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/0.8.2.Final/mvc-krazo-galleon-local-0.8.2.Final.jar returned status 404
+0.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/0.9.0.Final/mvc-krazo-galleon-local-0.9.0.Final.jar returned status 404
+1.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/1.0.0.Beta1/mvc-krazo-galleon-local-1.0.0.Beta1.jar returned status 404
+1.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/1.0.0.CR1/mvc-krazo-galleon-local-1.0.0.CR1.jar returned status 404
+1.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/1.0.0.CR2/mvc-krazo-galleon-local-1.0.0.CR2.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/1.0.0.Final/mvc-krazo-galleon-local-1.0.0.Final.jar returned status 404
+1.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/1.0.1.Final/mvc-krazo-galleon-local-1.0.1.Final.jar returned status 404
+2.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/2.0.0.Final/mvc-krazo-galleon-local-2.0.0.Final.jar returned status 404
 2.0.1.Final		2025-12-12T19:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/mvc-krazo-galleon-local/2.0.1.Final/mvc-krazo-galleon-local-2.0.1.Final.jar returned status 404
