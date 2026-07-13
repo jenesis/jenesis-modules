@@ -578,8 +578,28 @@
 6.4.21		2018-09-07T15:51:09Z	
 6.4.210		2019-05-31T10:13:16Z	
 6.4.211		2019-05-31T14:10:33Z	
+6.4.212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.212/org.wso2.carbon.hostobjects.sso-6.4.212.jar returned status 404
+6.4.213			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.213/org.wso2.carbon.hostobjects.sso-6.4.213.jar returned status 404
+6.4.214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.214/org.wso2.carbon.hostobjects.sso-6.4.214.jar returned status 404
+6.4.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.215/org.wso2.carbon.hostobjects.sso-6.4.215.jar returned status 404
+6.4.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.216/org.wso2.carbon.hostobjects.sso-6.4.216.jar returned status 404
+6.4.217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.217/org.wso2.carbon.hostobjects.sso-6.4.217.jar returned status 404
+6.4.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.218/org.wso2.carbon.hostobjects.sso-6.4.218.jar returned status 404
+6.4.219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.219/org.wso2.carbon.hostobjects.sso-6.4.219.jar returned status 404
 6.4.22		2018-09-07T17:02:25Z	
+6.4.221			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.221/org.wso2.carbon.hostobjects.sso-6.4.221.jar returned status 404
+6.4.222			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.222/org.wso2.carbon.hostobjects.sso-6.4.222.jar returned status 404
+6.4.223			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.223/org.wso2.carbon.hostobjects.sso-6.4.223.jar returned status 404
+6.4.224			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.224/org.wso2.carbon.hostobjects.sso-6.4.224.jar returned status 404
+6.4.225			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.225/org.wso2.carbon.hostobjects.sso-6.4.225.jar returned status 404
+6.4.226			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.226/org.wso2.carbon.hostobjects.sso-6.4.226.jar returned status 404
+6.4.227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.227/org.wso2.carbon.hostobjects.sso-6.4.227.jar returned status 404
+6.4.228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.228/org.wso2.carbon.hostobjects.sso-6.4.228.jar returned status 404
+6.4.229			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.229/org.wso2.carbon.hostobjects.sso-6.4.229.jar returned status 404
 6.4.23		2018-09-08T19:42:38Z	
+6.4.230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.230/org.wso2.carbon.hostobjects.sso-6.4.230.jar returned status 404
+6.4.231			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.231/org.wso2.carbon.hostobjects.sso-6.4.231.jar returned status 404
+6.4.232			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.4.232/org.wso2.carbon.hostobjects.sso-6.4.232.jar returned status 404
 6.4.24		2018-09-09T10:14:09Z	
 6.4.25		2018-09-10T05:08:42Z	
 6.4.26		2018-09-10T05:49:57Z	
@@ -663,6 +683,10 @@
 6.4.97		2018-12-14T14:44:11Z	
 6.4.98		2018-12-17T06:52:25Z	
 6.4.99		2019-01-10T06:09:35Z	
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.0/org.wso2.carbon.hostobjects.sso-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.1/org.wso2.carbon.hostobjects.sso-6.5.1.jar returned status 404
+6.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.10/org.wso2.carbon.hostobjects.sso-6.5.10.jar returned status 404
+6.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.11/org.wso2.carbon.hostobjects.sso-6.5.11.jar returned status 404
 6.5.121		2019-09-21T11:55:21Z	
 6.5.122		2019-09-23T14:31:13Z	
 6.5.123		2019-09-23T15:37:25Z	
@@ -740,6 +764,7 @@
 6.5.197		2019-10-07T16:52:55Z	
 6.5.198		2019-10-08T06:01:28Z	
 6.5.199		2019-10-08T07:04:43Z	
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.2/org.wso2.carbon.hostobjects.sso-6.5.2.jar returned status 404
 6.5.200		2019-10-08T12:06:26Z	
 6.5.201		2019-10-08T13:14:04Z	
 6.5.202		2019-10-08T16:23:24Z	
@@ -839,6 +864,7 @@
 6.5.297		2019-10-19T13:59:10Z	
 6.5.298		2019-10-19T17:04:00Z	
 6.5.299		2019-10-19T18:08:35Z	
+6.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.3/org.wso2.carbon.hostobjects.sso-6.5.3.jar returned status 404
 6.5.300		2019-10-19T19:07:40Z	
 6.5.301		2019-10-19T20:18:43Z	
 6.5.302		2019-10-19T21:42:06Z	
@@ -889,6 +915,7 @@
 6.5.347		2019-10-24T15:57:07Z	
 6.5.348		2019-10-24T17:38:56Z	
 6.5.349		2019-10-24T18:37:48Z	
+6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.4/org.wso2.carbon.hostobjects.sso-6.5.4.jar returned status 404
 6.5.423		2019-12-04T16:21:16Z	
 6.5.424		2019-12-05T09:53:17Z	
 6.5.425		2019-12-05T12:39:23Z	
@@ -910,6 +937,11 @@
 6.5.441		2019-12-16T13:02:12Z	
 6.5.442		2019-12-16T15:24:59Z	
 6.5.443		2019-12-17T13:37:41Z	
+6.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.5/org.wso2.carbon.hostobjects.sso-6.5.5.jar returned status 404
+6.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.6/org.wso2.carbon.hostobjects.sso-6.5.6.jar returned status 404
+6.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.7/org.wso2.carbon.hostobjects.sso-6.5.7.jar returned status 404
+6.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.8/org.wso2.carbon.hostobjects.sso-6.5.8.jar returned status 404
+6.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.hostobjects.sso/6.5.9/org.wso2.carbon.hostobjects.sso-6.5.9.jar returned status 404
 6.6.100		2020-02-26T11:57:12Z	
 6.6.101		2020-02-27T05:50:57Z	
 6.6.102		2020-02-27T07:12:17Z	
