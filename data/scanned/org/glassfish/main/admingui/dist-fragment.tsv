@@ -18,3 +18,5 @@
 7.0.0-M2		2023-01-19T19:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/dist-fragment/7.0.0-M2/dist-fragment-7.0.0-M2.jar returned status 404
 7.0.0-M3		2023-01-19T19:21:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/dist-fragment/7.0.0-M3/dist-fragment-7.0.0-M3.jar returned status 404
 7.0.0-M4		2023-01-19T19:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/dist-fragment/7.0.0-M4/dist-fragment-7.0.0-M4.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/dist-fragment/7.0.1/dist-fragment-7.0.1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/dist-fragment/7.0.2/dist-fragment-7.0.2.jar returned status 404
