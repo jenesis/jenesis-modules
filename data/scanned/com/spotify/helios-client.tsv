@@ -300,6 +300,7 @@
 0.9.212		2018-08-17T22:43:19Z	
 0.9.213		2018-08-28T19:29:25Z	
 0.9.214		2018-09-06T15:32:03Z	
+0.9.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/helios-client/0.9.215/helios-client-0.9.215.jar returned status 404
 0.9.216		2018-09-24T19:50:32Z	
 0.9.217		2018-09-25T20:04:52Z	
 0.9.218		2018-09-28T20:18:47Z	

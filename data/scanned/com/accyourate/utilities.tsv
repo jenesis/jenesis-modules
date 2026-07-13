@@ -1,3 +1,4 @@
+.0.1			
 1.0.1		2023-09-20T16:37:55Z	
 1.0.2		2023-09-19T09:33:10Z	
 1.0.3		2023-09-20T13:18:10Z	
@@ -39,6 +40,7 @@
 1.1.36		2023-09-29T08:41:05Z	
 1.1.38		2023-10-02T07:14:16Z	
 1.1.39		2023-10-02T07:42:55Z	
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accyourate/utilities/1.1.4/utilities-1.1.4.jar returned status 404
 1.1.40		2023-10-02T07:51:32Z	
 1.1.41		2023-10-02T09:49:41Z	
 1.1.42		2023-10-02T10:40:59Z	
@@ -48,6 +50,7 @@
 1.1.47		2023-10-03T11:18:32Z	
 1.1.48		2023-10-03T14:58:42Z	
 1.1.49		2023-10-04T06:50:23Z	
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/accyourate/utilities/1.1.5/utilities-1.1.5.jar returned status 404
 1.1.50		2023-10-04T07:04:22Z	
 1.1.51		2023-10-05T09:47:33Z	
 1.1.52		2023-10-05T13:07:03Z	

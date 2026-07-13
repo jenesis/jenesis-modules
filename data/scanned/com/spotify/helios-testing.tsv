@@ -440,6 +440,7 @@
 0.9.214		2018-09-06T15:32:10Z	
 0.9.214	shaded	2018-09-06T15:32:06Z	
 0.9.214	shaded-sources	2018-09-06T15:32:19Z	
+0.9.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/helios-testing/0.9.215/helios-testing-0.9.215.jar returned status 404
 0.9.216		2018-09-24T19:50:45Z	
 0.9.216	shaded	2018-09-24T19:50:22Z	
 0.9.216	shaded-sources	2018-09-24T19:50:41Z	

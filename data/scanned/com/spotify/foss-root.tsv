@@ -1,7 +1,17 @@
 1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/1/foss-root-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/10/foss-root-10.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/12/foss-root-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/13/foss-root-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/14/foss-root-14.jar returned status 404
+15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/15/foss-root-15.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/16/foss-root-16.jar returned status 404
+17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/17/foss-root-17.jar returned status 404
 18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/18/foss-root-18.jar returned status 404
 2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/2/foss-root-2.jar returned status 404
 3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/3/foss-root-3.jar returned status 404
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/4/foss-root-4.jar returned status 404
 5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/5/foss-root-5.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/6/foss-root-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/7/foss-root-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/8/foss-root-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/spotify/foss-root/9/foss-root-9.jar returned status 404
