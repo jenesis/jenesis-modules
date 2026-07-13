@@ -699,8 +699,28 @@
 6.4.21		2018-09-07T15:40:31Z	
 6.4.210		2019-05-31T09:59:42Z	
 6.4.211		2019-05-31T13:56:48Z	
+6.4.212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.212/org.wso2.carbon.apimgt.usage.client-6.4.212.jar returned status 404
+6.4.213			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.213/org.wso2.carbon.apimgt.usage.client-6.4.213.jar returned status 404
+6.4.214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.214/org.wso2.carbon.apimgt.usage.client-6.4.214.jar returned status 404
+6.4.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.215/org.wso2.carbon.apimgt.usage.client-6.4.215.jar returned status 404
+6.4.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.216/org.wso2.carbon.apimgt.usage.client-6.4.216.jar returned status 404
+6.4.217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.217/org.wso2.carbon.apimgt.usage.client-6.4.217.jar returned status 404
+6.4.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.218/org.wso2.carbon.apimgt.usage.client-6.4.218.jar returned status 404
+6.4.219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.219/org.wso2.carbon.apimgt.usage.client-6.4.219.jar returned status 404
 6.4.22		2018-09-07T16:51:24Z	
+6.4.221			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.221/org.wso2.carbon.apimgt.usage.client-6.4.221.jar returned status 404
+6.4.222			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.222/org.wso2.carbon.apimgt.usage.client-6.4.222.jar returned status 404
+6.4.223			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.223/org.wso2.carbon.apimgt.usage.client-6.4.223.jar returned status 404
+6.4.224			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.224/org.wso2.carbon.apimgt.usage.client-6.4.224.jar returned status 404
+6.4.225			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.225/org.wso2.carbon.apimgt.usage.client-6.4.225.jar returned status 404
+6.4.226			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.226/org.wso2.carbon.apimgt.usage.client-6.4.226.jar returned status 404
+6.4.227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.227/org.wso2.carbon.apimgt.usage.client-6.4.227.jar returned status 404
+6.4.228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.228/org.wso2.carbon.apimgt.usage.client-6.4.228.jar returned status 404
+6.4.229			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.229/org.wso2.carbon.apimgt.usage.client-6.4.229.jar returned status 404
 6.4.23		2018-09-08T19:32:21Z	
+6.4.230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.230/org.wso2.carbon.apimgt.usage.client-6.4.230.jar returned status 404
+6.4.231			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.231/org.wso2.carbon.apimgt.usage.client-6.4.231.jar returned status 404
+6.4.232			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.4.232/org.wso2.carbon.apimgt.usage.client-6.4.232.jar returned status 404
 6.4.24		2018-09-09T10:03:58Z	
 6.4.25		2018-09-10T04:57:50Z	
 6.4.26		2018-09-10T05:39:43Z	
@@ -784,6 +804,31 @@
 6.4.97		2018-12-14T14:33:09Z	
 6.4.98		2018-12-17T06:41:23Z	
 6.4.99		2019-01-10T05:59:38Z	
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.0/org.wso2.carbon.apimgt.usage.client-6.5.0.jar returned status 404
+6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.1/org.wso2.carbon.apimgt.usage.client-6.5.1.jar returned status 404
+6.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.10/org.wso2.carbon.apimgt.usage.client-6.5.10.jar returned status 404
+6.5.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.100/org.wso2.carbon.apimgt.usage.client-6.5.100.jar returned status 404
+6.5.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.101/org.wso2.carbon.apimgt.usage.client-6.5.101.jar returned status 404
+6.5.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.102/org.wso2.carbon.apimgt.usage.client-6.5.102.jar returned status 404
+6.5.103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.103/org.wso2.carbon.apimgt.usage.client-6.5.103.jar returned status 404
+6.5.104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.104/org.wso2.carbon.apimgt.usage.client-6.5.104.jar returned status 404
+6.5.105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.105/org.wso2.carbon.apimgt.usage.client-6.5.105.jar returned status 404
+6.5.106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.106/org.wso2.carbon.apimgt.usage.client-6.5.106.jar returned status 404
+6.5.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.107/org.wso2.carbon.apimgt.usage.client-6.5.107.jar returned status 404
+6.5.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.108/org.wso2.carbon.apimgt.usage.client-6.5.108.jar returned status 404
+6.5.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.109/org.wso2.carbon.apimgt.usage.client-6.5.109.jar returned status 404
+6.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.11/org.wso2.carbon.apimgt.usage.client-6.5.11.jar returned status 404
+6.5.110			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.110/org.wso2.carbon.apimgt.usage.client-6.5.110.jar returned status 404
+6.5.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.111/org.wso2.carbon.apimgt.usage.client-6.5.111.jar returned status 404
+6.5.112			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.112/org.wso2.carbon.apimgt.usage.client-6.5.112.jar returned status 404
+6.5.113			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.113/org.wso2.carbon.apimgt.usage.client-6.5.113.jar returned status 404
+6.5.114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.114/org.wso2.carbon.apimgt.usage.client-6.5.114.jar returned status 404
+6.5.115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.115/org.wso2.carbon.apimgt.usage.client-6.5.115.jar returned status 404
+6.5.116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.116/org.wso2.carbon.apimgt.usage.client-6.5.116.jar returned status 404
+6.5.117			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.117/org.wso2.carbon.apimgt.usage.client-6.5.117.jar returned status 404
+6.5.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.118/org.wso2.carbon.apimgt.usage.client-6.5.118.jar returned status 404
+6.5.119			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.119/org.wso2.carbon.apimgt.usage.client-6.5.119.jar returned status 404
+6.5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.12/org.wso2.carbon.apimgt.usage.client-6.5.12.jar returned status 404
 6.5.121		2019-09-21T11:41:11Z	
 6.5.122		2019-09-23T14:16:10Z	
 6.5.123		2019-09-23T15:21:56Z	
@@ -793,6 +838,7 @@
 6.5.127		2019-09-24T08:11:50Z	
 6.5.128		2019-09-24T10:07:44Z	
 6.5.129		2019-09-24T17:51:28Z	
+6.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.13/org.wso2.carbon.apimgt.usage.client-6.5.13.jar returned status 404
 6.5.130		2019-09-25T01:39:59Z	
 6.5.131		2019-09-25T06:56:23Z	
 6.5.132		2019-09-25T08:18:52Z	
@@ -801,6 +847,7 @@
 6.5.136		2019-09-26T07:46:37Z	
 6.5.137		2019-09-26T09:12:20Z	
 6.5.138		2019-09-26T12:43:29Z	
+6.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.14/org.wso2.carbon.apimgt.usage.client-6.5.14.jar returned status 404
 6.5.140		2019-09-26T17:18:43Z	
 6.5.141		2019-09-27T05:51:56Z	
 6.5.142		2019-09-27T06:56:38Z	
@@ -811,6 +858,7 @@
 6.5.147		2019-09-27T18:54:39Z	
 6.5.148		2019-09-28T20:19:45Z	
 6.5.149		2019-09-28T21:33:26Z	
+6.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.15/org.wso2.carbon.apimgt.usage.client-6.5.15.jar returned status 404
 6.5.150		2019-09-29T15:25:19Z	
 6.5.151		2019-09-30T04:28:29Z	
 6.5.152		2019-09-30T08:09:16Z	
@@ -821,6 +869,7 @@
 6.5.157		2019-10-01T05:38:26Z	
 6.5.158		2019-10-01T06:44:51Z	
 6.5.159		2019-10-01T10:25:06Z	
+6.5.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.16/org.wso2.carbon.apimgt.usage.client-6.5.16.jar returned status 404
 6.5.160		2019-10-01T11:27:10Z	
 6.5.161		2019-10-01T12:35:40Z	
 6.5.162		2019-10-01T13:40:37Z	
@@ -831,6 +880,7 @@
 6.5.167		2019-10-02T10:52:20Z	
 6.5.168		2019-10-02T12:41:31Z	
 6.5.169		2019-10-02T16:36:44Z	
+6.5.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.17/org.wso2.carbon.apimgt.usage.client-6.5.17.jar returned status 404
 6.5.170		2019-10-02T17:44:12Z	
 6.5.171		2019-10-02T18:57:47Z	
 6.5.172		2019-10-03T04:28:11Z	
@@ -841,6 +891,7 @@
 6.5.177		2019-10-04T04:38:30Z	
 6.5.178		2019-10-04T05:40:31Z	
 6.5.179		2019-10-04T06:44:12Z	
+6.5.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.18/org.wso2.carbon.apimgt.usage.client-6.5.18.jar returned status 404
 6.5.180		2019-10-04T07:49:47Z	
 6.5.181		2019-10-04T09:31:36Z	
 6.5.182		2019-10-04T12:47:31Z	
@@ -851,6 +902,7 @@
 6.5.187		2019-10-07T04:52:23Z	
 6.5.188		2019-10-07T05:55:21Z	
 6.5.189		2019-10-07T07:46:50Z	
+6.5.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.19/org.wso2.carbon.apimgt.usage.client-6.5.19.jar returned status 404
 6.5.190		2019-10-07T08:48:31Z	
 6.5.191		2019-10-07T09:46:29Z	
 6.5.192		2019-10-07T11:24:14Z	
@@ -861,6 +913,8 @@
 6.5.197		2019-10-07T16:35:46Z	
 6.5.198		2019-10-08T05:46:30Z	
 6.5.199		2019-10-08T06:49:49Z	
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.2/org.wso2.carbon.apimgt.usage.client-6.5.2.jar returned status 404
+6.5.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.20/org.wso2.carbon.apimgt.usage.client-6.5.20.jar returned status 404
 6.5.200		2019-10-08T11:51:18Z	
 6.5.201		2019-10-08T12:59:17Z	
 6.5.202		2019-10-08T16:08:46Z	
@@ -871,6 +925,7 @@
 6.5.207		2019-10-09T04:49:20Z	
 6.5.208		2019-10-09T05:58:33Z	
 6.5.209		2019-10-09T06:59:53Z	
+6.5.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.21/org.wso2.carbon.apimgt.usage.client-6.5.21.jar returned status 404
 6.5.210		2019-10-09T08:01:25Z	
 6.5.211		2019-10-09T09:07:33Z	
 6.5.212		2019-10-09T10:22:00Z	
@@ -881,6 +936,7 @@
 6.5.217		2019-10-09T21:26:04Z	
 6.5.218		2019-10-10T04:54:46Z	
 6.5.219		2019-10-10T05:57:01Z	
+6.5.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.22/org.wso2.carbon.apimgt.usage.client-6.5.22.jar returned status 404
 6.5.220		2019-10-10T07:03:22Z	
 6.5.221		2019-10-10T08:05:43Z	
 6.5.222		2019-10-10T09:06:49Z	
@@ -891,6 +947,7 @@
 6.5.227		2019-10-10T16:38:05Z	
 6.5.228		2019-10-10T17:39:57Z	
 6.5.229		2019-10-10T18:36:57Z	
+6.5.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.23/org.wso2.carbon.apimgt.usage.client-6.5.23.jar returned status 404
 6.5.230		2019-10-10T19:47:36Z	
 6.5.231		2019-10-10T21:16:28Z	
 6.5.232		2019-10-11T05:59:16Z	
@@ -901,6 +958,7 @@
 6.5.237		2019-10-11T12:07:34Z	
 6.5.238		2019-10-11T13:11:57Z	
 6.5.239		2019-10-11T18:55:44Z	
+6.5.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.24/org.wso2.carbon.apimgt.usage.client-6.5.24.jar returned status 404
 6.5.240		2019-10-12T03:43:32Z	
 6.5.242		2019-10-12T09:03:32Z	
 6.5.243		2019-10-12T10:06:09Z	
@@ -910,6 +968,7 @@
 6.5.247		2019-10-13T07:41:11Z	
 6.5.248		2019-10-13T14:44:37Z	
 6.5.249		2019-10-13T17:40:13Z	
+6.5.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.25/org.wso2.carbon.apimgt.usage.client-6.5.25.jar returned status 404
 6.5.250		2019-10-14T03:59:52Z	
 6.5.251		2019-10-14T05:07:31Z	
 6.5.252		2019-10-14T06:45:07Z	
@@ -920,6 +979,7 @@
 6.5.257		2019-10-14T19:59:39Z	
 6.5.258		2019-10-14T21:15:30Z	
 6.5.259		2019-10-15T04:15:05Z	
+6.5.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.26/org.wso2.carbon.apimgt.usage.client-6.5.26.jar returned status 404
 6.5.260		2019-10-15T05:18:52Z	
 6.5.261		2019-10-15T07:03:29Z	
 6.5.262		2019-10-15T08:06:18Z	
@@ -930,6 +990,7 @@
 6.5.267		2019-10-15T15:43:32Z	
 6.5.268		2019-10-15T17:12:58Z	
 6.5.269		2019-10-16T11:00:28Z	
+6.5.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.27/org.wso2.carbon.apimgt.usage.client-6.5.27.jar returned status 404
 6.5.270		2019-10-16T12:13:15Z	
 6.5.271		2019-10-16T13:22:22Z	
 6.5.272		2019-10-16T14:24:49Z	
@@ -940,6 +1001,7 @@
 6.5.277		2019-10-17T08:04:11Z	
 6.5.278		2019-10-17T09:47:12Z	
 6.5.279		2019-10-18T03:02:27Z	
+6.5.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.28/org.wso2.carbon.apimgt.usage.client-6.5.28.jar returned status 404
 6.5.280		2019-10-18T05:01:58Z	
 6.5.281		2019-10-18T06:13:48Z	
 6.5.282		2019-10-18T07:58:50Z	
@@ -950,6 +1012,7 @@
 6.5.287		2019-10-18T15:04:03Z	
 6.5.288		2019-10-18T20:07:14Z	
 6.5.289		2019-10-18T21:19:07Z	
+6.5.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.29/org.wso2.carbon.apimgt.usage.client-6.5.29.jar returned status 404
 6.5.290		2019-10-19T01:50:18Z	
 6.5.291		2019-10-19T03:38:52Z	
 6.5.292		2019-10-19T04:36:02Z	
@@ -960,6 +1023,8 @@
 6.5.297		2019-10-19T13:44:38Z	
 6.5.298		2019-10-19T16:48:57Z	
 6.5.299		2019-10-19T17:54:00Z	
+6.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.3/org.wso2.carbon.apimgt.usage.client-6.5.3.jar returned status 404
+6.5.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.30/org.wso2.carbon.apimgt.usage.client-6.5.30.jar returned status 404
 6.5.300		2019-10-19T18:52:39Z	
 6.5.301		2019-10-19T20:02:26Z	
 6.5.302		2019-10-19T21:27:27Z	
@@ -970,6 +1035,7 @@
 6.5.307		2019-10-20T10:37:48Z	
 6.5.308		2019-10-20T12:31:48Z	
 6.5.309		2019-10-20T14:04:54Z	
+6.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.31/org.wso2.carbon.apimgt.usage.client-6.5.31.jar returned status 404
 6.5.310		2019-10-20T15:42:46Z	
 6.5.311		2019-10-20T16:45:05Z	
 6.5.312		2019-10-20T17:45:44Z	
@@ -980,6 +1046,7 @@
 6.5.317		2019-10-21T08:54:00Z	
 6.5.318		2019-10-21T10:00:53Z	
 6.5.319		2019-10-21T11:12:36Z	
+6.5.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.32/org.wso2.carbon.apimgt.usage.client-6.5.32.jar returned status 404
 6.5.320		2019-10-21T12:21:00Z	
 6.5.321		2019-10-21T13:39:00Z	
 6.5.322		2019-10-21T14:39:25Z	
@@ -990,6 +1057,7 @@
 6.5.327		2019-10-21T21:22:49Z	
 6.5.328		2019-10-22T04:19:34Z	
 6.5.329		2019-10-22T05:28:15Z	
+6.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.33/org.wso2.carbon.apimgt.usage.client-6.5.33.jar returned status 404
 6.5.330		2019-10-22T06:29:41Z	
 6.5.331		2019-10-22T08:24:45Z	
 6.5.332		2019-10-22T09:39:19Z	
@@ -1000,6 +1068,7 @@
 6.5.337		2019-10-23T11:09:36Z	
 6.5.338		2019-10-23T12:21:13Z	
 6.5.339		2019-10-23T13:32:04Z	
+6.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.34/org.wso2.carbon.apimgt.usage.client-6.5.34.jar returned status 404
 6.5.340		2019-10-23T14:42:29Z	
 6.5.341		2019-10-23T15:54:40Z	
 6.5.342		2019-10-23T17:04:10Z	
@@ -1010,6 +1079,88 @@
 6.5.347		2019-10-24T15:41:46Z	
 6.5.348		2019-10-24T17:24:05Z	
 6.5.349		2019-10-24T18:22:07Z	
+6.5.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.35/org.wso2.carbon.apimgt.usage.client-6.5.35.jar returned status 404
+6.5.350			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.350/org.wso2.carbon.apimgt.usage.client-6.5.350.jar returned status 404
+6.5.351			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.351/org.wso2.carbon.apimgt.usage.client-6.5.351.jar returned status 404
+6.5.352			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.352/org.wso2.carbon.apimgt.usage.client-6.5.352.jar returned status 404
+6.5.353			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.353/org.wso2.carbon.apimgt.usage.client-6.5.353.jar returned status 404
+6.5.354			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.354/org.wso2.carbon.apimgt.usage.client-6.5.354.jar returned status 404
+6.5.355			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.355/org.wso2.carbon.apimgt.usage.client-6.5.355.jar returned status 404
+6.5.356			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.356/org.wso2.carbon.apimgt.usage.client-6.5.356.jar returned status 404
+6.5.357			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.357/org.wso2.carbon.apimgt.usage.client-6.5.357.jar returned status 404
+6.5.358			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.358/org.wso2.carbon.apimgt.usage.client-6.5.358.jar returned status 404
+6.5.359			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.359/org.wso2.carbon.apimgt.usage.client-6.5.359.jar returned status 404
+6.5.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.36/org.wso2.carbon.apimgt.usage.client-6.5.36.jar returned status 404
+6.5.360			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.360/org.wso2.carbon.apimgt.usage.client-6.5.360.jar returned status 404
+6.5.361			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.361/org.wso2.carbon.apimgt.usage.client-6.5.361.jar returned status 404
+6.5.362			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.362/org.wso2.carbon.apimgt.usage.client-6.5.362.jar returned status 404
+6.5.363			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.363/org.wso2.carbon.apimgt.usage.client-6.5.363.jar returned status 404
+6.5.364			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.364/org.wso2.carbon.apimgt.usage.client-6.5.364.jar returned status 404
+6.5.365			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.365/org.wso2.carbon.apimgt.usage.client-6.5.365.jar returned status 404
+6.5.366			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.366/org.wso2.carbon.apimgt.usage.client-6.5.366.jar returned status 404
+6.5.367			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.367/org.wso2.carbon.apimgt.usage.client-6.5.367.jar returned status 404
+6.5.368			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.368/org.wso2.carbon.apimgt.usage.client-6.5.368.jar returned status 404
+6.5.369			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.369/org.wso2.carbon.apimgt.usage.client-6.5.369.jar returned status 404
+6.5.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.37/org.wso2.carbon.apimgt.usage.client-6.5.37.jar returned status 404
+6.5.370			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.370/org.wso2.carbon.apimgt.usage.client-6.5.370.jar returned status 404
+6.5.371			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.371/org.wso2.carbon.apimgt.usage.client-6.5.371.jar returned status 404
+6.5.372			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.372/org.wso2.carbon.apimgt.usage.client-6.5.372.jar returned status 404
+6.5.373			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.373/org.wso2.carbon.apimgt.usage.client-6.5.373.jar returned status 404
+6.5.374			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.374/org.wso2.carbon.apimgt.usage.client-6.5.374.jar returned status 404
+6.5.375			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.375/org.wso2.carbon.apimgt.usage.client-6.5.375.jar returned status 404
+6.5.376			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.376/org.wso2.carbon.apimgt.usage.client-6.5.376.jar returned status 404
+6.5.377			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.377/org.wso2.carbon.apimgt.usage.client-6.5.377.jar returned status 404
+6.5.378			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.378/org.wso2.carbon.apimgt.usage.client-6.5.378.jar returned status 404
+6.5.379			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.379/org.wso2.carbon.apimgt.usage.client-6.5.379.jar returned status 404
+6.5.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.38/org.wso2.carbon.apimgt.usage.client-6.5.38.jar returned status 404
+6.5.380			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.380/org.wso2.carbon.apimgt.usage.client-6.5.380.jar returned status 404
+6.5.381			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.381/org.wso2.carbon.apimgt.usage.client-6.5.381.jar returned status 404
+6.5.382			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.382/org.wso2.carbon.apimgt.usage.client-6.5.382.jar returned status 404
+6.5.383			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.383/org.wso2.carbon.apimgt.usage.client-6.5.383.jar returned status 404
+6.5.384			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.384/org.wso2.carbon.apimgt.usage.client-6.5.384.jar returned status 404
+6.5.385			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.385/org.wso2.carbon.apimgt.usage.client-6.5.385.jar returned status 404
+6.5.386			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.386/org.wso2.carbon.apimgt.usage.client-6.5.386.jar returned status 404
+6.5.387			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.387/org.wso2.carbon.apimgt.usage.client-6.5.387.jar returned status 404
+6.5.388			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.388/org.wso2.carbon.apimgt.usage.client-6.5.388.jar returned status 404
+6.5.389			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.389/org.wso2.carbon.apimgt.usage.client-6.5.389.jar returned status 404
+6.5.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.39/org.wso2.carbon.apimgt.usage.client-6.5.39.jar returned status 404
+6.5.390			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.390/org.wso2.carbon.apimgt.usage.client-6.5.390.jar returned status 404
+6.5.391			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.391/org.wso2.carbon.apimgt.usage.client-6.5.391.jar returned status 404
+6.5.392			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.392/org.wso2.carbon.apimgt.usage.client-6.5.392.jar returned status 404
+6.5.393			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.393/org.wso2.carbon.apimgt.usage.client-6.5.393.jar returned status 404
+6.5.394			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.394/org.wso2.carbon.apimgt.usage.client-6.5.394.jar returned status 404
+6.5.395			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.395/org.wso2.carbon.apimgt.usage.client-6.5.395.jar returned status 404
+6.5.396			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.396/org.wso2.carbon.apimgt.usage.client-6.5.396.jar returned status 404
+6.5.397			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.397/org.wso2.carbon.apimgt.usage.client-6.5.397.jar returned status 404
+6.5.398			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.398/org.wso2.carbon.apimgt.usage.client-6.5.398.jar returned status 404
+6.5.399			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.399/org.wso2.carbon.apimgt.usage.client-6.5.399.jar returned status 404
+6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.4/org.wso2.carbon.apimgt.usage.client-6.5.4.jar returned status 404
+6.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.40/org.wso2.carbon.apimgt.usage.client-6.5.40.jar returned status 404
+6.5.400			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.400/org.wso2.carbon.apimgt.usage.client-6.5.400.jar returned status 404
+6.5.401			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.401/org.wso2.carbon.apimgt.usage.client-6.5.401.jar returned status 404
+6.5.402			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.402/org.wso2.carbon.apimgt.usage.client-6.5.402.jar returned status 404
+6.5.403			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.403/org.wso2.carbon.apimgt.usage.client-6.5.403.jar returned status 404
+6.5.404			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.404/org.wso2.carbon.apimgt.usage.client-6.5.404.jar returned status 404
+6.5.405			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.405/org.wso2.carbon.apimgt.usage.client-6.5.405.jar returned status 404
+6.5.406			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.406/org.wso2.carbon.apimgt.usage.client-6.5.406.jar returned status 404
+6.5.407			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.407/org.wso2.carbon.apimgt.usage.client-6.5.407.jar returned status 404
+6.5.408			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.408/org.wso2.carbon.apimgt.usage.client-6.5.408.jar returned status 404
+6.5.409			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.409/org.wso2.carbon.apimgt.usage.client-6.5.409.jar returned status 404
+6.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.41/org.wso2.carbon.apimgt.usage.client-6.5.41.jar returned status 404
+6.5.410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.410/org.wso2.carbon.apimgt.usage.client-6.5.410.jar returned status 404
+6.5.411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.411/org.wso2.carbon.apimgt.usage.client-6.5.411.jar returned status 404
+6.5.412			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.412/org.wso2.carbon.apimgt.usage.client-6.5.412.jar returned status 404
+6.5.413			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.413/org.wso2.carbon.apimgt.usage.client-6.5.413.jar returned status 404
+6.5.414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.414/org.wso2.carbon.apimgt.usage.client-6.5.414.jar returned status 404
+6.5.415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.415/org.wso2.carbon.apimgt.usage.client-6.5.415.jar returned status 404
+6.5.416			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.416/org.wso2.carbon.apimgt.usage.client-6.5.416.jar returned status 404
+6.5.417			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.417/org.wso2.carbon.apimgt.usage.client-6.5.417.jar returned status 404
+6.5.418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.418/org.wso2.carbon.apimgt.usage.client-6.5.418.jar returned status 404
+6.5.419			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.419/org.wso2.carbon.apimgt.usage.client-6.5.419.jar returned status 404
+6.5.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.42/org.wso2.carbon.apimgt.usage.client-6.5.42.jar returned status 404
+6.5.420			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.420/org.wso2.carbon.apimgt.usage.client-6.5.420.jar returned status 404
+6.5.421			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.421/org.wso2.carbon.apimgt.usage.client-6.5.421.jar returned status 404
+6.5.422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.422/org.wso2.carbon.apimgt.usage.client-6.5.422.jar returned status 404
 6.5.423		2019-12-04T16:05:13Z	
 6.5.424		2019-12-05T09:35:51Z	
 6.5.425		2019-12-05T12:24:49Z	
@@ -1017,6 +1168,7 @@
 6.5.427		2019-12-06T09:11:00Z	
 6.5.428		2019-12-06T13:34:17Z	
 6.5.429		2019-12-09T06:51:33Z	
+6.5.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.43/org.wso2.carbon.apimgt.usage.client-6.5.43.jar returned status 404
 6.5.430		2019-12-09T14:49:11Z	
 6.5.431		2019-12-10T06:19:31Z	
 6.5.432		2019-12-10T07:36:01Z	
@@ -1027,7 +1179,68 @@
 6.5.437		2019-12-12T08:20:34Z	
 6.5.438		2019-12-13T04:35:08Z	
 6.5.439		2019-12-16T06:35:50Z	
+6.5.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.44/org.wso2.carbon.apimgt.usage.client-6.5.44.jar returned status 404
 6.5.440		2019-12-16T10:44:39Z	
 6.5.441		2019-12-16T12:47:22Z	
 6.5.442		2019-12-16T15:10:13Z	
 6.5.443		2019-12-17T13:23:04Z	
+6.5.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.45/org.wso2.carbon.apimgt.usage.client-6.5.45.jar returned status 404
+6.5.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.46/org.wso2.carbon.apimgt.usage.client-6.5.46.jar returned status 404
+6.5.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.47/org.wso2.carbon.apimgt.usage.client-6.5.47.jar returned status 404
+6.5.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.48/org.wso2.carbon.apimgt.usage.client-6.5.48.jar returned status 404
+6.5.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.49/org.wso2.carbon.apimgt.usage.client-6.5.49.jar returned status 404
+6.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.5/org.wso2.carbon.apimgt.usage.client-6.5.5.jar returned status 404
+6.5.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.50/org.wso2.carbon.apimgt.usage.client-6.5.50.jar returned status 404
+6.5.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.51/org.wso2.carbon.apimgt.usage.client-6.5.51.jar returned status 404
+6.5.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.52/org.wso2.carbon.apimgt.usage.client-6.5.52.jar returned status 404
+6.5.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.53/org.wso2.carbon.apimgt.usage.client-6.5.53.jar returned status 404
+6.5.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.54/org.wso2.carbon.apimgt.usage.client-6.5.54.jar returned status 404
+6.5.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.55/org.wso2.carbon.apimgt.usage.client-6.5.55.jar returned status 404
+6.5.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.56/org.wso2.carbon.apimgt.usage.client-6.5.56.jar returned status 404
+6.5.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.57/org.wso2.carbon.apimgt.usage.client-6.5.57.jar returned status 404
+6.5.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.58/org.wso2.carbon.apimgt.usage.client-6.5.58.jar returned status 404
+6.5.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.59/org.wso2.carbon.apimgt.usage.client-6.5.59.jar returned status 404
+6.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.6/org.wso2.carbon.apimgt.usage.client-6.5.6.jar returned status 404
+6.5.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.60/org.wso2.carbon.apimgt.usage.client-6.5.60.jar returned status 404
+6.5.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.61/org.wso2.carbon.apimgt.usage.client-6.5.61.jar returned status 404
+6.5.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.62/org.wso2.carbon.apimgt.usage.client-6.5.62.jar returned status 404
+6.5.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.63/org.wso2.carbon.apimgt.usage.client-6.5.63.jar returned status 404
+6.5.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.64/org.wso2.carbon.apimgt.usage.client-6.5.64.jar returned status 404
+6.5.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.65/org.wso2.carbon.apimgt.usage.client-6.5.65.jar returned status 404
+6.5.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.66/org.wso2.carbon.apimgt.usage.client-6.5.66.jar returned status 404
+6.5.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.67/org.wso2.carbon.apimgt.usage.client-6.5.67.jar returned status 404
+6.5.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.68/org.wso2.carbon.apimgt.usage.client-6.5.68.jar returned status 404
+6.5.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.69/org.wso2.carbon.apimgt.usage.client-6.5.69.jar returned status 404
+6.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.7/org.wso2.carbon.apimgt.usage.client-6.5.7.jar returned status 404
+6.5.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.70/org.wso2.carbon.apimgt.usage.client-6.5.70.jar returned status 404
+6.5.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.71/org.wso2.carbon.apimgt.usage.client-6.5.71.jar returned status 404
+6.5.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.72/org.wso2.carbon.apimgt.usage.client-6.5.72.jar returned status 404
+6.5.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.73/org.wso2.carbon.apimgt.usage.client-6.5.73.jar returned status 404
+6.5.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.74/org.wso2.carbon.apimgt.usage.client-6.5.74.jar returned status 404
+6.5.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.75/org.wso2.carbon.apimgt.usage.client-6.5.75.jar returned status 404
+6.5.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.76/org.wso2.carbon.apimgt.usage.client-6.5.76.jar returned status 404
+6.5.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.77/org.wso2.carbon.apimgt.usage.client-6.5.77.jar returned status 404
+6.5.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.78/org.wso2.carbon.apimgt.usage.client-6.5.78.jar returned status 404
+6.5.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.79/org.wso2.carbon.apimgt.usage.client-6.5.79.jar returned status 404
+6.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.8/org.wso2.carbon.apimgt.usage.client-6.5.8.jar returned status 404
+6.5.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.80/org.wso2.carbon.apimgt.usage.client-6.5.80.jar returned status 404
+6.5.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.81/org.wso2.carbon.apimgt.usage.client-6.5.81.jar returned status 404
+6.5.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.82/org.wso2.carbon.apimgt.usage.client-6.5.82.jar returned status 404
+6.5.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.83/org.wso2.carbon.apimgt.usage.client-6.5.83.jar returned status 404
+6.5.84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.84/org.wso2.carbon.apimgt.usage.client-6.5.84.jar returned status 404
+6.5.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.85/org.wso2.carbon.apimgt.usage.client-6.5.85.jar returned status 404
+6.5.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.86/org.wso2.carbon.apimgt.usage.client-6.5.86.jar returned status 404
+6.5.87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.87/org.wso2.carbon.apimgt.usage.client-6.5.87.jar returned status 404
+6.5.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.88/org.wso2.carbon.apimgt.usage.client-6.5.88.jar returned status 404
+6.5.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.89/org.wso2.carbon.apimgt.usage.client-6.5.89.jar returned status 404
+6.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.9/org.wso2.carbon.apimgt.usage.client-6.5.9.jar returned status 404
+6.5.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.90/org.wso2.carbon.apimgt.usage.client-6.5.90.jar returned status 404
+6.5.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.91/org.wso2.carbon.apimgt.usage.client-6.5.91.jar returned status 404
+6.5.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.92/org.wso2.carbon.apimgt.usage.client-6.5.92.jar returned status 404
+6.5.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.93/org.wso2.carbon.apimgt.usage.client-6.5.93.jar returned status 404
+6.5.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.94/org.wso2.carbon.apimgt.usage.client-6.5.94.jar returned status 404
+6.5.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.95/org.wso2.carbon.apimgt.usage.client-6.5.95.jar returned status 404
+6.5.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.96/org.wso2.carbon.apimgt.usage.client-6.5.96.jar returned status 404
+6.5.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.97/org.wso2.carbon.apimgt.usage.client-6.5.97.jar returned status 404
+6.5.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.98/org.wso2.carbon.apimgt.usage.client-6.5.98.jar returned status 404
+6.5.99			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.usage.client/6.5.99/org.wso2.carbon.apimgt.usage.client-6.5.99.jar returned status 404
