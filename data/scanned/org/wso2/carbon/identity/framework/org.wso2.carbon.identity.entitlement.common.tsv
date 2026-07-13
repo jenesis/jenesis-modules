@@ -731,6 +731,7 @@
 5.12.396		2019-06-04T06:22:55Z	
 5.12.397		2019-06-04T08:29:59Z	
 5.12.398		2019-06-11T02:12:36Z	
+5.12.399			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.entitlement.common/5.12.399/org.wso2.carbon.identity.entitlement.common-5.12.399.jar returned status 404
 5.12.4		2018-06-29T06:42:49Z	
 5.12.40		2018-07-16T14:15:32Z	
 5.12.41		2018-07-16T14:44:17Z	

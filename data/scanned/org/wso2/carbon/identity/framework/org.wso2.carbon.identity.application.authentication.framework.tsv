@@ -731,8 +731,12 @@
 5.12.396		2019-06-04T06:22:45Z	
 5.12.397		2019-06-04T08:29:49Z	
 5.12.398		2019-06-11T02:12:26Z	
+5.12.399			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.authentication.framework/5.12.399/org.wso2.carbon.identity.application.authentication.framework-5.12.399.jar returned status 404
 5.12.4		2018-06-29T06:42:39Z	
 5.12.40		2018-07-16T14:15:22Z	
+5.12.400			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.authentication.framework/5.12.400/org.wso2.carbon.identity.application.authentication.framework-5.12.400.jar returned status 404
+5.12.401			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.authentication.framework/5.12.401/org.wso2.carbon.identity.application.authentication.framework-5.12.401.jar returned status 404
+5.12.402			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.authentication.framework/5.12.402/org.wso2.carbon.identity.application.authentication.framework-5.12.402.jar returned status 404
 5.12.41		2018-07-16T14:44:06Z	
 5.12.42		2018-07-16T15:01:27Z	
 5.12.43		2018-07-16T16:17:58Z	
