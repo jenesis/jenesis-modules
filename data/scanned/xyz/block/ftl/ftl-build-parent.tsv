@@ -253,6 +253,14 @@
 0.494.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.0/ftl-build-parent-0.494.0.jar returned status 404
 0.494.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.1/ftl-build-parent-0.494.1.jar returned status 404
 0.494.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.2/ftl-build-parent-0.494.2.jar returned status 404
+0.494.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.3/ftl-build-parent-0.494.3.jar returned status 404
+0.494.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.4/ftl-build-parent-0.494.4.jar returned status 404
+0.494.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.5/ftl-build-parent-0.494.5.jar returned status 404
+0.494.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.6/ftl-build-parent-0.494.6.jar returned status 404
+0.494.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.7/ftl-build-parent-0.494.7.jar returned status 404
+0.494.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.8/ftl-build-parent-0.494.8.jar returned status 404
+0.494.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.494.9/ftl-build-parent-0.494.9.jar returned status 404
+0.495.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.495.0/ftl-build-parent-0.495.0.jar returned status 404
 0.496.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.496.1/ftl-build-parent-0.496.1.jar returned status 404
 0.496.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.496.2/ftl-build-parent-0.496.2.jar returned status 404
 0.496.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/ftl/ftl-build-parent/0.496.3/ftl-build-parent-0.496.3.jar returned status 404

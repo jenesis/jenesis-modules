@@ -43,3 +43,4 @@
 4.0.4		2021-03-16T23:26:14Z	
 4.0.5		2021-06-09T16:20:59Z	
 4.9.10		2021-08-01T22:19:09Z	
+4.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/project13/maven/git-commit-id-plugin/4.9.9/git-commit-id-plugin-4.9.9.jar returned status 404

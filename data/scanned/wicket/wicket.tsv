@@ -20,6 +20,7 @@
 1.1-rc2		2005-10-06T20:01:27Z	
 1.1.1		2006-02-01T01:32:10Z	
 1.2		2006-05-23T22:18:24Z	
+1.2-20060905			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wicket/wicket/1.2-20060905/wicket-1.2-20060905.jar returned status 404
 1.2-beta1		2006-03-10T21:31:20Z	
 1.2-beta2		2006-03-23T13:31:52Z	
 1.2-rc3		2006-05-01T20:16:20Z	
