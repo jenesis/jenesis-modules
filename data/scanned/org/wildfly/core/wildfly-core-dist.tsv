@@ -1,14 +1,275 @@
 1.0.0.Alpha10		2014-10-20T21:06:49Z	
 1.0.0.Alpha11		2014-11-03T23:13:05Z	
 1.0.0.Alpha12		2014-11-09T23:15:00Z	
+1.0.0.Alpha13			
 1.0.0.Alpha14		2014-12-05T23:02:52Z	
 1.0.0.Alpha15		2014-12-23T19:47:02Z	
+1.0.0.Alpha16			
+1.0.0.Alpha17			
+1.0.0.Alpha18			
+1.0.0.Alpha19			
 1.0.0.Alpha5		2014-08-20T05:52:22Z	
+1.0.0.Alpha6			
+1.0.0.Alpha7			
 1.0.0.Alpha8		2014-09-13T15:25:37Z	
 1.0.0.Alpha9		2014-10-08T03:42:00Z	
+1.0.0.Beta1			
 1.0.0.Beta2		2015-03-25T20:07:46Z	
+1.0.0.Beta3			
+1.0.0.Beta4			
+1.0.0.Beta5			
+1.0.0.Beta6			
+1.0.0.CR1			
+1.0.0.CR2			
+1.0.0.CR3			
+1.0.0.CR4			
+1.0.0.CR5			
+1.0.0.CR6			
+1.0.0.CR7			
+1.0.0.Final			
+1.0.1.Final			
+1.0.2.Final			
+10.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta1/wildfly-core-dist-10.0.0.Beta1.jar returned status 404
+10.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta2/wildfly-core-dist-10.0.0.Beta2.jar returned status 404
+10.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta3/wildfly-core-dist-10.0.0.Beta3.jar returned status 404
+10.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta4/wildfly-core-dist-10.0.0.Beta4.jar returned status 404
+10.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta5/wildfly-core-dist-10.0.0.Beta5.jar returned status 404
+10.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta6/wildfly-core-dist-10.0.0.Beta6.jar returned status 404
+10.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta7/wildfly-core-dist-10.0.0.Beta7.jar returned status 404
+10.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta8/wildfly-core-dist-10.0.0.Beta8.jar returned status 404
+10.0.0.Beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta9/wildfly-core-dist-10.0.0.Beta9.jar returned status 404
+10.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.CR1/wildfly-core-dist-10.0.0.CR1.jar returned status 404
+10.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Final/wildfly-core-dist-10.0.0.Final.jar returned status 404
+10.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.2.Final/wildfly-core-dist-10.0.2.Final.jar returned status 404
+10.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.3.Final/wildfly-core-dist-10.0.3.Final.jar returned status 404
+11.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta1/wildfly-core-dist-11.0.0.Beta1.jar returned status 404
+11.0.0.Beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta10/wildfly-core-dist-11.0.0.Beta10.jar returned status 404
+11.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta2/wildfly-core-dist-11.0.0.Beta2.jar returned status 404
+11.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta3/wildfly-core-dist-11.0.0.Beta3.jar returned status 404
+11.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta4/wildfly-core-dist-11.0.0.Beta4.jar returned status 404
+11.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta5/wildfly-core-dist-11.0.0.Beta5.jar returned status 404
+11.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta6/wildfly-core-dist-11.0.0.Beta6.jar returned status 404
+11.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta7/wildfly-core-dist-11.0.0.Beta7.jar returned status 404
+11.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta8/wildfly-core-dist-11.0.0.Beta8.jar returned status 404
+11.0.0.Beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Beta9/wildfly-core-dist-11.0.0.Beta9.jar returned status 404
+11.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.0.0.Final/wildfly-core-dist-11.0.0.Final.jar returned status 404
+11.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.1.0.Final/wildfly-core-dist-11.1.0.Final.jar returned status 404
+11.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/11.1.1.Final/wildfly-core-dist-11.1.1.Final.jar returned status 404
+12.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.0.Beta1/wildfly-core-dist-12.0.0.Beta1.jar returned status 404
+12.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.0.Beta2/wildfly-core-dist-12.0.0.Beta2.jar returned status 404
+12.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.0.Beta3/wildfly-core-dist-12.0.0.Beta3.jar returned status 404
+12.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.0.Beta4/wildfly-core-dist-12.0.0.Beta4.jar returned status 404
+12.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.0.Final/wildfly-core-dist-12.0.0.Final.jar returned status 404
+12.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.1.Final/wildfly-core-dist-12.0.1.Final.jar returned status 404
+12.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/12.0.3.Final/wildfly-core-dist-12.0.3.Final.jar returned status 404
+13.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta1/wildfly-core-dist-13.0.0.Beta1.jar returned status 404
+13.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta2/wildfly-core-dist-13.0.0.Beta2.jar returned status 404
+13.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta3/wildfly-core-dist-13.0.0.Beta3.jar returned status 404
+13.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta4/wildfly-core-dist-13.0.0.Beta4.jar returned status 404
+13.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta5/wildfly-core-dist-13.0.0.Beta5.jar returned status 404
+13.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Beta6/wildfly-core-dist-13.0.0.Beta6.jar returned status 404
+13.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.0.Final/wildfly-core-dist-13.0.0.Final.jar returned status 404
+13.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.1.Final/wildfly-core-dist-13.0.1.Final.jar returned status 404
+13.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.2.Final/wildfly-core-dist-13.0.2.Final.jar returned status 404
+13.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/13.0.3.Final/wildfly-core-dist-13.0.3.Final.jar returned status 404
+14.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Beta1/wildfly-core-dist-14.0.0.Beta1.jar returned status 404
+14.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Beta2/wildfly-core-dist-14.0.0.Beta2.jar returned status 404
+14.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Beta3/wildfly-core-dist-14.0.0.Beta3.jar returned status 404
+14.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Beta4/wildfly-core-dist-14.0.0.Beta4.jar returned status 404
+14.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Beta5/wildfly-core-dist-14.0.0.Beta5.jar returned status 404
+14.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.0.Final/wildfly-core-dist-14.0.0.Final.jar returned status 404
+14.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/14.0.1.Final/wildfly-core-dist-14.0.1.Final.jar returned status 404
+15.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/15.0.0.Beta1/wildfly-core-dist-15.0.0.Beta1.jar returned status 404
+15.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/15.0.0.Final/wildfly-core-dist-15.0.0.Final.jar returned status 404
+15.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/15.0.1.Final/wildfly-core-dist-15.0.1.Final.jar returned status 404
+16.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Beta1/wildfly-core-dist-16.0.0.Beta1.jar returned status 404
+16.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Beta2/wildfly-core-dist-16.0.0.Beta2.jar returned status 404
+16.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Beta3/wildfly-core-dist-16.0.0.Beta3.jar returned status 404
+16.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Beta4/wildfly-core-dist-16.0.0.Beta4.jar returned status 404
+16.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Beta5/wildfly-core-dist-16.0.0.Beta5.jar returned status 404
+16.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.0.Final/wildfly-core-dist-16.0.0.Final.jar returned status 404
+16.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/16.0.1.Final/wildfly-core-dist-16.0.1.Final.jar returned status 404
+17.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta1/wildfly-core-dist-17.0.0.Beta1.jar returned status 404
+17.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta2/wildfly-core-dist-17.0.0.Beta2.jar returned status 404
+17.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta3/wildfly-core-dist-17.0.0.Beta3.jar returned status 404
+17.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta4/wildfly-core-dist-17.0.0.Beta4.jar returned status 404
+17.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta5/wildfly-core-dist-17.0.0.Beta5.jar returned status 404
+17.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta6/wildfly-core-dist-17.0.0.Beta6.jar returned status 404
+17.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Beta7/wildfly-core-dist-17.0.0.Beta7.jar returned status 404
+17.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.0.Final/wildfly-core-dist-17.0.0.Final.jar returned status 404
+17.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.1.Final/wildfly-core-dist-17.0.1.Final.jar returned status 404
+17.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.2.Final/wildfly-core-dist-17.0.2.Final.jar returned status 404
+17.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/17.0.3.Final/wildfly-core-dist-17.0.3.Final.jar returned status 404
+18.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Beta1/wildfly-core-dist-18.0.0.Beta1.jar returned status 404
+18.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Beta2/wildfly-core-dist-18.0.0.Beta2.jar returned status 404
+18.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Beta3/wildfly-core-dist-18.0.0.Beta3.jar returned status 404
+18.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Beta4/wildfly-core-dist-18.0.0.Beta4.jar returned status 404
+18.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Beta5/wildfly-core-dist-18.0.0.Beta5.jar returned status 404
+18.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.0.Final/wildfly-core-dist-18.0.0.Final.jar returned status 404
+18.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.1.Final/wildfly-core-dist-18.0.1.Final.jar returned status 404
+18.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.2.Final/wildfly-core-dist-18.0.2.Final.jar returned status 404
+18.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.3.Final/wildfly-core-dist-18.0.3.Final.jar returned status 404
+18.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.0.4.Final/wildfly-core-dist-18.0.4.Final.jar returned status 404
+18.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.1.0.Beta1/wildfly-core-dist-18.1.0.Beta1.jar returned status 404
+18.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.1.0.Final/wildfly-core-dist-18.1.0.Final.jar returned status 404
+18.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.1.1.Final/wildfly-core-dist-18.1.1.Final.jar returned status 404
+18.1.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/18.1.2.Final/wildfly-core-dist-18.1.2.Final.jar returned status 404
+19.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta1/wildfly-core-dist-19.0.0.Beta1.jar returned status 404
+19.0.0.Beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta10/wildfly-core-dist-19.0.0.Beta10.jar returned status 404
+19.0.0.Beta11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta11/wildfly-core-dist-19.0.0.Beta11.jar returned status 404
+19.0.0.Beta12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta12/wildfly-core-dist-19.0.0.Beta12.jar returned status 404
+19.0.0.Beta13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta13/wildfly-core-dist-19.0.0.Beta13.jar returned status 404
+19.0.0.Beta14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta14/wildfly-core-dist-19.0.0.Beta14.jar returned status 404
+19.0.0.Beta15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta15/wildfly-core-dist-19.0.0.Beta15.jar returned status 404
+19.0.0.Beta17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta17/wildfly-core-dist-19.0.0.Beta17.jar returned status 404
+19.0.0.Beta18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta18/wildfly-core-dist-19.0.0.Beta18.jar returned status 404
+19.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta2/wildfly-core-dist-19.0.0.Beta2.jar returned status 404
+19.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta3/wildfly-core-dist-19.0.0.Beta3.jar returned status 404
+19.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta4/wildfly-core-dist-19.0.0.Beta4.jar returned status 404
+19.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta5/wildfly-core-dist-19.0.0.Beta5.jar returned status 404
+19.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta6/wildfly-core-dist-19.0.0.Beta6.jar returned status 404
+19.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta7/wildfly-core-dist-19.0.0.Beta7.jar returned status 404
+19.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta8/wildfly-core-dist-19.0.0.Beta8.jar returned status 404
+19.0.0.Beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta9/wildfly-core-dist-19.0.0.Beta9.jar returned status 404
+19.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Final/wildfly-core-dist-19.0.0.Final.jar returned status 404
+19.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.1.Final/wildfly-core-dist-19.0.1.Final.jar returned status 404
+2.0.0.Alpha1			
+2.0.0.Alpha10			
+2.0.0.Alpha11			
+2.0.0.Alpha12			
+2.0.0.Alpha13			
+2.0.0.Alpha2			
+2.0.0.Alpha3			
+2.0.0.Alpha4			
+2.0.0.Alpha5			
+2.0.0.Alpha6			
+2.0.0.Alpha7			
+2.0.0.Alpha8			
+2.0.0.Alpha9			
+2.0.0.Beta1			
+2.0.0.Beta2			
+2.0.0.Beta3			
+2.0.0.Beta4			
+2.0.0.Beta5			
+2.0.0.Beta6			
+2.0.0.Beta7			
+2.0.0.CR1			
+2.0.0.CR2			
+2.0.0.CR3			
+2.0.0.CR4			
+2.0.0.CR5			
+2.0.0.CR6			
+2.0.0.CR7			
+2.0.0.CR8			
+2.0.0.CR9			
+2.0.0.Final			
+2.0.1.Final			
+2.0.10.Final			
+2.0.2.Final			
+2.0.3.Final			
+2.0.4.Final			
+2.0.5.CR1			
+2.0.5.Final			
+2.0.6.Final			
+2.0.7.Final			
+2.0.8.Final			
+2.0.9.Final			
+2.1.0.CR1			
+2.1.0.CR2			
+2.1.0.Final			
+2.2.0.CR1			
+2.2.0.CR2			
+2.2.0.CR3			
+2.2.0.CR4			
+2.2.0.CR5			
+2.2.0.CR6			
+2.2.0.CR7			
+2.2.0.CR8			
+2.2.0.CR9			
+2.2.0.Final			
+2.2.1.CR1			
+2.2.1.CR2			
+2.2.1.Final			
+20.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta1/wildfly-core-dist-20.0.0.Beta1.jar returned status 404
+20.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta2/wildfly-core-dist-20.0.0.Beta2.jar returned status 404
+20.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta3/wildfly-core-dist-20.0.0.Beta3.jar returned status 404
+20.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta4/wildfly-core-dist-20.0.0.Beta4.jar returned status 404
+20.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta5/wildfly-core-dist-20.0.0.Beta5.jar returned status 404
+20.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta6/wildfly-core-dist-20.0.0.Beta6.jar returned status 404
+20.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta7/wildfly-core-dist-20.0.0.Beta7.jar returned status 404
+20.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta8/wildfly-core-dist-20.0.0.Beta8.jar returned status 404
+20.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Final/wildfly-core-dist-20.0.0.Final.jar returned status 404
 29.0.0.Final		2025-08-08T13:54:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/29.0.0.Final/wildfly-core-dist-29.0.0.Final.jar returned status 404
 29.0.1.Final		2025-09-03T10:31:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/29.0.1.Final/wildfly-core-dist-29.0.1.Final.jar returned status 404
+3.0.0.Alpha1			
+3.0.0.Alpha10			
+3.0.0.Alpha11			
+3.0.0.Alpha12			
+3.0.0.Alpha13			
+3.0.0.Alpha14			
+3.0.0.Alpha15			
+3.0.0.Alpha16			
+3.0.0.Alpha17			
+3.0.0.Alpha18			
+3.0.0.Alpha19			
+3.0.0.Alpha2			
+3.0.0.Alpha20			
+3.0.0.Alpha21			
+3.0.0.Alpha22			
+3.0.0.Alpha23			
+3.0.0.Alpha24			
+3.0.0.Alpha25			
+3.0.0.Alpha3			
+3.0.0.Alpha4			
+3.0.0.Alpha5			
+3.0.0.Alpha6			
+3.0.0.Alpha7			
+3.0.0.Alpha8			
+3.0.0.Alpha9			
+3.0.0.Beta1			
+3.0.0.Beta10			
+3.0.0.Beta11			
+3.0.0.Beta12			
+3.0.0.Beta13			
+3.0.0.Beta14			
+3.0.0.Beta15			
+3.0.0.Beta16			
+3.0.0.Beta17			
+3.0.0.Beta18			
+3.0.0.Beta19			
+3.0.0.Beta2			
+3.0.0.Beta20			
+3.0.0.Beta21			
+3.0.0.Beta22			
+3.0.0.Beta23			
+3.0.0.Beta24			
+3.0.0.Beta25			
+3.0.0.Beta26			
+3.0.0.Beta27			
+3.0.0.Beta28			
+3.0.0.Beta29			
+3.0.0.Beta3			
+3.0.0.Beta30			
+3.0.0.Beta31			
+3.0.0.Beta5			
+3.0.0.Beta6			
+3.0.0.Beta7			
+3.0.0.Beta8			
+3.0.0.Beta9			
+3.0.0.CR1			
+3.0.0.Final			
+3.0.1.Final			
+3.0.10.Final			
+3.0.2.CR1			
+3.0.2.Final			
+3.0.3.Final			
+3.0.4.Final			
+3.0.5.Final			
+3.0.6.Final			
+3.0.7.Final			
+3.0.8.Final			
+3.0.9.Final			
+3.1.0.Final			
 30.0.0.Beta1		2025-09-23T17:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta1/wildfly-core-dist-30.0.0.Beta1.jar returned status 404
 30.0.0.Beta2		2025-09-23T17:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta2/wildfly-core-dist-30.0.0.Beta2.jar returned status 404
 30.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta3/wildfly-core-dist-30.0.0.Beta3.jar returned status 404
@@ -36,3 +297,69 @@
 33.0.0.Beta3		2026-06-18T10:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/33.0.0.Beta3/wildfly-core-dist-33.0.0.Beta3.jar returned status 404
 33.0.0.Beta4		2026-06-24T10:31:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/33.0.0.Beta4/wildfly-core-dist-33.0.0.Beta4.jar returned status 404
 33.0.0.Beta5		2026-07-04T10:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/33.0.0.Beta5/wildfly-core-dist-33.0.0.Beta5.jar returned status 404
+4.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha1/wildfly-core-dist-4.0.0.Alpha1.jar returned status 404
+4.0.0.Alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha10/wildfly-core-dist-4.0.0.Alpha10.jar returned status 404
+4.0.0.Alpha2			
+4.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha3/wildfly-core-dist-4.0.0.Alpha3.jar returned status 404
+4.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha4/wildfly-core-dist-4.0.0.Alpha4.jar returned status 404
+4.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha5/wildfly-core-dist-4.0.0.Alpha5.jar returned status 404
+4.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha6/wildfly-core-dist-4.0.0.Alpha6.jar returned status 404
+4.0.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha7/wildfly-core-dist-4.0.0.Alpha7.jar returned status 404
+4.0.0.Alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha8/wildfly-core-dist-4.0.0.Alpha8.jar returned status 404
+4.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha9/wildfly-core-dist-4.0.0.Alpha9.jar returned status 404
+4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Beta1/wildfly-core-dist-4.0.0.Beta1.jar returned status 404
+4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Beta2/wildfly-core-dist-4.0.0.Beta2.jar returned status 404
+4.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.CR1/wildfly-core-dist-4.0.0.CR1.jar returned status 404
+4.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Final/wildfly-core-dist-4.0.0.Final.jar returned status 404
+5.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha1/wildfly-core-dist-5.0.0.Alpha1.jar returned status 404
+5.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha2/wildfly-core-dist-5.0.0.Alpha2.jar returned status 404
+5.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha3/wildfly-core-dist-5.0.0.Alpha3.jar returned status 404
+5.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha4/wildfly-core-dist-5.0.0.Alpha4.jar returned status 404
+5.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha5/wildfly-core-dist-5.0.0.Alpha5.jar returned status 404
+5.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha6/wildfly-core-dist-5.0.0.Alpha6.jar returned status 404
+5.0.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Alpha7/wildfly-core-dist-5.0.0.Alpha7.jar returned status 404
+5.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Beta1/wildfly-core-dist-5.0.0.Beta1.jar returned status 404
+5.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Beta2/wildfly-core-dist-5.0.0.Beta2.jar returned status 404
+5.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Beta3/wildfly-core-dist-5.0.0.Beta3.jar returned status 404
+5.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Beta4/wildfly-core-dist-5.0.0.Beta4.jar returned status 404
+5.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Beta5/wildfly-core-dist-5.0.0.Beta5.jar returned status 404
+5.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.CR1/wildfly-core-dist-5.0.0.CR1.jar returned status 404
+5.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/5.0.0.Final/wildfly-core-dist-5.0.0.Final.jar returned status 404
+6.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Alpha1/wildfly-core-dist-6.0.0.Alpha1.jar returned status 404
+6.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Alpha2/wildfly-core-dist-6.0.0.Alpha2.jar returned status 404
+6.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Alpha3/wildfly-core-dist-6.0.0.Alpha3.jar returned status 404
+6.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Alpha4/wildfly-core-dist-6.0.0.Alpha4.jar returned status 404
+6.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Alpha5/wildfly-core-dist-6.0.0.Alpha5.jar returned status 404
+6.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Beta1/wildfly-core-dist-6.0.0.Beta1.jar returned status 404
+6.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.CR1/wildfly-core-dist-6.0.0.CR1.jar returned status 404
+6.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.CR2/wildfly-core-dist-6.0.0.CR2.jar returned status 404
+6.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.CR3/wildfly-core-dist-6.0.0.CR3.jar returned status 404
+6.0.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.CR4/wildfly-core-dist-6.0.0.CR4.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.0.Final/wildfly-core-dist-6.0.0.Final.jar returned status 404
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.1.Final/wildfly-core-dist-6.0.1.Final.jar returned status 404
+6.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/6.0.2.Final/wildfly-core-dist-6.0.2.Final.jar returned status 404
+7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Alpha1/wildfly-core-dist-7.0.0.Alpha1.jar returned status 404
+7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Alpha2/wildfly-core-dist-7.0.0.Alpha2.jar returned status 404
+7.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Alpha3/wildfly-core-dist-7.0.0.Alpha3.jar returned status 404
+7.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Alpha4/wildfly-core-dist-7.0.0.Alpha4.jar returned status 404
+7.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Alpha5/wildfly-core-dist-7.0.0.Alpha5.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Beta1/wildfly-core-dist-7.0.0.Beta1.jar returned status 404
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.CR1/wildfly-core-dist-7.0.0.CR1.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/7.0.0.Final/wildfly-core-dist-7.0.0.Final.jar returned status 404
+8.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Beta1/wildfly-core-dist-8.0.0.Beta1.jar returned status 404
+8.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Beta2/wildfly-core-dist-8.0.0.Beta2.jar returned status 404
+8.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Beta3/wildfly-core-dist-8.0.0.Beta3.jar returned status 404
+8.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Beta4/wildfly-core-dist-8.0.0.Beta4.jar returned status 404
+8.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Beta5/wildfly-core-dist-8.0.0.Beta5.jar returned status 404
+8.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.CR1/wildfly-core-dist-8.0.0.CR1.jar returned status 404
+8.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/8.0.0.Final/wildfly-core-dist-8.0.0.Final.jar returned status 404
+9.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta1/wildfly-core-dist-9.0.0.Beta1.jar returned status 404
+9.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta2/wildfly-core-dist-9.0.0.Beta2.jar returned status 404
+9.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta3/wildfly-core-dist-9.0.0.Beta3.jar returned status 404
+9.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta4/wildfly-core-dist-9.0.0.Beta4.jar returned status 404
+9.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta5/wildfly-core-dist-9.0.0.Beta5.jar returned status 404
+9.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta6/wildfly-core-dist-9.0.0.Beta6.jar returned status 404
+9.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Beta7/wildfly-core-dist-9.0.0.Beta7.jar returned status 404
+9.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.0.Final/wildfly-core-dist-9.0.0.Final.jar returned status 404
+9.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.1.Final/wildfly-core-dist-9.0.1.Final.jar returned status 404
+9.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/9.0.2.Final/wildfly-core-dist-9.0.2.Final.jar returned status 404
