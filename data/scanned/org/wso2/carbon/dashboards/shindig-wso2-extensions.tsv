@@ -19,6 +19,8 @@
 2.0.22		2019-01-07T05:24:52Z	
 2.0.23		2019-05-10T06:45:06Z	
 2.0.24		2019-05-27T09:57:37Z	
+2.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/dashboards/shindig-wso2-extensions/2.0.25/shindig-wso2-extensions-2.0.25.jar returned status 404
+2.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/dashboards/shindig-wso2-extensions/2.0.26/shindig-wso2-extensions-2.0.26.jar returned status 404
 2.0.27		2019-10-16T08:48:41Z	
 2.0.3		2016-09-09T08:36:33Z	
 2.0.4		2016-12-08T10:08:14Z	

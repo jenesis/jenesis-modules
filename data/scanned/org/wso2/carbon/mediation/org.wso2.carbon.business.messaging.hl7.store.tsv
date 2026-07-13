@@ -347,6 +347,9 @@
 4.7.262			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.262/org.wso2.carbon.business.messaging.hl7.store-4.7.262.jar returned status 404
 4.7.263			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.263/org.wso2.carbon.business.messaging.hl7.store-4.7.263.jar returned status 404
 4.7.264			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.264/org.wso2.carbon.business.messaging.hl7.store-4.7.264.jar returned status 404
+4.7.265			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.265/org.wso2.carbon.business.messaging.hl7.store-4.7.265.jar returned status 404
+4.7.266			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.266/org.wso2.carbon.business.messaging.hl7.store-4.7.266.jar returned status 404
+4.7.267			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.267/org.wso2.carbon.business.messaging.hl7.store-4.7.267.jar returned status 404
 4.7.268		2025-11-25T05:38:28Z	
 4.7.269		2026-01-16T09:28:52Z	
 4.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/mediation/org.wso2.carbon.business.messaging.hl7.store/4.7.27/org.wso2.carbon.business.messaging.hl7.store-4.7.27.jar returned status 404
@@ -439,6 +442,8 @@
 4.8.18		2026-05-06T05:29:34Z	
 4.8.19		2026-07-01T06:45:56Z	
 4.8.2		2026-02-19T06:52:48Z	
+4.8.20			
+4.8.21			
 4.8.3		2026-02-23T10:30:49Z	
 4.8.4		2026-02-24T16:39:17Z	
 4.8.5		2026-02-26T06:06:33Z	
