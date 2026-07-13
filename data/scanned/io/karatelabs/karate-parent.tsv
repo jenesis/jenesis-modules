@@ -1,4 +1,15 @@
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0/karate-parent-1.5.0.jar returned status 404
+1.5.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0.RC1/karate-parent-1.5.0.RC1.jar returned status 404
+1.5.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0.RC2/karate-parent-1.5.0.RC2.jar returned status 404
+1.5.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0.RC3/karate-parent-1.5.0.RC3.jar returned status 404
+1.5.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0.RC4/karate-parent-1.5.0.RC4.jar returned status 404
+1.5.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.0.RC5/karate-parent-1.5.0.RC5.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.1/karate-parent-1.5.1.jar returned status 404
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2/karate-parent-1.5.2.jar returned status 404
+1.5.2.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC1/karate-parent-1.5.2.RC1.jar returned status 404
+1.5.2.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC2/karate-parent-1.5.2.RC2.jar returned status 404
+1.5.2.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC3/karate-parent-1.5.2.RC3.jar returned status 404
+1.5.2.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC4/karate-parent-1.5.2.RC4.jar returned status 404
 1.5.2.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC5/karate-parent-1.5.2.RC5.jar returned status 404
 1.5.2.RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/1.5.2.RC6/karate-parent-1.5.2.RC6.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/karatelabs/karate-parent/2.0.0/karate-parent-2.0.0.jar returned status 404

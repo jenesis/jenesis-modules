@@ -1,4 +1,16 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.0/sdk-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.1/sdk-5.0.1.jar returned status 404
+5.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.10/sdk-5.0.10.jar returned status 404
+5.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.11/sdk-5.0.11.jar returned status 404
+5.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.12/sdk-5.0.12.jar returned status 404
+5.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.13/sdk-5.0.13.jar returned status 404
+5.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.14/sdk-5.0.14.jar returned status 404
+5.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.15/sdk-5.0.15.jar returned status 404
+5.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.16/sdk-5.0.16.jar returned status 404
+5.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.17/sdk-5.0.17.jar returned status 404
+5.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.18/sdk-5.0.18.jar returned status 404
 5.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.19/sdk-5.0.19.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.2/sdk-5.0.2.jar returned status 404
 5.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.20/sdk-5.0.20.jar returned status 404
 5.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.21/sdk-5.0.21.jar returned status 404
 5.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.22/sdk-5.0.22.jar returned status 404
@@ -11,11 +23,22 @@
 5.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.28/sdk-5.0.28.jar returned status 404
 5.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.29/sdk-5.0.29.jar returned status 404
 5.0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.29.1/sdk-5.0.29.1.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.3/sdk-5.0.3.jar returned status 404
+5.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.3.1/sdk-5.0.3.1.jar returned status 404
+5.0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.3.2/sdk-5.0.3.2.jar returned status 404
+5.0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.3.3/sdk-5.0.3.3.jar returned status 404
 5.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.30/sdk-5.0.30.jar returned status 404
 5.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.31/sdk-5.0.31.jar returned status 404
 5.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.32/sdk-5.0.32.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.4/sdk-5.0.4.jar returned status 404
+5.0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.4.1/sdk-5.0.4.1.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.5/sdk-5.0.5.jar returned status 404
+5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.6/sdk-5.0.6.jar returned status 404
+5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.7/sdk-5.0.7.jar returned status 404
 5.0.8		2021-05-21T15:33:51Z	
 5.0.8.1		2021-05-28T16:51:22Z	
+5.0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.8.2/sdk-5.0.8.2.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/5.0.9/sdk-5.0.9.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/6.0.0/sdk-6.0.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/7.0.0/sdk-7.0.0.jar returned status 404
 7.0.0-experimental			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kontakt/mvn/sdk/7.0.0-experimental/sdk-7.0.0-experimental.jar returned status 404

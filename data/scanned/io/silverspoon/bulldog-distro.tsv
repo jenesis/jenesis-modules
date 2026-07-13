@@ -1,9 +1,12 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/silverspoon/bulldog-distro/0.1.0/bulldog-distro-0.1.0.jar returned status 404
 0.1.0	beagleboneblack	2015-01-28T18:18:55Z	
 0.1.0	cubieboard	2015-01-28T18:18:43Z	
 0.1.0	raspberrypi	2015-01-28T18:18:48Z	
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/silverspoon/bulldog-distro/0.1.2/bulldog-distro-0.1.2.jar returned status 404
 0.1.2	beagleboneblack	2015-03-30T15:20:40Z	
 0.1.2	cubieboard	2015-03-30T15:20:38Z	
 0.1.2	raspberrypi	2015-03-30T15:20:39Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/silverspoon/bulldog-distro/0.2.0/bulldog-distro-0.2.0.jar returned status 404
 0.2.0	beagleboneblack	2015-10-31T15:27:49Z	
 0.2.0	cubieboard	2015-10-31T15:27:39Z	
 0.2.0	raspberrypi	2015-10-31T15:27:44Z	
