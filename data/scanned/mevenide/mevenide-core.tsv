@@ -1,3 +1,5 @@
+0.10			
+0.10-20050701.190921			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mevenide/mevenide-core/0.10-20050701.190921/mevenide-core-0.10-20050701.190921.jar returned status 404
 0.10-20050701.191004		2005-08-01T09:43:57Z	
 0.10.javadoc		2006-11-06T01:09:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mevenide/mevenide-core/0.10.javadoc/mevenide-core-0.10.javadoc.jar returned status 404
 0.7.javadoc		2006-11-06T01:09:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mevenide/mevenide-core/0.7.javadoc/mevenide-core-0.7.javadoc.jar returned status 404

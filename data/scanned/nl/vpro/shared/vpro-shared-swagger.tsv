@@ -1,14 +1,21 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.0.0/vpro-shared-swagger-2.0.0.jar returned status 404
 2.0.0	classes	2018-09-14T10:40:19Z	
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.1/vpro-shared-swagger-2.1.jar returned status 404
 2.1	classes	2018-09-25T08:51:19Z	
 2.10.0		2020-01-13T14:13:38Z	
 2.11.0		2020-01-31T09:28:24Z	
 2.11.1		2020-02-05T08:48:26Z	
 2.11.2		2020-03-06T08:41:00Z	
 2.11.3		2020-03-24T13:02:34Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.2.0/vpro-shared-swagger-2.2.0.jar returned status 404
 2.2.0	classes	2018-11-26T13:53:10Z	
+2.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.2.0.1/vpro-shared-swagger-2.2.0.1.jar returned status 404
 2.2.0.1	classes	2018-11-27T12:49:40Z	
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.2.1/vpro-shared-swagger-2.2.1.jar returned status 404
 2.2.1	classes	2018-12-11T09:33:21Z	
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.2.2/vpro-shared-swagger-2.2.2.jar returned status 404
 2.2.2	classes	2019-02-12T13:27:48Z	
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.2.3/vpro-shared-swagger-2.2.3.jar returned status 404
 2.2.3	classes	2019-04-05T09:35:07Z	
 2.28.2		2021-09-07T08:31:45Z	
 2.28.3		2021-09-16T09:14:55Z	
@@ -18,7 +25,9 @@
 2.29.3		2022-03-11T09:14:01Z	
 2.29.4		2022-03-25T15:05:36Z	
 2.29.5		2022-04-08T10:06:36Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.3.0/vpro-shared-swagger-2.3.0.jar returned status 404
 2.3.0	classes	2019-01-07T09:24:05Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-swagger/2.3.1/vpro-shared-swagger-2.3.1.jar returned status 404
 2.3.1	classes	2019-01-21T09:33:12Z	
 2.30.0		2022-04-29T12:00:02Z	
 2.30.1		2022-05-13T13:17:27Z	

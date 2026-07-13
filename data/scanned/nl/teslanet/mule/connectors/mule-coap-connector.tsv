@@ -1,7 +1,12 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.0.0/mule-coap-connector-3.0.0.jar returned status 404
 3.0.0	mule-plugin	2024-12-23T12:52:17Z	
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.0.0-RC1/mule-coap-connector-3.0.0-RC1.jar returned status 404
 3.0.0-RC1	mule-plugin	2024-12-08T18:59:17Z	
+3.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.0.0-RC2/mule-coap-connector-3.0.0-RC2.jar returned status 404
 3.0.0-RC2	mule-plugin	2024-12-15T16:21:05Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.0.1/mule-coap-connector-3.0.1.jar returned status 404
 3.0.1	mule-plugin	2024-12-30T17:47:43Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.1.0/mule-coap-connector-3.1.0.jar returned status 404
 3.1.0	mule-plugin	2025-05-18T15:23:01Z	
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/teslanet/mule/connectors/mule-coap-connector/3.2.0/mule-coap-connector-3.2.0.jar returned status 404
 3.2.0	mule-plugin	2025-06-09T17:25:38Z	

@@ -1,3 +1,19 @@
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.4.0/blacklab-server-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.4.1/blacklab-server-1.4.1.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.5.0/blacklab-server-1.5.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.6.0/blacklab-server-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.7.0/blacklab-server-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.7.1/blacklab-server-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.7.2/blacklab-server-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/1.7.3/blacklab-server-1.7.3.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.0.0/blacklab-server-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.1.0/blacklab-server-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.1.1/blacklab-server-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.2.0/blacklab-server-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.3.0/blacklab-server-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/2.3.1/blacklab-server-2.3.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/3.0.0/blacklab-server-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/3.0.1/blacklab-server-3.0.1.jar returned status 404
 4.0.0		2025-07-10T13:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/4.0.0/blacklab-server-4.0.0.jar returned status 404
 4.1.0		2026-03-09T09:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/4.1.0/blacklab-server-4.1.0.jar returned status 404
 4.1.1		2026-03-17T11:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/inl/blacklab/blacklab-server/4.1.1/blacklab-server-4.1.1.jar returned status 404

@@ -11,3 +11,5 @@
 0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/xtf/xtf-parent/0.34/xtf-parent-0.34.jar returned status 404
 0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/xtf/xtf-parent/0.35/xtf-parent-0.35.jar returned status 404
 0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/xtf/xtf-parent/0.36/xtf-parent-0.36.jar returned status 404
+0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/xtf/xtf-parent/0.37/xtf-parent-0.37.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/xtf/xtf-parent/1.0/xtf-parent-1.0.jar returned status 404

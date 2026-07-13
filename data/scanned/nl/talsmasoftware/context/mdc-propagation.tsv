@@ -23,3 +23,4 @@
 1.0.6		2019-03-13T09:18:42Z	
 1.0.7		2019-05-07T14:08:19Z	
 1.0.8		2019-12-17T09:05:08Z	
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/talsmasoftware/context/mdc-propagation/1.0.9/mdc-propagation-1.0.9.jar returned status 404

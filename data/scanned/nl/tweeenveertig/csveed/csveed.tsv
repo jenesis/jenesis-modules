@@ -2,3 +2,4 @@
 0.2.0		2013-03-02T21:15:23Z	
 0.2.1		2013-03-03T10:44:23Z	
 0.2.2		2013-03-03T15:04:21Z	
+0.3.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/tweeenveertig/csveed/csveed/0.3.0-SNAPSHOT/csveed-0.3.0-SNAPSHOT.jar returned status 404

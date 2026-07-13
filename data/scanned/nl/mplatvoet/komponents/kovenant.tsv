@@ -1,3 +1,5 @@
 0.1.0		2015-04-24T21:17:57Z	
 0.1.1		2015-04-25T12:27:18Z	
 0.1.2		2015-04-26T19:53:43Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mplatvoet/komponents/kovenant/1.0.0/kovenant-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mplatvoet/komponents/kovenant/1.1.0/kovenant-1.1.0.jar returned status 404
