@@ -211,6 +211,7 @@
 2.2.10-rc2-debug	osx-aarch_64	2026-04-21T00:45:12Z	
 2.2.10-rc2-debug	osx-x86_64	2026-04-21T00:45:12Z	
 2.2.10-rc2-debug	windows-x86_64	2026-04-21T00:45:12Z	
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide/2.2.2/valkey-glide-2.2.2.jar returned status 404
 2.2.2	linux-aarch_64	2025-12-11T00:21:15Z	
 2.2.2	linux-x86_64	2025-12-11T00:21:15Z	
 2.2.2	linux_musl-aarch_64	2025-12-11T00:21:15Z	
@@ -218,6 +219,7 @@
 2.2.2	osx-aarch_64	2025-12-11T00:21:15Z	
 2.2.2	osx-x86_64	2025-12-11T00:21:15Z	
 2.2.2	windows-x86_64	2025-12-11T00:21:15Z	
+2.2.2-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide/2.2.2-rc1/valkey-glide-2.2.2-rc1.jar returned status 404
 2.2.2-rc1	linux-aarch_64	2025-12-10T00:15:40Z	
 2.2.2-rc1	linux-x86_64	2025-12-10T00:15:40Z	
 2.2.2-rc1	linux_musl-aarch_64	2025-12-10T00:15:40Z	
@@ -225,6 +227,7 @@
 2.2.2-rc1	osx-aarch_64	2025-12-10T00:15:40Z	
 2.2.2-rc1	osx-x86_64	2025-12-10T00:15:40Z	
 2.2.2-rc1	windows-x86_64	2025-12-10T00:15:40Z	
+2.2.2-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide/2.2.2-rc2/valkey-glide-2.2.2-rc2.jar returned status 404
 2.2.2-rc2	linux-aarch_64	2025-12-10T20:36:02Z	
 2.2.2-rc2	linux-x86_64	2025-12-10T20:36:02Z	
 2.2.2-rc2	linux_musl-aarch_64	2025-12-10T20:36:02Z	

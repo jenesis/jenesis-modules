@@ -92,3 +92,4 @@
 6.0.0		2026-06-12T15:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/purchasely/player/6.0.0/player-6.0.0.jar returned status 404
 6.0.0-rc.1		2026-06-12T16:52:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/purchasely/player/6.0.0-rc.1/player-6.0.0-rc.1.jar returned status 404
 6.0.0-rc.2		2026-06-23T20:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/purchasely/player/6.0.0-rc.2/player-6.0.0-rc.2.jar returned status 404
+6.0.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/purchasely/player/6.0.0-rc.3/player-6.0.0-rc.3.jar returned status 404

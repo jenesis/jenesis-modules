@@ -5,3 +5,4 @@
 1.3.0		2026-06-10T18:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/evisentin/wp-rest-client/1.3.0/wp-rest-client-1.3.0.jar returned status 404
 1.4.0		2026-06-16T19:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/evisentin/wp-rest-client/1.4.0/wp-rest-client-1.4.0.jar returned status 404
 1.4.5		2026-07-01T17:37:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/evisentin/wp-rest-client/1.4.5/wp-rest-client-1.4.5.jar returned status 404
+1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/evisentin/wp-rest-client/1.4.6/wp-rest-client-1.4.6.jar returned status 404

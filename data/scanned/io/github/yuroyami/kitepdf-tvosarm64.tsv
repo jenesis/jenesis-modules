@@ -12,3 +12,4 @@
 0.0.8	metadata	2026-06-17T13:36:03Z	
 0.1.0		2026-06-17T14:54:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-tvosarm64/0.1.0/kitepdf-tvosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-06-17T14:54:04Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-tvosarm64/0.2.0/kitepdf-tvosarm64-0.2.0.jar returned status 404

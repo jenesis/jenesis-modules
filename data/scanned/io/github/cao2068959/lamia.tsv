@@ -5,3 +5,11 @@
 1.2.2		2022-04-23T09:06:37Z	
 1.2.4		2022-08-04T16:32:35Z	
 1.2.5		2022-08-07T13:10:47Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.1.0/lamia-2.1.0.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.1.2/lamia-2.1.2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.2.0/lamia-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.2.1/lamia-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.2.2/lamia-2.2.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.3.0/lamia-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.3.1/lamia-2.3.1.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cao2068959/lamia/2.3.3/lamia-2.3.3.jar returned status 404

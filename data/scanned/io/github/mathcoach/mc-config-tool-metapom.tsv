@@ -1,3 +1,15 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.0/mc-config-tool-metapom-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.1/mc-config-tool-metapom-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.2/mc-config-tool-metapom-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.3/mc-config-tool-metapom-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.4/mc-config-tool-metapom-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.5/mc-config-tool-metapom-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.6/mc-config-tool-metapom-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/3.0.7/mc-config-tool-metapom-3.0.7.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.0.0/mc-config-tool-metapom-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.0.1/mc-config-tool-metapom-4.0.1.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.2.0/mc-config-tool-metapom-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.2.1/mc-config-tool-metapom-4.2.1.jar returned status 404
 4.2.6		2026-03-31T08:13:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.2.6/mc-config-tool-metapom-4.2.6.jar returned status 404
 4.2.7		2026-04-30T10:47:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.2.7/mc-config-tool-metapom-4.2.7.jar returned status 404
 4.2.8		2026-04-30T21:50:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mathcoach/mc-config-tool-metapom/4.2.8/mc-config-tool-metapom-4.2.8.jar returned status 404

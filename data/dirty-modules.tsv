@@ -2412,3 +2412,6 @@ io.helidon.build.cli.impl
 io.helidon.build.cli.common
 io.helidon.build.cli.harness
 org.openapitools.jackson.nullable
+VirtualizedFX
+trustifyda.api
+jcef

@@ -1,5 +1,6 @@
 8.0.1		2017-08-07T18:02:03Z	
 8.0.1	tests-javadoc	2017-08-07T18:02:03Z	
 8.0.1	tests-sources	2017-08-07T18:02:03Z	
+8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/aws-scala/aws-scala-rds_2.12/8.0.2/aws-scala-rds_2.12-8.0.2.jar returned status 404
 8.0.3		2017-09-01T05:09:14Z	
 8.0.3	tests-sources	2017-09-01T05:09:14Z	

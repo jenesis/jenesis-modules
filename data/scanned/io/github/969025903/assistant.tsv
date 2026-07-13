@@ -5,3 +5,4 @@
 1.0.4		2023-04-02T13:32:13Z	
 1.0.5		2023-04-03T21:05:32Z	
 1.0.6		2023-04-04T13:54:18Z	
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/969025903/assistant/1.0.8/assistant-1.0.8.jar returned status 404

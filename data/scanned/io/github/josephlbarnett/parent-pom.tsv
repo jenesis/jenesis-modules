@@ -60,3 +60,4 @@
 3.7.1467		2026-06-11T02:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/parent-pom/3.7.1467/parent-pom-3.7.1467.jar returned status 404
 3.7.1488		2026-06-23T01:05:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/parent-pom/3.7.1488/parent-pom-3.7.1488.jar returned status 404
 3.7.1503		2026-06-30T18:48:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/parent-pom/3.7.1503/parent-pom-3.7.1503.jar returned status 404
+3.7.1516			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/parent-pom/3.7.1516/parent-pom-3.7.1516.jar returned status 404

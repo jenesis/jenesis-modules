@@ -13,6 +13,7 @@
 4.0.3		2015-10-27T02:32:40Z	
 4.0.3	tests-javadoc	2015-10-27T02:32:41Z	
 4.0.3	tests-sources	2015-10-27T02:32:40Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/aws-scala/aws-scala-swf-scalazstream_2.11/5.0.0/aws-scala-swf-scalazstream_2.11-5.0.0.jar returned status 404
 5.0.0	tests-javadoc	2016-01-11T23:24:33Z	
 5.0.0	tests-sources	2016-01-11T23:24:33Z	
 5.0.2		2016-02-09T05:55:08Z	
@@ -60,5 +61,6 @@
 8.0.1		2017-08-07T18:03:22Z	
 8.0.1	tests-javadoc	2017-08-07T18:03:22Z	
 8.0.1	tests-sources	2017-08-07T18:03:22Z	
+8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/aws-scala/aws-scala-swf-scalazstream_2.11/8.0.2/aws-scala-swf-scalazstream_2.11-8.0.2.jar returned status 404
 8.0.3		2017-09-01T05:09:50Z	
 8.0.3	tests-sources	2017-09-01T05:09:50Z	
