@@ -9,3 +9,4 @@
 0.5.1		2014-08-08T02:01:24Z	
 0.6.0		2014-10-10T06:25:16Z	
 0.6.1		2015-07-31T07:43:35Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-tsc-redis/0.7.0/ddth-tsc-redis-0.7.0.jar returned status 404

@@ -1,4 +1,5 @@
 0.1.0		2014-11-02T16:29:41Z	
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.10.0/ddth-dao-0.10.0.jar returned status 404
 0.2.0.1		2014-11-04T03:51:26Z	
 0.2.1		2014-11-04T05:45:30Z	
 0.3.0		2014-11-08T12:59:59Z	
@@ -9,3 +10,32 @@
 0.4.0		2014-12-01T08:45:25Z	
 0.4.0.1		2014-12-09T06:58:32Z	
 0.4.0.2		2015-05-09T10:48:54Z	
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.5.0/ddth-dao-0.5.0.jar returned status 404
+0.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.5.0.1/ddth-dao-0.5.0.1.jar returned status 404
+0.5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.5.0.4/ddth-dao-0.5.0.4.jar returned status 404
+0.5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.5.0.5/ddth-dao-0.5.0.5.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.6.0/ddth-dao-0.6.0.jar returned status 404
+0.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.6.0.1/ddth-dao-0.6.0.1.jar returned status 404
+0.6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.6.0.2/ddth-dao-0.6.0.2.jar returned status 404
+0.6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.6.0.3/ddth-dao-0.6.0.3.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.7.0/ddth-dao-0.7.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.7.1/ddth-dao-0.7.1.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.0/ddth-dao-0.8.0.jar returned status 404
+0.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.0.1/ddth-dao-0.8.0.1.jar returned status 404
+0.8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.0.2/ddth-dao-0.8.0.2.jar returned status 404
+0.8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.0.3/ddth-dao-0.8.0.3.jar returned status 404
+0.8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.0.4/ddth-dao-0.8.0.4.jar returned status 404
+0.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.1.1/ddth-dao-0.8.1.1.jar returned status 404
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.2/ddth-dao-0.8.2.jar returned status 404
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.3/ddth-dao-0.8.3.jar returned status 404
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.4/ddth-dao-0.8.4.jar returned status 404
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.5/ddth-dao-0.8.5.jar returned status 404
+0.8.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.8.5.1/ddth-dao-0.8.5.1.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.9.0/ddth-dao-0.9.0.jar returned status 404
+0.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.9.0.1/ddth-dao-0.9.0.1.jar returned status 404
+0.9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.9.0.2/ddth-dao-0.9.0.2.jar returned status 404
+0.9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.9.0.4/ddth-dao-0.9.0.4.jar returned status 404
+0.9.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/0.9.0.5/ddth-dao-0.9.0.5.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/1.0.0/ddth-dao-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/1.1.0/ddth-dao-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ddth/ddth-dao/1.1.1/ddth-dao-1.1.1.jar returned status 404

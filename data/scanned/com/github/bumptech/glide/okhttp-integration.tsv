@@ -29,6 +29,13 @@
 4.3.0		2017-10-31T14:41:56Z	
 4.3.1		2017-11-06T19:58:16Z	
 4.4.0		2017-12-04T16:39:50Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.5.0/okhttp-integration-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.6.0/okhttp-integration-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.6.1/okhttp-integration-4.6.1.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.7.0/okhttp-integration-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.7.1/okhttp-integration-4.7.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.8.0/okhttp-integration-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/4.9.0/okhttp-integration-4.9.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.0/okhttp-integration-5.0.0.jar returned status 404
 5.0.0-rc01		2023-09-26T16:52:22Z	
 5.0.0-rc05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.0-rc05/okhttp-integration-5.0.0-rc05.jar returned status 404
@@ -36,3 +43,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.4/okhttp-integration-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.5/okhttp-integration-5.0.5.jar returned status 404
 5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.7/okhttp-integration-5.0.7.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/okhttp-integration/5.0.9/okhttp-integration-5.0.9.jar returned status 404

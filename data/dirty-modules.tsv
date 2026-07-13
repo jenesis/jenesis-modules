@@ -4,3 +4,11 @@ slugify
 dev.tamboui.widgets
 org.json
 com.github.turasa.signalservice
+com.github.spotbugs.spotbugs
+com.github.spotbugs.ant
+com.github.spotbugs.annotations
+com.github.spotbugs.test
+com.github.spotbugs.test.jupiter
+com.github.spotbugs.test.core
+com.github.benmanes.caffeine.simulator
+org.bbottema.rtftohtml

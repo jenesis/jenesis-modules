@@ -19,8 +19,16 @@
 4.3.0		2017-10-31T14:43:00Z	
 4.3.1		2017-11-06T19:59:02Z	
 4.4.0		2017-12-04T16:42:32Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.5.0/gifdecoder-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.6.0/gifdecoder-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.6.1/gifdecoder-4.6.1.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.7.0/gifdecoder-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.7.1/gifdecoder-4.7.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.8.0/gifdecoder-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/4.9.0/gifdecoder-4.9.0.jar returned status 404
 5.0.0-rc01		2023-09-26T16:54:30Z	
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/5.0.3/gifdecoder-5.0.3.jar returned status 404
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/5.0.4/gifdecoder-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/5.0.5/gifdecoder-5.0.5.jar returned status 404
 5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/5.0.7/gifdecoder-5.0.7.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/gifdecoder/5.0.9/gifdecoder-5.0.9.jar returned status 404

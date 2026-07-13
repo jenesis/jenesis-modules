@@ -39,4 +39,7 @@
 1.1.7		2017-11-17T02:54:04Z	
 1.1.8		2017-11-17T04:30:49Z	
 1.1.9		2017-11-23T07:27:52Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zuacaldeira/flex-app-backend/1.2.0/flex-app-backend-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zuacaldeira/flex-app-backend/1.2.1/flex-app-backend-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zuacaldeira/flex-app-backend/1.2.2/flex-app-backend-1.2.2.jar returned status 404
 1.2.3		2018-06-10T15:40:48Z	

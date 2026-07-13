@@ -29,6 +29,12 @@
 4.3.0		2017-10-31T14:40:47Z	
 4.3.1		2017-11-06T19:57:47Z	
 4.4.0		2017-12-04T16:39:13Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.5.0/glide-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.6.0/glide-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.6.1/glide-4.6.1.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.7.1/glide-4.7.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.8.0/glide-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/4.9.0/glide-4.9.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.0/glide-5.0.0.jar returned status 404
 5.0.0-rc01		2023-09-26T16:50:29Z	
 5.0.0-rc05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.0-rc05/glide-5.0.0-rc05.jar returned status 404
@@ -36,3 +42,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.4/glide-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.5/glide-5.0.5.jar returned status 404
 5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.7/glide-5.0.7.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/glide/5.0.9/glide-5.0.9.jar returned status 404

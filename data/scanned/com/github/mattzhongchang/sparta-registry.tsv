@@ -1,1 +1,21 @@
 1.0		2019-10-21T01:38:10Z	
+1.1.8.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.1.8.RELEASE/sparta-registry-1.1.8.RELEASE.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2/sparta-registry-1.2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.1/sparta-registry-1.2.1.jar returned status 404
+1.2.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.1.RELEASE/sparta-registry-1.2.1.RELEASE.jar returned status 404
+1.2.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.2.RELEASE/sparta-registry-1.2.2.RELEASE.jar returned status 404
+1.2.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.3.RELEASE/sparta-registry-1.2.3.RELEASE.jar returned status 404
+1.2.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.4.RELEASE/sparta-registry-1.2.4.RELEASE.jar returned status 404
+1.2.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.5.RELEASE/sparta-registry-1.2.5.RELEASE.jar returned status 404
+1.2.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.6.RELEASE/sparta-registry-1.2.6.RELEASE.jar returned status 404
+1.2.7.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.2.7.RELEASE/sparta-registry-1.2.7.RELEASE.jar returned status 404
+1.3.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.0-RELEASE/sparta-registry-1.3.0-RELEASE.jar returned status 404
+1.3.1-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.1-RELEASE/sparta-registry-1.3.1-RELEASE.jar returned status 404
+1.3.10-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.10-RELEASE/sparta-registry-1.3.10-RELEASE.jar returned status 404
+1.3.3-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.3-RELEASE/sparta-registry-1.3.3-RELEASE.jar returned status 404
+1.3.4-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.4-RELEASE/sparta-registry-1.3.4-RELEASE.jar returned status 404
+1.3.5-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.5-RELEASE/sparta-registry-1.3.5-RELEASE.jar returned status 404
+1.3.6-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.6-RELEASE/sparta-registry-1.3.6-RELEASE.jar returned status 404
+1.3.7-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.7-RELEASE/sparta-registry-1.3.7-RELEASE.jar returned status 404
+1.3.8-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.8-RELEASE/sparta-registry-1.3.8-RELEASE.jar returned status 404
+1.3.9-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mattzhongchang/sparta-registry/1.3.9-RELEASE/sparta-registry-1.3.9-RELEASE.jar returned status 404

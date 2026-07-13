@@ -1,3 +1,17 @@
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.0.0/icepdf-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.0.1/icepdf-7.0.1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.0.2/icepdf-7.0.2.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.1.0/icepdf-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.1.1/icepdf-7.1.1.jar returned status 404
+7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.1.2/icepdf-7.1.2.jar returned status 404
+7.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.1.3/icepdf-7.1.3.jar returned status 404
+7.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.1.4/icepdf-7.1.4.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.0/icepdf-7.2.0.jar returned status 404
+7.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.1/icepdf-7.2.1.jar returned status 404
+7.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.2/icepdf-7.2.2.jar returned status 404
+7.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.3/icepdf-7.2.3.jar returned status 404
+7.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.4/icepdf-7.2.4.jar returned status 404
+7.2.4_P01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.4_P01/icepdf-7.2.4_P01.jar returned status 404
 7.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.2.5/icepdf-7.2.5.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.3.0/icepdf-7.3.0.jar returned status 404
 7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/pcorless/icepdf/icepdf/7.3.1/icepdf-7.3.1.jar returned status 404

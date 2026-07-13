@@ -1,3 +1,27 @@
+2.0.0-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.0.0-7/job-service-2.0.0-7.jar returned status 404
+2.1.0-57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.1.0-57/job-service-2.1.0-57.jar returned status 404
+2.2.0-122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.2.0-122/job-service-2.2.0-122.jar returned status 404
+2.3.0-159			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.3.0-159/job-service-2.3.0-159.jar returned status 404
+2.4.0-211			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.4.0-211/job-service-2.4.0-211.jar returned status 404
+2.5.0-284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.5.0-284/job-service-2.5.0-284.jar returned status 404
+2.6.0-383			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.6.0-383/job-service-2.6.0-383.jar returned status 404
+2.7.0-440			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/2.7.0-440/job-service-2.7.0-440.jar returned status 404
+3.0.0-471			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.0.0-471/job-service-3.0.0-471.jar returned status 404
+3.1.0-578			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.1.0-578/job-service-3.1.0-578.jar returned status 404
+3.2.0-689			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.2.0-689/job-service-3.2.0-689.jar returned status 404
+3.2.1-691			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.2.1-691/job-service-3.2.1-691.jar returned status 404
+3.2.2-697			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.2.2-697/job-service-3.2.2-697.jar returned status 404
+3.3.0-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.3.0-2/job-service-3.3.0-2.jar returned status 404
+3.4.0-834			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.4.0-834/job-service-3.4.0-834.jar returned status 404
+3.5.0-979			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/3.5.0-979/job-service-3.5.0-979.jar returned status 404
+4.0.0-1076			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/4.0.0-1076/job-service-4.0.0-1076.jar returned status 404
+5.0.0-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/5.0.0-4/job-service-5.0.0-4.jar returned status 404
+6.0.0-31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.0.0-31/job-service-6.0.0-31.jar returned status 404
+6.0.1-54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.0.1-54/job-service-6.0.1-54.jar returned status 404
+6.1.0-72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.1.0-72/job-service-6.1.0-72.jar returned status 404
+6.2.0-136			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.2.0-136/job-service-6.2.0-136.jar returned status 404
+6.2.1-176			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.2.1-176/job-service-6.2.1-176.jar returned status 404
+6.2.2-266			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jobservice/job-service/6.2.2-266/job-service-6.2.2-266.jar returned status 404
 7.0.0-334		2024-02-12T13:15:13Z	
 7.0.1-381		2024-04-09T21:02:48Z	
 7.0.2-1		2024-05-02T23:29:18Z	
