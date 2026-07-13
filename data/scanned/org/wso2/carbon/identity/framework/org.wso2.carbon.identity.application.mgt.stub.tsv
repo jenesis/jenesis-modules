@@ -4448,6 +4448,7 @@
 7.8.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt.stub/7.8.18/org.wso2.carbon.identity.application.mgt.stub-7.8.18.jar returned status 404
 7.8.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt.stub/7.8.19/org.wso2.carbon.identity.application.mgt.stub-7.8.19.jar returned status 404
 7.8.2		2025-02-18T18:15:00Z	
+7.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt.stub/7.8.20/org.wso2.carbon.identity.application.mgt.stub-7.8.20.jar returned status 404
 7.8.3		2025-02-18T20:53:31Z	
 7.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt.stub/7.8.4/org.wso2.carbon.identity.application.mgt.stub-7.8.4.jar returned status 404
 7.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt.stub/7.8.5/org.wso2.carbon.identity.application.mgt.stub-7.8.5.jar returned status 404
