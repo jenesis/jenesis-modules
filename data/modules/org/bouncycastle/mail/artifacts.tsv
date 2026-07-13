@@ -10,6 +10,7 @@
 2.73.2	named	org.bouncycastle	bcjmail-lts8on
 2.73.1	named	org.bouncycastle	bcjmail-lts8on
 2.73.0	named	org.bouncycastle	bcjmail-lts8on
+1.85	automatic	org.bouncycastle	bcjmail-debug-jdk15to18
 1.84	named	org.bouncycastle	bcjmail-jdk18on
 1.83	named	org.bouncycastle	bcjmail-jdk18on
 1.82	named	org.bouncycastle	bcmail-jdk18on

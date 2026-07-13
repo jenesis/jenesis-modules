@@ -1,3 +1,4 @@
+v1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1-rev20260620-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1-rev20260614-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1-rev20260606-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
@@ -78,6 +79,7 @@ v1-rev20240512-2.0.0	automatic	com.google.apis	google-api-services-discoveryengi
 v1-rev20240502-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1-rev20240415-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1-rev20240409-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
+v1beta-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1beta-rev20260620-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1beta-rev20260614-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1beta-rev20260606-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
@@ -203,6 +205,7 @@ v1beta-rev20221207-2.0.0	automatic	com.google.apis	google-api-services-discovery
 v1beta-rev20221130-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1beta-rev20221107-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1beta-rev20221103-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
+v1alpha-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1alpha-rev20260620-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1alpha-rev20260614-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine
 v1alpha-rev20260606-2.0.0	automatic	com.google.apis	google-api-services-discoveryengine

@@ -1,3 +1,4 @@
+v1-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1-rev20260617-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1-rev20260531-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1-rev20260503-2.0.0	automatic	com.google.apis	google-api-services-datastream
@@ -58,6 +59,7 @@ v1-rev20220302-1.32.1	automatic	com.google.apis	google-api-services-datastream
 v1-rev20220105-1.32.1	automatic	com.google.apis	google-api-services-datastream
 v1-rev20211110-1.32.1	automatic	com.google.apis	google-api-services-datastream
 v1-rev20211026-1.32.1	automatic	com.google.apis	google-api-services-datastream
+v1alpha1-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1alpha1-rev20260426-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1alpha1-rev20260321-2.0.0	automatic	com.google.apis	google-api-services-datastream
 v1alpha1-rev20260318-2.0.0	automatic	com.google.apis	google-api-services-datastream

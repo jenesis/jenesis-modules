@@ -1,3 +1,4 @@
+v1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1-rev20260622-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1-rev20260601-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1-rev20260511-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
@@ -64,6 +65,7 @@ v1-rev20210524-1.31.0	automatic	com.google.apis	google-api-services-ondemandscan
 v1-rev20210410-1.31.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1-rev20210403-1.31.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1-rev20210329-1.31.0	automatic	com.google.apis	google-api-services-ondemandscanning
+v1beta1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1beta1-rev20260622-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1beta1-rev20260601-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning
 v1beta1-rev20260511-2.0.0	automatic	com.google.apis	google-api-services-ondemandscanning

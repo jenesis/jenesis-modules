@@ -200,6 +200,7 @@ lfp_v1beta-rev20241101-2.0.0	automatic	com.google.apis	google-api-services-merch
 lfp_v1beta-rev20241023-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 lfp_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 lfp_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+issueresolution_v1-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1-rev20260429-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -211,6 +212,7 @@ issueresolution_v1-rev20251109-2.0.0	automatic	com.google.apis	google-api-servic
 issueresolution_v1-rev20250830-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1-rev20250808-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1-rev20250804-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+issueresolution_v1beta-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1beta-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1beta-rev20260429-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 issueresolution_v1beta-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-merchantapi

@@ -80,6 +80,7 @@ v2alpha-rev20220401-1.32.1	automatic	com.google.apis	google-api-services-gkehub
 v2alpha-rev20220318-1.32.1	automatic	com.google.apis	google-api-services-gkehub
 v2alpha-rev20220303-1.32.1	automatic	com.google.apis	google-api-services-gkehub
 v2alpha-rev20220204-1.32.1	automatic	com.google.apis	google-api-services-gkehub
+v1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1-rev20260616-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-gkehub
@@ -234,6 +235,7 @@ v1beta1-rev20210507-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta1-rev20210409-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta1-rev20210315-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta1-rev20210305-1.31.0	automatic	com.google.apis	google-api-services-gkehub
+v1beta-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta-rev20260616-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1beta-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-gkehub
@@ -378,6 +380,7 @@ v1alpha2-rev20210507-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha2-rev20210409-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha2-rev20210315-1.31.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha2-rev20210305-1.31.0	automatic	com.google.apis	google-api-services-gkehub
+v1alpha-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha-rev20260616-2.0.0	automatic	com.google.apis	google-api-services-gkehub
 v1alpha-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-gkehub

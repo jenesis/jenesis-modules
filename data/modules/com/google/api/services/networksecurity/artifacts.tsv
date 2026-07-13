@@ -1,3 +1,4 @@
+v1-rev20260625-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1-rev20260617-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1-rev20260524-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1-rev20260518-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
@@ -49,6 +50,7 @@ v1-rev20220616-1.32.1	automatic	com.google.apis	google-api-services-networksecur
 v1-rev20220128-1.32.1	automatic	com.google.apis	google-api-services-networksecurity
 v1-rev20220105-1.32.1	automatic	com.google.apis	google-api-services-networksecurity
 v1-rev20210818-1.32.1	automatic	com.google.apis	google-api-services-networksecurity
+v1beta1-rev20260625-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1beta1-rev20260617-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1beta1-rev20260524-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
 v1beta1-rev20260518-2.0.0	automatic	com.google.apis	google-api-services-networksecurity
