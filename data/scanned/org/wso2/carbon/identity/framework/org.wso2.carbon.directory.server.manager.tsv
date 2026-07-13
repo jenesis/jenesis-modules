@@ -1959,6 +1959,7 @@
 5.20.388			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.directory.server.manager/5.20.388/org.wso2.carbon.directory.server.manager-5.20.388.jar returned status 404
 5.20.389			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.directory.server.manager/5.20.389/org.wso2.carbon.directory.server.manager-5.20.389.jar returned status 404
 5.20.39		2021-05-07T01:30:04Z	
+5.20.390			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.directory.server.manager/5.20.390/org.wso2.carbon.directory.server.manager-5.20.390.jar returned status 404
 5.20.4		2021-03-25T12:07:52Z	
 5.20.40		2021-05-07T17:25:47Z	
 5.20.41		2021-05-10T06:13:24Z	
