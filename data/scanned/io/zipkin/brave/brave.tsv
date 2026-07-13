@@ -1,3 +1,17 @@
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.10.0/brave-3.10.0.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.11.0/brave-3.11.0.jar returned status 404
+3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.11.1/brave-3.11.1.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.13.0/brave-3.13.0.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.14.0/brave-3.14.0.jar returned status 404
+3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.14.1/brave-3.14.1.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.15.0/brave-3.15.0.jar returned status 404
+3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.15.1/brave-3.15.1.jar returned status 404
+3.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.15.3/brave-3.15.3.jar returned status 404
+3.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.15.4/brave-3.15.4.jar returned status 404
+3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.16.0/brave-3.16.0.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.8.0/brave-3.8.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.9.0/brave-3.9.0.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zipkin/brave/brave/3.9.1/brave-3.9.1.jar returned status 404
 4.0.0		2017-01-05T15:27:06Z	
 4.0.1		2017-01-14T01:28:00Z	
 4.0.2		2017-01-16T07:08:03Z	

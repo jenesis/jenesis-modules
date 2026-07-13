@@ -7,3 +7,4 @@
 0.3.0-7.7.2-4.39.0		2024-03-16T13:10:37Z	
 0.4.0-7.9.0-4.41.0		2024-04-22T16:22:37Z	
 1.0.0+13.2.0		2024-09-27T14:10:23Z	
+1.0.013.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/shortway/kobankat/kobankat-core/1.0.013.2.0/kobankat-core-1.0.013.2.0.jar returned status 404

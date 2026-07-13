@@ -12,3 +12,4 @@
 0.4.0-7.9.0-4.41.0	metadata	2024-04-22T16:23:01Z	
 1.0.0+13.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/shortway/kobankat/kobankat-either-iossimulatorarm64/1.0.0+13.2.0/kobankat-either-iossimulatorarm64-1.0.0+13.2.0.jar returned status 404
 1.0.0+13.2.0	metadata	2024-09-27T14:11:44Z	
+1.0.013.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/shortway/kobankat/kobankat-either-iossimulatorarm64/1.0.013.2.0/kobankat-either-iossimulatorarm64-1.0.013.2.0.jar returned status 404

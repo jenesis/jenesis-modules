@@ -17,7 +17,12 @@
 24		2019-03-22T09:07:53Z	
 25		2019-03-26T08:19:27Z	
 26		2020-02-03T10:31:58Z	
+27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-build/27/netty-build-27.jar returned status 404
+28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-build/28/netty-build-28.jar returned status 404
+29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-build/29/netty-build-29.jar returned status 404
 3		2012-01-14T16:43:19Z	
+30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-build/30/netty-build-30.jar returned status 404
+31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-build/31/netty-build-31.jar returned status 404
 4		2012-01-17T09:35:15Z	
 5		2012-02-07T08:08:05Z	
 6		2012-02-07T08:38:38Z	

@@ -1,4 +1,9 @@
 2.3.10_arenadata1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.10_arenadata1/hive-packaging-2.3.10_arenadata1.jar returned status 404
+2.3.9_arenadata1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata1/hive-packaging-2.3.9_arenadata1.jar returned status 404
+2.3.9_arenadata2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata2/hive-packaging-2.3.9_arenadata2.jar returned status 404
+2.3.9_arenadata3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata3/hive-packaging-2.3.9_arenadata3.jar returned status 404
+2.3.9_arenadata4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata4/hive-packaging-2.3.9_arenadata4.jar returned status 404
+2.3.9_arenadata5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata5/hive-packaging-2.3.9_arenadata5.jar returned status 404
 2.3.9_arenadata7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata7/hive-packaging-2.3.9_arenadata7.jar returned status 404
 2.3.9_arenadata8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata8/hive-packaging-2.3.9_arenadata8.jar returned status 404
 2.3.9_arenadata9		2026-05-26T07:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arenadata/hive/hive-packaging/2.3.9_arenadata9/hive-packaging-2.3.9_arenadata9.jar returned status 404
