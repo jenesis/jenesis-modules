@@ -18,6 +18,14 @@
 0.5.8.0		2023-01-28T03:19:00Z	
 1.0.0.0		2023-07-21T05:00:30Z	
 1.0.0.1		2023-07-21T05:27:13Z	
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.10/functionalj-types-tests-1.0.10.jar returned status 404
+1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.11/functionalj-types-tests-1.0.11.jar returned status 404
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.12/functionalj-types-tests-1.0.12.jar returned status 404
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.13/functionalj-types-tests-1.0.13.jar returned status 404
+1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.14/functionalj-types-tests-1.0.14.jar returned status 404
+1.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.15/functionalj-types-tests-1.0.15.jar returned status 404
+1.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.16/functionalj-types-tests-1.0.16.jar returned status 404
+1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.17/functionalj-types-tests-1.0.17.jar returned status 404
 1.0.18.18		2025-01-03T04:48:52Z	
 1.0.19		2025-01-03T06:59:38Z	
 1.0.20		2025-01-04T04:49:57Z	
@@ -30,3 +38,10 @@
 1.0.27		2025-06-17T06:24:51Z	
 1.0.28		2025-07-12T17:48:58Z	
 1.0.29		2025-07-13T22:02:38Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.3/functionalj-types-tests-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.4/functionalj-types-tests-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.5/functionalj-types-tests-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.6/functionalj-types-tests-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.7/functionalj-types-tests-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.8/functionalj-types-tests-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/functionalj/functionalj-types-tests/1.0.9/functionalj-types-tests-1.0.9.jar returned status 404

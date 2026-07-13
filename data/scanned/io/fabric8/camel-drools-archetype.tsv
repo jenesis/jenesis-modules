@@ -1,3 +1,4 @@
 1.0.0.redhat-394		2014-09-22T21:42:00Z	
 1.0.0.redhat-412		2014-10-20T22:10:21Z	
 1.0.0.redhat-423		2015-02-07T22:29:49Z	
+1.0.0.redhat-445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/camel-drools-archetype/1.0.0.redhat-445/camel-drools-archetype-1.0.0.redhat-445.jar returned status 404
