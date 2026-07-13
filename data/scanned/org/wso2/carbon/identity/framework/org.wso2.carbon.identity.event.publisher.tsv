@@ -301,6 +301,10 @@
 7.11.97		2026-05-27T06:21:01Z	
 7.11.98		2026-05-27T09:08:02Z	
 7.11.99		2026-05-27T11:28:14Z	
+7.8.282			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.event.publisher/7.8.282/org.wso2.carbon.identity.event.publisher-7.8.282.jar returned status 404
+7.8.283			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.event.publisher/7.8.283/org.wso2.carbon.identity.event.publisher-7.8.283.jar returned status 404
+7.8.284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.event.publisher/7.8.284/org.wso2.carbon.identity.event.publisher-7.8.284.jar returned status 404
+7.8.285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.event.publisher/7.8.285/org.wso2.carbon.identity.event.publisher-7.8.285.jar returned status 404
 7.8.614		2025-11-16T16:12:57Z	
 7.8.615		2025-11-18T12:17:34Z	
 7.8.616		2025-11-18T19:30:02Z	
