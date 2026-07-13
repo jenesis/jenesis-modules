@@ -1,10 +1,55 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.10.0/assembly-1.10.0.jar returned status 404
+1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.10.3/assembly-1.10.3.jar returned status 404
+1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.10.4/assembly-1.10.4.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.11.0/assembly-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.11.1/assembly-1.11.1.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.12.0/assembly-1.12.0.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.12.1/assembly-1.12.1.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.0/assembly-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.1/assembly-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.2/assembly-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.3/assembly-1.13.3.jar returned status 404
+1.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.4/assembly-1.13.4.jar returned status 404
+1.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.5/assembly-1.13.5.jar returned status 404
+1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.13.6/assembly-1.13.6.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.0/assembly-1.14.0.jar returned status 404
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.1/assembly-1.14.1.jar returned status 404
+1.14.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.10/assembly-1.14.10.jar returned status 404
+1.14.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.11/assembly-1.14.11.jar returned status 404
+1.14.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.12/assembly-1.14.12.jar returned status 404
+1.14.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.13/assembly-1.14.13.jar returned status 404
+1.14.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.14/assembly-1.14.14.jar returned status 404
+1.14.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.15/assembly-1.14.15.jar returned status 404
+1.14.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.16/assembly-1.14.16.jar returned status 404
+1.14.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.17/assembly-1.14.17.jar returned status 404
 1.14.17-p1		2024-04-10T07:27:43Z	
 1.14.18		2024-04-19T16:47:53Z	
 1.14.19		2024-07-12T00:37:38Z	
+1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.2/assembly-1.14.2.jar returned status 404
 1.14.20		2024-11-08T17:11:56Z	
 1.14.21		2025-01-07T14:20:53Z	
+1.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.3/assembly-1.14.3.jar returned status 404
+1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.4/assembly-1.14.4.jar returned status 404
+1.14.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.5/assembly-1.14.5.jar returned status 404
+1.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.6/assembly-1.14.6.jar returned status 404
+1.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.7/assembly-1.14.7.jar returned status 404
+1.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.8/assembly-1.14.8.jar returned status 404
+1.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.14.9/assembly-1.14.9.jar returned status 404
 1.15.0		2025-01-27T19:43:23Z	
 1.15.1		2025-05-15T11:42:44Z	
 1.15.2		2025-08-13T13:52:10Z	
 1.15.3		2025-10-23T09:59:41Z	
 1.15.4		2026-03-31T16:43:26Z	
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.1/assembly-1.9.1.jar returned status 404
+1.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.10/assembly-1.9.10.jar returned status 404
+1.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.12/assembly-1.9.12.jar returned status 404
+1.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.14/assembly-1.9.14.jar returned status 404
+1.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.15/assembly-1.9.15.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.2/assembly-1.9.2.jar returned status 404
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.3/assembly-1.9.3.jar returned status 404
+1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.4/assembly-1.9.4.jar returned status 404
+1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.5/assembly-1.9.5.jar returned status 404
+1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.6/assembly-1.9.6.jar returned status 404
+1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.7/assembly-1.9.7.jar returned status 404
+1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.8/assembly-1.9.8.jar returned status 404
+1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.9/assembly-1.9.9.jar returned status 404

@@ -15,4 +15,7 @@
 1.0.32		2013-05-03T14:41:30Z	
 1.0.33		2013-05-03T14:44:14Z	
 1.0.34		2013-05-03T18:16:07Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/common/kuali-sample/1.0.4/kuali-sample-1.0.4.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/common/kuali-sample/1.0.7/kuali-sample-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/common/kuali-sample/1.0.8/kuali-sample-1.0.8.jar returned status 404
 1.0.9		2013-05-03T01:56:28Z	

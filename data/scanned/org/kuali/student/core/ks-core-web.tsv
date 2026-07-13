@@ -1,3 +1,14 @@
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.1/ks-core-web-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2/ks-core-web-1.2.jar returned status 404
+1.2-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2-M1/ks-core-web-1.2-M1.jar returned status 404
+1.2-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2-M2/ks-core-web-1.2-M2.jar returned status 404
+1.2-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2-M3/ks-core-web-1.2-M3.jar returned status 404
+1.2-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2-M4/ks-core-web-1.2-M4.jar returned status 404
+1.2-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2-M6/ks-core-web-1.2-M6.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2.1/ks-core-web-1.2.1.jar returned status 404
+1.2.2-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2.2-M2/ks-core-web-1.2.2-M2.jar returned status 404
+1.2.2-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2.2-M3/ks-core-web-1.2.2-M3.jar returned status 404
+1.2.2-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kuali/student/core/ks-core-web/1.2.2-M4/ks-core-web-1.2.2-M4.jar returned status 404
 2.0.0-cm		2013-01-10T23:14:01Z	
 2.0.1-cm		2013-06-20T20:24:06Z	
 2.0.2-cm		2013-10-22T16:56:29Z	
