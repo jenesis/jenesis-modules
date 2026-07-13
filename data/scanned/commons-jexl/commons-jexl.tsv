@@ -1,5 +1,9 @@
+1.0			
+1.0-RC1			
 1.0-beta-1		2005-11-22T18:09:36Z	
 1.0-beta-2		2005-11-22T18:09:36Z	
+1.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-jexl/commons-jexl/1.0-dev/commons-jexl-1.0-dev.jar returned status 404
+1.0-dev.20020731.122830			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-jexl/commons-jexl/1.0-dev.20020731.122830/commons-jexl-1.0-dev.20020731.122830.jar returned status 404
 1.1		2006-09-11T08:43:37Z	
 20030307.151331		2005-10-15T06:08:26Z	
 20040821.000101		2005-10-15T06:08:26Z	
