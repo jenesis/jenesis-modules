@@ -97,3 +97,6 @@
 3.0-alpha.224		2026-07-03T14:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.224/helidon-mp-3.0-alpha.224.jar returned status 404
 3.0-alpha.225		2026-07-04T17:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.225/helidon-mp-3.0-alpha.225.jar returned status 404
 3.0-alpha.226		2026-07-04T22:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.226/helidon-mp-3.0-alpha.226.jar returned status 404
+3.0-alpha.234			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.234/helidon-mp-3.0-alpha.234.jar returned status 404
+3.0-alpha.236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.236/helidon-mp-3.0-alpha.236.jar returned status 404
+3.0-alpha.242			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/helidon-mp/3.0-alpha.242/helidon-mp-3.0-alpha.242.jar returned status 404
