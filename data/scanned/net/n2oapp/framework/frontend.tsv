@@ -355,6 +355,7 @@
 7.29.20		2026-05-21T11:48:54Z	
 7.29.21		2026-06-23T11:13:17Z	
 7.29.22		2026-07-03T10:51:10Z	
+7.29.23			
 7.29.3		2025-10-02T11:07:37Z	
 7.29.4		2025-10-14T13:53:17Z	
 7.29.5		2025-11-05T09:43:11Z	
@@ -375,7 +376,20 @@
 7.3.2		2019-08-13T23:34:49Z	
 7.3.20		2019-08-23T12:25:48Z	
 7.3.21		2019-08-29T12:42:59Z	
+7.3.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.22/frontend-7.3.22.jar returned status 404
+7.3.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.23/frontend-7.3.23.jar returned status 404
+7.3.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.24/frontend-7.3.24.jar returned status 404
+7.3.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.25/frontend-7.3.25.jar returned status 404
+7.3.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.26/frontend-7.3.26.jar returned status 404
+7.3.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.27/frontend-7.3.27.jar returned status 404
+7.3.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.28/frontend-7.3.28.jar returned status 404
+7.3.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.29/frontend-7.3.29.jar returned status 404
 7.3.3		2019-08-13T23:04:04Z	
+7.3.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.30/frontend-7.3.30.jar returned status 404
+7.3.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.31/frontend-7.3.31.jar returned status 404
+7.3.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.32/frontend-7.3.32.jar returned status 404
+7.3.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.33/frontend-7.3.33.jar returned status 404
+7.3.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/frontend/7.3.34/frontend-7.3.34.jar returned status 404
 7.3.4		2019-08-14T05:34:14Z	
 7.3.5		2019-08-13T22:05:08Z	
 7.3.6		2019-08-13T21:24:52Z	
