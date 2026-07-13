@@ -1,3 +1,7 @@
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.2.0/parent-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.2.1/parent-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.2.2/parent-2.2.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.3.0/parent-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.4.0/parent-2.4.0.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/2.4.1/parent-2.4.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kdgregory/logging/parent/3.0.0/parent-3.0.0.jar returned status 404
