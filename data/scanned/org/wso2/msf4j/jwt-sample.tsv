@@ -1,3 +1,14 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.0.0/jwt-sample-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.1.0/jwt-sample-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.1.1/jwt-sample-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.2.0/jwt-sample-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.2.1/jwt-sample-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.2.2/jwt-sample-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.3.0-m1/jwt-sample-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.3.0-m2/jwt-sample-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.3.0-m3/jwt-sample-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.4.0/jwt-sample-2.4.0.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.4.0-m1/jwt-sample-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T06:02:29Z	
 2.4.2		2017-10-27T16:04:37Z	
 2.4.3		2017-12-06T15:13:59Z	
@@ -12,13 +23,25 @@
 2.6.3		2018-08-27T10:25:24Z	
 2.6.4		2018-09-04T19:00:33Z	
 2.7.0		2019-03-11T01:26:36Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.1/jwt-sample-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.2/jwt-sample-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.3/jwt-sample-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.4/jwt-sample-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.5/jwt-sample-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.6/jwt-sample-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:37:36Z	
 2.7.8		2021-04-02T11:45:01Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.7.9/jwt-sample-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.8.0/jwt-sample-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.8.1/jwt-sample-2.8.1.jar returned status 404
 2.8.10		2023-01-30T06:44:34Z	
 2.8.11		2023-02-03T18:39:38Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.8.12/jwt-sample-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.8.13/jwt-sample-2.8.13.jar returned status 404
 2.8.2		2021-04-30T15:55:27Z	
 2.8.3		2021-05-04T00:24:16Z	
 2.8.4		2022-02-18T11:44:38Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/jwt-sample/2.8.5/jwt-sample-2.8.5.jar returned status 404
 2.8.6		2022-09-19T08:17:46Z	
 2.8.7		2022-11-01T20:51:13Z	
 2.8.8		2023-01-26T06:57:05Z	

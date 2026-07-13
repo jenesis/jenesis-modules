@@ -7,6 +7,7 @@
 2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m1/jpa-2.3.0-m1.jar returned status 404
 2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m2/jpa-2.3.0-m2.jar returned status 404
 2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.3.0-m3/jpa-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.4.0/jpa-2.4.0.jar returned status 404
 2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.4.0-m1/jpa-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T06:05:26Z	
 2.4.2		2017-10-27T16:05:09Z	
@@ -22,13 +23,25 @@
 2.6.3		2018-08-27T10:26:06Z	
 2.6.4		2018-09-04T19:01:17Z	
 2.7.0		2019-03-11T01:27:20Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.1/jpa-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.2/jpa-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.3/jpa-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.4/jpa-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.5/jpa-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.6/jpa-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:38:07Z	
 2.7.8		2021-04-02T11:45:31Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.7.9/jpa-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.8.0/jpa-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.8.1/jpa-2.8.1.jar returned status 404
 2.8.10		2023-01-30T07:01:09Z	
 2.8.11		2023-02-03T18:56:34Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.8.12/jpa-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.8.13/jpa-2.8.13.jar returned status 404
 2.8.2		2021-04-30T16:32:10Z	
 2.8.3		2021-05-04T01:00:59Z	
 2.8.4		2022-02-18T12:01:10Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/jpa/2.8.5/jpa-2.8.5.jar returned status 404
 2.8.6		2022-09-19T08:34:19Z	
 2.8.7		2022-11-01T21:08:08Z	
 2.8.8		2023-01-26T07:13:51Z	

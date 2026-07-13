@@ -1,3 +1,11 @@
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.2.0/zipkin-tracing-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.2.1/zipkin-tracing-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.2.2/zipkin-tracing-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.3.0-m1/zipkin-tracing-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.3.0-m2/zipkin-tracing-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.3.0-m3/zipkin-tracing-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.4.0/zipkin-tracing-2.4.0.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.4.0-m1/zipkin-tracing-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-24T11:42:26Z	
 2.4.2		2017-11-07T16:13:29Z	
 2.4.3		2017-12-06T15:08:59Z	
@@ -12,13 +20,25 @@
 2.6.3		2018-08-27T10:19:49Z	
 2.6.4		2018-09-04T18:54:48Z	
 2.7.0		2019-03-11T01:20:58Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.1/zipkin-tracing-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.2/zipkin-tracing-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.3/zipkin-tracing-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.4/zipkin-tracing-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.5/zipkin-tracing-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.6/zipkin-tracing-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:34:24Z	
 2.7.8		2021-04-02T11:41:47Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.7.9/zipkin-tracing-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.8.0/zipkin-tracing-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.8.1/zipkin-tracing-2.8.1.jar returned status 404
 2.8.10		2023-01-30T04:31:03Z	
 2.8.11		2023-02-03T16:26:58Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.8.12/zipkin-tracing-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.8.13/zipkin-tracing-2.8.13.jar returned status 404
 2.8.2		2021-04-30T11:14:26Z	
 2.8.3		2021-05-03T19:43:17Z	
 2.8.4		2022-02-18T09:34:41Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/zipkin-tracing/2.8.5/zipkin-tracing-2.8.5.jar returned status 404
 2.8.6		2022-09-19T06:07:46Z	
 2.8.7		2022-11-01T18:35:45Z	
 2.8.8		2023-01-26T04:44:55Z	

@@ -1,3 +1,14 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.0.0/http-monitoring-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.1.0/http-monitoring-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.1.1/http-monitoring-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.2.0/http-monitoring-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.2.1/http-monitoring-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.2.2/http-monitoring-2.2.2.jar returned status 404
+2.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.3.0-m1/http-monitoring-2.3.0-m1.jar returned status 404
+2.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.3.0-m2/http-monitoring-2.3.0-m2.jar returned status 404
+2.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.3.0-m3/http-monitoring-2.3.0-m3.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.4.0/http-monitoring-2.4.0.jar returned status 404
+2.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.4.0-m1/http-monitoring-2.4.0-m1.jar returned status 404
 2.4.1		2017-10-04T05:54:30Z	
 2.4.2		2017-10-27T16:02:42Z	
 2.4.3		2017-12-06T15:11:41Z	
@@ -12,13 +23,25 @@
 2.6.3		2018-08-27T10:22:56Z	
 2.6.4		2018-09-04T18:57:59Z	
 2.7.0		2019-03-11T01:24:07Z	
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.1/http-monitoring-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.2/http-monitoring-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.3/http-monitoring-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.4/http-monitoring-2.7.4.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.5/http-monitoring-2.7.5.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.6/http-monitoring-2.7.6.jar returned status 404
 2.7.7		2020-03-02T10:36:22Z	
 2.7.8		2021-04-02T11:43:46Z	
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.7.9/http-monitoring-2.7.9.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.8.0/http-monitoring-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.8.1/http-monitoring-2.8.1.jar returned status 404
 2.8.10		2023-01-30T06:26:58Z	
 2.8.11		2023-02-03T18:21:15Z	
+2.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.8.12/http-monitoring-2.8.12.jar returned status 404
+2.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.8.13/http-monitoring-2.8.13.jar returned status 404
 2.8.2		2021-04-30T14:17:27Z	
 2.8.3		2021-05-03T22:46:17Z	
 2.8.4		2022-02-18T11:27:17Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/msf4j/sample/http-monitoring/2.8.5/http-monitoring-2.8.5.jar returned status 404
 2.8.6		2022-09-19T08:00:17Z	
 2.8.7		2022-11-01T20:32:25Z	
 2.8.8		2023-01-26T06:39:30Z	

@@ -31,6 +31,7 @@
 26.4.0.121862		2026-04-10T12:57:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/sonar-application/26.4.0.121862/sonar-application-26.4.0.121862.jar returned status 404
 26.5.0.122743		2026-05-08T14:26:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/sonar-application/26.5.0.122743/sonar-application-26.5.0.122743.jar returned status 404
 26.6.0.123539		2026-06-03T09:55:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/sonar-application/26.6.0.123539/sonar-application-26.6.0.123539.jar returned status 404
+26.7.0.124771			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/sonar-application/26.7.0.124771/sonar-application-26.7.0.124771.jar returned status 404
 6.2		2025-04-15T14:14:39Z	
 6.2-RC3		2025-04-15T14:14:02Z	
 6.2.1		2025-04-15T14:14:13Z	

@@ -1,5 +1,9 @@
 2.10.0.3458			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.10.0.3458/flex-its-2.10.0.3458.jar returned status 404
 2.11.0.3513			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.11.0.3513/flex-its-2.11.0.3513.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.3/flex-its-2.3.jar returned status 404
+2.4.0.1222			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.4.0.1222/flex-its-2.4.0.1222.jar returned status 404
+2.5.1.1831			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.5.1.1831/flex-its-2.5.1.1831.jar returned status 404
+2.6.0.2294			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.6.0.2294/flex-its-2.6.0.2294.jar returned status 404
 2.6.1.2564			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.6.1.2564/flex-its-2.6.1.2564.jar returned status 404
 2.6.2.2641			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.6.2.2641/flex-its-2.6.2.2641.jar returned status 404
 2.7.0.2865			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/flex-its/2.7.0.2865/flex-its-2.7.0.2865.jar returned status 404
