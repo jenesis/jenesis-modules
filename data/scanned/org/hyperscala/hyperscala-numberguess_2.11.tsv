@@ -1,4 +1,6 @@
 0.10.0		2015-03-31T19:30:22Z	
 0.10.1		2015-06-23T21:35:27Z	
 0.10.3		2015-12-21T16:49:50Z	
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperscala/hyperscala-numberguess_2.11/0.9.1/hyperscala-numberguess_2.11-0.9.1.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperscala/hyperscala-numberguess_2.11/0.9.2/hyperscala-numberguess_2.11-0.9.2.jar returned status 404
 0.9.3		2015-01-16T16:56:13Z	

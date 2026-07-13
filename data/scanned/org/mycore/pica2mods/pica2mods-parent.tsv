@@ -1,3 +1,15 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.0/pica2mods-parent-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.1/pica2mods-parent-2.1.jar returned status 404
+2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.10/pica2mods-parent-2.10.jar returned status 404
+2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.11/pica2mods-parent-2.11.jar returned status 404
 2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.12/pica2mods-parent-2.12.jar returned status 404
 2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.13/pica2mods-parent-2.13.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.2/pica2mods-parent-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.3/pica2mods-parent-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.4/pica2mods-parent-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.5/pica2mods-parent-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.6/pica2mods-parent-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.7/pica2mods-parent-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.8/pica2mods-parent-2.8.jar returned status 404
+2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/2.9/pica2mods-parent-2.9.jar returned status 404
 3.0		2026-07-02T09:21:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/pica2mods/pica2mods-parent/3.0/pica2mods-parent-3.0.jar returned status 404

@@ -1,9 +1,22 @@
+2022.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2022.06.1/mycore-bom-2022.06.1.jar returned status 404
+2022.06.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2022.06.2/mycore-bom-2022.06.2.jar returned status 404
+2022.06.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2022.06.3/mycore-bom-2022.06.3.jar returned status 404
+2022.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2022.08/mycore-bom-2022.08.jar returned status 404
+2023.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.05/mycore-bom-2023.05.jar returned status 404
+2023.06.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.0/mycore-bom-2023.06.0.jar returned status 404
+2023.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.1/mycore-bom-2023.06.1.jar returned status 404
+2023.06.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.2/mycore-bom-2023.06.2.jar returned status 404
 2023.06.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.3/mycore-bom-2023.06.3.jar returned status 404
 2023.06.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.4/mycore-bom-2023.06.4.jar returned status 404
 2023.06.5		2026-07-03T12:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.06.5/mycore-bom-2023.06.5.jar returned status 404
+2023.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2023.11/mycore-bom-2023.11.jar returned status 404
+2024.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.02/mycore-bom-2024.02.jar returned status 404
+2024.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.05/mycore-bom-2024.05.jar returned status 404
+2024.06.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.06.0/mycore-bom-2024.06.0.jar returned status 404
 2024.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.06.1/mycore-bom-2024.06.1.jar returned status 404
 2024.06.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.06.2/mycore-bom-2024.06.2.jar returned status 404
 2024.06.3		2026-07-03T12:38:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.06.3/mycore-bom-2024.06.3.jar returned status 404
+2024.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2024.11/mycore-bom-2024.11.jar returned status 404
 2025.06.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2025.06.0/mycore-bom-2025.06.0.jar returned status 404
 2025.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2025.06.1/mycore-bom-2025.06.1.jar returned status 404
 2025.06.2		2026-07-03T12:57:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mycore/mycore-bom/2025.06.2/mycore-bom-2025.06.2.jar returned status 404

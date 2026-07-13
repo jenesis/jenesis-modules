@@ -1658,3 +1658,9 @@ org.sejda.model
 org.sejda.fonts
 org.sejda.conversion
 com.fasterxml.jackson.datatype.jsr310
+org.scala.lang.scala3.library
+org.scala.lang.scala3.language.server
+org.scala.lang.scala3.interfaces
+org.scala.lang.scala3.library_sjs1
+scala.library
+org.scala.lang.scala3.presentation.compiler

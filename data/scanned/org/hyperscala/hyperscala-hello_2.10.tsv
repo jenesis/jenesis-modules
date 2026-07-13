@@ -1,2 +1,4 @@
 0.8.1		2013-09-03T17:39:17Z	
 0.8.2		2013-10-15T16:39:10Z	
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperscala/hyperscala-hello_2.10/0.8.4/hyperscala-hello_2.10-0.8.4.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hyperscala/hyperscala-hello_2.10/0.9.0/hyperscala-hello_2.10-0.9.0.jar returned status 404

@@ -84,6 +84,7 @@
 0.3.9.1		2022-03-17T15:36:10Z	
 0.3.9.2		2022-03-17T21:48:23Z	
 0.3.9.3		2022-03-18T20:58:22Z	
+0.3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fugerit/java/fj-doc-mod-jxl/0.3.9.4/fj-doc-mod-jxl-0.3.9.4.jar returned status 404
 0.3.9.5		2022-10-27T21:25:31Z	
 0.4.0		2022-11-07T15:29:35Z	
 0.4.1		2022-11-07T15:41:15Z	

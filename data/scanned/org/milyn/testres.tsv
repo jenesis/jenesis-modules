@@ -13,3 +13,5 @@
 1.5.1		2011-12-02T11:26:38Z	
 1.5.2		2014-02-27T19:44:07Z	
 1.6		2014-12-17T10:00:26Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/milyn/testres/1.7.0/testres-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/milyn/testres/1.7.1/testres-1.7.1.jar returned status 404
