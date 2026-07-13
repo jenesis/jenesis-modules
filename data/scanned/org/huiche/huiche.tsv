@@ -48,6 +48,10 @@
 3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.19/huiche-3.0.19.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.2/huiche-3.0.2.jar returned status 404
 3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.20/huiche-3.0.20.jar returned status 404
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.21/huiche-3.0.21.jar returned status 404
+3.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.22/huiche-3.0.22.jar returned status 404
+3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.23/huiche-3.0.23.jar returned status 404
+3.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.24/huiche-3.0.24.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.3/huiche-3.0.3.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.4/huiche-3.0.4.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/huiche/huiche/3.0.5/huiche-3.0.5.jar returned status 404

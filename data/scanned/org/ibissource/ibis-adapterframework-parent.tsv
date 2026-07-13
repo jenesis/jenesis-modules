@@ -1,27 +1,76 @@
+7.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.0-RC3/ibis-adapterframework-parent-7.0-RC3.jar returned status 404
+7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.1/ibis-adapterframework-parent-7.1.jar returned status 404
+7.1-B1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.1-B1/ibis-adapterframework-parent-7.1-B1.jar returned status 404
+7.1-B2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.1-B2/ibis-adapterframework-parent-7.1-B2.jar returned status 404
+7.1-B3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.1-B3/ibis-adapterframework-parent-7.1-B3.jar returned status 404
+7.1-B4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.1-B4/ibis-adapterframework-parent-7.1-B4.jar returned status 404
+7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.2/ibis-adapterframework-parent-7.2.jar returned status 404
+7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.3/ibis-adapterframework-parent-7.3.jar returned status 404
+7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.4/ibis-adapterframework-parent-7.4.jar returned status 404
+7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5/ibis-adapterframework-parent-7.5.jar returned status 404
+7.5-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5-RC1/ibis-adapterframework-parent-7.5-RC1.jar returned status 404
+7.5-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5-RC2/ibis-adapterframework-parent-7.5-RC2.jar returned status 404
+7.5-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5-RC3/ibis-adapterframework-parent-7.5-RC3.jar returned status 404
+7.5-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5-RC4/ibis-adapterframework-parent-7.5-RC4.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5.1/ibis-adapterframework-parent-7.5.1.jar returned status 404
+7.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.5.2/ibis-adapterframework-parent-7.5.2.jar returned status 404
+7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6/ibis-adapterframework-parent-7.6.jar returned status 404
+7.6-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6-RC1/ibis-adapterframework-parent-7.6-RC1.jar returned status 404
+7.6-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6-RC2/ibis-adapterframework-parent-7.6-RC2.jar returned status 404
+7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6.1/ibis-adapterframework-parent-7.6.1.jar returned status 404
 7.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6.2/ibis-adapterframework-parent-7.6.2.jar returned status 404
+7.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6.3/ibis-adapterframework-parent-7.6.3.jar returned status 404
+7.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6.4/ibis-adapterframework-parent-7.6.4.jar returned status 404
+7.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.6.5/ibis-adapterframework-parent-7.6.5.jar returned status 404
+7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7/ibis-adapterframework-parent-7.7.jar returned status 404
 7.7	frankdoc	2022-03-29T13:51:18Z	
 7.7-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7-RC1/ibis-adapterframework-parent-7.7-RC1.jar returned status 404
+7.7-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7-RC2/ibis-adapterframework-parent-7.7-RC2.jar returned status 404
+7.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.1/ibis-adapterframework-parent-7.7.1.jar returned status 404
 7.7.1	frankdoc	2022-05-17T12:07:27Z	
+7.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.2/ibis-adapterframework-parent-7.7.2.jar returned status 404
 7.7.2	frankdoc	2022-07-06T13:01:58Z	
+7.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.3/ibis-adapterframework-parent-7.7.3.jar returned status 404
 7.7.3	frankdoc	2022-09-01T09:59:53Z	
+7.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.4/ibis-adapterframework-parent-7.7.4.jar returned status 404
 7.7.4	frankdoc	2022-10-21T13:56:36Z	
+7.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.5/ibis-adapterframework-parent-7.7.5.jar returned status 404
 7.7.5	frankdoc	2022-11-30T14:55:09Z	
+7.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.6/ibis-adapterframework-parent-7.7.6.jar returned status 404
 7.7.6	frankdoc	2023-02-22T13:42:57Z	
+7.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.7.7/ibis-adapterframework-parent-7.7.7.jar returned status 404
 7.7.7	frankdoc	2023-10-18T09:31:33Z	
+7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8/ibis-adapterframework-parent-7.8.jar returned status 404
 7.8	frankdoc	2023-04-05T15:54:11Z	
+7.8-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8-RC1/ibis-adapterframework-parent-7.8-RC1.jar returned status 404
 7.8-RC1	frankdoc	2022-09-02T07:58:39Z	
+7.8-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8-RC2/ibis-adapterframework-parent-7.8-RC2.jar returned status 404
 7.8-RC2	frankdoc	2022-10-21T15:45:04Z	
+7.8-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8-RC3/ibis-adapterframework-parent-7.8-RC3.jar returned status 404
 7.8-RC3	frankdoc	2023-02-22T16:50:27Z	
+7.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8.1/ibis-adapterframework-parent-7.8.1.jar returned status 404
 7.8.1	frankdoc	2023-08-04T16:14:36Z	
+7.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8.2/ibis-adapterframework-parent-7.8.2.jar returned status 404
 7.8.2	frankdoc	2023-09-27T12:08:52Z	
+7.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8.3/ibis-adapterframework-parent-7.8.3.jar returned status 404
 7.8.3	frankdoc	2023-10-17T14:23:19Z	
+7.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8.4/ibis-adapterframework-parent-7.8.4.jar returned status 404
 7.8.4	frankdoc	2023-11-28T16:50:31Z	
+7.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.8.5/ibis-adapterframework-parent-7.8.5.jar returned status 404
 7.8.5	frankdoc	2023-12-14T12:04:41Z	
+7.9-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9-RC1/ibis-adapterframework-parent-7.9-RC1.jar returned status 404
 7.9-RC1	frankdoc	2023-10-30T21:38:39Z	
+7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.0/ibis-adapterframework-parent-7.9.0.jar returned status 404
 7.9.0	frankdoc	2023-12-14T15:39:29Z	
+7.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.1/ibis-adapterframework-parent-7.9.1.jar returned status 404
 7.9.1	frankdoc	2024-02-29T18:00:48Z	
+7.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.2/ibis-adapterframework-parent-7.9.2.jar returned status 404
 7.9.2	frankdoc	2024-04-09T09:42:18Z	
+7.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.3/ibis-adapterframework-parent-7.9.3.jar returned status 404
 7.9.3	frankdoc	2024-05-17T08:51:34Z	
+7.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.4/ibis-adapterframework-parent-7.9.4.jar returned status 404
 7.9.4	frankdoc	2024-08-15T17:49:22Z	
+7.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.5/ibis-adapterframework-parent-7.9.5.jar returned status 404
 7.9.5	frankdoc	2024-10-08T15:53:15Z	
+7.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ibissource/ibis-adapterframework-parent/7.9.6/ibis-adapterframework-parent-7.9.6.jar returned status 404
 7.9.6	frankdoc	2025-02-20T10:22:10Z	

@@ -24,6 +24,7 @@
 1.10.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.25/simple-har-1.10.25.jar returned status 404
 1.10.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.26/simple-har-1.10.26.jar returned status 404
 1.10.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.27/simple-har-1.10.27.jar returned status 404
+1.10.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.28/simple-har-1.10.28.jar returned status 404
 1.10.3		2022-10-23T10:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.3/simple-har-1.10.3.jar returned status 404
 1.10.4		2022-11-26T08:58:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.4/simple-har-1.10.4.jar returned status 404
 1.10.5		2023-02-08T18:04:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/simple-har/1.10.5/simple-har-1.10.5.jar returned status 404

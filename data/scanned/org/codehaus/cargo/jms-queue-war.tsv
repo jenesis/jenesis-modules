@@ -1,3 +1,16 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.0/jms-queue-war-1.10.0.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.1/jms-queue-war-1.10.1.jar returned status 404
+1.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.10/jms-queue-war-1.10.10.jar returned status 404
+1.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.11/jms-queue-war-1.10.11.jar returned status 404
+1.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.12/jms-queue-war-1.10.12.jar returned status 404
+1.10.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.13/jms-queue-war-1.10.13.jar returned status 404
+1.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.14/jms-queue-war-1.10.14.jar returned status 404
+1.10.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.15/jms-queue-war-1.10.15.jar returned status 404
+1.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.16/jms-queue-war-1.10.16.jar returned status 404
+1.10.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.17/jms-queue-war-1.10.17.jar returned status 404
+1.10.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.18/jms-queue-war-1.10.18.jar returned status 404
+1.10.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.19/jms-queue-war-1.10.19.jar returned status 404
+1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.2/jms-queue-war-1.10.2.jar returned status 404
 1.10.20		2025-06-08T19:36:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.20/jms-queue-war-1.10.20.jar returned status 404
 1.10.21		2025-08-09T14:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.21/jms-queue-war-1.10.21.jar returned status 404
 1.10.22		2025-09-07T18:39:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.22/jms-queue-war-1.10.22.jar returned status 404
@@ -6,3 +19,23 @@
 1.10.25		2025-11-09T21:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.25/jms-queue-war-1.10.25.jar returned status 404
 1.10.26		2026-01-02T20:31:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.26/jms-queue-war-1.10.26.jar returned status 404
 1.10.27		2026-04-03T20:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.27/jms-queue-war-1.10.27.jar returned status 404
+1.10.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.28/jms-queue-war-1.10.28.jar returned status 404
+1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.3/jms-queue-war-1.10.3.jar returned status 404
+1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.4/jms-queue-war-1.10.4.jar returned status 404
+1.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.5/jms-queue-war-1.10.5.jar returned status 404
+1.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.6/jms-queue-war-1.10.6.jar returned status 404
+1.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.7/jms-queue-war-1.10.7.jar returned status 404
+1.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.8/jms-queue-war-1.10.8.jar returned status 404
+1.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.10.9/jms-queue-war-1.10.9.jar returned status 404
+1.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.10/jms-queue-war-1.9.10.jar returned status 404
+1.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.11/jms-queue-war-1.9.11.jar returned status 404
+1.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.12/jms-queue-war-1.9.12.jar returned status 404
+1.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.13/jms-queue-war-1.9.13.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.2/jms-queue-war-1.9.2.jar returned status 404
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.3/jms-queue-war-1.9.3.jar returned status 404
+1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.4/jms-queue-war-1.9.4.jar returned status 404
+1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.5/jms-queue-war-1.9.5.jar returned status 404
+1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.6/jms-queue-war-1.9.6.jar returned status 404
+1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.7/jms-queue-war-1.9.7.jar returned status 404
+1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.8/jms-queue-war-1.9.8.jar returned status 404
+1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/jms-queue-war/1.9.9/jms-queue-war-1.9.9.jar returned status 404
