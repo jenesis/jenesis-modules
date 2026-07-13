@@ -12,6 +12,7 @@
 21.12.3		2022-02-08T13:28:48Z	
 21.12.4		2022-02-25T09:22:14Z	
 21.12.5		2022-06-13T14:13:41Z	
+21.12.5-rfinal			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-testsupport/21.12.5-rfinal/faktorips-testsupport-21.12.5-rfinal.jar returned status 404
 21.12.6		2022-06-29T15:15:30Z	
 21.12.7		2022-08-12T11:01:36Z	
 21.12.8		2023-04-06T13:33:58Z	

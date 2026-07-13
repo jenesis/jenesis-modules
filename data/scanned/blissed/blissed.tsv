@@ -1,2 +1,6 @@
+1.0-beta-1			
 1.0-beta-1.20020815.040849		2005-08-01T09:26:40Z	
+1.0-beta-2-dev.20020919.093629			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/blissed/blissed/1.0-beta-2-dev.20020919.093629/blissed-1.0-beta-2-dev.20020919.093629.jar returned status 404
+1.0-beta-2-dev.20020925.044559			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/blissed/blissed/1.0-beta-2-dev.20020925.044559/blissed-1.0-beta-2-dev.20020925.044559.jar returned status 404
 1.0-beta-3		2005-08-01T09:26:40Z	
+1.0-beta-3-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/blissed/blissed/1.0-beta-3-dev/blissed-1.0-beta-3-dev.jar returned status 404
