@@ -845,3 +845,15 @@ org.dromara.mica.mqtt.codec
 org.dromara.mica.mqtt.client.jfinal.plugin
 com.nimbusds.jose.jwt
 org.primefaces.extensions
+org.primefaces
+com.fasterxml.jackson.module.paramnames
+javafx.webEmpty
+javafx.graphicsEmpty
+javafx.mediaEmpty
+javafx.fxmlEmpty
+jfx.incubator.richtextEmpty
+javafx.controlsEmpty
+jfx.incubator.inputEmpty
+javafx.baseEmpty
+javafx.swingEmpty
+jdk.jsobjectEmpty

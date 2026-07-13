@@ -4,3 +4,4 @@
 0.5.0		2011-01-27T19:00:19Z	
 0.6.0		2012-03-17T06:18:38Z	
 0.6.1		2012-10-31T16:18:17Z	
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eiichiro/acidhouse/acidhouse/0.6.2/acidhouse-0.6.2.jar returned status 404
