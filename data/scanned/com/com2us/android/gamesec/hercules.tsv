@@ -1,1 +1,12 @@
 0.0.1-test		2024-02-21T15:43:21Z	
+0.0.2-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/0.0.2-test/hercules-0.0.2-test.jar returned status 404
+20241125-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20241125-1/hercules-20241125-1.jar returned status 404
+20241125-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20241125-2/hercules-20241125-2.jar returned status 404
+20250217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250217/hercules-20250217.jar returned status 404
+20250218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250218/hercules-20250218.jar returned status 404
+20250219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250219/hercules-20250219.jar returned status 404
+20250219-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250219-2/hercules-20250219-2.jar returned status 404
+20250219-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250219-3/hercules-20250219-3.jar returned status 404
+20250321			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250321/hercules-20250321.jar returned status 404
+20250527			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20250527/hercules-20250527.jar returned status 404
+20260615			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/com2us/android/gamesec/hercules/20260615/hercules-20260615.jar returned status 404

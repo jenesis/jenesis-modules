@@ -1,45 +1,142 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1/jcabi-0.1.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.1/jcabi-0.1.1.jar returned status 404
+0.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.10/jcabi-0.1.10.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.2/jcabi-0.1.2.jar returned status 404
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.3/jcabi-0.1.3.jar returned status 404
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.4/jcabi-0.1.4.jar returned status 404
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.5/jcabi-0.1.5.jar returned status 404
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.6/jcabi-0.1.6.jar returned status 404
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.7/jcabi-0.1.7.jar returned status 404
+0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.8/jcabi-0.1.8.jar returned status 404
+0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.1.9/jcabi-0.1.9.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.2.0/jcabi-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.2.1/jcabi-0.2.1.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.3/jcabi-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.4/jcabi-0.4.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.4.1/jcabi-0.4.1.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5/jcabi-0.5.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5.1/jcabi-0.5.1.jar returned status 404
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5.2/jcabi-0.5.2.jar returned status 404
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5.3/jcabi-0.5.3.jar returned status 404
+0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5.4/jcabi-0.5.4.jar returned status 404
+0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.5.5/jcabi-0.5.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.6/jcabi-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7/jcabi-0.7.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.1/jcabi-0.7.1.jar returned status 404
+0.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.10/jcabi-0.7.10.jar returned status 404
+0.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.11/jcabi-0.7.11.jar returned status 404
+0.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.12/jcabi-0.7.12.jar returned status 404
+0.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.13/jcabi-0.7.13.jar returned status 404
+0.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.14/jcabi-0.7.14.jar returned status 404
+0.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.15/jcabi-0.7.15.jar returned status 404
+0.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.16/jcabi-0.7.16.jar returned status 404
+0.7.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.17/jcabi-0.7.17.jar returned status 404
+0.7.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.18/jcabi-0.7.18.jar returned status 404
+0.7.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.19/jcabi-0.7.19.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.2/jcabi-0.7.2.jar returned status 404
+0.7.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.20/jcabi-0.7.20.jar returned status 404
+0.7.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.21/jcabi-0.7.21.jar returned status 404
+0.7.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.22/jcabi-0.7.22.jar returned status 404
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.3/jcabi-0.7.3.jar returned status 404
+0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.4/jcabi-0.7.4.jar returned status 404
+0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.5/jcabi-0.7.5.jar returned status 404
+0.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.6/jcabi-0.7.6.jar returned status 404
+0.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.7/jcabi-0.7.7.jar returned status 404
+0.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.8/jcabi-0.7.8.jar returned status 404
+0.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.7.9/jcabi-0.7.9.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/0.8/jcabi-0.8.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.0/jcabi-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.0.1/jcabi-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.0.2/jcabi-1.0.2.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.1/jcabi-1.1.jar returned status 404
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.10/jcabi-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.11/jcabi-1.11.jar returned status 404
 1.11	jar-with-dependencies	2014-06-24T21:18:35Z	
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.12/jcabi-1.12.jar returned status 404
 1.12	jar-with-dependencies	2014-06-26T07:33:04Z	
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.13/jcabi-1.13.jar returned status 404
 1.13	jar-with-dependencies	2014-06-26T08:58:23Z	
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.14/jcabi-1.14.jar returned status 404
 1.14	jar-with-dependencies	2014-08-13T20:46:31Z	
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.14.1/jcabi-1.14.1.jar returned status 404
 1.14.1	jar-with-dependencies	2014-08-20T10:46:09Z	
+1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.14.2/jcabi-1.14.2.jar returned status 404
 1.14.2	jar-with-dependencies	2014-08-22T22:11:42Z	
+1.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.14.3/jcabi-1.14.3.jar returned status 404
 1.14.3	jar-with-dependencies	2014-08-24T06:18:35Z	
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.15/jcabi-1.15.jar returned status 404
 1.15	jar-with-dependencies	2014-09-23T11:59:11Z	
+1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.16/jcabi-1.16.jar returned status 404
 1.16	jar-with-dependencies	2014-11-23T07:45:40Z	
+1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.17/jcabi-1.17.jar returned status 404
 1.17	jar-with-dependencies	2015-02-13T22:50:59Z	
+1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.18/jcabi-1.18.jar returned status 404
 1.18	jar-with-dependencies	2015-06-22T23:13:25Z	
+1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.19/jcabi-1.19.jar returned status 404
 1.19	jar-with-dependencies	2015-06-24T01:30:44Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.2/jcabi-1.2.jar returned status 404
+1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.20/jcabi-1.20.jar returned status 404
 1.20	jar-with-dependencies	2015-10-05T03:20:02Z	
+1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.20.1/jcabi-1.20.1.jar returned status 404
 1.20.1	jar-with-dependencies	2015-10-05T05:38:01Z	
+1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.21/jcabi-1.21.jar returned status 404
 1.21	jar-with-dependencies	2015-12-09T16:57:04Z	
+1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.22/jcabi-1.22.jar returned status 404
 1.22	jar-with-dependencies	2016-02-03T06:07:04Z	
+1.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.22.1/jcabi-1.22.1.jar returned status 404
 1.22.1	jar-with-dependencies	2016-11-19T07:30:07Z	
+1.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.22.2/jcabi-1.22.2.jar returned status 404
 1.22.2	jar-with-dependencies	2016-11-19T08:18:39Z	
+1.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.23/jcabi-1.23.jar returned status 404
 1.23	jar-with-dependencies	2017-01-14T10:03:13Z	
+1.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.24/jcabi-1.24.jar returned status 404
 1.24	jar-with-dependencies	2017-08-25T12:00:44Z	
+1.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.25/jcabi-1.25.jar returned status 404
 1.25	jar-with-dependencies	2020-05-19T16:38:31Z	
+1.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.25.1/jcabi-1.25.1.jar returned status 404
 1.25.1	jar-with-dependencies	2020-05-19T17:05:10Z	
+1.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.25.2/jcabi-1.25.2.jar returned status 404
 1.25.2	jar-with-dependencies	2020-07-17T13:13:04Z	
+1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.26.0/jcabi-1.26.0.jar returned status 404
 1.26.0	jar-with-dependencies	2020-11-27T04:59:14Z	
+1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.27.0/jcabi-1.27.0.jar returned status 404
 1.27.0	jar-with-dependencies	2020-11-27T12:09:33Z	
+1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.28.0/jcabi-1.28.0.jar returned status 404
 1.28.0	jar-with-dependencies	2021-09-04T10:50:31Z	
+1.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.28.1/jcabi-1.28.1.jar returned status 404
 1.28.1	jar-with-dependencies	2021-09-04T11:00:42Z	
+1.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.28.2/jcabi-1.28.2.jar returned status 404
 1.28.2	jar-with-dependencies	2021-09-04T11:10:59Z	
+1.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.28.3/jcabi-1.28.3.jar returned status 404
 1.28.3	jar-with-dependencies	2021-09-04T11:35:20Z	
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.29.0/jcabi-1.29.0.jar returned status 404
 1.29.0	jar-with-dependencies	2021-09-17T05:58:38Z	
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.3/jcabi-1.3.jar returned status 404
+1.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.30.0/jcabi-1.30.0.jar returned status 404
 1.30.0	jar-with-dependencies	2021-10-01T19:16:41Z	
+1.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.31.0/jcabi-1.31.0.jar returned status 404
 1.31.0	jar-with-dependencies	2022-07-05T03:34:31Z	
+1.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.32.0/jcabi-1.32.0.jar returned status 404
 1.32.0	jar-with-dependencies	2022-07-12T19:12:20Z	
+1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.33.0/jcabi-1.33.0.jar returned status 404
 1.33.0	jar-with-dependencies	2022-07-13T06:56:44Z	
+1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.34.0/jcabi-1.34.0.jar returned status 404
 1.34.0	jar-with-dependencies	2022-08-10T02:54:04Z	
+1.34.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.34.1/jcabi-1.34.1.jar returned status 404
 1.34.1	jar-with-dependencies	2022-08-10T03:28:33Z	
+1.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.35.0/jcabi-1.35.0.jar returned status 404
 1.35.0	jar-with-dependencies	2022-09-22T08:19:09Z	
+1.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.36.0/jcabi-1.36.0.jar returned status 404
 1.36.0	jar-with-dependencies	2022-10-06T05:10:10Z	
+1.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.37.0/jcabi-1.37.0.jar returned status 404
 1.37.0	jar-with-dependencies	2022-11-03T11:28:59Z	
+1.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.37.1/jcabi-1.37.1.jar returned status 404
 1.37.1	jar-with-dependencies	2022-11-03T16:32:08Z	
+1.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.38.0/jcabi-1.38.0.jar returned status 404
 1.38.0	jar-with-dependencies	2024-02-23T10:17:55Z	
+1.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.39.0/jcabi-1.39.0.jar returned status 404
 1.39.0	jar-with-dependencies	2024-03-07T05:18:05Z	
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.4/jcabi-1.4.jar returned status 404
 1.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.40.0/jcabi-1.40.0.jar returned status 404
 1.40.0	jar-with-dependencies	2025-08-13T19:00:52Z	
 1.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.40.1/jcabi-1.40.1.jar returned status 404
@@ -52,3 +149,10 @@
 1.43.0	jar-with-dependencies	2026-03-13T07:07:06Z	
 1.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.44.0/jcabi-1.44.0.jar returned status 404
 1.44.0	jar-with-dependencies	2026-03-13T08:44:39Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.5/jcabi-1.5.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.5.1/jcabi-1.5.1.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.6/jcabi-1.6.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.6.1/jcabi-1.6.1.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.7/jcabi-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.8/jcabi-1.8.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/jcabi/1.9/jcabi-1.9.jar returned status 404

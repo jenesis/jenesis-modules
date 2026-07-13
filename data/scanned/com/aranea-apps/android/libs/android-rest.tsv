@@ -10,3 +10,11 @@
 1.6.0		2014-06-11T13:36:38Z	
 1.6.1		2014-06-28T18:35:36Z	
 1.7.0		2014-07-09T10:02:55Z	
+2.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.0.0.0/android-rest-2.0.0.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.2.0/android-rest-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.3.0/android-rest-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.4.0/android-rest-2.4.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.6.0/android-rest-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.7.0/android-rest-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.8.0/android-rest-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aranea-apps/android/libs/android-rest/2.9.0/android-rest-2.9.0.jar returned status 404

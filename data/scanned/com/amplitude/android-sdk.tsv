@@ -47,8 +47,63 @@
 2.23.0		2019-04-22T22:14:05Z	
 2.23.1		2019-07-19T20:49:44Z	
 2.23.2		2019-08-05T22:09:19Z	
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.24.0/android-sdk-2.24.0.jar returned status 404
+2.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.24.1/android-sdk-2.24.1.jar returned status 404
+2.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.24.2/android-sdk-2.24.2.jar returned status 404
+2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.25.0/android-sdk-2.25.0.jar returned status 404
+2.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.25.1/android-sdk-2.25.1.jar returned status 404
+2.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.25.2/android-sdk-2.25.2.jar returned status 404
+2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.26.0/android-sdk-2.26.0.jar returned status 404
+2.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.26.1/android-sdk-2.26.1.jar returned status 404
+2.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.27.0/android-sdk-2.27.0.jar returned status 404
+2.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.28.0/android-sdk-2.28.0.jar returned status 404
+2.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.28.1/android-sdk-2.28.1.jar returned status 404
+2.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.28.2/android-sdk-2.28.2.jar returned status 404
+2.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.29.0/android-sdk-2.29.0.jar returned status 404
+2.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.29.1/android-sdk-2.29.1.jar returned status 404
+2.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.29.2/android-sdk-2.29.2.jar returned status 404
 2.3.0		2015-12-01T00:54:20Z	
+2.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.30.0/android-sdk-2.30.0.jar returned status 404
+2.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.30.1/android-sdk-2.30.1.jar returned status 404
+2.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.30.2/android-sdk-2.30.2.jar returned status 404
+2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.31.0/android-sdk-2.31.0.jar returned status 404
+2.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.31.1/android-sdk-2.31.1.jar returned status 404
+2.31.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.31.3/android-sdk-2.31.3.jar returned status 404
+2.31.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.31.4/android-sdk-2.31.4.jar returned status 404
+2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.32.0/android-sdk-2.32.0.jar returned status 404
+2.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.32.1/android-sdk-2.32.1.jar returned status 404
+2.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.32.2/android-sdk-2.32.2.jar returned status 404
+2.32.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.32.3/android-sdk-2.32.3.jar returned status 404
+2.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.33.0/android-sdk-2.33.0.jar returned status 404
+2.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.34.0/android-sdk-2.34.0.jar returned status 404
+2.34.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.34.1/android-sdk-2.34.1.jar returned status 404
+2.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.35.0/android-sdk-2.35.0.jar returned status 404
+2.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.35.1/android-sdk-2.35.1.jar returned status 404
+2.35.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.35.2/android-sdk-2.35.2.jar returned status 404
+2.35.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.35.3/android-sdk-2.35.3.jar returned status 404
+2.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.36.0/android-sdk-2.36.0.jar returned status 404
+2.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.36.1/android-sdk-2.36.1.jar returned status 404
+2.36.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.36.3/android-sdk-2.36.3.jar returned status 404
+2.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.37.0/android-sdk-2.37.0.jar returned status 404
+2.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.38.0/android-sdk-2.38.0.jar returned status 404
+2.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.38.1/android-sdk-2.38.1.jar returned status 404
+2.38.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.38.2/android-sdk-2.38.2.jar returned status 404
+2.38.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.38.3/android-sdk-2.38.3.jar returned status 404
+2.38.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.38.4/android-sdk-2.38.4.jar returned status 404
+2.39.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.1/android-sdk-2.39.1.jar returned status 404
+2.39.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.2/android-sdk-2.39.2.jar returned status 404
+2.39.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.3/android-sdk-2.39.3.jar returned status 404
+2.39.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.4/android-sdk-2.39.4.jar returned status 404
+2.39.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.5/android-sdk-2.39.5.jar returned status 404
+2.39.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.6/android-sdk-2.39.6.jar returned status 404
+2.39.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.7/android-sdk-2.39.7.jar returned status 404
+2.39.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.8/android-sdk-2.39.8.jar returned status 404
+2.39.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.39.9/android-sdk-2.39.9.jar returned status 404
 2.4.0		2015-12-16T01:59:14Z	
+2.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.40.0/android-sdk-2.40.0.jar returned status 404
+2.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.40.1/android-sdk-2.40.1.jar returned status 404
+2.40.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.40.2/android-sdk-2.40.2.jar returned status 404
+2.40.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/2.40.3/android-sdk-2.40.3.jar returned status 404
 2.5.0		2016-01-16T01:33:10Z	
 2.5.1		2016-03-15T01:39:44Z	
 2.6.0		2016-03-29T19:27:41Z	
@@ -59,3 +114,4 @@
 2.9.0		2016-07-07T20:10:45Z	
 2.9.1		2016-07-11T20:03:25Z	
 2.9.2		2016-07-14T23:58:59Z	
+3.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amplitude/android-sdk/3.35.1/android-sdk-3.35.1.jar returned status 404

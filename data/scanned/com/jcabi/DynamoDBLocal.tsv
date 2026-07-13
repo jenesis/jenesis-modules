@@ -1,1 +1,7 @@
+2013-09-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2013-09-12/DynamoDBLocal-2013-09-12.jar returned status 404
+2014-01-08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2014-01-08/DynamoDBLocal-2014-01-08.jar returned status 404
+2014-04-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2014-04-24/DynamoDBLocal-2014-04-24.jar returned status 404
+2014-10-07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2014-10-07/DynamoDBLocal-2014-10-07.jar returned status 404
+2015-04-27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2015-04-27/DynamoDBLocal-2015-04-27.jar returned status 404
+2015-07-16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2015-07-16/DynamoDBLocal-2015-07-16.jar returned status 404
 2023-05-26		2023-05-26T11:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jcabi/DynamoDBLocal/2023-05-26/DynamoDBLocal-2023-05-26.jar returned status 404
