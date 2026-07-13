@@ -5,3 +5,4 @@
 0.0.8		2023-02-10T06:02:26Z	
 0.0.9		2023-07-17T07:26:46Z	
 1.0.0		2024-02-12T08:25:36Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/micro-migration-microstream-v6/2.0.0/micro-migration-microstream-v6-2.0.0.jar returned status 404

@@ -1,1 +1,2 @@
 1.0.0		2024-04-22T14:43:21Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/testcontainers-java-junit4-mock/1.0.1/testcontainers-java-junit4-mock-1.0.1.jar returned status 404

@@ -12,3 +12,27 @@
 0.6.4.1		2015-03-23T08:08:37Z	
 0.6.5		2015-03-23T12:02:02Z	
 0.6.5.1		2015-03-23T12:03:05Z	
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/0.8.0/cip-library-0.8.0.jar returned status 404
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/0.9.1/cip-library-0.9.1.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/0.9.2/cip-library-0.9.2.jar returned status 404
+0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/0.9.3/cip-library-0.9.3.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.0.0/cip-library-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.0.1/cip-library-2.0.1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.1.1/cip-library-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.2.0/cip-library-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.3.0/cip-library-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.3.1/cip-library-2.3.1.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.4.0/cip-library-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.4.1/cip-library-2.4.1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.5.0/cip-library-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.6.0/cip-library-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.6.1/cip-library-2.6.1.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.6.2/cip-library-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.6.3/cip-library-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.6.4/cip-library-2.6.4.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.7.0/cip-library-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.7.1/cip-library-2.7.1.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.7.3/cip-library-2.7.3.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.7.4/cip-library-2.7.4.jar returned status 404
+2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/2.7.6/cip-library-2.7.6.jar returned status 404
+unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/lucichkevin/cip-library/unspecified/cip-library-unspecified.jar returned status 404
