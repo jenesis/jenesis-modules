@@ -4,7 +4,7 @@
 > _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-07-09 03:15:53 UTC_  
-_Current chunk started: 2026-07-09 13:25:20 UTC_  
+_Current chunk started: 2026-07-13 05:51:42 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 932_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 17 795 317 |
-| Non-module artifacts | 15 842 175 |
+| Total artifacts scanned | 17 834 585 |
+| Non-module artifacts | 15 878 050 |
 | Modular artifacts | 1 613 679 |
 | Total automatic modules | 1 267 270 |
 | Total named modules | 346 409 |
 | Total named modules with module-info version | 263 206 |
-| Distinct Maven artifacts | 668 522 |
-| Distinct module names | 40 446 |
+| Distinct Maven artifacts | 668 527 |
+| Distinct module names | 40 505 |
 | Distinct automatic modules | 21 390 |
 | Distinct named modules | 17 596 |
 | Distinct named modules with module-info version | 12 866 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 926 | 609 | 317 |
-| New version rows | 1 239 | 832 | 407 |
-| Non-modular artifacts | 13 910 | - | - |
+| Modules with a publication | 296 | 241 | 55 |
+| New version rows | 449 | 377 | 72 |
+| Non-modular artifacts | 5 074 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -156,18 +156,18 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 
 | Month | Named modules | Automatic modules | Non-modular artifacts |
 |---|---|---|---|
-| 2025-08 | `█`&nbsp;2 420 (4.1%) | `▓▓`&nbsp;5 444 (9.2%) | `░░░░░░░░░░░░░░░░░`&nbsp;51 327 (86.7%) |
-| 2025-09 | `█`&nbsp;2 820 (4.3%) | `▓▓`&nbsp;5 418 (8.3%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 059 (87.4%) |
+| 2025-08 | `█`&nbsp;2 420 (4.1%) | `▓▓`&nbsp;5 444 (9.2%) | `░░░░░░░░░░░░░░░░░`&nbsp;51 324 (86.7%) |
+| 2025-09 | `█`&nbsp;2 820 (4.3%) | `▓▓`&nbsp;5 418 (8.3%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 056 (87.4%) |
 | 2025-10 | `█`&nbsp;2 841 (4.1%) | `▓▓`&nbsp;5 378 (7.9%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;60 282 (88.0%) |
-| 2025-11 | `█`&nbsp;2 437 (3.7%) | `▓▓`&nbsp;5 378 (8.2%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 581 (88.0%) |
-| 2025-12 | `█`&nbsp;2 639 (4.0%) | `▓▓`&nbsp;5 634 (8.6%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 611 (87.4%) |
+| 2025-11 | `█`&nbsp;2 437 (3.7%) | `▓▓`&nbsp;5 378 (8.2%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 580 (88.0%) |
+| 2025-12 | `█`&nbsp;2 639 (4.0%) | `▓▓`&nbsp;5 634 (8.6%) | `░░░░░░░░░░░░░░░░░░░`&nbsp;57 609 (87.4%) |
 | 2026-01 | `█`&nbsp;2 871 (4.1%) | `▓▓`&nbsp;5 483 (7.8%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;61 774 (88.1%) |
-| 2026-02 | `█`&nbsp;2 623 (3.8%) | `▓▓`&nbsp;5 514 (7.9%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;61 432 (88.3%) |
+| 2026-02 | `█`&nbsp;2 623 (3.8%) | `▓▓`&nbsp;5 514 (7.9%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;61 430 (88.3%) |
 | 2026-03 | `█`&nbsp;3 103 (3.9%) | `▓▓`&nbsp;6 696 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;70 131 (87.7%) |
-| 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 393 (88.0%) |
-| 2026-05 | `█`&nbsp;3 440 (4.4%) | `▓▓`&nbsp;5 610 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;68 928 (88.4%) |
-| 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 105 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 952 (88.4%) |
-| 2026-07 | `█`&nbsp;955 (3.7%) | `▓`&nbsp;1 293 (5.0%) | `░░░░░░░░`&nbsp;23 417 (91.2%) |
+| 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 392 (88.0%) |
+| 2026-05 | `█`&nbsp;3 440 (4.4%) | `▓▓`&nbsp;5 610 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;68 915 (88.4%) |
+| 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 105 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 950 (88.4%) |
+| 2026-07 | `█`&nbsp;955 (3.9%) | `▓`&nbsp;1 293 (5.3%) | `░░░░░░░`&nbsp;22 276 (90.8%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 042 |
+| Multiple competing groupIds in audit history | 4 043 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 2 372 669 |
-| Incorrectly indexed (mis-stamped 404s) | 2 370 450 |
-| Genuine artifact errors | 2 219 |
+| Total failed coordinates | 3 235 045 |
+| Incorrectly indexed (mis-stamped 404s) | 3 232 797 |
+| Genuine artifact errors | 2 248 |
 
 ### Top 25 genuine error messages
 
@@ -211,9 +211,9 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 592 |
+| `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
 | `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 487 |
-| `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 286 |
+| `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 313 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
 | `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 92 |

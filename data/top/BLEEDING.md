@@ -58,7 +58,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 25 | com.fasterxml.jackson.core:jackson-annotations | com.fasterxml.jackson.annotation ✳️ | 2026-07-07 | 14,4 | 8,8 | 2.18.9 | 2.18.9 | 182 | 94 | 12 | 12 |
 | 26 | org.checkerframework:checker-qual | org.checkerframework.checker.qual 🏷️ | 2026-07-01 | 12,3 | 7,9 | 4.2.1 | 4.2.1 | 155 | 100 | 14 | 14 |
 | 27 | org.ow2.asm:asm | org.objectweb.asm ✳️ | 2026-05-23 | 14,6 | 9,0 | 9.10.1 | 9.10.1 | 45 | 33 | 4 | 4 |
-| 28 | org.jetbrains.kotlin:kotlin-stdlib | kotlin.stdlib 🏷️ | 2026-06-25 | 13,0 | 6,0 | 2.4.10-RC | 2.4.10-RC | 294 | 153 | 36 | 36 |
+| 28 | org.jetbrains.kotlin:kotlin-stdlib | kotlin.stdlib 🏷️ | 2026-06-25 | 13,0 | 6,0 | 2.4.10-RC | 2.4.10-RC | 294 | 154 | 36 | 37 |
 | 29 | org.apache:apache |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 30 | commons-codec:commons-codec | org.apache.commons.codec ✳️ | 2026-04-19 | 20,7 | 8,7 | 1.22.0 | 1.22.0 | 26 | 15 | 4 | 4 |
 | ~~31~~ | ~~org.sonatype.spice:spice-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -79,10 +79,10 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 46 | com.google.code.gson:gson | com.google.gson ✳️ | 2026-04-23 | 17,9 | 6,8 | 2.14.0 | 2.14.0 | 44 | 16 | 3 | 3 |
 | 47 | org.apache.httpcomponents:httpclient 🚩 | org.apache.httpcomponents.httpclient ⚙️ | 2022-11-30 | 19,0 | 8,0 | 4.5.14 | 4.5.14 | 55 | 9 | 0 | 0 |
 | ~~48~~ | ~~org.apache.maven:maven-artifact~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~101~~ | ~~0~~ | ~~7~~ | ~~0~~ |
-| 49 | org.jetbrains.kotlin:kotlin-stdlib-jdk7 | kotlin.stdlib.jdk7 🏷️ | 2026-06-25 | 8,6 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 153 | 36 | 36 |
+| 49 | org.jetbrains.kotlin:kotlin-stdlib-jdk7 | kotlin.stdlib.jdk7 🏷️ | 2026-06-25 | 8,6 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 154 | 36 | 37 |
 | ~~50~~ | ~~org.apache.maven:maven-model~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~102~~ | ~~0~~ | ~~7~~ | ~~0~~ |
 | ~~51~~ | ~~org.apache.maven:maven-plugin-api~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~101~~ | ~~0~~ | ~~7~~ | ~~0~~ |
-| 52 | org.jetbrains.kotlin:kotlin-stdlib-jdk8 | kotlin.stdlib.jdk8 🏷️ | 2026-06-25 | 8,6 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 153 | 36 | 36 |
+| 52 | org.jetbrains.kotlin:kotlin-stdlib-jdk8 | kotlin.stdlib.jdk8 🏷️ | 2026-06-25 | 8,6 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 154 | 36 | 37 |
 | ~~53~~ | ~~org.springframework.boot:spring-boot-dependencies 🚩~~ | ~~-~~ | ~~2016-02-26~~ | ~~10,6~~ | ~~-~~ | ~~1.3.3.RELEASE~~ | ~~-~~ | ~~4~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 54 | org.apache.httpcomponents:httpcomponents-client |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | ~~55~~ | ~~org.apache.logging.log4j:log4j-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -121,7 +121,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 88 | org.junit.jupiter:junit-jupiter-api | org.junit.jupiter.api ✳️ | 2026-06-28 | 10,0 | 9,0 | 6.1.1 | 6.1.1 | 111 | 107 | 19 | 19 |
 | ~~89~~ | ~~org.glassfish.jaxb:jaxb-bom~~ | ~~-~~ | ~~2026-05-28~~ | ~~0,1~~ | ~~-~~ | ~~4.0.9~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 90 | com.sun.activation:all |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
-| 91 | org.jetbrains.kotlin:kotlin-reflect | kotlin.reflect 🏷️ | 2026-06-25 | 11,3 | 6,0 | 2.4.10-RC | 2.4.10-RC | 242 | 153 | 36 | 36 |
+| 91 | org.jetbrains.kotlin:kotlin-reflect | kotlin.reflect 🏷️ | 2026-06-25 | 11,3 | 6,0 | 2.4.10-RC | 2.4.10-RC | 242 | 154 | 36 | 37 |
 | ~~92~~ | ~~com.google.protobuf:protobuf-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~93~~ | ~~org.springframework.data:spring-data-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 94 | org.ow2.asm:asm-commons | org.objectweb.asm.commons ✳️ | 2026-05-23 | 14,6 | 9,0 | 9.10.1 | 9.10.1 | 45 | 33 | 4 | 4 |
@@ -152,7 +152,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 119 | org.jetbrains.kotlin:kotlin-gradle-plugin-idea |  | 2026-06-25 | 4,2 |  | 2.4.10-RC |  | 114 | 0 | 36 | 0 |
 | ~~120~~ | ~~org.slf4j:slf4j-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~121~~ | ~~org.codehaus.plexus:plexus-archiver~~ | ~~-~~ | ~~2026-06-08~~ | ~~20,7~~ | ~~-~~ | ~~4.12.0~~ | ~~-~~ | ~~89~~ | ~~0~~ | ~~6~~ | ~~0~~ |
-| 122 | org.apache.logging.log4j:log4j-api | org.apache.logging.log4j ✳️ | 2026-06-29 | 13,9 | 8,6 | 2.26.1 | 2.26.1 | 76 | 43 | 5 | 5 |
+| 122 | org.apache.logging.log4j:log4j-api | org.apache.logging.log4j ✳️ | 2026-06-29 | 13,9 | 8,6 | 2.26.1 | 2.26.1 | 76 | 44 | 5 | 6 |
 | 123 | com.squareup.okio:okio |  | 2026-03-11 | 12,3 |  | 3.17.0 |  | 87 | 28 | 6 | 0 |
 | 124 | software.amazon.awssdk:aws-sdk-java-pom |  | 2026-07-02 | 0,1 |  | 2.46.21 |  | 31 | 0 | 31 | 0 |
 | ~~125~~ | ~~org.objenesis:objenesis-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -286,14 +286,14 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 253 | org.springframework.boot:spring-boot-starter-web | spring.boot.starter.web ⚙️ | 2026-06-25 | 12,3 | 8,4 | 3.5.16 | 3.5.16 | 290 | 225 | 38 | 38 |
 | ~~254~~ | ~~org.jetbrains.kotlinx:kotlinx-serialization-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 255 | com.sun.istack:istack-commons-runtime 🚩 | com.sun.istack.runtime ✳️ | 2023-04-14 | 16,1 | 7,9 | 4.2.0 | 4.2.0 | 48 | 16 | 0 | 0 |
-| 256 | org.jetbrains.kotlin:kotlin-native-utils | kotlin.native_utils ⚙️ | 2026-06-25 | 7,8 | 1,6 | 2.4.10-RC | 2.4.10-RC | 171 | 51 | 36 | 36 |
+| 256 | org.jetbrains.kotlin:kotlin-native-utils | kotlin.native_utils ⚙️ | 2026-06-25 | 7,8 | 1,6 | 2.4.10-RC | 2.4.10-RC | 171 | 52 | 36 | 37 |
 | 257 | org.hamcrest:hamcrest ⚠️ | org.hamcrest ⚙️ | 2024-08-01 | 7,6 | 7,6 | 3.0 | 3.0 | 9 | 9 | 0 | 0 |
 | ~~258~~ | ~~org.sonatype.plexus:plexus-sec-dispatcher 🚩~~ | ~~-~~ | ~~2009-12-16~~ | ~~17,4~~ | ~~-~~ | ~~1.4~~ | ~~-~~ | ~~9~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 259 | org.apache.commons:commons-collections4 ⚠️ | org.apache.commons.collections4 ✳️ | 2025-04-19 | 12,6 | 8,0 | 4.5.0 | 4.5.0 | 9 | 7 | 0 | 0 |
 | 260 | com.github.ben-manes.caffeine:caffeine | com.github.benmanes.caffeine ✳️ | 2026-05-03 | 11,3 | 8,5 | 3.2.4 | 3.2.4 | 73 | 37 | 3 | 3 |
 | 261 | org.apache.httpcomponents.core5:httpcore5 | org.apache.httpcomponents.core5.httpcore5 ⚙️ | 2026-06-21 | 10,6 | 5,8 | 5.5-beta2 | 5.5-beta2 | 57 | 40 | 10 | 10 |
 | 262 | software.amazon.awssdk:core |  | 2026-07-02 | 9,0 |  | 2.46.21 |  | 40 | 0 | 31 | 0 |
-| 263 | org.jetbrains.kotlin:kotlin-gradle-plugin | com.google.gson ✳️ | 2026-06-25 | 13,0 | 5,7 | 2.4.10-RC | 2.11.0 | 293 | 150 | 36 | 36 |
+| 263 | org.jetbrains.kotlin:kotlin-gradle-plugin | com.google.gson ✳️ | 2026-06-25 | 13,0 | 5,7 | 2.4.10-RC | 2.11.0 | 293 | 151 | 36 | 37 |
 | 264 | org.jetbrains.kotlin:kotlin-util-klib |  | 2026-06-25 | 6,9 |  | 2.4.10-RC |  | 159 | 0 | 36 | 0 |
 | ~~265~~ | ~~org.apache.maven.plugins:maven-jar-plugin~~ | ~~-~~ | ~~2025-11-11~~ | ~~20,2~~ | ~~-~~ | ~~3.5.0~~ | ~~-~~ | ~~26~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 266 | org.jetbrains.kotlin:kotlin-daemon-client |  | 2026-06-25 | 9,4 |  | 2.4.10-RC |  | 202 | 0 | 36 | 0 |
@@ -320,7 +320,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~287~~ | ~~org.springframework.restdocs:spring-restdocs-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~288~~ | ~~jakarta.platform:jakarta.jakartaee-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~289~~ | ~~jakarta.platform:jakartaee-api-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 290 | org.apache.logging.log4j:log4j-core | org.apache.logging.log4j.core ✳️ | 2026-06-29 | 13,9 | 8,6 | 2.26.1 | 2.26.1 | 77 | 44 | 5 | 5 |
+| 290 | org.apache.logging.log4j:log4j-core | org.apache.logging.log4j.core ✳️ | 2026-06-29 | 13,9 | 8,6 | 2.26.1 | 2.26.1 | 77 | 45 | 5 | 6 |
 | 291 | org.projectlombok:lombok | lombok 🏷️ | 2026-04-21 | 15,3 | 8,1 | 1.18.46 | 1.18.46 | 59 | 25 | 4 | 4 |
 | 292 | org.slf4j:jul-to-slf4j | jul.to.slf4j ✳️ | 2026-05-12 | 18,1 | 8,3 | 2.0.18 | 2.0.18 | 94 | 33 | 1 | 1 |
 | 293 | org.jetbrains.kotlin:kotlin-tooling-core |  | 2026-06-25 | 4,2 |  | 2.4.10-RC |  | 114 | 0 | 36 | 0 |
@@ -406,14 +406,14 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~373~~ | ~~org.springframework.data.build:spring-data-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 374 | org.apache.httpcomponents:httpmime 🚩 | org.apache.httpcomponents.httpmime ⚙️ | 2022-11-30 | 18,4 | 8,0 | 4.5.14 | 4.5.14 | 53 | 9 | 0 | 0 |
 | 375 | org.springframework.boot:spring-boot-actuator | spring.boot.actuator ⚙️ | 2026-06-25 | 12,3 | 8,4 | 3.5.16 | 3.5.16 | 290 | 225 | 38 | 38 |
-| 376 | org.apache.logging.log4j:log4j-to-slf4j | org.apache.logging.log4j.to.slf4j ✳️ | 2026-06-29 | 13,2 | 8,6 | 2.26.1 | 2.26.1 | 70 | 42 | 5 | 5 |
-| 377 | org.apache.tomcat.embed:tomcat-embed-el | org.apache.tomcat.embed.el ✳️ | 2026-06-18 | 12,4 | 6,8 | 9.0.119 | 9.0.119 | 425 | 214 | 34 | 34 |
+| 376 | org.apache.logging.log4j:log4j-to-slf4j | org.apache.logging.log4j.to.slf4j ✳️ | 2026-06-29 | 13,2 | 8,6 | 2.26.1 | 2.26.1 | 70 | 43 | 5 | 6 |
+| 377 | org.apache.tomcat.embed:tomcat-embed-el | org.apache.tomcat.embed.el ✳️ | 2026-06-18 | 12,4 | 6,8 | 9.0.119 | 9.0.119 | 425 | 217 | 34 | 37 |
 | 378 | io.opentelemetry:opentelemetry-api | io.opentelemetry.api ⚙️ | 2026-06-05 | 6,6 | 6,3 | 1.63.0 | 1.63.0 | 102 | 101 | 14 | 14 |
 | 379 | org.jetbrains.kotlin:kotlin-script-runtime |  | 2026-06-25 | 9,4 |  | 2.4.10-RC |  | 202 | 0 | 36 | 0 |
 | 380 | org.jsoup:jsoup | org.jsoup ✳️ | 2026-04-20 | 16,4 | 8,2 | 1.22.2 | 1.22.2 | 54 | 24 | 3 | 3 |
 | 381 | com.fasterxml.woodstox:woodstox-core | com.ctc.wstx ✳️ | 2026-06-07 | 11,4 | 8,3 | 7.2.1 | 7.2.1 | 40 | 36 | 2 | 2 |
 | 382 | org.springframework.boot:spring-boot-actuator-autoconfigure | spring.boot.actuator.autoconfigure ⚙️ | 2026-06-25 | 8,4 | 8,4 | 3.5.16 | 3.5.16 | 225 | 225 | 38 | 38 |
-| 383 | org.apache.tomcat.embed:tomcat-embed-core | org.apache.tomcat.embed.core ✳️ | 2026-06-18 | 16,0 | 6,8 | 9.0.119 | 9.0.119 | 459 | 212 | 32 | 32 |
+| 383 | org.apache.tomcat.embed:tomcat-embed-core | org.apache.tomcat.embed.core ✳️ | 2026-06-18 | 16,0 | 6,8 | 9.0.119 | 9.0.119 | 459 | 215 | 32 | 35 |
 | ~~384~~ | ~~org.sonatype.aether:aether-api 🚩~~ | ~~-~~ | ~~2011-11-29~~ | ~~16,0~~ | ~~-~~ | ~~1.13.1~~ | ~~-~~ | ~~18~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 385 | org.springframework.boot:spring-boot-starter-actuator | spring.boot.starter.actuator ⚙️ | 2026-06-25 | 12,3 | 8,4 | 3.5.16 | 3.5.16 | 290 | 225 | 38 | 38 |
 | 386 | org.jspecify:jspecify ⚠️ | org.jspecify 🏷️ | 2024-07-16 | 5,0 | 5,0 | 1.0.0 | 1.0.0 | 6 | 6 | 0 | 0 |
@@ -439,7 +439,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~406~~ | ~~org.ow2.asm:asm-bom~~ | ~~-~~ | ~~2026-05-23~~ | ~~0,1~~ | ~~-~~ | ~~9.10.1~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 407 | org.jacoco:org.jacoco.build |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 408 | org.springframework.boot:spring-boot-starter-validation | spring.boot.starter.validation ⚙️ | 2026-06-25 | 10,6 | 8,4 | 3.5.16 | 3.5.16 | 265 | 225 | 38 | 38 |
-| 409 | org.apache.tomcat.embed:tomcat-embed-websocket | org.apache.tomcat.embed.websocket ✳️ | 2026-06-18 | 12,4 | 6,8 | 9.0.119 | 9.0.119 | 425 | 214 | 34 | 34 |
+| 409 | org.apache.tomcat.embed:tomcat-embed-websocket | org.apache.tomcat.embed.websocket ✳️ | 2026-06-18 | 12,4 | 6,8 | 9.0.119 | 9.0.119 | 425 | 217 | 34 | 37 |
 | ~~410~~ | ~~io.prometheus:prometheus-metrics-bom~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,1~~ | ~~-~~ | ~~1.8.0~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | ~~411~~ | ~~javax.xml.bind:jaxb-api-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 412 | org.xmlunit:xmlunit-core | org.xmlunit ⚙️ | 2026-05-31 | 10,6 | 7,9 | 2.12.0 | 2.12.0 | 32 | 18 | 3 | 3 |
@@ -449,7 +449,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~416~~ | ~~org.apache.maven.shared:maven-artifact-transfer 🚩~~ | ~~org.apache.maven.shared.artifact.transfer ⚙️~~ | ~~2020-12-22~~ | ~~9,7~~ | ~~5,5~~ | ~~0.13.1~~ | ~~0.13.1~~ | ~~7~~ | ~~1~~ | ~~0~~ | ~~0~~ |
 | ~~417~~ | ~~org.codehaus.plexus:plexus-i18n~~ | ~~-~~ | ~~2025-11-07~~ | ~~20,7~~ | ~~-~~ | ~~1.1.0~~ | ~~-~~ | ~~5~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | 418 | com.squareup.okhttp3:logging-interceptor | okhttp3.logging 🏷️ | 2026-06-08 | 10,5 | 8,4 | 5.4.0 | 5.4.0 | 107 | 87 | 8 | 8 |
-| 419 | org.postgresql:postgresql | org.postgresql.jdbc ⚙️ | 2026-06-29 | 13,3 | 6,8 | 42.7.12 | 42.7.12 | 201 | 63 | 5 | 5 |
+| 419 | org.postgresql:postgresql | org.postgresql.jdbc ⚙️ | 2026-06-29 | 13,3 | 6,8 | 42.7.12 | 42.7.12 | 201 | 64 | 5 | 6 |
 | 420 | com.fasterxml.jackson.dataformat:jackson-dataformat-xml | com.fasterxml.jackson.dataformat.xml ✳️ | 2026-07-08 | 14,4 | 8,7 | 2.18.9 | 2.18.9 | 186 | 95 | 20 | 20 |
 | 421 | org.hdrhistogram:HdrHistogram ⚠️ |  | 2024-05-30 | 12,6 |  | 2.2.2 |  | 27 | 1 | 0 | 0 |
 | 422 | com.fasterxml.jackson.module:jackson-module-jaxb-annotations | com.fasterxml.jackson.module.jaxb ✳️ | 2026-07-08 | 14,4 | 8,7 | 2.18.9 | 2.18.9 | 186 | 95 | 20 | 20 |
@@ -512,7 +512,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 479 | org.assertj:assertj-parent-pom |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 480 | com.google.http-client:google-http-client | com.google.api.client ⚙️ | 2026-06-29 | 15,0 | 7,7 | 2.1.1 | 2.1.1 | 90 | 63 | 7 | 7 |
 | ~~481~~ | ~~org.jboss.weld:weld-api-bom~~ | ~~-~~ | ~~2026-06-09~~ | ~~0,1~~ | ~~-~~ | ~~7.0.Beta2~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ |
-| 482 | org.eclipse.jetty:jetty-util | org.eclipse.jetty.util ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 482 | org.eclipse.jetty:jetty-util | org.eclipse.jetty.util ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | 483 | io.netty:netty-resolver-dns-native-macos | io.netty.resolver.dns.macos.linux.x86_64 ⚙️ | 2026-06-02 | 6,6 | 6,6 | 4.1.135.Final | 4.1.135.Final | 118 | 118 | 26 | 26 |
 | ~~484~~ | ~~org.apache.maven.plugin-tools:maven-plugin-annotations~~ | ~~-~~ | ~~2025-10-20~~ | ~~14,1~~ | ~~-~~ | ~~3.15.2~~ | ~~-~~ | ~~29~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | 485 | org.bouncycastle:bcpkix-jdk15on 🚩 | org.bouncycastle.pkix 🏷️ | 2021-12-01 | 14,3 | 8,0 | 1.70 | 1.70 | 24 | 11 | 0 | 0 |
@@ -547,9 +547,9 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 514 | io.opentelemetry:opentelemetry-sdk | io.opentelemetry.sdk ⚙️ | 2026-06-05 | 6,6 | 6,3 | 1.63.0 | 1.63.0 | 101 | 100 | 14 | 14 |
 | 515 | org.eclipse.angus:angus-activation-project |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 516 | org.jacoco:org.jacoco.agent | org.jacoco.agent ⚙️ | 2026-06-04 | 15,0 | 8,5 | 0.8.15 | 0.8.15 | 40 | 16 | 2 | 2 |
-| 517 | org.eclipse.jetty:jetty-io | org.eclipse.jetty.io ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 517 | org.eclipse.jetty:jetty-io | org.eclipse.jetty.io ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | 518 | io.opentelemetry:opentelemetry-sdk-common | io.opentelemetry.sdk.common ⚙️ | 2026-06-05 | 5,8 | 5,8 | 1.63.0 | 1.63.0 | 91 | 91 | 14 | 14 |
-| 519 | org.eclipse.jetty:jetty-http | org.eclipse.jetty.http ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 519 | org.eclipse.jetty:jetty-http | org.eclipse.jetty.http ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | ~~520~~ | ~~asm:asm-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 521 | jakarta.inject:jakarta.inject-api 🚩 | java.inject ✳️ | 2021-10-17 | 6,9 | 6,2 | 1.0.5 | 1.0.5 | 14 | 10 | 0 | 0 |
 | 522 | org.jetbrains.kotlinx:kotlinx-serialization-core | kotlinx.serialization.core.artifact_disambiguating_module ⚙️ | 2026-04-09 | 5,8 | 0,6 | 1.11.0 | 1.11.0 | 37 | 3 | 3 | 3 |
@@ -617,7 +617,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~584~~ | ~~org.springframework.cloud:spring-cloud-function-dependencies~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,1~~ | ~~-~~ | ~~5.0.3~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | 585 | com.fasterxml.jackson.datatype:jackson-datatype-guava | com.fasterxml.jackson.datatype.guava ✳️ | 2026-07-08 | 14,4 | 8,7 | 2.18.9 | 2.18.9 | 178 | 95 | 20 | 20 |
 | 586 | asm:asm 🚩 |  | 2011-01-12 | 20,9 |  | 3.3.1 |  | 23 | 0 | 0 | 0 |
-| 587 | org.eclipse.jetty:jetty-server | org.eclipse.jetty.server ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 587 | org.eclipse.jetty:jetty-server | org.eclipse.jetty.server ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | 588 | javax.activation:activation 🚩 |  | 2009-10-23 | 20,2 |  | 1.1.1 |  | 3 | 0 | 0 | 0 |
 | 589 | org.jacoco:org.jacoco.core | org.jacoco.core ⚙️ | 2026-06-04 | 15,0 | 8,5 | 0.8.15 | 0.8.15 | 40 | 16 | 2 | 2 |
 | 590 | org.codehaus.groovy:groovy ⚠️ | org.codehaus.groovy ⚙️ | 2025-05-27 | 19,0 | 8,8 | 3.0.25 | 3.0.25 | 221 | 69 | 0 | 0 |
@@ -654,7 +654,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 621 | io.swagger.core.v3:swagger-annotations | io.swagger.v3.oas.annotations ⚙️ | 2026-06-22 | 8,6 | 7,2 | 2.2.52 | 2.2.52 | 80 | 70 | 18 | 18 |
 | 622 | org.jacoco:org.jacoco.report | org.jacoco.report ⚙️ | 2026-06-04 | 15,0 | 8,5 | 0.8.15 | 0.8.15 | 40 | 16 | 2 | 2 |
 | ~~623~~ | ~~org.flywaydb:flyway-parent~~ | ~~-~~ | ~~2026-06-30~~ | ~~0,1~~ | ~~-~~ | ~~12.10.0~~ | ~~-~~ | ~~6~~ | ~~0~~ | ~~6~~ | ~~0~~ |
-| 624 | org.eclipse.jetty:jetty-security | org.eclipse.jetty.security ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 430 | 170 | 29 | 29 |
+| 624 | org.eclipse.jetty:jetty-security | org.eclipse.jetty.security ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 430 | 172 | 29 | 31 |
 | 625 | org.springframework.data:spring-data-jpa | spring.data.jpa ⚙️ | 2026-06-24 | 14,4 | 8,8 | 3.5.13 | 3.5.13 | 298 | 220 | 34 | 34 |
 | ~~626~~ | ~~com.google.oauth-client:google-oauth-client-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 627 | org.slf4j:slf4j-simple | org.slf4j.simple ✳️ | 2026-05-12 | 20,9 | 9,3 | 2.0.18 | 2.0.18 | 116 | 48 | 1 | 1 |
@@ -747,7 +747,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 714 | org.apache.xbean:xbean |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 715 | org.jetbrains.kotlinx:kotlinx-coroutines-jdk8 | kotlinx.coroutines.jdk8 🏷️ | 2026-05-07 | 8,8 | 3,3 | 1.11.0 | 1.11.0 | 118 | 20 | 3 | 3 |
 | 716 | com.googlecode.libphonenumber:libphonenumber | com.google.i18n.phonenumbers.libphonenumber ⚙️ | 2026-07-02 | 15,3 | 1,6 | 9.0.34 | 9.0.34 | 305 | 39 | 25 | 25 |
-| 717 | org.eclipse.jetty:jetty-xml | org.eclipse.jetty.xml ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 717 | org.eclipse.jetty:jetty-xml | org.eclipse.jetty.xml ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | 718 | org.apache.zookeeper:zookeeper |  | 2026-02-11 | 16,3 |  | 3.9.5 |  | 54 | 0 | 4 | 0 |
 | 719 | org.antlr:antlr-runtime 🚩 |  | 2022-04-10 | 19,1 |  | 3.5.3 |  | 18 | 0 | 0 | 0 |
 | 720 | io.projectreactor.netty:reactor-netty-http | reactor.netty.http ⚙️ | 2026-06-08 | 5,7 | 5,7 | 1.3.6 | 1.3.6 | 115 | 115 | 22 | 22 |
@@ -757,7 +757,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 724 | com.ibm.icu:icu4j | com.ibm.icu ⚙️ | 2026-03-17 | 20,5 | 7,7 | 78.3 | 78.3 | 67 | 23 | 3 | 3 |
 | ~~725~~ | ~~org.eclipse.jetty:jetty-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~726~~ | ~~com.google.oauth-client:google-oauth-client-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 727 | org.apache.logging.log4j:log4j-layout-template-json | org.apache.logging.log4j.layout.template.json ✳️ | 2026-06-29 | 5,7 | 3,1 | 2.26.1 | 2.26.1 | 31 | 21 | 5 | 5 |
+| 727 | org.apache.logging.log4j:log4j-layout-template-json | org.apache.logging.log4j.layout.template.json ✳️ | 2026-06-29 | 5,7 | 3,1 | 2.26.1 | 2.26.1 | 31 | 22 | 5 | 6 |
 | 728 | org.springframework.boot:spring-boot-starter-reactor-netty | spring.boot.starter.reactor.netty ⚙️ | 2026-06-25 | 8,4 | 8,4 | 3.5.16 | 3.5.16 | 225 | 225 | 38 | 38 |
 | ~~729~~ | ~~com.amazonaws:aws-java-sdk-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 730 | org.springframework.boot:spring-boot-starter-webflux | spring.boot.starter.webflux ⚙️ | 2026-06-25 | 8,4 | 8,4 | 3.5.16 | 3.5.16 | 225 | 225 | 38 | 38 |
@@ -767,7 +767,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 734 | org.apache.xmlbeans:xmlbeans ⚠️ | org.apache.xmlbeans 🏷️ | 2024-12-04 | 19,0 | 5,7 | 5.3.0 | 5.3.0 | 20 | 11 | 0 | 0 |
 | ~~735~~ | ~~org.glassfish.hk2:hk2-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 736 | commons-chain:commons-chain 🚩 |  | 2008-05-29 | 20,6 |  | 1.2 |  | 3 | 0 | 0 | 0 |
-| 737 | org.apache.xbean:xbean-reflect | org.apache.xbean.reflect ⚙️ | 2026-01-28 | 20,4 | 8,6 | 4.30 | 4.30 | 62 | 25 | 3 | 3 |
+| 737 | org.apache.xbean:xbean-reflect | org.apache.xbean.reflect ⚙️ | 2026-01-28 | 20,4 | 8,6 | 4.30 | 4.30 | 62 | 26 | 3 | 4 |
 | 738 | org.springframework.retry:spring-retry | spring.retry ⚙️ | 2026-06-08 | 15,0 | 0,1 | 2.0.13 | 2.0.13 | 35 | 1 | 1 | 1 |
 | ~~739~~ | ~~org.apache.maven:maven-builder-support~~ | ~~-~~ | ~~2026-05-13~~ | ~~11,3~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~57~~ | ~~0~~ | ~~7~~ | ~~0~~ |
 | 740 | com.squareup.okhttp3:okhttp-urlconnection | okhttp3.urlconnection 🏷️ | 2026-06-08 | 10,5 | 8,4 | 5.4.0 | 5.4.0 | 107 | 87 | 8 | 8 |
@@ -792,7 +792,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 759 | io.grpc:grpc-netty-shaded | io.netty.internal.tcnative ✳️ | 2026-06-23 | 8,5 | 2,8 | 1.82.1 | 2.0.75.Final | 160 | 44 | 14 | 14 |
 | 760 | org.freemarker:freemarker ⚠️ | freemarker ⚙️ | 2024-12-08 | 19,3 | 5,4 | 2.3.34 | 2.3.34 | 26 | 4 | 0 | 0 |
 | 761 | org.mozilla:rhino | org.mozilla.rhino 🏷️ | 2026-02-15 | 15,0 | 4,6 | 1.9.1 | 1.9.1 | 25 | 9 | 5 | 5 |
-| 762 | org.apache.logging.log4j:log4j-slf4j-impl | org.apache.logging.log4j.slf4j.impl ✳️ | 2026-06-29 | 13,2 | 8,6 | 2.26.1 | 2.26.1 | 70 | 36 | 5 | 5 |
+| 762 | org.apache.logging.log4j:log4j-slf4j-impl | org.apache.logging.log4j.slf4j.impl ✳️ | 2026-06-29 | 13,2 | 8,6 | 2.26.1 | 2.26.1 | 70 | 37 | 5 | 6 |
 | 763 | org.codehaus.jackson:jackson-core-asl 🚩 |  | 2013-07-15 | 17,5 |  | 1.9.13 |  | 82 | 0 | 0 | 0 |
 | 764 | com.amazonaws:aws-java-sdk-kms |  | 2025-12-29 | 11,7 |  | 1.12.797 |  | 1951 | 0 | 10 | 0 |
 | ~~765~~ | ~~org.apache.maven.plugins:maven-release-plugin~~ | ~~-~~ | ~~2025-12-09~~ | ~~20,2~~ | ~~-~~ | ~~3.3.1~~ | ~~-~~ | ~~36~~ | ~~0~~ | ~~3~~ | ~~0~~ |
@@ -810,7 +810,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 777 | org.glassfish.jersey.core:jersey-common |  | 2026-06-11 | 14,4 |  | 3.1.12 |  | 155 | 6 | 10 | 6 |
 | 778 | org.testcontainers:testcontainers |  | 2026-04-20 | 11,0 |  | 2.0.5 |  | 113 | 0 | 7 | 0 |
 | 779 | org.eclipse.jetty:jetty-webapp | org.eclipse.jetty.webapp ✳️ | 2025-08-14 | 17,3 | 7,7 | 11.0.26 | 11.0.26 | 371 | 111 | 3 | 3 |
-| 780 | org.eclipse.jetty:jetty-client | org.eclipse.jetty.client ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 175 | 29 | 29 |
+| 780 | org.eclipse.jetty:jetty-client | org.eclipse.jetty.client ✳️ | 2026-05-31 | 17,3 | 7,7 | 12.0.36 | 12.0.36 | 435 | 177 | 29 | 31 |
 | ~~781~~ | ~~org.springframework.cloud:spring-cloud-commons-parent~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,1~~ | ~~-~~ | ~~5.0.2~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | 782 | com.amazonaws:aws-java-sdk-s3 |  | 2025-12-29 | 11,7 |  | 1.12.797 |  | 1956 | 0 | 10 | 0 |
 | 783 | com.squareup.moshi:moshi-kotlin ⚠️ | com.squareup.moshi.kotlin ⚙️ | 2024-12-05 | 9,2 | 8,2 | 1.15.2 | 1.15.2 | 17 | 12 | 0 | 0 |
@@ -852,8 +852,8 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 819 | org.glassfish:json |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 820 | io.opentelemetry:opentelemetry-exporter-logging | io.opentelemetry.exporter.logging ⚙️ | 2026-06-05 | 5,7 | 5,7 | 1.63.0 | 1.63.0 | 89 | 89 | 14 | 14 |
 | ~~821~~ | ~~org.apache.maven.shared:maven-invoker ⚠️~~ | ~~-~~ | ~~2024-05-07~~ | ~~19,6~~ | ~~-~~ | ~~3.3.0~~ | ~~-~~ | ~~15~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 822 | org.jetbrains.kotlin:kotlin-test | kotlin.test 🏷️ | 2026-06-25 | 10,5 | 6,0 | 2.4.10-RC | 2.4.10-RC | 217 | 153 | 36 | 36 |
-| 823 | org.eclipse.jetty:jetty-util-ajax | org.eclipse.jetty.util.ajax ✳️ | 2026-05-31 | 13,8 | 7,7 | 12.0.36 | 12.0.36 | 322 | 175 | 29 | 29 |
+| 822 | org.jetbrains.kotlin:kotlin-test | kotlin.test 🏷️ | 2026-06-25 | 10,5 | 6,0 | 2.4.10-RC | 2.4.10-RC | 217 | 154 | 36 | 37 |
+| 823 | org.eclipse.jetty:jetty-util-ajax | org.eclipse.jetty.util.ajax ✳️ | 2026-05-31 | 13,8 | 7,7 | 12.0.36 | 12.0.36 | 322 | 177 | 29 | 31 |
 | 824 | com.mysql:mysql-connector-j |  | 2026-04-22 | 3,7 |  | 9.7.0 |  | 15 | 0 | 4 | 0 |
 | ~~825~~ | ~~org.mapstruct:mapstruct-parent~~ | ~~-~~ | ~~2026-06-27~~ | ~~0,0~~ | ~~-~~ | ~~1.7.0.Beta2~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 826 | software.amazon.awssdk:aws-xml-protocol | software.amazon.awssdk.protocols.xml ⚙️ | 2026-07-02 | 7,7 | 6,5 | 2.46.21 | 2.46.21 | 1781 | 1554 | 235 | 235 |
@@ -901,7 +901,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | ~~868~~ | ~~org.apache.maven.resolver:maven-resolver-impl~~ | ~~org.apache.maven.resolver.impl ⚙️~~ | ~~2026-06-30~~ | ~~9,5~~ | ~~9,0~~ | ~~2.0.20~~ | ~~2.0.20~~ | ~~74~~ | ~~73~~ | ~~11~~ | ~~11~~ |
 | 869 | commons-fileupload:commons-fileupload ⚠️ | org.apache.commons.fileupload ✳️ | 2025-06-05 | 20,6 | 1,1 | 1.6.0 | 1.6.0 | 15 | 1 | 0 | 0 |
 | 870 | com.google.api:gax-grpc |  | 2026-07-08 | 9,2 |  | 2.82.0 |  | 224 | 0 | 24 | 0 |
-| 871 | org.conscrypt:conscrypt-openjdk-uber | org.conscrypt ⚙️ | 2026-06-29 | 9,4 | 7,7 | 2.6-alpha5 | 2.6-alpha5 | 39 | 15 | 5 | 5 |
+| 871 | org.conscrypt:conscrypt-openjdk-uber | org.conscrypt ⚙️ | 2026-06-29 | 9,4 | 7,7 | 2.6-alpha5 | 2.6-alpha5 | 39 | 16 | 5 | 6 |
 | 872 | com.google.devtools.ksp:symbol-processing-gradle-plugin |  | 2026-05-26 | 4,9 |  | 2.3.9 |  | 157 | 0 | 24 | 0 |
 | 873 | software.amazon.awssdk:http-auth-aws-eventstream | software.amazon.awssdk.http.auth.aws.eventstream ⚙️ | 2026-07-02 | 2,7 | 2,7 | 2.46.21 | 2.46.21 | 660 | 660 | 235 | 235 |
 | 874 | io.grpc:grpc-auth | io.grpc.auth ⚙️ | 2026-06-23 | 11,1 | 2,8 | 1.82.1 | 1.82.1 | 191 | 44 | 14 | 14 |
@@ -1002,7 +1002,7 @@ Every figure is as of 2026-07-09, and each artifact is judged by its latest vers
 | 969 | io.ktor:ktor-io-jvm | io.ktor.io ⚙️ | 2026-06-25 | 6,6 | 4,3 | 3.5.1 | 3.5.1 | 79 | 55 | 13 | 13 |
 | 970 | dk.brics.automaton:automaton 🚩 |  | 2011-12-04 | 14,6 |  | 1.11-8 |  | 1 | 0 | 0 | 0 |
 | 971 | io.jsonwebtoken:jjwt-impl |  | 2025-08-20 | 7,9 |  | 0.13.0 |  | 24 | 0 | 2 | 0 |
-| 972 | org.mongodb:bson | org.mongodb.bson ⚙️ | 2026-05-28 | 15,7 | 8,2 | 5.8.0 | 5.8.0 | 220 | 132 | 13 | 13 |
+| 972 | org.mongodb:bson | org.mongodb.bson ⚙️ | 2026-05-28 | 15,7 | 8,2 | 5.8.0 | 5.8.0 | 220 | 133 | 13 | 14 |
 | 973 | org.springframework.kafka:spring-kafka | spring.kafka ⚙️ | 2026-06-09 | 10,0 | 8,8 | 4.0.6 | 4.0.6 | 248 | 216 | 24 | 24 |
 | 974 | org.jetbrains.kotlinx:kotlinx-coroutines-test | kotlinx.coroutines.test.artifact_disambiguating_module ⚙️ | 2026-05-07 | 7,6 | 0,2 | 1.11.0 | 1.11.0 | 79 | 3 | 3 | 3 |
 | 975 | com.samskivert:jmustache ⚠️ | com.samskivert.jmustache ✳️ | 2023-11-30 | 15,7 | 7,0 | 1.16 | 1.16 | 17 | 2 | 0 | 0 |
