@@ -3994,12 +3994,28 @@
 7.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.7/org.wso2.carbon.identity.base-7.3.7.jar returned status 404
 7.3.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.70/org.wso2.carbon.identity.base-7.3.70.jar returned status 404
 7.3.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.71/org.wso2.carbon.identity.base-7.3.71.jar returned status 404
+7.3.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.72/org.wso2.carbon.identity.base-7.3.72.jar returned status 404
+7.3.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.73/org.wso2.carbon.identity.base-7.3.73.jar returned status 404
+7.3.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.74/org.wso2.carbon.identity.base-7.3.74.jar returned status 404
 7.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.8/org.wso2.carbon.identity.base-7.3.8.jar returned status 404
 7.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.3.9/org.wso2.carbon.identity.base-7.3.9.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.0/org.wso2.carbon.identity.base-7.4.0.jar returned status 404
+7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.1/org.wso2.carbon.identity.base-7.4.1.jar returned status 404
+7.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.10/org.wso2.carbon.identity.base-7.4.10.jar returned status 404
+7.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.11/org.wso2.carbon.identity.base-7.4.11.jar returned status 404
+7.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.12/org.wso2.carbon.identity.base-7.4.12.jar returned status 404
 7.4.13		2024-08-27T05:13:24Z	
 7.4.14		2024-08-28T04:43:22Z	
 7.4.15		2024-08-29T04:03:35Z	
 7.4.16		2024-09-02T04:03:11Z	
+7.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.2/org.wso2.carbon.identity.base-7.4.2.jar returned status 404
+7.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.3/org.wso2.carbon.identity.base-7.4.3.jar returned status 404
+7.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.4/org.wso2.carbon.identity.base-7.4.4.jar returned status 404
+7.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.5/org.wso2.carbon.identity.base-7.4.5.jar returned status 404
+7.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.6/org.wso2.carbon.identity.base-7.4.6.jar returned status 404
+7.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.7/org.wso2.carbon.identity.base-7.4.7.jar returned status 404
+7.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.8/org.wso2.carbon.identity.base-7.4.8.jar returned status 404
+7.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.4.9/org.wso2.carbon.identity.base-7.4.9.jar returned status 404
 7.5.0		2024-09-03T01:16:49Z	
 7.5.1		2024-09-04T17:12:40Z	
 7.5.10		2024-09-10T07:19:12Z	
@@ -4033,8 +4049,27 @@
 7.5.36		2024-10-02T07:15:01Z	
 7.5.37		2024-10-02T10:23:16Z	
 7.5.38		2024-10-02T17:35:04Z	
+7.5.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.39/org.wso2.carbon.identity.base-7.5.39.jar returned status 404
 7.5.4		2024-09-05T08:31:19Z	
+7.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.40/org.wso2.carbon.identity.base-7.5.40.jar returned status 404
+7.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.41/org.wso2.carbon.identity.base-7.5.41.jar returned status 404
+7.5.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.42/org.wso2.carbon.identity.base-7.5.42.jar returned status 404
+7.5.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.43/org.wso2.carbon.identity.base-7.5.43.jar returned status 404
+7.5.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.44/org.wso2.carbon.identity.base-7.5.44.jar returned status 404
+7.5.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.45/org.wso2.carbon.identity.base-7.5.45.jar returned status 404
+7.5.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.46/org.wso2.carbon.identity.base-7.5.46.jar returned status 404
+7.5.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.47/org.wso2.carbon.identity.base-7.5.47.jar returned status 404
+7.5.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.48/org.wso2.carbon.identity.base-7.5.48.jar returned status 404
+7.5.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.49/org.wso2.carbon.identity.base-7.5.49.jar returned status 404
 7.5.5		2024-09-05T11:21:26Z	
+7.5.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.50/org.wso2.carbon.identity.base-7.5.50.jar returned status 404
+7.5.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.51/org.wso2.carbon.identity.base-7.5.51.jar returned status 404
+7.5.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.52/org.wso2.carbon.identity.base-7.5.52.jar returned status 404
+7.5.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.53/org.wso2.carbon.identity.base-7.5.53.jar returned status 404
+7.5.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.54/org.wso2.carbon.identity.base-7.5.54.jar returned status 404
+7.5.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.55/org.wso2.carbon.identity.base-7.5.55.jar returned status 404
+7.5.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.56/org.wso2.carbon.identity.base-7.5.56.jar returned status 404
+7.5.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.base/7.5.57/org.wso2.carbon.identity.base-7.5.57.jar returned status 404
 7.5.6		2024-09-05T21:19:02Z	
 7.5.7		2024-09-06T10:33:14Z	
 7.5.8		2024-09-09T07:15:49Z	
