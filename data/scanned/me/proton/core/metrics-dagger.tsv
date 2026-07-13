@@ -133,6 +133,7 @@
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/36.5.0/metrics-dagger-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/36.6.0/metrics-dagger-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/36.6.1/metrics-dagger-36.6.1.jar returned status 404
+36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/36.6.2/metrics-dagger-36.6.2.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/7.1.1/metrics-dagger-7.1.1.jar returned status 404
 7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/7.1.10/metrics-dagger-7.1.10.jar returned status 404
 7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/metrics-dagger/7.1.11/metrics-dagger-7.1.11.jar returned status 404

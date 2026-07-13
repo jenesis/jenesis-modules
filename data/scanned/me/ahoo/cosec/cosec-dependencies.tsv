@@ -199,3 +199,4 @@
 4.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-dependencies/4.3.3/cosec-dependencies-4.3.3.jar returned status 404
 4.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-dependencies/4.3.4/cosec-dependencies-4.3.4.jar returned status 404
 4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-dependencies/4.3.5/cosec-dependencies-4.3.5.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-dependencies/4.5.0/cosec-dependencies-4.5.0.jar returned status 404

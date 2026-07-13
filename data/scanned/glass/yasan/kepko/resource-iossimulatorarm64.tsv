@@ -108,3 +108,5 @@
 1.6.0	metadata	2026-06-01T03:48:19Z	
 1.6.1		2026-06-06T23:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iossimulatorarm64/1.6.1/resource-iossimulatorarm64-1.6.1.jar returned status 404
 1.6.1	metadata	2026-06-06T23:05:53Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iossimulatorarm64/1.7.0/resource-iossimulatorarm64-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iossimulatorarm64/1.7.1/resource-iossimulatorarm64-1.7.1.jar returned status 404

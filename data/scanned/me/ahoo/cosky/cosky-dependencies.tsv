@@ -131,3 +131,4 @@
 5.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-dependencies/5.5.3/cosky-dependencies-5.5.3.jar returned status 404
 5.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-dependencies/5.5.5/cosky-dependencies-5.5.5.jar returned status 404
 5.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-dependencies/5.5.6/cosky-dependencies-5.5.6.jar returned status 404
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-dependencies/5.6.0/cosky-dependencies-5.6.0.jar returned status 404

@@ -1,3 +1,5 @@
 1.0-M1		2005-08-01T09:26:01Z	
 1.0-M2-dev		2005-10-28T00:05:18Z	
 1.0-M3-dev		2005-10-28T00:05:19Z	
+1.0-dev.20020822.054820			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/axion/axion/1.0-dev.20020822.054820/axion-1.0-dev.20020822.054820.jar returned status 404
+1.0-dev.20020830.060007			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/axion/axion/1.0-dev.20020830.060007/axion-1.0-dev.20020830.060007.jar returned status 404

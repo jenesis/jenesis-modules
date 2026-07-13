@@ -1,3 +1,13 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.0/rpc-all-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.0.1/rpc-all-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.0.2/rpc-all-1.0.2.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.1/rpc-all-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.2/rpc-all-1.2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.2.1/rpc-all-1.2.1.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.3/rpc-all-1.3.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.5/rpc-all-1.5.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.5.1/rpc-all-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/tianai/rpc/rpc-all/1.5.2/rpc-all-1.5.2.jar returned status 404
 1.5.3		2020-04-05T10:04:41Z	
 1.5.4		2020-04-05T10:55:28Z	
 1.5.5		2020-04-06T07:49:57Z	

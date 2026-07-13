@@ -81,3 +81,5 @@
 1.5.9		2026-05-29T01:17:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/component-wasm-js/1.5.9/component-wasm-js-1.5.9.jar returned status 404
 1.6.0		2026-06-01T03:48:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/component-wasm-js/1.6.0/component-wasm-js-1.6.0.jar returned status 404
 1.6.1		2026-06-06T23:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/component-wasm-js/1.6.1/component-wasm-js-1.6.1.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/component-wasm-js/1.7.0/component-wasm-js-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/component-wasm-js/1.7.1/component-wasm-js-1.7.1.jar returned status 404

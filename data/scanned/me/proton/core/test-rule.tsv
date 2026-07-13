@@ -85,3 +85,4 @@
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-rule/36.5.0/test-rule-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-rule/36.6.0/test-rule-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-rule/36.6.1/test-rule-36.6.1.jar returned status 404
+36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-rule/36.6.2/test-rule-36.6.2.jar returned status 404

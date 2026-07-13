@@ -134,6 +134,7 @@
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/36.5.0/util-android-strict-mode-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/36.6.0/util-android-strict-mode-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/36.6.1/util-android-strict-mode-36.6.1.jar returned status 404
+36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/36.6.2/util-android-strict-mode-36.6.2.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/9.0.0/util-android-strict-mode-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/9.0.1/util-android-strict-mode-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/util-android-strict-mode/9.0.2/util-android-strict-mode-9.0.2.jar returned status 404

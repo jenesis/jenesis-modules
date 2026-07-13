@@ -156,6 +156,7 @@
 36.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/36.5.0/crypto-36.5.0.jar returned status 404
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/36.6.0/crypto-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/36.6.1/crypto-36.6.1.jar returned status 404
+36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/36.6.2/crypto-36.6.2.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/4.0.0/crypto-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/4.1.0/crypto-4.1.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/crypto/5.0.0/crypto-5.0.0.jar returned status 404

@@ -2,4 +2,5 @@
 1.0.1	dev	2024-09-14T17:43:03Z	
 1.0.2	dev	2024-09-14T18:02:17Z	
 1.0.3	dev	2024-09-18T07:56:36Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/space/chunks/custom-names/custom-names/1.0.4/custom-names-1.0.4.jar returned status 404
 1.0.4	dev	2024-09-18T08:05:09Z	
