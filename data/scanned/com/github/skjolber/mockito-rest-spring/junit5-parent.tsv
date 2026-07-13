@@ -1,3 +1,10 @@
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/1.0.3/junit5-parent-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/1.1.0/junit5-parent-1.1.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.0/junit5-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.1/junit5-parent-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.2/junit5-parent-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.3/junit5-parent-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.4/junit5-parent-2.0.4.jar returned status 404
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.5/junit5-parent-2.0.5.jar returned status 404
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.6/junit5-parent-2.0.6.jar returned status 404
 2.0.7		2026-05-22T16:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skjolber/mockito-rest-spring/junit5-parent/2.0.7/junit5-parent-2.0.7.jar returned status 404

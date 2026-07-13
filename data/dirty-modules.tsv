@@ -2,3 +2,5 @@ com.gluonhq.strange
 com.jcraft.jsch
 slugify
 dev.tamboui.widgets
+org.json
+com.github.turasa.signalservice

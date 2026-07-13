@@ -1,2 +1,6 @@
 2.0.0		2013-09-23T19:01:13Z	
 2.0.1		2013-09-25T15:43:17Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sebhoss/guice-bom/2.0.3/guice-bom-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sebhoss/guice-bom/2.0.4/guice-bom-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sebhoss/guice-bom/2.0.5/guice-bom-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sebhoss/guice-bom/2.0.6/guice-bom-2.0.6.jar returned status 404

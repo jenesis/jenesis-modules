@@ -2,3 +2,6 @@
 0.0.2		2020-05-14T07:17:20Z	
 0.0.3		2020-05-15T14:10:20Z	
 0.0.4		2020-05-16T01:29:12Z	
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/houbb/id/0.0.5/id-0.0.5.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/houbb/id/0.0.6/id-0.0.6.jar returned status 404
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/houbb/id/0.0.7/id-0.0.7.jar returned status 404

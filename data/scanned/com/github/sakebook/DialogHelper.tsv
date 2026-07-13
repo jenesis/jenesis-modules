@@ -1,3 +1,6 @@
 0.0.1		2014-05-24T06:36:48Z	
 0.0.2		2014-06-23T15:17:37Z	
 0.0.3		2014-07-26T05:18:10Z	
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sakebook/DialogHelper/0.1.0/DialogHelper-0.1.0.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sakebook/DialogHelper/0.1.1/DialogHelper-0.1.1.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/sakebook/DialogHelper/0.1.2/DialogHelper-0.1.2.jar returned status 404

@@ -1,2 +1,6 @@
 1.0		2016-06-03T18:58:24Z	
 1.1		2016-06-03T19:28:53Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bieliaievays/viewpagerindicator/1.2/viewpagerindicator-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bieliaievays/viewpagerindicator/1.3/viewpagerindicator-1.3.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bieliaievays/viewpagerindicator/1.6/viewpagerindicator-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bieliaievays/viewpagerindicator/1.7/viewpagerindicator-1.7.jar returned status 404

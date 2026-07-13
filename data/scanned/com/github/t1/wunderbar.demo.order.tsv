@@ -15,5 +15,23 @@
 2.0.1		2021-07-22T03:37:35Z	
 2.1.1		2021-07-24T09:20:21Z	
 2.1.4		2021-12-03T07:59:33Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.2.0/wunderbar.demo.order-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.2.1/wunderbar.demo.order-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.3.0/wunderbar.demo.order-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.0/wunderbar.demo.order-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.1/wunderbar.demo.order-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.2/wunderbar.demo.order-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.3/wunderbar.demo.order-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.4/wunderbar.demo.order-2.4.4.jar returned status 404
+2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.5/wunderbar.demo.order-2.4.5.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.6/wunderbar.demo.order-2.4.6.jar returned status 404
+2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.7/wunderbar.demo.order-2.4.7.jar returned status 404
+2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.8/wunderbar.demo.order-2.4.8.jar returned status 404
+2.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/2.4.9/wunderbar.demo.order-2.4.9.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.0/wunderbar.demo.order-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.1/wunderbar.demo.order-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.2/wunderbar.demo.order-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.3/wunderbar.demo.order-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.4/wunderbar.demo.order-3.4.jar returned status 404
 3.5		2025-05-10T04:29:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.5/wunderbar.demo.order-3.5.jar returned status 404
 3.5.1		2025-09-14T13:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/t1/wunderbar.demo.order/3.5.1/wunderbar.demo.order-3.5.1.jar returned status 404

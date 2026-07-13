@@ -1,3 +1,10 @@
 0.0.2		2020-10-27T15:44:07Z	
 0.0.3		2020-10-28T10:01:57Z	
 0.0.4		2020-10-28T17:33:41Z	
+1.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta10/mk-security-1.0.0-beta10.jar returned status 404
+1.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta4/mk-security-1.0.0-beta4.jar returned status 404
+1.0.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta5/mk-security-1.0.0-beta5.jar returned status 404
+1.0.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta6/mk-security-1.0.0-beta6.jar returned status 404
+1.0.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta7/mk-security-1.0.0-beta7.jar returned status 404
+1.0.0-beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta8/mk-security-1.0.0-beta8.jar returned status 404
+1.0.0-beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xujiaji/mk/mk-security/1.0.0-beta9/mk-security-1.0.0-beta9.jar returned status 404

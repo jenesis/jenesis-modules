@@ -7,3 +7,8 @@
 18.06.25		2018-06-27T13:45:50Z	
 18.06.25.2		2018-08-23T11:45:02Z	
 18.10.04		2018-10-05T10:27:48Z	
+19.05.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/martinpaljak/apdu4j/19.05.08/apdu4j-19.05.08.jar returned status 404
+20.01.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/martinpaljak/apdu4j/20.01.01/apdu4j-20.01.01.jar returned status 404
+21.04.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/martinpaljak/apdu4j/21.04.01/apdu4j-21.04.01.jar returned status 404
+21.04.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/martinpaljak/apdu4j/21.04.12/apdu4j-21.04.12.jar returned status 404
+21.05.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/martinpaljak/apdu4j/21.05.06/apdu4j-21.05.06.jar returned status 404
