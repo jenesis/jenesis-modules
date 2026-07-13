@@ -1,4 +1,6 @@
 5.0.0-2012Aug24		2012-08-24T12:37:41Z	
+5.0.0-2012Nov06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/picketbox/picketbox-core/5.0.0-2012Nov06/picketbox-core-5.0.0-2012Nov06.jar returned status 404
+5.0.0-2012Nov21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/picketbox/picketbox-core/5.0.0-2012Nov21/picketbox-core-5.0.0-2012Nov21.jar returned status 404
 5.0.0-2012Nov26		2012-11-26T18:15:32Z	
 5.0.0-2012Sep17		2012-09-17T19:45:11Z	
 5.0.0-2012Sep18		2012-09-19T00:34:29Z	
