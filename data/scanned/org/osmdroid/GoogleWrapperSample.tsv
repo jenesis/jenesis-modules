@@ -10,14 +10,17 @@
 5.0.1		2015-11-12T22:48:48Z	
 5.1		2016-01-24T21:02:29Z	
 5.2		2016-04-28T21:50:14Z	
+5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/GoogleWrapperSample/5.4/GoogleWrapperSample-5.4.jar returned status 404
 5.4	debug-javadoc	2016-09-06T20:47:17Z	
 5.4	debug-sources	2016-09-06T20:47:23Z	
 5.4	release-javadoc	2016-09-06T20:47:50Z	
 5.4	release-sources	2016-09-06T20:47:58Z	
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/GoogleWrapperSample/5.4.1/GoogleWrapperSample-5.4.1.jar returned status 404
 5.4.1	debug-javadoc	2016-09-13T19:43:42Z	
 5.4.1	debug-sources	2016-09-13T19:43:47Z	
 5.4.1	release-javadoc	2016-09-13T19:44:21Z	
 5.4.1	release-sources	2016-09-13T19:44:35Z	
+5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/GoogleWrapperSample/5.5/GoogleWrapperSample-5.5.jar returned status 404
 5.5	debug-javadoc	2016-10-10T20:06:00Z	
 5.5	debug-sources	2016-10-10T20:06:01Z	
 5.5	release-javadoc	2016-10-10T20:06:13Z	

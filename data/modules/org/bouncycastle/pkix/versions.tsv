@@ -1204,3 +1204,9 @@ release-4.114.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-s
 11.2.41	named	com.datarobot	datarobot-mlops	2026-07-11T00:07:51Z	
 11.2.42	named	com.datarobot	mlops-utils-for-spark_3	2026-07-11T00:07:52Z	
 11.2.42	named	com.datarobot	datarobot-mlops	2026-07-11T00:07:54Z	
+1.85	automatic	org.bouncycastle	bcpkix-debug-jdk14	2026-07-12T00:10:19Z	
+1.85	automatic	org.bouncycastle	bcpkix-debug-jdk15to18	2026-07-12T00:10:23Z	
+1.85	automatic	org.bouncycastle	bcpkix-jdk14	2026-07-12T00:10:23Z	
+1.85	automatic	org.bouncycastle	bcpkix-jdk15to18	2026-07-12T00:10:23Z	
+1.85	named	org.bouncycastle	bcpkix-jdk18on	2026-07-13T00:03:18Z	
+1.85	named	org.bouncycastle	bcpkix-debug-jdk18on	2026-07-13T00:03:22Z	

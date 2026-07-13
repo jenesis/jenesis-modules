@@ -1,17 +1,25 @@
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.0.0/osmdroid-wms-6.0.0.jar returned status 404
 6.0.0	debug-javadoc	2018-02-17T14:11:32Z	
 6.0.0	debug-sources	2018-02-17T14:11:33Z	
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.0.1/osmdroid-wms-6.0.1.jar returned status 404
 6.0.1	debug-javadoc	2018-02-18T20:07:22Z	
 6.0.1	debug-sources	2018-02-18T20:07:23Z	
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.0.2/osmdroid-wms-6.0.2.jar returned status 404
 6.0.2	debug-javadoc	2018-07-16T22:05:51Z	
 6.0.2	debug-sources	2018-07-16T22:05:52Z	
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.0.3/osmdroid-wms-6.0.3.jar returned status 404
 6.0.3	debug-javadoc	2018-11-24T20:10:51Z	
 6.0.3	debug-sources	2018-11-24T20:10:51Z	
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.0/osmdroid-wms-6.1.0.jar returned status 404
 6.1.0	debug-javadoc	2019-03-24T13:33:52Z	
 6.1.0	debug-sources	2019-03-24T13:34:03Z	
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.1/osmdroid-wms-6.1.1.jar returned status 404
 6.1.1	debug-javadoc	2019-09-28T00:09:48Z	
 6.1.1	debug-sources	2019-09-28T00:10:01Z	
+6.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.10/osmdroid-wms-6.1.10.jar returned status 404
 6.1.10	debug-javadoc	2021-01-30T19:37:32Z	
 6.1.10	debug-sources	2021-01-30T19:37:33Z	
+6.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.11/osmdroid-wms-6.1.11.jar returned status 404
 6.1.11	debug-javadoc	2021-08-01T23:00:09Z	
 6.1.11	debug-sources	2021-08-01T23:00:09Z	
 6.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.12/osmdroid-wms-6.1.12.jar returned status 404
@@ -21,18 +29,25 @@
 6.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.16/osmdroid-wms-6.1.16.jar returned status 404
 6.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.17/osmdroid-wms-6.1.17.jar returned status 404
 6.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.18/osmdroid-wms-6.1.18.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.2/osmdroid-wms-6.1.2.jar returned status 404
 6.1.2	debug-javadoc	2019-09-28T20:21:14Z	
 6.1.2	debug-sources	2019-09-28T20:21:16Z	
 6.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.20/osmdroid-wms-6.1.20.jar returned status 404
+6.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.3/osmdroid-wms-6.1.3.jar returned status 404
 6.1.3	debug-javadoc	2019-11-24T22:11:36Z	
 6.1.3	debug-sources	2019-11-24T22:11:37Z	
+6.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.4/osmdroid-wms-6.1.4.jar returned status 404
 6.1.4	debug-javadoc	2019-11-24T23:06:02Z	
 6.1.4	debug-sources	2019-11-24T23:06:02Z	
+6.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.5/osmdroid-wms-6.1.5.jar returned status 404
 6.1.5	debug-javadoc	2019-12-14T15:38:58Z	
 6.1.5	debug-sources	2019-12-14T15:38:59Z	
+6.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.6/osmdroid-wms-6.1.6.jar returned status 404
 6.1.6	debug-javadoc	2020-03-07T19:44:31Z	
 6.1.6	debug-sources	2020-03-07T19:44:32Z	
+6.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.7/osmdroid-wms-6.1.7.jar returned status 404
 6.1.7	debug-javadoc	2020-07-22T01:06:41Z	
 6.1.7	debug-sources	2020-07-22T01:06:42Z	
+6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/osmdroid/osmdroid-wms/6.1.8/osmdroid-wms-6.1.8.jar returned status 404
 6.1.8	debug-javadoc	2020-07-26T17:32:09Z	
 6.1.8	debug-sources	2020-07-26T17:32:10Z	

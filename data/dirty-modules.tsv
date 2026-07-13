@@ -1701,3 +1701,16 @@ org.simplejavamail.outlookmessageparser
 org.simplejavamail.spring
 org.simplejavamail
 org.kink_lang.kink
+org.joev.javadoctest
+org.bouncycastle.fips.pkix
+org.bouncycastle.mail
+org.bouncycastle.fips.pg
+org.bouncycastle.pg
+org.bouncycastle.util
+org.bouncycastle.provider
+org.bouncycastle.tls
+org.bouncycastle.fips.mail
+org.bouncycastle.fips.core
+org.bouncycastle.mls
+org.bouncycastle.fips.tls
+org.bouncycastle.fips.util
