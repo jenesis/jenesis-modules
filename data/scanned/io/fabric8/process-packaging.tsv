@@ -1,6 +1,7 @@
 1.0.0.redhat-394		2014-09-22T21:16:36Z	
 1.0.0.redhat-412		2014-10-20T22:14:01Z	
 1.0.0.redhat-423		2015-02-07T02:34:48Z	
+1.0.0.redhat-445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/process-packaging/1.0.0.redhat-445/process-packaging-1.0.0.redhat-445.jar returned status 404
 1.1.0.Beta1		2014-04-09T08:58:42Z	
 1.1.0.Beta2		2014-04-11T09:41:16Z	
 1.1.0.Beta3		2014-04-13T15:44:45Z	

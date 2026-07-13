@@ -1,6 +1,7 @@
 1.0.0.redhat-394		2014-09-22T21:11:32Z	
 1.0.0.redhat-412		2014-10-20T22:09:06Z	
 1.0.0.redhat-423		2015-02-07T02:31:12Z	
+1.0.0.redhat-445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fabric8/examples/fabric-loanbroker-rateservice/1.0.0.redhat-445/fabric-loanbroker-rateservice-1.0.0.redhat-445.jar returned status 404
 1.1.0.Beta1		2014-04-09T08:43:08Z	
 1.1.0.Beta2		2014-04-11T09:25:30Z	
 1.1.0.Beta3		2014-04-13T15:28:55Z	
