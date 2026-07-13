@@ -1,3 +1,11 @@
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.5/fcrepo-client-3.5.jar returned status 404
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.6/fcrepo-client-3.6.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.6.1/fcrepo-client-3.6.1.jar returned status 404
+3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.6.2/fcrepo-client-3.6.2.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.7.0/fcrepo-client-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.7.1/fcrepo-client-3.7.1.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.8.0/fcrepo-client-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-client/3.8.1/fcrepo-client-3.8.1.jar returned status 404
 4.0.0		2014-11-27T21:09:41Z	
 4.0.0-beta-04		2014-11-10T00:33:16Z	
 4.1.0		2015-02-05T04:38:47Z	

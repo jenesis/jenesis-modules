@@ -1,3 +1,11 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.0.0/fcrepo-module-auth-rbacl-4.0.0.jar returned status 404
+4.0.0-beta-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.0.0-beta-02/fcrepo-module-auth-rbacl-4.0.0-beta-02.jar returned status 404
+4.0.0-beta-03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.0.0-beta-03/fcrepo-module-auth-rbacl-4.0.0-beta-03.jar returned status 404
+4.0.0-beta-04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.0.0-beta-04/fcrepo-module-auth-rbacl-4.0.0-beta-04.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.1.1/fcrepo-module-auth-rbacl-4.1.1.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.2.0/fcrepo-module-auth-rbacl-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.3.0/fcrepo-module-auth-rbacl-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.4.0/fcrepo-module-auth-rbacl-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.5.0/fcrepo-module-auth-rbacl-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.5.1/fcrepo-module-auth-rbacl-4.5.1.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-module-auth-rbacl/4.6.0/fcrepo-module-auth-rbacl-4.6.0.jar returned status 404
