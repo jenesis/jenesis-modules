@@ -74,6 +74,16 @@
 3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.0/quarkus-observability-testlibs-3.21.0.jar returned status 404
 3.21.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.0.CR1/quarkus-observability-testlibs-3.21.0.CR1.jar returned status 404
 3.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.1/quarkus-observability-testlibs-3.21.1.jar returned status 404
+3.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.2/quarkus-observability-testlibs-3.21.2.jar returned status 404
+3.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.3/quarkus-observability-testlibs-3.21.3.jar returned status 404
+3.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.21.4/quarkus-observability-testlibs-3.21.4.jar returned status 404
+3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.22.0/quarkus-observability-testlibs-3.22.0.jar returned status 404
+3.22.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.22.0.CR1/quarkus-observability-testlibs-3.22.0.CR1.jar returned status 404
+3.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.22.1/quarkus-observability-testlibs-3.22.1.jar returned status 404
+3.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.22.2/quarkus-observability-testlibs-3.22.2.jar returned status 404
+3.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.22.3/quarkus-observability-testlibs-3.22.3.jar returned status 404
+3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.23.0/quarkus-observability-testlibs-3.23.0.jar returned status 404
+3.23.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.23.0.CR1/quarkus-observability-testlibs-3.23.0.CR1.jar returned status 404
 3.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.23.1/quarkus-observability-testlibs-3.23.1.jar returned status 404
 3.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.23.2/quarkus-observability-testlibs-3.23.2.jar returned status 404
 3.23.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.23.3/quarkus-observability-testlibs-3.23.3.jar returned status 404
@@ -169,3 +179,4 @@
 3.37.0		2026-06-17T16:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.37.0/quarkus-observability-testlibs-3.37.0.jar returned status 404
 3.37.0.CR1		2026-06-10T07:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.37.0.CR1/quarkus-observability-testlibs-3.37.0.CR1.jar returned status 404
 3.37.1		2026-07-01T11:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.37.1/quarkus-observability-testlibs-3.37.1.jar returned status 404
+3.37.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-observability-testlibs/3.37.2/quarkus-observability-testlibs-3.37.2.jar returned status 404
