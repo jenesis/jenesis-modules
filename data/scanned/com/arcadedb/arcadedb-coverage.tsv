@@ -1,5 +1,39 @@
 21.10.1		2021-10-05T14:25:16Z	
 21.10.2		2021-10-28T21:56:09Z	
 21.11.1		2021-11-30T23:56:18Z	
+21.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/21.12.1/arcadedb-coverage-21.12.1.jar returned status 404
 21.9.1		2021-09-21T16:48:39Z	
 21.9.1-beta		2021-09-20T18:48:18Z	
+22.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.1.1/arcadedb-coverage-22.1.1.jar returned status 404
+22.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.1.2/arcadedb-coverage-22.1.2.jar returned status 404
+22.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.10.1/arcadedb-coverage-22.10.1.jar returned status 404
+22.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.11.1/arcadedb-coverage-22.11.1.jar returned status 404
+22.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.12.1/arcadedb-coverage-22.12.1.jar returned status 404
+22.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.8.1/arcadedb-coverage-22.8.1.jar returned status 404
+22.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/22.9.1/arcadedb-coverage-22.9.1.jar returned status 404
+23.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.1.1/arcadedb-coverage-23.1.1.jar returned status 404
+23.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.1.2/arcadedb-coverage-23.1.2.jar returned status 404
+23.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.10.1/arcadedb-coverage-23.10.1.jar returned status 404
+23.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.11.1/arcadedb-coverage-23.11.1.jar returned status 404
+23.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.12.1/arcadedb-coverage-23.12.1.jar returned status 404
+23.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.12.2/arcadedb-coverage-23.12.2.jar returned status 404
+23.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.2.1/arcadedb-coverage-23.2.1.jar returned status 404
+23.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.3.1/arcadedb-coverage-23.3.1.jar returned status 404
+23.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.4.1/arcadedb-coverage-23.4.1.jar returned status 404
+23.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.5.1/arcadedb-coverage-23.5.1.jar returned status 404
+23.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.6.1/arcadedb-coverage-23.6.1.jar returned status 404
+23.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.7.1/arcadedb-coverage-23.7.1.jar returned status 404
+23.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/23.9.1/arcadedb-coverage-23.9.1.jar returned status 404
+24.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.1.1/arcadedb-coverage-24.1.1.jar returned status 404
+24.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.10.1/arcadedb-coverage-24.10.1.jar returned status 404
+24.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.11.1/arcadedb-coverage-24.11.1.jar returned status 404
+24.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.11.2/arcadedb-coverage-24.11.2.jar returned status 404
+24.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.2.1/arcadedb-coverage-24.2.1.jar returned status 404
+24.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.4.1/arcadedb-coverage-24.4.1.jar returned status 404
+24.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.5.1/arcadedb-coverage-24.5.1.jar returned status 404
+24.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/24.6.1/arcadedb-coverage-24.6.1.jar returned status 404
+25.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/25.1.1/arcadedb-coverage-25.1.1.jar returned status 404
+25.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/25.2.1/arcadedb-coverage-25.2.1.jar returned status 404
+25.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/25.3.1/arcadedb-coverage-25.3.1.jar returned status 404
+25.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/25.3.2/arcadedb-coverage-25.3.2.jar returned status 404
+25.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcadedb/arcadedb-coverage/25.4.1/arcadedb-coverage-25.4.1.jar returned status 404

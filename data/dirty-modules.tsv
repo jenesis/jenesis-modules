@@ -408,3 +408,8 @@ com.appslandia.common
 com.quartzdesk.agent
 com.quartzdesk.api
 com.intechcore.scomponents.fx.menutreebuilder
+com.puppycrawl.tools.checkstyle
+com.formdev.flatlaf.swingx
+com.formdev.flatlaf.intellijthemes
+com.formdev.flatlaf.extras
+com.formdev.flatlaf

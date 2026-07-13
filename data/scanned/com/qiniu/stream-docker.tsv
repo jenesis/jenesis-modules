@@ -1,2 +1,4 @@
 0.0.2		2020-10-07T00:31:35Z	
 0.0.3		2020-10-22T09:55:06Z	
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiniu/stream-docker/0.0.4/stream-docker-0.0.4.jar returned status 404
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiniu/stream-docker/0.1.0/stream-docker-0.1.0.jar returned status 404
