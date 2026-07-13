@@ -2734,3 +2734,10 @@ io.vertx.auth.ldap
 io.vertx.healthcheck
 io.nats.jnats
 com.fasterxml.jackson.datatype.jsonorg
+io.smallrye.graphql
+io.smallrye.graphql.cdi
+io.smallrye.graphql.client.api
+io.smallrye.graphql.client.model.builder
+io.smallrye.graphql.api
+io.smallrye.graphql.client
+io.smallrye.graphql.client.vertx

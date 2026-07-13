@@ -1,4 +1,7 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.1.0/whatap-android-agent-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.1.1/whatap-android-agent-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.2.0/whatap-android-agent-2.2.0.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.2.4/whatap-android-agent-2.2.4.jar returned status 404
 2.2.6		2026-06-05T02:29:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.2.6/whatap-android-agent-2.2.6.jar returned status 404
 2.2.7		2026-06-17T23:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.2.7/whatap-android-agent-2.2.7.jar returned status 404
 2.2.8		2026-06-19T01:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/whatap/android/whatap-android-agent/2.2.8/whatap-android-agent-2.2.8.jar returned status 404
