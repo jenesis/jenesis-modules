@@ -2733,3 +2733,4 @@ io.vertx.auth.webauthn4j
 io.vertx.auth.ldap
 io.vertx.healthcheck
 io.nats.jnats
+com.fasterxml.jackson.datatype.jsonorg

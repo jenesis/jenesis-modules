@@ -33,9 +33,15 @@
 2.12.5	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2021-08-27T01:44:31Z	2.12.5
 2.13.0-rc2	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2021-08-27T05:27:49Z	2.13.0-rc2
 2.13.0	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2021-09-30T22:35:21Z	2.13.0
+2.1.4.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2021-12-05T17:09:32Z	2.13.0
 2.12.6	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2021-12-15T05:01:43Z	2.12.6
 2.13.1	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2021-12-19T02:23:18Z	2.13.1
+2.1.5.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2021-12-22T17:50:57Z	2.13.0
+2.2.0.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2022-02-01T23:47:18Z	2.13.0
+2.2.1.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2022-03-02T17:34:28Z	2.13.0
 2.13.2	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2022-03-07T00:27:19Z	2.13.2
+2.2.2.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2022-03-26T00:45:11Z	2.13.0
+2.2.3.Final	named	io.apicurio	apicurio-registry-utils-exportV1	2022-04-14T16:29:33Z	2.13.0
 2.13.3	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2022-05-14T18:01:25Z	2.13.3
 2.12.7	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2022-05-26T20:59:07Z	2.12.7
 2.13.4	named	com.fasterxml.jackson.datatype	jackson-datatype-json-org	2022-09-03T22:58:46Z	2.13.4

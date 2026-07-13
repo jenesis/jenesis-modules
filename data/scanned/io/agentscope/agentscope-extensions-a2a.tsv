@@ -13,7 +13,9 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/1.0.9/agentscope-extensions-a2a-1.0.9.jar returned status 404
 1.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/1.1.0-RC1/agentscope-extensions-a2a-1.1.0-RC1.jar returned status 404
 1.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/1.1.0-RC2/agentscope-extensions-a2a-1.1.0-RC2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0/agentscope-extensions-a2a-2.0.0.jar returned status 404
 2.0.0-RC1		2026-06-02T17:01:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0-RC1/agentscope-extensions-a2a-2.0.0-RC1.jar returned status 404
 2.0.0-RC2		2026-06-09T07:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0-RC2/agentscope-extensions-a2a-2.0.0-RC2.jar returned status 404
 2.0.0-RC3		2026-06-11T02:41:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0-RC3/agentscope-extensions-a2a-2.0.0-RC3.jar returned status 404
 2.0.0-RC4		2026-06-18T09:54:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0-RC4/agentscope-extensions-a2a-2.0.0-RC4.jar returned status 404
+2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-a2a/2.0.0-RC5/agentscope-extensions-a2a-2.0.0-RC5.jar returned status 404

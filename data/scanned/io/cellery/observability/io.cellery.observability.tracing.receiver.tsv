@@ -1,4 +1,6 @@
 0.1.0		2019-02-22T20:29:54Z	
 0.2.2		2019-05-19T14:21:43Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cellery/observability/io.cellery.observability.tracing.receiver/0.3.0/io.cellery.observability.tracing.receiver-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cellery/observability/io.cellery.observability.tracing.receiver/0.3.1/io.cellery.observability.tracing.receiver-0.3.1.jar returned status 404
 0.4.0		2019-09-27T18:16:38Z	
 0.4.1		2019-10-04T17:31:54Z	

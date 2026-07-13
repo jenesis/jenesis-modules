@@ -80,3 +80,4 @@
 6.2.0	metadata	2026-06-15T21:47:37Z	
 6.2.1		2026-06-18T14:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-extensions-koin-tvosarm64/6.2.1/kotest-extensions-koin-tvosarm64-6.2.1.jar returned status 404
 6.2.1	metadata	2026-06-18T14:11:42Z	
+6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-extensions-koin-tvosarm64/6.2.2/kotest-extensions-koin-tvosarm64-6.2.2.jar returned status 404
