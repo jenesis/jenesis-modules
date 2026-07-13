@@ -741,3 +741,16 @@ org.axonframework.modelling
 org.axonframework.eventsourcing
 org.axonframework.conversion
 org.axonframework.test
+org.mongodb.bson.record.codec
+org.mongodb.driver.kotlin.coroutine
+org.mongodb.driver.kotlin.extensions
+org.mongodb.driver.reactivestreams
+org.mongodb.bson.kotlin
+org.mongodb.bson
+org.mongodb.driver.sync.client
+org.mongodb.bson.kotlinx
+com.mongodb.crypt.capi
+org.mongodb.driver.core
+org.mongodb.driver.kotlin.sync
+org.mongodb.driver.scala
+org.mongodb.bson.scala

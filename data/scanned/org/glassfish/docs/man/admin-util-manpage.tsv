@@ -9,3 +9,6 @@
 3.2-b01		2011-06-16T18:58:55Z	
 3.2-b02		2011-06-28T20:04:45Z	
 3.2-b03		2011-07-07T22:52:44Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/admin-util-manpage/4.0-b01/admin-util-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/admin-util-manpage/4.0-b02/admin-util-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/admin-util-manpage/4.0-b03/admin-util-manpage-4.0-b03.jar returned status 404

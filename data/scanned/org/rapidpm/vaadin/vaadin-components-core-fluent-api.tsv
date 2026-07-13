@@ -1,2 +1,3 @@
 00.07.05-RPM		2018-10-03T15:34:12Z	
 00.07.06-RPM		2018-10-30T11:13:21Z	
+00.08.00-RPM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rapidpm/vaadin/vaadin-components-core-fluent-api/00.08.00-RPM/vaadin-components-core-fluent-api-00.08.00-RPM.jar returned status 404

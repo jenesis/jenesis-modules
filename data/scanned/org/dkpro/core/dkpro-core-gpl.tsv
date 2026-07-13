@@ -1,1 +1,11 @@
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/1.11.0/dkpro-core-gpl-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/1.11.1/dkpro-core-gpl-1.11.1.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/1.12.0/dkpro-core-gpl-1.12.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.0.0/dkpro-core-gpl-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.1.0/dkpro-core-gpl-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.2.0/dkpro-core-gpl-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.3.0/dkpro-core-gpl-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.3.1/dkpro-core-gpl-2.3.1.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.4.0/dkpro-core-gpl-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/2.5.0/dkpro-core-gpl-2.5.0.jar returned status 404
 3.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/core/dkpro-core-gpl/3.0.0-beta-1/dkpro-core-gpl-3.0.0-beta-1.jar returned status 404

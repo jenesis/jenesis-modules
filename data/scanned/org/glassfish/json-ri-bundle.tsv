@@ -1,3 +1,5 @@
 2.0.0		2020-08-04T05:09:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-ri-bundle/2.0.0/json-ri-bundle-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-ri-bundle/2.0.0-RC1/json-ri-bundle-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-ri-bundle/2.0.0-RC2/json-ri-bundle-2.0.0-RC2.jar returned status 404
 2.0.0-RC3		2020-06-18T10:14:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-ri-bundle/2.0.0-RC3/json-ri-bundle-2.0.0-RC3.jar returned status 404
 2.0.1		2021-03-26T12:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-ri-bundle/2.0.1/json-ri-bundle-2.0.1.jar returned status 404

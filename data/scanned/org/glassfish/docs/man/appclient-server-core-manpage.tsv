@@ -20,3 +20,22 @@
 3.2-b01		2011-06-16T18:59:04Z	
 3.2-b02		2011-06-28T20:04:51Z	
 3.2-b03		2011-07-07T22:52:50Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b01/appclient-server-core-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b02/appclient-server-core-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b03/appclient-server-core-manpage-4.0-b03.jar returned status 404
+4.0-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b04/appclient-server-core-manpage-4.0-b04.jar returned status 404
+4.0-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b05/appclient-server-core-manpage-4.0-b05.jar returned status 404
+4.0-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b06/appclient-server-core-manpage-4.0-b06.jar returned status 404
+4.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b07/appclient-server-core-manpage-4.0-b07.jar returned status 404
+4.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b08/appclient-server-core-manpage-4.0-b08.jar returned status 404
+4.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b09/appclient-server-core-manpage-4.0-b09.jar returned status 404
+4.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b11/appclient-server-core-manpage-4.0-b11.jar returned status 404
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b13/appclient-server-core-manpage-4.0-b13.jar returned status 404
+4.0-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b15/appclient-server-core-manpage-4.0-b15.jar returned status 404
+4.0-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b16/appclient-server-core-manpage-4.0-b16.jar returned status 404
+4.0-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b21/appclient-server-core-manpage-4.0-b21.jar returned status 404
+4.0-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b24/appclient-server-core-manpage-4.0-b24.jar returned status 404
+4.0-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b26/appclient-server-core-manpage-4.0-b26.jar returned status 404
+4.0-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b27/appclient-server-core-manpage-4.0-b27.jar returned status 404
+4.0-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.0-b28/appclient-server-core-manpage-4.0-b28.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/appclient-server-core-manpage/4.1/appclient-server-core-manpage-4.1.jar returned status 404

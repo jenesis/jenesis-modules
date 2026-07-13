@@ -7,3 +7,12 @@
 4.0-b08		2011-12-13T01:54:28Z	
 4.0-b09		2012-01-09T08:47:44Z	
 4.0-b11		2012-01-22T23:02:15Z	
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b13/console-ejb-plugin-help-4.0-b13.jar returned status 404
+4.0-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b15/console-ejb-plugin-help-4.0-b15.jar returned status 404
+4.0-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b16/console-ejb-plugin-help-4.0-b16.jar returned status 404
+4.0-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b21/console-ejb-plugin-help-4.0-b21.jar returned status 404
+4.0-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b24/console-ejb-plugin-help-4.0-b24.jar returned status 404
+4.0-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b26/console-ejb-plugin-help-4.0-b26.jar returned status 404
+4.0-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b27/console-ejb-plugin-help-4.0-b27.jar returned status 404
+4.0-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.0-b28/console-ejb-plugin-help-4.0-b28.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/help/console-ejb-plugin-help/4.1/console-ejb-plugin-help-4.1.jar returned status 404

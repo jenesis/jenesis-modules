@@ -20,3 +20,22 @@
 3.2-b01		2011-06-16T18:59:17Z	
 3.2-b02		2011-06-28T20:05:04Z	
 3.2-b03		2011-07-07T22:53:03Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b01/connectors-admin-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b02/connectors-admin-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b03/connectors-admin-manpage-4.0-b03.jar returned status 404
+4.0-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b04/connectors-admin-manpage-4.0-b04.jar returned status 404
+4.0-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b05/connectors-admin-manpage-4.0-b05.jar returned status 404
+4.0-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b06/connectors-admin-manpage-4.0-b06.jar returned status 404
+4.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b07/connectors-admin-manpage-4.0-b07.jar returned status 404
+4.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b08/connectors-admin-manpage-4.0-b08.jar returned status 404
+4.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b09/connectors-admin-manpage-4.0-b09.jar returned status 404
+4.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b11/connectors-admin-manpage-4.0-b11.jar returned status 404
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b13/connectors-admin-manpage-4.0-b13.jar returned status 404
+4.0-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b15/connectors-admin-manpage-4.0-b15.jar returned status 404
+4.0-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b16/connectors-admin-manpage-4.0-b16.jar returned status 404
+4.0-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b21/connectors-admin-manpage-4.0-b21.jar returned status 404
+4.0-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b24/connectors-admin-manpage-4.0-b24.jar returned status 404
+4.0-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b26/connectors-admin-manpage-4.0-b26.jar returned status 404
+4.0-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b27/connectors-admin-manpage-4.0-b27.jar returned status 404
+4.0-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.0-b28/connectors-admin-manpage-4.0-b28.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/connectors-admin-manpage/4.1/connectors-admin-manpage-4.1.jar returned status 404

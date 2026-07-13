@@ -1,3 +1,8 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rouplex/rouplex-platform-parent/1.0/rouplex-platform-parent-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rouplex/rouplex-platform-parent/1.0.1/rouplex-platform-parent-1.0.1.jar returned status 404
 1.0.1	jdk16	2017-05-30T10:20:32Z	
 1.0.1	jdk17	2017-05-30T10:25:55Z	
 1.0.1	jdk18	2017-05-30T10:35:59Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rouplex/rouplex-platform-parent/1.0.2/rouplex-platform-parent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rouplex/rouplex-platform-parent/1.0.3/rouplex-platform-parent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rouplex/rouplex-platform-parent/1.0.4/rouplex-platform-parent-1.0.4.jar returned status 404

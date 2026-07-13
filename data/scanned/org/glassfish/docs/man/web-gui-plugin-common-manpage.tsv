@@ -20,3 +20,22 @@
 3.2-b01		2011-06-16T19:00:08Z	
 3.2-b02		2011-06-28T20:06:01Z	
 3.2-b03		2011-07-07T22:53:51Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b01/web-gui-plugin-common-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b02/web-gui-plugin-common-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b03/web-gui-plugin-common-manpage-4.0-b03.jar returned status 404
+4.0-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b04/web-gui-plugin-common-manpage-4.0-b04.jar returned status 404
+4.0-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b05/web-gui-plugin-common-manpage-4.0-b05.jar returned status 404
+4.0-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b06/web-gui-plugin-common-manpage-4.0-b06.jar returned status 404
+4.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b07/web-gui-plugin-common-manpage-4.0-b07.jar returned status 404
+4.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b08/web-gui-plugin-common-manpage-4.0-b08.jar returned status 404
+4.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b09/web-gui-plugin-common-manpage-4.0-b09.jar returned status 404
+4.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b11/web-gui-plugin-common-manpage-4.0-b11.jar returned status 404
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b13/web-gui-plugin-common-manpage-4.0-b13.jar returned status 404
+4.0-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b15/web-gui-plugin-common-manpage-4.0-b15.jar returned status 404
+4.0-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b16/web-gui-plugin-common-manpage-4.0-b16.jar returned status 404
+4.0-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b21/web-gui-plugin-common-manpage-4.0-b21.jar returned status 404
+4.0-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b24/web-gui-plugin-common-manpage-4.0-b24.jar returned status 404
+4.0-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b26/web-gui-plugin-common-manpage-4.0-b26.jar returned status 404
+4.0-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b27/web-gui-plugin-common-manpage-4.0-b27.jar returned status 404
+4.0-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.0-b28/web-gui-plugin-common-manpage-4.0-b28.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/web-gui-plugin-common-manpage/4.1/web-gui-plugin-common-manpage-4.1.jar returned status 404

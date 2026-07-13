@@ -20,3 +20,22 @@
 3.2-b01		2011-06-16T18:59:35Z	
 3.2-b02		2011-06-28T20:05:27Z	
 3.2-b03		2011-07-07T22:53:21Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b01/flashlight-framework-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b02/flashlight-framework-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b03/flashlight-framework-manpage-4.0-b03.jar returned status 404
+4.0-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b04/flashlight-framework-manpage-4.0-b04.jar returned status 404
+4.0-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b05/flashlight-framework-manpage-4.0-b05.jar returned status 404
+4.0-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b06/flashlight-framework-manpage-4.0-b06.jar returned status 404
+4.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b07/flashlight-framework-manpage-4.0-b07.jar returned status 404
+4.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b08/flashlight-framework-manpage-4.0-b08.jar returned status 404
+4.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b09/flashlight-framework-manpage-4.0-b09.jar returned status 404
+4.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b11/flashlight-framework-manpage-4.0-b11.jar returned status 404
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b13/flashlight-framework-manpage-4.0-b13.jar returned status 404
+4.0-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b15/flashlight-framework-manpage-4.0-b15.jar returned status 404
+4.0-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b16/flashlight-framework-manpage-4.0-b16.jar returned status 404
+4.0-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b21/flashlight-framework-manpage-4.0-b21.jar returned status 404
+4.0-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b24/flashlight-framework-manpage-4.0-b24.jar returned status 404
+4.0-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b26/flashlight-framework-manpage-4.0-b26.jar returned status 404
+4.0-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b27/flashlight-framework-manpage-4.0-b27.jar returned status 404
+4.0-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.0-b28/flashlight-framework-manpage-4.0-b28.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/flashlight-framework-manpage/4.1/flashlight-framework-manpage-4.1.jar returned status 404

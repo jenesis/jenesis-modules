@@ -1,3 +1,5 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-bundles/2.0.0/json-bundles-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-bundles/2.0.0-RC1/json-bundles-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-bundles/2.0.0-RC2/json-bundles-2.0.0-RC2.jar returned status 404
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-bundles/2.0.0-RC3/json-bundles-2.0.0-RC3.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/json-bundles/2.0.1/json-bundles-2.0.1.jar returned status 404

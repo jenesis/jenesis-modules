@@ -20,3 +20,14 @@
 3.2-b01		2011-06-16T18:59:32Z	
 3.2-b02		2011-06-28T20:05:23Z	
 3.2-b03		2011-07-07T22:53:18Z	
+4.0-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b01/ejb-ejb-container-manpage-4.0-b01.jar returned status 404
+4.0-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b02/ejb-ejb-container-manpage-4.0-b02.jar returned status 404
+4.0-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b03/ejb-ejb-container-manpage-4.0-b03.jar returned status 404
+4.0-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b04/ejb-ejb-container-manpage-4.0-b04.jar returned status 404
+4.0-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b05/ejb-ejb-container-manpage-4.0-b05.jar returned status 404
+4.0-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b06/ejb-ejb-container-manpage-4.0-b06.jar returned status 404
+4.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b07/ejb-ejb-container-manpage-4.0-b07.jar returned status 404
+4.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b08/ejb-ejb-container-manpage-4.0-b08.jar returned status 404
+4.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b09/ejb-ejb-container-manpage-4.0-b09.jar returned status 404
+4.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b11/ejb-ejb-container-manpage-4.0-b11.jar returned status 404
+4.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/docs/man/ejb-ejb-container-manpage/4.0-b13/ejb-ejb-container-manpage-4.0-b13.jar returned status 404
