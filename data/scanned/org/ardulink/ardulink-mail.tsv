@@ -2,3 +2,4 @@
 2.0.1		2016-11-05T18:04:52Z	
 2.1.0		2018-01-13T10:43:27Z	
 2.1.1		2019-05-17T08:13:58Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ardulink/ardulink-mail/2.2.0/ardulink-mail-2.2.0.jar returned status 404

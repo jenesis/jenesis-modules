@@ -1,3 +1,12 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/1/oss-parent-1.jar returned status 404
 13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/13/oss-parent-13.jar returned status 404
 14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/14/oss-parent-14.jar returned status 404
 15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/15/oss-parent-15.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/2/oss-parent-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/3/oss-parent-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/4/oss-parent-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/5/oss-parent-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/6/oss-parent-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/7/oss-parent-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/8/oss-parent-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tomitribe/oss-parent/9/oss-parent-9.jar returned status 404

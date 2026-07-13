@@ -1,3 +1,4 @@
 1.0.0		2021-11-05T22:17:48Z	
 1.0.1		2021-11-07T15:18:15Z	
 1.0.2		2021-11-13T15:20:27Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openbites/distributed-lock/2.0.1/distributed-lock-2.0.1.jar returned status 404

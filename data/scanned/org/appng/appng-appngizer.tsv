@@ -1,3 +1,18 @@
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.14.1/appng-appngizer-1.14.1.jar returned status 404
+1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.14.4/appng-appngizer-1.14.4.jar returned status 404
+1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.15.0/appng-appngizer-1.15.0.jar returned status 404
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.16.0/appng-appngizer-1.16.0.jar returned status 404
+1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.16.1/appng-appngizer-1.16.1.jar returned status 404
+1.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.16.2/appng-appngizer-1.16.2.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.17.0/appng-appngizer-1.17.0.jar returned status 404
+1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.17.1/appng-appngizer-1.17.1.jar returned status 404
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.18.0/appng-appngizer-1.18.0.jar returned status 404
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.19.0/appng-appngizer-1.19.0.jar returned status 404
+1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.19.1/appng-appngizer-1.19.1.jar returned status 404
+1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.20.0/appng-appngizer-1.20.0.jar returned status 404
+1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.20.1/appng-appngizer-1.20.1.jar returned status 404
+1.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.20.2/appng-appngizer-1.20.2.jar returned status 404
+1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.21.0/appng-appngizer-1.21.0.jar returned status 404
 1.22.0		2020-10-05T11:24:59Z	
 1.22.1		2020-11-23T10:05:03Z	
 1.23.0		2021-10-12T08:57:14Z	
@@ -6,4 +21,5 @@
 1.23.3		2021-12-03T11:54:03Z	
 1.24.0		2021-12-21T10:31:46Z	
 1.24.2		2022-02-07T16:26:57Z	
+1.24.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appng/appng-appngizer/1.24.4/appng-appngizer-1.24.4.jar returned status 404
 1.24.5		2022-06-21T14:23:28Z	

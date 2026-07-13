@@ -38,54 +38,80 @@
 7.37.0.Final	thorntail	2020-05-04T17:19:30Z	
 7.38.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.38.0.Final/process-migration-service-7.38.0.Final.jar returned status 404
 7.38.0.Final	thorntail	2020-05-26T09:56:54Z	
+7.39.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.39.0.Final/process-migration-service-7.39.0.Final.jar returned status 404
 7.39.0.Final	thorntail	2020-06-29T17:33:43Z	
+7.40.0.20200703			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.40.0.20200703/process-migration-service-7.40.0.20200703.jar returned status 404
 7.40.0.20200703	classes	2020-07-03T23:49:04Z	
 7.40.0.20200703	thorntail	2020-07-03T23:49:06Z	
+7.40.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.40.0.Final/process-migration-service-7.40.0.Final.jar returned status 404
 7.40.0.Final	classes	2020-07-07T07:12:19Z	
 7.40.0.Final	thorntail	2020-07-07T07:12:21Z	
+7.41.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.41.0.Final/process-migration-service-7.41.0.Final.jar returned status 404
 7.41.0.Final	classes	2020-07-28T10:39:46Z	
 7.41.0.Final	thorntail	2020-07-28T10:39:49Z	
+7.41.0.t20200723			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.41.0.t20200723/process-migration-service-7.41.0.t20200723.jar returned status 404
 7.41.0.t20200723	classes	2020-07-24T07:32:56Z	
 7.41.0.t20200723	thorntail	2020-07-24T07:32:59Z	
+7.42.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.42.0.Final/process-migration-service-7.42.0.Final.jar returned status 404
 7.42.0.Final	classes	2020-08-17T16:31:00Z	
 7.42.0.Final	thorntail	2020-08-17T16:31:02Z	
+7.43.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.43.0.Final/process-migration-service-7.43.0.Final.jar returned status 404
 7.43.0.Final	classes	2020-09-08T08:08:36Z	
 7.43.0.Final	thorntail	2020-09-08T08:08:38Z	
+7.43.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.43.1.Final/process-migration-service-7.43.1.Final.jar returned status 404
 7.43.1.Final	classes	2020-09-14T16:57:11Z	
 7.43.1.Final	thorntail	2020-09-14T16:57:12Z	
+7.44.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.44.0.Final/process-migration-service-7.44.0.Final.jar returned status 404
 7.44.0.Final	classes	2020-10-02T21:10:54Z	
 7.44.0.Final	thorntail	2020-10-02T21:10:55Z	
+7.45.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.45.0.Final/process-migration-service-7.45.0.Final.jar returned status 404
 7.45.0.Final	classes	2020-10-19T20:45:30Z	
 7.45.0.Final	thorntail	2020-10-19T20:45:31Z	
+7.45.0.t20201009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.45.0.t20201009/process-migration-service-7.45.0.t20201009.jar returned status 404
 7.45.0.t20201009	classes	2020-10-10T04:35:13Z	
 7.45.0.t20201009	thorntail	2020-10-10T04:35:15Z	
+7.45.0.t20201014			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.45.0.t20201014/process-migration-service-7.45.0.t20201014.jar returned status 404
 7.45.0.t20201014	classes	2020-10-15T07:39:51Z	
 7.45.0.t20201014	thorntail	2020-10-15T07:39:51Z	
+7.46.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.46.0.Final/process-migration-service-7.46.0.Final.jar returned status 404
 7.46.0.Final	classes	2020-11-09T19:33:51Z	
 7.46.0.Final	thorntail	2020-11-09T19:33:52Z	
+7.47.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.47.0.Final/process-migration-service-7.47.0.Final.jar returned status 404
 7.47.0.Final	classes	2020-12-02T09:15:22Z	
 7.47.0.Final	thorntail	2020-12-02T09:15:24Z	
+7.48.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.48.0.Final/process-migration-service-7.48.0.Final.jar returned status 404
 7.48.0.Final	classes	2021-01-12T16:04:24Z	
 7.48.0.Final	thorntail	2021-01-12T16:04:26Z	
+7.49.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.49.0.Final/process-migration-service-7.49.0.Final.jar returned status 404
 7.49.0.Final	classes	2021-02-03T01:38:13Z	
 7.49.0.Final	thorntail	2021-02-03T01:38:13Z	
+7.50.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.50.0.Final/process-migration-service-7.50.0.Final.jar returned status 404
 7.50.0.Final	classes	2021-02-15T21:27:25Z	
 7.50.0.Final	thorntail	2021-02-15T21:27:25Z	
+7.51.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.51.0.Final/process-migration-service-7.51.0.Final.jar returned status 404
 7.51.0.Final	classes	2021-03-09T21:40:31Z	
 7.51.0.Final	thorntail	2021-03-09T21:40:31Z	
+7.52.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.52.0.Final/process-migration-service-7.52.0.Final.jar returned status 404
 7.52.0.Final	classes	2021-03-31T00:00:20Z	
 7.52.0.Final	thorntail	2021-03-31T00:00:20Z	
+7.53.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.53.0.Final/process-migration-service-7.53.0.Final.jar returned status 404
 7.53.0.Final	classes	2021-04-21T11:44:55Z	
 7.53.0.Final	thorntail	2021-04-21T11:44:55Z	
+7.54.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.54.0.Final/process-migration-service-7.54.0.Final.jar returned status 404
 7.54.0.Final	classes	2021-05-11T18:27:42Z	
 7.54.0.Final	thorntail	2021-05-11T18:27:42Z	
+7.55.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.55.0.Final/process-migration-service-7.55.0.Final.jar returned status 404
 7.55.0.Final	classes	2021-06-03T21:15:49Z	
 7.55.0.Final	thorntail	2021-06-03T21:15:49Z	
+7.56.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.56.0.Final/process-migration-service-7.56.0.Final.jar returned status 404
 7.56.0.Final	classes	2021-06-22T19:14:11Z	
 7.56.0.Final	thorntail	2021-06-22T19:14:11Z	
+7.57.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.57.0.Final/process-migration-service-7.57.0.Final.jar returned status 404
 7.57.0.Final	classes	2021-07-14T00:56:59Z	
 7.57.0.Final	thorntail	2021-07-14T00:56:59Z	
+7.58.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.58.0.Final/process-migration-service-7.58.0.Final.jar returned status 404
 7.58.0.Final	classes	2021-08-02T20:35:48Z	
 7.58.0.Final	thorntail	2021-08-02T20:35:48Z	
+7.59.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/process-migration-service/7.59.0.Final/process-migration-service-7.59.0.Final.jar returned status 404
 7.59.0.Final	classes	2021-08-26T02:32:18Z	
 7.59.0.Final	thorntail	2021-08-26T02:32:19Z	

@@ -1,19 +1,38 @@
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta2/guvnor-ala-distribution-7.0.0.Beta2.jar returned status 404
 7.0.0.Beta2	swarm	2016-10-01T07:10:00Z	
+7.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta3/guvnor-ala-distribution-7.0.0.Beta3.jar returned status 404
 7.0.0.Beta3	swarm	2016-11-15T20:00:22Z	
+7.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta4/guvnor-ala-distribution-7.0.0.Beta4.jar returned status 404
 7.0.0.Beta4	swarm	2016-12-02T20:01:07Z	
+7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta5/guvnor-ala-distribution-7.0.0.Beta5.jar returned status 404
 7.0.0.Beta5	swarm	2016-12-22T14:01:30Z	
+7.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta6/guvnor-ala-distribution-7.0.0.Beta6.jar returned status 404
 7.0.0.Beta6	swarm	2017-01-25T14:47:41Z	
+7.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta7/guvnor-ala-distribution-7.0.0.Beta7.jar returned status 404
 7.0.0.Beta7	swarm	2017-03-07T16:40:48Z	
+7.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Beta8/guvnor-ala-distribution-7.0.0.Beta8.jar returned status 404
 7.0.0.Beta8	swarm	2017-03-28T15:48:16Z	
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.CR1/guvnor-ala-distribution-7.0.0.CR1.jar returned status 404
 7.0.0.CR1	swarm	2017-04-06T20:27:37Z	
+7.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.CR2/guvnor-ala-distribution-7.0.0.CR2.jar returned status 404
 7.0.0.CR2	swarm	2017-04-26T13:05:32Z	
+7.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.CR3/guvnor-ala-distribution-7.0.0.CR3.jar returned status 404
 7.0.0.CR3	swarm	2017-05-02T12:21:54Z	
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.0.0.Final/guvnor-ala-distribution-7.0.0.Final.jar returned status 404
 7.0.0.Final	swarm	2017-05-26T10:12:13Z	
+7.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.1.0.Beta1/guvnor-ala-distribution-7.1.0.Beta1.jar returned status 404
 7.1.0.Beta1	swarm	2017-05-04T13:35:41Z	
+7.1.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.1.0.Beta2/guvnor-ala-distribution-7.1.0.Beta2.jar returned status 404
 7.1.0.Beta2	swarm	2017-05-31T13:24:44Z	
+7.1.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.1.0.Beta3/guvnor-ala-distribution-7.1.0.Beta3.jar returned status 404
 7.1.0.Beta3	swarm	2017-06-19T17:43:06Z	
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.1.0.Final/guvnor-ala-distribution-7.1.0.Final.jar returned status 404
 7.1.0.Final	swarm	2017-07-14T14:57:14Z	
+7.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.2.0.Final/guvnor-ala-distribution-7.2.0.Final.jar returned status 404
 7.2.0.Final	swarm	2017-08-15T08:48:09Z	
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.3.0.Final/guvnor-ala-distribution-7.3.0.Final.jar returned status 404
 7.3.0.Final	swarm	2017-09-04T14:36:02Z	
+7.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.4.0.Final/guvnor-ala-distribution-7.4.0.Final.jar returned status 404
 7.4.0.Final	swarm	2017-10-10T14:14:09Z	
+7.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/guvnor/guvnor-ala-distribution/7.4.1.Final/guvnor-ala-distribution-7.4.1.Final.jar returned status 404
 7.4.1.Final	swarm	2017-10-24T12:03:03Z	

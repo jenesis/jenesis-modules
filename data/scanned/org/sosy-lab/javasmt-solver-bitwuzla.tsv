@@ -1,5 +1,7 @@
+0.4.0-g4dbf3b1f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-bitwuzla/0.4.0-g4dbf3b1f/javasmt-solver-bitwuzla-0.4.0-g4dbf3b1f.jar returned status 404
 0.4.0-g4dbf3b1f	bitwuzla	2024-05-30T17:45:43Z	
 0.6.0-g2b3d69a7		2024-10-28T18:59:04Z	
+0.6.0-gab3db0e6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-bitwuzla/0.6.0-gab3db0e6/javasmt-solver-bitwuzla-0.6.0-gab3db0e6.jar returned status 404
 0.6.0-gab3db0e6	bitwuzla	2024-10-27T09:19:38Z	
 0.7.0-13.1-g595512ae		2025-01-17T20:01:22Z	
 0.8.0-gb29041fb		2026-03-31T22:05:16Z	

@@ -9,6 +9,8 @@
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/0.9.1/datavec-data-0.9.1.jar returned status 404
 1.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-M1/datavec-data-1.0.0-M1.jar returned status 404
 1.0.0-M1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-M1.1/datavec-data-1.0.0-M1.1.jar returned status 404
+1.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-M2/datavec-data-1.0.0-M2.jar returned status 404
+1.0.0-M2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-M2.1/datavec-data-1.0.0-M2.1.jar returned status 404
 1.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-alpha/datavec-data-1.0.0-alpha.jar returned status 404
 1.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-beta/datavec-data-1.0.0-beta.jar returned status 404
 1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/datavec/datavec-data/1.0.0-beta2/datavec-data-1.0.0-beta2.jar returned status 404

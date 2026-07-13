@@ -1,6 +1,10 @@
+2.5.2-g7f502169			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-opensmt/2.5.2-g7f502169/javasmt-solver-opensmt-2.5.2-g7f502169.jar returned status 404
 2.5.2-g7f502169	opensmt	2023-11-10T21:26:05Z	
+2.6.0-g2f72cc0e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-opensmt/2.6.0-g2f72cc0e/javasmt-solver-opensmt-2.6.0-g2f72cc0e.jar returned status 404
 2.6.0-g2f72cc0e	opensmt	2024-05-19T08:49:35Z	
+2.6.0-g48b72153			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-opensmt/2.6.0-g48b72153/javasmt-solver-opensmt-2.6.0-g48b72153.jar returned status 404
 2.6.0-g48b72153	opensmt	2024-05-19T08:31:43Z	
+2.8.0-ge831bf23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-opensmt/2.8.0-ge831bf23/javasmt-solver-opensmt-2.8.0-ge831bf23.jar returned status 404
 2.8.0-ge831bf23	opensmt	2025-01-12T14:11:08Z	
 2.8.0-sosy0-ge831bf23		2025-01-19T19:39:13Z	
 2.9.0-gef441e1c		2025-04-27T13:14:31Z	

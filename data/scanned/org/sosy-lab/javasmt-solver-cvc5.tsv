@@ -1,7 +1,9 @@
 1.0.1-g8c2b8db17	cvc5	2022-10-04T18:26:32Z	
 1.0.2-g40f1137e5	cvc5	2022-12-04T11:43:01Z	
+1.0.5-g4cb2ab9eb			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-cvc5/1.0.5-g4cb2ab9eb/javasmt-solver-cvc5-1.0.5-g4cb2ab9eb.jar returned status 404
 1.0.5-g4cb2ab9eb	cvc5	2023-04-14T09:02:02Z	
 1.2.1-g8594a8e4dc		2025-03-28T20:31:01Z	
+2025-04-03-ee76c36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sosy-lab/javasmt-solver-cvc5/2025-04-03-ee76c36/javasmt-solver-cvc5-2025-04-03-ee76c36.jar returned status 404
 2025-05-16-8aeaa19		2026-03-31T22:28:35Z	
 2025-07-21-6a4791b		2026-03-31T22:30:18Z	
 2025-07-24-bc009af		2026-03-31T22:31:01Z	
