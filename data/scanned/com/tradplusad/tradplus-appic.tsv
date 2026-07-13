@@ -1,4 +1,9 @@
+54.10.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.0.0.1/tradplus-appic-54.10.0.0.1.jar returned status 404
+54.10.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.0.1.1/tradplus-appic-54.10.0.1.1.jar returned status 404
+54.10.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.1.0.1/tradplus-appic-54.10.1.0.1.jar returned status 404
+54.10.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.2.0.1/tradplus-appic-54.10.2.0.1.jar returned status 404
 54.10.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.3.0.1/tradplus-appic-54.10.3.0.1.jar returned status 404
+54.10.3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.3.11.1/tradplus-appic-54.10.3.11.1.jar returned status 404
 54.10.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.4.0.1/tradplus-appic-54.10.4.0.1.jar returned status 404
 54.10.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.5.0.1/tradplus-appic-54.10.5.0.1.jar returned status 404
 54.10.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.10.6.0.1/tradplus-appic-54.10.6.0.1.jar returned status 404
@@ -71,6 +76,7 @@
 54.13.9.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.13.9.30.1/tradplus-appic-54.13.9.30.1.jar returned status 404
 54.14.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.0.0.1/tradplus-appic-54.14.0.0.1.jar returned status 404
 54.14.0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.0.10.1/tradplus-appic-54.14.0.10.1.jar returned status 404
+54.14.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.1.0.1/tradplus-appic-54.14.1.0.1.jar returned status 404
 54.14.1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.1.10.1/tradplus-appic-54.14.1.10.1.jar returned status 404
 54.14.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.2.0.1/tradplus-appic-54.14.2.0.1.jar returned status 404
 54.14.2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.14.2.10.1/tradplus-appic-54.14.2.10.1.jar returned status 404
@@ -124,3 +130,40 @@
 54.16.2.0.1		2026-06-09T03:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.16.2.0.1/tradplus-appic-54.16.2.0.1.jar returned status 404
 54.16.3.0.1		2026-06-22T08:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.16.3.0.1/tradplus-appic-54.16.3.0.1.jar returned status 404
 54.16.4.0.1		2026-07-06T04:00:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.16.4.0.1/tradplus-appic-54.16.4.0.1.jar returned status 404
+54.8.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.4.0.1/tradplus-appic-54.8.4.0.1.jar returned status 404
+54.8.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.5.0.1/tradplus-appic-54.8.5.0.1.jar returned status 404
+54.8.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.6.0.1/tradplus-appic-54.8.6.0.1.jar returned status 404
+54.8.6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.6.10.1/tradplus-appic-54.8.6.10.1.jar returned status 404
+54.8.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.7.0.1/tradplus-appic-54.8.7.0.1.jar returned status 404
+54.8.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.7.10.1/tradplus-appic-54.8.7.10.1.jar returned status 404
+54.8.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.8.0.1/tradplus-appic-54.8.8.0.1.jar returned status 404
+54.8.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.9.0.1/tradplus-appic-54.8.9.0.1.jar returned status 404
+54.8.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.8.9.10.1/tradplus-appic-54.8.9.10.1.jar returned status 404
+54.9.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.0.0.1/tradplus-appic-54.9.0.0.1.jar returned status 404
+54.9.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.1.0.1/tradplus-appic-54.9.1.0.1.jar returned status 404
+54.9.1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.1.10.1/tradplus-appic-54.9.1.10.1.jar returned status 404
+54.9.1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.1.20.1/tradplus-appic-54.9.1.20.1.jar returned status 404
+54.9.1.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.1.30.1/tradplus-appic-54.9.1.30.1.jar returned status 404
+54.9.1.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.1.40.1/tradplus-appic-54.9.1.40.1.jar returned status 404
+54.9.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.2.0.1/tradplus-appic-54.9.2.0.1.jar returned status 404
+54.9.2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.2.10.1/tradplus-appic-54.9.2.10.1.jar returned status 404
+54.9.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.3.0.1/tradplus-appic-54.9.3.0.1.jar returned status 404
+54.9.3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.3.10.1/tradplus-appic-54.9.3.10.1.jar returned status 404
+54.9.3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.3.20.1/tradplus-appic-54.9.3.20.1.jar returned status 404
+54.9.3.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.3.30.1/tradplus-appic-54.9.3.30.1.jar returned status 404
+54.9.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.0.1/tradplus-appic-54.9.4.0.1.jar returned status 404
+54.9.4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.10.1/tradplus-appic-54.9.4.10.1.jar returned status 404
+54.9.4.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.20.1/tradplus-appic-54.9.4.20.1.jar returned status 404
+54.9.4.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.30.1/tradplus-appic-54.9.4.30.1.jar returned status 404
+54.9.4.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.40.1/tradplus-appic-54.9.4.40.1.jar returned status 404
+54.9.4.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.4.50.1/tradplus-appic-54.9.4.50.1.jar returned status 404
+54.9.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.5.0.1/tradplus-appic-54.9.5.0.1.jar returned status 404
+54.9.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.6.0.1/tradplus-appic-54.9.6.0.1.jar returned status 404
+54.9.6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.6.10.1/tradplus-appic-54.9.6.10.1.jar returned status 404
+54.9.6.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.6.20.1/tradplus-appic-54.9.6.20.1.jar returned status 404
+54.9.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.7.0.1/tradplus-appic-54.9.7.0.1.jar returned status 404
+54.9.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.7.10.1/tradplus-appic-54.9.7.10.1.jar returned status 404
+54.9.7.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.7.30.1/tradplus-appic-54.9.7.30.1.jar returned status 404
+54.9.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.8.0.1/tradplus-appic-54.9.8.0.1.jar returned status 404
+54.9.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.9.0.1/tradplus-appic-54.9.9.0.1.jar returned status 404
+54.9.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-appic/54.9.9.10.1/tradplus-appic-54.9.9.10.1.jar returned status 404
