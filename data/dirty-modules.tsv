@@ -2337,3 +2337,13 @@ software.amazon.awssdk.protocols.rpcv2
 software.amazon.awssdk.services.voiceid
 software.amazon.awssdk.services.opensearch
 software.amazon.awssdk.services.managedblockchain
+software.amazon.awssdk.protocols.json
+software.amazon.awssdk.services.cognitoidentity
+software.amazon.awssdk.services.cloudsearch
+software.amazon.awssdk.services.detective
+software.amazon.awssdk.services.marketplacecatalog
+software.amazon.awssdk.services.signer
+software.amazon.awssdk.annotations
+software.amazon.awssdk.services.paymentcryptographydata
+software.amazon.awssdk.services.connectcontactlens
+software.amazon.awssdk.utils
