@@ -1,5 +1,9 @@
+1.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/xnio/xnio-metadata/1.0.0.CR1/xnio-metadata-1.0.0.CR1.jar returned status 404
+1.0.0.GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/xnio/xnio-metadata/1.0.0.GA/xnio-metadata-1.0.0.GA.jar returned status 404
+1.0.1.GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/xnio/xnio-metadata/1.0.1.GA/xnio-metadata-1.0.1.GA.jar returned status 404
 2.1.0.CR1		2010-01-20T21:37:36Z	
 2.1.0.CR2		2010-03-10T06:04:36Z	
 2.1.0.CR3		2010-03-11T18:14:02Z	
 2.1.0.CR4		2010-03-12T18:02:44Z	
 2.1.0.CR5		2010-04-06T05:16:51Z	
+2.1.0.CR6-S			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/xnio/xnio-metadata/2.1.0.CR6-S/xnio-metadata-2.1.0.CR6-S.jar returned status 404
