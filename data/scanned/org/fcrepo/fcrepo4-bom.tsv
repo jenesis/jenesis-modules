@@ -1,3 +1,5 @@
+4.0.0-beta-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo4-bom/4.0.0-beta-01/fcrepo4-bom-4.0.0-beta-01.jar returned status 404
+4.0.0-beta-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo4-bom/4.0.0-beta-02/fcrepo4-bom-4.0.0-beta-02.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo4-bom/4.5.0/fcrepo4-bom-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo4-bom/4.5.1/fcrepo4-bom-4.5.1.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo4-bom/4.6.0/fcrepo4-bom-4.6.0.jar returned status 404

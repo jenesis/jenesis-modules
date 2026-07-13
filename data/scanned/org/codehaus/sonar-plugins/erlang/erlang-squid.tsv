@@ -3,3 +3,4 @@
 0.3		2014-05-14T09:59:06Z	
 1.0		2014-05-15T14:21:03Z	
 1.1		2015-01-29T14:41:37Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar-plugins/erlang/erlang-squid/1.2/erlang-squid-1.2.jar returned status 404

@@ -1,3 +1,13 @@
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.14.0/versions-2.14.0.jar returned status 404
+2.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.14.1/versions-2.14.1.jar returned status 404
+2.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.14.2/versions-2.14.2.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.15.0/versions-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.16.0/versions-2.16.0.jar returned status 404
+2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.16.1/versions-2.16.1.jar returned status 404
+2.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.16.2/versions-2.16.2.jar returned status 404
+2.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.17.0/versions-2.17.0.jar returned status 404
+2.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.17.1/versions-2.17.1.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.18.0/versions-2.18.0.jar returned status 404
 2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.19.0/versions-2.19.0.jar returned status 404
 2.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.19.1/versions-2.19.1.jar returned status 404
 2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/versions/versions/2.20.0/versions-2.20.0.jar returned status 404

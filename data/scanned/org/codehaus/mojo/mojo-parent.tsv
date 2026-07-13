@@ -1,20 +1,72 @@
+18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/18/mojo-parent-18.jar returned status 404
+19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/19/mojo-parent-19.jar returned status 404
+20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/20/mojo-parent-20.jar returned status 404
+21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/21/mojo-parent-21.jar returned status 404
+22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/22/mojo-parent-22.jar returned status 404
+23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/23/mojo-parent-23.jar returned status 404
+24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/24/mojo-parent-24.jar returned status 404
+25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/25/mojo-parent-25.jar returned status 404
+26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/26/mojo-parent-26.jar returned status 404
+27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/27/mojo-parent-27.jar returned status 404
+28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.jar returned status 404
+29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/29/mojo-parent-29.jar returned status 404
+30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.jar returned status 404
+31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/31/mojo-parent-31.jar returned status 404
+32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/32/mojo-parent-32.jar returned status 404
+33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/33/mojo-parent-33.jar returned status 404
+34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.jar returned status 404
+35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/35/mojo-parent-35.jar returned status 404
+36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/36/mojo-parent-36.jar returned status 404
+37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/37/mojo-parent-37.jar returned status 404
+38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/38/mojo-parent-38.jar returned status 404
+39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/39/mojo-parent-39.jar returned status 404
+40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/40/mojo-parent-40.jar returned status 404
+50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/50/mojo-parent-50.jar returned status 404
+60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/60/mojo-parent-60.jar returned status 404
+61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/61/mojo-parent-61.jar returned status 404
+62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/62/mojo-parent-62.jar returned status 404
+63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/63/mojo-parent-63.jar returned status 404
+64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/64/mojo-parent-64.jar returned status 404
+65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/65/mojo-parent-65.jar returned status 404
+66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/66/mojo-parent-66.jar returned status 404
+67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/67/mojo-parent-67.jar returned status 404
+68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/68/mojo-parent-68.jar returned status 404
+69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/69/mojo-parent-69.jar returned status 404
+70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/70/mojo-parent-70.jar returned status 404
 70	config	2022-08-15T12:36:38Z	
+71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/71/mojo-parent-71.jar returned status 404
 71	config	2022-10-20T18:24:43Z	
+72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/72/mojo-parent-72.jar returned status 404
 72	config	2022-12-08T09:15:48Z	
+73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/73/mojo-parent-73.jar returned status 404
 73	config	2023-02-18T11:31:17Z	
+74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/74/mojo-parent-74.jar returned status 404
 74	config	2023-03-18T13:19:10Z	
+75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/75/mojo-parent-75.jar returned status 404
 75	config	2023-06-06T08:45:25Z	
+76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/76/mojo-parent-76.jar returned status 404
 76	config	2023-07-02T09:24:23Z	
+77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/77/mojo-parent-77.jar returned status 404
 77	config	2023-10-07T19:16:55Z	
+78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/78/mojo-parent-78.jar returned status 404
 78	config	2024-01-06T10:34:34Z	
+79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/79/mojo-parent-79.jar returned status 404
 79	config	2024-02-20T10:50:07Z	
+80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/80/mojo-parent-80.jar returned status 404
 80	config	2024-02-21T18:34:35Z	
+81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/81/mojo-parent-81.jar returned status 404
 81	config	2024-05-11T15:17:04Z	
+82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/82/mojo-parent-82.jar returned status 404
 82	config	2024-05-13T17:36:26Z	
+83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/83/mojo-parent-83.jar returned status 404
 83	config	2024-06-13T20:55:21Z	
+84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/84/mojo-parent-84.jar returned status 404
 84	config	2024-06-13T22:13:16Z	
+85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/85/mojo-parent-85.jar returned status 404
 85	config	2024-08-11T06:45:07Z	
+86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/86/mojo-parent-86.jar returned status 404
 86	config	2024-09-15T14:09:42Z	
+87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/87/mojo-parent-87.jar returned status 404
 87	config	2025-02-08T11:34:02Z	
 88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/88/mojo-parent-88.jar returned status 404
 88	config	2025-05-23T22:52:14Z	

@@ -1,2 +1,25 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/0.1/sonar-update-center-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/0.2/sonar-update-center-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/0.3/sonar-update-center-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/0.4/sonar-update-center-0.4.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.0/sonar-update-center-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.1/sonar-update-center-1.1.jar returned status 404
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.10/sonar-update-center-1.10.jar returned status 404
+1.10-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.10-RC1/sonar-update-center-1.10-RC1.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.10.1/sonar-update-center-1.10.1.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.11/sonar-update-center-1.11.jar returned status 404
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.12/sonar-update-center-1.12.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.12.1/sonar-update-center-1.12.1.jar returned status 404
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.13/sonar-update-center-1.13.jar returned status 404
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.14/sonar-update-center-1.14.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.3/sonar-update-center-1.3.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.4/sonar-update-center-1.4.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.5/sonar-update-center-1.5.jar returned status 404
+1.5-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.5-RC1/sonar-update-center-1.5-RC1.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.6/sonar-update-center-1.6.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.6.1/sonar-update-center-1.6.1.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.7/sonar-update-center-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.8/sonar-update-center-1.8.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/sonar/sonar-update-center/1.9/sonar-update-center-1.9.jar returned status 404
 2.2M1		2010-05-20T12:44:12Z	
 2.2RC1		2010-07-02T08:07:54Z	

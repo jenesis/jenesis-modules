@@ -1,1 +1,7 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.0/waffle-1.0.jar returned status 404
+1.0-RC-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.0-RC-1/waffle-1.0-RC-1.jar returned status 404
+1.0-RC-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.0-RC-2/waffle-1.0-RC-2.jar returned status 404
 1.0-beta-1		2007-07-28T12:27:40Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.1/waffle-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.2/waffle-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/waffle/waffle/1.3/waffle-1.3.jar returned status 404

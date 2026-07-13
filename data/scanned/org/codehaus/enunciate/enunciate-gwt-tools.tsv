@@ -1,6 +1,7 @@
 1.4		2007-09-17T20:50:32Z	
 1.5		2007-10-22T12:41:55Z	
 1.5-RC1		2007-10-17T16:26:16Z	
+1.5-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/enunciate-gwt-tools/1.5-SNAPSHOT/enunciate-gwt-tools-1.5-SNAPSHOT.jar returned status 404
 1.6		2008-01-09T23:13:21Z	
 1.6-RC1		2008-01-07T15:36:53Z	
 1.7		2008-05-06T21:55:49Z	

@@ -2,5 +2,9 @@
 2.0.0		2016-05-05T09:13:28Z	
 2.0.1		2016-05-05T15:19:09Z	
 2.0.2		2016-05-13T10:17:34Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marvelution/jji/jira-jenkins-plugin/2.1.0/jira-jenkins-plugin-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marvelution/jji/jira-jenkins-plugin/2.1.1/jira-jenkins-plugin-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marvelution/jji/jira-jenkins-plugin/2.1.2/jira-jenkins-plugin-2.1.2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marvelution/jji/jira-jenkins-plugin/2.2.0/jira-jenkins-plugin-2.2.0.jar returned status 404
 2.3.0		2016-11-23T08:17:22Z	
 2.3.1		2016-12-13T10:28:06Z	

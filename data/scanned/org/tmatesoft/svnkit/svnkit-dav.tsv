@@ -1,4 +1,17 @@
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.1/svnkit-dav-1.10.1.jar returned status 404
+1.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.10/svnkit-dav-1.10.10.jar returned status 404
+1.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.11/svnkit-dav-1.10.11.jar returned status 404
 1.10.3		2021-03-12T11:36:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.3/svnkit-dav-1.10.3.jar returned status 404
 1.10.4		2022-01-24T15:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.4/svnkit-dav-1.10.4.jar returned status 404
 1.10.5		2022-03-31T16:05:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.5/svnkit-dav-1.10.5.jar returned status 404
 1.10.6		2022-05-17T09:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.6/svnkit-dav-1.10.6.jar returned status 404
+1.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.7/svnkit-dav-1.10.7.jar returned status 404
+1.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.8/svnkit-dav-1.10.8.jar returned status 404
+1.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.10.9/svnkit-dav-1.10.9.jar returned status 404
+1.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.8.13/svnkit-dav-1.8.13.jar returned status 404
+1.8.13-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.8.13-1/svnkit-dav-1.8.13-1.jar returned status 404
+1.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.8.14/svnkit-dav-1.8.14.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.9.0/svnkit-dav-1.9.0.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.9.1/svnkit-dav-1.9.1.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.9.2/svnkit-dav-1.9.2.jar returned status 404
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tmatesoft/svnkit/svnkit-dav/1.9.3/svnkit-dav-1.9.3.jar returned status 404

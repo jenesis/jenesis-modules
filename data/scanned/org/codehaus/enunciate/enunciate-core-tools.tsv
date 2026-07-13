@@ -5,6 +5,7 @@
 1.4		2007-09-17T20:49:11Z	
 1.5		2007-10-22T12:37:56Z	
 1.5-RC1		2007-10-17T16:23:08Z	
+1.5-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/enunciate-core-tools/1.5-SNAPSHOT/enunciate-core-tools-1.5-SNAPSHOT.jar returned status 404
 1.6		2008-01-09T23:11:41Z	
 1.6-RC1		2008-01-07T15:34:31Z	
 1.7		2008-05-06T21:53:26Z	

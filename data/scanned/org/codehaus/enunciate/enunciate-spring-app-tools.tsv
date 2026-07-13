@@ -1,5 +1,6 @@
 1.5		2007-10-22T12:40:11Z	
 1.5-RC1		2007-10-17T16:26:29Z	
+1.5-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/enunciate/enunciate-spring-app-tools/1.5-SNAPSHOT/enunciate-spring-app-tools-1.5-SNAPSHOT.jar returned status 404
 1.6		2008-01-09T23:13:34Z	
 1.6-RC1		2008-01-07T15:36:27Z	
 1.7		2008-05-06T21:56:37Z	

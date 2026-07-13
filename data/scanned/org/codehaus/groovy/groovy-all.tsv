@@ -308,6 +308,7 @@
 2.4.9		2017-02-27T12:35:23Z	
 2.4.9	groovydoc	2017-02-27T12:37:11Z	
 2.4.9	indy	2017-02-27T12:35:50Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.0/groovy-all-2.5.0.jar returned status 404
 2.5.0	groovydoc	2018-05-30T03:58:04Z	
 2.5.0-alpha-1			InvalidModuleDescriptorException: this_class should be module-info
 2.5.0-alpha-1	groovydoc	2017-04-02T07:29:18Z	
@@ -318,15 +319,25 @@
 2.5.0-beta-2		2017-10-05T10:06:07Z	
 2.5.0-beta-2	groovydoc	2017-10-05T10:04:31Z	
 2.5.0-beta-2	indy	2017-10-05T10:06:25Z	
+2.5.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.0-beta-3/groovy-all-2.5.0-beta-3.jar returned status 404
 2.5.0-beta-3	groovydoc	2018-02-28T10:39:15Z	
+2.5.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.0-rc-1/groovy-all-2.5.0-rc-1.jar returned status 404
 2.5.0-rc-1	groovydoc	2018-04-09T01:45:18Z	
+2.5.0-rc-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.0-rc-2/groovy-all-2.5.0-rc-2.jar returned status 404
 2.5.0-rc-2	groovydoc	2018-05-06T03:11:15Z	
+2.5.0-rc-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.0-rc-3/groovy-all-2.5.0-rc-3.jar returned status 404
 2.5.0-rc-3	groovydoc	2018-05-22T15:57:06Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.1/groovy-all-2.5.1.jar returned status 404
 2.5.1	groovydoc	2018-07-13T13:34:13Z	
+2.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.10/groovy-all-2.5.10.jar returned status 404
 2.5.10	groovydoc	2020-03-06T14:10:49Z	
+2.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.11/groovy-all-2.5.11.jar returned status 404
 2.5.11	groovydoc	2020-04-10T09:09:07Z	
+2.5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.12/groovy-all-2.5.12.jar returned status 404
 2.5.12	groovydoc	2020-05-21T12:09:31Z	
+2.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.13/groovy-all-2.5.13.jar returned status 404
 2.5.13	groovydoc	2020-07-22T03:52:56Z	
+2.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.14/groovy-all-2.5.14.jar returned status 404
 2.5.14	groovydoc	2020-12-03T12:19:32Z	
 2.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.15/groovy-all-2.5.15.jar returned status 404
 2.5.15	groovydoc	2021-09-07T00:11:41Z	
@@ -338,6 +349,7 @@
 2.5.18	groovydoc	2022-07-23T04:05:02Z	
 2.5.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.19/groovy-all-2.5.19.jar returned status 404
 2.5.19	groovydoc	2022-10-16T05:04:11Z	
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.2/groovy-all-2.5.2.jar returned status 404
 2.5.2	groovydoc	2018-08-14T00:21:17Z	
 2.5.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.20/groovy-all-2.5.20.jar returned status 404
 2.5.20	groovydoc	2022-12-24T04:29:15Z	
@@ -347,12 +359,19 @@
 2.5.22	groovydoc	2023-03-31T00:35:37Z	
 2.5.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.23/groovy-all-2.5.23.jar returned status 404
 2.5.23	groovydoc	2023-08-22T06:33:05Z	
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.3/groovy-all-2.5.3.jar returned status 404
 2.5.3	groovydoc	2018-10-14T05:23:02Z	
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.4/groovy-all-2.5.4.jar returned status 404
 2.5.4	groovydoc	2018-11-11T22:19:24Z	
+2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.5/groovy-all-2.5.5.jar returned status 404
 2.5.5	groovydoc	2018-12-24T01:25:13Z	
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.6/groovy-all-2.5.6.jar returned status 404
 2.5.6	groovydoc	2019-02-04T13:17:58Z	
+2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.7/groovy-all-2.5.7.jar returned status 404
 2.5.7	groovydoc	2019-05-10T13:50:37Z	
+2.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.8/groovy-all-2.5.8.jar returned status 404
 2.5.8	groovydoc	2019-08-07T15:13:12Z	
+2.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.5.9/groovy-all-2.5.9.jar returned status 404
 2.5.9	groovydoc	2020-01-14T05:43:15Z	
 2.6.0-alpha-1		2017-09-06T08:16:48Z	
 2.6.0-alpha-1	groovydoc	2017-09-06T08:17:37Z	
@@ -360,21 +379,34 @@
 2.6.0-alpha-2		2017-11-15T04:41:06Z	
 2.6.0-alpha-2	groovydoc	2017-11-15T04:41:49Z	
 2.6.0-alpha-2	indy	2017-11-15T04:41:00Z	
+2.6.0-alpha-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.6.0-alpha-3/groovy-all-2.6.0-alpha-3.jar returned status 404
 2.6.0-alpha-3	groovydoc	2018-03-06T00:31:16Z	
+2.6.0-alpha-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/2.6.0-alpha-4/groovy-all-2.6.0-alpha-4.jar returned status 404
 2.6.0-alpha-4	groovydoc	2018-06-26T08:24:13Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0/groovy-all-3.0.0.jar returned status 404
 3.0.0	groovydoc	2020-02-10T10:03:14Z	
 3.0.0-alpha-1		2017-11-29T08:23:50Z	
 3.0.0-alpha-1	groovydoc	2017-11-29T08:23:53Z	
 3.0.0-alpha-1	indy	2017-11-29T08:23:22Z	
+3.0.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-alpha-2/groovy-all-3.0.0-alpha-2.jar returned status 404
 3.0.0-alpha-2	groovydoc	2018-04-17T03:03:23Z	
+3.0.0-alpha-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-alpha-3/groovy-all-3.0.0-alpha-3.jar returned status 404
 3.0.0-alpha-3	groovydoc	2018-06-26T10:15:49Z	
+3.0.0-alpha-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-alpha-4/groovy-all-3.0.0-alpha-4.jar returned status 404
 3.0.0-alpha-4	groovydoc	2018-12-30T22:02:01Z	
+3.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-beta-1/groovy-all-3.0.0-beta-1.jar returned status 404
 3.0.0-beta-1	groovydoc	2019-05-10T15:00:50Z	
+3.0.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-beta-2/groovy-all-3.0.0-beta-2.jar returned status 404
 3.0.0-beta-2	groovydoc	2019-07-13T16:39:28Z	
+3.0.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-beta-3/groovy-all-3.0.0-beta-3.jar returned status 404
 3.0.0-beta-3	groovydoc	2019-08-07T18:05:19Z	
+3.0.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-rc-1/groovy-all-3.0.0-rc-1.jar returned status 404
 3.0.0-rc-1	groovydoc	2019-10-25T12:46:53Z	
+3.0.0-rc-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-rc-2/groovy-all-3.0.0-rc-2.jar returned status 404
 3.0.0-rc-2	groovydoc	2019-12-08T13:47:09Z	
+3.0.0-rc-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.0-rc-3/groovy-all-3.0.0-rc-3.jar returned status 404
 3.0.0-rc-3	groovydoc	2020-01-15T01:05:49Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.1/groovy-all-3.0.1.jar returned status 404
 3.0.1	groovydoc	2020-02-17T11:22:25Z	
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.10/groovy-all-3.0.10.jar returned status 404
 3.0.10	groovydoc	2022-03-06T11:19:10Z	
@@ -396,6 +428,7 @@
 3.0.18	groovydoc	2023-06-29T07:44:19Z	
 3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.19/groovy-all-3.0.19.jar returned status 404
 3.0.19	groovydoc	2023-08-22T05:28:23Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.2/groovy-all-3.0.2.jar returned status 404
 3.0.2	groovydoc	2020-03-08T12:14:26Z	
 3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.20/groovy-all-3.0.20.jar returned status 404
 3.0.20	groovydoc	2023-12-22T03:21:36Z	
@@ -409,10 +442,15 @@
 3.0.24	groovydoc	2025-02-27T17:12:25Z	
 3.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.25/groovy-all-3.0.25.jar returned status 404
 3.0.25	groovydoc	2025-05-27T03:33:19Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.3/groovy-all-3.0.3.jar returned status 404
 3.0.3	groovydoc	2020-04-10T07:41:18Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.4/groovy-all-3.0.4.jar returned status 404
 3.0.4	groovydoc	2020-05-21T11:13:57Z	
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.5/groovy-all-3.0.5.jar returned status 404
 3.0.5	groovydoc	2020-07-22T13:04:08Z	
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.6/groovy-all-3.0.6.jar returned status 404
 3.0.6	groovydoc	2020-09-29T09:40:00Z	
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.7/groovy-all-3.0.7.jar returned status 404
 3.0.7	groovydoc	2020-12-03T12:35:49Z	
 3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/groovy/groovy-all/3.0.8/groovy-all-3.0.8.jar returned status 404
 3.0.8	groovydoc	2021-04-20T02:42:47Z	
