@@ -1,10 +1,26 @@
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.1.0/management-api-tests-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T09:55:59Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.1.0-beta/management-api-tests-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T06:39:29Z	
 4.1.0-m2		2021-11-26T05:44:42Z	
 4.1.0-m3		2022-01-07T11:18:40Z	
 4.1.0-m4		2022-02-13T03:06:07Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.2.0/management-api-tests-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.2.0-alpha/management-api-tests-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T19:17:08Z	
 4.2.0-m1		2022-11-14T16:26:29Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.3.0/management-api-tests-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.3.0-alpha/management-api-tests-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.3.0-beta/management-api-tests-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.3.0-m1/management-api-tests-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.4.0/management-api-tests-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.4.0-alpha/management-api-tests-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.4.0-beta/management-api-tests-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.4.0-prealpha/management-api-tests-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.5.0/management-api-tests-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.5.0-alpha/management-api-tests-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.5.0-beta/management-api-tests-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/management-api-tests/4.5.0-m1/management-api-tests-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T09:40:04Z	
 4.6.0-alpha		2026-02-17T16:20:16Z	
 4.6.0-alpha2		2026-03-25T18:01:58Z	

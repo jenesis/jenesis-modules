@@ -1,2 +1,7 @@
+1.20.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/google/api-client/google-api-client/1.20.0.wso2v1/google-api-client-1.20.0.wso2v1.jar returned status 404
+1.22.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/google/api-client/google-api-client/1.22.0.wso2v1/google-api-client-1.22.0.wso2v1.jar returned status 404
+1.33.1.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/google/api-client/google-api-client/1.33.1.wso2v1/google-api-client-1.33.1.wso2v1.jar returned status 404
 1.33.1.wso2v2		2023-02-01T12:21:16Z	
 1.33.4.wso2v1		2026-02-02T10:48:28Z	
+1.35.2.wso2v1			
+2.2.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/google/api-client/google-api-client/2.2.0.wso2v1/google-api-client-2.2.0.wso2v1.jar returned status 404

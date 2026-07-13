@@ -8,13 +8,29 @@
 4.0.0-m6		2021-02-02T20:44:26Z	
 4.0.0-m7		2021-02-09T20:59:50Z	
 4.0.0-m8		2021-02-16T15:02:58Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.1.0/org.wso2.micro.integrator.business.messaging.hl7-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T08:00:38Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.1.0-beta/org.wso2.micro.integrator.business.messaging.hl7-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T04:47:13Z	
 4.1.0-m2		2021-11-26T03:51:31Z	
 4.1.0-m3		2022-01-07T09:22:50Z	
 4.1.0-m4		2022-02-13T01:10:32Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.2.0/org.wso2.micro.integrator.business.messaging.hl7-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.2.0-alpha/org.wso2.micro.integrator.business.messaging.hl7-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T17:05:07Z	
 4.2.0-m1		2022-11-14T14:07:29Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.3.0/org.wso2.micro.integrator.business.messaging.hl7-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.3.0-alpha/org.wso2.micro.integrator.business.messaging.hl7-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.3.0-beta/org.wso2.micro.integrator.business.messaging.hl7-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.3.0-m1/org.wso2.micro.integrator.business.messaging.hl7-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.4.0/org.wso2.micro.integrator.business.messaging.hl7-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.4.0-alpha/org.wso2.micro.integrator.business.messaging.hl7-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.4.0-beta/org.wso2.micro.integrator.business.messaging.hl7-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.4.0-prealpha/org.wso2.micro.integrator.business.messaging.hl7-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.5.0/org.wso2.micro.integrator.business.messaging.hl7-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.5.0-alpha/org.wso2.micro.integrator.business.messaging.hl7-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.5.0-beta/org.wso2.micro.integrator.business.messaging.hl7-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.business.messaging.hl7/4.5.0-m1/org.wso2.micro.integrator.business.messaging.hl7-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T06:40:22Z	
 4.6.0-alpha		2026-02-17T13:25:26Z	
 4.6.0-alpha2		2026-03-25T15:06:36Z	

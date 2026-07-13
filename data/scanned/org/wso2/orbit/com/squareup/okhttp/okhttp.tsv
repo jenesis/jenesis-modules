@@ -1,4 +1,17 @@
+2.7.2.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/2.7.2.wso2v1/okhttp-2.7.2.wso2v1.jar returned status 404
+2.7.5.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/2.7.5.wso2v1/okhttp-2.7.5.wso2v1.jar returned status 404
+3.8.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/3.8.0.wso2v1/okhttp-3.8.0.wso2v1.jar returned status 404
+3.8.0.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/3.8.0.wso2v2/okhttp-3.8.0.wso2v2.jar returned status 404
+4.11.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.11.0.wso2v1/okhttp-4.11.0.wso2v1.jar returned status 404
+4.11.0.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.11.0.wso2v2/okhttp-4.11.0.wso2v2.jar returned status 404
+4.12.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.12.0.wso2v1/okhttp-4.12.0.wso2v1.jar returned status 404
+4.12.0.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.12.0.wso2v2/okhttp-4.12.0.wso2v2.jar returned status 404
+4.12.0.wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.12.0.wso2v3/okhttp-4.12.0.wso2v3.jar returned status 404
+4.12.0.wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.12.0.wso2v4/okhttp-4.12.0.wso2v4.jar returned status 404
 4.12.0.wso2v5		2026-05-28T06:00:14Z	
 4.2.0.wso2v1		2020-02-07T05:41:38Z	
+4.9.3.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.9.3.wso2v1/okhttp-4.9.3.wso2v1.jar returned status 404
 4.9.3.wso2v2		2023-01-20T08:34:13Z	
 4.9.3.wso2v3		2023-03-14T05:49:11Z	
+4.9.3.wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.9.3.wso2v4/okhttp-4.9.3.wso2v4.jar returned status 404
+4.9.3.wso2v5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/squareup/okhttp/okhttp/4.9.3.wso2v5/okhttp-4.9.3.wso2v5.jar returned status 404

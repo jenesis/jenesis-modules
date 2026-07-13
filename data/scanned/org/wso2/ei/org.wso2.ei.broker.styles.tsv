@@ -1,3 +1,6 @@
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.0.0/org.wso2.ei.broker.styles-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.1.0/org.wso2.ei.broker.styles-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.1.1/org.wso2.ei.broker.styles-6.1.1.jar returned status 404
 6.1.1-update10		2017-11-23T12:20:22Z	
 6.1.1-update11		2017-12-02T11:09:02Z	
 6.1.1-update12		2017-12-06T22:42:06Z	
@@ -13,6 +16,7 @@
 6.1.1-update22		2018-02-21T16:57:12Z	
 6.1.1-update23		2018-02-28T19:33:39Z	
 6.1.1-update24		2018-03-11T10:09:06Z	
+6.1.1-update5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.1.1-update5/org.wso2.ei.broker.styles-6.1.1-update5.jar returned status 404
 6.1.1-update6		2017-10-04T09:04:36Z	
 6.1.1-update8		2017-10-30T13:49:57Z	
 6.1.1-update9		2017-11-13T18:24:29Z	
@@ -43,3 +47,6 @@
 6.5.0-m1		2018-10-31T21:26:25Z	
 6.5.0-m2		2018-11-21T21:24:19Z	
 6.5.0-m3		2019-03-14T18:48:37Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.5.0-m4/org.wso2.ei.broker.styles-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.5.0-m5/org.wso2.ei.broker.styles-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.broker.styles/6.5.0-m6/org.wso2.ei.broker.styles-6.5.0-m6.jar returned status 404

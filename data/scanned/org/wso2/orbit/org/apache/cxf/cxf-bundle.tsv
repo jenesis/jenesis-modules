@@ -1,1 +1,4 @@
 2.7.16.wso2v1		2018-03-05T09:52:39Z	
+3.0.5.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/cxf/cxf-bundle/3.0.5.wso2v1/cxf-bundle-3.0.5.wso2v1.jar returned status 404
+3.0.5.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/cxf/cxf-bundle/3.0.5.wso2v2/cxf-bundle-3.0.5.wso2v2.jar returned status 404
+3.0.9.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/cxf/cxf-bundle/3.0.9.wso2v1/cxf-bundle-3.0.9.wso2v1.jar returned status 404

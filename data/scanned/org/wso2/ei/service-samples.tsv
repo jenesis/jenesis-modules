@@ -16,13 +16,29 @@
 4.0.0-m6		2021-02-02T20:46:13Z	
 4.0.0-m7		2021-02-09T21:01:40Z	
 4.0.0-m8		2021-02-16T15:04:45Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.1.0/service-samples-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T08:02:42Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.1.0-beta/service-samples-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T04:48:58Z	
 4.1.0-m2		2021-11-26T03:53:16Z	
 4.1.0-m3		2022-01-07T09:24:46Z	
 4.1.0-m4		2022-02-13T01:12:32Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.2.0/service-samples-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.2.0-alpha/service-samples-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T17:07:25Z	
 4.2.0-m1		2022-11-14T14:12:31Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.3.0/service-samples-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.3.0-alpha/service-samples-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.3.0-beta/service-samples-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.3.0-m1/service-samples-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.4.0/service-samples-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.4.0-alpha/service-samples-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.4.0-beta/service-samples-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.4.0-prealpha/service-samples-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.5.0/service-samples-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.5.0-alpha/service-samples-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.5.0-beta/service-samples-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/4.5.0-m1/service-samples-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T06:42:45Z	
 4.6.0-alpha		2026-02-17T13:27:46Z	
 4.6.0-alpha2		2026-03-25T15:08:56Z	
@@ -30,6 +46,9 @@
 4.6.0-alpha4		2026-04-10T11:04:13Z	
 4.6.0-beta		2026-04-28T13:47:43Z	
 4.6.0-m1		2026-02-06T07:13:25Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.0.0/service-samples-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.1.0/service-samples-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.1.1/service-samples-6.1.1.jar returned status 404
 6.1.1-update10		2017-11-23T12:25:41Z	
 6.1.1-update11		2017-12-02T11:14:35Z	
 6.1.1-update12		2017-12-06T22:47:37Z	
@@ -45,6 +64,7 @@
 6.1.1-update22		2018-02-21T17:02:55Z	
 6.1.1-update23		2018-02-28T19:42:33Z	
 6.1.1-update24		2018-03-11T10:16:12Z	
+6.1.1-update5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.1.1-update5/service-samples-6.1.1-update5.jar returned status 404
 6.1.1-update6		2017-10-04T09:16:11Z	
 6.1.1-update8		2017-10-30T13:55:23Z	
 6.1.1-update9		2017-11-13T18:29:47Z	
@@ -75,3 +95,9 @@
 6.5.0-m1		2018-10-31T21:34:12Z	
 6.5.0-m2		2018-11-21T21:30:47Z	
 6.5.0-m3		2019-03-14T18:55:34Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.5.0-m4/service-samples-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.5.0-m5/service-samples-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.5.0-m6/service-samples-6.5.0-m6.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.6.0/service-samples-6.6.0.jar returned status 404
+6.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.6.0-alpha/service-samples-6.6.0-alpha.jar returned status 404
+6.6.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/service-samples/6.6.0-beta/service-samples-6.6.0-beta.jar returned status 404

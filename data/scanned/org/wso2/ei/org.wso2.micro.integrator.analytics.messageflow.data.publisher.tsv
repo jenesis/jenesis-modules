@@ -20,13 +20,29 @@
 4.0.0-m6		2021-02-02T20:43:34Z	
 4.0.0-m7		2021-02-09T20:58:56Z	
 4.0.0-m8		2021-02-16T15:02:05Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.1.0/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T07:59:34Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.1.0-beta/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T04:46:14Z	
 4.1.0-m2		2021-11-26T03:50:33Z	
 4.1.0-m3		2022-01-07T09:21:52Z	
 4.1.0-m4		2022-02-13T01:09:35Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.2.0/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.2.0-alpha/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T17:04:01Z	
 4.2.0-m1		2022-11-14T14:05:40Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.3.0/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.3.0-alpha/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.3.0-beta/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.3.0-m1/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.4.0/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.4.0-alpha/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.4.0-beta/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.4.0-prealpha/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.5.0/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.5.0-alpha/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.5.0-beta/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.analytics.messageflow.data.publisher/4.5.0-m1/org.wso2.micro.integrator.analytics.messageflow.data.publisher-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T06:39:19Z	
 4.6.0-alpha		2026-02-17T13:24:18Z	
 4.6.0-alpha2		2026-03-25T15:05:28Z	

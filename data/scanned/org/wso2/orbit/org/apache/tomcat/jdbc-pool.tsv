@@ -2,8 +2,11 @@
 7.0.81.wso2v1		2017-10-11T05:44:02Z	
 7.0.81.wso2v2		2017-11-29T04:02:33Z	
 9.0.117.wso2v1		2026-04-27T09:11:02Z	
+9.0.16.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/jdbc-pool/9.0.16.wso2v1/jdbc-pool-9.0.16.wso2v1.jar returned status 404
 9.0.35.wso2v1		2020-06-03T10:40:11Z	
 9.0.52.wso2v1		2021-08-10T09:51:43Z	
 9.0.56.wso2v1		2022-02-08T10:50:26Z	
+9.0.58.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/jdbc-pool/9.0.58.wso2v1/jdbc-pool-9.0.58.wso2v1.jar returned status 404
 9.0.65.wso2v1		2022-09-26T13:22:56Z	
 9.0.71.wso2v1		2023-02-07T10:52:18Z	
+9.0.76.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/jdbc-pool/9.0.76.wso2v1/jdbc-pool-9.0.76.wso2v1.jar returned status 404

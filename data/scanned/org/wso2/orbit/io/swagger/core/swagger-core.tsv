@@ -1,1 +1,4 @@
 1.6.11.wso2v1		2024-02-07T11:17:47Z	
+1.6.9.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/io/swagger/core/swagger-core/1.6.9.wso2v1/swagger-core-1.6.9.wso2v1.jar returned status 404
+1.6.9.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/io/swagger/core/swagger-core/1.6.9.wso2v2/swagger-core-1.6.9.wso2v2.jar returned status 404
+1.6.9.wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/io/swagger/core/swagger-core/1.6.9.wso2v4/swagger-core-1.6.9.wso2v4.jar returned status 404

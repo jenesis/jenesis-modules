@@ -1,3 +1,9 @@
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.2.0/wso2-streaming-integrator-osgi-test-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.2.0-alpha/wso2-streaming-integrator-osgi-test-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-09T04:05:08Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.3.0/wso2-streaming-integrator-osgi-test-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.3.0-alpha/wso2-streaming-integrator-osgi-test-4.3.0-alpha.jar returned status 404
+4.3.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.3.0-rc1/wso2-streaming-integrator-osgi-test-4.3.0-rc1.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/wso2-streaming-integrator-osgi-test/4.3.1/wso2-streaming-integrator-osgi-test-4.3.1.jar returned status 404
 4.4.0		2026-05-14T01:07:35Z	
 4.4.0-alpha		2026-04-09T16:09:41Z	

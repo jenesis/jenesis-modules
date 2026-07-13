@@ -1,2 +1,3 @@
 1.11.1034.wso2v1		2022-02-08T09:44:44Z	
 1.11.1034.wso2v2		2022-07-08T06:37:47Z	
+1.11.253.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/com/amazonaws/awslambda/1.11.253.wso2v1/awslambda-1.11.253.wso2v1.jar returned status 404

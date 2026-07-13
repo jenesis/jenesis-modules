@@ -1,3 +1,10 @@
+4.3.3.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.3.3.wso2v2/httpcore-nio-4.3.3.wso2v2.jar returned status 404
+4.3.3.wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.3.3.wso2v3/httpcore-nio-4.3.3.wso2v3.jar returned status 404
+4.3.3.wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.3.3.wso2v4/httpcore-nio-4.3.3.wso2v4.jar returned status 404
 4.4.15-wso2v2		2022-11-22T06:00:53Z	
+4.4.16-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.4.16-wso2v1/httpcore-nio-4.4.16-wso2v1.jar returned status 404
+4.4.16-wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.4.16-wso2v2/httpcore-nio-4.4.16-wso2v2.jar returned status 404
+4.4.16-wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.4.16-wso2v3/httpcore-nio-4.4.16-wso2v3.jar returned status 404
+4.4.16-wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/httpcomponents/httpcore-nio/4.4.16-wso2v4/httpcore-nio-4.4.16-wso2v4.jar returned status 404
 4.4.16-wso2v5		2026-02-11T05:18:11Z	
 4.4.16-wso2v6		2026-02-12T04:36:59Z	

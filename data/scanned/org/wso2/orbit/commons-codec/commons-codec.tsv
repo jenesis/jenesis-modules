@@ -1,4 +1,7 @@
+1.10.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/commons-codec/commons-codec/1.10.0.wso2v1/commons-codec-1.10.0.wso2v1.jar returned status 404
+1.12.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/commons-codec/commons-codec/1.12.0.wso2v1/commons-codec-1.12.0.wso2v1.jar returned status 404
 1.14.0.wso2v1		2020-07-15T14:34:58Z	
 1.15.0.wso2v1		2022-02-14T06:11:21Z	
+1.16.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/commons-codec/commons-codec/1.16.0.wso2v1/commons-codec-1.16.0.wso2v1.jar returned status 404
 1.17.0.wso2v1		2024-06-05T07:21:49Z	
 1.22.0.wso2v1		2026-04-27T09:09:30Z	

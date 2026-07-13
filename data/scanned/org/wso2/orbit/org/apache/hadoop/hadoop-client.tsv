@@ -1,2 +1,6 @@
+2.6.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/hadoop/hadoop-client/2.6.0.wso2v1/hadoop-client-2.6.0.wso2v1.jar returned status 404
+2.6.0.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/hadoop/hadoop-client/2.6.0.wso2v2/hadoop-client-2.6.0.wso2v2.jar returned status 404
+2.6.0.wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/hadoop/hadoop-client/2.6.0.wso2v3/hadoop-client-2.6.0.wso2v3.jar returned status 404
+2.7.2.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/hadoop/hadoop-client/2.7.2.wso2v1/hadoop-client-2.7.2.wso2v1.jar returned status 404
 2.7.2.wso2v2		2024-01-17T09:40:52Z	
 3.3.6.wso2v1		2024-01-17T09:43:05Z	

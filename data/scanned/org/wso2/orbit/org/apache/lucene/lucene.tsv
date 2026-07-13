@@ -1,3 +1,6 @@
+4.10.3.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/lucene/lucene/4.10.3.wso2v2/lucene-4.10.3.wso2v2.jar returned status 404
+5.2.1.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/lucene/lucene/5.2.1.wso2v1/lucene-5.2.1.wso2v1.jar returned status 404
 5.5.5.wso2v1		2018-11-06T05:16:31Z	
+6.2.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/lucene/lucene/6.2.0.wso2v1/lucene-6.2.0.wso2v1.jar returned status 404
 8.11.1.wso2v1		2022-01-27T08:46:07Z	
 8.11.4.wso2v1		2026-02-25T09:19:55Z	

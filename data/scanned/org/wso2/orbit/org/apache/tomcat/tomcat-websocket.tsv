@@ -1,3 +1,6 @@
+9.0.21.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-websocket/9.0.21.wso2v1/tomcat-websocket-9.0.21.wso2v1.jar returned status 404
+9.0.22.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-websocket/9.0.22.wso2v1/tomcat-websocket-9.0.22.wso2v1.jar returned status 404
+9.0.24.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-websocket/9.0.24.wso2v1/tomcat-websocket-9.0.24.wso2v1.jar returned status 404
 9.0.31.wso2v1		2020-02-27T09:47:39Z	
 9.0.34.wso2v1		2020-05-13T12:15:31Z	
 9.0.45.wso2v1		2021-04-09T13:43:45Z	
