@@ -1,12 +1,108 @@
+5.0.0.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.0.0.FINAL/infinispan-ec2-demoui-5.0.0.FINAL.jar returned status 404
+5.0.1.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.0.1.FINAL/infinispan-ec2-demoui-5.0.1.FINAL.jar returned status 404
+5.1.0.ALPHA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.ALPHA1/infinispan-ec2-demoui-5.1.0.ALPHA1.jar returned status 404
+5.1.0.ALPHA2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.ALPHA2/infinispan-ec2-demoui-5.1.0.ALPHA2.jar returned status 404
+5.1.0.BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.BETA1/infinispan-ec2-demoui-5.1.0.BETA1.jar returned status 404
+5.1.0.BETA2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.BETA2/infinispan-ec2-demoui-5.1.0.BETA2.jar returned status 404
+5.1.0.BETA3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.BETA3/infinispan-ec2-demoui-5.1.0.BETA3.jar returned status 404
+5.1.0.BETA4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.BETA4/infinispan-ec2-demoui-5.1.0.BETA4.jar returned status 404
+5.1.0.BETA5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.BETA5/infinispan-ec2-demoui-5.1.0.BETA5.jar returned status 404
+5.1.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.CR1/infinispan-ec2-demoui-5.1.0.CR1.jar returned status 404
+5.1.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.CR2/infinispan-ec2-demoui-5.1.0.CR2.jar returned status 404
+5.1.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.CR3/infinispan-ec2-demoui-5.1.0.CR3.jar returned status 404
+5.1.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.CR4/infinispan-ec2-demoui-5.1.0.CR4.jar returned status 404
+5.1.0.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.0.FINAL/infinispan-ec2-demoui-5.1.0.FINAL.jar returned status 404
+5.1.1.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.1.CR1/infinispan-ec2-demoui-5.1.1.CR1.jar returned status 404
+5.1.1.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.1.FINAL/infinispan-ec2-demoui-5.1.1.FINAL.jar returned status 404
+5.1.2.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.2.CR1/infinispan-ec2-demoui-5.1.2.CR1.jar returned status 404
 5.1.2.CR1	classes	2012-02-27T15:06:40Z	
+5.1.2.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.2.FINAL/infinispan-ec2-demoui-5.1.2.FINAL.jar returned status 404
 5.1.2.FINAL	classes	2012-03-02T14:25:45Z	
+5.1.3.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.3.CR1/infinispan-ec2-demoui-5.1.3.CR1.jar returned status 404
 5.1.3.CR1	classes	2012-03-22T12:34:40Z	
+5.1.3.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.3.FINAL/infinispan-ec2-demoui-5.1.3.FINAL.jar returned status 404
 5.1.3.FINAL	classes	2012-03-28T09:18:42Z	
+5.1.4.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.4.CR1/infinispan-ec2-demoui-5.1.4.CR1.jar returned status 404
 5.1.4.CR1	classes	2012-04-13T11:26:29Z	
+5.1.4.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.4.FINAL/infinispan-ec2-demoui-5.1.4.FINAL.jar returned status 404
 5.1.4.FINAL	classes	2012-04-26T11:07:56Z	
+5.1.5.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.5.CR1/infinispan-ec2-demoui-5.1.5.CR1.jar returned status 404
 5.1.5.CR1	classes	2012-05-15T14:56:42Z	
+5.1.5.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.5.FINAL/infinispan-ec2-demoui-5.1.5.FINAL.jar returned status 404
 5.1.5.FINAL	classes	2012-05-31T10:13:49Z	
+5.1.6.FINAL			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.6.FINAL/infinispan-ec2-demoui-5.1.6.FINAL.jar returned status 404
 5.1.6.FINAL	classes	2012-08-13T16:45:30Z	
+5.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.7.Final/infinispan-ec2-demoui-5.1.7.Final.jar returned status 404
 5.1.7.Final	classes	2012-09-06T15:29:33Z	
+5.1.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.1.8.Final/infinispan-ec2-demoui-5.1.8.Final.jar returned status 404
 5.1.8.Final	classes	2012-10-18T12:26:50Z	
+5.2.0.ALPHA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.ALPHA1/infinispan-ec2-demoui-5.2.0.ALPHA1.jar returned status 404
 5.2.0.ALPHA1	classes	2012-06-22T18:50:08Z	
+5.2.0.ALPHA2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.ALPHA2/infinispan-ec2-demoui-5.2.0.ALPHA2.jar returned status 404
+5.2.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Alpha3/infinispan-ec2-demoui-5.2.0.Alpha3.jar returned status 404
+5.2.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Alpha4/infinispan-ec2-demoui-5.2.0.Alpha4.jar returned status 404
+5.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta1/infinispan-ec2-demoui-5.2.0.Beta1.jar returned status 404
+5.2.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta2/infinispan-ec2-demoui-5.2.0.Beta2.jar returned status 404
+5.2.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta3/infinispan-ec2-demoui-5.2.0.Beta3.jar returned status 404
+5.2.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta4/infinispan-ec2-demoui-5.2.0.Beta4.jar returned status 404
+5.2.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta5/infinispan-ec2-demoui-5.2.0.Beta5.jar returned status 404
+5.2.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Beta6/infinispan-ec2-demoui-5.2.0.Beta6.jar returned status 404
+5.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.CR1/infinispan-ec2-demoui-5.2.0.CR1.jar returned status 404
+5.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.CR2/infinispan-ec2-demoui-5.2.0.CR2.jar returned status 404
+5.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.CR3/infinispan-ec2-demoui-5.2.0.CR3.jar returned status 404
+5.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.0.Final/infinispan-ec2-demoui-5.2.0.Final.jar returned status 404
+5.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.1.Final/infinispan-ec2-demoui-5.2.1.Final.jar returned status 404
+5.2.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.10.Final/infinispan-ec2-demoui-5.2.10.Final.jar returned status 404
+5.2.11.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.11.CR1/infinispan-ec2-demoui-5.2.11.CR1.jar returned status 404
+5.2.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.11.Final/infinispan-ec2-demoui-5.2.11.Final.jar returned status 404
+5.2.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.12.Final/infinispan-ec2-demoui-5.2.12.Final.jar returned status 404
+5.2.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.13.Final/infinispan-ec2-demoui-5.2.13.Final.jar returned status 404
+5.2.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.14.Final/infinispan-ec2-demoui-5.2.14.Final.jar returned status 404
+5.2.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.15.Final/infinispan-ec2-demoui-5.2.15.Final.jar returned status 404
+5.2.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.18.Final/infinispan-ec2-demoui-5.2.18.Final.jar returned status 404
+5.2.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.19.Final/infinispan-ec2-demoui-5.2.19.Final.jar returned status 404
+5.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.2.Final/infinispan-ec2-demoui-5.2.2.Final.jar returned status 404
+5.2.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.20.Final/infinispan-ec2-demoui-5.2.20.Final.jar returned status 404
+5.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.3.Final/infinispan-ec2-demoui-5.2.3.Final.jar returned status 404
+5.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.4.Final/infinispan-ec2-demoui-5.2.4.Final.jar returned status 404
+5.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.5.Final/infinispan-ec2-demoui-5.2.5.Final.jar returned status 404
+5.2.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.6.Final/infinispan-ec2-demoui-5.2.6.Final.jar returned status 404
+5.2.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.7.Final/infinispan-ec2-demoui-5.2.7.Final.jar returned status 404
+5.2.8.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.8.CR1/infinispan-ec2-demoui-5.2.8.CR1.jar returned status 404
+5.2.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.8.Final/infinispan-ec2-demoui-5.2.8.Final.jar returned status 404
+5.2.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.2.9.Final/infinispan-ec2-demoui-5.2.9.Final.jar returned status 404
+5.3.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.3.0.Alpha1/infinispan-ec2-demoui-5.3.0.Alpha1.jar returned status 404
+5.3.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.3.0.Beta1/infinispan-ec2-demoui-5.3.0.Beta1.jar returned status 404
+5.3.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.3.0.Beta2/infinispan-ec2-demoui-5.3.0.Beta2.jar returned status 404
+5.3.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.3.0.CR2/infinispan-ec2-demoui-5.3.0.CR2.jar returned status 404
+5.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/5.3.0.Final/infinispan-ec2-demoui-5.3.0.Final.jar returned status 404
+6.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Alpha1/infinispan-ec2-demoui-6.0.0.Alpha1.jar returned status 404
+6.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Alpha2/infinispan-ec2-demoui-6.0.0.Alpha2.jar returned status 404
+6.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Alpha3/infinispan-ec2-demoui-6.0.0.Alpha3.jar returned status 404
+6.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Alpha4/infinispan-ec2-demoui-6.0.0.Alpha4.jar returned status 404
+6.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Beta1/infinispan-ec2-demoui-6.0.0.Beta1.jar returned status 404
+6.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Beta2/infinispan-ec2-demoui-6.0.0.Beta2.jar returned status 404
+6.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.CR1/infinispan-ec2-demoui-6.0.0.CR1.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.0.Final/infinispan-ec2-demoui-6.0.0.Final.jar returned status 404
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.1.Final/infinispan-ec2-demoui-6.0.1.Final.jar returned status 404
+6.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/6.0.2.Final/infinispan-ec2-demoui-6.0.2.Final.jar returned status 404
+7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Alpha1/infinispan-ec2-demoui-7.0.0.Alpha1.jar returned status 404
+7.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Alpha2/infinispan-ec2-demoui-7.0.0.Alpha2.jar returned status 404
+7.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Alpha3/infinispan-ec2-demoui-7.0.0.Alpha3.jar returned status 404
+7.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Alpha4/infinispan-ec2-demoui-7.0.0.Alpha4.jar returned status 404
+7.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Alpha5/infinispan-ec2-demoui-7.0.0.Alpha5.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Beta1/infinispan-ec2-demoui-7.0.0.Beta1.jar returned status 404
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Beta2/infinispan-ec2-demoui-7.0.0.Beta2.jar returned status 404
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.CR1/infinispan-ec2-demoui-7.0.0.CR1.jar returned status 404
+7.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.CR2/infinispan-ec2-demoui-7.0.0.CR2.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.0.Final/infinispan-ec2-demoui-7.0.0.Final.jar returned status 404
+7.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.1.Final/infinispan-ec2-demoui-7.0.1.Final.jar returned status 404
+7.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.2.Final/infinispan-ec2-demoui-7.0.2.Final.jar returned status 404
+7.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.0.3.Final/infinispan-ec2-demoui-7.0.3.Final.jar returned status 404
+7.1.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.0.Alpha1/infinispan-ec2-demoui-7.1.0.Alpha1.jar returned status 404
+7.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.0.Beta1/infinispan-ec2-demoui-7.1.0.Beta1.jar returned status 404
+7.1.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.0.CR1/infinispan-ec2-demoui-7.1.0.CR1.jar returned status 404
+7.1.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.0.CR2/infinispan-ec2-demoui-7.1.0.CR2.jar returned status 404
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.0.Final/infinispan-ec2-demoui-7.1.0.Final.jar returned status 404
+7.1.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.1.1.Final/infinispan-ec2-demoui-7.1.1.Final.jar returned status 404
+7.2.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-ec2-demoui/7.2.0.Alpha1/infinispan-ec2-demoui-7.2.0.Alpha1.jar returned status 404
