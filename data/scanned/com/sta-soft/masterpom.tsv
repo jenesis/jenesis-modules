@@ -1,2 +1,11 @@
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.10/masterpom-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.11/masterpom-1.11.jar returned status 404
 1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.14/masterpom-1.14.jar returned status 404
 1.15		2026-06-27T15:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.15/masterpom-1.15.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.4/masterpom-1.4.jar returned status 404
+1.4a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.4a/masterpom-1.4a.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.5/masterpom-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.6/masterpom-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.7/masterpom-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.8/masterpom-1.8.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sta-soft/masterpom/1.9/masterpom-1.9.jar returned status 404

@@ -27,3 +27,7 @@ com.github.sideeffffect.sbt.decent.scala
 com.google.gson
 com.joyzl.network
 com.joyzl.logger
+com.lottie4j.fxplayer
+com.lottie4j.fxfileviewer
+com.lottie4j.core
+com.zaxxer.nuprocess

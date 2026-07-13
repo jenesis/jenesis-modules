@@ -33,6 +33,7 @@
 2.2.15		2026-05-20T18:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.15/env-js-2.2.15.jar returned status 404
 2.2.16		2026-06-02T23:32:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.16/env-js-2.2.16.jar returned status 404
 2.2.17		2026-07-01T21:54:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.17/env-js-2.2.17.jar returned status 404
+2.2.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.18/env-js-2.2.18.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.2/env-js-2.2.2.jar returned status 404
 2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.3/env-js-2.2.3.jar returned status 404
 2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/env-js/2.2.4/env-js-2.2.4.jar returned status 404

@@ -83,6 +83,7 @@
 6.28.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.0-beta.2/text-backend-6.28.0-beta.2.jar returned status 404
 6.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.1/text-backend-6.28.1.jar returned status 404
 6.28.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.10/text-backend-6.28.10.jar returned status 404
+6.28.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.11/text-backend-6.28.11.jar returned status 404
 6.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.2/text-backend-6.28.2.jar returned status 404
 6.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.3/text-backend-6.28.3.jar returned status 404
 6.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/text-backend/6.28.4/text-backend-6.28.4.jar returned status 404

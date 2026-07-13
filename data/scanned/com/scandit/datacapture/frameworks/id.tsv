@@ -65,6 +65,7 @@
 6.28.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.0-beta.2/id-6.28.0-beta.2.jar returned status 404
 6.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.1/id-6.28.1.jar returned status 404
 6.28.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.10/id-6.28.10.jar returned status 404
+6.28.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.11/id-6.28.11.jar returned status 404
 6.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.2/id-6.28.2.jar returned status 404
 6.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.3/id-6.28.3.jar returned status 404
 6.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/6.28.4/id-6.28.4.jar returned status 404
@@ -149,4 +150,5 @@
 8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/8.4.0/id-8.4.0.jar returned status 404
 8.4.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/8.4.0-beta.1/id-8.4.0-beta.1.jar returned status 404
 8.4.1		2026-06-23T06:17:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/8.4.1/id-8.4.1.jar returned status 404
+8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/8.5.0/id-8.5.0.jar returned status 404
 8.5.0-beta.1		2026-06-19T06:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scandit/datacapture/frameworks/id/8.5.0-beta.1/id-8.5.0-beta.1.jar returned status 404
