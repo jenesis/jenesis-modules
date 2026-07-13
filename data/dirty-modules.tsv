@@ -56,3 +56,5 @@ com.couchbase.client.metrics.opentelemetry
 com.couchbase.client.tracing.observation
 com.couchbase.columnar.client.java
 com.couchbase.client.tracing.opentelemetry
+com.plccom.mqtt.client
+com.plccom.mqtt.core

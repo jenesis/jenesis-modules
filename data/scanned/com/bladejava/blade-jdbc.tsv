@@ -1,7 +1,9 @@
 0.0.1		2016-02-18T09:54:37Z	
 0.0.2		2016-02-29T10:49:58Z	
+0.0.2-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bladejava/blade-jdbc/0.0.2-RELEASE/blade-jdbc-0.0.2-RELEASE.jar returned status 404
 0.0.3		2016-03-09T10:03:43Z	
 0.0.4		2016-03-15T03:57:59Z	
+0.0.4-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bladejava/blade-jdbc/0.0.4-RELEASE/blade-jdbc-0.0.4-RELEASE.jar returned status 404
 0.0.5		2016-03-17T10:12:11Z	
 0.0.6		2016-03-20T06:50:29Z	
 0.0.7		2016-04-06T08:43:13Z	

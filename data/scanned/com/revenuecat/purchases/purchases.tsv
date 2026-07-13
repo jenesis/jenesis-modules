@@ -1,3 +1,20 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/0.1.0/purchases-0.1.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.0.0/purchases-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.1.0/purchases-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.2.0/purchases-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.2.1/purchases-1.2.1.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.0/purchases-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.1/purchases-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.2/purchases-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.3/purchases-1.3.3.jar returned status 404
+1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.4/purchases-1.3.4.jar returned status 404
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.5/purchases-1.3.5.jar returned status 404
+1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.6/purchases-1.3.6.jar returned status 404
+1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.7/purchases-1.3.7.jar returned status 404
+1.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.3.8/purchases-1.3.8.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.4.0/purchases-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.4.1/purchases-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/1.4.2/purchases-1.4.2.jar returned status 404
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.0.0/purchases-10.0.0.jar returned status 404
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.0.1/purchases-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.0.2/purchases-10.0.2.jar returned status 404
@@ -7,6 +24,7 @@
 10.10.0		2026-06-16T11:02:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.10.0/purchases-10.10.0.jar returned status 404
 10.11.0		2026-06-26T11:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.11.0/purchases-10.11.0.jar returned status 404
 10.12.0		2026-07-02T12:58:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.12.0/purchases-10.12.0.jar returned status 404
+10.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.13.0/purchases-10.13.0.jar returned status 404
 10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.2.0/purchases-10.2.0.jar returned status 404
 10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.2.1/purchases-10.2.1.jar returned status 404
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.3.0/purchases-10.3.0.jar returned status 404
@@ -20,6 +38,50 @@
 10.8.0		2026-06-04T05:21:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.8.0/purchases-10.8.0.jar returned status 404
 10.9.0		2026-06-11T05:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.9.0/purchases-10.9.0.jar returned status 404
 10.9.1		2026-06-12T08:13:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/10.9.1/purchases-10.9.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.0.0/purchases-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.0.0-RC1/purchases-2.0.0-RC1.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.0.1/purchases-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.1.0/purchases-2.1.0.jar returned status 404
+2.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.1.0-RC1/purchases-2.1.0-RC1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.1.1/purchases-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.1.2/purchases-2.1.2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.0/purchases-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.1/purchases-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.2/purchases-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.3/purchases-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.4/purchases-2.2.4.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.2.5/purchases-2.2.5.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.3.0/purchases-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.3.1/purchases-2.3.1.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.4.0/purchases-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.4.1/purchases-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.4.2/purchases-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/2.4.3/purchases-2.4.3.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.0/purchases-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.1/purchases-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.2/purchases-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.3/purchases-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.4/purchases-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.5/purchases-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.6/purchases-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.0.7/purchases-3.0.7.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.1.0/purchases-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.1.1/purchases-3.1.1.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.2.0/purchases-3.2.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.3.0/purchases-3.3.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.4.0/purchases-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.4.1/purchases-3.4.1.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.5.0/purchases-3.5.0.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.5.1/purchases-3.5.1.jar returned status 404
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.5.2/purchases-3.5.2.jar returned status 404
+3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/3.5.3/purchases-3.5.3.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.0/purchases-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.1/purchases-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.2/purchases-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.3/purchases-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.4/purchases-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.0.5/purchases-4.0.5.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.1.0/purchases-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.2.0/purchases-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.2.1/purchases-4.2.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.3.0/purchases-4.3.0.jar returned status 404
@@ -32,6 +94,7 @@
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.6.0/purchases-4.6.0.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/4.6.1/purchases-4.6.1.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/5.0.0/purchases-5.0.0.jar returned status 404
+5.0.0-amazon.alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/5.0.0-amazon.alpha.1/purchases-5.0.0-amazon.alpha.1.jar returned status 404
 5.0.0-amazon.alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/5.0.0-amazon.alpha.2/purchases-5.0.0-amazon.alpha.2.jar returned status 404
 5.0.0-amazon.alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/5.0.0-amazon.alpha.3/purchases-5.0.0-amazon.alpha.3.jar returned status 404
 5.0.0-amazon.alpha.3.billing3.iap2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/5.0.0-amazon.alpha.3.billing3.iap2/purchases-5.0.0-amazon.alpha.3.billing3.iap2.jar returned status 404
@@ -256,3 +319,4 @@
 9.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/9.8.0/purchases-9.8.0.jar returned status 404
 9.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/9.8.1/purchases-9.8.1.jar returned status 404
 9.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/9.9.0/purchases-9.9.0.jar returned status 404
+AMAZON.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/revenuecat/purchases/purchases/AMAZON.RC1/purchases-AMAZON.RC1.jar returned status 404
