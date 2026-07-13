@@ -1,5 +1,13 @@
+1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.4.5/astra-db-java-parent-1.4.5.jar returned status 404
+1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.4.6/astra-db-java-parent-1.4.6.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.5.0/astra-db-java-parent-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.5.1/astra-db-java-parent-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.5.2/astra-db-java-parent-1.5.2.jar returned status 404
+1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/1.5.3/astra-db-java-parent-1.5.3.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/2.0.0/astra-db-java-parent-2.0.0.jar returned status 404
 2.0.0	empty	2025-04-11T11:32:45Z	
+2.0.0-PREVIEW			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/2.0.0-PREVIEW/astra-db-java-parent-2.0.0-PREVIEW.jar returned status 404
+2.0.0-PREVIEW1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/2.0.0-PREVIEW1/astra-db-java-parent-2.0.0-PREVIEW1.jar returned status 404
 2.0.0-PREVIEW2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/2.0.0-PREVIEW2/astra-db-java-parent-2.0.0-PREVIEW2.jar returned status 404
 2.0.0-PREVIEW2	empty	2025-04-08T11:38:10Z	
 2.0.0-PREVIEW3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/astra/astra-db-java-parent/2.0.0-PREVIEW3/astra-db-java-parent-2.0.0-PREVIEW3.jar returned status 404

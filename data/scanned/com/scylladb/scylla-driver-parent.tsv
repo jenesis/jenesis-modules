@@ -1,3 +1,17 @@
+3.10.1-scylla-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.10.1-scylla-0/scylla-driver-parent-3.10.1-scylla-0.jar returned status 404
+3.10.2-scylla-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.10.2-scylla-0/scylla-driver-parent-3.10.2-scylla-0.jar returned status 404
+3.10.2-scylla-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.10.2-scylla-1/scylla-driver-parent-3.10.2-scylla-1.jar returned status 404
+3.11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.0.0/scylla-driver-parent-3.11.0.0.jar returned status 404
+3.11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.0.1/scylla-driver-parent-3.11.0.1.jar returned status 404
+3.11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.0/scylla-driver-parent-3.11.2.0.jar returned status 404
+3.11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.1/scylla-driver-parent-3.11.2.1.jar returned status 404
+3.11.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.2/scylla-driver-parent-3.11.2.2.jar returned status 404
+3.11.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.3/scylla-driver-parent-3.11.2.3.jar returned status 404
+3.11.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.4/scylla-driver-parent-3.11.2.4.jar returned status 404
+3.11.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.2.5/scylla-driver-parent-3.11.2.5.jar returned status 404
+3.11.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.4.0/scylla-driver-parent-3.11.4.0.jar returned status 404
+3.11.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.0/scylla-driver-parent-3.11.5.0.jar returned status 404
+3.11.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.1/scylla-driver-parent-3.11.5.1.jar returned status 404
 3.11.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.10/scylla-driver-parent-3.11.5.10.jar returned status 404
 3.11.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.11/scylla-driver-parent-3.11.5.11.jar returned status 404
 3.11.5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.12/scylla-driver-parent-3.11.5.12.jar returned status 404
@@ -5,5 +19,13 @@
 3.11.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.14/scylla-driver-parent-3.11.5.14.jar returned status 404
 3.11.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.15/scylla-driver-parent-3.11.5.15.jar returned status 404
 3.11.5.16		2026-07-03T21:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.16/scylla-driver-parent-3.11.5.16.jar returned status 404
+3.11.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.2/scylla-driver-parent-3.11.5.2.jar returned status 404
+3.11.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.3/scylla-driver-parent-3.11.5.3.jar returned status 404
+3.11.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.5/scylla-driver-parent-3.11.5.5.jar returned status 404
+3.11.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.6/scylla-driver-parent-3.11.5.6.jar returned status 404
+3.11.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.7/scylla-driver-parent-3.11.5.7.jar returned status 404
 3.11.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.8/scylla-driver-parent-3.11.5.8.jar returned status 404
 3.11.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.9/scylla-driver-parent-3.11.5.9.jar returned status 404
+3.7.1-scylla-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-0/scylla-driver-parent-3.7.1-scylla-0.jar returned status 404
+3.7.1-scylla-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-1/scylla-driver-parent-3.7.1-scylla-1.jar returned status 404
+3.7.1-scylla-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-2/scylla-driver-parent-3.7.1-scylla-2.jar returned status 404

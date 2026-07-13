@@ -63,3 +63,4 @@ com.fasterxml.jackson.databind
 com.xkball.xklib.mc
 com.xkball.xklib.ap
 com.xkball.xklib
+org.xerial.sqlitejdbc

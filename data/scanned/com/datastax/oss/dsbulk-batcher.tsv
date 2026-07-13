@@ -1,2 +1,9 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.10.0/dsbulk-batcher-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.11.0/dsbulk-batcher-1.11.0.jar returned status 404
 1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.11.1/dsbulk-batcher-1.11.1.jar returned status 404
 1.11.2		2026-07-02T01:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.11.2/dsbulk-batcher-1.11.2.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.6.0/dsbulk-batcher-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.7.0/dsbulk-batcher-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.8.0/dsbulk-batcher-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.9.0/dsbulk-batcher-1.9.0.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datastax/oss/dsbulk-batcher/1.9.1/dsbulk-batcher-1.9.1.jar returned status 404

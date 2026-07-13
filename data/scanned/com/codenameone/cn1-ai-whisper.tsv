@@ -8,3 +8,6 @@
 7.0.254		2026-06-27T07:32:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.254/cn1-ai-whisper-7.0.254.jar returned status 404
 7.0.255		2026-06-27T09:18:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.255/cn1-ai-whisper-7.0.255.jar returned status 404
 7.0.256		2026-07-03T03:55:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.256/cn1-ai-whisper-7.0.256.jar returned status 404
+7.0.257			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.257/cn1-ai-whisper-7.0.257.jar returned status 404
+7.0.258			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.258/cn1-ai-whisper-7.0.258.jar returned status 404
+7.0.259			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/cn1-ai-whisper/7.0.259/cn1-ai-whisper-7.0.259.jar returned status 404

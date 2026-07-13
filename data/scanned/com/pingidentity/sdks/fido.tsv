@@ -3,5 +3,6 @@
 2.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.0.0-beta1/fido-2.0.0-beta1.jar returned status 404
 2.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.0.0-beta2/fido-2.0.0-beta2.jar returned status 404
 2.0.1		2026-06-01T19:45:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.0.1/fido-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.1.0/fido-2.1.0.jar returned status 404
 2.1.0-beta1		2026-07-02T19:31:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.1.0-beta1/fido-2.1.0-beta1.jar returned status 404
 2.1.0-beta2		2026-07-03T16:12:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pingidentity/sdks/fido/2.1.0-beta2/fido-2.1.0-beta2.jar returned status 404
