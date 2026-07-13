@@ -8,6 +8,19 @@
 0.12.1	runner	2022-05-27T14:09:34Z	
 0.12.2		2022-05-30T12:53:26Z	
 0.12.2	runner	2022-05-30T12:53:15Z	
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.14.0/jikkou-0.14.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.15.0/jikkou-0.15.0.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.16.0/jikkou-0.16.0.jar returned status 404
+0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.17.0/jikkou-0.17.0.jar returned status 404
+0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.18.0/jikkou-0.18.0.jar returned status 404
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.19.0/jikkou-0.19.0.jar returned status 404
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.22.0/jikkou-0.22.0.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.23.0/jikkou-0.23.0.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.24.0/jikkou-0.24.0.jar returned status 404
+0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.26.0/jikkou-0.26.0.jar returned status 404
+0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.27.0/jikkou-0.27.0.jar returned status 404
+0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.29.0/jikkou-0.29.0.jar returned status 404
+0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamthoughts/jikkou/0.30.0/jikkou-0.30.0.jar returned status 404
 0.6.0		2021-10-30T00:06:53Z	
 0.6.0	all	2021-10-30T00:06:58Z	
 0.7.0		2021-11-20T22:46:59Z	

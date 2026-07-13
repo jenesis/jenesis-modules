@@ -1,3 +1,6 @@
+13.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/13.24.0/ebean-components-parent-13.24.0.jar returned status 404
+13.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/13.25.0/ebean-components-parent-13.25.0.jar returned status 404
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/14.0.0/ebean-components-parent-14.0.0.jar returned status 404
 16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/16.1.0/ebean-components-parent-16.1.0.jar returned status 404
 16.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/16.1.0-RC1/ebean-components-parent-16.1.0-RC1.jar returned status 404
 16.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-components-parent/16.1.0-RC2/ebean-components-parent-16.1.0-RC2.jar returned status 404

@@ -2582,3 +2582,10 @@ org.apache.arrow.memory.core
 org.apache.arrow.format
 org.apache.arrow.flight.core
 org.apache.arrow.memory.unsafe
+io.aeron.cluster
+io.aeron.all
+io.aeron.client
+io.aeron.archive
+io.aeron.agent
+io.aeron.annotations
+com.fasterxml.jackson.jr.ob

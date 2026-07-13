@@ -1,3 +1,5 @@
 3.0.0		2018-10-23T10:37:38Z	
 3.0.0.M3		2018-09-05T13:16:02Z	
 3.0.0.M4		2018-09-28T10:35:08Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/shardingsphere/sharding-transaction/3.1.0/sharding-transaction-3.1.0.jar returned status 404
+3.1.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/shardingsphere/sharding-transaction/3.1.0.M1/sharding-transaction-3.1.0.M1.jar returned status 404

@@ -7,7 +7,22 @@
 0.15		2021-04-09T10:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.15/hyperfoil-distribution-0.15.jar returned status 404
 0.16		2021-06-16T15:08:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.16/hyperfoil-distribution-0.16.jar returned status 404
 0.17		2021-10-21T14:01:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.17/hyperfoil-distribution-0.17.jar returned status 404
+0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.18/hyperfoil-distribution-0.18.jar returned status 404
+0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.19/hyperfoil-distribution-0.19.jar returned status 404
 0.2		2019-04-18T13:04:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.2/hyperfoil-distribution-0.2.jar returned status 404
+0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.20/hyperfoil-distribution-0.20.jar returned status 404
+0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.21/hyperfoil-distribution-0.21.jar returned status 404
+0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.22/hyperfoil-distribution-0.22.jar returned status 404
+0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.23/hyperfoil-distribution-0.23.jar returned status 404
+0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.24/hyperfoil-distribution-0.24.jar returned status 404
+0.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.24.1/hyperfoil-distribution-0.24.1.jar returned status 404
+0.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.24.2/hyperfoil-distribution-0.24.2.jar returned status 404
+0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.25/hyperfoil-distribution-0.25.jar returned status 404
+0.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.25.1/hyperfoil-distribution-0.25.1.jar returned status 404
+0.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.25.2/hyperfoil-distribution-0.25.2.jar returned status 404
+0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.26/hyperfoil-distribution-0.26.jar returned status 404
+0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.27/hyperfoil-distribution-0.27.jar returned status 404
+0.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.27.1/hyperfoil-distribution-0.27.1.jar returned status 404
 0.27.2		2025-05-27T14:48:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.27.2/hyperfoil-distribution-0.27.2.jar returned status 404
 0.28.0		2025-10-01T03:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.28.0/hyperfoil-distribution-0.28.0.jar returned status 404
 0.29.0		2026-04-16T07:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/hyperfoil-distribution/0.29.0/hyperfoil-distribution-0.29.0.jar returned status 404

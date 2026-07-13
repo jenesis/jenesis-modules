@@ -5,3 +5,4 @@
 0.1.4		2026-06-24T13:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/tools/jjq-parent/0.1.4/jjq-parent-0.1.4.jar returned status 404
 0.1.5		2026-06-26T02:55:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/tools/jjq-parent/0.1.5/jjq-parent-0.1.5.jar returned status 404
 0.1.6		2026-06-29T13:32:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/tools/jjq-parent/0.1.6/jjq-parent-0.1.6.jar returned status 404
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyperfoil/tools/jjq-parent/0.1.7/jjq-parent-0.1.7.jar returned status 404

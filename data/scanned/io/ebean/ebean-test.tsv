@@ -197,6 +197,7 @@
 14.7.0		2024-10-10T10:51:18Z	
 14.7.0-javax		2024-10-10T11:05:15Z	
 14.8.0		2024-10-25T01:20:59Z	
+14.8.0-javax			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-test/14.8.0-javax/ebean-test-14.8.0-javax.jar returned status 404
 14.8.1		2024-12-20T02:27:06Z	
 14.8.1-javax		2024-12-20T02:37:58Z	
 14.8.2		2025-02-09T09:01:19Z	

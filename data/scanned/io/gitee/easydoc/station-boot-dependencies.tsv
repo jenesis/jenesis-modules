@@ -5,3 +5,4 @@
 3.0.5		2026-06-17T03:33:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-boot-dependencies/3.0.5/station-boot-dependencies-3.0.5.jar returned status 404
 3.0.6		2026-06-24T09:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-boot-dependencies/3.0.6/station-boot-dependencies-3.0.6.jar returned status 404
 3.0.7		2026-06-26T02:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-boot-dependencies/3.0.7/station-boot-dependencies-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-boot-dependencies/3.0.8/station-boot-dependencies-3.0.8.jar returned status 404

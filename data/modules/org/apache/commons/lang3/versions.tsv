@@ -1342,6 +1342,10 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.26.25-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-07-03T13:45:52Z	3.19.0
 4.0.10.7	named	io.streamnative	buildtools	2026-07-06T02:31:56Z	3.19.0
 4.2.1.6	named	io.streamnative	buildtools	2026-07-06T04:35:43Z	3.19.0
+1.51.0	named	io.openlineage	openlineage-spark_2.13	2026-07-07T00:07:41Z	3.18.0
+1.51.0	named	io.openlineage	openlineage-sql-java	2026-07-07T00:07:42Z	3.18.0
+1.51.0	named	io.openlineage	openlineage-flink	2026-07-07T00:07:43Z	3.18.0
+1.51.0	named	io.openlineage	openlineage-spark_2.12	2026-07-07T00:07:45Z	3.18.0
 4.0.12	named	org.apache.pulsar	buildtools	2026-07-07T02:21:38Z	3.19.0
 4.2.3	named	org.apache.pulsar	buildtools	2026-07-07T02:21:40Z	3.19.0
 8.35.0.45121	named	org.sonarsource.java	sonar-java-plugin	2026-07-08T00:12:17Z	3.20.0
