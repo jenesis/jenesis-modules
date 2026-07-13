@@ -64,3 +64,4 @@
 3.37.0		2026-06-24T12:24:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-mcp-server-parent/3.37.0/quarkus-mcp-server-parent-3.37.0.jar returned status 404
 3.37.0.CR1		2026-06-11T11:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-mcp-server-parent/3.37.0.CR1/quarkus-mcp-server-parent-3.37.0.CR1.jar returned status 404
 3.37.1		2026-07-01T17:01:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-mcp-server-parent/3.37.1/quarkus-mcp-server-parent-3.37.1.jar returned status 404
+3.37.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-mcp-server-parent/3.37.2/quarkus-mcp-server-parent-3.37.2.jar returned status 404
