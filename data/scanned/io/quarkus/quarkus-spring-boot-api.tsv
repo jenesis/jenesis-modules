@@ -1,3 +1,8 @@
 2.1.Alpha1		2020-03-05T12:33:23Z	
 2.1.Final		2020-03-10T14:32:29Z	
+2.1.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-boot-api/2.1.SP1/quarkus-spring-boot-api-2.1.SP1.jar returned status 404
+2.2.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-boot-api/2.2.Alpha1/quarkus-spring-boot-api-2.2.Alpha1.jar returned status 404
 2.2.Final		2020-03-10T11:23:34Z	
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-boot-api/3.2/quarkus-spring-boot-api-3.2.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-boot-api/3.4/quarkus-spring-boot-api-3.4.jar returned status 404
+4.1.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-boot-api/4.1.SP1/quarkus-spring-boot-api-4.1.SP1.jar returned status 404
