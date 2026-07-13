@@ -1,1 +1,14 @@
+22.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.0/akka-dependencies_2.13-22.10.0.jar returned status 404
+22.10.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.0-M1/akka-dependencies_2.13-22.10.0-M1.jar returned status 404
+22.10.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.0-M2/akka-dependencies_2.13-22.10.0-M2.jar returned status 404
+22.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.1/akka-dependencies_2.13-22.10.1.jar returned status 404
+22.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.2/akka-dependencies_2.13-22.10.2.jar returned status 404
+22.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.3/akka-dependencies_2.13-22.10.3.jar returned status 404
+22.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.4/akka-dependencies_2.13-22.10.4.jar returned status 404
+22.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/22.10.5/akka-dependencies_2.13-22.10.5.jar returned status 404
+23.04.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.04.0-M1/akka-dependencies_2.13-23.04.0-M1.jar returned status 404
+23.05.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.05.0/akka-dependencies_2.13-23.05.0.jar returned status 404
+23.05.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.05.1/akka-dependencies_2.13-23.05.1.jar returned status 404
+23.05.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.05.2/akka-dependencies_2.13-23.05.2.jar returned status 404
+23.05.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.05.3/akka-dependencies_2.13-23.05.3.jar returned status 404
 23.05.4		2023-10-16T12:48:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lightbend/akka/akka-dependencies_2.13/23.05.4/akka-dependencies_2.13-23.05.4.jar returned status 404

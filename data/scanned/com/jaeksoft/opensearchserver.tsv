@@ -1,26 +1,42 @@
+1.5-BETA2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5-BETA2/opensearchserver-1.5-BETA2.jar returned status 404
 1.5-BETA2	exec-war	2013-10-01T19:48:32Z	
+1.5-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5-beta3/opensearchserver-1.5-beta3.jar returned status 404
 1.5-beta3	exec-war	2013-10-27T15:49:36Z	
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.0/opensearchserver-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.1/opensearchserver-1.5.1.jar returned status 404
 1.5.1	exec-war	2013-12-11T10:53:08Z	
+1.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.10/opensearchserver-1.5.10.jar returned status 404
 1.5.10	exec-war	2015-01-16T15:26:27Z	
 1.5.10	library	2015-01-16T15:25:31Z	
+1.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.11/opensearchserver-1.5.11.jar returned status 404
 1.5.11	exec-war	2015-03-04T21:36:32Z	
 1.5.11	library	2015-03-04T21:36:17Z	
+1.5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.12/opensearchserver-1.5.12.jar returned status 404
 1.5.12	exec-war	2015-03-23T15:55:53Z	
 1.5.12	library	2015-03-23T15:55:37Z	
+1.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.13/opensearchserver-1.5.13.jar returned status 404
 1.5.13	exec-war	2015-11-15T13:53:01Z	
 1.5.13	library	2015-11-15T13:52:54Z	
 1.5.14		2016-08-09T14:35:04Z	
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.2/opensearchserver-1.5.2.jar returned status 404
 1.5.2	exec-war	2014-03-07T09:12:21Z	
+1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.3/opensearchserver-1.5.3.jar returned status 404
 1.5.3	exec-war	2014-04-05T14:51:34Z	
+1.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.4/opensearchserver-1.5.4.jar returned status 404
 1.5.4	exec-war	2014-07-01T17:03:57Z	
 1.5.4	library	2014-07-01T17:03:36Z	
+1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.5/opensearchserver-1.5.5.jar returned status 404
 1.5.5	exec-war	2014-07-28T10:16:37Z	
 1.5.5	library	2014-07-28T10:16:16Z	
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.6/opensearchserver-1.5.6.jar returned status 404
 1.5.6	exec-war	2014-08-06T08:55:26Z	
 1.5.6	library	2014-08-06T08:54:18Z	
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.7/opensearchserver-1.5.7.jar returned status 404
 1.5.7	exec-war	2014-09-22T19:23:29Z	
 1.5.7	library	2014-09-22T19:23:09Z	
+1.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.8/opensearchserver-1.5.8.jar returned status 404
 1.5.8	exec-war	2014-10-14T10:57:51Z	
 1.5.8	library	2014-10-14T10:57:30Z	
+1.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jaeksoft/opensearchserver/1.5.9/opensearchserver-1.5.9.jar returned status 404
 1.5.9	exec-war	2014-12-23T14:07:04Z	
 1.5.9	library	2014-12-23T14:06:40Z	

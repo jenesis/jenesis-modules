@@ -10,6 +10,12 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.0.4/paypal-messages-1.0.4.jar returned status 404
 1.1.0		2025-07-30T19:19:03Z	
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.1/paypal-messages-1.1.1.jar returned status 404
+1.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.10/paypal-messages-1.1.10.jar returned status 404
+1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.11/paypal-messages-1.1.11.jar returned status 404
+1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.12/paypal-messages-1.1.12.jar returned status 404
+1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.13/paypal-messages-1.1.13.jar returned status 404
+1.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.14/paypal-messages-1.1.14.jar returned status 404
+1.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.15/paypal-messages-1.1.15.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.2/paypal-messages-1.1.2.jar returned status 404
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.3/paypal-messages-1.1.3.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.1.4/paypal-messages-1.1.4.jar returned status 404
@@ -18,3 +24,5 @@
 1.1.7		2025-08-25T19:45:25Z	
 1.1.8		2025-08-25T22:11:38Z	
 1.1.9		2025-08-26T15:45:36Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.2.0/paypal-messages-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/messages/paypal-messages/1.3.0/paypal-messages-1.3.0.jar returned status 404

@@ -9,12 +9,22 @@
 2.14.2		2018-07-19T23:19:49Z	
 2.15.0		2018-08-16T20:41:57Z	
 2.15.1		2018-08-17T20:36:38Z	
+2.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.15.2/data-collector-2.15.2.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.16.0/data-collector-2.16.0.jar returned status 404
+2.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.17.0/data-collector-2.17.0.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.18.0/data-collector-2.18.0.jar returned status 404
+2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.18.1/data-collector-2.18.1.jar returned status 404
+2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.19.0/data-collector-2.19.0.jar returned status 404
 2.2.0		2016-01-29T19:35:26Z	
 2.2.1		2016-01-30T22:00:00Z	
 2.2.2		2016-03-11T18:46:05Z	
 2.2.3		2016-03-11T19:55:16Z	
 2.2.4		2016-04-11T23:09:20Z	
 2.2.5		2016-04-14T00:32:06Z	
+2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.20.0/data-collector-2.20.0.jar returned status 404
+2.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.20.1/data-collector-2.20.1.jar returned status 404
+2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.21.0/data-collector-2.21.0.jar returned status 404
+2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/2.22.0/data-collector-2.22.0.jar returned status 404
 2.3.0		2016-05-03T19:25:17Z	
 2.3.1		2016-05-25T01:08:18Z	
 2.3.10		2016-10-07T20:17:56Z	
@@ -47,6 +57,13 @@
 2.8.0		2017-12-21T18:22:41Z	
 2.8.1		2018-01-04T22:55:52Z	
 2.9.0		2018-01-24T22:16:02Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.0.0/data-collector-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.0.1/data-collector-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.1.0/data-collector-3.1.0.jar returned status 404
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.10.0/data-collector-3.10.0.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.11.0/data-collector-3.11.0.jar returned status 404
+3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.11.1/data-collector-3.11.1.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.12.0/data-collector-3.12.0.jar returned status 404
 3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.13.0/data-collector-3.13.0.jar returned status 404
 3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.14.0/data-collector-3.14.0.jar returned status 404
 3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.14.1/data-collector-3.14.1.jar returned status 404
@@ -62,8 +79,20 @@
 3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.18.0/data-collector-3.18.0.jar returned status 404
 3.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.18.1/data-collector-3.18.1.jar returned status 404
 3.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.19.0/data-collector-3.19.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.2.0/data-collector-3.2.0.jar returned status 404
 3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.20.0/data-collector-3.20.0.jar returned status 404
 3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.20.1/data-collector-3.20.1.jar returned status 404
 3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.21.0/data-collector-3.21.0.jar returned status 404
 3.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.21.1/data-collector-3.21.1.jar returned status 404
 3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.22.0/data-collector-3.22.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.3.0/data-collector-3.3.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.4.0/data-collector-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.4.1/data-collector-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.4.2/data-collector-3.4.2.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.5.0/data-collector-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.6.0/data-collector-3.6.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.7.0/data-collector-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.7.1/data-collector-3.7.1.jar returned status 404
+3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.7.2/data-collector-3.7.2.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.8.0/data-collector-3.8.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paypal/android/sdk/data-collector/3.9.0/data-collector-3.9.0.jar returned status 404

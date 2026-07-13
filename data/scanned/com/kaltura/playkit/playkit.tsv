@@ -1,3 +1,13 @@
+4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.13.1/playkit-4.13.1.jar returned status 404
+4.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.13.2/playkit-4.13.2.jar returned status 404
+4.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.13.3/playkit-4.13.3.jar returned status 404
+4.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.14.0/playkit-4.14.0.jar returned status 404
+4.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.15.0/playkit-4.15.0.jar returned status 404
+4.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.16.0/playkit-4.16.0.jar returned status 404
+4.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.17.0/playkit-4.17.0.jar returned status 404
+4.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.18.0/playkit-4.18.0.jar returned status 404
+4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.19.0/playkit-4.19.0.jar returned status 404
+4.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.19.4/playkit-4.19.4.jar returned status 404
 4.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.20.0/playkit-4.20.0.jar returned status 404
 4.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.20.1/playkit-4.20.1.jar returned status 404
 4.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kaltura/playkit/playkit/4.21.0/playkit-4.21.0.jar returned status 404
