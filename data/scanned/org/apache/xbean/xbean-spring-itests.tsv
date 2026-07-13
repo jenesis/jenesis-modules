@@ -3,4 +3,9 @@
 126-2.4		2006-06-22T20:45:19Z	
 127-2.4		2006-06-22T20:45:19Z	
 128-2.4		2006-06-22T20:45:19Z	
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xbean/xbean-spring-itests/2.4/xbean-spring-itests-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xbean/xbean-spring-itests/2.5/xbean-spring-itests-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xbean/xbean-spring-itests/2.6/xbean-spring-itests-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xbean/xbean-spring-itests/2.7/xbean-spring-itests-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xbean/xbean-spring-itests/2.8/xbean-spring-itests-2.8.jar returned status 404
 20m5-2.4		2006-06-22T20:45:19Z	

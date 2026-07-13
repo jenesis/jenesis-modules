@@ -1,6 +1,10 @@
+4.14.0-cdh5.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/phoenix/phoenix-client/4.14.0-cdh5.11.2/phoenix-client-4.14.0-cdh5.11.2.jar returned status 404
 4.14.0-cdh5.11.2	shaded	2018-06-08T22:54:51Z	
+4.14.0-cdh5.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/phoenix/phoenix-client/4.14.0-cdh5.12.2/phoenix-client-4.14.0-cdh5.12.2.jar returned status 404
 4.14.0-cdh5.12.2	shaded	2018-06-08T22:58:40Z	
+4.14.0-cdh5.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/phoenix/phoenix-client/4.14.0-cdh5.13.2/phoenix-client-4.14.0-cdh5.13.2.jar returned status 404
 4.14.0-cdh5.13.2	shaded	2018-06-08T23:12:58Z	
+4.14.0-cdh5.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/phoenix/phoenix-client/4.14.0-cdh5.14.2/phoenix-client-4.14.0-cdh5.14.2.jar returned status 404
 4.14.0-cdh5.14.2	shaded	2018-06-08T23:15:06Z	
 4.14.1-HBase-0.98		2018-11-30T02:22:41Z	
 4.14.1-HBase-1.1		2018-11-30T02:16:06Z	

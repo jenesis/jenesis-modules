@@ -1,2 +1,15 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/2.0.0/causeway-extensions-docgen-2.0.0.jar returned status 404
 2.0.0-RC1		2023-03-18T17:34:18Z	
 2.0.0-RC2		2023-07-07T12:51:31Z	
+2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/2.0.0-RC3/causeway-extensions-docgen-2.0.0-RC3.jar returned status 404
+2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/2.0.0-RC4/causeway-extensions-docgen-2.0.0-RC4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/2.1.0/causeway-extensions-docgen-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.0.0/causeway-extensions-docgen-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.1.0/causeway-extensions-docgen-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.2.0/causeway-extensions-docgen-3.2.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.3.0/causeway-extensions-docgen-3.3.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.4.0/causeway-extensions-docgen-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.5.0/causeway-extensions-docgen-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/3.6.0/causeway-extensions-docgen-3.6.0.jar returned status 404
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/4.0.0-M1/causeway-extensions-docgen-4.0.0-M1.jar returned status 404
+4.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/causeway/extensions/causeway-extensions-docgen/4.0.0-M2/causeway-extensions-docgen-4.0.0-M2.jar returned status 404

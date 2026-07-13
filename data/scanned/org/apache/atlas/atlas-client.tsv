@@ -4,3 +4,16 @@
 0.7.1-incubating		2017-01-30T00:04:57Z	
 0.8-incubating		2017-03-17T06:40:25Z	
 0.8.1		2017-08-29T16:24:10Z	
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/0.8.2/atlas-client-0.8.2.jar returned status 404
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/0.8.3/atlas-client-0.8.3.jar returned status 404
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/0.8.4/atlas-client-0.8.4.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/1.0.0/atlas-client-1.0.0.jar returned status 404
+1.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/1.0.0-alpha/atlas-client-1.0.0-alpha.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/1.1.0/atlas-client-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/1.2.0/atlas-client-1.2.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.0.0/atlas-client-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.1.0/atlas-client-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.2.0/atlas-client-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.3.0/atlas-client-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.4.0/atlas-client-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/atlas/atlas-client/2.5.0/atlas-client-2.5.0.jar returned status 404
