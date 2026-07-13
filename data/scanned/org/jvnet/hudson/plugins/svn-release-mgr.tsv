@@ -1,5 +1,6 @@
 0.1		2009-03-27T19:35:04Z	
 0.2		2009-12-29T17:17:56Z	
 1.0		2009-03-27T05:41:58Z	
+1.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/svn-release-mgr/1.0-SNAPSHOT/svn-release-mgr-1.0-SNAPSHOT.jar returned status 404
 1.1		2010-03-02T08:10:56Z	
 1.2		2010-11-03T19:04:40Z	

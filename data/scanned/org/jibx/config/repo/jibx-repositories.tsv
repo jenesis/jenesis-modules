@@ -1,1 +1,5 @@
+7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jibx/config/repo/jibx-repositories/7.1.10/jibx-repositories-7.1.10.jar returned status 404
+7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jibx/config/repo/jibx-repositories/7.1.11/jibx-repositories-7.1.11.jar returned status 404
 7.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jibx/config/repo/jibx-repositories/7.1.12/jibx-repositories-7.1.12.jar returned status 404
+7.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jibx/config/repo/jibx-repositories/7.1.6/jibx-repositories-7.1.6.jar returned status 404
+7.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jibx/config/repo/jibx-repositories/7.1.9/jibx-repositories-7.1.9.jar returned status 404

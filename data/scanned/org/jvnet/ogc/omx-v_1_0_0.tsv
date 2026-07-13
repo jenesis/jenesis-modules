@@ -1,3 +1,6 @@
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/omx-v_1_0_0/1.0.2/omx-v_1_0_0-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/omx-v_1_0_0/1.0.3/omx-v_1_0_0-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/omx-v_1_0_0/1.1.0/omx-v_1_0_0-1.1.0.jar returned status 404
 2.5.4		2015-12-01T13:15:39Z	
 2.6.0		2015-12-29T00:05:57Z	
 2.6.1		2016-02-26T21:01:45Z	

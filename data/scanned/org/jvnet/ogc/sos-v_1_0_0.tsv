@@ -1,3 +1,6 @@
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/sos-v_1_0_0/1.0.2/sos-v_1_0_0-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/sos-v_1_0_0/1.0.3/sos-v_1_0_0-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/sos-v_1_0_0/1.1.0/sos-v_1_0_0-1.1.0.jar returned status 404
 2.1.0		2015-03-28T09:37:39Z	
 2.2.0		2015-04-16T05:59:59Z	
 2.4.0		2015-08-28T22:10:32Z	

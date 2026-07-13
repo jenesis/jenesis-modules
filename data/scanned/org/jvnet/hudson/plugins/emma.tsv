@@ -1,14 +1,20 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.0/emma-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.1/emma-1.1.jar returned status 404
 1.10		2009-06-09T17:33:45Z	
 1.11		2010-01-25T19:45:07Z	
 1.12		2010-02-21T18:49:16Z	
 1.13		2010-03-07T09:32:32Z	
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.14/emma-1.14.jar returned status 404
 1.16		2010-03-08T16:59:43Z	
 1.17		2010-03-09T19:12:15Z	
 1.18		2010-03-18T00:38:54Z	
 1.19		2010-03-18T08:26:31Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.2/emma-1.2.jar returned status 404
 1.20		2010-03-19T00:45:31Z	
 1.21		2010-09-11T19:04:43Z	
 1.22		2011-01-27T10:41:23Z	
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.3/emma-1.3.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/emma/1.4/emma-1.4.jar returned status 404
 1.5		2007-07-05T06:47:54Z	
 1.6		2007-07-05T06:47:55Z	
 1.9		2009-04-07T01:57:17Z	

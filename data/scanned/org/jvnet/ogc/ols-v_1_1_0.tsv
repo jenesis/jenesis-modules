@@ -1,3 +1,6 @@
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/ols-v_1_1_0/1.0.2/ols-v_1_1_0-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/ols-v_1_1_0/1.0.3/ols-v_1_1_0-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/ogc/ols-v_1_1_0/1.1.0/ols-v_1_1_0-1.1.0.jar returned status 404
 2.5.2		2015-10-31T13:24:54Z	
 2.5.3		2015-11-27T14:09:51Z	
 2.5.4		2015-12-01T13:12:21Z	

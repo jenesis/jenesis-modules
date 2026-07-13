@@ -1,4 +1,5 @@
 1.0		2008-04-19T04:23:36Z	
+1.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/svn-tag/1.0-SNAPSHOT/svn-tag-1.0-SNAPSHOT.jar returned status 404
 1.1		2008-04-19T05:13:52Z	
 1.10		2009-01-29T23:16:15Z	
 1.12		2009-09-22T05:17:08Z	

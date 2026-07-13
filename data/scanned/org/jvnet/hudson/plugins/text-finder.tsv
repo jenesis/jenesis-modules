@@ -1,3 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/text-finder/1.0/text-finder-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jvnet/hudson/plugins/text-finder/1.1/text-finder-1.1.jar returned status 404
 1.2		2007-07-10T14:30:33Z	
 1.5		2008-09-16T13:40:00Z	
 1.6		2008-11-07T05:57:40Z	
