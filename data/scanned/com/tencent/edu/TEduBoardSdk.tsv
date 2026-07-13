@@ -1,3 +1,5 @@
+0.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/0.0.0.4/TEduBoardSdk-0.0.0.4.jar returned status 404
+0.0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/0.0.0.5/TEduBoardSdk-0.0.0.5.jar returned status 404
 2.5.0.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.5.0.47/TEduBoardSdk-2.5.0.47.jar returned status 404
 2.5.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.5.0.48/TEduBoardSdk-2.5.0.48.jar returned status 404
 2.5.0.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.5.0.49/TEduBoardSdk-2.5.0.49.jar returned status 404
@@ -30,6 +32,9 @@
 2.6.6.136			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.6.136/TEduBoardSdk-2.6.6.136.jar returned status 404
 2.6.7.137			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.7.137/TEduBoardSdk-2.6.7.137.jar returned status 404
 2.6.7.138			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.7.138/TEduBoardSdk-2.6.7.138.jar returned status 404
+2.6.8.144			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.8.144/TEduBoardSdk-2.6.8.144.jar returned status 404
+2.6.9.145			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.9.145/TEduBoardSdk-2.6.9.145.jar returned status 404
+2.6.9.236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.6.9.236/TEduBoardSdk-2.6.9.236.jar returned status 404
 2.7.0.150			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.7.0.150/TEduBoardSdk-2.7.0.150.jar returned status 404
 2.7.0.152			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.7.0.152/TEduBoardSdk-2.7.0.152.jar returned status 404
 2.7.1.153			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TEduBoardSdk/2.7.1.153/TEduBoardSdk-2.7.1.153.jar returned status 404
