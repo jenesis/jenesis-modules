@@ -8,3 +8,4 @@
 1.0-ALPHA-17		2017-01-18T13:36:20Z	
 1.0-ALPHA-18		2017-01-31T00:16:34Z	
 1.0-ALPHA-19		2017-02-12T16:08:26Z	
+1.0-ALPHA-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/bluemarine2/bluemarine2-application-javafx-linux-armv6-embedded-jre/1.0-ALPHA-20/bluemarine2-application-javafx-linux-armv6-embedded-jre-1.0-ALPHA-20.jar returned status 404

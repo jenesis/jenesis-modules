@@ -1,3 +1,6 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/rebase/rebot-telegram-bot/0.1/rebot-telegram-bot-0.1.jar returned status 404
 0.1	swarm	2018-02-16T17:35:49Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/rebase/rebot-telegram-bot/0.2/rebot-telegram-bot-0.2.jar returned status 404
 0.2	swarm	2018-08-17T03:44:33Z	
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/rebase/rebot-telegram-bot/0.3/rebot-telegram-bot-0.3.jar returned status 404
 0.3	swarm	2018-12-26T14:55:14Z	

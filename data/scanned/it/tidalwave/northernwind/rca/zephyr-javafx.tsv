@@ -1,5 +1,11 @@
 1.1-ALPHA-10		2014-04-01T21:38:54Z	
 1.1-ALPHA-11		2014-04-03T23:44:50Z	
+1.1-ALPHA-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-12/zephyr-javafx-1.1-ALPHA-12.jar returned status 404
+1.1-ALPHA-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-13/zephyr-javafx-1.1-ALPHA-13.jar returned status 404
+1.1-ALPHA-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-14/zephyr-javafx-1.1-ALPHA-14.jar returned status 404
+1.1-ALPHA-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-15/zephyr-javafx-1.1-ALPHA-15.jar returned status 404
+1.1-ALPHA-16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-16/zephyr-javafx-1.1-ALPHA-16.jar returned status 404
+1.1-ALPHA-17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.1-ALPHA-17/zephyr-javafx-1.1-ALPHA-17.jar returned status 404
 1.1-ALPHA-2		2013-07-06T17:57:24Z	
 1.1-ALPHA-3		2013-07-07T01:00:56Z	
 1.1-ALPHA-5		2013-07-17T23:06:29Z	
@@ -7,3 +13,4 @@
 1.1-ALPHA-7		2013-07-23T08:20:42Z	
 1.1-ALPHA-8		2013-08-01T12:34:23Z	
 1.1-ALPHA-9		2014-03-22T18:57:53Z	
+1.2-ALPHA-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/tidalwave/northernwind/rca/zephyr-javafx/1.2-ALPHA-1/zephyr-javafx-1.2-ALPHA-1.jar returned status 404

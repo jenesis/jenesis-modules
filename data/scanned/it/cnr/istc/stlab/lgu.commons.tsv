@@ -1,3 +1,4 @@
 0.0.4		2019-11-15T07:12:41Z	
 0.0.5		2019-11-19T13:59:05Z	
 0.0.6-dev		2019-12-22T08:52:27Z	
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/istc/stlab/lgu.commons/0.0.8/lgu.commons-0.0.8.jar returned status 404

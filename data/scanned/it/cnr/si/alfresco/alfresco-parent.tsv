@@ -1,1 +1,7 @@
+2.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/2.22/alfresco-parent-2.22.jar returned status 404
+2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/2.23/alfresco-parent-2.23.jar returned status 404
+2.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/2.25/alfresco-parent-2.25.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/3.0/alfresco-parent-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/3.1/alfresco-parent-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/3.2/alfresco-parent-3.2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/alfresco/alfresco-parent/7.0.0/alfresco-parent-7.0.0.jar returned status 404
