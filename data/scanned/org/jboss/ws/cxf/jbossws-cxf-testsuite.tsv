@@ -1,2 +1,9 @@
+4.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/4.3.0.CR1/jbossws-cxf-testsuite-4.3.0.CR1.jar returned status 404
+4.3.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/4.3.5.Final/jbossws-cxf-testsuite-4.3.5.Final.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.0.0.Final/jbossws-cxf-testsuite-7.0.0.Final.jar returned status 404
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.1.0.Final/jbossws-cxf-testsuite-7.1.0.Final.jar returned status 404
+7.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.2.0.Final/jbossws-cxf-testsuite-7.2.0.Final.jar returned status 404
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.3.0.Final/jbossws-cxf-testsuite-7.3.0.Final.jar returned status 404
+7.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.3.1.Final/jbossws-cxf-testsuite-7.3.1.Final.jar returned status 404
 7.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.3.2.Final/jbossws-cxf-testsuite-7.3.2.Final.jar returned status 404
 7.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/cxf/jbossws-cxf-testsuite/7.3.3.Final/jbossws-cxf-testsuite-7.3.3.Final.jar returned status 404

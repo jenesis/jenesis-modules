@@ -1,2 +1,5 @@
+1.0.0.GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/plugins/maven-jaxws-tools-plugin/1.0.0.GA/maven-jaxws-tools-plugin-1.0.0.GA.jar returned status 404
+1.0.1.GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/plugins/maven-jaxws-tools-plugin/1.0.1.GA/maven-jaxws-tools-plugin-1.0.1.GA.jar returned status 404
+1.1.0.GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ws/plugins/maven-jaxws-tools-plugin/1.1.0.GA/maven-jaxws-tools-plugin-1.1.0.GA.jar returned status 404
 1.1.1.Final		2013-02-13T15:38:34Z	
 1.1.2.Final		2014-02-07T17:23:16Z	

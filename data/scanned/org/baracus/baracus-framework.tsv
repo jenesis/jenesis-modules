@@ -1,6 +1,12 @@
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/0.7/baracus-framework-0.7.jar returned status 404
+0.7-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/0.7-Beta1/baracus-framework-0.7-Beta1.jar returned status 404
+0.7-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/0.7-SR1/baracus-framework-0.7-SR1.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/0.8/baracus-framework-0.8.jar returned status 404
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/0.8.1/baracus-framework-0.8.1.jar returned status 404
 0.8.2		2014-09-23T06:19:28Z	
 0.9		2015-03-13T14:19:47Z	
 0.9.1		2015-06-21T16:03:55Z	
 0.9.2		2016-01-01T14:11:38Z	
 0.9.3		2016-01-24T16:44:30Z	
 0.9.3-SNAPSHOT.1		2016-01-24T16:43:28Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/baracus/baracus-framework/1.0.1/baracus-framework-1.0.1.jar returned status 404

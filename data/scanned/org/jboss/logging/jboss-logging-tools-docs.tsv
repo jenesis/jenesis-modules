@@ -3,3 +3,8 @@
 2.2.0.Final		2019-04-15T17:58:37Z	
 2.2.1.Final		2019-11-21T22:04:10Z	
 2.2.2.Final		2025-02-28T01:52:55Z	
+3.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/logging/jboss-logging-tools-docs/3.0.0.Final/jboss-logging-tools-docs-3.0.0.Final.jar returned status 404
+3.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/logging/jboss-logging-tools-docs/3.0.1.Final/jboss-logging-tools-docs-3.0.1.Final.jar returned status 404
+3.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/logging/jboss-logging-tools-docs/3.0.2.Final/jboss-logging-tools-docs-3.0.2.Final.jar returned status 404
+3.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/logging/jboss-logging-tools-docs/3.0.3.Final/jboss-logging-tools-docs-3.0.3.Final.jar returned status 404
+3.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/logging/jboss-logging-tools-docs/3.0.4.Final/jboss-logging-tools-docs-3.0.4.Final.jar returned status 404
