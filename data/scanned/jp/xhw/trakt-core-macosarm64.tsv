@@ -2,3 +2,4 @@
 5.1.0	metadata	2026-05-21T11:04:09Z	
 5.1.1		2026-05-29T10:20:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/xhw/trakt-core-macosarm64/5.1.1/trakt-core-macosarm64-5.1.1.jar returned status 404
 5.1.1	metadata	2026-05-29T10:20:26Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/xhw/trakt-core-macosarm64/6.0.0/trakt-core-macosarm64-6.0.0.jar returned status 404

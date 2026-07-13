@@ -1,3 +1,8 @@
 2.0		2014-03-03T13:46:43Z	
 2.1		2014-06-16T10:57:34Z	
 2.3		2014-08-15T16:29:57Z	
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/hh/oauth/subscribe/subscribe/3.0/subscribe-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/hh/oauth/subscribe/subscribe/3.1/subscribe-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/hh/oauth/subscribe/subscribe/3.2/subscribe-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/hh/oauth/subscribe/subscribe/3.3/subscribe-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/hh/oauth/subscribe/subscribe/3.4/subscribe-3.4.jar returned status 404

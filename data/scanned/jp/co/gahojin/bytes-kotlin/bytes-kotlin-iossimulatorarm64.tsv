@@ -2,3 +2,4 @@
 2026.4.0	metadata	2026-04-08T10:34:18Z	
 2026.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/co/gahojin/bytes-kotlin/bytes-kotlin-iossimulatorarm64/2026.4.1/bytes-kotlin-iossimulatorarm64-2026.4.1.jar returned status 404
 2026.4.1	metadata	2026-04-10T01:25:32Z	
+2026.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/co/gahojin/bytes-kotlin/bytes-kotlin-iossimulatorarm64/2026.7.0/bytes-kotlin-iossimulatorarm64-2026.7.0.jar returned status 404

@@ -1,4 +1,5 @@
 1.5.0		2022-05-30T18:01:23Z	
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/sdl/kcp/kcp-netty/1.5.1/kcp-netty-1.5.1.jar returned status 404
 1.6.0		2022-05-31T04:27:04Z	
 1.6.1		2022-06-02T05:37:46Z	
 1.6.2		2022-06-06T03:29:24Z	

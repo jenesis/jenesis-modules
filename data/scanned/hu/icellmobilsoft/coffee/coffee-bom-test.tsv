@@ -1,3 +1,9 @@
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.10.0/coffee-bom-test-2.10.0.jar returned status 404
 2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.10.1/coffee-bom-test-2.10.1.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.11.0/coffee-bom-test-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.12.0/coffee-bom-test-2.12.0.jar returned status 404
 2.13.0		2026-05-20T14:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.13.0/coffee-bom-test-2.13.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.6.0/coffee-bom-test-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.7.0/coffee-bom-test-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.8.0/coffee-bom-test-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-bom-test/2.9.0/coffee-bom-test-2.9.0.jar returned status 404

@@ -1838,3 +1838,12 @@ ai.timefold.solver.jpa
 ai.timefold.solver.jackson
 ai.timefold.solver.migration
 ai.singlr.scimsql
+ru.testit.selenide
+ru.testit.testng
+ru.testit.cucumber4
+ru.testit.cucumber5
+ru.testit.jbehave
+ru.testit.junit5
+ru.testit.junit4
+ru.testit.cucumber6
+ru.testit.cucumber7
