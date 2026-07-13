@@ -394,3 +394,5 @@ notifications_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-serv
 reports_v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:11:22Z	
 reports_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-17T08:12:15Z	
 inventories_v1-rev20260624-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-27T08:10:58Z	
+issueresolution_v1beta-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-10T02:22:32Z	
+issueresolution_v1-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-10T02:22:34Z	

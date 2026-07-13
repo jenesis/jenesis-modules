@@ -1,3 +1,25 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/2.0/extensions-parent-2.0.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/3.0/extensions-parent-3.0.jar returned status 404
+3.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/3.0-rc2/extensions-parent-3.0-rc2.jar returned status 404
+3.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/3.0-rc3/extensions-parent-3.0-rc3.jar returned status 404
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.0/extensions-parent-4.0.jar returned status 404
 4.0	site	2015-04-28T20:34:35Z	
+4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.0-beta/extensions-parent-4.0-beta.jar returned status 404
+4.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.0-beta4/extensions-parent-4.0-beta4.jar returned status 404
 4.0-beta4	site	2014-03-20T21:52:00Z	
+4.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.0-beta5/extensions-parent-4.0-beta5.jar returned status 404
 4.0-beta5	site	2014-09-24T21:03:28Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.1.0/extensions-parent-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.2.0/extensions-parent-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.2.1/extensions-parent-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.2.2/extensions-parent-4.2.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/4.2.3/extensions-parent-4.2.3.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/5.0.0/extensions-parent-5.0.0.jar returned status 404
+5.0.0-BETA-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/5.0.0-BETA-1/extensions-parent-5.0.0-BETA-1.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/5.0.1/extensions-parent-5.0.1.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/5.1.0/extensions-parent-5.1.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/6.0.0/extensions-parent-6.0.0.jar returned status 404
+6.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/6.0.0-rc1/extensions-parent-6.0.0-rc1.jar returned status 404
+6.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/6.0.0-rc2/extensions-parent-6.0.0-rc2.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/7.0.0/extensions-parent-7.0.0.jar returned status 404
+7.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/extensions/extensions-parent/7.0.0-rc1/extensions-parent-7.0.0-rc1.jar returned status 404
