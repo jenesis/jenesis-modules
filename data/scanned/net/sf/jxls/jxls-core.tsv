@@ -16,5 +16,7 @@
 1.0.2		2013-03-14T06:48:51Z	
 1.0.3		2013-07-18T19:35:37Z	
 1.0.4		2014-03-04T19:26:51Z	
+1.0.4-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls-core/1.0.4-SNAPSHOT/jxls-core-1.0.4-SNAPSHOT.jar returned status 404
 1.0.5		2014-03-05T21:09:47Z	
 1.0.6		2014-11-12T22:25:19Z	
+1.0.6-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls-core/1.0.6-SNAPSHOT/jxls-core-1.0.6-SNAPSHOT.jar returned status 404

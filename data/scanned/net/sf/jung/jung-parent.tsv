@@ -1,2 +1,4 @@
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jung/jung-parent/2.1/jung-parent-2.1.jar returned status 404
 2.1	site	2016-03-18T23:13:43Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jung/jung-parent/2.1.1/jung-parent-2.1.1.jar returned status 404
 2.1.1	site	2016-09-07T14:52:51Z	

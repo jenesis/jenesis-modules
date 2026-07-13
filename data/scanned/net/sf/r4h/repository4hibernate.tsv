@@ -1,1 +1,4 @@
 4.1.2		2012-04-23T23:22:24Z	
+4.1.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/r4h/repository4hibernate/4.1.8.Final/repository4hibernate-4.1.8.Final.jar returned status 404
+4.1.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/r4h/repository4hibernate/4.1.9.Final/repository4hibernate-4.1.9.Final.jar returned status 404
+4.3.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/r4h/repository4hibernate/4.3.6.Final/repository4hibernate-4.3.6.Final.jar returned status 404

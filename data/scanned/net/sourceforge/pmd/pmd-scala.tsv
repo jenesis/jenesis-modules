@@ -46,10 +46,45 @@
 6.22.0		2020-03-12T14:50:09Z	
 6.23.0		2020-04-24T09:13:30Z	
 6.24.0		2020-05-24T15:50:29Z	
+6.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.25.0/pmd-scala-6.25.0.jar returned status 404
+6.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.26.0/pmd-scala-6.26.0.jar returned status 404
+6.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.27.0/pmd-scala-6.27.0.jar returned status 404
+6.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.28.0/pmd-scala-6.28.0.jar returned status 404
+6.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.29.0/pmd-scala-6.29.0.jar returned status 404
 6.3.0		2018-04-29T08:05:42Z	
+6.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.30.0/pmd-scala-6.30.0.jar returned status 404
+6.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.31.0/pmd-scala-6.31.0.jar returned status 404
+6.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.32.0/pmd-scala-6.32.0.jar returned status 404
+6.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.33.0/pmd-scala-6.33.0.jar returned status 404
+6.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.34.0/pmd-scala-6.34.0.jar returned status 404
+6.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.35.0/pmd-scala-6.35.0.jar returned status 404
+6.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.36.0/pmd-scala-6.36.0.jar returned status 404
+6.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.37.0/pmd-scala-6.37.0.jar returned status 404
+6.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.38.0/pmd-scala-6.38.0.jar returned status 404
+6.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.39.0/pmd-scala-6.39.0.jar returned status 404
 6.4.0		2018-05-29T17:15:20Z	
+6.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.40.0/pmd-scala-6.40.0.jar returned status 404
+6.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.41.0/pmd-scala-6.41.0.jar returned status 404
+6.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.42.0/pmd-scala-6.42.0.jar returned status 404
+6.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.43.0/pmd-scala-6.43.0.jar returned status 404
+6.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.44.0/pmd-scala-6.44.0.jar returned status 404
+6.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.45.0/pmd-scala-6.45.0.jar returned status 404
+6.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.46.0/pmd-scala-6.46.0.jar returned status 404
+6.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.47.0/pmd-scala-6.47.0.jar returned status 404
+6.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.48.0/pmd-scala-6.48.0.jar returned status 404
+6.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.49.0/pmd-scala-6.49.0.jar returned status 404
 6.5.0		2018-06-26T09:36:46Z	
+6.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.50.0/pmd-scala-6.50.0.jar returned status 404
+6.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.51.0/pmd-scala-6.51.0.jar returned status 404
+6.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.52.0/pmd-scala-6.52.0.jar returned status 404
+6.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.53.0/pmd-scala-6.53.0.jar returned status 404
+6.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.54.0/pmd-scala-6.54.0.jar returned status 404
+6.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/6.55.0/pmd-scala-6.55.0.jar returned status 404
 6.6.0		2018-07-29T10:20:52Z	
 6.7.0		2018-09-02T12:41:58Z	
 6.8.0		2018-09-30T08:25:52Z	
 6.9.0		2018-10-28T16:52:22Z	
+7.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/7.0.0-rc1/pmd-scala-7.0.0-rc1.jar returned status 404
+7.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/7.0.0-rc2/pmd-scala-7.0.0-rc2.jar returned status 404
+7.0.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/7.0.0-rc3/pmd-scala-7.0.0-rc3.jar returned status 404
+7.0.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd-scala/7.0.0-rc4/pmd-scala-7.0.0-rc4.jar returned status 404

@@ -14,3 +14,9 @@
 3.7.0		2021-10-25T11:55:03Z	
 3.8.0		2022-04-06T07:37:57Z	
 3.9.0		2023-05-04T11:52:55Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.0.0/tomcat-authnz-spnego-ad-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.0.1/tomcat-authnz-spnego-ad-4.0.1.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.1.0/tomcat-authnz-spnego-ad-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.2.0/tomcat-authnz-spnego-ad-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.2.1/tomcat-authnz-spnego-ad-4.2.1.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/4.2.4/tomcat-authnz-spnego-ad-4.2.4.jar returned status 404

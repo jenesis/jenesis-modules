@@ -42,6 +42,7 @@
 1.42		2024-02-27T16:24:42Z	
 1.43		2024-02-27T16:36:02Z	
 1.44		2024-02-27T16:41:42Z	
+1.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/svg2ico/svg2ico/1.45/svg2ico-1.45.jar returned status 404
 1.45	all	2024-02-27T17:02:43Z	
 1.46		2024-02-27T18:28:06Z	
 1.47		2024-02-27T19:46:45Z	

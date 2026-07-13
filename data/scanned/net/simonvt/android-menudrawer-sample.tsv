@@ -3,3 +3,4 @@
 2.0.1		2013-02-12T21:11:26Z	
 2.0.2		2013-03-31T20:51:27Z	
 2.0.3		2013-05-19T18:58:36Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/simonvt/android-menudrawer-sample/3.0.0/android-menudrawer-sample-3.0.0.jar returned status 404

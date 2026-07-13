@@ -2,3 +2,6 @@
 0.8.1		2008-12-28T15:36:30Z	
 0.9.0		2009-01-22T15:22:10Z	
 0.9.1		2009-03-20T15:17:40Z	
+0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/patterntesting/patterntesting-check/0.9.5/patterntesting-check-0.9.5.jar returned status 404
+0.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/patterntesting/patterntesting-check/0.9.6/patterntesting-check-0.9.6.jar returned status 404
+0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/patterntesting/patterntesting-check/0.9.8/patterntesting-check-0.9.8.jar returned status 404

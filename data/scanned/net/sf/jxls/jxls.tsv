@@ -1,2 +1,21 @@
 0.8.8		2006-08-21T21:26:04Z	
 0.8.9		2006-09-05T22:41:55Z	
+0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.5/jxls-0.9.5.jar returned status 404
+0.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.6/jxls-0.9.6.jar returned status 404
+0.9.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.6.1/jxls-0.9.6.1.jar returned status 404
+0.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.7/jxls-0.9.7.jar returned status 404
+0.9.7-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.7-SNAPSHOT/jxls-0.9.7-SNAPSHOT.jar returned status 404
+0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.8/jxls-0.9.8.jar returned status 404
+0.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/0.9.9/jxls-0.9.9.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0/jxls-1.0.jar returned status 404
+1.0-RC-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0-RC-1/jxls-1.0-RC-1.jar returned status 404
+1.0-RC-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0-RC-2/jxls-1.0-RC-2.jar returned status 404
+1.0-RC-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0-RC-3/jxls-1.0-RC-3.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.1/jxls-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.2/jxls-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.3/jxls-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.4/jxls-1.0.4.jar returned status 404
+1.0.4-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.4-SNAPSHOT/jxls-1.0.4-SNAPSHOT.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.5/jxls-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.6/jxls-1.0.6.jar returned status 404
+1.0.6-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/jxls/jxls/1.0.6-SNAPSHOT/jxls-1.0.6-SNAPSHOT.jar returned status 404

@@ -31,6 +31,15 @@
 1.6.1		2009-08-24T12:40:51Z	
 1.6.1	osgi	2009-08-24T12:40:51Z	
 1.6.2		2009-08-24T12:40:51Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/1.7.0/ehcache-1.7.0.jar returned status 404
+1.7.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/1.7.0-beta/ehcache-1.7.0-beta.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/1.7.1/ehcache-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/1.7.2/ehcache-1.7.2.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/1.8.0/ehcache-1.8.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.0.0/ehcache-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.0.1/ehcache-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.1.0/ehcache-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.1.1/ehcache-2.1.1.jar returned status 404
 2.10.0		2015-04-02T19:59:42Z	
 2.10.1		2015-10-15T12:00:16Z	
 2.10.2		2016-04-18T21:58:15Z	
@@ -42,6 +51,34 @@
 2.10.7		2021-04-22T13:35:58Z	
 2.10.8		2021-04-23T21:50:29Z	
 2.10.9.2		2021-04-24T01:44:40Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.2.0/ehcache-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.3.0/ehcache-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.3.1/ehcache-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.3.2/ehcache-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.3.3/ehcache-2.3.3.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.1/ehcache-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.2/ehcache-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.3/ehcache-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.4/ehcache-2.4.4.jar returned status 404
+2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.5/ehcache-2.4.5.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.6/ehcache-2.4.6.jar returned status 404
+2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.7/ehcache-2.4.7.jar returned status 404
+2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.4.8/ehcache-2.4.8.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.0/ehcache-2.5.0.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.1/ehcache-2.5.1.jar returned status 404
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.2/ehcache-2.5.2.jar returned status 404
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.3/ehcache-2.5.3.jar returned status 404
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.4/ehcache-2.5.4.jar returned status 404
+2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.5/ehcache-2.5.5.jar returned status 404
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.6/ehcache-2.5.6.jar returned status 404
+2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.5.7/ehcache-2.5.7.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.0/ehcache-2.6.0.jar returned status 404
+2.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.10/ehcache-2.6.10.jar returned status 404
+2.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.11/ehcache-2.6.11.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.2/ehcache-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.3/ehcache-2.6.3.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.5/ehcache-2.6.5.jar returned status 404
+2.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sf/ehcache/ehcache/2.6.7/ehcache-2.6.7.jar returned status 404
 2.7.0		2013-03-12T21:00:20Z	
 2.7.1		2013-06-07T19:28:48Z	
 2.7.2		2013-07-01T18:06:30Z	

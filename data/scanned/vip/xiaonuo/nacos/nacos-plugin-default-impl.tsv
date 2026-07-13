@@ -1,3 +1,4 @@
 2.1.2		2022-11-24T07:36:14Z	
 2.1.2.GA		2022-11-25T14:52:54Z	
 2.1.2.RELEASE		2022-11-25T13:28:27Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/vip/xiaonuo/nacos/nacos-plugin-default-impl/2.3.1/nacos-plugin-default-impl-2.3.1.jar returned status 404
