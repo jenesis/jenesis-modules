@@ -29,9 +29,11 @@
 2.6.0-m2		2018-08-09T13:01:25Z	
 2.6.0-rc1		2018-09-07T21:08:42Z	
 2.6.0-rc2		2018-09-13T15:15:45Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.apimgt.clients.admin.api/3.0.0/org.wso2.carbon.apimgt.clients.admin.api-3.0.0.jar returned status 404
 3.0.0-alpha		2019-09-21T15:19:52Z	
 3.0.0-beta		2019-10-11T12:39:16Z	
 3.0.0-m32		2019-05-16T13:48:48Z	
 3.0.0-m33		2019-05-31T11:03:04Z	
 3.0.0-m35		2019-09-13T13:49:51Z	
+3.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.apimgt.clients.admin.api/3.1.0-alpha/org.wso2.carbon.apimgt.clients.admin.api-3.1.0-alpha.jar returned status 404
 3.1.0-beta		2020-02-14T17:41:31Z	

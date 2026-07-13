@@ -10,6 +10,7 @@
 1.0.19		2018-09-04T14:19:51Z	
 1.0.20		2018-09-07T10:42:49Z	
 1.0.21		2019-01-08T06:21:51Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/coverage-reports/1.0.5/coverage-reports-1.0.5.jar returned status 404
 1.0.6		2017-10-13T11:39:30Z	
 1.0.7		2017-10-16T12:48:07Z	
 1.0.8		2017-11-01T20:07:18Z	

@@ -4,4 +4,6 @@
 1.0.3		2019-01-10T05:15:01Z	
 1.0.4		2019-03-15T09:38:15Z	
 1.0.5		2019-04-09T09:22:33Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/nats/siddhi-io-nats/2.0.0/siddhi-io-nats-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/nats/siddhi-io-nats/2.0.1/siddhi-io-nats-2.0.1.jar returned status 404
 2.0.2		2019-04-11T12:58:29Z	

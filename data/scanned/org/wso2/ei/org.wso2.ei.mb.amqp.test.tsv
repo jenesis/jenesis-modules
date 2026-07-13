@@ -1,1 +1,4 @@
 6.5.0		2019-05-15T22:55:51Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.mb.amqp.test/6.5.0-m4/org.wso2.ei.mb.amqp.test-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.mb.amqp.test/6.5.0-m5/org.wso2.ei.mb.amqp.test-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.ei.mb.amqp.test/6.5.0-m6/org.wso2.ei.mb.amqp.test-6.5.0-m6.jar returned status 404

@@ -16,13 +16,29 @@
 4.0.0-m6		2021-02-02T22:27:19Z	
 4.0.0-m7		2021-02-09T22:43:07Z	
 4.0.0-m8		2021-02-16T16:45:52Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.1.0/org.wso2.carbon.ei.tests.patches-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T09:35:25Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.1.0-beta/org.wso2.carbon.ei.tests.patches-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T06:20:36Z	
 4.1.0-m2		2021-11-26T05:25:13Z	
 4.1.0-m3		2022-01-07T10:58:11Z	
 4.1.0-m4		2022-02-13T02:45:35Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.2.0/org.wso2.carbon.ei.tests.patches-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.2.0-alpha/org.wso2.carbon.ei.tests.patches-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T18:54:43Z	
 4.2.0-m1		2022-11-14T16:00:56Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.3.0/org.wso2.carbon.ei.tests.patches-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.3.0-alpha/org.wso2.carbon.ei.tests.patches-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.3.0-beta/org.wso2.carbon.ei.tests.patches-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.3.0-m1/org.wso2.carbon.ei.tests.patches-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.4.0/org.wso2.carbon.ei.tests.patches-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.4.0-alpha/org.wso2.carbon.ei.tests.patches-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.4.0-beta/org.wso2.carbon.ei.tests.patches-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.4.0-prealpha/org.wso2.carbon.ei.tests.patches-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.5.0/org.wso2.carbon.ei.tests.patches-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.5.0-alpha/org.wso2.carbon.ei.tests.patches-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.5.0-beta/org.wso2.carbon.ei.tests.patches-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/4.5.0-m1/org.wso2.carbon.ei.tests.patches-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T08:39:27Z	
 4.6.0-alpha		2026-02-17T15:19:29Z	
 4.6.0-alpha2		2026-03-25T17:01:14Z	
@@ -30,6 +46,9 @@
 4.6.0-alpha4		2026-04-10T12:55:59Z	
 4.6.0-beta		2026-04-28T15:40:08Z	
 4.6.0-m1		2026-02-06T09:06:03Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.0.0/org.wso2.carbon.ei.tests.patches-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.1.0/org.wso2.carbon.ei.tests.patches-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.1.1/org.wso2.carbon.ei.tests.patches-6.1.1.jar returned status 404
 6.1.1-update10		2017-11-23T14:09:54Z	
 6.1.1-update11		2017-12-02T12:59:19Z	
 6.1.1-update12		2017-12-07T00:33:01Z	
@@ -45,6 +64,7 @@
 6.1.1-update22		2018-02-21T18:53:39Z	
 6.1.1-update23		2018-02-28T21:33:32Z	
 6.1.1-update24		2018-03-11T13:00:58Z	
+6.1.1-update5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.1.1-update5/org.wso2.carbon.ei.tests.patches-6.1.1-update5.jar returned status 404
 6.1.1-update6		2017-10-04T09:17:35Z	
 6.1.1-update8		2017-10-30T15:46:22Z	
 6.1.1-update9		2017-11-13T20:17:22Z	
@@ -75,3 +95,9 @@
 6.5.0-m1		2018-10-31T23:21:32Z	
 6.5.0-m2		2018-11-21T23:12:43Z	
 6.5.0-m3		2019-03-14T20:45:12Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.5.0-m4/org.wso2.carbon.ei.tests.patches-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.5.0-m5/org.wso2.carbon.ei.tests.patches-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.5.0-m6/org.wso2.carbon.ei.tests.patches-6.5.0-m6.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.6.0/org.wso2.carbon.ei.tests.patches-6.6.0.jar returned status 404
+6.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.6.0-alpha/org.wso2.carbon.ei.tests.patches-6.6.0-alpha.jar returned status 404
+6.6.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.patches/6.6.0-beta/org.wso2.carbon.ei.tests.patches-6.6.0-beta.jar returned status 404

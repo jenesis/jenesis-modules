@@ -9,10 +9,13 @@
 4.0.0-m6		2021-02-02T22:34:21Z	
 4.0.0-m7		2021-02-09T22:50:09Z	
 4.0.0-m8		2021-02-16T16:52:52Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.transaction.tests/4.1.0/org.wso2.micro.integrator.transaction.tests-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T09:52:57Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.transaction.tests/4.1.0-beta/org.wso2.micro.integrator.transaction.tests-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T06:37:18Z	
 4.1.0-m2		2021-11-26T05:41:54Z	
 4.1.0-m3		2022-01-07T11:15:38Z	
 4.1.0-m4		2022-02-13T03:03:08Z	
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.micro.integrator.transaction.tests/4.2.0-alpha/org.wso2.micro.integrator.transaction.tests-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T19:12:52Z	
 4.2.0-m1		2022-11-14T16:20:41Z	

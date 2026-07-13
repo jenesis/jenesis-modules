@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/rabbitmq/siddhi-io-rabbitmq/1.0.0/siddhi-io-rabbitmq-1.0.0.jar returned status 404
 1.0.10		2017-12-07T21:57:10Z	
 1.0.11		2017-12-08T00:14:48Z	
 1.0.12		2017-12-11T16:34:27Z	
@@ -8,7 +9,9 @@
 1.0.17		2018-07-26T11:03:43Z	
 1.0.18		2018-08-25T23:37:16Z	
 1.0.19		2018-09-04T13:08:01Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/rabbitmq/siddhi-io-rabbitmq/1.0.2/siddhi-io-rabbitmq-1.0.2.jar returned status 404
 1.0.20		2018-09-07T14:18:43Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/rabbitmq/siddhi-io-rabbitmq/1.0.3/siddhi-io-rabbitmq-1.0.3.jar returned status 404
 1.0.4		2017-10-03T08:27:19Z	
 1.0.5		2017-10-19T13:37:06Z	
 1.0.6		2017-10-25T18:39:36Z	
@@ -16,4 +19,5 @@
 1.0.8		2017-11-24T01:23:38Z	
 1.0.9		2017-12-07T15:12:43Z	
 1.1.0		2019-02-12T18:21:26Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/rabbitmq/siddhi-io-rabbitmq/1.1.1/siddhi-io-rabbitmq-1.1.1.jar returned status 404
 2.0.0		2019-04-30T11:25:08Z	

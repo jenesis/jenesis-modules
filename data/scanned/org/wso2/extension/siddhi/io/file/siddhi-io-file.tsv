@@ -1,7 +1,13 @@
 1.0.0		2017-11-01T11:34:54Z	
+1.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M1/siddhi-io-file-1.0.0-M1.jar returned status 404
 1.0.0-M10		2017-10-19T15:41:14Z	
 1.0.0-M11		2017-10-25T19:15:13Z	
 1.0.0-M12		2017-11-01T10:23:18Z	
+1.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M2/siddhi-io-file-1.0.0-M2.jar returned status 404
+1.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M3/siddhi-io-file-1.0.0-M3.jar returned status 404
+1.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M4/siddhi-io-file-1.0.0-M4.jar returned status 404
+1.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M5/siddhi-io-file-1.0.0-M5.jar returned status 404
+1.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/file/siddhi-io-file/1.0.0-M6/siddhi-io-file-1.0.0-M6.jar returned status 404
 1.0.0-M7		2017-10-02T01:36:27Z	
 1.0.0-M8		2017-10-04T12:21:51Z	
 1.0.0-M9		2017-10-19T15:11:26Z	

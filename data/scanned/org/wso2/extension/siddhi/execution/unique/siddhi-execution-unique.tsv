@@ -1,3 +1,6 @@
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/3.2.0/siddhi-execution-unique-3.2.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.0/siddhi-execution-unique-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.1/siddhi-execution-unique-4.0.1.jar returned status 404
 4.0.10		2017-10-11T08:25:33Z	
 4.0.11		2017-10-13T05:25:48Z	
 4.0.12		2017-10-13T07:09:56Z	
@@ -8,6 +11,7 @@
 4.0.17		2017-11-02T08:57:09Z	
 4.0.18		2017-11-24T01:45:43Z	
 4.0.19		2017-12-07T22:10:51Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.2/siddhi-execution-unique-4.0.2.jar returned status 404
 4.0.20		2017-12-14T13:21:38Z	
 4.0.21		2017-12-19T17:14:49Z	
 4.0.22		2018-01-06T12:56:53Z	
@@ -17,6 +21,11 @@
 4.0.26		2018-09-07T12:18:24Z	
 4.0.27		2018-09-19T10:17:21Z	
 4.0.28		2019-01-08T08:07:21Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.4/siddhi-execution-unique-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.5/siddhi-execution-unique-4.0.5.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.7/siddhi-execution-unique-4.0.7.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.0.8/siddhi-execution-unique-4.0.8.jar returned status 404
 4.0.9		2017-09-19T18:42:34Z	
 4.1.0		2019-02-27T09:37:59Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/unique/siddhi-execution-unique/4.1.1/siddhi-execution-unique-4.1.1.jar returned status 404
 4.1.2		2019-05-27T12:32:48Z	

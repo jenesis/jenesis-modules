@@ -22,4 +22,5 @@
 1.0.8		2017-12-07T23:05:17Z	
 1.0.9		2017-12-08T00:44:40Z	
 1.1.0		2019-02-15T12:23:23Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/approximate/siddhi-execution-approximate/1.1.1/siddhi-execution-approximate-1.1.1.jar returned status 404
 2.0.0		2019-04-29T13:08:31Z	

@@ -1,3 +1,6 @@
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/priority/siddhi-execution-priority/3.2.0/siddhi-execution-priority-3.2.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/priority/siddhi-execution-priority/4.0.0/siddhi-execution-priority-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/priority/siddhi-execution-priority/4.0.1/siddhi-execution-priority-4.0.1.jar returned status 404
 4.0.10		2018-06-15T09:56:27Z	
 4.0.11		2018-08-09T15:13:31Z	
 4.0.12		2018-09-04T14:19:43Z	
@@ -13,4 +16,5 @@
 4.0.8		2017-12-19T17:08:22Z	
 4.0.9		2018-06-13T18:23:58Z	
 4.1.0		2019-02-15T06:47:49Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/priority/siddhi-execution-priority/4.1.1/siddhi-execution-priority-4.1.1.jar returned status 404
 5.0.0		2019-04-29T10:04:47Z	

@@ -1,7 +1,27 @@
 4.2.0		2023-03-11T01:41:59Z	
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.2.0-alpha/org.wso2.am.integration.clients.service.catalog.api-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-09T03:58:01Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0/org.wso2.am.integration.clients.service.catalog.api-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0-alpha/org.wso2.am.integration.clients.service.catalog.api-4.3.0-alpha.jar returned status 404
+4.3.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0-alpha2/org.wso2.am.integration.clients.service.catalog.api-4.3.0-alpha2.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0-beta/org.wso2.am.integration.clients.service.catalog.api-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0-m1/org.wso2.am.integration.clients.service.catalog.api-4.3.0-m1.jar returned status 404
+4.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.3.0-m2/org.wso2.am.integration.clients.service.catalog.api-4.3.0-m2.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.4.0/org.wso2.am.integration.clients.service.catalog.api-4.4.0.jar returned status 404
 4.4.0-alpha		2024-09-30T14:26:10Z	
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.4.0-beta/org.wso2.am.integration.clients.service.catalog.api-4.4.0-beta.jar returned status 404
+4.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.4.0-m1/org.wso2.am.integration.clients.service.catalog.api-4.4.0-m1.jar returned status 404
+4.4.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.4.0-m2/org.wso2.am.integration.clients.service.catalog.api-4.4.0-m2.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.5.0/org.wso2.am.integration.clients.service.catalog.api-4.5.0.jar returned status 404
 4.5.0-alpha		2025-02-16T19:37:57Z	
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.5.0-beta/org.wso2.am.integration.clients.service.catalog.api-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.5.0-m1/org.wso2.am.integration.clients.service.catalog.api-4.5.0-m1.jar returned status 404
+4.5.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.5.0-m2/org.wso2.am.integration.clients.service.catalog.api-4.5.0-m2.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.6.0/org.wso2.am.integration.clients.service.catalog.api-4.6.0.jar returned status 404
+4.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.6.0-alpha/org.wso2.am.integration.clients.service.catalog.api-4.6.0-alpha.jar returned status 404
+4.6.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.6.0-alpha2/org.wso2.am.integration.clients.service.catalog.api-4.6.0-alpha2.jar returned status 404
+4.6.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.6.0-alpha3/org.wso2.am.integration.clients.service.catalog.api-4.6.0-alpha3.jar returned status 404
+4.6.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.clients.service.catalog.api/4.6.0-m1/org.wso2.am.integration.clients.service.catalog.api-4.6.0-m1.jar returned status 404
 4.7.0		2026-04-23T11:02:44Z	
 4.7.0-alpha		2026-03-20T17:42:59Z	
 4.7.0-beta		2026-04-03T16:33:54Z	

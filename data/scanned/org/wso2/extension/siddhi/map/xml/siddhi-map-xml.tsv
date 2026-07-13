@@ -1,5 +1,11 @@
 4.0.0		2017-09-18T10:05:48Z	
+4.0.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M10/siddhi-map-xml-4.0.0-M10.jar returned status 404
+4.0.0-M11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M11/siddhi-map-xml-4.0.0-M11.jar returned status 404
+4.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M5/siddhi-map-xml-4.0.0-M5.jar returned status 404
+4.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M6/siddhi-map-xml-4.0.0-M6.jar returned status 404
+4.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M7/siddhi-map-xml-4.0.0-M7.jar returned status 404
 4.0.0-M8		2017-07-12T09:06:34Z	
+4.0.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/map/xml/siddhi-map-xml/4.0.0-M9/siddhi-map-xml-4.0.0-M9.jar returned status 404
 4.0.1		2017-09-20T13:13:28Z	
 4.0.10		2017-12-14T19:22:26Z	
 4.0.11		2017-12-19T14:40:21Z	

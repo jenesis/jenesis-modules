@@ -1,6 +1,17 @@
 4.2.0		2023-03-11T09:01:45Z	
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.2.0-alpha/org.wso2.carbon.am.integration.restart.test-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-09T11:19:43Z	
+4.3.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.3.0-alpha2/org.wso2.carbon.am.integration.restart.test-4.3.0-alpha2.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.3.0-beta/org.wso2.carbon.am.integration.restart.test-4.3.0-beta.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.4.0/org.wso2.carbon.am.integration.restart.test-4.4.0.jar returned status 404
+4.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.4.0-m1/org.wso2.carbon.am.integration.restart.test-4.4.0-m1.jar returned status 404
+4.4.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.4.0-m2/org.wso2.carbon.am.integration.restart.test-4.4.0-m2.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.5.0/org.wso2.carbon.am.integration.restart.test-4.5.0.jar returned status 404
 4.5.0-alpha		2025-02-17T04:00:52Z	
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.5.0-beta/org.wso2.carbon.am.integration.restart.test-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.5.0-m1/org.wso2.carbon.am.integration.restart.test-4.5.0-m1.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.6.0/org.wso2.carbon.am.integration.restart.test-4.6.0.jar returned status 404
+4.6.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.am.integration.restart.test/4.6.0-alpha3/org.wso2.carbon.am.integration.restart.test-4.6.0-alpha3.jar returned status 404
 4.7.0		2026-04-23T11:41:27Z	
 4.7.0-alpha		2026-03-20T18:21:28Z	
 4.7.0-beta		2026-04-03T17:14:43Z	

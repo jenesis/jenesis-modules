@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/policies/org.wso2.am.policies.mediation.ai.aws-bedrock-guardrail/1.0.0/org.wso2.am.policies.mediation.ai.aws-bedrock-guardrail-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/policies/org.wso2.am.policies.mediation.ai.aws-bedrock-guardrail/1.1.0/org.wso2.am.policies.mediation.ai.aws-bedrock-guardrail-1.1.0.jar returned status 404
 1.2.0		2026-03-17T06:53:17Z	
 1.2.1		2026-03-18T06:09:25Z	
 1.2.2		2026-04-17T07:21:55Z	

@@ -16,14 +16,33 @@
 4.0.0-m6		2021-02-02T20:46:07Z	
 4.0.0-m7		2021-02-09T21:01:35Z	
 4.0.0-m8		2021-02-16T15:04:41Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.1.0/admin-clients-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T08:02:36Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.1.0-beta/admin-clients-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T04:48:53Z	
 4.1.0-m2		2021-11-26T03:53:11Z	
 4.1.0-m3		2022-01-07T09:24:39Z	
 4.1.0-m4		2022-02-13T01:12:26Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.2.0/admin-clients-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.2.0-alpha/admin-clients-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T17:07:17Z	
 4.2.0-m1		2022-11-14T14:12:12Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.3.0/admin-clients-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.3.0-alpha/admin-clients-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.3.0-beta/admin-clients-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.3.0-m1/admin-clients-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.4.0/admin-clients-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.4.0-alpha/admin-clients-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.4.0-beta/admin-clients-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.4.0-prealpha/admin-clients-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.5.0/admin-clients-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.5.0-alpha/admin-clients-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.5.0-beta/admin-clients-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/4.5.0-m1/admin-clients-4.5.0-m1.jar returned status 404
 4.6.0-m1		2026-02-06T07:13:13Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.0.0/admin-clients-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.1.0/admin-clients-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.1.1/admin-clients-6.1.1.jar returned status 404
 6.1.1-update10		2017-11-23T12:25:26Z	
 6.1.1-update11		2017-12-02T11:14:20Z	
 6.1.1-update12		2017-12-06T22:47:22Z	
@@ -39,6 +58,7 @@
 6.1.1-update22		2018-02-21T17:02:40Z	
 6.1.1-update23		2018-02-28T19:42:11Z	
 6.1.1-update24		2018-03-11T10:15:58Z	
+6.1.1-update5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.1.1-update5/admin-clients-6.1.1-update5.jar returned status 404
 6.1.1-update6		2017-10-04T09:15:23Z	
 6.1.1-update8		2017-10-30T13:55:09Z	
 6.1.1-update9		2017-11-13T18:29:33Z	
@@ -69,3 +89,9 @@
 6.5.0-m1		2018-10-31T21:33:56Z	
 6.5.0-m2		2018-11-21T21:30:32Z	
 6.5.0-m3		2019-03-14T18:55:18Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.5.0-m4/admin-clients-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.5.0-m5/admin-clients-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.5.0-m6/admin-clients-6.5.0-m6.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.6.0/admin-clients-6.6.0.jar returned status 404
+6.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.6.0-alpha/admin-clients-6.6.0-alpha.jar returned status 404
+6.6.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/admin-clients/6.6.0-beta/admin-clients-6.6.0-beta.jar returned status 404

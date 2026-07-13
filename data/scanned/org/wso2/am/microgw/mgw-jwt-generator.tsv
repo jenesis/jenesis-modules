@@ -2,7 +2,9 @@
 3.2.0		2020-08-21T22:22:50Z	
 3.2.0-alpha		2020-06-14T09:14:38Z	
 3.2.2		2021-07-13T12:57:52Z	
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/microgw/mgw-jwt-generator/3.2.4/mgw-jwt-generator-3.2.4.jar returned status 404
 3.2.5		2022-08-05T12:10:50Z	
 3.2.6		2023-01-30T07:51:53Z	
 3.2.7		2023-04-24T08:37:54Z	
+3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/microgw/mgw-jwt-generator/3.2.8/mgw-jwt-generator-3.2.8.jar returned status 404
 3.2.9		2024-01-08T04:51:26Z	

@@ -16,13 +16,29 @@
 4.0.0-m6		2021-02-02T20:46:12Z	
 4.0.0-m7		2021-02-09T21:01:40Z	
 4.0.0-m8		2021-02-16T15:04:45Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.1.0/integration-test-utils-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-15T08:02:41Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.1.0-beta/integration-test-utils-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-27T04:48:57Z	
 4.1.0-m2		2021-11-26T03:53:15Z	
 4.1.0-m3		2022-01-07T09:24:43Z	
 4.1.0-m4		2022-02-13T01:12:31Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.2.0/integration-test-utils-4.2.0.jar returned status 404
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.2.0-alpha/integration-test-utils-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-11T17:07:24Z	
 4.2.0-m1		2022-11-14T14:12:26Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.3.0/integration-test-utils-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.3.0-alpha/integration-test-utils-4.3.0-alpha.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.3.0-beta/integration-test-utils-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.3.0-m1/integration-test-utils-4.3.0-m1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.4.0/integration-test-utils-4.4.0.jar returned status 404
+4.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.4.0-alpha/integration-test-utils-4.4.0-alpha.jar returned status 404
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.4.0-beta/integration-test-utils-4.4.0-beta.jar returned status 404
+4.4.0-prealpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.4.0-prealpha/integration-test-utils-4.4.0-prealpha.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.5.0/integration-test-utils-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.5.0-alpha/integration-test-utils-4.5.0-alpha.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.5.0-beta/integration-test-utils-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/4.5.0-m1/integration-test-utils-4.5.0-m1.jar returned status 404
 4.6.0		2026-05-09T06:42:43Z	
 4.6.0-alpha		2026-02-17T13:27:44Z	
 4.6.0-alpha2		2026-03-25T15:08:54Z	
@@ -30,6 +46,9 @@
 4.6.0-alpha4		2026-04-10T11:04:11Z	
 4.6.0-beta		2026-04-28T13:47:41Z	
 4.6.0-m1		2026-02-06T07:13:23Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.0.0/integration-test-utils-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.1.0/integration-test-utils-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.1.1/integration-test-utils-6.1.1.jar returned status 404
 6.1.1-update10		2017-11-23T12:25:37Z	
 6.1.1-update11		2017-12-02T11:14:32Z	
 6.1.1-update12		2017-12-06T22:47:33Z	
@@ -45,6 +64,7 @@
 6.1.1-update22		2018-02-21T17:02:52Z	
 6.1.1-update23		2018-02-28T19:42:28Z	
 6.1.1-update24		2018-03-11T10:16:09Z	
+6.1.1-update5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.1.1-update5/integration-test-utils-6.1.1-update5.jar returned status 404
 6.1.1-update6		2017-10-04T09:15:57Z	
 6.1.1-update8		2017-10-30T13:55:20Z	
 6.1.1-update9		2017-11-13T18:29:44Z	
@@ -75,3 +95,9 @@
 6.5.0-m1		2018-10-31T21:34:09Z	
 6.5.0-m2		2018-11-21T21:30:43Z	
 6.5.0-m3		2019-03-14T18:55:30Z	
+6.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.5.0-m4/integration-test-utils-6.5.0-m4.jar returned status 404
+6.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.5.0-m5/integration-test-utils-6.5.0-m5.jar returned status 404
+6.5.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.5.0-m6/integration-test-utils-6.5.0-m6.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.6.0/integration-test-utils-6.6.0.jar returned status 404
+6.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.6.0-alpha/integration-test-utils-6.6.0-alpha.jar returned status 404
+6.6.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/integration-test-utils/6.6.0-beta/integration-test-utils-6.6.0-beta.jar returned status 404

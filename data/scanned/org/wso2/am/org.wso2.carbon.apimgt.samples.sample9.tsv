@@ -60,6 +60,7 @@
 2.6.0-rc1	jar-with-dependencies	2018-09-07T21:14:08Z	
 2.6.0-rc2		2018-09-13T15:20:18Z	
 2.6.0-rc2	jar-with-dependencies	2018-09-13T15:20:55Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.apimgt.samples.sample9/3.0.0/org.wso2.carbon.apimgt.samples.sample9-3.0.0.jar returned status 404
 3.0.0-alpha		2019-09-21T15:21:55Z	
 3.0.0-alpha	jar-with-dependencies	2019-09-21T15:21:58Z	
 3.0.0-beta		2019-10-11T12:41:16Z	
@@ -70,5 +71,6 @@
 3.0.0-m33	jar-with-dependencies	2019-05-31T11:05:03Z	
 3.0.0-m35		2019-09-13T13:52:00Z	
 3.0.0-m35	jar-with-dependencies	2019-09-13T13:52:03Z	
+3.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.carbon.apimgt.samples.sample9/3.1.0-alpha/org.wso2.carbon.apimgt.samples.sample9-3.1.0-alpha.jar returned status 404
 3.1.0-beta		2020-02-14T17:43:31Z	
 3.1.0-beta	jar-with-dependencies	2020-02-14T17:43:33Z	

@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/siddhi-store-mongodb/1.0.0/siddhi-store-mongodb-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/siddhi-store-mongodb/1.0.1/siddhi-store-mongodb-1.0.1.jar returned status 404
 1.0.10		2017-12-07T20:15:40Z	
 1.0.11		2017-12-07T21:49:23Z	
 1.0.12		2017-12-14T19:27:44Z	
@@ -8,8 +10,11 @@
 1.0.17		2018-07-26T12:55:18Z	
 1.0.18		2018-08-15T06:46:15Z	
 1.0.19		2018-09-04T14:19:49Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/siddhi-store-mongodb/1.0.2/siddhi-store-mongodb-1.0.2.jar returned status 404
 1.0.20		2018-09-07T10:42:45Z	
 1.0.21		2019-01-08T06:21:49Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/siddhi-store-mongodb/1.0.3/siddhi-store-mongodb-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/store/mongodb/siddhi-store-mongodb/1.0.4/siddhi-store-mongodb-1.0.4.jar returned status 404
 1.0.5		2017-09-20T07:33:45Z	
 1.0.6		2017-10-13T11:39:28Z	
 1.0.7		2017-10-16T12:48:04Z	

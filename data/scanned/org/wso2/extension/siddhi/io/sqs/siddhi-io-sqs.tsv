@@ -9,3 +9,4 @@
 1.0.8		2018-12-11T09:28:36Z	
 1.1.0		2019-02-13T11:49:04Z	
 1.1.1		2019-05-23T12:08:42Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/io/sqs/siddhi-io-sqs/2.0.0/siddhi-io-sqs-2.0.0.jar returned status 404

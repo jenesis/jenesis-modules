@@ -14,4 +14,5 @@
 1.0.8		2018-06-13T18:25:21Z	
 1.0.9		2018-06-15T09:56:01Z	
 1.1.0		2019-02-15T13:26:05Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/extension/siddhi/execution/graph/siddhi-execution-graph/1.1.1/siddhi-execution-graph-1.1.1.jar returned status 404
 2.0.0		2019-04-24T08:55:26Z	

@@ -37,26 +37,50 @@
 2.6.0-m2		2018-08-09T13:11:01Z	
 2.6.0-rc1		2018-09-07T21:18:45Z	
 2.6.0-rc2		2018-09-13T15:25:02Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/3.0.0/org.wso2.am.integration.admin.clients-3.0.0.jar returned status 404
 3.0.0-alpha		2019-09-21T15:24:54Z	
 3.0.0-beta		2019-10-11T12:44:50Z	
 3.0.0-m32		2019-05-16T13:54:51Z	
 3.0.0-m33		2019-05-31T11:08:39Z	
 3.0.0-m35		2019-09-13T13:55:04Z	
 3.1.0		2020-03-20T13:15:01Z	
+3.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/3.1.0-alpha/org.wso2.am.integration.admin.clients-3.1.0-alpha.jar returned status 404
 3.1.0-beta		2020-02-14T17:46:17Z	
 3.2.0		2020-08-21T13:25:52Z	
 3.2.0-alpha		2020-06-12T16:01:49Z	
 4.0.0		2021-04-22T08:20:43Z	
 4.0.0-beta		2021-04-04T04:28:32Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.1.0/org.wso2.am.integration.admin.clients-4.1.0.jar returned status 404
 4.1.0-alpha		2022-02-17T15:44:02Z	
+4.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.1.0-beta/org.wso2.am.integration.admin.clients-4.1.0-beta.jar returned status 404
 4.1.0-m1		2021-10-29T14:32:37Z	
 4.1.0-m2		2021-11-29T01:21:04Z	
 4.1.0-m3		2022-01-07T01:12:38Z	
 4.1.0-m4		2022-02-12T08:53:47Z	
 4.2.0		2023-03-11T01:41:17Z	
+4.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.2.0-alpha/org.wso2.am.integration.admin.clients-4.2.0-alpha.jar returned status 404
 4.2.0-beta		2023-02-09T03:57:19Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0/org.wso2.am.integration.admin.clients-4.3.0.jar returned status 404
+4.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0-alpha/org.wso2.am.integration.admin.clients-4.3.0-alpha.jar returned status 404
+4.3.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0-alpha2/org.wso2.am.integration.admin.clients-4.3.0-alpha2.jar returned status 404
+4.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0-beta/org.wso2.am.integration.admin.clients-4.3.0-beta.jar returned status 404
+4.3.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0-m1/org.wso2.am.integration.admin.clients-4.3.0-m1.jar returned status 404
+4.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.3.0-m2/org.wso2.am.integration.admin.clients-4.3.0-m2.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.4.0/org.wso2.am.integration.admin.clients-4.4.0.jar returned status 404
 4.4.0-alpha		2024-09-30T14:25:28Z	
+4.4.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.4.0-beta/org.wso2.am.integration.admin.clients-4.4.0-beta.jar returned status 404
+4.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.4.0-m1/org.wso2.am.integration.admin.clients-4.4.0-m1.jar returned status 404
+4.4.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.4.0-m2/org.wso2.am.integration.admin.clients-4.4.0-m2.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.5.0/org.wso2.am.integration.admin.clients-4.5.0.jar returned status 404
 4.5.0-alpha		2025-02-16T19:37:14Z	
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.5.0-beta/org.wso2.am.integration.admin.clients-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.5.0-m1/org.wso2.am.integration.admin.clients-4.5.0-m1.jar returned status 404
+4.5.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.5.0-m2/org.wso2.am.integration.admin.clients-4.5.0-m2.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.6.0/org.wso2.am.integration.admin.clients-4.6.0.jar returned status 404
+4.6.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.6.0-alpha/org.wso2.am.integration.admin.clients-4.6.0-alpha.jar returned status 404
+4.6.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.6.0-alpha2/org.wso2.am.integration.admin.clients-4.6.0-alpha2.jar returned status 404
+4.6.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.6.0-alpha3/org.wso2.am.integration.admin.clients-4.6.0-alpha3.jar returned status 404
+4.6.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/org.wso2.am.integration.admin.clients/4.6.0-m1/org.wso2.am.integration.admin.clients-4.6.0-m1.jar returned status 404
 4.7.0		2026-04-23T11:02:01Z	
 4.7.0-alpha		2026-03-20T17:41:00Z	
 4.7.0-beta		2026-04-03T16:33:10Z	
