@@ -1,3 +1,16 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.2.0/features-transportpce-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.2.1/features-transportpce-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.2.2/features-transportpce-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.2.3/features-transportpce-0.2.3.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.3.0/features-transportpce-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.3.1/features-transportpce-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.3.2/features-transportpce-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.3.3/features-transportpce-0.3.3.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.4.0/features-transportpce-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.4.1/features-transportpce-0.4.1.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.4.3/features-transportpce-0.4.3.jar returned status 404
+0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.4.4/features-transportpce-0.4.4.jar returned status 404
+0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/0.4.5/features-transportpce-0.4.5.jar returned status 404
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/10.0.0/features-transportpce-10.0.0.jar returned status 404
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/10.0.1/features-transportpce-10.0.1.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/10.1.0/features-transportpce-10.1.0.jar returned status 404
@@ -8,8 +21,10 @@
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/10.3.0/features-transportpce-10.3.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/11.0.0/features-transportpce-11.0.0.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/11.1.0/features-transportpce-11.1.0.jar returned status 404
+11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/11.2.0/features-transportpce-11.2.0.jar returned status 404
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/12.0.0/features-transportpce-12.0.0.jar returned status 404
 12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/12.0.1/features-transportpce-12.0.1.jar returned status 404
+12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/12.1.0/features-transportpce-12.1.0.jar returned status 404
 13.0.0		2026-06-07T15:02:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/13.0.0/features-transportpce-13.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/6.1.0/features-transportpce-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/features-transportpce/6.2.0/features-transportpce-6.2.0.jar returned status 404

@@ -17,6 +17,7 @@
 0.14.2		2021-08-12T07:14:08Z	
 0.14.3		2021-11-04T01:42:13Z	
 0.14.4		2022-01-28T11:30:56Z	
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf-scripts/0.15.0/karaf-scripts-0.15.0.jar returned status 404
 0.15.1		2021-11-26T01:32:36Z	
 0.15.2		2022-02-15T11:08:15Z	
 0.15.3		2022-05-27T01:05:24Z	
