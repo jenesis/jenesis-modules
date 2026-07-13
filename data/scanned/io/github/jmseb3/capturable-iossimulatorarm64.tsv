@@ -14,3 +14,4 @@
 2.0.1	metadata	2026-01-14T01:39:42Z	
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jmseb3/capturable-iossimulatorarm64/2.0.2/capturable-iossimulatorarm64-2.0.2.jar returned status 404
 2.0.2	metadata	2026-03-06T01:54:12Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jmseb3/capturable-iossimulatorarm64/2.1.0/capturable-iossimulatorarm64-2.1.0.jar returned status 404

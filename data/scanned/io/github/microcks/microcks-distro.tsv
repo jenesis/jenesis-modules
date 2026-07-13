@@ -1,3 +1,7 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.10.0/microcks-distro-1.10.0.jar returned status 404
+1.10.0-fix-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.10.0-fix-1/microcks-distro-1.10.0-fix-1.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.10.1/microcks-distro-1.10.1.jar returned status 404
+1.10.1-fix-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.10.1-fix-1/microcks-distro-1.10.1-fix-1.jar returned status 404
 1.11.0		2025-01-15T13:11:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.11.0/microcks-distro-1.11.0.jar returned status 404
 1.11.0-fix-2		2025-02-10T09:49:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.11.0-fix-2/microcks-distro-1.11.0-fix-2.jar returned status 404
 1.11.0-fix-3		2025-02-10T13:41:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.11.0-fix-3/microcks-distro-1.11.0-fix-3.jar returned status 404
@@ -12,3 +16,12 @@
 1.14.0-rc1		2026-03-27T13:47:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.14.0-rc1/microcks-distro-1.14.0-rc1.jar returned status 404
 1.14.0-rc2		2026-03-31T12:53:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.14.0-rc2/microcks-distro-1.14.0-rc2.jar returned status 404
 1.15.0-rc1		2026-06-22T11:32:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.15.0-rc1/microcks-distro-1.15.0-rc1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.8.0/microcks-distro-1.8.0.jar returned status 404
+1.8.0-fix-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.8.0-fix-1/microcks-distro-1.8.0-fix-1.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.8.1/microcks-distro-1.8.1.jar returned status 404
+1.8.1-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.8.1-M1/microcks-distro-1.8.1-M1.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.9.0/microcks-distro-1.9.0.jar returned status 404
+1.9.0-fix-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.9.0-fix-1/microcks-distro-1.9.0-fix-1.jar returned status 404
+1.9.0-fix-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.9.0-fix-2/microcks-distro-1.9.0-fix-2.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.9.1/microcks-distro-1.9.1.jar returned status 404
+1.9.1-fix-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microcks/microcks-distro/1.9.1-fix-1/microcks-distro-1.9.1-fix-1.jar returned status 404

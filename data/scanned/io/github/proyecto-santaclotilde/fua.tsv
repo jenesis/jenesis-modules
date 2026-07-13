@@ -4,3 +4,6 @@
 1.0.78		2026-06-19T14:56:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.78/fua-1.0.78.jar returned status 404
 1.0.79		2026-06-19T20:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.79/fua-1.0.79.jar returned status 404
 1.0.80		2026-06-25T22:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.80/fua-1.0.80.jar returned status 404
+1.0.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.82/fua-1.0.82.jar returned status 404
+1.0.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.83/fua-1.0.83.jar returned status 404
+1.0.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/proyecto-santaclotilde/fua/1.0.85/fua-1.0.85.jar returned status 404

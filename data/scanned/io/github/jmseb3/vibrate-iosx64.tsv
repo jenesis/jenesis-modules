@@ -4,5 +4,6 @@
 1.0.0-beta01	metadata	2025-03-27T02:44:04Z	
 1.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jmseb3/vibrate-iosx64/1.0.0-beta02/vibrate-iosx64-1.0.0-beta02.jar returned status 404
 1.0.0-beta02	metadata	2025-04-10T01:08:51Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jmseb3/vibrate-iosx64/1.1.0/vibrate-iosx64-1.1.0.jar returned status 404
 1.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jmseb3/vibrate-iosx64/1.1.0-beta01/vibrate-iosx64-1.1.0-beta01.jar returned status 404
 1.1.0-beta01	metadata	2026-03-27T05:00:31Z	

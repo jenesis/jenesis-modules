@@ -1,3 +1,5 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roger3lee/domain-dependencies/2.0.0/domain-dependencies-2.0.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roger3lee/domain-dependencies/3.0.0/domain-dependencies-3.0.0.jar returned status 404
 3.0.1		2026-06-04T08:05:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roger3lee/domain-dependencies/3.0.1/domain-dependencies-3.0.1.jar returned status 404
 3.0.2		2026-06-04T08:46:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roger3lee/domain-dependencies/3.0.2/domain-dependencies-3.0.2.jar returned status 404
 3.0.3		2026-06-10T11:53:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roger3lee/domain-dependencies/3.0.3/domain-dependencies-3.0.3.jar returned status 404

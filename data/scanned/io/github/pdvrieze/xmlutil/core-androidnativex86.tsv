@@ -10,3 +10,4 @@
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-androidnativex86/1.0.0-rc1/core-androidnativex86-1.0.0-rc1.jar returned status 404
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-androidnativex86/1.0.0-rc2/core-androidnativex86-1.0.0-rc2.jar returned status 404
 1.0.0-rc3		2026-06-06T20:25:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-androidnativex86/1.0.0-rc3/core-androidnativex86-1.0.0-rc3.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-androidnativex86/1.0.1/core-androidnativex86-1.0.1.jar returned status 404

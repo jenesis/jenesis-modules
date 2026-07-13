@@ -25,6 +25,10 @@
 0.31.0		2026-07-02T10:01:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.31.0/configuration-android-0.31.0.jar returned status 404
 0.32.0		2026-07-03T06:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.32.0/configuration-android-0.32.0.jar returned status 404
 0.33.0		2026-07-06T10:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.33.0/configuration-android-0.33.0.jar returned status 404
+0.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.34.0/configuration-android-0.34.0.jar returned status 404
+0.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.35.0/configuration-android-0.35.0.jar returned status 404
+0.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.36.0/configuration-android-0.36.0.jar returned status 404
+0.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.37.0/configuration-android-0.37.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.4.0/configuration-android-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.5.0/configuration-android-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-android/0.6.0/configuration-android-0.6.0.jar returned status 404

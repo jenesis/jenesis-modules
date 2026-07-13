@@ -6,3 +6,5 @@
 1.0.22		2026-07-02T06:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nogiz-group/videoeditor-sdk/1.0.22/videoeditor-sdk-1.0.22.jar returned status 404
 1.0.23		2026-07-02T14:14:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nogiz-group/videoeditor-sdk/1.0.23/videoeditor-sdk-1.0.23.jar returned status 404
 1.0.24		2026-07-03T13:59:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nogiz-group/videoeditor-sdk/1.0.24/videoeditor-sdk-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nogiz-group/videoeditor-sdk/1.0.25/videoeditor-sdk-1.0.25.jar returned status 404
+1.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nogiz-group/videoeditor-sdk/1.0.26/videoeditor-sdk-1.0.26.jar returned status 404

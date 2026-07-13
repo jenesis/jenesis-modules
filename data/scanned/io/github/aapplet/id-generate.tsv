@@ -1,2 +1,5 @@
 0.0.1		2022-08-15T17:00:02Z	
 0.0.2		2022-08-17T06:58:00Z	
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aapplet/id-generate/0.0.3/id-generate-0.0.3.jar returned status 404
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aapplet/id-generate/0.0.4/id-generate-0.0.4.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aapplet/id-generate/1.0.0/id-generate-1.0.0.jar returned status 404

@@ -1,11 +1,16 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/0.0.1/eyuangame-sdk-ktx-0.0.1.jar returned status 404
 0.0.1	source	2021-07-09T09:07:10Z	
+0.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/0.0.1-alpha/eyuangame-sdk-ktx-0.0.1-alpha.jar returned status 404
 0.0.1-alpha	source	2021-07-16T07:14:33Z	
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0/eyuangame-sdk-ktx-1.0.0.jar returned status 404
 1.0.0	source	2021-10-20T02:54:19Z	
+1.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha/eyuangame-sdk-ktx-1.0.0-alpha.jar returned status 404
 1.0.0-alpha	source	2021-07-16T08:36:16Z	
 1.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha10/eyuangame-sdk-ktx-1.0.0-alpha10.jar returned status 404
 1.0.0-alpha10	source	2021-10-12T06:47:18Z	
+1.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha2/eyuangame-sdk-ktx-1.0.0-alpha2.jar returned status 404
 1.0.0-alpha2	source	2021-07-16T12:45:27Z	
+1.0.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha3/eyuangame-sdk-ktx-1.0.0-alpha3.jar returned status 404
 1.0.0-alpha3	source	2021-07-27T07:36:15Z	
 1.0.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha4/eyuangame-sdk-ktx-1.0.0-alpha4.jar returned status 404
 1.0.0-alpha4	source	2021-07-30T06:42:07Z	
@@ -13,6 +18,7 @@
 1.0.0-alpha5	source	2021-07-30T07:40:26Z	
 1.0.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha6/eyuangame-sdk-ktx-1.0.0-alpha6.jar returned status 404
 1.0.0-alpha6	source	2021-07-30T07:45:19Z	
+1.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha7/eyuangame-sdk-ktx-1.0.0-alpha7.jar returned status 404
 1.0.0-alpha7	source	2021-07-30T07:48:35Z	
 1.0.0-alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yyxxgame/sdk/eyuangame-sdk-ktx/1.0.0-alpha8/eyuangame-sdk-ktx-1.0.0-alpha8.jar returned status 404
 1.0.0-alpha8	source	2021-08-09T09:47:22Z	

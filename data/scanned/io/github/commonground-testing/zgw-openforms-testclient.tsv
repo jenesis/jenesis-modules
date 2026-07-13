@@ -2,4 +2,5 @@
 1.1.0		2023-09-11T12:33:23Z	
 2.0.0		2023-11-14T12:44:51Z	
 2.0.1		2023-11-16T10:04:53Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/commonground-testing/zgw-openforms-testclient/2.0.2/zgw-openforms-testclient-2.0.2.jar returned status 404
 2.0.3		2024-01-26T09:54:23Z	

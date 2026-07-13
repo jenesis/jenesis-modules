@@ -9,3 +9,4 @@
 3.1.2		2022-09-25T02:30:38Z	
 3.1.4		2023-12-15T10:04:25Z	
 3.1.5		2023-12-18T08:51:01Z	
+3.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sika-code-cloud/sika-code-db-sharding/3.1.6/sika-code-db-sharding-3.1.6.jar returned status 404

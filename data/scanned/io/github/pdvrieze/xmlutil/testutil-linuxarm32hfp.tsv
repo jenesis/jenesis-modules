@@ -19,3 +19,4 @@
 1.0.0		2026-06-28T20:46:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-linuxarm32hfp/1.0.0/testutil-linuxarm32hfp-1.0.0.jar returned status 404
 1.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-linuxarm32hfp/1.0.0-rc1/testutil-linuxarm32hfp-1.0.0-rc1.jar returned status 404
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-linuxarm32hfp/1.0.0-rc2/testutil-linuxarm32hfp-1.0.0-rc2.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-linuxarm32hfp/1.0.1/testutil-linuxarm32hfp-1.0.1.jar returned status 404
