@@ -1,3 +1,7 @@
 0.5.1		2014-11-05T21:06:48Z	
 0.6.0		2015-05-02T13:35:09Z	
 0.6.1		2016-01-02T15:50:18Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datumbox/datumbox-framework/0.7.0/datumbox-framework-0.7.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datumbox/datumbox-framework/0.8.0/datumbox-framework-0.8.0.jar returned status 404
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datumbox/datumbox-framework/0.8.1/datumbox-framework-0.8.1.jar returned status 404
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datumbox/datumbox-framework/0.8.2/datumbox-framework-0.8.2.jar returned status 404

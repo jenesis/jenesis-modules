@@ -200,3 +200,4 @@ com.aspectran.thymeleaf
 com.aspectran.daemon
 com.nimbusds.infinispan.persistence.dynamodb
 com.nimbusds.infinispan.persistence.sql
+com.athaydes.logfx

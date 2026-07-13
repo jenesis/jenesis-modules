@@ -1,2 +1,8 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.0/bamboostorage-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.1/bamboostorage-1.1.jar returned status 404
 1.2		2014-09-03T10:54:45Z	
 1.2.1		2014-09-03T11:41:53Z	
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.2.2/bamboostorage-1.2.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.3/bamboostorage-1.3.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.3.1/bamboostorage-1.3.1.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushtorefresh/bamboostorage/1.4.0/bamboostorage-1.4.0.jar returned status 404

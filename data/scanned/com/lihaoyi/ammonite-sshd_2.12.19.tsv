@@ -41,6 +41,7 @@
 3.0.0-M2-11-713b6963		2024-06-16T14:56:40Z	
 3.0.0-M2-12-951bbc1e		2024-06-17T17:42:13Z	
 3.0.0-M2-13-23a8ef64		2024-06-25T22:35:12Z	
+3.0.0-M2-14-23a07fdf			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/ammonite-sshd_2.12.19/3.0.0-M2-14-23a07fdf/ammonite-sshd_2.12.19-3.0.0-M2-14-23a07fdf.jar returned status 404
 3.0.0-M2-15-9bed9700		2024-07-17T19:37:43Z	
 3.0.0-M2-2-741e5dbb		2024-05-15T14:28:32Z	
 3.0.0-M2-3-b5eb4787		2024-05-18T00:47:33Z	

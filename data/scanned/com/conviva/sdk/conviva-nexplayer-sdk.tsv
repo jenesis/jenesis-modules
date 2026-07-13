@@ -1,2 +1,8 @@
+2.145.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/2.145.0/conviva-nexplayer-sdk-2.145.0.jar returned status 404
+2.145.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/2.145.1/conviva-nexplayer-sdk-2.145.1.jar returned status 404
+2.145.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/2.145.2/conviva-nexplayer-sdk-2.145.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/4.0.0/conviva-nexplayer-sdk-4.0.0.jar returned status 404
+4.0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/4.0.1.4/conviva-nexplayer-sdk-4.0.1.4.jar returned status 404
+4.0.2.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/4.0.2.18/conviva-nexplayer-sdk-4.0.2.18.jar returned status 404
 4.0.3.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/4.0.3.27/conviva-nexplayer-sdk-4.0.3.27.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conviva/sdk/conviva-nexplayer-sdk/4.0.4/conviva-nexplayer-sdk-4.0.4.jar returned status 404

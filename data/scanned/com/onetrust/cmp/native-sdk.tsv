@@ -90,9 +90,43 @@
 202606.1.0.0		2026-06-02T08:26:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/202606.1.0.0/native-sdk-202606.1.0.0.jar returned status 404
 202606.1.0.1		2026-06-15T17:33:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/202606.1.0.1/native-sdk-202606.1.0.1.jar returned status 404
 202606.2.0.0		2026-06-23T07:14:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/202606.2.0.0/native-sdk-202606.2.0.0.jar returned status 404
+6.10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.10.0.0/native-sdk-6.10.0.0.jar returned status 404
+6.11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.11.0.0/native-sdk-6.11.0.0.jar returned status 404
+6.12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.12.0.0/native-sdk-6.12.0.0.jar returned status 404
+6.13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.13.0.0/native-sdk-6.13.0.0.jar returned status 404
+6.14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.14.0.0/native-sdk-6.14.0.0.jar returned status 404
+6.15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.15.0.0/native-sdk-6.15.0.0.jar returned status 404
+6.16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.16.0.0/native-sdk-6.16.0.0.jar returned status 404
+6.17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.17.0.0/native-sdk-6.17.0.0.jar returned status 404
+6.18.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.18.0.0/native-sdk-6.18.0.0.jar returned status 404
+6.19.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.0/native-sdk-6.19.0.0.jar returned status 404
+6.19.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.1/native-sdk-6.19.0.1.jar returned status 404
+6.19.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.10/native-sdk-6.19.0.10.jar returned status 404
 6.19.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.11/native-sdk-6.19.0.11.jar returned status 404
 6.19.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.12/native-sdk-6.19.0.12.jar returned status 404
 6.19.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.13/native-sdk-6.19.0.13.jar returned status 404
+6.19.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.14/native-sdk-6.19.0.14.jar returned status 404
+6.19.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.15/native-sdk-6.19.0.15.jar returned status 404
+6.19.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.2/native-sdk-6.19.0.2.jar returned status 404
+6.19.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.3/native-sdk-6.19.0.3.jar returned status 404
+6.19.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.4/native-sdk-6.19.0.4.jar returned status 404
+6.19.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.5/native-sdk-6.19.0.5.jar returned status 404
+6.19.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.6/native-sdk-6.19.0.6.jar returned status 404
+6.19.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.7/native-sdk-6.19.0.7.jar returned status 404
+6.19.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.8/native-sdk-6.19.0.8.jar returned status 404
+6.19.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.19.0.9/native-sdk-6.19.0.9.jar returned status 404
+6.2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.2.2.0/native-sdk-6.2.2.0.jar returned status 404
+6.20.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.20.0.0/native-sdk-6.20.0.0.jar returned status 404
+6.21.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.21.0.0/native-sdk-6.21.0.0.jar returned status 404
+6.22.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.22.0.0/native-sdk-6.22.0.0.jar returned status 404
+6.23.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.23.0.0/native-sdk-6.23.0.0.jar returned status 404
+6.24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.24.0.0/native-sdk-6.24.0.0.jar returned status 404
+6.25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.25.0.0/native-sdk-6.25.0.0.jar returned status 404
+6.25.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.25.7.0/native-sdk-6.25.7.0.jar returned status 404
+6.26.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.26.0.0/native-sdk-6.26.0.0.jar returned status 404
+6.27.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.27.0.0/native-sdk-6.27.0.0.jar returned status 404
+6.28.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.28.0.0/native-sdk-6.28.0.0.jar returned status 404
+6.29.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.29.0.0/native-sdk-6.29.0.0.jar returned status 404
 6.30.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.30.0.0/native-sdk-6.30.0.0.jar returned status 404
 6.31.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.31.0.0/native-sdk-6.31.0.0.jar returned status 404
 6.32.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.32.0.0/native-sdk-6.32.0.0.jar returned status 404
@@ -104,3 +138,11 @@
 6.37.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.37.0.0/native-sdk-6.37.0.0.jar returned status 404
 6.38.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.38.0.0/native-sdk-6.38.0.0.jar returned status 404
 6.39.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.39.0.0/native-sdk-6.39.0.0.jar returned status 404
+6.5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.5.0.0/native-sdk-6.5.0.0.jar returned status 404
+6.6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.6.0.0/native-sdk-6.6.0.0.jar returned status 404
+6.6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.6.1.0/native-sdk-6.6.1.0.jar returned status 404
+6.7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.7.0.0/native-sdk-6.7.0.0.jar returned status 404
+6.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.7.0.1/native-sdk-6.7.0.1.jar returned status 404
+6.8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.8.0.0/native-sdk-6.8.0.0.jar returned status 404
+6.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.9.0.0/native-sdk-6.9.0.0.jar returned status 404
+6.9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onetrust/cmp/native-sdk/6.9.1.0/native-sdk-6.9.1.0.jar returned status 404

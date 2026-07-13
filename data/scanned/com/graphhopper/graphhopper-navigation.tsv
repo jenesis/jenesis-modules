@@ -1,4 +1,9 @@
+0.11.0-pre0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/graphhopper/graphhopper-navigation/0.11.0-pre0/graphhopper-navigation-0.11.0-pre0.jar returned status 404
+0.11.0-pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/graphhopper/graphhopper-navigation/0.11.0-pre1/graphhopper-navigation-0.11.0-pre1.jar returned status 404
+0.11.0-pre2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/graphhopper/graphhopper-navigation/0.11.0-pre2/graphhopper-navigation-0.11.0-pre2.jar returned status 404
+0.11.0-pre3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/graphhopper/graphhopper-navigation/0.11.0-pre3/graphhopper-navigation-0.11.0-pre3.jar returned status 404
 0.12.0		2019-03-25T14:56:21Z	
+0.12.0-pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/graphhopper/graphhopper-navigation/0.12.0-pre1/graphhopper-navigation-0.12.0-pre1.jar returned status 404
 0.12.0-pre2		2018-11-12T17:41:55Z	
 0.12.0-pre3		2018-11-30T09:50:14Z	
 0.12.0-pre4		2019-02-19T17:15:20Z	
