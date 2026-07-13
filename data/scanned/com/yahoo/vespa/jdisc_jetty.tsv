@@ -312,6 +312,7 @@
 7.343.18		2021-01-20T01:33:04Z	
 7.346.59		2021-01-26T07:29:51Z	
 7.347.28		2021-01-27T13:43:37Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/jdisc_jetty/7.348.26/jdisc_jetty-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:30:27Z	
 7.350.53		2021-02-02T01:35:16Z	
 7.351.32		2021-02-04T04:16:54Z	
@@ -495,6 +496,7 @@
 7.567.26		2022-03-30T21:12:21Z	
 7.569.71		2022-04-04T16:18:20Z	
 7.57.40		2019-06-12T05:27:41Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/jdisc_jetty/7.570.21/jdisc_jetty-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:41:36Z	
 7.574.71		2022-04-19T22:15:01Z	
 7.575.35		2022-04-20T22:24:24Z	

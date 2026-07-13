@@ -626,6 +626,7 @@
 7.346.59	bundle	2021-01-26T07:30:06Z	
 7.347.28		2021-01-27T13:42:11Z	
 7.347.28	bundle	2021-01-27T13:42:11Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/node-admin/7.348.26/node-admin-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:30:31Z	
 7.349.32	bundle	2021-01-28T19:30:30Z	
 7.350.53		2021-02-02T01:35:03Z	
@@ -992,6 +993,7 @@
 7.569.71	bundle	2022-04-04T16:18:14Z	
 7.57.40		2019-06-12T05:32:05Z	
 7.57.40	bundle	2019-06-12T05:32:05Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/node-admin/7.570.21/node-admin-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:35:57Z	
 7.571.25	bundle	2022-04-06T13:42:03Z	
 7.574.71		2022-04-19T22:15:38Z	

@@ -312,6 +312,7 @@
 7.343.18		2021-01-20T01:31:59Z	
 7.346.59		2021-01-26T07:29:29Z	
 7.347.28		2021-01-27T13:43:21Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/messagebus-disc/7.348.26/messagebus-disc-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:31:40Z	
 7.350.53		2021-02-02T01:35:02Z	
 7.351.32		2021-02-04T04:16:53Z	

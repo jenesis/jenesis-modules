@@ -293,6 +293,7 @@
 7.343.18		2021-01-20T01:32:12Z	
 7.346.59		2021-01-26T07:28:57Z	
 7.347.28		2021-01-27T13:43:02Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/athenz-identity-provider-service/7.348.26/athenz-identity-provider-service-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:31:15Z	
 7.350.53		2021-02-02T01:35:48Z	
 7.351.32		2021-02-04T04:16:53Z	
@@ -476,6 +477,7 @@
 7.567.26		2022-03-30T21:29:45Z	
 7.569.71		2022-04-04T16:17:59Z	
 7.57.40		2019-06-12T05:38:47Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/athenz-identity-provider-service/7.570.21/athenz-identity-provider-service-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:36:25Z	
 7.574.71		2022-04-19T22:18:38Z	
 7.575.35		2022-04-20T22:26:52Z	

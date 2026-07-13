@@ -312,6 +312,7 @@
 7.343.18		2021-01-20T01:31:45Z	
 7.346.59		2021-01-26T07:28:05Z	
 7.347.28		2021-01-27T13:41:30Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/vespa-hadoop/7.348.26/vespa-hadoop-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:30:17Z	
 7.350.53		2021-02-02T01:35:18Z	
 7.351.32		2021-02-04T04:16:36Z	
@@ -494,6 +495,7 @@
 7.567.26		2022-03-30T21:41:12Z	
 7.569.71		2022-04-04T16:18:32Z	
 7.57.40		2019-06-12T05:35:20Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/vespa-hadoop/7.570.21/vespa-hadoop-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:37:40Z	
 7.574.71		2022-04-19T22:15:55Z	
 7.575.35		2022-04-20T22:26:38Z	

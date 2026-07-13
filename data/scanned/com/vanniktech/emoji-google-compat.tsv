@@ -14,6 +14,8 @@
 0.23.0		2025-11-28T02:09:26Z	
 0.24.0		2026-03-23T16:45:21Z	
 0.24.1		2026-03-23T17:40:22Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vanniktech/emoji-google-compat/0.6.0/emoji-google-compat-0.6.0.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vanniktech/emoji-google-compat/0.7.0/emoji-google-compat-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vanniktech/emoji-google-compat/0.8.0/emoji-google-compat-0.8.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vanniktech/emoji-google-compat/0.9.0/emoji-google-compat-0.9.0.jar returned status 404
 0.9.0	debug-javadoc	2022-04-09T11:03:32Z	

@@ -312,6 +312,7 @@
 7.343.18		2021-01-20T01:32:03Z	
 7.346.59		2021-01-26T07:28:32Z	
 7.347.28		2021-01-27T13:41:46Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/yolean/7.348.26/yolean-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:29:52Z	
 7.350.53		2021-02-02T01:36:25Z	
 7.351.32		2021-02-04T04:16:01Z	
@@ -495,6 +496,7 @@
 7.567.26		2022-03-30T21:46:06Z	
 7.569.71		2022-04-04T16:17:57Z	
 7.57.40		2019-06-12T05:39:29Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/yolean/7.570.21/yolean-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:39:37Z	
 7.574.71		2022-04-19T22:17:33Z	
 7.575.35		2022-04-20T22:23:25Z	

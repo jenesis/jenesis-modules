@@ -378,6 +378,7 @@
 7.343.18		2021-01-20T01:33:14Z	
 7.346.59		2021-01-26T07:29:29Z	
 7.347.28		2021-01-27T13:41:48Z	
+7.348.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/vespa-http-client/7.348.26/vespa-http-client-7.348.26.jar returned status 404
 7.349.32		2021-01-28T19:30:45Z	
 7.350.53		2021-02-02T01:35:09Z	
 7.351.32		2021-02-04T04:15:31Z	
@@ -724,6 +725,7 @@
 7.569.71	jar-with-dependencies	2022-04-04T16:14:45Z	
 7.57.40		2019-06-12T05:35:52Z	
 7.57.40	deploy	2019-06-12T05:35:46Z	
+7.570.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yahoo/vespa/vespa-http-client/7.570.21/vespa-http-client-7.570.21.jar returned status 404
 7.571.25		2022-04-06T13:39:46Z	
 7.571.25	jar-with-dependencies	2022-04-06T13:41:35Z	
 7.574.71		2022-04-19T22:16:27Z	
