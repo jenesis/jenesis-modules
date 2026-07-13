@@ -2833,3 +2833,4 @@ io.opentelemetry.sdk.trace
 sdk.profiles
 io.opentelemetry.exporter.zipkin
 io.reactivex.rxjava4
+io.jooby.cli

@@ -1,1 +1,6 @@
 0.0.1		2013-02-07T20:28:23Z	
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/provis/provisio-webserver/0.0.2/provisio-webserver-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/provis/provisio-webserver/0.0.3/provisio-webserver-0.0.3.jar returned status 404
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/provis/provisio-webserver/0.0.4/provisio-webserver-0.0.4.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/provis/provisio-webserver/0.0.5/provisio-webserver-0.0.5.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/provis/provisio-webserver/0.0.6/provisio-webserver-0.0.6.jar returned status 404

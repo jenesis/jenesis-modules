@@ -614,6 +614,7 @@
 1.0.0	named	io.github.aliyunmq	rocketmq-slf4j-api	2022-11-21T11:18:05Z	2.0.3
 2.0.5	named	org.slf4j	slf4j-api	2022-11-25T11:42:46Z	2.0.5
 0.4.3	named	org.logevents	logevents-smtp-demo	2022-12-01T22:06:37Z	2.0.3
+3.0.0.M1	named	io.jooby	jooby-cli	2022-12-05T18:58:03Z	2.0.1
 10.0.13	named	org.eclipse.jetty	jetty-runner	2022-12-07T20:24:28Z	2.0.5
 11.0.13	named	org.eclipse.jetty	jetty-runner	2022-12-07T20:58:52Z	2.0.5
 22.11.1	named	com.arcadedb	arcadedb-gremlin	2022-12-07T21:39:30Z	2.0.3
@@ -626,6 +627,7 @@
 2023.0.0	named	io.github.davidwhitlock.cs410J	grader	2022-12-22T01:17:43Z	2.0.4
 22.12.1	named	com.arcadedb	arcadedb-mongodbw	2022-12-23T22:08:03Z	2.0.6
 22.12.1	named	com.arcadedb	arcadedb-gremlin	2022-12-23T22:08:12Z	2.0.6
+3.0.0.M2	named	io.jooby	jooby-cli	2023-01-01T17:48:07Z	2.0.6
 1.0.2	named	io.github.thewebcode	YCore	2023-01-02T20:05:02Z	2.0.1
 1.80	named	no.entur	schema2proto-lib	2023-01-14T14:54:46Z	2.0.5
 23.1.1	named	com.arcadedb	arcadedb-mongodbw	2023-01-16T18:54:44Z	2.0.6
@@ -676,6 +678,8 @@
 23.2.1	named	com.arcadedb	arcadedb-mongodbw	2023-03-01T02:20:04Z	2.0.6
 23.2.1	named	com.arcadedb	arcadedb-gremlin	2023-03-01T02:20:07Z	2.0.6
 0.1	named	com.yscope.logging	log4j1-appenders	2023-03-03T06:06:00Z	2.0.4
+3.0.0.M3	named	io.jooby	jooby-cli	2023-03-05T23:10:43Z	2.0.6
+3.0.0.M4	named	io.jooby	jooby-cli	2023-03-06T00:42:34Z	2.0.6
 1.3.23	named	io.github.lxgaming	reconstruct-cli	2023-03-12T02:30:29Z	2.0.6
 1.3.23	named	io.github.lxgaming	reconstruct-common	2023-03-12T02:30:36Z	2.0.6
 0.1.1	named	com.yscope.logging	log4j1-appenders	2023-03-13T06:46:30Z	2.0.4
@@ -704,7 +708,9 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 0.1.5	named	com.yscope.logging	log4j1-appenders	2023-03-20T19:37:12Z	2.0.4
 3.6.20	named	net.serenity-bdd	serenity-cli	2023-03-20T22:43:50Z	2.0.7
 3.6.21	named	net.serenity-bdd	serenity-cli	2023-03-21T12:10:41Z	2.0.7
+3.0.0.M5	named	io.jooby	jooby-cli	2023-03-25T23:12:36Z	2.0.7
 3.6.22	named	net.serenity-bdd	serenity-cli	2023-03-29T14:31:28Z	2.0.7
+3.0.0.M6	named	io.jooby	jooby-cli	2023-04-03T14:28:04Z	2.0.7
 2.5.0	named	org.apache.ratis	ratis-examples	2023-04-04T11:51:49Z	2.0.7
 23.3.1	named	com.arcadedb	arcadedb-gremlin	2023-04-05T13:41:20Z	2.0.7
 23.3.1	named	com.arcadedb	arcadedb-mongodbw	2023-04-05T13:41:23Z	2.0.7
@@ -716,6 +722,7 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 10.0.15	named	org.eclipse.jetty	jetty-runner	2023-04-11T17:35:06Z	2.0.5
 11.0.15	named	org.eclipse.jetty	jetty-runner	2023-04-11T18:48:12Z	2.0.5
 2.1.12	named	com.networknt	light-consumer-4j	2023-04-15T02:18:37Z	2.0.7
+3.0.0.M7	named	io.jooby	jooby-cli	2023-04-17T15:09:41Z	2.0.7
 2.1.15	named	com.networknt	light-consumer-4j	2023-04-19T22:19:31Z	2.0.7
 1.0.0	named	com.fathzer	jdbbackup-s3	2023-04-20T08:16:26Z	2.0.6
 0.3.4	named	io.github.nickgibbon	jackson-json-reference-cli	2023-04-20T08:53:35Z	2.0.7
@@ -752,6 +759,7 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 1.0.0	named	com.fathzer	jdbbackup-docker	2023-05-16T08:09:32Z	2.0.6
 2.7.0	named	dev.atchison.mariaDB4j	mariaDB4j-maven-plugin	2023-05-17T19:15:05Z	2.0.6
 2.7.1	named	dev.atchison.mariaDB4j	mariaDB4j-maven-plugin	2023-05-21T19:59:09Z	2.0.6
+3.0.0.M9	named	io.jooby	jooby-cli	2023-05-22T23:48:02Z	2.0.7
 2.20.0	named	io.github.scouter-project	scouter-agent-host	2023-05-29T05:12:10Z	2.0.3
 2.1.19	named	com.networknt	light-consumer-4j	2023-06-05T13:24:29Z	2.0.7
 3.0.0	named	be.vito.rma.standalonetools	standalonetools-springexample	2023-06-07T09:21:48Z	2.0.7
@@ -765,6 +773,7 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 1.0.0	named	io.github.thewebcode	YPlugin	2023-06-14T18:36:35Z	2.0.1
 12.0.0.beta2	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2023-06-16T05:59:52Z	2.0.6
 12.0.0.beta2	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2023-06-16T06:01:04Z	2.0.6
+3.0.0.M11	named	io.jooby	jooby-cli	2023-06-17T20:26:41Z	2.0.7
 2.1.20	named	com.networknt	light-consumer-4j	2023-06-17T23:52:29Z	2.0.7
 1.3.24	named	io.github.lxgaming	reconstruct-cli	2023-06-19T07:52:18Z	2.0.7
 1.3.24	named	io.github.lxgaming	reconstruct-common	2023-06-19T07:52:26Z	2.0.7
@@ -772,6 +781,7 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 5.18.2	named	org.apache.activemq	activemq-all	2023-06-27T13:04:34Z	2.0.6
 12.0.0.beta3	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2023-07-03T21:26:28Z	2.0.7
 12.0.0.beta3	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2023-07-03T21:27:50Z	2.0.7
+3.0.0	named	io.jooby	jooby-cli	2023-07-03T23:26:42Z	2.0.7
 1.86	named	no.entur	schema2proto-lib	2023-07-04T09:30:51Z	2.0.7
 23.6.1	named	com.arcadedb	arcadedb-gremlin	2023-07-05T03:54:40Z	2.0.7
 23.6.1	named	com.arcadedb	arcadedb-mongodbw	2023-07-05T03:54:42Z	2.0.7
@@ -798,6 +808,7 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 1.23.1	named	io.gitlab.arturbosch.detekt	detekt-formatting	2023-07-29T13:52:16Z	2.0.7
 0.5.0	named	org.logevents	logevents-config-demo	2023-07-30T23:02:17Z	2.0.7
 0.5.0	named	org.logevents	logevents-smtp-demo	2023-07-30T23:02:22Z	2.0.7
+3.0.1	named	io.jooby	jooby-cli	2023-07-31T18:38:50Z	2.0.7
 4.0.0-beta-1	named	net.serenity-bdd	serenity-cli	2023-08-05T18:33:13Z	2.0.7
 2.1.24	named	com.networknt	light-consumer-4j	2023-08-07T01:30:01Z	2.0.7
 4.0.0-beta-2	named	net.serenity-bdd	serenity-cli	2023-08-07T09:15:10Z	2.0.7
@@ -808,9 +819,11 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 5.5.0	named	io.bdeploy	api	2023-08-11T11:52:59Z	2.0.7
 23.7.1	named	com.arcadedb	arcadedb-gremlin	2023-08-14T22:24:09Z	2.0.7
 23.7.1	named	com.arcadedb	arcadedb-mongodbw	2023-08-14T22:24:26Z	2.0.7
+3.0.2	named	io.jooby	jooby-cli	2023-08-15T19:52:01Z	2.0.7
 2.1.26	named	com.networknt	light-consumer-4j	2023-08-17T19:08:36Z	2.0.7
 1.0.0	named	io.glutenproject	gluten-package	2023-08-21T08:38:27Z	2.0.5
 31.0.0	named	com.teamscale	impacted-test-engine	2023-08-21T12:39:46Z	2.0.7
+3.0.3	named	io.jooby	jooby-cli	2023-08-21T21:52:20Z	2.0.7
 4.0.0-beta-3	named	net.serenity-bdd	serenity-cli	2023-08-22T12:55:25Z	2.0.7
 1.0.19	named	ch.exense.step.library	step-library-commons	2023-08-23T10:07:35Z	2.0.1
 1.0.19	named	ch.exense.step.library	step-library-kw-base	2023-08-23T10:07:49Z	2.0.1
@@ -837,6 +850,8 @@ v1.5.1	named	com.exaroton	api	2023-03-15T12:08:14Z	2.0.6
 4.0.0-beta-6	named	net.serenity-bdd	serenity-cli	2023-08-24T17:35:48Z	2.0.7
 10.0.16	named	org.eclipse.jetty	jetty-runner	2023-08-25T19:23:54Z	2.0.5
 11.0.16	named	org.eclipse.jetty	jetty-runner	2023-08-25T19:50:30Z	2.0.5
+3.0.4	named	io.jooby	jooby-cli	2023-08-28T01:35:56Z	2.0.7
+3.0.5	named	io.jooby	jooby-cli	2023-08-28T16:15:29Z	2.0.7
 12.0.1	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2023-08-29T22:56:07Z	2.0.7
 12.0.1	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2023-08-29T22:57:22Z	2.0.7
 4.0.0-beta-7	named	net.serenity-bdd	serenity-cli	2023-08-31T12:41:44Z	2.0.7

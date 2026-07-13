@@ -1,4 +1,17 @@
 1.0.0-rc.1		2026-06-29T05:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.1/xberg-android-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.10/xberg-android-1.0.0-rc.10.jar returned status 404
+1.0.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.11/xberg-android-1.0.0-rc.11.jar returned status 404
+1.0.0-rc.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.13/xberg-android-1.0.0-rc.13.jar returned status 404
+1.0.0-rc.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.14/xberg-android-1.0.0-rc.14.jar returned status 404
+1.0.0-rc.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.15/xberg-android-1.0.0-rc.15.jar returned status 404
+1.0.0-rc.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.16/xberg-android-1.0.0-rc.16.jar returned status 404
+1.0.0-rc.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.17/xberg-android-1.0.0-rc.17.jar returned status 404
+1.0.0-rc.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.20/xberg-android-1.0.0-rc.20.jar returned status 404
+1.0.0-rc.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.21/xberg-android-1.0.0-rc.21.jar returned status 404
+1.0.0-rc.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.22/xberg-android-1.0.0-rc.22.jar returned status 404
+1.0.0-rc.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.23/xberg-android-1.0.0-rc.23.jar returned status 404
+1.0.0-rc.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.24/xberg-android-1.0.0-rc.24.jar returned status 404
+1.0.0-rc.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.25/xberg-android-1.0.0-rc.25.jar returned status 404
 1.0.0-rc.5		2026-07-03T19:43:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.5/xberg-android-1.0.0-rc.5.jar returned status 404
 1.0.0-rc.8		2026-07-05T13:41:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.8/xberg-android-1.0.0-rc.8.jar returned status 404
 1.0.0-rc.9		2026-07-05T17:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/xberg-android/1.0.0-rc.9/xberg-android-1.0.0-rc.9.jar returned status 404
