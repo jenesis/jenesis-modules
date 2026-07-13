@@ -46,6 +46,7 @@
 4.10.2	je-backend	2025-09-04T15:49:49Z	
 4.10.2	quicksetup	2025-09-04T15:49:49Z	
 4.10.2	slf4j-adapter	2025-09-04T15:49:49Z	
+4.4.10			
 4.4.10	bootstrap	2021-02-08T13:54:44Z	
 4.4.10	bootstrap-client	2021-02-08T13:57:35Z	
 4.4.10	build-tools	2021-02-08T13:56:29Z	
@@ -61,6 +62,7 @@
 4.4.10	je-backend	2021-02-08T13:57:33Z	
 4.4.10	quicksetup	2021-02-08T13:58:39Z	
 4.4.10	slf4j-adapter	2021-02-08T13:58:19Z	
+4.4.11			
 4.4.11	bootstrap	2021-06-21T12:43:38Z	
 4.4.11	bootstrap-client	2021-06-21T12:45:08Z	
 4.4.11	build-tools	2021-06-21T12:44:42Z	
@@ -76,6 +78,7 @@
 4.4.11	je-backend	2021-06-21T12:43:41Z	
 4.4.11	quicksetup	2021-06-21T12:44:33Z	
 4.4.11	slf4j-adapter	2021-06-21T12:43:16Z	
+4.4.12			
 4.4.12	bootstrap	2022-04-20T08:05:48Z	
 4.4.12	bootstrap-client	2022-04-20T08:05:55Z	
 4.4.12	build-tools	2022-04-20T08:05:54Z	
@@ -91,6 +94,7 @@
 4.4.12	je-backend	2022-04-20T08:05:56Z	
 4.4.12	quicksetup	2022-04-20T08:05:45Z	
 4.4.12	slf4j-adapter	2022-04-20T08:05:53Z	
+4.4.13			
 4.4.13	bootstrap	2022-04-22T21:41:16Z	
 4.4.13	bootstrap-client	2022-04-22T21:41:23Z	
 4.4.13	build-tools	2022-04-22T21:41:23Z	
@@ -106,6 +110,7 @@
 4.4.13	je-backend	2022-04-22T21:41:16Z	
 4.4.13	quicksetup	2022-04-22T21:41:22Z	
 4.4.13	slf4j-adapter	2022-04-22T21:41:27Z	
+4.4.14			
 4.4.14	bootstrap	2022-05-02T19:09:07Z	
 4.4.14	bootstrap-client	2022-05-02T19:09:28Z	
 4.4.14	build-tools	2022-05-02T19:09:21Z	
@@ -121,6 +126,7 @@
 4.4.14	je-backend	2022-05-02T19:09:28Z	
 4.4.14	quicksetup	2022-05-02T19:08:31Z	
 4.4.14	slf4j-adapter	2022-05-02T19:08:39Z	
+4.4.15			
 4.4.15	bootstrap	2022-06-01T06:47:43Z	
 4.4.15	bootstrap-client	2022-06-01T06:47:44Z	
 4.4.15	build-tools	2022-06-01T06:47:44Z	
@@ -136,6 +142,7 @@
 4.4.15	je-backend	2022-06-01T06:47:42Z	
 4.4.15	quicksetup	2022-06-01T06:47:44Z	
 4.4.15	slf4j-adapter	2022-06-01T06:47:43Z	
+4.4.7			
 4.4.7	bootstrap	2020-09-14T19:39:26Z	
 4.4.7	bootstrap-client	2020-09-14T19:42:41Z	
 4.4.7	build-tools	2020-09-14T19:40:37Z	
@@ -151,6 +158,7 @@
 4.4.7	je-backend	2020-09-14T19:41:01Z	
 4.4.7	quicksetup	2020-09-14T19:41:49Z	
 4.4.7	slf4j-adapter	2020-09-14T19:42:31Z	
+4.4.8			
 4.4.8	bootstrap	2020-11-10T16:58:59Z	
 4.4.8	bootstrap-client	2020-11-10T16:57:06Z	
 4.4.8	build-tools	2020-11-10T16:59:25Z	
@@ -166,6 +174,7 @@
 4.4.8	je-backend	2020-11-10T16:58:50Z	
 4.4.8	quicksetup	2020-11-10T16:59:26Z	
 4.4.8	slf4j-adapter	2020-11-10T17:00:53Z	
+4.4.9			
 4.4.9	bootstrap	2020-12-30T14:19:13Z	
 4.4.9	bootstrap-client	2020-12-30T14:17:12Z	
 4.4.9	build-tools	2020-12-30T14:19:57Z	
@@ -181,6 +190,7 @@
 4.4.9	je-backend	2020-12-30T14:18:36Z	
 4.4.9	quicksetup	2020-12-30T14:19:39Z	
 4.4.9	slf4j-adapter	2020-12-30T14:19:49Z	
+4.5.0			
 4.5.0	bootstrap	2022-06-01T10:53:20Z	
 4.5.0	bootstrap-client	2022-06-01T10:53:28Z	
 4.5.0	build-tools	2022-06-01T10:53:29Z	
@@ -196,6 +206,7 @@
 4.5.0	je-backend	2022-06-01T10:53:00Z	
 4.5.0	quicksetup	2022-06-01T10:53:20Z	
 4.5.0	slf4j-adapter	2022-06-01T10:53:28Z	
+4.5.1			
 4.5.1	bootstrap	2022-08-02T11:03:18Z	
 4.5.1	bootstrap-client	2022-08-02T11:03:29Z	
 4.5.1	build-tools	2022-08-02T11:03:08Z	
@@ -211,6 +222,7 @@
 4.5.1	je-backend	2022-08-02T11:03:07Z	
 4.5.1	quicksetup	2022-08-02T11:03:14Z	
 4.5.1	slf4j-adapter	2022-08-02T11:03:25Z	
+4.5.2			
 4.5.2	bootstrap	2022-11-30T08:13:30Z	
 4.5.2	bootstrap-client	2022-11-30T08:12:59Z	
 4.5.2	build-tools	2022-11-30T08:13:15Z	
@@ -226,6 +238,7 @@
 4.5.2	je-backend	2022-11-30T08:12:59Z	
 4.5.2	quicksetup	2022-11-30T08:13:17Z	
 4.5.2	slf4j-adapter	2022-11-30T08:13:34Z	
+4.5.3			
 4.5.3	bootstrap	2022-11-30T09:38:51Z	
 4.5.3	bootstrap-client	2022-11-30T09:39:03Z	
 4.5.3	build-tools	2022-11-30T09:39:08Z	
@@ -241,6 +254,7 @@
 4.5.3	je-backend	2022-11-30T09:38:58Z	
 4.5.3	quicksetup	2022-11-30T09:39:05Z	
 4.5.3	slf4j-adapter	2022-11-30T09:39:10Z	
+4.5.4			
 4.5.4	bootstrap	2022-12-09T10:39:12Z	
 4.5.4	bootstrap-client	2022-12-09T10:39:39Z	
 4.5.4	build-tools	2022-12-09T10:38:59Z	
@@ -256,6 +270,7 @@
 4.5.4	je-backend	2022-12-09T10:39:19Z	
 4.5.4	quicksetup	2022-12-09T10:39:34Z	
 4.5.4	slf4j-adapter	2022-12-09T10:38:49Z	
+4.5.5			
 4.5.5	bootstrap	2023-07-20T09:47:26Z	
 4.5.5	bootstrap-client	2023-07-20T09:47:13Z	
 4.5.5	build-tools	2023-07-20T09:47:21Z	
@@ -271,6 +286,7 @@
 4.5.5	je-backend	2023-07-20T09:47:25Z	
 4.5.5	quicksetup	2023-07-20T09:47:30Z	
 4.5.5	slf4j-adapter	2023-07-20T09:47:13Z	
+4.5.6			
 4.5.6	bootstrap	2023-08-30T09:26:58Z	
 4.5.6	bootstrap-client	2023-08-30T09:27:13Z	
 4.5.6	build-tools	2023-08-30T09:27:18Z	
@@ -286,6 +302,7 @@
 4.5.6	je-backend	2023-08-30T09:27:19Z	
 4.5.6	quicksetup	2023-08-30T09:27:03Z	
 4.5.6	slf4j-adapter	2023-08-30T09:27:05Z	
+4.5.7			
 4.5.7	bootstrap	2023-09-19T08:09:31Z	
 4.5.7	bootstrap-client	2023-09-19T08:10:23Z	
 4.5.7	build-tools	2023-09-19T08:09:24Z	
@@ -301,6 +318,7 @@
 4.5.7	je-backend	2023-09-19T08:10:39Z	
 4.5.7	quicksetup	2023-09-19T08:09:22Z	
 4.5.7	slf4j-adapter	2023-09-19T08:09:32Z	
+4.5.8			
 4.5.8	bootstrap	2023-09-21T08:09:51Z	
 4.5.8	bootstrap-client	2023-09-21T08:09:15Z	
 4.5.8	build-tools	2023-09-21T08:09:48Z	
@@ -316,6 +334,7 @@
 4.5.8	je-backend	2023-09-21T08:09:12Z	
 4.5.8	quicksetup	2023-09-21T08:09:34Z	
 4.5.8	slf4j-adapter	2023-09-21T08:09:39Z	
+4.5.9			
 4.5.9	bootstrap	2023-09-22T07:08:59Z	
 4.5.9	bootstrap-client	2023-09-22T07:08:18Z	
 4.5.9	build-tools	2023-09-22T07:09:01Z	
@@ -331,6 +350,7 @@
 4.5.9	je-backend	2023-09-22T07:08:08Z	
 4.5.9	quicksetup	2023-09-22T07:08:29Z	
 4.5.9	slf4j-adapter	2023-09-22T07:08:30Z	
+4.6.1			
 4.6.1	bootstrap	2023-10-26T09:45:27Z	
 4.6.1	bootstrap-client	2023-10-26T09:44:28Z	
 4.6.1	build-tools	2023-10-26T09:44:35Z	
@@ -346,6 +366,7 @@
 4.6.1	je-backend	2023-10-26T09:43:59Z	
 4.6.1	quicksetup	2023-10-26T09:44:37Z	
 4.6.1	slf4j-adapter	2023-10-26T09:44:53Z	
+4.6.2			
 4.6.2	bootstrap	2024-01-17T12:15:32Z	
 4.6.2	bootstrap-client	2024-01-17T12:15:36Z	
 4.6.2	build-tools	2024-01-17T12:15:39Z	
@@ -361,6 +382,7 @@
 4.6.2	je-backend	2024-01-17T12:15:31Z	
 4.6.2	quicksetup	2024-01-17T12:15:34Z	
 4.6.2	slf4j-adapter	2024-01-17T12:15:39Z	
+4.6.3			
 4.6.3	bootstrap	2024-05-07T17:52:47Z	
 4.6.3	bootstrap-client	2024-05-07T17:53:16Z	
 4.6.3	build-tools	2024-05-07T17:53:44Z	
@@ -376,6 +398,7 @@
 4.6.3	je-backend	2024-05-07T17:52:36Z	
 4.6.3	quicksetup	2024-05-07T17:52:47Z	
 4.6.3	slf4j-adapter	2024-05-07T17:53:14Z	
+4.6.4			
 4.6.4	bootstrap	2024-06-26T07:55:04Z	
 4.6.4	bootstrap-client	2024-06-26T07:53:47Z	
 4.6.4	build-tools	2024-06-26T07:53:53Z	
@@ -391,6 +414,7 @@
 4.6.4	je-backend	2024-06-26T07:54:07Z	
 4.6.4	quicksetup	2024-06-26T07:54:39Z	
 4.6.4	slf4j-adapter	2024-06-26T07:54:57Z	
+4.6.5			
 4.6.5	bootstrap	2024-07-16T17:29:37Z	
 4.6.5	bootstrap-client	2024-07-16T17:30:01Z	
 4.6.5	build-tools	2024-07-16T17:30:15Z	
@@ -406,6 +430,7 @@
 4.6.5	je-backend	2024-07-16T17:30:07Z	
 4.6.5	quicksetup	2024-07-16T17:30:21Z	
 4.6.5	slf4j-adapter	2024-07-16T17:30:27Z	
+4.7.0			
 4.7.0	bootstrap	2024-08-08T08:22:49Z	
 4.7.0	bootstrap-client	2024-08-08T08:22:52Z	
 4.7.0	build-tools	2024-08-08T08:22:53Z	
@@ -421,6 +446,7 @@
 4.7.0	je-backend	2024-08-08T08:22:30Z	
 4.7.0	quicksetup	2024-08-08T08:22:49Z	
 4.7.0	slf4j-adapter	2024-08-08T08:21:21Z	
+4.8.0			
 4.8.0	bootstrap	2024-09-09T11:23:33Z	
 4.8.0	bootstrap-client	2024-09-09T11:23:19Z	
 4.8.0	build-tools	2024-09-09T11:23:12Z	
@@ -436,6 +462,7 @@
 4.8.0	je-backend	2024-09-09T11:24:05Z	
 4.8.0	quicksetup	2024-09-09T11:24:28Z	
 4.8.0	slf4j-adapter	2024-09-09T11:24:38Z	
+4.8.1			
 4.8.1	bootstrap	2024-10-17T14:51:12Z	
 4.8.1	bootstrap-client	2024-10-17T14:50:55Z	
 4.8.1	build-tools	2024-10-17T14:50:55Z	
@@ -451,6 +478,7 @@
 4.8.1	je-backend	2024-10-17T14:51:12Z	
 4.8.1	quicksetup	2024-10-17T14:51:36Z	
 4.8.1	slf4j-adapter	2024-10-17T14:50:29Z	
+4.8.2			
 4.8.2	bootstrap	2024-11-12T09:01:32Z	
 4.8.2	bootstrap-client	2024-11-12T09:01:27Z	
 4.8.2	build-tools	2024-11-12T09:01:27Z	
@@ -466,6 +494,7 @@
 4.8.2	je-backend	2024-11-12T09:01:27Z	
 4.8.2	quicksetup	2024-11-12T09:01:12Z	
 4.8.2	slf4j-adapter	2024-11-12T09:01:13Z	
+4.9.0			
 4.9.0	bootstrap	2024-12-26T08:35:56Z	
 4.9.0	bootstrap-client	2024-12-26T08:35:45Z	
 4.9.0	build-tools	2024-12-26T08:35:44Z	
@@ -481,6 +510,7 @@
 4.9.0	je-backend	2024-12-26T08:35:50Z	
 4.9.0	quicksetup	2024-12-26T08:35:55Z	
 4.9.0	slf4j-adapter	2024-12-26T08:35:56Z	
+4.9.1			
 4.9.1	bootstrap	2025-01-20T08:48:34Z	
 4.9.1	bootstrap-client	2025-01-20T08:48:02Z	
 4.9.1	build-tools	2025-01-20T08:48:03Z	
@@ -496,6 +526,7 @@
 4.9.1	je-backend	2025-01-20T08:47:54Z	
 4.9.1	quicksetup	2025-01-20T08:48:17Z	
 4.9.1	slf4j-adapter	2025-01-20T08:48:25Z	
+4.9.2			
 4.9.2	bootstrap	2025-02-04T16:19:32Z	
 4.9.2	bootstrap-client	2025-02-04T16:20:26Z	
 4.9.2	build-tools	2025-02-04T16:20:35Z	
@@ -511,6 +542,7 @@
 4.9.2	je-backend	2025-02-04T16:20:10Z	
 4.9.2	quicksetup	2025-02-04T16:20:35Z	
 4.9.2	slf4j-adapter	2025-02-04T16:20:33Z	
+4.9.3			
 4.9.3	bootstrap	2025-03-05T10:10:03Z	
 4.9.3	bootstrap-client	2025-03-05T10:09:36Z	
 4.9.3	build-tools	2025-03-05T10:09:40Z	
@@ -526,6 +558,7 @@
 4.9.3	je-backend	2025-03-05T10:10:19Z	
 4.9.3	quicksetup	2025-03-05T10:09:15Z	
 4.9.3	slf4j-adapter	2025-03-05T10:10:30Z	
+4.9.4			
 4.9.4	bootstrap	2025-04-23T14:30:20Z	
 4.9.4	bootstrap-client	2025-04-23T14:30:02Z	
 4.9.4	build-tools	2025-04-23T14:30:05Z	

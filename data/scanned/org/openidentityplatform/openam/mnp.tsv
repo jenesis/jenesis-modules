@@ -40,5 +40,7 @@
 14.8.2.3	classes	2023-12-14T10:25:24Z	
 14.8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/mnp/14.8.3.1/mnp-14.8.3.1.jar returned status 404
 14.8.3.1	classes	2024-01-24T06:47:57Z	
+14.8.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/mnp/14.8.4.1/mnp-14.8.4.1.jar returned status 404
 14.8.4.1	classes	2024-03-12T13:14:31Z	
+15.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/mnp/15.0.0.1/mnp-15.0.0.1.jar returned status 404
 15.0.0.1	classes	2024-05-21T15:33:53Z	
