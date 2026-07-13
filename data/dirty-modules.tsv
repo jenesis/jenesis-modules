@@ -2571,3 +2571,4 @@ io.netty.codec.haproxy
 io.netty.resolver.dns
 io.netty.testsuite_http2
 io.vidocq.runtime.cli
+io.nutrient.sdk

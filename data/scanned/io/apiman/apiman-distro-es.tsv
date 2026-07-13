@@ -1,3 +1,6 @@
+1.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.1.4.Final/apiman-distro-es-1.1.4.Final.jar returned status 404
+1.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.1.5.Final/apiman-distro-es-1.1.5.Final.jar returned status 404
+1.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.1.6.Final/apiman-distro-es-1.1.6.Final.jar returned status 404
 1.2.0.Beta2		2021-12-15T21:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.2.0.Beta2/apiman-distro-es-1.2.0.Beta2.jar returned status 404
 1.2.0.Beta3		2021-12-15T21:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.2.0.Beta3/apiman-distro-es-1.2.0.Beta3.jar returned status 404
 1.2.0.Final		2021-12-15T21:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-distro-es/1.2.0.Final/apiman-distro-es-1.2.0.Final.jar returned status 404

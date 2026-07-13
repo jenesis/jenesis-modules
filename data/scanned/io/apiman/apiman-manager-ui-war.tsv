@@ -1,9 +1,16 @@
+1.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.0.Beta1/apiman-manager-ui-war-1.0.0.Beta1.jar returned status 404
 1.0.0.Beta1	classes	2014-11-21T15:00:21Z	
+1.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.0.Beta2/apiman-manager-ui-war-1.0.0.Beta2.jar returned status 404
 1.0.0.Beta2	classes	2014-12-12T19:15:09Z	
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.0.Final/apiman-manager-ui-war-1.0.0.Final.jar returned status 404
 1.0.0.Final	classes	2014-12-18T17:10:12Z	
+1.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.1.Final/apiman-manager-ui-war-1.0.1.Final.jar returned status 404
 1.0.1.Final	classes	2015-01-06T15:45:24Z	
+1.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.2.Final/apiman-manager-ui-war-1.0.2.Final.jar returned status 404
 1.0.2.Final	classes	2015-01-29T14:58:36Z	
+1.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.0.3.Final/apiman-manager-ui-war-1.0.3.Final.jar returned status 404
 1.0.3.Final	classes	2015-02-17T17:37:09Z	
+1.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.1.0.RC1/apiman-manager-ui-war-1.1.0.RC1.jar returned status 404
 1.1.0.RC1	classes	2015-03-04T21:04:45Z	
 1.2.2.Final		2021-12-15T21:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/apiman/apiman-manager-ui-war/1.2.2.Final/apiman-manager-ui-war-1.2.2.Final.jar returned status 404
 1.2.2.Final	ui	2016-02-29T14:02:25Z	
