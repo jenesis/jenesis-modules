@@ -42,3 +42,4 @@
 3.3.0		2016-09-27T10:07:01Z	
 3.3.1		2016-12-28T08:07:29Z	
 3.3.2		2016-12-28T12:58:18Z	
+5.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/itest/5.0.0.M1/itest-5.0.0.M1.jar returned status 404

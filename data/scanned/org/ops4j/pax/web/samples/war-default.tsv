@@ -22,6 +22,8 @@
 8.0.27		2024-12-03T20:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.27/war-default-8.0.27.jar returned status 404
 8.0.28		2024-12-03T20:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.28/war-default-8.0.28.jar returned status 404
 8.0.29		2024-12-03T20:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.29/war-default-8.0.29.jar returned status 404
+8.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.30/war-default-8.0.30.jar returned status 404
+8.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.31/war-default-8.0.31.jar returned status 404
 8.0.32		2025-06-04T15:53:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.32/war-default-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.33/war-default-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/8.0.34/war-default-8.0.34.jar returned status 404
@@ -36,6 +38,8 @@
 9.0.16		2024-12-03T20:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.16/war-default-9.0.16.jar returned status 404
 9.0.17		2024-12-03T20:22:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.17/war-default-9.0.17.jar returned status 404
 9.0.18		2024-12-03T20:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.18/war-default-9.0.18.jar returned status 404
+9.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.19/war-default-9.0.19.jar returned status 404
+9.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.20/war-default-9.0.20.jar returned status 404
 9.0.21		2025-06-05T06:39:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.21/war-default-9.0.21.jar returned status 404
 9.0.22		2025-07-30T07:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.22/war-default-9.0.22.jar returned status 404
 9.0.4		2024-12-03T20:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-default/9.0.4/war-default-9.0.4.jar returned status 404

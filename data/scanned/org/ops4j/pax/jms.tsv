@@ -1,3 +1,5 @@
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/jms/1.0.6/jms-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/jms/1.0.7/jms-1.0.7.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/jms/1.1.0/jms-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/jms/1.1.1/jms-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/jms/1.1.2/jms-1.1.2.jar returned status 404
