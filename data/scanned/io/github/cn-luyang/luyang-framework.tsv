@@ -29,6 +29,7 @@
 0.0.7-SNAPSH0T			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/0.0.7-SNAPSH0T/luyang-framework-0.0.7-SNAPSH0T.jar returned status 404
 0.0.8-SNAPSH0T			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/0.0.8-SNAPSH0T/luyang-framework-0.0.8-SNAPSH0T.jar returned status 404
 0.0.9-SNAPSH0T			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/0.0.9-SNAPSH0T/luyang-framework-0.0.9-SNAPSH0T.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/1.0.1/luyang-framework-1.0.1.jar returned status 404
 2025.09.01.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/2025.09.01.01/luyang-framework-2025.09.01.01.jar returned status 404
 2025.09.14.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/2025.09.14.01/luyang-framework-2025.09.14.01.jar returned status 404
 2025.09.15.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cn-luyang/luyang-framework/2025.09.15.01/luyang-framework-2025.09.15.01.jar returned status 404

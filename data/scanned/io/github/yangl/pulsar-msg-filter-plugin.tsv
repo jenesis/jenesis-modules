@@ -2,4 +2,8 @@
 0.1.1		2023-03-23T12:54:24Z	
 0.1.3		2023-03-24T05:44:00Z	
 0.1.4		2023-03-24T09:49:11Z	
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yangl/pulsar-msg-filter-plugin/0.1.5/pulsar-msg-filter-plugin-0.1.5.jar returned status 404
 2.10		2023-03-23T11:02:00Z	
+2.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yangl/pulsar-msg-filter-plugin/2.10.4/pulsar-msg-filter-plugin-2.10.4.jar returned status 404
+2.10.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yangl/pulsar-msg-filter-plugin/2.10.4.1/pulsar-msg-filter-plugin-2.10.4.1.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yangl/pulsar-msg-filter-plugin/3.0/pulsar-msg-filter-plugin-3.0.jar returned status 404

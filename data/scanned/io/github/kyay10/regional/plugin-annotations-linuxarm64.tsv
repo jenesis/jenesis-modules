@@ -1,3 +1,4 @@
 0.0.2		2026-05-24T14:12:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyay10/regional/plugin-annotations-linuxarm64/0.0.2/plugin-annotations-linuxarm64-0.0.2.jar returned status 404
 0.0.3		2026-05-25T21:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyay10/regional/plugin-annotations-linuxarm64/0.0.3/plugin-annotations-linuxarm64-0.0.3.jar returned status 404
 0.0.4		2026-05-25T21:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyay10/regional/plugin-annotations-linuxarm64/0.0.4/plugin-annotations-linuxarm64-0.0.4.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyay10/regional/plugin-annotations-linuxarm64/0.0.5/plugin-annotations-linuxarm64-0.0.5.jar returned status 404

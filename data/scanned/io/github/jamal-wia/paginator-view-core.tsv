@@ -2,3 +2,5 @@
 10.0.4		2026-06-04T04:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-view-core/10.0.4/paginator-view-core-10.0.4.jar returned status 404
 10.1.0		2026-06-05T03:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-view-core/10.1.0/paginator-view-core-10.1.0.jar returned status 404
 10.1.1		2026-06-06T17:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-view-core/10.1.1/paginator-view-core-10.1.1.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-view-core/10.2.0/paginator-view-core-10.2.0.jar returned status 404
+10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-view-core/10.2.1/paginator-view-core-10.2.1.jar returned status 404

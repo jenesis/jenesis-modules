@@ -18,3 +18,4 @@
 4.0.2	metadata	2026-07-04T13:12:33Z	
 4.0.3		2026-07-04T17:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-store5-iosarm64/4.0.3/worker-store5-iosarm64-4.0.3.jar returned status 404
 4.0.3	metadata	2026-07-04T17:14:37Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-store5-iosarm64/4.0.4/worker-store5-iosarm64-4.0.4.jar returned status 404

@@ -16,6 +16,9 @@
 3.0.0-alpha.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha.39/fancycamera-3.0.0-alpha.39.jar returned status 404
 3.0.0-alpha.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha.40/fancycamera-3.0.0-alpha.40.jar returned status 404
 3.0.0-alpha.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha.41/fancycamera-3.0.0-alpha.41.jar returned status 404
+3.0.0-alpha21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha21/fancycamera-3.0.0-alpha21.jar returned status 404
+3.0.0-alpha22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha22/fancycamera-3.0.0-alpha22.jar returned status 404
+3.0.0-alpha23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.0-alpha23/fancycamera-3.0.0-alpha23.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.1/fancycamera-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.2/fancycamera-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/triniwiz/fancycamera/3.0.3/fancycamera-3.0.3.jar returned status 404

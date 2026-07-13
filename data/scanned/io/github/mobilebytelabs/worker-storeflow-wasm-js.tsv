@@ -8,3 +8,4 @@
 4.0.1		2026-07-04T12:37:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-wasm-js/4.0.1/worker-storeflow-wasm-js-4.0.1.jar returned status 404
 4.0.2		2026-07-04T13:07:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-wasm-js/4.0.2/worker-storeflow-wasm-js-4.0.2.jar returned status 404
 4.0.3		2026-07-04T17:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-wasm-js/4.0.3/worker-storeflow-wasm-js-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-storeflow-wasm-js/4.0.4/worker-storeflow-wasm-js-4.0.4.jar returned status 404

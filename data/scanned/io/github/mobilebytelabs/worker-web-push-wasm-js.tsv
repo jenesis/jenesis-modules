@@ -8,3 +8,4 @@
 4.0.1		2026-07-04T12:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-wasm-js/4.0.1/worker-web-push-wasm-js-4.0.1.jar returned status 404
 4.0.2		2026-07-04T13:13:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-wasm-js/4.0.2/worker-web-push-wasm-js-4.0.2.jar returned status 404
 4.0.3		2026-07-04T17:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-wasm-js/4.0.3/worker-web-push-wasm-js-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/worker-web-push-wasm-js/4.0.4/worker-web-push-wasm-js-4.0.4.jar returned status 404

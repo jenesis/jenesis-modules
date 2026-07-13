@@ -1,1 +1,2 @@
 2.4.0-alpha01		2026-06-27T14:00:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kavi-kt/kavi-kt-linuxarm64/2.4.0-alpha01/kavi-kt-linuxarm64-2.4.0-alpha01.jar returned status 404
+2.4.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kavi-kt/kavi-kt-linuxarm64/2.4.0-alpha02/kavi-kt-linuxarm64-2.4.0-alpha02.jar returned status 404

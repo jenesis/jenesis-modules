@@ -2,4 +2,6 @@
 10.0.4		2026-06-04T04:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/10.0.4/paginator-compose-offset-js-10.0.4.jar returned status 404
 10.1.0		2026-06-05T03:33:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/10.1.0/paginator-compose-offset-js-10.1.0.jar returned status 404
 10.1.1		2026-06-06T17:51:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/10.1.1/paginator-compose-offset-js-10.1.1.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/10.2.0/paginator-compose-offset-js-10.2.0.jar returned status 404
+10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/10.2.1/paginator-compose-offset-js-10.2.1.jar returned status 404
 9.0.0		2026-05-24T17:48:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-compose-offset-js/9.0.0/paginator-compose-offset-js-9.0.0.jar returned status 404

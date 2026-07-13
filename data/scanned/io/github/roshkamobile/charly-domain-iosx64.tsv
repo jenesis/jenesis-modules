@@ -2,3 +2,4 @@
 1.0.1	metadata	2026-06-24T04:20:47Z	
 1.0.2		2026-06-25T21:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-domain-iosx64/1.0.2/charly-domain-iosx64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-06-25T21:35:09Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-domain-iosx64/1.0.3/charly-domain-iosx64-1.0.3.jar returned status 404
