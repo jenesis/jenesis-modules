@@ -4,4 +4,5 @@
 5.1.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/reactor/axon-reactor-extension/5.1.0-RC3/axon-reactor-extension-5.1.0-RC3.jar returned status 404
 5.1.1		2026-05-26T13:25:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/reactor/axon-reactor-extension/5.1.1/axon-reactor-extension-5.1.1.jar returned status 404
 5.1.2		2026-06-24T07:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/reactor/axon-reactor-extension/5.1.2/axon-reactor-extension-5.1.2.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/reactor/axon-reactor-extension/5.2.0/axon-reactor-extension-5.2.0.jar returned status 404
 5.2.0-RC1		2026-07-01T10:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/reactor/axon-reactor-extension/5.2.0-RC1/axon-reactor-extension-5.2.0-RC1.jar returned status 404

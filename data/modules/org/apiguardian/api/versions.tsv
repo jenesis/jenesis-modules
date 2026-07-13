@@ -315,6 +315,7 @@
 4.0.8	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59	2024-05-24T14:53:17Z	1.1.2
 4.0.8	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59withvintage	2024-05-24T14:53:24Z	1.1.2
 5.3.1_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2024-06-27T14:40:10Z	1.1.2
+5.3.1_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2024-06-27T14:40:24Z	1.1.2
 5.3.1	named	org.neo4j	neo4j-connector-apache-spark_2.12_test-support	2024-06-27T14:40:29Z	1.1.2
 5.3.1	named	org.neo4j	neo4j-connector-apache-spark_2.13_common	2024-06-27T14:40:37Z	1.1.2
 5.3.1	named	org.neo4j	neo4j-connector-apache-spark_2.12_common	2024-06-27T14:40:41Z	1.1.2
@@ -323,6 +324,7 @@
 5.3.1	named	org.neo4j	neo4j-connector-apache-spark_2.13_parent	2024-06-27T14:40:59Z	1.1.2
 1.0.17	named	com.byteplus	byteplus-sdk-java-rec	2024-07-23T07:31:59Z	1.1.2
 5.3.2_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2024-09-16T13:33:21Z	1.1.2
+5.3.2_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2024-09-16T13:33:36Z	1.1.2
 4.0.9	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit56	2024-09-19T08:16:46Z	1.1.0
 4.0.9	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57	2024-09-19T08:16:50Z	1.1.0
 4.0.9	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57withvintage	2024-09-19T08:16:54Z	1.1.0
@@ -338,6 +340,7 @@
 4.0.10	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59	2024-11-13T08:03:41Z	1.1.2
 4.0.10	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59withvintage	2024-11-13T08:03:45Z	1.1.2
 5.3.3_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-01-24T22:30:38Z	1.1.2
+5.3.3_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-01-24T22:30:42Z	1.1.2
 4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit56	2025-02-05T08:04:30Z	1.1.0
 4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57	2025-02-05T08:04:35Z	1.1.0
 4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57withvintage	2025-02-05T08:04:39Z	1.1.0
@@ -346,7 +349,9 @@
 4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59	2025-02-05T08:05:08Z	1.1.2
 4.0.11	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit59withvintage	2025-02-05T08:05:12Z	1.1.2
 5.3.4_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-02-13T10:53:24Z	1.1.2
+5.3.4_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-02-13T10:53:27Z	1.1.2
 5.3.5_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-02-24T10:49:45Z	1.1.2
+5.3.5_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-02-24T10:49:48Z	1.1.2
 4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit56	2025-02-25T10:42:08Z	1.1.0
 4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57	2025-02-25T10:42:12Z	1.1.0
 4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit57withvintage	2025-02-25T10:42:16Z	1.1.0
@@ -357,6 +362,7 @@
 4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit512	2025-02-25T10:42:56Z	1.1.2
 4.0.12	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit512withvintage	2025-02-25T10:43:00Z	1.1.2
 5.3.6_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-03-27T12:06:16Z	1.1.2
+5.3.6_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-03-27T12:06:19Z	1.1.2
 5.3.7_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2025-05-08T12:54:57Z	1.1.2
 5.3.7_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2025-05-08T12:54:58Z	1.1.2
 4.0.13	named	org.eclipse.tycho	org.eclipse.tycho.surefire.junit56	2025-05-24T04:05:44Z	1.1.0
@@ -383,3 +389,4 @@
 5.4.3_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2026-05-26T16:24:36Z	1.1.2
 5.4.3_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2026-05-26T16:24:36Z	1.1.2
 5.5.0_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.13	2026-07-10T00:02:32Z	1.1.2
+5.5.0_for_spark_3	named	org.neo4j	neo4j-connector-apache-spark_2.12	2026-07-10T00:02:35Z	1.1.2

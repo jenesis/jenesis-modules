@@ -88,6 +88,7 @@
 2.7.1		2019-09-03T19:49:27Z	
 2.7.10		2020-05-17T21:02:45Z	
 2.7.11		2020-06-05T17:21:40Z	
+2.7.11-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pepsoft/worldpainter/WPGUI/2.7.11-SNAPSHOT/WPGUI-2.7.11-SNAPSHOT.jar returned status 404
 2.7.12		2020-06-05T21:28:48Z	
 2.7.13		2020-06-06T17:12:09Z	
 2.7.15		2020-06-12T18:47:59Z	
