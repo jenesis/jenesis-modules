@@ -367,8 +367,14 @@
 3.0.14		2019-10-16T01:07:53Z	
 3.0.15		2019-10-18T10:05:41Z	
 3.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.16/org.wso2.carbon.data.provider-3.0.16.jar returned status 404
+3.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.17/org.wso2.carbon.data.provider-3.0.17.jar returned status 404
 3.0.18		2019-12-12T07:11:15Z	
+3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.19/org.wso2.carbon.data.provider-3.0.19.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.2/org.wso2.carbon.data.provider-3.0.2.jar returned status 404
+3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.20/org.wso2.carbon.data.provider-3.0.20.jar returned status 404
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.21/org.wso2.carbon.data.provider-3.0.21.jar returned status 404
+3.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.22/org.wso2.carbon.data.provider-3.0.22.jar returned status 404
+3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.23/org.wso2.carbon.data.provider-3.0.23.jar returned status 404
 3.0.24		2020-02-11T15:19:45Z	
 3.0.26		2020-02-13T15:41:23Z	
 3.0.27		2020-02-18T05:52:19Z	
@@ -405,7 +411,12 @@
 3.0.55		2021-04-29T06:43:24Z	
 3.0.56		2021-11-26T10:58:03Z	
 3.0.57		2022-02-22T18:21:55Z	
+3.0.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.58/org.wso2.carbon.data.provider-3.0.58.jar returned status 404
+3.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.59/org.wso2.carbon.data.provider-3.0.59.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.6/org.wso2.carbon.data.provider-3.0.6.jar returned status 404
+3.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.60/org.wso2.carbon.data.provider-3.0.60.jar returned status 404
+3.0.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.61/org.wso2.carbon.data.provider-3.0.61.jar returned status 404
+3.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.62/org.wso2.carbon.data.provider-3.0.62.jar returned status 404
 3.0.63		2022-11-02T11:44:40Z	
 3.0.64		2022-11-09T14:00:04Z	
 3.0.65		2022-11-29T00:19:46Z	
@@ -415,7 +426,12 @@
 3.0.69		2023-02-27T12:35:44Z	
 3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.7/org.wso2.carbon.data.provider-3.0.7.jar returned status 404
 3.0.70		2024-03-21T10:48:04Z	
+3.0.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.71/org.wso2.carbon.data.provider-3.0.71.jar returned status 404
+3.0.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.72/org.wso2.carbon.data.provider-3.0.72.jar returned status 404
+3.0.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.73/org.wso2.carbon.data.provider-3.0.73.jar returned status 404
+3.0.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.74/org.wso2.carbon.data.provider-3.0.74.jar returned status 404
 3.0.75		2025-04-08T03:07:08Z	
+3.0.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.data.provider/3.0.76/org.wso2.carbon.data.provider-3.0.76.jar returned status 404
 3.0.77		2026-04-09T12:41:43Z	
 3.0.78		2026-05-11T17:30:55Z	
 3.0.79		2026-05-13T17:55:02Z	

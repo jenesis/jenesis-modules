@@ -18,6 +18,11 @@
 3.0.55		2021-04-29T06:29:55Z	
 3.0.56		2021-11-26T10:43:27Z	
 3.0.57		2022-02-22T18:08:17Z	
+3.0.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.58/org.wso2.carbon.siddhi.error.handler.core-3.0.58.jar returned status 404
+3.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.59/org.wso2.carbon.siddhi.error.handler.core-3.0.59.jar returned status 404
+3.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.60/org.wso2.carbon.siddhi.error.handler.core-3.0.60.jar returned status 404
+3.0.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.61/org.wso2.carbon.siddhi.error.handler.core-3.0.61.jar returned status 404
+3.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.62/org.wso2.carbon.siddhi.error.handler.core-3.0.62.jar returned status 404
 3.0.63		2022-11-02T11:28:09Z	
 3.0.64		2022-11-09T13:41:57Z	
 3.0.65		2022-11-29T00:02:43Z	
@@ -26,7 +31,12 @@
 3.0.68		2023-02-07T17:27:13Z	
 3.0.69		2023-02-27T12:20:36Z	
 3.0.70		2024-03-21T10:33:18Z	
+3.0.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.71/org.wso2.carbon.siddhi.error.handler.core-3.0.71.jar returned status 404
+3.0.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.72/org.wso2.carbon.siddhi.error.handler.core-3.0.72.jar returned status 404
+3.0.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.73/org.wso2.carbon.siddhi.error.handler.core-3.0.73.jar returned status 404
+3.0.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.74/org.wso2.carbon.siddhi.error.handler.core-3.0.74.jar returned status 404
 3.0.75		2025-04-08T02:53:06Z	
+3.0.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics/org.wso2.carbon.siddhi.error.handler.core/3.0.76/org.wso2.carbon.siddhi.error.handler.core-3.0.76.jar returned status 404
 3.0.77		2026-04-09T12:27:40Z	
 3.0.78		2026-05-11T17:16:58Z	
 3.0.79		2026-05-13T17:40:59Z	
