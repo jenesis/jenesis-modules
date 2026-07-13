@@ -1,3 +1,6 @@
+7.0.0.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-test-webapp/7.0.0.M0/jetty-test-webapp-7.0.0.M0.jar returned status 404
 7.0.0.M0	config	2009-04-03T15:52:34Z	
+7.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-test-webapp/7.0.0.M1/jetty-test-webapp-7.0.0.M1.jar returned status 404
 7.0.0.M1	config	2009-04-22T08:59:06Z	
+7.0.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-test-webapp/7.0.0.M2/jetty-test-webapp-7.0.0.M2.jar returned status 404
 7.0.0.M2	config	2009-05-18T09:17:14Z	

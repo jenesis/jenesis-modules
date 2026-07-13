@@ -1,26 +1,50 @@
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0/jetty-ee10-demo-async-rest-webapp-12.0.0.jar returned status 404
 12.0.0	config	2023-08-07T17:20:23Z	
+12.0.0.alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.alpha0/jetty-ee10-demo-async-rest-webapp-12.0.0.alpha0.jar returned status 404
 12.0.0.alpha0	config	2022-08-22T04:42:44Z	
+12.0.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.alpha1/jetty-ee10-demo-async-rest-webapp-12.0.0.alpha1.jar returned status 404
 12.0.0.alpha1	config	2022-09-15T01:39:45Z	
+12.0.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.alpha2/jetty-ee10-demo-async-rest-webapp-12.0.0.alpha2.jar returned status 404
 12.0.0.alpha2	config	2022-10-18T01:24:10Z	
+12.0.0.alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.alpha3/jetty-ee10-demo-async-rest-webapp-12.0.0.alpha3.jar returned status 404
 12.0.0.alpha3	config	2022-12-07T22:24:35Z	
+12.0.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.beta0/jetty-ee10-demo-async-rest-webapp-12.0.0.beta0.jar returned status 404
 12.0.0.beta0	config	2023-02-23T00:37:58Z	
+12.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.beta1/jetty-ee10-demo-async-rest-webapp-12.0.0.beta1.jar returned status 404
 12.0.0.beta1	config	2023-05-02T18:18:41Z	
+12.0.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.beta2/jetty-ee10-demo-async-rest-webapp-12.0.0.beta2.jar returned status 404
 12.0.0.beta2	config	2023-06-16T05:47:33Z	
+12.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.beta3/jetty-ee10-demo-async-rest-webapp-12.0.0.beta3.jar returned status 404
 12.0.0.beta3	config	2023-07-03T21:14:13Z	
+12.0.0.beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.0.beta4/jetty-ee10-demo-async-rest-webapp-12.0.0.beta4.jar returned status 404
 12.0.0.beta4	config	2023-07-26T22:31:53Z	
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.1/jetty-ee10-demo-async-rest-webapp-12.0.1.jar returned status 404
 12.0.1	config	2023-08-29T22:48:30Z	
+12.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.10/jetty-ee10-demo-async-rest-webapp-12.0.10.jar returned status 404
 12.0.10	config	2024-05-30T04:53:30Z	
+12.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.11/jetty-ee10-demo-async-rest-webapp-12.0.11.jar returned status 404
 12.0.11	config	2024-06-27T23:49:26Z	
+12.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.12/jetty-ee10-demo-async-rest-webapp-12.0.12.jar returned status 404
 12.0.12	config	2024-07-25T22:04:27Z	
+12.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.13/jetty-ee10-demo-async-rest-webapp-12.0.13.jar returned status 404
 12.0.13	config	2024-09-03T03:16:19Z	
+12.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.14/jetty-ee10-demo-async-rest-webapp-12.0.14.jar returned status 404
 12.0.14	config	2024-09-30T14:37:10Z	
+12.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.15/jetty-ee10-demo-async-rest-webapp-12.0.15.jar returned status 404
 12.0.15	config	2024-11-05T19:56:11Z	
+12.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.16/jetty-ee10-demo-async-rest-webapp-12.0.16.jar returned status 404
 12.0.16	config	2024-12-09T21:13:34Z	
+12.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.17/jetty-ee10-demo-async-rest-webapp-12.0.17.jar returned status 404
 12.0.17	config	2025-03-03T13:25:16Z	
+12.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.18/jetty-ee10-demo-async-rest-webapp-12.0.18.jar returned status 404
 12.0.18	config	2025-03-13T00:56:14Z	
+12.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.19/jetty-ee10-demo-async-rest-webapp-12.0.19.jar returned status 404
 12.0.19	config	2025-04-01T13:39:35Z	
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.2/jetty-ee10-demo-async-rest-webapp-12.0.2.jar returned status 404
 12.0.2	config	2023-10-10T02:04:32Z	
+12.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.20/jetty-ee10-demo-async-rest-webapp-12.0.20.jar returned status 404
 12.0.20	config	2025-04-29T18:10:33Z	
+12.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.21/jetty-ee10-demo-async-rest-webapp-12.0.21.jar returned status 404
 12.0.21	config	2025-05-09T00:40:18Z	
 12.0.22		2025-06-02T15:36:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.22/jetty-ee10-demo-async-rest-webapp-12.0.22.jar returned status 404
 12.0.22	config	2025-06-02T15:36:32Z	
@@ -38,6 +62,7 @@
 12.0.28	config	2025-10-03T16:21:49Z	
 12.0.29		2025-10-16T15:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.29/jetty-ee10-demo-async-rest-webapp-12.0.29.jar returned status 404
 12.0.29	config	2025-10-16T15:27:21Z	
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.3/jetty-ee10-demo-async-rest-webapp-12.0.3.jar returned status 404
 12.0.3	config	2023-10-27T03:30:24Z	
 12.0.30		2025-11-10T17:08:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.30/jetty-ee10-demo-async-rest-webapp-12.0.30.jar returned status 404
 12.0.30	config	2025-11-10T17:08:52Z	
@@ -53,9 +78,16 @@
 12.0.35	config	2026-05-01T05:52:30Z	
 12.0.36		2026-05-31T22:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.36/jetty-ee10-demo-async-rest-webapp-12.0.36.jar returned status 404
 12.0.36	config	2026-05-31T22:58:36Z	
+12.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.37/jetty-ee10-demo-async-rest-webapp-12.0.37.jar returned status 404
+12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.4/jetty-ee10-demo-async-rest-webapp-12.0.4.jar returned status 404
 12.0.4	config	2023-11-30T19:19:44Z	
+12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.5/jetty-ee10-demo-async-rest-webapp-12.0.5.jar returned status 404
 12.0.5	config	2023-12-18T14:11:59Z	
+12.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.6/jetty-ee10-demo-async-rest-webapp-12.0.6.jar returned status 404
 12.0.6	config	2024-01-30T02:48:28Z	
+12.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.7/jetty-ee10-demo-async-rest-webapp-12.0.7.jar returned status 404
 12.0.7	config	2024-02-29T21:26:14Z	
+12.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.8/jetty-ee10-demo-async-rest-webapp-12.0.8.jar returned status 404
 12.0.8	config	2024-03-29T20:03:21Z	
+12.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee10/demos/jetty-ee10-demo-async-rest-webapp/12.0.9/jetty-ee10-demo-async-rest-webapp-12.0.9.jar returned status 404
 12.0.9	config	2024-05-03T13:09:43Z	
