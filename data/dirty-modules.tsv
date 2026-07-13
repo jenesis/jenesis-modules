@@ -951,3 +951,4 @@ org.apache.logging.log4j
 org.apache.logging.log4j.docker
 org.apache.logging.log4j.taglib
 org.apache.logging.log4j.test
+org.apache.nifi
