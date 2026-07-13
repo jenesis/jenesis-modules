@@ -9,4 +9,34 @@
 10.7		2026-06-11T06:16:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/10.7/ebean-datasource-parent-10.7.jar returned status 404
 10.8		2026-06-12T23:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/10.8/ebean-datasource-parent-10.8.jar returned status 404
 10.9		2026-06-12T23:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/10.9/ebean-datasource-parent-10.9.jar returned status 404
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.0/ebean-datasource-parent-7.0.jar returned status 404
+7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.2/ebean-datasource-parent-7.2.jar returned status 404
+7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.3/ebean-datasource-parent-7.3.jar returned status 404
+7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.4/ebean-datasource-parent-7.4.jar returned status 404
+7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.5/ebean-datasource-parent-7.5.jar returned status 404
+7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/7.6/ebean-datasource-parent-7.6.jar returned status 404
+8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.0/ebean-datasource-parent-8.0.jar returned status 404
+8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.1/ebean-datasource-parent-8.1.jar returned status 404
+8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.10/ebean-datasource-parent-8.10.jar returned status 404
+8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.11/ebean-datasource-parent-8.11.jar returned status 404
+8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.12/ebean-datasource-parent-8.12.jar returned status 404
+8.12-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.12-RC/ebean-datasource-parent-8.12-RC.jar returned status 404
+8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.13/ebean-datasource-parent-8.13.jar returned status 404
+8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.14/ebean-datasource-parent-8.14.jar returned status 404
+8.14-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.14-RC1/ebean-datasource-parent-8.14-RC1.jar returned status 404
+8.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.15/ebean-datasource-parent-8.15.jar returned status 404
+8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.2/ebean-datasource-parent-8.2.jar returned status 404
+8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.3/ebean-datasource-parent-8.3.jar returned status 404
+8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.4/ebean-datasource-parent-8.4.jar returned status 404
+8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.5/ebean-datasource-parent-8.5.jar returned status 404
+8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.6/ebean-datasource-parent-8.6.jar returned status 404
+8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.7/ebean-datasource-parent-8.7.jar returned status 404
+8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.8/ebean-datasource-parent-8.8.jar returned status 404
+8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/8.9/ebean-datasource-parent-8.9.jar returned status 404
+9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.0/ebean-datasource-parent-9.0.jar returned status 404
+9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.1/ebean-datasource-parent-9.1.jar returned status 404
+9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.2/ebean-datasource-parent-9.2.jar returned status 404
+9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.3/ebean-datasource-parent-9.3.jar returned status 404
+9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.4/ebean-datasource-parent-9.4.jar returned status 404
+9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.5/ebean-datasource-parent-9.5.jar returned status 404
 9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ebean/ebean-datasource-parent/9.6/ebean-datasource-parent-9.6.jar returned status 404

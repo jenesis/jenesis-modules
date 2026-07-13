@@ -2572,3 +2572,13 @@ io.netty.resolver.dns
 io.netty.testsuite_http2
 io.vidocq.runtime.cli
 io.nutrient.sdk
+euhedral.data.structures
+euhedral.core
+euhedral.hashing
+euhedral.reactor.core
+euhedral.hardware_utils
+org.apache.arrow.vector
+org.apache.arrow.memory.core
+org.apache.arrow.format
+org.apache.arrow.flight.core
+org.apache.arrow.memory.unsafe

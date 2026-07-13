@@ -2,3 +2,5 @@
 0.0.2		2026-05-28T00:40:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/euhedral-execution/euhedral-execution/0.0.2/euhedral-execution-0.0.2.jar returned status 404
 0.0.3		2026-06-01T01:07:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/euhedral-execution/euhedral-execution/0.0.3/euhedral-execution-0.0.3.jar returned status 404
 0.0.4		2026-06-11T04:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/euhedral-execution/euhedral-execution/0.0.4/euhedral-execution-0.0.4.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/euhedral-execution/euhedral-execution/0.0.5/euhedral-execution-0.0.5.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/euhedral-execution/euhedral-execution/0.0.6/euhedral-execution-0.0.6.jar returned status 404

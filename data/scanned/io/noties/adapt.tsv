@@ -1,2 +1,6 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/2.0.0/adapt-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/2.1.0/adapt-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/2.2.0/adapt-2.2.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/3.0.0/adapt-3.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/4.0.0/adapt-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/noties/adapt/5.0.0/adapt-5.0.0.jar returned status 404

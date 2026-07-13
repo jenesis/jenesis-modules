@@ -1,78 +1,170 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.10.0/syndesis-parent-1.10.0.jar returned status 404
 1.10.0	tools	2020-06-30T16:34:06Z	
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.11.0/syndesis-parent-1.11.0.jar returned status 404
 1.11.0	tools	2021-03-05T19:55:14Z	
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.12.0/syndesis-parent-1.12.0.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.12.1/syndesis-parent-1.12.1.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.13.0/syndesis-parent-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.13.1/syndesis-parent-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.13.2/syndesis-parent-1.13.2.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.2/syndesis-parent-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.3/syndesis-parent-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.4/syndesis-parent-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.5/syndesis-parent-1.2.5.jar returned status 404
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.6/syndesis-parent-1.2.6.jar returned status 404
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.7/syndesis-parent-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.8/syndesis-parent-1.2.8.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.2.9/syndesis-parent-1.2.9.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0/syndesis-parent-1.3.0.jar returned status 404
 1.3.0	tools	2018-03-13T12:32:28Z	
+1.3.0-20180202			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180202/syndesis-parent-1.3.0-20180202.jar returned status 404
+1.3.0-20180301			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180301/syndesis-parent-1.3.0-20180301.jar returned status 404
 1.3.0-20180301	tools	2018-03-01T21:28:49Z	
+1.3.0-20180302			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180302/syndesis-parent-1.3.0-20180302.jar returned status 404
 1.3.0-20180302	tools	2018-03-02T08:10:34Z	
+1.3.0-20180303			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180303/syndesis-parent-1.3.0-20180303.jar returned status 404
 1.3.0-20180303	tools	2018-03-02T10:38:42Z	
+1.3.0-20180304			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180304/syndesis-parent-1.3.0-20180304.jar returned status 404
 1.3.0-20180304	tools	2018-03-02T11:26:56Z	
+1.3.0-20180306			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180306/syndesis-parent-1.3.0-20180306.jar returned status 404
 1.3.0-20180306	tools	2018-03-06T08:30:01Z	
+1.3.0-20180307			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180307/syndesis-parent-1.3.0-20180307.jar returned status 404
 1.3.0-20180307	tools	2018-03-06T09:37:41Z	
+1.3.0-20180308			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180308/syndesis-parent-1.3.0-20180308.jar returned status 404
 1.3.0-20180308	tools	2018-03-08T22:13:05Z	
+1.3.0-20180312			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.0-20180312/syndesis-parent-1.3.0-20180312.jar returned status 404
 1.3.0-20180312	tools	2018-03-12T17:34:41Z	
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.1/syndesis-parent-1.3.1.jar returned status 404
 1.3.1	tools	2018-03-13T20:36:14Z	
+1.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.10/syndesis-parent-1.3.10.jar returned status 404
 1.3.10	tools	2018-05-15T19:05:50Z	
+1.3.10-20180515			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.10-20180515/syndesis-parent-1.3.10-20180515.jar returned status 404
 1.3.10-20180515	tools	2018-05-15T15:23:22Z	
+1.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.12/syndesis-parent-1.3.12.jar returned status 404
 1.3.12	tools	2018-07-03T19:17:38Z	
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.2/syndesis-parent-1.3.2.jar returned status 404
 1.3.2	tools	2018-03-15T09:47:33Z	
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.3/syndesis-parent-1.3.3.jar returned status 404
 1.3.3	tools	2018-03-21T13:13:40Z	
+1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.4/syndesis-parent-1.3.4.jar returned status 404
 1.3.4	tools	2018-03-22T12:20:29Z	
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.5/syndesis-parent-1.3.5.jar returned status 404
 1.3.5	tools	2018-05-04T17:29:25Z	
+1.3.5-20180405			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.5-20180405/syndesis-parent-1.3.5-20180405.jar returned status 404
 1.3.5-20180405	tools	2018-04-05T22:19:45Z	
+1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.6/syndesis-parent-1.3.6.jar returned status 404
 1.3.6	tools	2018-05-09T16:59:32Z	
+1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.7/syndesis-parent-1.3.7.jar returned status 404
 1.3.7	tools	2018-05-11T10:28:49Z	
+1.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.8/syndesis-parent-1.3.8.jar returned status 404
 1.3.8	tools	2018-05-12T13:33:29Z	
+1.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.3.9/syndesis-parent-1.3.9.jar returned status 404
 1.3.9	tools	2018-05-15T10:05:39Z	
+1.4.0-20180720			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.0-20180720/syndesis-parent-1.4.0-20180720.jar returned status 404
 1.4.0-20180720	tools	2018-07-20T11:28:14Z	
+1.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.10/syndesis-parent-1.4.10.jar returned status 404
 1.4.10	tools	2018-10-12T15:52:58Z	
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.2/syndesis-parent-1.4.2.jar returned status 404
 1.4.2	tools	2018-08-06T18:19:03Z	
+1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.3/syndesis-parent-1.4.3.jar returned status 404
 1.4.3	tools	2018-08-08T11:58:32Z	
+1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.4/syndesis-parent-1.4.4.jar returned status 404
 1.4.4	tools	2018-08-08T14:28:51Z	
+1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.5/syndesis-parent-1.4.5.jar returned status 404
 1.4.5	tools	2018-08-13T08:44:10Z	
+1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.6/syndesis-parent-1.4.6.jar returned status 404
 1.4.6	tools	2018-08-17T16:31:23Z	
+1.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.7/syndesis-parent-1.4.7.jar returned status 404
 1.4.7	tools	2018-08-24T18:30:02Z	
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.8/syndesis-parent-1.4.8.jar returned status 404
 1.4.8	tools	2018-09-05T16:42:10Z	
+1.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.4.9/syndesis-parent-1.4.9.jar returned status 404
 1.4.9	tools	2018-10-03T11:56:36Z	
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.1/syndesis-parent-1.5.1.jar returned status 404
 1.5.1	tools	2018-08-07T16:45:31Z	
+1.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.10/syndesis-parent-1.5.10.jar returned status 404
 1.5.10	tools	2019-01-15T18:16:34Z	
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.2/syndesis-parent-1.5.2.jar returned status 404
 1.5.2	tools	2018-08-07T18:00:39Z	
+1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.3/syndesis-parent-1.5.3.jar returned status 404
 1.5.3	tools	2018-08-07T21:06:30Z	
+1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.5/syndesis-parent-1.5.5.jar returned status 404
 1.5.5	tools	2018-10-29T11:40:51Z	
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.6/syndesis-parent-1.5.6.jar returned status 404
 1.5.6	tools	2018-10-30T17:09:48Z	
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.7/syndesis-parent-1.5.7.jar returned status 404
 1.5.7	tools	2018-11-13T15:45:16Z	
+1.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.8/syndesis-parent-1.5.8.jar returned status 404
 1.5.8	tools	2018-11-17T01:31:44Z	
+1.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.5.9/syndesis-parent-1.5.9.jar returned status 404
 1.5.9	tools	2018-11-30T14:32:17Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.0/syndesis-parent-1.6.0.jar returned status 404
 1.6.0	tools	2019-03-11T14:06:14Z	
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.1/syndesis-parent-1.6.1.jar returned status 404
 1.6.1	tools	2019-03-15T14:41:58Z	
+1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.10/syndesis-parent-1.6.10.jar returned status 404
 1.6.10	tools	2019-04-11T09:48:25Z	
+1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.11/syndesis-parent-1.6.11.jar returned status 404
 1.6.11	tools	2019-04-12T18:36:47Z	
+1.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.12/syndesis-parent-1.6.12.jar returned status 404
 1.6.12	tools	2019-04-12T22:42:21Z	
+1.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.13/syndesis-parent-1.6.13.jar returned status 404
 1.6.13	tools	2019-05-20T13:15:57Z	
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.2/syndesis-parent-1.6.2.jar returned status 404
 1.6.2	tools	2019-03-20T11:28:55Z	
+1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.3/syndesis-parent-1.6.3.jar returned status 404
 1.6.3	tools	2019-03-21T09:03:45Z	
+1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.4/syndesis-parent-1.6.4.jar returned status 404
 1.6.4	tools	2019-03-27T15:36:33Z	
+1.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.5/syndesis-parent-1.6.5.jar returned status 404
 1.6.5	tools	2019-04-01T16:50:27Z	
+1.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.6/syndesis-parent-1.6.6.jar returned status 404
 1.6.6	tools	2019-04-02T11:55:05Z	
+1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.7/syndesis-parent-1.6.7.jar returned status 404
 1.6.7	tools	2019-04-03T15:25:21Z	
+1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.8/syndesis-parent-1.6.8.jar returned status 404
 1.6.8	tools	2019-04-04T09:20:34Z	
+1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.6.9/syndesis-parent-1.6.9.jar returned status 404
 1.6.9	tools	2019-04-05T14:35:46Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.0/syndesis-parent-1.7.0.jar returned status 404
 1.7.0	tools	2019-06-17T21:20:25Z	
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.1/syndesis-parent-1.7.1.jar returned status 404
 1.7.1	tools	2019-06-19T14:03:25Z	
+1.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.10/syndesis-parent-1.7.10.jar returned status 404
 1.7.10	tools	2019-07-13T13:35:33Z	
+1.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.11/syndesis-parent-1.7.11.jar returned status 404
 1.7.11	tools	2019-07-16T22:23:20Z	
+1.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.12/syndesis-parent-1.7.12.jar returned status 404
 1.7.12	tools	2019-07-17T21:29:54Z	
+1.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.13/syndesis-parent-1.7.13.jar returned status 404
 1.7.13	tools	2019-07-24T13:57:22Z	
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.2/syndesis-parent-1.7.2.jar returned status 404
 1.7.2	tools	2019-06-20T13:58:55Z	
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.3/syndesis-parent-1.7.3.jar returned status 404
 1.7.3	tools	2019-06-21T08:06:52Z	
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.4/syndesis-parent-1.7.4.jar returned status 404
 1.7.4	tools	2019-06-24T15:03:38Z	
+1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.5/syndesis-parent-1.7.5.jar returned status 404
 1.7.5	tools	2019-06-25T15:58:26Z	
+1.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.6/syndesis-parent-1.7.6.jar returned status 404
 1.7.6	tools	2019-06-26T11:08:50Z	
+1.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.7/syndesis-parent-1.7.7.jar returned status 404
 1.7.7	tools	2019-07-01T05:50:07Z	
+1.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.8/syndesis-parent-1.7.8.jar returned status 404
 1.7.8	tools	2019-07-01T15:20:19Z	
+1.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.7.9/syndesis-parent-1.7.9.jar returned status 404
 1.7.9	tools	2019-07-09T16:43:09Z	
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.0/syndesis-parent-1.8.0.jar returned status 404
 1.8.0	tools	2019-10-18T09:20:30Z	
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.1/syndesis-parent-1.8.1.jar returned status 404
 1.8.1	tools	2019-10-18T09:34:22Z	
+1.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.12/syndesis-parent-1.8.12.jar returned status 404
 1.8.12	tools	2019-10-25T17:13:20Z	
+1.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.13/syndesis-parent-1.8.13.jar returned status 404
 1.8.13	tools	2019-12-10T08:49:52Z	
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.2/syndesis-parent-1.8.2.jar returned status 404
 1.8.2	tools	2019-10-18T09:28:33Z	
+1.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.8.6/syndesis-parent-1.8.6.jar returned status 404
 1.8.6	tools	2019-10-23T08:50:54Z	
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syndesis/syndesis-parent/1.9.0/syndesis-parent-1.9.0.jar returned status 404
 1.9.0	tools	2020-04-06T17:29:41Z	

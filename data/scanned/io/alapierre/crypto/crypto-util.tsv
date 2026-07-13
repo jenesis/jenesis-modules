@@ -1,3 +1,17 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.0/crypto-util-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.1/crypto-util-1.1.jar returned status 404
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.10/crypto-util-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.11/crypto-util-1.11.jar returned status 404
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.12/crypto-util-1.12.jar returned status 404
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.13/crypto-util-1.13.jar returned status 404
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.14/crypto-util-1.14.jar returned status 404
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.15/crypto-util-1.15.jar returned status 404
+1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.16/crypto-util-1.16.jar returned status 404
+1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.17/crypto-util-1.17.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.5/crypto-util-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.6/crypto-util-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.7/crypto-util-1.7.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/1.9/crypto-util-1.9.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/2.0.3/crypto-util-2.0.3.jar returned status 404
 2.0.4		2026-06-15T09:40:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/2.0.4/crypto-util-2.0.4.jar returned status 404
 2.0.5		2026-06-16T11:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/alapierre/crypto/crypto-util/2.0.5/crypto-util-2.0.5.jar returned status 404
