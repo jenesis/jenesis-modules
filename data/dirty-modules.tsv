@@ -790,3 +790,11 @@ org.pkl.formatter
 org.pkl.commons.cli
 org.flywaydb.core
 org.nasdanika.xtext
+org.dizitart.no2.support
+org.dizitart.no2.jackson
+org.dizitart.no2
+org.dizitart.no2.rocksdb
+org.dizitart.no2.spatial
+org.dizitart.kno2
+org.dizitart.no2.mvstore
+org.snakeyaml.engine.v2

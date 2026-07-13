@@ -1,3 +1,11 @@
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/10/kitei-root-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/11/kitei-root-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/12/kitei-root-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/13/kitei-root-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/14/kitei-root-14.jar returned status 404
+15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/15/kitei-root-15.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/16/kitei-root-16.jar returned status 404
+17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/17/kitei-root-17.jar returned status 404
 18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/18/kitei-root-18.jar returned status 404
 19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/19/kitei-root-19.jar returned status 404
 20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kitei/kitei-root/20/kitei-root-20.jar returned status 404
