@@ -67,6 +67,9 @@
 3.6.0		2020-07-20T07:41:00Z	
 4.0.0		2020-08-23T06:38:44Z	
 4.1.0		2020-09-11T05:22:05Z	
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.10.0/smallmind-memcached-4.10.0.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.11.0/smallmind-memcached-4.11.0.jar returned status 404
+4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.11.1/smallmind-memcached-4.11.1.jar returned status 404
 4.2.0		2020-09-30T02:19:22Z	
 4.3.0		2020-11-08T06:31:30Z	
 4.4.1		2020-12-25T09:03:43Z	
@@ -80,11 +83,34 @@
 4.4.7		2021-10-22T08:23:23Z	
 4.4.8		2021-11-25T20:31:56Z	
 4.4.9		2022-01-22T10:02:35Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.5.0/smallmind-memcached-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.6.0/smallmind-memcached-4.6.0.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.7.0/smallmind-memcached-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.7.1/smallmind-memcached-4.7.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.0/smallmind-memcached-4.8.0.jar returned status 404
+4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.1/smallmind-memcached-4.8.1.jar returned status 404
+4.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.2/smallmind-memcached-4.8.2.jar returned status 404
+4.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.3/smallmind-memcached-4.8.3.jar returned status 404
+4.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.4/smallmind-memcached-4.8.4.jar returned status 404
+4.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.8.5/smallmind-memcached-4.8.5.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/4.9.0/smallmind-memcached-4.9.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.1.0/smallmind-memcached-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.2.0/smallmind-memcached-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.3.0/smallmind-memcached-5.3.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.4.0/smallmind-memcached-5.4.0.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.5.0/smallmind-memcached-5.5.0.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.7.0/smallmind-memcached-5.7.0.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.8.0/smallmind-memcached-5.8.0.jar returned status 404
+5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/5.9.0/smallmind-memcached-5.9.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.0.0/smallmind-memcached-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.1.0/smallmind-memcached-6.1.0.jar returned status 404
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.10.0/smallmind-memcached-6.10.0.jar returned status 404
 6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.11.0/smallmind-memcached-6.11.0.jar returned status 404
 6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.12.0/smallmind-memcached-6.12.0.jar returned status 404
 6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.13.0/smallmind-memcached-6.13.0.jar returned status 404
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.14.0/smallmind-memcached-6.14.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.2.0/smallmind-memcached-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.3.0/smallmind-memcached-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.4.0/smallmind-memcached-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.5.0/smallmind-memcached-6.5.0.jar returned status 404
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-memcached/6.6.0/smallmind-memcached-6.6.0.jar returned status 404

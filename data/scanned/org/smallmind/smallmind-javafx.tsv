@@ -116,11 +116,17 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/5.5.0/smallmind-javafx-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/5.6.0/smallmind-javafx-5.6.0.jar returned status 404
 5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/5.7.0/smallmind-javafx-5.7.0.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/5.8.0/smallmind-javafx-5.8.0.jar returned status 404
+5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/5.9.0/smallmind-javafx-5.9.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.0.0/smallmind-javafx-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.1.0/smallmind-javafx-6.1.0.jar returned status 404
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.10.0/smallmind-javafx-6.10.0.jar returned status 404
 6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.11.0/smallmind-javafx-6.11.0.jar returned status 404
 6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.12.0/smallmind-javafx-6.12.0.jar returned status 404
 6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.13.0/smallmind-javafx-6.13.0.jar returned status 404
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.14.0/smallmind-javafx-6.14.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.2.0/smallmind-javafx-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.3.0/smallmind-javafx-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.4.0/smallmind-javafx-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.5.0/smallmind-javafx-6.5.0.jar returned status 404
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/smallmind/smallmind-javafx/6.6.0/smallmind-javafx-6.6.0.jar returned status 404
