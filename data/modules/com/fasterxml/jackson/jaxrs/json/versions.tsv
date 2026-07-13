@@ -1156,4 +1156,10 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 4.2.3	named	org.apache.pulsar	pulsar-functions-local-runner	2026-07-07T02:21:53Z	2.18.8
 2.21.5	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-07-07T03:24:38Z	2.21.5
 2.22.1	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-07-07T22:59:22Z	2.22.1
+0.6.1	named	org.lance	lance-spark-bundle-4.0_2.13	2026-07-08T00:02:49Z	2.17.1
+0.6.1	named	org.lance	lance-spark-bundle-3.5_2.12	2026-07-08T00:02:50Z	2.17.1
+0.6.1	named	org.lance	lance-spark-bundle-3.4_2.13	2026-07-08T00:02:52Z	2.17.1
+0.6.1	named	org.lance	lance-spark-bundle-3.5_2.13	2026-07-08T00:02:53Z	2.17.1
+0.6.1	named	org.lance	lance-spark-bundle-4.1_2.13	2026-07-08T00:03:06Z	2.17.1
+0.6.1	named	org.lance	lance-spark-bundle-3.4_2.12	2026-07-08T00:07:00Z	2.17.1
 2.18.9	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-07-08T00:58:46Z	2.18.9

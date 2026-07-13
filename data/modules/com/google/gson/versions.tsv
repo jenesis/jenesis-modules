@@ -2997,6 +2997,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 3.10.0.75477	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2024-09-03T12:49:21Z	2.10.1
 2024.3.9	named	io.edurt.datacap	datacap-shaded-pinot	2024-09-04T08:18:47Z	2.10.1
 2024.03.9	named	io.edurt.datacap	datacap-shaded-pinot	2024-09-04T10:47:02Z	2.10.1
+1.0-M3	named	org.dflib.jjava	jjava	2024-09-04T20:30:33Z	2.11.0
 3.3.0	named	io.jooby	jooby-graphql	2024-09-04T21:10:43Z	2.11.0
 2.4.2	named	com.alibaba.nacos	nacos-client	2024-09-05T09:20:43Z	2.9.0
 1.0.8	named	org.liquibase.ext.vaults	liquibase-aws-secrets-manager	2024-09-05T12:43:15Z	2.11.0

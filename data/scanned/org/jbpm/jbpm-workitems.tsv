@@ -1,3 +1,5 @@
+5.0-CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/5.0-CR1/jbpm-workitems-5.0-CR1.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/5.0.0/jbpm-workitems-5.0.0.jar returned status 404
 5.1.0.CR1		2011-05-26T18:44:00Z	
 5.1.0.Final		2011-06-23T10:03:32Z	
 5.1.0.M1		2011-04-21T15:19:53Z	
@@ -78,4 +80,89 @@
 7.1.0.Beta2		2017-05-31T13:29:34Z	
 7.1.0.Beta3		2017-06-19T17:45:23Z	
 7.1.0.Final		2017-07-14T14:57:58Z	
+7.10.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.10.0.Final/jbpm-workitems-7.10.0.Final.jar returned status 404
+7.11.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.11.0.Final/jbpm-workitems-7.11.0.Final.jar returned status 404
+7.12.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.12.0.Final/jbpm-workitems-7.12.0.Final.jar returned status 404
+7.13.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.13.0.Final/jbpm-workitems-7.13.0.Final.jar returned status 404
+7.14.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.14.0.Final/jbpm-workitems-7.14.0.Final.jar returned status 404
+7.15.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.15.0.Final/jbpm-workitems-7.15.0.Final.jar returned status 404
+7.16.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.16.0.Final/jbpm-workitems-7.16.0.Final.jar returned status 404
+7.17.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.17.0.Final/jbpm-workitems-7.17.0.Final.jar returned status 404
+7.18.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.18.0.Final/jbpm-workitems-7.18.0.Final.jar returned status 404
+7.19.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.19.0.Final/jbpm-workitems-7.19.0.Final.jar returned status 404
 7.2.0.Final		2017-08-15T08:48:47Z	
+7.20.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.20.0.Final/jbpm-workitems-7.20.0.Final.jar returned status 404
+7.21.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.21.0.Final/jbpm-workitems-7.21.0.Final.jar returned status 404
+7.22.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.22.0.Final/jbpm-workitems-7.22.0.Final.jar returned status 404
+7.22.0.t042			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.22.0.t042/jbpm-workitems-7.22.0.t042.jar returned status 404
+7.23.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.23.0.Final/jbpm-workitems-7.23.0.Final.jar returned status 404
+7.24.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.24.0.Final/jbpm-workitems-7.24.0.Final.jar returned status 404
+7.24.0.t043			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.24.0.t043/jbpm-workitems-7.24.0.t043.jar returned status 404
+7.25.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.25.0.Final/jbpm-workitems-7.25.0.Final.jar returned status 404
+7.26.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.26.0.Final/jbpm-workitems-7.26.0.Final.jar returned status 404
+7.27.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.27.0.Final/jbpm-workitems-7.27.0.Final.jar returned status 404
+7.28.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.28.0.Final/jbpm-workitems-7.28.0.Final.jar returned status 404
+7.29.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.29.0.Final/jbpm-workitems-7.29.0.Final.jar returned status 404
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.3.0.Final/jbpm-workitems-7.3.0.Final.jar returned status 404
+7.30.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.30.0.Final/jbpm-workitems-7.30.0.Final.jar returned status 404
+7.31.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.31.0.Final/jbpm-workitems-7.31.0.Final.jar returned status 404
+7.32.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.32.0.Final/jbpm-workitems-7.32.0.Final.jar returned status 404
+7.33.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.33.0.Final/jbpm-workitems-7.33.0.Final.jar returned status 404
+7.34.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.34.0.Final/jbpm-workitems-7.34.0.Final.jar returned status 404
+7.35.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.35.0.Final/jbpm-workitems-7.35.0.Final.jar returned status 404
+7.36.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.36.0.Final/jbpm-workitems-7.36.0.Final.jar returned status 404
+7.36.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.36.1.Final/jbpm-workitems-7.36.1.Final.jar returned status 404
+7.37.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.37.0.Final/jbpm-workitems-7.37.0.Final.jar returned status 404
+7.38.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.38.0.Final/jbpm-workitems-7.38.0.Final.jar returned status 404
+7.39.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.39.0.Final/jbpm-workitems-7.39.0.Final.jar returned status 404
+7.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.4.0.Final/jbpm-workitems-7.4.0.Final.jar returned status 404
+7.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.4.1.Final/jbpm-workitems-7.4.1.Final.jar returned status 404
+7.40.0.20200703			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.40.0.20200703/jbpm-workitems-7.40.0.20200703.jar returned status 404
+7.40.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.40.0.Final/jbpm-workitems-7.40.0.Final.jar returned status 404
+7.41.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.41.0.Final/jbpm-workitems-7.41.0.Final.jar returned status 404
+7.41.0.t20200723			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.41.0.t20200723/jbpm-workitems-7.41.0.t20200723.jar returned status 404
+7.42.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.42.0.Final/jbpm-workitems-7.42.0.Final.jar returned status 404
+7.43.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.43.0.Final/jbpm-workitems-7.43.0.Final.jar returned status 404
+7.43.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.43.1.Final/jbpm-workitems-7.43.1.Final.jar returned status 404
+7.44.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.44.0.Final/jbpm-workitems-7.44.0.Final.jar returned status 404
+7.45.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.45.0.Final/jbpm-workitems-7.45.0.Final.jar returned status 404
+7.45.0.t20201009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.45.0.t20201009/jbpm-workitems-7.45.0.t20201009.jar returned status 404
+7.45.0.t20201014			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.45.0.t20201014/jbpm-workitems-7.45.0.t20201014.jar returned status 404
+7.46.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.46.0.Final/jbpm-workitems-7.46.0.Final.jar returned status 404
+7.46.0.t20201030			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.46.0.t20201030/jbpm-workitems-7.46.0.t20201030.jar returned status 404
+7.47.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.47.0.Final/jbpm-workitems-7.47.0.Final.jar returned status 404
+7.48.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.48.0.Final/jbpm-workitems-7.48.0.Final.jar returned status 404
+7.49.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.49.0.Final/jbpm-workitems-7.49.0.Final.jar returned status 404
+7.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.5.0.Final/jbpm-workitems-7.5.0.Final.jar returned status 404
+7.5.0.t018			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.5.0.t018/jbpm-workitems-7.5.0.t018.jar returned status 404
+7.50.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.50.0.Final/jbpm-workitems-7.50.0.Final.jar returned status 404
+7.51.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.51.0.Final/jbpm-workitems-7.51.0.Final.jar returned status 404
+7.52.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.52.0.Final/jbpm-workitems-7.52.0.Final.jar returned status 404
+7.53.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.53.0.Final/jbpm-workitems-7.53.0.Final.jar returned status 404
+7.54.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.54.0.Final/jbpm-workitems-7.54.0.Final.jar returned status 404
+7.55.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.55.0.Final/jbpm-workitems-7.55.0.Final.jar returned status 404
+7.56.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.56.0.Final/jbpm-workitems-7.56.0.Final.jar returned status 404
+7.57.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.57.0.Final/jbpm-workitems-7.57.0.Final.jar returned status 404
+7.58.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.58.0.Final/jbpm-workitems-7.58.0.Final.jar returned status 404
+7.59.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.59.0.Final/jbpm-workitems-7.59.0.Final.jar returned status 404
+7.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.6.0.Final/jbpm-workitems-7.6.0.Final.jar returned status 404
+7.6.0.t022			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.6.0.t022/jbpm-workitems-7.6.0.t022.jar returned status 404
+7.60.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.60.0.Final/jbpm-workitems-7.60.0.Final.jar returned status 404
+7.61.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.61.0.Final/jbpm-workitems-7.61.0.Final.jar returned status 404
+7.62.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.62.0.Final/jbpm-workitems-7.62.0.Final.jar returned status 404
+7.63.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.63.0.Final/jbpm-workitems-7.63.0.Final.jar returned status 404
+7.64.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.64.0.Final/jbpm-workitems-7.64.0.Final.jar returned status 404
+7.65.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.65.0.Final/jbpm-workitems-7.65.0.Final.jar returned status 404
+7.66.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.66.0.Final/jbpm-workitems-7.66.0.Final.jar returned status 404
+7.67.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.67.0.Final/jbpm-workitems-7.67.0.Final.jar returned status 404
+7.68.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.68.0.Final/jbpm-workitems-7.68.0.Final.jar returned status 404
+7.69.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.69.0.Final/jbpm-workitems-7.69.0.Final.jar returned status 404
+7.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.7.0.Final/jbpm-workitems-7.7.0.Final.jar returned status 404
+7.70.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.70.0.Final/jbpm-workitems-7.70.0.Final.jar returned status 404
+7.71.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.71.0.Final/jbpm-workitems-7.71.0.Final.jar returned status 404
+7.72.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.72.0.Final/jbpm-workitems-7.72.0.Final.jar returned status 404
+7.73.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.73.0.Final/jbpm-workitems-7.73.0.Final.jar returned status 404
+7.74.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.74.0.Final/jbpm-workitems-7.74.0.Final.jar returned status 404
+7.74.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.74.1.Final/jbpm-workitems-7.74.1.Final.jar returned status 404
+7.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.8.0.Final/jbpm-workitems-7.8.0.Final.jar returned status 404
+7.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-workitems/7.9.0.Final/jbpm-workitems-7.9.0.Final.jar returned status 404

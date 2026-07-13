@@ -1,38 +1,76 @@
+6.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.Beta5/jbpm-dashboard-webapp-6.0.0.Beta5.jar returned status 404
 6.0.0.Beta5	classes	2013-07-06T20:11:31Z	
+6.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR1/jbpm-dashboard-webapp-6.0.0.CR1.jar returned status 404
 6.0.0.CR1	classes	2013-07-25T15:08:34Z	
+6.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR2/jbpm-dashboard-webapp-6.0.0.CR2.jar returned status 404
 6.0.0.CR2	classes	2013-08-26T15:25:55Z	
+6.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR3/jbpm-dashboard-webapp-6.0.0.CR3.jar returned status 404
 6.0.0.CR3	classes	2013-09-04T18:11:01Z	
+6.0.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR4/jbpm-dashboard-webapp-6.0.0.CR4.jar returned status 404
 6.0.0.CR4	classes	2013-09-27T16:07:47Z	
+6.0.0.CR4-Pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR4-Pre1/jbpm-dashboard-webapp-6.0.0.CR4-Pre1.jar returned status 404
 6.0.0.CR4-Pre1	classes	2013-09-20T14:32:45Z	
+6.0.0.CR5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.CR5/jbpm-dashboard-webapp-6.0.0.CR5.jar returned status 404
 6.0.0.CR5	classes	2013-10-14T16:37:31Z	
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.0.Final/jbpm-dashboard-webapp-6.0.0.Final.jar returned status 404
 6.0.0.Final	classes	2013-11-20T13:56:28Z	
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.0.1.Final/jbpm-dashboard-webapp-6.0.1.Final.jar returned status 404
 6.0.1.Final	classes	2013-12-20T11:21:51Z	
+6.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.Beta1/jbpm-dashboard-webapp-6.1.0.Beta1.jar returned status 404
 6.1.0.Beta1	classes	2014-03-07T19:08:54Z	
+6.1.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.Beta2/jbpm-dashboard-webapp-6.1.0.Beta2.jar returned status 404
 6.1.0.Beta2	classes	2014-04-01T05:51:31Z	
+6.1.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.Beta3/jbpm-dashboard-webapp-6.1.0.Beta3.jar returned status 404
 6.1.0.Beta3	classes	2014-04-29T17:28:29Z	
+6.1.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.Beta4/jbpm-dashboard-webapp-6.1.0.Beta4.jar returned status 404
 6.1.0.Beta4	classes	2014-05-27T11:41:00Z	
+6.1.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.CR1/jbpm-dashboard-webapp-6.1.0.CR1.jar returned status 404
 6.1.0.CR1	classes	2014-06-09T20:09:58Z	
+6.1.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.CR2/jbpm-dashboard-webapp-6.1.0.CR2.jar returned status 404
 6.1.0.CR2	classes	2014-07-08T20:06:08Z	
+6.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.1.0.Final/jbpm-dashboard-webapp-6.1.0.Final.jar returned status 404
 6.1.0.Final	classes	2014-08-02T02:30:49Z	
+6.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.Beta1/jbpm-dashboard-webapp-6.2.0.Beta1.jar returned status 404
 6.2.0.Beta1	classes	2014-08-06T19:50:26Z	
+6.2.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.Beta2/jbpm-dashboard-webapp-6.2.0.Beta2.jar returned status 404
 6.2.0.Beta2	classes	2014-09-15T13:15:07Z	
+6.2.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.Beta3/jbpm-dashboard-webapp-6.2.0.Beta3.jar returned status 404
 6.2.0.Beta3	classes	2014-09-28T11:57:19Z	
+6.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.CR1/jbpm-dashboard-webapp-6.2.0.CR1.jar returned status 404
 6.2.0.CR1	classes	2014-10-26T03:33:51Z	
+6.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.CR2/jbpm-dashboard-webapp-6.2.0.CR2.jar returned status 404
 6.2.0.CR2	classes	2014-11-11T21:54:47Z	
+6.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.CR3/jbpm-dashboard-webapp-6.2.0.CR3.jar returned status 404
 6.2.0.CR3	classes	2014-12-07T11:46:20Z	
+6.2.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.CR4/jbpm-dashboard-webapp-6.2.0.CR4.jar returned status 404
 6.2.0.CR4	classes	2015-01-12T12:38:15Z	
+6.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.2.0.Final/jbpm-dashboard-webapp-6.2.0.Final.jar returned status 404
 6.2.0.Final	classes	2015-03-05T00:13:25Z	
+6.3.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.3.0.Beta1/jbpm-dashboard-webapp-6.3.0.Beta1.jar returned status 404
 6.3.0.Beta1	classes	2015-06-04T20:28:09Z	
+6.3.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.3.0.Beta2/jbpm-dashboard-webapp-6.3.0.Beta2.jar returned status 404
 6.3.0.Beta2	classes	2015-07-07T13:20:47Z	
+6.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.3.0.CR1/jbpm-dashboard-webapp-6.3.0.CR1.jar returned status 404
 6.3.0.CR1	classes	2015-08-07T16:39:15Z	
+6.3.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.3.0.CR2/jbpm-dashboard-webapp-6.3.0.CR2.jar returned status 404
 6.3.0.CR2	classes	2015-09-01T16:36:51Z	
+6.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.3.0.Final/jbpm-dashboard-webapp-6.3.0.Final.jar returned status 404
 6.3.0.Final	classes	2015-09-25T13:02:57Z	
+6.4.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.4.0.Beta1/jbpm-dashboard-webapp-6.4.0.Beta1.jar returned status 404
 6.4.0.Beta1	classes	2016-01-18T13:53:42Z	
+6.4.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.4.0.Beta2/jbpm-dashboard-webapp-6.4.0.Beta2.jar returned status 404
 6.4.0.Beta2	classes	2016-02-23T17:37:40Z	
+6.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.4.0.CR1/jbpm-dashboard-webapp-6.4.0.CR1.jar returned status 404
 6.4.0.CR1	classes	2016-03-07T19:51:20Z	
+6.4.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.4.0.CR2/jbpm-dashboard-webapp-6.4.0.CR2.jar returned status 404
 6.4.0.CR2	classes	2016-03-23T13:38:25Z	
+6.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.4.0.Final/jbpm-dashboard-webapp-6.4.0.Final.jar returned status 404
 6.4.0.Final	classes	2016-04-14T19:24:21Z	
+6.5.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.5.0.Beta1/jbpm-dashboard-webapp-6.5.0.Beta1.jar returned status 404
 6.5.0.Beta1	classes	2016-08-04T15:47:12Z	
+6.5.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.5.0.CR1/jbpm-dashboard-webapp-6.5.0.CR1.jar returned status 404
 6.5.0.CR1	classes	2016-08-23T13:24:51Z	
+6.5.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.5.0.CR2/jbpm-dashboard-webapp-6.5.0.CR2.jar returned status 404
 6.5.0.CR2	classes	2016-09-13T19:05:03Z	
+6.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/dashboard/jbpm-dashboard-webapp/6.5.0.Final/jbpm-dashboard-webapp-6.5.0.Final.jar returned status 404
 6.5.0.Final	classes	2016-10-18T15:50:50Z	

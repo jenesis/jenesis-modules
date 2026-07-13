@@ -1,2 +1,4 @@
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/jpetstore/6.0.2/jpetstore-6.0.2.jar returned status 404
 6.1.0		2022-12-12T20:55:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/jpetstore/6.1.0/jpetstore-6.1.0.jar returned status 404
 6.2.0		2026-01-01T19:45:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/jpetstore/6.2.0/jpetstore-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mybatis/jpetstore/6.3.0/jpetstore-6.3.0.jar returned status 404

@@ -1,3 +1,6 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opengis/cite/ets-sensorml10/1.0/ets-sensorml10-1.0.jar returned status 404
 1.0	site	2020-08-03T14:39:08Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opengis/cite/ets-sensorml10/1.0.1/ets-sensorml10-1.0.1.jar returned status 404
 1.0.1	site	2020-09-14T12:16:54Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opengis/cite/ets-sensorml10/1.1/ets-sensorml10-1.1.jar returned status 404
 1.1	site	2025-03-07T11:36:12Z	

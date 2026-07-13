@@ -11,3 +11,41 @@
 6.5.0.CR2		2016-09-13T19:06:35Z	
 6.5.0.Final		2016-10-18T15:52:32Z	
 7.0.0.Beta1		2016-07-05T17:36:19Z	
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta2/jbpm-case-mgmt-7.0.0.Beta2.jar returned status 404
+7.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta3/jbpm-case-mgmt-7.0.0.Beta3.jar returned status 404
+7.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta4/jbpm-case-mgmt-7.0.0.Beta4.jar returned status 404
+7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta5/jbpm-case-mgmt-7.0.0.Beta5.jar returned status 404
+7.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta6/jbpm-case-mgmt-7.0.0.Beta6.jar returned status 404
+7.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta7/jbpm-case-mgmt-7.0.0.Beta7.jar returned status 404
+7.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Beta8/jbpm-case-mgmt-7.0.0.Beta8.jar returned status 404
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.CR1/jbpm-case-mgmt-7.0.0.CR1.jar returned status 404
+7.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.CR2/jbpm-case-mgmt-7.0.0.CR2.jar returned status 404
+7.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.CR3/jbpm-case-mgmt-7.0.0.CR3.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.0.0.Final/jbpm-case-mgmt-7.0.0.Final.jar returned status 404
+7.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.1.0.Beta1/jbpm-case-mgmt-7.1.0.Beta1.jar returned status 404
+7.1.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.1.0.Beta2/jbpm-case-mgmt-7.1.0.Beta2.jar returned status 404
+7.1.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.1.0.Beta3/jbpm-case-mgmt-7.1.0.Beta3.jar returned status 404
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.1.0.Final/jbpm-case-mgmt-7.1.0.Final.jar returned status 404
+7.10.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.10.0.Final/jbpm-case-mgmt-7.10.0.Final.jar returned status 404
+7.11.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.11.0.Final/jbpm-case-mgmt-7.11.0.Final.jar returned status 404
+7.12.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.12.0.Final/jbpm-case-mgmt-7.12.0.Final.jar returned status 404
+7.13.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.13.0.Final/jbpm-case-mgmt-7.13.0.Final.jar returned status 404
+7.14.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.14.0.Final/jbpm-case-mgmt-7.14.0.Final.jar returned status 404
+7.15.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.15.0.Final/jbpm-case-mgmt-7.15.0.Final.jar returned status 404
+7.16.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.16.0.Final/jbpm-case-mgmt-7.16.0.Final.jar returned status 404
+7.17.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.17.0.Final/jbpm-case-mgmt-7.17.0.Final.jar returned status 404
+7.18.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.18.0.Final/jbpm-case-mgmt-7.18.0.Final.jar returned status 404
+7.19.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.19.0.Final/jbpm-case-mgmt-7.19.0.Final.jar returned status 404
+7.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.2.0.Final/jbpm-case-mgmt-7.2.0.Final.jar returned status 404
+7.20.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.20.0.Final/jbpm-case-mgmt-7.20.0.Final.jar returned status 404
+7.21.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.21.0.Final/jbpm-case-mgmt-7.21.0.Final.jar returned status 404
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.3.0.Final/jbpm-case-mgmt-7.3.0.Final.jar returned status 404
+7.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.4.0.Final/jbpm-case-mgmt-7.4.0.Final.jar returned status 404
+7.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.4.1.Final/jbpm-case-mgmt-7.4.1.Final.jar returned status 404
+7.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.5.0.Final/jbpm-case-mgmt-7.5.0.Final.jar returned status 404
+7.5.0.t018			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.5.0.t018/jbpm-case-mgmt-7.5.0.t018.jar returned status 404
+7.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.6.0.Final/jbpm-case-mgmt-7.6.0.Final.jar returned status 404
+7.6.0.t022			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.6.0.t022/jbpm-case-mgmt-7.6.0.t022.jar returned status 404
+7.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.7.0.Final/jbpm-case-mgmt-7.7.0.Final.jar returned status 404
+7.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.8.0.Final/jbpm-case-mgmt-7.8.0.Final.jar returned status 404
+7.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jbpm/jbpm-case-mgmt/7.9.0.Final/jbpm-case-mgmt-7.9.0.Final.jar returned status 404
