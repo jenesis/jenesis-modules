@@ -1,3 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.1.0/mimir-0.1.0.jar returned status 404
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.10.0/mimir-0.10.0.jar returned status 404
 0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.10.1/mimir-0.10.1.jar returned status 404
 0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.10.2/mimir-0.10.2.jar returned status 404
@@ -11,6 +12,27 @@
 0.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.11.3/mimir-0.11.3.jar returned status 404
 0.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.11.4/mimir-0.11.4.jar returned status 404
 0.12.0		2026-05-28T15:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.12.0/mimir-0.12.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.2.0/mimir-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.2.1/mimir-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.2.2/mimir-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.2.3/mimir-0.2.3.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.0/mimir-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.1/mimir-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.2/mimir-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.3/mimir-0.3.3.jar returned status 404
+0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.4/mimir-0.3.4.jar returned status 404
+0.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.5/mimir-0.3.5.jar returned status 404
+0.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.3.6/mimir-0.3.6.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.4.0/mimir-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.4.1/mimir-0.4.1.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.5.0/mimir-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.6.0/mimir-0.6.0.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.0/mimir-0.7.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.1/mimir-0.7.1.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.2/mimir-0.7.2.jar returned status 404
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.3/mimir-0.7.3.jar returned status 404
+0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.4/mimir-0.7.4.jar returned status 404
+0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.5/mimir-0.7.5.jar returned status 404
 0.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.6/mimir-0.7.6.jar returned status 404
 0.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.7/mimir-0.7.7.jar returned status 404
 0.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mimir/mimir/0.7.8/mimir-0.7.8.jar returned status 404

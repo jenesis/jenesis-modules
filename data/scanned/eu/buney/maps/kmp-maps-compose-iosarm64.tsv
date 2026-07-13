@@ -12,3 +12,4 @@
 0.5.0	metadata	2026-03-06T12:56:55Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/buney/maps/kmp-maps-compose-iosarm64/0.6.0/kmp-maps-compose-iosarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-04-13T10:18:01Z	
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/buney/maps/kmp-maps-compose-iosarm64/0.6.1/kmp-maps-compose-iosarm64-0.6.1.jar returned status 404

@@ -1913,3 +1913,6 @@ be.yildizgames.module.serialization.jackson
 be.yildizgames.module.webserver.undertow
 jflu.subscriber.store
 us.fatehi.mcp_json_schema
+eu.maveniverse.domtrip
+eu.maveniverse.domtrip.maven
+eu.maveniverse.domtrip.jaxen
