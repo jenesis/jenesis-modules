@@ -5,6 +5,7 @@
 2.0.0-beta2		2016-07-01T13:59:52Z	
 2.1.0		2017-01-23T08:36:06Z	
 2.1.0-alpha		2016-11-11T05:37:19Z	
+2.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/analytics/apim/org.wso2.analytics.apim.integration.tests/2.1.0-beta/org.wso2.analytics.apim.integration.tests-2.1.0-beta.jar returned status 404
 2.1.0-update2		2017-12-07T14:15:43Z	
 2.1.0-update3		2017-12-21T21:32:54Z	
 2.1.0-update4		2018-01-10T14:08:56Z	

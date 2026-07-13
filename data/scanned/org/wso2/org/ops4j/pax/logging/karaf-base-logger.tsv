@@ -1,4 +1,8 @@
+1.11.13-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/karaf-base-logger/1.11.13-wso2v1/karaf-base-logger-1.11.13-wso2v1.jar returned status 404
+1.11.16-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/karaf-base-logger/1.11.16-wso2v1/karaf-base-logger-1.11.16-wso2v1.jar returned status 404
+1.11.16-wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/karaf-base-logger/1.11.16-wso2v2/karaf-base-logger-1.11.16-wso2v2.jar returned status 404
 2.1.0-wso2v1		2022-03-01T09:58:11Z	
 2.1.0-wso2v2		2022-03-02T08:40:26Z	
 2.1.0-wso2v3		2022-03-02T18:17:16Z	
+2.1.0-wso2v4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/karaf-base-logger/2.1.0-wso2v4/karaf-base-logger-2.1.0-wso2v4.jar returned status 404
 2.1.0-wso2v5		2022-08-10T05:18:27Z	

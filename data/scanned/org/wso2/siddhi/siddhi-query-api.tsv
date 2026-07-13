@@ -1,15 +1,39 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.0/siddhi-query-api-3.0.0.jar returned status 404
+3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.0-M1/siddhi-query-api-3.0.0-M1.jar returned status 404
+3.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.0-alpha/siddhi-query-api-3.0.0-alpha.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.1/siddhi-query-api-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.2/siddhi-query-api-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.3/siddhi-query-api-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.4/siddhi-query-api-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.5/siddhi-query-api-3.0.5.jar returned status 404
+3.0.6-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.6-alpha/siddhi-query-api-3.0.6-alpha.jar returned status 404
+3.0.6-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.6-beta/siddhi-query-api-3.0.6-beta.jar returned status 404
+3.0.6-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.0.6-beta2/siddhi-query-api-3.0.6-beta2.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.1.0/siddhi-query-api-3.1.0.jar returned status 404
+3.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.1.0-alpha/siddhi-query-api-3.1.0-alpha.jar returned status 404
+3.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.1.0-beta/siddhi-query-api-3.1.0-beta.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.1.1/siddhi-query-api-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.1.2/siddhi-query-api-3.1.2.jar returned status 404
 3.1.3		2018-01-26T12:17:21Z	
 3.2.0		2018-02-01T11:07:17Z	
 3.2.1		2018-03-09T18:35:57Z	
+3.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.11/siddhi-query-api-3.2.11.jar returned status 404
+3.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.12/siddhi-query-api-3.2.12.jar returned status 404
 3.2.13		2024-03-04T06:47:29Z	
+3.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.14/siddhi-query-api-3.2.14.jar returned status 404
+3.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.15/siddhi-query-api-3.2.15.jar returned status 404
 3.2.2		2018-03-12T09:54:38Z	
 3.2.3		2018-03-14T16:46:34Z	
 3.2.4		2019-04-26T11:13:26Z	
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.5/siddhi-query-api-3.2.5.jar returned status 404
+3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/3.2.6/siddhi-query-api-3.2.6.jar returned status 404
 3.2.7		2022-01-19T09:57:15Z	
 3.2.8		2022-08-24T10:21:13Z	
 3.2.9		2022-11-04T13:28:21Z	
 3.3.0		2026-03-12T05:17:53Z	
 4.0.0		2017-12-14T23:51:16Z	
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M1/siddhi-query-api-4.0.0-M1.jar returned status 404
+4.0.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M10/siddhi-query-api-4.0.0-M10.jar returned status 404
 4.0.0-M100		2017-10-09T14:01:09Z	
 4.0.0-M101		2017-10-10T16:53:19Z	
 4.0.0-M102		2017-10-12T06:28:23Z	
@@ -20,6 +44,7 @@
 4.0.0-M107		2017-10-17T18:47:39Z	
 4.0.0-M108		2017-10-18T04:30:57Z	
 4.0.0-M109		2017-10-18T14:51:01Z	
+4.0.0-M11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M11/siddhi-query-api-4.0.0-M11.jar returned status 404
 4.0.0-M110		2017-10-19T14:09:35Z	
 4.0.0-M111		2017-10-20T12:05:54Z	
 4.0.0-M113		2017-10-25T09:34:44Z	
@@ -29,9 +54,87 @@
 4.0.0-M117		2017-10-27T12:56:40Z	
 4.0.0-M118		2017-10-27T18:06:56Z	
 4.0.0-M119		2017-10-30T10:14:38Z	
+4.0.0-M12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M12/siddhi-query-api-4.0.0-M12.jar returned status 404
 4.0.0-M120		2017-10-31T16:42:20Z	
+4.0.0-M13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M13/siddhi-query-api-4.0.0-M13.jar returned status 404
+4.0.0-M14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M14/siddhi-query-api-4.0.0-M14.jar returned status 404
+4.0.0-M15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M15/siddhi-query-api-4.0.0-M15.jar returned status 404
+4.0.0-M16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M16/siddhi-query-api-4.0.0-M16.jar returned status 404
+4.0.0-M17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M17/siddhi-query-api-4.0.0-M17.jar returned status 404
+4.0.0-M18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M18/siddhi-query-api-4.0.0-M18.jar returned status 404
+4.0.0-M19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M19/siddhi-query-api-4.0.0-M19.jar returned status 404
+4.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M2/siddhi-query-api-4.0.0-M2.jar returned status 404
+4.0.0-M20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M20/siddhi-query-api-4.0.0-M20.jar returned status 404
+4.0.0-M21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M21/siddhi-query-api-4.0.0-M21.jar returned status 404
+4.0.0-M22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M22/siddhi-query-api-4.0.0-M22.jar returned status 404
+4.0.0-M23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M23/siddhi-query-api-4.0.0-M23.jar returned status 404
+4.0.0-M24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M24/siddhi-query-api-4.0.0-M24.jar returned status 404
+4.0.0-M25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M25/siddhi-query-api-4.0.0-M25.jar returned status 404
+4.0.0-M26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M26/siddhi-query-api-4.0.0-M26.jar returned status 404
+4.0.0-M27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M27/siddhi-query-api-4.0.0-M27.jar returned status 404
+4.0.0-M28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M28/siddhi-query-api-4.0.0-M28.jar returned status 404
+4.0.0-M29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M29/siddhi-query-api-4.0.0-M29.jar returned status 404
+4.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M3/siddhi-query-api-4.0.0-M3.jar returned status 404
+4.0.0-M30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M30/siddhi-query-api-4.0.0-M30.jar returned status 404
+4.0.0-M31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M31/siddhi-query-api-4.0.0-M31.jar returned status 404
+4.0.0-M32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M32/siddhi-query-api-4.0.0-M32.jar returned status 404
+4.0.0-M33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M33/siddhi-query-api-4.0.0-M33.jar returned status 404
+4.0.0-M34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M34/siddhi-query-api-4.0.0-M34.jar returned status 404
+4.0.0-M35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M35/siddhi-query-api-4.0.0-M35.jar returned status 404
+4.0.0-M36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M36/siddhi-query-api-4.0.0-M36.jar returned status 404
+4.0.0-M37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M37/siddhi-query-api-4.0.0-M37.jar returned status 404
+4.0.0-M38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M38/siddhi-query-api-4.0.0-M38.jar returned status 404
+4.0.0-M39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M39/siddhi-query-api-4.0.0-M39.jar returned status 404
+4.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M4/siddhi-query-api-4.0.0-M4.jar returned status 404
+4.0.0-M40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M40/siddhi-query-api-4.0.0-M40.jar returned status 404
+4.0.0-M41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M41/siddhi-query-api-4.0.0-M41.jar returned status 404
+4.0.0-M42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M42/siddhi-query-api-4.0.0-M42.jar returned status 404
+4.0.0-M43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M43/siddhi-query-api-4.0.0-M43.jar returned status 404
+4.0.0-M44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M44/siddhi-query-api-4.0.0-M44.jar returned status 404
+4.0.0-M45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M45/siddhi-query-api-4.0.0-M45.jar returned status 404
+4.0.0-M46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M46/siddhi-query-api-4.0.0-M46.jar returned status 404
+4.0.0-M47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M47/siddhi-query-api-4.0.0-M47.jar returned status 404
+4.0.0-M48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M48/siddhi-query-api-4.0.0-M48.jar returned status 404
+4.0.0-M49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M49/siddhi-query-api-4.0.0-M49.jar returned status 404
+4.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M5/siddhi-query-api-4.0.0-M5.jar returned status 404
+4.0.0-M50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M50/siddhi-query-api-4.0.0-M50.jar returned status 404
+4.0.0-M51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M51/siddhi-query-api-4.0.0-M51.jar returned status 404
+4.0.0-M52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M52/siddhi-query-api-4.0.0-M52.jar returned status 404
+4.0.0-M53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M53/siddhi-query-api-4.0.0-M53.jar returned status 404
+4.0.0-M54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M54/siddhi-query-api-4.0.0-M54.jar returned status 404
+4.0.0-M55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M55/siddhi-query-api-4.0.0-M55.jar returned status 404
+4.0.0-M56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M56/siddhi-query-api-4.0.0-M56.jar returned status 404
+4.0.0-M57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M57/siddhi-query-api-4.0.0-M57.jar returned status 404
+4.0.0-M58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M58/siddhi-query-api-4.0.0-M58.jar returned status 404
+4.0.0-M59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M59/siddhi-query-api-4.0.0-M59.jar returned status 404
+4.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M6/siddhi-query-api-4.0.0-M6.jar returned status 404
+4.0.0-M60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M60/siddhi-query-api-4.0.0-M60.jar returned status 404
+4.0.0-M61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M61/siddhi-query-api-4.0.0-M61.jar returned status 404
+4.0.0-M62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M62/siddhi-query-api-4.0.0-M62.jar returned status 404
+4.0.0-M69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M69/siddhi-query-api-4.0.0-M69.jar returned status 404
+4.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M7/siddhi-query-api-4.0.0-M7.jar returned status 404
+4.0.0-M70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M70/siddhi-query-api-4.0.0-M70.jar returned status 404
+4.0.0-M71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M71/siddhi-query-api-4.0.0-M71.jar returned status 404
+4.0.0-M72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M72/siddhi-query-api-4.0.0-M72.jar returned status 404
+4.0.0-M73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M73/siddhi-query-api-4.0.0-M73.jar returned status 404
+4.0.0-M74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M74/siddhi-query-api-4.0.0-M74.jar returned status 404
+4.0.0-M75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M75/siddhi-query-api-4.0.0-M75.jar returned status 404
+4.0.0-M76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M76/siddhi-query-api-4.0.0-M76.jar returned status 404
+4.0.0-M77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M77/siddhi-query-api-4.0.0-M77.jar returned status 404
+4.0.0-M78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M78/siddhi-query-api-4.0.0-M78.jar returned status 404
+4.0.0-M79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M79/siddhi-query-api-4.0.0-M79.jar returned status 404
+4.0.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M8/siddhi-query-api-4.0.0-M8.jar returned status 404
+4.0.0-M80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M80/siddhi-query-api-4.0.0-M80.jar returned status 404
+4.0.0-M81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M81/siddhi-query-api-4.0.0-M81.jar returned status 404
+4.0.0-M82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M82/siddhi-query-api-4.0.0-M82.jar returned status 404
+4.0.0-M83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M83/siddhi-query-api-4.0.0-M83.jar returned status 404
+4.0.0-M84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M84/siddhi-query-api-4.0.0-M84.jar returned status 404
+4.0.0-M85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M85/siddhi-query-api-4.0.0-M85.jar returned status 404
+4.0.0-M86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M86/siddhi-query-api-4.0.0-M86.jar returned status 404
+4.0.0-M87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M87/siddhi-query-api-4.0.0-M87.jar returned status 404
 4.0.0-M88		2017-10-02T10:07:43Z	
 4.0.0-M89		2017-10-02T11:06:09Z	
+4.0.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.0.0-M9/siddhi-query-api-4.0.0-M9.jar returned status 404
 4.0.0-M90		2017-10-03T08:35:25Z	
 4.0.0-M91		2017-10-03T09:33:57Z	
 4.0.0-M92		2017-10-03T17:50:57Z	
@@ -159,6 +262,8 @@
 4.1.63		2018-08-09T04:59:17Z	
 4.1.64		2018-08-09T06:05:14Z	
 4.1.7		2018-02-09T08:05:16Z	
+4.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.1.8/siddhi-query-api-4.1.8.jar returned status 404
+4.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.1.9/siddhi-query-api-4.1.9.jar returned status 404
 4.2.0		2018-08-09T14:12:18Z	
 4.2.1		2018-08-15T07:57:52Z	
 4.2.10		2018-08-30T07:33:59Z	
@@ -222,6 +327,9 @@
 4.3.9		2019-01-03T21:36:22Z	
 4.4.0		2019-01-29T07:24:41Z	
 4.4.1		2019-01-30T13:34:19Z	
+4.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.4.10/siddhi-query-api-4.4.10.jar returned status 404
+4.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.4.11/siddhi-query-api-4.4.11.jar returned status 404
+4.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.4.12/siddhi-query-api-4.4.12.jar returned status 404
 4.4.2		2019-01-30T14:52:00Z	
 4.4.3		2019-02-05T12:44:16Z	
 4.4.4		2019-02-07T12:52:52Z	
@@ -230,8 +338,14 @@
 4.4.7		2019-02-08T12:38:34Z	
 4.4.8		2019-02-08T18:38:26Z	
 4.4.9		2019-03-14T12:56:03Z	
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.0/siddhi-query-api-4.5.0.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.1/siddhi-query-api-4.5.1.jar returned status 404
 4.5.10		2019-05-23T11:30:39Z	
 4.5.11		2019-06-11T13:24:47Z	
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.2/siddhi-query-api-4.5.2.jar returned status 404
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.3/siddhi-query-api-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.4/siddhi-query-api-4.5.4.jar returned status 404
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-query-api/4.5.5/siddhi-query-api-4.5.5.jar returned status 404
 4.5.6		2019-05-01T07:44:34Z	
 4.5.7		2019-05-02T15:20:59Z	
 4.5.8		2019-05-08T13:10:37Z	

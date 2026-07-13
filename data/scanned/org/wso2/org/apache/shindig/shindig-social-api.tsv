@@ -1,6 +1,9 @@
 2.5.2-wso2v1		2018-03-06T14:38:14Z	
+2.5.2-wso2v10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/apache/shindig/shindig-social-api/2.5.2-wso2v10/shindig-social-api-2.5.2-wso2v10.jar returned status 404
 2.5.2-wso2v11		2019-05-10T06:27:12Z	
 2.5.2-wso2v12		2019-05-28T08:24:00Z	
+2.5.2-wso2v13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/apache/shindig/shindig-social-api/2.5.2-wso2v13/shindig-social-api-2.5.2-wso2v13.jar returned status 404
+2.5.2-wso2v14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/apache/shindig/shindig-social-api/2.5.2-wso2v14/shindig-social-api-2.5.2-wso2v14.jar returned status 404
 2.5.2-wso2v15		2019-10-16T12:46:11Z	
 2.5.2-wso2v16		2022-09-22T07:13:49Z	
 2.5.2-wso2v17		2022-09-23T09:16:31Z	
@@ -11,3 +14,4 @@
 2.5.2-wso2v6		2018-10-08T05:05:47Z	
 2.5.2-wso2v7		2018-12-14T12:59:46Z	
 2.5.2-wso2v8		2019-01-07T05:06:50Z	
+2.5.2-wso2v9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/apache/shindig/shindig-social-api/2.5.2-wso2v9/shindig-social-api-2.5.2-wso2v9.jar returned status 404

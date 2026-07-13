@@ -1,10 +1,31 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.0/siddhi-extension-string-3.0.0.jar returned status 404
+3.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.0-alpha/siddhi-extension-string-3.0.0-alpha.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.1/siddhi-extension-string-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.2/siddhi-extension-string-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.3/siddhi-extension-string-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.4/siddhi-extension-string-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.5/siddhi-extension-string-3.0.5.jar returned status 404
+3.0.6-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.6-alpha/siddhi-extension-string-3.0.6-alpha.jar returned status 404
+3.0.6-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.6-beta/siddhi-extension-string-3.0.6-beta.jar returned status 404
+3.0.6-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.0.6-beta2/siddhi-extension-string-3.0.6-beta2.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.1.0/siddhi-extension-string-3.1.0.jar returned status 404
+3.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.1.0-alpha/siddhi-extension-string-3.1.0-alpha.jar returned status 404
+3.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.1.0-beta/siddhi-extension-string-3.1.0-beta.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.1.1/siddhi-extension-string-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.1.2/siddhi-extension-string-3.1.2.jar returned status 404
 3.1.3		2018-01-26T12:37:06Z	
 3.2.0		2018-02-01T11:27:20Z	
 3.2.1		2018-03-09T18:56:37Z	
+3.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.11/siddhi-extension-string-3.2.11.jar returned status 404
+3.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.12/siddhi-extension-string-3.2.12.jar returned status 404
 3.2.13		2024-03-04T07:07:02Z	
+3.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.14/siddhi-extension-string-3.2.14.jar returned status 404
+3.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.15/siddhi-extension-string-3.2.15.jar returned status 404
 3.2.2		2018-03-12T10:14:09Z	
 3.2.3		2018-03-14T17:06:03Z	
 3.2.4		2019-04-26T11:32:58Z	
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.5/siddhi-extension-string-3.2.5.jar returned status 404
+3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/siddhi/siddhi-extension-string/3.2.6/siddhi-extension-string-3.2.6.jar returned status 404
 3.2.7		2022-01-19T10:16:48Z	
 3.2.8		2022-08-24T10:40:48Z	
 3.2.9		2022-11-04T13:48:31Z	

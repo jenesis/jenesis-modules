@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.0/config-mapper-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.1/config-mapper-1.0.1.jar returned status 404
 1.0.10		2020-04-21T08:42:28Z	
 1.0.11		2020-04-21T09:13:00Z	
 1.0.12		2020-04-22T11:07:39Z	
@@ -8,9 +10,14 @@
 1.0.17		2021-04-09T08:28:26Z	
 1.0.18		2021-04-09T11:08:47Z	
 1.0.19		2021-08-10T12:17:07Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.2/config-mapper-1.0.2.jar returned status 404
 1.0.20		2022-01-26T08:44:00Z	
 1.0.21		2022-11-29T03:03:50Z	
+1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.22/config-mapper-1.0.22.jar returned status 404
 1.0.23		2024-02-08T07:06:34Z	
+1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.24/config-mapper-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.25/config-mapper-1.0.25.jar returned status 404
+1.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/config/mapper/config-mapper/1.0.26/config-mapper-1.0.26.jar returned status 404
 1.0.3		2019-10-02T16:36:01Z	
 1.0.4		2019-10-04T11:22:49Z	
 1.0.5		2020-03-02T11:35:13Z	
