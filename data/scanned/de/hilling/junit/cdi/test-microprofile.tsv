@@ -1,3 +1,27 @@
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.1.0/test-microprofile-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.2.0/test-microprofile-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.2.1/test-microprofile-3.2.1.jar returned status 404
+3.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.10/test-microprofile-3.3.10.jar returned status 404
+3.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.11/test-microprofile-3.3.11.jar returned status 404
+3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.5/test-microprofile-3.3.5.jar returned status 404
+3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.6/test-microprofile-3.3.6.jar returned status 404
+3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.7/test-microprofile-3.3.7.jar returned status 404
+3.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.8/test-microprofile-3.3.8.jar returned status 404
+3.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.3.9/test-microprofile-3.3.9.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/3.4.0/test-microprofile-3.4.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0/test-microprofile-4.0.0.jar returned status 404
+4.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0-RC1/test-microprofile-4.0.0-RC1.jar returned status 404
+4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0-RC2/test-microprofile-4.0.0-RC2.jar returned status 404
+4.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0-RC3/test-microprofile-4.0.0-RC3.jar returned status 404
+4.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0-RC4/test-microprofile-4.0.0-RC4.jar returned status 404
+4.0.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.0-RC6/test-microprofile-4.0.0-RC6.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.0.1/test-microprofile-4.0.1.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.1.0/test-microprofile-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.2.0/test-microprofile-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/4.3.0/test-microprofile-4.3.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/5.0.0/test-microprofile-5.0.0.jar returned status 404
 5.0.0	jakarta-ee-10	2024-09-27T12:12:29Z	
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/5.0.1/test-microprofile-5.0.1.jar returned status 404
 5.0.1	jakarta-ee-10	2024-09-27T17:13:49Z	
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hilling/junit/cdi/test-microprofile/5.0.2/test-microprofile-5.0.2.jar returned status 404
 5.0.2	jakarta-ee-10	2024-09-27T17:17:47Z	

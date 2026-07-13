@@ -21,5 +21,6 @@
 1.5.4		2024-01-10T15:40:38Z	
 1.5.5		2024-01-15T15:23:08Z	
 1.5.6		2024-01-16T14:37:18Z	
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-email-integration-service/1.5.7/digiwf-email-integration-service-1.5.7.jar returned status 404
 1.6.1		2024-02-06T12:00:09Z	
 1.7.2		2024-02-09T11:14:10Z	

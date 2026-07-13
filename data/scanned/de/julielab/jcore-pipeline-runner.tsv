@@ -8,3 +8,10 @@
 0.2.3	cli-assembly	2018-09-25T12:30:05Z	
 0.2.4		2018-09-25T15:02:11Z	
 0.2.4	cli-assembly	2018-09-25T15:02:28Z	
+0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.2.5/jcore-pipeline-runner-0.2.5.jar returned status 404
+0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.2.6/jcore-pipeline-runner-0.2.6.jar returned status 404
+0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.2.7/jcore-pipeline-runner-0.2.7.jar returned status 404
+0.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.2.8/jcore-pipeline-runner-0.2.8.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.5.0/jcore-pipeline-runner-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.5.1/jcore-pipeline-runner-0.5.1.jar returned status 404
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/julielab/jcore-pipeline-runner/0.5.2/jcore-pipeline-runner-0.5.2.jar returned status 404

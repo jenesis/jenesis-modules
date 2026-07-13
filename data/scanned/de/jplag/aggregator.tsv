@@ -1,2 +1,11 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/3.0.0/aggregator-3.0.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/4.0.0/aggregator-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/4.1.0/aggregator-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/4.2.0/aggregator-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/4.3.0/aggregator-4.3.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/5.0.0/aggregator-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/5.1.0/aggregator-5.1.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/6.0.0/aggregator-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/6.1.0/aggregator-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/6.2.0/aggregator-6.2.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jplag/aggregator/6.3.0/aggregator-6.3.0.jar returned status 404

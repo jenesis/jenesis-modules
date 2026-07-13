@@ -1,1 +1,4 @@
 0.2		2015-12-21T16:12:19Z	
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jodamob/android/mockitoid/0.5/mockitoid-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jodamob/android/mockitoid/0.6/mockitoid-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/jodamob/android/mockitoid/0.7/mockitoid-0.7.jar returned status 404

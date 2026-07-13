@@ -7,7 +7,45 @@
 2.0-RC16		2016-11-19T08:41:11Z	
 2.0-RC17		2016-12-14T17:39:26Z	
 2.0.1		2017-01-26T09:37:19Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0/blended.samples.spray.helloworld-2.1.0.jar returned status 404
 2.1.0-RC1		2017-02-27T10:56:30Z	
+2.1.0-RC10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC10/blended.samples.spray.helloworld-2.1.0-RC10.jar returned status 404
+2.1.0-RC11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC11/blended.samples.spray.helloworld-2.1.0-RC11.jar returned status 404
+2.1.0-RC12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC12/blended.samples.spray.helloworld-2.1.0-RC12.jar returned status 404
 2.1.0-RC2		2017-03-02T09:12:43Z	
 2.1.0-RC3		2017-03-07T15:14:46Z	
 2.1.0-RC4		2017-03-22T14:56:58Z	
+2.1.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC5/blended.samples.spray.helloworld-2.1.0-RC5.jar returned status 404
+2.1.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC6/blended.samples.spray.helloworld-2.1.0-RC6.jar returned status 404
+2.1.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC7/blended.samples.spray.helloworld-2.1.0-RC7.jar returned status 404
+2.1.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC8/blended.samples.spray.helloworld-2.1.0-RC8.jar returned status 404
+2.1.0-RC9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.0-RC9/blended.samples.spray.helloworld-2.1.0-RC9.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.1/blended.samples.spray.helloworld-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.2/blended.samples.spray.helloworld-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.1.3/blended.samples.spray.helloworld-2.1.3.jar returned status 404
+2.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC1/blended.samples.spray.helloworld-2.3.0-RC1.jar returned status 404
+2.3.0-RC10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC10/blended.samples.spray.helloworld-2.3.0-RC10.jar returned status 404
+2.3.0-RC11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC11/blended.samples.spray.helloworld-2.3.0-RC11.jar returned status 404
+2.3.0-RC12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC12/blended.samples.spray.helloworld-2.3.0-RC12.jar returned status 404
+2.3.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC2/blended.samples.spray.helloworld-2.3.0-RC2.jar returned status 404
+2.3.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC3/blended.samples.spray.helloworld-2.3.0-RC3.jar returned status 404
+2.3.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC4/blended.samples.spray.helloworld-2.3.0-RC4.jar returned status 404
+2.3.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC5/blended.samples.spray.helloworld-2.3.0-RC5.jar returned status 404
+2.3.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC6/blended.samples.spray.helloworld-2.3.0-RC6.jar returned status 404
+2.3.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC7/blended.samples.spray.helloworld-2.3.0-RC7.jar returned status 404
+2.3.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC8/blended.samples.spray.helloworld-2.3.0-RC8.jar returned status 404
+2.3.0-RC9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.3.0-RC9/blended.samples.spray.helloworld-2.3.0-RC9.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0/blended.samples.spray.helloworld-2.4.0.jar returned status 404
+2.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC1/blended.samples.spray.helloworld-2.4.0-RC1.jar returned status 404
+2.4.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC2/blended.samples.spray.helloworld-2.4.0-RC2.jar returned status 404
+2.4.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC3/blended.samples.spray.helloworld-2.4.0-RC3.jar returned status 404
+2.4.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC4/blended.samples.spray.helloworld-2.4.0-RC4.jar returned status 404
+2.4.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC5/blended.samples.spray.helloworld-2.4.0-RC5.jar returned status 404
+2.4.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC6/blended.samples.spray.helloworld-2.4.0-RC6.jar returned status 404
+2.4.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0-RC7/blended.samples.spray.helloworld-2.4.0-RC7.jar returned status 404
+2.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0.1/blended.samples.spray.helloworld-2.4.0.1.jar returned status 404
+2.4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.4.0.2/blended.samples.spray.helloworld-2.4.0.2.jar returned status 404
+2.5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.5.0-M1/blended.samples.spray.helloworld-2.5.0-M1.jar returned status 404
+2.5.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.5.0-M2/blended.samples.spray.helloworld-2.5.0-M2.jar returned status 404
+2.5.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.5.0-M3/blended.samples.spray.helloworld-2.5.0-M3.jar returned status 404
+2.5.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/wayofquality/blended/blended.samples.spray.helloworld/2.5.0-M4/blended.samples.spray.helloworld-2.5.0-M4.jar returned status 404

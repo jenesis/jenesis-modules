@@ -30,4 +30,14 @@
 1.4.4		2023-12-11T10:15:31Z	
 1.4.5		2023-12-12T15:59:57Z	
 1.4.6		2023-12-14T11:23:56Z	
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.0/digiwf-coverage-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.1/digiwf-coverage-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.2/digiwf-coverage-1.5.2.jar returned status 404
+1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.3/digiwf-coverage-1.5.3.jar returned status 404
+1.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.4/digiwf-coverage-1.5.4.jar returned status 404
+1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.5/digiwf-coverage-1.5.5.jar returned status 404
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.6/digiwf-coverage-1.5.6.jar returned status 404
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.5.7/digiwf-coverage-1.5.7.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.6.1/digiwf-coverage-1.6.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.7.2/digiwf-coverage-1.7.2.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-coverage/1.9.1/digiwf-coverage-1.9.1.jar returned status 404

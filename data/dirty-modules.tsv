@@ -3400,3 +3400,6 @@ de.focus_shift.jollyday.jaxb
 de.cuioss.http
 de.cuioss.java.tools
 de.cuioss.http.benchmarking
+de.captaingoldfish.scim.sdk.client
+de.captaingoldfish.scim.sdk.server
+de.captaingoldfish.scim.sdk.common

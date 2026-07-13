@@ -37,6 +37,7 @@
 1.5.4		2024-01-10T15:42:01Z	
 1.5.5		2024-01-15T15:25:10Z	
 1.5.6		2024-01-16T14:37:50Z	
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/digiwf/digiwf-spring-security-core/1.5.7/digiwf-spring-security-core-1.5.7.jar returned status 404
 1.6.1		2024-02-06T11:59:27Z	
 1.7.2		2024-02-09T11:14:33Z	
 1.9.1		2024-03-25T14:27:58Z	

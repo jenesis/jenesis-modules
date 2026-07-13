@@ -9,6 +9,42 @@
 1.16		2019-02-01T16:52:44Z	
 1.16.1		2019-02-12T18:02:31Z	
 1.17		2019-02-15T16:40:01Z	
+10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.0/psd2-validator-10.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.0.1/psd2-validator-10.0.1.jar returned status 404
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.0.2/psd2-validator-10.0.2.jar returned status 404
+10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.1/psd2-validator-10.1.jar returned status 404
+10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.10/psd2-validator-10.10.jar returned status 404
+10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.11/psd2-validator-10.11.jar returned status 404
+10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.2/psd2-validator-10.2.jar returned status 404
+10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.3/psd2-validator-10.3.jar returned status 404
+10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.4/psd2-validator-10.4.jar returned status 404
+10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.5/psd2-validator-10.5.jar returned status 404
+10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.6/psd2-validator-10.6.jar returned status 404
+10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.7/psd2-validator-10.7.jar returned status 404
+10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.8/psd2-validator-10.8.jar returned status 404
+10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/10.9/psd2-validator-10.9.jar returned status 404
+11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.0/psd2-validator-11.0.jar returned status 404
+11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.1/psd2-validator-11.1.jar returned status 404
+11.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.10/psd2-validator-11.10.jar returned status 404
+11.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.11/psd2-validator-11.11.jar returned status 404
+11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.2/psd2-validator-11.2.jar returned status 404
+11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.3/psd2-validator-11.3.jar returned status 404
+11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.4/psd2-validator-11.4.jar returned status 404
+11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.5/psd2-validator-11.5.jar returned status 404
+11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.6/psd2-validator-11.6.jar returned status 404
+11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.7/psd2-validator-11.7.jar returned status 404
+11.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.8/psd2-validator-11.8.jar returned status 404
+11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/11.9/psd2-validator-11.9.jar returned status 404
+12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/12.0/psd2-validator-12.0.jar returned status 404
+12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/12.1/psd2-validator-12.1.jar returned status 404
+12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/12.2/psd2-validator-12.2.jar returned status 404
+12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/12.3/psd2-validator-12.3.jar returned status 404
+12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/12.4/psd2-validator-12.4.jar returned status 404
+13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/13.0/psd2-validator-13.0.jar returned status 404
+13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/13.1/psd2-validator-13.1.jar returned status 404
+13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/13.2/psd2-validator-13.2.jar returned status 404
+13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/13.3/psd2-validator-13.3.jar returned status 404
+13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/13.4/psd2-validator-13.4.jar returned status 404
 2.0		2019-03-01T13:28:08Z	
 2.0.1		2019-03-07T11:57:24Z	
 2.0.2		2019-03-07T15:08:16Z	
@@ -70,9 +106,84 @@
 5.0.1		2019-09-13T15:51:58Z	
 5.1		2019-09-27T19:00:34Z	
 5.1.1		2019-10-29T14:25:53Z	
+5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10/psd2-validator-5.10.jar returned status 404
+5.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10.1/psd2-validator-5.10.1.jar returned status 404
+5.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10.2/psd2-validator-5.10.2.jar returned status 404
+5.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10.3/psd2-validator-5.10.3.jar returned status 404
+5.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10.4/psd2-validator-5.10.4.jar returned status 404
+5.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.10.5/psd2-validator-5.10.5.jar returned status 404
+5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.11/psd2-validator-5.11.jar returned status 404
 5.2		2019-10-11T17:26:58Z	
 5.3		2019-10-25T14:36:04Z	
 5.4		2019-11-08T14:55:33Z	
 5.5		2019-11-22T10:16:58Z	
 5.6		2019-12-06T13:01:41Z	
 5.7		2019-12-24T10:27:28Z	
+5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.8/psd2-validator-5.8.jar returned status 404
+5.8-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.8-RC2/psd2-validator-5.8-RC2.jar returned status 404
+5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/5.9/psd2-validator-5.9.jar returned status 404
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.0/psd2-validator-6.0.jar returned status 404
+6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.1/psd2-validator-6.1.jar returned status 404
+6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.10/psd2-validator-6.10.jar returned status 404
+6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.2/psd2-validator-6.2.jar returned status 404
+6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.3/psd2-validator-6.3.jar returned status 404
+6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.4/psd2-validator-6.4.jar returned status 404
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.4.1/psd2-validator-6.4.1.jar returned status 404
+6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.5/psd2-validator-6.5.jar returned status 404
+6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.6/psd2-validator-6.6.jar returned status 404
+6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.7/psd2-validator-6.7.jar returned status 404
+6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.8/psd2-validator-6.8.jar returned status 404
+6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/6.9/psd2-validator-6.9.jar returned status 404
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.0/psd2-validator-7.0.jar returned status 404
+7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.1/psd2-validator-7.1.jar returned status 404
+7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.2/psd2-validator-7.2.jar returned status 404
+7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.3/psd2-validator-7.3.jar returned status 404
+7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.4/psd2-validator-7.4.jar returned status 404
+7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.4.1/psd2-validator-7.4.1.jar returned status 404
+7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.5/psd2-validator-7.5.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.5.1/psd2-validator-7.5.1.jar returned status 404
+7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6/psd2-validator-7.6.jar returned status 404
+7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.1/psd2-validator-7.6.1.jar returned status 404
+7.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.10/psd2-validator-7.6.10.jar returned status 404
+7.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.11/psd2-validator-7.6.11.jar returned status 404
+7.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.12/psd2-validator-7.6.12.jar returned status 404
+7.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.13/psd2-validator-7.6.13.jar returned status 404
+7.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.14/psd2-validator-7.6.14.jar returned status 404
+7.6.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.15/psd2-validator-7.6.15.jar returned status 404
+7.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.2/psd2-validator-7.6.2.jar returned status 404
+7.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.3/psd2-validator-7.6.3.jar returned status 404
+7.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.4/psd2-validator-7.6.4.jar returned status 404
+7.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.5/psd2-validator-7.6.5.jar returned status 404
+7.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.6/psd2-validator-7.6.6.jar returned status 404
+7.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.7/psd2-validator-7.6.7.jar returned status 404
+7.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.8/psd2-validator-7.6.8.jar returned status 404
+7.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.6.9/psd2-validator-7.6.9.jar returned status 404
+7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.7/psd2-validator-7.7.jar returned status 404
+7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.8/psd2-validator-7.8.jar returned status 404
+7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/7.9/psd2-validator-7.9.jar returned status 404
+8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.0/psd2-validator-8.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.0.1/psd2-validator-8.0.1.jar returned status 404
+8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.1/psd2-validator-8.1.jar returned status 404
+8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.10/psd2-validator-8.10.jar returned status 404
+8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.11/psd2-validator-8.11.jar returned status 404
+8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.12/psd2-validator-8.12.jar returned status 404
+8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.13/psd2-validator-8.13.jar returned status 404
+8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.2/psd2-validator-8.2.jar returned status 404
+8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.3/psd2-validator-8.3.jar returned status 404
+8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.4/psd2-validator-8.4.jar returned status 404
+8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.5/psd2-validator-8.5.jar returned status 404
+8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.6/psd2-validator-8.6.jar returned status 404
+8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.7/psd2-validator-8.7.jar returned status 404
+8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.8/psd2-validator-8.8.jar returned status 404
+8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/8.9/psd2-validator-8.9.jar returned status 404
+9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.0/psd2-validator-9.0.jar returned status 404
+9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.1/psd2-validator-9.1.jar returned status 404
+9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.10/psd2-validator-9.10.jar returned status 404
+9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.2/psd2-validator-9.2.jar returned status 404
+9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.3/psd2-validator-9.3.jar returned status 404
+9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.4/psd2-validator-9.4.jar returned status 404
+9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.5/psd2-validator-9.5.jar returned status 404
+9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.6/psd2-validator-9.6.jar returned status 404
+9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.7/psd2-validator-9.7.jar returned status 404
+9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.8/psd2-validator-9.8.jar returned status 404
+9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/adorsys/psd2/psd2-validator/9.9/psd2-validator-9.9.jar returned status 404

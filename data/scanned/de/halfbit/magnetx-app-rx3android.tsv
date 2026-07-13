@@ -1,3 +1,6 @@
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.4/magnetx-app-rx3android-3.4.jar returned status 404
+3.4-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.4-rc2/magnetx-app-rx3android-3.4-rc2.jar returned status 404
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.5/magnetx-app-rx3android-3.5.jar returned status 404
 3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.6/magnetx-app-rx3android-3.6.jar returned status 404
 3.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.6-rc1/magnetx-app-rx3android-3.6-rc1.jar returned status 404
 3.6-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/halfbit/magnetx-app-rx3android/3.6-rc2/magnetx-app-rx3android-3.6-rc2.jar returned status 404

@@ -1,3 +1,5 @@
+2.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/2.0.17/feign-aws-sigv4-2.0.17.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.0/feign-aws-sigv4-3.0.0.jar returned status 404
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.10/feign-aws-sigv4-3.0.10.jar returned status 404
 3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.11/feign-aws-sigv4-3.0.11.jar returned status 404
 3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.12/feign-aws-sigv4-3.0.12.jar returned status 404
@@ -28,6 +30,7 @@
 3.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.37/feign-aws-sigv4-3.0.37.jar returned status 404
 3.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.38/feign-aws-sigv4-3.0.38.jar returned status 404
 3.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.39/feign-aws-sigv4-3.0.39.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.4/feign-aws-sigv4-3.0.4.jar returned status 404
 3.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.40/feign-aws-sigv4-3.0.40.jar returned status 404
 3.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.41/feign-aws-sigv4-3.0.41.jar returned status 404
 3.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.42/feign-aws-sigv4-3.0.42.jar returned status 404
@@ -38,5 +41,9 @@
 3.0.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.47/feign-aws-sigv4-3.0.47.jar returned status 404
 3.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.48/feign-aws-sigv4-3.0.48.jar returned status 404
 3.0.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.49/feign-aws-sigv4-3.0.49.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.5/feign-aws-sigv4-3.0.5.jar returned status 404
 3.0.50		2026-05-26T19:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.50/feign-aws-sigv4-3.0.50.jar returned status 404
 3.0.51		2026-06-03T12:48:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.51/feign-aws-sigv4-3.0.51.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.7/feign-aws-sigv4-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.8/feign-aws-sigv4-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/3.0.9/feign-aws-sigv4-3.0.9.jar returned status 404
