@@ -39,6 +39,8 @@
 5.1		2019-12-05T14:12:04Z	
 5.10		2022-01-05T10:41:30Z	
 5.11		2022-01-13T15:26:36Z	
+5.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kiwigrid/helm-maven-plugin/5.12/helm-maven-plugin-5.12.jar returned status 404
+5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kiwigrid/helm-maven-plugin/5.13/helm-maven-plugin-5.13.jar returned status 404
 5.2		2020-01-23T11:20:35Z	
 5.3		2020-02-04T08:20:24Z	
 5.4		2020-03-20T13:09:34Z	

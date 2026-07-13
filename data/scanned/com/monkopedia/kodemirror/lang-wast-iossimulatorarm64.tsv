@@ -10,3 +10,4 @@
 0.3.2	metadata	2026-06-02T16:53:58Z	
 0.3.3		2026-06-04T15:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/lang-wast-iossimulatorarm64/0.3.3/lang-wast-iossimulatorarm64-0.3.3.jar returned status 404
 0.3.3	metadata	2026-06-04T15:50:52Z	
+0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/lang-wast-iossimulatorarm64/0.3.4/lang-wast-iossimulatorarm64-0.3.4.jar returned status 404

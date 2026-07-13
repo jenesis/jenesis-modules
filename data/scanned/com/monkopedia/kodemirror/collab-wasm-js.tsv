@@ -4,3 +4,4 @@
 0.3.1		2026-06-02T12:22:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/collab-wasm-js/0.3.1/collab-wasm-js-0.3.1.jar returned status 404
 0.3.2		2026-06-02T16:17:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/collab-wasm-js/0.3.2/collab-wasm-js-0.3.2.jar returned status 404
 0.3.3		2026-06-04T15:50:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/collab-wasm-js/0.3.3/collab-wasm-js-0.3.3.jar returned status 404
+0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/collab-wasm-js/0.3.4/collab-wasm-js-0.3.4.jar returned status 404

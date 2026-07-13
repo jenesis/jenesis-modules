@@ -1,3 +1,14 @@
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.4.0/fontawesome-typeface-4.4.0.jar returned status 404
+4.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.4.0.1/fontawesome-typeface-4.4.0.1.jar returned status 404
+4.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.5.0.1/fontawesome-typeface-4.5.0.1.jar returned status 404
+4.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.6.0.1/fontawesome-typeface-4.6.0.1.jar returned status 404
+4.6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.6.0.2/fontawesome-typeface-4.6.0.2.jar returned status 404
+4.6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.6.0.3/fontawesome-typeface-4.6.0.3.jar returned status 404
+4.7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.7.0.0/fontawesome-typeface-4.7.0.0.jar returned status 404
+4.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.7.0.1/fontawesome-typeface-4.7.0.1.jar returned status 404
+4.7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/4.7.0.2/fontawesome-typeface-4.7.0.2.jar returned status 404
+5.0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/5.0.13.0/fontawesome-typeface-5.0.13.0.jar returned status 404
+5.0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/5.0.6.0/fontawesome-typeface-5.0.6.0.jar returned status 404
 5.13.3.0-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/5.13.3.0-kotlin/fontawesome-typeface-5.13.3.0-kotlin.jar returned status 404
 5.13.3.1-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/5.13.3.1-kotlin/fontawesome-typeface-5.13.3.1-kotlin.jar returned status 404
 5.13.3.2-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/fontawesome-typeface/5.13.3.2-kotlin/fontawesome-typeface-5.13.3.2-kotlin.jar returned status 404

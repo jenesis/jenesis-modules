@@ -1,6 +1,15 @@
 11.1.0.0-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/11.1.0.0-kotlin/octicons-typeface-11.1.0.0-kotlin.jar returned status 404
 11.1.0.10-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/11.1.0.10-kotlin/octicons-typeface-11.1.0.10-kotlin.jar returned status 404
 11.1.0.9-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/11.1.0.9-kotlin/octicons-typeface-11.1.0.9-kotlin.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/2.2.0/octicons-typeface-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/2.2.1/octicons-typeface-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/2.2.2/octicons-typeface-2.2.2.jar returned status 404
+3.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.0.0.1/octicons-typeface-3.0.0.1.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.0.1/octicons-typeface-3.0.1.jar returned status 404
+3.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.1/octicons-typeface-3.2.0.1.jar returned status 404
+3.2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.2/octicons-typeface-3.2.0.2.jar returned status 404
+3.2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.3/octicons-typeface-3.2.0.3.jar returned status 404
+3.2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.4/octicons-typeface-3.2.0.4.jar returned status 404
 3.2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.5/octicons-typeface-3.2.0.5.jar returned status 404
 3.2.0.6-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.6-kotlin/octicons-typeface-3.2.0.6-kotlin.jar returned status 404
 3.2.0.7-kotlin			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/octicons-typeface/3.2.0.7-kotlin/octicons-typeface-3.2.0.7-kotlin.jar returned status 404
