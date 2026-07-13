@@ -94,3 +94,4 @@
 20.8.0		2026-06-16T23:46:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-feature-flag/20.8.0/urbanairship-feature-flag-20.8.0.jar returned status 404
 20.8.1		2026-06-22T22:23:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-feature-flag/20.8.1/urbanairship-feature-flag-20.8.1.jar returned status 404
 20.8.2		2026-07-01T00:14:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-feature-flag/20.8.2/urbanairship-feature-flag-20.8.2.jar returned status 404
+20.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-feature-flag/20.9.0/urbanairship-feature-flag-20.9.0.jar returned status 404
