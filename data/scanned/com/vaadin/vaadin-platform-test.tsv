@@ -11,6 +11,12 @@
 10.0.18		2022-01-11T23:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.18/vaadin-platform-test-10.0.18.jar returned status 404
 10.0.19		2022-01-11T23:22:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.19/vaadin-platform-test-10.0.19.jar returned status 404
 10.0.2		2022-01-11T23:22:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.2/vaadin-platform-test-10.0.2.jar returned status 404
+10.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.20/vaadin-platform-test-10.0.20.jar returned status 404
+10.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.21/vaadin-platform-test-10.0.21.jar returned status 404
+10.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.22/vaadin-platform-test-10.0.22.jar returned status 404
+10.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.23/vaadin-platform-test-10.0.23.jar returned status 404
+10.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.24/vaadin-platform-test-10.0.24.jar returned status 404
+10.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.25/vaadin-platform-test-10.0.25.jar returned status 404
 10.0.26		2026-02-05T11:07:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.26/vaadin-platform-test-10.0.26.jar returned status 404
 10.0.3		2022-01-11T23:22:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.3/vaadin-platform-test-10.0.3.jar returned status 404
 10.0.4		2022-01-11T23:22:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-platform-test/10.0.4/vaadin-platform-test-10.0.4.jar returned status 404
