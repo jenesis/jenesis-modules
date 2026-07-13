@@ -1,3 +1,6 @@
+7.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.10/kount-java-parent-7.3.10.jar returned status 404
+7.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.11/kount-java-parent-7.3.11.jar returned status 404
+7.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.12/kount-java-parent-7.3.12.jar returned status 404
 7.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.2/kount-java-parent-7.3.2.jar returned status 404
 7.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.3/kount-java-parent-7.3.3.jar returned status 404
 7.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.4/kount-java-parent-7.3.4.jar returned status 404
@@ -6,6 +9,11 @@
 7.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.7/kount-java-parent-7.3.7.jar returned status 404
 7.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.8/kount-java-parent-7.3.8.jar returned status 404
 7.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.3.9/kount-java-parent-7.3.9.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.4.0/kount-java-parent-7.4.0.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.5.0/kount-java-parent-7.5.0.jar returned status 404
+7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.5.1/kount-java-parent-7.5.1.jar returned status 404
+7.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.5.2/kount-java-parent-7.5.2.jar returned status 404
+7.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/7.5.3/kount-java-parent-7.5.3.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/8.0.0/kount-java-parent-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/8.0.1/kount-java-parent-8.0.1.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kount/kount-java-parent/8.0.2/kount-java-parent-8.0.2.jar returned status 404
