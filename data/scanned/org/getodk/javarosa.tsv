@@ -19,6 +19,7 @@
 4.4.0		2024-07-02T04:00:12Z	
 4.4.1		2024-08-13T17:08:29Z	
 5.0.0		2024-11-15T11:41:28Z	
+5.0.0-SNAPSHOT-			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/getodk/javarosa/5.0.0-SNAPSHOT-/javarosa-5.0.0-SNAPSHOT-.jar returned status 404
 5.0.0-SNAPSHOT-0c2e073		2024-08-01T14:27:47Z	
 5.0.0-SNAPSHOT-0d6c2ea		2024-10-23T17:03:30Z	
 5.0.0-SNAPSHOT-19abad5		2024-08-16T16:04:19Z	

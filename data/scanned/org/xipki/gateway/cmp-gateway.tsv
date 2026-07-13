@@ -1,3 +1,7 @@
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/gateway/cmp-gateway/6.0.0/cmp-gateway-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/gateway/cmp-gateway/6.1.0/cmp-gateway-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/gateway/cmp-gateway/6.2.0/cmp-gateway-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/gateway/cmp-gateway/6.3.0/cmp-gateway-6.3.0.jar returned status 404
 6.4.0		2023-10-17T18:34:10Z	
 6.5.0		2023-11-27T09:42:04Z	
 6.5.1		2023-12-02T23:13:02Z	

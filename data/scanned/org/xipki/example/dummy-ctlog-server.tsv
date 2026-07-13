@@ -1,3 +1,17 @@
+5.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.10/dummy-ctlog-server-5.3.10.jar returned status 404
+5.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.11/dummy-ctlog-server-5.3.11.jar returned status 404
+5.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.12/dummy-ctlog-server-5.3.12.jar returned status 404
+5.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.13/dummy-ctlog-server-5.3.13.jar returned status 404
+5.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.14/dummy-ctlog-server-5.3.14.jar returned status 404
+5.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.15/dummy-ctlog-server-5.3.15.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.6/dummy-ctlog-server-5.3.6.jar returned status 404
+5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.7/dummy-ctlog-server-5.3.7.jar returned status 404
+5.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.8/dummy-ctlog-server-5.3.8.jar returned status 404
+5.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/5.3.9/dummy-ctlog-server-5.3.9.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/6.0.0/dummy-ctlog-server-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/6.1.0/dummy-ctlog-server-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/6.2.0/dummy-ctlog-server-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-ctlog-server/6.3.0/dummy-ctlog-server-6.3.0.jar returned status 404
 6.5.1		2023-12-02T23:14:48Z	
 6.5.2		2023-12-13T22:40:46Z	
 6.5.3		2024-01-01T21:17:41Z	

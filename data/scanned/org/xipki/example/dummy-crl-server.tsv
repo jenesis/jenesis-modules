@@ -1,3 +1,7 @@
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-crl-server/6.0.0/dummy-crl-server-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-crl-server/6.1.0/dummy-crl-server-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-crl-server/6.2.0/dummy-crl-server-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xipki/example/dummy-crl-server/6.3.0/dummy-crl-server-6.3.0.jar returned status 404
 6.5.1		2023-12-02T23:12:01Z	
 6.5.2		2023-12-13T22:39:23Z	
 6.5.3		2024-01-01T21:16:25Z	

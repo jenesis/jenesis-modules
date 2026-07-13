@@ -11,6 +11,9 @@
 6.12.3		2026-05-21T07:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.12.3/neo4j-jdbc-tracing-6.12.3.jar returned status 404
 6.13.0		2026-06-02T13:20:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.13.0/neo4j-jdbc-tracing-6.13.0.jar returned status 404
 6.13.1		2026-06-15T12:24:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.13.1/neo4j-jdbc-tracing-6.13.1.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.3.0/neo4j-jdbc-tracing-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.3.1/neo4j-jdbc-tracing-6.3.1.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.4.0/neo4j-jdbc-tracing-6.4.0.jar returned status 404
 6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.4.1/neo4j-jdbc-tracing-6.4.1.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.5.0/neo4j-jdbc-tracing-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-jdbc-tracing/6.5.1/neo4j-jdbc-tracing-6.5.1.jar returned status 404

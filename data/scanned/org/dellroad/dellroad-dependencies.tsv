@@ -1,4 +1,16 @@
+3.1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.1.4.0/dellroad-dependencies-3.1.4.0.jar returned status 404
+3.1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.1.4.1/dellroad-dependencies-3.1.4.1.jar returned status 404
+3.1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.1.5.0/dellroad-dependencies-3.1.5.0.jar returned status 404
+3.1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.1.7.0/dellroad-dependencies-3.1.7.0.jar returned status 404
+3.1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.1.7.1/dellroad-dependencies-3.1.7.1.jar returned status 404
+3.2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.11.0/dellroad-dependencies-3.2.11.0.jar returned status 404
+3.2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.12.0/dellroad-dependencies-3.2.12.0.jar returned status 404
 3.2.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.12.1/dellroad-dependencies-3.2.12.1.jar returned status 404
+3.2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.2.0/dellroad-dependencies-3.2.2.0.jar returned status 404
+3.2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.3.0/dellroad-dependencies-3.2.3.0.jar returned status 404
+3.2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.5.0/dellroad-dependencies-3.2.5.0.jar returned status 404
+3.2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.2.7.0/dellroad-dependencies-3.2.7.0.jar returned status 404
+3.4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.4.5.0/dellroad-dependencies-3.4.5.0.jar returned status 404
 3.4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.4.5.1/dellroad-dependencies-3.4.5.1.jar returned status 404
 3.4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.4.5.2/dellroad-dependencies-3.4.5.2.jar returned status 404
 3.4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dellroad/dellroad-dependencies/3.4.5.3/dellroad-dependencies-3.4.5.3.jar returned status 404

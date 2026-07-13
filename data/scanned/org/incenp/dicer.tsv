@@ -1,1 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/incenp/dicer/0.1.0/dicer-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/incenp/dicer/0.2.0/dicer-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/incenp/dicer/0.2.1/dicer-0.2.1.jar returned status 404
 0.2.2		2026-06-28T09:43:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/incenp/dicer/0.2.2/dicer-0.2.2.jar returned status 404

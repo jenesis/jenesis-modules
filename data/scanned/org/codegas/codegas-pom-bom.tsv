@@ -1,1 +1,7 @@
 1.0.2		2018-03-12T19:18:08Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.0.3/codegas-pom-bom-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.0.4/codegas-pom-bom-1.0.4.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.1.0/codegas-pom-bom-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.1.1/codegas-pom-bom-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.2.0/codegas-pom-bom-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codegas/codegas-pom-bom/1.2.1/codegas-pom-bom-1.2.1.jar returned status 404
