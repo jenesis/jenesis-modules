@@ -72,11 +72,15 @@
 5.1.55		2019-04-05T07:46:23Z	
 5.1.56		2019-04-09T14:31:24Z	
 5.1.57		2019-04-11T11:11:47Z	
+5.1.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics-common/org.wso2.carbon.event.tracer.ui/5.1.58/org.wso2.carbon.event.tracer.ui-5.1.58.jar returned status 404
 5.1.59		2019-10-08T08:26:01Z	
 5.1.6		2016-12-20T06:22:28Z	
+5.1.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics-common/org.wso2.carbon.event.tracer.ui/5.1.60/org.wso2.carbon.event.tracer.ui-5.1.60.jar returned status 404
 5.1.61		2020-04-30T22:28:12Z	
 5.1.62		2020-06-08T07:38:01Z	
 5.1.63		2020-11-16T09:01:39Z	
 5.1.7		2016-12-20T14:19:46Z	
 5.1.8		2017-01-06T08:38:10Z	
 5.1.9		2017-01-11T10:24:51Z	
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics-common/org.wso2.carbon.event.tracer.ui/5.2.0/org.wso2.carbon.event.tracer.ui-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/analytics-common/org.wso2.carbon.event.tracer.ui/5.2.1/org.wso2.carbon.event.tracer.ui-5.2.1.jar returned status 404
