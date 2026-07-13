@@ -5,3 +5,4 @@
 1.1.4		2026-06-19T00:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-mingwx64/1.1.4/compose-mingwx64-1.1.4.jar returned status 404
 1.1.5		2026-06-19T01:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-mingwx64/1.1.5/compose-mingwx64-1.1.5.jar returned status 404
 1.1.6		2026-06-21T01:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-mingwx64/1.1.6/compose-mingwx64-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/episode6/redux/compose-mingwx64/1.1.7/compose-mingwx64-1.1.7.jar returned status 404

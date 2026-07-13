@@ -1,3 +1,4 @@
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.10.0/buffer-ktor-wasm-js-6.10.0.jar returned status 404
 6.6.0		2026-07-06T07:09:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.6.0/buffer-ktor-wasm-js-6.6.0.jar returned status 404
 6.6.1		2026-07-06T18:28:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.6.1/buffer-ktor-wasm-js-6.6.1.jar returned status 404
 6.7.0		2026-07-06T17:41:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.7.0/buffer-ktor-wasm-js-6.7.0.jar returned status 404
@@ -6,3 +7,8 @@
 6.8.0		2026-07-06T22:31:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.8.0/buffer-ktor-wasm-js-6.8.0.jar returned status 404
 6.8.1		2026-07-07T01:40:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.8.1/buffer-ktor-wasm-js-6.8.1.jar returned status 404
 6.8.2		2026-07-07T17:21:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.8.2/buffer-ktor-wasm-js-6.8.2.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.9.0/buffer-ktor-wasm-js-6.9.0.jar returned status 404
+6.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.9.1/buffer-ktor-wasm-js-6.9.1.jar returned status 404
+6.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.9.2/buffer-ktor-wasm-js-6.9.2.jar returned status 404
+6.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.9.3/buffer-ktor-wasm-js-6.9.3.jar returned status 404
+6.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-wasm-js/6.9.4/buffer-ktor-wasm-js-6.9.4.jar returned status 404

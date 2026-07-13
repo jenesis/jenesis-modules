@@ -18,3 +18,4 @@
 1.2.0	metadata	2024-06-12T21:45:34Z	
 2.0.0		2026-07-06T00:05:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/mqtt-client-iosx64/2.0.0/mqtt-client-iosx64-2.0.0.jar returned status 404
 2.0.0	metadata	2026-07-06T00:05:08Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/mqtt-client-iosx64/2.0.1/mqtt-client-iosx64-2.0.1.jar returned status 404
