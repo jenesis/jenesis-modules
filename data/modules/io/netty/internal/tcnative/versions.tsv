@@ -791,6 +791,8 @@
 4.132.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-09T02:26:08Z	2.0.72.Final
 5.2.1	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-07-09T02:32:02Z	2.0.75.Final
 0.16.0	named	com.spotify.confidence	openfeature-provider-local	2026-07-09T02:32:25Z	2.0.72.Final
+1.82.2	named	io.grpc	grpc-netty-shaded	2026-07-10T00:05:29Z	2.0.75.Final
+1.81.1	named	io.grpc	grpc-netty-shaded	2026-07-10T00:05:32Z	2.0.75.Final
 4.133.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-10T02:19:29Z	2.0.72.Final
 4.132.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-10T02:19:32Z	2.0.72.Final
 11.2.42	named	com.datarobot	spooler-kafka	2026-07-11T00:07:55Z	2.0.75.Final

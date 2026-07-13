@@ -33,9 +33,14 @@
 4.2.9		2026-05-21T15:11:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.2.9/moderne-cli-osx-4.2.9.jar returned status 404
 4.3.0		2026-06-15T18:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.0/moderne-cli-osx-4.3.0.jar returned status 404
 4.3.1		2026-06-16T12:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.1/moderne-cli-osx-4.3.1.jar returned status 404
+4.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.10/moderne-cli-osx-4.3.10.jar returned status 404
+4.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.11/moderne-cli-osx-4.3.11.jar returned status 404
+4.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.12/moderne-cli-osx-4.3.12.jar returned status 404
 4.3.2		2026-06-17T14:55:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.2/moderne-cli-osx-4.3.2.jar returned status 404
 4.3.3		2026-06-19T13:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.3/moderne-cli-osx-4.3.3.jar returned status 404
 4.3.4		2026-06-20T00:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.4/moderne-cli-osx-4.3.4.jar returned status 404
 4.3.5		2026-06-22T22:59:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.5/moderne-cli-osx-4.3.5.jar returned status 404
 4.3.6		2026-06-23T23:39:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.6/moderne-cli-osx-4.3.6.jar returned status 404
 4.3.7		2026-07-01T12:06:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.7/moderne-cli-osx-4.3.7.jar returned status 404
+4.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.8/moderne-cli-osx-4.3.8.jar returned status 404
+4.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/moderne-cli-osx/4.3.9/moderne-cli-osx-4.3.9.jar returned status 404

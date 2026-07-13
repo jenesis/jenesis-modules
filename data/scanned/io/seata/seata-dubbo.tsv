@@ -20,3 +20,11 @@
 1.5.1		2022-05-20T18:14:53Z	
 1.5.1.1		2022-06-22T09:00:58Z	
 1.5.2		2022-07-10T04:13:56Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.6.0/seata-dubbo-1.6.0.jar returned status 404
+1.6.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.6.0-RC1/seata-dubbo-1.6.0-RC1.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.6.1/seata-dubbo-1.6.1.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.7.0/seata-dubbo-1.7.0.jar returned status 404
+1.7.0-native-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.7.0-native-rc2/seata-dubbo-1.7.0-native-rc2.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.7.1/seata-dubbo-1.7.1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/1.8.0/seata-dubbo-1.8.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seata/seata-dubbo/2.0.0/seata-dubbo-2.0.0.jar returned status 404

@@ -1,3 +1,15 @@
 3.0.0		2016-12-28T22:26:05Z	
 3.0.0-RC11		2016-12-22T18:28:20Z	
 3.0.0-RC12		2016-12-23T21:24:48Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.0.1/communicator_2.12-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.1.0/communicator_2.12-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.1.1/communicator_2.12-3.1.1.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.2.0/communicator_2.12-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.2.1/communicator_2.12-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.2.2/communicator_2.12-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.3.0/communicator_2.12-3.3.0.jar returned status 404
+3.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.3.0-RC1/communicator_2.12-3.3.0-RC1.jar returned status 404
+3.3.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.3.0-RC2/communicator_2.12-3.3.0-RC2.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.4.0/communicator_2.12-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.5.0/communicator_2.12-3.5.0.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/communicator_2.12/3.5.1/communicator_2.12-3.5.1.jar returned status 404

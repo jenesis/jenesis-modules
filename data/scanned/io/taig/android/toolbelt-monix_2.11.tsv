@@ -1,3 +1,5 @@
+0.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-monix_2.11/0.5.10/toolbelt-monix_2.11-0.5.10.jar returned status 404
+0.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-monix_2.11/0.5.11/toolbelt-monix_2.11-0.5.11.jar returned status 404
 0.5.12		2016-11-10T14:47:01Z	
 0.5.13		2016-11-16T15:55:02Z	
 0.5.14		2016-12-19T11:18:52Z	
@@ -13,6 +15,8 @@
 0.5.24		2017-03-13T12:22:46Z	
 0.5.25		2017-05-09T13:39:19Z	
 0.5.26		2017-05-11T10:15:49Z	
+0.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-monix_2.11/0.5.8/toolbelt-monix_2.11-0.5.8.jar returned status 404
+0.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-monix_2.11/0.5.9/toolbelt-monix_2.11-0.5.9.jar returned status 404
 0.6.0		2017-06-20T12:05:22Z	
 0.6.1		2017-08-07T13:59:37Z	
 0.6.2		2017-08-28T10:13:13Z	

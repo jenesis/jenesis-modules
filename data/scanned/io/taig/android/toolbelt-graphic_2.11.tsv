@@ -1,3 +1,7 @@
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.0/toolbelt-graphic_2.11-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.1/toolbelt-graphic_2.11-0.5.1.jar returned status 404
+0.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.10/toolbelt-graphic_2.11-0.5.10.jar returned status 404
+0.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.11/toolbelt-graphic_2.11-0.5.11.jar returned status 404
 0.5.12		2016-11-10T14:45:53Z	
 0.5.13		2016-11-16T15:54:36Z	
 0.5.14		2016-12-19T11:18:45Z	
@@ -6,6 +10,7 @@
 0.5.17		2017-01-31T13:01:31Z	
 0.5.18		2017-01-31T13:07:01Z	
 0.5.19		2017-02-15T15:09:24Z	
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.2/toolbelt-graphic_2.11-0.5.2.jar returned status 404
 0.5.20		2017-02-20T13:22:54Z	
 0.5.21		2017-03-01T13:38:29Z	
 0.5.22		2017-03-08T13:29:03Z	
@@ -13,6 +18,13 @@
 0.5.24		2017-03-13T12:21:17Z	
 0.5.25		2017-05-09T13:38:42Z	
 0.5.26		2017-05-11T10:15:10Z	
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.3/toolbelt-graphic_2.11-0.5.3.jar returned status 404
+0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.4/toolbelt-graphic_2.11-0.5.4.jar returned status 404
+0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.5/toolbelt-graphic_2.11-0.5.5.jar returned status 404
+0.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.6/toolbelt-graphic_2.11-0.5.6.jar returned status 404
+0.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.7/toolbelt-graphic_2.11-0.5.7.jar returned status 404
+0.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.8/toolbelt-graphic_2.11-0.5.8.jar returned status 404
+0.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-graphic_2.11/0.5.9/toolbelt-graphic_2.11-0.5.9.jar returned status 404
 0.6.0		2017-06-20T12:03:18Z	
 0.6.1		2017-08-07T13:58:42Z	
 0.6.2		2017-08-28T10:12:04Z	

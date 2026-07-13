@@ -1,3 +1,7 @@
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.0/toolbelt-compatibility-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.1/toolbelt-compatibility-0.5.1.jar returned status 404
+0.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.10/toolbelt-compatibility-0.5.10.jar returned status 404
+0.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.11/toolbelt-compatibility-0.5.11.jar returned status 404
 0.5.12		2016-11-10T14:46:48Z	
 0.5.13		2016-11-16T15:54:47Z	
 0.5.14		2016-12-19T11:18:40Z	
@@ -6,6 +10,7 @@
 0.5.17		2017-01-31T13:01:23Z	
 0.5.18		2017-01-31T13:07:21Z	
 0.5.19		2017-02-15T15:09:01Z	
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.2/toolbelt-compatibility-0.5.2.jar returned status 404
 0.5.20		2017-02-20T13:22:05Z	
 0.5.21		2017-03-01T13:38:31Z	
 0.5.22		2017-03-08T13:29:11Z	
@@ -13,6 +18,13 @@
 0.5.24		2017-03-13T12:21:45Z	
 0.5.25		2017-05-09T13:38:45Z	
 0.5.26		2017-05-11T10:14:41Z	
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.3/toolbelt-compatibility-0.5.3.jar returned status 404
+0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.4/toolbelt-compatibility-0.5.4.jar returned status 404
+0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.5/toolbelt-compatibility-0.5.5.jar returned status 404
+0.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.6/toolbelt-compatibility-0.5.6.jar returned status 404
+0.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.7/toolbelt-compatibility-0.5.7.jar returned status 404
+0.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.8/toolbelt-compatibility-0.5.8.jar returned status 404
+0.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/taig/android/toolbelt-compatibility/0.5.9/toolbelt-compatibility-0.5.9.jar returned status 404
 0.6.0		2017-06-20T12:02:59Z	
 0.6.1		2017-08-07T13:57:43Z	
 0.6.2		2017-08-28T10:12:31Z	

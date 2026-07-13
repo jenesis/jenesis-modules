@@ -1,3 +1,28 @@
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.19.0/grpc-bom-1.19.0.jar returned status 404
+1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.20.0/grpc-bom-1.20.0.jar returned status 404
+1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.21.0/grpc-bom-1.21.0.jar returned status 404
+1.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.21.1/grpc-bom-1.21.1.jar returned status 404
+1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.22.0/grpc-bom-1.22.0.jar returned status 404
+1.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.22.1/grpc-bom-1.22.1.jar returned status 404
+1.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.22.2/grpc-bom-1.22.2.jar returned status 404
+1.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.22.3/grpc-bom-1.22.3.jar returned status 404
+1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.23.0/grpc-bom-1.23.0.jar returned status 404
+1.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.23.1/grpc-bom-1.23.1.jar returned status 404
+1.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.24.0/grpc-bom-1.24.0.jar returned status 404
+1.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.24.1/grpc-bom-1.24.1.jar returned status 404
+1.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.24.2/grpc-bom-1.24.2.jar returned status 404
+1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.25.0/grpc-bom-1.25.0.jar returned status 404
+1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.26.0/grpc-bom-1.26.0.jar returned status 404
+1.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.26.1/grpc-bom-1.26.1.jar returned status 404
+1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.27.0/grpc-bom-1.27.0.jar returned status 404
+1.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.27.1/grpc-bom-1.27.1.jar returned status 404
+1.27.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.27.2/grpc-bom-1.27.2.jar returned status 404
+1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.28.0/grpc-bom-1.28.0.jar returned status 404
+1.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.28.1/grpc-bom-1.28.1.jar returned status 404
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.29.0/grpc-bom-1.29.0.jar returned status 404
+1.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.30.0/grpc-bom-1.30.0.jar returned status 404
+1.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.30.1/grpc-bom-1.30.1.jar returned status 404
+1.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.30.2/grpc-bom-1.30.2.jar returned status 404
 1.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.31.0/grpc-bom-1.31.0.jar returned status 404
 1.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.31.1/grpc-bom-1.31.1.jar returned status 404
 1.31.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.31.2/grpc-bom-1.31.2.jar returned status 404
@@ -114,5 +139,7 @@
 1.79.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.79.0/grpc-bom-1.79.0.jar returned status 404
 1.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.80.0/grpc-bom-1.80.0.jar returned status 404
 1.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.81.0/grpc-bom-1.81.0.jar returned status 404
+1.81.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.81.1/grpc-bom-1.81.1.jar returned status 404
 1.82.0		2026-06-10T06:13:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.82.0/grpc-bom-1.82.0.jar returned status 404
 1.82.1		2026-06-23T17:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.82.1/grpc-bom-1.82.1.jar returned status 404
+1.82.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/grpc-bom/1.82.2/grpc-bom-1.82.2.jar returned status 404
