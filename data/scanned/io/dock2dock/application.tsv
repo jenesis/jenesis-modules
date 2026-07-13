@@ -30,6 +30,7 @@
 0.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.11/application-0.2.11.jar returned status 404
 0.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.12/application-0.2.12.jar returned status 404
 0.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.13/application-0.2.13.jar returned status 404
+0.2.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.19/application-0.2.19.jar returned status 404
 0.2.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.2-alpha/application-0.2.2-alpha.jar returned status 404
 0.2.3-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.3-alpha/application-0.2.3-alpha.jar returned status 404
 0.2.4-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dock2dock/application/0.2.4-alpha/application-0.2.4-alpha.jar returned status 404

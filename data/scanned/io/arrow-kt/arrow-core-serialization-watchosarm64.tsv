@@ -56,3 +56,5 @@
 2.2.2.1	metadata	2026-03-18T09:24:20Z	
 2.2.3		2026-06-04T07:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-core-serialization-watchosarm64/2.2.3/arrow-core-serialization-watchosarm64-2.2.3.jar returned status 404
 2.2.3	metadata	2026-06-04T07:48:43Z	
+2.3.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-core-serialization-watchosarm64/2.3.0-alpha.1/arrow-core-serialization-watchosarm64-2.3.0-alpha.1.jar returned status 404
+2.3.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-core-serialization-watchosarm64/2.3.0-alpha.2/arrow-core-serialization-watchosarm64-2.3.0-alpha.2.jar returned status 404
