@@ -1,3 +1,7 @@
+8.6.3-20230526			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-mogdb/8.6.3-20230526/anyline-data-jdbc-mogdb-8.6.3-20230526.jar returned status 404
+8.6.3-20230527			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-mogdb/8.6.3-20230527/anyline-data-jdbc-mogdb-8.6.3-20230527.jar returned status 404
+8.6.3-20230528			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-mogdb/8.6.3-20230528/anyline-data-jdbc-mogdb-8.6.3-20230528.jar returned status 404
+8.6.3-20230529			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-mogdb/8.6.3-20230529/anyline-data-jdbc-mogdb-8.6.3-20230529.jar returned status 404
 8.6.3-20230601		2023-06-01T15:51:17Z	
 8.6.3-20230603		2023-06-03T14:53:32Z	
 8.6.3-20230606		2023-06-06T00:42:30Z	
@@ -545,21 +549,26 @@
 8.7.5-20260611		2026-06-11T09:10:59Z	
 8.7.5-20260618		2026-06-18T13:45:00Z	
 8.7.5-20260703		2026-07-03T14:54:12Z	
+8.7.5-20260707			
 8.7.5-jdk11-20260507		2026-05-07T08:25:27Z	
 8.7.5-jdk11-20260601		2026-06-01T11:06:48Z	
 8.7.5-jdk11-20260605		2026-06-05T02:11:14Z	
 8.7.5-jdk11-20260618		2026-06-18T14:24:46Z	
+8.7.5-jdk11-20260707			
 8.7.5-jdk17-20260507		2026-05-07T08:14:06Z	
 8.7.5-jdk17-20260601		2026-06-01T11:01:40Z	
 8.7.5-jdk17-20260605		2026-06-05T02:12:28Z	
 8.7.5-jdk17-20260618		2026-06-18T14:28:27Z	
+8.7.5-jdk17-20260707			
 8.7.5-jdk21-20260507		2026-05-07T08:04:30Z	
 8.7.5-jdk21-20260601		2026-06-01T10:55:03Z	
 8.7.5-jdk21-20260605		2026-06-05T02:36:44Z	
 8.7.5-jdk21-20260618		2026-06-18T14:16:18Z	
+8.7.5-jdk21-20260707			
 8.7.5-jdk21-boot4-20260507		2026-05-07T07:57:19Z	
 8.7.5-jdk21-boot4-20260601		2026-06-01T10:49:34Z	
 8.7.5-jdk21-boot4-20260605		2026-06-05T02:03:32Z	
 8.7.5-jdk21-boot4-20260607		2026-06-07T02:50:20Z	
 8.7.5-jdk21-boot4-20260608		2026-06-07T05:46:06Z	
 8.7.5-jdk21-boot4-20260618		2026-06-18T14:59:18Z	
+8.7.5-jdk21-boot4-20260707			
