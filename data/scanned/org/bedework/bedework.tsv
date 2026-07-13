@@ -1,1 +1,5 @@
+3.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework/3.13.2/bedework-3.13.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework/4.0.0/bedework-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework/4.1.0/bedework-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework/4.1.1/bedework-4.1.1.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework/5.0.0/bedework-5.0.0.jar returned status 404

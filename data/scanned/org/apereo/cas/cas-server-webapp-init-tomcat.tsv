@@ -1,5 +1,6 @@
 6.0.0		2018-12-29T01:44:43Z	
 6.0.0	resources	2018-12-29T01:44:48Z	
+6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-init-tomcat/6.0.0-RC3/cas-server-webapp-init-tomcat-6.0.0-RC3.jar returned status 404
 6.0.0-RC3	resources	2018-10-26T13:39:41Z	
 6.0.0-RC4		2018-12-01T19:53:56Z	
 6.0.0-RC4	resources	2018-12-01T19:54:01Z	

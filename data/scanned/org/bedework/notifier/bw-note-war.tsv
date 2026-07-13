@@ -1,1 +1,16 @@
+4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.10/bw-note-war-4.0.10.jar returned status 404
+4.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.11/bw-note-war-4.0.11.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.2/bw-note-war-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.3/bw-note-war-4.0.3.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.5/bw-note-war-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.6/bw-note-war-4.0.6.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.7/bw-note-war-4.0.7.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.8/bw-note-war-4.0.8.jar returned status 404
+4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/4.0.9/bw-note-war-4.0.9.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.0/bw-note-war-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.1/bw-note-war-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.2/bw-note-war-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.3/bw-note-war-5.0.3.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.4/bw-note-war-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/5.0.5/bw-note-war-5.0.5.jar returned status 404
 6.0.0		2025-07-19T04:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/notifier/bw-note-war/6.0.0/bw-note-war-6.0.0.jar returned status 404

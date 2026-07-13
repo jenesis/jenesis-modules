@@ -1,42 +1,84 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.0.0/uportal-home-10.0.0.jar returned status 404
 10.0.0	classes	2020-01-07T16:47:45Z	
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.1.0/uportal-home-10.1.0.jar returned status 404
 10.1.0	classes	2020-02-07T21:22:39Z	
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.1.1/uportal-home-10.1.1.jar returned status 404
 10.1.1	classes	2020-03-06T21:24:41Z	
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.1.2/uportal-home-10.1.2.jar returned status 404
 10.1.2	classes	2020-03-09T21:02:18Z	
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.2.0/uportal-home-10.2.0.jar returned status 404
 10.2.0	classes	2020-04-02T21:12:53Z	
+10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.2.1/uportal-home-10.2.1.jar returned status 404
 10.2.1	classes	2020-04-08T20:26:01Z	
+10.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.2.3/uportal-home-10.2.3.jar returned status 404
 10.2.3	classes	2020-07-23T17:29:29Z	
+10.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.2.4/uportal-home-10.2.4.jar returned status 404
 10.2.4	classes	2020-07-23T19:33:19Z	
+10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.3.0/uportal-home-10.3.0.jar returned status 404
 10.3.0	classes	2020-09-01T20:30:04Z	
+10.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.3.1/uportal-home-10.3.1.jar returned status 404
 10.3.1	classes	2020-09-09T17:31:43Z	
+10.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/10.3.2/uportal-home-10.3.2.jar returned status 404
 10.3.2	classes	2020-10-13T18:46:16Z	
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/11.0.0/uportal-home-11.0.0.jar returned status 404
 11.0.0	classes	2020-11-06T18:08:35Z	
+11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/11.0.1/uportal-home-11.0.1.jar returned status 404
 11.0.1	classes	2021-01-14T22:10:53Z	
+11.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/11.0.2/uportal-home-11.0.2.jar returned status 404
 11.0.2	classes	2021-01-27T13:35:57Z	
+11.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/11.0.3/uportal-home-11.0.3.jar returned status 404
 11.0.3	classes	2021-02-02T19:21:18Z	
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/12.0.0/uportal-home-12.0.0.jar returned status 404
 12.0.0	classes	2021-02-05T18:23:11Z	
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/12.0.1/uportal-home-12.0.1.jar returned status 404
 12.0.1	classes	2021-03-03T19:25:46Z	
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/12.0.2/uportal-home-12.0.2.jar returned status 404
 12.0.2	classes	2021-04-12T20:51:42Z	
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/12.0.3/uportal-home-12.0.3.jar returned status 404
 12.0.3	classes	2021-04-13T04:23:42Z	
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/13.0.0/uportal-home-13.0.0.jar returned status 404
 13.0.0	classes	2021-04-23T16:08:07Z	
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.0.0/uportal-home-7.0.0.jar returned status 404
 7.0.0	classes	2017-09-27T19:20:39Z	
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.0.1/uportal-home-7.0.1.jar returned status 404
 7.0.1	classes	2017-09-29T21:42:33Z	
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.0.2/uportal-home-7.0.2.jar returned status 404
 7.0.2	classes	2017-09-29T22:57:56Z	
+7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.0.3/uportal-home-7.0.3.jar returned status 404
 7.0.3	classes	2017-10-09T20:05:14Z	
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.1.0/uportal-home-7.1.0.jar returned status 404
 7.1.0	classes	2017-12-06T23:55:26Z	
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/7.2.0/uportal-home-7.2.0.jar returned status 404
 7.2.0	classes	2018-01-11T17:43:39Z	
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.0.0/uportal-home-8.0.0.jar returned status 404
 8.0.0	classes	2018-03-21T17:50:50Z	
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.1.0/uportal-home-8.1.0.jar returned status 404
 8.1.0	classes	2018-03-30T14:00:15Z	
+8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.1.1/uportal-home-8.1.1.jar returned status 404
 8.1.1	classes	2018-03-30T15:50:00Z	
+8.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.1.2/uportal-home-8.1.2.jar returned status 404
 8.1.2	classes	2018-04-17T19:50:02Z	
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.2.0/uportal-home-8.2.0.jar returned status 404
 8.2.0	classes	2018-05-22T19:13:28Z	
+8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.2.1/uportal-home-8.2.1.jar returned status 404
 8.2.1	classes	2018-06-08T17:08:51Z	
+8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.0/uportal-home-8.3.0.jar returned status 404
 8.3.0	classes	2018-07-13T18:17:43Z	
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.1/uportal-home-8.3.1.jar returned status 404
 8.3.1	classes	2018-07-26T17:56:45Z	
+8.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.2/uportal-home-8.3.2.jar returned status 404
 8.3.2	classes	2018-08-01T15:28:15Z	
+8.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.3/uportal-home-8.3.3.jar returned status 404
 8.3.3	classes	2018-08-07T16:47:45Z	
+8.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.4/uportal-home-8.3.4.jar returned status 404
 8.3.4	classes	2018-09-12T19:44:31Z	
+8.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.5/uportal-home-8.3.5.jar returned status 404
 8.3.5	classes	2018-09-19T17:39:35Z	
+8.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/8.3.6/uportal-home-8.3.6.jar returned status 404
 8.3.6	classes	2018-11-19T21:47:38Z	
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/9.0.0/uportal-home-9.0.0.jar returned status 404
 9.0.0	classes	2019-02-26T21:05:25Z	
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/9.1.0/uportal-home-9.1.0.jar returned status 404
 9.1.0	classes	2019-05-13T19:31:33Z	
+9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/uportal/uportal-home/9.2.0/uportal-home-9.2.0.jar returned status 404
 9.2.0	classes	2019-06-07T21:13:30Z	
