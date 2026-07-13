@@ -38,3 +38,4 @@
 2.2.2		2026-06-11T16:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-android/2.2.2/kotzilla-core-android-2.2.2.jar returned status 404
 2.2.3		2026-06-18T14:52:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-android/2.2.3/kotzilla-core-android-2.2.3.jar returned status 404
 2.2.4		2026-06-22T15:33:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-android/2.2.4/kotzilla-core-android-2.2.4.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-android/2.3.0/kotzilla-core-android-2.3.0.jar returned status 404

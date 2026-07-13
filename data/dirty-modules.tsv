@@ -3216,3 +3216,4 @@ io.micronaut.micrometer.micronaut_micrometer_registry_kairos
 io.micronaut.micronaut_function_web
 io.micronaut.micronaut_http_tck
 com.fasterxml.jackson.datatype.hibernate6
+org.checkerframework.checker.qual

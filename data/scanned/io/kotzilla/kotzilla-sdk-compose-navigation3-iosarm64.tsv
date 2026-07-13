@@ -8,3 +8,4 @@
 2.2.3	metadata	2026-06-18T14:52:42Z	
 2.2.4		2026-06-22T15:33:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-compose-navigation3-iosarm64/2.2.4/kotzilla-sdk-compose-navigation3-iosarm64-2.2.4.jar returned status 404
 2.2.4	metadata	2026-06-22T15:33:53Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-compose-navigation3-iosarm64/2.3.0/kotzilla-sdk-compose-navigation3-iosarm64-2.3.0.jar returned status 404
