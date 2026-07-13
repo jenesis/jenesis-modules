@@ -405,3 +405,5 @@ org.apache.commons.pool2
 io.netty.codec.http
 com.appslandia.plum
 com.appslandia.common
+com.quartzdesk.agent
+com.quartzdesk.api

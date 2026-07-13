@@ -1,4 +1,9 @@
+57.10.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.0.0.1/tradplus-bigo-57.10.0.0.1.jar returned status 404
+57.10.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.0.1.1/tradplus-bigo-57.10.0.1.1.jar returned status 404
+57.10.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.1.0.1/tradplus-bigo-57.10.1.0.1.jar returned status 404
+57.10.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.2.0.1/tradplus-bigo-57.10.2.0.1.jar returned status 404
 57.10.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.3.0.1/tradplus-bigo-57.10.3.0.1.jar returned status 404
+57.10.3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.3.11.1/tradplus-bigo-57.10.3.11.1.jar returned status 404
 57.10.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.4.0.1/tradplus-bigo-57.10.4.0.1.jar returned status 404
 57.10.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.5.0.1/tradplus-bigo-57.10.5.0.1.jar returned status 404
 57.10.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.10.6.0.1/tradplus-bigo-57.10.6.0.1.jar returned status 404
@@ -72,6 +77,7 @@
 57.13.9.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.13.9.30.1/tradplus-bigo-57.13.9.30.1.jar returned status 404
 57.14.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.0.0.1/tradplus-bigo-57.14.0.0.1.jar returned status 404
 57.14.0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.0.10.1/tradplus-bigo-57.14.0.10.1.jar returned status 404
+57.14.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.1.0.1/tradplus-bigo-57.14.1.0.1.jar returned status 404
 57.14.1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.1.10.1/tradplus-bigo-57.14.1.10.1.jar returned status 404
 57.14.1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.1.20.1/tradplus-bigo-57.14.1.20.1.jar returned status 404
 57.14.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.14.2.0.1/tradplus-bigo-57.14.2.0.1.jar returned status 404
@@ -126,3 +132,36 @@
 57.16.2.0.1		2026-06-09T03:18:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.16.2.0.1/tradplus-bigo-57.16.2.0.1.jar returned status 404
 57.16.3.0.1		2026-06-22T08:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.16.3.0.1/tradplus-bigo-57.16.3.0.1.jar returned status 404
 57.16.4.0.1		2026-07-06T03:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.16.4.0.1/tradplus-bigo-57.16.4.0.1.jar returned status 404
+57.8.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.8.7.0.1/tradplus-bigo-57.8.7.0.1.jar returned status 404
+57.8.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.8.7.10.1/tradplus-bigo-57.8.7.10.1.jar returned status 404
+57.8.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.8.8.0.1/tradplus-bigo-57.8.8.0.1.jar returned status 404
+57.8.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.8.9.0.1/tradplus-bigo-57.8.9.0.1.jar returned status 404
+57.8.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.8.9.10.1/tradplus-bigo-57.8.9.10.1.jar returned status 404
+57.9.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.0.0.1/tradplus-bigo-57.9.0.0.1.jar returned status 404
+57.9.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.1.0.1/tradplus-bigo-57.9.1.0.1.jar returned status 404
+57.9.1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.1.10.1/tradplus-bigo-57.9.1.10.1.jar returned status 404
+57.9.1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.1.20.1/tradplus-bigo-57.9.1.20.1.jar returned status 404
+57.9.1.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.1.30.1/tradplus-bigo-57.9.1.30.1.jar returned status 404
+57.9.1.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.1.40.1/tradplus-bigo-57.9.1.40.1.jar returned status 404
+57.9.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.2.0.1/tradplus-bigo-57.9.2.0.1.jar returned status 404
+57.9.2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.2.10.1/tradplus-bigo-57.9.2.10.1.jar returned status 404
+57.9.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.3.0.1/tradplus-bigo-57.9.3.0.1.jar returned status 404
+57.9.3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.3.10.1/tradplus-bigo-57.9.3.10.1.jar returned status 404
+57.9.3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.3.20.1/tradplus-bigo-57.9.3.20.1.jar returned status 404
+57.9.3.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.3.30.1/tradplus-bigo-57.9.3.30.1.jar returned status 404
+57.9.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.0.1/tradplus-bigo-57.9.4.0.1.jar returned status 404
+57.9.4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.10.1/tradplus-bigo-57.9.4.10.1.jar returned status 404
+57.9.4.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.20.1/tradplus-bigo-57.9.4.20.1.jar returned status 404
+57.9.4.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.30.1/tradplus-bigo-57.9.4.30.1.jar returned status 404
+57.9.4.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.40.1/tradplus-bigo-57.9.4.40.1.jar returned status 404
+57.9.4.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.4.50.1/tradplus-bigo-57.9.4.50.1.jar returned status 404
+57.9.5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.5.0.1/tradplus-bigo-57.9.5.0.1.jar returned status 404
+57.9.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.6.0.1/tradplus-bigo-57.9.6.0.1.jar returned status 404
+57.9.6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.6.10.1/tradplus-bigo-57.9.6.10.1.jar returned status 404
+57.9.6.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.6.20.1/tradplus-bigo-57.9.6.20.1.jar returned status 404
+57.9.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.7.0.1/tradplus-bigo-57.9.7.0.1.jar returned status 404
+57.9.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.7.10.1/tradplus-bigo-57.9.7.10.1.jar returned status 404
+57.9.7.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.7.30.1/tradplus-bigo-57.9.7.30.1.jar returned status 404
+57.9.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.8.0.1/tradplus-bigo-57.9.8.0.1.jar returned status 404
+57.9.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.9.0.1/tradplus-bigo-57.9.9.0.1.jar returned status 404
+57.9.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-bigo/57.9.9.10.1/tradplus-bigo-57.9.9.10.1.jar returned status 404

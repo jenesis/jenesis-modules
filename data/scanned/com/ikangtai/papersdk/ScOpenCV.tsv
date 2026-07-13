@@ -1,3 +1,4 @@
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikangtai/papersdk/ScOpenCV/1.1/ScOpenCV-1.1.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikangtai/papersdk/ScOpenCV/3.4.1/ScOpenCV-3.4.1.jar returned status 404
 3.4.1-aruco			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikangtai/papersdk/ScOpenCV/3.4.1-aruco/ScOpenCV-3.4.1-aruco.jar returned status 404
 3.4.1-aruco1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikangtai/papersdk/ScOpenCV/3.4.1-aruco1/ScOpenCV-3.4.1-aruco1.jar returned status 404

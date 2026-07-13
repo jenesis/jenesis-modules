@@ -1,1 +1,3 @@
 9.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/bamoe/bamoe-ilmt-compliance/9.0.0.Final/bamoe-ilmt-compliance-9.0.0.Final.jar returned status 404
+9.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/bamoe/bamoe-ilmt-compliance/9.0.1.Final/bamoe-ilmt-compliance-9.0.1.Final.jar returned status 404
+9.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/bamoe/bamoe-ilmt-compliance/9.1.0.RC1/bamoe-ilmt-compliance-9.1.0.RC1.jar returned status 404
