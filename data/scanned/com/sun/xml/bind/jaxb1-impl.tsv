@@ -2,6 +2,8 @@
 2.0.1		2006-06-28T22:50:12Z	
 2.0.2		2006-10-14T15:05:37Z	
 2.0.3		2006-10-14T15:05:37Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/bind/jaxb1-impl/2.0.4/jaxb1-impl-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/bind/jaxb1-impl/2.0.5/jaxb1-impl-2.0.5.jar returned status 404
 2.1		2006-12-13T20:32:18Z	
 2.1	EA1	2010-03-01T12:58:46Z	
 2.1-EA1		2006-10-14T15:05:37Z	
@@ -80,6 +82,7 @@
 2.2-promoted-b8		2009-03-11T17:21:14Z	
 2.2-promoted-b9		2009-03-13T07:19:41Z	
 2.2.1		2010-05-20T07:07:18Z	
+2.2.1-promoted-b66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/bind/jaxb1-impl/2.2.1-promoted-b66/jaxb1-impl-2.2.1-promoted-b66.jar returned status 404
 2.2.2		2010-11-29T15:09:17Z	
 2.2.2-promoted-b92		2010-08-12T09:31:18Z	
 2.2.2-promoted-b93		2010-09-01T15:31:25Z	

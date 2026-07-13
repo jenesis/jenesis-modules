@@ -1,4 +1,26 @@
 2.3.2		2019-01-18T15:40:30Z	
 2.3.2-1		2020-03-11T11:00:26Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.3/runtime-2.3.3.jar returned status 404
+2.3.3-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.3-b01/runtime-2.3.3-b01.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.4/runtime-2.3.4.jar returned status 404
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.5/runtime-2.3.5.jar returned status 404
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.6/runtime-2.3.6.jar returned status 404
+2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/2.3.7/runtime-2.3.7.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0/runtime-3.0.0.jar returned status 404
+3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0-M1/runtime-3.0.0-M1.jar returned status 404
+3.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0-M2/runtime-3.0.0-M2.jar returned status 404
+3.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0-M3/runtime-3.0.0-M3.jar returned status 404
+3.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0-M4/runtime-3.0.0-M4.jar returned status 404
+3.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.0-M5/runtime-3.0.0-M5.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.1/runtime-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/3.0.2/runtime-3.0.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.0/runtime-4.0.0.jar returned status 404
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.0-M1/runtime-4.0.0-M1.jar returned status 404
+4.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.0-M2/runtime-4.0.0-M2.jar returned status 404
+4.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.0-M3/runtime-4.0.0-M3.jar returned status 404
+4.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.0-M4/runtime-4.0.0-M4.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.1/runtime-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.2/runtime-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.3/runtime-4.0.3.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.4/runtime-4.0.4.jar returned status 404
 4.0.5		2026-06-05T15:19:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/xml/ws/runtime/4.0.5/runtime-4.0.5.jar returned status 404

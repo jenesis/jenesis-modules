@@ -1,3 +1,6 @@
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/2.3/cloud-storage-maven-2.3.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/3.0/cloud-storage-maven-3.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/3.1.0/cloud-storage-maven-3.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/4.0.0/cloud-storage-maven-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/4.1.0/cloud-storage-maven-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qlangtech/maven/cloud/cloud-storage-maven/4.2.0/cloud-storage-maven-4.2.0.jar returned status 404
