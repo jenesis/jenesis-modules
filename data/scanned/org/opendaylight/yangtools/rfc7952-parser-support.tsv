@@ -46,6 +46,7 @@
 14.0.17		2025-09-09T10:15:53Z	
 14.0.18		2025-10-15T12:53:21Z	
 14.0.19		2025-10-29T12:59:36Z	
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/rfc7952-parser-support/14.0.2/rfc7952-parser-support-14.0.2.jar returned status 404
 14.0.20		2025-10-31T16:43:54Z	
 14.0.21		2025-12-04T14:06:30Z	
 14.0.22		2026-01-10T13:42:03Z	
