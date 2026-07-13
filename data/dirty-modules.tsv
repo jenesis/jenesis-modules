@@ -1500,3 +1500,11 @@ org.eclipse.jetty.quic.quiche
 org.eclipse.jetty.quic.quiche.common
 org.eclipse.jetty.http3.qpack
 org.eclipse.jetty.quic.server
+org.eclipse.jetty.http3.client
+org.eclipse.jetty.http3.server
+org.eclipse.jetty.http3.common
+org.eclipse.jetty.http3.client.transport
+org.eclipse.jetty.alpn.conscrypt.server
+org.eclipse.jetty.security.openid
+org.eclipse.jetty.alpn.java.client
+org.eclipse.jetty.unixdomain.server

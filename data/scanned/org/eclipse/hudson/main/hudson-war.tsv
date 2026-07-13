@@ -1,5 +1,10 @@
+3.0.0-M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hudson/main/hudson-war/3.0.0-M0/hudson-war-3.0.0-M0.jar returned status 404
 3.0.0-M0	war-for-test	2012-01-13T04:13:15Z	
+3.0.0-M0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hudson/main/hudson-war/3.0.0-M0-1/hudson-war-3.0.0-M0-1.jar returned status 404
 3.0.0-M0-1	war-for-test	2012-01-23T22:00:00Z	
+3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hudson/main/hudson-war/3.0.0-M1/hudson-war-3.0.0-M1.jar returned status 404
 3.0.0-M1	war-for-test	2012-02-16T03:00:38Z	
+3.0.0-M1-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hudson/main/hudson-war/3.0.0-M1-1/hudson-war-3.0.0-M1-1.jar returned status 404
 3.0.0-M1-1	war-for-test	2012-04-17T02:04:05Z	
+3.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hudson/main/hudson-war/3.0.0-M2/hudson-war-3.0.0-M2.jar returned status 404
 3.0.0-M2	war-for-test	2012-04-18T07:43:16Z	

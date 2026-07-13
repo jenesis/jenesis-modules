@@ -4,6 +4,7 @@
 3.3.0		2009-08-24T01:07:43Z	
 3.4.0		2009-10-16T11:54:00Z	
 3.4.2		2009-10-23T15:21:35Z	
+3.5-1517			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/flexmojos/flexmojos-archetypes-library/3.5-1517/flexmojos-archetypes-library-3.5-1517.jar returned status 404
 3.5.0		2009-12-22T00:48:15Z	
 3.6		2010-03-17T01:59:47Z	
 3.6.1		2010-04-04T19:09:50Z	
