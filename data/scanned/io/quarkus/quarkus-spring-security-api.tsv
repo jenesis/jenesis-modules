@@ -1,1 +1,9 @@
 5.1.Alpha1		2020-02-27T20:04:30Z	
+5.2.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/5.2.Alpha1/quarkus-spring-security-api-5.2.Alpha1.jar returned status 404
+5.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/5.2.Final/quarkus-spring-security-api-5.2.Final.jar returned status 404
+5.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/5.3.Final/quarkus-spring-security-api-5.3.Final.jar returned status 404
+5.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/5.4.Final/quarkus-spring-security-api-5.4.Final.jar returned status 404
+6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/6.2/quarkus-spring-security-api-6.2.jar returned status 404
+6.2.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/6.2.SP1/quarkus-spring-security-api-6.2.SP1.jar returned status 404
+6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/6.4/quarkus-spring-security-api-6.4.jar returned status 404
+7.1.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-security-api/7.1.SP1/quarkus-spring-security-api-7.1.SP1.jar returned status 404
