@@ -1,3 +1,6 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.1/jmash-0.0.1.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.2/jmash-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.3/jmash-0.0.3.jar returned status 404
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.5/jmash-0.0.5.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.6/jmash-0.0.6.jar returned status 404
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/jmash/jmash/0.0.7/jmash-0.0.7.jar returned status 404

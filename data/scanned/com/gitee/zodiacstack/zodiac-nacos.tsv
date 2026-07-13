@@ -41,6 +41,9 @@
 1.5.13		2023-03-09T11:09:04Z	
 1.5.14		2023-04-02T07:24:47Z	
 1.5.15		2023-04-08T14:15:24Z	
+1.5.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.5.16/zodiac-nacos-1.5.16.jar returned status 404
+1.5.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.5.17/zodiac-nacos-1.5.17.jar returned status 404
+1.5.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.5.18/zodiac-nacos-1.5.18.jar returned status 404
 1.5.2		2022-05-14T07:21:09Z	
 1.5.3		2022-05-16T12:14:03Z	
 1.5.4		2022-05-18T03:32:52Z	
@@ -49,3 +52,14 @@
 1.5.7		2022-06-01T15:57:57Z	
 1.5.8		2022-06-13T15:41:41Z	
 1.5.9		2022-10-26T14:58:48Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.0/zodiac-nacos-1.6.0.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.1/zodiac-nacos-1.6.1.jar returned status 404
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.2/zodiac-nacos-1.6.2.jar returned status 404
+1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.3/zodiac-nacos-1.6.3.jar returned status 404
+1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.4/zodiac-nacos-1.6.4.jar returned status 404
+1.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.5/zodiac-nacos-1.6.5.jar returned status 404
+1.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.6/zodiac-nacos-1.6.6.jar returned status 404
+1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.7/zodiac-nacos-1.6.7.jar returned status 404
+1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.6.8/zodiac-nacos-1.6.8.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.7.0/zodiac-nacos-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/zodiacstack/zodiac-nacos/1.7.1/zodiac-nacos-1.7.1.jar returned status 404
