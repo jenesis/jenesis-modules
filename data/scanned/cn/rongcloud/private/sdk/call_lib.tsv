@@ -1,2 +1,12 @@
+5.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.15/call_lib-5.1.15.jar returned status 404
+5.1.15-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.15-beta/call_lib-5.1.15-beta.jar returned status 404
+5.1.15-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.15-beta1/call_lib-5.1.15-beta1.jar returned status 404
+5.1.15-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.15-beta2/call_lib-5.1.15-beta2.jar returned status 404
+5.1.17.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.17.50/call_lib-5.1.17.50.jar returned status 404
+5.1.17.50-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.1.17.50-beta/call_lib-5.1.17.50-beta.jar returned status 404
 5.12.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.12.0.50/call_lib-5.12.0.50.jar returned status 404
+5.12.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.12.0.54/call_lib-5.12.0.54.jar returned status 404
+5.20.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.20.0.50/call_lib-5.20.0.50.jar returned status 404
+5.30.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.30.0.50/call_lib-5.30.0.50.jar returned status 404
 5.6.2.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.6.2.50/call_lib-5.6.2.50.jar returned status 404
+5.6.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/private/sdk/call_lib/5.6.2.56/call_lib-5.6.2.56.jar returned status 404
