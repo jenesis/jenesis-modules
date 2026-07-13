@@ -2,6 +2,7 @@
 10.0.0-17-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.0-17-java11/corsac-sip-10.0.0-17-java11.jar returned status 404
 10.0.0-18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.0-18/corsac-sip-10.0.0-18.jar returned status 404
 10.0.0-18-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.0-18-java11/corsac-sip-10.0.0-18-java11.jar returned status 404
+10.0.0-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.0-5/corsac-sip-10.0.0-5.jar returned status 404
 10.0.1-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-10/corsac-sip-10.0.1-10.jar returned status 404
 10.0.1-10-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-10-java11/corsac-sip-10.0.1-10-java11.jar returned status 404
 10.0.1-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-11/corsac-sip-10.0.1-11.jar returned status 404
@@ -18,6 +19,11 @@
 10.0.1-19-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-19-java11/corsac-sip-10.0.1-19-java11.jar returned status 404
 10.0.1-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-20/corsac-sip-10.0.1-20.jar returned status 404
 10.0.1-20-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-20-java11/corsac-sip-10.0.1-20-java11.jar returned status 404
+10.0.1-6-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-6-java11/corsac-sip-10.0.1-6-java11.jar returned status 404
+10.0.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-7/corsac-sip-10.0.1-7.jar returned status 404
+10.0.1-7-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.0.1-7-java11/corsac-sip-10.0.1-7-java11.jar returned status 404
+10.1.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-1/corsac-sip-10.1.0-1.jar returned status 404
+10.1.0-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-2/corsac-sip-10.1.0-2.jar returned status 404
 10.1.0-21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-21/corsac-sip-10.1.0-21.jar returned status 404
 10.1.0-21-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-21-java11/corsac-sip-10.1.0-21-java11.jar returned status 404
 10.1.0-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-22/corsac-sip-10.1.0-22.jar returned status 404
@@ -34,7 +40,13 @@
 10.1.0-28-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-28-java11/corsac-sip-10.1.0-28-java11.jar returned status 404
 10.1.0-29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-29/corsac-sip-10.1.0-29.jar returned status 404
 10.1.0-29-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-29-java11/corsac-sip-10.1.0-29-java11.jar returned status 404
+10.1.0-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-3/corsac-sip-10.1.0-3.jar returned status 404
+10.1.0-3-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-3-java11/corsac-sip-10.1.0-3-java11.jar returned status 404
 10.1.0-30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-30/corsac-sip-10.1.0-30.jar returned status 404
 10.1.0-30-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-30-java11/corsac-sip-10.1.0-30-java11.jar returned status 404
 10.1.0-31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-31/corsac-sip-10.1.0-31.jar returned status 404
 10.1.0-31-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-31-java11/corsac-sip-10.1.0-31-java11.jar returned status 404
+10.1.0-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-4/corsac-sip-10.1.0-4.jar returned status 404
+10.1.0-4-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-4-java11/corsac-sip-10.1.0-4-java11.jar returned status 404
+10.1.0-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-5/corsac-sip-10.1.0-5.jar returned status 404
+10.1.0-5-java11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobius-software/protocols/sip/corsac-sip/10.1.0-5-java11/corsac-sip-10.1.0-5-java11.jar returned status 404
