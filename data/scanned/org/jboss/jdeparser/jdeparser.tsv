@@ -1,6 +1,7 @@
 1.0.0.Final		2012-10-31T20:38:30Z	
 2.0.0.Alpha1		2014-06-19T13:34:16Z	
 2.0.0.Alpha2		2014-06-20T18:33:07Z	
+2.0.0.Alpha2-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jdeparser/jdeparser/2.0.0.Alpha2-SNAPSHOT/jdeparser-2.0.0.Alpha2-SNAPSHOT.jar returned status 404
 2.0.0.Alpha3		2014-08-13T23:09:08Z	
 2.0.0.Beta2		2015-01-05T19:33:11Z	
 2.0.0.Beta3		2015-02-18T15:52:10Z	

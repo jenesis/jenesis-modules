@@ -25,3 +25,4 @@
 0.3.5		2026-05-20T13:21:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-fnd-parent/0.3.5/hal-fnd-parent-0.3.5.jar returned status 404
 0.3.6		2026-05-20T14:26:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-fnd-parent/0.3.6/hal-fnd-parent-0.3.6.jar returned status 404
 0.3.8		2026-05-20T15:46:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-fnd-parent/0.3.8/hal-fnd-parent-0.3.8.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-fnd-parent/0.4.0/hal-fnd-parent-0.4.0.jar returned status 404

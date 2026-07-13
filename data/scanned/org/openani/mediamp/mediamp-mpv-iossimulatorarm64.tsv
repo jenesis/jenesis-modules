@@ -32,3 +32,5 @@
 0.0.30	metadata	2025-11-30T11:53:09Z	
 0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-mpv-iossimulatorarm64/0.0.9/mediamp-mpv-iossimulatorarm64-0.0.9.jar returned status 404
 0.0.9	metadata	2025-01-01T15:53:35Z	
+0.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-mpv-iossimulatorarm64/0.1.14/mediamp-mpv-iossimulatorarm64-0.1.14.jar returned status 404
+0.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-mpv-iossimulatorarm64/0.1.15/mediamp-mpv-iossimulatorarm64-0.1.15.jar returned status 404
