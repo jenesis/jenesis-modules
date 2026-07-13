@@ -3,5 +3,7 @@
 3.1.0	plain	2022-04-06T06:57:10Z	
 3.2.0		2022-05-05T13:08:39Z	
 3.2.0	plain	2022-05-05T13:08:37Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/statemachine/spring-statemachine-samples-eventservice/3.2.1/spring-statemachine-samples-eventservice-3.2.1.jar returned status 404
 3.2.1	plain	2023-06-19T10:42:25Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/statemachine/spring-statemachine-samples-eventservice/4.0.0/spring-statemachine-samples-eventservice-4.0.0.jar returned status 404
 4.0.0	plain	2023-12-04T13:33:21Z	

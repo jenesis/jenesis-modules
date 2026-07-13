@@ -106,3 +106,15 @@
 2.2.7.RELEASE		2020-05-07T16:19:22Z	
 2.2.8.RELEASE		2020-06-11T13:53:13Z	
 2.2.9.RELEASE		2020-07-24T09:47:53Z	
+2.3.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.0.RELEASE/spring-boot-docs-2.3.0.RELEASE.jar returned status 404
+2.3.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.1.RELEASE/spring-boot-docs-2.3.1.RELEASE.jar returned status 404
+2.3.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.2.RELEASE/spring-boot-docs-2.3.2.RELEASE.jar returned status 404
+2.3.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.3.RELEASE/spring-boot-docs-2.3.3.RELEASE.jar returned status 404
+2.3.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.4.RELEASE/spring-boot-docs-2.3.4.RELEASE.jar returned status 404
+2.3.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.5.RELEASE/spring-boot-docs-2.3.5.RELEASE.jar returned status 404
+2.3.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.6.RELEASE/spring-boot-docs-2.3.6.RELEASE.jar returned status 404
+2.3.7.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.7.RELEASE/spring-boot-docs-2.3.7.RELEASE.jar returned status 404
+2.3.8.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.3.8.RELEASE/spring-boot-docs-2.3.8.RELEASE.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.4.0/spring-boot-docs-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.4.1/spring-boot-docs-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/boot/spring-boot-docs/2.4.2/spring-boot-docs-2.4.2.jar returned status 404

@@ -1,1 +1,6 @@
 1.0.0.RELEASE		2018-08-08T17:49:09Z	
+1.2.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-gcp-docs/1.2.4.RELEASE/spring-cloud-gcp-docs-1.2.4.RELEASE.jar returned status 404
+1.2.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-gcp-docs/1.2.5.RELEASE/spring-cloud-gcp-docs-1.2.5.RELEASE.jar returned status 404
+1.2.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-gcp-docs/1.2.6.RELEASE/spring-cloud-gcp-docs-1.2.6.RELEASE.jar returned status 404
+1.2.7.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-gcp-docs/1.2.7.RELEASE/spring-cloud-gcp-docs-1.2.7.RELEASE.jar returned status 404
+1.2.8.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-gcp-docs/1.2.8.RELEASE/spring-cloud-gcp-docs-1.2.8.RELEASE.jar returned status 404
