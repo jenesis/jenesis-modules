@@ -1,8 +1,48 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/1/code-quarkus-parent-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/10/code-quarkus-parent-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/11/code-quarkus-parent-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/12/code-quarkus-parent-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/13/code-quarkus-parent-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/14/code-quarkus-parent-14.jar returned status 404
+15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/15/code-quarkus-parent-15.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/16/code-quarkus-parent-16.jar returned status 404
+17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/17/code-quarkus-parent-17.jar returned status 404
+18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/18/code-quarkus-parent-18.jar returned status 404
+19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/19/code-quarkus-parent-19.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/2/code-quarkus-parent-2.jar returned status 404
+20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/20/code-quarkus-parent-20.jar returned status 404
+21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/21/code-quarkus-parent-21.jar returned status 404
+22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/22/code-quarkus-parent-22.jar returned status 404
+23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/23/code-quarkus-parent-23.jar returned status 404
+24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/24/code-quarkus-parent-24.jar returned status 404
+25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/25/code-quarkus-parent-25.jar returned status 404
+26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/26/code-quarkus-parent-26.jar returned status 404
+27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/27/code-quarkus-parent-27.jar returned status 404
+28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/28/code-quarkus-parent-28.jar returned status 404
+29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/29/code-quarkus-parent-29.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/3/code-quarkus-parent-3.jar returned status 404
+30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/30/code-quarkus-parent-30.jar returned status 404
+31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/31/code-quarkus-parent-31.jar returned status 404
+32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/32/code-quarkus-parent-32.jar returned status 404
+33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/33/code-quarkus-parent-33.jar returned status 404
+34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/34/code-quarkus-parent-34.jar returned status 404
+35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/35/code-quarkus-parent-35.jar returned status 404
+36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/36/code-quarkus-parent-36.jar returned status 404
+37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/37/code-quarkus-parent-37.jar returned status 404
+38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/38/code-quarkus-parent-38.jar returned status 404
+39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/39/code-quarkus-parent-39.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/4/code-quarkus-parent-4.jar returned status 404
+40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/40/code-quarkus-parent-40.jar returned status 404
+41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/41/code-quarkus-parent-41.jar returned status 404
+42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/42/code-quarkus-parent-42.jar returned status 404
+43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/43/code-quarkus-parent-43.jar returned status 404
+44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/44/code-quarkus-parent-44.jar returned status 404
 45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/45/code-quarkus-parent-45.jar returned status 404
 46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/46/code-quarkus-parent-46.jar returned status 404
 47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/47/code-quarkus-parent-47.jar returned status 404
 48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/48/code-quarkus-parent-48.jar returned status 404
 49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/49/code-quarkus-parent-49.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/5/code-quarkus-parent-5.jar returned status 404
 50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/50/code-quarkus-parent-50.jar returned status 404
 51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/51/code-quarkus-parent-51.jar returned status 404
 52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/52/code-quarkus-parent-52.jar returned status 404
@@ -13,6 +53,7 @@
 57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/57/code-quarkus-parent-57.jar returned status 404
 58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/58/code-quarkus-parent-58.jar returned status 404
 59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/59/code-quarkus-parent-59.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/6/code-quarkus-parent-6.jar returned status 404
 60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/60/code-quarkus-parent-60.jar returned status 404
 61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/61/code-quarkus-parent-61.jar returned status 404
 62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/62/code-quarkus-parent-62.jar returned status 404
@@ -23,6 +64,7 @@
 67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/67/code-quarkus-parent-67.jar returned status 404
 68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/68/code-quarkus-parent-68.jar returned status 404
 69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/69/code-quarkus-parent-69.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/7/code-quarkus-parent-7.jar returned status 404
 70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/70/code-quarkus-parent-70.jar returned status 404
 71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/71/code-quarkus-parent-71.jar returned status 404
 72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/72/code-quarkus-parent-72.jar returned status 404
@@ -33,4 +75,6 @@
 77		2026-05-19T00:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/77/code-quarkus-parent-77.jar returned status 404
 78		2026-05-20T00:59:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/78/code-quarkus-parent-78.jar returned status 404
 79		2026-06-04T01:10:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/79/code-quarkus-parent-79.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/8/code-quarkus-parent-8.jar returned status 404
 80		2026-06-08T08:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/80/code-quarkus-parent-80.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/code/code-quarkus-parent/9/code-quarkus-parent-9.jar returned status 404
