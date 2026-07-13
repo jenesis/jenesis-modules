@@ -12,6 +12,11 @@
 1.0.21		2023-03-02T11:11:53Z	
 1.0.22		2023-03-07T09:48:23Z	
 1.0.23		2023-04-18T09:40:22Z	
+1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.organization.management.v1/1.0.24/org.wso2.carbon.identity.rest.api.organization.management.v1-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.organization.management.v1/1.0.25/org.wso2.carbon.identity.rest.api.organization.management.v1-1.0.25.jar returned status 404
+1.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.organization.management.v1/1.0.26/org.wso2.carbon.identity.rest.api.organization.management.v1-1.0.26.jar returned status 404
+1.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.organization.management.v1/1.0.27/org.wso2.carbon.identity.rest.api.organization.management.v1-1.0.27.jar returned status 404
+1.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.organization.management.v1/1.0.28/org.wso2.carbon.identity.rest.api.organization.management.v1-1.0.28.jar returned status 404
 1.0.29		2024-04-16T06:43:22Z	
 1.0.3		2022-08-05T11:40:55Z	
 1.0.4		2022-08-05T11:46:55Z	

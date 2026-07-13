@@ -8,10 +8,16 @@
 1.0.17		2022-10-14T16:17:13Z	
 1.0.18		2022-11-02T12:56:22Z	
 1.0.19		2023-02-20T13:16:04Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.2/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.2.jar returned status 404
 1.0.20		2023-02-21T09:16:22Z	
 1.0.21		2023-03-02T11:12:20Z	
 1.0.22		2023-03-07T09:48:49Z	
 1.0.23		2023-04-18T09:40:50Z	
+1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.24/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.25/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.25.jar returned status 404
+1.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.26/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.26.jar returned status 404
+1.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.27/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.27.jar returned status 404
+1.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/organization/management/api/org.wso2.carbon.identity.rest.api.user.organization.v1/1.0.28/org.wso2.carbon.identity.rest.api.user.organization.v1-1.0.28.jar returned status 404
 1.0.29		2024-04-16T06:44:12Z	
 1.0.3		2022-08-05T11:41:24Z	
 1.0.4		2022-08-05T11:47:23Z	
