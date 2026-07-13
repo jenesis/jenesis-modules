@@ -4,6 +4,8 @@
 0.3.3		2019-04-25T12:45:05Z	
 0.4.0		2019-05-15T20:02:57Z	
 0.4.1		2019-06-10T12:12:29Z	
+0.5.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/ethree-common/0.5.0-beta1/ethree-common-0.5.0-beta1.jar returned status 404
+0.5.1-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/ethree-common/0.5.1-beta1/ethree-common-0.5.1-beta1.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/ethree-common/0.8.0/ethree-common-0.8.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/ethree-common/2.0.0/ethree-common-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/ethree-common/2.0.1/ethree-common-2.0.1.jar returned status 404

@@ -1,4 +1,6 @@
 1.0.0-no-diagnostics			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/1.0.0-no-diagnostics/instabug-ndk-crash-1.0.0-no-diagnostics.jar returned status 404
+10.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.10.0/instabug-ndk-crash-10.10.0.jar returned status 404
+10.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.10.1/instabug-ndk-crash-10.10.1.jar returned status 404
 10.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.11.0/instabug-ndk-crash-10.11.0.jar returned status 404
 10.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.11.1/instabug-ndk-crash-10.11.1.jar returned status 404
 10.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.12.0/instabug-ndk-crash-10.12.0.jar returned status 404
@@ -6,6 +8,18 @@
 10.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.12.2/instabug-ndk-crash-10.12.2.jar returned status 404
 10.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.12.3/instabug-ndk-crash-10.12.3.jar returned status 404
 10.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.13.0/instabug-ndk-crash-10.13.0.jar returned status 404
+10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.5.0/instabug-ndk-crash-10.5.0.jar returned status 404
+10.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.5.1/instabug-ndk-crash-10.5.1.jar returned status 404
+10.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.6.0/instabug-ndk-crash-10.6.0.jar returned status 404
+10.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.6.1/instabug-ndk-crash-10.6.1.jar returned status 404
+10.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.7.0/instabug-ndk-crash-10.7.0.jar returned status 404
+10.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.7.1/instabug-ndk-crash-10.7.1.jar returned status 404
+10.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.7.2/instabug-ndk-crash-10.7.2.jar returned status 404
+10.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.8.0/instabug-ndk-crash-10.8.0.jar returned status 404
+10.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.8.1/instabug-ndk-crash-10.8.1.jar returned status 404
+10.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.8.2/instabug-ndk-crash-10.8.2.jar returned status 404
+10.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.9.0/instabug-ndk-crash-10.9.0.jar returned status 404
+10.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/10.9.1/instabug-ndk-crash-10.9.1.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/11.0.0/instabug-ndk-crash-11.0.0.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/11.1.0/instabug-ndk-crash-11.1.0.jar returned status 404
 11.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/instabug/library/instabug-ndk-crash/11.10.0/instabug-ndk-crash-11.10.0.jar returned status 404

@@ -1,3 +1,18 @@
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.10.0/phe-android-0.10.0.jar returned status 404
+0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.10.1/phe-android-0.10.1.jar returned status 404
+0.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.10.2/phe-android-0.10.2.jar returned status 404
+0.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.10.3/phe-android-0.10.3.jar returned status 404
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.11.0/phe-android-0.11.0.jar returned status 404
+0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.11.1/phe-android-0.11.1.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.12.0/phe-android-0.12.0.jar returned status 404
+0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.12.1/phe-android-0.12.1.jar returned status 404
+0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.12.2/phe-android-0.12.2.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.13.1/phe-android-0.13.1.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.14.0/phe-android-0.14.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.15.0/phe-android-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.15.1/phe-android-0.15.1.jar returned status 404
+0.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.15.2/phe-android-0.15.2.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.16.0/phe-android-0.16.0.jar returned status 404
 0.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.17.2/phe-android-0.17.2.jar returned status 404
 0.17.2-rc14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.17.2-rc14/phe-android-0.17.2-rc14.jar returned status 404
 0.17.2-rc15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.17.2-rc15/phe-android-0.17.2-rc15.jar returned status 404
@@ -29,5 +44,13 @@
 0.20.0		2026-06-14T16:53:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.20.0/phe-android-0.20.0.jar returned status 404
 0.20.0-rc.1		2026-06-14T15:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.20.0-rc.1/phe-android-0.20.0-rc.1.jar returned status 404
 0.21.0		2026-06-19T02:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.21.0/phe-android-0.21.0.jar returned status 404
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.22.0/phe-android-0.22.0.jar returned status 404
 0.22.0-rc.1		2026-07-05T16:24:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.22.0-rc.1/phe-android-0.22.0-rc.1.jar returned status 404
 0.22.0-rc.2		2026-07-06T22:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.22.0-rc.2/phe-android-0.22.0-rc.2.jar returned status 404
+0.22.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.22.0-rc.3/phe-android-0.22.0-rc.3.jar returned status 404
+0.22.0-rc.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.22.0-rc.4/phe-android-0.22.0-rc.4.jar returned status 404
+0.23.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.23.0-rc.1/phe-android-0.23.0-rc.1.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.7.0/phe-android-0.7.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.7.1/phe-android-0.7.1.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.8.0/phe-android-0.8.0.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/virgilsecurity/crypto/phe-android/0.9.0/phe-android-0.9.0.jar returned status 404
