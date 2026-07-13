@@ -1,5 +1,6 @@
 1.0.1		2016-12-19T09:21:04Z	
 1.0.2		2017-09-26T05:47:49Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/outbound/amazon/org.wso2.carbon.extension.identity.authenticator.amazon.connector/1.0.3/org.wso2.carbon.extension.identity.authenticator.amazon.connector-1.0.3.jar returned status 404
 1.0.4		2020-08-26T10:23:18Z	
 1.0.5		2021-06-14T14:29:56Z	
 1.0.6		2025-04-07T07:57:44Z	

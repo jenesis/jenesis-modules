@@ -1,6 +1,10 @@
 1.0.0		2016-04-20T13:20:05Z	
 2.0.0		2016-06-08T10:27:45Z	
 2.0.1		2016-08-30T08:19:48Z	
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector/2.0.10/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector-2.0.10.jar returned status 404
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector/2.0.11/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector-2.0.11.jar returned status 404
+2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector/2.0.12/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector-2.0.12.jar returned status 404
+2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector/2.0.13/org.wso2.carbon.extension.identity.authenticator.x509Certificate.connector-2.0.13.jar returned status 404
 2.0.14		2019-12-16T04:29:16Z	
 2.0.15		2020-03-11T13:20:46Z	
 2.0.16		2020-03-20T11:16:59Z	

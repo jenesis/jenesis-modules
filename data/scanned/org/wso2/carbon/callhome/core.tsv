@@ -1,5 +1,7 @@
 1.0.10		2020-10-26T14:31:47Z	
 1.0.11		2021-09-06T05:25:19Z	
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/callhome/core/1.0.12/core-1.0.12.jar returned status 404
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/callhome/core/1.0.13/core-1.0.13.jar returned status 404
 1.0.14		2022-09-21T12:14:13Z	
 1.0.15		2022-11-30T18:08:28Z	
 1.0.16		2023-03-08T11:24:43Z	
