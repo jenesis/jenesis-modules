@@ -16,6 +16,8 @@
 0.19.1.Final		2016-09-07T22:34:26Z	
 0.19.2.Final		2016-09-09T17:19:26Z	
 0.19.3.Final		2016-09-20T19:47:54Z	
+0.21.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/metrics/hawkular-metrics-rest-tests-jaxrs/0.21.11.Final/hawkular-metrics-rest-tests-jaxrs-0.21.11.Final.jar returned status 404
+0.28.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/metrics/hawkular-metrics-rest-tests-jaxrs/0.28.5.Final/hawkular-metrics-rest-tests-jaxrs-0.28.5.Final.jar returned status 404
 0.7.0.Final		2015-09-30T21:43:59Z	
 0.8.0.Final		2015-10-10T19:46:53Z	
 0.8.1.Final		2016-02-19T22:46:07Z	

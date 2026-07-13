@@ -1,12 +1,40 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.0.0/openmrs-config-ces-1.0.0.jar returned status 404
 1.1.0		2020-07-21T21:38:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.1.0/openmrs-config-ces-1.1.0.jar returned status 404
 1.11.1		2021-08-24T20:21:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.11.1/openmrs-config-ces-1.11.1.jar returned status 404
+1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.11.2/openmrs-config-ces-1.11.2.jar returned status 404
 1.11.4		2021-08-24T23:50:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.11.4/openmrs-config-ces-1.11.4.jar returned status 404
 1.11.5		2021-08-24T23:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.11.5/openmrs-config-ces-1.11.5.jar returned status 404
 1.11.6		2021-08-25T00:09:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.11.6/openmrs-config-ces-1.11.6.jar returned status 404
 1.12.0		2021-10-01T21:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.12.0/openmrs-config-ces-1.12.0.jar returned status 404
 1.13.0		2021-10-28T21:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.13.0/openmrs-config-ces-1.13.0.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.14.0/openmrs-config-ces-1.14.0.jar returned status 404
+1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.15.0/openmrs-config-ces-1.15.0.jar returned status 404
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.16.0/openmrs-config-ces-1.16.0.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.17.0/openmrs-config-ces-1.17.0.jar returned status 404
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.18.0/openmrs-config-ces-1.18.0.jar returned status 404
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.19.0/openmrs-config-ces-1.19.0.jar returned status 404
 1.2.0		2020-08-18T23:30:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.2.0/openmrs-config-ces-1.2.0.jar returned status 404
+1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.20.0/openmrs-config-ces-1.20.0.jar returned status 404
+1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.21.0/openmrs-config-ces-1.21.0.jar returned status 404
+1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.22.0/openmrs-config-ces-1.22.0.jar returned status 404
+1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.23.0/openmrs-config-ces-1.23.0.jar returned status 404
+1.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.24.0/openmrs-config-ces-1.24.0.jar returned status 404
+1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.25.0/openmrs-config-ces-1.25.0.jar returned status 404
+1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.26.0/openmrs-config-ces-1.26.0.jar returned status 404
+1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.27.0/openmrs-config-ces-1.27.0.jar returned status 404
+1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.28.0/openmrs-config-ces-1.28.0.jar returned status 404
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.29.0/openmrs-config-ces-1.29.0.jar returned status 404
 1.3.0		2021-04-07T18:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.3.0/openmrs-config-ces-1.3.0.jar returned status 404
+1.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.30.0/openmrs-config-ces-1.30.0.jar returned status 404
+1.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.31.0/openmrs-config-ces-1.31.0.jar returned status 404
+1.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.32.0/openmrs-config-ces-1.32.0.jar returned status 404
+1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.33.0/openmrs-config-ces-1.33.0.jar returned status 404
+1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.34.0/openmrs-config-ces-1.34.0.jar returned status 404
+1.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.35.0/openmrs-config-ces-1.35.0.jar returned status 404
+1.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.36.0/openmrs-config-ces-1.36.0.jar returned status 404
+1.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.37.0/openmrs-config-ces-1.37.0.jar returned status 404
+1.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.38.0/openmrs-config-ces-1.38.0.jar returned status 404
+1.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.39.0/openmrs-config-ces-1.39.0.jar returned status 404
 1.4.0		2021-04-12T17:35:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.4.0/openmrs-config-ces-1.4.0.jar returned status 404
 1.40.0		2025-10-06T19:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.40.0/openmrs-config-ces-1.40.0.jar returned status 404
 1.41.0		2025-10-06T20:01:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-ces/1.41.0/openmrs-config-ces-1.41.0.jar returned status 404

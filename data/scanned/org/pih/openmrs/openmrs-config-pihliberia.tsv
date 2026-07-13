@@ -1,4 +1,11 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.0.0/openmrs-config-pihliberia-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.1.0/openmrs-config-pihliberia-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.1.1/openmrs-config-pihliberia-1.1.1.jar returned status 404
 1.1.2		2020-09-04T14:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.1.2/openmrs-config-pihliberia-1.1.2.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.11.0/openmrs-config-pihliberia-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.12.0/openmrs-config-pihliberia-1.12.0.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.13.0/openmrs-config-pihliberia-1.13.0.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.14.0/openmrs-config-pihliberia-1.14.0.jar returned status 404
 1.15.0		2025-10-06T19:09:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.15.0/openmrs-config-pihliberia-1.15.0.jar returned status 404
 1.16.0		2025-10-14T15:56:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.16.0/openmrs-config-pihliberia-1.16.0.jar returned status 404
 1.17.0		2025-10-20T17:32:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.17.0/openmrs-config-pihliberia-1.17.0.jar returned status 404
@@ -6,3 +13,8 @@
 1.19.0		2025-10-21T13:53:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.19.0/openmrs-config-pihliberia-1.19.0.jar returned status 404
 1.2.0		2021-02-12T13:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.2.0/openmrs-config-pihliberia-1.2.0.jar returned status 404
 1.20.0		2026-01-21T02:21:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.20.0/openmrs-config-pihliberia-1.20.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.3.0/openmrs-config-pihliberia-1.3.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.4.0/openmrs-config-pihliberia-1.4.0.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.5.0/openmrs-config-pihliberia-1.5.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.6.0/openmrs-config-pihliberia-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-config-pihliberia/1.7.0/openmrs-config-pihliberia-1.7.0.jar returned status 404

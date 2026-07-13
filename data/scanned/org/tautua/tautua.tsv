@@ -1,1 +1,6 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/1/tautua-1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/2/tautua-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/3/tautua-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/4/tautua-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/5/tautua-5.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tautua/tautua/6/tautua-6.jar returned status 404

@@ -4,3 +4,5 @@
 0.9.4.1		2012-10-14T10:09:49Z	
 0.9.5		2013-02-24T09:28:49Z	
 0.9.5.1		2013-11-04T20:20:55Z	
+0.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jproggy/snippetory/0.9.6/snippetory-0.9.6.jar returned status 404
+0.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jproggy/snippetory/0.9.7/snippetory-0.9.7.jar returned status 404

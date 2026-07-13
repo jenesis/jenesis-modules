@@ -1,6 +1,39 @@
+0.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.1.Final/hawkular-rest-api-0.0.1.Final.jar returned status 404
+0.0.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.10.Final/hawkular-rest-api-0.0.10.Final.jar returned status 404
+0.0.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.11.Final/hawkular-rest-api-0.0.11.Final.jar returned status 404
+0.0.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.12.Final/hawkular-rest-api-0.0.12.Final.jar returned status 404
+0.0.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.13.Final/hawkular-rest-api-0.0.13.Final.jar returned status 404
+0.0.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.14.Final/hawkular-rest-api-0.0.14.Final.jar returned status 404
+0.0.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.15.Final/hawkular-rest-api-0.0.15.Final.jar returned status 404
+0.0.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.16.Final/hawkular-rest-api-0.0.16.Final.jar returned status 404
+0.0.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.17.Final/hawkular-rest-api-0.0.17.Final.jar returned status 404
+0.0.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.18.Final/hawkular-rest-api-0.0.18.Final.jar returned status 404
+0.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.2.Final/hawkular-rest-api-0.0.2.Final.jar returned status 404
+0.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.3.Final/hawkular-rest-api-0.0.3.Final.jar returned status 404
+0.0.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.5.Final/hawkular-rest-api-0.0.5.Final.jar returned status 404
+0.0.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.6.Final/hawkular-rest-api-0.0.6.Final.jar returned status 404
+0.0.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.7.Final/hawkular-rest-api-0.0.7.Final.jar returned status 404
+0.0.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.0.9.Final/hawkular-rest-api-0.0.9.Final.jar returned status 404
+0.19.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.19.0.Final/hawkular-rest-api-0.19.0.Final.jar returned status 404
+0.20.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.20.0.Final/hawkular-rest-api-0.20.0.Final.jar returned status 404
+0.21.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.21.0.Final/hawkular-rest-api-0.21.0.Final.jar returned status 404
+0.22.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.22.0.Final/hawkular-rest-api-0.22.0.Final.jar returned status 404
+0.23.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.23.0.Final/hawkular-rest-api-0.23.0.Final.jar returned status 404
+0.30.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.30.0.Final/hawkular-rest-api-0.30.0.Final.jar returned status 404
+0.31.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.31.0.Final/hawkular-rest-api-0.31.0.Final.jar returned status 404
+0.32.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.32.0.Final/hawkular-rest-api-0.32.0.Final.jar returned status 404
+0.33.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.33.0.Final/hawkular-rest-api-0.33.0.Final.jar returned status 404
+0.34.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.34.0.Final/hawkular-rest-api-0.34.0.Final.jar returned status 404
+0.35.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.35.0.Final/hawkular-rest-api-0.35.0.Final.jar returned status 404
+0.36.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.36.0.Final/hawkular-rest-api-0.36.0.Final.jar returned status 404
 0.36.0.Final	classes	2017-04-25T14:06:45Z	
+0.37.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.37.0.Final/hawkular-rest-api-0.37.0.Final.jar returned status 404
 0.37.0.Final	classes	2017-05-02T15:31:03Z	
+0.38.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.38.0.Final/hawkular-rest-api-0.38.0.Final.jar returned status 404
 0.38.0.Final	classes	2017-05-08T19:37:33Z	
+0.39.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.39.0.Final/hawkular-rest-api-0.39.0.Final.jar returned status 404
 0.39.0.Final	classes	2017-08-02T18:03:27Z	
+0.40.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.40.0.Final/hawkular-rest-api-0.40.0.Final.jar returned status 404
 0.40.0.Final	classes	2017-10-28T03:37:02Z	
+0.40.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hawkular/services/hawkular-rest-api/0.40.1.Final/hawkular-rest-api-0.40.1.Final.jar returned status 404
 0.40.1.Final	classes	2017-12-13T14:44:06Z	

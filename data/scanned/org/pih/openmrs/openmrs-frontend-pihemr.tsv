@@ -1,3 +1,6 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.10.0/openmrs-frontend-pihemr-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.11.0/openmrs-frontend-pihemr-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.12.0/openmrs-frontend-pihemr-1.12.0.jar returned status 404
 1.13.0		2025-06-07T12:40:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.13.0/openmrs-frontend-pihemr-1.13.0.jar returned status 404
 1.14.0		2025-08-22T13:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.14.0/openmrs-frontend-pihemr-1.14.0.jar returned status 404
 1.15.0		2025-08-27T16:44:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.15.0/openmrs-frontend-pihemr-1.15.0.jar returned status 404
@@ -13,9 +16,15 @@
 1.27.0		2026-01-20T21:19:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.27.0/openmrs-frontend-pihemr-1.27.0.jar returned status 404
 1.28.0		2026-01-21T21:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.28.0/openmrs-frontend-pihemr-1.28.0.jar returned status 404
 1.29.0		2026-01-23T13:30:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.29.0/openmrs-frontend-pihemr-1.29.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.3.0/openmrs-frontend-pihemr-1.3.0.jar returned status 404
 1.30.0		2026-03-09T18:04:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.30.0/openmrs-frontend-pihemr-1.30.0.jar returned status 404
 1.31.0		2026-04-17T17:05:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.31.0/openmrs-frontend-pihemr-1.31.0.jar returned status 404
 1.32.0		2026-04-27T13:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.32.0/openmrs-frontend-pihemr-1.32.0.jar returned status 404
 1.33.0		2026-05-12T13:25:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.33.0/openmrs-frontend-pihemr-1.33.0.jar returned status 404
 1.34.0		2026-05-12T14:09:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.34.0/openmrs-frontend-pihemr-1.34.0.jar returned status 404
 1.35.0		2026-06-04T20:48:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.35.0/openmrs-frontend-pihemr-1.35.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.4.0/openmrs-frontend-pihemr-1.4.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.6.0/openmrs-frontend-pihemr-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.7.0/openmrs-frontend-pihemr-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.8.0/openmrs-frontend-pihemr-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pih/openmrs/openmrs-frontend-pihemr/1.9.0/openmrs-frontend-pihemr-1.9.0.jar returned status 404

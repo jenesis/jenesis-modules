@@ -15,10 +15,16 @@
 8.2.0		2024-07-11T14:03:25Z	
 8.2.1		2024-10-08T17:01:34Z	
 8.2.2		2025-02-20T14:32:16Z	
+8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/8.3.0/frankframework-ladybug-8.3.0.jar returned status 404
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/8.3.1/frankframework-ladybug-8.3.1.jar returned status 404
+8.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/8.3.2/frankframework-ladybug-8.3.2.jar returned status 404
 8.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/8.3.3/frankframework-ladybug-8.3.3.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.0.0/frankframework-ladybug-9.0.0.jar returned status 404
+9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.0.1/frankframework-ladybug-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.0.2/frankframework-ladybug-9.0.2.jar returned status 404
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.0.3/frankframework-ladybug-9.0.3.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.0.4/frankframework-ladybug-9.0.4.jar returned status 404
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.1.0/frankframework-ladybug-9.1.0.jar returned status 404
 9.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.1.1/frankframework-ladybug-9.1.1.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.2.0/frankframework-ladybug-9.2.0.jar returned status 404
 9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-ladybug/9.2.1/frankframework-ladybug-9.2.1.jar returned status 404
