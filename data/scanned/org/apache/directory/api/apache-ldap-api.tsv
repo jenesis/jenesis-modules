@@ -1,27 +1,69 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0/apache-ldap-api-1.0.0.jar returned status 404
 1.0.0	anon	2017-06-01T23:06:06Z	
+1.0.0-M14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M14/apache-ldap-api-1.0.0-M14.jar returned status 404
+1.0.0-M15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M15/apache-ldap-api-1.0.0-M15.jar returned status 404
+1.0.0-M16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M16/apache-ldap-api-1.0.0-M16.jar returned status 404
+1.0.0-M17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M17/apache-ldap-api-1.0.0-M17.jar returned status 404
+1.0.0-M18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M18/apache-ldap-api-1.0.0-M18.jar returned status 404
+1.0.0-M19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M19/apache-ldap-api-1.0.0-M19.jar returned status 404
+1.0.0-M20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M20/apache-ldap-api-1.0.0-M20.jar returned status 404
+1.0.0-M21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M21/apache-ldap-api-1.0.0-M21.jar returned status 404
+1.0.0-M22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M22/apache-ldap-api-1.0.0-M22.jar returned status 404
+1.0.0-M23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M23/apache-ldap-api-1.0.0-M23.jar returned status 404
+1.0.0-M24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M24/apache-ldap-api-1.0.0-M24.jar returned status 404
+1.0.0-M25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M25/apache-ldap-api-1.0.0-M25.jar returned status 404
+1.0.0-M26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M26/apache-ldap-api-1.0.0-M26.jar returned status 404
+1.0.0-M27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M27/apache-ldap-api-1.0.0-M27.jar returned status 404
+1.0.0-M28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M28/apache-ldap-api-1.0.0-M28.jar returned status 404
+1.0.0-M29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M29/apache-ldap-api-1.0.0-M29.jar returned status 404
 1.0.0-M29	anon	2015-03-29T10:51:00Z	
+1.0.0-M30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M30/apache-ldap-api-1.0.0-M30.jar returned status 404
 1.0.0-M30	anon	2015-04-28T12:29:50Z	
+1.0.0-M31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M31/apache-ldap-api-1.0.0-M31.jar returned status 404
 1.0.0-M31	anon	2015-06-30T17:09:29Z	
+1.0.0-M32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M32/apache-ldap-api-1.0.0-M32.jar returned status 404
 1.0.0-M32	anon	2015-10-14T16:09:25Z	
+1.0.0-M33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-M33/apache-ldap-api-1.0.0-M33.jar returned status 404
 1.0.0-M33	anon	2015-12-18T00:45:36Z	
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-RC1/apache-ldap-api-1.0.0-RC1.jar returned status 404
 1.0.0-RC1	anon	2016-06-14T04:37:24Z	
+1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.0-RC2/apache-ldap-api-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	anon	2016-10-26T08:21:07Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.1/apache-ldap-api-1.0.1.jar returned status 404
 1.0.1	anon	2018-04-30T22:20:45Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.2/apache-ldap-api-1.0.2.jar returned status 404
 1.0.2	anon	2018-06-01T16:50:54Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/1.0.3/apache-ldap-api-1.0.3.jar returned status 404
 1.0.3	anon	2019-04-17T08:29:50Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.0/apache-ldap-api-2.0.0.jar returned status 404
 2.0.0	anon	2019-11-06T09:06:24Z	
+2.0.0.AM1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.0.AM1/apache-ldap-api-2.0.0.AM1.jar returned status 404
 2.0.0.AM1	anon	2018-07-15T10:03:08Z	
+2.0.0.AM2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.0.AM2/apache-ldap-api-2.0.0.AM2.jar returned status 404
 2.0.0.AM2	anon	2018-08-28T22:41:27Z	
+2.0.0.AM3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.0.AM3/apache-ldap-api-2.0.0.AM3.jar returned status 404
 2.0.0.AM3	anon	2019-05-11T12:09:32Z	
+2.0.0.AM4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.0.AM4/apache-ldap-api-2.0.0.AM4.jar returned status 404
 2.0.0.AM4	anon	2019-06-05T13:55:44Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.1/apache-ldap-api-2.0.1.jar returned status 404
 2.0.1	anon	2020-03-21T02:56:31Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.0.2/apache-ldap-api-2.0.2.jar returned status 404
 2.0.2	anon	2021-05-22T11:07:55Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.0/apache-ldap-api-2.1.0.jar returned status 404
 2.1.0	anon	2021-06-25T17:42:29Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.1/apache-ldap-api-2.1.1.jar returned status 404
 2.1.1	anon	2022-07-28T19:37:44Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.2/apache-ldap-api-2.1.2.jar returned status 404
 2.1.2	anon	2022-08-10T06:15:25Z	
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.3/apache-ldap-api-2.1.3.jar returned status 404
 2.1.3	anon	2023-04-05T21:54:32Z	
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.4/apache-ldap-api-2.1.4.jar returned status 404
 2.1.4	anon	2023-08-18T21:52:48Z	
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.5/apache-ldap-api-2.1.5.jar returned status 404
 2.1.5	anon	2023-10-08T02:34:39Z	
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.6/apache-ldap-api-2.1.6.jar returned status 404
 2.1.6	anon	2024-02-01T21:52:06Z	
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.7/apache-ldap-api-2.1.7.jar returned status 404
 2.1.7	anon	2024-08-02T14:48:25Z	
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/directory/api/apache-ldap-api/2.1.8/apache-ldap-api-2.1.8.jar returned status 404
 2.1.8	anon	2026-05-27T06:59:33Z	

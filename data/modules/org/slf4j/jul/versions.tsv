@@ -68,3 +68,5 @@
 2.0.18	named	org.slf4j	slf4j-jdk14	2026-05-12T18:34:08Z	2.0.18
 2.74.0	named	org.apache.beam	beam-runners-google-cloud-dataflow-java-legacy-worker	2026-05-28T20:31:33Z	2.0.16
 2.74.0	named	org.apache.beam	beam-sdks-java-transform-service-app	2026-05-28T21:28:29Z	2.0.16
+2.75.0	named	org.apache.beam	beam-runners-google-cloud-dataflow-java-legacy-worker	2026-07-08T23:57:58Z	2.0.16
+2.75.0	named	org.apache.beam	beam-sdks-java-transform-service-app	2026-07-08T23:58:33Z	2.0.16

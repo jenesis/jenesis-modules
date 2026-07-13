@@ -1,1 +1,4 @@
 3.3.1		2009-06-14T14:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/servicemix/jboss/deployer/3.3.1/deployer-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/servicemix/jboss/deployer/3.3.2/deployer-3.3.2.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/servicemix/jboss/deployer/3.4.0/deployer-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/servicemix/jboss/deployer/3.4.1/deployer-3.4.1.jar returned status 404

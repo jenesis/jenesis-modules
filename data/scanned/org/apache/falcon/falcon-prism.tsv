@@ -1,2 +1,4 @@
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/falcon/falcon-prism/0.8/falcon-prism-0.8.jar returned status 404
 0.8	classes	2015-12-21T06:43:21Z	
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/falcon/falcon-prism/0.9/falcon-prism-0.9.jar returned status 404
 0.9	classes	2016-02-17T07:21:52Z	

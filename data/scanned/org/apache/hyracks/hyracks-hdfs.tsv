@@ -1,3 +1,9 @@
+0.2.16-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.2.16-incubating/hyracks-hdfs-0.2.16-incubating.jar returned status 404
+0.2.17-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.2.17-incubating/hyracks-hdfs-0.2.17-incubating.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.3.0/hyracks-hdfs-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.3.1/hyracks-hdfs-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.3.2/hyracks-hdfs-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hyracks/hyracks-hdfs/0.3.3/hyracks-hdfs-0.3.3.jar returned status 404
 0.3.4		2019-03-07T23:15:03Z	
 0.3.4.1		2019-03-04T21:55:24Z	
 0.3.5		2020-07-06T22:11:12Z	

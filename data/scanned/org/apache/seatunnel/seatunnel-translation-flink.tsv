@@ -1,3 +1,16 @@
 2.2.0-beta		2022-09-26T04:20:22Z	
 2.3.0		2022-12-23T03:22:31Z	
 2.3.0-beta		2022-10-24T08:13:10Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.1/seatunnel-translation-flink-2.3.1.jar returned status 404
+2.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.10/seatunnel-translation-flink-2.3.10.jar returned status 404
+2.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.11/seatunnel-translation-flink-2.3.11.jar returned status 404
+2.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.12/seatunnel-translation-flink-2.3.12.jar returned status 404
+2.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.13/seatunnel-translation-flink-2.3.13.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.2/seatunnel-translation-flink-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.3/seatunnel-translation-flink-2.3.3.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.4/seatunnel-translation-flink-2.3.4.jar returned status 404
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.5/seatunnel-translation-flink-2.3.5.jar returned status 404
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.6/seatunnel-translation-flink-2.3.6.jar returned status 404
+2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.7/seatunnel-translation-flink-2.3.7.jar returned status 404
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.8/seatunnel-translation-flink-2.3.8.jar returned status 404
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/seatunnel/seatunnel-translation-flink/2.3.9/seatunnel-translation-flink-2.3.9.jar returned status 404

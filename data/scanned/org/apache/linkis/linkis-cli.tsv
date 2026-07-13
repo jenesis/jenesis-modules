@@ -1,3 +1,12 @@
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.0.3/linkis-cli-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.1.0/linkis-cli-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.1.1/linkis-cli-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.1.2/linkis-cli-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.1.3/linkis-cli-1.1.3.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.2.0/linkis-cli-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.3.0/linkis-cli-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.3.1/linkis-cli-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/linkis/linkis-cli/1.3.2/linkis-cli-1.3.2.jar returned status 404
 1.4.0		2023-07-29T01:06:10Z	
 1.5.0		2023-12-20T02:51:04Z	
 1.6.0		2024-07-03T15:08:37Z	

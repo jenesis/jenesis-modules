@@ -7337,3 +7337,4 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 2.22.1	named	com.fasterxml.jackson.core	jackson-core	2026-07-07T21:30:06Z	2.22.1
 2.18.9	named	com.fasterxml.jackson.core	jackson-core	2026-07-07T23:50:30Z	2.18.9
 2.7.7	named	com.alibaba.hologres	holo-client	2026-07-08T09:42:27Z	2.17.2
+2.15.4-3.0.0	named	org.apache.seatunnel	seatunnel-shade-jackson	2026-07-11T02:20:00Z	2.15.4

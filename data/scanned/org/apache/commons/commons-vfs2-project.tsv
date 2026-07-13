@@ -1,1 +1,12 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.0/commons-vfs2-project-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.1/commons-vfs2-project-2.1.jar returned status 404
 2.10.0		2025-02-02T21:01:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.10.0/commons-vfs2-project-2.10.0.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.2/commons-vfs2-project-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.3/commons-vfs2-project-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.4/commons-vfs2-project-2.4.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.4.1/commons-vfs2-project-2.4.1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.5.0/commons-vfs2-project-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.6.0/commons-vfs2-project-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.7.0/commons-vfs2-project-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.8.0/commons-vfs2-project-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-vfs2-project/2.9.0/commons-vfs2-project-2.9.0.jar returned status 404

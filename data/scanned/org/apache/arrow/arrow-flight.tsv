@@ -21,3 +21,26 @@
 0.15.1	jar-with-dependencies	2019-11-01T20:25:49Z	
 0.15.1	shaded	2019-11-01T20:26:12Z	
 0.15.1	shaded-ext	2019-11-01T20:26:16Z	
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/10.0.0/arrow-flight-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/10.0.1/arrow-flight-10.0.1.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/11.0.0/arrow-flight-11.0.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/12.0.0/arrow-flight-12.0.0.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/12.0.1/arrow-flight-12.0.1.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/13.0.0/arrow-flight-13.0.0.jar returned status 404
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/14.0.0/arrow-flight-14.0.0.jar returned status 404
+14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/14.0.1/arrow-flight-14.0.1.jar returned status 404
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/14.0.2/arrow-flight-14.0.2.jar returned status 404
+15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/15.0.0/arrow-flight-15.0.0.jar returned status 404
+15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/15.0.1/arrow-flight-15.0.1.jar returned status 404
+15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/15.0.2/arrow-flight-15.0.2.jar returned status 404
+16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/16.0.0/arrow-flight-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/16.1.0/arrow-flight-16.1.0.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/17.0.0/arrow-flight-17.0.0.jar returned status 404
+18.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/18.0.0/arrow-flight-18.0.0.jar returned status 404
+18.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/18.1.0/arrow-flight-18.1.0.jar returned status 404
+18.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/18.2.0/arrow-flight-18.2.0.jar returned status 404
+18.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/18.3.0/arrow-flight-18.3.0.jar returned status 404
+19.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/19.0.0/arrow-flight-19.0.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/7.0.0/arrow-flight-7.0.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/8.0.0/arrow-flight-8.0.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-flight/9.0.0/arrow-flight-9.0.0.jar returned status 404

@@ -242,3 +242,10 @@
 1.0.8-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-07-05T11:30:48Z	3.6.1
 1.0.9-slim	named	ai.platon.gora	gora-core-shaded	2026-07-06T14:40:28Z	3.6.1
 1.0.9-slim	named	ai.platon.gora	gora-mongodb-shaded	2026-07-06T14:40:28Z	3.6.1
+2.75.0	named	org.apache.beam	beam-runners-flink-2.0-job-server	2026-07-08T23:57:43Z	3.6.1
+2.75.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2026-07-08T23:57:46Z	3.6.1
+2.75.0	named	org.apache.beam	beam-examples-multi-language	2026-07-08T23:57:47Z	3.6.1
+2.75.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2026-07-08T23:57:48Z	3.6.1
+2.75.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2026-07-08T23:57:57Z	3.6.1
+2.75.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2026-07-08T23:58:07Z	3.6.1
+2.75.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-07-08T23:58:09Z	3.6.1

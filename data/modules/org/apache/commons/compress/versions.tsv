@@ -1356,3 +1356,9 @@
 1.20.5	named	org.apache.flink	flink-sql-avro-confluent-registry	2026-06-08T09:24:28Z	1.26.0
 1.0.20	named	org.eclipse.tahu	tahu-edge-compat	2026-07-01T17:44:30Z	1.28.0
 1.0.20	named	org.eclipse.tahu	tahu-host-compat	2026-07-01T17:44:30Z	1.28.0
+2.75.0	named	org.apache.beam	beam-runners-direct-java	2026-07-08T23:57:47Z	1.26.2
+2.75.0	named	org.apache.beam	beam-sdks-java-core	2026-07-08T23:57:55Z	1.26.2
+2.75.0	named	org.apache.beam	beam-sdks-java-expansion-service-app	2026-07-08T23:57:55Z	1.26.2
+2.75.0	named	org.apache.beam	beam-sdks-java-io-amazon-web-services2-expansion-service	2026-07-08T23:58:09Z	1.26.2
+2.75.0	named	org.apache.beam	beam-sdks-java-io-debezium-expansion-service	2026-07-08T23:58:10Z	1.26.2
+2.75.0	named	org.apache.beam	beam-sdks-java-transform-service	2026-07-08T23:58:34Z	1.26.2

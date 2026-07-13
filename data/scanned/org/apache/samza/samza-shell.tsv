@@ -20,3 +20,4 @@
 1.5.1		2020-08-19T23:35:17Z	
 1.6.0		2021-01-07T02:10:59Z	
 1.7.0		2022-03-09T19:31:17Z	
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/samza/samza-shell/1.8.0/samza-shell-1.8.0.jar returned status 404
