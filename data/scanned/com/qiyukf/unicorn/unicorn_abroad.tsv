@@ -22,12 +22,23 @@
 11.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/11.5.0/unicorn_abroad-11.5.0.jar returned status 404
 11.6.0		2026-05-28T11:56:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/11.6.0/unicorn_abroad-11.6.0.jar returned status 404
 11.7.0		2026-06-22T08:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/11.7.0/unicorn_abroad-11.7.0.jar returned status 404
+11.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/11.8.0/unicorn_abroad-11.8.0.jar returned status 404
+7.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.10.0/unicorn_abroad-7.10.0.jar returned status 404
+7.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.11.0/unicorn_abroad-7.11.0.jar returned status 404
+7.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.12.0/unicorn_abroad-7.12.0.jar returned status 404
+7.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.8.0/unicorn_abroad-7.8.0.jar returned status 404
+7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.9.0/unicorn_abroad-7.9.0.jar returned status 404
+7.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/7.9.1/unicorn_abroad-7.9.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.1.0/unicorn_abroad-8.1.0.jar returned status 404
 8.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.10.0/unicorn_abroad-8.10.0.jar returned status 404
 8.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.10.1/unicorn_abroad-8.10.1.jar returned status 404
 8.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.11.0/unicorn_abroad-8.11.0.jar returned status 404
 8.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.11.1/unicorn_abroad-8.11.1.jar returned status 404
 8.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.12.0/unicorn_abroad-8.12.0.jar returned status 404
 8.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.12.1/unicorn_abroad-8.12.1.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.2.0/unicorn_abroad-8.2.0.jar returned status 404
+8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.3.0/unicorn_abroad-8.3.0.jar returned status 404
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.3.1/unicorn_abroad-8.3.1.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.5.0/unicorn_abroad-8.5.0.jar returned status 404
 8.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.5.1/unicorn_abroad-8.5.1.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qiyukf/unicorn/unicorn_abroad/8.6.0/unicorn_abroad-8.6.0.jar returned status 404

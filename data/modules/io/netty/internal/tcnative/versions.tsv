@@ -779,6 +779,7 @@
 4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-3_2-12	2026-07-03T08:49:49Z	2.0.78.Final
 4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	2026-07-03T08:49:49Z	2.0.78.Final
 2.74.0	named	com.google.api	gapic-generator-java	2026-07-08T00:26:50Z	2.0.75.Final
+4.38	named	com.seaweedfs	seaweedfs-hadoop3-client	2026-07-09T00:07:05Z	2.0.74.Final
 0.16.0	named	com.spotify.confidence	openfeature-provider-local	2026-07-09T02:32:25Z	2.0.72.Final
 11.2.42	named	com.datarobot	spooler-kafka	2026-07-11T00:07:55Z	2.0.75.Final
 4.1.10	named	com.instaclustr	esop-gcp	2026-07-11T00:14:41Z	2.0.70.Final

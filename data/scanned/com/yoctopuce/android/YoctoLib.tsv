@@ -1,3 +1,6 @@
+1.10.1234			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.1234/YoctoLib-1.10.1234.jar returned status 404
+1.10.20230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.20230/YoctoLib-1.10.20230.jar returned status 404
+1.10.20255			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.20255/YoctoLib-1.10.20255.jar returned status 404
 1.10.45344			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.45344/YoctoLib-1.10.45344.jar returned status 404
 1.10.45704			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.45704/YoctoLib-1.10.45704.jar returned status 404
 1.10.46606			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoctopuce/android/YoctoLib/1.10.46606/YoctoLib-1.10.46606.jar returned status 404

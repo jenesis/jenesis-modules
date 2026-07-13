@@ -277,3 +277,5 @@ com.remondis.remap
 discord4j.discordjson
 discord4j.discordjson.api
 discord4j.discordjson.encoding
+org.seleniumhq.selenium.grid
+com.headius.invokebinder

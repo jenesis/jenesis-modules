@@ -60,8 +60,12 @@
 1.0.4-rc.106		2026-06-16T17:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.4-rc.106/sdk-media-1.0.4-rc.106.jar returned status 404
 1.0.4-rc.98		2026-06-12T20:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.4-rc.98/sdk-media-1.0.4-rc.98.jar returned status 404
 1.0.4-rc.99		2026-06-15T14:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.4-rc.99/sdk-media-1.0.4-rc.99.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5/sdk-media-1.0.5.jar returned status 404
 1.0.5-beta.119		2026-07-02T16:44:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.119/sdk-media-1.0.5-beta.119.jar returned status 404
 1.0.5-beta.120		2026-07-02T19:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.120/sdk-media-1.0.5-beta.120.jar returned status 404
 1.0.5-beta.121		2026-07-06T13:21:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.121/sdk-media-1.0.5-beta.121.jar returned status 404
 1.0.5-beta.122		2026-07-06T20:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.122/sdk-media-1.0.5-beta.122.jar returned status 404
+1.0.5-beta.126			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.126/sdk-media-1.0.5-beta.126.jar returned status 404
+1.0.5-beta.127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-beta.127/sdk-media-1.0.5-beta.127.jar returned status 404
 1.0.5-rc.117		2026-07-01T21:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-rc.117/sdk-media-1.0.5-rc.117.jar returned status 404
+1.0.5-rc.123			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-media/1.0.5-rc.123/sdk-media-1.0.5-rc.123.jar returned status 404
