@@ -2,3 +2,4 @@
 1.1.0	metadata	2026-06-29T03:57:10Z	
 1.2.0		2026-07-04T07:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/texport/ofd-network-client-iosx64/1.2.0/ofd-network-client-iosx64-1.2.0.jar returned status 404
 1.2.0	metadata	2026-07-04T07:02:08Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/texport/ofd-network-client-iosx64/1.2.1/ofd-network-client-iosx64-1.2.1.jar returned status 404

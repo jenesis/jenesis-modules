@@ -32,5 +32,21 @@
 12.5		2023-08-29T05:20:52Z	
 13.0		2023-10-20T10:06:38Z	
 13.1		2023-11-14T23:43:12Z	
+13.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.10/feign-spring4-13.10.jar returned status 404
+13.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.11/feign-spring4-13.11.jar returned status 404
+13.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.12/feign-spring4-13.12.jar returned status 404
+13.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.13/feign-spring4-13.13.jar returned status 404
 13.2		2024-01-25T07:31:45Z	
 13.2.1		2024-02-07T06:44:57Z	
+13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.3/feign-spring4-13.3.jar returned status 404
+13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.4/feign-spring4-13.4.jar returned status 404
+13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.5/feign-spring4-13.5.jar returned status 404
+13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.6/feign-spring4-13.6.jar returned status 404
+13.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.6.1/feign-spring4-13.6.1.jar returned status 404
+13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.7/feign-spring4-13.7.jar returned status 404
+13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.8/feign-spring4-13.8.jar returned status 404
+13.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.8.1/feign-spring4-13.8.1.jar returned status 404
+13.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.9/feign-spring4-13.9.jar returned status 404
+13.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.9.1/feign-spring4-13.9.1.jar returned status 404
+13.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.9.2/feign-spring4-13.9.2.jar returned status 404
+13.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openfeign/feign-spring4/13.9.3/feign-spring4-13.9.3.jar returned status 404

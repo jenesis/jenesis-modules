@@ -11,5 +11,9 @@
 3.0.00.4		2025-08-20T18:26:28Z	
 3.0.00.5		2025-08-20T18:46:34Z	
 3.0.00.6		2025-08-20T19:00:59Z	
+3.0.00.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.00.7/blipchat-3.0.00.7.jar returned status 404
+3.0.00.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.00.8/blipchat-3.0.00.8.jar returned status 404
+3.0.00.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.00.9/blipchat-3.0.00.9.jar returned status 404
+3.0.01.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.01.0/blipchat-3.0.01.0.jar returned status 404
 3.0.01.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.01.1/blipchat-3.0.01.1.jar returned status 404
 3.0.01.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takenet/blipchat/3.0.01.2/blipchat-3.0.01.2.jar returned status 404

@@ -1,3 +1,7 @@
 1.0		2024-05-10T05:04:55Z	
 1.1.0		2024-05-10T05:32:57Z	
 1.1.1		2024-05-10T07:54:42Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/behnazh-w/demo/maven-test-provenance/2.0.0/maven-test-provenance-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/behnazh-w/demo/maven-test-provenance/2.0.1/maven-test-provenance-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/behnazh-w/demo/maven-test-provenance/2.0.2/maven-test-provenance-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/behnazh-w/demo/maven-test-provenance/2.0.3/maven-test-provenance-2.0.3.jar returned status 404

@@ -8,3 +8,11 @@
 0.4.0		2015-10-28T16:31:58Z	
 0.4.0-1		2015-10-30T00:24:07Z	
 0.4.0-2		2015-11-04T10:11:38Z	
+0.4.1-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.1/hivemall-0.4.1-alpha.1.jar returned status 404
+0.4.1-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.2/hivemall-0.4.1-alpha.2.jar returned status 404
+0.4.1-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.3/hivemall-0.4.1-alpha.3.jar returned status 404
+0.4.1-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.4/hivemall-0.4.1-alpha.4.jar returned status 404
+0.4.1-alpha.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.5/hivemall-0.4.1-alpha.5.jar returned status 404
+0.4.1-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.1-alpha.6/hivemall-0.4.1-alpha.6.jar returned status 404
+0.4.2-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.2-rc.1/hivemall-0.4.2-rc.1.jar returned status 404
+0.4.2-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/myui/hivemall/0.4.2-rc.2/hivemall-0.4.2-rc.2.jar returned status 404

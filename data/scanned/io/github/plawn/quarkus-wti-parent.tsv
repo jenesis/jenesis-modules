@@ -4,3 +4,4 @@
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/plawn/quarkus-wti-parent/1.2.1/quarkus-wti-parent-1.2.1.jar returned status 404
 1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/plawn/quarkus-wti-parent/1.2.4/quarkus-wti-parent-1.2.4.jar returned status 404
 1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/plawn/quarkus-wti-parent/1.2.5/quarkus-wti-parent-1.2.5.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/plawn/quarkus-wti-parent/1.3.0/quarkus-wti-parent-1.3.0.jar returned status 404
