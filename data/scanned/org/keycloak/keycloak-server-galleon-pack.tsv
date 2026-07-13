@@ -1,1 +1,18 @@
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/14.0.0/keycloak-server-galleon-pack-14.0.0.jar returned status 404
+15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/15.0.0/keycloak-server-galleon-pack-15.0.0.jar returned status 404
+15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/15.0.1/keycloak-server-galleon-pack-15.0.1.jar returned status 404
+15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/15.0.2/keycloak-server-galleon-pack-15.0.2.jar returned status 404
+15.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/15.1.0/keycloak-server-galleon-pack-15.1.0.jar returned status 404
+15.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/15.1.1/keycloak-server-galleon-pack-15.1.1.jar returned status 404
+16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/16.0.0/keycloak-server-galleon-pack-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/16.1.0/keycloak-server-galleon-pack-16.1.0.jar returned status 404
+16.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/16.1.1/keycloak-server-galleon-pack-16.1.1.jar returned status 404
 17.0.0		2022-02-11T19:32:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/17.0.0/keycloak-server-galleon-pack-17.0.0.jar returned status 404
+17.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/17.0.1/keycloak-server-galleon-pack-17.0.1.jar returned status 404
+18.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/18.0.0/keycloak-server-galleon-pack-18.0.0.jar returned status 404
+18.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/18.0.1/keycloak-server-galleon-pack-18.0.1.jar returned status 404
+18.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/18.0.2/keycloak-server-galleon-pack-18.0.2.jar returned status 404
+19.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/19.0.0/keycloak-server-galleon-pack-19.0.0.jar returned status 404
+19.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/19.0.1/keycloak-server-galleon-pack-19.0.1.jar returned status 404
+19.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/19.0.2/keycloak-server-galleon-pack-19.0.2.jar returned status 404
+19.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-server-galleon-pack/19.0.3/keycloak-server-galleon-pack-19.0.3.jar returned status 404
