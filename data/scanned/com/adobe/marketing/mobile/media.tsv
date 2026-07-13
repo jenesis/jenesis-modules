@@ -1,3 +1,12 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/1.0.0/media-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/1.0.1/media-1.0.1.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/1.1.0/media-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/1.1.1/media-1.1.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/2.0.0/media-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/2.0.1/media-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/2.1.0/media-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/2.1.1/media-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/2.1.2/media-2.1.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/3.0.0/media-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/3.1.0/media-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/marketing/mobile/media/3.1.1/media-3.1.1.jar returned status 404

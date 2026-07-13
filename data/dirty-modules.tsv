@@ -33,3 +33,6 @@ com.lottie4j.core
 com.zaxxer.nuprocess
 com.stripe
 emagin.jfxcore.demoapp
+io.netty.internal.tcnative
+info.picocli
+com.hazelcast.jet.elastic

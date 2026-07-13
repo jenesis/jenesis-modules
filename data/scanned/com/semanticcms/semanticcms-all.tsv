@@ -1,8 +1,25 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.0/semanticcms-all-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.1/semanticcms-all-1.1.jar returned status 404
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.10.0/semanticcms-all-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.11.0/semanticcms-all-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.12.0/semanticcms-all-1.12.0.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.12.1/semanticcms-all-1.12.1.jar returned status 404
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.12.2/semanticcms-all-1.12.2.jar returned status 404
 1.13.0		2021-07-19T13:12:25Z	
 1.13.1		2021-10-19T06:38:10Z	
 1.13.2		2022-02-17T04:25:57Z	
 1.13.3		2022-05-15T13:17:47Z	
 1.14.0		2023-09-25T07:57:19Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.2.0/semanticcms-all-1.2.0.jar returned status 404
 1.22.0		2026-02-03T06:36:03Z	
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.3.0/semanticcms-all-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.3.1/semanticcms-all-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.3.2/semanticcms-all-1.3.2.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.4.0/semanticcms-all-1.4.0.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.5.0/semanticcms-all-1.5.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.6.0/semanticcms-all-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.7.0/semanticcms-all-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.8.0/semanticcms-all-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/semanticcms/semanticcms-all/1.9.0/semanticcms-all-1.9.0.jar returned status 404
 2.0.1		2026-02-10T01:42:36Z	
 2.1.0		2026-05-26T22:29:46Z	

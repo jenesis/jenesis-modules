@@ -11,3 +11,4 @@
 3.0.3		2023-03-14T07:43:13Z	
 4.0.0		2023-04-06T09:58:15Z	
 4.0.1		2023-10-25T06:28:06Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xdev-software/vaadin-date-range-picker/4.0.2/vaadin-date-range-picker-4.0.2.jar returned status 404

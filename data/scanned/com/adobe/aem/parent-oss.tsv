@@ -1,2 +1,10 @@
+0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/0.0.10/parent-oss-0.0.10.jar returned status 404
+0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/0.0.12/parent-oss-0.0.12.jar returned status 404
+0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/0.0.14/parent-oss-0.0.14.jar returned status 404
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/1/parent-oss-1.jar returned status 404
 10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/10/parent-oss-10.jar returned status 404
 12		2026-06-03T13:44:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/12/parent-oss-12.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/2/parent-oss-2.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/4/parent-oss-4.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/6/parent-oss-6.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/aem/parent-oss/8/parent-oss-8.jar returned status 404
