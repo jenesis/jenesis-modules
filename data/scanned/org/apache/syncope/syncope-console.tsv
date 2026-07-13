@@ -1,35 +1,70 @@
+1.0.0-RC1-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.0-RC1-incubating/syncope-console-1.0.0-RC1-incubating.jar returned status 404
 1.0.0-RC1-incubating	classes	2012-05-24T12:00:48Z	
+1.0.0-RC2-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.0-RC2-incubating/syncope-console-1.0.0-RC2-incubating.jar returned status 404
 1.0.0-RC2-incubating	classes	2012-06-25T09:27:14Z	
+1.0.0-RC3-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.0-RC3-incubating/syncope-console-1.0.0-RC3-incubating.jar returned status 404
 1.0.0-RC3-incubating	classes	2012-07-18T14:38:21Z	
+1.0.0-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.0-incubating/syncope-console-1.0.0-incubating.jar returned status 404
 1.0.0-incubating	classes	2012-08-07T16:34:35Z	
+1.0.1-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.1-incubating/syncope-console-1.0.1-incubating.jar returned status 404
 1.0.1-incubating	classes	2012-08-30T08:50:00Z	
+1.0.2-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.2-incubating/syncope-console-1.0.2-incubating.jar returned status 404
 1.0.2-incubating	classes	2012-10-02T08:14:13Z	
+1.0.3-incubating			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.3-incubating/syncope-console-1.0.3-incubating.jar returned status 404
 1.0.3-incubating	classes	2012-10-30T13:54:31Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.4/syncope-console-1.0.4.jar returned status 404
 1.0.4	classes	2012-12-10T13:43:15Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.5/syncope-console-1.0.5.jar returned status 404
 1.0.5	classes	2013-01-23T18:19:48Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.6/syncope-console-1.0.6.jar returned status 404
 1.0.6	classes	2013-02-27T12:43:48Z	
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.7/syncope-console-1.0.7.jar returned status 404
 1.0.7	classes	2013-03-26T09:23:14Z	
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.8/syncope-console-1.0.8.jar returned status 404
 1.0.8	classes	2013-04-18T08:56:48Z	
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.0.9/syncope-console-1.0.9.jar returned status 404
 1.0.9	classes	2014-04-11T09:21:01Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.0/syncope-console-1.1.0.jar returned status 404
 1.1.0	classes	2013-04-05T10:56:56Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.1/syncope-console-1.1.1.jar returned status 404
 1.1.1	classes	2013-04-29T15:49:50Z	
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.2/syncope-console-1.1.2.jar returned status 404
 1.1.2	classes	2013-06-11T13:35:26Z	
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.3/syncope-console-1.1.3.jar returned status 404
 1.1.3	classes	2013-07-12T08:25:49Z	
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.4/syncope-console-1.1.4.jar returned status 404
 1.1.4	classes	2013-09-27T08:18:56Z	
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.5/syncope-console-1.1.5.jar returned status 404
 1.1.5	classes	2013-11-28T10:30:53Z	
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.6/syncope-console-1.1.6.jar returned status 404
 1.1.6	classes	2014-02-22T16:18:52Z	
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.7/syncope-console-1.1.7.jar returned status 404
 1.1.7	classes	2014-04-11T11:00:33Z	
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.1.8/syncope-console-1.1.8.jar returned status 404
 1.1.8	classes	2014-07-03T11:27:25Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.0/syncope-console-1.2.0.jar returned status 404
 1.2.0	classes	2014-10-03T12:56:54Z	
+1.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.0-M1/syncope-console-1.2.0-M1.jar returned status 404
 1.2.0-M1	classes	2014-09-08T15:37:33Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.1/syncope-console-1.2.1.jar returned status 404
 1.2.1	classes	2014-11-17T08:51:40Z	
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.10/syncope-console-1.2.10.jar returned status 404
 1.2.10	classes	2017-01-24T08:18:20Z	
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.11/syncope-console-1.2.11.jar returned status 404
 1.2.11	classes	2018-03-13T14:35:34Z	
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.2/syncope-console-1.2.2.jar returned status 404
 1.2.2	classes	2015-01-30T12:14:14Z	
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.3/syncope-console-1.2.3.jar returned status 404
 1.2.3	classes	2015-03-20T11:56:05Z	
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.4/syncope-console-1.2.4.jar returned status 404
 1.2.4	classes	2015-05-05T12:06:39Z	
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.5/syncope-console-1.2.5.jar returned status 404
 1.2.5	classes	2015-07-28T15:07:36Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.6/syncope-console-1.2.6.jar returned status 404
 1.2.6	classes	2015-11-05T14:44:31Z	
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.7/syncope-console-1.2.7.jar returned status 404
 1.2.7	classes	2016-01-15T10:24:04Z	
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.8/syncope-console-1.2.8.jar returned status 404
 1.2.8	classes	2016-06-03T07:39:50Z	
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/syncope/syncope-console/1.2.9/syncope-console-1.2.9.jar returned status 404
 1.2.9	classes	2016-10-07T09:17:00Z	

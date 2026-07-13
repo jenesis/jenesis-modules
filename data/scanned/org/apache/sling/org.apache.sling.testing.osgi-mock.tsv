@@ -26,3 +26,31 @@
 2.3.4		2017-10-12T20:12:57Z	
 2.3.6		2017-12-05T12:31:09Z	
 2.3.8		2018-03-20T11:32:10Z	
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.0/org.apache.sling.testing.osgi-mock-2.4.0.jar returned status 404
+2.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.10/org.apache.sling.testing.osgi-mock-2.4.10.jar returned status 404
+2.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.14/org.apache.sling.testing.osgi-mock-2.4.14.jar returned status 404
+2.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.16/org.apache.sling.testing.osgi-mock-2.4.16.jar returned status 404
+2.4.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.18/org.apache.sling.testing.osgi-mock-2.4.18.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.2/org.apache.sling.testing.osgi-mock-2.4.2.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.4/org.apache.sling.testing.osgi-mock-2.4.4.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.6/org.apache.sling.testing.osgi-mock-2.4.6.jar returned status 404
+2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/2.4.8/org.apache.sling.testing.osgi-mock-2.4.8.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.0.0/org.apache.sling.testing.osgi-mock-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.1.0/org.apache.sling.testing.osgi-mock-3.1.0.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.1.2/org.apache.sling.testing.osgi-mock-3.1.2.jar returned status 404
+3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.1.4/org.apache.sling.testing.osgi-mock-3.1.4.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.2.0/org.apache.sling.testing.osgi-mock-3.2.0.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.2.2/org.apache.sling.testing.osgi-mock-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.0/org.apache.sling.testing.osgi-mock-3.3.0.jar returned status 404
+3.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.10/org.apache.sling.testing.osgi-mock-3.3.10.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.2/org.apache.sling.testing.osgi-mock-3.3.2.jar returned status 404
+3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.4/org.apache.sling.testing.osgi-mock-3.3.4.jar returned status 404
+3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.6/org.apache.sling.testing.osgi-mock-3.3.6.jar returned status 404
+3.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.3.8/org.apache.sling.testing.osgi-mock-3.3.8.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.4.0/org.apache.sling.testing.osgi-mock-3.4.0.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.4.2/org.apache.sling.testing.osgi-mock-3.4.2.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.5.0/org.apache.sling.testing.osgi-mock-3.5.0.jar returned status 404
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.5.2/org.apache.sling.testing.osgi-mock-3.5.2.jar returned status 404
+3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.5.4/org.apache.sling.testing.osgi-mock-3.5.4.jar returned status 404
+3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.5.6/org.apache.sling.testing.osgi-mock-3.5.6.jar returned status 404
+3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/org.apache.sling.testing.osgi-mock/3.5.8/org.apache.sling.testing.osgi-mock-3.5.8.jar returned status 404

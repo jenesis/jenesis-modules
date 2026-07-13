@@ -1,6 +1,29 @@
 0.10.0		2021-12-08T06:01:41Z	
 0.10.1		2022-01-26T06:38:05Z	
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.11.0/hudi-examples-0.11.0.jar returned status 404
+0.11.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.11.0-rc3/hudi-examples-0.11.0-rc3.jar returned status 404
+0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.11.1/hudi-examples-0.11.1.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.12.0/hudi-examples-0.12.0.jar returned status 404
+0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.12.1/hudi-examples-0.12.1.jar returned status 404
+0.12.1-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.12.1-rc2/hudi-examples-0.12.1-rc2.jar returned status 404
+0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.12.2/hudi-examples-0.12.2.jar returned status 404
+0.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.12.3/hudi-examples-0.12.3.jar returned status 404
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.13.0/hudi-examples-0.13.0.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.13.1/hudi-examples-0.13.1.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.14.0/hudi-examples-0.14.0.jar returned status 404
+0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.14.1/hudi-examples-0.14.1.jar returned status 404
+0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.14.2/hudi-examples-0.14.2.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.15.0/hudi-examples-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/0.15.1/hudi-examples-0.15.1.jar returned status 404
 0.6.0		2020-08-23T07:09:28Z	
 0.7.0		2021-01-25T23:47:01Z	
 0.8.0		2021-04-06T01:32:47Z	
 0.9.0		2021-08-25T00:06:37Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.0.0/hudi-examples-1.0.0.jar returned status 404
+1.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.0.0-beta1/hudi-examples-1.0.0-beta1.jar returned status 404
+1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.0.0-beta2/hudi-examples-1.0.0-beta2.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.0.1/hudi-examples-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.0.2/hudi-examples-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.1.0/hudi-examples-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.1.1/hudi-examples-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/hudi/hudi-examples/1.2.0/hudi-examples-1.2.0.jar returned status 404

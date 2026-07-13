@@ -4946,6 +4946,8 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 5.5.0.78541	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-07-06T00:06:19Z	2.14.0
 1.0.10-5	named	com.aliyun	aliyun-cls-jdbc	2026-07-06T03:08:57Z	2.10.1
 1.0.10-6	named	com.aliyun	aliyun-cls-jdbc	2026-07-06T03:18:17Z	2.10.1
+4.2.3	named	org.apache.pulsar	jclouds-shaded	2026-07-07T02:21:38Z	2.10.1
+4.0.12	named	org.apache.pulsar	jclouds-shaded	2026-07-07T02:21:39Z	2.10.1
 4.1.0-rc1	named	com.snowflake	snowflake-kafka-connector	2026-07-07T06:59:16Z	2.8.9
 8.35.0.45121	named	org.sonarsource.java	java-custom-rules-example	2026-07-08T00:12:20Z	2.14.0
 0.1.4-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-07-08T23:53:51Z	2.12.1

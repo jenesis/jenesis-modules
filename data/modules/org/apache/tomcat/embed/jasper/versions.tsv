@@ -222,3 +222,6 @@
 10.1.56	named	org.apache.tomcat.embed	tomcat-embed-jasper	2026-06-17T23:42:35Z	10.1.56
 9.0.119	named	org.apache.tomcat.embed	tomcat-embed-jasper	2026-06-18T07:13:49Z	9.0.119
 9.0.119.0	named	com.heroku	webapp-runner-main	2026-07-06T08:42:44Z	9.0.119
+10.1.57	named	org.apache.tomcat.embed	tomcat-embed-jasper	2026-07-08T02:21:33Z	10.1.57
+9.0.120	named	org.apache.tomcat.embed	tomcat-embed-jasper	2026-07-08T02:21:34Z	9.0.120
+11.0.24	named	org.apache.tomcat.embed	tomcat-embed-jasper	2026-07-09T02:36:41Z	11.0.24

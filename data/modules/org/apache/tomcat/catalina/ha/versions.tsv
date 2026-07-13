@@ -196,3 +196,6 @@
 11.0.23	named	org.apache.tomcat	tomcat-catalina-ha	2026-06-17T22:05:00Z	11.0.23
 10.1.56	named	org.apache.tomcat	tomcat-catalina-ha	2026-06-17T23:39:41Z	10.1.56
 9.0.119	named	org.apache.tomcat	tomcat-catalina-ha	2026-06-18T07:12:39Z	9.0.119
+9.0.120	named	org.apache.tomcat	tomcat-catalina-ha	2026-07-08T02:21:31Z	9.0.120
+10.1.57	named	org.apache.tomcat	tomcat-catalina-ha	2026-07-08T02:21:32Z	10.1.57
+11.0.24	named	org.apache.tomcat	tomcat-catalina-ha	2026-07-09T02:36:51Z	11.0.24

@@ -1,3 +1,8 @@
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-standalone-mode-repository-jdbc/5.2.0/shardingsphere-standalone-mode-repository-jdbc-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-standalone-mode-repository-jdbc/5.2.1/shardingsphere-standalone-mode-repository-jdbc-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-standalone-mode-repository-jdbc/5.3.0/shardingsphere-standalone-mode-repository-jdbc-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-standalone-mode-repository-jdbc/5.3.1/shardingsphere-standalone-mode-repository-jdbc-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-standalone-mode-repository-jdbc/5.3.2/shardingsphere-standalone-mode-repository-jdbc-5.3.2.jar returned status 404
 5.4.0		2023-07-04T12:00:20Z	
 5.4.1		2023-10-17T13:01:14Z	
 5.5.0		2024-04-24T03:58:34Z	

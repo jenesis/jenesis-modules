@@ -13,3 +13,4 @@
 4.1.0		2024-11-08T23:17:03Z	
 5.0.0		2025-01-07T23:39:05Z	
 6.0.0		2025-02-18T23:16:31Z	
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/datasketches/datasketches-memory/7.0.0/datasketches-memory-7.0.0.jar returned status 404

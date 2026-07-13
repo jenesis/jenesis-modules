@@ -1,3 +1,7 @@
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-sql-federation-executor/5.2.1/shardingsphere-sql-federation-executor-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-sql-federation-executor/5.3.0/shardingsphere-sql-federation-executor-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-sql-federation-executor/5.3.1/shardingsphere-sql-federation-executor-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shardingsphere/shardingsphere-sql-federation-executor/5.3.2/shardingsphere-sql-federation-executor-5.3.2.jar returned status 404
 5.5.0		2024-04-24T04:05:02Z	
 5.5.1		2024-10-15T06:16:56Z	
 5.5.2		2025-01-16T17:56:09Z	

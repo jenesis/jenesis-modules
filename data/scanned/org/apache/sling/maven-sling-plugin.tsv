@@ -13,3 +13,5 @@
 2.3.4		2017-10-11T19:20:06Z	
 2.3.6		2018-05-04T08:01:25Z	
 2.3.8		2018-08-14T15:53:14Z	
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/maven-sling-plugin/2.4.0/maven-sling-plugin-2.4.0.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sling/maven-sling-plugin/2.4.2/maven-sling-plugin-2.4.2.jar returned status 404

@@ -1,6 +1,8 @@
 2.3		2007-06-23T09:21:29Z	
 2.4		2007-06-23T09:21:29Z	
+2.4-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven-xbean-plugin/2.4-SNAPSHOT/maven-xbean-plugin-2.4-SNAPSHOT.jar returned status 404
 2.5		2007-06-23T09:21:29Z	
+2.5-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven-xbean-plugin/2.5-SNAPSHOT/maven-xbean-plugin-2.5-SNAPSHOT.jar returned status 404
 2.6		2007-06-23T09:21:28Z	
 2.7		2007-06-23T09:21:29Z	
 2.8		2007-06-23T09:21:29Z	

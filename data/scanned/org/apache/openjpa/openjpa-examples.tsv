@@ -14,3 +14,24 @@
 2.0.0-beta2		2010-02-27T07:13:20Z	
 2.0.0-beta3		2010-03-29T18:10:50Z	
 2.0.1		2010-08-26T02:37:37Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.1.0/openjpa-examples-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.1.1/openjpa-examples-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.2.0/openjpa-examples-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.2.1/openjpa-examples-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.2.2/openjpa-examples-2.2.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.3.0/openjpa-examples-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.4.0/openjpa-examples-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.4.1/openjpa-examples-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.4.2/openjpa-examples-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/2.4.3/openjpa-examples-2.4.3.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.0.0/openjpa-examples-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.1.0/openjpa-examples-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.1.1/openjpa-examples-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.1.2/openjpa-examples-3.1.2.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.2.0/openjpa-examples-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.2.1/openjpa-examples-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/3.2.2/openjpa-examples-3.2.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/4.0.0/openjpa-examples-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/4.0.1/openjpa-examples-4.0.1.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/4.1.0/openjpa-examples-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/openjpa/openjpa-examples/4.1.1/openjpa-examples-4.1.1.jar returned status 404

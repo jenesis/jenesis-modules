@@ -1,8 +1,18 @@
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0/shindig-server-resources-2.5.0.jar returned status 404
 2.5.0	test-javadoc	2013-07-27T00:09:23Z	
+2.5.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta1/shindig-server-resources-2.5.0-beta1.jar returned status 404
 2.5.0-beta1	test-javadoc	2012-03-26T16:02:57Z	
+2.5.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta2/shindig-server-resources-2.5.0-beta2.jar returned status 404
 2.5.0-beta2	test-javadoc	2012-06-19T01:23:41Z	
+2.5.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta3/shindig-server-resources-2.5.0-beta3.jar returned status 404
 2.5.0-beta3	test-javadoc	2012-07-26T02:25:28Z	
+2.5.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta4/shindig-server-resources-2.5.0-beta4.jar returned status 404
 2.5.0-beta4	test-javadoc	2012-08-30T12:20:20Z	
+2.5.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta5/shindig-server-resources-2.5.0-beta5.jar returned status 404
 2.5.0-beta5	test-javadoc	2012-10-23T02:03:44Z	
+2.5.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-beta6/shindig-server-resources-2.5.0-beta6.jar returned status 404
 2.5.0-beta6	test-javadoc	2013-03-13T00:09:56Z	
+2.5.0-update1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.0-update1/shindig-server-resources-2.5.0-update1.jar returned status 404
 2.5.0-update1	test-javadoc	2013-10-16T01:30:47Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.1/shindig-server-resources-2.5.1.jar returned status 404
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/shindig/shindig-server-resources/2.5.2/shindig-server-resources-2.5.2.jar returned status 404

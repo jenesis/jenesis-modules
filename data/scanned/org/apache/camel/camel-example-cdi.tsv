@@ -1,3 +1,31 @@
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.11.0/camel-example-cdi-2.11.0.jar returned status 404
+2.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.11.1/camel-example-cdi-2.11.1.jar returned status 404
+2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.11.2/camel-example-cdi-2.11.2.jar returned status 404
+2.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.11.3/camel-example-cdi-2.11.3.jar returned status 404
+2.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.11.4/camel-example-cdi-2.11.4.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.0/camel-example-cdi-2.12.0.jar returned status 404
+2.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.1/camel-example-cdi-2.12.1.jar returned status 404
+2.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.2/camel-example-cdi-2.12.2.jar returned status 404
+2.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.3/camel-example-cdi-2.12.3.jar returned status 404
+2.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.4/camel-example-cdi-2.12.4.jar returned status 404
+2.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.12.5/camel-example-cdi-2.12.5.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.13.0/camel-example-cdi-2.13.0.jar returned status 404
+2.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.13.1/camel-example-cdi-2.13.1.jar returned status 404
+2.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.13.2/camel-example-cdi-2.13.2.jar returned status 404
+2.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.13.3/camel-example-cdi-2.13.3.jar returned status 404
+2.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.13.4/camel-example-cdi-2.13.4.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.14.0/camel-example-cdi-2.14.0.jar returned status 404
+2.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.14.1/camel-example-cdi-2.14.1.jar returned status 404
+2.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.14.2/camel-example-cdi-2.14.2.jar returned status 404
+2.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.14.3/camel-example-cdi-2.14.3.jar returned status 404
+2.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.14.4/camel-example-cdi-2.14.4.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.0/camel-example-cdi-2.15.0.jar returned status 404
+2.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.1/camel-example-cdi-2.15.1.jar returned status 404
+2.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.2/camel-example-cdi-2.15.2.jar returned status 404
+2.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.3/camel-example-cdi-2.15.3.jar returned status 404
+2.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.4/camel-example-cdi-2.15.4.jar returned status 404
+2.15.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.5/camel-example-cdi-2.15.5.jar returned status 404
+2.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/camel-example-cdi/2.15.6/camel-example-cdi-2.15.6.jar returned status 404
 2.16.0		2015-10-05T17:16:41Z	
 2.16.1		2015-11-17T23:39:38Z	
 2.16.2		2016-01-22T22:01:06Z	
