@@ -1320,3 +1320,5 @@ litebridge.orm
 litebridge.db.sqlite
 org.conscrypt
 org.paramixel.api
+org.talend.sdk.component.runtime.server
+org.talend.sdk.component.runtime.starter
