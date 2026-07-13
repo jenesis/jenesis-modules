@@ -6,3 +6,26 @@
 2.1.6		2015-01-16T11:35:05Z	
 2.2.0		2015-02-11T11:17:14Z	
 2.2.2		2015-02-26T13:06:55Z	
+2.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.2.8/codegen-2.2.8.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.3.0/codegen-2.3.0.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.3.2/codegen-2.3.2.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.3.4/codegen-2.3.4.jar returned status 404
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.3.6/codegen-2.3.6.jar returned status 404
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.3.8/codegen-2.3.8.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.4.0/codegen-2.4.0.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.4.2/codegen-2.4.2.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.4.4/codegen-2.4.4.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.4.6/codegen-2.4.6.jar returned status 404
+2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.4.8/codegen-2.4.8.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.5.0/codegen-2.5.0.jar returned status 404
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.5.2/codegen-2.5.2.jar returned status 404
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.5.4/codegen-2.5.4.jar returned status 404
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.5.6/codegen-2.5.6.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.6.0/codegen-2.6.0.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.6.2/codegen-2.6.2.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.6.4/codegen-2.6.4.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.7.0/codegen-2.7.0.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.7.2/codegen-2.7.2.jar returned status 404
+2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/2.7.4/codegen-2.7.4.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/3.0.0/codegen-3.0.0.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/overturetool/core/codegen/3.0.2/codegen-3.0.2.jar returned status 404

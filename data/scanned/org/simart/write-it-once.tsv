@@ -1,1 +1,11 @@
 0.1		2014-05-16T20:14:50Z	
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.3/write-it-once-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.4/write-it-once-0.4.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.4.1/write-it-once-0.4.1.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.5.0/write-it-once-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.0/write-it-once-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.1/write-it-once-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.2/write-it-once-0.6.2.jar returned status 404
+0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.3/write-it-once-0.6.3.jar returned status 404
+0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.4/write-it-once-0.6.4.jar returned status 404
+0.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simart/write-it-once/0.6.5/write-it-once-0.6.5.jar returned status 404

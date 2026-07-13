@@ -1,4 +1,8 @@
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/syncope/syncope-build-tools/0.7/syncope-build-tools-0.7.jar returned status 404
 0.7	classes	2011-12-30T07:51:38Z	
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/syncope/syncope-build-tools/0.7.1/syncope-build-tools-0.7.1.jar returned status 404
 0.7.1	classes	2012-01-19T07:48:24Z	
+0.7RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/syncope/syncope-build-tools/0.7RC1/syncope-build-tools-0.7RC1.jar returned status 404
 0.7RC1	classes	2011-12-15T09:48:16Z	
+0.7RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/syncope/syncope-build-tools/0.7RC2/syncope-build-tools-0.7RC2.jar returned status 404
 0.7RC2	classes	2011-12-27T10:35:00Z	

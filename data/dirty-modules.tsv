@@ -1318,3 +1318,5 @@ litebridge.commons
 litebridge.converter
 litebridge.orm
 litebridge.db.sqlite
+org.conscrypt
+org.paramixel.api

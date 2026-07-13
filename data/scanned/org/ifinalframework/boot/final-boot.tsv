@@ -1,3 +1,5 @@
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ifinalframework/boot/final-boot/1.2.0/final-boot-1.2.0.jar returned status 404
+1.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ifinalframework/boot/final-boot/1.2.0-alpha/final-boot-1.2.0-alpha.jar returned status 404
 1.2.1		2021-08-03T03:01:10Z	
 1.2.1-alpha		2021-07-05T04:56:36Z	
 1.2.2		2021-11-01T04:56:08Z	

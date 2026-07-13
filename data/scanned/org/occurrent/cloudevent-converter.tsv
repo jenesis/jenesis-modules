@@ -1,6 +1,48 @@
 0.10.0		2021-04-16T14:10:02Z	
 0.11.0		2021-08-13T06:31:27Z	
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.12.0/cloudevent-converter-0.12.0.jar returned status 404
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.13.0/cloudevent-converter-0.13.0.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.13.1/cloudevent-converter-0.13.1.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.0/cloudevent-converter-0.14.0.jar returned status 404
+0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.1/cloudevent-converter-0.14.1.jar returned status 404
+0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.2/cloudevent-converter-0.14.2.jar returned status 404
+0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.3/cloudevent-converter-0.14.3.jar returned status 404
+0.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.4/cloudevent-converter-0.14.4.jar returned status 404
+0.14.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.5/cloudevent-converter-0.14.5.jar returned status 404
+0.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.6/cloudevent-converter-0.14.6.jar returned status 404
+0.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.7/cloudevent-converter-0.14.7.jar returned status 404
+0.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.8/cloudevent-converter-0.14.8.jar returned status 404
+0.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.14.9/cloudevent-converter-0.14.9.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.15.0/cloudevent-converter-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.15.1/cloudevent-converter-0.15.1.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.0/cloudevent-converter-0.16.0.jar returned status 404
+0.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.1/cloudevent-converter-0.16.1.jar returned status 404
+0.16.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.10/cloudevent-converter-0.16.10.jar returned status 404
+0.16.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.11/cloudevent-converter-0.16.11.jar returned status 404
+0.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.2/cloudevent-converter-0.16.2.jar returned status 404
+0.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.3/cloudevent-converter-0.16.3.jar returned status 404
+0.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.4/cloudevent-converter-0.16.4.jar returned status 404
+0.16.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.5/cloudevent-converter-0.16.5.jar returned status 404
+0.16.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.6/cloudevent-converter-0.16.6.jar returned status 404
+0.16.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.7/cloudevent-converter-0.16.7.jar returned status 404
+0.16.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.8/cloudevent-converter-0.16.8.jar returned status 404
+0.16.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.16.9/cloudevent-converter-0.16.9.jar returned status 404
+0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.17.0/cloudevent-converter-0.17.0.jar returned status 404
+0.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.17.1/cloudevent-converter-0.17.1.jar returned status 404
+0.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.17.2/cloudevent-converter-0.17.2.jar returned status 404
+0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.18.0/cloudevent-converter-0.18.0.jar returned status 404
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.0/cloudevent-converter-0.19.0.jar returned status 404
+0.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.1/cloudevent-converter-0.19.1.jar returned status 404
+0.19.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.10/cloudevent-converter-0.19.10.jar returned status 404
 0.19.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.11/cloudevent-converter-0.19.11.jar returned status 404
+0.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.2/cloudevent-converter-0.19.2.jar returned status 404
+0.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.3/cloudevent-converter-0.19.3.jar returned status 404
+0.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.4/cloudevent-converter-0.19.4.jar returned status 404
+0.19.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.5/cloudevent-converter-0.19.5.jar returned status 404
+0.19.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.6/cloudevent-converter-0.19.6.jar returned status 404
+0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.7/cloudevent-converter-0.19.7.jar returned status 404
+0.19.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.8/cloudevent-converter-0.19.8.jar returned status 404
+0.19.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/cloudevent-converter/0.19.9/cloudevent-converter-0.19.9.jar returned status 404
 0.5.0		2021-01-06T18:54:29Z	
 0.5.1		2021-01-07T14:31:22Z	
 0.6.0		2021-01-23T13:02:33Z	

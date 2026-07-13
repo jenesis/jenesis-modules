@@ -1,3 +1,11 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.0/s1-testing-2.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.0.1/s1-testing-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.1.0/s1-testing-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.2.0/s1-testing-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.2.1/s1-testing-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.2.2/s1-testing-2.2.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.3.0/s1-testing-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/s1-platform/s1-testing/2.3.1/s1-testing-2.3.1.jar returned status 404
 2.4.0		2014-04-30T07:59:04Z	
 2.4.1		2014-05-20T12:15:37Z	
 2.4.2		2014-05-31T19:57:38Z	
