@@ -2,6 +2,12 @@
 2.10.1		2025-06-12T10:39:23Z	
 2.10.2		2025-07-04T12:22:01Z	
 2.11.0		2025-09-11T13:34:50Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.0/ble-livedata-2.2.0.jar returned status 404
+2.2.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.0-beta03/ble-livedata-2.2.0-beta03.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.1/ble-livedata-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.2/ble-livedata-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.3/ble-livedata-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.2.4/ble-livedata-2.2.4.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.3.0/ble-livedata-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.3.1/ble-livedata-2.3.1.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble-livedata/2.4.0/ble-livedata-2.4.0.jar returned status 404

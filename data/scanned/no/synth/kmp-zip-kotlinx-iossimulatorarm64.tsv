@@ -14,6 +14,7 @@
 0.12.0	metadata	2026-06-01T09:28:49Z	
 0.12.1		2026-06-03T08:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-iossimulatorarm64/0.12.1/kmp-zip-kotlinx-iossimulatorarm64-0.12.1.jar returned status 404
 0.12.1	metadata	2026-06-03T08:25:11Z	
+0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-iossimulatorarm64/0.12.2/kmp-zip-kotlinx-iossimulatorarm64-0.12.2.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-iossimulatorarm64/0.7.0/kmp-zip-kotlinx-iossimulatorarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-02-19T11:39:25Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-iossimulatorarm64/0.7.1/kmp-zip-kotlinx-iossimulatorarm64-0.7.1.jar returned status 404

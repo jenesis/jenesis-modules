@@ -4,3 +4,4 @@
 3.1.2		2026-06-16T13:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/version-catalog-min-sdk-21/3.1.2/version-catalog-min-sdk-21-3.1.2.jar returned status 404
 3.1.2-1		2026-06-25T07:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/version-catalog-min-sdk-21/3.1.2-1/version-catalog-min-sdk-21-3.1.2-1.jar returned status 404
 3.1.2-2		2026-07-02T15:00:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/version-catalog-min-sdk-21/3.1.2-2/version-catalog-min-sdk-21-3.1.2-2.jar returned status 404
+3.1.2-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/version-catalog-min-sdk-21/3.1.2-3/version-catalog-min-sdk-21-3.1.2-3.jar returned status 404

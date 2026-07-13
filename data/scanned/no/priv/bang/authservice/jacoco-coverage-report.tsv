@@ -16,6 +16,7 @@
 1.11.9		2020-07-22T10:25:40Z	
 1.12.0		2021-01-19T18:20:35Z	
 1.12.1		2021-01-24T22:12:29Z	
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/authservice/jacoco-coverage-report/1.12.2/jacoco-coverage-report-1.12.2.jar returned status 404
 1.12.3		2021-03-21T10:10:52Z	
 1.13.0		2021-04-12T19:04:47Z	
 1.13.1		2021-04-15T19:41:53Z	

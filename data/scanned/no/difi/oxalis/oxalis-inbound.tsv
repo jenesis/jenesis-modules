@@ -1,11 +1,21 @@
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/3.1.1/oxalis-inbound-3.1.1.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/3.2.0/oxalis-inbound-3.2.0.jar returned status 404
 3.2.0	classes	2016-05-23T12:10:50Z	
+3.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/3.2.0-RC1/oxalis-inbound-3.2.0-RC1.jar returned status 404
 3.2.0-RC1	classes	2016-03-14T21:33:51Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.0/oxalis-inbound-4.0.0.jar returned status 404
 4.0.0	classes	2018-02-27T22:07:58Z	
+4.0.0-BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.0-BETA1/oxalis-inbound-4.0.0-BETA1.jar returned status 404
 4.0.0-BETA1	classes	2016-03-01T12:44:47Z	
+4.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.0-RC1/oxalis-inbound-4.0.0-RC1.jar returned status 404
 4.0.0-RC1	classes	2016-05-24T18:36:59Z	
+4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.0-RC2/oxalis-inbound-4.0.0-RC2.jar returned status 404
 4.0.0-RC2	classes	2017-03-01T13:19:17Z	
+4.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.0-RC3/oxalis-inbound-4.0.0-RC3.jar returned status 404
 4.0.0-RC3	classes	2017-12-15T13:22:09Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.1/oxalis-inbound-4.0.1.jar returned status 404
 4.0.1	classes	2018-05-07T20:39:27Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/oxalis/oxalis-inbound/4.0.2/oxalis-inbound-4.0.2.jar returned status 404
 4.0.2	classes	2018-08-16T09:35:13Z	
 4.0.3		2018-11-27T10:22:52Z	
 4.0.4		2019-02-28T07:12:42Z	

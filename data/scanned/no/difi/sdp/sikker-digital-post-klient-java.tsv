@@ -23,6 +23,7 @@
 6.0		2021-09-06T15:06:38Z	
 6.0-RC1		2021-09-06T12:42:24Z	
 6.0-RC2		2021-09-06T13:34:51Z	
+6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/difi/sdp/sikker-digital-post-klient-java/6.1/sikker-digital-post-klient-java-6.1.jar returned status 404
 6.2		2022-04-21T10:56:27Z	
 6.3		2022-04-26T17:48:43Z	
 6.4-RC2		2023-05-04T14:58:49Z	

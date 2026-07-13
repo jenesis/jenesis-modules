@@ -1,2 +1,6 @@
+2024.8.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2024.8.27/dependencies-guava-2024.8.27.jar returned status 404
+2024.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2024.9.26/dependencies-guava-2024.9.26.jar returned status 404
+2025.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2025.3.14/dependencies-guava-2025.3.14.jar returned status 404
+2025.6.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2025.6.25/dependencies-guava-2025.6.25.jar returned status 404
 2026.2.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2026.2.27/dependencies-guava-2026.2.27.jar returned status 404
 2026.5.29		2026-05-29T09:13:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/dependencies/dependencies-guava/2026.5.29/dependencies-guava-2026.5.29.jar returned status 404

@@ -1,7 +1,31 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.0.0/ble-2.0.0.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.0.5/ble-2.0.5.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.1.0/ble-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.1.1/ble-2.1.1.jar returned status 404
 2.10.0		2025-03-06T13:06:38Z	
 2.10.1		2025-06-12T10:38:50Z	
 2.10.2		2025-07-04T12:22:01Z	
 2.11.0		2025-09-11T13:34:50Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0/ble-2.2.0.jar returned status 404
+2.2.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha01/ble-2.2.0-alpha01.jar returned status 404
+2.2.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha02/ble-2.2.0-alpha02.jar returned status 404
+2.2.0-alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha03/ble-2.2.0-alpha03.jar returned status 404
+2.2.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha04/ble-2.2.0-alpha04.jar returned status 404
+2.2.0-alpha06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha06/ble-2.2.0-alpha06.jar returned status 404
+2.2.0-alpha07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha07/ble-2.2.0-alpha07.jar returned status 404
+2.2.0-alpha08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha08/ble-2.2.0-alpha08.jar returned status 404
+2.2.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha09/ble-2.2.0-alpha09.jar returned status 404
+2.2.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha10/ble-2.2.0-alpha10.jar returned status 404
+2.2.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha11/ble-2.2.0-alpha11.jar returned status 404
+2.2.0-alpha12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha12/ble-2.2.0-alpha12.jar returned status 404
+2.2.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-alpha13/ble-2.2.0-alpha13.jar returned status 404
+2.2.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-beta01/ble-2.2.0-beta01.jar returned status 404
+2.2.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-beta02/ble-2.2.0-beta02.jar returned status 404
+2.2.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.0-beta03/ble-2.2.0-beta03.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.1/ble-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.2/ble-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.3/ble-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.2.4/ble-2.2.4.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.3.0/ble-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.3.1/ble-2.3.1.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/ble/2.4.0/ble-2.4.0.jar returned status 404

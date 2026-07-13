@@ -69,6 +69,20 @@
 3.25.3		2024-07-18T16:50:11Z	
 3.25.4		2024-08-15T12:42:27Z	
 3.25.5		2024-09-13T07:26:28Z	
+3.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.0/step-functions-plugins-node-3.26.0.jar returned status 404
+3.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.1/step-functions-plugins-node-3.26.1.jar returned status 404
+3.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.2/step-functions-plugins-node-3.26.2.jar returned status 404
+3.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.3/step-functions-plugins-node-3.26.3.jar returned status 404
+3.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.4/step-functions-plugins-node-3.26.4.jar returned status 404
+3.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.5/step-functions-plugins-node-3.26.5.jar returned status 404
+3.26.5-CustomizedJv2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.5-CustomizedJv2/step-functions-plugins-node-3.26.5-CustomizedJv2.jar returned status 404
+3.26.5-customized-j			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.26.5-customized-j/step-functions-plugins-node-3.26.5-customized-j.jar returned status 404
+3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.0/step-functions-plugins-node-3.27.0.jar returned status 404
+3.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.1/step-functions-plugins-node-3.27.1.jar returned status 404
+3.27.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.2/step-functions-plugins-node-3.27.2.jar returned status 404
+3.27.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.3/step-functions-plugins-node-3.27.3.jar returned status 404
+3.27.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.4/step-functions-plugins-node-3.27.4.jar returned status 404
+3.27.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.5/step-functions-plugins-node-3.27.5.jar returned status 404
 3.27.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.6/step-functions-plugins-node-3.27.6.jar returned status 404
 3.27.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.27.7/step-functions-plugins-node-3.27.7.jar returned status 404
 3.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-functions-plugins-node/3.28.0/step-functions-plugins-node-3.28.0.jar returned status 404

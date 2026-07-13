@@ -8,3 +8,4 @@
 3.0.0		2024-08-24T21:18:16Z	
 3.0.1		2024-12-11T22:07:42Z	
 3.0.3		2025-06-16T10:15:37Z	
+mvn release:perform			IllegalArgumentException: Illegal character in path at index 38: no/api/freemarker/freemarker-java8/mvn release:perform/freemarker-java8-mvn release:perform.jar
