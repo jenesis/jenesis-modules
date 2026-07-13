@@ -70,9 +70,13 @@
 0.32.2	classes	2017-12-05T07:32:02Z	
 0.33.0	classes	2018-01-19T17:42:17Z	
 0.33.1	classes	2018-01-25T14:57:10Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/messaging/bounceproxy/single-bounceproxy/0.7.0/single-bounceproxy-0.7.0.jar returned status 404
 0.7.0	classes	2014-07-21T14:10:19Z	
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/messaging/bounceproxy/single-bounceproxy/0.7.1/single-bounceproxy-0.7.1.jar returned status 404
 0.7.1	classes	2014-08-21T12:26:48Z	
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/messaging/bounceproxy/single-bounceproxy/0.7.2/single-bounceproxy-0.7.2.jar returned status 404
 0.7.2	classes	2015-02-19T14:14:24Z	
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/java/messaging/bounceproxy/single-bounceproxy/0.7.3/single-bounceproxy-0.7.3.jar returned status 404
 0.7.3	classes	2015-02-19T14:59:37Z	
 0.8.0	classes	2015-02-20T13:53:34Z	
 0.9.0	classes	2015-07-31T13:36:01Z	
