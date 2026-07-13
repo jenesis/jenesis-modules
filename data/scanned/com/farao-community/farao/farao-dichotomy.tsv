@@ -1,9 +1,48 @@
 1.0.0		2021-02-20T12:41:03Z	
 1.0.1		2021-04-12T08:51:18Z	
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/1.18.0/farao-dichotomy-1.18.0.jar returned status 404
 2.0.0		2021-07-22T11:50:28Z	
 2.1.0		2021-08-30T07:31:27Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/3.0.0/farao-dichotomy-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/3.1.0/farao-dichotomy-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/3.1.1/farao-dichotomy-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/3.1.2/farao-dichotomy-3.1.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.0.0/farao-dichotomy-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.1.0/farao-dichotomy-4.1.0.jar returned status 404
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.10.0/farao-dichotomy-4.10.0.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.11.0/farao-dichotomy-4.11.0.jar returned status 404
+4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.12.0/farao-dichotomy-4.12.0.jar returned status 404
+4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.13.0/farao-dichotomy-4.13.0.jar returned status 404
+4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.13.1/farao-dichotomy-4.13.1.jar returned status 404
+4.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.13.2/farao-dichotomy-4.13.2.jar returned status 404
+4.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.13.3/farao-dichotomy-4.13.3.jar returned status 404
+4.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.13.4/farao-dichotomy-4.13.4.jar returned status 404
+4.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.14.0/farao-dichotomy-4.14.0.jar returned status 404
+4.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.14.1/farao-dichotomy-4.14.1.jar returned status 404
+4.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.14.2/farao-dichotomy-4.14.2.jar returned status 404
+4.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.15.0/farao-dichotomy-4.15.0.jar returned status 404
+4.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.15.2/farao-dichotomy-4.15.2.jar returned status 404
+4.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.16.0/farao-dichotomy-4.16.0.jar returned status 404
+4.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.16.1/farao-dichotomy-4.16.1.jar returned status 404
+4.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.17.0/farao-dichotomy-4.17.0.jar returned status 404
+4.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.17.1/farao-dichotomy-4.17.1.jar returned status 404
+4.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.18.0/farao-dichotomy-4.18.0.jar returned status 404
+4.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.18.1/farao-dichotomy-4.18.1.jar returned status 404
+4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.19.0/farao-dichotomy-4.19.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.2.0/farao-dichotomy-4.2.0.jar returned status 404
+4.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.20.0/farao-dichotomy-4.20.0.jar returned status 404
+4.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.21.0/farao-dichotomy-4.21.0.jar returned status 404
+4.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.21.1/farao-dichotomy-4.21.1.jar returned status 404
+4.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.22.0/farao-dichotomy-4.22.0.jar returned status 404
+4.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.22.1/farao-dichotomy-4.22.1.jar returned status 404
+4.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.23.0/farao-dichotomy-4.23.0.jar returned status 404
+4.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.24.0/farao-dichotomy-4.24.0.jar returned status 404
+4.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.25.0/farao-dichotomy-4.25.0.jar returned status 404
+4.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.26.0/farao-dichotomy-4.26.0.jar returned status 404
+4.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.27.0/farao-dichotomy-4.27.0.jar returned status 404
 4.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.28.0/farao-dichotomy-4.28.0.jar returned status 404
 4.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.29.0/farao-dichotomy-4.29.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.3.0/farao-dichotomy-4.3.0.jar returned status 404
 4.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.30.0/farao-dichotomy-4.30.0.jar returned status 404
 4.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.31.0/farao-dichotomy-4.31.0.jar returned status 404
 4.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.32.0/farao-dichotomy-4.32.0.jar returned status 404
@@ -13,3 +52,11 @@
 4.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.34.0/farao-dichotomy-4.34.0.jar returned status 404
 4.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.35.0/farao-dichotomy-4.35.0.jar returned status 404
 4.36.0		2026-07-07T08:32:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.36.0/farao-dichotomy-4.36.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.4.0/farao-dichotomy-4.4.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.5.0/farao-dichotomy-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.6.0/farao-dichotomy-4.6.0.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.7.0/farao-dichotomy-4.7.0.jar returned status 404
+4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.7.1/farao-dichotomy-4.7.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.8.0/farao-dichotomy-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.9.0/farao-dichotomy-4.9.0.jar returned status 404
+4.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/farao-community/farao/farao-dichotomy/4.9.1/farao-dichotomy-4.9.1.jar returned status 404

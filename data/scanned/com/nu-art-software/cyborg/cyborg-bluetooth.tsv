@@ -376,55 +376,103 @@
 1.1.9	source	2019-06-15T11:04:41Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.1/cyborg-bluetooth-1.2.1.jar returned status 404
 1.2.1	source	2020-01-12T12:27:12Z	
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.10/cyborg-bluetooth-1.2.10.jar returned status 404
 1.2.10	source	2020-04-01T14:30:08Z	
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.11/cyborg-bluetooth-1.2.11.jar returned status 404
 1.2.11	source	2020-04-13T21:08:48Z	
+1.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.12/cyborg-bluetooth-1.2.12.jar returned status 404
 1.2.12	source	2020-04-14T09:44:50Z	
+1.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.13/cyborg-bluetooth-1.2.13.jar returned status 404
 1.2.13	source	2020-04-14T10:40:30Z	
+1.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.14/cyborg-bluetooth-1.2.14.jar returned status 404
 1.2.14	source	2020-04-19T07:18:15Z	
+1.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.15/cyborg-bluetooth-1.2.15.jar returned status 404
 1.2.15	source	2020-04-19T20:42:50Z	
+1.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.16/cyborg-bluetooth-1.2.16.jar returned status 404
 1.2.16	source	2020-04-21T20:46:53Z	
+1.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.17/cyborg-bluetooth-1.2.17.jar returned status 404
 1.2.17	source	2020-05-31T20:06:54Z	
+1.2.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.18/cyborg-bluetooth-1.2.18.jar returned status 404
 1.2.18	source	2020-06-23T06:36:46Z	
+1.2.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.19/cyborg-bluetooth-1.2.19.jar returned status 404
 1.2.19	source	2020-07-12T05:54:41Z	
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.2/cyborg-bluetooth-1.2.2.jar returned status 404
 1.2.2	source	2020-02-17T11:17:21Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.23/cyborg-bluetooth-1.2.23.jar returned status 404
 1.2.23	source	2020-08-18T19:55:10Z	
+1.2.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.24/cyborg-bluetooth-1.2.24.jar returned status 404
 1.2.24	source	2020-08-19T08:47:43Z	
+1.2.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.25/cyborg-bluetooth-1.2.25.jar returned status 404
 1.2.25	source	2020-08-20T11:15:02Z	
+1.2.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.26/cyborg-bluetooth-1.2.26.jar returned status 404
 1.2.26	source	2020-08-20T13:12:27Z	
+1.2.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.27/cyborg-bluetooth-1.2.27.jar returned status 404
 1.2.27	source	2020-08-23T19:54:05Z	
+1.2.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.28/cyborg-bluetooth-1.2.28.jar returned status 404
 1.2.28	source	2020-08-23T20:34:07Z	
+1.2.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.29/cyborg-bluetooth-1.2.29.jar returned status 404
 1.2.29	source	2020-08-25T10:53:24Z	
+1.2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.30/cyborg-bluetooth-1.2.30.jar returned status 404
 1.2.30	source	2020-09-18T13:18:50Z	
+1.2.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.31/cyborg-bluetooth-1.2.31.jar returned status 404
 1.2.31	source	2020-10-07T19:04:00Z	
+1.2.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.32/cyborg-bluetooth-1.2.32.jar returned status 404
 1.2.32	source	2020-10-10T12:02:00Z	
+1.2.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.33/cyborg-bluetooth-1.2.33.jar returned status 404
 1.2.33	source	2020-10-10T12:30:49Z	
+1.2.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.34/cyborg-bluetooth-1.2.34.jar returned status 404
 1.2.34	source	2020-10-10T13:25:39Z	
+1.2.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.35/cyborg-bluetooth-1.2.35.jar returned status 404
 1.2.35	source	2020-11-29T12:01:56Z	
+1.2.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.39/cyborg-bluetooth-1.2.39.jar returned status 404
 1.2.39	source	2020-12-30T09:41:05Z	
 1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.4/cyborg-bluetooth-1.2.4.jar returned status 404
 1.2.4	source	2020-02-23T11:57:07Z	
+1.2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.40/cyborg-bluetooth-1.2.40.jar returned status 404
 1.2.40	source	2020-12-30T12:35:53Z	
+1.2.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.41/cyborg-bluetooth-1.2.41.jar returned status 404
 1.2.41	source	2020-12-30T15:13:43Z	
+1.2.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.42/cyborg-bluetooth-1.2.42.jar returned status 404
 1.2.42	source	2021-01-12T15:23:36Z	
+1.2.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.43/cyborg-bluetooth-1.2.43.jar returned status 404
 1.2.43	source	2021-01-13T16:04:11Z	
+1.2.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.44/cyborg-bluetooth-1.2.44.jar returned status 404
 1.2.44	source	2021-01-20T20:31:18Z	
+1.2.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.45/cyborg-bluetooth-1.2.45.jar returned status 404
 1.2.45	source	2021-01-25T12:08:07Z	
+1.2.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.46/cyborg-bluetooth-1.2.46.jar returned status 404
 1.2.46	source	2021-01-26T19:54:22Z	
+1.2.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.47/cyborg-bluetooth-1.2.47.jar returned status 404
 1.2.47	source	2021-01-28T12:32:40Z	
+1.2.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.48/cyborg-bluetooth-1.2.48.jar returned status 404
 1.2.48	source	2021-02-07T11:21:30Z	
+1.2.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.49/cyborg-bluetooth-1.2.49.jar returned status 404
 1.2.49	source	2021-02-07T19:16:03Z	
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.5/cyborg-bluetooth-1.2.5.jar returned status 404
 1.2.5	source	2020-03-03T09:45:28Z	
+1.2.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.51/cyborg-bluetooth-1.2.51.jar returned status 404
 1.2.51	source	2021-02-08T15:00:23Z	
+1.2.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.52/cyborg-bluetooth-1.2.52.jar returned status 404
 1.2.52	source	2021-02-21T14:46:39Z	
+1.2.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.53/cyborg-bluetooth-1.2.53.jar returned status 404
 1.2.53	source	2021-02-25T10:28:00Z	
+1.2.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.54/cyborg-bluetooth-1.2.54.jar returned status 404
 1.2.54	source	2021-03-03T13:45:33Z	
+1.2.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.55/cyborg-bluetooth-1.2.55.jar returned status 404
 1.2.55	source	2021-03-31T10:33:54Z	
+1.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.56/cyborg-bluetooth-1.2.56.jar returned status 404
 1.2.56	source	2021-03-31T10:52:18Z	
+1.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.57/cyborg-bluetooth-1.2.57.jar returned status 404
 1.2.57	source	2021-04-07T07:06:00Z	
+1.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.58/cyborg-bluetooth-1.2.58.jar returned status 404
 1.2.58	source	2021-04-19T13:35:19Z	
+1.2.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.59/cyborg-bluetooth-1.2.59.jar returned status 404
 1.2.59	source	2022-03-28T20:46:57Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.6/cyborg-bluetooth-1.2.6.jar returned status 404
 1.2.6	source	2020-03-18T11:08:02Z	
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.7/cyborg-bluetooth-1.2.7.jar returned status 404
 1.2.7	source	2020-03-23T11:45:27Z	
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.8/cyborg-bluetooth-1.2.8.jar returned status 404
 1.2.8	source	2020-03-24T11:07:06Z	
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nu-art-software/cyborg/cyborg-bluetooth/1.2.9/cyborg-bluetooth-1.2.9.jar returned status 404
 1.2.9	source	2020-03-25T12:55:52Z	

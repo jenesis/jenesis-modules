@@ -1,2 +1,7 @@
 1.0.0		2014-08-01T01:17:58Z	
 1.0.1		2014-08-01T01:26:01Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/klinkerapps/launcher-apis/1.0.2/launcher-apis-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/klinkerapps/launcher-apis/1.0.3/launcher-apis-1.0.3.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/klinkerapps/launcher-apis/1.0.5/launcher-apis-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/klinkerapps/launcher-apis/1.0.6/launcher-apis-1.0.6.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/klinkerapps/launcher-apis/1.1.0/launcher-apis-1.1.0.jar returned status 404
