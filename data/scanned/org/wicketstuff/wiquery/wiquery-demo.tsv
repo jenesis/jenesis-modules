@@ -1,1 +1,8 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/10.0.0/wiquery-demo-10.0.0.jar returned status 404
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/7.0/wiquery-demo-7.0.jar returned status 404
+8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/8.0/wiquery-demo-8.0.jar returned status 404
+8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/8.1/wiquery-demo-8.1.jar returned status 404
+8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/8.1.1/wiquery-demo-8.1.1.jar returned status 404
+8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/8.2.0/wiquery-demo-8.2.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/9.0.0/wiquery-demo-9.0.0.jar returned status 404
 9.1.0		2026-04-03T06:16:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wiquery/wiquery-demo/9.1.0/wiquery-demo-9.1.0.jar returned status 404

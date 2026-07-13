@@ -1,6 +1,12 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.0/scalate-bookstore-1.0.jar returned status 404
 1.0	classes	2010-04-06T16:06:55Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.1/scalate-bookstore-1.1.jar returned status 404
 1.1	classes	2010-04-28T15:09:39Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.2/scalate-bookstore-1.2.jar returned status 404
 1.2	classes	2010-07-30T12:44:08Z	
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.3/scalate-bookstore-1.3.jar returned status 404
 1.3	classes	2010-10-07T16:38:11Z	
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.3.1/scalate-bookstore-1.3.1.jar returned status 404
 1.3.1	classes	2010-10-27T20:09:15Z	
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/scalate/scalate-bookstore/1.3.2/scalate-bookstore-1.3.2.jar returned status 404
 1.3.2	classes	2010-11-25T00:08:17Z	

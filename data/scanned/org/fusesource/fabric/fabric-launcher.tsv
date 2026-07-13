@@ -1,10 +1,20 @@
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/1.1/fabric-launcher-1.1.jar returned status 404
 1.1	slim	2012-01-28T14:15:46Z	
+7.0.0.fuse-061			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.0.0.fuse-061/fabric-launcher-7.0.0.fuse-061.jar returned status 404
 7.0.0.fuse-061	slim	2012-05-09T20:06:29Z	
+7.0.1.fuse-084			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.0.1.fuse-084/fabric-launcher-7.0.1.fuse-084.jar returned status 404
 7.0.1.fuse-084	slim	2012-07-26T19:39:45Z	
+7.0.2.fuse-097			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.0.2.fuse-097/fabric-launcher-7.0.2.fuse-097.jar returned status 404
 7.0.2.fuse-097	slim	2012-10-02T19:08:55Z	
+7.1.0.fuse-014			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.1.0.fuse-014/fabric-launcher-7.1.0.fuse-014.jar returned status 404
 7.1.0.fuse-014	slim	2012-09-28T17:03:48Z	
+7.1.0.fuse-047			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.1.0.fuse-047/fabric-launcher-7.1.0.fuse-047.jar returned status 404
 7.1.0.fuse-047	slim	2012-12-19T00:19:28Z	
+7.2.0.redhat-024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.2.0.redhat-024/fabric-launcher-7.2.0.redhat-024.jar returned status 404
 7.2.0.redhat-024	slim	2013-04-05T22:09:00Z	
+7.2.0.redhat-060			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.2.0.redhat-060/fabric-launcher-7.2.0.redhat-060.jar returned status 404
 7.2.0.redhat-060	slim	2014-01-17T21:03:40Z	
+7.2.0.redhat-065			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.2.0.redhat-065/fabric-launcher-7.2.0.redhat-065.jar returned status 404
 7.2.0.redhat-065	slim	2014-05-30T15:19:26Z	
+7.2.0.redhat-083			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/fabric/fabric-launcher/7.2.0.redhat-083/fabric-launcher-7.2.0.redhat-083.jar returned status 404
 7.2.0.redhat-083	slim	2015-05-27T23:13:09Z	

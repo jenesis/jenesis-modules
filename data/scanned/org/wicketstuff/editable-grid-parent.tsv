@@ -3,6 +3,45 @@
 10.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/10.8.0/editable-grid-parent-10.8.0.jar returned status 404
 10.9.1		2026-05-24T05:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/10.9.1/editable-grid-parent-10.9.1.jar returned status 404
 10.9.2		2026-05-30T06:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/10.9.2/editable-grid-parent-10.9.2.jar returned status 404
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.10.0/editable-grid-parent-6.10.0.jar returned status 404
+6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.11.0/editable-grid-parent-6.11.0.jar returned status 404
+6.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.11.1/editable-grid-parent-6.11.1.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.12.0/editable-grid-parent-6.12.0.jar returned status 404
+6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.13.0/editable-grid-parent-6.13.0.jar returned status 404
+6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.14.0/editable-grid-parent-6.14.0.jar returned status 404
+6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.15.0/editable-grid-parent-6.15.0.jar returned status 404
+6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.16.0/editable-grid-parent-6.16.0.jar returned status 404
+6.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.17.0/editable-grid-parent-6.17.0.jar returned status 404
+6.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.18.0/editable-grid-parent-6.18.0.jar returned status 404
+6.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.19.0/editable-grid-parent-6.19.0.jar returned status 404
+6.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.20.0/editable-grid-parent-6.20.0.jar returned status 404
+6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.21.0/editable-grid-parent-6.21.0.jar returned status 404
+6.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.22.0/editable-grid-parent-6.22.0.jar returned status 404
+6.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.23.0/editable-grid-parent-6.23.0.jar returned status 404
+6.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.24.0/editable-grid-parent-6.24.0.jar returned status 404
+6.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.25.0/editable-grid-parent-6.25.0.jar returned status 404
+6.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.26.0/editable-grid-parent-6.26.0.jar returned status 404
+6.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.28.0/editable-grid-parent-6.28.0.jar returned status 404
+6.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.30.0/editable-grid-parent-6.30.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.5.0/editable-grid-parent-6.5.0.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.7.0/editable-grid-parent-6.7.0.jar returned status 404
+6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.8.0/editable-grid-parent-6.8.0.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/6.9.0/editable-grid-parent-6.9.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.0.0/editable-grid-parent-7.0.0.jar returned status 404
+7.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.0.0-M3/editable-grid-parent-7.0.0-M3.jar returned status 404
+7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.0.0-M4/editable-grid-parent-7.0.0-M4.jar returned status 404
+7.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.0.0-M5/editable-grid-parent-7.0.0-M5.jar returned status 404
+7.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.0.0-M6/editable-grid-parent-7.0.0-M6.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.1.0/editable-grid-parent-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.2.0/editable-grid-parent-7.2.0.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.3.0/editable-grid-parent-7.3.0.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.4.0/editable-grid-parent-7.4.0.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.5.0/editable-grid-parent-7.5.0.jar returned status 404
+7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.6.0/editable-grid-parent-7.6.0.jar returned status 404
+7.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.7.0/editable-grid-parent-7.7.0.jar returned status 404
+7.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.8.0/editable-grid-parent-7.8.0.jar returned status 404
+7.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.8.1/editable-grid-parent-7.8.1.jar returned status 404
+7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/7.9.0/editable-grid-parent-7.9.0.jar returned status 404
 8.18.0		2026-05-18T07:21:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/8.18.0/editable-grid-parent-8.18.0.jar returned status 404
 9.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/9.21.0/editable-grid-parent-9.21.0.jar returned status 404
 9.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/editable-grid-parent/9.22.0/editable-grid-parent-9.22.0.jar returned status 404
