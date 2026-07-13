@@ -191,13 +191,30 @@
 1.0.99		2020-03-28T05:16:32Z	
 1.1.0		2022-01-20T12:53:56Z	
 1.1.1		2022-02-01T17:54:53Z	
+1.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.10/org.wso2.carbon.identity.api.server.configs.v1-1.1.10.jar returned status 404
+1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.11/org.wso2.carbon.identity.api.server.configs.v1-1.1.11.jar returned status 404
+1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.12/org.wso2.carbon.identity.api.server.configs.v1-1.1.12.jar returned status 404
+1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.13/org.wso2.carbon.identity.api.server.configs.v1-1.1.13.jar returned status 404
+1.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.14/org.wso2.carbon.identity.api.server.configs.v1-1.1.14.jar returned status 404
+1.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.15/org.wso2.carbon.identity.api.server.configs.v1-1.1.15.jar returned status 404
+1.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.16/org.wso2.carbon.identity.api.server.configs.v1-1.1.16.jar returned status 404
+1.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.17/org.wso2.carbon.identity.api.server.configs.v1-1.1.17.jar returned status 404
+1.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.18/org.wso2.carbon.identity.api.server.configs.v1-1.1.18.jar returned status 404
+1.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.19/org.wso2.carbon.identity.api.server.configs.v1-1.1.19.jar returned status 404
 1.1.2		2022-02-11T15:49:23Z	
 1.1.20		2022-07-09T05:27:15Z	
 1.1.21		2022-07-11T06:06:02Z	
 1.1.22		2022-07-11T14:30:50Z	
 1.1.23		2022-07-15T07:25:09Z	
 1.1.24		2022-07-28T07:34:32Z	
+1.1.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.25/org.wso2.carbon.identity.api.server.configs.v1-1.1.25.jar returned status 404
 1.1.3		2022-02-17T11:30:46Z	
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.4/org.wso2.carbon.identity.api.server.configs.v1-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.5/org.wso2.carbon.identity.api.server.configs.v1-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.6/org.wso2.carbon.identity.api.server.configs.v1-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.7/org.wso2.carbon.identity.api.server.configs.v1-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.8/org.wso2.carbon.identity.api.server.configs.v1-1.1.8.jar returned status 404
+1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.1.9/org.wso2.carbon.identity.api.server.configs.v1-1.1.9.jar returned status 404
 1.2.0		2022-08-05T17:40:48Z	
 1.2.1		2022-08-08T15:14:11Z	
 1.2.10		2022-09-16T10:42:29Z	
@@ -235,6 +252,7 @@
 1.2.198		2024-06-12T06:32:00Z	
 1.2.199		2024-06-12T08:39:59Z	
 1.2.2		2022-08-09T15:41:49Z	
+1.2.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.20/org.wso2.carbon.identity.api.server.configs.v1-1.2.20.jar returned status 404
 1.2.200		2024-06-13T13:01:47Z	
 1.2.206		2024-07-15T07:30:48Z	
 1.2.21		2023-01-13T14:44:59Z	
@@ -260,6 +278,8 @@
 1.2.31		2023-02-20T03:35:27Z	
 1.2.32		2023-02-20T13:19:28Z	
 1.2.33		2023-02-21T12:16:32Z	
+1.2.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.34/org.wso2.carbon.identity.api.server.configs.v1-1.2.34.jar returned status 404
+1.2.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.35/org.wso2.carbon.identity.api.server.configs.v1-1.2.35.jar returned status 404
 1.2.36		2023-03-01T11:27:58Z	
 1.2.37		2023-03-10T03:17:46Z	
 1.2.38		2023-03-13T09:49:48Z	
@@ -271,8 +291,27 @@
 1.2.43		2023-04-07T18:42:01Z	
 1.2.44		2023-04-19T10:28:27Z	
 1.2.45		2023-04-19T13:56:58Z	
+1.2.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.46/org.wso2.carbon.identity.api.server.configs.v1-1.2.46.jar returned status 404
+1.2.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.47/org.wso2.carbon.identity.api.server.configs.v1-1.2.47.jar returned status 404
+1.2.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.48/org.wso2.carbon.identity.api.server.configs.v1-1.2.48.jar returned status 404
+1.2.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.49/org.wso2.carbon.identity.api.server.configs.v1-1.2.49.jar returned status 404
 1.2.5		2022-08-25T07:04:37Z	
+1.2.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.50/org.wso2.carbon.identity.api.server.configs.v1-1.2.50.jar returned status 404
+1.2.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.51/org.wso2.carbon.identity.api.server.configs.v1-1.2.51.jar returned status 404
+1.2.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.52/org.wso2.carbon.identity.api.server.configs.v1-1.2.52.jar returned status 404
+1.2.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.53/org.wso2.carbon.identity.api.server.configs.v1-1.2.53.jar returned status 404
+1.2.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.54/org.wso2.carbon.identity.api.server.configs.v1-1.2.54.jar returned status 404
+1.2.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.55/org.wso2.carbon.identity.api.server.configs.v1-1.2.55.jar returned status 404
+1.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.56/org.wso2.carbon.identity.api.server.configs.v1-1.2.56.jar returned status 404
+1.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.57/org.wso2.carbon.identity.api.server.configs.v1-1.2.57.jar returned status 404
+1.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.58/org.wso2.carbon.identity.api.server.configs.v1-1.2.58.jar returned status 404
+1.2.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.59/org.wso2.carbon.identity.api.server.configs.v1-1.2.59.jar returned status 404
 1.2.6		2022-09-05T06:54:22Z	
+1.2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.60/org.wso2.carbon.identity.api.server.configs.v1-1.2.60.jar returned status 404
+1.2.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.61/org.wso2.carbon.identity.api.server.configs.v1-1.2.61.jar returned status 404
+1.2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.62/org.wso2.carbon.identity.api.server.configs.v1-1.2.62.jar returned status 404
+1.2.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.63/org.wso2.carbon.identity.api.server.configs.v1-1.2.63.jar returned status 404
+1.2.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/server/api/org.wso2.carbon.identity.api.server.configs.v1/1.2.64/org.wso2.carbon.identity.api.server.configs.v1-1.2.64.jar returned status 404
 1.2.7		2022-09-09T16:00:02Z	
 1.2.8		2022-09-14T04:24:51Z	
 1.2.81		2023-09-18T06:44:30Z	
