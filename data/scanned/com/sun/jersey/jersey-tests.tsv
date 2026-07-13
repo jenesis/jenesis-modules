@@ -10,6 +10,7 @@
 1.1.4.1		2010-05-20T07:44:29Z	
 1.1.5		2010-05-20T07:44:41Z	
 1.1.5.1		2010-05-20T07:44:29Z	
+1.1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.1.5.2/jersey-tests-1.1.5.2.jar returned status 404
 1.10		2011-11-02T16:10:08Z	
 1.10-b01		2011-09-08T21:25:28Z	
 1.10-b02		2011-09-16T14:55:17Z	
@@ -25,6 +26,25 @@
 1.11.2		2013-02-26T10:04:55Z	
 1.12		2012-02-15T17:07:04Z	
 1.12-b01		2012-02-10T13:12:35Z	
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.13/jersey-tests-1.13.jar returned status 404
+1.13-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.13-b01/jersey-tests-1.13-b01.jar returned status 404
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.14/jersey-tests-1.14.jar returned status 404
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.15/jersey-tests-1.15.jar returned status 404
+1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.16/jersey-tests-1.16.jar returned status 404
+1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.17/jersey-tests-1.17.jar returned status 404
+1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.17.1/jersey-tests-1.17.1.jar returned status 404
+1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18/jersey-tests-1.18.jar returned status 404
+1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.1/jersey-tests-1.18.1.jar returned status 404
+1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.2/jersey-tests-1.18.2.jar returned status 404
+1.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.3/jersey-tests-1.18.3.jar returned status 404
+1.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.4/jersey-tests-1.18.4.jar returned status 404
+1.18.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.5/jersey-tests-1.18.5.jar returned status 404
+1.18.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.18.6/jersey-tests-1.18.6.jar returned status 404
+1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.19/jersey-tests-1.19.jar returned status 404
+1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.19.1/jersey-tests-1.19.1.jar returned status 404
+1.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.19.2/jersey-tests-1.19.2.jar returned status 404
+1.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.19.3/jersey-tests-1.19.3.jar returned status 404
+1.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-tests/1.19.4/jersey-tests-1.19.4.jar returned status 404
 1.2		2010-05-20T07:44:29Z	
 1.3		2010-06-17T16:03:33Z	
 1.4		2010-09-11T21:33:41Z	

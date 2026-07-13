@@ -26,7 +26,9 @@
 0.3.3		2008-06-06T23:52:39Z	
 0.3.30		2008-09-30T11:19:10Z	
 0.3.31		2008-10-03T20:25:48Z	
+0.3.31-prelude-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/enterprise/auto-depends-test/test-config/0.3.31-prelude-b28/test-config-0.3.31-prelude-b28.jar returned status 404
 0.3.32		2008-10-04T18:15:04Z	
+0.3.32-prelude-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/enterprise/auto-depends-test/test-config/0.3.32-prelude-b28/test-config-0.3.32-prelude-b28.jar returned status 404
 0.3.33		2008-10-07T18:12:11Z	
 0.3.34		2008-10-10T21:30:58Z	
 0.3.35		2008-10-31T22:19:05Z	
@@ -96,7 +98,9 @@
 0.3.92		2009-09-10T18:23:21Z	
 0.3.93		2009-09-14T16:42:45Z	
 0.3.94		2009-09-20T06:10:34Z	
+0.3.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/enterprise/auto-depends-test/test-config/0.3.95/test-config-0.3.95.jar returned status 404
 0.3.96		2009-09-30T04:41:19Z	
+0.3.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/enterprise/auto-depends-test/test-config/0.3.97/test-config-0.3.97.jar returned status 404
 0.3.98		2009-10-07T20:52:08Z	
 0.3.99		2009-10-14T22:29:00Z	
 0.4.0		2009-10-19T16:17:43Z	

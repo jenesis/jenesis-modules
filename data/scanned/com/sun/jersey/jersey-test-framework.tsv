@@ -5,3 +5,41 @@
 1.1.5		2010-05-20T08:23:17Z	
 1.1.5.1		2010-05-20T08:23:17Z	
 1.1.5.2		2012-04-18T12:02:59Z	
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10/jersey-test-framework-1.10.jar returned status 404
+1.10-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10-b01/jersey-test-framework-1.10-b01.jar returned status 404
+1.10-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10-b02/jersey-test-framework-1.10-b02.jar returned status 404
+1.10-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10-b03/jersey-test-framework-1.10-b03.jar returned status 404
+1.10-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10-b04/jersey-test-framework-1.10-b04.jar returned status 404
+1.10-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.10-b05/jersey-test-framework-1.10-b05.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11/jersey-test-framework-1.11.jar returned status 404
+1.11-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11-b01/jersey-test-framework-1.11-b01.jar returned status 404
+1.11-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11-b02/jersey-test-framework-1.11-b02.jar returned status 404
+1.11-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11-b03/jersey-test-framework-1.11-b03.jar returned status 404
+1.11-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11-b04/jersey-test-framework-1.11-b04.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11.1/jersey-test-framework-1.11.1.jar returned status 404
+1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.11.2/jersey-test-framework-1.11.2.jar returned status 404
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.12/jersey-test-framework-1.12.jar returned status 404
+1.12-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.12-b01/jersey-test-framework-1.12-b01.jar returned status 404
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.13/jersey-test-framework-1.13.jar returned status 404
+1.13-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.13-b01/jersey-test-framework-1.13-b01.jar returned status 404
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.14/jersey-test-framework-1.14.jar returned status 404
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.15/jersey-test-framework-1.15.jar returned status 404
+1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.16/jersey-test-framework-1.16.jar returned status 404
+1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.17/jersey-test-framework-1.17.jar returned status 404
+1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.17.1/jersey-test-framework-1.17.1.jar returned status 404
+1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18/jersey-test-framework-1.18.jar returned status 404
+1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.1/jersey-test-framework-1.18.1.jar returned status 404
+1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.2/jersey-test-framework-1.18.2.jar returned status 404
+1.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.3/jersey-test-framework-1.18.3.jar returned status 404
+1.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.4/jersey-test-framework-1.18.4.jar returned status 404
+1.18.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.5/jersey-test-framework-1.18.5.jar returned status 404
+1.18.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.18.6/jersey-test-framework-1.18.6.jar returned status 404
+1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.19/jersey-test-framework-1.19.jar returned status 404
+1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.19.1/jersey-test-framework-1.19.1.jar returned status 404
+1.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.19.2/jersey-test-framework-1.19.2.jar returned status 404
+1.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.19.3/jersey-test-framework-1.19.3.jar returned status 404
+1.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.19.4/jersey-test-framework-1.19.4.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.9/jersey-test-framework-1.9.jar returned status 404
+1.9-ea06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.9-ea06/jersey-test-framework-1.9-ea06.jar returned status 404
+1.9-ea07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.9-ea07/jersey-test-framework-1.9-ea07.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sun/jersey/jersey-test-framework/1.9.1/jersey-test-framework-1.9.1.jar returned status 404
