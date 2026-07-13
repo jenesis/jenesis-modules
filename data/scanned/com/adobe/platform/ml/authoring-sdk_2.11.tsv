@@ -1,9 +1,16 @@
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.16.0/authoring-sdk_2.11-0.16.0.jar returned status 404
 0.16.0	dependencies	2018-12-20T21:40:56Z	
+0.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.16.1/authoring-sdk_2.11-0.16.1.jar returned status 404
 0.16.1	jar-with-dependencies	2019-01-11T00:17:36Z	
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.19.0/authoring-sdk_2.11-0.19.0.jar returned status 404
 0.19.0	jar-with-dependencies	2019-03-20T20:45:43Z	
+0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.21.2/authoring-sdk_2.11-0.21.2.jar returned status 404
 0.21.2	jar-with-dependencies	2019-04-08T16:20:57Z	
+0.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.21.4/authoring-sdk_2.11-0.21.4.jar returned status 404
 0.21.4	jar-with-dependencies	2019-06-11T23:38:45Z	
+0.21.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/0.21.5/authoring-sdk_2.11-0.21.5.jar returned status 404
 0.21.5	jar-with-dependencies	2019-08-06T20:39:35Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/2.0.0/authoring-sdk_2.11-2.0.0.jar returned status 404
 2.0.0	jar-with-dependencies	2020-04-19T00:02:46Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adobe/platform/ml/authoring-sdk_2.11/2.0.1/authoring-sdk_2.11-2.0.1.jar returned status 404
 2.0.1	jar-with-dependencies	2020-09-10T00:21:01Z	
