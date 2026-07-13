@@ -1,2 +1,5 @@
 0.3		2013-11-06T14:39:50Z	
 0.4		2015-04-06T03:20:29Z	
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/wensiqun/asmsupport/0.4.1/asmsupport-0.4.1.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/wensiqun/asmsupport/0.4.2/asmsupport-0.4.2.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/wensiqun/asmsupport/0.4.3/asmsupport-0.4.3.jar returned status 404

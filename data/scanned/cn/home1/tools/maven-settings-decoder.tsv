@@ -2,3 +2,4 @@
 1.0.5.OSS	exec	2017-04-28T11:42:02Z	
 1.0.6.OSS		2018-06-20T16:48:04Z	
 1.0.6.OSS	exec	2018-06-20T16:48:03Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/home1/tools/maven-settings-decoder/1.1.0/maven-settings-decoder-1.1.0.jar returned status 404

@@ -1,3 +1,17 @@
+2.7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.0/engine-captcha-2.7.0.0.jar returned status 404
+2.7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.10/engine-captcha-2.7.0.10.jar returned status 404
+2.7.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.20/engine-captcha-2.7.0.20.jar returned status 404
+2.7.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.30/engine-captcha-2.7.0.30.jar returned status 404
+2.7.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.40/engine-captcha-2.7.0.40.jar returned status 404
+2.7.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.50/engine-captcha-2.7.0.50.jar returned status 404
+2.7.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.60/engine-captcha-2.7.0.60.jar returned status 404
+2.7.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.Beta1/engine-captcha-2.7.0.Beta1.jar returned status 404
+2.7.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.Beta2/engine-captcha-2.7.0.Beta2.jar returned status 404
+2.7.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.Beta3/engine-captcha-2.7.0.Beta3.jar returned status 404
+2.7.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.Beta4/engine-captcha-2.7.0.Beta4.jar returned status 404
+2.7.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.Beta5/engine-captcha-2.7.0.Beta5.jar returned status 404
+2.7.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.0.RC1/engine-captcha-2.7.0.RC1.jar returned status 404
+2.7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/2.7.1.0/engine-captcha-2.7.1.0.jar returned status 404
 3.3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/3.3.4.1/engine-captcha-3.3.4.1.jar returned status 404
 3.3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/3.3.4.2/engine-captcha-3.3.4.2.jar returned status 404
 3.3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/engine/engine-captcha/3.3.4.3/engine-captcha-3.3.4.3.jar returned status 404
