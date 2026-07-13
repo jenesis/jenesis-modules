@@ -1,3 +1,7 @@
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/oss/oss-definition/1.1.0/oss-definition-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/oss/oss-definition/1.1.1/oss-definition-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/oss/oss-definition/1.1.2/oss-definition-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/herodotus/oss/oss-definition/1.1.3/oss-definition-1.1.3.jar returned status 404
 1.2.0		2023-07-28T05:12:39Z	
 1.2.1		2023-08-08T14:27:47Z	
 1.2.8		2023-08-14T14:28:55Z	
