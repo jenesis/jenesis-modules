@@ -1,3 +1,16 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0/tyrus-project-1.0.jar returned status 404
+1.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b07/tyrus-project-1.0-b07.jar returned status 404
+1.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b08/tyrus-project-1.0-b08.jar returned status 404
+1.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b09/tyrus-project-1.0-b09.jar returned status 404
+1.0-b10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b10/tyrus-project-1.0-b10.jar returned status 404
+1.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b11/tyrus-project-1.0-b11.jar returned status 404
+1.0-b12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b12/tyrus-project-1.0-b12.jar returned status 404
+1.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b13/tyrus-project-1.0-b13.jar returned status 404
+1.0-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-b14/tyrus-project-1.0-b14.jar returned status 404
+1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-rc1/tyrus-project-1.0-rc1.jar returned status 404
+1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-rc2/tyrus-project-1.0-rc2.jar returned status 404
+1.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.0-rc3/tyrus-project-1.0-rc3.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.1/tyrus-project-1.1.jar returned status 404
 1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.18/tyrus-project-1.18.jar returned status 404
 1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.19/tyrus-project-1.19.jar returned status 404
 1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/tyrus-project/1.20/tyrus-project-1.20.jar returned status 404
