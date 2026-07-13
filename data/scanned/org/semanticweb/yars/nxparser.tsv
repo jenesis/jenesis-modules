@@ -1,1 +1,9 @@
 1.2.10		2016-10-14T10:09:39Z	
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/2.2/nxparser-2.2.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/2.3.1/nxparser-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/2.3.2/nxparser-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/2.3.3/nxparser-2.3.3.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/2.3.4/nxparser-2.3.4.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/3.0.0/nxparser-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/3.0.1/nxparser-3.0.1.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/semanticweb/yars/nxparser/4.0.0/nxparser-4.0.0.jar returned status 404

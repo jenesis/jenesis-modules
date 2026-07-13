@@ -1,3 +1,17 @@
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.0/cometd-javascript-3.1.0.jar returned status 404
+3.1.0-RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.0-RC0/cometd-javascript-3.1.0-RC0.jar returned status 404
+3.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.0-RC1/cometd-javascript-3.1.0-RC1.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.1/cometd-javascript-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.2/cometd-javascript-3.1.2.jar returned status 404
+3.1.2-BETA0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.2-BETA0/cometd-javascript-3.1.2-BETA0.jar returned status 404
+3.1.2-BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.2-BETA1/cometd-javascript-3.1.2-BETA1.jar returned status 404
+3.1.2-RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.2-RC0/cometd-javascript-3.1.2-RC0.jar returned status 404
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.3/cometd-javascript-3.1.3.jar returned status 404
+3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.4/cometd-javascript-3.1.4.jar returned status 404
+3.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.5/cometd-javascript-3.1.5.jar returned status 404
+3.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.6/cometd-javascript-3.1.6.jar returned status 404
+3.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.7/cometd-javascript-3.1.7.jar returned status 404
+3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/3.1.8/cometd-javascript-3.1.8.jar returned status 404
 5.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/5.0.22/cometd-javascript-5.0.22.jar returned status 404
 5.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/5.0.23/cometd-javascript-5.0.23.jar returned status 404
 6.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cometd/javascript/cometd-javascript/6.0.18/cometd-javascript-6.0.18.jar returned status 404
