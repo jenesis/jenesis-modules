@@ -1,6 +1,8 @@
 12.10.10		2017-12-20T22:25:15Z	
 12.10.6		2016-01-29T17:30:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/informix/server/12.10.6/server-12.10.6.jar returned status 404
+12.10.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/informix/server/12.10.8.1/server-12.10.8.1.jar returned status 404
 12.10.8.1	1-javadoc-DE	2019-07-24T23:46:51Z	
 12.10.8.1	1-sources-DE	2019-07-24T23:47:24Z	
+12.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/informix/server/12.10.9/server-12.10.9.jar returned status 404
 12.10.9	javadoc-DE	2019-07-24T23:52:35Z	
 12.10.9	sources-DE	2019-07-24T23:53:38Z	

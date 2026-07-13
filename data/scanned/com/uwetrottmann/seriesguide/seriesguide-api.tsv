@@ -4,6 +4,11 @@
 1.1.1		2014-08-21T13:58:32Z	
 1.2.0		2015-07-13T14:37:08Z	
 1.3.0		2016-09-22T09:43:37Z	
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/1.4.0/seriesguide-api-1.4.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.0.0/seriesguide-api-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.0.1/seriesguide-api-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.0.2/seriesguide-api-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.0.3/seriesguide-api-2.0.3.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.1.0/seriesguide-api-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.2.0/seriesguide-api-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/uwetrottmann/seriesguide/seriesguide-api/2.2.1/seriesguide-api-2.2.1.jar returned status 404
