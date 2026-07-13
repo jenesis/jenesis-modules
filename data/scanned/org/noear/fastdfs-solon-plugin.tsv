@@ -47,6 +47,7 @@
 1.6.37-m2		2022-04-03T10:20:21Z	
 1.6.37-m3		2022-04-04T14:18:53Z	
 1.6.37-m4		2022-04-05T15:08:38Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/fastdfs-solon-plugin/1.6.37-m5/fastdfs-solon-plugin-1.6.37-m5.jar returned status 404
 1.7.0		2022-04-06T15:31:46Z	
 1.7.1		2022-04-09T12:33:02Z	
 1.7.2		2022-04-15T15:48:14Z	

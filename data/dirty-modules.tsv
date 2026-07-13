@@ -1749,3 +1749,6 @@ bus.shade
 org.zeroturnaround.exec
 org.pdfsam.eventstudio
 swim.cli
+org.jooq
+jakarta.activation
+com.fasterxml.classmate

@@ -75,6 +75,7 @@
 1.2.20		2021-01-13T12:25:06Z	
 1.2.21		2021-01-17T02:41:44Z	
 1.2.22		2021-01-19T13:41:49Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.serialization.hession/1.2.23/solon.serialization.hession-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:08:06Z	
 1.2.25		2021-01-23T10:54:46Z	
 1.2.26		2021-01-24T14:16:53Z	
