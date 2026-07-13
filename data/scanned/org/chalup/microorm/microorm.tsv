@@ -4,3 +4,8 @@
 0.4		2014-02-25T08:17:26Z	
 0.4.1		2014-04-17T06:43:21Z	
 0.5		2014-09-19T10:08:00Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/microorm/microorm/0.6.0/microorm-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/microorm/microorm/0.6.1/microorm-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/microorm/microorm/0.6.2/microorm-0.6.2.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/microorm/microorm/0.7.0/microorm-0.7.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/microorm/microorm/0.8.0/microorm-0.8.0.jar returned status 404

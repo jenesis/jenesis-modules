@@ -1,3 +1,6 @@
 1.36.0.Final		2023-03-27T15:47:24Z	
 1.36.1.Final		2023-03-30T10:06:01Z	
 1.37.0.Final		2023-04-13T13:11:34Z	
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-serverless-workflow-executor/10.0.0/kogito-serverless-workflow-executor-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-serverless-workflow-executor/10.1.0/kogito-serverless-workflow-executor-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/kogito-serverless-workflow-executor/10.2.0/kogito-serverless-workflow-executor-10.2.0.jar returned status 404

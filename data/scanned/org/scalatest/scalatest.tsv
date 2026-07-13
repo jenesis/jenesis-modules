@@ -2,6 +2,7 @@
 0.81		2008-11-24T23:31:28Z	
 0.9.1		2008-11-24T23:31:34Z	
 0.9.3		2008-11-24T23:31:30Z	
+0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/scalatest/scalatest/0.9.4/scalatest-0.9.4.jar returned status 404
 0.9.5		2009-08-27T16:47:56Z	
 0.9.5	scaladoc	2009-08-27T16:48:00Z	
 1.0		2009-10-12T13:52:03Z	

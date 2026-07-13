@@ -1650,3 +1650,11 @@ org.atmosphere.channels
 org.atmosphere.coordinator
 org.atmosphere.embabel
 org.atmosphere.mcp.client
+org.sejda.impl.sambox
+org.sejda.core
+org.sejda.core.writer
+org.sejda.tests
+org.sejda.model
+org.sejda.fonts
+org.sejda.conversion
+com.fasterxml.jackson.datatype.jsr310

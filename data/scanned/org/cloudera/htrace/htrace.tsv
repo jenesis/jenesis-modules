@@ -9,3 +9,9 @@
 1.48		2012-08-20T22:40:40Z	
 1.49		2012-08-22T19:13:25Z	
 1.50		2013-02-21T22:35:32Z	
+2.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.00/htrace-2.00.jar returned status 404
+2.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.01/htrace-2.01.jar returned status 404
+2.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.02/htrace-2.02.jar returned status 404
+2.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.03/htrace-2.03.jar returned status 404
+2.04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.04/htrace-2.04.jar returned status 404
+2.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudera/htrace/htrace/2.05/htrace-2.05.jar returned status 404

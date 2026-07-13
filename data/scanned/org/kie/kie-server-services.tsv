@@ -1,3 +1,7 @@
+6.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-server-services/6.2.0.Beta1/kie-server-services-6.2.0.Beta1.jar returned status 404
+6.2.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-server-services/6.2.0.Beta2/kie-server-services-6.2.0.Beta2.jar returned status 404
+6.2.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-server-services/6.2.0.Beta3/kie-server-services-6.2.0.Beta3.jar returned status 404
+6.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-server-services/6.2.0.CR1/kie-server-services-6.2.0.CR1.jar returned status 404
 6.2.0.CR2		2014-11-11T19:28:02Z	
 6.2.0.CR3		2014-12-07T09:44:36Z	
 6.2.0.CR4		2015-01-12T10:26:35Z	

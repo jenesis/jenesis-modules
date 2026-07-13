@@ -3,6 +3,23 @@
 0.0.3		2016-09-19T15:26:57Z	
 0.0.4		2016-10-22T04:47:25Z	
 0.0.5		2016-10-30T15:51:34Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.2.0/MyBatisX-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.0/MyBatisX-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.1/MyBatisX-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.2/MyBatisX-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.3/MyBatisX-1.3.3.jar returned status 404
+1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.4/MyBatisX-1.3.4.jar returned status 404
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.5/MyBatisX-1.3.5.jar returned status 404
+1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.6/MyBatisX-1.3.6.jar returned status 404
+1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.3.7/MyBatisX-1.3.7.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.5.0/MyBatisX-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.5.1/MyBatisX-1.5.1.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.6.0/MyBatisX-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.7.0/MyBatisX-1.7.0.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.7.1/MyBatisX-1.7.1.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/1.7.2/MyBatisX-1.7.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.0.0/MyBatisX-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.0.1/MyBatisX-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.0.2/MyBatisX-2.0.2.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.1.0/MyBatisX-2.1.0.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/shenjia/MyBatisX/2.2.2/MyBatisX-2.2.2.jar returned status 404

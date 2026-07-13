@@ -1,2 +1,4 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/jitexecutor-native/10.0.0/jitexecutor-native-10.0.0.jar returned status 404
 10.0.0	binaries	2024-12-02T03:12:17Z	
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kogito/jitexecutor-native/10.1.0/jitexecutor-native-10.1.0.jar returned status 404
 10.1.0	binaries	2025-05-01T19:59:38Z	

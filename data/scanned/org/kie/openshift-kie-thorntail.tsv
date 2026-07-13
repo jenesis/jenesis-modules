@@ -1,4 +1,8 @@
+7.25.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/openshift-kie-thorntail/7.25.0.Final/openshift-kie-thorntail-7.25.0.Final.jar returned status 404
 7.25.0.Final	thorntail	2019-08-06T13:32:45Z	
+7.26.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/openshift-kie-thorntail/7.26.0.Final/openshift-kie-thorntail-7.26.0.Final.jar returned status 404
 7.26.0.Final	thorntail	2019-09-04T11:54:06Z	
+7.27.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/openshift-kie-thorntail/7.27.0.Final/openshift-kie-thorntail-7.27.0.Final.jar returned status 404
 7.27.0.Final	thorntail	2019-09-17T06:57:20Z	
+7.28.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/openshift-kie-thorntail/7.28.0.Final/openshift-kie-thorntail-7.28.0.Final.jar returned status 404
 7.28.0.Final	thorntail	2019-10-15T14:58:26Z	

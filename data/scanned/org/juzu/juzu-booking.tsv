@@ -30,6 +30,7 @@
 0.6.0-cr4		2013-04-09T12:48:54Z	
 0.6.1		2013-06-28T07:38:44Z	
 0.6.2		2014-05-09T12:56:12Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.7.0/juzu-booking-0.7.0.jar returned status 404
 0.7.0-beta1		2013-05-06T08:05:39Z	
 0.7.0-beta10		2013-06-10T12:25:32Z	
 0.7.0-beta11		2013-06-20T09:59:10Z	
@@ -48,6 +49,7 @@
 0.7.0-beta23		2013-10-08T14:57:39Z	
 0.7.0-beta24		2013-10-18T15:45:09Z	
 0.7.0-beta25		2013-10-22T10:52:44Z	
+0.7.0-beta26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.7.0-beta26/juzu-booking-0.7.0-beta26.jar returned status 404
 0.7.0-beta3		2013-05-21T13:10:34Z	
 0.7.0-beta4		2013-05-23T11:20:19Z	
 0.7.0-beta5		2013-05-23T14:22:53Z	
@@ -55,3 +57,33 @@
 0.7.0-beta7		2013-05-31T06:27:23Z	
 0.7.0-beta8		2013-06-03T13:32:56Z	
 0.7.0-beta9		2013-06-06T08:34:53Z	
+0.7.0-cr1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.7.0-cr1/juzu-booking-0.7.0-cr1.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0/juzu-booking-0.8.0.jar returned status 404
+0.8.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta1/juzu-booking-0.8.0-beta1.jar returned status 404
+0.8.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta2/juzu-booking-0.8.0-beta2.jar returned status 404
+0.8.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta3/juzu-booking-0.8.0-beta3.jar returned status 404
+0.8.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta4/juzu-booking-0.8.0-beta4.jar returned status 404
+0.8.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta5/juzu-booking-0.8.0-beta5.jar returned status 404
+0.8.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta6/juzu-booking-0.8.0-beta6.jar returned status 404
+0.8.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/0.8.0-beta7/juzu-booking-0.8.0-beta7.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0/juzu-booking-1.0.0.jar returned status 404
+1.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0-beta1/juzu-booking-1.0.0-beta1.jar returned status 404
+1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0-beta2/juzu-booking-1.0.0-beta2.jar returned status 404
+1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0-beta3/juzu-booking-1.0.0-beta3.jar returned status 404
+1.0.0-cr1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0-cr1/juzu-booking-1.0.0-cr1.jar returned status 404
+1.0.0-cr2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.0.0-cr2/juzu-booking-1.0.0-cr2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.0/juzu-booking-1.1.0.jar returned status 404
+1.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.0-M1/juzu-booking-1.1.0-M1.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.1/juzu-booking-1.1.1.jar returned status 404
+1.1.1-M01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.1-M01/juzu-booking-1.1.1-M01.jar returned status 404
+1.1.1-RC01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.1-RC01/juzu-booking-1.1.1-RC01.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.2/juzu-booking-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.1.3/juzu-booking-1.1.3.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0/juzu-booking-1.2.0.jar returned status 404
+1.2.0-M01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M01/juzu-booking-1.2.0-M01.jar returned status 404
+1.2.0-M02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M02/juzu-booking-1.2.0-M02.jar returned status 404
+1.2.0-M03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M03/juzu-booking-1.2.0-M03.jar returned status 404
+1.2.0-M04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M04/juzu-booking-1.2.0-M04.jar returned status 404
+1.2.0-M05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M05/juzu-booking-1.2.0-M05.jar returned status 404
+1.2.0-M06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-M06/juzu-booking-1.2.0-M06.jar returned status 404
+1.2.0-RC01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/juzu/juzu-booking/1.2.0-RC01/juzu-booking-1.2.0-RC01.jar returned status 404

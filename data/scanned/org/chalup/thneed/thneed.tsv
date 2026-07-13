@@ -4,3 +4,4 @@
 0.4		2013-09-04T06:59:27Z	
 0.5		2013-10-29T08:42:09Z	
 0.6		2014-02-25T08:24:19Z	
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chalup/thneed/thneed/0.7/thneed-0.7.jar returned status 404

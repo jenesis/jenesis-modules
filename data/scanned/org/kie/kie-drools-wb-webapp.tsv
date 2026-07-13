@@ -1,18 +1,88 @@
+6.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.Beta3/kie-drools-wb-webapp-6.0.0.Beta3.jar returned status 404
+6.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.Beta4/kie-drools-wb-webapp-6.0.0.Beta4.jar returned status 404
+6.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.Beta5/kie-drools-wb-webapp-6.0.0.Beta5.jar returned status 404
+6.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR1/kie-drools-wb-webapp-6.0.0.CR1.jar returned status 404
+6.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR2/kie-drools-wb-webapp-6.0.0.CR2.jar returned status 404
+6.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR3/kie-drools-wb-webapp-6.0.0.CR3.jar returned status 404
+6.0.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR4/kie-drools-wb-webapp-6.0.0.CR4.jar returned status 404
+6.0.0.CR4-Pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR4-Pre1/kie-drools-wb-webapp-6.0.0.CR4-Pre1.jar returned status 404
+6.0.0.CR5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.CR5/kie-drools-wb-webapp-6.0.0.CR5.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.0.Final/kie-drools-wb-webapp-6.0.0.Final.jar returned status 404
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.0.1.Final/kie-drools-wb-webapp-6.0.1.Final.jar returned status 404
+6.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.Beta1/kie-drools-wb-webapp-6.1.0.Beta1.jar returned status 404
+6.1.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.Beta2/kie-drools-wb-webapp-6.1.0.Beta2.jar returned status 404
+6.1.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.Beta3/kie-drools-wb-webapp-6.1.0.Beta3.jar returned status 404
+6.1.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.Beta4/kie-drools-wb-webapp-6.1.0.Beta4.jar returned status 404
+6.1.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.CR1/kie-drools-wb-webapp-6.1.0.CR1.jar returned status 404
+6.1.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.CR2/kie-drools-wb-webapp-6.1.0.CR2.jar returned status 404
+6.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.1.0.Final/kie-drools-wb-webapp-6.1.0.Final.jar returned status 404
+6.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.Beta1/kie-drools-wb-webapp-6.2.0.Beta1.jar returned status 404
+6.2.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.Beta2/kie-drools-wb-webapp-6.2.0.Beta2.jar returned status 404
+6.2.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.Beta3/kie-drools-wb-webapp-6.2.0.Beta3.jar returned status 404
+6.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.CR1/kie-drools-wb-webapp-6.2.0.CR1.jar returned status 404
+6.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.CR2/kie-drools-wb-webapp-6.2.0.CR2.jar returned status 404
+6.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.CR3/kie-drools-wb-webapp-6.2.0.CR3.jar returned status 404
+6.2.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.CR4/kie-drools-wb-webapp-6.2.0.CR4.jar returned status 404
+6.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.2.0.Final/kie-drools-wb-webapp-6.2.0.Final.jar returned status 404
+6.3.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.3.0.Beta1/kie-drools-wb-webapp-6.3.0.Beta1.jar returned status 404
+6.3.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.3.0.Beta2/kie-drools-wb-webapp-6.3.0.Beta2.jar returned status 404
+6.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.3.0.CR1/kie-drools-wb-webapp-6.3.0.CR1.jar returned status 404
+6.3.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.3.0.CR2/kie-drools-wb-webapp-6.3.0.CR2.jar returned status 404
+6.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.3.0.Final/kie-drools-wb-webapp-6.3.0.Final.jar returned status 404
+6.4.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.4.0.Beta1/kie-drools-wb-webapp-6.4.0.Beta1.jar returned status 404
+6.4.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.4.0.Beta2/kie-drools-wb-webapp-6.4.0.Beta2.jar returned status 404
+6.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.4.0.CR1/kie-drools-wb-webapp-6.4.0.CR1.jar returned status 404
+6.4.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.4.0.CR2/kie-drools-wb-webapp-6.4.0.CR2.jar returned status 404
+6.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.4.0.Final/kie-drools-wb-webapp-6.4.0.Final.jar returned status 404
+6.5.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.5.0.Beta1/kie-drools-wb-webapp-6.5.0.Beta1.jar returned status 404
+6.5.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.5.0.CR1/kie-drools-wb-webapp-6.5.0.CR1.jar returned status 404
+6.5.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.5.0.CR2/kie-drools-wb-webapp-6.5.0.CR2.jar returned status 404
+6.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/6.5.0.Final/kie-drools-wb-webapp-6.5.0.Final.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta1/kie-drools-wb-webapp-7.0.0.Beta1.jar returned status 404
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta2/kie-drools-wb-webapp-7.0.0.Beta2.jar returned status 404
+7.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta3/kie-drools-wb-webapp-7.0.0.Beta3.jar returned status 404
+7.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta4/kie-drools-wb-webapp-7.0.0.Beta4.jar returned status 404
+7.0.0.Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta5/kie-drools-wb-webapp-7.0.0.Beta5.jar returned status 404
+7.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta6/kie-drools-wb-webapp-7.0.0.Beta6.jar returned status 404
+7.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta7/kie-drools-wb-webapp-7.0.0.Beta7.jar returned status 404
+7.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Beta8/kie-drools-wb-webapp-7.0.0.Beta8.jar returned status 404
+7.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.CR1/kie-drools-wb-webapp-7.0.0.CR1.jar returned status 404
+7.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.CR2/kie-drools-wb-webapp-7.0.0.CR2.jar returned status 404
+7.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.CR3/kie-drools-wb-webapp-7.0.0.CR3.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.0.0.Final/kie-drools-wb-webapp-7.0.0.Final.jar returned status 404
+7.1.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.1.0.Beta1/kie-drools-wb-webapp-7.1.0.Beta1.jar returned status 404
 7.1.0.Beta1	swarm	2017-05-04T13:19:49Z	
+7.1.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.1.0.Beta2/kie-drools-wb-webapp-7.1.0.Beta2.jar returned status 404
 7.1.0.Beta2	swarm	2017-05-31T13:17:44Z	
+7.1.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.1.0.Beta3/kie-drools-wb-webapp-7.1.0.Beta3.jar returned status 404
 7.1.0.Beta3	swarm	2017-06-19T17:36:19Z	
+7.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.1.0.Final/kie-drools-wb-webapp-7.1.0.Final.jar returned status 404
 7.1.0.Final	swarm	2017-07-14T14:49:57Z	
+7.10.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.10.0.Final/kie-drools-wb-webapp-7.10.0.Final.jar returned status 404
 7.10.0.Final	swarm	2018-08-14T08:17:54Z	
+7.11.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.11.0.Final/kie-drools-wb-webapp-7.11.0.Final.jar returned status 404
 7.11.0.Final	swarm	2018-09-03T13:54:48Z	
+7.12.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.12.0.Final/kie-drools-wb-webapp-7.12.0.Final.jar returned status 404
 7.12.0.Final	swarm	2018-09-26T14:16:51Z	
+7.13.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.13.0.Final/kie-drools-wb-webapp-7.13.0.Final.jar returned status 404
 7.13.0.Final	swarm	2018-10-18T16:32:08Z	
+7.14.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.14.0.Final/kie-drools-wb-webapp-7.14.0.Final.jar returned status 404
 7.14.0.Final	swarm	2018-11-07T14:52:49Z	
+7.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.2.0.Final/kie-drools-wb-webapp-7.2.0.Final.jar returned status 404
 7.2.0.Final	swarm	2017-08-15T08:36:11Z	
+7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.3.0.Final/kie-drools-wb-webapp-7.3.0.Final.jar returned status 404
 7.3.0.Final	swarm	2017-09-04T14:13:08Z	
+7.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.4.0.Final/kie-drools-wb-webapp-7.4.0.Final.jar returned status 404
 7.4.0.Final	swarm	2017-10-10T13:50:44Z	
+7.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.4.1.Final/kie-drools-wb-webapp-7.4.1.Final.jar returned status 404
 7.4.1.Final	swarm	2017-10-24T11:46:15Z	
+7.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.5.0.Final/kie-drools-wb-webapp-7.5.0.Final.jar returned status 404
 7.5.0.Final	swarm	2017-12-06T13:43:48Z	
+7.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.6.0.Final/kie-drools-wb-webapp-7.6.0.Final.jar returned status 404
 7.6.0.Final	swarm	2018-01-31T17:16:32Z	
+7.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.7.0.Final/kie-drools-wb-webapp-7.7.0.Final.jar returned status 404
 7.7.0.Final	swarm	2018-03-26T14:06:29Z	
+7.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.8.0.Final/kie-drools-wb-webapp-7.8.0.Final.jar returned status 404
 7.8.0.Final	swarm	2018-07-02T14:18:31Z	
+7.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kie/kie-drools-wb-webapp/7.9.0.Final/kie-drools-wb-webapp-7.9.0.Final.jar returned status 404
 7.9.0.Final	swarm	2018-07-25T05:42:43Z	
