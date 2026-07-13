@@ -1,4 +1,7 @@
 1.12.4		2023-04-03T05:51:15Z	
+1.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bardframework/form/bard-form/1.3.15/bard-form-1.3.15.jar returned status 404
+1.3.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bardframework/form/bard-form/1.3.19/bard-form-1.3.19.jar returned status 404
+1.3.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bardframework/form/bard-form/1.3.29/bard-form-1.3.29.jar returned status 404
 1.4.19		2022-07-20T15:13:05Z	
 1.5.19		2022-08-20T06:35:43Z	
 1.5.29		2022-08-23T04:06:44Z	

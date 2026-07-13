@@ -1,3 +1,10 @@
+3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.31.0/jdbi3-internal-parent-3.31.0.jar returned status 404
+3.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.32.0/jdbi3-internal-parent-3.32.0.jar returned status 404
+3.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.33.0/jdbi3-internal-parent-3.33.0.jar returned status 404
+3.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.34.0/jdbi3-internal-parent-3.34.0.jar returned status 404
+3.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.35.0/jdbi3-internal-parent-3.35.0.jar returned status 404
+3.35.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.35.0-rc1/jdbi3-internal-parent-3.35.0-rc1.jar returned status 404
+3.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.36.0/jdbi3-internal-parent-3.36.0.jar returned status 404
 3.49.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.49.4/jdbi3-internal-parent-3.49.4.jar returned status 404
 3.49.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.49.5/jdbi3-internal-parent-3.49.5.jar returned status 404
 3.49.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdbi/internal/jdbi3-internal-parent/3.49.6/jdbi3-internal-parent-3.49.6.jar returned status 404

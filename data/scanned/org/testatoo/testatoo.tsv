@@ -33,3 +33,7 @@
 2.0.b7		2015-01-31T05:02:00Z	
 2.0.b8		2015-01-31T16:39:49Z	
 2.0.b9		2015-02-06T04:59:03Z	
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testatoo/testatoo/3/testatoo-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testatoo/testatoo/4/testatoo-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testatoo/testatoo/5/testatoo-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testatoo/testatoo/6/testatoo-6.jar returned status 404

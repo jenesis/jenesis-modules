@@ -1,4 +1,17 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/10.0.0/maven-plugin-10.0.0.jar returned status 404
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/10.0.2/maven-plugin-10.0.2.jar returned status 404
+10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/10.0.3/maven-plugin-10.0.3.jar returned status 404
+21.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.0/maven-plugin-21.0.0.jar returned status 404
+21.0.1-SNAPHOST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.1-SNAPHOST/maven-plugin-21.0.1-SNAPHOST.jar returned status 404
 21.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.10/maven-plugin-21.0.10.jar returned status 404
 21.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.11/maven-plugin-21.0.11.jar returned status 404
+21.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.2/maven-plugin-21.0.2.jar returned status 404
+21.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.3/maven-plugin-21.0.3.jar returned status 404
+21.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.4/maven-plugin-21.0.4.jar returned status 404
+21.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.5/maven-plugin-21.0.5.jar returned status 404
 21.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.8/maven-plugin-21.0.8.jar returned status 404
 21.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/21.0.9/maven-plugin-21.0.9.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/4.5.0/maven-plugin-4.5.0.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/4.5.1/maven-plugin-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/4.5.2/maven-plugin-4.5.2.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/parent/maven-plugin/4.6.0/maven-plugin-4.6.0.jar returned status 404
