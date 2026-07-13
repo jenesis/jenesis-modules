@@ -4,3 +4,13 @@
 6.1.1		2014-05-06T15:15:24Z	
 6.1.5		2014-05-31T12:22:58Z	
 6.1.6		2014-06-05T10:18:59Z	
+6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.1.8/gridgain-hadoop2-6.1.8.jar returned status 404
+6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.1.9/gridgain-hadoop2-6.1.9.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0/gridgain-hadoop2-6.2.0.jar returned status 404
+6.2.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0-rc1/gridgain-hadoop2-6.2.0-rc1.jar returned status 404
+6.2.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0-rc2/gridgain-hadoop2-6.2.0-rc2.jar returned status 404
+6.2.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0-rc4/gridgain-hadoop2-6.2.0-rc4.jar returned status 404
+6.2.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0-rc5/gridgain-hadoop2-6.2.0-rc5.jar returned status 404
+6.2.0-rc6p1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.0-rc6p1/gridgain-hadoop2-6.2.0-rc6p1.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.1/gridgain-hadoop2-6.2.1.jar returned status 404
+6.2.1-p1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridgain/gridgain-hadoop2/6.2.1-p1/gridgain-hadoop2-6.2.1-p1.jar returned status 404

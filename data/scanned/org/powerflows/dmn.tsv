@@ -12,3 +12,5 @@
 1.0.0		2019-03-25T22:30:13Z	
 1.1.0		2019-04-04T18:57:08Z	
 1.1.1		2019-04-13T07:34:59Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/powerflows/dmn/2.0.0/dmn-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/powerflows/dmn/2.1.0/dmn-2.1.0.jar returned status 404

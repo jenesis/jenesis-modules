@@ -1,1 +1,9 @@
+1.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.1.RELEASE/glf-parent-1.1.RELEASE.jar returned status 404
+1.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.2.RELEASE/glf-parent-1.2.RELEASE.jar returned status 404
+1.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.3.RELEASE/glf-parent-1.3.RELEASE.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.4.1/glf-parent-1.4.1.jar returned status 404
+1.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.4.RELEASE/glf-parent-1.4.RELEASE.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/1.5.0/glf-parent-1.5.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/2.0.0/glf-parent-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/2.1.0/glf-parent-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seppiko/glf/glf-parent/2.2.0/glf-parent-2.2.0.jar returned status 404

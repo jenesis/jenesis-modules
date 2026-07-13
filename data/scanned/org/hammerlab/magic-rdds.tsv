@@ -1,4 +1,9 @@
 1.0.0		2016-08-22T01:08:00Z	
 1.1.0		2016-08-29T03:26:22Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hammerlab/magic-rdds/1.2.1/magic-rdds-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hammerlab/magic-rdds/1.2.2/magic-rdds-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hammerlab/magic-rdds/1.2.3/magic-rdds-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hammerlab/magic-rdds/1.2.4/magic-rdds-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hammerlab/magic-rdds/1.2.5/magic-rdds-1.2.5.jar returned status 404
 1.2.8_2.10		2016-10-14T17:57:11Z	
 1.2.8_2.11		2016-10-14T18:01:23Z	

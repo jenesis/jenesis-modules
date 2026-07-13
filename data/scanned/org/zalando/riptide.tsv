@@ -8,6 +8,29 @@
 1.0.0		2015-11-06T21:54:59Z	
 1.1.0		2015-11-25T20:11:39Z	
 1.2.0		2016-04-21T17:17:12Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0/riptide-3.0.0.jar returned status 404
+3.0.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.10/riptide-3.0.0-RC.10.jar returned status 404
+3.0.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.11/riptide-3.0.0-RC.11.jar returned status 404
+3.0.0-RC.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.12/riptide-3.0.0-RC.12.jar returned status 404
+3.0.0-RC.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.13/riptide-3.0.0-RC.13.jar returned status 404
+3.0.0-RC.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.14/riptide-3.0.0-RC.14.jar returned status 404
+3.0.0-RC.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.15/riptide-3.0.0-RC.15.jar returned status 404
+3.0.0-RC.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.0.0-RC.16/riptide-3.0.0-RC.16.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.1.0/riptide-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.1.1/riptide-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.1.2/riptide-3.1.2.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.2.0/riptide-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.2.1/riptide-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.2.2/riptide-3.2.2.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.3.0/riptide-3.3.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/3.4.0/riptide-3.4.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.0.0/riptide-4.0.0.jar returned status 404
+4.0.0-RC.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.0.0-RC.0/riptide-4.0.0-RC.0.jar returned status 404
+4.0.0-RC.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.0.0-RC.1/riptide-4.0.0-RC.1.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.1.0/riptide-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.2.0/riptide-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.3.0/riptide-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.4.0/riptide-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/4.5.0/riptide-4.5.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/5.0.0/riptide-5.0.0.jar returned status 404
 5.0.0-RC.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/zalando/riptide/5.0.0-RC.0/riptide-5.0.0-RC.0.jar returned status 404

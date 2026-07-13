@@ -858,3 +858,10 @@ javafx.baseEmpty
 javafx.swingEmpty
 jdk.jsobjectEmpty
 io.questdb
+org.alexmond.notify4j.spring
+org.alexmond.gotmpl4j.sprig
+org.alexmond.gotmpl4j.spring.context
+org.alexmond.gotmpl4j
+org.alexmond.notify4j
+org.alexmond.gotmpl4j.spring
+org.apache.commons.beanutils2

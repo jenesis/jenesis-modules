@@ -1,3 +1,12 @@
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.3/javastro-mavenbase-0.3.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.3.1/javastro-mavenbase-0.3.1.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.3.3/javastro-mavenbase-0.3.3.jar returned status 404
+0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.3.4/javastro-mavenbase-0.3.4.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.4.0/javastro-mavenbase-0.4.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.6.0/javastro-mavenbase-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.6.1/javastro-mavenbase-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.6.2/javastro-mavenbase-0.6.2.jar returned status 404
+0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/0.6.4/javastro-mavenbase-0.6.4.jar returned status 404
 2025.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/2025.1/javastro-mavenbase-2025.1.jar returned status 404
 2025.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/2025.2/javastro-mavenbase-2025.2.jar returned status 404
 2025.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javastro/javastro-mavenbase/2025.3/javastro-mavenbase-2025.3.jar returned status 404
