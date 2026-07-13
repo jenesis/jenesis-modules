@@ -7,6 +7,7 @@
 1.1.4		2021-11-03T15:54:42Z	
 1.1.5		2022-03-25T22:59:50Z	
 1.2.0		2022-12-04T22:29:51Z	
+1.2.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/locationtech/proj4j/proj4j/1.2.0-SNAPSHOT/proj4j-1.2.0-SNAPSHOT.jar returned status 404
 1.2.1		2022-12-12T16:12:09Z	
 1.2.2		2022-12-13T04:48:44Z	
 1.2.3		2023-01-26T01:23:27Z	

@@ -1,3 +1,4 @@
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/locationtech/proj4j/proj4j-modules/1.4.0/proj4j-modules-1.4.0.jar returned status 404
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/locationtech/proj4j/proj4j-modules/1.4.1/proj4j-modules-1.4.1.jar returned status 404
 1.4.2		2026-05-24T16:03:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/locationtech/proj4j/proj4j-modules/1.4.2/proj4j-modules-1.4.2.jar returned status 404
 1.4.3		2026-06-02T15:44:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/locationtech/proj4j/proj4j-modules/1.4.3/proj4j-modules-1.4.3.jar returned status 404

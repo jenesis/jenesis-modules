@@ -1305,3 +1305,16 @@ kotlin.native_utils
 com.fasterxml.aalto
 kotlin.test
 org.jspecify
+litebridge.annotations
+litebridge.db.oracle
+litebridge.db.spi.impl
+litebridge.tracking
+litebridge.spring
+litebridge.spring.boot.autoconfigure
+litebridge.db.h2
+litebridge.db.spi
+litebridge.db.postgres
+litebridge.commons
+litebridge.converter
+litebridge.orm
+litebridge.db.sqlite

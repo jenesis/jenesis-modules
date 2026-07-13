@@ -17,3 +17,15 @@
 0.5.3		2018-09-07T09:48:40Z	
 0.5.4		2018-11-02T14:33:00Z	
 0.5.5		2019-02-06T14:38:42Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/1.0.0/spring-batch-lightmin-core-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/1.0.1/spring-batch-lightmin-core-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/1.0.2/spring-batch-lightmin-core-1.0.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.0.0/spring-batch-lightmin-core-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.0.1/spring-batch-lightmin-core-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.0.2/spring-batch-lightmin-core-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.0.3/spring-batch-lightmin-core-2.0.3.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.1.0/spring-batch-lightmin-core-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.1.1/spring-batch-lightmin-core-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.1.2/spring-batch-lightmin-core-2.1.2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.2.0/spring-batch-lightmin-core-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tuxdevelop/spring-batch-lightmin-core/2.2.1/spring-batch-lightmin-core-2.2.1.jar returned status 404
