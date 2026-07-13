@@ -1,3 +1,10 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.0/ijkplayer-armv7a-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.1/ijkplayer-armv7a-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.2/ijkplayer-armv7a-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.3/ijkplayer-armv7a-1.0.3.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.5/ijkplayer-armv7a-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.6/ijkplayer-armv7a-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/1.0.7/ijkplayer-armv7a-1.0.7.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.10/ijkplayer-armv7a-2.0.10.jar returned status 404
 2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.11/ijkplayer-armv7a-2.0.11.jar returned status 404
 2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.12/ijkplayer-armv7a-2.0.12.jar returned status 404
@@ -12,6 +19,7 @@
 2.0.19-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.19-beta.1/ijkplayer-armv7a-2.0.19-beta.1.jar returned status 404
 2.0.19-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.19-beta.2/ijkplayer-armv7a-2.0.19-beta.2.jar returned status 404
 2.0.19-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.19-beta.3/ijkplayer-armv7a-2.0.19-beta.3.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.6/ijkplayer-armv7a-2.0.6.jar returned status 404
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.7/ijkplayer-armv7a-2.0.7.jar returned status 404
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.8/ijkplayer-armv7a-2.0.8.jar returned status 404
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/thirdparty/android/ijkplayer-armv7a/2.0.9/ijkplayer-armv7a-2.0.9.jar returned status 404
