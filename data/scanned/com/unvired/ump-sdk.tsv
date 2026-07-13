@@ -38,15 +38,22 @@ ${1}.${2}.${3}			IllegalArgumentException: Illegal character in path at index 21
 5.4.82		2021-02-13T12:14:09Z	
 5.5.103		2021-06-17T10:47:45Z	
 5.5.166		2021-07-20T13:35:36Z	
+5.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.5.31/ump-sdk-5.5.31.jar returned status 404
 5.5.34		2021-05-11T07:13:52Z	
 5.5.67		2021-05-29T08:38:06Z	
 5.5.87		2021-06-08T11:34:28Z	
 5.7.5		2021-10-19T08:01:48Z	
 5.7.6		2021-10-19T08:31:45Z	
+5.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.8.10/ump-sdk-5.8.10.jar returned status 404
 5.8.131		2022-05-27T01:53:05Z	
 5.9.12		2022-07-05T06:00:49Z	
+5.9.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.9.120/ump-sdk-5.9.120.jar returned status 404
+5.9.136			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.9.136/ump-sdk-5.9.136.jar returned status 404
+5.9.168			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.9.168/ump-sdk-5.9.168.jar returned status 404
 5.9.171		2023-03-16T03:33:15Z	
 5.9.173		2023-03-16T03:50:09Z	
+5.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.9.24/ump-sdk-5.9.24.jar returned status 404
+5.9.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unvired/ump-sdk/5.9.68/ump-sdk-5.9.68.jar returned status 404
 5.9.69		2022-08-12T08:46:44Z	
 5.9.91		2022-09-24T10:10:28Z	
 6.1.103		2025-02-24T06:29:16Z	

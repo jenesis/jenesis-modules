@@ -777,9 +777,11 @@
 6.0.10	jsdoc	2021-10-09T18:20:32Z	
 6.0.10	jspc	2021-10-09T18:20:32Z	
 6.0.10	sources-commercial	2021-10-09T18:20:32Z	
+6.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portlet.configuration.css.web/6.0.11/com.liferay.portlet.configuration.css.web-6.0.11.jar returned status 404
 6.0.11	jsdoc	2021-10-13T19:20:05Z	
 6.0.11	jspc	2021-10-13T19:20:03Z	
 6.0.11	sources-commercial	2021-10-13T19:20:04Z	
+6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portlet.configuration.css.web/6.0.12/com.liferay.portlet.configuration.css.web-6.0.12.jar returned status 404
 6.0.12	jsdoc	2021-10-13T19:54:20Z	
 6.0.12	jspc	2021-10-13T19:54:20Z	
 6.0.12	sources-commercial	2021-10-13T19:54:19Z	

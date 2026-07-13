@@ -1,3 +1,16 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.0/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.1/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.1.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.10/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.10.jar returned status 404
+1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.11/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.11.jar returned status 404
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.12/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.12.jar returned status 404
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.13/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.13.jar returned status 404
+1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.14/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.14.jar returned status 404
+1.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.15/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.15.jar returned status 404
+1.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.16/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.16.jar returned status 404
+1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.17/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.17.jar returned status 404
+1.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.18/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.18.jar returned status 404
+1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.19/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.19.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.2/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.2.jar returned status 404
 1.0.20		2020-10-22T18:06:11Z	
 1.0.20	jspc	2020-10-22T18:06:14Z	
 1.0.20	sources-commercial	2020-10-22T18:06:13Z	
@@ -28,6 +41,7 @@
 1.0.29		2022-02-28T12:54:15Z	
 1.0.29	jspc	2022-02-28T12:54:17Z	
 1.0.29	sources-commercial	2022-02-28T12:54:17Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.3/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.3.jar returned status 404
 1.0.30		2023-02-27T15:56:20Z	
 1.0.30	jspc	2023-02-27T15:56:23Z	
 1.0.30	sources-commercial	2023-02-27T15:56:25Z	
@@ -36,6 +50,29 @@
 1.0.31	sources-commercial	2023-07-20T09:31:27Z	
 1.0.32		2024-02-27T13:50:35Z	
 1.0.32	jspc	2024-02-27T13:50:37Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.4/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.5/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.6/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.7/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.8/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/1.0.9/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-1.0.9.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.0/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.1/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.1.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.10/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.10.jar returned status 404
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.11/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.11.jar returned status 404
+2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.12/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.12.jar returned status 404
+2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.13/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.13.jar returned status 404
+2.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.14/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.14.jar returned status 404
+2.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.15/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.15.jar returned status 404
+2.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.16/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.16.jar returned status 404
+2.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.17/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.17.jar returned status 404
+2.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.18/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.18.jar returned status 404
+2.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.19/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.19.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.2/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.2.jar returned status 404
+2.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.20/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.20.jar returned status 404
+2.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.21/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.21.jar returned status 404
+2.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.22/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.22.jar returned status 404
+2.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.23/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.23.jar returned status 404
 2.0.24		2020-10-22T06:45:51Z	
 2.0.24	jspc	2020-10-22T06:45:52Z	
 2.0.24	sources-commercial	2020-10-22T06:45:53Z	
@@ -54,6 +91,7 @@
 2.0.29		2021-07-05T23:18:08Z	
 2.0.29	jspc	2021-07-05T23:18:11Z	
 2.0.29	sources-commercial	2021-07-05T23:18:10Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.3/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.3.jar returned status 404
 2.0.30		2021-07-15T21:24:26Z	
 2.0.30	jspc	2021-07-15T21:24:27Z	
 2.0.30	sources-commercial	2021-07-15T21:24:29Z	
@@ -83,12 +121,25 @@
 2.0.38	sources-commercial	2023-07-05T15:08:36Z	
 2.0.39		2023-07-21T16:28:23Z	
 2.0.39	jspc	2023-07-21T16:28:25Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.4/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.4.jar returned status 404
 2.0.40		2023-12-07T03:13:35Z	
 2.0.40	jspc	2023-12-07T03:13:38Z	
 2.0.41		2024-02-27T16:44:23Z	
 2.0.41	jspc	2024-02-27T16:44:25Z	
 2.0.42		2025-04-08T10:51:37Z	
 2.0.42	jspc	2025-04-08T10:51:42Z	
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.5/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.6/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.7/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.8/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.8.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/2.0.9/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-2.0.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.0/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.1/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.1.jar returned status 404
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.10/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.11/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.11.jar returned status 404
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.12/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.12.jar returned status 404
+3.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.13/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.13.jar returned status 404
+3.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.14/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.14.jar returned status 404
 3.0.15		2020-10-16T00:01:46Z	
 3.0.15	jspc	2020-10-16T00:01:47Z	
 3.0.15	sources-commercial	2020-10-16T00:01:48Z	
@@ -104,6 +155,7 @@
 3.0.19		2021-01-25T16:37:44Z	
 3.0.19	jspc	2021-01-25T16:37:46Z	
 3.0.19	sources-commercial	2021-01-25T16:37:46Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.2/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.2.jar returned status 404
 3.0.20		2021-03-02T01:46:26Z	
 3.0.20	jspc	2021-03-02T01:46:27Z	
 3.0.20	sources-commercial	2021-03-02T01:46:29Z	
@@ -134,6 +186,7 @@
 3.0.29		2023-01-17T19:22:22Z	
 3.0.29	jspc	2023-01-17T19:22:24Z	
 3.0.29	sources-commercial	2023-01-17T19:22:26Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.3/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.3.jar returned status 404
 3.0.30		2023-07-05T21:33:15Z	
 3.0.30	jspc	2023-07-05T21:33:17Z	
 3.0.30	sources-commercial	2023-07-05T21:33:20Z	
@@ -145,3 +198,18 @@
 3.0.33	jspc	2024-02-28T01:50:55Z	
 3.0.34		2025-04-03T08:40:39Z	
 3.0.34	jspc	2025-04-03T08:40:44Z	
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.4/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.5/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.6/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.7/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.8/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/3.0.9/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-3.0.9.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.0/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.1/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.2/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.3/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.4/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.5/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.6/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.6.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.7/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.7.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web/4.0.8/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web-4.0.8.jar returned status 404

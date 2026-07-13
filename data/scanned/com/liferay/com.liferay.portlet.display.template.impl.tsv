@@ -60,6 +60,7 @@
 2.0.4	sources-commercial	2019-08-06T22:30:45Z	
 2.0.5		2019-08-14T07:26:30Z	
 2.0.5	sources-commercial	2019-08-14T07:26:33Z	
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portlet.display.template.impl/2.0.6/com.liferay.portlet.display.template.impl-2.0.6.jar returned status 404
 2.0.7		2019-09-19T09:16:54Z	
 2.0.7	sources-commercial	2019-09-19T09:16:59Z	
 2.0.8		2019-10-29T09:28:14Z	

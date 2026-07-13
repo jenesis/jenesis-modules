@@ -1,3 +1,18 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.0/com.liferay.portal.workflow.kaleo.designer.api-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.1/com.liferay.portal.workflow.kaleo.designer.api-1.0.1.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.10/com.liferay.portal.workflow.kaleo.designer.api-1.0.10.jar returned status 404
+1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.11/com.liferay.portal.workflow.kaleo.designer.api-1.0.11.jar returned status 404
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.12/com.liferay.portal.workflow.kaleo.designer.api-1.0.12.jar returned status 404
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.13/com.liferay.portal.workflow.kaleo.designer.api-1.0.13.jar returned status 404
+1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.14/com.liferay.portal.workflow.kaleo.designer.api-1.0.14.jar returned status 404
+1.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.15/com.liferay.portal.workflow.kaleo.designer.api-1.0.15.jar returned status 404
+1.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.16/com.liferay.portal.workflow.kaleo.designer.api-1.0.16.jar returned status 404
+1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.17/com.liferay.portal.workflow.kaleo.designer.api-1.0.17.jar returned status 404
+1.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.18/com.liferay.portal.workflow.kaleo.designer.api-1.0.18.jar returned status 404
+1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.19/com.liferay.portal.workflow.kaleo.designer.api-1.0.19.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.2/com.liferay.portal.workflow.kaleo.designer.api-1.0.2.jar returned status 404
+1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.20/com.liferay.portal.workflow.kaleo.designer.api-1.0.20.jar returned status 404
+1.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.21/com.liferay.portal.workflow.kaleo.designer.api-1.0.21.jar returned status 404
 1.0.22		2020-02-11T05:28:52Z	
 1.0.22	sources-commercial	2020-02-11T05:28:59Z	
 1.0.23		2020-06-24T21:53:48Z	
@@ -12,6 +27,13 @@
 1.0.27	sources-commercial	2021-10-29T16:19:35Z	
 1.0.28		2021-12-14T05:39:37Z	
 1.0.28	sources-commercial	2021-12-14T05:39:39Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.3/com.liferay.portal.workflow.kaleo.designer.api-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.4/com.liferay.portal.workflow.kaleo.designer.api-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.5/com.liferay.portal.workflow.kaleo.designer.api-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.6/com.liferay.portal.workflow.kaleo.designer.api-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.7/com.liferay.portal.workflow.kaleo.designer.api-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.8/com.liferay.portal.workflow.kaleo.designer.api-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.designer.api/1.0.9/com.liferay.portal.workflow.kaleo.designer.api-1.0.9.jar returned status 404
 1.1.0		2023-07-20T09:37:39Z	
 1.1.0	sources-commercial	2023-07-20T09:37:58Z	
 1.1.1		2024-02-27T13:53:23Z	

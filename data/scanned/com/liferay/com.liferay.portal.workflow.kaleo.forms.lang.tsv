@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.0/com.liferay.portal.workflow.kaleo.forms.lang-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.1/com.liferay.portal.workflow.kaleo.forms.lang-1.0.1.jar returned status 404
 1.0.10		2020-11-03T23:56:35Z	
 1.0.10	sources-commercial	2020-11-03T23:56:37Z	
 1.0.11		2020-11-11T05:41:16Z	
@@ -18,6 +20,7 @@
 1.0.18	sources-commercial	2021-04-21T13:59:04Z	
 1.0.19		2021-07-06T04:44:07Z	
 1.0.19	sources-commercial	2021-07-06T04:44:09Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.2/com.liferay.portal.workflow.kaleo.forms.lang-1.0.2.jar returned status 404
 1.0.20		2021-08-11T00:40:17Z	
 1.0.20	sources-commercial	2021-08-11T00:40:18Z	
 1.0.21		2021-09-23T18:21:09Z	
@@ -31,10 +34,17 @@
 1.0.25		2023-07-20T09:40:00Z	
 1.0.25	sources-commercial	2023-07-20T09:40:13Z	
 1.0.26		2024-02-27T13:54:19Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.3/com.liferay.portal.workflow.kaleo.forms.lang-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.4/com.liferay.portal.workflow.kaleo.forms.lang-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.5/com.liferay.portal.workflow.kaleo.forms.lang-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.6/com.liferay.portal.workflow.kaleo.forms.lang-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/1.0.7/com.liferay.portal.workflow.kaleo.forms.lang-1.0.7.jar returned status 404
 1.0.8		2020-10-22T18:07:47Z	
 1.0.8	sources-commercial	2020-10-22T18:07:49Z	
 1.0.9		2020-10-30T03:23:05Z	
 1.0.9	sources-commercial	2020-10-30T03:23:06Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/2.0.0/com.liferay.portal.workflow.kaleo.forms.lang-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/2.0.1/com.liferay.portal.workflow.kaleo.forms.lang-2.0.1.jar returned status 404
 2.0.10		2021-01-29T02:34:00Z	
 2.0.10	sources-commercial	2021-01-29T02:34:01Z	
 2.0.11		2021-04-02T02:11:12Z	
@@ -55,6 +65,7 @@
 2.0.18	sources-commercial	2021-10-29T18:36:26Z	
 2.0.19		2021-12-17T03:55:41Z	
 2.0.19	sources-commercial	2021-12-17T03:55:42Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/2.0.2/com.liferay.portal.workflow.kaleo.forms.lang-2.0.2.jar returned status 404
 2.0.20		2022-01-04T06:43:03Z	
 2.0.20	sources-commercial	2022-01-04T06:43:04Z	
 2.0.21		2022-10-14T02:52:27Z	
@@ -80,6 +91,8 @@
 2.0.8	sources-commercial	2020-12-26T00:35:56Z	
 2.0.9		2021-01-25T17:09:31Z	
 2.0.9	sources-commercial	2021-01-25T17:09:32Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/3.0.0/com.liferay.portal.workflow.kaleo.forms.lang-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/3.0.1/com.liferay.portal.workflow.kaleo.forms.lang-3.0.1.jar returned status 404
 3.0.10		2021-01-09T12:37:34Z	
 3.0.10	sources-commercial	2021-01-09T12:37:35Z	
 3.0.11		2021-01-20T21:07:37Z	
@@ -100,6 +113,7 @@
 3.0.18	sources-commercial	2021-09-02T17:28:49Z	
 3.0.19		2021-09-14T00:07:12Z	
 3.0.19	sources-commercial	2021-09-14T00:07:17Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/3.0.2/com.liferay.portal.workflow.kaleo.forms.lang-3.0.2.jar returned status 404
 3.0.20		2021-12-16T11:43:40Z	
 3.0.20	sources-commercial	2021-12-16T11:43:41Z	
 3.0.21		2022-10-14T12:27:13Z	
@@ -111,6 +125,8 @@
 3.0.25		2023-12-07T16:23:27Z	
 3.0.26		2024-02-28T01:54:44Z	
 3.0.27		2025-04-03T08:47:28Z	
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/3.0.3/com.liferay.portal.workflow.kaleo.forms.lang-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/3.0.4/com.liferay.portal.workflow.kaleo.forms.lang-3.0.4.jar returned status 404
 3.0.5		2020-10-22T08:17:43Z	
 3.0.5	sources-commercial	2020-10-22T08:17:45Z	
 3.0.6		2020-10-30T04:17:18Z	
@@ -121,6 +137,8 @@
 3.0.8	sources-commercial	2020-11-11T04:46:32Z	
 3.0.9		2020-11-22T02:53:00Z	
 3.0.9	sources-commercial	2020-11-22T02:53:02Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/4.0.0/com.liferay.portal.workflow.kaleo.forms.lang-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/4.0.1/com.liferay.portal.workflow.kaleo.forms.lang-4.0.1.jar returned status 404
 4.0.10		2021-01-07T18:17:49Z	
 4.0.10	sources-commercial	2021-01-07T18:17:50Z	
 4.0.11		2021-01-15T16:50:28Z	
@@ -141,6 +159,7 @@
 4.0.18	sources-commercial	2021-07-05T22:38:58Z	
 4.0.19		2021-08-12T01:06:09Z	
 4.0.19	sources-commercial	2021-08-12T01:06:11Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/4.0.2/com.liferay.portal.workflow.kaleo.forms.lang-4.0.2.jar returned status 404
 4.0.20		2021-09-02T20:19:56Z	
 4.0.20	sources-commercial	2021-09-02T20:19:57Z	
 4.0.21		2021-10-08T20:52:50Z	
@@ -161,6 +180,7 @@
 4.0.28	sources-commercial	2023-01-23T18:48:23Z	
 4.0.29		2023-04-04T23:52:41Z	
 4.0.29	sources-commercial	2023-04-04T23:52:43Z	
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.workflow.kaleo.forms.lang/4.0.3/com.liferay.portal.workflow.kaleo.forms.lang-4.0.3.jar returned status 404
 4.0.30		2023-04-24T07:36:45Z	
 4.0.30	sources-commercial	2023-04-24T07:36:47Z	
 4.0.31		2023-05-07T15:36:32Z	
