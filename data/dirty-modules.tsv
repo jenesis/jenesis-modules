@@ -871,3 +871,4 @@ org.jberet.job.repository.batchlet
 org.jberet.mongo.repository
 org.jberet.infinispan.repository
 org.jberet.se
+org.infinispan.protostream.processor
