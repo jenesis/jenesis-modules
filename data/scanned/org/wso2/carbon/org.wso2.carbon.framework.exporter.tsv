@@ -92,7 +92,20 @@
 4.12.7		2026-03-03T06:56:31Z	
 4.12.8		2026-03-09T09:35:52Z	
 4.12.9		2026-03-10T06:44:24Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.3.0/org.wso2.carbon.framework.exporter-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.0/org.wso2.carbon.framework.exporter-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.1/org.wso2.carbon.framework.exporter-4.4.1.jar returned status 404
+4.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.10/org.wso2.carbon.framework.exporter-4.4.10.jar returned status 404
+4.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.11/org.wso2.carbon.framework.exporter-4.4.11.jar returned status 404
+4.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.12/org.wso2.carbon.framework.exporter-4.4.12.jar returned status 404
+4.4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.13/org.wso2.carbon.framework.exporter-4.4.13.jar returned status 404
+4.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.14/org.wso2.carbon.framework.exporter-4.4.14.jar returned status 404
+4.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.15/org.wso2.carbon.framework.exporter-4.4.15.jar returned status 404
+4.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.16/org.wso2.carbon.framework.exporter-4.4.16.jar returned status 404
+4.4.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.17/org.wso2.carbon.framework.exporter-4.4.17.jar returned status 404
+4.4.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.18/org.wso2.carbon.framework.exporter-4.4.18.jar returned status 404
 4.4.19		2017-11-30T14:51:33Z	
+4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.2/org.wso2.carbon.framework.exporter-4.4.2.jar returned status 404
 4.4.20		2017-12-05T14:02:00Z	
 4.4.21		2018-01-29T10:33:48Z	
 4.4.22		2018-01-30T12:36:27Z	
@@ -103,6 +116,7 @@
 4.4.27		2018-04-25T14:29:15Z	
 4.4.28		2018-05-08T11:17:35Z	
 4.4.29		2018-05-18T09:30:45Z	
+4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.3/org.wso2.carbon.framework.exporter-4.4.3.jar returned status 404
 4.4.30		2018-05-28T06:44:50Z	
 4.4.31		2018-06-04T16:35:50Z	
 4.4.32		2018-06-11T17:06:36Z	
@@ -111,11 +125,36 @@
 4.4.35		2018-09-06T10:21:16Z	
 4.4.36		2018-09-16T10:43:29Z	
 4.4.37		2019-03-08T10:04:02Z	
+4.4.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.38/org.wso2.carbon.framework.exporter-4.4.38.jar returned status 404
+4.4.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.39/org.wso2.carbon.framework.exporter-4.4.39.jar returned status 404
+4.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.4/org.wso2.carbon.framework.exporter-4.4.4.jar returned status 404
+4.4.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.40/org.wso2.carbon.framework.exporter-4.4.40.jar returned status 404
+4.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.5/org.wso2.carbon.framework.exporter-4.4.5.jar returned status 404
+4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.6/org.wso2.carbon.framework.exporter-4.4.6.jar returned status 404
+4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.7/org.wso2.carbon.framework.exporter-4.4.7.jar returned status 404
+4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.8/org.wso2.carbon.framework.exporter-4.4.8.jar returned status 404
+4.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.4.9/org.wso2.carbon.framework.exporter-4.4.9.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0/org.wso2.carbon.framework.exporter-4.5.0.jar returned status 404
+4.5.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-alpha/org.wso2.carbon.framework.exporter-4.5.0-alpha.jar returned status 404
+4.5.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-alpha2/org.wso2.carbon.framework.exporter-4.5.0-alpha2.jar returned status 404
+4.5.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-alpha3/org.wso2.carbon.framework.exporter-4.5.0-alpha3.jar returned status 404
+4.5.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-beta/org.wso2.carbon.framework.exporter-4.5.0-beta.jar returned status 404
+4.5.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-m1/org.wso2.carbon.framework.exporter-4.5.0-m1.jar returned status 404
+4.5.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-m2/org.wso2.carbon.framework.exporter-4.5.0-m2.jar returned status 404
+4.5.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-m3/org.wso2.carbon.framework.exporter-4.5.0-m3.jar returned status 404
+4.5.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-m4/org.wso2.carbon.framework.exporter-4.5.0-m4.jar returned status 404
+4.5.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.0-m5/org.wso2.carbon.framework.exporter-4.5.0-m5.jar returned status 404
 4.5.1		2019-09-25T12:09:09Z	
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.2/org.wso2.carbon.framework.exporter-4.5.2.jar returned status 404
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.5.3/org.wso2.carbon.framework.exporter-4.5.3.jar returned status 404
 4.6.0		2020-02-28T14:32:18Z	
 4.6.0-alpha		2019-12-13T07:47:29Z	
 4.6.0-alpha2		2019-12-18T22:11:51Z	
+4.6.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.6.0-alpha3/org.wso2.carbon.framework.exporter-4.6.0-alpha3.jar returned status 404
+4.6.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.6.0-alpha4/org.wso2.carbon.framework.exporter-4.6.0-alpha4.jar returned status 404
+4.6.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.6.0-beta/org.wso2.carbon.framework.exporter-4.6.0-beta.jar returned status 404
 4.6.0-beta2		2020-02-14T09:10:23Z	
+4.6.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.6.0-m1/org.wso2.carbon.framework.exporter-4.6.0-m1.jar returned status 404
 4.6.1		2020-11-07T08:30:26Z	
 4.6.1-alpha		2020-09-17T10:55:48Z	
 4.6.1-alpha2		2020-09-29T12:20:44Z	
@@ -140,6 +179,7 @@
 4.6.2-m7		2021-03-05T10:15:07Z	
 4.6.2-m8		2021-03-24T05:15:52Z	
 4.6.2-m9		2021-03-29T04:37:47Z	
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.6.3/org.wso2.carbon.framework.exporter-4.6.3.jar returned status 404
 4.6.3-alpha		2022-03-01T07:14:03Z	
 4.6.3-beta		2022-03-01T10:13:55Z	
 4.6.3-m1		2021-04-12T15:03:42Z	
@@ -151,11 +191,22 @@
 4.6.3-m7		2022-02-10T13:03:39Z	
 4.6.3-m8		2022-02-25T11:03:40Z	
 4.7.0		2022-08-04T12:52:17Z	
+4.7.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta/org.wso2.carbon.framework.exporter-4.7.0-beta.jar returned status 404
+4.7.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta1/org.wso2.carbon.framework.exporter-4.7.0-beta1.jar returned status 404
 4.7.0-beta10		2022-07-28T10:52:32Z	
+4.7.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta2/org.wso2.carbon.framework.exporter-4.7.0-beta2.jar returned status 404
+4.7.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta3/org.wso2.carbon.framework.exporter-4.7.0-beta3.jar returned status 404
+4.7.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta4/org.wso2.carbon.framework.exporter-4.7.0-beta4.jar returned status 404
+4.7.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta5/org.wso2.carbon.framework.exporter-4.7.0-beta5.jar returned status 404
+4.7.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta6/org.wso2.carbon.framework.exporter-4.7.0-beta6.jar returned status 404
+4.7.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta7/org.wso2.carbon.framework.exporter-4.7.0-beta7.jar returned status 404
+4.7.0-beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-beta8/org.wso2.carbon.framework.exporter-4.7.0-beta8.jar returned status 404
 4.7.0-beta9		2022-07-08T10:13:08Z	
 4.7.0-m1		2021-08-06T12:09:24Z	
 4.7.0-m10		2022-01-26T11:41:06Z	
 4.7.0-m11		2022-02-24T08:00:36Z	
+4.7.0-m12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-m12/org.wso2.carbon.framework.exporter-4.7.0-m12.jar returned status 404
+4.7.0-m13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.7.0-m13/org.wso2.carbon.framework.exporter-4.7.0-m13.jar returned status 404
 4.7.0-m2		2021-08-27T10:27:44Z	
 4.7.0-m3		2021-09-03T06:57:03Z	
 4.7.0-m4		2021-09-17T10:20:05Z	
@@ -165,6 +216,8 @@
 4.7.0-m8		2022-01-06T08:11:06Z	
 4.7.0-m9		2022-01-21T10:59:20Z	
 4.7.1		2022-08-08T16:24:47Z	
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.8.0/org.wso2.carbon.framework.exporter-4.8.0.jar returned status 404
+4.8.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.8.0-alpha/org.wso2.carbon.framework.exporter-4.8.0-alpha.jar returned status 404
 4.8.0-beta		2023-01-31T17:02:30Z	
 4.8.0-m1		2022-10-27T10:29:07Z	
 4.8.0-m2		2022-11-21T09:40:30Z	
@@ -175,10 +228,17 @@
 4.9.0-m1		2022-09-21T14:18:16Z	
 4.9.0-m2		2022-10-18T07:45:05Z	
 4.9.0-m3		2022-10-24T12:16:36Z	
+4.9.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.0-m4/org.wso2.carbon.framework.exporter-4.9.0-m4.jar returned status 404
+4.9.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.0-m5/org.wso2.carbon.framework.exporter-4.9.0-m5.jar returned status 404
 4.9.1		2023-02-21T09:19:00Z	
 4.9.1-m1		2023-02-07T07:01:09Z	
+4.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.2/org.wso2.carbon.framework.exporter-4.9.2.jar returned status 404
 4.9.22		2024-01-12T11:45:25Z	
 4.9.26-alpha		2024-02-06T18:38:00Z	
 4.9.26-alpha3		2024-03-21T14:03:54Z	
 4.9.27-alpha		2024-09-23T16:36:45Z	
 4.9.3		2023-03-13T07:29:58Z	
+4.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.4/org.wso2.carbon.framework.exporter-4.9.4.jar returned status 404
+4.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.5/org.wso2.carbon.framework.exporter-4.9.5.jar returned status 404
+4.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.6/org.wso2.carbon.framework.exporter-4.9.6.jar returned status 404
+4.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.framework.exporter/4.9.7/org.wso2.carbon.framework.exporter-4.9.7.jar returned status 404
