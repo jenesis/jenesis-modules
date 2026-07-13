@@ -1,2 +1,3 @@
 0.0.7-RELEASE		2024-09-06T10:47:40Z	
 0.1.0-dev.0+5e77cc6		2024-09-09T01:09:54Z	
+0.1.0-dev.05e77cc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nowhereservices/grpc/mavenartifact/0.1.0-dev.05e77cc6/mavenartifact-0.1.0-dev.05e77cc6.jar returned status 404

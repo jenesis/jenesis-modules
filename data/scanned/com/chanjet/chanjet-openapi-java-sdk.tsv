@@ -15,3 +15,4 @@
 1.0.7-RELEASE		2020-10-29T10:41:27Z	
 1.0.8-RELEASE		2020-11-05T08:47:55Z	
 1.0.9-RELEASE		2020-11-11T05:29:51Z	
+1.1.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chanjet/chanjet-openapi-java-sdk/1.1.0-RELEASE/chanjet-openapi-java-sdk-1.1.0-RELEASE.jar returned status 404

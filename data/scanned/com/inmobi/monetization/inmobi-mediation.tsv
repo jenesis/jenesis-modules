@@ -7,6 +7,9 @@
 10.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.0.7/inmobi-mediation-10.0.7.jar returned status 404
 10.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.0.8/inmobi-mediation-10.0.8.jar returned status 404
 10.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.0.9/inmobi-mediation-10.0.9.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.1.1/inmobi-mediation-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.1.2/inmobi-mediation-10.1.2.jar returned status 404
+10.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/10.1.3/inmobi-mediation-10.1.3.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.0.0/inmobi-mediation-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.0.1/inmobi-mediation-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.0.2/inmobi-mediation-9.0.2.jar returned status 404
@@ -24,3 +27,7 @@
 9.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.1.9/inmobi-mediation-9.1.9.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.2.0/inmobi-mediation-9.2.0.jar returned status 404
 9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/9.2.1/inmobi-mediation-9.2.1.jar returned status 404
+maven-metadata.xml.md5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/maven-metadata.xml.md5/inmobi-mediation-maven-metadata.xml.md5.jar returned status 404
+maven-metadata.xml.sha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/maven-metadata.xml.sha1/inmobi-mediation-maven-metadata.xml.sha1.jar returned status 404
+maven-metadata.xml.sha256			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/maven-metadata.xml.sha256/inmobi-mediation-maven-metadata.xml.sha256.jar returned status 404
+maven-metadata.xml.sha512			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/inmobi/monetization/inmobi-mediation/maven-metadata.xml.sha512/inmobi-mediation-maven-metadata.xml.sha512.jar returned status 404

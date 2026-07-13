@@ -1,3 +1,16 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.0.0/jqm-handlers-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.1.0/jqm-handlers-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.0/jqm-handlers-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.1/jqm-handlers-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.2/jqm-handlers-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.3/jqm-handlers-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.4/jqm-handlers-2.2.4.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.5/jqm-handlers-2.2.5.jar returned status 404
+2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.6/jqm-handlers-2.2.6.jar returned status 404
+2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.7/jqm-handlers-2.2.7.jar returned status 404
+2.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.8/jqm-handlers-2.2.8.jar returned status 404
+2.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/2.2.9/jqm-handlers-2.2.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/3.0.0/jqm-handlers-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/3.1.0/jqm-handlers-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/3.1.1/jqm-handlers-3.1.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-handlers/3.2.0/jqm-handlers-3.2.0.jar returned status 404

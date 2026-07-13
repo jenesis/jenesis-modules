@@ -1,4 +1,8 @@
 2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.3.7/sdk-tp-2.3.7.jar returned status 404
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.3.8/sdk-tp-2.3.8.jar returned status 404
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.3.9/sdk-tp-2.3.9.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.0/sdk-tp-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.1/sdk-tp-2.4.1.jar returned status 404
 2.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.10/sdk-tp-2.4.10.jar returned status 404
 2.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.11/sdk-tp-2.4.11.jar returned status 404
 2.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.12/sdk-tp-2.4.12.jar returned status 404
@@ -6,6 +10,8 @@
 2.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.14/sdk-tp-2.4.14.jar returned status 404
 2.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.15/sdk-tp-2.4.15.jar returned status 404
 2.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.16/sdk-tp-2.4.16.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.2/sdk-tp-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.3/sdk-tp-2.4.3.jar returned status 404
 2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.4/sdk-tp-2.4.4.jar returned status 404
 2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.5/sdk-tp-2.4.5.jar returned status 404
 2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/srpago/sdk-tp/2.4.6/sdk-tp-2.4.6.jar returned status 404

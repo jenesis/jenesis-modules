@@ -1,47 +1,88 @@
+2.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.0.21/client-2.0.21.jar returned status 404
 2.0.21	classes	2019-10-12T07:52:29Z	
+2.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.0.22/client-2.0.22.jar returned status 404
 2.0.22	classes	2019-11-27T12:39:37Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.0.3/client-2.0.3.jar returned status 404
 2.0.3	classes	2019-09-12T19:45:22Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.0.4/client-2.0.4.jar returned status 404
 2.0.4	classes	2019-09-17T21:18:48Z	
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.0.5/client-2.0.5.jar returned status 404
 2.0.5	classes	2019-10-05T06:21:10Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.0/client-2.1.0.jar returned status 404
 2.1.0	classes	2020-02-11T11:37:41Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.1/client-2.1.1.jar returned status 404
 2.1.1	classes	2020-02-11T13:16:13Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.2/client-2.1.2.jar returned status 404
 2.1.2	classes	2020-03-21T22:12:48Z	
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.3/client-2.1.3.jar returned status 404
 2.1.3	classes	2020-03-23T15:43:29Z	
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.4/client-2.1.4.jar returned status 404
 2.1.4	classes	2020-03-23T19:34:52Z	
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.5/client-2.1.5.jar returned status 404
 2.1.5	classes	2020-03-23T21:26:00Z	
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/2.1.6/client-2.1.6.jar returned status 404
 2.1.6	classes	2020-03-24T19:12:47Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.0/client-3.0.0.jar returned status 404
 3.0.0	classes	2020-11-14T21:19:50Z	
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.12/client-3.0.12.jar returned status 404
 3.0.12	classes	2020-12-09T22:44:52Z	
+3.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.15/client-3.0.15.jar returned status 404
 3.0.15	classes	2020-12-18T00:16:07Z	
+3.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.16/client-3.0.16.jar returned status 404
 3.0.16	classes	2020-12-27T08:54:03Z	
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.21/client-3.0.21.jar returned status 404
 3.0.21	classes	2021-01-05T10:24:01Z	
+3.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.22/client-3.0.22.jar returned status 404
 3.0.22	classes	2021-01-06T19:31:18Z	
+3.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.27/client-3.0.27.jar returned status 404
 3.0.27	classes	2021-03-26T12:55:57Z	
+3.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.39/client-3.0.39.jar returned status 404
 3.0.39	classes	2021-04-22T20:42:41Z	
+3.0.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.0.64/client-3.0.64.jar returned status 404
 3.0.64	classes	2021-08-22T13:21:05Z	
+3.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.16/client-3.1.16.jar returned status 404
 3.1.16	classes	2022-02-10T20:21:13Z	
+3.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.18/client-3.1.18.jar returned status 404
 3.1.18	classes	2022-02-14T22:28:22Z	
+3.1.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.27/client-3.1.27.jar returned status 404
 3.1.27	classes	2022-03-09T19:46:04Z	
+3.1.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.41/client-3.1.41.jar returned status 404
 3.1.41	classes	2022-05-10T08:59:55Z	
+3.1.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.44/client-3.1.44.jar returned status 404
 3.1.44	classes	2022-05-23T10:16:12Z	
+3.1.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.50/client-3.1.50.jar returned status 404
 3.1.50	classes	2022-06-13T12:47:29Z	
+3.1.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.52/client-3.1.52.jar returned status 404
 3.1.52	classes	2022-06-20T13:23:16Z	
+3.1.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.53/client-3.1.53.jar returned status 404
 3.1.53	classes	2022-06-22T10:06:37Z	
+3.1.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.54/client-3.1.54.jar returned status 404
 3.1.54	classes	2022-09-09T08:11:21Z	
+3.1.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.58/client-3.1.58.jar returned status 404
 3.1.58	classes	2022-09-13T09:27:10Z	
+3.1.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.61/client-3.1.61.jar returned status 404
 3.1.61	classes	2022-09-13T13:38:32Z	
+3.1.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.62/client-3.1.62.jar returned status 404
 3.1.62	classes	2022-11-04T17:54:41Z	
+3.1.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.63/client-3.1.63.jar returned status 404
 3.1.63	classes	2022-11-04T21:28:50Z	
+3.1.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/3.1.66/client-3.1.66.jar returned status 404
 3.1.66	classes	2022-12-12T10:05:02Z	
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.0.3/client-4.0.3.jar returned status 404
 4.0.3	classes	2023-01-18T13:02:17Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.0.4/client-4.0.4.jar returned status 404
 4.0.4	classes	2023-06-30T20:25:53Z	
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.0.5/client-4.0.5.jar returned status 404
 4.0.5	classes	2023-07-10T20:25:54Z	
 4.2.10		2026-01-06T21:13:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.2.10/client-4.2.10.jar returned status 404
 4.2.10	classes	2026-01-06T21:13:35Z	
 4.2.11		2026-01-13T21:59:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.2.11/client-4.2.11.jar returned status 404
 4.2.11	classes	2026-01-13T21:59:03Z	
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.2.2/client-4.2.2.jar returned status 404
 4.2.2	classes	2025-04-27T21:46:12Z	
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.2.4/client-4.2.4.jar returned status 404
 4.2.4	classes	2025-06-30T15:44:51Z	
+4.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.2.7/client-4.2.7.jar returned status 404
 4.2.7	classes	2025-08-08T13:48:31Z	
 4.3.0		2026-06-04T23:20:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomgraph/client/4.3.0/client-4.3.0.jar returned status 404
 4.3.0	classes	2026-06-04T23:20:29Z	
