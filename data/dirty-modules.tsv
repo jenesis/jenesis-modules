@@ -147,3 +147,12 @@ org.hiero.base.utility
 ch.qos.logback.classic
 com.alibaba.fastjson2.extension
 kotlin.stdlib.jdk8
+com.azure.sdk.template.three
+com.azure.sdk.template
+com.azure.sdk.template.two
+com.azure.resourcemanager.mongodbatlas
+com.azure.resourcemanager.batch
+com.azure.resourcemanager.netapp
+com.azure.resourcemanager.azurestackhci
+com.azure.resourcemanager.servicefabricmanagedclusters
+com.azure.resourcemanager.recoveryservices

@@ -124,6 +124,7 @@
 1.18.1-snapshot.20220113.8434.0.1724373f		2022-01-13T12:05:45Z	
 1.18.1-snapshot.20220113.8434.1.1724373f		2022-01-13T15:48:27Z	
 1.18.2		2022-03-31T14:33:00Z	
+1.18.2-snapshot.20220310.8437.0.5221a5d1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/daml/daml-lf-archive-reader_2.12/1.18.2-snapshot.20220310.8437.0.5221a5d1/daml-lf-archive-reader_2.12-1.18.2-snapshot.20220310.8437.0.5221a5d1.jar returned status 404
 1.18.2-snapshot.20220310.8437.1.5221a5d1		2022-03-15T13:03:37Z	
 1.18.2-snapshot.20220324.8440.0.5cfb1a21		2022-03-25T06:06:20Z	
 1.18.3		2022-06-30T21:26:48Z	

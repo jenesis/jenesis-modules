@@ -4,6 +4,16 @@
 12.11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.11.0.0/tapjoy-adapter-12.11.0.0.jar returned status 404
 12.11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.11.1.0/tapjoy-adapter-12.11.1.0.jar returned status 404
 12.11.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.11.1.1/tapjoy-adapter-12.11.1.1.jar returned status 404
+12.7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.7.1.1/tapjoy-adapter-12.7.1.1.jar returned status 404
+12.7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.7.1.2/tapjoy-adapter-12.7.1.2.jar returned status 404
+12.8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.8.0.0/tapjoy-adapter-12.8.0.0.jar returned status 404
+12.8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.8.1.0/tapjoy-adapter-12.8.1.0.jar returned status 404
+12.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.8.1.1/tapjoy-adapter-12.8.1.1.jar returned status 404
+12.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.9.0.0/tapjoy-adapter-12.9.0.0.jar returned status 404
+12.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.9.0.1/tapjoy-adapter-12.9.0.1.jar returned status 404
+12.9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.9.0.2/tapjoy-adapter-12.9.0.2.jar returned status 404
+12.9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.9.0.3/tapjoy-adapter-12.9.0.3.jar returned status 404
+12.9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/12.9.1.0/tapjoy-adapter-12.9.1.0.jar returned status 404
 13.0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/13.0.0.0/tapjoy-adapter-13.0.0.0.jar returned status 404
 13.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/13.0.1.0/tapjoy-adapter-13.0.1.0.jar returned status 404
 13.1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/tapjoy-adapter/13.1.0.0/tapjoy-adapter-13.1.0.0.jar returned status 404

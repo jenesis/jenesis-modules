@@ -16,6 +16,9 @@
 4.10.4		2026-06-12T07:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.4/braintree-4.10.4.jar returned status 404
 4.10.4-beta.2		2026-06-03T02:34:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.4-beta.2/braintree-4.10.4-beta.2.jar returned status 404
 4.10.5		2026-06-25T02:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.5/braintree-4.10.5.jar returned status 404
+4.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.6/braintree-4.10.6.jar returned status 404
+4.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.7/braintree-4.10.7.jar returned status 404
+4.10.7-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.10.7-alpha.1/braintree-4.10.7-alpha.1.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.2.0/braintree-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.2.1/braintree-4.2.1.jar returned status 404
 4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/braintree/4.2.2/braintree-4.2.2.jar returned status 404

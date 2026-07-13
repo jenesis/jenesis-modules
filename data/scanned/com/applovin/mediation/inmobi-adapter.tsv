@@ -1,3 +1,7 @@
+10.0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.1.0/inmobi-adapter-10.0.1.0.jar returned status 404
+10.0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.2.0/inmobi-adapter-10.0.2.0.jar returned status 404
+10.0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.3.0/inmobi-adapter-10.0.3.0.jar returned status 404
+10.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.3.1/inmobi-adapter-10.0.3.1.jar returned status 404
 10.0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.5.0/inmobi-adapter-10.0.5.0.jar returned status 404
 10.0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.5.1/inmobi-adapter-10.0.5.1.jar returned status 404
 10.0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/10.0.5.2/inmobi-adapter-10.0.5.2.jar returned status 404
@@ -64,3 +68,16 @@
 11.2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/11.2.0.0/inmobi-adapter-11.2.0.0.jar returned status 404
 11.3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/11.3.0.0/inmobi-adapter-11.3.0.0.jar returned status 404
 11.3.0.1		2026-07-08T03:42:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/11.3.0.1/inmobi-adapter-11.3.0.1.jar returned status 404
+11.4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/11.4.0.0/inmobi-adapter-11.4.0.0.jar returned status 404
+9.1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.1.1.4/inmobi-adapter-9.1.1.4.jar returned status 404
+9.1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.1.6.0/inmobi-adapter-9.1.6.0.jar returned status 404
+9.1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.1.7.0/inmobi-adapter-9.1.7.0.jar returned status 404
+9.9.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.0/inmobi-adapter-9.9.9.0.jar returned status 404
+9.9.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.1/inmobi-adapter-9.9.9.1.jar returned status 404
+9.9.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.2/inmobi-adapter-9.9.9.2.jar returned status 404
+9.9.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.3/inmobi-adapter-9.9.9.3.jar returned status 404
+9.9.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.4/inmobi-adapter-9.9.9.4.jar returned status 404
+9.9.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.5/inmobi-adapter-9.9.9.5.jar returned status 404
+9.9.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.6/inmobi-adapter-9.9.9.6.jar returned status 404
+9.9.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.7/inmobi-adapter-9.9.9.7.jar returned status 404
+9.9.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/inmobi-adapter/9.9.9.8/inmobi-adapter-9.9.9.8.jar returned status 404

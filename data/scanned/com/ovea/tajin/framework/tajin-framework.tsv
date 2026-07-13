@@ -28,3 +28,12 @@
 2.7		2013-07-30T20:42:11Z	
 2.8		2013-07-31T15:03:23Z	
 2.9		2013-07-31T15:31:28Z	
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.0/tajin-framework-3.0.jar returned status 404
+3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.10/tajin-framework-3.10.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.2/tajin-framework-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.3/tajin-framework-3.3.jar returned status 404
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.5/tajin-framework-3.5.jar returned status 404
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.6/tajin-framework-3.6.jar returned status 404
+3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.7/tajin-framework-3.7.jar returned status 404
+3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.8/tajin-framework-3.8.jar returned status 404
+3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ovea/tajin/framework/tajin-framework/3.9/tajin-framework-3.9.jar returned status 404

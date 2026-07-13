@@ -1,3 +1,5 @@
 1.0.0		2018-06-15T07:27:39Z	
 1.0.2		2018-12-09T04:07:34Z	
 1.0.3		2019-02-04T15:08:51Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ajaxjs/ajaxjs-cms/1.0.4/ajaxjs-cms-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ajaxjs/ajaxjs-cms/1.0.5/ajaxjs-cms-1.0.5.jar returned status 404

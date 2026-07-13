@@ -18,4 +18,8 @@
 4.4.4-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.4-rc.1/carto-mobile-sdk-4.4.4-rc.1.jar returned status 404
 4.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.5/carto-mobile-sdk-4.4.5.jar returned status 404
 4.4.5-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.5-rc.1/carto-mobile-sdk-4.4.5-rc.1.jar returned status 404
+4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.6/carto-mobile-sdk-4.4.6.jar returned status 404
+4.4.6-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.6-rc.1/carto-mobile-sdk-4.4.6-rc.1.jar returned status 404
+4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.7/carto-mobile-sdk-4.4.7.jar returned status 404
+4.4.7-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/4.4.7-rc.1/carto-mobile-sdk-4.4.7-rc.1.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carto/carto-mobile-sdk/5.0.0/carto-mobile-sdk-5.0.0.jar returned status 404
