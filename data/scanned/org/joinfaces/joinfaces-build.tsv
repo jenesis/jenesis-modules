@@ -1,13 +1,26 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.0.0/joinfaces-build-3.0.0.jar returned status 404
 3.0.0	test-javadoc	2018-03-09T03:20:08Z	
+3.0.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.0.0.RC1/joinfaces-build-3.0.0.RC1.jar returned status 404
 3.0.0.RC1	test-javadoc	2018-02-01T19:55:33Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.0.1/joinfaces-build-3.0.1.jar returned status 404
 3.0.1	test-javadoc	2018-03-09T20:53:11Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.0.2/joinfaces-build-3.0.2.jar returned status 404
 3.0.2	test-javadoc	2018-03-11T16:13:03Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.1.0/joinfaces-build-3.1.0.jar returned status 404
 3.1.0	test-javadoc	2018-04-02T23:24:06Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.1.1/joinfaces-build-3.1.1.jar returned status 404
 3.1.1	test-javadoc	2018-04-05T15:33:35Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.0/joinfaces-build-3.2.0.jar returned status 404
 3.2.0	test-javadoc	2018-04-17T14:31:03Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.1/joinfaces-build-3.2.1.jar returned status 404
 3.2.1	test-javadoc	2018-05-09T18:03:39Z	
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.2/joinfaces-build-3.2.2.jar returned status 404
 3.2.2	test-javadoc	2018-06-19T18:31:53Z	
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.3/joinfaces-build-3.2.3.jar returned status 404
 3.2.3	test-javadoc	2018-06-19T21:31:07Z	
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.4/joinfaces-build-3.2.4.jar returned status 404
 3.2.4	test-javadoc	2018-08-01T18:18:41Z	
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.5/joinfaces-build-3.2.5.jar returned status 404
 3.2.5	test-javadoc	2018-09-17T14:08:31Z	
+3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-build/3.2.6/joinfaces-build-3.2.6.jar returned status 404
 3.2.6	test-javadoc	2018-10-17T13:01:52Z	

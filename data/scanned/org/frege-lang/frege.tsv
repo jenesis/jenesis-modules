@@ -6,5 +6,7 @@
 3.23.422-ga05a487		2015-11-27T01:33:42Z	
 3.24-7.100		2016-05-10T02:19:11Z	
 3.24-7.30		2016-03-26T07:19:06Z	
+3.24.100.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frege-lang/frege/3.24.100.1/frege-3.24.100.1.jar returned status 404
 3.24.100.1	jdk7	2016-05-26T10:36:23Z	
 3.24.100.1	jdk8	2016-05-26T10:36:55Z	
+3.25.85			
