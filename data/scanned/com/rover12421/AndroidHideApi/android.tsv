@@ -20,3 +20,9 @@
 1.7		2017-08-30T07:06:23Z	
 1.8		2017-10-13T11:55:09Z	
 1.9		2017-10-18T06:53:05Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/2.0.0/android-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/2.0.1/android-2.0.1.jar returned status 404
+android-10.0.0_r2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/android-10.0.0_r2/android-android-10.0.0_r2.jar returned status 404
+android-10.0.0_r2.fixer01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/android-10.0.0_r2.fixer01/android-android-10.0.0_r2.fixer01.jar returned status 404
+android-8.1.0_r52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/android-8.1.0_r52/android-android-8.1.0_r52.jar returned status 404
+android-9.0.0_r41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rover12421/AndroidHideApi/android/android-9.0.0_r41/android-android-9.0.0_r41.jar returned status 404

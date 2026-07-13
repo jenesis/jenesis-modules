@@ -1,3 +1,4 @@
+0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.11/simple-server-0.0.11.jar returned status 404
 0.0.12		2022-01-20T16:26:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.12/simple-server-0.0.12.jar returned status 404
 0.0.13		2022-01-20T16:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.13/simple-server-0.0.13.jar returned status 404
 0.0.14		2022-01-20T16:26:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.14/simple-server-0.0.14.jar returned status 404
@@ -6,6 +7,7 @@
 0.0.17		2022-01-20T16:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.17/simple-server-0.0.17.jar returned status 404
 0.0.18		2022-01-20T16:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.18/simple-server-0.0.18.jar returned status 404
 0.0.19		2022-01-20T16:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.19/simple-server-0.0.19.jar returned status 404
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.2/simple-server-0.0.2.jar returned status 404
 0.0.20		2022-01-20T16:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.20/simple-server-0.0.20.jar returned status 404
 0.0.21		2022-01-20T16:26:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.21/simple-server-0.0.21.jar returned status 404
 0.0.22		2022-01-20T16:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.22/simple-server-0.0.22.jar returned status 404
@@ -16,9 +18,45 @@
 0.0.27		2022-01-20T16:26:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.27/simple-server-0.0.27.jar returned status 404
 0.0.28		2022-01-20T16:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.28/simple-server-0.0.28.jar returned status 404
 0.0.29		2022-01-20T16:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.29/simple-server-0.0.29.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.3/simple-server-0.0.3.jar returned status 404
 0.0.35		2022-01-20T16:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.35/simple-server-0.0.35.jar returned status 404
 0.0.36		2022-01-20T16:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.36/simple-server-0.0.36.jar returned status 404
 0.0.37		2022-01-20T16:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.37/simple-server-0.0.37.jar returned status 404
 0.0.38		2022-01-20T16:26:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.38/simple-server-0.0.38.jar returned status 404
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.4/simple-server-0.0.4.jar returned status 404
 0.0.45		2022-01-20T16:26:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.45/simple-server-0.0.45.jar returned status 404
 0.0.46		2022-01-20T16:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.46/simple-server-0.0.46.jar returned status 404
+0.0.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.48/simple-server-0.0.48.jar returned status 404
+0.0.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.49/simple-server-0.0.49.jar returned status 404
+0.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.50/simple-server-0.0.50.jar returned status 404
+0.0.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.51/simple-server-0.0.51.jar returned status 404
+0.0.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.52/simple-server-0.0.52.jar returned status 404
+0.0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.53/simple-server-0.0.53.jar returned status 404
+0.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.54/simple-server-0.0.54.jar returned status 404
+0.0.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.55/simple-server-0.0.55.jar returned status 404
+0.0.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.56/simple-server-0.0.56.jar returned status 404
+0.0.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.57/simple-server-0.0.57.jar returned status 404
+0.0.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.58/simple-server-0.0.58.jar returned status 404
+0.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.59/simple-server-0.0.59.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.6/simple-server-0.0.6.jar returned status 404
+0.0.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.64/simple-server-0.0.64.jar returned status 404
+0.0.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.65/simple-server-0.0.65.jar returned status 404
+0.0.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.66/simple-server-0.0.66.jar returned status 404
+0.0.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.67/simple-server-0.0.67.jar returned status 404
+0.0.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.68/simple-server-0.0.68.jar returned status 404
+0.0.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.69/simple-server-0.0.69.jar returned status 404
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.7/simple-server-0.0.7.jar returned status 404
+0.0.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.70/simple-server-0.0.70.jar returned status 404
+0.0.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.71/simple-server-0.0.71.jar returned status 404
+0.0.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.72/simple-server-0.0.72.jar returned status 404
+0.0.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.73/simple-server-0.0.73.jar returned status 404
+0.0.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.74/simple-server-0.0.74.jar returned status 404
+0.0.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.78/simple-server-0.0.78.jar returned status 404
+0.0.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.79/simple-server-0.0.79.jar returned status 404
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.8/simple-server-0.0.8.jar returned status 404
+0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.0.9/simple-server-0.0.9.jar returned status 404
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.1.0/simple-server-0.1.0.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.1.1/simple-server-0.1.1.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.1.2/simple-server-0.1.2.jar returned status 404
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.1.3/simple-server-0.1.3.jar returned status 404
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/scimono/examples/simple-server/0.1.4/simple-server-0.1.4.jar returned status 404
