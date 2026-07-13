@@ -3785,7 +3785,11 @@
 7.11.146		2026-07-02T11:05:50Z	
 7.11.147		2026-07-03T09:34:33Z	
 7.11.148		2026-07-03T11:05:42Z	
+7.11.149			
 7.11.15		2026-03-25T04:22:49Z	
+7.11.150			
+7.11.151			
+7.11.152			
 7.11.16		2026-03-25T11:12:20Z	
 7.11.17		2026-03-25T17:06:57Z	
 7.11.18		2026-03-26T05:35:09Z	
@@ -5171,7 +5175,14 @@
 7.9.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.55/org.wso2.carbon.identity.authenticator.thrift-7.9.55.jar returned status 404
 7.9.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.56/org.wso2.carbon.identity.authenticator.thrift-7.9.56.jar returned status 404
 7.9.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.57/org.wso2.carbon.identity.authenticator.thrift-7.9.57.jar returned status 404
+7.9.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.58/org.wso2.carbon.identity.authenticator.thrift-7.9.58.jar returned status 404
+7.9.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.59/org.wso2.carbon.identity.authenticator.thrift-7.9.59.jar returned status 404
 7.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.6/org.wso2.carbon.identity.authenticator.thrift-7.9.6.jar returned status 404
+7.9.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.60/org.wso2.carbon.identity.authenticator.thrift-7.9.60.jar returned status 404
+7.9.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.61/org.wso2.carbon.identity.authenticator.thrift-7.9.61.jar returned status 404
+7.9.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.62/org.wso2.carbon.identity.authenticator.thrift-7.9.62.jar returned status 404
+7.9.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.63/org.wso2.carbon.identity.authenticator.thrift-7.9.63.jar returned status 404
+7.9.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.64/org.wso2.carbon.identity.authenticator.thrift-7.9.64.jar returned status 404
 7.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.7/org.wso2.carbon.identity.authenticator.thrift-7.9.7.jar returned status 404
 7.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.8/org.wso2.carbon.identity.authenticator.thrift-7.9.8.jar returned status 404
 7.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.authenticator.thrift/7.9.9/org.wso2.carbon.identity.authenticator.thrift-7.9.9.jar returned status 404
