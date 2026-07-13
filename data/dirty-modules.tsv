@@ -3227,3 +3227,5 @@ io.quarkus.qute.generator
 io.quarkus.qute.debug
 io.quarkus.arc
 io.quarkus.commons.classloading
+io.quarkus.jlink.launcher
+io.quarkus.jlink

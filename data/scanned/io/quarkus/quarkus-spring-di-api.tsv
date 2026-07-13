@@ -1,1 +1,2 @@
 5.1.Alpha1		2020-02-27T18:21:13Z	
+5.2.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-di-api/5.2.Alpha1/quarkus-spring-di-api-5.2.Alpha1.jar returned status 404
