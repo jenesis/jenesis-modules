@@ -95,6 +95,7 @@
 0.1.194		2024-07-04T08:36:55Z	
 0.1.195		2024-07-07T08:27:36Z	
 0.1.196		2024-07-10T08:40:18Z	
+0.1.197			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/nationalarchives/kms-utils_2.13/0.1.197/kms-utils_2.13-0.1.197.jar returned status 404
 0.1.198		2024-07-24T09:10:04Z	
 0.1.199		2024-07-25T08:51:13Z	
 0.1.200		2024-07-28T08:38:44Z	

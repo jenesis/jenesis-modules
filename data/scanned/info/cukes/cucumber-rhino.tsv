@@ -40,3 +40,4 @@
 1.2.3		2015-07-07T23:00:53Z	
 1.2.4		2015-07-23T13:46:10Z	
 1.2.5		2016-09-12T22:17:19Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-rhino/1.2.6/cucumber-rhino-1.2.6.jar returned status 404

@@ -48,6 +48,7 @@
 1.13.0	full	2020-09-29T09:39:55Z	
 1.13.1		2020-10-26T16:58:34Z	
 1.13.1	full	2020-10-26T16:58:43Z	
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/gchq/gaffer/performance-testing-accumulo-store/1.14.0/performance-testing-accumulo-store-1.14.0.jar returned status 404
 1.15.0		2021-02-03T12:55:22Z	
 1.15.0	full	2021-02-03T12:55:18Z	
 1.16.0		2021-04-07T10:33:07Z	

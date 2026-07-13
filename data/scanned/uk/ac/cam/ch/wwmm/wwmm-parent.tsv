@@ -1,1 +1,4 @@
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/ac/cam/ch/wwmm/wwmm-parent/4/wwmm-parent-4.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/ac/cam/ch/wwmm/wwmm-parent/6/wwmm-parent-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/ac/cam/ch/wwmm/wwmm-parent/7/wwmm-parent-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/ac/cam/ch/wwmm/wwmm-parent/8/wwmm-parent-8.jar returned status 404

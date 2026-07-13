@@ -2,3 +2,5 @@
 2.0.16		2015-06-01T06:49:12Z	
 2.0.17		2015-06-01T09:21:00Z	
 2.0.18		2015-09-02T21:36:51Z	
+2.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/co/solong/steam4j/2.0.21/steam4j-2.0.21.jar returned status 404
+2.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/co/solong/steam4j/2.0.22/steam4j-2.0.22.jar returned status 404
