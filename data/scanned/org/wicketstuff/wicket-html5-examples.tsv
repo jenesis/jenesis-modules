@@ -25,5 +25,8 @@
 1.4.9.2		2010-07-21T13:29:37Z	
 1.5-RC1		2011-01-22T21:14:33Z	
 1.5-RC1.1		2011-02-06T04:26:39Z	
+1.5-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicket-html5-examples/1.5-RC3/wicket-html5-examples-1.5-RC3.jar returned status 404
+1.5-RC4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicket-html5-examples/1.5-RC4.2/wicket-html5-examples-1.5-RC4.2.jar returned status 404
+1.5-RC5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/wicket-html5-examples/1.5-RC5.1/wicket-html5-examples-1.5-RC5.1.jar returned status 404
 1.5-rc2		2011-02-26T05:09:34Z	
 1.5-rc2.1		2011-03-26T17:08:37Z	
