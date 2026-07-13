@@ -8,3 +8,5 @@
 1.0.0-alpha12	metadata	2026-06-30T21:25:02Z	
 1.0.0-alpha12-rc1		2026-06-30T20:26:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-tvossimulatorarm64/1.0.0-alpha12-rc1/tea-compose-tvossimulatorarm64-1.0.0-alpha12-rc1.jar returned status 404
 1.0.0-alpha12-rc1	metadata	2026-06-30T20:26:39Z	
+1.0.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-tvossimulatorarm64/1.0.0-alpha13/tea-compose-tvossimulatorarm64-1.0.0-alpha13.jar returned status 404
+1.0.0-alpha13-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-tvossimulatorarm64/1.0.0-alpha13-rc1/tea-compose-tvossimulatorarm64-1.0.0-alpha13-rc1.jar returned status 404

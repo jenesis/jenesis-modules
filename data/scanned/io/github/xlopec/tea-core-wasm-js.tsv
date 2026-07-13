@@ -3,3 +3,5 @@
 1.0.0-alpha11-rc6		2026-06-29T17:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-wasm-js/1.0.0-alpha11-rc6/tea-core-wasm-js-1.0.0-alpha11-rc6.jar returned status 404
 1.0.0-alpha12		2026-06-30T21:25:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-wasm-js/1.0.0-alpha12/tea-core-wasm-js-1.0.0-alpha12.jar returned status 404
 1.0.0-alpha12-rc1		2026-06-30T20:26:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-wasm-js/1.0.0-alpha12-rc1/tea-core-wasm-js-1.0.0-alpha12-rc1.jar returned status 404
+1.0.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-wasm-js/1.0.0-alpha13/tea-core-wasm-js-1.0.0-alpha13.jar returned status 404
+1.0.0-alpha13-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-core-wasm-js/1.0.0-alpha13-rc1/tea-core-wasm-js-1.0.0-alpha13-rc1.jar returned status 404

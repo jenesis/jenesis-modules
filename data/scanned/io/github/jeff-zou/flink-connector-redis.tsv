@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeff-zou/flink-connector-redis/1.0.0/flink-connector-redis-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeff-zou/flink-connector-redis/1.0.1/flink-connector-redis-1.0.1.jar returned status 404
 1.0.10		2022-04-04T11:32:26Z	
 1.0.11		2022-04-06T03:21:58Z	
 1.0.2		2022-03-14T02:47:31Z	
