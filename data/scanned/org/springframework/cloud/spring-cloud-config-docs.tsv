@@ -1,3 +1,9 @@
+1.0.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/1.0.0.RELEASE/spring-cloud-config-docs-1.0.0.RELEASE.jar returned status 404
+2.2.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/2.2.4.RELEASE/spring-cloud-config-docs-2.2.4.RELEASE.jar returned status 404
+2.2.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/2.2.5.RELEASE/spring-cloud-config-docs-2.2.5.RELEASE.jar returned status 404
+2.2.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/2.2.6.RELEASE/spring-cloud-config-docs-2.2.6.RELEASE.jar returned status 404
+2.2.7.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/2.2.7.RELEASE/spring-cloud-config-docs-2.2.7.RELEASE.jar returned status 404
+2.2.8.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-docs/2.2.8.RELEASE/spring-cloud-config-docs-2.2.8.RELEASE.jar returned status 404
 3.0.0		2020-12-21T19:14:26Z	
 3.0.1		2021-01-08T18:17:56Z	
 3.0.2		2021-01-27T20:42:12Z	

@@ -1,3 +1,5 @@
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-function-samples/3.2.0/spring-cloud-function-samples-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-function-samples/3.2.1/spring-cloud-function-samples-3.2.1.jar returned status 404
 4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-function-samples/4.1.6/spring-cloud-function-samples-4.1.6.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-function-samples/5.0.0/spring-cloud-function-samples-5.0.0.jar returned status 404
 5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-function-samples/5.0.0-RC1/spring-cloud-function-samples-5.0.0-RC1.jar returned status 404

@@ -1,2 +1,5 @@
 1.0.1		2005-12-23T16:37:48Z	
 1.1-rc1		2005-12-23T16:37:48Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-full/1.2.6/spring-full-1.2.6.jar returned status 404
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-full/1.2.7/spring-full-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-full/1.2.8/spring-full-1.2.8.jar returned status 404

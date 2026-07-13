@@ -1,3 +1,6 @@
+1.0.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-bus-docs/1.0.0.RELEASE/spring-cloud-bus-docs-1.0.0.RELEASE.jar returned status 404
+2.2.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-bus-docs/2.2.3.RELEASE/spring-cloud-bus-docs-2.2.3.RELEASE.jar returned status 404
+2.2.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-bus-docs/2.2.4.RELEASE/spring-cloud-bus-docs-2.2.4.RELEASE.jar returned status 404
 3.0.0		2020-12-21T19:07:44Z	
 3.0.1		2021-01-27T20:35:56Z	
 3.0.2		2021-03-17T21:20:24Z	
