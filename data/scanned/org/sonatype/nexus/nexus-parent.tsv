@@ -1,3 +1,6 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/1/nexus-parent-1.jar returned status 404
+1.9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/1.9.2.1/nexus-parent-1.9.2.1.jar returned status 404
+1.9.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/1.9.2.2/nexus-parent-1.9.2.2.jar returned status 404
 3.24.0-01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/3.24.0-01/nexus-parent-3.24.0-01.jar returned status 404
 3.24.0-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/3.24.0-02/nexus-parent-3.24.0-02.jar returned status 404
 3.25.0-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/nexus/nexus-parent/3.25.0-02/nexus-parent-3.25.0-02.jar returned status 404
