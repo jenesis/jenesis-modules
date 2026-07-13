@@ -257,6 +257,7 @@
 4.0.5		2019-08-14T07:24:24Z	
 4.0.5	jspc	2019-08-14T07:24:31Z	
 4.0.5	sources-commercial	2019-08-14T07:24:33Z	
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portlet.configuration.sharing.web/4.0.6/com.liferay.portlet.configuration.sharing.web-4.0.6.jar returned status 404
 4.0.6	jspc	2019-09-19T06:32:23Z	
 4.0.6	sources-commercial	2019-09-19T06:32:25Z	
 4.0.7		2019-09-19T09:14:35Z	

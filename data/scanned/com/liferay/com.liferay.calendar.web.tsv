@@ -730,6 +730,7 @@
 3.0.24		2019-09-19T03:39:30Z	
 3.0.24	jspc	2019-09-19T03:39:36Z	
 3.0.24	sources-commercial	2019-09-19T03:39:38Z	
+3.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.calendar.web/3.0.25/com.liferay.calendar.web-3.0.25.jar returned status 404
 3.0.25	jspc	2019-09-19T08:41:51Z	
 3.0.25	sources-commercial	2019-09-19T08:41:57Z	
 3.0.26		2019-09-22T05:03:00Z	
