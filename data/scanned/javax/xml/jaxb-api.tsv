@@ -1,2 +1,5 @@
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/xml/jaxb-api/1.0.1/jaxb-api-1.0.1.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/xml/jaxb-api/1.0.5/jaxb-api-1.0.5.jar returned status 404
 2.0		2006-05-23T10:10:16Z	
 2.0EA3		2006-04-02T05:31:29Z	
+2.0_PFD			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/xml/jaxb-api/2.0_PFD/jaxb-api-2.0_PFD.jar returned status 404

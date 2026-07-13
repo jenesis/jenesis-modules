@@ -21,3 +21,4 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/location/1.0.9/location-1.0.9.jar returned status 404
 1.1.0		2026-06-27T18:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/location/1.1.0/location-1.1.0.jar returned status 404
 1.1.1		2026-06-29T10:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/location/1.1.1/location-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/location/1.1.2/location-1.1.2.jar returned status 404

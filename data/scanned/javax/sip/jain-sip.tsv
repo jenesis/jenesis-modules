@@ -1,2 +1,5 @@
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/sip/jain-sip/1.2/jain-sip-1.2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/sip/jain-sip/1.2.1/jain-sip-1.2.1.jar returned status 404
 1.2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/sip/jain-sip/1.2.1.3/jain-sip-1.2.1.3.jar returned status 404
 1.2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/sip/jain-sip/1.2.1.4/jain-sip-1.2.1.4.jar returned status 404
+1.2.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javax/sip/jain-sip/1.2.76/jain-sip-1.2.76.jar returned status 404

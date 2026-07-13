@@ -219,3 +219,5 @@
 5.2.1		2026-06-10T11:31:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/auth/auth/5.2.1/auth-5.2.1.jar returned status 404
 5.2.2		2026-06-16T15:15:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/auth/auth/5.2.2/auth-5.2.2.jar returned status 404
 5.2.3		2026-07-02T06:29:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/auth/auth/5.2.3/auth-5.2.3.jar returned status 404
+5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/auth/auth/5.2.4/auth-5.2.4.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/yoomoney/sdk/auth/auth/5.3.0/auth-5.3.0.jar returned status 404

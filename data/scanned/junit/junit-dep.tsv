@@ -1,4 +1,6 @@
 4.10		2011-09-29T19:12:27Z	
+4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/junit/junit-dep/4.11/junit-dep-4.11.jar returned status 404
+4.11-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/junit/junit-dep/4.11-beta-1/junit-dep-4.11-beta-1.jar returned status 404
 4.4		2007-11-08T09:21:12Z	
 4.5		2008-08-19T12:12:16Z	
 4.6		2010-10-05T08:47:15Z	

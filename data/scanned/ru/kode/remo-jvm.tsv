@@ -2,4 +2,5 @@
 1.1.0		2022-10-11T11:49:41Z	
 1.1.1		2022-11-28T11:01:55Z	
 1.2.0		2024-03-01T16:09:08Z	
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/kode/remo-jvm/9.0.0/remo-jvm-9.0.0.jar returned status 404
 9.0.1		2024-10-24T12:29:48Z	
