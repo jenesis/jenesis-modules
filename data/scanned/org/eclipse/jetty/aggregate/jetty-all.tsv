@@ -1,9 +1,16 @@
+10.0.0-alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/10.0.0-alpha0/jetty-all-10.0.0-alpha0.jar returned status 404
 10.0.0-alpha0	uber	2019-07-11T13:41:15Z	
+10.0.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/10.0.0.alpha1/jetty-all-10.0.0.alpha1.jar returned status 404
 10.0.0.alpha1	uber	2019-11-26T23:19:15Z	
+10.0.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/10.0.0.alpha2/jetty-all-10.0.0.alpha2.jar returned status 404
 10.0.0.alpha2	uber	2020-03-23T16:06:45Z	
+10.0.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/10.0.0.beta0/jetty-all-10.0.0.beta0.jar returned status 404
 10.0.0.beta0	uber	2020-05-27T22:55:12Z	
+10.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/10.0.0.beta1/jetty-all-10.0.0.beta1.jar returned status 404
 10.0.0.beta1	uber	2020-07-10T06:04:05Z	
+11.0.0-alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/11.0.0-alpha0/jetty-all-11.0.0-alpha0.jar returned status 404
 11.0.0-alpha0	uber	2020-05-30T09:01:16Z	
+11.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/11.0.0.beta1/jetty-all-11.0.0.beta1.jar returned status 404
 11.0.0.beta1	uber	2020-07-10T09:05:11Z	
 7.0.0.M3		2009-06-18T14:27:53Z	
 7.0.0.M4		2009-07-01T19:14:35Z	
@@ -171,130 +178,255 @@
 9.3.0.M0		2014-09-24T23:29:21Z	
 9.3.0.M1		2014-11-03T22:10:50Z	
 9.3.0.M2		2015-03-11T16:57:45Z	
+9.3.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.0.RC0/jetty-all-9.3.0.RC0.jar returned status 404
 9.3.0.RC0	uber	2015-05-12T17:11:34Z	
+9.3.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.0.RC1/jetty-all-9.3.0.RC1.jar returned status 404
 9.3.0.RC1	uber	2015-05-23T01:14:50Z	
+9.3.0.v20150612			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.0.v20150612/jetty-all-9.3.0.v20150612.jar returned status 404
 9.3.0.v20150612	uber	2015-06-12T17:49:15Z	
+9.3.1.v20150714			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.1.v20150714/jetty-all-9.3.1.v20150714.jar returned status 404
 9.3.1.v20150714	uber	2015-07-14T17:27:00Z	
+9.3.10.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.10.M0/jetty-all-9.3.10.M0.jar returned status 404
 9.3.10.M0	uber	2016-05-26T14:42:58Z	
+9.3.10.v20160621			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.10.v20160621/jetty-all-9.3.10.v20160621.jar returned status 404
 9.3.10.v20160621	uber	2016-06-21T14:34:24Z	
+9.3.11.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.11.M0/jetty-all-9.3.11.M0.jar returned status 404
 9.3.11.M0	uber	2016-06-22T19:38:13Z	
+9.3.11.v20160721			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.11.v20160721/jetty-all-9.3.11.v20160721.jar returned status 404
 9.3.11.v20160721	uber	2016-07-22T02:06:14Z	
+9.3.12.v20160915			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.12.v20160915/jetty-all-9.3.12.v20160915.jar returned status 404
 9.3.12.v20160915	uber	2016-09-15T14:31:01Z	
+9.3.13.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.13.M0/jetty-all-9.3.13.M0.jar returned status 404
 9.3.13.M0	uber	2016-09-30T18:57:36Z	
+9.3.13.v20161014			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.13.v20161014/jetty-all-9.3.13.v20161014.jar returned status 404
 9.3.13.v20161014	uber	2016-10-14T18:32:19Z	
+9.3.14.v20161028			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.14.v20161028/jetty-all-9.3.14.v20161028.jar returned status 404
 9.3.14.v20161028	uber	2016-10-28T19:57:53Z	
+9.3.15.v20161220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.15.v20161220/jetty-all-9.3.15.v20161220.jar returned status 404
 9.3.15.v20161220	uber	2016-12-20T20:07:47Z	
+9.3.16.v20170120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.16.v20170120/jetty-all-9.3.16.v20170120.jar returned status 404
 9.3.16.v20170120	uber	2017-01-20T15:33:26Z	
+9.3.17.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.17.RC0/jetty-all-9.3.17.RC0.jar returned status 404
 9.3.17.RC0	uber	2017-03-07T17:08:00Z	
+9.3.17.v20170317			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.17.v20170317/jetty-all-9.3.17.v20170317.jar returned status 404
 9.3.17.v20170317	uber	2017-03-17T16:47:15Z	
+9.3.18.v20170406			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.18.v20170406/jetty-all-9.3.18.v20170406.jar returned status 404
 9.3.18.v20170406	uber	2017-04-06T14:47:24Z	
+9.3.19.v20170502			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.19.v20170502/jetty-all-9.3.19.v20170502.jar returned status 404
 9.3.19.v20170502	uber	2017-05-02T22:22:16Z	
+9.3.2.v20150730			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.2.v20150730/jetty-all-9.3.2.v20150730.jar returned status 404
 9.3.2.v20150730	uber	2015-07-30T18:51:34Z	
+9.3.20.v20170531			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.20.v20170531/jetty-all-9.3.20.v20170531.jar returned status 404
 9.3.20.v20170531	uber	2017-05-31T23:07:39Z	
+9.3.21.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.21.M0/jetty-all-9.3.21.M0.jar returned status 404
 9.3.21.M0	uber	2017-08-01T18:25:49Z	
+9.3.21.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.21.RC0/jetty-all-9.3.21.RC0.jar returned status 404
 9.3.21.RC0	uber	2017-08-16T16:43:43Z	
+9.3.21.v20170918			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.21.v20170918/jetty-all-9.3.21.v20170918.jar returned status 404
 9.3.21.v20170918	uber	2017-09-18T22:02:33Z	
+9.3.22.v20171030			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.22.v20171030/jetty-all-9.3.22.v20171030.jar returned status 404
 9.3.22.v20171030	uber	2017-10-30T20:39:24Z	
+9.3.23.v20180228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.23.v20180228/jetty-all-9.3.23.v20180228.jar returned status 404
 9.3.23.v20180228	uber	2018-02-28T22:28:45Z	
+9.3.24.v20180605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.24.v20180605/jetty-all-9.3.24.v20180605.jar returned status 404
 9.3.24.v20180605	uber	2018-06-05T18:02:46Z	
+9.3.25.v20180904			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.25.v20180904/jetty-all-9.3.25.v20180904.jar returned status 404
 9.3.25.v20180904	uber	2018-09-04T22:21:47Z	
+9.3.26.v20190403			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.26.v20190403/jetty-all-9.3.26.v20190403.jar returned status 404
 9.3.26.v20190403	uber	2019-04-03T23:44:52Z	
+9.3.27.v20190418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.27.v20190418/jetty-all-9.3.27.v20190418.jar returned status 404
 9.3.27.v20190418	uber	2019-04-18T18:47:07Z	
+9.3.28.v20191105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.28.v20191105/jetty-all-9.3.28.v20191105.jar returned status 404
 9.3.28.v20191105	uber	2019-11-05T18:19:55Z	
+9.3.29.v20201019			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.29.v20201019/jetty-all-9.3.29.v20201019.jar returned status 404
 9.3.29.v20201019	uber	2020-10-19T19:00:07Z	
+9.3.3.v20150827			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.3.v20150827/jetty-all-9.3.3.v20150827.jar returned status 404
 9.3.3.v20150827	uber	2015-08-27T16:12:43Z	
+9.3.30.v20211001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.30.v20211001/jetty-all-9.3.30.v20211001.jar returned status 404
 9.3.30.v20211001	uber	2021-10-01T16:00:17Z	
+9.3.4.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.4.RC0/jetty-all-9.3.4.RC0.jar returned status 404
 9.3.4.RC0	uber	2015-09-03T19:13:00Z	
+9.3.4.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.4.RC1/jetty-all-9.3.4.RC1.jar returned status 404
 9.3.4.RC1	uber	2015-10-06T15:39:06Z	
+9.3.4.v20151007			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.4.v20151007/jetty-all-9.3.4.v20151007.jar returned status 404
 9.3.4.v20151007	uber	2015-10-07T22:27:41Z	
+9.3.5.v20151012			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.5.v20151012/jetty-all-9.3.5.v20151012.jar returned status 404
 9.3.5.v20151012	uber	2015-10-12T22:47:05Z	
+9.3.6.v20151106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.6.v20151106/jetty-all-9.3.6.v20151106.jar returned status 404
 9.3.6.v20151106	uber	2015-11-06T18:42:55Z	
+9.3.7.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.7.RC0/jetty-all-9.3.7.RC0.jar returned status 404
 9.3.7.RC0	uber	2016-01-05T18:47:59Z	
+9.3.7.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.7.RC1/jetty-all-9.3.7.RC1.jar returned status 404
 9.3.7.RC1	uber	2016-01-13T15:01:26Z	
+9.3.7.v20160115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.7.v20160115/jetty-all-9.3.7.v20160115.jar returned status 404
 9.3.7.v20160115	uber	2016-01-16T00:12:16Z	
+9.3.8.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.8.RC0/jetty-all-9.3.8.RC0.jar returned status 404
 9.3.8.RC0	uber	2016-02-25T17:57:44Z	
+9.3.8.v20160314			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.8.v20160314/jetty-all-9.3.8.v20160314.jar returned status 404
 9.3.8.v20160314	uber	2016-03-14T16:05:36Z	
+9.3.9.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.9.M0/jetty-all-9.3.9.M0.jar returned status 404
 9.3.9.M0	uber	2016-04-05T20:17:22Z	
+9.3.9.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.9.M1/jetty-all-9.3.9.M1.jar returned status 404
 9.3.9.M1	uber	2016-04-11T23:06:39Z	
+9.3.9.v20160517			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.9.v20160517/jetty-all-9.3.9.v20160517.jar returned status 404
 9.3.9.v20160517	uber	2016-05-17T23:22:56Z	
+9.4.0.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.M0/jetty-all-9.4.0.M0.jar returned status 404
 9.4.0.M0	uber	2016-06-03T16:12:40Z	
+9.4.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.M1/jetty-all-9.4.0.M1.jar returned status 404
 9.4.0.M1	uber	2016-08-16T03:55:50Z	
+9.4.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.RC0/jetty-all-9.4.0.RC0.jar returned status 404
 9.4.0.RC0	uber	2016-09-15T19:19:00Z	
+9.4.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.RC1/jetty-all-9.4.0.RC1.jar returned status 404
 9.4.0.RC1	uber	2016-10-21T20:51:30Z	
+9.4.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.RC2/jetty-all-9.4.0.RC2.jar returned status 404
 9.4.0.RC2	uber	2016-11-16T17:23:30Z	
+9.4.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.RC3/jetty-all-9.4.0.RC3.jar returned status 404
 9.4.0.RC3	uber	2016-12-05T15:29:03Z	
+9.4.0.v20161208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.v20161208/jetty-all-9.4.0.v20161208.jar returned status 404
 9.4.0.v20161208	uber	2016-12-08T15:33:41Z	
+9.4.0.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.0.v20180619/jetty-all-9.4.0.v20180619.jar returned status 404
 9.4.0.v20180619	uber	2018-06-19T20:34:54Z	
+9.4.1.v20170120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.1.v20170120/jetty-all-9.4.1.v20170120.jar returned status 404
 9.4.1.v20170120	uber	2017-01-20T16:48:27Z	
+9.4.1.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.1.v20180619/jetty-all-9.4.1.v20180619.jar returned status 404
 9.4.1.v20180619	uber	2018-06-19T22:07:01Z	
+9.4.10.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.10.RC0/jetty-all-9.4.10.RC0.jar returned status 404
 9.4.10.RC0	uber	2018-04-13T16:55:45Z	
+9.4.10.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.10.RC1/jetty-all-9.4.10.RC1.jar returned status 404
 9.4.10.RC1	uber	2018-04-26T23:26:57Z	
+9.4.10.v20180503			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.10.v20180503/jetty-all-9.4.10.v20180503.jar returned status 404
 9.4.10.v20180503	uber	2018-05-03T16:46:40Z	
+9.4.11.v20180605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.11.v20180605/jetty-all-9.4.11.v20180605.jar returned status 404
 9.4.11.v20180605	uber	2018-06-05T19:16:51Z	
+9.4.12.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.12.RC0/jetty-all-9.4.12.RC0.jar returned status 404
 9.4.12.RC0	uber	2018-07-17T17:12:39Z	
+9.4.12.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.12.RC1/jetty-all-9.4.12.RC1.jar returned status 404
 9.4.12.RC1	uber	2018-08-01T18:21:26Z	
+9.4.12.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.12.RC2/jetty-all-9.4.12.RC2.jar returned status 404
 9.4.12.RC2	uber	2018-08-14T20:28:37Z	
+9.4.12.v20180830			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.12.v20180830/jetty-all-9.4.12.v20180830.jar returned status 404
 9.4.12.v20180830	uber	2018-08-30T15:47:25Z	
+9.4.13.v20181111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.13.v20181111/jetty-all-9.4.13.v20181111.jar returned status 404
 9.4.13.v20181111	uber	2018-11-12T02:55:16Z	
+9.4.14.v20181114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.14.v20181114/jetty-all-9.4.14.v20181114.jar returned status 404
 9.4.14.v20181114	uber	2018-11-14T22:39:20Z	
+9.4.15.v20190215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.15.v20190215/jetty-all-9.4.15.v20190215.jar returned status 404
 9.4.15.v20190215	uber	2019-02-15T17:27:58Z	
+9.4.16.v20190411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.16.v20190411/jetty-all-9.4.16.v20190411.jar returned status 404
 9.4.16.v20190411	uber	2019-04-11T15:58:22Z	
+9.4.17.v20190418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.17.v20190418/jetty-all-9.4.17.v20190418.jar returned status 404
 9.4.17.v20190418	uber	2019-04-18T20:42:11Z	
+9.4.18.v20190429			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.18.v20190429/jetty-all-9.4.18.v20190429.jar returned status 404
 9.4.18.v20190429	uber	2019-04-29T21:20:11Z	
+9.4.19.v20190610			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.19.v20190610/jetty-all-9.4.19.v20190610.jar returned status 404
 9.4.19.v20190610	uber	2019-06-10T17:36:42Z	
+9.4.2.v20170220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.2.v20170220/jetty-all-9.4.2.v20170220.jar returned status 404
 9.4.2.v20170220	uber	2017-02-20T15:09:19Z	
+9.4.2.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.2.v20180619/jetty-all-9.4.2.v20180619.jar returned status 404
 9.4.2.v20180619	uber	2018-06-20T02:40:22Z	
+9.4.20.v20190813			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.20.v20190813/jetty-all-9.4.20.v20190813.jar returned status 404
 9.4.20.v20190813	uber	2019-08-13T22:34:00Z	
+9.4.21.v20190926			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.21.v20190926/jetty-all-9.4.21.v20190926.jar returned status 404
 9.4.21.v20190926	uber	2019-09-27T00:47:58Z	
+9.4.22.v20191022			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.22.v20191022/jetty-all-9.4.22.v20191022.jar returned status 404
 9.4.22.v20191022	uber	2019-10-22T14:15:36Z	
+9.4.23.v20191118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.23.v20191118/jetty-all-9.4.23.v20191118.jar returned status 404
 9.4.23.v20191118	uber	2019-11-18T19:46:40Z	
+9.4.24.v20191120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.24.v20191120/jetty-all-9.4.24.v20191120.jar returned status 404
 9.4.24.v20191120	uber	2019-11-20T21:59:30Z	
+9.4.25.v20191220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.25.v20191220/jetty-all-9.4.25.v20191220.jar returned status 404
 9.4.25.v20191220	uber	2019-12-20T17:21:30Z	
+9.4.26.v20200117			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.26.v20200117/jetty-all-9.4.26.v20200117.jar returned status 404
 9.4.26.v20200117	uber	2020-01-17T12:59:05Z	
+9.4.27.v20200227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.27.v20200227/jetty-all-9.4.27.v20200227.jar returned status 404
 9.4.27.v20200227	uber	2020-02-27T19:00:55Z	
+9.4.28.v20200408			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.28.v20200408/jetty-all-9.4.28.v20200408.jar returned status 404
 9.4.28.v20200408	uber	2020-04-08T18:09:56Z	
+9.4.29.v20200521			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.29.v20200521/jetty-all-9.4.29.v20200521.jar returned status 404
 9.4.29.v20200521	uber	2020-05-21T17:50:41Z	
+9.4.3.v20170317			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.3.v20170317/jetty-all-9.4.3.v20170317.jar returned status 404
 9.4.3.v20170317	uber	2017-03-17T17:49:12Z	
+9.4.3.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.3.v20180619/jetty-all-9.4.3.v20180619.jar returned status 404
 9.4.3.v20180619	uber	2018-06-20T16:27:16Z	
+9.4.30.v20200611			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.30.v20200611/jetty-all-9.4.30.v20200611.jar returned status 404
 9.4.30.v20200611	uber	2020-06-11T12:56:10Z	
+9.4.31.v20200723			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.31.v20200723/jetty-all-9.4.31.v20200723.jar returned status 404
 9.4.31.v20200723	uber	2020-07-23T18:52:35Z	
+9.4.32.v20200930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.32.v20200930/jetty-all-9.4.32.v20200930.jar returned status 404
 9.4.32.v20200930	uber	2020-09-30T16:33:00Z	
+9.4.33.v20201020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.33.v20201020/jetty-all-9.4.33.v20201020.jar returned status 404
 9.4.33.v20201020	uber	2020-10-20T23:54:31Z	
+9.4.34.v20201102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.34.v20201102/jetty-all-9.4.34.v20201102.jar returned status 404
 9.4.34.v20201102	uber	2020-11-02T14:47:25Z	
+9.4.35.v20201120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.35.v20201120/jetty-all-9.4.35.v20201120.jar returned status 404
 9.4.35.v20201120	uber	2020-11-20T21:36:35Z	
+9.4.36.v20210114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.36.v20210114/jetty-all-9.4.36.v20210114.jar returned status 404
 9.4.36.v20210114	uber	2021-01-14T17:08:17Z	
+9.4.37.v20210219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.37.v20210219/jetty-all-9.4.37.v20210219.jar returned status 404
 9.4.37.v20210219	uber	2021-02-19T15:35:58Z	
+9.4.38.v20210224			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.38.v20210224/jetty-all-9.4.38.v20210224.jar returned status 404
 9.4.38.v20210224	uber	2021-02-24T20:51:32Z	
+9.4.39.v20210325			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.39.v20210325/jetty-all-9.4.39.v20210325.jar returned status 404
 9.4.39.v20210325	uber	2021-03-25T14:58:16Z	
+9.4.4.v20170414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.4.v20170414/jetty-all-9.4.4.v20170414.jar returned status 404
 9.4.4.v20170414	uber	2017-04-14T21:37:15Z	
+9.4.4.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.4.v20180619/jetty-all-9.4.4.v20180619.jar returned status 404
 9.4.4.v20180619	uber	2018-06-20T18:00:49Z	
+9.4.40.v20210413			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.40.v20210413/jetty-all-9.4.40.v20210413.jar returned status 404
 9.4.40.v20210413	uber	2021-04-13T20:57:10Z	
+9.4.41.v20210516			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.41.v20210516/jetty-all-9.4.41.v20210516.jar returned status 404
 9.4.41.v20210516	uber	2021-05-17T00:08:11Z	
+9.4.42.v20210604			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.42.v20210604/jetty-all-9.4.42.v20210604.jar returned status 404
 9.4.42.v20210604	uber	2021-06-04T17:46:07Z	
+9.4.43.v20210629			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.43.v20210629/jetty-all-9.4.43.v20210629.jar returned status 404
 9.4.43.v20210629	uber	2021-06-30T11:21:23Z	
+9.4.44.v20210927			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.44.v20210927/jetty-all-9.4.44.v20210927.jar returned status 404
 9.4.44.v20210927	uber	2021-09-27T23:15:52Z	
+9.4.45.v20220203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.45.v20220203/jetty-all-9.4.45.v20220203.jar returned status 404
 9.4.45.v20220203	uber	2022-02-03T09:27:16Z	
+9.4.46.v20220331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.46.v20220331/jetty-all-9.4.46.v20220331.jar returned status 404
 9.4.46.v20220331	uber	2022-03-31T16:51:58Z	
+9.4.47.v20220610			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.47.v20220610/jetty-all-9.4.47.v20220610.jar returned status 404
 9.4.47.v20220610	uber	2022-06-10T15:17:19Z	
+9.4.48.v20220622			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.48.v20220622/jetty-all-9.4.48.v20220622.jar returned status 404
 9.4.48.v20220622	uber	2022-06-21T20:55:07Z	
+9.4.49.v20220914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.49.v20220914/jetty-all-9.4.49.v20220914.jar returned status 404
 9.4.49.v20220914	uber	2022-09-14T01:17:51Z	
+9.4.5.v20170502			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.5.v20170502/jetty-all-9.4.5.v20170502.jar returned status 404
 9.4.5.v20170502	uber	2017-05-02T21:19:25Z	
+9.4.5.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.5.v20180619/jetty-all-9.4.5.v20180619.jar returned status 404
 9.4.5.v20180619	uber	2018-06-20T19:05:54Z	
+9.4.50.v20221201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.50.v20221201/jetty-all-9.4.50.v20221201.jar returned status 404
 9.4.50.v20221201	uber	2022-12-01T22:19:39Z	
+9.4.51.v20230217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.51.v20230217/jetty-all-9.4.51.v20230217.jar returned status 404
 9.4.51.v20230217	uber	2023-02-17T08:30:34Z	
+9.4.52.v20230823			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.52.v20230823/jetty-all-9.4.52.v20230823.jar returned status 404
 9.4.52.v20230823	uber	2023-08-23T19:36:07Z	
+9.4.53.v20231009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.53.v20231009/jetty-all-9.4.53.v20231009.jar returned status 404
 9.4.53.v20231009	uber	2023-10-09T12:36:48Z	
+9.4.54.v20240208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.54.v20240208/jetty-all-9.4.54.v20240208.jar returned status 404
 9.4.54.v20240208	uber	2024-02-08T19:49:40Z	
+9.4.55.v20240627			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.55.v20240627/jetty-all-9.4.55.v20240627.jar returned status 404
 9.4.55.v20240627	uber	2024-06-27T15:15:27Z	
+9.4.56.v20240826			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.56.v20240826/jetty-all-9.4.56.v20240826.jar returned status 404
 9.4.56.v20240826	uber	2024-08-26T17:22:10Z	
+9.4.57.v20241219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.57.v20241219/jetty-all-9.4.57.v20241219.jar returned status 404
 9.4.57.v20241219	uber	2025-01-08T21:31:41Z	
 9.4.58.v20250814			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.58.v20250814/jetty-all-9.4.58.v20250814.jar returned status 404
 9.4.58.v20250814	uber	2025-08-14T02:32:20Z	
+9.4.6.v20170531			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.6.v20170531/jetty-all-9.4.6.v20170531.jar returned status 404
 9.4.6.v20170531	uber	2017-05-31T23:54:51Z	
+9.4.6.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.6.v20180619/jetty-all-9.4.6.v20180619.jar returned status 404
 9.4.6.v20180619	uber	2018-06-20T21:41:55Z	
+9.4.7.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.7.RC0/jetty-all-9.4.7.RC0.jar returned status 404
 9.4.7.RC0	uber	2017-08-16T18:34:06Z	
+9.4.7.v20170914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.7.v20170914/jetty-all-9.4.7.v20170914.jar returned status 404
 9.4.7.v20170914	uber	2017-09-14T15:29:11Z	
+9.4.7.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.7.v20180619/jetty-all-9.4.7.v20180619.jar returned status 404
 9.4.7.v20180619	uber	2018-06-20T22:56:06Z	
+9.4.8.v20171121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.8.v20171121/jetty-all-9.4.8.v20171121.jar returned status 404
 9.4.8.v20171121	uber	2017-11-21T22:06:58Z	
+9.4.8.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.8.v20180619/jetty-all-9.4.8.v20180619.jar returned status 404
 9.4.8.v20180619	uber	2018-06-21T00:34:59Z	
+9.4.9.v20180320			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/aggregate/jetty-all/9.4.9.v20180320/jetty-all-9.4.9.v20180320.jar returned status 404
 9.4.9.v20180320	uber	2018-03-20T13:24:32Z	

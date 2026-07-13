@@ -1,5 +1,21 @@
 0.10.0		2026-03-09T13:30:01Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0/hawkbit-test-report-0.2.0.jar returned status 404
+0.2.0M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M1/hawkbit-test-report-0.2.0M1.jar returned status 404
+0.2.0M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M2/hawkbit-test-report-0.2.0M2.jar returned status 404
+0.2.0M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M3/hawkbit-test-report-0.2.0M3.jar returned status 404
+0.2.0M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M4/hawkbit-test-report-0.2.0M4.jar returned status 404
+0.2.0M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M5/hawkbit-test-report-0.2.0M5.jar returned status 404
+0.2.0M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M6/hawkbit-test-report-0.2.0M6.jar returned status 404
+0.2.0M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M7/hawkbit-test-report-0.2.0M7.jar returned status 404
+0.2.0M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M8/hawkbit-test-report-0.2.0M8.jar returned status 404
+0.2.0M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.0M9/hawkbit-test-report-0.2.0M9.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.1/hawkbit-test-report-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.2/hawkbit-test-report-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.3/hawkbit-test-report-0.2.3.jar returned status 404
+0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.4/hawkbit-test-report-0.2.4.jar returned status 404
+0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.2.5/hawkbit-test-report-0.2.5.jar returned status 404
 0.3.0		2023-11-13T14:56:23Z	
+0.3.0M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/hawkbit/hawkbit-test-report/0.3.0M1/hawkbit-test-report-0.3.0M1.jar returned status 404
 0.3.0M2		2019-04-02T16:59:28Z	
 0.3.0M3		2019-05-21T19:50:08Z	
 0.3.0M4		2019-06-06T15:48:53Z	
