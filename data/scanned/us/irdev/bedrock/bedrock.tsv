@@ -1,3 +1,8 @@
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.2.1/bedrock-2.2.1.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.2.3/bedrock-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.2.4/bedrock-2.2.4.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.2.5/bedrock-2.2.5.jar returned status 404
+2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.2.6/bedrock-2.2.6.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.3.1/bedrock-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.3.2/bedrock-2.3.2.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/irdev/bedrock/bedrock/2.5.1/bedrock-2.5.1.jar returned status 404

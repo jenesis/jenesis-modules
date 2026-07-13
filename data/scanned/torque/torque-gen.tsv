@@ -5,6 +5,7 @@
 3.1-alpha1		2005-11-22T18:26:54Z	
 3.1-alpha2		2005-11-22T18:26:55Z	
 3.1-beta1		2005-11-22T18:26:55Z	
+3.1-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/torque/torque-gen/3.1-dev/torque-gen-3.1-dev.jar returned status 404
 3.1-rc		2005-11-22T18:26:55Z	
 3.1.1		2005-11-22T18:27:24Z	
 3.1.1-rc1		2005-11-22T18:26:55Z	

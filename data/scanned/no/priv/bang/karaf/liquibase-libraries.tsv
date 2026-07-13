@@ -1,3 +1,8 @@
+4.28.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.28.0.1/liquibase-libraries-4.28.0.1.jar returned status 404
+4.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.29.0/liquibase-libraries-4.29.0.jar returned status 404
+4.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.30.0/liquibase-libraries-4.30.0.jar returned status 404
+4.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.31.0/liquibase-libraries-4.31.0.jar returned status 404
+4.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.31.1/liquibase-libraries-4.31.1.jar returned status 404
 4.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/4.33.0/liquibase-libraries-4.33.0.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/5.0.1/liquibase-libraries-5.0.1.jar returned status 404
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/karaf/liquibase-libraries/5.0.2/liquibase-libraries-5.0.2.jar returned status 404

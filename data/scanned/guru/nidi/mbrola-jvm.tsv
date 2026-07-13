@@ -1,3 +1,7 @@
 0.0.1		2018-02-04T18:45:43Z	
 0.0.5		2018-02-18T21:17:33Z	
 0.0.6		2018-02-18T23:20:38Z	
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/mbrola-jvm/0.0.7/mbrola-jvm-0.0.7.jar returned status 404
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/mbrola-jvm/0.0.8/mbrola-jvm-0.0.8.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/mbrola-jvm/0.1.1/mbrola-jvm-0.1.1.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/mbrola-jvm/0.1.2/mbrola-jvm-0.1.2.jar returned status 404

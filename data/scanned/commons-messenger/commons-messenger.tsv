@@ -1,3 +1,4 @@
+1.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-messenger/commons-messenger/1.0-dev/commons-messenger-1.0-dev.jar returned status 404
 1.0-dev-10		2005-11-22T18:09:39Z	
 1.0-dev-11		2005-11-22T18:09:39Z	
 1.0-dev-12		2005-11-22T18:09:39Z	
@@ -9,3 +10,6 @@
 1.0-dev-5		2005-11-22T18:09:41Z	
 1.0-dev-6		2005-11-22T18:09:42Z	
 1.0-dev-8		2005-11-22T18:09:42Z	
+1.0-dev.20020708.025623			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-messenger/commons-messenger/1.0-dev.20020708.025623/commons-messenger-1.0-dev.20020708.025623.jar returned status 404
+1.0-dev.20020708.042042			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-messenger/commons-messenger/1.0-dev.20020708.042042/commons-messenger-1.0-dev.20020708.042042.jar returned status 404
+1.0-dev.20020906.115547			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-messenger/commons-messenger/1.0-dev.20020906.115547/commons-messenger-1.0-dev.20020906.115547.jar returned status 404

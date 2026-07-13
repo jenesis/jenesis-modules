@@ -1,3 +1,16 @@
 0.0.1		2014-10-14T22:23:10Z	
 0.0.2		2015-01-20T21:54:10Z	
 0.0.3		2015-02-27T22:22:00Z	
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.0.4/raml-tester-proxy-0.0.4.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.0/raml-tester-proxy-0.8.0.jar returned status 404
+0.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.10/raml-tester-proxy-0.8.10.jar returned status 404
+0.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.11/raml-tester-proxy-0.8.11.jar returned status 404
+0.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.12/raml-tester-proxy-0.8.12.jar returned status 404
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.2/raml-tester-proxy-0.8.2.jar returned status 404
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.3/raml-tester-proxy-0.8.3.jar returned status 404
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.4/raml-tester-proxy-0.8.4.jar returned status 404
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.5/raml-tester-proxy-0.8.5.jar returned status 404
+0.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.6/raml-tester-proxy-0.8.6.jar returned status 404
+0.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.7/raml-tester-proxy-0.8.7.jar returned status 404
+0.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.8/raml-tester-proxy-0.8.8.jar returned status 404
+0.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/guru/nidi/raml/raml-tester-proxy/0.8.9/raml-tester-proxy-0.8.9.jar returned status 404

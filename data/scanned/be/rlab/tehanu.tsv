@@ -1,1 +1,13 @@
 2.1.0		2019-08-26T05:51:42Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/2.2.0/tehanu-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/2.2.1/tehanu-2.2.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.0.0/tehanu-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.1.0/tehanu-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.1.1/tehanu-3.1.1.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.2.0/tehanu-3.2.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.0/tehanu-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.1/tehanu-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.2/tehanu-3.3.2.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.3/tehanu-3.3.3.jar returned status 404
+3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.4/tehanu-3.3.4.jar returned status 404
+3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/be/rlab/tehanu/3.3.5/tehanu-3.3.5.jar returned status 404

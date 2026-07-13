@@ -1,1 +1,2 @@
 2.1		2005-08-01T09:38:21Z	
+3.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/flux/flux/3.0-dev/flux-3.0-dev.jar returned status 404
