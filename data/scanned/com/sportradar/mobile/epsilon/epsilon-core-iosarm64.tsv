@@ -4,3 +4,4 @@
 1.0.218	metadata	2026-06-18T12:29:58Z	
 1.0.219		2026-06-19T08:10:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-core-iosarm64/1.0.219/epsilon-core-iosarm64-1.0.219.jar returned status 404
 1.0.219	metadata	2026-06-19T08:10:42Z	
+1.0.220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-core-iosarm64/1.0.220/epsilon-core-iosarm64-1.0.220.jar returned status 404

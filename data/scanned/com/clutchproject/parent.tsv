@@ -1,1 +1,4 @@
 0.1		2016-09-16T23:17:31Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clutchproject/parent/0.2/parent-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clutchproject/parent/0.3/parent-0.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clutchproject/parent/1.0.0/parent-1.0.0.jar returned status 404

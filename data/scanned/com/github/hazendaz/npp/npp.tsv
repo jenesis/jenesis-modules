@@ -1,3 +1,11 @@
+7.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.8.5/npp-7.8.5.jar returned status 404
+7.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.8.6/npp-7.8.6.jar returned status 404
+7.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.8.7/npp-7.8.7.jar returned status 404
+7.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.8.9/npp-7.8.9.jar returned status 404
+7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.9/npp-7.9.jar returned status 404
+7.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.9.1/npp-7.9.1.jar returned status 404
+7.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/7.9.2/npp-7.9.2.jar returned status 404
+8.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/8.4.4/npp-8.4.4.jar returned status 404
 8.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/8.4.8/npp-8.4.8.jar returned status 404
 8.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/8.5.3/npp-8.5.3.jar returned status 404
 8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/npp/npp/8.6/npp-8.6.jar returned status 404

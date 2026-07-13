@@ -1,3 +1,4 @@
+11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.0/miglayout-parent-11.0.jar returned status 404
 11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.1/miglayout-parent-11.1.jar returned status 404
 11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.2/miglayout-parent-11.2.jar returned status 404
 11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.3/miglayout-parent-11.3.jar returned status 404
@@ -5,3 +6,9 @@
 11.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.4.1/miglayout-parent-11.4.1.jar returned status 404
 11.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.4.2/miglayout-parent-11.4.2.jar returned status 404
 11.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/11.4.3/miglayout-parent-11.4.3.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/4.1/miglayout-parent-4.1.jar returned status 404
+4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/4.2/miglayout-parent-4.2.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/5.0/miglayout-parent-5.0.jar returned status 404
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/5.1/miglayout-parent-5.1.jar returned status 404
+5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/5.2/miglayout-parent-5.2.jar returned status 404
+5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/miglayout/miglayout-parent/5.3/miglayout-parent-5.3.jar returned status 404

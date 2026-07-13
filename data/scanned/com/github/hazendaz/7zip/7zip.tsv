@@ -1,3 +1,8 @@
+19.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/19.00/7zip-19.00.jar returned status 404
+21.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/21.06/7zip-21.06.jar returned status 404
+21.07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/21.07/7zip-21.07.jar returned status 404
+22.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/22.00/7zip-22.00.jar returned status 404
+22.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/22.01/7zip-22.01.jar returned status 404
 23.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/23.00/7zip-23.00.jar returned status 404
 23.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/23.01/7zip-23.01.jar returned status 404
 24.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/7zip/7zip/24.05/7zip-24.05.jar returned status 404
