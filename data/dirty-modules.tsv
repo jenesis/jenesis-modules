@@ -3300,3 +3300,14 @@ net.tascalate.javaflow.providers.core
 net.tascalate.javaflow.examples.trampoline
 net.tascalate.javaflow.tools.runtime
 net.codecrete.usb
+net.javacrumbs.jsonunit.assertj
+net.javacrumbs.jsonunit.core
+net.javacrumbs.jsonunit.kotest
+net.javacrumbs.jsonunit.classic
+net.javacrumbs.jsonunit.spring
+kotowari.graalvm
+enkan.core
+kotowari
+enkan.servlet
+enkan.web
+enkan.system

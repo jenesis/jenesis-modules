@@ -1,5 +1,7 @@
 2022.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/2022.0.0/guerlab-cloud-uploader-2022.0.0.jar returned status 404
 2022.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/2022.1.0/guerlab-cloud-uploader-2022.1.0.jar returned status 404
+2022.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/2022.3.0/guerlab-cloud-uploader-2022.3.0.jar returned status 404
+2022.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/2022.4.0/guerlab-cloud-uploader-2022.4.0.jar returned status 404
 21.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/21.11.0/guerlab-cloud-uploader-21.11.0.jar returned status 404
 21.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/21.7.0/guerlab-cloud-uploader-21.7.0.jar returned status 404
 21.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/guerlab/cloud/uploader/guerlab-cloud-uploader/21.7.1/guerlab-cloud-uploader-21.7.1.jar returned status 404

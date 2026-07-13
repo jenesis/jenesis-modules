@@ -1,1 +1,8 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.0.0/testing-pom-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.1.0/testing-pom-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.2.0/testing-pom-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.3.0/testing-pom-5.3.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.4.0/testing-pom-5.4.0.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.5.0/testing-pom-5.5.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.6.1/testing-pom-5.6.1.jar returned status 404
 5.7.0		2026-06-03T21:43:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/morimekta/utils/testing-pom/5.7.0/testing-pom-5.7.0.jar returned status 404

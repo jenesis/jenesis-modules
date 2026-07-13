@@ -14,5 +14,7 @@
 1.0.2.20230413		2023-04-13T09:24:23Z	
 1.0.2.20230414		2023-04-17T05:56:38Z	
 1.0.2.20230423		2023-04-23T11:26:05Z	
+2.0.1.20231216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jlxxw/wechat-spring-boot-starter/2.0.1.20231216/wechat-spring-boot-starter-2.0.1.20231216.jar returned status 404
+2.0.1.20240302			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jlxxw/wechat-spring-boot-starter/2.0.1.20240302/wechat-spring-boot-starter-2.0.1.20240302.jar returned status 404
 2.0.1.20250811			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jlxxw/wechat-spring-boot-starter/2.0.1.20250811/wechat-spring-boot-starter-2.0.1.20250811.jar returned status 404
 2.0.1.20250812			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jlxxw/wechat-spring-boot-starter/2.0.1.20250812/wechat-spring-boot-starter-2.0.1.20250812.jar returned status 404

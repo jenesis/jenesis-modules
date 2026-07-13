@@ -1,1 +1,6 @@
 0.0.4		2014-12-09T18:49:16Z	
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/java8-guava/0.1.0/java8-guava-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/java8-guava/0.2.0/java8-guava-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/java8-guava/0.2.1/java8-guava-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/java8-guava/0.2.2/java8-guava-0.2.2.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/java8-guava/0.3.0/java8-guava-0.3.0.jar returned status 404

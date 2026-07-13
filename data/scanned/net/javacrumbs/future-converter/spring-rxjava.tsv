@@ -2,3 +2,8 @@
 0.0.2		2014-04-28T19:39:13Z	
 0.0.3		2014-12-07T18:40:14Z	
 0.0.4		2014-12-09T18:48:57Z	
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/spring-rxjava/0.1.0/spring-rxjava-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/spring-rxjava/0.2.0/spring-rxjava-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/spring-rxjava/0.2.1/spring-rxjava-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/spring-rxjava/0.2.2/spring-rxjava-0.2.2.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/spring-rxjava/0.3.0/spring-rxjava-0.3.0.jar returned status 404

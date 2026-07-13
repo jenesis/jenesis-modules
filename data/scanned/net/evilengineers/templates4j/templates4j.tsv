@@ -1,3 +1,5 @@
 1.0.0		2014-04-19T01:47:37Z	
 1.0.0	complete	2014-04-19T01:48:16Z	
 1.0.0	complete-sources	2014-04-19T01:48:27Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/evilengineers/templates4j/templates4j/1.1.1/templates4j-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/evilengineers/templates4j/templates4j/1.1.2/templates4j-1.1.2.jar returned status 404

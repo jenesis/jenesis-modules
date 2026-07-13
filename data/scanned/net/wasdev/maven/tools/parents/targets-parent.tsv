@@ -1,4 +1,39 @@
+16.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/16.0.0.2/targets-parent-16.0.0.2.jar returned status 404
+16.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/16.0.0.3/targets-parent-16.0.0.3.jar returned status 404
+16.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/16.0.0.4/targets-parent-16.0.0.4.jar returned status 404
+17.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/17.0.0.1/targets-parent-17.0.0.1.jar returned status 404
+17.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/17.0.0.2/targets-parent-17.0.0.2.jar returned status 404
+17.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/17.0.0.3/targets-parent-17.0.0.3.jar returned status 404
+17.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/17.0.0.4/targets-parent-17.0.0.4.jar returned status 404
+18.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/18.0.0.1/targets-parent-18.0.0.1.jar returned status 404
+18.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/18.0.0.2/targets-parent-18.0.0.2.jar returned status 404
+18.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/18.0.0.3/targets-parent-18.0.0.3.jar returned status 404
+18.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/18.0.0.4/targets-parent-18.0.0.4.jar returned status 404
+19.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.1/targets-parent-19.0.0.1.jar returned status 404
+19.0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.12/targets-parent-19.0.0.12.jar returned status 404
+19.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.3/targets-parent-19.0.0.3.jar returned status 404
+19.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.4/targets-parent-19.0.0.4.jar returned status 404
+19.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.6/targets-parent-19.0.0.6.jar returned status 404
+19.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/19.0.0.9/targets-parent-19.0.0.9.jar returned status 404
+20.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/20.0.0.3/targets-parent-20.0.0.3.jar returned status 404
+20.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/20.0.0.6/targets-parent-20.0.0.6.jar returned status 404
+20.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/20.0.0.9/targets-parent-20.0.0.9.jar returned status 404
+21.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/21.0.0.3/targets-parent-21.0.0.3.jar returned status 404
+21.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/21.0.0.6/targets-parent-21.0.0.6.jar returned status 404
+21.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/21.0.0.9/targets-parent-21.0.0.9.jar returned status 404
+22.0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/22.0.0.11/targets-parent-22.0.0.11.jar returned status 404
+22.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/22.0.0.6/targets-parent-22.0.0.6.jar returned status 404
+22.0.0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/22.0.0.6.1/targets-parent-22.0.0.6.1.jar returned status 404
+23.0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/23.0.0.12/targets-parent-23.0.0.12.jar returned status 404
+23.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/23.0.0.6/targets-parent-23.0.0.6.jar returned status 404
+23.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/23.0.0.9/targets-parent-23.0.0.9.jar returned status 404
+24.0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/24.0.0.12/targets-parent-24.0.0.12.jar returned status 404
+24.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/24.0.0.3/targets-parent-24.0.0.3.jar returned status 404
+24.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/24.0.0.6/targets-parent-24.0.0.6.jar returned status 404
+24.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/24.0.0.9/targets-parent-24.0.0.9.jar returned status 404
 25.0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/25.0.0.12/targets-parent-25.0.0.12.jar returned status 404
+25.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/25.0.0.3/targets-parent-25.0.0.3.jar returned status 404
+25.0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/25.0.0.6/targets-parent-25.0.0.6.jar returned status 404
 25.0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/25.0.0.9/targets-parent-25.0.0.9.jar returned status 404
 26.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/26.0.0.1/targets-parent-26.0.0.1.jar returned status 404
 26.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/26.0.0.2/targets-parent-26.0.0.2.jar returned status 404
@@ -6,3 +41,5 @@
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/26.0.0.4/targets-parent-26.0.0.4.jar returned status 404
 26.0.0.5		2026-05-13T09:53:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/26.0.0.5/targets-parent-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/26.0.0.6/targets-parent-26.0.0.6.jar returned status 404
+8.5.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/8.5.5.8/targets-parent-8.5.5.8.jar returned status 404
+8.5.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/parents/targets-parent/8.5.5.9/targets-parent-8.5.5.9.jar returned status 404

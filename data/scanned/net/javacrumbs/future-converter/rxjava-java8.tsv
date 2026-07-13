@@ -2,3 +2,8 @@
 0.0.2		2014-04-28T19:39:04Z	
 0.0.3		2014-12-07T18:40:04Z	
 0.0.4		2014-12-09T18:48:47Z	
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/rxjava-java8/0.1.0/rxjava-java8-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/rxjava-java8/0.2.0/rxjava-java8-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/rxjava-java8/0.2.1/rxjava-java8-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/rxjava-java8/0.2.2/rxjava-java8-0.2.2.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/javacrumbs/future-converter/rxjava-java8/0.3.0/rxjava-java8-0.3.0.jar returned status 404
