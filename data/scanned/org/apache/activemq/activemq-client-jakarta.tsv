@@ -15,3 +15,6 @@
 5.19.6		2026-04-21T16:45:04Z	
 5.19.7		2026-05-27T12:03:15Z	
 5.19.8		2026-06-25T05:56:10Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/activemq-client-jakarta/6.0.0/activemq-client-jakarta-6.0.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/activemq-client-jakarta/6.0.1/activemq-client-jakarta-6.0.1.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/activemq-client-jakarta/6.1.0/activemq-client-jakarta-6.1.0.jar returned status 404

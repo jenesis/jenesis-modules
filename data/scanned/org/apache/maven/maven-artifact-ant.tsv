@@ -1,7 +1,9 @@
 2.0		2006-05-07T22:31:34Z	
 2.0	dep	2006-05-07T22:31:34Z	
 2.0	jar-assembly	2006-05-07T22:31:34Z	
+2.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/maven-artifact-ant/2.0-alpha-1/maven-artifact-ant-2.0-alpha-1.jar returned status 404
 2.0-alpha-1	dep	2006-05-07T22:31:33Z	
+2.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/maven-artifact-ant/2.0-alpha-2/maven-artifact-ant-2.0-alpha-2.jar returned status 404
 2.0-alpha-2	dep	2006-05-07T22:31:33Z	
 2.0-alpha-3		2006-05-07T22:31:34Z	
 2.0-alpha-3	dep	2006-05-07T22:31:33Z	

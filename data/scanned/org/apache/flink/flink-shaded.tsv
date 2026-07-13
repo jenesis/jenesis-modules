@@ -4,3 +4,26 @@
 0.8.0-hadoop1		2015-01-15T10:15:14Z	
 0.8.1		2015-02-16T13:03:22Z	
 0.8.1-hadoop1		2015-02-16T13:11:33Z	
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/1.0/flink-shaded-1.0.jar returned status 404
+10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/10.0/flink-shaded-10.0.jar returned status 404
+11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/11.0/flink-shaded-11.0.jar returned status 404
+12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/12.0/flink-shaded-12.0.jar returned status 404
+13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/13.0/flink-shaded-13.0.jar returned status 404
+14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/14.0/flink-shaded-14.0.jar returned status 404
+15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/15.0/flink-shaded-15.0.jar returned status 404
+16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/16.0/flink-shaded-16.0.jar returned status 404
+16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/16.1/flink-shaded-16.1.jar returned status 404
+16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/16.2/flink-shaded-16.2.jar returned status 404
+17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/17.0/flink-shaded-17.0.jar returned status 404
+18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/18.0/flink-shaded-18.0.jar returned status 404
+19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/19.0/flink-shaded-19.0.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/2.0/flink-shaded-2.0.jar returned status 404
+20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/20.0/flink-shaded-20.0.jar returned status 404
+21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/21.0/flink-shaded-21.0.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/3.0/flink-shaded-3.0.jar returned status 404
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/4.0/flink-shaded-4.0.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/5.0/flink-shaded-5.0.jar returned status 404
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/6.0/flink-shaded-6.0.jar returned status 404
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/7.0/flink-shaded-7.0.jar returned status 404
+8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/8.0/flink-shaded-8.0.jar returned status 404
+9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/flink/flink-shaded/9.0/flink-shaded-9.0.jar returned status 404

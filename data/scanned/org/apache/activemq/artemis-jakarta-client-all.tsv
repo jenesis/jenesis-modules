@@ -29,3 +29,9 @@
 2.42.0		2025-07-14T19:15:27Z	
 2.43.0		2025-10-13T15:18:17Z	
 2.44.0		2025-10-29T11:25:59Z	
+2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.50.0/artemis-jakarta-client-all-2.50.0.jar returned status 404
+2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.51.0/artemis-jakarta-client-all-2.51.0.jar returned status 404
+2.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.52.0/artemis-jakarta-client-all-2.52.0.jar returned status 404
+2.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.53.0/artemis-jakarta-client-all-2.53.0.jar returned status 404
+2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.54.0/artemis-jakarta-client-all-2.54.0.jar returned status 404
+2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-jakarta-client-all/2.55.0/artemis-jakarta-client-all-2.55.0.jar returned status 404

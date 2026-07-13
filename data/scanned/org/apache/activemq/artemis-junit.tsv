@@ -52,6 +52,12 @@
 2.43.0		2025-10-13T15:17:50Z	
 2.44.0		2025-10-29T11:25:38Z	
 2.5.0		2018-03-12T19:03:42Z	
+2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.50.0/artemis-junit-2.50.0.jar returned status 404
+2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.51.0/artemis-junit-2.51.0.jar returned status 404
+2.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.52.0/artemis-junit-2.52.0.jar returned status 404
+2.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.53.0/artemis-junit-2.53.0.jar returned status 404
+2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.54.0/artemis-junit-2.54.0.jar returned status 404
+2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-junit/2.55.0/artemis-junit-2.55.0.jar returned status 404
 2.6.0		2018-05-16T15:15:20Z	
 2.6.1		2018-06-04T21:58:08Z	
 2.6.2		2018-06-19T03:19:35Z	

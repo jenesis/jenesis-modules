@@ -1,9 +1,13 @@
 1.0		2012-01-30T13:40:36Z	
 1.0	scaladoc	2012-01-30T13:40:39Z	
+1.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/apollo-web/1.0-beta1/apollo-web-1.0-beta1.jar returned status 404
 1.0-beta1	slim	2011-04-01T15:47:59Z	
+1.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/apollo-web/1.0-beta2/apollo-web-1.0-beta2.jar returned status 404
 1.0-beta2	slim	2011-05-03T21:24:44Z	
+1.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/apollo-web/1.0-beta3/apollo-web-1.0-beta3.jar returned status 404
 1.0-beta3	scaladoc	2011-06-09T04:18:04Z	
 1.0-beta3	slim	2011-06-09T04:18:04Z	
+1.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/apollo-web/1.0-beta4/apollo-web-1.0-beta4.jar returned status 404
 1.0-beta4	scaladoc	2011-06-29T21:29:47Z	
 1.0-beta4	slim	2011-06-29T21:29:48Z	
 1.0-beta5		2011-08-29T01:35:25Z	

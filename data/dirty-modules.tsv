@@ -987,3 +987,9 @@ jakarta.websocket.client
 org.apache.tomcat.jasper.el
 java.servlet
 jakarta.servlet
+org.apache.fontbox
+org.apache.pdfbox.io
+org.apache.pdfbox.debugger
+org.apache.pdfbox.tools
+org.apache.pdfbox
+org.apache.xmpbox

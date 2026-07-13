@@ -55,6 +55,12 @@
 2.43.0		2025-10-13T15:20:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.43.0/artemis-features-2.43.0.jar returned status 404
 2.44.0		2025-10-29T11:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.44.0/artemis-features-2.44.0.jar returned status 404
 2.5.0		2018-03-12T19:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.5.0/artemis-features-2.5.0.jar returned status 404
+2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.50.0/artemis-features-2.50.0.jar returned status 404
+2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.51.0/artemis-features-2.51.0.jar returned status 404
+2.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.52.0/artemis-features-2.52.0.jar returned status 404
+2.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.53.0/artemis-features-2.53.0.jar returned status 404
+2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.54.0/artemis-features-2.54.0.jar returned status 404
+2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.55.0/artemis-features-2.55.0.jar returned status 404
 2.6.0		2018-05-16T15:18:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.6.0/artemis-features-2.6.0.jar returned status 404
 2.6.1		2018-06-04T22:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.6.1/artemis-features-2.6.1.jar returned status 404
 2.6.2		2018-06-19T03:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-features/2.6.2/artemis-features-2.6.2.jar returned status 404

@@ -12,3 +12,25 @@
 4.4.0-RC1		2015-08-28T11:24:12Z	
 4.4.1		2015-10-27T08:44:54Z	
 4.5.0		2015-12-14T10:37:29Z	
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.5.1/MetaModel-mongodb-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.5.2/MetaModel-mongodb-4.5.2.jar returned status 404
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.5.3/MetaModel-mongodb-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.5.4/MetaModel-mongodb-4.5.4.jar returned status 404
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.5.5/MetaModel-mongodb-4.5.5.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.6.0/MetaModel-mongodb-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/4.6.1/MetaModel-mongodb-4.6.1.jar returned status 404
+5.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0-RC1/MetaModel-mongodb-5.0-RC1.jar returned status 404
+5.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0-RC2/MetaModel-mongodb-5.0-RC2.jar returned status 404
+5.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0-RC3/MetaModel-mongodb-5.0-RC3.jar returned status 404
+5.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0-RC4/MetaModel-mongodb-5.0-RC4.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0.0/MetaModel-mongodb-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.0.1/MetaModel-mongodb-5.0.1.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.1.0/MetaModel-mongodb-5.1.0.jar returned status 404
+5.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.1.0-RC1/MetaModel-mongodb-5.1.0-RC1.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.1.1/MetaModel-mongodb-5.1.1.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.2.0/MetaModel-mongodb-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.2.1/MetaModel-mongodb-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.3.0/MetaModel-mongodb-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.3.1/MetaModel-mongodb-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.3.2/MetaModel-mongodb-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/metamodel/MetaModel-mongodb/5.3.3/MetaModel-mongodb-5.3.3.jar returned status 404

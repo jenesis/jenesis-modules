@@ -3,3 +3,8 @@
 1.0-beta-1		2006-05-07T22:31:39Z	
 1.0.2		2006-05-07T22:31:39Z	
 1.0.3		2006-04-24T16:54:08Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/continuum/continuum-xmlrpc/1.1/continuum-xmlrpc-1.1.jar returned status 404
+1.1-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/continuum/continuum-xmlrpc/1.1-beta-1/continuum-xmlrpc-1.1-beta-1.jar returned status 404
+1.1-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/continuum/continuum-xmlrpc/1.1-beta-2/continuum-xmlrpc-1.1-beta-2.jar returned status 404
+1.1-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/continuum/continuum-xmlrpc/1.1-beta-3/continuum-xmlrpc-1.1-beta-3.jar returned status 404
+1.1-beta-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/maven/continuum/continuum-xmlrpc/1.1-beta-4/continuum-xmlrpc-1.1-beta-4.jar returned status 404
