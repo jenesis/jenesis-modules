@@ -1,49 +1,73 @@
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0/jetty-ee8-demo-spec-webapp-12.0.0.jar returned status 404
 12.0.0	config	2023-08-07T17:29:47Z	
 12.0.0	webbundle	2023-08-07T17:29:47Z	
+12.0.0.alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.alpha0/jetty-ee8-demo-spec-webapp-12.0.0.alpha0.jar returned status 404
 12.0.0.alpha0	config	2022-08-22T04:49:25Z	
 12.0.0.alpha0	webbundle	2022-08-22T04:49:25Z	
+12.0.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.alpha1/jetty-ee8-demo-spec-webapp-12.0.0.alpha1.jar returned status 404
 12.0.0.alpha1	config	2022-09-15T01:46:00Z	
 12.0.0.alpha1	webbundle	2022-09-15T01:46:01Z	
+12.0.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.alpha2/jetty-ee8-demo-spec-webapp-12.0.0.alpha2.jar returned status 404
 12.0.0.alpha2	config	2022-10-18T01:32:00Z	
 12.0.0.alpha2	webbundle	2022-10-18T01:32:00Z	
+12.0.0.alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.alpha3/jetty-ee8-demo-spec-webapp-12.0.0.alpha3.jar returned status 404
 12.0.0.alpha3	config	2022-12-07T22:30:53Z	
 12.0.0.alpha3	webbundle	2022-12-07T22:30:53Z	
+12.0.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.beta0/jetty-ee8-demo-spec-webapp-12.0.0.beta0.jar returned status 404
 12.0.0.beta0	config	2023-02-23T00:44:46Z	
 12.0.0.beta0	webbundle	2023-02-23T00:44:46Z	
+12.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.beta1/jetty-ee8-demo-spec-webapp-12.0.0.beta1.jar returned status 404
 12.0.0.beta1	config	2023-05-02T18:24:28Z	
 12.0.0.beta1	webbundle	2023-05-02T18:24:29Z	
+12.0.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.beta2/jetty-ee8-demo-spec-webapp-12.0.0.beta2.jar returned status 404
 12.0.0.beta2	config	2023-06-16T05:54:39Z	
 12.0.0.beta2	webbundle	2023-06-16T05:54:39Z	
+12.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.beta3/jetty-ee8-demo-spec-webapp-12.0.0.beta3.jar returned status 404
 12.0.0.beta3	config	2023-07-03T21:23:23Z	
 12.0.0.beta3	webbundle	2023-07-03T21:23:24Z	
+12.0.0.beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.0.beta4/jetty-ee8-demo-spec-webapp-12.0.0.beta4.jar returned status 404
 12.0.0.beta4	config	2023-07-26T22:41:38Z	
 12.0.0.beta4	webbundle	2023-07-26T22:41:38Z	
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.1/jetty-ee8-demo-spec-webapp-12.0.1.jar returned status 404
 12.0.1	config	2023-08-29T22:55:04Z	
 12.0.1	webbundle	2023-08-29T22:55:04Z	
+12.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.10/jetty-ee8-demo-spec-webapp-12.0.10.jar returned status 404
 12.0.10	config	2024-05-30T05:04:54Z	
 12.0.10	webbundle	2024-05-30T05:04:54Z	
+12.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.11/jetty-ee8-demo-spec-webapp-12.0.11.jar returned status 404
 12.0.11	config	2024-06-27T23:56:47Z	
 12.0.11	webbundle	2024-06-27T23:56:47Z	
+12.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.12/jetty-ee8-demo-spec-webapp-12.0.12.jar returned status 404
 12.0.12	config	2024-07-25T22:09:19Z	
 12.0.12	webbundle	2024-07-25T22:09:19Z	
+12.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.13/jetty-ee8-demo-spec-webapp-12.0.13.jar returned status 404
 12.0.13	config	2024-09-03T03:19:03Z	
 12.0.13	webbundle	2024-09-03T03:19:03Z	
+12.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.14/jetty-ee8-demo-spec-webapp-12.0.14.jar returned status 404
 12.0.14	config	2024-09-30T14:37:47Z	
 12.0.14	webbundle	2024-09-30T14:37:47Z	
+12.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.15/jetty-ee8-demo-spec-webapp-12.0.15.jar returned status 404
 12.0.15	config	2024-11-05T19:56:46Z	
 12.0.15	webbundle	2024-11-05T19:56:46Z	
+12.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.16/jetty-ee8-demo-spec-webapp-12.0.16.jar returned status 404
 12.0.16	config	2024-12-09T21:14:10Z	
 12.0.16	webbundle	2024-12-09T21:14:10Z	
+12.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.17/jetty-ee8-demo-spec-webapp-12.0.17.jar returned status 404
 12.0.17	config	2025-03-03T13:25:49Z	
 12.0.17	webbundle	2025-03-03T13:25:49Z	
+12.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.18/jetty-ee8-demo-spec-webapp-12.0.18.jar returned status 404
 12.0.18	config	2025-03-13T00:56:48Z	
 12.0.18	webbundle	2025-03-13T00:56:48Z	
+12.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.19/jetty-ee8-demo-spec-webapp-12.0.19.jar returned status 404
 12.0.19	config	2025-04-01T13:40:09Z	
 12.0.19	webbundle	2025-04-01T13:40:09Z	
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.2/jetty-ee8-demo-spec-webapp-12.0.2.jar returned status 404
 12.0.2	config	2023-10-10T02:11:07Z	
 12.0.2	webbundle	2023-10-10T02:11:07Z	
+12.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.20/jetty-ee8-demo-spec-webapp-12.0.20.jar returned status 404
 12.0.20	config	2025-04-29T18:11:07Z	
 12.0.20	webbundle	2025-04-29T18:11:07Z	
+12.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.21/jetty-ee8-demo-spec-webapp-12.0.21.jar returned status 404
 12.0.21	config	2025-05-09T00:43:20Z	
 12.0.21	webbundle	2025-05-09T00:43:21Z	
 12.0.22		2025-06-02T15:36:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.22/jetty-ee8-demo-spec-webapp-12.0.22.jar returned status 404
@@ -70,6 +94,7 @@
 12.0.29		2025-10-16T15:27:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.29/jetty-ee8-demo-spec-webapp-12.0.29.jar returned status 404
 12.0.29	config	2025-10-16T15:27:17Z	
 12.0.29	webbundle	2025-10-16T15:27:20Z	
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.3/jetty-ee8-demo-spec-webapp-12.0.3.jar returned status 404
 12.0.3	config	2023-10-27T03:35:30Z	
 12.0.3	webbundle	2023-10-27T03:35:30Z	
 12.0.30		2025-11-10T17:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.30/jetty-ee8-demo-spec-webapp-12.0.30.jar returned status 404
@@ -93,15 +118,22 @@
 12.0.36		2026-05-31T22:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.36/jetty-ee8-demo-spec-webapp-12.0.36.jar returned status 404
 12.0.36	config	2026-05-31T22:58:32Z	
 12.0.36	webbundle	2026-05-31T22:58:31Z	
+12.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.37/jetty-ee8-demo-spec-webapp-12.0.37.jar returned status 404
+12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.4/jetty-ee8-demo-spec-webapp-12.0.4.jar returned status 404
 12.0.4	config	2023-11-30T19:24:01Z	
 12.0.4	webbundle	2023-11-30T19:24:01Z	
+12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.5/jetty-ee8-demo-spec-webapp-12.0.5.jar returned status 404
 12.0.5	config	2023-12-18T14:16:12Z	
 12.0.5	webbundle	2023-12-18T14:16:12Z	
+12.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.6/jetty-ee8-demo-spec-webapp-12.0.6.jar returned status 404
 12.0.6	config	2024-01-30T02:52:58Z	
 12.0.6	webbundle	2024-01-30T02:52:58Z	
+12.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.7/jetty-ee8-demo-spec-webapp-12.0.7.jar returned status 404
 12.0.7	config	2024-02-29T21:30:55Z	
 12.0.7	webbundle	2024-02-29T21:30:55Z	
+12.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.8/jetty-ee8-demo-spec-webapp-12.0.8.jar returned status 404
 12.0.8	config	2024-03-29T20:07:50Z	
 12.0.8	webbundle	2024-03-29T20:07:50Z	
+12.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-spec-webapp/12.0.9/jetty-ee8-demo-spec-webapp-12.0.9.jar returned status 404
 12.0.9	config	2024-05-03T13:15:08Z	
 12.0.9	webbundle	2024-05-03T13:15:08Z	
