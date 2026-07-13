@@ -4,10 +4,13 @@
 2.0.0-m3		2018-08-24T12:04:22Z	
 3.0.0-m1		2018-11-07T17:32:07Z	
 4.0.0		2019-02-07T08:36:35Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.1.0/gdpr-qsg-4.1.0.jar returned status 404
 4.2.0		2020-03-12T12:47:01Z	
 4.3.0		2020-04-08T18:11:22Z	
 4.3.1		2020-06-01T12:50:36Z	
 4.3.10		2023-03-20T07:50:15Z	
+4.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.3.11/gdpr-qsg-4.3.11.jar returned status 404
+4.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.3.12/gdpr-qsg-4.3.12.jar returned status 404
 4.3.13		2025-01-08T13:03:31Z	
 4.3.14		2026-01-12T13:51:21Z	
 4.3.2		2020-06-01T13:54:02Z	
@@ -19,8 +22,16 @@
 4.3.8		2022-01-27T07:47:16Z	
 4.3.9		2023-01-26T04:50:45Z	
 4.4.0		2022-01-28T02:44:07Z	
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.4.1/gdpr-qsg-4.4.1.jar returned status 404
 4.5.0		2022-08-10T07:44:25Z	
 4.5.1		2022-09-09T07:28:52Z	
 4.5.2		2022-10-13T06:02:29Z	
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.5.3/gdpr-qsg-4.5.3.jar returned status 404
 4.5.4		2023-02-15T09:41:52Z	
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.5.5/gdpr-qsg-4.5.5.jar returned status 404
+4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.5.6/gdpr-qsg-4.5.6.jar returned status 404
 4.6.0		2024-02-09T05:46:41Z	
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.6.1/gdpr-qsg-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.6.2/gdpr-qsg-4.6.2.jar returned status 404
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.6.3/gdpr-qsg-4.6.3.jar returned status 404
+4.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/gdpr-qsg/4.6.4/gdpr-qsg-4.6.4.jar returned status 404

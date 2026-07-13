@@ -24,7 +24,13 @@
 5.12.0-alpha12		2022-02-17T02:00:33Z	
 5.12.0-alpha13		2022-02-24T02:03:07Z	
 5.12.0-alpha14		2022-03-03T02:06:59Z	
+5.12.0-alpha15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha15/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha15.jar returned status 404
+5.12.0-alpha16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha16/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha16.jar returned status 404
+5.12.0-alpha17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha17/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha17.jar returned status 404
+5.12.0-alpha18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha18/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha18.jar returned status 404
+5.12.0-alpha19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha19/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha19.jar returned status 404
 5.12.0-alpha2		2021-09-09T02:01:33Z	
+5.12.0-alpha20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-alpha20/org.wso2.carbon.identity.test.integration.service-5.12.0-alpha20.jar returned status 404
 5.12.0-alpha3		2021-09-16T02:00:33Z	
 5.12.0-alpha4		2021-09-23T02:03:23Z	
 5.12.0-alpha5		2021-09-30T02:04:53Z	
@@ -32,6 +38,9 @@
 5.12.0-alpha7		2021-10-14T02:00:06Z	
 5.12.0-alpha8		2021-10-21T02:01:46Z	
 5.12.0-alpha9		2021-10-28T02:05:46Z	
+5.12.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-beta/org.wso2.carbon.identity.test.integration.service-5.12.0-beta.jar returned status 404
+5.12.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-beta2/org.wso2.carbon.identity.test.integration.service-5.12.0-beta2.jar returned status 404
+5.12.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/5.12.0-beta3/org.wso2.carbon.identity.test.integration.service-5.12.0-beta3.jar returned status 404
 5.12.0-m1		2020-11-26T06:25:31Z	
 5.12.0-m10		2021-02-19T05:10:12Z	
 5.12.0-m11		2021-02-25T02:59:56Z	
@@ -71,14 +80,63 @@
 5.13.0-m2		2022-02-03T02:04:18Z	
 5.13.0-m3		2022-02-10T02:08:29Z	
 6.0.0		2022-08-10T16:29:02Z	
+6.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-alpha/org.wso2.carbon.identity.test.integration.service-6.0.0-alpha.jar returned status 404
+6.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-alpha2/org.wso2.carbon.identity.test.integration.service-6.0.0-alpha2.jar returned status 404
 6.0.0-alpha3		2022-07-21T15:43:38Z	
+6.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-beta/org.wso2.carbon.identity.test.integration.service-6.0.0-beta.jar returned status 404
+6.0.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-m1/org.wso2.carbon.identity.test.integration.service-6.0.0-m1.jar returned status 404
+6.0.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-m2/org.wso2.carbon.identity.test.integration.service-6.0.0-m2.jar returned status 404
+6.0.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-m3/org.wso2.carbon.identity.test.integration.service-6.0.0-m3.jar returned status 404
+6.0.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-m4/org.wso2.carbon.identity.test.integration.service-6.0.0-m4.jar returned status 404
+6.0.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.0.0-m5/org.wso2.carbon.identity.test.integration.service-6.0.0-m5.jar returned status 404
 6.1.0		2023-01-25T11:35:46Z	
+6.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.1.0-alpha/org.wso2.carbon.identity.test.integration.service-6.1.0-alpha.jar returned status 404
+6.1.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.1.0-alpha2/org.wso2.carbon.identity.test.integration.service-6.1.0-alpha2.jar returned status 404
 6.1.0-beta		2023-01-12T11:07:40Z	
 6.1.0-m1		2022-12-01T10:32:21Z	
+6.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.1.0-m2/org.wso2.carbon.identity.test.integration.service-6.1.0-m2.jar returned status 404
+6.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-alpha/org.wso2.carbon.identity.test.integration.service-6.2.0-alpha.jar returned status 404
+6.2.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-alpha2/org.wso2.carbon.identity.test.integration.service-6.2.0-alpha2.jar returned status 404
+6.2.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-alpha3/org.wso2.carbon.identity.test.integration.service-6.2.0-alpha3.jar returned status 404
+6.2.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-alpha4/org.wso2.carbon.identity.test.integration.service-6.2.0-alpha4.jar returned status 404
+6.2.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-m1/org.wso2.carbon.identity.test.integration.service-6.2.0-m1.jar returned status 404
+6.2.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-m2/org.wso2.carbon.identity.test.integration.service-6.2.0-m2.jar returned status 404
+6.2.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-m3/org.wso2.carbon.identity.test.integration.service-6.2.0-m3.jar returned status 404
+6.2.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-m4/org.wso2.carbon.identity.test.integration.service-6.2.0-m4.jar returned status 404
+6.2.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/6.2.0-m5/org.wso2.carbon.identity.test.integration.service-6.2.0-m5.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0/org.wso2.carbon.identity.test.integration.service-7.0.0.jar returned status 404
+7.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-alpha/org.wso2.carbon.identity.test.integration.service-7.0.0-alpha.jar returned status 404
+7.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-alpha2/org.wso2.carbon.identity.test.integration.service-7.0.0-alpha2.jar returned status 404
+7.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-beta/org.wso2.carbon.identity.test.integration.service-7.0.0-beta.jar returned status 404
+7.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-beta2/org.wso2.carbon.identity.test.integration.service-7.0.0-beta2.jar returned status 404
+7.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-beta3/org.wso2.carbon.identity.test.integration.service-7.0.0-beta3.jar returned status 404
+7.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-beta4/org.wso2.carbon.identity.test.integration.service-7.0.0-beta4.jar returned status 404
 7.0.0-beta5		2024-01-12T19:39:43Z	
 7.0.0-beta6		2024-02-05T07:28:20Z	
+7.0.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-m1/org.wso2.carbon.identity.test.integration.service-7.0.0-m1.jar returned status 404
+7.0.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-m2/org.wso2.carbon.identity.test.integration.service-7.0.0-m2.jar returned status 404
+7.0.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.0.0-m3/org.wso2.carbon.identity.test.integration.service-7.0.0-m3.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0/org.wso2.carbon.identity.test.integration.service-7.1.0.jar returned status 404
+7.1.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-alpha/org.wso2.carbon.identity.test.integration.service-7.1.0-alpha.jar returned status 404
+7.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-beta/org.wso2.carbon.identity.test.integration.service-7.1.0-beta.jar returned status 404
 7.1.0-m1		2024-09-24T12:09:21Z	
+7.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m2/org.wso2.carbon.identity.test.integration.service-7.1.0-m2.jar returned status 404
+7.1.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m3/org.wso2.carbon.identity.test.integration.service-7.1.0-m3.jar returned status 404
+7.1.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m4/org.wso2.carbon.identity.test.integration.service-7.1.0-m4.jar returned status 404
+7.1.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m5/org.wso2.carbon.identity.test.integration.service-7.1.0-m5.jar returned status 404
+7.1.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m6/org.wso2.carbon.identity.test.integration.service-7.1.0-m6.jar returned status 404
 7.1.0-m7		2025-01-10T11:08:23Z	
+7.1.0-m8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.1.0-m8/org.wso2.carbon.identity.test.integration.service-7.1.0-m8.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0/org.wso2.carbon.identity.test.integration.service-7.2.0.jar returned status 404
+7.2.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-alpha/org.wso2.carbon.identity.test.integration.service-7.2.0-alpha.jar returned status 404
+7.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-beta/org.wso2.carbon.identity.test.integration.service-7.2.0-beta.jar returned status 404
+7.2.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m1/org.wso2.carbon.identity.test.integration.service-7.2.0-m1.jar returned status 404
+7.2.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m2/org.wso2.carbon.identity.test.integration.service-7.2.0-m2.jar returned status 404
+7.2.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m3/org.wso2.carbon.identity.test.integration.service-7.2.0-m3.jar returned status 404
+7.2.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m4/org.wso2.carbon.identity.test.integration.service-7.2.0-m4.jar returned status 404
+7.2.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m5/org.wso2.carbon.identity.test.integration.service-7.2.0-m5.jar returned status 404
+7.2.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m6/org.wso2.carbon.identity.test.integration.service-7.2.0-m6.jar returned status 404
+7.2.0-m7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/org.wso2.carbon.identity.test.integration.service/7.2.0-m7/org.wso2.carbon.identity.test.integration.service-7.2.0-m7.jar returned status 404
 7.3.0		2026-04-24T11:23:10Z	
 7.3.0-alpha		2026-03-12T16:55:53Z	
 7.3.0-beta		2026-03-26T14:58:09Z	

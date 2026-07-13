@@ -1,12 +1,23 @@
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.1.0/oauth10a-resource-owner-equivalent-5.1.0.jar returned status 404
+5.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.1.0-beta/oauth10a-resource-owner-equivalent-5.1.0-beta.jar returned status 404
 5.10.0		2020-03-08T14:52:19Z	
+5.10.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-alpha/oauth10a-resource-owner-equivalent-5.10.0-alpha.jar returned status 404
+5.10.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-alpha2/oauth10a-resource-owner-equivalent-5.10.0-alpha2.jar returned status 404
+5.10.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-alpha3/oauth10a-resource-owner-equivalent-5.10.0-alpha3.jar returned status 404
 5.10.0-beta		2020-02-07T22:32:43Z	
 5.10.0-beta2		2020-02-15T15:27:48Z	
 5.10.0-beta3		2020-02-20T02:37:06Z	
 5.10.0-m1		2019-10-10T19:03:40Z	
 5.10.0-m2		2019-10-17T12:40:33Z	
 5.10.0-m3		2019-10-25T07:37:51Z	
+5.10.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-m4/oauth10a-resource-owner-equivalent-5.10.0-m4.jar returned status 404
+5.10.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-m5/oauth10a-resource-owner-equivalent-5.10.0-m5.jar returned status 404
+5.10.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-m6/oauth10a-resource-owner-equivalent-5.10.0-m6.jar returned status 404
+5.10.0-m7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-m7/oauth10a-resource-owner-equivalent-5.10.0-m7.jar returned status 404
+5.10.0-m8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.10.0-m8/oauth10a-resource-owner-equivalent-5.10.0-m8.jar returned status 404
 5.10.0-m9		2019-12-13T06:36:38Z	
 5.10.1-m1		2020-03-12T02:51:47Z	
+5.11.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.11.0-m1/oauth10a-resource-owner-equivalent-5.11.0-m1.jar returned status 404
 5.11.0-m10		2020-03-20T09:16:54Z	
 5.11.0-m11		2020-03-28T18:46:31Z	
 5.11.0-m12		2020-04-04T05:23:24Z	
@@ -39,8 +50,21 @@
 5.11.0-m7		2020-03-12T06:51:22Z	
 5.11.0-m8		2020-03-12T22:42:37Z	
 5.11.0-m9		2020-03-19T02:49:18Z	
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.2.0/oauth10a-resource-owner-equivalent-5.2.0.jar returned status 404
+5.2.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.2.0-beta2/oauth10a-resource-owner-equivalent-5.2.0-beta2.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0/oauth10a-resource-owner-equivalent-5.3.0.jar returned status 404
+5.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-alpha/oauth10a-resource-owner-equivalent-5.3.0-alpha.jar returned status 404
+5.3.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-alpha2/oauth10a-resource-owner-equivalent-5.3.0-alpha2.jar returned status 404
+5.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-beta/oauth10a-resource-owner-equivalent-5.3.0-beta.jar returned status 404
+5.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-m2/oauth10a-resource-owner-equivalent-5.3.0-m2.jar returned status 404
+5.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-m3/oauth10a-resource-owner-equivalent-5.3.0-m3.jar returned status 404
+5.3.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-m4/oauth10a-resource-owner-equivalent-5.3.0-m4.jar returned status 404
+5.3.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.3.0-m5/oauth10a-resource-owner-equivalent-5.3.0-m5.jar returned status 404
 5.4.0		2017-12-08T00:37:01Z	
+5.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-alpha/oauth10a-resource-owner-equivalent-5.4.0-alpha.jar returned status 404
 5.4.0-alpha10		2017-11-23T22:38:20Z	
+5.4.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-alpha2/oauth10a-resource-owner-equivalent-5.4.0-alpha2.jar returned status 404
+5.4.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-alpha3/oauth10a-resource-owner-equivalent-5.4.0-alpha3.jar returned status 404
 5.4.0-alpha4		2017-10-04T18:42:40Z	
 5.4.0-alpha5		2017-10-05T12:35:52Z	
 5.4.0-alpha6		2017-10-26T13:53:45Z	
@@ -48,6 +72,9 @@
 5.4.0-alpha8		2017-11-09T17:52:21Z	
 5.4.0-alpha9		2017-11-16T15:46:08Z	
 5.4.0-beta		2017-12-01T08:05:13Z	
+5.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-m1/oauth10a-resource-owner-equivalent-5.4.0-m1.jar returned status 404
+5.4.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-m2/oauth10a-resource-owner-equivalent-5.4.0-m2.jar returned status 404
+5.4.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.4.0-m3/oauth10a-resource-owner-equivalent-5.4.0-m3.jar returned status 404
 5.4.0-update1		2017-12-14T14:19:50Z	
 5.4.0-update2		2017-12-22T05:43:51Z	
 5.4.0-update3		2018-01-04T22:47:12Z	
@@ -93,6 +120,15 @@
 5.7.0-m4		2018-07-17T11:37:26Z	
 5.7.0-m5		2018-07-27T15:52:46Z	
 5.8.0		2019-05-15T13:17:39Z	
+5.8.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha/oauth10a-resource-owner-equivalent-5.8.0-alpha.jar returned status 404
+5.8.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha2/oauth10a-resource-owner-equivalent-5.8.0-alpha2.jar returned status 404
+5.8.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha3/oauth10a-resource-owner-equivalent-5.8.0-alpha3.jar returned status 404
+5.8.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha4/oauth10a-resource-owner-equivalent-5.8.0-alpha4.jar returned status 404
+5.8.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha5/oauth10a-resource-owner-equivalent-5.8.0-alpha5.jar returned status 404
+5.8.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-alpha6/oauth10a-resource-owner-equivalent-5.8.0-alpha6.jar returned status 404
+5.8.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-beta/oauth10a-resource-owner-equivalent-5.8.0-beta.jar returned status 404
+5.8.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-beta2/oauth10a-resource-owner-equivalent-5.8.0-beta2.jar returned status 404
+5.8.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.0-beta3/oauth10a-resource-owner-equivalent-5.8.0-beta3.jar returned status 404
 5.8.0-beta4		2019-04-25T02:02:44Z	
 5.8.0-beta5		2019-05-02T01:59:40Z	
 5.8.0-m1		2018-09-20T02:47:08Z	
@@ -123,5 +159,17 @@
 5.8.0-m9		2018-11-15T02:52:06Z	
 5.8.1-m1		2019-05-23T02:01:43Z	
 5.8.1-m2		2019-05-30T02:07:11Z	
+5.8.1-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.1-m3/oauth10a-resource-owner-equivalent-5.8.1-m3.jar returned status 404
+5.8.1-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.8.1-m4/oauth10a-resource-owner-equivalent-5.8.1-m4.jar returned status 404
 5.9.0		2019-05-16T01:57:08Z	
+5.9.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-alpha/oauth10a-resource-owner-equivalent-5.9.0-alpha.jar returned status 404
+5.9.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-alpha2/oauth10a-resource-owner-equivalent-5.9.0-alpha2.jar returned status 404
+5.9.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-alpha3/oauth10a-resource-owner-equivalent-5.9.0-alpha3.jar returned status 404
 5.9.0-beta		2019-09-21T09:47:42Z	
+5.9.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m1/oauth10a-resource-owner-equivalent-5.9.0-m1.jar returned status 404
+5.9.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m2/oauth10a-resource-owner-equivalent-5.9.0-m2.jar returned status 404
+5.9.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m3/oauth10a-resource-owner-equivalent-5.9.0-m3.jar returned status 404
+5.9.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m4/oauth10a-resource-owner-equivalent-5.9.0-m4.jar returned status 404
+5.9.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m5/oauth10a-resource-owner-equivalent-5.9.0-m5.jar returned status 404
+5.9.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m6/oauth10a-resource-owner-equivalent-5.9.0-m6.jar returned status 404
+5.9.0-m7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/oauth10a-resource-owner-equivalent/5.9.0-m7/oauth10a-resource-owner-equivalent-5.9.0-m7.jar returned status 404

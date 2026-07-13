@@ -1,8 +1,11 @@
 4.0.0		2019-02-07T08:36:31Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.1.0/quick-start-guide-4.1.0.jar returned status 404
 4.2.0		2020-03-12T12:46:58Z	
 4.3.0		2020-04-08T18:11:19Z	
 4.3.1		2020-06-01T12:50:33Z	
 4.3.10		2023-03-20T07:50:13Z	
+4.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.3.11/quick-start-guide-4.3.11.jar returned status 404
+4.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.3.12/quick-start-guide-4.3.12.jar returned status 404
 4.3.13		2025-01-08T13:03:28Z	
 4.3.14		2026-01-12T13:51:18Z	
 4.3.2		2020-06-01T13:53:59Z	
@@ -14,8 +17,16 @@
 4.3.8		2022-01-27T07:47:14Z	
 4.3.9		2023-01-26T04:50:39Z	
 4.4.0		2022-01-28T02:44:04Z	
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.4.1/quick-start-guide-4.4.1.jar returned status 404
 4.5.0		2022-08-10T07:44:23Z	
 4.5.1		2022-09-09T07:28:49Z	
 4.5.2		2022-10-13T06:02:26Z	
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.5.3/quick-start-guide-4.5.3.jar returned status 404
 4.5.4		2023-02-15T09:41:49Z	
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.5.5/quick-start-guide-4.5.5.jar returned status 404
+4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.5.6/quick-start-guide-4.5.6.jar returned status 404
 4.6.0		2024-02-09T05:46:37Z	
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.6.1/quick-start-guide-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.6.2/quick-start-guide-4.6.2.jar returned status 404
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.6.3/quick-start-guide-4.6.3.jar returned status 404
+4.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/quick-start-guide/4.6.4/quick-start-guide-4.6.4.jar returned status 404

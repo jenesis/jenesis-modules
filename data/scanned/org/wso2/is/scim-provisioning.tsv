@@ -1,12 +1,24 @@
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.1.0/scim-provisioning-5.1.0.jar returned status 404
+5.1.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.1.0-alpha2/scim-provisioning-5.1.0-alpha2.jar returned status 404
+5.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.1.0-beta/scim-provisioning-5.1.0-beta.jar returned status 404
 5.10.0		2020-03-08T14:52:16Z	
+5.10.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-alpha/scim-provisioning-5.10.0-alpha.jar returned status 404
+5.10.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-alpha2/scim-provisioning-5.10.0-alpha2.jar returned status 404
+5.10.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-alpha3/scim-provisioning-5.10.0-alpha3.jar returned status 404
 5.10.0-beta		2020-02-07T22:16:40Z	
 5.10.0-beta2		2020-02-15T15:27:45Z	
 5.10.0-beta3		2020-02-20T02:37:03Z	
 5.10.0-m1		2019-10-10T19:03:35Z	
 5.10.0-m2		2019-10-17T12:40:28Z	
 5.10.0-m3		2019-10-25T07:37:46Z	
+5.10.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-m4/scim-provisioning-5.10.0-m4.jar returned status 404
+5.10.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-m5/scim-provisioning-5.10.0-m5.jar returned status 404
+5.10.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-m6/scim-provisioning-5.10.0-m6.jar returned status 404
+5.10.0-m7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-m7/scim-provisioning-5.10.0-m7.jar returned status 404
+5.10.0-m8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.10.0-m8/scim-provisioning-5.10.0-m8.jar returned status 404
 5.10.0-m9		2019-12-13T06:36:33Z	
 5.10.1-m1		2020-03-12T02:51:44Z	
+5.11.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.11.0-m1/scim-provisioning-5.11.0-m1.jar returned status 404
 5.11.0-m10		2020-03-20T09:16:50Z	
 5.11.0-m11		2020-03-28T18:46:28Z	
 5.11.0-m12		2020-04-04T05:23:21Z	
@@ -39,8 +51,21 @@
 5.11.0-m7		2020-03-12T06:51:17Z	
 5.11.0-m8		2020-03-12T22:42:33Z	
 5.11.0-m9		2020-03-19T02:49:14Z	
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.2.0/scim-provisioning-5.2.0.jar returned status 404
+5.2.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.2.0-beta2/scim-provisioning-5.2.0-beta2.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0/scim-provisioning-5.3.0.jar returned status 404
+5.3.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-alpha/scim-provisioning-5.3.0-alpha.jar returned status 404
+5.3.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-alpha2/scim-provisioning-5.3.0-alpha2.jar returned status 404
+5.3.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-beta/scim-provisioning-5.3.0-beta.jar returned status 404
+5.3.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-m2/scim-provisioning-5.3.0-m2.jar returned status 404
+5.3.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-m3/scim-provisioning-5.3.0-m3.jar returned status 404
+5.3.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-m4/scim-provisioning-5.3.0-m4.jar returned status 404
+5.3.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.3.0-m5/scim-provisioning-5.3.0-m5.jar returned status 404
 5.4.0		2017-12-08T00:36:58Z	
+5.4.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-alpha/scim-provisioning-5.4.0-alpha.jar returned status 404
 5.4.0-alpha10		2017-11-23T22:38:18Z	
+5.4.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-alpha2/scim-provisioning-5.4.0-alpha2.jar returned status 404
+5.4.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-alpha3/scim-provisioning-5.4.0-alpha3.jar returned status 404
 5.4.0-alpha4		2017-10-04T18:42:37Z	
 5.4.0-alpha5		2017-10-05T12:35:48Z	
 5.4.0-alpha6		2017-10-26T13:53:42Z	
@@ -48,6 +73,9 @@
 5.4.0-alpha8		2017-11-09T17:52:18Z	
 5.4.0-alpha9		2017-11-16T15:46:05Z	
 5.4.0-beta		2017-12-01T08:05:09Z	
+5.4.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-m1/scim-provisioning-5.4.0-m1.jar returned status 404
+5.4.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-m2/scim-provisioning-5.4.0-m2.jar returned status 404
+5.4.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.4.0-m3/scim-provisioning-5.4.0-m3.jar returned status 404
 5.4.0-update1		2017-12-14T14:19:47Z	
 5.4.0-update2		2017-12-22T05:43:48Z	
 5.4.0-update3		2018-01-04T22:47:10Z	
@@ -93,6 +121,15 @@
 5.7.0-m4		2018-07-17T11:37:22Z	
 5.7.0-m5		2018-07-27T15:52:42Z	
 5.8.0		2019-05-15T13:17:34Z	
+5.8.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha/scim-provisioning-5.8.0-alpha.jar returned status 404
+5.8.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha2/scim-provisioning-5.8.0-alpha2.jar returned status 404
+5.8.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha3/scim-provisioning-5.8.0-alpha3.jar returned status 404
+5.8.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha4/scim-provisioning-5.8.0-alpha4.jar returned status 404
+5.8.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha5/scim-provisioning-5.8.0-alpha5.jar returned status 404
+5.8.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-alpha6/scim-provisioning-5.8.0-alpha6.jar returned status 404
+5.8.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-beta/scim-provisioning-5.8.0-beta.jar returned status 404
+5.8.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-beta2/scim-provisioning-5.8.0-beta2.jar returned status 404
+5.8.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.0-beta3/scim-provisioning-5.8.0-beta3.jar returned status 404
 5.8.0-beta4		2019-04-25T02:02:39Z	
 5.8.0-beta5		2019-05-02T01:59:36Z	
 5.8.0-m1		2018-09-20T02:47:04Z	
@@ -123,5 +160,17 @@
 5.8.0-m9		2018-11-15T02:52:01Z	
 5.8.1-m1		2019-05-23T02:01:39Z	
 5.8.1-m2		2019-05-30T02:07:07Z	
+5.8.1-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.1-m3/scim-provisioning-5.8.1-m3.jar returned status 404
+5.8.1-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.8.1-m4/scim-provisioning-5.8.1-m4.jar returned status 404
 5.9.0		2019-05-16T01:57:04Z	
+5.9.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-alpha/scim-provisioning-5.9.0-alpha.jar returned status 404
+5.9.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-alpha2/scim-provisioning-5.9.0-alpha2.jar returned status 404
+5.9.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-alpha3/scim-provisioning-5.9.0-alpha3.jar returned status 404
 5.9.0-beta		2019-09-21T09:47:38Z	
+5.9.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m1/scim-provisioning-5.9.0-m1.jar returned status 404
+5.9.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m2/scim-provisioning-5.9.0-m2.jar returned status 404
+5.9.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m3/scim-provisioning-5.9.0-m3.jar returned status 404
+5.9.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m4/scim-provisioning-5.9.0-m4.jar returned status 404
+5.9.0-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m5/scim-provisioning-5.9.0-m5.jar returned status 404
+5.9.0-m6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m6/scim-provisioning-5.9.0-m6.jar returned status 404
+5.9.0-m7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/is/scim-provisioning/5.9.0-m7/scim-provisioning-5.9.0-m7.jar returned status 404

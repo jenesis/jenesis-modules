@@ -1,4 +1,6 @@
 4.3.10		2023-03-20T07:50:57Z	
+4.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.3.11/sample-template-4.3.11.jar returned status 404
+4.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.3.12/sample-template-4.3.12.jar returned status 404
 4.3.13		2025-01-08T13:04:11Z	
 4.3.14		2026-01-12T13:52:02Z	
 4.3.4		2020-08-18T12:29:36Z	
@@ -8,8 +10,16 @@
 4.3.8		2022-01-27T07:47:59Z	
 4.3.9		2023-01-26T04:53:21Z	
 4.4.0		2022-01-28T02:44:51Z	
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.4.1/sample-template-4.4.1.jar returned status 404
 4.5.0		2022-08-10T07:45:10Z	
 4.5.1		2022-09-09T07:29:47Z	
 4.5.2		2022-10-13T06:03:58Z	
+4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.5.3/sample-template-4.5.3.jar returned status 404
 4.5.4		2023-02-15T09:42:35Z	
+4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.5.5/sample-template-4.5.5.jar returned status 404
+4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.5.6/sample-template-4.5.6.jar returned status 404
 4.6.0		2024-02-09T05:47:32Z	
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.6.1/sample-template-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.6.2/sample-template-4.6.2.jar returned status 404
+4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.6.3/sample-template-4.6.3.jar returned status 404
+4.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/samples/is/sample-template/4.6.4/sample-template-4.6.4.jar returned status 404

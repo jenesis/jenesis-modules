@@ -1,4 +1,19 @@
 5.2.10		2019-10-02T10:15:43Z	
+5.2.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.100/vscode-car-plugin-5.2.100.jar returned status 404
+5.2.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.101/vscode-car-plugin-5.2.101.jar returned status 404
+5.2.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.102/vscode-car-plugin-5.2.102.jar returned status 404
+5.2.103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.103/vscode-car-plugin-5.2.103.jar returned status 404
+5.2.104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.104/vscode-car-plugin-5.2.104.jar returned status 404
+5.2.105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.105/vscode-car-plugin-5.2.105.jar returned status 404
+5.2.106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.106/vscode-car-plugin-5.2.106.jar returned status 404
+5.2.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.107/vscode-car-plugin-5.2.107.jar returned status 404
+5.2.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.108/vscode-car-plugin-5.2.108.jar returned status 404
+5.2.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.109/vscode-car-plugin-5.2.109.jar returned status 404
+5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.11/vscode-car-plugin-5.2.11.jar returned status 404
+5.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.12/vscode-car-plugin-5.2.12.jar returned status 404
+5.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.13/vscode-car-plugin-5.2.13.jar returned status 404
+5.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.14/vscode-car-plugin-5.2.14.jar returned status 404
+5.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.15/vscode-car-plugin-5.2.15.jar returned status 404
 5.2.16		2020-02-12T08:35:06Z	
 5.2.17		2020-02-25T05:18:05Z	
 5.2.18		2020-02-26T11:09:07Z	
@@ -24,14 +39,35 @@
 5.2.37		2021-08-20T10:35:45Z	
 5.2.38		2021-09-07T08:25:00Z	
 5.2.39		2022-11-29T07:46:32Z	
+5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.4/vscode-car-plugin-5.2.4.jar returned status 404
+5.2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.40/vscode-car-plugin-5.2.40.jar returned status 404
 5.2.41		2023-01-18T07:47:32Z	
 5.2.42		2023-01-26T04:14:52Z	
+5.2.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.43/vscode-car-plugin-5.2.43.jar returned status 404
+5.2.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.44/vscode-car-plugin-5.2.44.jar returned status 404
+5.2.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.45/vscode-car-plugin-5.2.45.jar returned status 404
+5.2.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.46/vscode-car-plugin-5.2.46.jar returned status 404
+5.2.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.47/vscode-car-plugin-5.2.47.jar returned status 404
+5.2.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.48/vscode-car-plugin-5.2.48.jar returned status 404
+5.2.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.49/vscode-car-plugin-5.2.49.jar returned status 404
+5.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.5/vscode-car-plugin-5.2.5.jar returned status 404
 5.2.50		2024-04-22T06:52:15Z	
 5.2.51		2024-04-22T07:20:02Z	
 5.2.52		2024-06-06T03:03:56Z	
 5.2.53		2024-06-11T10:24:22Z	
 5.2.54		2024-06-12T10:22:40Z	
 5.2.55		2024-06-17T03:29:43Z	
+5.2.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.56/vscode-car-plugin-5.2.56.jar returned status 404
+5.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.57/vscode-car-plugin-5.2.57.jar returned status 404
+5.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.58/vscode-car-plugin-5.2.58.jar returned status 404
+5.2.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.59/vscode-car-plugin-5.2.59.jar returned status 404
+5.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.6/vscode-car-plugin-5.2.6.jar returned status 404
+5.2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.60/vscode-car-plugin-5.2.60.jar returned status 404
+5.2.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.61/vscode-car-plugin-5.2.61.jar returned status 404
+5.2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.62/vscode-car-plugin-5.2.62.jar returned status 404
+5.2.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.63/vscode-car-plugin-5.2.63.jar returned status 404
+5.2.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.64/vscode-car-plugin-5.2.64.jar returned status 404
+5.2.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.65/vscode-car-plugin-5.2.65.jar returned status 404
 5.2.66		2024-09-05T11:21:58Z	
 5.2.67		2024-09-06T06:06:16Z	
 5.2.68		2024-09-10T06:23:13Z	
@@ -42,15 +78,56 @@
 5.2.72		2024-09-23T17:34:38Z	
 5.2.73		2024-09-30T10:27:51Z	
 5.2.74		2024-10-02T03:37:18Z	
+5.2.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.75/vscode-car-plugin-5.2.75.jar returned status 404
+5.2.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.76/vscode-car-plugin-5.2.76.jar returned status 404
+5.2.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.77/vscode-car-plugin-5.2.77.jar returned status 404
+5.2.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.78/vscode-car-plugin-5.2.78.jar returned status 404
+5.2.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.79/vscode-car-plugin-5.2.79.jar returned status 404
 5.2.8		2019-09-25T13:21:45Z	
+5.2.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.80/vscode-car-plugin-5.2.80.jar returned status 404
+5.2.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.81/vscode-car-plugin-5.2.81.jar returned status 404
+5.2.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.82/vscode-car-plugin-5.2.82.jar returned status 404
 5.2.83		2025-01-20T06:31:15Z	
 5.2.84		2025-01-20T06:46:43Z	
+5.2.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.85/vscode-car-plugin-5.2.85.jar returned status 404
+5.2.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.86/vscode-car-plugin-5.2.86.jar returned status 404
+5.2.87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.87/vscode-car-plugin-5.2.87.jar returned status 404
+5.2.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.88/vscode-car-plugin-5.2.88.jar returned status 404
+5.2.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.89/vscode-car-plugin-5.2.89.jar returned status 404
 5.2.9		2019-09-27T14:36:07Z	
+5.2.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.90/vscode-car-plugin-5.2.90.jar returned status 404
+5.2.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.91/vscode-car-plugin-5.2.91.jar returned status 404
+5.2.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.92/vscode-car-plugin-5.2.92.jar returned status 404
+5.2.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.93/vscode-car-plugin-5.2.93.jar returned status 404
+5.2.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.94/vscode-car-plugin-5.2.94.jar returned status 404
+5.2.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.95/vscode-car-plugin-5.2.95.jar returned status 404
+5.2.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.96/vscode-car-plugin-5.2.96.jar returned status 404
+5.2.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.2.97/vscode-car-plugin-5.2.97.jar returned status 404
 5.2.98		2025-02-18T04:26:34Z	
 5.2.99		2025-02-18T12:55:01Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.0/vscode-car-plugin-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.1/vscode-car-plugin-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.2/vscode-car-plugin-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.3/vscode-car-plugin-5.3.3.jar returned status 404
+5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.4/vscode-car-plugin-5.3.4.jar returned status 404
+5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.5/vscode-car-plugin-5.3.5.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.6/vscode-car-plugin-5.3.6.jar returned status 404
+5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.3.7/vscode-car-plugin-5.3.7.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.0/vscode-car-plugin-5.4.0.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.1/vscode-car-plugin-5.4.1.jar returned status 404
+5.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.10/vscode-car-plugin-5.4.10.jar returned status 404
+5.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.11/vscode-car-plugin-5.4.11.jar returned status 404
 5.4.12		2025-11-17T08:44:48Z	
 5.4.13		2025-12-03T10:14:04Z	
 5.4.14		2025-12-05T06:00:06Z	
 5.4.15		2026-02-05T07:18:34Z	
 5.4.16		2026-04-22T17:36:46Z	
 5.4.17		2026-07-03T10:27:13Z	
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.2/vscode-car-plugin-5.4.2.jar returned status 404
+5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.3/vscode-car-plugin-5.4.3.jar returned status 404
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.4/vscode-car-plugin-5.4.4.jar returned status 404
+5.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.5/vscode-car-plugin-5.4.5.jar returned status 404
+5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.6/vscode-car-plugin-5.4.6.jar returned status 404
+5.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.7/vscode-car-plugin-5.4.7.jar returned status 404
+5.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.8/vscode-car-plugin-5.4.8.jar returned status 404
+5.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/vscode-car-plugin/5.4.9/vscode-car-plugin-5.4.9.jar returned status 404
