@@ -8,3 +8,4 @@
 0.9.6		2009-09-09T01:53:00Z	
 0.9.7		2010-04-12T01:52:48Z	
 0.9.8		2010-10-19T00:05:18Z	
+0.99			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/easyb/easyb/0.99/easyb-0.99.jar returned status 404

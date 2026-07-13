@@ -1,3 +1,5 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/switchyard-deploy-jboss-as7/0.1.0/switchyard-deploy-jboss-as7-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/switchyard-deploy-jboss-as7/0.2.0/switchyard-deploy-jboss-as7-0.2.0.jar returned status 404
 2.0.1.redhat-620133		2015-06-20T00:16:53Z	
 2.0.1.redhat-621084		2015-11-30T19:06:49Z	
 2.0.1.redhat-621090		2016-01-19T23:06:20Z	

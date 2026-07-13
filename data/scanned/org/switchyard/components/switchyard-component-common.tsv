@@ -1,7 +1,17 @@
+0.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.3.0.CR1/switchyard-component-common-0.3.0.CR1.jar returned status 404
+0.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.3.0.Final/switchyard-component-common-0.3.0.Final.jar returned status 404
+0.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.4.0.CR1/switchyard-component-common-0.4.0.CR1.jar returned status 404
+0.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.4.0.Final/switchyard-component-common-0.4.0.Final.jar returned status 404
+0.4.0.OS1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.4.0.OS1/switchyard-component-common-0.4.0.OS1.jar returned status 404
+0.5.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.5.0.Beta1/switchyard-component-common-0.5.0.Beta1.jar returned status 404
+0.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.5.0.Final/switchyard-component-common-0.5.0.Final.jar returned status 404
+0.6.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/0.6.0.Beta1/switchyard-component-common-0.6.0.Beta1.jar returned status 404
 0.6.0.Beta2		2012-10-30T20:56:58Z	
 0.6.0.Final		2012-11-07T21:14:33Z	
 0.7.0.Final		2013-01-02T16:03:30Z	
 0.8.0.Final		2013-03-21T20:13:49Z	
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/1.0.0.Alpha1/switchyard-component-common-1.0.0.Alpha1.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-common/1.0.0.Final/switchyard-component-common-1.0.0.Final.jar returned status 404
 1.1.0.CR1		2013-11-05T01:46:29Z	
 1.1.0.Final		2013-11-19T15:05:21Z	
 1.1.0.M4		2013-10-07T16:03:35Z	

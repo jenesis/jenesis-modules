@@ -1,27 +1,50 @@
+0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/0.11/hspc-reference-auth-server-webapp-0.11.jar returned status 404
+0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/0.12/hspc-reference-auth-server-webapp-0.12.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.1/hspc-reference-auth-server-webapp-1.1.jar returned status 404
 1.1	classes	2017-04-20T07:46:04Z	
 1.1	compile	2017-04-20T07:46:04Z	
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.12.0/hspc-reference-auth-server-webapp-1.12.0.jar returned status 404
 1.12.0	classes	2018-02-14T23:23:57Z	
+1.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.15.2/hspc-reference-auth-server-webapp-1.15.2.jar returned status 404
 1.15.2	classes	2018-02-24T04:21:43Z	
+1.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.15.3/hspc-reference-auth-server-webapp-1.15.3.jar returned status 404
 1.15.3	classes	2018-02-24T22:27:14Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.2/hspc-reference-auth-server-webapp-1.2.jar returned status 404
 1.2	classes	2017-04-23T16:25:04Z	
 1.2	compile	2017-04-23T16:25:04Z	
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.3/hspc-reference-auth-server-webapp-1.3.jar returned status 404
 1.3	classes	2017-04-27T19:15:09Z	
 1.3	compile	2017-04-27T19:15:08Z	
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.4/hspc-reference-auth-server-webapp-1.4.jar returned status 404
 1.4	classes	2017-05-03T18:05:33Z	
 1.4	compile	2017-05-03T18:05:32Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.5/hspc-reference-auth-server-webapp-1.5.jar returned status 404
 1.5	classes	2017-05-09T17:15:26Z	
 1.5	compile	2017-05-09T17:15:26Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.6.0/hspc-reference-auth-server-webapp-1.6.0.jar returned status 404
 1.6.0	classes	2017-05-22T17:18:32Z	
 1.6.0	compile	2017-05-22T17:18:31Z	
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.6.1/hspc-reference-auth-server-webapp-1.6.1.jar returned status 404
 1.6.1	classes	2017-05-31T14:33:16Z	
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.6.2/hspc-reference-auth-server-webapp-1.6.2.jar returned status 404
 1.6.2	classes	2017-06-01T04:28:10Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.7.0/hspc-reference-auth-server-webapp-1.7.0.jar returned status 404
 1.7.0	classes	2017-07-11T23:20:54Z	
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.0/hspc-reference-auth-server-webapp-1.9.0.jar returned status 404
 1.9.0	classes	2017-08-20T03:22:35Z	
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.1/hspc-reference-auth-server-webapp-1.9.1.jar returned status 404
 1.9.1	classes	2017-09-03T22:04:23Z	
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.2/hspc-reference-auth-server-webapp-1.9.2.jar returned status 404
 1.9.2	classes	2017-09-07T21:33:43Z	
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.3/hspc-reference-auth-server-webapp-1.9.3.jar returned status 404
 1.9.3	classes	2017-09-09T22:50:11Z	
+1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.4/hspc-reference-auth-server-webapp-1.9.4.jar returned status 404
 1.9.4	classes	2017-09-10T05:27:42Z	
+1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.6/hspc-reference-auth-server-webapp-1.9.6.jar returned status 404
 1.9.6	classes	2017-09-10T05:52:44Z	
+1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.7/hspc-reference-auth-server-webapp-1.9.7.jar returned status 404
 1.9.7	classes	2017-09-19T18:30:21Z	
+1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.8/hspc-reference-auth-server-webapp-1.9.8.jar returned status 404
 1.9.8	classes	2017-09-25T22:45:39Z	
+1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/reference/hspc-reference-auth-server-webapp/1.9.9/hspc-reference-auth-server-webapp-1.9.9.jar returned status 404
 1.9.9	classes	2017-09-28T18:27:24Z	

@@ -3,3 +3,4 @@
 1.0-beta-2		2007-04-22T23:34:13Z	
 1.0-beta-3		2007-04-30T01:43:20Z	
 1.0-beta-4		2007-05-16T00:40:23Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/core/monitor/jdtaus-core-client-monitoring/1.0.1/jdtaus-core-client-monitoring-1.0.1.jar returned status 404

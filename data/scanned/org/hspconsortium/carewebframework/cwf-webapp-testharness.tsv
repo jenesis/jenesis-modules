@@ -1,3 +1,9 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/1.0.0/cwf-webapp-testharness-1.0.0.jar returned status 404
 1.0.0	exec-war	2017-06-14T01:53:30Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/2.0.0/cwf-webapp-testharness-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/2.0.0-RC1/cwf-webapp-testharness-2.0.0-RC1.jar returned status 404
 2.0.0-RC1	exec-war	2017-10-18T23:16:17Z	
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/2.0.0-RC2/cwf-webapp-testharness-2.0.0-RC2.jar returned status 404
 2.0.0-RC2	exec-war	2017-10-20T13:36:42Z	
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/3.0.0-RC1/cwf-webapp-testharness-3.0.0-RC1.jar returned status 404
+3.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hspconsortium/carewebframework/cwf-webapp-testharness/3.0.0-RC4/cwf-webapp-testharness-3.0.0-RC4.jar returned status 404

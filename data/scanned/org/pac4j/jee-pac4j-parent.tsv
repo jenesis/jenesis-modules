@@ -1,4 +1,6 @@
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/7.0.0/jee-pac4j-parent-7.0.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/7.1.0/jee-pac4j-parent-7.1.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/8.0.0/jee-pac4j-parent-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/8.0.1/jee-pac4j-parent-8.0.1.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/8.0.2/jee-pac4j-parent-8.0.2.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/jee-pac4j-parent/8.0.3/jee-pac4j-parent-8.0.3.jar returned status 404

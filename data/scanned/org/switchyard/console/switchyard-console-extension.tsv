@@ -3,10 +3,13 @@
 0.4.0.OS1		2012-02-27T19:58:19Z	
 0.5.0.Beta1		2012-06-24T22:45:47Z	
 0.5.0.Final		2012-07-11T01:03:39Z	
+0.6.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/console/switchyard-console-extension/0.6.0.Beta1/switchyard-console-extension-0.6.0.Beta1.jar returned status 404
 0.6.0.Beta2		2012-10-30T21:08:50Z	
 0.6.0.Final		2012-11-07T21:40:49Z	
 0.7.0.Final		2013-01-02T16:17:49Z	
 0.8.0.Final		2013-03-21T20:33:50Z	
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/console/switchyard-console-extension/1.0.0.Alpha1/switchyard-console-extension-1.0.0.Alpha1.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/console/switchyard-console-extension/1.0.0.Final/switchyard-console-extension-1.0.0.Final.jar returned status 404
 1.0.1.Final		2013-08-05T20:35:45Z	
 1.1.0.CR1		2013-11-05T02:01:56Z	
 1.1.0.Final		2013-11-19T15:23:27Z	

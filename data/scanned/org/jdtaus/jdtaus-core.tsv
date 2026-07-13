@@ -1,6 +1,15 @@
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.10/jdtaus-core-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.11/jdtaus-core-1.11.jar returned status 404
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.12/jdtaus-core-1.12.jar returned status 404
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.13/jdtaus-core-1.13.jar returned status 404
 1.13	project	2012-10-03T02:26:55Z	
 1.13	site	2012-10-03T02:26:54Z	
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.14/jdtaus-core-1.14.jar returned status 404
 1.14	project	2012-12-03T19:34:54Z	
 1.14	site	2012-12-03T19:34:53Z	
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.15/jdtaus-core-1.15.jar returned status 404
 1.15	project	2014-01-10T15:48:33Z	
 1.15	site	2014-01-10T15:48:32Z	
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.9.3/jdtaus-core-1.9.3.jar returned status 404
+1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.9.4/jdtaus-core-1.9.4.jar returned status 404
+1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jdtaus/jdtaus-core/1.9.5/jdtaus-core-1.9.5.jar returned status 404

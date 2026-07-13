@@ -1,5 +1,7 @@
 0.7.0.Final		2013-01-02T16:04:48Z	
 0.8.0.Final		2013-03-21T20:15:06Z	
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-test-mixin-smooks/1.0.0.Alpha1/switchyard-component-test-mixin-smooks-1.0.0.Alpha1.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-test-mixin-smooks/1.0.0.Final/switchyard-component-test-mixin-smooks-1.0.0.Final.jar returned status 404
 1.1.0.CR1		2013-11-05T01:47:11Z	
 1.1.0.Final		2013-11-19T15:06:24Z	
 1.1.0.M4		2013-10-07T16:05:16Z	

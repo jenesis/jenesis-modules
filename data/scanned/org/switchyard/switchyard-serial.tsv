@@ -2,6 +2,8 @@
 0.6.0.Final		2012-11-07T21:11:20Z	
 0.7.0.Final		2013-01-02T16:00:46Z	
 0.8.0.Final		2013-03-21T20:07:40Z	
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/switchyard-serial/1.0.0.Alpha1/switchyard-serial-1.0.0.Alpha1.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/switchyard-serial/1.0.0.Final/switchyard-serial-1.0.0.Final.jar returned status 404
 1.1.0.CR1		2013-11-05T01:42:29Z	
 1.1.0.Final		2013-11-19T15:01:22Z	
 1.1.0.M4		2013-10-07T14:45:38Z	

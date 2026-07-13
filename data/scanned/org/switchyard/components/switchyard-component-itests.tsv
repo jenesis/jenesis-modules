@@ -1,3 +1,5 @@
+1.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-itests/1.0.0.Alpha1/switchyard-component-itests-1.0.0.Alpha1.jar returned status 404
+1.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/switchyard/components/switchyard-component-itests/1.0.0.Final/switchyard-component-itests-1.0.0.Final.jar returned status 404
 1.1.0.CR1		2013-11-05T01:49:48Z	
 1.1.0.Final		2013-11-19T15:09:57Z	
 1.1.0.M4		2013-10-07T16:09:41Z	
