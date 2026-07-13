@@ -1,2 +1,9 @@
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0/opencv-3.1.0.jar returned status 404
+3.1.0-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0-my/opencv-3.1.0-my.jar returned status 404
+3.1.0-r1-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0-r1-my/opencv-3.1.0-r1-my.jar returned status 404
+3.1.0-r2-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0-r2-my/opencv-3.1.0-r2-my.jar returned status 404
+3.1.0-r3-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0-r3-my/opencv-3.1.0-r3-my.jar returned status 404
+3.1.0.4-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/3.1.0.4-my/opencv-3.1.0.4-my.jar returned status 404
+4.1.0-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/4.1.0-my/opencv-4.1.0-my.jar returned status 404
 4.3.0-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/4.3.0-my/opencv-4.3.0-my.jar returned status 404
 4.3.0.2-my			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mytechia/opencv/4.3.0.2-my/opencv-4.3.0.2-my.jar returned status 404

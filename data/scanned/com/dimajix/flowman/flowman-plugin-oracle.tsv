@@ -23,6 +23,19 @@
 0.27.0-oss-spark3.2-hadoop3.3		2022-09-09T11:52:53Z	
 0.27.0-oss-spark3.3-hadoop2.7		2022-09-09T12:07:42Z	
 0.27.0-oss-spark3.3-hadoop3.3		2022-09-09T12:24:58Z	
+0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0/flowman-plugin-oracle-0.28.0.jar returned status 404
+0.28.0-cdh6-spark2.4-hadoop3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-cdh6-spark2.4-hadoop3.0/flowman-plugin-oracle-0.28.0-cdh6-spark2.4-hadoop3.0.jar returned status 404
+0.28.0-cdp7-spark2.4-hadoop3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-cdp7-spark2.4-hadoop3.1/flowman-plugin-oracle-0.28.0-cdp7-spark2.4-hadoop3.1.jar returned status 404
+0.28.0-oss-spark2.4-hadoop2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark2.4-hadoop2.6/flowman-plugin-oracle-0.28.0-oss-spark2.4-hadoop2.6.jar returned status 404
+0.28.0-oss-spark2.4-hadoop2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark2.4-hadoop2.7/flowman-plugin-oracle-0.28.0-oss-spark2.4-hadoop2.7.jar returned status 404
+0.28.0-oss-spark3.0-hadoop2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.0-hadoop2.7/flowman-plugin-oracle-0.28.0-oss-spark3.0-hadoop2.7.jar returned status 404
+0.28.0-oss-spark3.0-hadoop3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.0-hadoop3.2/flowman-plugin-oracle-0.28.0-oss-spark3.0-hadoop3.2.jar returned status 404
+0.28.0-oss-spark3.1-hadoop2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.1-hadoop2.7/flowman-plugin-oracle-0.28.0-oss-spark3.1-hadoop2.7.jar returned status 404
+0.28.0-oss-spark3.1-hadoop3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.1-hadoop3.2/flowman-plugin-oracle-0.28.0-oss-spark3.1-hadoop3.2.jar returned status 404
+0.28.0-oss-spark3.2-hadoop2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.2-hadoop2.7/flowman-plugin-oracle-0.28.0-oss-spark3.2-hadoop2.7.jar returned status 404
+0.28.0-oss-spark3.2-hadoop3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.2-hadoop3.3/flowman-plugin-oracle-0.28.0-oss-spark3.2-hadoop3.3.jar returned status 404
+0.28.0-oss-spark3.3-hadoop2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.3-hadoop2.7/flowman-plugin-oracle-0.28.0-oss-spark3.3-hadoop2.7.jar returned status 404
+0.28.0-oss-spark3.3-hadoop3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-oracle/0.28.0-oss-spark3.3-hadoop3.3/flowman-plugin-oracle-0.28.0-oss-spark3.3-hadoop3.3.jar returned status 404
 0.29.0		2022-11-09T10:35:39Z	
 0.29.0-cdh6-spark2.4-hadoop3.0		2022-11-09T10:03:37Z	
 0.29.0-cdp7-spark2.4-hadoop3.1		2022-11-09T10:18:46Z	

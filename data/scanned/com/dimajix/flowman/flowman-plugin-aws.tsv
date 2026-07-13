@@ -176,6 +176,9 @@
 0.30.0-oss-spark3.2-hadoop3.3		2023-01-03T17:42:56Z	
 0.30.0-oss-spark3.3-hadoop2.7		2023-01-03T17:57:19Z	
 0.30.0-oss-spark3.3-hadoop3.3		2023-01-03T18:14:47Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-aws/0.4.0/flowman-plugin-aws-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-aws/0.4.1/flowman-plugin-aws-0.4.1.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dimajix/flowman/flowman-plugin-aws/0.6.1/flowman-plugin-aws-0.6.1.jar returned status 404
 1.0.0		2023-04-27T21:21:08Z	
 1.0.0-cdh6-spark2.4-hadoop3.0		2023-04-27T20:48:05Z	
 1.0.0-cdp7-spark2.4-hadoop3.1		2023-04-27T21:04:20Z	

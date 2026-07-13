@@ -1,2 +1,12 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/1/mycila-pom-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/10/mycila-pom-10.jar returned status 404
 12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/12/mycila-pom-12.jar returned status 404
 13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/13/mycila-pom-13.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/2/mycila-pom-2.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/2.1/mycila-pom-2.1.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/3/mycila-pom-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/4/mycila-pom-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/5/mycila-pom-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/6/mycila-pom-6.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/8/mycila-pom-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mycila/mycila-pom/9/mycila-pom-9.jar returned status 404

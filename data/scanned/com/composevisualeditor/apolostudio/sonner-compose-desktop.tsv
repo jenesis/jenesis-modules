@@ -10,3 +10,8 @@
 1.8.0-dev1989		2024-12-21T19:20:03Z	
 1.8.0-dev1991		2025-01-07T11:36:56Z	
 1.8.0-dev2004		2025-01-16T22:08:37Z	
+1.8.0dev1966			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composevisualeditor/apolostudio/sonner-compose-desktop/1.8.0dev1966/sonner-compose-desktop-1.8.0dev1966.jar returned status 404
+1.8.0dev1972			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composevisualeditor/apolostudio/sonner-compose-desktop/1.8.0dev1972/sonner-compose-desktop-1.8.0dev1972.jar returned status 404
+1.8.0dev1976			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composevisualeditor/apolostudio/sonner-compose-desktop/1.8.0dev1976/sonner-compose-desktop-1.8.0dev1976.jar returned status 404
+1.8.0dev1981			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composevisualeditor/apolostudio/sonner-compose-desktop/1.8.0dev1981/sonner-compose-desktop-1.8.0dev1981.jar returned status 404
+1.8.0dev1987			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composevisualeditor/apolostudio/sonner-compose-desktop/1.8.0dev1987/sonner-compose-desktop-1.8.0dev1987.jar returned status 404

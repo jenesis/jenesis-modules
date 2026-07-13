@@ -9,3 +9,10 @@
 3.0.7		2020-06-11T03:39:35Z	
 3.1.0		2020-06-23T02:34:02Z	
 3.1.1		2021-06-15T08:34:47Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.0/java-tools-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.1/java-tools-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.2/java-tools-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.3/java-tools-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.4/java-tools-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.5/java-tools-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitee/opensource4clive/java-tools/4.0.6/java-tools-4.0.6.jar returned status 404
