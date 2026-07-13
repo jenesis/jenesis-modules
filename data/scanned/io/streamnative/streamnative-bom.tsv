@@ -5,6 +5,11 @@
 4.0.10.5		2026-06-11T14:21:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.10.5/streamnative-bom-4.0.10.5.jar returned status 404
 4.0.10.6		2026-06-25T11:01:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.10.6/streamnative-bom-4.0.10.6.jar returned status 404
 4.0.10.7		2026-07-06T02:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.10.7/streamnative-bom-4.0.10.7.jar returned status 404
+4.0.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.10.8/streamnative-bom-4.0.10.8.jar returned status 404
+4.0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.4.2/streamnative-bom-4.0.4.2.jar returned status 404
+4.0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.4.3/streamnative-bom-4.0.4.3.jar returned status 404
+4.0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.5.1/streamnative-bom-4.0.5.1.jar returned status 404
+4.0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.5.2/streamnative-bom-4.0.5.2.jar returned status 404
 4.0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.5.3/streamnative-bom-4.0.5.3.jar returned status 404
 4.0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.5.4/streamnative-bom-4.0.5.4.jar returned status 404
 4.0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.0.5.5/streamnative-bom-4.0.5.5.jar returned status 404
@@ -70,3 +75,5 @@
 4.2.1.1		2026-06-05T02:59:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.2.1.1/streamnative-bom-4.2.1.1.jar returned status 404
 4.2.1.4		2026-06-18T09:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.2.1.4/streamnative-bom-4.2.1.4.jar returned status 404
 4.2.1.5		2026-06-26T04:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.2.1.5/streamnative-bom-4.2.1.5.jar returned status 404
+4.2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.2.1.6/streamnative-bom-4.2.1.6.jar returned status 404
+4.2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/streamnative-bom/4.2.1.7/streamnative-bom-4.2.1.7.jar returned status 404
