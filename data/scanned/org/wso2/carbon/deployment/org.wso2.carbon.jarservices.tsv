@@ -51,8 +51,12 @@
 4.12.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.23/org.wso2.carbon.jarservices-4.12.23.jar returned status 404
 4.12.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.24/org.wso2.carbon.jarservices-4.12.24.jar returned status 404
 4.12.25		2024-04-08T02:50:19Z	
+4.12.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.26/org.wso2.carbon.jarservices-4.12.26.jar returned status 404
+4.12.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.27/org.wso2.carbon.jarservices-4.12.27.jar returned status 404
 4.12.28		2024-09-13T09:09:49Z	
+4.12.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.29/org.wso2.carbon.jarservices-4.12.29.jar returned status 404
 4.12.3		2021-03-26T06:48:53Z	
+4.12.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.12.30/org.wso2.carbon.jarservices-4.12.30.jar returned status 404
 4.12.31		2025-01-10T09:44:52Z	
 4.12.4		2021-03-26T16:36:53Z	
 4.12.5		2021-06-20T07:25:30Z	
@@ -60,6 +64,11 @@
 4.12.7		2021-09-24T04:48:01Z	
 4.12.8		2022-01-20T07:05:33Z	
 4.12.9		2022-02-01T18:00:26Z	
+4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.13.0/org.wso2.carbon.jarservices-4.13.0.jar returned status 404
+4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.13.1/org.wso2.carbon.jarservices-4.13.1.jar returned status 404
+4.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.13.2/org.wso2.carbon.jarservices-4.13.2.jar returned status 404
+4.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.13.3/org.wso2.carbon.jarservices-4.13.3.jar returned status 404
+4.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/deployment/org.wso2.carbon.jarservices/4.13.4/org.wso2.carbon.jarservices-4.13.4.jar returned status 404
 4.14.0		2026-02-12T12:19:50Z	
 4.14.1		2026-03-18T06:10:07Z	
 4.14.2		2026-03-30T09:11:18Z	

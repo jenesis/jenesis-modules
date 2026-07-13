@@ -15,10 +15,14 @@
 5.2.0-m3		2017-01-09T14:23:45Z	
 5.2.0-m4		2017-06-01T10:23:53Z	
 5.2.1		2017-11-06T11:05:32Z	
+5.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.2.10/carbon-kernel-osgi-tests-5.2.10.jar returned status 404
+5.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.2.11/carbon-kernel-osgi-tests-5.2.11.jar returned status 404
+5.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.2.12/carbon-kernel-osgi-tests-5.2.12.jar returned status 404
 5.2.13		2020-07-15T21:50:47Z	
 5.2.14		2022-01-19T17:30:29Z	
 5.2.15		2022-01-24T20:09:15Z	
 5.2.16		2022-02-01T22:10:59Z	
+5.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.2.17/carbon-kernel-osgi-tests-5.2.17.jar returned status 404
 5.2.18		2022-10-28T12:36:55Z	
 5.2.2		2017-11-29T07:16:58Z	
 5.2.3		2017-12-06T08:19:18Z	
@@ -27,7 +31,10 @@
 5.2.6		2017-12-15T19:46:22Z	
 5.2.7		2018-01-09T11:00:51Z	
 5.2.8		2018-09-04T19:43:11Z	
+5.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.2.9/carbon-kernel-osgi-tests-5.2.9.jar returned status 404
 5.3.0		2022-11-18T02:42:33Z	
 5.3.0-alpha		2022-10-31T07:19:50Z	
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.3.1/carbon-kernel-osgi-tests-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/carbon-kernel-osgi-tests/5.3.2/carbon-kernel-osgi-tests-5.3.2.jar returned status 404
 5.3.3		2026-04-08T09:13:00Z	
 5.3.4		2026-05-13T03:44:34Z	
