@@ -9,3 +9,8 @@
 1.5.2-Lithium-SR2		2015-10-07T06:10:21Z	
 1.5.3-Lithium-SR3		2015-11-24T05:53:33Z	
 1.5.4-Lithium-SR4		2016-02-29T07:59:56Z	
+1.6.0-Beryllium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-akka/1.6.0-Beryllium/features-akka-1.6.0-Beryllium.jar returned status 404
+1.6.1-Beryllium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-akka/1.6.1-Beryllium-SR1/features-akka-1.6.1-Beryllium-SR1.jar returned status 404
+1.6.2-Beryllium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-akka/1.6.2-Beryllium-SR2/features-akka-1.6.2-Beryllium-SR2.jar returned status 404
+1.6.3-Beryllium-SR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-akka/1.6.3-Beryllium-SR3/features-akka-1.6.3-Beryllium-SR3.jar returned status 404
+1.6.4-Beryllium-SR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-akka/1.6.4-Beryllium-SR4/features-akka-1.6.4-Beryllium-SR4.jar returned status 404

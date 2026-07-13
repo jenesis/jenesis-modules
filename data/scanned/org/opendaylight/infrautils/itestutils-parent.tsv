@@ -24,8 +24,12 @@
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.7.1/itestutils-parent-1.7.1.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.7.2/itestutils-parent-1.7.2.jar returned status 404
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.7.3/itestutils-parent-1.7.3.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.8.0/itestutils-parent-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.8.1/itestutils-parent-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.8.2/itestutils-parent-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.8.3/itestutils-parent-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.8.4/itestutils-parent-1.8.4.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.9.0/itestutils-parent-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.9.1/itestutils-parent-1.9.1.jar returned status 404
 1.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.9.10/itestutils-parent-1.9.10.jar returned status 404
 1.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/1.9.11/itestutils-parent-1.9.11.jar returned status 404
@@ -106,7 +110,9 @@
 7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.0.5/itestutils-parent-7.0.5.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.0/itestutils-parent-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.1/itestutils-parent-7.1.1.jar returned status 404
+7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.10/itestutils-parent-7.1.10.jar returned status 404
 7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.11/itestutils-parent-7.1.11.jar returned status 404
+7.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.12/itestutils-parent-7.1.12.jar returned status 404
 7.1.13		2026-06-09T08:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.13/itestutils-parent-7.1.13.jar returned status 404
 7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.2/itestutils-parent-7.1.2.jar returned status 404
 7.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/itestutils-parent/7.1.3/itestutils-parent-7.1.3.jar returned status 404

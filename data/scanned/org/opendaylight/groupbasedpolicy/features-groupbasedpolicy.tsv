@@ -9,3 +9,27 @@
 0.2.2-Lithium-SR2		2015-10-07T06:07:31Z	
 0.2.3-Lithium-SR3		2015-11-24T05:53:28Z	
 0.2.4-Lithium-SR4		2016-02-29T07:56:47Z	
+0.3.0-Beryllium			
+0.3.1-Beryllium-SR1			
+0.3.2-Beryllium-SR2			
+0.3.3-Beryllium-SR3			
+0.3.4-Beryllium-SR4			
+0.4.0-Boron			
+0.4.1-Boron-SR1			
+0.4.2-Boron-SR2			
+0.4.3-Boron-SR3			
+0.4.4-Boron-SR4			
+0.5.0-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.5.0-Carbon/features-groupbasedpolicy-0.5.0-Carbon.jar returned status 404
+0.5.1-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.5.1-Carbon/features-groupbasedpolicy-0.5.1-Carbon.jar returned status 404
+0.5.2-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.5.2-Carbon/features-groupbasedpolicy-0.5.2-Carbon.jar returned status 404
+0.5.3-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.5.3-Carbon/features-groupbasedpolicy-0.5.3-Carbon.jar returned status 404
+0.5.4-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.5.4-Carbon/features-groupbasedpolicy-0.5.4-Carbon.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.6.0/features-groupbasedpolicy-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.6.1/features-groupbasedpolicy-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.6.2/features-groupbasedpolicy-0.6.2.jar returned status 404
+0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.6.3/features-groupbasedpolicy-0.6.3.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.7.0/features-groupbasedpolicy-0.7.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.7.1/features-groupbasedpolicy-0.7.1.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.7.2/features-groupbasedpolicy-0.7.2.jar returned status 404
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.7.3/features-groupbasedpolicy-0.7.3.jar returned status 404
+0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/groupbasedpolicy/features-groupbasedpolicy/0.7.4/features-groupbasedpolicy-0.7.4.jar returned status 404
