@@ -1,3 +1,5 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-velocity/10.0.0/commandapi-velocity-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-velocity/10.0.1/commandapi-velocity-10.0.1.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-velocity/10.1.0/commandapi-velocity-10.1.0.jar returned status 404
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-velocity/10.1.1/commandapi-velocity-10.1.1.jar returned status 404
 10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-velocity/10.1.2/commandapi-velocity-10.1.2.jar returned status 404

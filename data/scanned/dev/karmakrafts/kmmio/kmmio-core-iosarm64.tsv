@@ -16,3 +16,4 @@
 2.2.2	metadata	2026-05-11T21:52:10Z	
 2.3.0		2026-06-04T21:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kmmio/kmmio-core-iosarm64/2.3.0/kmmio-core-iosarm64-2.3.0.jar returned status 404
 2.3.0	metadata	2026-06-04T21:49:36Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kmmio/kmmio-core-iosarm64/2.3.1/kmmio-core-iosarm64-2.3.1.jar returned status 404

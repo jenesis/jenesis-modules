@@ -491,3 +491,5 @@ tech.picnic.errorprone.experimental
 au.com.dius.pact_jvm_server
 p6spy
 langchain4j.community.oci.genai
+com.google.j2objc.annotations
+dev.hegel

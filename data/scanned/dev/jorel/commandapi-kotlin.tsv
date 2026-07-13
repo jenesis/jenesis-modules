@@ -1,3 +1,5 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/10.0.0/commandapi-kotlin-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/10.0.1/commandapi-kotlin-10.0.1.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/10.1.0/commandapi-kotlin-10.1.0.jar returned status 404
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/10.1.1/commandapi-kotlin-10.1.1.jar returned status 404
 10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/10.1.2/commandapi-kotlin-10.1.2.jar returned status 404
@@ -13,3 +15,15 @@
 8.7.5		2023-02-11T10:59:01Z	
 8.7.6		2023-02-28T21:47:36Z	
 8.8.0		2023-03-14T21:25:00Z	
+9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.2.0/commandapi-kotlin-9.2.0.jar returned status 404
+9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.3.0/commandapi-kotlin-9.3.0.jar returned status 404
+9.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.4.0/commandapi-kotlin-9.4.0.jar returned status 404
+9.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.4.1/commandapi-kotlin-9.4.1.jar returned status 404
+9.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.4.2/commandapi-kotlin-9.4.2.jar returned status 404
+9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.5.0/commandapi-kotlin-9.5.0.jar returned status 404
+9.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.5.1/commandapi-kotlin-9.5.1.jar returned status 404
+9.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.5.2/commandapi-kotlin-9.5.2.jar returned status 404
+9.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.5.3/commandapi-kotlin-9.5.3.jar returned status 404
+9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.6.0/commandapi-kotlin-9.6.0.jar returned status 404
+9.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.6.1/commandapi-kotlin-9.6.1.jar returned status 404
+9.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jorel/commandapi-kotlin/9.7.0/commandapi-kotlin-9.7.0.jar returned status 404

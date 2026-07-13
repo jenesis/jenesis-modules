@@ -4,6 +4,9 @@
 0.13		2025-06-01T07:37:31Z	
 0.14		2025-08-24T11:36:22Z	
 0.15		2025-10-25T17:11:08Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bannmann/anansi/anansi/0.2/anansi-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bannmann/anansi/anansi/0.3/anansi-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bannmann/anansi/anansi/0.4/anansi-0.4.jar returned status 404
 0.5		2023-12-31T11:17:27Z	
 0.6		2024-03-31T21:58:05Z	
 0.7		2024-04-06T11:42:08Z	
