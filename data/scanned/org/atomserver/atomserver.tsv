@@ -1,34 +1,71 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.0/atomserver-2.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.0.1/atomserver-2.0.1.jar returned status 404
+2.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.0.1.1/atomserver-2.0.1.1.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1/atomserver-2.1.jar returned status 404
 2.1	classes	2008-08-24T23:44:41Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.1/atomserver-2.1.1.jar returned status 404
 2.1.1	classes	2008-09-08T22:23:45Z	
+2.1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.1.1/atomserver-2.1.1.1.jar returned status 404
 2.1.1.1	classes	2008-09-10T02:31:14Z	
+2.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.10/atomserver-2.1.10.jar returned status 404
 2.1.10	classes	2009-05-05T05:44:47Z	
+2.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.11/atomserver-2.1.11.jar returned status 404
 2.1.11	classes	2009-05-07T01:38:31Z	
+2.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.12/atomserver-2.1.12.jar returned status 404
 2.1.12	classes	2009-05-18T04:23:01Z	
+2.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.13/atomserver-2.1.13.jar returned status 404
 2.1.13	classes	2009-08-14T21:16:26Z	
+2.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.14/atomserver-2.1.14.jar returned status 404
 2.1.14	classes	2009-12-16T07:31:46Z	
+2.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.15/atomserver-2.1.15.jar returned status 404
 2.1.15	classes	2009-12-29T16:04:58Z	
+2.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.16/atomserver-2.1.16.jar returned status 404
 2.1.16	classes	2010-01-07T19:50:02Z	
+2.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.17/atomserver-2.1.17.jar returned status 404
 2.1.17	classes	2010-03-02T18:26:44Z	
+2.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.18/atomserver-2.1.18.jar returned status 404
 2.1.18	classes	2010-04-12T21:49:55Z	
+2.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.19/atomserver-2.1.19.jar returned status 404
 2.1.19	classes	2010-06-08T04:33:46Z	
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.2/atomserver-2.1.2.jar returned status 404
 2.1.2	classes	2008-09-23T01:55:34Z	
+2.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.20/atomserver-2.1.20.jar returned status 404
 2.1.20	classes	2010-06-21T04:00:29Z	
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.3/atomserver-2.1.3.jar returned status 404
 2.1.3	classes	2008-10-13T19:23:33Z	
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.4/atomserver-2.1.4.jar returned status 404
 2.1.4	classes	2008-11-10T22:53:53Z	
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.5/atomserver-2.1.5.jar returned status 404
 2.1.5	classes	2008-12-03T21:43:52Z	
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.6/atomserver-2.1.6.jar returned status 404
 2.1.6	classes	2008-12-08T21:54:03Z	
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.7/atomserver-2.1.7.jar returned status 404
 2.1.7	classes	2009-01-18T17:33:44Z	
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.8/atomserver-2.1.8.jar returned status 404
 2.1.8	classes	2009-02-25T03:23:28Z	
+2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.1.9/atomserver-2.1.9.jar returned status 404
 2.1.9	classes	2009-03-09T21:15:14Z	
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.2/atomserver-2.2.jar returned status 404
 2.2	classes	2010-07-26T15:01:57Z	
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.2.1/atomserver-2.2.1.jar returned status 404
 2.2.1	classes	2010-09-07T22:49:44Z	
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3/atomserver-2.3.jar returned status 404
 2.3	classes	2010-09-09T03:33:27Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.1/atomserver-2.3.1.jar returned status 404
 2.3.1	classes	2010-09-20T14:33:57Z	
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.2/atomserver-2.3.2.jar returned status 404
 2.3.2	classes	2010-09-27T05:17:47Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.3/atomserver-2.3.3.jar returned status 404
 2.3.3	classes	2010-11-01T15:57:38Z	
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.4/atomserver-2.3.4.jar returned status 404
 2.3.4	classes	2010-11-16T22:50:38Z	
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.5/atomserver-2.3.5.jar returned status 404
 2.3.5	classes	2011-03-01T17:45:57Z	
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.6/atomserver-2.3.6.jar returned status 404
 2.3.6	classes	2011-06-27T17:04:16Z	
+2.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.7/atomserver-2.3.7.jar returned status 404
 2.3.7	classes	2013-05-06T19:22:45Z	
+2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.8/atomserver-2.3.8.jar returned status 404
 2.3.8	classes	2013-05-06T21:55:21Z	
+2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atomserver/atomserver/2.3.9/atomserver-2.3.9.jar returned status 404
 2.3.9	classes	2013-05-14T04:02:03Z	

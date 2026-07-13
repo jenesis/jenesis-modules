@@ -1,28 +1,56 @@
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/2.0.2/mule-2.0.2.jar returned status 404
 2.0.2	embedded	2008-07-23T08:59:31Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0/mule-3.0.0.jar returned status 404
 3.0.0	embedded	2010-09-15T00:17:56Z	
+3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-M1/mule-3.0.0-M1.jar returned status 404
 3.0.0-M1	embedded	2009-06-02T18:12:20Z	
+3.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-M2/mule-3.0.0-M2.jar returned status 404
 3.0.0-M2	embedded	2010-04-02T21:14:23Z	
+3.0.0-M2-20091124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-M2-20091124/mule-3.0.0-M2-20091124.jar returned status 404
 3.0.0-M2-20091124	embedded	2009-11-25T06:43:47Z	
+3.0.0-M2-20091130			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-M2-20091130/mule-3.0.0-M2-20091130.jar returned status 404
 3.0.0-M2-20091130	embedded	2009-12-01T06:46:38Z	
+3.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-M4/mule-3.0.0-M4.jar returned status 404
 3.0.0-M4	embedded	2010-07-10T01:02:54Z	
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-RC1/mule-3.0.0-RC1.jar returned status 404
 3.0.0-RC1	embedded	2010-08-19T01:29:16Z	
+3.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.0-RC2/mule-3.0.0-RC2.jar returned status 404
 3.0.0-RC2	embedded	2010-08-25T18:12:49Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.0.1/mule-3.0.1.jar returned status 404
 3.0.1	embedded	2010-11-12T05:59:55Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.1.0/mule-3.1.0.jar returned status 404
 3.1.0	embedded	2010-12-30T19:30:55Z	
+3.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.1.0-RC1/mule-3.1.0-RC1.jar returned status 404
 3.1.0-RC1	embedded	2010-12-06T18:08:39Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.1.1/mule-3.1.1.jar returned status 404
 3.1.1	embedded	2011-03-08T18:05:00Z	
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.1.2/mule-3.1.2.jar returned status 404
 3.1.2	embedded	2011-05-25T20:14:22Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.2.0/mule-3.2.0.jar returned status 404
 3.2.0	embedded	2011-09-10T23:48:21Z	
+3.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.2.0-M1/mule-3.2.0-M1.jar returned status 404
 3.2.0-M1	embedded	2011-07-05T23:04:19Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.2.1/mule-3.2.1.jar returned status 404
 3.2.1	embedded	2011-11-18T03:34:05Z	
+3.3-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3-M1/mule-3.3-M1.jar returned status 404
 3.3-M1	embedded	2011-12-30T20:19:37Z	
+3.3-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3-M2/mule-3.3-M2.jar returned status 404
 3.3-M2	embedded	2012-02-08T15:42:22Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.0/mule-3.3.0.jar returned status 404
 3.3.0	embedded	2012-06-18T20:01:06Z	
+3.3.0-EA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.0-EA/mule-3.3.0-EA.jar returned status 404
 3.3.0-EA	embedded	2012-05-02T16:28:44Z	
+3.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.0-RC1/mule-3.3.0-RC1.jar returned status 404
 3.3.0-RC1	embedded	2012-03-28T03:12:18Z	
+3.3.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.0-RC2/mule-3.3.0-RC2.jar returned status 404
 3.3.0-RC2	embedded	2012-04-04T18:39:37Z	
+3.3.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.0-RC3/mule-3.3.0-RC3.jar returned status 404
 3.3.0-RC3	embedded	2012-04-17T01:53:14Z	
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.3.1/mule-3.3.1.jar returned status 404
 3.3.1	embedded	2012-12-10T19:08:49Z	
+3.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.4-M1/mule-3.4-M1.jar returned status 404
 3.4-M1	embedded	2012-10-16T23:10:43Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.4.0/mule-3.4.0.jar returned status 404
 3.4.0	embedded	2013-04-14T20:14:23Z	
+3.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/distributions/mule/3.4.0-RC1/mule-3.4.0-RC1.jar returned status 404
 3.4.0-RC1	embedded	2013-02-18T03:22:16Z	

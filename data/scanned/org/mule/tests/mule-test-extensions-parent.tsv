@@ -1,3 +1,6 @@
+4.0.0-BETA.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/mule-test-extensions-parent/4.0.0-BETA.4/mule-test-extensions-parent-4.0.0-BETA.4.jar returned status 404
 4.0.0-BETA.4	mule-plugin	2017-07-17T23:55:04Z	
+4.0.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/mule-test-extensions-parent/4.0.0-rc/mule-test-extensions-parent-4.0.0-rc.jar returned status 404
 4.0.0-rc	mule-plugin	2017-09-28T14:23:53Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/mule-test-extensions-parent/4.1.1/mule-test-extensions-parent-4.1.1.jar returned status 404
 4.1.1	mule-plugin	2018-04-20T18:26:19Z	

@@ -1,3 +1,15 @@
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/1.0.1/creator-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/1.0.2/creator-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/1.0.3/creator-1.0.3.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2.1.0/creator-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2.2.0/creator-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2.3.0/creator-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2.4.0/creator-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2.5.0/creator-2.5.0.jar returned status 404
+2023.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.05/creator-2023.05.jar returned status 404
+2023.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.06/creator-2023.06.jar returned status 404
+2023.07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.07/creator-2023.07.jar returned status 404
+2023.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.08/creator-2023.08.jar returned status 404
 2023.09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.09/creator-2023.09.jar returned status 404
 2023.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.10/creator-2023.10.jar returned status 404
 2023.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/myguide/creator/2023.11/creator-2023.11.jar returned status 404

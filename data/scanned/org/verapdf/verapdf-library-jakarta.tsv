@@ -1,3 +1,9 @@
+1.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.24.1/verapdf-library-jakarta-1.24.1.jar returned status 404
+1.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.24.2/verapdf-library-jakarta-1.24.2.jar returned status 404
+1.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.26.1/verapdf-library-jakarta-1.26.1.jar returned status 404
+1.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.26.2/verapdf-library-jakarta-1.26.2.jar returned status 404
+1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.26.5/verapdf-library-jakarta-1.26.5.jar returned status 404
+1.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.28.1/verapdf-library-jakarta-1.28.1.jar returned status 404
 1.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.28.2/verapdf-library-jakarta-1.28.2.jar returned status 404
 1.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.30.1/verapdf-library-jakarta-1.30.1.jar returned status 404
 1.30.2		2026-06-03T10:44:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/verapdf/verapdf-library-jakarta/1.30.2/verapdf-library-jakarta-1.30.2.jar returned status 404

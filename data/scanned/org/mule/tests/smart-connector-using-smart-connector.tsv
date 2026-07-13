@@ -1,3 +1,6 @@
+4.0.0-BETA.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/smart-connector-using-smart-connector/4.0.0-BETA.4/smart-connector-using-smart-connector-4.0.0-BETA.4.jar returned status 404
 4.0.0-BETA.4	mule-plugin	2017-07-18T00:11:43Z	
+4.0.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/smart-connector-using-smart-connector/4.0.0-rc/smart-connector-using-smart-connector-4.0.0-rc.jar returned status 404
 4.0.0-rc	mule-plugin	2017-09-28T16:59:33Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/smart-connector-using-smart-connector/4.1.1/smart-connector-using-smart-connector-4.1.1.jar returned status 404
 4.1.1	mule-plugin	2018-04-20T18:40:18Z	

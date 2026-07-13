@@ -8,3 +8,7 @@
 0.4.3		2018-11-27T09:28:19Z	
 0.4.4		2019-01-16T13:51:36Z	
 0.4.5		2019-04-18T13:54:49Z	
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gradoop/gradoop-examples/0.5.0/gradoop-examples-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gradoop/gradoop-examples/0.5.1/gradoop-examples-0.5.1.jar returned status 404
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gradoop/gradoop-examples/0.5.2/gradoop-examples-0.5.2.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gradoop/gradoop-examples/0.6.0/gradoop-examples-0.6.0.jar returned status 404

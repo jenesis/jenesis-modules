@@ -1,2 +1,4 @@
+4.0.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/plugin/mule-tests-component-plugin/4.0.0-rc/mule-tests-component-plugin-4.0.0-rc.jar returned status 404
 4.0.0-rc	mule-plugin	2017-09-28T14:35:09Z	
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mule/tests/plugin/mule-tests-component-plugin/4.1.1/mule-tests-component-plugin-4.1.1.jar returned status 404
 4.1.1	mule-plugin	2018-04-20T18:28:08Z	

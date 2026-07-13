@@ -1,1 +1,3 @@
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/brapi/brapi/2.1.0/brapi-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/brapi/brapi/2.1.1/brapi-2.1.1.jar returned status 404
 2.2.0		2026-06-11T18:46:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/brapi/brapi/2.2.0/brapi-2.2.0.jar returned status 404
