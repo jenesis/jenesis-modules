@@ -1,3 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.0.0/pollcard-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.1.0/pollcard-1.1.0.jar returned status 404
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.10.0/pollcard-1.10.0.jar returned status 404
 1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.11.0/pollcard-1.11.0.jar returned status 404
 1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.12.0/pollcard-1.12.0.jar returned status 404
@@ -9,3 +11,12 @@
 1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.16.1/pollcard-1.16.1.jar returned status 404
 1.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.16.2/pollcard-1.16.2.jar returned status 404
 1.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.16.3/pollcard-1.16.3.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.2.0/pollcard-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.3.0/pollcard-1.3.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.4.0/pollcard-1.4.0.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.5.0/pollcard-1.5.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.6.0/pollcard-1.6.0.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.6.1/pollcard-1.6.1.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.7.0/pollcard-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.8.0/pollcard-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/arena/pollcard/1.9.0/pollcard-1.9.0.jar returned status 404

@@ -10,6 +10,11 @@ m111-hms-1.8			IOException: Tail request on https://maven-central.storage-downlo
 m111-hms-1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.9/webrtc-m111-hms-1.9.jar returned status 404
 m111-hms-1.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.91/webrtc-m111-hms-1.91.jar returned status 404
 m111-hms-1.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.92/webrtc-m111-hms-1.92.jar returned status 404
+m111-hms-1.94.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.94.1/webrtc-m111-hms-1.94.1.jar returned status 404
+m111-hms-1.94.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.94.2/webrtc-m111-hms-1.94.2.jar returned status 404
+m111-hms-1.94.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.94.3/webrtc-m111-hms-1.94.3.jar returned status 404
+m111-hms-1.94.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.94.4/webrtc-m111-hms-1.94.4.jar returned status 404
+m111-hms-1.94.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m111-hms-1.94.5/webrtc-m111-hms-1.94.5.jar returned status 404
 m97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m97/webrtc-m97.jar returned status 404
 m97-hms-1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m97-hms-1.0/webrtc-m97-hms-1.0.jar returned status 404
 m97-hms-1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/webrtc/m97-hms-1.1/webrtc-m97-hms-1.1.jar returned status 404

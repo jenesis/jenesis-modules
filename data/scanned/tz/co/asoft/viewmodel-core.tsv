@@ -28,6 +28,7 @@
 0.2.28		2022-02-16T23:06:37Z	
 0.2.29		2022-02-18T11:57:57Z	
 0.2.30		2022-03-17T17:53:04Z	
+0.2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/viewmodel-core/0.2.40/viewmodel-core-0.2.40.jar returned status 404
 0.2.41		2022-04-06T09:21:10Z	
 0.2.42		2022-06-23T02:27:49Z	
 0.2.43		2022-07-04T20:48:23Z	

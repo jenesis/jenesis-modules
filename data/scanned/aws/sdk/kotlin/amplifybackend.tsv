@@ -777,3 +777,5 @@
 1.8.0		2026-07-07T18:49:48Z	
 1.8.1		2026-07-08T18:50:40Z	
 1.8.2		2026-07-08T23:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/amplifybackend/1.8.2/amplifybackend-1.8.2.jar returned status 404
+1.8.3			
+1.8.4			

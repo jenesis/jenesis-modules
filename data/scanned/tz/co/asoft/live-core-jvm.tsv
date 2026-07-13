@@ -21,6 +21,7 @@
 0.2.28		2022-02-16T22:59:50Z	
 0.2.29		2022-02-18T11:56:23Z	
 0.2.30		2022-03-17T17:51:12Z	
+0.2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/live-core-jvm/0.2.40/live-core-jvm-0.2.40.jar returned status 404
 0.2.41		2022-04-06T09:19:12Z	
 0.2.42		2022-06-23T02:27:14Z	
 0.2.43		2022-07-04T20:47:43Z	

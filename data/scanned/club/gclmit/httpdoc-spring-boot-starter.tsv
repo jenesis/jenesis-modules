@@ -8,5 +8,6 @@
 1.0.4	dependencies	2019-08-31T15:02:43Z	
 1.0.5		2019-09-01T10:23:17Z	
 1.0.5	dependencies	2019-09-01T10:27:36Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/gclmit/httpdoc-spring-boot-starter/1.0.6/httpdoc-spring-boot-starter-1.0.6.jar returned status 404
 1.0.7		2019-10-08T06:08:09Z	
 1.0.7	shaded	2019-10-08T06:08:22Z	

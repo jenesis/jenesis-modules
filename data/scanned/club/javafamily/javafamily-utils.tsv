@@ -1,3 +1,7 @@
 0.1.0		2020-04-28T06:59:57Z	
 0.1.1		2020-05-07T16:06:35Z	
 0.1.2		2020-05-07T16:44:04Z	
+2.3.2-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/javafamily/javafamily-utils/2.3.2-beta.1/javafamily-utils-2.3.2-beta.1.jar returned status 404
+2.3.2-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/javafamily/javafamily-utils/2.3.2-beta.2/javafamily-utils-2.3.2-beta.2.jar returned status 404
+2.3.2-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/javafamily/javafamily-utils/2.3.2-beta.3/javafamily-utils-2.3.2-beta.3.jar returned status 404
+2.3.2-beta.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/javafamily/javafamily-utils/2.3.2-beta.4/javafamily-utils-2.3.2-beta.4.jar returned status 404

@@ -8,6 +8,7 @@
 4.0		2006-01-06T21:33:58Z	
 4.0-alpha-2		2005-11-22T18:26:11Z	
 4.0-alpha-3		2005-11-22T18:26:11Z	
+4.0-alpha-4-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tapestry/tapestry/4.0-alpha-4-snapshot/tapestry-4.0-alpha-4-snapshot.jar returned status 404
 4.0-beta-1		2005-11-22T18:26:12Z	
 4.0-beta-10		2005-11-22T18:26:15Z	
 4.0-beta-11		2005-11-22T18:26:15Z	

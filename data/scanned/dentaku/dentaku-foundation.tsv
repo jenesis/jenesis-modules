@@ -7,8 +7,13 @@
 0.8		2005-04-04T03:15:42Z	
 20050105.013328		2005-04-04T03:15:44Z	
 20050106.213645		2005-04-04T03:15:44Z	
+20050106.213646			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dentaku/dentaku-foundation/20050106.213646/dentaku-foundation-20050106.213646.jar returned status 404
 20050107.230758		2005-04-04T03:15:45Z	
+20050107.230759			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dentaku/dentaku-foundation/20050107.230759/dentaku-foundation-20050107.230759.jar returned status 404
 20050109.084555		2005-04-04T03:15:51Z	
 20050113.005421		2005-04-04T03:15:51Z	
+20050113.005422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dentaku/dentaku-foundation/20050113.005422/dentaku-foundation-20050113.005422.jar returned status 404
 20050203.034805		2005-04-04T03:15:53Z	
 20050208.175909		2005-08-01T09:35:17Z	
+20050708.205544			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dentaku/dentaku-foundation/20050708.205544/dentaku-foundation-20050708.205544.jar returned status 404
+20050708.210214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dentaku/dentaku-foundation/20050708.210214/dentaku-foundation-20050708.210214.jar returned status 404

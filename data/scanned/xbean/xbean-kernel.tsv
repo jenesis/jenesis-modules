@@ -1,2 +1,15 @@
 2.0		2005-12-20T16:20:38Z	
+2.0-20051102.005820-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051102.005820-1/xbean-kernel-2.0-20051102.005820-1.jar returned status 404
+2.0-20051102.013906-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051102.013906-1/xbean-kernel-2.0-20051102.013906-1.jar returned status 404
+2.0-20051107.102720-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051107.102720-2/xbean-kernel-2.0-20051107.102720-2.jar returned status 404
+2.0-20051107.181543-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051107.181543-3/xbean-kernel-2.0-20051107.181543-3.jar returned status 404
+2.0-20051110.001057-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051110.001057-3/xbean-kernel-2.0-20051110.001057-3.jar returned status 404
+2.0-20051110.003959-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-20051110.003959-4/xbean-kernel-2.0-20051110.003959-4.jar returned status 404
+2.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.0-SNAPSHOT/xbean-kernel-2.0-SNAPSHOT.jar returned status 404
 2.1		2006-01-04T17:31:54Z	
+2.1-20051110.015451-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.1-20051110.015451-1/xbean-kernel-2.1-20051110.015451-1.jar returned status 404
+2.1-20060104.152854-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.1-20060104.152854-2/xbean-kernel-2.1-20060104.152854-2.jar returned status 404
+2.1-20060104.163222-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.1-20060104.163222-2/xbean-kernel-2.1-20060104.163222-2.jar returned status 404
+2.1-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.1-SNAPSHOT/xbean-kernel-2.1-SNAPSHOT.jar returned status 404
+2.2-20060104.163222-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.2-20060104.163222-1/xbean-kernel-2.2-20060104.163222-1.jar returned status 404
+2.2-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xbean/xbean-kernel/2.2-SNAPSHOT/xbean-kernel-2.2-SNAPSHOT.jar returned status 404

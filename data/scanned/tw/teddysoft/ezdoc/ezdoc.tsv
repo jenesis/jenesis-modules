@@ -1,1 +1,4 @@
+0.0.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezdoc/ezdoc/0.0.1-beta/ezdoc-0.0.1-beta.jar returned status 404
+0.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezdoc/ezdoc/0.0.2-beta/ezdoc-0.0.2-beta.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezdoc/ezdoc/0.0.3/ezdoc-0.0.3.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezdoc/ezdoc/1.0.0/ezdoc-1.0.0.jar returned status 404

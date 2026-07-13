@@ -3,3 +3,4 @@
 1.1-rc2		2005-11-22T18:14:41Z	
 1.1-rc3		2005-11-22T18:14:41Z	
 1.1-rc4		2005-11-22T18:14:41Z	
+DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/geronimo-spec/geronimo-spec-jms/DEV/geronimo-spec-jms-DEV.jar returned status 404
