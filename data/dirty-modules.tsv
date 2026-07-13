@@ -3218,3 +3218,5 @@ io.micronaut.micronaut_http_tck
 com.fasterxml.jackson.datatype.hibernate6
 org.checkerframework.checker.qual
 io.quarkus.dev.spi
+io.quarkus.launcher
+io.quarkus.bootstrap.runner
