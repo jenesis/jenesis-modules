@@ -208,7 +208,11 @@
 7.11.146		2026-07-02T11:09:57Z	
 7.11.147		2026-07-03T09:38:35Z	
 7.11.148		2026-07-03T11:09:47Z	
+7.11.149			
 7.11.15		2026-03-25T04:26:38Z	
+7.11.150			
+7.11.151			
+7.11.152			
 7.11.16		2026-03-25T11:25:09Z	
 7.11.17		2026-03-25T17:10:44Z	
 7.11.18		2026-03-26T05:39:11Z	
@@ -301,6 +305,17 @@
 7.11.97		2026-05-27T06:21:34Z	
 7.11.98		2026-05-27T09:08:36Z	
 7.11.99		2026-05-27T11:28:47Z	
+7.8.602			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.602/org.wso2.carbon.identity.fraud.detection.core-7.8.602.jar returned status 404
+7.8.603			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.603/org.wso2.carbon.identity.fraud.detection.core-7.8.603.jar returned status 404
+7.8.604			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.604/org.wso2.carbon.identity.fraud.detection.core-7.8.604.jar returned status 404
+7.8.605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.605/org.wso2.carbon.identity.fraud.detection.core-7.8.605.jar returned status 404
+7.8.606			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.606/org.wso2.carbon.identity.fraud.detection.core-7.8.606.jar returned status 404
+7.8.607			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.607/org.wso2.carbon.identity.fraud.detection.core-7.8.607.jar returned status 404
+7.8.608			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.608/org.wso2.carbon.identity.fraud.detection.core-7.8.608.jar returned status 404
+7.8.610			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.610/org.wso2.carbon.identity.fraud.detection.core-7.8.610.jar returned status 404
+7.8.611			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.611/org.wso2.carbon.identity.fraud.detection.core-7.8.611.jar returned status 404
+7.8.612			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.612/org.wso2.carbon.identity.fraud.detection.core-7.8.612.jar returned status 404
+7.8.613			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.fraud.detection.core/7.8.613/org.wso2.carbon.identity.fraud.detection.core-7.8.613.jar returned status 404
 7.8.614		2025-11-16T16:14:24Z	
 7.8.615		2025-11-18T12:19:05Z	
 7.8.616		2025-11-18T19:31:33Z	
