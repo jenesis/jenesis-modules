@@ -6,6 +6,7 @@
 2.2.13		2021-01-17T04:01:05Z	
 2.2.14		2021-01-19T08:18:09Z	
 2.2.15		2021-01-20T03:28:38Z	
+2.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dcenter/ums-rbac/2.2.16/ums-rbac-2.2.16.jar returned status 404
 2.2.17		2021-01-22T11:51:10Z	
 2.2.18		2021-01-26T07:56:37Z	
 2.2.19		2021-02-03T15:01:37Z	

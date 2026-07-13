@@ -10,3 +10,19 @@
 1.5		2014-02-07T22:35:12Z	
 1.6		2014-06-01T13:12:29Z	
 1.7		2014-09-19T22:04:18Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.0/daemon-framework-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.1/daemon-framework-2.1.jar returned status 404
+2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.10/daemon-framework-2.10.jar returned status 404
+2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.11/daemon-framework-2.11.jar returned status 404
+2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.12/daemon-framework-2.12.jar returned status 404
+2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.13/daemon-framework-2.13.jar returned status 404
+2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.14/daemon-framework-2.14.jar returned status 404
+2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.15/daemon-framework-2.15.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.2/daemon-framework-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.3/daemon-framework-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.4/daemon-framework-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.5/daemon-framework-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.6/daemon-framework-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.7/daemon-framework-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.8/daemon-framework-2.8.jar returned status 404
+2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/taimos/daemon-framework/2.9/daemon-framework-2.9.jar returned status 404

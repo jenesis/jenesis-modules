@@ -1,3 +1,7 @@
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/digitalcollections/cudami/dc-cudami-client/2.2.0/dc-cudami-client-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/digitalcollections/cudami/dc-cudami-client/2.2.1/dc-cudami-client-2.2.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/digitalcollections/cudami/dc-cudami-client/3.1.0/dc-cudami-client-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/digitalcollections/cudami/dc-cudami-client/3.1.1/dc-cudami-client-3.1.1.jar returned status 404
 3.2.0		2019-10-28T11:23:07Z	
 3.2.1		2019-11-13T09:37:52Z	
 3.2.2		2019-11-25T15:18:24Z	

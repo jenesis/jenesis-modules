@@ -5,6 +5,7 @@
 2.2.13		2021-01-17T04:01:12Z	
 2.2.14		2021-01-19T08:16:26Z	
 2.2.15		2021-01-20T03:44:46Z	
+2.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/dcenter/ums-oauth/2.2.16/ums-oauth-2.2.16.jar returned status 404
 2.2.17		2021-01-22T12:29:40Z	
 2.2.18		2021-01-26T07:56:05Z	
 2.2.19		2021-02-03T14:58:21Z	

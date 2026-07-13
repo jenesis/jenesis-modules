@@ -1,1 +1,5 @@
 1.0.0		2010-12-06T08:19:17Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/johoop/cpd4sbt/1.1.0/cpd4sbt-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/johoop/cpd4sbt/1.1.1/cpd4sbt-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/johoop/cpd4sbt/1.1.2/cpd4sbt-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/johoop/cpd4sbt/1.1.3/cpd4sbt-1.1.3.jar returned status 404

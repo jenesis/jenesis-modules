@@ -1,1 +1,5 @@
 1.0.2-BETA		2017-01-22T17:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/fastflow/kusu/constructor-formul/1.0.2-BETA/constructor-formul-1.0.2-BETA.jar returned status 404
+1.0.5-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/fastflow/kusu/constructor-formul/1.0.5-BETA/constructor-formul-1.0.5-BETA.jar returned status 404
+1.0.6-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/fastflow/kusu/constructor-formul/1.0.6-BETA/constructor-formul-1.0.6-BETA.jar returned status 404
+1.0.7-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/fastflow/kusu/constructor-formul/1.0.7-BETA/constructor-formul-1.0.7-BETA.jar returned status 404
+1.1.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/fastflow/kusu/constructor-formul/1.1.0-BETA/constructor-formul-1.1.0-BETA.jar returned status 404
