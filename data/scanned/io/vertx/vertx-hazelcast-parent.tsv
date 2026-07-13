@@ -1,4 +1,11 @@
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0/vertx-hazelcast-parent-5.0.0.jar returned status 404
+5.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR1/vertx-hazelcast-parent-5.0.0.CR1.jar returned status 404
+5.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR2/vertx-hazelcast-parent-5.0.0.CR2.jar returned status 404
+5.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR3/vertx-hazelcast-parent-5.0.0.CR3.jar returned status 404
+5.0.0.CR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR4/vertx-hazelcast-parent-5.0.0.CR4.jar returned status 404
+5.0.0.CR5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR5/vertx-hazelcast-parent-5.0.0.CR5.jar returned status 404
+5.0.0.CR6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR6/vertx-hazelcast-parent-5.0.0.CR6.jar returned status 404
+5.0.0.CR7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR7/vertx-hazelcast-parent-5.0.0.CR7.jar returned status 404
 5.0.0.CR8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.0.CR8/vertx-hazelcast-parent-5.0.0.CR8.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.1/vertx-hazelcast-parent-5.0.1.jar returned status 404
 5.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.0.10/vertx-hazelcast-parent-5.0.10.jar returned status 404
@@ -16,3 +23,4 @@
 5.1.1		2026-06-02T09:36:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.1.1/vertx-hazelcast-parent-5.1.1.jar returned status 404
 5.1.2		2026-06-08T15:34:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.1.2/vertx-hazelcast-parent-5.1.2.jar returned status 404
 5.1.3		2026-06-22T20:23:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.1.3/vertx-hazelcast-parent-5.1.3.jar returned status 404
+5.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-hazelcast-parent/5.1.4/vertx-hazelcast-parent-5.1.4.jar returned status 404

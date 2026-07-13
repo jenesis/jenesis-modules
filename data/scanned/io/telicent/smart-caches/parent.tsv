@@ -1,3 +1,29 @@
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.19.0/parent-0.19.0.jar returned status 404
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.20.0/parent-0.20.0.jar returned status 404
+0.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.20.1/parent-0.20.1.jar returned status 404
+0.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.20.2/parent-0.20.2.jar returned status 404
+0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.21.0/parent-0.21.0.jar returned status 404
+0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.21.1/parent-0.21.1.jar returned status 404
+0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.21.2/parent-0.21.2.jar returned status 404
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.22.0/parent-0.22.0.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.23.0/parent-0.23.0.jar returned status 404
+0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.23.1/parent-0.23.1.jar returned status 404
+0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.23.2/parent-0.23.2.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.24.0/parent-0.24.0.jar returned status 404
+0.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.24.1/parent-0.24.1.jar returned status 404
+0.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.24.2/parent-0.24.2.jar returned status 404
+0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.25.0/parent-0.25.0.jar returned status 404
+0.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.25.1/parent-0.25.1.jar returned status 404
+0.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.25.2/parent-0.25.2.jar returned status 404
+0.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.26.1/parent-0.26.1.jar returned status 404
+0.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.26.2/parent-0.26.2.jar returned status 404
+0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.27.0/parent-0.27.0.jar returned status 404
+0.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.27.1/parent-0.27.1.jar returned status 404
+0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.28.0/parent-0.28.0.jar returned status 404
+0.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.28.1/parent-0.28.1.jar returned status 404
+0.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.28.2/parent-0.28.2.jar returned status 404
+0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.29.0/parent-0.29.0.jar returned status 404
+0.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.29.1/parent-0.29.1.jar returned status 404
 0.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.29.2/parent-0.29.2.jar returned status 404
 0.29.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.29.3/parent-0.29.3.jar returned status 404
 0.29.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.29.4/parent-0.29.4.jar returned status 404
@@ -27,3 +53,4 @@
 0.40.1		2026-06-10T09:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.40.1/parent-0.40.1.jar returned status 404
 0.40.2		2026-06-17T15:01:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.40.2/parent-0.40.2.jar returned status 404
 0.40.3		2026-06-24T12:24:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/0.40.3/parent-0.40.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/parent/1.0.0/parent-1.0.0.jar returned status 404

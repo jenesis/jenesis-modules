@@ -1,3 +1,9 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/1/dangernoodle-io-build-pom-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/10/dangernoodle-io-build-pom-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/11/dangernoodle-io-build-pom-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/12/dangernoodle-io-build-pom-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/13/dangernoodle-io-build-pom-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14/dangernoodle-io-build-pom-14.jar returned status 404
 14.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.1.0/dangernoodle-io-build-pom-14.1.0.jar returned status 404
 14.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.1.1/dangernoodle-io-build-pom-14.1.1.jar returned status 404
 14.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.1.2/dangernoodle-io-build-pom-14.1.2.jar returned status 404
@@ -5,3 +11,11 @@
 14.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.3.0/dangernoodle-io-build-pom-14.3.0.jar returned status 404
 14.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.4.0/dangernoodle-io-build-pom-14.4.0.jar returned status 404
 14.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/14.4.1/dangernoodle-io-build-pom-14.4.1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/2/dangernoodle-io-build-pom-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/3/dangernoodle-io-build-pom-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/4/dangernoodle-io-build-pom-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/5/dangernoodle-io-build-pom-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/6/dangernoodle-io-build-pom-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/7/dangernoodle-io-build-pom-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/8/dangernoodle-io-build-pom-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dangernoodle/dangernoodle-io-build-pom/9/dangernoodle-io-build-pom-9.jar returned status 404
