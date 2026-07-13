@@ -1,5 +1,8 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clouway/kcqrs/example/kcqrs-example/0.0.1/kcqrs-example-0.0.1.jar returned status 404
 v1.2.10		2025-02-14T10:12:02Z	
 v1.2.11		2025-03-01T13:12:10Z	
 v1.2.12		2026-01-22T10:55:01Z	
+v1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clouway/kcqrs/example/kcqrs-example/v1.2.7/kcqrs-example-v1.2.7.jar returned status 404
 v1.2.8		2024-06-20T08:57:15Z	
 v1.2.9		2024-07-10T17:30:30Z	
+v1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clouway/kcqrs/example/kcqrs-example/v1.3.0/kcqrs-example-v1.3.0.jar returned status 404

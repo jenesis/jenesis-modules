@@ -1,3 +1,7 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.2.0/cdc-bench-bom-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.2.1/cdc-bench-bom-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.2.2/cdc-bench-bom-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.2.3/cdc-bench-bom-0.2.3.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.3.0/cdc-bench-bom-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.4.0/cdc-bench-bom-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/bench/cdc-bench-bom/0.5.0/cdc-bench-bom-0.5.0.jar returned status 404

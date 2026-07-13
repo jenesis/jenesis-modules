@@ -1,3 +1,5 @@
+4.3.0_1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/adcolony-adapter/4.3.0_1/adcolony-adapter-4.3.0_1.jar returned status 404
+4.5.0_1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/adcolony-adapter/4.5.0_1/adcolony-adapter-4.5.0_1.jar returned status 404
 4.6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/adcolony-adapter/4.6.5.1/adcolony-adapter-4.6.5.1.jar returned status 404
 4.6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/adcolony-adapter/4.6.5.2/adcolony-adapter-4.6.5.2.jar returned status 404
 4.6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/adcolony-adapter/4.6.5.4/adcolony-adapter-4.6.5.4.jar returned status 404

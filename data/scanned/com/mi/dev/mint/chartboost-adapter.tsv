@@ -1,5 +1,7 @@
+8.1.0_2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.1.0_2/chartboost-adapter-8.1.0_2.jar returned status 404
 8.2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.2.1.1/chartboost-adapter-8.2.1.1.jar returned status 404
 8.2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.2.1.2/chartboost-adapter-8.2.1.2.jar returned status 404
+8.2.1_1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.2.1_1/chartboost-adapter-8.2.1_1.jar returned status 404
 8.3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.3.1.3/chartboost-adapter-8.3.1.3.jar returned status 404
 8.4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/8.4.3.1/chartboost-adapter-8.4.3.1.jar returned status 404
 9.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mi/dev/mint/chartboost-adapter/9.0.0.1/chartboost-adapter-9.0.0.1.jar returned status 404

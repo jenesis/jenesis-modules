@@ -17,3 +17,8 @@
 1.8.1		2016-07-08T16:26:42Z	
 1.8.2		2017-11-08T20:35:12Z	
 1.9		2016-10-09T08:25:57Z	
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logitags/cibet/2.0/cibet-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logitags/cibet/2.1/cibet-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logitags/cibet/2.2/cibet-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logitags/cibet/2.2.1/cibet-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logitags/cibet/2.2.2/cibet-2.2.2.jar returned status 404

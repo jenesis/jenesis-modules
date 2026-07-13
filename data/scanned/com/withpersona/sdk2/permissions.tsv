@@ -9,3 +9,4 @@
 2.45.1		2026-07-06T21:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/permissions/2.45.1/permissions-2.45.1.jar returned status 404
 2.46.0		2026-07-02T23:12:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/permissions/2.46.0/permissions-2.46.0.jar returned status 404
 2.46.1		2026-07-03T07:10:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/permissions/2.46.1/permissions-2.46.1.jar returned status 404
+2.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/permissions/2.47.0/permissions-2.47.0.jar returned status 404
