@@ -1,6 +1,7 @@
 1.19.3		2020-07-14T19:55:58Z	
 1.19.4		2020-07-21T21:05:12Z	
 1.20.0		2020-07-28T21:47:07Z	
+1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/oci/sdk/oci-java-sdk-blockchain/1.21.0/oci-java-sdk-blockchain-1.21.0.jar returned status 404
 1.22.0		2020-08-11T21:09:57Z	
 1.22.1		2020-08-18T22:38:31Z	
 1.23.0		2020-09-02T05:13:09Z	
@@ -305,3 +306,4 @@
 3.90.0		2026-06-16T21:14:50Z	
 3.90.1		2026-06-23T18:00:42Z	
 3.91.0		2026-06-30T19:09:45Z	
+3.91.1			

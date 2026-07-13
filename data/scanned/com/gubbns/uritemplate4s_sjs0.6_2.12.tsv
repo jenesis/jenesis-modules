@@ -102,6 +102,7 @@
 0.5.6+18-2006ec7e		2020-01-29T20:45:01Z	
 0.5.6+2-a2472e7c		2019-12-26T09:49:46Z	
 0.5.6+20-545aba66		2020-02-03T23:16:35Z	
+0.5.6+22-740206a7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gubbns/uritemplate4s_sjs0.6_2.12/0.5.6+22-740206a7/uritemplate4s_sjs0.6_2.12-0.5.6+22-740206a7.jar returned status 404
 0.5.6+24-5025177c		2020-02-07T05:51:16Z	
 0.5.6+26-0a968c0f		2020-02-08T02:05:17Z	
 0.5.6+28-56a1ca42		2020-02-10T22:16:51Z	

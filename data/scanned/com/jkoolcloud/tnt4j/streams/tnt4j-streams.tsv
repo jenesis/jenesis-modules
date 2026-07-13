@@ -20,6 +20,16 @@
 1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.12.2/tnt4j-streams-1.12.2.jar returned status 404
 1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.12.3/tnt4j-streams-1.12.3.jar returned status 404
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.13.0/tnt4j-streams-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.13.1/tnt4j-streams-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.13.2/tnt4j-streams-1.13.2.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.14.0/tnt4j-streams-1.14.0.jar returned status 404
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.14.1/tnt4j-streams-1.14.1.jar returned status 404
+1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.14.2/tnt4j-streams-1.14.2.jar returned status 404
+1.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.14.3/tnt4j-streams-1.14.3.jar returned status 404
+1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.15.0/tnt4j-streams-1.15.0.jar returned status 404
+1.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.15.1/tnt4j-streams-1.15.1.jar returned status 404
+1.15.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.15.1.1/tnt4j-streams-1.15.1.1.jar returned status 404
+1.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.15.2/tnt4j-streams-1.15.2.jar returned status 404
 1.2.0		2018-06-07T14:41:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.2.0/tnt4j-streams-1.2.0.jar returned status 404
 1.2.1		2018-06-21T13:59:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.2.1/tnt4j-streams-1.2.1.jar returned status 404
 1.3.0		2018-09-10T15:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.3.0/tnt4j-streams-1.3.0.jar returned status 404
@@ -35,3 +45,7 @@
 1.8.1		2019-05-22T11:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.8.1/tnt4j-streams-1.8.1.jar returned status 404
 1.9.0		2019-08-06T12:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.9.0/tnt4j-streams-1.9.0.jar returned status 404
 1.9.1		2019-09-23T08:23:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/1.9.1/tnt4j-streams-1.9.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/2.0.0/tnt4j-streams-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/2.1.0/tnt4j-streams-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/2.2.0/tnt4j-streams-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jkoolcloud/tnt4j/streams/tnt4j-streams/2.3.0/tnt4j-streams-2.3.0.jar returned status 404

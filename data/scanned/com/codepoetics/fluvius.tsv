@@ -1,3 +1,8 @@
 1.0		2017-06-02T14:30:19Z	
 1.1		2017-06-06T15:36:23Z	
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codepoetics/fluvius/1.10/fluvius-1.10.jar returned status 404
 1.2		2017-06-08T11:09:06Z	
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codepoetics/fluvius/1.4/fluvius-1.4.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codepoetics/fluvius/1.7/fluvius-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codepoetics/fluvius/1.8/fluvius-1.8.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codepoetics/fluvius/1.9/fluvius-1.9.jar returned status 404

@@ -44,3 +44,6 @@ org.apache.commons.io
 org.bouncycastle.pkix
 com.cedarsoftware.util
 com.cedarsoftware.io
+com.aitusoftware.babl
+com.rabbitmq.client
+com.rabbitmq.http.client

@@ -1,3 +1,9 @@
+2.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.10/oracle-spring-boot-starter-ucp-2.7.10.jar returned status 404
+2.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.11/oracle-spring-boot-starter-ucp-2.7.11.jar returned status 404
+2.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.12/oracle-spring-boot-starter-ucp-2.7.12.jar returned status 404
+2.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.7/oracle-spring-boot-starter-ucp-2.7.7.jar returned status 404
+2.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.8/oracle-spring-boot-starter-ucp-2.7.8.jar returned status 404
+2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/2.7.9/oracle-spring-boot-starter-ucp-2.7.9.jar returned status 404
 23.4.0		2023-11-20T20:17:11Z	
 24.2.0		2024-09-05T07:08:14Z	
 24.3.0		2024-10-10T08:03:38Z	
@@ -12,3 +18,10 @@
 26.1.1		2026-04-03T12:28:42Z	
 26.2.0		2026-05-19T07:58:50Z	
 26.2.1		2026-06-17T20:37:41Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.2/oracle-spring-boot-starter-ucp-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.3/oracle-spring-boot-starter-ucp-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.4/oracle-spring-boot-starter-ucp-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.5/oracle-spring-boot-starter-ucp-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.6/oracle-spring-boot-starter-ucp-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.0.7/oracle-spring-boot-starter-ucp-3.0.7.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/spring/oracle-spring-boot-starter-ucp/3.1.0/oracle-spring-boot-starter-ucp-3.1.0.jar returned status 404
