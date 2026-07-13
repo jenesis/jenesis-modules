@@ -9,3 +9,8 @@
 265		2017-04-21T08:07:38Z	
 266		2017-07-20T19:47:21Z	
 267		2017-08-28T15:13:29Z	
+268			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-docker-test/268/jmxtrans-docker-test-268.jar returned status 404
+269			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-docker-test/269/jmxtrans-docker-test-269.jar returned status 404
+270			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-docker-test/270/jmxtrans-docker-test-270.jar returned status 404
+271			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-docker-test/271/jmxtrans-docker-test-271.jar returned status 404
+272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmxtrans/jmxtrans-docker-test/272/jmxtrans-docker-test-272.jar returned status 404

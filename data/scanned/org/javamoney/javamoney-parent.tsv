@@ -1,1 +1,10 @@
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/0.4/javamoney-parent-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/0.5/javamoney-parent-0.5.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.0/javamoney-parent-1.0.jar returned status 404
+1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.0-RC1/javamoney-parent-1.0-RC1.jar returned status 404
+1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.0-RC2/javamoney-parent-1.0-RC2.jar returned status 404
+1.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.0-RC3/javamoney-parent-1.0-RC3.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.1/javamoney-parent-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.2/javamoney-parent-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.3/javamoney-parent-1.3.jar returned status 404
 1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javamoney/javamoney-parent/1.4/javamoney-parent-1.4.jar returned status 404

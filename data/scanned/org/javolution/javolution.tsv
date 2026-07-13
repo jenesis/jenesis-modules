@@ -1,3 +1,4 @@
 5.2.3		2007-09-06T11:29:08Z	
 5.2.6		2007-10-12T18:10:04Z	
 5.3.1		2010-05-20T00:38:21Z	
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/javolution/javolution/6.0.0/javolution-6.0.0.jar returned status 404
