@@ -15,6 +15,9 @@
 4.10.4		2026-06-12T07:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.4/tap-review-unity-4.10.4.jar returned status 404
 4.10.4-beta.2		2026-06-03T02:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.4-beta.2/tap-review-unity-4.10.4-beta.2.jar returned status 404
 4.10.5		2026-06-25T02:31:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.5/tap-review-unity-4.10.5.jar returned status 404
+4.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.6/tap-review-unity-4.10.6.jar returned status 404
+4.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.7/tap-review-unity-4.10.7.jar returned status 404
+4.10.7-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.10.7-alpha.1/tap-review-unity-4.10.7-alpha.1.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.4.0/tap-review-unity-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.4.1/tap-review-unity-4.4.1.jar returned status 404
 4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-review-unity/4.4.2/tap-review-unity-4.4.2.jar returned status 404

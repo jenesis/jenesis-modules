@@ -5,6 +5,7 @@
 1.0.2		2021-11-02T09:48:23Z	
 1.0.3		2021-11-02T10:05:08Z	
 1.0.4		2021-11-02T10:12:23Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/softnoesis/shakebug/ShakeBug/1.0.6/ShakeBug-1.0.6.jar returned status 404
 1.0.7		2021-11-13T12:44:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/softnoesis/shakebug/ShakeBug/1.0.7/ShakeBug-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/softnoesis/shakebug/ShakeBug/1.0.8/ShakeBug-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/softnoesis/shakebug/ShakeBug/1.0.9/ShakeBug-1.0.9.jar returned status 404

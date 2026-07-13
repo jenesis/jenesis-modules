@@ -3,6 +3,7 @@
 0.0.26		2019-05-06T13:33:31Z	
 0.0.26-rc2		2018-12-10T21:14:12Z	
 0.0.26-rc3		2019-01-24T16:51:41Z	
+0.0.26-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/masabi/swagwire/swagwire-codegen/0.0.26-rc4/swagwire-codegen-0.0.26-rc4.jar returned status 404
 0.0.26-rc5		2019-05-06T09:49:48Z	
 0.0.27		2019-07-02T11:30:10Z	
 1.0.0-openapi3		2020-04-01T15:12:47Z	

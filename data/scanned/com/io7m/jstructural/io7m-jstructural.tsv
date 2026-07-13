@@ -1,3 +1,9 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/2.0.0/io7m-jstructural-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/2.1.0/io7m-jstructural-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/3.0.0/io7m-jstructural-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/3.0.1/io7m-jstructural-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/3.1.0/io7m-jstructural-3.1.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/4.0.0/io7m-jstructural-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/4.1.0/io7m-jstructural-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/4.2.0/io7m-jstructural-4.2.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jstructural/io7m-jstructural/5.0.0/io7m-jstructural-5.0.0.jar returned status 404

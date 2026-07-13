@@ -1,6 +1,7 @@
 1.0.0		2021-01-25T03:54:35Z	
 1.0.1		2021-01-25T13:47:05Z	
 1.0.2		2021-01-26T10:33:57Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seelyn/tdmq-spring-boot-starter/1.0.3/tdmq-spring-boot-starter-1.0.3.jar returned status 404
 1.0.4		2021-01-28T06:40:39Z	
 1.0.5		2021-01-30T08:59:37Z	
 1.0.6		2021-03-22T08:20:51Z	

@@ -15,6 +15,9 @@
 4.10.4		2026-06-12T07:43:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.4/tap-relation-lite-unity-4.10.4.jar returned status 404
 4.10.4-beta.2		2026-06-03T02:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.4-beta.2/tap-relation-lite-unity-4.10.4-beta.2.jar returned status 404
 4.10.5		2026-06-25T02:31:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.5/tap-relation-lite-unity-4.10.5.jar returned status 404
+4.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.6/tap-relation-lite-unity-4.10.6.jar returned status 404
+4.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.7/tap-relation-lite-unity-4.10.7.jar returned status 404
+4.10.7-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.10.7-alpha.1/tap-relation-lite-unity-4.10.7-alpha.1.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.6.1/tap-relation-lite-unity-4.6.1.jar returned status 404
 4.6.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.6.1-beta.1/tap-relation-lite-unity-4.6.1-beta.1.jar returned status 404
 4.6.1-beta.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/sdk/tap-relation-lite-unity/4.6.1-beta.10/tap-relation-lite-unity-4.6.1-beta.10.jar returned status 404

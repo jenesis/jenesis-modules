@@ -5,4 +5,7 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/1.0.2/com.io7m.jbssio-1.0.2.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/1.1.0/com.io7m.jbssio-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/1.1.1/com.io7m.jbssio-1.1.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/2.0.0/com.io7m.jbssio-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/2.1.0/com.io7m.jbssio-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/3.0.0/com.io7m.jbssio-3.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/io7m/jbssio/com.io7m.jbssio/4.0.0/com.io7m.jbssio-4.0.0.jar returned status 404

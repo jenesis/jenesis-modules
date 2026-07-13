@@ -1,3 +1,16 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/1/adeptj-modules-bom-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/10/adeptj-modules-bom-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/11/adeptj-modules-bom-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/12/adeptj-modules-bom-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/13/adeptj-modules-bom-13.jar returned status 404
 14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/14/adeptj-modules-bom-14.jar returned status 404
 15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/15/adeptj-modules-bom-15.jar returned status 404
 16		2026-06-30T03:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/16/adeptj-modules-bom-16.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/2/adeptj-modules-bom-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/3/adeptj-modules-bom-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/4/adeptj-modules-bom-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/5/adeptj-modules-bom-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/6/adeptj-modules-bom-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/7/adeptj-modules-bom-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/8/adeptj-modules-bom-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-modules-bom/9/adeptj-modules-bom-9.jar returned status 404
