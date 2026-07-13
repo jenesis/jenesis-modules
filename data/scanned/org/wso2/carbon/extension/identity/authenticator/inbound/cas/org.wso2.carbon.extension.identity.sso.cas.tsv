@@ -11,6 +11,11 @@
 2.0.16		2021-06-07T17:45:20Z	
 2.0.17		2021-06-11T19:28:14Z	
 2.0.18		2021-09-23T17:42:24Z	
+2.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/inbound/cas/org.wso2.carbon.extension.identity.sso.cas/2.0.19/org.wso2.carbon.extension.identity.sso.cas-2.0.19.jar returned status 404
 2.0.2		2018-02-09T10:22:05Z	
 2.0.20		2024-04-16T04:45:28Z	
 2.0.3		2019-03-10T12:11:32Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/inbound/cas/org.wso2.carbon.extension.identity.sso.cas/2.0.4/org.wso2.carbon.extension.identity.sso.cas-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/inbound/cas/org.wso2.carbon.extension.identity.sso.cas/2.0.5/org.wso2.carbon.extension.identity.sso.cas-2.0.5.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/inbound/cas/org.wso2.carbon.extension.identity.sso.cas/2.0.7/org.wso2.carbon.extension.identity.sso.cas-2.0.7.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/authenticator/inbound/cas/org.wso2.carbon.extension.identity.sso.cas/2.0.9/org.wso2.carbon.extension.identity.sso.cas-2.0.9.jar returned status 404

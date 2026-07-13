@@ -2,14 +2,35 @@
 1.0.1		2021-07-09T04:30:34Z	
 1.0.2		2021-10-01T05:49:13Z	
 1.0.3		2023-03-23T10:21:50Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.0.5/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.0.5.jar returned status 404
 1.0.6		2026-01-09T10:25:22Z	
 1.0.7		2026-02-11T08:56:40Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.0/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.1/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.1.jar returned status 404
 1.1.10		2024-07-15T08:52:40Z	
+1.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.11/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.11.jar returned status 404
+1.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.12/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.12.jar returned status 404
+1.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.13/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.13.jar returned status 404
+1.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.14/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.14.jar returned status 404
+1.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.15/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.15.jar returned status 404
+1.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.16/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.16.jar returned status 404
+1.1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.17/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.17.jar returned status 404
+1.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.18/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.18.jar returned status 404
+1.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.19/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.19.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.2/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.2.jar returned status 404
+1.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.20/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.20.jar returned status 404
+1.1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.21/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.21.jar returned status 404
 1.1.22		2026-01-13T03:32:11Z	
 1.1.23		2026-01-14T05:27:50Z	
 1.1.24		2026-01-18T11:19:03Z	
 1.1.25		2026-01-28T09:54:55Z	
 1.1.26		2026-02-06T02:51:27Z	
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.3/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.4/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.5/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.6/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.7/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/extension/identity/oauth2/grantType/token/exchange/org.wso2.carbon.identity.oauth2.grant.token.exchange/1.1.8/org.wso2.carbon.identity.oauth2.grant.token.exchange-1.1.8.jar returned status 404
 1.1.9		2024-06-12T08:14:06Z	
 1.2.0		2026-02-12T05:01:40Z	
 1.3.0		2026-02-18T06:51:28Z	
