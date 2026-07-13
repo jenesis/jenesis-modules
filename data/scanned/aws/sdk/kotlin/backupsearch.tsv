@@ -376,3 +376,5 @@
 1.8.0		2026-07-07T18:50:21Z	
 1.8.1		2026-07-08T18:50:37Z	
 1.8.2		2026-07-08T23:50:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/backupsearch/1.8.2/backupsearch-1.8.2.jar returned status 404
+1.8.3			
+1.8.4			

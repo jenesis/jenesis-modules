@@ -777,3 +777,5 @@
 1.8.0		2026-07-07T18:49:53Z	
 1.8.1		2026-07-08T18:50:22Z	
 1.8.2		2026-07-08T23:50:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/budgets/1.8.2/budgets-1.8.2.jar returned status 404
+1.8.3			
+1.8.4			

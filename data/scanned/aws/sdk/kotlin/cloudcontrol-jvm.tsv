@@ -789,3 +789,5 @@
 1.8.1	optimized	2026-07-08T18:49:49Z	
 1.8.2		2026-07-08T23:50:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudcontrol-jvm/1.8.2/cloudcontrol-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/cloudcontrol-jvm/1.8.2/cloudcontrol-jvm-1.8.2-optimized.jar returned status 404
+1.8.3			
+1.8.4			

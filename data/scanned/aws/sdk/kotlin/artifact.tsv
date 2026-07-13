@@ -579,3 +579,5 @@
 1.8.0		2026-07-07T18:50:09Z	
 1.8.1		2026-07-08T18:50:40Z	
 1.8.2		2026-07-08T23:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/artifact/1.8.2/artifact-1.8.2.jar returned status 404
+1.8.3			
+1.8.4			

@@ -13,6 +13,7 @@
 1.4.0		2019-09-20T17:45:32Z	
 1.4.1		2019-10-04T02:05:14Z	
 1.4.2		2019-10-18T16:14:35Z	
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentracing/contrib/specialagent/agentrule-maven-plugin/1.5.0/agentrule-maven-plugin-1.5.0.jar returned status 404
 1.5.1		2019-11-15T12:11:56Z	
 1.5.2		2019-11-30T06:00:27Z	
 1.5.3		2019-12-13T13:02:55Z	
