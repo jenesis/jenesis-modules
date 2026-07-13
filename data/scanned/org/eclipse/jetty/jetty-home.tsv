@@ -1,5 +1,92 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0/jetty-home-10.0.0.jar returned status 404
+10.0.0-alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0-alpha0/jetty-home-10.0.0-alpha0.jar returned status 404
+10.0.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.alpha1/jetty-home-10.0.0.alpha1.jar returned status 404
+10.0.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.alpha2/jetty-home-10.0.0.alpha2.jar returned status 404
+10.0.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.beta0/jetty-home-10.0.0.beta0.jar returned status 404
+10.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.beta1/jetty-home-10.0.0.beta1.jar returned status 404
+10.0.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.beta2/jetty-home-10.0.0.beta2.jar returned status 404
+10.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.0.beta3/jetty-home-10.0.0.beta3.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.1/jetty-home-10.0.1.jar returned status 404
+10.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.10/jetty-home-10.0.10.jar returned status 404
+10.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.11/jetty-home-10.0.11.jar returned status 404
+10.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.12/jetty-home-10.0.12.jar returned status 404
+10.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.13/jetty-home-10.0.13.jar returned status 404
+10.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.14/jetty-home-10.0.14.jar returned status 404
+10.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.15/jetty-home-10.0.15.jar returned status 404
+10.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.16/jetty-home-10.0.16.jar returned status 404
+10.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.17/jetty-home-10.0.17.jar returned status 404
+10.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.18/jetty-home-10.0.18.jar returned status 404
+10.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.19/jetty-home-10.0.19.jar returned status 404
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.2/jetty-home-10.0.2.jar returned status 404
+10.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.20/jetty-home-10.0.20.jar returned status 404
+10.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.21/jetty-home-10.0.21.jar returned status 404
+10.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.22/jetty-home-10.0.22.jar returned status 404
+10.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.23/jetty-home-10.0.23.jar returned status 404
+10.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.24/jetty-home-10.0.24.jar returned status 404
+10.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.25/jetty-home-10.0.25.jar returned status 404
 10.0.26		2025-08-14T16:05:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.26/jetty-home-10.0.26.jar returned status 404
+10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.3/jetty-home-10.0.3.jar returned status 404
+10.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.4/jetty-home-10.0.4.jar returned status 404
+10.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.5/jetty-home-10.0.5.jar returned status 404
+10.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.6/jetty-home-10.0.6.jar returned status 404
+10.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.7/jetty-home-10.0.7.jar returned status 404
+10.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.8/jetty-home-10.0.8.jar returned status 404
+10.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/10.0.9/jetty-home-10.0.9.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.0/jetty-home-11.0.0.jar returned status 404
+11.0.0-alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.0-alpha0/jetty-home-11.0.0-alpha0.jar returned status 404
+11.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.0.beta1/jetty-home-11.0.0.beta1.jar returned status 404
+11.0.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.0.beta2/jetty-home-11.0.0.beta2.jar returned status 404
+11.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.0.beta3/jetty-home-11.0.0.beta3.jar returned status 404
+11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.1/jetty-home-11.0.1.jar returned status 404
+11.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.10/jetty-home-11.0.10.jar returned status 404
+11.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.11/jetty-home-11.0.11.jar returned status 404
+11.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.12/jetty-home-11.0.12.jar returned status 404
+11.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.13/jetty-home-11.0.13.jar returned status 404
+11.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.14/jetty-home-11.0.14.jar returned status 404
+11.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.15/jetty-home-11.0.15.jar returned status 404
+11.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.16/jetty-home-11.0.16.jar returned status 404
+11.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.17/jetty-home-11.0.17.jar returned status 404
+11.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.18/jetty-home-11.0.18.jar returned status 404
+11.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.19/jetty-home-11.0.19.jar returned status 404
+11.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.2/jetty-home-11.0.2.jar returned status 404
+11.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.20/jetty-home-11.0.20.jar returned status 404
+11.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.21/jetty-home-11.0.21.jar returned status 404
+11.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.22/jetty-home-11.0.22.jar returned status 404
+11.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.23/jetty-home-11.0.23.jar returned status 404
+11.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.24/jetty-home-11.0.24.jar returned status 404
+11.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.25/jetty-home-11.0.25.jar returned status 404
 11.0.26		2025-08-14T18:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.26/jetty-home-11.0.26.jar returned status 404
+11.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.3/jetty-home-11.0.3.jar returned status 404
+11.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.4/jetty-home-11.0.4.jar returned status 404
+11.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.5/jetty-home-11.0.5.jar returned status 404
+11.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.6/jetty-home-11.0.6.jar returned status 404
+11.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.7/jetty-home-11.0.7.jar returned status 404
+11.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.8/jetty-home-11.0.8.jar returned status 404
+11.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/11.0.9/jetty-home-11.0.9.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0/jetty-home-12.0.0.jar returned status 404
+12.0.0.alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.alpha0/jetty-home-12.0.0.alpha0.jar returned status 404
+12.0.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.alpha1/jetty-home-12.0.0.alpha1.jar returned status 404
+12.0.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.alpha2/jetty-home-12.0.0.alpha2.jar returned status 404
+12.0.0.alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.alpha3/jetty-home-12.0.0.alpha3.jar returned status 404
+12.0.0.beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.beta0/jetty-home-12.0.0.beta0.jar returned status 404
+12.0.0.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.beta1/jetty-home-12.0.0.beta1.jar returned status 404
+12.0.0.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.beta2/jetty-home-12.0.0.beta2.jar returned status 404
+12.0.0.beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.beta3/jetty-home-12.0.0.beta3.jar returned status 404
+12.0.0.beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.0.beta4/jetty-home-12.0.0.beta4.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.1/jetty-home-12.0.1.jar returned status 404
+12.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.10/jetty-home-12.0.10.jar returned status 404
+12.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.11/jetty-home-12.0.11.jar returned status 404
+12.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.12/jetty-home-12.0.12.jar returned status 404
+12.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.13/jetty-home-12.0.13.jar returned status 404
+12.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.14/jetty-home-12.0.14.jar returned status 404
+12.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.15/jetty-home-12.0.15.jar returned status 404
+12.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.16/jetty-home-12.0.16.jar returned status 404
+12.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.17/jetty-home-12.0.17.jar returned status 404
+12.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.18/jetty-home-12.0.18.jar returned status 404
+12.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.19/jetty-home-12.0.19.jar returned status 404
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.2/jetty-home-12.0.2.jar returned status 404
+12.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.20/jetty-home-12.0.20.jar returned status 404
+12.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.21/jetty-home-12.0.21.jar returned status 404
 12.0.22		2025-06-02T15:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.22/jetty-home-12.0.22.jar returned status 404
 12.0.23		2025-07-02T14:15:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.23/jetty-home-12.0.23.jar returned status 404
 12.0.24		2025-08-04T23:58:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.24/jetty-home-12.0.24.jar returned status 404
@@ -8,6 +95,7 @@
 12.0.27		2025-09-11T00:05:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.27/jetty-home-12.0.27.jar returned status 404
 12.0.28		2025-10-03T16:21:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.28/jetty-home-12.0.28.jar returned status 404
 12.0.29		2025-10-16T15:27:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.29/jetty-home-12.0.29.jar returned status 404
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.3/jetty-home-12.0.3.jar returned status 404
 12.0.30		2025-11-10T17:08:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.30/jetty-home-12.0.30.jar returned status 404
 12.0.31		2025-12-03T21:48:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.31/jetty-home-12.0.31.jar returned status 404
 12.0.32		2026-01-27T19:16:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.32/jetty-home-12.0.32.jar returned status 404
@@ -15,13 +103,24 @@
 12.0.34		2026-04-01T05:54:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.34/jetty-home-12.0.34.jar returned status 404
 12.0.35		2026-05-01T05:52:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.35/jetty-home-12.0.35.jar returned status 404
 12.0.36		2026-05-31T22:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.36/jetty-home-12.0.36.jar returned status 404
+12.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.37/jetty-home-12.0.37.jar returned status 404
+12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.4/jetty-home-12.0.4.jar returned status 404
+12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.5/jetty-home-12.0.5.jar returned status 404
+12.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.6/jetty-home-12.0.6.jar returned status 404
+12.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.7/jetty-home-12.0.7.jar returned status 404
+12.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.8/jetty-home-12.0.8.jar returned status 404
+12.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.0.9/jetty-home-12.0.9.jar returned status 404
 12.1.0		2025-08-15T05:13:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0/jetty-home-12.1.0.jar returned status 404
+12.1.0.alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.alpha0/jetty-home-12.1.0.alpha0.jar returned status 404
+12.1.0.alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.alpha1/jetty-home-12.1.0.alpha1.jar returned status 404
+12.1.0.alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.alpha2/jetty-home-12.1.0.alpha2.jar returned status 404
 12.1.0.beta0		2025-05-18T23:47:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.beta0/jetty-home-12.1.0.beta0.jar returned status 404
 12.1.0.beta1		2025-06-19T18:53:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.beta1/jetty-home-12.1.0.beta1.jar returned status 404
 12.1.0.beta2		2025-07-18T19:53:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.beta2/jetty-home-12.1.0.beta2.jar returned status 404
 12.1.0.beta3		2025-08-12T00:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.0.beta3/jetty-home-12.1.0.beta3.jar returned status 404
 12.1.1		2025-09-08T04:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.1/jetty-home-12.1.1.jar returned status 404
 12.1.10		2026-05-31T04:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.10/jetty-home-12.1.10.jar returned status 404
+12.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.11/jetty-home-12.1.11.jar returned status 404
 12.1.2		2025-10-07T23:34:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.2/jetty-home-12.1.2.jar returned status 404
 12.1.3		2025-10-16T14:25:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.3/jetty-home-12.1.3.jar returned status 404
 12.1.4		2025-11-10T17:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.4/jetty-home-12.1.4.jar returned status 404
@@ -30,4 +129,82 @@
 12.1.7		2026-03-04T00:49:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.7/jetty-home-12.1.7.jar returned status 404
 12.1.8		2026-04-01T01:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.8/jetty-home-12.1.8.jar returned status 404
 12.1.9		2026-05-01T03:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/12.1.9/jetty-home-12.1.9.jar returned status 404
+9.4.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.M1/jetty-home-9.4.0.M1.jar returned status 404
+9.4.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.RC0/jetty-home-9.4.0.RC0.jar returned status 404
+9.4.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.RC1/jetty-home-9.4.0.RC1.jar returned status 404
+9.4.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.RC2/jetty-home-9.4.0.RC2.jar returned status 404
+9.4.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.RC3/jetty-home-9.4.0.RC3.jar returned status 404
+9.4.0.v20161208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.v20161208/jetty-home-9.4.0.v20161208.jar returned status 404
+9.4.0.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.0.v20180619/jetty-home-9.4.0.v20180619.jar returned status 404
+9.4.1.v20170120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.1.v20170120/jetty-home-9.4.1.v20170120.jar returned status 404
+9.4.1.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.1.v20180619/jetty-home-9.4.1.v20180619.jar returned status 404
+9.4.10.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.10.RC0/jetty-home-9.4.10.RC0.jar returned status 404
+9.4.10.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.10.RC1/jetty-home-9.4.10.RC1.jar returned status 404
+9.4.10.v20180503			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.10.v20180503/jetty-home-9.4.10.v20180503.jar returned status 404
+9.4.11.v20180605			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.11.v20180605/jetty-home-9.4.11.v20180605.jar returned status 404
+9.4.12.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.12.RC0/jetty-home-9.4.12.RC0.jar returned status 404
+9.4.12.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.12.RC1/jetty-home-9.4.12.RC1.jar returned status 404
+9.4.12.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.12.RC2/jetty-home-9.4.12.RC2.jar returned status 404
+9.4.12.v20180830			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.12.v20180830/jetty-home-9.4.12.v20180830.jar returned status 404
+9.4.13.v20181111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.13.v20181111/jetty-home-9.4.13.v20181111.jar returned status 404
+9.4.14.v20181114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.14.v20181114/jetty-home-9.4.14.v20181114.jar returned status 404
+9.4.15.v20190215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.15.v20190215/jetty-home-9.4.15.v20190215.jar returned status 404
+9.4.16.v20190411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.16.v20190411/jetty-home-9.4.16.v20190411.jar returned status 404
+9.4.17.v20190418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.17.v20190418/jetty-home-9.4.17.v20190418.jar returned status 404
+9.4.18.v20190429			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.18.v20190429/jetty-home-9.4.18.v20190429.jar returned status 404
+9.4.19.v20190610			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.19.v20190610/jetty-home-9.4.19.v20190610.jar returned status 404
+9.4.2.v20170220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.2.v20170220/jetty-home-9.4.2.v20170220.jar returned status 404
+9.4.2.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.2.v20180619/jetty-home-9.4.2.v20180619.jar returned status 404
+9.4.20.v20190813			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.20.v20190813/jetty-home-9.4.20.v20190813.jar returned status 404
+9.4.21.v20190926			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.21.v20190926/jetty-home-9.4.21.v20190926.jar returned status 404
+9.4.22.v20191022			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.22.v20191022/jetty-home-9.4.22.v20191022.jar returned status 404
+9.4.23.v20191118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.23.v20191118/jetty-home-9.4.23.v20191118.jar returned status 404
+9.4.24.v20191120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.24.v20191120/jetty-home-9.4.24.v20191120.jar returned status 404
+9.4.25.v20191220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.25.v20191220/jetty-home-9.4.25.v20191220.jar returned status 404
+9.4.26.v20200117			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.26.v20200117/jetty-home-9.4.26.v20200117.jar returned status 404
+9.4.27.v20200227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.27.v20200227/jetty-home-9.4.27.v20200227.jar returned status 404
+9.4.28.v20200408			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.28.v20200408/jetty-home-9.4.28.v20200408.jar returned status 404
+9.4.29.v20200521			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.29.v20200521/jetty-home-9.4.29.v20200521.jar returned status 404
+9.4.3.v20170317			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.3.v20170317/jetty-home-9.4.3.v20170317.jar returned status 404
+9.4.3.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.3.v20180619/jetty-home-9.4.3.v20180619.jar returned status 404
+9.4.30.v20200611			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.30.v20200611/jetty-home-9.4.30.v20200611.jar returned status 404
+9.4.31.v20200723			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.31.v20200723/jetty-home-9.4.31.v20200723.jar returned status 404
+9.4.32.v20200930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.32.v20200930/jetty-home-9.4.32.v20200930.jar returned status 404
+9.4.33.v20201020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.33.v20201020/jetty-home-9.4.33.v20201020.jar returned status 404
+9.4.34.v20201102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.34.v20201102/jetty-home-9.4.34.v20201102.jar returned status 404
+9.4.35.v20201120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.35.v20201120/jetty-home-9.4.35.v20201120.jar returned status 404
+9.4.36.v20210114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.36.v20210114/jetty-home-9.4.36.v20210114.jar returned status 404
+9.4.37.v20210219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.37.v20210219/jetty-home-9.4.37.v20210219.jar returned status 404
+9.4.38.v20210224			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.38.v20210224/jetty-home-9.4.38.v20210224.jar returned status 404
+9.4.39.v20210325			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.39.v20210325/jetty-home-9.4.39.v20210325.jar returned status 404
+9.4.4.v20170414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.4.v20170414/jetty-home-9.4.4.v20170414.jar returned status 404
+9.4.4.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.4.v20180619/jetty-home-9.4.4.v20180619.jar returned status 404
+9.4.40.v20210413			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.40.v20210413/jetty-home-9.4.40.v20210413.jar returned status 404
+9.4.41.v20210516			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.41.v20210516/jetty-home-9.4.41.v20210516.jar returned status 404
+9.4.42.v20210604			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.42.v20210604/jetty-home-9.4.42.v20210604.jar returned status 404
+9.4.43.v20210629			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.43.v20210629/jetty-home-9.4.43.v20210629.jar returned status 404
+9.4.44.v20210927			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.44.v20210927/jetty-home-9.4.44.v20210927.jar returned status 404
+9.4.45.v20220203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.45.v20220203/jetty-home-9.4.45.v20220203.jar returned status 404
+9.4.46.v20220331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.46.v20220331/jetty-home-9.4.46.v20220331.jar returned status 404
+9.4.47.v20220610			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.47.v20220610/jetty-home-9.4.47.v20220610.jar returned status 404
+9.4.48.v20220622			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.48.v20220622/jetty-home-9.4.48.v20220622.jar returned status 404
+9.4.49.v20220914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.49.v20220914/jetty-home-9.4.49.v20220914.jar returned status 404
+9.4.5.v20170502			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.5.v20170502/jetty-home-9.4.5.v20170502.jar returned status 404
+9.4.5.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.5.v20180619/jetty-home-9.4.5.v20180619.jar returned status 404
+9.4.50.v20221201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.50.v20221201/jetty-home-9.4.50.v20221201.jar returned status 404
+9.4.51.v20230217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.51.v20230217/jetty-home-9.4.51.v20230217.jar returned status 404
+9.4.52.v20230823			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.52.v20230823/jetty-home-9.4.52.v20230823.jar returned status 404
+9.4.53.v20231009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.53.v20231009/jetty-home-9.4.53.v20231009.jar returned status 404
+9.4.54.v20240208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.54.v20240208/jetty-home-9.4.54.v20240208.jar returned status 404
+9.4.55.v20240627			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.55.v20240627/jetty-home-9.4.55.v20240627.jar returned status 404
+9.4.56.v20240826			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.56.v20240826/jetty-home-9.4.56.v20240826.jar returned status 404
+9.4.57.v20241219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.57.v20241219/jetty-home-9.4.57.v20241219.jar returned status 404
 9.4.58.v20250814		2025-08-14T02:32:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.58.v20250814/jetty-home-9.4.58.v20250814.jar returned status 404
+9.4.6.v20170531			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.6.v20170531/jetty-home-9.4.6.v20170531.jar returned status 404
+9.4.6.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.6.v20180619/jetty-home-9.4.6.v20180619.jar returned status 404
+9.4.7.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.7.RC0/jetty-home-9.4.7.RC0.jar returned status 404
+9.4.7.v20170914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.7.v20170914/jetty-home-9.4.7.v20170914.jar returned status 404
+9.4.7.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.7.v20180619/jetty-home-9.4.7.v20180619.jar returned status 404
+9.4.8.v20171121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.8.v20171121/jetty-home-9.4.8.v20171121.jar returned status 404
+9.4.8.v20180619			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.8.v20180619/jetty-home-9.4.8.v20180619.jar returned status 404
+9.4.9.v20180320			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/jetty-home/9.4.9.v20180320/jetty-home-9.4.9.v20180320.jar returned status 404

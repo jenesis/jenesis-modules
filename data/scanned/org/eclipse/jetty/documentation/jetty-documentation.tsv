@@ -51,3 +51,11 @@
 12.0.0.beta3		2023-07-03T21:24:56Z	
 12.0.0.beta4		2023-07-26T22:43:15Z	
 12.0.1		2023-08-29T22:58:37Z	
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.2/jetty-documentation-12.0.2.jar returned status 404
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.3/jetty-documentation-12.0.3.jar returned status 404
+12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.4/jetty-documentation-12.0.4.jar returned status 404
+12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.5/jetty-documentation-12.0.5.jar returned status 404
+12.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.6/jetty-documentation-12.0.6.jar returned status 404
+12.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.7/jetty-documentation-12.0.7.jar returned status 404
+12.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.8/jetty-documentation-12.0.8.jar returned status 404
+12.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/documentation/jetty-documentation/12.0.9/jetty-documentation-12.0.9.jar returned status 404
