@@ -20,8 +20,29 @@
 2.17.0		2017-07-22T02:11:25Z	
 2.18.0		2017-09-02T01:49:30Z	
 2.18.1		2017-10-24T19:00:43Z	
+2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.19.0/wolkenpumpe_2.11-2.19.0.jar returned status 404
 2.2.0		2015-09-29T19:16:12Z	
+2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.20.0/wolkenpumpe_2.11-2.20.0.jar returned status 404
+2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.21.0/wolkenpumpe_2.11-2.21.0.jar returned status 404
+2.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.21.1/wolkenpumpe_2.11-2.21.1.jar returned status 404
+2.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.21.2/wolkenpumpe_2.11-2.21.2.jar returned status 404
+2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.22.0/wolkenpumpe_2.11-2.22.0.jar returned status 404
+2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.23.0/wolkenpumpe_2.11-2.23.0.jar returned status 404
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.24.0/wolkenpumpe_2.11-2.24.0.jar returned status 404
+2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.25.0/wolkenpumpe_2.11-2.25.0.jar returned status 404
+2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.26.0/wolkenpumpe_2.11-2.26.0.jar returned status 404
+2.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.27.0/wolkenpumpe_2.11-2.27.0.jar returned status 404
+2.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.28.0/wolkenpumpe_2.11-2.28.0.jar returned status 404
+2.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.28.1/wolkenpumpe_2.11-2.28.1.jar returned status 404
+2.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.28.2/wolkenpumpe_2.11-2.28.2.jar returned status 404
+2.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.29.0/wolkenpumpe_2.11-2.29.0.jar returned status 404
 2.3.0		2015-11-18T11:21:11Z	
+2.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.30.0/wolkenpumpe_2.11-2.30.0.jar returned status 404
+2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.31.0/wolkenpumpe_2.11-2.31.0.jar returned status 404
+2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.32.0/wolkenpumpe_2.11-2.32.0.jar returned status 404
+2.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.33.0/wolkenpumpe_2.11-2.33.0.jar returned status 404
+2.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.33.1/wolkenpumpe_2.11-2.33.1.jar returned status 404
+2.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/wolkenpumpe_2.11/2.34.0/wolkenpumpe_2.11-2.34.0.jar returned status 404
 2.4.0		2016-04-02T11:25:15Z	
 2.5.0		2016-04-17T17:15:44Z	
 2.6.0		2016-05-09T21:31:33Z	

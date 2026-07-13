@@ -1,3 +1,14 @@
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.10.0/crawler4j-with-urlfrontier-4.10.0.jar returned status 404
+4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.10.1/crawler4j-with-urlfrontier-4.10.1.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.8.0/crawler4j-with-urlfrontier-4.8.0.jar returned status 404
+4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.8.1/crawler4j-with-urlfrontier-4.8.1.jar returned status 404
+4.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.8.2/crawler4j-with-urlfrontier-4.8.2.jar returned status 404
+4.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.8.3/crawler4j-with-urlfrontier-4.8.3.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.9.0/crawler4j-with-urlfrontier-4.9.0.jar returned status 404
+4.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/4.9.1/crawler4j-with-urlfrontier-4.9.1.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.0.0/crawler4j-with-urlfrontier-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.0.1/crawler4j-with-urlfrontier-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.0.2/crawler4j-with-urlfrontier-5.0.2.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.1.0/crawler4j-with-urlfrontier-5.1.0.jar returned status 404
 5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.1.1/crawler4j-with-urlfrontier-5.1.1.jar returned status 404
 5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/hs-heilbronn/mi/crawler4j-with-urlfrontier/5.1.2/crawler4j-with-urlfrontier-5.1.2.jar returned status 404

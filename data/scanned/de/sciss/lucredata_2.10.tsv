@@ -1,1 +1,13 @@
 1.6.0		2012-12-30T21:05:53Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/1.7.0/lucredata_2.10-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/1.8.0/lucredata_2.10-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/1.9.0/lucredata_2.10-1.9.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.0.0/lucredata_2.10-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.1.0/lucredata_2.10-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.2.0/lucredata_2.10-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.2.1/lucredata_2.10-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.2.2/lucredata_2.10-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.2.3/lucredata_2.10-2.2.3.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.3.0/lucredata_2.10-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.3.1/lucredata_2.10-2.3.1.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucredata_2.10/2.3.3/lucredata_2.10-2.3.3.jar returned status 404

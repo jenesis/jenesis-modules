@@ -1,8 +1,84 @@
 0.34		2016-10-01T12:34:31Z	
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.10.0/soundprocesses_2.11-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.11.0/soundprocesses_2.11-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.12.0/soundprocesses_2.11-2.12.0.jar returned status 404
+2.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.14.1/soundprocesses_2.11-2.14.1.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.15.0/soundprocesses_2.11-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.16.0/soundprocesses_2.11-2.16.0.jar returned status 404
+2.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.17.0/soundprocesses_2.11-2.17.0.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.18.0/soundprocesses_2.11-2.18.0.jar returned status 404
+2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.18.1/soundprocesses_2.11-2.18.1.jar returned status 404
 2.2.0		2014-04-22T12:15:16Z	
+2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.20.0/soundprocesses_2.11-2.20.0.jar returned status 404
+2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.21.0/soundprocesses_2.11-2.21.0.jar returned status 404
+2.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.21.1/soundprocesses_2.11-2.21.1.jar returned status 404
 2.3.0		2014-04-30T13:00:18Z	
 2.3.1		2014-04-30T23:03:07Z	
 2.4.0		2014-06-14T20:35:49Z	
 2.5.0		2014-07-30T13:04:59Z	
 2.6.0		2014-09-03T00:16:22Z	
 2.6.1		2014-09-04T22:53:22Z	
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.7.0/soundprocesses_2.11-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.8.0/soundprocesses_2.11-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.8.1/soundprocesses_2.11-2.8.1.jar returned status 404
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.8.2/soundprocesses_2.11-2.8.2.jar returned status 404
+2.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.8.3/soundprocesses_2.11-2.8.3.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/2.9.0/soundprocesses_2.11-2.9.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.1.0/soundprocesses_2.11-3.1.0.jar returned status 404
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.10.0/soundprocesses_2.11-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.10.1/soundprocesses_2.11-3.10.1.jar returned status 404
+3.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.10.2/soundprocesses_2.11-3.10.2.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.11.0/soundprocesses_2.11-3.11.0.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.0/soundprocesses_2.11-3.12.0.jar returned status 404
+3.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.1/soundprocesses_2.11-3.12.1.jar returned status 404
+3.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.2/soundprocesses_2.11-3.12.2.jar returned status 404
+3.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.3/soundprocesses_2.11-3.12.3.jar returned status 404
+3.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.4/soundprocesses_2.11-3.12.4.jar returned status 404
+3.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.12.5/soundprocesses_2.11-3.12.5.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.13.0/soundprocesses_2.11-3.13.0.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.14.0/soundprocesses_2.11-3.14.0.jar returned status 404
+3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.14.1/soundprocesses_2.11-3.14.1.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.15.0/soundprocesses_2.11-3.15.0.jar returned status 404
+3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.16.0/soundprocesses_2.11-3.16.0.jar returned status 404
+3.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.16.1/soundprocesses_2.11-3.16.1.jar returned status 404
+3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.17.0/soundprocesses_2.11-3.17.0.jar returned status 404
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.18.0/soundprocesses_2.11-3.18.0.jar returned status 404
+3.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.19.0/soundprocesses_2.11-3.19.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.2.0/soundprocesses_2.11-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.2.1/soundprocesses_2.11-3.2.1.jar returned status 404
+3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.20.0/soundprocesses_2.11-3.20.0.jar returned status 404
+3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.20.1/soundprocesses_2.11-3.20.1.jar returned status 404
+3.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.20.2/soundprocesses_2.11-3.20.2.jar returned status 404
+3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.21.0/soundprocesses_2.11-3.21.0.jar returned status 404
+3.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.21.1/soundprocesses_2.11-3.21.1.jar returned status 404
+3.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.21.2/soundprocesses_2.11-3.21.2.jar returned status 404
+3.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.21.3/soundprocesses_2.11-3.21.3.jar returned status 404
+3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.22.0/soundprocesses_2.11-3.22.0.jar returned status 404
+3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.23.0/soundprocesses_2.11-3.23.0.jar returned status 404
+3.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.23.1/soundprocesses_2.11-3.23.1.jar returned status 404
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.24.0/soundprocesses_2.11-3.24.0.jar returned status 404
+3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.25.0/soundprocesses_2.11-3.25.0.jar returned status 404
+3.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.26.0/soundprocesses_2.11-3.26.0.jar returned status 404
+3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.27.0/soundprocesses_2.11-3.27.0.jar returned status 404
+3.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.27.1/soundprocesses_2.11-3.27.1.jar returned status 404
+3.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.28.0/soundprocesses_2.11-3.28.0.jar returned status 404
+3.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.28.1/soundprocesses_2.11-3.28.1.jar returned status 404
+3.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.29.0/soundprocesses_2.11-3.29.0.jar returned status 404
+3.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.29.1/soundprocesses_2.11-3.29.1.jar returned status 404
+3.29.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.29.2/soundprocesses_2.11-3.29.2.jar returned status 404
+3.29.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.29.3/soundprocesses_2.11-3.29.3.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.3.0/soundprocesses_2.11-3.3.0.jar returned status 404
+3.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.30.0/soundprocesses_2.11-3.30.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.4.0/soundprocesses_2.11-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.4.1/soundprocesses_2.11-3.4.1.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.5.0/soundprocesses_2.11-3.5.0.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.5.1/soundprocesses_2.11-3.5.1.jar returned status 404
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.5.2/soundprocesses_2.11-3.5.2.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.6.0/soundprocesses_2.11-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.6.1/soundprocesses_2.11-3.6.1.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.7.0/soundprocesses_2.11-3.7.0.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.8.0/soundprocesses_2.11-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.8.1/soundprocesses_2.11-3.8.1.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.9.0/soundprocesses_2.11-3.9.0.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.9.1/soundprocesses_2.11-3.9.1.jar returned status 404
+3.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/soundprocesses_2.11/3.9.2/soundprocesses_2.11-3.9.2.jar returned status 404

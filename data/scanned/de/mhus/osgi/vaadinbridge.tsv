@@ -1,1 +1,6 @@
 1.0.0		2014-04-30T12:00:33Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/mhus/osgi/vaadinbridge/1.0.1/vaadinbridge-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/mhus/osgi/vaadinbridge/1.0.2/vaadinbridge-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/mhus/osgi/vaadinbridge/1.0.3/vaadinbridge-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/mhus/osgi/vaadinbridge/1.0.4/vaadinbridge-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/mhus/osgi/vaadinbridge/1.0.5/vaadinbridge-1.0.5.jar returned status 404

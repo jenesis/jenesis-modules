@@ -1,1 +1,18 @@
 1.6.0		2012-12-30T21:23:13Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/1.7.0/lucreevent_2.10-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/1.8.0/lucreevent_2.10-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/1.9.0/lucreevent_2.10-1.9.0.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/1.9.1/lucreevent_2.10-1.9.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.0.0/lucreevent_2.10-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.1.0/lucreevent_2.10-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.2.0/lucreevent_2.10-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.3.0/lucreevent_2.10-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.4.0/lucreevent_2.10-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.5.0/lucreevent_2.10-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.6.0/lucreevent_2.10-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.6.1/lucreevent_2.10-2.6.1.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.7.0/lucreevent_2.10-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.7.1/lucreevent_2.10-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.7.2/lucreevent_2.10-2.7.2.jar returned status 404
+2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.7.3/lucreevent_2.10-2.7.3.jar returned status 404
+2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/sciss/lucreevent_2.10/2.7.5/lucreevent_2.10-2.7.5.jar returned status 404

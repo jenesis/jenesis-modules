@@ -3,6 +3,7 @@
 1.0.3		2020-08-07T11:15:21Z	
 2.0.1		2021-02-22T07:46:48Z	
 2.0.2		2021-02-23T10:51:50Z	
+2.0.2-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/dm/infrastructure/structured-logging/2.0.2-SNAPSHOT/structured-logging-2.0.2-SNAPSHOT.jar returned status 404
 2.0.3		2021-02-23T12:27:00Z	
 2.0.4		2021-04-08T12:17:13Z	
 2.0.5		2021-04-17T18:28:26Z	
@@ -12,3 +13,4 @@
 3.0.2		2025-01-08T13:39:13Z	
 4.0.0		2026-01-22T15:03:07Z	
 4.0.0-RC1		2025-11-28T15:50:18Z	
+4.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/dm/infrastructure/structured-logging/4.0.0-SNAPSHOT/structured-logging-4.0.0-SNAPSHOT.jar returned status 404

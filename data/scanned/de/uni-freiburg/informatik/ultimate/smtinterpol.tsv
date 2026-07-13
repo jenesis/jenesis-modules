@@ -17,4 +17,5 @@
 2.5-66-g453d36e		2019-01-28T15:29:15Z	
 2.5-732-gd208e931		2020-09-24T12:50:27Z	
 2.5-842-gfcd46532		2021-08-17T13:01:50Z	
+2.5-9-g01a790d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/uni-freiburg/informatik/ultimate/smtinterpol/2.5-9-g01a790d/smtinterpol-2.5-9-g01a790d.jar returned status 404
 2.5-916-ga5843d8b		2021-09-27T12:58:48Z	
