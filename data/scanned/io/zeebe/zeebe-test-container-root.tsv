@@ -1,1 +1,12 @@
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.5.0/zeebe-test-container-root-3.5.0.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.5.1/zeebe-test-container-root-3.5.1.jar returned status 404
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.5.2/zeebe-test-container-root-3.5.2.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.0/zeebe-test-container-root-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.1/zeebe-test-container-root-3.6.1.jar returned status 404
+3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.2/zeebe-test-container-root-3.6.2.jar returned status 404
+3.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.3/zeebe-test-container-root-3.6.3.jar returned status 404
+3.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.5/zeebe-test-container-root-3.6.5.jar returned status 404
 3.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.6/zeebe-test-container-root-3.6.6.jar returned status 404
+3.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.7/zeebe-test-container-root-3.6.7.jar returned status 404
+3.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.8/zeebe-test-container-root-3.6.8.jar returned status 404
+3.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/zeebe-test-container-root/3.6.9/zeebe-test-container-root-3.6.9.jar returned status 404

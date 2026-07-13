@@ -55,3 +55,45 @@
 1.7.4	jar-with-dependencies	2021-04-30T01:59:48Z	
 1.8.0		2022-03-11T17:36:49Z	
 1.8.0	jar-with-dependencies	2022-03-11T17:37:02Z	
+2.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha10/protostuff-compiler-2.0.0-alpha10.jar returned status 404
+2.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha11/protostuff-compiler-2.0.0-alpha11.jar returned status 404
+2.0.0-alpha12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha12/protostuff-compiler-2.0.0-alpha12.jar returned status 404
+2.0.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha13/protostuff-compiler-2.0.0-alpha13.jar returned status 404
+2.0.0-alpha14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha14/protostuff-compiler-2.0.0-alpha14.jar returned status 404
+2.0.0-alpha15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha15/protostuff-compiler-2.0.0-alpha15.jar returned status 404
+2.0.0-alpha16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha16/protostuff-compiler-2.0.0-alpha16.jar returned status 404
+2.0.0-alpha17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha17/protostuff-compiler-2.0.0-alpha17.jar returned status 404
+2.0.0-alpha18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha18/protostuff-compiler-2.0.0-alpha18.jar returned status 404
+2.0.0-alpha19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha19/protostuff-compiler-2.0.0-alpha19.jar returned status 404
+2.0.0-alpha20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha20/protostuff-compiler-2.0.0-alpha20.jar returned status 404
+2.0.0-alpha21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha21/protostuff-compiler-2.0.0-alpha21.jar returned status 404
+2.0.0-alpha22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha22/protostuff-compiler-2.0.0-alpha22.jar returned status 404
+2.0.0-alpha23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha23/protostuff-compiler-2.0.0-alpha23.jar returned status 404
+2.0.0-alpha24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha24/protostuff-compiler-2.0.0-alpha24.jar returned status 404
+2.0.0-alpha25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha25/protostuff-compiler-2.0.0-alpha25.jar returned status 404
+2.0.0-alpha26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha26/protostuff-compiler-2.0.0-alpha26.jar returned status 404
+2.0.0-alpha27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha27/protostuff-compiler-2.0.0-alpha27.jar returned status 404
+2.0.0-alpha28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha28/protostuff-compiler-2.0.0-alpha28.jar returned status 404
+2.0.0-alpha29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha29/protostuff-compiler-2.0.0-alpha29.jar returned status 404
+2.0.0-alpha30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha30/protostuff-compiler-2.0.0-alpha30.jar returned status 404
+2.0.0-alpha31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha31/protostuff-compiler-2.0.0-alpha31.jar returned status 404
+2.0.0-alpha32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha32/protostuff-compiler-2.0.0-alpha32.jar returned status 404
+2.0.0-alpha33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha33/protostuff-compiler-2.0.0-alpha33.jar returned status 404
+2.0.0-alpha34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha34/protostuff-compiler-2.0.0-alpha34.jar returned status 404
+2.0.0-alpha35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha35/protostuff-compiler-2.0.0-alpha35.jar returned status 404
+2.0.0-alpha36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha36/protostuff-compiler-2.0.0-alpha36.jar returned status 404
+2.0.0-alpha37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha37/protostuff-compiler-2.0.0-alpha37.jar returned status 404
+2.0.0-alpha38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha38/protostuff-compiler-2.0.0-alpha38.jar returned status 404
+2.0.0-alpha39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha39/protostuff-compiler-2.0.0-alpha39.jar returned status 404
+2.0.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha4/protostuff-compiler-2.0.0-alpha4.jar returned status 404
+2.0.0-alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha6/protostuff-compiler-2.0.0-alpha6.jar returned status 404
+2.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha7/protostuff-compiler-2.0.0-alpha7.jar returned status 404
+2.0.0-alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha8/protostuff-compiler-2.0.0-alpha8.jar returned status 404
+2.0.0-alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.0.0-alpha9/protostuff-compiler-2.0.0-alpha9.jar returned status 404
+2.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.10/protostuff-compiler-2.1.10.jar returned status 404
+2.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.11/protostuff-compiler-2.1.11.jar returned status 404
+2.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.12/protostuff-compiler-2.1.12.jar returned status 404
+2.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.13/protostuff-compiler-2.1.13.jar returned status 404
+2.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.14/protostuff-compiler-2.1.14.jar returned status 404
+2.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.15/protostuff-compiler-2.1.15.jar returned status 404
+2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/protostuff/protostuff-compiler/2.1.9/protostuff-compiler-2.1.9.jar returned status 404

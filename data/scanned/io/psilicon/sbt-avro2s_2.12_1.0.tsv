@@ -1,2 +1,5 @@
 0.21.0		2024-12-04T17:04:06Z	
 0.22.0		2025-05-28T20:32:47Z	
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/psilicon/sbt-avro2s_2.12_1.0/0.23.0/sbt-avro2s_2.12_1.0-0.23.0.jar returned status 404
+0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/psilicon/sbt-avro2s_2.12_1.0/0.25.0/sbt-avro2s_2.12_1.0-0.25.0.jar returned status 404
+0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/psilicon/sbt-avro2s_2.12_1.0/0.26.0/sbt-avro2s_2.12_1.0-0.26.0.jar returned status 404

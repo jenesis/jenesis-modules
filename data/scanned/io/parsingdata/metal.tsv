@@ -1,1 +1,8 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/10.0.0/metal-10.0.0.jar returned status 404
 3.0.0		2016-03-30T13:19:00Z	
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/5.0.0/metal-5.0.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/6.0.0/metal-6.0.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/7.0.0/metal-7.0.0.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/7.1.0/metal-7.1.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/8.0.0/metal-8.0.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/parsingdata/metal/9.0.0/metal-9.0.0.jar returned status 404

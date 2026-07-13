@@ -1,1 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sourceforge/github/tools/1.0.0/tools-1.0.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sourceforge/github/tools/1.1.1/tools-1.1.1.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sourceforge/github/tools/1.2.1/tools-1.2.1.jar returned status 404
 1.2.1	supplemental	2024-02-29T09:24:21Z	
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sourceforge/github/tools/1.2.2/tools-1.2.2.jar returned status 404

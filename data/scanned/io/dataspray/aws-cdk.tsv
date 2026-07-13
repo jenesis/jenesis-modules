@@ -1,3 +1,8 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dataspray/aws-cdk/1.0.0/aws-cdk-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dataspray/aws-cdk/1.0.1/aws-cdk-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dataspray/aws-cdk/1.0.2/aws-cdk-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dataspray/aws-cdk/1.0.3/aws-cdk-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dataspray/aws-cdk/1.1.0/aws-cdk-1.1.0.jar returned status 404
 1.2.0		2022-09-04T21:21:37Z	
 1.2.1		2022-09-07T05:23:18Z	
 1.2.2		2022-09-14T17:15:54Z	

@@ -3,3 +3,10 @@
 0.1.2		2023-01-24T08:02:29Z	
 0.1.3		2023-03-03T14:12:31Z	
 0.1.4		2023-03-23T14:41:20Z	
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.10.0/miranum-coverage-0.10.0.jar returned status 404
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.11.0/miranum-coverage-0.11.0.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.12.0/miranum-coverage-0.12.0.jar returned status 404
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.13.0/miranum-coverage-0.13.0.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.14.0/miranum-coverage-0.14.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.8.0/miranum-coverage-0.8.0.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/miragon/miranum/miranum-coverage/0.9.0/miranum-coverage-0.9.0.jar returned status 404

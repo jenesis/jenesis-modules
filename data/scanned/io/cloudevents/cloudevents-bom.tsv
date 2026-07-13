@@ -1,3 +1,11 @@
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/2.3.0/cloudevents-bom-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/2.4.0/cloudevents-bom-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/2.4.1/cloudevents-bom-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/2.4.2/cloudevents-bom-2.4.2.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/2.5.0/cloudevents-bom-2.5.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/3.0.0/cloudevents-bom-3.0.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/4.0.0/cloudevents-bom-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/4.0.1/cloudevents-bom-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/4.0.2/cloudevents-bom-4.0.2.jar returned status 404
 4.1.0		2026-05-27T19:44:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/4.1.0/cloudevents-bom-4.1.0.jar returned status 404
 4.1.1		2026-06-09T15:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudevents/cloudevents-bom/4.1.1/cloudevents-bom-4.1.1.jar returned status 404
