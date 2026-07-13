@@ -1,3 +1,5 @@
+2.2.13-1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/palantir-cassandra/2.2.13-1.6.0/palantir-cassandra-2.2.13-1.6.0.jar returned status 404
+2.2.14-1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/palantir-cassandra/2.2.14-1.18.0/palantir-cassandra-2.2.14-1.18.0.jar returned status 404
 2.2.18-1.100.0		2022-08-19T08:57:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/palantir-cassandra/2.2.18-1.100.0/palantir-cassandra-2.2.18-1.100.0.jar returned status 404
 2.2.18-1.101.0		2022-10-06T13:25:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/palantir-cassandra/2.2.18-1.101.0/palantir-cassandra-2.2.18-1.101.0.jar returned status 404
 2.2.18-1.101.0-rc1		2022-08-23T14:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/palantir-cassandra/2.2.18-1.101.0-rc1/palantir-cassandra-2.2.18-1.101.0-rc1.jar returned status 404

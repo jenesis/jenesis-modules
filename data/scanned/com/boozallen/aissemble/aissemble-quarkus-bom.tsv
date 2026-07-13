@@ -1,2 +1,7 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.10.0/aissemble-quarkus-bom-1.10.0.jar returned status 404
+1.10.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.10.0-rc2/aissemble-quarkus-bom-1.10.0-rc2.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.11.1/aissemble-quarkus-bom-1.11.1.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.12.1/aissemble-quarkus-bom-1.12.1.jar returned status 404
+1.12.1-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.12.1-rc2/aissemble-quarkus-bom-1.12.1-rc2.jar returned status 404
 1.13.0-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/1.13.0-rc6/aissemble-quarkus-bom-1.13.0-rc6.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/boozallen/aissemble/aissemble-quarkus-bom/2.0.0/aissemble-quarkus-bom-2.0.0.jar returned status 404

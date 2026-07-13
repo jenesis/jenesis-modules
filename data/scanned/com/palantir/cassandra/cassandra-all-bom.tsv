@@ -1,3 +1,4 @@
+2.2.14-1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/cassandra-all-bom/2.2.14-1.18.0/cassandra-all-bom-2.2.14-1.18.0.jar returned status 404
 2.2.18-1.100.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/cassandra-all-bom/2.2.18-1.100.0/cassandra-all-bom-2.2.18-1.100.0.jar returned status 404
 2.2.18-1.101.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/cassandra-all-bom/2.2.18-1.101.0/cassandra-all-bom-2.2.18-1.101.0.jar returned status 404
 2.2.18-1.101.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/cassandra/cassandra-all-bom/2.2.18-1.101.0-rc1/cassandra-all-bom-2.2.18-1.101.0-rc1.jar returned status 404

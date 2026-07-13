@@ -1,3 +1,21 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.0.0/conjure-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.0.1/conjure-4.0.1.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.0.3/conjure-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.0.4/conjure-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.0.5/conjure-4.0.5.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.1.0/conjure-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.1.1/conjure-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.1.2/conjure-4.1.2.jar returned status 404
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.10.0/conjure-4.10.0.jar returned status 404
+4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.10.1/conjure-4.10.1.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.11.0/conjure-4.11.0.jar returned status 404
+4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.11.1/conjure-4.11.1.jar returned status 404
+4.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.11.2/conjure-4.11.2.jar returned status 404
+4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.12.0/conjure-4.12.0.jar returned status 404
+4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.13.0/conjure-4.13.0.jar returned status 404
+4.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.14.0/conjure-4.14.0.jar returned status 404
+4.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.14.1/conjure-4.14.1.jar returned status 404
+4.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.14.2/conjure-4.14.2.jar returned status 404
 4.15.1		2021-04-07T15:17:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.15.1/conjure-4.15.1.jar returned status 404
 4.15.2		2021-04-07T15:33:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.15.2/conjure-4.15.2.jar returned status 404
 4.16.0		2021-05-24T19:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.16.0/conjure-4.16.0.jar returned status 404
@@ -5,6 +23,9 @@
 4.17.0		2021-12-01T11:29:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.17.0/conjure-4.17.0.jar returned status 404
 4.18.0		2021-12-01T18:15:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.18.0/conjure-4.18.0.jar returned status 404
 4.19.0		2021-12-09T13:54:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.19.0/conjure-4.19.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.2.0/conjure-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.2.1/conjure-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.2.2/conjure-4.2.2.jar returned status 404
 4.20.0		2021-12-09T14:21:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.20.0/conjure-4.20.0.jar returned status 404
 4.21.0		2022-01-19T10:07:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.21.0/conjure-4.21.0.jar returned status 404
 4.22.0		2022-01-19T16:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.22.0/conjure-4.22.0.jar returned status 404
@@ -15,6 +36,7 @@
 4.27.0		2022-04-12T17:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.27.0/conjure-4.27.0.jar returned status 404
 4.28.0		2022-04-22T13:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.28.0/conjure-4.28.0.jar returned status 404
 4.29.0		2022-05-03T11:11:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.29.0/conjure-4.29.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.3.0/conjure-4.3.0.jar returned status 404
 4.30.0		2022-05-17T14:19:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.30.0/conjure-4.30.0.jar returned status 404
 4.31.0		2022-06-14T09:31:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.31.0/conjure-4.31.0.jar returned status 404
 4.32.0		2022-09-19T18:20:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.32.0/conjure-4.32.0.jar returned status 404
@@ -25,6 +47,7 @@
 4.37.0		2023-05-09T19:40:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.37.0/conjure-4.37.0.jar returned status 404
 4.38.0		2023-06-13T15:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.38.0/conjure-4.38.0.jar returned status 404
 4.39.0		2024-01-08T19:35:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.39.0/conjure-4.39.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.4.0/conjure-4.4.0.jar returned status 404
 4.40.0		2024-03-11T15:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.40.0/conjure-4.40.0.jar returned status 404
 4.41.0		2024-03-14T13:51:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.41.0/conjure-4.41.0.jar returned status 404
 4.42.0		2024-03-21T19:54:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.42.0/conjure-4.42.0.jar returned status 404
@@ -35,6 +58,8 @@
 4.47.0		2024-03-25T19:48:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.47.0/conjure-4.47.0.jar returned status 404
 4.48.0		2024-04-09T23:06:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.48.0/conjure-4.48.0.jar returned status 404
 4.49.0		2024-09-11T19:14:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.49.0/conjure-4.49.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.5.0/conjure-4.5.0.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.5.1/conjure-4.5.1.jar returned status 404
 4.50.0		2024-11-18T17:24:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.50.0/conjure-4.50.0.jar returned status 404
 4.50.0-rc1		2024-10-31T19:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.50.0-rc1/conjure-4.50.0-rc1.jar returned status 404
 4.50.0-rc2		2024-11-05T20:06:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.50.0-rc2/conjure-4.50.0-rc2.jar returned status 404
@@ -47,3 +72,9 @@
 4.57.0		2026-04-29T14:43:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.57.0/conjure-4.57.0.jar returned status 404
 4.58.0		2026-05-27T14:52:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.58.0/conjure-4.58.0.jar returned status 404
 4.59.0		2026-06-22T04:21:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.59.0/conjure-4.59.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.6.0/conjure-4.6.0.jar returned status 404
+4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.6.1/conjure-4.6.1.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.6.2/conjure-4.6.2.jar returned status 404
+4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.7.0/conjure-4.7.0.jar returned status 404
+4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.8.0/conjure-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/conjure/4.9.0/conjure-4.9.0.jar returned status 404
