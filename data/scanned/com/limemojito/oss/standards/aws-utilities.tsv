@@ -8,6 +8,22 @@
 14.0.19		2024-03-11T07:00:51Z	
 14.0.20		2024-08-10T06:44:09Z	
 14.1.0		2024-08-16T03:28:54Z	
+14.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/14.2.0/aws-utilities-14.2.0.jar returned status 404
+14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/14.2.1/aws-utilities-14.2.1.jar returned status 404
+14.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/14.2.2/aws-utilities-14.2.2.jar returned status 404
+14.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/14.3.1/aws-utilities-14.3.1.jar returned status 404
+15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.0.0/aws-utilities-15.0.0.jar returned status 404
+15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.0.1/aws-utilities-15.0.1.jar returned status 404
+15.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.1.0/aws-utilities-15.1.0.jar returned status 404
+15.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.0/aws-utilities-15.2.0.jar returned status 404
+15.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.1/aws-utilities-15.2.1.jar returned status 404
+15.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.2/aws-utilities-15.2.2.jar returned status 404
+15.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.3/aws-utilities-15.2.3.jar returned status 404
+15.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.4/aws-utilities-15.2.4.jar returned status 404
+15.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.5/aws-utilities-15.2.5.jar returned status 404
+15.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.6/aws-utilities-15.2.6.jar returned status 404
+15.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.7/aws-utilities-15.2.7.jar returned status 404
+15.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.2.8/aws-utilities-15.2.8.jar returned status 404
 15.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.3.0/aws-utilities-15.3.0.jar returned status 404
 15.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.3.1/aws-utilities-15.3.1.jar returned status 404
 15.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/limemojito/oss/standards/aws-utilities/15.3.2/aws-utilities-15.3.2.jar returned status 404

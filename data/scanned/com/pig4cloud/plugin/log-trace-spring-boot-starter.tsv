@@ -1,4 +1,7 @@
 0.0.1		2022-04-09T09:09:22Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pig4cloud/plugin/log-trace-spring-boot-starter/1.0.0/log-trace-spring-boot-starter-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pig4cloud/plugin/log-trace-spring-boot-starter/1.0.1/log-trace-spring-boot-starter-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pig4cloud/plugin/log-trace-spring-boot-starter/1.0.2/log-trace-spring-boot-starter-1.0.2.jar returned status 404
 1.0.3		2022-04-10T05:29:39Z	
 1.1.0		2022-04-10T08:22:47Z	
 3.0.0		2022-12-08T15:30:33Z	

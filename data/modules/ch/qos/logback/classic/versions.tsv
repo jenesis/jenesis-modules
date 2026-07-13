@@ -3433,3 +3433,4 @@
 3.6.0-snapshot.20260707.14742.0.v139b01b2	named	com.daml	codegen-java	2026-07-07T15:13:43Z	1.5.3
 3.6.0-snapshot.20260707.14742.0.v139b01b2	named	com.daml	codegen-js	2026-07-07T15:13:43Z	1.5.3
 3.6.0-snapshot.20260707.14742.0.v139b01b2	named	com.daml	codegen-jvm-main	2026-07-07T15:13:43Z	1.5.3
+8.0.15.37	named	com.limemojito.oss.aws	aws-cleaner	2026-07-13T02:22:44Z	1.5.34
