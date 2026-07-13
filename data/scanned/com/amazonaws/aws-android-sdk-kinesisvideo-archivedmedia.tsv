@@ -38,6 +38,68 @@
 2.16.7		2020-01-23T22:58:31Z	
 2.16.8		2020-02-05T19:19:38Z	
 2.16.9		2020-03-03T18:47:16Z	
+2.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.17.0/aws-android-sdk-kinesisvideo-archivedmedia-2.17.0.jar returned status 404
+2.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.17.1/aws-android-sdk-kinesisvideo-archivedmedia-2.17.1.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.18.0/aws-android-sdk-kinesisvideo-archivedmedia-2.18.0.jar returned status 404
+2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.19.0/aws-android-sdk-kinesisvideo-archivedmedia-2.19.0.jar returned status 404
+2.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.19.1/aws-android-sdk-kinesisvideo-archivedmedia-2.19.1.jar returned status 404
+2.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.19.2/aws-android-sdk-kinesisvideo-archivedmedia-2.19.2.jar returned status 404
+2.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.19.3/aws-android-sdk-kinesisvideo-archivedmedia-2.19.3.jar returned status 404
+2.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.19.4/aws-android-sdk-kinesisvideo-archivedmedia-2.19.4.jar returned status 404
+2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.20.0/aws-android-sdk-kinesisvideo-archivedmedia-2.20.0.jar returned status 404
+2.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.20.1/aws-android-sdk-kinesisvideo-archivedmedia-2.20.1.jar returned status 404
+2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.21.0/aws-android-sdk-kinesisvideo-archivedmedia-2.21.0.jar returned status 404
+2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.0/aws-android-sdk-kinesisvideo-archivedmedia-2.22.0.jar returned status 404
+2.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.1/aws-android-sdk-kinesisvideo-archivedmedia-2.22.1.jar returned status 404
+2.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.2/aws-android-sdk-kinesisvideo-archivedmedia-2.22.2.jar returned status 404
+2.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.3/aws-android-sdk-kinesisvideo-archivedmedia-2.22.3.jar returned status 404
+2.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.4/aws-android-sdk-kinesisvideo-archivedmedia-2.22.4.jar returned status 404
+2.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.5/aws-android-sdk-kinesisvideo-archivedmedia-2.22.5.jar returned status 404
+2.22.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.6/aws-android-sdk-kinesisvideo-archivedmedia-2.22.6.jar returned status 404
+2.22.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.22.7/aws-android-sdk-kinesisvideo-archivedmedia-2.22.7.jar returned status 404
+2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.23.0/aws-android-sdk-kinesisvideo-archivedmedia-2.23.0.jar returned status 404
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.24.0/aws-android-sdk-kinesisvideo-archivedmedia-2.24.0.jar returned status 404
+2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.25.0/aws-android-sdk-kinesisvideo-archivedmedia-2.25.0.jar returned status 404
+2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.26.0/aws-android-sdk-kinesisvideo-archivedmedia-2.26.0.jar returned status 404
+2.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.27.0/aws-android-sdk-kinesisvideo-archivedmedia-2.27.0.jar returned status 404
+2.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.28.0/aws-android-sdk-kinesisvideo-archivedmedia-2.28.0.jar returned status 404
+2.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.29.0/aws-android-sdk-kinesisvideo-archivedmedia-2.29.0.jar returned status 404
+2.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.30.0/aws-android-sdk-kinesisvideo-archivedmedia-2.30.0.jar returned status 404
+2.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.31.0/aws-android-sdk-kinesisvideo-archivedmedia-2.31.0.jar returned status 404
+2.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.32.0/aws-android-sdk-kinesisvideo-archivedmedia-2.32.0.jar returned status 404
+2.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.33.0/aws-android-sdk-kinesisvideo-archivedmedia-2.33.0.jar returned status 404
+2.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.34.0/aws-android-sdk-kinesisvideo-archivedmedia-2.34.0.jar returned status 404
+2.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.35.0/aws-android-sdk-kinesisvideo-archivedmedia-2.35.0.jar returned status 404
+2.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.36.0/aws-android-sdk-kinesisvideo-archivedmedia-2.36.0.jar returned status 404
+2.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.37.0/aws-android-sdk-kinesisvideo-archivedmedia-2.37.0.jar returned status 404
+2.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.37.1/aws-android-sdk-kinesisvideo-archivedmedia-2.37.1.jar returned status 404
+2.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.38.0/aws-android-sdk-kinesisvideo-archivedmedia-2.38.0.jar returned status 404
+2.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.39.0/aws-android-sdk-kinesisvideo-archivedmedia-2.39.0.jar returned status 404
+2.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.40.0/aws-android-sdk-kinesisvideo-archivedmedia-2.40.0.jar returned status 404
+2.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.41.0/aws-android-sdk-kinesisvideo-archivedmedia-2.41.0.jar returned status 404
+2.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.41.1/aws-android-sdk-kinesisvideo-archivedmedia-2.41.1.jar returned status 404
+2.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.42.0/aws-android-sdk-kinesisvideo-archivedmedia-2.42.0.jar returned status 404
+2.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.43.0/aws-android-sdk-kinesisvideo-archivedmedia-2.43.0.jar returned status 404
+2.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.44.0/aws-android-sdk-kinesisvideo-archivedmedia-2.44.0.jar returned status 404
+2.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.45.0/aws-android-sdk-kinesisvideo-archivedmedia-2.45.0.jar returned status 404
+2.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.46.0/aws-android-sdk-kinesisvideo-archivedmedia-2.46.0.jar returned status 404
+2.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.47.0/aws-android-sdk-kinesisvideo-archivedmedia-2.47.0.jar returned status 404
+2.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.48.0/aws-android-sdk-kinesisvideo-archivedmedia-2.48.0.jar returned status 404
+2.48.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.48.1/aws-android-sdk-kinesisvideo-archivedmedia-2.48.1.jar returned status 404
+2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.49.0/aws-android-sdk-kinesisvideo-archivedmedia-2.49.0.jar returned status 404
+2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.50.0/aws-android-sdk-kinesisvideo-archivedmedia-2.50.0.jar returned status 404
+2.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.50.1/aws-android-sdk-kinesisvideo-archivedmedia-2.50.1.jar returned status 404
+2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.51.0/aws-android-sdk-kinesisvideo-archivedmedia-2.51.0.jar returned status 404
+2.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.52.0/aws-android-sdk-kinesisvideo-archivedmedia-2.52.0.jar returned status 404
+2.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.52.1/aws-android-sdk-kinesisvideo-archivedmedia-2.52.1.jar returned status 404
+2.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.53.0/aws-android-sdk-kinesisvideo-archivedmedia-2.53.0.jar returned status 404
+2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.54.0/aws-android-sdk-kinesisvideo-archivedmedia-2.54.0.jar returned status 404
+2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.55.0/aws-android-sdk-kinesisvideo-archivedmedia-2.55.0.jar returned status 404
+2.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.56.0/aws-android-sdk-kinesisvideo-archivedmedia-2.56.0.jar returned status 404
+2.57.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.57.0/aws-android-sdk-kinesisvideo-archivedmedia-2.57.0.jar returned status 404
+2.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.58.0/aws-android-sdk-kinesisvideo-archivedmedia-2.58.0.jar returned status 404
+2.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.59.0/aws-android-sdk-kinesisvideo-archivedmedia-2.59.0.jar returned status 404
+2.59.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.59.1/aws-android-sdk-kinesisvideo-archivedmedia-2.59.1.jar returned status 404
 2.6.25		2018-07-13T21:40:04Z	
 2.6.26		2018-07-18T20:06:59Z	
 2.6.27		2018-08-03T03:34:17Z	
@@ -45,6 +107,18 @@
 2.6.29		2018-08-31T00:18:47Z	
 2.6.30		2018-09-07T03:07:00Z	
 2.6.31		2018-09-13T22:53:16Z	
+2.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.60.0/aws-android-sdk-kinesisvideo-archivedmedia-2.60.0.jar returned status 404
+2.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.61.0/aws-android-sdk-kinesisvideo-archivedmedia-2.61.0.jar returned status 404
+2.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.62.0/aws-android-sdk-kinesisvideo-archivedmedia-2.62.0.jar returned status 404
+2.62.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.62.1/aws-android-sdk-kinesisvideo-archivedmedia-2.62.1.jar returned status 404
+2.62.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.62.2/aws-android-sdk-kinesisvideo-archivedmedia-2.62.2.jar returned status 404
+2.63.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.63.0/aws-android-sdk-kinesisvideo-archivedmedia-2.63.0.jar returned status 404
+2.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.64.0/aws-android-sdk-kinesisvideo-archivedmedia-2.64.0.jar returned status 404
+2.65.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.65.0/aws-android-sdk-kinesisvideo-archivedmedia-2.65.0.jar returned status 404
+2.66.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.66.0/aws-android-sdk-kinesisvideo-archivedmedia-2.66.0.jar returned status 404
+2.67.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.67.0/aws-android-sdk-kinesisvideo-archivedmedia-2.67.0.jar returned status 404
+2.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.68.0/aws-android-sdk-kinesisvideo-archivedmedia-2.68.0.jar returned status 404
+2.69.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.69.0/aws-android-sdk-kinesisvideo-archivedmedia-2.69.0.jar returned status 404
 2.7.0		2018-09-19T20:27:46Z	
 2.7.1		2018-09-21T22:42:18Z	
 2.7.2		2018-09-25T00:38:36Z	
@@ -53,12 +127,29 @@
 2.7.5		2018-10-11T17:42:02Z	
 2.7.6		2018-10-23T07:24:52Z	
 2.7.7		2018-11-02T22:25:36Z	
+2.70.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.70.0/aws-android-sdk-kinesisvideo-archivedmedia-2.70.0.jar returned status 404
+2.71.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.71.0/aws-android-sdk-kinesisvideo-archivedmedia-2.71.0.jar returned status 404
+2.72.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.72.0/aws-android-sdk-kinesisvideo-archivedmedia-2.72.0.jar returned status 404
+2.73.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.73.0/aws-android-sdk-kinesisvideo-archivedmedia-2.73.0.jar returned status 404
+2.74.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.74.0/aws-android-sdk-kinesisvideo-archivedmedia-2.74.0.jar returned status 404
+2.75.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.75.0/aws-android-sdk-kinesisvideo-archivedmedia-2.75.0.jar returned status 404
+2.75.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.75.1/aws-android-sdk-kinesisvideo-archivedmedia-2.75.1.jar returned status 404
+2.75.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.75.2/aws-android-sdk-kinesisvideo-archivedmedia-2.75.2.jar returned status 404
+2.76.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.76.0/aws-android-sdk-kinesisvideo-archivedmedia-2.76.0.jar returned status 404
+2.76.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.76.1/aws-android-sdk-kinesisvideo-archivedmedia-2.76.1.jar returned status 404
+2.77.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.77.0/aws-android-sdk-kinesisvideo-archivedmedia-2.77.0.jar returned status 404
+2.77.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.77.1/aws-android-sdk-kinesisvideo-archivedmedia-2.77.1.jar returned status 404
+2.78.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.78.0/aws-android-sdk-kinesisvideo-archivedmedia-2.78.0.jar returned status 404
+2.79.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.79.0/aws-android-sdk-kinesisvideo-archivedmedia-2.79.0.jar returned status 404
 2.8.0		2018-11-09T22:56:35Z	
 2.8.1		2018-11-13T01:27:42Z	
 2.8.2		2018-11-13T23:30:24Z	
 2.8.3		2018-11-20T02:45:38Z	
 2.8.4		2018-11-21T01:14:14Z	
 2.8.5		2018-12-06T22:38:31Z	
+2.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.80.0/aws-android-sdk-kinesisvideo-archivedmedia-2.80.0.jar returned status 404
+2.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.81.0/aws-android-sdk-kinesisvideo-archivedmedia-2.81.0.jar returned status 404
+2.81.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amazonaws/aws-android-sdk-kinesisvideo-archivedmedia/2.81.1/aws-android-sdk-kinesisvideo-archivedmedia-2.81.1.jar returned status 404
 2.9.0		2018-12-12T01:20:44Z	
 2.9.1		2018-12-14T22:25:56Z	
 2.9.2		2019-01-02T18:44:51Z	
