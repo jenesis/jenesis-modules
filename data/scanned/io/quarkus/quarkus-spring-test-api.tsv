@@ -1,1 +1,2 @@
 3.5.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-test-api/3.5.Alpha1/quarkus-spring-test-api-3.5.Alpha1.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-test-api/4.1/quarkus-spring-test-api-4.1.jar returned status 404
