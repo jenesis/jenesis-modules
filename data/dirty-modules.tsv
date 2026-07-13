@@ -872,3 +872,5 @@ org.jberet.mongo.repository
 org.jberet.infinispan.repository
 org.jberet.se
 org.infinispan.protostream.processor
+org.infinispan.protostream.core
+org.infinispan.protostream.types
