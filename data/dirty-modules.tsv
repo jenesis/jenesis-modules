@@ -3266,3 +3266,7 @@ farm.query.vgi
 nl.garvelink.iban
 nl.talsmasoftware.lazy4j
 nl.talsmasoftware.indentation
+xyz.swamedia.dbexec.core
+xyz.swamedia.dbexec.starter
+xyz.swamedia.signature.starter
+xyz.swamedia.signature.core
