@@ -131,6 +131,7 @@
 14.0.1	sources-commercial	2019-05-10T05:15:17Z	
 14.0.10		2019-08-14T06:48:10Z	
 14.0.10	sources-commercial	2019-08-14T06:48:16Z	
+14.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.petra.json.web.service.client/14.0.11/com.liferay.petra.json.web.service.client-14.0.11.jar returned status 404
 14.0.11	sources-commercial	2019-09-19T09:03:27Z	
 14.0.12		2019-09-22T04:02:16Z	
 14.0.12	sources-commercial	2019-09-22T04:02:23Z	
