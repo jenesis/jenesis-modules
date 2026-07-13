@@ -11,3 +11,12 @@
 2.2		2008-12-25T09:59:22Z	
 2.3		2009-06-02T21:36:57Z	
 2.4		2009-07-22T22:22:44Z	
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.0/unitils-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.1/unitils-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.2/unitils-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.3/unitils-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.4/unitils-3.4.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.4.1/unitils-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.4.2/unitils-3.4.2.jar returned status 404
+3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.4.3/unitils-3.4.3.jar returned status 404
+3.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/unitils/unitils/3.4.6/unitils-3.4.6.jar returned status 404
