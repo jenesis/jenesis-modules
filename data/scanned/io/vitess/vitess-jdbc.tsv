@@ -26,6 +26,7 @@
 14.0.1	fatjar	2022-07-26T17:07:01Z	
 15.0.0		2022-10-25T16:24:56Z	
 15.0.0	fatjar	2022-10-25T16:23:44Z	
+15.0.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vitess/vitess-jdbc/15.0.0-SNAPSHOT/vitess-jdbc-15.0.0-SNAPSHOT.jar returned status 404
 15.0.4		2023-07-28T13:59:01Z	
 15.0.4	fatjar	2023-07-28T13:58:55Z	
 15.0.5		2023-10-03T15:12:44Z	
