@@ -2242,6 +2242,7 @@
 5.25.113		2023-02-20T13:49:10Z	
 5.25.114		2023-02-21T04:11:06Z	
 5.25.115		2023-02-21T16:02:50Z	
+5.25.116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.mgt.ui/5.25.116/org.wso2.carbon.identity.mgt.ui-5.25.116.jar returned status 404
 5.25.12		2022-10-18T07:30:24Z	
 5.25.120		2023-02-27T06:32:31Z	
 5.25.121		2023-02-27T12:18:20Z	
@@ -2408,7 +2409,10 @@
 5.25.737		2025-12-03T07:32:27Z	
 5.25.738		2026-02-18T19:23:40Z	
 5.25.739		2026-02-24T05:34:17Z	
+5.25.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.mgt.ui/5.25.74/org.wso2.carbon.identity.mgt.ui-5.25.74.jar returned status 404
 5.25.740		2026-02-24T06:38:54Z	
+5.25.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.mgt.ui/5.25.75/org.wso2.carbon.identity.mgt.ui-5.25.75.jar returned status 404
+5.25.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.mgt.ui/5.25.76/org.wso2.carbon.identity.mgt.ui-5.25.76.jar returned status 404
 5.25.77		2023-01-05T12:44:15Z	
 5.25.78		2023-01-09T11:01:00Z	
 5.25.79		2023-01-13T10:33:12Z	
