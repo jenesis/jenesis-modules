@@ -1,3 +1,4 @@
+2025.06.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2025.06.1/camunda-api-parent-2025.06.1.jar returned status 404
 2025.07.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2025.07.1/camunda-api-parent-2025.07.1.jar returned status 404
 2025.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2025.10.1/camunda-api-parent-2025.10.1.jar returned status 404
 2025.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2025.12.1/camunda-api-parent-2025.12.1.jar returned status 404
@@ -5,3 +6,13 @@
 2026.02.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2026.02.1/camunda-api-parent-2026.02.1.jar returned status 404
 2026.04.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2026.04.1/camunda-api-parent-2026.04.1.jar returned status 404
 2026.04.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/2026.04.2/camunda-api-parent-2026.04.2.jar returned status 404
+7.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.14.0/camunda-api-parent-7.14.0.jar returned status 404
+7.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.15.0/camunda-api-parent-7.15.0.jar returned status 404
+7.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.16.0/camunda-api-parent-7.16.0.jar returned status 404
+7.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.17.0/camunda-api-parent-7.17.0.jar returned status 404
+7.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.18.0/camunda-api-parent-7.18.0.jar returned status 404
+7.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.19.0/camunda-api-parent-7.19.0.jar returned status 404
+7.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.20.0/camunda-api-parent-7.20.0.jar returned status 404
+7.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.21.0/camunda-api-parent-7.21.0.jar returned status 404
+7.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.22.0/camunda-api-parent-7.22.0.jar returned status 404
+7.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holunda/camunda-api/camunda-api-parent/7.23.0/camunda-api-parent-7.23.0.jar returned status 404
