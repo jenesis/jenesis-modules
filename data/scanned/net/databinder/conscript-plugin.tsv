@@ -1,2 +1,4 @@
 0.2.1		2011-03-16T04:21:17Z	
 0.2.2		2011-03-22T05:12:10Z	
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/conscript-plugin/0.3.2/conscript-plugin-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/conscript-plugin/0.3.3/conscript-plugin-0.3.3.jar returned status 404

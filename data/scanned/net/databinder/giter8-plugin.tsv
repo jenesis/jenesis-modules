@@ -3,3 +3,5 @@
 0.2.0		2010-11-27T02:04:12Z	
 0.2.1		2011-02-27T01:25:35Z	
 0.2.2		2011-07-13T02:41:46Z	
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/giter8-plugin/0.3.1/giter8-plugin-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/giter8-plugin/0.3.2/giter8-plugin-0.3.2.jar returned status 404

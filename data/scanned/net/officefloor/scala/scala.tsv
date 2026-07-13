@@ -1,3 +1,29 @@
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.18.0/scala-3.18.0.jar returned status 404
+3.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.19.0/scala-3.19.0.jar returned status 404
+3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.20.0/scala-3.20.0.jar returned status 404
+3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.21.0/scala-3.21.0.jar returned status 404
+3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.22.0/scala-3.22.0.jar returned status 404
+3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.23.0/scala-3.23.0.jar returned status 404
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.24.0/scala-3.24.0.jar returned status 404
+3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.25.0/scala-3.25.0.jar returned status 404
+3.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.26.0/scala-3.26.0.jar returned status 404
+3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.27.0/scala-3.27.0.jar returned status 404
+3.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.28.0/scala-3.28.0.jar returned status 404
+3.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.28.1/scala-3.28.1.jar returned status 404
+3.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.28.2/scala-3.28.2.jar returned status 404
+3.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.29.0/scala-3.29.0.jar returned status 404
+3.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.30.0/scala-3.30.0.jar returned status 404
+3.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.30.2/scala-3.30.2.jar returned status 404
+3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.31.0/scala-3.31.0.jar returned status 404
+3.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.32.0/scala-3.32.0.jar returned status 404
+3.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.33.0/scala-3.33.0.jar returned status 404
+3.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.34.0/scala-3.34.0.jar returned status 404
+3.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.35.0/scala-3.35.0.jar returned status 404
+3.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.36.0/scala-3.36.0.jar returned status 404
+3.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.37.0/scala-3.37.0.jar returned status 404
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.38.0/scala-3.38.0.jar returned status 404
+3.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.39.0/scala-3.39.0.jar returned status 404
+3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/3.40.0/scala-3.40.0.jar returned status 404
 4.0.0		2026-06-01T14:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/4.0.0/scala-4.0.0.jar returned status 404
 4.0.1		2026-06-13T07:36:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/4.0.1/scala-4.0.1.jar returned status 404
 4.0.2		2026-06-17T22:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/scala/scala/4.0.2/scala-4.0.2.jar returned status 404

@@ -3,3 +3,6 @@
 1.4		2011-11-18T05:39:54Z	
 1.5		2011-11-18T09:03:32Z	
 1.6		2011-11-19T08:16:10Z	
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/redora/templates/1.8/templates-1.8.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/redora/templates/1.9.1/templates-1.9.1.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/redora/templates/1.9.2/templates-1.9.2.jar returned status 404

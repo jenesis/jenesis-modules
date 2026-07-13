@@ -1,3 +1,7 @@
+3.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.17.1/pricefx-packaging-3.17.1.jar returned status 404
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.18.0/pricefx-packaging-3.18.0.jar returned status 404
+3.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.19.0/pricefx-packaging-3.19.0.jar returned status 404
+3.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.19.1/pricefx-packaging-3.19.1.jar returned status 404
 3.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.36.0/pricefx-packaging-3.36.0.jar returned status 404
 3.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.36.1/pricefx-packaging-3.36.1.jar returned status 404
 3.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.37.0/pricefx-packaging-3.37.0.jar returned status 404

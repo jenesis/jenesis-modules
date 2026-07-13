@@ -4,7 +4,22 @@
 1.4.0		2011-08-28T06:43:42Z	
 2.0.0		2012-02-12T00:39:04Z	
 2.1.0		2012-03-25T14:20:19Z	
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.10.0/DatabaseHttpServer-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.11.0/DatabaseHttpServer-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.12.0/DatabaseHttpServer-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.13.0/DatabaseHttpServer-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.14.0/DatabaseHttpServer-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.15.0/DatabaseHttpServer-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.16.0/DatabaseHttpServer-2.16.0.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.18.0/DatabaseHttpServer-2.18.0.jar returned status 404
 2.2.0		2012-05-21T00:50:32Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.3.0/DatabaseHttpServer-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.4.0/DatabaseHttpServer-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.5.0/DatabaseHttpServer-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.6.0/DatabaseHttpServer-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.7.0/DatabaseHttpServer-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.8.0/DatabaseHttpServer-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/DatabaseHttpServer/2.9.0/DatabaseHttpServer-2.9.0.jar returned status 404
 3.0.0		2018-07-07T09:29:10Z	
 3.1.0		2018-10-05T23:39:07Z	
 3.10.0		2019-05-12T19:29:36Z	

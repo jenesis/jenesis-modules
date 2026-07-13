@@ -3,7 +3,22 @@
 1.4.0		2011-08-28T06:34:03Z	
 2.0.0		2012-02-12T00:28:55Z	
 2.1.0		2012-03-25T13:56:00Z	
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.10.0/ExceptionHttpServer-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.11.0/ExceptionHttpServer-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.12.0/ExceptionHttpServer-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.13.0/ExceptionHttpServer-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.14.0/ExceptionHttpServer-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.15.0/ExceptionHttpServer-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.16.0/ExceptionHttpServer-2.16.0.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.18.0/ExceptionHttpServer-2.18.0.jar returned status 404
 2.2.0		2012-05-21T00:57:10Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.3.0/ExceptionHttpServer-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.4.0/ExceptionHttpServer-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.5.0/ExceptionHttpServer-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.6.0/ExceptionHttpServer-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.7.0/ExceptionHttpServer-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.8.0/ExceptionHttpServer-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/ExceptionHttpServer/2.9.0/ExceptionHttpServer-2.9.0.jar returned status 404
 3.0.0		2018-07-07T09:31:20Z	
 3.1.0		2018-10-05T23:40:59Z	
 3.10.0		2019-05-12T19:31:35Z	

@@ -4,7 +4,22 @@
 1.4.0		2011-08-28T06:33:02Z	
 2.0.0		2012-02-12T00:27:55Z	
 2.1.0		2012-03-25T13:54:50Z	
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.10.0/NavigateHttpServer-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.11.0/NavigateHttpServer-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.12.0/NavigateHttpServer-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.13.0/NavigateHttpServer-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.14.0/NavigateHttpServer-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.15.0/NavigateHttpServer-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.16.0/NavigateHttpServer-2.16.0.jar returned status 404
+2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.18.0/NavigateHttpServer-2.18.0.jar returned status 404
 2.2.0		2012-05-21T01:03:44Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.3.0/NavigateHttpServer-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.4.0/NavigateHttpServer-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.5.0/NavigateHttpServer-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.6.0/NavigateHttpServer-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.7.0/NavigateHttpServer-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.8.0/NavigateHttpServer-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/NavigateHttpServer/2.9.0/NavigateHttpServer-2.9.0.jar returned status 404
 3.0.0		2018-07-07T09:36:00Z	
 3.1.0		2018-10-05T23:44:21Z	
 3.10.0		2019-05-12T19:40:17Z	

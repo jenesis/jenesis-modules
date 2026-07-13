@@ -1,4 +1,18 @@
 1.4.0		2011-08-28T06:40:20Z	
 2.0.0		2012-02-12T00:35:26Z	
 2.1.0		2012-03-25T14:14:54Z	
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.10.0/CometManualApp-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.11.0/CometManualApp-2.11.0.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.12.0/CometManualApp-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.13.0/CometManualApp-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.14.0/CometManualApp-2.14.0.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.15.0/CometManualApp-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.16.0/CometManualApp-2.16.0.jar returned status 404
 2.2.0		2012-05-21T00:49:56Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.3.0/CometManualApp-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.4.0/CometManualApp-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.5.0/CometManualApp-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.6.0/CometManualApp-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.7.0/CometManualApp-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.8.0/CometManualApp-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/officefloor/tutorial/CometManualApp/2.9.0/CometManualApp-2.9.0.jar returned status 404

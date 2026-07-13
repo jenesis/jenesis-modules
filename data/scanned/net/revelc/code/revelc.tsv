@@ -1,2 +1,10 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/1/revelc-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/10/revelc-10.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/2/revelc-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/3/revelc-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/4/revelc-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/5/revelc-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/6/revelc-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/7/revelc-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/8/revelc-8.jar returned status 404
 9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/revelc/code/revelc/9/revelc-9.jar returned status 404

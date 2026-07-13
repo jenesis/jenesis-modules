@@ -6,3 +6,6 @@
 0.1.5		2010-04-28T16:07:50Z	
 0.1.6		2010-07-18T22:47:58Z	
 0.1.7		2011-04-07T20:33:53Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/posterous-sbt/0.3.0/posterous-sbt-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/posterous-sbt/0.3.1/posterous-sbt-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/databinder/posterous-sbt/0.3.2/posterous-sbt-0.3.2.jar returned status 404
