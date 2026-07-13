@@ -5,6 +5,7 @@
 30.0.1		2025-06-19T02:10:51Z	
 30.0.2		2025-06-19T13:47:02Z	
 30.0.3		2025-06-25T08:38:12Z	
+30.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mvnpm/jest-snapshot/30.0.4/jest-snapshot-30.0.4.jar returned status 404
 30.0.5		2025-07-22T05:39:10Z	
 30.1.0		2025-08-27T09:29:13Z	
 30.1.1		2025-08-27T17:14:07Z	

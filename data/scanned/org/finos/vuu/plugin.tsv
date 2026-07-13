@@ -28,6 +28,10 @@
 0.9.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.108/plugin-0.9.108.jar returned status 404
 0.9.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.109/plugin-0.9.109.jar returned status 404
 0.9.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.111/plugin-0.9.111.jar returned status 404
+0.9.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.62/plugin-0.9.62.jar returned status 404
+0.9.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.63/plugin-0.9.63.jar returned status 404
+0.9.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.64/plugin-0.9.64.jar returned status 404
+0.9.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.72/plugin-0.9.72.jar returned status 404
 0.9.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.75/plugin-0.9.75.jar returned status 404
 0.9.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.76/plugin-0.9.76.jar returned status 404
 0.9.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/plugin/0.9.77/plugin-0.9.77.jar returned status 404

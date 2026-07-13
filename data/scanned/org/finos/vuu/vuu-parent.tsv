@@ -17,6 +17,26 @@
 0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.27.0/vuu-parent-0.27.0.jar returned status 404
 0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.28.0/vuu-parent-0.28.0.jar returned status 404
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.29.0/vuu-parent-0.29.0.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.3/vuu-parent-0.4.3.jar returned status 404
+0.4.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.42/vuu-parent-0.4.42.jar returned status 404
+0.4.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.43/vuu-parent-0.4.43.jar returned status 404
+0.4.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.44/vuu-parent-0.4.44.jar returned status 404
+0.4.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.45/vuu-parent-0.4.45.jar returned status 404
+0.4.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.47/vuu-parent-0.4.47.jar returned status 404
+0.4.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.50/vuu-parent-0.4.50.jar returned status 404
+0.4.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.51/vuu-parent-0.4.51.jar returned status 404
+0.4.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.61/vuu-parent-0.4.61.jar returned status 404
+0.4.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.62/vuu-parent-0.4.62.jar returned status 404
+0.4.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.63/vuu-parent-0.4.63.jar returned status 404
+0.4.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.4.64/vuu-parent-0.4.64.jar returned status 404
+0.5.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.00/vuu-parent-0.5.00.jar returned status 404
+0.5.00-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.00-beta1/vuu-parent-0.5.00-beta1.jar returned status 404
+0.5.00-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.00-beta2/vuu-parent-0.5.00-beta2.jar returned status 404
+0.5.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.02/vuu-parent-0.5.02.jar returned status 404
+0.5.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.03/vuu-parent-0.5.03.jar returned status 404
+0.5.04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.04/vuu-parent-0.5.04.jar returned status 404
+0.5.06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.06/vuu-parent-0.5.06.jar returned status 404
+0.5.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.5.08/vuu-parent-0.5.08.jar returned status 404
 0.9.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.100/vuu-parent-0.9.100.jar returned status 404
 0.9.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.101/vuu-parent-0.9.101.jar returned status 404
 0.9.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.102/vuu-parent-0.9.102.jar returned status 404
@@ -28,6 +48,13 @@
 0.9.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.108/vuu-parent-0.9.108.jar returned status 404
 0.9.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.109/vuu-parent-0.9.109.jar returned status 404
 0.9.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.111/vuu-parent-0.9.111.jar returned status 404
+0.9.35-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.35-beta/vuu-parent-0.9.35-beta.jar returned status 404
+0.9.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.40/vuu-parent-0.9.40.jar returned status 404
+0.9.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.60/vuu-parent-0.9.60.jar returned status 404
+0.9.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.62/vuu-parent-0.9.62.jar returned status 404
+0.9.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.63/vuu-parent-0.9.63.jar returned status 404
+0.9.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.64/vuu-parent-0.9.64.jar returned status 404
+0.9.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.72/vuu-parent-0.9.72.jar returned status 404
 0.9.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.75/vuu-parent-0.9.75.jar returned status 404
 0.9.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.76/vuu-parent-0.9.76.jar returned status 404
 0.9.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/0.9.77/vuu-parent-0.9.77.jar returned status 404
@@ -66,3 +93,6 @@
 6.0.0		2026-07-02T15:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.0.0/vuu-parent-6.0.0.jar returned status 404
 6.1.0		2026-07-02T16:54:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.1.0/vuu-parent-6.1.0.jar returned status 404
 6.2.0		2026-07-03T14:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.2.0/vuu-parent-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.3.0/vuu-parent-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.4.0/vuu-parent-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/vuu/vuu-parent/6.5.0/vuu-parent-6.5.0.jar returned status 404
