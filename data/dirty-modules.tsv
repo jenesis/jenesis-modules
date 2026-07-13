@@ -25,3 +25,5 @@ com.github.plokhotnyuk.jsoniter_scala.circe
 com.github.plokhotnyuk.jsoniter_scala.core
 com.github.sideeffffect.sbt.decent.scala
 com.google.gson
+com.joyzl.network
+com.joyzl.logger

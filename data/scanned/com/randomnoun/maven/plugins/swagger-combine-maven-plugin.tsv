@@ -1,3 +1,4 @@
 1.0.0		2021-06-28T22:14:25Z	
 1.0.2		2021-07-03T06:13:01Z	
 1.0.3		2021-07-03T06:23:47Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/randomnoun/maven/plugins/swagger-combine-maven-plugin/1.0.4/swagger-combine-maven-plugin-1.0.4.jar returned status 404

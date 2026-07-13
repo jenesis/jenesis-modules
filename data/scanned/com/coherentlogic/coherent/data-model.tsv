@@ -1,7 +1,20 @@
 1.0-RELEASE		2013-05-28T16:52:06Z	
 1.0.1-RELEASE		2013-09-07T04:17:08Z	
 1.0.10-RELEASE		2014-01-22T00:16:48Z	
+1.0.13-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.13-RELEASE/data-model-1.0.13-RELEASE.jar returned status 404
+1.0.14-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.14-RELEASE/data-model-1.0.14-RELEASE.jar returned status 404
+1.0.15-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.15-RELEASE/data-model-1.0.15-RELEASE.jar returned status 404
+1.0.16-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.16-RELEASE/data-model-1.0.16-RELEASE.jar returned status 404
+1.0.18-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.18-RELEASE/data-model-1.0.18-RELEASE.jar returned status 404
+1.0.19-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.19-RELEASE/data-model-1.0.19-RELEASE.jar returned status 404
 1.0.2-RELEASE		2013-09-11T17:42:13Z	
+1.0.20-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.20-RELEASE/data-model-1.0.20-RELEASE.jar returned status 404
+1.0.21-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.21-RELEASE/data-model-1.0.21-RELEASE.jar returned status 404
+1.0.22-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.22-RELEASE/data-model-1.0.22-RELEASE.jar returned status 404
+1.0.23-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.23-RELEASE/data-model-1.0.23-RELEASE.jar returned status 404
+1.0.24-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.24-RELEASE/data-model-1.0.24-RELEASE.jar returned status 404
+1.0.25-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.25-RELEASE/data-model-1.0.25-RELEASE.jar returned status 404
+1.0.26-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coherentlogic/coherent/data-model/1.0.26-RELEASE/data-model-1.0.26-RELEASE.jar returned status 404
 1.0.3-RELEASE		2013-09-19T04:56:36Z	
 1.0.4-RELEASE		2013-10-16T19:03:10Z	
 1.0.5-RELEASE		2013-10-22T18:01:20Z	

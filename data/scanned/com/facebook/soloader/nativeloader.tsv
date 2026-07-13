@@ -7,6 +7,7 @@
 0.11.0		2024-01-02T22:18:32Z	
 0.12.0		2024-09-11T19:09:35Z	
 0.12.1		2024-09-12T23:13:28Z	
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/soloader/nativeloader/0.7.0/nativeloader-0.7.0.jar returned status 404
 0.8.0		2019-09-17T18:21:51Z	
 0.8.1		2020-01-28T17:17:15Z	
 0.8.2		2020-02-12T11:07:22Z	
