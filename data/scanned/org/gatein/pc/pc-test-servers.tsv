@@ -3,3 +3,30 @@
 2.3.0-Beta02		2011-04-17T15:12:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta02/pc-test-servers-2.3.0-Beta02.jar returned status 404
 2.3.0-Beta03		2011-04-27T06:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta03/pc-test-servers-2.3.0-Beta03.jar returned status 404
 2.3.0-Beta04		2011-06-17T10:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta04/pc-test-servers-2.3.0-Beta04.jar returned status 404
+2.3.0-Beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta05/pc-test-servers-2.3.0-Beta05.jar returned status 404
+2.3.0-Beta06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta06/pc-test-servers-2.3.0-Beta06.jar returned status 404
+2.3.0-Beta08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-Beta08/pc-test-servers-2.3.0-Beta08.jar returned status 404
+2.3.0-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.0-GA/pc-test-servers-2.3.0-GA.jar returned status 404
+2.3.1-Beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.1-Beta02/pc-test-servers-2.3.1-Beta02.jar returned status 404
+2.3.1-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.1-GA/pc-test-servers-2.3.1-GA.jar returned status 404
+2.3.2-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.3.2-GA/pc-test-servers-2.3.2-GA.jar returned status 404
+2.4.0.Alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Alpha01/pc-test-servers-2.4.0.Alpha01.jar returned status 404
+2.4.0.Alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Alpha02/pc-test-servers-2.4.0.Alpha02.jar returned status 404
+2.4.0.Alpha03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Alpha03/pc-test-servers-2.4.0.Alpha03.jar returned status 404
+2.4.0.Alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Alpha04/pc-test-servers-2.4.0.Alpha04.jar returned status 404
+2.4.0.Alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Alpha05/pc-test-servers-2.4.0.Alpha05.jar returned status 404
+2.4.0.Beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Beta01/pc-test-servers-2.4.0.Beta01.jar returned status 404
+2.4.0.Beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Beta02/pc-test-servers-2.4.0.Beta02.jar returned status 404
+2.4.0.Beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Beta03/pc-test-servers-2.4.0.Beta03.jar returned status 404
+2.4.0.CR01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.CR01/pc-test-servers-2.4.0.CR01.jar returned status 404
+2.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.0.Final/pc-test-servers-2.4.0.Final.jar returned status 404
+2.4.1.CR01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.1.CR01/pc-test-servers-2.4.1.CR01.jar returned status 404
+2.4.1.CR02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.1.CR02/pc-test-servers-2.4.1.CR02.jar returned status 404
+2.4.1.CR03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.1.CR03/pc-test-servers-2.4.1.CR03.jar returned status 404
+2.4.1.CR04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.1.CR04/pc-test-servers-2.4.1.CR04.jar returned status 404
+2.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.1.Final/pc-test-servers-2.4.1.Final.jar returned status 404
+2.4.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.2.Final/pc-test-servers-2.4.2.Final.jar returned status 404
+2.4.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.4.3.Final/pc-test-servers-2.4.3.Final.jar returned status 404
+2.5.0.Beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.5.0.Beta01/pc-test-servers-2.5.0.Beta01.jar returned status 404
+2.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.5.0.Final/pc-test-servers-2.5.0.Final.jar returned status 404
+2.5.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gatein/pc/pc-test-servers/2.5.1.Final/pc-test-servers-2.5.1.Final.jar returned status 404

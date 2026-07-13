@@ -14,5 +14,10 @@
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.17.0/ibcore-root-0.17.0.jar returned status 404
 0.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.17.1/ibcore-root-0.17.1.jar returned status 404
 0.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.17.2/ibcore-root-0.17.2.jar returned status 404
+0.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.17.3/ibcore-root-0.17.3.jar returned status 404
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.20.0/ibcore-root-0.20.0.jar returned status 404
+0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.21.0/ibcore-root-0.21.0.jar returned status 404
+0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.21.1/ibcore-root-0.21.1.jar returned status 404
+0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.30.0/ibcore-root-0.30.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.9.0/ibcore-root-0.9.0.jar returned status 404
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibcore-root/0.9.1/ibcore-root-0.9.1.jar returned status 404

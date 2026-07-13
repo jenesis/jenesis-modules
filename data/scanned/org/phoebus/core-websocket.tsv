@@ -1,1 +1,3 @@
 5.0.2		2025-07-14T21:09:40Z	
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/phoebus/core-websocket/5.0.4/core-websocket-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/phoebus/core-websocket/5.0.5/core-websocket-5.0.5.jar returned status 404

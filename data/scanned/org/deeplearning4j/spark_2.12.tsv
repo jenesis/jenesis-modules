@@ -1,3 +1,5 @@
+1.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/deeplearning4j/spark_2.12/1.0.0-M2/spark_2.12-1.0.0-M2.jar returned status 404
+1.0.0-M2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/deeplearning4j/spark_2.12/1.0.0-M2.1/spark_2.12-1.0.0-M2.1.jar returned status 404
 1.0.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/deeplearning4j/spark_2.12/1.0.0-beta5/spark_2.12-1.0.0-beta5.jar returned status 404
 1.0.0-beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/deeplearning4j/spark_2.12/1.0.0-beta6/spark_2.12-1.0.0-beta6.jar returned status 404
 1.0.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/deeplearning4j/spark_2.12/1.0.0-beta7/spark_2.12-1.0.0-beta7.jar returned status 404

@@ -3,3 +3,14 @@
 0.1.2	test-javadoc	2021-10-06T12:01:56Z	
 0.1.3		2021-10-06T12:16:36Z	
 0.1.3	test-javadoc	2021-10-06T12:16:38Z	
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.4/nexus-config-writer-0.1.4.jar returned status 404
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.5/nexus-config-writer-0.1.5.jar returned status 404
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.6/nexus-config-writer-0.1.6.jar returned status 404
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.7/nexus-config-writer-0.1.7.jar returned status 404
+0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.8/nexus-config-writer-0.1.8.jar returned status 404
+0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.1.9/nexus-config-writer-0.1.9.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.2.0/nexus-config-writer-0.2.0.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.2.1/nexus-config-writer-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.2.2/nexus-config-writer-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.2.3/nexus-config-writer-0.2.3.jar returned status 404
+0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/nexus/nexus-config-writer/0.2.4/nexus-config-writer-0.2.4.jar returned status 404

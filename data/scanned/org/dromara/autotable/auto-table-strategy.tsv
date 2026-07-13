@@ -28,3 +28,4 @@
 2.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/autotable/auto-table-strategy/2.5.8/auto-table-strategy-2.5.8.jar returned status 404
 2.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/autotable/auto-table-strategy/2.5.9/auto-table-strategy-2.5.9.jar returned status 404
 2.6.0		2026-06-26T09:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/autotable/auto-table-strategy/2.6.0/auto-table-strategy-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/autotable/auto-table-strategy/2.6.1/auto-table-strategy-2.6.1.jar returned status 404

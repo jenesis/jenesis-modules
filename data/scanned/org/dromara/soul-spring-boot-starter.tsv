@@ -6,3 +6,6 @@
 2.1.0-RELEASE		2019-12-03T07:37:17Z	
 2.1.1-RELEASE		2019-12-11T06:49:44Z	
 2.1.2-RELEASE		2020-01-16T08:13:13Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/soul-spring-boot-starter/2.2.0/soul-spring-boot-starter-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/soul-spring-boot-starter/2.2.1/soul-spring-boot-starter-2.2.1.jar returned status 404
+2.3.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dromara/soul-spring-boot-starter/2.3.0-RELEASE/soul-spring-boot-starter-2.3.0-RELEASE.jar returned status 404
