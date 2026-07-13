@@ -3270,3 +3270,14 @@ xyz.swamedia.dbexec.core
 xyz.swamedia.dbexec.starter
 xyz.swamedia.signature.starter
 xyz.swamedia.signature.core
+run.endive.wasi
+run.endive.compiler
+run.endive.wasm
+run.endive.codegen
+run.endive.log
+run.endive.wabt
+run.endive.annotations
+run.endive.runtime
+run.endive.simd
+run.endive.build.time.compiler
+net.ladenthin.llama

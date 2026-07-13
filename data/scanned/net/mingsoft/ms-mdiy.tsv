@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mdiy/1.0.0/ms-mdiy-1.0.0.jar returned status 404
 1.0.0	classes	2016-05-05T02:47:43Z	
 1.0.10		2019-10-11T02:36:40Z	
 1.0.11		2019-10-12T10:23:24Z	
@@ -19,8 +20,11 @@
 1.0.27		2020-12-25T06:41:50Z	
 1.0.28		2021-01-07T03:09:35Z	
 1.0.29		2021-03-26T14:49:35Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mdiy/1.0.4/ms-mdiy-1.0.4.jar returned status 404
 1.0.4	classes	2018-04-28T04:19:37Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mdiy/1.0.5/ms-mdiy-1.0.5.jar returned status 404
 1.0.5	classes	2018-06-30T15:21:45Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mdiy/1.0.6/ms-mdiy-1.0.6.jar returned status 404
 1.0.6	classes	2018-07-31T06:57:32Z	
 1.0.7		2019-05-05T08:31:51Z	
 1.0.8		2019-08-09T14:22:28Z	

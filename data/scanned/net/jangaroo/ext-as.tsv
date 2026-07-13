@@ -66,6 +66,11 @@
 6.2.0		2016-11-16T15:07:52Z	
 6.2.0-10		2017-03-03T08:42:21Z	
 6.2.0-11		2017-03-10T15:06:51Z	
+6.2.0-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.0-12/ext-as-6.2.0-12.jar returned status 404
+6.2.0-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.0-13/ext-as-6.2.0-13.jar returned status 404
+6.2.0-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.0-14/ext-as-6.2.0-14.jar returned status 404
+6.2.0-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.0-15/ext-as-6.2.0-15.jar returned status 404
+6.2.0-16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.0-16/ext-as-6.2.0-16.jar returned status 404
 6.2.0-2		2016-11-18T09:21:59Z	
 6.2.0-3		2016-11-23T08:56:59Z	
 6.2.0-4		2016-11-30T16:23:27Z	
@@ -74,3 +79,25 @@
 6.2.0-7		2017-01-20T15:33:54Z	
 6.2.0-8		2017-01-21T22:13:39Z	
 6.2.0-9		2017-02-17T10:58:56Z	
+6.2.1-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.1-1/ext-as-6.2.1-1.jar returned status 404
+6.2.1-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.2.1-2/ext-as-6.2.1-2.jar returned status 404
+6.5.2-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.2-1/ext-as-6.5.2-1.jar returned status 404
+6.5.2-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.2-2/ext-as-6.5.2-2.jar returned status 404
+6.5.3-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-1/ext-as-6.5.3-1.jar returned status 404
+6.5.3-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-10/ext-as-6.5.3-10.jar returned status 404
+6.5.3-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-11/ext-as-6.5.3-11.jar returned status 404
+6.5.3-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-2/ext-as-6.5.3-2.jar returned status 404
+6.5.3-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-3/ext-as-6.5.3-3.jar returned status 404
+6.5.3-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-4/ext-as-6.5.3-4.jar returned status 404
+6.5.3-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-5/ext-as-6.5.3-5.jar returned status 404
+6.5.3-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-6/ext-as-6.5.3-6.jar returned status 404
+6.5.3-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-7/ext-as-6.5.3-7.jar returned status 404
+6.5.3-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-8/ext-as-6.5.3-8.jar returned status 404
+6.5.3-9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/6.5.3-9/ext-as-6.5.3-9.jar returned status 404
+7.1.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.1.0-1/ext-as-7.1.0-1.jar returned status 404
+7.2.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-1/ext-as-7.2.0-1.jar returned status 404
+7.2.0-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-2/ext-as-7.2.0-2.jar returned status 404
+7.2.0-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-3/ext-as-7.2.0-3.jar returned status 404
+7.2.0-4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-4.1.0/ext-as-7.2.0-4.1.0.jar returned status 404
+7.2.0-4.1.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-4.1.0-alpha-1/ext-as-7.2.0-4.1.0-alpha-1.jar returned status 404
+7.2.0-4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/jangaroo/ext-as/7.2.0-4.1.1/ext-as-7.2.0-4.1.1.jar returned status 404

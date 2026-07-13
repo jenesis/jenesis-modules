@@ -1,3 +1,5 @@
 0.2.0		2016-01-29T19:24:07Z	
 0.2.1		2016-02-02T13:23:00Z	
 0.2.2		2016-02-19T15:56:28Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/objectos/way/io/0.3.0/io-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/objectos/way/io/0.3.1/io-0.3.1.jar returned status 404

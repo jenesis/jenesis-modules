@@ -20,8 +20,11 @@
 1.0.31		2020-12-12T14:08:28Z	
 1.0.32		2020-12-25T06:46:14Z	
 1.0.33		2021-01-07T03:20:48Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mpeople/1.0.4/ms-mpeople-1.0.4.jar returned status 404
 1.0.4	classes	2018-04-28T04:26:52Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mpeople/1.0.5/ms-mpeople-1.0.5.jar returned status 404
 1.0.5	classes	2018-06-30T15:28:18Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/mingsoft/ms-mpeople/1.0.6/ms-mpeople-1.0.6.jar returned status 404
 1.0.6	classes	2018-07-31T07:00:36Z	
 1.0.7		2019-05-05T08:41:36Z	
 1.0.8		2019-08-09T14:25:08Z	

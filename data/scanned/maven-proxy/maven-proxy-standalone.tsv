@@ -1,2 +1,4 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/maven-proxy/maven-proxy-standalone/0.1/maven-proxy-standalone-0.1.jar returned status 404
 0.1	uber	2005-11-22T18:16:27Z	
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/maven-proxy/maven-proxy-standalone/0.2/maven-proxy-standalone-0.2.jar returned status 404
 0.2	app	2006-01-28T01:33:45Z	

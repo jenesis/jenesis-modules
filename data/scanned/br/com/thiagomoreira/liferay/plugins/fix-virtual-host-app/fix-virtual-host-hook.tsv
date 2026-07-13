@@ -1,3 +1,6 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/thiagomoreira/liferay/plugins/fix-virtual-host-app/fix-virtual-host-hook/1.0.0/fix-virtual-host-hook-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/thiagomoreira/liferay/plugins/fix-virtual-host-app/fix-virtual-host-hook/1.1.0/fix-virtual-host-hook-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/thiagomoreira/liferay/plugins/fix-virtual-host-app/fix-virtual-host-hook/1.2.0/fix-virtual-host-hook-1.2.0.jar returned status 404
 2.0.0		2019-01-23T02:19:14Z	
 3.0.0		2019-09-30T14:08:19Z	
 3.0.1		2021-03-10T22:11:45Z	

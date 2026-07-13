@@ -1,1 +1,23 @@
 0.1.2		2008-11-24T23:40:34Z	
+0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.10/lift-0.10.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.3.0/lift-0.3.0.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.4/lift-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.5/lift-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.6/lift-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.7/lift-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.8/lift-0.8.jar returned status 404
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/0.9/lift-0.9.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.0/lift-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.0.1/lift-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.0.2/lift-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.0.3/lift-1.0.3.jar returned status 404
+1.1-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M1/lift-1.1-M1.jar returned status 404
+1.1-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M3/lift-1.1-M3.jar returned status 404
+1.1-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M4/lift-1.1-M4.jar returned status 404
+1.1-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M5/lift-1.1-M5.jar returned status 404
+1.1-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M6/lift-1.1-M6.jar returned status 404
+1.1-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M7/lift-1.1-M7.jar returned status 404
+1.1-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/1.1-M8/lift-1.1-M8.jar returned status 404
+2.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/2.0-M4/lift-2.0-M4.jar returned status 404
+2.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/2.2-RC1/lift-2.2-RC1.jar returned status 404
+2.2-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/liftweb/lift/2.2-RC5/lift-2.2-RC5.jar returned status 404
