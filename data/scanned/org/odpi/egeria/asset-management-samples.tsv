@@ -12,3 +12,33 @@
 1.6	jar-with-dependencies	2020-04-08T21:59:11Z	
 1.7		2020-05-04T12:46:26Z	
 1.7	jar-with-dependencies	2020-05-04T12:46:22Z	
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/1.8/asset-management-samples-1.8.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.0/asset-management-samples-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.1/asset-management-samples-2.1.jar returned status 404
+2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.10/asset-management-samples-2.10.jar returned status 404
+2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.11/asset-management-samples-2.11.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.2/asset-management-samples-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.3/asset-management-samples-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.4/asset-management-samples-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.5/asset-management-samples-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.6/asset-management-samples-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.7/asset-management-samples-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.8/asset-management-samples-2.8.jar returned status 404
+2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/2.9/asset-management-samples-2.9.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.0/asset-management-samples-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.1/asset-management-samples-3.1.jar returned status 404
+3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.10/asset-management-samples-3.10.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.10.1/asset-management-samples-3.10.1.jar returned status 404
+3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.11/asset-management-samples-3.11.jar returned status 404
+3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.12/asset-management-samples-3.12.jar returned status 404
+3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.13/asset-management-samples-3.13.jar returned status 404
+3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.14/asset-management-samples-3.14.jar returned status 404
+3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.15/asset-management-samples-3.15.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.2/asset-management-samples-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.3/asset-management-samples-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.4/asset-management-samples-3.4.jar returned status 404
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.5/asset-management-samples-3.5.jar returned status 404
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.6/asset-management-samples-3.6.jar returned status 404
+3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.7/asset-management-samples-3.7.jar returned status 404
+3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.8/asset-management-samples-3.8.jar returned status 404
+3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/asset-management-samples/3.9/asset-management-samples-3.9.jar returned status 404

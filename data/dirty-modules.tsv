@@ -1747,3 +1747,5 @@ bus.health
 bus.opencv
 bus.shade
 org.zeroturnaround.exec
+org.pdfsam.eventstudio
+swim.cli

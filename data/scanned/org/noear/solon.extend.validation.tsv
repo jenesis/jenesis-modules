@@ -65,6 +65,7 @@
 1.2.20		2021-01-13T12:32:37Z	
 1.2.21		2021-01-17T02:47:09Z	
 1.2.22		2021-01-19T13:54:09Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.extend.validation/1.2.23/solon.extend.validation-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:15:10Z	
 1.2.25		2021-01-23T11:03:13Z	
 1.2.26		2021-01-24T14:24:02Z	

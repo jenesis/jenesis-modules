@@ -146,6 +146,7 @@
 1.2.20		2021-01-13T12:30:39Z	
 1.2.21		2021-01-17T02:45:27Z	
 1.2.22		2021-01-19T13:50:42Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.extend.staticfiles/1.2.23/solon.extend.staticfiles-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:12:31Z	
 1.2.25		2021-01-23T11:01:30Z	
 1.2.26		2021-01-24T14:21:47Z	
@@ -368,6 +369,7 @@
 1.6.37-m2		2022-04-03T10:16:10Z	
 1.6.37-m3		2022-04-04T14:21:12Z	
 1.6.37-m4		2022-04-05T14:55:27Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.extend.staticfiles/1.6.37-m5/solon.extend.staticfiles-1.6.37-m5.jar returned status 404
 1.6.4		2021-12-03T15:47:03Z	
 1.6.5		2021-12-04T05:46:12Z	
 1.6.6		2021-12-08T03:56:43Z	

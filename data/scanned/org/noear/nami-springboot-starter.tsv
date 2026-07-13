@@ -7,6 +7,7 @@
 1.2.20		2021-01-13T12:46:20Z	
 1.2.21		2021-01-17T02:56:41Z	
 1.2.22		2021-01-19T14:13:34Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/nami-springboot-starter/1.2.23/nami-springboot-starter-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:29:55Z	
 1.2.25		2021-01-23T11:12:30Z	
 1.2.26		2021-01-24T14:38:12Z	

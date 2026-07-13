@@ -1,4 +1,5 @@
 2.0.10		2021-01-19T14:36:22Z	
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/water.client.slf4j/2.0.11/water.client.slf4j-2.0.11.jar returned status 404
 2.0.12		2021-01-23T06:57:03Z	
 2.0.13		2021-01-23T10:32:50Z	
 2.0.14		2021-01-24T13:01:45Z	

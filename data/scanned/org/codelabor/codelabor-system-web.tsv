@@ -5,6 +5,7 @@
 2.0.4		2010-10-06T05:29:45Z	
 2.0.5		2010-10-17T23:45:10Z	
 2.0.6		2010-12-15T09:25:24Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codelabor/codelabor-system-web/3.0.0/codelabor-system-web-3.0.0.jar returned status 404
 3.0.2		2011-04-19T00:39:30Z	
 3.0.3		2011-04-20T05:36:22Z	
 4.0.0		2014-03-25T12:34:42Z	

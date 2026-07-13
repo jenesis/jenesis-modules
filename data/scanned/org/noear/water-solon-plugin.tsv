@@ -44,6 +44,7 @@
 1.10.8-M3		2022-10-20T12:37:44Z	
 1.10.9		2022-10-24T15:59:14Z	
 1.2.22		2021-01-19T14:14:21Z	
+1.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/water-solon-plugin/1.2.23/water-solon-plugin-1.2.23.jar returned status 404
 1.2.24		2021-01-23T07:31:06Z	
 1.2.25		2021-01-23T11:13:06Z	
 1.2.26		2021-01-24T14:39:25Z	
@@ -259,6 +260,7 @@
 1.6.37-m2		2022-04-03T10:19:45Z	
 1.6.37-m3		2022-04-04T14:18:14Z	
 1.6.37-m4		2022-04-05T15:07:09Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/water-solon-plugin/1.6.37-m5/water-solon-plugin-1.6.37-m5.jar returned status 404
 1.6.4		2021-12-03T15:27:49Z	
 1.6.5		2021-12-04T05:48:47Z	
 1.6.6		2021-12-08T03:57:08Z	

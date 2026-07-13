@@ -153,6 +153,7 @@
 1.6.37-m2		2022-04-03T10:18:13Z	
 1.6.37-m3		2022-04-04T14:19:39Z	
 1.6.37-m4		2022-04-05T14:55:02Z	
+1.6.37-m5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon.extend.async/1.6.37-m5/solon.extend.async-1.6.37-m5.jar returned status 404
 1.7.0		2022-04-06T15:23:34Z	
 1.7.1		2022-04-09T12:21:32Z	
 1.7.2		2022-04-15T15:35:16Z	

@@ -5,3 +5,33 @@
 1.5		2020-03-03T16:36:41Z	
 1.6		2020-04-09T00:10:59Z	
 1.7		2020-05-04T16:47:51Z	
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/1.8/design-model-archives-1.8.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.0/design-model-archives-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.1/design-model-archives-2.1.jar returned status 404
+2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.10/design-model-archives-2.10.jar returned status 404
+2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.11/design-model-archives-2.11.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.2/design-model-archives-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.3/design-model-archives-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.4/design-model-archives-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.5/design-model-archives-2.5.jar returned status 404
+2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.6/design-model-archives-2.6.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.7/design-model-archives-2.7.jar returned status 404
+2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.8/design-model-archives-2.8.jar returned status 404
+2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/2.9/design-model-archives-2.9.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.0/design-model-archives-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.1/design-model-archives-3.1.jar returned status 404
+3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.10/design-model-archives-3.10.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.10.1/design-model-archives-3.10.1.jar returned status 404
+3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.11/design-model-archives-3.11.jar returned status 404
+3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.12/design-model-archives-3.12.jar returned status 404
+3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.13/design-model-archives-3.13.jar returned status 404
+3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.14/design-model-archives-3.14.jar returned status 404
+3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.15/design-model-archives-3.15.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.2/design-model-archives-3.2.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.3/design-model-archives-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.4/design-model-archives-3.4.jar returned status 404
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.5/design-model-archives-3.5.jar returned status 404
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.6/design-model-archives-3.6.jar returned status 404
+3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.7/design-model-archives-3.7.jar returned status 404
+3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.8/design-model-archives-3.8.jar returned status 404
+3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/odpi/egeria/design-model-archives/3.9/design-model-archives-3.9.jar returned status 404
