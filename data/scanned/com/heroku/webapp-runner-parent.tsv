@@ -1,3 +1,17 @@
+10.1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.16.0/webapp-runner-parent-10.1.16.0.jar returned status 404
+10.1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.17.0/webapp-runner-parent-10.1.17.0.jar returned status 404
+10.1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.18.0/webapp-runner-parent-10.1.18.0.jar returned status 404
+10.1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.19.0/webapp-runner-parent-10.1.19.0.jar returned status 404
+10.1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.20.0/webapp-runner-parent-10.1.20.0.jar returned status 404
+10.1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.23.0/webapp-runner-parent-10.1.23.0.jar returned status 404
+10.1.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.24.0/webapp-runner-parent-10.1.24.0.jar returned status 404
+10.1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.25.0/webapp-runner-parent-10.1.25.0.jar returned status 404
+10.1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.28.0/webapp-runner-parent-10.1.28.0.jar returned status 404
+10.1.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.31.0/webapp-runner-parent-10.1.31.0.jar returned status 404
+10.1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.33.0/webapp-runner-parent-10.1.33.0.jar returned status 404
+10.1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.34.0/webapp-runner-parent-10.1.34.0.jar returned status 404
+10.1.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.36.0/webapp-runner-parent-10.1.36.0.jar returned status 404
+10.1.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.41.0/webapp-runner-parent-10.1.41.0.jar returned status 404
 10.1.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.42.0/webapp-runner-parent-10.1.42.0.jar returned status 404
 10.1.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.43.0/webapp-runner-parent-10.1.43.0.jar returned status 404
 10.1.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.44.0/webapp-runner-parent-10.1.44.0.jar returned status 404
@@ -9,6 +23,15 @@
 10.1.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.54.0/webapp-runner-parent-10.1.54.0.jar returned status 404
 10.1.55.0		2026-05-28T08:58:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.55.0/webapp-runner-parent-10.1.55.0.jar returned status 404
 10.1.56.0		2026-07-06T08:50:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/10.1.56.0/webapp-runner-parent-10.1.56.0.jar returned status 404
+8.5.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.50.0/webapp-runner-parent-8.5.50.0.jar returned status 404
+8.5.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.51.0/webapp-runner-parent-8.5.51.0.jar returned status 404
+8.5.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.56.0/webapp-runner-parent-8.5.56.0.jar returned status 404
+8.5.57.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.57.0/webapp-runner-parent-8.5.57.0.jar returned status 404
+8.5.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.61.0/webapp-runner-parent-8.5.61.0.jar returned status 404
+8.5.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.68.0/webapp-runner-parent-8.5.68.0.jar returned status 404
+8.5.68.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/8.5.68.1/webapp-runner-parent-8.5.68.1.jar returned status 404
+9.0.100.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.100.0/webapp-runner-parent-9.0.100.0.jar returned status 404
+9.0.105.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.105.0/webapp-runner-parent-9.0.105.0.jar returned status 404
 9.0.106.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.106.0/webapp-runner-parent-9.0.106.0.jar returned status 404
 9.0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.107.0/webapp-runner-parent-9.0.107.0.jar returned status 404
 9.0.108.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.108.0/webapp-runner-parent-9.0.108.0.jar returned status 404
@@ -20,3 +43,36 @@
 9.0.117.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.117.0/webapp-runner-parent-9.0.117.0.jar returned status 404
 9.0.118.0		2026-05-28T08:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.118.0/webapp-runner-parent-9.0.118.0.jar returned status 404
 9.0.119.0		2026-07-06T08:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.119.0/webapp-runner-parent-9.0.119.0.jar returned status 404
+9.0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.30.0/webapp-runner-parent-9.0.30.0.jar returned status 404
+9.0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.31.0/webapp-runner-parent-9.0.31.0.jar returned status 404
+9.0.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.36.1/webapp-runner-parent-9.0.36.1.jar returned status 404
+9.0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.38.0/webapp-runner-parent-9.0.38.0.jar returned status 404
+9.0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.41.0/webapp-runner-parent-9.0.41.0.jar returned status 404
+9.0.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.52.0/webapp-runner-parent-9.0.52.0.jar returned status 404
+9.0.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.52.1/webapp-runner-parent-9.0.52.1.jar returned status 404
+9.0.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.68.0/webapp-runner-parent-9.0.68.0.jar returned status 404
+9.0.68.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.68.1/webapp-runner-parent-9.0.68.1.jar returned status 404
+9.0.69.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.69.0/webapp-runner-parent-9.0.69.0.jar returned status 404
+9.0.69.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.69.1/webapp-runner-parent-9.0.69.1.jar returned status 404
+9.0.70.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.70.0/webapp-runner-parent-9.0.70.0.jar returned status 404
+9.0.71.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.71.0/webapp-runner-parent-9.0.71.0.jar returned status 404
+9.0.72.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.72.0/webapp-runner-parent-9.0.72.0.jar returned status 404
+9.0.72.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.72.1/webapp-runner-parent-9.0.72.1.jar returned status 404
+9.0.72.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.72.2/webapp-runner-parent-9.0.72.2.jar returned status 404
+9.0.73.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.73.0/webapp-runner-parent-9.0.73.0.jar returned status 404
+9.0.75.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.75.0/webapp-runner-parent-9.0.75.0.jar returned status 404
+9.0.78.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.78.0/webapp-runner-parent-9.0.78.0.jar returned status 404
+9.0.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.80.0/webapp-runner-parent-9.0.80.0.jar returned status 404
+9.0.83.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.83.0/webapp-runner-parent-9.0.83.0.jar returned status 404
+9.0.83.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.83.1/webapp-runner-parent-9.0.83.1.jar returned status 404
+9.0.84.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.84.0/webapp-runner-parent-9.0.84.0.jar returned status 404
+9.0.85.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.85.0/webapp-runner-parent-9.0.85.0.jar returned status 404
+9.0.86.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.86.0/webapp-runner-parent-9.0.86.0.jar returned status 404
+9.0.87.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.87.0/webapp-runner-parent-9.0.87.0.jar returned status 404
+9.0.88.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.88.0/webapp-runner-parent-9.0.88.0.jar returned status 404
+9.0.89.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.89.0/webapp-runner-parent-9.0.89.0.jar returned status 404
+9.0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.91.0/webapp-runner-parent-9.0.91.0.jar returned status 404
+9.0.93.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.93.0/webapp-runner-parent-9.0.93.0.jar returned status 404
+9.0.96.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.96.0/webapp-runner-parent-9.0.96.0.jar returned status 404
+9.0.97.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.97.0/webapp-runner-parent-9.0.97.0.jar returned status 404
+9.0.98.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heroku/webapp-runner-parent/9.0.98.0/webapp-runner-parent-9.0.98.0.jar returned status 404

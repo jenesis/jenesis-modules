@@ -21,8 +21,29 @@
 10.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/10.9.0/swrve-conversations-10.9.0.jar returned status 404
 10.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/10.9.1/swrve-conversations-10.9.1.jar returned status 404
 10.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/10.9.2/swrve-conversations-10.9.2.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/4.6.2/swrve-conversations-4.6.2.jar returned status 404
 4.6.2	source	2021-03-01T15:24:39Z	
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/4.9.0/swrve-conversations-4.9.0.jar returned status 404
 4.9.0	source	2021-03-01T16:04:16Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/5.3.0/swrve-conversations-5.3.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.0.1/swrve-conversations-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.0.2/swrve-conversations-6.0.2.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.1.0/swrve-conversations-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.1.1/swrve-conversations-6.1.1.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.2.0/swrve-conversations-6.2.0.jar returned status 404
+6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.2.1/swrve-conversations-6.2.1.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.3.0/swrve-conversations-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/6.3.1/swrve-conversations-6.3.1.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.0.0/swrve-conversations-7.0.0.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.1.0/swrve-conversations-7.1.0.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.2.0/swrve-conversations-7.2.0.jar returned status 404
+7.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.2.1/swrve-conversations-7.2.1.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.3.0/swrve-conversations-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.3.1/swrve-conversations-7.3.1.jar returned status 404
+7.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.3.2/swrve-conversations-7.3.2.jar returned status 404
+7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.4.0/swrve-conversations-7.4.0.jar returned status 404
+7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.5.0/swrve-conversations-7.5.0.jar returned status 404
+7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.6.0/swrve-conversations-7.6.0.jar returned status 404
 7.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/7.6.1/swrve-conversations-7.6.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/8.0.0/swrve-conversations-8.0.0.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/swrve/sdk/android/swrve-conversations/9.0.0/swrve-conversations-9.0.0.jar returned status 404

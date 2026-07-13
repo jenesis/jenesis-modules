@@ -173,6 +173,8 @@
 6.32.8		2026-06-15T08:42:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.32.8/analyticsEvents-6.32.8.jar returned status 404
 6.33.0		2026-06-23T04:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.33.0/analyticsEvents-6.33.0.jar returned status 404
 6.33.1		2026-06-29T16:25:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.33.1/analyticsEvents-6.33.1.jar returned status 404
+6.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.33.2/analyticsEvents-6.33.2.jar returned status 404
+6.33.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.33.3/analyticsEvents-6.33.3.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.4.0/analyticsEvents-6.4.0.jar returned status 404
 6.4.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.4.0-RC.10/analyticsEvents-6.4.0-RC.10.jar returned status 404
 6.4.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firework/service/analyticsEvents/6.4.0-RC.11/analyticsEvents-6.4.0-RC.11.jar returned status 404
