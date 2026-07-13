@@ -14,3 +14,5 @@
 4.2.0		2023-12-16T15:12:09Z	
 4.2.1		2024-10-23T02:46:02Z	
 4.2.2		2024-12-15T02:15:52Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/black/ninia/jep/4.3.0/jep-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/black/ninia/jep/4.3.1/jep-4.3.1.jar returned status 404

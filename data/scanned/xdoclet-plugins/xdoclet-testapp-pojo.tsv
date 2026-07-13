@@ -4,6 +4,10 @@
 1.0.3		2005-12-14T13:35:29Z	
 20050206.203951		2005-08-01T09:51:38Z	
 20050208.124907		2005-08-01T09:51:38Z	
+20050220.190746			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-testapp-pojo/20050220.190746/xdoclet-testapp-pojo-20050220.190746.jar returned status 404
+20050220.191444			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-testapp-pojo/20050220.191444/xdoclet-testapp-pojo-20050220.191444.jar returned status 404
+20050220.191729			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-testapp-pojo/20050220.191729/xdoclet-testapp-pojo-20050220.191729.jar returned status 404
+20050221.195713			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-testapp-pojo/20050221.195713/xdoclet-testapp-pojo-20050221.195713.jar returned status 404
 20050221.200355		2005-08-01T09:51:38Z	
 20050221.204948		2005-08-01T09:51:38Z	
 20050222.201754		2005-08-01T09:51:38Z	

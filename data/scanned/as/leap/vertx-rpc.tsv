@@ -3,6 +3,9 @@
 3.0.1		2015-07-31T02:41:37Z	
 3.0.2		2015-09-24T08:06:46Z	
 3.1.1		2016-04-13T06:12:58Z	
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/as/leap/vertx-rpc/3.3.3/vertx-rpc-3.3.3.jar returned status 404
+3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/as/leap/vertx-rpc/3.3.4/vertx-rpc-3.3.4.jar returned status 404
+3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/as/leap/vertx-rpc/3.3.5/vertx-rpc-3.3.5.jar returned status 404
 3.3.6		2016-11-16T04:38:46Z	
 3.3.7		2016-12-12T08:02:04Z	
 3.3.8		2016-12-26T09:04:43Z	

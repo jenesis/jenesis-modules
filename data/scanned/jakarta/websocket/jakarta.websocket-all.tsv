@@ -1,4 +1,11 @@
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/1.1.1/jakarta.websocket-all-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/1.1.2/jakarta.websocket-all-1.1.2.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.0.0/jakarta.websocket-all-2.0.0.jar returned status 404
+2.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.0.0-M1/jakarta.websocket-all-2.0.0-M1.jar returned status 404
 2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.0.0-RC1/jakarta.websocket-all-2.0.0-RC1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.1.0/jakarta.websocket-all-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.1.1/jakarta.websocket-all-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.2.0/jakarta.websocket-all-2.2.0.jar returned status 404
+2.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.2.0-M1/jakarta.websocket-all-2.2.0-M1.jar returned status 404
 2.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.3.0-M1/jakarta.websocket-all-2.3.0-M1.jar returned status 404
 2.3.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/websocket/jakarta.websocket-all/2.3.0-M2/jakarta.websocket-all-2.3.0-M2.jar returned status 404

@@ -1,1 +1,5 @@
+0.1.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/nosql/communication/communication-api/0.1.0.M1/communication-api-0.1.0.M1.jar returned status 404
+1.0.0-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/nosql/communication/communication-api/1.0.0-b1/communication-api-1.0.0-b1.jar returned status 404
 1.0.0-b3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/nosql/communication/communication-api/1.0.0-b3/communication-api-1.0.0-b3.jar returned status 404
+1.0.0-b4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/nosql/communication/communication-api/1.0.0-b4/communication-api-1.0.0-b4.jar returned status 404
+1.0.0-b5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/nosql/communication/communication-api/1.0.0-b5/communication-api-1.0.0-b5.jar returned status 404

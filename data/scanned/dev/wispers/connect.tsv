@@ -1,4 +1,5 @@
 0.10.0		2026-06-20T20:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wispers/connect/0.10.0/connect-0.10.0.jar returned status 404
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wispers/connect/0.11.0/connect-0.11.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wispers/connect/0.8.0/connect-0.8.0.jar returned status 404
 0.8.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wispers/connect/0.8.0-rc1/connect-0.8.0-rc1.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wispers/connect/0.8.1/connect-0.8.1.jar returned status 404

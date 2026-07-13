@@ -5,4 +5,5 @@
 1.0.3		2005-12-14T13:35:29Z	
 20050206.203946		2005-08-01T09:51:38Z	
 20050208.124858		2005-08-01T09:51:38Z	
+20050302.203230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-plugin-xtags/20050302.203230/xdoclet-plugin-xtags-20050302.203230.jar returned status 404
 20050302.205848		2005-08-01T09:51:38Z	

@@ -5,3 +5,4 @@
 0.0.5		2026-06-29T20:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/education/cccp/workspace-bom/0.0.5/workspace-bom-0.0.5.jar returned status 404
 0.0.6		2026-06-29T21:41:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/education/cccp/workspace-bom/0.0.6/workspace-bom-0.0.6.jar returned status 404
 0.0.7		2026-07-05T12:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/education/cccp/workspace-bom/0.0.7/workspace-bom-0.0.7.jar returned status 404
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/education/cccp/workspace-bom/0.0.8/workspace-bom-0.0.8.jar returned status 404

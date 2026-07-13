@@ -488,3 +488,6 @@ tech.picnic.errorprone.utils
 tech.picnic.errorprone.contrib
 tech.picnic.errorprone.refaster
 tech.picnic.errorprone.experimental
+au.com.dius.pact_jvm_server
+p6spy
+langchain4j.community.oci.genai

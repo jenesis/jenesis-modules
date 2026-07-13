@@ -1,4 +1,15 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/10.0.0/jakarta.jakartaee-bom-10.0.0.jar returned status 404
+10.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/10.0.0-RC1/jakarta.jakartaee-bom-10.0.0-RC1.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0/jakarta.jakartaee-bom-11.0.0.jar returned status 404
+11.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-M1/jakarta.jakartaee-bom-11.0.0-M1.jar returned status 404
+11.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-M2/jakarta.jakartaee-bom-11.0.0-M2.jar returned status 404
+11.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-M3/jakarta.jakartaee-bom-11.0.0-M3.jar returned status 404
+11.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-M4/jakarta.jakartaee-bom-11.0.0-M4.jar returned status 404
+11.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-M5/jakarta.jakartaee-bom-11.0.0-M5.jar returned status 404
+11.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/11.0.0-RC1/jakarta.jakartaee-bom-11.0.0-RC1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/8.0.0/jakarta.jakartaee-bom-8.0.0.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0/jakarta.jakartaee-bom-9.0.0.jar returned status 404
+9.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0-RC1/jakarta.jakartaee-bom-9.0.0-RC1.jar returned status 404
 9.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0-RC2/jakarta.jakartaee-bom-9.0.0-RC2.jar returned status 404
 9.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0-RC3/jakarta.jakartaee-bom-9.0.0-RC3.jar returned status 404
 9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jakarta/platform/jakarta.jakartaee-bom/9.1.0/jakarta.jakartaee-bom-9.1.0.jar returned status 404

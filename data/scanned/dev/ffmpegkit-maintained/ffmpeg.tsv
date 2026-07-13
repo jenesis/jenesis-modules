@@ -1,3 +1,5 @@
 6.0.1		2026-07-04T03:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ffmpegkit-maintained/ffmpeg/6.0.1/ffmpeg-6.0.1.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ffmpegkit-maintained/ffmpeg/6.0.3/ffmpeg-6.0.3.jar returned status 404
 7.1.5		2026-07-04T03:13:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ffmpegkit-maintained/ffmpeg/7.1.5/ffmpeg-7.1.5.jar returned status 404
+7.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ffmpegkit-maintained/ffmpeg/7.1.6/ffmpeg-7.1.6.jar returned status 404
 8.1.7		2026-07-04T03:13:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ffmpegkit-maintained/ffmpeg/8.1.7/ffmpeg-8.1.7.jar returned status 404

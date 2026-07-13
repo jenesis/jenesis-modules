@@ -7,6 +7,7 @@
 20050208.124218		2005-08-01T09:51:38Z	
 20050221.205315		2005-08-01T09:51:38Z	
 20050222.202037		2005-08-01T09:51:38Z	
+20050302.192901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xdoclet-plugins/xdoclet-testapp-portlet/20050302.192901/xdoclet-testapp-portlet-20050302.192901.jar returned status 404
 20050302.194308		2005-08-01T09:51:38Z	
 20050302.195841		2005-08-01T09:51:38Z	
 20050302.201435		2005-08-01T09:51:38Z	

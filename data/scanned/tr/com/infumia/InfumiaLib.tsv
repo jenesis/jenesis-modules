@@ -1,3 +1,6 @@
+1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tr/com/infumia/InfumiaLib/1.7.5/InfumiaLib-1.7.5.jar returned status 404
+1.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tr/com/infumia/InfumiaLib/1.7.6/InfumiaLib-1.7.6.jar returned status 404
+1.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tr/com/infumia/InfumiaLib/1.7.7/InfumiaLib-1.7.7.jar returned status 404
 3.0.0		2021-10-30T01:20:34Z	
 3.0.1		2021-10-31T16:43:12Z	
 3.0.10		2021-12-18T21:13:13Z	
