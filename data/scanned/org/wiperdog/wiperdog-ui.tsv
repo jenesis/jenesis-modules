@@ -1,3 +1,4 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wiperdog/wiperdog-ui/0.2.0/wiperdog-ui-0.2.0.jar returned status 404
 0.2.1		2013-10-01T19:55:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wiperdog/wiperdog-ui/0.2.1/wiperdog-ui-0.2.1.jar returned status 404
 0.2.2		2013-11-07T07:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wiperdog/wiperdog-ui/0.2.2/wiperdog-ui-0.2.2.jar returned status 404
 0.2.3		2014-07-14T06:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wiperdog/wiperdog-ui/0.2.3/wiperdog-ui-0.2.3.jar returned status 404

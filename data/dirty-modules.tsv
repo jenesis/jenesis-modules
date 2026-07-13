@@ -1795,3 +1795,15 @@ org.jbpm.workitem.email
 org.jbpm.workitem.bpmn2
 org.jbpm.workitem.jms
 org.jbpm.installer
+org.jbpm.workitem.rest
+org.cloudfoundry.multiapps.controller.process
+org.cloudfoundry.multiapps.controller.shutdown.client
+org.cloudfoundry.multiapps.controller.core.test
+org.cloudfoundry.multiapps.controller.persistence
+org.cloudfoundry.multiapps.controller.persistence.test
+org.cloudfoundry.multiapps.controller.database.migration
+org.cloudfoundry.multiapps.controller.core
+org.cloudfoundry.multiapps.controller.api
+org.cloudfoundry.multiapps.controller.client
+org.kohsuke.github.api
+org.apidesign.jvm.channel
