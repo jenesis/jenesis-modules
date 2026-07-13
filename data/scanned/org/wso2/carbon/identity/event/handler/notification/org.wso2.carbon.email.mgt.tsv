@@ -60,6 +60,7 @@
 1.13.4		2026-04-30T05:28:04Z	
 1.13.5		2026-06-17T11:58:28Z	
 1.13.6		2026-06-17T14:13:06Z	
+1.13.7			
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.2.0/org.wso2.carbon.email.mgt-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.2.1/org.wso2.carbon.email.mgt-1.2.1.jar returned status 404
 1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.2.10/org.wso2.carbon.email.mgt-1.2.10.jar returned status 404
@@ -110,6 +111,8 @@
 1.3.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.3.29/org.wso2.carbon.email.mgt-1.3.29.jar returned status 404
 1.3.3		2020-04-24T03:39:22Z	
 1.3.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.3.30/org.wso2.carbon.email.mgt-1.3.30.jar returned status 404
+1.3.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.3.31/org.wso2.carbon.email.mgt-1.3.31.jar returned status 404
+1.3.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.3.32/org.wso2.carbon.email.mgt-1.3.32.jar returned status 404
 1.3.4		2020-04-24T08:36:40Z	
 1.3.5		2020-04-30T16:58:30Z	
 1.3.6		2020-06-30T21:46:22Z	
@@ -117,6 +120,10 @@
 1.3.8		2020-08-12T12:46:13Z	
 1.3.9		2020-08-27T03:00:39Z	
 1.4.0		2022-01-20T09:09:20Z	
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.4.1/org.wso2.carbon.email.mgt-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.4.2/org.wso2.carbon.email.mgt-1.4.2.jar returned status 404
+1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.4.3/org.wso2.carbon.email.mgt-1.4.3.jar returned status 404
+1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.4.4/org.wso2.carbon.email.mgt-1.4.4.jar returned status 404
 1.4.5		2022-07-11T15:23:42Z	
 1.4.6		2022-07-12T05:21:10Z	
 1.4.7		2022-07-15T08:59:37Z	
@@ -132,38 +139,145 @@
 1.7.1		2022-10-02T14:21:56Z	
 1.7.10		2023-04-19T09:47:01Z	
 1.7.11		2023-04-20T10:45:19Z	
+1.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.12/org.wso2.carbon.email.mgt-1.7.12.jar returned status 404
+1.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.13/org.wso2.carbon.email.mgt-1.7.13.jar returned status 404
+1.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.14/org.wso2.carbon.email.mgt-1.7.14.jar returned status 404
+1.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.15/org.wso2.carbon.email.mgt-1.7.15.jar returned status 404
+1.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.16/org.wso2.carbon.email.mgt-1.7.16.jar returned status 404
+1.7.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.17/org.wso2.carbon.email.mgt-1.7.17.jar returned status 404
+1.7.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.18/org.wso2.carbon.email.mgt-1.7.18.jar returned status 404
+1.7.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.19/org.wso2.carbon.email.mgt-1.7.19.jar returned status 404
 1.7.2		2022-10-14T18:00:54Z	
+1.7.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.20/org.wso2.carbon.email.mgt-1.7.20.jar returned status 404
+1.7.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.21/org.wso2.carbon.email.mgt-1.7.21.jar returned status 404
+1.7.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.22/org.wso2.carbon.email.mgt-1.7.22.jar returned status 404
+1.7.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.23/org.wso2.carbon.email.mgt-1.7.23.jar returned status 404
+1.7.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.24/org.wso2.carbon.email.mgt-1.7.24.jar returned status 404
+1.7.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.25/org.wso2.carbon.email.mgt-1.7.25.jar returned status 404
+1.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.26/org.wso2.carbon.email.mgt-1.7.26.jar returned status 404
+1.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.27/org.wso2.carbon.email.mgt-1.7.27.jar returned status 404
+1.7.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.28/org.wso2.carbon.email.mgt-1.7.28.jar returned status 404
+1.7.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.29/org.wso2.carbon.email.mgt-1.7.29.jar returned status 404
 1.7.3		2022-10-15T10:55:30Z	
+1.7.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.30/org.wso2.carbon.email.mgt-1.7.30.jar returned status 404
+1.7.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.31/org.wso2.carbon.email.mgt-1.7.31.jar returned status 404
 1.7.32		2024-01-10T04:59:38Z	
+1.7.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.33/org.wso2.carbon.email.mgt-1.7.33.jar returned status 404
+1.7.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.34/org.wso2.carbon.email.mgt-1.7.34.jar returned status 404
+1.7.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.35/org.wso2.carbon.email.mgt-1.7.35.jar returned status 404
 1.7.36		2026-02-11T07:26:54Z	
 1.7.4		2022-11-29T05:22:49Z	
+1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.5/org.wso2.carbon.email.mgt-1.7.5.jar returned status 404
+1.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.6/org.wso2.carbon.email.mgt-1.7.6.jar returned status 404
+1.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.7.7/org.wso2.carbon.email.mgt-1.7.7.jar returned status 404
 1.7.8		2023-02-16T05:44:18Z	
 1.7.9		2023-03-20T04:32:48Z	
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.0/org.wso2.carbon.email.mgt-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.1/org.wso2.carbon.email.mgt-1.8.1.jar returned status 404
 1.8.10		2024-04-10T04:06:19Z	
 1.8.11		2024-04-17T05:47:21Z	
 1.8.12		2024-04-18T10:04:46Z	
 1.8.13		2024-04-18T11:30:07Z	
 1.8.14		2024-04-23T11:26:59Z	
 1.8.15		2024-04-25T07:34:03Z	
+1.8.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.16/org.wso2.carbon.email.mgt-1.8.16.jar returned status 404
 1.8.17		2024-05-10T10:04:32Z	
 1.8.18		2024-05-17T07:30:54Z	
 1.8.19		2024-06-13T04:33:49Z	
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.2/org.wso2.carbon.email.mgt-1.8.2.jar returned status 404
+1.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.20/org.wso2.carbon.email.mgt-1.8.20.jar returned status 404
+1.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.21/org.wso2.carbon.email.mgt-1.8.21.jar returned status 404
+1.8.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.22/org.wso2.carbon.email.mgt-1.8.22.jar returned status 404
+1.8.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.23/org.wso2.carbon.email.mgt-1.8.23.jar returned status 404
+1.8.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.24/org.wso2.carbon.email.mgt-1.8.24.jar returned status 404
+1.8.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.25/org.wso2.carbon.email.mgt-1.8.25.jar returned status 404
+1.8.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.26/org.wso2.carbon.email.mgt-1.8.26.jar returned status 404
+1.8.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.27/org.wso2.carbon.email.mgt-1.8.27.jar returned status 404
+1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.3/org.wso2.carbon.email.mgt-1.8.3.jar returned status 404
+1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.4/org.wso2.carbon.email.mgt-1.8.4.jar returned status 404
+1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.5/org.wso2.carbon.email.mgt-1.8.5.jar returned status 404
+1.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.6/org.wso2.carbon.email.mgt-1.8.6.jar returned status 404
+1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.7/org.wso2.carbon.email.mgt-1.8.7.jar returned status 404
+1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.8.8/org.wso2.carbon.email.mgt-1.8.8.jar returned status 404
 1.8.9		2024-04-08T06:38:55Z	
 1.9.0		2024-08-30T08:12:02Z	
 1.9.1		2024-09-02T08:20:47Z	
+1.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.10/org.wso2.carbon.email.mgt-1.9.10.jar returned status 404
+1.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.11/org.wso2.carbon.email.mgt-1.9.11.jar returned status 404
+1.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.12/org.wso2.carbon.email.mgt-1.9.12.jar returned status 404
+1.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.13/org.wso2.carbon.email.mgt-1.9.13.jar returned status 404
+1.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.14/org.wso2.carbon.email.mgt-1.9.14.jar returned status 404
+1.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.15/org.wso2.carbon.email.mgt-1.9.15.jar returned status 404
+1.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.16/org.wso2.carbon.email.mgt-1.9.16.jar returned status 404
 1.9.17		2024-11-11T04:12:52Z	
 1.9.18		2024-11-11T06:33:37Z	
+1.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.19/org.wso2.carbon.email.mgt-1.9.19.jar returned status 404
 1.9.2		2024-09-02T12:42:22Z	
+1.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.20/org.wso2.carbon.email.mgt-1.9.20.jar returned status 404
+1.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.21/org.wso2.carbon.email.mgt-1.9.21.jar returned status 404
+1.9.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.22/org.wso2.carbon.email.mgt-1.9.22.jar returned status 404
+1.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.23/org.wso2.carbon.email.mgt-1.9.23.jar returned status 404
+1.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.24/org.wso2.carbon.email.mgt-1.9.24.jar returned status 404
+1.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.25/org.wso2.carbon.email.mgt-1.9.25.jar returned status 404
+1.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.26/org.wso2.carbon.email.mgt-1.9.26.jar returned status 404
+1.9.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.27/org.wso2.carbon.email.mgt-1.9.27.jar returned status 404
+1.9.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.28/org.wso2.carbon.email.mgt-1.9.28.jar returned status 404
+1.9.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.29/org.wso2.carbon.email.mgt-1.9.29.jar returned status 404
 1.9.3		2024-09-04T07:05:25Z	
+1.9.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.30/org.wso2.carbon.email.mgt-1.9.30.jar returned status 404
+1.9.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.31/org.wso2.carbon.email.mgt-1.9.31.jar returned status 404
+1.9.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.32/org.wso2.carbon.email.mgt-1.9.32.jar returned status 404
 1.9.33		2025-01-20T11:27:23Z	
+1.9.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.34/org.wso2.carbon.email.mgt-1.9.34.jar returned status 404
+1.9.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.35/org.wso2.carbon.email.mgt-1.9.35.jar returned status 404
+1.9.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.36/org.wso2.carbon.email.mgt-1.9.36.jar returned status 404
+1.9.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.37/org.wso2.carbon.email.mgt-1.9.37.jar returned status 404
+1.9.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.38/org.wso2.carbon.email.mgt-1.9.38.jar returned status 404
+1.9.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.39/org.wso2.carbon.email.mgt-1.9.39.jar returned status 404
 1.9.4		2024-09-04T09:27:15Z	
+1.9.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.40/org.wso2.carbon.email.mgt-1.9.40.jar returned status 404
+1.9.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.41/org.wso2.carbon.email.mgt-1.9.41.jar returned status 404
 1.9.42		2025-02-19T00:49:24Z	
+1.9.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.43/org.wso2.carbon.email.mgt-1.9.43.jar returned status 404
+1.9.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.44/org.wso2.carbon.email.mgt-1.9.44.jar returned status 404
+1.9.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.45/org.wso2.carbon.email.mgt-1.9.45.jar returned status 404
+1.9.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.46/org.wso2.carbon.email.mgt-1.9.46.jar returned status 404
+1.9.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.47/org.wso2.carbon.email.mgt-1.9.47.jar returned status 404
 1.9.48		2025-04-01T08:00:05Z	
+1.9.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.49/org.wso2.carbon.email.mgt-1.9.49.jar returned status 404
 1.9.5		2024-09-28T16:21:38Z	
+1.9.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.50/org.wso2.carbon.email.mgt-1.9.50.jar returned status 404
+1.9.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.51/org.wso2.carbon.email.mgt-1.9.51.jar returned status 404
+1.9.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.52/org.wso2.carbon.email.mgt-1.9.52.jar returned status 404
+1.9.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.53/org.wso2.carbon.email.mgt-1.9.53.jar returned status 404
+1.9.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.54/org.wso2.carbon.email.mgt-1.9.54.jar returned status 404
+1.9.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.55/org.wso2.carbon.email.mgt-1.9.55.jar returned status 404
+1.9.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.56/org.wso2.carbon.email.mgt-1.9.56.jar returned status 404
+1.9.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.57/org.wso2.carbon.email.mgt-1.9.57.jar returned status 404
+1.9.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.58/org.wso2.carbon.email.mgt-1.9.58.jar returned status 404
+1.9.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.59/org.wso2.carbon.email.mgt-1.9.59.jar returned status 404
 1.9.6		2024-10-02T18:15:59Z	
+1.9.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.60/org.wso2.carbon.email.mgt-1.9.60.jar returned status 404
+1.9.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.61/org.wso2.carbon.email.mgt-1.9.61.jar returned status 404
+1.9.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.62/org.wso2.carbon.email.mgt-1.9.62.jar returned status 404
+1.9.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.63/org.wso2.carbon.email.mgt-1.9.63.jar returned status 404
+1.9.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.64/org.wso2.carbon.email.mgt-1.9.64.jar returned status 404
+1.9.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.65/org.wso2.carbon.email.mgt-1.9.65.jar returned status 404
+1.9.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.66/org.wso2.carbon.email.mgt-1.9.66.jar returned status 404
+1.9.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.67/org.wso2.carbon.email.mgt-1.9.67.jar returned status 404
+1.9.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.68/org.wso2.carbon.email.mgt-1.9.68.jar returned status 404
+1.9.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.69/org.wso2.carbon.email.mgt-1.9.69.jar returned status 404
+1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.7/org.wso2.carbon.email.mgt-1.9.7.jar returned status 404
+1.9.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.70/org.wso2.carbon.email.mgt-1.9.70.jar returned status 404
+1.9.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.71/org.wso2.carbon.email.mgt-1.9.71.jar returned status 404
+1.9.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.72/org.wso2.carbon.email.mgt-1.9.72.jar returned status 404
+1.9.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.73/org.wso2.carbon.email.mgt-1.9.73.jar returned status 404
+1.9.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.74/org.wso2.carbon.email.mgt-1.9.74.jar returned status 404
 1.9.75		2025-11-24T12:17:40Z	
 1.9.76		2025-12-06T02:57:07Z	
 1.9.77		2025-12-09T10:08:56Z	
 1.9.78		2025-12-14T15:08:12Z	
 1.9.79		2026-01-16T05:43:54Z	
+1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.8/org.wso2.carbon.email.mgt-1.9.8.jar returned status 404
 1.9.80		2026-01-28T14:58:03Z	
+1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt/1.9.9/org.wso2.carbon.email.mgt-1.9.9.jar returned status 404
