@@ -48,3 +48,11 @@ com.aitusoftware.babl
 com.rabbitmq.client
 com.rabbitmq.http.client
 com.druvu.lib.loader
+com.couchbase.client.core
+com.couchbase.client.kotlin
+com.couchbase.client.scala
+com.couchbase.client.java
+com.couchbase.client.metrics.opentelemetry
+com.couchbase.client.tracing.observation
+com.couchbase.columnar.client.java
+com.couchbase.client.tracing.opentelemetry
