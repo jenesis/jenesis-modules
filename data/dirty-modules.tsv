@@ -433,3 +433,7 @@ name.remal.gradle_plugins.toolkit.build_logic
 name.remal.gradle_plugins.sonarlint
 name.remal.gradle_plugins.toolkit.testkit
 name.remal.gradle_plugins.test_source_sets
+convex.observer
+convex.core
+convex.peer
+convex.java

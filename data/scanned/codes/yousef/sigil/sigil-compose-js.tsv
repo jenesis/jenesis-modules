@@ -61,3 +61,5 @@
 0.4.2.0		2026-07-07T13:54:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-compose-js/0.4.2.0/sigil-compose-js-0.4.2.0.jar returned status 404
 0.4.2.1		2026-07-08T07:39:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-compose-js/0.4.2.1/sigil-compose-js-0.4.2.1.jar returned status 404
 0.4.2.2		2026-07-08T08:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-compose-js/0.4.2.2/sigil-compose-js-0.4.2.2.jar returned status 404
+0.4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-compose-js/0.4.3.0/sigil-compose-js-0.4.3.0.jar returned status 404
+0.4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/yousef/sigil/sigil-compose-js/0.4.3.1/sigil-compose-js-0.4.3.1.jar returned status 404

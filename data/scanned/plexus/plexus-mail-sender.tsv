@@ -1,1 +1,2 @@
 1.0			IllegalArgumentException: End of central directory record not found in supplied tail buffer
+1.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/plexus/plexus-mail-sender/1.0-alpha-2/plexus-mail-sender-1.0-alpha-2.jar returned status 404

@@ -7,9 +7,11 @@
 0.0.16		2017-02-16T11:12:08Z	
 0.0.17		2017-09-19T09:21:20Z	
 0.0.18		2017-09-29T10:39:08Z	
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/vc/inreach/aws/aws-signing-request-interceptor/0.0.2/aws-signing-request-interceptor-0.0.2.jar returned status 404
 0.0.20		2017-10-17T15:59:04Z	
 0.0.21		2018-08-14T11:44:26Z	
 0.0.22		2018-10-24T09:16:45Z	
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/vc/inreach/aws/aws-signing-request-interceptor/0.0.3/aws-signing-request-interceptor-0.0.3.jar returned status 404
 0.0.4		2015-10-27T12:42:46Z	
 0.0.5		2015-11-26T11:16:04Z	
 0.0.6		2016-04-04T18:12:34Z	

@@ -1,1 +1,5 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/geronimo/geronimo-demo/1.0/geronimo-demo-1.0.jar returned status 404
 1.0-M2		2005-11-22T18:13:59Z	
+1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/geronimo/geronimo-demo/1.0-M3/geronimo-demo-1.0-M3.jar returned status 404
+1.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/geronimo/geronimo-demo/1.0-M4/geronimo-demo-1.0-M4.jar returned status 404
+1.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/geronimo/geronimo-demo/1.0-M5/geronimo-demo-1.0-M5.jar returned status 404
