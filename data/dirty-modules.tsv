@@ -393,3 +393,7 @@ com.powsybl.afs.security.local
 com.powsybl.afs.ws.client
 com.powsybl.afs.storage.api
 com.powsybl.afs.mapdb.storage
+com.powsybl.afs.ext.base
+com.powsybl.afs.security
+com.powsybl.afs.ws.server.utils
+com.powsybl.afs.ws.client.utils

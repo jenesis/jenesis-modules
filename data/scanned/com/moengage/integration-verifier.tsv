@@ -1,4 +1,6 @@
+2.2.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/2.2.00/integration-verifier-2.2.00.jar returned status 404
 2.2.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/2.2.01/integration-verifier-2.2.01.jar returned status 404
+3.0.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/3.0.01/integration-verifier-3.0.01.jar returned status 404
 3.0.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/3.0.02/integration-verifier-3.0.02.jar returned status 404
 3.1.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/3.1.00/integration-verifier-3.1.00.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/integration-verifier/4.0.0/integration-verifier-4.0.0.jar returned status 404

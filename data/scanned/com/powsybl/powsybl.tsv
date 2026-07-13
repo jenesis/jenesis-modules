@@ -1,5 +1,20 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/1/powsybl-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/10/powsybl-10.jar returned status 404
+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/11/powsybl-11.jar returned status 404
+12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/12/powsybl-12.jar returned status 404
+13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/13/powsybl-13.jar returned status 404
+14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/14/powsybl-14.jar returned status 404
+15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/15/powsybl-15.jar returned status 404
+16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/16/powsybl-16.jar returned status 404
+17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/17/powsybl-17.jar returned status 404
+18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/18/powsybl-18.jar returned status 404
+19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/19/powsybl-19.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/2/powsybl-2.jar returned status 404
+20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/20/powsybl-20.jar returned status 404
 20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/20.1/powsybl-20.1.jar returned status 404
 20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/20.2/powsybl-20.2.jar returned status 404
+21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/21/powsybl-21.jar returned status 404
+22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/22/powsybl-22.jar returned status 404
 22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/22.2/powsybl-22.2.jar returned status 404
 23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/23/powsybl-23.jar returned status 404
 24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/24/powsybl-24.jar returned status 404
@@ -9,3 +24,10 @@
 27		2026-05-20T07:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/27/powsybl-27.jar returned status 404
 28		2026-06-02T11:32:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/28/powsybl-28.jar returned status 404
 29		2026-06-15T09:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/29/powsybl-29.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/3/powsybl-3.jar returned status 404
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/4/powsybl-4.jar returned status 404
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/5/powsybl-5.jar returned status 404
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/6/powsybl-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/7/powsybl-7.jar returned status 404
+8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/8/powsybl-8.jar returned status 404
+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powsybl/powsybl/9/powsybl-9.jar returned status 404

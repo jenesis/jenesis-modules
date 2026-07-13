@@ -1,2 +1,12 @@
+4.11.0-rc7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/4.11.0-rc7/oaid-4.11.0-rc7.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/5.1.0/oaid-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/5.2.0/oaid-5.2.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/5.4.0/oaid-5.4.0.jar returned status 404
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/5.4.2/oaid-5.4.2.jar returned status 404
+5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/5.4.4/oaid-5.4.4.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.1.1/oaid-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.1.2/oaid-6.1.2.jar returned status 404
 6.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.12.3/oaid-6.12.3.jar returned status 404
+6.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.2.4/oaid-6.2.4.jar returned status 404
+6.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.4.3/oaid-6.4.3.jar returned status 404
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsflyer/oaid/6.9.0/oaid-6.9.0.jar returned status 404

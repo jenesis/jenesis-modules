@@ -1,3 +1,4 @@
+1.2.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base/1.2.00/plugin-base-1.2.00.jar returned status 404
 1.2.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base/1.2.01/plugin-base-1.2.01.jar returned status 404
 2.0.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base/2.0.00/plugin-base-2.0.00.jar returned status 404
 2.1.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/plugin-base/2.1.00/plugin-base-2.1.00.jar returned status 404
