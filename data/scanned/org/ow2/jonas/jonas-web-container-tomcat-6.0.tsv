@@ -79,3 +79,7 @@
 5.3.0-M3		2011-06-21T15:47:50Z	
 5.3.0-M3	ipojo	2011-06-21T15:48:03Z	
 5.3.0-M3	properties	2011-06-21T15:47:53Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-web-container-tomcat-6.0/5.3.0-M5/jonas-web-container-tomcat-6.0-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-web-container-tomcat-6.0/5.3.0-M6/jonas-web-container-tomcat-6.0-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-web-container-tomcat-6.0/5.3.0-M7/jonas-web-container-tomcat-6.0-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-web-container-tomcat-6.0/5.3.0-RC1/jonas-web-container-tomcat-6.0-5.3.0-RC1.jar returned status 404

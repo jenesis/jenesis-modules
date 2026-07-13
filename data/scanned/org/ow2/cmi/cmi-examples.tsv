@@ -1,3 +1,18 @@
 2.0-RC5		2008-04-02T16:02:41Z	
 2.0-RC5b		2008-05-02T21:33:49Z	
 2.0-RC6		2008-04-29T13:48:24Z	
+2.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.0-RC8/cmi-examples-2.0-RC8.jar returned status 404
+2.0-RC8b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.0-RC8b/cmi-examples-2.0-RC8b.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.0.10/cmi-examples-2.0.10.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.0.9/cmi-examples-2.0.9.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.1.0/cmi-examples-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.1.1/cmi-examples-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.1.2/cmi-examples-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.1.3/cmi-examples-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.1.4/cmi-examples-2.1.4.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.1/cmi-examples-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.2/cmi-examples-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.3/cmi-examples-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.4/cmi-examples-2.2.4.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.5/cmi-examples-2.2.5.jar returned status 404
+2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-examples/2.2.6/cmi-examples-2.2.6.jar returned status 404

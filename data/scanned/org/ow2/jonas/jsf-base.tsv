@@ -1,1 +1,6 @@
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jsf-base/5.3.0/jsf-base-5.3.0.jar returned status 404
 5.3.0-M3	templates	2011-06-21T15:52:30Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jsf-base/5.3.0-M5/jsf-base-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jsf-base/5.3.0-M6/jsf-base-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jsf-base/5.3.0-M7/jsf-base-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jsf-base/5.3.0-RC1/jsf-base-5.3.0-RC1.jar returned status 404

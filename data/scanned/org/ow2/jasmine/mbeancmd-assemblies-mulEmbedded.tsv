@@ -7,5 +7,7 @@
 2.2.1	bin	2011-04-21T13:28:11Z	
 2.2.1-M1	bin	2011-02-01T09:42:48Z	
 2.2.2	bin	2011-06-10T13:23:50Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jasmine/mbeancmd-assemblies-mulEmbedded/2.3.1/mbeancmd-assemblies-mulEmbedded-2.3.1.jar returned status 404
 2.3.1	bin	2011-12-12T13:59:07Z	
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jasmine/mbeancmd-assemblies-mulEmbedded/2.3.2/mbeancmd-assemblies-mulEmbedded-2.3.2.jar returned status 404
 2.3.2	bin	2012-01-04T13:35:23Z	

@@ -73,6 +73,7 @@
 5.2.3	ipojo	2012-03-05T14:13:18Z	
 5.2.4		2013-01-22T13:45:25Z	
 5.2.4	ipojo	2013-01-22T13:45:26Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-deployable-monitor/5.3.0/jonas-deployable-monitor-5.3.0.jar returned status 404
 5.3.0-M1		2011-04-07T14:19:26Z	
 5.3.0-M1	ipojo	2011-04-07T14:19:32Z	
 5.3.0-M2		2011-05-11T12:27:55Z	
@@ -80,3 +81,7 @@
 5.3.0-M3		2011-06-21T15:49:00Z	
 5.3.0-M3	ipojo	2011-06-21T15:49:06Z	
 5.3.0-M3	templates	2011-06-21T15:49:03Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-deployable-monitor/5.3.0-M5/jonas-deployable-monitor-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-deployable-monitor/5.3.0-M6/jonas-deployable-monitor-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-deployable-monitor/5.3.0-M7/jonas-deployable-monitor-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-deployable-monitor/5.3.0-RC1/jonas-deployable-monitor-5.3.0-RC1.jar returned status 404

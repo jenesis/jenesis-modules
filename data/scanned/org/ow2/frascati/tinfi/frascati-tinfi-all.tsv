@@ -2,3 +2,5 @@
 0.6		2009-05-09T15:39:23Z	
 1.0		2009-06-05T19:07:27Z	
 1.0.1		2009-06-18T10:37:37Z	
+1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/frascati/tinfi/frascati-tinfi-all/1.4.5/frascati-tinfi-all-1.4.5.jar returned status 404
+1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/frascati/tinfi/frascati-tinfi-all/1.4.6/frascati-tinfi-all-1.4.6.jar returned status 404

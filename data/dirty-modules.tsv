@@ -866,3 +866,8 @@ org.alexmond.notify4j
 org.alexmond.gotmpl4j.spring
 org.apache.commons.beanutils2
 org.orekit
+org.jberet.core
+org.jberet.job.repository.batchlet
+org.jberet.mongo.repository
+org.jberet.infinispan.repository
+org.jberet.se

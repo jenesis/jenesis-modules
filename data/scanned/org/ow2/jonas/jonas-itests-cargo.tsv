@@ -7,3 +7,11 @@
 5.1.5		2010-11-16T16:59:28Z	
 5.1.6		2011-02-09T10:34:52Z	
 5.1.7		2012-08-21T10:07:58Z	
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.2.2/jonas-itests-cargo-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.2.3/jonas-itests-cargo-5.2.3.jar returned status 404
+5.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.2.4/jonas-itests-cargo-5.2.4.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.3.0/jonas-itests-cargo-5.3.0.jar returned status 404
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.3.0-M5/jonas-itests-cargo-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.3.0-M6/jonas-itests-cargo-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.3.0-M7/jonas-itests-cargo-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-itests-cargo/5.3.0-RC1/jonas-itests-cargo-5.3.0-RC1.jar returned status 404

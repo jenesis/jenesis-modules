@@ -1,2 +1,7 @@
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/wrapper/5.3.0/wrapper-5.3.0.jar returned status 404
 5.3.0-M3	config	2011-06-21T16:03:28Z	
 5.3.0-M3	windows_service	2011-06-21T16:03:29Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/wrapper/5.3.0-M5/wrapper-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/wrapper/5.3.0-M6/wrapper-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/wrapper/5.3.0-M7/wrapper-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/wrapper/5.3.0-RC1/wrapper-5.3.0-RC1.jar returned status 404

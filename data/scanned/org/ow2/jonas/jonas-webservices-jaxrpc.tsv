@@ -26,9 +26,14 @@
 5.2.2		2011-11-07T10:26:52Z	
 5.2.3		2012-03-05T14:11:14Z	
 5.2.4		2013-01-22T13:43:59Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-webservices-jaxrpc/5.3.0/jonas-webservices-jaxrpc-5.3.0.jar returned status 404
 5.3.0-M1		2011-04-07T14:17:56Z	
 5.3.0-M2		2011-05-11T12:26:16Z	
 5.3.0-M3		2011-06-21T15:46:47Z	
 5.3.0-M3	bin	2011-06-21T15:46:51Z	
 5.3.0-M3	config	2011-06-21T15:46:50Z	
 5.3.0-M3	templates	2011-06-21T15:46:52Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-webservices-jaxrpc/5.3.0-M5/jonas-webservices-jaxrpc-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-webservices-jaxrpc/5.3.0-M6/jonas-webservices-jaxrpc-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-webservices-jaxrpc/5.3.0-M7/jonas-webservices-jaxrpc-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-webservices-jaxrpc/5.3.0-RC1/jonas-webservices-jaxrpc-5.3.0-RC1.jar returned status 404

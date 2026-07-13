@@ -2,3 +2,18 @@
 2.0-RC5b		2008-05-02T21:07:57Z	
 2.0-RC6		2008-04-29T13:41:01Z	
 2.0-RC7		2008-05-22T14:20:10Z	
+2.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.0-RC8/cmi-api-2.0-RC8.jar returned status 404
+2.0-RC8b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.0-RC8b/cmi-api-2.0-RC8b.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.0.10/cmi-api-2.0.10.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.0.9/cmi-api-2.0.9.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.1.0/cmi-api-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.1.1/cmi-api-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.1.2/cmi-api-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.1.3/cmi-api-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.1.4/cmi-api-2.1.4.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.1/cmi-api-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.2/cmi-api-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.3/cmi-api-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.4/cmi-api-2.2.4.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.5/cmi-api-2.2.5.jar returned status 404
+2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/cmi/cmi-api/2.2.6/cmi-api-2.2.6.jar returned status 404

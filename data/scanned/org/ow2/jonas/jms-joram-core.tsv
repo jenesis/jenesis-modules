@@ -1,3 +1,4 @@
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram-core/5.3.0/jms-joram-core-5.3.0.jar returned status 404
 5.3.0	bin	2013-10-01T11:16:55Z	
 5.3.0	config	2013-10-01T11:16:55Z	
 5.3.0	deploy	2013-10-01T11:16:55Z	
@@ -5,16 +6,20 @@
 5.3.0-M4	bin	2011-09-07T17:10:49Z	
 5.3.0-M4	config	2011-09-07T17:10:48Z	
 5.3.0-M4	deploy	2011-09-07T17:10:50Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram-core/5.3.0-M5/jms-joram-core-5.3.0-M5.jar returned status 404
 5.3.0-M5	bin	2011-11-03T14:22:00Z	
 5.3.0-M5	config	2011-11-03T14:22:00Z	
 5.3.0-M5	deploy	2011-11-03T14:22:00Z	
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram-core/5.3.0-M6/jms-joram-core-5.3.0-M6.jar returned status 404
 5.3.0-M6	bin	2012-04-04T15:13:57Z	
 5.3.0-M6	config	2012-04-04T15:13:57Z	
 5.3.0-M6	deploy-example	2012-04-04T15:13:58Z	
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram-core/5.3.0-M7/jms-joram-core-5.3.0-M7.jar returned status 404
 5.3.0-M7	bin	2012-10-26T14:13:14Z	
 5.3.0-M7	config	2012-10-26T14:13:13Z	
 5.3.0-M7	deploy	2012-10-26T14:13:14Z	
 5.3.0-M7	deploy-example	2012-10-26T14:13:14Z	
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram-core/5.3.0-RC1/jms-joram-core-5.3.0-RC1.jar returned status 404
 5.3.0-RC1	bin	2012-12-20T14:47:29Z	
 5.3.0-RC1	config	2012-12-20T14:47:28Z	
 5.3.0-RC1	deploy	2012-12-20T14:47:29Z	

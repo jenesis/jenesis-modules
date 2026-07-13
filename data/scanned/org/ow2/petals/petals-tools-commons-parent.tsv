@@ -1,1 +1,16 @@
+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/1/petals-tools-commons-parent-1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/2/petals-tools-commons-parent-2.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/2.1/petals-tools-commons-parent-2.1.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.1/petals-tools-commons-parent-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.2/petals-tools-commons-parent-3.2.2.jar returned status 404
+3.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.2.1/petals-tools-commons-parent-3.2.2.1.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.3/petals-tools-commons-parent-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.4/petals-tools-commons-parent-3.2.4.jar returned status 404
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.5/petals-tools-commons-parent-3.2.5.jar returned status 404
+3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.2.6/petals-tools-commons-parent-3.2.6.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.3.0/petals-tools-commons-parent-3.3.0.jar returned status 404
 3.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.3.0.1/petals-tools-commons-parent-3.3.0.1.jar returned status 404
+3.3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.3.0.2/petals-tools-commons-parent-3.3.0.2.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.4.0/petals-tools-commons-parent-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.4.1/petals-tools-commons-parent-3.4.1.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-tools-commons-parent/3.5.0/petals-tools-commons-parent-3.5.0.jar returned status 404

@@ -3,3 +3,6 @@
 1.0.2		2016-09-20T07:46:02Z	
 1.1.0		2018-07-25T07:56:27Z	
 1.1.0	test-javadoc	2018-07-25T07:56:41Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-junit-external-resources/1.2.0/petals-junit-external-resources-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-junit-external-resources/1.2.1/petals-junit-external-resources-1.2.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-junit-external-resources/2.0.0/petals-junit-external-resources-2.0.0.jar returned status 404

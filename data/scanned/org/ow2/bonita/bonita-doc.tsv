@@ -1,3 +1,5 @@
 4.0		2008-09-26T13:02:53Z	
 4.0.1		2008-12-17T18:01:06Z	
 4.0.RC3		2008-08-27T14:08:30Z	
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/bonita/bonita-doc/4.1/bonita-doc-4.1.jar returned status 404
+5.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/bonita/bonita-doc/5.0.M2/bonita-doc-5.0.M2.jar returned status 404

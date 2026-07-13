@@ -1,2 +1,7 @@
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram/5.3.0/jms-joram-5.3.0.jar returned status 404
 5.3.0-M3	bin	2011-06-21T16:03:21Z	
 5.3.0-M3	config	2011-06-21T16:03:20Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram/5.3.0-M5/jms-joram-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram/5.3.0-M6/jms-joram-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram/5.3.0-M7/jms-joram-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jms-joram/5.3.0-RC1/jms-joram-5.3.0-RC1.jar returned status 404

@@ -35,7 +35,12 @@
 5.2.2		2011-11-07T10:30:44Z	
 5.2.3		2012-03-05T14:16:33Z	
 5.2.4		2013-01-22T13:47:31Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-discovery-base/5.3.0/jonas-discovery-base-5.3.0.jar returned status 404
 5.3.0-M1		2011-04-07T14:22:50Z	
 5.3.0-M2		2011-05-11T12:31:46Z	
 5.3.0-M3		2011-06-21T15:54:30Z	
 5.3.0-M3	templates	2011-06-21T15:54:33Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-discovery-base/5.3.0-M5/jonas-discovery-base-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-discovery-base/5.3.0-M6/jonas-discovery-base-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-discovery-base/5.3.0-M7/jonas-discovery-base-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-discovery-base/5.3.0-RC1/jonas-discovery-base-5.3.0-RC1.jar returned status 404

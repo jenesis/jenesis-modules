@@ -1,5 +1,32 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.0/petals-bc-filetransfer-2.0.jar returned status 404
+2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.0-beta1/petals-bc-filetransfer-2.0-beta1.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.1/petals-bc-filetransfer-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.2/petals-bc-filetransfer-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.3/petals-bc-filetransfer-2.3.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.3.1/petals-bc-filetransfer-2.3.1.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.4/petals-bc-filetransfer-2.4.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.4.1/petals-bc-filetransfer-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.4.2/petals-bc-filetransfer-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.4.3/petals-bc-filetransfer-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-filetransfer/2.4.4/petals-bc-filetransfer-2.4.4.jar returned status 404
+3.2.0			
+3.2.1			
+3.2.2			
+3.2.3			
+3.2.4			
+3.3.0			
+3.3.1			
+3.3.2			
+3.3.3			
+4.0.0			
+4.0.0-beta-1			
+4.1.0			
 4.1.0	test-javadoc	2018-07-25T11:13:54Z	
+5.0.0			
 5.0.0	test-javadoc	2020-03-03T16:45:25Z	
+5.0.1			
 5.0.1	test-javadoc	2020-10-02T13:43:12Z	
+5.1.0			
 5.1.0	test-javadoc	2023-04-11T07:29:01Z	
+5.2.0			
 5.2.0	test-javadoc	2026-02-23T11:03:22Z	

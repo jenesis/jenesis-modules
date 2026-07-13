@@ -72,6 +72,7 @@
 5.2.3	ipojo	2012-03-05T14:19:11Z	
 5.2.4		2013-01-22T13:49:29Z	
 5.2.4	ipojo	2013-01-22T13:49:33Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-mail/5.3.0/jonas-mail-5.3.0.jar returned status 404
 5.3.0-M1		2011-04-07T14:24:39Z	
 5.3.0-M1	ipojo	2011-04-07T14:24:45Z	
 5.3.0-M2		2011-05-11T12:33:40Z	
@@ -80,3 +81,7 @@
 5.3.0-M3	config	2011-06-21T15:56:39Z	
 5.3.0-M3	ipojo	2011-06-21T15:56:44Z	
 5.3.0-M3	templates	2011-06-21T15:56:40Z	
+5.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-mail/5.3.0-M5/jonas-mail-5.3.0-M5.jar returned status 404
+5.3.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-mail/5.3.0-M6/jonas-mail-5.3.0-M6.jar returned status 404
+5.3.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-mail/5.3.0-M7/jonas-mail-5.3.0-M7.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/jonas/jonas-mail/5.3.0-RC1/jonas-mail-5.3.0-RC1.jar returned status 404

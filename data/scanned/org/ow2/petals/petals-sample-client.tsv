@@ -1,2 +1,13 @@
+1.10.0			
 1.10.0	test-javadoc	2018-09-26T16:17:02Z	
+1.12.0			
 1.12.0	test-javadoc	2026-03-09T09:46:54Z	
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-client/1.4.1/petals-sample-client-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-client/1.4.2/petals-sample-client-1.4.2.jar returned status 404
+1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-client/1.4.3/petals-sample-client-1.4.3.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-client/1.5/petals-sample-client-1.5.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-client/1.5.1/petals-sample-client-1.5.1.jar returned status 404
+1.9.0			
+1.9.1			
+1.9.2			
+1.9.3			

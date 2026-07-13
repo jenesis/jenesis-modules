@@ -1,2 +1,4 @@
 1.2		2010-12-03T16:16:28Z	
+1.2.1-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/weblab/portlets/weblab-portlet/1.2.1-SNAPSHOT/weblab-portlet-1.2.1-SNAPSHOT.jar returned status 404
 1.2.2		2011-09-10T22:03:10Z	
+1.2.2-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/weblab/portlets/weblab-portlet/1.2.2-SNAPSHOT/weblab-portlet-1.2.2-SNAPSHOT.jar returned status 404

@@ -1,1 +1,6 @@
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/wildcat/wildcat-assemblies/2.0.2/wildcat-assemblies-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/wildcat/wildcat-assemblies/2.0.3/wildcat-assemblies-2.0.3.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/wildcat/wildcat-assemblies/2.1.1/wildcat-assemblies-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/wildcat/wildcat-assemblies/2.1.2/wildcat-assemblies-2.1.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/wildcat/wildcat-assemblies/2.3.0/wildcat-assemblies-2.3.0.jar returned status 404
 2.3.0	embedded	2010-08-09T13:31:23Z	

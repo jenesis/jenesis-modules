@@ -1,3 +1,16 @@
+1.10.0			
 1.10.0	test-javadoc	2023-04-17T14:09:22Z	
+1.11.0			
 1.11.0	test-javadoc	2026-03-06T15:25:17Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-clock/1.5/petals-sample-clock-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-clock/1.6/petals-sample-clock-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-clock/1.7/petals-sample-clock-1.7.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-sample-clock/1.7.1/petals-sample-clock-1.7.1.jar returned status 404
+1.7.2			
+1.7.3			
+1.8.0			
+1.8.1			
+1.8.2			
+1.8.3			
+1.9.0			
 1.9.0	test-javadoc	2018-09-26T15:41:36Z	
