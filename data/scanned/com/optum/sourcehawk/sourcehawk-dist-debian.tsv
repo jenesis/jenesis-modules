@@ -8,3 +8,14 @@
 0.1.7		2020-11-09T03:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.1.7/sourcehawk-dist-debian-0.1.7.jar returned status 404
 0.2.0		2020-11-10T21:25:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.2.0/sourcehawk-dist-debian-0.2.0.jar returned status 404
 0.2.1		2020-11-11T03:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.2.1/sourcehawk-dist-debian-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.2.2/sourcehawk-dist-debian-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.2.3/sourcehawk-dist-debian-0.2.3.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.3.0/sourcehawk-dist-debian-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.4.0/sourcehawk-dist-debian-0.4.0.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.4.2/sourcehawk-dist-debian-0.4.2.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.4.3/sourcehawk-dist-debian-0.4.3.jar returned status 404
+0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.4.4/sourcehawk-dist-debian-0.4.4.jar returned status 404
+0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.4.5/sourcehawk-dist-debian-0.4.5.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.5.0/sourcehawk-dist-debian-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.5.1/sourcehawk-dist-debian-0.5.1.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/optum/sourcehawk/sourcehawk-dist-debian/0.6.0/sourcehawk-dist-debian-0.6.0.jar returned status 404

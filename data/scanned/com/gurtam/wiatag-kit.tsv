@@ -2,6 +2,11 @@
 0.1.2		2018-10-23T07:32:12Z	
 0.1.3		2018-10-23T08:35:42Z	
 0.1.4		2018-11-06T09:38:56Z	
+1.0.0-alfa1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.0-alfa1/wiatag-kit-1.0.0-alfa1.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.1/wiatag-kit-1.0.1.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.3/wiatag-kit-1.0.3.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.5/wiatag-kit-1.0.5.jar returned status 404
+1.0.5-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.5-alpha/wiatag-kit-1.0.5-alpha.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.6/wiatag-kit-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.7/wiatag-kit-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gurtam/wiatag-kit/1.0.8/wiatag-kit-1.0.8.jar returned status 404

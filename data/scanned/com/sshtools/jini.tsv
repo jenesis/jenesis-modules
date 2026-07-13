@@ -9,6 +9,17 @@
 0.2.4		2023-11-30T01:58:41Z	
 0.2.5		2023-12-13T11:28:47Z	
 0.2.6		2024-04-11T15:55:24Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.3.0/jini-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.3.1/jini-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.3.2/jini-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.3.3/jini-0.3.3.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.4.0/jini-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.4.1/jini-0.4.1.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.0/jini-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.1/jini-0.5.1.jar returned status 404
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.2/jini-0.5.2.jar returned status 404
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.3/jini-0.5.3.jar returned status 404
+0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.4/jini-0.5.4.jar returned status 404
 0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.5/jini-0.5.5.jar returned status 404
 0.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.5.6/jini-0.5.6.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sshtools/jini/0.6.0/jini-0.6.0.jar returned status 404
