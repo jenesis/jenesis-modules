@@ -1,26 +1,55 @@
+1.0.0.M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.M6/openengsb-ui-web-1.0.0.M6.jar returned status 404
+1.0.0.M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.M7/openengsb-ui-web-1.0.0.M7.jar returned status 404
+1.0.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RC1/openengsb-ui-web-1.0.0.RC1.jar returned status 404
+1.0.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RC2/openengsb-ui-web-1.0.0.RC2.jar returned status 404
 1.0.0.RC2	classes	2010-11-13T16:27:19Z	
+1.0.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RC3/openengsb-ui-web-1.0.0.RC3.jar returned status 404
 1.0.0.RC3	classes	2010-11-15T19:46:49Z	
+1.0.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RC4/openengsb-ui-web-1.0.0.RC4.jar returned status 404
 1.0.0.RC4	classes	2010-11-21T11:19:26Z	
+1.0.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RC5/openengsb-ui-web-1.0.0.RC5.jar returned status 404
 1.0.0.RC5	classes	2010-11-23T22:12:37Z	
+1.0.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.0.RELEASE/openengsb-ui-web-1.0.0.RELEASE.jar returned status 404
 1.0.0.RELEASE	classes	2010-11-27T14:37:46Z	
+1.0.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.1.RELEASE/openengsb-ui-web-1.0.1.RELEASE.jar returned status 404
 1.0.1.RELEASE	classes	2010-12-01T19:27:40Z	
+1.0.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.2.RELEASE/openengsb-ui-web-1.0.2.RELEASE.jar returned status 404
 1.0.2.RELEASE	classes	2010-12-13T18:35:34Z	
+1.0.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.3.RELEASE/openengsb-ui-web-1.0.3.RELEASE.jar returned status 404
 1.0.3.RELEASE	classes	2010-12-17T14:45:15Z	
+1.0.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.4.RELEASE/openengsb-ui-web-1.0.4.RELEASE.jar returned status 404
 1.0.4.RELEASE	classes	2011-01-26T08:15:57Z	
+1.0.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.5.RELEASE/openengsb-ui-web-1.0.5.RELEASE.jar returned status 404
 1.0.5.RELEASE	classes	2011-01-30T21:17:37Z	
+1.0.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.0.6.RELEASE/openengsb-ui-web-1.0.6.RELEASE.jar returned status 404
 1.0.6.RELEASE	classes	2011-02-17T08:14:23Z	
+1.1.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.M1/openengsb-ui-web-1.1.0.M1.jar returned status 404
 1.1.0.M1	classes	2010-11-26T04:38:12Z	
+1.1.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.M2/openengsb-ui-web-1.1.0.M2.jar returned status 404
 1.1.0.M2	classes	2010-12-09T22:49:38Z	
+1.1.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.M3/openengsb-ui-web-1.1.0.M3.jar returned status 404
 1.1.0.M3	classes	2011-01-12T07:55:51Z	
+1.1.0.M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.M4/openengsb-ui-web-1.1.0.M4.jar returned status 404
 1.1.0.M4	classes	2011-01-26T04:55:34Z	
+1.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.RC1/openengsb-ui-web-1.1.0.RC1.jar returned status 404
 1.1.0.RC1	classes	2011-02-01T04:47:30Z	
+1.1.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.RC2/openengsb-ui-web-1.1.0.RC2.jar returned status 404
 1.1.0.RC2	classes	2011-02-18T06:49:46Z	
+1.1.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.RC3/openengsb-ui-web-1.1.0.RC3.jar returned status 404
 1.1.0.RC3	classes	2011-03-06T00:17:39Z	
+1.1.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.0.RELEASE/openengsb-ui-web-1.1.0.RELEASE.jar returned status 404
 1.1.0.RELEASE	classes	2011-03-08T04:23:59Z	
+1.1.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.1.RELEASE/openengsb-ui-web-1.1.1.RELEASE.jar returned status 404
 1.1.1.RELEASE	classes	2011-03-11T19:15:54Z	
+1.1.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.2.RELEASE/openengsb-ui-web-1.1.2.RELEASE.jar returned status 404
 1.1.2.RELEASE	classes	2011-03-22T12:50:26Z	
+1.1.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.3.RELEASE/openengsb-ui-web-1.1.3.RELEASE.jar returned status 404
 1.1.3.RELEASE	classes	2011-04-22T12:37:03Z	
+1.1.4.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.4.RELEASE/openengsb-ui-web-1.1.4.RELEASE.jar returned status 404
 1.1.4.RELEASE	classes	2011-05-06T11:08:07Z	
+1.1.5.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.5.RELEASE/openengsb-ui-web-1.1.5.RELEASE.jar returned status 404
 1.1.5.RELEASE	classes	2011-05-13T10:25:10Z	
+1.1.6.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.6.RELEASE/openengsb-ui-web-1.1.6.RELEASE.jar returned status 404
 1.1.6.RELEASE	classes	2011-06-22T20:00:42Z	
+1.1.7.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openengsb/ui/openengsb-ui-web/1.1.7.RELEASE/openengsb-ui-web-1.1.7.RELEASE.jar returned status 404
 1.1.7.RELEASE	classes	2011-08-03T10:50:44Z	
