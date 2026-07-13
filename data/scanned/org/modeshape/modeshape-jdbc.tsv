@@ -1,3 +1,26 @@
+2.1.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.1.0.Final/modeshape-jdbc-2.1.0.Final.jar returned status 404
+2.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.2.0.Final/modeshape-jdbc-2.2.0.Final.jar returned status 404
+2.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.3.0.Final/modeshape-jdbc-2.3.0.Final.jar returned status 404
+2.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.4.0.Final/modeshape-jdbc-2.4.0.Final.jar returned status 404
+2.5.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.5.0.Beta1/modeshape-jdbc-2.5.0.Beta1.jar returned status 404
+2.5.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.5.0.Beta2/modeshape-jdbc-2.5.0.Beta2.jar returned status 404
+2.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.5.0.Final/modeshape-jdbc-2.5.0.Final.jar returned status 404
+2.6.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.6.0.Beta1/modeshape-jdbc-2.6.0.Beta1.jar returned status 404
+2.6.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.6.0.Beta2/modeshape-jdbc-2.6.0.Beta2.jar returned status 404
+2.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.6.0.Final/modeshape-jdbc-2.6.0.Final.jar returned status 404
+2.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.7.0.Final/modeshape-jdbc-2.7.0.Final.jar returned status 404
+2.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.8.0.Final/modeshape-jdbc-2.8.0.Final.jar returned status 404
+2.8.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.8.1.Final/modeshape-jdbc-2.8.1.Final.jar returned status 404
+2.8.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.8.2.Final/modeshape-jdbc-2.8.2.Final.jar returned status 404
+2.8.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/2.8.3.Final/modeshape-jdbc-2.8.3.Final.jar returned status 404
+3.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.Alpha6/modeshape-jdbc-3.0.0.Alpha6.jar returned status 404
+3.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.Beta1/modeshape-jdbc-3.0.0.Beta1.jar returned status 404
+3.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.Beta2/modeshape-jdbc-3.0.0.Beta2.jar returned status 404
+3.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.Beta3/modeshape-jdbc-3.0.0.Beta3.jar returned status 404
+3.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.Beta4/modeshape-jdbc-3.0.0.Beta4.jar returned status 404
+3.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.CR1/modeshape-jdbc-3.0.0.CR1.jar returned status 404
+3.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.CR2/modeshape-jdbc-3.0.0.CR2.jar returned status 404
+3.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-jdbc/3.0.0.CR3/modeshape-jdbc-3.0.0.CR3.jar returned status 404
 3.0.0.Final		2012-10-25T21:06:37Z	
 3.0.0.Final	jar-with-dependencies	2012-10-25T21:06:43Z	
 3.0.1.Final		2012-11-21T22:07:13Z	

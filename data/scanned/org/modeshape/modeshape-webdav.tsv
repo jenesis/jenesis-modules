@@ -1,3 +1,7 @@
+3.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-webdav/3.0.0.Beta4/modeshape-webdav-3.0.0.Beta4.jar returned status 404
+3.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-webdav/3.0.0.CR1/modeshape-webdav-3.0.0.CR1.jar returned status 404
+3.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-webdav/3.0.0.CR2/modeshape-webdav-3.0.0.CR2.jar returned status 404
+3.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-webdav/3.0.0.CR3/modeshape-webdav-3.0.0.CR3.jar returned status 404
 3.0.0.Final		2012-10-25T21:05:14Z	
 3.0.1.Final		2012-11-21T22:05:52Z	
 3.1.0.Final		2013-01-17T22:44:53Z	

@@ -1,3 +1,21 @@
+2.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.2.0.Final/modeshape-sequencer-teiid-2.2.0.Final.jar returned status 404
+2.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.3.0.Final/modeshape-sequencer-teiid-2.3.0.Final.jar returned status 404
+2.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.4.0.Final/modeshape-sequencer-teiid-2.4.0.Final.jar returned status 404
+2.5.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.5.0.Beta1/modeshape-sequencer-teiid-2.5.0.Beta1.jar returned status 404
+2.5.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.5.0.Beta2/modeshape-sequencer-teiid-2.5.0.Beta2.jar returned status 404
+2.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.5.0.Final/modeshape-sequencer-teiid-2.5.0.Final.jar returned status 404
+2.6.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.6.0.Beta1/modeshape-sequencer-teiid-2.6.0.Beta1.jar returned status 404
+2.6.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.6.0.Beta2/modeshape-sequencer-teiid-2.6.0.Beta2.jar returned status 404
+2.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.6.0.Final/modeshape-sequencer-teiid-2.6.0.Final.jar returned status 404
+2.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.7.0.Final/modeshape-sequencer-teiid-2.7.0.Final.jar returned status 404
+2.8.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.8.0.Final/modeshape-sequencer-teiid-2.8.0.Final.jar returned status 404
+2.8.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.8.1.Final/modeshape-sequencer-teiid-2.8.1.Final.jar returned status 404
+2.8.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.8.2.Final/modeshape-sequencer-teiid-2.8.2.Final.jar returned status 404
+2.8.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/2.8.3.Final/modeshape-sequencer-teiid-2.8.3.Final.jar returned status 404
+3.0.0.Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/3.0.0.Beta4/modeshape-sequencer-teiid-3.0.0.Beta4.jar returned status 404
+3.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/3.0.0.CR1/modeshape-sequencer-teiid-3.0.0.CR1.jar returned status 404
+3.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/3.0.0.CR2/modeshape-sequencer-teiid-3.0.0.CR2.jar returned status 404
+3.0.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/modeshape/modeshape-sequencer-teiid/3.0.0.CR3/modeshape-sequencer-teiid-3.0.0.CR3.jar returned status 404
 3.0.0.Final		2012-10-25T21:01:47Z	
 3.0.1.Final		2012-11-21T22:02:15Z	
 3.1.0.Final		2013-01-17T22:40:00Z	
