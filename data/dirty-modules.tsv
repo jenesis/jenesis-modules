@@ -2793,3 +2793,4 @@ io.grpc.googleapis
 io.grpc.servlet.jakarta
 io.grpc.gcp.observability
 io.grpc.opentelemetry
+io.grpc.benchmarks
