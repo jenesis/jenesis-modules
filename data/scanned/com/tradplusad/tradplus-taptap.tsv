@@ -1,5 +1,15 @@
+63.10.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.0.0.1/tradplus-taptap-63.10.0.0.1.jar returned status 404
+63.10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.0.1/tradplus-taptap-63.10.0.1.jar returned status 404
+63.10.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.0.1.1/tradplus-taptap-63.10.0.1.1.jar returned status 404
+63.10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.1.0/tradplus-taptap-63.10.1.0.jar returned status 404
+63.10.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.1.0.1/tradplus-taptap-63.10.1.0.1.jar returned status 404
+63.10.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.1.10/tradplus-taptap-63.10.1.10.jar returned status 404
+63.10.1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.1.11.1/tradplus-taptap-63.10.1.11.1.jar returned status 404
+63.10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.2.0/tradplus-taptap-63.10.2.0.jar returned status 404
+63.10.2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.2.0.1/tradplus-taptap-63.10.2.0.1.jar returned status 404
 63.10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.3.0/tradplus-taptap-63.10.3.0.jar returned status 404
 63.10.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.3.0.1/tradplus-taptap-63.10.3.0.1.jar returned status 404
+63.10.3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.3.11.1/tradplus-taptap-63.10.3.11.1.jar returned status 404
 63.10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.4.0/tradplus-taptap-63.10.4.0.jar returned status 404
 63.10.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.4.0.1/tradplus-taptap-63.10.4.0.1.jar returned status 404
 63.10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.10.5.0/tradplus-taptap-63.10.5.0.jar returned status 404
@@ -206,3 +216,16 @@
 63.16.2.0.1		2026-06-09T03:18:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.16.2.0.1/tradplus-taptap-63.16.2.0.1.jar returned status 404
 63.16.3.0.1		2026-06-22T08:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.16.3.0.1/tradplus-taptap-63.16.3.0.1.jar returned status 404
 63.16.4.0.1		2026-07-06T03:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.16.4.0.1/tradplus-taptap-63.16.4.0.1.jar returned status 404
+63.9.7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.7.0.1/tradplus-taptap-63.9.7.0.1.jar returned status 404
+63.9.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.7.10/tradplus-taptap-63.9.7.10.jar returned status 404
+63.9.7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.7.10.1/tradplus-taptap-63.9.7.10.1.jar returned status 404
+63.9.7.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.7.30.1/tradplus-taptap-63.9.7.30.1.jar returned status 404
+63.9.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.8.0/tradplus-taptap-63.9.8.0.jar returned status 404
+63.9.8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.8.0.1/tradplus-taptap-63.9.8.0.1.jar returned status 404
+63.9.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.0/tradplus-taptap-63.9.9.0.jar returned status 404
+63.9.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.0.1/tradplus-taptap-63.9.9.0.1.jar returned status 404
+63.9.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.10/tradplus-taptap-63.9.9.10.jar returned status 404
+63.9.9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.10.1/tradplus-taptap-63.9.9.10.1.jar returned status 404
+63.9.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.11/tradplus-taptap-63.9.9.11.jar returned status 404
+63.9.9.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.11.1/tradplus-taptap-63.9.9.11.1.jar returned status 404
+63.9.9.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-taptap/63.9.9.12.1/tradplus-taptap-63.9.9.12.1.jar returned status 404
