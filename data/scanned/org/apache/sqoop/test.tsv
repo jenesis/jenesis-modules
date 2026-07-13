@@ -1,7 +1,10 @@
+1.99.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sqoop/test/1.99.2/test-1.99.2.jar returned status 404
 1.99.2	hadoop100	2013-04-25T00:43:53Z	
 1.99.2	hadoop200	2013-04-25T00:46:21Z	
+1.99.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sqoop/test/1.99.3/test-1.99.3.jar returned status 404
 1.99.3	hadoop100	2013-11-10T15:01:29Z	
 1.99.3	hadoop200	2013-11-10T15:03:23Z	
+1.99.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/sqoop/test/1.99.4/test-1.99.4.jar returned status 404
 1.99.4	hadoop100	2014-11-25T23:14:09Z	
 1.99.4	hadoop200	2014-11-25T23:17:39Z	
 1.99.5		2015-02-27T02:25:38Z	

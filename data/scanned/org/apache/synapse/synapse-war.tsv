@@ -1,2 +1,6 @@
 1.2		2008-06-10T06:14:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/1.2/synapse-war-1.2.jar returned status 404
 2.0.0		2011-01-11T01:30:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/2.0.0/synapse-war-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/2.1.0/synapse-war-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/3.0.0/synapse-war-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/3.0.1/synapse-war-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-war/3.0.2/synapse-war-3.0.2.jar returned status 404

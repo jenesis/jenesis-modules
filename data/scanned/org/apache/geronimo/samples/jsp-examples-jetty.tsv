@@ -1,1 +1,5 @@
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/jsp-examples-jetty/2.1.2/jsp-examples-jetty-2.1.2.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/jsp-examples-jetty/2.1.7/jsp-examples-jetty-2.1.7.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/jsp-examples-jetty/2.2/jsp-examples-jetty-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/jsp-examples-jetty/2.2.1/jsp-examples-jetty-2.2.1.jar returned status 404
 3.0-M1		2010-07-01T17:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/jsp-examples-jetty/3.0-M1/jsp-examples-jetty-3.0-M1.jar returned status 404

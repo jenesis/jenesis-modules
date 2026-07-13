@@ -1,2 +1,11 @@
 1.0.1		2006-02-05T17:31:29Z	
 1.0.1-rc4		2005-08-30T12:13:54Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.0/pluto-portal-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.1/pluto-portal-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.2/pluto-portal-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.3/pluto-portal-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.4/pluto-portal-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.5/pluto-portal-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.6/pluto-portal-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.1.7/pluto-portal-1.1.7.jar returned status 404
+1.2.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-portal/1.2.0-SNAPSHOT/pluto-portal-1.2.0-SNAPSHOT.jar returned status 404

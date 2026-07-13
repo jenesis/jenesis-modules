@@ -1,3 +1,5 @@
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/openejb-console-tomcat/2.2/openejb-console-tomcat-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/openejb-console-tomcat/2.2.1/openejb-console-tomcat-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/openejb-console-tomcat/3.0-beta-1/openejb-console-tomcat-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/openejb-console-tomcat/3.0.0/openejb-console-tomcat-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/openejb-console-tomcat/3.0.1/openejb-console-tomcat-3.0.1.jar returned status 404

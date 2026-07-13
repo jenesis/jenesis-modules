@@ -1,3 +1,7 @@
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/2.1.2/all-samples-tomcat-2.1.2.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/2.1.7/all-samples-tomcat-2.1.7.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/2.2/all-samples-tomcat-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/2.2.1/all-samples-tomcat-2.2.1.jar returned status 404
 3.0-M1		2010-07-01T17:24:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/3.0-M1/all-samples-tomcat-3.0-M1.jar returned status 404
 3.0-beta-1		2011-11-25T10:40:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/3.0-beta-1/all-samples-tomcat-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-04T04:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/all-samples-tomcat/3.0.0/all-samples-tomcat-3.0.0.jar returned status 404

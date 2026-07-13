@@ -1,3 +1,5 @@
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/agent-ds/2.2/agent-ds-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/agent-ds/2.2.1/agent-ds-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/agent-ds/3.0-beta-1/agent-ds-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:10:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/agent-ds/3.0.0/agent-ds-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:39:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/agent-ds/3.0.1/agent-ds-3.0.1.jar returned status 404

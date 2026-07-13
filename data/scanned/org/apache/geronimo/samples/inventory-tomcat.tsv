@@ -1,1 +1,5 @@
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/inventory-tomcat/2.1.2/inventory-tomcat-2.1.2.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/inventory-tomcat/2.1.7/inventory-tomcat-2.1.7.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/inventory-tomcat/2.2/inventory-tomcat-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/inventory-tomcat/2.2.1/inventory-tomcat-2.2.1.jar returned status 404
 3.0-M1		2010-07-01T16:59:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/samples/inventory-tomcat/3.0-M1/inventory-tomcat-3.0-M1.jar returned status 404

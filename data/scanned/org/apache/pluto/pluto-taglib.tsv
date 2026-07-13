@@ -7,3 +7,4 @@
 1.1.5		2008-03-07T06:44:39Z	
 1.1.6		2008-08-04T20:41:05Z	
 1.1.7		2009-02-04T20:30:47Z	
+1.2.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pluto/pluto-taglib/1.2.0-SNAPSHOT/pluto-taglib-1.2.0-SNAPSHOT.jar returned status 404

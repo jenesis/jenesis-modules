@@ -13,3 +13,4 @@
 0.8	job	2013-07-08T02:39:28Z	
 0.9		2014-01-29T00:33:46Z	
 0.9	job	2014-01-29T00:33:54Z	
+14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/mahout/mahout-core/14.1/mahout-core-14.1.jar returned status 404

@@ -1,4 +1,29 @@
 1.10.0		2019-09-19T22:48:42Z	
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.11.0/geode-web-management-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.0/geode-web-management-1.12.0.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.1/geode-web-management-1.12.1.jar returned status 404
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.2/geode-web-management-1.12.2.jar returned status 404
+1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.3/geode-web-management-1.12.3.jar returned status 404
+1.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.4/geode-web-management-1.12.4.jar returned status 404
+1.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.5/geode-web-management-1.12.5.jar returned status 404
+1.12.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.6/geode-web-management-1.12.6.jar returned status 404
+1.12.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.7/geode-web-management-1.12.7.jar returned status 404
+1.12.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.8/geode-web-management-1.12.8.jar returned status 404
+1.12.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.12.9/geode-web-management-1.12.9.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.0/geode-web-management-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.1/geode-web-management-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.2/geode-web-management-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.3/geode-web-management-1.13.3.jar returned status 404
+1.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.4/geode-web-management-1.13.4.jar returned status 404
+1.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.5/geode-web-management-1.13.5.jar returned status 404
+1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.6/geode-web-management-1.13.6.jar returned status 404
+1.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.7/geode-web-management-1.13.7.jar returned status 404
+1.13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.13.8/geode-web-management-1.13.8.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.14.0/geode-web-management-1.14.0.jar returned status 404
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.14.1/geode-web-management-1.14.1.jar returned status 404
+1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.14.2/geode-web-management-1.14.2.jar returned status 404
+1.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.14.3/geode-web-management-1.14.3.jar returned status 404
+1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.14.4/geode-web-management-1.14.4.jar returned status 404
 1.15.0		2022-06-15T21:11:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.15.0/geode-web-management-1.15.0.jar returned status 404
 1.15.1		2022-09-29T12:11:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.15.1/geode-web-management-1.15.1.jar returned status 404
 1.15.2		2025-09-11T17:30:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.15.2/geode-web-management-1.15.2.jar returned status 404
@@ -6,6 +31,7 @@
 1.15.4		2026-05-14T12:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.15.4/geode-web-management-1.15.4.jar returned status 404
 1.9.0		2019-04-19T18:55:13Z	
 1.9.1		2019-08-30T17:11:16Z	
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/1.9.2/geode-web-management-1.9.2.jar returned status 404
 2.0.0		2025-12-13T01:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/2.0.0/geode-web-management-2.0.0.jar returned status 404
 2.0.1		2026-03-13T19:43:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/2.0.1/geode-web-management-2.0.1.jar returned status 404
 2.0.2		2026-05-13T17:02:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geode/geode-web-management/2.0.2/geode-web-management-2.0.2.jar returned status 404

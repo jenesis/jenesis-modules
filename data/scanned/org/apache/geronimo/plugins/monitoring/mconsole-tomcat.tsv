@@ -1,3 +1,5 @@
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/mconsole-tomcat/2.2/mconsole-tomcat-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/mconsole-tomcat/2.2.1/mconsole-tomcat-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/mconsole-tomcat/3.0-beta-1/mconsole-tomcat-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:13:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/mconsole-tomcat/3.0.0/mconsole-tomcat-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:42:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/plugins/monitoring/mconsole-tomcat/3.0.1/mconsole-tomcat-3.0.1.jar returned status 404

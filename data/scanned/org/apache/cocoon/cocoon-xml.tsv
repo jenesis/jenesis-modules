@@ -1,3 +1,4 @@
 2.0.0		2009-02-04T20:57:48Z	
 2.0.2		2009-12-22T07:15:14Z	
 2.0.4		2012-06-15T07:38:44Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cocoon/cocoon-xml/2.3.0/cocoon-xml-2.3.0.jar returned status 404

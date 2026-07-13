@@ -3,3 +3,7 @@
 1.1.2		2008-02-15T08:32:14Z	
 1.2		2008-06-10T04:11:31Z	
 2.0.0		2011-01-11T01:30:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-transports/2.0.0/synapse-transports-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-transports/2.1.0/synapse-transports-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-transports/3.0.0/synapse-transports-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-transports/3.0.1/synapse-transports-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/synapse/synapse-transports/3.0.2/synapse-transports-3.0.2.jar returned status 404
