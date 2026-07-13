@@ -1,3 +1,22 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.0/com.liferay.lcs.api-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.1/com.liferay.lcs.api-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.2/com.liferay.lcs.api-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.3/com.liferay.lcs.api-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.4/com.liferay.lcs.api-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.5/com.liferay.lcs.api-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.6/com.liferay.lcs.api-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/1.0.7/com.liferay.lcs.api-1.0.7.jar returned status 404
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/10.0.0/com.liferay.lcs.api-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/10.0.1/com.liferay.lcs.api-10.0.1.jar returned status 404
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/10.0.2/com.liferay.lcs.api-10.0.2.jar returned status 404
+10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/10.0.3/com.liferay.lcs.api-10.0.3.jar returned status 404
+10.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/10.0.4/com.liferay.lcs.api-10.0.4.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/11.0.0/com.liferay.lcs.api-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/11.1.0/com.liferay.lcs.api-11.1.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.0/com.liferay.lcs.api-12.0.0.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.1/com.liferay.lcs.api-12.0.1.jar returned status 404
+12.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.10/com.liferay.lcs.api-12.0.10.jar returned status 404
+12.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.11/com.liferay.lcs.api-12.0.11.jar returned status 404
 12.0.12		2020-01-29T06:53:12Z	
 12.0.12	sources-commercial	2020-01-29T06:53:20Z	
 12.0.13		2020-02-11T05:20:47Z	
@@ -14,4 +33,37 @@
 12.0.18	sources-commercial	2023-02-27T15:51:40Z	
 12.0.19		2023-07-20T09:22:49Z	
 12.0.19	sources-commercial	2023-07-20T09:23:03Z	
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.2/com.liferay.lcs.api-12.0.2.jar returned status 404
 12.0.20		2024-02-27T13:46:25Z	
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.3/com.liferay.lcs.api-12.0.3.jar returned status 404
+12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.4/com.liferay.lcs.api-12.0.4.jar returned status 404
+12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.5/com.liferay.lcs.api-12.0.5.jar returned status 404
+12.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.6/com.liferay.lcs.api-12.0.6.jar returned status 404
+12.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.7/com.liferay.lcs.api-12.0.7.jar returned status 404
+12.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.8/com.liferay.lcs.api-12.0.8.jar returned status 404
+12.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/12.0.9/com.liferay.lcs.api-12.0.9.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/2.0.0/com.liferay.lcs.api-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/2.0.1/com.liferay.lcs.api-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/2.1.0/com.liferay.lcs.api-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/2.1.1/com.liferay.lcs.api-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/2.1.2/com.liferay.lcs.api-2.1.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/3.0.0/com.liferay.lcs.api-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/3.0.1/com.liferay.lcs.api-3.0.1.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/4.0.0/com.liferay.lcs.api-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/4.0.1/com.liferay.lcs.api-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/4.0.2/com.liferay.lcs.api-4.0.2.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/4.1.0/com.liferay.lcs.api-4.1.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/5.0.0/com.liferay.lcs.api-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/5.0.1/com.liferay.lcs.api-5.0.1.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/6.0.0/com.liferay.lcs.api-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/6.1.0/com.liferay.lcs.api-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/6.2.0/com.liferay.lcs.api-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/6.3.0/com.liferay.lcs.api-6.3.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/7.0.0/com.liferay.lcs.api-7.0.0.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/7.0.1/com.liferay.lcs.api-7.0.1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/8.0.0/com.liferay.lcs.api-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/8.0.1/com.liferay.lcs.api-8.0.1.jar returned status 404
+8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/8.0.2/com.liferay.lcs.api-8.0.2.jar returned status 404
+8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/8.0.3/com.liferay.lcs.api-8.0.3.jar returned status 404
+8.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/8.0.4/com.liferay.lcs.api-8.0.4.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.lcs.api/9.0.0/com.liferay.lcs.api-9.0.0.jar returned status 404

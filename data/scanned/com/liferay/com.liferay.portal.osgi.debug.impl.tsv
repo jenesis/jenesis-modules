@@ -59,6 +59,7 @@
 4.0.0	sources-commercial	2021-03-26T12:06:26Z	
 4.0.1		2021-07-15T05:33:49Z	
 4.0.1	sources-commercial	2021-07-15T05:33:51Z	
+4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.osgi.debug.impl/4.0.10/com.liferay.portal.osgi.debug.impl-4.0.10.jar returned status 404
 4.0.10	sources-commercial	2023-01-28T05:58:50Z	
 4.0.11		2023-01-28T06:20:25Z	
 4.0.11	sources-commercial	2023-01-28T06:20:28Z	
