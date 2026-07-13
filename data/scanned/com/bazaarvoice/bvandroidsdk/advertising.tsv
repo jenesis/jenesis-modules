@@ -3,3 +3,42 @@
 3.1.0		2016-03-08T23:02:19Z	
 3.2.0		2016-04-13T18:51:41Z	
 3.2.1		2016-04-14T16:47:34Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.0.0/advertising-4.0.0.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.0.3/advertising-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.0.4/advertising-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.0.5/advertising-4.0.5.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.1.0/advertising-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.1.1/advertising-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.1.2/advertising-4.1.2.jar returned status 404
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.1.3/advertising-4.1.3.jar returned status 404
+4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.1.4/advertising-4.1.4.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/4.2.0/advertising-4.2.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.0.0/advertising-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.1.0/advertising-5.1.0.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.1.1/advertising-5.1.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.1.2/advertising-5.1.2.jar returned status 404
+5.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.1.3/advertising-5.1.3.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.2.0/advertising-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/5.2.1/advertising-5.2.1.jar returned status 404
+6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.10.0/advertising-6.10.0.jar returned status 404
+6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.11.0/advertising-6.11.0.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.12.0/advertising-6.12.0.jar returned status 404
+6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.13.0/advertising-6.13.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.2.0/advertising-6.2.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.3.0/advertising-6.3.0.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.4.0/advertising-6.4.0.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.5.0/advertising-6.5.0.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.6.0/advertising-6.6.0.jar returned status 404
+6.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.6.1/advertising-6.6.1.jar returned status 404
+6.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.6.2/advertising-6.6.2.jar returned status 404
+6.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.6.3/advertising-6.6.3.jar returned status 404
+6.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.6.4/advertising-6.6.4.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.7.0/advertising-6.7.0.jar returned status 404
+6.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.7.1/advertising-6.7.1.jar returned status 404
+6.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.7.2/advertising-6.7.2.jar returned status 404
+6.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.7.3/advertising-6.7.3.jar returned status 404
+6.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.7.4/advertising-6.7.4.jar returned status 404
+6.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.8.0/advertising-6.8.0.jar returned status 404
+6.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.8.1/advertising-6.8.1.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.9.0/advertising-6.9.0.jar returned status 404
+6.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bazaarvoice/bvandroidsdk/advertising/6.9.1/advertising-6.9.1.jar returned status 404
