@@ -10,3 +10,6 @@
 3.18.0-1.2	linux_x86_64	2018-12-16T16:13:55Z	
 3.18.0-1.2	macos_x86_64	2018-12-16T16:14:57Z	
 3.18.0-1.2	win32_x86_64	2018-12-16T16:14:10Z	
+3.18.0-2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nextbreakpoint/com.nextbreakpoint.freeimage4java/3.18.0-2.0/com.nextbreakpoint.freeimage4java-3.18.0-2.0.jar returned status 404
+3.18.0-2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nextbreakpoint/com.nextbreakpoint.freeimage4java/3.18.0-2.1/com.nextbreakpoint.freeimage4java-3.18.0-2.1.jar returned status 404
+3.18.0-2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nextbreakpoint/com.nextbreakpoint.freeimage4java/3.18.0-2.2/com.nextbreakpoint.freeimage4java-3.18.0-2.2.jar returned status 404

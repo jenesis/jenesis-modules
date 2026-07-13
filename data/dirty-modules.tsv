@@ -36,3 +36,4 @@ emagin.jfxcore.demoapp
 io.netty.internal.tcnative
 info.picocli
 com.hazelcast.jet.elastic
+com.yashandb.jdbc

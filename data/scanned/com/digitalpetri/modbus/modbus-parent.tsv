@@ -1,3 +1,10 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.0/modbus-parent-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.0-RC1/modbus-parent-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.0-RC2/modbus-parent-2.0.0-RC2.jar returned status 404
+2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.0-RC3/modbus-parent-2.0.0-RC3.jar returned status 404
+2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.0-RC4/modbus-parent-2.0.0-RC4.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.0.1/modbus-parent-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.0/modbus-parent-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.1/modbus-parent-2.1.1.jar returned status 404
 2.1.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.1-RC1/modbus-parent-2.1.1-RC1.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.2/modbus-parent-2.1.2.jar returned status 404

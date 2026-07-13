@@ -2,6 +2,7 @@
 1.0.0	jar-with-dependencies	2021-12-29T03:29:34Z	
 1.0.1		2022-01-04T02:43:52Z	
 1.0.1	jar-with-dependencies	2022-01-04T02:44:16Z	
+1.1-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/hologres/hologres-connector-hive-base/1.1-SNAPSHOT/hologres-connector-hive-base-1.1-SNAPSHOT.jar returned status 404
 1.1.0		2022-06-01T10:06:31Z	
 1.1.0	jar-with-dependencies	2022-06-01T10:07:04Z	
 1.1.1		2022-06-22T08:13:33Z	
