@@ -1,4 +1,13 @@
+11.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.11.0/core-11.11.0.jar returned status 404
+11.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.11.1/core-11.11.1.jar returned status 404
+11.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.11.2/core-11.11.2.jar returned status 404
+11.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.12.0/core-11.12.0.jar returned status 404
+11.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.6.0/core-11.6.0.jar returned status 404
 11.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.8.0/core-11.8.0.jar returned status 404
+11.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/11.8.1/core-11.8.1.jar returned status 404
+12.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/12.3.0/core-12.3.0.jar returned status 404
+12.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/12.3.1/core-12.3.1.jar returned status 404
+12.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/12.5.0/core-12.5.0.jar returned status 404
 13.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.0/core-13.10.0.jar returned status 404
 13.10.0-fixed-package			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.0-fixed-package/core-13.10.0-fixed-package.jar returned status 404
 13.10.0-rm-so-custom			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.0-rm-so-custom/core-13.10.0-rm-so-custom.jar returned status 404
@@ -19,4 +28,5 @@
 13.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.7/core-13.10.7.jar returned status 404
 13.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.8/core-13.10.8.jar returned status 404
 13.10.8-opt1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.10.8-opt1/core-13.10.8-opt1.jar returned status 404
+13.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.5.0/core-13.5.0.jar returned status 404
 13.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sinaweibosdk/core/13.6.1/core-13.6.1.jar returned status 404

@@ -4,4 +4,6 @@
 1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.0.0-beta01/fishbun-1.0.0-beta01.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.1.0/fishbun-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.1.1/fishbun-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.1.2/fishbun-1.1.2.jar returned status 404
 1.1.2-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.1.2-alpha01/fishbun-1.1.2-alpha01.jar returned status 404
+1.1.2-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sangcomz/fishbun/1.1.2-alpha02/fishbun-1.1.2-alpha02.jar returned status 404

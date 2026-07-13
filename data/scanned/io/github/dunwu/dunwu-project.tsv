@@ -1,1 +1,4 @@
 0.4.7		2019-09-06T11:09:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dunwu/dunwu-project/0.4.7/dunwu-project-0.4.7.jar returned status 404
+0.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dunwu/dunwu-project/0.4.8/dunwu-project-0.4.8.jar returned status 404
+0.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dunwu/dunwu-project/0.4.9/dunwu-project-0.4.9.jar returned status 404
+0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dunwu/dunwu-project/0.5.4/dunwu-project-0.5.4.jar returned status 404

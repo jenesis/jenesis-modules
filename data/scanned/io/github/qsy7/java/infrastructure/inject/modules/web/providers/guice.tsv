@@ -1,1 +1,4 @@
 0.1.0		2019-12-16T22:32:20Z	
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qsy7/java/infrastructure/inject/modules/web/providers/guice/0.1.2/guice-0.1.2.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qsy7/java/infrastructure/inject/modules/web/providers/guice/0.3.2/guice-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qsy7/java/infrastructure/inject/modules/web/providers/guice/0.3.3/guice-0.3.3.jar returned status 404

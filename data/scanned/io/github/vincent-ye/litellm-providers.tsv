@@ -1,3 +1,4 @@
 0.1.0		2026-06-13T13:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vincent-ye/litellm-providers/0.1.0/litellm-providers-0.1.0.jar returned status 404
 0.2.0		2026-07-04T13:19:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vincent-ye/litellm-providers/0.2.0/litellm-providers-0.2.0.jar returned status 404
 0.3.0		2026-07-05T10:01:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vincent-ye/litellm-providers/0.3.0/litellm-providers-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vincent-ye/litellm-providers/0.4.0/litellm-providers-0.4.0.jar returned status 404

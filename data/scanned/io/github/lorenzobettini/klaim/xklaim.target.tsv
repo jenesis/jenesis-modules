@@ -1,3 +1,8 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.0.0/xklaim.target-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.1.0/xklaim.target-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.2.0/xklaim.target-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.3.0/xklaim.target-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.4.0/xklaim.target-2.4.0.jar returned status 404
 2.5.0		2025-04-14T15:40:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.5.0/xklaim.target-2.5.0.jar returned status 404
 2.5.1		2026-04-21T09:43:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.5.1/xklaim.target-2.5.1.jar returned status 404
 2.5.2		2026-06-22T09:18:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/klaim/xklaim.target/2.5.2/xklaim.target-2.5.2.jar returned status 404

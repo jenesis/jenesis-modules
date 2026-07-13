@@ -5,3 +5,4 @@
 12.5.4		2026-06-04T06:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arrowdrift-escape/arrowdriftescapesdk/12.5.4/arrowdriftescapesdk-12.5.4.jar returned status 404
 12.5.5		2026-06-04T08:40:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arrowdrift-escape/arrowdriftescapesdk/12.5.5/arrowdriftescapesdk-12.5.5.jar returned status 404
 12.5.6		2026-07-01T09:56:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arrowdrift-escape/arrowdriftescapesdk/12.5.6/arrowdriftescapesdk-12.5.6.jar returned status 404
+12.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/arrowdrift-escape/arrowdriftescapesdk/12.5.7/arrowdriftescapesdk-12.5.7.jar returned status 404
