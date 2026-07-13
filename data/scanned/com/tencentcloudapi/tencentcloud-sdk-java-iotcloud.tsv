@@ -521,6 +521,7 @@
 3.1.483	jar-with-dependencies	2022-04-02T18:23:10Z	
 3.1.485		2022-04-04T16:10:48Z	
 3.1.485	jar-with-dependencies	2022-04-04T18:06:01Z	
+3.1.486			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencentcloudapi/tencentcloud-sdk-java-iotcloud/3.1.486/tencentcloud-sdk-java-iotcloud-3.1.486.jar returned status 404
 3.1.488		2022-04-08T00:27:46Z	
 3.1.488	jar-with-dependencies	2022-04-08T01:26:12Z	
 3.1.490		2022-04-12T01:19:47Z	

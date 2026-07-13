@@ -2,6 +2,12 @@
 2.10.1		2022-05-16T10:24:21Z	
 2.11.0		2023-04-17T07:03:46Z	
 2.11.1		2023-09-13T02:10:11Z	
+2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.11.2/stario-2.11.2.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.12.0/stario-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.13.0/stario-2.13.0.jar returned status 404
+2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.14.0/stario-2.14.0.jar returned status 404
+2.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.14.2/stario-2.14.2.jar returned status 404
+2.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/starmicronics/stario/2.14.3/stario-2.14.3.jar returned status 404
 2.7.0		2019-10-29T04:35:35Z	
 2.8.0		2019-12-27T06:34:46Z	
 2.9.0		2020-06-24T04:38:38Z	

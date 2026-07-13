@@ -516,6 +516,7 @@
 3.1.483	jar-with-dependencies	2022-04-02T20:24:33Z	
 3.1.485		2022-04-04T16:17:46Z	
 3.1.485	jar-with-dependencies	2022-04-04T16:58:02Z	
+3.1.486			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencentcloudapi/tencentcloud-sdk-java-yunsou/3.1.486/tencentcloud-sdk-java-yunsou-3.1.486.jar returned status 404
 3.1.488		2022-04-08T00:41:59Z	
 3.1.488	jar-with-dependencies	2022-04-08T01:02:29Z	
 3.1.490		2022-04-12T02:21:42Z	

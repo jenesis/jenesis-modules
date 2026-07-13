@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-driver-androidx-sqlite-macosarm64/1.0.0/storm-driver-androidx-sqlite-macosarm64-1.0.0.jar returned status 404
 1.0.0-alpha1		2026-06-10T13:33:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-driver-androidx-sqlite-macosarm64/1.0.0-alpha1/storm-driver-androidx-sqlite-macosarm64-1.0.0-alpha1.jar returned status 404
 1.0.0-alpha1	metadata	2026-06-10T13:33:38Z	
 1.0.0-alpha2		2026-06-10T18:10:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-driver-androidx-sqlite-macosarm64/1.0.0-alpha2/storm-driver-androidx-sqlite-macosarm64-1.0.0-alpha2.jar returned status 404
@@ -14,3 +15,4 @@
 1.0.0-beta7	metadata	2026-07-02T15:54:10Z	
 1.0.0-beta8		2026-07-03T09:26:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-driver-androidx-sqlite-macosarm64/1.0.0-beta8/storm-driver-androidx-sqlite-macosarm64-1.0.0-beta8.jar returned status 404
 1.0.0-beta8	metadata	2026-07-03T09:26:19Z	
+1.0.0-beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zxhhyj/storm-driver-androidx-sqlite-macosarm64/1.0.0-beta9/storm-driver-androidx-sqlite-macosarm64-1.0.0-beta9.jar returned status 404

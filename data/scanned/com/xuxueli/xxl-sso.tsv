@@ -1,3 +1,5 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-sso/0.1.0/xxl-sso-0.1.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-sso/1.1.0/xxl-sso-1.1.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-sso/1.2.0/xxl-sso-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-sso/1.3.0/xxl-sso-1.3.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xuxueli/xxl-sso/2.0.0/xxl-sso-2.0.0.jar returned status 404

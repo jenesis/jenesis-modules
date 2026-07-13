@@ -1,3 +1,17 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.10.0/enrollment-server-parent-1.10.0.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.10.1/enrollment-server-parent-1.10.1.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.4.0/enrollment-server-parent-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.4.1/enrollment-server-parent-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.4.2/enrollment-server-parent-1.4.2.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.5.0/enrollment-server-parent-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.5.1/enrollment-server-parent-1.5.1.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.6.0/enrollment-server-parent-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.7.0/enrollment-server-parent-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.7.1/enrollment-server-parent-1.7.1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.8.0/enrollment-server-parent-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.8.1/enrollment-server-parent-1.8.1.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.9.0/enrollment-server-parent-1.9.0.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/1.9.1/enrollment-server-parent-1.9.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/2.0.0/enrollment-server-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/2.0.1/enrollment-server-parent-2.0.1.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wultra/security/enrollment-server-parent/2.1.0/enrollment-server-parent-2.1.0.jar returned status 404
