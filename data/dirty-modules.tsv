@@ -3226,3 +3226,4 @@ io.quarkus.qute
 io.quarkus.qute.generator
 io.quarkus.qute.debug
 io.quarkus.arc
+io.quarkus.commons.classloading

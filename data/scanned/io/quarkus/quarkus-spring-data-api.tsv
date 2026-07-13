@@ -1,2 +1,13 @@
+2.1.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.1.Alpha2/quarkus-spring-data-api-2.1.Alpha2.jar returned status 404
+2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.1.Final/quarkus-spring-data-api-2.1.Final.jar returned status 404
+2.1.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.1.SP1/quarkus-spring-data-api-2.1.SP1.jar returned status 404
+2.1.SP2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.1.SP2/quarkus-spring-data-api-2.1.SP2.jar returned status 404
+2.2.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.2.Alpha3/quarkus-spring-data-api-2.2.Alpha3.jar returned status 404
+2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/2.2.Final/quarkus-spring-data-api-2.2.Final.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.2/quarkus-spring-data-api-3.2.jar returned status 404
+3.2.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.2.SP1/quarkus-spring-data-api-3.2.SP1.jar returned status 404
+3.2.SP2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.2.SP2/quarkus-spring-data-api-3.2.SP2.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.4/quarkus-spring-data-api-3.4.jar returned status 404
 3.4.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.4.SP1/quarkus-spring-data-api-3.4.SP1.jar returned status 404
 3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/3.5/quarkus-spring-data-api-3.5.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-spring-data-api/4.1/quarkus-spring-data-api-4.1.jar returned status 404
