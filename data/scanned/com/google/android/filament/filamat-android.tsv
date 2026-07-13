@@ -102,6 +102,9 @@
 1.49.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.49.1/filamat-android-1.49.1.jar returned status 404
 1.49.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.49.2/filamat-android-1.49.2.jar returned status 404
 1.49.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.49.3/filamat-android-1.49.3.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.5.0/filamat-android-1.5.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.5.1/filamat-android-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.5.2/filamat-android-1.5.2.jar returned status 404
 1.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.51.0/filamat-android-1.51.0.jar returned status 404
 1.51.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.51.2/filamat-android-1.51.2.jar returned status 404
 1.51.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.51.6/filamat-android-1.51.6.jar returned status 404
@@ -112,6 +115,7 @@
 1.54.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.54.5/filamat-android-1.54.5.jar returned status 404
 1.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.56.0/filamat-android-1.56.0.jar returned status 404
 1.57.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.57.1/filamat-android-1.57.1.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.6.0/filamat-android-1.6.0.jar returned status 404
 1.64.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.64.1/filamat-android-1.64.1.jar returned status 404
 1.65.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.65.0/filamat-android-1.65.0.jar returned status 404
 1.65.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filamat-android/1.65.1/filamat-android-1.65.1.jar returned status 404

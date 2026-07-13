@@ -1,3 +1,10 @@
+1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/1.0-rc1/auto-parent-1.0-rc1.jar returned status 404
+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/2/auto-parent-2.jar returned status 404
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/3/auto-parent-3.jar returned status 404
 3	site	2015-04-25T06:22:23Z	
+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/4/auto-parent-4.jar returned status 404
 4	site	2017-09-28T18:54:38Z	
+5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/5/auto-parent-5.jar returned status 404
 5	site	2017-11-30T17:26:11Z	
+6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/6/auto-parent-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/auto/auto-parent/7/auto-parent-7.jar returned status 404

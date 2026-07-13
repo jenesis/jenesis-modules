@@ -1,7 +1,15 @@
+13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/13.0/guava-parent-jdk5-13.0.jar returned status 404
+14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/14.0.1/guava-parent-jdk5-14.0.1.jar returned status 404
 14.0.1	site	2013-06-13T23:13:13Z	
+14.0.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/14.0.1-rc1/guava-parent-jdk5-14.0.1-rc1.jar returned status 404
 14.0.1-rc1	site	2013-04-24T21:26:09Z	
+16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/16.0/guava-parent-jdk5-16.0.jar returned status 404
 16.0	site	2014-02-10T22:01:26Z	
+16.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/16.0-rc1/guava-parent-jdk5-16.0-rc1.jar returned status 404
 16.0-rc1	site	2014-01-31T20:16:06Z	
+17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/17.0/guava-parent-jdk5-17.0.jar returned status 404
 17.0	site	2014-04-22T21:08:52Z	
+17.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/17.0-rc1/guava-parent-jdk5-17.0-rc1.jar returned status 404
 17.0-rc1	site	2014-04-08T20:45:18Z	
+17.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent-jdk5/17.0-rc2/guava-parent-jdk5-17.0-rc2.jar returned status 404
 17.0-rc2	site	2014-04-10T21:03:50Z	

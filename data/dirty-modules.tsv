@@ -279,3 +279,6 @@ discord4j.discordjson.api
 discord4j.discordjson.encoding
 org.seleniumhq.selenium.grid
 com.headius.invokebinder
+com.google.protobuf
+com.google.protobuf.util
+kotlinx.serialization.json
