@@ -3220,3 +3220,4 @@ org.checkerframework.checker.qual
 io.quarkus.dev.spi
 io.quarkus.launcher
 io.quarkus.bootstrap.runner
+io.quarkus.core
