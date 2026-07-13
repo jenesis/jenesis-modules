@@ -1,3 +1,11 @@
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.11.0/lib-ipc-4.11.0.jar returned status 404
+4.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.14.4/lib-ipc-4.14.4.jar returned status 404
+4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.19.0/lib-ipc-4.19.0.jar returned status 404
+4.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.20.0/lib-ipc-4.20.0.jar returned status 404
+4.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.23.1/lib-ipc-4.23.1.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.5.0/lib-ipc-4.5.0.jar returned status 404
+4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.6.2/lib-ipc-4.6.2.jar returned status 404
+4.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/4.8.2/lib-ipc-4.8.2.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/5.1.0/lib-ipc-5.1.0.jar returned status 404
 5.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/5.1.6/lib-ipc-5.1.6.jar returned status 404
 5.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-ipc/5.1.7/lib-ipc-5.1.7.jar returned status 404
