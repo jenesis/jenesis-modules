@@ -1,1 +1,4 @@
+1.0-rc2-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-util/commons-util/1.0-rc2-dev/commons-util-1.0-rc2-dev.jar returned status 404
+1.0-rc2-dev.20020814.103359			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-util/commons-util/1.0-rc2-dev.20020814.103359/commons-util-1.0-rc2-dev.20020814.103359.jar returned status 404
+1.0-rc2-dev.20021217.063141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/commons-util/commons-util/1.0-rc2-dev.20021217.063141/commons-util-1.0-rc2-dev.20021217.063141.jar returned status 404
 final		2005-10-15T06:08:33Z	

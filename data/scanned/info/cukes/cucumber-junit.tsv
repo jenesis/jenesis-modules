@@ -41,3 +41,4 @@
 1.2.3		2015-07-07T22:39:55Z	
 1.2.4		2015-07-23T13:41:27Z	
 1.2.5		2016-09-12T22:07:44Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-junit/1.2.6/cucumber-junit-1.2.6.jar returned status 404

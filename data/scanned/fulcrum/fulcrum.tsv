@@ -1,3 +1,4 @@
 1.0		2005-11-22T18:13:04Z	
 3.0	b1	2005-04-27T04:26:50Z	
 3.0-b1		2005-11-22T18:13:04Z	
+3.0-b2-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fulcrum/fulcrum/3.0-b2-dev/fulcrum-3.0-b2-dev.jar returned status 404

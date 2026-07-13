@@ -1,3 +1,7 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/3.0.0/viewpump-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/3.0.1/viewpump-3.0.1.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.0/viewpump-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.1/viewpump-4.0.1.jar returned status 404
 4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.10/viewpump-4.0.10.jar returned status 404
 4.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.11/viewpump-4.0.11.jar returned status 404
 4.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.12/viewpump-4.0.12.jar returned status 404
@@ -5,5 +9,11 @@
 4.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.14/viewpump-4.0.14.jar returned status 404
 4.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.15/viewpump-4.0.15.jar returned status 404
 4.0.15-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.15-alpha01/viewpump-4.0.15-alpha01.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.2/viewpump-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.3/viewpump-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.4/viewpump-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.5/viewpump-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.6/viewpump-4.0.6.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.7/viewpump-4.0.7.jar returned status 404
 4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.8/viewpump-4.0.8.jar returned status 404
 4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/b3nedikt/viewpump/viewpump/4.0.9/viewpump-4.0.9.jar returned status 404

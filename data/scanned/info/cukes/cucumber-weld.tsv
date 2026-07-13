@@ -40,3 +40,4 @@
 1.2.3		2015-07-07T22:59:09Z	
 1.2.4		2015-07-23T13:45:37Z	
 1.2.5		2016-09-12T22:16:05Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-weld/1.2.6/cucumber-weld-1.2.6.jar returned status 404

@@ -1,3 +1,5 @@
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-runtime-spring/0.2.0/fastball-runtime-spring-0.2.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-runtime-spring/0.4.0/fastball-runtime-spring-0.4.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-runtime-spring/0.6.0/fastball-runtime-spring-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-runtime-spring/0.6.1/fastball-runtime-spring-0.6.1.jar returned status 404
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/fastball/fastball-runtime-spring/0.6.2/fastball-runtime-spring-0.6.2.jar returned status 404

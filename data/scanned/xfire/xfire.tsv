@@ -1,5 +1,14 @@
+0.1-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/0.1-dev/xfire-0.1-dev.jar returned status 404
+1.0-M3			
+1.0-alpha-1			
+1.0-alpha-2			
 1.2.6		2007-05-03T13:31:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/1.2.6/xfire-1.2.6.jar returned status 404
 20041222		2005-08-01T09:52:13Z	
+20041222.040711			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/20041222.040711/xfire-20041222.040711.jar returned status 404
+20041222.042410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/20041222.042410/xfire-20041222.042410.jar returned status 404
+20050103.050727			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/20050103.050727/xfire-20050103.050727.jar returned status 404
+20050103.050928			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/20050103.050928/xfire-20050103.050928.jar returned status 404
+20050103.051143			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xfire/xfire/20050103.051143/xfire-20050103.051143.jar returned status 404
 20050103.051333		2005-04-27T04:52:59Z	
 20050103.051604		2005-04-27T04:52:59Z	
 20050202		2005-08-01T09:52:13Z	

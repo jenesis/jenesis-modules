@@ -1,3 +1,4 @@
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-android/1.1.4/cucumber-android-1.1.4.jar returned status 404
 1.1.5		2013-09-14T17:12:01Z	
 1.1.6		2014-03-24T12:42:39Z	
 1.1.7		2014-05-19T12:26:30Z	
@@ -7,3 +8,4 @@
 1.2.3		2015-07-07T23:06:45Z	
 1.2.4		2015-07-23T13:49:11Z	
 1.2.5		2016-09-12T22:22:50Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-android/1.2.6/cucumber-android-1.2.6.jar returned status 404

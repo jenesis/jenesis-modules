@@ -63,3 +63,4 @@
 1.2.3		2015-07-07T22:43:16Z	
 1.2.4		2015-07-23T13:42:33Z	
 1.2.5		2016-09-12T22:10:13Z	
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/cukes/cucumber-picocontainer/1.2.6/cucumber-picocontainer-1.2.6.jar returned status 404

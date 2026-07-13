@@ -1,3 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/1.0.0/roadsigns-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/2.0.0/roadsigns-2.0.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/3.0.0/roadsigns-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/3.1.0/roadsigns-3.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/4.0.0/roadsigns-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/4.1.0/roadsigns-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/metadude/kotlin/library/roadsigns/roadsigns/4.2.0/roadsigns-4.2.0.jar returned status 404

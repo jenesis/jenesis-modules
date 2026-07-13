@@ -5,3 +5,5 @@
 0.5.1		2026-07-02T03:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-addon-arrow-core-wasm-js/0.5.1/fiktion-addon-arrow-core-wasm-js-0.5.1.jar returned status 404
 0.6.0		2026-07-06T11:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-addon-arrow-core-wasm-js/0.6.0/fiktion-addon-arrow-core-wasm-js-0.6.0.jar returned status 404
 0.6.1		2026-07-07T02:17:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-addon-arrow-core-wasm-js/0.6.1/fiktion-addon-arrow-core-wasm-js-0.6.1.jar returned status 404
+0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-addon-arrow-core-wasm-js/0.6.2/fiktion-addon-arrow-core-wasm-js-0.6.2.jar returned status 404
+0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/s7a/fiktion-addon-arrow-core-wasm-js/0.6.3/fiktion-addon-arrow-core-wasm-js-0.6.3.jar returned status 404
