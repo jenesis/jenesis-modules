@@ -1,6 +1,59 @@
+1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.10.2/odatav2-1.10.2.jar returned status 404
+1.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.11.4/odatav2-1.11.4.jar returned status 404
 1.13.1		2018-02-16T08:34:37Z	
 1.14.0		2018-03-14T13:24:20Z	
 1.14.2		2018-03-22T10:08:41Z	
 1.15.0		2018-04-11T14:11:13Z	
 1.15.1		2018-04-13T09:03:20Z	
 1.15.2		2018-04-18T09:03:27Z	
+1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.16.1/odatav2-1.16.1.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.17.0/odatav2-1.17.0.jar returned status 404
+1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.17.1/odatav2-1.17.1.jar returned status 404
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.18.0/odatav2-1.18.0.jar returned status 404
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.19.0/odatav2-1.19.0.jar returned status 404
+1.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.20.1/odatav2-1.20.1.jar returned status 404
+1.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.21.1/odatav2-1.21.1.jar returned status 404
+1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.22.0/odatav2-1.22.0.jar returned status 404
+1.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.23.0/odatav2-1.23.0.jar returned status 404
+1.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.24.0/odatav2-1.24.0.jar returned status 404
+1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.25.0/odatav2-1.25.0.jar returned status 404
+1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.26.0/odatav2-1.26.0.jar returned status 404
+1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.27.0/odatav2-1.27.0.jar returned status 404
+1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.28.0/odatav2-1.28.0.jar returned status 404
+1.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.28.1/odatav2-1.28.1.jar returned status 404
+1.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.28.2/odatav2-1.28.2.jar returned status 404
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.29.0/odatav2-1.29.0.jar returned status 404
+1.29.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.29.5/odatav2-1.29.5.jar returned status 404
+1.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.30.0/odatav2-1.30.0.jar returned status 404
+1.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.30.1/odatav2-1.30.1.jar returned status 404
+1.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.31.0/odatav2-1.31.0.jar returned status 404
+1.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.31.1/odatav2-1.31.1.jar returned status 404
+1.31.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.31.2/odatav2-1.31.2.jar returned status 404
+1.31.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.31.3/odatav2-1.31.3.jar returned status 404
+1.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.32.0/odatav2-1.32.0.jar returned status 404
+1.32.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.32.3/odatav2-1.32.3.jar returned status 404
+1.32.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.32.5/odatav2-1.32.5.jar returned status 404
+1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.33.0/odatav2-1.33.0.jar returned status 404
+1.33.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.33.13/odatav2-1.33.13.jar returned status 404
+1.33.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.33.14/odatav2-1.33.14.jar returned status 404
+1.34.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.34.1/odatav2-1.34.1.jar returned status 404
+1.34.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.34.4/odatav2-1.34.4.jar returned status 404
+1.34.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.34.7/odatav2-1.34.7.jar returned status 404
+1.34.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.34.8/odatav2-1.34.8.jar returned status 404
+1.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.35.0/odatav2-1.35.0.jar returned status 404
+1.35.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.35.2/odatav2-1.35.2.jar returned status 404
+1.35.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.35.4/odatav2-1.35.4.jar returned status 404
+1.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.36.0/odatav2-1.36.0.jar returned status 404
+1.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.36.1/odatav2-1.36.1.jar returned status 404
+1.36.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.36.2/odatav2-1.36.2.jar returned status 404
+1.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.37.0/odatav2-1.37.0.jar returned status 404
+1.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.37.1/odatav2-1.37.1.jar returned status 404
+1.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.38.0/odatav2-1.38.0.jar returned status 404
+1.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.39.0/odatav2-1.39.0.jar returned status 404
+1.39.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.39.3/odatav2-1.39.3.jar returned status 404
+1.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.40.0/odatav2-1.40.0.jar returned status 404
+1.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.40.1/odatav2-1.40.1.jar returned status 404
+1.40.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.40.11/odatav2-1.40.11.jar returned status 404
+1.40.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.40.2/odatav2-1.40.2.jar returned status 404
+1.40.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.40.6/odatav2-1.40.6.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/servicesdk/prov/odatav2/1.7.4/odatav2-1.7.4.jar returned status 404

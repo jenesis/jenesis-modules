@@ -66,6 +66,7 @@
 1.53.0	classes	2018-02-01T10:06:59Z	
 1.53.1		2024-02-01T02:21:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.53.1/com.sap.cloud.lm.sl.cf.web-1.53.1.jar returned status 404
 1.53.1	classes	2018-02-15T15:43:15Z	
+1.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.54.0/com.sap.cloud.lm.sl.cf.web-1.54.0.jar returned status 404
 1.54.0	classes	2018-02-06T14:21:47Z	
 1.54.1		2024-02-01T02:19:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.54.1/com.sap.cloud.lm.sl.cf.web-1.54.1.jar returned status 404
 1.54.1	classes	2018-02-14T09:28:33Z	
@@ -285,10 +286,15 @@
 1.73.41	classes	2023-09-12T13:45:57Z	
 1.73.43		2024-02-01T02:19:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.43/com.sap.cloud.lm.sl.cf.web-1.73.43.jar returned status 404
 1.73.43	classes	2023-11-15T17:26:35Z	
+1.73.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.44/com.sap.cloud.lm.sl.cf.web-1.73.44.jar returned status 404
 1.73.44	classes	2024-04-26T12:26:50Z	
+1.73.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.45/com.sap.cloud.lm.sl.cf.web-1.73.45.jar returned status 404
 1.73.45	classes	2024-09-04T12:28:16Z	
+1.73.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.46/com.sap.cloud.lm.sl.cf.web-1.73.46.jar returned status 404
 1.73.46	classes	2024-09-30T08:17:24Z	
+1.73.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.47/com.sap.cloud.lm.sl.cf.web-1.73.47.jar returned status 404
 1.73.47	classes	2024-10-17T10:45:13Z	
+1.73.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.48/com.sap.cloud.lm.sl.cf.web-1.73.48.jar returned status 404
 1.73.48	classes	2025-01-14T12:29:43Z	
 1.73.5		2024-02-01T02:21:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sap/cloud/lm/sl/cf/com.sap.cloud.lm.sl.cf.web/1.73.5/com.sap.cloud.lm.sl.cf.web-1.73.5.jar returned status 404
 1.73.5	classes	2019-08-07T14:16:04Z	
