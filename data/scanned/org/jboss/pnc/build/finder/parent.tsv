@@ -1,2 +1,16 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.0.0/parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.0.1/parent-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.1.0/parent-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.2.0/parent-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.3.0/parent-2.3.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.4.1/parent-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.4.2/parent-2.4.2.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.5.0/parent-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.0/parent-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.1/parent-2.6.1.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.2/parent-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.3/parent-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.4/parent-2.6.4.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.5/parent-2.6.5.jar returned status 404
 2.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.6/parent-2.6.6.jar returned status 404
 2.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/parent/2.6.7/parent-2.6.7.jar returned status 404

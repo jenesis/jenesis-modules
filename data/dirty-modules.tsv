@@ -1304,3 +1304,4 @@ kotlin.stdlib
 kotlin.native_utils
 com.fasterxml.aalto
 kotlin.test
+org.jspecify

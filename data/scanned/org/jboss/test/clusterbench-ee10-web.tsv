@@ -1,8 +1,24 @@
+10.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/10.0.0.Final/clusterbench-ee10-web-10.0.0.Final.jar returned status 404
 10.0.0.Final	classes	2024-08-15T13:29:54Z	
+10.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/10.0.1.Final/clusterbench-ee10-web-10.0.1.Final.jar returned status 404
 10.0.1.Final	classes	2024-09-09T09:35:26Z	
+10.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/10.0.2.Final/clusterbench-ee10-web-10.0.2.Final.jar returned status 404
 10.0.2.Final	classes	2024-09-24T08:58:46Z	
+11.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/11.0.0.Final/clusterbench-ee10-web-11.0.0.Final.jar returned status 404
 11.0.0.Final	classes	2024-11-28T15:14:13Z	
+11.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/11.0.1.Final/clusterbench-ee10-web-11.0.1.Final.jar returned status 404
 11.0.1.Final	classes	2024-12-06T11:44:57Z	
+12.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/12.0.0.Final/clusterbench-ee10-web-12.0.0.Final.jar returned status 404
 12.0.0.Final	classes	2025-01-23T08:26:31Z	
+12.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/12.0.1.Final/clusterbench-ee10-web-12.0.1.Final.jar returned status 404
 12.0.1.Final	classes	2025-02-12T14:37:41Z	
+13.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/13.0.0.Final/clusterbench-ee10-web-13.0.0.Final.jar returned status 404
 13.0.0.Final	classes	2025-05-19T14:43:48Z	
+4.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/4.0.0.Final/clusterbench-ee10-web-4.0.0.Final.jar returned status 404
+5.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/5.0.0.Final/clusterbench-ee10-web-5.0.0.Final.jar returned status 404
+5.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/5.0.1.Final/clusterbench-ee10-web-5.0.1.Final.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/6.0.0.Final/clusterbench-ee10-web-6.0.0.Final.jar returned status 404
+6.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/6.0.1.Final/clusterbench-ee10-web-6.0.1.Final.jar returned status 404
+7.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/7.0.0.Final/clusterbench-ee10-web-7.0.0.Final.jar returned status 404
+8.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/8.0.0.Final/clusterbench-ee10-web-8.0.0.Final.jar returned status 404
+8.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/test/clusterbench-ee10-web/8.0.1.Final/clusterbench-ee10-web-8.0.1.Final.jar returned status 404

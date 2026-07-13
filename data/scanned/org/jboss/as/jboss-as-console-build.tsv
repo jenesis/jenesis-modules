@@ -62,10 +62,15 @@
 2.2.0.Final	resources	2014-03-18T20:30:27Z	
 2.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.1.Final/jboss-as-console-build-2.2.1.Final.jar returned status 404
 2.2.1.Final	resources	2014-03-21T11:44:59Z	
+2.2.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.10.Final/jboss-as-console-build-2.2.10.Final.jar returned status 404
 2.2.10.Final	resources	2014-08-19T19:31:23Z	
+2.2.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.11.Final/jboss-as-console-build-2.2.11.Final.jar returned status 404
 2.2.11.Final	resources	2014-10-06T06:22:37Z	
+2.2.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.12.Final/jboss-as-console-build-2.2.12.Final.jar returned status 404
 2.2.12.Final	resources	2014-10-09T06:52:01Z	
+2.2.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.13.Final/jboss-as-console-build-2.2.13.Final.jar returned status 404
 2.2.13.Final	resources	2015-08-27T17:59:23Z	
+2.2.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.14.Final/jboss-as-console-build-2.2.14.Final.jar returned status 404
 2.2.14.Final	resources	2015-09-05T12:30:24Z	
 2.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.2.Final/jboss-as-console-build-2.2.2.Final.jar returned status 404
 2.2.2.Final	resources	2014-04-07T10:59:30Z	
@@ -73,111 +78,219 @@
 2.2.3.Final	resources	2014-04-09T08:16:38Z	
 2.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.4.Final/jboss-as-console-build-2.2.4.Final.jar returned status 404
 2.2.4.Final	resources	2014-05-05T14:27:31Z	
+2.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.5.Final/jboss-as-console-build-2.2.5.Final.jar returned status 404
 2.2.5.Final	resources	2014-05-11T20:40:30Z	
+2.2.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.6.Final/jboss-as-console-build-2.2.6.Final.jar returned status 404
 2.2.6.Final	resources	2014-05-12T10:10:01Z	
+2.2.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.7.Final/jboss-as-console-build-2.2.7.Final.jar returned status 404
 2.2.7.Final	resources	2014-05-20T09:16:19Z	
+2.2.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.8.Final/jboss-as-console-build-2.2.8.Final.jar returned status 404
 2.2.8.Final	resources	2014-06-03T15:06:06Z	
+2.2.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.2.9.Final/jboss-as-console-build-2.2.9.Final.jar returned status 404
 2.2.9.Final	resources	2014-08-11T16:05:51Z	
+2.4.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.0.Beta3/jboss-as-console-build-2.4.0.Beta3.jar returned status 404
 2.4.0.Beta3	resources	2014-09-10T11:51:09Z	
+2.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.0.Final/jboss-as-console-build-2.4.0.Final.jar returned status 404
 2.4.0.Final	resources	2014-09-18T14:35:29Z	
+2.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.1.Final/jboss-as-console-build-2.4.1.Final.jar returned status 404
 2.4.1.Final	resources	2014-09-25T12:11:50Z	
+2.4.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.2.Final/jboss-as-console-build-2.4.2.Final.jar returned status 404
 2.4.2.Final	resources	2014-10-02T07:05:30Z	
+2.4.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.3.Final/jboss-as-console-build-2.4.3.Final.jar returned status 404
 2.4.3.Final	resources	2014-10-09T08:43:18Z	
+2.4.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.4.Final/jboss-as-console-build-2.4.4.Final.jar returned status 404
 2.4.4.Final	resources	2014-10-16T14:28:24Z	
+2.4.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.5.Final/jboss-as-console-build-2.4.5.Final.jar returned status 404
 2.4.5.Final	resources	2014-10-30T09:17:35Z	
+2.4.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.6.Final/jboss-as-console-build-2.4.6.Final.jar returned status 404
 2.4.6.Final	resources	2014-11-06T09:26:38Z	
+2.4.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.7.Final/jboss-as-console-build-2.4.7.Final.jar returned status 404
 2.4.7.Final	resources	2014-11-13T15:54:44Z	
+2.4.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.8.Final/jboss-as-console-build-2.4.8.Final.jar returned status 404
 2.4.8.Final	resources	2014-11-20T12:40:49Z	
+2.4.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.4.9.Final/jboss-as-console-build-2.4.9.Final.jar returned status 404
 2.4.9.Final	resources	2014-11-21T00:08:15Z	
+2.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.0.Final/jboss-as-console-build-2.5.0.Final.jar returned status 404
 2.5.0.Final	resources	2014-12-01T20:50:31Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.1/jboss-as-console-build-2.5.1.jar returned status 404
 2.5.1	resources	2014-12-04T14:53:55Z	
+2.5.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.10.Final/jboss-as-console-build-2.5.10.Final.jar returned status 404
 2.5.10.Final	resources	2015-09-16T08:40:43Z	
+2.5.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.11.Final/jboss-as-console-build-2.5.11.Final.jar returned status 404
 2.5.11.Final	resources	2015-10-26T16:34:13Z	
+2.5.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.12.Final/jboss-as-console-build-2.5.12.Final.jar returned status 404
 2.5.12.Final	resources	2016-02-22T07:00:05Z	
+2.5.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.14.Final/jboss-as-console-build-2.5.14.Final.jar returned status 404
 2.5.14.Final	resources	2016-10-21T12:46:09Z	
+2.5.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.17.Final/jboss-as-console-build-2.5.17.Final.jar returned status 404
 2.5.17.Final	resources	2017-05-17T11:09:59Z	
+2.5.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.18.Final/jboss-as-console-build-2.5.18.Final.jar returned status 404
 2.5.18.Final	resources	2019-03-18T13:40:15Z	
+2.5.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.19.Final/jboss-as-console-build-2.5.19.Final.jar returned status 404
 2.5.19.Final	resources	2019-04-02T09:58:35Z	
+2.5.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.2.Final/jboss-as-console-build-2.5.2.Final.jar returned status 404
 2.5.2.Final	resources	2014-12-22T12:14:44Z	
+2.5.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.3.Final/jboss-as-console-build-2.5.3.Final.jar returned status 404
 2.5.3.Final	resources	2015-01-23T19:40:33Z	
+2.5.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.5.Final/jboss-as-console-build-2.5.5.Final.jar returned status 404
 2.5.5.Final	resources	2015-02-19T09:44:05Z	
+2.5.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.6.Final/jboss-as-console-build-2.5.6.Final.jar returned status 404
 2.5.6.Final	resources	2015-06-12T20:08:36Z	
+2.5.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.7.Final/jboss-as-console-build-2.5.7.Final.jar returned status 404
 2.5.7.Final	resources	2015-08-27T18:22:16Z	
+2.5.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.8.Final/jboss-as-console-build-2.5.8.Final.jar returned status 404
 2.5.8.Final	resources	2015-09-05T13:01:34Z	
+2.5.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.5.9.Final/jboss-as-console-build-2.5.9.Final.jar returned status 404
 2.5.9.Final	resources	2015-09-07T14:10:20Z	
+2.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.0.Final/jboss-as-console-build-2.6.0.Final.jar returned status 404
 2.6.0.Final	resources	2015-02-24T15:51:00Z	
+2.6.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.1.Final/jboss-as-console-build-2.6.1.Final.jar returned status 404
 2.6.1.Final	resources	2015-02-25T11:34:20Z	
+2.6.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.10.Final/jboss-as-console-build-2.6.10.Final.jar returned status 404
 2.6.10.Final	resources	2015-05-27T13:25:55Z	
+2.6.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.2.Final/jboss-as-console-build-2.6.2.Final.jar returned status 404
 2.6.2.Final	resources	2015-02-25T14:33:19Z	
+2.6.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.3.Final/jboss-as-console-build-2.6.3.Final.jar returned status 404
 2.6.3.Final	resources	2015-02-25T16:18:28Z	
+2.6.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.4.Final/jboss-as-console-build-2.6.4.Final.jar returned status 404
 2.6.4.Final	resources	2015-02-26T08:29:45Z	
+2.6.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.5.Final/jboss-as-console-build-2.6.5.Final.jar returned status 404
 2.6.5.Final	resources	2015-03-03T12:02:05Z	
+2.6.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.6.Final/jboss-as-console-build-2.6.6.Final.jar returned status 404
 2.6.6.Final	resources	2015-03-16T22:37:22Z	
+2.6.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.7.Final/jboss-as-console-build-2.6.7.Final.jar returned status 404
 2.6.7.Final	resources	2015-04-16T12:20:12Z	
+2.6.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.8.Final/jboss-as-console-build-2.6.8.Final.jar returned status 404
 2.6.8.Final	resources	2015-04-30T21:34:56Z	
+2.6.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.6.9.Final/jboss-as-console-build-2.6.9.Final.jar returned status 404
 2.6.9.Final	resources	2015-05-04T15:21:22Z	
+2.7.0.Alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.0.Alpha0/jboss-as-console-build-2.7.0.Alpha0.jar returned status 404
 2.7.0.Alpha0	resources	2015-06-01T15:45:57Z	
+2.7.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.0.Alpha1/jboss-as-console-build-2.7.0.Alpha1.jar returned status 404
 2.7.0.Alpha1	resources	2015-06-02T10:22:44Z	
+2.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.0.Final/jboss-as-console-build-2.7.0.Final.jar returned status 404
 2.7.0.Final	resources	2015-06-03T12:00:16Z	
+2.7.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.1.Final/jboss-as-console-build-2.7.1.Final.jar returned status 404
 2.7.1.Final	resources	2015-06-06T16:55:15Z	
+2.7.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.2.Final/jboss-as-console-build-2.7.2.Final.jar returned status 404
 2.7.2.Final	resources	2015-06-16T10:39:42Z	
+2.7.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.3.Final/jboss-as-console-build-2.7.3.Final.jar returned status 404
 2.7.3.Final	resources	2015-06-17T12:38:34Z	
+2.7.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.7.4.Final/jboss-as-console-build-2.7.4.Final.jar returned status 404
 2.7.4.Final	resources	2015-06-19T12:56:01Z	
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.0/jboss-as-console-build-2.8.0.jar returned status 404
 2.8.0	resources	2015-06-25T11:54:16Z	
+2.8.0.Alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.0.Alpha0/jboss-as-console-build-2.8.0.Alpha0.jar returned status 404
 2.8.0.Alpha0	resources	2015-06-11T22:27:09Z	
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.1/jboss-as-console-build-2.8.1.jar returned status 404
 2.8.1	resources	2015-07-09T12:57:35Z	
+2.8.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.10.Final/jboss-as-console-build-2.8.10.Final.jar returned status 404
 2.8.10.Final	resources	2015-09-15T14:51:16Z	
+2.8.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.11.Final/jboss-as-console-build-2.8.11.Final.jar returned status 404
 2.8.11.Final	resources	2015-09-22T08:04:46Z	
+2.8.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.12.Final/jboss-as-console-build-2.8.12.Final.jar returned status 404
 2.8.12.Final	resources	2015-10-07T20:05:51Z	
+2.8.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.13.Final/jboss-as-console-build-2.8.13.Final.jar returned status 404
 2.8.13.Final	resources	2015-10-22T17:46:47Z	
+2.8.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.14.Final/jboss-as-console-build-2.8.14.Final.jar returned status 404
 2.8.14.Final	resources	2015-10-28T13:19:36Z	
+2.8.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.15.Final/jboss-as-console-build-2.8.15.Final.jar returned status 404
 2.8.15.Final	resources	2015-11-25T13:02:02Z	
+2.8.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.16.Final/jboss-as-console-build-2.8.16.Final.jar returned status 404
 2.8.16.Final	resources	2015-12-14T11:39:30Z	
+2.8.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.17.Final/jboss-as-console-build-2.8.17.Final.jar returned status 404
 2.8.17.Final	resources	2016-01-05T01:47:14Z	
+2.8.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.18.Final/jboss-as-console-build-2.8.18.Final.jar returned status 404
 2.8.18.Final	resources	2016-01-25T23:09:44Z	
+2.8.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.19.Final/jboss-as-console-build-2.8.19.Final.jar returned status 404
 2.8.19.Final	resources	2016-01-26T10:32:19Z	
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.2/jboss-as-console-build-2.8.2.jar returned status 404
 2.8.2	resources	2015-07-13T06:57:11Z	
+2.8.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.20.Final/jboss-as-console-build-2.8.20.Final.jar returned status 404
 2.8.20.Final	resources	2016-02-18T09:55:35Z	
+2.8.21.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.21.Final/jboss-as-console-build-2.8.21.Final.jar returned status 404
 2.8.21.Final	resources	2016-02-19T08:38:58Z	
+2.8.22.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.22.Final/jboss-as-console-build-2.8.22.Final.jar returned status 404
 2.8.22.Final	resources	2016-02-22T12:26:37Z	
+2.8.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.23.Final/jboss-as-console-build-2.8.23.Final.jar returned status 404
 2.8.23.Final	resources	2016-03-09T10:53:28Z	
+2.8.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.24.Final/jboss-as-console-build-2.8.24.Final.jar returned status 404
 2.8.24.Final	resources	2016-04-04T16:46:02Z	
+2.8.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.25.Final/jboss-as-console-build-2.8.25.Final.jar returned status 404
 2.8.25.Final	resources	2016-05-09T13:52:00Z	
+2.8.25.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.25.SP1/jboss-as-console-build-2.8.25.SP1.jar returned status 404
 2.8.25.SP1	resources	2016-06-16T10:49:17Z	
+2.8.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.26.Final/jboss-as-console-build-2.8.26.Final.jar returned status 404
 2.8.26.Final	resources	2016-06-22T16:25:04Z	
+2.8.27.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.27.Final/jboss-as-console-build-2.8.27.Final.jar returned status 404
 2.8.27.Final	resources	2016-07-29T14:58:57Z	
+2.8.28.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.28.Final/jboss-as-console-build-2.8.28.Final.jar returned status 404
 2.8.28.Final	resources	2016-11-07T08:30:37Z	
+2.8.29.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.29.Final/jboss-as-console-build-2.8.29.Final.jar returned status 404
 2.8.29.Final	resources	2017-01-20T09:53:42Z	
+2.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.3/jboss-as-console-build-2.8.3.jar returned status 404
 2.8.3	resources	2015-07-23T13:25:24Z	
+2.8.30.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.30.Final/jboss-as-console-build-2.8.30.Final.jar returned status 404
 2.8.30.Final	resources	2017-06-19T13:26:57Z	
+2.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.4/jboss-as-console-build-2.8.4.jar returned status 404
 2.8.4	resources	2015-08-03T19:56:12Z	
+2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.5/jboss-as-console-build-2.8.5.jar returned status 404
 2.8.5	resources	2015-08-06T07:57:21Z	
+2.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.6/jboss-as-console-build-2.8.6.jar returned status 404
 2.8.6	resources	2015-08-31T09:22:00Z	
+2.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.7/jboss-as-console-build-2.8.7.jar returned status 404
 2.8.7	resources	2015-09-04T09:29:54Z	
+2.8.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.8.Final/jboss-as-console-build-2.8.8.Final.jar returned status 404
 2.8.8.Final	resources	2015-09-08T21:26:51Z	
+2.8.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.8.9.Final/jboss-as-console-build-2.8.9.Final.jar returned status 404
 2.8.9.Final	resources	2015-09-14T12:20:52Z	
+2.9.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha1/jboss-as-console-build-2.9.0.Alpha1.jar returned status 404
 2.9.0.Alpha1	resources	2016-08-12T09:51:36Z	
+2.9.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha2/jboss-as-console-build-2.9.0.Alpha2.jar returned status 404
 2.9.0.Alpha2	resources	2016-09-16T09:08:22Z	
+2.9.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha3/jboss-as-console-build-2.9.0.Alpha3.jar returned status 404
 2.9.0.Alpha3	resources	2016-09-30T06:28:54Z	
+2.9.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha4/jboss-as-console-build-2.9.0.Alpha4.jar returned status 404
 2.9.0.Alpha4	resources	2016-10-21T15:02:35Z	
+2.9.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha5/jboss-as-console-build-2.9.0.Alpha5.jar returned status 404
 2.9.0.Alpha5	resources	2016-11-04T10:36:32Z	
+2.9.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Alpha6/jboss-as-console-build-2.9.0.Alpha6.jar returned status 404
 2.9.0.Alpha6	resources	2016-11-25T16:29:35Z	
+2.9.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.0.Final/jboss-as-console-build-2.9.0.Final.jar returned status 404
 2.9.0.Final	resources	2016-12-16T13:27:49Z	
+2.9.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.1.Final/jboss-as-console-build-2.9.1.Final.jar returned status 404
 2.9.1.Final	resources	2017-01-20T11:08:19Z	
+2.9.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.10.Final/jboss-as-console-build-2.9.10.Final.jar returned status 404
 2.9.10.Final	resources	2017-06-02T11:26:42Z	
+2.9.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.11.Final/jboss-as-console-build-2.9.11.Final.jar returned status 404
 2.9.11.Final	resources	2017-06-27T14:19:35Z	
+2.9.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.12.Final/jboss-as-console-build-2.9.12.Final.jar returned status 404
 2.9.12.Final	resources	2017-07-21T13:49:50Z	
+2.9.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.13.Final/jboss-as-console-build-2.9.13.Final.jar returned status 404
 2.9.13.Final	resources	2017-08-22T15:21:04Z	
+2.9.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.14.Final/jboss-as-console-build-2.9.14.Final.jar returned status 404
 2.9.14.Final	resources	2017-09-11T12:51:07Z	
+2.9.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.15.Final/jboss-as-console-build-2.9.15.Final.jar returned status 404
 2.9.15.Final	resources	2017-10-12T21:42:22Z	
+2.9.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.16.Final/jboss-as-console-build-2.9.16.Final.jar returned status 404
 2.9.16.Final	resources	2018-03-12T11:55:29Z	
+2.9.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.18.Final/jboss-as-console-build-2.9.18.Final.jar returned status 404
 2.9.18.Final	resources	2018-07-03T10:21:47Z	
+2.9.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.19.Final/jboss-as-console-build-2.9.19.Final.jar returned status 404
 2.9.19.Final	resources	2018-11-27T15:27:07Z	
+2.9.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.2.Final/jboss-as-console-build-2.9.2.Final.jar returned status 404
 2.9.2.Final	resources	2017-02-10T14:14:25Z	
+2.9.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.3.Final/jboss-as-console-build-2.9.3.Final.jar returned status 404
 2.9.3.Final	resources	2017-02-24T16:39:44Z	
+2.9.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.4.Final/jboss-as-console-build-2.9.4.Final.jar returned status 404
 2.9.4.Final	resources	2017-03-14T13:46:57Z	
+2.9.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.5.Final/jboss-as-console-build-2.9.5.Final.jar returned status 404
 2.9.5.Final	resources	2017-03-24T06:32:22Z	
+2.9.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.6.Final/jboss-as-console-build-2.9.6.Final.jar returned status 404
 2.9.6.Final	resources	2017-03-31T09:20:26Z	
+2.9.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.7.Final/jboss-as-console-build-2.9.7.Final.jar returned status 404
 2.9.7.Final	resources	2017-04-20T13:48:51Z	
+2.9.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.8.Final/jboss-as-console-build-2.9.8.Final.jar returned status 404
 2.9.8.Final	resources	2017-05-05T10:28:33Z	
+2.9.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/as/jboss-as-console-build/2.9.9.Final/jboss-as-console-build-2.9.9.Final.jar returned status 404
 2.9.9.Final	resources	2017-05-21T17:57:54Z	

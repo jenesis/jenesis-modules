@@ -1,6 +1,40 @@
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/0.8.2/reports-rest-0.8.2.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.0.0/reports-rest-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.0.1/reports-rest-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.0.2/reports-rest-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.1.0/reports-rest-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.1.1/reports-rest-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.2.0/reports-rest-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.2.1/reports-rest-1.2.1.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.3.0/reports-rest-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.3.1/reports-rest-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.3.2/reports-rest-1.3.2.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.4.0/reports-rest-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.4.1/reports-rest-1.4.1.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.5.0/reports-rest-1.5.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.7.0/reports-rest-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/1.8.0/reports-rest-1.8.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.0.1/reports-rest-2.0.1.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.0.4/reports-rest-2.0.4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.1.0/reports-rest-2.1.0.jar returned status 404
+2.1.0.Api-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.1.0.Api-2/reports-rest-2.1.0.Api-2.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.1.1/reports-rest-2.1.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.3.0/reports-rest-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.3.1/reports-rest-2.3.1.jar returned status 404
+2.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.4.10/reports-rest-2.4.10.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.4.2/reports-rest-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.4.3/reports-rest-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.4.4/reports-rest-2.4.4.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.4.6/reports-rest-2.4.6.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.5.1/reports-rest-2.5.1.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.6.3/reports-rest-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.6.4/reports-rest-2.6.4.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.6.5/reports-rest-2.6.5.jar returned status 404
+2.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.6.8/reports-rest-2.6.8.jar returned status 404
 2.6.9		2025-08-15T13:20:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/reports-rest/2.6.9/reports-rest-2.6.9.jar returned status 404
 3.0.0		2026-05-01T18:59:23Z	
 3.0.1		2026-06-19T12:38:14Z	
 3.0.2		2026-06-19T17:40:13Z	
 3.0.3		2026-06-22T07:27:51Z	
 3.0.4		2026-06-22T22:11:21Z	
+3.0.5			

@@ -1,2 +1,16 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.0.0/aggregate-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.0.1/aggregate-2.0.1.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.1.0/aggregate-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.2.0/aggregate-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.3.0/aggregate-2.3.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.4.1/aggregate-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.4.2/aggregate-2.4.2.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.5.0/aggregate-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.0/aggregate-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.1/aggregate-2.6.1.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.2/aggregate-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.3/aggregate-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.4/aggregate-2.6.4.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.5/aggregate-2.6.5.jar returned status 404
 2.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.6/aggregate-2.6.6.jar returned status 404
 2.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/build/finder/aggregate/2.6.7/aggregate-2.6.7.jar returned status 404

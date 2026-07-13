@@ -1,3 +1,36 @@
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/0.8.2/application-0.8.2.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.0.0/application-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.0.1/application-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.0.2/application-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.1.0/application-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.1.1/application-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.2.0/application-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.2.1/application-1.2.1.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.3.0/application-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.3.1/application-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.3.2/application-1.3.2.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.4.0/application-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.4.1/application-1.4.1.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.5.0/application-1.5.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.7.0/application-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/1.8.0/application-1.8.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.0.1/application-2.0.1.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.0.4/application-2.0.4.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.1.0/application-2.1.0.jar returned status 404
+2.1.0.Api-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.1.0.Api-2/application-2.1.0.Api-2.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.1.1/application-2.1.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.3.0/application-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.3.1/application-2.3.1.jar returned status 404
+2.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.4.10/application-2.4.10.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.4.2/application-2.4.2.jar returned status 404
+2.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.4.3/application-2.4.3.jar returned status 404
+2.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.4.4/application-2.4.4.jar returned status 404
+2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.4.6/application-2.4.6.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.5.1/application-2.5.1.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.6.3/application-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.6.4/application-2.6.4.jar returned status 404
+2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.6.5/application-2.6.5.jar returned status 404
+2.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.6.8/application-2.6.8.jar returned status 404
 2.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/application/2.6.9/application-2.6.9.jar returned status 404
 3.0.0		2026-05-01T18:59:23Z	
 3.0.0	runner	2026-05-01T18:59:23Z	
@@ -9,3 +42,4 @@
 3.0.3	runner	2026-06-22T07:27:51Z	
 3.0.4		2026-06-22T22:11:21Z	
 3.0.4	runner	2026-06-22T22:11:21Z	
+3.0.5			
