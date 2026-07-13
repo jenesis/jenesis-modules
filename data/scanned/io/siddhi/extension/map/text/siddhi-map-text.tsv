@@ -1,5 +1,6 @@
 2.0.1		2019-05-03T10:48:55Z	
 2.0.2		2019-05-27T14:58:06Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/extension/map/text/siddhi-map-text/2.0.3/siddhi-map-text-2.0.3.jar returned status 404
 2.0.4		2019-08-06T15:31:38Z	
 2.0.5		2020-06-18T04:42:56Z	
 2.1.0		2020-07-06T17:07:47Z	

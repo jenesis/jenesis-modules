@@ -6,6 +6,7 @@
 17.1.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/17.1.51.0/adapter-mintegral-17.1.51.0.jar returned status 404
 17.1.61.0		2026-06-29T08:00:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/17.1.61.0/adapter-mintegral-17.1.61.0.jar returned status 404
 17.1.61.1		2026-07-05T03:00:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/17.1.61.1/adapter-mintegral-17.1.61.1.jar returned status 404
+17.1.61.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/17.1.61.2/adapter-mintegral-17.1.61.2.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/2.2.0/adapter-mintegral-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/2.2.1/adapter-mintegral-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-mintegral/2.2.2/adapter-mintegral-2.2.2.jar returned status 404

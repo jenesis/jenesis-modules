@@ -2,3 +2,7 @@
 4.4.7		2021-02-10T23:27:27Z	
 4.4.8		2021-03-24T08:14:10Z	
 4.5.0		2021-03-31T22:42:43Z	
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holixon/axon/axon-framework-bom/4.5.1/axon-framework-bom-4.5.1.jar returned status 404
+4.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holixon/axon/axon-framework-bom/4.5.10/axon-framework-bom-4.5.10.jar returned status 404
+4.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holixon/axon/axon-framework-bom/4.5.14/axon-framework-bom-4.5.14.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/holixon/axon/axon-framework-bom/4.5.2/axon-framework-bom-4.5.2.jar returned status 404

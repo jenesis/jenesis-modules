@@ -4,6 +4,7 @@
 1.0.0-m3		2019-04-09T19:35:59Z	
 5.1.0		2019-10-07T20:58:10Z	
 5.1.0-alpha		2019-08-29T19:46:53Z	
+5.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/distribution/io.siddhi.distribution.metrics.core/5.1.0-beta/io.siddhi.distribution.metrics.core-5.1.0-beta.jar returned status 404
 5.1.0-m1		2019-07-05T20:41:40Z	
 5.1.0-m2		2019-08-07T11:04:05Z	
 5.1.2		2019-12-13T08:12:00Z	

@@ -35,8 +35,10 @@
 5.1.26		2022-11-29T05:05:16Z	
 5.1.27		2023-01-03T09:15:22Z	
 5.1.28		2023-02-07T13:52:22Z	
+5.1.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/siddhi-core/5.1.29/siddhi-core-5.1.29.jar returned status 404
 5.1.3		2019-08-29T17:37:10Z	
 5.1.30		2024-01-17T16:43:55Z	
+5.1.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/siddhi-core/5.1.31/siddhi-core-5.1.31.jar returned status 404
 5.1.32		2026-04-08T09:03:23Z	
 5.1.33		2026-05-05T12:14:56Z	
 5.1.4		2019-09-10T15:24:21Z	

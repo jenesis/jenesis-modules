@@ -1,4 +1,5 @@
 2.0.6		2019-05-27T14:56:48Z	
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/extension/io/http/io.siddhi.extension.io.http.coverge.test/2.0.7/io.siddhi.extension.io.http.coverge.test-2.0.7.jar returned status 404
 2.0.8		2019-07-05T16:19:06Z	
 2.1.0		2019-08-07T07:34:08Z	
 2.1.1		2019-08-29T15:12:13Z	
@@ -13,4 +14,5 @@
 2.3.2		2021-04-12T06:03:42Z	
 2.3.3		2021-04-15T16:21:25Z	
 2.3.4		2022-02-22T14:00:20Z	
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/extension/io/http/io.siddhi.extension.io.http.coverge.test/2.3.5/io.siddhi.extension.io.http.coverge.test-2.3.5.jar returned status 404
 2.3.6		2022-11-30T11:32:56Z	

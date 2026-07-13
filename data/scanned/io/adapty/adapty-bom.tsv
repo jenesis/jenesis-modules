@@ -35,3 +35,4 @@
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-bom/3.9.0/adapty-bom-3.9.0.jar returned status 404
 3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-bom/3.9.1/adapty-bom-3.9.1.jar returned status 404
 4.0.0-beta.1		2026-06-26T04:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-bom/4.0.0-beta.1/adapty-bom-4.0.0-beta.1.jar returned status 404
+4.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-bom/4.0.0-beta.2/adapty-bom-4.0.0-beta.2.jar returned status 404

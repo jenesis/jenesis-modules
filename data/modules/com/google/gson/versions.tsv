@@ -2395,6 +2395,7 @@ v1.5.2	named	com.exaroton	api	2023-05-06T16:28:21Z	2.10.1
 9.17.0.82934	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2024-01-17T09:46:55Z	2.10.1
 1.0.6	named	com.aliyun	aliyun-encdb-mysql-jdbc	2024-01-17T11:58:20Z	2.10.1
 1.25.0.8192	named	org.sonarsource.iac	sonar-iac-plugin	2024-01-17T16:28:37Z	2.9.0
+5.1.30	named	io.siddhi	siddhi-service	2024-01-17T16:44:19Z	2.10.1
 2.0.0-Beta3	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2024-01-17T17:14:04Z	2.8.9
 0.1	named	org.apache.beam	beam-vendor-grpc-1_60_1	2024-01-17T22:23:58Z	2.10.1
 1.2.9	named	com.clickzetta	clickzetta-java	2024-01-18T03:32:30Z	2.9.0
@@ -4756,6 +4757,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.5.0.15rc1	named	io.acryl	datahub-protobuf	2026-04-23T14:44:38Z	2.12.0
 2.10.1	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-04-23T14:47:42Z	2.10
 2.14.0	named	com.google.code.gson	gson	2026-04-23T19:01:47Z	2.14.0
+5.1.32	named	io.siddhi	siddhi-service	2026-04-24T00:15:04Z	2.10.1
 1.1.2	named	org.operaton.bpm	operaton-engine	2026-04-24T08:36:08Z	2.13.2
 11.2.0.85396	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-04-24T08:46:03Z	2.13.2
 11.2.0.85396	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-04-24T08:46:03Z	2.13.2
@@ -4801,6 +4803,7 @@ ml-2.1.0	named	io.mapsmessaging	jms_selector_parser	2025-11-11T04:45:42Z	2.13.2
 1.1.7	named	com.bytehide.shield	shield-java-gradle-plugin	2026-05-05T21:04:48Z	2.10.1
 0.4.9-beta	named	org.openjproxy	ojp-jdbc-driver	2026-05-05T22:14:49Z	2.12.1
 7.2.5	named	org.biojava	biojava-protein-comparison-tool	2026-05-05T22:25:56Z	2.12.1
+5.1.33	named	io.siddhi	siddhi-service	2026-05-06T00:00:15Z	2.10.1
 1.2.1	named	org.apache.gravitino	gravitino-iceberg-aliyun-bundle	2026-05-06T11:00:57Z	2.11.0
 1.5.0.13.post3	named	io.acryl	datahub-protobuf	2026-05-06T22:47:05Z	2.12.0
 26.1.1	named	org.apache.doris	flink-doris-connector-1.15	2026-05-07T03:43:37Z	2.10.1

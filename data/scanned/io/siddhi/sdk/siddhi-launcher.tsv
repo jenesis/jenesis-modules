@@ -1,2 +1,6 @@
 2.0.0		2019-06-17T07:06:15Z	
 5.0.0		2019-06-19T10:19:07Z	
+5.1.0			
+5.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/sdk/siddhi-launcher/5.1.0-beta/siddhi-launcher-5.1.0-beta.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/siddhi/sdk/siddhi-launcher/5.1.1/siddhi-launcher-5.1.1.jar returned status 404
+5.1.2			

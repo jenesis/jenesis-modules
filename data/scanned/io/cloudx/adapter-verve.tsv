@@ -1,1 +1,5 @@
 3.8.1.0		2026-05-26T14:17:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-verve/3.8.1.0/adapter-verve-3.8.1.0.jar returned status 404
+3.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-verve/3.8.1.1/adapter-verve-3.8.1.1.jar returned status 404
+3.8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-verve/3.8.2.0/adapter-verve-3.8.2.0.jar returned status 404
+3.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-verve/3.9.0.0/adapter-verve-3.9.0.0.jar returned status 404
+3.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-verve/3.9.0.1/adapter-verve-3.9.0.1.jar returned status 404
