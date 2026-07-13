@@ -1,1 +1,3 @@
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/nbbrd/sasquatch/sasquatch-bom/1.1.0/sasquatch-bom-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/nbbrd/sasquatch/sasquatch-bom/1.1.1/sasquatch-bom-1.1.1.jar returned status 404
 1.1.2		2026-06-17T09:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/nbbrd/sasquatch/sasquatch-bom/1.1.2/sasquatch-bom-1.1.2.jar returned status 404

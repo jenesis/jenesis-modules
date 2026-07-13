@@ -4,3 +4,6 @@
 2020.6.5		2020-06-05T01:31:48Z	
 2020.6.5.1		2020-06-05T01:56:34Z	
 2020.6.5.2		2020-06-05T02:16:50Z	
+v1.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hyx2020/helper-mqtt/v1.01/helper-mqtt-v1.01.jar returned status 404
+v1.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hyx2020/helper-mqtt/v1.02/helper-mqtt-v1.02.jar returned status 404
+v1.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hyx2020/helper-mqtt/v1.03/helper-mqtt-v1.03.jar returned status 404

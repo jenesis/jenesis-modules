@@ -1,1 +1,6 @@
 0.0.1		2022-09-09T17:02:05Z	
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/deansquirrel/tools-parent/0.0.2/tools-parent-0.0.2.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/deansquirrel/tools-parent/1.0.0/tools-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/deansquirrel/tools-parent/1.0.1/tools-parent-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/deansquirrel/tools-parent/1.0.2/tools-parent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/deansquirrel/tools-parent/1.0.3/tools-parent-1.0.3.jar returned status 404

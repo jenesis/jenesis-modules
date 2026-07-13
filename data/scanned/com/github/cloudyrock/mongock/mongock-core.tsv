@@ -3,7 +3,9 @@
 2.0.0		2018-12-14T21:21:07Z	
 2.0.0-BETA		2018-11-27T19:46:52Z	
 2.0.1		2019-06-11T22:14:10Z	
+2.0.1.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/2.0.1.BETA/mongock-core-2.0.1.BETA.jar returned status 404
 2.0.2		2019-06-13T21:18:06Z	
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/2.0.4/mongock-core-2.0.4.jar returned status 404
 3.0.0.BETA		2019-07-31T07:03:32Z	
 3.0.1.BETA		2019-08-28T16:46:15Z	
 3.0.2.BETA		2019-08-29T20:43:36Z	
@@ -29,3 +31,13 @@
 3.3.2		2020-05-19T06:24:08Z	
 3.3.2-BETA		2020-04-28T12:26:35Z	
 4.0.0.alpha		2020-05-08T12:29:37Z	
+4.3.12.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.12.BETA/mongock-core-4.3.12.BETA.jar returned status 404
+4.3.13.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.13.BETA/mongock-core-4.3.13.BETA.jar returned status 404
+4.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.3/mongock-core-4.3.3.jar returned status 404
+4.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.4/mongock-core-4.3.4.jar returned status 404
+4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.5/mongock-core-4.3.5.jar returned status 404
+4.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.6/mongock-core-4.3.6.jar returned status 404
+4.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.7/mongock-core-4.3.7.jar returned status 404
+4.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/4.3.8/mongock-core-4.3.8.jar returned status 404
+5.0.0.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/5.0.0.BETA/mongock-core-5.0.0.BETA.jar returned status 404
+5.0.1.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/cloudyrock/mongock/mongock-core/5.0.1.BETA/mongock-core-5.0.1.BETA.jar returned status 404

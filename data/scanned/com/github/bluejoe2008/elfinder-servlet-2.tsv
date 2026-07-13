@@ -1,3 +1,5 @@
 1.0		2015-09-29T13:36:39Z	
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bluejoe2008/elfinder-servlet-2/1.1/elfinder-servlet-2-1.1.jar returned status 404
 1.1	classes	2015-10-05T14:11:11Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bluejoe2008/elfinder-servlet-2/1.2/elfinder-servlet-2-1.2.jar returned status 404
 1.2	classes	2016-06-20T09:43:44Z	

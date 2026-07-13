@@ -1,9 +1,15 @@
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.3/crcl4java-vaadin-webapp-1.3.jar returned status 404
 1.3	exec-war	2016-04-20T12:32:42Z	
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.4/crcl4java-vaadin-webapp-1.4.jar returned status 404
 1.4	classes	2017-07-27T19:49:24Z	
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.5/crcl4java-vaadin-webapp-1.5.jar returned status 404
 1.5	classes	2018-03-20T19:40:52Z	
+1.5-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.5-1/crcl4java-vaadin-webapp-1.5-1.jar returned status 404
 1.5-1	classes	2018-03-20T20:36:59Z	
 1.5-1	exec-war	2018-03-20T20:37:21Z	
+1.7-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.7-1/crcl4java-vaadin-webapp-1.7-1.jar returned status 404
 1.7-1	classes	2018-04-27T19:43:41Z	
 1.7-1	exec-war	2018-04-27T19:44:00Z	
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wshackle/crcl4java-vaadin-webapp/1.8/crcl4java-vaadin-webapp-1.8.jar returned status 404
 1.8	classes	2018-05-01T13:36:44Z	
 1.8	exec-war	2018-05-01T13:36:34Z	

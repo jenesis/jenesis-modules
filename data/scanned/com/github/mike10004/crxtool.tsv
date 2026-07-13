@@ -1,3 +1,14 @@
 0.1		2017-11-03T15:17:00Z	
+0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.10/crxtool-0.10.jar returned status 404
+0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.11/crxtool-0.11.jar returned status 404
+0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.12/crxtool-0.12.jar returned status 404
+0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.14/crxtool-0.14.jar returned status 404
+0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.15/crxtool-0.15.jar returned status 404
+0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.16/crxtool-0.16.jar returned status 404
 0.2		2017-11-20T21:12:44Z	
 0.3		2017-12-11T15:41:58Z	
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.5/crxtool-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.6/crxtool-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.7/crxtool-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.8/crxtool-0.8.jar returned status 404
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/mike10004/crxtool/0.9/crxtool-0.9.jar returned status 404

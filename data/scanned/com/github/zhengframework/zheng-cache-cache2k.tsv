@@ -6,3 +6,5 @@
 1.5.0		2020-05-02T10:15:22Z	
 1.6.0		2020-05-03T02:27:01Z	
 1.7.0		2020-05-04T09:02:10Z	
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zhengframework/zheng-cache-cache2k/1.7.1/zheng-cache-cache2k-1.7.1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zhengframework/zheng-cache-cache2k/1.8.0/zheng-cache-cache2k-1.8.0.jar returned status 404

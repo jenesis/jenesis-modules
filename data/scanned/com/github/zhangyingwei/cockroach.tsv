@@ -8,3 +8,5 @@
 1.0.5.02-Beta		2018-01-19T07:45:23Z	
 1.0.5.03-Alpha		2018-02-10T02:25:51Z	
 1.0.5.03-Beta		2018-02-10T13:20:53Z	
+1.0.5.04-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zhangyingwei/cockroach/1.0.5.04-Beta/cockroach-1.0.5.04-Beta.jar returned status 404
+1.0.6-Beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/zhangyingwei/cockroach/1.0.6-Beta/cockroach-1.0.6-Beta.jar returned status 404

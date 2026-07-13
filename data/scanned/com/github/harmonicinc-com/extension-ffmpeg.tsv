@@ -1,3 +1,18 @@
+2.11.${env.BUILD_NUMBER}			IllegalArgumentException: Illegal character in path at index 50: com/github/harmonicinc-com/extension-ffmpeg/2.11.${env.BUILD_NUMBER}/extension-ffmpeg-2.11.${env.BUILD_NUMBER}.jar
+2.11.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.11/extension-ffmpeg-2.11.11.jar returned status 404
+2.11.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.12/extension-ffmpeg-2.11.12.jar returned status 404
+2.11.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.21/extension-ffmpeg-2.11.21.jar returned status 404
+2.11.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.25/extension-ffmpeg-2.11.25.jar returned status 404
+2.11.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.26/extension-ffmpeg-2.11.26.jar returned status 404
+2.11.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.28/extension-ffmpeg-2.11.28.jar returned status 404
+2.11.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.29/extension-ffmpeg-2.11.29.jar returned status 404
+2.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.3/extension-ffmpeg-2.11.3.jar returned status 404
+2.11.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.30/extension-ffmpeg-2.11.30.jar returned status 404
+2.11.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.31/extension-ffmpeg-2.11.31.jar returned status 404
+2.11.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.32/extension-ffmpeg-2.11.32.jar returned status 404
+2.11.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.36/extension-ffmpeg-2.11.36.jar returned status 404
+2.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.4/extension-ffmpeg-2.11.4.jar returned status 404
+2.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.11.9/extension-ffmpeg-2.11.9.jar returned status 404
 2.13.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.13.12/extension-ffmpeg-2.13.12.jar returned status 404
 2.13.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.13.13/extension-ffmpeg-2.13.13.jar returned status 404
 2.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/harmonicinc-com/extension-ffmpeg/2.13.5/extension-ffmpeg-2.13.5.jar returned status 404
